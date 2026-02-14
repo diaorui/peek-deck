@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T14:54:53.003080+00:00'
+updated: '2026-02-14T15:27:02.130019+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - social
 - videos
-- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 14:54 UTC  
+**Last Updated:** February 14, 2026 at 15:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Spotify credits Claude Code and its internal AI system Honk with speeding up dev
 
 Long before AI, I realized that fighting / arguing with my wife is way more effective over text. In the middle of a heated fight I would just tell her “let’s move to text” and go sit on a bench outside near the lake where it’s calm. The reason is - when it’s heated face to face, you make poor word choices because you don’t have time to think. So you say all torn things you don’t mean, and it’s compounded by the fact that your partner make their own interpretations based on their trauma, patterns and defense mechanisms. It’s a recipe for disaster. Fighting over text allows you to think. It allows you to read their messages twice. Think about what they are really saying, then spend a few mins thinking about how to respond. Type… delete… type… read it thoroughbred eyes, rephrase so it’s clearer, realize you’re wrong about something, change it… send. —- Wife and I have been together since a young age, and we did one smart thing - we went to couples therapy BEFORE we started having serious trouble. What I’ve learned back then is that 90% of trouble in a relationship is about communication. Men and women communicate differently. It helped us get through a lot, but after 15 years and 2 kids we found ourselves struggling. We did another round of couples therapy, and again, it turned out 90% of our problems were rooted in different perspectives we couldn’t communicate to eachother because one persons hears something else than what the other said. — Recently I’ve started involving Claude. I know it sounds bad, but stay with me. No, I don’t let Claude fight with my wife for me. But I’ll often take a screenshot of her message, and ask him “what does she REALLY mean here?” He will often see things that I can’t see through my anger. Being cool and emotionally detached is a huge advantage - just like our therapist had. Sometimes I’ll upload a screenshot of a short correspondence and ask for his opinion. He will often tell me im wrong, or just ask me “hey, why sis you say X? It’s not related to what she asked you” and we’ll dig into it and realize im carrying something from my childhood, or a bad model drom my parents. Often I will run my responses by him before sending. And he will often go “bro, this will just trigger her, maybe rephrase” and help me do it. What I’ve noticed is that our arguments got a lot shorter. She suddenly responds with “ok I get it” etc instead of blowing up because I triggered her. When we end up still disagreeing, we at least see each others point if view, and are able to be show empathy one another, despite not seeing eye to eye, and work together towards a solution or compromise - much easier when you know what the other side really needs. Tips for using Claude for relationships: Be honest about it with your partner. Explain what I explained here if they feel weird about it. Ask to try it once. Of you both do it - don’t ask other what Claude wrote and what they did. Doesn’t help anyone. 🚨 IMPORTANT: Claude is not a replacement for professional. This isn’t instead of therapy for you or couples therapy for both of you. Any mental health help from AI is potentially dangerous. Use responsibility just like you drink responsibly, or use a know in the kitchen responsibly, or take medicine responsibly. Don’t let it be your cheerleader. This is t about AI telling you about you’re right and he or she is wrong. And Claude will do that, because you’re the one paying it. Tell him specifically that you need 100% honesty, and a mirror, otherwise he’s not helping you, only hurting you. Use a project, put that last thing as custom instructions. When you run into key points in arguments, touching rooots of issues etc - export the chat part and upload to the object files (example (“why I always respond like X when she Y’s”) Claude will get to know your partner, your patterns and relationships ship dysfunctional dynamics, and recognize them in later convos. “Hey hey hey you’re doing that thing again where you push her away when she points out your…. Here’s an opportunity to break this loop!” Or “You know she will be triggered if you send this, rephrase for the love of god lol” This might seem a bit much, or too cold, but I use it very systematically. For example, we recognized my wife suffers from RSD, and made an RSD cheat sheet for sensitive topics, that includes things like when to bring them up, words to avoid, reminders of my patterns I need to be aware of / avoid etc Huge life improvement. — Hope this helps someone. You also get offended you interpret reactions and gestures incorrectly, you make poor word
 
-1h ago
+2h ago
 
 ---
 
@@ -147,13 +147,13 @@ vox.com • 1h ago
 
 **[Bankers’ Winter Getaway to Sunny Florida Is Upended By AI Chaos](https://www.bloomberg.com/news/articles/2026-02-14/bankers-winter-getaway-to-sunny-florida-is-upended-by-ai-chaos)**
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Opinion | How Fast Can A.I. Change the Workplace?](https://www.nytimes.com/2026/02/14/opinion/ai-jobs-employment.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -161,7 +161,7 @@ The New York Times • 2h ago
 
 ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
 
-NPR • 4h ago
+NPR • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ NPR • 4h ago
 
 Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacenters
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -234,7 +234,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 287 • 💬 477 • 19h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 287 • 💬 477 • 20h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -242,7 +242,7 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 268 • 💬 156 • 21h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 268 • 💬 156 • 22h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -286,7 +286,7 @@ A 15-second AI video of Tom Cruise and Brad Pitt has the industry buzzing and co
 
 📺 KTLA 5
 
-👁️ 29K • 👍 195 • 💬 118 • ⏱️ 2:51 • 11h ago
+👁️ 29K • 👍 195 • 💬 118 • ⏱️ 2:51 • 12h ago
 
 ---
 
@@ -376,7 +376,7 @@ Artificial intelligence has been hailed as one of the most transformative techno
 
 📺 ColdFusion
 
-👁️ 392K • 👍 23K • 💬 3K • ⏱️ 12:49 • 23h ago
+👁️ 392K • 👍 23K • 💬 3K • ⏱️ 12:49 • 1d ago
 
 ---
 
@@ -476,7 +476,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 44,892 • ❤️ 836 • 22h ago
+⬇️ 44,892 • ❤️ 836 • 23h ago
 
 ---
 
@@ -530,7 +530,7 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 SceneSmith is a hierarchical agentic framework that generates simulation-ready indoor environments from natural language prompts through multiple stages involving VLM agents and integrated asset generation techniques.
 
-▲ 4 • 💬 2 • ⭐ 192 • 4d ago
+▲ 4 • 💬 2 • ⭐ 192 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.09153) • [💻 code](https://github.com/nepfaff/scenesmith) • [🔗 project](https://scenesmith.github.io/)
 
@@ -694,7 +694,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 11h ago
+⭐ 2.2k • 🔱 108 • 12h ago
 
 ---
 
@@ -714,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 134 • 10h ago
+⭐ 2.0k • 🔱 134 • 11h ago
 
 ---
 

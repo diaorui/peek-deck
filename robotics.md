@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T14:54:53.021253+00:00'
+updated: '2026-02-14T15:27:02.148050+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 14:54 UTC  
+**Last Updated:** February 14, 2026 at 15:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-6h ago
+7h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-4h ago
+5h ago
 
 ---
 
@@ -74,13 +74,13 @@ I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especial
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-20h ago
+21h ago
 
 ---
 
 **[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
-16h ago
+17h ago
 
 ---
 
@@ -154,7 +154,7 @@ Automotive News • 2d ago
 
 At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
-Мілітарний • 22h ago
+Мілітарний • 23h ago
 
 ---
 
@@ -162,7 +162,7 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -198,7 +198,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 181K • 👍 4K • 💬 2K • ⏱️ 9:47 • 23h ago
+👁️ 181K • 👍 4K • 💬 2K • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 63K • 👍 4K • 💬 230 • ⏱️ 12:38 • 23h ago
+👁️ 63K • 👍 4K • 💬 230 • ⏱️ 12:38 • 1d ago
 
 ---
 
@@ -256,7 +256,7 @@ PART 3: I was held prisoner by E.L.B.E.R.R the robot and forced to build him an 
 
 📺 LIGHTS ARE OFF
 
-👁️ 140K • 👍 17K • 💬 3K • ⏱️ 10:32 • 5h ago
+👁️ 140K • 👍 17K • 💬 3K • ⏱️ 10:32 • 6h ago
 
 ---
 

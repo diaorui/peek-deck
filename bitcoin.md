@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T14:54:53.011898+00:00'
+updated: '2026-02-14T15:27:02.138993+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 14:54 UTC  
+**Last Updated:** February 14, 2026 at 15:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-12h ago
+13h ago
 
 ---
 
@@ -149,7 +149,7 @@ I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't n
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1d ago
 
 The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
@@ -215,7 +215,7 @@ The Times • 23h ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 17h ago
+New York Post • 18h ago
 
 ---
 
@@ -321,7 +321,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 234 • ⏱️ 15:20 • 14h ago
+👁️ 43K • 👍 3K • 💬 234 • ⏱️ 15:20 • 15h ago
 
 ---
 
@@ -331,7 +331,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 29K • 👍 1K • ⏱️ 21:49 • 16h ago
+👁️ 29K • 👍 1K • ⏱️ 21:49 • 17h ago
 
 ---
 
@@ -371,7 +371,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 25K • 👍 3K • 💬 410 • ⏱️ 8:15 • 16h ago
+👁️ 25K • 👍 3K • 💬 410 • ⏱️ 8:15 • 17h ago
 
 ---
 
@@ -401,7 +401,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Community (it's free
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 229 • 💬 22 • ⏱️ 8:50 • 17h ago
+👁️ 4K • 👍 229 • 💬 22 • ⏱️ 8:50 • 18h ago
 
 ---
 
