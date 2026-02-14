@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-13T23:31:42.351893+00:00'
+updated: '2026-02-14T02:07:00.944864+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 23:31 UTC  
+**Last Updated:** February 14, 2026 at 02:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,788.47
+### $69,042.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.0%  
-**7d:** -0.6%  
-**30d:** -27.9%  
-**90d:** -26.9%  
+**24h:** +3.8%  
+**7d:** -1.9%  
+**30d:** -27.8%  
+**90d:** -25.2%  
 **1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1376.01B
+**Market Cap:** $1377.39B
 Rank #1
 
-**Circulating Supply:** 19,988,812 BTC
+**Circulating Supply:** 19,988,915 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.4%
+-45.3%
 
 **All-Time Low:** $67.81
-+101380.6%
++101557.6%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-2h ago
+5h ago
 
 ---
 
@@ -87,21 +87,7 @@ Rank #1
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-14h ago
-
----
-
-**[“Clarity on the Clarity Bill would give great comfort to the market” Bessent is working to pump our bags](https://www.reddit.com/r/Bitcoin/comments/1r3tjwq/clarity_on_the_clarity_bill_would_give_great/)**
-
-7h ago
-
----
-
-**[Baby steps](https://www.reddit.com/r/Bitcoin/comments/1r3kzxx/baby_steps/)**
-
-Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
-
-13h ago
+16h ago
 
 ---
 
@@ -109,13 +95,37 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-3h ago
+6h ago
 
 ---
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-6h ago
+9h ago
+
+---
+
+**[Baby steps](https://www.reddit.com/r/Bitcoin/comments/1r3kzxx/baby_steps/)**
+
+Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
+
+16h ago
+
+---
+
+**[Finally reached 0.10 of bitcoin. Just by dca'ing 100 a week](https://www.reddit.com/r/Bitcoin/comments/1r47l03/finally_reached_010_of_bitcoin_just_by_dcaing_100/)**
+
+hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
+
+27m ago
+
+---
+
+**[Remember this post](https://www.reddit.com/r/Bitcoin/comments/1r41hb9/remember_this_post/)**
+
+https://preview.redd.it/d1dm5219wbjg1.png?width=1075&format=png&auto=webp&s=2c66949b20a213da42cac9639897d4aa1dabaefd buy bitcoin on February 13 for 69,000 - it's just a gift
+
+4h ago
 
 ---
 
@@ -123,27 +133,21 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 I’m turning Bitcoin into an anime style story. What would you want it to include?
 
+15h ago
+
+---
+
+**[Why is no one discussing about BIP360?](https://www.reddit.com/r/Bitcoin/comments/1r3phox/why_is_no_one_discussing_about_bip360/)**
+
 12h ago
 
 ---
 
-**[I’ve never had a successful year trading. And I decided to buy Bitcoin at 92k. I said to my friend “there’s no way I can bring down the global economy”](https://www.reddit.com/r/Bitcoin/comments/1r3a905/ive_never_had_a_successful_year_trading_and_i/)**
+**[Can Binance go bankrupt like FTX, or are the situations different?](https://www.reddit.com/r/Bitcoin/comments/1r42i3f/can_binance_go_bankrupt_like_ftx_or_are_the/)**
 
-Well…
+After everything that happened with FTX, I’ve been thinking a lot more about centralized exchanges, especially Binance. Not trying to spread FUD here, just genuinely curious and trying to understand the risks better. Is a Binance bankruptcy even a realistic thing to worry about, or were the problems at FTX very specific to how that exchange was run? How much do things like proof of reserves, how user funds are held, regulation, and transparency actually matter in preventing something like that from happening again? For anyone who still keeps funds on exchanges, how do you personally think about the risk now compared to before the FTX collapse?
 
-23h ago
-
----
-
-**[Bitcoin, what are you doing](https://www.reddit.com/r/Bitcoin/comments/1r2u1yl/bitcoin_what_are_you_doing/)**
-
-1d ago
-
----
-
-**[VanEck said it knows 13 governments that are actively mining Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r35qqv/vaneck_said_it_knows_13_governments_that_are/)**
-
-1d ago
+4h ago
 
 ---
 
@@ -153,37 +157,29 @@ Well…
 
 **[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
 
-Bloomberg.com • 19h ago
-
----
-
-**[Bitcoin Price Slides After US Admits Nearly 1 Million ‘Phantom’ Jobs in Data Revision](https://finance.yahoo.com/news/bitcoin-price-slides-us-admits-130321937.html)**
-
-Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
-
-Yahoo Finance • 10h ago
+Bloomberg • 21h ago
 
 ---
 
 **[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 9h ago
 
 ---
 
-**[Beware Dip Buyers, Bitcoin Is Entering Its 'Winter Phase', New Report Finds](https://finance.yahoo.com/news/beware-dip-buyers-bitcoin-entering-213117004.html)**
+**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
 
-Bitcoin (CRYPTO: BTC) may be quietly transitioning into a new "winter phase," even as prices remain historically elevated, a new report shows. Bitcoin Entering New ‘Winter Phase'? According to CryptoQuant, current conditions increasingly resemble the early stages of a broader...
+Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
 
-Yahoo Finance • 2h ago
+CNBC • 1d ago
 
 ---
 
-**[3 Macro Drivers Providing Big Catalysts for Bitcoin's 5% Surge Higher Today](https://finance.yahoo.com/news/3-macro-drivers-providing-big-212527484.html)**
+**[Coinbase Only 22% To Beat Its Earnings As Bitcoin, Ethereum, XRP Drag Down COIN](https://finance.yahoo.com/news/coinbase-only-22-beat-earnings-013112399.html)**
 
-Bitcoin's 5% rise today has some investors questioning whether reversing course on bearish bets makes sense.
+Polymarket traders are giving Coinbase Global, Inc. (NASDAQ:COIN) just a 22% chance of beating Wall Street estimates ahead of its fourth-quarter earnings report today. The Polymarket contract tracking whether COIN will exceed the Street consensus of $0.61 in GAAP EPS...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 36m ago
 
 ---
 
@@ -201,19 +197,25 @@ NewsNation • 1d ago
 
 ---
 
-**[TMZ Receives Third Email in Nancy Guthrie Kidnapping, Demanding Higher Reward](https://www.tmz.com/2026/02/13/tmz-receives-third-email-bitcoin-demand-for-nancy-guthrie-info/)**
+**[Crypto expert explains why bitcoin makes 'perfect record' for tracking down criminals](https://www.foxbusiness.com/lifestyle/crypto-expert-explains-why-bitcoin-makes-perfect-record-tracking-down-criminals)**
 
-TMZ just received a third email from the man who claims he knows the identity of Nancy Guthrie's kidnapper ... and he has upped his price.
+Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
 
-TMZ • 2h ago
+Fox Business • 1d ago
 
 ---
 
-**[CryptoQuant says bitcoin's 'ultimate' bear market bottom is around $55,000](https://www.theblock.co/post/389919/cryptoquant-bitcoin-ultimate-bear-market-bottom-55000)**
+**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
 
-CQ said bitcoin has not reached full capitulation yet, as key onchain indicators remain in a Bear Phase rather than the Extreme Bear Phase.
+Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-The Block • 2h ago
+New York Post • 4h ago
+
+---
+
+**[Bitcoin Price May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqcUVPWZjmbEjvMNBp__zl_4OIwncUpg7QtfShRpUpDEXn3mTGgPWMVf&gaa_ts=698fdc32&gaa_sig=Ot1NC3qx1OvoFDhhxeuXb8YiBJYXLcA3Bo1fPSDjlSDJ54K3H_wRh7OkAaYYwhdZL588a8cOyjUzYGaoEsUZJQ%3D%3D)**
+
+Barron's • 13h ago
 
 ---
 
@@ -221,7 +223,7 @@ The Block • 2h ago
 
 The corporate adoption of bitcoin was dominated by a single player last month — Strategy.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -299,7 +301,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 9h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 12h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -307,13 +309,23 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
+
+Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
+
+📺 Anthony Pompliano
+
+👁️ 11K • 👍 635 • ⏱️ 21:49 • 4h ago
+
+---
+
 **[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
 
 Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
 
 📺 Mark Moss
 
-👁️ 199K • 👍 7K • 💬 1K • ⏱️ 16:43 • 1d ago
+👁️ 214K • 👍 7K • 💬 1K • ⏱️ 16:43 • 1d ago
 
 ---
 
@@ -323,17 +335,17 @@ Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin
 
 📺 Fox Business
 
-👁️ 34K • 👍 682 • 💬 1K • ⏱️ 8:19 • 17h ago
+👁️ 39K • 👍 755 • 💬 2K • ⏱️ 8:19 • 19h ago
 
 ---
 
-**[Bitcoin Is Being MISPRICED And the Data is INSANE!](https://www.youtube.com/watch?v=DpvDFcy670s)**
+**[Bitcoin Bottoms HERE!](https://www.youtube.com/watch?v=-e3nNnAN7DE)**
 
-Bitcoin is trading at extreme correlation levels with software stocks, pushing its 90-day correlation into the 96th percentile and ...
+A MAJOR MOVEMENT IS AROUND THE CORNER! Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 ...
 
-📺 Swan Bitcoin
+📺 Crypto Jebb
 
-👁️ 3K • 👍 287 • 💬 43 • ⏱️ 11:53 • 6h ago
+👁️ 5K • 👍 352 • 💬 77 • ⏱️ 17:23 • 7h ago
 
 ---
 
@@ -343,17 +355,17 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 30K • 👍 1K • 💬 614 • ⏱️ 8:08 • 22h ago
+👁️ 31K • 👍 1K • 💬 658 • ⏱️ 8:08 • 1d ago
 
 ---
 
-**[What BlackRock said about Bitcoin Can&#39;t Be Real](https://www.youtube.com/watch?v=YSG-CH_uLNA)**
+**[Is Bitcoin Near CAPITULATION and a Bottom?](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
 
-Make Free Bitcoin & Crypto Predictions on *ClashPicks* ▻ https://www.clashpicks.com/ Connect your wallet and claim free ...
+Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
 
-📺 CryptosRUs
+📺 Alessio Rastani
 
-👁️ 48K • 👍 2K • 💬 412 • ⏱️ 10:01 • 1d ago
+👁️ 7K • 👍 1K • 💬 133 • ⏱️ 8:15 • 3h ago
 
 ---
 
@@ -363,7 +375,17 @@ The crypto market is on a knife-edge. This Friday, February 13, 2026, we just wi
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 401 • 💬 40 • ⏱️ 1:13:51 • 6h ago
+👁️ 7K • 👍 428 • 💬 37 • ⏱️ 1:13:51 • 9h ago
+
+---
+
+**[Bitcoin Sentiment Cracks As Coinbase Posts Massive Losses &amp; Capital Exits!](https://www.youtube.com/watch?v=YY-toi0Ck3o)**
+
+Bitcoin #Crypto #Finance Bitcoin sentiment is starting to crack as capital flows weaken and Coinbase posts significant losses, ...
+
+📺 The Wolf Of All Streets
+
+👁️ 13K • 👍 759 • 💬 230 • ⏱️ 28:01 • 11h ago
 
 ---
 
@@ -373,37 +395,17 @@ LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register
 
 📺 Altcoin Daily
 
-👁️ 77K • 👍 787 • 💬 234 • ⏱️ 0:34 • 1d ago
+👁️ 83K • 👍 835 • 💬 245 • ⏱️ 0:34 • 1d ago
 
 ---
 
-**[How low will Bitcoin go?](https://www.youtube.com/watch?v=WUJwW3mf6to)**
+**[Largest Bitcoin Miner Predicts Next Bitcoin Bull Run](https://www.youtube.com/watch?v=XyChljTBrOk)**
 
-Let's talk about a few indicators that give some suggestions on how low the price of Bitcoin could eventually go. Into The ...
+Fred Thiel is the CEO of Marathon Digital and a leading voice at the intersection of bitcoin, energy, and data center infrastructure.
 
-📺 Benjamin Cowen
+📺 Anthony Pompliano
 
-👁️ 156K • 👍 9K • 💬 665 • ⏱️ 23:30 • 1d ago
-
----
-
-**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
-
-We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
-
-📺 More Perfect Union
-
-👁️ 1.4M • 👍 84K • 💬 7K • ⏱️ 2:50 • 2d ago
-
----
-
-**[Did Pam Bondi’s CRASH OUT Signal a Bitcoin BREAKOUT?](https://www.youtube.com/watch?v=aDL3QVutH8Q)**
-
-Pam Bondi gets slammed on live TV and the cracks in the system are impossible to ignore. As global uncertainty explodes and the ...
-
-📺 Simply Bitcoin
-
-👁️ 25K • 👍 2K • 💬 358 • ⏱️ 21:31 • 1d ago
+👁️ 44K • 👍 1K • 💬 68 • ⏱️ 18:55 • 1d ago
 
 ---
 

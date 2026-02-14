@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-13T23:31:42.357118+00:00'
+updated: '2026-02-14T02:07:00.950913+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 13, 2026 at 23:31 UTC  
+**Last Updated:** February 14, 2026 at 02:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,49 +36,49 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,045.73
+### $2,042.12
 
 ---
 
 ## Ethereum Chart
 
 **24h:** +5.3%  
-**7d:** -2.1%  
-**30d:** -38.1%  
-**90d:** -33.8%  
-**1y:** -24.7%  
+**7d:** -1.6%  
+**30d:** -37.7%  
+**90d:** -32.2%  
+**1y:** -23.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.64B
+**Market Cap:** $247.72B
 Rank #2
 
-**Circulating Supply:** 120,692,487 ETH
+**Circulating Supply:** 120,692,468 ETH
 No max supply
 
 **All-Time High:** $4,946.05
 -58.5%
 
 **All-Time Low:** $0.43
-+473671.2%
++474010.8%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 6h ago
+
+---
+
 **[Daily General Discussion February 13, 2026](https://www.reddit.com/r/ethereum/comments/1r3hd2w/daily_general_discussion_february_13_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
-
----
-
-**[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 3h ago
+20h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 3h ago
+🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 5h ago
 
 ---
 
@@ -94,7 +94,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 10h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 13h ago
 
 ---
 
@@ -102,7 +102,7 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 This is the second article in a series about deterministic deployments, where we explore the question: how can we deploy a contract at the same address in multiple chains? In the first part we discussed three possible answers: deploying with the same private key and nonce, using Nick’s method, and pre-signing transactions. In this entry we’ll discuss two other approaches: CREATE2 factories and CREATE3.
 
-🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 15h ago
+🔗 [Cethology](https://paragraph.com/@cethology/deterministic-deployments-part-2-create2-based-approaches) • 17h ago
 
 ---
 
@@ -110,13 +110,13 @@ This is the second article in a series about deterministic deployments, where we
 
 ACDE #230 saw Ethereum core developers focus on Glamsterdam Devnet performance, eth/70 networking safeguards, and a narrowing Hegotá headliner race led by encrypted mempool proposals.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 20h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-230/) • 22h ago
 
 ---
 
 **[I got HTTP 402 working as an actual payment protocol for AI agents, here's what I learned](https://www.reddit.com/r/ethereum/comments/1r3bm1g/i_got_http_402_working_as_an_actual_payment/)**
 
-22h ago
+1d ago
 
 ---
 
@@ -148,27 +148,19 @@ Responding to https://firefly.social/post/x/2021632354649821275 My first reactio
 
 ## Google News: "ethereum"
 
-**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
-
-The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin Will Fall to $50K and Ethereum Will Hit $1,400 Before Rebound: Standard Chartered](https://decrypt.co/357858/bitcoin-50k-ethereum-1400-before-rebound-standard-chartered)**
-
-Standard Chartered predicts Bitcoin will hit $100K and Ethereum will rise to $4,000 by the end of 2026, but expects further drops first.
-
-Decrypt • 1d ago
-
----
-
-**[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://finance.yahoo.com/news/trump-media-files-launch-truth-212246960.html)**
+**[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Yahoo Finance • 2h ago
+Decrypt • 4h ago
+
+---
+
+**[US Investors Might Be Leaving Bitcoin and Ethereum ETFs for International Markets](https://finance.yahoo.com/news/us-investors-might-leaving-bitcoin-223604887.html)**
+
+Bitcoin and Ethereum ETFs face sustained outflows as investors rotate into international equities and higher-yield assets.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,11 +172,27 @@ Sherwood News • 2d ago
 
 ---
 
+**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
+
+The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
+
+The Block • 1d ago
+
+---
+
+**[Coinbase Only 22% To Beat Its Earnings As Bitcoin, Ethereum, XRP Drag Down COIN](https://finance.yahoo.com/news/coinbase-only-22-beat-earnings-013112399.html)**
+
+Polymarket traders are giving Coinbase Global, Inc. (NASDAQ:COIN) just a 22% chance of beating Wall Street estimates ahead of its fourth-quarter earnings report today. The Polymarket contract tracking whether COIN will exceed the Street consensus of $0.61 in GAAP EPS...
+
+Yahoo Finance • 36m ago
+
+---
+
 **[Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
 
 Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-CoinDesk • 8h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -192,23 +200,7 @@ CoinDesk • 8h ago
 
 Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-dlnews.com • 14h ago
-
----
-
-**[Ethereum Caught Between Weak Bounce And High-Timeframe Risk – What’s Next?](https://www.tradingview.com/news/newsbtc:50222ecdc094b:0-ethereum-caught-between-weak-bounce-and-high-timeframe-risk-what-s-next/)**
-
-Ethereum is attempting to stabilize after its recent pullback, but the recovery so far lacks convincing strength. With price rejecting key levels and higher-timeframe risks still looming, ETH finds itself at a critical decision point where the next structural move could define the short-term trend…
-
-TradingView • 21h ago
-
----
-
-**[Ethereum Based Meme Coin Pepeto Announces $7M+ Presale Milestone Ahead of Binance Listing as Bitcoin Volatility Persists](https://markets.businessinsider.com/news/stocks/ethereum-based-meme-coin-pepeto-announces-7m-presale-milestone-ahead-of-binance-listing-as-bitcoin-volatility-persists-1035825465)**
-
-DUBAI, United Arab Emirates, Feb.  13, 2026  (GLOBE NEWSWIRE) -- Pepeto (PEPETO), an Ethereum-based meme-utility project, has officially crossed $...
-
-markets.businessinsider.com • 11h ago
+dlnews.com • 16h ago
 
 ---
 
@@ -216,15 +208,21 @@ markets.businessinsider.com • 11h ago
 
 The world's second-largest cryptocurrency is up more than 7% today.
 
-The Motley Fool • 1h ago
+The Motley Fool • 4h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP stay weak as bearish momentum persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-stay-weak-as-bearish-momentum-persists-202602130354)**
+**[Ethereum Caught Between Weak Bounce And High-Timeframe Risk – What’s Next?](https://www.tradingview.com/news/newsbtc:50222ecdc094b:0-ethereum-caught-between-weak-bounce-and-high-timeframe-risk-what-s-next/)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
+Ethereum is attempting to stabilize after its recent pullback, but the recovery so far lacks convincing strength. With price rejecting key levels and higher-timeframe risks still looming, ETH finds itself at a critical decision point where the next structural move could define the short-term trend…
 
-FXStreet • 19h ago
+TradingView • 1d ago
+
+---
+
+**[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
+
+TipRanks • 11h ago
 
 ---
 
@@ -238,7 +236,7 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 📺 Thomas Kralow
 
-👁️ 22K • 👍 3K • 💬 113 • ⏱️ 10:34 • 12h ago
+👁️ 23K • 👍 3K • 💬 91 • ⏱️ 10:34 • 14h ago
 
 ---
 
@@ -248,7 +246,7 @@ BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 3K • 👍 191 • 💬 73 • ⏱️ 17:20 • 4h ago
+👁️ 5K • 👍 252 • 💬 75 • ⏱️ 17:20 • 6h ago
 
 ---
 
@@ -258,17 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 163 • 💬 17 • ⏱️ 3:30 • 8h ago
-
----
-
-**[Biggest Crypto News Happening Now!! [BlackRock + Joe Rogan + Ethereum]](https://www.youtube.com/watch?v=mp3jUibJvFg)**
-
-BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a channel member & get access to ...
-
-📺 Altcoin Daily
-
-👁️ 58K • 👍 3K • 💬 427 • ⏱️ 9:41 • 1d ago
+👁️ 2K • 👍 165 • 💬 18 • ⏱️ 3:30 • 10h ago
 
 ---
 
@@ -278,7 +266,17 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 6K • 👍 275 • 💬 336 • ⏱️ 14:31 • 18h ago
+👁️ 8K • 👍 308 • 💬 342 • ⏱️ 14:31 • 21h ago
+
+---
+
+**[Biggest Crypto News Happening Now!! [BlackRock + Joe Rogan + Ethereum]](https://www.youtube.com/watch?v=mp3jUibJvFg)**
+
+BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a channel member & get access to ...
+
+📺 Altcoin Daily
+
+👁️ 59K • 👍 3K • 💬 427 • ⏱️ 9:41 • 2d ago
 
 ---
 
@@ -288,7 +286,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 108 • 👍 7 • 💬 2 • ⏱️ 6:02 • 3h ago
+👁️ 198 • 👍 11 • 💬 2 • ⏱️ 6:02 • 6h ago
 
 ---
 
@@ -298,7 +296,7 @@ Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR),
 
 📺 The Crypto Times
 
-👁️ 20K • 👍 464 • 💬 101 • ⏱️ 15:00 • 2d ago
+👁️ 20K • 👍 467 • 💬 104 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -312,13 +310,13 @@ This is all about why Bitcoin and crypto is set to explode! Do not miss the big 
 
 ---
 
-**[If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! ](https://www.youtube.com/watch?v=W_bB1pzjoNs)**
+**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Rt6-k5GEhsM)**
 
-If you own XRP, SOL, ETH or Bitcoin Watch This Immediately! CoinDuel AI - This AI-powered tool instantly compares tokens ...
+BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
-📺 Zach Humphries
+📺 Crypto World
 
-👁️ 7K • 👍 644 • 💬 44 • ⏱️ 5:43 • 3d ago
+👁️ 11K • 👍 396 • 💬 212 • ⏱️ 21:40 • 1d ago
 
 ---
 
@@ -328,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:01 • 19h ago
+👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:01 • 22h ago
 
 ---
 
