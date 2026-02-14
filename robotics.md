@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T12:51:58.641395+00:00'
+updated: '2026-02-14T13:45:26.201284+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 12:51 UTC  
+**Last Updated:** February 14, 2026 at 13:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-4h ago
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2022353637964751221 Figure on 𝕏: https://x.com/Figure_robot/status/2022352809459609896
 
-16m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2022353637964751221
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-2h ago
+3h ago
 
 ---
 
@@ -82,19 +82,19 @@ I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especial
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-18h ago
+19h ago
 
 ---
 
 **[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Are you a ROS user curious about copper-rs & the rust ecosystem? we made a book for you!](https://www.reddit.com/r/robotics/comments/1r44sm7/are_you_a_ros_user_curious_about_copperrs_the/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -102,7 +102,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
-14h ago
+15h ago
 
 ---
 
@@ -144,7 +144,7 @@ ChinaPower Project • 1d ago
 
 At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
-Мілітарний • 20h ago
+Мілітарний • 21h ago
 
 ---
 
@@ -152,7 +152,7 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
 
-The Jerusalem Post • 14h ago
+The Jerusalem Post • 15h ago
 
 ---
 
@@ -198,7 +198,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 176K • 👍 4K • 💬 2K • ⏱️ 9:47 • 21h ago
+👁️ 176K • 👍 4K • 💬 2K • ⏱️ 9:47 • 22h ago
 
 ---
 
@@ -236,7 +236,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 60K • 👍 3K • 💬 224 • ⏱️ 12:38 • 21h ago
+👁️ 60K • 👍 3K • 💬 224 • ⏱️ 12:38 • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ PART 3: I was held prisoner by E.L.B.E.R.R the robot and forced to build him an 
 
 📺 LIGHTS ARE OFF
 
-👁️ 14K • 👍 8K • 💬 1K • ⏱️ 10:32 • 3h ago
+👁️ 14K • 👍 8K • 💬 1K • ⏱️ 10:32 • 4h ago
 
 ---
 
@@ -286,7 +286,7 @@ Humanoid robots are pushing physical limits — with real-time balance control, 
 
 📺 Facts TV 91
 
-👁️ 21K • 👍 177 • 💬 10 • ⏱️ 0:06 • 11h ago
+👁️ 21K • 👍 177 • 💬 10 • ⏱️ 0:06 • 12h ago
 
 ---
 

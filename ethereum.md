@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T12:51:58.638265+00:00'
+updated: '2026-02-14T13:45:26.198116+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 12:51 UTC  
+**Last Updated:** February 14, 2026 at 13:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-6h ago
+7h ago
 
 ---
 
 **[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 16h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 17h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 16h ago
+🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 23h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 1d ago
 
 ---
 
@@ -152,7 +152,7 @@ Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-prese
 
 BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -160,19 +160,19 @@ Yahoo Finance • 23h ago
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
 **[Key facts: Standard Chartered forecasts Ethereum drop; ETFs see outflows; active addresses surge](https://www.tradingview.com/news/tradingview:cb7e47af4256e:0-key-facts-standard-chartered-forecasts-ethereum-drop-etfs-see-outflows-active-addresses-surge/)**
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
 **[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
 
-TipRanks • 21h ago
+TipRanks • 22h ago
 
 ---
 
@@ -180,7 +180,7 @@ TipRanks • 21h ago
 
 The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Motley Fool • 1h ago
 
 Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -220,7 +220,7 @@ TradingView • 1d ago
 
 Bitcoin (BTC) holds above support at $65,118 at the time of writing on Friday. The Crypto King shows subtle signs of recovery after extending declines for four consecutive days through Thursday, reflecting a sticky rise-off sentiment in the broader crypto market.
 
-FXStreet • 23h ago
+FXStreet • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 167 • 💬 5 • ⏱️ 4:31 • 9h ago
+👁️ 2K • 👍 167 • 💬 5 • ⏱️ 4:31 • 10h ago
 
 ---
 
@@ -254,7 +254,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 35 • 👍 6 • 💬 1 • ⏱️ 4:46 • 2h ago
+👁️ 35 • 👍 6 • 💬 1 • ⏱️ 4:46 • 3h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 9K • 👍 321 • 💬 129 • ⏱️ 17:20 • 17h ago
+👁️ 9K • 👍 321 • 💬 129 • ⏱️ 17:20 • 18h ago
 
 ---
 
@@ -284,7 +284,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 21h ago
+👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 22h ago
 
 ---
 
@@ -312,7 +312,7 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 New York Angelo Podcast
 
-👁️ 76 • ⏱️ 1:31 • 13h ago
+👁️ 76 • ⏱️ 1:31 • 14h ago
 
 ---
 
