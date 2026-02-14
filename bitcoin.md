@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T23:26:15.481209+00:00'
+updated: '2026-02-14T23:48:51.010628+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 23:26 UTC  
+**Last Updated:** February 14, 2026 at 23:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-14h ago
+15h ago
 
 ---
 
@@ -127,7 +127,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-21h ago
+22h ago
 
 ---
 
@@ -151,7 +151,7 @@ What are good metal plates to put in your seed phrase ? Are the ones from Trezor
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/watch?v=4boOmhAB3bo&si=wBGsjVeywURO3xPh) • 7h ago
+🔗 [youtube.com](https://youtube.com/watch?v=4boOmhAB3bo&si=wBGsjVeywURO3xPh) • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T23:26:15.487514+00:00'
+updated: '2026-02-14T23:48:51.016545+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 23:26 UTC  
+**Last Updated:** February 14, 2026 at 23:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Recently I have been starting to worry about the state of prediction markets, in
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 1h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 2h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 153 • 💬 3 • ⏱️ 4:28 • 9h ago
+👁️ 2K • 👍 153 • 💬 3 • ⏱️ 4:28 • 10h ago
 
 ---
 
@@ -308,7 +308,7 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 419 • ⏱️ 9:41 • 2d ago
+👁️ 60K • 👍 3K • 💬 419 • ⏱️ 9:41 • 3d ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 272 • 👍 15 • 💬 1 • ⏱️ 4:46 • 12h ago
+👁️ 272 • 👍 15 • 💬 1 • ⏱️ 4:46 • 13h ago
 
 ---
 
