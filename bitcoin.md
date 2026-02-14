@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T20:28:09.961006+00:00'
+updated: '2026-02-14T20:53:13.050782+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 20:28 UTC  
+**Last Updated:** February 14, 2026 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,663.73
+### $69,882.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** -0.7%  
-**30d:** -26.9%  
-**90d:** -24.3%  
-**1y:** -28.4%  
+**24h:** +1.5%  
+**7d:** -0.5%  
+**30d:** -26.8%  
+**90d:** -24.2%  
+**1y:** -28.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1394.13B
+**Market Cap:** $1398.18B
 Rank #1
 
-**Circulating Supply:** 19,989,293 BTC
+**Circulating Supply:** 19,989,321 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.7%
+-44.5%
 
 **All-Time Low:** $67.81
-+102752.1%
++103055.9%
 
 ---
 
@@ -77,14 +77,6 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[the direction](https://www.reddit.com/r/Bitcoin/comments/1r4fn76/the_direction/)**
-
-Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
-
-11h ago
-
----
-
 **[Dan Morehead from Pantera Capital, just said what everyone's thinking but nobody's saying: "There will be a global arms race for Bitcoin within the next 2-3 years."](https://www.reddit.com/r/Bitcoin/comments/1r4pv07/dan_morehead_from_pantera_capital_just_said_what/)**
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
@@ -95,15 +87,23 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-23h ago
+1d ago
 
 ---
 
-**[Patriotic Millionaires' Erica Payne wants to preserve your FREEDOM, through the means of CONTROL & THEFT. This is why they hate Bitcoin so much and why Bitcoin will eventually WIN](https://www.reddit.com/r/Bitcoin/comments/1r4sk6h/patriotic_millionaires_erica_payne_wants_to/)**
+**[A HUGE number of people are waiting for 30k-50k to buy](https://www.reddit.com/r/Bitcoin/comments/1r4txht/a_huge_number_of_people_are_waiting_for_30k50k_to/)**
 
-Bitcoin's censorship resistance preserves freedom from control.
+It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
 1h ago
+
+---
+
+**[the direction](https://www.reddit.com/r/Bitcoin/comments/1r4fn76/the_direction/)**
+
+Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
+
+12h ago
 
 ---
 
@@ -119,15 +119,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-18h ago
-
----
-
-**[If its not going down…](https://www.reddit.com/r/Bitcoin/comments/1r48jrp/if_its_not_going_down/)**
-
-Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
-
-18h ago
+19h ago
 
 ---
 
@@ -136,6 +128,14 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a way to reduce commissions? It seems that buying monthly would be more productive
 
 5h ago
+
+---
+
+**[If its not going down…](https://www.reddit.com/r/Bitcoin/comments/1r48jrp/if_its_not_going_down/)**
+
+Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
+
+18h ago
 
 ---
 
@@ -149,7 +149,7 @@ Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a
 
 Hi everyone, I’m new and recently bought about ¥75,000 worth of Bitcoin. I’m planning to hold for the long run and continue learning. I’m curious how more experienced people think about building their position over time. Do you follow a fixed schedule, focus on conviction, or have rules you stick to during volatility? I’m not asking for price predictions; just hoping to understand different approaches and mindsets. Thanks a lot
 
-5h ago
+6h ago
 
 ---
 
@@ -165,6 +165,22 @@ CoinDesk • 8h ago
 
 ---
 
+**[CryptoQuant says bitcoin's 'ultimate' bear market bottom is around $55,000](https://www.theblock.co/post/389919/cryptoquant-bitcoin-ultimate-bear-market-bottom-55000)**
+
+CQ said bitcoin has not reached full capitulation yet, as key onchain indicators remain in a Bear Phase rather than the Extreme Bear Phase.
+
+The Block • 23h ago
+
+---
+
+**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
+
+Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
+
+CNBC • 2d ago
+
+---
+
 **[Bitcoin Shorts Reach Most Extreme Level Since 2024 Bottom](https://finance.yahoo.com/news/bitcoin-shorts-reach-most-extreme-175734397.html)**
 
 Bitcoin tests $70,000 as funding rates hit 2024 lows, raising short squeeze potential toward $76,685 if resistance breaks.
@@ -173,9 +189,11 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[Bitcoin Breaks Resistance: Is Big Money Rotating Back In?](https://www.binance.com/en/square/post/291621256819026)**
+**[Dogecoin surges ahead while Bitcoin, Ethereum see short-lived gains](https://www.dlnews.com/articles/markets/dogecoin-jumps-as-bitcoin-price-lies-flat/)**
 
-Binance • 3h ago
+Bitcoin and Ethereum spiked — briefly — on Saturday.  But Dogecoin, the ninth biggest coin, rose significantly.  Most major coins made modest gains.
+
+dlnews.com • 59m ago
 
 ---
 
@@ -183,23 +201,29 @@ Binance • 3h ago
 
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-Nasdaq • 7h ago
+Nasdaq • 8h ago
 
 ---
 
-**[Bitcoin biopic 'Killing Satoshi' leans into generative AI](https://mashable.com/article/killing-satoshi-film-sparks-ai-debate)**
+**[Stock market today: Dow, S&P 500, Nasdaq sink as tech gets hit as AI disruption fears grow; gold, bitcoin sink](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-sink-as-tech-gets-hit-as-ai-disruption-fears-grow-gold-bitcoin-sink-210353533.html)**
 
-Actors and artists worry about the use of artificial intelligence in upcoming film.
+Wall Street is gearing up for an update on the Fed's favored inflation gauge, after the jobs report bolstered the case for keeping rates unchanged.
 
-Mashable • 4h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
+**[Bitcoin, Big Tech and the AI Trade Rollercoaster](https://www.bloomberg.com/news/articles/2026-02-12/why-bitcoin-and-tech-stocks-are-under-pressure-australia-podcast)**
 
-Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
+Bloomberg.com • 2d ago
 
-Fortune • 3d ago
+---
+
+**[‘Killing Satoshi’ Bitcoin Biopic Starring Pete Davidson and Casey Affleck Set to Use AI for Locations and to ‘Adjust’ Performances (EXCLUSIVE)](https://variety.com/2026/film/news/pete-davidson-killing-satoshi-ai-doug-liman-ryan-kavanaugh-1236661170/)**
+
+Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
+
+Variety • 1d ago
 
 ---
 
@@ -208,28 +232,6 @@ Fortune • 3d ago
 Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
 
 Fox Business • 2d ago
-
----
-
-**[4 ways the Nancy Guthrie case strikes at America's most contentious issues](https://www.axios.com/2026/02/13/nancy-guthrie-case-update-fbi-ransom-bitcoin)**
-
-Axios • 4h ago
-
----
-
-**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqcAZbhMJWcfR-NFCO25PhWCC4DcK92LPuXTA_1v24qta1IdngCJZ0y-&gaa_ts=6990d453&gaa_sig=0fwAvrMRD_YQCMTAVpJvVotba199ybB9cbiAOx4xZQZ-psUwss96smX-FWnbY4dyrTPJiYDSEoLwcS9O0Zix0w%3D%3D)**
-
-The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
-
-The Times • 1d ago
-
----
-
-**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
-
-Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
-
-New York Post • 23h ago
 
 ---
 
@@ -323,7 +325,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 248 • ⏱️ 15:20 • 20h ago
+👁️ 53K • 👍 3K • 💬 259 • ⏱️ 15:20 • 20h ago
 
 ---
 
@@ -333,7 +335,7 @@ Recently Bitcoin crashed to $60000, below key support levels set by the previous
 
 📺 Coin Bureau
 
-👁️ 21K • 👍 1K • 💬 211 • ⏱️ 19:46 • 6h ago
+👁️ 33K • 👍 2K • 💬 262 • ⏱️ 19:46 • 6h ago
 
 ---
 
@@ -343,27 +345,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 33K • 👍 1K • ⏱️ 21:49 • 22h ago
-
----
-
-**[Why Didn&#39;t Bitcoin Go Up While Gold &amp; Silver Surged? (Full Breakdown)](https://www.youtube.com/watch?v=hSdh1qhmNOY)**
-
-Bitcoin just survived another trust shock. A $19 billion event tied to Binance, hedge fund profits, ETF inflows, and stablecoin ...
-
-📺 Simply Bitcoin
-
-👁️ 2K • 👍 187 • 💬 32 • ⏱️ 33:15 • 4h ago
-
----
-
-**[Bitcoin Is The MOST Targeted Asset Right NOW | Michael Saylor Interview](https://www.youtube.com/watch?v=v2DhDn0XgZM)**
-
-Watch The FULL Interview: https://www.youtube.com/watch?v=ifvU-MHBkoQ Michael Saylor Issues Warning For February, ALL ...
-
-📺 Library Of Wealth
-
-👁️ 3K • 👍 140 • 💬 21 • ⏱️ 13:28 • 14h ago
+👁️ 35K • 👍 1K • ⏱️ 21:49 • 22h ago
 
 ---
 
@@ -373,25 +355,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 30K • 👍 3K • 💬 450 • ⏱️ 8:15 • 22h ago
-
----
-
-**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
-
-📺 Pawn Media
-
-👁️ 31K • 👍 1K • 💬 17 • ⏱️ 0:59 • 1d ago
-
----
-
-**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
-
-An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
-
-📺 No Bs Crypto
-
-👁️ 24K • 👍 1K • 💬 271 • ⏱️ 14:47 • 1d ago
+👁️ 32K • 👍 3K • 💬 459 • ⏱️ 8:15 • 22h ago
 
 ---
 
@@ -401,7 +365,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 523 • 💬 18 • ⏱️ 14:31 • 8h ago
+👁️ 8K • 👍 573 • 💬 19 • ⏱️ 14:31 • 8h ago
 
 ---
 
@@ -411,7 +375,45 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 251K • 👍 8K • 💬 1K • ⏱️ 16:43 • 2d ago
+👁️ 256K • 👍 8K • 💬 1K • ⏱️ 16:43 • 2d ago
+
+---
+
+**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
+
+📺 Pawn Media
+
+👁️ 42K • 👍 1K • 💬 18 • ⏱️ 0:59 • 1d ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=Ra3UyxH3-6E)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Meish's Mind
+
+👁️ 5K • 👍 2K • 1h ago
+
+---
+
+**[The Bitcoin Rotation No One Sees Coming](https://www.youtube.com/watch?v=MDJG-qtmIZY)**
+
+Jordi Visser is a veteran macro investor with 30+ years of experience and the author of the VisserLabs Substack.
+
+📺 Anthony Pompliano
+
+👁️ 31K • 👍 2K • 💬 89 • ⏱️ 21:10 • 6h ago
+
+---
+
+**[He Predicted EVERY Bitcoin Crash (Now He Says $45K Is Coming)](https://www.youtube.com/watch?v=u7dCxdJYNKI)**
+
+An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's calling for $45K next. In this video, I break ...
+
+📺 No Bs Crypto
+
+👁️ 26K • 👍 1K • 💬 285 • ⏱️ 14:47 • 1d ago
 
 ---
 

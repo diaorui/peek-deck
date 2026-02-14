@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T20:28:09.967070+00:00'
+updated: '2026-02-14T20:53:13.056822+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 20:28 UTC  
+**Last Updated:** February 14, 2026 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.0%  
-**7d:** -0.2%  
+**24h:** +1.8%  
+**7d:** -0.1%  
 **30d:** -36.7%  
-**90d:** -31.2%  
+**90d:** -31.1%  
 **1y:** -22.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $251.52B
+**Market Cap:** $251.87B
 Rank #2
 
 **Circulating Supply:** 120,692,468 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--57.9%
+-57.8%
 
 **All-Time Low:** $0.43
-+481198.2%
++482001.9%
 
 ---
 
@@ -164,35 +164,19 @@ The Block • 2d ago
 
 ---
 
+**[Dogecoin surges ahead while Bitcoin, Ethereum see short-lived gains](https://www.dlnews.com/articles/markets/dogecoin-jumps-as-bitcoin-price-lies-flat/)**
+
+Bitcoin and Ethereum spiked — briefly — on Saturday.  But Dogecoin, the ninth biggest coin, rose significantly.  Most major coins made modest gains.
+
+dlnews.com • 59m ago
+
+---
+
 **[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
 
 BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
 
 Yahoo Finance • 1d ago
-
----
-
-**[Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
-
-Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
-
-CoinDesk • 1d ago
-
----
-
-**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://www.dlnews.com/articles/markets/blackrock-buys-up-bitmine-shares-as-ethereum-may-hit-1400/)**
-
-Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
-
-dlnews.com • 1d ago
-
----
-
-**[Ethereum Price Reclaims $2,000 as ETF Inflows Return: Is a V-Shaped Rebound Taking Shape?](https://www.tradingview.com/news/coinpedia:9f64616f6094b:0-ethereum-price-reclaims-2-000-as-etf-inflows-return-is-a-v-shaped-rebound-taking-shape/)**
-
-Ethereum price has pushed decisively back above the $2,000 mark, trading between $2,060 and $2,080 after gaining more than 6% in the latest session. While the broader crypto market has turned positive, ETH’s rebound carries deeper structural implications as institutional flows stabilize and on-chai…
-
-TradingView • 10h ago
 
 ---
 
@@ -204,6 +188,30 @@ Nasdaq • 9h ago
 
 ---
 
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/02/14/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+
+Here's why Bitcoin and Ethereum should be in your long-term portfolio.
+
+The Motley Fool • 10h ago
+
+---
+
+**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+
+Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
+
+CoinDesk • 1d ago
+
+---
+
+**[Ethereum Price Reclaims $2,000 as ETF Inflows Return: Is a V-Shaped Rebound Taking Shape?](https://www.tradingview.com/news/coinpedia:9f64616f6094b:0-ethereum-price-reclaims-2-000-as-etf-inflows-return-is-a-v-shaped-rebound-taking-shape/)**
+
+Ethereum price has pushed decisively back above the $2,000 mark, trading between $2,060 and $2,080 after gaining more than 6% in the latest session. While the broader crypto market has turned positive, ETH’s rebound carries deeper structural implications as institutional flows stabilize and on-chai…
+
+TradingView • 10h ago
+
+---
+
 **[LBank Launches 16th BoostHub Campaign Featuring Ethereum with 30 ETH in Rewards](https://markets.businessinsider.com/news/currencies/lbank-launches-16th-boosthub-campaign-featuring-ethereum-with-30-eth-in-rewards-1035828448)**
 
 Singapore, Singapore, February 14th, 2026, ChainwireLBank, the leading global crypto exchange, today announced the launch of ...
@@ -212,19 +220,11 @@ markets.businessinsider.com • 9h ago
 
 ---
 
-**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP stay weak as bearish momentum persists](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-stay-weak-as-bearish-momentum-persists-202602130354)**
+**[Ethereum supply is tightening – Is scarcity being underpriced?](https://ambcrypto.com/ethereum-supply-is-tightening-is-scarcity-being-underpriced/)**
 
-Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) remain under pressure, extending losses of over 5%, 6% and 4%, respectively, so far this week. BTC trades below $67,000 while ETH and XRP correct after facing rejection around key levels.
+Supply migration into staking and whale custody is tightening Ethereum’s liquid availability.
 
-FXStreet • 1d ago
-
----
-
-**[Ethereum Up or Down on February 14? Betting Odds & Predictions (Feb. 13, 2026)](https://polymarket.com/event/ethereum-up-or-down-on-february-14)**
-
-View real-time odds for "Ethereum Up or Down on February 14?" as of February 14, 2026 and trade on The World's Largest Prediction Market™
-
-Polymarket • 2d ago
+AMBCrypto • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 494 • 👍 45 • 💬 1 • ⏱️ 17:25 • 5h ago
+👁️ 807 • 👍 56 • 💬 1 • ⏱️ 17:25 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 898 • 👍 139 • 💬 12 • ⏱️ 5:42 • 7h ago
+👁️ 1K • 👍 166 • 💬 14 • ⏱️ 5:42 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 125 • 💬 3 • ⏱️ 4:28 • 6h ago
+👁️ 2K • 👍 142 • 💬 3 • ⏱️ 4:28 • 7h ago
 
 ---
 
@@ -268,17 +268,7 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 📺 Thomas Kralow
 
-👁️ 26K • 👍 3K • 💬 48 • ⏱️ 10:34 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=iUlRBXKO1u4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 176 • 💬 5 • ⏱️ 4:31 • 17h ago
+👁️ 27K • 👍 3K • 💬 48 • ⏱️ 10:34 • 1d ago
 
 ---
 
@@ -288,17 +278,17 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 12K • 👍 437 • 💬 119 • ⏱️ 14:31 • 1d ago
+👁️ 13K • 👍 448 • 💬 124 • ⏱️ 14:31 • 1d ago
 
 ---
 
-**[BITCOIN &amp; CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=l0DmCVuPA0E)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=iUlRBXKO1u4)**
 
-BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 10K • 👍 351 • 💬 125 • ⏱️ 17:20 • 1d ago
+👁️ 3K • 👍 175 • 💬 5 • ⏱️ 4:31 • 17h ago
 
 ---
 
@@ -308,7 +298,17 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 422 • ⏱️ 9:41 • 2d ago
+👁️ 60K • 👍 3K • 💬 419 • ⏱️ 9:41 • 2d ago
+
+---
+
+**[ETHEREUM 📈 FEBRUARY 14](https://www.youtube.com/watch?v=MmfbNyKrdTA)**
+
+ETHEREUM FEBRUARY 14.
+
+📺 Overkill Trading
+
+👁️ 283 • 👍 15 • 💬 3 • ⏱️ 3:00 • 1h ago
 
 ---
 
@@ -318,17 +318,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 192 • 👍 15 • 💬 1 • ⏱️ 4:46 • 9h ago
+👁️ 230 • 👍 15 • 💬 1 • ⏱️ 4:46 • 10h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN WARNING: It&#39;s Happening AGAIN!!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Rt6-k5GEhsM)**
+**[BITCOIN &amp; CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=l0DmCVuPA0E)**
 
-BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
 📺 Crypto World
 
-👁️ 11K • 👍 397 • 💬 61 • ⏱️ 21:40 • 2d ago
+👁️ 11K • 👍 355 • 💬 126 • ⏱️ 17:20 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T20:28:09.952430+00:00'
+updated: '2026-02-14T20:53:13.042088+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 20:28 UTC  
+**Last Updated:** February 14, 2026 at 20:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 9h ago
+🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 10h ago
 
 ---
 
@@ -58,14 +58,6 @@ Mustafa Suleyman believes current AI computational power will only accelerate, d
 Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
 
 1h ago
-
----
-
-**[MPA Calls On TikTok Owner ByteDance To Curb New AI Model That Created Tom Cruise Vs. Brad Pitt Deepfake](https://www.reddit.com/r/artificial/comments/1r4t0qf/mpa_calls_on_tiktok_owner_bytedance_to_curb_new/)**
-
-The model allows users to create deepfakes from copyrighted movies and TV shows, including those featureing Tom Cruise and Brad Pitt.
-
-🔗 [Deadline](https://deadline.com/2026/02/seedance-deepfakes-hollywood-studios-copyright-1236718068/) • 1h ago
 
 ---
 
@@ -117,17 +109,17 @@ AI is not the threat. Humanity repeating the same tragic pattern, provable with 
 
 ---
 
+**[What's the most underrated way you've seen AI used for actual business tasks?](https://www.reddit.com/r/artificial/comments/1r38tis/whats_the_most_underrated_way_youve_seen_ai_used/)**
+
+Everyone talks about AI for chatbots and image generation. But I've been finding the most value in boring practical stuff. Writing landing page copy, structuring email sequences, generating SEO content briefs, building out template collections. Not flashy, but it saves hours every single day. What's the most underrated or overlooked business use case you've found for AI tools?
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
-
-**[It's been a big — but rocky — week for AI models from China. Here's what's happened](https://www.cnbc.com/2026/02/14/new-china-ai-models-alibaba-bytedance-seedance-kuaishou-kling.html)**
-
-New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
-
-CNBC • 13h ago
-
----
 
 **[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
 
@@ -137,25 +129,25 @@ Fortune • 1d ago
 
 ---
 
-**[ChatGPT promised to help her find her soulmate. Then it betrayed her](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot)**
+**[AI disruption could spark a ‘shock to the system’ in credit markets, UBS analyst says](https://www.cnbc.com/2026/02/13/ai-credit-markets.html)**
 
-ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
+UBS analyst Matthew Mish told CNBC that the artificial intelligence transformation is happening faster than he and his colleagues had previously anticipated.
 
-NPR • 10h ago
-
----
-
-**[Opinion | A.I. Companies Are Eating Higher Education - The New York Times](https://www.nytimes.com/2026/02/12/opinion/ai-companies-college-students.html)**
-
-The New York Times • 2d ago
+CNBC • 1d ago
 
 ---
 
-**[Waiting for the AI J-Curve](https://www.apolloacademy.com/waiting-for-the-ai-j-curve/)**
+**[AI Bubble Fears Are Creating New Derivatives](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly)**
 
-The Nobel Prize–winning economist Robert Solow said in 1987, “You can see the computer age everywhere but in the productivity...
+Bloomberg.com • 53m ago
 
-Apollo Academy • 9h ago
+---
+
+**[How AI, new technology could aid Nancy Guthrie investigation](https://www.foxnews.com/video/6389284313112)**
+
+Ret. ATF special agent in charge Bernard Zapor and Kurt 'CyberGuy' Knutsson join ‘Fox News Live’ to discuss the investigation into the disappearance of Nancy Guthrie.
+
+Fox News • 28m ago
 
 ---
 
@@ -163,7 +155,7 @@ Apollo Academy • 9h ago
 
 Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -183,17 +175,23 @@ NDTV • 7h ago
 
 ---
 
-**[I Tried RentAHuman, Where AI Agents Hired Me to Hype Their AI Startups](https://www.wired.com/story/i-tried-rentahuman-ai-agents-hired-me-to-hype-their-ai-startups/)**
+**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
 
-Rather than offering a revolutionary new approach to gig work, RentAHuman is filled with bots that just want me to be another cog in the AI hype machine.
-
-WIRED • 2d ago
+The New York Times • 1d ago
 
 ---
 
-**[Chinese AI models festoon Spring Festival a year after DeepSeek shock](https://www.reuters.com/world/china/chinese-ai-models-festoon-spring-festival-year-after-deepseek-shock-2026-02-14/)**
+**[They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day.](https://www.usatoday.com/story/life/health-wellness/2026/02/14/theyre-dating-ai-characters-they-have-big-valentines-day-plans/88663687007/)**
 
-Reuters • 15h ago
+Ahead of Valentine’s Day, EVA AI hosted a pop up where human users could take their AI companions on a date. I went to see what it's like.
+
+USA Today • 7h ago
+
+---
+
+**[‘We’re All Polyamorous Now. It’s You, Me and the A.I.’](https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -205,7 +203,7 @@ Reuters • 15h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2309 • 💬 941 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2312 • 💬 940 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -224,9 +222,9 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 ---
 
-**[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
+**[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 533 • 💬 265 • 19h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 550 • 💬 489 • 20h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -234,7 +232,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 317 • 💬 521 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 318 • 💬 522 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -248,7 +246,15 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 235 • 💬 118 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 237 • 💬 118 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+
+---
+
+**[News publishers limit Internet Archive access due to AI scraping concerns](https://news.ycombinator.com/item?id=47017138)**
+
+Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
+
+⬆️ 196 • 💬 109 • 2h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -260,19 +266,11 @@ A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's 
 
 ---
 
-**[US labels SpaceX a common carrier by air, will regulate firm under railway law](https://news.ycombinator.com/item?id=46980474)**
-
-US labels SpaceX a common carrier by air, will regulate firm under railway law.
-
-⬆️ 147 • 💬 57 • 2d ago • [Ars Technica](https://arstechnica.com/tech-policy/2026/02/victory-for-elon-musk-us-labor-board-abandons-authority-over-spacex/)
-
----
-
 **[Show HN: Moltis – AI assistant with memory, tools, and self-extending skills](https://news.ycombinator.com/item?id=46993587)**
 
 One Rust binary that runs the full AI assistant: multi-provider LLM routing, tools, memory, sandboxed execution, and multi-channel access.
 
-⬆️ 115 • 💬 43 • 2d ago • [Moltis](https://www.moltis.org)
+⬆️ 116 • 💬 43 • 2d ago • [Moltis](https://www.moltis.org)
 
 ---
 
@@ -286,7 +284,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 19K • 👍 201 • 💬 150 • ⏱️ 3:04 • 14h ago
+👁️ 25K • 👍 236 • 💬 170 • ⏱️ 3:04 • 15h ago
 
 ---
 
@@ -296,27 +294,17 @@ New concerns over the safety of artificial intelligence are growing after the le
 
 📺 ABC News
 
-👁️ 72K • 👍 910 • 💬 423 • ⏱️ 3:58 • 1d ago
+👁️ 76K • 👍 945 • 💬 444 • ⏱️ 3:58 • 1d ago
 
 ---
 
-**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+**[Something Big Is Happening With AI — And the Warning Signs Are Real](https://www.youtube.com/watch?v=Hknx5NfIVl8)**
 
-Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+Something big is happening in AI — and for the first time, markets are reacting not to hype, but to substitution risk. Over the past 10 ...
 
-📺 Spacialize
+📺 GVS Deep Dive
 
-👁️ 75K • 👍 2K • 💬 319 • ⏱️ 17:28 • 1d ago
-
----
-
-**[Viral essay urges people to prepare for rapid advancements in artificial intelligence](https://www.youtube.com/watch?v=g8u0SlzVKAE)**
-
-If you've been on social media this week, you've likely seen an ominous warning about artificial intelligence in your feed: ...
-
-📺 CBS News
-
-👁️ 34K • 👍 708 • 💬 271 • ⏱️ 7:08 • 20h ago
+👁️ 10K • 👍 832 • 💬 187 • ⏱️ 22:55 • 12h ago
 
 ---
 
@@ -326,7 +314,27 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4r9bIJ
 
 📺 Dan Martell
 
-👁️ 56K • 👍 3K • 💬 322 • ⏱️ 18:34 • 1d ago
+👁️ 62K • 👍 4K • 💬 329 • ⏱️ 18:34 • 1d ago
+
+---
+
+**[AI Infection Spreads At Trump&#39;s DOJ](https://www.youtube.com/watch?v=-IZMDttsSjY)**
+
+Congratulations, America. We have now reached the point where you can automate discrimination. The DOJ has gone full ...
+
+📺 The Ring of Fire
+
+👁️ 2K • 👍 520 • 💬 35 • ⏱️ 5:13 • 2h ago
+
+---
+
+**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+
+Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+
+📺 Spacialize
+
+👁️ 76K • 👍 2K • 💬 320 • ⏱️ 17:28 • 1d ago
 
 ---
 
@@ -336,17 +344,17 @@ Matt Schumer is a New York based CEO who's been working with and investing in a 
 
 📺 Mint
 
-👁️ 45K • 👍 650 • 💬 161 • ⏱️ 8:19 • 1d ago
+👁️ 50K • 👍 688 • 💬 169 • ⏱️ 8:19 • 1d ago
 
 ---
 
-**[SeeDance 2.0: The Next Level of AI Video — And What It Means for Local AI Users?](https://www.youtube.com/watch?v=G1Ad4a8sdJU)**
+**[DeepMind Leaked Possibly the Greatest AI Ever](https://www.youtube.com/watch?v=OTRvoxPSQ_8)**
 
-SeedDance 2.0 is taking the AI video world by storm—and in this hands-on deep dive, I test ByteDance's powerful new ...
+Sponsored by Genspark. Try the all-in-one AI workplace for free: ...
 
-📺 Benji’s AI Playground
+📺 Pourya Kordi
 
-👁️ 5K • 👍 138 • 💬 38 • ⏱️ 14:15 • 9h ago
+👁️ 27K • 👍 1K • 💬 99 • ⏱️ 13:42 • 1d ago
 
 ---
 
@@ -356,27 +364,17 @@ Breakdown and commentary on the latest viral commentary from: https://x.com/matt
 
 📺 Matt Wolfe
 
-👁️ 144K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
+👁️ 146K • 👍 7K • 💬 1K • ⏱️ 28:06 • 2d ago
 
 ---
 
-**[AI Fails at 96% of Jobs (New Study)](https://www.youtube.com/watch?v=z3kaLM8Oj4o)**
+**[AI insiders raise alarms, call for tighter regulation as Elon Musk warns of danger](https://www.youtube.com/watch?v=tWeM7LzbRXQ)**
 
-Artificial intelligence has been hailed as one of the most transformative technologies of the century. That may be so, but just not ...
+Fox News contributor Joe Concha discusses alarming reports from AI insiders about the technology's potential for blackmail and ...
 
-📺 ColdFusion
+📺 Fox Business
 
-👁️ 428K • 👍 24K • 💬 4K • ⏱️ 12:49 • 1d ago
-
----
-
-**[LELAKI VS PEREMPUAN !!! CALON ISTERI &amp; SUAMI AI TEAM…](https://www.youtube.com/watch?v=Db9lMSLK990)**
-
-Why So Serious ??? Korang rasa siapa ?
-
-📺 Alieff Irfan
-
-👁️ 335K • 👍 22K • 💬 2K • ⏱️ 32:48 • 7h ago
+👁️ 26K • 👍 539 • 💬 200 • ⏱️ 4:57 • 1d ago
 
 ---
 
@@ -392,7 +390,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 66,826 • ❤️ 1,117 • 1d ago
+⬇️ 66,826 • ❤️ 1,121 • 1d ago
 
 ---
 
@@ -404,7 +402,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 6,091 • ❤️ 501 • 16h ago
+⬇️ 6,091 • ❤️ 511 • 17h ago
 
 ---
 
@@ -416,7 +414,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,569 • ❤️ 419 • 3d ago
+⬇️ 2,569 • ❤️ 421 • 3d ago
 
 ---
 
@@ -440,7 +438,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation`
 
-⬇️ 249,228 • ❤️ 856 • 11d ago
+⬇️ 249,228 • ❤️ 857 • 11d ago
 
 ---
 
@@ -452,7 +450,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 3,906 • ❤️ 341 • 1d ago
+⬇️ 3,906 • ❤️ 343 • 1d ago
 
 ---
 
@@ -488,7 +486,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 5,865 • ❤️ 196 • 2d ago
+⬇️ 5,865 • ❤️ 197 • 2d ago
 
 ---
 
@@ -683,7 +681,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 245 • 3h ago
+⭐ 2.4k • 🔱 246 • 2h ago
 
 ---
 
@@ -713,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 137 • 4h ago
+⭐ 2.0k • 🔱 138 • 41m ago
 
 ---
 
@@ -723,7 +721,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.9k • 🔱 198 • 1d ago
+⭐ 1.9k • 🔱 199 • 1d ago
 
 ---
 
@@ -733,7 +731,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.7k • 🔱 220 • 9h ago
+⭐ 1.8k • 🔱 221 • 10h ago
 
 ---
 
