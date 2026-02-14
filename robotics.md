@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T15:27:02.148050+00:00'
+updated: '2026-02-14T15:51:08.066476+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 15:27 UTC  
+**Last Updated:** February 14, 2026 at 15:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -54,11 +54,17 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 ---
 
+**[[Release] LinkForge v1.2.3: Professional URDF/XACRO Editor for Blender](https://www.reddit.com/r/robotics/comments/1r4mk4j/release_linkforge_v123_professional_urdfxacro/)**
+
+58m ago
+
+---
+
 **[Comparing Augsburg Informatik (Robotics Track) vs Stuttgart Computational Linguistics — Need Real-World Insights](https://www.reddit.com/r/robotics/comments/1r48xox/comparing_augsburg_informatik_robotics_track_vs/)**
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-12h ago
+13h ago
 
 ---
 
@@ -86,7 +92,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 **[Are you a ROS user curious about copper-rs & the rust ecosystem? we made a book for you!](https://www.reddit.com/r/robotics/comments/1r44sm7/are_you_a_ros_user_curious_about_copperrs_the/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -95,14 +101,6 @@ From hardware to software, I see every day tons of new startups, mostly around A
 Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
 17h ago
-
----
-
-**[Best modern motors/BLDC/Servos for DIY Robotic actuation](https://www.reddit.com/r/robotics/comments/1r3wz8a/best_modern_motorsbldcservos_for_diy_robotic/)**
-
-Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
-
-20h ago
 
 ---
 
@@ -118,43 +116,11 @@ BBC • 1d ago
 
 ---
 
-**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
+**[A call for a performance-driven approach for soft robotics research](https://www.nature.com/articles/s44182-026-00073-4)**
 
-Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
+npj Robotics - A call for a performance-driven approach for soft robotics research
 
-TechCrunch • 2d ago
-
----
-
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
-
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
-
-ChinaPower Project • 1d ago
-
----
-
-**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
-
-Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
-
-Yahoo Finance • 1d ago
-
----
-
-**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
-
-Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
-
-Automotive News • 2d ago
-
----
-
-**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
-
-At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
-
-Мілітарний • 23h ago
+Nature • 2d ago
 
 ---
 
@@ -166,25 +132,57 @@ CNN • 11h ago
 
 ---
 
-**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
-
-The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
-
-Construction Dive • 2d ago
-
----
-
-**[A call for a performance-driven approach for soft robotics research](https://www.nature.com/articles/s44182-026-00073-4)**
-
-npj Robotics - A call for a performance-driven approach for soft robotics research
-
-Nature • 2d ago
-
----
-
 **[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
 
 Forbes • 1d ago
+
+---
+
+**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
+
+At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
+
+Мілітарний • 23h ago
+
+---
+
+**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
+
+Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
+
+Yahoo Finance • 2d ago
+
+---
+
+**[IDF's new mechanical AI robot cleans tanks without soldiers](https://www.jpost.com/israel-news/defense-news/article-886585)**
+
+The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
+
+The Jerusalem Post • 17h ago
+
+---
+
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 1d ago
+
+---
+
+**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
+
+Their reaction times can even surpass their makers’
+
+The Economist • 2d ago
+
+---
+
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
+
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
+
+New York Post • 23h ago
 
 ---
 

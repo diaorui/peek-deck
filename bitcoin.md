@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T15:27:02.138993+00:00'
+updated: '2026-02-14T15:51:08.057397+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 15:27 UTC  
+**Last Updated:** February 14, 2026 at 15:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -1.3%  
-**30d:** -27.4%  
-**90d:** -24.8%  
-**1y:** -28.8%  
+**24h:** +1.3%  
+**7d:** -0.7%  
+**30d:** -26.9%  
+**90d:** -24.3%  
+**1y:** -28.4%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-6h ago
+7h ago
 
 ---
 
@@ -103,21 +103,13 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-13h ago
+14h ago
 
 ---
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
 22h ago
-
----
-
-**[BTC always tanks when I have financial crisis...](https://www.reddit.com/r/Bitcoin/comments/1r3ytg5/btc_always_tanks_when_i_have_financial_crisis/)**
-
-Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
-
-19h ago
 
 ---
 
@@ -129,11 +121,11 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 
 ---
 
-**[bitcoin gotta be trolling at this point](https://www.reddit.com/r/Bitcoin/comments/1r3kqng/bitcoin_gotta_be_trolling_at_this_point/)**
+**[BTC always tanks when I have financial crisis...](https://www.reddit.com/r/Bitcoin/comments/1r3ytg5/btc_always_tanks_when_i_have_financial_crisis/)**
 
-like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
+Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-1d ago
+20h ago
 
 ---
 
@@ -153,11 +145,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
+**[bitcoin gotta be trolling at this point](https://www.reddit.com/r/Bitcoin/comments/1r3kqng/bitcoin_gotta_be_trolling_at_this_point/)**
+
+like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin claws back to $70,000 on cooling inflation after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
+**[BTC price news: bitcoin claws back to $70,000 after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
@@ -171,11 +171,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Standard Chartered slashes 50% price target for Bitcoin](https://finance.yahoo.com/news/standard-chartered-slashes-50-price-003000358.html)**
+**[Standard Chartered slashes 50% price target for Bitcoin](https://www.thestreet.com/crypto/trading/standard-chartered-slashes-50-price-target-for-bitcoin)**
 
-February has been a difficult month for Bitcoin (BTC). In the past 30 days, it has dropped by 29.9%. At press time, it was trading at $65,189.77, well below its October 2025 peak of $124,000. Meanwhile, the Crypto Fear & Greed Index stood at just 5 as of Feb. 13, signaling ...
+Bank warns downside risk remains amid ETF selling
 
-Yahoo Finance • 1d ago
+thestreet.com • 1d ago
 
 ---
 
@@ -187,27 +187,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-now-and-hold-for-10-y/)**
+**[Strategy’s Stretch Preferreds Deepen Bitcoin Bet While Aiming To Limit Dilution](https://ca.finance.yahoo.com/news/strategy-stretch-preferreds-deepen-bitcoin-141126179.html)**
 
-Both these assets have earned their place as leaders, but the next 10 years could be tough for one of them.
+Strategy Inc (NasdaqGS:MSTR) is issuing additional perpetual preferred shares, called Stretch, to fund continued Bitcoin accumulation. The company is shifting more of its Bitcoin funding toward preferred equity instead of common equity to address concerns about dilution. Management has reiterated plans to keep buying Bitcoin over the long term and has ruled out forced sales despite price volatility and large unrealized losses. Strategy, trading at $133.88, has been closely linked to Bitcoin...
 
-The Motley Fool • 2h ago
-
----
-
-**[‘Killing Satoshi’ Bitcoin Biopic Starring Pete Davidson and Casey Affleck Set to Use AI for Locations and to ‘Adjust’ Performances (EXCLUSIVE)](https://variety.com/2026/film/news/pete-davidson-killing-satoshi-ai-doug-liman-ryan-kavanaugh-1236661170/)**
-
-Bitcoin biopic 'Killing Satoshi' starring Pete Davidson plans to use all-AI locations and AI adjustments for  performances rather than reshoots.
-
-Variety • 22h ago
-
----
-
-**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqe-k3CQ9f9QYe55hjVNnjw95cIJJivXFO64sSDUjyofAAqlHv8fnuVb&gaa_ts=699089fe&gaa_sig=dVF9kqCaHj9hdNs3on6WhAHTNkDsQ8IE6-72OWDlm6AwZJGKVt2kElP_vhY0TSE4oGlV0qIYGmnXW_9qKMdxrA%3D%3D)**
-
-The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
-
-The Times • 23h ago
+Yahoo! Finance Canada • 1h ago
 
 ---
 
@@ -219,9 +203,11 @@ New York Post • 18h ago
 
 ---
 
-**[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
+**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqewoYuU3DM-omyAs8ZPsC1g4RCOFNGIf0slsvuqY9kgIqJXrfBT_dVt&gaa_ts=69909d5c&gaa_sig=x_ol2NMXK0di22WsQ_Xxh96ilv8DMmYznyn2Hq4-OlLIO581tE4kSL775rTP5wuZWbVZiTfv1nZtcpTWXXX6Zw%3D%3D)**
 
-NewsNation • 2d ago
+The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
+
+The Times • 1d ago
 
 ---
 
@@ -230,6 +216,20 @@ NewsNation • 2d ago
 Blockchain technology makes cryptocurrency transactions fully traceable on public ledgers, creating powerful tools for law enforcement investigations.
 
 Fox Business • 2d ago
+
+---
+
+**[Crypto wallet in Nancy Guthrie note is traceable: Blockchain analyst](https://www.newsnationnow.com/crime/crypto-wallet-nancy-guthrie/)**
+
+NewsNation • 2d ago
+
+---
+
+**[New Nancy Guthrie Note, Sender Demands 1 Bitcoin for Info On Kidnapping Suspect](https://www.tmz.com/2026/02/11/new-nancy-guthrie-note-demands-bitcoin-for-suspect-information/)**
+
+There's a new note in the Nancy Guthrie case, but this one doesn't seem to be from the kidnapper ... instead, it's from someone offering to give up information on the kidnapper.
+
+TMZ • 3d ago
 
 ---
 
@@ -351,7 +351,7 @@ Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpic
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 75 • ⏱️ 53:57 • 23h ago
+👁️ 27K • 👍 1K • 💬 75 • ⏱️ 53:57 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Are Bitcoin and Silver broken, or is the global market quietly preparing for a m
 
 📺 Financial Funda
 
-👁️ 2K • 👍 89 • 💬 2 • ⏱️ 1:45 • 10h ago
+👁️ 2K • 👍 89 • 💬 2 • ⏱️ 1:45 • 11h ago
 
 ---
 

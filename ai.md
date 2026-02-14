@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T15:27:02.130019+00:00'
+updated: '2026-02-14T15:51:08.049024+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 15:27 UTC  
+**Last Updated:** February 14, 2026 at 15:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 4h ago
+🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 5h ago
+
+---
+
+**[Only A Few AI Platforms Can Survive](https://www.reddit.com/r/artificial/comments/1r4n1u9/only_a_few_ai_platforms_can_survive/)**
+
+It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
+
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 38m ago
 
 ---
 
@@ -49,7 +57,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Most medical AI systems today rely heavily on large, opaque language models. They are powerful, but probabilistic, difficult to audit, and expensive to deploy. We’ve taken a different approach. Our medical AI is a hybrid system combining: • A compact ~3GB language model • A deterministic proprietary medical Knowledge Graph (5K nodes, 25K edges) • A structured RAG-based answer audit layer The Knowledge Graph spans 7 core medical categories: Diseases, Symptoms, Treatment Methods, Risk Factors, Diagnostic Tools, Body Parts, and Cellular Structures and, critically, their relationships. Why this architecture matters 1️⃣ Comparable answer quality with dramatically lower compute and reduced hallucination. A ~3GB model can run on commodity or on-prem infrastructure, enabling hospital deployment without the heavy cloud dependency typically associated with 80GB-class LLMs. 2️⃣ Deterministic medical backbone The Knowledge Graph constrains reasoning. No hallucinated treatments. No unsupported disease relationships. Medical claims must exist within structured ontology. 3️⃣ Verifiable answers via RAG audit Every response can be traced back to specific nodes and relationships in the graph. Symptom → Disease → Diagnostic Tool → Treatment. Structured, auditable, explainable. 4️⃣ Separation of language from medical truth The LLM explains and contextualizes. The Knowledge Graph validates and grounds. This architectural separation dramatically improves reliability and regulatory defensibility. 5️⃣ Complete control over the core of truth Unlike black-box systems that rely entirely on opaque model weights, this architecture gives full control over the medical knowledge layer. You decide what is included, how relationships are defined, and how updates are governed. In high-stakes domains like healthcare, scaling parameter count is not the only path forward. Controllability, traceability, and verifiability may matter more. Hybrid architectures that combine probabilistic language models with deterministic knowledge systems offer a compelling alternative. The model is capable of clinical case analysis and diagnostic reasoning. It is currently available for public testing on Hugging Face Spaces (shared environment, typical response time: 15–30 seconds): https://huggingface.co/spaces/cmtopbas/medical-slm-testing Happy to connect with others exploring Knowledge Graph + LLM systems in regulated domains. #MedicalAI #HealthcareInnovation #KnowledgeGraphs #ExplainableAI #RAG #ClinicalAI #HealthTech
 
-19h ago
+20h ago
 
 ---
 
@@ -105,15 +113,7 @@ Everyone talks about AI for chatbots and image generation. But I've been finding
 
 The CLI is becoming a dominant surface area for developer productivity - it offers such an ergonomic feel that makes it easier to switch between tools. So to make our signals-based observability for agents even easier to consume, we've completely revamped the plano cli to be an agent+developer friendly experience. No UI installs, no additional dependencies - just high-fidelity agentic signals and tracing right from the cli. Out in the latest 0.4.6 release.
 
-1d ago
-
----
-
-**[$750M Azure deal + Amazon lawsuit: Perplexity’s wild week](https://www.reddit.com/r/artificial/comments/1r2xjhp/750m_azure_deal_amazon_lawsuit_perplexitys_wild/)**
-
-Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is that Amazon is already actively suing them. Here's why this matters for AI search and cloud strategy.
-
-🔗 [writtenlyhub.com](https://www.writtenlyhub.com/news/perplexity-750-million-microsoft-azure-deal-amazon-lawsuit%3C/a) • 1d ago
+2d ago
 
 ---
 
@@ -125,7 +125,7 @@ Perplexity just signed a $750M deal with Microsoft Azure. The confusing bit is t
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -133,7 +133,7 @@ Fortune • 21h ago
 
 New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNBC • 8h ago
 
 Don’t let AI steal your heart — or your money.
 
-vox.com • 1h ago
+vox.com • 2h ago
 
 ---
 
@@ -151,25 +151,39 @@ Bloomberg.com • 1h ago
 
 ---
 
+**[They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day.](https://www.usatoday.com/story/life/health-wellness/2026/02/14/theyre-dating-ai-characters-they-have-big-valentines-day-plans/88663687007/)**
+
+Ahead of Valentine’s Day, EVA AI hosted a pop up where human users could take their AI companions on a date. I went to see what it's like.
+
+USA Today • 2h ago
+
+---
+
+**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Mocktails, potato balls, and 10 bots: My cringe Valentine's date at the AI companion wine bar.](https://www.businessinsider.com/valentines-date-ai-companion-wine-bar-cringe-2026-2)**
+
+Dating humans can be a nightmare. Dating bots at an AI wine bar is another thing entirely.
+
+Business Insider • 6h ago
+
+---
+
 **[Opinion | How Fast Can A.I. Change the Workplace?](https://www.nytimes.com/2026/02/14/opinion/ai-jobs-employment.html)**
 
 The New York Times • 3h ago
 
 ---
 
-**[ChatGPT promised to help her find her soulmate. Then it betrayed her](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot)**
+**[Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)**
 
-ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
+Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.
 
 NPR • 5h ago
-
----
-
-**[‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations](https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi)**
-
-Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacenters
-
-The Guardian • 14h ago
 
 ---
 
@@ -181,22 +195,6 @@ The Hollywood Reporter • 1d ago
 
 ---
 
-**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
-
-An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
-
-The Guardian • 1d ago
-
----
-
-**[Viral AI video of Brad Pitt fighting Tom Cruise shakes Hollywood - Los Angeles Times](https://www.latimes.com/entertainment-arts/business/story/2026-02-13/brad-pitt-fighting-tom-cruise-ai-video-shakes-hollywood)**
-
-Earlier this week, an AI-generated video of Tom Cruise fighting Brad Pitt went viral, sparking outrage amongst creatives and the studios alike.
-
-Los Angeles Times • 19h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +203,7 @@ Los Angeles Times • 19h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2296 • 💬 940 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2301 • 💬 940 • 1d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -214,19 +212,19 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 936 • 💬 744 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 937 • 💬 744 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 706 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 707 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 481 • 💬 243 • 14h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 496 • 💬 249 • 15h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -234,7 +232,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 287 • 💬 477 • 20h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 296 • 💬 487 • 20h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -242,13 +240,13 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 268 • 💬 156 • 22h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 268 • 💬 157 • 22h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 227 • 💬 110 • 19h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 228 • 💬 110 • 20h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -268,11 +266,11 @@ US labels SpaceX a common carrier by air, will regulate firm under railway law.
 
 ---
 
-**[AI-First Company Memos](https://news.ycombinator.com/item?id=46976317)**
+**[Show HN: Moltis – AI assistant with memory, tools, and self-extending skills](https://news.ycombinator.com/item?id=46993587)**
 
-Every major CEO AI-first memo and mandate, collected. Shopify, Box, Duolingo, Fiverr, Meta, Klarna, Alibaba, Notion, and more.
+One Rust binary that runs the full AI assistant: multi-provider LLM routing, tools, memory, sandboxed execution, and multi-channel access.
 
-⬆️ 131 • 💬 204 • 2d ago • [the-ai-native.company](https://the-ai-native.company/)
+⬆️ 111 • 💬 42 • 1d ago • [Moltis](https://www.moltis.org)
 
 ---
 
@@ -296,7 +294,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 9K • 👍 121 • 💬 87 • ⏱️ 3:04 • 9h ago
+👁️ 9K • 👍 121 • 💬 87 • ⏱️ 3:04 • 10h ago
 
 ---
 
@@ -326,7 +324,7 @@ Google's 8 Hour ''AI for Beginners'' Course in 8 Minutes Get Your Own Google AI 
 
 📺 Parker Prompts
 
-👁️ 3K • 💬 5 • ⏱️ 8:08 • 1h ago
+👁️ 3K • 💬 5 • ⏱️ 8:08 • 2h ago
 
 ---
 
@@ -404,7 +402,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 6,091 • ❤️ 473 • 11h ago
+⬇️ 6,091 • ❤️ 473 • 12h ago
 
 ---
 
@@ -500,7 +498,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,711 • ❤️ 518 • 23h ago
+⬇️ 5,711 • ❤️ 518 • 1d ago
 
 ---
 
@@ -684,7 +682,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 245 • 8h ago
+⭐ 2.4k • 🔱 245 • 9h ago
 
 ---
 
@@ -704,7 +702,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 154 • 20h ago
+⭐ 2.2k • 🔱 154 • 21h ago
 
 ---
 
@@ -734,7 +732,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.7k • 🔱 213 • 4h ago
+⭐ 1.7k • 🔱 213 • 5h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T15:27:02.144894+00:00'
+updated: '2026-02-14T15:51:08.063335+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - videos
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 15:27 UTC  
+**Last Updated:** February 14, 2026 at 15:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** -0.9%  
-**30d:** -37.2%  
-**90d:** -31.7%  
-**1y:** -23.1%  
+**24h:** +1.3%  
+**7d:** -0.1%  
+**30d:** -36.7%  
+**90d:** -31.2%  
+**1y:** -22.5%  
 
 ---
 
@@ -148,19 +148,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
+
+BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
 Decrypt • 18h ago
-
----
-
-**[Calm Down: Ethereum Has Survived 8 Major 50% Falls, Lee Reminds Investors](https://www.tradingview.com/news/newsbtc:35f7255c1094b:0-calm-down-ethereum-has-survived-8-major-50-falls-lee-reminds-investors/)**
-
-Tom Lee, head of research at Fundstrat, is betting on a prompt bounce for Ethereum. He pointed to a pattern stretching back to 2018: each time ETH dropped deep, it later recovered strongly.That history has shaped the tone of his remarks in Hong Kong, where he argued that previous collapses ended wi…
-
-TradingView • 2d ago
 
 ---
 
@@ -180,19 +180,11 @@ The Block • 2d ago
 
 ---
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
-
-The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
-
-The Motley Fool • 4h ago
-
----
-
 **[Ethereum makes game-changing decision that could change future of cryptocurrency: 'Poised to lead the way'](https://finance.yahoo.com/news/ethereum-makes-game-changing-decision-153000138.html)**
 
 "More accessible and appealing."
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -215,6 +207,14 @@ dlnews.com • 1d ago
 **[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
 
 TipRanks • 1d ago
+
+---
+
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
+
+Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
+
+Nasdaq • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 105 • 👍 11 • 💬 1 • ⏱️ 4:46 • 4h ago
+👁️ 105 • 👍 11 • 💬 1 • ⏱️ 4:46 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ ALL TRADING PLATFORMS CRYPTO :- https://india.delta.exchange/?code=JFWJTR LIFE C
 
 📺 Vibe With Sahil
 
-👁️ 4K • 👍 434 • 1h ago
+👁️ 4K • 👍 434 • 2h ago
 
 ---
 
