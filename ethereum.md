@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-14T08:34:34.505302+00:00'
+updated: '2026-02-14T09:32:21.371887+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 08:34 UTC  
+**Last Updated:** February 14, 2026 at 09:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $247.76B
+**Market Cap:** $250.53B
 Rank #2
 
 **Circulating Supply:** 120,692,468 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.5%
+-58.0%
 
 **All-Time Low:** $0.43
-+473909.1%
++479362.1%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
 **[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 12h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 13h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 12h ago
+🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 13h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 20h ago
 
 ---
 
@@ -152,7 +152,7 @@ Vitalik Buterin proposes ZK API usage credits to make Ethereum the privacy-prese
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Decrypt • 12h ago
+Decrypt • 13h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -176,13 +176,13 @@ Yahoo Finance • 23h ago
 
 Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
 **[Ethereum Price Braces for Impact as Standard Chartered Predicts a $1,400 Bottom](https://www.tipranks.com/news/ethereum-price-braces-for-impact-as-standard-chartered-predicts-a-1400-bottom)**
 
-TipRanks • 17h ago
+TipRanks • 18h ago
 
 ---
 
@@ -198,7 +198,7 @@ TradingView • 1d ago
 
 The world's second-largest cryptocurrency is up more than 7% today.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -206,7 +206,7 @@ The Motley Fool • 10h ago
 
 The cryptocurrency market is showing signs of rallying again, with major assets including Bitcoin and Ethereum posting gains as improving macroeconomic
 
-Coinpedia • 16h ago
+Coinpedia • 17h ago
 
 ---
 
@@ -214,7 +214,7 @@ Coinpedia • 16h ago
 
 BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -236,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 927 • 👍 105 • 💬 4 • ⏱️ 4:31 • 5h ago
+👁️ 1K • 👍 138 • 💬 5 • ⏱️ 4:31 • 6h ago
 
 ---
 
@@ -246,7 +246,7 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 75 • ⏱️ 10:34 • 21h ago
+👁️ 25K • 👍 3K • 💬 77 • ⏱️ 10:34 • 22h ago
 
 ---
 
@@ -256,7 +256,7 @@ BITCOIN & CRYPTO MARKET JUST FLIPPED (for now)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 299 • 💬 77 • ⏱️ 17:20 • 13h ago
+👁️ 8K • 👍 313 • 💬 112 • ⏱️ 17:20 • 14h ago
 
 ---
 
@@ -266,7 +266,7 @@ Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE D
 
 📺 Library Of Wealth
 
-👁️ 10K • 👍 360 • 💬 342 • ⏱️ 14:31 • 1d ago
+👁️ 10K • 👍 375 • 💬 344 • ⏱️ 14:31 • 1d ago
 
 ---
 
@@ -276,7 +276,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 17h ago
+👁️ 3K • 👍 169 • 💬 18 • ⏱️ 3:30 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Tom Lee, Co-Founder of Fundstrat and Chairman of Bitmine Immersion (NYSE: BMNR),
 
 📺 The Crypto Times
 
-👁️ 21K • 👍 481 • 💬 104 • ⏱️ 15:00 • 2d ago
+👁️ 21K • 👍 486 • 💬 106 • ⏱️ 15:00 • 2d ago
 
 ---
 
@@ -296,7 +296,7 @@ BlackRock + Joe Rogan + Ethereum.. Biggest Crypto News Happening Now!! Become a 
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 427 • ⏱️ 9:41 • 2d ago
+👁️ 59K • 👍 3K • 💬 426 • ⏱️ 9:41 • 2d ago
 
 ---
 
@@ -310,13 +310,13 @@ This is all about why Bitcoin and crypto is set to explode! Do not miss the big 
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=5PqmqRegidY)**
+**[Why People Doubt XRP Can Explode Like ETH](https://www.youtube.com/watch?v=u2UnNCd8Foo)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETH climbed single to three digits in 12 months, Solana in nine. Same liquidity mechanics apply to XRP. Total supply confuses ...
 
-📺 More Crypto Online
+📺 Jake Claver
 
-👁️ 3K • 👍 185 • 💬 4 • ⏱️ 6:51 • 1d ago
+👁️ 41K • 👍 2K • 💬 95 • ⏱️ 1:17 • 2d ago
 
 ---
 
@@ -326,7 +326,7 @@ BITCOIN & ALTCOIN WARNING: It's Happening AGAIN!!!! - Bitcoin News Today, Ethere
 
 📺 Crypto World
 
-👁️ 11K • 👍 396 • 💬 211 • ⏱️ 21:40 • 1d ago
+👁️ 11K • 👍 396 • 💬 210 • ⏱️ 21:40 • 1d ago
 
 ---
 

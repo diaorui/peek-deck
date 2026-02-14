@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T08:34:34.499141+00:00'
+updated: '2026-02-14T09:32:21.365810+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 08:34 UTC  
+**Last Updated:** February 14, 2026 at 09:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1376.97B
+**Market Cap:** $1390.57B
 Rank #1
 
-**Circulating Supply:** 19,989,043 BTC
+**Circulating Supply:** 19,989,081 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.4%
+-44.8%
 
 **All-Time Low:** $67.81
-+101498.6%
++102491.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-6h ago
+7h ago
 
 ---
 
@@ -95,13 +95,13 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-12h ago
+13h ago
 
 ---
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -109,7 +109,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
 
-23h ago
+1d ago
 
 ---
 
@@ -117,7 +117,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-6h ago
+7h ago
 
 ---
 
@@ -125,7 +125,7 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 
 Like minnows in the ocean, or more like… plankton Motivating seeing everyone’s big buys and sometimes hard to see what everyone else is moving and sticking to putting in what won’t ruin me if I lose! Been DCAing since £57k and have bigger orders set at £45k,50,55 etc. maybe I’ll be a wholecoiner in 500 years! Hah
 
-22h ago
+23h ago
 
 ---
 
@@ -133,7 +133,7 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't need liquidity). I've dealt with cold wallets in the past and do not enjoy this. Are there safe options? I ultimately want an experience similar to a brokerage investment, but I know leaving BTC on the exchange is a bad idea.
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't n
 
 What are you guys plan, on buying during this bear market ? I sold out (50%) of my position during the last top. I belive right now it's too early for a bottom, but based on my personal discipline and extreme price action i bought back 1/3 (of the 50% i had sold at ath) recently at 61k . I think we will at least retest 60/57k, and reading the tealeaves I expect to realize soon after if we are breaking or bouncing off that level, specially if it is by abril/may, buying another 1/3 then. Last 1/3 if we go substantially below that to around 45/40k or by October/November wherever the price is. If this plays out, i would do the same thing basically that i did during the last bear mkt in 2022, I bought at 40k, 30k, and 20k. What you guys think?
 
-10h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ What are you guys plan, on buying during this bear market ? I sold out (50%) of 
 
 https://preview.redd.it/d1dm5219wbjg1.png?width=1075&format=png&auto=webp&s=2c66949b20a213da42cac9639897d4aa1dabaefd buy bitcoin on February 13 for 69,000 - it's just a gift
 
-11h ago
+12h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 19h ago
 
 A bitcoin price drop to $58,000 could reignite buying momentum.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 1d ago
 
 The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
 
-The Times • 16h ago
+The Times • 17h ago
 
 ---
 
@@ -213,7 +213,7 @@ Fox Business • 1d ago
 
 TMZ just received a third email from the man who claims he knows the identity of Nancy Guthrie's kidnapper ... and he has upped his price.
 
-TMZ • 11h ago
+TMZ • 12h ago
 
 ---
 
@@ -229,7 +229,7 @@ Variety • 16h ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 11h ago
+New York Post • 12h ago
 
 ---
 
@@ -307,7 +307,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 18h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 19h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -321,7 +321,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 940 • ⏱️ 21:49 • 10h ago
+👁️ 25K • 👍 1K • ⏱️ 21:49 • 11h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 224K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
+👁️ 228K • 👍 8K • 💬 1K • ⏱️ 16:43 • 1d ago
 
 ---
 
@@ -341,47 +341,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 27K • 👍 2K • 💬 179 • ⏱️ 15:20 • 8h ago
-
----
-
-**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
-
-Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
-
-📺 Alessio Rastani
-
-👁️ 15K • 👍 2K • 💬 212 • ⏱️ 8:15 • 10h ago
-
----
-
-**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
-
-LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
-
-📺 Altcoin Daily
-
-👁️ 90K • 👍 882 • 💬 260 • ⏱️ 0:34 • 1d ago
-
----
-
-**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
-
-Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
-
-📺 Fox Business
-
-👁️ 43K • 👍 779 • 💬 2K • ⏱️ 8:19 • 1d ago
-
----
-
-**[Scott Bessent BLAMES COINBASE For Bitcoin Crash | EP 1440](https://www.youtube.com/watch?v=HQdd-05j7Yo)**
-
-Scott Bessent did an interview on squawk box and was asked about the Clarity act and bitcoins crash ...
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 381 • 💬 50 • ⏱️ 1:37:28 • 13h ago
+👁️ 33K • 👍 2K • 💬 196 • ⏱️ 15:20 • 9h ago
 
 ---
 
@@ -391,27 +351,67 @@ An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's
 
 📺 No Bs Crypto
 
-👁️ 14K • 👍 807 • 💬 208 • ⏱️ 14:47 • 13h ago
+👁️ 16K • 👍 900 • 💬 242 • ⏱️ 14:47 • 14h ago
 
 ---
 
-**[Bitcoin &amp; Silver: Why The Market Isn&#39;t Broken (It&#39;s Rotating)](https://www.youtube.com/watch?v=TrKw41gc0w8)**
+**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
 
-Are Bitcoin and Silver broken, or is the global market quietly preparing for a massive shift? In this video, we break down the ...
+Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
 
-📺 Financial Funda
+📺 Alessio Rastani
 
-👁️ 629 • 👍 36 • ⏱️ 1:45 • 3h ago
+👁️ 19K • 👍 2K • 💬 260 • ⏱️ 8:15 • 11h ago
 
 ---
 
-**[Bitcoin Investors...This Doesn&#39;t Look Good](https://www.youtube.com/watch?v=ISrs739Wemk)**
+**[Michael Saylor really looks scared 😱](https://www.youtube.com/watch?v=57mjeAjkPNQ)**
 
-Predict Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+LIMITED TIME: ✓ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on ...
 
-📺 CryptosRUs
+📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 655 • ⏱️ 8:08 • 1d ago
+👁️ 93K • 👍 903 • 💬 261 • ⏱️ 0:34 • 1d ago
+
+---
+
+**[BITCOIN: INTO THE WEEKEND ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=kaIVdsvXJK0)**
+
+My Free Trading Course https://www.rt1m.com/free My Discord Community (it's free to join): ...
+
+📺 Road To $1 Million USD
+
+👁️ 4K • 👍 216 • 💬 19 • ⏱️ 8:50 • 12h ago
+
+---
+
+**[Scott Bessent BLAMES COINBASE For Bitcoin Crash | EP 1440](https://www.youtube.com/watch?v=HQdd-05j7Yo)**
+
+Scott Bessent did an interview on squawk box and was asked about the Clarity act and bitcoins crash ...
+
+📺 Simply Bitcoin
+
+👁️ 8K • 👍 389 • 💬 50 • ⏱️ 1:37:28 • 13h ago
+
+---
+
+**[Why Bitcoin Could Hit $0](https://www.youtube.com/watch?v=IXNUM4FMqNs)**
+
+We're watching the worst crypto crash since the FTX scandal. Ben McKenzie explains what's driving the crash, and why this one ...
+
+📺 More Perfect Union
+
+👁️ 1.6M • 👍 93K • 💬 8K • ⏱️ 2:50 • 2d ago
+
+---
+
+**[HISTORICAL BITCOIN SIGNAL IS FLASHING...](https://www.youtube.com/watch?v=54elP1nY18Y)**
+
+WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
+
+📺 Crypto Rover
+
+👁️ 2K • 👍 217 • 💬 9 • ⏱️ 7:51 • 1h ago
 
 ---
 

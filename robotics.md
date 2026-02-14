@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T08:34:34.508521+00:00'
+updated: '2026-02-14T09:32:21.375205+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 08:34 UTC  
+**Last Updated:** February 14, 2026 at 09:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
 
-18h ago
+19h ago
 
 ---
 
@@ -50,7 +50,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-16m ago
+1h ago
 
 ---
 
@@ -66,19 +66,19 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-14h ago
+15h ago
 
 ---
 
 **[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
 
-7h ago
+8h ago
 
 ---
 
 **[Are you a ROS user curious about copper-rs & the rust ecosystem? we made a book for you!](https://www.reddit.com/r/robotics/comments/1r44sm7/are_you_a_ros_user_curious_about_copperrs_the/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -86,7 +86,7 @@ From hardware to software, I see every day tons of new startups, mostly around A
 
 Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
 
-10h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ Has anyone done this? Basically, I need to put a real world lab (I have RGB-D da
 
 Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creating custom servos, and making humanoids/quadriped robots. I wanted to know if anyone has done broad market research in the best actuators or servos on the market? As of now, I see two options Smaller form factor: Servos that can do 35kg of torque, STS3215 are in this category larger form factor: integrated QDD actuators or DIY drone motors such as eagle power 90kv + 9:1 gearbox, or the GIM6010/8108 motors that get about 5-15 nM of torque. Im thinking that there must be a good middle ground option for control and robotic arms/manipulators/linkages between a small 6010 GIM bldc setup and a STS3215, but i dont see many.
 
-14h ago
+15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Howdy! I am a robotic engineer who has dived deep into DIY QDD actuators, creati
 
 Hi I have an FPV drone that i want to control using a Raspberry Pi. For this i want to connect the RPi to the Flight controller and use it as a companion computer. I am using a GEPRC TAKER F745 currently on a BetaFlight firmware. Any suggestions on how i can connect them or what firmware (Ardupilot/PX4) i can use with ROS2 on the RPi.
 
-16h ago
+17h ago
 
 ---
 
@@ -146,7 +146,7 @@ Nature • 1d ago
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -154,7 +154,7 @@ CNN • 4h ago
 
 At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
-Мілітарний • 16h ago
+Мілітарний • 17h ago
 
 ---
 
@@ -168,7 +168,7 @@ Forbes • 1d ago
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Economist • 2d ago
 
 The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
 
-The Jerusalem Post • 10h ago
+The Jerusalem Post • 11h ago
 
 ---
 
@@ -198,7 +198,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 96K • 👍 2K • 💬 177 • ⏱️ 11:59 • 3d ago
+👁️ 98K • 👍 2K • 💬 179 • ⏱️ 11:59 • 3d ago
 
 ---
 
@@ -208,7 +208,17 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 164K • 👍 4K • 💬 2K • ⏱️ 9:47 • 17h ago
+👁️ 171K • 👍 4K • 💬 2K • ⏱️ 9:47 • 18h ago
+
+---
+
+**[Unitree Embodied AI Model Manufactures Robots in Factory🤩](https://www.youtube.com/watch?v=ub2gWviKZpk)**
+
+Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment at Unitree's own robot factory.
+
+📺 Unitree Robotics
+
+👁️ 22K • 👍 684 • 💬 107 • ⏱️ 0:45 • 23h ago
 
 ---
 
@@ -236,7 +246,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 53K • 👍 3K • 💬 213 • ⏱️ 12:38 • 17h ago
+👁️ 57K • 👍 3K • 💬 220 • ⏱️ 12:38 • 18h ago
 
 ---
 
@@ -246,7 +256,7 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 📺 AI News
 
-👁️ 6K • 👍 106 • 💬 25 • ⏱️ 8:03 • 4d ago
+👁️ 6K • 👍 106 • 💬 25 • ⏱️ 8:03 • 5d ago
 
 ---
 
@@ -256,7 +266,17 @@ The biggest fear about humanoid robots isn't strength. It's control. Future robo
 
 📺 By 2050
 
-👁️ 63K • 👍 2K • 💬 46 • ⏱️ 0:57 • 1d ago
+👁️ 67K • 👍 2K • 💬 46 • ⏱️ 0:57 • 1d ago
+
+---
+
+**[Humanoid Robots Doing Backflips 🤖🔥](https://www.youtube.com/watch?v=xqyjrT2WyGc)**
+
+Humanoid robots are pushing physical limits — with real-time balance control, torque optimization, and AI-powered motion ...
+
+📺 Facts TV 91
+
+👁️ 19K • 👍 157 • 💬 10 • ⏱️ 0:06 • 8h ago
 
 ---
 
@@ -266,27 +286,7 @@ The AI and robot situation is growing much faster than we think. Ai, mass survei
 
 📺 Aaron Page 
 
-👁️ 29K • 👍 1K • 💬 212 • ⏱️ 24:43 • 2d ago
-
----
-
-**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
-
-Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 97 • 💬 8 • ⏱️ 9:26 • 4d ago
-
----
-
-**[Tesla Optimus Was Built for Mars  #teslaoptimus  #elonmusk  #teslabotgen3  #humanoidrobots  #mars](https://www.youtube.com/watch?v=AEyxJrYsQW0)**
-
-You think Elon Musk built Optimus to fold laundry? That was a distraction. In 2026, the real plan is obvious: You can't send ...
-
-📺 By 2050
-
-👁️ 1.1M • 👍 25K • 💬 845 • ⏱️ 0:56 • 4d ago
+👁️ 30K • 👍 1K • 💬 214 • ⏱️ 24:43 • 2d ago
 
 ---
 
