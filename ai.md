@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T10:55:33.750374+00:00'
+updated: '2026-02-14T11:24:33.660804+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
+- videos
 - social
 - repositories
-- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 10:55 UTC  
+**Last Updated:** February 14, 2026 at 11:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -133,7 +133,7 @@ CNBC • 17h ago
 
 OpenAI’s restructuring may serve as a test case for how society oversees the work of organizations with the potential to both provide benefits and harm humanity.
 
-The Conversation • 21h ago
+The Conversation • 22h ago
 
 ---
 
@@ -141,13 +141,13 @@ The Conversation • 21h ago
 
 Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.
 
-NPR • 55m ago
+NPR • 1h ago
 
 ---
 
 **[Working in A.I. Lifted Their Compensation. Now They Want Prenups.](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
 
-The New York Times • 54m ago
+The New York Times • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 54m ago
 
 At Ingka Group, the largest IKEA retailer in 32 countries, leaders set out to adopt AI in a way that wouldn’t put their culture at risk.
 
-Fortune • 55m ago
+Fortune • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Business Insider • 1d ago
 
 Mustafa Suleyman said that AI is on the verge of having "human-level performance" and will soon automate white collar tasks.
 
-Futurism • 17h ago
+Futurism • 18h ago
 
 ---
 
@@ -244,7 +244,7 @@ The Federal Aviation Administration is closing the airspace around El Paso Inter
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 266 • 💬 441 • 15h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 266 • 💬 441 • 16h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -252,7 +252,7 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 265 • 💬 155 • 17h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 265 • 💬 155 • 18h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -308,7 +308,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4r9bIJ
 
 📺 Dan Martell
 
-👁️ 43K • 👍 3K • 💬 137 • ⏱️ 18:34 • 20h ago
+👁️ 43K • 👍 3K • 💬 137 • ⏱️ 18:34 • 21h ago
 
 ---
 
@@ -328,7 +328,7 @@ Artificial intelligence has been hailed as one of the most transformative techno
 
 📺 ColdFusion
 
-👁️ 351K • 👍 21K • 💬 3K • ⏱️ 12:49 • 19h ago
+👁️ 351K • 👍 21K • 💬 3K • ⏱️ 12:49 • 20h ago
 
 ---
 
@@ -378,7 +378,7 @@ Check out Cape and use code LOGICALLY33 to get 33% off your first six months ...
 
 📺 Logically Answered
 
-👁️ 269K • 👍 10K • 💬 2K • ⏱️ 14:39 • 14h ago
+👁️ 269K • 👍 10K • 💬 2K • ⏱️ 14:39 • 15h ago
 
 ---
 
@@ -478,7 +478,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 44,892 • ❤️ 836 • 18h ago
+⬇️ 44,892 • ❤️ 836 • 19h ago
 
 ---
 
@@ -698,7 +698,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 7h ago
+⭐ 2.2k • 🔱 108 • 8h ago
 
 ---
 

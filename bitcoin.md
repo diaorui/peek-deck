@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T10:55:33.759692+00:00'
+updated: '2026-02-14T11:24:33.669944+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 10:55 UTC  
+**Last Updated:** February 14, 2026 at 11:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 **[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -133,7 +133,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-58m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Like minnows in the ocean, or more like… plankton Motivating seeing everyone�
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 1d ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 13h ago
+New York Post • 14h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Motley Fool • 1h ago
 
 **[The next coin I am watching closely after Bitcoin](https://www.binance.com/en/square/post/291477299589537)**
 
-Binance • 3h ago
+Binance • 4h ago
 
 ---
 
@@ -303,7 +303,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 20h ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 21h ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -317,7 +317,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • ⏱️ 21:49 • 12h ago
+👁️ 25K • 👍 1K • ⏱️ 21:49 • 13h ago
 
 ---
 
@@ -337,7 +337,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 196 • ⏱️ 15:20 • 10h ago
+👁️ 33K • 👍 2K • 💬 196 • ⏱️ 15:20 • 11h ago
 
 ---
 
@@ -347,7 +347,7 @@ An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's
 
 📺 No Bs Crypto
 
-👁️ 16K • 👍 900 • 💬 242 • ⏱️ 14:47 • 15h ago
+👁️ 16K • 👍 900 • 💬 242 • ⏱️ 14:47 • 16h ago
 
 ---
 
@@ -357,7 +357,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 19K • 👍 2K • 💬 260 • ⏱️ 8:15 • 12h ago
+👁️ 19K • 👍 2K • 💬 260 • ⏱️ 8:15 • 13h ago
 
 ---
 
@@ -377,7 +377,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Community (it's free
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 216 • 💬 19 • ⏱️ 8:50 • 13h ago
+👁️ 4K • 👍 216 • 💬 19 • ⏱️ 8:50 • 14h ago
 
 ---
 
