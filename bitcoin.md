@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T16:31:37.057262+00:00'
+updated: '2026-02-14T17:26:56.517819+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 16:31 UTC  
+**Last Updated:** February 14, 2026 at 17:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,452.77
+### $69,663.73
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -0.7%  
+**24h:** +1.1%  
+**7d:** -0.6%  
 **30d:** -26.9%  
 **90d:** -24.3%  
 **1y:** -28.4%  
@@ -79,7 +79,7 @@ Rank #1
 
 **[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-7h ago
+8h ago
 
 ---
 
@@ -95,7 +95,15 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-6h ago
+7h ago
+
+---
+
+**[Dan Morehead from Pantera Capital, just said what everyone's thinking but nobody's saying: "There will be a global arms race for Bitcoin within the next 2-3 years."](https://www.reddit.com/r/Bitcoin/comments/1r4pv07/dan_morehead_from_pantera_capital_just_said_what/)**
+
+The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
+
+22m ago
 
 ---
 
@@ -103,13 +111,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-14h ago
-
----
-
-**[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
-
-23h ago
+15h ago
 
 ---
 
@@ -117,7 +119,13 @@ hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto
 
 Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentiment wears off, the price isn’t going to chop sideways forever; a couple green days & FOMO kicks in - volatility suddenly works in its favor. Always happened always will happen. Bitcoin is a perfect model of investor psychology, fear then FOMO fear then FOMO.
 
-14h ago
+15h ago
+
+---
+
+**[Guess Whos Back, Back Again](https://www.reddit.com/r/Bitcoin/comments/1r3uia4/guess_whos_back_back_again/)**
+
+1d ago
 
 ---
 
@@ -125,7 +133,15 @@ Its going up, fast. Bitcoin is volatile - that works both ways. Once bear sentim
 
 Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as I think im fine to buy a couple hundred... BOOM it either sky rockets or another random medical bill pops up worth a couple hundred and then BTC tanks... So I guess your welcome? And I'm sorry.
 
-20h ago
+21h ago
+
+---
+
+**[First-time buyer planning to hold long term; how do you approach accumulating Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1r4m28k/firsttime_buyer_planning_to_hold_long_term_how_do/)**
+
+Hi everyone, I’m new and recently bought about ¥75,000 worth of Bitcoin. I’m planning to hold for the long run and continue learning. I’m curious how more experienced people think about building their position over time. Do you follow a fixed schedule, focus on conviction, or have rules you stick to during volatility? I’m not asking for price predictions; just hoping to understand different approaches and mindsets. Thanks a lot
+
+2h ago
 
 ---
 
@@ -133,23 +149,7 @@ Had to drop nearly 10k in medical bills... sure enough BTC tanks and as soon as 
 
 I seek simplicity in my life. I want Bitcoin exposure (as an investment, don't need liquidity). I've dealt with cold wallets in the past and do not enjoy this. Are there safe options? I ultimately want an experience similar to a brokerage investment, but I know leaving BTC on the exchange is a bad idea.
 
-14h ago
-
----
-
-**[Daily Discussion, February 14, 2026](https://www.reddit.com/r/Bitcoin/comments/1r4cvwi/daily_discussion_february_14_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-10h ago
-
----
-
-**[bitcoin gotta be trolling at this point](https://www.reddit.com/r/Bitcoin/comments/1r3kqng/bitcoin_gotta_be_trolling_at_this_point/)**
-
-like we was just vibing near 100k, everybody loud, posting rockets, acting rich in theory then boom 90 80 70 just casually opening doors like “you forgot something down here” bro who asked for this my portfolio looking at me like I did something wrong and there’s always that one guy “it’s a healthy correction” healthy?? I’m stressed eating cereal at 2am watching candles bleed bitcoin don’t even walk downstairs it just throws itself down still not selling tho but damn can we chill for five minutes
-
-1d ago
+15h ago
 
 ---
 
@@ -161,37 +161,7 @@ like we was just vibing near 100k, everybody loud, posting rockets, acting rich 
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[Standard Chartered slashes 50% price target for Bitcoin](https://www.thestreet.com/crypto/trading/standard-chartered-slashes-50-price-target-for-bitcoin)**
-
-Bank warns downside risk remains amid ETF selling
-
-thestreet.com • 1d ago
-
----
-
-**[Standard Chartered sees bitcoin sliding to $50,000, ether to $1,400 before recovery](https://www.coindesk.com/markets/2026/02/12/standard-chartered-sees-bitcoin-sliding-to-usd50-000-ether-to-usd1-400-before-recovery)**
-
-The bank cuts its 2026 crypto price targets, warning of further near-term capitulation as ETF outflows and macro headwinds weigh on digital assets.
-
-CoinDesk • 2d ago
-
----
-
-**[Strategy’s Stretch Preferreds Deepen Bitcoin Bet While Aiming To Limit Dilution](https://ca.finance.yahoo.com/news/strategy-stretch-preferreds-deepen-bitcoin-141126179.html)**
-
-Strategy Inc (NasdaqGS:MSTR) is issuing additional perpetual preferred shares, called Stretch, to fund continued Bitcoin accumulation. The company is shifting more of its Bitcoin funding toward preferred equity instead of common equity to address concerns about dilution. Management has reiterated plans to keep buying Bitcoin over the long term and has ruled out forced sales despite price volatility and large unrealized losses. Strategy, trading at $133.88, has been closely linked to Bitcoin...
-
-Yahoo! Finance Canada • 2h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -199,15 +169,37 @@ Yahoo! Finance Canada • 2h ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 19h ago
+New York Post • 20h ago
 
 ---
 
-**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqewoYuU3DM-omyAs8ZPsC1g4RCOFNGIf0slsvuqY9kgIqJXrfBT_dVt&gaa_ts=69909d5c&gaa_sig=x_ol2NMXK0di22WsQ_Xxh96ilv8DMmYznyn2Hq4-OlLIO581tE4kSL775rTP5wuZWbVZiTfv1nZtcpTWXXX6Zw%3D%3D)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
-The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-The Times • 1d ago
+Nasdaq • 4h ago
+
+---
+
+**[Bitcoin and XRP Are Crashing. Should You Buy the Dip?](https://www.nasdaq.com/articles/bitcoin-and-xrp-are-crashing-should-you-buy-dip)**
+
+Key PointsThe crypto market crashed in the first week of February.
+
+Nasdaq • 2d ago
+
+---
+
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-now-and-hold-for-10-y/)**
+
+Both these assets have earned their place as leaders, but the next 10 years could be tough for one of them.
+
+The Motley Fool • 4h ago
+
+---
+
+**[Bitcoin Steadies in Asia After Standard Chartered Warning](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-btc-under-pressure-in-asia-after-standard-chartered-warning)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -225,11 +217,19 @@ NewsNation • 2d ago
 
 ---
 
-**[New Nancy Guthrie Note, Sender Demands 1 Bitcoin for Info On Kidnapping Suspect](https://www.tmz.com/2026/02/11/new-nancy-guthrie-note-demands-bitcoin-for-suspect-information/)**
+**[Exclusive | How bitcoin exchange gave authorities’ ‘control’ over Nancy Guthrie’s kidnapper: crypto expert](https://pagesix.com/2026/02/11/celebrity-news/how-bitcoin-exchange-gave-authorities-control-over-nancy-guthries-kidnapper-crypto-expert/)**
 
-There's a new note in the Nancy Guthrie case, but this one doesn't seem to be from the kidnapper ... instead, it's from someone offering to give up information on the kidnapper.
+“They are now the target of forensic tracking,” CEO of Lionsgate Network Bezalel Eithan Raviv said of the suspect.
 
-TMZ • 3d ago
+Page Six • 2d ago
+
+---
+
+**[Is Maga losing faith in Trump’s bitcoin promise?](https://www.thetimes.com/business/economics/article/maga-trump-bitcoin-kscxk5jkl?gaa_at=eafs&gaa_n=AWEtsqdpzPuZPrzXuVqoHrSeIF8gMUqOHlAg9EJNQAAqz22j1ItDnDKl9Ihp&gaa_ts=6990b3cc&gaa_sig=yNDLCzfeDn5gcTKWM1zGHnextyLKtcri81Csl9w3_tU1pLCJ4QNjVmJxaqd8Cx5ARi4dvm6hC_PDdjSe8gx4MQ%3D%3D)**
+
+The US president’s supporters dreamt of a day when the cryptocurrency would hit $300,000. Now the market is in disarray
+
+The Times • 1d ago
 
 ---
 
@@ -239,7 +239,7 @@ TMZ • 3d ago
 
 **[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
 
-⬆️ 58 • 💬 67 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
+⬆️ 58 • 💬 68 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
 
 ---
 
@@ -259,7 +259,7 @@ TMZ • 3d ago
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 5d ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 6d ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -275,7 +275,7 @@ Bithumb, Korea's second-largest cryptocurrency exchange, mistakenly credited use
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
 
-⬆️ 4 • 💬 0 • 5d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+⬆️ 4 • 💬 0 • 6d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
 
 ---
 
@@ -321,7 +321,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 1K • ⏱️ 21:49 • 18h ago
+👁️ 31K • 👍 1K • ⏱️ 21:49 • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 3K • 💬 241 • ⏱️ 15:20 • 16h ago
+👁️ 47K • 👍 3K • 💬 241 • ⏱️ 15:20 • 17h ago
 
 ---
 
@@ -391,7 +391,7 @@ An anonymous macro trader nailed Bitcoin's $126K top, $60K drop — and now he's
 
 📺 No Bs Crypto
 
-👁️ 22K • 👍 1K • 💬 262 • ⏱️ 14:47 • 21h ago
+👁️ 22K • 👍 1K • 💬 262 • ⏱️ 14:47 • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 28K • 👍 3K • 💬 428 • ⏱️ 8:15 • 18h ago
+👁️ 28K • 👍 3K • 💬 428 • ⏱️ 8:15 • 19h ago
 
 ---
 
@@ -411,7 +411,7 @@ Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptovers
 
 📺 Benjamin Cowen
 
-👁️ 41K • 👍 578 • 💬 46 • ⏱️ 0:57 • 23h ago
+👁️ 41K • 👍 578 • 💬 46 • ⏱️ 0:57 • 1d ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T16:31:37.066773+00:00'
+updated: '2026-02-14T17:26:56.527043+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 16:31 UTC  
+**Last Updated:** February 14, 2026 at 17:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Lego strandbeest (Part 2)](https://www.reddit.com/r/robotics/comments/1r4pn0d/lego_strandbeest_part_2/)**
+
+I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
+
+30m ago
+
+---
+
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
-18h ago
+19h ago
+
+---
+
+**[Personal robotics project – request for advice and feedback](https://www.reddit.com/r/robotics/comments/1r4pjw4/personal_robotics_project_request_for_advice_and/)**
+
+Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
+
+34m ago
 
 ---
 
@@ -42,7 +58,7 @@ Robotics research and industry news
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-8h ago
+9h ago
 
 ---
 
@@ -56,7 +72,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 **[[Release] LinkForge v1.2.3: Professional URDF/XACRO Editor for Blender](https://www.reddit.com/r/robotics/comments/1r4mk4j/release_linkforge_v123_professional_urdfxacro/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +80,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
 
-13h ago
+14h ago
 
 ---
 
@@ -72,7 +88,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-6h ago
+7h ago
 
 ---
 
@@ -80,27 +96,13 @@ I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especial
 
 From hardware to software, I see every day tons of new startups, mostly around AI. I'm not sure if it's just me that my Twitter algorithm but like every day someone appears with all kinds of products. Lately i see an abundance of data collection, AI schematic or PCB creators, AI ros configurators, etc.... Are the tech bros got tired of AI SaaS saturation and getting into robotics hoping to get an edge?
 
-22h ago
+23h ago
 
 ---
 
 **[Servo-driven ball screw linear actuators for a real-time 6-DOF Stewart platform (cross-post from r/AskEngineers)](https://www.reddit.com/r/robotics/comments/1r472vj/servodriven_ball_screw_linear_actuators_for_a/)**
 
-15h ago
-
----
-
-**[Are you a ROS user curious about copper-rs & the rust ecosystem? we made a book for you!](https://www.reddit.com/r/robotics/comments/1r44sm7/are_you_a_ros_user_curious_about_copperrs_the/)**
-
 16h ago
-
----
-
-**[Creating simulation environments from real world?](https://www.reddit.com/r/robotics/comments/1r430an/creating_simulation_environments_from_real_world/)**
-
-Has anyone done this? Basically, I need to put a real world lab (I have RGB-D data and maps) into Isaac Sim somehow to create a labeled point cloud dataset for point cloud segmentation. Is there an existing way to do this that can structure the environment and label objects in the simulation world for automatic data collection?
-
-18h ago
 
 ---
 
@@ -116,6 +118,22 @@ BBC • 1d ago
 
 ---
 
+**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
+
+Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 1d ago
+
+---
+
 **[A call for a performance-driven approach for soft robotics research](https://www.nature.com/articles/s44182-026-00073-4)**
 
 npj Robotics - A call for a performance-driven approach for soft robotics research
@@ -128,13 +146,21 @@ Nature • 2d ago
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-CNN • 12h ago
+CNN • 13h ago
 
 ---
 
 **[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
 
 Forbes • 1d ago
+
+---
+
+**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
+
+Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -146,43 +172,19 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 ---
 
-**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
-
-Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
-
-Yahoo Finance • 2d ago
-
----
-
 **[IDF's new mechanical AI robot cleans tanks without soldiers](https://www.jpost.com/israel-news/defense-news/article-886585)**
 
 The robot operates autonomously, without soldiers present in dangerous environments and without exposure to chemicals, oils, or extreme heat.
 
-The Jerusalem Post • 18h ago
+The Jerusalem Post • 19h ago
 
 ---
 
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
 
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
 
-ChinaPower Project • 1d ago
-
----
-
-**[Robots with human-inspired eyes have better vision](https://www.economist.com/science-and-technology/2026/02/11/robots-with-human-inspired-eyes-have-better-vision)**
-
-Their reaction times can even surpass their makers’
-
-The Economist • 2d ago
-
----
-
-**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
-
-For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
-
-New York Post • 1d ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -216,7 +218,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 29K • 👍 1K • 💬 156 • ⏱️ 53:47 • 4h ago
+👁️ 29K • 👍 1K • 💬 156 • ⏱️ 53:47 • 5h ago
 
 ---
 
@@ -226,7 +228,7 @@ PART 3: I was held prisoner by E.L.B.E.R.R the robot and forced to build him an 
 
 📺 LIGHTS ARE OFF
 
-👁️ 277K • 👍 23K • 💬 3K • ⏱️ 10:32 • 7h ago
+👁️ 277K • 👍 23K • 💬 3K • ⏱️ 10:32 • 8h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T16:31:37.048534+00:00'
+updated: '2026-02-14T17:26:56.509380+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
+- videos
 - social
 - repositories
-- videos
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 16:31 UTC  
+**Last Updated:** February 14, 2026 at 17:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 5h ago
+🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 6h ago
+
+---
+
+**[Microsoft AI chief gives it 18 months for all white-collar work to be automated by AI](https://www.reddit.com/r/artificial/comments/1r4oc2i/microsoft_ai_chief_gives_it_18_months_for_all/)**
+
+Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
+
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 1h ago
 
 ---
 
@@ -49,7 +57,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 1h ago
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 2h ago
 
 ---
 
@@ -57,7 +65,7 @@ It does not happen very often in the history of business that an orthogonal prod
 
 Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Most medical AI systems today rely heavily on large, opaque language models. They are powerful, but probabilistic, difficult to audit, and expensive to deploy. We’ve taken a different approach. Our medical AI is a hybrid system combining: • A compact ~3GB language model • A deterministic proprietary medical Knowledge Graph (5K nodes, 25K edges) • A structured RAG-based answer audit layer The Knowledge Graph spans 7 core medical categories: Diseases, Symptoms, Treatment Methods, Risk Factors, Diagnostic Tools, Body Parts, and Cellular Structures and, critically, their relationships. Why this architecture matters 1️⃣ Comparable answer quality with dramatically lower compute and reduced hallucination. A ~3GB model can run on commodity or on-prem infrastructure, enabling hospital deployment without the heavy cloud dependency typically associated with 80GB-class LLMs. 2️⃣ Deterministic medical backbone The Knowledge Graph constrains reasoning. No hallucinated treatments. No unsupported disease relationships. Medical claims must exist within structured ontology. 3️⃣ Verifiable answers via RAG audit Every response can be traced back to specific nodes and relationships in the graph. Symptom → Disease → Diagnostic Tool → Treatment. Structured, auditable, explainable. 4️⃣ Separation of language from medical truth The LLM explains and contextualizes. The Knowledge Graph validates and grounds. This architectural separation dramatically improves reliability and regulatory defensibility. 5️⃣ Complete control over the core of truth Unlike black-box systems that rely entirely on opaque model weights, this architecture gives full control over the medical knowledge layer. You decide what is included, how relationships are defined, and how updates are governed. In high-stakes domains like healthcare, scaling parameter count is not the only path forward. Controllability, traceability, and verifiability may matter more. Hybrid architectures that combine probabilistic language models with deterministic knowledge systems offer a compelling alternative. The model is capable of clinical case analysis and diagnostic reasoning. It is currently available for public testing on Hugging Face Spaces (shared environment, typical response time: 15–30 seconds): https://huggingface.co/spaces/cmtopbas/medical-slm-testing Happy to connect with others exploring Knowledge Graph + LLM systems in regulated domains. #MedicalAI #HealthcareInnovation #KnowledgeGraphs #ExplainableAI #RAG #ClinicalAI #HealthTech
 
-20h ago
+21h ago
 
 ---
 
@@ -66,14 +74,6 @@ Introducing Open Book Medical AI: Deterministic Knowledge Graph + Compact LLM Mo
 Spotify credits Claude Code and its internal AI system Honk with speeding up development.
 
 🔗 [TechCrunch](https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/) • 1d ago
-
----
-
-**[Men are from mars, women from Venus - how Claude helps my relationship.](https://www.reddit.com/r/artificial/comments/1r4k4wj/men_are_from_mars_women_from_venus_how_claude/)**
-
-Long before AI, I realized that fighting / arguing with my wife is way more effective over text. In the middle of a heated fight I would just tell her “let’s move to text” and go sit on a bench outside near the lake where it’s calm. The reason is - when it’s heated face to face, you make poor word choices because you don’t have time to think. So you say all torn things you don’t mean, and it’s compounded by the fact that your partner make their own interpretations based on their trauma, patterns and defense mechanisms. It’s a recipe for disaster. Fighting over text allows you to think. It allows you to read their messages twice. Think about what they are really saying, then spend a few mins thinking about how to respond. Type… delete… type… read it thoroughbred eyes, rephrase so it’s clearer, realize you’re wrong about something, change it… send. —- Wife and I have been together since a young age, and we did one smart thing - we went to couples therapy BEFORE we started having serious trouble. What I’ve learned back then is that 90% of trouble in a relationship is about communication. Men and women communicate differently. It helped us get through a lot, but after 15 years and 2 kids we found ourselves struggling. We did another round of couples therapy, and again, it turned out 90% of our problems were rooted in different perspectives we couldn’t communicate to eachother because one persons hears something else than what the other said. — Recently I’ve started involving Claude. I know it sounds bad, but stay with me. No, I don’t let Claude fight with my wife for me. But I’ll often take a screenshot of her message, and ask him “what does she REALLY mean here?” He will often see things that I can’t see through my anger. Being cool and emotionally detached is a huge advantage - just like our therapist had. Sometimes I’ll upload a screenshot of a short correspondence and ask for his opinion. He will often tell me im wrong, or just ask me “hey, why sis you say X? It’s not related to what she asked you” and we’ll dig into it and realize im carrying something from my childhood, or a bad model drom my parents. Often I will run my responses by him before sending. And he will often go “bro, this will just trigger her, maybe rephrase” and help me do it. What I’ve noticed is that our arguments got a lot shorter. She suddenly responds with “ok I get it” etc instead of blowing up because I triggered her. When we end up still disagreeing, we at least see each others point if view, and are able to be show empathy one another, despite not seeing eye to eye, and work together towards a solution or compromise - much easier when you know what the other side really needs. Tips for using Claude for relationships: Be honest about it with your partner. Explain what I explained here if they feel weird about it. Ask to try it once. Of you both do it - don’t ask other what Claude wrote and what they did. Doesn’t help anyone. 🚨 IMPORTANT: Claude is not a replacement for professional. This isn’t instead of therapy for you or couples therapy for both of you. Any mental health help from AI is potentially dangerous. Use responsibility just like you drink responsibly, or use a know in the kitchen responsibly, or take medicine responsibly. Don’t let it be your cheerleader. This is t about AI telling you about you’re right and he or she is wrong. And Claude will do that, because you’re the one paying it. Tell him specifically that you need 100% honesty, and a mirror, otherwise he’s not helping you, only hurting you. Use a project, put that last thing as custom instructions. When you run into key points in arguments, touching rooots of issues etc - export the chat part and upload to the object files (example (“why I always respond like X when she Y’s”) Claude will get to know your partner, your patterns and relationships ship dysfunctional dynamics, and recognize them in later convos. “Hey hey hey you’re doing that thing again where you push her away when she points out your…. Here’s an opportunity to break this loop!” Or “You know she will be triggered if you send this, rephrase for the love of god lol” This might seem a bit much, or too cold, but I use it very systematically. For example, we recognized my wife suffers from RSD, and made an RSD cheat sheet for sensitive topics, that includes things like when to bring them up, words to avoid, reminders of my patterns I need to be aware of / avoid etc Huge life improvement. — Hope this helps someone. You also get offended you interpret reactions and gestures incorrectly, you make poor word
-
-3h ago
 
 ---
 
@@ -121,77 +121,81 @@ The CLI is becoming a dominant surface area for developer productivity - it offe
 
 ## Google News: "ai"
 
-**[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
-
-Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
-
-Fortune • 22h ago
-
----
-
 **[It's been a big — but rocky — week for AI models from China. Here's what's happened](https://www.cnbc.com/2026/02/14/new-china-ai-models-alibaba-bytedance-seedance-kuaishou-kling.html)**
 
 New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
-**[Is it love? Or is it an AI romance scam?](https://www.vox.com/future-perfect/479200/ai-romance-scams-valentines-day)**
+**[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
 
-Don’t let AI steal your heart — or your money.
+Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-vox.com • 3h ago
-
----
-
-**[Bankers’ Winter Getaway to Sunny Florida Is Upended By AI Chaos](https://www.bloomberg.com/news/articles/2026-02-14/bankers-winter-getaway-to-sunny-florida-is-upended-by-ai-chaos)**
-
-Bloomberg.com • 2h ago
+Fortune • 23h ago
 
 ---
 
-**[They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day.](https://www.usatoday.com/story/life/health-wellness/2026/02/14/theyre-dating-ai-characters-they-have-big-valentines-day-plans/88663687007/)**
+**[I'm an AI millionaire in Washington. Tax me | Op-Ed](https://www.seattletimes.com/opinion/im-an-ai-millionaire-in-washington-tax-me/)**
 
-Ahead of Valentine’s Day, EVA AI hosted a pop up where human users could take their AI companions on a date. I went to see what it's like.
-
-USA Today • 3h ago
+The Seattle Times • 2h ago
 
 ---
 
-**[My Dinner Date With A.I.](https://www.nytimes.com/2026/02/13/dining/ai-dinner-date-restaurant.html)**
+**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
 
-The New York Times • 1d ago
+An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
 
----
-
-**[Mocktails, potato balls, and 10 bots: My cringe Valentine's date at the AI companion wine bar.](https://www.businessinsider.com/valentines-date-ai-companion-wine-bar-cringe-2026-2)**
-
-Dating humans can be a nightmare. Dating bots at an AI wine bar is another thing entirely.
-
-Business Insider • 7h ago
+The Guardian • 1d ago
 
 ---
 
-**[Opinion | How Fast Can A.I. Change the Workplace?](https://www.nytimes.com/2026/02/14/opinion/ai-jobs-employment.html)**
+**[Viral AI video of Brad Pitt fighting Tom Cruise shakes Hollywood](https://www.latimes.com/entertainment-arts/business/story/2026-02-13/brad-pitt-fighting-tom-cruise-ai-video-shakes-hollywood)**
 
-The New York Times • 4h ago
+Earlier this week, an AI-generated video of Tom Cruise fighting Brad Pitt went viral, sparking outrage amongst creatives and the studios alike.
 
----
-
-**[Dr. Oz pushes AI avatars as a fix for rural health care. Not so fast, critics say](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)**
-
-Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.
-
-NPR • 6h ago
+Los Angeles Times • 21h ago
 
 ---
 
-**[AI Video of Tom Cruise Fighting Brad Pitt Has Top Writer Warning: “It’s Likely Over for Us”](https://www.hollywoodreporter.com/movies/movie-news/ai-video-tom-cruise-brad-pitt-writer-warning-1236504200/)**
+**['Deadpool' Writer on Stunning Viral AI Clip: It's 'Over For Us'](https://www.yahoo.com/entertainment/movies/articles/deadpool-writer-stunning-viral-ai-140110537.html)**
 
-A stunning viral video of Cruise vs. Pitt has 'Deadpool & Wolverine' screenwriter warning: "Hollywood is about to be revolutionized/decimated."
+Amazing - and unsettling.
 
-The Hollywood Reporter • 1d ago
+Yahoo • 3h ago
+
+---
+
+**[AI tool Claude helped capture Venezuelan dictator Maduro in US military raid operation: report](https://www.foxnews.com/us/ai-tool-claude-helped-capture-venezuelan-dictator-maduro-us-military-raid-operation-report)**
+
+The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
+
+Fox News • 12h ago
+
+---
+
+**[US military used Anthropic’s AI model Claude in Venezuela raid, report says](https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid)**
+
+Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
+
+The Guardian • 1h ago
+
+---
+
+**[US Military Used Claude AI In Venezuela Operation To Capture Maduro: Report](https://www.ndtv.com/world-news/us-military-used-claude-ai-in-venezuela-operation-to-capture-nicolas-maduro-report-11003847)**
+
+The US military used artificial intelligence in its operation to capture then Venezuelan President Nicolas Maduro last month, according to a report by the Wall Street Journal.
+
+NDTV • 2h ago
+
+---
+
+**[ChatGPT promised to help her find her soulmate. Then it betrayed her](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot)**
+
+ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
+
+NPR • 7h ago
 
 ---
 
@@ -203,7 +207,7 @@ The Hollywood Reporter • 1d ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2301 • 💬 940 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2306 • 💬 941 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -212,19 +216,19 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 937 • 💬 744 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 938 • 💬 744 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 707 • 💬 300 • 1d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 707 • 💬 301 • 2d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 496 • 💬 249 • 15h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 513 • 💬 257 • 16h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -232,7 +236,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 296 • 💬 487 • 21h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 306 • 💬 501 • 22h ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -240,13 +244,13 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 268 • 💬 157 • 23h ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 269 • 💬 159 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 228 • 💬 110 • 20h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 230 • 💬 112 • 21h ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -270,7 +274,7 @@ US labels SpaceX a common carrier by air, will regulate firm under railway law.
 
 One Rust binary that runs the full AI assistant: multi-provider LLM routing, tools, memory, sandboxed execution, and multi-channel access.
 
-⬆️ 111 • 💬 42 • 1d ago • [Moltis](https://www.moltis.org)
+⬆️ 113 • 💬 42 • 1d ago • [Moltis](https://www.moltis.org)
 
 ---
 
@@ -284,7 +288,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 14K • 👍 166 • 💬 124 • ⏱️ 3:04 • 10h ago
+👁️ 14K • 👍 166 • 💬 124 • ⏱️ 3:04 • 11h ago
 
 ---
 
@@ -314,7 +318,7 @@ SeedDance 2.0 is taking the AI video world by storm—and in this hands-on deep 
 
 📺 Benji’s AI Playground
 
-👁️ 3K • 👍 114 • 💬 31 • ⏱️ 14:15 • 5h ago
+👁️ 3K • 👍 114 • 💬 31 • ⏱️ 14:15 • 6h ago
 
 ---
 
@@ -324,7 +328,7 @@ If you've been on social media this week, you've likely seen an ominous warning 
 
 📺 CBS News
 
-👁️ 30K • 👍 645 • 💬 251 • ⏱️ 7:08 • 16h ago
+👁️ 30K • 👍 645 • 💬 251 • ⏱️ 7:08 • 17h ago
 
 ---
 
@@ -344,7 +348,7 @@ Something big is happening in AI — and for the first time, markets are reactin
 
 📺 GVS Deep Dive
 
-👁️ 7K • 👍 683 • 💬 156 • ⏱️ 22:55 • 8h ago
+👁️ 7K • 👍 683 • 💬 156 • ⏱️ 22:55 • 9h ago
 
 ---
 
@@ -402,7 +406,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 6,091 • ❤️ 484 • 12h ago
+⬇️ 6,091 • ❤️ 484 • 13h ago
 
 ---
 
@@ -682,7 +686,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 245 • 1h ago
+⭐ 2.4k • 🔱 245 • 2h ago
 
 ---
 
@@ -692,7 +696,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 13h ago
+⭐ 2.2k • 🔱 108 • 14h ago
 
 ---
 
@@ -702,7 +706,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 155 • 21h ago
+⭐ 2.2k • 🔱 155 • 22h ago
 
 ---
 
@@ -712,7 +716,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 135 • 25m ago
+⭐ 2.0k • 🔱 135 • 1h ago
 
 ---
 
@@ -732,7 +736,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.7k • 🔱 218 • 5h ago
+⭐ 1.7k • 🔱 218 • 6h ago
 
 ---
 
