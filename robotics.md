@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T18:38:14.686479+00:00'
+updated: '2026-02-15T19:26:28.335711+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 18:38 UTC  
+**Last Updated:** February 15, 2026 at 19:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,15 +42,23 @@ Robotics research and industry news
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-1h ago
+2h ago
+
+---
+
+**[Armatron Robotic Arm only One motor amazing mechanical mechanism engineering #roboticarm](https://www.reddit.com/r/robotics/comments/1r5lu49/armatron_robotic_arm_only_one_motor_amazing/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 1h ago
 
 ---
 
 **[I want to build a chassis](https://www.reddit.com/r/robotics/comments/1r5jvh8/i_want_to_build_a_chassis/)**
 
-So I wanna build a small chassis, a single chair that will be operated by joystick and or via Wi-Fi with an Xbox controller or something similar. Anyone have any general outlines of where I should start with that like what kind of controller lens itself well to that type of control what type of motor, etc. have a pretty chunky budget for this but I’m wondering if anyone can suggest starting places. I can weld Tig weld and get basic machining done. My original thought was to start with a Taylor Dunn cart and adapt it, but it actually seems easier at this point to just build something from scratch. Thanks in advance for any suggestions
+So I wanna build a small chassis, a single chair that will be operated by joystick and or via Wi-Fi with an Xbox controller or something similar. Anyone have any general outlines of where I should start with that like what kind of controller lens itself well to that type of control what type of motor, etc. have a pretty chunky budget for this but I’m wondering if anyone can suggest starting places. I can weld Tig weld and get basic machining done. My original thought was to start with a Taylor Dunn cart and adapt it, but it actually seems easier at this point to just build something from scratch. Edit- I have a fair amount of experience with building small electric vehicles and so I can size the motor controller battery pack, and the weight requirements for the chassis, but I’ve never made anything completely custom or where I’ve modified the steering breaking and control systems and especially not something that operates wirelessly that’s primarily where my questions come from. Thanks in advance for any suggestions
 
-1h ago
+2h ago
 
 ---
 
@@ -59,6 +67,14 @@ So I wanna build a small chassis, a single chair that will be operated by joysti
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
 1d ago
+
+---
+
+**[fed up with the world, wanna start learning robotics](https://www.reddit.com/r/robotics/comments/1r5mis5/fed_up_with_the_world_wanna_start_learning/)**
+
+so I am so done with my job search in ML/DS/AI/CS and all kinds of bullshit.. Idk why robotics, but it feels like an interesting thing to learn, I think machines gonna work more in future, mainly could solve many problems in the third world. I am stupid and dumb and anyone wanna help me learn and gain some experience working with robots. I just have the ML background of things. Thanks
+
+37m ago
 
 ---
 
@@ -82,25 +98,13 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-11h ago
+12h ago
 
 ---
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-7h ago
-
----
-
-**[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
-
-12h ago
-
----
-
-**[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
-
-1d ago
+8h ago
 
 ---
 
@@ -180,7 +184,7 @@ Yahoo Finance • 1d ago
 
 Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Futurism • 1h ago
+Futurism • 2h ago
 
 ---
 
@@ -234,7 +238,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 13K • 👍 381 • 💬 13 • ⏱️ 0:59 • 22h ago
+👁️ 13K • 👍 381 • 💬 13 • ⏱️ 0:59 • 23h ago
 
 ---
 
@@ -244,7 +248,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 FUN Robotics Network
 
-👁️ 705 • 👍 14 • ⏱️ 1:09 • 2h ago
+👁️ 705 • 👍 14 • ⏱️ 1:09 • 3h ago
 
 ---
 
@@ -252,7 +256,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 Romi Pal
 
-👁️ 111K • 👍 2K • 💬 34 • ⏱️ 0:37 • 21h ago
+👁️ 111K • 👍 2K • 💬 34 • ⏱️ 0:37 • 22h ago
 
 ---
 

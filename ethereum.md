@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T18:38:14.683114+00:00'
+updated: '2026-02-15T19:26:28.332490+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 18:38 UTC  
+**Last Updated:** February 15, 2026 at 19:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,964.11
+### $1,943.74
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 20h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 21h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 1d ago
 
 Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
 
-Bitcoin.com News • 1h ago
+Bitcoin.com News • 2h ago
 
 ---
 
@@ -194,7 +194,7 @@ CoinDesk • 2d ago
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 20h ago
+dlnews.com • 21h ago
 
 ---
 
@@ -202,13 +202,13 @@ dlnews.com • 20h ago
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
 
-BeInCrypto • 13h ago
+BeInCrypto • 14h ago
 
 ---
 
 **[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 358 • ⏱️ 34:57 • 18h ago
+👁️ 46K • 👍 2K • 💬 358 • ⏱️ 34:57 • 19h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 120 • 💬 5 • ⏱️ 4:45 • 4h ago
+👁️ 1K • 👍 120 • 💬 5 • ⏱️ 4:45 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 558 • 👍 37 • 💬 19 • ⏱️ 13:02 • 4h ago
+👁️ 558 • 👍 37 • 💬 19 • ⏱️ 13:02 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 16h ago
+👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 17h ago
 
 ---
 
@@ -308,7 +308,7 @@ For any questions contact me on Telegram : https://t.me/cryptobotdev124 Download
 
 📺 Cole the DeFi Maker
 
-👁️ 2K • ⏱️ 7:43 • 2h ago
+👁️ 2K • ⏱️ 7:43 • 3h ago
 
 ---
 
@@ -328,7 +328,7 @@ The developments in the utility crypto space is interesting today. We have great
 
 📺 Crypto Growth
 
-👁️ 216 • 👍 29 • 💬 18 • ⏱️ 17:21 • 3h ago
+👁️ 216 • 👍 29 • 💬 18 • ⏱️ 17:21 • 4h ago
 
 ---
 
