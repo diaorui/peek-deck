@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T07:42:13.961566+00:00'
+updated: '2026-02-15T08:35:00.769361+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 07:42 UTC  
+**Last Updated:** February 15, 2026 at 08:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-14h ago
+15h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-14h ago
+15h ago
 
 ---
 
@@ -52,13 +52,21 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-57m ago
+1h ago
+
+---
+
+**[I'm getting paralyzed slowly. So I want to learn to build a robot that can help me](https://www.reddit.com/r/robotics/comments/1r59ggj/im_getting_paralyzed_slowly_so_i_want_to_learn_to/)**
+
+​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
+
+7m ago
 
 ---
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +80,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . R
 
 I am designing an autonomous surface vehicle that provides as assistance and rescue to open water swimmers. I have doing some math to determine the hull and thruster size. So far the design looks like this https://preview.redd.it/i1q8tx87sjjg1.png?width=706&format=png&auto=webp&s=f082aab242ac18087e75d0c8f9e8fb18ef35de2d https://preview.redd.it/71huppe9sjjg1.png?width=888&format=png&auto=webp&s=e659a1118be31d954e1624d5f472d78d338c6758 Main thruster can be seen in the back, along the stabilizer wings. The smaller ones are maneuvering thusters for low speed movements and also to compensate against drift current. Next step will be probably adding the wearable beacon that enables GPS tracking.
 
-7h ago
+8h ago
 
 ---
 
@@ -96,15 +104,7 @@ I am designing an autonomous surface vehicle that provides as assistance and res
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 12h ago
-
----
-
-**[Finally got my robot to walk !!](https://www.reddit.com/r/robotics/comments/1r3pnoh/finally_got_my_robot_to_walk/)**
-
-I posted a video a couple of days ago on r/esp32 showing my Open-Source robot dance, and some people wanted to see it walk ... here you go ! Got a complete walking gate & added remote control :) Everything runs on the ESP32-S3 ! What do you think ?
-
-1d ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 13h ago
 
 ---
 
@@ -128,20 +128,6 @@ Nature • 2d ago
 
 ---
 
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
-
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
-
-ChinaPower Project • 2d ago
-
----
-
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
-
-KSN.com • 1d ago
-
----
-
 **[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
@@ -150,25 +136,41 @@ CNN • 1d ago
 
 ---
 
-**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
+**[Medtronic receives FDA clearance for Stealth AXiS™ surgical system, first integrated planning, navigation and robotics platform for spine surgery](https://news.medtronic.com/2026-02-13-Medtronic-receives-FDA-clearance-for-Stealth-AXiS-TM-surgical-system,-first-integrated-planning,-navigation-and-robotics-platform-for-spine-surgery)**
 
-At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
+Medtronic (NYSE: MDT), a global leader in healthcare technology, today announced U.S. Food and Drug Administration (FDA) clearance of the Stealth AXiS™ surgical system, a next-generation...
 
-Мілітарний • 1d ago
-
----
-
-**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
-
-The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
-
-Construction Dive • 3d ago
+Medtronic • 1d ago
 
 ---
 
 **[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
 
 Forbes • 2d ago
+
+---
+
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 2d ago
+
+---
+
+**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
+
+Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
+
+Yahoo Finance • 2d ago
+
+---
+
+**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
+
+Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
+
+Automotive News • 2d ago
 
 ---
 
@@ -180,11 +182,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Women in Science, Robotics, Automation, SLAS, and Lilly Updates - GEN](https://www.genengnews.com/topics/artificial-intelligence/women-in-science-robotics-automation-slas-and-lilly-updates/)**
+**[What to know about Chicago's delivery robots and the debate over them](https://chicago.suntimes.com/business/2026/delivery-robots-chicago-food-coco-robotics)**
 
-This week's episode includes celebration of Women in Science, SLAS insights, and an update on Eli Lilly’s new deals.
+Some Chicago residents are fighting the deployment of robot delivery couriers. A petition started by a Lincoln Park resident has picked up over 3,400 signatures
 
-GEN - Genetic Engineering and Biotechnology News • 1d ago
+Chicago Sun-Times • 2d ago
 
 ---
 
@@ -208,7 +210,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 249K • 👍 4K • 💬 552 • ⏱️ 53:47 • 19h ago
+👁️ 249K • 👍 4K • 💬 552 • ⏱️ 53:47 • 20h ago
 
 ---
 
@@ -218,7 +220,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 10K • 👍 276 • 💬 10 • ⏱️ 0:59 • 11h ago
+👁️ 10K • 👍 276 • 💬 10 • ⏱️ 0:59 • 12h ago
 
 ---
 
@@ -228,7 +230,7 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 DPCcars
 
-👁️ 2K • 👍 56 • 💬 8 • ⏱️ 1:24 • 17h ago
+👁️ 2K • 👍 56 • 💬 8 • ⏱️ 1:24 • 18h ago
 
 ---
 
@@ -238,7 +240,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 136K • 👍 2K • 💬 23 • ⏱️ 0:06 • 6h ago
+👁️ 136K • 👍 2K • 💬 23 • ⏱️ 0:06 • 7h ago
 
 ---
 
@@ -268,7 +270,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 54 • 💬 5 • ⏱️ 0:21 • 13h ago
+👁️ 2K • 👍 54 • 💬 5 • ⏱️ 0:21 • 14h ago
 
 ---
 
@@ -276,7 +278,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Romi Pal
 
-👁️ 59K • 👍 1K • 💬 14 • ⏱️ 0:37 • 10h ago
+👁️ 59K • 👍 1K • 💬 14 • ⏱️ 0:37 • 11h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T07:42:13.952285+00:00'
+updated: '2026-02-15T08:35:00.760002+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- videos
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 07:42 UTC  
+**Last Updated:** February 15, 2026 at 08:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,378.66
+### $70,299.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.6%  
-**7d:** +0.3%  
+**24h:** +0.8%  
+**7d:** +0.2%  
 **30d:** -26.1%  
-**90d:** -24.3%  
+**90d:** -24.4%  
 **1y:** -26.9%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-10h ago
+11h ago
 
 ---
 
@@ -89,15 +89,7 @@ Rank #1
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-11h ago
-
----
-
-**[Dan Morehead from Pantera Capital, just said what everyone's thinking but nobody's saying: "There will be a global arms race for Bitcoin within the next 2-3 years."](https://www.reddit.com/r/Bitcoin/comments/1r4pv07/dan_morehead_from_pantera_capital_just_said_what/)**
-
-The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
-
-14h ago
+12h ago
 
 ---
 
@@ -105,13 +97,23 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 5h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 6h ago
 
 ---
 
-**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
+**[Dan Morehead from Pantera Capital, just said what everyone's thinking but nobody's saying: "There will be a global arms race for Bitcoin within the next 2-3 years."](https://www.reddit.com/r/Bitcoin/comments/1r4pv07/dan_morehead_from_pantera_capital_just_said_what/)**
 
-1d ago
+The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
+
+15h ago
+
+---
+
+**[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
+
+... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
+
+2h ago
 
 ---
 
@@ -119,7 +121,13 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-2h ago
+3h ago
+
+---
+
+**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
+
+1d ago
 
 ---
 
@@ -135,21 +143,13 @@ Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-1h ago
+2h ago
 
 ---
 
-**[the direction](https://www.reddit.com/r/Bitcoin/comments/1r4fn76/the_direction/)**
+**[Help w/adoption for business](https://www.reddit.com/r/Bitcoin/comments/1r586lc/help_wadoption_for_business/)**
 
-Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
-
-23h ago
-
----
-
-**[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
-
-... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
+So I just open a coffe shop for runners, I’m a hodlr and I want to accept bitcoin as form of payment where do start how do I convert in real time the price of my client orders to BTC, is there an app I can use to keep tab of my income like: 02/03/2026 1 coffe $1.5dlls=.xxxxbtc Or any suggestion how can I keep tabs on BTC transactions like this so at the end of the month I can reconcile my inventory and sales ? Also I want it to go directly to a cold wallet Any suggestion? Should I have a device exclusively to do this and at the end of the day have it send to cold wallet? Is it too much hassle? Is there an easier way? Thanks Sorry if I’m not expressing correctly. It’s not my first language.
 
 1h ago
 
@@ -159,25 +159,47 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 ## Google News: "bitcoin"
 
+**[Bitcoin Is Down Bad, But Hasn't Yet Hit Its 'Ultimate Bear Market Bottom': Analysts](https://finance.yahoo.com/news/bitcoin-down-bad-hasnt-yet-161105690.html)**
+
+Despite its 45% fall since its October peak, Bitcoin has not yet found its bear market bottom, according to a new report from CryptoQuant.
+
+Yahoo Finance • 16h ago
+
+---
+
 **[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
 
 After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
+
+---
+
+**[BTC price news: bitcoin claws back to $70,000 after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
+
+Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
+
+CoinDesk • 20h ago
 
 ---
 
 **[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 1h ago
+Forbes • 19h ago
 
 ---
 
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
+**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
 
-Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
+The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-Nasdaq • 3h ago
+MLive.com • 35m ago
+
+---
+
+**[Did CleanSpark’s (CLSK) Swing to Quarterly Loss and Bitcoin Reliance Just Shift Its Investment Narrative?](https://uk.finance.yahoo.com/news/did-cleanspark-clsk-swing-quarterly-071134641.html)**
+
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -185,15 +207,7 @@ Nasdaq • 3h ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 5h ago
-
----
-
-**[Bitcoin Price Slides After US Admits Nearly 1 Million ‘Phantom’ Jobs in Data Revision](https://finance.yahoo.com/news/bitcoin-price-slides-us-admits-130321937.html)**
-
-Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
-
-Yahoo Finance • 1d ago
+BBC • 6h ago
 
 ---
 
@@ -205,19 +219,11 @@ CNBC • 2d ago
 
 ---
 
-**[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
-Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-dlnews.com • 9h ago
-
----
-
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-now-and-hold-for-10-y/)**
-
-Both these assets have earned their place as leaders, but the next 10 years could be tough for one of them.
-
-The Motley Fool • 19h ago
+Nasdaq • 19h ago
 
 ---
 
@@ -225,15 +231,7 @@ The Motley Fool • 19h ago
 
 Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
 
-IO Fund • 2d ago
-
----
-
-**[Love, Honor and Ledger: Why Couples Are Marrying With Crypto Prenups](https://www.pymnts.com/cryptocurrency/2026/love-honor-ledger-why-couples-are-marrying-with-crypto-prenups/)**
-
-Welcome to the Weekender, where the only thing more volatile than Bitcoin is the human heart. In 2026, couples still swap playlists and promise forever,
-
-PYMNTS.com • 22h ago
+IO Fund • 3d ago
 
 ---
 
@@ -289,7 +287,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 9h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 10h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -327,7 +325,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 182 • 💬 4 • ⏱️ 17:15 • 14h ago
+👁️ 3K • 👍 182 • 💬 4 • ⏱️ 17:15 • 15h ago
 
 ---
 
@@ -337,7 +335,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 269 • 💬 27 • ⏱️ 8:36 • 8h ago
+👁️ 4K • 👍 269 • 💬 27 • ⏱️ 8:36 • 9h ago
 
 ---
 
@@ -357,7 +355,7 @@ BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 6K • 👍 240 • 💬 25 • ⏱️ 17:42 • 9h ago
+👁️ 6K • 👍 240 • 💬 25 • ⏱️ 17:42 • 10h ago
 
 ---
 
@@ -367,7 +365,7 @@ Recently Bitcoin crashed to $60000, below key support levels set by the previous
 
 📺 Coin Bureau
 
-👁️ 59K • 👍 2K • 💬 343 • ⏱️ 19:46 • 17h ago
+👁️ 59K • 👍 2K • 💬 343 • ⏱️ 19:46 • 18h ago
 
 ---
 
@@ -377,7 +375,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 10K • 👍 630 • 💬 26 • ⏱️ 14:31 • 19h ago
+👁️ 10K • 👍 630 • 💬 26 • ⏱️ 14:31 • 20h ago
 
 ---
 
@@ -387,7 +385,7 @@ Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Ta
 
 📺 Crypto Casey
 
-👁️ 13K • 👍 1K • 💬 133 • ⏱️ 15:01 • 18h ago
+👁️ 13K • 👍 1K • 💬 133 • ⏱️ 15:01 • 19h ago
 
 ---
 
