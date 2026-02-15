@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T11:47:29.945584+00:00'
+updated: '2026-02-15T12:54:05.343119+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - videos
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 11:47 UTC  
+**Last Updated:** February 15, 2026 at 12:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,496.22
+### $70,213.90
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +0.3%  
-**30d:** -26.1%  
-**90d:** -24.3%  
-**1y:** -26.9%  
+**24h:** +0.6%  
+**7d:** -0.4%  
+**30d:** -26.6%  
+**90d:** -24.9%  
+**1y:** -27.4%  
 
 ---
 
@@ -77,11 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Once again I had to put a Bitcoin QR code on my lastest mural under the Louvre in Paris](https://www.reddit.com/r/Bitcoin/comments/1r5dggv/once_again_i_had_to_put_a_bitcoin_qr_code_on_my/)**
+
+The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
+
+25m ago
+
+---
+
+**[The 36% Trap: How the New Dutch Tax on Bitcoin Turns Paper Profits into Real Ruin.](https://www.reddit.com/r/Bitcoin/comments/1r5b8aa/the_36_trap_how_the_new_dutch_tax_on_bitcoin/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-36-trap-how-the-new-dutch-tax) • 2h ago
+
+---
+
 **[A HUGE number of people are waiting for 30k-50k to buy](https://www.reddit.com/r/Bitcoin/comments/1r4txht/a_huge_number_of_people_are_waiting_for_30k50k_to/)**
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-16h ago
+17h ago
 
 ---
 
@@ -89,7 +103,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-14h ago
+15h ago
 
 ---
 
@@ -97,7 +111,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-5h ago
+6h ago
 
 ---
 
@@ -105,13 +119,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 9h ago
-
----
-
-**[The 36% Trap: How the New Dutch Tax on Bitcoin Turns Paper Profits into Real Ruin.](https://www.reddit.com/r/Bitcoin/comments/1r5b8aa/the_36_trap_how_the_new_dutch_tax_on_bitcoin/)**
-
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-36-trap-how-the-new-dutch-tax) • 1h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 11h ago
 
 ---
 
@@ -119,7 +127,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-18h ago
+19h ago
 
 ---
 
@@ -127,7 +135,13 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-6h ago
+7h ago
+
+---
+
+**[Study the past if you would define the future](https://www.reddit.com/r/Bitcoin/comments/1r5dfj7/study_the_past_if_you_would_define_the_future/)**
+
+26m ago
 
 ---
 
@@ -135,23 +149,7 @@ What would you say we are looking at for predictions for 1,3,5 years
 
 I've been building a comprehensive secp256k1 library that covers the full modern Bitcoin protocol stack: 🟢 Bitcoin-specific: Taproot (BIP-341/342) with tweak + Merkle tree BIP-352 Silent Payments MuSig2 (BIP-327) — 2-round key aggregation FROST threshold signatures (t-of-n) BIP-32 HD derivation (xprv/xpub, path parsing) BIP-44 coin-type derivation All address types: P2PKH, P2WPKH, P2TR, Base58Check, Bech32/Bech32m ⚡ Performance: x64 assembly with BMI2/ADX (3-5× speedup) CUDA GPU batch processing (4.63M key generations/sec) GLV endomorphism, precomputation tables Zero heap allocations in hot paths 🔐 Security: Constant-time operations (dedicated ct namespace) RFC 6979 deterministic nonces Low-S normalization 200+ tests with known vector verification Zero external dependencies. MIT licensed. GitHub: [github.com/shrec/UltrafastSecp256k1](vscode-file://vscode-app/c:/Users/shrek/AppData/Local/Programs/Microsoft%20VS%20Code/b6a47e94e3/resources/app/out/vs/code/electron-browser/workbench/workbench.html)
 
-24m ago
-
----
-
-**[People always forget their original intentions.](https://www.reddit.com/r/Bitcoin/comments/1r50sb8/people_always_forget_their_original_intentions/)**
-
-Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
-
-11h ago
-
----
-
-**[Daily Discussion, February 15, 2026](https://www.reddit.com/r/Bitcoin/comments/1r57465/daily_discussion_february_15_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
+1h ago
 
 ---
 
@@ -159,17 +157,25 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+**[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
 
-Forbes • 22h ago
+After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
+
+Bitcoin Magazine • 7h ago
 
 ---
 
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
+**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Key PointsBitcoin's most important features probably won't change much between now and 2036.
+Forbes • 23h ago
 
-Nasdaq • 22h ago
+---
+
+**[Wall Street remains bullish on bitcoin while offshore traders retreat](https://www.coindesk.com/markets/2026/02/15/wall-street-remains-bullish-on-bitcoin-while-offshore-traders-retreat)**
+
+The difference in futures basis between CME and Deribit reflects varying risk appetite across regions.
+
+CoinDesk • 51m ago
 
 ---
 
@@ -177,13 +183,13 @@ Nasdaq • 22h ago
 
 Trump Media and Technology Group is expanding its push into digital assets, filing for two new cryptocurrency exchange-traded funds tied to Bitcoin, Ether and the Cronos ecosystem. Key Takeaways: Trump Media filed for two crypto ETFs tracking Bitcoin, Ether and the Cronos token. The Cronos fund would include staking rewards ...
 
-Yahoo Finance • 57m ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
-Forbes • 42m ago
+Forbes • 1h ago
 
 ---
 
@@ -191,15 +197,15 @@ Forbes • 42m ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
-**[Bitcoin Price Slides After US Admits Nearly 1 Million ‘Phantom’ Jobs in Data Revision](https://finance.yahoo.com/news/bitcoin-price-slides-us-admits-130321937.html)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
-Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-Yahoo Finance • 1d ago
+Nasdaq • 1d ago
 
 ---
 
@@ -207,31 +213,23 @@ Yahoo Finance • 1d ago
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-MLive.com • 3h ago
+MLive.com • 4h ago
 
 ---
 
-**[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
+**[Bitcoin After the Cycle Peak: What Comes Next and How We’re Positioning](https://io-fund.com/crypto/bitcoin-after-cycle-peak)**
 
-Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
+Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
 
-dlnews.com • 13h ago
-
----
-
-**[Is the World's Largest Corporate Holder of Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2026/02/15/is-the-worlds-largest-corporate-holder-of-bitcoin/)**
-
-Investors are starting to question the true value of Strategy's $50 billion Bitcoin stash.
-
-The Motley Fool • 2h ago
+IO Fund • 3d ago
 
 ---
 
-**[Michael Saylor: Strategy Has No Liquidation Risk Until Bitcoin Falls to $8,000 — How Is That Possible?](https://www.ccn.com/news/crypto/strategy-no-liquidation-bitcoin-reach-8000-hows-that-possible/)**
+**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
 
-Strategy faces no liquidation risk until BTC falls to $8,000? How's that possible? Find out in this CCN feature.
+Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
 
-CCN.com • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -287,7 +285,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 13h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 14h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -325,7 +323,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 191 • 💬 6 • ⏱️ 17:15 • 18h ago
+👁️ 4K • 👍 191 • 💬 6 • ⏱️ 17:15 • 19h ago
 
 ---
 
@@ -345,7 +343,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 7K • 👍 526 • 💬 28 • ⏱️ 10:24 • 6h ago
+👁️ 7K • 👍 526 • 💬 28 • ⏱️ 10:24 • 7h ago
 
 ---
 
@@ -355,7 +353,7 @@ Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 65 • ⏱️ 18:10 • 6h ago
+👁️ 22K • 👍 2K • 💬 65 • ⏱️ 18:10 • 7h ago
 
 ---
 
@@ -365,7 +363,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Zuzik
 
-👁️ 5K • 👍 10K • 2h ago
+👁️ 5K • 👍 10K • 3h ago
 
 ---
 

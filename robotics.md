@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T11:47:29.954803+00:00'
+updated: '2026-02-15T12:54:05.352850+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 11:47 UTC  
+**Last Updated:** February 15, 2026 at 12:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-3h ago
+4h ago
 
 ---
 
@@ -44,7 +44,7 @@ Robotics research and industry news
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-18h ago
+20h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-18h ago
+19h ago
 
 ---
 
@@ -60,33 +60,25 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-5h ago
+6h ago
 
 ---
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-22m ago
+1h ago
 
 ---
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-5h ago
+6h ago
 
 ---
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
 1d ago
-
----
-
-**[Orp-testmechv2 showcase 14-02-2026](https://www.reddit.com/r/robotics/comments/1r4t9gb/orptestmechv2_showcase_14022026/)**
-
-I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
-
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 16h ago
 
 ---
 
@@ -98,11 +90,19 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 ---
 
+**[Orp-testmechv2 showcase 14-02-2026](https://www.reddit.com/r/robotics/comments/1r4t9gb/orptestmechv2_showcase_14022026/)**
+
+I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
+
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 17h ago
+
+---
+
 **[Quick feedback on cross-embodiment physics data remodelling service (Student Research)](https://www.reddit.com/r/robotics/comments/1r4vb29/quick_feedback_on_crossembodiment_physics_data/)**
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-15h ago
+16h ago
 
 ---
 
@@ -122,7 +122,7 @@ BBC • 2d ago
 
 npj Robotics - A call for a performance-driven approach for soft robotics research
 
-Nature • 2d ago
+Nature • 3d ago
 
 ---
 
@@ -136,29 +136,7 @@ But here’s the catch: building the tech is one thing. Navigating regulation? A
  
 #YoungTurksReloaded #Addverb #Robotics #Humanoid #HealthcareTech #AI #FutureOfWork #AgeingPopulation
 
-LinkedIn • 2h ago
-
----
-
-**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
-
-China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
-
-CNN • 1d ago
-
----
-
-**[Medtronic receives FDA clearance for Stealth AXiS™ surgical system, first integrated planning, navigation and robotics platform for spine surgery](https://news.medtronic.com/2026-02-13-Medtronic-receives-FDA-clearance-for-Stealth-AXiS-TM-surgical-system,-first-integrated-planning,-navigation-and-robotics-platform-for-spine-surgery)**
-
-Medtronic (NYSE: MDT), a global leader in healthcare technology, today announced U.S. Food and Drug Administration (FDA) clearance of the Stealth AXiS™ surgical system, a next-generation...
-
-Medtronic • 1d ago
-
----
-
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
-
-Forbes • 2d ago
+LinkedIn • 3h ago
 
 ---
 
@@ -170,19 +148,17 @@ ChinaPower Project • 2d ago
 
 ---
 
-**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
 
-Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
-
-Yahoo Finance • 1d ago
+KSN.com • 1d ago
 
 ---
 
-**[3D Printing Pneumatic Channels With Dual Materials For Soft Robots](https://hackaday.com/2026/02/13/3d-printing-pneumatic-channels-with-dual-materials-for-soft-robots/)**
+**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
-Pneumatics are a common way to add some motion to soft robotic actuators, but adding it to a robot can be somewhat of a chore. A method demonstrated by [Jackson K. Wilt] et al. (press release, prep…
+China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-Hackaday • 1d ago
+CNN • 1d ago
 
 ---
 
@@ -191,6 +167,28 @@ Hackaday • 1d ago
 At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
 Мілітарний • 1d ago
+
+---
+
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+
+Forbes • 2d ago
+
+---
+
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
+
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
+
+New York Post • 1d ago
+
+---
+
+**[Video: China's humanoid robot Robotera L7 performs stunning sword dance](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
+
+Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
+
+Interesting Engineering • 1h ago
 
 ---
 
@@ -214,7 +212,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 308K • 👍 4K • 💬 604 • ⏱️ 53:47 • 23h ago
+👁️ 308K • 👍 4K • 💬 604 • ⏱️ 53:47 • 1d ago
 
 ---
 
@@ -224,7 +222,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 11K • 👍 311 • 💬 10 • ⏱️ 0:59 • 16h ago
+👁️ 11K • 👍 311 • 💬 10 • ⏱️ 0:59 • 17h ago
 
 ---
 
@@ -254,7 +252,7 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 DPCcars
 
-👁️ 2K • 👍 64 • 💬 9 • ⏱️ 1:24 • 22h ago
+👁️ 2K • 👍 64 • 💬 9 • ⏱️ 1:24 • 23h ago
 
 ---
 
@@ -262,7 +260,7 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 Romi Pal
 
-👁️ 83K • 👍 1K • 💬 16 • ⏱️ 0:37 • 14h ago
+👁️ 83K • 👍 1K • 💬 16 • ⏱️ 0:37 • 15h ago
 
 ---
 
@@ -292,7 +290,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 489K • 👍 5K • 💬 52 • ⏱️ 0:06 • 10h ago
+👁️ 489K • 👍 5K • 💬 52 • ⏱️ 0:06 • 11h ago
 
 ---
 

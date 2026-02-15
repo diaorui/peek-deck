@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T11:47:29.936926+00:00'
+updated: '2026-02-15T12:54:05.334600+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - social
 - repositories
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 11:47 UTC  
+**Last Updated:** February 15, 2026 at 12:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 19h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 20h ago
 
 ---
 
@@ -57,23 +57,15 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚
 
-2h ago
+4h ago
 
 ---
 
-**[Unpopular opinion: most people use AI wrong and it's not even close](https://www.reddit.com/r/artificial/comments/1r5coej/unpopular_opinion_most_people_use_ai_wrong_and/)**
+**[Looking for articles about AI](https://www.reddit.com/r/artificial/comments/1r5cuzu/looking_for_articles_about_ai/)**
 
-I see so many posts here like "I asked ChatGPT to write my essay" or "look at this funny response I got" and that's cool but you're using a rocket ship to go to the grocery store. The actual money and time savings come from connecting AI to your real workflows. Not chatting with it. Connecting it. Here's what I mean. I have an automation that watches my inbox. When an email comes in, AI reads it, figures out if it's a lead, a support request, or spam, drafts a response, and either sends it automatically or queues it for me to review. That runs 24/7 without me touching it. Saves me probably 2 hours a day. I have another one where I write one blog post and it automatically turns it into a twitter thread, linkedin post, instagram caption, email newsletter, and a tiktok script. All formatted differently for each platform. That used to be a full day of work every week. None of this is hard to set up. The tools are mostly free. The problem is everyone's stuck in the "type a prompt and get an answer" mindset when the real power is in automation. I'm not saying chatting with AI isn't useful. I use Claude every day for thinking through problems. But if that's ALL you're doing with AI you're leaving 90% of the value on the table. Curious if anyone else here has gone down the automation rabbit hole or if most people are still mainly using it for chat.
+Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-1m ago
-
----
-
-**[How to bulk contact using AI?](https://www.reddit.com/r/artificial/comments/1r5co3e/how_to_bulk_contact_using_ai/)**
-
-I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions?
-
-1m ago
+57m ago
 
 ---
 
@@ -81,23 +73,7 @@ I have a list of 10,000 contact number (mix of phone number and landlines so tex
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-1h ago
-
----
-
-**[We have been building and working on a local AI with memory and persistence](https://www.reddit.com/r/artificial/comments/1r4wnlo/we_have_been_building_and_working_on_a_local_ai/)**
-
-We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
-
-14h ago
-
----
-
-**[I built a "Traffic Light" system for AI Agents so they don't corrupt each other (Open Source)](https://www.reddit.com/r/artificial/comments/1r4tbnj/i_built_a_traffic_light_system_for_ai_agents_so/)**
-
-Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
-
-16h ago
+2h ago
 
 ---
 
@@ -105,15 +81,39 @@ Hey everyone, I’m a backend developer with a background in fintech. Lately, I�
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-12h ago
+14h ago
 
 ---
 
-**[Only A Few AI Platforms Can Survive](https://www.reddit.com/r/artificial/comments/1r4n1u9/only_a_few_ai_platforms_can_survive/)**
+**[We have been building and working on a local AI with memory and persistence](https://www.reddit.com/r/artificial/comments/1r4wnlo/we_have_been_building_and_working_on_a_local_ai/)**
 
-It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
+We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 20h ago
+15h ago
+
+---
+
+**[How to bulk contact using AI?](https://www.reddit.com/r/artificial/comments/1r5co3e/how_to_bulk_contact_using_ai/)**
+
+I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
+
+1h ago
+
+---
+
+**[I built a "Traffic Light" system for AI Agents so they don't corrupt each other (Open Source)](https://www.reddit.com/r/artificial/comments/1r4tbnj/i_built_a_traffic_light_system_for_ai_agents_so/)**
+
+Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
+
+17h ago
+
+---
+
+**[Unpopular opinion: most people use AI wrong and it's not even close](https://www.reddit.com/r/artificial/comments/1r5coej/unpopular_opinion_most_people_use_ai_wrong_and/)**
+
+I see so many posts here like "I asked ChatGPT to write my essay" or "look at this funny response I got" and that's cool but you're using a rocket ship to go to the grocery store. The actual money and time savings come from connecting AI to your real workflows. Not chatting with it. Connecting it. Here's what I mean. I have an automation that watches my inbox. When an email comes in, AI reads it, figures out if it's a lead, a support request, or spam, drafts a response, and either sends it automatically or queues it for me to review. That runs 24/7 without me touching it. Saves me probably 2 hours a day. I have another one where I write one blog post and it automatically turns it into a twitter thread, linkedin post, instagram caption, email newsletter, and a tiktok script. All formatted differently for each platform. That used to be a full day of work every week. None of this is hard to set up. The tools are mostly free. The problem is everyone's stuck in the "type a prompt and get an answer" mindset when the real power is in automation. I'm not saying chatting with AI isn't useful. I use Claude every day for thinking through problems. But if that's ALL you're doing with AI you're leaving 90% of the value on the table. Curious if anyone else here has gone down the automation rabbit hole or if most people are still mainly using it for chat.
+
+1h ago
 
 ---
 
@@ -123,7 +123,7 @@ It does not happen very often in the history of business that an orthogonal prod
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -131,13 +131,15 @@ Axios • 9h ago
 
 Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
 
-The Guardian • 19h ago
+The Guardian • 21h ago
 
 ---
 
-**[Pentagon threatens to cut off Anthropic in AI safeguards dispute, Axios reports](https://www.reuters.com/technology/pentagon-threatens-cut-off-anthropic-ai-safeguards-dispute-axios-reports-2026-02-15/)**
+**[Anthropic CEO Dario Amodei warns if AI growth forecasts are off by a year, 'then you go bankrupt'](https://fortune.com/2026/02/14/anthropic-ceo-dario-amodei-spending-capex-risk-ai-revenue-forecasts-bankruptcy/)**
 
-Reuters • 9h ago
+"If I'm just off by a year in that rate of growth, or if the growth rate is 5x a year instead of 10x a year, then you go bankrupt."
+
+Fortune • 15h ago
 
 ---
 
@@ -145,51 +147,51 @@ Reuters • 9h ago
 
 New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
-**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
+**[Why are experts sounding the alarm on AI risks?](https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks)**
 
-NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
+AI is advancing in rapid and unpredictable ways but there is no joint framework to keep it in check, experts say.
 
-The Washington Post • 10m ago
-
----
-
-**[AI, Fancy Footwear, and All the Other Gear Powering Olympic Bobsledding](https://www.wired.com/story/ai-fancy-footwear-and-all-the-other-gear-powering-olympic-bobsledding/)**
-
-Bobsledders rely a lot on specialized equipment to perform well and stay safe during the "Formula 1 of ice.” Here’s a quick guide.
-
-WIRED • 47m ago
+Al Jazeera • 1h ago
 
 ---
 
-**[AI Risk Is Dominating Conference Calls as Investors Dump Stocks](https://www.bloomberg.com/news/articles/2026-02-15/ai-risk-is-dominating-conference-calls-as-investors-dump-stocks)**
+**[The stock market is reflecting fears of an AI apocalypse for white-collar jobs](https://www.msn.com/en-us/news/other/ar-AA1WlZhm)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Will A.I. Kill Translation Jobs?](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
-
-The New York Times • 5h ago
+MSN • 1h ago
 
 ---
 
-**[IBM is tripling the number of Gen Z entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)**
+**[Google’s AI Overviews Can Scam You. Here’s How to Stay Safe](https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/)**
 
-Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
+Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.
+
+WIRED • 1h ago
+
+---
+
+**[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
+
+Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
 Fortune • 1d ago
 
 ---
 
-**[What it’s like to go on a date with an AI in NYC](https://www.cnn.com/2026/02/14/us/video/artificial-intelligence-date-valentines-day-nyc-digvid)**
+**[Will A.I. Kill Translation Jobs?](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
 
-CNN’s Hadas Gold visited a New York restaurant temporarily transformed into an AI companion–only dating experience to see what a virtual Valentine’s date really feels like.
+The New York Times • 6h ago
 
-CNN • 23h ago
+---
+
+**[Global week ahead: Markets brace for more AI noise and 'scare trading'](https://www.cnbc.com/2026/02/15/global-week-ahead-markets-brace-for-more-ai-noise-and-scare-trading.html)**
+
+Looking back at last week's volatility could gives some clues for the trading week ahead.
+
+CNBC • 4h ago
 
 ---
 
@@ -201,7 +203,7 @@ CNN • 23h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2314 • 💬 944 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2315 • 💬 945 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -213,7 +215,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 686 • 💬 570 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 692 • 💬 571 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -221,7 +223,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 506 • 💬 310 • 17h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 516 • 💬 314 • 18h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -229,7 +231,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 347 • 💬 219 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 351 • 💬 224 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -237,7 +239,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 334 • 💬 538 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 338 • 💬 539 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -245,7 +247,7 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 272 • 💬 163 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 273 • 💬 163 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -301,7 +303,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 13K • 👍 693 • 💬 60 • ⏱️ 7:05 • 20h ago
+👁️ 13K • 👍 693 • 💬 60 • ⏱️ 7:05 • 21h ago
 
 ---
 
@@ -361,7 +363,7 @@ HUGE AI NEWS: Seedance 2.0, Qwen Image 2.0, Gemini Deep Think, GLM5, SoulX Singe
 
 📺 AI Search
 
-👁️ 46K • 👍 2K • 💬 297 • ⏱️ 48:16 • 8h ago
+👁️ 46K • 👍 2K • 💬 297 • ⏱️ 48:16 • 9h ago
 
 ---
 
@@ -435,7 +437,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 11,129 • ❤️ 381 • 1d ago
+⬇️ 11,129 • ❤️ 381 • 2d ago
 
 ---
 
@@ -678,7 +680,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 254 • 6h ago
+⭐ 2.5k • 🔱 254 • 7h ago
 
 ---
 
@@ -708,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 141 • 7h ago
+⭐ 2.1k • 🔱 141 • 8h ago
 
 ---
 
