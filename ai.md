@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T04:34:04.306296+00:00'
+updated: '2026-02-15T05:57:21.701489+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 04:34 UTC  
+**Last Updated:** February 15, 2026 at 05:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 17h ago
+🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 19h ago
 
 ---
 
@@ -49,15 +49,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 12h ago
-
----
-
-**[AI fails at 96% of professional jobs according to the new Remote Labor Index. Here's why the hype is hitting a wall.](https://www.reddit.com/r/artificial/comments/1r55d6v/ai_fails_at_96_of_professional_jobs_according_to/)**
-
-Just read a deep dive into the RLI (Remote Labor Index). While we keep hearing AI is taking over, in actual paid freelance tasks (Upwork briefs), the best models failed almost 96% of the time. It’s not about hallucinations—it’s about broken files, incomplete assets, and failing to follow client briefs.
-
-🔗 [AI Revolution](https://www.revolutioninai.com/2026/02/ai-fails-96-percent-remote-labor-index-2026.html) • 5m ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 13h ago
 
 ---
 
@@ -65,7 +57,7 @@ Just read a deep dive into the RLI (Remote Labor Index). While we keep hearing A
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-5h ago
+7h ago
 
 ---
 
@@ -73,7 +65,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-6h ago
+8h ago
 
 ---
 
@@ -81,15 +73,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
 
-9h ago
-
----
-
-**[Is safety is ‘dead’ at xAI?](https://www.reddit.com/r/artificial/comments/1r4y4rx/is_safety_is_dead_at_xai/)**
-
-Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.
-
-🔗 [TechCrunch](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai) • 5h ago
+10h ago
 
 ---
 
@@ -97,7 +81,15 @@ Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinge
 
 It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 13h ago
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 14h ago
+
+---
+
+**[Is safety is ‘dead’ at xAI?](https://www.reddit.com/r/artificial/comments/1r4y4rx/is_safety_is_dead_at_xai/)**
+
+Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai) • 7h ago
 
 ---
 
@@ -117,77 +109,85 @@ Spotify credits Claude Code and its internal AI system Honk with speeding up dev
 
 ---
 
+**[The AI Tool Dilemma: Privacy vs. Features for Solo Creators](https://www.reddit.com/r/artificial/comments/1r3qsd4/the_ai_tool_dilemma_privacy_vs_features_for_solo/)**
+
+Running a one-person operation, I rely on AI for marketing, strategy, and content. I've tested ChatGPT Plus, Claude Pro, and Perplexity Pro, and was ready to commit to Gemini Pro, until I understood the privacy implications. The Gemini problem: To prevent Google from training on your data (and human reviewers from reading it), you must turn off activity tracking. You can still use Gems, but they reset every session. This means no memory continuity, which defeats the entire purpose of having a personalized assistant. You also lose native Google Drive connectivity. As a writer and content creator, this isn't just about privacy preferences, it's about protecting my future work. I can't feed my creative process into a system that might be training tomorrow's competition or having humans review my drafts and ideas. My experience so far: ChatGPT Plus: Reliable and easy, but the writing often feels generic and cliché-heavy Claude Pro: Best writer, wonderfully concise, but burns through tokens fast, in less than a day Perplexity Pro: Same token limitations (want Claude Sonnet? Better hope you haven't hit your quota) Gemini Pro: The combination of Gems + NotebookLM looked perfect, until the privacy policy became a dealbreaker The frustrating part is the lack of regulation forcing companies to offer real privacy without crippling core features or having to pay more. For solo creators building a body of work, this matters. How are others balancing privacy, features, and token economics? Has anyone found a setup that actually works without compromise?
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[AI Bubble Fears Are Creating New Derivatives](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly)**
-
-Bloomberg • 8h ago
-
----
-
-**[How A.I. Salaries Are Causing Couples to Rethink Money in Relationships](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
-
-The New York Times • 18h ago
-
----
-
-**[Interpol backroom warriors fight cyber criminals 'weaponising' AI](https://www.yahoo.com/news/articles/interpol-backroom-warriors-fight-cyber-034310750.html)**
-
-From perfectly spelled phishing emails to fake videos of government officials, artificial intelligence is changing the game for Interpol's cat-and-mouse fight against cybercrime at its high-tech war r...
-
-Yahoo • 50m ago
-
----
-
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
 **[Pentagon threatens to cut off Anthropic in AI safeguards dispute, Axios reports](https://www.reuters.com/technology/pentagon-threatens-cut-off-anthropic-ai-safeguards-dispute-axios-reports-2026-02-15/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
-**[Pentagon threatens to cut off Anthropic in AI safeguards dispute, Axios reports](https://www.yahoo.com/news/articles/pentagon-threatens-cut-off-anthropic-022638299.html)**
+**[Pentagon threatens to cut off Anthropic in AI safeguards dispute, Axios reports By Reuters](https://www.investing.com/news/stock-market-news/pentagon-threatens-to-cut-off-anthropic-in-ai-safeguards-dispute-axios-reports-4507269)**
 
-Feb 14 (Reuters) - The Pentagon is considering severing its relationship with Anthropic over the artificial intelligence firm's insistence on maintaining some limitations on how the U.S. military uses
-
-Yahoo • 2h ago
+Investing.com • 2h ago
 
 ---
 
-**[What it’s like to go on a date with an AI in NYC](https://www.cnn.com/2026/02/14/us/video/artificial-intelligence-date-valentines-day-nyc-digvid)**
+**[AI Bubble Fears Are Creating New Derivatives](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly)**
 
-CNN’s Hadas Gold visited a New York restaurant temporarily transformed into an AI companion–only dating experience to see what a virtual Valentine’s date really feels like.
-
-CNN • 15h ago
+Bloomberg.com • 9h ago
 
 ---
 
-**[Mocktails, potato balls, and 10 bots: My cringe Valentine's date at the AI companion wine bar.](https://www.businessinsider.com/valentines-date-ai-companion-wine-bar-cringe-2026-2)**
+**[What French Romance Novels Could Tell Us About A.I. and Translation Jobs](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
 
-Dating humans can be a nightmare. Dating bots at an AI wine bar is another thing entirely.
-
-Business Insider • 19h ago
+The New York Times • 56m ago
 
 ---
 
-**[‘We’re All Polyamorous Now. It’s You, Me and the A.I.’](https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html)**
+**[1 Artificial Intelligence (AI) Stock Investors Are Buying on the Dip](https://finance.yahoo.com/news/1-artificial-intelligence-ai-stock-051400990.html)**
 
-The New York Times • 1d ago
+This key AI stock got hit hard, and smart investors saw a big opportunity.
+
+Yahoo Finance • 43m ago
 
 ---
 
-**[IBM is tripling the number of Gen Z entry-level jobs after finding the limits of AI adoption](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)**
+**[The AI productivity take-off is finally visible](https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5)**
 
-Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
+New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Fortune • 1d ago
+Financial Times • 50m ago
+
+---
+
+**[US military used Anthropic’s AI model Claude in Venezuela raid, report says](https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid)**
+
+Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
+
+The Guardian • 14h ago
+
+---
+
+**[US Military Used Claude AI In Venezuela Operation To Capture Maduro: Report](https://www.ndtv.com/world-news/us-military-used-claude-ai-in-venezuela-operation-to-capture-nicolas-maduro-report-11003847)**
+
+The US military used artificial intelligence in its operation to capture then Venezuelan President Nicolas Maduro last month, according to a report by the Wall Street Journal.
+
+NDTV • 16h ago
+
+---
+
+**[AI tool Claude helped capture Venezuelan dictator Maduro in US military raid operation: report](https://www.foxnews.com/us/ai-tool-claude-helped-capture-venezuelan-dictator-maduro-us-military-raid-operation-report)**
+
+The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
+
+Fox News • 1d ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 1d ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2312 • 💬 943 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2312 • 💬 944 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -220,7 +220,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 665 • 💬 559 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 666 • 💬 563 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -228,15 +228,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 441 • 💬 286 • 9h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
-
----
-
-**[I'm not worried about AI job loss](https://news.ycombinator.com/item?id=47006513)**
-
-We're not in a February 2020 moment, and ordinary people will be fine
-
-⬆️ 327 • 💬 538 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 451 • 💬 290 • 11h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -244,7 +236,15 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 315 • 💬 183 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 330 • 💬 203 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+
+---
+
+**[I'm not worried about AI job loss](https://news.ycombinator.com/item?id=47006513)**
+
+We're not in a February 2020 moment, and ordinary people will be fine
+
+⬆️ 328 • 💬 538 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -252,7 +252,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 270 • 💬 163 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 271 • 💬 163 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -280,7 +280,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 38K • 👍 369 • 💬 223 • ⏱️ 3:04 • 22h ago
+👁️ 38K • 👍 369 • 💬 223 • ⏱️ 3:04 • 1d ago
 
 ---
 
@@ -370,7 +370,7 @@ China just Killed Hollywood with this Insane AI Model #China #AI #News #airevolu
 
 📺 Career247
 
-👁️ 810K • 👍 44K • 💬 1K • ⏱️ 1:10 • 13h ago
+👁️ 810K • 👍 44K • 💬 1K • ⏱️ 1:10 • 14h ago
 
 ---
 
@@ -676,7 +676,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 250 • 2h ago
+⭐ 2.5k • 🔱 250 • 4h ago
 
 ---
 
@@ -706,7 +706,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 139 • 7m ago
+⭐ 2.0k • 🔱 139 • 1h ago
 
 ---
 
@@ -726,7 +726,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.8k • 🔱 228 • 17h ago
+⭐ 1.8k • 🔱 228 • 19h ago
 
 ---
 

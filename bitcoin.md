@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T04:34:04.315016+00:00'
+updated: '2026-02-15T05:57:21.709969+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 04:34 UTC  
+**Last Updated:** February 15, 2026 at 05:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,315.50
+### $70,159.79
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.3%  
+**24h:** +2.0%  
 **7d:** +0.3%  
-**30d:** -26.0%  
-**90d:** -24.3%  
+**30d:** -26.1%  
+**90d:** -24.4%  
 **1y:** -26.9%  
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-8h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-11h ago
+12h ago
 
 ---
 
@@ -105,7 +105,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 2h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 4h ago
 
 ---
 
@@ -115,19 +115,27 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 ---
 
-**[the direction](https://www.reddit.com/r/Bitcoin/comments/1r4fn76/the_direction/)**
-
-Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
-
-19h ago
-
----
-
 **[People always forget their original intentions.](https://www.reddit.com/r/Bitcoin/comments/1r50sb8/people_always_forget_their_original_intentions/)**
 
 Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
 
-3h ago
+5h ago
+
+---
+
+**[the direction](https://www.reddit.com/r/Bitcoin/comments/1r4fn76/the_direction/)**
+
+Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
+
+21h ago
+
+---
+
+**[Predictions](https://www.reddit.com/r/Bitcoin/comments/1r56j7c/predictions/)**
+
+What would you say we are looking at for predictions for 1,3,5 years
+
+24m ago
 
 ---
 
@@ -135,7 +143,7 @@ Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-18h ago
+20h ago
 
 ---
 
@@ -143,15 +151,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 I’m 14 and currently learning about Bitcoin self-custody and long-term storage. One thing I noticed while studying hardware wallets and seed backups is that most beginners (including me at first) don’t have a clear plan for: where to store the seed how many backups to make how to avoid single points of failure how to think about inheritance or loss scenarios So I started sketching an idea for a very simple offline “seed planning” tool that would: help you map your backup locations (without storing the seed itself) suggest redundancy levels (1 copy vs 2 vs 3) model basic loss scenarios (fire, theft, forgotten location) generate a checklist for safe storage practices No internet no seed input just a planning assistant to think through your setup before you actually store anything. My goal is purely educational and to help beginners avoid obvious mistakes when moving to self-custody. For people here who already use hardware wallets: How did you plan your backup strategy? Did you think about inheritance and loss scenarios in advance, or figure it out later? Trying to learn what a good setup looks like before I build anything.
 
-4h ago
-
----
-
-**[Bitcoin DCA commissions?](https://www.reddit.com/r/Bitcoin/comments/1r4mvjq/bitcoin_dca_commissions/)**
-
-Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a way to reduce commissions? It seems that buying monthly would be more productive
-
-13h ago
+5h ago
 
 ---
 
@@ -163,7 +163,7 @@ Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -171,35 +171,41 @@ CoinDesk • 16h ago
 
 Despite its 45% fall since its October peak, Bitcoin has not yet found its bear market bottom, according to a new report from CryptoQuant.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
 **[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
 **[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 15h ago
+Forbes • 16h ago
 
 ---
 
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://finance.yahoo.com/news/interested-bitcoin-ethereum-etfs-offer-040027232.html)**
+**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
 
-Holding cryptocurrencies in crypto wallets can be risky. But by investing in crypto through these two ETFs, that risk can be reduced slightly.
+Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
-Yahoo Finance • 34m ago
+Nasdaq • 1h ago
 
 ---
 
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.fool.com/coverage/etfs/2026/02/14/interested-in-bitcoin-or-ethereum-these-etfs-offer-exposure-to-digital-tokens/)**
+**[Bitcoin at $60K: The Line That Could Decide Everything](https://www.binance.com/en/square/post/291769841370626)**
 
-Holding cryptocurrencies in crypto wallets can be risky. But by investing in crypto through these two ETFs, that risk can be reduced slightly.
+Binance • 3h ago
 
-The Motley Fool • 54m ago
+---
+
+**[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
+
+After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
+
+Bitcoin Magazine • 56m ago
 
 ---
 
@@ -207,15 +213,15 @@ The Motley Fool • 54m ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
+**[Bitcoin Price Slides After US Admits Nearly 1 Million ‘Phantom’ Jobs in Data Revision](https://finance.yahoo.com/news/bitcoin-price-slides-us-admits-130321937.html)**
 
-Key PointsBitcoin's most important features probably won't change much between now and 2036.
+Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-Nasdaq • 15h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -224,14 +230,6 @@ Nasdaq • 15h ago
 Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
 
 CNBC • 2d ago
-
----
-
-**[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
-
-Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
-
-dlnews.com • 6h ago
 
 ---
 
@@ -287,7 +285,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 6h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 7h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -335,7 +333,7 @@ BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 5K • 👍 219 • 💬 36 • ⏱️ 17:42 • 6h ago
+👁️ 5K • 👍 219 • 💬 36 • ⏱️ 17:42 • 8h ago
 
 ---
 
@@ -345,7 +343,7 @@ Jordi Visser is a veteran macro investor with 30+ years of experience and the au
 
 📺 Anthony Pompliano
 
-👁️ 54K • 👍 3K • 💬 89 • ⏱️ 21:10 • 14h ago
+👁️ 54K • 👍 3K • 💬 89 • ⏱️ 21:10 • 15h ago
 
 ---
 
@@ -355,7 +353,7 @@ Recently Bitcoin crashed to $60000, below key support levels set by the previous
 
 📺 Coin Bureau
 
-👁️ 55K • 👍 2K • 💬 329 • ⏱️ 19:46 • 14h ago
+👁️ 55K • 👍 2K • 💬 329 • ⏱️ 19:46 • 15h ago
 
 ---
 
@@ -365,7 +363,7 @@ Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Ta
 
 📺 Crypto Casey
 
-👁️ 12K • 👍 1K • 💬 128 • ⏱️ 15:01 • 15h ago
+👁️ 12K • 👍 1K • 💬 128 • ⏱️ 15:01 • 16h ago
 
 ---
 
@@ -413,7 +411,7 @@ Buy Bitcoin safely and affordably through Australia's leading Bitcoin brokerage 
 
 📺 Unemployable Media
 
-👁️ 2K • 👍 286 • 💬 140 • ⏱️ 10:17 • 8h ago
+👁️ 2K • 👍 286 • 💬 140 • ⏱️ 10:17 • 9h ago
 
 ---
 

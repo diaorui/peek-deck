@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T04:34:04.324188+00:00'
+updated: '2026-02-15T05:57:21.719170+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 04:34 UTC  
+**Last Updated:** February 15, 2026 at 05:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-11h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-11h ago
+13h ago
 
 ---
 
@@ -54,19 +54,11 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 ---
 
-**[My ongoing project (II) - marine support drone](https://www.reddit.com/r/robotics/comments/1r4zuf9/my_ongoing_project_ii_marine_support_drone/)**
-
-I am designing an autonomous surface vehicle that provides as assistance and rescue to open water swimmers. I have doing some math to determine the hull and thruster size. So far the design looks like this https://preview.redd.it/i1q8tx87sjjg1.png?width=706&format=png&auto=webp&s=f082aab242ac18087e75d0c8f9e8fb18ef35de2d https://preview.redd.it/71huppe9sjjg1.png?width=888&format=png&auto=webp&s=e659a1118be31d954e1624d5f472d78d338c6758 Main thruster can be seen in the back, along the stabilizer wings. The smaller ones are maneuvering thusters for low speed movements and also to compensate against drift current. Next step will be probably adding the wearable beacon that enables GPS tracking.
-
-4h ago
-
----
-
 **[Advanced Open Source Custom F405 Flight Controller for FPV drones](https://www.reddit.com/r/robotics/comments/1r4f97i/advanced_open_source_custom_f405_flight/)**
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-20h ago
+21h ago
 
 ---
 
@@ -74,7 +66,15 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-7h ago
+9h ago
+
+---
+
+**[My ongoing project (II) - marine support drone](https://www.reddit.com/r/robotics/comments/1r4zuf9/my_ongoing_project_ii_marine_support_drone/)**
+
+I am designing an autonomous surface vehicle that provides as assistance and rescue to open water swimmers. I have doing some math to determine the hull and thruster size. So far the design looks like this https://preview.redd.it/i1q8tx87sjjg1.png?width=706&format=png&auto=webp&s=f082aab242ac18087e75d0c8f9e8fb18ef35de2d https://preview.redd.it/71huppe9sjjg1.png?width=888&format=png&auto=webp&s=e659a1118be31d954e1624d5f472d78d338c6758 Main thruster can be seen in the back, along the stabilizer wings. The smaller ones are maneuvering thusters for low speed movements and also to compensate against drift current. Next step will be probably adding the wearable beacon that enables GPS tracking.
+
+6h ago
 
 ---
 
@@ -82,7 +82,7 @@ Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . R
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 9h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 **[[Release] LinkForge v1.2.3: Professional URDF/XACRO Editor for Blender](https://www.reddit.com/r/robotics/comments/1r4mk4j/release_linkforge_v123_professional_urdfxacro/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -104,7 +104,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-18h ago
+19h ago
 
 ---
 
@@ -136,6 +136,14 @@ CNN • 1d ago
 
 ---
 
+**[Medtronic receives FDA clearance for Stealth AXiS™ surgical system, first integrated planning, navigation and robotics platform for spine surgery](https://news.medtronic.com/2026-02-13-Medtronic-receives-FDA-clearance-for-Stealth-AXiS-TM-surgical-system,-first-integrated-planning,-navigation-and-robotics-platform-for-spine-surgery)**
+
+Medtronic (NYSE: MDT), a global leader in healthcare technology, today announced U.S. Food and Drug Administration (FDA) clearance of the Stealth AXiS™ surgical system, a next-generation...
+
+Medtronic • 1d ago
+
+---
+
 **[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
 
 Forbes • 2d ago
@@ -150,14 +158,6 @@ ChinaPower Project • 2d ago
 
 ---
 
-**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
-
-At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
-
-Мілітарний • 1d ago
-
----
-
 **[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
@@ -166,25 +166,27 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[What to know about Chicago's delivery robots and the debate over them](https://chicago.suntimes.com/business/2026/delivery-robots-chicago-food-coco-robotics)**
+**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
 
-Some Chicago residents are fighting the deployment of robot delivery couriers. A petition started by a Lincoln Park resident has picked up over 3,400 signatures
+At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
-Chicago Sun-Times • 2d ago
-
----
-
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
-
-KSN.com • 1d ago
+Мілітарний • 1d ago
 
 ---
 
-**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
+**[GE Aerospace uses robots to fix jet engine blades, reduce repair delay](https://interestingengineering.com/ai-robotics/ge-aerospace-robots-jet-engine-repair)**
 
-Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
+GE Aerospace is teaching robots to repair jet engine blades as global maintenance backlogs stretch into months.
 
-Automotive News • 2d ago
+Interesting Engineering • 1d ago
+
+---
+
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
+
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
+
+New York Post • 1d ago
 
 ---
 
@@ -208,7 +210,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 210K • 👍 4K • 💬 495 • ⏱️ 53:47 • 16h ago
+👁️ 210K • 👍 4K • 💬 495 • ⏱️ 53:47 • 17h ago
 
 ---
 
@@ -218,7 +220,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 8K • 👍 259 • 💬 10 • ⏱️ 0:59 • 8h ago
+👁️ 8K • 👍 259 • 💬 10 • ⏱️ 0:59 • 10h ago
 
 ---
 
@@ -228,7 +230,7 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 DPCcars
 
-👁️ 1K • 👍 55 • 💬 7 • ⏱️ 1:24 • 14h ago
+👁️ 1K • 👍 55 • 💬 7 • ⏱️ 1:24 • 16h ago
 
 ---
 
@@ -258,7 +260,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 52K • 👍 973 • 💬 14 • ⏱️ 0:06 • 3h ago
+👁️ 52K • 👍 973 • 💬 14 • ⏱️ 0:06 • 4h ago
 
 ---
 
@@ -268,7 +270,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 52 • 💬 5 • ⏱️ 0:21 • 10h ago
+👁️ 2K • 👍 52 • 💬 5 • ⏱️ 0:21 • 11h ago
 
 ---
 
@@ -286,7 +288,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Romi Pal
 
-👁️ 42K • 👍 914 • 💬 12 • ⏱️ 0:37 • 7h ago
+👁️ 42K • 👍 914 • 💬 12 • ⏱️ 0:37 • 8h ago
 
 ---
 
