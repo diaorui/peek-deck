@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T10:56:04.234519+00:00'
+updated: '2026-02-15T11:26:07.094560+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 10:56 UTC  
+**Last Updated:** February 15, 2026 at 11:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,7 +52,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-17h ago
+18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 15h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 16h ago
 
 ---
 
@@ -104,7 +104,7 @@ Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . R
 
 I am designing an autonomous surface vehicle that provides as assistance and rescue to open water swimmers. I have doing some math to determine the hull and thruster size. So far the design looks like this https://preview.redd.it/i1q8tx87sjjg1.png?width=706&format=png&auto=webp&s=f082aab242ac18087e75d0c8f9e8fb18ef35de2d https://preview.redd.it/71huppe9sjjg1.png?width=888&format=png&auto=webp&s=e659a1118be31d954e1624d5f472d78d338c6758 Main thruster can be seen in the back, along the stabilizer wings. The smaller ones are maneuvering thusters for low speed movements and also to compensate against drift current. Next step will be probably adding the wearable beacon that enables GPS tracking.
 
-10h ago
+11h ago
 
 ---
 
@@ -138,7 +138,7 @@ But here’s the catch: building the tech is one thing. Navigating regulation? A
  
 #YoungTurksReloaded #Addverb #Robotics #Humanoid #HealthcareTech #AI #FutureOfWork #AgeingPopulation
 
-LinkedIn • 1h ago
+LinkedIn • 2h ago
 
 ---
 
@@ -216,7 +216,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 285K • 👍 4K • 💬 583 • ⏱️ 53:47 • 22h ago
+👁️ 285K • 👍 4K • 💬 583 • ⏱️ 53:47 • 23h ago
 
 ---
 
@@ -266,7 +266,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 57 • 💬 5 • ⏱️ 0:21 • 16h ago
+👁️ 2K • 👍 57 • 💬 5 • ⏱️ 0:21 • 17h ago
 
 ---
 
@@ -274,7 +274,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Romi Pal
 
-👁️ 74K • 👍 1K • 💬 15 • ⏱️ 0:37 • 13h ago
+👁️ 74K • 👍 1K • 💬 15 • ⏱️ 0:37 • 14h ago
 
 ---
 
