@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T19:26:28.326522+00:00'
+updated: '2026-02-15T19:47:33.430056+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - news
 - social
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 19:26 UTC  
+**Last Updated:** February 15, 2026 at 19:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-4h ago
+5h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-6h ago
+7h ago
 
 ---
 
@@ -101,7 +101,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-12h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actu
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-23h ago
+1d ago
 
 ---
 
@@ -133,7 +133,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
 
-35m ago
+56m ago
 
 ---
 
@@ -173,11 +173,11 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin Price Slides After US Admits Nearly 1 Million ‘Phantom’ Jobs in Data Revision](https://finance.yahoo.com/news/bitcoin-price-slides-us-admits-130321937.html)**
+**[Is CleanSpark (CLSK) Pricing Reflect Recent Share Weakness And Bitcoin Mining Sector Headlines](https://finance.yahoo.com/news/cleanspark-clsk-pricing-reflect-recent-180801733.html)**
 
-Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
+If you are wondering whether CleanSpark's current share price lines up with its underlying value, this article will walk through the key signals without the noise. The stock recently closed at US$9.85, with returns of a 2.3% decline over 7 days, 26.3% decline over 30 days, 14.7% decline year to date and 6.2% decline over 1 year, set against a very large 3 year return. Recent news coverage has focused on how bitcoin mining companies are reacting to changing market conditions and capital...
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Forbes • 8h ago
 
 ---
 
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqdFaak_XDh0KRUK3x7UmROrR1bnFg3Cd1iRg3FXXAiNNDEsRPlk0_qy&gaa_ts=69921606&gaa_sig=P8Ln1V2pwpM9xWEBK19jo2LsqietgzD9C1yP9QRvp-CfQRWHD1cacui5U4ZnS2vKNSyKC3oPj3XR38P2vcWXIQ%3D%3D)**
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqeWGumvl6ePqYHHNbxPB4W26nmyqOv6ZwyTfe5V9V4gYol15i4ZO3KS&gaa_ts=69922642&gaa_sig=H004f8GDWXJzK674IZEf5Kp9dn2zExYr3HbIdTBWJUl2VhlfPUCU6EN_3NYLgtxJ3_QID7xGaernSVoIVcs1SA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -215,19 +215,19 @@ New York Post • 1d ago
 
 ---
 
-**[Wall Street remains bullish on bitcoin while offshore traders retreat](https://www.coindesk.com/markets/2026/02/15/wall-street-remains-bullish-on-bitcoin-while-offshore-traders-retreat)**
+**[BlackRock's head of digital assets warns leverage-driven volatility risks undermine b itcoin’s institutional narrative](https://www.coindesk.com/markets/2026/02/13/blackrock-s-head-of-digital-assets-warns-leverage-driven-volatility-risks-undermine-bitcoin-s-institutional-narrative)**
 
-The difference in futures basis between CME and Deribit reflects varying risk appetite across regions.
+Rampant speculation on crypto derivatives platforms is fueling volatility and risking bitcoin’s image as a stable hedge, says BlackRock’s digital assets chief.
 
-CoinDesk • 7h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
+**[Bitcoin Takes Step Towards Quantum Fix as Experts Diverge on Urgency of Threat](https://decrypt.co/358068/bitcoin-quantum-fix-experts-diverge-urgency-threat)**
 
-The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
+Bitcoin developers lay the groundwork for post-quantum upgrades, but experts vary on whether the threat is years or decades away.
 
-MLive.com • 11h ago
+Decrypt • 3h ago
 
 ---
 
@@ -291,7 +291,7 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
-⬆️ 2 • 💬 0 • 23h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 2 • 💬 0 • 1d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -321,7 +321,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 881 • 💬 153 • ⏱️ 12:55 • 6h ago
+👁️ 15K • 👍 881 • 💬 153 • ⏱️ 12:55 • 7h ago
 
 ---
 
@@ -371,7 +371,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 11K • 👍 691 • 💬 36 • ⏱️ 10:24 • 13h ago
+👁️ 11K • 👍 691 • 💬 36 • ⏱️ 10:24 • 14h ago
 
 ---
 
@@ -401,7 +401,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Punjabibeautyonduty
 
-👁️ 6K • 👍 2K • 3h ago
+👁️ 6K • 👍 2K • 4h ago
 
 ---
 

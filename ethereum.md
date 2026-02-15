@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T19:26:28.332490+00:00'
+updated: '2026-02-15T19:47:33.436139+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 19:26 UTC  
+**Last Updated:** February 15, 2026 at 19:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.3%  
-**7d:** -7.0%  
-**30d:** -40.9%  
-**90d:** -37.4%  
-**1y:** -26.4%  
+**24h:** -7.0%  
+**7d:** -7.7%  
+**30d:** -41.3%  
+**90d:** -37.8%  
+**1y:** -26.9%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 21h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 22h ago
 
 ---
 
@@ -166,14 +166,6 @@ Bitcoin.com News • 2h ago
 
 ---
 
-**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
-
-BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
-
-Yahoo Finance • 2d ago
-
----
-
 **[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
 
 Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
@@ -182,11 +174,33 @@ Nasdaq • 1d ago
 
 ---
 
+**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
+
+BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
+
+Yahoo Finance • 2d ago
+
+---
+
 **[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
 
 Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
 CoinDesk • 2d ago
+
+---
+
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/02/14/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+
+Here's why Bitcoin and Ethereum should be in your long-term portfolio.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
+
+TradingView • 19h ago
 
 ---
 
@@ -206,25 +220,11 @@ BeInCrypto • 14h ago
 
 ---
 
-**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
+**[LBank Launches 16th BoostHub Campaign Featuring Ethereum with 30 ETH in Rewards](https://markets.businessinsider.com/news/currencies/lbank-launches-16th-boosthub-campaign-featuring-ethereum-with-30-eth-in-rewards-1035828448)**
 
-TradingView • 19h ago
+Singapore, Singapore, February 14th, 2026, ChainwireLBank, the leading global crypto exchange, today announced the launch of ...
 
----
-
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
-
-The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
-
-The Motley Fool • 1d ago
-
----
-
-**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
-
-The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
-
-The Block • 3d ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 247 • 👍 13 • 💬 2 • ⏱️ 4:36 • 8h ago
+👁️ 247 • 👍 13 • 💬 2 • ⏱️ 4:36 • 9h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 17h ago
+👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ For any questions contact me on Telegram : https://t.me/cryptobotdev124 Download
 
 📺 Cole the DeFi Maker
 
-👁️ 2K • ⏱️ 7:43 • 3h ago
+👁️ 2K • ⏱️ 7:43 • 4h ago
 
 ---
 
@@ -318,7 +318,7 @@ Observers note a striking pattern: Ethereum has tanked over 50% eight separate t
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 390 • 👍 6 • ⏱️ 1:08 • 4h ago
+👁️ 390 • 👍 6 • ⏱️ 1:08 • 5h ago
 
 ---
 

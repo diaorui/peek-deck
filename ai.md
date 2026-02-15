@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T19:26:28.318053+00:00'
+updated: '2026-02-15T19:47:33.421530+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - news
 - repositories
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 19:26 UTC  
+**Last Updated:** February 15, 2026 at 19:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -81,7 +81,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-21h ago
+22h ago
 
 ---
 
@@ -97,7 +97,7 @@ Everyone’s screaming that “AI coding is going to replace human developers”
 
 I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
 
-7h ago
+8h ago
 
 ---
 
@@ -127,33 +127,27 @@ Axios • 16h ago
 
 ---
 
+**[US military used Anthropic’s AI model Claude in Venezuela raid, report says](https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid)**
+
+Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
+
+The Guardian • 1d ago
+
+---
+
+**[Anthropic President: AI Will Make Humanities Majors 'More Important'](https://www.businessinsider.com/anthropic-president-ai-humanities-majors-more-important-2026-2)**
+
+Anthropic president Daniela Amodei said that, in the age of AI, we should "prize the things that make us human" — like literature degrees.
+
+Business Insider • 9h ago
+
+---
+
 **[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
 The Washington Post • 1h ago
-
----
-
-**['The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears](https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html)**
-
-Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
-
-Yahoo Finance • 3h ago
-
----
-
-**[AI Risk Is Dominating Conference Calls as Investors Dump Stocks](https://www.bloomberg.com/news/articles/2026-02-15/ai-risk-is-dominating-conference-calls-as-investors-dump-stocks)**
-
-Bloomberg • 9h ago
-
----
-
-**[The AI trade has entered a puzzling phase. Do we know who the winners are anymore?](https://www.cnbc.com/2026/02/15/jim-cramer-weighs-in-on-the-anthropic-fueled-software-stock-sell-off-.html)**
-
-In his Sunday column for Investing Club subscribers, Jim Cramer explores the software sell-off and Anthropic's influence on the stock market.
-
-CNBC • 1h ago
 
 ---
 
@@ -165,11 +159,19 @@ Fox News • 1h ago
 
 ---
 
-**[The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs | Editorial](https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-ai-safety-staff-departures-raise-worries-about-industry-pursuing-profit-at-all-costs)**
+**[How Disney picks its AI copyright battles depends on who's ripping it off](https://www.businessinsider.com/disney-ai-copyright-battles-seedance-nano-banana-sora-midjourney-2026-2)**
 
-Editorial: Cash-hungry Silicon Valley firms are scrambling for revenue. Regulate them now before the tech becomes too big to fail
+Disney sent ByteDance a cease-and-desist for using its characters on Seedance. When OpenAI's Sora did it, however, Disney struck a deal.
 
-The Guardian • 2h ago
+Business Insider • 1h ago
+
+---
+
+**[Obama responds to Trump sharing racist AI video depicting him as an ape](https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump)**
+
+"There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum," Obama said in an interview that was posted on YouTube Saturday.
+
+NPR • 1h ago
 
 ---
 
@@ -179,19 +181,19 @@ The New York Times • 2d ago
 
 ---
 
-**[Microsoft AI chief gives it 18 months—for all white-collar work to be automated by AI](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/)**
+**[The AI productivity take-off is finally visible](https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5)**
 
-Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
+New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Fortune • 2d ago
+Financial Times • 14h ago
 
 ---
 
-**[Microsoft AI CEO predicts 'most, if not all' white-collar tasks will be automated by AI within 18 months](https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-white-collar-tasks-automation-prediction-2026-2)**
+**[Why are experts sounding the alarm on AI risks?](https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks)**
 
-Mustafa Suleyman, Microsoft's AI chief, says AI can automate white-collar jobs within 12-18 months, as tech reaches human-level performance in tasks.
+AI is advancing in rapid and unpredictable ways but there is no joint framework to keep it in check, experts say.
 
-Business Insider • 2d ago
+Al Jazeera • 8h ago
 
 ---
 
@@ -239,7 +241,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 241 • 💬 125 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 241 • 💬 125 • 2d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -247,7 +249,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 113 • 💬 62 • 20h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 113 • 💬 62 • 21h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -679,7 +681,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 256 • 3h ago
+⭐ 2.5k • 🔱 256 • 4h ago
 
 ---
 
@@ -709,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 142 • 14h ago
+⭐ 2.1k • 🔱 142 • 15h ago
 
 ---
 
@@ -729,7 +731,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 242 • 1h ago
+⭐ 1.9k • 🔱 242 • 2h ago
 
 ---
 

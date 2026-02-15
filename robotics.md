@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T19:26:28.335711+00:00'
+updated: '2026-02-15T19:47:33.439485+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 19:26 UTC  
+**Last Updated:** February 15, 2026 at 19:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-10h ago
+11h ago
 
 ---
 
@@ -74,7 +74,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 so I am so done with my job search in ML/DS/AI/CS and all kinds of bullshit.. Idk why robotics, but it feels like an interesting thing to learn, I think machines gonna work more in future, mainly could solve many problems in the third world. I am stupid and dumb and anyone wanna help me learn and gain some experience working with robots. I just have the ML background of things. Thanks
 
-37m ago
+58m ago
 
 ---
 
@@ -82,7 +82,7 @@ so I am so done with my job search in ML/DS/AI/CS and all kinds of bullshit.. Id
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-2h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-12h ago
+13h ago
 
 ---
 
@@ -128,33 +128,11 @@ Nature • 3d ago
 
 ---
 
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
-
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
-
-ChinaPower Project • 2d ago
-
----
-
 **[China has another solution to its shrinking population: robots](https://edition.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
 CNN • 1d ago
-
----
-
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
-
-KSN-TV • 1d ago
-
----
-
-**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
-
-At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
-
-Мілітарний • 2d ago
 
 ---
 
@@ -172,11 +150,33 @@ New York Post • 2d ago
 
 ---
 
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
+
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
+
+ChinaPower Project • 2d ago
+
+---
+
 **[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
+
+At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
+
+Мілітарний • 2d ago
+
+---
+
+**[VEX Robotics hosts ‘Bots at Bristol’ tournament for middle schools](https://www.wjhl.com/news/local/vex-robotics-hosts-bots-at-bristol-tournament-for-middle-schools/)**
+
+WJHL • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 13K • 👍 381 • 💬 13 • ⏱️ 0:59 • 23h ago
+👁️ 13K • 👍 381 • 💬 13 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -286,7 +286,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 771K • 👍 7K • 💬 73 • ⏱️ 0:06 • 17h ago
+👁️ 771K • 👍 7K • 💬 73 • ⏱️ 0:06 • 18h ago
 
 ---
 
