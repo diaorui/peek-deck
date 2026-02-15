@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T23:28:30.749819+00:00'
+updated: '2026-02-15T23:52:59.271313+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 23:28 UTC  
+**Last Updated:** February 15, 2026 at 23:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ If you work in the nonprofit sector and have been wondering how AI could fit int
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ Everyone’s screaming that “AI coding is going to replace human developers”
 
 I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
 
-11h ago
+12h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 3d ago
 
 **[Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis](https://www.bloomberg.com/news/articles/2026-02-15/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis)**
 
-Bloomberg.com • 58m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bloomberg.com • 58m ago
 
 India has a market of young, tech-forward consumers and a huge pool of talent which could be key to continued development of AI.
 
-CNBC • 12m ago
+CNBC • 37m ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 12m ago
 
 Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Guardian • 58m ago
 
 "There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum," Obama said in an interview that was posted on YouTube Saturday.
 
-NPR • 4h ago
+NPR • 5h ago
 
 ---
 
@@ -183,7 +183,7 @@ NPR • 4h ago
 
 An ex-Amazon manager says his layoff in October 2025 was a shock, but he's using this time to build AI skills, focus on his health, and apply to jobs.
 
-Business Insider • 13h ago
+Business Insider • 14h ago
 
 ---
 
@@ -217,7 +217,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 361 • 💬 252 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 361 • 💬 252 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -701,7 +701,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 155 • 2h ago
+⭐ 2.2k • 🔱 155 • 3h ago
 
 ---
 
@@ -711,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 146 • 4h ago
+⭐ 2.1k • 🔱 146 • 5h ago
 
 ---
 
@@ -721,7 +721,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 243 • 5h ago
+⭐ 1.9k • 🔱 243 • 6h ago
 
 ---
 

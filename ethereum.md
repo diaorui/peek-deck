@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T23:28:30.764125+00:00'
+updated: '2026-02-15T23:52:59.285726+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 23:28 UTC  
+**Last Updated:** February 15, 2026 at 23:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-10h ago
+11h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 3d ago
 
 Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
 
-Bitcoin.com News • 2h ago
+Bitcoin.com News • 3h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 383 • 👍 16 • 💬 2 • ⏱️ 4:36 • 12h ago
+👁️ 383 • 👍 16 • 💬 2 • ⏱️ 4:36 • 13h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 21h ago
+👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 22h ago
 
 ---
 
@@ -308,7 +308,7 @@ For any questions contact me on Telegram : https://t.me/cryptobotdev124 Download
 
 📺 Cole the DeFi Maker
 
-👁️ 3K • 👍 8 • 💬 10 • ⏱️ 7:43 • 7h ago
+👁️ 3K • 👍 8 • 💬 10 • ⏱️ 7:43 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 KLH-BPLH
 
-👁️ 6K • 👍 1K • 21h ago
+👁️ 6K • 👍 1K • 22h ago
 
 ---
 
