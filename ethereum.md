@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T14:29:24.866666+00:00'
+updated: '2026-02-15T14:56:12.336219+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
 - cryptocurrency
-- social
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 14:29 UTC  
+**Last Updated:** February 15, 2026 at 14:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 16h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 17h ago
 
 ---
 
@@ -178,7 +178,7 @@ Nasdaq • 4h ago
 
 Trump Media and Technology Group is expanding its push into digital assets, filing for two new cryptocurrency exchange-traded funds tied to Bitcoin, Ether and the Cronos ecosystem. Key Takeaways: Trump Media filed for two crypto ETFs tracking Bitcoin, Ether and the Cronos token. The Cronos fund would include staking rewards ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -240,7 +240,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 321 • ⏱️ 34:57 • 14h ago
+👁️ 38K • 👍 2K • 💬 321 • ⏱️ 34:57 • 15h ago
 
 ---
 
@@ -250,7 +250,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 104 • 👍 8 • 💬 1 • ⏱️ 4:36 • 3h ago
+👁️ 104 • 👍 8 • 💬 1 • ⏱️ 4:36 • 4h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 160 • 💬 7 • ⏱️ 4:45 • 12h ago
+👁️ 2K • 👍 160 • 💬 7 • ⏱️ 4:45 • 13h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 8K • 👍 274 • 💬 30 • ⏱️ 17:42 • 16h ago
+👁️ 8K • 👍 274 • 💬 30 • ⏱️ 17:42 • 17h ago
 
 ---
 
@@ -310,7 +310,7 @@ ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsap
 
 📺 Bullish Bull Master
 
-👁️ 8K • 👍 1K • 4h ago
+👁️ 8K • 👍 1K • 5h ago
 
 ---
 
@@ -330,7 +330,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 700 • 👍 1K • 1h ago
+👁️ 700 • 👍 1K • 2h ago
 
 ---
 

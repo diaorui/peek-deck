@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T14:29:24.861294+00:00'
+updated: '2026-02-15T14:56:12.330628+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - cryptocurrency
-- social
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 14:29 UTC  
+**Last Updated:** February 15, 2026 at 14:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,7 +97,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-18h ago
+19h ago
 
 ---
 
@@ -113,7 +113,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 12h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 13h ago
 
 ---
 
@@ -129,7 +129,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-8h ago
+9h ago
 
 ---
 
@@ -153,7 +153,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
 
-13h ago
+14h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 1d ago
 
 XRP is outperforming bitcoin and ether following signs of dip buying during recent crash.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Forbes • 3h ago
 
 Trump Media and Technology Group is expanding its push into digital assets, filing for two new cryptocurrency exchange-traded funds tied to Bitcoin, Ether and the Cronos ecosystem. Key Takeaways: Trump Media filed for two crypto ETFs tracking Bitcoin, Ether and the Cronos token. The Cronos fund would include staking rewards ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -309,7 +309,7 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
-⬆️ 2 • 💬 0 • 18h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 2 • 💬 0 • 19h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -333,7 +333,7 @@ Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50
 
 📺 Benjamin Cowen
 
-👁️ 29K • 👍 2K • 💬 92 • ⏱️ 18:10 • 8h ago
+👁️ 29K • 👍 2K • 💬 92 • ⏱️ 18:10 • 9h ago
 
 ---
 
@@ -353,7 +353,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 8K • 👍 604 • 💬 60 • ⏱️ 10:24 • 8h ago
+👁️ 8K • 👍 604 • 💬 60 • ⏱️ 10:24 • 9h ago
 
 ---
 
@@ -373,7 +373,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 6K • 👍 307 • 💬 31 • ⏱️ 8:36 • 15h ago
+👁️ 6K • 👍 307 • 💬 31 • ⏱️ 8:36 • 16h ago
 
 ---
 
