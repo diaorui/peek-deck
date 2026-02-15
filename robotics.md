@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T13:47:30.178989+00:00'
+updated: '2026-02-15T14:29:24.869535+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 13:47 UTC  
+**Last Updated:** February 15, 2026 at 14:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ Robotics research and industry news
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-20h ago
+21h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-20h ago
+21h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 18h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 19h ago
 
 ---
 
@@ -126,17 +126,39 @@ Nature • 3d ago
 
 ---
 
-**[Japan is ageing. Europe is ageing. Even India won’t stay 27 forever. So who fills the gap when there simply aren’t enough people? In this conversation, Addverb’s Sangeet Kumar explains to Shereen Bhan, why robotics may not just be about efficiency, but ab](https://www.linkedin.com/posts/cnbc-tv18_youngturksreloaded-addverb-robotics-activity-7428724552412766208-C2Bf)**
+**[From a small Noida facility six years ago to exporting robots to 25 countries 🌍🤖 Inside Addverb’s largest mobile robotics factory, 900 engineers are building machines that now power warehouses and industries across India, the US, Europe, Australia and beyo](https://www.linkedin.com/posts/cnbc-tv18_youngturksreloaded-addverb-robotics-activity-7428790807857565696-qjoz)**
 
-Japan is ageing. Europe is ageing. Even India won’t stay 27 forever. So who fills the gap when there simply aren’t enough people?
+From a small Noida facility six years ago to exporting robots to 25 countries 🌍🤖
  
-In this conversation, Addverb’s Sangeet Kumar explains to Shereen Bhan, why robotics may not just be about efficiency, but about survival. From delivery drones in labour-starved economies to humanoids assisting the elderly, from surgical robots to wearable exoskeletons—the future of healthcare could look very different.
+Inside Addverb’s largest mobile robotics factory, 900 engineers are building machines that now power warehouses and industries across India, the US, Europe, Australia and beyond. With capacity to manufacture 100,000 robots a year and a target of 50% India, 50% global revenue, this is a company betting big on “Made in India, for the world.”
  
-But here’s the catch: building the tech is one thing. Navigating regulation? A whole different battle. Are robots the answer to the world’s ageing crisis? 🤖
+Shereen Bhan gets an inside look at how a decade-old startup is scaling into a global automation player.
  
-#YoungTurksReloaded #Addverb #Robotics #Humanoid #HealthcareTech #AI #FutureOfWork #AgeingPopulation
+#YoungTurksReloaded #Addverb #Robotics #MakeInIndia #AI #Automation #IndianStartups
 
-LinkedIn • 4h ago
+LinkedIn • 1h ago
+
+---
+
+**[High-precision robots: What to do when absolute accuracy is poor?](https://www.therobotreport.com/high-precision-robots-what-to-do-when-absolute-accuracy-is-poor/)**
+
+The Fraunhofer Institute for Manufacturing Engineering and Automation IPA is helping to improve absolute accuracy for robots.
+
+The Robot Report • 52m ago
+
+---
+
+**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
+
+China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
+
+CNN • 1d ago
+
+---
+
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -150,15 +172,15 @@ ChinaPower Project • 2d ago
 
 **[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
 
-KSN.com • 1d ago
+KSN-TV • 1d ago
 
 ---
 
-**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
+**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
 
-China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
+Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-CNN • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -167,28 +189,6 @@ CNN • 1d ago
 At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
 Мілітарний • 1d ago
-
----
-
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
-
-Forbes • 2d ago
-
----
-
-**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
-
-For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
-
-New York Post • 1d ago
-
----
-
-**[Video: China's humanoid robot Robotera L7 performs stunning sword dance](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
-
-Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
-
-Interesting Engineering • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 310K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
+👁️ 317K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -212,27 +212,17 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 308K • 👍 4K • 💬 604 • ⏱️ 53:47 • 1d ago
+👁️ 336K • 👍 5K • 💬 693 • ⏱️ 53:47 • 1d ago
 
 ---
 
-**[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
+**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
 
-Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
+A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
 
-📺 By 2050
+📺 AI Revolution
 
-👁️ 11K • 👍 311 • 💬 10 • ⏱️ 0:59 • 18h ago
-
----
-
-**[Unitree Embodied AI Model Manufactures Robots in Factory🤩](https://www.youtube.com/watch?v=ub2gWviKZpk)**
-
-Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment at Unitree's own robot factory.
-
-📺 Unitree Robotics
-
-👁️ 30K • 👍 757 • 💬 125 • ⏱️ 0:45 • 2d ago
+👁️ 127K • 👍 2K • 💬 208 • ⏱️ 11:59 • 4d ago
 
 ---
 
@@ -246,13 +236,13 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 ---
 
-**[Figure AI’s 7th Gen Robot Hand Is Almost Human](https://www.youtube.com/watch?v=I3za-uI-2QI)**
+**[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
 
-Figure AI has unveiled its 3rd generation humanoid robot, but the real story is the 7th generation robotic hand. Brett Adcock says it ...
+Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
 
-📺 DPCcars
+📺 By 2050
 
-👁️ 2K • 👍 64 • 💬 9 • ⏱️ 1:24 • 1d ago
+👁️ 12K • 👍 334 • 💬 11 • ⏱️ 0:59 • 18h ago
 
 ---
 
@@ -260,17 +250,7 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 Romi Pal
 
-👁️ 83K • 👍 1K • 💬 16 • ⏱️ 0:37 • 16h ago
-
----
-
-**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
-
-Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 101 • 💬 8 • ⏱️ 9:26 • 5d ago
+👁️ 92K • 👍 2K • 💬 23 • ⏱️ 0:37 • 17h ago
 
 ---
 
@@ -284,13 +264,33 @@ The biggest fear about humanoid robots isn't strength. It's control. Future robo
 
 ---
 
-**[This Drone Transforms From Car to Flying Machine 🚁](https://www.youtube.com/watch?v=BT436xmFKso)**
+**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
 
-This transformable drone can move in completely different styles. In ground mode, it rolls on wheels like a robotic rover — stable, ...
+Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
 
-📺 Facts TV 91
+📺 Carros Show
 
-👁️ 489K • 👍 5K • 💬 52 • ⏱️ 0:06 • 12h ago
+👁️ 5K • 👍 102 • 💬 8 • ⏱️ 9:26 • 5d ago
+
+---
+
+**[Figure AI’s 7th Gen Robot Hand Is Almost Human](https://www.youtube.com/watch?v=I3za-uI-2QI)**
+
+Figure AI has unveiled its 3rd generation humanoid robot, but the real story is the 7th generation robotic hand. Brett Adcock says it ...
+
+📺 DPCcars
+
+👁️ 3K • 👍 67 • 💬 9 • ⏱️ 1:24 • 1d ago
+
+---
+
+**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
+
+Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
+
+📺 Jeff Geerling
+
+👁️ 89K • 👍 4K • 💬 260 • ⏱️ 12:38 • 1d ago
 
 ---
 

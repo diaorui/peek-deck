@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T13:47:30.161426+00:00'
+updated: '2026-02-15T14:29:24.853502+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 13:47 UTC  
+**Last Updated:** February 15, 2026 at 14:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 21h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 22h ago
 
 ---
 
@@ -53,11 +53,19 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 ---
 
-**[Validation prompts - getting more accurate responses from LLM chats](https://www.reddit.com/r/artificial/comments/1r59tzo/validation_prompts_getting_more_accurate/)**
+**[Engineers have all the leverage in today’s job markets](https://www.reddit.com/r/artificial/comments/1r5fsol/engineers_have_all_the_leverage_in_todays_job/)**
 
-Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚
+Engineers need to remember who they are. You’re not middle management fluff — you’re the people who build, fix, and make the whole machine run. Corporations don’t function without real engineers. AI isn’t replacing you — it’s being used as an excuse to squeeze teams and juice quarterly numbers. The demand for strong engineers never goes away… it just gets delayed until the tech debt and broken systems force hiring back. Don’t beat yourself down. You hold more cards than you think.
 
-4h ago
+8m ago
+
+---
+
+**[free tools](https://www.reddit.com/r/artificial/comments/1r5f4tn/free_tools/)**
+
+I’m looking for free tools to generate AI videos. I’m not interested in paid subscriptions or "free trials" that require a credit card right now. I just want to test the waters and see what’s possible. I know that "free" often comes with limits (watermarks, short clips, queues), and I’m fine with that. What are the best options out there right now? I’ve seen some talk about tools based on Google Veo or stuff on HuggingFace, but the landscape changes so fast. Specifically looking for: Text-to-video generation. Actually free to use (no hidden costs). Decent quality for a free tool. What are you guys using? Also, any specific subreddits I should be following for this stuff?
+
+37m ago
 
 ---
 
@@ -65,7 +73,15 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-1h ago
+2h ago
+
+---
+
+**[Validation prompts - getting more accurate responses from LLM chats](https://www.reddit.com/r/artificial/comments/1r59tzo/validation_prompts_getting_more_accurate/)**
+
+Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚
+
+5h ago
 
 ---
 
@@ -73,7 +89,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-3h ago
+4h ago
 
 ---
 
@@ -81,7 +97,7 @@ Everyone’s screaming that “AI coding is going to replace human developers”
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-14h ago
+15h ago
 
 ---
 
@@ -101,45 +117,13 @@ I have a list of 10,000 contact number (mix of phone number and landlines so tex
 
 ---
 
-**[I built a "Traffic Light" system for AI Agents so they don't corrupt each other (Open Source)](https://www.reddit.com/r/artificial/comments/1r4tbnj/i_built_a_traffic_light_system_for_ai_agents_so/)**
-
-Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
-
-18h ago
-
----
-
-**[Unpopular opinion: most people use AI wrong and it's not even close](https://www.reddit.com/r/artificial/comments/1r5coej/unpopular_opinion_most_people_use_ai_wrong_and/)**
-
-I see so many posts here like "I asked ChatGPT to write my essay" or "look at this funny response I got" and that's cool but you're using a rocket ship to go to the grocery store. The actual money and time savings come from connecting AI to your real workflows. Not chatting with it. Connecting it. Here's what I mean. I have an automation that watches my inbox. When an email comes in, AI reads it, figures out if it's a lead, a support request, or spam, drafts a response, and either sends it automatically or queues it for me to review. That runs 24/7 without me touching it. Saves me probably 2 hours a day. I have another one where I write one blog post and it automatically turns it into a twitter thread, linkedin post, instagram caption, email newsletter, and a tiktok script. All formatted differently for each platform. That used to be a full day of work every week. None of this is hard to set up. The tools are mostly free. The problem is everyone's stuck in the "type a prompt and get an answer" mindset when the real power is in automation. I'm not saying chatting with AI isn't useful. I use Claude every day for thinking through problems. But if that's ALL you're doing with AI you're leaving 90% of the value on the table. Curious if anyone else here has gone down the automation rabbit hole or if most people are still mainly using it for chat.
-
-2h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 11h ago
-
----
-
-**[US military used Anthropic’s AI model Claude in Venezuela raid, report says](https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid)**
-
-Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
-
-The Guardian • 21h ago
-
----
-
-**[Anthropic CEO Dario Amodei warns if AI growth forecasts are off by a year, 'then you go bankrupt'](https://fortune.com/2026/02/14/anthropic-ceo-dario-amodei-spending-capex-risk-ai-revenue-forecasts-bankruptcy/)**
-
-"If I'm just off by a year in that rate of growth, or if the growth rate is 5x a year instead of 10x a year, then you go bankrupt."
-
-Fortune • 16h ago
+Axios • 12h ago
 
 ---
 
@@ -147,29 +131,35 @@ Fortune • 16h ago
 
 New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
-**[Why are experts sounding the alarm on AI risks?](https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks)**
+**[Gore Verbinski on His AI Comedy Comeback: “It’s 2026. Good Luck. Have Fun. Don’t Die.”](https://www.hollywoodreporter.com/movies/movie-news/gore-verbinski-good-luck-have-fun-dont-die-interview-ai-1236497029/)**
 
-AI is advancing in rapid and unpredictable ways but there is no joint framework to keep it in check, experts say.
+The blockbuster director pivots to indie filmmaking for a Berlin-premiering sci-fi comedy about artificial intelligence, creative survival and why “women will save the world.”
 
-Al Jazeera • 2h ago
-
----
-
-**[The stock market is reflecting fears of an AI apocalypse for white-collar jobs](https://www.msn.com/en-us/news/other/ar-AA1WlZhm)**
-
-MSN • 2h ago
+The Hollywood Reporter • 22m ago
 
 ---
 
-**[Google’s AI Overviews Can Scam You. Here’s How to Stay Safe](https://www.wired.com/story/googles-ai-overviews-can-scam-you-heres-how-to-stay-safe/)**
+**[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
 
-Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.
+Bloomberg.com • 29m ago
 
-WIRED • 2h ago
+---
+
+**[Axios CTO is living your coming AI reality](https://www.axios.com/2026/02/15/ai-coding-tech-product-development)**
+
+Axios • 37m ago
+
+---
+
+**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
+
+NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
+
+The Washington Post • 20m ago
 
 ---
 
@@ -181,9 +171,17 @@ Fortune • 1d ago
 
 ---
 
-**[Will A.I. Kill Translation Jobs?](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
+**[What French Romance Novels Could Tell Us About A.I. and Translation Jobs](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
 
-The New York Times • 7h ago
+The New York Times • 9h ago
+
+---
+
+**[Why are experts sounding the alarm on AI risks?](https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks)**
+
+AI is advancing in rapid and unpredictable ways but there is no joint framework to keep it in check, experts say.
+
+Al Jazeera • 3h ago
 
 ---
 
@@ -203,7 +201,7 @@ CNBC • 5h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2315 • 💬 945 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2316 • 💬 945 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -215,7 +213,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 692 • 💬 571 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 701 • 💬 580 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -223,7 +221,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 516 • 💬 314 • 19h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 525 • 💬 324 • 19h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -231,7 +229,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 351 • 💬 224 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 355 • 💬 231 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -239,7 +237,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 338 • 💬 539 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 339 • 💬 541 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -253,7 +251,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 238 • 💬 124 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 239 • 💬 124 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -363,7 +361,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 13K • 👍 707 • 💬 61 • ⏱️ 7:05 • 22h ago
+👁️ 13K • 👍 707 • 💬 61 • ⏱️ 7:05 • 23h ago
 
 ---
 
@@ -389,7 +387,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 128,078 • ❤️ 1,170 • 1d ago
+⬇️ 128,078 • ❤️ 1,178 • 1d ago
 
 ---
 
@@ -401,7 +399,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 11,092 • ❤️ 575 • 1d ago
+⬇️ 11,092 • ❤️ 585 • 1d ago
 
 ---
 
@@ -413,7 +411,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,986 • ❤️ 436 • 3d ago
+⬇️ 2,986 • ❤️ 436 • 4d ago
 
 ---
 
@@ -425,7 +423,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 756,817 • ❤️ 2,172 • 10d ago
+⬇️ 756,817 • ❤️ 2,175 • 10d ago
 
 ---
 
@@ -437,7 +435,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 11,129 • ❤️ 381 • 2d ago
+⬇️ 11,129 • ❤️ 391 • 2d ago
 
 ---
 
@@ -449,19 +447,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 855,997 • ❤️ 1,041 • 6d ago
-
----
-
-**[MiniCPM-o-4_5](https://huggingface.co/openbmb/MiniCPM-o-4_5)**
-
-*OpenBMB*
-
-MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and OCR, offering Gemini 2.5 Flash-level capabilities. Its key feature is full-duplex multimodal live streaming, enabling simultaneous real-time audio/video input and text/speech output for proactive, fluid omnimodal conversations on local devices.
-
-`any-to-any` `9.4B`
-
-⬇️ 45,216 • ❤️ 841 • 1d ago
+⬇️ 855,997 • ❤️ 1,043 • 6d ago
 
 ---
 
@@ -477,6 +463,18 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 ---
 
+**[MiniCPM-o-4_5](https://huggingface.co/openbmb/MiniCPM-o-4_5)**
+
+*OpenBMB*
+
+MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and OCR, offering Gemini 2.5 Flash-level capabilities. Its key feature is full-duplex multimodal live streaming, enabling simultaneous real-time audio/video input and text/speech output for proactive, fluid omnimodal conversations on local devices.
+
+`any-to-any` `9.4B`
+
+⬇️ 45,216 • ❤️ 843 • 1d ago
+
+---
+
 **[Ming-flash-omni-2.0](https://huggingface.co/inclusionAI/Ming-flash-omni-2.0)**
 
 *inclusionAI*
@@ -485,7 +483,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,303 • ❤️ 202 • 3d ago
+⬇️ 6,303 • ❤️ 204 • 3d ago
 
 ---
 
@@ -497,13 +495,25 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,992 • ❤️ 525 • 1d ago
+⬇️ 5,992 • ❤️ 527 • 1d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 9 • 💬 1 • ⭐ 3,589 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
 
 **[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
@@ -513,21 +523,9 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 61 • 💬 6 • ⭐ 13,284 • 4mo ago
+▲ 62 • 💬 6 • ⭐ 13,342 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
-
----
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 9 • 💬 1 • ⭐ 3,511 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -566,7 +564,7 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 141 • 💬 19 • ⭐ 53,051 • 11mo ago
+▲ 141 • 💬 19 • ⭐ 53,092 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -578,21 +576,9 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 159 • 💬 3 • ⭐ 5,488 • 7mo ago
+▲ 159 • 💬 3 • ⭐ 5,508 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 134 • 💬 6 • ⭐ 14,735 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -630,9 +616,21 @@ SceneSmith is a hierarchical agentic framework that generates simulation-ready i
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 63 • 💬 1 • ⭐ 7,712 • 24d ago
+▲ 64 • 💬 1 • ⭐ 7,712 • 24d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 134 • 💬 6 • ⭐ 14,745 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -710,7 +708,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 142 • 9h ago
+⭐ 2.1k • 🔱 142 • 10h ago
 
 ---
 

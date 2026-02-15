@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T13:47:30.175762+00:00'
+updated: '2026-02-15T14:29:24.866666+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 13:47 UTC  
+**Last Updated:** February 15, 2026 at 14:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,048.55
+### $2,015.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -3.2%  
-**30d:** -38.4%  
-**90d:** -34.8%  
-**1y:** -23.3%  
+**24h:** -4.1%  
+**7d:** -5.0%  
+**30d:** -39.6%  
+**90d:** -36.0%  
+**1y:** -24.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -150,14 +150,6 @@ This is the second article in a series about deterministic deployments, where we
 
 ## Google News: "ethereum"
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
-
-The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
-
-The Motley Fool • 1d ago
-
----
-
 **[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
@@ -166,11 +158,19 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Is Crushing XRP in 1 Key Arena. Should You Buy It With $1,000?](https://www.fool.com/investing/2026/02/15/ethereum-is-crushing-xrp-in-1-key-arena-should-you/)**
+**[Ethereum Co-Founder Vitalik Buterin Calls for Prediction Market Reset](https://news.bitcoin.com/ethereum-co-founder-vitalik-buterin-calls-for-prediction-market-reset/)**
 
-Ethereum is seeing a flood of assets into its network.
+Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
 
-The Motley Fool • 3h ago
+Bitcoin.com News • 3h ago
+
+---
+
+**[Ethereum Is Crushing XRP in 1 Key Arena. Should You Buy It With $1,000?](https://www.nasdaq.com/articles/ethereum-crushing-xrp-1-key-arena-should-you-buy-it-1000)**
+
+Key PointsEthereum is an increasingly popular place to trade and manage tokenized assets.
+
+Nasdaq • 4h ago
 
 ---
 
@@ -178,15 +178,7 @@ The Motley Fool • 3h ago
 
 Trump Media and Technology Group is expanding its push into digital assets, filing for two new cryptocurrency exchange-traded funds tied to Bitcoin, Ether and the Cronos ecosystem. Key Takeaways: Trump Media filed for two crypto ETFs tracking Bitcoin, Ether and the Cronos token. The Cronos fund would include staking rewards ...
 
-Yahoo Finance • 2h ago
-
----
-
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
-
-Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
-
-Nasdaq • 9h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -198,11 +190,19 @@ CoinDesk • 1d ago
 
 ---
 
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
+
+The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 15h ago
+dlnews.com • 16h ago
 
 ---
 
@@ -210,7 +210,7 @@ dlnews.com • 15h ago
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
 
-BeInCrypto • 8h ago
+BeInCrypto • 9h ago
 
 ---
 
@@ -218,7 +218,7 @@ BeInCrypto • 8h ago
 
 Ethereum’s recent price action reflects a market transitioning from impulsive selling into a potential short-term stabilisation phase. After a sharp
 
-CryptoPotato • 21h ago
+CryptoPotato • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 321 • ⏱️ 34:57 • 13h ago
+👁️ 38K • 👍 2K • 💬 321 • ⏱️ 34:57 • 14h ago
 
 ---
 
@@ -280,7 +280,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 83 • 💬 2 • ⏱️ 17:25 • 22h ago
+👁️ 2K • 👍 83 • 💬 2 • ⏱️ 17:25 • 23h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 8K • 👍 274 • 💬 30 • ⏱️ 17:42 • 15h ago
+👁️ 8K • 👍 274 • 💬 30 • ⏱️ 17:42 • 16h ago
 
 ---
 
@@ -310,7 +310,7 @@ ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsap
 
 📺 Bullish Bull Master
 
-👁️ 8K • 👍 1K • 3h ago
+👁️ 8K • 👍 1K • 4h ago
 
 ---
 
@@ -330,7 +330,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 700 • 👍 1K • 54m ago
+👁️ 700 • 👍 1K • 1h ago
 
 ---
 

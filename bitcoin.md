@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T13:47:30.169751+00:00'
+updated: '2026-02-15T14:29:24.861294+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 13:47 UTC  
+**Last Updated:** February 15, 2026 at 14:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,213.90
+### $69,158.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.6%  
-**7d:** -0.4%  
-**30d:** -26.6%  
-**90d:** -24.9%  
-**1y:** -27.4%  
+**24h:** -1.1%  
+**7d:** -1.5%  
+**30d:** -27.4%  
+**90d:** -25.7%  
+**1y:** -28.2%  
 
 ---
 
@@ -81,13 +81,15 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-1h ago
+2h ago
 
 ---
 
-**[The 36% Trap: How the New Dutch Tax on Bitcoin Turns Paper Profits into Real Ruin.](https://www.reddit.com/r/Bitcoin/comments/1r5b8aa/the_36_trap_how_the_new_dutch_tax_on_bitcoin/)**
+**[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-36-trap-how-the-new-dutch-tax) • 3h ago
+... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
+
+8h ago
 
 ---
 
@@ -103,15 +105,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-16h ago
-
----
-
-**[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
-
-... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
-
-7h ago
+17h ago
 
 ---
 
@@ -119,7 +113,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 11h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 12h ago
 
 ---
 
@@ -127,7 +121,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-20h ago
+21h ago
 
 ---
 
@@ -139,17 +133,27 @@ What would you say we are looking at for predictions for 1,3,5 years
 
 ---
 
-**[Study the past if you would define the future](https://www.reddit.com/r/Bitcoin/comments/1r5dfj7/study_the_past_if_you_would_define_the_future/)**
-
-1h ago
-
----
-
 **[Title: Open-source C++ secp256k1 library with full Bitcoin stack: Taproot, Silent Payments, MuSig2, FROST, BIP-32/44, and GPU acceleration](https://www.reddit.com/r/Bitcoin/comments/1r5ca6d/title_opensource_c_secp256k1_library_with_full/)**
 
 I've been building a comprehensive secp256k1 library that covers the full modern Bitcoin protocol stack: 🟢 Bitcoin-specific: Taproot (BIP-341/342) with tweak + Merkle tree BIP-352 Silent Payments MuSig2 (BIP-327) — 2-round key aggregation FROST threshold signatures (t-of-n) BIP-32 HD derivation (xprv/xpub, path parsing) BIP-44 coin-type derivation All address types: P2PKH, P2WPKH, P2TR, Base58Check, Bech32/Bech32m ⚡ Performance: x64 assembly with BMI2/ADX (3-5× speedup) CUDA GPU batch processing (4.63M key generations/sec) GLV endomorphism, precomputation tables Zero heap allocations in hot paths 🔐 Security: Constant-time operations (dedicated ct namespace) RFC 6979 deterministic nonces Low-S normalization 200+ tests with known vector verification Zero external dependencies. MIT licensed. GitHub: [github.com/shrec/UltrafastSecp256k1](vscode-file://vscode-app/c:/Users/shrek/AppData/Local/Programs/Microsoft%20VS%20Code/b6a47e94e3/resources/app/out/vs/code/electron-browser/workbench/workbench.html)
 
-2h ago
+3h ago
+
+---
+
+**[Daily Discussion, February 15, 2026](https://www.reddit.com/r/Bitcoin/comments/1r57465/daily_discussion_february_15_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+8h ago
+
+---
+
+**[People always forget their original intentions.](https://www.reddit.com/r/Bitcoin/comments/1r50sb8/people_always_forget_their_original_intentions/)**
+
+Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
+
+13h ago
 
 ---
 
@@ -157,11 +161,9 @@ I've been building a comprehensive secp256k1 library that covers the full modern
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
+**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
 
-After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
-
-Bitcoin Magazine • 8h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -171,11 +173,17 @@ Forbes • 1d ago
 
 ---
 
-**[Wall Street remains bullish on bitcoin while offshore traders retreat](https://www.coindesk.com/markets/2026/02/15/wall-street-remains-bullish-on-bitcoin-while-offshore-traders-retreat)**
+**[Ripple news: XRP investors likely bought the dip after the recent crash](https://www.coindesk.com/markets/2026/02/15/xrp-is-outrunning-bitcoin-and-ether-after-investors-piled-into-the-recent-crash)**
 
-The difference in futures basis between CME and Deribit reflects varying risk appetite across regions.
+XRP is outperforming bitcoin and ether following signs of dip buying during recent crash.
 
 CoinDesk • 1h ago
+
+---
+
+**[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
+
+Forbes • 3h ago
 
 ---
 
@@ -183,21 +191,21 @@ CoinDesk • 1h ago
 
 Trump Media and Technology Group is expanding its push into digital assets, filing for two new cryptocurrency exchange-traded funds tied to Bitcoin, Ether and the Cronos ecosystem. Key Takeaways: Trump Media filed for two crypto ETFs tracking Bitcoin, Ether and the Cronos token. The Cronos fund would include staking rewards ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfJGHtSHBCBFQz8CqZmbxsyMsPGdVVLDMWFT5do8wUyo3hQwPLBM4hy&gaa_ts=6991dbae&gaa_sig=MjjCH0DIymgH0mn_HCOHumHKVLcN906w7ygBOjA9LF_N8kCHgzHb5XtBElBVnUtgL30TmPwDQmxdr0NflTtmoA%3D%3D)**
 
-Forbes • 2h ago
+Barron's • 2d ago
 
 ---
 
-**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
+**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
 
-Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
+The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-BBC • 11h ago
+MLive.com • 6h ago
 
 ---
 
@@ -206,14 +214,6 @@ BBC • 11h ago
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
 Nasdaq • 1d ago
-
----
-
-**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
-
-The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
-
-MLive.com • 5h ago
 
 ---
 
@@ -229,19 +229,13 @@ IO Fund • 3d ago
 
 Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
 
-CNBC • 2d ago
+CNBC • 3d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[Bitcoin tumbles below $70K, heavy losses in cryptocurrencies in last three weeks](https://news.ycombinator.com/item?id=46934165)**
-
-⬆️ 58 • 💬 68 • 6d ago • [bloomberg.com](https://www.bloomberg.com/news/articles/2026-02-05/bitcoin-drops-below-70-000-as-forced-deleveraging-accelerates)
-
----
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
@@ -285,7 +279,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 15h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 16h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -301,7 +295,7 @@ What do Bitcoin miners actually do? An interactive exploration of hashing, diffi
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 1d ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 2d ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -310,6 +304,12 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
 ⬆️ 2 • 💬 1 • 5d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
+
+---
+
+**[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
+
+⬆️ 2 • 💬 0 • 18h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -323,7 +323,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 197 • 💬 6 • ⏱️ 17:15 • 20h ago
+👁️ 5K • 👍 197 • 💬 6 • ⏱️ 17:15 • 21h ago
 
 ---
 
@@ -363,7 +363,7 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 181 • 💬 13 • ⏱️ 20:41 • 15h ago
+👁️ 3K • 👍 181 • 💬 13 • ⏱️ 20:41 • 16h ago
 
 ---
 
@@ -373,7 +373,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 6K • 👍 307 • 💬 31 • ⏱️ 8:36 • 14h ago
+👁️ 6K • 👍 307 • 💬 31 • ⏱️ 8:36 • 15h ago
 
 ---
 
