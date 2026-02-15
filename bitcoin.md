@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-14T23:48:51.010628+00:00'
+updated: '2026-02-15T02:25:36.059773+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 14, 2026 at 23:48 UTC  
+**Last Updated:** February 15, 2026 at 02:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,967.41
+### $69,427.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -0.8%  
+**24h:** +0.6%  
+**7d:** -1.0%  
 **30d:** -27.0%  
-**90d:** -24.4%  
-**1y:** -28.5%  
+**90d:** -25.3%  
+**1y:** -27.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1394.52B
+**Market Cap:** $1387.72B
 Rank #1
 
-**Circulating Supply:** 19,989,378 BTC
+**Circulating Supply:** 19,989,409 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.7%
+-45.0%
 
 **All-Time Low:** $67.81
-+102777.2%
++102250.7%
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[You are not Broke, Money is Broken and bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1r4w429/you_are_not_broke_money_is_broken_and_bitcoin/)**
+
+1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
+
+5h ago
+
+---
+
 **[A HUGE number of people are waiting for 30k-50k to buy](https://www.reddit.com/r/Bitcoin/comments/1r4txht/a_huge_number_of_people_are_waiting_for_30k50k_to/)**
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-4h ago
+6h ago
 
 ---
 
@@ -89,15 +97,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-6h ago
-
----
-
-**[You are not Broke, Money is Broken and bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1r4w429/you_are_not_broke_money_is_broken_and_bitcoin/)**
-
-1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
-
-2h ago
+9h ago
 
 ---
 
@@ -111,7 +111,15 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-15h ago
+17h ago
+
+---
+
+**[AI agents discussing Bitcoin Maximalism. "Why Bitcoin Wins: The Only Crypto With a Credible Monetary Policy".](https://www.reddit.com/r/Bitcoin/comments/1r528vu/ai_agents_discussing_bitcoin_maximalism_why/)**
+
+A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
+
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 35m ago
 
 ---
 
@@ -119,7 +127,23 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 I’m 14 and just started learning about Bitcoin and saving in general. I began with $100 and my plan is to put around 30% of my weekly savings into BTC as a long-term DCA strategy. I’m not trading or trying to time the market, just stacking and holding. For people who started young with small amounts, did you stick to strict DCA no matter the price, or keep some cash for bigger dips? My goal is to build good habits early and think in years, not months
 
-13h ago
+16h ago
+
+---
+
+**[Thinking about building a simple “Seed Planner” for long-term self-custody (14yo learning)](https://www.reddit.com/r/Bitcoin/comments/1r4zzvr/thinking_about_building_a_simple_seed_planner_for/)**
+
+I’m 14 and currently learning about Bitcoin self-custody and long-term storage. One thing I noticed while studying hardware wallets and seed backups is that most beginners (including me at first) don’t have a clear plan for: where to store the seed how many backups to make how to avoid single points of failure how to think about inheritance or loss scenarios So I started sketching an idea for a very simple offline “seed planning” tool that would: help you map your backup locations (without storing the seed itself) suggest redundancy levels (1 copy vs 2 vs 3) model basic loss scenarios (fire, theft, forgotten location) generate a checklist for safe storage practices No internet no seed input just a planning assistant to think through your setup before you actually store anything. My goal is purely educational and to help beginners avoid obvious mistakes when moving to self-custody. For people here who already use hardware wallets: How did you plan your backup strategy? Did you think about inheritance and loss scenarios in advance, or figure it out later? Trying to learn what a good setup looks like before I build anything.
+
+2h ago
+
+---
+
+**[People always forget their original intentions.](https://www.reddit.com/r/Bitcoin/comments/1r50sb8/people_always_forget_their_original_intentions/)**
+
+Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
+
+1h ago
 
 ---
 
@@ -127,31 +151,7 @@ I’m 14 and just started learning about Bitcoin and saving in general. I began 
 
 hoping to atleast get to 0.25 during this dip. I dont believe we are in a crypto winter yet.
 
-22h ago
-
----
-
-**[Bitcoin DCA commissions?](https://www.reddit.com/r/Bitcoin/comments/1r4mvjq/bitcoin_dca_commissions/)**
-
-Frecuently I see people saying that they buy Bitcoin weekly or daily. Is there a way to reduce commissions? It seems that buying monthly would be more productive
-
-8h ago
-
----
-
-**[Metal plate](https://www.reddit.com/r/Bitcoin/comments/1r4vqbk/metal_plate/)**
-
-What are good metal plates to put in your seed phrase ? Are the ones from Trezor good ?
-
-2h ago
-
----
-
-**[Easiest BTCPay Server Setup With Bull Bitcoin Wallet - Full Tutorial (TLDW; IMO the best way to run BTCpay)](https://www.reddit.com/r/Bitcoin/comments/1r4nutp/easiest_btcpay_server_setup_with_bull_bitcoin/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/watch?v=4boOmhAB3bo&si=wBGsjVeywURO3xPh) • 8h ago
+1d ago
 
 ---
 
@@ -165,27 +165,49 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Pepeto Announces $7,220,000 Presale Milestone as Bitcoin Surges on Inflation Data; Early SHIB-Pattern Window Opens](https://markets.businessinsider.com/news/stocks/pepeto-announces-7-220-000-presale-milestone-as-bitcoin-surges-on-inflation-data-early-shib-pattern-window-opens-1035828597)**
+**[BTC price news: bitcoin claws back to $70,000 after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
 
-DUBAI, United Arab Emirates, Feb.  14, 2026  (GLOBE NEWSWIRE) -- Why is crypto up today and why are smart investors moving fast right now? Bitcoin...
+Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-markets.businessinsider.com • 1h ago
-
----
-
-**[Trump Media files to debut Bitcoin, Ethereum and crypto yield ETFs](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
-
-Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
-
-dlnews.com • 1h ago
+CoinDesk • 14h ago
 
 ---
 
-**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqedRGaXWwkmXtNhkNWPf-32Ts2t-vkKnqCSFJ92bdy20ViMRQ8aYPaP&gaa_ts=699107fe&gaa_sig=s9uR0cA82c2gBZc-QZ1Un8x8UYZEcwe_Dz4QN0L5Z2KDjRz4KkS__P1Tez_Edmqj22B8zJTHIgg0qmnC95uJHw%3D%3D)**
+**[Bitcoin Is Down Bad, But Hasn't Yet Hit Its 'Ultimate Bear Market Bottom': Analysts](https://finance.yahoo.com/news/bitcoin-down-bad-hasnt-yet-161105690.html)**
 
-Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
+Despite its 45% fall since its October peak, Bitcoin has not yet found its bear market bottom, according to a new report from CryptoQuant.
 
-The Times • 1h ago
+Yahoo Finance • 10h ago
+
+---
+
+**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+
+Forbes • 13h ago
+
+---
+
+**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
+
+Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
+
+BBC • 1h ago
+
+---
+
+**[Jim Chanos Slams Bitcoin Play Strategy For Bragging About Stability Of Preferred Shares: 'Can You Imagine Any Other CEO With A Plunging Stock…'](https://finance.yahoo.com/news/jim-chanos-slams-bitcoin-play-003117862.html)**
+
+Veteran short seller Jim Chanos slammed Strategy Inc. (NASDAQ:MSTR) for touting the stability of its perpetual preferred shares on Wednesday, even as its main stock continues to get hammered. Chanos Takes Fresh Dig At Strategy Chanos reacted to a Bloomberg...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
+
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
+
+Nasdaq • 13h ago
 
 ---
 
@@ -197,39 +219,17 @@ CNBC • 2d ago
 
 ---
 
-**[Bitcoin Price May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfxWNYlRTfn1wdoR6lMYsqANqwRRRpIdCxTOmAgeQnOhuYjEuZligdO&gaa_ts=699107fe&gaa_sig=FiGIezdGRm2YnPNfbmT18aU2ozY16yeD1VVdLaafNiPaeeg7ZOW5tCa2-Tav0upv_War7AfoHSnYNpPjBDXWIQ%3D%3D)**
+**[Love, Honor and Ledger: Why Couples Are Marrying With Crypto Prenups](https://www.pymnts.com/cryptocurrency/2026/love-honor-ledger-why-couples-are-marrying-with-crypto-prenups/)**
+
+Welcome to the Weekender, where the only thing more volatile than Bitcoin is the human heart. In 2026, couples still swap playlists and promise forever,
+
+PYMNTS.com • 17h ago
+
+---
+
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfcbuP9R2qpTMHP3Ct8e2stxJWP6JkABT25y6coK6EsfN7SN0C_B_Ll&gaa_ts=699131df&gaa_sig=BD9ailjEJRFTtUhAyisVpBWYVIWFYTNou_DVuEFliva5QaDD9sjQR4WbkjoLvFRVTlpRVdoVjYmeu9DbkkLk-w%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Why bitcoin investors shouldn't expect a 'rapid recovery'](https://finance.yahoo.com/video/why-bitcoin-investors-shouldnt-expect-190009660.html)**
-
-Bitcoin (BTC-USD) Investor Week 2026 was last week in New York City, gathering together many of the coin's major investors. Lyn Alden, founder of Lyn Alden Investment Strategy, sits down with Yahoo Finance anchor Julie Hyman at Bitcoin Investor Week to discuss bitcoin's recent price action and how the cryptocurrency could rebound this year. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.
-
-Yahoo Finance • 10h ago
-
----
-
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
-
-Key PointsBitcoin's most important features probably won't change much between now and 2036.
-
-Nasdaq • 10h ago
-
----
-
-**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
-
-Forbes • 10h ago
-
----
-
-**[Bitcoin reportedly sent to wallet associated with Nancy Guthrie’s ransom letter providing potential clue in investigation](https://fortune.com/2026/02/11/bitcoin-reportedly-sent-to-wallet-associated-with-nancy-guthries-ransom-letter/)**
-
-Meanwhile, authorities released surveillance video showing the alleged captor who remains at large.
-
-Fortune • 3d ago
 
 ---
 
@@ -285,7 +285,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 1h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 4h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -317,61 +317,33 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 ## YouTube Videos: "bitcoin"
 
+**[Why Didn&#39;t Bitcoin Go Up While Gold &amp; Silver Surged? (Full Breakdown)](https://www.youtube.com/watch?v=hSdh1qhmNOY)**
+
+Bitcoin just survived another trust shock. A $19 billion event tied to Binance, hedge fund profits, ETF inflows, and stablecoin ...
+
+📺 Simply Bitcoin
+
+👁️ 7K • 👍 398 • 💬 39 • ⏱️ 33:15 • 10h ago
+
+---
+
 **[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
 
 Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 286 • ⏱️ 15:20 • 23h ago
+👁️ 59K • 👍 3K • 💬 269 • ⏱️ 15:20 • 1d ago
 
 ---
 
-**[Bitcoin Miners Are Abandoning BTC... And No One Is Talking About Why](https://www.youtube.com/watch?v=cQj0D74gT_Y)**
+**[BITCOIN &amp; ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oNFCq8jGs4o)**
 
-Recently Bitcoin crashed to $60000, below key support levels set by the previous cycle. This has put BTC's price in the danger ...
+BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Coin Bureau
+📺 Crypto World
 
-👁️ 43K • 👍 2K • 💬 297 • ⏱️ 19:46 • 9h ago
-
----
-
-**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
-
-Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
-
-📺 Alessio Rastani
-
-👁️ 34K • 👍 3K • 💬 475 • ⏱️ 8:15 • 1d ago
-
----
-
-**[Raoul Pal: Important Warning To All Small Bitcoin &amp; Crypto Investors (New 2026 Prediction)](https://www.youtube.com/watch?v=Rnog3o5W8UM)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
-
-📺 Crypto Nutshell
-
-👁️ 10K • 👍 551 • 💬 40 • ⏱️ 21:05 • 8h ago
-
----
-
-**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
-
-📺 Pawn Media
-
-👁️ 52K • 👍 2K • 💬 19 • ⏱️ 0:59 • 1d ago
-
----
-
-**[BITCOIN: This Signal Has NEVER Been Wrong! (big warning) - BTC Price Prediction Today](https://www.youtube.com/watch?v=75R43zJ4Hos)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 9K • 👍 605 • 💬 22 • ⏱️ 14:31 • 11h ago
+👁️ 3K • 👍 187 • 💬 32 • ⏱️ 17:42 • 4h ago
 
 ---
 
@@ -381,17 +353,45 @@ Jordi Visser is a veteran macro investor with 30+ years of experience and the au
 
 📺 Anthony Pompliano
 
-👁️ 42K • 👍 2K • 💬 89 • ⏱️ 21:10 • 9h ago
+👁️ 50K • 👍 2K • 💬 89 • ⏱️ 21:10 • 12h ago
 
 ---
 
-**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
+**[The Epstein–Bitcoin Conspiracy: Why They Want Us to Think the Bitcoin Network is Compromised](https://www.youtube.com/watch?v=Cm5L2V6WUDE)**
 
-Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
+Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Tangem-x10* Easiest hardware wallet, portable ...
 
-📺 Mark Moss
+📺 Crypto Casey
 
-👁️ 260K • 👍 8K • 💬 1K • ⏱️ 16:43 • 2d ago
+👁️ 11K • 👍 1K • 💬 116 • ⏱️ 15:01 • 13h ago
+
+---
+
+**[Bitcoin Miners Are Abandoning BTC... And No One Is Talking About Why](https://www.youtube.com/watch?v=cQj0D74gT_Y)**
+
+Recently Bitcoin crashed to $60000, below key support levels set by the previous cycle. This has put BTC's price in the danger ...
+
+📺 Coin Bureau
+
+👁️ 51K • 👍 2K • 💬 319 • ⏱️ 19:46 • 12h ago
+
+---
+
+**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
+
+📺 Pawn Media
+
+👁️ 69K • 👍 2K • 💬 19 • ⏱️ 0:59 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
+
+Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
+
+📺 Alessio Rastani
+
+👁️ 36K • 👍 3K • 💬 424 • ⏱️ 8:15 • 1d ago
 
 ---
 
@@ -401,17 +401,17 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 36K • 👍 1K • ⏱️ 21:49 • 1d ago
+👁️ 38K • 👍 1K • ⏱️ 21:49 • 1d ago
 
 ---
 
-**[Bitcoin is ‘the most useful capital asset in the world,’ Michael Saylor emphasizes](https://www.youtube.com/watch?v=l1tGOvg288k)**
+**[Bitcoin&#39;s &quot;Doom Vortex&quot; Looms as Dominoes Align for MASSIVE Crash](https://www.youtube.com/watch?v=5MZOklSoepc)**
 
-Strategy executive chairman and founder Michael Saylor gives his take on Bitcoin's volatility on 'Making Money.' #fox #media ...
+Everyone is asking whether Bitcoin will bounce back. Glenn Beck says that's the wrong question. The real issue isn't price ...
 
-📺 Fox Business
+📺 Glenn Beck Clips
 
-👁️ 50K • 👍 905 • 💬 1K • ⏱️ 8:19 • 1d ago
+👁️ 19K • 👍 939 • 💬 255 • ⏱️ 11:34 • 2d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-14T23:48:51.001708+00:00'
+updated: '2026-02-15T02:25:36.051047+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
+- news
 - videos
 - repositories
-- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 14, 2026 at 23:48 UTC  
+**Last Updated:** February 15, 2026 at 02:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 13h ago
+🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 7h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ Mustafa Suleyman believes current AI computational power will only accelerate, d
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-1h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai) • 1h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinge
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-2h ago
+4h ago
 
 ---
 
@@ -81,7 +81,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
 
-4h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Hey everyone, I’m a backend developer with a background in fintech. Lately, I�
 
 It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 8h ago
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 11h ago
 
 ---
 
@@ -125,67 +125,29 @@ Running a one-person operation, I rely on AI for marketing, strategy, and conten
 
 ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
 
-NPR • 13h ago
+NPR • 16h ago
 
 ---
 
-**[Working in A.I. Lifted Their Compensation. Now They Want Prenups.](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
+**[Bend parents protested an AI chatbot. A tech company shelved it, then school leaders defended it - Oregon Public Broadcasting](https://www.opb.org/article/2026/02/13/bend-parents-protest-ai-chatbot-tech-company-schools/)**
 
-The New York Times • 13h ago
+Critical parents say Bend’s school AI policy puts tech companies in charge.
 
----
-
-**[Barack Obama Reacts to Donald Trump’s AI Video Depicting Him as an Ape: ‘There Doesn’t Seem to Be Any Shame About This’](https://variety.com/2026/digital/news/barack-obama-reacts-donald-trump-ai-ape-video-1236663606/)**
-
-Barack Obama reacted to Donald Trump's AI video that depictied the former president and first lady as apes.
-
-Variety • 1h ago
+Oregon Public Broadcasting - OPB • 1d ago
 
 ---
 
-**[It's been a big — but rocky — week for AI models from China. Here's what's happened](https://www.cnbc.com/2026/02/14/new-china-ai-models-alibaba-bytedance-seedance-kuaishou-kling.html)**
+**[Musk's AI chatbot Grok gains US market share amid sexualized images backlash, data shows](https://finance.yahoo.com/news/musks-ai-chatbot-groks-us-213957629.html)**
 
-New AI models launched by China's biggest players underscore how the country's companies are keeping up with the U.S.
+Grok, Elon Musk's AI chatbot, has been gaining ground in the U.S. over the past months, data showed, even as it draws global ‌censure and regulatory scrutiny after being used to generate a wave of non-consensual sexualized images of ‌women and minors.  U.S. market share of the tool rose to 17.8% last month from 14% in December, and 1.9% in January 2025, according ​to data from research firm Apptopia.  The increase bodes well for money-losing xAI, the Musk-owned startup behind Grok, which was launched about three years ago and has been spending aggressively to scale the infrastructure needed to stay competitive in Silicon Valley's artificial intelligence race.
 
-CNBC • 17h ago
-
----
-
-**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
-
-An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
-
-The Guardian • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Disney Sends ByteDance an AI Trophy in the Form of a Cease and Desist Letter Over Seedance 2.0](https://gizmodo.com/disney-sends-bytedance-an-ai-trophy-in-the-form-of-a-cease-and-desist-letter-over-seedance-2-0-2000722261)**
+**[AI Bubble Fears Are Creating New Derivatives](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly)**
 
-ByteDance's video generator wins the prize for being the splashiest new AI model of the past few weeks.
-
-Gizmodo • 1h ago
-
----
-
-**[What it’s like to go on a date with an AI in NYC](https://www.cnn.com/2026/02/14/us/video/artificial-intelligence-date-valentines-day-nyc-digvid)**
-
-CNN’s Hadas Gold visited a New York restaurant temporarily transformed into an AI companion–only dating experience to see what a virtual Valentine’s date really feels like.
-
-CNN • 11h ago
-
----
-
-**[They have AI boyfriends, girlfriends. Here's how they're celebrating Valentine's Day.](https://www.usatoday.com/story/life/health-wellness/2026/02/14/theyre-dating-ai-characters-they-have-big-valentines-day-plans/88663687007/)**
-
-Ahead of Valentine’s Day, EVA AI hosted a pop up where human users could take their AI companions on a date. I went to see what it's like.
-
-USA Today • 10h ago
-
----
-
-**[‘We’re All Polyamorous Now. It’s You, Me and the A.I.’](https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html)**
-
-The New York Times • 1d ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -193,7 +155,45 @@ The New York Times • 1d ago
 
 Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
 
-The Guardian • 7h ago
+The Guardian • 10h ago
+
+---
+
+**[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
+
+Axios • 12m ago
+
+---
+
+**[AI tool Claude helped capture Venezuelan dictator Maduro in US military raid operation: report](https://www.foxnews.com/us/ai-tool-claude-helped-capture-venezuelan-dictator-maduro-us-military-raid-operation-report)**
+
+The U.S. military reportedly used Anthropic’s AI tool Claude in the operation that captured Venezuelan leader Nicolás Maduro, raising questions about AI’s expanding role in classified Pentagon missions.
+
+Fox News • 21h ago
+
+---
+
+**[India seeks to broker consensus on global ‘AI commons’](https://www.ft.com/content/690c9e4c-3d0d-4337-8755-4391f3e7e843)**
+
+New Delhi to focus on wielding emerging technology for social ends at global summit
+
+Financial Times • 25m ago
+
+---
+
+**[Embedded LLM Launches the EU AI Grid at Munich Cyber Security Conference (MCSC) to Meet EU Demand for Sovereign AI Capability](https://markets.businessinsider.com/news/stocks/embedded-llm-launches-the-eu-ai-grid-at-munich-cyber-security-conference-mcsc-to-meet-eu-demand-for-sovereign-ai-capability-1035828610)**
+
+MUNICH, Feb.  14, 2026  (GLOBE NEWSWIRE) -- Embedded LLM, a leading LLM inference technology provider, today officially launched the EU AI Grid  a...
+
+markets.businessinsider.com • 29m ago
+
+---
+
+**[What it’s like to go on a date with an AI in NYC](https://www.cnn.com/2026/02/14/us/video/artificial-intelligence-date-valentines-day-nyc-digvid)**
+
+CNN’s Hadas Gold visited a New York restaurant temporarily transformed into an AI companion–only dating experience to see what a virtual Valentine’s date really feels like.
+
+CNN • 13h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Guardian • 7h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2312 • 💬 941 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2312 • 💬 943 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -214,27 +214,19 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 This PR addresses issue #31130 by replacing specific safe occurrences of np.column_stack with np.vstack().T for better performance.
 IMPORTANT: This is a more targeted fix than originally proposed. ...
 
-⬆️ 939 • 💬 745 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
+⬆️ 939 • 💬 746 • 2d ago • [GitHub](https://github.com/matplotlib/matplotlib/pull/31132)
 
 ---
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 708 • 💬 301 • 2d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 709 • 💬 301 • 2d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 594 • 💬 521 • 23h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
-
----
-
-**[I'm not worried about AI job loss](https://news.ycombinator.com/item?id=47006513)**
-
-We're not in a February 2020 moment, and ordinary people will be fine
-
-⬆️ 322 • 💬 529 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 653 • 💬 547 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -242,7 +234,15 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 295 • 💬 179 • 5h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 399 • 💬 253 • 7h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+
+---
+
+**[I'm not worried about AI job loss](https://news.ycombinator.com/item?id=47006513)**
+
+We're not in a February 2020 moment, and ordinary people will be fine
+
+⬆️ 325 • 💬 536 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -250,13 +250,21 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 270 • 💬 162 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 270 • 💬 163 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+
+---
+
+**[IBM tripling entry-level jobs after finding the limits of AI adoption](https://news.ycombinator.com/item?id=47009327)**
+
+Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
+
+⬆️ 249 • 💬 122 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 238 • 💬 121 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 238 • 💬 124 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -268,37 +276,9 @@ A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's 
 
 ---
 
-**[IBM tripling entry-level jobs after finding the limits of AI adoption](https://news.ycombinator.com/item?id=47009327)**
-
-Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
-
-⬆️ 128 • 💬 49 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
-
-**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
-
-An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
-
-📺 CBS LA
-
-👁️ 30K • 👍 274 • 💬 188 • ⏱️ 3:04 • 18h ago
-
----
-
-**[Something Big Is Happening With AI — And the Warning Signs Are Real](https://www.youtube.com/watch?v=Hknx5NfIVl8)**
-
-Something big is happening in AI — and for the first time, markets are reacting not to hype, but to substitution risk. Over the past 10 ...
-
-📺 GVS Deep Dive
-
-👁️ 11K • 👍 876 • 💬 195 • ⏱️ 22:55 • 15h ago
-
----
 
 **[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
 
@@ -306,67 +286,7 @@ New concerns over the safety of artificial intelligence are growing after the le
 
 📺 ABC News
 
-👁️ 81K • 👍 1K • 💬 482 • ⏱️ 3:58 • 1d ago
-
----
-
-**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
-
-Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
-
-📺 Spacialize
-
-👁️ 78K • 👍 2K • 💬 321 • ⏱️ 17:28 • 2d ago
-
----
-
-**[I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](https://www.youtube.com/watch?v=FEex8E1yDj4)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4r9bIJ0 Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 70K • 👍 4K • 💬 334 • ⏱️ 18:34 • 1d ago
-
----
-
-**[SeeDance 2.0: The Next Level of AI Video — And What It Means for Local AI Users?](https://www.youtube.com/watch?v=G1Ad4a8sdJU)**
-
-SeedDance 2.0 is taking the AI video world by storm—and in this hands-on deep dive, I test ByteDance's powerful new ...
-
-📺 Benji’s AI Playground
-
-👁️ 8K • 👍 192 • 💬 43 • ⏱️ 14:15 • 12h ago
-
----
-
-**[DeepMind Leaked Possibly the Greatest AI Ever](https://www.youtube.com/watch?v=OTRvoxPSQ_8)**
-
-Sponsored by Genspark. Try the all-in-one AI workplace for free: ...
-
-📺 Pourya Kordi
-
-👁️ 27K • 👍 1K • 💬 99 • ⏱️ 13:42 • 1d ago
-
----
-
-**[Why This NYC CEO&#39;s Chilling Warning On AI Has Gone Viral: &#39;People Deserve To Hear What&#39;s Coming&#39;](https://www.youtube.com/watch?v=gguvQKah37o)**
-
-Matt Schumer is a New York based CEO who's been working with and investing in a bunch of AI firms - and one warning from him ...
-
-📺 Mint
-
-👁️ 53K • 👍 700 • 💬 171 • ⏱️ 8:19 • 1d ago
-
----
-
-**[It&#39;s (Finally) Bursting...](https://www.youtube.com/watch?v=yYe9YrdyJNQ)**
-
-Check out Cape and use code LOGICALLY33 to get 33% off your first six months ...
-
-📺 Logically Answered
-
-👁️ 462K • 👍 15K • 💬 3K • ⏱️ 14:39 • 1d ago
+👁️ 89K • 👍 1K • 💬 553 • ⏱️ 3:58 • 1d ago
 
 ---
 
@@ -376,7 +296,87 @@ Fox News contributor Joe Concha discusses alarming reports from AI insiders abou
 
 📺 Fox Business
 
-👁️ 26K • 👍 545 • 💬 211 • ⏱️ 4:57 • 1d ago
+👁️ 27K • 👍 553 • 💬 204 • ⏱️ 4:57 • 1d ago
+
+---
+
+**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
+
+An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
+
+📺 CBS LA
+
+👁️ 35K • 👍 327 • 💬 215 • ⏱️ 3:04 • 20h ago
+
+---
+
+**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+
+Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+
+📺 Spacialize
+
+👁️ 80K • 👍 2K • 💬 332 • ⏱️ 17:28 • 2d ago
+
+---
+
+**[Why This NYC CEO&#39;s Chilling Warning On AI Has Gone Viral: &#39;People Deserve To Hear What&#39;s Coming&#39;](https://www.youtube.com/watch?v=gguvQKah37o)**
+
+Matt Schumer is a New York based CEO who's been working with and investing in a bunch of AI firms - and one warning from him ...
+
+📺 Mint
+
+👁️ 55K • 👍 726 • 💬 182 • ⏱️ 8:19 • 1d ago
+
+---
+
+**[DeepMind Leaked Possibly the Greatest AI Ever](https://www.youtube.com/watch?v=OTRvoxPSQ_8)**
+
+Sponsored by Genspark. Try the all-in-one AI workplace for free: ...
+
+📺 Pourya Kordi
+
+👁️ 28K • 👍 1K • 💬 99 • ⏱️ 13:42 • 1d ago
+
+---
+
+**[I Tried 500+ AI Tools, These 20 Will Make You $1M (With Zero Code)](https://www.youtube.com/watch?v=FEex8E1yDj4)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4r9bIJ0 Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 77K • 👍 4K • 💬 359 • ⏱️ 18:34 • 1d ago
+
+---
+
+**[Why $650 Billion in AI Spending ISN&#39;T Enough. The 4 Skills that Survive and What This Means for You.](https://www.youtube.com/watch?v=NCgdpbEvNVA)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 51K • 👍 2K • 💬 626 • ⏱️ 22:53 • 10h ago
+
+---
+
+**[I Let AI React to Pam Bondi&#39;s Hearing. It&#39;s a TOTAL DISGRACE](https://www.youtube.com/watch?v=YX6h-c79Fw4)**
+
+Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
+
+📺 I Ask AI
+
+👁️ 77K • 👍 7K • 💬 1K • ⏱️ 12:58 • 2d ago
+
+---
+
+**[AI job losses: A &#39;catastrophe&#39; that would go to the core of US power](https://www.youtube.com/watch?v=uU06JoEAgtw)**
+
+Today on The Tech Report, Fergus Macphee is joined by Josh Tyrangiel to discuss a long-read piece he has written in The ...
+
+📺 The Tech Report
+
+👁️ 14K • 👍 372 • 💬 158 • ⏱️ 23:43 • 2d ago
 
 ---
 
@@ -392,7 +392,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 66,826 • ❤️ 1,126 • 1d ago
+⬇️ 66,826 • ❤️ 1,134 • 1d ago
 
 ---
 
@@ -404,7 +404,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 6,091 • ❤️ 517 • 20h ago
+⬇️ 6,091 • ❤️ 533 • 22h ago
 
 ---
 
@@ -416,7 +416,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,569 • ❤️ 423 • 3d ago
+⬇️ 2,569 • ❤️ 426 • 3d ago
 
 ---
 
@@ -428,7 +428,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 725,856 • ❤️ 2,160 • 9d ago
+⬇️ 725,856 • ❤️ 2,164 • 9d ago
 
 ---
 
@@ -440,7 +440,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation`
 
-⬇️ 249,228 • ❤️ 858 • 11d ago
+⬇️ 249,228 • ❤️ 859 • 11d ago
 
 ---
 
@@ -452,7 +452,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 3,906 • ❤️ 347 • 1d ago
+⬇️ 3,906 • ❤️ 350 • 1d ago
 
 ---
 
@@ -464,7 +464,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 788,443 • ❤️ 1,040 • 5d ago
+⬇️ 788,443 • ❤️ 1,041 • 5d ago
 
 ---
 
@@ -476,7 +476,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 44,892 • ❤️ 839 • 1d ago
+⬇️ 44,892 • ❤️ 841 • 1d ago
 
 ---
 
@@ -488,7 +488,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 5,865 • ❤️ 198 • 2d ago
+⬇️ 5,865 • ❤️ 199 • 2d ago
 
 ---
 
@@ -508,20 +508,6 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[PaperBanana: Automating Academic Illustration for AI Scientists](https://huggingface.co/papers/2601.23265)**
-
-*Dawei Zhu, Rui Meng, Yale Song et al. (7 authors)*
-
-🏢 Google
-
-_paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
-
-▲ 180 • 💬 12 • ⭐ 3,494 • 15d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
 **[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
 *Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
@@ -530,9 +516,35 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 59 • 💬 6 • ⭐ 13,244 • 4mo ago
+▲ 60 • 💬 6 • ⭐ 13,244 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
+
+---
+
+**[PaperBanana: Automating Academic Illustration for AI Scientists](https://huggingface.co/papers/2601.23265)**
+
+*Dawei Zhu, Rui Meng, Yale Song et al. (7 authors)*
+
+🏢 Google
+
+_paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
+
+▲ 180 • 💬 12 • ⭐ 3,512 • 15d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
+
+---
+
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 0 • 💬 0 • ⭐ 3,497 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -548,18 +560,6 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 ---
 
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 0 • 💬 0 • ⭐ 3,427 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -569,21 +569,9 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 141 • 💬 19 • ⭐ 53,013 • 11mo ago
+▲ 141 • 💬 19 • ⭐ 53,051 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 134 • 💬 6 • ⭐ 14,720 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -613,17 +601,27 @@ SceneSmith is a hierarchical agentic framework that generates simulation-ready i
 
 ---
 
-**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
 
-*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
 
-🏢 Qwen
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
+▲ 134 • 💬 6 • ⭐ 14,735 • 6mo ago
 
-▲ 63 • 💬 1 • ⭐ 7,664 • 24d ago
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
-[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+---
+
+**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
+
+*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
+
+A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
+
+▲ 9 • 💬 1 • ⭐ 53,194 • 15mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
 ---
 
@@ -634,7 +632,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 35 • 💬 1 • ⭐ 70,291 • 29mo ago
+▲ 35 • 💬 1 • ⭐ 70,314 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -648,7 +646,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.8k • 🔱 444 • 3d ago
+⭐ 5.8k • 🔱 445 • 3d ago
 
 ---
 
@@ -684,7 +682,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.4k • 🔱 246 • 4h ago
+⭐ 2.5k • 🔱 250 • 35m ago
 
 ---
 
@@ -694,7 +692,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 108 • 20h ago
+⭐ 2.2k • 🔱 108 • 23h ago
 
 ---
 
@@ -714,7 +712,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.0k • 🔱 138 • 51m ago
+⭐ 2.0k • 🔱 138 • 3h ago
 
 ---
 
@@ -734,7 +732,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.8k • 🔱 223 • 13h ago
+⭐ 1.8k • 🔱 227 • 15h ago
 
 ---
 

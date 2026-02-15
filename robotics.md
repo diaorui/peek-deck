@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-14T23:48:51.019729+00:00'
+updated: '2026-02-15T02:25:36.069041+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 14, 2026 at 23:48 UTC  
+**Last Updated:** February 15, 2026 at 02:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-6h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-6h ago
+9h ago
 
 ---
 
@@ -54,11 +54,35 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 ---
 
+**[My ongoing project (II) - marine support drone](https://www.reddit.com/r/robotics/comments/1r4zuf9/my_ongoing_project_ii_marine_support_drone/)**
+
+I am designing an autonomous surface vehicle that provides as assistance and rescue to open water swimmers. I have doing some math to determine the hull and thruster size. So far the design looks like this https://preview.redd.it/i1q8tx87sjjg1.png?width=706&format=png&auto=webp&s=f082aab242ac18087e75d0c8f9e8fb18ef35de2d https://preview.redd.it/71huppe9sjjg1.png?width=888&format=png&auto=webp&s=e659a1118be31d954e1624d5f472d78d338c6758 Main thruster can be seen in the back, along the stabilizer wings. The smaller ones are maneuvering thusters for low speed movements and also to compensate against drift current. Next step will be probably adding the wearable beacon that enables GPS tracking.
+
+2h ago
+
+---
+
 **[Advanced Open Source Custom F405 Flight Controller for FPV drones](https://www.reddit.com/r/robotics/comments/1r4f97i/advanced_open_source_custom_f405_flight/)**
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-15h ago
+18h ago
+
+---
+
+**[Quick feedback on cross-embodiment physics data remodelling service (Student Research)](https://www.reddit.com/r/robotics/comments/1r4vb29/quick_feedback_on_crossembodiment_physics_data/)**
+
+Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
+
+5h ago
+
+---
+
+**[Orp-testmechv2 showcase 14-02-2026](https://www.reddit.com/r/robotics/comments/1r4t9gb/orptestmechv2_showcase_14022026/)**
+
+I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
+
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 7h ago
 
 ---
 
@@ -72,23 +96,7 @@ I posted a video a couple of days ago on r/esp32 showing my Open-Source robot da
 
 **[[Release] LinkForge v1.2.3: Professional URDF/XACRO Editor for Blender](https://www.reddit.com/r/robotics/comments/1r4mk4j/release_linkforge_v123_professional_urdfxacro/)**
 
-8h ago
-
----
-
-**[Quick feedback on cross-embodiment physics data remodelling service (Student Research)](https://www.reddit.com/r/robotics/comments/1r4vb29/quick_feedback_on_crossembodiment_physics_data/)**
-
-Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
-
-3h ago
-
----
-
-**[Orp-testmechv2 showcase 14-02-2026](https://www.reddit.com/r/robotics/comments/1r4t9gb/orptestmechv2_showcase_14022026/)**
-
-I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
-
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 4h ago
+11h ago
 
 ---
 
@@ -96,15 +104,7 @@ I finnaly made some progress with my orp-testmechv2 robot i had problems with fi
 
 I am creating this thread to gather all fellow IEEE ICRA 2026 attendees(especially students) who have or will be applying for a Schengen visa. Other forms of discussions about Travel Grant, leisure, general plans, registration etc., are also encouraged.
 
-13h ago
-
----
-
-**[Comparing Augsburg Informatik (Robotics Track) vs Stuttgart Computational Linguistics — Need Real-World Insights](https://www.reddit.com/r/robotics/comments/1r48xox/comparing_augsburg_informatik_robotics_track_vs/)**
-
-Hi everyone, I’ve been admitted to two master’s programs in Germany and would really appreciate experiences and insights from people who know these fields or universities. I’m currently deciding between: • M.Sc. Computer Science (Informatik) at University of Augsburg, with an interest in robotics/interaction systems • M.Sc. Computational Linguistics at University of Stuttgart, where I want to gain strong AI/NLP skills and be in a dense research environment My interests lie at the intersection of intelligent systems, human-machine interaction, embodied agents, and robotics, but I’m not strictly hardware-focused — I’m excited by the AI/interaction/design side of robotics rather than low-level control or embedded systems. I have three main doubts I want to clarify: 1) How strong and practically valuable is the Augsburg Informatik program’s robotics specialization? Is it high enough quality (curriculum, labs, projects, industry links) to prepare someone for actual robotics / intelligent systems work — both in industry and research? Are there real opportunities for projects, internships
-
-21h ago
+16h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hi everyone, I’ve been admitted to two master’s programs in Germany and woul
 
 Developing a durable and affordable hand is one of the biggest challenges in robotics.
 
-BBC • 1d ago
+BBC • 2d ago
 
 ---
 
@@ -128,6 +128,20 @@ Nature • 2d ago
 
 ---
 
+**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
+
+China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
+
+CNN • 22h ago
+
+---
+
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+
+Forbes • 2d ago
+
+---
+
 **[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
@@ -136,17 +150,11 @@ ChinaPower Project • 2d ago
 
 ---
 
-**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
+**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
 
-China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
+Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
 
-CNN • 19h ago
-
----
-
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
-
-KSN.com • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -158,33 +166,25 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 ---
 
-**[Bedrock Robotics raises $270M in red-hot AI sector](https://www.constructiondive.com/news/bedrock-robotics-raise-ai-automation-funding/811982/)**
+**[What to know about Chicago's delivery robots and the debate over them](https://chicago.suntimes.com/business/2026/delivery-robots-chicago-food-coco-robotics)**
 
-The autonomous construction tech provider now boasts total funding of over $350 million and a valuation of $1.75 billion.
+Some Chicago residents are fighting the deployment of robot delivery couriers. A petition started by a Lincoln Park resident has picked up over 3,400 signatures
 
-Construction Dive • 3d ago
-
----
-
-**[Upside Robotics is reducing fertilizer use and waste in corn crops](https://techcrunch.com/2026/02/11/upside-robotics-is-reducing-fertilizer-use-and-waste-in-corn-crops/)**
-
-Upside Robotics builds autonomous solar-powered robots that can help farmers reduce their fertilizer use by 70%.
-
-TechCrunch • 3d ago
+Chicago Sun-Times • 2d ago
 
 ---
 
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
 
-Forbes • 1d ago
+KSN.com • 1d ago
 
 ---
 
-**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
 
-Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
 
-Yahoo Finance • 1d ago
+New York Post • 1d ago
 
 ---
 
@@ -198,7 +198,17 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 251K • 👍 5K • 💬 3K • ⏱️ 9:47 • 1d ago
+👁️ 271K • 👍 6K • 💬 3K • ⏱️ 9:47 • 1d ago
+
+---
+
+**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
+
+From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
+
+📺 60 Minutes
+
+👁️ 178K • 👍 3K • 💬 439 • ⏱️ 53:47 • 14h ago
 
 ---
 
@@ -208,17 +218,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 3K • 👍 128 • 💬 5 • ⏱️ 0:59 • 4h ago
-
----
-
-**[Unitree Embodied AI Model Manufactures Robots in Factory🤩](https://www.youtube.com/watch?v=ub2gWviKZpk)**
-
-Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment at Unitree's own robot factory.
-
-📺 Unitree Robotics
-
-👁️ 28K • 👍 730 • 💬 117 • ⏱️ 0:45 • 1d ago
+👁️ 7K • 👍 232 • 💬 9 • ⏱️ 0:59 • 6h ago
 
 ---
 
@@ -228,7 +228,17 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Kalil 4.0
 
-👁️ 908 • 👍 42 • 💬 5 • ⏱️ 0:21 • 5h ago
+👁️ 1K • 👍 50 • 💬 5 • ⏱️ 0:21 • 8h ago
+
+---
+
+**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
+
+Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 100 • 💬 8 • ⏱️ 9:26 • 5d ago
 
 ---
 
@@ -240,33 +250,23 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 ---
 
-**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
-
-Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 99 • 💬 8 • ⏱️ 9:26 • 5d ago
-
----
-
-**[Tesla Optimus Was Built for Mars  #teslaoptimus  #elonmusk  #teslabotgen3  #humanoidrobots  #mars](https://www.youtube.com/watch?v=AEyxJrYsQW0)**
-
-You think Elon Musk built Optimus to fold laundry? That was a distraction. In 2026, the real plan is obvious: You can't send ...
-
-📺 By 2050
-
-👁️ 1.2M • 👍 26K • 💬 919 • ⏱️ 0:56 • 5d ago
-
----
-
 **[Galaxy of Robots: China Hosts World-First Humanoid Robot Gala | APT](https://www.youtube.com/watch?v=u2dSlko6J4w)**
 
 Join this channel to get access to perks: https://www.youtube.com/channel/UCpLEtz3H0jSfEneSdf1YKnw/join A Chinese robotics ...
 
 📺 APT
 
-👁️ 23K • 👍 617 • 💬 147 • ⏱️ 3:18 • 4d ago
+👁️ 23K • 👍 629 • 💬 149 • ⏱️ 3:18 • 4d ago
+
+---
+
+**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
+
+Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
+
+📺 Jeff Geerling
+
+👁️ 80K • 👍 4K • 💬 255 • ⏱️ 12:38 • 1d ago
 
 ---
 
@@ -280,13 +280,13 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 ---
 
-**[Humanoid Robots Doing Backflips 🤖🔥](https://www.youtube.com/watch?v=xqyjrT2WyGc)**
+**[This Drone Transforms From Car to Flying Machine 🚁](https://www.youtube.com/watch?v=BT436xmFKso)**
 
-Humanoid robots are pushing physical limits — with real-time balance control, torque optimization, and AI-powered motion ...
+This transformable drone can move in completely different styles. In ground mode, it rolls on wheels like a robotic rover — stable, ...
 
 📺 Facts TV 91
 
-👁️ 29K • 👍 239 • 💬 11 • ⏱️ 0:06 • 22h ago
+👁️ 12K • 👍 204 • 💬 8 • ⏱️ 0:06 • 55m ago
 
 ---
 
