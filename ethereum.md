@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T22:26:39.323214+00:00'
+updated: '2026-02-15T22:53:14.023658+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 22:26 UTC  
+**Last Updated:** February 15, 2026 at 22:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,957.48
+### $1,966.89
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $234.77B
+**Market Cap:** $237.80B
 Rank #2
 
 **Circulating Supply:** 120,692,458 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.7%
+-60.2%
 
 **All-Time Low:** $0.43
-+449138.9%
++454739.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-9h ago
+10h ago
 
 ---
 
@@ -224,7 +224,7 @@ markets.businessinsider.com • 1d ago
 
 Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
 
-Bitcoin.com News • 1h ago
+Bitcoin.com News • 2h ago
 
 ---
 
@@ -238,7 +238,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 1K • 👍 53 • 💬 24 • ⏱️ 13:02 • 8h ago
+👁️ 1K • 👍 62 • 💬 27 • ⏱️ 13:02 • 8h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 181 • ⏱️ 34:57 • 22h ago
+👁️ 54K • 👍 3K • 💬 488 • ⏱️ 34:57 • 22h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 5 • ⏱️ 4:45 • 8h ago
+👁️ 3K • 👍 173 • 💬 5 • ⏱️ 4:45 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 93 • 💬 5 • ⏱️ 17:25 • 1d ago
+👁️ 3K • 👍 97 • 💬 5 • ⏱️ 17:25 • 1d ago
 
 ---
 
@@ -278,37 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 348 • 👍 16 • 💬 2 • ⏱️ 4:36 • 11h ago
-
----
-
-**[BITCOIN: Something Feels Very Wrong! (red alert) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=_3kz83on4cw)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 1K • 👍 190 • 5h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eOEoHpHQCRQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 161 • 💬 11 • ⏱️ 4:45 • 20h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=NSkeDtslyO4)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 KLH-BPLH
-
-👁️ 6K • 👍 1K • 20h ago
+👁️ 383 • 👍 16 • 💬 2 • ⏱️ 4:36 • 12h ago
 
 ---
 
@@ -318,7 +288,17 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 2K • 👍 239 • 💬 16 • ⏱️ 5:42 • 1d ago
+👁️ 3K • 👍 250 • 💬 16 • ⏱️ 5:42 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eOEoHpHQCRQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 21h ago
 
 ---
 
@@ -328,7 +308,27 @@ For any questions contact me on Telegram : https://t.me/cryptobotdev124 Download
 
 📺 Cole the DeFi Maker
 
-👁️ 2K • 👍 7 • 💬 9 • ⏱️ 7:43 • 6h ago
+👁️ 3K • 👍 8 • 💬 10 • ⏱️ 7:43 • 7h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=NSkeDtslyO4)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 KLH-BPLH
+
+👁️ 6K • 👍 1K • 21h ago
+
+---
+
+**[Mathematician Fred Krueger: Crypto Price Predictions Are About To Go INSANE!](https://www.youtube.com/watch?v=uL0mEsAXcSY)**
+
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+
+📺 Library Of Wealth
+
+👁️ 17K • 👍 558 • 💬 152 • ⏱️ 14:31 • 2d ago
 
 ---
 

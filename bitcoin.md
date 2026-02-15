@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T22:26:39.316952+00:00'
+updated: '2026-02-15T22:53:14.017647+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 22:26 UTC  
+**Last Updated:** February 15, 2026 at 22:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,498.77
+### $68,969.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -1.9%  
-**30d:** -27.7%  
-**90d:** -26.0%  
-**1y:** -28.5%  
+**24h:** -1.3%  
+**7d:** -1.7%  
+**30d:** -27.5%  
+**90d:** -25.8%  
+**1y:** -28.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1366.10B
+**Market Cap:** $1379.19B
 Rank #1
 
-**Circulating Supply:** 19,989,925 BTC
+**Circulating Supply:** 19,989,971 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.8%
+-45.3%
 
 **All-Time Low:** $67.81
-+100684.5%
++101547.2%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-7h ago
+8h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -93,7 +93,13 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-9h ago
+10h ago
+
+---
+
+**[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
+
+1h ago
 
 ---
 
@@ -101,11 +107,13 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
 
-3h ago
+4h ago
 
 ---
 
-**[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
+**[Bitcoin transaction at McDonald's in San Salvador](https://www.reddit.com/r/Bitcoin/comments/1r5qsih/bitcoin_transaction_at_mcdonalds_in_san_salvador/)**
+
+If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
 1h ago
 
@@ -123,7 +131,7 @@ I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actu
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-15h ago
+16h ago
 
 ---
 
@@ -140,14 +148,6 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
 1d ago
-
----
-
-**[So who would bailout bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1r5pg3d/so_who_would_bailout_bitcoin/)**
-
-Saw this and had to share. It's funny to see how early we are that questions like this still come up. Id say not being able to bail out bitcoin is what makes it so powerful.
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=Q0bt6UodUIk&t=1s) • 1h ago
 
 ---
 
@@ -321,7 +321,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 1K • 💬 174 • ⏱️ 12:55 • 9h ago
+👁️ 30K • 👍 1K • 💬 205 • ⏱️ 12:55 • 10h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 836 • 💬 217 • ⏱️ 30:55 • 8h ago
+👁️ 23K • 👍 956 • 💬 465 • ⏱️ 30:55 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 322 • 💬 36 • ⏱️ 7:14 • 6h ago
+👁️ 9K • 👍 415 • 💬 66 • ⏱️ 7:14 • 6h ago
 
 ---
 
@@ -351,17 +351,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 1K • 👍 190 • 5h ago
+👁️ 5K • 👍 395 • 💬 6 • ⏱️ 59:23 • 1h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=PU2FpHG6xEY)**
+**[Tom Lee Finally Breaks His Silence On The Bitcoin Crash — &quot;This Changes Everything&quot;](https://www.youtube.com/watch?v=Ve9X-oU48II)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+Tom Lee, Fundstrat's Head of Research, finally breaks his silence on the Bitcoin crash. After weeks of silence while Bitcoin ...
 
-📺 Punjabibeautyonduty
+📺 Money Talks
 
-👁️ 7K • 👍 2K • 6h ago
+👁️ 4K • 👍 83 • 💬 14 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -371,7 +371,15 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 224 • 💬 8 • ⏱️ 17:15 • 1d ago
+👁️ 6K • 👍 231 • 💬 8 • ⏱️ 17:15 • 1d ago
+
+---
+
+**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
+
+📺 Pawn Media
+
+👁️ 181K • 👍 5K • 💬 41 • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -381,37 +389,27 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 215 • 💬 14 • ⏱️ 20:41 • 1d ago
+👁️ 4K • 👍 221 • 💬 14 • ⏱️ 20:41 • 1d ago
 
 ---
 
-**[THE FINAL BITCOIN MOVE... (prepare accordingly)](https://www.youtube.com/watch?v=qFEIPmIEc9A)**
+**[Bitcoin Miners Are Abandoning BTC... And No One Is Talking About Why](https://www.youtube.com/watch?v=cQj0D74gT_Y)**
 
-WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
+Recently Bitcoin crashed to $60000, below key support levels set by the previous cycle. This has put BTC's price in the danger ...
 
-📺 Crypto Rover
+📺 Coin Bureau
 
-👁️ 11K • 👍 713 • 💬 37 • ⏱️ 10:24 • 16h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=kHTVbt9SCng)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Bayus jaya HVACR
-
-👁️ 36K • 👍 3K • 2d ago
+👁️ 84K • 👍 3K • 💬 444 • ⏱️ 19:46 • 1d ago
 
 ---
 
-**[0.001 vs 0.1 BTC — WHAT CAN YOU BUY IN 2030?](https://www.youtube.com/watch?v=kc_6SOyAnmA)**
+**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
 
-What will you feel the first time Bitcoin hits a number that scares you, not excites you, scares you? This bitcoin analysis explores ...
+Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
 
-📺 Capitalist
+📺 Anthony Pompliano
 
-👁️ 6K • 👍 275 • 💬 58 • ⏱️ 9:52 • 8h ago
+👁️ 45K • 👍 2K • ⏱️ 21:49 • 2d ago
 
 ---
 

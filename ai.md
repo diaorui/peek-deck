@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T22:26:39.307991+00:00'
+updated: '2026-02-15T22:53:14.009182+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 22:26 UTC  
+**Last Updated:** February 15, 2026 at 22:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -61,11 +61,19 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 ---
 
+**[Why Nonprofits Can’t Afford to Ignore AI](https://www.reddit.com/r/artificial/comments/1r5rqo1/why_nonprofits_cant_afford_to_ignore_ai/)**
+
+If you work in the nonprofit sector and have been wondering how AI could fit into your organization, Why Nonprofits Must Lead in AI is a must-read. Written by a 25-year nonprofit leader and accessibility specialist, this book goes beyond the hype to explore both the risks and opportunities AI presents for mission-driven organizations. Through real-world stories and practical guidance, it shows how nonprofits can integrate AI without losing the human touch. From workflow agents and staff onboarding prompts to a full AI readiness assessment, it provides actionable tools that any team, whether CEO, program director, fundraiser, or operations coordinator, can use to amplify their impact. This book deserves to be #1 in Business Ethics (Kindle Store), Business Leadership Training, and Leadership Training because it combines ethical clarity with actionable guidance. It doesn’t just explain AI adoption, it shows leaders how to implement it responsibly, strategically, and effectively. By helping nonprofits expand reach, improve operations, and strengthen mission outcomes while maintaining trust, transparency, and human-centered leadership, it sets a new standard for how organizations can use technology as a force for good. For anyone looking to navigate AI in the nonprofit world, this book isn’t just a roadmap, it’s a blueprint for leading boldly and ethically in the AI era. https://www.amazon.com/dp/B0FM31JF2Z/ref=sr_1_1?crid=5PA0JZIGCKMG&dib=eyJ2IjoiMSJ9.AFy7Vx2MfL_yyk_7yceYCA.oXglNK0FtlWvPmb19SRyg49ncQa6s1cxw-52SjXieos&dib_tag=se&keywords=teri+padovano&qid=1755063815&sprefix=teri+padovano%2Caps%2C77&sr=8-1
+
+39m ago
+
+---
+
 **[Validation prompts - getting more accurate responses from LLM chats](https://www.reddit.com/r/artificial/comments/1r59tzo/validation_prompts_getting_more_accurate/)**
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +81,7 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-23h ago
+1d ago
 
 ---
 
@@ -97,15 +105,7 @@ Everyone’s screaming that “AI coding is going to replace human developers”
 
 I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
 
-10h ago
-
----
-
-**[I built a "Traffic Light" system for AI Agents so they don't corrupt each other (Open Source)](https://www.reddit.com/r/artificial/comments/1r4tbnj/i_built_a_traffic_light_system_for_ai_agents_so/)**
-
-Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
-
-1d ago
+11h ago
 
 ---
 
@@ -154,7 +154,7 @@ The New York Times • 3d ago
 President Trump is looking at how artificial intelligence is affecting jobs and the economy, according to top White House advisor Peter Navarro. One potential action would be to force big tech to shoulder the burden AI is putting on the nation's power grid.
 AI is "right on the president's desk and
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -162,7 +162,7 @@ Barron's • 1h ago
 
 "We are transitioning from an era of AI experimentation to one of structural utility."
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -170,7 +170,7 @@ Fortune • 1h ago
 
 "There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum," Obama said in an interview that was posted on YouTube Saturday.
 
-NPR • 3h ago
+NPR • 4h ago
 
 ---
 
@@ -178,7 +178,7 @@ NPR • 3h ago
 
 An ex-Amazon manager says his layoff in October 2025 was a shock, but he's using this time to build AI skills, focus on his health, and apply to jobs.
 
-Business Insider • 12h ago
+Business Insider • 13h ago
 
 ---
 
@@ -200,7 +200,7 @@ Bloomberg • 8h ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 725 • 💬 599 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 725 • 💬 603 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -208,7 +208,7 @@ Bloomberg • 8h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 543 • 💬 354 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 544 • 💬 355 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -216,7 +216,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 361 • 💬 250 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 361 • 💬 252 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -246,7 +246,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 114 • 💬 60 • 23h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 115 • 💬 60 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -262,7 +262,7 @@ It comes in the same week an OpenAI researcher resigned amid concerns about its 
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 79 • 💬 159 • 7h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 81 • 💬 163 • 7h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -282,7 +282,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 343K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
+👁️ 354K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -292,7 +292,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 75K • 👍 768 • 💬 384 • ⏱️ 3:04 • 1d ago
+👁️ 79K • 👍 818 • 💬 411 • ⏱️ 3:04 • 1d ago
 
 ---
 
@@ -302,7 +302,7 @@ Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x
 
 📺 Asmongold TV  
 
-👁️ 590K • 👍 19K • 💬 4K • ⏱️ 20:40 • 2d ago
+👁️ 592K • 👍 20K • 💬 4K • ⏱️ 20:40 • 2d ago
 
 ---
 
@@ -312,17 +312,7 @@ New concerns over the safety of artificial intelligence are growing after the le
 
 📺 ABC News
 
-👁️ 132K • 👍 2K • 💬 738 • ⏱️ 3:58 • 2d ago
-
----
-
-**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 15K • 👍 736 • 💬 68 • ⏱️ 7:05 • 1d ago
+👁️ 137K • 👍 2K • 💬 763 • ⏱️ 3:58 • 2d ago
 
 ---
 
@@ -332,17 +322,17 @@ Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce L
 
 📺 ShadowRivals
 
-👁️ 37K • 👍 800 • 💬 98 • ⏱️ 2:02 • 2d ago
+👁️ 43K • 👍 877 • 💬 101 • ⏱️ 2:02 • 2d ago
 
 ---
 
-**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
 
-Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 Spacialize
+📺 Julia McCoy
 
-👁️ 89K • 👍 2K • 💬 341 • ⏱️ 17:28 • 3d ago
+👁️ 15K • 👍 751 • 💬 69 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -352,17 +342,17 @@ If you've been on social media this week, you've likely seen an ominous warning 
 
 📺 CBS News
 
-👁️ 63K • 👍 1K • 💬 427 • ⏱️ 7:08 • 1d ago
+👁️ 66K • 👍 1K • 💬 445 • ⏱️ 7:08 • 1d ago
 
 ---
 
-**[Laughing At Dumb AI Videos (Seedance 2)](https://www.youtube.com/watch?v=QO8VXljyJ-I)**
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
 
-more slop merch that ISN'T AI SLOP - https://dandingle.store/ everything in this video is AI and not real edited by: me become a ...
+news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
 
-📺 Dan Dingle
+📺 Tyrone Magnus
 
-👁️ 110K • 👍 8K • 💬 1K • ⏱️ 18:00 • 1d ago
+👁️ 5K • 👍 457 • 💬 120 • ⏱️ 9:43 • 58m ago
 
 ---
 
@@ -372,7 +362,17 @@ Create AI videos with Higgsfield: https://higgsfield.ai/nano-banana-2-intro/?utm
 
 📺 Danny Why
 
-👁️ 17K • 👍 916 • 💬 106 • ⏱️ 20:50 • 1d ago
+👁️ 17K • 👍 928 • 💬 108 • ⏱️ 20:50 • 1d ago
+
+---
+
+**[Why This NYC CEO&#39;s Chilling Warning On AI Has Gone Viral: &#39;People Deserve To Hear What&#39;s Coming&#39;](https://www.youtube.com/watch?v=gguvQKah37o)**
+
+Matt Schumer is a New York based CEO who's been working with and investing in a bunch of AI firms - and one warning from him ...
+
+📺 Mint
+
+👁️ 88K • 👍 1K • 💬 287 • ⏱️ 8:19 • 2d ago
 
 ---
 
@@ -591,7 +591,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 64 • 💬 1 • ⭐ 7,712 • 24d ago
+▲ 64 • 💬 1 • ⭐ 7,712 • 25d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -660,7 +660,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.6k • 🔱 166 • 12d ago
+⭐ 3.6k • 🔱 167 • 12d ago
 
 ---
 
@@ -678,7 +678,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 256 • 2h ago
+⭐ 2.5k • 🔱 256 • 41m ago
 
 ---
 
@@ -698,7 +698,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 154 • 2d ago
+⭐ 2.2k • 🔱 155 • 2h ago
 
 ---
 
@@ -708,7 +708,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 143 • 3h ago
+⭐ 2.1k • 🔱 146 • 4h ago
 
 ---
 
@@ -718,7 +718,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 242 • 4h ago
+⭐ 1.9k • 🔱 243 • 5h ago
 
 ---
 
