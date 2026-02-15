@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T12:54:05.352850+00:00'
+updated: '2026-02-15T13:47:30.178989+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 12:54 UTC  
+**Last Updated:** February 15, 2026 at 13:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-19h ago
+20h ago
 
 ---
 
@@ -60,19 +60,19 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-6h ago
+7h ago
 
 ---
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-1h ago
+2h ago
 
 ---
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 17h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 18h ago
 
 ---
 
@@ -102,7 +102,7 @@ I finnaly made some progress with my orp-testmechv2 robot i had problems with fi
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-16h ago
+17h ago
 
 ---
 
@@ -136,7 +136,7 @@ But here’s the catch: building the tech is one thing. Navigating regulation? A
  
 #YoungTurksReloaded #Addverb #Robotics #Humanoid #HealthcareTech #AI #FutureOfWork #AgeingPopulation
 
-LinkedIn • 3h ago
+LinkedIn • 4h ago
 
 ---
 
@@ -188,7 +188,7 @@ New York Post • 1d ago
 
 Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
 
-Interesting Engineering • 1h ago
+Interesting Engineering • 2h ago
 
 ---
 
@@ -222,7 +222,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 11K • 👍 311 • 💬 10 • ⏱️ 0:59 • 17h ago
+👁️ 11K • 👍 311 • 💬 10 • ⏱️ 0:59 • 18h ago
 
 ---
 
@@ -252,7 +252,7 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 DPCcars
 
-👁️ 2K • 👍 64 • 💬 9 • ⏱️ 1:24 • 23h ago
+👁️ 2K • 👍 64 • 💬 9 • ⏱️ 1:24 • 1d ago
 
 ---
 
@@ -260,7 +260,7 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 Romi Pal
 
-👁️ 83K • 👍 1K • 💬 16 • ⏱️ 0:37 • 15h ago
+👁️ 83K • 👍 1K • 💬 16 • ⏱️ 0:37 • 16h ago
 
 ---
 
@@ -290,7 +290,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 489K • 👍 5K • 💬 52 • ⏱️ 0:06 • 11h ago
+👁️ 489K • 👍 5K • 💬 52 • ⏱️ 0:06 • 12h ago
 
 ---
 

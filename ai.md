@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T12:54:05.334600+00:00'
+updated: '2026-02-15T13:47:30.161426+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- repositories
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 12:54 UTC  
+**Last Updated:** February 15, 2026 at 13:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 20h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 21h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-57m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ I have a list of 10,000 contact number (mix of phone number and landlines so tex
 
 Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hey everyone, I’m a backend developer with a background in fintech. Lately, I�
 
 I see so many posts here like "I asked ChatGPT to write my essay" or "look at this funny response I got" and that's cool but you're using a rocket ship to go to the grocery store. The actual money and time savings come from connecting AI to your real workflows. Not chatting with it. Connecting it. Here's what I mean. I have an automation that watches my inbox. When an email comes in, AI reads it, figures out if it's a lead, a support request, or spam, drafts a response, and either sends it automatically or queues it for me to review. That runs 24/7 without me touching it. Saves me probably 2 hours a day. I have another one where I write one blog post and it automatically turns it into a twitter thread, linkedin post, instagram caption, email newsletter, and a tiktok script. All formatted differently for each platform. That used to be a full day of work every week. None of this is hard to set up. The tools are mostly free. The problem is everyone's stuck in the "type a prompt and get an answer" mindset when the real power is in automation. I'm not saying chatting with AI isn't useful. I use Claude every day for thinking through problems. But if that's ALL you're doing with AI you're leaving 90% of the value on the table. Curious if anyone else here has gone down the automation rabbit hole or if most people are still mainly using it for chat.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ I see so many posts here like "I asked ChatGPT to write my essay" or "look at th
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 10h ago
+Axios • 11h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 21h ago
 
 "If I'm just off by a year in that rate of growth, or if the growth rate is 5x a year instead of 10x a year, then you go bankrupt."
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -147,7 +147,7 @@ Fortune • 15h ago
 
 New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -155,13 +155,13 @@ Financial Times • 7h ago
 
 AI is advancing in rapid and unpredictable ways but there is no joint framework to keep it in check, experts say.
 
-Al Jazeera • 1h ago
+Al Jazeera • 2h ago
 
 ---
 
 **[The stock market is reflecting fears of an AI apocalypse for white-collar jobs](https://www.msn.com/en-us/news/other/ar-AA1WlZhm)**
 
-MSN • 1h ago
+MSN • 2h ago
 
 ---
 
@@ -169,7 +169,7 @@ MSN • 1h ago
 
 Beyond mistakes or nonsense, deliberately bad information being injected into AI search summaries is leading people down potentially harmful paths.
 
-WIRED • 1h ago
+WIRED • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Fortune • 1d ago
 
 **[Will A.I. Kill Translation Jobs?](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -191,7 +191,7 @@ The New York Times • 6h ago
 
 Looking back at last week's volatility could gives some clues for the trading week ahead.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -223,7 +223,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 516 • 💬 314 • 18h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 516 • 💬 314 • 19h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -277,63 +277,23 @@ One Rust binary that runs the full AI assistant: multi-provider LLM routing, too
 
 ## YouTube Videos: "ai"
 
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
-
-Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
-
-📺 Fox Business Clips
-
-👁️ 310K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
-
----
-
-**[AI fight scene video of Tom Cruise and Brad Pitt goes viral](https://www.youtube.com/watch?v=FhjJTZ9uIWY)**
-
-A 15-second AI video of Tom Cruise and Brad Pitt has the industry buzzing and concerned. KTLA's Angeli Kakade reports on Feb.
-
-📺 KTLA 5
-
-👁️ 97K • 👍 426 • 💬 181 • ⏱️ 2:51 • 1d ago
-
----
-
-**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 13K • 👍 693 • 💬 60 • ⏱️ 7:05 • 21h ago
-
----
-
 **[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
 
 New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
 
 📺 ABC News
 
-👁️ 119K • 👍 1K • 💬 664 • ⏱️ 3:58 • 2d ago
+👁️ 122K • 👍 1K • 💬 689 • ⏱️ 3:58 • 2d ago
 
 ---
 
-**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
+**[Viral essay urges people to prepare for rapid advancements in artificial intelligence](https://www.youtube.com/watch?v=g8u0SlzVKAE)**
 
-An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
+If you've been on social media this week, you've likely seen an ominous warning about artificial intelligence in your feed: ...
 
-📺 CBS LA
+📺 CBS News
 
-👁️ 57K • 👍 555 • 💬 292 • ⏱️ 3:04 • 1d ago
-
----
-
-**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
-
-Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
-
-📺 Asmongold TV  
-
-👁️ 580K • 👍 19K • 💬 4K • ⏱️ 20:40 • 1d ago
+👁️ 57K • 👍 1K • 💬 412 • ⏱️ 7:08 • 1d ago
 
 ---
 
@@ -347,33 +307,73 @@ Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying G
 
 ---
 
-**[Bruce Lee VS Jackie Chan | Full AI animation](https://www.youtube.com/watch?v=O31jAeTHAxc)**
+**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
 
-Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce Lee in the ultimate showdown for martial ...
+Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
 
-📺 ShadowRivals
+📺 Asmongold TV  
 
-👁️ 21K • 👍 502 • 💬 66 • ⏱️ 2:02 • 1d ago
-
----
-
-**[Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS](https://www.youtube.com/watch?v=hsQA5TSHZ7I)**
-
-HUGE AI NEWS: Seedance 2.0, Qwen Image 2.0, Gemini Deep Think, GLM5, SoulX Singer #ai #ainews #aitools #aivideo #agi ...
-
-📺 AI Search
-
-👁️ 46K • 👍 2K • 💬 297 • ⏱️ 48:16 • 9h ago
+👁️ 582K • 👍 19K • 💬 4K • ⏱️ 20:40 • 1d ago
 
 ---
 
-**[Laughing At Dumb AI Videos (Seedance 2)](https://www.youtube.com/watch?v=QO8VXljyJ-I)**
+**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
 
-more slop merch that ISN'T AI SLOP - https://dandingle.store/ everything in this video is AI and not real edited by: me become a ...
+An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
 
-📺 Dan Dingle
+📺 CBS LA
 
-👁️ 102K • 👍 7K • 💬 1K • ⏱️ 18:00 • 1d ago
+👁️ 60K • 👍 588 • 💬 320 • ⏱️ 3:04 • 1d ago
+
+---
+
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
+
+Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
+
+📺 Fox Business Clips
+
+👁️ 314K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
+
+---
+
+**[DeepMind Leaked Possibly the Greatest AI Ever](https://www.youtube.com/watch?v=OTRvoxPSQ_8)**
+
+Sponsored by Genspark. Try the all-in-one AI workplace for free: ...
+
+📺 Pourya Kordi
+
+👁️ 30K • 👍 1K • 💬 100 • ⏱️ 13:42 • 2d ago
+
+---
+
+**[It&#39;s (Finally) Bursting...](https://www.youtube.com/watch?v=yYe9YrdyJNQ)**
+
+Check out Cape and use code LOGICALLY33 to get 33% off your first six months ...
+
+📺 Logically Answered
+
+👁️ 596K • 👍 19K • 💬 3K • ⏱️ 14:39 • 1d ago
+
+---
+
+**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 13K • 👍 707 • 💬 61 • ⏱️ 7:05 • 22h ago
+
+---
+
+**[AI News: This Video Model Has Everyone Freaked Out!](https://www.youtube.com/watch?v=msrbd-d6lWk)**
+
+Here's the AI News You Probably Missed This Week. Check out https://hostinger.com/mattwolfe and use my code MATTWOLFE to ...
+
+📺 Matt Wolfe
+
+👁️ 81K • 👍 4K • 💬 291 • ⏱️ 30:53 • 1d ago
 
 ---
 
@@ -551,7 +551,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 181 • 💬 12 • ⭐ 3,534 • 15d ago
+▲ 181 • 💬 12 • ⭐ 3,534 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -644,7 +644,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.8k • 🔱 448 • 4d ago
+⭐ 5.8k • 🔱 447 • 4d ago
 
 ---
 
@@ -680,7 +680,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 254 • 7h ago
+⭐ 2.5k • 🔱 255 • 8h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 141 • 8h ago
+⭐ 2.1k • 🔱 142 • 9h ago
 
 ---
 
@@ -720,7 +720,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.9k • 🔱 202 • 2d ago
+⭐ 1.9k • 🔱 203 • 2d ago
 
 ---
 
@@ -730,7 +730,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.8k • 🔱 234 • 1d ago
+⭐ 1.9k • 🔱 238 • 1d ago
 
 ---
 

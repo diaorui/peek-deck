@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T12:54:05.343119+00:00'
+updated: '2026-02-15T13:47:30.169751+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - social
 - cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 12:54 UTC  
+**Last Updated:** February 15, 2026 at 13:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1404.94B
+**Market Cap:** $1377.16B
 Rank #1
 
-**Circulating Supply:** 19,989,546 BTC
+**Circulating Supply:** 19,989,753 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.2%
+-45.4%
 
 **All-Time Low:** $67.81
-+103566.1%
++101497.1%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-25m ago
+1h ago
 
 ---
 
 **[The 36% Trap: How the New Dutch Tax on Bitcoin Turns Paper Profits into Real Ruin.](https://www.reddit.com/r/Bitcoin/comments/1r5b8aa/the_36_trap_how_the_new_dutch_tax_on_bitcoin/)**
 
-🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-36-trap-how-the-new-dutch-tax) • 2h ago
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-36-trap-how-the-new-dutch-tax) • 3h ago
 
 ---
 
@@ -95,7 +95,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-17h ago
+18h ago
 
 ---
 
@@ -103,7 +103,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-15h ago
+16h ago
 
 ---
 
@@ -111,7 +111,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +127,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-19h ago
+20h ago
 
 ---
 
@@ -135,13 +135,13 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-7h ago
+8h ago
 
 ---
 
 **[Study the past if you would define the future](https://www.reddit.com/r/Bitcoin/comments/1r5dfj7/study_the_past_if_you_would_define_the_future/)**
 
-26m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ What would you say we are looking at for predictions for 1,3,5 years
 
 I've been building a comprehensive secp256k1 library that covers the full modern Bitcoin protocol stack: 🟢 Bitcoin-specific: Taproot (BIP-341/342) with tweak + Merkle tree BIP-352 Silent Payments MuSig2 (BIP-327) — 2-round key aggregation FROST threshold signatures (t-of-n) BIP-32 HD derivation (xprv/xpub, path parsing) BIP-44 coin-type derivation All address types: P2PKH, P2WPKH, P2TR, Base58Check, Bech32/Bech32m ⚡ Performance: x64 assembly with BMI2/ADX (3-5× speedup) CUDA GPU batch processing (4.63M key generations/sec) GLV endomorphism, precomputation tables Zero heap allocations in hot paths 🔐 Security: Constant-time operations (dedicated ct namespace) RFC 6979 deterministic nonces Low-S normalization 200+ tests with known vector verification Zero external dependencies. MIT licensed. GitHub: [github.com/shrec/UltrafastSecp256k1](vscode-file://vscode-app/c:/Users/shrek/AppData/Local/Programs/Microsoft%20VS%20Code/b6a47e94e3/resources/app/out/vs/code/electron-browser/workbench/workbench.html)
 
-1h ago
+2h ago
 
 ---
 
@@ -161,13 +161,13 @@ I've been building a comprehensive secp256k1 library that covers the full modern
 
 After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
 
-Bitcoin Magazine • 7h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
 **[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 23h ago
+Forbes • 1d ago
 
 ---
 
@@ -175,7 +175,7 @@ Forbes • 23h ago
 
 The difference in futures basis between CME and Deribit reflects varying risk appetite across regions.
 
-CoinDesk • 51m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 2h ago
 
 **[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Forbes • 1h ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -213,7 +213,7 @@ Nasdaq • 1d ago
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-MLive.com • 4h ago
+MLive.com • 5h ago
 
 ---
 
@@ -285,7 +285,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 14h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 15h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -323,27 +323,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 191 • 💬 6 • ⏱️ 17:15 • 19h ago
-
----
-
-**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
-
-Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
-
-📺 Altcoin Daily
-
-👁️ 62K • 👍 3K • 💬 276 • ⏱️ 15:20 • 1d ago
-
----
-
-**[THE FINAL BITCOIN MOVE... (prepare accordingly)](https://www.youtube.com/watch?v=qFEIPmIEc9A)**
-
-WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
-
-📺 Crypto Rover
-
-👁️ 7K • 👍 526 • 💬 28 • ⏱️ 10:24 • 7h ago
+👁️ 5K • 👍 197 • 💬 6 • ⏱️ 17:15 • 20h ago
 
 ---
 
@@ -353,27 +333,47 @@ Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50
 
 📺 Benjamin Cowen
 
-👁️ 22K • 👍 2K • 💬 65 • ⏱️ 18:10 • 7h ago
+👁️ 29K • 👍 2K • 💬 92 • ⏱️ 18:10 • 8h ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=ZfbwgeTR-n8)**
+**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
 
-📺 Zuzik
+📺 Altcoin Daily
 
-👁️ 5K • 👍 10K • 3h ago
+👁️ 63K • 👍 3K • 💬 283 • ⏱️ 15:20 • 1d ago
 
 ---
 
-**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
+**[THE FINAL BITCOIN MOVE... (prepare accordingly)](https://www.youtube.com/watch?v=qFEIPmIEc9A)**
 
-Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
+WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
 
-📺 Mark Moss
+📺 Crypto Rover
 
-👁️ 272K • 👍 9K • 💬 1K • ⏱️ 16:43 • 2d ago
+👁️ 8K • 👍 604 • 💬 60 • ⏱️ 10:24 • 8h ago
+
+---
+
+**[“This Is Their Plan For Bitcoin in 2026” (and they&#39;re not hiding it) | Whitney Webb](https://www.youtube.com/watch?v=QGpJQdCfWTk)**
+
+The release of Jeffrey Epstein-related records has reignited debate around Bitcoin's true strategic role. Why were powerful ...
+
+📺 Savvy Finance
+
+👁️ 3K • 👍 181 • 💬 13 • ⏱️ 20:41 • 15h ago
+
+---
+
+**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=mATej2vUyTI)**
+
+My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
+
+📺 Road To $1 Million USD
+
+👁️ 6K • 👍 307 • 💬 31 • ⏱️ 8:36 • 14h ago
 
 ---
 
@@ -381,7 +381,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Pawn Media
 
-👁️ 105K • 👍 3K • 💬 24 • ⏱️ 0:59 • 1d ago
+👁️ 111K • 👍 3K • 💬 24 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 40K • 👍 3K • 💬 451 • ⏱️ 8:15 • 1d ago
+👁️ 40K • 👍 3K • 💬 461 • ⏱️ 8:15 • 1d ago
 
 ---
 
@@ -401,17 +401,17 @@ Everyone is asking whether Bitcoin will bounce back. Glenn Beck says that's the 
 
 📺 Glenn Beck Clips
 
-👁️ 20K • 👍 958 • 💬 259 • ⏱️ 11:34 • 2d ago
+👁️ 20K • 👍 966 • 💬 264 • ⏱️ 11:34 • 2d ago
 
 ---
 
-**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
+**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
 
-Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
+Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
 
-📺 Anthony Pompliano
+📺 Mark Moss
 
-👁️ 40K • 👍 1K • ⏱️ 21:49 • 1d ago
+👁️ 274K • 👍 9K • 💬 1K • ⏱️ 16:43 • 2d ago
 
 ---
 
