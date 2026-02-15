@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T16:32:48.868106+00:00'
+updated: '2026-02-15T17:27:05.413443+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- videos
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 16:32 UTC  
+**Last Updated:** February 15, 2026 at 17:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚
 
-7h ago
+8h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
 
-🔗 [NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot) • 56m ago
+🔗 [NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's
 
 The White House has urged Republican lawmakers in Utah to abandon a bill that would force AI companies to implement public safety measures, escalating its confrontation with states trying to rein in the technology. A memo the White House sent to Utah lawmakers last week and seen by the FT, said: “We are categorically opposed to Utah HB 286 and view it as an unfixable bill that goes against the administration’s AI agenda”. Republican representative Doug Fiefia, a former Google employee, proposed the Artificial Intelligence Transparency Act. It is supported by another Republican, Senator Mike McKell, and was advanced last month by a legislative committee in Utah with a Republican majority. The legislation would mandate developers of leading AI models to implement and publish public safety plans that outline how they are mitigating cyber security risks, while also establishing a comprehensive child safety plan and whistleblower protections. Read more, here: https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f
 
-🔗 [ft.com](https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 56m ago
+🔗 [ft.com](https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ The White House has urged Republican lawmakers in Utah to abandon a bill that wo
 
 I’m looking for free tools to generate AI videos. I’m not interested in paid subscriptions or "free trials" that require a credit card right now. I just want to test the waters and see what’s possible. I know that "free" often comes with limits (watermarks, short clips, queues), and I’m fine with that. What are the best options out there right now? I’ve seen some talk about tools based on Google Veo or stuff on HuggingFace, but the landscape changes so fast. Specifically looking for: Text-to-video generation. Actually free to use (no hidden costs). Decent quality for a free tool. What are you guys using? Also, any specific subreddits I should be following for this stuff?
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ I’m looking for free tools to generate AI videos. I’m not interested in paid
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ Everyone’s screaming that “AI coding is going to replace human developers”
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-18h ago
+19h ago
 
 ---
 
@@ -123,27 +123,15 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 2h ago
+Axios • 3h ago
 
 ---
 
-**[The AI productivity take-off is finally visible](https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5)**
+**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
 
-New economic data suggests the US is transitioning to a phase of measurable gains from the technology
+NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-Financial Times • 11h ago
-
----
-
-**[Axios CTO is living your coming AI reality](https://www.axios.com/2026/02/15/ai-coding-tech-product-development)**
-
-Axios • 2h ago
-
----
-
-**[AI is advancing too quickly for research to keep up](https://www.axios.com/2026/02/15/ai-chatgpt-research-study)**
-
-Axios • 2h ago
+The Washington Post • 11m ago
 
 ---
 
@@ -151,15 +139,39 @@ Axios • 2h ago
 
 Memo sent to state lawmakers threatens to escalate feud between the White House and conservative states
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
-**[Global week ahead: Markets brace for more AI noise and 'scare trading'](https://www.cnbc.com/2026/02/15/global-week-ahead-markets-brace-for-more-ai-noise-and-scare-trading.html)**
+**[The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs](https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-ai-safety-staff-departures-raise-worries-about-industry-pursuing-profit-at-all-costs)**
 
-Looking back at last week's volatility could gives some clues for the trading week ahead.
+Editorial: Cash-hungry Silicon Valley firms are scrambling for revenue. Regulate them now before the tech becomes too big to fail
 
-CNBC • 7h ago
+The Guardian • 2m ago
+
+---
+
+**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
+
+An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
+
+The Guardian • 2d ago
+
+---
+
+**[Hollywood isn’t happy about the new Seedance 2.0 video generator](https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/)**
+
+Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.
+
+TechCrunch • 1h ago
+
+---
+
+**[New AI Video Generator Is So Impressive That It’s Scaring Hollywood](https://futurism.com/artificial-intelligence/seedance-ai-video-generator-scaring-hollywood)**
+
+ByteDance has once again upped the ante with the latest version of its Seedance AI video generating tool. Hollywood is scared.
+
+Futurism • 16h ago
 
 ---
 
@@ -177,19 +189,11 @@ Fortune • 1d ago
 
 ---
 
-**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
+**[Microsoft AI CEO predicts 'most, if not all' white-collar tasks will be automated by AI within 18 months](https://www.businessinsider.com/microsoft-ai-ceo-mustafa-suleyman-white-collar-tasks-automation-prediction-2026-2)**
 
-NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
+Mustafa Suleyman, Microsoft's AI chief, says AI can automate white-collar jobs within 12-18 months, as tech reaches human-level performance in tasks.
 
-The Washington Post • 2h ago
-
----
-
-**[AI Bubble Fears Are Creating New Derivatives](https://finance.yahoo.com/news/ai-bubble-fears-creating-derivatives-200000530.html)**
-
-Credit derivatives tied to single companies didn’t exist on many high-grade Big Tech issuers a year ago, and are now some of the most actively traded US contracts in the market outside of the financial sector, according to Depository Trust & Clearing Corp.  While contracts on Oracle Corp. have been active for months, in recent weeks, trading on Meta Platforms Inc., the parent of Facebook, and Alphabet Inc. has become much more active, the data shows.
-
-Yahoo Finance • 20h ago
+Business Insider • 2d ago
 
 ---
 
@@ -205,7 +209,7 @@ Yahoo Finance • 20h ago
 
 **[ai;dr](https://news.ycombinator.com/item?id=46991394)**
 
-⬆️ 710 • 💬 301 • 2d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 710 • 💬 301 • 3d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
 
 ---
 
@@ -213,7 +217,7 @@ Yahoo Finance • 20h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 535 • 💬 337 • 21h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 535 • 💬 337 • 22h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -237,7 +241,7 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 273 • 💬 163 • 1d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 273 • 💬 163 • 2d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -267,7 +271,7 @@ One Rust binary that runs the full AI assistant: multi-provider LLM routing, too
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 112 • 💬 60 • 17h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 112 • 💬 60 • 18h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -678,7 +682,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 255 • 50m ago
+⭐ 2.5k • 🔱 255 • 1h ago
 
 ---
 
@@ -708,7 +712,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 142 • 12h ago
+⭐ 2.1k • 🔱 142 • 13h ago
 
 ---
 

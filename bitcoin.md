@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T16:32:48.875832+00:00'
+updated: '2026-02-15T17:27:05.421872+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 16:32 UTC  
+**Last Updated:** February 15, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,13 +95,13 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-1h ago
+2h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-20h ago
+21h ago
 
 ---
 
@@ -117,7 +117,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-19h ago
+20h ago
 
 ---
 
@@ -125,7 +125,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 14h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 15h ago
 
 ---
 
@@ -133,7 +133,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-23h ago
+1d ago
 
 ---
 
@@ -141,7 +141,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 21 years old and Complete bitcoin/crypto beginner, however I’d rather put my money to work than let the fiat rot in a bank. Very interesting life setup I currently have - £200/m rent, low expenses, £3k+ monthly salary. Planning to DCA for the next 4 years ~£600 a week. Also planning to cop a Trezor 7 and just lock the BTC away until I plan to move countries and make use of the 10% tax in Eastern Europe instead of getting graped by the UK 20%+. Any tips or suggestions would be appreciated.
 
-31m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-10h ago
+11h ago
 
 ---
 
@@ -171,17 +171,17 @@ Forbes • 1d ago
 
 ---
 
-**[In bitcoin crash, ETF flows are down but they aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
+**[In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Proof Of Work Is What’s In Your Wallet, Not On The Bitcoin Blockchain](https://www.forbes.com/sites/johntamny/2026/02/15/proof-of-work-is-whats-in-your-wallet-not-on-the-bitcoin-blockchain/)**
 
-Forbes • 1h ago
+Forbes • 2h ago
 
 ---
 
@@ -189,7 +189,29 @@ Forbes • 1h ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 14h ago
+BBC • 15h ago
+
+---
+
+**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
+
+The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
+
+MLive.com • 9h ago
+
+---
+
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfnmIjw5Oi2vrMf-LeEI7ipmbeVMReODaJPcuT7FAuXAg5ZJto2nWJV&gaa_ts=69920557&gaa_sig=YgbrrCRfSQW2hwyA2bAFMb2ZHrKpqELU1blZFDVUA7QzoYlXcqTNXaBZi4ymW5q2e-j3NALk_HM8FDOg3SFmQQ%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
+
+After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
+
+Bitcoin Magazine • 12h ago
 
 ---
 
@@ -201,31 +223,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqdiYw5sNqLBpRQlMGlUtppiD7v8zLHxIQn_ZDiKgzgSXppM4BuyXqK-&gaa_ts=6991eee0&gaa_sig=DQprwkhVwOcLTPO4hRk8evrqZhrBT6-WNPpDKtH5z3mWvym4JZTIoG3XmEmWqN1KOVx1Nq2DXnl-Phkk-nskVQ%3D%3D)**
+**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqcECcHsoxU-4pmGJgBgydeoZNY_e1IEdYQ0ROzBVuDLZt7aKI85ex8p&gaa_ts=69920557&gaa_sig=gtvoZPJQJZtWaWYi5mpSBkuOGrmmm0I33HkbQvvgkb55a5-Mx2YZV5maCPLdDL68N2NeMkBXCMIZB1kUqMQNWg%3D%3D)**
 
-Barron's • 2d ago
+Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
 
----
-
-**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
-
-The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
-
-MLive.com • 8h ago
-
----
-
-**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Bitcoin After the Cycle Peak: What Comes Next and How We’re Positioning](https://io-fund.com/crypto/bitcoin-after-cycle-peak)**
-
-Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
-
-IO Fund • 3d ago
+The Times • 19h ago
 
 ---
 
@@ -243,7 +245,7 @@ IO Fund • 3d ago
 
 The crypto crash is coming — and the landing won’t be pretty
 
-⬆️ 5 • 💬 1 • 6d ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
+⬆️ 5 • 💬 1 • 7d ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
 
 ---
 
@@ -251,7 +253,7 @@ The crypto crash is coming — and the landing won’t be pretty
 
 Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
 
-⬆️ 4 • 💬 0 • 6d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+⬆️ 4 • 💬 0 • 7d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
 
 ---
 
@@ -275,7 +277,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 18h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 19h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -305,7 +307,7 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
-⬆️ 2 • 💬 0 • 20h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 2 • 💬 0 • 21h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -319,7 +321,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 7K • 👍 575 • 💬 90 • ⏱️ 12:55 • 3h ago
+👁️ 7K • 👍 575 • 💬 90 • ⏱️ 12:55 • 4h ago
 
 ---
 
@@ -329,7 +331,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 4K • 👍 307 • 💬 83 • ⏱️ 30:55 • 2h ago
+👁️ 4K • 👍 307 • 💬 83 • ⏱️ 30:55 • 3h ago
 
 ---
 
@@ -339,7 +341,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 207 • 💬 6 • ⏱️ 17:15 • 23h ago
+👁️ 5K • 👍 207 • 💬 6 • ⏱️ 17:15 • 1d ago
 
 ---
 
@@ -359,7 +361,7 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 196 • 💬 14 • ⏱️ 20:41 • 18h ago
+👁️ 3K • 👍 196 • 💬 14 • ⏱️ 20:41 • 19h ago
 
 ---
 
@@ -369,7 +371,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 10K • 👍 653 • 💬 34 • ⏱️ 10:24 • 10h ago
+👁️ 10K • 👍 653 • 💬 34 • ⏱️ 10:24 • 11h ago
 
 ---
 
@@ -389,7 +391,7 @@ Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50
 
 📺 Benjamin Cowen
 
-👁️ 35K • 👍 2K • 💬 101 • ⏱️ 18:10 • 10h ago
+👁️ 35K • 👍 2K • 💬 101 • ⏱️ 18:10 • 11h ago
 
 ---
 

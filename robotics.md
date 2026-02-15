@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T16:32:48.883802+00:00'
+updated: '2026-02-15T17:27:05.431978+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 16:32 UTC  
+**Last Updated:** February 15, 2026 at 17:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Robotics research and industry news
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-23h ago
+1d ago
 
 ---
 
@@ -52,7 +52,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-4m ago
+58m ago
 
 ---
 
@@ -60,7 +60,7 @@ I need a power supply for a small animatronic that uses 3 9g servos and a small 
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-23h ago
+1d ago
 
 ---
 
@@ -68,19 +68,19 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-9h ago
+10h ago
 
 ---
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-5h ago
+6h ago
 
 ---
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 21h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 22h ago
 
 ---
 
@@ -130,7 +130,7 @@ Nature • 3d ago
 
 The Fraunhofer Institute for Manufacturing Engineering and Automation IPA is helping to improve absolute accuracy for robots.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -156,6 +156,14 @@ ChinaPower Project • 2d ago
 
 ---
 
+**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
+
+Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
+
+Futurism • 27m ago
+
+---
+
 **[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
@@ -177,12 +185,6 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 Pneumatics are a common way to add some motion to soft robotic actuators, but adding it to a robot can be somewhat of a chore. A method demonstrated by [Jackson K. Wilt] et al. (press release, prep…
 
 Hackaday • 2d ago
-
----
-
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
-
-KSN-TV • 1d ago
 
 ---
 
@@ -226,7 +228,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 12K • 👍 363 • 💬 12 • ⏱️ 0:59 • 20h ago
+👁️ 12K • 👍 363 • 💬 12 • ⏱️ 0:59 • 21h ago
 
 ---
 
@@ -246,7 +248,7 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 📺 FUN Robotics Network
 
-👁️ 326 • 👍 4 • ⏱️ 1:09 • 32m ago
+👁️ 326 • 👍 4 • ⏱️ 1:09 • 1h ago
 
 ---
 
@@ -266,7 +268,7 @@ A bold statement like this instantly ignites curiosity and debate across the wor
 
 📺 Billionaire Shots
 
-👁️ 10K • 👍 970 • 💬 120 • ⏱️ 0:25 • 13h ago
+👁️ 10K • 👍 970 • 💬 120 • ⏱️ 0:25 • 14h ago
 
 ---
 

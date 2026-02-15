@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T16:32:48.881042+00:00'
+updated: '2026-02-15T17:27:05.427836+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 16:32 UTC  
+**Last Updated:** February 15, 2026 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -4.6%  
-**30d:** -39.3%  
-**90d:** -35.7%  
-**1y:** -24.4%  
+**24h:** -4.2%  
+**7d:** -5.1%  
+**30d:** -39.7%  
+**90d:** -36.1%  
+**1y:** -24.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 18h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 19h ago
 
 ---
 
@@ -158,11 +158,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ripple’s RLUSD Stablecoin Floods Ethereum — $1.2B Supply Explosion](https://coinpaper.com/14606/ripple-s-rlusd-stablecoin-floods-ethereum-1-2-b-supply-explosion)**
+**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
 
-Ripple’s RLUSD stablecoin supply on Ethereum tops $1.2B, showing rapid adoption and growing use in DeFi and broader crypto markets.
+The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
 
-Coinpaper • 1d ago
+The Block • 3d ago
 
 ---
 
@@ -190,25 +190,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/02/14/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
-
-Here's why Bitcoin and Ethereum should be in your long-term portfolio.
-
-The Motley Fool • 1d ago
-
----
-
 **[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 18h ago
-
----
-
-**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
-
-TradingView • 16h ago
+dlnews.com • 19h ago
 
 ---
 
@@ -216,7 +202,21 @@ TradingView • 16h ago
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
 
-BeInCrypto • 11h ago
+BeInCrypto • 12h ago
+
+---
+
+**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
+
+TradingView • 17h ago
+
+---
+
+**[Ethereum Is Crushing XRP in 1 Key Arena. Should You Buy It With $1,000?](https://www.fool.com/investing/2026/02/15/ethereum-is-crushing-xrp-in-1-key-arena-should-you/)**
+
+Ethereum is seeing a flood of assets into its network.
+
+The Motley Fool • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 335 • ⏱️ 34:57 • 16h ago
+👁️ 42K • 👍 2K • 💬 335 • ⏱️ 34:57 • 17h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 650 • 👍 90 • 💬 4 • ⏱️ 4:45 • 2h ago
+👁️ 650 • 👍 90 • 💬 4 • ⏱️ 4:45 • 3h ago
 
 ---
 
@@ -258,7 +258,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 238 • 👍 17 • 💬 18 • ⏱️ 13:02 • 2h ago
+👁️ 238 • 👍 17 • 💬 18 • ⏱️ 13:02 • 3h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 176 • 👍 12 • 💬 1 • ⏱️ 4:36 • 5h ago
+👁️ 176 • 👍 12 • 💬 1 • ⏱️ 4:36 • 6h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 162 • 💬 10 • ⏱️ 4:45 • 14h ago
+👁️ 3K • 👍 162 • 💬 10 • ⏱️ 4:45 • 15h ago
 
 ---
 
@@ -318,7 +318,7 @@ The developments in the utility crypto space is interesting today. We have great
 
 📺 Crypto Growth
 
-👁️ 68 • 👍 10 • 💬 18 • ⏱️ 17:21 • 1h ago
+👁️ 68 • 👍 10 • 💬 18 • ⏱️ 17:21 • 2h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 8K • 👍 286 • 💬 31 • ⏱️ 17:42 • 18h ago
+👁️ 8K • 👍 286 • 💬 31 • ⏱️ 17:42 • 19h ago
 
 ---
 
