@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T19:47:33.421530+00:00'
+updated: '2026-02-15T20:28:38.276004+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - repositories
+- news
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 19:47 UTC  
+**Last Updated:** February 15, 2026 at 20:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-7h ago
+8h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
 
-10h ago
+11h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-20h ago
+21h ago
 
 ---
 
@@ -89,7 +89,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-9h ago
+10h ago
 
 ---
 
@@ -123,7 +123,7 @@ It does not happen very often in the history of business that an orthogonal prod
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 16h ago
+Axios • 17h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 1d ago
 
 Anthropic president Daniela Amodei said that, in the age of AI, we should "prize the things that make us human" — like literature degrees.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -147,7 +147,7 @@ Business Insider • 9h ago
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Washington Post • 1h ago
 
 'The Big Weekend Show' panel discusses the impact of artificial intelligence on human connection as one survey indicates 20% of teens are in a relationship with AI.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 2d ago
 
 New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -203,7 +203,7 @@ Al Jazeera • 8h ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 718 • 💬 598 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 720 • 💬 599 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -211,7 +211,7 @@ Al Jazeera • 8h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 542 • 💬 349 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 543 • 💬 353 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -219,7 +219,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 360 • 💬 248 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 361 • 💬 251 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -265,7 +265,7 @@ It comes in the same week an OpenAI researcher resigned amid concerns about its 
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 77 • 💬 140 • 4h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 77 • 💬 147 • 5h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -285,47 +285,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 331K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
-
----
-
-**[AI fight scene video of Tom Cruise and Brad Pitt goes viral](https://www.youtube.com/watch?v=FhjJTZ9uIWY)**
-
-A 15-second AI video of Tom Cruise and Brad Pitt has the industry buzzing and concerned. KTLA's Angeli Kakade reports on Feb.
-
-📺 KTLA 5
-
-👁️ 111K • 👍 473 • 💬 202 • ⏱️ 2:51 • 1d ago
-
----
-
-**[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
-
-New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
-
-📺 ABC News
-
-👁️ 128K • 👍 1K • 💬 715 • ⏱️ 3:58 • 2d ago
-
----
-
-**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
-
-Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
-
-📺 Asmongold TV  
-
-👁️ 586K • 👍 19K • 💬 4K • ⏱️ 20:40 • 2d ago
-
----
-
-**[Bruce Lee VS Jackie Chan | Full AI animation](https://www.youtube.com/watch?v=O31jAeTHAxc)**
-
-Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce Lee in the ultimate showdown for martial ...
-
-📺 ShadowRivals
-
-👁️ 30K • 👍 688 • 💬 91 • ⏱️ 2:02 • 1d ago
+👁️ 343K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -335,17 +295,27 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 69K • 👍 703 • 💬 361 • ⏱️ 3:04 • 1d ago
+👁️ 75K • 👍 768 • 💬 384 • ⏱️ 3:04 • 1d ago
 
 ---
 
-**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
 
-Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
 
-📺 Spacialize
+📺 Asmongold TV  
 
-👁️ 88K • 👍 2K • 💬 339 • ⏱️ 17:28 • 2d ago
+👁️ 590K • 👍 19K • 💬 4K • ⏱️ 20:40 • 2d ago
+
+---
+
+**[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
+
+New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
+
+📺 ABC News
+
+👁️ 132K • 👍 2K • 💬 738 • ⏱️ 3:58 • 2d ago
 
 ---
 
@@ -355,7 +325,37 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 14K • 👍 730 • 💬 67 • ⏱️ 7:05 • 1d ago
+👁️ 15K • 👍 736 • 💬 68 • ⏱️ 7:05 • 1d ago
+
+---
+
+**[Bruce Lee VS Jackie Chan | Full AI animation](https://www.youtube.com/watch?v=O31jAeTHAxc)**
+
+Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce Lee in the ultimate showdown for martial ...
+
+📺 ShadowRivals
+
+👁️ 37K • 👍 800 • 💬 98 • ⏱️ 2:02 • 1d ago
+
+---
+
+**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+
+Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+
+📺 Spacialize
+
+👁️ 89K • 👍 2K • 💬 341 • ⏱️ 17:28 • 2d ago
+
+---
+
+**[Viral essay urges people to prepare for rapid advancements in artificial intelligence](https://www.youtube.com/watch?v=g8u0SlzVKAE)**
+
+If you've been on social media this week, you've likely seen an ominous warning about artificial intelligence in your feed: ...
+
+📺 CBS News
+
+👁️ 63K • 👍 1K • 💬 427 • ⏱️ 7:08 • 1d ago
 
 ---
 
@@ -365,7 +365,7 @@ more slop merch that ISN'T AI SLOP - https://dandingle.store/ everything in this
 
 📺 Dan Dingle
 
-👁️ 107K • 👍 7K • 💬 1K • ⏱️ 18:00 • 1d ago
+👁️ 110K • 👍 8K • 💬 1K • ⏱️ 18:00 • 1d ago
 
 ---
 
@@ -375,7 +375,7 @@ Create AI videos with Higgsfield: https://higgsfield.ai/nano-banana-2-intro/?utm
 
 📺 Danny Why
 
-👁️ 16K • 👍 894 • 💬 104 • ⏱️ 20:50 • 1d ago
+👁️ 17K • 👍 916 • 💬 106 • ⏱️ 20:50 • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.5k • 🔱 166 • 12d ago
+⭐ 3.6k • 🔱 166 • 12d ago
 
 ---
 
@@ -681,7 +681,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 256 • 4h ago
+⭐ 2.5k • 🔱 256 • 26m ago
 
 ---
 
@@ -711,17 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 142 • 15h ago
-
----
-
-**[op7418/CodePilot](https://github.com/op7418/CodePilot)**
-
-A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
-
-`TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
-
-⭐ 1.9k • 🔱 205 • 2d ago
+⭐ 2.1k • 🔱 143 • 1h ago
 
 ---
 
@@ -732,6 +722,16 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
 ⭐ 1.9k • 🔱 242 • 2h ago
+
+---
+
+**[op7418/CodePilot](https://github.com/op7418/CodePilot)**
+
+A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
+
+`TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
+
+⭐ 1.9k • 🔱 206 • 2d ago
 
 ---
 

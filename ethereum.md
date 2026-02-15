@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T19:47:33.436139+00:00'
+updated: '2026-02-15T20:28:38.290329+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 19:47 UTC  
+**Last Updated:** February 15, 2026 at 20:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,943.74
+### $1,940.71
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $236.98B
+**Market Cap:** $234.77B
 Rank #2
 
 **Circulating Supply:** 120,692,458 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.4%
+-60.7%
 
 **All-Time Low:** $0.43
-+452788.0%
++449138.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -92,14 +92,6 @@ Posted by Jacob Czepluch on February 10, 2026
 
 ---
 
-**[Daily General Discussion February 14, 2026](https://www.reddit.com/r/ethereum/comments/1r4cvrr/daily_general_discussion_february_14_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
 **[A better path forward for prediction markets: PMs + LLMs as a next-gen replacement for fiat currency](https://www.reddit.com/r/ethereum/comments/1r4k0gy/a_better_path_forward_for_prediction_markets_pms/)**
 
 Recently I have been starting to worry about the state of prediction markets, in their current form. They have achieved a certain level of success: market volume is high enough to make meaningful bets and have a full-time job as a trader, and they often prove useful as a supplement to other forms of news media. But also, they seem to be over-converging to an unhealthy product market fit: embracing short-term cryptocurrency price bets, sports betting, and other similar things that have dopamine value but not any kind of long-term fulfillment or societal information value. My guess is that teams feel motivated to capitulate to these things because they bring in large revenue during a bear market where people are desperate - an understandable motive, but one that leads to corposlop. I have been thinking about how we can help get prediction markets out of this rut. My current view is that we should try harder to push them into a totally different use case: hedging, in a very generalized sense (TLDR: we're gonna replace fiat currency) Prediction markets have two types of actors: (i) "smart traders" who provide information to the market, and earn money, and necessarily (ii) some kind of actor who loses money. But who would be willing to lose money and keep coming back? There are basically three answers to this question: "Naive traders": people with dumb opinions who bet on totally wrong things "Info buyers": people who set up money-losing automated market makers, to motivate people to trade on markets to help the info buyer learn information they do not know. "Hedgers": people who are -EV in a linear sense, but who use the market as insurance, reducing their risk. (1) is where we are today. IMO there is nothing fundamentally morally wrong with taking money from people with dumb opinions. But there still is something fundamentally "cursed" about relying on this too much. It gives the platform the incentive to seek out traders with dumb opinions, and create a public brand and community that encourages dumb opinions to get more people to come in. This is the slide to corposlop. (2) has always been the idealistic hope of people like Robin Hanson. However, info buying has a public goods problem: you pay for the info, but everyone in the world gets it, including those who don't pay. There are limited cases where it makes sense for one org to pay (esp. decision markets), but even there, it seems likely that the market volumes achieved with that strategy will not be too high. This gets us to (3). Suppose that you have shares in a biotech company. It's public knowledge that the Purple Party is better for biotech than the Yellow Party. So if you buy a prediction market share betting that the Yellow Party will win the next election, on average, you are reducing your risk. Mathematical example: suppose that if Purple wins, the share price will be a dice roll between [80...120], and if Yellow wins, it's between [60...100]. If you make a size $5 bet that Yellow will win, your earnings become equivalent to a dice roll between [70...110] in both cases. Taking a logarithmic model of utility, this risk reduction is worth $0.58. Now, let's get to a more fascinating example. What do people who want stablecoins ultimately want? They want price stability. They have some future expenses in mind, and they want a guarantee that will be able to pay those expenses. But if crypto grows on top of USD-backed stablecoins, crypto is ultimately not truly decentralized. Furthermore, different people have different types of expenses. There has been lots of thinking about making an "ideal stablecoin" that is based on some decentralized global price index, but what if the real solution is to go a step further, and get rid of the concept of currency altogether? Here's the idea. You have price indices on all major categories of goods and services that people buy (treating physical goods/services in different regions as different categories), and prediction markets on each category. Each user (individual or business) has a local LLM that understands that user's expenses, and offers the user a personalized basket of prediction market shares, representing "N days of that user's expected future expenses". Now, we do not need fiat currency at all! People can hold stocks, ETH, or whatever else to grow wealth, and personalized prediction market shares when they want stability. Both of these examples require prediction markets denominated in an asset people want to hold, whether interest-bearing fiat, wrapped stocks, or ETH. Non-interest-bearing fiat has too-high opportunity cost, that overwhelms the hedging value. But if we can make it work, it's much more sustainable than the status quo, because both sides of the equation are likely to be long-term happy with the product that they are buying, and very large volumes of sophisticated capital will be willing to participate. Build the next generation of finance, not corposlop.
@@ -108,9 +100,17 @@ Recently I have been starting to worry about the state of prediction markets, in
 
 ---
 
+**[Daily General Discussion February 14, 2026](https://www.reddit.com/r/ethereum/comments/1r4cvrr/daily_general_discussion_february_14_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
 **[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 1d ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 2d ago
 
 ---
 
@@ -118,7 +118,7 @@ Recently I have been starting to worry about the state of prediction markets, in
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 1d ago
+🔗 [youtu.be](https://youtu.be/rxI6AyRSaxY) • 2d ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 1d ago
 
 Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
 
-Bitcoin.com News • 2h ago
+Bitcoin.com News • 3h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Motley Fool • 1d ago
 
 **[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -208,7 +208,7 @@ TradingView • 19h ago
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 21h ago
+dlnews.com • 22h ago
 
 ---
 
@@ -216,7 +216,7 @@ dlnews.com • 21h ago
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
 
-BeInCrypto • 14h ago
+BeInCrypto • 15h ago
 
 ---
 
@@ -232,13 +232,23 @@ markets.businessinsider.com • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Russell 2000 Breakout: The Signal That Could Ignite Ethereum w/ John Gillen](https://www.youtube.com/watch?v=DjhaV_LhCUA)**
+
+Free Milk Road Newsletters: ...
+
+📺 Milk Road
+
+👁️ 1K • 👍 53 • 💬 24 • ⏱️ 13:02 • 6h ago
+
+---
+
 **[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
 
 Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https://dacfp.com/ Join us at Bitcoin Conference ...
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 358 • ⏱️ 34:57 • 19h ago
+👁️ 50K • 👍 3K • 💬 181 • ⏱️ 34:57 • 20h ago
 
 ---
 
@@ -248,17 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 120 • 💬 5 • ⏱️ 4:45 • 5h ago
-
----
-
-**[Russell 2000 Breakout: The Signal That Could Ignite Ethereum w/ John Gillen](https://www.youtube.com/watch?v=DjhaV_LhCUA)**
-
-Free Milk Road Newsletters: ...
-
-📺 Milk Road
-
-👁️ 558 • 👍 37 • 💬 19 • ⏱️ 13:02 • 5h ago
+👁️ 2K • 👍 154 • 💬 5 • ⏱️ 4:45 • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 89 • 💬 5 • ⏱️ 17:25 • 1d ago
+👁️ 3K • 👍 93 • 💬 5 • ⏱️ 17:25 • 1d ago
 
 ---
 
@@ -278,17 +278,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 247 • 👍 13 • 💬 2 • ⏱️ 4:36 • 9h ago
+👁️ 348 • 👍 16 • 💬 2 • ⏱️ 4:36 • 9h ago
 
 ---
 
-**[Ethereum 2026 Outlook Update: Another All-Time High Coming?](https://www.youtube.com/watch?v=8gxhaxkZ5tQ)**
+**[BITCOIN: Something Feels Very Wrong! (red alert) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=_3kz83on4cw)**
 
-In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 MCO Global
+📺 BitcoinHyper
 
-👁️ 2K • 👍 236 • 💬 16 • ⏱️ 5:42 • 1d ago
+👁️ 1K • 👍 190 • 3h ago
 
 ---
 
@@ -298,7 +298,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 18h ago
+👁️ 3K • 👍 161 • 💬 11 • ⏱️ 4:45 • 18h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=NSkeDtslyO4)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 KLH-BPLH
+
+👁️ 6K • 👍 1K • 18h ago
+
+---
+
+**[Ethereum 2026 Outlook Update: Another All-Time High Coming?](https://www.youtube.com/watch?v=8gxhaxkZ5tQ)**
+
+In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
+
+📺 MCO Global
+
+👁️ 2K • 👍 239 • 💬 16 • ⏱️ 5:42 • 1d ago
 
 ---
 
@@ -308,27 +328,7 @@ For any questions contact me on Telegram : https://t.me/cryptobotdev124 Download
 
 📺 Cole the DeFi Maker
 
-👁️ 2K • ⏱️ 7:43 • 4h ago
-
----
-
-**[Ethereum&#39;s wild history: V-Bottoms guaranteed?](https://www.youtube.com/watch?v=5NvRpJ2vyeo)**
-
-Observers note a striking pattern: Ethereum has tanked over 50% eight separate times since 2018, yet each time, it snapped back ...
-
-📺 Wolf of Dubai Day Trading & Investing
-
-👁️ 390 • 👍 6 • ⏱️ 1:08 • 5h ago
-
----
-
-**[XRP SWIFT SECRET MEETING? | Flare Ethereum Expansion, Canton The Real Deal, The Stellar Strengths](https://www.youtube.com/watch?v=F9wtJcFUVac)**
-
-The developments in the utility crypto space is interesting today. We have great developments from XRP, Flare, Canton & XLM.
-
-📺 Crypto Growth
-
-👁️ 216 • 👍 29 • 💬 18 • ⏱️ 17:21 • 4h ago
+👁️ 2K • 👍 7 • 💬 9 • ⏱️ 7:43 • 4h ago
 
 ---
 

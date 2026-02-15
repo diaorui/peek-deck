@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T19:47:33.430056+00:00'
+updated: '2026-02-15T20:28:38.284400+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 19:47 UTC  
+**Last Updated:** February 15, 2026 at 20:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,540.34
+### $68,179.52
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.1%  
-**7d:** -2.3%  
+**7d:** -2.4%  
 **30d:** -28.0%  
 **90d:** -26.3%  
 **1y:** -28.8%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1366.00B
+**Market Cap:** $1366.10B
 Rank #1
 
-**Circulating Supply:** 19,989,887 BTC
+**Circulating Supply:** 19,989,925 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -45.8%
 
 **All-Time Low:** $67.81
-+100621.1%
++100684.5%
 
 ---
 
@@ -97,11 +97,19 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 ---
 
+**[Bought some parts for my bike with BTC](https://www.reddit.com/r/Bitcoin/comments/1r5mldg/bought_some_parts_for_my_bike_with_btc/)**
+
+Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
+
+1h ago
+
+---
+
 **[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-13h ago
+14h ago
 
 ---
 
@@ -109,7 +117,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actually instrumental in shaping my early interest in Bitcoin. I appreciated the thoughtful guests, organic conversations, and what felt like a politically neutral commitment to information. Also, I loved that she was a woman contributing in a male dominated space. However, as I’ve begun following her on other platforms, I’ve found myself increasingly surprised, and frankly disappointed, by the content she chooses to amplify. Given her journalistic background, the recirculation of easily debunked claims and politically loaded narratives feels at odds with the credibility she originally built. At a certain point, the casual sharing of baseless memes and tweets, and unverified claims begins to undermine the very authority that made her platform compelling in the first place. I’d love to know what outlets, podcasts, or writers people trust today for nuanced, intellectually honest Bitcoin coverage?
 
-2h ago
+3h ago
 
 ---
 
@@ -125,15 +133,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-22h ago
-
----
-
-**[Bought some parts for my bike with BTC](https://www.reddit.com/r/Bitcoin/comments/1r5mldg/bought_some_parts_for_my_bike_with_btc/)**
-
-Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
-
-56m ago
+23h ago
 
 ---
 
@@ -141,7 +141,7 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 17h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 18h ago
 
 ---
 
@@ -149,7 +149,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 21 years old and Complete bitcoin/crypto beginner, however I’d rather put my money to work than let the fiat rot in a bank. Very interesting life setup I currently have - £200/m rent, low expenses, £3k+ monthly salary. Planning to DCA for the next 4 years ~£600 a week. Also planning to cop a Trezor 7 and just lock the BTC away until I plan to move countries and make use of the 10% tax in Eastern Europe instead of getting graped by the UK 20%+. Any tips or suggestions would be appreciated.
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -177,13 +177,13 @@ Nasdaq • 1d ago
 
 If you are wondering whether CleanSpark's current share price lines up with its underlying value, this article will walk through the key signals without the noise. The stock recently closed at US$9.85, with returns of a 2.3% decline over 7 days, 26.3% decline over 30 days, 14.7% decline year to date and 6.2% decline over 1 year, set against a very large 3 year return. Recent news coverage has focused on how bitcoin mining companies are reacting to changing market conditions and capital...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
-Forbes • 8h ago
+Forbes • 9h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg • 2d ago
 
 After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
 
-Bitcoin Magazine • 14h ago
+Bitcoin Magazine • 15h ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 2d ago
 
 Bitcoin developers lay the groundwork for post-quantum upgrades, but experts vary on whether the threat is years or decades away.
 
-Decrypt • 3h ago
+Decrypt • 4h ago
 
 ---
 
@@ -237,7 +237,7 @@ Decrypt • 3h ago
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 10 • 💬 0 • 4d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 10 • 💬 0 • 5d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -261,7 +261,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 21h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 22h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -321,7 +321,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 15K • 👍 881 • 💬 153 • ⏱️ 12:55 • 7h ago
+👁️ 24K • 👍 1K • 💬 174 • ⏱️ 12:55 • 7h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 587 • 💬 135 • ⏱️ 30:55 • 5h ago
+👁️ 18K • 👍 836 • 💬 217 • ⏱️ 30:55 • 6h ago
 
 ---
 
@@ -341,57 +341,17 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 175 • 💬 15 • ⏱️ 7:14 • 3h ago
+👁️ 5K • 👍 322 • 💬 36 • ⏱️ 7:14 • 4h ago
 
 ---
 
-**[Brace Up for a WILD RIDE! Bitcoin&#39;s About to SHOCK Everyone - Cathie Wood &amp; Lyn Alden](https://www.youtube.com/watch?v=nk4B1tnobQE)**
+**[BITCOIN: Something Feels Very Wrong! (red alert) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=_3kz83on4cw)**
 
-We are in one of the most important moments in Bitcoin's history. The headlines are confused. The volatility is loud. But the signal ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Savvy Finance
+📺 BitcoinHyper
 
-👁️ 6K • 👍 215 • 💬 7 • ⏱️ 17:15 • 1d ago
-
----
-
-**[“This Is Their Plan For Bitcoin in 2026” (and they&#39;re not hiding it) | Whitney Webb](https://www.youtube.com/watch?v=QGpJQdCfWTk)**
-
-The release of Jeffrey Epstein-related records has reignited debate around Bitcoin's true strategic role. Why were powerful ...
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 204 • 💬 14 • ⏱️ 20:41 • 21h ago
-
----
-
-**[THE FINAL BITCOIN MOVE... (prepare accordingly)](https://www.youtube.com/watch?v=qFEIPmIEc9A)**
-
-WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
-
-📺 Crypto Rover
-
-👁️ 11K • 👍 691 • 💬 36 • ⏱️ 10:24 • 14h ago
-
----
-
-**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
-
-Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
-
-📺 Altcoin Daily
-
-👁️ 64K • 👍 3K • 💬 287 • ⏱️ 15:20 • 1d ago
-
----
-
-**[Is the Crash in Bitcoin Near Capitulation and a Major Bottom?](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
-
-Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
-
-📺 Alessio Rastani
-
-👁️ 42K • 👍 4K • 💬 470 • ⏱️ 8:15 • 1d ago
+👁️ 1K • 👍 190 • 3h ago
 
 ---
 
@@ -401,17 +361,57 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Punjabibeautyonduty
 
-👁️ 6K • 👍 2K • 4h ago
+👁️ 7K • 👍 2K • 4h ago
 
 ---
 
-**[Bitcoin Miners Are Abandoning BTC... And No One Is Talking About Why](https://www.youtube.com/watch?v=cQj0D74gT_Y)**
+**[Brace Up for a WILD RIDE! Bitcoin&#39;s About to SHOCK Everyone - Cathie Wood &amp; Lyn Alden](https://www.youtube.com/watch?v=nk4B1tnobQE)**
 
-Recently Bitcoin crashed to $60000, below key support levels set by the previous cycle. This has put BTC's price in the danger ...
+We are in one of the most important moments in Bitcoin's history. The headlines are confused. The volatility is loud. But the signal ...
 
-📺 Coin Bureau
+📺 Savvy Finance
 
-👁️ 77K • 👍 3K • 💬 420 • ⏱️ 19:46 • 1d ago
+👁️ 6K • 👍 224 • 💬 8 • ⏱️ 17:15 • 1d ago
+
+---
+
+**[“This Is Their Plan For Bitcoin in 2026” (and they&#39;re not hiding it) | Whitney Webb](https://www.youtube.com/watch?v=QGpJQdCfWTk)**
+
+The release of Jeffrey Epstein-related records has reignited debate around Bitcoin's true strategic role. Why were powerful ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 215 • 💬 14 • ⏱️ 20:41 • 22h ago
+
+---
+
+**[THE FINAL BITCOIN MOVE... (prepare accordingly)](https://www.youtube.com/watch?v=qFEIPmIEc9A)**
+
+WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
+
+📺 Crypto Rover
+
+👁️ 11K • 👍 713 • 💬 37 • ⏱️ 10:24 • 14h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=kHTVbt9SCng)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Bayus jaya HVACR
+
+👁️ 36K • 👍 3K • 2d ago
+
+---
+
+**[0.001 vs 0.1 BTC — WHAT CAN YOU BUY IN 2030?](https://www.youtube.com/watch?v=kc_6SOyAnmA)**
+
+What will you feel the first time Bitcoin hits a number that scares you, not excites you, scares you? This bitcoin analysis explores ...
+
+📺 Capitalist
+
+👁️ 6K • 👍 275 • 💬 58 • ⏱️ 9:52 • 6h ago
 
 ---
 
