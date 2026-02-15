@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T17:53:01.658370+00:00'
+updated: '2026-02-15T18:38:14.686479+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 17:53 UTC  
+**Last Updated:** February 15, 2026 at 18:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-9h ago
+10h ago
 
 ---
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-40m ago
+1h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 So I wanna build a small chassis, a single chair that will be operated by joystick and or via Wi-Fi with an Xbox controller or something similar. Anyone have any general outlines of where I should start with that like what kind of controller lens itself well to that type of control what type of motor, etc. have a pretty chunky budget for this but I’m wondering if anyone can suggest starting places. I can weld Tig weld and get basic machining done. My original thought was to start with a Taylor Dunn cart and adapt it, but it actually seems easier at this point to just build something from scratch. Thanks in advance for any suggestions
 
-46m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,13 +88,13 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-6h ago
+7h ago
 
 ---
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -124,11 +124,11 @@ Nature • 3d ago
 
 ---
 
-**[High-precision robots: What to do when absolute accuracy is poor?](https://www.therobotreport.com/high-precision-robots-what-to-do-when-absolute-accuracy-is-poor/)**
+**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
 
-The Fraunhofer Institute for Manufacturing Engineering and Automation IPA is helping to improve absolute accuracy for robots.
+This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
 
-The Robot Report • 4h ago
+ChinaPower Project • 2d ago
 
 ---
 
@@ -140,33 +140,9 @@ CNN • 1d ago
 
 ---
 
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
 
-Forbes • 2d ago
-
----
-
-**[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
-
-This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
-
-ChinaPower Project • 2d ago
-
----
-
-**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
-
-Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
-
-Futurism • 53m ago
-
----
-
-**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
-
-Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
-
-Yahoo Finance • 1d ago
+KSN-TV • 1d ago
 
 ---
 
@@ -178,11 +154,33 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 ---
 
-**[3D Printing Pneumatic Channels With Dual Materials For Soft Robots](https://hackaday.com/2026/02/13/3d-printing-pneumatic-channels-with-dual-materials-for-soft-robots/)**
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
 
-Pneumatics are a common way to add some motion to soft robotic actuators, but adding it to a robot can be somewhat of a chore. A method demonstrated by [Jackson K. Wilt] et al. (press release, prep…
+Forbes • 2d ago
 
-Hackaday • 2d ago
+---
+
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
+
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
+
+New York Post • 2d ago
+
+---
+
+**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
+
+Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
+
+Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
+
+Futurism • 1h ago
 
 ---
 
@@ -196,7 +194,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 324K • 👍 6K • 💬 4K • ⏱️ 9:47 • 2d ago
+👁️ 334K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -206,7 +204,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 367K • 👍 5K • 💬 782 • ⏱️ 53:47 • 1d ago
+👁️ 408K • 👍 6K • 💬 874 • ⏱️ 53:47 • 1d ago
 
 ---
 
@@ -216,17 +214,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 128K • 👍 2K • 💬 212 • ⏱️ 11:59 • 4d ago
-
----
-
-**[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
-
-Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
-
-📺 By 2050
-
-👁️ 12K • 👍 363 • 💬 12 • ⏱️ 0:59 • 22h ago
+👁️ 130K • 👍 2K • 💬 215 • ⏱️ 11:59 • 4d ago
 
 ---
 
@@ -240,13 +228,31 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 ---
 
+**[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
+
+Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
+
+📺 By 2050
+
+👁️ 13K • 👍 381 • 💬 13 • ⏱️ 0:59 • 22h ago
+
+---
+
 **[Auto Tracking Turret and RGB Indicator | 33444 UlyDala | FTC Snapshot](https://www.youtube.com/watch?v=bHjMcaYzd-8)**
 
 33444 Ulydala shows us their unique features on robot, such as RGB-indicator and auto-adjusting turret This video is supported ...
 
 📺 FUN Robotics Network
 
-👁️ 326 • 👍 4 • ⏱️ 1:09 • 1h ago
+👁️ 705 • 👍 14 • ⏱️ 1:09 • 2h ago
+
+---
+
+**[He just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=XqisM4FeME8)**
+
+📺 Romi Pal
+
+👁️ 111K • 👍 2K • 💬 34 • ⏱️ 0:37 • 21h ago
 
 ---
 
@@ -256,27 +262,7 @@ The biggest fear about humanoid robots isn't strength. It's control. Future robo
 
 📺 By 2050
 
-👁️ 83K • 👍 2K • 💬 51 • ⏱️ 0:57 • 2d ago
-
----
-
-**[Optimus Will Change Everything #ElonMusk #Optimus #AI #Robotics #FutureTech #Innovation #robolution](https://www.youtube.com/watch?v=2vcqxrt9dEs)**
-
-A bold statement like this instantly ignites curiosity and debate across the world of technology and innovation. When visionary ...
-
-📺 Billionaire Shots
-
-👁️ 10K • 👍 970 • 💬 120 • ⏱️ 0:25 • 15h ago
-
----
-
-**[This Drone Transforms From Car to Flying Machine 🚁](https://www.youtube.com/watch?v=BT436xmFKso)**
-
-This transformable drone can move in completely different styles. In ground mode, it rolls on wheels like a robotic rover — stable, ...
-
-📺 Facts TV 91
-
-👁️ 709K • 👍 7K • 💬 64 • ⏱️ 0:06 • 16h ago
+👁️ 84K • 👍 2K • 💬 51 • ⏱️ 0:57 • 2d ago
 
 ---
 
@@ -286,7 +272,17 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 
 📺 Carros Show
 
-👁️ 5K • 👍 102 • 💬 8 • ⏱️ 9:26 • 5d ago
+👁️ 5K • 👍 103 • 💬 8 • ⏱️ 9:26 • 5d ago
+
+---
+
+**[This Drone Transforms From Car to Flying Machine 🚁](https://www.youtube.com/watch?v=BT436xmFKso)**
+
+This transformable drone can move in completely different styles. In ground mode, it rolls on wheels like a robotic rover — stable, ...
+
+📺 Facts TV 91
+
+👁️ 771K • 👍 7K • 💬 73 • ⏱️ 0:06 • 17h ago
 
 ---
 

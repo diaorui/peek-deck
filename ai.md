@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T17:53:01.640760+00:00'
+updated: '2026-02-15T18:38:14.668848+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 17:53 UTC  
+**Last Updated:** February 15, 2026 at 18:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The White House has urged Republican lawmakers in Utah to abandon a bill that would force AI companies to implement public safety measures, escalating its confrontation with states trying to rein in the technology. A memo the White House sent to Utah lawmakers last week and seen by the FT, said: “We are categorically opposed to Utah HB 286 and view it as an unfixable bill that goes against the administration’s AI agenda”. Republican representative Doug Fiefia, a former Google employee, proposed the Artificial Intelligence Transparency Act. It is supported by another Republican, Senator Mike McKell, and was advanced last month by a legislative committee in Utah with a Republican majority. The legislation would mandate developers of leading AI models to implement and publish public safety plans that outline how they are mitigating cyber security risks, while also establishing a comprehensive child safety plan and whistleblower protections. Read more, here: https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f
 
-🔗 [ft.com](https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 2h ago
+🔗 [ft.com](https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-5h ago
+6h ago
 
 ---
 
@@ -89,7 +89,7 @@ I’m looking for free tools to generate AI videos. I’m not interested in paid
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-7h ago
+8h ago
 
 ---
 
@@ -105,7 +105,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
 
-🔗 [NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot) • 2h ago
+🔗 [NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot) • 3h ago
 
 ---
 
@@ -113,7 +113,7 @@ ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-20h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 3h ago
+Axios • 15h ago
 
 ---
 
@@ -131,47 +131,45 @@ Axios • 3h ago
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 37m ago
+The Washington Post • 1h ago
 
 ---
 
-**[Trump leans on Utah Republicans to scrap AI safety bill](https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5)**
+**['The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears](https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html)**
 
-Memo sent to state lawmakers threatens to escalate feud between the White House and conservative states
+Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
 
-Financial Times • 2h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs](https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-ai-safety-staff-departures-raise-worries-about-industry-pursuing-profit-at-all-costs)**
+**[AI Risk Is Dominating Conference Calls as Investors Dump Stocks](https://www.bloomberg.com/news/articles/2026-02-15/ai-risk-is-dominating-conference-calls-as-investors-dump-stocks)**
+
+Bloomberg • 8h ago
+
+---
+
+**[The AI trade has entered a puzzling phase. Do we know who the winners are anymore?](https://www.cnbc.com/2026/02/15/jim-cramer-weighs-in-on-the-anthropic-fueled-software-stock-sell-off-.html)**
+
+In his Sunday column for Investing Club subscribers, Jim Cramer explores the software sell-off and Anthropic's influence on the stock market.
+
+CNBC • 46m ago
+
+---
+
+**[AI robots built for companionship ignite debate on relationships](https://www.foxnews.com/video/6389311450112)**
+
+'The Big Weekend Show' panel discusses the impact of artificial intelligence on human connection as one survey indicates 20% of teens are in a relationship with AI.
+
+Fox News • 33m ago
+
+---
+
+**[The Guardian view on AI: safety staff departures raise worries about industry pursuing profit at all costs | Editorial](https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-ai-safety-staff-departures-raise-worries-about-industry-pursuing-profit-at-all-costs)**
 
 Editorial: Cash-hungry Silicon Valley firms are scrambling for revenue. Regulate them now before the tech becomes too big to fail
 
-The Guardian • 28m ago
-
----
-
-**[‘It’s over for us’: release of new AI video generator Seedance 2.0 spooks Hollywood](https://www.theguardian.com/film/2026/feb/13/new-ai-video-generator-seedance-tom-cruise-brad-pitt)**
-
-An AI clip featuring Tom Cruise and Brad Pitt fighting has caused concern among industry figures
-
-The Guardian • 2d ago
-
----
-
-**[Hollywood isn’t happy about the new Seedance 2.0 video generator](https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/)**
-
-Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.
-
-TechCrunch • 2h ago
-
----
-
-**[New AI Video Generator Is So Impressive That It’s Scaring Hollywood](https://futurism.com/artificial-intelligence/seedance-ai-video-generator-scaring-hollywood)**
-
-ByteDance has once again upped the ante with the latest version of its Seedance AI video generating tool. Hollywood is scared.
-
-Futurism • 16h ago
+The Guardian • 1h ago
 
 ---
 
@@ -393,7 +391,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 128,078 • ❤️ 1,184 • 2d ago
+⬇️ 128,078 • ❤️ 1,189 • 2d ago
 
 ---
 
@@ -405,7 +403,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 11,092 • ❤️ 587 • 1d ago
+⬇️ 11,092 • ❤️ 595 • 1d ago
 
 ---
 
@@ -429,7 +427,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 756,817 • ❤️ 2,177 • 10d ago
+⬇️ 756,817 • ❤️ 2,180 • 10d ago
 
 ---
 
@@ -441,7 +439,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 11,129 • ❤️ 402 • 2d ago
+⬇️ 11,129 • ❤️ 405 • 2d ago
 
 ---
 
@@ -453,7 +451,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 855,997 • ❤️ 1,044 • 6d ago
+⬇️ 855,997 • ❤️ 1,045 • 6d ago
 
 ---
 
@@ -465,7 +463,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 270,983 • ❤️ 865 • 12d ago
+⬇️ 270,983 • ❤️ 866 • 12d ago
 
 ---
 
@@ -489,7 +487,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,303 • ❤️ 206 • 3d ago
+⬇️ 6,303 • ❤️ 207 • 3d ago
 
 ---
 
@@ -501,7 +499,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,992 • ❤️ 530 • 2d ago
+⬇️ 5,992 • ❤️ 531 • 2d ago
 
 ---
 
@@ -588,32 +586,6 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 ---
 
-**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
-
-*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
-
-A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
-
-▲ 9 • 💬 1 • ⭐ 53,221 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
-
----
-
-**[SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://huggingface.co/papers/2602.09153)**
-
-*Nicholas Pfaff, Thomas Cohn, Sergey Zakharov et al. (5 authors)*
-
-🏢 Toyota Research Institute
-
-SceneSmith is a hierarchical agentic framework that generates simulation-ready indoor environments from natural language prompts through multiple stages involving VLM agents and integrated asset generation techniques.
-
-▲ 4 • 💬 2 • ⭐ 199 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.09153) • [💻 code](https://github.com/nepfaff/scenesmith) • [🔗 project](https://scenesmith.github.io/)
-
----
-
 **[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
 
 *Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
@@ -637,6 +609,31 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 ▲ 134 • 💬 6 • ⭐ 14,745 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
+**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
+
+*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
+
+A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
+
+▲ 9 • 💬 1 • ⭐ 53,241 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 35 • 💬 1 • ⭐ 70,333 • 29mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -714,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 142 • 13h ago
+⭐ 2.1k • 🔱 142 • 14h ago
 
 ---
 
@@ -734,7 +731,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 242 • 23m ago
+⭐ 1.9k • 🔱 242 • 1h ago
 
 ---
 

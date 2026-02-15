@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T17:53:01.655147+00:00'
+updated: '2026-02-15T18:38:14.683114+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 17:53 UTC  
+**Last Updated:** February 15, 2026 at 18:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.2%  
-**7d:** -5.1%  
-**30d:** -39.7%  
-**90d:** -36.1%  
-**1y:** -24.9%  
+**24h:** -6.3%  
+**7d:** -7.0%  
+**30d:** -40.9%  
+**90d:** -37.4%  
+**1y:** -26.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-5h ago
+6h ago
 
 ---
 
@@ -158,11 +158,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
+**[Ethereum Co-Founder Vitalik Buterin Calls for Prediction Market Reset](https://news.bitcoin.com/ethereum-co-founder-vitalik-buterin-calls-for-prediction-market-reset/)**
 
-The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
+Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
 
-The Block • 3d ago
+Bitcoin.com News • 1h ago
 
 ---
 
@@ -194,7 +194,7 @@ CoinDesk • 2d ago
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 19h ago
+dlnews.com • 20h ago
 
 ---
 
@@ -202,29 +202,29 @@ dlnews.com • 19h ago
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
 
-BeInCrypto • 12h ago
+BeInCrypto • 13h ago
 
 ---
 
 **[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
-**[Ethereum Is Crushing XRP in 1 Key Arena. Should You Buy It With $1,000?](https://www.fool.com/investing/2026/02/15/ethereum-is-crushing-xrp-in-1-key-arena-should-you/)**
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
 
-Ethereum is seeing a flood of assets into its network.
+The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
 
-The Motley Fool • 7h ago
+The Motley Fool • 1d ago
 
 ---
 
-**[LBank Launches 16th BoostHub Campaign Featuring Ethereum with 30 ETH in Rewards](https://markets.businessinsider.com/news/currencies/lbank-launches-16th-boosthub-campaign-featuring-ethereum-with-30-eth-in-rewards-1035828448)**
+**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
 
-Singapore, Singapore, February 14th, 2026, ChainwireLBank, the leading global crypto exchange, today announced the launch of ...
+The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
 
-markets.businessinsider.com • 1d ago
+The Block • 3d ago
 
 ---
 
@@ -238,7 +238,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 358 • ⏱️ 34:57 • 17h ago
+👁️ 46K • 👍 2K • 💬 358 • ⏱️ 34:57 • 18h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 120 • 💬 5 • ⏱️ 4:45 • 3h ago
+👁️ 1K • 👍 120 • 💬 5 • ⏱️ 4:45 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 558 • 👍 37 • 💬 19 • ⏱️ 13:02 • 3h ago
+👁️ 558 • 👍 37 • 💬 19 • ⏱️ 13:02 • 4h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 247 • 👍 13 • 💬 2 • ⏱️ 4:36 • 7h ago
+👁️ 247 • 👍 13 • 💬 2 • ⏱️ 4:36 • 8h ago
 
 ---
 
@@ -318,7 +318,7 @@ Observers note a striking pattern: Ethereum has tanked over 50% eight separate t
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 390 • 👍 6 • ⏱️ 1:08 • 3h ago
+👁️ 390 • 👍 6 • ⏱️ 1:08 • 4h ago
 
 ---
 
@@ -328,7 +328,7 @@ The developments in the utility crypto space is interesting today. We have great
 
 📺 Crypto Growth
 
-👁️ 216 • 👍 29 • 💬 18 • ⏱️ 17:21 • 2h ago
+👁️ 216 • 👍 29 • 💬 18 • ⏱️ 17:21 • 3h ago
 
 ---
 

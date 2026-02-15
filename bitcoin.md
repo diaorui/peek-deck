@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T17:53:01.649096+00:00'
+updated: '2026-02-15T18:38:14.677173+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 17:53 UTC  
+**Last Updated:** February 15, 2026 at 18:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-5h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-11h ago
+12h ago
 
 ---
 
@@ -117,7 +117,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-20h ago
+21h ago
 
 ---
 
@@ -133,7 +133,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actually instrumental in shaping my early interest in Bitcoin. I appreciated the thoughtful guests, organic conversations, and what felt like a politically neutral commitment to information. Also, I loved that she was a woman contributing in a male dominated space. However, as I’ve begun following her on other platforms, I’ve found myself increasingly surprised, and frankly disappointed, by the content she chooses to amplify. Given her journalistic background, the recirculation of easily debunked claims and politically loaded narratives feels at odds with the credibility she originally built. At a certain point, the casual sharing of baseless memes and tweets, and unverified claims begins to undermine the very authority that made her platform compelling in the first place. I’d love to know what outlets, podcasts, or writers people trust today for nuanced, intellectually honest Bitcoin coverage?
 
-28m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 21 years old and Complete bitcoin/crypto beginner, however I’d rather put my money to work than let the fiat rot in a bank. Very interesting life setup I currently have - £200/m rent, low expenses, £3k+ monthly salary. Planning to DCA for the next 4 years ~£600 a week. Also planning to cop a Trezor 7 and just lock the BTC away until I plan to move countries and make use of the 10% tax in Eastern Europe instead of getting graped by the UK 20%+. Any tips or suggestions would be appreciated.
 
-1h ago
+2h ago
 
 ---
 
@@ -157,61 +157,19 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 ## Google News: "bitcoin"
 
+**[In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
+
+As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
+
+CNBC • 3h ago
+
+---
+
 **[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
 Nasdaq • 1d ago
-
----
-
-**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
-
-Forbes • 1d ago
-
----
-
-**[In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
-
-As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
-
-CNBC • 2h ago
-
----
-
-**[Proof Of Work Is What’s In Your Wallet, Not On The Bitcoin Blockchain](https://www.forbes.com/sites/johntamny/2026/02/15/proof-of-work-is-whats-in-your-wallet-not-on-the-bitcoin-blockchain/)**
-
-Forbes • 2h ago
-
----
-
-**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
-
-Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
-
-BBC • 15h ago
-
----
-
-**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
-
-The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
-
-MLive.com • 9h ago
-
----
-
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfnmIjw5Oi2vrMf-LeEI7ipmbeVMReODaJPcuT7FAuXAg5ZJto2nWJV&gaa_ts=69920557&gaa_sig=YgbrrCRfSQW2hwyA2bAFMb2ZHrKpqELU1blZFDVUA7QzoYlXcqTNXaBZi4ymW5q2e-j3NALk_HM8FDOg3SFmQQ%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
-
-After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
-
-Bitcoin Magazine • 12h ago
 
 ---
 
@@ -223,11 +181,53 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqcECcHsoxU-4pmGJgBgydeoZNY_e1IEdYQ0ROzBVuDLZt7aKI85ex8p&gaa_ts=69920557&gaa_sig=gtvoZPJQJZtWaWYi5mpSBkuOGrmmm0I33HkbQvvgkb55a5-Mx2YZV5maCPLdDL68N2NeMkBXCMIZB1kUqMQNWg%3D%3D)**
+**[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
-Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
+Forbes • 7h ago
 
-The Times • 19h ago
+---
+
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqdFaak_XDh0KRUK3x7UmROrR1bnFg3Cd1iRg3FXXAiNNDEsRPlk0_qy&gaa_ts=69921606&gaa_sig=P8Ln1V2pwpM9xWEBK19jo2LsqietgzD9C1yP9QRvp-CfQRWHD1cacui5U4ZnS2vKNSyKC3oPj3XR38P2vcWXIQ%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
+
+Bloomberg • 2d ago
+
+---
+
+**[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
+
+After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
+
+Bitcoin Magazine • 13h ago
+
+---
+
+**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
+
+Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
+
+New York Post • 1d ago
+
+---
+
+**[Wall Street remains bullish on bitcoin while offshore traders retreat](https://www.coindesk.com/markets/2026/02/15/wall-street-remains-bullish-on-bitcoin-while-offshore-traders-retreat)**
+
+The difference in futures basis between CME and Deribit reflects varying risk appetite across regions.
+
+CoinDesk • 6h ago
+
+---
+
+**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
+
+The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
+
+MLive.com • 10h ago
 
 ---
 
@@ -261,7 +261,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 19h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 20h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -269,7 +269,7 @@ Track billions in lost Bitcoin. Explore case studies, check dormant wallets, cal
 
 What do Bitcoin miners actually do? An interactive exploration of hashing, difficulty adjustment, and why proof of work makes Bitcoin sound money.
 
-⬆️ 2 • 💬 2 • 3d ago • [bennet.org](https://bennet.org/learn/proof-of-work-what-bitcoin-mining-really-does/)
+⬆️ 2 • 💬 2 • 4d ago • [bennet.org](https://bennet.org/learn/proof-of-work-what-bitcoin-mining-really-does/)
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 587 • 💬 135 • ⏱️ 30:55 • 3h ago
+👁️ 9K • 👍 587 • 💬 135 • ⏱️ 30:55 • 4h ago
 
 ---
 
@@ -341,7 +341,7 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 175 • 💬 15 • ⏱️ 7:14 • 1h ago
+👁️ 2K • 👍 175 • 💬 15 • ⏱️ 7:14 • 2h ago
 
 ---
 
@@ -361,7 +361,7 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 204 • 💬 14 • ⏱️ 20:41 • 19h ago
+👁️ 4K • 👍 204 • 💬 14 • ⏱️ 20:41 • 20h ago
 
 ---
 
