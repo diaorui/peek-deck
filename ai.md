@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T08:35:00.751522+00:00'
+updated: '2026-02-15T09:33:19.169971+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- news
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 08:35 UTC  
+**Last Updated:** February 15, 2026 at 09:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 16h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 17h ago
 
 ---
 
@@ -49,7 +49,7 @@ Mustafa Suleyman believes current AI computational power will only accelerate, d
 
 The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 21h ago
+🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 22h ago
 
 ---
 
@@ -57,7 +57,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +65,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
 
-13h ago
+14h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hey everyone, I’m a backend developer with a background in fintech. Lately, I�
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-9h ago
+10h ago
 
 ---
 
@@ -81,7 +81,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 17h ago
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 18h ago
 
 ---
 
@@ -89,7 +89,7 @@ It does not happen very often in the history of business that an orthogonal prod
 
 Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai) • 9h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai) • 10h ago
 
 ---
 
@@ -123,13 +123,13 @@ Running a one-person operation, I rely on AI for marketing, strategy, and conten
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
 **[Pentagon threatens to cut off Anthropic in AI safeguards dispute, Axios reports](https://www.reuters.com/technology/pentagon-threatens-cut-off-anthropic-ai-safeguards-dispute-axios-reports-2026-02-15/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -137,7 +137,7 @@ Reuters • 6h ago
 
 Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Guardian • 16h ago
 
 New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Financial Times • 3h ago
+Financial Times • 4h ago
 
 ---
 
@@ -153,7 +153,7 @@ Financial Times • 3h ago
 
 Agenic AI apps first interview you and then give you limited matches selected for ‘similarity and reciprocity of personality’
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Guardian • 1h ago
 
 CNN’s Hadas Gold visited a New York restaurant temporarily transformed into an AI companion–only dating experience to see what a virtual Valentine’s date really feels like.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -169,25 +169,25 @@ CNN • 19h ago
 
 Ahead of Valentine’s Day, EVA AI hosted a pop up where human users could take their AI companions on a date. I went to see what it's like.
 
-USA Today • 19h ago
+USA Today • 20h ago
 
 ---
 
 **[AI (artificial intelligence)](https://www.theguardian.com/technology/artificialintelligenceai/2026/feb/15/all)**
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
 **[Will A.I. Kill Translation Jobs?](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
 **[AI Bubble Fears Are Creating New Derivatives](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly)**
 
-Bloomberg • 12h ago
+Bloomberg • 13h ago
 
 ---
 
@@ -228,7 +228,7 @@ IMPORTANT: This is a more targeted fix than originally proposed. ...
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 477 • 💬 302 • 13h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 477 • 💬 302 • 14h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -274,13 +274,13 @@ A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's 
 
 ## YouTube Videos: "ai"
 
-**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
+**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
 
-An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
+Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
 
-📺 CBS LA
+📺 Asmongold TV  
 
-👁️ 44K • 👍 424 • 💬 240 • ⏱️ 3:04 • 1d ago
+👁️ 577K • 👍 19K • 💬 4K • ⏱️ 20:40 • 1d ago
 
 ---
 
@@ -290,7 +290,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 11K • 👍 665 • 💬 54 • ⏱️ 7:05 • 17h ago
+👁️ 12K • 👍 681 • 💬 58 • ⏱️ 7:05 • 18h ago
+
+---
+
+**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
+
+An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
+
+📺 CBS LA
+
+👁️ 52K • 👍 487 • 💬 267 • ⏱️ 3:04 • 1d ago
 
 ---
 
@@ -300,27 +310,7 @@ New concerns over the safety of artificial intelligence are growing after the le
 
 📺 ABC News
 
-👁️ 107K • 👍 1K • 💬 618 • ⏱️ 3:58 • 2d ago
-
----
-
-**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
-
-Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
-
-📺 Spacialize
-
-👁️ 83K • 👍 2K • 💬 336 • ⏱️ 17:28 • 2d ago
-
----
-
-**[Why This NYC CEO&#39;s Chilling Warning On AI Has Gone Viral: &#39;People Deserve To Hear What&#39;s Coming&#39;](https://www.youtube.com/watch?v=gguvQKah37o)**
-
-Matt Schumer is a New York based CEO who's been working with and investing in a bunch of AI firms - and one warning from him ...
-
-📺 Mint
-
-👁️ 62K • 👍 853 • 💬 215 • ⏱️ 8:19 • 1d ago
+👁️ 115K • 👍 1K • 💬 651 • ⏱️ 3:58 • 2d ago
 
 ---
 
@@ -330,37 +320,27 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 293K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
+👁️ 304K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
 
 ---
 
-**[Laughing At Dumb AI Videos (Seedance 2)](https://www.youtube.com/watch?v=QO8VXljyJ-I)**
+**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
 
-more slop merch that ISN'T AI SLOP - https://dandingle.store/ everything in this video is AI and not real edited by: me become a ...
+Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
 
-📺 Dan Dingle
+📺 Spacialize
 
-👁️ 96K • 👍 7K • 💬 1K • ⏱️ 18:00 • 1d ago
-
----
-
-**[SeeDance 2.0: The Next Level of AI Video — And What It Means for Local AI Users?](https://www.youtube.com/watch?v=G1Ad4a8sdJU)**
-
-SeedDance 2.0 is taking the AI video world by storm—and in this hands-on deep dive, I test ByteDance's powerful new ...
-
-📺 Benji’s AI Playground
-
-👁️ 12K • 👍 229 • 💬 45 • ⏱️ 14:15 • 21h ago
+👁️ 85K • 👍 2K • 💬 336 • ⏱️ 17:28 • 2d ago
 
 ---
 
-**[DeepMind Leaked Possibly the Greatest AI Ever](https://www.youtube.com/watch?v=OTRvoxPSQ_8)**
+**[Seedance 2.0, RIP OpenClaw, Minimax M2.5, Google dominates, GLM-5, AI singing, new TTS: AI NEWS](https://www.youtube.com/watch?v=hsQA5TSHZ7I)**
 
-Sponsored by Genspark. Try the all-in-one AI workplace for free: ...
+HUGE AI NEWS: Seedance 2.0, Qwen Image 2.0, Gemini Deep Think, GLM5, SoulX Singer #ai #ainews #aitools #aivideo #agi ...
 
-📺 Pourya Kordi
+📺 AI Search
 
-👁️ 29K • 👍 1K • 💬 100 • ⏱️ 13:42 • 1d ago
+👁️ 32K • 👍 2K • 💬 242 • ⏱️ 48:16 • 6h ago
 
 ---
 
@@ -370,7 +350,27 @@ Congratulations, America. We have now reached the point where you can automate d
 
 📺 The Ring of Fire
 
-👁️ 5K • 👍 783 • 💬 50 • ⏱️ 5:13 • 14h ago
+👁️ 6K • 👍 794 • 💬 51 • ⏱️ 5:13 • 15h ago
+
+---
+
+**[Why This NYC CEO&#39;s Chilling Warning On AI Has Gone Viral: &#39;People Deserve To Hear What&#39;s Coming&#39;](https://www.youtube.com/watch?v=gguvQKah37o)**
+
+Matt Schumer is a New York based CEO who's been working with and investing in a bunch of AI firms - and one warning from him ...
+
+📺 Mint
+
+👁️ 67K • 👍 905 • 💬 231 • ⏱️ 8:19 • 1d ago
+
+---
+
+**[SeeDance 2.0: The Next Level of AI Video — And What It Means for Local AI Users?](https://www.youtube.com/watch?v=G1Ad4a8sdJU)**
+
+SeedDance 2.0 is taking the AI video world by storm—and in this hands-on deep dive, I test ByteDance's powerful new ...
+
+📺 Benji’s AI Playground
+
+👁️ 13K • 👍 242 • 💬 46 • ⏱️ 14:15 • 22h ago
 
 ---
 
@@ -386,7 +386,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 66,826 • ❤️ 1,159 • 1d ago
+⬇️ 128,078 • ❤️ 1,166 • 1d ago
 
 ---
 
@@ -398,7 +398,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 6,091 • ❤️ 557 • 1d ago
+⬇️ 11,092 • ❤️ 567 • 1d ago
 
 ---
 
@@ -410,7 +410,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,569 • ❤️ 433 • 3d ago
+⬇️ 2,986 • ❤️ 434 • 3d ago
 
 ---
 
@@ -422,7 +422,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 725,856 • ❤️ 2,171 • 10d ago
+⬇️ 756,817 • ❤️ 2,172 • 10d ago
 
 ---
 
@@ -434,7 +434,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 3,906 • ❤️ 371 • 1d ago
+⬇️ 11,129 • ❤️ 376 • 1d ago
 
 ---
 
@@ -446,7 +446,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation`
 
-⬇️ 249,228 • ❤️ 860 • 11d ago
+⬇️ 270,983 • ❤️ 863 • 11d ago
 
 ---
 
@@ -458,7 +458,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 788,443 • ❤️ 1,041 • 6d ago
+⬇️ 855,997 • ❤️ 1,041 • 6d ago
 
 ---
 
@@ -470,7 +470,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 44,892 • ❤️ 841 • 1d ago
+⬇️ 45,216 • ❤️ 841 • 1d ago
 
 ---
 
@@ -482,7 +482,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 5,865 • ❤️ 200 • 3d ago
+⬇️ 6,303 • ❤️ 201 • 3d ago
 
 ---
 
@@ -494,7 +494,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,711 • ❤️ 523 • 1d ago
+⬇️ 5,992 • ❤️ 525 • 1d ago
 
 ---
 
@@ -510,7 +510,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 180 • 💬 12 • ⭐ 3,512 • 15d ago
+▲ 181 • 💬 12 • ⭐ 3,512 • 15d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -524,7 +524,7 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 60 • 💬 6 • ⭐ 13,284 • 4mo ago
+▲ 61 • 💬 6 • ⭐ 13,284 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -569,20 +569,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://huggingface.co/papers/2602.09153)**
-
-*Nicholas Pfaff, Thomas Cohn, Sergey Zakharov et al. (5 authors)*
-
-🏢 Toyota Research Institute
-
-SceneSmith is a hierarchical agentic framework that generates simulation-ready indoor environments from natural language prompts through multiple stages involving VLM agents and integrated asset generation techniques.
-
-▲ 4 • 💬 2 • ⭐ 195 • 5d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.09153) • [💻 code](https://github.com/nepfaff/scenesmith) • [🔗 project](https://scenesmith.github.io/)
-
----
-
 **[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
 
 *Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
@@ -613,9 +599,23 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
 
-▲ 9 • 💬 1 • ⭐ 53,194 • 16mo ago
+▲ 9 • 💬 1 • ⭐ 53,221 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
+
+---
+
+**[SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://huggingface.co/papers/2602.09153)**
+
+*Nicholas Pfaff, Thomas Cohn, Sergey Zakharov et al. (5 authors)*
+
+🏢 Toyota Research Institute
+
+SceneSmith is a hierarchical agentic framework that generates simulation-ready indoor environments from natural language prompts through multiple stages involving VLM agents and integrated asset generation techniques.
+
+▲ 4 • 💬 2 • ⭐ 199 • 5d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.09153) • [💻 code](https://github.com/nepfaff/scenesmith) • [🔗 project](https://scenesmith.github.io/)
 
 ---
 
@@ -676,7 +676,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 250 • 2h ago
+⭐ 2.5k • 🔱 251 • 3h ago
 
 ---
 
@@ -706,7 +706,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 139 • 4h ago
+⭐ 2.1k • 🔱 141 • 5h ago
 
 ---
 
@@ -716,7 +716,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.9k • 🔱 199 • 1d ago
+⭐ 1.9k • 🔱 200 • 1d ago
 
 ---
 
@@ -726,7 +726,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.8k • 🔱 230 • 21h ago
+⭐ 1.8k • 🔱 231 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T08:35:00.769361+00:00'
+updated: '2026-02-15T09:33:19.187797+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 08:35 UTC  
+**Last Updated:** February 15, 2026 at 09:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-15h ago
+16h ago
 
 ---
 
@@ -44,7 +44,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-15h ago
+16h ago
 
 ---
 
@@ -52,7 +52,7 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -60,7 +60,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-7m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-11h ago
+12h ago
 
 ---
 
@@ -96,7 +96,7 @@ Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . R
 
 I am designing an autonomous surface vehicle that provides as assistance and rescue to open water swimmers. I have doing some math to determine the hull and thruster size. So far the design looks like this https://preview.redd.it/i1q8tx87sjjg1.png?width=706&format=png&auto=webp&s=f082aab242ac18087e75d0c8f9e8fb18ef35de2d https://preview.redd.it/71huppe9sjjg1.png?width=888&format=png&auto=webp&s=e659a1118be31d954e1624d5f472d78d338c6758 Main thruster can be seen in the back, along the stabilizer wings. The smaller ones are maneuvering thusters for low speed movements and also to compensate against drift current. Next step will be probably adding the wearable beacon that enables GPS tracking.
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ I am designing an autonomous surface vehicle that provides as assistance and res
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 13h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 14h ago
 
 ---
 
@@ -200,7 +200,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 293K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
+👁️ 304K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 249K • 👍 4K • 💬 552 • ⏱️ 53:47 • 20h ago
+👁️ 285K • 👍 4K • 💬 583 • ⏱️ 53:47 • 21h ago
 
 ---
 
@@ -220,7 +220,17 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 10K • 👍 276 • 💬 10 • ⏱️ 0:59 • 12h ago
+👁️ 10K • 👍 296 • 💬 10 • ⏱️ 0:59 • 13h ago
+
+---
+
+**[Unitree Embodied AI Model Manufactures Robots in Factory🤩](https://www.youtube.com/watch?v=ub2gWviKZpk)**
+
+Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment at Unitree's own robot factory.
+
+📺 Unitree Robotics
+
+👁️ 30K • 👍 748 • 💬 121 • ⏱️ 0:45 • 1d ago
 
 ---
 
@@ -230,7 +240,7 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 DPCcars
 
-👁️ 2K • 👍 56 • 💬 8 • ⏱️ 1:24 • 18h ago
+👁️ 2K • 👍 60 • 💬 8 • ⏱️ 1:24 • 19h ago
 
 ---
 
@@ -240,27 +250,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 136K • 👍 2K • 💬 23 • ⏱️ 0:06 • 7h ago
-
----
-
-**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
-
-Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 101 • 💬 8 • ⏱️ 9:26 • 5d ago
-
----
-
-**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
-
-Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
-
-📺 Jeff Geerling
-
-👁️ 84K • 👍 4K • 💬 257 • ⏱️ 12:38 • 1d ago
+👁️ 313K • 👍 4K • 💬 36 • ⏱️ 0:06 • 8h ago
 
 ---
 
@@ -270,7 +260,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 54 • 💬 5 • ⏱️ 0:21 • 14h ago
+👁️ 2K • 👍 57 • 💬 5 • ⏱️ 0:21 • 15h ago
 
 ---
 
@@ -278,17 +268,27 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Romi Pal
 
-👁️ 59K • 👍 1K • 💬 14 • ⏱️ 0:37 • 11h ago
+👁️ 74K • 👍 1K • 💬 15 • ⏱️ 0:37 • 12h ago
 
 ---
 
-**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
+**[Optimus Will Change Everything #ElonMusk #Optimus #AI #Robotics #FutureTech #Innovation #robolution](https://www.youtube.com/watch?v=2vcqxrt9dEs)**
 
-Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+A bold statement like this instantly ignites curiosity and debate across the world of technology and innovation. When visionary ...
 
-📺 Slidebean
+📺 Billionaire Shots
 
-👁️ 15K • 👍 544 • 💬 27 • ⏱️ 1:21 • 5d ago
+👁️ 5K • 👍 570 • 💬 77 • ⏱️ 0:25 • 6h ago
+
+---
+
+**[The Humanoid Takeover: $50T Market, Figure&#39;s Full Body Autonomy, and Robots in Dorms #229](https://www.youtube.com/watch?v=S_fXhVT67Uw)**
+
+Peter & Dave sit down with Brett Adcock to discuss the future of Figure and Humanoid Robots. Get access to metatrends 10+ ...
+
+📺 Peter H. Diamandis
+
+👁️ 102K • 👍 3K • 💬 1K • ⏱️ 1:43:48 • 3d ago
 
 ---
 

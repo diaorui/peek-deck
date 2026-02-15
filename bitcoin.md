@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T08:35:00.760002+00:00'
+updated: '2026-02-15T09:33:19.178532+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 08:35 UTC  
+**Last Updated:** February 15, 2026 at 09:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1406.00B
+**Market Cap:** $1410.60B
 Rank #1
 
 **Circulating Supply:** 19,989,546 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.2%
+-44.0%
 
 **All-Time Low:** $67.81
-+103656.1%
++103968.7%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-12h ago
+13h ago
 
 ---
 
@@ -97,7 +97,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 6h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 7h ago
 
 ---
 
@@ -105,7 +105,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-15h ago
+16h ago
 
 ---
 
@@ -113,7 +113,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-3h ago
+4h ago
 
 ---
 
@@ -135,7 +135,7 @@ What would you say we are looking at for predictions for 1,3,5 years
 
 Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
 
-7h ago
+8h ago
 
 ---
 
@@ -143,7 +143,7 @@ Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 So I just open a coffe shop for runners, I’m a hodlr and I want to accept bitcoin as form of payment where do start how do I convert in real time the price of my client orders to BTC, is there an app I can use to keep tab of my income like: 02/03/2026 1 coffe $1.5dlls=.xxxxbtc Or any suggestion how can I keep tabs on BTC transactions like this so at the end of the month I can reconcile my inventory and sales ? Also I want it to go directly to a cold wallet Any suggestion? Should I have a device exclusively to do this and at the end of the day have it send to cold wallet? Is it too much hassle? Is there an easier way? Thanks Sorry if I’m not expressing correctly. It’s not my first language.
 
-1h ago
+2h ago
 
 ---
 
@@ -163,7 +163,7 @@ So I just open a coffe shop for runners, I’m a hodlr and I want to accept bitc
 
 Despite its 45% fall since its October peak, Bitcoin has not yet found its bear market bottom, according to a new report from CryptoQuant.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -171,7 +171,7 @@ Yahoo Finance • 16h ago
 
 After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
 
-Bitcoin Magazine • 3h ago
+Bitcoin Magazine • 4h ago
 
 ---
 
@@ -179,13 +179,13 @@ Bitcoin Magazine • 3h ago
 
 Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
 **[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 19h ago
+Forbes • 20h ago
 
 ---
 
@@ -193,13 +193,13 @@ Forbes • 19h ago
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-MLive.com • 35m ago
+MLive.com • 1h ago
 
 ---
 
 **[Did CleanSpark’s (CLSK) Swing to Quarterly Loss and Bitcoin Reliance Just Shift Its Investment Narrative?](https://uk.finance.yahoo.com/news/did-cleanspark-clsk-swing-quarterly-071134641.html)**
 
-Yahoo Finance UK • 1h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance UK • 1h ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -223,7 +223,7 @@ CNBC • 2d ago
 
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-Nasdaq • 19h ago
+Nasdaq • 20h ago
 
 ---
 
@@ -287,7 +287,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 10h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 11h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -325,7 +325,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 182 • 💬 4 • ⏱️ 17:15 • 15h ago
+👁️ 4K • 👍 187 • 💬 5 • ⏱️ 17:15 • 16h ago
 
 ---
 
@@ -335,7 +335,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 269 • 💬 27 • ⏱️ 8:36 • 9h ago
+👁️ 5K • 👍 289 • 💬 29 • ⏱️ 8:36 • 10h ago
 
 ---
 
@@ -345,47 +345,37 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 271 • ⏱️ 15:20 • 1d ago
+👁️ 61K • 👍 3K • 💬 275 • ⏱️ 15:20 • 1d ago
 
 ---
 
-**[BITCOIN &amp; ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oNFCq8jGs4o)**
+**[THE FINAL BITCOIN MOVE... (prepare accordingly)](https://www.youtube.com/watch?v=qFEIPmIEc9A)**
 
-BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
 
-📺 Crypto World
+📺 Crypto Rover
 
-👁️ 6K • 👍 240 • 💬 25 • ⏱️ 17:42 • 10h ago
-
----
-
-**[Bitcoin Miners Are Abandoning BTC... And No One Is Talking About Why](https://www.youtube.com/watch?v=cQj0D74gT_Y)**
-
-Recently Bitcoin crashed to $60000, below key support levels set by the previous cycle. This has put BTC's price in the danger ...
-
-📺 Coin Bureau
-
-👁️ 59K • 👍 2K • 💬 343 • ⏱️ 19:46 • 18h ago
+👁️ 4K • 👍 398 • 💬 18 • ⏱️ 10:24 • 3h ago
 
 ---
 
-**[BITCOIN: This Signal Has NEVER Been Wrong! (big warning) - BTC Price Prediction Today](https://www.youtube.com/watch?v=75R43zJ4Hos)**
+**[Bitcoin Dominance](https://www.youtube.com/watch?v=3PCBcXqTx2g)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
 
-📺 BitcoinHyper
+📺 Benjamin Cowen
 
-👁️ 10K • 👍 630 • 💬 26 • ⏱️ 14:31 • 20h ago
+👁️ 14K • 👍 1K • 💬 53 • ⏱️ 18:10 • 3h ago
 
 ---
 
-**[The Epstein–Bitcoin Conspiracy: Why They Want Us to Think the Bitcoin Network is Compromised](https://www.youtube.com/watch?v=Cm5L2V6WUDE)**
+**[If You Hate Bitcoin and Think It’s a Scam, Watch This Video.](https://www.youtube.com/watch?v=8TmjIn3menw)**
 
-Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Tangem-x10* Easiest hardware wallet, portable ...
+Buy Bitcoin safely and affordably through Australia's leading Bitcoin brokerage Sign up for Stormrake Trade here: ...
 
-📺 Crypto Casey
+📺 Unemployable Media
 
-👁️ 13K • 👍 1K • 💬 133 • ⏱️ 15:01 • 19h ago
+👁️ 3K • 👍 372 • 💬 178 • ⏱️ 10:17 • 13h ago
 
 ---
 
@@ -395,17 +385,7 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 269K • 👍 9K • 💬 1K • ⏱️ 16:43 • 2d ago
-
----
-
-**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
-
-Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
-
-📺 Alessio Rastani
-
-👁️ 38K • 👍 3K • 💬 444 • ⏱️ 8:15 • 1d ago
+👁️ 271K • 👍 9K • 💬 1K • ⏱️ 16:43 • 2d ago
 
 ---
 
@@ -415,7 +395,27 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 39K • 👍 1K • ⏱️ 21:49 • 1d ago
+👁️ 40K • 👍 1K • ⏱️ 21:49 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
+
+Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
+
+📺 Alessio Rastani
+
+👁️ 39K • 👍 3K • 💬 449 • ⏱️ 8:15 • 1d ago
+
+---
+
+**[The Epstein–Bitcoin Conspiracy: Why They Want Us to Think the Bitcoin Network is Compromised](https://www.youtube.com/watch?v=Cm5L2V6WUDE)**
+
+Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Tangem-x10* Easiest hardware wallet, portable ...
+
+📺 Crypto Casey
+
+👁️ 14K • 👍 1K • 💬 137 • ⏱️ 15:01 • 20h ago
 
 ---
 
