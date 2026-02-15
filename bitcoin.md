@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T06:58:33.220566+00:00'
+updated: '2026-02-15T07:42:13.952285+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- videos
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 06:58 UTC  
+**Last Updated:** February 15, 2026 at 07:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-13h ago
+14h ago
 
 ---
 
@@ -119,7 +119,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ What would you say we are looking at for predictions for 1,3,5 years
 
 Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
 
-6h ago
+7h ago
 
 ---
 
@@ -135,7 +135,7 @@ Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-52m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Does anyone else have the feeling it will go back above 100k sooner than people expect? Everyone is talking about "the cycle is over" but what the crowd say will happen never happens, usually the opposite.. I'm not saying go all in but atleast if you're shorting, be very careful cause this can rocket in a brutal way Have a nice weekend everyone
 
-22h ago
+23h ago
 
 ---
 
@@ -151,7 +151,7 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-31m ago
+1h ago
 
 ---
 
@@ -163,13 +163,13 @@ Does anyone else have the feeling it will go back above 100k sooner than people 
 
 After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
 **[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 34m ago
+Forbes • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Forbes • 34m ago
 
 Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
-Nasdaq • 2h ago
+Nasdaq • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Nasdaq • 2h ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 2d ago
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 8h ago
+dlnews.com • 9h ago
 
 ---
 
@@ -217,7 +217,7 @@ dlnews.com • 8h ago
 
 Both these assets have earned their place as leaders, but the next 10 years could be tough for one of them.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -233,7 +233,7 @@ IO Fund • 2d ago
 
 Welcome to the Weekender, where the only thing more volatile than Bitcoin is the human heart. In 2026, couples still swap playlists and promise forever,
 
-PYMNTS.com • 21h ago
+PYMNTS.com • 22h ago
 
 ---
 
@@ -289,7 +289,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 8h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 9h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -327,7 +327,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 182 • 💬 4 • ⏱️ 17:15 • 13h ago
+👁️ 3K • 👍 182 • 💬 4 • ⏱️ 17:15 • 14h ago
 
 ---
 
@@ -367,7 +367,7 @@ Recently Bitcoin crashed to $60000, below key support levels set by the previous
 
 📺 Coin Bureau
 
-👁️ 59K • 👍 2K • 💬 343 • ⏱️ 19:46 • 16h ago
+👁️ 59K • 👍 2K • 💬 343 • ⏱️ 19:46 • 17h ago
 
 ---
 
@@ -377,7 +377,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 10K • 👍 630 • 💬 26 • ⏱️ 14:31 • 18h ago
+👁️ 10K • 👍 630 • 💬 26 • ⏱️ 14:31 • 19h ago
 
 ---
 
@@ -387,7 +387,7 @@ Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Ta
 
 📺 Crypto Casey
 
-👁️ 13K • 👍 1K • 💬 133 • ⏱️ 15:01 • 17h ago
+👁️ 13K • 👍 1K • 💬 133 • ⏱️ 15:01 • 18h ago
 
 ---
 

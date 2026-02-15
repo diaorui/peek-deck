@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T06:58:33.229896+00:00'
+updated: '2026-02-15T07:42:13.961566+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 06:58 UTC  
+**Last Updated:** February 15, 2026 at 07:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,13 +52,13 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-13m ago
+57m ago
 
 ---
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-24m ago
+1h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ I am designing an autonomous surface vehicle that provides as assistance and res
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 11h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 12h ago
 
 ---
 
@@ -208,7 +208,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 249K • 👍 4K • 💬 552 • ⏱️ 53:47 • 18h ago
+👁️ 249K • 👍 4K • 💬 552 • ⏱️ 53:47 • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 136K • 👍 2K • 💬 23 • ⏱️ 0:06 • 5h ago
+👁️ 136K • 👍 2K • 💬 23 • ⏱️ 0:06 • 6h ago
 
 ---
 
@@ -268,7 +268,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 54 • 💬 5 • ⏱️ 0:21 • 12h ago
+👁️ 2K • 👍 54 • 💬 5 • ⏱️ 0:21 • 13h ago
 
 ---
 
@@ -276,7 +276,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Romi Pal
 
-👁️ 59K • 👍 1K • 💬 14 • ⏱️ 0:37 • 9h ago
+👁️ 59K • 👍 1K • 💬 14 • ⏱️ 0:37 • 10h ago
 
 ---
 

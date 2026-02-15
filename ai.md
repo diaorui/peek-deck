@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T06:58:33.211713+00:00'
+updated: '2026-02-15T07:42:13.943912+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 06:58 UTC  
+**Last Updated:** February 15, 2026 at 07:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 20h ago
+🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 21h ago
 
 ---
 
@@ -49,7 +49,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 14h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-9h ago
+10h ago
 
 ---
 
@@ -73,7 +73,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 Hey everyone, I’m a backend developer with a background in fintech. Lately, I’ve been experimenting with multi-agent systems, and one major issue I kept running into was collision. When you have multiple agents (or even one agent doing complex tasks) accessing the same files, APIs, or context, they tend to "step on each other's toes." They overwrite data, execute out of order, or hallucinate permissions they shouldn't have. It’s a mess. I realized what was missing was a Traffic Light. So I built Network-AI. It’s an open-source protocol that acts as a traffic control system for agent orchestration. How it works: Think of it like an intersection. Before an agent can execute a high-stakes tool (like writing to a database, moving a file, or sending a transaction), it hits a "Red Light." The Check: The protocol (specifically a module I call AuthGuardian) checks the agent’s credentials and the current state of the environment. The Green Light: Only if the "road is clear" (permissions are verified and no conflicts exist) does the agent get the green light to proceed. The Camera: Just like a traffic camera, there is an immutable audit trail of every green light given, so you can debug crashes later. Why I’m posting: I’m not selling anything. I just want to solve the problem of agents corrupting shared environments. I’d love for you to check out the repo and tell me if this "Traffic Light" architecture makes sense for your use cases, or if I’m over-engineering it. Repo:https://github.com/jovanSAPFIONEER/Network-AI all feedback is welcome
 
-11h ago
+12h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hey everyone, I’m a backend developer with a background in fintech. Lately, I�
 
 It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
 
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 15h ago
+🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 16h ago
 
 ---
 
@@ -89,7 +89,7 @@ It does not happen very often in the history of business that an orthogonal prod
 
 Elon Musk is “actively” working to make xAI’s Grok chatbot “more unhinged, according to a former employee.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai) • 8h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai) • 9h ago
 
 ---
 
@@ -123,13 +123,13 @@ Running a one-person operation, I rely on AI for marketing, strategy, and conten
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 4h ago
+Axios • 5h ago
 
 ---
 
 **[Pentagon threatens to cut off Anthropic in AI safeguards dispute, Axios reports](https://www.reuters.com/technology/pentagon-threatens-cut-off-anthropic-ai-safeguards-dispute-axios-reports-2026-02-15/)**
 
-Reuters • 4h ago
+Reuters • 5h ago
 
 ---
 
@@ -143,7 +143,7 @@ The Guardian • 15h ago
 
 **[Will A.I. Kill Translation Jobs?](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ The New York Times • 1h ago
 
 New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Variety • 2h ago
 
 **[AI Bubble Fears Are Creating New Derivatives](https://www.bloomberg.com/news/articles/2026-02-14/ai-bubble-fears-are-creating-new-derivatives-credit-weekly)**
 
-Bloomberg.com • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -292,7 +292,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 11K • 👍 665 • 💬 54 • ⏱️ 7:05 • 15h ago
+👁️ 11K • 👍 665 • 💬 54 • ⏱️ 7:05 • 16h ago
 
 ---
 
@@ -352,7 +352,7 @@ SeedDance 2.0 is taking the AI video world by storm—and in this hands-on deep 
 
 📺 Benji’s AI Playground
 
-👁️ 12K • 👍 229 • 💬 45 • ⏱️ 14:15 • 19h ago
+👁️ 12K • 👍 229 • 💬 45 • ⏱️ 14:15 • 20h ago
 
 ---
 
@@ -372,7 +372,7 @@ Congratulations, America. We have now reached the point where you can automate d
 
 📺 The Ring of Fire
 
-👁️ 5K • 👍 783 • 💬 50 • ⏱️ 5:13 • 12h ago
+👁️ 5K • 👍 783 • 💬 50 • ⏱️ 5:13 • 13h ago
 
 ---
 
@@ -484,7 +484,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 5,865 • ❤️ 200 • 2d ago
+⬇️ 5,865 • ❤️ 200 • 3d ago
 
 ---
 
@@ -678,7 +678,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 250 • 1h ago
+⭐ 2.5k • 🔱 250 • 2h ago
 
 ---
 
@@ -708,7 +708,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 139 • 2h ago
+⭐ 2.1k • 🔱 139 • 3h ago
 
 ---
 
@@ -728,7 +728,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.8k • 🔱 230 • 20h ago
+⭐ 1.8k • 🔱 230 • 21h ago
 
 ---
 
