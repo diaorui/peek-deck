@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T21:49:21.733858+00:00'
+updated: '2026-02-15T22:26:39.316952+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 21:49 UTC  
+**Last Updated:** February 15, 2026 at 22:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,13 +101,13 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
 
-2h ago
+3h ago
 
 ---
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -115,7 +115,7 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 
 I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actually instrumental in shaping my early interest in Bitcoin. I appreciated the thoughtful guests, organic conversations, and what felt like a politically neutral commitment to information. Also, I loved that she was a woman contributing in a male dominated space. However, as I’ve begun following her on other platforms, I’ve found myself increasingly surprised, and frankly disappointed, by the content she chooses to amplify. Given her journalistic background, the recirculation of easily debunked claims and politically loaded narratives feels at odds with the credibility she originally built. At a certain point, the casual sharing of baseless memes and tweets, and unverified claims begins to undermine the very authority that made her platform compelling in the first place. I’d love to know what outlets, podcasts, or writers people trust today for nuanced, intellectually honest Bitcoin coverage?
 
-4h ago
+5h ago
 
 ---
 
@@ -159,7 +159,7 @@ Saw this and had to share. It's funny to see how early we are that questions lik
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -171,61 +171,63 @@ Nasdaq • 1d ago
 
 ---
 
-**[Is CleanSpark (CLSK) Pricing Reflect Recent Share Weakness And Bitcoin Mining Sector Headlines](https://finance.yahoo.com/news/cleanspark-clsk-pricing-reflect-recent-180801733.html)**
-
-If you are wondering whether CleanSpark's current share price lines up with its underlying value, this article will walk through the key signals without the noise. The stock recently closed at US$9.85, with returns of a 2.3% decline over 7 days, 26.3% decline over 30 days, 14.7% decline year to date and 6.2% decline over 1 year, set against a very large 3 year return. Recent news coverage has focused on how bitcoin mining companies are reacting to changing market conditions and capital...
-
-Yahoo Finance • 3h ago
-
----
-
 **[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 19h ago
+BBC • 20h ago
+
+---
+
+**[Bitcoin Recovery Likely To Be 'Slow And Painful,' Analysts Warn: Watch This Key Level](https://finance.yahoo.com/news/bitcoin-recovery-likely-slow-painful-233113604.html)**
+
+Influential crypto traders Trader Mayne and DonAlt maintain a cautious, bearish-to-neutral stance on Bitcoin (CRYPTO: BTC), warning that a sharp V-shaped recovery is unlikely. ‘Slow, Grinding' Correction Ahead In their latest podcast, both analysts said they expect a prolonged, choppy...
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqf8Y6lXDFTfL99ZhkIPJ1euTUM5N26Pe-XiwfWjjgixrhCML70bYOLF&gaa_ts=699235a1&gaa_sig=c_7CIxGn7LZ8dSvo5FLHb_7QmQTcoBvCwB-dJU__ynFWrJxkuo6MgVb08UNKDcGpEDgMP2qTssBCJPCsm8iULw%3D%3D)**
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqcd2wfFmqwz8oySECe8s2fuxdczXV5aevCwVuLi_ELngAJ5CoTUYHlh&gaa_ts=69924b8b&gaa_sig=5RsrVufIW7-WWc6492k1uZ0pbgTJ1N8z07dqtfTO_TWxXhxlVlViQ4I0Lwjtko7cpD4hwaDzkAEIqbZseZm5_Q%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqc7lzZ_ppIwPhZB5e6P1MKBXiWRi9ycq5pY2o90e6mtjyIbzaHjzj71&gaa_ts=699235a1&gaa_sig=Z-oEfi3q6sSKuok1BCgDyuPRFeSOcc0seEaLLuv81Sk7tMqctcbDyBgYf_KUq4zDUZh6Iq0oPyijGrDuHEj5YA%3D%3D)**
+**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
+
+The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
+
+MLive.com • 14h ago
+
+---
+
+**[BlackRock's head of digital assets warns leverage-driven volatility risks undermine b itcoin’s institutional narrative](https://www.coindesk.com/markets/2026/02/13/blackrock-s-head-of-digital-assets-warns-leverage-driven-volatility-risks-undermine-bitcoin-s-institutional-narrative)**
+
+Rampant speculation on crypto derivatives platforms is fueling volatility and risking bitcoin’s image as a stable hedge, says BlackRock’s digital assets chief.
+
+CoinDesk • 2d ago
+
+---
+
+**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqdLf2_Qef7SzL6rpYpdmo9yNFfafF5RJddW5NJvURUORSyCFhbUlM7O&gaa_ts=69924b8b&gaa_sig=pADy6VCmZUak4s_P31bQeWGWJuF_J_gFTa_-ji-gAgDf34BPpZWDXy8R_HFow4wObdquC3znJKmYHKWJleOOew%3D%3D)**
 
 Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
 
-The Times • 23h ago
+The Times • 1d ago
 
 ---
 
-**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
+**[Bitcoin biopic 'Killing Satoshi' leans into generative AI](https://mashable.com/article/killing-satoshi-film-sparks-ai-debate)**
 
-Bloomberg.com • 2d ago
+Actors and artists worry about the use of artificial intelligence in upcoming film.
 
----
-
-**[Bitcoin claws back to $70,000 on cooling inflation after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
-
-Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
-
-CoinDesk • 1d ago
-
----
-
-**[Inside Bitcoin’s wild nosedive near $60,000 – and what’s coming next](https://nypost.com/2026/02/13/business/inside-bitcoins-wild-nosedive-near-60000-and-whats-coming-next/)**
-
-Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
-
-New York Post • 2d ago
+Mashable • 1d ago
 
 ---
 
@@ -259,7 +261,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 23h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 1d ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -329,7 +331,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 836 • 💬 217 • ⏱️ 30:55 • 7h ago
+👁️ 18K • 👍 836 • 💬 217 • ⏱️ 30:55 • 8h ago
 
 ---
 
@@ -339,7 +341,7 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 322 • 💬 36 • ⏱️ 7:14 • 5h ago
+👁️ 5K • 👍 322 • 💬 36 • ⏱️ 7:14 • 6h ago
 
 ---
 
@@ -379,7 +381,7 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 215 • 💬 14 • ⏱️ 20:41 • 23h ago
+👁️ 4K • 👍 215 • 💬 14 • ⏱️ 20:41 • 1d ago
 
 ---
 
@@ -409,7 +411,7 @@ What will you feel the first time Bitcoin hits a number that scares you, not exc
 
 📺 Capitalist
 
-👁️ 6K • 👍 275 • 💬 58 • ⏱️ 9:52 • 7h ago
+👁️ 6K • 👍 275 • 💬 58 • ⏱️ 9:52 • 8h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T21:49:21.741842+00:00'
+updated: '2026-02-15T22:26:39.326537+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 21:49 UTC  
+**Last Updated:** February 15, 2026 at 22:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 So I wanna build a small chassis, a single chair that will be operated by joystick and or via Wi-Fi with an Xbox controller or something similar. Anyone have any general outlines of where I should start with that like what kind of controller lens itself well to that type of control what type of motor, etc. have a pretty chunky budget for this but I’m wondering if anyone can suggest starting places. I can weld Tig weld and get basic machining done. My original thought was to start with a Taylor Dunn cart and adapt it, but it actually seems easier at this point to just build something from scratch. Edit- I have a fair amount of experience with building small electric vehicles and so I can size the motor controller battery pack, and the weight requirements for the chassis, but I’ve never made anything completely custom or where I’ve modified the steering breaking and control systems and especially not something that operates wirelessly that’s primarily where my questions come from. Thanks in advance for any suggestions
 
-4h ago
+5h ago
 
 ---
 
@@ -74,7 +74,7 @@ so I am so done with my job search in ML/DS/AI/CS and all kinds of bullshit.. Id
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 3h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -128,28 +128,6 @@ Nature • 3d ago
 
 ---
 
-**[China has another solution to its shrinking population: robots](https://edition.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
-
-China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
-
-CNN • 1d ago
-
----
-
-**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
-
-For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
-
-New York Post • 2d ago
-
----
-
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
-
-Forbes • 2d ago
-
----
-
 **[Is China Leading the Robotics Revolution?](https://chinapower.csis.org/china-industrial-robots/)**
 
 This ChinaPower feature examines China's push to lead the world in robotics and the geopolitical implications.
@@ -158,11 +136,17 @@ ChinaPower Project • 3d ago
 
 ---
 
-**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
+**[China has another solution to its shrinking population: robots](https://edition.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
-Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
-Yahoo Finance • 1d ago
+CNN • 1d ago
+
+---
+
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
+
+KSN.com • 1d ago
 
 ---
 
@@ -174,17 +158,33 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 ---
 
-**[Students showcase problem-solving skills at Lego robotics championship](https://www.dailyherald.com/20260214/news/students-showcase-problem-solving-skills-at-lego-robotics-championship/)**
+**[Video: China's humanoid robot Robotera L7 performs stunning sword dance](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
 
-Fifty-six teams of 9- to 14 year-old students and coaches demonstrated their problem-solving skills, creative thinking and teamwork through competitive play during the FIRST Lego League Challenge Illi...
+Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
 
-Daily Herald • 1d ago
+Interesting Engineering • 7h ago
 
 ---
 
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
 
-KSN.com • 1d ago
+Forbes • 2d ago
+
+---
+
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
+
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
+
+New York Post • 2d ago
+
+---
+
+**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
+
+Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
+
+Yahoo Finance • 1d ago
 
 ---
 

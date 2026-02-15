@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T21:49:21.726328+00:00'
+updated: '2026-02-15T22:26:39.307991+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 21:49 UTC  
+**Last Updated:** February 15, 2026 at 22:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-9h ago
+10h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
 
-12h ago
+13h ago
 
 ---
 
@@ -89,7 +89,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-11h ago
+12h ago
 
 ---
 
@@ -121,9 +121,17 @@ It does not happen very often in the history of business that an orthogonal prod
 
 ## Google News: "ai"
 
+**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
+
+NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
+
+The Washington Post • 4h ago
+
+---
+
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 19h ago
+Axios • 8h ago
 
 ---
 
@@ -135,41 +143,26 @@ The Guardian • 1d ago
 
 ---
 
-**[What’s Left For Humans?](https://www.wsj.com/tech/ai/whats-left-for-humans-64169dd9?gaa_at=eafs&gaa_n=AWEtsqflsPcIZUqGzhikFq_cmoXmu_Yp3n7RrMGuvi-03Hf40b2Fw2VWPpFk&gaa_ts=699235f6&gaa_sig=GplRKJcpwABIthv2s8AD6fwfd2pPXvtC5Wp9YqcWHfJn8uFlA96VuZK-YuaMTaKayARTTlc9OHjvmywRUFD_qw%3D%3D)**
+**[Opinion | Anthropic’s Chief on A.I.: ‘We Don’t Know if the Models Are Conscious’](https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html)**
 
-The Wall Street Journal • 5h ago
-
----
-
-**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
-
-NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
-
-The Washington Post • 3h ago
+The New York Times • 3d ago
 
 ---
 
-**[Hollywood groups condemn ByteDance's AI video generator, claiming copyright infringement](https://abcnews.go.com/Technology/wireStory/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-130193458)**
+**[White House Looking to Big Tech to Shoulder Costs of AI Buildout](https://www.barrons.com/livecoverage/sundayshows0215/card/white-house-looking-to-big-tech-to-shoulder-costs-of-ai-buildout-BnHf5aukTlRKdBvRwkEy?gaa_at=eafs&gaa_n=AWEtsqcvrzREtEf9Mn1gEzMZCTh1GXFM7oZPEtyWjL4v4XSFyM4sm0_KiIng&gaa_ts=69924b87&gaa_sig=0Th8QqXCj42hADwDk1dwk6PcTEIQmV35wgzZjo4N4Z50-HdXmmqg6SzoVCImcXS4QQAqTdKNNKURN7JUo1oBsw%3D%3D)**
 
-A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations
+President Trump is looking at how artificial intelligence is affecting jobs and the economy, according to top White House advisor Peter Navarro. One potential action would be to force big tech to shoulder the burden AI is putting on the nation's power grid.
+AI is "right on the president's desk and
 
-ABC News • 1h ago
-
----
-
-**[How Disney picks its AI copyright battles depends on who's ripping it off](https://www.businessinsider.com/disney-ai-copyright-battles-seedance-nano-banana-sora-midjourney-2026-2)**
-
-Disney sent ByteDance a cease-and-desist for using its characters on Seedance. When OpenAI's Sora did it, however, Disney struck a deal.
-
-Business Insider • 3h ago
+Barron's • 1h ago
 
 ---
 
-**[Paramount Latest Studio To Hit ByteDance With Cease And Desist Letter Over AI Models](https://deadline.com/2026/02/paramoun-hollywood-legal-letter-bytedance-ai-seedance-1236725462/)**
+**[One of Stanford's original AI gurus says productivity liftoff has begun after doubling in 2025](https://fortune.com/2026/02/15/ai-productivity-liftoff-doubling-2025-jobs-report-transition-harvest-phase-j-curve/)**
 
-Paramount has joined Disney as the latest Hollywood studio to slam ByteDance over AI models Seedance and Seedream for IP infringement.
+"We are transitioning from an era of AI experimentation to one of structural utility."
 
-Deadline • 1h ago
+Fortune • 1h ago
 
 ---
 
@@ -181,17 +174,23 @@ NPR • 3h ago
 
 ---
 
+**[I got laid off from Amazon after 11 years. My high school daughter taught me the biggest lesson on how to move forward.](https://www.businessinsider.com/amazon-tech-manager-laid-off-after-11-years-refreshing-change-2026-2)**
+
+An ex-Amazon manager says his layoff in October 2025 was a shock, but he's using this time to build AI skills, focus on his health, and apply to jobs.
+
+Business Insider • 12h ago
+
+---
+
 **[‘We’re All Polyamorous Now. It’s You, Me and the A.I.’](https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html)**
 
 The New York Times • 2d ago
 
 ---
 
-**[The AI productivity take-off is finally visible](https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5)**
+**[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
 
-New economic data suggests the US is transitioning to a phase of measurable gains from the technology
-
-Financial Times • 16h ago
+Bloomberg • 8h ago
 
 ---
 
@@ -263,7 +262,7 @@ It comes in the same week an OpenAI researcher resigned amid concerns about its 
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 79 • 💬 159 • 6h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 79 • 💬 159 • 7h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -343,7 +342,7 @@ Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying G
 
 📺 Spacialize
 
-👁️ 89K • 👍 2K • 💬 341 • ⏱️ 17:28 • 2d ago
+👁️ 89K • 👍 2K • 💬 341 • ⏱️ 17:28 • 3d ago
 
 ---
 
@@ -679,7 +678,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 256 • 1h ago
+⭐ 2.5k • 🔱 256 • 2h ago
 
 ---
 
