@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T10:28:43.768681+00:00'
+updated: '2026-02-15T10:56:04.225134+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
-- videos
 - social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 10:28 UTC  
+**Last Updated:** February 15, 2026 at 10:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 8h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 9h ago
 
 ---
 
@@ -121,7 +121,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-4h ago
+5h ago
 
 ---
 
@@ -129,7 +129,7 @@ What would you say we are looking at for predictions for 1,3,5 years
 
 Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
 
-9h ago
+10h ago
 
 ---
 
@@ -163,7 +163,7 @@ So I just open a coffe shop for runners, I’m a hodlr and I want to accept bitc
 
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-Nasdaq • 21h ago
+Nasdaq • 22h ago
 
 ---
 
@@ -337,7 +337,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 289 • 💬 29 • ⏱️ 8:36 • 11h ago
+👁️ 5K • 👍 289 • 💬 29 • ⏱️ 8:36 • 12h ago
 
 ---
 
@@ -357,7 +357,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 398 • 💬 18 • ⏱️ 10:24 • 4h ago
+👁️ 4K • 👍 398 • 💬 18 • ⏱️ 10:24 • 5h ago
 
 ---
 
@@ -367,7 +367,7 @@ Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 1K • 💬 53 • ⏱️ 18:10 • 4h ago
+👁️ 14K • 👍 1K • 💬 53 • ⏱️ 18:10 • 5h ago
 
 ---
 
