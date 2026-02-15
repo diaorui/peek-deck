@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T20:28:38.284400+00:00'
+updated: '2026-02-15T20:54:32.711609+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 20:28 UTC  
+**Last Updated:** February 15, 2026 at 20:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-5h ago
+6h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 18h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 19h ago
 
 ---
 
@@ -181,29 +181,45 @@ Yahoo Finance • 2h ago
 
 ---
 
+**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
+
+Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
+
+BBC • 18h ago
+
+---
+
 **[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
 Forbes • 9h ago
 
 ---
 
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqeWGumvl6ePqYHHNbxPB4W26nmyqOv6ZwyTfe5V9V4gYol15i4ZO3KS&gaa_ts=69922642&gaa_sig=H004f8GDWXJzK674IZEf5Kp9dn2zExYr3HbIdTBWJUl2VhlfPUCU6EN_3NYLgtxJ3_QID7xGaernSVoIVcs1SA%3D%3D)**
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqf8Y6lXDFTfL99ZhkIPJ1euTUM5N26Pe-XiwfWjjgixrhCML70bYOLF&gaa_ts=699235a1&gaa_sig=c_7CIxGn7LZ8dSvo5FLHb_7QmQTcoBvCwB-dJU__ynFWrJxkuo6MgVb08UNKDcGpEDgMP2qTssBCJPCsm8iULw%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
+**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqc7lzZ_ppIwPhZB5e6P1MKBXiWRi9ycq5pY2o90e6mtjyIbzaHjzj71&gaa_ts=699235a1&gaa_sig=Z-oEfi3q6sSKuok1BCgDyuPRFeSOcc0seEaLLuv81Sk7tMqctcbDyBgYf_KUq4zDUZh6Iq0oPyijGrDuHEj5YA%3D%3D)**
 
-Bloomberg • 2d ago
+Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
+
+The Times • 22h ago
 
 ---
 
-**[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
+**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
 
-After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
+Bloomberg.com • 2d ago
 
-Bitcoin Magazine • 15h ago
+---
+
+**[Bitcoin claws back to $70,000 on cooling inflation after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
+
+Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -212,22 +228,6 @@ Bitcoin Magazine • 15h ago
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
 New York Post • 1d ago
-
----
-
-**[BlackRock's head of digital assets warns leverage-driven volatility risks undermine b itcoin’s institutional narrative](https://www.coindesk.com/markets/2026/02/13/blackrock-s-head-of-digital-assets-warns-leverage-driven-volatility-risks-undermine-bitcoin-s-institutional-narrative)**
-
-Rampant speculation on crypto derivatives platforms is fueling volatility and risking bitcoin’s image as a stable hedge, says BlackRock’s digital assets chief.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin Takes Step Towards Quantum Fix as Experts Diverge on Urgency of Threat](https://decrypt.co/358068/bitcoin-quantum-fix-experts-diverge-urgency-threat)**
-
-Bitcoin developers lay the groundwork for post-quantum upgrades, but experts vary on whether the threat is years or decades away.
-
-Decrypt • 4h ago
 
 ---
 
@@ -321,7 +321,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 1K • 💬 174 • ⏱️ 12:55 • 7h ago
+👁️ 24K • 👍 1K • 💬 174 • ⏱️ 12:55 • 8h ago
 
 ---
 
@@ -351,7 +351,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 1K • 👍 190 • 3h ago
+👁️ 1K • 👍 190 • 4h ago
 
 ---
 
@@ -361,7 +361,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Punjabibeautyonduty
 
-👁️ 7K • 👍 2K • 4h ago
+👁️ 7K • 👍 2K • 5h ago
 
 ---
 
@@ -391,7 +391,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 11K • 👍 713 • 💬 37 • ⏱️ 10:24 • 14h ago
+👁️ 11K • 👍 713 • 💬 37 • ⏱️ 10:24 • 15h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T20:28:38.276004+00:00'
+updated: '2026-02-15T20:54:32.704357+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 20:28 UTC  
+**Last Updated:** February 15, 2026 at 20:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
 
-11h ago
+12h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-21h ago
+22h ago
 
 ---
 
@@ -81,7 +81,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-22h ago
+23h ago
 
 ---
 
@@ -97,7 +97,7 @@ Everyone’s screaming that “AI coding is going to replace human developers”
 
 I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ It does not happen very often in the history of business that an orthogonal prod
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 17h ago
+Axios • 18h ago
 
 ---
 
@@ -135,11 +135,9 @@ The Guardian • 1d ago
 
 ---
 
-**[Anthropic President: AI Will Make Humanities Majors 'More Important'](https://www.businessinsider.com/anthropic-president-ai-humanities-majors-more-important-2026-2)**
+**[What’s Left For Humans?](https://www.wsj.com/tech/ai/whats-left-for-humans-64169dd9?gaa_at=eafs&gaa_n=AWEtsqflsPcIZUqGzhikFq_cmoXmu_Yp3n7RrMGuvi-03Hf40b2Fw2VWPpFk&gaa_ts=699235f6&gaa_sig=GplRKJcpwABIthv2s8AD6fwfd2pPXvtC5Wp9YqcWHfJn8uFlA96VuZK-YuaMTaKayARTTlc9OHjvmywRUFD_qw%3D%3D)**
 
-Anthropic president Daniela Amodei said that, in the age of AI, we should "prize the things that make us human" — like literature degrees.
-
-Business Insider • 10h ago
+The Wall Street Journal • 4h ago
 
 ---
 
@@ -151,11 +149,11 @@ The Washington Post • 2h ago
 
 ---
 
-**[AI robots built for companionship ignite debate on relationships](https://www.foxnews.com/video/6389311450112)**
+**[Hollywood groups condemn ByteDance's AI video generator, claiming copyright infringement](https://abcnews.go.com/Technology/wireStory/hollywood-groups-condemn-bytedances-ai-video-generator-claiming-130193458)**
 
-'The Big Weekend Show' panel discusses the impact of artificial intelligence on human connection as one survey indicates 20% of teens are in a relationship with AI.
+A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations
 
-Fox News • 2h ago
+ABC News • 36m ago
 
 ---
 
@@ -163,7 +161,15 @@ Fox News • 2h ago
 
 Disney sent ByteDance a cease-and-desist for using its characters on Seedance. When OpenAI's Sora did it, however, Disney struck a deal.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
+
+---
+
+**[Paramount Latest Studio To Hit ByteDance With Cease And Desist Letter Over AI Models](https://deadline.com/2026/02/paramoun-hollywood-legal-letter-bytedance-ai-seedance-1236725462/)**
+
+Paramount has joined Disney as the latest Hollywood studio to slam ByteDance over AI models Seedance and Seedream for IP infringement.
+
+Deadline • 16m ago
 
 ---
 
@@ -171,7 +177,7 @@ Business Insider • 1h ago
 
 "There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum," Obama said in an interview that was posted on YouTube Saturday.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
@@ -186,14 +192,6 @@ The New York Times • 2d ago
 New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
 Financial Times • 15h ago
-
----
-
-**[Why are experts sounding the alarm on AI risks?](https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks)**
-
-AI is advancing in rapid and unpredictable ways but there is no joint framework to keep it in check, experts say.
-
-Al Jazeera • 8h ago
 
 ---
 
@@ -249,7 +247,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 113 • 💬 62 • 21h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 113 • 💬 62 • 22h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -335,7 +333,7 @@ Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce L
 
 📺 ShadowRivals
 
-👁️ 37K • 👍 800 • 💬 98 • ⏱️ 2:02 • 1d ago
+👁️ 37K • 👍 800 • 💬 98 • ⏱️ 2:02 • 2d ago
 
 ---
 
@@ -391,7 +389,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 128,078 • ❤️ 1,189 • 2d ago
+⬇️ 128,078 • ❤️ 1,194 • 2d ago
 
 ---
 
@@ -403,7 +401,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 11,092 • ❤️ 595 • 1d ago
+⬇️ 11,092 • ❤️ 601 • 1d ago
 
 ---
 
@@ -415,7 +413,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,986 • ❤️ 438 • 4d ago
+⬇️ 2,986 • ❤️ 440 • 4d ago
 
 ---
 
@@ -427,7 +425,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 756,817 • ❤️ 2,180 • 10d ago
+⬇️ 756,817 • ❤️ 2,182 • 10d ago
 
 ---
 
@@ -439,7 +437,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 11,129 • ❤️ 405 • 2d ago
+⬇️ 11,129 • ❤️ 410 • 2d ago
 
 ---
 
@@ -451,7 +449,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 855,997 • ❤️ 1,045 • 6d ago
+⬇️ 855,997 • ❤️ 1,046 • 6d ago
 
 ---
 
@@ -463,7 +461,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 270,983 • ❤️ 866 • 12d ago
+⬇️ 270,983 • ❤️ 867 • 12d ago
 
 ---
 
@@ -475,7 +473,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 45,216 • ❤️ 843 • 2d ago
+⬇️ 45,216 • ❤️ 845 • 2d ago
 
 ---
 
@@ -487,25 +485,37 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,303 • ❤️ 207 • 3d ago
+⬇️ 6,303 • ❤️ 208 • 3d ago
 
 ---
 
-**[Voxtral-Mini-4B-Realtime-2602](https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602)**
+**[MOSS-TTS](https://huggingface.co/OpenMOSS-Team/MOSS-TTS)**
 
-*Mistral AI_*
+*OpenMOSS*
 
-Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model with <500ms latency, supporting 13 languages and achieving offline-comparable accuracy. It's optimized for on-device deployment and ideal for voice assistants and live subtitling.
+MOSS-TTS is a family of high-fidelity, expressive speech and sound generation models supporting multilingual text-to-speech, dialogue, voice design, and sound effect generation for complex real-world scenarios.
 
-`automatic-speech-recognition`
+`text-to-speech` `8.5B`
 
-⬇️ 5,992 • ❤️ 531 • 2d ago
+⬇️ 5,784 • ❤️ 187 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 0 • 💬 0 • ⭐ 3,721 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
 
 **[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
 
@@ -533,18 +543,6 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 ---
 
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 0 • 💬 0 • ⭐ 3,543 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
-
----
-
 **[PaperBanana: Automating Academic Illustration for AI Scientists](https://huggingface.co/papers/2601.23265)**
 
 *Dawei Zhu, Rui Meng, Yale Song et al. (7 authors)*
@@ -553,7 +551,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 181 • 💬 12 • ⭐ 3,534 • 16d ago
+▲ 181 • 💬 12 • ⭐ 3,555 • 16d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -681,7 +679,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 256 • 26m ago
+⭐ 2.5k • 🔱 256 • 52m ago
 
 ---
 
@@ -711,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 143 • 1h ago
+⭐ 2.1k • 🔱 143 • 2h ago
 
 ---
 
@@ -721,7 +719,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 242 • 2h ago
+⭐ 1.9k • 🔱 242 • 3h ago
 
 ---
 

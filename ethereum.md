@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T20:28:38.290329+00:00'
+updated: '2026-02-15T20:54:32.716768+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 20:28 UTC  
+**Last Updated:** February 15, 2026 at 20:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -7.0%  
-**7d:** -7.7%  
-**30d:** -41.3%  
-**90d:** -37.8%  
-**1y:** -26.9%  
+**24h:** -6.6%  
+**7d:** -7.5%  
+**30d:** -41.2%  
+**90d:** -37.7%  
+**1y:** -26.8%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 22h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 23h ago
 
 ---
 
@@ -150,27 +150,19 @@ This is the second article in a series about deterministic deployments, where we
 
 ## Google News: "ethereum"
 
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
+
+The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
+
+The Motley Fool • 1d ago
+
+---
+
 **[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
 Decrypt • 1d ago
-
----
-
-**[Ethereum Co-Founder Vitalik Buterin Calls for Prediction Market Reset](https://news.bitcoin.com/ethereum-co-founder-vitalik-buterin-calls-for-prediction-market-reset/)**
-
-Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
-
-Bitcoin.com News • 3h ago
-
----
-
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
-
-Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
-
-Nasdaq • 1d ago
 
 ---
 
@@ -190,17 +182,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/02/14/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
 
-Here's why Bitcoin and Ethereum should be in your long-term portfolio.
+Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
-The Motley Fool • 1d ago
-
----
-
-**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
-
-TradingView • 20h ago
+Nasdaq • 16h ago
 
 ---
 
@@ -220,11 +206,25 @@ BeInCrypto • 15h ago
 
 ---
 
-**[LBank Launches 16th BoostHub Campaign Featuring Ethereum with 30 ETH in Rewards](https://markets.businessinsider.com/news/currencies/lbank-launches-16th-boosthub-campaign-featuring-ethereum-with-30-eth-in-rewards-1035828448)**
+**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
 
-Singapore, Singapore, February 14th, 2026, ChainwireLBank, the leading global crypto exchange, today announced the launch of ...
+TradingView • 20h ago
 
-markets.businessinsider.com • 1d ago
+---
+
+**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
+
+The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
+
+The Block • 3d ago
+
+---
+
+**[Ethereum Co-Founder Vitalik Buterin Calls for Prediction Market Reset](https://news.bitcoin.com/ethereum-co-founder-vitalik-buterin-calls-for-prediction-market-reset/)**
+
+Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
+
+Bitcoin.com News • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 181 • ⏱️ 34:57 • 20h ago
+👁️ 50K • 👍 3K • 💬 181 • ⏱️ 34:57 • 21h ago
 
 ---
 
@@ -278,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 348 • 👍 16 • 💬 2 • ⏱️ 4:36 • 9h ago
+👁️ 348 • 👍 16 • 💬 2 • ⏱️ 4:36 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 1K • 👍 190 • 3h ago
+👁️ 1K • 👍 190 • 4h ago
 
 ---
 
@@ -298,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 161 • 💬 11 • ⏱️ 4:45 • 18h ago
+👁️ 3K • 👍 161 • 💬 11 • ⏱️ 4:45 • 19h ago
 
 ---
 
@@ -308,7 +308,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 KLH-BPLH
 
-👁️ 6K • 👍 1K • 18h ago
+👁️ 6K • 👍 1K • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ For any questions contact me on Telegram : https://t.me/cryptobotdev124 Download
 
 📺 Cole the DeFi Maker
 
-👁️ 2K • 👍 7 • 💬 9 • ⏱️ 7:43 • 4h ago
+👁️ 2K • 👍 7 • 💬 9 • ⏱️ 7:43 • 5h ago
 
 ---
 

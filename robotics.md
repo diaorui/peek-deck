@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T20:28:38.293495+00:00'
+updated: '2026-02-15T20:54:32.719480+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 20:28 UTC  
+**Last Updated:** February 15, 2026 at 20:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -74,7 +74,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 so I am so done with my job search in ML/DS/AI/CS and all kinds of bullshit.. Idk why robotics, but it feels like an interesting thing to learn, I think machines gonna work more in future, mainly could solve many problems in the third world. I am stupid and dumb and anyone wanna help me learn and gain some experience working with robots. I just have the ML background of things. Thanks
 
-1h ago
+2h ago
 
 ---
 
@@ -98,7 +98,7 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -136,17 +136,17 @@ CNN • 1d ago
 
 ---
 
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
-
-Forbes • 2d ago
-
----
-
 **[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
 
 For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
 
 New York Post • 2d ago
+
+---
+
+**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -174,17 +174,17 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 ---
 
-**[VEX Robotics hosts ‘Bots at Bristol’ tournament for middle schools](https://www.wjhl.com/news/local/vex-robotics-hosts-bots-at-bristol-tournament-for-middle-schools/)**
+**[Students showcase problem-solving skills at Lego robotics championship](https://www.dailyherald.com/20260214/news/students-showcase-problem-solving-skills-at-lego-robotics-championship/)**
 
-WJHL • 3h ago
+Fifty-six teams of 9- to 14 year-old students and coaches demonstrated their problem-solving skills, creative thinking and teamwork through competitive play during the FIRST Lego League Challenge Illi...
+
+Daily Herald • 23h ago
 
 ---
 
-**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
 
-Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
-
-Futurism • 3h ago
+KSN.com • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 334K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
+👁️ 345K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 408K • 👍 6K • 💬 874 • ⏱️ 53:47 • 1d ago
+👁️ 451K • 👍 6K • 💬 955 • ⏱️ 53:47 • 1d ago
 
 ---
 
@@ -218,7 +218,17 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 130K • 👍 2K • 💬 215 • ⏱️ 11:59 • 4d ago
+👁️ 133K • 👍 2K • 💬 215 • ⏱️ 11:59 • 4d ago
+
+---
+
+**[Tesla Optimus Was Built for Mars  #teslaoptimus  #elonmusk  #teslabotgen3  #humanoidrobots  #mars](https://www.youtube.com/watch?v=AEyxJrYsQW0)**
+
+You think Elon Musk built Optimus to fold laundry? That was a distraction. In 2026, the real plan is obvious: You can't send ...
+
+📺 By 2050
+
+👁️ 1.2M • 👍 28K • 💬 964 • ⏱️ 0:56 • 6d ago
 
 ---
 
@@ -232,41 +242,21 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 ---
 
+**[He just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=XqisM4FeME8)**
+
+📺 Romi Pal
+
+👁️ 127K • 👍 2K • 💬 35 • ⏱️ 0:37 • 23h ago
+
+---
+
 **[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
 
 Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
 
 📺 By 2050
 
-👁️ 13K • 👍 381 • 💬 13 • ⏱️ 0:59 • 1d ago
-
----
-
-**[Auto Tracking Turret and RGB Indicator | 33444 UlyDala | FTC Snapshot](https://www.youtube.com/watch?v=bHjMcaYzd-8)**
-
-33444 Ulydala shows us their unique features on robot, such as RGB-indicator and auto-adjusting turret This video is supported ...
-
-📺 FUN Robotics Network
-
-👁️ 705 • 👍 14 • ⏱️ 1:09 • 4h ago
-
----
-
-**[He just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=XqisM4FeME8)**
-
-📺 Romi Pal
-
-👁️ 111K • 👍 2K • 💬 34 • ⏱️ 0:37 • 23h ago
-
----
-
-**[The “Order 66” Robot Theory with Telsa Optimus and starlink #elonmusk #grok  #humanoidrobots](https://www.youtube.com/watch?v=Y0a1sisNdv0)**
-
-The biggest fear about humanoid robots isn't strength. It's control. Future robots like Optimus are designed to stay connected ...
-
-📺 By 2050
-
-👁️ 84K • 👍 2K • 💬 51 • ⏱️ 0:57 • 2d ago
+👁️ 14K • 👍 395 • 💬 15 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -280,13 +270,23 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 
 ---
 
+**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
+
+Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
+
+📺 Jeff Geerling
+
+👁️ 94K • 👍 5K • 💬 266 • ⏱️ 12:38 • 2d ago
+
+---
+
 **[This Drone Transforms From Car to Flying Machine 🚁](https://www.youtube.com/watch?v=BT436xmFKso)**
 
 This transformable drone can move in completely different styles. In ground mode, it rolls on wheels like a robotic rover — stable, ...
 
 📺 Facts TV 91
 
-👁️ 771K • 👍 7K • 💬 73 • ⏱️ 0:06 • 18h ago
+👁️ 828K • 👍 8K • 💬 76 • ⏱️ 0:06 • 19h ago
 
 ---
 
