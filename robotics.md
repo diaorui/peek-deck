@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T20:54:32.719480+00:00'
+updated: '2026-02-15T21:26:30.907787+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 20:54 UTC  
+**Last Updated:** February 15, 2026 at 21:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 3h ago
 
 ---
 
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 So I wanna build a small chassis, a single chair that will be operated by joystick and or via Wi-Fi with an Xbox controller or something similar. Anyone have any general outlines of where I should start with that like what kind of controller lens itself well to that type of control what type of motor, etc. have a pretty chunky budget for this but I’m wondering if anyone can suggest starting places. I can weld Tig weld and get basic machining done. My original thought was to start with a Taylor Dunn cart and adapt it, but it actually seems easier at this point to just build something from scratch. Edit- I have a fair amount of experience with building small electric vehicles and so I can size the motor controller battery pack, and the weight requirements for the chassis, but I’ve never made anything completely custom or where I’ve modified the steering breaking and control systems and especially not something that operates wirelessly that’s primarily where my questions come from. Thanks in advance for any suggestions
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -178,7 +178,7 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 Fifty-six teams of 9- to 14 year-old students and coaches demonstrated their problem-solving skills, creative thinking and teamwork through competitive play during the FIRST Lego League Challenge Illi...
 
-Daily Herald • 23h ago
+Daily Herald • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 📺 Romi Pal
 
-👁️ 127K • 👍 2K • 💬 35 • ⏱️ 0:37 • 23h ago
+👁️ 127K • 👍 2K • 💬 35 • ⏱️ 0:37 • 1d ago
 
 ---
 

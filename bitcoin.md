@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T20:54:32.711609+00:00'
+updated: '2026-02-15T21:26:30.895641+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 20:54 UTC  
+**Last Updated:** February 15, 2026 at 21:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -117,7 +117,7 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 
 I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actually instrumental in shaping my early interest in Bitcoin. I appreciated the thoughtful guests, organic conversations, and what felt like a politically neutral commitment to information. Also, I loved that she was a woman contributing in a male dominated space. However, as I’ve begun following her on other platforms, I’ve found myself increasingly surprised, and frankly disappointed, by the content she chooses to amplify. Given her journalistic background, the recirculation of easily debunked claims and politically loaded narratives feels at odds with the credibility she originally built. At a certain point, the casual sharing of baseless memes and tweets, and unverified claims begins to undermine the very authority that made her platform compelling in the first place. I’d love to know what outlets, podcasts, or writers people trust today for nuanced, intellectually honest Bitcoin coverage?
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-23h ago
+1d ago
 
 ---
 
@@ -149,7 +149,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 21 years old and Complete bitcoin/crypto beginner, however I’d rather put my money to work than let the fiat rot in a bank. Very interesting life setup I currently have - £200/m rent, low expenses, £3k+ monthly salary. Planning to DCA for the next 4 years ~£600 a week. Also planning to cop a Trezor 7 and just lock the BTC away until I plan to move countries and make use of the 10% tax in Eastern Europe instead of getting graped by the UK 20%+. Any tips or suggestions would be appreciated.
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ Nasdaq • 1d ago
 
 If you are wondering whether CleanSpark's current share price lines up with its underlying value, this article will walk through the key signals without the noise. The stock recently closed at US$9.85, with returns of a 2.3% decline over 7 days, 26.3% decline over 30 days, 14.7% decline year to date and 6.2% decline over 1 year, set against a very large 3 year return. Recent news coverage has focused on how bitcoin mining companies are reacting to changing market conditions and capital...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -185,13 +185,13 @@ Yahoo Finance • 2h ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
 **[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ Barron's • 2d ago
 
 Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
 
-The Times • 22h ago
+The Times • 23h ago
 
 ---
 
@@ -227,7 +227,7 @@ CoinDesk • 1d ago
 
 Bitcoin plummeted as low as $60,000 last week in its worst weekly decline in three years – baffling crypto bulls who long hailed the digital currency as a hedge against inflation.
 
-New York Post • 1d ago
+New York Post • 2d ago
 
 ---
 
@@ -261,7 +261,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 22h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 23h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 18K • 👍 836 • 💬 217 • ⏱️ 30:55 • 6h ago
+👁️ 18K • 👍 836 • 💬 217 • ⏱️ 30:55 • 7h ago
 
 ---
 
@@ -341,7 +341,7 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 5K • 👍 322 • 💬 36 • ⏱️ 7:14 • 4h ago
+👁️ 5K • 👍 322 • 💬 36 • ⏱️ 7:14 • 5h ago
 
 ---
 
@@ -381,7 +381,7 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 215 • 💬 14 • ⏱️ 20:41 • 22h ago
+👁️ 4K • 👍 215 • 💬 14 • ⏱️ 20:41 • 23h ago
 
 ---
 
@@ -411,7 +411,7 @@ What will you feel the first time Bitcoin hits a number that scares you, not exc
 
 📺 Capitalist
 
-👁️ 6K • 👍 275 • 💬 58 • ⏱️ 9:52 • 6h ago
+👁️ 6K • 👍 275 • 💬 58 • ⏱️ 9:52 • 7h ago
 
 ---
 

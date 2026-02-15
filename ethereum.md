@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T20:54:32.716768+00:00'
+updated: '2026-02-15T21:26:30.902130+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 20:54 UTC  
+**Last Updated:** February 15, 2026 at 21:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Motley Fool • 1d ago
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -186,7 +186,7 @@ CoinDesk • 2d ago
 
 Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
-Nasdaq • 16h ago
+Nasdaq • 17h ago
 
 ---
 
@@ -194,7 +194,7 @@ Nasdaq • 16h ago
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 22h ago
+dlnews.com • 23h ago
 
 ---
 
@@ -202,13 +202,13 @@ dlnews.com • 22h ago
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
 
-BeInCrypto • 15h ago
+BeInCrypto • 16h ago
 
 ---
 
 **[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Block • 3d ago
 
 Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
 
-Bitcoin.com News • 3h ago
+Bitcoin.com News • 4h ago
 
 ---
 
@@ -238,7 +238,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 1K • 👍 53 • 💬 24 • ⏱️ 13:02 • 6h ago
+👁️ 1K • 👍 53 • 💬 24 • ⏱️ 13:02 • 7h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 5 • ⏱️ 4:45 • 6h ago
+👁️ 2K • 👍 154 • 💬 5 • ⏱️ 4:45 • 7h ago
 
 ---
 
