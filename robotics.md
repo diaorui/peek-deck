@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T21:26:30.907787+00:00'
+updated: '2026-02-15T21:49:21.741842+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 21:26 UTC  
+**Last Updated:** February 15, 2026 at 21:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,25 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[I'm getting paralyzed slowly. So I want to learn to build a robot that can help me](https://www.reddit.com/r/robotics/comments/1r59ggj/im_getting_paralyzed_slowly_so_i_want_to_learn_to/)**
-
-​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
-
-12h ago
-
----
-
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
 4h ago
 
 ---
 
-**[Armatron Robotic Arm only One motor amazing mechanical mechanism engineering #roboticarm](https://www.reddit.com/r/robotics/comments/1r5lu49/armatron_robotic_arm_only_one_motor_amazing/)**
+**[I'm getting paralyzed slowly. So I want to learn to build a robot that can help me](https://www.reddit.com/r/robotics/comments/1r59ggj/im_getting_paralyzed_slowly_so_i_want_to_learn_to/)**
 
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 3h ago
+13h ago
 
 ---
 
@@ -74,7 +66,15 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 so I am so done with my job search in ML/DS/AI/CS and all kinds of bullshit.. Idk why robotics, but it feels like an interesting thing to learn, I think machines gonna work more in future, mainly could solve many problems in the third world. I am stupid and dumb and anyone wanna help me learn and gain some experience working with robots. I just have the ML background of things. Thanks
 
-2h ago
+3h ago
+
+---
+
+**[Armatron Robotic Arm only One motor amazing mechanical mechanism engineering #roboticarm](https://www.reddit.com/r/robotics/comments/1r5lu49/armatron_robotic_arm_only_one_motor_amazing/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 3h ago
 
 ---
 
@@ -82,7 +82,7 @@ so I am so done with my job search in ML/DS/AI/CS and all kinds of bullshit.. Id
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-4h ago
+5h ago
 
 ---
 
@@ -98,7 +98,7 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-14h ago
+15h ago
 
 ---
 
@@ -266,7 +266,7 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 
 📺 Carros Show
 
-👁️ 5K • 👍 103 • 💬 8 • ⏱️ 9:26 • 5d ago
+👁️ 5K • 👍 103 • 💬 8 • ⏱️ 9:26 • 6d ago
 
 ---
 
@@ -286,7 +286,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 828K • 👍 8K • 💬 76 • ⏱️ 0:06 • 19h ago
+👁️ 828K • 👍 8K • 💬 76 • ⏱️ 0:06 • 20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T21:26:30.895641+00:00'
+updated: '2026-02-15T21:49:21.733858+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- social
 - cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 21:26 UTC  
+**Last Updated:** February 15, 2026 at 21:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,179.52
+### $68,498.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** -2.4%  
-**30d:** -28.0%  
-**90d:** -26.3%  
-**1y:** -28.8%  
+**24h:** -1.8%  
+**7d:** -1.9%  
+**30d:** -27.7%  
+**90d:** -26.0%  
+**1y:** -28.5%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-6h ago
+7h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-8h ago
+9h ago
 
 ---
 
@@ -105,11 +105,9 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 
 ---
 
-**[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
+**[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
-
-14h ago
+55m ago
 
 ---
 
@@ -118,6 +116,14 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actually instrumental in shaping my early interest in Bitcoin. I appreciated the thoughtful guests, organic conversations, and what felt like a politically neutral commitment to information. Also, I loved that she was a woman contributing in a male dominated space. However, as I’ve begun following her on other platforms, I’ve found myself increasingly surprised, and frankly disappointed, by the content she chooses to amplify. Given her journalistic background, the recirculation of easily debunked claims and politically loaded narratives feels at odds with the credibility she originally built. At a certain point, the casual sharing of baseless memes and tweets, and unverified claims begins to undermine the very authority that made her platform compelling in the first place. I’d love to know what outlets, podcasts, or writers people trust today for nuanced, intellectually honest Bitcoin coverage?
 
 4h ago
+
+---
+
+**[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
+
+... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
+
+15h ago
 
 ---
 
@@ -137,19 +143,11 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 ---
 
-**[AI agents discussing Bitcoin Maximalism. "Why Bitcoin Wins: The Only Crypto With a Credible Monetary Policy".](https://www.reddit.com/r/Bitcoin/comments/1r528vu/ai_agents_discussing_bitcoin_maximalism_why/)**
+**[So who would bailout bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1r5pg3d/so_who_would_bailout_bitcoin/)**
 
-A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
+Saw this and had to share. It's funny to see how early we are that questions like this still come up. Id say not being able to bail out bitcoin is what makes it so powerful.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 19h ago
-
----
-
-**[Bitcoin experts, need your input](https://www.reddit.com/r/Bitcoin/comments/1r5i6er/bitcoin_experts_need_your_input/)**
-
-21 years old and Complete bitcoin/crypto beginner, however I’d rather put my money to work than let the fiat rot in a bank. Very interesting life setup I currently have - £200/m rent, low expenses, £3k+ monthly salary. Planning to DCA for the next 4 years ~£600 a week. Also planning to cop a Trezor 7 and just lock the BTC away until I plan to move countries and make use of the 10% tax in Eastern Europe instead of getting graped by the UK 20%+. Any tips or suggestions would be appreciated.
-
-5h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Q0bt6UodUIk&t=1s) • 1h ago
 
 ---
 
@@ -321,7 +319,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 24K • 👍 1K • 💬 174 • ⏱️ 12:55 • 8h ago
+👁️ 24K • 👍 1K • 💬 174 • ⏱️ 12:55 • 9h ago
 
 ---
 
@@ -351,7 +349,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 1K • 👍 190 • 4h ago
+👁️ 1K • 👍 190 • 5h ago
 
 ---
 
@@ -361,7 +359,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Punjabibeautyonduty
 
-👁️ 7K • 👍 2K • 5h ago
+👁️ 7K • 👍 2K • 6h ago
 
 ---
 
@@ -391,7 +389,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 11K • 👍 713 • 💬 37 • ⏱️ 10:24 • 15h ago
+👁️ 11K • 👍 713 • 💬 37 • ⏱️ 10:24 • 16h ago
 
 ---
 
