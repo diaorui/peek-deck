@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T22:53:14.017647+00:00'
+updated: '2026-02-15T23:28:30.758118+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
 - videos
-- social
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 22:53 UTC  
+**Last Updated:** February 15, 2026 at 23:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -99,7 +99,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ If you're thinking about spending some sats, usually over r/thelightningnetwork 
 
 I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actually instrumental in shaping my early interest in Bitcoin. I appreciated the thoughtful guests, organic conversations, and what felt like a politically neutral commitment to information. Also, I loved that she was a woman contributing in a male dominated space. However, as I’ve begun following her on other platforms, I’ve found myself increasingly surprised, and frankly disappointed, by the content she chooses to amplify. Given her journalistic background, the recirculation of easily debunked claims and politically loaded narratives feels at odds with the credibility she originally built. At a certain point, the casual sharing of baseless memes and tweets, and unverified claims begins to undermine the very authority that made her platform compelling in the first place. I’d love to know what outlets, podcasts, or writers people trust today for nuanced, intellectually honest Bitcoin coverage?
 
-5h ago
+6h ago
 
 ---
 
@@ -131,7 +131,7 @@ I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actu
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-16h ago
+17h ago
 
 ---
 
@@ -159,15 +159,13 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
+**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Key PointsBitcoin's most important features probably won't change much between now and 2036.
-
-Nasdaq • 1d ago
+Forbes • 1d ago
 
 ---
 
@@ -175,7 +173,7 @@ Nasdaq • 1d ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 20h ago
+BBC • 21h ago
 
 ---
 
@@ -187,15 +185,25 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
-Forbes • 11h ago
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
+
+Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqcd2wfFmqwz8oySECe8s2fuxdczXV5aevCwVuLi_ELngAJ5CoTUYHlh&gaa_ts=69924b8b&gaa_sig=5RsrVufIW7-WWc6492k1uZ0pbgTJ1N8z07dqtfTO_TWxXhxlVlViQ4I0Lwjtko7cpD4hwaDzkAEIqbZseZm5_Q%3D%3D)**
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfW1hNmZsBHuCoD85S0FzN54-rukK_a5ZX3mupAkMCZVxL0QWGFIIBn&gaa_ts=69925a0b&gaa_sig=s6r191SBhqERn0w0k_7gjtIuBm691kl_gFLRZMRMQ1P9BaJ4hRYswZdmhviNXfS7Snx_WkxvthMPW5fPaG0EBw%3D%3D)**
 
 Barron's • 2d ago
+
+---
+
+**[Ripple news: XRP investors likely bought the dip after the recent crash](https://www.coindesk.com/markets/2026/02/15/xrp-is-outrunning-bitcoin-and-ether-after-investors-piled-into-the-recent-crash)**
+
+XRP is outperforming bitcoin and ether following signs of dip buying during recent crash.
+
+CoinDesk • 9h ago
 
 ---
 
@@ -203,19 +211,11 @@ Barron's • 2d ago
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-MLive.com • 14h ago
+MLive.com • 15h ago
 
 ---
 
-**[BlackRock's head of digital assets warns leverage-driven volatility risks undermine b itcoin’s institutional narrative](https://www.coindesk.com/markets/2026/02/13/blackrock-s-head-of-digital-assets-warns-leverage-driven-volatility-risks-undermine-bitcoin-s-institutional-narrative)**
-
-Rampant speculation on crypto derivatives platforms is fueling volatility and risking bitcoin’s image as a stable hedge, says BlackRock’s digital assets chief.
-
-CoinDesk • 2d ago
-
----
-
-**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqdLf2_Qef7SzL6rpYpdmo9yNFfafF5RJddW5NJvURUORSyCFhbUlM7O&gaa_ts=69924b8b&gaa_sig=pADy6VCmZUak4s_P31bQeWGWJuF_J_gFTa_-ji-gAgDf34BPpZWDXy8R_HFow4wObdquC3znJKmYHKWJleOOew%3D%3D)**
+**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqdy5EPOcdQmreqws5_aIID-jaTCq8pIwko6T9LpJyzl9D_yetQ_pbqU&gaa_ts=69925a0b&gaa_sig=aMi5F96ovM4X_TIQUxc69TYF9IFTA3CTsFbnleePLIe-L4q-2WKoH7EWoOb3cJwJrzG2-OYvvbw3FD8-1C2T7A%3D%3D)**
 
 Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
 
@@ -331,7 +331,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 956 • 💬 465 • ⏱️ 30:55 • 8h ago
+👁️ 23K • 👍 956 • 💬 465 • ⏱️ 30:55 • 9h ago
 
 ---
 
@@ -341,7 +341,7 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 415 • 💬 66 • ⏱️ 7:14 • 6h ago
+👁️ 9K • 👍 415 • 💬 66 • ⏱️ 7:14 • 7h ago
 
 ---
 
@@ -351,7 +351,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 395 • 💬 6 • ⏱️ 59:23 • 1h ago
+👁️ 5K • 👍 395 • 💬 6 • ⏱️ 59:23 • 2h ago
 
 ---
 

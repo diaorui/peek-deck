@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T22:53:14.026851+00:00'
+updated: '2026-02-15T23:28:30.767345+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 22:53 UTC  
+**Last Updated:** February 15, 2026 at 23:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-14h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 4h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 5h ago
 
 ---
 
@@ -58,7 +58,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 So I wanna build a small chassis, a single chair that will be operated by joystick and or via Wi-Fi with an Xbox controller or something similar. Anyone have any general outlines of where I should start with that like what kind of controller lens itself well to that type of control what type of motor, etc. have a pretty chunky budget for this but I’m wondering if anyone can suggest starting places. I can weld Tig weld and get basic machining done. My original thought was to start with a Taylor Dunn cart and adapt it, but it actually seems easier at this point to just build something from scratch. Edit- I have a fair amount of experience with building small electric vehicles and so I can size the motor controller battery pack, and the weight requirements for the chassis, but I’ve never made anything completely custom or where I’ve modified the steering breaking and control systems and especially not something that operates wirelessly that’s primarily where my questions come from. Thanks in advance for any suggestions
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -134,7 +134,7 @@ ChinaPower Project • 3d ago
 
 ---
 
-**[China has another solution to its shrinking population: robots](https://edition.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
+**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
@@ -160,7 +160,15 @@ At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, comb
 
 Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
 
-Interesting Engineering • 7h ago
+Interesting Engineering • 8h ago
+
+---
+
+**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
+
+Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
+
+Futurism • 6h ago
 
 ---
 
@@ -178,14 +186,6 @@ New York Post • 2d ago
 
 ---
 
-**[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
-
-Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
-
-Yahoo Finance • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -196,17 +196,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 345K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
-
----
-
-**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
-
-From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
-
-📺 60 Minutes
-
-👁️ 451K • 👍 6K • 💬 955 • ⏱️ 53:47 • 1d ago
+👁️ 357K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -216,7 +206,17 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 133K • 👍 2K • 💬 215 • ⏱️ 11:59 • 5d ago
+👁️ 136K • 👍 2K • 💬 218 • ⏱️ 11:59 • 5d ago
+
+---
+
+**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
+
+From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
+
+📺 60 Minutes
+
+👁️ 496K • 👍 7K • 💬 1K • ⏱️ 53:47 • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ You think Elon Musk built Optimus to fold laundry? That was a distraction. In 20
 
 📺 By 2050
 
-👁️ 1.2M • 👍 28K • 💬 964 • ⏱️ 0:56 • 6d ago
+👁️ 1.2M • 👍 28K • 💬 980 • ⏱️ 0:56 • 6d ago
 
 ---
 
@@ -236,25 +236,7 @@ Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dr
 
 📺 AI News
 
-👁️ 7K • 👍 108 • 💬 23 • ⏱️ 8:03 • 6d ago
-
----
-
-**[He just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=XqisM4FeME8)**
-
-📺 Romi Pal
-
-👁️ 127K • 👍 2K • 💬 35 • ⏱️ 0:37 • 1d ago
-
----
-
-**[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
-
-Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
-
-📺 By 2050
-
-👁️ 14K • 👍 395 • 💬 15 • ⏱️ 0:59 • 1d ago
+👁️ 7K • 👍 109 • 💬 23 • ⏱️ 8:03 • 6d ago
 
 ---
 
@@ -268,23 +250,41 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 
 ---
 
+**[Galaxy of Robots: China Hosts World-First Humanoid Robot Gala | APT](https://www.youtube.com/watch?v=u2dSlko6J4w)**
+
+Join this channel to get access to perks: https://www.youtube.com/channel/UCpLEtz3H0jSfEneSdf1YKnw/join A Chinese robotics ...
+
+📺 APT
+
+👁️ 27K • 👍 713 • 💬 169 • ⏱️ 3:18 • 5d ago
+
+---
+
+**[He just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=XqisM4FeME8)**
+
+📺 Romi Pal
+
+👁️ 143K • 👍 2K • 💬 38 • ⏱️ 0:37 • 1d ago
+
+---
+
+**[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
+
+Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
+
+📺 By 2050
+
+👁️ 15K • 👍 408 • 💬 17 • ⏱️ 0:59 • 1d ago
+
+---
+
 **[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
 
 Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
 
 📺 Jeff Geerling
 
-👁️ 94K • 👍 5K • 💬 266 • ⏱️ 12:38 • 2d ago
-
----
-
-**[This Drone Transforms From Car to Flying Machine 🚁](https://www.youtube.com/watch?v=BT436xmFKso)**
-
-This transformable drone can move in completely different styles. In ground mode, it rolls on wheels like a robotic rover — stable, ...
-
-📺 Facts TV 91
-
-👁️ 828K • 👍 8K • 💬 76 • ⏱️ 0:06 • 21h ago
+👁️ 96K • 👍 5K • 💬 270 • ⏱️ 12:38 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T22:53:14.009182+00:00'
+updated: '2026-02-15T23:28:30.749819+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 22:53 UTC  
+**Last Updated:** February 15, 2026 at 23:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-10h ago
+11h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 If you work in the nonprofit sector and have been wondering how AI could fit into your organization, Why Nonprofits Must Lead in AI is a must-read. Written by a 25-year nonprofit leader and accessibility specialist, this book goes beyond the hype to explore both the risks and opportunities AI presents for mission-driven organizations. Through real-world stories and practical guidance, it shows how nonprofits can integrate AI without losing the human touch. From workflow agents and staff onboarding prompts to a full AI readiness assessment, it provides actionable tools that any team, whether CEO, program director, fundraiser, or operations coordinator, can use to amplify their impact. This book deserves to be #1 in Business Ethics (Kindle Store), Business Leadership Training, and Leadership Training because it combines ethical clarity with actionable guidance. It doesn’t just explain AI adoption, it shows leaders how to implement it responsibly, strategically, and effectively. By helping nonprofits expand reach, improve operations, and strengthen mission outcomes while maintaining trust, transparency, and human-centered leadership, it sets a new standard for how organizations can use technology as a force for good. For anyone looking to navigate AI in the nonprofit world, this book isn’t just a roadmap, it’s a blueprint for leading boldly and ethically in the AI era. https://www.amazon.com/dp/B0FM31JF2Z/ref=sr_1_1?crid=5PA0JZIGCKMG&dib=eyJ2IjoiMSJ9.AFy7Vx2MfL_yyk_7yceYCA.oXglNK0FtlWvPmb19SRyg49ncQa6s1cxw-52SjXieos&dib_tag=se&keywords=teri+padovano&qid=1755063815&sprefix=teri+padovano%2Caps%2C77&sr=8-1
 
-39m ago
+1h ago
 
 ---
 
@@ -97,7 +97,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-12h ago
+13h ago
 
 ---
 
@@ -125,13 +125,13 @@ It does not happen very often in the history of business that an orthogonal prod
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 8h ago
+Axios • 9h ago
 
 ---
 
@@ -149,20 +149,25 @@ The New York Times • 3d ago
 
 ---
 
-**[White House Looking to Big Tech to Shoulder Costs of AI Buildout](https://www.barrons.com/livecoverage/sundayshows0215/card/white-house-looking-to-big-tech-to-shoulder-costs-of-ai-buildout-BnHf5aukTlRKdBvRwkEy?gaa_at=eafs&gaa_n=AWEtsqcvrzREtEf9Mn1gEzMZCTh1GXFM7oZPEtyWjL4v4XSFyM4sm0_KiIng&gaa_ts=69924b87&gaa_sig=0Th8QqXCj42hADwDk1dwk6PcTEIQmV35wgzZjo4N4Z50-HdXmmqg6SzoVCImcXS4QQAqTdKNNKURN7JUo1oBsw%3D%3D)**
+**[Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis](https://www.bloomberg.com/news/articles/2026-02-15/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis)**
 
-President Trump is looking at how artificial intelligence is affecting jobs and the economy, according to top White House advisor Peter Navarro. One potential action would be to force big tech to shoulder the burden AI is putting on the nation's power grid.
-AI is "right on the president's desk and
-
-Barron's • 2h ago
+Bloomberg.com • 58m ago
 
 ---
 
-**[One of Stanford's original AI gurus says productivity liftoff has begun after doubling in 2025](https://fortune.com/2026/02/15/ai-productivity-liftoff-doubling-2025-jobs-report-transition-harvest-phase-j-curve/)**
+**[Huang and Pichai among tech CEOs heading to India for major AI summit in a key market](https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html)**
 
-"We are transitioning from an era of AI experimentation to one of structural utility."
+India has a market of young, tech-forward consumers and a huge pool of talent which could be key to continued development of AI.
 
-Fortune • 2h ago
+CNBC • 12m ago
+
+---
+
+**[Makers of AI chatbots that put children at risk face big fines or UK ban](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban)**
+
+Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
+
+The Guardian • 58m ago
 
 ---
 
@@ -182,15 +187,11 @@ Business Insider • 13h ago
 
 ---
 
-**[‘We’re All Polyamorous Now. It’s You, Me and the A.I.’](https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html)**
+**[AI robots built for companionship ignite debate on relationships](https://www.foxnews.com/video/6389311450112)**
 
-The New York Times • 2d ago
+'The Big Weekend Show' panel discusses the impact of artificial intelligence on human connection as one survey indicates 20% of teens are in a relationship with AI.
 
----
-
-**[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
-
-Bloomberg • 8h ago
+Fox News • 5h ago
 
 ---
 
@@ -262,7 +263,7 @@ It comes in the same week an OpenAI researcher resigned amid concerns about its 
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 81 • 💬 163 • 7h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 81 • 💬 163 • 8h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -352,7 +353,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 5K • 👍 457 • 💬 120 • ⏱️ 9:43 • 58m ago
+👁️ 5K • 👍 457 • 💬 120 • ⏱️ 9:43 • 1h ago
 
 ---
 
@@ -388,7 +389,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 128,078 • ❤️ 1,194 • 2d ago
+⬇️ 128,078 • ❤️ 1,198 • 2d ago
 
 ---
 
@@ -400,7 +401,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 11,092 • ❤️ 601 • 1d ago
+⬇️ 11,092 • ❤️ 604 • 1d ago
 
 ---
 
@@ -412,19 +413,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,986 • ❤️ 440 • 4d ago
-
----
-
-**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
-
-*Moonshot AI*
-
-Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. It supports coding from visual inputs and features an 'Agent Swarm' for complex task decomposition and parallel execution, with a context length of 256K.
-
-`image-text-to-text` `170.7B`
-
-⬇️ 756,817 • ❤️ 2,182 • 10d ago
+⬇️ 2,986 • ❤️ 442 • 4d ago
 
 ---
 
@@ -436,7 +425,19 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 11,129 • ❤️ 410 • 2d ago
+⬇️ 11,129 • ❤️ 417 • 2d ago
+
+---
+
+**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+
+*Moonshot AI*
+
+Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. It supports coding from visual inputs and features an 'Agent Swarm' for complex task decomposition and parallel execution, with a context length of 256K.
+
+`image-text-to-text` `170.7B`
+
+⬇️ 756,817 • ❤️ 2,185 • 10d ago
 
 ---
 
@@ -460,7 +461,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 270,983 • ❤️ 867 • 12d ago
+⬇️ 270,983 • ❤️ 868 • 12d ago
 
 ---
 
@@ -484,7 +485,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,303 • ❤️ 208 • 3d ago
+⬇️ 6,303 • ❤️ 209 • 3d ago
 
 ---
 
@@ -496,13 +497,25 @@ MOSS-TTS is a family of high-fidelity, expressive speech and sound generation mo
 
 `text-to-speech` `8.5B`
 
-⬇️ 5,784 • ❤️ 187 • 2d ago
+⬇️ 5,784 • ❤️ 190 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 9 • 💬 1 • ⭐ 3,784 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
 
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
@@ -513,18 +526,6 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 0 • 💬 0 • ⭐ 3,721 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
-
----
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 9 • 💬 1 • ⭐ 3,589 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -565,7 +566,7 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 141 • 💬 19 • ⭐ 53,092 • 11mo ago
+▲ 141 • 💬 19 • ⭐ 53,126 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -577,35 +578,9 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 159 • 💬 3 • ⭐ 5,508 • 7mo ago
+▲ 159 • 💬 3 • ⭐ 5,541 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
-
----
-
-**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
-
-*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
-
-🏢 Qwen
-
-The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
-
-▲ 64 • 💬 1 • ⭐ 7,712 • 25d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 134 • 💬 6 • ⭐ 14,745 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -628,9 +603,37 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 35 • 💬 1 • ⭐ 70,333 • 29mo ago
+▲ 35 • 💬 1 • ⭐ 70,363 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
+
+*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
+
+🏢 Qwen
+
+The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
+
+▲ 65 • 💬 1 • ⭐ 7,731 • 25d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://huggingface.co/papers/2602.09153)**
+
+*Nicholas Pfaff, Thomas Cohn, Sergey Zakharov et al. (5 authors)*
+
+🏢 Toyota Research Institute
+
+SceneSmith is a hierarchical agentic framework that generates simulation-ready indoor environments from natural language prompts through multiple stages involving VLM agents and integrated asset generation techniques.
+
+▲ 4 • 💬 2 • ⭐ 205 • 6d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.09153) • [💻 code](https://github.com/nepfaff/scenesmith) • [🔗 project](https://scenesmith.github.io/)
 
 ---
 
@@ -660,7 +663,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.6k • 🔱 167 • 12d ago
+⭐ 3.6k • 🔱 167 • 13d ago
 
 ---
 
@@ -678,7 +681,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 256 • 41m ago
+⭐ 2.5k • 🔱 256 • 1h ago
 
 ---
 
