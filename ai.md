@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T17:27:05.413443+00:00'
+updated: '2026-02-15T17:53:01.640760+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- social
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 17:27 UTC  
+**Last Updated:** February 15, 2026 at 17:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -36,6 +36,14 @@ AI news, discussions, and developments
 ---
 
 ## Reddit: r/artificial
+
+**[Trump leans on Utah Republicans to scrap AI safety bill](https://www.reddit.com/r/artificial/comments/1r5hk0d/trump_leans_on_utah_republicans_to_scrap_ai/)**
+
+The White House has urged Republican lawmakers in Utah to abandon a bill that would force AI companies to implement public safety measures, escalating its confrontation with states trying to rein in the technology. A memo the White House sent to Utah lawmakers last week and seen by the FT, said: “We are categorically opposed to Utah HB 286 and view it as an unfixable bill that goes against the administration’s AI agenda”. Republican representative Doug Fiefia, a former Google employee, proposed the Artificial Intelligence Transparency Act. It is supported by another Republican, Senator Mike McKell, and was advanced last month by a legislative committee in Utah with a Republican majority. The legislation would mandate developers of leading AI models to implement and publish public safety plans that outline how they are mitigating cyber security risks, while also establishing a comprehensive child safety plan and whistleblower protections. Read more, here: https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f
+
+🔗 [ft.com](https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 2h ago
+
+---
 
 **[Microsoft AI chief gives it 18 months for all white-collar work to be automated by AI](https://www.reddit.com/r/artificial/comments/1r4oc2i/microsoft_ai_chief_gives_it_18_months_for_all/)**
 
@@ -63,25 +71,9 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 **[Validation prompts - getting more accurate responses from LLM chats](https://www.reddit.com/r/artificial/comments/1r59tzo/validation_prompts_getting_more_accurate/)**
 
-Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚
+Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
 
-8h ago
-
----
-
-**[ChatGPT promised to help her find her soulmate. Then it betrayed her](https://www.reddit.com/r/artificial/comments/1r5hk8g/chatgpt_promised_to_help_her_find_her_soulmate/)**
-
-ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
-
-🔗 [NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot) • 1h ago
-
----
-
-**[Trump leans on Utah Republicans to scrap AI safety bill](https://www.reddit.com/r/artificial/comments/1r5hk0d/trump_leans_on_utah_republicans_to_scrap_ai/)**
-
-The White House has urged Republican lawmakers in Utah to abandon a bill that would force AI companies to implement public safety measures, escalating its confrontation with states trying to rein in the technology. A memo the White House sent to Utah lawmakers last week and seen by the FT, said: “We are categorically opposed to Utah HB 286 and view it as an unfixable bill that goes against the administration’s AI agenda”. Republican representative Doug Fiefia, a former Google employee, proposed the Artificial Intelligence Transparency Act. It is supported by another Republican, Senator Mike McKell, and was advanced last month by a legislative committee in Utah with a Republican majority. The legislation would mandate developers of leading AI models to implement and publish public safety plans that outline how they are mitigating cyber security risks, while also establishing a comprehensive child safety plan and whistleblower protections. Read more, here: https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f
-
-🔗 [ft.com](https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 1h ago
+9h ago
 
 ---
 
@@ -89,7 +81,7 @@ The White House has urged Republican lawmakers in Utah to abandon a bill that wo
 
 I’m looking for free tools to generate AI videos. I’m not interested in paid subscriptions or "free trials" that require a credit card right now. I just want to test the waters and see what’s possible. I know that "free" often comes with limits (watermarks, short clips, queues), and I’m fine with that. What are the best options out there right now? I’ve seen some talk about tools based on Google Veo or stuff on HuggingFace, but the landscape changes so fast. Specifically looking for: Text-to-video generation. Actually free to use (no hidden costs). Decent quality for a free tool. What are you guys using? Also, any specific subreddits I should be following for this stuff?
 
-3h ago
+4h ago
 
 ---
 
@@ -105,7 +97,15 @@ Everyone’s screaming that “AI coding is going to replace human developers”
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-18h ago
+19h ago
+
+---
+
+**[ChatGPT promised to help her find her soulmate. Then it betrayed her](https://www.reddit.com/r/artificial/comments/1r5hk8g/chatgpt_promised_to_help_her_find_her_soulmate/)**
+
+ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
+
+🔗 [NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot) • 2h ago
 
 ---
 
@@ -113,7 +113,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-19h ago
+20h ago
 
 ---
 
@@ -131,7 +131,7 @@ Axios • 3h ago
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 11m ago
+The Washington Post • 37m ago
 
 ---
 
@@ -147,7 +147,7 @@ Financial Times • 2h ago
 
 Editorial: Cash-hungry Silicon Valley firms are scrambling for revenue. Regulate them now before the tech becomes too big to fail
 
-The Guardian • 2m ago
+The Guardian • 28m ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 2d ago
 
 Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.
 
-TechCrunch • 1h ago
+TechCrunch • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 2d ago
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -203,13 +203,7 @@ Business Insider • 2d ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 710 • 💬 590 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
-
----
-
-**[ai;dr](https://news.ycombinator.com/item?id=46991394)**
-
-⬆️ 710 • 💬 301 • 3d ago • [0xsid.com](https://www.0xsid.com/blog/aidr)
+⬆️ 714 • 💬 596 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -217,7 +211,7 @@ Business Insider • 2d ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 535 • 💬 337 • 22h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 538 • 💬 343 • 23h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -225,7 +219,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 357 • 💬 240 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 358 • 💬 245 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -233,7 +227,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 341 • 💬 542 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 343 • 💬 544 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -247,7 +241,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 239 • 💬 125 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 241 • 💬 125 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -271,7 +265,15 @@ One Rust binary that runs the full AI assistant: multi-provider LLM routing, too
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 112 • 💬 60 • 18h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 113 • 💬 61 • 19h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+
+---
+
+**[AI safety leader says 'world is in peril' and quits to study poetry](https://news.ycombinator.com/item?id=47007877)**
+
+It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
+
+⬆️ 86 • 💬 57 • 1d ago • [bbc.com](https://www.bbc.com/news/articles/c62dlvdq3e3o)
 
 ---
 
@@ -285,57 +287,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 321K • 👍 6K • 💬 4K • ⏱️ 9:47 • 2d ago
-
----
-
-**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 14K • 👍 720 • 💬 65 • ⏱️ 7:05 • 1d ago
-
----
-
-**[DeepMind Leaked Possibly the Greatest AI Ever](https://www.youtube.com/watch?v=OTRvoxPSQ_8)**
-
-Sponsored by Genspark. Try the all-in-one AI workplace for free: ...
-
-📺 Pourya Kordi
-
-👁️ 30K • 👍 1K • 💬 100 • ⏱️ 13:42 • 2d ago
-
----
-
-**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
-
-Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
-
-📺 Asmongold TV  
-
-👁️ 584K • 👍 19K • 💬 4K • ⏱️ 20:40 • 2d ago
-
----
-
-**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
-
-An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
-
-📺 CBS LA
-
-👁️ 64K • 👍 645 • 💬 353 • ⏱️ 3:04 • 1d ago
-
----
-
-**[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
-
-New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
-
-📺 ABC News
-
-👁️ 125K • 👍 1K • 💬 705 • ⏱️ 3:58 • 2d ago
+👁️ 331K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -345,27 +297,27 @@ A 15-second AI video of Tom Cruise and Brad Pitt has the industry buzzing and co
 
 📺 KTLA 5
 
-👁️ 106K • 👍 452 • 💬 191 • ⏱️ 2:51 • 1d ago
+👁️ 111K • 👍 473 • 💬 202 • ⏱️ 2:51 • 1d ago
 
 ---
 
-**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+**[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
 
-Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
 
-📺 Spacialize
+📺 ABC News
 
-👁️ 87K • 👍 2K • 💬 339 • ⏱️ 17:28 • 2d ago
+👁️ 128K • 👍 1K • 💬 715 • ⏱️ 3:58 • 2d ago
 
 ---
 
-**[AI job losses: A &#39;catastrophe&#39; that would go to the core of US power](https://www.youtube.com/watch?v=uU06JoEAgtw)**
+**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
 
-Today on The Tech Report, Fergus Macphee is joined by Josh Tyrangiel to discuss a long-read piece he has written in The ...
+Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
 
-📺 The Tech Report
+📺 Asmongold TV  
 
-👁️ 15K • 👍 398 • 💬 163 • ⏱️ 23:43 • 2d ago
+👁️ 586K • 👍 19K • 💬 4K • ⏱️ 20:40 • 2d ago
 
 ---
 
@@ -375,7 +327,57 @@ Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce L
 
 📺 ShadowRivals
 
-👁️ 25K • 👍 617 • 💬 84 • ⏱️ 2:02 • 1d ago
+👁️ 30K • 👍 688 • 💬 91 • ⏱️ 2:02 • 1d ago
+
+---
+
+**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
+
+An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
+
+📺 CBS LA
+
+👁️ 69K • 👍 703 • 💬 361 • ⏱️ 3:04 • 1d ago
+
+---
+
+**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+
+Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+
+📺 Spacialize
+
+👁️ 88K • 👍 2K • 💬 339 • ⏱️ 17:28 • 2d ago
+
+---
+
+**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 14K • 👍 730 • 💬 67 • ⏱️ 7:05 • 1d ago
+
+---
+
+**[Laughing At Dumb AI Videos (Seedance 2)](https://www.youtube.com/watch?v=QO8VXljyJ-I)**
+
+more slop merch that ISN'T AI SLOP - https://dandingle.store/ everything in this video is AI and not real edited by: me become a ...
+
+📺 Dan Dingle
+
+👁️ 107K • 👍 7K • 💬 1K • ⏱️ 18:00 • 1d ago
+
+---
+
+**[This Hidden AI YouTube Niche Makes $500,000/Year](https://www.youtube.com/watch?v=FMsdH9UyI6Y)**
+
+Create AI videos with Higgsfield: https://higgsfield.ai/nano-banana-2-intro/?utm_source=DannyWhy Join My Private ...
+
+📺 Danny Why
+
+👁️ 16K • 👍 894 • 💬 104 • ⏱️ 20:50 • 1d ago
 
 ---
 
@@ -646,7 +648,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.8k • 🔱 448 • 4d ago
+⭐ 5.8k • 🔱 449 • 4d ago
 
 ---
 
@@ -654,7 +656,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.8k • 🔱 382 • 23d ago
+⭐ 4.8k • 🔱 381 • 23d ago
 
 ---
 
@@ -682,7 +684,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 255 • 1h ago
+⭐ 2.5k • 🔱 256 • 2h ago
 
 ---
 
@@ -722,7 +724,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.9k • 🔱 204 • 2d ago
+⭐ 1.9k • 🔱 205 • 2d ago
 
 ---
 
@@ -732,7 +734,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 240 • 1d ago
+⭐ 1.9k • 🔱 242 • 23m ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T17:27:05.431978+00:00'
+updated: '2026-02-15T17:53:01.658370+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 17:27 UTC  
+**Last Updated:** February 15, 2026 at 17:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,21 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-8h ago
+9h ago
+
+---
+
+**[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
+
+40m ago
+
+---
+
+**[I want to build a chassis](https://www.reddit.com/r/robotics/comments/1r5jvh8/i_want_to_build_a_chassis/)**
+
+So I wanna build a small chassis, a single chair that will be operated by joystick and or via Wi-Fi with an Xbox controller or something similar. Anyone have any general outlines of where I should start with that like what kind of controller lens itself well to that type of control what type of motor, etc. have a pretty chunky budget for this but I’m wondering if anyone can suggest starting places. I can weld Tig weld and get basic machining done. My original thought was to start with a Taylor Dunn cart and adapt it, but it actually seems easier at this point to just build something from scratch. Thanks in advance for any suggestions
+
+46m ago
 
 ---
 
@@ -52,7 +66,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-58m ago
+1h ago
 
 ---
 
@@ -68,7 +82,7 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-10h ago
+11h ago
 
 ---
 
@@ -80,29 +94,13 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-10h ago
+11h ago
 
 ---
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
 1d ago
-
----
-
-**[Advanced Open Source Custom F405 Flight Controller for FPV drones](https://www.reddit.com/r/robotics/comments/1r4f97i/advanced_open_source_custom_f405_flight/)**
-
-Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 8× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12v input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
-
-1d ago
-
----
-
-**[Orp-testmechv2 showcase 14-02-2026](https://www.reddit.com/r/robotics/comments/1r4t9gb/orptestmechv2_showcase_14022026/)**
-
-I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
-
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 22h ago
 
 ---
 
@@ -130,7 +128,7 @@ Nature • 3d ago
 
 The Fraunhofer Institute for Manufacturing Engineering and Automation IPA is helping to improve absolute accuracy for robots.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -160,7 +158,7 @@ ChinaPower Project • 2d ago
 
 Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Futurism • 27m ago
+Futurism • 53m ago
 
 ---
 
@@ -228,7 +226,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 12K • 👍 363 • 💬 12 • ⏱️ 0:59 • 21h ago
+👁️ 12K • 👍 363 • 💬 12 • ⏱️ 0:59 • 22h ago
 
 ---
 
@@ -268,7 +266,7 @@ A bold statement like this instantly ignites curiosity and debate across the wor
 
 📺 Billionaire Shots
 
-👁️ 10K • 👍 970 • 💬 120 • ⏱️ 0:25 • 14h ago
+👁️ 10K • 👍 970 • 💬 120 • ⏱️ 0:25 • 15h ago
 
 ---
 
@@ -278,7 +276,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 709K • 👍 7K • 💬 64 • ⏱️ 0:06 • 15h ago
+👁️ 709K • 👍 7K • 💬 64 • ⏱️ 0:06 • 16h ago
 
 ---
 

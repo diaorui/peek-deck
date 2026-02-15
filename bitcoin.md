@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T17:27:05.421872+00:00'
+updated: '2026-02-15T17:53:01.649096+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 17:27 UTC  
+**Last Updated:** February 15, 2026 at 17:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,967.67
+### $68,352.75
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.9%  
-**7d:** -1.5%  
-**30d:** -27.4%  
-**90d:** -25.7%  
-**1y:** -28.2%  
+**24h:** -1.7%  
+**7d:** -2.2%  
+**30d:** -27.9%  
+**90d:** -26.2%  
+**1y:** -28.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1379.79B
+**Market Cap:** $1366.00B
 Rank #1
 
-**Circulating Supply:** 19,989,828 BTC
+**Circulating Supply:** 19,989,887 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.3%
+-45.8%
 
 **All-Time Low:** $67.81
-+101691.8%
++100621.1%
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
+
+5h ago
+
+---
+
 **[Once again I had to put a Bitcoin QR code on my lastest mural under the Louvre in Paris](https://www.reddit.com/r/Bitcoin/comments/1r5dggv/once_again_i_had_to_put_a_bitcoin_qr_code_on_my/)**
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-4h ago
+5h ago
 
 ---
 
@@ -89,19 +95,13 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-10h ago
+11h ago
 
 ---
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-2h ago
-
----
-
-**[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
-
-4h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,15 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 15h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 16h ago
+
+---
+
+**[Where are people going for thoughtful Bitcoin coverage these days?](https://www.reddit.com/r/Bitcoin/comments/1r5kc6d/where_are_people_going_for_thoughtful_bitcoin/)**
+
+I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actually instrumental in shaping my early interest in Bitcoin. I appreciated the thoughtful guests, organic conversations, and what felt like a politically neutral commitment to information. Also, I loved that she was a woman contributing in a male dominated space. However, as I’ve begun following her on other platforms, I’ve found myself increasingly surprised, and frankly disappointed, by the content she chooses to amplify. Given her journalistic background, the recirculation of easily debunked claims and politically loaded narratives feels at odds with the credibility she originally built. At a certain point, the casual sharing of baseless memes and tweets, and unverified claims begins to undermine the very authority that made her platform compelling in the first place. I’d love to know what outlets, podcasts, or writers people trust today for nuanced, intellectually honest Bitcoin coverage?
+
+28m ago
 
 ---
 
@@ -142,14 +150,6 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 21 years old and Complete bitcoin/crypto beginner, however I’d rather put my money to work than let the fiat rot in a bank. Very interesting life setup I currently have - £200/m rent, low expenses, £3k+ monthly salary. Planning to DCA for the next 4 years ~£600 a week. Also planning to cop a Trezor 7 and just lock the BTC away until I plan to move countries and make use of the 10% tax in Eastern Europe instead of getting graped by the UK 20%+. Any tips or suggestions would be appreciated.
 
 1h ago
-
----
-
-**[Predictions](https://www.reddit.com/r/Bitcoin/comments/1r56j7c/predictions/)**
-
-What would you say we are looking at for predictions for 1,3,5 years
-
-11h ago
 
 ---
 
@@ -241,22 +241,6 @@ The Times • 19h ago
 
 ---
 
-**[Bitcoin is still about $69,000 too high](https://news.ycombinator.com/item?id=46935874)**
-
-The crypto crash is coming — and the landing won’t be pretty
-
-⬆️ 5 • 💬 1 • 7d ago • [ft.com](https://www.ft.com/content/2b030926-2012-4446-b22d-e549e10e7086)
-
----
-
-**[Bitcoin company helped draft law to enable libertarian Caribbean development](https://news.ycombinator.com/item?id=46936132)**
-
-Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
-
-⬆️ 4 • 💬 0 • 7d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
-
----
-
 **[Bitcoin and post-quantum crypto (BIP-341 Taproot and ML-DSA/Falcon, 136 tests)](https://news.ycombinator.com/item?id=46969996)**
 
 Hybrid Post-Quantum Bitcoin Wallet — ML-DSA + Falcon signatures on BIP-341 Taproot PSBTs. 136/136 tests passing. No soft fork required. - emilianosolazzi/PQ-PSBT-WALLET
@@ -307,7 +291,23 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
-⬆️ 2 • 💬 0 • 21h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 2 • 💬 0 • 22h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+
+---
+
+**[Bitcoin investor's helped draft law to enable libertarian Caribbean development](https://news.ycombinator.com/item?id=46947225)**
+
+Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
+
+⬆️ 2 • 💬 0 • 6d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
+
+---
+
+**[Show HN: Bitcoin, GEB, and Bach's fugues share the same structural move](https://news.ycombinator.com/item?id=46976351)**
+
+Reverse-engineer how creative works operate—and what they train in audiences.
+
+⬆️ 1 • 💬 1 • 4d ago • [FalseWork](https://falsework.dev/)
 
 ---
 
@@ -321,7 +321,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 7K • 👍 575 • 💬 90 • ⏱️ 12:55 • 4h ago
+👁️ 15K • 👍 881 • 💬 153 • ⏱️ 12:55 • 5h ago
 
 ---
 
@@ -331,7 +331,17 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 4K • 👍 307 • 💬 83 • ⏱️ 30:55 • 3h ago
+👁️ 9K • 👍 587 • 💬 135 • ⏱️ 30:55 • 3h ago
+
+---
+
+**[BEST 4 Altcoins (USA Government MAJOR Announcement)](https://www.youtube.com/watch?v=zsz1NAGvtgQ)**
+
+Nick Valdez looks at the latest news from the CFTC. This news will have a massive impact on 4 different altcoins! Lets look at the ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 175 • 💬 15 • ⏱️ 7:14 • 1h ago
 
 ---
 
@@ -341,17 +351,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 207 • 💬 6 • ⏱️ 17:15 • 1d ago
-
----
-
-**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
-
-Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
-
-📺 Altcoin Daily
-
-👁️ 63K • 👍 3K • 💬 285 • ⏱️ 15:20 • 1d ago
+👁️ 6K • 👍 215 • 💬 7 • ⏱️ 17:15 • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 196 • 💬 14 • ⏱️ 20:41 • 19h ago
+👁️ 4K • 👍 204 • 💬 14 • ⏱️ 20:41 • 19h ago
 
 ---
 
@@ -371,45 +371,47 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 10K • 👍 653 • 💬 34 • ⏱️ 10:24 • 11h ago
+👁️ 11K • 👍 691 • 💬 36 • ⏱️ 10:24 • 12h ago
 
 ---
 
-**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
+**[Crypto Is About To Explode (Here’s Why) “Like Buying Bitcoin in 2018”](https://www.youtube.com/watch?v=ifvU-MHBkoQ)**
+
+Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concordium Website: https://www.concordium.com/ ...
+
+📺 Altcoin Daily
+
+👁️ 64K • 👍 3K • 💬 287 • ⏱️ 15:20 • 1d ago
+
+---
+
+**[Is the Crash in Bitcoin Near Capitulation and a Major Bottom?](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
 
 Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
 
 📺 Alessio Rastani
 
-👁️ 41K • 👍 3K • 💬 458 • ⏱️ 8:15 • 1d ago
+👁️ 42K • 👍 4K • 💬 470 • ⏱️ 8:15 • 1d ago
 
 ---
 
-**[Bitcoin Dominance](https://www.youtube.com/watch?v=3PCBcXqTx2g)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=PU2FpHG6xEY)**
 
-Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Benjamin Cowen
+📺 Punjabibeautyonduty
 
-👁️ 35K • 👍 2K • 💬 101 • ⏱️ 18:10 • 11h ago
-
----
-
-**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
-
-📺 Pawn Media
-
-👁️ 117K • 👍 3K • 💬 25 • ⏱️ 0:59 • 1d ago
+👁️ 6K • 👍 2K • 2h ago
 
 ---
 
-**[Bitcoin&#39;s &quot;Doom Vortex&quot; Looms as Dominoes Align for MASSIVE Crash](https://www.youtube.com/watch?v=5MZOklSoepc)**
+**[Bitcoin Miners Are Abandoning BTC... And No One Is Talking About Why](https://www.youtube.com/watch?v=cQj0D74gT_Y)**
 
-Everyone is asking whether Bitcoin will bounce back. Glenn Beck says that's the wrong question. The real issue isn't price ...
+Recently Bitcoin crashed to $60000, below key support levels set by the previous cycle. This has put BTC's price in the danger ...
 
-📺 Glenn Beck Clips
+📺 Coin Bureau
 
-👁️ 20K • 👍 977 • 💬 268 • ⏱️ 11:34 • 2d ago
+👁️ 77K • 👍 3K • 💬 420 • ⏱️ 19:46 • 1d ago
 
 ---
 

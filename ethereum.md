@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T17:27:05.427836+00:00'
+updated: '2026-02-15T17:53:01.655147+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 17:27 UTC  
+**Last Updated:** February 15, 2026 at 17:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,002.47
+### $1,964.11
 
 ---
 
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $242.37B
+**Market Cap:** $236.98B
 Rank #2
 
 **Circulating Supply:** 120,692,458 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.4%
+-60.4%
 
 **All-Time Low:** $0.43
-+463610.7%
++452788.0%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 19h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 335 • ⏱️ 34:57 • 17h ago
+👁️ 46K • 👍 2K • 💬 358 • ⏱️ 34:57 • 17h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 650 • 👍 90 • 💬 4 • ⏱️ 4:45 • 3h ago
+👁️ 1K • 👍 120 • 💬 5 • ⏱️ 4:45 • 3h ago
 
 ---
 
@@ -258,17 +258,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 238 • 👍 17 • 💬 18 • ⏱️ 13:02 • 3h ago
-
----
-
-**[BE READY FOR THESE MOVES NEXT WEEK🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_8FCLY15qBc)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 176 • 👍 12 • 💬 1 • ⏱️ 4:36 • 6h ago
+👁️ 558 • 👍 37 • 💬 19 • ⏱️ 13:02 • 3h ago
 
 ---
 
@@ -278,27 +268,17 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 86 • 💬 3 • ⏱️ 17:25 • 1d ago
+👁️ 3K • 👍 89 • 💬 5 • ⏱️ 17:25 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eOEoHpHQCRQ)**
+**[BE READY FOR THESE MOVES NEXT WEEK🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_8FCLY15qBc)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 162 • 💬 10 • ⏱️ 4:45 • 15h ago
-
----
-
-**[Ethereum&#39;s wild history: V-Bottoms guaranteed?](https://www.youtube.com/watch?v=5NvRpJ2vyeo)**
-
-Observers note a striking pattern: Ethereum has tanked over 50% eight separate times since 2018, yet each time, it snapped back ...
-
-📺 Wolf of Dubai Day Trading & Investing
-
-👁️ 293 • 👍 3 • ⏱️ 1:08 • 2h ago
+👁️ 247 • 👍 13 • 💬 2 • ⏱️ 4:36 • 7h ago
 
 ---
 
@@ -308,7 +288,37 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 2K • 👍 232 • 💬 16 • ⏱️ 5:42 • 1d ago
+👁️ 2K • 👍 236 • 💬 16 • ⏱️ 5:42 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eOEoHpHQCRQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 16h ago
+
+---
+
+**[Build Your Own Ethereum DEX Arbitrage Trading Bot (Easy Tutorial) [2026]](https://www.youtube.com/watch?v=y21ItVWVhB8)**
+
+For any questions contact me on Telegram : https://t.me/cryptobotdev124 Download the bot here ...
+
+📺 Cole the DeFi Maker
+
+👁️ 2K • ⏱️ 7:43 • 2h ago
+
+---
+
+**[Ethereum&#39;s wild history: V-Bottoms guaranteed?](https://www.youtube.com/watch?v=5NvRpJ2vyeo)**
+
+Observers note a striking pattern: Ethereum has tanked over 50% eight separate times since 2018, yet each time, it snapped back ...
+
+📺 Wolf of Dubai Day Trading & Investing
+
+👁️ 390 • 👍 6 • ⏱️ 1:08 • 3h ago
 
 ---
 
@@ -318,17 +328,7 @@ The developments in the utility crypto space is interesting today. We have great
 
 📺 Crypto Growth
 
-👁️ 68 • 👍 10 • 💬 18 • ⏱️ 17:21 • 2h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oNFCq8jGs4o)**
-
-BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 286 • 💬 31 • ⏱️ 17:42 • 19h ago
+👁️ 216 • 👍 29 • 💬 18 • ⏱️ 17:21 • 2h ago
 
 ---
 
