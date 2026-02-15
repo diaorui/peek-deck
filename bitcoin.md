@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T11:26:07.086618+00:00'
+updated: '2026-02-15T11:47:29.945584+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 11:26 UTC  
+**Last Updated:** February 15, 2026 at 11:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,454.78
+### $70,496.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.0%  
-**7d:** +0.5%  
-**30d:** -25.9%  
-**90d:** -24.2%  
-**1y:** -26.8%  
+**24h:** +1.0%  
+**7d:** +0.3%  
+**30d:** -26.1%  
+**90d:** -24.3%  
+**1y:** -26.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1410.60B
+**Market Cap:** $1404.94B
 Rank #1
 
 **Circulating Supply:** 19,989,546 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.0%
+-44.2%
 
 **All-Time Low:** $67.81
-+103968.7%
++103566.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-15h ago
+16h ago
 
 ---
 
@@ -97,7 +97,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-4h ago
+5h ago
 
 ---
 
@@ -106,6 +106,12 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
 🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 9h ago
+
+---
+
+**[The 36% Trap: How the New Dutch Tax on Bitcoin Turns Paper Profits into Real Ruin.](https://www.reddit.com/r/Bitcoin/comments/1r5b8aa/the_36_trap_how_the_new_dutch_tax_on_bitcoin/)**
+
+🔗 [inbitcoinwetrust.substack.com](https://inbitcoinwetrust.substack.com/p/the-36-trap-how-the-new-dutch-tax) • 1h ago
 
 ---
 
@@ -121,7 +127,15 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-5h ago
+6h ago
+
+---
+
+**[Title: Open-source C++ secp256k1 library with full Bitcoin stack: Taproot, Silent Payments, MuSig2, FROST, BIP-32/44, and GPU acceleration](https://www.reddit.com/r/Bitcoin/comments/1r5ca6d/title_opensource_c_secp256k1_library_with_full/)**
+
+I've been building a comprehensive secp256k1 library that covers the full modern Bitcoin protocol stack: 🟢 Bitcoin-specific: Taproot (BIP-341/342) with tweak + Merkle tree BIP-352 Silent Payments MuSig2 (BIP-327) — 2-round key aggregation FROST threshold signatures (t-of-n) BIP-32 HD derivation (xprv/xpub, path parsing) BIP-44 coin-type derivation All address types: P2PKH, P2WPKH, P2TR, Base58Check, Bech32/Bech32m ⚡ Performance: x64 assembly with BMI2/ADX (3-5× speedup) CUDA GPU batch processing (4.63M key generations/sec) GLV endomorphism, precomputation tables Zero heap allocations in hot paths 🔐 Security: Constant-time operations (dedicated ct namespace) RFC 6979 deterministic nonces Low-S normalization 200+ tests with known vector verification Zero external dependencies. MIT licensed. GitHub: [github.com/shrec/UltrafastSecp256k1](vscode-file://vscode-app/c:/Users/shrek/AppData/Local/Programs/Microsoft%20VS%20Code/b6a47e94e3/resources/app/out/vs/code/electron-browser/workbench/workbench.html)
+
+24m ago
 
 ---
 
@@ -129,13 +143,7 @@ What would you say we are looking at for predictions for 1,3,5 years
 
 Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
 
-10h ago
-
----
-
-**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
-
-1d ago
+11h ago
 
 ---
 
@@ -147,17 +155,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[Help w/adoption for business](https://www.reddit.com/r/Bitcoin/comments/1r586lc/help_wadoption_for_business/)**
-
-So I just open a coffe shop for runners, I’m a hodlr and I want to accept bitcoin as form of payment where do start how do I convert in real time the price of my client orders to BTC, is there an app I can use to keep tab of my income like: 02/03/2026 1 coffe $1.5dlls=.xxxxbtc Or any suggestion how can I keep tabs on BTC transactions like this so at the end of the month I can reconcile my inventory and sales ? Also I want it to go directly to a cold wallet Any suggestion? Should I have a device exclusively to do this and at the end of the day have it send to cold wallet? Is it too much hassle? Is there an easier way? Thanks Sorry if I’m not expressing correctly. It’s not my first language.
-
-4h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
+
+**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+
+Forbes • 22h ago
+
+---
 
 **[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
@@ -167,33 +173,17 @@ Nasdaq • 22h ago
 
 ---
 
-**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+**[Trump-Linked Truth Social Files for Bitcoin, Ethereum and CRO Staking ETFs](https://finance.yahoo.com/news/trump-linked-truth-social-files-105000773.html)**
 
-Forbes • 22h ago
+Trump Media and Technology Group is expanding its push into digital assets, filing for two new cryptocurrency exchange-traded funds tied to Bitcoin, Ether and the Cronos ecosystem. Key Takeaways: Trump Media filed for two crypto ETFs tracking Bitcoin, Ether and the Cronos token. The Cronos fund would include staking rewards ...
 
----
-
-**[Is the World's Largest Corporate Holder of Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2026/02/15/is-the-worlds-largest-corporate-holder-of-bitcoin/)**
-
-Investors are starting to question the true value of Strategy's $50 billion Bitcoin stash.
-
-The Motley Fool • 2h ago
+Yahoo Finance • 57m ago
 
 ---
 
-**[Is the World's Largest Corporate Holder of Bitcoin a Buy, Sell, or Hold in 2026?](https://finance.yahoo.com/news/worlds-largest-corporate-holder-bitcoin-092000731.html)**
+**[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
-Investors are starting to question the true value of Strategy's $50 billion Bitcoin stash.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Michael Saylor: Strategy Has No Liquidation Risk Until Bitcoin Falls to $8,000 — How Is That Possible?](https://www.ccn.com/news/crypto/strategy-no-liquidation-bitcoin-reach-8000-hows-that-possible/)**
-
-Strategy faces no liquidation risk until BTC falls to $8,000? How's that possible? Find out in this CCN feature.
-
-CCN.com • 1d ago
+Forbes • 42m ago
 
 ---
 
@@ -213,14 +203,6 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqdObGKTKeDiGW9GFWkUiCECXIlvcRuBYD_2sgEbuFEa8dwsWUmRl0lT&gaa_ts=6991a2d9&gaa_sig=MzIZWn56EUztNIxEsCRqth0cX3UJGmuLjvoBvTeb6eqz0lV2c03ijLGXPb6pPgMexUzntnwaghF0GIbyX54sQg%3D%3D)**
-
-Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
-
-The Times • 13h ago
-
----
-
 **[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
@@ -234,6 +216,22 @@ MLive.com • 3h ago
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
 dlnews.com • 13h ago
+
+---
+
+**[Is the World's Largest Corporate Holder of Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2026/02/15/is-the-worlds-largest-corporate-holder-of-bitcoin/)**
+
+Investors are starting to question the true value of Strategy's $50 billion Bitcoin stash.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Michael Saylor: Strategy Has No Liquidation Risk Until Bitcoin Falls to $8,000 — How Is That Possible?](https://www.ccn.com/news/crypto/strategy-no-liquidation-bitcoin-reach-8000-hows-that-possible/)**
+
+Strategy faces no liquidation risk until BTC falls to $8,000? How's that possible? Find out in this CCN feature.
+
+CCN.com • 1d ago
 
 ---
 
@@ -313,7 +311,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-⬆️ 2 • 💬 1 • 4d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
+⬆️ 2 • 💬 1 • 5d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
 
 ---
 
@@ -327,17 +325,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 187 • 💬 5 • ⏱️ 17:15 • 18h ago
-
----
-
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=mATej2vUyTI)**
-
-My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
-
-📺 Road To $1 Million USD
-
-👁️ 5K • 👍 289 • 💬 29 • ⏱️ 8:36 • 12h ago
+👁️ 4K • 👍 191 • 💬 6 • ⏱️ 17:15 • 18h ago
 
 ---
 
@@ -347,7 +335,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 275 • ⏱️ 15:20 • 1d ago
+👁️ 62K • 👍 3K • 💬 276 • ⏱️ 15:20 • 1d ago
 
 ---
 
@@ -357,7 +345,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 398 • 💬 18 • ⏱️ 10:24 • 5h ago
+👁️ 7K • 👍 526 • 💬 28 • ⏱️ 10:24 • 6h ago
 
 ---
 
@@ -367,17 +355,17 @@ Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 1K • 💬 53 • ⏱️ 18:10 • 5h ago
+👁️ 22K • 👍 2K • 💬 65 • ⏱️ 18:10 • 6h ago
 
 ---
 
-**[If You Hate Bitcoin and Think It’s a Scam, Watch This Video.](https://www.youtube.com/watch?v=8TmjIn3menw)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=ZfbwgeTR-n8)**
 
-Buy Bitcoin safely and affordably through Australia's leading Bitcoin brokerage Sign up for Stormrake Trade here: ...
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Unemployable Media
+📺 Zuzik
 
-👁️ 3K • 👍 372 • 💬 178 • ⏱️ 10:17 • 15h ago
+👁️ 5K • 👍 10K • 2h ago
 
 ---
 
@@ -387,7 +375,35 @@ Bitcoin's crash off its all time high and then its sudden crash last week. It le
 
 📺 Mark Moss
 
-👁️ 271K • 👍 9K • 💬 1K • ⏱️ 16:43 • 2d ago
+👁️ 272K • 👍 9K • 💬 1K • ⏱️ 16:43 • 2d ago
+
+---
+
+**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
+
+📺 Pawn Media
+
+👁️ 105K • 👍 3K • 💬 24 • ⏱️ 0:59 • 1d ago
+
+---
+
+**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
+
+Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
+
+📺 Alessio Rastani
+
+👁️ 40K • 👍 3K • 💬 451 • ⏱️ 8:15 • 1d ago
+
+---
+
+**[Bitcoin&#39;s &quot;Doom Vortex&quot; Looms as Dominoes Align for MASSIVE Crash](https://www.youtube.com/watch?v=5MZOklSoepc)**
+
+Everyone is asking whether Bitcoin will bounce back. Glenn Beck says that's the wrong question. The real issue isn't price ...
+
+📺 Glenn Beck Clips
+
+👁️ 20K • 👍 958 • 💬 259 • ⏱️ 11:34 • 2d ago
 
 ---
 
@@ -398,26 +414,6 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 📺 Anthony Pompliano
 
 👁️ 40K • 👍 1K • ⏱️ 21:49 • 1d ago
-
----
-
-**[Bitcoin&#39;s Next Major Move Will Shock People (here&#39;s why)](https://www.youtube.com/watch?v=w8_Si0WQbbE)**
-
-Is the crash in bitcoin approaching capitulation and a major bottom in its price? There are strong signs that bitcoin is likely ...
-
-📺 Alessio Rastani
-
-👁️ 39K • 👍 3K • 💬 449 • ⏱️ 8:15 • 1d ago
-
----
-
-**[The Epstein–Bitcoin Conspiracy: Why They Want Us to Think the Bitcoin Network is Compromised](https://www.youtube.com/watch?v=Cm5L2V6WUDE)**
-
-Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Tangem-x10* Easiest hardware wallet, portable ...
-
-📺 Crypto Casey
-
-👁️ 14K • 👍 1K • 💬 137 • ⏱️ 15:01 • 22h ago
 
 ---
 

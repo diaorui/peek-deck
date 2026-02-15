@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T11:26:07.094560+00:00'
+updated: '2026-02-15T11:47:29.954803+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 11:26 UTC  
+**Last Updated:** February 15, 2026 at 11:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-2h ago
+3h ago
 
 ---
 
@@ -60,13 +60,19 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-4h ago
+5h ago
+
+---
+
+**[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
+
+22m ago
 
 ---
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -96,15 +102,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-14h ago
-
----
-
-**[My ongoing project (II) - marine support drone](https://www.reddit.com/r/robotics/comments/1r4zuf9/my_ongoing_project_ii_marine_support_drone/)**
-
-I am designing an autonomous surface vehicle that provides as assistance and rescue to open water swimmers. I have doing some math to determine the hull and thruster size. So far the design looks like this https://preview.redd.it/i1q8tx87sjjg1.png?width=706&format=png&auto=webp&s=f082aab242ac18087e75d0c8f9e8fb18ef35de2d https://preview.redd.it/71huppe9sjjg1.png?width=888&format=png&auto=webp&s=e659a1118be31d954e1624d5f472d78d338c6758 Main thruster can be seen in the back, along the stabilizer wings. The smaller ones are maneuvering thusters for low speed movements and also to compensate against drift current. Next step will be probably adding the wearable beacon that enables GPS tracking.
-
-11h ago
+15h ago
 
 ---
 
@@ -206,7 +204,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 304K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
+👁️ 310K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
 
 ---
 
@@ -216,7 +214,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 285K • 👍 4K • 💬 583 • ⏱️ 53:47 • 23h ago
+👁️ 308K • 👍 4K • 💬 604 • ⏱️ 53:47 • 23h ago
 
 ---
 
@@ -226,7 +224,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 10K • 👍 296 • 💬 10 • ⏱️ 0:59 • 15h ago
+👁️ 11K • 👍 311 • 💬 10 • ⏱️ 0:59 • 16h ago
 
 ---
 
@@ -236,7 +234,17 @@ Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment 
 
 📺 Unitree Robotics
 
-👁️ 30K • 👍 748 • 💬 121 • ⏱️ 0:45 • 2d ago
+👁️ 30K • 👍 757 • 💬 125 • ⏱️ 0:45 • 2d ago
+
+---
+
+**[Boston Dynamics ATLAS Demos 2026 Humanoid Robot Upgrade (AI NEWS)](https://www.youtube.com/watch?v=uTN75z0ixno)**
+
+Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dramatically improving spatial awareness and ...
+
+📺 AI News
+
+👁️ 7K • 👍 108 • 💬 25 • ⏱️ 8:03 • 6d ago
 
 ---
 
@@ -246,7 +254,35 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 DPCcars
 
-👁️ 2K • 👍 60 • 💬 8 • ⏱️ 1:24 • 21h ago
+👁️ 2K • 👍 64 • 💬 9 • ⏱️ 1:24 • 22h ago
+
+---
+
+**[He just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=XqisM4FeME8)**
+
+📺 Romi Pal
+
+👁️ 83K • 👍 1K • 💬 16 • ⏱️ 0:37 • 14h ago
+
+---
+
+**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
+
+Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 101 • 💬 8 • ⏱️ 9:26 • 5d ago
+
+---
+
+**[The “Order 66” Robot Theory with Telsa Optimus and starlink #elonmusk #grok  #humanoidrobots](https://www.youtube.com/watch?v=Y0a1sisNdv0)**
+
+The biggest fear about humanoid robots isn't strength. It's control. Future robots like Optimus are designed to stay connected ...
+
+📺 By 2050
+
+👁️ 83K • 👍 2K • 💬 51 • ⏱️ 0:57 • 2d ago
 
 ---
 
@@ -256,45 +292,7 @@ This transformable drone can move in completely different styles. In ground mode
 
 📺 Facts TV 91
 
-👁️ 313K • 👍 4K • 💬 36 • ⏱️ 0:06 • 9h ago
-
----
-
-**[China&#39;s New AI-Powered  Robotic Centaur #robot #robotics #robotdog #innovation #techology](https://www.youtube.com/watch?v=6JUfeBL57JQ)**
-
-The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is designed to collect the kind of data that's ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 57 • 💬 5 • ⏱️ 0:21 • 17h ago
-
----
-
-**[He just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=XqisM4FeME8)**
-
-📺 Romi Pal
-
-👁️ 74K • 👍 1K • 💬 15 • ⏱️ 0:37 • 14h ago
-
----
-
-**[Optimus Will Change Everything #ElonMusk #Optimus #AI #Robotics #FutureTech #Innovation #robolution](https://www.youtube.com/watch?v=2vcqxrt9dEs)**
-
-A bold statement like this instantly ignites curiosity and debate across the world of technology and innovation. When visionary ...
-
-📺 Billionaire Shots
-
-👁️ 5K • 👍 570 • 💬 77 • ⏱️ 0:25 • 8h ago
-
----
-
-**[The Humanoid Takeover: $50T Market, Figure&#39;s Full Body Autonomy, and Robots in Dorms #229](https://www.youtube.com/watch?v=S_fXhVT67Uw)**
-
-Peter & Dave sit down with Brett Adcock to discuss the future of Figure and Humanoid Robots. Get access to metatrends 10+ ...
-
-📺 Peter H. Diamandis
-
-👁️ 102K • 👍 3K • 💬 1K • ⏱️ 1:43:48 • 3d ago
+👁️ 489K • 👍 5K • 💬 52 • ⏱️ 0:06 • 10h ago
 
 ---
 

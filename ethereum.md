@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T11:26:07.091821+00:00'
+updated: '2026-02-15T11:47:29.951583+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- social
-- news
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 11:26 UTC  
+**Last Updated:** February 15, 2026 at 11:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,063.03
+### $2,063.66
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
+**24h:** -0.4%  
 **7d:** -2.1%  
 **30d:** -37.7%  
 **90d:** -34.0%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.21B
+**Market Cap:** $248.72B
 Rank #2
 
 **Circulating Supply:** 120,692,458 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-58.3%
 
 **All-Time Low:** $0.43
-+478701.5%
++475846.9%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 13h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 14h ago
 
 ---
 
@@ -166,19 +166,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Is Crushing XRP in 1 Key Arena. Should You Buy It With $1,000?](https://www.fool.com/investing/2026/02/15/ethereum-is-crushing-xrp-in-1-key-arena-should-you/)**
+**[Trump-Linked Truth Social Files for Bitcoin, Ethereum and CRO Staking ETFs](https://finance.yahoo.com/news/trump-linked-truth-social-files-105000773.html)**
 
-Ethereum is seeing a flood of assets into its network.
+Trump Media and Technology Group is expanding its push into digital assets, filing for two new cryptocurrency exchange-traded funds tied to Bitcoin, Ether and the Cronos ecosystem. Key Takeaways: Trump Media filed for two crypto ETFs tracking Bitcoin, Ether and the Cronos token. The Cronos fund would include staking rewards ...
 
-The Motley Fool • 1h ago
-
----
-
-**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
-
-BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
-
-Yahoo Finance • 1d ago
+Yahoo Finance • 57m ago
 
 ---
 
@@ -198,11 +190,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Ethereum Open Interest Plunges: Cooling Off Or Cracks Forming?](https://www.tradingview.com/news/newsbtc:9446dd369094b:0-ethereum-open-interest-plunges-cooling-off-or-cracks-forming/)**
+**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
 
-Ethereum climbed back above $2,000 after a softer-than-expected US CPI print, and the move has traders and analysts debating whether the worst is behind the coin or if this is a temporary relief rally.Reports say futures open interest has fallen sharply over the last 30 days, funding rates have swu…
-
-TradingView • 1d ago
+TradingView • 11h ago
 
 ---
 
@@ -222,11 +212,19 @@ markets.businessinsider.com • 1d ago
 
 ---
 
+**[Ethereum Price Analysis: ETH Needs to Reclaim This Key Level to Flip the Script](https://cryptopotato.com/ethereum-price-analysis-eth-needs-to-reclaim-this-key-level-to-flip-the-script/)**
+
+Ethereum’s recent price action reflects a market transitioning from impulsive selling into a potential short-term stabilisation phase. After a sharp
+
+CryptoPotato • 19h ago
+
+---
+
 **[Ethereum Co-Founder Vitalik Buterin Calls for Prediction Market Reset](https://news.bitcoin.com/ethereum-co-founder-vitalik-buterin-calls-for-prediction-market-reset/)**
 
 Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
 
-Bitcoin.com News • 3h ago
+Bitcoin.com News • 2h ago
 
 ---
 
@@ -240,7 +238,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 301 • ⏱️ 34:57 • 11h ago
+👁️ 35K • 👍 2K • 💬 309 • ⏱️ 34:57 • 11h ago
 
 ---
 
@@ -250,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 6 • ⏱️ 4:45 • 9h ago
+👁️ 2K • 👍 151 • 💬 6 • ⏱️ 4:45 • 10h ago
 
 ---
 
@@ -260,7 +258,7 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 2K • 👍 210 • 💬 15 • ⏱️ 5:42 • 22h ago
+👁️ 2K • 👍 219 • 💬 16 • ⏱️ 5:42 • 22h ago
 
 ---
 
@@ -270,27 +268,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 77 • 💬 2 • ⏱️ 17:25 • 20h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oNFCq8jGs4o)**
-
-BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 258 • 💬 29 • ⏱️ 17:42 • 13h ago
-
----
-
-**[Mathematician Fred Krueger: Crypto Price Predictions Are About To Go INSANE!](https://www.youtube.com/watch?v=uL0mEsAXcSY)**
-
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 15K • 👍 515 • 💬 144 • ⏱️ 14:31 • 2d ago
+👁️ 2K • 👍 80 • 💬 2 • ⏱️ 17:25 • 20h ago
 
 ---
 
@@ -304,31 +282,51 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 ---
 
+**[BITCOIN &amp; ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oNFCq8jGs4o)**
+
+BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 266 • 💬 29 • ⏱️ 17:42 • 13h ago
+
+---
+
+**[Mathematician Fred Krueger: Crypto Price Predictions Are About To Go INSANE!](https://www.youtube.com/watch?v=uL0mEsAXcSY)**
+
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+
+📺 Library Of Wealth
+
+👁️ 16K • 👍 519 • 💬 146 • ⏱️ 14:31 • 2d ago
+
+---
+
 **[Nearly 1 million validators securing Ethereum network..](https://www.youtube.com/watch?v=3xI_DqVC6f8)**
 
 📺 Ben Simpson
 
-👁️ 107 • 👍 2 • ⏱️ 0:48 • 10h ago
+👁️ 160 • 👍 4 • ⏱️ 0:48 • 10h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=C7ItG6NQ1Sc)**
+**[This Is a Fake Sell-off! Why Crypto Is Going Much Higher In 2026 Ft. Tom Lee, Raoul Pal, Cathie Wood](https://www.youtube.com/watch?v=KMz0YTmiyOw)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Get started with CoinDepo today! https://bit.ly/4tni1u9 Crypto is going much higher in 2026. I know that sounds weird after how the ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 162 • 💬 5 • ⏱️ 4:28 • 21h ago
+👁️ 4K • 👍 171 • 💬 20 • ⏱️ 8:49 • 1d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=2mrpF8itM7g)**
+**[ETHEREUM PRICE PREDICTION IN 2026 - FUNDAMENTALS DON&#39;T LIE](https://www.youtube.com/watch?v=NkFIXL4i7N0)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+ETHEREUM PRICE PREDICTION IN 2026 - FUNDAMENTALS DON'T LIE I did a full technical and fundamental analysis on ...
 
-📺 Crypto Gyan
+📺 Carlo Trades
 
-👁️ 1K • 👍 120 • ⏱️ 8:18 • 8h ago
+👁️ 119 • 👍 5 • ⏱️ 5:37 • 1d ago
 
 ---
 
