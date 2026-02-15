@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T14:56:12.339165+00:00'
+updated: '2026-02-15T15:29:11.594430+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 14:56 UTC  
+**Last Updated:** February 15, 2026 at 15:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-6h ago
+7h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -94,7 +94,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 19h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 20h ago
 
 ---
 
@@ -136,7 +136,7 @@ Shereen Bhan gets an inside look at how a decade-old startup is scaling into a g
  
 #YoungTurksReloaded #Addverb #Robotics #MakeInIndia #AI #Automation #IndianStartups
 
-LinkedIn • 1h ago
+LinkedIn • 2h ago
 
 ---
 
@@ -202,7 +202,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 317K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
+👁️ 317K • 👍 6K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 Romi Pal
 
-👁️ 92K • 👍 2K • 💬 23 • ⏱️ 0:37 • 17h ago
+👁️ 92K • 👍 2K • 💬 23 • ⏱️ 0:37 • 18h ago
 
 ---
 
@@ -290,7 +290,7 @@ Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was p
 
 📺 Jeff Geerling
 
-👁️ 89K • 👍 4K • 💬 260 • ⏱️ 12:38 • 1d ago
+👁️ 89K • 👍 4K • 💬 260 • ⏱️ 12:38 • 2d ago
 
 ---
 

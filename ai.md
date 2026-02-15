@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T14:56:12.322823+00:00'
+updated: '2026-02-15T15:29:11.576761+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - videos
 - repositories
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 14:56 UTC  
+**Last Updated:** February 15, 2026 at 15:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Engineers have all the leverage in today’s job markets](https://www.reddit.com/r/artificial/comments/1r5fsol/engineers_have_all_the_leverage_in_todays_job/)**
+
+Engineers need to remember who they are. You’re not middle management fluff — you’re the people who build, fix, and make the whole machine run. Corporations don’t function without real engineers. AI isn’t replacing you — it’s being used as an excuse to squeeze teams and juice quarterly numbers. The demand for strong engineers never goes away… it just gets delayed until the tech debt and broken systems force hiring back. Don’t beat yourself down. You hold more cards than you think.
+
+1h ago
+
+---
+
 **[Microsoft AI chief gives it 18 months for all white-collar work to be automated by AI](https://www.reddit.com/r/artificial/comments/1r4oc2i/microsoft_ai_chief_gives_it_18_months_for_all/)**
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 22h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 23h ago
 
 ---
 
@@ -53,27 +61,11 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 ---
 
-**[Engineers have all the leverage in today’s job markets](https://www.reddit.com/r/artificial/comments/1r5fsol/engineers_have_all_the_leverage_in_todays_job/)**
-
-Engineers need to remember who they are. You’re not middle management fluff — you’re the people who build, fix, and make the whole machine run. Corporations don’t function without real engineers. AI isn’t replacing you — it’s being used as an excuse to squeeze teams and juice quarterly numbers. The demand for strong engineers never goes away… it just gets delayed until the tech debt and broken systems force hiring back. Don’t beat yourself down. You hold more cards than you think.
-
-35m ago
-
----
-
-**[free tools](https://www.reddit.com/r/artificial/comments/1r5f4tn/free_tools/)**
-
-I’m looking for free tools to generate AI videos. I’m not interested in paid subscriptions or "free trials" that require a credit card right now. I just want to test the waters and see what’s possible. I know that "free" often comes with limits (watermarks, short clips, queues), and I’m fine with that. What are the best options out there right now? I’ve seen some talk about tools based on Google Veo or stuff on HuggingFace, but the landscape changes so fast. Specifically looking for: Text-to-video generation. Actually free to use (no hidden costs). Decent quality for a free tool. What are you guys using? Also, any specific subreddits I should be following for this stuff?
-
-1h ago
-
----
-
 **[Looking for articles about AI](https://www.reddit.com/r/artificial/comments/1r5cuzu/looking_for_articles_about_ai/)**
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-2h ago
+3h ago
 
 ---
 
@@ -85,11 +77,19 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 ---
 
+**[free tools](https://www.reddit.com/r/artificial/comments/1r5f4tn/free_tools/)**
+
+I’m looking for free tools to generate AI videos. I’m not interested in paid subscriptions or "free trials" that require a credit card right now. I just want to test the waters and see what’s possible. I know that "free" often comes with limits (watermarks, short clips, queues), and I’m fine with that. What are the best options out there right now? I’ve seen some talk about tools based on Google Veo or stuff on HuggingFace, but the landscape changes so fast. Specifically looking for: Text-to-video generation. Actually free to use (no hidden costs). Decent quality for a free tool. What are you guys using? Also, any specific subreddits I should be following for this stuff?
+
+1h ago
+
+---
+
 **[AI Coding Won’t Replace Human Developers — Here’s Why I’m Actually Optimistic About It](https://www.reddit.com/r/artificial/comments/1r5b70z/ai_coding_wont_replace_human_developers_heres_why/)**
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-4h ago
+5h ago
 
 ---
 
@@ -123,7 +123,7 @@ I have a list of 10,000 contact number (mix of phone number and landlines so tex
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 12h ago
+Axios • 13h ago
 
 ---
 
@@ -131,7 +131,7 @@ Axios • 12h ago
 
 New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -139,13 +139,13 @@ Financial Times • 9h ago
 
 The blockbuster director pivots to indie filmmaking for a Berlin-premiering sci-fi comedy about artificial intelligence, creative survival and why “women will save the world.”
 
-The Hollywood Reporter • 49m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
 **[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
 
-Bloomberg.com • 56m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Axios • 1h ago
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 47m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Fortune • 1d ago
 
 **[What French Romance Novels Could Tell Us About A.I. and Translation Jobs](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 9h ago
 
 AI is advancing in rapid and unpredictable ways but there is no joint framework to keep it in check, experts say.
 
-Al Jazeera • 3h ago
+Al Jazeera • 4h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 6h ago
 
 Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
 
-⬆️ 2316 • 💬 945 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 2317 • 💬 945 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ---
 
@@ -213,7 +213,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 701 • 💬 580 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 705 • 💬 586 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -221,7 +221,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 525 • 💬 324 • 20h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 529 • 💬 330 • 20h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -229,7 +229,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 355 • 💬 231 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 356 • 💬 232 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -237,7 +237,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 339 • 💬 541 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 339 • 💬 542 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -251,7 +251,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 239 • 💬 124 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 239 • 💬 125 • 1d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -331,7 +331,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 314K • 👍 6K • 💬 4K • ⏱️ 9:47 • 1d ago
+👁️ 314K • 👍 6K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -361,7 +361,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 13K • 👍 707 • 💬 61 • ⏱️ 7:05 • 23h ago
+👁️ 13K • 👍 707 • 💬 61 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -708,7 +708,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 142 • 10h ago
+⭐ 2.1k • 🔱 142 • 11h ago
 
 ---
 

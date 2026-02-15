@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T14:56:12.330628+00:00'
+updated: '2026-02-15T15:29:11.585227+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 14:56 UTC  
+**Last Updated:** February 15, 2026 at 15:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,158.47
+### $69,003.44
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -1.1%  
-**7d:** -1.5%  
-**30d:** -27.4%  
-**90d:** -25.7%  
-**1y:** -28.2%  
+**7d:** -1.6%  
+**30d:** -27.5%  
+**90d:** -25.8%  
+**1y:** -28.3%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,13 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-8h ago
+9h ago
+
+---
+
+**[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
+
+50m ago
 
 ---
 
@@ -105,7 +111,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-17h ago
+18h ago
 
 ---
 
@@ -117,11 +123,17 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 ---
 
+**[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
+
+2h ago
+
+---
+
 **[Dan Morehead from Pantera Capital, just said what everyone's thinking but nobody's saying: "There will be a global arms race for Bitcoin within the next 2-3 years."](https://www.reddit.com/r/Bitcoin/comments/1r4pv07/dan_morehead_from_pantera_capital_just_said_what/)**
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-21h ago
+22h ago
 
 ---
 
@@ -137,23 +149,7 @@ What would you say we are looking at for predictions for 1,3,5 years
 
 I've been building a comprehensive secp256k1 library that covers the full modern Bitcoin protocol stack: 🟢 Bitcoin-specific: Taproot (BIP-341/342) with tweak + Merkle tree BIP-352 Silent Payments MuSig2 (BIP-327) — 2-round key aggregation FROST threshold signatures (t-of-n) BIP-32 HD derivation (xprv/xpub, path parsing) BIP-44 coin-type derivation All address types: P2PKH, P2WPKH, P2TR, Base58Check, Bech32/Bech32m ⚡ Performance: x64 assembly with BMI2/ADX (3-5× speedup) CUDA GPU batch processing (4.63M key generations/sec) GLV endomorphism, precomputation tables Zero heap allocations in hot paths 🔐 Security: Constant-time operations (dedicated ct namespace) RFC 6979 deterministic nonces Low-S normalization 200+ tests with known vector verification Zero external dependencies. MIT licensed. GitHub: [github.com/shrec/UltrafastSecp256k1](vscode-file://vscode-app/c:/Users/shrek/AppData/Local/Programs/Microsoft%20VS%20Code/b6a47e94e3/resources/app/out/vs/code/electron-browser/workbench/workbench.html)
 
-3h ago
-
----
-
-**[Daily Discussion, February 15, 2026](https://www.reddit.com/r/Bitcoin/comments/1r57465/daily_discussion_february_15_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-8h ago
-
----
-
-**[People always forget their original intentions.](https://www.reddit.com/r/Bitcoin/comments/1r50sb8/people_always_forget_their_original_intentions/)**
-
-Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
-
-14h ago
+4h ago
 
 ---
 
@@ -183,7 +179,7 @@ CoinDesk • 2h ago
 
 **[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -205,7 +201,7 @@ Barron's • 2d ago
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-MLive.com • 6h ago
+MLive.com • 7h ago
 
 ---
 
@@ -279,7 +275,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 16h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 17h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -323,7 +319,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 197 • 💬 6 • ⏱️ 17:15 • 21h ago
+👁️ 5K • 👍 197 • 💬 6 • ⏱️ 17:15 • 22h ago
 
 ---
 
@@ -363,7 +359,7 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 181 • 💬 13 • ⏱️ 20:41 • 16h ago
+👁️ 3K • 👍 181 • 💬 13 • ⏱️ 20:41 • 17h ago
 
 ---
 
