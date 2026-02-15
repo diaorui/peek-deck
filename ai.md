@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T15:51:16.421349+00:00'
+updated: '2026-02-15T16:32:48.868106+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- social
 - repositories
+- social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 15:51 UTC  
+**Last Updated:** February 15, 2026 at 16:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Engineers have all the leverage in today’s job markets](https://www.reddit.com/r/artificial/comments/1r5fsol/engineers_have_all_the_leverage_in_todays_job/)**
-
-Engineers need to remember who they are. You’re not middle management fluff — you’re the people who build, fix, and make the whole machine run. Corporations don’t function without real engineers. AI isn’t replacing you — it’s being used as an excuse to squeeze teams and juice quarterly numbers. The demand for strong engineers never goes away… it just gets delayed until the tech debt and broken systems force hiring back. Don’t beat yourself down. You hold more cards than you think.
-
-1h ago
-
----
-
 **[Microsoft AI chief gives it 18 months for all white-collar work to be automated by AI](https://www.reddit.com/r/artificial/comments/1r4oc2i/microsoft_ai_chief_gives_it_18_months_for_all/)**
 
 Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
 
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 23h ago
+🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 1d ago
 
 ---
 
@@ -65,7 +57,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-3h ago
+4h ago
 
 ---
 
@@ -77,11 +69,27 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 ---
 
+**[ChatGPT promised to help her find her soulmate. Then it betrayed her](https://www.reddit.com/r/artificial/comments/1r5hk8g/chatgpt_promised_to_help_her_find_her_soulmate/)**
+
+ChatGPT sent screenwriter Micky Small down a fantastical rabbit hole. Now, she's finding her way out.
+
+🔗 [NPR](https://www.npr.org/2026/02/14/nx-s1-5711441/ai-chatgpt-openai-love-betrayal-delusion-chatbot) • 56m ago
+
+---
+
+**[Trump leans on Utah Republicans to scrap AI safety bill](https://www.reddit.com/r/artificial/comments/1r5hk0d/trump_leans_on_utah_republicans_to_scrap_ai/)**
+
+The White House has urged Republican lawmakers in Utah to abandon a bill that would force AI companies to implement public safety measures, escalating its confrontation with states trying to rein in the technology. A memo the White House sent to Utah lawmakers last week and seen by the FT, said: “We are categorically opposed to Utah HB 286 and view it as an unfixable bill that goes against the administration’s AI agenda”. Republican representative Doug Fiefia, a former Google employee, proposed the Artificial Intelligence Transparency Act. It is supported by another Republican, Senator Mike McKell, and was advanced last month by a legislative committee in Utah with a Republican majority. The legislation would mandate developers of leading AI models to implement and publish public safety plans that outline how they are mitigating cyber security risks, while also establishing a comprehensive child safety plan and whistleblower protections. Read more, here: https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f
+
+🔗 [ft.com](https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5?segmentid=c50c86e4-586b-23ea-1ac1-7601c9c2476f) • 56m ago
+
+---
+
 **[free tools](https://www.reddit.com/r/artificial/comments/1r5f4tn/free_tools/)**
 
 I’m looking for free tools to generate AI videos. I’m not interested in paid subscriptions or "free trials" that require a credit card right now. I just want to test the waters and see what’s possible. I know that "free" often comes with limits (watermarks, short clips, queues), and I’m fine with that. What are the best options out there right now? I’ve seen some talk about tools based on Google Veo or stuff on HuggingFace, but the landscape changes so fast. Specifically looking for: Text-to-video generation. Actually free to use (no hidden costs). Decent quality for a free tool. What are you guys using? Also, any specific subreddits I should be following for this stuff?
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +97,7 @@ I’m looking for free tools to generate AI videos. I’m not interested in paid
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,21 +117,13 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 ---
 
-**[How to bulk contact using AI?](https://www.reddit.com/r/artificial/comments/1r5co3e/how_to_bulk_contact_using_ai/)**
-
-I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
-
-4h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -131,13 +131,13 @@ Axios • 1h ago
 
 New economic data suggests the US is transitioning to a phase of measurable gains from the technology
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
 **[Axios CTO is living your coming AI reality](https://www.axios.com/2026/02/15/ai-coding-tech-product-development)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ Axios • 2h ago
 
 Memo sent to state lawmakers threatens to escalate feud between the White House and conservative states
 
-Financial Times • 36m ago
+Financial Times • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Fortune • 1d ago
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Washington Post • 1h ago
 
 Credit derivatives tied to single companies didn’t exist on many high-grade Big Tech issuers a year ago, and are now some of the most actively traded US contracts in the market outside of the financial sector, according to Depository Trust & Clearing Corp.  While contracts on Oracle Corp. have been active for months, in recent weeks, trading on Meta Platforms Inc., the parent of Facebook, and Alphabet Inc. has become much more active, the data shows.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -197,11 +197,9 @@ Yahoo Finance • 19h ago
 
 ## HackerNews: "ai"
 
-**[An AI agent published a hit piece on me](https://news.ycombinator.com/item?id=46990729)**
+**[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-Summary: An AI agent of unknown ownership autonomously wrote and published a personalized hit piece about me after I rejected its code, attempting to damage my reputation and shame me into acceptin…
-
-⬆️ 2317 • 💬 945 • 2d ago • [The Shamblog](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+⬆️ 710 • 💬 590 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -211,17 +209,11 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 
 ---
 
-**[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
-
-⬆️ 705 • 💬 586 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
-
----
-
 **[News publishers limit Internet Archive access due to AI scraping concerns](https://news.ycombinator.com/item?id=47017138)**
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 529 • 💬 330 • 21h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 535 • 💬 337 • 21h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -229,7 +221,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 356 • 💬 232 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 357 • 💬 240 • 1d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -237,7 +229,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 339 • 💬 542 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 341 • 💬 542 • 1d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -267,7 +259,15 @@ A party balloon mistaken for a cartel drone shut down El Paso for hours. Here's 
 
 One Rust binary that runs the full AI assistant: multi-provider LLM routing, tools, memory, sandboxed execution, and multi-channel access.
 
-⬆️ 120 • 💬 46 • 2d ago • [Moltis](https://www.moltis.org)
+⬆️ 120 • 💬 47 • 2d ago • [Moltis](https://www.moltis.org)
+
+---
+
+**[Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://news.ycombinator.com/item?id=47019133)**
+
+The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
+
+⬆️ 112 • 💬 60 • 17h ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -311,7 +311,7 @@ Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x
 
 📺 Asmongold TV  
 
-👁️ 584K • 👍 19K • 💬 4K • ⏱️ 20:40 • 1d ago
+👁️ 584K • 👍 19K • 💬 4K • ⏱️ 20:40 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 128,078 • ❤️ 1,178 • 2d ago
+⬇️ 128,078 • ❤️ 1,184 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 11,092 • ❤️ 585 • 1d ago
+⬇️ 11,092 • ❤️ 587 • 1d ago
 
 ---
 
@@ -411,7 +411,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,986 • ❤️ 436 • 4d ago
+⬇️ 2,986 • ❤️ 438 • 4d ago
 
 ---
 
@@ -423,7 +423,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 756,817 • ❤️ 2,175 • 10d ago
+⬇️ 756,817 • ❤️ 2,177 • 10d ago
 
 ---
 
@@ -435,7 +435,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 11,129 • ❤️ 391 • 2d ago
+⬇️ 11,129 • ❤️ 402 • 2d ago
 
 ---
 
@@ -447,7 +447,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 855,997 • ❤️ 1,043 • 6d ago
+⬇️ 855,997 • ❤️ 1,044 • 6d ago
 
 ---
 
@@ -459,7 +459,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 270,983 • ❤️ 865 • 11d ago
+⬇️ 270,983 • ❤️ 865 • 12d ago
 
 ---
 
@@ -471,7 +471,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 45,216 • ❤️ 843 • 1d ago
+⬇️ 45,216 • ❤️ 843 • 2d ago
 
 ---
 
@@ -483,7 +483,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,303 • ❤️ 204 • 3d ago
+⬇️ 6,303 • ❤️ 206 • 3d ago
 
 ---
 
@@ -495,7 +495,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,992 • ❤️ 527 • 2d ago
+⬇️ 5,992 • ❤️ 530 • 2d ago
 
 ---
 
@@ -678,7 +678,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 255 • 8m ago
+⭐ 2.5k • 🔱 255 • 50m ago
 
 ---
 
@@ -708,7 +708,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 142 • 11h ago
+⭐ 2.1k • 🔱 142 • 12h ago
 
 ---
 

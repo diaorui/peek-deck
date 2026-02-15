@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T15:51:16.429752+00:00'
+updated: '2026-02-15T16:32:48.875832+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 15:51 UTC  
+**Last Updated:** February 15, 2026 at 16:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,003.44
+### $68,967.67
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -1.6%  
-**30d:** -27.5%  
-**90d:** -25.8%  
-**1y:** -28.3%  
+**24h:** -0.9%  
+**7d:** -1.5%  
+**30d:** -27.4%  
+**90d:** -25.7%  
+**1y:** -28.2%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-3h ago
+4h ago
 
 ---
 
@@ -89,13 +89,19 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-9h ago
+10h ago
 
 ---
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
 1h ago
+
+---
+
+**[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
+
+3h ago
 
 ---
 
@@ -111,7 +117,7 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
 
-18h ago
+19h ago
 
 ---
 
@@ -123,17 +129,19 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 ---
 
-**[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
-
-3h ago
-
----
-
 **[Dan Morehead from Pantera Capital, just said what everyone's thinking but nobody's saying: "There will be a global arms race for Bitcoin within the next 2-3 years."](https://www.reddit.com/r/Bitcoin/comments/1r4pv07/dan_morehead_from_pantera_capital_just_said_what/)**
 
 The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
 
-22h ago
+23h ago
+
+---
+
+**[Bitcoin experts, need your input](https://www.reddit.com/r/Bitcoin/comments/1r5i6er/bitcoin_experts_need_your_input/)**
+
+21 years old and Complete bitcoin/crypto beginner, however I’d rather put my money to work than let the fiat rot in a bank. Very interesting life setup I currently have - £200/m rent, low expenses, £3k+ monthly salary. Planning to DCA for the next 4 years ~£600 a week. Also planning to cop a Trezor 7 and just lock the BTC away until I plan to move countries and make use of the 10% tax in Eastern Europe instead of getting graped by the UK 20%+. Any tips or suggestions would be appreciated.
+
+31m ago
 
 ---
 
@@ -142,14 +150,6 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 What would you say we are looking at for predictions for 1,3,5 years
 
 10h ago
-
----
-
-**[Title: Open-source C++ secp256k1 library with full Bitcoin stack: Taproot, Silent Payments, MuSig2, FROST, BIP-32/44, and GPU acceleration](https://www.reddit.com/r/Bitcoin/comments/1r5ca6d/title_opensource_c_secp256k1_library_with_full/)**
-
-I've been building a comprehensive secp256k1 library that covers the full modern Bitcoin protocol stack: 🟢 Bitcoin-specific: Taproot (BIP-341/342) with tweak + Merkle tree BIP-352 Silent Payments MuSig2 (BIP-327) — 2-round key aggregation FROST threshold signatures (t-of-n) BIP-32 HD derivation (xprv/xpub, path parsing) BIP-44 coin-type derivation All address types: P2PKH, P2WPKH, P2TR, Base58Check, Bech32/Bech32m ⚡ Performance: x64 assembly with BMI2/ADX (3-5× speedup) CUDA GPU batch processing (4.63M key generations/sec) GLV endomorphism, precomputation tables Zero heap allocations in hot paths 🔐 Security: Constant-time operations (dedicated ct namespace) RFC 6979 deterministic nonces Low-S normalization 200+ tests with known vector verification Zero external dependencies. MIT licensed. GitHub: [github.com/shrec/UltrafastSecp256k1](vscode-file://vscode-app/c:/Users/shrek/AppData/Local/Programs/Microsoft%20VS%20Code/b6a47e94e3/resources/app/out/vs/code/electron-browser/workbench/workbench.html)
-
-4h ago
 
 ---
 
@@ -175,13 +175,13 @@ Forbes • 1d ago
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 51m ago
+CNBC • 1h ago
 
 ---
 
 **[Proof Of Work Is What’s In Your Wallet, Not On The Bitcoin Blockchain](https://www.forbes.com/sites/johntamny/2026/02/15/proof-of-work-is-whats-in-your-wallet-not-on-the-bitcoin-blockchain/)**
 
-Forbes • 51m ago
+Forbes • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Forbes • 51m ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 13h ago
+BBC • 14h ago
 
 ---
 
@@ -211,7 +211,7 @@ Barron's • 2d ago
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-MLive.com • 7h ago
+MLive.com • 8h ago
 
 ---
 
@@ -275,7 +275,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 17h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 18h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 4K • 👍 307 • 💬 83 • ⏱️ 30:55 • 1h ago
+👁️ 4K • 👍 307 • 💬 83 • ⏱️ 30:55 • 2h ago
 
 ---
 
@@ -339,7 +339,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 207 • 💬 6 • ⏱️ 17:15 • 22h ago
+👁️ 5K • 👍 207 • 💬 6 • ⏱️ 17:15 • 23h ago
 
 ---
 
@@ -359,7 +359,7 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 196 • 💬 14 • ⏱️ 20:41 • 17h ago
+👁️ 3K • 👍 196 • 💬 14 • ⏱️ 20:41 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T15:51:16.435787+00:00'
+updated: '2026-02-15T16:32:48.881042+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 15:51 UTC  
+**Last Updated:** February 15, 2026 at 16:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,7 +36,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,015.30
+### $2,002.47
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-3h ago
+4h ago
 
 ---
 
@@ -202,13 +202,13 @@ The Motley Fool • 1d ago
 
 Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-dlnews.com • 17h ago
+dlnews.com • 18h ago
 
 ---
 
 **[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
@@ -216,7 +216,7 @@ TradingView • 15h ago
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
 
-BeInCrypto • 10h ago
+BeInCrypto • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 335 • ⏱️ 34:57 • 15h ago
+👁️ 42K • 👍 2K • 💬 335 • ⏱️ 34:57 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 650 • 👍 90 • 💬 4 • ⏱️ 4:45 • 1h ago
+👁️ 650 • 👍 90 • 💬 4 • ⏱️ 4:45 • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 238 • 👍 17 • 💬 18 • ⏱️ 13:02 • 1h ago
+👁️ 238 • 👍 17 • 💬 18 • ⏱️ 13:02 • 2h ago
 
 ---
 
@@ -298,7 +298,7 @@ Observers note a striking pattern: Ethereum has tanked over 50% eight separate t
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 293 • 👍 3 • ⏱️ 1:08 • 1h ago
+👁️ 293 • 👍 3 • ⏱️ 1:08 • 2h ago
 
 ---
 
@@ -318,7 +318,7 @@ The developments in the utility crypto space is interesting today. We have great
 
 📺 Crypto Growth
 
-👁️ 68 • 👍 10 • 💬 18 • ⏱️ 17:21 • 50m ago
+👁️ 68 • 👍 10 • 💬 18 • ⏱️ 17:21 • 1h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 8K • 👍 286 • 💬 31 • ⏱️ 17:42 • 17h ago
+👁️ 8K • 👍 286 • 💬 31 • ⏱️ 17:42 • 18h ago
 
 ---
 

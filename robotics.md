@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T15:51:16.438992+00:00'
+updated: '2026-02-15T16:32:48.883802+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 15:51 UTC  
+**Last Updated:** February 15, 2026 at 16:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,15 @@ Robotics research and industry news
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-22h ago
+23h ago
+
+---
+
+**[i need help](https://www.reddit.com/r/robotics/comments/1r5iw9l/i_need_help/)**
+
+I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
+
+4m ago
 
 ---
 
@@ -52,7 +60,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-22h ago
+23h ago
 
 ---
 
@@ -66,7 +74,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -94,15 +102,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
 
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 20h ago
-
----
-
-**[Quick feedback on cross-embodiment physics data remodelling service (Student Research)](https://www.reddit.com/r/robotics/comments/1r4vb29/quick_feedback_on_crossembodiment_physics_data/)**
-
-Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
-
-19h ago
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Yahoo Finance • 1d ago
 
 At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
-Мілітарний • 1d ago
+Мілітарний • 2d ago
 
 ---
 
@@ -196,7 +196,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 317K • 👍 6K • 💬 4K • ⏱️ 9:47 • 2d ago
+👁️ 324K • 👍 6K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -206,7 +206,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 336K • 👍 5K • 💬 693 • ⏱️ 53:47 • 1d ago
+👁️ 367K • 👍 5K • 💬 782 • ⏱️ 53:47 • 1d ago
 
 ---
 
@@ -216,17 +216,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 127K • 👍 2K • 💬 208 • ⏱️ 11:59 • 4d ago
-
----
-
-**[Boston Dynamics ATLAS Demos 2026 Humanoid Robot Upgrade (AI NEWS)](https://www.youtube.com/watch?v=uTN75z0ixno)**
-
-Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dramatically improving spatial awareness and ...
-
-📺 AI News
-
-👁️ 7K • 👍 108 • 💬 25 • ⏱️ 8:03 • 6d ago
+👁️ 128K • 👍 2K • 💬 212 • ⏱️ 11:59 • 4d ago
 
 ---
 
@@ -236,15 +226,27 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 12K • 👍 334 • 💬 11 • ⏱️ 0:59 • 20h ago
+👁️ 12K • 👍 363 • 💬 12 • ⏱️ 0:59 • 20h ago
 
 ---
 
-**[He just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=XqisM4FeME8)**
+**[Boston Dynamics ATLAS Demos 2026 Humanoid Robot Upgrade (AI NEWS)](https://www.youtube.com/watch?v=uTN75z0ixno)**
 
-📺 Romi Pal
+Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dramatically improving spatial awareness and ...
 
-👁️ 92K • 👍 2K • 💬 23 • ⏱️ 0:37 • 18h ago
+📺 AI News
+
+👁️ 7K • 👍 108 • 💬 23 • ⏱️ 8:03 • 6d ago
+
+---
+
+**[Auto Tracking Turret and RGB Indicator | 33444 UlyDala | FTC Snapshot](https://www.youtube.com/watch?v=bHjMcaYzd-8)**
+
+33444 Ulydala shows us their unique features on robot, such as RGB-indicator and auto-adjusting turret This video is supported ...
+
+📺 FUN Robotics Network
+
+👁️ 326 • 👍 4 • ⏱️ 1:09 • 32m ago
 
 ---
 
@@ -258,6 +260,26 @@ The biggest fear about humanoid robots isn't strength. It's control. Future robo
 
 ---
 
+**[Optimus Will Change Everything #ElonMusk #Optimus #AI #Robotics #FutureTech #Innovation #robolution](https://www.youtube.com/watch?v=2vcqxrt9dEs)**
+
+A bold statement like this instantly ignites curiosity and debate across the world of technology and innovation. When visionary ...
+
+📺 Billionaire Shots
+
+👁️ 10K • 👍 970 • 💬 120 • ⏱️ 0:25 • 13h ago
+
+---
+
+**[This Drone Transforms From Car to Flying Machine 🚁](https://www.youtube.com/watch?v=BT436xmFKso)**
+
+This transformable drone can move in completely different styles. In ground mode, it rolls on wheels like a robotic rover — stable, ...
+
+📺 Facts TV 91
+
+👁️ 709K • 👍 7K • 💬 64 • ⏱️ 0:06 • 15h ago
+
+---
+
 **[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
 
 Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
@@ -265,26 +287,6 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 📺 Carros Show
 
 👁️ 5K • 👍 102 • 💬 8 • ⏱️ 9:26 • 5d ago
-
----
-
-**[Figure AI’s 7th Gen Robot Hand Is Almost Human](https://www.youtube.com/watch?v=I3za-uI-2QI)**
-
-Figure AI has unveiled its 3rd generation humanoid robot, but the real story is the 7th generation robotic hand. Brett Adcock says it ...
-
-📺 DPCcars
-
-👁️ 3K • 👍 67 • 💬 9 • ⏱️ 1:24 • 1d ago
-
----
-
-**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
-
-Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
-
-📺 Jeff Geerling
-
-👁️ 89K • 👍 4K • 💬 260 • ⏱️ 12:38 • 2d ago
 
 ---
 
