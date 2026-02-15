@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T15:29:11.594430+00:00'
+updated: '2026-02-15T15:51:16.438992+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 15:29 UTC  
+**Last Updated:** February 15, 2026 at 15:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,7 +60,7 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -72,7 +72,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -102,7 +102,7 @@ I finnaly made some progress with my orp-testmechv2 robot i had problems with fi
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-18h ago
+19h ago
 
 ---
 
@@ -126,29 +126,15 @@ Nature • 3d ago
 
 ---
 
-**[From a small Noida facility six years ago to exporting robots to 25 countries 🌍🤖 Inside Addverb’s largest mobile robotics factory, 900 engineers are building machines that now power warehouses and industries across India, the US, Europe, Australia and beyo](https://www.linkedin.com/posts/cnbc-tv18_youngturksreloaded-addverb-robotics-activity-7428790807857565696-qjoz)**
-
-From a small Noida facility six years ago to exporting robots to 25 countries 🌍🤖
- 
-Inside Addverb’s largest mobile robotics factory, 900 engineers are building machines that now power warehouses and industries across India, the US, Europe, Australia and beyond. With capacity to manufacture 100,000 robots a year and a target of 50% India, 50% global revenue, this is a company betting big on “Made in India, for the world.”
- 
-Shereen Bhan gets an inside look at how a decade-old startup is scaling into a global automation player.
- 
-#YoungTurksReloaded #Addverb #Robotics #MakeInIndia #AI #Automation #IndianStartups
-
-LinkedIn • 2h ago
-
----
-
 **[High-precision robots: What to do when absolute accuracy is poor?](https://www.therobotreport.com/high-precision-robots-what-to-do-when-absolute-accuracy-is-poor/)**
 
 The Fraunhofer Institute for Manufacturing Engineering and Automation IPA is helping to improve absolute accuracy for robots.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
-**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
+**[China has another solution to its shrinking population: robots](https://edition.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
@@ -170,12 +156,6 @@ ChinaPower Project • 2d ago
 
 ---
 
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
-
-KSN-TV • 1d ago
-
----
-
 **[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
@@ -189,6 +169,20 @@ Yahoo Finance • 1d ago
 At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
 
 Мілітарний • 1d ago
+
+---
+
+**[3D Printing Pneumatic Channels With Dual Materials For Soft Robots](https://hackaday.com/2026/02/13/3d-printing-pneumatic-channels-with-dual-materials-for-soft-robots/)**
+
+Pneumatics are a common way to add some motion to soft robotic actuators, but adding it to a robot can be somewhat of a chore. A method demonstrated by [Jackson K. Wilt] et al. (press release, prep…
+
+Hackaday • 2d ago
+
+---
+
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
+
+KSN-TV • 1d ago
 
 ---
 
@@ -242,7 +236,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 12K • 👍 334 • 💬 11 • ⏱️ 0:59 • 19h ago
+👁️ 12K • 👍 334 • 💬 11 • ⏱️ 0:59 • 20h ago
 
 ---
 

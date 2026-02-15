@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T15:29:11.576761+00:00'
+updated: '2026-02-15T15:51:16.421349+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 15:29 UTC  
+**Last Updated:** February 15, 2026 at 15:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -73,7 +73,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚
 
-6h ago
+7h ago
 
 ---
 
@@ -97,7 +97,7 @@ Everyone’s screaming that “AI coding is going to replace human developers”
 
 Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
 
-16h ago
+17h ago
 
 ---
 
@@ -105,7 +105,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
 
-3h ago
+4h ago
 
 ---
 
@@ -123,7 +123,7 @@ I have a list of 10,000 contact number (mix of phone number and landlines so tex
 
 **[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
 
-Axios • 13h ago
+Axios • 1h ago
 
 ---
 
@@ -135,31 +135,37 @@ Financial Times • 10h ago
 
 ---
 
-**[Gore Verbinski on His AI Comedy Comeback: “It’s 2026. Good Luck. Have Fun. Don’t Die.”](https://www.hollywoodreporter.com/movies/movie-news/gore-verbinski-good-luck-have-fun-dont-die-interview-ai-1236497029/)**
-
-The blockbuster director pivots to indie filmmaking for a Berlin-premiering sci-fi comedy about artificial intelligence, creative survival and why “women will save the world.”
-
-The Hollywood Reporter • 1h ago
-
----
-
-**[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
-
-Bloomberg.com • 1h ago
-
----
-
 **[Axios CTO is living your coming AI reality](https://www.axios.com/2026/02/15/ai-coding-tech-product-development)**
 
 Axios • 1h ago
 
 ---
 
-**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
+**[AI is advancing too quickly for research to keep up](https://www.axios.com/2026/02/15/ai-chatgpt-research-study)**
 
-NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
+Axios • 2h ago
 
-The Washington Post • 1h ago
+---
+
+**[Trump leans on Utah Republicans to scrap AI safety bill](https://www.ft.com/content/b04fc3d5-c916-4ac8-ab4f-a65a9f4e60c5)**
+
+Memo sent to state lawmakers threatens to escalate feud between the White House and conservative states
+
+Financial Times • 36m ago
+
+---
+
+**[Global week ahead: Markets brace for more AI noise and 'scare trading'](https://www.cnbc.com/2026/02/15/global-week-ahead-markets-brace-for-more-ai-noise-and-scare-trading.html)**
+
+Looking back at last week's volatility could gives some clues for the trading week ahead.
+
+CNBC • 7h ago
+
+---
+
+**[‘We’re All Polyamorous Now. It’s You, Me and the A.I.’](https://www.nytimes.com/2026/02/13/opinion/ai-relationships.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -171,25 +177,19 @@ Fortune • 1d ago
 
 ---
 
-**[What French Romance Novels Could Tell Us About A.I. and Translation Jobs](https://www.nytimes.com/2026/02/15/world/europe/artificial-intelligence-language-translation.html)**
+**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
 
-The New York Times • 10h ago
+NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
----
-
-**[Why are experts sounding the alarm on AI risks?](https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks)**
-
-AI is advancing in rapid and unpredictable ways but there is no joint framework to keep it in check, experts say.
-
-Al Jazeera • 4h ago
+The Washington Post • 1h ago
 
 ---
 
-**[Global week ahead: Markets brace for more AI noise and 'scare trading'](https://www.cnbc.com/2026/02/15/global-week-ahead-markets-brace-for-more-ai-noise-and-scare-trading.html)**
+**[AI Bubble Fears Are Creating New Derivatives](https://finance.yahoo.com/news/ai-bubble-fears-creating-derivatives-200000530.html)**
 
-Looking back at last week's volatility could gives some clues for the trading week ahead.
+Credit derivatives tied to single companies didn’t exist on many high-grade Big Tech issuers a year ago, and are now some of the most actively traded US contracts in the market outside of the financial sector, according to Depository Trust & Clearing Corp.  While contracts on Oracle Corp. have been active for months, in recent weeks, trading on Meta Platforms Inc., the parent of Facebook, and Alphabet Inc. has become much more active, the data shows.
 
-CNBC • 6h ago
+Yahoo Finance • 19h ago
 
 ---
 
@@ -221,7 +221,7 @@ Summary: An AI agent of unknown ownership autonomously wrote and published a per
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 529 • 💬 330 • 20h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 529 • 💬 330 • 21h ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -275,63 +275,23 @@ One Rust binary that runs the full AI assistant: multi-provider LLM routing, too
 
 ## YouTube Videos: "ai"
 
-**[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
-
-New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
-
-📺 ABC News
-
-👁️ 122K • 👍 1K • 💬 689 • ⏱️ 3:58 • 2d ago
-
----
-
-**[Viral essay urges people to prepare for rapid advancements in artificial intelligence](https://www.youtube.com/watch?v=g8u0SlzVKAE)**
-
-If you've been on social media this week, you've likely seen an ominous warning about artificial intelligence in your feed: ...
-
-📺 CBS News
-
-👁️ 57K • 👍 1K • 💬 412 • ⏱️ 7:08 • 1d ago
-
----
-
-**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
-
-Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
-
-📺 Spacialize
-
-👁️ 86K • 👍 2K • 💬 337 • ⏱️ 17:28 • 2d ago
-
----
-
-**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
-
-Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
-
-📺 Asmongold TV  
-
-👁️ 582K • 👍 19K • 💬 4K • ⏱️ 20:40 • 1d ago
-
----
-
-**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
-
-An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
-
-📺 CBS LA
-
-👁️ 60K • 👍 588 • 💬 320 • ⏱️ 3:04 • 1d ago
-
----
-
 **[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
 
 Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
 
 📺 Fox Business Clips
 
-👁️ 314K • 👍 6K • 💬 4K • ⏱️ 9:47 • 2d ago
+👁️ 321K • 👍 6K • 💬 4K • ⏱️ 9:47 • 2d ago
+
+---
+
+**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 14K • 👍 720 • 💬 65 • ⏱️ 7:05 • 1d ago
 
 ---
 
@@ -345,33 +305,73 @@ Sponsored by Genspark. Try the all-in-one AI workplace for free: ...
 
 ---
 
-**[It&#39;s (Finally) Bursting...](https://www.youtube.com/watch?v=yYe9YrdyJNQ)**
+**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
 
-Check out Cape and use code LOGICALLY33 to get 33% off your first six months ...
+Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
 
-📺 Logically Answered
+📺 Asmongold TV  
 
-👁️ 596K • 👍 19K • 💬 3K • ⏱️ 14:39 • 1d ago
-
----
-
-**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 13K • 👍 707 • 💬 61 • ⏱️ 7:05 • 1d ago
+👁️ 584K • 👍 19K • 💬 4K • ⏱️ 20:40 • 1d ago
 
 ---
 
-**[AI News: This Video Model Has Everyone Freaked Out!](https://www.youtube.com/watch?v=msrbd-d6lWk)**
+**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
 
-Here's the AI News You Probably Missed This Week. Check out https://hostinger.com/mattwolfe and use my code MATTWOLFE to ...
+An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
 
-📺 Matt Wolfe
+📺 CBS LA
 
-👁️ 81K • 👍 4K • 💬 291 • ⏱️ 30:53 • 1d ago
+👁️ 64K • 👍 645 • 💬 353 • ⏱️ 3:04 • 1d ago
+
+---
+
+**[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
+
+New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
+
+📺 ABC News
+
+👁️ 125K • 👍 1K • 💬 705 • ⏱️ 3:58 • 2d ago
+
+---
+
+**[AI fight scene video of Tom Cruise and Brad Pitt goes viral](https://www.youtube.com/watch?v=FhjJTZ9uIWY)**
+
+A 15-second AI video of Tom Cruise and Brad Pitt has the industry buzzing and concerned. KTLA's Angeli Kakade reports on Feb.
+
+📺 KTLA 5
+
+👁️ 106K • 👍 452 • 💬 191 • ⏱️ 2:51 • 1d ago
+
+---
+
+**[Google&#39;s Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying](https://www.youtube.com/watch?v=5PedGbAs0ig)**
+
+Google's Quantum AI Just Solved the Fermi Paradox — The Answer Is Terrifying Google's Willow quantum chip completed a ...
+
+📺 Spacialize
+
+👁️ 87K • 👍 2K • 💬 339 • ⏱️ 17:28 • 2d ago
+
+---
+
+**[AI job losses: A &#39;catastrophe&#39; that would go to the core of US power](https://www.youtube.com/watch?v=uU06JoEAgtw)**
+
+Today on The Tech Report, Fergus Macphee is joined by Josh Tyrangiel to discuss a long-read piece he has written in The ...
+
+📺 The Tech Report
+
+👁️ 15K • 👍 398 • 💬 163 • ⏱️ 23:43 • 2d ago
+
+---
+
+**[Bruce Lee VS Jackie Chan | Full AI animation](https://www.youtube.com/watch?v=O31jAeTHAxc)**
+
+Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce Lee in the ultimate showdown for martial ...
+
+📺 ShadowRivals
+
+👁️ 25K • 👍 617 • 💬 84 • ⏱️ 2:02 • 1d ago
 
 ---
 
@@ -495,7 +495,7 @@ Voxtral-Mini-4B-Realtime-2602 is a multilingual, real-time speech-to-text model 
 
 `automatic-speech-recognition`
 
-⬇️ 5,992 • ❤️ 527 • 1d ago
+⬇️ 5,992 • ❤️ 527 • 2d ago
 
 ---
 
@@ -642,7 +642,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.8k • 🔱 447 • 4d ago
+⭐ 5.8k • 🔱 448 • 4d ago
 
 ---
 
@@ -668,7 +668,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 3.0k • 🔱 278 • 27d ago
+⭐ 3.0k • 🔱 281 • 27d ago
 
 ---
 
@@ -678,7 +678,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 255 • 9h ago
+⭐ 2.5k • 🔱 255 • 8m ago
 
 ---
 
@@ -718,7 +718,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.9k • 🔱 203 • 2d ago
+⭐ 1.9k • 🔱 204 • 2d ago
 
 ---
 
@@ -728,7 +728,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 238 • 1d ago
+⭐ 1.9k • 🔱 240 • 1d ago
 
 ---
 

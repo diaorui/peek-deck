@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T15:29:11.591197+00:00'
+updated: '2026-02-15T15:51:16.435787+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 15:29 UTC  
+**Last Updated:** February 15, 2026 at 15:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.1%  
-**7d:** -5.0%  
-**30d:** -39.6%  
-**90d:** -36.0%  
-**1y:** -24.7%  
+**24h:** -3.6%  
+**7d:** -4.6%  
+**30d:** -39.3%  
+**90d:** -35.7%  
+**1y:** -24.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $242.18B
+**Market Cap:** $242.37B
 Rank #2
 
 **Circulating Supply:** 120,692,458 ETH
@@ -62,7 +62,7 @@ No max supply
 -59.4%
 
 **All-Time Low:** $0.43
-+463308.2%
++463610.7%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 17h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 18h ago
 
 ---
 
@@ -158,27 +158,27 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Co-Founder Vitalik Buterin Calls for Prediction Market Reset](https://news.bitcoin.com/ethereum-co-founder-vitalik-buterin-calls-for-prediction-market-reset/)**
+**[Ripple’s RLUSD Stablecoin Floods Ethereum — $1.2B Supply Explosion](https://coinpaper.com/14606/ripple-s-rlusd-stablecoin-floods-ethereum-1-2-b-supply-explosion)**
 
-Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
+Ripple’s RLUSD stablecoin supply on Ethereum tops $1.2B, showing rapid adoption and growing use in DeFi and broader crypto markets.
 
-Bitcoin.com News • 4h ago
-
----
-
-**[Ethereum Is Crushing XRP in 1 Key Arena. Should You Buy It With $1,000?](https://www.nasdaq.com/articles/ethereum-crushing-xrp-1-key-arena-should-you-buy-it-1000)**
-
-Key PointsEthereum is an increasingly popular place to trade and manage tokenized assets.
-
-Nasdaq • 5h ago
+Coinpaper • 1d ago
 
 ---
 
-**[Trump-Linked Truth Social Files for Bitcoin, Ethereum and CRO Staking ETFs](https://finance.yahoo.com/news/trump-linked-truth-social-files-105000773.html)**
+**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
 
-Trump Media and Technology Group is expanding its push into digital assets, filing for two new cryptocurrency exchange-traded funds tied to Bitcoin, Ether and the Cronos ecosystem. Key Takeaways: Trump Media filed for two crypto ETFs tracking Bitcoin, Ether and the Cronos token. The Cronos fund would include staking rewards ...
+BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
+
+Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -190,9 +190,9 @@ CoinDesk • 2d ago
 
 ---
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/02/14/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
 
-The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
+Here's why Bitcoin and Ethereum should be in your long-term portfolio.
 
 The Motley Fool • 1d ago
 
@@ -206,6 +206,12 @@ dlnews.com • 17h ago
 
 ---
 
+**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
+
+TradingView • 15h ago
+
+---
+
 **[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
@@ -214,19 +220,11 @@ BeInCrypto • 10h ago
 
 ---
 
-**[Ethereum Price Analysis: ETH Needs to Reclaim This Key Level to Flip the Script](https://cryptopotato.com/ethereum-price-analysis-eth-needs-to-reclaim-this-key-level-to-flip-the-script/)**
+**[LBank Launches 16th BoostHub Campaign Featuring Ethereum with 30 ETH in Rewards](https://markets.businessinsider.com/news/currencies/lbank-launches-16th-boosthub-campaign-featuring-ethereum-with-30-eth-in-rewards-1035828448)**
 
-Ethereum’s recent price action reflects a market transitioning from impulsive selling into a potential short-term stabilisation phase. After a sharp
+Singapore, Singapore, February 14th, 2026, ChainwireLBank, the leading global crypto exchange, today announced the launch of ...
 
-CryptoPotato • 23h ago
-
----
-
-**[Ethereum Derivatives Reset Raises Questions About Next Price Move: What Happens Next?](https://www.tradingview.com/news/newsbtc:d003b38af094b:0-ethereum-derivatives-reset-raises-questions-about-next-price-move-what-happens-next/)**
-
-Ethereum continues to struggle below the $2,000 level, reflecting persistent selling pressure and increasingly fragile market sentiment. The inability to reclaim this psychological threshold has kept traders defensive, with volatility elevated and confidence weakened as negative sentiment spreads a…
-
-TradingView • 1d ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -240,7 +238,27 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 321 • ⏱️ 34:57 • 15h ago
+👁️ 42K • 👍 2K • 💬 335 • ⏱️ 34:57 • 15h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Lh847otzAo8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 650 • 👍 90 • 💬 4 • ⏱️ 4:45 • 1h ago
+
+---
+
+**[Russell 2000 Breakout: The Signal That Could Ignite Ethereum w/ John Gillen](https://www.youtube.com/watch?v=DjhaV_LhCUA)**
+
+Free Milk Road Newsletters: ...
+
+📺 Milk Road
+
+👁️ 238 • 👍 17 • 💬 18 • ⏱️ 13:02 • 1h ago
 
 ---
 
@@ -250,27 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 104 • 👍 8 • 💬 1 • ⏱️ 4:36 • 4h ago
-
----
-
-**[Ethereum 2026 Outlook Update: Another All-Time High Coming?](https://www.youtube.com/watch?v=8gxhaxkZ5tQ)**
-
-In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
-
-📺 MCO Global
-
-👁️ 2K • 👍 225 • 💬 16 • ⏱️ 5:42 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eOEoHpHQCRQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 160 • 💬 7 • ⏱️ 4:45 • 13h ago
+👁️ 176 • 👍 12 • 💬 1 • ⏱️ 4:36 • 5h ago
 
 ---
 
@@ -280,17 +278,47 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 83 • 💬 2 • ⏱️ 17:25 • 1d ago
+👁️ 3K • 👍 86 • 💬 3 • ⏱️ 17:25 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: WARNING!!! IT JUST GOT WORSE!!!!!](https://www.youtube.com/watch?v=p69c-zjC09g)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eOEoHpHQCRQ)**
 
-Crypto and bitcoin crash is forcing liquidations. This just got worse and we are seeing bear market cascading effect just like the ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Thomas Kralow
+📺 More Crypto Online
 
-👁️ 29K • 👍 3K • 💬 52 • ⏱️ 10:34 • 2d ago
+👁️ 3K • 👍 162 • 💬 10 • ⏱️ 4:45 • 14h ago
+
+---
+
+**[Ethereum&#39;s wild history: V-Bottoms guaranteed?](https://www.youtube.com/watch?v=5NvRpJ2vyeo)**
+
+Observers note a striking pattern: Ethereum has tanked over 50% eight separate times since 2018, yet each time, it snapped back ...
+
+📺 Wolf of Dubai Day Trading & Investing
+
+👁️ 293 • 👍 3 • ⏱️ 1:08 • 1h ago
+
+---
+
+**[Ethereum 2026 Outlook Update: Another All-Time High Coming?](https://www.youtube.com/watch?v=8gxhaxkZ5tQ)**
+
+In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave analysis to forecast potential targets for the ongoing or ...
+
+📺 MCO Global
+
+👁️ 2K • 👍 232 • 💬 16 • ⏱️ 5:42 • 1d ago
+
+---
+
+**[XRP SWIFT SECRET MEETING? | Flare Ethereum Expansion, Canton The Real Deal, The Stellar Strengths](https://www.youtube.com/watch?v=F9wtJcFUVac)**
+
+The developments in the utility crypto space is interesting today. We have great developments from XRP, Flare, Canton & XLM.
+
+📺 Crypto Growth
+
+👁️ 68 • 👍 10 • 💬 18 • ⏱️ 17:21 • 50m ago
 
 ---
 
@@ -300,37 +328,7 @@ BITCOIN & ALTCOIN HOLDERS CANNOT MISS THIS!!! - Bitcoin News Today, Ethereum & A
 
 📺 Crypto World
 
-👁️ 8K • 👍 274 • 💬 30 • ⏱️ 17:42 • 17h ago
-
----
-
-**[15 February Today Crypto Live Trading | @bullishbullmaster #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=8eb0Snb4PNc)**
-
-ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsapp Channel ...
-
-📺 Bullish Bull Master
-
-👁️ 8K • 👍 1K • 5h ago
-
----
-
-**[Mathematician Fred Krueger: Crypto Price Predictions Are About To Go INSANE!](https://www.youtube.com/watch?v=uL0mEsAXcSY)**
-
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 16K • 👍 524 • 💬 147 • ⏱️ 14:31 • 2d ago
-
----
-
-**[CRYPTO LIVE TRADING || 15  Feb  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=m9gtVcWLFtU)**
-
-join my social platforms for updates and analysis ✓Instagram: ...
-
-📺 Aryan trader Live
-
-👁️ 700 • 👍 1K • 2h ago
+👁️ 8K • 👍 286 • 💬 31 • ⏱️ 17:42 • 17h ago
 
 ---
 

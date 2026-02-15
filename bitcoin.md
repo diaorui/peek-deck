@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T15:29:11.585227+00:00'
+updated: '2026-02-15T15:51:16.429752+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- news
 - social
 - cryptocurrency
-- news
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 15:29 UTC  
+**Last Updated:** February 15, 2026 at 15:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1377.16B
+**Market Cap:** $1379.79B
 Rank #1
 
-**Circulating Supply:** 19,989,753 BTC
+**Circulating Supply:** 19,989,828 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.4%
+-45.3%
 
 **All-Time Low:** $67.81
-+101497.1%
++101691.8%
 
 ---
 
@@ -95,7 +95,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-50m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
-19h ago
+20h ago
 
 ---
 
@@ -119,13 +119,13 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
 
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 13h ago
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 14h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 What would you say we are looking at for predictions for 1,3,5 years
 
-9h ago
+10h ago
 
 ---
 
@@ -157,9 +157,11 @@ I've been building a comprehensive secp256k1 library that covers the full modern
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
-Bloomberg.com • 2d ago
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -169,29 +171,37 @@ Forbes • 1d ago
 
 ---
 
-**[Ripple news: XRP investors likely bought the dip after the recent crash](https://www.coindesk.com/markets/2026/02/15/xrp-is-outrunning-bitcoin-and-ether-after-investors-piled-into-the-recent-crash)**
+**[In bitcoin crash, ETF flows are down but they aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
 
-XRP is outperforming bitcoin and ether following signs of dip buying during recent crash.
+As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CoinDesk • 2h ago
-
----
-
-**[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
-
-Forbes • 4h ago
+CNBC • 51m ago
 
 ---
 
-**[Trump-Linked Truth Social Files for Bitcoin, Ethereum and CRO Staking ETFs](https://finance.yahoo.com/news/trump-linked-truth-social-files-105000773.html)**
+**[Proof Of Work Is What’s In Your Wallet, Not On The Bitcoin Blockchain](https://www.forbes.com/sites/johntamny/2026/02/15/proof-of-work-is-whats-in-your-wallet-not-on-the-bitcoin-blockchain/)**
 
-Trump Media and Technology Group is expanding its push into digital assets, filing for two new cryptocurrency exchange-traded funds tied to Bitcoin, Ether and the Cronos ecosystem. Key Takeaways: Trump Media filed for two crypto ETFs tracking Bitcoin, Ether and the Cronos token. The Cronos fund would include staking rewards ...
-
-Yahoo Finance • 4h ago
+Forbes • 51m ago
 
 ---
 
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfJGHtSHBCBFQz8CqZmbxsyMsPGdVVLDMWFT5do8wUyo3hQwPLBM4hy&gaa_ts=6991dbae&gaa_sig=MjjCH0DIymgH0mn_HCOHumHKVLcN906w7ygBOjA9LF_N8kCHgzHb5XtBElBVnUtgL30TmPwDQmxdr0NflTtmoA%3D%3D)**
+**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
+
+Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
+
+BBC • 13h ago
+
+---
+
+**[Bitcoin Price Slides After US Admits Nearly 1 Million ‘Phantom’ Jobs in Data Revision](https://finance.yahoo.com/news/bitcoin-price-slides-us-admits-130321937.html)**
+
+Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqdiYw5sNqLBpRQlMGlUtppiD7v8zLHxIQn_ZDiKgzgSXppM4BuyXqK-&gaa_ts=6991eee0&gaa_sig=DQprwkhVwOcLTPO4hRk8evrqZhrBT6-WNPpDKtH5z3mWvym4JZTIoG3XmEmWqN1KOVx1Nq2DXnl-Phkk-nskVQ%3D%3D)**
 
 Barron's • 2d ago
 
@@ -205,11 +215,9 @@ MLive.com • 7h ago
 
 ---
 
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
+**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
 
-Key PointsBitcoin's most important features probably won't change much between now and 2036.
-
-Nasdaq • 1d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -218,14 +226,6 @@ Nasdaq • 1d ago
 Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
 
 IO Fund • 3d ago
-
----
-
-**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
-
-Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
-
-CNBC • 3d ago
 
 ---
 
@@ -305,7 +305,7 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
-⬆️ 2 • 💬 0 • 19h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 2 • 💬 0 • 20h ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -313,23 +313,33 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 ## YouTube Videos: "bitcoin"
 
+**[The Dollar Is DYING But Bitcoin Isn&#39;t Rallying - Here&#39;s The Scary Reason Why](https://www.youtube.com/watch?v=2PMVBDU64_Y)**
+
+The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC no longer inversely correlated with the DXY?
+
+📺 Coin Bureau
+
+👁️ 7K • 👍 575 • 💬 90 • ⏱️ 12:55 • 3h ago
+
+---
+
+**[This Bitcoin Selloff Is Different And Nobody Understands What Comes Next! | Dan Tapiero](https://www.youtube.com/watch?v=XM3GMkAh9GU)**
+
+Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is structurally different from past cycles. With venture tokens ...
+
+📺 The Wolf Of All Streets
+
+👁️ 4K • 👍 307 • 💬 83 • ⏱️ 30:55 • 1h ago
+
+---
+
 **[Brace Up for a WILD RIDE! Bitcoin&#39;s About to SHOCK Everyone - Cathie Wood &amp; Lyn Alden](https://www.youtube.com/watch?v=nk4B1tnobQE)**
 
 We are in one of the most important moments in Bitcoin's history. The headlines are confused. The volatility is loud. But the signal ...
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 197 • 💬 6 • ⏱️ 17:15 • 22h ago
-
----
-
-**[Bitcoin Dominance](https://www.youtube.com/watch?v=3PCBcXqTx2g)**
-
-Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
-
-📺 Benjamin Cowen
-
-👁️ 29K • 👍 2K • 💬 92 • ⏱️ 18:10 • 9h ago
+👁️ 5K • 👍 207 • 💬 6 • ⏱️ 17:15 • 22h ago
 
 ---
 
@@ -339,17 +349,7 @@ Crypto Is About To Explode (Here's Why) “Like Buying Bitcoin in 2018” Concor
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 283 • ⏱️ 15:20 • 1d ago
-
----
-
-**[THE FINAL BITCOIN MOVE... (prepare accordingly)](https://www.youtube.com/watch?v=qFEIPmIEc9A)**
-
-WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
-
-📺 Crypto Rover
-
-👁️ 8K • 👍 604 • 💬 60 • ⏱️ 10:24 • 9h ago
+👁️ 63K • 👍 3K • 💬 285 • ⏱️ 15:20 • 1d ago
 
 ---
 
@@ -359,25 +359,17 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 3K • 👍 181 • 💬 13 • ⏱️ 20:41 • 17h ago
+👁️ 3K • 👍 196 • 💬 14 • ⏱️ 20:41 • 17h ago
 
 ---
 
-**[BITCOIN: WATCH BEFORE THE NEXT 48 HOURS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=mATej2vUyTI)**
+**[THE FINAL BITCOIN MOVE... (prepare accordingly)](https://www.youtube.com/watch?v=qFEIPmIEc9A)**
 
-My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
+WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
 
-📺 Road To $1 Million USD
+📺 Crypto Rover
 
-👁️ 6K • 👍 307 • 💬 31 • ⏱️ 8:36 • 16h ago
-
----
-
-**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
-
-📺 Pawn Media
-
-👁️ 111K • 👍 3K • 💬 24 • ⏱️ 0:59 • 1d ago
+👁️ 10K • 👍 653 • 💬 34 • ⏱️ 10:24 • 10h ago
 
 ---
 
@@ -387,7 +379,25 @@ Is the crash in bitcoin approaching capitulation and a major bottom in its price
 
 📺 Alessio Rastani
 
-👁️ 40K • 👍 3K • 💬 461 • ⏱️ 8:15 • 1d ago
+👁️ 41K • 👍 3K • 💬 458 • ⏱️ 8:15 • 1d ago
+
+---
+
+**[Bitcoin Dominance](https://www.youtube.com/watch?v=3PCBcXqTx2g)**
+
+Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
+
+📺 Benjamin Cowen
+
+👁️ 35K • 👍 2K • 💬 101 • ⏱️ 18:10 • 10h ago
+
+---
+
+**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
+
+📺 Pawn Media
+
+👁️ 117K • 👍 3K • 💬 25 • ⏱️ 0:59 • 1d ago
 
 ---
 
@@ -397,17 +407,7 @@ Everyone is asking whether Bitcoin will bounce back. Glenn Beck says that's the 
 
 📺 Glenn Beck Clips
 
-👁️ 20K • 👍 966 • 💬 264 • ⏱️ 11:34 • 2d ago
-
----
-
-**[The Secret Reason Behind Bitcoin&#39;s Crash (And What Actually Matters)](https://www.youtube.com/watch?v=yD0b2PXuwNI)**
-
-Bitcoin's crash off its all time high and then its sudden crash last week. It left many people stunned and it took a couple days.
-
-📺 Mark Moss
-
-👁️ 274K • 👍 9K • 💬 1K • ⏱️ 16:43 • 2d ago
+👁️ 20K • 👍 977 • 💬 268 • ⏱️ 11:34 • 2d ago
 
 ---
 
