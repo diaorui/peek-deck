@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-15T09:33:19.187797+00:00'
+updated: '2026-02-15T10:28:43.777966+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 15, 2026 at 09:33 UTC  
+**Last Updated:** February 15, 2026 at 10:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[I'm getting paralyzed slowly. So I want to learn to build a robot that can help me](https://www.reddit.com/r/robotics/comments/1r59ggj/im_getting_paralyzed_slowly_so_i_want_to_learn_to/)**
+
+​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
+
+2h ago
+
+---
+
 **[Personal robotics project – request for advice and feedback](https://www.reddit.com/r/robotics/comments/1r4pjw4/personal_robotics_project_request_for_advice_and/)**
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-16h ago
+17h ago
 
 ---
 
@@ -44,7 +52,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
 
-16h ago
+17h ago
 
 ---
 
@@ -52,27 +60,27 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-2h ago
-
----
-
-**[I'm getting paralyzed slowly. So I want to learn to build a robot that can help me](https://www.reddit.com/r/robotics/comments/1r59ggj/im_getting_paralyzed_slowly_so_i_want_to_learn_to/)**
-
-​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
-
-1h ago
+3h ago
 
 ---
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-2h ago
+3h ago
 
 ---
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
 1d ago
+
+---
+
+**[Orp-testmechv2 showcase 14-02-2026](https://www.reddit.com/r/robotics/comments/1r4t9gb/orptestmechv2_showcase_14022026/)**
+
+I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
+
+🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 15h ago
 
 ---
 
@@ -88,7 +96,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . Recently companies have been developing cross-embodied brains but this requires datasets. The current method involves hiring a teleoperator to perform actions for 1000 hours to obtain quality data, which is both costly and time-consuming. Many companies and seminars are recognising this issue. My partner and I are developing a ‘Cross-Body Data Engine’ to mathematically retarget datasets from one robot to another while enriching it with additional information such as torque and semantic layers. I would like to ask your opinion: is ‘data scarcity across different hardware’ a significant bottleneck for teams or do you find it more straightforward to collect fresh teleop data for each new robot?" We are attempting to validate our core thesis and would value your candid feedback.
 
-12h ago
+13h ago
 
 ---
 
@@ -96,15 +104,7 @@ Yo everyone! I hope you are doing phenomenal! I am a graduate student at CMU . R
 
 I am designing an autonomous surface vehicle that provides as assistance and rescue to open water swimmers. I have doing some math to determine the hull and thruster size. So far the design looks like this https://preview.redd.it/i1q8tx87sjjg1.png?width=706&format=png&auto=webp&s=f082aab242ac18087e75d0c8f9e8fb18ef35de2d https://preview.redd.it/71huppe9sjjg1.png?width=888&format=png&auto=webp&s=e659a1118be31d954e1624d5f472d78d338c6758 Main thruster can be seen in the back, along the stabilizer wings. The smaller ones are maneuvering thusters for low speed movements and also to compensate against drift current. Next step will be probably adding the wearable beacon that enables GPS tracking.
 
-9h ago
-
----
-
-**[Orp-testmechv2 showcase 14-02-2026](https://www.reddit.com/r/robotics/comments/1r4t9gb/orptestmechv2_showcase_14022026/)**
-
-I finnaly made some progress with my orp-testmechv2 robot i had problems with finding a way to turn left and right but I finished it thanks by watching a video of a other robot dog
-
-🔗 [youtube.com](https://youtube.com/shorts/g_XyiRUCs8s?si=s0f3PeMrdA2_CI2j) • 14h ago
+10h ago
 
 ---
 
@@ -125,6 +125,20 @@ BBC • 2d ago
 npj Robotics - A call for a performance-driven approach for soft robotics research
 
 Nature • 2d ago
+
+---
+
+**[Japan is ageing. Europe is ageing. Even India won’t stay 27 forever. So who fills the gap when there simply aren’t enough people? In this conversation, Addverb’s Sangeet Kumar explains to Shereen Bhan, why robotics may not just be about efficiency, but ab](https://www.linkedin.com/posts/cnbc-tv18_youngturksreloaded-addverb-robotics-activity-7428724552412766208-C2Bf)**
+
+Japan is ageing. Europe is ageing. Even India won’t stay 27 forever. So who fills the gap when there simply aren’t enough people?
+ 
+In this conversation, Addverb’s Sangeet Kumar explains to Shereen Bhan, why robotics may not just be about efficiency, but about survival. From delivery drones in labour-starved economies to humanoids assisting the elderly, from surgical robots to wearable exoskeletons—the future of healthcare could look very different.
+ 
+But here’s the catch: building the tech is one thing. Navigating regulation? A whole different battle. Are robots the answer to the world’s ageing crisis? 🤖
+ 
+#YoungTurksReloaded #Addverb #Robotics #Humanoid #HealthcareTech #AI #FutureOfWork #AgeingPopulation
+
+LinkedIn • 1h ago
 
 ---
 
@@ -158,22 +172,6 @@ ChinaPower Project • 2d ago
 
 ---
 
-**[Elon Musk Bets On Humanoid Robots In 2026, But One Company Hopes 'Elon Time' Strikes Again](https://finance.yahoo.com/news/elon-musk-bets-humanoid-robots-153112171.html)**
-
-Elon Musk has repeatedly touted the Optimus humanoid robot as Tesla’s (NYSE:TSLA) most significant long-term value driver, suggesting it could eventually propel the company’s market cap to $25 trillion. Yet, prediction market odds suggest a humanoid robot in 2026 may be a little too optimistic. During Tesla's recent “We, Robot” event, Musk claimed the robots could perform everything from babysitting to mowing lawns, with a price tag between $20,000 and $30,000. But according to Kalshi, the human
-
-Yahoo Finance • 2d ago
-
----
-
-**[If robots take the auto jobs, who’s left with money to buy cars?](https://www.autonews.com/manufacturing/anc-humanoid-robots-threaten-auto-industry-jobs-0209/)**
-
-Larry Savage, a professor of labour studies at Brock University, says governments might need to step in to help protect jobs that are under the threat of automation.
-
-Automotive News • 2d ago
-
----
-
 **[Tesla is still a 'long way off' from functional humanoid robots](https://finance.yahoo.com/video/tesla-still-long-way-off-223500625.html)**
 
 Elon Musk has a tremendous vision for robotics and the mass adoption of this kind of technology. Gerber Kawasaki Wealth & Investment Management CEO Ross Gerber sits down with Josh Lipton to talk more about the Tesla (TSLA) and SpaceX (SPAX.PVT) CEO's plans for his Optimus humanoid robots and how the broader tech industry is reacting. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Asking for a Trend.
@@ -182,11 +180,19 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[What to know about Chicago's delivery robots and the debate over them](https://chicago.suntimes.com/business/2026/delivery-robots-chicago-food-coco-robotics)**
+**[3D Printing Pneumatic Channels With Dual Materials For Soft Robots](https://hackaday.com/2026/02/13/3d-printing-pneumatic-channels-with-dual-materials-for-soft-robots/)**
 
-Some Chicago residents are fighting the deployment of robot delivery couriers. A petition started by a Lincoln Park resident has picked up over 3,400 signatures
+Pneumatics are a common way to add some motion to soft robotic actuators, but adding it to a robot can be somewhat of a chore. A method demonstrated by [Jackson K. Wilt] et al. (press release, prep…
 
-Chicago Sun-Times • 2d ago
+Hackaday • 1d ago
+
+---
+
+**[Robotics Centre Presents BAAZ Hybrid VTOL UAV](https://militarnyi.com/en/news/robotics-centre-baaz-hybrid-vtol-uav/)**
+
+At the Robotics Centre booth, a new hybrid drone called BAAZ was presented, combining the advantages of a multicopter and an airplane.This was reported to Militarnyi by a company representative […]
+
+Мілітарний • 1d ago
 
 ---
 
@@ -210,7 +216,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 285K • 👍 4K • 💬 583 • ⏱️ 53:47 • 21h ago
+👁️ 285K • 👍 4K • 💬 583 • ⏱️ 53:47 • 22h ago
 
 ---
 
@@ -220,7 +226,7 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 10K • 👍 296 • 💬 10 • ⏱️ 0:59 • 13h ago
+👁️ 10K • 👍 296 • 💬 10 • ⏱️ 0:59 • 14h ago
 
 ---
 
@@ -230,7 +236,7 @@ Based on Unitree's UnifoLM-X1-0 embodied AI model, this is an actual deployment 
 
 📺 Unitree Robotics
 
-👁️ 30K • 👍 748 • 💬 121 • ⏱️ 0:45 • 1d ago
+👁️ 30K • 👍 748 • 💬 121 • ⏱️ 0:45 • 2d ago
 
 ---
 
@@ -240,7 +246,7 @@ Figure AI has unveiled its 3rd generation humanoid robot, but the real story is 
 
 📺 DPCcars
 
-👁️ 2K • 👍 60 • 💬 8 • ⏱️ 1:24 • 19h ago
+👁️ 2K • 👍 60 • 💬 8 • ⏱️ 1:24 • 20h ago
 
 ---
 
@@ -260,7 +266,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Kalil 4.0
 
-👁️ 2K • 👍 57 • 💬 5 • ⏱️ 0:21 • 15h ago
+👁️ 2K • 👍 57 • 💬 5 • ⏱️ 0:21 • 16h ago
 
 ---
 
@@ -268,7 +274,7 @@ The rising Shenzhen startup LimX Dynamics says its new robot, the TRON 2, is des
 
 📺 Romi Pal
 
-👁️ 74K • 👍 1K • 💬 15 • ⏱️ 0:37 • 12h ago
+👁️ 74K • 👍 1K • 💬 15 • ⏱️ 0:37 • 13h ago
 
 ---
 
@@ -278,7 +284,7 @@ A bold statement like this instantly ignites curiosity and debate across the wor
 
 📺 Billionaire Shots
 
-👁️ 5K • 👍 570 • 💬 77 • ⏱️ 0:25 • 6h ago
+👁️ 5K • 👍 570 • 💬 77 • ⏱️ 0:25 • 7h ago
 
 ---
 

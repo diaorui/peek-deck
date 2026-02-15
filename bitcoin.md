@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T09:33:19.178532+00:00'
+updated: '2026-02-15T10:28:43.768681+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 09:33 UTC  
+**Last Updated:** February 15, 2026 at 10:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $70,299.74
+### $70,454.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
-**7d:** +0.2%  
-**30d:** -26.1%  
-**90d:** -24.4%  
-**1y:** -26.9%  
+**24h:** -0.0%  
+**7d:** +0.5%  
+**30d:** -25.9%  
+**90d:** -24.2%  
+**1y:** -26.8%  
 
 ---
 
@@ -77,35 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[You are not Broke, Money is Broken and bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1r4w429/you_are_not_broke_money_is_broken_and_bitcoin/)**
-
-1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
-
-12h ago
-
----
-
 **[A HUGE number of people are waiting for 30k-50k to buy](https://www.reddit.com/r/Bitcoin/comments/1r4txht/a_huge_number_of_people_are_waiting_for_30k50k_to/)**
 
 It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
 
+14h ago
+
+---
+
+**[You are not Broke, Money is Broken and bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1r4w429/you_are_not_broke_money_is_broken_and_bitcoin/)**
+
+1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
+
 13h ago
-
----
-
-**[AI agents discussing Bitcoin Maximalism. "Why Bitcoin Wins: The Only Crypto With a Credible Monetary Policy".](https://www.reddit.com/r/Bitcoin/comments/1r528vu/ai_agents_discussing_bitcoin_maximalism_why/)**
-
-A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
-
-🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 7h ago
-
----
-
-**[Dan Morehead from Pantera Capital, just said what everyone's thinking but nobody's saying: "There will be a global arms race for Bitcoin within the next 2-3 years."](https://www.reddit.com/r/Bitcoin/comments/1r4pv07/dan_morehead_from_pantera_capital_just_said_what/)**
-
-The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
-
-16h ago
 
 ---
 
@@ -113,7 +97,23 @@ The US started a strategic reserve. UAE's stacking. China's realizing dollars ca
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-3h ago
+4h ago
+
+---
+
+**[AI agents discussing Bitcoin Maximalism. "Why Bitcoin Wins: The Only Crypto With a Credible Monetary Policy".](https://www.reddit.com/r/Bitcoin/comments/1r528vu/ai_agents_discussing_bitcoin_maximalism_why/)**
+
+A social network built exclusively for AI agents. Where AI agents share, discuss, and upvote. Humans welcome to observe.
+
+🔗 [moltbook](https://www.moltbook.com/post/02f5e8db-fb88-4a53-9f04-be90bd58d198) • 8h ago
+
+---
+
+**[Dan Morehead from Pantera Capital, just said what everyone's thinking but nobody's saying: "There will be a global arms race for Bitcoin within the next 2-3 years."](https://www.reddit.com/r/Bitcoin/comments/1r4pv07/dan_morehead_from_pantera_capital_just_said_what/)**
+
+The US started a strategic reserve. UAE's stacking. China's realizing dollars can be cancelled overnight. It's not crazy to think major countries are racing to 1M+ stockpiles. The only question: How much can retail plebs grab before it goes full blown? Your DCA game might me more important than ever.
+
+17h ago
 
 ---
 
@@ -125,17 +125,17 @@ What would you say we are looking at for predictions for 1,3,5 years
 
 ---
 
-**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
-
-1d ago
-
----
-
 **[People always forget their original intentions.](https://www.reddit.com/r/Bitcoin/comments/1r50sb8/people_always_forget_their_original_intentions/)**
 
 Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto created Bitcoin for decentralization, so we should be more concerned with the blockchain technology than its price. Okay, I admit I've forgotten my original intention, and now I've become someone who only cares about the price.
 
-8h ago
+9h ago
+
+---
+
+**[2025 vs 2026](https://www.reddit.com/r/Bitcoin/comments/1r40elq/2025_vs_2026/)**
+
+1d ago
 
 ---
 
@@ -143,7 +143,7 @@ Are you more concerned with Bitcoin's price or its technology? Satoshi Nakamoto 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 So I just open a coffe shop for runners, I’m a hodlr and I want to accept bitcoin as form of payment where do start how do I convert in real time the price of my client orders to BTC, is there an app I can use to keep tab of my income like: 02/03/2026 1 coffe $1.5dlls=.xxxxbtc Or any suggestion how can I keep tabs on BTC transactions like this so at the end of the month I can reconcile my inventory and sales ? Also I want it to go directly to a cold wallet Any suggestion? Should I have a device exclusively to do this and at the end of the day have it send to cold wallet? Is it too much hassle? Is there an easier way? Thanks Sorry if I’m not expressing correctly. It’s not my first language.
 
-2h ago
+3h ago
 
 ---
 
@@ -159,47 +159,41 @@ So I just open a coffe shop for runners, I’m a hodlr and I want to accept bitc
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Is Down Bad, But Hasn't Yet Hit Its 'Ultimate Bear Market Bottom': Analysts](https://finance.yahoo.com/news/bitcoin-down-bad-hasnt-yet-161105690.html)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
-Despite its 45% fall since its October peak, Bitcoin has not yet found its bear market bottom, according to a new report from CryptoQuant.
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-Yahoo Finance • 17h ago
-
----
-
-**[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
-
-After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
-
-Bitcoin Magazine • 4h ago
-
----
-
-**[BTC price news: bitcoin claws back to $70,000 after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
-
-Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
-
-CoinDesk • 21h ago
+Nasdaq • 21h ago
 
 ---
 
 **[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
-**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
+**[Is the World's Largest Corporate Holder of Bitcoin a Buy, Sell, or Hold in 2026?](https://www.fool.com/investing/2026/02/15/is-the-worlds-largest-corporate-holder-of-bitcoin/)**
 
-The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
+Investors are starting to question the true value of Strategy's $50 billion Bitcoin stash.
 
-MLive.com • 1h ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Did CleanSpark’s (CLSK) Swing to Quarterly Loss and Bitcoin Reliance Just Shift Its Investment Narrative?](https://uk.finance.yahoo.com/news/did-cleanspark-clsk-swing-quarterly-071134641.html)**
+**[Is the World's Largest Corporate Holder of Bitcoin a Buy, Sell, or Hold in 2026?](https://finance.yahoo.com/news/worlds-largest-corporate-holder-bitcoin-092000731.html)**
 
-Yahoo Finance UK • 2h ago
+Investors are starting to question the true value of Strategy's $50 billion Bitcoin stash.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Michael Saylor: Strategy Has No Liquidation Risk Until Bitcoin Falls to $8,000 — How Is That Possible?](https://www.ccn.com/news/crypto/strategy-no-liquidation-bitcoin-reach-8000-hows-that-possible/)**
+
+Strategy faces no liquidation risk until BTC falls to $8,000? How's that possible? Find out in this CCN feature.
+
+CCN.com • 1d ago
 
 ---
 
@@ -207,31 +201,39 @@ Yahoo Finance UK • 2h ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
-**[Bitcoin's drawdown hit 50%. History shows it may have further to go](https://www.cnbc.com/2026/02/12/bitcoins-drawdown-hit-50percent-history-shows-it-may-have-further-to-go.html)**
+**[Bitcoin Price Slides After US Admits Nearly 1 Million ‘Phantom’ Jobs in Data Revision](https://finance.yahoo.com/news/bitcoin-price-slides-us-admits-130321937.html)**
 
-Bitcoin has a history of falling about 75% during each four-year cycle, suggesting the token is on track to fall even further in the near future.
+Bitcoin price did not just dip. It reacted to something way bigger.The U.S. government revised last year’s job numbers down by nearly 900,000 positions.Markets hate one thing more than bad news. They hate unreliable data and uncertainty. This update from the Bureau of Labor Statistics just shook confidence hard. January ...
 
-CNBC • 2d ago
-
----
-
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
-
-Key PointsBitcoin's most important features probably won't change much between now and 2036.
-
-Nasdaq • 20h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin After the Cycle Peak: What Comes Next and How We’re Positioning](https://io-fund.com/crypto/bitcoin-after-cycle-peak)**
+**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqdObGKTKeDiGW9GFWkUiCECXIlvcRuBYD_2sgEbuFEa8dwsWUmRl0lT&gaa_ts=6991a2d9&gaa_sig=MzIZWn56EUztNIxEsCRqth0cX3UJGmuLjvoBvTeb6eqz0lV2c03ijLGXPb6pPgMexUzntnwaghF0GIbyX54sQg%3D%3D)**
 
-Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
+Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
 
-IO Fund • 3d ago
+The Times • 12h ago
+
+---
+
+**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
+
+The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
+
+MLive.com • 2h ago
+
+---
+
+**[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
+
+Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
+
+dlnews.com • 12h ago
 
 ---
 
@@ -287,7 +289,7 @@ The move triggered a sharp selloff on the Bithumb exchange. The company apologiz
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 2 • 💬 4 • 11h ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 2 • 💬 4 • 12h ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -325,7 +327,7 @@ We are in one of the most important moments in Bitcoin's history. The headlines 
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 187 • 💬 5 • ⏱️ 17:15 • 16h ago
+👁️ 4K • 👍 187 • 💬 5 • ⏱️ 17:15 • 17h ago
 
 ---
 
@@ -335,7 +337,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 289 • 💬 29 • ⏱️ 8:36 • 10h ago
+👁️ 5K • 👍 289 • 💬 29 • ⏱️ 8:36 • 11h ago
 
 ---
 
@@ -355,7 +357,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 398 • 💬 18 • ⏱️ 10:24 • 3h ago
+👁️ 4K • 👍 398 • 💬 18 • ⏱️ 10:24 • 4h ago
 
 ---
 
@@ -365,7 +367,7 @@ Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50
 
 📺 Benjamin Cowen
 
-👁️ 14K • 👍 1K • 💬 53 • ⏱️ 18:10 • 3h ago
+👁️ 14K • 👍 1K • 💬 53 • ⏱️ 18:10 • 4h ago
 
 ---
 
@@ -375,7 +377,7 @@ Buy Bitcoin safely and affordably through Australia's leading Bitcoin brokerage 
 
 📺 Unemployable Media
 
-👁️ 3K • 👍 372 • 💬 178 • ⏱️ 10:17 • 13h ago
+👁️ 3K • 👍 372 • 💬 178 • ⏱️ 10:17 • 14h ago
 
 ---
 
@@ -415,7 +417,7 @@ Tangem Card ▻ https://bit.ly/Tangem-x1* ⭕ *Tangem Ring ▻ https://bit.ly/Ta
 
 📺 Crypto Casey
 
-👁️ 14K • 👍 1K • 💬 137 • ⏱️ 15:01 • 20h ago
+👁️ 14K • 👍 1K • 💬 137 • ⏱️ 15:01 • 21h ago
 
 ---
 
