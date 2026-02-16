@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T20:34:22.744079+00:00'
+updated: '2026-02-16T21:29:36.403925+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 20:34 UTC  
+**Last Updated:** February 16, 2026 at 21:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stab
 
 Fundstrat’s Tom Lee says crypto winter is either already over or will end by April, pointing to late-cycle sentiment and improving macro. He also highlighted BitMine’s strategy of weekly ETH accumulation and staking as a long-term institutional bet on Ethereum. Article: https://btcusa.com/tom-lee-crypto-winter-likely-ends-by-april-as-ethereum-strategy-expands/ Do you agree we’re near the end of this cycle correction?
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ We're a group of researchers and have just prepared a draft addressing a gap in 
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-5h ago
+6h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum hovers near $2,000 as SOPR signals loss saturation, but falling new address growth and weak inflows continue capping recovery.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ Decrypt • 4h ago
 
 Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
 
-CCN.com • 9h ago
+CCN.com • 10h ago
 
 ---
 
@@ -218,7 +218,7 @@ Crypto Briefing • 21h ago
 
 XRP’s spot strength outpaces derivatives participation, reflecting Korea’s cash-market dominance in crypto sentiment flows.
 
-AMBCrypto • 3h ago
+AMBCrypto • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 175 • 💬 8 • ⏱️ 6:56 • 6h ago
+👁️ 2K • 👍 175 • 💬 8 • ⏱️ 6:56 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 128 • 👍 13 • 💬 1 • ⏱️ 6:11 • 1h ago
+👁️ 128 • 👍 13 • 💬 1 • ⏱️ 6:11 • 2h ago
 
 ---
 
@@ -270,7 +270,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 5K • 👍 239 • 💬 41 • ⏱️ 17:52 • 23h ago
+👁️ 5K • 👍 239 • 💬 41 • ⏱️ 17:52 • 1d ago
 
 ---
 
@@ -290,7 +290,7 @@ Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn h
 
 📺 World Liberty Financial
 
-👁️ 3K • 👍 75 • 💬 7 • ⏱️ 2:13 • 6h ago
+👁️ 3K • 👍 75 • 💬 7 • ⏱️ 2:13 • 7h ago
 
 ---
 
@@ -310,7 +310,7 @@ What happens when a blockchain splits? This video explains soft and hard forks, 
 
 📺 CoinGecko
 
-👁️ 1K • 👍 110 • 💬 14 • ⏱️ 4:01 • 9h ago
+👁️ 1K • 👍 110 • 💬 14 • ⏱️ 4:01 • 10h ago
 
 ---
 
@@ -330,7 +330,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 262 • 💬 41 • ⏱️ 17:15 • 18h ago
+👁️ 8K • 👍 262 • 💬 41 • ⏱️ 17:15 • 19h ago
 
 ---
 

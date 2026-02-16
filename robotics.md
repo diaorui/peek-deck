@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T20:34:22.747268+00:00'
+updated: '2026-02-16T21:29:36.407108+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 20:34 UTC  
+**Last Updated:** February 16, 2026 at 21:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -48,7 +48,7 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -56,7 +56,7 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robotics related things if anyone can plz list it out also I'm in my final year of engineering ECE and i know very basic of all these mentioned I need full deep learning and good projects , i already have a job in robotics ai but to make it full time I need to gear up and learn a lot and build projects so Help me to find a best course,im ready to pay also but not that costly still broke need certification cause they might be valued in future also etc etc Building projects will be my part but I need to learn first
 
-45m ago
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robot
 
 So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ So we have a pick and place bot competition in 3 days, and we planned to prepare
 
 Robotics software engineers here: is it possible to write functional infrastructure software using simulated environments (e.g. Isaac to get sensor data and pipe it into Jetson hw) that can be shifted to a compatible robot without too much hassle?
 
-2h ago
+3h ago
 
 ---
 
@@ -120,13 +120,13 @@ The Economist • 2h ago
 
 ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
 
-South China Morning Post • 22h ago
+South China Morning Post • 23h ago
 
 ---
 
 **[China Ready to Dazzle the World with Humanoid Robots ‘Super Bowl’ Show](https://www.tipranks.com/news/china-ready-to-dazzle-the-world-with-humanoid-robots-super-bowl-show)**
 
-TipRanks • 8h ago
+TipRanks • 9h ago
 
 ---
 
@@ -134,7 +134,7 @@ TipRanks • 8h ago
 
 Hard to imagine China losing the robot race
 
-investingLive • 5h ago
+investingLive • 6h ago
 
 ---
 
@@ -150,7 +150,7 @@ CNN • 2d ago
 
 Weave Robotics' Isaac 0 folds clothes using AI, with remote human assistance helping to improve its performance over time.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -166,7 +166,7 @@ Fox News • 3h ago
 
 The Economics Show 🤜🤛 FT Alphaville
 
-Financial Times • 10h ago
+Financial Times • 11h ago
 
 ---
 
@@ -174,7 +174,7 @@ Financial Times • 10h ago
 
 A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-KWQC • 19h ago
+KWQC • 20h ago
 
 ---
 
@@ -182,7 +182,7 @@ KWQC • 19h ago
 
 China’s new lifelike robot hints at a future of intimate human-machine interaction.
 
-ZME Science • 10h ago
+ZME Science • 11h ago
 
 ---
 
@@ -226,7 +226,7 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 17K • 👍 1K • 💬 667 • ⏱️ 2:37 • 4h ago
+👁️ 17K • 👍 1K • 💬 667 • ⏱️ 2:37 • 5h ago
 
 ---
 
@@ -236,7 +236,7 @@ Dozens of Unitree humanoid robots just achieved a world first with a fully auton
 
 📺 DPCcars
 
-👁️ 6K • 👍 357 • 💬 88 • ⏱️ 2:07 • 4h ago
+👁️ 6K • 👍 357 • 💬 88 • ⏱️ 2:07 • 5h ago
 
 ---
 
@@ -286,7 +286,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 34K • 👍 2K • 💬 401 • ⏱️ 9:43 • 22h ago
+👁️ 34K • 👍 2K • 💬 401 • ⏱️ 9:43 • 23h ago
 
 ---
 

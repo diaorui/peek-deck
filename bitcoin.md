@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T20:34:22.738095+00:00'
+updated: '2026-02-16T21:29:36.397978+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 20:34 UTC  
+**Last Updated:** February 16, 2026 at 21:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-10h ago
+11h ago
 
 ---
 
 **[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Full segment is on YouTube.
 
-1h ago
+2h ago
 
 ---
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -107,7 +107,7 @@ Full segment is on YouTube.
 
 The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
 
-🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 4h ago
+🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 5h ago
 
 ---
 
@@ -115,13 +115,13 @@ The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025
 
 Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we saved from our 2 sons (3 and 5 years old) from Birthday presents and so one. I am thinking about putting this Money in bitcoin and leave it untouched until they are 20. I started with nearly nothing in my life. I dont want them in the Same Situation. Am I doing the Right thing as a Father ?
 
-8h ago
+9h ago
 
 ---
 
 **[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -135,13 +135,13 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 **[Today is a very special day!!! My 15 year old son started his Bitcoin venture 💙. I told him to stack them monthly 🤑🤑 lil Satoshis](https://www.reddit.com/r/Bitcoin/comments/1r5z5r1/today_is_a_very_special_day_my_15_year_old_son/)**
 
-16h ago
+17h ago
 
 ---
 
 **["I look at Bitcoin as the best savings technology that's ever existed"](https://www.reddit.com/r/Bitcoin/comments/1r6d92n/i_look_at_bitcoin_as_the_best_savings_technology/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
 
-The Atlantic • 8h ago
+The Atlantic • 9h ago
 
 ---
 
@@ -185,13 +185,13 @@ Nasdaq • 1d ago
 
 Crypto's adolescence is over—and institutional capital is changing the rules of engagement, says WisdomTree's latest market analysis.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
 
-x.com • 3h ago
+x.com • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ x.com • 3h ago
 
 Tokyo-based bitcoin treasury firm Metaplanet reported a fiscal 2025 net loss of 95 billion yen ($619 million), largely due to a 102.2 billion yen ($666 million) drop in the value of its bitcoin holdings.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -215,7 +215,7 @@ BBC • 1d ago
 
 Bitcoin just got hit with one of its most extreme warnings yet. A well known strategist is calling this an imploding bubble, with a potential slide toward $10,000 price point.That would mean roughly 85% downside from current levels. A scenario that sounds unthinkable to many, but impossible to ignore when ...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -315,7 +315,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 1K • 💬 92 • ⏱️ 39:54 • 4h ago
+👁️ 16K • 👍 1K • 💬 92 • ⏱️ 39:54 • 5h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin cr
 
 📺 Crypto Insider
 
-👁️ 12K • 👍 895 • 💬 101 • ⏱️ 18:15 • 6h ago
+👁️ 12K • 👍 895 • 💬 101 • ⏱️ 18:15 • 7h ago
 
 ---
 
@@ -345,7 +345,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 46K • 👍 2K • 💬 242 • ⏱️ 11:16 • 21h ago
+👁️ 46K • 👍 2K • 💬 242 • ⏱️ 11:16 • 22h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 2K • 👍 205 • 💬 26 • ⏱️ 33:12 • 4h ago
+👁️ 2K • 👍 205 • 💬 26 • ⏱️ 33:12 • 5h ago
 
 ---
 
@@ -365,7 +365,7 @@ In January, we outlined a late-cycle restrictive regime and leaned cautious on r
 
 📺 Benjamin Cowen
 
-👁️ 55K • 👍 4K • 💬 159 • ⏱️ 13:07 • 15h ago
+👁️ 55K • 👍 4K • 💬 159 • ⏱️ 13:07 • 16h ago
 
 ---
 
