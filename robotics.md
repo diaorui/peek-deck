@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T13:06:43.068847+00:00'
+updated: '2026-02-16T14:26:19.900773+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 13:06 UTC  
+**Last Updated:** February 16, 2026 at 14:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-19h ago
+21h ago
 
 ---
 
@@ -56,7 +56,7 @@ Robotics research and industry news
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-3h ago
+4h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 18h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-20h ago
+21h ago
 
 ---
 
@@ -110,11 +110,33 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 ## Google News: "robotics"
 
-**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
+**[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
 
-Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
+Reuters • 6h ago
 
-Futurism • 20h ago
+---
+
+**[Humanoids go mainstream as China’s robotics champions appear at CCTV spectacle](https://www.scmp.com/tech/big-tech/article/3343634/chinas-tech-companies-vie-attention-cctvs-festival-gala-years-biggest-stage)**
+
+ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
+
+South China Morning Post • 1h ago
+
+---
+
+**[China's humanoid robots ready for Lunar New Year showtime](https://www.yahoo.com/news/articles/chinas-humanoid-robots-ready-lunar-080728984.html)**
+
+BEIJING, Feb 16 (Reuters) - China's most-watched TV show, the annual CCTV Spring Festival gala, will be viewed later on Monday as a showcase for the country's cutting-edge industrial policy and
+
+Yahoo • 6h ago
+
+---
+
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+
+KWQC • 13h ago
 
 ---
 
@@ -126,57 +148,31 @@ CNN • 2d ago
 
 ---
 
-**[China's humanoid robots ready for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
-
-Reuters • 4h ago
-
----
-
-**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
-
-For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
-
-New York Post • 2d ago
-
----
-
-**[Robots join Chinese New Year celebrations as AI meets tradition](https://news.cgtn.com/news/2026-02-14/Robots-join-Lunar-New-Year-celebrations-as-AI-meets-tradition-1KKIGIN1meY/p.html)**
-
-As the Year of the Horse approaches, robots are stealing the spotlight at Spring Festival celebrations across China. From Beijing malls to Chengdu temple fairs, AI and tradition are merging in new ways, giving the holiday a futuristic feel.Shanghai:
-
-news.cgtn.com • 2d ago
-
----
-
-**[Medtronic secures FDA approval for Stealth AXiS spine robotics platform](https://www.yahoo.com/news/articles/medtronic-secures-fda-approval-stealth-110807453.html)**
-
-The Stealth AXiS system architecture allows support for a variety of surgeon preferences and clinical complexities.
-
-Yahoo • 1h ago
-
----
-
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
-
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
-
-KWQC • 11h ago
-
----
-
 **[Robots observe humans, learn to move arms, set and clear table autonomously with new method](https://interestingengineering.com/ai-robotics/robots-observe-humans-set-table-autonomously)**
 
 This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
 
-Interesting Engineering • 8h ago
+Interesting Engineering • 10h ago
 
 ---
 
-**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
 
-The Economics Show 🤜🤛 FT Alphaville
+KSN.com • 2d ago
 
-Financial Times • 2h ago
+---
+
+**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
+
+ABC27 • 15h ago
+
+---
+
+**[Pioneering use of robotics shifts heart surgery into a higher gear](https://www.post-gazette.com/wellness/2026/02/15/upmc-johannes-bonatti-robotic-heart-surgery/stories/202601270049)**
+
+Bonatti is at the forefront of a shift in cardiac surgery, using robotics to perform complex procedures with smaller incisions, faster recovery and lower risks than traditional surgery
+
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -184,7 +180,7 @@ Financial Times • 2h ago
 
 EngineAI's PM01 robot was spotted walking with police officers in Shenzen's Nashan District, and it's much more intimidating than its other models.
 
-bgr.com • 11h ago
+bgr.com • 13h ago
 
 ---
 
@@ -208,7 +204,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 13K • 👍 540 • 💬 60 • ⏱️ 12:43 • 13h ago
+👁️ 13K • 👍 540 • 💬 60 • ⏱️ 12:43 • 14h ago
 
 ---
 
@@ -218,7 +214,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 30K • 👍 2K • 💬 369 • ⏱️ 9:43 • 15h ago
+👁️ 30K • 👍 2K • 💬 369 • ⏱️ 9:43 • 16h ago
 
 ---
 

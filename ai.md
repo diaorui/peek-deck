@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T13:06:43.052682+00:00'
+updated: '2026-02-16T14:26:19.883016+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 13:06 UTC  
+**Last Updated:** February 16, 2026 at 14:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
 
-🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 10h ago
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 11h ago
 
 ---
 
@@ -49,23 +49,15 @@ AI news, discussions, and developments
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-🔗 [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out) • 2h ago
+🔗 [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out) • 4h ago
 
 ---
 
-**[Why the ‘AI scare trade’ might not be done](https://www.reddit.com/r/artificial/comments/1r67kev/why_the_ai_scare_trade_might_not_be_done/)**
+**[AI chatbots to face strict online safety rules in UK](https://www.reddit.com/r/artificial/comments/1r6avfo/ai_chatbots_to_face_strict_online_safety_rules_in/)**
 
-A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
+AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on illegal content in the United Kingdom, as the government promises swift action to make the internet safer for children.
 
-🔗 [CNN](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
-
----
-
-**[Google might think your Website is down](https://www.reddit.com/r/artificial/comments/1r65f5p/google_might_think_your_website_is_down/)**
-
-How Cross-page AI aggregation can introduce new liability vectors.
-
-🔗 [Code Input](https://codeinput.com/blog/google-seo) • 3h ago
+🔗 [CNN](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 5m ago
 
 ---
 
@@ -73,7 +65,31 @@ How Cross-page AI aggregation can introduce new liability vectors.
 
 What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real time video calls with their own customizable AI companion?
 
-7h ago
+8h ago
+
+---
+
+**[Why the ‘AI scare trade’ might not be done](https://www.reddit.com/r/artificial/comments/1r67kev/why_the_ai_scare_trade_might_not_be_done/)**
+
+A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
+
+🔗 [CNN](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
+
+---
+
+**[Google might think your Website is down](https://www.reddit.com/r/artificial/comments/1r65f5p/google_might_think_your_website_is_down/)**
+
+How Cross-page AI aggregation can introduce new liability vectors.
+
+🔗 [Code Input](https://codeinput.com/blog/google-seo) • 4h ago
+
+---
+
+**[AI conducted my phone screening interview!!!!](https://www.reddit.com/r/artificial/comments/1r69l05/ai_conducted_my_phone_screening_interview/)**
+
+OKAY!! Had a weird experience with an Al phone screening interviewer. Here's what happened: I was away for a while. When I came back to check my phone. There was a missed called and an email. I first checked my email. It said "Recruiter tried reaching out....". Seemed normal. I called back and instantly a voice started speaking "Am I speaking to {.}?" I was 100% sure it's Al right away. I went along thinking "It won't hurt speaking to an Al recruiter lol". Then it started my screening. Asked basic questions. The funny thing is that it kept on asking me questions about my past employment, past salary, last working date even when I told her that I have no prior work experience and I'm a total fresher. The Al was adamant and kept going. I was irritated and then I hung up. Such a weird experience. Why would companies even do such things. Even if they do, WHY SUCH A DUMB AI!!!!
+
+59m ago
 
 ---
 
@@ -81,7 +97,7 @@ What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real
 
 I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
 
-11h ago
+13h ago
 
 ---
 
@@ -101,31 +117,53 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 ---
 
-**[Validation prompts - getting more accurate responses from LLM chats](https://www.reddit.com/r/artificial/comments/1r59tzo/validation_prompts_getting_more_accurate/)**
-
-Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
-
-1d ago
-
----
-
-**[Looking for articles about AI](https://www.reddit.com/r/artificial/comments/1r5cuzu/looking_for_articles_about_ai/)**
-
-Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[KPMG partner fined over using AI to pass AI test](https://www.ft.com/content/c30ded60-bece-45e0-981d-653e1e3e9818)**
+**[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
-Accounting firm has caught several staff members in recent months using the technology for internal exams
+The New York Times • 4h ago
 
-Financial Times • 9h ago
+---
+
+**[Fund Beating 99% of Peers Sees Few Software Firms Surviving AI](https://finance.yahoo.com/news/fund-beating-99-peers-sees-090000453.html)**
+
+“We think application software faces an existential threat from AI,” said Evans, whose $12 billion global technology fund beat 99% of peers over one year and 97% over five.  An exchange-traded fund tracking the US software sector is down 22%, a sharp contrast to semiconductor stocks that have soared as AI spurs computing demand.  Application software, which helps users perform tasks such as writing documents and managing payrolls, looks particularly at risk, according to Evans.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[Starmer to extend online safety rules to AI chatbots after Grok scandal](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban)**
+
+Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
+
+The Guardian • 15h ago
+
+---
+
+**[AI chatbots to face strict online safety rules in UK](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl)**
+
+AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on illegal content in the United Kingdom, as the government promises swift action to make the internet safer for children.
+
+CNN • 32m ago
+
+---
+
+**[UK to tighten online safety laws to include AI chatbots](https://www.ft.com/content/15917aa4-2d40-49be-85c3-da395b16e7f1)**
+
+Keir Starmer to warn tech companies that ‘no platform gets a free pass’ after deepfake scandal involving Grok
+
+Financial Times • 15h ago
+
+---
+
+**[AI-driven efficiency raises questions about labor market weakness](https://www.foxbusiness.com/video/6389354166112)**
+
+TJM Institutional Services director James Iuorio joins ‘Mornings with Maria’ to discuss market volatility, AI-driven job shifts, gold’s rally and the recent crypto sell-off.
+
+Fox Business • 26m ago
 
 ---
 
@@ -133,65 +171,29 @@ Financial Times • 9h ago
 
 Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[Investors reluctant to ‘buy the dip’ after AI scares](https://www.ft.com/content/2432a3ac-7dbc-4c5c-8921-3a34c2c68ccd)**
+**[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
 
-Sectors including wealth management and trucking have been hit with sudden share price declines
-
-Financial Times • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[The seeds of the dramatic sell-off in AI losers were planted as far back as 2022, says Deutsche Bank](https://www.marketwatch.com/story/the-seeds-of-the-dramatic-sell-off-in-ai-losers-were-planted-as-far-back-as-2022-says-deutsche-bank-f144f47b?gaa_at=eafs&gaa_n=AWEtsqeL-NhWjKrUE9mimCg_V8AzBgAijleQURurrH_6Sh47ZT9RQmM1snHP&gaa_ts=699319c7&gaa_sig=Te_83MR3WnNLc61jWOk31orc3SzIQ-OYfPHxOpHKYlL-25eF3nSBA9emzlolCE-BqJpJ43IpQsbewfKgAVYuGQ%3D%3D)**
+**[The AI ‘scare trade’ is tearing through markets. Bernstein picked 8 stocks that can weather the storm](https://www.cnbc.com/2026/02/16/ai-scare-trade-market-volatility-stocks.html)**
 
-MarketWatch • 29m ago
+Analysts at Bernstein have highlighted eight stocks they consider as AI disruption-proof.
 
----
-
-**[China's tech shock threatens the U.S. AI monopoly and is 'just getting started'](https://www.cnbc.com/2026/02/16/chinas-tech-shock-ai-monopoly-us.html)**
-
-"You could see easily a world where maybe most of the world's population is running on a Chinese tech stack in five to 10 years time," one analyst told CNBC.
-
-CNBC • 36m ago
+CNBC • 1h ago
 
 ---
 
-**[Exclusive: Pentagon warns Anthropic will "pay a price" as feud escalates](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth)**
+**[Obama responds to Trump sharing racist AI video depicting him as an ape](https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump)**
 
-Axios • 20m ago
+"There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum," Obama said in an interview that was posted on YouTube Saturday.
 
----
-
-**[These Utilities May Be Wildly Overestimating the AI Boom—at Public Expense](https://www.motherjones.com/politics/2026/02/utilities-overestimating-ai-boom-data-centers-fossil-fuel-energy-usage-bills/)**
-
-Power companies are already building more fossil fuel infrastructure than data centers likely need.
-
-Mother Jones • 28m ago
-
----
-
-**[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
-
-The New York Times • 3h ago
-
----
-
-**[TikTok creator ByteDance vows to curb AI video tool after Disney threat](https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt)**
-
-Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting
-
-The Guardian • 4h ago
-
----
-
-**[ByteDance to curb AI video app after Disney legal threat](https://www.bbc.com/news/articles/c93wq6xqgy1o)**
-
-Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
-
-BBC • 2h ago
+NPR • 19h ago
 
 ---
 
@@ -201,7 +203,7 @@ BBC • 2h ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 744 • 💬 610 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 745 • 💬 610 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -209,7 +211,7 @@ BBC • 2h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 558 • 💬 361 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 561 • 💬 361 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -233,13 +235,21 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 274 • 💬 163 • 2d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 275 • 💬 163 • 2d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 244 • 💬 125 • 2d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 245 • 💬 125 • 2d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+
+---
+
+**[Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://news.ycombinator.com/item?id=47034192)**
+
+AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
+
+⬆️ 139 • 💬 100 • 1h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -247,7 +257,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 125 • 💬 207 • 21h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 129 • 💬 211 • 23h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -259,19 +269,11 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 ---
 
-**[AI safety leader says 'world is in peril' and quits to study poetry](https://news.ycombinator.com/item?id=47007877)**
+**[Anthropic tries to hide Claude's AI actions. Devs hate it](https://news.ycombinator.com/item?id=47033622)**
 
-It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
+: The software doesn't show what files it's working on
 
-⬆️ 86 • 💬 57 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c62dlvdq3e3o)
-
----
-
-**[Dr. Oz pushes AI avatars as a fix for rural health care](https://news.ycombinator.com/item?id=47016920)**
-
-Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.
-
-⬆️ 54 • 💬 54 • 1d ago • [NPR](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
+⬆️ 116 • 💬 58 • 3h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -285,7 +287,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 53K • 👍 3K • 💬 724 • ⏱️ 16:13 • 11h ago
+👁️ 53K • 👍 3K • 💬 724 • ⏱️ 16:13 • 13h ago
 
 ---
 
@@ -315,7 +317,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 13K • 👍 540 • 💬 60 • ⏱️ 12:43 • 13h ago
+👁️ 13K • 👍 540 • 💬 60 • ⏱️ 12:43 • 14h ago
 
 ---
 
@@ -325,7 +327,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 30K • 👍 2K • 💬 369 • ⏱️ 9:43 • 15h ago
+👁️ 30K • 👍 2K • 💬 369 • ⏱️ 9:43 • 16h ago
 
 ---
 
@@ -335,7 +337,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 13K • 👍 250 • 💬 57 • ⏱️ 8:34 • 9h ago
+👁️ 13K • 👍 250 • 💬 57 • ⏱️ 8:34 • 11h ago
 
 ---
 
@@ -345,7 +347,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MattVidPro AI
 
-👁️ 6K • 👍 340 • 💬 37 • ⏱️ 25:55 • 15h ago
+👁️ 6K • 👍 340 • 💬 37 • ⏱️ 25:55 • 16h ago
 
 ---
 
@@ -365,7 +367,7 @@ MacroMavens president Stephanie Pomboy analyzes where AI is headed on 'Mornings 
 
 📺 Fox Business Clips
 
-👁️ 13K • 👍 251 • 💬 73 • ⏱️ 5:17 • 21h ago
+👁️ 13K • 👍 251 • 💬 73 • ⏱️ 5:17 • 22h ago
 
 ---
 
@@ -403,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 636 • 4h ago
+⬇️ 18,895 • ❤️ 636 • 5h ago
 
 ---
 
@@ -415,7 +417,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 3,665 • ❤️ 448 • 4d ago
+⬇️ 3,665 • ❤️ 448 • 5d ago
 
 ---
 
@@ -487,7 +489,7 @@ Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Del
 
 `image-text-to-text` `403.4B`
 
-⬇️ 0 • ❤️ 245 • 2h ago
+⬇️ 0 • ❤️ 245 • 3h ago
 
 ---
 
@@ -568,7 +570,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 181 • 💬 12 • ⭐ 3,571 • 16d ago
+▲ 181 • 💬 12 • ⭐ 3,571 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -681,7 +683,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 261 • 8h ago
+⭐ 2.5k • 🔱 261 • 10h ago
 
 ---
 
@@ -701,7 +703,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 156 • 16h ago
+⭐ 2.2k • 🔱 156 • 17h ago
 
 ---
 
@@ -711,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 151 • 4h ago
+⭐ 2.2k • 🔱 151 • 5h ago
 
 ---
 
@@ -721,7 +723,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.0k • 🔱 251 • 19h ago
+⭐ 2.0k • 🔱 251 • 20h ago
 
 ---
 
