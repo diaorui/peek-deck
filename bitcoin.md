@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T22:30:00.437491+00:00'
+updated: '2026-02-16T23:00:15.108138+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 22:30 UTC  
+**Last Updated:** February 16, 2026 at 23:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,437.34
+### $68,805.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -0.4%  
-**30d:** -26.9%  
-**90d:** -24.9%  
-**1y:** -28.4%  
+**24h:** -0.3%  
+**7d:** -0.3%  
+**30d:** -26.8%  
+**90d:** -24.8%  
+**1y:** -28.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Full segment is on YouTube.
 
-3h ago
+4h ago
 
 ---
 
 **[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -123,13 +123,7 @@ If everyone assumes Bitcoin will drop more why don't they just sell and buy back
 
 Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we saved from our 2 sons (3 and 5 years old) from Birthday presents and so one. I am thinking about putting this Money in bitcoin and leave it untouched until they are 20. I started with nearly nothing in my life. I dont want them in the Same Situation. Am I doing the Right thing as a Father ?
 
-10h ago
-
----
-
-**[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
-
-8h ago
+11h ago
 
 ---
 
@@ -141,11 +135,17 @@ He just dropped a post on X stating why the quantum threat (with it's attendant 
 
 ---
 
-**[Could derivatives have compromised Bitcoin's scarcity?](https://www.reddit.com/r/Bitcoin/comments/1r6l58i/could_derivatives_have_compromised_bitcoins/)**
+**[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
 
-I mean, you used to buy Bitcoin and knew you were getting something limited. Now, many financial activities are conducted on Bitcoin derivatives, so the scarcity issue doesn't arise. You only care that the derivative replicates the underlying asset's performance. Could this impact Bitcoin's growth?
+8h ago
 
-1h ago
+---
+
+**[Million Dollar Bitcoin Clock?](https://www.reddit.com/r/Bitcoin/comments/1r6kssm/million_dollar_bitcoin_clock/)**
+
+What do you think, guys? https://milliondollarbitcoinclock.com/
+
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ I mean, you used to buy Bitcoin and knew you were getting something limited. Now
 
 Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
 
-The Atlantic • 10h ago
+The Atlantic • 11h ago
 
 ---
 
@@ -165,23 +165,31 @@ The Atlantic • 10h ago
 
 Bitcoin just got hit with one of its most extreme warnings yet. A well known strategist is calling this an imploding bubble, with a potential slide toward $10,000 price point.That would mean roughly 85% downside from current levels. A scenario that sounds unthinkable to many, but impossible to ignore when ...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
+**[MicroStrategy Stock Price Flashes a 10% Warning as Bitcoin Link Tightens](https://finance.yahoo.com/news/microstrategy-stock-price-flashes-10-200000675.html)**
 
-Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
+MicroStrategy stock price flashes warning as Bitcoin correlation hits 0.98. Divergence and volume signals now point to a possible 10% risk.
 
-BBC • 1d ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Bitcoin 'Boom-Bust' Era Is Over as Institutions Take the Lead: WisdomTree](https://finance.yahoo.com/news/bitcoin-boom-bust-era-over-164048138.html)**
+**[Metaplanet Reports $619 Million Loss As Bitcoin Holdings Take Hit](https://bitcoinmagazine.com/news/metaplanet-reports-619-million-loss)**
 
-Crypto's adolescence is over—and institutional capital is changing the rules of engagement, says WisdomTree's latest market analysis.
+Tokyo-based bitcoin treasury firm Metaplanet reported a fiscal 2025 net loss of 95 billion yen ($619 million), largely due to a 102.2 billion yen ($666 million) drop in the value of its bitcoin holdings.
 
-Yahoo Finance • 5h ago
+Bitcoin Magazine • 4h ago
+
+---
+
+**[Crypto News :Pepeto Presale Past $7.23 Million as AI Models Predict Bitcoin Could Hit $400,000](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-past-7-23-million-as-ai-models-predict-bitcoin-could-hit-400-000-1035831967)**
+
+Dubai, UAE, Feb.  16, 2026  (GLOBE NEWSWIRE) -- Something is happening right now that most crypto investors will only understand in hindsight. Bit...
+
+markets.businessinsider.com • 4h ago
 
 ---
 
@@ -190,20 +198,6 @@ Yahoo Finance • 5h ago
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
 CNBC • 1d ago
-
----
-
-**[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
-
-x.com • 5h ago
-
----
-
-**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
-
-Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
-
-The Block • 12h ago
 
 ---
 
@@ -221,9 +215,19 @@ Forbes • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqdSDNVtfqKUufbWe338fYfpCg4BzHE7SeIbsIzWkP84mYBi74uR91jH&gaa_ts=699395a2&gaa_sig=kMBXIVJ-Q6fYF_GYJRseahe5drjvOtsuqN198H-QtFsTs0TLm7W-c1Rgj8AdZe6RXByRgJG9mFOFpKUjX0CvCg%3D%3D)**
+**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
 
-Barron's • 12h ago
+Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
+
+The Block • 13h ago
+
+---
+
+**[Real estate mogul Grant Cardone merges real estate, Bitcoin in hybrid portfolio](https://www.foxbusiness.com/video/6389416196112)**
+
+Real estate mogul Grant Cardone unveils his innovative hybrid portfolio, combining real estate and Bitcoin on 'The Claman Countdown.'
+
+Fox Business • 20m ago
 
 ---
 
@@ -317,7 +321,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 102 • ⏱️ 39:54 • 6h ago
+👁️ 20K • 👍 1K • 💬 102 • ⏱️ 39:54 • 7h ago
 
 ---
 
@@ -327,7 +331,7 @@ Dan Tapiero just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 292 • 👍 15 • 💬 10 • ⏱️ 13:32 • 3h ago
+👁️ 292 • 👍 15 • 💬 10 • ⏱️ 13:32 • 4h ago
 
 ---
 
@@ -367,7 +371,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 3K • 👍 250 • 💬 26 • ⏱️ 33:12 • 6h ago
+👁️ 3K • 👍 250 • 💬 26 • ⏱️ 33:12 • 7h ago
 
 ---
 
@@ -377,7 +381,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 248 • ⏱️ 11:16 • 23h ago
+👁️ 47K • 👍 2K • 💬 248 • ⏱️ 11:16 • 1d ago
 
 ---
 
@@ -397,7 +401,7 @@ The crypto market is moving right now and Sheldon is going to see if he can get 
 
 📺 Sniper Trading
 
-👁️ 3K • 👍 297 • ⏱️ 1:59:01 • 4h ago
+👁️ 3K • 👍 297 • ⏱️ 1:59:01 • 5h ago
 
 ---
 
@@ -407,7 +411,7 @@ Bitcoin bottom in? Buy now says analyst. Altcoins heating up! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 13K • 👍 812 • 💬 75 • ⏱️ 17:35 • 10h ago
+👁️ 13K • 👍 812 • 💬 75 • ⏱️ 17:35 • 11h ago
 
 ---
 

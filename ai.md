@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T22:30:00.430149+00:00'
+updated: '2026-02-16T23:00:15.099751+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
+- social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 22:30 UTC  
+**Last Updated:** February 16, 2026 at 23:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
 
-🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 19h ago
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 20h ago
 
 ---
 
@@ -63,7 +63,15 @@ AI news, discussions, and developments
 
 Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
 
-7h ago
+8h ago
+
+---
+
+**[Terrence Tao - Machine assistance and the future of research mathematics (IPAM @ UCLA)](https://www.reddit.com/r/artificial/comments/1r6o71m/terrence_tao_machine_assistance_and_the_future_of/)**
+
+Abstract: "A variety of machine-assisted ways to perform mathematical assistance have matured rapidly in the last few years, particularly with regards to formal proof assistants, large language models, online collaborative platforms, and the interactions between them. We survey some of these developments and speculate on how they will impact future practices of mathematical research." Recorded 10 February 2026. Terence Tao of the University of California, Los Angeles, presents "Machine assistance and the future of research mathematics" at IPAM's AI for Science Kickoff.
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 28m ago
 
 ---
 
@@ -71,15 +79,7 @@ Every few weeks there’s a new “best AI note taking app” claiming to fix me
 
 My take on the real reason behind the OpenClaw acquisition:
 
-🔗 [thepragmaticcto.com](https://www.thepragmaticcto.com/p/openai-didnt-buy-a-product-they-bought) • 1h ago
-
----
-
-**[Business & Software: Building Systems Together](https://www.reddit.com/r/artificial/comments/1r6kvpj/business_software_building_systems_together/)**
-
-Business & Software: Building Systems Together - Conversation with Caltech Data Architect Armando Plascencia. ycoproductions.com
-
-🔗 [youtube.com](https://youtube.com/watch?v=cUF-xovK3tU&si=7p6NDb81s-GeuJv1) • 2h ago
+🔗 [thepragmaticcto.com](https://www.thepragmaticcto.com/p/openai-didnt-buy-a-product-they-bought) • 2h ago
 
 ---
 
@@ -87,7 +87,7 @@ Business & Software: Building Systems Together - Conversation with Caltech Data 
 
 Quick update on Izwi (local audio inference engine) - we've shipped some major features: What's New: Speaker Diarization - Automatically identify and separate multiple speakers using Sortformer models. Perfect for meeting transcripts. Forced Alignment - Word-level timestamps between audio and text using Qwen3-ForcedAligner. Great for subtitles. Real-Time Streaming - Stream responses for transcribe, chat, and TTS with incremental delivery. Multi-Format Audio - Native support for WAV, MP3, FLAC, OGG via Symphonia. Performance - Parallel execution, batch ASR, paged KV cache, Metal optimizations. Model Support: TTS: Qwen3-TTS (0.6B, 1.7B), LFM2.5-Audio ASR: Qwen3-ASR (0.6B, 1.7B), Parakeet TDT, LFM2.5-Audio Chat: Qwen3 (0.6B, 1.7), Gemma 3 (1B) Diarization: Sortformer 4-speaker Docs: https://izwiai.com/ Github Repo: https://github.com/agentem-ai/izwi Give us a star on GitHub and try it out. Feedback is welcome!!!
 
-🔗 [izwiai.com](https://izwiai.com/) • 7h ago
+🔗 [izwiai.com](https://izwiai.com/) • 8h ago
 
 ---
 
@@ -103,7 +103,7 @@ LLMs are trained on language and text, what humans say. But language alone is in
 
 How Cross-page AI aggregation can introduce new liability vectors.
 
-🔗 [Code Input](https://codeinput.com/blog/google-seo) • 12h ago
+🔗 [Code Input](https://codeinput.com/blog/google-seo) • 13h ago
 
 ---
 
@@ -119,35 +119,11 @@ I kept running into the same cycle: spend hours researching competitors, dump ev
 
 ## Google News: "ai"
 
-**['The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears](https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html)**
-
-Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
-
-Yahoo Finance • 4h ago
-
----
-
-**[AI fears are hitting software stocks the hardest. Citi sees a buying opportunity in many names](https://www.cnbc.com/2026/02/16/ai-fears-hitting-software-stocks-citi-sees-opportunity-in-many-names.html)**
-
-Citi chose software stocks with earnings momentum and declines of more than 10% in the last month.
-
-CNBC • 8h ago
-
----
-
-**[Why the ‘AI scare trade’ might not be done](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks)**
-
-A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
-
-CNN • 12h ago
-
----
-
 **[TikTok creator ByteDance vows to curb AI video tool after Disney threat](https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt)**
 
 Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -159,11 +135,39 @@ BBC • 12h ago
 
 ---
 
-**[ByteDance responds to copyright infringement concerns with Seedance 2.0](https://www.nbcnews.com/tech/tech-news/seedance-2-bytedance-copyright-infringement-concerns-hollywood-rcna259173)**
+**[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
-The powerful new video model made by TikTok's Chinese owner is drawing alarm in Hollywood after it churned out a slew of copyrighted IP.
+The New York Times • 4h ago
 
-NBC News • 1h ago
+---
+
+**[Trillion-dollar AI market wipeout happened because investors banked that ‘almost every tech company would come out a winner’](https://finance.yahoo.com/news/trillion-dollar-ai-market-wipeout-115521847.html)**
+
+"Nobody truly knows who the long-term winners and losers of this extraordinary technology will be," Deutsche's Jim Reid wrote this morning.
+
+Yahoo Finance • 11h ago
+
+---
+
+**[Big tech stocks lose billions as AI spending fears hit valuations](https://www.reuters.com/business/retail-consumer/global-markets-marketcap-2026-02-16/)**
+
+Reuters • 13h ago
+
+---
+
+**[Why the ‘AI scare trade’ might not be done](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks)**
+
+A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
+
+CNN • 12h ago
+
+---
+
+**[Delaware County school district turns to AI to help boost early reading skills](https://www.cbsnews.com/philadelphia/video/delaware-county-school-district-turns-to-ai-to-help-boost-early-reading-skills/)**
+
+Amira, an AI-powered literacy tool, acts like a personalized reading tutor for students in first, second and third grade in the Southeast Delco School District. CBS News Philadelphia reporter Madeleine Wright has more.
+
+CBS News • 44m ago
 
 ---
 
@@ -171,13 +175,7 @@ NBC News • 1h ago
 
 AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on illegal content in the United Kingdom, as the government promises swift action to make the internet safer for children.
 
-CNN • 8h ago
-
----
-
-**[Meta largely fails to protect kids from AI chatbots, per its own tests](https://www.axios.com/2026/02/16/meta-ai-chatbots-kids)**
-
-Axios • 1h ago
+CNN • 9h ago
 
 ---
 
@@ -189,11 +187,11 @@ The Guardian • 1d ago
 
 ---
 
-**[Google puts users at risk by downplaying health disclaimers under AI Overviews](https://www.theguardian.com/technology/2026/feb/16/google-puts-users-at-risk-downplaying-disclaimers-ai-overviews)**
+**[U.K. eyes social media ban for under-16s and AI curbs](https://www.staradvertiser.com/2026/02/16/breaking-news/u-k-eyes-social-media-ban-for-under-16s-and-ai-curbs/)**
 
-Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical advice
+LONDON >> Britain could bring in an Australian-style ban on social media for children under 16 as early as this year and close a loophole that left some AI chatbots outside safety rules, as part of government efforts to respond more quickly to digital risks.
 
-The Guardian • 1h ago
+Honolulu Star-Advertiser • 41m ago
 
 ---
 
@@ -203,7 +201,7 @@ The Guardian • 1h ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 751 • 💬 613 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 751 • 💬 614 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -227,7 +225,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 : The software doesn't show what files it's working on
 
-⬆️ 333 • 💬 204 • 11h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 335 • 💬 207 • 11h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -235,7 +233,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 322 • 💬 269 • 10h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 329 • 💬 275 • 10h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -251,7 +249,7 @@ Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
 I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last.This is a...
 
-⬆️ 136 • 💬 220 • 5h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+⬆️ 139 • 💬 231 • 5h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 
 ---
 
@@ -259,7 +257,7 @@ I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 122 • 💬 64 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 122 • 💬 64 • 2d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -267,7 +265,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 I think I have an idea why we're so extremely divided on AI: it's because we have an intuitive sense of who it stands to benefit, and who stands to pay the costs. I think whether you see reason for optimism has a lot to do with which group you see yourself in.
 
-⬆️ 58 • 💬 26 • 4h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
+⬆️ 92 • 💬 82 • 4h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
 
 ---
 
@@ -369,7 +367,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 459 • 💬 98 • ⏱️ 27:45 • 7h ago
+👁️ 4K • 👍 459 • 💬 98 • ⏱️ 27:45 • 8h ago
 
 ---
 
@@ -407,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 661 • 13h ago
+⬇️ 18,895 • ❤️ 661 • 14h ago
 
 ---
 
@@ -443,7 +441,7 @@ Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Del
 
 `image-text-to-text` `403.4B`
 
-⬇️ 0 • ❤️ 423 • 11h ago
+⬇️ 0 • ❤️ 423 • 12h ago
 
 ---
 
@@ -623,7 +621,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 65 • 💬 1 • ⭐ 7,777 • 25d ago
+▲ 65 • 💬 1 • ⭐ 7,777 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -651,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 6.8k • 🔱 652 • 44m ago
+⭐ 6.8k • 🔱 652 • 1h ago
 
 ---
 
@@ -715,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 154 • 44m ago
+⭐ 2.2k • 🔱 154 • 1h ago
 
 ---
 
@@ -735,7 +733,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.1k • 🔱 259 • 2h ago
+⭐ 2.1k • 🔱 259 • 3h ago
 
 ---
 

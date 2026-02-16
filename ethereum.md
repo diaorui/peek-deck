@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T22:30:00.442682+00:00'
+updated: '2026-02-16T23:00:15.114221+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 22:30 UTC  
+**Last Updated:** February 16, 2026 at 23:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,991.48
+### $1,988.89
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** -1.5%  
+**24h:** +1.3%  
+**7d:** -1.4%  
 **30d:** -39.4%  
 **90d:** -34.2%  
-**1y:** -27.5%  
+**1y:** -27.4%  
 
 ---
 
@@ -84,19 +84,19 @@ Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stab
 
 ---
 
-**[[Research] Guardian: Role-Gated MPC Wallets for AI Agents](https://www.reddit.com/r/ethereum/comments/1r6g2f7/research_guardian_rolegated_mpc_wallets_for_ai/)**
-
-We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
-
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 4h ago
-
----
-
 **[you can get rewards and money for solving puzzles on the Freelance Society website](https://www.reddit.com/r/ethereum/comments/1r6lcq8/you_can_get_rewards_and_money_for_solving_puzzles/)**
 
 the sites openly available to anyone and offers ETH rewards. it’s all open sourced and pretty cool, so go check it out!
 
-1h ago
+2h ago
+
+---
+
+**[[Research] Guardian: Role-Gated MPC Wallets for AI Agents](https://www.reddit.com/r/ethereum/comments/1r6g2f7/research_guardian_rolegated_mpc_wallets_for_ai/)**
+
+We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
+
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 5h ago
 
 ---
 
@@ -104,7 +104,7 @@ the sites openly available to anyone and offers ETH rewards. it’s all open sou
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-7h ago
+8h ago
 
 ---
 
@@ -152,49 +152,25 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[Harvard University Opens New Position in Ethereum (ETH)](https://www.tipranks.com/news/harvard-university-opens-new-position-in-ethereum-eth)**
+
+TipRanks • 3h ago
+
+---
+
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
+
+The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
+
+The Motley Fool • 2d ago
+
+---
+
 **[BlackRock Loads Up on Bitmine as $1,400 Ethereum Target Looms](https://finance.yahoo.com/news/blackrock-loads-bitmine-1-400-203847730.html)**
 
 Though the US market is closed for Presidents’ Day today, BlackRock’s IBIT ETF recorded a $9.4 million outflow on the last working day before the market closed, 13 February 2026. Bitcoin is hovering at around $68k, and it wasn’t just a panic sell—it was a playground for Wall Street. Market ...
 
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum Price Stuck Near $2,000 as Holder Exodus Slows Recovery](https://finance.yahoo.com/news/ethereum-price-stuck-near-2-180000786.html)**
-
-Ethereum hovers near $2,000 as SOPR signals loss saturation, but falling new address growth and weak inflows continue capping recovery.
-
-Yahoo Finance • 4h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqcUQwSiftV_g1Opwdyu0zqiBhKNK_K9Se50OtCeddgh6ReTRR24U6Rm&gaa_ts=699395a5&gaa_sig=TzqKSqUaeGhRv_xoQ8BJ6qNlIXf6xyYyEa1-ScrH0l0lcqrEkWNMg4VJ-7tohsCAuZvJm9J0IZwsEXt1ESTEQQ%3D%3D)**
-
-Barron's • 12h ago
-
----
-
-**[Ethereum Is Crushing XRP in 1 Key Arena. Should You Buy It With $1,000?](https://www.nasdaq.com/articles/ethereum-crushing-xrp-1-key-arena-should-you-buy-it-1000)**
-
-Key PointsEthereum is an increasingly popular place to trade and manage tokenized assets.
-
-Nasdaq • 1d ago
-
----
-
-**[Harvard cuts bitcoin exposure by 20%, adds new ether position](https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position)**
-
-The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
-
-CoinDesk • 7h ago
-
----
-
-**[The Best Cryptocurrency to Buy With $100 Right Now](https://www.fool.com/investing/2026/02/16/the-best-cryptocurrency-to-buy-with-100-right-now/)**
-
-Ethereum's price is down, but there's a clear path to recovery.
-
-The Motley Fool • 10h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -202,21 +178,39 @@ The Motley Fool • 10h ago
 
 Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
 
-CCN.com • 11h ago
+CCN.com • 12h ago
 
 ---
 
-**[Brett DiNovi: Layer two solutions need strategic changes to enhance value, Ethereum's fragmentation hinders scalability, and execution is now paramount in blockchain ecosystems | Empire](https://cryptobriefing.com/brett-dinovi-layer-two-solutions-need-strategic-changes-to-enhance-value-ethereums-fragmentation-hinders-scalability-and-execution-is-now-paramount-in-blockchain-ecosystems-empire/)**
+**[Why Are Bitcoin, Ethereum, and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:d643e85cc094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
 
-Layer two solutions are reshaping Ethereum's future by tackling scalability and transaction costs head-on.
+The cryptocurrency market is facing another day of losses, with major assets such as Bitcoin, Ethereum, and XRP moving lower as overall market confidence weakens. The total crypto market value has dropped to around $2.32 trillion, showing continued pressure across digital assets.Institutional Selli…
 
-Crypto Briefing • 7h ago
+TradingView • 7h ago
 
 ---
 
-**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
+**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://decrypt.co/358162/harvard-cuts-bitcoin-etf-stake-adds-ethereum-exposure-in-q4-filing)**
 
-TradingView • 1d ago
+Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
+
+Decrypt • 6h ago
+
+---
+
+**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
+
+Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
+
+Nasdaq • 1d ago
+
+---
+
+**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+
+Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
+
+CoinDesk • 3d ago
 
 ---
 
@@ -225,6 +219,12 @@ TradingView • 1d ago
 XRP’s spot strength outpaces derivatives participation, reflecting Korea’s cash-market dominance in crypto sentiment flows.
 
 AMBCrypto • 5h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqdGMoxxkPZum_kBpe418wDHCatXy9WPOCC6QiqsmVXH-RqjRVl30eQN&gaa_ts=6993a4ea&gaa_sig=SpMIzTgiKcc_D2wyPiz2t1-GD8_oKEKtMOfH0OzoXtAMe5Wzo7g5ak4NDE1hPv06vaiPA13fToQlJEv-FidHCw%3D%3D)**
+
+Barron's • 12h ago
 
 ---
 
@@ -238,7 +238,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 255 • 👍 18 • 💬 1 • ⏱️ 6:11 • 3h ago
+👁️ 255 • 👍 18 • 💬 1 • ⏱️ 6:11 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 188 • 💬 8 • ⏱️ 6:56 • 8h ago
+👁️ 2K • 👍 188 • 💬 8 • ⏱️ 6:56 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 580 • 👍 100 • 💬 14 • ⏱️ 59:47 • 5h ago
+👁️ 580 • 👍 100 • 💬 14 • ⏱️ 59:47 • 6h ago
 
 ---
 

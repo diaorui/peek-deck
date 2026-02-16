@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T22:30:00.445525+00:00'
+updated: '2026-02-16T23:00:15.117445+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 22:30 UTC  
+**Last Updated:** February 16, 2026 at 23:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,17 +38,11 @@ Robotics research and industry news
 
 ---
 
-**[Nord-Lock washers use clever geometries to secure nuts and bolts and maintain a steady clamp load](https://www.reddit.com/r/robotics/comments/1r6liia/nordlock_washers_use_clever_geometries_to_secure/)**
-
-1h ago
-
----
-
 **[Humanoid Training Starts in the Factory](https://www.reddit.com/r/robotics/comments/1r6ecu4/humanoid_training_starts_in_the_factory/)**
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 5h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 6h ago
 
 ---
 
@@ -56,7 +50,7 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robotics related things if anyone can plz list it out also I'm in my final year of engineering ECE and i know very basic of all these mentioned I need full deep learning and good projects , i already have a job in robotics ai but to make it full time I need to gear up and learn a lot and build projects so Help me to find a best course,im ready to pay also but not that costly still broke need certification cause they might be valued in future also etc etc Building projects will be my part but I need to learn first
 
-2h ago
+3h ago
 
 ---
 
@@ -78,7 +72,7 @@ Robotics software engineers here: is it possible to write functional infrastruct
 
 I’m planning to make a pen plotter for my college project and I’m really interested in this but I’m not really knowledgeable about this. The plotter I have in mind is a corexy model and I don’t know much about it. I’d really appreciate some help and insight into this. Anyone please help me regarding this.
 
-4h ago
+5h ago
 
 ---
 
@@ -86,7 +80,7 @@ I’m planning to make a pen plotter for my college project and I’m really int
 
 So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
 
-3h ago
+4h ago
 
 ---
 
@@ -100,7 +94,15 @@ So we have a pick and place bot competition in 3 days, and we planned to prepare
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-12h ago
+13h ago
+
+---
+
+**[I'm getting paralyzed slowly. So I want to learn to build a robot that can help me](https://www.reddit.com/r/robotics/comments/1r59ggj/im_getting_paralyzed_slowly_so_i_want_to_learn_to/)**
+
+​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
+
+1d ago
 
 ---
 
@@ -136,19 +138,19 @@ Futurism • 1d ago
 
 ---
 
+**[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
+
+Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
+
+Fox News • 5h ago
+
+---
+
 **[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
 
 A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
 KWQC • 21h ago
-
----
-
-**[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
-
-Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
-
-Fox News • 4h ago
 
 ---
 
@@ -160,27 +162,25 @@ CNN • 2d ago
 
 ---
 
+**[Blackburn, Blumenthal probe robotics company after AI toy audio found publicly accessible](https://wcyb.com/news/local/blackburn-blumenthal-probe-robotics-company-after-ai-toy-audio-found-publicly-accessible)**
+
+U.S. Sens. Marsha Blackburn (R-Tenn.) and Richard Blumenthal (D-Conn.) said they are investigating an artificial intelligence toy manufacturer after what they d
+
+WCYB • 3d ago
+
+---
+
+**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
+
+ABC27 • 1d ago
+
+---
+
 **[Video: US firm’s laundry-folding home robot launches with monthly subscription](https://interestingengineering.com/ai-robotics/video-laundry-folding-home-robot)**
 
 Weave Robotics' Isaac 0 folds clothes using AI, with remote human assistance helping to improve its performance over time.
 
-Interesting Engineering • 12h ago
-
----
-
-**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
-
-The Economics Show 🤜🤛 FT Alphaville
-
-Financial Times • 12h ago
-
----
-
-**[West Michigan robotics manufacturer raises record $165,000 for charity](https://www.mlive.com/news/grand-rapids/2026/02/west-michigan-robotics-manufacturer-raises-record-165000-for-charity.html)**
-
-JR Automation raised more than $165,000 for local nonprofits in 2025 through its employee-led charity program.
-
-MLive.com • 5h ago
+Interesting Engineering • 13h ago
 
 ---
 
@@ -224,7 +224,7 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 39K • 👍 2K • 💬 968 • ⏱️ 2:37 • 6h ago
+👁️ 39K • 👍 2K • 💬 968 • ⏱️ 2:37 • 7h ago
 
 ---
 
@@ -234,7 +234,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 21K • 👍 677 • 💬 85 • ⏱️ 12:43 • 22h ago
+👁️ 21K • 👍 677 • 💬 85 • ⏱️ 12:43 • 23h ago
 
 ---
 
@@ -274,7 +274,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 162K • 👍 3K • 💬 256 • ⏱️ 11:59 • 5d ago
+👁️ 162K • 👍 3K • 💬 256 • ⏱️ 11:59 • 6d ago
 
 ---
 
