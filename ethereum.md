@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T11:41:32.213688+00:00'
+updated: '2026-02-16T13:06:43.065945+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 11:41 UTC  
+**Last Updated:** February 16, 2026 at 13:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,981.25
+### $2,014.50
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.1%  
-**7d:** -2.5%  
-**30d:** -40.0%  
-**90d:** -34.9%  
-**1y:** -28.2%  
+**24h:** +0.5%  
+**7d:** -0.1%  
+**30d:** -38.5%  
+**90d:** -33.3%  
+**1y:** -26.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $240.09B
+**Market Cap:** $243.63B
 Rank #2
 
 **Circulating Supply:** 120,692,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.8%
+-59.2%
 
 **All-Time Low:** $0.43
-+459014.6%
++466038.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fundstrat’s Tom Lee says crypto winter is either already over or will end by April, pointing to late-cycle sentiment and improving macro. He also highlighted BitMine’s strategy of weekly ETH accumulation and staking as a long-term institutional bet on Ethereum. Article: https://btcusa.com/tom-lee-crypto-winter-likely-ends-by-april-as-ethereum-strategy-expands/ Do you agree we’re near the end of this cycle correction?
 
-49m ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Been holding ETH for a while and want to move some around or swap for other assets without going through CEXs. Most platforms these days ask for KYC, which I'd rather avoid if possible. What's the smoothest way to swap ETH directly from wallet? Looking for something non-custodial, decent rates, and not too complicated. If you've done any swaps recently, what actually worked well for you?
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Been holding ETH for a while and want to move some around or swap for other asse
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-23h ago
+1d ago
 
 ---
 
@@ -120,7 +120,7 @@ Posted by Jacob Czepluch on February 10, 2026
 
 Recently I have been starting to worry about the state of prediction markets, in their current form. They have achieved a certain level of success: market volume is high enough to make meaningful bets and have a full-time job as a trader, and they often prove useful as a supplement to other forms of news media. But also, they seem to be over-converging to an unhealthy product market fit: embracing short-term cryptocurrency price bets, sports betting, and other similar things that have dopamine value but not any kind of long-term fulfillment or societal information value. My guess is that teams feel motivated to capitulate to these things because they bring in large revenue during a bear market where people are desperate - an understandable motive, but one that leads to corposlop. I have been thinking about how we can help get prediction markets out of this rut. My current view is that we should try harder to push them into a totally different use case: hedging, in a very generalized sense (TLDR: we're gonna replace fiat currency) Prediction markets have two types of actors: (i) "smart traders" who provide information to the market, and earn money, and necessarily (ii) some kind of actor who loses money. But who would be willing to lose money and keep coming back? There are basically three answers to this question: "Naive traders": people with dumb opinions who bet on totally wrong things "Info buyers": people who set up money-losing automated market makers, to motivate people to trade on markets to help the info buyer learn information they do not know. "Hedgers": people who are -EV in a linear sense, but who use the market as insurance, reducing their risk. (1) is where we are today. IMO there is nothing fundamentally morally wrong with taking money from people with dumb opinions. But there still is something fundamentally "cursed" about relying on this too much. It gives the platform the incentive to seek out traders with dumb opinions, and create a public brand and community that encourages dumb opinions to get more people to come in. This is the slide to corposlop. (2) has always been the idealistic hope of people like Robin Hanson. However, info buying has a public goods problem: you pay for the info, but everyone in the world gets it, including those who don't pay. There are limited cases where it makes sense for one org to pay (esp. decision markets), but even there, it seems likely that the market volumes achieved with that strategy will not be too high. This gets us to (3). Suppose that you have shares in a biotech company. It's public knowledge that the Purple Party is better for biotech than the Yellow Party. So if you buy a prediction market share betting that the Yellow Party will win the next election, on average, you are reducing your risk. Mathematical example: suppose that if Purple wins, the share price will be a dice roll between [80...120], and if Yellow wins, it's between [60...100]. If you make a size $5 bet that Yellow will win, your earnings become equivalent to a dice roll between [70...110] in both cases. Taking a logarithmic model of utility, this risk reduction is worth $0.58. Now, let's get to a more fascinating example. What do people who want stablecoins ultimately want? They want price stability. They have some future expenses in mind, and they want a guarantee that will be able to pay those expenses. But if crypto grows on top of USD-backed stablecoins, crypto is ultimately not truly decentralized. Furthermore, different people have different types of expenses. There has been lots of thinking about making an "ideal stablecoin" that is based on some decentralized global price index, but what if the real solution is to go a step further, and get rid of the concept of currency altogether? Here's the idea. You have price indices on all major categories of goods and services that people buy (treating physical goods/services in different regions as different categories), and prediction markets on each category. Each user (individual or business) has a local LLM that understands that user's expenses, and offers the user a personalized basket of prediction market shares, representing "N days of that user's expected future expenses". Now, we do not need fiat currency at all! People can hold stocks, ETH, or whatever else to grow wealth, and personalized prediction market shares when they want stability. Both of these examples require prediction markets denominated in an asset people want to hold, whether interest-bearing fiat, wrapped stocks, or ETH. Non-interest-bearing fiat has too-high opportunity cost, that overwhelms the hedging value. But if we can make it work, it's much more sustainable than the status quo, because both sides of the equation are likely to be long-term happy with the product that they are buying, and very large volumes of sophisticated capital will be willing to participate. Build the next generation of finance, not corposlop.
 
-1d ago
+2d ago
 
 ---
 
@@ -158,6 +158,14 @@ The Motley Fool • 2d ago
 
 ---
 
+**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
+
+BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
+
+Yahoo Finance • 3d ago
+
+---
+
 **[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
 
 Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
@@ -166,17 +174,9 @@ Nasdaq • 1d ago
 
 ---
 
-**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
+**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqcPHGY88hnB5XkvdtZLHXb17CuG4Xa3dOdafGH6gfmZFSQ09qKpi9gg&gaa_ts=699319cb&gaa_sig=bgVycctRIzPqib_ee1-Nq857WIo0vUeBYGVWjwqvGED3rZvPF1PILdS31rS0dlWEMdaYdNiNdSprDVlxzMmg3Q%3D%3D)**
 
-BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqfAE_E8eOSEfRm-EQTZYIf-wduwFcc1bXbgBu32JPumE3myx_taS8eL&gaa_ts=699305d8&gaa_sig=lr7WAlbL4sp592vxyYMGIPAD1kwJg9ciSCfxtRTtFQgP4Rd-QgcuSUxdUMi5YmXWqfVasJ5hdnmbSrJ6BfhAsg%3D%3D)**
-
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -184,7 +184,7 @@ Barron's • 1h ago
 
 Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
 
-Yahoo Finance • 44m ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -192,13 +192,13 @@ Yahoo Finance • 44m ago
 
 Key PointsWhile Ethereum is primarily recognized for its prowess in DeFi, it is rapidly adapting for the AI future.
 
-Nasdaq • 51m ago
+Nasdaq • 2h ago
 
 ---
 
-**[The Top Artificial Intelligence (AI) Crypto to Buy Right Now](https://www.fool.com/investing/2026/02/16/the-top-artificial-intelligence-ai-crypto-to-buy-r/)**
+**[The Best Cryptocurrency to Buy With $100 Right Now](https://www.fool.com/investing/2026/02/16/the-best-cryptocurrency-to-buy-with-100-right-now/)**
 
-Can Ethereum unlock the power of artificial intelligence? If so, it could skyrocket in value.
+Ethereum's price is down, but there's a clear path to recovery.
 
 The Motley Fool • 1h ago
 
@@ -212,19 +212,19 @@ dlnews.com • 3d ago
 
 ---
 
-**[Ethereum Price Reverses Under $2,000, Bulls On The Back Foot](https://www.tradingview.com/news/newsbtc:37e79c397094b:0-ethereum-price-reverses-under-2-000-bulls-on-the-back-foot/)**
+**[Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
 
-Ethereum price started a fresh decline and traded below $2,000. ETH is now consolidating and remains at risk of another decline below $1,940.Ethereum Price Dips AgainEthereum price failed to stay above $2,050 and started a fresh decline, like Bitcoin. ETH price traded below the $2,040 and $2,020 le…
+Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-TradingView • 8h ago
+CoinDesk • 2d ago
 
 ---
 
-**[Thomas Thiery: Fossil enhances transaction inclusion in Ethereum, MEV threatens decentralization, and upcoming changes will reshape block construction | Epicenter](https://cryptobriefing.com/thomas-thiery-fossil-enhances-transaction-inclusion-in-ethereum-mev-threatens-decentralization-and-upcoming-changes-will-reshape-block-construction-epicenter/)**
+**[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
 
-Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
+Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
 
-Crypto Briefing • 12h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 496 • ⏱️ 34:57 • 1d ago
+👁️ 60K • 👍 3K • 💬 503 • ⏱️ 34:57 • 1d ago
 
 ---
 
@@ -248,17 +248,17 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 4K • 👍 206 • 💬 38 • ⏱️ 17:52 • 14h ago
+👁️ 4K • 👍 217 • 💬 38 • ⏱️ 17:52 • 15h ago
 
 ---
 
-**[Something HUGE Is About To Happen To Bitcoin &amp; Ethereum Interest Rates &amp; Gold Are At Play This Time](https://www.youtube.com/watch?v=8pZTBfidmaA)**
+**[ETH FLUSH WARNING🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=dWcsvKGx7eE)**
 
-As far as every single analyst and CEO has said.. all signs seem to be pointing to much higher network activity on some of the ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 The Modern Investor
+📺 Cilinix Crypto
 
-👁️ 241 • 👍 44 • 💬 8 • ⏱️ 30:43 • 2h ago
+👁️ 86 • 👍 10 • 💬 1 • ⏱️ 5:04 • 3h ago
 
 ---
 
@@ -268,17 +268,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 104 • 💬 5 • ⏱️ 17:25 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ZueBut25QHQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 150 • 💬 9 • ⏱️ 4:44 • 9h ago
+👁️ 4K • 👍 105 • 💬 5 • ⏱️ 17:25 • 1d ago
 
 ---
 
@@ -288,7 +278,27 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 214 • 💬 16 • ⏱️ 17:15 • 9h ago
+👁️ 6K • 👍 237 • 💬 28 • ⏱️ 17:15 • 10h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ZueBut25QHQ)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 172 • 💬 10 • ⏱️ 4:44 • 11h ago
+
+---
+
+**[Why Do Ethereum Classic and Bitcoin Cash Exist?](https://www.youtube.com/watch?v=-HJiB-Uggbc)**
+
+What happens when a blockchain splits? This video explains soft and hard forks, why they occur, and their impact on crypto.
+
+📺 CoinGecko
+
+👁️ 277 • 👍 41 • 💬 10 • ⏱️ 4:01 • 2h ago
 
 ---
 
@@ -298,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 603 • 👍 18 • 💬 2 • ⏱️ 4:36 • 1d ago
+👁️ 626 • 👍 18 • 💬 2 • ⏱️ 4:36 • 1d ago
 
 ---
 
@@ -308,27 +318,17 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 3K • 👍 84 • 💬 40 • ⏱️ 13:02 • 21h ago
+👁️ 3K • 👍 87 • 💬 40 • ⏱️ 13:02 • 23h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Lh847otzAo8)**
+**[XRP ETH BTC 🟢BUYING NOW BEFORE🟢](https://www.youtube.com/watch?v=DfnDlUARYXM)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+xrp #bitcoin #hbar #xlm #eth SEND ME YOUR BEST CRYPTO MEMES HERE   ...
 
-📺 More Crypto Online
+📺 CRYPTO with KLAUS
 
-👁️ 3K • 👍 183 • 💬 5 • ⏱️ 4:45 • 21h ago
-
----
-
-**[🚨 BTC &amp; ETH: WARNING!!! IT JUST GOT WORSE!!!!!](https://www.youtube.com/watch?v=p69c-zjC09g)**
-
-Crypto and bitcoin crash is forcing liquidations. This just got worse and we are seeing bear market cascading effect just like the ...
-
-📺 Thomas Kralow
-
-👁️ 30K • 👍 3K • 💬 53 • ⏱️ 10:34 • 3d ago
+👁️ 5K • 👍 419 • 💬 76 • ⏱️ 15:37 • 13h ago
 
 ---
 

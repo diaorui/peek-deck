@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T11:41:32.216899+00:00'
+updated: '2026-02-16T13:06:43.068847+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 11:41 UTC  
+**Last Updated:** February 16, 2026 at 13:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,21 +34,13 @@ Robotics research and industry news
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-13m ago
-
----
-
-**[Thoughts on Bio Robotics Engineering?](https://www.reddit.com/r/robotics/comments/1r657wl/thoughts_on_bio_robotics_engineering/)**
-
-Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
-
-2h ago
+1h ago
 
 ---
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -60,11 +52,19 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 
 ---
 
+**[Thoughts on Bio Robotics Engineering?](https://www.reddit.com/r/robotics/comments/1r657wl/thoughts_on_bio_robotics_engineering/)**
+
+Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
+
+3h ago
+
+---
+
 **[Armatron Robotic Arm only One motor amazing mechanical mechanism engineering #roboticarm](https://www.reddit.com/r/robotics/comments/1r5lu49/armatron_robotic_arm_only_one_motor_amazing/)**
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 17h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 18h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-19h ago
+20h ago
 
 ---
 
@@ -114,37 +114,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Futurism • 18h ago
-
----
-
-**[Medtronic secures FDA approval for Stealth AXiS spine robotics platform](https://www.yahoo.com/news/articles/medtronic-secures-fda-approval-stealth-110807453.html)**
-
-The Stealth AXiS system architecture allows support for a variety of surgeon preferences and clinical complexities.
-
-Yahoo • 33m ago
-
----
-
-**[China's humanoid robots ready for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
-
-Reuters • 3h ago
-
----
-
-**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
-
-Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
-
-Interesting Engineering • 20h ago
-
----
-
-**[China Built A Shape-Shifting Robot That Can Grow Like A Human](https://www.bgr.com/2098835/china-shape-shifting-robot-human-inspired-growth/)**
-
-A new robot out of China can change its shape by inflating or deflating, and its creators hope it can be put to use for search and rescue operations.
-
-bgr.com • 15h ago
+Futurism • 20h ago
 
 ---
 
@@ -156,17 +126,41 @@ CNN • 2d ago
 
 ---
 
+**[China's humanoid robots ready for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
+
+Reuters • 4h ago
+
+---
+
+**[People — and robots — in China are getting ready for grand Lunar New Year celebration](https://nypost.com/2026/02/13/world-news/people-and-robots-are-getting-ready-to-celebrate-the-lunar-new-year-in-china/)**
+
+For a second year in a row, one of the fairs will be devoted to technology and — yes, again — robots will take center stage.
+
+New York Post • 2d ago
+
+---
+
+**[Robots join Chinese New Year celebrations as AI meets tradition](https://news.cgtn.com/news/2026-02-14/Robots-join-Lunar-New-Year-celebrations-as-AI-meets-tradition-1KKIGIN1meY/p.html)**
+
+As the Year of the Horse approaches, robots are stealing the spotlight at Spring Festival celebrations across China. From Beijing malls to Chengdu temple fairs, AI and tradition are merging in new ways, giving the holiday a futuristic feel.Shanghai:
+
+news.cgtn.com • 2d ago
+
+---
+
+**[Medtronic secures FDA approval for Stealth AXiS spine robotics platform](https://www.yahoo.com/news/articles/medtronic-secures-fda-approval-stealth-110807453.html)**
+
+The Stealth AXiS system architecture allows support for a variety of surgeon preferences and clinical complexities.
+
+Yahoo • 1h ago
+
+---
+
 **[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
 
 A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-KWQC • 10h ago
-
----
-
-**[How A Chinese Engineer Became A Billionaire Making Robotic ‘Eyes’](https://www.forbes.com/sites/zinnialee/2026/02/12/how-a-chinese-engineer-became-a-billionaire-making-robotic-eyes/)**
-
-Forbes • 3d ago
+KWQC • 11h ago
 
 ---
 
@@ -174,15 +168,23 @@ Forbes • 3d ago
 
 This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
 
-Interesting Engineering • 7h ago
+Interesting Engineering • 8h ago
 
 ---
 
-**[Pioneering use of robotics shifts heart surgery into a higher gear](https://www.post-gazette.com/wellness/2026/02/15/upmc-johannes-bonatti-robotic-heart-surgery/stories/202601270049)**
+**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
 
-Bonatti is at the forefront of a shift in cardiac surgery, using robotics to perform complex procedures with smaller incisions, faster recovery and lower risks than traditional surgery
+The Economics Show 🤜🤛 FT Alphaville
 
-Pittsburgh Post-Gazette • 1d ago
+Financial Times • 2h ago
+
+---
+
+**[Terrifying Humanoid Robots Are Now Patrolling The Streets Of China](https://www.bgr.com/2098825/humanoid-robot-cops-traffic-controllers-patrolling-china-streets/)**
+
+EngineAI's PM01 robot was spotted walking with police officers in Shenzen's Nashan District, and it's much more intimidating than its other models.
+
+bgr.com • 11h ago
 
 ---
 
@@ -196,7 +198,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 390K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
+👁️ 394K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -206,17 +208,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 11K • 👍 475 • 💬 58 • ⏱️ 12:43 • 12h ago
-
----
-
-**[China’s Most Realistic Female Robot Singer Stuns the World at AGIBOT Night 2026](https://www.youtube.com/watch?v=arI2cJpyRyw)**
-
-Such a presentation would highlight how far artificial intelligence, robotics, and digital performance technologies have advanced ...
-
-📺 Carros Show
-
-👁️ 15K • 👍 325 • 💬 61 • ⏱️ 10:40 • 5d ago
+👁️ 13K • 👍 540 • 💬 60 • ⏱️ 12:43 • 13h ago
 
 ---
 
@@ -226,17 +218,17 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 28K • 👍 1K • 💬 358 • ⏱️ 9:43 • 13h ago
+👁️ 30K • 👍 2K • 💬 369 • ⏱️ 9:43 • 15h ago
 
 ---
 
-**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
+**[China’s Most Realistic Female Robot Singer Stuns the World at AGIBOT Night 2026](https://www.youtube.com/watch?v=arI2cJpyRyw)**
 
-From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
+Such a presentation would highlight how far artificial intelligence, robotics, and digital performance technologies have advanced ...
 
-📺 60 Minutes
+📺 Carros Show
 
-👁️ 659K • 👍 8K • 💬 1K • ⏱️ 53:47 • 1d ago
+👁️ 15K • 👍 329 • 💬 65 • ⏱️ 10:40 • 5d ago
 
 ---
 
@@ -246,7 +238,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 151K • 👍 3K • 💬 231 • ⏱️ 11:59 • 5d ago
+👁️ 152K • 👍 3K • 💬 234 • ⏱️ 11:59 • 5d ago
 
 ---
 
@@ -256,17 +248,27 @@ One Sentence Changed — And the Robot Pulled the Trigger A YouTuber connected C
 
 📺 mdscae
 
-👁️ 7.5M • 👍 289K • 💬 2K • ⏱️ 1:00 • 5d ago
+👁️ 7.5M • 👍 291K • 💬 2K • ⏱️ 1:00 • 6d ago
 
 ---
 
-**[Tesla Optimus Was Built for Mars  #teslaoptimus  #elonmusk  #teslabotgen3  #humanoidrobots  #mars](https://www.youtube.com/watch?v=AEyxJrYsQW0)**
+**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
 
-You think Elon Musk built Optimus to fold laundry? That was a distraction. In 2026, the real plan is obvious: You can't send ...
+From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
 
-📺 By 2050
+📺 60 Minutes
 
-👁️ 1.2M • 👍 28K • 💬 1K • ⏱️ 0:56 • 6d ago
+👁️ 680K • 👍 8K • 💬 1K • ⏱️ 53:47 • 2d ago
+
+---
+
+**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
+
+Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
+
+📺 Jeff Geerling
+
+👁️ 103K • 👍 5K • 💬 278 • ⏱️ 12:38 • 2d ago
 
 ---
 
@@ -280,13 +282,13 @@ Such a debut would mark a major step for Apple as it expands beyond personal ele
 
 ---
 
-**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
+**[Sometimes, War Robots is literally UNPLAYABLE!](https://www.youtube.com/watch?v=O3_t2JHbuo0)**
 
-Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
+War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
 
-📺 Slidebean
+📺 Manni-Gaming
 
-👁️ 15K • 👍 547 • 💬 27 • ⏱️ 1:21 • 6d ago
+👁️ 33K • 👍 2K • 💬 475 • ⏱️ 10:29 • 4d ago
 
 ---
 
