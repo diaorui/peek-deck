@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T23:00:15.108138+00:00'
+updated: '2026-02-16T23:38:41.307404+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 23:00 UTC  
+**Last Updated:** February 16, 2026 at 23:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ Full segment is on YouTube.
 
 The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
 
-🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 6h ago
+🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 7h ago
 
 ---
 
@@ -115,7 +115,7 @@ The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025
 
 If everyone assumes Bitcoin will drop more why don't they just sell and buy back in around October when the bottom is in
 
-3h ago
+4h ago
 
 ---
 
@@ -131,13 +131,13 @@ Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we
 
 He just dropped a post on X stating why the quantum threat (with it's attendant potential loss of the Sathoshi 1 million coin and other lost coins) will hang over Bitcoin for the next 5-15 years and that Bitcoin may not make ATH until after that time period Like to know your thoughts For me I read and moved on to stack more SATs. Just another day in the Bitcoin lane
 
-2h ago
+3h ago
 
 ---
 
 **[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -145,7 +145,7 @@ He just dropped a post on X stating why the quantum threat (with it's attendant 
 
 What do you think, guys? https://milliondollarbitcoinclock.com/
 
-2h ago
+3h ago
 
 ---
 
@@ -219,7 +219,7 @@ Forbes • 2d ago
 
 Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -227,7 +227,7 @@ The Block • 13h ago
 
 Real estate mogul Grant Cardone unveils his innovative hybrid portfolio, combining real estate and Bitcoin on 'The Claman Countdown.'
 
-Fox Business • 20m ago
+Fox Business • 59m ago
 
 ---
 
@@ -331,7 +331,7 @@ Dan Tapiero just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 292 • 👍 15 • 💬 10 • ⏱️ 13:32 • 4h ago
+👁️ 292 • 👍 15 • 💬 10 • ⏱️ 13:32 • 5h ago
 
 ---
 
@@ -341,7 +341,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 20K • 👍 2K • 💬 129 • ⏱️ 1:06:56 • 5h ago
+👁️ 20K • 👍 2K • 💬 129 • ⏱️ 1:06:56 • 6h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin cr
 
 📺 Crypto Insider
 
-👁️ 16K • 👍 1K • 💬 113 • ⏱️ 18:15 • 8h ago
+👁️ 16K • 👍 1K • 💬 113 • ⏱️ 18:15 • 9h ago
 
 ---
 
@@ -391,7 +391,7 @@ Por esto Binance compro 15.000 bitcoin, ballenas y acumuladores haciendo la tare
 
 📺 Bitcoin y Criptos
 
-👁️ 4K • 👍 733 • 💬 31 • ⏱️ 14:27 • 2h ago
+👁️ 4K • 👍 733 • 💬 31 • ⏱️ 14:27 • 3h ago
 
 ---
 
@@ -411,7 +411,7 @@ Bitcoin bottom in? Buy now says analyst. Altcoins heating up! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 13K • 👍 812 • 💬 75 • ⏱️ 17:35 • 11h ago
+👁️ 13K • 👍 812 • 💬 75 • ⏱️ 17:35 • 12h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T23:00:15.114221+00:00'
+updated: '2026-02-16T23:38:41.313336+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 23:00 UTC  
+**Last Updated:** February 16, 2026 at 23:38 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ the sites openly available to anyone and offers ETH rewards. it’s all open sou
 
 We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
 
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 5h ago
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 6h ago
 
 ---
 
@@ -194,7 +194,7 @@ TradingView • 7h ago
 
 Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
 
-Decrypt • 6h ago
+Decrypt • 7h ago
 
 ---
 
@@ -218,13 +218,13 @@ CoinDesk • 3d ago
 
 XRP’s spot strength outpaces derivatives participation, reflecting Korea’s cash-market dominance in crypto sentiment flows.
 
-AMBCrypto • 5h ago
+AMBCrypto • 6h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqdGMoxxkPZum_kBpe418wDHCatXy9WPOCC6QiqsmVXH-RqjRVl30eQN&gaa_ts=6993a4ea&gaa_sig=SpMIzTgiKcc_D2wyPiz2t1-GD8_oKEKtMOfH0OzoXtAMe5Wzo7g5ak4NDE1hPv06vaiPA13fToQlJEv-FidHCw%3D%3D)**
 
-Barron's • 12h ago
+Barron's • 13h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn h
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 45 • 💬 7 • ⏱️ 2:13 • 8h ago
+👁️ 4K • 👍 45 • 💬 7 • ⏱️ 2:13 • 9h ago
 
 ---
 
@@ -298,7 +298,7 @@ Accès 100% GRATUIT : Nos Algos + Mentorship + VIP (disponible dans quelques jou
 
 📺 Crypto Le Trone
 
-👁️ 7K • 👍 772 • 💬 24 • ⏱️ 10:11 • 7h ago
+👁️ 7K • 👍 772 • 💬 24 • ⏱️ 10:11 • 8h ago
 
 ---
 
@@ -308,7 +308,7 @@ What happens when a blockchain splits? This video explains soft and hard forks, 
 
 📺 CoinGecko
 
-👁️ 1K • 👍 114 • 💬 15 • ⏱️ 4:01 • 11h ago
+👁️ 1K • 👍 114 • 💬 15 • ⏱️ 4:01 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 580 • 👍 100 • 💬 14 • ⏱️ 59:47 • 6h ago
+👁️ 580 • 👍 100 • 💬 14 • ⏱️ 59:47 • 7h ago
 
 ---
 

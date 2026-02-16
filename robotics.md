@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T23:00:15.117445+00:00'
+updated: '2026-02-16T23:38:41.316498+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 23:00 UTC  
+**Last Updated:** February 16, 2026 at 23:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 6h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 7h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robot
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -64,7 +64,7 @@ Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robot
 
 Robotics software engineers here: is it possible to write functional infrastructure software using simulated environments (e.g. Isaac to get sensor data and pipe it into Jetson hw) that can be shifted to a compatible robot without too much hassle?
 
-4h ago
+5h ago
 
 ---
 
@@ -72,7 +72,7 @@ Robotics software engineers here: is it possible to write functional infrastruct
 
 I’m planning to make a pen plotter for my college project and I’m really interested in this but I’m not really knowledgeable about this. The plotter I have in mind is a corexy model and I don’t know much about it. I’d really appreciate some help and insight into this. Anyone please help me regarding this.
 
-5h ago
+6h ago
 
 ---
 
@@ -94,7 +94,7 @@ So we have a pick and place bot competition in 3 days, and we planned to prepare
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-13h ago
+14h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 
 **[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -126,7 +126,7 @@ South China Morning Post • 1d ago
 
 **[China Ready to Dazzle the World with Humanoid Robots ‘Super Bowl’ Show](https://www.tipranks.com/news/china-ready-to-dazzle-the-world-with-humanoid-robots-super-bowl-show)**
 
-TipRanks • 10h ago
+TipRanks • 11h ago
 
 ---
 
@@ -142,7 +142,7 @@ Futurism • 1d ago
 
 Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Fox News • 5h ago
+Fox News • 6h ago
 
 ---
 
@@ -150,7 +150,7 @@ Fox News • 5h ago
 
 A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-KWQC • 21h ago
+KWQC • 22h ago
 
 ---
 
@@ -194,7 +194,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 36K • 👍 2K • 💬 333 • ⏱️ 1:41 • 6h ago
+👁️ 36K • 👍 2K • 💬 333 • ⏱️ 1:41 • 7h ago
 
 ---
 
@@ -234,7 +234,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 21K • 👍 677 • 💬 85 • ⏱️ 12:43 • 23h ago
+👁️ 21K • 👍 677 • 💬 85 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -244,7 +244,7 @@ Dozens of Unitree humanoid robots just achieved a world first with a fully auton
 
 📺 DPCcars
 
-👁️ 16K • 👍 557 • 💬 141 • ⏱️ 2:07 • 6h ago
+👁️ 16K • 👍 557 • 💬 141 • ⏱️ 2:07 • 7h ago
 
 ---
 

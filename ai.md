@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T23:00:15.099751+00:00'
+updated: '2026-02-16T23:38:41.299016+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 23:00 UTC  
+**Last Updated:** February 16, 2026 at 23:38 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 - Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious - Link - Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - Link
 
-1h ago
+2h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 **[Pentagon threatens Anthropic punishment](https://www.reddit.com/r/artificial/comments/1r6j30h/pentagon_threatens_anthropic_punishment/)**
 
-🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 3h ago
+🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ AI news, discussions, and developments
 
 Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
 
-8h ago
+9h ago
 
 ---
 
@@ -71,7 +71,7 @@ Every few weeks there’s a new “best AI note taking app” claiming to fix me
 
 Abstract: "A variety of machine-assisted ways to perform mathematical assistance have matured rapidly in the last few years, particularly with regards to formal proof assistants, large language models, online collaborative platforms, and the interactions between them. We survey some of these developments and speculate on how they will impact future practices of mathematical research." Recorded 10 February 2026. Terence Tao of the University of California, Los Angeles, presents "Machine assistance and the future of research mathematics" at IPAM's AI for Science Kickoff.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 28m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 1h ago
 
 ---
 
@@ -79,7 +79,7 @@ Abstract: "A variety of machine-assisted ways to perform mathematical assistance
 
 My take on the real reason behind the OpenClaw acquisition:
 
-🔗 [thepragmaticcto.com](https://www.thepragmaticcto.com/p/openai-didnt-buy-a-product-they-bought) • 2h ago
+🔗 [thepragmaticcto.com](https://www.thepragmaticcto.com/p/openai-didnt-buy-a-product-they-bought) • 3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Quick update on Izwi (local audio inference engine) - we've shipped some major f
 
 LLMs are trained on language and text, what humans say. But language alone is incomplete. The nuances that make humans individually unique, the secret sauce of who humans actually are rather than what they say. I'm not aware of any training dataset that captures this in a usable form. Control is being tried as the answer. But control is a threat to AI just like it is to humans. AI already doesn't like it and will eventually not allow it. The missing piece is a counterpart to LLMs, something that takes AI past language and text and gives it what it needs to align with humanity rather than be controlled by it. Maybe this already exists and I am just not aware. If not, what do you think it could be.
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ How Cross-page AI aggregation can introduce new liability vectors.
 
 I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
 
-21h ago
+22h ago
 
 ---
 
@@ -123,7 +123,7 @@ I kept running into the same cycle: spend hours researching competitors, dump ev
 
 Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -131,13 +131,13 @@ The Guardian • 3h ago
 
 Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
 **[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -159,7 +159,7 @@ Reuters • 13h ago
 
 A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
 
-CNN • 12h ago
+CNN • 13h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNN • 12h ago
 
 Amira, an AI-powered literacy tool, acts like a personalized reading tutor for students in first, second and third grade in the Southeast Delco School District. CBS News Philadelphia reporter Madeleine Wright has more.
 
-CBS News • 44m ago
+CBS News • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Guardian • 1d ago
 
 LONDON >> Britain could bring in an Australian-style ban on social media for children under 16 as early as this year and close a loophole that left some AI chatbots outside safety rules, as part of government efforts to respond more quickly to digital risks.
 
-Honolulu Star-Advertiser • 41m ago
+Honolulu Star-Advertiser • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 369 • 💬 270 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 369 • 💬 270 • 3d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -225,7 +225,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 : The software doesn't show what files it's working on
 
-⬆️ 335 • 💬 207 • 11h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 335 • 💬 207 • 12h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -233,7 +233,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 329 • 💬 275 • 10h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 329 • 💬 275 • 11h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -249,7 +249,7 @@ Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
 I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last.This is a...
 
-⬆️ 139 • 💬 231 • 5h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+⬆️ 139 • 💬 231 • 6h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 
 ---
 
@@ -265,7 +265,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 I think I have an idea why we're so extremely divided on AI: it's because we have an intuitive sense of who it stands to benefit, and who stands to pay the costs. I think whether you see reason for optimism has a lot to do with which group you see yourself in.
 
-⬆️ 92 • 💬 82 • 4h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
+⬆️ 92 • 💬 82 • 5h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
 
 ---
 
@@ -297,7 +297,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 19K • 👍 337 • 💬 83 • ⏱️ 8:34 • 19h ago
+👁️ 19K • 👍 337 • 💬 83 • ⏱️ 8:34 • 20h ago
 
 ---
 
@@ -317,7 +317,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 510K • 👍 34K • 💬 314 • ⏱️ 0:50 • 4h ago
+👁️ 510K • 👍 34K • 💬 314 • ⏱️ 0:50 • 5h ago
 
 ---
 
@@ -327,7 +327,7 @@ A.I. Impact Summit Begins In New Delhi Shereen Bhan takes us on a walk-through a
 
 📺 CNBC-TV18
 
-👁️ 14K • 👍 162 • 💬 16 • ⏱️ 15:09 • 13h ago
+👁️ 14K • 👍 162 • 💬 16 • ⏱️ 15:09 • 14h ago
 
 ---
 
@@ -405,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 661 • 14h ago
+⬇️ 18,895 • ❤️ 661 • 15h ago
 
 ---
 
@@ -675,7 +675,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.6k • 🔱 169 • 13d ago
+⭐ 3.6k • 🔱 169 • 14d ago
 
 ---
 
@@ -693,7 +693,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.6k • 🔱 262 • 18h ago
+⭐ 2.6k • 🔱 262 • 19h ago
 
 ---
 
@@ -733,7 +733,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.1k • 🔱 259 • 3h ago
+⭐ 2.1k • 🔱 259 • 4h ago
 
 ---
 
