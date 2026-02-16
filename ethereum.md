@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T07:36:58.957054+00:00'
+updated: '2026-02-16T08:51:51.165582+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 07:36 UTC  
+**Last Updated:** February 16, 2026 at 08:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,975.22
+### $1,971.62
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.5%  
-**7d:** -2.2%  
-**30d:** -39.8%  
-**90d:** -34.7%  
-**1y:** -28.0%  
+**24h:** -4.7%  
+**7d:** -2.3%  
+**30d:** -39.9%  
+**90d:** -34.8%  
+**1y:** -28.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-19h ago
+20h ago
 
 ---
 
@@ -158,11 +158,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum Co-Founder Vitalik Buterin Calls for Prediction Market Reset](https://news.bitcoin.com/ethereum-co-founder-vitalik-buterin-calls-for-prediction-market-reset/)**
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
 
-Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
+Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
 
-Bitcoin.com News • 1d ago
+Nasdaq • 1d ago
 
 ---
 
@@ -174,11 +174,19 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/02/14/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
 
-Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
+Here's why Bitcoin and Ethereum should be in your long-term portfolio.
 
-Nasdaq • 1d ago
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Price Reverses Under $2,000, Bulls On The Back Foot](https://www.tradingview.com/news/newsbtc:37e79c397094b:0-ethereum-price-reverses-under-2-000-bulls-on-the-back-foot/)**
+
+Ethereum price started a fresh decline and traded below $2,000. ETH is now consolidating and remains at risk of another decline below $1,940.Ethereum Price Dips AgainEthereum price failed to stay above $2,050 and started a fresh decline, like Bitcoin. ETH price traded below the $2,040 and $2,020 le…
+
+TradingView • 5h ago
 
 ---
 
@@ -190,19 +198,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Ethereum Price Reverses Under $2,000, Bulls On The Back Foot](https://www.tradingview.com/news/newsbtc:37e79c397094b:0-ethereum-price-reverses-under-2-000-bulls-on-the-back-foot/)**
+**[Thomas Thiery: Fossil enhances transaction inclusion in Ethereum, MEV threatens decentralization, and upcoming changes will reshape block construction | Epicenter](https://cryptobriefing.com/thomas-thiery-fossil-enhances-transaction-inclusion-in-ethereum-mev-threatens-decentralization-and-upcoming-changes-will-reshape-block-construction-epicenter/)**
 
-Ethereum price started a fresh decline and traded below $2,000. ETH is now consolidating and remains at risk of another decline below $1,940.Ethereum Price Dips AgainEthereum price failed to stay above $2,050 and started a fresh decline, like Bitcoin. ETH price traded below the $2,040 and $2,020 le…
+Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
 
-TradingView • 4h ago
+Crypto Briefing • 9h ago
 
 ---
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
+**[Standard Chartered Cuts BTC, ETH, XRP, SOL Forecasts](https://news.bitcoin.com/standard-chartered-cuts-btc-eth-xrp-sol-forecasts/)**
 
-The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
+Standard Chartered slashed its cryptocurrency price targets, warning bitcoin could slide toward $50,000 and ethereum near $1,400 in the coming months
 
-The Motley Fool • 1d ago
+Bitcoin.com News • 1h ago
 
 ---
 
@@ -214,19 +222,11 @@ BeInCrypto • 1d ago
 
 ---
 
-**[Thomas Thiery: Fossil enhances transaction inclusion in Ethereum, MEV threatens decentralization, and upcoming changes will reshape block construction | Epicenter](https://cryptobriefing.com/thomas-thiery-fossil-enhances-transaction-inclusion-in-ethereum-mev-threatens-decentralization-and-upcoming-changes-will-reshape-block-construction-epicenter/)**
+**[Here’s Why Dogecoin Is Outperforming Bitcoin And Ethereum Today](https://stocktwits.com/news-articles/markets/cryptocurrency/heres-why-dogecoin-is-outperforming-bitcoin-ethereum-solana-today/cZRJDiyR4ts)**
 
-Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
+Dogecoin jumped over 19% in the last 24 hours, beating Bitcoin, Ethereum, and Solana as the meme coin’s momentum rises.
 
-Crypto Briefing • 8h ago
-
----
-
-**[$660M in Ethereum leaves exchanges – Yet ETH’s bottom remains unclear!](https://ambcrypto.com/660m-in-ethereum-leaves-exchanges-yet-eths-bottom-remains-unclear/)**
-
-The negative Funding Rates and spot ETF flows reflected how demand for Ethereum could not outweigh the selling pressure.
-
-AMBCrypto • 2d ago
+Stocktwits • 23h ago
 
 ---
 
@@ -250,7 +250,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 3K • 👍 208 • 💬 36 • ⏱️ 17:52 • 10h ago
+👁️ 3K • 👍 208 • 💬 36 • ⏱️ 17:52 • 11h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 3K • 👍 199 • 💬 12 • ⏱️ 17:15 • 5h ago
+👁️ 3K • 👍 199 • 💬 12 • ⏱️ 17:15 • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 129 • 💬 9 • ⏱️ 4:44 • 5h ago
+👁️ 2K • 👍 129 • 💬 9 • ⏱️ 4:44 • 6h ago
 
 ---
 
@@ -290,7 +290,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 2K • 👍 79 • 💬 40 • ⏱️ 13:02 • 17h ago
+👁️ 2K • 👍 79 • 💬 40 • ⏱️ 13:02 • 18h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 587 • 👍 18 • 💬 2 • ⏱️ 4:36 • 21h ago
+👁️ 587 • 👍 18 • 💬 2 • ⏱️ 4:36 • 22h ago
 
 ---
 
@@ -310,7 +310,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 182 • 💬 5 • ⏱️ 4:45 • 17h ago
+👁️ 3K • 👍 182 • 💬 5 • ⏱️ 4:45 • 18h ago
 
 ---
 

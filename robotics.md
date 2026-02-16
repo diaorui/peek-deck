@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T07:36:58.960273+00:00'
+updated: '2026-02-16T08:51:51.168319+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 07:36 UTC  
+**Last Updated:** February 16, 2026 at 08:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-23h ago
+1d ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-15h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ I need a power supply for a small animatronic that uses 3 9g servos and a small 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 13h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -116,43 +116,19 @@ BBC • 3d ago
 
 ---
 
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+
+KWQC • 7h ago
+
+---
+
 **[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
 CNN • 2d ago
-
----
-
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
-
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
-
-KWQC • 6h ago
-
----
-
-**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
-
-Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
-
-Interesting Engineering • 16h ago
-
----
-
-**[China Built A Shape-Shifting Robot That Can Grow Like A Human](https://www.bgr.com/2098835/china-shape-shifting-robot-human-inspired-growth/)**
-
-A new robot out of China can change its shape by inflating or deflating, and its creators hope it can be put to use for search and rescue operations.
-
-bgr.com • 11h ago
-
----
-
-**[World's fastest humanoid robot runs 22 MPH](https://www.foxnews.com/tech/worlds-fastest-humanoid-robot-runs-22-mph)**
-
-MirrorMe Technology's Bolt became the fastest running humanoid robot demonstrated outside computer simulations when it reached a top speed of 22 mph.
-
-Fox News • 2d ago
 
 ---
 
@@ -162,11 +138,31 @@ Forbes • 3d ago
 
 ---
 
-**[Medtronic receives FDA clearance for Stealth AXiS™ surgical system, first integrated planning, navigation and robotics platform for spine surgery](https://news.medtronic.com/2026-02-13-Medtronic-receives-FDA-clearance-for-Stealth-AXiS-TM-surgical-system,-first-integrated-planning,-navigation-and-robotics-platform-for-spine-surgery)**
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
 
-Medtronic (NYSE: MDT), a global leader in healthcare technology, today announced U.S. Food and Drug Administration (FDA) clearance of the Stealth AXiS™ surgical system, a next-generation...
+KSN.com • 2d ago
 
-Medtronic • 2d ago
+---
+
+**[China's humanoid robots ready for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
+
+Reuters • 43m ago
+
+---
+
+**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
+
+Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
+
+Interesting Engineering • 17h ago
+
+---
+
+**[X-Humanoid Introduces Embodied Tien Kung 3.0, a More Open and Practical Humanoid Robotics Platform](https://finance.yahoo.com/news/x-humanoid-introduces-embodied-tien-080000831.html)**
+
+Beijing Innovation Center of Humanoid Robotics (X-Humanoid) officially launched its latest general-purpose robot platform, the Embodied Tien Kung 3.0. Designed with a focus on enhanced openness and usability, the system leverages X-Humanoid's proprietary Wise KaiWu general-purpose embodied AI platform to deliver significant upgrades in balance, motion control, embodied brain-cerebellum coordination, and fully autonomous operation. It is also the industry's first full-size humanoid robot to achie
+
+Yahoo Finance • 51m ago
 
 ---
 
@@ -174,13 +170,13 @@ Medtronic • 2d ago
 
 Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Futurism • 14h ago
+Futurism • 15h ago
 
 ---
 
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
+**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
 
-KSN.com • 2d ago
+ABC27 • 9h ago
 
 ---
 
@@ -194,7 +190,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 8K • 👍 420 • 💬 51 • ⏱️ 12:43 • 8h ago
+👁️ 8K • 👍 420 • 💬 51 • ⏱️ 12:43 • 9h ago
 
 ---
 
@@ -284,7 +280,7 @@ The Chinese company BrainCo just shared dramatic stress footage with engineers g
 
 📺 Kalil 4.0
 
-👁️ 1K • 👍 29 • 💬 2 • ⏱️ 0:48 • 3h ago
+👁️ 1K • 👍 29 • 💬 2 • ⏱️ 0:48 • 4h ago
 
 ---
 

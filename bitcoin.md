@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T07:36:58.951082+00:00'
+updated: '2026-02-16T08:51:51.160233+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 07:36 UTC  
+**Last Updated:** February 16, 2026 at 08:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -0.3%  
-**30d:** -26.8%  
-**90d:** -24.8%  
-**1y:** -28.3%  
+**24h:** -2.4%  
+**7d:** -0.1%  
+**30d:** -26.7%  
+**90d:** -24.7%  
+**1y:** -28.2%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-10h ago
+11h ago
 
 ---
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -95,19 +95,19 @@ If you're thinking about spending some sats, usually over r/thelightningnetwork 
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-19h ago
+20h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-18h ago
+20h ago
 
 ---
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -115,7 +115,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the quest in real-time.
 
-🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 9h ago
+🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 10h ago
 
 ---
 
@@ -123,23 +123,7 @@ A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the q
 
 Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
 
-12h ago
-
----
-
-**[200 week SMA investment strategy](https://www.reddit.com/r/Bitcoin/comments/1r5xzle/200_week_sma_investment_strategy/)**
-
-I’m thinking that a very good bitcoin stacking strategy would be to stack dollars in a HYSA and then when bitcoin dips below the 200 week SMA to begin a heavy DCA. Stopping when it goes back above. Thoughts?
-
-4h ago
-
----
-
-**[Daily Discussion, February 16, 2026](https://www.reddit.com/r/Bitcoin/comments/1r61u0b/daily_discussion_february_16_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-1h ago
+14h ago
 
 ---
 
@@ -147,7 +131,23 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Are you expecting a breakout or another fack pump?
 
-54m ago
+2h ago
+
+---
+
+**[200 week SMA investment strategy](https://www.reddit.com/r/Bitcoin/comments/1r5xzle/200_week_sma_investment_strategy/)**
+
+I’m thinking that a very good bitcoin stacking strategy would be to stack dollars in a HYSA and then when bitcoin dips below the 200 week SMA to begin a heavy DCA. Stopping when it goes back above. Thoughts?
+
+5h ago
+
+---
+
+**[Daily Discussion, February 16, 2026](https://www.reddit.com/r/Bitcoin/comments/1r61u0b/daily_discussion_february_16_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+2h ago
 
 ---
 
@@ -159,7 +159,7 @@ Are you expecting a breakout or another fack pump?
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 16h ago
 
 XRP is outperforming bitcoin and ether following signs of dip buying during recent crash.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -175,21 +175,13 @@ CoinDesk • 17h ago
 
 TeraWulf (NasdaqCM:WULF) is shifting its core business from bitcoin mining to building and operating AI focused infrastructure. The company has recently sold nearly all of its bitcoin holdings and acquired new industrial sites intended to roughly double its available power capacity. These moves signal a company wide pivot toward serving power hungry AI workloads rather than relying on cryptocurrency mining economics. TeraWulf, trading at $16.26, is repositioning itself as an AI...
 
-Yahoo Finance • 29m ago
-
----
-
-**[Bitcoin Leverage Heats Up as Traders Bet on Price Rebound](https://finance.yahoo.com/news/bitcoin-leverage-heats-traders-bet-042400767.html)**
-
-Bitcoin's futures basis has widened amid retail dip buying surges, but one expert warns the setup may end in an "over-leveraged shakeout."
-
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -207,27 +199,35 @@ Forbes • 1d ago
 
 ---
 
-**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
-The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
-
-MLive.com • 23h ago
-
----
-
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
-
-Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
 Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin After the Cycle Peak: What Comes Next and How We’re Positioning](https://io-fund.com/crypto/bitcoin-after-cycle-peak)**
+**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
 
-Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
+The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-IO Fund • 3d ago
+MLive.com • 1d ago
+
+---
+
+**[Bitcoin Leverage Heats Up as Traders Bet on Price Rebound](https://decrypt.co/358134/bitcoin-leverage-heats-up-as-traders-bet-on-price-rebound)**
+
+Bitcoin's futures basis has widened amid retail dip buying surges, but one expert warns the setup may end in an "over-leveraged shakeout."
+
+Decrypt • 1d ago
+
+---
+
+**[Saylor Hints at Another Strategy Bitcoin Buy](https://bitbo.io/news/saylor-signals-strategy-bitcoin-buy/)**
+
+Michael Saylor signaled another Strategy Bitcoin purchase, extending a 12-week buying streak even as bitcoin and crypto-treasury stocks slide.
+
+Bitbo • 13h ago
 
 ---
 
@@ -321,7 +321,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 2K • 💬 204 • ⏱️ 11:16 • 8h ago
+👁️ 29K • 👍 2K • 💬 204 • ⏱️ 11:16 • 10h ago
 
 ---
 
@@ -331,7 +331,7 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 4K • 👍 115 • 💬 17 • ⏱️ 12:20 • 13h ago
+👁️ 4K • 👍 115 • 💬 17 • ⏱️ 12:20 • 14h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 33K • 👍 1K • 💬 732 • ⏱️ 30:55 • 17h ago
+👁️ 33K • 👍 1K • 💬 732 • ⏱️ 30:55 • 18h ago
 
 ---
 
@@ -381,7 +381,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 40K • 👍 2K • 💬 240 • ⏱️ 12:55 • 18h ago
+👁️ 40K • 👍 2K • 💬 240 • ⏱️ 12:55 • 20h ago
 
 ---
 
@@ -391,7 +391,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 3K • 👍 199 • 💬 12 • ⏱️ 17:15 • 5h ago
+👁️ 3K • 👍 199 • 💬 12 • ⏱️ 17:15 • 6h ago
 
 ---
 
