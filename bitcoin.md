@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T21:55:04.443859+00:00'
+updated: '2026-02-16T22:30:00.437491+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 21:55 UTC  
+**Last Updated:** February 16, 2026 at 22:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ Full segment is on YouTube.
 
 The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
 
-🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 5h ago
+🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 6h ago
 
 ---
 
@@ -115,7 +115,7 @@ The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025
 
 If everyone assumes Bitcoin will drop more why don't they just sell and buy back in around October when the bottom is in
 
-2h ago
+3h ago
 
 ---
 
@@ -123,13 +123,13 @@ If everyone assumes Bitcoin will drop more why don't they just sell and buy back
 
 Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we saved from our 2 sons (3 and 5 years old) from Birthday presents and so one. I am thinking about putting this Money in bitcoin and leave it untouched until they are 20. I started with nearly nothing in my life. I dont want them in the Same Situation. Am I doing the Right thing as a Father ?
 
-9h ago
+10h ago
 
 ---
 
 **[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -137,7 +137,7 @@ Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we
 
 He just dropped a post on X stating why the quantum threat (with it's attendant potential loss of the Sathoshi 1 million coin and other lost coins) will hang over Bitcoin for the next 5-15 years and that Bitcoin may not make ATH until after that time period Like to know your thoughts For me I read and moved on to stack more SATs. Just another day in the Bitcoin lane
 
-1h ago
+2h ago
 
 ---
 
@@ -157,7 +157,7 @@ I mean, you used to buy Bitcoin and knew you were getting something limited. Now
 
 Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
 
-The Atlantic • 9h ago
+The Atlantic • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ CNBC • 1d ago
 
 **[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
 
-x.com • 4h ago
+x.com • 5h ago
 
 ---
 
@@ -223,7 +223,7 @@ Forbes • 2d ago
 
 **[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqdSDNVtfqKUufbWe338fYfpCg4BzHE7SeIbsIzWkP84mYBi74uR91jH&gaa_ts=699395a2&gaa_sig=kMBXIVJ-Q6fYF_GYJRseahe5drjvOtsuqN198H-QtFsTs0TLm7W-c1Rgj8AdZe6RXByRgJG9mFOFpKUjX0CvCg%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -241,7 +241,7 @@ Barron's • 11h ago
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 3 • 💬 5 • 1d ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 3 • 💬 5 • 2d ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -337,7 +337,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 20K • 👍 2K • 💬 129 • ⏱️ 1:06:56 • 4h ago
+👁️ 20K • 👍 2K • 💬 129 • ⏱️ 1:06:56 • 5h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin cr
 
 📺 Crypto Insider
 
-👁️ 16K • 👍 1K • 💬 113 • ⏱️ 18:15 • 7h ago
+👁️ 16K • 👍 1K • 💬 113 • ⏱️ 18:15 • 8h ago
 
 ---
 
@@ -367,7 +367,7 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 3K • 👍 250 • 💬 26 • ⏱️ 33:12 • 5h ago
+👁️ 3K • 👍 250 • 💬 26 • ⏱️ 33:12 • 6h ago
 
 ---
 
@@ -387,7 +387,7 @@ Por esto Binance compro 15.000 bitcoin, ballenas y acumuladores haciendo la tare
 
 📺 Bitcoin y Criptos
 
-👁️ 4K • 👍 733 • 💬 31 • ⏱️ 14:27 • 1h ago
+👁️ 4K • 👍 733 • 💬 31 • ⏱️ 14:27 • 2h ago
 
 ---
 

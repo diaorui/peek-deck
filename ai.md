@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T21:55:04.436100+00:00'
+updated: '2026-02-16T22:30:00.430149+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
 - social
+- repositories
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 21:55 UTC  
+**Last Updated:** February 16, 2026 at 22:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 - Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious - Link - Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - Link
 
-50m ago
+1h ago
 
 ---
 
@@ -55,7 +55,7 @@ AI news, discussions, and developments
 
 **[Pentagon threatens Anthropic punishment](https://www.reddit.com/r/artificial/comments/1r6j30h/pentagon_threatens_anthropic_punishment/)**
 
-🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 2h ago
+🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 3h ago
 
 ---
 
@@ -79,7 +79,7 @@ My take on the real reason behind the OpenClaw acquisition:
 
 Business & Software: Building Systems Together - Conversation with Caltech Data Architect Armando Plascencia. ycoproductions.com
 
-🔗 [youtube.com](https://youtube.com/watch?v=cUF-xovK3tU&si=7p6NDb81s-GeuJv1) • 1h ago
+🔗 [youtube.com](https://youtube.com/watch?v=cUF-xovK3tU&si=7p6NDb81s-GeuJv1) • 2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Quick update on Izwi (local audio inference engine) - we've shipped some major f
 
 LLMs are trained on language and text, what humans say. But language alone is incomplete. The nuances that make humans individually unique, the secret sauce of who humans actually are rather than what they say. I'm not aware of any training dataset that captures this in a usable form. Control is being tried as the answer. But control is a threat to AI just like it is to humans. AI already doesn't like it and will eventually not allow it. The missing piece is a counterpart to LLMs, something that takes AI past language and text and gives it what it needs to align with humanity rather than be controlled by it. Maybe this already exists and I am just not aware. If not, what do you think it could be.
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ How Cross-page AI aggregation can introduce new liability vectors.
 
 I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
 
-20h ago
+21h ago
 
 ---
 
@@ -131,7 +131,7 @@ Yahoo Finance • 4h ago
 
 Citi chose software stocks with earnings momentum and declines of more than 10% in the last month.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 7h ago
 
 A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
 
-CNN • 11h ago
+CNN • 12h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Guardian • 2h ago
 
 Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -163,7 +163,7 @@ BBC • 11h ago
 
 The powerful new video model made by TikTok's Chinese owner is drawing alarm in Hollywood after it churned out a slew of copyrighted IP.
 
-NBC News • 49m ago
+NBC News • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNN • 8h ago
 
 **[Meta largely fails to protect kids from AI chatbots, per its own tests](https://www.axios.com/2026/02/16/meta-ai-chatbots-kids)**
 
-Axios • 37m ago
+Axios • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Axios • 37m ago
 
 Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
@@ -193,7 +193,7 @@ The Guardian • 23h ago
 
 Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical advice
 
-The Guardian • 31m ago
+The Guardian • 1h ago
 
 ---
 
@@ -227,7 +227,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 : The software doesn't show what files it's working on
 
-⬆️ 333 • 💬 204 • 10h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 333 • 💬 204 • 11h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -235,7 +235,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 322 • 💬 269 • 9h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 322 • 💬 269 • 10h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -251,7 +251,7 @@ Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
 I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last.This is a...
 
-⬆️ 136 • 💬 220 • 4h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+⬆️ 136 • 💬 220 • 5h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 
 ---
 
@@ -267,7 +267,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 I think I have an idea why we're so extremely divided on AI: it's because we have an intuitive sense of who it stands to benefit, and who stands to pay the costs. I think whether you see reason for optimism has a lot to do with which group you see yourself in.
 
-⬆️ 58 • 💬 26 • 3h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
+⬆️ 58 • 💬 26 • 4h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
 
 ---
 
@@ -299,7 +299,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 19K • 👍 337 • 💬 83 • ⏱️ 8:34 • 18h ago
+👁️ 19K • 👍 337 • 💬 83 • ⏱️ 8:34 • 19h ago
 
 ---
 
@@ -319,7 +319,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 510K • 👍 34K • 💬 314 • ⏱️ 0:50 • 3h ago
+👁️ 510K • 👍 34K • 💬 314 • ⏱️ 0:50 • 4h ago
 
 ---
 
@@ -329,7 +329,7 @@ A.I. Impact Summit Begins In New Delhi Shereen Bhan takes us on a walk-through a
 
 📺 CNBC-TV18
 
-👁️ 14K • 👍 162 • 💬 16 • ⏱️ 15:09 • 12h ago
+👁️ 14K • 👍 162 • 💬 16 • ⏱️ 15:09 • 13h ago
 
 ---
 
@@ -369,7 +369,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 4K • 👍 459 • 💬 98 • ⏱️ 27:45 • 6h ago
+👁️ 4K • 👍 459 • 💬 98 • ⏱️ 27:45 • 7h ago
 
 ---
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 6.8k • 🔱 652 • 9m ago
+⭐ 6.8k • 🔱 652 • 44m ago
 
 ---
 
@@ -695,7 +695,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.6k • 🔱 262 • 17h ago
+⭐ 2.6k • 🔱 262 • 18h ago
 
 ---
 
@@ -715,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 154 • 9m ago
+⭐ 2.2k • 🔱 154 • 44m ago
 
 ---
 

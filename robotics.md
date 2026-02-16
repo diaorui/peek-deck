@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T21:55:04.451996+00:00'
+updated: '2026-02-16T22:30:00.445525+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 21:55 UTC  
+**Last Updated:** February 16, 2026 at 22:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robot
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -70,7 +70,7 @@ Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robot
 
 Robotics software engineers here: is it possible to write functional infrastructure software using simulated environments (e.g. Isaac to get sensor data and pipe it into Jetson hw) that can be shifted to a compatible robot without too much hassle?
 
-3h ago
+4h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 
 **[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
 
-Reuters • 13h ago
+Reuters • 14h ago
 
 ---
 
@@ -118,13 +118,13 @@ Reuters • 13h ago
 
 ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
 
-South China Morning Post • 23h ago
+South China Morning Post • 1d ago
 
 ---
 
 **[China Ready to Dazzle the World with Humanoid Robots ‘Super Bowl’ Show](https://www.tipranks.com/news/china-ready-to-dazzle-the-world-with-humanoid-robots-super-bowl-show)**
 
-TipRanks • 9h ago
+TipRanks • 10h ago
 
 ---
 
@@ -140,7 +140,7 @@ Futurism • 1d ago
 
 A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-KWQC • 20h ago
+KWQC • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ Interesting Engineering • 12h ago
 
 The Economics Show 🤜🤛 FT Alphaville
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -180,7 +180,7 @@ Financial Times • 11h ago
 
 JR Automation raised more than $165,000 for local nonprofits in 2025 through its employee-led charity program.
 
-MLive.com • 4h ago
+MLive.com • 5h ago
 
 ---
 
@@ -194,7 +194,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 36K • 👍 2K • 💬 333 • ⏱️ 1:41 • 5h ago
+👁️ 36K • 👍 2K • 💬 333 • ⏱️ 1:41 • 6h ago
 
 ---
 
@@ -244,7 +244,7 @@ Dozens of Unitree humanoid robots just achieved a world first with a fully auton
 
 📺 DPCcars
 
-👁️ 16K • 👍 557 • 💬 141 • ⏱️ 2:07 • 5h ago
+👁️ 16K • 👍 557 • 💬 141 • ⏱️ 2:07 • 6h ago
 
 ---
 

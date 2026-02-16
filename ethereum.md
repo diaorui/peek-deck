@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T21:55:04.449121+00:00'
+updated: '2026-02-16T22:30:00.442682+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 21:55 UTC  
+**Last Updated:** February 16, 2026 at 22:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
 
-2h ago
+3h ago
 
 ---
 
@@ -164,13 +164,13 @@ Yahoo Finance • 1h ago
 
 Ethereum hovers near $2,000 as SOPR signals loss saturation, but falling new address growth and weak inflows continue capping recovery.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqcUQwSiftV_g1Opwdyu0zqiBhKNK_K9Se50OtCeddgh6ReTRR24U6Rm&gaa_ts=699395a5&gaa_sig=TzqKSqUaeGhRv_xoQ8BJ6qNlIXf6xyYyEa1-ScrH0l0lcqrEkWNMg4VJ-7tohsCAuZvJm9J0IZwsEXt1ESTEQQ%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -202,7 +202,7 @@ The Motley Fool • 10h ago
 
 Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
 
-CCN.com • 10h ago
+CCN.com • 11h ago
 
 ---
 
@@ -210,7 +210,7 @@ CCN.com • 10h ago
 
 Layer two solutions are reshaping Ethereum's future by tackling scalability and transaction costs head-on.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 7h ago
 
 ---
 
@@ -224,7 +224,7 @@ TradingView • 1d ago
 
 XRP’s spot strength outpaces derivatives participation, reflecting Korea’s cash-market dominance in crypto sentiment flows.
 
-AMBCrypto • 4h ago
+AMBCrypto • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn h
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 45 • 💬 7 • ⏱️ 2:13 • 7h ago
+👁️ 4K • 👍 45 • 💬 7 • ⏱️ 2:13 • 8h ago
 
 ---
 
@@ -298,7 +298,7 @@ Accès 100% GRATUIT : Nos Algos + Mentorship + VIP (disponible dans quelques jou
 
 📺 Crypto Le Trone
 
-👁️ 7K • 👍 772 • 💬 24 • ⏱️ 10:11 • 6h ago
+👁️ 7K • 👍 772 • 💬 24 • ⏱️ 10:11 • 7h ago
 
 ---
 
@@ -308,7 +308,7 @@ What happens when a blockchain splits? This video explains soft and hard forks, 
 
 📺 CoinGecko
 
-👁️ 1K • 👍 114 • 💬 15 • ⏱️ 4:01 • 10h ago
+👁️ 1K • 👍 114 • 💬 15 • ⏱️ 4:01 • 11h ago
 
 ---
 
