@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T06:06:47.082157+00:00'
+updated: '2026-02-16T07:36:58.960273+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 06:06 UTC  
+**Last Updated:** February 16, 2026 at 07:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -42,15 +42,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-21h ago
-
----
-
-**[Armatron Robotic Arm only One motor amazing mechanical mechanism engineering #roboticarm](https://www.reddit.com/r/robotics/comments/1r5lu49/armatron_robotic_arm_only_one_motor_amazing/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 11h ago
+23h ago
 
 ---
 
@@ -66,7 +58,15 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-13h ago
+15h ago
+
+---
+
+**[Armatron Robotic Arm only One motor amazing mechanical mechanism engineering #roboticarm](https://www.reddit.com/r/robotics/comments/1r5lu49/armatron_robotic_arm_only_one_motor_amazing/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 13h ago
 
 ---
 
@@ -82,25 +82,25 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-23h ago
+1d ago
 
 ---
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-18h ago
-
----
-
-**[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
-
-23h ago
+20h ago
 
 ---
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
 2d ago
+
+---
+
+**[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
+
+1d ago
 
 ---
 
@@ -124,19 +124,27 @@ CNN • 2d ago
 
 ---
 
-**[Video: China's humanoid robot Robotera L7 performs stunning sword dance](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
 
-Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-Interesting Engineering • 15h ago
+KWQC • 6h ago
 
 ---
 
-**[Terrifying Humanoid Robots Are Now Patrolling The Streets Of China](https://www.bgr.com/2098825/humanoid-robot-cops-traffic-controllers-patrolling-china-streets/)**
+**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
 
-EngineAI's PM01 robot was spotted walking with police officers in Shenzen's Nashan District, and it's much more intimidating than its other models.
+Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
 
-bgr.com • 4h ago
+Interesting Engineering • 16h ago
+
+---
+
+**[China Built A Shape-Shifting Robot That Can Grow Like A Human](https://www.bgr.com/2098835/china-shape-shifting-robot-human-inspired-growth/)**
+
+A new robot out of China can change its shape by inflating or deflating, and its creators hope it can be put to use for search and rescue operations.
+
+bgr.com • 11h ago
 
 ---
 
@@ -145,22 +153,6 @@ bgr.com • 4h ago
 MirrorMe Technology's Bolt became the fastest running humanoid robot demonstrated outside computer simulations when it reached a top speed of 22 mph.
 
 Fox News • 2d ago
-
----
-
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
-
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
-
-KWQC • 4h ago
-
----
-
-**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
-
-Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
-
-Futurism • 13h ago
 
 ---
 
@@ -178,11 +170,17 @@ Medtronic • 2d ago
 
 ---
 
-**[Blackburn, Blumenthal probe robotics company after AI toy audio found publicly accessible](https://wcyb.com/news/local/blackburn-blumenthal-probe-robotics-company-after-ai-toy-audio-found-publicly-accessible)**
+**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
 
-U.S. Sens. Marsha Blackburn (R-Tenn.) and Richard Blumenthal (D-Conn.) said they are investigating an artificial intelligence toy manufacturer after what they d
+Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-WCYB • 2d ago
+Futurism • 14h ago
+
+---
+
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
+
+KSN.com • 2d ago
 
 ---
 
@@ -190,23 +188,23 @@ WCYB • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+
+China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+
+📺 AI Revolution
+
+👁️ 8K • 👍 420 • 💬 51 • ⏱️ 12:43 • 8h ago
+
+---
+
 **[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
 
 Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
 
 📺 Fox Business Clips
 
-👁️ 378K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
-
----
-
-**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
-
-A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
-
-📺 AI Revolution
-
-👁️ 145K • 👍 3K • 💬 224 • ⏱️ 11:59 • 5d ago
+👁️ 387K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -216,7 +214,27 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 588K • 👍 8K • 💬 1K • ⏱️ 53:47 • 1d ago
+👁️ 636K • 👍 8K • 💬 1K • ⏱️ 53:47 • 1d ago
+
+---
+
+**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
+
+A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
+
+📺 AI Revolution
+
+👁️ 149K • 👍 3K • 💬 231 • ⏱️ 11:59 • 5d ago
+
+---
+
+**[One Sentence Changed — And the Robot Pulled the Trigger 👇](https://www.youtube.com/watch?v=G3dvzQweA1M)**
+
+One Sentence Changed — And the Robot Pulled the Trigger A YouTuber connected ChatGPT to a walking robot and decided ...
+
+📺 mdscae
+
+👁️ 7.5M • 👍 288K • 💬 2K • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -226,17 +244,7 @@ Such a presentation would highlight how far artificial intelligence, robotics, a
 
 📺 Carros Show
 
-👁️ 15K • 👍 322 • 💬 60 • ⏱️ 10:40 • 5d ago
-
----
-
-**[Boston Dynamics ATLAS Demos 2026 Humanoid Robot Upgrade (AI NEWS)](https://www.youtube.com/watch?v=uTN75z0ixno)**
-
-Boston Dynamics' latest Atlas humanoid robot attempts dramatic parkour flips, dramatically improving spatial awareness and ...
-
-📺 AI News
-
-👁️ 7K • 👍 110 • 💬 23 • ⏱️ 8:03 • 6d ago
+👁️ 15K • 👍 323 • 💬 60 • ⏱️ 10:40 • 5d ago
 
 ---
 
@@ -246,7 +254,7 @@ You think Elon Musk built Optimus to fold laundry? That was a distraction. In 20
 
 📺 By 2050
 
-👁️ 1.2M • 👍 28K • 💬 990 • ⏱️ 0:56 • 6d ago
+👁️ 1.2M • 👍 28K • 💬 994 • ⏱️ 0:56 • 6d ago
 
 ---
 
@@ -256,7 +264,17 @@ Nursing homes can cost over $10000 a month. But imagine paying once… for a rob
 
 📺 By 2050
 
-👁️ 15K • 👍 417 • 💬 18 • ⏱️ 0:59 • 1d ago
+👁️ 15K • 👍 427 • 💬 18 • ⏱️ 0:59 • 1d ago
+
+---
+
+**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
+
+Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
+
+📺 Jeff Geerling
+
+👁️ 101K • 👍 5K • 💬 276 • ⏱️ 12:38 • 2d ago
 
 ---
 
@@ -266,25 +284,7 @@ The Chinese company BrainCo just shared dramatic stress footage with engineers g
 
 📺 Kalil 4.0
 
-👁️ 681 • 👍 10 • 💬 1 • ⏱️ 0:48 • 2h ago
-
----
-
-**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
-
-Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 103 • 💬 8 • ⏱️ 9:26 • 6d ago
-
----
-
-**[He just visits home with a tiny robot 😭❤️#longdistance #siblings #camera #robot](https://www.youtube.com/watch?v=XqisM4FeME8)**
-
-📺 Romi Pal
-
-👁️ 153K • 👍 3K • 💬 38 • ⏱️ 0:37 • 1d ago
+👁️ 1K • 👍 29 • 💬 2 • ⏱️ 0:48 • 3h ago
 
 ---
 

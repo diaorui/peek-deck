@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T06:06:47.072860+00:00'
+updated: '2026-02-16T07:36:58.951082+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 06:06 UTC  
+**Last Updated:** February 16, 2026 at 07:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,459.44
+### $68,467.01
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -3.3%  
-**7d:** -0.6%  
-**30d:** -27.0%  
-**90d:** -25.0%  
-**1y:** -28.5%  
+**24h:** -2.6%  
+**7d:** -0.3%  
+**30d:** -26.8%  
+**90d:** -24.8%  
+**1y:** -28.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1374.00B
+**Market Cap:** $1370.42B
 Rank #1
 
-**Circulating Supply:** 19,990,075 BTC
+**Circulating Supply:** 19,990,131 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.5%
+-45.6%
 
 **All-Time Low:** $67.81
-+101196.3%
++101011.9%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-8h ago
+10h ago
 
 ---
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -95,19 +95,19 @@ If you're thinking about spending some sats, usually over r/thelightningnetwork 
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-17h ago
+19h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -115,7 +115,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the quest in real-time.
 
-🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 8h ago
+🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 9h ago
 
 ---
 
@@ -123,7 +123,7 @@ A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the q
 
 Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
 
-11h ago
+12h ago
 
 ---
 
@@ -131,23 +131,23 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 
 I’m thinking that a very good bitcoin stacking strategy would be to stack dollars in a HYSA and then when bitcoin dips below the 200 week SMA to begin a heavy DCA. Stopping when it goes back above. Thoughts?
 
-3h ago
-
----
-
-**[Anyone willing to spend btc on food?](https://www.reddit.com/r/Bitcoin/comments/1r5w6ks/anyone_willing_to_spend_btc_on_food/)**
-
-I working on this app to show where you can spend your btc when it comes to food in the South East Asia. Primarily in Indonesia Malaysia Philippine Thailand and Singapore first. I am thinking of adding more value to it for other services. Any suggestions?
-
 4h ago
 
 ---
 
-**[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
+**[Daily Discussion, February 16, 2026](https://www.reddit.com/r/Bitcoin/comments/1r61u0b/daily_discussion_february_16_2026/)**
 
-... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-23h ago
+1h ago
+
+---
+
+**[Bitcoin volatility is pick up again. Are you expecting a breakout or another fack pump?](https://www.reddit.com/r/Bitcoin/comments/1r62f2k/bitcoin_volatility_is_pick_up_again_are_you/)**
+
+Are you expecting a breakout or another fack pump?
+
+54m ago
 
 ---
 
@@ -159,7 +159,45 @@ I working on this app to show where you can spend your btc when it comes to food
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 15h ago
+CNBC • 16h ago
+
+---
+
+**[Ripple news: XRP investors likely bought the dip after the recent crash](https://www.coindesk.com/markets/2026/02/15/xrp-is-outrunning-bitcoin-and-ether-after-investors-piled-into-the-recent-crash)**
+
+XRP is outperforming bitcoin and ether following signs of dip buying during recent crash.
+
+CoinDesk • 17h ago
+
+---
+
+**[TeraWulf Recasts Bitcoin Roots Into AI Power Capacity Opportunity](https://finance.yahoo.com/news/terawulf-recasts-bitcoin-roots-ai-070700946.html)**
+
+TeraWulf (NasdaqCM:WULF) is shifting its core business from bitcoin mining to building and operating AI focused infrastructure. The company has recently sold nearly all of its bitcoin holdings and acquired new industrial sites intended to roughly double its available power capacity. These moves signal a company wide pivot toward serving power hungry AI workloads rather than relying on cryptocurrency mining economics. TeraWulf, trading at $16.26, is repositioning itself as an AI...
+
+Yahoo Finance • 29m ago
+
+---
+
+**[Bitcoin Leverage Heats Up as Traders Bet on Price Rebound](https://finance.yahoo.com/news/bitcoin-leverage-heats-traders-bet-042400767.html)**
+
+Bitcoin's futures basis has widened amid retail dip buying surges, but one expert warns the setup may end in an "over-leveraged shakeout."
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin Falling to $60,000 Could Spark Fresh Liquidation Spiral](https://www.bloomberg.com/news/articles/2026-02-13/bitcoin-falling-to-60-000-could-spark-fresh-liquidation-spiral)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
+
+Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
+
+BBC • 1d ago
 
 ---
 
@@ -169,63 +207,27 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Leverage Heats Up as Traders Bet on Price Rebound](https://finance.yahoo.com/news/bitcoin-leverage-heats-traders-bet-042400767.html)**
-
-Bitcoin's futures basis has widened amid retail dip buying surges, but one expert warns the setup may end in an "over-leveraged shakeout."
-
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqdNf54W1o50nD4tXi4v9eQi_oENmKlTWUQdiOtPUL13Y4rkPED4P1gv&gaa_ts=6992b761&gaa_sig=ivj434h_rdlok55UOyhOjIiVkiWVEnkLDEPtDkG57n6AhSmjaVY_qx3MmW4hGsI3ladArDuzacYu6Ya-gnj14Q%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-MLive.com • 22h ago
+MLive.com • 23h ago
 
 ---
 
-**[Bitcoin Recovery Likely To Be 'Slow And Painful,' Analysts Warn: Watch This Key Level](https://finance.yahoo.com/news/bitcoin-recovery-likely-slow-painful-233113604.html)**
+**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
 
-Influential crypto traders Trader Mayne and DonAlt maintain a cautious, bearish-to-neutral stance on Bitcoin (CRYPTO: BTC), warning that a sharp V-shaped recovery is unlikely. ‘Slow, Grinding' Correction Ahead In their latest podcast, both analysts said they expect a prolonged, choppy...
-
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
-
-Investor's Business Daily • 2d ago
-
----
-
-**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
-
-Key PointsBitcoin's most important features probably won't change much between now and 2036.
+Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
 Nasdaq • 1d ago
 
 ---
 
-**[Saylor Hints at Another Strategy Bitcoin Buy](https://bitbo.io/news/saylor-signals-strategy-bitcoin-buy/)**
+**[Bitcoin After the Cycle Peak: What Comes Next and How We’re Positioning](https://io-fund.com/crypto/bitcoin-after-cycle-peak)**
 
-Michael Saylor signaled another Strategy Bitcoin purchase, extending a 12-week buying streak even as bitcoin and crypto-treasury stocks slide.
+Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
 
-Bitbo • 10h ago
-
----
-
-**[Bitcoin Price Faces Another Rejection As Upside Momentum Fades](https://www.tradingview.com/news/newsbtc:e114cf6e6094b:0-bitcoin-price-faces-another-rejection-as-upside-momentum-fades/)**
-
-Bitcoin price failed to stay above $70,000 and started another decline. BTC is now trading below $68,800 and might extend losses in the near term.Bitcoin Price Dips AgainBitcoin price failed to remain stable above the $70,000 zone. BTC started a fresh decline and traded below the $69,200 support zo…
-
-TradingView • 3h ago
+IO Fund • 3d ago
 
 ---
 
@@ -319,7 +321,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 97 • ⏱️ 11:16 • 7h ago
+👁️ 29K • 👍 2K • 💬 204 • ⏱️ 11:16 • 8h ago
 
 ---
 
@@ -329,17 +331,7 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 3K • 👍 112 • 💬 15 • ⏱️ 12:20 • 11h ago
-
----
-
-**[Brace Up for a WILD RIDE! Bitcoin&#39;s About to SHOCK Everyone - Cathie Wood &amp; Lyn Alden](https://www.youtube.com/watch?v=nk4B1tnobQE)**
-
-We are in one of the most important moments in Bitcoin's history. The headlines are confused. The volatility is loud. But the signal ...
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 234 • 💬 8 • ⏱️ 17:15 • 1d ago
+👁️ 4K • 👍 115 • 💬 17 • ⏱️ 12:20 • 13h ago
 
 ---
 
@@ -349,7 +341,17 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 47K • 👍 2K • ⏱️ 21:49 • 2d ago
+👁️ 48K • 👍 2K • ⏱️ 21:49 • 2d ago
+
+---
+
+**[Brace Up for a WILD RIDE! Bitcoin&#39;s About to SHOCK Everyone - Cathie Wood &amp; Lyn Alden](https://www.youtube.com/watch?v=nk4B1tnobQE)**
+
+We are in one of the most important moments in Bitcoin's history. The headlines are confused. The volatility is loud. But the signal ...
+
+📺 Savvy Finance
+
+👁️ 7K • 👍 237 • 💬 8 • ⏱️ 17:15 • 1d ago
 
 ---
 
@@ -359,17 +361,17 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 31K • 👍 1K • 💬 479 • ⏱️ 30:55 • 15h ago
+👁️ 33K • 👍 1K • 💬 732 • ⏱️ 30:55 • 17h ago
 
 ---
 
-**[BEST 4 Altcoins (USA Government MAJOR Announcement)](https://www.youtube.com/watch?v=zsz1NAGvtgQ)**
+**[$13 Trillion BlackRock Says ETFs Are Buying the Bitcoin Dip!](https://www.youtube.com/watch?v=KpHb3DCWVgE)**
 
-Nick Valdez looks at the latest news from the CFTC. This news will have a massive impact on 4 different altcoins! Lets look at the ...
+Markets just erased $3.6 trillion in 90 minutes while Bitcoin dropped 5 percent and silver collapsed 10 percent. At the same time, ...
 
-📺 Discover Crypto
+📺 Simply Bitcoin
 
-👁️ 14K • 👍 509 • 💬 78 • ⏱️ 7:14 • 14h ago
+👁️ 27K • 👍 2K • 💬 95 • ⏱️ 12:56 • 2d ago
 
 ---
 
@@ -379,37 +381,37 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 38K • 👍 1K • 💬 225 • ⏱️ 12:55 • 17h ago
+👁️ 40K • 👍 2K • 💬 240 • ⏱️ 12:55 • 18h ago
 
 ---
 
-**[WARNING:😲 S&amp;P 500 Crash to 6100 &amp; Bitcoin to $35k? (Master Trader Analysis)](https://www.youtube.com/watch?v=9BC56O2y3nc)**
+**[BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PYf44w0tFXc)**
 
-Is the stock market topping out? Master technical analyst Gareth Soloway breaks down the alarming signals on the S&P 500, ...
+BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Financial Funda
+📺 Crypto World
 
-👁️ 10K • 👍 323 • 💬 5 • ⏱️ 2:23 • 2d ago
-
----
-
-**[THE FINAL BITCOIN MOVE... (prepare accordingly)](https://www.youtube.com/watch?v=qFEIPmIEc9A)**
-
-WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DISCOUNT & GET FREE $25 ✓My ...
-
-📺 Crypto Rover
-
-👁️ 12K • 👍 732 • 💬 41 • ⏱️ 10:24 • 1d ago
+👁️ 3K • 👍 199 • 💬 12 • ⏱️ 17:15 • 5h ago
 
 ---
 
-**[Where Bitcoin Will Bottom](https://www.youtube.com/watch?v=aM8RtdVJgcw)**
+**[Tom Lee Finally Breaks His Silence On The Bitcoin Crash — &quot;This Changes Everything&quot;](https://www.youtube.com/watch?v=Ve9X-oU48II)**
 
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+Tom Lee, Fundstrat's Head of Research, finally breaks his silence on the Bitcoin crash. After weeks of silence while Bitcoin ...
 
-📺 Benjamin Cowen
+📺 Money Talks
 
-👁️ 59K • 👍 776 • 💬 73 • ⏱️ 0:57 • 2d ago
+👁️ 5K • 👍 86 • 💬 18 • ⏱️ 11:16 • 1d ago
+
+---
+
+**[Trader LOSES MILLIONS Betting AGAINST Bitcoin](https://www.youtube.com/watch?v=da33ju_Wm2s)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+
+📺 Discover Crypto
+
+👁️ 22K • 👍 132 • 💬 11 • ⏱️ 0:12 • 2d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T06:06:47.078905+00:00'
+updated: '2026-02-16T07:36:58.957054+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 06:06 UTC  
+**Last Updated:** February 16, 2026 at 07:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -6.4%  
-**7d:** -3.1%  
-**30d:** -40.4%  
-**90d:** -35.3%  
-**1y:** -28.6%  
+**24h:** -4.5%  
+**7d:** -2.2%  
+**30d:** -39.8%  
+**90d:** -34.7%  
+**1y:** -28.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $237.30B
+**Market Cap:** $238.26B
 Rank #2
 
 **Circulating Supply:** 120,692,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.3%
+-60.1%
 
 **All-Time Low:** $0.43
-+453628.7%
++455882.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-17h ago
+19h ago
 
 ---
 
@@ -182,7 +182,7 @@ Nasdaq • 1d ago
 
 ---
 
-**[Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
 
 Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
@@ -190,17 +190,11 @@ CoinDesk • 2d ago
 
 ---
 
-**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
+**[Ethereum Price Reverses Under $2,000, Bulls On The Back Foot](https://www.tradingview.com/news/newsbtc:37e79c397094b:0-ethereum-price-reverses-under-2-000-bulls-on-the-back-foot/)**
 
-TradingView • 1d ago
+Ethereum price started a fresh decline and traded below $2,000. ETH is now consolidating and remains at risk of another decline below $1,940.Ethereum Price Dips AgainEthereum price failed to stay above $2,050 and started a fresh decline, like Bitcoin. ETH price traded below the $2,040 and $2,020 le…
 
----
-
-**[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
-
-Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
-
-BeInCrypto • 1d ago
+TradingView • 4h ago
 
 ---
 
@@ -212,11 +206,19 @@ The Motley Fool • 1d ago
 
 ---
 
+**[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
+
+Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
+
+BeInCrypto • 1d ago
+
+---
+
 **[Thomas Thiery: Fossil enhances transaction inclusion in Ethereum, MEV threatens decentralization, and upcoming changes will reshape block construction | Epicenter](https://cryptobriefing.com/thomas-thiery-fossil-enhances-transaction-inclusion-in-ethereum-mev-threatens-decentralization-and-upcoming-changes-will-reshape-block-construction-epicenter/)**
 
 Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
 
-Crypto Briefing • 6h ago
+Crypto Briefing • 8h ago
 
 ---
 
@@ -232,23 +234,13 @@ AMBCrypto • 2d ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PYf44w0tFXc)**
-
-BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 1K • 👍 143 • 💬 10 • ⏱️ 17:15 • 3h ago
-
----
-
 **[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
 
 Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https://dacfp.com/ Join us at Bitcoin Conference ...
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 491 • ⏱️ 34:57 • 1d ago
+👁️ 59K • 👍 3K • 💬 494 • ⏱️ 34:57 • 1d ago
 
 ---
 
@@ -258,7 +250,17 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 3K • 👍 169 • 💬 21 • ⏱️ 17:52 • 8h ago
+👁️ 3K • 👍 208 • 💬 36 • ⏱️ 17:52 • 10h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PYf44w0tFXc)**
+
+BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 199 • 💬 12 • ⏱️ 17:15 • 5h ago
 
 ---
 
@@ -268,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 781 • 👍 80 • 💬 5 • ⏱️ 4:44 • 4h ago
+👁️ 2K • 👍 129 • 💬 9 • ⏱️ 4:44 • 5h ago
 
 ---
 
@@ -278,7 +280,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 100 • 💬 5 • ⏱️ 17:25 • 1d ago
+👁️ 3K • 👍 101 • 💬 5 • ⏱️ 17:25 • 1d ago
 
 ---
 
@@ -288,7 +290,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 2K • 👍 78 • 💬 40 • ⏱️ 13:02 • 16h ago
+👁️ 2K • 👍 79 • 💬 40 • ⏱️ 13:02 • 17h ago
 
 ---
 
@@ -298,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 545 • 👍 18 • 💬 2 • ⏱️ 4:36 • 19h ago
+👁️ 587 • 👍 18 • 💬 2 • ⏱️ 4:36 • 21h ago
 
 ---
 
@@ -308,7 +310,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 181 • 💬 5 • ⏱️ 4:45 • 15h ago
+👁️ 3K • 👍 182 • 💬 5 • ⏱️ 4:45 • 17h ago
 
 ---
 
@@ -318,17 +320,17 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 3K • 👍 258 • 💬 16 • ⏱️ 5:42 • 1d ago
+👁️ 3K • 👍 259 • 💬 17 • ⏱️ 5:42 • 1d ago
 
 ---
 
-**[Mathematician Fred Krueger: Crypto Price Predictions Are About To Go INSANE!](https://www.youtube.com/watch?v=uL0mEsAXcSY)**
+**[🚨 BTC &amp; ETH: WARNING!!! IT JUST GOT WORSE!!!!!](https://www.youtube.com/watch?v=p69c-zjC09g)**
 
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
+Crypto and bitcoin crash is forcing liquidations. This just got worse and we are seeing bear market cascading effect just like the ...
 
-📺 Library Of Wealth
+📺 Thomas Kralow
 
-👁️ 18K • 👍 570 • 💬 146 • ⏱️ 14:31 • 3d ago
+👁️ 30K • 👍 3K • 💬 53 • ⏱️ 10:34 • 2d ago
 
 ---
 
