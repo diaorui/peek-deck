@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T14:26:19.897565+00:00'
+updated: '2026-02-16T15:09:23.011667+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 14:26 UTC  
+**Last Updated:** February 16, 2026 at 15:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $243.63B
+**Market Cap:** $239.13B
 Rank #2
 
 **Circulating Supply:** 120,692,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.2%
+-59.9%
 
 **All-Time Low:** $0.43
-+466038.1%
++457622.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fundstrat’s Tom Lee says crypto winter is either already over or will end by April, pointing to late-cycle sentiment and improving macro. He also highlighted BitMine’s strategy of weekly ETH accumulation and staking as a long-term institutional bet on Ethereum. Article: https://btcusa.com/tom-lee-crypto-winter-likely-ends-by-april-as-ethereum-strategy-expands/ Do you agree we’re near the end of this cycle correction?
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Been holding ETH for a while and want to move some around or swap for other assets without going through CEXs. Most platforms these days ask for KYC, which I'd rather avoid if possible. What's the smoothest way to swap ETH directly from wallet? Looking for something non-custodial, decent rates, and not too complicated. If you've done any swaps recently, what actually worked well for you?
 
-13h ago
+14h ago
 
 ---
 
@@ -168,7 +168,7 @@ Nasdaq • 1d ago
 
 **[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqeDNCKElS0GEMiYzBuOWMbPOMN_MNVyEAAGbji7_B8pfTU241k9da_O&gaa_ts=69932c79&gaa_sig=I7QZnipJTXcp1YYzWzJbWpw5ke7fa22WF_7PxKZUZPQ8_pB2m9-Eiymjn-xwVAZAP2vNaywb6c1IwBZSeiAl-A%3D%3D)**
 
-Barron's • 4h ago
+Barron's • 5h ago
 
 ---
 
@@ -184,7 +184,7 @@ Decrypt • 2d ago
 
 Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 3h ago
 
 Key PointsWhile Ethereum is primarily recognized for its prowess in DeFi, it is rapidly adapting for the AI future.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -208,7 +208,7 @@ dlnews.com • 3d ago
 
 Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-CoinDesk • 2d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -232,13 +232,43 @@ BeInCrypto • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Wher5oIUXsg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 626 • 👍 88 • 💬 5 • ⏱️ 6:56 • 1h ago
+
+---
+
 **[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
 
 Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https://dacfp.com/ Join us at Bitcoin Conference ...
 
 📺 Altcoin Daily
 
-👁️ 60K • 👍 3K • 💬 503 • ⏱️ 34:57 • 1d ago
+👁️ 61K • 👍 3K • 💬 504 • ⏱️ 34:57 • 1d ago
+
+---
+
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=sfZGxKbzWBo)**
+
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+
+📺 Trade with Burner
+
+👁️ 4K • 👍 360 • 47m ago
+
+---
+
+**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=PxEZjvY_G_M)**
+
+Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn how to claim your $Eth from the official ...
+
+📺 World Liberty Financial
+
+👁️ 503 • 👍 79 • 💬 7 • ⏱️ 2:13 • 44m ago
 
 ---
 
@@ -248,17 +278,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 4K • 👍 217 • 💬 38 • ⏱️ 17:52 • 16h ago
-
----
-
-**[ETH FLUSH WARNING🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=dWcsvKGx7eE)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 86 • 👍 10 • 💬 1 • ⏱️ 5:04 • 4h ago
+👁️ 4K • 👍 227 • 💬 39 • ⏱️ 17:52 • 17h ago
 
 ---
 
@@ -278,7 +298,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 237 • 💬 28 • ⏱️ 17:15 • 12h ago
+👁️ 7K • 👍 242 • 💬 35 • ⏱️ 17:15 • 12h ago
 
 ---
 
@@ -288,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 172 • 💬 10 • ⏱️ 4:44 • 12h ago
+👁️ 3K • 👍 173 • 💬 10 • ⏱️ 4:44 • 13h ago
 
 ---
 
@@ -298,37 +318,17 @@ What happens when a blockchain splits? This video explains soft and hard forks, 
 
 📺 CoinGecko
 
-👁️ 277 • 👍 41 • 💬 10 • ⏱️ 4:01 • 3h ago
+👁️ 567 • 👍 75 • 💬 10 • ⏱️ 4:01 • 4h ago
 
 ---
 
-**[BE READY FOR THESE MOVES NEXT WEEK🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_8FCLY15qBc)**
+**[Something HUGE Is About To Happen To Bitcoin &amp; Ethereum Interest Rates &amp; Gold Are At Play This Time](https://www.youtube.com/watch?v=8pZTBfidmaA)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+As far as every single analyst and CEO has said.. all signs seem to be pointing to much higher network activity on some of the ...
 
-📺 Cilinix Crypto
+📺 The Modern Investor
 
-👁️ 626 • 👍 18 • 💬 2 • ⏱️ 4:36 • 1d ago
-
----
-
-**[Russell 2000 Breakout: The Signal That Could Ignite Ethereum w/ John Gillen](https://www.youtube.com/watch?v=DjhaV_LhCUA)**
-
-Free Milk Road Newsletters: ...
-
-📺 Milk Road
-
-👁️ 3K • 👍 87 • 💬 40 • ⏱️ 13:02 • 1d ago
-
----
-
-**[XRP ETH BTC 🟢BUYING NOW BEFORE🟢](https://www.youtube.com/watch?v=DfnDlUARYXM)**
-
-xrp #bitcoin #hbar #xlm #eth SEND ME YOUR BEST CRYPTO MEMES HERE   ...
-
-📺 CRYPTO with KLAUS
-
-👁️ 5K • 👍 419 • 💬 76 • ⏱️ 15:37 • 15h ago
+👁️ 3K • 👍 516 • 💬 41 • ⏱️ 30:43 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T14:26:19.891556+00:00'
+updated: '2026-02-16T15:09:23.005627+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- cryptocurrency
 - news
+- social
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 14:26 UTC  
+**Last Updated:** February 16, 2026 at 15:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1399.31B
+**Market Cap:** $1369.11B
 Rank #1
 
-**Circulating Supply:** 19,990,281 BTC
+**Circulating Supply:** 19,990,321 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--44.5%
+-45.7%
 
 **All-Time Low:** $67.81
-+103026.4%
++100920.5%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-4h ago
+5h ago
 
 ---
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we saved from our 2 sons (3 and 5 years old) from Birthday presents and so one. I am thinking about putting this Money in bitcoin and leave it untouched until they are 20. I started with nearly nothing in my life. I dont want them in the Same Situation. Am I doing the Right thing as a Father ?
 
-2h ago
+3h ago
 
 ---
 
@@ -109,13 +109,13 @@ Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-16h ago
+17h ago
 
 ---
 
 **[Today is a very special day!!! My 15 year old son started his Bitcoin venture 💙. I told him to stack them monthly 🤑🤑 lil Satoshis](https://www.reddit.com/r/Bitcoin/comments/1r5z5r1/today_is_a_very_special_day_my_15_year_old_son/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -123,7 +123,7 @@ If you're thinking about spending some sats, usually over r/thelightningnetwork 
 
 Are you expecting a breakout or another fack pump?
 
-7h ago
+8h ago
 
 ---
 
@@ -135,13 +135,13 @@ Are you expecting a breakout or another fack pump?
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-23h ago
+1d ago
 
 ---
 
 **[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
 
-15m ago
+58m ago
 
 ---
 
@@ -153,7 +153,7 @@ Are you expecting a breakout or another fack pump?
 
 Traders are bracing for a heavy week of macroeconomic events, including Fed minutes and the core PCE inflation report.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -161,7 +161,7 @@ CoinDesk • 7h ago
 
 Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Block • 4h ago
 
 Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
 
-The Atlantic • 2h ago
+The Atlantic • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Atlantic • 2h ago
 
 Key PointsBitcoin's price has been falling for a while now.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -193,7 +193,7 @@ BBC • 1d ago
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -213,7 +213,7 @@ MLive.com • 1d ago
 
 **[Coinbase Stock Is No Longer at the Mercy of Bitcoin. Cathie Wood’s ARK Is Buying.](https://www.barrons.com/articles/coinbase-stock-bitcoin-cathie-wood-ark-c910a5d2?gaa_at=eafs&gaa_n=AWEtsqc3eDd3kOuIaZ5NC-cGPU-g5mUvJN2L1lMSY1rdegiAqquOsctzfC0A&gaa_ts=69932c78&gaa_sig=Em02hEV2fLFvOh9va2Bam8C1AY7WkqsUTgojibUmCCAqk2VLew-dlO2i5k3bA2tnqROVWcc63o50yZWGW2mQYg%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -221,7 +221,7 @@ Barron's • 2h ago
 
 Michael Saylor signaled another Strategy Bitcoin purchase, extending a 12-week buying streak even as bitcoin and crypto-treasury stocks slide.
 
-Bitbo • 18h ago
+Bitbo • 19h ago
 
 ---
 
@@ -315,7 +315,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 225 • ⏱️ 11:16 • 15h ago
+👁️ 41K • 👍 2K • 💬 231 • ⏱️ 11:16 • 16h ago
 
 ---
 
@@ -325,7 +325,7 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 5K • 👍 126 • 💬 36 • ⏱️ 12:20 • 19h ago
+👁️ 6K • 👍 129 • 💬 37 • ⏱️ 12:20 • 20h ago
 
 ---
 
@@ -335,17 +335,7 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 48K • 👍 2K • ⏱️ 21:49 • 2d ago
-
----
-
-**[Brace Up for a WILD RIDE! Bitcoin&#39;s About to SHOCK Everyone - Cathie Wood &amp; Lyn Alden](https://www.youtube.com/watch?v=nk4B1tnobQE)**
-
-We are in one of the most important moments in Bitcoin's history. The headlines are confused. The volatility is loud. But the signal ...
-
-📺 Savvy Finance
-
-👁️ 7K • 👍 240 • 💬 9 • ⏱️ 17:15 • 1d ago
+👁️ 49K • 👍 2K • 💬 95 • ⏱️ 21:49 • 2d ago
 
 ---
 
@@ -355,7 +345,27 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 36K • 👍 1K • 💬 754 • ⏱️ 30:55 • 1d ago
+👁️ 38K • 👍 1K • 💬 789 • ⏱️ 30:55 • 1d ago
+
+---
+
+**[The Crypto Crash Everyone Expects Won’t Happen](https://www.youtube.com/watch?v=Q45j9ivWo9g)**
+
+Bitcoin bottom in? Buy now says analyst. Altcoins heating up! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 5K • 👍 517 • 💬 42 • ⏱️ 17:35 • 3h ago
+
+---
+
+**[Bitcoin Bear Market Resistance Band](https://www.youtube.com/watch?v=1E2cJu2ZjEs)**
+
+In January, we outlined a late-cycle restrictive regime and leaned cautious on risk. Since then, BTC has declined materially and ...
+
+📺 Benjamin Cowen
+
+👁️ 39K • 👍 3K • 💬 133 • ⏱️ 13:07 • 9h ago
 
 ---
 
@@ -365,17 +375,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 5K • 👍 436 • 💬 77 • ⏱️ 11:04 • 5h ago
-
----
-
-**[BEST 4 Altcoins (USA Government MAJOR Announcement)](https://www.youtube.com/watch?v=zsz1NAGvtgQ)**
-
-Nick Valdez looks at the latest news from the CFTC. This news will have a massive impact on 4 different altcoins! Lets look at the ...
-
-📺 Discover Crypto
-
-👁️ 17K • 👍 569 • 💬 239 • ⏱️ 7:14 • 22h ago
+👁️ 7K • 👍 564 • 💬 81 • ⏱️ 11:04 • 6h ago
 
 ---
 
@@ -385,27 +385,27 @@ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/W
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 278 • 💬 58 • ⏱️ 7:01 • 9h ago
+👁️ 4K • 👍 329 • 💬 62 • ⏱️ 7:01 • 10h ago
 
 ---
 
-**[The Dollar Is DYING But Bitcoin Isn&#39;t Rallying - Here&#39;s The Scary Reason Why](https://www.youtube.com/watch?v=2PMVBDU64_Y)**
+**[Trader LOSES MILLIONS Betting AGAINST Bitcoin](https://www.youtube.com/watch?v=da33ju_Wm2s)**
 
-The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC no longer inversely correlated with the DXY?
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
 
-📺 Coin Bureau
+📺 Discover Crypto
 
-👁️ 44K • 👍 2K • 💬 237 • ⏱️ 12:55 • 1d ago
+👁️ 24K • 👍 135 • 💬 16 • ⏱️ 0:12 • 2d ago
 
 ---
 
-**[Where Bitcoin Will Bottom](https://www.youtube.com/watch?v=aM8RtdVJgcw)**
+**[BEST 4 Altcoins (USA Government MAJOR Announcement)](https://www.youtube.com/watch?v=zsz1NAGvtgQ)**
 
-Into The Cryptoverse Premium: https://intothecryptoverse.com Into The Cryptoverse Newsletter: ...
+Nick Valdez looks at the latest news from the CFTC. This news will have a massive impact on 4 different altcoins! Lets look at the ...
 
-📺 Benjamin Cowen
+📺 Discover Crypto
 
-👁️ 61K • 👍 804 • 💬 75 • ⏱️ 0:57 • 2d ago
+👁️ 17K • 👍 574 • 💬 241 • ⏱️ 7:14 • 23h ago
 
 ---
 

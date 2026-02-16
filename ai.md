@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T14:26:19.883016+00:00'
+updated: '2026-02-16T15:09:22.997076+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 14:26 UTC  
+**Last Updated:** February 16, 2026 at 15:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
 
-🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 11h ago
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on illegal content in the United Kingdom, as the government promises swift action to make the internet safer for children.
 
-🔗 [CNN](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 5m ago
+🔗 [CNN](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 48m ago
 
 ---
 
@@ -65,7 +65,7 @@ AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on ille
 
 What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real time video calls with their own customizable AI companion?
 
-8h ago
+9h ago
 
 ---
 
@@ -73,7 +73,7 @@ What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real
 
 A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
 
-🔗 [CNN](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
+🔗 [CNN](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ A sell-off rippled through software, real estate and trucking stocks this past w
 
 How Cross-page AI aggregation can introduce new liability vectors.
 
-🔗 [Code Input](https://codeinput.com/blog/google-seo) • 4h ago
+🔗 [Code Input](https://codeinput.com/blog/google-seo) • 5h ago
 
 ---
 
@@ -89,7 +89,7 @@ How Cross-page AI aggregation can introduce new liability vectors.
 
 OKAY!! Had a weird experience with an Al phone screening interviewer. Here's what happened: I was away for a while. When I came back to check my phone. There was a missed called and an email. I first checked my email. It said "Recruiter tried reaching out....". Seemed normal. I called back and instantly a voice started speaking "Am I speaking to {.}?" I was 100% sure it's Al right away. I went along thinking "It won't hurt speaking to an Al recruiter lol". Then it started my screening. Asked basic questions. The funny thing is that it kept on asking me questions about my past employment, past salary, last working date even when I told her that I have no prior work experience and I'm a total fresher. The Al was adamant and kept going. I was irritated and then I hung up. Such a weird experience. Why would companies even do such things. Even if they do, WHY SUCH A DUMB AI!!!!
 
-59m ago
+1h ago
 
 ---
 
@@ -123,7 +123,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 **[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 4h ago
 
 “We think application software faces an existential threat from AI,” said Evans, whose $12 billion global technology fund beat 99% of peers over one year and 97% over five.  An exchange-traded fund tracking the US software sector is down 22%, a sharp contrast to semiconductor stocks that have soared as AI spurs computing demand.  Application software, which helps users perform tasks such as writing documents and managing payrolls, looks particularly at risk, according to Evans.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Yahoo Finance • 5h ago
 
 Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Guardian • 15h ago
 
 AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on illegal content in the United Kingdom, as the government promises swift action to make the internet safer for children.
 
-CNN • 32m ago
+CNN • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNN • 32m ago
 
 Keir Starmer to warn tech companies that ‘no platform gets a free pass’ after deepfake scandal involving Grok
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -163,7 +163,7 @@ Financial Times • 15h ago
 
 TJM Institutional Services director James Iuorio joins ‘Mornings with Maria’ to discuss market volatility, AI-driven job shifts, gold’s rally and the recent crypto sell-off.
 
-Fox Business • 26m ago
+Fox Business • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Fox Business • 26m ago
 
 Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNBC • 1h ago
 
 "There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum," Obama said in an interview that was posted on YouTube Saturday.
 
-NPR • 19h ago
+NPR • 20h ago
 
 ---
 
@@ -249,7 +249,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 139 • 💬 100 • 1h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 139 • 💬 100 • 2h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -273,7 +273,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 : The software doesn't show what files it's working on
 
-⬆️ 116 • 💬 58 • 3h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 116 • 💬 58 • 4h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -281,53 +281,13 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 ## YouTube Videos: "ai"
 
-**[AI agent hype will bankrupt you](https://www.youtube.com/watch?v=U5FPhnKMcKs)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 53K • 👍 3K • 💬 724 • ⏱️ 16:13 • 13h ago
-
----
-
-**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
-
-An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
-
-📺 CBS LA
-
-👁️ 98K • 👍 1K • 💬 467 • ⏱️ 3:04 • 2d ago
-
----
-
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
-
-Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
-
-📺 Fox Business Clips
-
-👁️ 394K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
-
----
-
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
-
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
-
-📺 AI Revolution
-
-👁️ 13K • 👍 540 • 💬 60 • ⏱️ 12:43 • 14h ago
-
----
-
 **[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
 
 news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
 
 📺 Tyrone Magnus
 
-👁️ 30K • 👍 2K • 💬 369 • ⏱️ 9:43 • 16h ago
+👁️ 31K • 👍 2K • 💬 379 • ⏱️ 9:43 • 17h ago
 
 ---
 
@@ -337,17 +297,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 13K • 👍 250 • 💬 57 • ⏱️ 8:34 • 11h ago
-
----
-
-**[AI Built a FULL Game Boy in 24 Hours](https://www.youtube.com/watch?v=rdL5GNjYuME)**
-
-2026 AI is getting completely out of hand. This week alone: GLM-5 built a full Game Boy emulator in 24 hours, SeeDance 2.0 is ...
-
-📺 MattVidPro AI
-
-👁️ 6K • 👍 340 • 💬 37 • ⏱️ 25:55 • 16h ago
+👁️ 14K • 👍 264 • 💬 63 • ⏱️ 8:34 • 11h ago
 
 ---
 
@@ -357,17 +307,27 @@ Channel members can watch the full video: https://www.youtube.com/@samharrisorg/
 
 📺 Sam Harris
 
-👁️ 229K • 👍 5K • 💬 2K • ⏱️ 9:12 • 2d ago
+👁️ 232K • 👍 5K • 💬 3K • ⏱️ 9:12 • 2d ago
 
 ---
 
-**[This is how AI fears are impacting real estate services](https://www.youtube.com/watch?v=QtMxxWxvNkk)**
+**[Bruce Lee VS Jackie Chan | Full AI animation](https://www.youtube.com/watch?v=O31jAeTHAxc)**
 
-MacroMavens president Stephanie Pomboy analyzes where AI is headed on 'Mornings with Maria.' #fox #media #breakingnews ...
+Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce Lee in the ultimate showdown for martial ...
 
-📺 Fox Business Clips
+📺 ShadowRivals
 
-👁️ 13K • 👍 251 • 💬 73 • ⏱️ 5:17 • 22h ago
+👁️ 67K • 👍 1K • 💬 140 • ⏱️ 2:02 • 2d ago
+
+---
+
+**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
+
+An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
+
+📺 CBS LA
+
+👁️ 100K • 👍 1K • 💬 474 • ⏱️ 3:04 • 2d ago
 
 ---
 
@@ -377,7 +337,47 @@ If you've been on social media this week, you've likely seen an ominous warning 
 
 📺 CBS News
 
-👁️ 78K • 👍 1K • 💬 468 • ⏱️ 7:08 • 2d ago
+👁️ 79K • 👍 1K • 💬 488 • ⏱️ 7:08 • 2d ago
+
+---
+
+**[AI agent hype will bankrupt you](https://www.youtube.com/watch?v=U5FPhnKMcKs)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 58K • 👍 3K • 💬 758 • ⏱️ 16:13 • 13h ago
+
+---
+
+**[AI Built a FULL Game Boy in 24 Hours](https://www.youtube.com/watch?v=rdL5GNjYuME)**
+
+2026 AI is getting completely out of hand. This week alone: GLM-5 built a full Game Boy emulator in 24 hours, SeeDance 2.0 is ...
+
+📺 MattVidPro AI
+
+👁️ 6K • 👍 356 • 💬 39 • ⏱️ 25:55 • 17h ago
+
+---
+
+**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
+
+Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
+
+📺 Asmongold TV  
+
+👁️ 608K • 👍 20K • 💬 4K • ⏱️ 20:40 • 2d ago
+
+---
+
+**[This is how AI fears are impacting real estate services](https://www.youtube.com/watch?v=QtMxxWxvNkk)**
+
+MacroMavens president Stephanie Pomboy analyzes where AI is headed on 'Mornings with Maria.' #fox #media #breakingnews ...
+
+📺 Fox Business Clips
+
+👁️ 13K • 👍 254 • 💬 74 • ⏱️ 5:17 • 23h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 166,549 • ❤️ 1,216 • 2d ago
+⬇️ 166,549 • ❤️ 1,225 • 3d ago
 
 ---
 
@@ -405,19 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 636 • 5h ago
-
----
-
-**[MiniCPM-SALA](https://huggingface.co/openbmb/MiniCPM-SALA)**
-
-*OpenBMB*
-
-MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficient million-token context modeling, achieving up to 3.5x faster inference and significantly reduced KV-cache overhead compared to dense baselines.
-
-`text-generation` `9.5B`
-
-⬇️ 3,665 • ❤️ 448 • 5d ago
+⬇️ 18,895 • ❤️ 643 • 6h ago
 
 ---
 
@@ -429,7 +417,31 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 21,014 • ❤️ 447 • 3d ago
+⬇️ 21,014 • ❤️ 454 • 3d ago
+
+---
+
+**[MiniCPM-SALA](https://huggingface.co/openbmb/MiniCPM-SALA)**
+
+*OpenBMB*
+
+MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficient million-token context modeling, achieving up to 3.5x faster inference and significantly reduced KV-cache overhead compared to dense baselines.
+
+`text-generation` `9.5B`
+
+⬇️ 3,665 • ❤️ 449 • 5d ago
+
+---
+
+**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
+
+*Qwen*
+
+Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Delta Network and Mixture-of-Experts architecture. It excels at vision-language tasks, supports 201 languages, and features a 262K native context length, making it suitable for complex reasoning, coding, and agent-based applications.
+
+`image-text-to-text` `403.4B`
+
+⬇️ 0 • ❤️ 307 • 4h ago
 
 ---
 
@@ -441,19 +453,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 788,036 • ❤️ 2,194 • 11d ago
-
----
-
-**[GLM-OCR](https://huggingface.co/zai-org/GLM-OCR)**
-
-*Z.ai*
-
-GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understanding, excelling in table, formula, and information extraction tasks. It offers state-of-the-art performance on benchmarks like OmniDocBench and is optimized for real-world scenarios, supporting efficient inference via vLLM, SGLang, and Ollama.
-
-`image-to-text`
-
-⬇️ 911,799 • ❤️ 1,054 • 7d ago
+⬇️ 788,036 • ❤️ 2,201 • 11d ago
 
 ---
 
@@ -465,7 +465,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 292,364 • ❤️ 879 • 12d ago
+⬇️ 292,364 • ❤️ 881 • 12d ago
 
 ---
 
@@ -481,18 +481,6 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 ---
 
-**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
-
-*Qwen*
-
-Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Delta Network and Mixture-of-Experts architecture. It excels at vision-language tasks, supports 201 languages, and features a 262K native context length, making it suitable for complex reasoning, coding, and agent-based applications.
-
-`image-text-to-text` `403.4B`
-
-⬇️ 0 • ❤️ 245 • 3h ago
-
----
-
 **[Ming-flash-omni-2.0](https://huggingface.co/inclusionAI/Ming-flash-omni-2.0)**
 
 *inclusionAI*
@@ -501,7 +489,19 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,486 • ❤️ 215 • 4d ago
+⬇️ 6,486 • ❤️ 216 • 4d ago
+
+---
+
+**[MOSS-TTS](https://huggingface.co/OpenMOSS-Team/MOSS-TTS)**
+
+*OpenMOSS*
+
+MOSS-TTS is a family of high-fidelity, expressive speech and sound generation models supporting multilingual text-to-speech, dialogue, voice design, and sound effect generation for complex real-world scenarios.
+
+`text-to-speech` `8.5B`
+
+⬇️ 9,596 • ❤️ 199 • 2d ago
 
 ---
 
@@ -594,7 +594,7 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
 
-▲ 9 • 💬 1 • ⭐ 53,267 • 16mo ago
+▲ 9 • 💬 1 • ⭐ 53,296 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
@@ -627,15 +627,15 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
 
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
 
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 41 • 💬 2 • ⭐ 47,418 • 9mo ago
+▲ 42 • 💬 4 • ⭐ 3,684 • 1mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
@@ -647,7 +647,7 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.9k • 🔱 451 • 5d ago
+⭐ 5.9k • 🔱 453 • 5d ago
 
 ---
 
@@ -683,7 +683,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 261 • 10h ago
+⭐ 2.6k • 🔱 261 • 10h ago
 
 ---
 
@@ -693,7 +693,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 109 • 2d ago
+⭐ 2.2k • 🔱 110 • 2d ago
 
 ---
 
@@ -703,7 +703,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 156 • 17h ago
+⭐ 2.2k • 🔱 158 • 18h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 151 • 5h ago
+⭐ 2.2k • 🔱 153 • 6h ago
 
 ---
 
@@ -723,7 +723,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.0k • 🔱 251 • 20h ago
+⭐ 2.0k • 🔱 254 • 22m ago
 
 ---
 

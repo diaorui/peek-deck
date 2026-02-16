@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T14:26:19.900773+00:00'
+updated: '2026-02-16T15:09:23.014902+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 14:26 UTC  
+**Last Updated:** February 16, 2026 at 15:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -56,7 +56,7 @@ Robotics research and industry news
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-21h ago
+22h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
@@ -128,7 +128,7 @@ South China Morning Post • 1h ago
 
 BEIJING, Feb 16 (Reuters) - China's most-watched TV show, the annual CCTV Spring Festival gala, will be viewed later on Monday as a showcase for the country's cutting-edge industrial policy and
 
-Yahoo • 6h ago
+Yahoo • 7h ago
 
 ---
 
@@ -136,7 +136,7 @@ Yahoo • 6h ago
 
 A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-KWQC • 13h ago
+KWQC • 14h ago
 
 ---
 
@@ -152,7 +152,7 @@ CNN • 2d ago
 
 This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
 
-Interesting Engineering • 10h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -164,7 +164,7 @@ KSN.com • 2d ago
 
 **[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
 
-ABC27 • 15h ago
+ABC27 • 16h ago
 
 ---
 
@@ -194,7 +194,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 394K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
+👁️ 398K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
 
 ---
 
@@ -204,7 +204,17 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 13K • 👍 540 • 💬 60 • ⏱️ 12:43 • 14h ago
+👁️ 15K • 👍 581 • 💬 68 • ⏱️ 12:43 • 15h ago
+
+---
+
+**[Newest Female Robots AVAILABLE For Sale in 2026](https://www.youtube.com/watch?v=mVsxy8nGDo4)**
+
+The humanoid robot market just got real. These aren't concept demos anymore—they're actual products you can order right now, ...
+
+📺 AI Exposed
+
+👁️ 273 • 👍 2 • 💬 2 • ⏱️ 18:05 • 23h ago
 
 ---
 
@@ -214,7 +224,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 30K • 👍 2K • 💬 369 • ⏱️ 9:43 • 16h ago
+👁️ 31K • 👍 2K • 💬 379 • ⏱️ 9:43 • 17h ago
 
 ---
 
@@ -224,27 +234,7 @@ Such a presentation would highlight how far artificial intelligence, robotics, a
 
 📺 Carros Show
 
-👁️ 15K • 👍 329 • 💬 65 • ⏱️ 10:40 • 5d ago
-
----
-
-**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
-
-A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
-
-📺 AI Revolution
-
-👁️ 152K • 👍 3K • 💬 234 • ⏱️ 11:59 • 5d ago
-
----
-
-**[One Sentence Changed — And the Robot Pulled the Trigger 👇](https://www.youtube.com/watch?v=G3dvzQweA1M)**
-
-One Sentence Changed — And the Robot Pulled the Trigger A YouTuber connected ChatGPT to a walking robot and decided ...
-
-📺 mdscae
-
-👁️ 7.5M • 👍 291K • 💬 2K • ⏱️ 1:00 • 6d ago
+👁️ 15K • 👍 336 • 💬 66 • ⏱️ 10:40 • 5d ago
 
 ---
 
@@ -254,37 +244,47 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 680K • 👍 8K • 💬 1K • ⏱️ 53:47 • 2d ago
+👁️ 698K • 👍 9K • 💬 1K • ⏱️ 53:47 • 2d ago
 
 ---
 
-**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
+**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
 
-Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
+A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
 
-📺 Jeff Geerling
+📺 AI Revolution
 
-👁️ 103K • 👍 5K • 💬 278 • ⏱️ 12:38 • 2d ago
-
----
-
-**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
-
-Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 103 • 💬 8 • ⏱️ 9:26 • 6d ago
+👁️ 154K • 👍 3K • 💬 242 • ⏱️ 11:59 • 5d ago
 
 ---
 
-**[Sometimes, War Robots is literally UNPLAYABLE!](https://www.youtube.com/watch?v=O3_t2JHbuo0)**
+**[Kawasaki&#39;s New Robot Horse Is WILD](https://www.youtube.com/watch?v=rSurIVRYtVU)**
 
-War Robots Gameplay, trying the UE VORTEX NUO but realizing that the robot is unplayable now with so much Bash, Boom and ...
+shorts #tech #bike #motorcycle.
 
-📺 Manni-Gaming
+📺 ThrottleRush
 
-👁️ 33K • 👍 2K • 💬 475 • ⏱️ 10:29 • 4d ago
+👁️ 28K • 👍 1K • 💬 19 • ⏱️ 0:41 • 2d ago
+
+---
+
+**[Optimus Will Change Everything #ElonMusk #Optimus #AI #Robotics #FutureTech #Innovation #robolution](https://www.youtube.com/watch?v=2vcqxrt9dEs)**
+
+A bold statement like this instantly ignites curiosity and debate across the world of technology and innovation. When visionary ...
+
+📺 Billionaire Shots
+
+👁️ 18K • 👍 1K • 💬 169 • ⏱️ 0:25 • 1d ago
+
+---
+
+**[MIND-BLOWING Mobility! 3-Wheel Omni Directional Robot Base 🤖](https://www.youtube.com/watch?v=nPa7avLWzO4)**
+
+Take a deep dive into the fascinating world of industrial robotics with this high-performance three-wheel omnidirectional chassis.
+
+📺 Peace Working Shorts
+
+👁️ 30K • 👍 85 • ⏱️ 0:06 • 12h ago
 
 ---
 
