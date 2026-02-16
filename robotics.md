@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T08:51:51.168319+00:00'
+updated: '2026-02-16T09:56:05.131510+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 08:51 UTC  
+**Last Updated:** February 16, 2026 at 09:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-15h ago
+16h ago
+
+---
+
+**[Thoughts on Bio Robotics Engineering?](https://www.reddit.com/r/robotics/comments/1r657wl/thoughts_on_bio_robotics_engineering/)**
+
+Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in biorobotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio Robotics engineers in the next 50 years? Thanks for your help/elaborations!
+
+24m ago
 
 ---
 
@@ -58,7 +66,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-16h ago
+17h ago
 
 ---
 
@@ -66,7 +74,7 @@ I need a power supply for a small animatronic that uses 3 9g servos and a small 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 14h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 15h ago
 
 ---
 
@@ -88,19 +96,13 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-21h ago
+22h ago
 
 ---
 
 **[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
 
 2d ago
-
----
-
-**[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
-
-1d ago
 
 ---
 
@@ -116,19 +118,25 @@ BBC • 3d ago
 
 ---
 
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
-
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
-
-KWQC • 7h ago
-
----
-
 **[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
 
 CNN • 2d ago
+
+---
+
+**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
+
+Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
+
+Interesting Engineering • 18h ago
+
+---
+
+**[China's humanoid robots ready for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
+
+Reuters • 1h ago
 
 ---
 
@@ -138,31 +146,25 @@ Forbes • 3d ago
 
 ---
 
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
+**[Robots observe humans, learn to move arms, set and clear table autonomously with new method](https://interestingengineering.com/ai-robotics/robots-observe-humans-set-table-autonomously)**
 
-KSN.com • 2d ago
+This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
 
----
-
-**[China's humanoid robots ready for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
-
-Reuters • 43m ago
+Interesting Engineering • 5h ago
 
 ---
 
-**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
+**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
 
-Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
-
-Interesting Engineering • 17h ago
+ABC27 • 10h ago
 
 ---
 
-**[X-Humanoid Introduces Embodied Tien Kung 3.0, a More Open and Practical Humanoid Robotics Platform](https://finance.yahoo.com/news/x-humanoid-introduces-embodied-tien-080000831.html)**
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
 
-Beijing Innovation Center of Humanoid Robotics (X-Humanoid) officially launched its latest general-purpose robot platform, the Embodied Tien Kung 3.0. Designed with a focus on enhanced openness and usability, the system leverages X-Humanoid's proprietary Wise KaiWu general-purpose embodied AI platform to deliver significant upgrades in balance, motion control, embodied brain-cerebellum coordination, and fully autonomous operation. It is also the industry's first full-size humanoid robot to achie
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-Yahoo Finance • 51m ago
+KWQC • 8h ago
 
 ---
 
@@ -170,13 +172,13 @@ Yahoo Finance • 51m ago
 
 Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Futurism • 15h ago
+Futurism • 16h ago
 
 ---
 
-**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
+**[VEX Robotics hosts ‘Bots at Bristol’ tournament for middle schools](https://www.wjhl.com/news/local/vex-robotics-hosts-bots-at-bristol-tournament-for-middle-schools/)**
 
-ABC27 • 9h ago
+WJHL • 17h ago
 
 ---
 
@@ -184,53 +186,23 @@ ABC27 • 9h ago
 
 ## YouTube Videos: "robotics"
 
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
-
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
-
-📺 AI Revolution
-
-👁️ 8K • 👍 420 • 💬 51 • ⏱️ 12:43 • 9h ago
-
----
-
 **[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
 
 Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
 
 📺 Fox Business Clips
 
-👁️ 387K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
+👁️ 390K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
-**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
+**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
 
-From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
-
-📺 60 Minutes
-
-👁️ 636K • 👍 8K • 💬 1K • ⏱️ 53:47 • 1d ago
-
----
-
-**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
-
-A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
+China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
 
 📺 AI Revolution
 
-👁️ 149K • 👍 3K • 💬 231 • ⏱️ 11:59 • 5d ago
-
----
-
-**[One Sentence Changed — And the Robot Pulled the Trigger 👇](https://www.youtube.com/watch?v=G3dvzQweA1M)**
-
-One Sentence Changed — And the Robot Pulled the Trigger A YouTuber connected ChatGPT to a walking robot and decided ...
-
-📺 mdscae
-
-👁️ 7.5M • 👍 288K • 💬 2K • ⏱️ 1:00 • 5d ago
+👁️ 11K • 👍 475 • 💬 58 • ⏱️ 12:43 • 10h ago
 
 ---
 
@@ -240,7 +212,47 @@ Such a presentation would highlight how far artificial intelligence, robotics, a
 
 📺 Carros Show
 
-👁️ 15K • 👍 323 • 💬 60 • ⏱️ 10:40 • 5d ago
+👁️ 15K • 👍 325 • 💬 61 • ⏱️ 10:40 • 5d ago
+
+---
+
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
+
+news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
+
+📺 Tyrone Magnus
+
+👁️ 28K • 👍 1K • 💬 358 • ⏱️ 9:43 • 12h ago
+
+---
+
+**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
+
+From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
+
+📺 60 Minutes
+
+👁️ 659K • 👍 8K • 💬 1K • ⏱️ 53:47 • 1d ago
+
+---
+
+**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
+
+A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
+
+📺 AI Revolution
+
+👁️ 151K • 👍 3K • 💬 231 • ⏱️ 11:59 • 5d ago
+
+---
+
+**[One Sentence Changed — And the Robot Pulled the Trigger 👇](https://www.youtube.com/watch?v=G3dvzQweA1M)**
+
+One Sentence Changed — And the Robot Pulled the Trigger A YouTuber connected ChatGPT to a walking robot and decided ...
+
+📺 mdscae
+
+👁️ 7.5M • 👍 289K • 💬 2K • ⏱️ 1:00 • 5d ago
 
 ---
 
@@ -250,37 +262,27 @@ You think Elon Musk built Optimus to fold laundry? That was a distraction. In 20
 
 📺 By 2050
 
-👁️ 1.2M • 👍 28K • 💬 994 • ⏱️ 0:56 • 6d ago
+👁️ 1.2M • 👍 28K • 💬 1K • ⏱️ 0:56 • 6d ago
 
 ---
 
-**[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
+**[Apple&#39;s First Robot &quot;iBOT&quot; Shocked the World at the 2026 Tech Expo](https://www.youtube.com/watch?v=0JIfaIKAGz8)**
 
-Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
+Such a debut would mark a major step for Apple as it expands beyond personal electronics into robotics and embodied artificial ...
 
-📺 By 2050
+📺 Carros Show
 
-👁️ 15K • 👍 427 • 💬 18 • ⏱️ 0:59 • 1d ago
-
----
-
-**[Testing Hugging Face&#39;s Raspberry Pi-powered open source robot](https://www.youtube.com/watch?v=yvBbcLCZIhg)**
-
-Can a little Pi-powered bot teach my kids? The Reachy Mini Wireless I used was provided by HuggingFace and Pollen Robotics; ...
-
-📺 Jeff Geerling
-
-👁️ 101K • 👍 5K • 💬 276 • ⏱️ 12:38 • 2d ago
+👁️ 5K • 👍 103 • 💬 8 • ⏱️ 9:26 • 6d ago
 
 ---
 
-**[Strongest Robot Hand Yet? #robotics #innovation #engineering](https://www.youtube.com/watch?v=gT7jhJ8GSdc)**
+**[The real test for humanoid robots isn’t performance.](https://www.youtube.com/watch?v=4iU9kfIZnhs)**
 
-The Chinese company BrainCo just shared dramatic stress footage with engineers going to extreme lengths trying to break its ...
+Humanoid robots don't fail at tasks. They fail at presence. The hardest part of building humanoid robots isn't hardware.
 
-📺 Kalil 4.0
+📺 Slidebean
 
-👁️ 1K • 👍 29 • 💬 2 • ⏱️ 0:48 • 4h ago
+👁️ 15K • 👍 547 • 💬 27 • ⏱️ 1:21 • 6d ago
 
 ---
 

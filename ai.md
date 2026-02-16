@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T08:51:51.152793+00:00'
+updated: '2026-02-16T09:56:05.114894+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 08:51 UTC  
+**Last Updated:** February 16, 2026 at 09:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
 
-🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 6h ago
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 7h ago
 
 ---
 
@@ -49,7 +49,15 @@ AI news, discussions, and developments
 
 What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real time video calls with their own customizable AI companion?
 
-2h ago
+4h ago
+
+---
+
+**[Google might think your Website is down](https://www.reddit.com/r/artificial/comments/1r65f5p/google_might_think_your_website_is_down/)**
+
+How Cross-page AI aggregation can introduce new liability vectors.
+
+🔗 [Code Input](https://codeinput.com/blog/google-seo) • 11m ago
 
 ---
 
@@ -57,7 +65,7 @@ What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real
 
 I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +97,7 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-20h ago
+21h ago
 
 ---
 
@@ -109,31 +117,29 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 ---
 
-**[AI Coding Won’t Replace Human Developers — Here’s Why I’m Actually Optimistic About It](https://www.reddit.com/r/artificial/comments/1r5b70z/ai_coding_wont_replace_human_developers_heres_why/)**
-
-Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
-
-22h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Google puts users at risk by downplaying health disclaimers under AI Overviews](https://www.theguardian.com/technology/2026/feb/16/google-puts-users-at-risk-downplaying-disclaimers-ai-overviews)**
+**[Starmer to extend online safety rules to AI chatbots after Grok scandal](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban)**
 
-Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical advice
+Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
 
-The Guardian • 1h ago
+The Guardian • 11h ago
 
 ---
 
-**['The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears](https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html)**
+**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
 
-Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
+NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-Yahoo Finance • 11h ago
+The Washington Post • 15h ago
+
+---
+
+**[Fund Beating 99% of Peers Sees Few Software Firms Surviving AI](https://www.bloomberg.com/news/articles/2026-02-16/fund-beating-99-of-peers-sees-few-software-firms-surviving-ai)**
+
+Bloomberg.com • 56m ago
 
 ---
 
@@ -141,53 +147,31 @@ Yahoo Finance • 11h ago
 
 Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
-**[ByteDance To Halt Seedance 2.0’s AI Rip-Offs After Legal Threats From Disney & Paramount](https://deadline.com/2026/02/bytedance-halt-seedance-legal-threats-disney-paramount-1236725770/)**
+**[TikTok creator ByteDance vows to curb AI video tool after Disney threat](https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt)**
 
-TikTok owner ByteDance has promised to improve "safeguards" on its Seedance 2.0 AI model after a full-throated backlash from Hollywood.
+Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting
 
-Deadline • 51m ago
-
----
-
-**[Hollywood groups condemn ByteDance's AI video generator, claiming copyright infringement](https://apnews.com/article/ai-seedance-bytedance-hollywood-copyright-7e445388401d172c6bf51d0d42aa4f24)**
-
-A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations.
-
-AP News • 12h ago
+The Guardian • 1h ago
 
 ---
 
-**[India hosts AI Impact Summit, drawing world leaders, tech giants](https://www.aljazeera.com/news/2026/2/16/india-hosts-ai-impact-summit-drawing-world-leaders-tech-giants)**
+**[ByteDance Pledges to Curb AI Video Generator Tool Seedance After Legal Threats from Hollywood](https://www.hollywoodreporter.com/business/business-news/bytedance-seedance-legal-threats-hollywood-1236506693/)**
 
-Summit aims to outline global AI governance and collaboration for inclusive growth and sustainability.
+The Chinese tech giant said it "respects intellectual property rights."
 
-Al Jazeera • 45m ago
-
----
-
-**[Leaders gather for New Delhi AI summit as warnings grow over societal risks](https://www.france24.com/en/asia-pacific/20260216-india-hosts-ai-summit)**
-
-A global artificial intelligence summit opens in New Delhi on Monday, tackling issues from job disruption to child safety, though some participants warn its sweeping agenda may hinder firm commitments.…
-
-France 24 • 6h ago
+The Hollywood Reporter • 44m ago
 
 ---
 
-**[From OpenAI to Google, India hosts global AI summit](https://www.reuters.com/business/retail-consumer/openai-google-india-hosts-global-ai-summit-2026-02-16/)**
+**[Blackstone CEO is turning his $48 billion fortune into a huge philanthropic foundation for AI](https://fortune.com/2026/02/16/stephen-schwarzman-blackstone-ceo-48-billion-fortune-to-philanthropic-foundation-focused-on-ai/)**
 
-Reuters • 28m ago
+Stephen Schwarzman is committing his wealth to his foundation, which could become one of the largest in the world.
 
----
-
-**[Trump's trade advisor says Big Tech must 'internalize the cost' of AI data centers](https://www.businessinsider.com/trump-trade-advisor-peter-navarro-ai-internalize-data-center-costs-2026-2)**
-
-Peter Navarro says the White House may force Big Tech to cover electricity and grid costs tied to AI data centers.
-
-Business Insider • 1h ago
+Fortune • 43m ago
 
 ---
 
@@ -197,13 +181,29 @@ The New York Times • 1d ago
 
 ---
 
+**['The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears](https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html)**
+
+Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[OpenClaw creator Peter Steinberger joining OpenAI, Altman says](https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html)**
+
+OpenClaw, the open source AI agent that's surged in popularity in recent weeks, will live within OpenAI, according to a post on X from Sam Altman.
+
+CNBC • 10h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 741 • 💬 607 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 741 • 💬 608 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -219,7 +219,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 365 • 💬 257 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 366 • 💬 258 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -227,7 +227,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 347 • 💬 550 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 347 • 💬 552 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -245,19 +245,19 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 ---
 
+**[AI is going to kill app subscriptions](https://news.ycombinator.com/item?id=47024387)**
+
+Curated niche app opportunities from Reddit, scored by difficulty and demand.
+
+⬆️ 119 • 💬 190 • 18h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+
+---
+
 **[Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://news.ycombinator.com/item?id=47019133)**
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
 ⬆️ 119 • 💬 64 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
-
----
-
-**[AI is going to kill app subscriptions](https://news.ycombinator.com/item?id=47024387)**
-
-Curated niche app opportunities from Reddit, scored by difficulty and demand.
-
-⬆️ 116 • 💬 189 • 17h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -287,17 +287,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 33K • 👍 2K • 💬 566 • ⏱️ 16:13 • 7h ago
-
----
-
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
-
-Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
-
-📺 Fox Business Clips
-
-👁️ 387K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
+👁️ 43K • 👍 2K • 💬 638 • ⏱️ 16:13 • 8h ago
 
 ---
 
@@ -307,7 +297,17 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 6K • 👍 186 • 💬 40 • ⏱️ 8:34 • 5h ago
+👁️ 10K • 👍 221 • 💬 48 • ⏱️ 8:34 • 6h ago
+
+---
+
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
+
+Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
+
+📺 Fox Business Clips
+
+👁️ 390K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -317,7 +317,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 93K • 👍 980 • 💬 456 • ⏱️ 3:04 • 2d ago
+👁️ 96K • 👍 1K • 💬 460 • ⏱️ 3:04 • 2d ago
 
 ---
 
@@ -327,7 +327,7 @@ Channel members can watch the full video: https://www.youtube.com/@samharrisorg/
 
 📺 Sam Harris
 
-👁️ 219K • 👍 4K • 💬 2K • ⏱️ 9:12 • 2d ago
+👁️ 224K • 👍 4K • 💬 2K • ⏱️ 9:12 • 2d ago
 
 ---
 
@@ -337,7 +337,7 @@ more slop merch that ISN'T AI SLOP - https://dandingle.store/ everything in this
 
 📺 Dan Dingle
 
-👁️ 125K • 👍 8K • 💬 1K • ⏱️ 18:00 • 2d ago
+👁️ 127K • 👍 8K • 💬 1K • ⏱️ 18:00 • 2d ago
 
 ---
 
@@ -347,7 +347,17 @@ If you've been on social media this week, you've likely seen an ominous warning 
 
 📺 CBS News
 
-👁️ 76K • 👍 1K • 💬 476 • ⏱️ 7:08 • 2d ago
+👁️ 77K • 👍 1K • 💬 460 • ⏱️ 7:08 • 2d ago
+
+---
+
+**[AI fight scene video of Tom Cruise and Brad Pitt goes viral](https://www.youtube.com/watch?v=FhjJTZ9uIWY)**
+
+A 15-second AI video of Tom Cruise and Brad Pitt has the industry buzzing and concerned. KTLA's Angeli Kakade reports on Feb.
+
+📺 KTLA 5
+
+👁️ 142K • 👍 571 • 💬 230 • ⏱️ 2:51 • 2d ago
 
 ---
 
@@ -357,27 +367,17 @@ Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce L
 
 📺 ShadowRivals
 
-👁️ 57K • 👍 1K • 💬 122 • ⏱️ 2:02 • 2d ago
+👁️ 60K • 👍 1K • 💬 130 • ⏱️ 2:02 • 2d ago
 
 ---
 
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+**[This is how AI fears are impacting real estate services](https://www.youtube.com/watch?v=QtMxxWxvNkk)**
 
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+MacroMavens president Stephanie Pomboy analyzes where AI is headed on 'Mornings with Maria.' #fox #media #breakingnews ...
 
-📺 AI Revolution
+📺 Fox Business Clips
 
-👁️ 8K • 👍 420 • 💬 51 • ⏱️ 12:43 • 9h ago
-
----
-
-**[Why This NYC CEO&#39;s Chilling Warning On AI Has Gone Viral: &#39;People Deserve To Hear What&#39;s Coming&#39;](https://www.youtube.com/watch?v=gguvQKah37o)**
-
-Matt Schumer is a New York based CEO who's been working with and investing in a bunch of AI firms - and one warning from him ...
-
-📺 Mint
-
-👁️ 97K • 👍 1K • 💬 309 • ⏱️ 8:19 • 2d ago
+👁️ 12K • 👍 246 • 💬 73 • ⏱️ 5:17 • 18h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 166,549 • ❤️ 1,208 • 2d ago
+⬇️ 166,549 • ❤️ 1,211 • 2d ago
 
 ---
 
@@ -405,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 622 • 2d ago
+⬇️ 18,895 • ❤️ 628 • 1h ago
 
 ---
 
@@ -417,7 +417,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 3,665 • ❤️ 447 • 4d ago
+⬇️ 3,665 • ❤️ 448 • 4d ago
 
 ---
 
@@ -429,7 +429,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 21,014 • ❤️ 433 • 2d ago
+⬇️ 21,014 • ❤️ 441 • 2d ago
 
 ---
 
@@ -441,7 +441,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 788,036 • ❤️ 2,192 • 11d ago
+⬇️ 788,036 • ❤️ 2,193 • 11d ago
 
 ---
 
@@ -453,7 +453,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 911,799 • ❤️ 1,048 • 7d ago
+⬇️ 911,799 • ❤️ 1,049 • 7d ago
 
 ---
 
@@ -465,7 +465,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 292,364 • ❤️ 874 • 12d ago
+⬇️ 292,364 • ❤️ 876 • 12d ago
 
 ---
 
@@ -489,7 +489,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,486 • ❤️ 212 • 4d ago
+⬇️ 6,486 • ❤️ 213 • 4d ago
 
 ---
 
@@ -501,13 +501,25 @@ MOSS-TTS is a family of high-fidelity, expressive speech and sound generation mo
 
 `text-to-speech` `8.5B`
 
-⬇️ 9,596 • ❤️ 195 • 2d ago
+⬇️ 9,596 • ❤️ 197 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 10 • 💬 1 • ⭐ 3,987 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
 
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
@@ -518,18 +530,6 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 1 • 💬 0 • ⭐ 3,917 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
-
----
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 10 • 💬 1 • ⭐ 3,784 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -556,7 +556,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 141 • 💬 19 • ⭐ 53,126 • 11mo ago
+▲ 141 • 💬 19 • ⭐ 53,156 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -582,7 +582,7 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
 
-▲ 159 • 💬 3 • ⭐ 5,541 • 7mo ago
+▲ 159 • 💬 3 • ⭐ 5,559 • 7mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
@@ -607,21 +607,9 @@ A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spok
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 35 • 💬 1 • ⭐ 70,380 • 29mo ago
+▲ 36 • 💬 1 • ⭐ 70,380 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 134 • 💬 6 • ⭐ 14,755 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -639,6 +627,18 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 41 • 💬 2 • ⭐ 47,418 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -647,7 +647,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.9k • 🔱 450 • 5d ago
+⭐ 5.9k • 🔱 451 • 5d ago
 
 ---
 
@@ -683,7 +683,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 259 • 4h ago
+⭐ 2.5k • 🔱 260 • 5h ago
 
 ---
 
@@ -703,7 +703,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 155 • 12h ago
+⭐ 2.2k • 🔱 156 • 13h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 146 • 7h ago
+⭐ 2.2k • 🔱 147 • 55m ago
 
 ---
 
@@ -723,7 +723,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.0k • 🔱 248 • 15h ago
+⭐ 2.0k • 🔱 249 • 16h ago
 
 ---
 
@@ -733,7 +733,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.9k • 🔱 206 • 2d ago
+⭐ 1.9k • 🔱 207 • 2d ago
 
 ---
 
