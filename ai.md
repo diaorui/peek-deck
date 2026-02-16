@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T10:52:33.814924+00:00'
+updated: '2026-02-16T11:41:32.199261+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 10:52 UTC  
+**Last Updated:** February 16, 2026 at 11:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,11 +45,19 @@ AI news, discussions, and developments
 
 ---
 
+**[AI: Hard drives are already sold out for the entire year, says Western Digital](https://www.reddit.com/r/artificial/comments/1r65zku/ai_hard_drives_are_already_sold_out_for_the/)**
+
+AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
+
+🔗 [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out) • 1h ago
+
+---
+
 **[Customizable AI Companions.](https://www.reddit.com/r/artificial/comments/1r61jbw/customizable_ai_companions/)**
 
 What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real time video calls with their own customizable AI companion?
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +73,7 @@ How Cross-page AI aggregation can introduce new liability vectors.
 
 I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +105,7 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-22h ago
+23h ago
 
 ---
 
@@ -109,77 +117,9 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 ---
 
-**[It isn't the tool, but the hands: why the AI displacement narrative gets it backwards](https://www.reddit.com/r/artificial/comments/1r4ybm7/it_isnt_the_tool_but_the_hands_why_the_ai/)**
-
-Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
-
-**[Starmer to extend online safety rules to AI chatbots after Grok scandal](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban)**
-
-Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
-
-The Guardian • 12h ago
-
----
-
-**[He spent decades perfecting his voice. Now he says Google stole it.](https://www.washingtonpost.com/technology/2026/02/15/david-greene-google-ai-podcast/)**
-
-NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
-
-The Washington Post • 16h ago
-
----
-
-**[Fund Beating 99% of Peers Sees Few Software Firms Surviving AI](https://www.bloomberg.com/news/articles/2026-02-16/fund-beating-99-of-peers-sees-few-software-firms-surviving-ai)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[ByteDance to curb AI video app after Disney legal threat](https://www.bbc.com/news/articles/c93wq6xqgy1o)**
-
-Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
-
-BBC • 7h ago
-
----
-
-**[TikTok creator ByteDance vows to curb AI video tool after Disney threat](https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt)**
-
-Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting
-
-The Guardian • 2h ago
-
----
-
-**[ByteDance Pledges to Curb AI Video Generator Tool Seedance After Legal Threats from Hollywood](https://www.hollywoodreporter.com/business/business-news/bytedance-seedance-legal-threats-hollywood-1236506693/)**
-
-The Chinese tech giant said it "respects intellectual property rights."
-
-The Hollywood Reporter • 1h ago
-
----
-
-**[Blackstone CEO is turning his $48 billion fortune into a huge philanthropic foundation for AI](https://fortune.com/2026/02/16/stephen-schwarzman-blackstone-ceo-48-billion-fortune-to-philanthropic-foundation-focused-on-ai/)**
-
-Stephen Schwarzman is committing his wealth to his foundation, which could become one of the largest in the world.
-
-Fortune • 1h ago
-
----
-
-**[How A.I. Salaries Are Causing Couples to Rethink Money in Relationships](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
-
-The New York Times • 2d ago
-
----
 
 **['The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears](https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html)**
 
@@ -189,11 +129,71 @@ Yahoo Finance • 13h ago
 
 ---
 
-**[OpenClaw creator Peter Steinberger joining OpenAI, Altman says](https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html)**
+**[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
 
-OpenClaw, the open source AI agent that's surged in popularity in recent weeks, will live within OpenAI, according to a post on X from Sam Altman.
+Bloomberg.com • 21h ago
 
-CNBC • 11h ago
+---
+
+**[Why the ‘AI scare trade’ might not be done](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks)**
+
+A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
+
+CNN • 1h ago
+
+---
+
+**[The AI productivity take-off is finally visible](https://www.ft.com/content/4b51d0b4-bbfe-4f05-b50a-1d485d419dc5)**
+
+New economic data suggests the US is transitioning to a phase of measurable gains from the technology
+
+Financial Times • 1d ago
+
+---
+
+**[“Infrastructure of Truth” Under Political Pressure and AI Disruption in Focus at Copenhagen Doc Fest’s Industry Strand](https://www.hollywoodreporter.com/movies/movie-news/copenhagen-cphdox-2026-industry-ai-truth-political-pressure-1236506720/)**
+
+Organizers promise "bold conversations on challenging conglomerates' power over content, securing 'safe havens' for independent voices, looking at AI as a tool, and redefining our relationship to it."
+
+The Hollywood Reporter • 41m ago
+
+---
+
+**[Altman and Pichai among tech CEOs heading to India for major AI summit in a key market](https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html)**
+
+India has a market of young, tech-forward consumers and a huge pool of talent which could be key to continued development of AI.
+
+CNBC • 12h ago
+
+---
+
+**[India hosts AI Impact Summit, drawing world leaders, tech giants](https://www.aljazeera.com/news/2026/2/16/india-hosts-ai-impact-summit-drawing-world-leaders-tech-giants)**
+
+Summit aims to outline global AI governance and collaboration for inclusive growth and sustainability.
+
+Al Jazeera • 3h ago
+
+---
+
+**[All the important news from the ongoing India AI Impact Summit](https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/)**
+
+India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.
+
+TechCrunch • 21m ago
+
+---
+
+**[Microsoft manager explains how she pivoted from admin to AI — and doesn't regret her English degree](https://www.businessinsider.com/microsoft-manager-explains-how-she-pivoted-from-admin-to-ai-2026-2)**
+
+An AI gamification manager shares how she went from a contract executive assistant at Microsoft to an AI gamification product manager.
+
+Business Insider • 48m ago
+
+---
+
+**[How A.I. Salaries Are Causing Couples to Rethink Money in Relationships](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
+
+The New York Times • 2d ago
 
 ---
 
@@ -203,7 +203,7 @@ CNBC • 11h ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 741 • 💬 608 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 741 • 💬 610 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -211,7 +211,7 @@ CNBC • 11h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 556 • 💬 361 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 557 • 💬 361 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -219,7 +219,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 366 • 💬 258 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 366 • 💬 259 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -249,7 +249,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 119 • 💬 190 • 19h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 123 • 💬 200 • 20h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -257,7 +257,7 @@ Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 119 • 💬 64 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 120 • 💬 64 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -287,7 +287,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 43K • 👍 2K • 💬 638 • ⏱️ 16:13 • 9h ago
+👁️ 43K • 👍 2K • 💬 638 • ⏱️ 16:13 • 10h ago
 
 ---
 
@@ -297,7 +297,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 10K • 👍 221 • 💬 48 • ⏱️ 8:34 • 7h ago
+👁️ 10K • 👍 221 • 💬 48 • ⏱️ 8:34 • 8h ago
 
 ---
 
@@ -377,7 +377,7 @@ MacroMavens president Stephanie Pomboy analyzes where AI is headed on 'Mornings 
 
 📺 Fox Business Clips
 
-👁️ 12K • 👍 246 • 💬 73 • ⏱️ 5:17 • 19h ago
+👁️ 12K • 👍 246 • 💬 73 • ⏱️ 5:17 • 20h ago
 
 ---
 
@@ -405,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 628 • 2h ago
+⬇️ 18,895 • ❤️ 628 • 3h ago
 
 ---
 
@@ -683,7 +683,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 260 • 6h ago
+⭐ 2.5k • 🔱 260 • 7h ago
 
 ---
 
@@ -703,7 +703,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 156 • 14h ago
+⭐ 2.2k • 🔱 156 • 15h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 147 • 1h ago
+⭐ 2.2k • 🔱 147 • 2h ago
 
 ---
 
@@ -723,7 +723,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.0k • 🔱 249 • 17h ago
+⭐ 2.0k • 🔱 249 • 18h ago
 
 ---
 

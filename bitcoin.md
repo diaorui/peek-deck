@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T10:52:33.823369+00:00'
+updated: '2026-02-16T11:41:32.207679+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 10:52 UTC  
+**Last Updated:** February 16, 2026 at 11:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,038.85
+### $68,583.17
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +0.3%  
-**30d:** -26.4%  
-**90d:** -24.3%  
-**1y:** -27.9%  
+**24h:** -1.0%  
+**7d:** -0.3%  
+**30d:** -26.8%  
+**90d:** -24.8%  
+**1y:** -28.3%  
 
 ---
 
@@ -79,7 +79,13 @@ Rank #1
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-13h ago
+14h ago
+
+---
+
+**[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
+
+2h ago
 
 ---
 
@@ -87,7 +93,7 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-22h ago
+23h ago
 
 ---
 
@@ -95,25 +101,19 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-13h ago
+14h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-20h ago
-
----
-
-**[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
-
-1h ago
+21h ago
 
 ---
 
@@ -125,11 +125,9 @@ Are you expecting a breakout or another fack pump?
 
 ---
 
-**[A love note to absurdity and probability: I'm mining at 1 hash/minute](https://www.reddit.com/r/Bitcoin/comments/1r5rkh5/a_love_note_to_absurdity_and_probability_im/)**
+**[Today is a very special day!!! My 15 year old son started his Bitcoin venture 💙. I told him to stack them monthly 🤑🤑 lil Satoshis](https://www.reddit.com/r/Bitcoin/comments/1r5z5r1/today_is_a_very_special_day_my_15_year_old_son/)**
 
-A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the quest in real-time.
-
-🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 12h ago
+7h ago
 
 ---
 
@@ -137,15 +135,15 @@ A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the q
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
-**[Bought some parts for my bike with BTC](https://www.reddit.com/r/Bitcoin/comments/1r5mldg/bought_some_parts_for_my_bike_with_btc/)**
+**[A love note to absurdity and probability: I'm mining at 1 hash/minute](https://www.reddit.com/r/Bitcoin/comments/1r5rkh5/a_love_note_to_absurdity_and_probability_im/)**
 
-Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
+A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the quest in real-time.
 
-16h ago
+🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 13h ago
 
 ---
 
@@ -153,19 +151,35 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 
 ## Google News: "bitcoin"
 
+**[Crypto market drowns in red as bitcoin falls to $68,000, XRP, ETH slide over 5%](https://www.coindesk.com/markets/2026/02/16/crypto-market-drowns-in-red-as-bitcoin-falls-to-usd68-000)**
+
+Traders are bracing for a heavy week of macroeconomic events, including Fed minutes and the core PCE inflation report.
+
+CoinDesk • 4h ago
+
+---
+
 **[In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
-**[Bitcoin claws back to $70,000 on cooling inflation after $8.7 billion wipeout](https://www.coindesk.com/markets/2026/02/14/bitcoin-claws-back-to-usd70-000-on-cooling-inflation-after-usd8-7-billion-wipeout)**
+**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
 
-Despite the price recovery, the Crypto Fear & Greed Index remains in “extreme fear,” indicating underlying market anxiety.
+Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
 
-CoinDesk • 1d ago
+The Block • 2h ago
+
+---
+
+**[Tom Lee Calls Bitcoin and Ethereum Price Bottom, Claims Crypto Winter Is 'Close To Ending' as Wall Street Backs Bitmine](https://finance.yahoo.com/news/tom-lee-calls-bitcoin-ethereum-105715079.html)**
+
+Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
+
+Yahoo Finance • 44m ago
 
 ---
 
@@ -183,51 +197,35 @@ Nasdaq • 1d ago
 
 ---
 
-**[Crypto market drowns in red as bitcoin falls to $68,000, XRP, ETH slide over 5%](https://www.coindesk.com/markets/2026/02/16/crypto-market-drowns-in-red-as-bitcoin-falls-to-usd68-000)**
-
-Traders are bracing for a heavy week of macroeconomic events, including Fed minutes and the core PCE inflation report.
-
-CoinDesk • 4h ago
-
----
-
-**[Bitcoin Capitulation Or Buy Zone? What On-Chain Data Shows Right Now](https://www.tradingview.com/news/newsbtc:63bbbb5be094b:0-bitcoin-capitulation-or-buy-zone-what-on-chain-data-shows-right-now/)**
-
-Bitcoin is sitting at a “critical point,” with traders split between two familiar scripts: a full capitulation event, or the early innings of a durable bottoming process. In a Feb. 15 video explainer, CryptoQuant analyst Maartunn argued the data is starting to line up for the latter, but with a cle…
-
-TradingView • 1h ago
-
----
-
-**[TeraWulf Recasts Bitcoin Roots Into AI Power Capacity Opportunity](https://finance.yahoo.com/news/terawulf-recasts-bitcoin-roots-ai-070700946.html)**
-
-TeraWulf (NasdaqCM:WULF) is shifting its core business from bitcoin mining to building and operating AI focused infrastructure. The company has recently sold nearly all of its bitcoin holdings and acquired new industrial sites intended to roughly double its available power capacity. These moves signal a company wide pivot toward serving power hungry AI workloads rather than relying on cryptocurrency mining economics. TeraWulf, trading at $16.26, is repositioning itself as an AI...
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin After the Cycle Peak: What Comes Next and How We’re Positioning](https://io-fund.com/crypto/bitcoin-after-cycle-peak)**
-
-Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
-
-IO Fund • 4d ago
-
----
-
-**[Bitcoin hit $60,000 because two different groups finally surrendered — on-chain data shows who blinked](https://cryptoslate.com/bitcoin-hit-60000-because-two-different-groups-finally-surrendered-on-chain-data-shows-who-blinked/)**
-
-Bitcoin’s 2026 selloff came in two capitulations, first near $80,000 then near $60,000, as seller cohorts rotated and realized losses surged.
-
-CryptoSlate • 17h ago
-
----
-
 **[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
 MLive.com • 1d ago
+
+---
+
+**[Saylor Hints at Another Strategy Bitcoin Buy](https://bitbo.io/news/saylor-signals-strategy-bitcoin-buy/)**
+
+Michael Saylor signaled another Strategy Bitcoin purchase, extending a 12-week buying streak even as bitcoin and crypto-treasury stocks slide.
+
+Bitbo • 16h ago
+
+---
+
+**[Michael Saylor's Strategy says it can survive a bitcoin (BTC) price crash to $8,000](https://www.coindesk.com/markets/2026/02/16/strategy-says-it-can-survive-even-if-bitcoin-drops-to-usd8-000-and-will-equitize-debt)**
+
+Strategy says it can withstand a bitcoin price drop to $8,000 and still cover its roughly $6 billion in net debt.
+
+CoinDesk • 2h ago
+
+---
+
+**[Jim Chanos Slams Bitcoin Play Strategy For Bragging About Stability Of Preferred Shares: 'Can You Imagine Any Other CEO With A Plunging Stock…'](https://finance.yahoo.com/news/jim-chanos-slams-bitcoin-play-003117862.html)**
+
+Veteran short seller Jim Chanos slammed Strategy Inc. (NASDAQ:MSTR) for touting the stability of its perpetual preferred shares on Wednesday, even as its main stock continues to get hammered. Chanos Takes Fresh Dig At Strategy Chanos reacted to a Bloomberg...
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -277,7 +275,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-⬆️ 2 • 💬 1 • 5d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
+⬆️ 2 • 💬 1 • 6d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
 
 ---
 
@@ -321,7 +319,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 221 • ⏱️ 11:16 • 12h ago
+👁️ 34K • 👍 2K • 💬 221 • ⏱️ 11:16 • 13h ago
 
 ---
 
@@ -331,7 +329,7 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 5K • 👍 119 • 💬 18 • ⏱️ 12:20 • 16h ago
+👁️ 5K • 👍 119 • 💬 18 • ⏱️ 12:20 • 17h ago
 
 ---
 
@@ -341,7 +339,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 35K • 👍 1K • 💬 749 • ⏱️ 30:55 • 20h ago
+👁️ 35K • 👍 1K • 💬 749 • ⏱️ 30:55 • 21h ago
 
 ---
 
@@ -371,7 +369,7 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 553 • 💬 231 • ⏱️ 7:14 • 18h ago
+👁️ 16K • 👍 553 • 💬 231 • ⏱️ 7:14 • 19h ago
 
 ---
 
@@ -391,7 +389,7 @@ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/W
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 201 • 💬 37 • ⏱️ 7:01 • 5h ago
+👁️ 2K • 👍 201 • 💬 37 • ⏱️ 7:01 • 6h ago
 
 ---
 

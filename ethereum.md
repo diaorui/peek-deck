@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T10:52:33.829446+00:00'
+updated: '2026-02-16T11:41:32.213688+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 10:52 UTC  
+**Last Updated:** February 16, 2026 at 11:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,985.03
+### $1,981.25
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -1.6%  
-**30d:** -39.5%  
-**90d:** -34.3%  
-**1y:** -27.5%  
+**24h:** -2.1%  
+**7d:** -2.5%  
+**30d:** -40.0%  
+**90d:** -34.9%  
+**1y:** -28.2%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
+
+---
+
+**[Tom Lee: Crypto winter likely ends by April — bullish on Ethereum accumulation](https://www.reddit.com/r/ethereum/comments/1r66jjm/tom_lee_crypto_winter_likely_ends_by_april/)**
+
+Fundstrat’s Tom Lee says crypto winter is either already over or will end by April, pointing to late-cycle sentiment and improving macro. He also highlighted BitMine’s strategy of weekly ETH accumulation and staking as a long-term institutional bet on Ethereum. Article: https://btcusa.com/tom-lee-crypto-winter-likely-ends-by-april-as-ethereum-strategy-expands/ Do you agree we’re near the end of this cycle correction?
+
+49m ago
 
 ---
 
@@ -84,11 +92,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Best way to swap ETH without using centralized exchanges?](https://www.reddit.com/r/ethereum/comments/1r5v3c6/best_way_to_swap_eth_without_using_centralized/)**
+
+Been holding ETH for a while and want to move some around or swap for other assets without going through CEXs. Most platforms these days ask for KYC, which I'd rather avoid if possible. What's the smoothest way to swap ETH directly from wallet? Looking for something non-custodial, decent rates, and not too complicated. If you've done any swaps recently, what actually worked well for you?
+
+11h ago
+
+---
+
 **[No code Dapp testing tool for Mainnet and L2s](https://www.reddit.com/r/ethereum/comments/1r5dirv/no_code_dapp_testing_tool_for_mainnet_and_l2s/)**
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-22h ago
+23h ago
 
 ---
 
@@ -130,22 +146,6 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
-**[Daily General Discussion February 13, 2026](https://www.reddit.com/r/ethereum/comments/1r3hd2w/daily_general_discussion_february_13_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
-**[Ethereal news weekly #11 | BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey](https://www.reddit.com/r/ethereum/comments/1r3ofyj/ethereal_news_weekly_11_blackrock_buidl_tradeable/)**
-
-BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity developer survey
-
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-11/) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,23 +154,7 @@ BlackRock BUIDL tradeable via UniswapX, ENS staying on mainnet, Solidity develop
 
 The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
 
-The Motley Fool • 1d ago
-
----
-
-**[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
-
-Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
-
-Decrypt • 2d ago
-
----
-
-**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://finance.yahoo.com/news/blackrock-buys-bitmine-shares-ethereum-092453859.html)**
-
-Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
-
-Yahoo Finance • 3d ago
+The Motley Fool • 2d ago
 
 ---
 
@@ -182,11 +166,49 @@ Nasdaq • 1d ago
 
 ---
 
-**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
 
-Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
+BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
 
-CoinDesk • 2d ago
+Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqfAE_E8eOSEfRm-EQTZYIf-wduwFcc1bXbgBu32JPumE3myx_taS8eL&gaa_ts=699305d8&gaa_sig=lr7WAlbL4sp592vxyYMGIPAD1kwJg9ciSCfxtRTtFQgP4Rd-QgcuSUxdUMi5YmXWqfVasJ5hdnmbSrJ6BfhAsg%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[Tom Lee Calls Bitcoin and Ethereum Price Bottom, Claims Crypto Winter Is 'Close To Ending' as Wall Street Backs Bitmine](https://finance.yahoo.com/news/tom-lee-calls-bitcoin-ethereum-105715079.html)**
+
+Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
+
+Yahoo Finance • 44m ago
+
+---
+
+**[The Top Artificial Intelligence (AI) Crypto to Buy Right Now](https://www.nasdaq.com/articles/top-artificial-intelligence-ai-crypto-buy-right-now)**
+
+Key PointsWhile Ethereum is primarily recognized for its prowess in DeFi, it is rapidly adapting for the AI future.
+
+Nasdaq • 51m ago
+
+---
+
+**[The Top Artificial Intelligence (AI) Crypto to Buy Right Now](https://www.fool.com/investing/2026/02/16/the-top-artificial-intelligence-ai-crypto-to-buy-r/)**
+
+Can Ethereum unlock the power of artificial intelligence? If so, it could skyrocket in value.
+
+The Motley Fool • 1h ago
+
+---
+
+**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://www.dlnews.com/articles/markets/blackrock-buys-up-bitmine-shares-as-ethereum-may-hit-1400/)**
+
+Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
+
+dlnews.com • 3d ago
 
 ---
 
@@ -194,15 +216,7 @@ CoinDesk • 2d ago
 
 Ethereum price started a fresh decline and traded below $2,000. ETH is now consolidating and remains at risk of another decline below $1,940.Ethereum Price Dips AgainEthereum price failed to stay above $2,050 and started a fresh decline, like Bitcoin. ETH price traded below the $2,040 and $2,020 le…
 
-TradingView • 7h ago
-
----
-
-**[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
-
-Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
-
-BeInCrypto • 1d ago
+TradingView • 8h ago
 
 ---
 
@@ -210,23 +224,7 @@ BeInCrypto • 1d ago
 
 Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
 
-Crypto Briefing • 11h ago
-
----
-
-**[$660M in Ethereum leaves exchanges – Yet ETH’s bottom remains unclear!](https://ambcrypto.com/660m-in-ethereum-leaves-exchanges-yet-eths-bottom-remains-unclear/)**
-
-The negative Funding Rates and spot ETF flows reflected how demand for Ethereum could not outweigh the selling pressure.
-
-AMBCrypto • 2d ago
-
----
-
-**[Bitcoin, Ethereum, XRP, Dogecoin Slide On High Selling Pressure: Analyst Sees 'Adam & Eve' Pattern That Could Push Bitcoin To $79,000 - Grayscale Bitcoin Mini Trust (BTC) (ARCA:BTC)](https://www.benzinga.com/crypto/cryptocurrency/26/02/50635392/bitcoin-ethereum-xrp-dogecoin-slide-on-high-selling-pressure-analyst-sees-adam-eve-pattern-that-could-push-bitcoin-to-79000)**
-
-Leading cryptocurrencies fell on Sunday, but stock futures rose as consumer inflation eased to an 8-month low.
-
-Benzinga • 8h ago
+Crypto Briefing • 12h ago
 
 ---
 
@@ -250,7 +248,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 4K • 👍 206 • 💬 38 • ⏱️ 17:52 • 13h ago
+👁️ 4K • 👍 206 • 💬 38 • ⏱️ 17:52 • 14h ago
 
 ---
 
@@ -260,7 +258,7 @@ As far as every single analyst and CEO has said.. all signs seem to be pointing 
 
 📺 The Modern Investor
 
-👁️ 241 • 👍 44 • 💬 8 • ⏱️ 30:43 • 1h ago
+👁️ 241 • 👍 44 • 💬 8 • ⏱️ 30:43 • 2h ago
 
 ---
 
@@ -280,7 +278,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 150 • 💬 9 • ⏱️ 4:44 • 8h ago
+👁️ 2K • 👍 150 • 💬 9 • ⏱️ 4:44 • 9h ago
 
 ---
 
@@ -290,7 +288,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 5K • 👍 214 • 💬 16 • ⏱️ 17:15 • 8h ago
+👁️ 5K • 👍 214 • 💬 16 • ⏱️ 17:15 • 9h ago
 
 ---
 
@@ -310,7 +308,7 @@ Free Milk Road Newsletters: ...
 
 📺 Milk Road
 
-👁️ 3K • 👍 84 • 💬 40 • ⏱️ 13:02 • 20h ago
+👁️ 3K • 👍 84 • 💬 40 • ⏱️ 13:02 • 21h ago
 
 ---
 
@@ -320,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 183 • 💬 5 • ⏱️ 4:45 • 20h ago
+👁️ 3K • 👍 183 • 💬 5 • ⏱️ 4:45 • 21h ago
 
 ---
 
@@ -330,7 +328,7 @@ Crypto and bitcoin crash is forcing liquidations. This just got worse and we are
 
 📺 Thomas Kralow
 
-👁️ 30K • 👍 3K • 💬 53 • ⏱️ 10:34 • 2d ago
+👁️ 30K • 👍 3K • 💬 53 • ⏱️ 10:34 • 3d ago
 
 ---
 

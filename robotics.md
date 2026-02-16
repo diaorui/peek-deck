@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T10:52:33.832716+00:00'
+updated: '2026-02-16T11:41:32.216899+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 10:52 UTC  
+**Last Updated:** February 16, 2026 at 11:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,23 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
+**[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-17h ago
+13m ago
 
 ---
 
 **[Thoughts on Bio Robotics Engineering?](https://www.reddit.com/r/robotics/comments/1r657wl/thoughts_on_bio_robotics_engineering/)**
 
-Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in biorobotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio Robotics engineers in the next 50 years? Thanks for your help/elaborations!
+Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-1h ago
+2h ago
+
+---
+
+**[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
+
+18h ago
 
 ---
 
@@ -51,6 +57,14 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
 1d ago
+
+---
+
+**[Armatron Robotic Arm only One motor amazing mechanical mechanism engineering #roboticarm](https://www.reddit.com/r/robotics/comments/1r5lu49/armatron_robotic_arm_only_one_motor_amazing/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 17h ago
 
 ---
 
@@ -66,15 +80,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-18h ago
-
----
-
-**[Armatron Robotic Arm only One motor amazing mechanical mechanism engineering #roboticarm](https://www.reddit.com/r/robotics/comments/1r5lu49/armatron_robotic_arm_only_one_motor_amazing/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 16h ago
+19h ago
 
 ---
 
@@ -96,13 +102,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-23h ago
-
----
-
-**[My grandmother has seen a little too much Winter Olympics](https://www.reddit.com/r/robotics/comments/1r4316q/my_grandmother_has_seen_a_little_too_much_winter/)**
-
-2d ago
+1d ago
 
 ---
 
@@ -110,11 +110,41 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 ## Google News: "robotics"
 
-**[Get a grip: Robotics firms struggle to develop hands](https://www.bbc.com/news/articles/cg7y45kxvp9o)**
+**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
 
-Developing a durable and affordable hand is one of the biggest challenges in robotics.
+Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-BBC • 3d ago
+Futurism • 18h ago
+
+---
+
+**[Medtronic secures FDA approval for Stealth AXiS spine robotics platform](https://www.yahoo.com/news/articles/medtronic-secures-fda-approval-stealth-110807453.html)**
+
+The Stealth AXiS system architecture allows support for a variety of surgeon preferences and clinical complexities.
+
+Yahoo • 33m ago
+
+---
+
+**[China's humanoid robots ready for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
+
+Reuters • 3h ago
+
+---
+
+**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
+
+Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
+
+Interesting Engineering • 20h ago
+
+---
+
+**[China Built A Shape-Shifting Robot That Can Grow Like A Human](https://www.bgr.com/2098835/china-shape-shifting-robot-human-inspired-growth/)**
+
+A new robot out of China can change its shape by inflating or deflating, and its creators hope it can be put to use for search and rescue operations.
+
+bgr.com • 15h ago
 
 ---
 
@@ -126,17 +156,11 @@ CNN • 2d ago
 
 ---
 
-**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
 
-Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-Interesting Engineering • 19h ago
-
----
-
-**[China's humanoid robots ready for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
-
-Reuters • 2h ago
+KWQC • 10h ago
 
 ---
 
@@ -150,35 +174,15 @@ Forbes • 3d ago
 
 This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
 
-Interesting Engineering • 6h ago
+Interesting Engineering • 7h ago
 
 ---
 
-**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
+**[Pioneering use of robotics shifts heart surgery into a higher gear](https://www.post-gazette.com/wellness/2026/02/15/upmc-johannes-bonatti-robotic-heart-surgery/stories/202601270049)**
 
-ABC27 • 11h ago
+Bonatti is at the forefront of a shift in cardiac surgery, using robotics to perform complex procedures with smaller incisions, faster recovery and lower risks than traditional surgery
 
----
-
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
-
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
-
-KWQC • 9h ago
-
----
-
-**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
-
-Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
-
-Futurism • 17h ago
-
----
-
-**[VEX Robotics hosts ‘Bots at Bristol’ tournament for middle schools](https://www.wjhl.com/news/local/vex-robotics-hosts-bots-at-bristol-tournament-for-middle-schools/)**
-
-WJHL • 18h ago
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -202,7 +206,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 11K • 👍 475 • 💬 58 • ⏱️ 12:43 • 11h ago
+👁️ 11K • 👍 475 • 💬 58 • ⏱️ 12:43 • 12h ago
 
 ---
 
@@ -222,7 +226,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 28K • 👍 1K • 💬 358 • ⏱️ 9:43 • 12h ago
+👁️ 28K • 👍 1K • 💬 358 • ⏱️ 9:43 • 13h ago
 
 ---
 
