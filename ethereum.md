@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T19:53:07.629605+00:00'
+updated: '2026-02-16T20:34:22.744079+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- social
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 19:53 UTC  
+**Last Updated:** February 16, 2026 at 20:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -2.4%  
-**30d:** -40.0%  
-**90d:** -34.9%  
-**1y:** -28.1%  
+**24h:** +1.3%  
+**7d:** -1.8%  
+**30d:** -39.6%  
+**90d:** -34.5%  
+**1y:** -27.7%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
+
+---
+
+**[Need help for traffic on my DeFi project](https://www.reddit.com/r/ethereum/comments/1r6ix7n/need_help_for_traffic_on_my_defi_project/)**
+
+Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
+
+1h ago
 
 ---
 
@@ -88,7 +96,7 @@ Fundstrat’s Tom Lee says crypto winter is either already over or will end by A
 
 We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
 
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 2h ago
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 3h ago
 
 ---
 
@@ -140,12 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,15 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum hovers near $2,000 as SOPR signals loss saturation, but falling new address growth and weak inflows continue capping recovery.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Harvard cuts bitcoin exposure by 20%, adds new ether position](https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position)**
-
-The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
-
-CoinDesk • 5h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -174,19 +168,27 @@ Nasdaq • 2d ago
 
 ---
 
+**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://decrypt.co/358162/harvard-cuts-bitcoin-etf-stake-adds-ethereum-exposure-in-q4-filing)**
+
+Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
+
+Decrypt • 4h ago
+
+---
+
 **[Has Bitcoin and Ethereum Reached Price Bottom? Tom Lee Claims Crypto Winter Is “Close To Ending”](https://www.ccn.com/news/crypto/tom-lee-calls-bitcoin-and-ethereum-bottom-claims-crypto-winter/)**
 
 Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
 
-CCN.com • 8h ago
+CCN.com • 9h ago
 
 ---
 
-**[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
+**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
 
-Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
+Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
-Decrypt • 2d ago
+CoinDesk • 3d ago
 
 ---
 
@@ -208,7 +210,15 @@ BeInCrypto • 1d ago
 
 Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
 
-Crypto Briefing • 20h ago
+Crypto Briefing • 21h ago
+
+---
+
+**[$1T XRP trades on Upbit – Are Korean traders ignoring Bitcoin, Ethereum?](https://ambcrypto.com/1t-xrp-trades-on-upbit-are-korean-traders-ignoring-bitcoin-ethereum/)**
+
+XRP’s spot strength outpaces derivatives participation, reflecting Korea’s cash-market dominance in crypto sentiment flows.
+
+AMBCrypto • 3h ago
 
 ---
 
@@ -217,14 +227,6 @@ Crypto Briefing • 20h ago
 The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
 
 The Motley Fool • 2d ago
-
----
-
-**[$1T XRP trades on Upbit – Are Korean traders ignoring Bitcoin, Ethereum?](https://ambcrypto.com/1t-xrp-trades-on-upbit-are-korean-traders-ignoring-bitcoin-ethereum/)**
-
-XRP’s spot strength outpaces derivatives participation, reflecting Korea’s cash-market dominance in crypto sentiment flows.
-
-AMBCrypto • 2h ago
 
 ---
 
@@ -268,7 +270,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 5K • 👍 239 • 💬 41 • ⏱️ 17:52 • 22h ago
+👁️ 5K • 👍 239 • 💬 41 • ⏱️ 17:52 • 23h ago
 
 ---
 
@@ -288,7 +290,7 @@ Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn h
 
 📺 World Liberty Financial
 
-👁️ 3K • 👍 75 • 💬 7 • ⏱️ 2:13 • 5h ago
+👁️ 3K • 👍 75 • 💬 7 • ⏱️ 2:13 • 6h ago
 
 ---
 
@@ -298,7 +300,7 @@ As far as every single analyst and CEO has said.. all signs seem to be pointing 
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 642 • 💬 52 • ⏱️ 30:43 • 10h ago
+👁️ 5K • 👍 642 • 💬 52 • ⏱️ 30:43 • 11h ago
 
 ---
 
@@ -308,7 +310,7 @@ What happens when a blockchain splits? This video explains soft and hard forks, 
 
 📺 CoinGecko
 
-👁️ 1K • 👍 110 • 💬 14 • ⏱️ 4:01 • 8h ago
+👁️ 1K • 👍 110 • 💬 14 • ⏱️ 4:01 • 9h ago
 
 ---
 
@@ -318,7 +320,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 367 • 👍 75 • 💬 11 • ⏱️ 59:47 • 3h ago
+👁️ 367 • 👍 75 • 💬 11 • ⏱️ 59:47 • 4h ago
 
 ---
 
@@ -328,7 +330,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 262 • 💬 41 • ⏱️ 17:15 • 17h ago
+👁️ 8K • 👍 262 • 💬 41 • ⏱️ 17:15 • 18h ago
 
 ---
 

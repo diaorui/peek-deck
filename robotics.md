@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T19:53:07.632880+00:00'
+updated: '2026-02-16T20:34:22.747268+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 19:53 UTC  
+**Last Updated:** February 16, 2026 at 20:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,15 +34,7 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-4h ago
-
----
-
-**[got rejected multiple times from companies for robotics roles with this resume](https://www.reddit.com/r/robotics/comments/1r6eq37/got_rejected_multiple_times_from_companies_for/)**
-
-I am a final year Btech student with experience in robotics .I had applied for various roles like robotics software engineer,software engineer-autonomous vehicles, etc in many companies like Nvidia etc,but got rejected multiple times, someone please help.
-
-3h ago
+5h ago
 
 ---
 
@@ -50,13 +42,21 @@ I am a final year Btech student with experience in robotics .I had applied for v
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 3h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 4h ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-8h ago
+9h ago
+
+---
+
+**[Help in finding the best course or resources](https://www.reddit.com/r/robotics/comments/1r6jup5/help_in_finding_the_best_course_or_resources/)**
+
+Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robotics related things if anyone can plz list it out also I'm in my final year of engineering ECE and i know very basic of all these mentioned I need full deep learning and good projects , i already have a job in robotics ai but to make it full time I need to gear up and learn a lot and build projects so Help me to find a best course,im ready to pay also but not that costly still broke need certification cause they might be valued in future also etc etc Building projects will be my part but I need to learn first
+
+45m ago
 
 ---
 
@@ -72,7 +72,7 @@ So we have a pick and place bot competition in 3 days, and we planned to prepare
 
 Robotics software engineers here: is it possible to write functional infrastructure software using simulated environments (e.g. Isaac to get sensor data and pipe it into Jetson hw) that can be shifted to a compatible robot without too much hassle?
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,13 @@ Robotics software engineers here: is it possible to write functional infrastruct
 
 I’m planning to make a pen plotter for my college project and I’m really interested in this but I’m not really knowledgeable about this. The plotter I have in mind is a corexy model and I don’t know much about it. I’d really appreciate some help and insight into this. Anyone please help me regarding this.
 
-2h ago
+3h ago
+
+---
+
+**[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
+
+1d ago
 
 ---
 
@@ -88,13 +94,7 @@ I’m planning to make a pen plotter for my college project and I’m really int
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-10h ago
-
----
-
-**[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
-
-1d ago
+11h ago
 
 ---
 
@@ -110,19 +110,9 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 
 ## Google News: "robotics"
 
-**[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
+**[Americans are unleashing their anger on food-delivery robots](https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots)**
 
-Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
-
-Fox News • 2h ago
-
----
-
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
-
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
-
-KWQC • 18h ago
+The Economist • 2h ago
 
 ---
 
@@ -130,23 +120,21 @@ KWQC • 18h ago
 
 ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
 
-South China Morning Post • 21h ago
+South China Morning Post • 22h ago
 
 ---
 
-**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
+**[China Ready to Dazzle the World with Humanoid Robots ‘Super Bowl’ Show](https://www.tipranks.com/news/china-ready-to-dazzle-the-world-with-humanoid-robots-super-bowl-show)**
 
-The Economics Show 🤜🤛 FT Alphaville
-
-Financial Times • 9h ago
+TipRanks • 8h ago
 
 ---
 
-**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
+**[Watch: China's most-watched TV program of the year features impressive humanoid robots](https://investinglive.com/news/watch-chinas-most-watched-tv-program-of-the-year-features-impressive-humanoid-robots-20260216/)**
 
-Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
+Hard to imagine China losing the robot race
 
-Interesting Engineering • 1d ago
+investingLive • 5h ago
 
 ---
 
@@ -158,31 +146,43 @@ CNN • 2d ago
 
 ---
 
-**[Blackburn, Blumenthal probe robotics company after AI toy audio found publicly accessible](https://wcyb.com/news/local/blackburn-blumenthal-probe-robotics-company-after-ai-toy-audio-found-publicly-accessible)**
+**[Video: US firm’s laundry-folding home robot launches with monthly subscription](https://interestingengineering.com/ai-robotics/video-laundry-folding-home-robot)**
 
-U.S. Sens. Marsha Blackburn (R-Tenn.) and Richard Blumenthal (D-Conn.) said they are investigating an artificial intelligence toy manufacturer after what they d
+Weave Robotics' Isaac 0 folds clothes using AI, with remote human assistance helping to improve its performance over time.
 
-WCYB • 3d ago
-
----
-
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
-
-KSN-TV • 2d ago
+Interesting Engineering • 10h ago
 
 ---
 
-**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
+**[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
 
-ABC27 • 20h ago
+Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
+
+Fox News • 3h ago
 
 ---
 
-**[West Michigan robotics manufacturer raises record $165,000 for charity](https://www.mlive.com/news/grand-rapids/2026/02/west-michigan-robotics-manufacturer-raises-record-165000-for-charity.html)**
+**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
 
-JR Automation raised more than $165,000 for local nonprofits in 2025 through its employee-led charity program.
+The Economics Show 🤜🤛 FT Alphaville
 
-MLive.com • 2h ago
+Financial Times • 10h ago
+
+---
+
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+
+KWQC • 19h ago
+
+---
+
+**[China’s New $173K ‘Biometric’ Robot Aims to be a Warm-Blooded Companion For Humans](https://www.zmescience.com/science/robotics/chinas-new-173k-biometric-robot-aims-to-be-a-warm-blooded-companion-for-humans/)**
+
+China’s new lifelike robot hints at a future of intimate human-machine interaction.
+
+ZME Science • 10h ago
 
 ---
 
@@ -206,7 +206,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 19K • 👍 2K • 💬 260 • ⏱️ 1:41 • 3h ago
+👁️ 19K • 👍 2K • 💬 260 • ⏱️ 1:41 • 4h ago
 
 ---
 
@@ -236,7 +236,7 @@ Dozens of Unitree humanoid robots just achieved a world first with a fully auton
 
 📺 DPCcars
 
-👁️ 6K • 👍 357 • 💬 88 • ⏱️ 2:07 • 3h ago
+👁️ 6K • 👍 357 • 💬 88 • ⏱️ 2:07 • 4h ago
 
 ---
 
@@ -246,7 +246,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 19K • 👍 646 • 💬 84 • ⏱️ 12:43 • 20h ago
+👁️ 19K • 👍 646 • 💬 84 • ⏱️ 12:43 • 21h ago
 
 ---
 
@@ -286,7 +286,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 34K • 👍 2K • 💬 401 • ⏱️ 9:43 • 21h ago
+👁️ 34K • 👍 2K • 💬 401 • ⏱️ 9:43 • 22h ago
 
 ---
 
