@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T21:29:36.397978+00:00'
+updated: '2026-02-16T21:55:04.443859+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 21:29 UTC  
+**Last Updated:** February 16, 2026 at 21:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,202.00
+### $68,437.34
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -0.9%  
-**30d:** -27.2%  
-**90d:** -25.2%  
-**1y:** -28.8%  
+**24h:** -0.6%  
+**7d:** -0.4%  
+**30d:** -26.9%  
+**90d:** -24.9%  
+**1y:** -28.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1358.53B
+**Market Cap:** $1369.32B
 Rank #1
 
-**Circulating Supply:** 19,990,462 BTC
+**Circulating Supply:** 19,990,481 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.1%
+-45.7%
 
 **All-Time Low:** $67.81
-+100118.3%
++100877.7%
 
 ---
 
@@ -79,13 +79,7 @@ Rank #1
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-11h ago
-
----
-
-**[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
-
-4h ago
+12h ago
 
 ---
 
@@ -93,7 +87,21 @@ Rank #1
 
 Full segment is on YouTube.
 
-2h ago
+3h ago
+
+---
+
+**[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
+
+5h ago
+
+---
+
+**[Norwegian sovereign wealth fund increased its indirect Bitcoin exposure by 149% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r6djoe/norwegian_sovereign_wealth_fund_increased_its/)**
+
+The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
+
+🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 5h ago
 
 ---
 
@@ -103,11 +111,11 @@ Full segment is on YouTube.
 
 ---
 
-**[Norwegian sovereign wealth fund increased its indirect Bitcoin exposure by 149% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r6djoe/norwegian_sovereign_wealth_fund_increased_its/)**
+**[Question](https://www.reddit.com/r/Bitcoin/comments/1r6ixj6/question/)**
 
-The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
+If everyone assumes Bitcoin will drop more why don't they just sell and buy back in around October when the bottom is in
 
-🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 5h ago
+2h ago
 
 ---
 
@@ -125,23 +133,19 @@ Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we
 
 ---
 
-**[Once again I had to put a Bitcoin QR code on my lastest mural under the Louvre in Paris](https://www.reddit.com/r/Bitcoin/comments/1r5dggv/once_again_i_had_to_put_a_bitcoin_qr_code_on_my/)**
+**[Willy Woo now FUDding Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r6kkav/willy_woo_now_fudding_bitcoin/)**
 
-The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
+He just dropped a post on X stating why the quantum threat (with it's attendant potential loss of the Sathoshi 1 million coin and other lost coins) will hang over Bitcoin for the next 5-15 years and that Bitcoin may not make ATH until after that time period Like to know your thoughts For me I read and moved on to stack more SATs. Just another day in the Bitcoin lane
 
-1d ago
-
----
-
-**[Today is a very special day!!! My 15 year old son started his Bitcoin venture 💙. I told him to stack them monthly 🤑🤑 lil Satoshis](https://www.reddit.com/r/Bitcoin/comments/1r5z5r1/today_is_a_very_special_day_my_15_year_old_son/)**
-
-17h ago
+1h ago
 
 ---
 
-**["I look at Bitcoin as the best savings technology that's ever existed"](https://www.reddit.com/r/Bitcoin/comments/1r6d92n/i_look_at_bitcoin_as_the_best_savings_technology/)**
+**[Could derivatives have compromised Bitcoin's scarcity?](https://www.reddit.com/r/Bitcoin/comments/1r6l58i/could_derivatives_have_compromised_bitcoins/)**
 
-5h ago
+I mean, you used to buy Bitcoin and knew you were getting something limited. Now, many financial activities are conducted on Bitcoin derivatives, so the scarcity issue doesn't arise. You only care that the derivative replicates the underlying asset's performance. Could this impact Bitcoin's growth?
+
+1h ago
 
 ---
 
@@ -157,49 +161,11 @@ The Atlantic • 9h ago
 
 ---
 
-**[In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
+**[This Top Analyst Warns Bitcoin Price Could Fall to $10,000 as Bear Market Deepens](https://finance.yahoo.com/news/top-analyst-warns-bitcoin-price-125332989.html)**
 
-As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
+Bitcoin just got hit with one of its most extreme warnings yet. A well known strategist is calling this an imploding bubble, with a potential slide toward $10,000 price point.That would mean roughly 85% downside from current levels. A scenario that sounds unthinkable to many, but impossible to ignore when ...
 
-CNBC • 1d ago
-
----
-
-**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
-
-Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
-
-The Block • 11h ago
-
----
-
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
-
-Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
-
-Nasdaq • 1d ago
-
----
-
-**[Bitcoin 'Boom-Bust' Era Is Over as Institutions Take the Lead: WisdomTree](https://finance.yahoo.com/news/bitcoin-boom-bust-era-over-164048138.html)**
-
-Crypto's adolescence is over—and institutional capital is changing the rules of engagement, says WisdomTree's latest market analysis.
-
-Yahoo Finance • 4h ago
-
----
-
-**[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
-
-x.com • 4h ago
-
----
-
-**[Metaplanet Reports $619 Million Loss As Bitcoin Holdings Take Hit](https://bitcoinmagazine.com/news/metaplanet-reports-619-million-loss)**
-
-Tokyo-based bitcoin treasury firm Metaplanet reported a fiscal 2025 net loss of 95 billion yen ($619 million), largely due to a 102.2 billion yen ($666 million) drop in the value of its bitcoin holdings.
-
-Bitcoin Magazine • 2h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -211,17 +177,53 @@ BBC • 1d ago
 
 ---
 
-**[This Top Analyst Warns Bitcoin Price Could Fall to $10,000 as Bear Market Deepens](https://finance.yahoo.com/news/top-analyst-warns-bitcoin-price-125332989.html)**
+**[Bitcoin 'Boom-Bust' Era Is Over as Institutions Take the Lead: WisdomTree](https://finance.yahoo.com/news/bitcoin-boom-bust-era-over-164048138.html)**
 
-Bitcoin just got hit with one of its most extreme warnings yet. A well known strategist is calling this an imploding bubble, with a potential slide toward $10,000 price point.That would mean roughly 85% downside from current levels. A scenario that sounds unthinkable to many, but impossible to ignore when ...
+Crypto's adolescence is over—and institutional capital is changing the rules of engagement, says WisdomTree's latest market analysis.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
+
+As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
+
+CNBC • 1d ago
+
+---
+
+**[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
+
+x.com • 4h ago
+
+---
+
+**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
+
+Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
+
+The Block • 12h ago
+
+---
+
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
+
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
+
+Nasdaq • 2d ago
 
 ---
 
 **[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
 Forbes • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqdSDNVtfqKUufbWe338fYfpCg4BzHE7SeIbsIzWkP84mYBi74uR91jH&gaa_ts=699395a2&gaa_sig=kMBXIVJ-Q6fYF_GYJRseahe5drjvOtsuqN198H-QtFsTs0TLm7W-c1Rgj8AdZe6RXByRgJG9mFOFpKUjX0CvCg%3D%3D)**
+
+Barron's • 11h ago
 
 ---
 
@@ -315,7 +317,27 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 1K • 💬 92 • ⏱️ 39:54 • 5h ago
+👁️ 20K • 👍 1K • 💬 102 • ⏱️ 39:54 • 6h ago
+
+---
+
+**[Dan Tapiero: &quot;What&#39;s Happening To Bitcoin Right Now Is NOT Normal&quot;](https://www.youtube.com/watch?v=jk17_pQZUN8)**
+
+Dan Tapiero just dropped a BOMBSHELL about what's really happening to crypto. The legendary macro investor who runs 50T ...
+
+📺 Money Talks
+
+👁️ 292 • 👍 15 • 💬 10 • ⏱️ 13:32 • 3h ago
+
+---
+
+**[DCA Live: &quot;Oxygen Sucked Out&quot; ⚠️ Did AI Just Kill the Bitcoin Cycle?](https://www.youtube.com/watch?v=r1Cr_f5SVl0)**
+
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA RETIRE ON: ...
+
+📺 InvestAnswers
+
+👁️ 20K • 👍 2K • 💬 129 • ⏱️ 1:06:56 • 4h ago
 
 ---
 
@@ -325,7 +347,7 @@ Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin cr
 
 📺 Crypto Insider
 
-👁️ 12K • 👍 895 • 💬 101 • ⏱️ 18:15 • 7h ago
+👁️ 16K • 👍 1K • 💬 113 • ⏱️ 18:15 • 7h ago
 
 ---
 
@@ -335,17 +357,7 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 7K • 👍 144 • 💬 48 • ⏱️ 12:20 • 1d ago
-
----
-
-**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
-
-Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
-
-📺 Altcoin Daily
-
-👁️ 46K • 👍 2K • 💬 242 • ⏱️ 11:16 • 22h ago
+👁️ 7K • 👍 148 • 💬 49 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -355,27 +367,37 @@ Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord
 
 📺 DataDash
 
-👁️ 2K • 👍 205 • 💬 26 • ⏱️ 33:12 • 5h ago
+👁️ 3K • 👍 250 • 💬 26 • ⏱️ 33:12 • 5h ago
 
 ---
 
-**[Bitcoin Bear Market Resistance Band](https://www.youtube.com/watch?v=1E2cJu2ZjEs)**
+**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
 
-In January, we outlined a late-cycle restrictive regime and leaned cautious on risk. Since then, BTC has declined materially and ...
+Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
 
-📺 Benjamin Cowen
+📺 Altcoin Daily
 
-👁️ 55K • 👍 4K • 💬 159 • ⏱️ 13:07 • 16h ago
+👁️ 47K • 👍 2K • 💬 248 • ⏱️ 11:16 • 23h ago
 
 ---
 
-**[This Bitcoin Selloff Is Different And Nobody Understands What Comes Next! | Dan Tapiero](https://www.youtube.com/watch?v=XM3GMkAh9GU)**
+**[🟠ESTAN Comprando BITCOIN ¿Por Qué lo HACEN?](https://www.youtube.com/watch?v=8T038kdEFuA)**
 
-Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is structurally different from past cycles. With venture tokens ...
+Por esto Binance compro 15.000 bitcoin, ballenas y acumuladores haciendo la tarea Quantfury es la aplicación de trading que ...
 
-📺 The Wolf Of All Streets
+📺 Bitcoin y Criptos
 
-👁️ 40K • 👍 1K • 💬 785 • ⏱️ 30:55 • 1d ago
+👁️ 4K • 👍 733 • 💬 31 • ⏱️ 14:27 • 1h ago
+
+---
+
+**[Live Trading A $320K Bitcoin Position (Buy The Dump)](https://www.youtube.com/watch?v=rR_B_jbhiEc)**
+
+The crypto market is moving right now and Sheldon is going to see if he can get some profits going from his live prop trading ...
+
+📺 Sniper Trading
+
+👁️ 3K • 👍 297 • ⏱️ 1:59:01 • 4h ago
 
 ---
 
@@ -385,27 +407,7 @@ Bitcoin bottom in? Buy now says analyst. Altcoins heating up! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 756 • 💬 71 • ⏱️ 17:35 • 9h ago
-
----
-
-**[Tom Lee Finally Breaks His Silence On The Bitcoin Crash — &quot;This Changes Everything&quot;](https://www.youtube.com/watch?v=Ve9X-oU48II)**
-
-Tom Lee, Fundstrat's Head of Research, finally breaks his silence on the Bitcoin crash. After weeks of silence while Bitcoin ...
-
-📺 Money Talks
-
-👁️ 6K • 👍 93 • 💬 28 • ⏱️ 11:16 • 2d ago
-
----
-
-**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
-
-Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
-
-📺 Anthony Pompliano
-
-👁️ 50K • 👍 2K • 💬 95 • ⏱️ 21:49 • 2d ago
+👁️ 13K • 👍 812 • 💬 75 • ⏱️ 17:35 • 10h ago
 
 ---
 

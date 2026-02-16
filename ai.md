@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T21:29:36.389594+00:00'
+updated: '2026-02-16T21:55:04.436100+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - news
-- videos
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 21:29 UTC  
+**Last Updated:** February 16, 2026 at 21:55 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[I love Claude but honestly some of the "Claude might have gained consciousness" nonsense that their marketing team is pushing lately is a bit off putting. They know better!](https://www.reddit.com/r/artificial/comments/1r6lw8i/i_love_claude_but_honestly_some_of_the_claude/)**
+
+- Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious - Link - Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - Link
+
+50m ago
+
+---
+
 **[‘Pulp Fiction’ co-writer Roger Avary says it was "impossible" to get his movies made until he started an AI production company: "Just Put AI in Front of It and All of a Sudden You’re in Production on Three Features"](https://www.reddit.com/r/artificial/comments/1r5xr49/pulp_fiction_cowriter_roger_avary_says_it_was/)**
 
 'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
 
-🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 18h ago
-
----
-
-**[Are AI note taking apps overhyped right now?](https://www.reddit.com/r/artificial/comments/1r6b95h/are_ai_note_taking_apps_overhyped_right_now/)**
-
-Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
-
-6h ago
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 19h ago
 
 ---
 
@@ -59,11 +59,19 @@ Every few weeks there’s a new “best AI note taking app” claiming to fix me
 
 ---
 
+**[Are AI note taking apps overhyped right now?](https://www.reddit.com/r/artificial/comments/1r6b95h/are_ai_note_taking_apps_overhyped_right_now/)**
+
+Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
+
+7h ago
+
+---
+
 **[OpenAI Didn't Buy a Product. They Bought a Distribution Channel.](https://www.reddit.com/r/artificial/comments/1r6l28c/openai_didnt_buy_a_product_they_bought_a/)**
 
 My take on the real reason behind the OpenClaw acquisition:
 
-🔗 [thepragmaticcto.com](https://www.thepragmaticcto.com/p/openai-didnt-buy-a-product-they-bought) • 56m ago
+🔗 [thepragmaticcto.com](https://www.thepragmaticcto.com/p/openai-didnt-buy-a-product-they-bought) • 1h ago
 
 ---
 
@@ -75,19 +83,11 @@ Business & Software: Building Systems Together - Conversation with Caltech Data 
 
 ---
 
-**[Manus AI](https://www.reddit.com/r/artificial/comments/1r6kusc/manus_ai/)**
-
-Love it best ai ever id pay good for it please share my code lets make America fake again I mean hate .....great again 😂 https://manus.im/invitation/FTKQ10TFQNP9MNU
-
-1h ago
-
----
-
 **[Izwi Update: Local Speaker Diarization, Forced Alignment, and better model support](https://www.reddit.com/r/artificial/comments/1r6boij/izwi_update_local_speaker_diarization_forced/)**
 
 Quick update on Izwi (local audio inference engine) - we've shipped some major features: What's New: Speaker Diarization - Automatically identify and separate multiple speakers using Sortformer models. Perfect for meeting transcripts. Forced Alignment - Word-level timestamps between audio and text using Qwen3-ForcedAligner. Great for subtitles. Real-Time Streaming - Stream responses for transcribe, chat, and TTS with incremental delivery. Multi-Format Audio - Native support for WAV, MP3, FLAC, OGG via Symphonia. Performance - Parallel execution, batch ASR, paged KV cache, Metal optimizations. Model Support: TTS: Qwen3-TTS (0.6B, 1.7B), LFM2.5-Audio ASR: Qwen3-ASR (0.6B, 1.7B), Parakeet TDT, LFM2.5-Audio Chat: Qwen3 (0.6B, 1.7), Gemma 3 (1B) Diarization: Sortformer 4-speaker Docs: https://izwiai.com/ Github Repo: https://github.com/agentem-ai/izwi Give us a star on GitHub and try it out. Feedback is welcome!!!
 
-🔗 [izwiai.com](https://izwiai.com/) • 6h ago
+🔗 [izwiai.com](https://izwiai.com/) • 7h ago
 
 ---
 
@@ -103,15 +103,15 @@ LLMs are trained on language and text, what humans say. But language alone is in
 
 How Cross-page AI aggregation can introduce new liability vectors.
 
-🔗 [Code Input](https://codeinput.com/blog/google-seo) • 11h ago
+🔗 [Code Input](https://codeinput.com/blog/google-seo) • 12h ago
 
 ---
 
-**[Customizable AI Companions.](https://www.reddit.com/r/artificial/comments/1r61jbw/customizable_ai_companions/)**
+**[Looking for early testers for my competitive analysis tool (Claude needed currently)](https://www.reddit.com/r/artificial/comments/1r5vyxv/looking_for_early_testers_for_my_competitive/)**
 
-What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real time video calls with their own customizable AI companion?
+I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
 
-15h ago
+20h ago
 
 ---
 
@@ -119,11 +119,35 @@ What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real
 
 ## Google News: "ai"
 
+**['The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears](https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html)**
+
+Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
+
+Yahoo Finance • 4h ago
+
+---
+
+**[AI fears are hitting software stocks the hardest. Citi sees a buying opportunity in many names](https://www.cnbc.com/2026/02/16/ai-fears-hitting-software-stocks-citi-sees-opportunity-in-many-names.html)**
+
+Citi chose software stocks with earnings momentum and declines of more than 10% in the last month.
+
+CNBC • 7h ago
+
+---
+
+**[Why the ‘AI scare trade’ might not be done](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks)**
+
+A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
+
+CNN • 11h ago
+
+---
+
 **[TikTok creator ByteDance vows to curb AI video tool after Disney threat](https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt)**
 
 Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting
 
-The Guardian • 6h ago
+The Guardian • 2h ago
 
 ---
 
@@ -135,61 +159,41 @@ BBC • 11h ago
 
 ---
 
-**[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
+**[ByteDance responds to copyright infringement concerns with Seedance 2.0](https://www.nbcnews.com/tech/tech-news/seedance-2-bytedance-copyright-infringement-concerns-hollywood-rcna259173)**
 
-The New York Times • 3h ago
+The powerful new video model made by TikTok's Chinese owner is drawing alarm in Hollywood after it churned out a slew of copyrighted IP.
 
----
-
-**['The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears](https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html)**
-
-Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
-
-Yahoo Finance • 3h ago
+NBC News • 49m ago
 
 ---
 
-**[The AI ‘scare trade’ is tearing through markets. Bernstein picked 8 stocks that can weather the storm](https://www.cnbc.com/2026/02/16/ai-scare-trade-market-volatility-stocks.html)**
+**[AI chatbots to face strict online safety rules in UK](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl)**
 
-Analysts at Bernstein have highlighted eight stocks they consider as AI disruption-proof.
+AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on illegal content in the United Kingdom, as the government promises swift action to make the internet safer for children.
 
-CNBC • 8h ago
-
----
-
-**[Ray Dalio’s Bridgewater invests $253 million in major AI stock](https://finance.yahoo.com/news/ray-dalio-bridgewater-invests-253-190300758.html)**
-
-Ray Dalio’s Bridgewater just made a massive $253 million statement in the hotly competitive AI arms race. In its latest 13F, the macro giant upped its stake in Nvidia (NVDA) by nearly 1.35 million shares, bumping its position to $721 million at year-end. That puts the AI bellwether at nearly 2.63% ...
-
-Yahoo Finance • 2h ago
+CNN • 8h ago
 
 ---
 
-**[New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI](https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/)**
+**[Meta largely fails to protect kids from AI chatbots, per its own tests](https://www.axios.com/2026/02/16/meta-ai-chatbots-kids)**
 
-New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI. Microsoft, CoreWeave and Oracle Cloud Infrastructure are deploying NVIDIA GB300 NVL72 systems at scale for low-latency and long-context use cases.
-
-NVIDIA Blog • 2h ago
+Axios • 37m ago
 
 ---
 
-**[Anthropic’s Pentagon Talks Snag on AI for Surveillance, Weapons](https://www.bloomberg.com/news/articles/2026-02-16/pentagon-is-close-to-cutting-ties-with-anthropic-axios-says)**
+**[Starmer to extend online safety rules to AI chatbots after Grok scandal](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban)**
 
-Bloomberg.com • 3h ago
+Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
 
----
-
-**[Are Anthropic’s new AI work tools game-changing for professionals?](https://www.ft.com/content/92dfd571-8d34-42f1-8be8-dce126998e37)**
-
-Adaptable plug-ins must compete with bespoke products already used by lawyers and consultants
-
-Financial Times • 17h ago
+The Guardian • 23h ago
 
 ---
 
-**[Pentagon reviewing Anthropic partnership over terms of use dispute](https://thehill.com/policy/defense/5740369-pentagon-anthropic-relationship-review/)**
+**[Google puts users at risk by downplaying health disclaimers under AI Overviews](https://www.theguardian.com/technology/2026/feb/16/google-puts-users-at-risk-downplaying-disclaimers-ai-overviews)**
 
-The Hill • 2h ago
+Exclusive: Google fails to include safety warnings when users are first presented with AI-generated medical advice
+
+The Guardian • 31m ago
 
 ---
 
@@ -215,7 +219,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 369 • 💬 269 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 369 • 💬 270 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -223,7 +227,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 : The software doesn't show what files it's working on
 
-⬆️ 320 • 💬 195 • 10h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 333 • 💬 204 • 10h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -231,7 +235,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 311 • 💬 261 • 9h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 322 • 💬 269 • 9h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -239,7 +243,7 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 142 • 💬 227 • 1d ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 142 • 💬 229 • 1d ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -247,7 +251,7 @@ Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
 I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last.This is a...
 
-⬆️ 127 • 💬 194 • 4h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+⬆️ 136 • 💬 220 • 4h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 
 ---
 
@@ -259,11 +263,11 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 ---
 
-**[AI safety leader says 'world is in peril' and quits to study poetry](https://news.ycombinator.com/item?id=47007877)**
+**[AI optimism is a class privilege](https://news.ycombinator.com/item?id=47038134)**
 
-It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
+I think I have an idea why we're so extremely divided on AI: it's because we have an intuitive sense of who it stands to benefit, and who stands to pay the costs. I think whether you see reason for optimism has a lot to do with which group you see yourself in.
 
-⬆️ 86 • 💬 57 • 3d ago • [bbc.com](https://www.bbc.com/news/articles/c62dlvdq3e3o)
+⬆️ 58 • 💬 26 • 3h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
 
 ---
 
@@ -279,13 +283,13 @@ kubectl for AI Agents. Contribute to klawsh/klaw.sh development by creating an a
 
 ## YouTube Videos: "ai"
 
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
+**[Viral essay urges people to prepare for rapid advancements in artificial intelligence](https://www.youtube.com/watch?v=g8u0SlzVKAE)**
 
-news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
+If you've been on social media this week, you've likely seen an ominous warning about artificial intelligence in your feed: ...
 
-📺 Tyrone Magnus
+📺 CBS News
 
-👁️ 34K • 👍 2K • 💬 401 • ⏱️ 9:43 • 23h ago
+👁️ 87K • 👍 2K • 💬 548 • ⏱️ 7:08 • 2d ago
 
 ---
 
@@ -295,7 +299,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 17K • 👍 320 • 💬 80 • ⏱️ 8:34 • 18h ago
+👁️ 19K • 👍 337 • 💬 83 • ⏱️ 8:34 • 18h ago
 
 ---
 
@@ -305,77 +309,77 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 107K • 👍 1K • 💬 505 • ⏱️ 3:04 • 2d ago
+👁️ 110K • 👍 1K • 💬 517 • ⏱️ 3:04 • 2d ago
 
 ---
 
-**[AI agent hype will bankrupt you](https://www.youtube.com/watch?v=U5FPhnKMcKs)**
+**[I Asked AI To Recreate An Image From A Single Pixel](https://www.youtube.com/watch?v=Li4CqMXTfs0)**
 
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
 
-📺 Chris Norlund
+📺 Sambucha
 
-👁️ 65K • 👍 3K • 💬 808 • ⏱️ 16:13 • 20h ago
-
----
-
-**[NVIDIA’s Insane AI Found The Math Of Reality](https://www.youtube.com/watch?v=WNsSzX0L4Es)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
-
-📺 Two Minute Papers
-
-👁️ 62K • 👍 4K • 💬 217 • ⏱️ 9:10 • 1d ago
+👁️ 510K • 👍 34K • 💬 314 • ⏱️ 0:50 • 3h ago
 
 ---
 
-**[5 AI Skills That Will Be Worth $500K/Year by 2027](https://www.youtube.com/watch?v=9F-TcTlD5TE)**
+**[India–AI Impact Summit 2026 | All About The AI Summit | India&#39;s Big AI Moment | AI Adoption | N18V](https://www.youtube.com/watch?v=BrjY0CNeuTI)**
 
-Let's connect on LinkedIn: https://www.linkedin.com/in/christian-peverelli/ DFY OpenClaw: http://dripl.ink/xOgeB AI Sales Outbond: ...
+A.I. Impact Summit Begins In New Delhi Shereen Bhan takes us on a walk-through at Bharat Mandapam, giving a firsthand look at ...
 
-📺 Christian Peverelli - WeAreNoCode
+📺 CNBC-TV18
 
-👁️ 1K • 👍 99 • 💬 7 • ⏱️ 26:27 • 7h ago
-
----
-
-**[Bruce Lee VS Jackie Chan | Full AI animation](https://www.youtube.com/watch?v=O31jAeTHAxc)**
-
-Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce Lee in the ultimate showdown for martial ...
-
-📺 ShadowRivals
-
-👁️ 78K • 👍 1K • 💬 155 • ⏱️ 2:02 • 3d ago
+👁️ 14K • 👍 162 • 💬 16 • ⏱️ 15:09 • 12h ago
 
 ---
 
-**[I made AI trading bots compete to make money… (insane results)](https://www.youtube.com/watch?v=Tzk7DC92cAk)**
+**[This is how AI fears are impacting real estate services](https://www.youtube.com/watch?v=QtMxxWxvNkk)**
 
-I made AI trading bots compete to make money… (insane results) ➡️ Important Links: The Setup Guide: ...
+MacroMavens president Stephanie Pomboy analyzes where AI is headed on 'Mornings with Maria.' #fox #media #breakingnews ...
 
-📺 Across The Rubicon
+📺 Fox Business Clips
 
-👁️ 16K • 👍 877 • 💬 109 • ⏱️ 14:09 • 1d ago
-
----
-
-**[Viral essay urges people to prepare for rapid advancements in artificial intelligence](https://www.youtube.com/watch?v=g8u0SlzVKAE)**
-
-If you've been on social media this week, you've likely seen an ominous warning about artificial intelligence in your feed: ...
-
-📺 CBS News
-
-👁️ 84K • 👍 2K • 💬 529 • ⏱️ 7:08 • 2d ago
+👁️ 14K • 👍 260 • 💬 73 • ⏱️ 5:17 • 1d ago
 
 ---
 
-**[We&#39;re Not Ready for What AI Is About to Do to the Economy](https://www.youtube.com/watch?v=2rldvywEU8o)**
+**[Is 90s animation better than current animation ? #ai](https://www.youtube.com/watch?v=127TVbTq1og)**
 
-Channel members can watch the full video: https://www.youtube.com/@samharrisorg/membership SUBSCRIBE to gain access to ...
+Is 90s animation better than current animation ? Artificial Intelligence (AI) is a branch of computer science dedicated to creating ...
 
-📺 Sam Harris
+📺 mr. Pie
 
-👁️ 242K • 👍 5K • 💬 3K • ⏱️ 9:12 • 3d ago
+👁️ 215K • 👍 17K • 💬 151 • ⏱️ 1:44 • 2d ago
+
+---
+
+**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 18K • 👍 844 • 💬 72 • ⏱️ 7:05 • 2d ago
+
+---
+
+**[The Quantum-AI-Human Convergence: Why You’re More Than Any Machine Will Ever Be](https://www.youtube.com/watch?v=u3IX-UtZg1g)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI is ...
+
+📺 Julia McCoy
+
+👁️ 4K • 👍 459 • 💬 98 • ⏱️ 27:45 • 6h ago
+
+---
+
+**[The AI-Generated Intimacy Crisis | Bryony Cole | TED](https://www.youtube.com/watch?v=zSMcLEZgEeE)**
+
+Tonight, millions of people will go to bed and whisper to an AI companion. But what are we giving up when we fall in love with ...
+
+📺 TED
+
+👁️ 38K • 👍 1K • 💬 194 • ⏱️ 14:17 • 2d ago
 
 ---
 
@@ -391,7 +395,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 166,549 • ❤️ 1,238 • 3d ago
+⬇️ 166,549 • ❤️ 1,240 • 3d ago
 
 ---
 
@@ -403,7 +407,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 656 • 12h ago
+⬇️ 18,895 • ❤️ 661 • 13h ago
 
 ---
 
@@ -415,7 +419,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 21,014 • ❤️ 473 • 3d ago
+⬇️ 21,014 • ❤️ 483 • 3d ago
 
 ---
 
@@ -439,7 +443,7 @@ Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Del
 
 `image-text-to-text` `403.4B`
 
-⬇️ 0 • ❤️ 409 • 10h ago
+⬇️ 0 • ❤️ 423 • 11h ago
 
 ---
 
@@ -451,7 +455,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 788,036 • ❤️ 2,203 • 11d ago
+⬇️ 788,036 • ❤️ 2,205 • 11d ago
 
 ---
 
@@ -499,7 +503,7 @@ MOSS-TTS is a family of high-fidelity, expressive speech and sound generation mo
 
 `text-to-speech` `8.5B`
 
-⬇️ 9,596 • ❤️ 202 • 3d ago
+⬇️ 9,596 • ❤️ 203 • 3d ago
 
 ---
 
@@ -539,7 +543,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 62 • 💬 6 • ⭐ 13,418 • 4mo ago
+▲ 62 • 💬 6 • ⭐ 13,468 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -568,7 +572,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 183 • 💬 12 • ⭐ 3,597 • 17d ago
+▲ 184 • 💬 12 • ⭐ 3,597 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -647,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 6.6k • 🔱 632 • 1h ago
+⭐ 6.8k • 🔱 652 • 9m ago
 
 ---
 
@@ -691,7 +695,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.6k • 🔱 261 • 17h ago
+⭐ 2.6k • 🔱 262 • 17h ago
 
 ---
 
@@ -711,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 153 • 2h ago
+⭐ 2.2k • 🔱 154 • 9m ago
 
 ---
 
@@ -731,7 +735,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.0k • 🔱 258 • 1h ago
+⭐ 2.1k • 🔱 259 • 2h ago
 
 ---
 

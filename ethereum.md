@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T21:29:36.403925+00:00'
+updated: '2026-02-16T21:55:04.449121+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 21:29 UTC  
+**Last Updated:** February 16, 2026 at 21:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,972.64
+### $1,991.48
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -1.8%  
-**30d:** -39.6%  
-**90d:** -34.5%  
-**1y:** -27.7%  
+**24h:** +1.0%  
+**7d:** -1.5%  
+**30d:** -39.4%  
+**90d:** -34.2%  
+**1y:** -27.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.36B
+**Market Cap:** $240.04B
 Rank #2
 
 **Circulating Supply:** 120,692,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.1%
+-59.8%
 
 **All-Time Low:** $0.43
-+456021.4%
++459005.4%
 
 ---
 
@@ -84,19 +84,19 @@ Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stab
 
 ---
 
-**[Tom Lee: Crypto winter likely ends by April — bullish on Ethereum accumulation](https://www.reddit.com/r/ethereum/comments/1r66jjm/tom_lee_crypto_winter_likely_ends_by_april/)**
-
-Fundstrat’s Tom Lee says crypto winter is either already over or will end by April, pointing to late-cycle sentiment and improving macro. He also highlighted BitMine’s strategy of weekly ETH accumulation and staking as a long-term institutional bet on Ethereum. Article: https://btcusa.com/tom-lee-crypto-winter-likely-ends-by-april-as-ethereum-strategy-expands/ Do you agree we’re near the end of this cycle correction?
-
-10h ago
-
----
-
 **[[Research] Guardian: Role-Gated MPC Wallets for AI Agents](https://www.reddit.com/r/ethereum/comments/1r6g2f7/research_guardian_rolegated_mpc_wallets_for_ai/)**
 
 We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
 
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 3h ago
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 4h ago
+
+---
+
+**[you can get rewards and money for solving puzzles on the Freelance Society website](https://www.reddit.com/r/ethereum/comments/1r6lcq8/you_can_get_rewards_and_money_for_solving_puzzles/)**
+
+the sites openly available to anyone and offers ETH rewards. it’s all open sourced and pretty cool, so go check it out!
+
+1h ago
 
 ---
 
@@ -104,7 +104,7 @@ We're a group of researchers and have just prepared a draft addressing a gap in 
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-6h ago
+7h ago
 
 ---
 
@@ -128,7 +128,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 1d ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 2d ago
 
 ---
 
@@ -152,6 +152,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
+**[BlackRock Loads Up on Bitmine as $1,400 Ethereum Target Looms](https://finance.yahoo.com/news/blackrock-loads-bitmine-1-400-203847730.html)**
+
+Though the US market is closed for Presidents’ Day today, BlackRock’s IBIT ETF recorded a $9.4 million outflow on the last working day before the market closed, 13 February 2026. Bitcoin is hovering at around $68k, and it wasn’t just a panic sell—it was a playground for Wall Street. Market ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Ethereum Price Stuck Near $2,000 as Holder Exodus Slows Recovery](https://finance.yahoo.com/news/ethereum-price-stuck-near-2-180000786.html)**
 
 Ethereum hovers near $2,000 as SOPR signals loss saturation, but falling new address growth and weak inflows continue capping recovery.
@@ -160,19 +168,33 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
+**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqcUQwSiftV_g1Opwdyu0zqiBhKNK_K9Se50OtCeddgh6ReTRR24U6Rm&gaa_ts=699395a5&gaa_sig=TzqKSqUaeGhRv_xoQ8BJ6qNlIXf6xyYyEa1-ScrH0l0lcqrEkWNMg4VJ-7tohsCAuZvJm9J0IZwsEXt1ESTEQQ%3D%3D)**
 
-Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
-
-Nasdaq • 2d ago
+Barron's • 11h ago
 
 ---
 
-**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://decrypt.co/358162/harvard-cuts-bitcoin-etf-stake-adds-ethereum-exposure-in-q4-filing)**
+**[Ethereum Is Crushing XRP in 1 Key Arena. Should You Buy It With $1,000?](https://www.nasdaq.com/articles/ethereum-crushing-xrp-1-key-arena-should-you-buy-it-1000)**
 
-Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
+Key PointsEthereum is an increasingly popular place to trade and manage tokenized assets.
 
-Decrypt • 4h ago
+Nasdaq • 1d ago
+
+---
+
+**[Harvard cuts bitcoin exposure by 20%, adds new ether position](https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position)**
+
+The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
+
+CoinDesk • 7h ago
+
+---
+
+**[The Best Cryptocurrency to Buy With $100 Right Now](https://www.fool.com/investing/2026/02/16/the-best-cryptocurrency-to-buy-with-100-right-now/)**
+
+Ethereum's price is down, but there's a clear path to recovery.
+
+The Motley Fool • 10h ago
 
 ---
 
@@ -184,33 +206,17 @@ CCN.com • 10h ago
 
 ---
 
-**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+**[Brett DiNovi: Layer two solutions need strategic changes to enhance value, Ethereum's fragmentation hinders scalability, and execution is now paramount in blockchain ecosystems | Empire](https://cryptobriefing.com/brett-dinovi-layer-two-solutions-need-strategic-changes-to-enhance-value-ethereums-fragmentation-hinders-scalability-and-execution-is-now-paramount-in-blockchain-ecosystems-empire/)**
 
-Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
+Layer two solutions are reshaping Ethereum's future by tackling scalability and transaction costs head-on.
 
-CoinDesk • 3d ago
+Crypto Briefing • 6h ago
 
 ---
 
 **[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
 
 TradingView • 1d ago
-
----
-
-**[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
-
-Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
-
-BeInCrypto • 1d ago
-
----
-
-**[Thomas Thiery: Fossil enhances transaction inclusion in Ethereum, MEV threatens decentralization, and upcoming changes will reshape block construction | Epicenter](https://cryptobriefing.com/thomas-thiery-fossil-enhances-transaction-inclusion-in-ethereum-mev-threatens-decentralization-and-upcoming-changes-will-reshape-block-construction-epicenter/)**
-
-Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
-
-Crypto Briefing • 21h ago
 
 ---
 
@@ -222,17 +228,19 @@ AMBCrypto • 4h ago
 
 ---
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
-
-The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
-
-The Motley Fool • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Bottom Incoming? Here&#39;s When To Act!](https://www.youtube.com/watch?v=F5eAwxx7a_Q)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/... Join Trade Confident: Get 25% Off Your 1st ...
+
+📺 Trade Confident
+
+👁️ 255 • 👍 18 • 💬 1 • ⏱️ 6:11 • 3h ago
+
+---
 
 **[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
 
@@ -240,7 +248,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 63K • 👍 3K • 💬 512 • ⏱️ 34:57 • 1d ago
+👁️ 64K • 👍 3K • 💬 518 • ⏱️ 34:57 • 1d ago
 
 ---
 
@@ -250,17 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 175 • 💬 8 • ⏱️ 6:56 • 7h ago
-
----
-
-**[Ethereum Bottom Incoming? Here&#39;s When To Act!](https://www.youtube.com/watch?v=F5eAwxx7a_Q)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/... Join Trade Confident: Get 25% Off Your 1st ...
-
-📺 Trade Confident
-
-👁️ 128 • 👍 13 • 💬 1 • ⏱️ 6:11 • 2h ago
+👁️ 2K • 👍 188 • 💬 8 • ⏱️ 6:56 • 8h ago
 
 ---
 
@@ -270,7 +268,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 5K • 👍 239 • 💬 41 • ⏱️ 17:52 • 1d ago
+👁️ 5K • 👍 244 • 💬 58 • ⏱️ 17:52 • 1d ago
 
 ---
 
@@ -280,7 +278,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 4K • 👍 107 • 💬 6 • ⏱️ 17:25 • 2d ago
+👁️ 4K • 👍 110 • 💬 6 • ⏱️ 17:25 • 2d ago
 
 ---
 
@@ -290,17 +288,17 @@ Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn h
 
 📺 World Liberty Financial
 
-👁️ 3K • 👍 75 • 💬 7 • ⏱️ 2:13 • 7h ago
+👁️ 4K • 👍 45 • 💬 7 • ⏱️ 2:13 • 7h ago
 
 ---
 
-**[Something HUGE Is About To Happen To Bitcoin &amp; Ethereum Interest Rates &amp; Gold Are At Play This Time](https://www.youtube.com/watch?v=8pZTBfidmaA)**
+**[ETHEREUM 🚨 LE PLAN VERS $10,000 EST EN PLACE !? 🚀](https://www.youtube.com/watch?v=C2-tKaSdZzM)**
 
-As far as every single analyst and CEO has said.. all signs seem to be pointing to much higher network activity on some of the ...
+Accès 100% GRATUIT : Nos Algos + Mentorship + VIP (disponible dans quelques jours) Inscris-toi sur Weex (Pas de KYC !
 
-📺 The Modern Investor
+📺 Crypto Le Trone
 
-👁️ 5K • 👍 642 • 💬 52 • ⏱️ 30:43 • 11h ago
+👁️ 7K • 👍 772 • 💬 24 • ⏱️ 10:11 • 6h ago
 
 ---
 
@@ -310,7 +308,7 @@ What happens when a blockchain splits? This video explains soft and hard forks, 
 
 📺 CoinGecko
 
-👁️ 1K • 👍 110 • 💬 14 • ⏱️ 4:01 • 10h ago
+👁️ 1K • 👍 114 • 💬 15 • ⏱️ 4:01 • 10h ago
 
 ---
 
@@ -320,17 +318,17 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 367 • 👍 75 • 💬 11 • ⏱️ 59:47 • 4h ago
+👁️ 580 • 👍 100 • 💬 14 • ⏱️ 59:47 • 5h ago
 
 ---
 
-**[BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PYf44w0tFXc)**
+**[BE READY FOR THESE MOVES NEXT WEEK🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_8FCLY15qBc)**
 
-BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 8K • 👍 262 • 💬 41 • ⏱️ 17:15 • 19h ago
+👁️ 670 • 👍 19 • 💬 3 • ⏱️ 4:36 • 1d ago
 
 ---
 
