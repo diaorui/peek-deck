@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T15:09:23.014902+00:00'
+updated: '2026-02-16T16:06:17.074308+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 15:09 UTC  
+**Last Updated:** February 16, 2026 at 16:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,15 +32,21 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
+
+1h ago
+
+---
+
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -56,7 +62,7 @@ Robotics research and industry news
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-5h ago
+6h ago
 
 ---
 
@@ -64,7 +70,7 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 20h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 21h ago
 
 ---
 
@@ -80,7 +86,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-22h ago
+23h ago
 
 ---
 
@@ -100,35 +106,21 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 ---
 
-**[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
+**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
 
-Reuters • 7h ago
+Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
----
-
-**[Humanoids go mainstream as China’s robotics champions appear at CCTV spectacle](https://www.scmp.com/tech/big-tech/article/3343634/chinas-tech-companies-vie-attention-cctvs-festival-gala-years-biggest-stage)**
-
-ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
-
-South China Morning Post • 1h ago
+Futurism • 23h ago
 
 ---
 
-**[China's humanoid robots ready for Lunar New Year showtime](https://www.yahoo.com/news/articles/chinas-humanoid-robots-ready-lunar-080728984.html)**
+**[Comau expands wearable robotics with the new Mate-XT GO exoskeleton](https://electronics360.globalspec.com/article/23360/comau-expands-wearable-robotics-with-the-new-mate-xt-go-exoskeleton)**
 
-BEIJING, Feb 16 (Reuters) - China's most-watched TV show, the annual CCTV Spring Festival gala, will be viewed later on Monday as a showcase for the country's cutting-edge industrial policy and
-
-Yahoo • 7h ago
+Electronics360 • 2h ago
 
 ---
 
@@ -140,6 +132,26 @@ KWQC • 14h ago
 
 ---
 
+**[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
+
+Reuters • 7h ago
+
+---
+
+**[Humanoids go mainstream as China’s robotics champions appear at CCTV spectacle](https://www.scmp.com/tech/big-tech/article/3343634/chinas-tech-companies-vie-attention-cctvs-festival-gala-years-biggest-stage)**
+
+ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
+
+South China Morning Post • 2h ago
+
+---
+
+**[China Ready to Dazzle the World with Humanoid Robots ‘Super Bowl’ Show](https://www.tipranks.com/news/china-ready-to-dazzle-the-world-with-humanoid-robots-super-bowl-show)**
+
+TipRanks • 4h ago
+
+---
+
 **[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
 
 China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
@@ -148,39 +160,25 @@ CNN • 2d ago
 
 ---
 
-**[Robots observe humans, learn to move arms, set and clear table autonomously with new method](https://interestingengineering.com/ai-robotics/robots-observe-humans-set-table-autonomously)**
+**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
 
-This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
+The Economics Show 🤜🤛 FT Alphaville
 
-Interesting Engineering • 11h ago
+Financial Times • 5h ago
 
 ---
 
 **[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
 
-KSN.com • 2d ago
+KSN-TV • 2d ago
 
 ---
 
-**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
+**[Robots observe humans, learn to move arms, set and clear table autonomously with new method](https://interestingengineering.com/ai-robotics/robots-observe-humans-set-table-autonomously)**
 
-ABC27 • 16h ago
+This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
 
----
-
-**[Pioneering use of robotics shifts heart surgery into a higher gear](https://www.post-gazette.com/wellness/2026/02/15/upmc-johannes-bonatti-robotic-heart-surgery/stories/202601270049)**
-
-Bonatti is at the forefront of a shift in cardiac surgery, using robotics to perform complex procedures with smaller incisions, faster recovery and lower risks than traditional surgery
-
-Pittsburgh Post-Gazette • 1d ago
-
----
-
-**[Terrifying Humanoid Robots Are Now Patrolling The Streets Of China](https://www.bgr.com/2098825/humanoid-robot-cops-traffic-controllers-patrolling-china-streets/)**
-
-EngineAI's PM01 robot was spotted walking with police officers in Shenzen's Nashan District, and it's much more intimidating than its other models.
-
-bgr.com • 13h ago
+Interesting Engineering • 11h ago
 
 ---
 
@@ -204,7 +202,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 15K • 👍 581 • 💬 68 • ⏱️ 12:43 • 15h ago
+👁️ 15K • 👍 581 • 💬 68 • ⏱️ 12:43 • 16h ago
 
 ---
 
@@ -214,7 +212,7 @@ The humanoid robot market just got real. These aren't concept demos anymore—th
 
 📺 AI Exposed
 
-👁️ 273 • 👍 2 • 💬 2 • ⏱️ 18:05 • 23h ago
+👁️ 273 • 👍 2 • 💬 2 • ⏱️ 18:05 • 1d ago
 
 ---
 
@@ -224,7 +222,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 31K • 👍 2K • 💬 379 • ⏱️ 9:43 • 17h ago
+👁️ 31K • 👍 2K • 💬 379 • ⏱️ 9:43 • 18h ago
 
 ---
 
@@ -264,7 +262,7 @@ shorts #tech #bike #motorcycle.
 
 📺 ThrottleRush
 
-👁️ 28K • 👍 1K • 💬 19 • ⏱️ 0:41 • 2d ago
+👁️ 28K • 👍 1K • 💬 19 • ⏱️ 0:41 • 3d ago
 
 ---
 
@@ -284,7 +282,7 @@ Take a deep dive into the fascinating world of industrial robotics with this hig
 
 📺 Peace Working Shorts
 
-👁️ 30K • 👍 85 • ⏱️ 0:06 • 12h ago
+👁️ 30K • 👍 85 • ⏱️ 0:06 • 13h ago
 
 ---
 

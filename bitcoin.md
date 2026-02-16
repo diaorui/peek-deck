@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T15:09:23.005627+00:00'
+updated: '2026-02-16T16:06:17.065266+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 15:09 UTC  
+**Last Updated:** February 16, 2026 at 16:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,637.93
+### $67,767.07
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** -0.3%  
-**30d:** -26.8%  
-**90d:** -24.8%  
-**1y:** -28.3%  
+**24h:** -1.2%  
+**7d:** -1.5%  
+**30d:** -27.7%  
+**90d:** -25.7%  
+**1y:** -29.2%  
 
 ---
 
@@ -79,13 +79,21 @@ Rank #1
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-5h ago
+6h ago
 
 ---
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-18h ago
+19h ago
+
+---
+
+**[Invest for my sons](https://www.reddit.com/r/Bitcoin/comments/1r67r79/invest_for_my_sons/)**
+
+Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we saved from our 2 sons (3 and 5 years old) from Birthday presents and so one. I am thinking about putting this Money in bitcoin and leave it untouched until they are 20. I started with nearly nothing in my life. I dont want them in the Same Situation. Am I doing the Right thing as a Father ?
+
+4h ago
 
 ---
 
@@ -97,25 +105,23 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 ---
 
-**[Invest for my sons](https://www.reddit.com/r/Bitcoin/comments/1r67r79/invest_for_my_sons/)**
-
-Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we saved from our 2 sons (3 and 5 years old) from Birthday presents and so one. I am thinking about putting this Money in bitcoin and leave it untouched until they are 20. I started with nearly nothing in my life. I dont want them in the Same Situation. Am I doing the Right thing as a Father ?
-
-3h ago
-
----
-
 **[Bitcoin transaction at McDonald's in San Salvador](https://www.reddit.com/r/Bitcoin/comments/1r5qsih/bitcoin_transaction_at_mcdonalds_in_san_salvador/)**
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-17h ago
+18h ago
+
+---
+
+**[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
+
+1h ago
 
 ---
 
 **[Today is a very special day!!! My 15 year old son started his Bitcoin venture 💙. I told him to stack them monthly 🤑🤑 lil Satoshis](https://www.reddit.com/r/Bitcoin/comments/1r5z5r1/today_is_a_very_special_day_my_15_year_old_son/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +129,7 @@ If you're thinking about spending some sats, usually over r/thelightningnetwork 
 
 Are you expecting a breakout or another fack pump?
 
-8h ago
+9h ago
 
 ---
 
@@ -133,15 +139,11 @@ Are you expecting a breakout or another fack pump?
 
 ---
 
-**[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
+**[What if you reach your goal?](https://www.reddit.com/r/Bitcoin/comments/1r6crf4/what_if_you_reach_your_goal/)**
 
-1d ago
+Say you finally hit your BTC accumulation target: 0.1, 1, 69, whatever your number is. Do you stop DCA-ing and redirect into something uncorrelated (global equities ETF, etc.)? Essentially going beta-zero to BTC on new capital. Or do you keep stacking regardless?
 
----
-
-**[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
-
-58m ago
+31m ago
 
 ---
 
@@ -149,43 +151,11 @@ Are you expecting a breakout or another fack pump?
 
 ## Google News: "bitcoin"
 
-**[Crypto market drowns in red as bitcoin falls to $68,000, XRP, ETH slide over 5%](https://www.coindesk.com/markets/2026/02/16/crypto-market-drowns-in-red-as-bitcoin-falls-to-usd68-000)**
+**[Bitcoin Recovery Likely To Be 'Slow And Painful,' Analysts Warn: Watch This Key Level](https://finance.yahoo.com/news/bitcoin-recovery-likely-slow-painful-233113604.html)**
 
-Traders are bracing for a heavy week of macroeconomic events, including Fed minutes and the core PCE inflation report.
+Influential crypto traders Trader Mayne and DonAlt maintain a cautious, bearish-to-neutral stance on Bitcoin (CRYPTO: BTC), warning that a sharp V-shaped recovery is unlikely. ‘Slow, Grinding' Correction Ahead In their latest podcast, both analysts said they expect a prolonged, choppy...
 
-CoinDesk • 8h ago
-
----
-
-**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
-
-Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
-
-The Block • 5h ago
-
----
-
-**[Crypto Is a Victim of Its Own Success](https://www.theatlantic.com/ideas/2026/02/crypto-crash-bitcoin-value/685994/)**
-
-Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
-
-The Atlantic • 3h ago
-
----
-
-**[Is This 1 Huge Tailwind for Bitcoin Becoming a Headwind?](https://www.nasdaq.com/articles/1-huge-tailwind-bitcoin-becoming-headwind)**
-
-Key PointsBitcoin's price has been falling for a while now.
-
-Nasdaq • 4h ago
-
----
-
-**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
-
-Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
-
-BBC • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -197,31 +167,63 @@ CNBC • 1d ago
 
 ---
 
+**[Metaplanet posts $619 million net loss on bitcoin valuation as holdings climb to 35,102 BTC](https://www.theblock.co/post/390048/metaplanet-posts-619-million-net-loss-on-bitcoin-valuation-as-holdings-climb-to-35102-btc)**
+
+Metaplanet posted a $619 million FY2025 loss on its bitcoin valuation, while its total holdings jumped to 35,102 BTC and revenue surged.
+
+The Block • 2h ago
+
+---
+
+**[Bitcoin’s slide may signal broader market trouble and a U.S. recession, Mike McGlone Says](https://www.coindesk.com/markets/2026/02/16/bitcoin-s-slide-may-signal-broader-market-trouble-and-a-u-s-recession-mike-mcglone-says)**
+
+McGlone argues collapsing crypto and stretched equity metrics could end the “buy the dip” era, while Jason Fernandes says only a credit shock would justify a move toward $10,000.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Looks for Direction After Four Straight Weekly Losses](https://www.bloomberg.com/news/articles/2026-02-16/bitcoin-looks-for-direction-after-four-straight-weekly-losses)**
+
+Bloomberg.com • 6h ago
+
+---
+
 **[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
 
 Forbes • 2d ago
 
 ---
 
-**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
-The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-MLive.com • 1d ago
-
----
-
-**[Coinbase Stock Is No Longer at the Mercy of Bitcoin. Cathie Wood’s ARK Is Buying.](https://www.barrons.com/articles/coinbase-stock-bitcoin-cathie-wood-ark-c910a5d2?gaa_at=eafs&gaa_n=AWEtsqc3eDd3kOuIaZ5NC-cGPU-g5mUvJN2L1lMSY1rdegiAqquOsctzfC0A&gaa_ts=69932c78&gaa_sig=Em02hEV2fLFvOh9va2Bam8C1AY7WkqsUTgojibUmCCAqk2VLew-dlO2i5k3bA2tnqROVWcc63o50yZWGW2mQYg%3D%3D)**
-
-Barron's • 3h ago
+Nasdaq • 2d ago
 
 ---
 
-**[Saylor Hints at Another Strategy Bitcoin Buy](https://bitbo.io/news/saylor-signals-strategy-bitcoin-buy/)**
+**[Bitcoin After the Cycle Peak: What Comes Next and How We’re Positioning](https://io-fund.com/crypto/bitcoin-after-cycle-peak)**
 
-Michael Saylor signaled another Strategy Bitcoin purchase, extending a 12-week buying streak even as bitcoin and crypto-treasury stocks slide.
+Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
 
-Bitbo • 19h ago
+I/O Fund • 4d ago
+
+---
+
+**[Bitcoin hit $60,000 because two different groups finally surrendered — on-chain data shows who blinked](https://cryptoslate.com/bitcoin-hit-60000-because-two-different-groups-finally-surrendered-on-chain-data-shows-who-blinked/)**
+
+Bitcoin’s 2026 selloff came in two capitulations, first near $80,000 then near $60,000, as seller cohorts rotated and realized losses surged.
+
+CryptoSlate • 22h ago
+
+---
+
+**[Michael Saylor's Strategy says it can survive a bitcoin (BTC) price crash to $8,000](https://www.coindesk.com/markets/2026/02/16/strategy-says-it-can-survive-even-if-bitcoin-drops-to-usd8-000-and-will-equitize-debt)**
+
+Strategy says it can withstand a bitcoin price drop to $8,000 and still cover its roughly $6 billion in net debt.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -293,7 +295,7 @@ Local opponents criticise legislation that will facilitate ‘networked state’
 
 Reverse-engineer how creative works operate—and what they train in audiences.
 
-⬆️ 1 • 💬 1 • 4d ago • [FalseWork](https://falsework.dev/)
+⬆️ 1 • 💬 1 • 5d ago • [FalseWork](https://falsework.dev/)
 
 ---
 
@@ -315,7 +317,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 231 • ⏱️ 11:16 • 16h ago
+👁️ 41K • 👍 2K • 💬 231 • ⏱️ 11:16 • 17h ago
 
 ---
 
@@ -325,7 +327,7 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 6K • 👍 129 • 💬 37 • ⏱️ 12:20 • 20h ago
+👁️ 6K • 👍 129 • 💬 37 • ⏱️ 12:20 • 21h ago
 
 ---
 
@@ -355,7 +357,7 @@ Bitcoin bottom in? Buy now says analyst. Altcoins heating up! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 5K • 👍 517 • 💬 42 • ⏱️ 17:35 • 3h ago
+👁️ 5K • 👍 517 • 💬 42 • ⏱️ 17:35 • 4h ago
 
 ---
 
@@ -365,7 +367,7 @@ In January, we outlined a late-cycle restrictive regime and leaned cautious on r
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 3K • 💬 133 • ⏱️ 13:07 • 9h ago
+👁️ 39K • 👍 3K • 💬 133 • ⏱️ 13:07 • 10h ago
 
 ---
 
@@ -375,7 +377,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themo
 
 📺 The Moon Show
 
-👁️ 7K • 👍 564 • 💬 81 • ⏱️ 11:04 • 6h ago
+👁️ 7K • 👍 564 • 💬 81 • ⏱️ 11:04 • 7h ago
 
 ---
 
@@ -385,7 +387,7 @@ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/W
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 329 • 💬 62 • ⏱️ 7:01 • 10h ago
+👁️ 4K • 👍 329 • 💬 62 • ⏱️ 7:01 • 11h ago
 
 ---
 
@@ -405,7 +407,7 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 17K • 👍 574 • 💬 241 • ⏱️ 7:14 • 23h ago
+👁️ 17K • 👍 574 • 💬 241 • ⏱️ 7:14 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T15:09:22.997076+00:00'
+updated: '2026-02-16T16:06:17.056597+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
+- videos
 - news
 - repositories
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 15:09 UTC  
+**Last Updated:** February 16, 2026 at 16:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
 
-🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 12h ago
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 13h ago
 
 ---
 
@@ -49,7 +49,47 @@ AI news, discussions, and developments
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-🔗 [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out) • 4h ago
+🔗 [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out) • 5h ago
+
+---
+
+**[AI Can't Handle Human Kink](https://www.reddit.com/r/artificial/comments/1r6c34b/ai_cant_handle_human_kink/)**
+
+For users with taboo desires, AI sexbots can promise freedom from shame—or it might go haywire and kink shame. Are robots ready for our kink?
+
+🔗 [Playboy](https://www.playboy.com/read/sex-relationships/ai-cant-handle-human-kink) • 57m ago
+
+---
+
+**[Are AI note taking apps overhyped right now?](https://www.reddit.com/r/artificial/comments/1r6b95h/are_ai_note_taking_apps_overhyped_right_now/)**
+
+Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
+
+1h ago
+
+---
+
+**[I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://www.reddit.com/r/artificial/comments/1r6chci/i_want_to_wash_my_car_the_car_wash_is_50_meters/)**
+
+Attached: 4 images
+
+Q: I want to wash my car. The car wash is 50 meters away. Should I walk or drive?
+
+What do you think the LLM output was?
+
+Please; review the output. 
+
+#ai #LLM #ai
+
+🔗 [Mastodon](https://mastodon.world/@knowmadd/116072773118828295) • 41m ago
+
+---
+
+**[Izwi Update: Local Speaker Diarization, Forced Alignment, and better model support](https://www.reddit.com/r/artificial/comments/1r6boij/izwi_update_local_speaker_diarization_forced/)**
+
+Quick update on Izwi (local audio inference engine) - we've shipped some major features: What's New: Speaker Diarization - Automatically identify and separate multiple speakers using Sortformer models. Perfect for meeting transcripts. Forced Alignment - Word-level timestamps between audio and text using Qwen3-ForcedAligner. Great for subtitles. Real-Time Streaming - Stream responses for transcribe, chat, and TTS with incremental delivery. Multi-Format Audio - Native support for WAV, MP3, FLAC, OGG via Symphonia. Performance - Parallel execution, batch ASR, paged KV cache, Metal optimizations. Model Support: TTS: Qwen3-TTS (0.6B, 1.7B), LFM2.5-Audio ASR: Qwen3-ASR (0.6B, 1.7B), Parakeet TDT, LFM2.5-Audio Chat: Qwen3 (0.6B, 1.7), Gemma 3 (1B) Diarization: Sortformer 4-speaker Docs: https://izwiai.com/ Github Repo: https://github.com/agentem-ai/izwi Give us a star on GitHub and try it out. Feedback is welcome!!!
+
+🔗 [izwiai.com](https://izwiai.com/) • 1h ago
 
 ---
 
@@ -57,31 +97,7 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on illegal content in the United Kingdom, as the government promises swift action to make the internet safer for children.
 
-🔗 [CNN](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 48m ago
-
----
-
-**[Customizable AI Companions.](https://www.reddit.com/r/artificial/comments/1r61jbw/customizable_ai_companions/)**
-
-What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real time video calls with their own customizable AI companion?
-
-9h ago
-
----
-
-**[Why the ‘AI scare trade’ might not be done](https://www.reddit.com/r/artificial/comments/1r67kev/why_the_ai_scare_trade_might_not_be_done/)**
-
-A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
-
-🔗 [CNN](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 3h ago
-
----
-
-**[Google might think your Website is down](https://www.reddit.com/r/artificial/comments/1r65f5p/google_might_think_your_website_is_down/)**
-
-How Cross-page AI aggregation can introduce new liability vectors.
-
-🔗 [Code Input](https://codeinput.com/blog/google-seo) • 5h ago
+🔗 [CNN](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 1h ago
 
 ---
 
@@ -89,31 +105,23 @@ How Cross-page AI aggregation can introduce new liability vectors.
 
 OKAY!! Had a weird experience with an Al phone screening interviewer. Here's what happened: I was away for a while. When I came back to check my phone. There was a missed called and an email. I first checked my email. It said "Recruiter tried reaching out....". Seemed normal. I called back and instantly a voice started speaking "Am I speaking to {.}?" I was 100% sure it's Al right away. I went along thinking "It won't hurt speaking to an Al recruiter lol". Then it started my screening. Asked basic questions. The funny thing is that it kept on asking me questions about my past employment, past salary, last working date even when I told her that I have no prior work experience and I'm a total fresher. The Al was adamant and kept going. I was irritated and then I hung up. Such a weird experience. Why would companies even do such things. Even if they do, WHY SUCH A DUMB AI!!!!
 
-1h ago
+2h ago
 
 ---
 
-**[Looking for early testers for my competitive analysis tool (Claude needed currently)](https://www.reddit.com/r/artificial/comments/1r5vyxv/looking_for_early_testers_for_my_competitive/)**
+**[Customizable AI Companions.](https://www.reddit.com/r/artificial/comments/1r61jbw/customizable_ai_companions/)**
 
-I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
+What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real time video calls with their own customizable AI companion?
 
-13h ago
-
----
-
-**[Microsoft AI chief gives it 18 months for all white-collar work to be automated by AI](https://www.reddit.com/r/artificial/comments/1r4oc2i/microsoft_ai_chief_gives_it_18_months_for_all/)**
-
-Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
-
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 1d ago
+10h ago
 
 ---
 
-**[Pentagon's use of Claude during Maduro raid sparks Anthropic feud](https://www.reddit.com/r/artificial/comments/1r4hgnu/pentagons_use_of_claude_during_maduro_raid_sparks/)**
+**[Why the ‘AI scare trade’ might not be done](https://www.reddit.com/r/artificial/comments/1r67kev/why_the_ai_scare_trade_might_not_be_done/)**
 
-The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
+A sell-off rippled through software, real estate and trucking stocks this past week as investors worried artificial intelligence could upend some industries — and analysts say the white-knuckle drops might not be over yet.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 2d ago
+🔗 [CNN](https://www.cnn.com/2026/02/16/business/ai-disruption-fears-us-stocks?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 4h ago
 
 ---
 
@@ -121,49 +129,25 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 ## Google News: "ai"
 
+**[TikTok creator ByteDance vows to curb AI video tool after Disney threat](https://www.theguardian.com/technology/2026/feb/16/tiktok-bytedance-ai-video-tool-disney-seedance-tom-cruise-brad-pitt)**
+
+Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting
+
+The Guardian • 50m ago
+
+---
+
+**[ByteDance to curb AI video app after Disney legal threat](https://www.bbc.com/news/articles/c93wq6xqgy1o)**
+
+Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
+
+BBC • 5h ago
+
+---
+
 **[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
-The New York Times • 5h ago
-
----
-
-**[Fund Beating 99% of Peers Sees Few Software Firms Surviving AI](https://finance.yahoo.com/news/fund-beating-99-peers-sees-090000453.html)**
-
-“We think application software faces an existential threat from AI,” said Evans, whose $12 billion global technology fund beat 99% of peers over one year and 97% over five.  An exchange-traded fund tracking the US software sector is down 22%, a sharp contrast to semiconductor stocks that have soared as AI spurs computing demand.  Application software, which helps users perform tasks such as writing documents and managing payrolls, looks particularly at risk, according to Evans.
-
-Yahoo Finance • 6h ago
-
----
-
-**[Starmer to extend online safety rules to AI chatbots after Grok scandal](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban)**
-
-Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
-
-The Guardian • 16h ago
-
----
-
-**[AI chatbots to face strict online safety rules in UK](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl)**
-
-AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on illegal content in the United Kingdom, as the government promises swift action to make the internet safer for children.
-
-CNN • 1h ago
-
----
-
-**[UK to tighten online safety laws to include AI chatbots](https://www.ft.com/content/15917aa4-2d40-49be-85c3-da395b16e7f1)**
-
-Keir Starmer to warn tech companies that ‘no platform gets a free pass’ after deepfake scandal involving Grok
-
-Financial Times • 16h ago
-
----
-
-**[AI-driven efficiency raises questions about labor market weakness](https://www.foxbusiness.com/video/6389354166112)**
-
-TJM Institutional Services director James Iuorio joins ‘Mornings with Maria’ to discuss market volatility, AI-driven job shifts, gold’s rally and the recent crypto sell-off.
-
-Fox Business • 1h ago
+The New York Times • 6h ago
 
 ---
 
@@ -171,21 +155,33 @@ Fox Business • 1h ago
 
 Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
-**[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
+**[AI fears are hitting software stocks the hardest. Citi sees a buying opportunity in many names](https://www.cnbc.com/2026/02/16/ai-fears-hitting-software-stocks-citi-sees-opportunity-in-many-names.html)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[The AI ‘scare trade’ is tearing through markets. Bernstein picked 8 stocks that can weather the storm](https://www.cnbc.com/2026/02/16/ai-scare-trade-market-volatility-stocks.html)**
-
-Analysts at Bernstein have highlighted eight stocks they consider as AI disruption-proof.
+Citi chose software stocks with earnings momentum and declines of more than 10% in the last month.
 
 CNBC • 1h ago
+
+---
+
+**[The AI Selloff Has Covid Parallels, Say Analysts. These Sectors Can Survive.](https://www.barrons.com/articles/ai-stocks-selloff-covid-6b908b35?gaa_at=eafs&gaa_n=AWEtsqcvrErE8FALxmfahsg2RWkH5E-fg-9gy9zEjaiwuzZMQMh6-YV1gCEz&gaa_ts=699343e0&gaa_sig=AAwzSlU-D3qF4ZawVPeQ7W7ADWYjN92ULwz45YRRCM2cPjBuzXw2V4CTOjfwgrc-LZtyFcxEgsiKa8_tQfFcBg%3D%3D)**
+
+Barron's • 35m ago
+
+---
+
+**[AI could help judge Olympic figure skating](https://www.axios.com/2026/02/16/olympics-figure-skating-ai)**
+
+Axios • 47m ago
+
+---
+
+**[How One AI-Native Founder Scales At 5× Without Becoming The Bottleneck](https://www.forbes.com/sites/keithferrazzi/2026/02/16/how-one-ai-native-founder-scales-at-5-without-becoming-the-bottleneck/)**
+
+Forbes • 41m ago
 
 ---
 
@@ -193,7 +189,15 @@ CNBC • 1h ago
 
 "There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum," Obama said in an interview that was posted on YouTube Saturday.
 
-NPR • 20h ago
+NPR • 21h ago
+
+---
+
+**[China's tech shock threatens the U.S. AI monopoly and is 'just getting started'](https://www.cnbc.com/2026/02/16/chinas-tech-shock-ai-monopoly-us.html)**
+
+"You could see easily a world where maybe most of the world's population is running on a Chinese tech stack in five to 10 years time," one analyst told CNBC.
+
+CNBC • 3h ago
 
 ---
 
@@ -203,7 +207,7 @@ NPR • 20h ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 745 • 💬 610 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 748 • 💬 611 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -211,7 +215,7 @@ NPR • 20h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 561 • 💬 361 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 563 • 💬 361 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -219,7 +223,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 366 • 💬 266 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 367 • 💬 267 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -249,23 +253,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 139 • 💬 100 • 2h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
-
----
-
-**[AI is going to kill app subscriptions](https://news.ycombinator.com/item?id=47024387)**
-
-Curated niche app opportunities from Reddit, scored by difficulty and demand.
-
-⬆️ 129 • 💬 211 • 23h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
-
----
-
-**[Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://news.ycombinator.com/item?id=47019133)**
-
-The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
-
-⬆️ 121 • 💬 64 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 212 • 💬 171 • 3h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -273,7 +261,23 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 : The software doesn't show what files it's working on
 
-⬆️ 116 • 💬 58 • 4h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 171 • 💬 114 • 4h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+
+---
+
+**[AI is going to kill app subscriptions](https://news.ycombinator.com/item?id=47024387)**
+
+Curated niche app opportunities from Reddit, scored by difficulty and demand.
+
+⬆️ 133 • 💬 218 • 1d ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+
+---
+
+**[Show HN: Off Grid – Run AI text, image gen, vision offline on your phone](https://news.ycombinator.com/item?id=47019133)**
+
+The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
+
+⬆️ 122 • 💬 64 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -287,7 +291,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 31K • 👍 2K • 💬 379 • ⏱️ 9:43 • 17h ago
+👁️ 31K • 👍 2K • 💬 379 • ⏱️ 9:43 • 18h ago
 
 ---
 
@@ -297,7 +301,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 14K • 👍 264 • 💬 63 • ⏱️ 8:34 • 11h ago
+👁️ 14K • 👍 264 • 💬 63 • ⏱️ 8:34 • 12h ago
 
 ---
 
@@ -347,7 +351,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 58K • 👍 3K • 💬 758 • ⏱️ 16:13 • 13h ago
+👁️ 58K • 👍 3K • 💬 758 • ⏱️ 16:13 • 14h ago
 
 ---
 
@@ -357,7 +361,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 MattVidPro AI
 
-👁️ 6K • 👍 356 • 💬 39 • ⏱️ 25:55 • 17h ago
+👁️ 6K • 👍 356 • 💬 39 • ⏱️ 25:55 • 18h ago
 
 ---
 
@@ -367,7 +371,7 @@ Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x
 
 📺 Asmongold TV  
 
-👁️ 608K • 👍 20K • 💬 4K • ⏱️ 20:40 • 2d ago
+👁️ 608K • 👍 20K • 💬 4K • ⏱️ 20:40 • 3d ago
 
 ---
 
@@ -377,7 +381,7 @@ MacroMavens president Stephanie Pomboy analyzes where AI is headed on 'Mornings 
 
 📺 Fox Business Clips
 
-👁️ 13K • 👍 254 • 💬 74 • ⏱️ 5:17 • 23h ago
+👁️ 13K • 👍 254 • 💬 74 • ⏱️ 5:17 • 1d ago
 
 ---
 
@@ -405,7 +409,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 643 • 6h ago
+⬇️ 18,895 • ❤️ 643 • 7h ago
 
 ---
 
@@ -441,7 +445,7 @@ Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Del
 
 `image-text-to-text` `403.4B`
 
-⬇️ 0 • ❤️ 307 • 4h ago
+⬇️ 0 • ❤️ 307 • 5h ago
 
 ---
 
@@ -501,7 +505,7 @@ MOSS-TTS is a family of high-fidelity, expressive speech and sound generation mo
 
 `text-to-speech` `8.5B`
 
-⬇️ 9,596 • ❤️ 199 • 2d ago
+⬇️ 9,596 • ❤️ 199 • 3d ago
 
 ---
 
@@ -683,7 +687,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.6k • 🔱 261 • 10h ago
+⭐ 2.6k • 🔱 261 • 11h ago
 
 ---
 
@@ -703,7 +707,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 158 • 18h ago
+⭐ 2.2k • 🔱 158 • 19h ago
 
 ---
 
@@ -713,7 +717,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 153 • 6h ago
+⭐ 2.2k • 🔱 153 • 7h ago
 
 ---
 
@@ -723,7 +727,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.0k • 🔱 254 • 22m ago
+⭐ 2.0k • 🔱 254 • 1h ago
 
 ---
 
