@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T09:56:05.122633+00:00'
+updated: '2026-02-16T10:52:33.823369+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - cryptocurrency
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 09:56 UTC  
+**Last Updated:** February 16, 2026 at 10:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-21h ago
+22h ago
 
 ---
 
@@ -95,25 +95,25 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-12h ago
+13h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-17m ago
+1h ago
 
 ---
 
@@ -121,7 +121,7 @@ If you're thinking about spending some sats, usually over r/thelightningnetwork 
 
 Are you expecting a breakout or another fack pump?
 
-3h ago
+4h ago
 
 ---
 
@@ -129,7 +129,7 @@ Are you expecting a breakout or another fack pump?
 
 A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the quest in real-time.
 
-🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 11h ago
+🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the q
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -145,7 +145,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
 
-15h ago
+16h ago
 
 ---
 
@@ -157,7 +157,7 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -187,7 +187,7 @@ Nasdaq • 1d ago
 
 Traders are bracing for a heavy week of macroeconomic events, including Fed minutes and the core PCE inflation report.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 3h ago
 
 Bitcoin is sitting at a “critical point,” with traders split between two familiar scripts: a full capitulation event, or the early innings of a durable bottoming process. In a Feb. 15 video explainer, CryptoQuant analyst Maartunn argued the data is starting to line up for the latter, but with a cle…
 
-TradingView • 55m ago
+TradingView • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ TradingView • 55m ago
 
 TeraWulf (NasdaqCM:WULF) is shifting its core business from bitcoin mining to building and operating AI focused infrastructure. The company has recently sold nearly all of its bitcoin holdings and acquired new industrial sites intended to roughly double its available power capacity. These moves signal a company wide pivot toward serving power hungry AI workloads rather than relying on cryptocurrency mining economics. TeraWulf, trading at $16.26, is repositioning itself as an AI...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -219,7 +219,7 @@ IO Fund • 4d ago
 
 Bitcoin’s 2026 selloff came in two capitulations, first near $80,000 then near $60,000, as seller cohorts rotated and realized losses surged.
 
-CryptoSlate • 16h ago
+CryptoSlate • 17h ago
 
 ---
 
@@ -321,7 +321,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 221 • ⏱️ 11:16 • 11h ago
+👁️ 34K • 👍 2K • 💬 221 • ⏱️ 11:16 • 12h ago
 
 ---
 
@@ -331,7 +331,7 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 5K • 👍 119 • 💬 18 • ⏱️ 12:20 • 15h ago
+👁️ 5K • 👍 119 • 💬 18 • ⏱️ 12:20 • 16h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 35K • 👍 1K • 💬 749 • ⏱️ 30:55 • 19h ago
+👁️ 35K • 👍 1K • 💬 749 • ⏱️ 30:55 • 20h ago
 
 ---
 
@@ -371,7 +371,7 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 553 • 💬 231 • ⏱️ 7:14 • 17h ago
+👁️ 16K • 👍 553 • 💬 231 • ⏱️ 7:14 • 18h ago
 
 ---
 
@@ -391,7 +391,7 @@ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/W
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 201 • 💬 37 • ⏱️ 7:01 • 4h ago
+👁️ 2K • 👍 201 • 💬 37 • ⏱️ 7:01 • 5h ago
 
 ---
 
@@ -401,7 +401,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 42K • 👍 2K • 💬 233 • ⏱️ 12:55 • 21h ago
+👁️ 42K • 👍 2K • 💬 233 • ⏱️ 12:55 • 22h ago
 
 ---
 

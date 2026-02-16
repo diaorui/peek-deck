@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T09:56:05.114894+00:00'
+updated: '2026-02-16T10:52:33.814924+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 09:56 UTC  
+**Last Updated:** February 16, 2026 at 10:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
 
-🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 7h ago
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real
 
 How Cross-page AI aggregation can introduce new liability vectors.
 
-🔗 [Code Input](https://codeinput.com/blog/google-seo) • 11m ago
+🔗 [Code Input](https://codeinput.com/blog/google-seo) • 1h ago
 
 ---
 
@@ -65,7 +65,7 @@ How Cross-page AI aggregation can introduce new liability vectors.
 
 I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
 
-8h ago
+9h ago
 
 ---
 
@@ -81,7 +81,7 @@ Mustafa Suleyman believes current AI computational power will only accelerate, d
 
 The U.S. military used Anthropic's Claude AI model during the operation to capture Venezuela's Nicolás Maduro, two sources with knowledge of the situation told Axios. "Anthropic asked whether their software was used for the raid to capture Maduro, which caused real concerns across the Department of War indicating that they might not approve if it was," the official said. The Pentagon wants the AI giants to allow them to use their models in any scenario so long as they comply with the law. Axios could not confirm the precise role that Claude played in the operation to capture Maduro. The military has used Claude in the past to analyze satellite imagery or intelligence. The sources said Claude was used during the active operation, not just in preparations for it. Anthropic, which has positioned itself as the safety-first AI leader, is currently negotiating with the Pentagon around its terms of use. The company wants to ensure in particular that its technology is not used for the mass surveillance of Americans or to operate fully autonomous weapons.
 
-🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 1d ago
+🔗 [axios.com](https://www.axios.com/2026/02/13/anthropic-claude-maduro-raid-pentagon) • 2d ago
 
 ---
 
@@ -97,7 +97,7 @@ Hallucinations are a problem with all AI chatbots, and it’s healthy to develop
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -133,13 +133,13 @@ The Guardian • 11h ago
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 15h ago
+The Washington Post • 16h ago
 
 ---
 
 **[Fund Beating 99% of Peers Sees Few Software Firms Surviving AI](https://www.bloomberg.com/news/articles/2026-02-16/fund-beating-99-of-peers-sees-few-software-firms-surviving-ai)**
 
-Bloomberg.com • 56m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bloomberg.com • 56m ago
 
 Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -155,7 +155,7 @@ BBC • 6h ago
 
 Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 1h ago
 
 The Chinese tech giant said it "respects intellectual property rights."
 
-The Hollywood Reporter • 44m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
@@ -171,13 +171,13 @@ The Hollywood Reporter • 44m ago
 
 Stephen Schwarzman is committing his wealth to his foundation, which could become one of the largest in the world.
 
-Fortune • 43m ago
+Fortune • 1h ago
 
 ---
 
 **[How A.I. Salaries Are Causing Couples to Rethink Money in Relationships](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
 
-The New York Times • 1d ago
+The New York Times • 2d ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 1d ago
 
 Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 12h ago
 
 OpenClaw, the open source AI agent that's surged in popularity in recent weeks, will live within OpenAI, according to a post on X from Sam Altman.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
@@ -249,7 +249,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 119 • 💬 190 • 18h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 119 • 💬 190 • 19h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -287,7 +287,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 43K • 👍 2K • 💬 638 • ⏱️ 16:13 • 8h ago
+👁️ 43K • 👍 2K • 💬 638 • ⏱️ 16:13 • 9h ago
 
 ---
 
@@ -297,7 +297,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 10K • 👍 221 • 💬 48 • ⏱️ 8:34 • 6h ago
+👁️ 10K • 👍 221 • 💬 48 • ⏱️ 8:34 • 7h ago
 
 ---
 
@@ -377,7 +377,7 @@ MacroMavens president Stephanie Pomboy analyzes where AI is headed on 'Mornings 
 
 📺 Fox Business Clips
 
-👁️ 12K • 👍 246 • 💬 73 • ⏱️ 5:17 • 18h ago
+👁️ 12K • 👍 246 • 💬 73 • ⏱️ 5:17 • 19h ago
 
 ---
 
@@ -405,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 628 • 1h ago
+⬇️ 18,895 • ❤️ 628 • 2h ago
 
 ---
 
@@ -683,7 +683,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 260 • 5h ago
+⭐ 2.5k • 🔱 260 • 6h ago
 
 ---
 
@@ -703,7 +703,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 156 • 13h ago
+⭐ 2.2k • 🔱 156 • 14h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 147 • 55m ago
+⭐ 2.2k • 🔱 147 • 1h ago
 
 ---
 
@@ -723,7 +723,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.0k • 🔱 249 • 16h ago
+⭐ 2.0k • 🔱 249 • 17h ago
 
 ---
 
@@ -733,7 +733,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 1.9k • 🔱 207 • 2d ago
+⭐ 1.9k • 🔱 207 • 3d ago
 
 ---
 

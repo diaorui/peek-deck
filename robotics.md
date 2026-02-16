@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T09:56:05.131510+00:00'
+updated: '2026-02-16T10:52:33.832716+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 09:56 UTC  
+**Last Updated:** February 16, 2026 at 10:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in biorobotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio Robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-24m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-17h ago
+18h ago
 
 ---
 
@@ -74,7 +74,7 @@ I need a power supply for a small animatronic that uses 3 9g servos and a small 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 15h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 16h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -130,13 +130,13 @@ CNN • 2d ago
 
 Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
 
-Interesting Engineering • 18h ago
+Interesting Engineering • 19h ago
 
 ---
 
 **[China's humanoid robots ready for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -150,13 +150,13 @@ Forbes • 3d ago
 
 This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
 
-Interesting Engineering • 5h ago
+Interesting Engineering • 6h ago
 
 ---
 
 **[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
 
-ABC27 • 10h ago
+ABC27 • 11h ago
 
 ---
 
@@ -164,7 +164,7 @@ ABC27 • 10h ago
 
 A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-KWQC • 8h ago
+KWQC • 9h ago
 
 ---
 
@@ -172,13 +172,13 @@ KWQC • 8h ago
 
 Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Futurism • 16h ago
+Futurism • 17h ago
 
 ---
 
 **[VEX Robotics hosts ‘Bots at Bristol’ tournament for middle schools](https://www.wjhl.com/news/local/vex-robotics-hosts-bots-at-bristol-tournament-for-middle-schools/)**
 
-WJHL • 17h ago
+WJHL • 18h ago
 
 ---
 
@@ -202,7 +202,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 11K • 👍 475 • 💬 58 • ⏱️ 12:43 • 10h ago
+👁️ 11K • 👍 475 • 💬 58 • ⏱️ 12:43 • 11h ago
 
 ---
 
