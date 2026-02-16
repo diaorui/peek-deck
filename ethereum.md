@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T16:06:17.071151+00:00'
+updated: '2026-02-16T17:11:17.956200+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 16:06 UTC  
+**Last Updated:** February 16, 2026 at 17:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,975.21
+### $1,972.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.0%  
-**7d:** -2.4%  
-**30d:** -39.9%  
-**90d:** -34.8%  
-**1y:** -28.1%  
+**24h:** +0.5%  
+**7d:** -2.5%  
+**30d:** -40.1%  
+**90d:** -34.9%  
+**1y:** -28.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.13B
+**Market Cap:** $238.16B
 Rank #2
 
 **Circulating Supply:** 120,692,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.9%
+-60.2%
 
 **All-Time Low:** $0.43
-+457622.0%
++454735.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fundstrat’s Tom Lee says crypto winter is either already over or will end by April, pointing to late-cycle sentiment and improving macro. He also highlighted BitMine’s strategy of weekly ETH accumulation and staking as a long-term institutional bet on Ethereum. Article: https://btcusa.com/tom-lee-crypto-winter-likely-ends-by-april-as-ethereum-strategy-expands/ Do you agree we’re near the end of this cycle correction?
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ Fundstrat’s Tom Lee says crypto winter is either already over or will end by A
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-1h ago
+2h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Been holding ETH for a while and want to move some around or swap for other assets without going through CEXs. Most platforms these days ask for KYC, which I'd rather avoid if possible. What's the smoothest way to swap ETH directly from wallet? Looking for something non-custodial, decent rates, and not too complicated. If you've done any swaps recently, what actually worked well for you?
 
-15h ago
+16h ago
 
 ---
 
@@ -150,25 +150,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
+**[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
 
-Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
+Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
 
-Nasdaq • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqcXNoxVlgA3Vqs0XJCzQNc5rLZCOXx2i8iWw-Us3ZkN927LDkzJrp8t&gaa_ts=699343e3&gaa_sig=08FJlE27o_wibEhSZJodZg2M4y-ETgZ7wdZHi2rnTxWGwfJWKskB7sJuAvPiCBUnd2Oz92DOm9hiKjvW09TDSg%3D%3D)**
-
-Barron's • 5h ago
+Decrypt • 2d ago
 
 ---
 
-**[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://finance.yahoo.com/news/trump-media-files-bitcoin-ethereum-221141199.html)**
+**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://finance.yahoo.com/news/harvard-cuts-bitcoin-etf-stake-163102804.html)**
 
-Trump Media and Technology Group filed for more crypto exchange-traded funds. One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure. President Trump has a long-list of crypto ventures.
+Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 40m ago
 
 ---
 
@@ -176,39 +170,15 @@ Yahoo Finance • 1d ago
 
 Harvard trimmed its Bitcoin holdings by 21% in the fourth quarter while establishing its first-ever position in Ethereum.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
-**[The Best Cryptocurrency to Buy With $100 Right Now](https://www.fool.com/investing/2026/02/16/the-best-cryptocurrency-to-buy-with-100-right-now/)**
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
 
-Ethereum's price is down, but there's a clear path to recovery.
+Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
 
-The Motley Fool • 4h ago
-
----
-
-**[Tom Lee Calls Bitcoin and Ethereum Price Bottom, Claims Crypto Winter Is 'Close To Ending' as Wall Street Backs Bitmine](https://finance.yahoo.com/news/tom-lee-calls-bitcoin-ethereum-105715079.html)**
-
-Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
-
-Yahoo Finance • 5h ago
-
----
-
-**[Ethereum Price Reverses Under $2,000, Bulls On The Back Foot](https://www.tradingview.com/news/newsbtc:37e79c397094b:0-ethereum-price-reverses-under-2-000-bulls-on-the-back-foot/)**
-
-Ethereum price started a fresh decline and traded below $2,000. ETH is now consolidating and remains at risk of another decline below $1,940.Ethereum Price Dips AgainEthereum price failed to stay above $2,050 and started a fresh decline, like Bitcoin. ETH price traded below the $2,040 and $2,020 le…
-
-TradingView • 12h ago
-
----
-
-**[Thomas Thiery: Fossil enhances transaction inclusion in Ethereum, MEV threatens decentralization, and upcoming changes will reshape block construction | Epicenter](https://cryptobriefing.com/thomas-thiery-fossil-enhances-transaction-inclusion-in-ethereum-mev-threatens-decentralization-and-upcoming-changes-will-reshape-block-construction-epicenter/)**
-
-Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
-
-Crypto Briefing • 16h ago
+Nasdaq • 2d ago
 
 ---
 
@@ -220,6 +190,12 @@ CoinDesk • 3d ago
 
 ---
 
+**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
+
+TradingView • 1d ago
+
+---
+
 **[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
@@ -228,19 +204,33 @@ BeInCrypto • 1d ago
 
 ---
 
+**[Thomas Thiery: Fossil enhances transaction inclusion in Ethereum, MEV threatens decentralization, and upcoming changes will reshape block construction | Epicenter](https://cryptobriefing.com/thomas-thiery-fossil-enhances-transaction-inclusion-in-ethereum-mev-threatens-decentralization-and-upcoming-changes-will-reshape-block-construction-epicenter/)**
+
+Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
+
+Crypto Briefing • 17h ago
+
+---
+
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
+
+The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
+
+The Motley Fool • 2d ago
+
+---
+
+**[Tom Lee Calls Bitcoin and Ethereum Price Bottom, Claims Crypto Winter Is 'Close To Ending' as Wall Street Backs Bitmine](https://finance.yahoo.com/news/tom-lee-calls-bitcoin-ethereum-105715079.html)**
+
+Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
+
+Yahoo Finance • 6h ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Wher5oIUXsg)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 626 • 👍 88 • 💬 5 • ⏱️ 6:56 • 2h ago
-
----
 
 **[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
 
@@ -248,27 +238,17 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 61K • 👍 3K • 💬 504 • ⏱️ 34:57 • 1d ago
+👁️ 62K • 👍 3K • 💬 506 • ⏱️ 34:57 • 1d ago
 
 ---
 
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=sfZGxKbzWBo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Wher5oIUXsg)**
 
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Trade with Burner
+📺 More Crypto Online
 
-👁️ 4K • 👍 360 • 1h ago
-
----
-
-**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=PxEZjvY_G_M)**
-
-Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn how to claim your $Eth from the official ...
-
-📺 World Liberty Financial
-
-👁️ 503 • 👍 79 • 💬 7 • ⏱️ 2:13 • 1h ago
+👁️ 1K • 👍 144 • 💬 7 • ⏱️ 6:56 • 3h ago
 
 ---
 
@@ -278,7 +258,17 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 4K • 👍 227 • 💬 39 • ⏱️ 17:52 • 18h ago
+👁️ 5K • 👍 231 • 💬 40 • ⏱️ 17:52 • 19h ago
+
+---
+
+**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=PxEZjvY_G_M)**
+
+Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn how to claim your $Eth from the official ...
+
+📺 World Liberty Financial
+
+👁️ 2K • 👍 129 • 💬 7 • ⏱️ 2:13 • 2h ago
 
 ---
 
@@ -288,7 +278,17 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 4K • 👍 105 • 💬 5 • ⏱️ 17:25 • 2d ago
+👁️ 4K • 👍 106 • 💬 6 • ⏱️ 17:25 • 2d ago
+
+---
+
+**[What Are The Elites Planning For Crypto? (AMA PulseChain Ethereum Bitcoin)](https://www.youtube.com/watch?v=ykpWG2oNuKU)**
+
+how to buy PulseChain coins? https://libertyswap.finance buy with card: https://buy-pulsechain.com | buy with bank account: ...
+
+📺 Crypto Coffee
+
+👁️ 99 • 👍 24 • 💬 3 • ⏱️ 59:47 • 37m ago
 
 ---
 
@@ -298,27 +298,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 242 • 💬 35 • ⏱️ 17:15 • 13h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ZueBut25QHQ)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 173 • 💬 10 • ⏱️ 4:44 • 14h ago
-
----
-
-**[Why Do Ethereum Classic and Bitcoin Cash Exist?](https://www.youtube.com/watch?v=-HJiB-Uggbc)**
-
-What happens when a blockchain splits? This video explains soft and hard forks, why they occur, and their impact on crypto.
-
-📺 CoinGecko
-
-👁️ 567 • 👍 75 • 💬 10 • ⏱️ 4:01 • 5h ago
+👁️ 7K • 👍 250 • 💬 35 • ⏱️ 17:15 • 14h ago
 
 ---
 
@@ -328,7 +308,27 @@ As far as every single analyst and CEO has said.. all signs seem to be pointing 
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 516 • 💬 41 • ⏱️ 30:43 • 6h ago
+👁️ 4K • 👍 591 • 💬 43 • ⏱️ 30:43 • 7h ago
+
+---
+
+**[Why Do Ethereum Classic and Bitcoin Cash Exist?](https://www.youtube.com/watch?v=-HJiB-Uggbc)**
+
+What happens when a blockchain splits? This video explains soft and hard forks, why they occur, and their impact on crypto.
+
+📺 CoinGecko
+
+👁️ 831 • 👍 90 • 💬 13 • ⏱️ 4:01 • 6h ago
+
+---
+
+**[ETHEREUM 🚨 LE PLAN VERS $10,000 EST EN PLACE !? 🚀](https://www.youtube.com/watch?v=C2-tKaSdZzM)**
+
+Accès 100% GRATUIT : Nos Algos + Mentorship + VIP (disponible dans quelques jours) Inscris-toi sur Weex (Pas de KYC !
+
+📺 Crypto Le Trone
+
+👁️ 2K • 👍 371 • 💬 19 • ⏱️ 10:11 • 2h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T16:06:17.065266+00:00'
+updated: '2026-02-16T17:11:17.950045+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 16:06 UTC  
+**Last Updated:** February 16, 2026 at 17:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,767.07
+### $67,992.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.2%  
-**7d:** -1.5%  
+**24h:** -1.0%  
+**7d:** -1.6%  
 **30d:** -27.7%  
 **90d:** -25.7%  
 **1y:** -29.2%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1369.11B
+**Market Cap:** $1357.05B
 Rank #1
 
-**Circulating Supply:** 19,990,321 BTC
+**Circulating Supply:** 19,990,368 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-46.2%
 
 **All-Time Low:** $67.81
-+100920.5%
++99882.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-6h ago
+7h ago
 
 ---
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -93,7 +93,13 @@ Rank #1
 
 Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we saved from our 2 sons (3 and 5 years old) from Birthday presents and so one. I am thinking about putting this Money in bitcoin and leave it untouched until they are 20. I started with nearly nothing in my life. I dont want them in the Same Situation. Am I doing the Right thing as a Father ?
 
-4h ago
+5h ago
+
+---
+
+**[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
+
+3h ago
 
 ---
 
@@ -105,45 +111,37 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 ---
 
+**[Norwegian sovereign wealth fund increased its indirect Bitcoin exposure by 149% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r6djoe/norwegian_sovereign_wealth_fund_increased_its/)**
+
+The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
+
+🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 1h ago
+
+---
+
 **[Bitcoin transaction at McDonald's in San Salvador](https://www.reddit.com/r/Bitcoin/comments/1r5qsih/bitcoin_transaction_at_mcdonalds_in_san_salvador/)**
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-18h ago
+19h ago
 
 ---
 
-**[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
+**[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
 
-1h ago
+29m ago
 
 ---
 
 **[Today is a very special day!!! My 15 year old son started his Bitcoin venture 💙. I told him to stack them monthly 🤑🤑 lil Satoshis](https://www.reddit.com/r/Bitcoin/comments/1r5z5r1/today_is_a_very_special_day_my_15_year_old_son/)**
 
-12h ago
+13h ago
 
 ---
 
-**[Bitcoin volatility is pick up again. Are you expecting a breakout or another fack pump?](https://www.reddit.com/r/Bitcoin/comments/1r62f2k/bitcoin_volatility_is_pick_up_again_are_you/)**
+**["I look at Bitcoin as the best savings technology that's ever existed"](https://www.reddit.com/r/Bitcoin/comments/1r6d92n/i_look_at_bitcoin_as_the_best_savings_technology/)**
 
-Are you expecting a breakout or another fack pump?
-
-9h ago
-
----
-
-**[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
-
-1d ago
-
----
-
-**[What if you reach your goal?](https://www.reddit.com/r/Bitcoin/comments/1r6crf4/what_if_you_reach_your_goal/)**
-
-Say you finally hit your BTC accumulation target: 0.1, 1, 69, whatever your number is. Do you stop DCA-ing and redirect into something uncorrelated (global equities ETF, etc.)? Essentially going beta-zero to BTC on new capital. Or do you keep stacking regardless?
-
-31m ago
+1h ago
 
 ---
 
@@ -151,11 +149,11 @@ Say you finally hit your BTC accumulation target: 0.1, 1, 69, whatever your numb
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Recovery Likely To Be 'Slow And Painful,' Analysts Warn: Watch This Key Level](https://finance.yahoo.com/news/bitcoin-recovery-likely-slow-painful-233113604.html)**
+**[Crypto market drowns in red as bitcoin falls to $68,000, XRP, ETH slide over 5%](https://www.coindesk.com/markets/2026/02/16/crypto-market-drowns-in-red-as-bitcoin-falls-to-usd68-000)**
 
-Influential crypto traders Trader Mayne and DonAlt maintain a cautious, bearish-to-neutral stance on Bitcoin (CRYPTO: BTC), warning that a sharp V-shaped recovery is unlikely. ‘Slow, Grinding' Correction Ahead In their latest podcast, both analysts said they expect a prolonged, choppy...
+Traders are bracing for a heavy week of macroeconomic events, including Fed minutes and the core PCE inflation report.
 
-Yahoo Finance • 2d ago
+CoinDesk • 10h ago
 
 ---
 
@@ -167,25 +165,49 @@ CNBC • 1d ago
 
 ---
 
+**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
+
+Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
+
+The Block • 7h ago
+
+---
+
+**[Harvard cuts bitcoin exposure by 20%, adds new ether position](https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position)**
+
+The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
+
+CoinDesk • 2h ago
+
+---
+
 **[Metaplanet posts $619 million net loss on bitcoin valuation as holdings climb to 35,102 BTC](https://www.theblock.co/post/390048/metaplanet-posts-619-million-net-loss-on-bitcoin-valuation-as-holdings-climb-to-35102-btc)**
 
 Metaplanet posted a $619 million FY2025 loss on its bitcoin valuation, while its total holdings jumped to 35,102 BTC and revenue surged.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
-**[Bitcoin’s slide may signal broader market trouble and a U.S. recession, Mike McGlone Says](https://www.coindesk.com/markets/2026/02/16/bitcoin-s-slide-may-signal-broader-market-trouble-and-a-u-s-recession-mike-mcglone-says)**
+**[Harvard Reduces Bitcoin Holdings In Q4, Picks Up Ethereum](https://bitcoinmagazine.com/news/harvard-trims-bitcoin-position)**
 
-McGlone argues collapsing crypto and stretched equity metrics could end the “buy the dip” era, while Jason Fernandes says only a credit shock would justify a move toward $10,000.
+Harvard trimmed its Bitcoin holdings by 21% in the fourth quarter while establishing its first-ever position in Ethereum.
 
-CoinDesk • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
 **[Bitcoin Looks for Direction After Four Straight Weekly Losses](https://www.bloomberg.com/news/articles/2026-02-16/bitcoin-looks-for-direction-after-four-straight-weekly-losses)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 1h ago
+
+---
+
+**[Crypto Is a Victim of Its Own Success](https://www.theatlantic.com/ideas/2026/02/crypto-crash-bitcoin-value/685994/)**
+
+Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
+
+The Atlantic • 5h ago
 
 ---
 
@@ -200,30 +222,6 @@ Forbes • 2d ago
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
 Nasdaq • 2d ago
-
----
-
-**[Bitcoin After the Cycle Peak: What Comes Next and How We’re Positioning](https://io-fund.com/crypto/bitcoin-after-cycle-peak)**
-
-Bitcoin rarely rewards narrative-based investors for long. Time and again, it has shown a habit of reversing its dominant trend against the prevailing story of the moment. A large portion of the I/O Fund’s edge has been staying on the right side of Bitcoin’s big turns in both directions by following a process rooted in analyzing sentiment through technical analysis, rather than headlines.
-
-I/O Fund • 4d ago
-
----
-
-**[Bitcoin hit $60,000 because two different groups finally surrendered — on-chain data shows who blinked](https://cryptoslate.com/bitcoin-hit-60000-because-two-different-groups-finally-surrendered-on-chain-data-shows-who-blinked/)**
-
-Bitcoin’s 2026 selloff came in two capitulations, first near $80,000 then near $60,000, as seller cohorts rotated and realized losses surged.
-
-CryptoSlate • 22h ago
-
----
-
-**[Michael Saylor's Strategy says it can survive a bitcoin (BTC) price crash to $8,000](https://www.coindesk.com/markets/2026/02/16/strategy-says-it-can-survive-even-if-bitcoin-drops-to-usd8-000-and-will-equitize-debt)**
-
-Strategy says it can withstand a bitcoin price drop to $8,000 and still cover its roughly $6 billion in net debt.
-
-CoinDesk • 6h ago
 
 ---
 
@@ -283,14 +281,6 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 ---
 
-**[Bitcoin investor's helped draft law to enable libertarian Caribbean development](https://news.ycombinator.com/item?id=46947225)**
-
-Local opponents criticise legislation that will facilitate ‘networked state’ community and hand executive powers to developer
-
-⬆️ 2 • 💬 0 • 6d ago • [ft.com](https://www.ft.com/content/50c2f8e0-a0a4-4433-805d-46e9e0345d4a)
-
----
-
 **[Show HN: Bitcoin, GEB, and Bach's fugues share the same structural move](https://news.ycombinator.com/item?id=46976351)**
 
 Reverse-engineer how creative works operate—and what they train in audiences.
@@ -307,17 +297,25 @@ Real-time market microstructure with quantitative context.
 
 ---
 
+**[Michael Green discusses Bitcoin [video]](https://news.ycombinator.com/item?id=46983956)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+⬆️ 1 • 💬 0 • 4d ago • [youtube.com](https://www.youtube.com/watch?v=6eFKqTg6GS4)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
+**[Last Time Bitcoin Hit This Critical Level Price Rallied Over 600%](https://www.youtube.com/watch?v=Qc_Fyiu_DDw)**
 
-Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
+Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
 
-📺 Altcoin Daily
+📺 CryptosRUs
 
-👁️ 41K • 👍 2K • 💬 231 • ⏱️ 11:16 • 17h ago
+👁️ 9K • 👍 803 • 💬 59 • ⏱️ 39:54 • 1h ago
 
 ---
 
@@ -327,37 +325,37 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 6K • 👍 129 • 💬 37 • ⏱️ 12:20 • 21h ago
+👁️ 6K • 👍 139 • 💬 38 • ⏱️ 12:20 • 22h ago
 
 ---
 
-**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
+**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
 
-Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
+Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
 
-📺 Anthony Pompliano
+📺 Altcoin Daily
 
-👁️ 49K • 👍 2K • 💬 95 • ⏱️ 21:49 • 2d ago
-
----
-
-**[This Bitcoin Selloff Is Different And Nobody Understands What Comes Next! | Dan Tapiero](https://www.youtube.com/watch?v=XM3GMkAh9GU)**
-
-Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is structurally different from past cycles. With venture tokens ...
-
-📺 The Wolf Of All Streets
-
-👁️ 38K • 👍 1K • 💬 789 • ⏱️ 30:55 • 1d ago
+👁️ 43K • 👍 2K • 💬 234 • ⏱️ 11:16 • 18h ago
 
 ---
 
-**[The Crypto Crash Everyone Expects Won’t Happen](https://www.youtube.com/watch?v=Q45j9ivWo9g)**
+**[I Stopped Believing In Bitcoin.](https://www.youtube.com/watch?v=ld5sqGLO3ic)**
 
-Bitcoin bottom in? Buy now says analyst. Altcoins heating up! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin crashed while Gold and stocks soared, creating a ...
 
-📺 Lark Davis
+📺 Crypto Insider
 
-👁️ 5K • 👍 517 • 💬 42 • ⏱️ 17:35 • 4h ago
+👁️ 6K • 👍 606 • 💬 67 • ⏱️ 18:15 • 3h ago
+
+---
+
+**[JUST IN : Robert Kiyosaki DUMPS Gold, Backs Bitcoin – $250K BTC Target Finally Confirmed?](https://www.youtube.com/watch?v=sAP1xgGr4Jk)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 4K • 👍 192 • 💬 26 • ⏱️ 25:08 • 21h ago
 
 ---
 
@@ -367,47 +365,47 @@ In January, we outlined a late-cycle restrictive regime and leaned cautious on r
 
 📺 Benjamin Cowen
 
-👁️ 39K • 👍 3K • 💬 133 • ⏱️ 13:07 • 10h ago
+👁️ 46K • 👍 3K • 💬 140 • ⏱️ 13:07 • 11h ago
 
 ---
 
-**[SELL ALL BITCOIN??? OR BUY NOW ??????](https://www.youtube.com/watch?v=iUg-TO3MLhs)**
+**[The Crypto Crash Everyone Expects Won’t Happen](https://www.youtube.com/watch?v=Q45j9ivWo9g)**
 
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS BloFin: https://themoon.co/blofin45usdt Register to get ...
+Bitcoin bottom in? Buy now says analyst. Altcoins heating up! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 The Moon Show
+📺 Lark Davis
 
-👁️ 7K • 👍 564 • 💬 81 • ⏱️ 11:04 • 7h ago
-
----
-
-**[HE IS SHORT BITCOIN WITH MILLIONS! (BIGGER CRASH AHEAD)](https://www.youtube.com/watch?v=zyreZ6RrEuE)**
-
-LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ...
-
-📺 Crypto Kid
-
-👁️ 4K • 👍 329 • 💬 62 • ⏱️ 7:01 • 11h ago
+👁️ 8K • 👍 648 • 💬 55 • ⏱️ 17:35 • 5h ago
 
 ---
 
-**[Trader LOSES MILLIONS Betting AGAINST Bitcoin](https://www.youtube.com/watch?v=da33ju_Wm2s)**
+**[Bitcoin Is About To Replace A $9.7 Trillion Market And Nobody Sees It Coming | Jesse Shrader](https://www.youtube.com/watch?v=QzdIYnKBypA)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+Marty and Jesse Shrader, co-founder of Amboss, break down how Taproot Assets are bringing stablecoins to the Lightning ...
 
-📺 Discover Crypto
+📺 TFTC
 
-👁️ 24K • 👍 135 • 💬 16 • ⏱️ 0:12 • 2d ago
+👁️ 564 • 👍 75 • 💬 6 • ⏱️ 1:05:30 • 2h ago
 
 ---
 
-**[BEST 4 Altcoins (USA Government MAJOR Announcement)](https://www.youtube.com/watch?v=zsz1NAGvtgQ)**
+**[Bitcoin Is Closer to a Breakout Than People Think](https://www.youtube.com/watch?v=uVk1Fubl2HA)**
 
-Nick Valdez looks at the latest news from the CFTC. This news will have a massive impact on 4 different altcoins! Lets look at the ...
+Dan Ives is the Global Head of Technology Research at Wedbush Securities and one of the most widely followed analysts ...
 
-📺 Discover Crypto
+📺 Anthony Pompliano
 
-👁️ 17K • 👍 574 • 💬 241 • ⏱️ 7:14 • 1d ago
+👁️ 50K • 👍 2K • 💬 95 • ⏱️ 21:49 • 2d ago
+
+---
+
+**[This Bitcoin Selloff Is Different And Nobody Understands What Comes Next! | Dan Tapiero](https://www.youtube.com/watch?v=XM3GMkAh9GU)**
+
+Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is structurally different from past cycles. With venture tokens ...
+
+📺 The Wolf Of All Streets
+
+👁️ 39K • 👍 1K • 💬 791 • ⏱️ 30:55 • 1d ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T16:06:17.074308+00:00'
+updated: '2026-02-16T17:11:17.959489+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 16:06 UTC  
+**Last Updated:** February 16, 2026 at 17:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,35 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-1h ago
+2h ago
+
+---
+
+**[Humanoid Training Starts in the Factory](https://www.reddit.com/r/robotics/comments/1r6ecu4/humanoid_training_starts_in_the_factory/)**
+
+Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
+
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 38m ago
+
+---
+
+**[got rejected multiple times from companies for robotics roles with this resume](https://www.reddit.com/r/robotics/comments/1r6eq37/got_rejected_multiple_times_from_companies_for/)**
+
+I am a final year Btech student with experience in robotics .I had applied for various roles like robotics software engineer,software engineer-autonomous vehicles, etc in many companies like Nvidia etc,but got rejected multiple times, someone please help.
+
+25m ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -62,7 +78,7 @@ Robotics research and industry news
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-6h ago
+7h ago
 
 ---
 
@@ -70,7 +86,7 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 21h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 22h ago
 
 ---
 
@@ -78,29 +94,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
 
-1d ago
+2d ago
 
 ---
 
 **[i need help](https://www.reddit.com/r/robotics/comments/1r5iw9l/i_need_help/)**
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
-
-23h ago
-
----
-
-**[Lego strandbeest (Part 2)](https://www.reddit.com/r/robotics/comments/1r4pn0d/lego_strandbeest_part_2/)**
-
-I added rubber pieces for the feet so it can grip the ground and central drivetrain! soon I will add the fan blades seen in the video.
-
-1d ago
-
----
-
-**[Husky lens1 in Pybricks (Python)](https://www.reddit.com/r/robotics/comments/1r57s8n/husky_lens1_in_pybricks_python/)**
-
-Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
 1d ago
 
@@ -114,27 +114,19 @@ Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into p
 
 Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Futurism • 23h ago
+Futurism • 1d ago
 
 ---
 
 **[Comau expands wearable robotics with the new Mate-XT GO exoskeleton](https://electronics360.globalspec.com/article/23360/comau-expands-wearable-robotics-with-the-new-mate-xt-go-exoskeleton)**
 
-Electronics360 • 2h ago
-
----
-
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
-
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
-
-KWQC • 14h ago
+Electronics360 • 4h ago
 
 ---
 
 **[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
 
-Reuters • 7h ago
+Reuters • 9h ago
 
 ---
 
@@ -142,13 +134,21 @@ Reuters • 7h ago
 
 ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
 
-South China Morning Post • 2h ago
+South China Morning Post • 19h ago
 
 ---
 
 **[China Ready to Dazzle the World with Humanoid Robots ‘Super Bowl’ Show](https://www.tipranks.com/news/china-ready-to-dazzle-the-world-with-humanoid-robots-super-bowl-show)**
 
-TipRanks • 4h ago
+TipRanks • 5h ago
+
+---
+
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+
+KWQC • 16h ago
 
 ---
 
@@ -164,13 +164,7 @@ CNN • 2d ago
 
 The Economics Show 🤜🤛 FT Alphaville
 
-Financial Times • 5h ago
-
----
-
-**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
-
-KSN-TV • 2d ago
+Financial Times • 6h ago
 
 ---
 
@@ -178,7 +172,13 @@ KSN-TV • 2d ago
 
 This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
 
-Interesting Engineering • 11h ago
+Interesting Engineering • 13h ago
+
+---
+
+**[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
+
+KSN-TV • 2d ago
 
 ---
 
@@ -192,7 +192,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 398K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
+👁️ 403K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
 
 ---
 
@@ -202,7 +202,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 15K • 👍 581 • 💬 68 • ⏱️ 12:43 • 16h ago
+👁️ 17K • 👍 601 • 💬 76 • ⏱️ 12:43 • 17h ago
 
 ---
 
@@ -212,7 +212,7 @@ The humanoid robot market just got real. These aren't concept demos anymore—th
 
 📺 AI Exposed
 
-👁️ 273 • 👍 2 • 💬 2 • ⏱️ 18:05 • 1d ago
+👁️ 556 • 👍 6 • 💬 6 • ⏱️ 18:05 • 1d ago
 
 ---
 
@@ -222,37 +222,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 31K • 👍 2K • 💬 379 • ⏱️ 9:43 • 18h ago
-
----
-
-**[China’s Most Realistic Female Robot Singer Stuns the World at AGIBOT Night 2026](https://www.youtube.com/watch?v=arI2cJpyRyw)**
-
-Such a presentation would highlight how far artificial intelligence, robotics, and digital performance technologies have advanced ...
-
-📺 Carros Show
-
-👁️ 15K • 👍 336 • 💬 66 • ⏱️ 10:40 • 5d ago
-
----
-
-**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
-
-From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
-
-📺 60 Minutes
-
-👁️ 698K • 👍 9K • 💬 1K • ⏱️ 53:47 • 2d ago
-
----
-
-**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
-
-A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
-
-📺 AI Revolution
-
-👁️ 154K • 👍 3K • 💬 242 • ⏱️ 11:59 • 5d ago
+👁️ 32K • 👍 2K • 💬 390 • ⏱️ 9:43 • 19h ago
 
 ---
 
@@ -262,27 +232,57 @@ shorts #tech #bike #motorcycle.
 
 📺 ThrottleRush
 
-👁️ 28K • 👍 1K • 💬 19 • ⏱️ 0:41 • 3d ago
+👁️ 29K • 👍 1K • 💬 19 • ⏱️ 0:41 • 3d ago
 
 ---
 
-**[Optimus Will Change Everything #ElonMusk #Optimus #AI #Robotics #FutureTech #Innovation #robolution](https://www.youtube.com/watch?v=2vcqxrt9dEs)**
+**[China’s Most Realistic Female Robot Singer Stuns the World at AGIBOT Night 2026](https://www.youtube.com/watch?v=arI2cJpyRyw)**
 
-A bold statement like this instantly ignites curiosity and debate across the world of technology and innovation. When visionary ...
+Such a presentation would highlight how far artificial intelligence, robotics, and digital performance technologies have advanced ...
 
-📺 Billionaire Shots
+📺 Carros Show
 
-👁️ 18K • 👍 1K • 💬 169 • ⏱️ 0:25 • 1d ago
+👁️ 15K • 👍 340 • 💬 66 • ⏱️ 10:40 • 5d ago
 
 ---
 
-**[MIND-BLOWING Mobility! 3-Wheel Omni Directional Robot Base 🤖](https://www.youtube.com/watch?v=nPa7avLWzO4)**
+**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
 
-Take a deep dive into the fascinating world of industrial robotics with this high-performance three-wheel omnidirectional chassis.
+From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
 
-📺 Peace Working Shorts
+📺 60 Minutes
 
-👁️ 30K • 👍 85 • ⏱️ 0:06 • 13h ago
+👁️ 718K • 👍 9K • 💬 1K • ⏱️ 53:47 • 2d ago
+
+---
+
+**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
+
+A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
+
+📺 AI Revolution
+
+👁️ 156K • 👍 3K • 💬 245 • ⏱️ 11:59 • 5d ago
+
+---
+
+**[Martial arts robots dazzle at 2026 Spring Festival Gala](https://www.youtube.com/watch?v=mUmlv814aJo)**
+
+Tradition meets technology in a stunning showcase at the 2026 Spring Festival Gala by China Media Group. This year's gala ...
+
+📺 CGTN
+
+👁️ 9K • 👍 3K • 💬 590 • ⏱️ 4:51 • 3h ago
+
+---
+
+**[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
+
+Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
+
+📺 By 2050
+
+👁️ 16K • 👍 437 • 💬 19 • ⏱️ 0:59 • 1d ago
 
 ---
 
