@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T17:11:17.959489+00:00'
+updated: '2026-02-16T18:02:57.911973+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 17:11 UTC  
+**Last Updated:** February 16, 2026 at 18:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 38m ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 1h ago
 
 ---
 
@@ -50,19 +50,19 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 I am a final year Btech student with experience in robotics .I had applied for various roles like robotics software engineer,software engineer-autonomous vehicles, etc in many companies like Nvidia etc,but got rejected multiple times, someone please help.
 
-25m ago
+1h ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -78,7 +78,7 @@ I am a final year Btech student with experience in robotics .I had applied for v
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-7h ago
+8h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 22h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 23h ago
 
 ---
 
@@ -134,13 +134,13 @@ Reuters • 9h ago
 
 ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
 
-South China Morning Post • 19h ago
+South China Morning Post • 20h ago
 
 ---
 
 **[China Ready to Dazzle the World with Humanoid Robots ‘Super Bowl’ Show](https://www.tipranks.com/news/china-ready-to-dazzle-the-world-with-humanoid-robots-super-bowl-show)**
 
-TipRanks • 5h ago
+TipRanks • 6h ago
 
 ---
 
@@ -164,7 +164,7 @@ CNN • 2d ago
 
 The Economics Show 🤜🤛 FT Alphaville
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
@@ -202,7 +202,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 17K • 👍 601 • 💬 76 • ⏱️ 12:43 • 17h ago
+👁️ 17K • 👍 601 • 💬 76 • ⏱️ 12:43 • 18h ago
 
 ---
 
@@ -222,7 +222,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 32K • 👍 2K • 💬 390 • ⏱️ 9:43 • 19h ago
+👁️ 32K • 👍 2K • 💬 390 • ⏱️ 9:43 • 20h ago
 
 ---
 
@@ -272,7 +272,7 @@ Tradition meets technology in a stunning showcase at the 2026 Spring Festival Ga
 
 📺 CGTN
 
-👁️ 9K • 👍 3K • 💬 590 • ⏱️ 4:51 • 3h ago
+👁️ 9K • 👍 3K • 💬 590 • ⏱️ 4:51 • 4h ago
 
 ---
 

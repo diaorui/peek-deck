@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T17:11:17.941386+00:00'
+updated: '2026-02-16T18:02:57.894157+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 17:11 UTC  
+**Last Updated:** February 16, 2026 at 18:02 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
 
-🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 14h ago
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 15h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-🔗 [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out) • 6h ago
+🔗 [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out) • 7h ago
 
 ---
 
@@ -65,7 +65,7 @@ For users with taboo desires, AI sexbots can promise freedom from shame—or it 
 
 Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Every few weeks there’s a new “best AI note taking app” claiming to fix me
 
 AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on illegal content in the United Kingdom, as the government promises swift action to make the internet safer for children.
 
-🔗 [CNN](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 2h ago
+🔗 [CNN](https://www.cnn.com/2026/02/16/business/uk-ai-chatbots-online-safety-act-intl?utm_medium=social&utm_campaign=missions&utm_source=reddit) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ AI chatbot providers, including ChatGPT and Grok, are facing a crackdown on ille
 
 The outlet published AI-hallucinated quotes about a developer in a story about AI hallucinating content about that same developer
 
-🔗 [Medium](https://medium.com/reading-sh/ars-technica-hallucinated-quotes-in-its-story-about-hallucinations-0780038168fe?sk=79a85ab74eae5e34797d71603e7da776) • 44m ago
+🔗 [Medium](https://medium.com/reading-sh/ars-technica-hallucinated-quotes-in-its-story-about-hallucinations-0780038168fe?sk=79a85ab74eae5e34797d71603e7da776) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ The outlet published AI-hallucinated quotes about a developer in a story about A
 
 Quick update on Izwi (local audio inference engine) - we've shipped some major features: What's New: Speaker Diarization - Automatically identify and separate multiple speakers using Sortformer models. Perfect for meeting transcripts. Forced Alignment - Word-level timestamps between audio and text using Qwen3-ForcedAligner. Great for subtitles. Real-Time Streaming - Stream responses for transcribe, chat, and TTS with incremental delivery. Multi-Format Audio - Native support for WAV, MP3, FLAC, OGG via Symphonia. Performance - Parallel execution, batch ASR, paged KV cache, Metal optimizations. Model Support: TTS: Qwen3-TTS (0.6B, 1.7B), LFM2.5-Audio ASR: Qwen3-ASR (0.6B, 1.7B), Parakeet TDT, LFM2.5-Audio Chat: Qwen3 (0.6B, 1.7), Gemma 3 (1B) Diarization: Sortformer 4-speaker Docs: https://izwiai.com/ Github Repo: https://github.com/agentem-ai/izwi Give us a star on GitHub and try it out. Feedback is welcome!!!
 
-🔗 [izwiai.com](https://izwiai.com/) • 2h ago
+🔗 [izwiai.com](https://izwiai.com/) • 3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Quick update on Izwi (local audio inference engine) - we've shipped some major f
 
 How Cross-page AI aggregation can introduce new liability vectors.
 
-🔗 [Code Input](https://codeinput.com/blog/google-seo) • 7h ago
+🔗 [Code Input](https://codeinput.com/blog/google-seo) • 8h ago
 
 ---
 
@@ -105,7 +105,7 @@ How Cross-page AI aggregation can introduce new liability vectors.
 
 OKAY!! Had a weird experience with an Al phone screening interviewer. Here's what happened: I was away for a while. When I came back to check my phone. There was a missed called and an email. I first checked my email. It said "Recruiter tried reaching out....". Seemed normal. I called back and instantly a voice started speaking "Am I speaking to {.}?" I was 100% sure it's Al right away. I went along thinking "It won't hurt speaking to an Al recruiter lol". Then it started my screening. Asked basic questions. The funny thing is that it kept on asking me questions about my past employment, past salary, last working date even when I told her that I have no prior work experience and I'm a total fresher. The Al was adamant and kept going. I was irritated and then I hung up. Such a weird experience. Why would companies even do such things. Even if they do, WHY SUCH A DUMB AI!!!!
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +113,7 @@ OKAY!! Had a weird experience with an Al phone screening interviewer. Here's wha
 
 What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real time video calls with their own customizable AI companion?
 
-11h ago
+12h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 7h ago
 
 Videos created by new Seedance 2.0 generator go viral, including one of Tom Cruise and Brad Pitt fighting
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Guardian • 1h ago
 
 Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ BBC • 6h ago
 
 As AI models advance rapidly, experts warn of widespread job displacement while others call it 'doomerism.' What's the reality behind AI predictions?
 
-Fox News • 9h ago
+Fox News • 10h ago
 
 ---
 
@@ -155,7 +155,7 @@ Fox News • 9h ago
 
 Adaptable plug-ins must compete with bespoke products already used by lawyers and consultants
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -169,7 +169,7 @@ Axios • 1d ago
 
 The Pentagon is pushing Anthropic, OpenAI, Google and xAI to let it use AI tools for weapons development, intelligence collection and battlefield operations.
 
-CNBC • 59m ago
+CNBC • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 59m ago
 
 AI tools on EU devices sent data to cloud, prompting the Parliament’s IT support to switch them off.
 
-politico.eu • 32m ago
+politico.eu • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ politico.eu • 32m ago
 
 AI startup ElevenLabs, valued at $11 billion, employs small teams with high sales quotas.
 
-Business Insider • 19m ago
+Business Insider • 1h ago
 
 ---
 
@@ -235,7 +235,7 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 275 • 💬 163 • 2d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 275 • 💬 163 • 3d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
@@ -243,7 +243,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 250 • 💬 197 • 4h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 250 • 💬 197 • 5h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -287,7 +287,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 16K • 👍 288 • 💬 72 • ⏱️ 8:34 • 13h ago
+👁️ 16K • 👍 288 • 💬 72 • ⏱️ 8:34 • 14h ago
 
 ---
 
@@ -337,7 +337,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 17K • 👍 601 • 💬 76 • ⏱️ 12:43 • 17h ago
+👁️ 17K • 👍 601 • 💬 76 • ⏱️ 12:43 • 18h ago
 
 ---
 
@@ -405,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 650 • 8h ago
+⬇️ 18,895 • ❤️ 650 • 9h ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Del
 
 `image-text-to-text` `403.4B`
 
-⬇️ 0 • ❤️ 359 • 6h ago
+⬇️ 0 • ❤️ 359 • 7h ago
 
 ---
 
@@ -649,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 6.2k • 🔱 594 • 29s ago
+⭐ 6.2k • 🔱 594 • 52m ago
 
 ---
 
@@ -693,7 +693,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.6k • 🔱 261 • 12h ago
+⭐ 2.6k • 🔱 261 • 13h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 153 • 8h ago
+⭐ 2.2k • 🔱 153 • 9h ago
 
 ---
 
@@ -723,7 +723,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 158 • 20h ago
+⭐ 2.2k • 🔱 158 • 21h ago
 
 ---
 
@@ -733,7 +733,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.0k • 🔱 256 • 27m ago
+⭐ 2.0k • 🔱 256 • 1h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T17:11:17.956200+00:00'
+updated: '2026-02-16T18:02:57.908798+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
+- cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 17:11 UTC  
+**Last Updated:** February 16, 2026 at 18:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fundstrat’s Tom Lee says crypto winter is either already over or will end by April, pointing to late-cycle sentiment and improving macro. He also highlighted BitMine’s strategy of weekly ETH accumulation and staking as a long-term institutional bet on Ethereum. Article: https://btcusa.com/tom-lee-crypto-winter-likely-ends-by-april-as-ethereum-strategy-expands/ Do you agree we’re near the end of this cycle correction?
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Fundstrat’s Tom Lee says crypto winter is either already over or will end by A
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-2h ago
+3h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Been holding ETH for a while and want to move some around or swap for other assets without going through CEXs. Most platforms these days ask for KYC, which I'd rather avoid if possible. What's the smoothest way to swap ETH directly from wallet? Looking for something non-custodial, decent rates, and not too complicated. If you've done any swaps recently, what actually worked well for you?
 
-16h ago
+17h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 2d ago
 
 Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
 
-Yahoo Finance • 40m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 40m ago
 
 Harvard trimmed its Bitcoin holdings by 21% in the fourth quarter while establishing its first-ever position in Ethereum.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -208,7 +208,7 @@ BeInCrypto • 1d ago
 
 Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
 
-Crypto Briefing • 17h ago
+Crypto Briefing • 18h ago
 
 ---
 
@@ -224,7 +224,7 @@ The Motley Fool • 2d ago
 
 Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 144 • 💬 7 • ⏱️ 6:56 • 3h ago
+👁️ 1K • 👍 144 • 💬 7 • ⏱️ 6:56 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 5K • 👍 231 • 💬 40 • ⏱️ 17:52 • 19h ago
+👁️ 5K • 👍 231 • 💬 40 • ⏱️ 17:52 • 20h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn h
 
 📺 World Liberty Financial
 
-👁️ 2K • 👍 129 • 💬 7 • ⏱️ 2:13 • 2h ago
+👁️ 2K • 👍 129 • 💬 7 • ⏱️ 2:13 • 3h ago
 
 ---
 
@@ -288,7 +288,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 99 • 👍 24 • 💬 3 • ⏱️ 59:47 • 37m ago
+👁️ 99 • 👍 24 • 💬 3 • ⏱️ 59:47 • 1h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 250 • 💬 35 • ⏱️ 17:15 • 14h ago
+👁️ 7K • 👍 250 • 💬 35 • ⏱️ 17:15 • 15h ago
 
 ---
 
@@ -308,7 +308,7 @@ As far as every single analyst and CEO has said.. all signs seem to be pointing 
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 591 • 💬 43 • ⏱️ 30:43 • 7h ago
+👁️ 4K • 👍 591 • 💬 43 • ⏱️ 30:43 • 8h ago
 
 ---
 
@@ -328,7 +328,7 @@ Accès 100% GRATUIT : Nos Algos + Mentorship + VIP (disponible dans quelques jou
 
 📺 Crypto Le Trone
 
-👁️ 2K • 👍 371 • 💬 19 • ⏱️ 10:11 • 2h ago
+👁️ 2K • 👍 371 • 💬 19 • ⏱️ 10:11 • 3h ago
 
 ---
 
