@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T18:02:57.911973+00:00'
+updated: '2026-02-16T19:10:41.043809+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 18:02 UTC  
+**Last Updated:** February 16, 2026 at 19:10 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,15 +34,7 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-3h ago
-
----
-
-**[Humanoid Training Starts in the Factory](https://www.reddit.com/r/robotics/comments/1r6ecu4/humanoid_training_starts_in_the_factory/)**
-
-Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
-
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 1h ago
+4h ago
 
 ---
 
@@ -50,13 +42,53 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 I am a final year Btech student with experience in robotics .I had applied for various roles like robotics software engineer,software engineer-autonomous vehicles, etc in many companies like Nvidia etc,but got rejected multiple times, someone please help.
 
-1h ago
+2h ago
+
+---
+
+**[Humanoid Training Starts in the Factory](https://www.reddit.com/r/robotics/comments/1r6ecu4/humanoid_training_starts_in_the_factory/)**
+
+Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
+
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 2h ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-6h ago
+7h ago
+
+---
+
+**[We need a design saviour](https://www.reddit.com/r/robotics/comments/1r6i1xt/we_need_a_design_saviour/)**
+
+So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
+
+26m ago
+
+---
+
+**[Looking for help!](https://www.reddit.com/r/robotics/comments/1r6gvyl/looking_for_help/)**
+
+Robotics software engineers here: is it possible to write functional infrastructure software using simulated environments (e.g. Isaac to get sensor data and pipe it into Jetson hw) that can be shifted to a compatible robot without too much hassle?
+
+1h ago
+
+---
+
+**[Pen plotter diy help](https://www.reddit.com/r/robotics/comments/1r6g2ri/pen_plotter_diy_help/)**
+
+I’m planning to make a pen plotter for my college project and I’m really interested in this but I’m not really knowledgeable about this. The plotter I have in mind is a corexy model and I don’t know much about it. I’d really appreciate some help and insight into this. Anyone please help me regarding this.
+
+1h ago
+
+---
+
+**[Thoughts on Bio Robotics Engineering?](https://www.reddit.com/r/robotics/comments/1r657wl/thoughts_on_bio_robotics_engineering/)**
+
+Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
+
+9h ago
 
 ---
 
@@ -74,73 +106,15 @@ I am a final year Btech student with experience in robotics .I had applied for v
 
 ---
 
-**[Thoughts on Bio Robotics Engineering?](https://www.reddit.com/r/robotics/comments/1r657wl/thoughts_on_bio_robotics_engineering/)**
-
-Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
-
-8h ago
-
----
-
-**[Armatron Robotic Arm only One motor amazing mechanical mechanism engineering #roboticarm](https://www.reddit.com/r/robotics/comments/1r5lu49/armatron_robotic_arm_only_one_motor_amazing/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 23h ago
-
----
-
-**[Personal robotics project – request for advice and feedback](https://www.reddit.com/r/robotics/comments/1r4pjw4/personal_robotics_project_request_for_advice_and/)**
-
-Hello, In my free time, I am currently designing and building my first robot, inspired by a humanoid monkey shape, with the goal of learning robotics through a concrete and hands-on project. I have developed the project entirely from scratch: full mechanical design, complete 3D modeling of all parts, followed by manufacturing using 3D printing and integration of the different components (structure, actuators, power supply, and electronics).I am now about to start the programming and control phase of the robot. I am a beginner in computer science, but this project is precisely a way for me to progressively develop my skills through practical application. This personal project aims to strengthen and clarify my professional goal in robotics and mechatronics. I hope that it can eventually help me integrate an engineering school, or at least secure an internship within a company in this field. I would be very interested in receiving your feedback, advice, or constructive criticism on this approach: possible improvements, skills to focus on, or relevant directions for the continuation of my studies and projects. Thank you
-
-2d ago
-
----
-
-**[i need help](https://www.reddit.com/r/robotics/comments/1r5iw9l/i_need_help/)**
-
-I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
+**[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
 
-Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
+Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Futurism • 1d ago
-
----
-
-**[Comau expands wearable robotics with the new Mate-XT GO exoskeleton](https://electronics360.globalspec.com/article/23360/comau-expands-wearable-robotics-with-the-new-mate-xt-go-exoskeleton)**
-
-Electronics360 • 4h ago
-
----
-
-**[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
-
-Reuters • 9h ago
-
----
-
-**[Humanoids go mainstream as China’s robotics champions appear at CCTV spectacle](https://www.scmp.com/tech/big-tech/article/3343634/chinas-tech-companies-vie-attention-cctvs-festival-gala-years-biggest-stage)**
-
-ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
-
-South China Morning Post • 20h ago
-
----
-
-**[China Ready to Dazzle the World with Humanoid Robots ‘Super Bowl’ Show](https://www.tipranks.com/news/china-ready-to-dazzle-the-world-with-humanoid-robots-super-bowl-show)**
-
-TipRanks • 6h ago
+Fox News • 1h ago
 
 ---
 
@@ -148,7 +122,31 @@ TipRanks • 6h ago
 
 A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-KWQC • 16h ago
+KWQC • 18h ago
+
+---
+
+**[Humanoids go mainstream as China’s robotics champions appear at CCTV spectacle](https://www.scmp.com/tech/big-tech/article/3343634/chinas-tech-companies-vie-attention-cctvs-festival-gala-years-biggest-stage)**
+
+ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
+
+South China Morning Post • 21h ago
+
+---
+
+**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
+
+The Economics Show 🤜🤛 FT Alphaville
+
+Financial Times • 8h ago
+
+---
+
+**[Video: China’s humanoid robot masters stunning sword dance, shows perfect control](https://interestingengineering.com/ai-robotics/china-humanoid-robot-stunning-sword-dance)**
+
+Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
+
+Interesting Engineering • 1d ago
 
 ---
 
@@ -160,25 +158,31 @@ CNN • 2d ago
 
 ---
 
-**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
+**[Blackburn, Blumenthal probe robotics company after AI toy audio found publicly accessible](https://wcyb.com/news/local/blackburn-blumenthal-probe-robotics-company-after-ai-toy-audio-found-publicly-accessible)**
 
-The Economics Show 🤜🤛 FT Alphaville
+U.S. Sens. Marsha Blackburn (R-Tenn.) and Richard Blumenthal (D-Conn.) said they are investigating an artificial intelligence toy manufacturer after what they d
 
-Financial Times • 7h ago
-
----
-
-**[Robots observe humans, learn to move arms, set and clear table autonomously with new method](https://interestingengineering.com/ai-robotics/robots-observe-humans-set-table-autonomously)**
-
-This breakthrough represents a further step towards achieving more natural and easily teachable service robots capable of performing assistive tasks in domestic environments.
-
-Interesting Engineering • 13h ago
+WCYB • 3d ago
 
 ---
 
 **[Southwest Kansas school hosts state’s largest robotics competition ever](https://www.ksn.com/news/southwest-kansas-school-hosts-states-largest-robotics-competition-ever/)**
 
 KSN-TV • 2d ago
+
+---
+
+**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
+
+ABC27 • 20h ago
+
+---
+
+**[West Michigan robotics manufacturer raises record $165,000 for charity](https://www.mlive.com/news/grand-rapids/2026/02/west-michigan-robotics-manufacturer-raises-record-165000-for-charity.html)**
+
+JR Automation raised more than $165,000 for local nonprofits in 2025 through its employee-led charity program.
+
+MLive.com • 1h ago
 
 ---
 
@@ -202,7 +206,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 17K • 👍 601 • 💬 76 • ⏱️ 12:43 • 18h ago
+👁️ 17K • 👍 601 • 💬 76 • ⏱️ 12:43 • 19h ago
 
 ---
 
@@ -222,7 +226,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 32K • 👍 2K • 💬 390 • ⏱️ 9:43 • 20h ago
+👁️ 32K • 👍 2K • 💬 390 • ⏱️ 9:43 • 21h ago
 
 ---
 
@@ -272,7 +276,7 @@ Tradition meets technology in a stunning showcase at the 2026 Spring Festival Ga
 
 📺 CGTN
 
-👁️ 9K • 👍 3K • 💬 590 • ⏱️ 4:51 • 4h ago
+👁️ 9K • 👍 3K • 💬 590 • ⏱️ 4:51 • 5h ago
 
 ---
 

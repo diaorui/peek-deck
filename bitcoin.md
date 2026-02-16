@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T18:02:57.902688+00:00'
+updated: '2026-02-16T19:10:41.034575+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 18:02 UTC  
+**Last Updated:** February 16, 2026 at 19:10 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.0%  
-**7d:** -1.6%  
-**30d:** -27.7%  
-**90d:** -25.7%  
-**1y:** -29.2%  
+**24h:** -0.7%  
+**7d:** -1.3%  
+**30d:** -27.5%  
+**90d:** -25.5%  
+**1y:** -29.0%  
 
 ---
 
@@ -79,13 +79,27 @@ Rank #1
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-8h ago
+9h ago
+
+---
+
+**[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
+
+2h ago
 
 ---
 
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-21h ago
+22h ago
+
+---
+
+**[Norwegian sovereign wealth fund increased its indirect Bitcoin exposure by 149% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r6djoe/norwegian_sovereign_wealth_fund_increased_its/)**
+
+The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
+
+🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 3h ago
 
 ---
 
@@ -93,13 +107,13 @@ Rank #1
 
 Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we saved from our 2 sons (3 and 5 years old) from Birthday presents and so one. I am thinking about putting this Money in bitcoin and leave it untouched until they are 20. I started with nearly nothing in my life. I dont want them in the Same Situation. Am I doing the Right thing as a Father ?
 
-6h ago
+7h ago
 
 ---
 
 **[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -111,11 +125,15 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 ---
 
-**[Norwegian sovereign wealth fund increased its indirect Bitcoin exposure by 149% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r6djoe/norwegian_sovereign_wealth_fund_increased_its/)**
+**[Today is a very special day!!! My 15 year old son started his Bitcoin venture 💙. I told him to stack them monthly 🤑🤑 lil Satoshis](https://www.reddit.com/r/Bitcoin/comments/1r5z5r1/today_is_a_very_special_day_my_15_year_old_son/)**
 
-The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
+15h ago
 
-🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 1h ago
+---
+
+**["I look at Bitcoin as the best savings technology that's ever existed"](https://www.reddit.com/r/Bitcoin/comments/1r6d92n/i_look_at_bitcoin_as_the_best_savings_technology/)**
+
+3h ago
 
 ---
 
@@ -123,25 +141,7 @@ The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-20h ago
-
----
-
-**[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
-
-1h ago
-
----
-
-**[Today is a very special day!!! My 15 year old son started his Bitcoin venture 💙. I told him to stack them monthly 🤑🤑 lil Satoshis](https://www.reddit.com/r/Bitcoin/comments/1r5z5r1/today_is_a_very_special_day_my_15_year_old_son/)**
-
-14h ago
-
----
-
-**["I look at Bitcoin as the best savings technology that's ever existed"](https://www.reddit.com/r/Bitcoin/comments/1r6d92n/i_look_at_bitcoin_as_the_best_savings_technology/)**
-
-2h ago
+21h ago
 
 ---
 
@@ -149,11 +149,43 @@ If you're thinking about spending some sats, usually over r/thelightningnetwork 
 
 ## Google News: "bitcoin"
 
-**[Crypto market drowns in red as bitcoin falls to $68,000, XRP, ETH slide over 5%](https://www.coindesk.com/markets/2026/02/16/crypto-market-drowns-in-red-as-bitcoin-falls-to-usd68-000)**
+**[Crypto Is a Victim of Its Own Success](https://www.theatlantic.com/ideas/2026/02/crypto-crash-bitcoin-value/685994/)**
 
-Traders are bracing for a heavy week of macroeconomic events, including Fed minutes and the core PCE inflation report.
+Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
 
-CoinDesk • 11h ago
+The Atlantic • 7h ago
+
+---
+
+**[Bitcoin’s slide may signal broader market trouble and a U.S. recession, Mike McGlone says](https://www.coindesk.com/markets/2026/02/16/bitcoin-s-slide-may-signal-broader-market-trouble-and-a-u-s-recession-mike-mcglone-says)**
+
+McGlone argues collapsing crypto and stretched equity metrics could end the “buy the dip” era, while Jason Fernandes says only a credit shock would justify a move toward $10,000.
+
+CoinDesk • 5h ago
+
+---
+
+**[TMZ Makes Plea To Man Demanding Bitcoin for Nancy Guthrie Details](https://www.yahoo.com/news/articles/tmz-makes-plea-man-demanding-181341502.html)**
+
+TMZ makes a proposition to Nancy’s alleged kidnapper. The post TMZ Makes Plea To Man Demanding Bitcoin for Nancy Guthrie Details appeared first on Reality Tea.
+
+Yahoo • 57m ago
+
+---
+
+**[Metaplanet Reports $619 Million Loss As Bitcoin Holdings Take Hit](https://bitcoinmagazine.com/news/metaplanet-reports-619-million-loss)**
+
+Tokyo-based bitcoin treasury firm Metaplanet reported a fiscal 2025 net loss of 95 billion yen ($619 million), largely due to a 102.2 billion yen ($666 million) drop in the value of its bitcoin holdings.
+
+Bitcoin Magazine • 20m ago
+
+---
+
+**[Bitcoin Bears Dominate: Failure To Break $71,800 Keeps Downside Risk Alive](https://bitcoinmagazine.com/markets/bitcoin-bears-dominate-failure-to-break-71800-keeps-downside-risk-alive)**
+
+Key levels in focus: $65,650 support holds for now, but break below opens $63,000 then Fibonacci $57,800; resistance caps upside at $71,800–$74,500.
+
+Bitcoin Magazine • 49m ago
 
 ---
 
@@ -165,55 +197,19 @@ CNBC • 1d ago
 
 ---
 
+**[Crypto market drowns in red as bitcoin falls to $68,000, XRP, ETH slide over 5%](https://www.coindesk.com/markets/2026/02/16/crypto-market-drowns-in-red-as-bitcoin-falls-to-usd68-000)**
+
+Traders are bracing for a heavy week of macroeconomic events, including Fed minutes and the core PCE inflation report.
+
+CoinDesk • 12h ago
+
+---
+
 **[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
 
 Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
 
-The Block • 8h ago
-
----
-
-**[Harvard cuts bitcoin exposure by 20%, adds new ether position](https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position)**
-
-The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
-
-CoinDesk • 3h ago
-
----
-
-**[Metaplanet posts $619 million net loss on bitcoin valuation as holdings climb to 35,102 BTC](https://www.theblock.co/post/390048/metaplanet-posts-619-million-net-loss-on-bitcoin-valuation-as-holdings-climb-to-35102-btc)**
-
-Metaplanet posted a $619 million FY2025 loss on its bitcoin valuation, while its total holdings jumped to 35,102 BTC and revenue surged.
-
-The Block • 4h ago
-
----
-
-**[Harvard Reduces Bitcoin Holdings In Q4, Picks Up Ethereum](https://bitcoinmagazine.com/news/harvard-trims-bitcoin-position)**
-
-Harvard trimmed its Bitcoin holdings by 21% in the fourth quarter while establishing its first-ever position in Ethereum.
-
-Bitcoin Magazine • 3h ago
-
----
-
-**[Bitcoin Looks for Direction After Four Straight Weekly Losses](https://www.bloomberg.com/news/articles/2026-02-16/bitcoin-looks-for-direction-after-four-straight-weekly-losses)**
-
-Bloomberg.com • 2h ago
-
----
-
-**[Crypto Is a Victim of Its Own Success](https://www.theatlantic.com/ideas/2026/02/crypto-crash-bitcoin-value/685994/)**
-
-Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
-
-The Atlantic • 6h ago
-
----
-
-**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
-
-Forbes • 2d ago
+The Block • 9h ago
 
 ---
 
@@ -222,6 +218,12 @@ Forbes • 2d ago
 Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
 Nasdaq • 2d ago
+
+---
+
+**[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
+
+Investor's Business Daily • 3d ago
 
 ---
 
@@ -315,7 +317,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 803 • 💬 59 • ⏱️ 39:54 • 2h ago
+👁️ 9K • 👍 803 • 💬 59 • ⏱️ 39:54 • 3h ago
 
 ---
 
@@ -325,7 +327,7 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 6K • 👍 139 • 💬 38 • ⏱️ 12:20 • 23h ago
+👁️ 6K • 👍 139 • 💬 38 • ⏱️ 12:20 • 1d ago
 
 ---
 
@@ -335,7 +337,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 234 • ⏱️ 11:16 • 19h ago
+👁️ 43K • 👍 2K • 💬 234 • ⏱️ 11:16 • 20h ago
 
 ---
 
@@ -345,7 +347,7 @@ Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin cr
 
 📺 Crypto Insider
 
-👁️ 6K • 👍 606 • 💬 67 • ⏱️ 18:15 • 3h ago
+👁️ 6K • 👍 606 • 💬 67 • ⏱️ 18:15 • 5h ago
 
 ---
 
@@ -355,7 +357,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 4K • 👍 192 • 💬 26 • ⏱️ 25:08 • 21h ago
+👁️ 4K • 👍 192 • 💬 26 • ⏱️ 25:08 • 23h ago
 
 ---
 
@@ -365,7 +367,7 @@ In January, we outlined a late-cycle restrictive regime and leaned cautious on r
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 3K • 💬 140 • ⏱️ 13:07 • 12h ago
+👁️ 46K • 👍 3K • 💬 140 • ⏱️ 13:07 • 13h ago
 
 ---
 
@@ -375,7 +377,7 @@ Bitcoin bottom in? Buy now says analyst. Altcoins heating up! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 8K • 👍 648 • 💬 55 • ⏱️ 17:35 • 6h ago
+👁️ 8K • 👍 648 • 💬 55 • ⏱️ 17:35 • 7h ago
 
 ---
 
@@ -385,7 +387,7 @@ Marty and Jesse Shrader, co-founder of Amboss, break down how Taproot Assets are
 
 📺 TFTC
 
-👁️ 564 • 👍 75 • 💬 6 • ⏱️ 1:05:30 • 3h ago
+👁️ 564 • 👍 75 • 💬 6 • ⏱️ 1:05:30 • 4h ago
 
 ---
 

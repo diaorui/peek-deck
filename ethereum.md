@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T18:02:57.908798+00:00'
+updated: '2026-02-16T19:10:41.040560+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 18:02 UTC  
+**Last Updated:** February 16, 2026 at 19:10 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.5%  
-**7d:** -2.5%  
-**30d:** -40.1%  
+**24h:** +1.1%  
+**7d:** -2.4%  
+**30d:** -40.0%  
 **90d:** -34.9%  
-**1y:** -28.2%  
+**1y:** -28.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fundstrat’s Tom Lee says crypto winter is either already over or will end by April, pointing to late-cycle sentiment and improving macro. He also highlighted BitMine’s strategy of weekly ETH accumulation and staking as a long-term institutional bet on Ethereum. Article: https://btcusa.com/tom-lee-crypto-winter-likely-ends-by-april-as-ethereum-strategy-expands/ Do you agree we’re near the end of this cycle correction?
 
-7h ago
+8h ago
+
+---
+
+**[[Research] Guardian: Role-Gated MPC Wallets for AI Agents](https://www.reddit.com/r/ethereum/comments/1r6g2f7/research_guardian_rolegated_mpc_wallets_for_ai/)**
+
+We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
+
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 1h ago
 
 ---
 
@@ -88,7 +96,7 @@ Fundstrat’s Tom Lee says crypto winter is either already over or will end by A
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-3h ago
+4h ago
 
 ---
 
@@ -105,14 +113,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
 1d ago
-
----
-
-**[Best way to swap ETH without using centralized exchanges?](https://www.reddit.com/r/ethereum/comments/1r5v3c6/best_way_to_swap_eth_without_using_centralized/)**
-
-Been holding ETH for a while and want to move some around or swap for other assets without going through CEXs. Most platforms these days ask for KYC, which I'd rather avoid if possible. What's the smoothest way to swap ETH directly from wallet? Looking for something non-custodial, decent rates, and not too complicated. If you've done any swaps recently, what actually worked well for you?
-
-17h ago
 
 ---
 
@@ -150,27 +150,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
+**[Ethereum Price Stuck Near $2,000 as Holder Exodus Slows Recovery](https://finance.yahoo.com/news/ethereum-price-stuck-near-2-180000786.html)**
 
-Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
-
-Decrypt • 2d ago
-
----
-
-**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://finance.yahoo.com/news/harvard-cuts-bitcoin-etf-stake-163102804.html)**
-
-Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
+Ethereum hovers near $2,000 as SOPR signals loss saturation, but falling new address growth and weak inflows continue capping recovery.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Harvard Reduces Bitcoin Holdings In Q4, Picks Up Ethereum](https://bitcoinmagazine.com/news/harvard-trims-bitcoin-position)**
+**[Harvard cuts bitcoin exposure by 20%, adds new ether position](https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position)**
 
-Harvard trimmed its Bitcoin holdings by 21% in the fourth quarter while establishing its first-ever position in Ethereum.
+The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
 
-Bitcoin Magazine • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -182,11 +174,19 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+**[Has Bitcoin and Ethereum Reached Price Bottom? Tom Lee Claims Crypto Winter Is “Close To Ending”](https://www.ccn.com/news/crypto/tom-lee-calls-bitcoin-and-ethereum-bottom-claims-crypto-winter/)**
 
-Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
+Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
 
-CoinDesk • 3d ago
+CCN.com • 8h ago
+
+---
+
+**[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
+
+Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
+
+Decrypt • 2d ago
 
 ---
 
@@ -208,7 +208,7 @@ BeInCrypto • 1d ago
 
 Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
 
-Crypto Briefing • 18h ago
+Crypto Briefing • 19h ago
 
 ---
 
@@ -220,11 +220,11 @@ The Motley Fool • 2d ago
 
 ---
 
-**[Tom Lee Calls Bitcoin and Ethereum Price Bottom, Claims Crypto Winter Is 'Close To Ending' as Wall Street Backs Bitmine](https://finance.yahoo.com/news/tom-lee-calls-bitcoin-ethereum-105715079.html)**
+**[$1T XRP trades on Upbit – Are Korean traders ignoring Bitcoin, Ethereum?](https://ambcrypto.com/1t-xrp-trades-on-upbit-are-korean-traders-ignoring-bitcoin-ethereum/)**
 
-Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
+XRP’s spot strength outpaces derivatives participation, reflecting Korea’s cash-market dominance in crypto sentiment flows.
 
-Yahoo Finance • 7h ago
+AMBCrypto • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 144 • 💬 7 • ⏱️ 6:56 • 4h ago
+👁️ 1K • 👍 144 • 💬 7 • ⏱️ 6:56 • 5h ago
 
 ---
 
@@ -258,7 +258,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 5K • 👍 231 • 💬 40 • ⏱️ 17:52 • 20h ago
+👁️ 5K • 👍 231 • 💬 40 • ⏱️ 17:52 • 21h ago
 
 ---
 
@@ -268,7 +268,7 @@ Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn h
 
 📺 World Liberty Financial
 
-👁️ 2K • 👍 129 • 💬 7 • ⏱️ 2:13 • 3h ago
+👁️ 2K • 👍 129 • 💬 7 • ⏱️ 2:13 • 4h ago
 
 ---
 
@@ -288,7 +288,7 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 99 • 👍 24 • 💬 3 • ⏱️ 59:47 • 1h ago
+👁️ 99 • 👍 24 • 💬 3 • ⏱️ 59:47 • 2h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 7K • 👍 250 • 💬 35 • ⏱️ 17:15 • 15h ago
+👁️ 7K • 👍 250 • 💬 35 • ⏱️ 17:15 • 16h ago
 
 ---
 
@@ -308,7 +308,7 @@ As far as every single analyst and CEO has said.. all signs seem to be pointing 
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 591 • 💬 43 • ⏱️ 30:43 • 8h ago
+👁️ 4K • 👍 591 • 💬 43 • ⏱️ 30:43 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ What happens when a blockchain splits? This video explains soft and hard forks, 
 
 📺 CoinGecko
 
-👁️ 831 • 👍 90 • 💬 13 • ⏱️ 4:01 • 6h ago
+👁️ 831 • 👍 90 • 💬 13 • ⏱️ 4:01 • 8h ago
 
 ---
 
@@ -328,7 +328,7 @@ Accès 100% GRATUIT : Nos Algos + Mentorship + VIP (disponible dans quelques jou
 
 📺 Crypto Le Trone
 
-👁️ 2K • 👍 371 • 💬 19 • ⏱️ 10:11 • 3h ago
+👁️ 2K • 👍 371 • 💬 19 • ⏱️ 10:11 • 4h ago
 
 ---
 
