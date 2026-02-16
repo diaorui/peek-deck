@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-15T23:52:59.279754+00:00'
+updated: '2026-02-16T02:22:11.787744+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 23:52 UTC  
+**Last Updated:** February 16, 2026 at 02:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,969.32
+### $68,480.85
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -1.7%  
-**30d:** -27.5%  
-**90d:** -25.8%  
-**1y:** -28.3%  
+**24h:** -2.1%  
+**7d:** -0.6%  
+**30d:** -27.0%  
+**90d:** -25.0%  
+**1y:** -28.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1379.19B
+**Market Cap:** $1369.39B
 Rank #1
 
-**Circulating Supply:** 19,989,971 BTC
+**Circulating Supply:** 19,990,050 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.3%
+-45.7%
 
 **All-Time Low:** $67.81
-+101547.2%
++100824.6%
 
 ---
 
@@ -77,13 +77,13 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
+**[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-9h ago
+5h ago
 
 ---
 
-**[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
+**[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
 11h ago
 
@@ -93,21 +93,13 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-11h ago
+13h ago
 
 ---
 
-**[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
+**[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-2h ago
-
----
-
-**[Bought some parts for my bike with BTC](https://www.reddit.com/r/Bitcoin/comments/1r5mldg/bought_some_parts_for_my_bike_with_btc/)**
-
-Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
-
-5h ago
+13h ago
 
 ---
 
@@ -115,7 +107,23 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-2h ago
+4h ago
+
+---
+
+**[Bought some parts for my bike with BTC](https://www.reddit.com/r/Bitcoin/comments/1r5mldg/bought_some_parts_for_my_bike_with_btc/)**
+
+Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
+
+7h ago
+
+---
+
+**[A love note to absurdity and probability: I'm mining at 1 hash/minute](https://www.reddit.com/r/Bitcoin/comments/1r5rkh5/a_love_note_to_absurdity_and_probability_im/)**
+
+A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the quest in real-time.
+
+🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 4h ago
 
 ---
 
@@ -123,7 +131,7 @@ If you're thinking about spending some sats, usually over r/thelightningnetwork 
 
 I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actually instrumental in shaping my early interest in Bitcoin. I appreciated the thoughtful guests, organic conversations, and what felt like a politically neutral commitment to information. Also, I loved that she was a woman contributing in a male dominated space. However, as I’ve begun following her on other platforms, I’ve found myself increasingly surprised, and frankly disappointed, by the content she chooses to amplify. Given her journalistic background, the recirculation of easily debunked claims and politically loaded narratives feels at odds with the credibility she originally built. At a certain point, the casual sharing of baseless memes and tweets, and unverified claims begins to undermine the very authority that made her platform compelling in the first place. I’d love to know what outlets, podcasts, or writers people trust today for nuanced, intellectually honest Bitcoin coverage?
 
-6h ago
+8h ago
 
 ---
 
@@ -131,23 +139,15 @@ I’ve followed Natalie Brunell’s work for 1.5 years, and her podcast was actu
 
 ... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
 
-17h ago
+19h ago
 
 ---
 
-**[A HUGE number of people are waiting for 30k-50k to buy](https://www.reddit.com/r/Bitcoin/comments/1r4txht/a_huge_number_of_people_are_waiting_for_30k50k_to/)**
+**[Anyone willing to spend btc on food?](https://www.reddit.com/r/Bitcoin/comments/1r5w6ks/anyone_willing_to_spend_btc_on_food/)**
 
-It would be a shame if 60K was the floor and now the price rises, leaving all those people stuck watching it climb 😏 It's the same in every cycle, many people stay out of it because they want to buy at the lowest possible price. Let's see what happens this time
+I working on this app to show where you can spend your btc when it comes to food in the South East Asia. Primarily in Indonesia Malaysia Philippine Thailand and Singapore first. I am thinking of adding more value to it for other services. Any suggestions?
 
-1d ago
-
----
-
-**[You are not Broke, Money is Broken and bitcoin fixes this](https://www.reddit.com/r/Bitcoin/comments/1r4w429/you_are_not_broke_money_is_broken_and_bitcoin/)**
-
-1980: $22 Million Dollars A DAY get destroyed 2026: The Federal Reserve destroys approximately $540 million to over $600 million in old, damaged, or "unfit" U.S. currency every day. This adds up to roughly $200 billion annually.
-
-1d ago
+52m ago
 
 ---
 
@@ -159,13 +159,19 @@ It would be a shame if 60K was the floor and now the price rises, leaving all th
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 8h ago
+CNBC • 11h ago
 
 ---
 
-**[U.S. Treasury Secretary Issues ‘Very Important’ Crypto Prediction As The Bitcoin Price Suddenly Soars](https://www.forbes.com/sites/digital-assets/2026/02/14/us-treasury-secretary-issues-very-important-crypto-prediction-as-the-bitcoin-price-suddenly-soars/)**
+**[It’s ‘Inevitable’—Elon Musk Suddenly Confirms Massive ‘Game-Changer’ As X Reveals Bitcoin And Crypto Price Updates](https://www.forbes.com/sites/digital-assets/2026/02/15/its-inevitable-elon-musk-is-quietly-fueling-2027-bitcoin-and-crypto-speculation-amid-the-price-crash/)**
 
-Forbes • 1d ago
+Forbes • 15h ago
+
+---
+
+**[Bitcoin Is Compressing The Breakout Move Will Be Violent](https://www.binance.com/el/square/post/292072869364305)**
+
+Binance • 2h ago
 
 ---
 
@@ -173,7 +179,7 @@ Forbes • 1d ago
 
 Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
 
-BBC • 21h ago
+BBC • 1d ago
 
 ---
 
@@ -193,17 +199,17 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfW1hNmZsBHuCoD85S0FzN54-rukK_a5ZX3mupAkMCZVxL0QWGFIIBn&gaa_ts=69925a0b&gaa_sig=s6r191SBhqERn0w0k_7gjtIuBm691kl_gFLRZMRMQ1P9BaJ4hRYswZdmhviNXfS7Snx_WkxvthMPW5fPaG0EBw%3D%3D)**
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqfGesFJawBKfuFu-tiyLPxFkMoOeuMSu8UPm0eDFFCq4VpwvUXudDRm&gaa_ts=699282bc&gaa_sig=z5ECpO6raqij1-GTP0PcvHhlBDG2qnYNkIZi_S-BazDFdMgwyWVB9sCOWop6E70fCEAYuEFUVkFJHOstOU90pg%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Ripple news: XRP investors likely bought the dip after the recent crash](https://www.coindesk.com/markets/2026/02/15/xrp-is-outrunning-bitcoin-and-ether-after-investors-piled-into-the-recent-crash)**
+**[BlackRock's head of digital assets warns leverage-driven volatility risks undermine b itcoin’s institutional narrative](https://www.coindesk.com/markets/2026/02/13/blackrock-s-head-of-digital-assets-warns-leverage-driven-volatility-risks-undermine-bitcoin-s-institutional-narrative)**
 
-XRP is outperforming bitcoin and ether following signs of dip buying during recent crash.
+Rampant speculation on crypto derivatives platforms is fueling volatility and risking bitcoin’s image as a stable hedge, says BlackRock’s digital assets chief.
 
-CoinDesk • 9h ago
+CoinDesk • 2d ago
 
 ---
 
@@ -211,15 +217,7 @@ CoinDesk • 9h ago
 
 The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
 
-MLive.com • 15h ago
-
----
-
-**[France is a capital of bitcoin kidnapping: ‘They cut off his finger’](https://www.thetimes.com/world/europe/article/bitcoin-cryptocurrency-wrenching-ransom-france-0872x6xj8?gaa_at=eafs&gaa_n=AWEtsqdy5EPOcdQmreqws5_aIID-jaTCq8pIwko6T9LpJyzl9D_yetQ_pbqU&gaa_ts=69925a0b&gaa_sig=aMi5F96ovM4X_TIQUxc69TYF9IFTA3CTsFbnleePLIe-L4q-2WKoH7EWoOb3cJwJrzG2-OYvvbw3FD8-1C2T7A%3D%3D)**
-
-Small-time criminals are abducting the relatives of wealthy traders and demanding seven-figure ransoms — but why is it so common here?
-
-The Times • 1d ago
+MLive.com • 18h ago
 
 ---
 
@@ -241,6 +239,14 @@ Mashable • 1d ago
 
 ---
 
+**[£189,486,935,770 in Bitcoin. Lost Forever](https://news.ycombinator.com/item?id=47018882)**
+
+Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
+
+⬆️ 3 • 💬 5 • 1d ago • [BTC Graveyard](https://btcgraveyard.com/)
+
+---
+
 **[Bitcoin and post-quantum crypto (BIP-341 Taproot and ML-DSA/Falcon, 136 tests)](https://news.ycombinator.com/item?id=46969996)**
 
 Hybrid Post-Quantum Bitcoin Wallet — ML-DSA + Falcon signatures on BIP-341 Taproot PSBTs. 136/136 tests passing. No soft fork required. - emilianosolazzi/PQ-PSBT-WALLET
@@ -254,14 +260,6 @@ Hybrid Post-Quantum Bitcoin Wallet — ML-DSA + Falcon signatures on BIP-341 Tap
 The move triggered a sharp selloff on the Bithumb exchange. The company apologized for the mistake.
 
 ⬆️ 3 • 💬 0 • 6d ago • [CNBC](https://www.cnbc.com/2026/02/07/south-korean-crypto-firm-accidentally-sends-out-44-billion-in-bitcoin.html)
-
----
-
-**[£189,486,935,770 in Bitcoin. Lost Forever](https://news.ycombinator.com/item?id=47018882)**
-
-Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
-
-⬆️ 2 • 💬 4 • 1d ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -315,13 +313,33 @@ Reverse-engineer how creative works operate—and what they train in audiences.
 
 ## YouTube Videos: "bitcoin"
 
-**[The Dollar Is DYING But Bitcoin Isn&#39;t Rallying - Here&#39;s The Scary Reason Why](https://www.youtube.com/watch?v=2PMVBDU64_Y)**
+**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
 
-The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC no longer inversely correlated with the DXY?
+Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
 
-📺 Coin Bureau
+📺 Altcoin Daily
 
-👁️ 30K • 👍 1K • 💬 205 • ⏱️ 12:55 • 11h ago
+👁️ 13K • 👍 1K • 💬 72 • ⏱️ 11:16 • 3h ago
+
+---
+
+**[&quot;This Bitcoin Crash Is WORSE Than Anyone Realizes&quot; - Cathie Wood](https://www.youtube.com/watch?v=sTXwt1wbMQU)**
+
+Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. The ARK Invest CEO — who just bought $72 ...
+
+📺 Money Talks
+
+👁️ 3K • 👍 102 • 💬 10 • ⏱️ 12:20 • 7h ago
+
+---
+
+**[BITCOIN: IT&#39;S A TRAP!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=1-UoOIL4i_o)**
+
+My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
+
+📺 Road To $1 Million USD
+
+👁️ 2K • 👍 207 • 💬 17 • ⏱️ 7:20 • 3h ago
 
 ---
 
@@ -331,7 +349,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 956 • 💬 465 • ⏱️ 30:55 • 9h ago
+👁️ 29K • 👍 1K • 💬 464 • ⏱️ 30:55 • 12h ago
 
 ---
 
@@ -341,45 +359,17 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 9K • 👍 415 • 💬 66 • ⏱️ 7:14 • 7h ago
+👁️ 13K • 👍 484 • 💬 63 • ⏱️ 7:14 • 10h ago
 
 ---
 
-**[BITCOIN: Something Feels Very Wrong! (red alert) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=_3kz83on4cw)**
+**[The Dollar Is DYING But Bitcoin Isn&#39;t Rallying - Here&#39;s The Scary Reason Why](https://www.youtube.com/watch?v=2PMVBDU64_Y)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC no longer inversely correlated with the DXY?
 
-📺 BitcoinHyper
+📺 Coin Bureau
 
-👁️ 5K • 👍 395 • 💬 6 • ⏱️ 59:23 • 2h ago
-
----
-
-**[Tom Lee Finally Breaks His Silence On The Bitcoin Crash — &quot;This Changes Everything&quot;](https://www.youtube.com/watch?v=Ve9X-oU48II)**
-
-Tom Lee, Fundstrat's Head of Research, finally breaks his silence on the Bitcoin crash. After weeks of silence while Bitcoin ...
-
-📺 Money Talks
-
-👁️ 4K • 👍 83 • 💬 14 • ⏱️ 11:16 • 1d ago
-
----
-
-**[Brace Up for a WILD RIDE! Bitcoin&#39;s About to SHOCK Everyone - Cathie Wood &amp; Lyn Alden](https://www.youtube.com/watch?v=nk4B1tnobQE)**
-
-We are in one of the most important moments in Bitcoin's history. The headlines are confused. The volatility is loud. But the signal ...
-
-📺 Savvy Finance
-
-👁️ 6K • 👍 231 • 💬 8 • ⏱️ 17:15 • 1d ago
-
----
-
-**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
-
-📺 Pawn Media
-
-👁️ 181K • 👍 5K • 💬 41 • ⏱️ 0:59 • 2d ago
+👁️ 36K • 👍 1K • 💬 223 • ⏱️ 12:55 • 13h ago
 
 ---
 
@@ -389,17 +379,15 @@ The release of Jeffrey Epstein-related records has reignited debate around Bitco
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 221 • 💬 14 • ⏱️ 20:41 • 1d ago
+👁️ 4K • 👍 233 • 💬 15 • ⏱️ 20:41 • 1d ago
 
 ---
 
-**[Bitcoin Miners Are Abandoning BTC... And No One Is Talking About Why](https://www.youtube.com/watch?v=cQj0D74gT_Y)**
+**[Real Physical Bitcoin 🤯💰](https://www.youtube.com/watch?v=fqlf42-aIeo)**
 
-Recently Bitcoin crashed to $60000, below key support levels set by the previous cycle. This has put BTC's price in the danger ...
+📺 Pawn Media
 
-📺 Coin Bureau
-
-👁️ 84K • 👍 3K • 💬 444 • ⏱️ 19:46 • 1d ago
+👁️ 229K • 👍 6K • 💬 48 • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -409,7 +397,17 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 
 📺 Anthony Pompliano
 
-👁️ 45K • 👍 2K • ⏱️ 21:49 • 2d ago
+👁️ 47K • 👍 2K • ⏱️ 21:49 • 2d ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=kHTVbt9SCng)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Bayus jaya HVACR
+
+👁️ 39K • 👍 3K • 2d ago
 
 ---
 

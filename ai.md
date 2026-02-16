@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-15T23:52:59.271313+00:00'
+updated: '2026-02-16T02:22:11.780271+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 15, 2026 at 23:52 UTC  
+**Last Updated:** February 16, 2026 at 02:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -36,6 +36,14 @@ AI news, discussions, and developments
 ---
 
 ## Reddit: r/artificial
+
+**[Looking for early testers for my competitive analysis tool (Claude needed currently)](https://www.reddit.com/r/artificial/comments/1r5vyxv/looking_for_early_testers_for_my_competitive/)**
+
+I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
+
+1h ago
+
+---
 
 **[Microsoft AI chief gives it 18 months for all white-collar work to be automated by AI](https://www.reddit.com/r/artificial/comments/1r4oc2i/microsoft_ai_chief_gives_it_18_months_for_all/)**
 
@@ -57,15 +65,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-11h ago
-
----
-
-**[Why Nonprofits Can’t Afford to Ignore AI](https://www.reddit.com/r/artificial/comments/1r5rqo1/why_nonprofits_cant_afford_to_ignore_ai/)**
-
-If you work in the nonprofit sector and have been wondering how AI could fit into your organization, Why Nonprofits Must Lead in AI is a must-read. Written by a 25-year nonprofit leader and accessibility specialist, this book goes beyond the hype to explore both the risks and opportunities AI presents for mission-driven organizations. Through real-world stories and practical guidance, it shows how nonprofits can integrate AI without losing the human touch. From workflow agents and staff onboarding prompts to a full AI readiness assessment, it provides actionable tools that any team, whether CEO, program director, fundraiser, or operations coordinator, can use to amplify their impact. This book deserves to be #1 in Business Ethics (Kindle Store), Business Leadership Training, and Leadership Training because it combines ethical clarity with actionable guidance. It doesn’t just explain AI adoption, it shows leaders how to implement it responsibly, strategically, and effectively. By helping nonprofits expand reach, improve operations, and strengthen mission outcomes while maintaining trust, transparency, and human-centered leadership, it sets a new standard for how organizations can use technology as a force for good. For anyone looking to navigate AI in the nonprofit world, this book isn’t just a roadmap, it’s a blueprint for leading boldly and ethically in the AI era. https://www.amazon.com/dp/B0FM31JF2Z/ref=sr_1_1?crid=5PA0JZIGCKMG&dib=eyJ2IjoiMSJ9.AFy7Vx2MfL_yyk_7yceYCA.oXglNK0FtlWvPmb19SRyg49ncQa6s1cxw-52SjXieos&dib_tag=se&keywords=teri+padovano&qid=1755063815&sprefix=teri+padovano%2Caps%2C77&sr=8-1
-
-1h ago
+14h ago
 
 ---
 
@@ -73,7 +73,7 @@ If you work in the nonprofit sector and have been wondering how AI could fit int
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
 
-15h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-co
 
 Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
 
-13h ago
+16h ago
 
 ---
 
@@ -105,7 +105,7 @@ Everyone’s screaming that “AI coding is going to replace human developers”
 
 I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
 
-12h ago
+14h ago
 
 ---
 
@@ -125,49 +125,49 @@ It does not happen very often in the history of business that an orthogonal prod
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 5h ago
+The Washington Post • 8h ago
 
 ---
 
-**[Exclusive: Pentagon threatens to cut off Anthropic in AI safeguards dispute](https://www.axios.com/2026/02/15/claude-pentagon-anthropic-contract-maduro)**
+**[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
 
-Axios • 9h ago
-
----
-
-**[US military used Anthropic’s AI model Claude in Venezuela raid, report says](https://www.theguardian.com/technology/2026/feb/14/us-military-anthropic-ai-model-claude-venezuela-raid)**
-
-Wall Street Journal says Claude used in operation via Anthropic’s partnership with Palantir Technologies
-
-The Guardian • 1d ago
+Bloomberg.com • 12h ago
 
 ---
 
-**[Opinion | Anthropic’s Chief on A.I.: ‘We Don’t Know if the Models Are Conscious’](https://www.nytimes.com/2026/02/12/opinion/artificial-intelligence-anthropic-amodei.html)**
+**[Prediction: This AI Stock Will Recover Faster Than Microsoft After the Sell-Off](https://finance.yahoo.com/news/prediction-ai-stock-recover-faster-170500817.html)**
 
-The New York Times • 3d ago
+Most investors are overlooking a critical detail about the way this semiconductor company's business works.
+
+Yahoo Finance • 9h ago
 
 ---
 
-**[Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis](https://www.bloomberg.com/news/articles/2026-02-15/rampant-ai-demand-for-memory-is-fueling-a-growing-chip-crisis)**
+**[The AI trade has entered a puzzling phase. Do we know who the winners are anymore?](https://www.cnbc.com/2026/02/15/jim-cramer-weighs-in-on-the-anthropic-fueled-software-stock-sell-off-.html)**
+
+In his Sunday column for Investing Club subscribers, Jim Cramer explores the software sell-off and Anthropic's influence on the stock market.
+
+CNBC • 8h ago
+
+---
+
+**[Blackstone to Lead $600 Million Investment in AI Firm Neysa](https://www.bloomberg.com/news/articles/2026-02-16/blackstone-to-lead-600-million-investment-in-ai-firm-neysa)**
 
 Bloomberg.com • 1h ago
 
 ---
 
-**[Huang and Pichai among tech CEOs heading to India for major AI summit in a key market](https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html)**
+**[As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck](https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/)**
 
-India has a market of young, tech-forward consumers and a huge pool of talent which could be key to continued development of AI.
+C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.
 
-CNBC • 37m ago
+TechCrunch • 1h ago
 
 ---
 
-**[Makers of AI chatbots that put children at risk face big fines or UK ban](https://www.theguardian.com/technology/2026/feb/15/ai-chatbots-children-risk-fines-uk-ban)**
+**[New Non-Volatile Memories Aren’t Just For Artificial Intelligence](https://www.forbes.com/sites/tomcoughlin/2026/02/15/new-non-volatile-memories-arent-just-for-artificial-intelligence/)**
 
-Starmer to announce ‘crackdown on vile illegal content created by AI’ after scandal involving Elon Musk’s Grok tool
-
-The Guardian • 1h ago
+Forbes • 16m ago
 
 ---
 
@@ -175,7 +175,13 @@ The Guardian • 1h ago
 
 "There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum," Obama said in an interview that was posted on YouTube Saturday.
 
-NPR • 5h ago
+NPR • 7h ago
+
+---
+
+**[How A.I. Salaries Are Causing Couples to Rethink Money in Relationships](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -183,15 +189,7 @@ NPR • 5h ago
 
 An ex-Amazon manager says his layoff in October 2025 was a shock, but he's using this time to build AI skills, focus on his health, and apply to jobs.
 
-Business Insider • 14h ago
-
----
-
-**[AI robots built for companionship ignite debate on relationships](https://www.foxnews.com/video/6389311450112)**
-
-'The Big Weekend Show' panel discusses the impact of artificial intelligence on human connection as one survey indicates 20% of teens are in a relationship with AI.
-
-Fox News • 5h ago
+Business Insider • 16h ago
 
 ---
 
@@ -201,7 +199,7 @@ Fox News • 5h ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 725 • 💬 603 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 732 • 💬 606 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -209,7 +207,7 @@ Fox News • 5h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 544 • 💬 355 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 550 • 💬 359 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -217,7 +215,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 361 • 💬 252 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 363 • 💬 253 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -225,7 +223,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 343 • 💬 545 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 344 • 💬 550 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -239,7 +237,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 241 • 💬 125 • 2d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 242 • 💬 125 • 2d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -247,7 +245,15 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 115 • 💬 60 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 117 • 💬 61 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+
+---
+
+**[AI is going to kill app subscriptions](https://news.ycombinator.com/item?id=47024387)**
+
+Curated niche app opportunities from Reddit, scored by difficulty and demand.
+
+⬆️ 95 • 💬 173 • 11h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -256,14 +262,6 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
 
 ⬆️ 86 • 💬 57 • 2d ago • [bbc.com](https://www.bbc.com/news/articles/c62dlvdq3e3o)
-
----
-
-**[AI is going to kill app subscriptions](https://news.ycombinator.com/item?id=47024387)**
-
-Curated niche app opportunities from Reddit, scored by difficulty and demand.
-
-⬆️ 81 • 💬 163 • 8h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -277,63 +275,13 @@ Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
 ## YouTube Videos: "ai"
 
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
-
-Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
-
-📺 Fox Business Clips
-
-👁️ 354K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
-
----
-
-**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
-
-An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
-
-📺 CBS LA
-
-👁️ 79K • 👍 818 • 💬 411 • ⏱️ 3:04 • 1d ago
-
----
-
-**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
-
-Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
-
-📺 Asmongold TV  
-
-👁️ 592K • 👍 20K • 💬 4K • ⏱️ 20:40 • 2d ago
-
----
-
 **[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
 
 New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
 
 📺 ABC News
 
-👁️ 137K • 👍 2K • 💬 763 • ⏱️ 3:58 • 2d ago
-
----
-
-**[Bruce Lee VS Jackie Chan | Full AI animation](https://www.youtube.com/watch?v=O31jAeTHAxc)**
-
-Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce Lee in the ultimate showdown for martial ...
-
-📺 ShadowRivals
-
-👁️ 43K • 👍 877 • 💬 101 • ⏱️ 2:02 • 2d ago
-
----
-
-**[The Smartest AI Just Dropped — And It Changes How You Work Forever](https://www.youtube.com/watch?v=ErIeuwqmWtQ)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 15K • 👍 751 • 💬 69 • ⏱️ 7:05 • 1d ago
+👁️ 148K • 👍 2K • 💬 840 • ⏱️ 3:58 • 2d ago
 
 ---
 
@@ -343,37 +291,87 @@ If you've been on social media this week, you've likely seen an ominous warning 
 
 📺 CBS News
 
-👁️ 66K • 👍 1K • 💬 445 • ⏱️ 7:08 • 1d ago
+👁️ 70K • 👍 1K • 💬 461 • ⏱️ 7:08 • 2d ago
 
 ---
 
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
+**[We&#39;re Not Ready for What AI Is About to Do to the Economy](https://www.youtube.com/watch?v=2rldvywEU8o)**
 
-news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
+Channel members can watch the full video: https://www.youtube.com/@samharrisorg/membership SUBSCRIBE to gain access to ...
 
-📺 Tyrone Magnus
+📺 Sam Harris
 
-👁️ 5K • 👍 457 • 💬 120 • ⏱️ 9:43 • 1h ago
-
----
-
-**[This Hidden AI YouTube Niche Makes $500,000/Year](https://www.youtube.com/watch?v=FMsdH9UyI6Y)**
-
-Create AI videos with Higgsfield: https://higgsfield.ai/nano-banana-2-intro/?utm_source=DannyWhy Join My Private ...
-
-📺 Danny Why
-
-👁️ 17K • 👍 928 • 💬 108 • ⏱️ 20:50 • 1d ago
+👁️ 201K • 👍 4K • 💬 2K • ⏱️ 9:12 • 2d ago
 
 ---
 
-**[Why This NYC CEO&#39;s Chilling Warning On AI Has Gone Viral: &#39;People Deserve To Hear What&#39;s Coming&#39;](https://www.youtube.com/watch?v=gguvQKah37o)**
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine](https://www.youtube.com/watch?v=EllgAYj0E2w)**
 
-Matt Schumer is a New York based CEO who's been working with and investing in a bunch of AI firms - and one warning from him ...
+Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid robots for military use and in the auto sector on ...
 
-📺 Mint
+📺 Fox Business Clips
 
-👁️ 88K • 👍 1K • 💬 287 • ⏱️ 8:19 • 2d ago
+👁️ 370K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
+
+---
+
+**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
+
+Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
+
+📺 Asmongold TV  
+
+👁️ 596K • 👍 20K • 💬 4K • ⏱️ 20:40 • 2d ago
+
+---
+
+**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
+
+An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
+
+📺 CBS LA
+
+👁️ 85K • 👍 885 • 💬 432 • ⏱️ 3:04 • 1d ago
+
+---
+
+**[DeepMind Leaked Possibly the Greatest AI Ever](https://www.youtube.com/watch?v=OTRvoxPSQ_8)**
+
+Sponsored by Genspark. Try the all-in-one AI workplace for free: ...
+
+📺 Pourya Kordi
+
+👁️ 31K • 👍 1K • 💬 99 • ⏱️ 13:42 • 2d ago
+
+---
+
+**[It&#39;s (Finally) Bursting...](https://www.youtube.com/watch?v=yYe9YrdyJNQ)**
+
+Check out Cape and use code LOGICALLY33 to get 33% off your first six months ...
+
+📺 Logically Answered
+
+👁️ 723K • 👍 23K • 💬 4K • ⏱️ 14:39 • 2d ago
+
+---
+
+**[Our Economy Is In BIG TROUBLE Thanks To AI](https://www.youtube.com/watch?v=zfx4zH_EGqs)**
+
+Corporate layoffs are on an upward trajectory thanks to AI. Ana Kasparian discusses on The Young Turks. Do you agree with ...
+
+📺 The Young Turks
+
+👁️ 20K • 👍 1K • 💬 308 • ⏱️ 5:39 • 5h ago
+
+---
+
+**[AI News: This Video Model Has Everyone Freaked Out!](https://www.youtube.com/watch?v=msrbd-d6lWk)**
+
+Here's the AI News You Probably Missed This Week. Check out https://hostinger.com/mattwolfe and use my code MATTWOLFE to ...
+
+📺 Matt Wolfe
+
+👁️ 88K • 👍 4K • 💬 303 • ⏱️ 30:53 • 2d ago
 
 ---
 
@@ -389,7 +387,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 128,078 • ❤️ 1,198 • 2d ago
+⬇️ 128,078 • ❤️ 1,199 • 2d ago
 
 ---
 
@@ -401,7 +399,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 11,092 • ❤️ 604 • 1d ago
+⬇️ 11,092 • ❤️ 608 • 1d ago
 
 ---
 
@@ -413,7 +411,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 2,986 • ❤️ 442 • 4d ago
+⬇️ 2,986 • ❤️ 443 • 4d ago
 
 ---
 
@@ -425,7 +423,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 11,129 • ❤️ 417 • 2d ago
+⬇️ 11,129 • ❤️ 420 • 2d ago
 
 ---
 
@@ -437,7 +435,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 756,817 • ❤️ 2,185 • 10d ago
+⬇️ 756,817 • ❤️ 2,186 • 10d ago
 
 ---
 
@@ -449,7 +447,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 855,997 • ❤️ 1,046 • 6d ago
+⬇️ 855,997 • ❤️ 1,047 • 6d ago
 
 ---
 
@@ -461,7 +459,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 270,983 • ❤️ 868 • 12d ago
+⬇️ 270,983 • ❤️ 869 • 12d ago
 
 ---
 
@@ -473,7 +471,7 @@ MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and 
 
 `any-to-any` `9.4B`
 
-⬇️ 45,216 • ❤️ 845 • 2d ago
+⬇️ 45,216 • ❤️ 847 • 2d ago
 
 ---
 
@@ -485,7 +483,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,303 • ❤️ 209 • 3d ago
+⬇️ 6,303 • ❤️ 210 • 3d ago
 
 ---
 
@@ -497,7 +495,7 @@ MOSS-TTS is a family of high-fidelity, expressive speech and sound generation mo
 
 `text-to-speech` `8.5B`
 
-⬇️ 5,784 • ❤️ 190 • 2d ago
+⬇️ 5,784 • ❤️ 191 • 2d ago
 
 ---
 
@@ -511,7 +509,7 @@ MOSS-TTS is a family of high-fidelity, expressive speech and sound generation mo
 
 Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
 
-▲ 9 • 💬 1 • ⭐ 3,784 • 5mo ago
+▲ 10 • 💬 1 • ⭐ 3,784 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
@@ -537,7 +535,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 62 • 💬 6 • ⭐ 13,342 • 4mo ago
+▲ 62 • 💬 6 • ⭐ 13,376 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -631,7 +629,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 SceneSmith is a hierarchical agentic framework that generates simulation-ready indoor environments from natural language prompts through multiple stages involving VLM agents and integrated asset generation techniques.
 
-▲ 4 • 💬 2 • ⭐ 205 • 6d ago
+▲ 5 • 💬 2 • ⭐ 205 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.09153) • [💻 code](https://github.com/nepfaff/scenesmith) • [🔗 project](https://scenesmith.github.io/)
 
@@ -645,7 +643,7 @@ SceneSmith is a hierarchical agentic framework that generates simulation-ready i
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.8k • 🔱 449 • 4d ago
+⭐ 5.9k • 🔱 449 • 4d ago
 
 ---
 
@@ -671,7 +669,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
 
-⭐ 3.0k • 🔱 281 • 27d ago
+⭐ 3.0k • 🔱 282 • 27d ago
 
 ---
 
@@ -681,7 +679,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 256 • 1h ago
+⭐ 2.5k • 🔱 257 • 8m ago
 
 ---
 
@@ -701,7 +699,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 155 • 3h ago
+⭐ 2.2k • 🔱 155 • 5h ago
 
 ---
 
@@ -711,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 146 • 5h ago
+⭐ 2.1k • 🔱 146 • 1h ago
 
 ---
 
@@ -721,7 +719,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 243 • 6h ago
+⭐ 1.9k • 🔱 247 • 8h ago
 
 ---
 

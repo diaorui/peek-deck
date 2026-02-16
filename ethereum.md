@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-15T23:52:59.285726+00:00'
+updated: '2026-02-16T02:22:11.792917+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 15, 2026 at 23:52 UTC  
+**Last Updated:** February 16, 2026 at 02:22 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,966.89
+### $1,975.22
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.9%  
-**7d:** -7.0%  
-**30d:** -40.9%  
-**90d:** -37.4%  
-**1y:** -26.4%  
+**24h:** -4.6%  
+**7d:** -2.8%  
+**30d:** -40.2%  
+**90d:** -35.1%  
+**1y:** -28.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $237.80B
+**Market Cap:** $236.78B
 Rank #2
 
-**Circulating Supply:** 120,692,458 ETH
+**Circulating Supply:** 120,692,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.2%
+-60.4%
 
 **All-Time Low:** $0.43
-+454739.6%
++452400.0%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-11h ago
+13h ago
 
 ---
 
@@ -92,17 +92,17 @@ Posted by Jacob Czepluch on February 10, 2026
 
 ---
 
-**[Daily General Discussion February 14, 2026](https://www.reddit.com/r/ethereum/comments/1r4cvrr/daily_general_discussion_february_14_2026/)**
+**[A better path forward for prediction markets: PMs + LLMs as a next-gen replacement for fiat currency](https://www.reddit.com/r/ethereum/comments/1r4k0gy/a_better_path_forward_for_prediction_markets_pms/)**
 
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+Recently I have been starting to worry about the state of prediction markets, in their current form. They have achieved a certain level of success: market volume is high enough to make meaningful bets and have a full-time job as a trader, and they often prove useful as a supplement to other forms of news media. But also, they seem to be over-converging to an unhealthy product market fit: embracing short-term cryptocurrency price bets, sports betting, and other similar things that have dopamine value but not any kind of long-term fulfillment or societal information value. My guess is that teams feel motivated to capitulate to these things because they bring in large revenue during a bear market where people are desperate - an understandable motive, but one that leads to corposlop. I have been thinking about how we can help get prediction markets out of this rut. My current view is that we should try harder to push them into a totally different use case: hedging, in a very generalized sense (TLDR: we're gonna replace fiat currency) Prediction markets have two types of actors: (i) "smart traders" who provide information to the market, and earn money, and necessarily (ii) some kind of actor who loses money. But who would be willing to lose money and keep coming back? There are basically three answers to this question: "Naive traders": people with dumb opinions who bet on totally wrong things "Info buyers": people who set up money-losing automated market makers, to motivate people to trade on markets to help the info buyer learn information they do not know. "Hedgers": people who are -EV in a linear sense, but who use the market as insurance, reducing their risk. (1) is where we are today. IMO there is nothing fundamentally morally wrong with taking money from people with dumb opinions. But there still is something fundamentally "cursed" about relying on this too much. It gives the platform the incentive to seek out traders with dumb opinions, and create a public brand and community that encourages dumb opinions to get more people to come in. This is the slide to corposlop. (2) has always been the idealistic hope of people like Robin Hanson. However, info buying has a public goods problem: you pay for the info, but everyone in the world gets it, including those who don't pay. There are limited cases where it makes sense for one org to pay (esp. decision markets), but even there, it seems likely that the market volumes achieved with that strategy will not be too high. This gets us to (3). Suppose that you have shares in a biotech company. It's public knowledge that the Purple Party is better for biotech than the Yellow Party. So if you buy a prediction market share betting that the Yellow Party will win the next election, on average, you are reducing your risk. Mathematical example: suppose that if Purple wins, the share price will be a dice roll between [80...120], and if Yellow wins, it's between [60...100]. If you make a size $5 bet that Yellow will win, your earnings become equivalent to a dice roll between [70...110] in both cases. Taking a logarithmic model of utility, this risk reduction is worth $0.58. Now, let's get to a more fascinating example. What do people who want stablecoins ultimately want? They want price stability. They have some future expenses in mind, and they want a guarantee that will be able to pay those expenses. But if crypto grows on top of USD-backed stablecoins, crypto is ultimately not truly decentralized. Furthermore, different people have different types of expenses. There has been lots of thinking about making an "ideal stablecoin" that is based on some decentralized global price index, but what if the real solution is to go a step further, and get rid of the concept of currency altogether? Here's the idea. You have price indices on all major categories of goods and services that people buy (treating physical goods/services in different regions as different categories), and prediction markets on each category. Each user (individual or business) has a local LLM that understands that user's expenses, and offers the user a personalized basket of prediction market shares, representing "N days of that user's expected future expenses". Now, we do not need fiat currency at all! People can hold stocks, ETH, or whatever else to grow wealth, and personalized prediction market shares when they want stability. Both of these examples require prediction markets denominated in an asset people want to hold, whether interest-bearing fiat, wrapped stocks, or ETH. Non-interest-bearing fiat has too-high opportunity cost, that overwhelms the hedging value. But if we can make it work, it's much more sustainable than the status quo, because both sides of the equation are likely to be long-term happy with the product that they are buying, and very large volumes of sophisticated capital will be willing to participate. Build the next generation of finance, not corposlop.
 
 1d ago
 
 ---
 
-**[A better path forward for prediction markets: PMs + LLMs as a next-gen replacement for fiat currency](https://www.reddit.com/r/ethereum/comments/1r4k0gy/a_better_path_forward_for_prediction_markets_pms/)**
+**[Daily General Discussion February 14, 2026](https://www.reddit.com/r/ethereum/comments/1r4cvrr/daily_general_discussion_february_14_2026/)**
 
-Recently I have been starting to worry about the state of prediction markets, in their current form. They have achieved a certain level of success: market volume is high enough to make meaningful bets and have a full-time job as a trader, and they often prove useful as a supplement to other forms of news media. But also, they seem to be over-converging to an unhealthy product market fit: embracing short-term cryptocurrency price bets, sports betting, and other similar things that have dopamine value but not any kind of long-term fulfillment or societal information value. My guess is that teams feel motivated to capitulate to these things because they bring in large revenue during a bear market where people are desperate - an understandable motive, but one that leads to corposlop. I have been thinking about how we can help get prediction markets out of this rut. My current view is that we should try harder to push them into a totally different use case: hedging, in a very generalized sense (TLDR: we're gonna replace fiat currency) Prediction markets have two types of actors: (i) "smart traders" who provide information to the market, and earn money, and necessarily (ii) some kind of actor who loses money. But who would be willing to lose money and keep coming back? There are basically three answers to this question: "Naive traders": people with dumb opinions who bet on totally wrong things "Info buyers": people who set up money-losing automated market makers, to motivate people to trade on markets to help the info buyer learn information they do not know. "Hedgers": people who are -EV in a linear sense, but who use the market as insurance, reducing their risk. (1) is where we are today. IMO there is nothing fundamentally morally wrong with taking money from people with dumb opinions. But there still is something fundamentally "cursed" about relying on this too much. It gives the platform the incentive to seek out traders with dumb opinions, and create a public brand and community that encourages dumb opinions to get more people to come in. This is the slide to corposlop. (2) has always been the idealistic hope of people like Robin Hanson. However, info buying has a public goods problem: you pay for the info, but everyone in the world gets it, including those who don't pay. There are limited cases where it makes sense for one org to pay (esp. decision markets), but even there, it seems likely that the market volumes achieved with that strategy will not be too high. This gets us to (3). Suppose that you have shares in a biotech company. It's public knowledge that the Purple Party is better for biotech than the Yellow Party. So if you buy a prediction market share betting that the Yellow Party will win the next election, on average, you are reducing your risk. Mathematical example: suppose that if Purple wins, the share price will be a dice roll between [80...120], and if Yellow wins, it's between [60...100]. If you make a size $5 bet that Yellow will win, your earnings become equivalent to a dice roll between [70...110] in both cases. Taking a logarithmic model of utility, this risk reduction is worth $0.58. Now, let's get to a more fascinating example. What do people who want stablecoins ultimately want? They want price stability. They have some future expenses in mind, and they want a guarantee that will be able to pay those expenses. But if crypto grows on top of USD-backed stablecoins, crypto is ultimately not truly decentralized. Furthermore, different people have different types of expenses. There has been lots of thinking about making an "ideal stablecoin" that is based on some decentralized global price index, but what if the real solution is to go a step further, and get rid of the concept of currency altogether? Here's the idea. You have price indices on all major categories of goods and services that people buy (treating physical goods/services in different regions as different categories), and prediction markets on each category. Each user (individual or business) has a local LLM that understands that user's expenses, and offers the user a personalized basket of prediction market shares, representing "N days of that user's expected future expenses". Now, we do not need fiat currency at all! People can hold stocks, ETH, or whatever else to grow wealth, and personalized prediction market shares when they want stability. Both of these examples require prediction markets denominated in an asset people want to hold, whether interest-bearing fiat, wrapped stocks, or ETH. Non-interest-bearing fiat has too-high opportunity cost, that overwhelms the hedging value. But if we can make it work, it's much more sustainable than the status quo, because both sides of the equation are likely to be long-term happy with the product that they are buying, and very large volumes of sophisticated capital will be willing to participate. Build the next generation of finance, not corposlop.
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
 
@@ -150,14 +150,6 @@ This is the second article in a series about deterministic deployments, where we
 
 ## Google News: "ethereum"
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
-
-The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
-
-The Motley Fool • 1d ago
-
----
-
 **[Trump Media Files to Launch Truth Social-Branded Bitcoin, Ethereum, Cronos ETFs](https://decrypt.co/358079/trump-media-files-truth-social-bitcoin-ethereum-cronos-etfs)**
 
 Truth Social Funds applied for ETFs that would give investors exposure to crypto—one focused on Bitcoin and Ethereum, the other on Cronos.
@@ -166,11 +158,27 @@ Decrypt • 2d ago
 
 ---
 
-**[BlackRock Signals $257M Bitcoin and Ethereum Sell-Off Ahead of Partial U.S. Government Shutdown](https://finance.yahoo.com/news/blackrock-signals-257m-bitcoin-ethereum-125929308.html)**
+**[Ethereum Co-Founder Vitalik Buterin Calls for Prediction Market Reset](https://news.bitcoin.com/ethereum-co-founder-vitalik-buterin-calls-for-prediction-market-reset/)**
 
-BlackRock, the world’s largest asset manager, looks set to offload more Bitcoin and Ethereum, following the outflows from its crypto ETFs yesterday. This move comes ahead of another potential partial U.S. government shutdown that could begin tomorrow as today’s deadline looms. BlackRock Moves $257M In BTC And ETH To Coinbase Arkham data shows that the
+Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
+
+Bitcoin.com News • 1d ago
+
+---
+
+**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://finance.yahoo.com/news/blackrock-buys-bitmine-shares-ethereum-092453859.html)**
+
+Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025. CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
+
+Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -182,19 +190,25 @@ CoinDesk • 2d ago
 
 ---
 
-**[BlackRock buys up Bitmine shares as Ethereum threatens to fall to $1,400 price](https://www.dlnews.com/articles/markets/blackrock-buys-up-bitmine-shares-as-ethereum-may-hit-1400/)**
+**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/02/14/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
 
-Blackrock’s Bitmine share holdings jumped 166% in the fourth-quarter of 2025.  CEO Larry Fink is bullish on tokenisation with the company citing Ethereum as the big winner.
+Here's why Bitcoin and Ethereum should be in your long-term portfolio.
 
-dlnews.com • 2d ago
+The Motley Fool • 1d ago
 
 ---
 
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
+**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
 
-Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
+TradingView • 1d ago
 
-Nasdaq • 19h ago
+---
+
+**[Thomas Thiery: Fossil enhances transaction inclusion in Ethereum, MEV threatens decentralization, and upcoming changes will reshape block construction | Epicenter](https://cryptobriefing.com/thomas-thiery-fossil-enhances-transaction-inclusion-in-ethereum-mev-threatens-decentralization-and-upcoming-changes-will-reshape-block-construction-epicenter/)**
+
+Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
+
+Crypto Briefing • 2h ago
 
 ---
 
@@ -202,29 +216,15 @@ Nasdaq • 19h ago
 
 Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
 
-BeInCrypto • 18h ago
+BeInCrypto • 20h ago
 
 ---
 
-**[Key facts: U.S. Ethereum ETFs see $10.26M inflows; open interest drops](https://www.tradingview.com/news/tradingview:70cf58679de51:0-key-facts-u-s-ethereum-etfs-see-10-26m-inflows-open-interest-drops/)**
+**[Here’s Why Dogecoin Is Outperforming Bitcoin And Ethereum Today](https://stocktwits.com/news-articles/markets/cryptocurrency/heres-why-dogecoin-is-outperforming-bitcoin-ethereum-solana-today/cZRJDiyR4ts)**
 
-TradingView • 23h ago
+Dogecoin jumped over 19% in the last 24 hours, beating Bitcoin, Ethereum, and Solana as the meme coin’s momentum rises.
 
----
-
-**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
-
-The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
-
-The Block • 3d ago
-
----
-
-**[Ethereum Co-Founder Vitalik Buterin Calls for Prediction Market Reset](https://news.bitcoin.com/ethereum-co-founder-vitalik-buterin-calls-for-prediction-market-reset/)**
-
-Buterin said prediction markets have reached enough scale to support professional traders and contribute meaningfully to public discourse.
-
-Bitcoin.com News • 3h ago
+Stocktwits • 17h ago
 
 ---
 
@@ -232,33 +232,43 @@ Bitcoin.com News • 3h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Russell 2000 Breakout: The Signal That Could Ignite Ethereum w/ John Gillen](https://www.youtube.com/watch?v=DjhaV_LhCUA)**
-
-Free Milk Road Newsletters: ...
-
-📺 Milk Road
-
-👁️ 1K • 👍 62 • 💬 27 • ⏱️ 13:02 • 9h ago
-
----
-
 **[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
 
 Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https://dacfp.com/ Join us at Bitcoin Conference ...
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 488 • ⏱️ 34:57 • 23h ago
+👁️ 57K • 👍 3K • 💬 490 • ⏱️ 34:57 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Lh847otzAo8)**
+**[Tom Lee said the UNTHINKABLE: $600M $ETH BOTTOM ($BMNR)](https://www.youtube.com/watch?v=NJtpnLmnQwM)**
+
+HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With Our AutoPilot™ ...
+
+📺 Wolf of Dubai Day Trading & Investing
+
+👁️ 2K • 👍 136 • 💬 14 • ⏱️ 17:52 • 4h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=ZueBut25QHQ)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 173 • 💬 5 • ⏱️ 4:45 • 9h ago
+👁️ 216 • 👍 27 • 💬 2 • ⏱️ 4:44 • 28m ago
+
+---
+
+**[Russell 2000 Breakout: The Signal That Could Ignite Ethereum w/ John Gillen](https://www.youtube.com/watch?v=DjhaV_LhCUA)**
+
+Free Milk Road Newsletters: ...
+
+📺 Milk Road
+
+👁️ 2K • 👍 71 • 💬 40 • ⏱️ 13:02 • 12h ago
 
 ---
 
@@ -268,7 +278,17 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 97 • 💬 5 • ⏱️ 17:25 • 1d ago
+👁️ 3K • 👍 100 • 💬 5 • ⏱️ 17:25 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Lh847otzAo8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 183 • 💬 5 • ⏱️ 4:45 • 12h ago
 
 ---
 
@@ -278,7 +298,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 383 • 👍 16 • 💬 2 • ⏱️ 4:36 • 13h ago
+👁️ 476 • 👍 18 • 💬 2 • ⏱️ 4:36 • 15h ago
 
 ---
 
@@ -288,17 +308,17 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 3K • 👍 250 • 💬 16 • ⏱️ 5:42 • 1d ago
+👁️ 3K • 👍 255 • 💬 16 • ⏱️ 5:42 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=eOEoHpHQCRQ)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=IqR7R3an1-U)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 More Crypto Online
+📺 UCN BUDDHA TV
 
-👁️ 3K • 👍 162 • 💬 11 • ⏱️ 4:45 • 22h ago
+👁️ 2K • 👍 1K • 23m ago
 
 ---
 
@@ -308,27 +328,7 @@ For any questions contact me on Telegram : https://t.me/cryptobotdev124 Download
 
 📺 Cole the DeFi Maker
 
-👁️ 3K • 👍 8 • 💬 10 • ⏱️ 7:43 • 8h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=NSkeDtslyO4)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 KLH-BPLH
-
-👁️ 6K • 👍 1K • 22h ago
-
----
-
-**[Mathematician Fred Krueger: Crypto Price Predictions Are About To Go INSANE!](https://www.youtube.com/watch?v=uL0mEsAXcSY)**
-
-Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
-
-📺 Library Of Wealth
-
-👁️ 17K • 👍 558 • 💬 152 • ⏱️ 14:31 • 2d ago
+👁️ 4K • 👍 56 • 💬 11 • ⏱️ 7:43 • 10h ago
 
 ---
 
