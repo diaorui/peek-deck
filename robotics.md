@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T19:10:41.043809+00:00'
+updated: '2026-02-16T19:53:07.632880+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 19:10 UTC  
+**Last Updated:** February 16, 2026 at 19:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I am a final year Btech student with experience in robotics .I had applied for various roles like robotics software engineer,software engineer-autonomous vehicles, etc in many companies like Nvidia etc,but got rejected multiple times, someone please help.
 
-2h ago
+3h ago
 
 ---
 
@@ -50,13 +50,13 @@ I am a final year Btech student with experience in robotics .I had applied for v
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 2h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 3h ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -64,7 +64,7 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
 
-26m ago
+1h ago
 
 ---
 
@@ -80,7 +80,7 @@ Robotics software engineers here: is it possible to write functional infrastruct
 
 I’m planning to make a pen plotter for my college project and I’m really interested in this but I’m not really knowledgeable about this. The plotter I have in mind is a corexy model and I don’t know much about it. I’d really appreciate some help and insight into this. Anyone please help me regarding this.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ I’m planning to make a pen plotter for my college project and I’m really int
 
 Hi there, I am a high school senior with some gaps. I've decided to study robotics and AI at a local uni here - "they are together" - and get another online bachelor's in health sciences from a cheap/affordable international uni called "UoPeople". I know that I need to study a master's degree in Bio-robotics engineering abroad to be specialized in it. I wanted to know your thoughts about this and any clarification about whether robots/AI themselves will replace Bio-robotics engineers in the next 50 years? Thanks for your help/elaborations!
 
-9h ago
+10h ago
 
 ---
 
@@ -114,7 +114,7 @@ Hi there, I am a high school senior with some gaps. I've decided to study roboti
 
 Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Fox News • 1h ago
+Fox News • 2h ago
 
 ---
 
@@ -138,7 +138,7 @@ South China Morning Post • 21h ago
 
 The Economics Show 🤜🤛 FT Alphaville
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -182,7 +182,7 @@ ABC27 • 20h ago
 
 JR Automation raised more than $165,000 for local nonprofits in 2025 through its employee-led charity program.
 
-MLive.com • 1h ago
+MLive.com • 2h ago
 
 ---
 
@@ -196,7 +196,47 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 403K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
+👁️ 410K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
+
+---
+
+**[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
+
+Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
+
+📺 Unitree Robotics
+
+👁️ 19K • 👍 2K • 💬 260 • ⏱️ 1:41 • 3h ago
+
+---
+
+**[Japanese Robots Are Replacing People All Over the World and This Is Unstoppable](https://www.youtube.com/watch?v=AR-oFPELkbw)**
+
+Japan has spent decades perfecting robotics, and those investments are now reshaping global industries at an accelerating pace.
+
+📺 Carros Show
+
+👁️ 11K • 👍 312 • 💬 39 • ⏱️ 9:51 • 1d ago
+
+---
+
+**[Robots execute perfectly synchronised Kung Fu in &#39;knockout&#39; Chunwan performance](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
+
+The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
+
+📺 The Sun
+
+👁️ 17K • 👍 1K • 💬 667 • ⏱️ 2:37 • 4h ago
+
+---
+
+**[Unitree G1 and H2 Robots Stun With Autonomous Martial Arts Show](https://www.youtube.com/watch?v=iMb8G5Hsi90)**
+
+Dozens of Unitree humanoid robots just achieved a world first with a fully autonomous martial arts swarm performance in Beijing.
+
+📺 DPCcars
+
+👁️ 6K • 👍 357 • 💬 88 • ⏱️ 2:07 • 3h ago
 
 ---
 
@@ -206,37 +246,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 17K • 👍 601 • 💬 76 • ⏱️ 12:43 • 19h ago
-
----
-
-**[Newest Female Robots AVAILABLE For Sale in 2026](https://www.youtube.com/watch?v=mVsxy8nGDo4)**
-
-The humanoid robot market just got real. These aren't concept demos anymore—they're actual products you can order right now, ...
-
-📺 AI Exposed
-
-👁️ 556 • 👍 6 • 💬 6 • ⏱️ 18:05 • 1d ago
-
----
-
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
-
-news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
-
-📺 Tyrone Magnus
-
-👁️ 32K • 👍 2K • 💬 390 • ⏱️ 9:43 • 21h ago
-
----
-
-**[Kawasaki&#39;s New Robot Horse Is WILD](https://www.youtube.com/watch?v=rSurIVRYtVU)**
-
-shorts #tech #bike #motorcycle.
-
-📺 ThrottleRush
-
-👁️ 29K • 👍 1K • 💬 19 • ⏱️ 0:41 • 3d ago
+👁️ 19K • 👍 646 • 💬 84 • ⏱️ 12:43 • 20h ago
 
 ---
 
@@ -246,7 +256,7 @@ Such a presentation would highlight how far artificial intelligence, robotics, a
 
 📺 Carros Show
 
-👁️ 15K • 👍 340 • 💬 66 • ⏱️ 10:40 • 5d ago
+👁️ 16K • 👍 353 • 💬 71 • ⏱️ 10:40 • 6d ago
 
 ---
 
@@ -256,37 +266,27 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 718K • 👍 9K • 💬 1K • ⏱️ 53:47 • 2d ago
+👁️ 746K • 👍 9K • 💬 2K • ⏱️ 53:47 • 2d ago
 
 ---
 
-**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
+**[Kawasaki&#39;s New Robot Horse Is WILD](https://www.youtube.com/watch?v=rSurIVRYtVU)**
 
-A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
+shorts #tech #bike #motorcycle.
 
-📺 AI Revolution
+📺 ThrottleRush
 
-👁️ 156K • 👍 3K • 💬 245 • ⏱️ 11:59 • 5d ago
-
----
-
-**[Martial arts robots dazzle at 2026 Spring Festival Gala](https://www.youtube.com/watch?v=mUmlv814aJo)**
-
-Tradition meets technology in a stunning showcase at the 2026 Spring Festival Gala by China Media Group. This year's gala ...
-
-📺 CGTN
-
-👁️ 9K • 👍 3K • 💬 590 • ⏱️ 4:51 • 5h ago
+👁️ 34K • 👍 1K • 💬 21 • ⏱️ 0:41 • 3d ago
 
 ---
 
-**[The Robot That Replaces Nursing Homes #elonmusk  #optimus  #humanoidrobots  #tesla](https://www.youtube.com/watch?v=Z024vP9uK1A)**
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
 
-Nursing homes can cost over $10000 a month. But imagine paying once… for a robot that cares for you for years. Companies like ...
+news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
 
-📺 By 2050
+📺 Tyrone Magnus
 
-👁️ 16K • 👍 437 • 💬 19 • ⏱️ 0:59 • 1d ago
+👁️ 34K • 👍 2K • 💬 401 • ⏱️ 9:43 • 21h ago
 
 ---
 

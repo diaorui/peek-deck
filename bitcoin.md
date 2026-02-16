@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T19:10:41.034575+00:00'
+updated: '2026-02-16T19:53:07.623585+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 19:10 UTC  
+**Last Updated:** February 16, 2026 at 19:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1357.05B
+**Market Cap:** $1358.53B
 Rank #1
 
-**Circulating Supply:** 19,990,368 BTC
+**Circulating Supply:** 19,990,462 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.2%
+-46.1%
 
 **All-Time Low:** $67.81
-+99882.3%
++100118.3%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-9h ago
+10h ago
 
 ---
 
 **[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Hi Guys, I have no clue about bitcoin or Stocks. What I have is 5000€ which we
 
 **[6th painting in the streets](https://www.reddit.com/r/Bitcoin/comments/1r6amdm/6th_painting_in_the_streets/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -127,13 +127,13 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 **[Today is a very special day!!! My 15 year old son started his Bitcoin venture 💙. I told him to stack them monthly 🤑🤑 lil Satoshis](https://www.reddit.com/r/Bitcoin/comments/1r5z5r1/today_is_a_very_special_day_my_15_year_old_son/)**
 
-15h ago
+16h ago
 
 ---
 
 **["I look at Bitcoin as the best savings technology that's ever existed"](https://www.reddit.com/r/Bitcoin/comments/1r6d92n/i_look_at_bitcoin_as_the_best_savings_technology/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
 If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
 
-21h ago
+22h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 5h ago
 
 TMZ makes a proposition to Nancy’s alleged kidnapper. The post TMZ Makes Plea To Man Demanding Bitcoin for Nancy Guthrie Details appeared first on Reality Tea.
 
-Yahoo • 57m ago
+Yahoo • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo • 57m ago
 
 Tokyo-based bitcoin treasury firm Metaplanet reported a fiscal 2025 net loss of 95 billion yen ($619 million), largely due to a 102.2 billion yen ($666 million) drop in the value of its bitcoin holdings.
 
-Bitcoin Magazine • 20m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitcoin Magazine • 20m ago
 
 Key levels in focus: $65,650 support holds for now, but break below opens $63,000 then Fibonacci $57,800; resistance caps upside at $71,800–$74,500.
 
-Bitcoin Magazine • 49m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 1d ago
 
 Traders are bracing for a heavy week of macroeconomic events, including Fed minutes and the core PCE inflation report.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -209,7 +209,7 @@ CoinDesk • 12h ago
 
 Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -233,7 +233,7 @@ Investor's Business Daily • 3d ago
 
 **[$40B in Bitcoin Accidentally Given Away](https://news.ycombinator.com/item?id=46965768)**
 
-⬆️ 10 • 💬 0 • 5d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 10 • 💬 0 • 6d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -279,7 +279,7 @@ Bithumb has apologised for staff error that sent customers 620,000 bitcoins inst
 
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
-⬆️ 2 • 💬 0 • 1d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 2 • 💬 0 • 2d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -317,27 +317,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 803 • 💬 59 • ⏱️ 39:54 • 3h ago
-
----
-
-**[&quot;This Bitcoin Crash Is WORSE Than Anyone Realizes&quot; - Cathie Wood](https://www.youtube.com/watch?v=sTXwt1wbMQU)**
-
-Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. The ARK Invest CEO — who just bought $72 ...
-
-📺 Money Talks
-
-👁️ 6K • 👍 139 • 💬 38 • ⏱️ 12:20 • 1d ago
-
----
-
-**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
-
-Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 2K • 💬 234 • ⏱️ 11:16 • 20h ago
+👁️ 16K • 👍 1K • 💬 92 • ⏱️ 39:54 • 4h ago
 
 ---
 
@@ -347,17 +327,37 @@ Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin cr
 
 📺 Crypto Insider
 
-👁️ 6K • 👍 606 • 💬 67 • ⏱️ 18:15 • 5h ago
+👁️ 12K • 👍 895 • 💬 101 • ⏱️ 18:15 • 5h ago
 
 ---
 
-**[JUST IN : Robert Kiyosaki DUMPS Gold, Backs Bitcoin – $250K BTC Target Finally Confirmed?](https://www.youtube.com/watch?v=sAP1xgGr4Jk)**
+**[&quot;This Bitcoin Crash Is WORSE Than Anyone Realizes&quot; - Cathie Wood](https://www.youtube.com/watch?v=sTXwt1wbMQU)**
 
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. The ARK Invest CEO — who just bought $72 ...
 
-📺 The Kenzo Guy
+📺 Money Talks
 
-👁️ 4K • 👍 192 • 💬 26 • ⏱️ 25:08 • 23h ago
+👁️ 7K • 👍 144 • 💬 48 • ⏱️ 12:20 • 1d ago
+
+---
+
+**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
+
+Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
+
+📺 Altcoin Daily
+
+👁️ 46K • 👍 2K • 💬 242 • ⏱️ 11:16 • 21h ago
+
+---
+
+**[Bitcoin Collapsed Over 50% | Is The Bottom In?](https://www.youtube.com/watch?v=2JSnGuyRVdM)**
+
+Bitcoin #Crypto #Finance Your edge starts here — join DataDash Pro for Discord access + Nick's Monthly Dash Report at ...
+
+📺 DataDash
+
+👁️ 2K • 👍 205 • 💬 26 • ⏱️ 33:12 • 3h ago
 
 ---
 
@@ -367,7 +367,17 @@ In January, we outlined a late-cycle restrictive regime and leaned cautious on r
 
 📺 Benjamin Cowen
 
-👁️ 46K • 👍 3K • 💬 140 • ⏱️ 13:07 • 13h ago
+👁️ 55K • 👍 4K • 💬 159 • ⏱️ 13:07 • 14h ago
+
+---
+
+**[This Bitcoin Selloff Is Different And Nobody Understands What Comes Next! | Dan Tapiero](https://www.youtube.com/watch?v=XM3GMkAh9GU)**
+
+Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is structurally different from past cycles. With venture tokens ...
+
+📺 The Wolf Of All Streets
+
+👁️ 40K • 👍 1K • 💬 785 • ⏱️ 30:55 • 1d ago
 
 ---
 
@@ -377,17 +387,17 @@ Bitcoin bottom in? Buy now says analyst. Altcoins heating up! BITUNIX TRADE THE 
 
 📺 Lark Davis
 
-👁️ 8K • 👍 648 • 💬 55 • ⏱️ 17:35 • 7h ago
+👁️ 12K • 👍 756 • 💬 71 • ⏱️ 17:35 • 8h ago
 
 ---
 
-**[Bitcoin Is About To Replace A $9.7 Trillion Market And Nobody Sees It Coming | Jesse Shrader](https://www.youtube.com/watch?v=QzdIYnKBypA)**
+**[Tom Lee Finally Breaks His Silence On The Bitcoin Crash — &quot;This Changes Everything&quot;](https://www.youtube.com/watch?v=Ve9X-oU48II)**
 
-Marty and Jesse Shrader, co-founder of Amboss, break down how Taproot Assets are bringing stablecoins to the Lightning ...
+Tom Lee, Fundstrat's Head of Research, finally breaks his silence on the Bitcoin crash. After weeks of silence while Bitcoin ...
 
-📺 TFTC
+📺 Money Talks
 
-👁️ 564 • 👍 75 • 💬 6 • ⏱️ 1:05:30 • 4h ago
+👁️ 6K • 👍 93 • 💬 28 • ⏱️ 11:16 • 2d ago
 
 ---
 
@@ -398,16 +408,6 @@ Dan Ives is the Global Head of Technology Research at Wedbush Securities and one
 📺 Anthony Pompliano
 
 👁️ 50K • 👍 2K • 💬 95 • ⏱️ 21:49 • 2d ago
-
----
-
-**[This Bitcoin Selloff Is Different And Nobody Understands What Comes Next! | Dan Tapiero](https://www.youtube.com/watch?v=XM3GMkAh9GU)**
-
-Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is structurally different from past cycles. With venture tokens ...
-
-📺 The Wolf Of All Streets
-
-👁️ 39K • 👍 1K • 💬 791 • ⏱️ 30:55 • 1d ago
 
 ---
 

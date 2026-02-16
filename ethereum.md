@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T19:10:41.040560+00:00'
+updated: '2026-02-16T19:53:07.629605+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
 - social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 19:10 UTC  
+**Last Updated:** February 16, 2026 at 19:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.16B
+**Market Cap:** $238.36B
 Rank #2
 
 **Circulating Supply:** 120,692,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.2%
+-60.1%
 
 **All-Time Low:** $0.43
-+454735.0%
++456021.4%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fundstrat’s Tom Lee says crypto winter is either already over or will end by April, pointing to late-cycle sentiment and improving macro. He also highlighted BitMine’s strategy of weekly ETH accumulation and staking as a long-term institutional bet on Ethereum. Article: https://btcusa.com/tom-lee-crypto-winter-likely-ends-by-april-as-ethereum-strategy-expands/ Do you agree we’re near the end of this cycle correction?
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ Fundstrat’s Tom Lee says crypto winter is either already over or will end by A
 
 We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
 
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 1h ago
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 2h ago
 
 ---
 
@@ -96,7 +96,7 @@ We're a group of researchers and have just prepared a draft addressing a gap in 
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-4h ago
+5h ago
 
 ---
 
@@ -162,7 +162,7 @@ Yahoo Finance • 1h ago
 
 The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -208,7 +208,7 @@ BeInCrypto • 1d ago
 
 Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
 
-Crypto Briefing • 19h ago
+Crypto Briefing • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 62K • 👍 3K • 💬 506 • ⏱️ 34:57 • 1d ago
+👁️ 63K • 👍 3K • 💬 512 • ⏱️ 34:57 • 1d ago
 
 ---
 
@@ -248,7 +248,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 144 • 💬 7 • ⏱️ 6:56 • 5h ago
+👁️ 2K • 👍 175 • 💬 8 • ⏱️ 6:56 • 6h ago
+
+---
+
+**[Ethereum Bottom Incoming? Here&#39;s When To Act!](https://www.youtube.com/watch?v=F5eAwxx7a_Q)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/... Join Trade Confident: Get 25% Off Your 1st ...
+
+📺 Trade Confident
+
+👁️ 128 • 👍 13 • 💬 1 • ⏱️ 6:11 • 1h ago
 
 ---
 
@@ -258,17 +268,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 5K • 👍 231 • 💬 40 • ⏱️ 17:52 • 21h ago
-
----
-
-**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=PxEZjvY_G_M)**
-
-Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn how to claim your $Eth from the official ...
-
-📺 World Liberty Financial
-
-👁️ 2K • 👍 129 • 💬 7 • ⏱️ 2:13 • 4h ago
+👁️ 5K • 👍 239 • 💬 41 • ⏱️ 17:52 • 22h ago
 
 ---
 
@@ -278,27 +278,17 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 4K • 👍 106 • 💬 6 • ⏱️ 17:25 • 2d ago
+👁️ 4K • 👍 107 • 💬 6 • ⏱️ 17:25 • 2d ago
 
 ---
 
-**[What Are The Elites Planning For Crypto? (AMA PulseChain Ethereum Bitcoin)](https://www.youtube.com/watch?v=ykpWG2oNuKU)**
+**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=PxEZjvY_G_M)**
 
-how to buy PulseChain coins? https://libertyswap.finance buy with card: https://buy-pulsechain.com | buy with bank account: ...
+Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn how to claim your $Eth from the official ...
 
-📺 Crypto Coffee
+📺 World Liberty Financial
 
-👁️ 99 • 👍 24 • 💬 3 • ⏱️ 59:47 • 2h ago
-
----
-
-**[BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PYf44w0tFXc)**
-
-BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 250 • 💬 35 • ⏱️ 17:15 • 16h ago
+👁️ 3K • 👍 75 • 💬 7 • ⏱️ 2:13 • 5h ago
 
 ---
 
@@ -308,7 +298,7 @@ As far as every single analyst and CEO has said.. all signs seem to be pointing 
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 591 • 💬 43 • ⏱️ 30:43 • 9h ago
+👁️ 5K • 👍 642 • 💬 52 • ⏱️ 30:43 • 10h ago
 
 ---
 
@@ -318,17 +308,27 @@ What happens when a blockchain splits? This video explains soft and hard forks, 
 
 📺 CoinGecko
 
-👁️ 831 • 👍 90 • 💬 13 • ⏱️ 4:01 • 8h ago
+👁️ 1K • 👍 110 • 💬 14 • ⏱️ 4:01 • 8h ago
 
 ---
 
-**[ETHEREUM 🚨 LE PLAN VERS $10,000 EST EN PLACE !? 🚀](https://www.youtube.com/watch?v=C2-tKaSdZzM)**
+**[What Are The Elites Planning For Crypto? (AMA PulseChain Ethereum Bitcoin)](https://www.youtube.com/watch?v=ykpWG2oNuKU)**
 
-Accès 100% GRATUIT : Nos Algos + Mentorship + VIP (disponible dans quelques jours) Inscris-toi sur Weex (Pas de KYC !
+how to buy PulseChain coins? https://libertyswap.finance buy with card: https://buy-pulsechain.com | buy with bank account: ...
 
-📺 Crypto Le Trone
+📺 Crypto Coffee
 
-👁️ 2K • 👍 371 • 💬 19 • ⏱️ 10:11 • 4h ago
+👁️ 367 • 👍 75 • 💬 11 • ⏱️ 59:47 • 3h ago
+
+---
+
+**[BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PYf44w0tFXc)**
+
+BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 262 • 💬 41 • ⏱️ 17:15 • 17h ago
 
 ---
 
