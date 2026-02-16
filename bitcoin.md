@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-16T04:37:34.968953+00:00'
+updated: '2026-02-16T06:06:47.072860+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
-- news
+- videos
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 04:37 UTC  
+**Last Updated:** February 16, 2026 at 06:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,290.69
+### $68,459.44
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.2%  
-**7d:** -0.1%  
-**30d:** -26.7%  
-**90d:** -24.6%  
-**1y:** -28.2%  
+**24h:** -3.3%  
+**7d:** -0.6%  
+**30d:** -27.0%  
+**90d:** -25.0%  
+**1y:** -28.5%  
 
 ---
 
@@ -70,16 +70,24 @@ Rank #1
 
 ## Fear & Greed Index
 
-### 8
+### 12
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin transaction at McDonald's in San Salvador](https://www.reddit.com/r/Bitcoin/comments/1r5qsih/bitcoin_transaction_at_mcdonalds_in_san_salvador/)**
+
+If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
+
+8h ago
+
+---
+
 **[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -87,35 +95,19 @@ Rank #1
 
 The Naked Mona Lisa 📍 Tunnel des Tuileries, Paris
 
-16h ago
-
----
-
-**[Bitcoin transaction at McDonald's in San Salvador](https://www.reddit.com/r/Bitcoin/comments/1r5qsih/bitcoin_transaction_at_mcdonalds_in_san_salvador/)**
-
-If you're thinking about spending some sats, usually over r/thelightningnetwork because it's cheaper and faster, here are my favorite directories: http://lightningnetworkstores.com/ https://btcmap.org - awesome map, you can even add your local vendors in, once you orangepill them. https://acceptlightning.com/list.html https://spend-sats.com/ https://spendabit.co/ https://directory.btcpayserver.org/ There's also an option of buying gift cards https://thebitcoincompany.com/ https://bitrefill.com https://www.egifter.com/buy-gift-cards-with-bitcoin - this one's least fave because they use a shitty custodian for payments but are handy for a few cards. Spend and earn some sats back: https://foldapp.com - save up to 20% Starbucks, Uber, Target , whole foods , Dunkin https://www.lolli.com – save up to 30% by spending BTC anywhere but primarily USA stores https://satsback.com/stores-list - save up to 20% by spending BTC anywhere but primarily Europe stores.
-
-7h ago
+17h ago
 
 ---
 
 **[You will be a Wholecoiner one day](https://www.reddit.com/r/Bitcoin/comments/1r5dlw3/you_will_be_a_wholecoiner_one_day/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Just say no](https://www.reddit.com/r/Bitcoin/comments/1r5g73g/just_say_no/)**
 
-13h ago
-
----
-
-**[Bought some parts for my bike with BTC](https://www.reddit.com/r/Bitcoin/comments/1r5mldg/bought_some_parts_for_my_bike_with_btc/)**
-
-Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
-
-9h ago
+15h ago
 
 ---
 
@@ -123,23 +115,15 @@ Today I bought some parts for my bike using BTC. The seller is in another countr
 
 A solo Bitcoin miner on a Raspberry Pi 3 — one hash per minute, tracking the quest in real-time.
 
-🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 6h ago
+🔗 [The Slow PI Miner](https://slowminer.dontbuythis.site/) • 8h ago
 
 ---
 
-**[Anyone willing to spend btc on food?](https://www.reddit.com/r/Bitcoin/comments/1r5w6ks/anyone_willing_to_spend_btc_on_food/)**
+**[Bought some parts for my bike with BTC](https://www.reddit.com/r/Bitcoin/comments/1r5mldg/bought_some_parts_for_my_bike_with_btc/)**
 
-I working on this app to show where you can spend your btc when it comes to food in the South East Asia. Primarily in Indonesia Malaysia Philippine Thailand and Singapore first. I am thinking of adding more value to it for other services. Any suggestions?
+Today I bought some parts for my bike using BTC. The seller is in another country but as we know BTC has no frontiers so it did not matter at all. This marks my fist purchase with BTC, up until now I was only holding. Hope to use it more and more in the future.
 
-3h ago
-
----
-
-**[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
-
-... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
-
-22h ago
+11h ago
 
 ---
 
@@ -147,7 +131,23 @@ I working on this app to show where you can spend your btc when it comes to food
 
 I’m thinking that a very good bitcoin stacking strategy would be to stack dollars in a HYSA and then when bitcoin dips below the 200 week SMA to begin a heavy DCA. Stopping when it goes back above. Thoughts?
 
-1h ago
+3h ago
+
+---
+
+**[Anyone willing to spend btc on food?](https://www.reddit.com/r/Bitcoin/comments/1r5w6ks/anyone_willing_to_spend_btc_on_food/)**
+
+I working on this app to show where you can spend your btc when it comes to food in the South East Asia. Primarily in Indonesia Malaysia Philippine Thailand and Singapore first. I am thinking of adding more value to it for other services. Any suggestions?
+
+4h ago
+
+---
+
+**[People waiting for $50,000 to buy...](https://www.reddit.com/r/Bitcoin/comments/1r57hn9/people_waiting_for_50000_to_buy/)**
+
+... how's that working out for you? If there's a belief that Bitcoin will eventually recover and chart new highs over the next decade.. why is there a need to time the absolute bottom?
+
+23h ago
 
 ---
 
@@ -159,7 +159,7 @@ I’m thinking that a very good bitcoin stacking strategy would be to stack doll
 
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-CNBC • 13h ago
+CNBC • 15h ago
 
 ---
 
@@ -169,17 +169,25 @@ Forbes • 1d ago
 
 ---
 
-**[Bitcoin Holds Weekly Structure — Is a Broader Recovery Expanding?](https://www.binance.com/es-AR/square/post/292112961564498)**
+**[Bitcoin Leverage Heats Up as Traders Bet on Price Rebound](https://finance.yahoo.com/news/bitcoin-leverage-heats-traders-bet-042400767.html)**
 
-Binance • 2h ago
+Bitcoin's futures basis has widened amid retail dip buying surges, but one expert warns the setup may end in an "over-leveraged shakeout."
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
+**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqdNf54W1o50nD4tXi4v9eQi_oENmKlTWUQdiOtPUL13Y4rkPED4P1gv&gaa_ts=6992b761&gaa_sig=ivj434h_rdlok55UOyhOjIiVkiWVEnkLDEPtDkG57n6AhSmjaVY_qx3MmW4hGsI3ladArDuzacYu6Ya-gnj14Q%3D%3D)**
 
-Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
+Barron's • 2d ago
 
-BBC • 1d ago
+---
+
+**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
+
+The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
+
+MLive.com • 22h ago
 
 ---
 
@@ -191,39 +199,33 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Fast-food chain to pay bonuses in Bitcoin for hourly employees](https://www.mlive.com/news/2026/02/fast-food-chain-to-pay-bonuses-in-bitcoin-for-hourly-employees.html)**
-
-The bonus comes with a two-year vesting period and will begin accumulating on March 1, 2026.
-
-MLive.com • 20h ago
-
----
-
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
-
-Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
-
-Nasdaq • 1d ago
-
----
-
-**[Bitcoin May Fall to $50,000, Crypto Bull Says. What Happens Next.](https://www.barrons.com/articles/bitcoin-xrp-ether-cryptos-inflation-e5791bb9?gaa_at=eafs&gaa_n=AWEtsqeoKfyDmpRHURybOmG450VJmfEoUGD6h0qYbOUUA1rq0F8F5odFzhzC&gaa_ts=6992a27c&gaa_sig=e7dzndd42104yLLfKN9ulvG8Zic0AMSJik-7viDHo9pPNSWrsorpawuME0JFK28--IBZi1nwb2MCciZ7-_lTGw%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Bitcoin Price Crash Rattles Trump's Crypto Progress. Here's The Upshot For Investors.](https://www.investors.com/news/bitcoin-price-crash-trump-cryptocurrency-progress/)**
 
 Investor's Business Daily • 2d ago
 
 ---
 
-**[Bitcoin Takes Step Towards Quantum Fix as Experts Diverge on Urgency of Threat](https://decrypt.co/358068/bitcoin-quantum-fix-experts-diverge-urgency-threat)**
+**[Better Cryptocurrency to Buy Now and Hold for 10 Years: XRP vs. Bitcoin](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-and-hold-10-years-xrp-vs-bitcoin)**
 
-Bitcoin developers lay the groundwork for post-quantum upgrades, but experts vary on whether the threat is years or decades away.
+Key PointsBitcoin's most important features probably won't change much between now and 2036.
 
-Decrypt • 12h ago
+Nasdaq • 1d ago
+
+---
+
+**[Saylor Hints at Another Strategy Bitcoin Buy](https://bitbo.io/news/saylor-signals-strategy-bitcoin-buy/)**
+
+Michael Saylor signaled another Strategy Bitcoin purchase, extending a 12-week buying streak even as bitcoin and crypto-treasury stocks slide.
+
+Bitbo • 10h ago
+
+---
+
+**[Bitcoin Price Faces Another Rejection As Upside Momentum Fades](https://www.tradingview.com/news/newsbtc:e114cf6e6094b:0-bitcoin-price-faces-another-rejection-as-upside-momentum-fades/)**
+
+Bitcoin price failed to stay above $70,000 and started another decline. BTC is now trading below $68,800 and might extend losses in the near term.Bitcoin Price Dips AgainBitcoin price failed to remain stable above the $70,000 zone. BTC started a fresh decline and traded below the $69,200 support zo…
+
+TradingView • 3h ago
 
 ---
 
@@ -317,7 +319,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 97 • ⏱️ 11:16 • 5h ago
+👁️ 21K • 👍 1K • 💬 97 • ⏱️ 11:16 • 7h ago
 
 ---
 
@@ -327,7 +329,7 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 3K • 👍 112 • 💬 15 • ⏱️ 12:20 • 10h ago
+👁️ 3K • 👍 112 • 💬 15 • ⏱️ 12:20 • 11h ago
 
 ---
 
@@ -357,7 +359,7 @@ Bitcoin #Crypto #Finance Dan Tapiero explains why this Bitcoin selloff is struct
 
 📺 The Wolf Of All Streets
 
-👁️ 31K • 👍 1K • 💬 479 • ⏱️ 30:55 • 14h ago
+👁️ 31K • 👍 1K • 💬 479 • ⏱️ 30:55 • 15h ago
 
 ---
 
@@ -367,7 +369,7 @@ Nick Valdez looks at the latest news from the CFTC. This news will have a massiv
 
 📺 Discover Crypto
 
-👁️ 14K • 👍 509 • 💬 78 • ⏱️ 7:14 • 12h ago
+👁️ 14K • 👍 509 • 💬 78 • ⏱️ 7:14 • 14h ago
 
 ---
 
@@ -377,7 +379,7 @@ The US Dollar is falling. Gold is exploding. But Bitcoin is dumping. Why is BTC 
 
 📺 Coin Bureau
 
-👁️ 38K • 👍 1K • 💬 225 • ⏱️ 12:55 • 15h ago
+👁️ 38K • 👍 1K • 💬 225 • ⏱️ 12:55 • 17h ago
 
 ---
 
@@ -397,7 +399,7 @@ WEEX: https://www.weex.com/events/promo/usdtgiveaway-v2?vipCode=00dt 25% FEE DIS
 
 📺 Crypto Rover
 
-👁️ 12K • 👍 732 • 💬 41 • ⏱️ 10:24 • 22h ago
+👁️ 12K • 👍 732 • 💬 41 • ⏱️ 10:24 • 1d ago
 
 ---
 

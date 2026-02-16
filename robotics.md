@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-16T04:37:34.981698+00:00'
+updated: '2026-02-16T06:06:47.082157+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 16, 2026 at 04:37 UTC  
+**Last Updated:** February 16, 2026 at 06:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Hobby project robotic hand for remote puppetry](https://www.reddit.com/r/robotics/comments/1r5k0rz/hobby_project_robotic_hand_for_remote_puppetry/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 ​My name is Chloe, I am 18 and have an undiagnosed brain problem. The only source of medicine which helped me for the past few years aren't working anymore. My doctor can't help me no more and I can't even walk straight. But I don't want to give up. I want to learn robotics to make a robot that can help me function. I know there are already products like that but I do want to attempt of making my own. Where should I start and what should I start learning
 
-20h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 10h ago
+🔗 [youtube.com](https://youtube.com/shorts/QKl81dk6cKo?si=tW0J1OaZpXtWdhC1) • 11h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hello, In my free time, I am currently designing and building my first robot, in
 
 I need a power supply for a small animatronic that uses 3 9g servos and a small oled as the head i am curently powering it using the arduino mega that is controling it but after 10-12 seconds it stops and i have to reset it (i think its a brownout). I think i need a power supply but its hard to find robotics parts in my contry (romania) and i thout you guys and gals can help.
 
-12h ago
+13h ago
 
 ---
 
@@ -82,19 +82,19 @@ I added rubber pieces for the feet so it can grip the ground and central drivetr
 
 Hi everyone! Mind if I ask if Its possible to integrate husky lens camera into pybricks python coding? if yes mind if,you give me some tips? This is for our WRO competition (Robomission Senior Category) ausing Spike Prime Robot and we are planning to use a camera to scan color randomizations in the so called "Mosaic Frame" challenge. we already know the schematic in wiring the camera to the spike prime port. I am question whether it is practically possible in python pybricks since this is our first time exploring it. Your answers would be very much helpful to our team. Thanks!
 
-21h ago
+23h ago
 
 ---
 
 **[Teammates needed for ros2 package creation](https://www.reddit.com/r/robotics/comments/1r5cbjo/teammates_needed_for_ros2_package_creation/)**
 
-17h ago
+18h ago
 
 ---
 
 **[AUV navigation](https://www.reddit.com/r/robotics/comments/1r57lqo/auv_navigation/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -128,7 +128,7 @@ CNN • 2d ago
 
 Chinaese rnbot maker Robotera's L7 humanoid robot has just showcased its advanced control sytems by performing a traditional sword dance.
 
-Interesting Engineering • 13h ago
+Interesting Engineering • 15h ago
 
 ---
 
@@ -136,7 +136,7 @@ Interesting Engineering • 13h ago
 
 EngineAI's PM01 robot was spotted walking with police officers in Shenzen's Nashan District, and it's much more intimidating than its other models.
 
-bgr.com • 3h ago
+bgr.com • 4h ago
 
 ---
 
@@ -148,11 +148,11 @@ Fox News • 2d ago
 
 ---
 
-**[Local students compete in LEGO robotics state championship](https://www.yahoo.com/news/articles/local-students-compete-lego-robotics-225815989.html)**
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
 
-PALMYRA, Pa. (WHTM) — Three-dozen teams from across Pennsylvania took part in the third annual FIRST LEGO League Challenge state championship this weekend, vying for a spot in the World Championship i...
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-Yahoo • 5h ago
+KWQC • 4h ago
 
 ---
 
@@ -160,7 +160,7 @@ Yahoo • 5h ago
 
 Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Futurism • 11h ago
+Futurism • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ The Chinese company BrainCo just shared dramatic stress footage with engineers g
 
 📺 Kalil 4.0
 
-👁️ 681 • 👍 10 • 💬 1 • ⏱️ 0:48 • 39m ago
+👁️ 681 • 👍 10 • 💬 1 • ⏱️ 0:48 • 2h ago
 
 ---
 

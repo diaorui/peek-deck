@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T04:37:34.960619+00:00'
+updated: '2026-02-16T06:06:47.064347+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- news
+- videos
 - social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 04:37 UTC  
+**Last Updated:** February 16, 2026 at 06:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,15 @@ AI news, discussions, and developments
 
 'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
 
-🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 1h ago
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 3h ago
 
 ---
 
-**[Qwen3.5 real world impact?](https://www.reddit.com/r/artificial/comments/1r5y45a/qwen35_real_world_impact/)**
+**[Customizable AI Companions.](https://www.reddit.com/r/artificial/comments/1r61jbw/customizable_ai_companions/)**
 
-Do you see practical impact?
+What if, using AI like ChatGPT, Gemini, or Grok, people were able to create real time video calls with their own customizable AI companion?
 
-1h ago
+13m ago
 
 ---
 
@@ -57,7 +57,7 @@ Do you see practical impact?
 
 Do you expect Qwen3.5 to be cheaper than GPT-4 class models?
 
-30m ago
+1h ago
 
 ---
 
@@ -65,7 +65,15 @@ Do you expect Qwen3.5 to be cheaper than GPT-4 class models?
 
 Both seem close in release timing. Which one are you more excited about?
 
-1h ago
+2h ago
+
+---
+
+**[Qwen3.5 real world impact?](https://www.reddit.com/r/artificial/comments/1r5y45a/qwen35_real_world_impact/)**
+
+Do you see practical impact?
+
+3h ago
 
 ---
 
@@ -73,7 +81,7 @@ Both seem close in release timing. Which one are you more excited about?
 
 I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +105,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-16h ago
+18h ago
 
 ---
 
@@ -105,15 +113,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
 
-19h ago
-
----
-
-**[It isn't the tool, but the hands: why the AI displacement narrative gets it backwards](https://www.reddit.com/r/artificial/comments/1r4ybm7/it_isnt_the_tool_but_the_hands_why_the_ai/)**
-
-Responding to Matt Shumer's "Something Big Is Happening" piece that's been circulating. The pace of change is real, but the "just give it a prompt" framing is self-defeating. If the prompt is all that matters, then knowing what to build and understanding the problem deeply matters MORE. Building simple shit is getting commoditized, fine. But building complex systems and actually understanding how they work? That's becoming more valuable, not less. When anyone can spin up the easy stuff, the premium shifts to the people who can architect what's hard and debug what's opaque. We also need to separate "building software" from "building AI systems", completely different trajectories. The former may be getting commoditized. The latter is not. How we use this technology, how we shape it, what we point it at, that's specifically human work. And the agent management point: if these things move fast and independently, the operator's ability to effectively manage them becomes the fulcrum of value. We are nowhere near "assign a broad goal and walk away for six months." Taste, human judgment, and understanding what other humans actually need, those make that a steep climb. Unless these systems are building for and selling to other agents, the intent of the operator and their oversight remain crucial. Like everything before AI: it isn't the tool, but the hands. Original article: https://www.linkedin.com/pulse/something-big-happening-matt-shumer-so5he
-
-1d ago
+21h ago
 
 ---
 
@@ -125,21 +125,21 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 10h ago
+The Washington Post • 12h ago
+
+---
+
+**['The dark side of AI': Wall Street weighs recent stock sell-off over disruption fears](https://finance.yahoo.com/news/the-dark-side-of-ai-wall-street-weighs-recent-stock-sell-off-over-disruption-fears-160054016.html)**
+
+Investor concerns over AI's disruption drove a stock market sell-off in the wealth management, transportation, and logistics industries.
+
+Yahoo Finance • 8h ago
 
 ---
 
 **[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
 
-Bloomberg.com • 14h ago
-
----
-
-**[Investors reluctant to ‘buy the dip’ after AI scares](https://www.ft.com/content/2432a3ac-7dbc-4c5c-8921-3a34c2c68ccd)**
-
-Sectors including wealth management and trucking have been hit with sudden share price declines
-
-Financial Times • 23h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -147,7 +147,7 @@ Financial Times • 23h ago
 
 Looking back at last week's volatility could gives some clues for the trading week ahead.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -155,43 +155,43 @@ CNBC • 20h ago
 
 Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
 
-BBC • 49m ago
+BBC • 2h ago
 
 ---
 
-**[KPMG partner fined over using AI to pass AI test](https://www.ft.com/content/c30ded60-bece-45e0-981d-653e1e3e9818)**
+**[Disney sends cease-and-desist to ByteDance over AI-generated videos](https://www.reuters.com/world/china/disney-sends-cease-and-desist-bytedance-over-ai-generated-videos-2026-02-16/)**
 
-Accounting firm has caught several staff members in recent months using the technology for internal exams
-
-Financial Times • 1h ago
+Reuters • 1h ago
 
 ---
 
-**[University of Michigan student accused of using AI suing school; lawsuit alleges disability discrimination](https://www.cbsnews.com/detroit/news/university-michigan-student-lawsuit-ai-disability-discrimination/)**
+**[Hollywood groups condemn ByteDance's AI video generator, claiming copyright infringement](https://apnews.com/article/ai-seedance-bytedance-hollywood-copyright-7e445388401d172c6bf51d0d42aa4f24)**
 
-University of Michigan regents and faculty engaged in disability discrimination against a student accused by an instructor of using artificial intelligence to write papers, according to a lawsuit filed in federal court.
+A new artificial intelligence video generator from Beijing-based ByteDance, the creator of TikTok, is drawing the ire of Hollywood organizations.
 
-CBS News • 1h ago
-
----
-
-**[How A.I. Salaries Are Causing Couples to Rethink Money in Relationships](https://www.nytimes.com/2026/02/14/business/artificial-intelligence-relationships-income-gap.html)**
-
-The New York Times • 1d ago
+AP News • 9h ago
 
 ---
 
-**[Axios CTO is living your coming AI reality](https://www.axios.com/2026/02/15/ai-coding-tech-product-development)**
+**[MiniMax Shares Surge 25% as Optimism Over Chinese AI Firms Grows](https://www.bloomberg.com/news/articles/2026-02-16/minimax-shares-surge-25-as-optimism-over-chinese-ai-firms-grows)**
 
-Axios • 11h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[OpenClaw creator Peter Steinberger joining OpenAI, Altman Says](https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html)**
+**[Altman and Pichai among tech CEOs heading to India for major AI summit in a key market](https://www.cnbc.com/2026/02/16/india-ai-impact-summit-tech-ceos-new-delhi.html)**
 
-OpenClaw, the open source AI agent that's surged in popularity in recent weeks, will live within OpenAI, according to a post on X from Sam Altman.
+India has a market of young, tech-forward consumers and a huge pool of talent which could be key to continued development of AI.
 
-CNBC • 5h ago
+CNBC • 6h ago
+
+---
+
+**[India hosts a high-stakes AI summit, drawing 20 leaders and top tech CEOs](https://www.wral.com/news/ap/f32aa-india-hosts-a-high-stakes-ai-summit-drawing-20-leaders-and-top-tech-ceos/)**
+
+NEW DELHI (AP) — India is hosting an artificial intelligence summit this week, bringing together heads of state, senior officials and tech executives to New Delhi for a five-day gathering highlighting the growing global importance of the technology.
+
+WRAL • 17m ago
 
 ---
 
@@ -201,7 +201,7 @@ CNBC • 5h ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 736 • 💬 608 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 739 • 💬 608 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -209,7 +209,7 @@ CNBC • 5h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 553 • 💬 360 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 555 • 💬 360 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -225,7 +225,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 346 • 💬 550 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 346 • 💬 549 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -255,7 +255,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 101 • 💬 181 • 13h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 108 • 💬 181 • 14h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -271,7 +271,7 @@ It comes in the same week an OpenAI researcher resigned amid concerns about its 
 
 Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.
 
-⬆️ 53 • 💬 54 • 1d ago • [NPR](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
+⬆️ 54 • 💬 54 • 1d ago • [NPR](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
 
 ---
 
@@ -285,7 +285,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 18K • 👍 2K • 💬 398 • ⏱️ 16:13 • 3h ago
+👁️ 18K • 👍 2K • 💬 398 • ⏱️ 16:13 • 4h ago
 
 ---
 
@@ -295,7 +295,7 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 2K • 👍 76 • 💬 15 • ⏱️ 8:34 • 1h ago
+👁️ 2K • 👍 76 • 💬 15 • ⏱️ 8:34 • 2h ago
 
 ---
 
@@ -315,7 +315,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 88K • 👍 935 • 💬 444 • ⏱️ 3:04 • 1d ago
+👁️ 88K • 👍 935 • 💬 444 • ⏱️ 3:04 • 2d ago
 
 ---
 
@@ -325,7 +325,7 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 MattVidPro AI
 
-👁️ 4K • 👍 237 • 💬 27 • ⏱️ 25:55 • 6h ago
+👁️ 4K • 👍 237 • 💬 27 • ⏱️ 25:55 • 8h ago
 
 ---
 
@@ -451,7 +451,7 @@ GLM-OCR is a 0.9B parameter multimodal OCR model for complex document understand
 
 `image-to-text`
 
-⬇️ 855,997 • ❤️ 1,047 • 6d ago
+⬇️ 855,997 • ❤️ 1,047 • 7d ago
 
 ---
 
@@ -681,7 +681,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 258 • 14m ago
+⭐ 2.5k • 🔱 258 • 1h ago
 
 ---
 
@@ -701,7 +701,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 155 • 8h ago
+⭐ 2.2k • 🔱 155 • 9h ago
 
 ---
 
@@ -711,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 146 • 3h ago
+⭐ 2.1k • 🔱 146 • 4h ago
 
 ---
 
@@ -721,7 +721,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 247 • 11h ago
+⭐ 1.9k • 🔱 247 • 12h ago
 
 ---
 
