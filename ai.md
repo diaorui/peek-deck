@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-16T02:22:11.780271+00:00'
+updated: '2026-02-16T04:37:34.960619+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
+- repositories
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 16, 2026 at 02:22 UTC  
+**Last Updated:** February 16, 2026 at 04:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,43 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[‘Pulp Fiction’ co-writer Roger Avary says it was "impossible" to get his movies made until he started an AI production company: "Just Put AI in Front of It and All of a Sudden You’re in Production on Three Features"](https://www.reddit.com/r/artificial/comments/1r5xr49/pulp_fiction_cowriter_roger_avary_says_it_was/)**
+
+'Pulp Fiction' writer Roger Avary says it was 'impossible' to get his movies made until he started an AI production company.
+
+🔗 [Variety](https://variety.com/2026/film/news/pulp-fiction-writer-ai-movies-production-company-1236664074/) • 1h ago
+
+---
+
+**[Qwen3.5 real world impact?](https://www.reddit.com/r/artificial/comments/1r5y45a/qwen35_real_world_impact/)**
+
+Do you see practical impact?
+
+1h ago
+
+---
+
+**[Qwen3.5 cost efficiency?](https://www.reddit.com/r/artificial/comments/1r5zgyb/qwen35_cost_efficiency/)**
+
+Do you expect Qwen3.5 to be cheaper than GPT-4 class models?
+
+30m ago
+
+---
+
+**[Qwen3.5 vs DeepSeek — which matters more?](https://www.reddit.com/r/artificial/comments/1r5yhq9/qwen35_vs_deepseek_which_matters_more/)**
+
+Both seem close in release timing. Which one are you more excited about?
+
+1h ago
+
+---
+
 **[Looking for early testers for my competitive analysis tool (Claude needed currently)](https://www.reddit.com/r/artificial/comments/1r5vyxv/looking_for_early_testers_for_my_competitive/)**
 
 I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
 
-1h ago
+3h ago
 
 ---
 
@@ -65,7 +97,7 @@ The U.S. military used Anthropic's Claude AI model during the operation to captu
 
 Hello, I'm currently a student studying Translation and Interpretation studies, and I need to translate an article about AI for school. It needs to be 10 - 15 standard pages long, the more reliable source the better. All of the ones I found so far were either too short or too long, so I'd like to aks for your help. Thank you.
 
-14h ago
+16h ago
 
 ---
 
@@ -73,7 +105,7 @@ Hello, I'm currently a student studying Translation and Interpretation studies, 
 
 Hallucinations are a problem with all AI chatbots, and it’s healthy to develop the habit of not trusting them, here are a a couple of simple ways i use to get better answers, or get more visibility into how the chat arrived at that answer so i can decide if i can trust the answer or not. (Note: none of these is bulletproof: never trust AI with critical stuff where a mistake is catastrophic) “Double check your answer”. Super simple. You’d be surprise how often Claude will find a problem and provide a better answer. If the cost of a mistake is high, I will often rise and repeat, with: “Are you sure?” “Take a deep breath and think about it”. Research shows adding this to your requests gets you better answers. Why? Who cares. It does. Source: https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/ “Use chain of thought”. This is a powerful one. Add this to your requests gets, and Claude will lay out its logic behind the answer. You’ll notice the answers are better, but more importantly it gives you a way to judge whether Claude is going about it the right way. Try: > How many windows are in Manhattan. Use chain of thought > What’s wrong with my CV? I’m getting not interviews. Use chain of thought. —— If you have more techniques for validation, would be awesome if you can share! 💚 P.S. originally posted on r/ClaudeHomies
 
-17h ago
+19h ago
 
 ---
 
@@ -85,38 +117,6 @@ Responding to Matt Shumer's "Something Big Is Happening" piece that's been circu
 
 ---
 
-**[We have been building and working on a local AI with memory and persistence](https://www.reddit.com/r/artificial/comments/1r4wnlo/we_have_been_building_and_working_on_a_local_ai/)**
-
-We have built a local model running on a Mac Studio M3 Ultra, 32-core CPU, 80-core GPU, 32-core Neural Engine, 512GB unified memory. With a 5-tiered memory architecture that can be broken down as follows: Working memory - This keeps the immediate conversational context. Vector Store - Semantic memory for conceptual retrieval. Knowledge graph (Neo4j) - A symbolic relational map of hard facts and entities. Timeline log - A chronological record of every event and interaction. Lessons - A distilled layer of extracted truths and behavioural patterns. Interactions with Ernos are written to these tiers in real time. When Ernos responds to you, he has processed your prompt through the lens of everything he has ever learnt. Ernos also has an algorithm that operates independently of user prompts, working through his memory of interactions, identifying contradictions, and then aligning his internal knowledge graph with external reality. This also happens against Ernos’ own ‘thoughts’, verifying his own claims against the internet and codebase, adjusting to what is empirically true. If Ernos fails, or has a hallucination, it is caught, analysed, and fixed, in a self-correcting feedback loop that perpetually refines the internal model to match the physical and digital world he inhabits. A digital ‘Robert Rosen Anticipatory System’. These two systems enable Ernos to adopt a position, defend it with evidence, and evolve a personality over time based on genuine experiences rather than pre-programmed templates. If you are still reading this (and I can appreciate it’s dry), thank you. I would be interested to know your thoughts and criticisms. Also if you would like to test Ernos, or try to disprove his claims/break him, we would truly appreciate inquisitive minds to do so.
-
-1d ago
-
----
-
-**[AI Coding Won’t Replace Human Developers — Here’s Why I’m Actually Optimistic About It](https://www.reddit.com/r/artificial/comments/1r5b70z/ai_coding_wont_replace_human_developers_heres_why/)**
-
-Everyone’s screaming that “AI coding is going to replace human developers” — doomers everywhere saying programmers are doomed, software companies will get swallowed up, the whole industry is toast. But after watching this space closely, I think the reality is way less apocalyptic. Here’s a slightly contrarian take I’d love to hear your thoughts on. First off: yes, AI is insanely powerful and it’s already transforming dev productivity. No denying that. It cranks out boilerplate, debugs, refactors, writes tests, and even spits out initial architecture ideas at ridiculous speed. A lot of people’s workflows have shifted from “writing code from scratch” to “reviewing + guiding AI.” I’m using it daily and I strongly recommend everyone jump on board ASAP — the earlier you adapt, the bigger the edge. That said, here’s the part I think gets overlooked: AI won’t truly replace humans anytime soon. Why? Because at its core, AI is still a super-smart mimic — like a brilliant but literal-minded kid. It excels at copying patterns it’s seen before, following established rules, and replicating what’s worked in the past. But it fundamentally doesn’t grasp human intent and variability. Humans are messy and changeable in ways that define real complexity: - Requirements flip on a dime - Priorities shift based on business whims, user feedback, or even “the boss had a bad morning” - Context evolves mid-project - Trade-offs involve taste, long-term maintainability, “this just feels right” intuition AI is born rule-bound. When the rules don’t cover the twist, or the goal moves outside the training distribution, it hallucinates garbage, produces “correct-looking” bugs, or stubbornly sticks to outdated patterns. Right now, AI is more like an ultra-fast hammer than an architect. It nails things quickly, but you still decide what house to build, where, why, and how people will actually live in it. I suspect the honeymoon phase (maybe 1–3 more years?) will fade, and we’ll start seeing - Pure AI-generated code racks up surprisingly high maintenance debt - The best systems still need that human “craftsmanship”- - obsession over details, edge-case intuition, long-term vision, aesthetic judgment - AI feels too mechanical, too soulless; people will crave the “artisanal” touch again As for the big fear — “software companies get eaten by AI, mass layoffs for devs”: This feels a lot like the panic when steam engines showed up and horse drivers thought the world was ending. Short-term pain? Absolutely (CRUD-heavy roles shrink, junior/entry-level spots dry up, some teams go from 20 to 5 with AI leverage). But long-term? - Lower dev costs:explosion in software demand (history shows this every time tools get cheaper/faster) - More indie projects, startups, niche apps, non-traditional software (embedded, robotics, custom tools everywhere) - Traditional companies don’t vanish; they evolve — from headcount armies to smaller, sharper teams wielding AI like a force multiplier. So my vibe:don’t panic, but don’t overhype AI as god either. Embrace the change, level up your ability to steer AI effectively, and keep sharpening the irreplaceable human skills: judgment, creativity, empathy for users, and that stubborn drive to build something meaningful.
-
-16h ago
-
----
-
-**[How to bulk contact using AI?](https://www.reddit.com/r/artificial/comments/1r5co3e/how_to_bulk_contact_using_ai/)**
-
-I have a list of 10,000 contact number (mix of phone number and landlines so texting would not work), how can I efficiently contact them in bulk using AI? any suggestions? I'm not trying to scam, trying to efficiently categorize a set of data for company research.
-
-14h ago
-
----
-
-**[Only A Few AI Platforms Can Survive](https://www.reddit.com/r/artificial/comments/1r4n1u9/only_a_few_ai_platforms_can_survive/)**
-
-It does not happen very often in the history of business that an orthogonal product is invented that almost immediately doubles the revenue pool of a
-
-🔗 [The Next Platform](https://www.nextplatform.com/2026/02/11/only-a-few-ai-platforms-can-survive/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,57 +125,53 @@ It does not happen very often in the history of business that an orthogonal prod
 
 NPR’s David Greene says he was “completely freaked out” when he heard an AI voice that sounded just like his own, and he’s suing over it.
 
-The Washington Post • 8h ago
+The Washington Post • 10h ago
 
 ---
 
 **[A Stock Market Doom Loop Is Hitting Everything That Touches AI](https://www.bloomberg.com/news/articles/2026-02-15/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 14h ago
 
 ---
 
-**[Prediction: This AI Stock Will Recover Faster Than Microsoft After the Sell-Off](https://finance.yahoo.com/news/prediction-ai-stock-recover-faster-170500817.html)**
+**[Investors reluctant to ‘buy the dip’ after AI scares](https://www.ft.com/content/2432a3ac-7dbc-4c5c-8921-3a34c2c68ccd)**
 
-Most investors are overlooking a critical detail about the way this semiconductor company's business works.
+Sectors including wealth management and trucking have been hit with sudden share price declines
 
-Yahoo Finance • 9h ago
-
----
-
-**[The AI trade has entered a puzzling phase. Do we know who the winners are anymore?](https://www.cnbc.com/2026/02/15/jim-cramer-weighs-in-on-the-anthropic-fueled-software-stock-sell-off-.html)**
-
-In his Sunday column for Investing Club subscribers, Jim Cramer explores the software sell-off and Anthropic's influence on the stock market.
-
-CNBC • 8h ago
+Financial Times • 23h ago
 
 ---
 
-**[Blackstone to Lead $600 Million Investment in AI Firm Neysa](https://www.bloomberg.com/news/articles/2026-02-16/blackstone-to-lead-600-million-investment-in-ai-firm-neysa)**
+**[Global week ahead: Markets brace for more AI noise and 'scare trading'](https://www.cnbc.com/2026/02/15/global-week-ahead-markets-brace-for-more-ai-noise-and-scare-trading.html)**
 
-Bloomberg.com • 1h ago
+Looking back at last week's volatility could gives some clues for the trading week ahead.
 
----
-
-**[As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck](https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/)**
-
-C2i has raised $15 million as it tests a grid-to-GPU approach to reducing power losses in AI data centers.
-
-TechCrunch • 1h ago
+CNBC • 20h ago
 
 ---
 
-**[New Non-Volatile Memories Aren’t Just For Artificial Intelligence](https://www.forbes.com/sites/tomcoughlin/2026/02/15/new-non-volatile-memories-arent-just-for-artificial-intelligence/)**
+**[Seedance: ByteDance to to curb controversial AI app after Disney legal threat](https://www.bbc.com/news/articles/c93wq6xqgy1o)**
 
-Forbes • 16m ago
+Videos featuring Spider-Man and other characters which are Disney's intellectual property have gone viral since Seedance's update.
+
+BBC • 49m ago
 
 ---
 
-**[Obama responds to Trump sharing racist AI video depicting him as an ape](https://www.npr.org/2026/02/15/nx-s1-5715117/obama-racist-ai-video-response-trump)**
+**[KPMG partner fined over using AI to pass AI test](https://www.ft.com/content/c30ded60-bece-45e0-981d-653e1e3e9818)**
 
-"There doesn't seem to be any shame about this among people who used to feel like you had to have some sort of decorum," Obama said in an interview that was posted on YouTube Saturday.
+Accounting firm has caught several staff members in recent months using the technology for internal exams
 
-NPR • 7h ago
+Financial Times • 1h ago
+
+---
+
+**[University of Michigan student accused of using AI suing school; lawsuit alleges disability discrimination](https://www.cbsnews.com/detroit/news/university-michigan-student-lawsuit-ai-disability-discrimination/)**
+
+University of Michigan regents and faculty engaged in disability discrimination against a student accused by an instructor of using artificial intelligence to write papers, according to a lawsuit filed in federal court.
+
+CBS News • 1h ago
 
 ---
 
@@ -185,11 +181,17 @@ The New York Times • 1d ago
 
 ---
 
-**[I got laid off from Amazon after 11 years. My high school daughter taught me the biggest lesson on how to move forward.](https://www.businessinsider.com/amazon-tech-manager-laid-off-after-11-years-refreshing-change-2026-2)**
+**[Axios CTO is living your coming AI reality](https://www.axios.com/2026/02/15/ai-coding-tech-product-development)**
 
-An ex-Amazon manager says his layoff in October 2025 was a shock, but he's using this time to build AI skills, focus on his health, and apply to jobs.
+Axios • 11h ago
 
-Business Insider • 16h ago
+---
+
+**[OpenClaw creator Peter Steinberger joining OpenAI, Altman Says](https://www.cnbc.com/2026/02/15/openclaw-creator-peter-steinberger-joining-openai-altman-says.html)**
+
+OpenClaw, the open source AI agent that's surged in popularity in recent weeks, will live within OpenAI, according to a post on X from Sam Altman.
+
+CNBC • 5h ago
 
 ---
 
@@ -199,7 +201,7 @@ Business Insider • 16h ago
 
 **[An AI agent published a hit piece on me – more things have happened](https://news.ycombinator.com/item?id=47009949)**
 
-⬆️ 732 • 💬 606 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+⬆️ 736 • 💬 608 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ---
 
@@ -207,7 +209,7 @@ Business Insider • 16h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 550 • 💬 359 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 553 • 💬 360 • 1d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -215,7 +217,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting entry-level jobs—and tripling down on its hiring of young talent.
 
-⬆️ 363 • 💬 253 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
+⬆️ 365 • 💬 254 • 2d ago • [Fortune](https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/)
 
 ---
 
@@ -223,7 +225,7 @@ Gen Z jobs aren’t dead yet: $240 billion tech giant IBM says it’s rewriting 
 
 We're not in a February 2020 moment, and ordinary people will be fine
 
-⬆️ 344 • 💬 550 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
+⬆️ 346 • 💬 550 • 2d ago • [davidoks.blog](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
 
 ---
 
@@ -231,13 +233,13 @@ We're not in a February 2020 moment, and ordinary people will be fine
 
 US Border Patrol intelligence units will gain access to a face recognition tool built on billions of images scraped from the internet.
 
-⬆️ 273 • 💬 163 • 2d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
+⬆️ 274 • 💬 163 • 2d ago • [WIRED](https://www.wired.com/story/cbp-signs-clearview-ai-deal-to-use-face-recognition-for-tactical-targeting/)
 
 ---
 
 **[The "AI agent hit piece" situation clarifies how dumb we are acting](https://news.ycombinator.com/item?id=47006843)**
 
-⬆️ 242 • 💬 125 • 2d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
+⬆️ 243 • 💬 125 • 2d ago • [ardentperf.com](https://ardentperf.com/2026/02/13/the-scott-shambaugh-situation-clarifies-how-dumb-we-are-acting/)
 
 ---
 
@@ -245,7 +247,7 @@ US Border Patrol intelligence units will gain access to a face recognition tool 
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 117 • 💬 61 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 118 • 💬 63 • 1d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -253,7 +255,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 95 • 💬 173 • 11h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 101 • 💬 181 • 13h ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -265,9 +267,11 @@ It comes in the same week an OpenAI researcher resigned amid concerns about its 
 
 ---
 
-**[Ask HN: AI Depression](https://news.ycombinator.com/item?id=47001833)**
+**[Dr. Oz pushes AI avatars as a fix for rural health care](https://news.ycombinator.com/item?id=47016920)**
 
-⬆️ 53 • 💬 28 • 2d ago
+Dr. Mehmet Oz, who heads the Centers for Medicare and Medicaid Services, is advancing a $50 billion plan to modernize rural health care.
+
+⬆️ 53 • 💬 54 • 1d ago • [NPR](https://www.npr.org/2026/02/14/nx-s1-5704189/dr-oz-ai-avatars-replace-rural-health-workers)
 
 ---
 
@@ -275,33 +279,23 @@ It comes in the same week an OpenAI researcher resigned amid concerns about its 
 
 ## YouTube Videos: "ai"
 
-**[Top AI researcher warns &#39;world is in peril&#39;](https://www.youtube.com/watch?v=kdxQvljxYQk)**
+**[AI bubble latches on OpenClaw hype](https://www.youtube.com/watch?v=U5FPhnKMcKs)**
 
-New concerns over the safety of artificial intelligence are growing after the lead safety researcher at Anthropic AI resigned this ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 ABC News
+📺 Chris Norlund
 
-👁️ 148K • 👍 2K • 💬 840 • ⏱️ 3:58 • 2d ago
-
----
-
-**[Viral essay urges people to prepare for rapid advancements in artificial intelligence](https://www.youtube.com/watch?v=g8u0SlzVKAE)**
-
-If you've been on social media this week, you've likely seen an ominous warning about artificial intelligence in your feed: ...
-
-📺 CBS News
-
-👁️ 70K • 👍 1K • 💬 461 • ⏱️ 7:08 • 2d ago
+👁️ 18K • 👍 2K • 💬 398 • ⏱️ 16:13 • 3h ago
 
 ---
 
-**[We&#39;re Not Ready for What AI Is About to Do to the Economy](https://www.youtube.com/watch?v=2rldvywEU8o)**
+**[The A.I. Moral Crisis is Here](https://www.youtube.com/watch?v=UAPRa4BRXFo)**
 
-Channel members can watch the full video: https://www.youtube.com/@samharrisorg/membership SUBSCRIBE to gain access to ...
+Prominent safety researchers at two of the world's most advanced A.I. labs, OpenAI and Anthropic publicly resigned and gave dire ...
 
-📺 Sam Harris
+📺 MS NOW
 
-👁️ 201K • 👍 4K • 💬 2K • ⏱️ 9:12 • 2d ago
+👁️ 2K • 👍 76 • 💬 15 • ⏱️ 8:34 • 1h ago
 
 ---
 
@@ -311,17 +305,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 370K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
-
----
-
-**[AI is wild..](https://www.youtube.com/watch?v=L1CGUv-nXlE)**
-
-Asmongold's Twitch: https://www.twitch.tv/zackrawrr ▻ Asmongold's X: https://x.com/asmongold ▻ Asmongold's Kick: ...
-
-📺 Asmongold TV  
-
-👁️ 596K • 👍 20K • 💬 4K • ⏱️ 20:40 • 2d ago
+👁️ 378K • 👍 7K • 💬 4K • ⏱️ 9:47 • 2d ago
 
 ---
 
@@ -331,47 +315,67 @@ An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among
 
 📺 CBS LA
 
-👁️ 85K • 👍 885 • 💬 432 • ⏱️ 3:04 • 1d ago
+👁️ 88K • 👍 935 • 💬 444 • ⏱️ 3:04 • 1d ago
 
 ---
 
-**[DeepMind Leaked Possibly the Greatest AI Ever](https://www.youtube.com/watch?v=OTRvoxPSQ_8)**
+**[AI Built a FULL Game Boy in 24 Hours](https://www.youtube.com/watch?v=rdL5GNjYuME)**
 
-Sponsored by Genspark. Try the all-in-one AI workplace for free: ...
+2026 AI is getting completely out of hand. This week alone: GLM-5 built a full Game Boy emulator in 24 hours, SeeDance 2.0 is ...
 
-📺 Pourya Kordi
+📺 MattVidPro AI
 
-👁️ 31K • 👍 1K • 💬 99 • ⏱️ 13:42 • 2d ago
-
----
-
-**[It&#39;s (Finally) Bursting...](https://www.youtube.com/watch?v=yYe9YrdyJNQ)**
-
-Check out Cape and use code LOGICALLY33 to get 33% off your first six months ...
-
-📺 Logically Answered
-
-👁️ 723K • 👍 23K • 💬 4K • ⏱️ 14:39 • 2d ago
+👁️ 4K • 👍 237 • 💬 27 • ⏱️ 25:55 • 6h ago
 
 ---
 
-**[Our Economy Is In BIG TROUBLE Thanks To AI](https://www.youtube.com/watch?v=zfx4zH_EGqs)**
+**[Bruce Lee VS Jackie Chan | Full AI animation](https://www.youtube.com/watch?v=O31jAeTHAxc)**
 
-Corporate layoffs are on an upward trajectory thanks to AI. Ana Kasparian discusses on The Young Turks. Do you agree with ...
+Two Kung Fu legends, but only one can be the greatest. Jackie Chan faces Bruce Lee in the ultimate showdown for martial ...
 
-📺 The Young Turks
+📺 ShadowRivals
 
-👁️ 20K • 👍 1K • 💬 308 • ⏱️ 5:39 • 5h ago
+👁️ 53K • 👍 1K • 💬 121 • ⏱️ 2:02 • 2d ago
 
 ---
 
-**[AI News: This Video Model Has Everyone Freaked Out!](https://www.youtube.com/watch?v=msrbd-d6lWk)**
+**[We&#39;re Not Ready for What AI Is About to Do to the Economy](https://www.youtube.com/watch?v=2rldvywEU8o)**
 
-Here's the AI News You Probably Missed This Week. Check out https://hostinger.com/mattwolfe and use my code MATTWOLFE to ...
+Channel members can watch the full video: https://www.youtube.com/@samharrisorg/membership SUBSCRIBE to gain access to ...
 
-📺 Matt Wolfe
+📺 Sam Harris
 
-👁️ 88K • 👍 4K • 💬 303 • ⏱️ 30:53 • 2d ago
+👁️ 209K • 👍 4K • 💬 2K • ⏱️ 9:12 • 2d ago
+
+---
+
+**[Viral essay urges people to prepare for rapid advancements in artificial intelligence](https://www.youtube.com/watch?v=g8u0SlzVKAE)**
+
+If you've been on social media this week, you've likely seen an ominous warning about artificial intelligence in your feed: ...
+
+📺 CBS News
+
+👁️ 73K • 👍 1K • 💬 470 • ⏱️ 7:08 • 2d ago
+
+---
+
+**[This Hidden AI YouTube Niche Makes $500,000/Year](https://www.youtube.com/watch?v=FMsdH9UyI6Y)**
+
+Create AI videos with Higgsfield: https://higgsfield.ai/nano-banana-2-intro/?utm_source=DannyWhy Join My Private ...
+
+📺 Danny Why
+
+👁️ 18K • 👍 974 • 💬 115 • ⏱️ 20:50 • 1d ago
+
+---
+
+**[Laughing At Dumb AI Videos (Seedance 2)](https://www.youtube.com/watch?v=QO8VXljyJ-I)**
+
+more slop merch that ISN'T AI SLOP - https://dandingle.store/ everything in this video is AI and not real edited by: me become a ...
+
+📺 Dan Dingle
+
+👁️ 122K • 👍 8K • 💬 1K • ⏱️ 18:00 • 2d ago
 
 ---
 
@@ -387,7 +391,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 128,078 • ❤️ 1,199 • 2d ago
+⬇️ 128,078 • ❤️ 1,204 • 2d ago
 
 ---
 
@@ -399,7 +403,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 11,092 • ❤️ 608 • 1d ago
+⬇️ 11,092 • ❤️ 614 • 2d ago
 
 ---
 
@@ -423,7 +427,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 11,129 • ❤️ 420 • 2d ago
+⬇️ 11,129 • ❤️ 424 • 2d ago
 
 ---
 
@@ -435,7 +439,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 756,817 • ❤️ 2,186 • 10d ago
+⬇️ 756,817 • ❤️ 2,187 • 11d ago
 
 ---
 
@@ -459,7 +463,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 270,983 • ❤️ 869 • 12d ago
+⬇️ 270,983 • ❤️ 870 • 12d ago
 
 ---
 
@@ -483,7 +487,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,303 • ❤️ 210 • 3d ago
+⬇️ 6,303 • ❤️ 212 • 3d ago
 
 ---
 
@@ -582,18 +586,6 @@ MemOS, a memory operating system for Large Language Models, addresses memory man
 
 ---
 
-**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
-
-*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
-
-A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
-
-▲ 9 • 💬 1 • ⭐ 53,241 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -604,6 +596,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 35 • 💬 1 • ⭐ 70,363 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
+**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
+
+*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
+
+A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
+
+▲ 9 • 💬 1 • ⭐ 53,267 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
 
 ---
 
@@ -621,17 +625,15 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
-**[SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes](https://huggingface.co/papers/2602.09153)**
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
 
-*Nicholas Pfaff, Thomas Cohn, Sergey Zakharov et al. (5 authors)*
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
 
-🏢 Toyota Research Institute
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-SceneSmith is a hierarchical agentic framework that generates simulation-ready indoor environments from natural language prompts through multiple stages involving VLM agents and integrated asset generation techniques.
+▲ 134 • 💬 6 • ⭐ 14,755 • 6mo ago
 
-▲ 5 • 💬 2 • ⭐ 205 • 6d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.09153) • [💻 code](https://github.com/nepfaff/scenesmith) • [🔗 project](https://scenesmith.github.io/)
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -643,7 +645,7 @@ SceneSmith is a hierarchical agentic framework that generates simulation-ready i
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.9k • 🔱 449 • 4d ago
+⭐ 5.9k • 🔱 450 • 5d ago
 
 ---
 
@@ -651,7 +653,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 Claude Code skill that removes signs of AI-generated writing from text
 
-⭐ 4.8k • 🔱 381 • 23d ago
+⭐ 4.8k • 🔱 381 • 24d ago
 
 ---
 
@@ -661,7 +663,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.6k • 🔱 167 • 13d ago
+⭐ 3.6k • 🔱 168 • 13d ago
 
 ---
 
@@ -679,7 +681,7 @@ The agent-native LLM router powering OpenClaw — by BlockRun
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.5k • 🔱 257 • 8m ago
+⭐ 2.5k • 🔱 258 • 14m ago
 
 ---
 
@@ -689,7 +691,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 109 • 1d ago
+⭐ 2.2k • 🔱 109 • 2d ago
 
 ---
 
@@ -699,7 +701,7 @@ The visual feedback tool for agents.
 
 `TypeScript` `ai` `design` `tools` `ui`
 
-⭐ 2.2k • 🔱 155 • 5h ago
+⭐ 2.2k • 🔱 155 • 8h ago
 
 ---
 
@@ -709,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.1k • 🔱 146 • 1h ago
+⭐ 2.1k • 🔱 146 • 3h ago
 
 ---
 
@@ -719,7 +721,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 1.9k • 🔱 247 • 8h ago
+⭐ 1.9k • 🔱 247 • 11h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T02:22:11.792917+00:00'
+updated: '2026-02-16T04:37:34.975941+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 02:22 UTC  
+**Last Updated:** February 16, 2026 at 04:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.6%  
-**7d:** -2.8%  
+**24h:** -6.1%  
+**7d:** -2.7%  
 **30d:** -40.2%  
-**90d:** -35.1%  
+**90d:** -35.0%  
 **1y:** -28.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $236.78B
+**Market Cap:** $237.30B
 Rank #2
 
 **Circulating Supply:** 120,692,449 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.4%
+-60.3%
 
 **All-Time Low:** $0.43
-+452400.0%
++453628.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
 
-13h ago
+16h ago
 
 ---
 
@@ -174,15 +174,23 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
+**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
 
-Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
+Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
 Nasdaq • 1d ago
 
 ---
 
-**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
+
+The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
+
+The Motley Fool • 1d ago
+
+---
+
+**[Ethereum Foundation leadership shake-up: Tomasz Stańczak out as co-executive director](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
 
 Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
 
@@ -190,11 +198,19 @@ CoinDesk • 2d ago
 
 ---
 
-**[Got $500? 2 Cryptocurrencies to Buy and Hold for Decades.](https://www.fool.com/investing/2026/02/14/got-500-2-cryptocurrencies-to-buy-and-hold-for-dec/)**
+**[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
 
-Here's why Bitcoin and Ethereum should be in your long-term portfolio.
+Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-The Motley Fool • 1d ago
+dlnews.com • 1d ago
+
+---
+
+**[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
+
+Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
+
+BeInCrypto • 23h ago
 
 ---
 
@@ -204,27 +220,11 @@ TradingView • 1d ago
 
 ---
 
-**[Thomas Thiery: Fossil enhances transaction inclusion in Ethereum, MEV threatens decentralization, and upcoming changes will reshape block construction | Epicenter](https://cryptobriefing.com/thomas-thiery-fossil-enhances-transaction-inclusion-in-ethereum-mev-threatens-decentralization-and-upcoming-changes-will-reshape-block-construction-epicenter/)**
+**[Wrapped Bitcoin team taps Hyperlane for WBTC bridge between Ethereum and Solana](https://www.theblock.co/post/389619/wrapped-bitcoin-hyperlane-wbtc-bridge-ethereum-solana)**
 
-Fossil improves transaction inclusion guarantees by allowing validators to enforce transaction inclusion in Ethereum blocks. The design of Fossil aims to prevent MEV from compromising censorship resistance. MEV introduces a centralization force among validators, challenging decentralization.
+The Hyperlane Nexus Bridge will enable holders to transfer wBTC tokens between Ethereum and Solana, the team wrote in a press release.
 
-Crypto Briefing • 2h ago
-
----
-
-**[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
-
-Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
-
-BeInCrypto • 20h ago
-
----
-
-**[Here’s Why Dogecoin Is Outperforming Bitcoin And Ethereum Today](https://stocktwits.com/news-articles/markets/cryptocurrency/heres-why-dogecoin-is-outperforming-bitcoin-ethereum-solana-today/cZRJDiyR4ts)**
-
-Dogecoin jumped over 19% in the last 24 hours, beating Bitcoin, Ethereum, and Solana as the meme coin’s momentum rises.
-
-Stocktwits • 17h ago
+The Block • 3d ago
 
 ---
 
@@ -232,13 +232,23 @@ Stocktwits • 17h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=PYf44w0tFXc)**
+
+BITCOIN WARNING SIGNAL CONFIRMED (Get Ready)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 143 • 💬 10 • ⏱️ 17:15 • 2h ago
+
+---
+
 **[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
 
 Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https://dacfp.com/ Join us at Bitcoin Conference ...
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 490 • ⏱️ 34:57 • 1d ago
+👁️ 58K • 👍 3K • 💬 491 • ⏱️ 34:57 • 1d ago
 
 ---
 
@@ -248,7 +258,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 2K • 👍 136 • 💬 14 • ⏱️ 17:52 • 4h ago
+👁️ 3K • 👍 169 • 💬 21 • ⏱️ 17:52 • 7h ago
 
 ---
 
@@ -258,17 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 216 • 👍 27 • 💬 2 • ⏱️ 4:44 • 28m ago
-
----
-
-**[Russell 2000 Breakout: The Signal That Could Ignite Ethereum w/ John Gillen](https://www.youtube.com/watch?v=DjhaV_LhCUA)**
-
-Free Milk Road Newsletters: ...
-
-📺 Milk Road
-
-👁️ 2K • 👍 71 • 💬 40 • ⏱️ 13:02 • 12h ago
+👁️ 781 • 👍 80 • 💬 5 • ⏱️ 4:44 • 2h ago
 
 ---
 
@@ -282,13 +282,13 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Lh847otzAo8)**
+**[Russell 2000 Breakout: The Signal That Could Ignite Ethereum w/ John Gillen](https://www.youtube.com/watch?v=DjhaV_LhCUA)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Free Milk Road Newsletters: ...
 
-📺 More Crypto Online
+📺 Milk Road
 
-👁️ 3K • 👍 183 • 💬 5 • ⏱️ 4:45 • 12h ago
+👁️ 2K • 👍 78 • 💬 40 • ⏱️ 13:02 • 14h ago
 
 ---
 
@@ -298,7 +298,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 476 • 👍 18 • 💬 2 • ⏱️ 4:36 • 15h ago
+👁️ 545 • 👍 18 • 💬 2 • ⏱️ 4:36 • 18h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Lh847otzAo8)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 181 • 💬 5 • ⏱️ 4:45 • 14h ago
 
 ---
 
@@ -308,27 +318,17 @@ In this video, we take a detailed look at Ethereum (ETH) using Elliott Wave anal
 
 📺 MCO Global
 
-👁️ 3K • 👍 255 • 💬 16 • ⏱️ 5:42 • 1d ago
+👁️ 3K • 👍 258 • 💬 16 • ⏱️ 5:42 • 1d ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=IqR7R3an1-U)**
+**[Mathematician Fred Krueger: Crypto Price Predictions Are About To Go INSANE!](https://www.youtube.com/watch?v=uL0mEsAXcSY)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+Watch The FULL Interview: "Explosive Crypto Price Prediction for 2026..." FREE Daily On-Chain Analysis & Crypto News In ...
 
-📺 UCN BUDDHA TV
+📺 Library Of Wealth
 
-👁️ 2K • 👍 1K • 23m ago
-
----
-
-**[Build Your Own Ethereum DEX Arbitrage Trading Bot (Easy Tutorial) [2026]](https://www.youtube.com/watch?v=y21ItVWVhB8)**
-
-For any questions contact me on Telegram : https://t.me/cryptobotdev124 Download the bot here ...
-
-📺 Cole the DeFi Maker
-
-👁️ 4K • 👍 56 • 💬 11 • ⏱️ 7:43 • 10h ago
+👁️ 18K • 👍 570 • 💬 146 • ⏱️ 14:31 • 2d ago
 
 ---
 
