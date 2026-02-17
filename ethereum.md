@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T21:37:22.640284+00:00'
+updated: '2026-02-17T22:33:23.792442+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- videos
 - cryptocurrency
+- videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 21:37 UTC  
+**Last Updated:** February 17, 2026 at 22:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,997.43
+### $2,003.04
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.6%  
-**7d:** +2.5%  
-**30d:** -37.6%  
-**90d:** -29.9%  
-**1y:** -25.5%  
+**24h:** +0.2%  
+**7d:** +3.2%  
+**30d:** -37.2%  
+**90d:** -29.5%  
+**1y:** -25.0%  
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
-
----
-
-**[someone found a truly decentralized and fast way to swap BTC for ETH without relying on a centralized exchange?](https://www.reddit.com/r/ethereum/comments/1r79ddc/someone_found_a_truly_decentralized_and_fast_way/)**
-
-So, I’ve been diving into DeFi lately, and one thing that keeps bugging me is how tough it is to swap BTC for ETH without having to trust a centralized exchange. We all know the risks custodial issues, hacks, and CEXes going against crypto’s whole point. I’ve tried a few decentralized options, but they’re either too slow, have insane fees, or just seem too complicated for what should be straightforward. Maybe I’m missing something , has anyone actually found a solution that’s truly decentralized and doesn’t make you want to pull your hair out?
-
-5h ago
+16h ago
 
 ---
 
@@ -88,7 +80,7 @@ So, I’ve been diving into DeFi lately, and one thing that keeps bugging me is 
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-10h ago
+11h ago
 
 ---
 
@@ -144,7 +136,15 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 Posted by Jacob Czepluch on February 10, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 2d ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 3d ago
+
+---
+
+**[A better path forward for prediction markets: PMs + LLMs as a next-gen replacement for fiat currency](https://www.reddit.com/r/ethereum/comments/1r4k0gy/a_better_path_forward_for_prediction_markets_pms/)**
+
+Recently I have been starting to worry about the state of prediction markets, in their current form. They have achieved a certain level of success: market volume is high enough to make meaningful bets and have a full-time job as a trader, and they often prove useful as a supplement to other forms of news media. But also, they seem to be over-converging to an unhealthy product market fit: embracing short-term cryptocurrency price bets, sports betting, and other similar things that have dopamine value but not any kind of long-term fulfillment or societal information value. My guess is that teams feel motivated to capitulate to these things because they bring in large revenue during a bear market where people are desperate - an understandable motive, but one that leads to corposlop. I have been thinking about how we can help get prediction markets out of this rut. My current view is that we should try harder to push them into a totally different use case: hedging, in a very generalized sense (TLDR: we're gonna replace fiat currency) Prediction markets have two types of actors: (i) "smart traders" who provide information to the market, and earn money, and necessarily (ii) some kind of actor who loses money. But who would be willing to lose money and keep coming back? There are basically three answers to this question: "Naive traders": people with dumb opinions who bet on totally wrong things "Info buyers": people who set up money-losing automated market makers, to motivate people to trade on markets to help the info buyer learn information they do not know. "Hedgers": people who are -EV in a linear sense, but who use the market as insurance, reducing their risk. (1) is where we are today. IMO there is nothing fundamentally morally wrong with taking money from people with dumb opinions. But there still is something fundamentally "cursed" about relying on this too much. It gives the platform the incentive to seek out traders with dumb opinions, and create a public brand and community that encourages dumb opinions to get more people to come in. This is the slide to corposlop. (2) has always been the idealistic hope of people like Robin Hanson. However, info buying has a public goods problem: you pay for the info, but everyone in the world gets it, including those who don't pay. There are limited cases where it makes sense for one org to pay (esp. decision markets), but even there, it seems likely that the market volumes achieved with that strategy will not be too high. This gets us to (3). Suppose that you have shares in a biotech company. It's public knowledge that the Purple Party is better for biotech than the Yellow Party. So if you buy a prediction market share betting that the Yellow Party will win the next election, on average, you are reducing your risk. Mathematical example: suppose that if Purple wins, the share price will be a dice roll between [80...120], and if Yellow wins, it's between [60...100]. If you make a size $5 bet that Yellow will win, your earnings become equivalent to a dice roll between [70...110] in both cases. Taking a logarithmic model of utility, this risk reduction is worth $0.58. Now, let's get to a more fascinating example. What do people who want stablecoins ultimately want? They want price stability. They have some future expenses in mind, and they want a guarantee that will be able to pay those expenses. But if crypto grows on top of USD-backed stablecoins, crypto is ultimately not truly decentralized. Furthermore, different people have different types of expenses. There has been lots of thinking about making an "ideal stablecoin" that is based on some decentralized global price index, but what if the real solution is to go a step further, and get rid of the concept of currency altogether? Here's the idea. You have price indices on all major categories of goods and services that people buy (treating physical goods/services in different regions as different categories), and prediction markets on each category. Each user (individual or business) has a local LLM that understands that user's expenses, and offers the user a personalized basket of prediction market shares, representing "N days of that user's expected future expenses". Now, we do not need fiat currency at all! People can hold stocks, ETH, or whatever else to grow wealth, and personalized prediction market shares when they want stability. Both of these examples require prediction markets denominated in an asset people want to hold, whether interest-bearing fiat, wrapped stocks, or ETH. Non-interest-bearing fiat has too-high opportunity cost, that overwhelms the hedging value. But if we can make it work, it's much more sustainable than the status quo, because both sides of the equation are likely to be long-term happy with the product that they are buying, and very large volumes of sophisticated capital will be willing to participate. Build the next generation of finance, not corposlop.
+
+3d ago
 
 ---
 
@@ -156,7 +156,7 @@ Posted by Jacob Czepluch on February 10, 2026
 
 Ethereum’s tokenized real-world asset market cap has topped $17 billion, up nearly 315% year over year as more TradFi giants move onchain.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -172,53 +172,35 @@ Yahoo Finance • 1d ago
 
 The university's investment arm held 5.35 million shares of the iShares Bitcoin Trust valued at $265.8 million as of Dec. 31, according to SEC filings released Friday.
 
-CoinMarketCap • 1d ago
+CoinMarketCap • 5h ago
 
 ---
 
 **[Key facts: Ethereum bearish trend deepens; Harvard invests $86.8M in ETHA](https://www.tradingview.com/news/tradingview:f90a7ffed5ffc:0-key-facts-ethereum-bearish-trend-deepens-harvard-invests-86-8m-in-etha/)**
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
-**[Tom Lee Expects 'Defining Year for Ethereum' as BitMine Buys ETH Amid 'Rock Bottom' Vibes](https://finance.yahoo.com/news/tom-lee-expects-defining-ethereum-165418778.html)**
+**[BlackRock, Coinbase to keep 18% of Ethereum staking revenue in new ETF](https://finance.yahoo.com/news/blackrock-coinbase-keep-18-ethereum-203135863.html)**
 
-BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
+BlackRock and Coinbase will take an 18% cut of staking revenue from ETHB. It is well-positioned to become the largest Ethereum ETF on the market.
 
-Yahoo Finance • 4h ago
-
----
-
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
-
-The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
-
-The Motley Fool • 3d ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
+**[Ethereum At Risk Of Falling Under $996 (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4871040-ethereum-at-risk-of-falling-under-996)**
 
-Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
-
-dlnews.com • 2d ago
+Seeking Alpha • 2h ago
 
 ---
 
-**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
 
-Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
+Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
 
-Nasdaq • 2d ago
-
----
-
-**[What is Ethereum and why should you care? Paul Brody at EY](https://www.americanbanker.com/podcast/what-is-ethereum-and-why-should-you-care-paul-brody-at-ey)**
-
-JPMorganChase, Citi, Vantage Bank and Custodia Bank have all chosen Ethereum as the underpinning for blockchain projects such as tokenized deposits. The chairman of the Enterprise Ethereum Alliance explains the OG blockchain.
-
-American Banker • 7h ago
+Nasdaq • 3d ago
 
 ---
 
@@ -227,6 +209,22 @@ American Banker • 7h ago
 Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
 
 CCN.com • 1d ago
+
+---
+
+**[Tom Lee Expects 'Defining Year for Ethereum' as BitMine Buys ETH Amid 'Rock Bottom' Vibes](https://decrypt.co/358322/tom-lee-defining-year-ethereum-bitmine-buys-eth-rock-bottom-vibes)**
+
+BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
+
+Decrypt • 5h ago
+
+---
+
+**[Ethereum Creator Starting to Think This Whole Prediction Market Thing Might be Gambling](https://gizmodo.com/ethereum-creator-starting-to-think-this-whole-prediction-market-thing-might-be-gambling-2000722910)**
+
+Who knew being able to bet on everything would lead to people acting irresponsibly?
+
+Gizmodo • 2h ago
 
 ---
 
@@ -240,7 +238,7 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 189 • 💬 101 • ⏱️ 25:32 • 8h ago
+👁️ 3K • 👍 189 • 💬 101 • ⏱️ 25:32 • 9h ago
 
 ---
 
@@ -250,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 5 • ⏱️ 5:28 • 6h ago
+👁️ 2K • 👍 154 • 💬 5 • ⏱️ 5:28 • 7h ago
 
 ---
 
@@ -260,7 +258,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 121 • 💬 150 • ⏱️ 14:18 • 16h ago
+👁️ 3K • 👍 121 • 💬 150 • ⏱️ 14:18 • 17h ago
 
 ---
 
@@ -270,7 +268,7 @@ As RWA takes control of the market, we look at 3 RWA leaders: Ondo, Ethereum, an
 
 📺 Altcoin Buzz
 
-👁️ 1K • 👍 109 • 💬 63 • ⏱️ 12:17 • 3h ago
+👁️ 1K • 👍 109 • 💬 63 • ⏱️ 12:17 • 4h ago
 
 ---
 
@@ -290,7 +288,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 323 • 👍 68 • 💬 6 • ⏱️ 34:48 • 51m ago
+👁️ 323 • 👍 68 • 💬 6 • ⏱️ 34:48 • 1h ago
 
 ---
 
@@ -300,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 76 • 👍 9 • 💬 1 • ⏱️ 5:31 • 2h ago
+👁️ 76 • 👍 9 • 💬 1 • ⏱️ 5:31 • 3h ago
 
 ---
 
@@ -310,7 +308,7 @@ xrp #bitcoin #hbar #xlm #eth SEND ME YOUR BEST CRYPTO MEMES HERE   ...
 
 📺 CRYPTO with KLAUS
 
-👁️ 3K • 👍 327 • 💬 42 • ⏱️ 17:01 • 3h ago
+👁️ 3K • 👍 327 • 💬 42 • ⏱️ 17:01 • 4h ago
 
 ---
 
@@ -320,7 +318,7 @@ Bitcoin just took another brutal correction, down 50%, and no, this isn't the fi
 
 📺 Kevin O'Leary
 
-👁️ 27K • 👍 403 • 💬 54 • ⏱️ 1:34 • 21h ago
+👁️ 27K • 👍 403 • 💬 54 • ⏱️ 1:34 • 22h ago
 
 ---
 
@@ -330,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 19h ago
+👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 20h ago
 
 ---
 

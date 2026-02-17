@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T21:37:22.643487+00:00'
+updated: '2026-02-17T22:33:23.795649+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 21:37 UTC  
+**Last Updated:** February 17, 2026 at 22:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,7 @@ Robotics research and industry news
 
 I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM101. Is it faster than cooking by hand? No. But is it way cooler? I think so. Honestly, I didn't expect ACT (Action Chunking Transformer) to handle physical tasks this effectively. I thought it might be limited, but it turns out it actually performs way better when trained on short, simple primitives. So, I decomposed the cooking process into smaller tasks and implemented a high-level planner to orchestrate them. It works surprisingly well with this approach. You can see the details here 👇. https://youtu.be/SyGJ2h8aM98?si=gUOa0jV8wwxQTysp
 
-4h ago
-
----
-
-**[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
-
-14h ago
+5h ago
 
 ---
 
@@ -50,7 +44,13 @@ I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM
 
 Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
 
-6h ago
+7h ago
+
+---
+
+**[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
+
+15h ago
 
 ---
 
@@ -58,13 +58,21 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
 
-7h ago
+8h ago
 
 ---
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
 1d ago
+
+---
+
+**[Added a wide NoIR camera module to my AI robot to give it "sight"](https://www.reddit.com/r/robotics/comments/1r7kayj/added_a_wide_noir_camera_module_to_my_ai_robot_to/)**
+
+just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
+
+30m ago
 
 ---
 
@@ -78,7 +86,7 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -92,15 +100,7 @@ Hi all, A bit about me : Bachelor of technology in Electrical and Electronics fr
 
 **[Am I the only one who thinks robot fault diagnosis is way behind cars?](https://www.reddit.com/r/robotics/comments/1r6zbpt/am_i_the_only_one_who_thinks_robot_fault/)**
 
-14h ago
-
----
-
-**[Moya](https://www.reddit.com/r/robotics/comments/1r7dpip/moya/)**
-
-Moya achieved 92% human-like motion. She can maintain 32-36C. With high quality skin and advanced AI, how far Moya from being an adequate companion to someone? https://www.youtube.com/watch?v=B61etYSvMNI
-
-🔗 [youtube.com](https://www.youtube.com/shorts/i-FzVtYO80A) • 3h ago
+15h ago
 
 ---
 
@@ -108,9 +108,11 @@ Moya achieved 92% human-like motion. She can maintain 32-36C. With high quality 
 
 ## Google News: "robotics"
 
-**[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
+**[China's humanoid robots take center stage for Lunar New Year showtime](https://www.nbcnews.com/world/asia/chinas-humanoid-robots-take-center-stage-lunar-new-year-showtime-rcna259307)**
 
-Reuters • 1d ago
+Four rising humanoid robot startups demonstrated their products during the annual CCTV Spring Festival gala, a televised event and touchstone for China akin to the Super Bowl.
+
+NBC News • 13h ago
 
 ---
 
@@ -118,7 +120,15 @@ Reuters • 1d ago
 
 Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
+
+---
+
+**[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
+
+Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
+
+Fox News • 1d ago
 
 ---
 
@@ -132,23 +142,23 @@ The Economist • 1d ago
 
 Advancing are Island Robotics, Waiʻanae High School, Pearl City High School, Kaimuki Middle School, Mililani Mechs Robotics, and Waialua High & Intermediate School.  The double qualifications by these teams will allow one other Hawaiʻi team – to be determined  by the Robotics Education and Competition Foundation – to advance to the VEX Worlds.
 
-Maui Now • 1h ago
+Maui Now • 2h ago
 
 ---
 
-**[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
+**[AI·Robotics Automate 57% of Human Tasks, Study Finds](https://www.chosun.com/english/market-money-en/2026/02/18/T6ZG32GGZREHDPSXF5XTV7G6LM/)**
 
-Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
+AI·Robotics Automate 57% of Human Tasks, Study Finds Leadership and Communication Skills Remain Irreplaceable, McKinsey Global Institute Reports
 
-Fox News • 1d ago
+조선일보 • 29m ago
 
 ---
 
-**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
 
-The Economics Show 🤜🤛 FT Alphaville
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
 
-Financial Times • 1d ago
+KWQC • 1d ago
 
 ---
 
@@ -156,23 +166,15 @@ Financial Times • 1d ago
 
 Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
 
-Peak of Ohio • 12h ago
+Peak of Ohio • 13h ago
 
 ---
 
-**[Brain’s Body Image Misjudges Robotic Limbs](https://neurosciencenews.com/robotic-prosthetic-body-image-30133/)**
+**[IFR releases position paper on AI in robotics](https://www.therobotreport.com/ifr-releases-position-paper-ai-robotics/)**
 
-Your brain might be lying to you about your new robotic leg. New research shows that users often think they're walking much better—or worse—than they actually are.
+Artificial intelligence is transforming the robotics field at a rapid pace, according to the International Federation of Robotics or IFR.
 
-Neuroscience News • 2h ago
-
----
-
-**[Terrifying Humanoid Robots Are Now Patrolling The Streets Of China](https://www.bgr.com/2098825/humanoid-robot-cops-traffic-controllers-patrolling-china-streets/)**
-
-EngineAI's PM01 robot was spotted walking with police officers in Shenzen's Nashan District, and it's much more intimidating than its other models.
-
-bgr.com • 1d ago
+The Robot Report • 9m ago
 
 ---
 
@@ -180,7 +182,7 @@ bgr.com • 1d ago
 
 Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
 
-SiliconANGLE • 20h ago
+SiliconANGLE • 21h ago
 
 ---
 
@@ -204,7 +206,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 1K • 👍 50 • 💬 9 • ⏱️ 2:00 • 4h ago
+👁️ 1K • 👍 50 • 💬 9 • ⏱️ 2:00 • 5h ago
 
 ---
 
@@ -264,7 +266,7 @@ The world is ringing in the year of the Fire Horse and China is marking Lunar Ne
 
 📺 Al Jazeera English
 
-👁️ 6K • 👍 167 • 💬 108 • ⏱️ 7:31 • 4h ago
+👁️ 6K • 👍 167 • 💬 108 • ⏱️ 7:31 • 5h ago
 
 ---
 
