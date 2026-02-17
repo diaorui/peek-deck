@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T19:50:15.957497+00:00'
+updated: '2026-02-17T20:40:06.164181+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - cryptocurrency
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 19:50 UTC  
+**Last Updated:** February 17, 2026 at 20:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,003.57
+### $1,997.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** +3.1%  
-**30d:** -37.2%  
-**90d:** -29.5%  
-**1y:** -25.0%  
+**24h:** -0.6%  
+**7d:** +2.5%  
+**30d:** -37.6%  
+**90d:** -29.9%  
+**1y:** -25.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ So, I’ve been diving into DeFi lately, and one thing that keeps bugging me is 
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-8h ago
+9h ago
 
 ---
 
@@ -156,35 +156,29 @@ Posted by Jacob Czepluch on February 10, 2026
 
 Ethereum’s tokenized real-world asset market cap has topped $17 billion, up nearly 315% year over year as more TradFi giants move onchain.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
-**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://decrypt.co/358162/harvard-cuts-bitcoin-etf-stake-adds-ethereum-exposure-in-q4-filing)**
+**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://finance.yahoo.com/news/harvard-cuts-bitcoin-etf-stake-163102804.html)**
 
 Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
 
-Decrypt • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Harvard Cuts Bitcoin Holdings by 21%, Opens $87M Ethereum Position](https://coinmarketcap.com/academy/article/harvard-cuts-bitcoin-holdings-by-21percent-opens-dollar87m-ethereum-position)**
+
+The university's investment arm held 5.35 million shares of the iShares Bitcoin Trust valued at $265.8 million as of Dec. 31, according to SEC filings released Friday.
+
+CoinMarketCap • 23h ago
 
 ---
 
 **[Key facts: Ethereum bearish trend deepens; Harvard invests $86.8M in ETHA](https://www.tradingview.com/news/tradingview:f90a7ffed5ffc:0-key-facts-ethereum-bearish-trend-deepens-harvard-invests-86-8m-in-etha/)**
 
-TradingView • 19h ago
-
----
-
-**[Harvard University Opens New Position in Ethereum (ETH)](https://www.tipranks.com/news/harvard-university-opens-new-position-in-ethereum-eth)**
-
-TipRanks • 23h ago
-
----
-
-**[BMNR news: Tom Lee says crypto sentiment is as poor as 2018 and 2022 bottoms](https://www.coindesk.com/business/2026/02/17/bitmine-adds-usd90-million-in-eth-with-tom-lee-comparing-crypto-sentiment-to-2018-and-2022-bottoms)**
-
-The Ethereum treasury firm continues its buying spree with its largest weekly ETH purchase in token terms this year.
-
-CoinDesk • 5h ago
+TradingView • 20h ago
 
 ---
 
@@ -192,15 +186,7 @@ CoinDesk • 5h ago
 
 BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
 
-Yahoo Finance • 2h ago
-
----
-
-**[BitMine grows Ethereum treasury to 4.37 million ETH, sees $252 million annual staking revenue via MAVAN](https://www.theblock.co/post/390193/bitmine-grows-ethereum-treasury-to-4-37-million-eth-sees-252-million-annual-staking-revenue-via-mavan?utm_source=markets.xml&utm_medium=rss)**
-
-Tom Lee's BitMine said its ether treasury has climbed to 4.37 million ETH as the firm continues aggressive accumulation market prices.
-
-The Block • 4h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -212,11 +198,11 @@ The Motley Fool • 3d ago
 
 ---
 
-**[What is Ethereum and why should you care? Paul Brody at EY](https://www.americanbanker.com/podcast/what-is-ethereum-and-why-should-you-care-paul-brody-at-ey)**
+**[Trump Media files for new Bitcoin, Ethereum ETFs in president’s ongoing crypto blitz](https://www.dlnews.com/articles/markets/trump-media-files-for-bitcoin-ethereum-and-cro-etfs/)**
 
-JPMorganChase, Citi, Vantage Bank and Custodia Bank have all chosen Ethereum as the underpinning for blockchain projects such as tokenized deposits. The chairman of the Enterprise Ethereum Alliance explains the OG blockchain.
+Trump Media and Technology Group filed for more crypto exchange-traded funds.  One will track CRO’s performance; the other will give Bitcoin and Ethereum exposure.  President Trump has a long-list of crypto ventures.
 
-American Banker • 5h ago
+dlnews.com • 2d ago
 
 ---
 
@@ -225,6 +211,22 @@ American Banker • 5h ago
 Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
 Nasdaq • 2d ago
+
+---
+
+**[What is Ethereum and why should you care? Paul Brody at EY](https://www.americanbanker.com/podcast/what-is-ethereum-and-why-should-you-care-paul-brody-at-ey)**
+
+JPMorganChase, Citi, Vantage Bank and Custodia Bank have all chosen Ethereum as the underpinning for blockchain projects such as tokenized deposits. The chairman of the Enterprise Ethereum Alliance explains the OG blockchain.
+
+American Banker • 6h ago
+
+---
+
+**[Has Bitcoin and Ethereum Reached Price Bottom? Tom Lee Claims Crypto Winter Is “Close To Ending”](https://www.ccn.com/news/crypto/tom-lee-calls-bitcoin-and-ethereum-bottom-claims-crypto-winter/)**
+
+Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
+
+CCN.com • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 170 • 💬 68 • ⏱️ 25:32 • 6h ago
+👁️ 2K • 👍 170 • 💬 68 • ⏱️ 25:32 • 7h ago
 
 ---
 
@@ -248,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 132 • 💬 7 • ⏱️ 5:28 • 4h ago
+👁️ 1K • 👍 132 • 💬 7 • ⏱️ 5:28 • 5h ago
 
 ---
 
@@ -258,7 +260,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 116 • 💬 88 • ⏱️ 14:18 • 14h ago
+👁️ 3K • 👍 116 • 💬 88 • ⏱️ 14:18 • 15h ago
 
 ---
 
@@ -278,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 17h ago
+👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 18h ago
 
 ---
 
@@ -288,7 +290,7 @@ Bitcoin just took another brutal correction, down 50%, and no, this isn't the fi
 
 📺 Kevin O'Leary
 
-👁️ 23K • 👍 379 • 💬 49 • ⏱️ 1:34 • 19h ago
+👁️ 23K • 👍 379 • 💬 49 • ⏱️ 1:34 • 20h ago
 
 ---
 
@@ -298,7 +300,7 @@ As crypto enthusiasm turns into a wall of worry, perhaps no new threat has gaine
 
 📺 Coinage
 
-👁️ 30 • 👍 5 • ⏱️ 22:45 • 4h ago
+👁️ 30 • 👍 5 • ⏱️ 22:45 • 5h ago
 
 ---
 
@@ -318,7 +320,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 112 • 💬 10 • ⏱️ 0:07 • 18h ago
+👁️ 16K • 👍 112 • 💬 10 • ⏱️ 0:07 • 19h ago
 
 ---
 
@@ -328,7 +330,7 @@ ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter
 
 📺 EmperorBTC
 
-👁️ 984 • 👍 119 • 💬 9 • ⏱️ 17:52 • 5h ago
+👁️ 984 • 👍 119 • 💬 9 • ⏱️ 17:52 • 6h ago
 
 ---
 

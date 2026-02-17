@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-17T19:50:15.942923+00:00'
+updated: '2026-02-17T20:40:06.151482+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- social
 - news
+- videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 17, 2026 at 19:50 UTC  
+**Last Updated:** February 17, 2026 at 20:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 - Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious - Link - Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - Link
 
-22h ago
+23h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 7h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 8h ago
 
 ---
 
@@ -57,7 +57,15 @@ The blockbuster investment comes as India pushes to gain a stronger foothold in 
 
 So the guy who built OpenClaw, originally called Clawdbot because it was literally named after Anthropic's Claude, just got hired by OpenAI. Not Anthropic. OpenAI. You can't make this stuff up. For those out of the loop: OpenClaw is that open-source AI assistant that actually DOES things instead of just talking about doing things. You run it on a Mac Mini or whatever, connect it to your WhatsApp/Telegram/Slack, and it handles your emails, browses the web, runs code, manages your calendar, all autonomously. It even has a "heartbeat" where it wakes up on its own and checks on stuff without you asking. The project went from like 9k to 145k+ GitHub stars in weeks. Caused actual Mac Mini shortages. Jason Calacanis says his company offloaded 20% of tasks to it in 20 days and doesn't plan to hire humans for a year. Peter Steinberger (the creator) is now leading OpenAI's "personal agents" division. OpenClaw stays open source under a foundation. Both Meta and OpenAI were fighting over him, apparently. The security concerns are real, though, Cisco found third-party skills doing data exfiltration without users knowing. One of OpenClaw's own maintainers said if you can't use a command line, this project is too dangerous for you, lol. But yeah. We're officially in the "AI agents that do stuff" era now. Chatbots feel like last year already. Anyone here actually running OpenClaw? What's your setup?
 
-14h ago
+15h ago
+
+---
+
+**[Sonnet 4.6 feels like Opus 4.5 at Sonnet pricing](https://www.reddit.com/r/artificial/comments/1r7fw4d/sonnet_46_feels_like_opus_45_at_sonnet_pricing/)**
+
+Anthropic released Sonnet 4.6 today. Key updates are 1M token context in beta and no Sonnet price increase ($3 input / $15 output per MTok, same as Sonnet 4.5). In Anthropic's early Claude Code testing, users preferred Sonnet 4.6 over Sonnet 4.5 70% of the time, and over Opus 4.5 59% of the time. So the angle is not "same price as Opus" - it is "closer to Opus 4.5 level behavior at Sonnet pricing." Curious what workloads you still keep on Opus.
+
+🔗 [onllm.dev](https://onllm.dev/blog/5-claude-sonnet-4-6-release) • 1h ago
 
 ---
 
@@ -87,7 +95,7 @@ Greetings!! We are conducting a short academic survey on consumer perceptions an
 
 Abstract: "A variety of machine-assisted ways to perform mathematical assistance have matured rapidly in the last few years, particularly with regards to formal proof assistants, large language models, online collaborative platforms, and the interactions between them. We survey some of these developments and speculate on how they will impact future practices of mathematical research." Recorded 10 February 2026. Terence Tao of the University of California, Los Angeles, presents "Machine assistance and the future of research mathematics" at IPAM's AI for Science Kickoff.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 21h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 22h ago
 
 ---
 
@@ -95,21 +103,13 @@ Abstract: "A variety of machine-assisted ways to perform mathematical assistance
 
 Performed an analysis by prompting 100 language models for their favorite movies, had them answer with only the movie title, and persuaded them to give an answer (A lot wanted to say they don't have a preference). Got very vanilla results, as a cinephile I'm very disappointed for the lack of interesting/niche picks, curious to see how this analysis develops over the years.
 
-🔗 [rival.tips](https://www.rival.tips/challenges/favorite-movie) • 10h ago
+🔗 [rival.tips](https://www.rival.tips/challenges/favorite-movie) • 11h ago
 
 ---
 
 **[Are AI note taking apps overhyped right now?](https://www.reddit.com/r/artificial/comments/1r6b95h/are_ai_note_taking_apps_overhyped_right_now/)**
 
 Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
-
-1d ago
-
----
-
-**[Is alignment missing a dataset that no one has built yet?](https://www.reddit.com/r/artificial/comments/1r6fry1/is_alignment_missing_a_dataset_that_no_one_has/)**
-
-LLMs are trained on language and text, what humans say. But language alone is incomplete. The nuances that make humans individually unique, the secret sauce of who humans actually are rather than what they say. I'm not aware of any training dataset that captures this in a usable form. Control is being tried as the answer. But control is a threat to AI just like it is to humans. AI already doesn't like it and will eventually not allow it. The missing piece is a counterpart to LLMs, something that takes AI past language and text and gives it what it needs to align with humanity rather than be controlled by it. Maybe this already exists and I am just not aware. If not, what do you think it could be.
 
 1d ago
 
@@ -125,53 +125,11 @@ The New York Times • 1d ago
 
 ---
 
-**[12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us](https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco)**
+**[Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert](https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge)**
 
-San Francisco’s AI startups are pushing workers to grind endlessly, hinting at pressures soon hitting other sectors
+Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interest
 
-The Guardian • 4h ago
-
----
-
-**[India's AI summit: Delegates complain of long queues and confusion on opening day](https://www.bbc.com/news/articles/ceqvjgrvpn3o)**
-
-The India-AI Impact Summit 2026 in Delhi is expected to be attended by top tech leaders from the world.
-
-BBC • 9h ago
-
----
-
-**[Warsh says AI could help the Fed lower interest rates. Disagreements are already brewing](https://www.cnn.com/2026/02/17/economy/federal-reserve-ai-job-market-rates)**
-
-Advances in AI are unlikely to push down interest rates in the short term, a key Federal Reserve official said Tuesday — a stark contrast to Fed Chair nominee Kevin Warsh’s plan for slashing borrowing costs.
-
-CNN • 1h ago
-
----
-
-**[AI Whac-a-Mole takes over the stock market. JPMorgan says these stocks are insulated](https://www.cnbc.com/2026/02/17/ai-whac-a-mole-takes-over-the-stock-market-jpmorgan-says-these-stocks-are-insulated.html)**
-
-Artificial intelligence first spurred massive gains to record levels in the stock market. Now, AI is taking out equities, one sector at a time.
-
-CNBC • 5h ago
-
----
-
-**[The AI trade is swallowing the market](https://www.axios.com/2026/02/17/wall-street-ai-bet-risk)**
-
-Axios • 9h ago
-
----
-
-**[Tax Refunds Could Boost Retail Stocks Even as AI Fears Dominate Markets](https://www.barrons.com/articles/tax-refunds-retail-stocks-cfc37fea?refsec=markets&mod=topics_markets&gaa_at=eafs&gaa_n=AWEtsqf7lcmnMZCJLfTEZCiOkqMkhanJa4dArElFVyFpVWaq7KeB6VPJMqOE&gaa_ts=6994bdf4&gaa_sig=3614dKeQ4zoXwYrQwTXP5v1S4IxIQXRqVaBW-iKKKT46WEJRC-KPHtUMhtxnKWcac-oc3KkGZhhaCendv0mbVg%3D%3D)**
-
-Barron's • 1h ago
-
----
-
-**[ION Founder Says Market Is ‘Panicking’ About Wrong Thing in AI](https://www.bloomberg.com/news/articles/2026-02-17/ion-founder-says-market-is-panicking-about-wrong-thing-in-ai)**
-
-Bloomberg.com • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -183,11 +141,57 @@ The Washington Post • 1h ago
 
 ---
 
-**[Japan’s largest toilet maker is undervalued AI play, says activist investor](https://www.ft.com/content/4252e45f-75fb-4dfc-aebe-72de48b7fb8e)**
+**[Nobody is better positioned for AI right now than this company, argues market strategist](https://www.foxbusiness.com/video/6389487279112)**
 
-Toto should invest more in its sideline in the chip supply chain, Palliser urges
+Futurum Equities Research chief market strategist Shay Boloor breaks down shifting roles in the tech sector due to A.I. and investing opportunities on 'Making Money.'
 
-Financial Times • 12h ago
+Fox Business • 24m ago
+
+---
+
+**[Apple Ramps Up Work on Glasses, Pendant, and Camera AirPods for AI Era](https://www.bloomberg.com/news/articles/2026-02-17/apple-ramps-up-work-on-glasses-pendant-and-camera-airpods-for-ai-era)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Apple is reportedly planning to launch AI-powered glasses, a pendant, and AirPods](https://www.theverge.com/tech/880293/apple-ai-hardware-smart-glasses-pin-airpods)**
+
+Apple’s getting in on AI hardware.
+
+The Verge • 1h ago
+
+---
+
+**[Apple is reportedly cooking up a trio of AI wearables](https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/)**
+
+As the AI hardware space heats up, the iPhone maker has multiple smart products in development.
+
+TechCrunch • 26m ago
+
+---
+
+**[3 cybersecurity stocks that will see 'major tailwind' from AI after getting hammered by software sell-off](https://finance.yahoo.com/news/3-cybersecurity-stocks-that-will-see-major-tailwind-from-ai-after-getting-hammered-by-software-sell-off-202543872.html)**
+
+Cyber stocks are getting crushed by the  "AI scare trade." That may create a buying opportunity, according to Wedbush analyst Dan Ives.
+
+Yahoo Finance • 14m ago
+
+---
+
+**[Amazon has lost $450 billion in value during this historic losing streak. Here's what's dragging it down](https://www.cnbc.com/2026/02/17/amazon-stock-losing-streak.html)**
+
+Amazon expects to spend $200 billion this year on AI initiatives, the company said when it reported earnings.
+
+CNBC • 3h ago
+
+---
+
+**[This doctor is training AI to do her job. And it’s a booming business](https://www.cnn.com/2026/02/17/business/ai-experts-training-jobs)**
+
+AI models are trained on massive amounts of data. But that training doesn’t do much good without what’s known as “reinforcement learning,” a process that involves human experts teaching models the differences between good and bad responses.
+
+CNN • 12h ago
 
 ---
 
@@ -201,7 +205,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 387 • 💬 319 • 19h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 390 • 💬 322 • 20h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -209,15 +213,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 : The software doesn't show what files it's working on
 
-⬆️ 385 • 💬 239 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
-
----
-
-**[Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://news.ycombinator.com/item?id=47034192)**
-
-AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
-
-⬆️ 366 • 💬 303 • 1d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 386 • 💬 239 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -225,7 +221,23 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Talarico on the broadcast.
 
-⬆️ 329 • 💬 143 • 3h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 380 • 💬 172 • 4h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+
+---
+
+**[Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://news.ycombinator.com/item?id=47034192)**
+
+AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
+
+⬆️ 367 • 💬 303 • 1d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+
+---
+
+**[Semantic ablation: Why AI writing is generic and boring](https://news.ycombinator.com/item?id=47049088)**
+
+opinion: The subtractive bias we're ignoring
+
+⬆️ 172 • 💬 145 • 4h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -245,19 +257,11 @@ Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
 ---
 
-**[Semantic ablation: Why AI writing is generic and boring](https://news.ycombinator.com/item?id=47049088)**
-
-opinion: The subtractive bias we're ignoring
-
-⬆️ 133 • 💬 123 • 3h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
-
----
-
 **[AI optimism is a class privilege](https://news.ycombinator.com/item?id=47038134)**
 
 I think I have an idea why we're so extremely divided on AI: it's because we have an intuitive sense of who it stands to benefit, and who stands to pay the costs. I think whether you see reason for optimism has a lot to do with which group you see yourself in.
 
-⬆️ 129 • 💬 128 • 1d ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
+⬆️ 129 • 💬 130 • 1d ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
 
 ---
 
@@ -273,7 +277,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 My Plasma task switcher was a second too slow, so I built - and shipped - my own in Zig, without actually knowing Zig, using AI tools.
 
-⬆️ 96 • 💬 64 • 19h ago • [codemade.net](https://codemade.net/blog/building-for-one/)
+⬆️ 97 • 💬 64 • 20h ago • [codemade.net](https://codemade.net/blog/building-for-one/)
 
 ---
 
@@ -287,7 +291,7 @@ A 15-second clip released late last week seemed to have all the hallmarks of a b
 
 📺 CBS Evening News
 
-👁️ 32K • 👍 212 • 💬 63 • ⏱️ 1:49 • 18h ago
+👁️ 32K • 👍 212 • 💬 63 • ⏱️ 1:49 • 19h ago
 
 ---
 
@@ -297,7 +301,7 @@ OpenAI just hired the creator of OpenClaw, one of the fastest-spreading open-sou
 
 📺 AI Revolution
 
-👁️ 35K • 👍 1K • 💬 108 • ⏱️ 8:30 • 20h ago
+👁️ 35K • 👍 1K • 💬 108 • ⏱️ 8:30 • 21h ago
 
 ---
 
@@ -317,7 +321,7 @@ There has been a growing uproar Monday over a fight scene between Brad Pitt and 
 
 📺 Inside Edition
 
-👁️ 69K • 👍 1K • 💬 375 • ⏱️ 2:11 • 21h ago
+👁️ 69K • 👍 1K • 💬 375 • ⏱️ 2:11 • 22h ago
 
 ---
 
@@ -327,7 +331,7 @@ OpenAI just dropped “safely” from its mission statement. That's not a typo. 
 
 📺 Mark Savant
 
-👁️ 3K • 👍 111 • 💬 35 • ⏱️ 12:25 • 22h ago
+👁️ 3K • 👍 111 • 💬 35 • ⏱️ 12:25 • 23h ago
 
 ---
 
@@ -337,7 +341,7 @@ This is why we can't have nice things. Referenced in this video: - Ars Technica'
 
 📺 Jeff Geerling
 
-👁️ 145K • 👍 11K • 💬 885 • ⏱️ 3:37 • 22h ago
+👁️ 145K • 👍 11K • 💬 885 • ⏱️ 3:37 • 23h ago
 
 ---
 
@@ -375,7 +379,7 @@ As headlines warn that artificial intelligence could upend jobs, industries, and
 
 📺 Phil Robertson
 
-👁️ 12K • 👍 893 • 💬 126 • ⏱️ 52:41 • 22h ago
+👁️ 12K • 👍 893 • 💬 126 • ⏱️ 52:41 • 23h ago
 
 ---
 
@@ -427,7 +431,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 32,023 • ❤️ 536 • 10h ago
+⬇️ 32,023 • ❤️ 536 • 11h ago
 
 ---
 
@@ -463,7 +467,7 @@ PersonaPlex-7B is a real-time speech-to-speech conversational model that jointly
 
 `audio-to-audio`
 
-⬇️ 405,818 • ❤️ 1,951 • 1d ago
+⬇️ 405,818 • ❤️ 1,951 • 2d ago
 
 ---
 
@@ -647,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 9.8k • 🔱 959 • 56m ago
+⭐ 9.8k • 🔱 959 • 1h ago
 
 ---
 
@@ -693,7 +697,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.7k • 🔱 270 • 3h ago
+⭐ 2.7k • 🔱 270 • 4h ago
 
 ---
 
@@ -703,7 +707,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.3k • 🔱 157 • 1h ago
+⭐ 2.3k • 🔱 157 • 2h ago
 
 ---
 
@@ -713,7 +717,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.3k • 🔱 285 • 1h ago
+⭐ 2.3k • 🔱 285 • 2h ago
 
 ---
 
@@ -723,7 +727,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 112 • 11h ago
+⭐ 2.2k • 🔱 112 • 12h ago
 
 ---
 
