@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T16:31:42.771029+00:00'
+updated: '2026-02-17T17:55:36.959151+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 16:31 UTC  
+**Last Updated:** February 17, 2026 at 17:55 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,984.30
+### $1,958.18
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.3%  
-**7d:** +2.3%  
-**30d:** -37.7%  
-**90d:** -30.1%  
-**1y:** -25.6%  
+**24h:** -0.5%  
+**7d:** +0.9%  
+**30d:** -38.5%  
+**90d:** -31.0%  
+**1y:** -26.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So, I’ve been diving into DeFi lately, and one thing that keeps bugging me is how tough it is to swap BTC for ETH without having to trust a centralized exchange. We all know the risks custodial issues, hacks, and CEXes going against crypto’s whole point. I’ve tried a few decentralized options, but they’re either too slow, have insane fees, or just seem too complicated for what should be straightforward. Maybe I’m missing something , has anyone actually found a solution that’s truly decentralized and doesn’t make you want to pull your hair out?
 
-49m ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ So, I’ve been diving into DeFi lately, and one thing that keeps bugging me is 
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Suppose I have a time series and a trading bot. I want to prove this trading bot
 
 Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
 
-21h ago
+22h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
 
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 22h ago
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 1d ago
 
 ---
 
@@ -152,6 +152,14 @@ Posted by Jacob Czepluch on February 10, 2026
 
 ## Google News: "ethereum"
 
+**[Ethereum's tokenized RWA market jumps more than 300% year over year as value tops $17 billion](https://www.theblock.co/post/390130/ethereum-tokenized-rwa-market-jump)**
+
+Ethereum’s tokenized real-world asset market cap has topped $17 billion, up nearly 315% year over year as more TradFi giants move onchain.
+
+The Block • 6h ago
+
+---
+
 **[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://decrypt.co/358162/harvard-cuts-bitcoin-etf-stake-adds-ethereum-exposure-in-q4-filing)**
 
 Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
@@ -164,13 +172,13 @@ Decrypt • 1d ago
 
 Harvard's rotation from Bitcoin to ETH has raised the primary question—what do they know?
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[Key facts: Ethereum bearish trend deepens; Harvard invests $86.8M in ETHA](https://www.tradingview.com/news/tradingview:f90a7ffed5ffc:0-key-facts-ethereum-bearish-trend-deepens-harvard-invests-86-8m-in-etha/)**
 
-TradingView • 16h ago
+TradingView • 17h ago
 
 ---
 
@@ -178,15 +186,7 @@ TradingView • 16h ago
 
 JPMorganChase, Citi, Vantage Bank and Custodia Bank have all chosen Ethereum as the underpinning for blockchain projects such as tokenized deposits. The chairman of the Enterprise Ethereum Alliance explains the OG blockchain.
 
-American Banker • 2h ago
-
----
-
-**[Polygon Flips Ethereum in Daily Fees as Polymarket Oscar Betting Hits $15M](https://finance.yahoo.com/news/polygon-flips-ethereum-daily-fees-115337339.html)**
-
-Polygon just pulled off something no one saw coming. It flipped Ethereum in daily transaction fees. For the first time ever.On Friday alone, Polygon brought in about $407,100 in fees. Ethereum? Around $211,700. That is almost double.Activity on Polymarket has exploded, and prediction markets are suddenly turning into serious revenue ...
-
-Yahoo Finance • 4h ago
+American Banker • 3h ago
 
 ---
 
@@ -194,15 +194,15 @@ Yahoo Finance • 4h ago
 
 The Ethereum treasury firm continues its buying spree with its largest weekly ETH purchase in token terms this year.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Ethereum's tokenized RWA market jumps more than 300% year over year as value tops $17 billion](https://www.theblock.co/post/390130/ethereum-tokenized-rwa-market-jump)**
+**[Tom Lee Expects 'Defining Year for Ethereum' as BitMine Buys ETH Amid 'Rock Bottom' Vibes](https://finance.yahoo.com/news/tom-lee-expects-defining-ethereum-165418778.html)**
 
-Ethereum’s tokenized real-world asset market cap has topped $17 billion, up nearly 315% year over year as more TradFi giants move onchain.
+BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
 
-The Block • 5h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -214,19 +214,19 @@ The Motley Fool • 3d ago
 
 ---
 
-**[Has Bitcoin and Ethereum Reached Price Bottom? Tom Lee Claims Crypto Winter Is “Close To Ending”](https://www.ccn.com/news/crypto/tom-lee-calls-bitcoin-and-ethereum-bottom-claims-crypto-winter/)**
-
-Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
-
-CCN.com • 1d ago
-
----
-
 **[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
 
 Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
 Nasdaq • 2d ago
+
+---
+
+**[Has Bitcoin and Ethereum Reached Price Bottom? Tom Lee Claims Crypto Winter Is “Close To Ending”](https://www.ccn.com/news/crypto/tom-lee-calls-bitcoin-and-ethereum-bottom-claims-crypto-winter/)**
+
+Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
+
+CCN.com • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 138 • 💬 44 • ⏱️ 25:32 • 3h ago
+👁️ 1K • 👍 138 • 💬 44 • ⏱️ 25:32 • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 103 • 💬 88 • ⏱️ 14:18 • 11h ago
+👁️ 2K • 👍 103 • 💬 88 • ⏱️ 14:18 • 12h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 541 • 👍 78 • 💬 4 • ⏱️ 5:28 • 1h ago
+👁️ 541 • 👍 78 • 💬 4 • ⏱️ 5:28 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 14h ago
+👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 15h ago
 
 ---
 
@@ -290,7 +290,7 @@ Bitcoin just took another brutal correction, down 50%, and no, this isn't the fi
 
 📺 Kevin O'Leary
 
-👁️ 20K • 👍 344 • 💬 45 • ⏱️ 1:34 • 16h ago
+👁️ 20K • 👍 344 • 💬 45 • ⏱️ 1:34 • 17h ago
 
 ---
 
@@ -300,7 +300,7 @@ Account Open From Here - Delta India - (CRYPTO BROKER) https://india.delta.excha
 
 📺 Intelligent Trader
 
-👁️ 5K • 👍 444 • 2h ago
+👁️ 5K • 👍 444 • 3h ago
 
 ---
 
@@ -320,7 +320,7 @@ BITCOIN & ALTCOIN WARNING: Don't Get Trapped Here!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 258 • 💬 49 • ⏱️ 17:40 • 17h ago
+👁️ 6K • 👍 258 • 💬 49 • ⏱️ 17:40 • 19h ago
 
 ---
 
@@ -330,7 +330,7 @@ ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter
 
 📺 EmperorBTC
 
-👁️ 414 • 👍 67 • 💬 6 • ⏱️ 17:52 • 2h ago
+👁️ 414 • 👍 67 • 💬 6 • ⏱️ 17:52 • 3h ago
 
 ---
 

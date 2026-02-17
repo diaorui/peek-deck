@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-17T16:31:42.765071+00:00'
+updated: '2026-02-17T17:55:36.952017+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 16:31 UTC  
+**Last Updated:** February 17, 2026 at 17:55 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,862.30
+### $67,270.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** +0.6%  
-**30d:** -27.2%  
-**90d:** -22.5%  
-**1y:** -29.4%  
+**24h:** -1.2%  
+**7d:** +0.1%  
+**30d:** -27.5%  
+**90d:** -22.9%  
+**1y:** -29.8%  
 
 ---
 
@@ -77,17 +77,33 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin ownership change in 2025](https://www.reddit.com/r/Bitcoin/comments/1r79p2b/bitcoin_ownership_change_in_2025/)**
+
+An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
+
+2h ago
+
+---
+
 **[While paper hands run away, Strategy has acquired 2,486 BTC for ~$168.4 million at ~$67,710 per coin. As of 2/16/2026, they HODL 717,131 BTC acquired for ~$54.52 billion at ~$76,027 per bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1r75u1n/while_paper_hands_run_away_strategy_has_acquired/)**
 
 February 17, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 3h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 4h ago
+
+---
+
+**[The Dutch passed a 36% tax on unrealized gains for crypto…](https://www.reddit.com/r/Bitcoin/comments/1r7bycz/the_dutch_passed_a_36_tax_on_unrealized_gains_for/)**
+
+https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-crypto-stock-and-bond-gains/ Uh oh…
+
+48m ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -95,15 +111,7 @@ February 17, 2026
 
 Let's say you have 210 BTC, would you keep it all in one wallet or would you have different hardware wallets?
 
-4h ago
-
----
-
-**[Bitcoin ownership change in 2025](https://www.reddit.com/r/Bitcoin/comments/1r79p2b/bitcoin_ownership_change_in_2025/)**
-
-An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
-
-38m ago
+5h ago
 
 ---
 
@@ -111,39 +119,13 @@ An estimated 66.7% (14M BTC) is still owned by individuals per River. The big qu
 
 Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
 
-17h ago
+18h ago
 
 ---
 
-**[Heat from bitcoin mining system to warm Manitoba greenhouse](https://www.reddit.com/r/Bitcoin/comments/1r7349q/heat_from_bitcoin_mining_system_to_warm_manitoba/)**
+**[Still awesome, 8 years old gem](https://www.reddit.com/r/Bitcoin/comments/1r7c3vq/still_awesome_8_years_old_gem/)**
 
-Mentioned in the Daily, though it's post worthy. Canaan Inc., a Singapore-based bitcoin mining hardware manufacturer, has partnered with Richmond, B.C.-based Bitforest Investment Ltd. on a Manitoba pilot project to reuse the heat from a computing system for a greenhouse. As pressure ramps up to find ways of addressing the high energy use of computing facilities like data centres, Canaan is “looking to partner with companies like (Bitforest) who have ideas for innovative ways to use heat reuse systems,” Canaan’s vice-president of corporate affairs Gwyn Lauber told Sustainable Biz Canada in an interview. The companies plan to recover heat from a three-megawatt (MW) Avalon computing system made by Canaan and redirect it to a nearby greenhouse where it will help grow tomatoes. As a proof-of-concept, it will give Canaan an idea of the efficiency of such technology as it considers similar efforts for the future. Canaan was founded in 2013 by Nangeng Zhang, its CEO and chairman. The company produces bitcoin mining equipment for corporations and individuals. Zhang married his fascination with bitcoin mining and energy efficiency through Canaan, Lauber said. For example, it makes equipment that doubles as a home heater. Bitforest is a data centre and greenhouse investor, builder and manager, according to its website. It will be responsible for the greenhouse heat reuse project. Sustainable Biz Canada has reached out to Bitforest for comment. We will update this article with any additional information if it becomes available. An incredibly efficient system In large computing facilities, the heat is often removed with liquid cooling. A closed loop of pipes carries a fluid through the machines to absorb the thermal energy, where it is then expelled outdoors. The cooled fluid is then recirculated to be reused. For the Canaan-Bitforest project, the companies are taking a different route. Rather than wasting the heat generated by the servers, which are to be held in four liquid-cooling containers outside the greenhouse, the heat recovery system will capture it to preheat the intake water for the greenhouse’s boilers. Doing so would reduce the energy needed to warm up the facility. Canaan estimates approximately 90 per cent of the electricity consumed by the computing servers will be recirculated throughout the greenhouse. “So it should be an incredibly efficient system,” Lauber said. The pilot is expected to begin in Q2 and run for 24 months. “The ultimate goal is for the technology to either be self-sustaining – make the greenhouse self-sustaining and to be the only heat source,” she explained, “or something that will be supplementing other forms of heat.” The heat recovery system is expected to offset some of the heating costs of the greenhouse. An undisclosed company is the owner of the greenhouse
-
-🔗 [sustainablebiz.ca](https://sustainablebiz.ca/heat-from-bitcoin-mining-system-to-warm-manitoba-greenhouse) • 5h ago
-
----
-
-**[no fees or spread on CashApp BTW! THANK YOU JACK DORSEY](https://www.reddit.com/r/Bitcoin/comments/1r6dkd2/no_fees_or_spread_on_cashapp_btw_thank_you_jack/)**
-
-Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on Square merchants. (most restaurants and places use Square to process credit and debit cards) and NO FEES OR SPREAD if you use Direct Deposit or DCA daily weekly monthly! ORRRR if you purchase over $2K of Bitcoin whenever. CashApp made a post being ONLY Bitcoin and how they want to make it every day money and support it HEAVILY
-
-1d ago
-
----
-
-**[Funny accident](https://www.reddit.com/r/Bitcoin/comments/1r73i12/funny_accident/)**
-
-Ended up using Strike as my main contender to purchase bitcoin. I need a document to provide I live at my residential home listed, issue is I live hours from my permanent adress due to college. So I can’t sell or send money but I can buy, ironically enough just gonna have what I have there sit until I return home in 2 years and see what happens. Like a little saving account and if things go up at graduation I get a little present for dental school. Gonna come back to this post and let ya’ll know how it goes.
-
-5h ago
-
----
-
-**[Everyone's asking where BTCs bottom is...](https://www.reddit.com/r/Bitcoin/comments/1r6oapb/everyones_asking_where_btcs_bottom_is/)**
-
-I found it!
-
-17h ago
+43m ago
 
 ---
 
@@ -151,7 +133,23 @@ I found it!
 
 Brazil reintroduces Bill 4501 to build a 1 million BTC strategic reserve over five years.   The proposal allows tax payments in Bitcoin and bans the sale of | Bitget crypto news!
 
-🔗 [Bitget](https://www.bitget.com/news/detail/12560605200239?utm_source=chatgpt.com) • 6h ago
+🔗 [Bitget](https://www.bitget.com/news/detail/12560605200239?utm_source=chatgpt.com) • 8h ago
+
+---
+
+**[Heat from bitcoin mining system to warm Manitoba greenhouse](https://www.reddit.com/r/Bitcoin/comments/1r7349q/heat_from_bitcoin_mining_system_to_warm_manitoba/)**
+
+Mentioned in the Daily, though it's post worthy. Canaan Inc., a Singapore-based bitcoin mining hardware manufacturer, has partnered with Richmond, B.C.-based Bitforest Investment Ltd. on a Manitoba pilot project to reuse the heat from a computing system for a greenhouse. As pressure ramps up to find ways of addressing the high energy use of computing facilities like data centres, Canaan is “looking to partner with companies like (Bitforest) who have ideas for innovative ways to use heat reuse systems,” Canaan’s vice-president of corporate affairs Gwyn Lauber told Sustainable Biz Canada in an interview. The companies plan to recover heat from a three-megawatt (MW) Avalon computing system made by Canaan and redirect it to a nearby greenhouse where it will help grow tomatoes. As a proof-of-concept, it will give Canaan an idea of the efficiency of such technology as it considers similar efforts for the future. Canaan was founded in 2013 by Nangeng Zhang, its CEO and chairman. The company produces bitcoin mining equipment for corporations and individuals. Zhang married his fascination with bitcoin mining and energy efficiency through Canaan, Lauber said. For example, it makes equipment that doubles as a home heater. Bitforest is a data centre and greenhouse investor, builder and manager, according to its website. It will be responsible for the greenhouse heat reuse project. Sustainable Biz Canada has reached out to Bitforest for comment. We will update this article with any additional information if it becomes available. An incredibly efficient system In large computing facilities, the heat is often removed with liquid cooling. A closed loop of pipes carries a fluid through the machines to absorb the thermal energy, where it is then expelled outdoors. The cooled fluid is then recirculated to be reused. For the Canaan-Bitforest project, the companies are taking a different route. Rather than wasting the heat generated by the servers, which are to be held in four liquid-cooling containers outside the greenhouse, the heat recovery system will capture it to preheat the intake water for the greenhouse’s boilers. Doing so would reduce the energy needed to warm up the facility. Canaan estimates approximately 90 per cent of the electricity consumed by the computing servers will be recirculated throughout the greenhouse. “So it should be an incredibly efficient system,” Lauber said. The pilot is expected to begin in Q2 and run for 24 months. “The ultimate goal is for the technology to either be self-sustaining – make the greenhouse self-sustaining and to be the only heat source,” she explained, “or something that will be supplementing other forms of heat.” The heat recovery system is expected to offset some of the heating costs of the greenhouse. An undisclosed company is the owner of the greenhouse
+
+🔗 [sustainablebiz.ca](https://sustainablebiz.ca/heat-from-bitcoin-mining-system-to-warm-manitoba-greenhouse) • 6h ago
+
+---
+
+**[The risk of waiting for an “extreme Bitcoin bottom”](https://www.reddit.com/r/Bitcoin/comments/1r7bctz/the_risk_of_waiting_for_an_extreme_bitcoin_bottom/)**
+
+A common idea during market downturns is to wait for a massive crash before buying Bitcoin. On paper, this sounds logical: buy when prices are deeply discounted. In reality, markets rarely give perfectly timed entry points that everyone expects. Extreme price targets often become psychological anchors rather than realistic planning tools. When severe market drops happen, uncertainty and fear usually increase, which can make decision-making harder. Bitcoin’s fixed supply is often discussed as a long-term fundamental factor. However, individual market participants approach accumulation differently. Some focus on gradual accumulation strategies, while others attempt to time large market moves. Both approaches carry different types of risk. From a risk management perspective, it can be useful to ask: If Bitcoin experienced a severe market drop, would you feel confident accumulating? Or would market uncertainty make you more cautious? Curious how others here think about long term accumulation vs trying to time extreme market events. (Not financial advice — discussion only.)
+
+1h ago
 
 ---
 
@@ -163,27 +161,43 @@ Brazil reintroduces Bill 4501 to build a 1 million BTC strategic reserve over fi
 
 Should you swap your gold holdings for bitcoin? Discover our analysis on the price ratio of the two "debasement" assets
 
-Real Investment Advice • 7h ago
+Real Investment Advice • 8h ago
 
 ---
 
-**[Crypto Is a Victim of Its Own Success](https://www.theatlantic.com/ideas/2026/02/crypto-crash-bitcoin-value/685994/)**
+**[Bitcoin vs. iShares Bitcoin Trust: The Better Investment for 2026 and Beyond](https://finance.yahoo.com/news/bitcoin-vs-ishares-bitcoin-trust-142000517.html)**
 
-Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
+Since Bitcoin has been such a stellar performer in the long run, investors want exposure.
 
-The Atlantic • 1d ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin vs. iShares Bitcoin Trust: The Better Investment for 2026 and Beyond](https://www.fool.com/investing/2026/02/17/bitcoin-vs-ishares-bitcoin-trust-better-investment/)**
+
+Since Bitcoin has been such a stellar performer in the long run, investors want exposure.
+
+The Motley Fool • 3h ago
+
+---
+
+**[Crypto slides as tech stocks and gold retreat; bitcoin-Nasdaq correlation turns positive](https://www.coindesk.com/markets/2026/02/17/crypto-slides-as-tech-stocks-and-gold-retreat-bitcoin-nasdaq-correlation-turns-positive)**
+
+CoinDesk • 6h ago
 
 ---
 
 **[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
 
-Bloomberg.com • 29m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
+**[Strategy (MSTR) news: company added 2,486 bitcoin last week](https://www.coindesk.com/markets/2026/02/17/michael-saylor-s-strategy-purchased-usd168-million-in-bitcoin-last-week)**
 
-x.com • 23h ago
+The company's stack is now 717,131 bitcoin acquired for $54.52 billion, or $76,027 per coin. Bitcoin's current price is $68,000.
+
+CoinDesk • 4h ago
 
 ---
 
@@ -191,43 +205,31 @@ x.com • 23h ago
 
 Strategy reported its fourth-largest Bitcoin purchase of the year, a week after Michael Saylor's defense of the company's became a meme.
 
-Yahoo Finance • 18m ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin price will fall to $10,000 as crypto ‘bubble is imploding,’ warns Bloomberg analyst](https://finance.yahoo.com/news/bitcoin-price-fall-10-000-090428129.html)**
+**[Return of 'YOLO' market: Wells Fargo thinks hefty tax refunds will boost bitcoin and these speculative stocks](https://www.cnbc.com/2026/02/17/return-of-yolo-market-wells-fargo-thinks-hefty-tax-refunds-will-boost-bitcoin.html)**
 
-Bitcoin is set to collapse by another 85%, analyst warns. AI disruption fears trigger broad stock market selloff.
+Bitcoin and stocks such as Robinhood and Boeing could surge as potentially higher tax refunds this season lead investors to splurge on riskier trades.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin price news: BTC falls alongside key software ETF (IGV)](https://www.coindesk.com/markets/2026/02/17/bitcoin-slips-below-usd67-000-as-software-stocks-continue-to-plunge)**
-
-CoinDesk • 27m ago
+CNBC • 32m ago
 
 ---
 
-**[Bitcoin Declines as Geopolitical Tension Adds to Risk-Off Mood](https://www.bloomberg.com/news/articles/2026-02-17/bitcoin-declines-as-geopolitical-tension-adds-to-risk-off-mood)**
+**[Nakamoto to acquire Bitcoin Magazine, hedge fund UTXO Management in all-stock deal](https://finance.yahoo.com/news/nakamoto-acquire-bitcoin-magazine-hedge-142719330.html)**
 
-Bloomberg.com • 1h ago
+The acquisition is an all-stock transaction valued at approximately $107.3 million based on Nakamoto’s February 13 closing price of $0.2951.
 
----
-
-**[CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Drops 2.2%, Leading Index Lower](https://www.coindesk.com/coindesk-indices/2026/02/17/coindesk-20-performance-update-bitcoin-cash-bch-drops-2-2-leading-index-lower)**
-
-Ripple (XRP), down 1.5% from Monday, was also an underperformer.
-
-CoinDesk • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Metaplanet posts $619 million net loss on bitcoin valuation as holdings climb to 35,102 BTC](https://www.theblock.co/post/390048/metaplanet-posts-619-million-net-loss-on-bitcoin-valuation-as-holdings-climb-to-35102-btc)**
+**[In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
 
-Metaplanet posted a $619 million FY2025 loss on its bitcoin valuation, while its total holdings jumped to 35,102 BTC and revenue surged.
+As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
-The Block • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -273,6 +275,14 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 ---
 
+**[Bitcoin oracle that sells cryptographically signed price data for micropayments](https://news.ycombinator.com/item?id=47050321)**
+
+SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
+
+⬆️ 2 • 💬 0 • 19m ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+
+---
+
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
 ⬆️ 2 • 💬 0 • 2d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
@@ -281,7 +291,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
-⬆️ 1 • 💬 1 • 2h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+⬆️ 1 • 💬 1 • 4h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -301,14 +311,6 @@ Real-time market microstructure with quantitative context.
 
 ---
 
-**[Michael Green discusses Bitcoin [video]](https://news.ycombinator.com/item?id=46983956)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 1 • 💬 0 • 5d ago • [youtube.com](https://www.youtube.com/watch?v=6eFKqTg6GS4)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -319,7 +321,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 142 • 💬 8 • ⏱️ 49:39 • 1h ago
+👁️ 2K • 👍 142 • 💬 8 • ⏱️ 49:39 • 2h ago
 
 ---
 
@@ -329,7 +331,7 @@ Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will 
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 554 • ⏱️ 10:49 • 14h ago
+👁️ 64K • 👍 3K • 💬 554 • ⏱️ 10:49 • 16h ago
 
 ---
 
@@ -339,7 +341,7 @@ Bitcoin #Crypto #Finance One of the most influential insiders in Bitcoin and glo
 
 📺 The Wolf Of All Streets
 
-👁️ 4K • 👍 347 • 💬 30 • ⏱️ 1:02:24 • 1h ago
+👁️ 4K • 👍 347 • 💬 30 • ⏱️ 1:02:24 • 2h ago
 
 ---
 
@@ -349,7 +351,7 @@ One of Bitcoin's most respected macro analysts, Lyn Alden, joins Natalie for a c
 
 📺 Natalie Brunell
 
-👁️ 10K • 👍 756 • 💬 140 • ⏱️ 55:19 • 5h ago
+👁️ 10K • 👍 756 • 💬 140 • ⏱️ 55:19 • 6h ago
 
 ---
 
@@ -359,7 +361,7 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemin
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 426 • 💬 47 • ⏱️ 7:50 • 7h ago
+👁️ 5K • 👍 426 • 💬 47 • ⏱️ 7:50 • 8h ago
 
 ---
 
@@ -369,7 +371,7 @@ The Netherlands just passed a 36% unrealized gains tax on crypto, stocks, and bo
 
 📺 Coin Bureau
 
-👁️ 8K • 👍 765 • 💬 227 • ⏱️ 11:56 • 2h ago
+👁️ 8K • 👍 765 • 💬 227 • ⏱️ 11:56 • 3h ago
 
 ---
 
@@ -379,7 +381,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 3K • 👍 410 • 2h ago
+👁️ 3K • 👍 410 • 3h ago
 
 ---
 
@@ -389,7 +391,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 14K • 👍 1K • 💬 77 • ⏱️ 51:48 • 7h ago
+👁️ 14K • 👍 1K • 💬 77 • ⏱️ 51:48 • 9h ago
 
 ---
 
@@ -409,7 +411,7 @@ Mainstream media is screaming "CRYPTO WINTER!" — and that's exactly why I just
 
 📺 Davinci Jeremie
 
-👁️ 7K • 👍 507 • 💬 67 • ⏱️ 21:16 • 19h ago
+👁️ 7K • 👍 507 • 💬 67 • ⏱️ 21:16 • 20h ago
 
 ---
 

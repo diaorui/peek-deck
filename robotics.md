@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T16:31:42.774220+00:00'
+updated: '2026-02-17T17:55:36.962522+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 16:31 UTC  
+**Last Updated:** February 17, 2026 at 17:55 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[I got tired of making midnight snacks, so I built Panbot 🤖🥞 (SO-ARM101 Project)](https://www.reddit.com/r/robotics/comments/1r7bpyc/i_got_tired_of_making_midnight_snacks_so_i_built/)**
+
+I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM101. Is it faster than cooking by hand? No. But is it way cooler? I think so. Honestly, I didn't expect ACT (Action Chunking Transformer) to handle physical tasks this effectively. I thought it might be limited, but it turns out it actually performs way better when trained on short, simple primitives. So, I decomposed the cooking process into smaller tasks and implemented a high-level planner to orchestrate them. It works surprisingly well with this approach. You can see the details here 👇. https://youtu.be/SyGJ2h8aM98?si=gUOa0jV8wwxQTysp
+
+56m ago
+
+---
+
 **[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
 
-9h ago
+10h ago
+
+---
+
+**[The humanoid form factor implies more than it delivers in industry](https://www.reddit.com/r/robotics/comments/1r78ba3/the_humanoid_form_factor_implies_more_than_it/)**
+
+Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
+
+2h ago
 
 ---
 
@@ -48,7 +64,7 @@ Robotics research and industry news
 
 I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
 
-2h ago
+4h ago
 
 ---
 
@@ -56,13 +72,7 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 I am a final-year B.Tech student with experience in robotics. I have applied for various roles such as Robotics Software Engineer and Software Engineer - Autonomous Vehicles at several companies, including Nvidia, but have unfortunately received multiple rejections. I would greatly appreciate any assistance or guidance you could offer.
 
-8h ago
-
----
-
-**[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
-
-17h ago
+10h ago
 
 ---
 
@@ -70,15 +80,13 @@ I am a final-year B.Tech student with experience in robotics. I have applied for
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I'd been building. The feedback was really helpful, and I've been heads-down since then working on the biggest request: Python support. v0.3.0 is out, and Python is now a first-class language alongside Rust. Topics, services, actions, parameters — everything works in Python with full code generation, type-safe dataclasses, and asyncio support out of the box. You can even mix Python and Rust nodes in the same project. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python support.
 
-2h ago
+4h ago
 
 ---
 
-**[The humanoid form factor implies more than it delivers in industry](https://www.reddit.com/r/robotics/comments/1r78ba3/the_humanoid_form_factor_implies_more_than_it/)**
+**[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
-
-1h ago
+18h ago
 
 ---
 
@@ -86,19 +94,11 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 Hi all, A bit about me : Bachelor of technology in Electrical and Electronics from a tier 3 Indian Uni 4 years of Work experience in warehouse robots, writing software and building algorithms. Mostly worked on mapping and SLAM, but have also worked on motor controllers, CAN drivers etc. IELTS : 8.5 Moving to and working in the UK had always been a dream to me, so I decided to take the shot and pursue masters in the hopes of working and staying in the UK. I want to know the communities opinion and insights on the robotics scenario there and which university and location would be the best bet to pursue my dreams further. I have currently got admits from King's College London, University of Bristol and Sheffield university. I am a bit confused on choosing between Bristol and King's and would appreciate your insights 😇 Now I will list the Pros and Cons of each university , please note that this is just a personal list gathered from people who I have interacted on LinkedIn, so might be a bit biased. I know both are great Unis! **University of Bristol** Pros QS ranking 51 Bristol Robotics Lab - largest in the UK Fees 36,750/- pounds lower living costs as it is outside London Cons outside London, so less networking and Job opportunities Got some negative reviews from people who studied there regarding academics. **2. Kings College London** Pros QS ranking 30 Center of Robotics Lab higher Russell group and popular university more networking and job opportunities as Central London location Cons high fees : 40,700 pounds London is more expensive in terms of living
 
-2h ago
+4h ago
 
 ---
 
 **[Am I the only one who thinks robot fault diagnosis is way behind cars?](https://www.reddit.com/r/robotics/comments/1r6zbpt/am_i_the_only_one_who_thinks_robot_fault/)**
-
-9h ago
-
----
-
-**[How do you handle messy 3D scans before simulation? (Isaac / Gazebo / ROS)](https://www.reddit.com/r/robotics/comments/1r6y9n1/how_do_you_handle_messy_3d_scans_before/)**
-
-I’m doing a bit of research on sim-to-real workflows and wanted to understand how people deal with “non-perfect” models. If you scan something quickly (phone scan / photogrammetry) or download a random OBJ from the internet: • Do you manually fix the mesh before using it? • Do you calculate inertia / collision yourself? • Do you already have internal scripts for this? • Roughly how long does this prep take per object? I’m not promoting anything — just trying to learn where this part of the pipeline is painful (or if it isn’t). Would really appreciate hearing how teams handle this in practice.
 
 10h ago
 
@@ -118,7 +118,7 @@ Reuters • 1d ago
 
 Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Fox News • 23h ago
+Fox News • 1d ago
 
 ---
 
@@ -134,21 +134,13 @@ KWQC • 1d ago
 
 Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
 
-Peak of Ohio • 7h ago
+Peak of Ohio • 8h ago
 
 ---
 
 **[Americans are unleashing their anger on food-delivery robots](https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots)**
 
-The Economist • 22h ago
-
----
-
-**[Artimus Robotics is launching next-generation artificial muscles and seeking partners to evaluate the technology in markets requiring dexterous robotic manipulation.](https://finance.yahoo.com/news/artimus-robotics-launching-next-generation-150000063.html)**
-
-Today, Artimus Robotics has announced its newest generation of contracting HASEL actuators. Through continued improvements in material science and manufacturing processes, these new actuators deliver more than twice the mechanical output performance than the previous generation. Additionally, new actuators are fully encapsulated for safer interaction and ease of integration into robotic systems. With these developments, Artimus is now one step closer to commercializing artificial muscles that re
-
-Yahoo Finance • 1h ago
+The Economist • 23h ago
 
 ---
 
@@ -156,15 +148,15 @@ Yahoo Finance • 1h ago
 
 Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
 
-SiliconANGLE • 15h ago
+SiliconANGLE • 16h ago
 
 ---
 
-**[China has another solution to its shrinking population: robots](https://edition.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
+**[Artimus Robotics is launching next-generation artificial muscles and seeking partners to evaluate the technology in markets requiring dexterous robotic manipulation.](https://finance.yahoo.com/news/artimus-robotics-launching-next-generation-150000063.html)**
 
-China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
+Today, Artimus Robotics has announced its newest generation of contracting HASEL actuators. Through continued improvements in material science and manufacturing processes, these new actuators deliver more than twice the mechanical output performance than the previous generation. Additionally, new actuators are fully encapsulated for safer interaction and ease of integration into robotic systems. With these developments, Artimus is now one step closer to commercializing artificial muscles that re
 
-CNN • 3d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +172,15 @@ Financial Times • 1d ago
 
 Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Futurism • 1d ago
+Futurism • 2d ago
+
+---
+
+**[West Michigan robotics manufacturer raises record $165,000 for charity](https://www.mlive.com/news/grand-rapids/2026/02/west-michigan-robotics-manufacturer-raises-record-165000-for-charity.html)**
+
+JR Automation raised more than $165,000 for local nonprofits in 2025 through its employee-led charity program.
+
+MLive.com • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 79K • 👍 2K • 💬 296 • ⏱️ 9:26 • 22h ago
+👁️ 79K • 👍 2K • 💬 296 • ⏱️ 9:26 • 23h ago
 
 ---
 
@@ -254,7 +254,7 @@ chinesenewyear #robots These Unitree's humanoid robots can do Kung Fu like veter
 
 📺 Li Jingjing 李菁菁
 
-👁️ 11K • 👍 1K • 💬 192 • ⏱️ 7:36 • 7h ago
+👁️ 11K • 👍 1K • 💬 192 • ⏱️ 7:36 • 9h ago
 
 ---
 
@@ -264,7 +264,7 @@ Humanoid robots equipped with traditional weaponry took center stage alongside h
 
 📺 Times Now World
 
-👁️ 1K • 👍 35 • 💬 18 • ⏱️ 6:06 • 7h ago
+👁️ 1K • 👍 35 • 💬 18 • ⏱️ 6:06 • 8h ago
 
 ---
 
