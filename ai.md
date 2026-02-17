@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-17T05:57:52.770952+00:00'
+updated: '2026-02-17T07:08:52.149918+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
+- social
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 17, 2026 at 05:57 UTC  
+**Last Updated:** February 17, 2026 at 07:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,7 @@ AI news, discussions, and developments
 
 - Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious - Link - Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - Link
 
-8h ago
-
----
-
-**[Pentagon threatens Anthropic punishment](https://www.reddit.com/r/artificial/comments/1r6j30h/pentagon_threatens_anthropic_punishment/)**
-
-🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 10h ago
+10h ago
 
 ---
 
@@ -55,7 +49,13 @@ AI news, discussions, and developments
 
 So the guy who built OpenClaw, originally called Clawdbot because it was literally named after Anthropic's Claude, just got hired by OpenAI. Not Anthropic. OpenAI. You can't make this stuff up. For those out of the loop: OpenClaw is that open-source AI assistant that actually DOES things instead of just talking about doing things. You run it on a Mac Mini or whatever, connect it to your WhatsApp/Telegram/Slack, and it handles your emails, browses the web, runs code, manages your calendar, all autonomously. It even has a "heartbeat" where it wakes up on its own and checks on stuff without you asking. The project went from like 9k to 145k+ GitHub stars in weeks. Caused actual Mac Mini shortages. Jason Calacanis says his company offloaded 20% of tasks to it in 20 days and doesn't plan to hire humans for a year. Peter Steinberger (the creator) is now leading OpenAI's "personal agents" division. OpenClaw stays open source under a foundation. Both Meta and OpenAI were fighting over him, apparently. The security concerns are real, though, Cisco found third-party skills doing data exfiltration without users knowing. One of OpenClaw's own maintainers said if you can't use a command line, this project is too dangerous for you, lol. But yeah. We're officially in the "AI agents that do stuff" era now. Chatbots feel like last year already. Anyone here actually running OpenClaw? What's your setup?
 
-22m ago
+1h ago
+
+---
+
+**[Pentagon threatens Anthropic punishment](https://www.reddit.com/r/artificial/comments/1r6j30h/pentagon_threatens_anthropic_punishment/)**
+
+🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 11h ago
 
 ---
 
@@ -71,7 +71,7 @@ So the guy who built OpenClaw, originally called Clawdbot because it was literal
 
 Abstract: "A variety of machine-assisted ways to perform mathematical assistance have matured rapidly in the last few years, particularly with regards to formal proof assistants, large language models, online collaborative platforms, and the interactions between them. We survey some of these developments and speculate on how they will impact future practices of mathematical research." Recorded 10 February 2026. Terence Tao of the University of California, Los Angeles, presents "Machine assistance and the future of research mathematics" at IPAM's AI for Science Kickoff.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 7h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 8h ago
 
 ---
 
@@ -79,7 +79,7 @@ Abstract: "A variety of machine-assisted ways to perform mathematical assistance
 
 Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
 
-15h ago
+16h ago
 
 ---
 
@@ -87,7 +87,7 @@ Every few weeks there’s a new “best AI note taking app” claiming to fix me
 
 Quick update on Izwi (local audio inference engine) - we've shipped some major features: What's New: Speaker Diarization - Automatically identify and separate multiple speakers using Sortformer models. Perfect for meeting transcripts. Forced Alignment - Word-level timestamps between audio and text using Qwen3-ForcedAligner. Great for subtitles. Real-Time Streaming - Stream responses for transcribe, chat, and TTS with incremental delivery. Multi-Format Audio - Native support for WAV, MP3, FLAC, OGG via Symphonia. Performance - Parallel execution, batch ASR, paged KV cache, Metal optimizations. Model Support: TTS: Qwen3-TTS (0.6B, 1.7B), LFM2.5-Audio ASR: Qwen3-ASR (0.6B, 1.7B), Parakeet TDT, LFM2.5-Audio Chat: Qwen3 (0.6B, 1.7), Gemma 3 (1B) Diarization: Sortformer 4-speaker Docs: https://izwiai.com/ Github Repo: https://github.com/agentem-ai/izwi Give us a star on GitHub and try it out. Feedback is welcome!!!
 
-🔗 [izwiai.com](https://izwiai.com/) • 15h ago
+🔗 [izwiai.com](https://izwiai.com/) • 16h ago
 
 ---
 
@@ -95,7 +95,7 @@ Quick update on Izwi (local audio inference engine) - we've shipped some major f
 
 LLMs are trained on language and text, what humans say. But language alone is incomplete. The nuances that make humans individually unique, the secret sauce of who humans actually are rather than what they say. I'm not aware of any training dataset that captures this in a usable form. Control is being tried as the answer. But control is a threat to AI just like it is to humans. AI already doesn't like it and will eventually not allow it. The missing piece is a counterpart to LLMs, something that takes AI past language and text and gives it what it needs to align with humanity rather than be controlled by it. Maybe this already exists and I am just not aware. If not, what do you think it could be.
 
-12h ago
+13h ago
 
 ---
 
@@ -121,59 +121,13 @@ Mustafa Suleyman believes current AI computational power will only accelerate, d
 
 **[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
-The New York Times • 11h ago
+The New York Times • 13h ago
 
 ---
 
-**[China's tech shock threatens the U.S. AI monopoly and is 'just getting started'](https://www.cnbc.com/2026/02/16/chinas-tech-shock-ai-monopoly-us.html)**
+**[India's AI Summit opening in New Delhi marred by long queues, confusion](https://www.reuters.com/world/india/indias-ai-summit-opening-new-delhi-marred-by-long-queues-confusion-2026-02-16/)**
 
-"You could see easily a world where maybe most of the world's population is running on a Chinese tech stack in five to 10 years time," one analyst told CNBC.
-
-CNBC • 17h ago
-
----
-
-**[China AI Startup Moonshot Seeks $10 Billion Value in New Funding](https://www.bloomberg.com/news/articles/2026-02-17/china-ai-startup-moonshot-seeks-10-billion-value-in-new-funding)**
-
-Bloomberg.com • 36m ago
-
----
-
-**[Claims that AI can help fix climate dismissed as greenwashing](https://www.theguardian.com/technology/2026/feb/17/tech-companies-traditional-ai-generative-climate-breakdown-report)**
-
-Industry using ‘diversionary’ tactics, says analyst, as energy-hungry complex functions such as video generation and deep research proliferate
-
-The Guardian • 57m ago
-
----
-
-**[From cats and dogs to Erdős: AI groups chase progress through maths](https://www.ft.com/content/cf0d9308-03d2-4e2c-bc03-d73b0bf9f71a)**
-
-OpenAI, Google DeepMind and Anthropic seek to use advanced maths to show how capable AI models really are
-
-Financial Times • 57m ago
-
----
-
-**[Stock market doom loop is hitting everything that touches AI](https://www.ocregister.com/2026/02/16/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai/)**
-
-A series of punishing selloffs have hammered dozens of companies across a number of industries.
-
-Orange County Register • 11h ago
-
----
-
-**[Big tech stocks lose billions as AI spending fears hit valuations](https://www.reuters.com/business/retail-consumer/global-markets-marketcap-2026-02-16/)**
-
-Reuters • 20h ago
-
----
-
-**[A Once-in-a-Decade Investment Opportunity: 1 Magnificent Artificial Intelligence (AI) Software Stock to Buy Hand Over Fist Right Now](https://finance.yahoo.com/news/once-decade-investment-opportunity-1-042400438.html)**
-
-Software stocks are cratering over fears of rising capital expenditures and artificial intelligence (AI) bubble concerns.
-
-Yahoo Finance • 1h ago
+Reuters • 17h ago
 
 ---
 
@@ -181,15 +135,59 @@ Yahoo Finance • 1h ago
 
 As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
-**[AI Summit 2026 Delhi: Why India's AI summit is key to its future in tech](https://www.bbc.com/news/videos/cgmlyrk28r0o)**
+**["Stand With Survivors": Bill Gates Out Of AI Summit Amid Epstein Backlash](https://www.ndtv.com/india-news/bill-gates-wont-attend-india-ai-impact-summit-2026-government-sources-say-important-to-stand-with-epstein-survivors-11013641)**
 
-The BBC's Arunoday Mukharji explains why India needs to capitalise on the momentum.
+The Gates Foundation, a philanthropic organisation set up byBill Gates, said Tuesday theMicrosoft founder will deliver the keynote address on Thursday, i.e., February 19, as scheduled.
 
-BBC • 21h ago
+NDTV • 1h ago
+
+---
+
+**[The Small English Town Swept Up in the Global AI Arms Race](https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/)**
+
+The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.
+
+WIRED • 8m ago
+
+---
+
+**[India eyes $200B in data center investments as it ramps up its AI hub ambitions](https://finance.yahoo.com/news/india-eyes-200b-data-center-064556704.html)**
+
+India is hoping to garner as much as $200 billion in investments for data centers over the next few years as it scales up its ambitions to become a hub for artificial intelligence, the country’s minister for electronics and information technology said Tuesday.  The investments underscore the reliance of tech titans on India as a key technology and talent base in the global race for AI dominance.  For New Delhi, they bring in high-value infrastructure and foreign capital at a scale that can accelerate its digital transformation ambitions.
+
+Yahoo Finance • 23m ago
+
+---
+
+**[Exclusive: Pentagon warns Anthropic will "pay a price" as feud escalates](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth)**
+
+Axios • 17h ago
+
+---
+
+**[Pentagon threatens to cut off Anthropic in AI safeguards dispute: Report](https://www.cnbc.com/2026/02/16/pentagon-threatens-anthropic-ai-safeguards-dispute.html)**
+
+The Pentagon is pushing Anthropic, OpenAI, Google and xAI to let it use AI tools for weapons development, intelligence collection and battlefield operations.
+
+CNBC • 14h ago
+
+---
+
+**[Anthropic’s Pentagon Talks Snag on AI for Surveillance, Weapons](https://www.bloomberg.com/news/articles/2026-02-16/pentagon-is-close-to-cutting-ties-with-anthropic-axios-says)**
+
+Bloomberg.com • 4h ago
+
+---
+
+**[Alibaba unveils Qwen3.5 as China’s chatbot race shifts to AI agents](https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html)**
+
+Alibaba Group has released its newest AI model series, featuring new agentic capabilities, as competition in China's AI space ramps up.
+
+CNBC • 3h ago
 
 ---
 
@@ -209,7 +207,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 : The software doesn't show what files it's working on
 
-⬆️ 372 • 💬 225 • 18h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 372 • 💬 225 • 20h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -217,7 +215,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 350 • 💬 289 • 17h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 350 • 💬 289 • 18h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -227,7 +225,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 308 • 💬 237 • 5h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 322 • 💬 247 • 6h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -235,7 +233,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last.This is a...
 
-⬆️ 146 • 💬 238 • 12h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+⬆️ 149 • 💬 239 • 13h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 
 ---
 
@@ -251,7 +249,7 @@ Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 122 • 💬 64 • 2d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 123 • 💬 64 • 2d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -259,7 +257,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 I think I have an idea why we're so extremely divided on AI: it's because we have an intuitive sense of who it stands to benefit, and who stands to pay the costs. I think whether you see reason for optimism has a lot to do with which group you see yourself in.
 
-⬆️ 117 • 💬 112 • 11h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
+⬆️ 118 • 💬 115 • 13h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
 
 ---
 
@@ -267,7 +265,7 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 Learn maths, computing, and artificial intelligence with intuition. - HenryNdubuaku/maths-cs-ai-compendium
 
-⬆️ 70 • 💬 16 • 14h ago • [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+⬆️ 71 • 💬 17 • 15h ago • [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 
 ---
 
@@ -283,53 +281,23 @@ kubectl for AI Agents. Contribute to klawsh/klaw.sh development by creating an a
 
 ## YouTube Videos: "ai"
 
+**[AI-generated fight video of Tom Cruise and Brad Pitt sparks backlash in Hollywood](https://www.youtube.com/watch?v=zf83B7zSBVA)**
+
+A 15-second clip released late last week seemed to have all the hallmarks of a big Hollywood studio: two mega-famous leading ...
+
+📺 CBS Evening News
+
+👁️ 11K • 👍 118 • 💬 27 • ⏱️ 1:49 • 5h ago
+
+---
+
 **[AI Is Taking Everything - We Are Being Priced Out](https://www.youtube.com/watch?v=Ap3m9lutSvY)**
 
 PlayStation 6 delays, hardware prices increasing by massive amounts. AI is taking everything and causing prices to skyrocket.
 
 📺 Stylosa
 
-👁️ 7K • 👍 292 • 💬 179 • ⏱️ 25:36 • 12h ago
-
----
-
-**[AI Safety Experts WARN: “You Have No Idea What&#39;s Coming&quot;](https://www.youtube.com/watch?v=nVRQ_ZxXKgg)**
-
-Artificial intelligence and robotics are advancing at a pace few people are prepared for and AI experts are warning about the ...
-
-📺 MotivationHub
-
-👁️ 10K • 👍 174 • 💬 35 • ⏱️ 13:16 • 15h ago
-
----
-
-**[AI-generated video of Brad Pitt and Tom Cruise stirs concern in Hollywood](https://www.youtube.com/watch?v=c8qUe3nc6Tg)**
-
-An AI-generated video of Brad Pitt and Tom Cruise fighting sparked concern among Hollywood studios and actors. Lauren Pozen ...
-
-📺 CBS LA
-
-👁️ 118K • 👍 1K • 💬 537 • ⏱️ 3:04 • 3d ago
-
----
-
-**[I Found A BETTER Way To Build AI Agents](https://www.youtube.com/watch?v=_h2EnRfxMQE)**
-
-Hi my name is Chris and I build productivity apps and this is EVERYTHING I learned building an AI agent using the Anthropic ...
-
-📺 Chris Raroque
-
-👁️ 15K • 👍 762 • 💬 180 • ⏱️ 20:24 • 13h ago
-
----
-
-**[AI agent hype will bankrupt you](https://www.youtube.com/watch?v=U5FPhnKMcKs)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 70K • 👍 3K • 💬 847 • ⏱️ 16:13 • 1d ago
+👁️ 8K • 👍 308 • 💬 183 • ⏱️ 25:36 • 13h ago
 
 ---
 
@@ -339,7 +307,17 @@ There has been a growing uproar Monday over a fight scene between Brad Pitt and 
 
 📺 Inside Edition
 
-👁️ 21K • 👍 671 • 💬 185 • ⏱️ 2:11 • 7h ago
+👁️ 32K • 👍 838 • 💬 236 • ⏱️ 2:11 • 8h ago
+
+---
+
+**[AI agent hype will bankrupt you](https://www.youtube.com/watch?v=U5FPhnKMcKs)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 71K • 👍 3K • 💬 850 • ⏱️ 16:13 • 1d ago
 
 ---
 
@@ -349,7 +327,17 @@ Let's connect on LinkedIn: https://www.linkedin.com/in/christian-peverelli/ DFY 
 
 📺 Christian Peverelli - WeAreNoCode
 
-👁️ 4K • 👍 207 • 💬 10 • ⏱️ 26:27 • 15h ago
+👁️ 5K • 👍 235 • 💬 12 • ⏱️ 26:27 • 17h ago
+
+---
+
+**[NVIDIA’s Insane AI Found The Math Of Reality](https://www.youtube.com/watch?v=WNsSzX0L4Es)**
+
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
+
+📺 Two Minute Papers
+
+👁️ 81K • 👍 5K • 💬 258 • ⏱️ 9:10 • 1d ago
 
 ---
 
@@ -359,27 +347,37 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 22K • 👍 373 • 💬 87 • ⏱️ 8:34 • 1d ago
+👁️ 24K • 👍 376 • 💬 91 • ⏱️ 8:34 • 1d ago
 
 ---
 
-**[1 Person A.I. Business Nobody is Talking About](https://www.youtube.com/watch?v=PvzITkaXd9Q)**
+**[I Asked AI To Recreate An Image From A Single Pixel](https://www.youtube.com/watch?v=Li4CqMXTfs0)**
 
-In this video I show you how to use Notion and Claude Ai to make your own versions of the best-selling planners to sell online!
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
 
-📺 Alek
+📺 Sambucha
 
-👁️ 13K • 👍 777 • 💬 44 • ⏱️ 14:41 • 13h ago
+👁️ 1.5M • 👍 70K • 💬 433 • ⏱️ 0:50 • 12h ago
 
 ---
 
-**[FREE vs Paid AI Video Generators: What&#39;s the Actual Difference?](https://www.youtube.com/watch?v=aW6-xQdEAno)**
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
 
-Access ALL Paid AI Video Generators in OpenArt https://roboverse-ai.com/OpenArt In this video, I break down the real ...
+news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
 
-📺 Roboverse
+📺 Tyrone Magnus
 
-👁️ 9K • 💬 5 • ⏱️ 8:52 • 14h ago
+👁️ 39K • 👍 2K • 💬 425 • ⏱️ 9:43 • 1d ago
+
+---
+
+**[Who will survive and thrive in the new AI era?](https://www.youtube.com/watch?v=NGV9OzduSSc)**
+
+AI is already reshaping the value of human expertise, but its effects on workers aren't predetermined. MIT professor David Autor ...
+
+📺 Bloomberg Television
+
+👁️ 83K • 👍 1K • 💬 237 • ⏱️ 11:27 • 1d ago
 
 ---
 
@@ -395,7 +393,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 166,549 • ❤️ 1,255 • 3d ago
+⬇️ 166,549 • ❤️ 1,259 • 3d ago
 
 ---
 
@@ -407,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 669 • 21h ago
+⬇️ 18,895 • ❤️ 671 • 22h ago
 
 ---
 
@@ -419,7 +417,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 21,014 • ❤️ 504 • 3d ago
+⬇️ 21,014 • ❤️ 507 • 3d ago
 
 ---
 
@@ -431,7 +429,7 @@ Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Del
 
 `image-text-to-text` `403.4B`
 
-⬇️ 0 • ❤️ 473 • 19h ago
+⬇️ 0 • ❤️ 499 • 20h ago
 
 ---
 
@@ -455,7 +453,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 788,036 • ❤️ 2,207 • 12d ago
+⬇️ 788,036 • ❤️ 2,210 • 12d ago
 
 ---
 
@@ -479,7 +477,19 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 292,364 • ❤️ 888 • 13d ago
+⬇️ 292,364 • ❤️ 892 • 13d ago
+
+---
+
+**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
+
+*NVIDIA*
+
+PersonaPlex-7B is a real-time speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
+
+`audio-to-audio`
+
+⬇️ 366,815 • ❤️ 1,924 • 1d ago
 
 ---
 
@@ -495,33 +505,9 @@ MOSS-TTS is a family of high-fidelity, expressive speech and sound generation mo
 
 ---
 
-**[MiniCPM-o-4_5](https://huggingface.co/openbmb/MiniCPM-o-4_5)**
-
-*OpenBMB*
-
-MiniCPM-o 4.5 is a 9B parameter multimodal LLM excelling in vision, speech, and OCR, offering Gemini 2.5 Flash-level capabilities. Its key feature is full-duplex multimodal live streaming, enabling simultaneous real-time audio/video input and text/speech output for proactive, fluid omnimodal conversations on local devices.
-
-`any-to-any` `9.4B`
-
-⬇️ 47,829 • ❤️ 853 • 3d ago
-
----
-
 ---
 
 ## HuggingFace Papers: 🔥 Trending
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 10 • 💬 1 • ⭐ 4,086 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
 
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
@@ -535,6 +521,18 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 ---
 
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 10 • 💬 1 • ⭐ 4,116 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
 **[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
 *Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
@@ -543,7 +541,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 62 • 💬 6 • ⭐ 13,468 • 4mo ago
+▲ 63 • 💬 6 • ⭐ 13,497 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
 
@@ -558,7 +556,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 141 • 💬 19 • ⭐ 53,224 • 11mo ago
+▲ 142 • 💬 19 • ⭐ 53,224 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -575,18 +573,6 @@ _paperbanana is an agentic framework that automates the creation of publication-
 ▲ 185 • 💬 12 • ⭐ 3,607 • 17d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
-**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
-
-*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
-
-MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
-
-▲ 159 • 💬 3 • ⭐ 5,572 • 7mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
 
 ---
 
@@ -629,6 +615,18 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
+**[MemOS: A Memory OS for AI System](https://huggingface.co/papers/2507.03724)**
+
+*Zhiyu Li, Shichao Song, Chenyang Xi et al. (39 authors)*
+
+MemOS, a memory operating system for Large Language Models, addresses memory management challenges by unifying plaintext, activation-based, and parameter-level memories, enabling efficient storage, retrieval, and continual learning.
+
+▲ 159 • 💬 3 • ⭐ 5,583 • 7mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2507.03724) • [💻 code](https://github.com/MemTensor/MemOS) • [🔗 project](https://memos.openmem.net/)
+
+---
+
 **[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
 
 *Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
@@ -651,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 7.6k • 🔱 723 • 1h ago
+⭐ 7.9k • 🔱 765 • 2m ago
 
 ---
 
@@ -659,7 +657,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 5.9k • 🔱 456 • 6d ago
+⭐ 6.0k • 🔱 459 • 6d ago
 
 ---
 
@@ -683,21 +681,11 @@ Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成
 
 **[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)**
 
-The agent-native LLM router powering OpenClaw — by BlockRun
+The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.6k • 🔱 266 • 3h ago
-
----
-
-**[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)**
-
-All-in-one AI framework & toolkit for Claude Code & Cursor
-
-`Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
-
-⭐ 2.2k • 🔱 111 • 3d ago
+⭐ 2.6k • 🔱 268 • 4h ago
 
 ---
 
@@ -707,17 +695,17 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.2k • 🔱 155 • 6h ago
+⭐ 2.2k • 🔱 155 • 7h ago
 
 ---
 
-**[memovai/mimiclaw](https://github.com/memovai/mimiclaw)**
+**[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)**
 
-MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw.
+All-in-one AI framework & toolkit for Claude Code & Cursor
 
-`C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
+`Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.1k • 🔱 266 • 10h ago
+⭐ 2.2k • 🔱 112 • 3d ago
 
 ---
 
@@ -727,7 +715,17 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 2.1k • 🔱 238 • 6d ago
+⭐ 2.2k • 🔱 247 • 6d ago
+
+---
+
+**[memovai/mimiclaw](https://github.com/memovai/mimiclaw)**
+
+MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw.
+
+`C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
+
+⭐ 2.1k • 🔱 268 • 11h ago
 
 ---
 
