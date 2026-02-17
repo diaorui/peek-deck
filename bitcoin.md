@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-17T11:12:32.271953+00:00'
+updated: '2026-02-17T12:00:10.318711+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 11:12 UTC  
+**Last Updated:** February 17, 2026 at 12:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1364.36B
+**Market Cap:** $1355.91B
 Rank #1
 
 **Circulating Supply:** 19,990,746 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.9%
+-46.2%
 
 **All-Time Low:** $67.81
-+100410.2%
++99935.4%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
 
-11h ago
+12h ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on 
 
 brother, genuinely feel like right now I should drop every last penny into it. It would be like a long term investment, I live with my parents so if it doesn’t work out too well I don’t really see it being that bad.
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ brother, genuinely feel like right now I should drop every last penny into it. I
 
 Full segment is on YouTube.
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ Full segment is on YouTube.
 
 Why is everyone spreading fear about bitcoin but the institutions are buying it up
 
-12h ago
+13h ago
 
 ---
 
@@ -133,13 +133,13 @@ Why is everyone spreading fear about bitcoin but the institutions are buying it 
 
 I found it!
 
-12h ago
+13h ago
 
 ---
 
 **[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -159,13 +159,13 @@ The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025
 
 Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
 
-The Atlantic • 23h ago
+The Atlantic • 1d ago
 
 ---
 
 **[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqeNhxLCsZBnWFrcSjNB200RqQRQXTeyW7uqr6t_bGGYdZUugqhPI-1z&gaa_ts=69945089&gaa_sig=LY8oIvfsy9jh-QCDyr1mF-RxFfYavbIW-q1vzaHSJR_Ob3sCvzkLhnmJ8IvK2WNnibwFVdWVo5aMD0Ix2NqAAQ%3D%3D)**
 
-Barron's • 30m ago
+Barron's • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Barron's • 30m ago
 
 A veteran analyst says Bitcoin’s store-of-value thesis is fading as gold outperforms, while broader crypto infrastructure gains momentum.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1h ago
 
 Bitcoin payments are directed to a Strategic Bitcoin Reserve, used to fund employee bonuses according to the company.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ BBC • 2d ago
 
 Metaplanet posted a $619 million FY2025 loss on its bitcoin valuation, while its total holdings jumped to 35,102 BTC and revenue surged.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Block • 21h ago
 
 The firm signaled that it’s embracing preferred shares.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -229,7 +229,7 @@ CNBC • 1d ago
 
 Strategy's all-in bet on Bitcoin could bear fruit over the next few decades.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -279,7 +279,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 Bithumb has apologised for staff error that sent customers 620,000 bitcoins instead of 620,000 Korean won, equivalent to a few hundred US dollars
 
-⬆️ 2 • 💬 1 • 6d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
+⬆️ 2 • 💬 1 • 7d ago • [the Guardian](https://www.theguardian.com/world/2026/feb/10/bithumb-korean-crypto-exchange-sent-bitcoin-mistake)
 
 ---
 
@@ -323,37 +323,7 @@ Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will 
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 462 • ⏱️ 10:49 • 9h ago
-
----
-
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=UApvD0Ky7X4)**
-
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
-
-📺 Deyontae Roberson
-
-👁️ 3K • 👍 3K • 3h ago
-
----
-
-**[DCA Live: &quot;Oxygen Sucked Out&quot; ⚠️ Did AI Just Kill the Bitcoin Cycle?](https://www.youtube.com/watch?v=r1Cr_f5SVl0)**
-
-JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA RETIRE ON: ...
-
-📺 InvestAnswers
-
-👁️ 37K • 👍 3K • 💬 213 • ⏱️ 1:06:56 • 18h ago
-
----
-
-**[Bitcoin Bull Bobby Lee Warns Bitcoin Could Break Below Key $60,000 Level](https://www.youtube.com/watch?v=ZRj4PmlPv6Q)**
-
-Ballet CEO Bobby Lee, one of bitcoin's longest‑standing bulls, warns the cryptocurrency may face deeper downside, with the ...
-
-📺 Bloomberg Television
-
-👁️ 15K • 👍 300 • 💬 131 • ⏱️ 10:12 • 11h ago
+👁️ 51K • 👍 2K • 💬 516 • ⏱️ 10:49 • 10h ago
 
 ---
 
@@ -363,7 +333,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 363 • ⏱️ 39:54 • 19h ago
+👁️ 29K • 👍 1K • 💬 399 • ⏱️ 39:54 • 20h ago
 
 ---
 
@@ -373,27 +343,7 @@ Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin cr
 
 📺 Crypto Insider
 
-👁️ 25K • 👍 1K • 💬 137 • ⏱️ 18:15 • 21h ago
-
----
-
-**[This Next Move Always Fools Late Buyers (It’s Repeating)](https://www.youtube.com/watch?v=cVn40G92N0M)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 12K • 👍 819 • 💬 147 • ⏱️ 25:28 • 8h ago
-
----
-
-**[BITCOIN: CALM BEFORE THE STORM...](https://www.youtube.com/watch?v=gZ_2XAXMS9w)**
-
-WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
-
-📺 Crypto Rover
-
-👁️ 4K • 👍 350 • 💬 17 • ⏱️ 9:38 • 6h ago
+👁️ 26K • 👍 1K • 💬 144 • ⏱️ 18:15 • 21h ago
 
 ---
 
@@ -403,17 +353,67 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 9K • 👍 163 • 💬 45 • ⏱️ 12:20 • 1d ago
+👁️ 9K • 👍 167 • 💬 45 • ⏱️ 12:20 • 1d ago
 
 ---
 
-**[Live Trading A $320K Bitcoin Position (Buy The Dump)](https://www.youtube.com/watch?v=rR_B_jbhiEc)**
+**[DCA Live: &quot;Oxygen Sucked Out&quot; ⚠️ Did AI Just Kill the Bitcoin Cycle?](https://www.youtube.com/watch?v=r1Cr_f5SVl0)**
 
-The crypto market is moving right now and Sheldon is going to see if he can get some profits going from his live prop trading ...
+JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investanswers.io/indicators 🏖️ IA RETIRE ON: ...
 
-📺 Sniper Trading
+📺 InvestAnswers
 
-👁️ 3K • 👍 313 • ⏱️ 1:59:01 • 17h ago
+👁️ 39K • 👍 3K • 💬 218 • ⏱️ 1:06:56 • 18h ago
+
+---
+
+**[BITCOIN: CALM BEFORE THE STORM...](https://www.youtube.com/watch?v=gZ_2XAXMS9w)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+
+📺 Crypto Rover
+
+👁️ 6K • 👍 449 • 💬 20 • ⏱️ 9:38 • 7h ago
+
+---
+
+**[This Next Move Always Fools Late Buyers (It’s Repeating)](https://www.youtube.com/watch?v=cVn40G92N0M)**
+
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+
+📺 Jason Pizzino
+
+👁️ 15K • 👍 978 • 💬 169 • ⏱️ 25:28 • 9h ago
+
+---
+
+**[Bitcoin Bull Bobby Lee Warns Bitcoin Could Break Below Key $60,000 Level](https://www.youtube.com/watch?v=ZRj4PmlPv6Q)**
+
+Ballet CEO Bobby Lee, one of bitcoin's longest‑standing bulls, warns the cryptocurrency may face deeper downside, with the ...
+
+📺 Bloomberg Television
+
+👁️ 18K • 👍 327 • 💬 437 • ⏱️ 10:12 • 11h ago
+
+---
+
+**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
+
+Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
+
+📺 Altcoin Daily
+
+👁️ 51K • 👍 2K • 💬 248 • ⏱️ 11:16 • 1d ago
+
+---
+
+**[⁠If you see this on Feb 16th.. it&#39;s a sign](https://www.youtube.com/watch?v=cYOhVDvCVcM)**
+
+Urgent bitcoin update. Larsson Line Pro 50% Off LAST CHANCE. Larsson Line Pro 50% Off Today ...
+
+📺 CTO LARSSON
+
+👁️ 38K • 👍 2K • 💬 234 • ⏱️ 10:55 • 23h ago
 
 ---
 

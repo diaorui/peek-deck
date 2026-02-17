@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T11:12:32.281008+00:00'
+updated: '2026-02-17T12:00:10.328348+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 11:12 UTC  
+**Last Updated:** February 17, 2026 at 12:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,13 +40,13 @@ Robotics research and industry news
 
 **[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
 
-4h ago
+5h ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 I am a final-year B.Tech student with experience in robotics. I have applied for various roles such as Robotics Software Engineer and Software Engineer - Autonomous Vehicles at several companies, including Nvidia, but have unfortunately received multiple rejections. I would greatly appreciate any assistance or guidance you could offer.
 
-3h ago
+4h ago
 
 ---
 
@@ -76,13 +76,13 @@ I’m doing a bit of research on sim-to-real workflows and wanted to understand 
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 18h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 19h ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -90,7 +90,7 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robotics related things if anyone can plz list it out also I'm in my final year of engineering ECE and i know very basic of all these mentioned I need full deep learning and good projects , i already have a job in robotics ai but to make it full time I need to gear up and learn a lot and build projects so Help me to find a best course,im ready to pay also but not that costly still broke need certification cause they might be valued in future also etc etc Building projects will be my part but I need to learn first
 
-15h ago
+16h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robot
 
 So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
 
-16h ago
+17h ago
 
 ---
 
@@ -118,13 +118,13 @@ NBC News • 2h ago
 
 A group of humanoid robots teamed up with young Kung Fu artists for a thrilling martial arts performance at the 2026 Spring Festival Gala in Beijing on Monday. The dynamic display featured robots and human masters executing a series of impressive, choreographed stunts and synchronized moves on stage.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
 **[Americans are unleashing their anger on food-delivery robots](https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots)**
 
-The Economist • 16h ago
+The Economist • 17h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Economist • 16h ago
 
 Moya is a new Chinese humanoid robot from DroidUp with cameras behind its eyes, lifelike facial expressions, and warm, soft "muscle" materials.
 
-bgr.com • 8h ago
+bgr.com • 9h ago
 
 ---
 
@@ -140,7 +140,7 @@ bgr.com • 8h ago
 
 Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Fox News • 17h ago
+Fox News • 18h ago
 
 ---
 
@@ -164,7 +164,7 @@ KWQC • 1d ago
 
 Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
 
-SiliconANGLE • 9h ago
+SiliconANGLE • 10h ago
 
 ---
 
@@ -192,17 +192,7 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 📺 Carros Show
 
-👁️ 3K • 👍 77 • 💬 12 • ⏱️ 9:20 • 1d ago
-
----
-
-**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
-
-China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
-
-📺 Kalil 4.0
-
-👁️ 55K • 👍 1K • 💬 222 • ⏱️ 9:26 • 17h ago
+👁️ 3K • 👍 79 • 💬 11 • ⏱️ 9:20 • 1d ago
 
 ---
 
@@ -212,7 +202,17 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 216K • 👍 5K • 💬 772 • ⏱️ 1:41 • 18h ago
+👁️ 250K • 👍 5K • 💬 821 • ⏱️ 1:41 • 19h ago
+
+---
+
+**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
+
+China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
+
+📺 Kalil 4.0
+
+👁️ 67K • 👍 1K • 💬 251 • ⏱️ 9:26 • 17h ago
 
 ---
 
@@ -222,7 +222,7 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 177K • 👍 5K • 💬 2K • ⏱️ 2:37 • 19h ago
+👁️ 215K • 👍 5K • 💬 3K • ⏱️ 2:37 • 20h ago
 
 ---
 
@@ -232,7 +232,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 428K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
+👁️ 430K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
 
 ---
 
@@ -242,7 +242,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 30K • 👍 805 • 💬 93 • ⏱️ 12:43 • 1d ago
+👁️ 32K • 👍 828 • 💬 98 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -252,17 +252,7 @@ Such a presentation would highlight how far artificial intelligence, robotics, a
 
 📺 Carros Show
 
-👁️ 18K • 👍 395 • 💬 76 • ⏱️ 10:40 • 6d ago
-
----
-
-**[Unitree Humanoid Robots Shock People at 2026 Spring Festival Gala with Martial Arts](https://www.youtube.com/watch?v=O9ao_HLi1gE)**
-
-Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid robots stunned 1.4 billion viewers with a ...
-
-📺 India Today Global
-
-👁️ 36K • 👍 645 • 💬 332 • ⏱️ 2:57 • 18h ago
+👁️ 19K • 👍 401 • 💬 76 • ⏱️ 10:40 • 6d ago
 
 ---
 
@@ -272,7 +262,17 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 879K • 👍 10K • 💬 2K • ⏱️ 53:47 • 2d ago
+👁️ 890K • 👍 10K • 💬 2K • ⏱️ 53:47 • 2d ago
+
+---
+
+**[Unitree Humanoid Robots Shock People at 2026 Spring Festival Gala with Martial Arts](https://www.youtube.com/watch?v=O9ao_HLi1gE)**
+
+Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid robots stunned 1.4 billion viewers with a ...
+
+📺 India Today Global
+
+👁️ 44K • 👍 694 • 💬 347 • ⏱️ 2:57 • 19h ago
 
 ---
 
@@ -282,7 +282,7 @@ news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary 
 
 📺 Tyrone Magnus
 
-👁️ 39K • 👍 2K • 💬 426 • ⏱️ 9:43 • 1d ago
+👁️ 39K • 👍 2K • 💬 429 • ⏱️ 9:43 • 1d ago
 
 ---
 

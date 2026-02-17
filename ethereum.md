@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T11:12:32.277811+00:00'
+updated: '2026-02-17T12:00:10.324796+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - videos
 - cryptocurrency
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 11:12 UTC  
+**Last Updated:** February 17, 2026 at 12:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.78B
+**Market Cap:** $237.50B
 Rank #2
 
 **Circulating Supply:** 120,692,440 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.1%
+-60.2%
 
 **All-Time Low:** $0.43
-+455982.2%
++454298.5%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-10m ago
+58m ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
 
-15h ago
+16h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stab
 
 We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
 
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 17h ago
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 18h ago
 
 ---
 
@@ -112,7 +112,7 @@ We're a group of researchers and have just prepared a draft addressing a gap in 
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-20h ago
+21h ago
 
 ---
 
@@ -156,13 +156,13 @@ Recently I have been starting to worry about the state of prediction markets, in
 
 The university's investment arm held 5.35 million shares of the iShares Bitcoin Trust valued at $265.8 million as of Dec. 31, according to SEC filings released Friday.
 
-CoinMarketCap • 6h ago
+CoinMarketCap • 7h ago
 
 ---
 
 **[Harvard University Opens New Position in Ethereum (ETH)](https://www.tipranks.com/news/harvard-university-opens-new-position-in-ethereum-eth)**
 
-TipRanks • 15h ago
+TipRanks • 16h ago
 
 ---
 
@@ -170,7 +170,7 @@ TipRanks • 15h ago
 
 Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -178,13 +178,13 @@ Decrypt • 18h ago
 
 Investors who believe in Ethereum's fundamentals could use the recent turmoil in the crypto markets as a buying opportunity.
 
-The Motley Fool • 44m ago
+The Motley Fool • 1h ago
 
 ---
 
 **[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqe0NNpPtlBOyqzM2rCGSRaX-SFJwyusRSVTtG3MYldFfLBkiBqpg0Dd&gaa_ts=6994508b&gaa_sig=6Gf-k8R4PZNE0RvW95GIm4ZY6L_P5Ea0m2iEUIhIm6ruaCjFyJB3LvQnj-5_ei4j3UQrNnSpbV-qUfLtlS38Ww%3D%3D)**
 
-Barron's • 30m ago
+Barron's • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ Barron's • 30m ago
 
 Key PointsEthereum is the world's leading platform for developing decentralized applications, which are increasingly popular in areas like finance.
 
-Nasdaq • 24m ago
+Nasdaq • 1h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 1d ago
 
 The cryptocurrency market is facing another day of losses, with major assets such as Bitcoin, Ethereum, and XRP moving lower as overall market confidence weakens. The total crypto market value has dropped to around $2.32 trillion, showing continued pressure across digital assets.Institutional Selli…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
@@ -224,7 +224,7 @@ AMBCrypto • 6h ago
 
 Ethereum higher today but it's stuck near the bottom of the range
 
-investingLive • 17h ago
+investingLive • 18h ago
 
 ---
 
@@ -232,13 +232,13 @@ investingLive • 17h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
+**[&quot;The Crypto Reset Is Upon Us&quot; - Tom Lee | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=ADlJpUEnP1w)**
 
-Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https://dacfp.com/ Join us at Bitcoin Conference ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 Altcoin Daily
+📺 Library Of Wealth
 
-👁️ 66K • 👍 3K • 💬 512 • ⏱️ 34:57 • 2d ago
+👁️ 1K • 👍 75 • 💬 44 • ⏱️ 14:18 • 6h ago
 
 ---
 
@@ -248,7 +248,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 103 • 💬 4 • ⏱️ 4:03 • 9h ago
+👁️ 2K • 👍 114 • 💬 3 • ⏱️ 4:03 • 10h ago
+
+---
+
+**[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
+
+Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https://dacfp.com/ Join us at Bitcoin Conference ...
+
+📺 Altcoin Daily
+
+👁️ 66K • 👍 3K • 💬 511 • ⏱️ 34:57 • 2d ago
 
 ---
 
@@ -258,47 +268,7 @@ Bitcoin just took another brutal correction, down 50%, and no, this isn't the fi
 
 📺 Kevin O'Leary
 
-👁️ 14K • 👍 241 • 💬 40 • ⏱️ 1:34 • 10h ago
-
----
-
-**[Ethereum Bottom Incoming? Here&#39;s When To Act!](https://www.youtube.com/watch?v=F5eAwxx7a_Q)**
-
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/... Join Trade Confident: Get 25% Off Your 1st ...
-
-📺 Trade Confident
-
-👁️ 690 • 👍 26 • 💬 2 • ⏱️ 6:11 • 16h ago
-
----
-
-**[Tom Lee said the UNTHINKABLE: $600M $ETH BOTTOM ($BMNR)](https://www.youtube.com/watch?v=NJtpnLmnQwM)**
-
-HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With Our AutoPilot™ ...
-
-📺 Wolf of Dubai Day Trading & Investing
-
-👁️ 6K • 👍 263 • 💬 123 • ⏱️ 17:52 • 1d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: Don&#39;t Get Trapped Here!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=KSdD8zS--UU)**
-
-BITCOIN & ALTCOIN WARNING: Don't Get Trapped Here!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 234 • 💬 39 • ⏱️ 17:40 • 12h ago
-
----
-
-**[Why Harvard is Buying Ethereum Over Bitcoin And What it Means for Bitmine? - BMNR Stock analysis](https://www.youtube.com/watch?v=uJx0oUpVFdY)**
-
-In today's video, we take a calm and educational look at Bitmine (BMNR) and the broader U.S. stock market environment.
-
-📺 BiGB Stcok
-
-👁️ 1K • 👍 41 • ⏱️ 5:31 • 13h ago
+👁️ 17K • 👍 267 • 💬 42 • ⏱️ 1:34 • 11h ago
 
 ---
 
@@ -308,27 +278,57 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 204 • 💬 8 • ⏱️ 6:56 • 21h ago
+👁️ 3K • 👍 205 • 💬 8 • ⏱️ 6:56 • 22h ago
 
 ---
 
-**[Something HUGE Is About To Happen To Bitcoin &amp; Ethereum Interest Rates &amp; Gold Are At Play This Time](https://www.youtube.com/watch?v=8pZTBfidmaA)**
-
-As far as every single analyst and CEO has said.. all signs seem to be pointing to much higher network activity on some of the ...
-
-📺 The Modern Investor
-
-👁️ 6K • 👍 714 • 💬 171 • ⏱️ 30:43 • 1d ago
-
----
-
-**[BE READY FOR THESE MOVES NEXT WEEK🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_8FCLY15qBc)**
+**[URGENT ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Rg_7iUAifgM)**
 
 ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
 📺 Cilinix Crypto
 
-👁️ 742 • 👍 19 • 💬 3 • ⏱️ 4:36 • 2d ago
+👁️ 41 • 👍 5 • 💬 1 • ⏱️ 4:19 • 1h ago
+
+---
+
+**[Why Harvard is Buying Ethereum Over Bitcoin And What it Means for Bitmine? - BMNR Stock analysis](https://www.youtube.com/watch?v=uJx0oUpVFdY)**
+
+In today's video, we take a calm and educational look at Bitmine (BMNR) and the broader U.S. stock market environment.
+
+📺 BiGB Stcok
+
+👁️ 1K • 👍 47 • 💬 1 • ⏱️ 5:31 • 13h ago
+
+---
+
+**[Ethereum Bottom Incoming? Here&#39;s When To Act!](https://www.youtube.com/watch?v=F5eAwxx7a_Q)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/... Join Trade Confident: Get 25% Off Your 1st ...
+
+📺 Trade Confident
+
+👁️ 705 • 👍 26 • 💬 2 • ⏱️ 6:11 • 17h ago
+
+---
+
+**[Tom Lee said the UNTHINKABLE: $600M $ETH BOTTOM ($BMNR)](https://www.youtube.com/watch?v=NJtpnLmnQwM)**
+
+HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With Our AutoPilot™ ...
+
+📺 Wolf of Dubai Day Trading & Investing
+
+👁️ 6K • 👍 264 • 💬 124 • ⏱️ 17:52 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN WARNING: Don&#39;t Get Trapped Here!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=KSdD8zS--UU)**
+
+BITCOIN & ALTCOIN WARNING: Don't Get Trapped Here!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 243 • 💬 52 • ⏱️ 17:40 • 13h ago
 
 ---
 
