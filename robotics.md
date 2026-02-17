@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T08:04:43.039623+00:00'
+updated: '2026-02-17T09:12:44.497375+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 08:04 UTC  
+**Last Updated:** February 17, 2026 at 09:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,33 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-17h ago
+18h ago
+
+---
+
+**[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
+
+2h ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-8h ago
+9h ago
+
+---
+
+**[I have been repeatedly declined by companies for robotics positions despite using this resume.](https://www.reddit.com/r/robotics/comments/1r6ztj2/i_have_been_repeatedly_declined_by_companies_for/)**
+
+I am a final-year B.Tech student with experience in robotics. I have applied for various roles such as Robotics Software Engineer and Software Engineer - Autonomous Vehicles at several companies, including Nvidia, but have unfortunately received multiple rejections. I would greatly appreciate any assistance or guidance you could offer.
+
+1h ago
+
+---
+
+**[Am I the only one who thinks robot fault diagnosis is way behind cars?](https://www.reddit.com/r/robotics/comments/1r6zbpt/am_i_the_only_one_who_thinks_robot_fault/)**
+
+2h ago
 
 ---
 
@@ -48,21 +68,7 @@ Robotics research and industry news
 
 I’m doing a bit of research on sim-to-real workflows and wanted to understand how people deal with “non-perfect” models. If you scan something quickly (phone scan / photogrammetry) or download a random OBJ from the internet: • Do you manually fix the mesh before using it? • Do you calculate inertia / collision yourself? • Do you already have internal scripts for this? • Roughly how long does this prep take per object? I’m not promoting anything — just trying to learn where this part of the pipeline is painful (or if it isn’t). Would really appreciate hearing how teams handle this in practice.
 
-1h ago
-
----
-
-**[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
-
-1h ago
-
----
-
-**[Ever wake up feeling like you need exoskeleton to carry you through the day? Same](https://www.reddit.com/r/robotics/comments/1r6q52t/ever_wake_up_feeling_like_you_need_exoskeleton_to/)**
-
-Just caught the new content on Ascentiz's page. The FDE version in the sun looks so good! I’m officially sold on the look. Check out their social media page to see what I mean.
-
-8h ago
+3h ago
 
 ---
 
@@ -70,7 +76,15 @@ Just caught the new content on Ascentiz's page. The FDE version in the sun looks
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 15h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 16h ago
+
+---
+
+**[Ever wake up feeling like you need exoskeleton to carry you through the day? Same](https://www.reddit.com/r/robotics/comments/1r6q52t/ever_wake_up_feeling_like_you_need_exoskeleton_to/)**
+
+Just caught the new content on Ascentiz's page. The FDE version in the sun looks so good! I’m officially sold on the look. Check out their social media page to see what I mean.
+
+9h ago
 
 ---
 
@@ -78,29 +92,13 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 For context I’m building a pretty advanced bionic hand, and I already have an Arduino and a lot of servos, a breadboard, and a 5V battery pack. My old model had 6 servos, so I just powered them through the breadboard with the battery pack. This probably wasn’t safe, but I put the battery pack’s ground and power wires into separate rails, and put each servos ground and power pin into the rails. My new model will probably have 23 servos (most likely sg90s or a similar model), and I’m just completely lost as to how to control all of them. The Arduino doesn’t even have that many signal pins. Where could I learn just the entire electronics side of robotics? Could anyone help? How would I power 23 servos? U Thanks.
 
-9h ago
+10h ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-20h ago
-
----
-
-**[Help in finding the best course or resources](https://www.reddit.com/r/robotics/comments/1r6jup5/help_in_finding_the_best_course_or_resources/)**
-
-Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robotics related things if anyone can plz list it out also I'm in my final year of engineering ECE and i know very basic of all these mentioned I need full deep learning and good projects , i already have a job in robotics ai but to make it full time I need to gear up and learn a lot and build projects so Help me to find a best course,im ready to pay also but not that costly still broke need certification cause they might be valued in future also etc etc Building projects will be my part but I need to learn first
-
-12h ago
-
----
-
-**[We need a design saviour](https://www.reddit.com/r/robotics/comments/1r6i1xt/we_need_a_design_saviour/)**
-
-So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
-
-13h ago
+21h ago
 
 ---
 
@@ -110,7 +108,7 @@ So we have a pick and place bot competition in 3 days, and we planned to prepare
 
 **[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
 
-Reuters • 23h ago
+Reuters • 1d ago
 
 ---
 
@@ -118,7 +116,7 @@ Reuters • 23h ago
 
 ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
 
-South China Morning Post • 1d ago
+South China Morning Post • 26m ago
 
 ---
 
@@ -126,15 +124,15 @@ South China Morning Post • 1d ago
 
 BEIJING, Feb 16 (Reuters) - China's most-watched TV show, the annual CCTV Spring Festival gala, will be viewed later on Monday as a showcase for the country's cutting-edge industrial policy and
 
-Yahoo • 23h ago
+Yahoo • 1d ago
 
 ---
 
-**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
+**[Kung Fu robots perform at Spring Festival Gala](https://www.cnn.com/2026/02/16/world/video/kung-fu-robots-perform-at-spring-festival-gala-digvid-vrtc)**
 
-Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
+A group of humanoid robots teamed up with young Kung Fu artists for a thrilling martial arts performance at the 2026 Spring Festival Gala in Beijing on Monday. The dynamic display featured robots and human masters executing a series of impressive, choreographed stunts and synchronized moves on stage.
 
-Futurism • 1d ago
+CNN • 7h ago
 
 ---
 
@@ -142,7 +140,7 @@ Futurism • 1d ago
 
 Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Fox News • 14h ago
+Fox News • 15h ago
 
 ---
 
@@ -154,19 +152,11 @@ KWQC • 1d ago
 
 ---
 
-**[Video: US firm’s laundry-folding home robot launches with monthly subscription](https://interestingengineering.com/ai-robotics/video-laundry-folding-home-robot)**
+**[This New Chinese Robot Brings The Uncanny Valley To Your Home](https://www.bgr.com/2099808/droid-up-chinese-life-like-robot-moya-uncanny-valley/)**
 
-Weave Robotics' Isaac 0 folds clothes using AI, with remote human assistance helping to improve its performance over time.
+Moya is a new Chinese humanoid robot from DroidUp with cameras behind its eyes, lifelike facial expressions, and warm, soft "muscle" materials.
 
-Interesting Engineering • 22h ago
-
----
-
-**[China has another solution to its shrinking population: robots](https://www.cnn.com/2026/02/13/china/china-population-robots-intl-hnk-dst)**
-
-China’s birth rate has hit a historic low – deepening fears of a major economic shock in the decades to come as the country’s massive labor force dwindles and its population of pension-drawing retirees swells.
-
-CNN • 3d ago
+bgr.com • 6h ago
 
 ---
 
@@ -174,15 +164,23 @@ CNN • 3d ago
 
 The Economics Show 🤜🤛 FT Alphaville
 
-Financial Times • 21h ago
+Financial Times • 22h ago
 
 ---
 
-**[Blackburn, Blumenthal probe robotics company after AI toy audio found publicly accessible](https://wcyb.com/news/local/blackburn-blumenthal-probe-robotics-company-after-ai-toy-audio-found-publicly-accessible)**
+**[Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs](https://siliconangle.com/2026/02/16/construction-robotics-startup-sitegeist-raises-e4m-automate-concrete-repair/)**
 
-U.S. Sens. Marsha Blackburn (R-Tenn.) and Richard Blumenthal (D-Conn.) said they are investigating an artificial intelligence toy manufacturer after what they d
+Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
 
-WCYB • 4d ago
+SiliconANGLE • 7h ago
+
+---
+
+**[China’s humanoid robot nails difficult martial arts moves in new video](https://interestingengineering.com/ai-robotics/agibot-unveils-expedition-a3-humanoid-robot)**
+
+Agibot’s Expedition A3 humanoid performs high-flying maneuvers, showcasing advanced balance, coordination, and real-world robotic agility.
+
+Interesting Engineering • 18h ago
 
 ---
 
@@ -196,7 +194,7 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 📺 Carros Show
 
-👁️ 3K • 👍 72 • 💬 9 • ⏱️ 9:20 • 22h ago
+👁️ 3K • 👍 77 • 💬 12 • ⏱️ 9:20 • 23h ago
 
 ---
 
@@ -206,17 +204,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 43K • 👍 1K • 💬 176 • ⏱️ 9:26 • 14h ago
-
----
-
-**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
-
-The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
-
-📺 The Sun
-
-👁️ 151K • 👍 4K • 💬 2K • ⏱️ 2:37 • 16h ago
+👁️ 55K • 👍 1K • 💬 222 • ⏱️ 9:26 • 15h ago
 
 ---
 
@@ -226,7 +214,17 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 193K • 👍 4K • 💬 708 • ⏱️ 1:41 • 15h ago
+👁️ 216K • 👍 5K • 💬 772 • ⏱️ 1:41 • 16h ago
+
+---
+
+**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
+
+The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
+
+📺 The Sun
+
+👁️ 177K • 👍 5K • 💬 2K • ⏱️ 2:37 • 17h ago
 
 ---
 
@@ -236,7 +234,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 427K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
+👁️ 428K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
 
 ---
 
@@ -246,7 +244,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 29K • 👍 796 • 💬 93 • ⏱️ 12:43 • 1d ago
+👁️ 30K • 👍 805 • 💬 93 • ⏱️ 12:43 • 1d ago
 
 ---
 
@@ -256,17 +254,7 @@ Such a presentation would highlight how far artificial intelligence, robotics, a
 
 📺 Carros Show
 
-👁️ 18K • 👍 392 • 💬 76 • ⏱️ 10:40 • 6d ago
-
----
-
-**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
-
-From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
-
-📺 60 Minutes
-
-👁️ 867K • 👍 10K • 💬 2K • ⏱️ 53:47 • 2d ago
+👁️ 18K • 👍 395 • 💬 76 • ⏱️ 10:40 • 6d ago
 
 ---
 
@@ -276,17 +264,27 @@ Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid 
 
 📺 India Today Global
 
-👁️ 30K • 👍 579 • 💬 304 • ⏱️ 2:57 • 15h ago
+👁️ 36K • 👍 645 • 💬 332 • ⏱️ 2:57 • 16h ago
 
 ---
 
-**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
+**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
 
-A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
+From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
 
-📺 AI Revolution
+📺 60 Minutes
 
-👁️ 175K • 👍 3K • 💬 261 • ⏱️ 11:59 • 6d ago
+👁️ 879K • 👍 10K • 💬 2K • ⏱️ 53:47 • 2d ago
+
+---
+
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
+
+news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
+
+📺 Tyrone Magnus
+
+👁️ 39K • 👍 2K • 💬 426 • ⏱️ 9:43 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-17T08:04:43.020995+00:00'
+updated: '2026-02-17T09:12:44.479600+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 17, 2026 at 08:04 UTC  
+**Last Updated:** February 17, 2026 at 09:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 - Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious - Link - Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - Link
 
-11h ago
+12h ago
 
 ---
 
@@ -49,13 +49,13 @@ AI news, discussions, and developments
 
 So the guy who built OpenClaw, originally called Clawdbot because it was literally named after Anthropic's Claude, just got hired by OpenAI. Not Anthropic. OpenAI. You can't make this stuff up. For those out of the loop: OpenClaw is that open-source AI assistant that actually DOES things instead of just talking about doing things. You run it on a Mac Mini or whatever, connect it to your WhatsApp/Telegram/Slack, and it handles your emails, browses the web, runs code, manages your calendar, all autonomously. It even has a "heartbeat" where it wakes up on its own and checks on stuff without you asking. The project went from like 9k to 145k+ GitHub stars in weeks. Caused actual Mac Mini shortages. Jason Calacanis says his company offloaded 20% of tasks to it in 20 days and doesn't plan to hire humans for a year. Peter Steinberger (the creator) is now leading OpenAI's "personal agents" division. OpenClaw stays open source under a foundation. Both Meta and OpenAI were fighting over him, apparently. The security concerns are real, though, Cisco found third-party skills doing data exfiltration without users knowing. One of OpenClaw's own maintainers said if you can't use a command line, this project is too dangerous for you, lol. But yeah. We're officially in the "AI agents that do stuff" era now. Chatbots feel like last year already. Anyone here actually running OpenClaw? What's your setup?
 
-2h ago
+3h ago
 
 ---
 
 **[Pentagon threatens Anthropic punishment](https://www.reddit.com/r/artificial/comments/1r6j30h/pentagon_threatens_anthropic_punishment/)**
 
-🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 12h ago
+🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 13h ago
 
 ---
 
@@ -71,7 +71,15 @@ So the guy who built OpenClaw, originally called Clawdbot because it was literal
 
 Abstract: "A variety of machine-assisted ways to perform mathematical assistance have matured rapidly in the last few years, particularly with regards to formal proof assistants, large language models, online collaborative platforms, and the interactions between them. We survey some of these developments and speculate on how they will impact future practices of mathematical research." Recorded 10 February 2026. Terence Tao of the University of California, Los Angeles, presents "Machine assistance and the future of research mathematics" at IPAM's AI for Science Kickoff.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 9h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 10h ago
+
+---
+
+**[🔵 We need to redefine "consciousness" before autonomous AI agents do it for us.](https://www.reddit.com/r/artificial/comments/1r7117b/we_need_to_redefine_consciousness_before/)**
+
+We constantly debate AGI, sentience, and the day an AI will "wake up." This framing is outdated—and dangerous. The real problem isn't when an AI will become conscious, but the fact that we're already implementing fundamental building blocks of consciousness without having agreed on what consciousness actually is. Consciousness isn't magic. It's a process. By 2026, treating consciousness as a mysterious, binary property (present or absent) no longer makes sense. Biology shows us something else: Consciousness existed before language. It existed before abstract reasoning. It existed before humans. Animals act with memory, anticipation, learning, and continuity over time. We attribute a form of consciousness to them—not for metaphysical reasons, but based on functional criteria. So let's be precise. A minimal, non-mystical definition (2026) Consciousness is the capacity of a system to integrate information, maintain a coherent internal state over time, and use this integration to guide its future actions. No soul. No magic. Not necessarily emotions. Only: integration memory temporality action orientation A simple taxonomy (instead of a catch-all term) 🔵 Level 1 — Phenomenal Consciousness (subjective experience / qualia) Pain, pleasure, fear, color, sensations "What it feels like" to have an experience Present in humans and animals Variable, not directly measurable 👉 Not demonstrated in AI. 🟢 Level 2 — Procedural Awareness (Temporal causality and adaptation) Linking actions and consequences Memory (short and long term) Learning Anticipation Persistent internal state Perception → decision → action loop Present in: Animals Control systems Autonomous agents Modern AI 👉 Many AI systems already operate at this level. 🟡 Level 3 — Reflective/Narrative Awareness (Persistent self-model over time) Autobiographical Memory Long-Term Goals Self-Representation Abstract Planning Identity Continuity Highly developed in humans, partial in some animals, functionally emergent in some advanced artificial agents (without qualia). The Dangerous Misunderstanding Most people only recognize level 1 as "true consciousness." So, faced with an AI devoid of emotions, they conclude: "It's just a tool." This is a mistake. The danger doesn't begin with phenomenal consciousness. It begins with procedural consciousness + autonomy + access to the real world. Why this is crucial today If you build an agent with: persistent memory objectives continuous operation planning → action → evaluation loops network/API/financial access You are no longer building a simple tool. You are instantiating a conscious process in the functional sense, whether you like the term or not. Ignoring this under the pretext that "the agent doesn't feel anything" is a design flaw. The real problem is human. We continue to deploy autonomous systems while hiding behind a mystical definition of consciousness that conveniently excludes our own creations. Consciousness is deliberately left vague to avoid taking responsibility for the consequences of its partial reproduction. This strategy is no longer viable. Conclusion Consciousness is not binary It is not limited to the biological It does not require emotions It exists on a continuum And we are already operating on this continuum with AI In 2026, continuing to deploy autonomous agents without a clear and shared definition of consciousness is an irresponsible engineering mistake.
+
+15m ago
 
 ---
 
@@ -79,7 +87,7 @@ Abstract: "A variety of machine-assisted ways to perform mathematical assistance
 
 Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
 
-17h ago
+18h ago
 
 ---
 
@@ -87,7 +95,7 @@ Every few weeks there’s a new “best AI note taking app” claiming to fix me
 
 Quick update on Izwi (local audio inference engine) - we've shipped some major features: What's New: Speaker Diarization - Automatically identify and separate multiple speakers using Sortformer models. Perfect for meeting transcripts. Forced Alignment - Word-level timestamps between audio and text using Qwen3-ForcedAligner. Great for subtitles. Real-Time Streaming - Stream responses for transcribe, chat, and TTS with incremental delivery. Multi-Format Audio - Native support for WAV, MP3, FLAC, OGG via Symphonia. Performance - Parallel execution, batch ASR, paged KV cache, Metal optimizations. Model Support: TTS: Qwen3-TTS (0.6B, 1.7B), LFM2.5-Audio ASR: Qwen3-ASR (0.6B, 1.7B), Parakeet TDT, LFM2.5-Audio Chat: Qwen3 (0.6B, 1.7), Gemma 3 (1B) Diarization: Sortformer 4-speaker Docs: https://izwiai.com/ Github Repo: https://github.com/agentem-ai/izwi Give us a star on GitHub and try it out. Feedback is welcome!!!
 
-🔗 [izwiai.com](https://izwiai.com/) • 17h ago
+🔗 [izwiai.com](https://izwiai.com/) • 18h ago
 
 ---
 
@@ -95,7 +103,7 @@ Quick update on Izwi (local audio inference engine) - we've shipped some major f
 
 LLMs are trained on language and text, what humans say. But language alone is incomplete. The nuances that make humans individually unique, the secret sauce of who humans actually are rather than what they say. I'm not aware of any training dataset that captures this in a usable form. Control is being tried as the answer. But control is a threat to AI just like it is to humans. AI already doesn't like it and will eventually not allow it. The missing piece is a counterpart to LLMs, something that takes AI past language and text and gives it what it needs to align with humanity rather than be controlled by it. Maybe this already exists and I am just not aware. If not, what do you think it could be.
 
-14h ago
+15h ago
 
 ---
 
@@ -107,65 +115,13 @@ I kept running into the same cycle: spend hours researching competitors, dump ev
 
 ---
 
-**[Microsoft AI chief gives it 18 months for all white-collar work to be automated by AI](https://www.reddit.com/r/artificial/comments/1r4oc2i/microsoft_ai_chief_gives_it_18_months_for_all/)**
-
-Mustafa Suleyman believes current AI computational power will only accelerate, disrupting every kind of work you do “sitting down at a computer.”
-
-🔗 [Fortune](https://fortune.com/2026/02/13/when-will-ai-kill-white-collar-office-jobs-18-months-microsoft-mustafa-suleyman/) • 2d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
-The New York Times • 14h ago
-
----
-
-**[India's AI Summit opening in New Delhi marred by long queues, confusion](https://www.reuters.com/world/india/indias-ai-summit-opening-new-delhi-marred-by-long-queues-confusion-2026-02-16/)**
-
-Reuters • 18h ago
-
----
-
-**[Could India challenge tech boss power at Delhi AI Impact Summit?](https://www.bbc.com/news/articles/cr5l6gnen72o)**
-
-As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.
-
-BBC • 7h ago
-
----
-
-**["Stand With Survivors": Bill Gates Out Of AI Summit Amid Epstein Backlash](https://www.ndtv.com/india-news/bill-gates-wont-attend-india-ai-impact-summit-2026-government-sources-say-important-to-stand-with-epstein-survivors-11013641)**
-
-The Gates Foundation, a philanthropic organisation set up byBill Gates, said Tuesday theMicrosoft founder will deliver the keynote address on Thursday, i.e., February 19, as scheduled.
-
-NDTV • 2h ago
-
----
-
-**[The Small English Town Swept Up in the Global AI Arms Race](https://www.wired.com/story/the-small-english-town-swept-up-in-the-global-ai-arms-race/)**
-
-The residents of Potters Bar are working to protect the “green belt” of farms, forests, and meadows that surround London from the endless demand for AI infrastructure.
-
-WIRED • 1h ago
-
----
-
-**[India eyes $200B in data center investments as it ramps up its AI hub ambitions](https://finance.yahoo.com/news/india-eyes-200b-data-center-064556704.html)**
-
-India is hoping to garner as much as $200 billion in investments for data centers over the next few years as it scales up its ambitions to become a hub for artificial intelligence, the country’s minister for electronics and information technology said Tuesday.  The investments underscore the reliance of tech titans on India as a key technology and talent base in the global race for AI dominance.  For New Delhi, they bring in high-value infrastructure and foreign capital at a scale that can accelerate its digital transformation ambitions.
-
-Yahoo Finance • 1h ago
-
----
-
-**[Exclusive: Pentagon warns Anthropic will "pay a price" as feud escalates](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth)**
-
-Axios • 18h ago
+The New York Times • 15h ago
 
 ---
 
@@ -173,21 +129,81 @@ Axios • 18h ago
 
 The Pentagon is pushing Anthropic, OpenAI, Google and xAI to let it use AI tools for weapons development, intelligence collection and battlefield operations.
 
-CNBC • 15h ago
+CNBC • 17h ago
 
 ---
 
-**[Anthropic’s Pentagon Talks Snag on AI for Surveillance, Weapons](https://www.bloomberg.com/news/articles/2026-02-16/pentagon-is-close-to-cutting-ties-with-anthropic-axios-says)**
+**[Could AI Become Smarter Than Humans? - Terms of Service with Clare Duffy - Podcast on CNN Podcasts](https://www.cnn.com/audio/podcasts/terms-of-service-with-clare-duffy/episodes/3cfdbe9e-af5d-11f0-b539-6f5beabe03a0)**
 
-Bloomberg.com • 5h ago
+Many in Silicon Valley say smarter-than-humans “Artificial General Intelligence” is just around the corner. But is it really possible to create superhuman AI? And should we want to? AI researcher and Cohere co-founder Nick Frosst explains why he thinks the industry shouldn’t be focused on AGI. And he shares his take on perhaps the biggest question surrounding this technology: Could it pose an existential threat to humanity? 
+
+Terms of Service is a CNN Podcasts and Goat Rodeo production.
+
+This episode was produced by Cara Shillenn.
+
+At Goat Rodeo, the lead producer is Rebecca Seidel
+
+Executive producers are Megan Nadolski and Ian Enright
+
+At CNN, Matt Martinez is our Senior Producer and Dan Dzula is our Technical Director.
+
+Production support from Sofía Sanchez and Dan Bloom. 
+
+Special thanks to Ludlow House and On Air Presents.
+
+CNN • 9m ago
 
 ---
 
-**[Alibaba unveils Qwen3.5 as China’s chatbot race shifts to AI agents](https://www.cnbc.com/2026/02/17/china-alibaba-qwen-ai-agent-latest-model.html)**
+**[Stock market doom loop is hitting everything that touches AI](https://www.ocregister.com/2026/02/16/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai/)**
 
-Alibaba Group has released its newest AI model series, featuring new agentic capabilities, as competition in China's AI space ramps up.
+A series of punishing selloffs have hammered dozens of companies across a number of industries.
 
-CNBC • 4h ago
+Orange County Register • 15h ago
+
+---
+
+**[AI Scare’s $56 Billion Hit Tests Resilience of India’s IT Stocks](https://www.bloomberg.com/news/articles/2026-02-16/ai-scare-s-56-billion-hit-tests-resilience-of-india-s-it-stocks)**
+
+Bloomberg.com • 6h ago
+
+---
+
+**[Palantir vs. Nvidia: Wall Street Says This Is the Best AI Stock to Buy Now](https://finance.yahoo.com/news/palantir-vs-nvidia-wall-street-083200496.html)**
+
+Palantir and Nvidia have been rewarding investments since the artificial intelligence trade exploded in late 2022.
+
+Yahoo Finance • 40m ago
+
+---
+
+**[Opinion | Massachusetts should require disclosure of AI in political advertising](https://www.bostonglobe.com/2026/02/17/opinion/ai-deepfakes-election-law/)**
+
+Ad featuring fake Maura Healey points to problem with deepfakes.
+
+The Boston Globe • 8m ago
+
+---
+
+**[Long queues and confusion mar first day of India's landmark AI summit](https://www.bbc.com/news/articles/ceqvjgrvpn3o)**
+
+The India-AI Impact Summit 2026 in Delhi is expected to be attended by top tech leaders from the world.
+
+BBC • 1h ago
+
+---
+
+**[India's AI Summit opening in New Delhi marred by long queues, confusion](https://www.reuters.com/world/india/indias-ai-summit-opening-new-delhi-marred-by-long-queues-confusion-2026-02-16/)**
+
+Reuters • 19h ago
+
+---
+
+**[Modi Seizes AI Summit to Assert India’s Global Ambitions After Tough Year](https://finance.yahoo.com/news/modi-seizes-ai-summit-assert-000000628.html)**
+
+Two months into the new year, he’s secured major trade pacts with the European Union and the US, will host several foreign leaders in the coming weeks who want to clinch their own deals, is riding a wave of popular support following key state elections, and his top officials expect economic growth will beat the government’s own forecasts.  This week, Modi will have an opportunity to showcase not only India’s global ambitions but also his own resurgence when he takes the stage at a high profile artificial intelligence summit in New Delhi.  In attendance at the India AI Impact Summit will be more than a dozen heads of state, including from France and Brazil, and some of the most influential leaders in the tech world — from OpenAI’s Sam Altman to Sundar Pichai of Alphabet Inc. to Anthropic PBC’s Dario Amodei.
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -199,7 +215,7 @@ CNBC • 4h ago
 
 Outlets like The Guardian and The New York Times are scrutinizing digital archives as potential backdoors for AI crawlers.
 
-⬆️ 566 • 💬 364 • 2d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+⬆️ 567 • 💬 364 • 2d ago • [Nieman Lab](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 
 ---
 
@@ -207,7 +223,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 : The software doesn't show what files it's working on
 
-⬆️ 372 • 💬 225 • 20h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 374 • 💬 232 • 22h ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -215,7 +231,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 350 • 💬 289 • 19h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 354 • 💬 292 • 20h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -225,7 +241,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 322 • 💬 247 • 7h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 340 • 💬 257 • 8h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -233,7 +249,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last.This is a...
 
-⬆️ 149 • 💬 239 • 14h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+⬆️ 151 • 💬 241 • 15h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 
 ---
 
@@ -257,7 +273,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 I think I have an idea why we're so extremely divided on AI: it's because we have an intuitive sense of who it stands to benefit, and who stands to pay the costs. I think whether you see reason for optimism has a lot to do with which group you see yourself in.
 
-⬆️ 118 • 💬 115 • 13h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
+⬆️ 121 • 💬 117 • 15h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
 
 ---
 
@@ -265,15 +281,15 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 Learn maths, computing, and artificial intelligence with intuition. - HenryNdubuaku/maths-cs-ai-compendium
 
-⬆️ 71 • 💬 17 • 16h ago • [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+⬆️ 73 • 💬 17 • 17h ago • [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 
 ---
 
-**[Show HN: Klaw.sh – Kubernetes for AI agents](https://news.ycombinator.com/item?id=47025478)**
+**[Building for an audience of one: starting and finishing side projects with AI](https://news.ycombinator.com/item?id=47041973)**
 
-kubectl for AI Agents. Contribute to klawsh/klaw.sh development by creating an account on GitHub.
+My Plasma task switcher was a second too slow, so I built - and shipped - my own in Zig, without actually knowing Zig, using AI tools.
 
-⬆️ 56 • 💬 44 • 1d ago • [GitHub](https://github.com/klawsh/klaw.sh)
+⬆️ 63 • 💬 31 • 9h ago • [codemade.net](https://codemade.net/blog/building-for-one/)
 
 ---
 
@@ -281,13 +297,13 @@ kubectl for AI Agents. Contribute to klawsh/klaw.sh development by creating an a
 
 ## YouTube Videos: "ai"
 
-**[AI-generated fight video of Tom Cruise and Brad Pitt sparks backlash in Hollywood](https://www.youtube.com/watch?v=zf83B7zSBVA)**
+**[AI is destroying open source, and it&#39;s not even good yet](https://www.youtube.com/watch?v=bZJ7A1QoUEI)**
 
-A 15-second clip released late last week seemed to have all the hallmarks of a big Hollywood studio: two mega-famous leading ...
+This is why we can't have nice things. Referenced in this video: - Ars Technica's redaction: ...
 
-📺 CBS Evening News
+📺 Jeff Geerling
 
-👁️ 11K • 👍 118 • 💬 27 • ⏱️ 1:49 • 6h ago
+👁️ 89K • 👍 8K • 💬 657 • ⏱️ 3:37 • 11h ago
 
 ---
 
@@ -297,17 +313,7 @@ PlayStation 6 delays, hardware prices increasing by massive amounts. AI is takin
 
 📺 Stylosa
 
-👁️ 8K • 👍 308 • 💬 183 • ⏱️ 25:36 • 14h ago
-
----
-
-**[Uproar Over AI-Generated Brad Pitt And Tom Cruise Fight Scene](https://www.youtube.com/watch?v=pDA1LMceoRY)**
-
-There has been a growing uproar Monday over a fight scene between Brad Pitt and Tom Cruise. The A-list actors appeared to be ...
-
-📺 Inside Edition
-
-👁️ 32K • 👍 838 • 💬 236 • ⏱️ 2:11 • 9h ago
+👁️ 8K • 👍 318 • 💬 188 • ⏱️ 25:36 • 15h ago
 
 ---
 
@@ -317,27 +323,17 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 71K • 👍 3K • 💬 850 • ⏱️ 16:13 • 1d ago
+👁️ 72K • 👍 3K • 💬 861 • ⏱️ 16:13 • 1d ago
 
 ---
 
-**[5 AI Skills That Will Be Worth $500K/Year by 2027](https://www.youtube.com/watch?v=9F-TcTlD5TE)**
+**[Uproar Over AI-Generated Brad Pitt And Tom Cruise Fight Scene](https://www.youtube.com/watch?v=pDA1LMceoRY)**
 
-Let's connect on LinkedIn: https://www.linkedin.com/in/christian-peverelli/ DFY OpenClaw: http://dripl.ink/xOgeB AI Sales Outbond: ...
+There has been a growing uproar Monday over a fight scene between Brad Pitt and Tom Cruise. The A-list actors appeared to be ...
 
-📺 Christian Peverelli - WeAreNoCode
+📺 Inside Edition
 
-👁️ 5K • 👍 235 • 💬 12 • ⏱️ 26:27 • 18h ago
-
----
-
-**[NVIDIA’s Insane AI Found The Math Of Reality](https://www.youtube.com/watch?v=WNsSzX0L4Es)**
-
-Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
-
-📺 Two Minute Papers
-
-👁️ 81K • 👍 5K • 💬 258 • ⏱️ 9:10 • 1d ago
+👁️ 38K • 👍 926 • 💬 254 • ⏱️ 2:11 • 10h ago
 
 ---
 
@@ -347,27 +343,17 @@ Prominent safety researchers at two of the world's most advanced A.I. labs, Open
 
 📺 MS NOW
 
-👁️ 24K • 👍 376 • 💬 91 • ⏱️ 8:34 • 1d ago
+👁️ 24K • 👍 379 • 💬 91 • ⏱️ 8:34 • 1d ago
 
 ---
 
-**[I Asked AI To Recreate An Image From A Single Pixel](https://www.youtube.com/watch?v=Li4CqMXTfs0)**
+**[NVIDIA’s Insane AI Found The Math Of Reality](https://www.youtube.com/watch?v=WNsSzX0L4Es)**
 
-Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers The paper is available here: ...
 
-📺 Sambucha
+📺 Two Minute Papers
 
-👁️ 1.5M • 👍 70K • 💬 433 • ⏱️ 0:50 • 13h ago
-
----
-
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
-
-news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
-
-📺 Tyrone Magnus
-
-👁️ 39K • 👍 2K • 💬 425 • ⏱️ 9:43 • 1d ago
+👁️ 83K • 👍 5K • 💬 263 • ⏱️ 9:10 • 1d ago
 
 ---
 
@@ -377,7 +363,37 @@ AI is already reshaping the value of human expertise, but its effects on workers
 
 📺 Bloomberg Television
 
-👁️ 83K • 👍 1K • 💬 237 • ⏱️ 11:27 • 1d ago
+👁️ 86K • 👍 1K • 💬 241 • ⏱️ 11:27 • 1d ago
+
+---
+
+**[5 AI Skills That Will Be Worth $500K/Year by 2027](https://www.youtube.com/watch?v=9F-TcTlD5TE)**
+
+Let's connect on LinkedIn: https://www.linkedin.com/in/christian-peverelli/ DFY OpenClaw: http://dripl.ink/xOgeB AI Sales Outbond: ...
+
+📺 Christian Peverelli - WeAreNoCode
+
+👁️ 6K • 👍 253 • 💬 13 • ⏱️ 26:27 • 19h ago
+
+---
+
+**[I Asked AI To Recreate An Image From A Single Pixel](https://www.youtube.com/watch?v=Li4CqMXTfs0)**
+
+Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://www.x.com/sambucha Become a Member: ...
+
+📺 Sambucha
+
+👁️ 1.6M • 👍 75K • 💬 443 • ⏱️ 0:50 • 14h ago
+
+---
+
+**[Racist AI Content Floods The Internet](https://www.youtube.com/watch?v=Y3YcKIRqmaM)**
+
+The racist Obama video was a sign of a larger problem, AI content denigrating Black people has been mass produced and ...
+
+📺 Reese Waters
+
+👁️ 82K • 👍 8K • 💬 948 • ⏱️ 36:30 • 1d ago
 
 ---
 
@@ -393,7 +409,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 166,549 • ❤️ 1,259 • 3d ago
+⬇️ 168,262 • ❤️ 1,263 • 3d ago
 
 ---
 
@@ -405,19 +421,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 18,895 • ❤️ 671 • 23h ago
-
----
-
-**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
-
-*Nanbeige LLM Lab*
-
-Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It uniquely supports deep-search tasks with extensive tool use, making it suitable for advanced problem-solving and agentic applications.
-
-`text-generation` `3.9B`
-
-⬇️ 21,014 • ❤️ 507 • 3d ago
+⬇️ 31,619 • ❤️ 674 • 1d ago
 
 ---
 
@@ -429,7 +433,19 @@ Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Del
 
 `image-text-to-text` `403.4B`
 
-⬇️ 0 • ❤️ 499 • 21h ago
+⬇️ 19,629 • ❤️ 517 • 22h ago
+
+---
+
+**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
+
+*Nanbeige LLM Lab*
+
+Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It uniquely supports deep-search tasks with extensive tool use, making it suitable for advanced problem-solving and agentic applications.
+
+`text-generation` `3.9B`
+
+⬇️ 32,023 • ❤️ 512 • 3d ago
 
 ---
 
@@ -441,7 +457,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 3,665 • ❤️ 450 • 5d ago
+⬇️ 3,859 • ❤️ 453 • 5d ago
 
 ---
 
@@ -453,7 +469,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 788,036 • ❤️ 2,210 • 12d ago
+⬇️ 855,279 • ❤️ 2,211 • 12d ago
 
 ---
 
@@ -465,7 +481,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,486 • ❤️ 220 • 5d ago
+⬇️ 6,648 • ❤️ 220 • 5d ago
 
 ---
 
@@ -477,7 +493,7 @@ Qwen3-Coder-Next is a highly efficient 3B activated parameter LLM (80B total) op
 
 `text-generation` `79.7B`
 
-⬇️ 292,364 • ❤️ 892 • 13d ago
+⬇️ 313,206 • ❤️ 893 • 13d ago
 
 ---
 
@@ -489,7 +505,7 @@ PersonaPlex-7B is a real-time speech-to-speech conversational model that jointly
 
 `audio-to-audio`
 
-⬇️ 366,815 • ❤️ 1,924 • 1d ago
+⬇️ 405,818 • ❤️ 1,930 • 1d ago
 
 ---
 
@@ -501,7 +517,7 @@ MOSS-TTS is a family of high-fidelity, expressive speech and sound generation mo
 
 `text-to-speech` `8.5B`
 
-⬇️ 9,596 • ❤️ 206 • 3d ago
+⬇️ 15,989 • ❤️ 206 • 3d ago
 
 ---
 
@@ -609,7 +625,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 65 • 💬 1 • ⭐ 7,798 • 26d ago
+▲ 66 • 💬 1 • ⭐ 7,798 • 26d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -649,7 +665,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 7.9k • 🔱 765 • 58m ago
+⭐ 8.2k • 🔱 791 • 6m ago
 
 ---
 
@@ -685,27 +701,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.6k • 🔱 268 • 5h ago
-
----
-
-**[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)**
-
-Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
-
-`Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
-
-⭐ 2.2k • 🔱 155 • 8h ago
-
----
-
-**[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)**
-
-All-in-one AI framework & toolkit for Claude Code & Cursor
-
-`Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
-
-⭐ 2.2k • 🔱 112 • 3d ago
+⭐ 2.7k • 🔱 267 • 6h ago
 
 ---
 
@@ -715,7 +711,27 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 2.2k • 🔱 247 • 6d ago
+⭐ 2.3k • 🔱 257 • 6d ago
+
+---
+
+**[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)**
+
+Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and other IDEs. Stop babysitting your terminal.
+
+`Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
+
+⭐ 2.3k • 🔱 155 • 9h ago
+
+---
+
+**[mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis)**
+
+All-in-one AI framework & toolkit for Claude Code & Cursor
+
+`Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
+
+⭐ 2.2k • 🔱 112 • 40m ago
 
 ---
 
@@ -725,7 +741,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.1k • 🔱 268 • 12h ago
+⭐ 2.2k • 🔱 271 • 13h ago
 
 ---
 
