@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-17T04:31:00.311735+00:00'
+updated: '2026-02-17T05:57:52.779405+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 04:31 UTC  
+**Last Updated:** February 17, 2026 at 05:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,226.88
+### $68,172.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.3%  
-**7d:** +2.3%  
-**30d:** -25.9%  
-**90d:** -21.2%  
-**1y:** -28.2%  
+**24h:** -0.4%  
+**7d:** +1.6%  
+**30d:** -26.4%  
+**90d:** -21.7%  
+**1y:** -28.7%  
 
 ---
 
@@ -81,21 +81,13 @@ Rank #1
 
 Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
 
-5h ago
+6h ago
 
 ---
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-18h ago
-
----
-
-**[Paul Krugman says one reasonable thing about Bitcoin on Bloomberg](https://www.reddit.com/r/Bitcoin/comments/1r6i14v/paul_krugman_says_one_reasonable_thing_about/)**
-
-Full segment is on YouTube.
-
-9h ago
+20h ago
 
 ---
 
@@ -103,13 +95,21 @@ Full segment is on YouTube.
 
 Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on Square merchants. (most restaurants and places use Square to process credit and debit cards) and NO FEES OR SPREAD if you use Direct Deposit or DCA daily weekly monthly! ORRRR if you purchase over $2K of Bitcoin whenever. CashApp made a post being ONLY Bitcoin and how they want to make it every day money and support it HEAVILY
 
-12h ago
+13h ago
+
+---
+
+**[Paul Krugman says one reasonable thing about Bitcoin on Bloomberg](https://www.reddit.com/r/Bitcoin/comments/1r6i14v/paul_krugman_says_one_reasonable_thing_about/)**
+
+Full segment is on YouTube.
+
+11h ago
 
 ---
 
 **[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on 
 
 The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
 
-🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 12h ago
+🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 13h ago
 
 ---
 
@@ -125,13 +125,13 @@ The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025
 
 Why is everyone spreading fear about bitcoin but the institutions are buying it up
 
-5h ago
+7h ago
 
 ---
 
-**[1099-C from bitpay: how will the IRS ever know our cost basis?](https://www.reddit.com/r/Bitcoin/comments/1r6rik1/1099c_from_bitpay_how_will_the_irs_ever_know_our/)**
+**[first time ever buying](https://www.reddit.com/r/Bitcoin/comments/1r6tx4f/first_time_ever_buying/)**
 
-Is this high risk for audit? Seems like they are just creating headaches for themselves
+brother, genuinely feel like right now I should drop every last penny into it. It would be like a long term investment, I live with my parents so if it doesn’t work out too well I don’t really see it being that bad.
 
 3h ago
 
@@ -141,13 +141,15 @@ Is this high risk for audit? Seems like they are just creating headaches for the
 
 Matt Odell's sage advice to "stay humble, stack sats" proved to be more true than ever this cycle. Buy spot bitcoin. Figure out the best custody solution possible. Hold it for the longterm. That's it. That's the winning move.
 
-6h ago
+7h ago
 
 ---
 
-**[A property seller featured on a 2015 episode of Million Dollar Listing New York, declined 50,000 Bitcoin for their $14M two-bed apartment](https://www.reddit.com/r/Bitcoin/comments/1r5pqss/a_property_seller_featured_on_a_2015_episode_of/)**
+**[Everyone's asking where BTCs bottom is...](https://www.reddit.com/r/Bitcoin/comments/1r6oapb/everyones_asking_where_btcs_bottom_is/)**
 
-1d ago
+I found it!
+
+7h ago
 
 ---
 
@@ -159,23 +161,31 @@ Matt Odell's sage advice to "stay humble, stack sats" proved to be more true tha
 
 Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
 
-The Atlantic • 16h ago
+The Atlantic • 17h ago
 
 ---
 
-**[Bitcoin’s slide may signal broader market trouble and a U.S. recession, Mike McGlone says](https://www.coindesk.com/markets/2026/02/16/bitcoin-s-slide-may-signal-broader-market-trouble-and-a-u-s-recession-mike-mcglone-says)**
+**[Bitcoin (BTC) price forecast: Dollar bearish positioning hits highest since 2012.](https://www.coindesk.com/markets/2026/02/17/bofa-survey-shows-record-bearish-dollar-bets-here-s-what-it-means-for-bitcoin)**
 
-McGlone argues collapsing crypto and stretched equity metrics could end the “buy the dip” era, while Jason Fernandes says only a credit shock would justify a move toward $10,000.
+BofA's February survey shows investor positioning in the U.S. dollar has fallen to its most negative level since at least early 2012.
 
-CoinDesk • 6h ago
+CoinDesk • 13m ago
 
 ---
 
-**[Strategy Leans On Equity Conversion To Sustain Aggressive Bitcoin Exposure](https://finance.yahoo.com/news/strategy-leans-equity-conversion-sustain-031202999.html)**
+**[Bitcoin Price Reclaims $70,000 After Deep February Slide](https://bitcoinmagazine.com/markets/bitcoin-price-reclaims-70000-after-feb)**
 
-Strategy Inc, NasdaqGS:MSTR, has highlighted its focus on resilience to sharp Bitcoin price declines. The company is pursuing a plan to convert about $6b of bond debt into equity as part of its ongoing Bitcoin accumulation approach. Management has reiterated its intention to keep adding Bitcoin despite substantial unrealized losses on existing holdings. Strategy, trading at $133.88, sits at the center of the corporate Bitcoin conversation, with its share price reflecting sharp swings in...
+After a rough sell-off that dragged BTC near $60,000, the bitcoin price has rebounded above $70,000.
 
-Yahoo Finance • 1h ago
+Bitcoin Magazine • 2d ago
+
+---
+
+**[Bitcoin 'Boom-Bust' Era Is Over as Institutions Take the Lead: WisdomTree](https://finance.yahoo.com/news/bitcoin-boom-bust-era-over-164048138.html)**
+
+Crypto's adolescence is over—and institutional capital is changing the rules of engagement, says WisdomTree's latest market analysis.
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -183,45 +193,13 @@ Yahoo Finance • 1h ago
 
 Bitcoin (BTC), the world's first decentralized cryptocurrency, was launched in 2009 in the wake of the global financial crisis in 2008. The goal was to give financial autonomy to the people and liberate them from the clutches of Wall Street. But the way Bitcoin has increasingly become integrated ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
+**[Bitcoin Looks for Direction After Four Straight Weekly Losses](https://www.bloomberg.com/news/articles/2026-02-16/bitcoin-looks-for-direction-after-four-straight-weekly-losses)**
 
-Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
-
-BBC • 2d ago
-
----
-
-**[SoFi Technologies Just Proved Bitcoin Has a Clear Use Case for Fintech](https://www.nasdaq.com/articles/sofi-technologies-just-proved-bitcoin-has-clear-use-case-fintech)**
-
-Key PointsSoFi's huge success can be credited to its focus on innovation, which is on full display right now.
-
-Nasdaq • 5h ago
-
----
-
-**[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
-
-x.com • 11h ago
-
----
-
-**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
-
-Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
-
-The Block • 18h ago
-
----
-
-**[TMZ receives fourth bitcoin demand for info on Nancy Guthrie](https://www.nydailynews.com/2026/02/16/nancy-guthrie-fourth-bitcoin-demand-tmz/)**
-
-Media outlet TMZ has received a fourth demand for bitcoin in exchange for the name of Nancy Guthrie’s kidnapper, the entertainment news and gossip site said Monday.
-
-New York Daily News • 7h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -230,6 +208,30 @@ New York Daily News • 7h ago
 As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
 CNBC • 1d ago
+
+---
+
+**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
+
+Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
+
+The Block • 20h ago
+
+---
+
+**[Harvard cuts bitcoin exposure by 20%, adds new ether position](https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position)**
+
+The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
+
+CoinDesk • 15h ago
+
+---
+
+**[Harvard Cuts Bitcoin Holdings by 21%, Opens $87M Ethereum Position](https://coinmarketcap.com/academy/article/harvard-cuts-bitcoin-holdings-by-21percent-opens-dollar87m-ethereum-position)**
+
+The university's investment arm held 5.35 million shares of the iShares Bitcoin Trust valued at $265.8 million as of Dec. 31, according to SEC filings released Friday.
+
+CoinMarketCap • 9h ago
 
 ---
 
@@ -323,7 +325,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 342 • ⏱️ 39:54 • 12h ago
+👁️ 26K • 👍 1K • 💬 342 • ⏱️ 39:54 • 14h ago
 
 ---
 
@@ -333,7 +335,7 @@ Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will 
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 1K • 💬 324 • ⏱️ 10:49 • 2h ago
+👁️ 16K • 👍 1K • 💬 324 • ⏱️ 10:49 • 4h ago
 
 ---
 
@@ -343,7 +345,7 @@ Ballet CEO Bobby Lee, one of bitcoin's longest‑standing bulls, warns the crypt
 
 📺 Bloomberg Television
 
-👁️ 7K • 👍 193 • 💬 99 • ⏱️ 10:12 • 4h ago
+👁️ 7K • 👍 193 • 💬 99 • ⏱️ 10:12 • 5h ago
 
 ---
 
@@ -363,7 +365,7 @@ Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin cr
 
 📺 Crypto Insider
 
-👁️ 23K • 👍 1K • 💬 129 • ⏱️ 18:15 • 14h ago
+👁️ 23K • 👍 1K • 💬 129 • ⏱️ 18:15 • 15h ago
 
 ---
 
@@ -383,7 +385,7 @@ In January, we outlined a late-cycle restrictive regime and leaned cautious on r
 
 📺 Benjamin Cowen
 
-👁️ 69K • 👍 4K • 💬 192 • ⏱️ 13:07 • 23h ago
+👁️ 69K • 👍 4K • 💬 192 • ⏱️ 13:07 • 1d ago
 
 ---
 
@@ -393,7 +395,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 3K • 👍 372 • 💬 62 • ⏱️ 25:28 • 2h ago
+👁️ 3K • 👍 372 • 💬 62 • ⏱️ 25:28 • 3h ago
 
 ---
 
@@ -403,7 +405,7 @@ Let's talk about Bitcoin Dominance! Into The Cryptoverse Premium (Use code ITC50
 
 📺 Benjamin Cowen
 
-👁️ 67K • 👍 4K • 💬 143 • ⏱️ 18:10 • 1d ago
+👁️ 67K • 👍 4K • 💬 143 • ⏱️ 18:10 • 2d ago
 
 ---
 
@@ -413,7 +415,7 @@ Join Elon Musk and Cathie Wood for an in-depth discussion on the future of inves
 
 📺 gtmshrma
 
-👁️ 35K • 👍 6K • 9h ago
+👁️ 35K • 👍 6K • 11h ago
 
 ---
 

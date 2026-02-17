@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T04:31:00.321061+00:00'
+updated: '2026-02-17T05:57:52.788843+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 04:31 UTC  
+**Last Updated:** February 17, 2026 at 05:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,21 +34,13 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-13h ago
+14h ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-5h ago
-
----
-
-**[Ever wake up feeling like you need exoskeleton to carry you through the day? Same](https://www.reddit.com/r/robotics/comments/1r6q52t/ever_wake_up_feeling_like_you_need_exoskeleton_to/)**
-
-Just caught the new content on Ascentiz's page. The FDE version in the sun looks so good! I’m officially sold on the look. Check out their social media page to see what I mean.
-
-4h ago
+6h ago
 
 ---
 
@@ -56,7 +48,15 @@ Just caught the new content on Ascentiz's page. The FDE version in the sun looks
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 11h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 13h ago
+
+---
+
+**[Ever wake up feeling like you need exoskeleton to carry you through the day? Same](https://www.reddit.com/r/robotics/comments/1r6q52t/ever_wake_up_feeling_like_you_need_exoskeleton_to/)**
+
+Just caught the new content on Ascentiz's page. The FDE version in the sun looks so good! I’m officially sold on the look. Check out their social media page to see what I mean.
+
+6h ago
 
 ---
 
@@ -64,13 +64,13 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 For context I’m building a pretty advanced bionic hand, and I already have an Arduino and a lot of servos, a breadboard, and a 5V battery pack. My old model had 6 servos, so I just powered them through the breadboard with the battery pack. This probably wasn’t safe, but I put the battery pack’s ground and power wires into separate rails, and put each servos ground and power pin into the rails. My new model will probably have 23 servos (most likely sg90s or a similar model), and I’m just completely lost as to how to control all of them. The Arduino doesn’t even have that many signal pins. Where could I learn just the entire electronics side of robotics? Could anyone help? How would I power 23 servos? U Thanks.
 
-5h ago
+6h ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -78,7 +78,7 @@ For context I’m building a pretty advanced bionic hand, and I already have an 
 
 Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robotics related things if anyone can plz list it out also I'm in my final year of engineering ECE and i know very basic of all these mentioned I need full deep learning and good projects , i already have a job in robotics ai but to make it full time I need to gear up and learn a lot and build projects so Help me to find a best course,im ready to pay also but not that costly still broke need certification cause they might be valued in future also etc etc Building projects will be my part but I need to learn first
 
-8h ago
+10h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robot
 
 So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
 
-9h ago
+11h ago
 
 ---
 
@@ -94,7 +94,7 @@ So we have a pick and place bot competition in 3 days, and we planned to prepare
 
 Robotics software engineers here: is it possible to write functional infrastructure software using simulated environments (e.g. Isaac to get sensor data and pipe it into Jetson hw) that can be shifted to a compatible robot without too much hassle?
 
-10h ago
+11h ago
 
 ---
 
@@ -102,7 +102,7 @@ Robotics software engineers here: is it possible to write functional infrastruct
 
 I’m planning to make a pen plotter for my college project and I’m really interested in this but I’m not really knowledgeable about this. The plotter I have in mind is a corexy model and I don’t know much about it. I’d really appreciate some help and insight into this. Anyone please help me regarding this.
 
-10h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ I’m planning to make a pen plotter for my college project and I’m really int
 
 **[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
 
-Reuters • 20h ago
+Reuters • 21h ago
 
 ---
 
@@ -128,7 +128,7 @@ South China Morning Post • 1d ago
 
 BEIJING, Feb 16 (Reuters) - China's most-watched TV show, the annual CCTV Spring Festival gala, will be viewed later on Monday as a showcase for the country's cutting-edge industrial policy and
 
-Yahoo • 20h ago
+Yahoo • 21h ago
 
 ---
 
@@ -144,7 +144,15 @@ Futurism • 1d ago
 
 Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Fox News • 11h ago
+Fox News • 12h ago
+
+---
+
+**[Kung Fu robots perform at Spring Festival Gala](https://www.cnn.com/2026/02/16/world/video/kung-fu-robots-perform-at-spring-festival-gala-digvid-vrtc)**
+
+A group of humanoid robots teamed up with young Kung Fu artists for a thrilling martial arts performance at the 2026 Spring Festival Gala in Beijing on Monday. The dynamic display featured robots and human masters executing a series of impressive, choreographed stunts and synchronized moves on stage.
+
+CNN • 4h ago
 
 ---
 
@@ -156,11 +164,11 @@ KWQC • 1d ago
 
 ---
 
-**[Kung Fu robots perform at Spring Festival Gala](https://www.cnn.com/2026/02/16/world/video/kung-fu-robots-perform-at-spring-festival-gala-digvid-vrtc)**
+**[China’s New $173K ‘Biometric’ Robot Aims to be a Warm-Blooded Companion For Humans](https://www.zmescience.com/science/robotics/chinas-new-173k-biometric-robot-aims-to-be-a-warm-blooded-companion-for-humans/)**
 
-A group of humanoid robots teamed up with young Kung Fu artists for a thrilling martial arts performance at the 2026 Spring Festival Gala in Beijing on Monday. The dynamic display featured robots and human masters executing a series of impressive, choreographed stunts and synchronized moves on stage.
+China’s new lifelike robot hints at a future of intimate human-machine interaction.
 
-CNN • 2h ago
+ZME Science • 11h ago
 
 ---
 
@@ -168,23 +176,15 @@ CNN • 2h ago
 
 The Economics Show 🤜🤛 FT Alphaville
 
-Financial Times • 18h ago
+Financial Times • 19h ago
 
 ---
 
-**[Video: US firm’s laundry-folding home robot launches with monthly subscription](https://interestingengineering.com/ai-robotics/video-laundry-folding-home-robot)**
+**[Blackburn, Blumenthal probe robotics company after AI toy audio found publicly accessible](https://wcyb.com/news/local/blackburn-blumenthal-probe-robotics-company-after-ai-toy-audio-found-publicly-accessible)**
 
-Weave Robotics' Isaac 0 folds clothes using AI, with remote human assistance helping to improve its performance over time.
+U.S. Sens. Marsha Blackburn (R-Tenn.) and Richard Blumenthal (D-Conn.) said they are investigating an artificial intelligence toy manufacturer after what they d
 
-Interesting Engineering • 18h ago
-
----
-
-**[These Three Robots Might Be The Key To Living On The Moon](https://www.bgr.com/2099455/robots-explore-lava-tubes-key-moon-settlement/)**
-
-Subterranean caves might be the safest place for people to live on the moon, and the trio of SherpaTT, Coyote III, and LUVMI-X are meant to scope them out.
-
-bgr.com • 10h ago
+WCYB • 3d ago
 
 ---
 
@@ -198,7 +198,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 153K • 👍 4K • 💬 618 • ⏱️ 1:41 • 12h ago
+👁️ 153K • 👍 4K • 💬 618 • ⏱️ 1:41 • 13h ago
 
 ---
 
@@ -208,7 +208,7 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 📺 Carros Show
 
-👁️ 2K • 👍 69 • 💬 6 • ⏱️ 9:20 • 18h ago
+👁️ 2K • 👍 69 • 💬 6 • ⏱️ 9:20 • 20h ago
 
 ---
 
@@ -218,7 +218,7 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 117K • 👍 3K • 💬 2K • ⏱️ 2:37 • 12h ago
+👁️ 117K • 👍 3K • 💬 2K • ⏱️ 2:37 • 14h ago
 
 ---
 
@@ -228,7 +228,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 25K • 👍 760 • 💬 111 • ⏱️ 9:26 • 10h ago
+👁️ 25K • 👍 760 • 💬 111 • ⏱️ 9:26 • 11h ago
 
 ---
 

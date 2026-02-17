@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T04:31:00.317786+00:00'
+updated: '2026-02-17T05:57:52.785569+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
+- social
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 04:31 UTC  
+**Last Updated:** February 17, 2026 at 05:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,989.17
+### $1,974.87
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +2.6%  
-**30d:** -37.5%  
-**90d:** -29.8%  
-**1y:** -25.4%  
+**24h:** +0.4%  
+**7d:** +1.7%  
+**30d:** -38.1%  
+**90d:** -30.5%  
+**1y:** -26.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stab
 
 We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
 
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 10h ago
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 12h ago
 
 ---
 
@@ -96,7 +96,7 @@ We're a group of researchers and have just prepared a draft addressing a gap in 
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-13h ago
+15h ago
 
 ---
 
@@ -150,81 +150,79 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ## Google News: "ethereum"
 
-**[Harvard cuts bitcoin exposure by 20%, adds new ether position](https://www.coindesk.com/business/2026/02/16/harvard-cuts-bitcoin-exposure-by-20-adds-new-ether-position)**
-
-The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
-
-CoinDesk • 13h ago
-
----
-
-**[Assessing BlackRock (BLK) Valuation As Harvard Shifts Crypto Exposure Toward Ethereum ETFs](https://finance.yahoo.com/news/assessing-blackrock-blk-valuation-harvard-031309484.html)**
-
-Harvard Management Company’s latest filing shows a clear shift inside BlackRock (BLK) linked crypto products, with a reduced position in its bitcoin ETF and a sizable new allocation to the firm’s Ethereum focused fund. See our latest analysis for BlackRock. BlackRock’s crypto pivot is landing at a time when its shares trade at US$1,071.51, with a 1 day share price return of 1.50% but a 30 day share price return showing a 7.88% decline, while a 1 year total shareholder return of 12.28% and 3...
-
-Yahoo Finance • 1h ago
-
----
-
 **[Harvard Cuts Bitcoin Holdings by 21%, Opens $87M Ethereum Position](https://coinmarketcap.com/academy/article/harvard-cuts-bitcoin-holdings-by-21percent-opens-dollar87m-ethereum-position)**
 
 The university's investment arm held 5.35 million shares of the iShares Bitcoin Trust valued at $265.8 million as of Dec. 31, according to SEC filings released Friday.
 
-CoinMarketCap • 4h ago
+CoinMarketCap • 9h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqfiXnKEnKomQ7Q-XIfi-gFyGZYfi0TyLv0yQWnLUTEKVrFwtslWetIC&gaa_ts=6993f26f&gaa_sig=ucqyhaoMycn1KWW37lisblq2wxMPGishanAcSv3XEsP6jxJK3hwlQJE2E2_GRIp-1kWOEnHxQs-37lVBXC6puA%3D%3D)**
+**[Harvard University Opens New Position in Ethereum (ETH)](https://www.tipranks.com/news/harvard-university-opens-new-position-in-ethereum-eth)**
 
-Barron's • 18h ago
+TipRanks • 10h ago
 
 ---
 
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
+**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://decrypt.co/358162/harvard-cuts-bitcoin-etf-stake-adds-ethereum-exposure-in-q4-filing)**
 
-Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
+Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
+
+Decrypt • 13h ago
+
+---
+
+**[Tom Lee Calls Bitcoin and Ethereum Price Bottom, Claims Crypto Winter Is 'Close To Ending' as Wall Street Backs Bitmine](https://finance.yahoo.com/news/tom-lee-calls-bitcoin-ethereum-105715079.html)**
+
+Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
+
+Yahoo Finance • 19h ago
+
+---
+
+**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/14/better-cryptocurrency-to-buy-with-3000-and-hold-fo/)**
+
+The coming years are going to see competition heat up significantly in the realm of tokenized asset management.
+
+The Motley Fool • 2d ago
+
+---
+
+**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
+
+Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
 Nasdaq • 2d ago
 
 ---
 
-**[The Best Cryptocurrency to Buy With $100 Right Now](https://www.fool.com/investing/2026/02/16/the-best-cryptocurrency-to-buy-with-100-right-now/)**
+**[Why Are Bitcoin, Ethereum, and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:d643e85cc094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
 
-Ethereum's price is down, but there's a clear path to recovery.
+The cryptocurrency market is facing another day of losses, with major assets such as Bitcoin, Ethereum, and XRP moving lower as overall market confidence weakens. The total crypto market value has dropped to around $2.32 trillion, showing continued pressure across digital assets.Institutional Selli…
 
-The Motley Fool • 16h ago
-
----
-
-**[Has Bitcoin and Ethereum Reached Price Bottom? Tom Lee Claims Crypto Winter Is “Close To Ending”](https://www.ccn.com/news/crypto/tom-lee-calls-bitcoin-and-ethereum-bottom-claims-crypto-winter/)**
-
-Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
-
-CCN.com • 17h ago
+TradingView • 13h ago
 
 ---
 
-**[Hyperunit Whale Dumps $500M In Ethereum As Massive Crypto Bet Turns Sour](https://www.tradingview.com/news/newsbtc:91d4c1a1d094b:0-hyperunit-whale-dumps-500m-in-ethereum-as-massive-crypto-bet-turns-sour/)**
+**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqdb_eAIXgd57-o0p9HDBhr7snI5uUpz_nEamK7c5iNwb_sucGLQ1szN&gaa_ts=699406ce&gaa_sig=al9Vu7wKlKuQ8C37xp8LGjM7RpAiGWJbf9JrNc9PhfJfZ0tuU7oy-vZIB3os_DWKtEXHPBODcLSFgvDKzA7lqA%3D%3D)**
 
-Ethereum continues to struggle to reclaim the $2,000 level as persistent selling pressure and elevated volatility weigh on market sentiment. Repeated attempts to push higher have met resistance, reflecting cautious positioning among traders and broader uncertainty across the crypto market. While fl…
-
-TradingView • 12h ago
+Barron's • 19h ago
 
 ---
 
-**[$1T XRP trades on Upbit – Are Korean traders ignoring Bitcoin, Ethereum?](https://ambcrypto.com/1t-xrp-trades-on-upbit-are-korean-traders-ignoring-bitcoin-ethereum/)**
+**[Ethereum – Will staking, supply consolidation trends help ETH’s price action?](https://ambcrypto.com/ethereum-will-staking-supply-consolidation-trends-help-eths-price-action/)**
 
-XRP’s spot strength outpaces derivatives participation, reflecting Korea’s cash-market dominance in crypto sentiment flows.
+After a violent move, prices tend to consolidate and go sideways to build up liquidity in either direction.
 
-AMBCrypto • 11h ago
+AMBCrypto • 53m ago
 
 ---
 
-**[Brett DiNovi: Layer two solutions need strategic changes to enhance value, Ethereum's fragmentation hinders scalability, and execution is now paramount in blockchain ecosystems | Empire](https://cryptobriefing.com/brett-dinovi-layer-two-solutions-need-strategic-changes-to-enhance-value-ethereums-fragmentation-hinders-scalability-and-execution-is-now-paramount-in-blockchain-ecosystems-empire/)**
+**[Ethereum chops at the bottom of the range as we await a move. The chart is ominous](https://investinglive.com/Cryptocurrency/ethereum-chops-at-the-bottom-of-the-range-as-we-await-a-move-the-chart-is-ominous-20260216/)**
 
-Layer two solutions are reshaping Ethereum's future by tackling scalability and transaction costs head-on.
+Ethereum higher today but it's stuck near the bottom of the range
 
-Crypto Briefing • 13h ago
+investingLive • 12h ago
 
 ---
 
@@ -238,7 +236,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 474 • 👍 51 • 💬 2 • ⏱️ 4:03 • 2h ago
+👁️ 474 • 👍 51 • 💬 2 • ⏱️ 4:03 • 3h ago
 
 ---
 
@@ -258,7 +256,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 586 • 👍 25 • 💬 2 • ⏱️ 6:11 • 9h ago
+👁️ 586 • 👍 25 • 💬 2 • ⏱️ 6:11 • 11h ago
 
 ---
 
@@ -268,7 +266,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 203 • 💬 8 • ⏱️ 6:56 • 14h ago
+👁️ 3K • 👍 203 • 💬 8 • ⏱️ 6:56 • 16h ago
 
 ---
 
@@ -288,7 +286,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 538 • 👍 108 • 💬 10 • ⏱️ 12:38 • 2h ago
+👁️ 538 • 👍 108 • 💬 10 • ⏱️ 12:38 • 3h ago
 
 ---
 
@@ -308,7 +306,7 @@ In today's video, we take a calm and educational look at Bitmine (BMNR) and the 
 
 📺 BiGB Stcok
 
-👁️ 457 • 👍 25 • ⏱️ 5:31 • 6h ago
+👁️ 457 • 👍 25 • ⏱️ 5:31 • 7h ago
 
 ---
 
@@ -328,7 +326,7 @@ Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn h
 
 📺 World Liberty Financial
 
-👁️ 4K • 👍 45 • 💬 7 • ⏱️ 2:13 • 14h ago
+👁️ 4K • 👍 45 • 💬 7 • ⏱️ 2:13 • 15h ago
 
 ---
 
