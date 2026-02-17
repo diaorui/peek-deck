@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-17T15:26:56.348075+00:00'
+updated: '2026-02-17T16:31:42.765071+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
+- cryptocurrency
 - news
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 15:26 UTC  
+**Last Updated:** February 17, 2026 at 16:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,004.01
+### $67,862.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** +1.4%  
-**30d:** -26.6%  
-**90d:** -21.9%  
-**1y:** -28.8%  
+**24h:** -0.8%  
+**7d:** +0.6%  
+**30d:** -27.2%  
+**90d:** -22.5%  
+**1y:** -29.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1359.37B
+**Market Cap:** $1352.88B
 Rank #1
 
 **Circulating Supply:** 19,990,746 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.1%
+-46.4%
 
 **All-Time Low:** $67.81
-+100177.2%
++99554.9%
 
 ---
 
@@ -77,25 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
-
-13h ago
-
----
-
 **[While paper hands run away, Strategy has acquired 2,486 BTC for ~$168.4 million at ~$67,710 per coin. As of 2/16/2026, they HODL 717,131 BTC acquired for ~$54.52 billion at ~$76,027 per bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1r75u1n/while_paper_hands_run_away_strategy_has_acquired/)**
 
 February 17, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 2h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 3h ago
 
 ---
 
-**[Im going all in](https://www.reddit.com/r/Bitcoin/comments/1r6pov6/im_going_all_in/)**
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
 
-Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
-
-15h ago
+14h ago
 
 ---
 
@@ -103,7 +95,23 @@ Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here
 
 Let's say you have 210 BTC, would you keep it all in one wallet or would you have different hardware wallets?
 
-2h ago
+4h ago
+
+---
+
+**[Bitcoin ownership change in 2025](https://www.reddit.com/r/Bitcoin/comments/1r79p2b/bitcoin_ownership_change_in_2025/)**
+
+An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
+
+38m ago
+
+---
+
+**[Im going all in](https://www.reddit.com/r/Bitcoin/comments/1r6pov6/im_going_all_in/)**
+
+Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
+
+17h ago
 
 ---
 
@@ -111,7 +119,7 @@ Let's say you have 210 BTC, would you keep it all in one wallet or would you hav
 
 Mentioned in the Daily, though it's post worthy. Canaan Inc., a Singapore-based bitcoin mining hardware manufacturer, has partnered with Richmond, B.C.-based Bitforest Investment Ltd. on a Manitoba pilot project to reuse the heat from a computing system for a greenhouse. As pressure ramps up to find ways of addressing the high energy use of computing facilities like data centres, Canaan is “looking to partner with companies like (Bitforest) who have ideas for innovative ways to use heat reuse systems,” Canaan’s vice-president of corporate affairs Gwyn Lauber told Sustainable Biz Canada in an interview. The companies plan to recover heat from a three-megawatt (MW) Avalon computing system made by Canaan and redirect it to a nearby greenhouse where it will help grow tomatoes. As a proof-of-concept, it will give Canaan an idea of the efficiency of such technology as it considers similar efforts for the future. Canaan was founded in 2013 by Nangeng Zhang, its CEO and chairman. The company produces bitcoin mining equipment for corporations and individuals. Zhang married his fascination with bitcoin mining and energy efficiency through Canaan, Lauber said. For example, it makes equipment that doubles as a home heater. Bitforest is a data centre and greenhouse investor, builder and manager, according to its website. It will be responsible for the greenhouse heat reuse project. Sustainable Biz Canada has reached out to Bitforest for comment. We will update this article with any additional information if it becomes available. An incredibly efficient system In large computing facilities, the heat is often removed with liquid cooling. A closed loop of pipes carries a fluid through the machines to absorb the thermal energy, where it is then expelled outdoors. The cooled fluid is then recirculated to be reused. For the Canaan-Bitforest project, the companies are taking a different route. Rather than wasting the heat generated by the servers, which are to be held in four liquid-cooling containers outside the greenhouse, the heat recovery system will capture it to preheat the intake water for the greenhouse’s boilers. Doing so would reduce the energy needed to warm up the facility. Canaan estimates approximately 90 per cent of the electricity consumed by the computing servers will be recirculated throughout the greenhouse. “So it should be an incredibly efficient system,” Lauber said. The pilot is expected to begin in Q2 and run for 24 months. “The ultimate goal is for the technology to either be self-sustaining – make the greenhouse self-sustaining and to be the only heat source,” she explained, “or something that will be supplementing other forms of heat.” The heat recovery system is expected to offset some of the heating costs of the greenhouse. An undisclosed company is the owner of the greenhouse
 
-🔗 [sustainablebiz.ca](https://sustainablebiz.ca/heat-from-bitcoin-mining-system-to-warm-manitoba-greenhouse) • 4h ago
+🔗 [sustainablebiz.ca](https://sustainablebiz.ca/heat-from-bitcoin-mining-system-to-warm-manitoba-greenhouse) • 5h ago
 
 ---
 
@@ -119,7 +127,7 @@ Mentioned in the Daily, though it's post worthy. Canaan Inc., a Singapore-based 
 
 Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on Square merchants. (most restaurants and places use Square to process credit and debit cards) and NO FEES OR SPREAD if you use Direct Deposit or DCA daily weekly monthly! ORRRR if you purchase over $2K of Bitcoin whenever. CashApp made a post being ONLY Bitcoin and how they want to make it every day money and support it HEAVILY
 
-23h ago
+1d ago
 
 ---
 
@@ -127,7 +135,7 @@ Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on 
 
 Ended up using Strike as my main contender to purchase bitcoin. I need a document to provide I live at my residential home listed, issue is I live hours from my permanent adress due to college. So I can’t sell or send money but I can buy, ironically enough just gonna have what I have there sit until I return home in 2 years and see what happens. Like a little saving account and if things go up at graduation I get a little present for dental school. Gonna come back to this post and let ya’ll know how it goes.
 
-4h ago
+5h ago
 
 ---
 
@@ -135,27 +143,29 @@ Ended up using Strike as my main contender to purchase bitcoin. I need a documen
 
 I found it!
 
-16h ago
+17h ago
 
 ---
 
-**[first time ever buying](https://www.reddit.com/r/Bitcoin/comments/1r6tx4f/first_time_ever_buying/)**
+**[Brazil Revives Bill 4501 to Accumulate 1 Million BTC for Strategic National Reserve | Bitget News](https://www.reddit.com/r/Bitcoin/comments/1r71xlv/brazil_revives_bill_4501_to_accumulate_1_million/)**
 
-brother, genuinely feel like right now I should drop every last penny into it. It would be like a long term investment, I live with my parents so if it doesn’t work out too well I don’t really see it being that bad.
+Brazil reintroduces Bill 4501 to build a 1 million BTC strategic reserve over five years.   The proposal allows tax payments in Bitcoin and bans the sale of | Bitget crypto news!
 
-12h ago
-
----
-
-**[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
-
-1d ago
+🔗 [Bitget](https://www.bitget.com/news/detail/12560605200239?utm_source=chatgpt.com) • 6h ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Time To Swap Gold For Bitcoin?](https://realinvestmentadvice.com/resources/blog/time-to-swap-gold-for-bitcoin/)**
+
+Should you swap your gold holdings for bitcoin? Discover our analysis on the price ratio of the two "debasement" assets
+
+Real Investment Advice • 7h ago
+
+---
 
 **[Crypto Is a Victim of Its Own Success](https://www.theatlantic.com/ideas/2026/02/crypto-crash-bitcoin-value/685994/)**
 
@@ -165,75 +175,59 @@ The Atlantic • 1d ago
 
 ---
 
-**[Bitcoin (BTC) price forecast: Dollar bearish positioning hits highest since 2012.](https://www.coindesk.com/markets/2026/02/17/bofa-survey-shows-record-bearish-dollar-bets-here-s-what-it-means-for-bitcoin)**
+**[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
 
-BofA's February survey shows investor positioning in the U.S. dollar has fallen to its most negative level since at least early 2012.
-
-CoinDesk • 9h ago
+Bloomberg.com • 29m ago
 
 ---
 
-**[This $130 Stock Could Be Your Ticket to Millionaire Status](https://www.fool.com/investing/2026/02/16/this-130-stock-could-be-your-ticket-to-millionai/)**
+**[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
 
-Strategy's all-in bet on Bitcoin could bear fruit over the next few decades.
-
-The Motley Fool • 21h ago
+x.com • 23h ago
 
 ---
 
-**[Strategy (MSTR) news: company added 2,486 bitcoin last week](https://www.coindesk.com/markets/2026/02/17/michael-saylor-s-strategy-purchased-usd168-million-in-bitcoin-last-week)**
+**[Strategy’s Bitcoin Buying Accelerates as $48 Billion BTC Stash Sits Underwater](https://finance.yahoo.com/news/strategy-bitcoin-buying-accelerates-48-161342523.html)**
 
-The company's stack is now 717,131 bitcoin acquired for $54.52 billion, or $76,027 per coin. Bitcoin's current price is $68,000.
+Strategy reported its fourth-largest Bitcoin purchase of the year, a week after Michael Saylor's defense of the company's became a meme.
+
+Yahoo Finance • 18m ago
+
+---
+
+**[Bitcoin price will fall to $10,000 as crypto ‘bubble is imploding,’ warns Bloomberg analyst](https://finance.yahoo.com/news/bitcoin-price-fall-10-000-090428129.html)**
+
+Bitcoin is set to collapse by another 85%, analyst warns. AI disruption fears trigger broad stock market selloff.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin price news: BTC falls alongside key software ETF (IGV)](https://www.coindesk.com/markets/2026/02/17/bitcoin-slips-below-usd67-000-as-software-stocks-continue-to-plunge)**
+
+CoinDesk • 27m ago
+
+---
+
+**[Bitcoin Declines as Geopolitical Tension Adds to Risk-Off Mood](https://www.bloomberg.com/news/articles/2026-02-17/bitcoin-declines-as-geopolitical-tension-adds-to-risk-off-mood)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[CoinDesk 20 Performance Update: Bitcoin Cash (BCH) Drops 2.2%, Leading Index Lower](https://www.coindesk.com/coindesk-indices/2026/02/17/coindesk-20-performance-update-bitcoin-cash-bch-drops-2-2-leading-index-lower)**
+
+Ripple (XRP), down 1.5% from Monday, was also an underperformer.
 
 CoinDesk • 2h ago
 
 ---
 
-**[MicroStrategy claims it can survive Bitcoin crash to $8,000](https://www.thestreet.com/crypto/markets/microstrategy-claims-it-can-survive-bitcoin-crash-to-8000)**
+**[Metaplanet posts $619 million net loss on bitcoin valuation as holdings climb to 35,102 BTC](https://www.theblock.co/post/390048/metaplanet-posts-619-million-net-loss-on-bitcoin-valuation-as-holdings-climb-to-35102-btc)**
 
-MicroStrategy defends its balance sheet once again.
-
-thestreet.com • 22h ago
-
----
-
-**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
-
-Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
+Metaplanet posted a $619 million FY2025 loss on its bitcoin valuation, while its total holdings jumped to 35,102 BTC and revenue surged.
 
 The Block • 1d ago
-
----
-
-**[Banking giant Intesa Sanapolo discloses $100 million bitcoin ETF holdings, along with Strategy hedge](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge)**
-
-The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
-
-CoinDesk • 2h ago
-
----
-
-**[Morning Minute: Harvard Sells Bitcoin for Ethereum](https://finance.yahoo.com/news/morning-minute-harvard-sells-bitcoin-133231197.html)**
-
-Harvard's rotation from Bitcoin to ETH has raised the primary question—what do they know?
-
-Yahoo Finance • 1h ago
-
----
-
-**[Time To Swap Gold For Bitcoin?](https://realinvestmentadvice.com/resources/blog/time-to-swap-gold-for-bitcoin/)**
-
-Should you swap your gold holdings for bitcoin? Discover our analysis on the price ratio of the two "debasement" assets
-
-Real Investment Advice • 6h ago
-
----
-
-**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
-
-Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
-
-BBC • 2d ago
 
 ---
 
@@ -287,7 +281,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
-⬆️ 1 • 💬 1 • 1h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+⬆️ 1 • 💬 1 • 2h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -295,7 +289,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 Reverse-engineer how creative works operate—and what they train in audiences.
 
-⬆️ 1 • 💬 1 • 5d ago • [FalseWork](https://falsework.dev/)
+⬆️ 1 • 💬 1 • 6d ago • [FalseWork](https://falsework.dev/)
 
 ---
 
@@ -319,23 +313,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
+**[A MAJOR Bitcoin BREAKOUT Could Be Coming TODAY!](https://www.youtube.com/watch?v=7eE-ODUaITk)**
+
+Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
+
+📺 Crypto Jebb
+
+👁️ 2K • 👍 142 • 💬 8 • ⏱️ 49:39 • 1h ago
+
+---
+
 **[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
 
 Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 543 • ⏱️ 10:49 • 13h ago
-
----
-
-**[Bitcoin Update (What&#39;s Happening)](https://www.youtube.com/watch?v=0_a-MveX0rE)**
-
-Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
-
-📺 Aaron Bennett
-
-👁️ 3K • 👍 355 • 💬 44 • ⏱️ 7:50 • 5h ago
+👁️ 64K • 👍 3K • 💬 554 • ⏱️ 10:49 • 14h ago
 
 ---
 
@@ -345,7 +339,7 @@ Bitcoin #Crypto #Finance One of the most influential insiders in Bitcoin and glo
 
 📺 The Wolf Of All Streets
 
-👁️ 1K • 👍 110 • 1h ago
+👁️ 4K • 👍 347 • 💬 30 • ⏱️ 1:02:24 • 1h ago
 
 ---
 
@@ -355,17 +349,37 @@ One of Bitcoin's most respected macro analysts, Lyn Alden, joins Natalie for a c
 
 📺 Natalie Brunell
 
-👁️ 5K • 👍 482 • 💬 68 • ⏱️ 55:19 • 4h ago
+👁️ 10K • 👍 756 • 💬 140 • ⏱️ 55:19 • 5h ago
 
 ---
 
-**[I Stopped Believing In Bitcoin.](https://www.youtube.com/watch?v=ld5sqGLO3ic)**
+**[Bitcoin Update (What&#39;s Happening)](https://www.youtube.com/watch?v=0_a-MveX0rE)**
 
-Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin crashed while Gold and stocks soared, creating a ...
+Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
 
-📺 Crypto Insider
+📺 Aaron Bennett
 
-👁️ 27K • 👍 1K • 💬 146 • ⏱️ 18:15 • 1d ago
+👁️ 5K • 👍 426 • 💬 47 • ⏱️ 7:50 • 7h ago
+
+---
+
+**[Unrealized Gains Tax on Crypto: The New 36% Law Explained (What HODLers Must Know)](https://www.youtube.com/watch?v=1PL4L_cyDvo)**
+
+The Netherlands just passed a 36% unrealized gains tax on crypto, stocks, and bonds -- and it takes effect in 2028. That means if ...
+
+📺 Coin Bureau
+
+👁️ 8K • 👍 765 • 💬 227 • ⏱️ 11:56 • 2h ago
+
+---
+
+**[Bitcoin Live Trading: Price Flash Crash Warning? Don’t Blink! EP1911](https://www.youtube.com/watch?v=xcs1Zx3CGPw)**
+
+Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
+
+📺 Crypto Lifer
+
+👁️ 3K • 👍 410 • 2h ago
 
 ---
 
@@ -375,7 +389,17 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 11K • 👍 1K • 💬 68 • ⏱️ 51:48 • 6h ago
+👁️ 14K • 👍 1K • 💬 77 • ⏱️ 51:48 • 7h ago
+
+---
+
+**[I Stopped Believing In Bitcoin.](https://www.youtube.com/watch?v=ld5sqGLO3ic)**
+
+Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin crashed while Gold and stocks soared, creating a ...
+
+📺 Crypto Insider
+
+👁️ 28K • 👍 1K • 💬 150 • ⏱️ 18:15 • 1d ago
 
 ---
 
@@ -385,37 +409,7 @@ Mainstream media is screaming "CRYPTO WINTER!" — and that's exactly why I just
 
 📺 Davinci Jeremie
 
-👁️ 7K • 👍 493 • 💬 65 • ⏱️ 21:16 • 18h ago
-
----
-
-**[BITCOIN: Rare Signal Flashing NOW! (big warning) - BTC Price Prediction Today](https://www.youtube.com/watch?v=tMbTZArrSe4)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 5K • 👍 385 • 💬 28 • ⏱️ 15:29 • 6h ago
-
----
-
-**[This Next Move Always Fools Late Buyers (It’s Repeating)](https://www.youtube.com/watch?v=cVn40G92N0M)**
-
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
-
-📺 Jason Pizzino
-
-👁️ 17K • 👍 1K • 💬 181 • ⏱️ 25:28 • 12h ago
-
----
-
-**[Bitcoin Bull Bobby Lee Warns Bitcoin Could Break Below Key $60,000 Level](https://www.youtube.com/watch?v=ZRj4PmlPv6Q)**
-
-Ballet CEO Bobby Lee, one of bitcoin's longest‑standing bulls, warns the cryptocurrency may face deeper downside, with the ...
-
-📺 Bloomberg Television
-
-👁️ 20K • 👍 346 • 💬 465 • ⏱️ 10:12 • 15h ago
+👁️ 7K • 👍 507 • 💬 67 • ⏱️ 21:16 • 19h ago
 
 ---
 
