@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T14:28:32.172125+00:00'
+updated: '2026-02-17T15:26:56.353345+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- news
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 14:28 UTC  
+**Last Updated:** February 17, 2026 at 15:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Suppose I have a time series and a trading bot. I want to prove this trading bot
 
 Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
 
-19h ago
+20h ago
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Anybody hearing rumours that X has built its payment system on Solana?](https://www.reddit.com/r/ethereum/comments/1r76eti/anybody_hearing_rumours_that_x_has_built_its/)**
 
-42m ago
+1h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
 
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 20h ago
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 21h ago
 
 ---
 
@@ -118,7 +118,7 @@ We're a group of researchers and have just prepared a draft addressing a gap in 
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Posted by Jacob Czepluch on February 10, 2026
 
 Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -162,13 +162,13 @@ Yahoo Finance • 21h ago
 
 Harvard's rotation from Bitcoin to ETH has raised the primary question—what do they know?
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Harvard University Opens New Position in Ethereum (ETH)](https://www.tipranks.com/news/harvard-university-opens-new-position-in-ethereum-eth)**
 
-TipRanks • 18h ago
+TipRanks • 19h ago
 
 ---
 
@@ -176,7 +176,7 @@ TipRanks • 18h ago
 
 Polygon just pulled off something no one saw coming. It flipped Ethereum in daily transaction fees. For the first time ever.On Friday alone, Polygon brought in about $407,100 in fees. Ethereum? Around $211,700. That is almost double.Activity on Polymarket has exploded, and prediction markets are suddenly turning into serious revenue ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -192,7 +192,7 @@ The Motley Fool • 4h ago
 
 Key PointsEthereum is the world's leading platform for developing decentralized applications, which are increasingly popular in areas like finance.
 
-Nasdaq • 3h ago
+Nasdaq • 4h ago
 
 ---
 
@@ -206,7 +206,7 @@ Barron's • 1d ago
 
 JPMorganChase, Citi, Vantage Bank and Custodia Bank have all chosen Ethereum as the underpinning for blockchain projects such as tokenized deposits. The chairman of the Enterprise Ethereum Alliance explains the OG blockchain.
 
-American Banker • 25m ago
+American Banker • 1h ago
 
 ---
 
@@ -214,7 +214,7 @@ American Banker • 25m ago
 
 The Ethereum treasury firm continues its buying spree with its largest weekly ETH purchase in token terms this year.
 
-CoinDesk • 16m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -236,7 +236,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 2K • 👍 94 • 💬 73 • ⏱️ 14:18 • 9h ago
+👁️ 2K • 👍 94 • 💬 73 • ⏱️ 14:18 • 10h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 3 • ⏱️ 4:03 • 12h ago
+👁️ 2K • 👍 122 • 💬 3 • ⏱️ 4:03 • 13h ago
 
 ---
 
@@ -266,7 +266,7 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 509 • 👍 89 • 💬 61 • ⏱️ 25:32 • 1h ago
+👁️ 509 • 👍 89 • 💬 61 • ⏱️ 25:32 • 2h ago
 
 ---
 
@@ -276,7 +276,7 @@ ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter
 
 📺 EmperorBTC
 
-👁️ 129 • 👍 24 • 💬 2 • ⏱️ 17:52 • 28m ago
+👁️ 129 • 👍 24 • 💬 2 • ⏱️ 17:52 • 1h ago
 
 ---
 
@@ -286,7 +286,7 @@ Bitcoin just took another brutal correction, down 50%, and no, this isn't the fi
 
 📺 Kevin O'Leary
 
-👁️ 19K • 👍 311 • 💬 44 • ⏱️ 1:34 • 14h ago
+👁️ 19K • 👍 311 • 💬 44 • ⏱️ 1:34 • 15h ago
 
 ---
 
@@ -296,7 +296,7 @@ In today's video, we take a calm and educational look at Bitmine (BMNR) and the 
 
 📺 BiGB Stcok
 
-👁️ 2K • 👍 51 • 💬 1 • ⏱️ 5:31 • 16h ago
+👁️ 2K • 👍 51 • 💬 1 • ⏱️ 5:31 • 17h ago
 
 ---
 
@@ -316,7 +316,7 @@ Join 2 Month A to Z Crypto SMC LIVE classes for FREE - Just open account using b
 
 📺 Fearless Trader Shivam
 
-👁️ 2K • 👍 110 • 2h ago
+👁️ 2K • 👍 110 • 3h ago
 
 ---
 
