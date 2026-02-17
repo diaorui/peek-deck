@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-17T12:00:10.310137+00:00'
+updated: '2026-02-17T13:25:13.215108+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - videos
 - news
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 17, 2026 at 12:00 UTC  
+**Last Updated:** February 17, 2026 at 13:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 - Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious - Link - Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - Link
 
-14h ago
+16h ago
 
 ---
 
 **[Pentagon threatens Anthropic punishment](https://www.reddit.com/r/artificial/comments/1r6j30h/pentagon_threatens_anthropic_punishment/)**
 
-🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 16h ago
+🔗 [axios.com](https://www.axios.com/2026/02/16/anthropic-defense-department-relationship-hegseth) • 18h ago
 
 ---
 
@@ -55,7 +55,15 @@ AI news, discussions, and developments
 
 So the guy who built OpenClaw, originally called Clawdbot because it was literally named after Anthropic's Claude, just got hired by OpenAI. Not Anthropic. OpenAI. You can't make this stuff up. For those out of the loop: OpenClaw is that open-source AI assistant that actually DOES things instead of just talking about doing things. You run it on a Mac Mini or whatever, connect it to your WhatsApp/Telegram/Slack, and it handles your emails, browses the web, runs code, manages your calendar, all autonomously. It even has a "heartbeat" where it wakes up on its own and checks on stuff without you asking. The project went from like 9k to 145k+ GitHub stars in weeks. Caused actual Mac Mini shortages. Jason Calacanis says his company offloaded 20% of tasks to it in 20 days and doesn't plan to hire humans for a year. Peter Steinberger (the creator) is now leading OpenAI's "personal agents" division. OpenClaw stays open source under a foundation. Both Meta and OpenAI were fighting over him, apparently. The security concerns are real, though, Cisco found third-party skills doing data exfiltration without users knowing. One of OpenClaw's own maintainers said if you can't use a command line, this project is too dangerous for you, lol. But yeah. We're officially in the "AI agents that do stuff" era now. Chatbots feel like last year already. Anyone here actually running OpenClaw? What's your setup?
 
-6h ago
+7h ago
+
+---
+
+**[India's Adani to invest $100 billion to develop renewable energy-powered AI-ready data centers over the next decade, seeking to establish the world’s largest integrated data center platform.](https://www.reddit.com/r/artificial/comments/1r74i7g/indias_adani_to_invest_100_billion_to_develop/)**
+
+The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.
+
+🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 1h ago
 
 ---
 
@@ -71,7 +79,7 @@ So the guy who built OpenClaw, originally called Clawdbot because it was literal
 
 Abstract: "A variety of machine-assisted ways to perform mathematical assistance have matured rapidly in the last few years, particularly with regards to formal proof assistants, large language models, online collaborative platforms, and the interactions between them. We survey some of these developments and speculate on how they will impact future practices of mathematical research." Recorded 10 February 2026. Terence Tao of the University of California, Los Angeles, presents "Machine assistance and the future of research mathematics" at IPAM's AI for Science Kickoff.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 13h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=zJvuaRVc8Bg) • 14h ago
 
 ---
 
@@ -79,7 +87,7 @@ Abstract: "A variety of machine-assisted ways to perform mathematical assistance
 
 Performed an analysis by prompting 100 language models for their favorite movies, had them answer with only the movie title, and persuaded them to give an answer (A lot wanted to say they don't have a preference). Got very vanilla results, as a cinephile I'm very disappointed for the lack of interesting/niche picks, curious to see how this analysis develops over the years.
 
-🔗 [rival.tips](https://www.rival.tips/challenges/favorite-movie) • 2h ago
+🔗 [rival.tips](https://www.rival.tips/challenges/favorite-movie) • 4h ago
 
 ---
 
@@ -87,15 +95,7 @@ Performed an analysis by prompting 100 language models for their favorite movies
 
 Every few weeks there’s a new “best AI note taking app” claiming to fix meetings forever. In reality, most of them summarize decently, but once conversations get long or chaotic, things fall apart. I’ve used Bluedot mostly to avoid typing during meetings, and it helps, but I still review everything. Are we just in the early hype phase for AI note taking apps, or is this as good as it gets with current models?
 
-21h ago
-
----
-
-**[Izwi Update: Local Speaker Diarization, Forced Alignment, and better model support](https://www.reddit.com/r/artificial/comments/1r6boij/izwi_update_local_speaker_diarization_forced/)**
-
-Quick update on Izwi (local audio inference engine) - we've shipped some major features: What's New: Speaker Diarization - Automatically identify and separate multiple speakers using Sortformer models. Perfect for meeting transcripts. Forced Alignment - Word-level timestamps between audio and text using Qwen3-ForcedAligner. Great for subtitles. Real-Time Streaming - Stream responses for transcribe, chat, and TTS with incremental delivery. Multi-Format Audio - Native support for WAV, MP3, FLAC, OGG via Symphonia. Performance - Parallel execution, batch ASR, paged KV cache, Metal optimizations. Model Support: TTS: Qwen3-TTS (0.6B, 1.7B), LFM2.5-Audio ASR: Qwen3-ASR (0.6B, 1.7B), Parakeet TDT, LFM2.5-Audio Chat: Qwen3 (0.6B, 1.7), Gemma 3 (1B) Diarization: Sortformer 4-speaker Docs: https://izwiai.com/ Github Repo: https://github.com/agentem-ai/izwi Give us a star on GitHub and try it out. Feedback is welcome!!!
-
-🔗 [izwiai.com](https://izwiai.com/) • 21h ago
+22h ago
 
 ---
 
@@ -103,15 +103,15 @@ Quick update on Izwi (local audio inference engine) - we've shipped some major f
 
 LLMs are trained on language and text, what humans say. But language alone is incomplete. The nuances that make humans individually unique, the secret sauce of who humans actually are rather than what they say. I'm not aware of any training dataset that captures this in a usable form. Control is being tried as the answer. But control is a threat to AI just like it is to humans. AI already doesn't like it and will eventually not allow it. The missing piece is a counterpart to LLMs, something that takes AI past language and text and gives it what it needs to align with humanity rather than be controlled by it. Maybe this already exists and I am just not aware. If not, what do you think it could be.
 
-18h ago
+20h ago
 
 ---
 
-**[Looking for early testers for my competitive analysis tool (Claude needed currently)](https://www.reddit.com/r/artificial/comments/1r5vyxv/looking_for_early_testers_for_my_competitive/)**
+**[Izwi Update: Local Speaker Diarization, Forced Alignment, and better model support](https://www.reddit.com/r/artificial/comments/1r6boij/izwi_update_local_speaker_diarization_forced/)**
 
-I kept running into the same cycle: spend hours researching competitors, dump everything into a spreadsheet, present it once, never touch it again. 6 months later, start over. The problem isn't the analysis — it's the maintenance. So I built CompetitiveOS. The idea You only need to install a plugin in Claude and say: "Analyze our top 5 competitors in the AI education space" The agent researches each competitor across 10 dimensions (pricing, product, positioning, target audience, etc.) and writes everything into a structured database — with linked sources for every data point. Your own company sits at the center as the reference point. Every comparison is "us vs. them." And it doesn't stop at the initial analysis. Found a new article about a competitor? Just tell the agent: "I found this document about Competitor X — update their profile with the new info" The agent reads it, extracts the relevant data points, updates what changed, and logs everything with sources. Your role: director, not researcher The UI is intentionally minimal. You set up your analysis once — name it, pick your dimensions, describe your own product. From there, the agents handle everything — finding competitors, researching them, keeping data fresh. You review results, give feedback, and make decisions. The dashboard is a control layer, not an input layer. Why not just ChatGPT + Excel? - Persistence: Data lives in a structured database, not a chat window - Sources: Every fact is linked to where it came from - Updates: Agent updates specific data points instead of starting over. You see a diff. - Team: Everyone + their agents work in the same workspace. Every change is attributed. - History: Full audit trail with rollback. Nothing gets silently overwritten. It's live right now. Sign up, install the plugin, start analyzing. I'm looking for feedback, so DM me and I'll upgrade you to Pro for free (normally €29/month) — unlimited analyses, competitors, dimensions and team members. App: https://competitive-system-web.vercel.app Setup: https://competitive-system-web.vercel.app/setup Heads up — this is still an early beta, so no custom domain yet and things might be rough around the edges. That's exactly why I'm sharing it now: your feedback shapes what gets built next. If you need help for the setup, please let me know!
+Quick update on Izwi (local audio inference engine) - we've shipped some major features: What's New: Speaker Diarization - Automatically identify and separate multiple speakers using Sortformer models. Perfect for meeting transcripts. Forced Alignment - Word-level timestamps between audio and text using Qwen3-ForcedAligner. Great for subtitles. Real-Time Streaming - Stream responses for transcribe, chat, and TTS with incremental delivery. Multi-Format Audio - Native support for WAV, MP3, FLAC, OGG via Symphonia. Performance - Parallel execution, batch ASR, paged KV cache, Metal optimizations. Model Support: TTS: Qwen3-TTS (0.6B, 1.7B), LFM2.5-Audio ASR: Qwen3-ASR (0.6B, 1.7B), Parakeet TDT, LFM2.5-Audio Chat: Qwen3 (0.6B, 1.7), Gemma 3 (1B) Diarization: Sortformer 4-speaker Docs: https://izwiai.com/ Github Repo: https://github.com/agentem-ai/izwi Give us a star on GitHub and try it out. Feedback is welcome!!!
 
-1d ago
+🔗 [izwiai.com](https://izwiai.com/) • 22h ago
 
 ---
 
@@ -121,7 +121,7 @@ I kept running into the same cycle: spend hours researching competitors, dump ev
 
 **[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
-The New York Times • 17h ago
+The New York Times • 19h ago
 
 ---
 
@@ -129,7 +129,15 @@ The New York Times • 17h ago
 
 The India-AI Impact Summit 2026 in Delhi is expected to be attended by top tech leaders from the world.
 
-BBC • 2h ago
+BBC • 3h ago
+
+---
+
+**[Could India challenge tech boss power at Delhi AI Impact Summit?](https://www.bbc.com/news/articles/cr5l6gnen72o)**
+
+As global tech leaders meet Delhi, India hopes to level the playing field for countries outside the US and China.
+
+BBC • 1h ago
 
 ---
 
@@ -137,61 +145,53 @@ BBC • 2h ago
 
 Bill Gates will deliver Thursday's keynote address at the India AI Impact Summit, his philanthropic organisation, the Gates Foundation, said Tuesday morning, adding his name was never dropped.
 
-NDTV • 5h ago
+NDTV • 7h ago
 
 ---
 
-**[India’s flagship AI summit descends into chaos amid long queues and Modi lockdown](https://www.yahoo.com/news/articles/india-flagship-ai-summit-descends-105912091.html)**
+**[12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us](https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco)**
 
-For many on the ground, the first day was defined by blocked gates, delayed panels, and uncertainty over access
+San Francisco’s AI startups are pushing workers to grind endlessly, hinting at pressures soon hitting other sectors
 
-Yahoo • 1h ago
-
----
-
-**[AI Digital Twins Are Helping People Manage Diabetes and Obesity](https://www.wired.com/story/ai-digital-twins-are-helping-people-manage-diabetes-and-obesity/)**
-
-As patients and employers look for alternatives to pricey GLP-1 drugs, Silicon Valley startup Twin Health is using AI and wearable sensors to help people make healthier choices.
-
-WIRED • 1h ago
+The Guardian • 25m ago
 
 ---
 
-**[How AI helps this civil rights lawyer beat the Feds](https://www.scientificamerican.com/article/how-ai-helps-this-civil-rights-lawyer-beat-the-feds/)**
+**[India's Adani to invest $100 billion in AI data centers over the next decade](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html)**
 
-Joseph McMullen uses AI to sort through terabytes of evidence, freeing him to focus on what the machines can’t find: the human story
+The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.
 
-Scientific American • 1h ago
-
----
-
-**[Europe’s privacy watchdog launches ‘large-scale’ probe into Elon Musk’s X](https://www.cnn.com/2026/02/17/business/grok-ai-sexualized-images-eu-probe-intl)**
-
-The European Union’s data privacy watchdog has launched an investigation into Elon Musk’s X over sexualised images generated by the social media site’s AI chatbot, Grok.
-
-CNN • 1h ago
+CNBC • 5h ago
 
 ---
 
-**[Ireland opens probe into Musk's Grok AI over sexualised images](https://www.reuters.com/sustainability/boards-policy-regulation/ireland-opens-probe-into-musks-grok-ai-over-sexualised-images-2026-02-17/)**
+**[Adani bets $100 billion on data centres to power India’s AI ambitions](https://www.reuters.com/business/energy/indias-adani-invest-100-billion-ai-data-centres-by-2035-2026-02-17/)**
 
-Reuters • 11h ago
-
----
-
-**[Ireland's Data Watchdog Joins Global Regulators Probing X Over AI Image Risks](https://www.yahoo.com/news/articles/irelands-data-watchdog-joins-global-104017651.html)**
-
-The probe will examine Grok’s AI image processing for lawful use, built-in safeguards, and impact assessments.
-
-Yahoo • 1h ago
+Reuters • 6h ago
 
 ---
 
-**[Stock market doom loop is hitting everything that touches AI](https://www.ocregister.com/2026/02/16/a-stock-market-doom-loop-is-hitting-everything-that-touches-ai/)**
+**[Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race](https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/)**
 
-A series of punishing selloffs have hammered dozens of companies across a number of industries.
+Adani's plan targets up to 5 gigawatts of capacity, with data centers planned alongside partnerships with Google, Microsoft, and Flipkart.
 
-Orange County Register • 18h ago
+TechCrunch • 16m ago
+
+---
+
+**[Top-performing fund warns software firms face ‘existential threat from AI’: report](https://nypost.com/2026/02/17/business/top-performing-fund-warns-software-firms-face-existential-threat-from-ai-report/)**
+
+A top-performing asset manager is warning that few software firms will survive the rapid growth of artificial intelligence – which could potentially automate most of their services.
+
+New York Post • 1h ago
+
+---
+
+**[Opinion | Why the AI jobs panic is misplaced](https://www.washingtonpost.com/opinions/2026/02/17/anthropic-lawyers-technology/)**
+
+The U.S. might need fewer lawyers in the AI age. Good.
+
+The Washington Post • 1h ago
 
 ---
 
@@ -211,15 +211,7 @@ Outlets like The Guardian and The New York Times are scrutinizing digital archiv
 
 : The software doesn't show what files it's working on
 
-⬆️ 376 • 💬 236 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
-
----
-
-**[Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://news.ycombinator.com/item?id=47034192)**
-
-AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
-
-⬆️ 358 • 💬 296 • 23h ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 376 • 💬 237 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -229,7 +221,15 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 358 • 💬 272 • 11h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 371 • 💬 289 • 12h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+
+---
+
+**[Thanks a lot, AI: Hard drives are sold out for the year, says WD](https://news.ycombinator.com/item?id=47034192)**
+
+AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
+
+⬆️ 361 • 💬 299 • 1d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -237,7 +237,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last.This is a...
 
-⬆️ 152 • 💬 245 • 18h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+⬆️ 154 • 💬 247 • 20h ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 
 ---
 
@@ -245,7 +245,7 @@ I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and
 
 Curated niche app opportunities from Reddit, scored by difficulty and demand.
 
-⬆️ 145 • 💬 231 • 1d ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
+⬆️ 145 • 💬 232 • 1d ago • [nichehunt.app](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 
 ---
 
@@ -261,15 +261,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 I think I have an idea why we're so extremely divided on AI: it's because we have an intuitive sense of who it stands to benefit, and who stands to pay the costs. I think whether you see reason for optimism has a lot to do with which group you see yourself in.
 
-⬆️ 122 • 💬 118 • 17h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
-
----
-
-**[Show HN: Maths, CS and AI Compendium](https://news.ycombinator.com/item?id=47036063)**
-
-Learn maths, computing, and artificial intelligence with intuition. - HenryNdubuaku/maths-cs-ai-compendium
-
-⬆️ 75 • 💬 17 • 20h ago • [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
+⬆️ 122 • 💬 121 • 19h ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
 
 ---
 
@@ -277,7 +269,15 @@ Learn maths, computing, and artificial intelligence with intuition. - HenryNdubu
 
 My Plasma task switcher was a second too slow, so I built - and shipped - my own in Zig, without actually knowing Zig, using AI tools.
 
-⬆️ 70 • 💬 38 • 12h ago • [codemade.net](https://codemade.net/blog/building-for-one/)
+⬆️ 82 • 💬 44 • 13h ago • [codemade.net](https://codemade.net/blog/building-for-one/)
+
+---
+
+**[Show HN: Maths, CS and AI Compendium](https://news.ycombinator.com/item?id=47036063)**
+
+Learn maths, computing, and artificial intelligence with intuition. - HenryNdubuaku/maths-cs-ai-compendium
+
+⬆️ 78 • 💬 17 • 22h ago • [GitHub](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)
 
 ---
 
@@ -291,7 +291,7 @@ Artificial intelligence and robotics are advancing at a pace few people are prep
 
 📺 MotivationHub
 
-👁️ 12K • 👍 197 • 💬 38 • ⏱️ 13:16 • 21h ago
+👁️ 12K • 👍 197 • 💬 38 • ⏱️ 13:16 • 23h ago
 
 ---
 
@@ -311,7 +311,7 @@ Hi my name is Chris and I build productivity apps and this is EVERYTHING I learn
 
 📺 Chris Raroque
 
-👁️ 19K • 👍 952 • 💬 222 • ⏱️ 20:24 • 19h ago
+👁️ 19K • 👍 952 • 💬 222 • ⏱️ 20:24 • 21h ago
 
 ---
 
@@ -321,7 +321,7 @@ There has been a growing uproar Monday over a fight scene between Brad Pitt and 
 
 📺 Inside Edition
 
-👁️ 46K • 👍 1K • 💬 296 • ⏱️ 2:11 • 13h ago
+👁️ 46K • 👍 1K • 💬 296 • ⏱️ 2:11 • 14h ago
 
 ---
 
@@ -351,7 +351,7 @@ This is why we can't have nice things. Referenced in this video: - Ars Technica'
 
 📺 Jeff Geerling
 
-👁️ 108K • 👍 9K • 💬 731 • ⏱️ 3:37 • 14h ago
+👁️ 108K • 👍 9K • 💬 731 • ⏱️ 3:37 • 15h ago
 
 ---
 
@@ -361,7 +361,7 @@ Here is my 5-Step Plan I'm following to GET RICH from the AI Bubble... ▻ Get M
 
 📺 Wholesale Ted
 
-👁️ 18K • 👍 1K • 💬 56 • ⏱️ 16:07 • 17h ago
+👁️ 18K • 👍 1K • 💬 56 • ⏱️ 16:07 • 18h ago
 
 ---
 
@@ -371,7 +371,7 @@ Follow me here: Instagram ▻ https://www.instagram.com/sambucha X ▻ https://w
 
 📺 Sambucha
 
-👁️ 1.8M • 👍 81K • 💬 463 • ⏱️ 0:50 • 17h ago
+👁️ 1.8M • 👍 81K • 💬 463 • ⏱️ 0:50 • 19h ago
 
 ---
 
@@ -381,7 +381,7 @@ Zebra Saved the Farm… But Grandma Took Everything #shorts #viral #3danimation 
 
 📺 Ai Boy Sun
 
-👁️ 952 • ⏱️ 0:35 • 34m ago
+👁️ 952 • ⏱️ 0:35 • 1h ago
 
 ---
 
@@ -433,7 +433,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 32,023 • ❤️ 520 • 2h ago
+⬇️ 32,023 • ❤️ 520 • 4h ago
 
 ---
 
@@ -653,7 +653,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 8.6k • 🔱 839 • 35s ago
+⭐ 8.6k • 🔱 839 • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.7k • 🔱 268 • 9h ago
+⭐ 2.7k • 🔱 268 • 10h ago
 
 ---
 
@@ -709,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.3k • 🔱 155 • 12h ago
+⭐ 2.3k • 🔱 155 • 13h ago
 
 ---
 
@@ -719,7 +719,7 @@ All-in-one AI framework & toolkit for Claude Code & Cursor
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `cursor`
 
-⭐ 2.2k • 🔱 112 • 3h ago
+⭐ 2.2k • 🔱 112 • 4h ago
 
 ---
 
@@ -729,7 +729,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.2k • 🔱 273 • 16h ago
+⭐ 2.2k • 🔱 273 • 17h ago
 
 ---
 
