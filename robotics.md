@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T13:25:13.232640+00:00'
+updated: '2026-02-17T14:28:32.174848+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 13:25 UTC  
+**Last Updated:** February 17, 2026 at 14:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,21 @@ Robotics research and industry news
 
 **[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-22h ago
+23h ago
+
+---
+
+**[A HUD interface for my GEVO robot (Raspberry Pi + Bluetooth telemetry)](https://www.reddit.com/r/robotics/comments/1r76brc/a_hud_interface_for_my_gevo_robot_raspberry_pi/)**
+
+I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
+
+46m ago
 
 ---
 
@@ -48,19 +56,35 @@ Robotics research and industry news
 
 I am a final-year B.Tech student with experience in robotics. I have applied for various roles such as Robotics Software Engineer and Software Engineer - Autonomous Vehicles at several companies, including Nvidia, but have unfortunately received multiple rejections. I would greatly appreciate any assistance or guidance you could offer.
 
-5h ago
+6h ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-14h ago
+15h ago
+
+---
+
+**[PeppyOS: a simpler alternative to ROS 2 (now with Python support)](https://www.reddit.com/r/robotics/comments/1r765gl/peppyos_a_simpler_alternative_to_ros_2_now_with/)**
+
+Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I'd been building. The feedback was really helpful, and I've been heads-down since then working on the biggest request: Python support. v0.3.0 is out, and Python is now a first-class language alongside Rust. Topics, services, actions, parameters — everything works in Python with full code generation, type-safe dataclasses, and asyncio support out of the box. You can even mix Python and Rust nodes in the same project. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python support.
+
+53m ago
+
+---
+
+**[Robotics education and Jobs in the UK](https://www.reddit.com/r/robotics/comments/1r765pe/robotics_education_and_jobs_in_the_uk/)**
+
+Hi all, A bit about me : Bachelor of technology in Electrical and Electronics from a tier 3 Indian Uni 4 years of Work experience in warehouse robots, writing software and building algorithms. Mostly worked on mapping and SLAM, but have also worked on motor controllers, CAN drivers etc. IELTS : 8.5 Moving to and working in the UK had always been a dream to me, so I decided to take the shot and pursue masters in the hopes of working and staying in the UK. I want to know the communities opinion and insights on the robotics scenario there and which university and location would be the best bet to pursue my dreams further. I have currently got admits from King's College London, University of Bristol and Sheffield university. I am a bit confused on choosing between Bristol and King's and would appreciate your insights 😇 Now I will list the Pros and Cons of each university , please note that this is just a personal list gathered from people who I have interacted on LinkedIn, so might be a bit biased. I know both are great Unis! **University of Bristol** Pros QS ranking 51 Bristol Robotics Lab - largest in the UK Fees 36,750/- pounds lower living costs as it is outside London Cons outside London, so less networking and Job opportunities Got some negative reviews from people who studied there regarding academics. **2. Kings College London** Pros QS ranking 30 Center of Robotics Lab higher Russell group and popular university more networking and job opportunities as Central London location Cons high fees : 40,700 pounds London is more expensive in terms of living
+
+53m ago
 
 ---
 
 **[Am I the only one who thinks robot fault diagnosis is way behind cars?](https://www.reddit.com/r/robotics/comments/1r6zbpt/am_i_the_only_one_who_thinks_robot_fault/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +92,7 @@ I am a final-year B.Tech student with experience in robotics. I have applied for
 
 I’m doing a bit of research on sim-to-real workflows and wanted to understand how people deal with “non-perfect” models. If you scan something quickly (phone scan / photogrammetry) or download a random OBJ from the internet: • Do you manually fix the mesh before using it? • Do you calculate inertia / collision yourself? • Do you already have internal scripts for this? • Roughly how long does this prep take per object? I’m not promoting anything — just trying to learn where this part of the pipeline is painful (or if it isn’t). Would really appreciate hearing how teams handle this in practice.
 
-7h ago
+8h ago
 
 ---
 
@@ -76,29 +100,7 @@ I’m doing a bit of research on sim-to-real workflows and wanted to understand 
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 20h ago
-
----
-
-**[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
-
-1d ago
-
----
-
-**[Help in finding the best course or resources](https://www.reddit.com/r/robotics/comments/1r6jup5/help_in_finding_the_best_course_or_resources/)**
-
-Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robotics related things if anyone can plz list it out also I'm in my final year of engineering ECE and i know very basic of all these mentioned I need full deep learning and good projects , i already have a job in robotics ai but to make it full time I need to gear up and learn a lot and build projects so Help me to find a best course,im ready to pay also but not that costly still broke need certification cause they might be valued in future also etc etc Building projects will be my part but I need to learn first
-
-17h ago
-
----
-
-**[We need a design saviour](https://www.reddit.com/r/robotics/comments/1r6i1xt/we_need_a_design_saviour/)**
-
-So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
-
-18h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 21h ago
 
 ---
 
@@ -112,33 +114,17 @@ Reuters • 1d ago
 
 ---
 
+**[Americans are unleashing their anger on food-delivery robots](https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots)**
+
+The Economist • 19h ago
+
+---
+
 **[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
 
 Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Fox News • 19h ago
-
----
-
-**[Americans are unleashing their anger on food-delivery robots](https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots)**
-
-The Economist • 18h ago
-
----
-
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
-
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
-
-KWQC • 1d ago
-
----
-
-**[QNX to Showcase the Software Building Blocks Powering Next-Generation Robotics and Physical AI at Embedded World 2026](https://finance.yahoo.com/news/qnx-showcase-software-building-blocks-125800581.html)**
-
-Development platform, real-time humanoid robot, and hands-on workshops round out QNX's critical enabling role in robotics systems WATERLOO, ONTARIO / ACCESS Newswire / February 17, 2026 /QNX, a division of BlackBerry Limited (NYSE:BB)(TSX:BB), today ...
-
-Yahoo Finance • 27m ago
+Fox News • 20h ago
 
 ---
 
@@ -150,11 +136,11 @@ CNN • 3d ago
 
 ---
 
-**[Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs](https://siliconangle.com/2026/02/16/construction-robotics-startup-sitegeist-raises-e4m-automate-concrete-repair/)**
+**[QNX to Showcase the Software Building Blocks Powering Next-Generation Robotics and Physical AI at Embedded World 2026](https://finance.yahoo.com/news/qnx-showcase-software-building-blocks-125800581.html)**
 
-Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
+Development platform, real-time humanoid robot, and hands-on workshops round out QNX's critical enabling role in robotics systems WATERLOO, ONTARIO / ACCESS Newswire / February 17, 2026 /QNX, a division of BlackBerry Limited (NYSE:BB)(TSX:BB), today ...
 
-SiliconANGLE • 11h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -162,7 +148,7 @@ SiliconANGLE • 11h ago
 
 Moya is a new Chinese humanoid robot from DroidUp with cameras behind its eyes, lifelike facial expressions, and warm, soft "muscle" materials.
 
-bgr.com • 11h ago
+bgr.com • 12h ago
 
 ---
 
@@ -174,11 +160,27 @@ Financial Times • 1d ago
 
 ---
 
-**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
+**[Bellefontaine Robotics make strong run at Meaden and Moore](https://www.peakofohio.com/local-news/bellefontaine-robotics-make-strong-run-at-meaden-and-moore/)**
 
-Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
+Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
 
-Futurism • 1d ago
+Peak of Ohio • 5h ago
+
+---
+
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+
+KWQC • 1d ago
+
+---
+
+**[Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs](https://siliconangle.com/2026/02/16/construction-robotics-startup-sitegeist-raises-e4m-automate-concrete-repair/)**
+
+Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
+
+SiliconANGLE • 12h ago
 
 ---
 
@@ -192,7 +194,7 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 📺 Carros Show
 
-👁️ 3K • 👍 79 • 💬 11 • ⏱️ 9:20 • 1d ago
+👁️ 3K • 👍 80 • 💬 11 • ⏱️ 9:20 • 1d ago
 
 ---
 
@@ -202,7 +204,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 250K • 👍 5K • 💬 821 • ⏱️ 1:41 • 20h ago
+👁️ 299K • 👍 5K • 💬 868 • ⏱️ 1:41 • 21h ago
 
 ---
 
@@ -212,7 +214,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 67K • 👍 1K • 💬 251 • ⏱️ 9:26 • 19h ago
+👁️ 73K • 👍 1K • 💬 273 • ⏱️ 9:26 • 20h ago
 
 ---
 
@@ -222,7 +224,7 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 215K • 👍 5K • 💬 3K • ⏱️ 2:37 • 21h ago
+👁️ 253K • 👍 6K • 💬 3K • ⏱️ 2:37 • 22h ago
 
 ---
 
@@ -232,7 +234,7 @@ Foundation Future Industries CEO Sankaet Pathak discusses the rise of humanoid r
 
 📺 Fox Business Clips
 
-👁️ 430K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
+👁️ 431K • 👍 8K • 💬 5K • ⏱️ 9:47 • 3d ago
 
 ---
 
@@ -242,7 +244,17 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 32K • 👍 828 • 💬 98 • ⏱️ 12:43 • 1d ago
+👁️ 33K • 👍 851 • 💬 103 • ⏱️ 12:43 • 1d ago
+
+---
+
+**[Insane! China&#39;s martial art robots already next level!](https://www.youtube.com/watch?v=9eYW6EsH5LE)**
+
+chinesenewyear #robots These Unitree's humanoid robots can do Kung Fu like veteran Kung Fu masters. They dazzled the world ...
+
+📺 Li Jingjing 李菁菁
+
+👁️ 6K • 👍 820 • 💬 152 • ⏱️ 7:36 • 5h ago
 
 ---
 
@@ -252,7 +264,7 @@ Such a presentation would highlight how far artificial intelligence, robotics, a
 
 📺 Carros Show
 
-👁️ 19K • 👍 401 • 💬 76 • ⏱️ 10:40 • 6d ago
+👁️ 19K • 👍 404 • 💬 76 • ⏱️ 10:40 • 6d ago
 
 ---
 
@@ -262,7 +274,7 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 890K • 👍 10K • 💬 2K • ⏱️ 53:47 • 3d ago
+👁️ 899K • 👍 10K • 💬 2K • ⏱️ 53:47 • 3d ago
 
 ---
 
@@ -272,17 +284,7 @@ Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid 
 
 📺 India Today Global
 
-👁️ 44K • 👍 694 • 💬 347 • ⏱️ 2:57 • 20h ago
-
----
-
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
-
-news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
-
-📺 Tyrone Magnus
-
-👁️ 39K • 👍 2K • 💬 429 • ⏱️ 9:43 • 1d ago
+👁️ 49K • 👍 707 • 💬 362 • ⏱️ 2:57 • 21h ago
 
 ---
 
