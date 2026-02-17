@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T10:11:51.691459+00:00'
+updated: '2026-02-17T11:12:32.281008+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 10:11 UTC  
+**Last Updated:** February 17, 2026 at 11:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
 
-3h ago
+4h ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -54,13 +54,13 @@ Robotics research and industry news
 
 I am a final-year B.Tech student with experience in robotics. I have applied for various roles such as Robotics Software Engineer and Software Engineer - Autonomous Vehicles at several companies, including Nvidia, but have unfortunately received multiple rejections. I would greatly appreciate any assistance or guidance you could offer.
 
-2h ago
+3h ago
 
 ---
 
 **[Am I the only one who thinks robot fault diagnosis is way behind cars?](https://www.reddit.com/r/robotics/comments/1r6zbpt/am_i_the_only_one_who_thinks_robot_fault/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -68,7 +68,7 @@ I am a final-year B.Tech student with experience in robotics. I have applied for
 
 I’m doing a bit of research on sim-to-real workflows and wanted to understand how people deal with “non-perfect” models. If you scan something quickly (phone scan / photogrammetry) or download a random OBJ from the internet: • Do you manually fix the mesh before using it? • Do you calculate inertia / collision yourself? • Do you already have internal scripts for this? • Roughly how long does this prep take per object? I’m not promoting anything — just trying to learn where this part of the pipeline is painful (or if it isn’t). Would really appreciate hearing how teams handle this in practice.
 
-4h ago
+5h ago
 
 ---
 
@@ -76,29 +76,29 @@ I’m doing a bit of research on sim-to-real workflows and wanted to understand 
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 17h ago
-
----
-
-**[Ever wake up feeling like you need exoskeleton to carry you through the day? Same](https://www.reddit.com/r/robotics/comments/1r6q52t/ever_wake_up_feeling_like_you_need_exoskeleton_to/)**
-
-Just caught the new content on Ascentiz's page. The FDE version in the sun looks so good! I’m officially sold on the look. Check out their social media page to see what I mean.
-
-10h ago
-
----
-
-**[Where can I learn the electronics side of this?](https://www.reddit.com/r/robotics/comments/1r6oxyz/where_can_i_learn_the_electronics_side_of_this/)**
-
-For context I’m building a pretty advanced bionic hand, and I already have an Arduino and a lot of servos, a breadboard, and a 5V battery pack. My old model had 6 servos, so I just powered them through the breadboard with the battery pack. This probably wasn’t safe, but I put the battery pack’s ground and power wires into separate rails, and put each servos ground and power pin into the rails. My new model will probably have 23 servos (most likely sg90s or a similar model), and I’m just completely lost as to how to control all of them. The Arduino doesn’t even have that many signal pins. Where could I learn just the entire electronics side of robotics? Could anyone help? How would I power 23 servos? U Thanks.
-
-11h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 18h ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-22h ago
+23h ago
+
+---
+
+**[Help in finding the best course or resources](https://www.reddit.com/r/robotics/comments/1r6jup5/help_in_finding_the_best_course_or_resources/)**
+
+Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robotics related things if anyone can plz list it out also I'm in my final year of engineering ECE and i know very basic of all these mentioned I need full deep learning and good projects , i already have a job in robotics ai but to make it full time I need to gear up and learn a lot and build projects so Help me to find a best course,im ready to pay also but not that costly still broke need certification cause they might be valued in future also etc etc Building projects will be my part but I need to learn first
+
+15h ago
+
+---
+
+**[We need a design saviour](https://www.reddit.com/r/robotics/comments/1r6i1xt/we_need_a_design_saviour/)**
+
+So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
+
+16h ago
 
 ---
 
@@ -106,25 +106,11 @@ For context I’m building a pretty advanced bionic hand, and I already have an 
 
 ## Google News: "robotics"
 
-**[China's humanoid robots take centre stage for Lunar New Year showtime](https://www.reuters.com/business/media-telecom/chinas-humanoid-robots-ready-lunar-new-year-showtime-2026-02-16/)**
+**[China's humanoid robots take center stage for Lunar New Year showtime](https://www.nbcnews.com/world/asia/chinas-humanoid-robots-take-center-stage-lunar-new-year-showtime-rcna259307)**
 
-Reuters • 1d ago
+Four rising humanoid robot startups demonstrated their products during the annual CCTV Spring Festival gala, a televised event and touchstone for China akin to the Super Bowl.
 
----
-
-**[Humanoids go mainstream as China’s robotics champions appear at CCTV spectacle](https://www.scmp.com/tech/big-tech/article/3343634/chinas-tech-companies-vie-attention-cctvs-festival-gala-years-biggest-stage)**
-
-ByteDance, Unitree, RedNote, Bilibili and Kuaishou among the firms involved in the unparalleled nationwide marketing opportunity.
-
-South China Morning Post • 1h ago
-
----
-
-**[China's humanoid robots ready for Lunar New Year showtime](https://www.yahoo.com/news/articles/chinas-humanoid-robots-ready-lunar-080728984.html)**
-
-BEIJING, Feb 16 (Reuters) - China's most-watched TV show, the annual CCTV Spring Festival gala, will be viewed later on Monday as a showcase for the country's cutting-edge industrial policy and
-
-Yahoo • 1d ago
+NBC News • 2h ago
 
 ---
 
@@ -132,7 +118,21 @@ Yahoo • 1d ago
 
 A group of humanoid robots teamed up with young Kung Fu artists for a thrilling martial arts performance at the 2026 Spring Festival Gala in Beijing on Monday. The dynamic display featured robots and human masters executing a series of impressive, choreographed stunts and synchronized moves on stage.
 
-CNN • 8h ago
+CNN • 9h ago
+
+---
+
+**[Americans are unleashing their anger on food-delivery robots](https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots)**
+
+The Economist • 16h ago
+
+---
+
+**[This New Chinese Robot Brings The Uncanny Valley To Your Home](https://www.bgr.com/2099808/droid-up-chinese-life-like-robot-moya-uncanny-valley/)**
+
+Moya is a new Chinese humanoid robot from DroidUp with cameras behind its eyes, lifelike facial expressions, and warm, soft "muscle" materials.
+
+bgr.com • 8h ago
 
 ---
 
@@ -140,7 +140,15 @@ CNN • 8h ago
 
 Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Fox News • 16h ago
+Fox News • 17h ago
+
+---
+
+**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
+
+The Economics Show 🤜🤛 FT Alphaville
+
+Financial Times • 1d ago
 
 ---
 
@@ -152,35 +160,25 @@ KWQC • 1d ago
 
 ---
 
-**[This New Chinese Robot Brings The Uncanny Valley To Your Home](https://www.bgr.com/2099808/droid-up-chinese-life-like-robot-moya-uncanny-valley/)**
-
-Moya is a new Chinese humanoid robot from DroidUp with cameras behind its eyes, lifelike facial expressions, and warm, soft "muscle" materials.
-
-bgr.com • 7h ago
-
----
-
-**[Will Chinese ‘involution’ do to robots and AI what it’s already done to EVs?](https://www.ft.com/content/d47fc46a-12fb-4f2e-8bf5-e97b68dbecf0)**
-
-The Economics Show 🤜🤛 FT Alphaville
-
-Financial Times • 23h ago
-
----
-
 **[Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs](https://siliconangle.com/2026/02/16/construction-robotics-startup-sitegeist-raises-e4m-automate-concrete-repair/)**
 
 Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
 
-SiliconANGLE • 8h ago
+SiliconANGLE • 9h ago
 
 ---
 
-**[China’s humanoid robot nails difficult martial arts moves in new video](https://interestingengineering.com/ai-robotics/agibot-unveils-expedition-a3-humanoid-robot)**
+**[Large Area of Chicago Bans Delivery Robots After Resident Outcry](https://futurism.com/robots-and-machines/chicago-delivery-robots-banned)**
 
-Agibot’s Expedition A3 humanoid performs high-flying maneuvers, showcasing advanced balance, coordination, and real-world robotic agility.
+Chicago Alderman Daniel La Spata prohibited robotics delivery companies from expanding into his Ward following intense community feedback.
 
-Interesting Engineering • 19h ago
+Futurism • 1d ago
+
+---
+
+**[Local students compete in LEGO robotics state championship](https://www.abc27.com/local-news/local-students-compete-in-lego-robotics-state-championship/)**
+
+ABC27 • 1d ago
 
 ---
 
@@ -204,7 +202,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 55K • 👍 1K • 💬 222 • ⏱️ 9:26 • 16h ago
+👁️ 55K • 👍 1K • 💬 222 • ⏱️ 9:26 • 17h ago
 
 ---
 
@@ -214,7 +212,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 216K • 👍 5K • 💬 772 • ⏱️ 1:41 • 17h ago
+👁️ 216K • 👍 5K • 💬 772 • ⏱️ 1:41 • 18h ago
 
 ---
 
@@ -224,7 +222,7 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 177K • 👍 5K • 💬 2K • ⏱️ 2:37 • 18h ago
+👁️ 177K • 👍 5K • 💬 2K • ⏱️ 2:37 • 19h ago
 
 ---
 
@@ -264,7 +262,7 @@ Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid 
 
 📺 India Today Global
 
-👁️ 36K • 👍 645 • 💬 332 • ⏱️ 2:57 • 17h ago
+👁️ 36K • 👍 645 • 💬 332 • ⏱️ 2:57 • 18h ago
 
 ---
 

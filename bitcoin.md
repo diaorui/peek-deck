@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-17T10:11:51.682301+00:00'
+updated: '2026-02-17T11:12:32.271953+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 10:11 UTC  
+**Last Updated:** February 17, 2026 at 11:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,172.39
+### $67,837.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** +1.5%  
-**30d:** -26.5%  
-**90d:** -21.8%  
-**1y:** -28.8%  
+**24h:** -2.7%  
+**7d:** +1.2%  
+**30d:** -26.7%  
+**90d:** -22.1%  
+**1y:** -29.0%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
 
-10h ago
+11h ago
+
+---
+
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
+
+9h ago
 
 ---
 
@@ -89,7 +95,15 @@ Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here
 
 Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on Square merchants. (most restaurants and places use Square to process credit and debit cards) and NO FEES OR SPREAD if you use Direct Deposit or DCA daily weekly monthly! ORRRR if you purchase over $2K of Bitcoin whenever. CashApp made a post being ONLY Bitcoin and how they want to make it every day money and support it HEAVILY
 
-18h ago
+19h ago
+
+---
+
+**[first time ever buying](https://www.reddit.com/r/Bitcoin/comments/1r6tx4f/first_time_ever_buying/)**
+
+brother, genuinely feel like right now I should drop every last penny into it. It would be like a long term investment, I live with my parents so if it doesn’t work out too well I don’t really see it being that bad.
+
+8h ago
 
 ---
 
@@ -103,15 +117,7 @@ Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on 
 
 Full segment is on YouTube.
 
-15h ago
-
----
-
-**[first time ever buying](https://www.reddit.com/r/Bitcoin/comments/1r6tx4f/first_time_ever_buying/)**
-
-brother, genuinely feel like right now I should drop every last penny into it. It would be like a long term investment, I live with my parents so if it doesn’t work out too well I don’t really see it being that bad.
-
-7h ago
+16h ago
 
 ---
 
@@ -119,27 +125,7 @@ brother, genuinely feel like right now I should drop every last penny into it. I
 
 Why is everyone spreading fear about bitcoin but the institutions are buying it up
 
-11h ago
-
----
-
-**[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
-
-17h ago
-
----
-
-**[Norwegian sovereign wealth fund increased its indirect Bitcoin exposure by 149% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r6djoe/norwegian_sovereign_wealth_fund_increased_its/)**
-
-The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
-
-🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 18h ago
-
----
-
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
-
-8h ago
+12h ago
 
 ---
 
@@ -147,7 +133,21 @@ The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025
 
 I found it!
 
-11h ago
+12h ago
+
+---
+
+**[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
+
+18h ago
+
+---
+
+**[Norwegian sovereign wealth fund increased its indirect Bitcoin exposure by 149% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r6djoe/norwegian_sovereign_wealth_fund_increased_its/)**
+
+The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
+
+🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 19h ago
 
 ---
 
@@ -159,31 +159,61 @@ I found it!
 
 Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
 
-The Atlantic • 22h ago
+The Atlantic • 23h ago
 
 ---
 
-**[Bitcoin’s slide may signal broader market trouble and a U.S. recession, Mike McGlone says](https://www.coindesk.com/markets/2026/02/16/bitcoin-s-slide-may-signal-broader-market-trouble-and-a-u-s-recession-mike-mcglone-says)**
+**[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqeNhxLCsZBnWFrcSjNB200RqQRQXTeyW7uqr6t_bGGYdZUugqhPI-1z&gaa_ts=69945089&gaa_sig=LY8oIvfsy9jh-QCDyr1mF-RxFfYavbIW-q1vzaHSJR_Ob3sCvzkLhnmJ8IvK2WNnibwFVdWVo5aMD0Ix2NqAAQ%3D%3D)**
 
-McGlone argues collapsing crypto and stretched equity metrics could end the “buy the dip” era, while Jason Fernandes says only a credit shock would justify a move toward $10,000.
-
-CoinDesk • 12h ago
+Barron's • 30m ago
 
 ---
 
-**[Steak 'n Shake Says Bitcoin Has Lifted Sales 'Dramatically' in 9 Months](https://finance.yahoo.com/news/steak-n-shake-says-bitcoin-064741342.html)**
+**[Veteran Analyst Says Bitcoin’s Safe-Haven Dream Is Cracking — But Crypto’s Next Era May Just Be Beginning](https://finance.yahoo.com/news/veteran-analyst-says-bitcoin-safe-093416158.html)**
 
-The fast-food chain says bitcoin payments have boosted sales, as it channels crypto receipts into a growing corporate reserve.
+A veteran analyst says Bitcoin’s store-of-value thesis is fading as gold outperforms, while broader crypto infrastructure gains momentum.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Why Bitcoin Could Face Another Dump in February](https://finance.yahoo.com/news/why-bitcoin-could-face-another-063900268.html)**
+**[Popular burger joint Steak ’n Shake says bitcoin adoption boosted sales ‘dramatically’](https://www.coindesk.com/business/2026/02/17/popular-burger-joint-steak-n-shake-says-bitcoin-adoption-boosted-sales-dramatically)**
 
-BTC Whale Inflow surged amid heightened volatility. Bitcoin OG “Garrett Jin” deposited 5,000 BTC to exchanges. Will another dump occur soon?
+Bitcoin payments are directed to a Strategic Bitcoin Reserve, used to fund employee bonuses according to the company.
 
-Yahoo Finance • 3h ago
+CoinDesk • 1h ago
+
+---
+
+**[An abduction, a Bitcoin demand and a TV icon - why Nancy Guthrie's case has gripped the US](https://www.bbc.com/news/articles/c5y48j0exlgo)**
+
+Savannah Guthrie's fame has helped turn her mother's abduction into a national obsession.
+
+BBC • 2d ago
+
+---
+
+**[Metaplanet posts $619 million net loss on bitcoin valuation as holdings climb to 35,102 BTC](https://www.theblock.co/post/390048/metaplanet-posts-619-million-net-loss-on-bitcoin-valuation-as-holdings-climb-to-35102-btc)**
+
+Metaplanet posted a $619 million FY2025 loss on its bitcoin valuation, while its total holdings jumped to 35,102 BTC and revenue surged.
+
+The Block • 21h ago
+
+---
+
+**[Metaplanet Posts $605 Million Loss After Spending Billions on Bitcoin](https://finance.yahoo.com/news/metaplanet-posts-605-million-loss-172752875.html)**
+
+The firm signaled that it’s embracing preferred shares.
+
+Yahoo Finance • 17h ago
+
+---
+
+**[Metaplanet's operating profit jumps nearly 1,700% as bitcoin income generation pays off](https://www.coindesk.com/business/2026/02/16/metaplanet-operating-profit-to-rise-81-in-2026-after-soaring-17-fold-last-year-on-options-writing)**
+
+The company recorded a non-cash bitcoin valuation loss of 102.2 billion yen ($650 million) due to the cryptocurrency’s price drop.
+
+CoinDesk • 19h ago
 
 ---
 
@@ -195,41 +225,11 @@ CNBC • 1d ago
 
 ---
 
-**[TMZ receives fourth bitcoin demand for info on Nancy Guthrie](https://www.nydailynews.com/2026/02/16/nancy-guthrie-fourth-bitcoin-demand-tmz/)**
+**[This $130 Stock Could Be Your Ticket to Millionaire Status](https://www.fool.com/investing/2026/02/16/this-130-stock-could-be-your-ticket-to-millionai/)**
 
-Media outlet TMZ has received a fourth demand for bitcoin in exchange for the name of Nancy Guthrie’s kidnapper, the entertainment news and gossip site said Monday.
+Strategy's all-in bet on Bitcoin could bear fruit over the next few decades.
 
-New York Daily News • 13h ago
-
----
-
-**[Bitcoin needs a quantum upgrade. So why isn’t it happening?](https://www.dlnews.com/articles/web3/bitcoin-needs-to-upgrade-to-post-quantum-cryptography/)**
-
-Bitcoin is running out of time to adopt post-quantum cryptography. Upgrading too early or too late could have disastrous consequences. Faster-than-anticipated development of quantum computers is a major risk.
-
-dlnews.com • 1d ago
-
----
-
-**[Hedge fund manager predicts Bitcoin to $50M](https://www.thestreet.com/crypto/markets/hedge-fund-manager-predicts-bitcoin-to-50m)**
-
-The hedge fund manager has predicted a long-term transformation in global finance.
-
-thestreet.com • 14h ago
-
----
-
-**[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
-
-x.com • 17h ago
-
----
-
-**[Is the World's Largest Corporate Holder of Bitcoin a Buy, Sell, or Hold in 2026?](https://finance.yahoo.com/news/worlds-largest-corporate-holder-bitcoin-092000731.html)**
-
-Investors are starting to question the true value of Strategy's $50 billion Bitcoin stash.
-
-Yahoo Finance • 2d ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -323,7 +323,7 @@ Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will 
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 462 • ⏱️ 10:49 • 8h ago
+👁️ 42K • 👍 2K • 💬 462 • ⏱️ 10:49 • 9h ago
 
 ---
 
@@ -333,7 +333,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Deyontae Roberson
 
-👁️ 3K • 👍 3K • 2h ago
+👁️ 3K • 👍 3K • 3h ago
 
 ---
 
@@ -343,7 +343,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 37K • 👍 3K • 💬 213 • ⏱️ 1:06:56 • 17h ago
+👁️ 37K • 👍 3K • 💬 213 • ⏱️ 1:06:56 • 18h ago
 
 ---
 
@@ -353,7 +353,7 @@ Ballet CEO Bobby Lee, one of bitcoin's longest‑standing bulls, warns the crypt
 
 📺 Bloomberg Television
 
-👁️ 15K • 👍 300 • 💬 131 • ⏱️ 10:12 • 10h ago
+👁️ 15K • 👍 300 • 💬 131 • ⏱️ 10:12 • 11h ago
 
 ---
 
@@ -363,7 +363,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 28K • 👍 1K • 💬 363 • ⏱️ 39:54 • 18h ago
+👁️ 28K • 👍 1K • 💬 363 • ⏱️ 39:54 • 19h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin cr
 
 📺 Crypto Insider
 
-👁️ 25K • 👍 1K • 💬 137 • ⏱️ 18:15 • 20h ago
+👁️ 25K • 👍 1K • 💬 137 • ⏱️ 18:15 • 21h ago
 
 ---
 
@@ -383,7 +383,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 12K • 👍 819 • 💬 147 • ⏱️ 25:28 • 7h ago
+👁️ 12K • 👍 819 • 💬 147 • ⏱️ 25:28 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 4K • 👍 350 • 💬 17 • ⏱️ 9:38 • 5h ago
+👁️ 4K • 👍 350 • 💬 17 • ⏱️ 9:38 • 6h ago
 
 ---
 
@@ -413,7 +413,7 @@ The crypto market is moving right now and Sheldon is going to see if he can get 
 
 📺 Sniper Trading
 
-👁️ 3K • 👍 313 • ⏱️ 1:59:01 • 16h ago
+👁️ 3K • 👍 313 • ⏱️ 1:59:01 • 17h ago
 
 ---
 
