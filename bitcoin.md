@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-17T22:33:23.786486+00:00'
+updated: '2026-02-17T23:30:19.268043+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 22:33 UTC  
+**Last Updated:** February 17, 2026 at 23:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ An estimated 66.7% (14M BTC) is still owned by individuals per River. The big qu
 
 https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-crypto-stock-and-bond-gains/ Uh oh…
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 February 17, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 9h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 10h ago
 
 ---
 
@@ -105,7 +105,7 @@ February 17, 2026
 
 Let's say you have 210 BTC, would you keep it all in one wallet or would you have different hardware wallets?
 
-10h ago
+11h ago
 
 ---
 
@@ -113,19 +113,19 @@ Let's say you have 210 BTC, would you keep it all in one wallet or would you hav
 
 Blockchain.com held my coins from late 2023 when I tried to withdraw my money to my secondary wallet. I contacted them to find out exactly what was happening and was told to do kyc which I did and gave them all the info they asked for. But they still didn’t release it. fast forward to 2026 just yesterday. I tried logging back in to see if my money has been released. lo and behold. I saw my cryptos back in my wallet. so then I did what any sane person would do. Withdraw it all out of that wicked platform. But guess what happened again ? after all this years they are asking me to kyc again. I did again this time and they refuse to respond. I should have written this long ago to save some of you from this greedy thieves that steal from hardworking traders in third-world countries trying to make it. I have proofs of all our conversations if you need proof I’ll send them to you if you message me. ps anyone trying to help you out here asking for money are scammers. Stay safe out there. I am not writing this because I am bitter about them stealing my money but to warn you about saving your hard earned cash with them.
 
-1h ago
+2h ago
 
 ---
 
 **[Still awesome, 8 years old gem](https://www.reddit.com/r/Bitcoin/comments/1r7c3vq/still_awesome_8_years_old_gem/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -133,7 +133,7 @@ Blockchain.com held my coins from late 2023 when I tried to withdraw my money to
 
 ... electricity that would, without Bitcoin never exist.
 
-52m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here
 
 A common idea during market downturns is to wait for a massive crash before buying Bitcoin. On paper, this sounds logical: buy when prices are deeply discounted. In reality, markets rarely give perfectly timed entry points that everyone expects. Extreme price targets often become psychological anchors rather than realistic planning tools. When severe market drops happen, uncertainty and fear usually increase, which can make decision-making harder. Bitcoin’s fixed supply is often discussed as a long-term fundamental factor. However, individual market participants approach accumulation differently. Some focus on gradual accumulation strategies, while others attempt to time large market moves. Both approaches carry different types of risk. From a risk management perspective, it can be useful to ask: If Bitcoin experienced a severe market drop, would you feel confident accumulating? Or would market uncertainty make you more cautious? Curious how others here think about long term accumulation vs trying to time extreme market events. (Not financial advice — discussion only.)
 
-5h ago
+6h ago
 
 ---
 
@@ -159,7 +159,7 @@ A common idea during market downturns is to wait for a massive crash before buyi
 
 **[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
 
-Bloomberg • 4h ago
+Bloomberg • 5h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg • 4h ago
 
 The company's stack is now 717,131 bitcoin acquired for $54.52 billion, or $76,027 per coin. Bitcoin's current price is $68,000.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -183,7 +183,7 @@ thestreet.com • 1d ago
 
 Bitcoin, which has traded like a high-beta tech proxy in recent months, mirrored an earlier move lower in US equities but failed to keep pace when stocks edged higher.  “Sentiment is clearly bleak in crypto markets,” said Noelle Acheson, author of Crypto is Macro Now newsletter.  “There is strong progress in adoption by traditional institutions, but this is not reflected in overall prices, which depresses sentiment even more.”
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 4h ago
 
 BofA's February survey shows investor positioning in the U.S. dollar has fallen to its most negative level since at least early 2012.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 5h ago
 
 Standard Chartered has again cut its 2026 Bitcoin forecast. "I think we are going to see more pain," Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note to investors on Feb. 12, disclosing that the...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -207,13 +207,13 @@ Yahoo Finance • 2h ago
 
 Coinbase CEO Brian Armstrong dismissed “paper Bitcoin” claims, insisting spot Bitcoin ETFs are fully backed, while defending Coinbase’s dominant custody role and calling U.S. regulatory clarity the next key step for the industry.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
 **[Wall Street loves this crypto IPO. Bitcoin’s slide isn’t a problem, analysts say.](https://www.msn.com/en-us/money/topstocks/wall-street-loves-this-crypto-ipo-bitcoin-s-slide-isn-t-a-problem-analysts-say/ar-AA1Wx3H8?ocid=finance-verthp-feeds)**
 
-MSN • 3h ago
+MSN • 4h ago
 
 ---
 
@@ -221,7 +221,7 @@ MSN • 3h ago
 
 Finder.com reports experts predict Bitcoin may hit $695K and Ether $21K by 2035, yet fewer than half recommend buying now due to market uncertainty.
 
-Longview Daily News • 2h ago
+Longview Daily News • 3h ago
 
 ---
 
@@ -273,7 +273,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 2 • 💬 0 • 5h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -287,13 +287,13 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 1h ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 2h ago • [b4q.io](https://b4q.io/research)
 
 ---
 
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
-⬆️ 1 • 💬 1 • 8h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+⬆️ 1 • 💬 1 • 9h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -323,7 +323,7 @@ One of Bitcoin's most respected macro analysts, Lyn Alden, joins Natalie for a c
 
 📺 Natalie Brunell
 
-👁️ 23K • 👍 1K • 💬 242 • ⏱️ 55:19 • 11h ago
+👁️ 23K • 👍 1K • 💬 242 • ⏱️ 55:19 • 12h ago
 
 ---
 
@@ -333,7 +333,7 @@ Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will 
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 3K • 💬 517 • ⏱️ 10:49 • 20h ago
+👁️ 75K • 👍 3K • 💬 517 • ⏱️ 10:49 • 21h ago
 
 ---
 
@@ -343,7 +343,7 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 535 • 💬 69 • ⏱️ 19:31 • 7h ago
+👁️ 17K • 👍 535 • 💬 69 • ⏱️ 19:31 • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin #Crypto #Finance One of the most influential insiders in Bitcoin and glo
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 587 • 💬 108 • ⏱️ 1:02:24 • 7h ago
+👁️ 9K • 👍 587 • 💬 108 • ⏱️ 1:02:24 • 8h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemin
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 523 • 💬 69 • ⏱️ 7:50 • 13h ago
+👁️ 7K • 👍 523 • 💬 69 • ⏱️ 7:50 • 14h ago
 
 ---
 
@@ -373,7 +373,7 @@ Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get 
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 232 • 💬 18 • ⏱️ 49:39 • 7h ago
+👁️ 4K • 👍 232 • 💬 18 • ⏱️ 49:39 • 8h ago
 
 ---
 
@@ -383,7 +383,7 @@ Is the bottom finally in? The charts are screaming at us. Today, we are breaking
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 404 • 💬 22 • ⏱️ 1:11:09 • 5h ago
+👁️ 6K • 👍 404 • 💬 22 • ⏱️ 1:11:09 • 6h ago
 
 ---
 
@@ -393,7 +393,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 18K • 👍 1K • 💬 144 • ⏱️ 51:48 • 13h ago
+👁️ 18K • 👍 1K • 💬 144 • ⏱️ 51:48 • 14h ago
 
 ---
 
@@ -413,7 +413,7 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 2K • 💬 249 • ⏱️ 11:16 • 1d ago
+👁️ 52K • 👍 2K • 💬 249 • ⏱️ 11:16 • 2d ago
 
 ---
 

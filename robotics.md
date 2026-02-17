@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T22:33:23.795649+00:00'
+updated: '2026-02-17T23:30:19.277257+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 22:33 UTC  
+**Last Updated:** February 17, 2026 at 23:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM101. Is it faster than cooking by hand? No. But is it way cooler? I think so. Honestly, I didn't expect ACT (Action Chunking Transformer) to handle physical tasks this effectively. I thought it might be limited, but it turns out it actually performs way better when trained on short, simple primitives. So, I decomposed the cooking process into smaller tasks and implemented a high-level planner to orchestrate them. It works surprisingly well with this approach. You can see the details here 👇. https://youtu.be/SyGJ2h8aM98?si=gUOa0jV8wwxQTysp
 
-5h ago
+6h ago
 
 ---
 
@@ -44,13 +44,13 @@ I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM
 
 Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
 
-7h ago
+8h ago
 
 ---
 
 **[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
 
-8h ago
+9h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
 
-30m ago
+1h ago
 
 ---
 
@@ -80,13 +80,13 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I'd been building. The feedback was really helpful, and I've been heads-down since then working on the biggest request: Python support. v0.3.0 is out, and Python is now a first-class language alongside Rust. Topics, services, actions, parameters — everything works in Python with full code generation, type-safe dataclasses, and asyncio support out of the box. You can even mix Python and Rust nodes in the same project. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python support.
 
-8h ago
+9h ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -94,13 +94,13 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Hi all, A bit about me : Bachelor of technology in Electrical and Electronics from a tier 3 Indian Uni 4 years of Work experience in warehouse robots, writing software and building algorithms. Mostly worked on mapping and SLAM, but have also worked on motor controllers, CAN drivers etc. IELTS : 8.5 Moving to and working in the UK had always been a dream to me, so I decided to take the shot and pursue masters in the hopes of working and staying in the UK. I want to know the communities opinion and insights on the robotics scenario there and which university and location would be the best bet to pursue my dreams further. I have currently got admits from King's College London, University of Bristol and Sheffield university. I am a bit confused on choosing between Bristol and King's and would appreciate your insights 😇 Now I will list the Pros and Cons of each university , please note that this is just a personal list gathered from people who I have interacted on LinkedIn, so might be a bit biased. I know both are great Unis! **University of Bristol** Pros QS ranking 51 Bristol Robotics Lab - largest in the UK Fees 36,750/- pounds lower living costs as it is outside London Cons outside London, so less networking and Job opportunities Got some negative reviews from people who studied there regarding academics. **2. Kings College London** Pros QS ranking 30 Center of Robotics Lab higher Russell group and popular university more networking and job opportunities as Central London location Cons high fees : 40,700 pounds London is more expensive in terms of living
 
-8h ago
+9h ago
 
 ---
 
 **[Am I the only one who thinks robot fault diagnosis is way behind cars?](https://www.reddit.com/r/robotics/comments/1r6zbpt/am_i_the_only_one_who_thinks_robot_fault/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi all, A bit about me : Bachelor of technology in Electrical and Electronics fr
 
 Four rising humanoid robot startups demonstrated their products during the annual CCTV Spring Festival gala, a televised event and touchstone for China akin to the Super Bowl.
 
-NBC News • 13h ago
+NBC News • 14h ago
 
 ---
 
@@ -120,7 +120,7 @@ NBC News • 13h ago
 
 Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
 
-Business Insider • 2h ago
+Business Insider • 3h ago
 
 ---
 
@@ -142,7 +142,7 @@ The Economist • 1d ago
 
 Advancing are Island Robotics, Waiʻanae High School, Pearl City High School, Kaimuki Middle School, Mililani Mechs Robotics, and Waialua High & Intermediate School.  The double qualifications by these teams will allow one other Hawaiʻi team – to be determined  by the Robotics Education and Competition Foundation – to advance to the VEX Worlds.
 
-Maui Now • 2h ago
+Maui Now • 3h ago
 
 ---
 
@@ -150,7 +150,7 @@ Maui Now • 2h ago
 
 AI·Robotics Automate 57% of Human Tasks, Study Finds Leadership and Communication Skills Remain Irreplaceable, McKinsey Global Institute Reports
 
-조선일보 • 29m ago
+조선일보 • 1h ago
 
 ---
 
@@ -166,7 +166,7 @@ KWQC • 1d ago
 
 Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
 
-Peak of Ohio • 13h ago
+Peak of Ohio • 14h ago
 
 ---
 
@@ -174,7 +174,7 @@ Peak of Ohio • 13h ago
 
 Artificial intelligence is transforming the robotics field at a rapid pace, according to the International Federation of Robotics or IFR.
 
-The Robot Report • 9m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Robot Report • 9m ago
 
 Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
 
-SiliconANGLE • 21h ago
+SiliconANGLE • 22h ago
 
 ---
 
@@ -206,7 +206,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 1K • 👍 50 • 💬 9 • ⏱️ 2:00 • 5h ago
+👁️ 1K • 👍 50 • 💬 9 • ⏱️ 2:00 • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ A massive robotics shift is unfolding right in front of us. Boston Dynamics has 
 
 📺 AI Revolution
 
-👁️ 187K • 👍 3K • 💬 278 • ⏱️ 11:59 • 6d ago
+👁️ 187K • 👍 3K • 💬 278 • ⏱️ 11:59 • 7d ago
 
 ---
 
@@ -266,7 +266,7 @@ The world is ringing in the year of the Fire Horse and China is marking Lunar Ne
 
 📺 Al Jazeera English
 
-👁️ 6K • 👍 167 • 💬 108 • ⏱️ 7:31 • 5h ago
+👁️ 6K • 👍 167 • 💬 108 • ⏱️ 7:31 • 6h ago
 
 ---
 

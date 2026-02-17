@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-17T22:33:23.778071+00:00'
+updated: '2026-02-17T23:30:19.259542+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - videos
+- news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 17, 2026 at 22:33 UTC  
+**Last Updated:** February 17, 2026 at 23:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic released Sonnet 4.6 today. Key updates are 1M token context in beta and no Sonnet price increase ($3 input / $15 output per MTok, same as Sonnet 4.5). In Anthropic's early Claude Code testing, users preferred Sonnet 4.6 over Sonnet 4.5 70% of the time, and over Opus 4.5 59% of the time. So the angle is not "same price as Opus" - it is "closer to Opus 4.5 level behavior at Sonnet pricing." Curious what workloads you still keep on Opus.
 
-🔗 [onllm.dev](https://onllm.dev/blog/5-claude-sonnet-4-6-release) • 3h ago
+🔗 [onllm.dev](https://onllm.dev/blog/5-claude-sonnet-4-6-release) • 4h ago
 
 ---
 
@@ -57,7 +57,7 @@ Anthropic released Sonnet 4.6 today. Key updates are 1M token context in beta an
 
 The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 10h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 11h ago
 
 ---
 
@@ -65,7 +65,7 @@ The blockbuster investment comes as India pushes to gain a stronger foothold in 
 
 "Elon Musk’s SpaceX and its subsidiary xAI are joining a secretive US Department of Defense competition centered on a voice command and control tool that could deploy multiple autonomous systems. The project, launched in January with a $100-million budget and a six-month timeline, requires software that could coordinate unmanned swarming operations across the air and at sea, according to Bloomberg. The Pentagon’s Defense Innovation Unit and its new Defense Autonomous Warfare Group under the US Special Operations Command are overseeing the competition. The contest will unfold in phases, starting with software development before advancing to live trials. SpaceX and xAI’s participation marks an expansion of Musk’s defense work into artificial intelligence-enabled weapons software, as the Pentagon moves to accelerate drone development and domestic manufacturing while cutting bureaucracy. It also follows Washington’s call for cost-effective counter-drone solutions, particularly to protect critical military and civilian infrastructure as well as large public events. Separately, xAI, alongside other firms such as ChatGPT owner OpenAI, secured defense contracts worth up to $200 million each last year to expand advanced artificial intelligence use across military systems."
 
-🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 50m ago
+🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ The blockbuster investment comes as India pushes to gain a stronger foothold in 
 
 So the guy who built OpenClaw, originally called Clawdbot because it was literally named after Anthropic's Claude, just got hired by OpenAI. Not Anthropic. OpenAI. You can't make this stuff up. For those out of the loop: OpenClaw is that open-source AI assistant that actually DOES things instead of just talking about doing things. You run it on a Mac Mini or whatever, connect it to your WhatsApp/Telegram/Slack, and it handles your emails, browses the web, runs code, manages your calendar, all autonomously. It even has a "heartbeat" where it wakes up on its own and checks on stuff without you asking. The project went from like 9k to 145k+ GitHub stars in weeks. Caused actual Mac Mini shortages. Jason Calacanis says his company offloaded 20% of tasks to it in 20 days and doesn't plan to hire humans for a year. Peter Steinberger (the creator) is now leading OpenAI's "personal agents" division. OpenClaw stays open source under a foundation. Both Meta and OpenAI were fighting over him, apparently. The security concerns are real, though, Cisco found third-party skills doing data exfiltration without users knowing. One of OpenClaw's own maintainers said if you can't use a command line, this project is too dangerous for you, lol. But yeah. We're officially in the "AI agents that do stuff" era now. Chatbots feel like last year already. Anyone here actually running OpenClaw? What's your setup?
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ So the guy who built OpenClaw, originally called Clawdbot because it was literal
 
 Greetings!! We are conducting a short academic survey on consumer perceptions and adoption of AI Assistants (Agentic AI). It will take just 5–7 minutes, and all responses are completely anonymous and confidential. Your honest feedback would be greatly appreciated. Please fill the form here: https://forms.gle/JTvaT25Zjssas58r5 Thank you so much for your support 🙏
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Abstract: "A variety of machine-assisted ways to perform mathematical assistance
 
 Performed an analysis by prompting 100 language models for their favorite movies, had them answer with only the movie title, and persuaded them to give an answer (A lot wanted to say they don't have a preference). Got very vanilla results, as a cinephile I'm very disappointed for the lack of interesting/niche picks, curious to see how this analysis develops over the years.
 
-🔗 [rival.tips](https://www.rival.tips/challenges/favorite-movie) • 13h ago
+🔗 [rival.tips](https://www.rival.tips/challenges/favorite-movie) • 14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Performed an analysis by prompting 100 language models for their favorite movies
 
 Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interest
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 1h ago
 
 Figma has been caught in the software stock selloff that has sent names like Salesforce, ServiceNow, and Intuit plummeting.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -139,13 +139,13 @@ CNBC • 8h ago
 
 CNN’s 5 Things PM brings you the stories you might have missed during your busy day.
 
-CNN • 35m ago
+CNN • 1h ago
 
 ---
 
 **[Fed Officials Say AI Productivity Boost Could Raise Neutral Rate](https://www.bloomberg.com/news/articles/2026-02-17/fed-officials-say-ai-productivity-boost-could-raise-neutral-rate?srnd=homepage-americas)**
 
-Bloomberg • 27m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bloomberg • 27m ago
 
 While some Hollywood icons are feeling doom and gloom over the AI-generated clip, labor unions are fighting back with legal threats.
 
-CNET • 5m ago
+CNET • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNET • 5m ago
 
 The U.S. might need fewer lawyers in the AI age. Good.
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Washington Post • 3h ago
 
 Nvidia and Meta are expanding their chip deal to include millions of more AI processors.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -177,19 +177,19 @@ Yahoo Finance • 1h ago
 
 Meta expands partnership with Nvidia in a deal likely worth tens of billions, for deploying millions of GPUs and new standalone CPUs in AI data centers
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Tiger Global, Adage Capital trimmed stakes in AI heavyweights](https://www.reuters.com/business/media-telecom/softbank-group-dissolves-share-stake-nvidia-according-sec-filing-2026-02-17/)**
 
-Reuters • 6h ago
+Reuters • 7h ago
 
 ---
 
 **[SPONSORED Why AI is only as good as the data](https://www.axios.com/sponsored/why-ai-is-only-as-good-as-the-data)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Axios • 1h ago
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Talarico on the broadcast.
 
-⬆️ 423 • 💬 198 • 5h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 423 • 💬 198 • 6h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 
 ---
 
@@ -211,7 +211,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 393 • 💬 325 • 22h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 393 • 💬 325 • 23h ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -235,7 +235,7 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 opinion: The subtractive bias we're ignoring
 
-⬆️ 201 • 💬 167 • 6h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 201 • 💬 167 • 7h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -267,7 +267,7 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy First, Zero Internet. Download an LLM and use it on your mobile device. No data ever leaves your phone. Supports text-...
 
-⬆️ 123 • 💬 64 • 2d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
+⬆️ 123 • 💬 64 • 3d ago • [GitHub](https://github.com/alichherawalla/off-grid-mobile)
 
 ---
 
@@ -275,7 +275,7 @@ The Swiss Army Knife of Offline AI. Chat, Speak, and Generate Images - Privacy F
 
 My Plasma task switcher was a second too slow, so I built - and shipped - my own in Zig, without actually knowing Zig, using AI tools.
 
-⬆️ 98 • 💬 64 • 22h ago • [codemade.net](https://codemade.net/blog/building-for-one/)
+⬆️ 98 • 💬 64 • 23h ago • [codemade.net](https://codemade.net/blog/building-for-one/)
 
 ---
 
@@ -289,7 +289,7 @@ Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code F
 
 📺 Fireship
 
-👁️ 107K • 👍 7K • 💬 480 • ⏱️ 5:02 • 4h ago
+👁️ 107K • 👍 7K • 💬 480 • ⏱️ 5:02 • 5h ago
 
 ---
 
@@ -299,7 +299,7 @@ A 15-second clip released late last week seemed to have all the hallmarks of a b
 
 📺 CBS Evening News
 
-👁️ 37K • 👍 228 • 💬 66 • ⏱️ 1:49 • 21h ago
+👁️ 37K • 👍 228 • 💬 66 • ⏱️ 1:49 • 22h ago
 
 ---
 
@@ -319,7 +319,7 @@ OpenAI just hired the creator of OpenClaw, one of the fastest-spreading open-sou
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 116 • ⏱️ 8:30 • 23h ago
+👁️ 39K • 👍 1K • 💬 116 • ⏱️ 8:30 • 1d ago
 
 ---
 
@@ -431,7 +431,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 32,023 • ❤️ 537 • 13h ago
+⬇️ 32,023 • ❤️ 537 • 14h ago
 
 ---
 
@@ -598,7 +598,7 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 67 • 💬 1 • ⭐ 7,826 • 26d ago
+▲ 67 • 💬 1 • ⭐ 7,826 • 27d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 10.1k • 🔱 992 • 56m ago
+⭐ 10.1k • 🔱 992 • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.6k • 🔱 170 • 14d ago
+⭐ 3.6k • 🔱 170 • 15d ago
 
 ---
 
@@ -697,7 +697,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.7k • 🔱 271 • 6h ago
+⭐ 2.7k • 🔱 271 • 7h ago
 
 ---
 
@@ -707,7 +707,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, and othe
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.3k • 🔱 158 • 4h ago
+⭐ 2.3k • 🔱 158 • 5h ago
 
 ---
 
@@ -717,7 +717,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.3k • 🔱 288 • 4h ago
+⭐ 2.3k • 🔱 288 • 5h ago
 
 ---
 

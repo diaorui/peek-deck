@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T22:33:23.792442+00:00'
+updated: '2026-02-17T23:30:19.274011+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 22:33 UTC  
+**Last Updated:** February 17, 2026 at 23:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-11h ago
+12h ago
 
 ---
 
@@ -156,7 +156,7 @@ Recently I have been starting to worry about the state of prediction markets, in
 
 Ethereum’s tokenized real-world asset market cap has topped $17 billion, up nearly 315% year over year as more TradFi giants move onchain.
 
-The Block • 11h ago
+The Block • 12h ago
 
 ---
 
@@ -172,13 +172,13 @@ Yahoo Finance • 1d ago
 
 The university's investment arm held 5.35 million shares of the iShares Bitcoin Trust valued at $265.8 million as of Dec. 31, according to SEC filings released Friday.
 
-CoinMarketCap • 5h ago
+CoinMarketCap • 6h ago
 
 ---
 
 **[Key facts: Ethereum bearish trend deepens; Harvard invests $86.8M in ETHA](https://www.tradingview.com/news/tradingview:f90a7ffed5ffc:0-key-facts-ethereum-bearish-trend-deepens-harvard-invests-86-8m-in-etha/)**
 
-TradingView • 22h ago
+TradingView • 23h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 2h ago
 
 **[Ethereum At Risk Of Falling Under $996 (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4871040-ethereum-at-risk-of-falling-under-996)**
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -216,7 +216,7 @@ CCN.com • 1d ago
 
 BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -224,7 +224,7 @@ Decrypt • 5h ago
 
 Who knew being able to bet on everything would lead to people acting irresponsibly?
 
-Gizmodo • 2h ago
+Gizmodo • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 189 • 💬 101 • ⏱️ 25:32 • 9h ago
+👁️ 3K • 👍 189 • 💬 101 • ⏱️ 25:32 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 5 • ⏱️ 5:28 • 7h ago
+👁️ 2K • 👍 154 • 💬 5 • ⏱️ 5:28 • 8h ago
 
 ---
 
@@ -258,7 +258,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 121 • 💬 150 • ⏱️ 14:18 • 17h ago
+👁️ 3K • 👍 121 • 💬 150 • ⏱️ 14:18 • 18h ago
 
 ---
 
@@ -268,7 +268,7 @@ As RWA takes control of the market, we look at 3 RWA leaders: Ondo, Ethereum, an
 
 📺 Altcoin Buzz
 
-👁️ 1K • 👍 109 • 💬 63 • ⏱️ 12:17 • 4h ago
+👁️ 1K • 👍 109 • 💬 63 • ⏱️ 12:17 • 5h ago
 
 ---
 
@@ -288,7 +288,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 323 • 👍 68 • 💬 6 • ⏱️ 34:48 • 1h ago
+👁️ 323 • 👍 68 • 💬 6 • ⏱️ 34:48 • 2h ago
 
 ---
 
@@ -298,7 +298,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 76 • 👍 9 • 💬 1 • ⏱️ 5:31 • 3h ago
+👁️ 76 • 👍 9 • 💬 1 • ⏱️ 5:31 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ xrp #bitcoin #hbar #xlm #eth SEND ME YOUR BEST CRYPTO MEMES HERE   ...
 
 📺 CRYPTO with KLAUS
 
-👁️ 3K • 👍 327 • 💬 42 • ⏱️ 17:01 • 4h ago
+👁️ 3K • 👍 327 • 💬 42 • ⏱️ 17:01 • 5h ago
 
 ---
 
@@ -318,7 +318,7 @@ Bitcoin just took another brutal correction, down 50%, and no, this isn't the fi
 
 📺 Kevin O'Leary
 
-👁️ 27K • 👍 403 • 💬 54 • ⏱️ 1:34 • 22h ago
+👁️ 27K • 👍 403 • 💬 54 • ⏱️ 1:34 • 23h ago
 
 ---
 
@@ -328,7 +328,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 20h ago
+👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 21h ago
 
 ---
 
