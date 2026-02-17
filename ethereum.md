@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T23:30:19.274011+00:00'
+updated: '2026-02-17T23:57:32.917880+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 23:30 UTC  
+**Last Updated:** February 17, 2026 at 23:57 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.2%  
-**7d:** +3.2%  
-**30d:** -37.2%  
-**90d:** -29.5%  
-**1y:** -25.0%  
+**24h:** -0.3%  
+**7d:** +2.7%  
+**30d:** -37.5%  
+**90d:** -29.8%  
+**1y:** -25.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $240.60B
+**Market Cap:** $240.30B
 Rank #2
 
 **Circulating Supply:** 120,692,440 ETH
@@ -62,7 +62,7 @@ No max supply
 -59.7%
 
 **All-Time Low:** $0.43
-+460485.8%
++459943.1%
 
 ---
 
@@ -152,11 +152,11 @@ Recently I have been starting to worry about the state of prediction markets, in
 
 ## Google News: "ethereum"
 
-**[Ethereum's tokenized RWA market jumps more than 300% year over year as value tops $17 billion](https://www.theblock.co/post/390130/ethereum-tokenized-rwa-market-jump)**
+**[BlackRock begins acquiring ETH for upcoming Ethereum staking ETF](https://www.theblock.co/post/390244/blackrock-begins-acquiring-eth-upcoming-ethereum-staking-etf)**
 
-Ethereum’s tokenized real-world asset market cap has topped $17 billion, up nearly 315% year over year as more TradFi giants move onchain.
+A BlackRock affiliate purchased 4,000 seed shares of the fund for $100,000, providing the initial capital the trust will use to purchase ether, according to an amended S-1 filing.
 
-The Block • 12h ago
+The Block • 5h ago
 
 ---
 
@@ -176,55 +176,57 @@ CoinMarketCap • 6h ago
 
 ---
 
-**[Key facts: Ethereum bearish trend deepens; Harvard invests $86.8M in ETHA](https://www.tradingview.com/news/tradingview:f90a7ffed5ffc:0-key-facts-ethereum-bearish-trend-deepens-harvard-invests-86-8m-in-etha/)**
+**[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
 
-TradingView • 23h ago
+Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
 
----
-
-**[BlackRock, Coinbase to keep 18% of Ethereum staking revenue in new ETF](https://finance.yahoo.com/news/blackrock-coinbase-keep-18-ethereum-203135863.html)**
-
-BlackRock and Coinbase will take an 18% cut of staking revenue from ETHB. It is well-positioned to become the largest Ethereum ETF on the market.
-
-Yahoo Finance • 2h ago
+Nasdaq • 2d ago
 
 ---
 
-**[Ethereum At Risk Of Falling Under $996 (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4871040-ethereum-at-risk-of-falling-under-996)**
+**[BitMine grows Ethereum treasury to 4.37 million ETH, sees $252 million annual staking revenue via MAVAN](https://www.theblock.co/post/390193/bitmine-grows-ethereum-treasury-to-4-37-million-eth-sees-252-million-annual-staking-revenue-via-mavan)**
 
-Seeking Alpha • 3h ago
+Tom Lee's BitMine said its ether treasury has climbed to 4.37 million ETH as the firm continues aggressive accumulation market prices.
 
----
-
-**[Better Cryptocurrency to Buy With $3,000 and Hold for 5 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-3000-and-hold-5-years-xrp-vs-ethereum)**
-
-Key PointsEthereum is getting frequent major upgrades and onboarding a lot of new capital to its network.
-
-Nasdaq • 3d ago
+The Block • 8h ago
 
 ---
 
-**[Has Bitcoin and Ethereum Reached Price Bottom? Tom Lee Claims Crypto Winter Is “Close To Ending”](https://www.ccn.com/news/crypto/tom-lee-calls-bitcoin-and-ethereum-bottom-claims-crypto-winter/)**
+**[BlackRock Loads Up on Bitmine as $1,400 Ethereum Target Looms](https://finance.yahoo.com/news/blackrock-loads-bitmine-1-400-203847730.html)**
 
-Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
+Though the US market is closed for Presidents’ Day today, BlackRock’s IBIT ETF recorded a $9.4 million outflow on the last working day before the market closed, 13 February 2026. Bitcoin is hovering at around $68k, and it wasn’t just a panic sell—it was a playground for Wall Street. Market ...
 
-CCN.com • 1d ago
-
----
-
-**[Tom Lee Expects 'Defining Year for Ethereum' as BitMine Buys ETH Amid 'Rock Bottom' Vibes](https://decrypt.co/358322/tom-lee-defining-year-ethereum-bitmine-buys-eth-rock-bottom-vibes)**
-
-BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
-
-Decrypt • 6h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Creator Starting to Think This Whole Prediction Market Thing Might be Gambling](https://gizmodo.com/ethereum-creator-starting-to-think-this-whole-prediction-market-thing-might-be-gambling-2000722910)**
+**[Bitmine’s Expanded Ethereum Treasury Deepens Link Between BMNR Shares And Crypto](https://finance.yahoo.com/news/bitmine-expanded-ethereum-treasury-deepens-220811424.html)**
 
-Who knew being able to bet on everything would lead to people acting irresponsibly?
+Bitmine Immersion Technologies (NYSEAM:BMNR) has acquired nearly $91 million worth of Ethereum, expanding its existing crypto holdings. The company made the purchase despite currently unrealized losses on its Ethereum position and ongoing market volatility. The move signals a continued focus on Ethereum as a core treasury asset for this publicly listed miner and immersion tech company. Bitmine Immersion Technologies, trading at $20.96, sits in a very unusual spot for a public company, with...
 
-Gizmodo • 3h ago
+Yahoo Finance • 1h ago
+
+---
+
+**[BlackRock, Coinbase to keep 18% of Ethereum staking revenue in new ETF](https://www.dlnews.com/articles/defi/blackrock-to-take-fifth-of-ether-staking-revenue-in-new-etf/)**
+
+BlackRock and Coinbase will take an 18% cut of staking revenue from ETHB.  It is well-positioned to become the largest Ethereum ETF on the market.
+
+dlnews.com • 3h ago
+
+---
+
+**[Ethereum Is Crushing XRP in 1 Key Arena. Should You Buy It With $1,000?](https://www.nasdaq.com/articles/ethereum-crushing-xrp-1-key-arena-should-you-buy-it-1000)**
+
+Key PointsEthereum is an increasingly popular place to trade and manage tokenized assets.
+
+Nasdaq • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqczab6EHwmrDtrKWh61w0k0J4iytYxoqnZcD6sxSjF3BlJlVEm7XKj7&gaa_ts=699503d5&gaa_sig=ObBijZLt-4Upkhk5zVV78qQqAjhvxKoKn_W4qjAcCVTvGyVuA3xn0XRsBp3JKoK1PAN3Ubh2QGmWilwgSOjURA%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -232,23 +234,23 @@ Gizmodo • 3h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN: It&#39;s Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8Z5JBHB10hU)**
+
+BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 168 • 💬 20 • ⏱️ 15:02 • 2h ago
+
+---
+
 **[Gareth Soloway Shares What&#39;s Next for Bitcoin, Ethereum, XRP, Gold, Silver &amp; Stocks!](https://www.youtube.com/watch?v=Lm-H37evXF8)**
 
 Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to review the charts for Bitcoin, Ethereum, XRP, Gold, ...
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 189 • 💬 101 • ⏱️ 25:32 • 10h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Sf7WH37pgOk)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 154 • 💬 5 • ⏱️ 5:28 • 8h ago
+👁️ 3K • 👍 208 • 💬 80 • ⏱️ 25:32 • 10h ago
 
 ---
 
@@ -258,37 +260,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 121 • 💬 150 • ⏱️ 14:18 • 18h ago
+👁️ 3K • 👍 127 • 💬 105 • ⏱️ 14:18 • 18h ago
 
 ---
 
-**[HBAR, ETH, or ONDO - Which Altcoin Will Dominate RWA?](https://www.youtube.com/watch?v=jsPxXpRLxMo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Sf7WH37pgOk)**
 
-As RWA takes control of the market, we look at 3 RWA leaders: Ondo, Ethereum, and Hedera Hashgraph. These 3 lead now and ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Altcoin Buzz
+📺 More Crypto Online
 
-👁️ 1K • 👍 109 • 💬 63 • ⏱️ 12:17 • 5h ago
-
----
-
-**[Uh-oh, Legendary Investor predicts this about ethereum](https://www.youtube.com/watch?v=f2up6NDUAYE)**
-
-Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https://dacfp.com/ Join us at Bitcoin Conference ...
-
-📺 Altcoin Daily
-
-👁️ 68K • 👍 3K • 💬 512 • ⏱️ 34:57 • 2d ago
-
----
-
-**[🧃 Juicy News 🐎 BTC $67K, Red Pill SuperCycle, SaaS, Ethereum Pain, Jay Z &amp; Beyonce, Saylor, Tom Lee](https://www.youtube.com/watch?v=p_Tk-iSfP_g)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 323 • 👍 68 • 💬 6 • ⏱️ 34:48 • 2h ago
+👁️ 2K • 👍 160 • 💬 7 • ⏱️ 5:28 • 8h ago
 
 ---
 
@@ -298,17 +280,17 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ 
 
 📺 Trade Confident
 
-👁️ 76 • 👍 9 • 💬 1 • ⏱️ 5:31 • 4h ago
+👁️ 121 • 👍 11 • 💬 1 • ⏱️ 5:31 • 4h ago
 
 ---
 
-**[💯XRP HBAR ETH GOOD NEWS💯](https://www.youtube.com/watch?v=7eKXp8vUicY)**
+**[URGENT ETHEREUM UPDATE🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Rg_7iUAifgM)**
 
-xrp #bitcoin #hbar #xlm #eth SEND ME YOUR BEST CRYPTO MEMES HERE   ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 CRYPTO with KLAUS
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 327 • 💬 42 • ⏱️ 17:01 • 5h ago
+👁️ 223 • 👍 12 • 💬 1 • ⏱️ 4:19 • 13h ago
 
 ---
 
@@ -318,7 +300,7 @@ Bitcoin just took another brutal correction, down 50%, and no, this isn't the fi
 
 📺 Kevin O'Leary
 
-👁️ 27K • 👍 403 • 💬 54 • ⏱️ 1:34 • 23h ago
+👁️ 31K • 👍 437 • 💬 58 • ⏱️ 1:34 • 23h ago
 
 ---
 
@@ -329,6 +311,26 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 21h ago
+
+---
+
+**[BREAKING: WHALES ARE BUYING BTC &amp; ETH NOW!!!](https://www.youtube.com/watch?v=jIbdXO3x-vk)**
+
+WEEX: https://themoon.co/DailyWEEX UP TO $30000 BONUS BLOFIN: https://themoon.co/dailyblofin45usdt 20% ...
+
+📺 The Moon Show
+
+👁️ 4K • 👍 200 • 💬 15 • ⏱️ 42:12 • 7h ago
+
+---
+
+**[Ethereum: RISCHIO DI TORNARE A SCENDERE?](https://www.youtube.com/watch?v=mZP9iJ-1qQs)**
+
+GRATIS QUI LA GUIDA www.analisievoluta.com ETHEREUM: RISCHIO DI TORNARE A SCENDERE? Nuova analisi su ETH !
+
+📺 Jacopo Marini
+
+👁️ 156 • 👍 30 • 💬 4 • ⏱️ 20:42 • 2h ago
 
 ---
 

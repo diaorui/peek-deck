@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-17T23:30:19.268043+00:00'
+updated: '2026-02-17T23:57:32.912531+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
 - videos
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 23:30 UTC  
+**Last Updated:** February 17, 2026 at 23:57 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,632.19
+### $67,733.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +0.9%  
-**30d:** -26.9%  
-**90d:** -22.2%  
-**1y:** -29.2%  
+**24h:** -1.9%  
+**7d:** +0.7%  
+**30d:** -27.0%  
+**90d:** -22.4%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1349.94B
+**Market Cap:** $1349.04B
 Rank #1
 
-**Circulating Supply:** 19,990,746 BTC
+**Circulating Supply:** 19,991,050 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.4%
+-46.5%
 
 **All-Time Low:** $67.81
-+99512.2%
++99428.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
 
-7h ago
+8h ago
 
 ---
 
@@ -109,23 +109,9 @@ Let's say you have 210 BTC, would you keep it all in one wallet or would you hav
 
 ---
 
-**[Blockchain.com stole all my Crypto](https://www.reddit.com/r/Bitcoin/comments/1r7iewy/blockchaincom_stole_all_my_crypto/)**
-
-Blockchain.com held my coins from late 2023 when I tried to withdraw my money to my secondary wallet. I contacted them to find out exactly what was happening and was told to do kyc which I did and gave them all the info they asked for. But they still didn’t release it. fast forward to 2026 just yesterday. I tried logging back in to see if my money has been released. lo and behold. I saw my cryptos back in my wallet. so then I did what any sane person would do. Withdraw it all out of that wicked platform. But guess what happened again ? after all this years they are asking me to kyc again. I did again this time and they refuse to respond. I should have written this long ago to save some of you from this greedy thieves that steal from hardworking traders in third-world countries trying to make it. I have proofs of all our conversations if you need proof I’ll send them to you if you message me. ps anyone trying to help you out here asking for money are scammers. Stay safe out there. I am not writing this because I am bitter about them stealing my money but to warn you about saving your hard earned cash with them.
-
-2h ago
-
----
-
 **[Still awesome, 8 years old gem](https://www.reddit.com/r/Bitcoin/comments/1r7c3vq/still_awesome_8_years_old_gem/)**
 
 6h ago
-
----
-
-**[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
-
-21h ago
 
 ---
 
@@ -133,7 +119,13 @@ Blockchain.com held my coins from late 2023 when I tried to withdraw my money to
 
 ... electricity that would, without Bitcoin never exist.
 
-1h ago
+2h ago
+
+---
+
+**[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
+
+22h ago
 
 ---
 
@@ -141,7 +133,7 @@ Blockchain.com held my coins from late 2023 when I tried to withdraw my money to
 
 Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
 
-23h ago
+1d ago
 
 ---
 
@@ -149,7 +141,15 @@ Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here
 
 A common idea during market downturns is to wait for a massive crash before buying Bitcoin. On paper, this sounds logical: buy when prices are deeply discounted. In reality, markets rarely give perfectly timed entry points that everyone expects. Extreme price targets often become psychological anchors rather than realistic planning tools. When severe market drops happen, uncertainty and fear usually increase, which can make decision-making harder. Bitcoin’s fixed supply is often discussed as a long-term fundamental factor. However, individual market participants approach accumulation differently. Some focus on gradual accumulation strategies, while others attempt to time large market moves. Both approaches carry different types of risk. From a risk management perspective, it can be useful to ask: If Bitcoin experienced a severe market drop, would you feel confident accumulating? Or would market uncertainty make you more cautious? Curious how others here think about long term accumulation vs trying to time extreme market events. (Not financial advice — discussion only.)
 
-6h ago
+7h ago
+
+---
+
+**[Brazil Revives Bill 4501 to Accumulate 1 Million BTC for Strategic National Reserve | Bitget News](https://www.reddit.com/r/Bitcoin/comments/1r71xlv/brazil_revives_bill_4501_to_accumulate_1_million/)**
+
+Brazil reintroduces Bill 4501 to build a 1 million BTC strategic reserve over five years.   The proposal allows tax payments in Bitcoin and bans the sale of | Bitget crypto news!
+
+🔗 [Bitget](https://www.bitget.com/news/detail/12560605200239?utm_source=chatgpt.com) • 14h ago
 
 ---
 
@@ -159,47 +159,21 @@ A common idea during market downturns is to wait for a massive crash before buyi
 
 **[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
 
-Bloomberg • 5h ago
+Bloomberg.com • 5h ago
 
 ---
 
-**[Strategy (MSTR) news: company added 2,486 bitcoin last week](https://www.coindesk.com/markets/2026/02/17/michael-saylor-s-strategy-purchased-usd168-million-in-bitcoin-last-week)**
+**[Bitcoin remains under pressure near $68,000 even as panic ebbs](https://www.coindesk.com/markets/2026/02/17/bitcoin-remains-under-pressure-near-usd68-000-even-as-panic-ebbs)**
 
-The company's stack is now 717,131 bitcoin acquired for $54.52 billion, or $76,027 per coin. Bitcoin's current price is $68,000.
+Key derivatives metrics and ETF flows suggest lack of demand, but macro forces offer hope.
 
-CoinDesk • 10h ago
-
----
-
-**[MicroStrategy claims it can survive Bitcoin crash to $8,000](https://www.thestreet.com/crypto/markets/microstrategy-claims-it-can-survive-bitcoin-crash-to-8000)**
-
-MicroStrategy defends its balance sheet once again.
-
-thestreet.com • 1d ago
+CoinDesk • 14h ago
 
 ---
 
-**[Bitcoin Declines as Geopolitical Tension Adds to Risk-Off Mood](https://finance.yahoo.com/news/bitcoin-declines-geopolitical-tension-adds-120215723.html)**
+**[Bitcoin scheme uses intimidation, fear to drain millions from Florida victims](https://www.wfla.com/news/polk-county/bitcoin-scheme-uses-intimidation-fear-drains-millions-from-victims/)**
 
-Bitcoin, which has traded like a high-beta tech proxy in recent months, mirrored an earlier move lower in US equities but failed to keep pace when stocks edged higher.  “Sentiment is clearly bleak in crypto markets,” said Noelle Acheson, author of Crypto is Macro Now newsletter.  “There is strong progress in adoption by traditional institutions, but this is not reflected in overall prices, which depresses sentiment even more.”
-
-Yahoo Finance • 5h ago
-
----
-
-**[Bitcoin (BTC) price forecast: Dollar bearish positioning hits highest since 2012.](https://www.coindesk.com/markets/2026/02/17/bofa-survey-shows-record-bearish-dollar-bets-here-s-what-it-means-for-bitcoin)**
-
-BofA's February survey shows investor positioning in the U.S. dollar has fallen to its most negative level since at least early 2012.
-
-CoinDesk • 6h ago
-
----
-
-**['We Are Going To See More Pain': Standard Chartered Cuts 2026 Bitcoin Forecast From $150K To $100K](https://finance.yahoo.com/news/going-see-more-pain-standard-200502802.html)**
-
-Standard Chartered has again cut its 2026 Bitcoin forecast. "I think we are going to see more pain," Standard Chartered Global Head of Digital Assets Research Geoffrey Kendrick said in a note to investors on Feb. 12, disclosing that the...
-
-Yahoo Finance • 3h ago
+WFLA • 15m ago
 
 ---
 
@@ -211,25 +185,49 @@ Bitcoin Magazine • 2h ago
 
 ---
 
-**[Wall Street loves this crypto IPO. Bitcoin’s slide isn’t a problem, analysts say.](https://www.msn.com/en-us/money/topstocks/wall-street-loves-this-crypto-ipo-bitcoin-s-slide-isn-t-a-problem-analysts-say/ar-AA1Wx3H8?ocid=finance-verthp-feeds)**
+**[In bitcoin price plummet, ETF flows are down but aren't signaling 'crypto winter' investor panic](https://www.cnbc.com/2026/02/15/bitcoin-price-crash-crypto-winter-investors-etf-flows.html)**
 
-MSN • 4h ago
+As the price of bitcoin and other cryptocurrencies has crashed, exchange-traded funds have seen outflows, but ETF selling doesn't look like investor panic.
 
----
-
-**[$695K bitcoin? $21K ether? Here’s where 21 experts think crypto is headed next](https://tdn.com/news/nation-world/business/personal-finance/article_7d4ead9c-0ae4-5bb8-b640-c39e4dbaee2b.html)**
-
-Finder.com reports experts predict Bitcoin may hit $695K and Ether $21K by 2035, yet fewer than half recommend buying now due to market uncertainty.
-
-Longview Daily News • 3h ago
+CNBC • 2d ago
 
 ---
 
-**[Harvard trims bitcoin ETF holdings by 21%, builds $87 million ether position](https://www.theblock.co/post/389996/harvard-bitcoin-ether-etf-holdings)**
+**[Bitcoin's Crash Is Putting Crypto Treasury Stocks To The Test](https://www.forbes.com/sites/ninabambysheva/2026/02/17/bitcoins-crash-is-putting-crypto-treasury-stocks-to-the-test/)**
 
-Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
+Forbes • 12h ago
+
+---
+
+**[Time To Swap Gold For Bitcoin?](https://realinvestmentadvice.com/resources/blog/time-to-swap-gold-for-bitcoin/)**
+
+Should you swap your gold holdings for bitcoin? Discover our analysis on the price ratio of the two "debasement" assets
+
+Real Investment Advice • 7h ago
+
+---
+
+**[Metaplanet posts $619 million net loss on bitcoin valuation as holdings climb to 35,102 BTC](https://www.theblock.co/post/390048/metaplanet-posts-619-million-net-loss-on-bitcoin-valuation-as-holdings-climb-to-35102-btc)**
+
+Metaplanet posted a $619 million FY2025 loss on its bitcoin valuation, while its total holdings jumped to 35,102 BTC and revenue surged.
 
 The Block • 1d ago
+
+---
+
+**[SoFi Technologies Just Proved Bitcoin Has a Clear Use Case for Fintech](https://www.nasdaq.com/articles/sofi-technologies-just-proved-bitcoin-has-clear-use-case-fintech)**
+
+Key PointsSoFi's huge success can be credited to its focus on innovation, which is on full display right now.
+
+Nasdaq • 1d ago
+
+---
+
+**[Bitcoin has value to many people around the world](https://chicago.suntimes.com/columnists/2026/02/17/bitcoin-tech-broken-economies-repression-ben-jealous)**
+
+Bitcoin can travel when everything else is confiscated or left behind, as some pointed out at the Black Blockchain Summit at Howard University last fall.
+
+Chicago Sun-Times • 11h ago
 
 ---
 
@@ -273,7 +271,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 2 • 💬 0 • 5h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 2 • 💬 0 • 6h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -293,7 +291,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
-⬆️ 1 • 💬 1 • 9h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+⬆️ 1 • 💬 1 • 10h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -317,13 +315,23 @@ Real-time market microstructure with quantitative context.
 
 ## YouTube Videos: "bitcoin"
 
-**[Lyn Alden: Why This Bitcoin Cycle Was a Disappointment, And What Comes Next](https://www.youtube.com/watch?v=x0kNGaxLg18)**
+**[This Is Where ALL The Money Is Made. (My 4th Bitcoin Cycle)](https://www.youtube.com/watch?v=iwduqUyuw9c)**
 
-One of Bitcoin's most respected macro analysts, Lyn Alden, joins Natalie for a candid and wide-ranging conversation about what ...
+Everyone is down and I don't blame them but you are missing it. This is when ALL The money is made AND YOU MADE IT!
 
-📺 Natalie Brunell
+📺 Digital Asset News
 
-👁️ 23K • 👍 1K • 💬 242 • ⏱️ 55:19 • 12h ago
+👁️ 5K • 👍 463 • 💬 28 • ⏱️ 28:14 • 3h ago
+
+---
+
+**[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
+
+Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
+
+📺 Mark Moss
+
+👁️ 11K • 👍 1K • 💬 158 • ⏱️ 20:14 • 2h ago
 
 ---
 
@@ -333,27 +341,7 @@ Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will 
 
 📺 Altcoin Daily
 
-👁️ 75K • 👍 3K • 💬 517 • ⏱️ 10:49 • 21h ago
-
----
-
-**[Tom Lee: Important Warning To All Small Bitcoin &amp; Crypto Investors (New 2026 Prediction)](https://www.youtube.com/watch?v=Ze2_Y3cJVMA)**
-
-Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
-
-📺 Crypto Nutshell
-
-👁️ 17K • 👍 535 • 💬 69 • ⏱️ 19:31 • 8h ago
-
----
-
-**[Bitcoin Insider Reveals The ONE Thing Holding The Bull Run Back! (Not What You Think)](https://www.youtube.com/watch?v=LMed12zcKSQ)**
-
-Bitcoin #Crypto #Finance One of the most influential insiders in Bitcoin and global crypto markets — recently highlighted what he ...
-
-📺 The Wolf Of All Streets
-
-👁️ 9K • 👍 587 • 💬 108 • ⏱️ 1:02:24 • 8h ago
+👁️ 80K • 👍 3K • 💬 527 • ⏱️ 10:49 • 22h ago
 
 ---
 
@@ -363,37 +351,47 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemin
 
 📺 Aaron Bennett
 
-👁️ 7K • 👍 523 • 💬 69 • ⏱️ 7:50 • 14h ago
+👁️ 8K • 👍 549 • 💬 69 • ⏱️ 7:50 • 14h ago
 
 ---
 
-**[A MAJOR Bitcoin BREAKOUT Could Be Coming TODAY!](https://www.youtube.com/watch?v=7eE-ODUaITk)**
+**[Tom Lee: Important Warning To All Small Bitcoin &amp; Crypto Investors (New 2026 Prediction)](https://www.youtube.com/watch?v=Ze2_Y3cJVMA)**
 
-Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
+Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FREE Daily 5-Min Crypto Newsletter: ...
 
-📺 Crypto Jebb
+📺 Crypto Nutshell
 
-👁️ 4K • 👍 232 • 💬 18 • ⏱️ 49:39 • 8h ago
-
----
-
-**[🚨HISTORIC Bitcoin Signal (Act Now)](https://www.youtube.com/watch?v=IPTJGQ5K5T0)**
-
-Is the bottom finally in? The charts are screaming at us. Today, we are breaking down a Historic Bitcoin Signal that has only ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 404 • 💬 22 • ⏱️ 1:11:09 • 6h ago
+👁️ 26K • 👍 629 • 💬 55 • ⏱️ 19:31 • 8h ago
 
 ---
 
-**[BITCOIN AND ALTCOINS: HOW LOW WILL WE GO?! (slow bleed continues)](https://www.youtube.com/watch?v=MBS-fivnErw)**
+**[Lyn Alden: Why This Bitcoin Cycle Was a Disappointment, And What Comes Next](https://www.youtube.com/watch?v=x0kNGaxLg18)**
 
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+One of Bitcoin's most respected macro analysts, Lyn Alden, joins Natalie for a candid and wide-ranging conversation about what ...
 
-📺 Ivan on Tech
+📺 Natalie Brunell
 
-👁️ 18K • 👍 1K • 💬 144 • ⏱️ 51:48 • 14h ago
+👁️ 28K • 👍 1K • 💬 246 • ⏱️ 55:19 • 12h ago
+
+---
+
+**[BITCOIN: It&#39;s Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8Z5JBHB10hU)**
+
+BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 168 • 💬 20 • ⏱️ 15:02 • 2h ago
+
+---
+
+**[BITCOIN: QUICK MARKET UPDATE!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=cKuG3zWLF7E)**
+
+My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
+
+📺 Road To $1 Million USD
+
+👁️ 2K • 👍 195 • 💬 13 • ⏱️ 4:20 • 5h ago
 
 ---
 
@@ -403,17 +401,17 @@ Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. Th
 
 📺 Money Talks
 
-👁️ 10K • 👍 181 • 💬 47 • ⏱️ 12:20 • 2d ago
+👁️ 11K • 👍 182 • 💬 48 • ⏱️ 12:20 • 2d ago
 
 ---
 
-**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
+**[Sold My Maybach for more BTC! [Here is the shocking reason why…]](https://www.youtube.com/watch?v=UtOt2aAOiaE)**
 
-Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
+Mainstream media is screaming "CRYPTO WINTER!" — and that's exactly why I just sold my Maybach to buy more Bitcoin.
 
-📺 Altcoin Daily
+📺 Davinci Jeremie
 
-👁️ 52K • 👍 2K • 💬 249 • ⏱️ 11:16 • 2d ago
+👁️ 8K • 👍 532 • 💬 74 • ⏱️ 21:16 • 1d ago
 
 ---
 

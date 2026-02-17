@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T23:30:19.277257+00:00'
+updated: '2026-02-17T23:57:32.920732+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 23:30 UTC  
+**Last Updated:** February 17, 2026 at 23:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 **[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -58,7 +58,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
 
-9h ago
+10h ago
 
 ---
 
@@ -80,27 +80,27 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I'd been building. The feedback was really helpful, and I've been heads-down since then working on the biggest request: Python support. v0.3.0 is out, and Python is now a first-class language alongside Rust. Topics, services, actions, parameters — everything works in Python with full code generation, type-safe dataclasses, and asyncio support out of the box. You can even mix Python and Rust nodes in the same project. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python support.
 
-9h ago
+10h ago
+
+---
+
+**[Researchers use music and empathetic speech in robots to combat loneliness](https://www.reddit.com/r/robotics/comments/1r7mb92/researchers_use_music_and_empathetic_speech_in/)**
+
+Study finds music plus speech makes robots seem more empathetic and humanlike, with implications for mental health and elder care.
+
+🔗 [The Brighter Side of News](http://thebrighterside.news/post/researchers-use-music-and-empathetic-speech-in-robots-to-combat-loneliness) • 35m ago
+
+---
+
+**[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
+
+54m ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
 1d ago
-
----
-
-**[Robotics education and Jobs in the UK](https://www.reddit.com/r/robotics/comments/1r765pe/robotics_education_and_jobs_in_the_uk/)**
-
-Hi all, A bit about me : Bachelor of technology in Electrical and Electronics from a tier 3 Indian Uni 4 years of Work experience in warehouse robots, writing software and building algorithms. Mostly worked on mapping and SLAM, but have also worked on motor controllers, CAN drivers etc. IELTS : 8.5 Moving to and working in the UK had always been a dream to me, so I decided to take the shot and pursue masters in the hopes of working and staying in the UK. I want to know the communities opinion and insights on the robotics scenario there and which university and location would be the best bet to pursue my dreams further. I have currently got admits from King's College London, University of Bristol and Sheffield university. I am a bit confused on choosing between Bristol and King's and would appreciate your insights 😇 Now I will list the Pros and Cons of each university , please note that this is just a personal list gathered from people who I have interacted on LinkedIn, so might be a bit biased. I know both are great Unis! **University of Bristol** Pros QS ranking 51 Bristol Robotics Lab - largest in the UK Fees 36,750/- pounds lower living costs as it is outside London Cons outside London, so less networking and Job opportunities Got some negative reviews from people who studied there regarding academics. **2. Kings College London** Pros QS ranking 30 Center of Robotics Lab higher Russell group and popular university more networking and job opportunities as Central London location Cons high fees : 40,700 pounds London is more expensive in terms of living
-
-9h ago
-
----
-
-**[Am I the only one who thinks robot fault diagnosis is way behind cars?](https://www.reddit.com/r/robotics/comments/1r6zbpt/am_i_the_only_one_who_thinks_robot_fault/)**
-
-16h ago
 
 ---
 
@@ -121,6 +121,14 @@ NBC News • 14h ago
 Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
 
 Business Insider • 3h ago
+
+---
+
+**[HII Teams with Path Robotics to Integrate Physical AI into Manned and Unmanned Shipbuilding](https://markets.businessinsider.com/news/stocks/hii-teams-with-path-robotics-to-integrate-physical-ai-into-manned-and-unmanned-shipbuilding-1035837042)**
+
+COLUMBUS, Ohio, Feb.  17, 2026  (GLOBE NEWSWIRE) -- HII (NYSE: HII) and Path Robotics signed a memorandum of understanding (MOU) today to explore ...
+
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -178,27 +186,9 @@ The Robot Report • 1h ago
 
 ---
 
-**[Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs](https://siliconangle.com/2026/02/16/construction-robotics-startup-sitegeist-raises-e4m-automate-concrete-repair/)**
-
-Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
-
-SiliconANGLE • 22h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
-
-Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
-
-📺 Unitree Robotics
-
-👁️ 371K • 👍 6K • 💬 954 • ⏱️ 1:41 • 1d ago
-
----
 
 **[How Unitree Trained Robots to Master Real Kung Fu Moves](https://www.youtube.com/watch?v=VPRIl-j-T7Q)**
 
@@ -206,17 +196,17 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 1K • 👍 50 • 💬 9 • ⏱️ 2:00 • 6h ago
+👁️ 2K • 👍 97 • 💬 21 • ⏱️ 2:00 • 7h ago
 
 ---
 
-**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
+**[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
 
-The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
+Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
 
-📺 The Sun
+📺 Unitree Robotics
 
-👁️ 384K • 👍 8K • 💬 4K • ⏱️ 2:37 • 1d ago
+👁️ 388K • 👍 6K • 💬 984 • ⏱️ 1:41 • 1d ago
 
 ---
 
@@ -226,47 +216,17 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 89K • 👍 2K • 💬 286 • ⏱️ 9:26 • 1d ago
+👁️ 92K • 👍 2K • 💬 293 • ⏱️ 9:26 • 1d ago
 
 ---
 
-**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
+**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
 
-A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
+The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
 
-📺 AI Revolution
+📺 The Sun
 
-👁️ 187K • 👍 3K • 💬 278 • ⏱️ 11:59 • 7d ago
-
----
-
-**[Inside China’s Mega Factory Creating the Most Beautiful Humanoid Robots](https://www.youtube.com/watch?v=HD48V7QsIjs)**
-
-China is actively accelerating its push into advanced humanoid robotics, investing heavily in large-scale production, artificial ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 82 • 💬 5 • ⏱️ 9:54 • 5d ago
-
----
-
-**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
-
-From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
-
-📺 60 Minutes
-
-👁️ 928K • 👍 11K • 💬 2K • ⏱️ 53:47 • 3d ago
-
----
-
-**[Dancing humanoid robots take centre stage at China&#39;s Lunar New Year Gala](https://www.youtube.com/watch?v=HEuhhanh878)**
-
-The world is ringing in the year of the Fire Horse and China is marking Lunar New Year with an extraordinary and unique ...
-
-📺 Al Jazeera English
-
-👁️ 6K • 👍 167 • 💬 108 • ⏱️ 7:31 • 6h ago
+👁️ 452K • 👍 9K • 💬 4K • ⏱️ 2:37 • 1d ago
 
 ---
 
@@ -276,17 +236,57 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 38K • 👍 909 • 💬 110 • ⏱️ 12:43 • 1d ago
+👁️ 40K • 👍 922 • 💬 111 • ⏱️ 12:43 • 2d ago
 
 ---
 
-**[Kawasaki&#39;s New Robot Horse Is WILD](https://www.youtube.com/watch?v=rSurIVRYtVU)**
+**[Unitree Humanoid Robots Shock People at 2026 Spring Festival Gala with Martial Arts](https://www.youtube.com/watch?v=O9ao_HLi1gE)**
 
-shorts #tech #bike #motorcycle.
+Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid robots stunned 1.4 billion viewers with a ...
 
-📺 ThrottleRush
+📺 India Today Global
 
-👁️ 76K • 👍 2K • 💬 34 • ⏱️ 0:41 • 4d ago
+👁️ 58K • 👍 782 • 💬 391 • ⏱️ 2:57 • 1d ago
+
+---
+
+**[China Just Taught Robots Kung Fu ](https://www.youtube.com/watch?v=K5O2szpdX4g)**
+
+Dozens of robots performed complex, high-dynamic kung fu, including the first fully autonomous high-speed cluster martial arts ...
+
+📺 Kagan Dunlap
+
+👁️ 2K • 👍 150 • 💬 128 • ⏱️ 13:30 • 3h ago
+
+---
+
+**[Our latest reports on robots | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=s1ISnaUQgUE)**
+
+From January, Bill Whitaker's look at the progress made on AI-powered humanoid robots. From last August, Scott Pelley's report ...
+
+📺 60 Minutes
+
+👁️ 938K • 👍 11K • 💬 2K • ⏱️ 53:47 • 3d ago
+
+---
+
+**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
+
+news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
+
+📺 Tyrone Magnus
+
+👁️ 41K • 👍 2K • 💬 442 • ⏱️ 9:43 • 2d ago
+
+---
+
+**[Insane! China&#39;s martial art robots already next level!](https://www.youtube.com/watch?v=9eYW6EsH5LE)**
+
+chinesenewyear #robots These Unitree's humanoid robots can do Kung Fu like veteran Kung Fu masters. They dazzled the world ...
+
+📺 Li Jingjing 李菁菁
+
+👁️ 22K • 👍 1K • 💬 252 • ⏱️ 7:36 • 15h ago
 
 ---
 
