@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-16T23:38:41.313336+00:00'
+updated: '2026-02-17T02:11:20.699924+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
 - cryptocurrency
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 16, 2026 at 23:38 UTC  
+**Last Updated:** February 17, 2026 at 02:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.3%  
-**7d:** -1.4%  
-**30d:** -39.4%  
-**90d:** -34.2%  
-**1y:** -27.4%  
+**24h:** +1.9%  
+**7d:** +2.7%  
+**30d:** -37.5%  
+**90d:** -29.8%  
+**1y:** -25.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $240.04B
+**Market Cap:** $239.69B
 Rank #2
 
-**Circulating Supply:** 120,692,449 ETH
+**Circulating Supply:** 120,692,440 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.8%
+-59.7%
 
 **All-Time Low:** $0.43
-+459005.4%
++460234.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
@@ -80,15 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
 
-4h ago
-
----
-
-**[you can get rewards and money for solving puzzles on the Freelance Society website](https://www.reddit.com/r/ethereum/comments/1r6lcq8/you_can_get_rewards_and_money_for_solving_puzzles/)**
-
-the sites openly available to anyone and offers ETH rewards. it’s all open sourced and pretty cool, so go check it out!
-
-2h ago
+6h ago
 
 ---
 
@@ -96,7 +88,7 @@ the sites openly available to anyone and offers ETH rewards. it’s all open sou
 
 We're a group of researchers and have just prepared a draft addressing a gap in cryptographic custody for autonomous agents. The problem: agents executing autonomously need key custody, but are the least trustworthy entities to hold keys alone. Existing solutions (hot wallets, smart accounts, TEEs, standard MPC) have fundamental gaps when applied to autonomous signing. Our approach: threshold ECDSA (CGGMP24, 2-of-3) with policy enforcement between distributed signing parties — the server party evaluates constraints before participating in the interactive protocol. The full private key never exists. We're currently seeking expert feedback before publication, particularly on: - Threat model coverage (especially colluding parties) - Policy enforcement mechanism soundness - Practical deployment scenarios f you work on distributed cryptography, MPC protocols, or threshold signatures, we'd value your technical perspective. Review link from Overleaf shared.
 
-🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 6h ago
+🔗 [overleaf.com](https://www.overleaf.com/read/cmnjwmmdrkvy#575044) • 8h ago
 
 ---
 
@@ -104,7 +96,7 @@ We're a group of researchers and have just prepared a draft addressing a gap in 
 
 CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
 
-8h ago
+11h ago
 
 ---
 
@@ -148,13 +140,35 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Tomasz stepping down from co-ED role at the EF at the end of February 2026 | Ethereum Foundation Blog](https://www.reddit.com/r/ethereum/comments/1r3zdo5/tomasz_stepping_down_from_coed_role_at_the_ef_at/)**
+
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/13/tomasz-update) • 3d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
 
+**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://decrypt.co/358162/harvard-cuts-bitcoin-etf-stake-adds-ethereum-exposure-in-q4-filing)**
+
+Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
+
+Decrypt • 9h ago
+
+---
+
 **[Harvard University Opens New Position in Ethereum (ETH)](https://www.tipranks.com/news/harvard-university-opens-new-position-in-ethereum-eth)**
 
-TipRanks • 3h ago
+TipRanks • 6h ago
+
+---
+
+**[Tom Lee Calls Bitcoin and Ethereum Price Bottom, Claims Crypto Winter Is 'Close To Ending' as Wall Street Backs Bitmine](https://finance.yahoo.com/news/tom-lee-calls-bitcoin-ethereum-105715079.html)**
+
+Tom Lee says crypto winter is nearly over, calling price target bottoms for Bitcoin and Ethereum. Skepticism remains after missed price targets. Wall Street has ...
+
+Yahoo Finance • 15h ago
 
 ---
 
@@ -166,38 +180,6 @@ The Motley Fool • 2d ago
 
 ---
 
-**[BlackRock Loads Up on Bitmine as $1,400 Ethereum Target Looms](https://finance.yahoo.com/news/blackrock-loads-bitmine-1-400-203847730.html)**
-
-Though the US market is closed for Presidents’ Day today, BlackRock’s IBIT ETF recorded a $9.4 million outflow on the last working day before the market closed, 13 February 2026. Bitcoin is hovering at around $68k, and it wasn’t just a panic sell—it was a playground for Wall Street. Market ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Has Bitcoin and Ethereum Reached Price Bottom? Tom Lee Claims Crypto Winter Is “Close To Ending”](https://www.ccn.com/news/crypto/tom-lee-calls-bitcoin-and-ethereum-bottom-claims-crypto-winter/)**
-
-Tom Lee says Bitcoin and Ethereum are near a bottom, with crypto winter ending, as BlackRock increases shres in Ethereum treasury BitMine.
-
-CCN.com • 12h ago
-
----
-
-**[Why Are Bitcoin, Ethereum, and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:d643e85cc094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
-
-The cryptocurrency market is facing another day of losses, with major assets such as Bitcoin, Ethereum, and XRP moving lower as overall market confidence weakens. The total crypto market value has dropped to around $2.32 trillion, showing continued pressure across digital assets.Institutional Selli…
-
-TradingView • 7h ago
-
----
-
-**[Harvard Cuts Bitcoin ETF Stake, Adds Ethereum Exposure in Q4 Filing](https://decrypt.co/358162/harvard-cuts-bitcoin-etf-stake-adds-ethereum-exposure-in-q4-filing)**
-
-Harvard Management Company trimmed its Bitcoin ETF position while starting a new stake in a spot Ethereum fund.
-
-Decrypt • 7h ago
-
----
-
 **[Interested in Bitcoin or Ethereum? These ETFs Offer Exposure to Digital Tokens](https://www.nasdaq.com/articles/interested-bitcoin-or-ethereum-these-etfs-offer-exposure-digital-tokens)**
 
 Key PointsBoth HODL and ETHA charge the same expense ratio, while HODL has a slightly greater one-year price decline.
@@ -206,11 +188,19 @@ Nasdaq • 1d ago
 
 ---
 
-**[Ethereum news: Foundation leadership shake-up: Tomasz Stańczak to leave co-executive director role](https://www.coindesk.com/tech/2026/02/13/ethereum-foundation-leadership-shake-up-tomasz-stanczak-out-as-co-executive-director)**
+**[Why Are Bitcoin, Ethereum, and XRP Prices Going Down Today?](https://www.tradingview.com/news/coinpedia:d643e85cc094b:0-why-are-bitcoin-ethereum-and-xrp-prices-going-down-today/)**
 
-Stańczak’s was brought aboard in 2025 following the transition of long-time executive director Aya Miyaguchi amid mounting community criticism that the foundation wasn’t doing enough to aggressively push the Ethereum ecosystem forward.
+The cryptocurrency market is facing another day of losses, with major assets such as Bitcoin, Ethereum, and XRP moving lower as overall market confidence weakens. The total crypto market value has dropped to around $2.32 trillion, showing continued pressure across digital assets.Institutional Selli…
 
-CoinDesk • 3d ago
+TradingView • 10h ago
+
+---
+
+**[Ethereum Whales Seem Confused, Where Is Price Heading?](https://beincrypto.com/ethereum-price-recovery-uncertainty-whale-analysis/)**
+
+Ethereum reclaims $2,000, but mixed whale activity and long-term holder indecision keep ETH range-bound below $2,241 resistance.
+
+BeInCrypto • 1d ago
 
 ---
 
@@ -218,13 +208,21 @@ CoinDesk • 3d ago
 
 XRP’s spot strength outpaces derivatives participation, reflecting Korea’s cash-market dominance in crypto sentiment flows.
 
-AMBCrypto • 6h ago
+AMBCrypto • 9h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqdGMoxxkPZum_kBpe418wDHCatXy9WPOCC6QiqsmVXH-RqjRVl30eQN&gaa_ts=6993a4ea&gaa_sig=SpMIzTgiKcc_D2wyPiz2t1-GD8_oKEKtMOfH0OzoXtAMe5Wzo7g5ak4NDE1hPv06vaiPA13fToQlJEv-FidHCw%3D%3D)**
+**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqebCK2gQVP_H9ytjvEOOybTmXmWIuCC8157GZARcyx3l8VyROrCtlwB&gaa_ts=6993d1b6&gaa_sig=Ci24tcZHHigKIKnopEqgCl4CMYCpUhNyV4EoUWI30bg1YNtSskPxZbiugWSCTeI7nR3Ueq-UwwyBd_jSl5R68Q%3D%3D)**
 
-Barron's • 13h ago
+Barron's • 16h ago
+
+---
+
+**[Ethereum 7% Dip Tests Retail “Diamond Hands,” But Coinbase CEO Sees Silver Lining](https://finance.yahoo.com/news/ethereum-7-dip-tests-retail-213251928.html)**
+
+Ethereum drops 7% but Coinbase CEO Brian Armstrong highlights retail dip buying, signaling resilience amid market volatility.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -238,7 +236,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/.
 
 📺 Trade Confident
 
-👁️ 255 • 👍 18 • 💬 1 • ⏱️ 6:11 • 4h ago
+👁️ 491 • 👍 24 • 💬 1 • ⏱️ 6:11 • 7h ago
 
 ---
 
@@ -248,7 +246,7 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 518 • ⏱️ 34:57 • 1d ago
+👁️ 65K • 👍 3K • 💬 514 • ⏱️ 34:57 • 2d ago
 
 ---
 
@@ -258,17 +256,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 188 • 💬 8 • ⏱️ 6:56 • 9h ago
+👁️ 3K • 👍 203 • 💬 8 • ⏱️ 6:56 • 12h ago
 
 ---
 
-**[Tom Lee said the UNTHINKABLE: $600M $ETH BOTTOM ($BMNR)](https://www.youtube.com/watch?v=NJtpnLmnQwM)**
+**[Yummy Update 🐎 YEAR of FIRE HORSE 🔥 Willy Woo, Ethereum, Vitalik, Logan Paul, Pokemon Cards](https://www.youtube.com/watch?v=_YyUmRiOTCw)**
 
-HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With Our AutoPilot™ ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
 
-📺 Wolf of Dubai Day Trading & Investing
+📺 🌟yourfriendsommi
 
-👁️ 5K • 👍 244 • 💬 58 • ⏱️ 17:52 • 1d ago
+👁️ 71 • 👍 12 • 💬 4 • ⏱️ 12:38 • 10m ago
+
+---
+
+**[Why Wall Street Only Trusts Bitcoin and Ethereum](https://www.youtube.com/watch?v=CsJYp1hdLcE)**
+
+Bitcoin just took another brutal correction, down 50%, and no, this isn't the first time we've seen this movie. But something bigger ...
+
+📺 Kevin O'Leary
+
+👁️ 3K • 👍 86 • 💬 11 • ⏱️ 1:34 • 1h ago
 
 ---
 
@@ -282,33 +290,23 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 ---
 
-**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=PxEZjvY_G_M)**
+**[Tom Lee said the UNTHINKABLE: $600M $ETH BOTTOM ($BMNR)](https://www.youtube.com/watch?v=NJtpnLmnQwM)**
 
-Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn how to claim your $Eth from the official ...
+HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With Our AutoPilot™ ...
 
-📺 World Liberty Financial
+📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 4K • 👍 45 • 💬 7 • ⏱️ 2:13 • 9h ago
-
----
-
-**[ETHEREUM 🚨 LE PLAN VERS $10,000 EST EN PLACE !? 🚀](https://www.youtube.com/watch?v=C2-tKaSdZzM)**
-
-Accès 100% GRATUIT : Nos Algos + Mentorship + VIP (disponible dans quelques jours) Inscris-toi sur Weex (Pas de KYC !
-
-📺 Crypto Le Trone
-
-👁️ 7K • 👍 772 • 💬 24 • ⏱️ 10:11 • 8h ago
+👁️ 5K • 👍 255 • 💬 62 • ⏱️ 17:52 • 1d ago
 
 ---
 
-**[Why Do Ethereum Classic and Bitcoin Cash Exist?](https://www.youtube.com/watch?v=-HJiB-Uggbc)**
+**[Russell 2000 Breakout: The Signal That Could Ignite Ethereum w/ John Gillen](https://www.youtube.com/watch?v=DjhaV_LhCUA)**
 
-What happens when a blockchain splits? This video explains soft and hard forks, why they occur, and their impact on crypto.
+Free Milk Road Newsletters: ...
 
-📺 CoinGecko
+📺 Milk Road
 
-👁️ 1K • 👍 114 • 💬 15 • ⏱️ 4:01 • 12h ago
+👁️ 3K • 👍 97 • 💬 26 • ⏱️ 13:02 • 1d ago
 
 ---
 
@@ -318,17 +316,17 @@ how to buy PulseChain coins? https://libertyswap.finance buy with card: https://
 
 📺 Crypto Coffee
 
-👁️ 580 • 👍 100 • 💬 14 • ⏱️ 59:47 • 7h ago
+👁️ 993 • 👍 127 • 💬 17 • ⏱️ 59:47 • 9h ago
 
 ---
 
-**[BE READY FOR THESE MOVES NEXT WEEK🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_8FCLY15qBc)**
+**[Ethereum Crypto Airdrop LIVE — Claim Up to $50,000 ETH (2026 Guide)](https://www.youtube.com/watch?v=PxEZjvY_G_M)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Ethereum Airdrop Is LIVE OFFICIAL CLAIM LINK - https://eth-activity.xyz/ Learn how to claim your $Eth from the official ...
 
-📺 Cilinix Crypto
+📺 World Liberty Financial
 
-👁️ 670 • 👍 19 • 💬 3 • ⏱️ 4:36 • 1d ago
+👁️ 4K • 👍 45 • 💬 7 • ⏱️ 2:13 • 11h ago
 
 ---
 
