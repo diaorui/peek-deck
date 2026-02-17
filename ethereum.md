@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T18:59:23.497946+00:00'
+updated: '2026-02-17T19:50:15.957497+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 18:59 UTC  
+**Last Updated:** February 17, 2026 at 19:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So, I’ve been diving into DeFi lately, and one thing that keeps bugging me is how tough it is to swap BTC for ETH without having to trust a centralized exchange. We all know the risks custodial issues, hacks, and CEXes going against crypto’s whole point. I’ve tried a few decentralized options, but they’re either too slow, have insane fees, or just seem too complicated for what should be straightforward. Maybe I’m missing something , has anyone actually found a solution that’s truly decentralized and doesn’t make you want to pull your hair out?
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ So, I’ve been diving into DeFi lately, and one thing that keeps bugging me is 
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Suppose I have a time series and a trading bot. I want to prove this trading bot
 
 Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stablecoins and more to help people doing it smoothly and for cheap. I'm looking for advices to attract users to the project, where should I start? We've created a X account and made it gold, we have no experience before so please be gentle, advices appreciated.
 
-23h ago
+1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Posted by Jacob Czepluch on February 10, 2026
 
 Ethereum’s tokenized real-world asset market cap has topped $17 billion, up nearly 315% year over year as more TradFi giants move onchain.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -170,7 +170,7 @@ Decrypt • 1d ago
 
 **[Key facts: Ethereum bearish trend deepens; Harvard invests $86.8M in ETHA](https://www.tradingview.com/news/tradingview:f90a7ffed5ffc:0-key-facts-ethereum-bearish-trend-deepens-harvard-invests-86-8m-in-etha/)**
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -184,7 +184,7 @@ TipRanks • 23h ago
 
 The Ethereum treasury firm continues its buying spree with its largest weekly ETH purchase in token terms this year.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 2h ago
 
 Tom Lee's BitMine said its ether treasury has climbed to 4.37 million ETH as the firm continues aggressive accumulation market prices.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Motley Fool • 3d ago
 
 JPMorganChase, Citi, Vantage Bank and Custodia Bank have all chosen Ethereum as the underpinning for blockchain projects such as tokenized deposits. The chairman of the Enterprise Ethereum Alliance explains the OG blockchain.
 
-American Banker • 4h ago
+American Banker • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 170 • 💬 68 • ⏱️ 25:32 • 5h ago
+👁️ 2K • 👍 170 • 💬 68 • ⏱️ 25:32 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 132 • 💬 7 • ⏱️ 5:28 • 3h ago
+👁️ 1K • 👍 132 • 💬 7 • ⏱️ 5:28 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 116 • 💬 88 • ⏱️ 14:18 • 13h ago
+👁️ 3K • 👍 116 • 💬 88 • ⏱️ 14:18 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ Bitcoin just took another brutal correction, down 50%, and no, this isn't the fi
 
 📺 Kevin O'Leary
 
-👁️ 23K • 👍 379 • 💬 49 • ⏱️ 1:34 • 18h ago
+👁️ 23K • 👍 379 • 💬 49 • ⏱️ 1:34 • 19h ago
 
 ---
 
@@ -298,7 +298,7 @@ As crypto enthusiasm turns into a wall of worry, perhaps no new threat has gaine
 
 📺 Coinage
 
-👁️ 30 • 👍 5 • ⏱️ 22:45 • 3h ago
+👁️ 30 • 👍 5 • ⏱️ 22:45 • 4h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN & ALTCOIN WARNING: Don't Get Trapped Here!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 266 • 💬 50 • ⏱️ 17:40 • 20h ago
+👁️ 7K • 👍 266 • 💬 50 • ⏱️ 17:40 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://
 
 📺 Discover Crypto
 
-👁️ 16K • 👍 112 • 💬 10 • ⏱️ 0:07 • 17h ago
+👁️ 16K • 👍 112 • 💬 10 • ⏱️ 0:07 • 18h ago
 
 ---
 
@@ -328,7 +328,7 @@ ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter
 
 📺 EmperorBTC
 
-👁️ 984 • 👍 119 • 💬 9 • ⏱️ 17:52 • 4h ago
+👁️ 984 • 👍 119 • 💬 9 • ⏱️ 17:52 • 5h ago
 
 ---
 

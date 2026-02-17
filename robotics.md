@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T18:59:23.501185+00:00'
+updated: '2026-02-17T19:50:15.960697+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 18:59 UTC  
+**Last Updated:** February 17, 2026 at 19:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM101. Is it faster than cooking by hand? No. But is it way cooler? I think so. Honestly, I didn't expect ACT (Action Chunking Transformer) to handle physical tasks this effectively. I thought it might be limited, but it turns out it actually performs way better when trained on short, simple primitives. So, I decomposed the cooking process into smaller tasks and implemented a high-level planner to orchestrate them. It works surprisingly well with this approach. You can see the details here 👇. https://youtu.be/SyGJ2h8aM98?si=gUOa0jV8wwxQTysp
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM
 
 Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
 
-5h ago
+6h ago
 
 ---
 
@@ -72,13 +72,13 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I'd been building. The feedback was really helpful, and I've been heads-down since then working on the biggest request: Python support. v0.3.0 is out, and Python is now a first-class language alongside Rust. Topics, services, actions, parameters — everything works in Python with full code generation, type-safe dataclasses, and asyncio support out of the box. You can even mix Python and Rust nodes in the same project. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python support.
 
-5h ago
+6h ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Hi all, A bit about me : Bachelor of technology in Electrical and Electronics from a tier 3 Indian Uni 4 years of Work experience in warehouse robots, writing software and building algorithms. Mostly worked on mapping and SLAM, but have also worked on motor controllers, CAN drivers etc. IELTS : 8.5 Moving to and working in the UK had always been a dream to me, so I decided to take the shot and pursue masters in the hopes of working and staying in the UK. I want to know the communities opinion and insights on the robotics scenario there and which university and location would be the best bet to pursue my dreams further. I have currently got admits from King's College London, University of Bristol and Sheffield university. I am a bit confused on choosing between Bristol and King's and would appreciate your insights 😇 Now I will list the Pros and Cons of each university , please note that this is just a personal list gathered from people who I have interacted on LinkedIn, so might be a bit biased. I know both are great Unis! **University of Bristol** Pros QS ranking 51 Bristol Robotics Lab - largest in the UK Fees 36,750/- pounds lower living costs as it is outside London Cons outside London, so less networking and Job opportunities Got some negative reviews from people who studied there regarding academics. **2. Kings College London** Pros QS ranking 30 Center of Robotics Lab higher Russell group and popular university more networking and job opportunities as Central London location Cons high fees : 40,700 pounds London is more expensive in terms of living
 
-5h ago
+6h ago
 
 ---
 
@@ -94,13 +94,13 @@ Hi all, A bit about me : Bachelor of technology in Electrical and Electronics fr
 
 Moya achieved 92% human-like motion. She can maintain 32-36C. With high quality skin and advanced AI, how far Moya from being an adequate companion to someone? https://www.youtube.com/watch?v=B61etYSvMNI
 
-🔗 [youtube.com](https://www.youtube.com/shorts/i-FzVtYO80A) • 51m ago
+🔗 [youtube.com](https://www.youtube.com/shorts/i-FzVtYO80A) • 1h ago
 
 ---
 
 **[Am I the only one who thinks robot fault diagnosis is way behind cars?](https://www.reddit.com/r/robotics/comments/1r6zbpt/am_i_the_only_one_who_thinks_robot_fault/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -126,7 +126,7 @@ Fox News • 1d ago
 
 Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
 
-Peak of Ohio • 9h ago
+Peak of Ohio • 10h ago
 
 ---
 
@@ -148,7 +148,7 @@ KWQC • 1d ago
 
 Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
 
-SiliconANGLE • 17h ago
+SiliconANGLE • 18h ago
 
 ---
 
@@ -170,7 +170,7 @@ Financial Times • 1d ago
 
 Today, Artimus Robotics has announced its newest generation of contracting HASEL actuators. Through continued improvements in material science and manufacturing processes, these new actuators deliver more than twice the mechanical output performance than the previous generation. Additionally, new actuators are fully encapsulated for safer interaction and ease of integration into robotic systems. With these developments, Artimus is now one step closer to commercializing artificial muscles that re
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -212,7 +212,7 @@ The world is ringing in the year of the Fire Horse and China is marking Lunar Ne
 
 📺 Al Jazeera English
 
-👁️ 2K • 👍 46 • 💬 25 • ⏱️ 7:31 • 1h ago
+👁️ 2K • 👍 46 • 💬 25 • ⏱️ 7:31 • 2h ago
 
 ---
 
@@ -252,7 +252,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 330 • 👍 18 • 💬 3 • ⏱️ 2:00 • 2h ago
+👁️ 330 • 👍 18 • 💬 3 • ⏱️ 2:00 • 3h ago
 
 ---
 
