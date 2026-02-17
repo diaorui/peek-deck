@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-17T20:40:06.164181+00:00'
+updated: '2026-02-17T21:37:22.640284+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 20:40 UTC  
+**Last Updated:** February 17, 2026 at 21:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.26B
+**Market Cap:** $240.60B
 Rank #2
 
 **Circulating Supply:** 120,692,440 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.5%
+-59.7%
 
 **All-Time Low:** $0.43
-+462278.1%
++460485.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 So, I’ve been diving into DeFi lately, and one thing that keeps bugging me is how tough it is to swap BTC for ETH without having to trust a centralized exchange. We all know the risks custodial issues, hacks, and CEXes going against crypto’s whole point. I’ve tried a few decentralized options, but they’re either too slow, have insane fees, or just seem too complicated for what should be straightforward. Maybe I’m missing something , has anyone actually found a solution that’s truly decentralized and doesn’t make you want to pull your hair out?
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ So, I’ve been diving into DeFi lately, and one thing that keeps bugging me is 
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-9h ago
+10h ago
 
 ---
 
@@ -156,7 +156,7 @@ Posted by Jacob Czepluch on February 10, 2026
 
 Ethereum’s tokenized real-world asset market cap has topped $17 billion, up nearly 315% year over year as more TradFi giants move onchain.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -172,13 +172,13 @@ Yahoo Finance • 1d ago
 
 The university's investment arm held 5.35 million shares of the iShares Bitcoin Trust valued at $265.8 million as of Dec. 31, according to SEC filings released Friday.
 
-CoinMarketCap • 23h ago
+CoinMarketCap • 1d ago
 
 ---
 
 **[Key facts: Ethereum bearish trend deepens; Harvard invests $86.8M in ETHA](https://www.tradingview.com/news/tradingview:f90a7ffed5ffc:0-key-facts-ethereum-bearish-trend-deepens-harvard-invests-86-8m-in-etha/)**
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -186,7 +186,7 @@ TradingView • 20h ago
 
 BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -218,7 +218,7 @@ Nasdaq • 2d ago
 
 JPMorganChase, Citi, Vantage Bank and Custodia Bank have all chosen Ethereum as the underpinning for blockchain projects such as tokenized deposits. The chairman of the Enterprise Ethereum Alliance explains the OG blockchain.
 
-American Banker • 6h ago
+American Banker • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 170 • 💬 68 • ⏱️ 25:32 • 7h ago
+👁️ 3K • 👍 189 • 💬 101 • ⏱️ 25:32 • 8h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 132 • 💬 7 • ⏱️ 5:28 • 5h ago
+👁️ 2K • 👍 154 • 💬 5 • ⏱️ 5:28 • 6h ago
 
 ---
 
@@ -260,7 +260,17 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 116 • 💬 88 • ⏱️ 14:18 • 15h ago
+👁️ 3K • 👍 121 • 💬 150 • ⏱️ 14:18 • 16h ago
+
+---
+
+**[HBAR, ETH, or ONDO - Which Altcoin Will Dominate RWA?](https://www.youtube.com/watch?v=jsPxXpRLxMo)**
+
+As RWA takes control of the market, we look at 3 RWA leaders: Ondo, Ethereum, and Hedera Hashgraph. These 3 lead now and ...
+
+📺 Altcoin Buzz
+
+👁️ 1K • 👍 109 • 💬 63 • ⏱️ 12:17 • 3h ago
 
 ---
 
@@ -270,17 +280,37 @@ Ric Edelman Crypto Outlook 2026 Follow: https://x.com/ricedelman Website: https:
 
 📺 Altcoin Daily
 
-👁️ 67K • 👍 3K • 💬 512 • ⏱️ 34:57 • 2d ago
+👁️ 68K • 👍 3K • 💬 512 • ⏱️ 34:57 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MpZNiaMv__E)**
+**[🧃 Juicy News 🐎 BTC $67K, Red Pill SuperCycle, SaaS, Ethereum Pain, Jay Z &amp; Beyonce, Saylor, Tom Lee](https://www.youtube.com/watch?v=p_Tk-iSfP_g)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
 
-📺 More Crypto Online
+📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 18h ago
+👁️ 323 • 👍 68 • 💬 6 • ⏱️ 34:48 • 51m ago
+
+---
+
+**[Ethereum PUMPED Over 300% Last Time This Happened](https://www.youtube.com/watch?v=PYfyO13znrY)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators/ Join Trade Confident – 25 % Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 76 • 👍 9 • 💬 1 • ⏱️ 5:31 • 2h ago
+
+---
+
+**[💯XRP HBAR ETH GOOD NEWS💯](https://www.youtube.com/watch?v=7eKXp8vUicY)**
+
+xrp #bitcoin #hbar #xlm #eth SEND ME YOUR BEST CRYPTO MEMES HERE   ...
+
+📺 CRYPTO with KLAUS
+
+👁️ 3K • 👍 327 • 💬 42 • ⏱️ 17:01 • 3h ago
 
 ---
 
@@ -290,47 +320,17 @@ Bitcoin just took another brutal correction, down 50%, and no, this isn't the fi
 
 📺 Kevin O'Leary
 
-👁️ 23K • 👍 379 • 💬 49 • ⏱️ 1:34 • 20h ago
+👁️ 27K • 👍 403 • 💬 54 • ⏱️ 1:34 • 21h ago
 
 ---
 
-**[Why Ethereum Is Preparing For Quantum Threat](https://www.youtube.com/watch?v=LFlWO3DxUTI)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=MpZNiaMv__E)**
 
-As crypto enthusiasm turns into a wall of worry, perhaps no new threat has gained more attention than quantum computing.
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Coinage
+📺 More Crypto Online
 
-👁️ 30 • 👍 5 • ⏱️ 22:45 • 5h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN WARNING: Don&#39;t Get Trapped Here!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=KSdD8zS--UU)**
-
-BITCOIN & ALTCOIN WARNING: Don't Get Trapped Here!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 266 • 💬 50 • ⏱️ 17:40 • 21h ago
-
----
-
-**[HARVARD SELLS BITCOIN TO BUY ETH](https://www.youtube.com/watch?v=LTlj1FJD6Nc)**
-
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
-
-📺 Discover Crypto
-
-👁️ 16K • 👍 112 • 💬 10 • ⏱️ 0:07 • 19h ago
-
----
-
-**[MY THOUGHT&#39;S ON SOLANA &amp; ETHEREUM! BITCOIN MARKET UPDATE!](https://www.youtube.com/watch?v=auJqFcdMkjs)**
-
-ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter for Market Updates and Trading Tips: ...
-
-📺 EmperorBTC
-
-👁️ 984 • 👍 119 • 💬 9 • ⏱️ 17:52 • 6h ago
+👁️ 2K • 👍 126 • 💬 3 • ⏱️ 4:03 • 19h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T20:40:06.166916+00:00'
+updated: '2026-02-17T21:37:22.643487+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 20:40 UTC  
+**Last Updated:** February 17, 2026 at 21:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM101. Is it faster than cooking by hand? No. But is it way cooler? I think so. Honestly, I didn't expect ACT (Action Chunking Transformer) to handle physical tasks this effectively. I thought it might be limited, but it turns out it actually performs way better when trained on short, simple primitives. So, I decomposed the cooking process into smaller tasks and implemented a high-level planner to orchestrate them. It works surprisingly well with this approach. You can see the details here 👇. https://youtu.be/SyGJ2h8aM98?si=gUOa0jV8wwxQTysp
 
-3h ago
+4h ago
 
 ---
 
 **[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM
 
 Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
 
-6h ago
+7h ago
 
 ---
 
@@ -72,13 +72,13 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I'd been building. The feedback was really helpful, and I've been heads-down since then working on the biggest request: Python support. v0.3.0 is out, and Python is now a first-class language alongside Rust. Topics, services, actions, parameters — everything works in Python with full code generation, type-safe dataclasses, and asyncio support out of the box. You can even mix Python and Rust nodes in the same project. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python support.
 
-7h ago
+8h ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -86,13 +86,13 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Hi all, A bit about me : Bachelor of technology in Electrical and Electronics from a tier 3 Indian Uni 4 years of Work experience in warehouse robots, writing software and building algorithms. Mostly worked on mapping and SLAM, but have also worked on motor controllers, CAN drivers etc. IELTS : 8.5 Moving to and working in the UK had always been a dream to me, so I decided to take the shot and pursue masters in the hopes of working and staying in the UK. I want to know the communities opinion and insights on the robotics scenario there and which university and location would be the best bet to pursue my dreams further. I have currently got admits from King's College London, University of Bristol and Sheffield university. I am a bit confused on choosing between Bristol and King's and would appreciate your insights 😇 Now I will list the Pros and Cons of each university , please note that this is just a personal list gathered from people who I have interacted on LinkedIn, so might be a bit biased. I know both are great Unis! **University of Bristol** Pros QS ranking 51 Bristol Robotics Lab - largest in the UK Fees 36,750/- pounds lower living costs as it is outside London Cons outside London, so less networking and Job opportunities Got some negative reviews from people who studied there regarding academics. **2. Kings College London** Pros QS ranking 30 Center of Robotics Lab higher Russell group and popular university more networking and job opportunities as Central London location Cons high fees : 40,700 pounds London is more expensive in terms of living
 
-7h ago
+8h ago
 
 ---
 
 **[Am I the only one who thinks robot fault diagnosis is way behind cars?](https://www.reddit.com/r/robotics/comments/1r6zbpt/am_i_the_only_one_who_thinks_robot_fault/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi all, A bit about me : Bachelor of technology in Electrical and Electronics fr
 
 Moya achieved 92% human-like motion. She can maintain 32-36C. With high quality skin and advanced AI, how far Moya from being an adequate companion to someone? https://www.youtube.com/watch?v=B61etYSvMNI
 
-🔗 [youtube.com](https://www.youtube.com/shorts/i-FzVtYO80A) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/i-FzVtYO80A) • 3h ago
 
 ---
 
@@ -118,7 +118,7 @@ Reuters • 1d ago
 
 Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
 
-Business Insider • 29m ago
+Business Insider • 1h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Economist • 1d ago
 
 Advancing are Island Robotics, Waiʻanae High School, Pearl City High School, Kaimuki Middle School, Mililani Mechs Robotics, and Waialua High & Intermediate School.  The double qualifications by these teams will allow one other Hawaiʻi team – to be determined  by the Robotics Education and Competition Foundation – to advance to the VEX Worlds.
 
-Maui Now • 10m ago
+Maui Now • 1h ago
 
 ---
 
@@ -156,7 +156,7 @@ Financial Times • 1d ago
 
 Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
 
-Peak of Ohio • 11h ago
+Peak of Ohio • 12h ago
 
 ---
 
@@ -164,7 +164,7 @@ Peak of Ohio • 11h ago
 
 Your brain might be lying to you about your new robotic leg. New research shows that users often think they're walking much better—or worse—than they actually are.
 
-Neuroscience News • 1h ago
+Neuroscience News • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ bgr.com • 1d ago
 
 Construction robotics startup Sitegeist raises €4M to automate arduous concrete repair jobs - SiliconANGLE
 
-SiliconANGLE • 19h ago
+SiliconANGLE • 20h ago
 
 ---
 
@@ -188,63 +188,13 @@ SiliconANGLE • 19h ago
 
 ## YouTube Videos: "robotics"
 
-**[It Just Happened: Elon Musk Reveals Optimus Robot with Real Human Skin](https://www.youtube.com/watch?v=gLsdEGC5iAk)**
-
-The next project from Elon Musk is expected to push humanoid robotics into uncharted territory, with reports pointing to an ...
-
-📺 Carros Show
-
-👁️ 4K • 👍 87 • 💬 11 • ⏱️ 9:20 • 1d ago
-
----
-
 **[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
 
 Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
 
 📺 Unitree Robotics
 
-👁️ 352K • 👍 6K • 💬 932 • ⏱️ 1:41 • 1d ago
-
----
-
-**[Dancing humanoid robots take centre stage at China&#39;s Lunar New Year Gala](https://www.youtube.com/watch?v=HEuhhanh878)**
-
-The world is ringing in the year of the Fire Horse and China is marking Lunar New Year with an extraordinary and unique ...
-
-📺 Al Jazeera English
-
-👁️ 2K • 👍 46 • 💬 25 • ⏱️ 7:31 • 3h ago
-
----
-
-**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
-
-China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
-
-📺 Kalil 4.0
-
-👁️ 85K • 👍 2K • 💬 310 • ⏱️ 9:26 • 1d ago
-
----
-
-**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
-
-The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
-
-📺 The Sun
-
-👁️ 327K • 👍 7K • 💬 3K • ⏱️ 2:37 • 1d ago
-
----
-
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
-
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
-
-📺 AI Revolution
-
-👁️ 37K • 👍 887 • 💬 105 • ⏱️ 12:43 • 1d ago
+👁️ 371K • 👍 6K • 💬 954 • ⏱️ 1:41 • 1d ago
 
 ---
 
@@ -254,27 +204,47 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 330 • 👍 18 • 💬 3 • ⏱️ 2:00 • 4h ago
+👁️ 1K • 👍 50 • 💬 9 • ⏱️ 2:00 • 4h ago
 
 ---
 
-**[China’s Most Realistic Female Robot Singer Stuns the World at AGIBOT Night 2026](https://www.youtube.com/watch?v=arI2cJpyRyw)**
+**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
 
-Such a presentation would highlight how far artificial intelligence, robotics, and digital performance technologies have advanced ...
+The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
+
+📺 The Sun
+
+👁️ 384K • 👍 8K • 💬 4K • ⏱️ 2:37 • 1d ago
+
+---
+
+**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
+
+China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
+
+📺 Kalil 4.0
+
+👁️ 89K • 👍 2K • 💬 286 • ⏱️ 9:26 • 1d ago
+
+---
+
+**[Boston Dynamics New ATLAS Just Went Full Human Mode (Insane Upgrade)](https://www.youtube.com/watch?v=9aaE5BkD0Ls)**
+
+A massive robotics shift is unfolding right in front of us. Boston Dynamics has revealed a major new Atlas update developed with ...
+
+📺 AI Revolution
+
+👁️ 187K • 👍 3K • 💬 278 • ⏱️ 11:59 • 6d ago
+
+---
+
+**[Inside China’s Mega Factory Creating the Most Beautiful Humanoid Robots](https://www.youtube.com/watch?v=HD48V7QsIjs)**
+
+China is actively accelerating its push into advanced humanoid robotics, investing heavily in large-scale production, artificial ...
 
 📺 Carros Show
 
-👁️ 19K • 👍 412 • 💬 77 • ⏱️ 10:40 • 7d ago
-
----
-
-**[Thousands of AI-enabled HUMANOID ROBOTS deployed in Ukraine!](https://www.youtube.com/watch?v=OEqvUbkrWQA)**
-
-news #ai #robots #ukraine #technews #tech #technology #tyronemagnus #commentary #politicalcommentary #politics ...
-
-📺 Tyrone Magnus
-
-👁️ 41K • 👍 2K • 💬 436 • ⏱️ 9:43 • 1d ago
+👁️ 4K • 👍 82 • 💬 5 • ⏱️ 9:54 • 5d ago
 
 ---
 
@@ -284,7 +254,37 @@ From January, Bill Whitaker's look at the progress made on AI-powered humanoid r
 
 📺 60 Minutes
 
-👁️ 919K • 👍 11K • 💬 2K • ⏱️ 53:47 • 3d ago
+👁️ 928K • 👍 11K • 💬 2K • ⏱️ 53:47 • 3d ago
+
+---
+
+**[Dancing humanoid robots take centre stage at China&#39;s Lunar New Year Gala](https://www.youtube.com/watch?v=HEuhhanh878)**
+
+The world is ringing in the year of the Fire Horse and China is marking Lunar New Year with an extraordinary and unique ...
+
+📺 Al Jazeera English
+
+👁️ 6K • 👍 167 • 💬 108 • ⏱️ 7:31 • 4h ago
+
+---
+
+**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+
+China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+
+📺 AI Revolution
+
+👁️ 38K • 👍 909 • 💬 110 • ⏱️ 12:43 • 1d ago
+
+---
+
+**[Kawasaki&#39;s New Robot Horse Is WILD](https://www.youtube.com/watch?v=rSurIVRYtVU)**
+
+shorts #tech #bike #motorcycle.
+
+📺 ThrottleRush
+
+👁️ 76K • 👍 2K • 💬 34 • ⏱️ 0:41 • 4d ago
 
 ---
 

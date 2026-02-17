@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-17T20:40:06.158964+00:00'
+updated: '2026-02-17T21:37:22.634270+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 20:40 UTC  
+**Last Updated:** February 17, 2026 at 21:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1358.90B
+**Market Cap:** $1349.94B
 Rank #1
 
 **Circulating Supply:** 19,990,746 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.0%
+-46.4%
 
 **All-Time Low:** $67.81
-+100349.8%
++99512.2%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ An estimated 66.7% (14M BTC) is still owned by individuals per River. The big qu
 
 https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-crypto-stock-and-bond-gains/ Uh oh…
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 February 17, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 7h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 8h ago
 
 ---
 
@@ -105,19 +105,19 @@ February 17, 2026
 
 Let's say you have 210 BTC, would you keep it all in one wallet or would you have different hardware wallets?
 
-8h ago
+9h ago
 
 ---
 
 **[Facts](https://www.reddit.com/r/Bitcoin/comments/1r6t0gk/facts/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Still awesome, 8 years old gem](https://www.reddit.com/r/Bitcoin/comments/1r7c3vq/still_awesome_8_years_old_gem/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ Let's say you have 210 BTC, would you keep it all in one wallet or would you hav
 
 Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
 
-21h ago
+22h ago
 
 ---
 
@@ -133,7 +133,7 @@ Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here
 
 Brazil reintroduces Bill 4501 to build a 1 million BTC strategic reserve over five years.   The proposal allows tax payments in Bitcoin and bans the sale of | Bitget crypto news!
 
-🔗 [Bitget](https://www.bitget.com/news/detail/12560605200239?utm_source=chatgpt.com) • 10h ago
+🔗 [Bitget](https://www.bitget.com/news/detail/12560605200239?utm_source=chatgpt.com) • 11h ago
 
 ---
 
@@ -141,7 +141,7 @@ Brazil reintroduces Bill 4501 to build a 1 million BTC strategic reserve over fi
 
 A common idea during market downturns is to wait for a massive crash before buying Bitcoin. On paper, this sounds logical: buy when prices are deeply discounted. In reality, markets rarely give perfectly timed entry points that everyone expects. Extreme price targets often become psychological anchors rather than realistic planning tools. When severe market drops happen, uncertainty and fear usually increase, which can make decision-making harder. Bitcoin’s fixed supply is often discussed as a long-term fundamental factor. However, individual market participants approach accumulation differently. Some focus on gradual accumulation strategies, while others attempt to time large market moves. Both approaches carry different types of risk. From a risk management perspective, it can be useful to ask: If Bitcoin experienced a severe market drop, would you feel confident accumulating? Or would market uncertainty make you more cautious? Curious how others here think about long term accumulation vs trying to time extreme market events. (Not financial advice — discussion only.)
 
-3h ago
+4h ago
 
 ---
 
@@ -149,7 +149,7 @@ A common idea during market downturns is to wait for a massive crash before buyi
 
 I had always wanted to see what the block creation looks like and there are other sites out there that do similar things so we've now joined them in creating a visual representation of the bitcoin block being built (in real time). It's nothing fancy, just a neat thing to add to our site. https://hmpool.io/btcblock.html
 
-5h ago
+6h ago
 
 ---
 
@@ -159,7 +159,7 @@ I had always wanted to see what the block creation looks like and there are othe
 
 **[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 2h ago
 
 The company's stack is now 717,131 bitcoin acquired for $54.52 billion, or $76,027 per coin. Bitcoin's current price is $68,000.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -183,7 +183,7 @@ thestreet.com • 1d ago
 
 Should you swap your gold holdings for bitcoin? Discover our analysis on the price ratio of the two "debasement" assets
 
-Real Investment Advice • 3h ago
+Real Investment Advice • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ Real Investment Advice • 3h ago
 
 A downtown Las Vegas casino is embracing its long-standing relationship with digital currency by rolling out a three-day, property-wide Bitcoin takeover.
 
-Las Vegas Review-Journal • 48m ago
+Las Vegas Review-Journal • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Las Vegas Review-Journal • 48m ago
 
 BofA's February survey shows investor positioning in the U.S. dollar has fallen to its most negative level since at least early 2012.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 2h ago
 
 The fundraiser effort comes after a new letter was sent to TMZ demanding Bitcoin in exchange for information about Guthrie’s captors
 
-Fortune • 26m ago
+Fortune • 1h ago
 
 ---
 
@@ -275,7 +275,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 2 • 💬 0 • 3h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 2 • 💬 0 • 4h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -287,7 +287,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
-⬆️ 1 • 💬 1 • 6h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+⬆️ 1 • 💬 1 • 7h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -319,53 +319,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
-
-Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
-
-📺 Altcoin Daily
-
-👁️ 70K • 👍 3K • 💬 570 • ⏱️ 10:49 • 18h ago
-
----
-
-**[Bitcoin Insider Reveals The ONE Thing Holding The Bull Run Back! (Not What You Think)](https://www.youtube.com/watch?v=LMed12zcKSQ)**
-
-Bitcoin #Crypto #Finance One of the most influential insiders in Bitcoin and global crypto markets — recently highlighted what he ...
-
-📺 The Wolf Of All Streets
-
-👁️ 6K • 👍 509 • 💬 68 • ⏱️ 1:02:24 • 5h ago
-
----
-
-**[A MAJOR Bitcoin BREAKOUT Could Be Coming TODAY!](https://www.youtube.com/watch?v=7eE-ODUaITk)**
-
-Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
-
-📺 Crypto Jebb
-
-👁️ 3K • 👍 210 • 💬 15 • ⏱️ 49:39 • 5h ago
-
----
-
 **[Lyn Alden: Why This Bitcoin Cycle Was a Disappointment, And What Comes Next](https://www.youtube.com/watch?v=x0kNGaxLg18)**
 
 One of Bitcoin's most respected macro analysts, Lyn Alden, joins Natalie for a candid and wide-ranging conversation about what ...
 
 📺 Natalie Brunell
 
-👁️ 17K • 👍 1K • 💬 175 • ⏱️ 55:19 • 9h ago
+👁️ 23K • 👍 1K • 💬 242 • ⏱️ 55:19 • 10h ago
 
 ---
 
-**[Bitcoin Update (What&#39;s Happening)](https://www.youtube.com/watch?v=0_a-MveX0rE)**
+**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
 
-Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
+Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
 
-📺 Aaron Bennett
+📺 Altcoin Daily
 
-👁️ 6K • 👍 481 • 💬 65 • ⏱️ 7:50 • 11h ago
+👁️ 75K • 👍 3K • 💬 517 • ⏱️ 10:49 • 19h ago
 
 ---
 
@@ -375,7 +345,37 @@ Join UpTrade today - Your personal crypto broker: https://www.uptrade.au/ My FRE
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 344 • 💬 25 • ⏱️ 19:31 • 5h ago
+👁️ 17K • 👍 535 • 💬 69 • ⏱️ 19:31 • 6h ago
+
+---
+
+**[Bitcoin Insider Reveals The ONE Thing Holding The Bull Run Back! (Not What You Think)](https://www.youtube.com/watch?v=LMed12zcKSQ)**
+
+Bitcoin #Crypto #Finance One of the most influential insiders in Bitcoin and global crypto markets — recently highlighted what he ...
+
+📺 The Wolf Of All Streets
+
+👁️ 9K • 👍 587 • 💬 108 • ⏱️ 1:02:24 • 6h ago
+
+---
+
+**[Bitcoin Update (What&#39;s Happening)](https://www.youtube.com/watch?v=0_a-MveX0rE)**
+
+Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
+
+📺 Aaron Bennett
+
+👁️ 7K • 👍 523 • 💬 69 • ⏱️ 7:50 • 12h ago
+
+---
+
+**[A MAJOR Bitcoin BREAKOUT Could Be Coming TODAY!](https://www.youtube.com/watch?v=7eE-ODUaITk)**
+
+Are you ready? CRYPTO RETIREMENT ACCOUNT HERE Sign up for iTrustCapital and get a $100 funding bonus after ...
+
+📺 Crypto Jebb
+
+👁️ 4K • 👍 232 • 💬 18 • ⏱️ 49:39 • 6h ago
 
 ---
 
@@ -385,17 +385,7 @@ Is the bottom finally in? The charts are screaming at us. Today, we are breaking
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 352 • 💬 16 • ⏱️ 1:11:09 • 3h ago
-
----
-
-**[&quot;This Bitcoin Crash Is WORSE Than Anyone Realizes&quot; - Cathie Wood](https://www.youtube.com/watch?v=sTXwt1wbMQU)**
-
-Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. The ARK Invest CEO — who just bought $72 ...
-
-📺 Money Talks
-
-👁️ 10K • 👍 178 • 💬 47 • ⏱️ 12:20 • 2d ago
+👁️ 6K • 👍 404 • 💬 22 • ⏱️ 1:11:09 • 4h ago
 
 ---
 
@@ -405,17 +395,27 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 16K • 👍 1K • 💬 83 • ⏱️ 51:48 • 11h ago
+👁️ 18K • 👍 1K • 💬 144 • ⏱️ 51:48 • 12h ago
 
 ---
 
-**[BITCOIN CAPITULATION HAS BEGUN! Jack Mallers Sounds the ALARM](https://www.youtube.com/watch?v=WR-WX5Kl4WA)**
+**[&quot;This Bitcoin Crash Is WORSE Than Anyone Realizes&quot; - Cathie Wood](https://www.youtube.com/watch?v=sTXwt1wbMQU)**
 
-Jack Mallers warns Bitcoin investors to brace for more pain as volatility intensifies. Bitcoin market outlook and capitulation ...
+Cathie Wood just dropped a BOMBSHELL about what's really happening to crypto. The ARK Invest CEO — who just bought $72 ...
 
-📺 Savvy Finance
+📺 Money Talks
 
-👁️ 7K • 👍 438 • 💬 4 • ⏱️ 20:17 • 21h ago
+👁️ 10K • 👍 181 • 💬 47 • ⏱️ 12:20 • 2d ago
+
+---
+
+**[The BIGGEST Move For Bitcoin Is Happening Now! (Most People Don’t See It!)](https://www.youtube.com/watch?v=CM0-oLPeSNE)**
+
+Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
+
+📺 Altcoin Daily
+
+👁️ 52K • 👍 2K • 💬 249 • ⏱️ 11:16 • 1d ago
 
 ---
 
