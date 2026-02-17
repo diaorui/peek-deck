@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-17T07:08:52.168172+00:00'
+updated: '2026-02-17T08:04:43.039623+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 17, 2026 at 07:08 UTC  
+**Last Updated:** February 17, 2026 at 08:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-16h ago
+17h ago
 
 ---
 
 **[(WIP) 6 Axis Robot](https://www.reddit.com/r/robotics/comments/1r6pd5a/wip_6_axis_robot/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -54,7 +54,7 @@ I’m doing a bit of research on sim-to-real workflows and wanted to understand 
 
 **[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
 
-11m ago
+1h ago
 
 ---
 
@@ -62,7 +62,7 @@ I’m doing a bit of research on sim-to-real workflows and wanted to understand 
 
 Just caught the new content on Ascentiz's page. The FDE version in the sun looks so good! I’m officially sold on the look. Check out their social media page to see what I mean.
 
-7h ago
+8h ago
 
 ---
 
@@ -70,7 +70,7 @@ Just caught the new content on Ascentiz's page. The FDE version in the sun looks
 
 Work at the Toyota Research Institute reflects a broader shift in humanoid research from home assistance toward manufacturing environments. The rationale is that factories offer structured tasks, measurable performance metrics, and faster iteration cycles compared to domestic settings. The technical strategy centers on vertically integrated systems. Hardware, compute, perception, and control are developed and optimized together, reflecting the reality that robotics is a tightly coupled stack where changes in one layer directly affect the others.
 
-🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 14h ago
+🔗 [Automate](https://www.automate.org/robotics/industry-insights/tris-humanoid-training-starts-in-the-factory) • 15h ago
 
 ---
 
@@ -78,13 +78,13 @@ Work at the Toyota Research Institute reflects a broader shift in humanoid resea
 
 For context I’m building a pretty advanced bionic hand, and I already have an Arduino and a lot of servos, a breadboard, and a 5V battery pack. My old model had 6 servos, so I just powered them through the breadboard with the battery pack. This probably wasn’t safe, but I put the battery pack’s ground and power wires into separate rails, and put each servos ground and power pin into the rails. My new model will probably have 23 servos (most likely sg90s or a similar model), and I’m just completely lost as to how to control all of them. The Arduino doesn’t even have that many signal pins. Where could I learn just the entire electronics side of robotics? Could anyone help? How would I power 23 servos? U Thanks.
 
-8h ago
+9h ago
 
 ---
 
 **[I built a ROS2-controlled CNC plotter that takes natural language commands via an LLM Agent (w/ RViz Digital Twin)](https://www.reddit.com/r/robotics/comments/1r67684/i_built_a_ros2controlled_cnc_plotter_that_takes/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -92,7 +92,7 @@ For context I’m building a pretty advanced bionic hand, and I already have an 
 
 Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robotics related things if anyone can plz list it out also I'm in my final year of engineering ECE and i know very basic of all these mentioned I need full deep learning and good projects , i already have a job in robotics ai but to make it full time I need to gear up and learn a lot and build projects so Help me to find a best course,im ready to pay also but not that costly still broke need certification cause they might be valued in future also etc etc Building projects will be my part but I need to learn first
 
-11h ago
+12h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hey everyone I need a good course to learn ROS2, mission planner, SLAM and robot
 
 So we have a pick and place bot competition in 3 days, and we planned to prepare a gripper mechanism at the end effector like one in the photo I have attached below. But due to our skill issues, we are still not able to make a Cad for 3D printing. It will be really helpful if someone has the resources or can even do this one for us. We want the gripper to open and grab an 8 × 8 × 8 cm cube and we are using mg995(180° and 360°) sere vo motors and an arm link of 6 cm. I have also attached the STL link of our reference. It is even enough if you edit this. Help this team. May God almighty bless you for your charity
 
-12h ago
+13h ago
 
 ---
 
@@ -142,7 +142,7 @@ Futurism • 1d ago
 
 Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-Fox News • 13h ago
+Fox News • 14h ago
 
 ---
 
@@ -158,7 +158,7 @@ KWQC • 1d ago
 
 Weave Robotics' Isaac 0 folds clothes using AI, with remote human assistance helping to improve its performance over time.
 
-Interesting Engineering • 21h ago
+Interesting Engineering • 22h ago
 
 ---
 
@@ -174,7 +174,7 @@ CNN • 3d ago
 
 The Economics Show 🤜🤛 FT Alphaville
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
@@ -182,7 +182,7 @@ Financial Times • 20h ago
 
 U.S. Sens. Marsha Blackburn (R-Tenn.) and Richard Blumenthal (D-Conn.) said they are investigating an artificial intelligence toy manufacturer after what they d
 
-WCYB • 3d ago
+WCYB • 4d ago
 
 ---
 
@@ -196,7 +196,7 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 📺 Carros Show
 
-👁️ 3K • 👍 72 • 💬 9 • ⏱️ 9:20 • 21h ago
+👁️ 3K • 👍 72 • 💬 9 • ⏱️ 9:20 • 22h ago
 
 ---
 
@@ -206,7 +206,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 43K • 👍 1K • 💬 176 • ⏱️ 9:26 • 13h ago
+👁️ 43K • 👍 1K • 💬 176 • ⏱️ 9:26 • 14h ago
 
 ---
 
@@ -216,7 +216,7 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 151K • 👍 4K • 💬 2K • ⏱️ 2:37 • 15h ago
+👁️ 151K • 👍 4K • 💬 2K • ⏱️ 2:37 • 16h ago
 
 ---
 
@@ -226,7 +226,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 193K • 👍 4K • 💬 708 • ⏱️ 1:41 • 14h ago
+👁️ 193K • 👍 4K • 💬 708 • ⏱️ 1:41 • 15h ago
 
 ---
 
@@ -276,7 +276,7 @@ Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid 
 
 📺 India Today Global
 
-👁️ 30K • 👍 579 • 💬 304 • ⏱️ 2:57 • 14h ago
+👁️ 30K • 👍 579 • 💬 304 • ⏱️ 2:57 • 15h ago
 
 ---
 

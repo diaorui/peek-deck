@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-17T07:08:52.158571+00:00'
+updated: '2026-02-17T08:04:43.030043+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- videos
 - social
 - news
-- videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 17, 2026 at 07:08 UTC  
+**Last Updated:** February 17, 2026 at 08:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
 
-7h ago
+8h ago
 
 ---
 
@@ -89,13 +89,13 @@ Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here
 
 Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on Square merchants. (most restaurants and places use Square to process credit and debit cards) and NO FEES OR SPREAD if you use Direct Deposit or DCA daily weekly monthly! ORRRR if you purchase over $2K of Bitcoin whenever. CashApp made a post being ONLY Bitcoin and how they want to make it every day money and support it HEAVILY
 
-15h ago
+16h ago
 
 ---
 
 **[Entry and pray 🤣](https://www.reddit.com/r/Bitcoin/comments/1r65c45/entry_and_pray/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -103,13 +103,13 @@ Jack is doing a lot to make sure Bitcoin lives and works. he enabled Bitcoin on 
 
 Full segment is on YouTube.
 
-12h ago
+13h ago
 
 ---
 
 **[It's Dangerous To Go Alone. Take This.](https://www.reddit.com/r/Bitcoin/comments/1r6em6c/its_dangerous_to_go_alone_take_this/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -117,7 +117,7 @@ Full segment is on YouTube.
 
 Why is everyone spreading fear about bitcoin but the institutions are buying it up
 
-8h ago
+9h ago
 
 ---
 
@@ -125,7 +125,7 @@ Why is everyone spreading fear about bitcoin but the institutions are buying it 
 
 The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025, representing a 149% surge in overall exposure. Data from research firm K33 shows that the company does not have any direct Bitcoin holdings but does hold significant shares in crypto companies such as Coinbase and Strategy. Norway’s central bank controls the investment activities of the country’s sovereign wealth fund, the Government Pension Fund Global. The management services are provided by the central bank’s subsidiary, Norges Bank Investment Management (NBIM), which Cryptopolitan reported operates as a separate unit within the central bank under the direction of the Norwegian Ministry of Finance. The fund is one of the world’s most significant sovereign wealth funds, with over $2 trillion in assets under management, primarily invested in bonds, global equities, and real estate.
 
-🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 15h ago
+🔗 [msn.com](https://www.msn.com/en-us/money/economy/norwegian-sovereign-wealth-fund-increased-its-indirect-bitcoin-exposure-by-149-in-2025/ar-AA1VlGo1) • 16h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Norway sovereign wealth fund increased its BTC holdings to 9,573 BTC in 2025
 
 brother, genuinely feel like right now I should drop every last penny into it. It would be like a long term investment, I live with my parents so if it doesn’t work out too well I don’t really see it being that bad.
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ brother, genuinely feel like right now I should drop every last penny into it. I
 
 Matt Odell's sage advice to "stay humble, stack sats" proved to be more true than ever this cycle. Buy spot bitcoin. Figure out the best custody solution possible. Hold it for the longterm. That's it. That's the winning move.
 
-8h ago
+9h ago
 
 ---
 
@@ -149,7 +149,7 @@ Matt Odell's sage advice to "stay humble, stack sats" proved to be more true tha
 
 I found it!
 
-8h ago
+9h ago
 
 ---
 
@@ -161,7 +161,7 @@ I found it!
 
 Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
 
-The Atlantic • 19h ago
+The Atlantic • 20h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Atlantic • 19h ago
 
 BofA's February survey shows investor positioning in the U.S. dollar has fallen to its most negative level since at least early 2012.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -177,13 +177,13 @@ CoinDesk • 1h ago
 
 The fast-food chain says bitcoin payments have boosted sales, as it channels crypto receipts into a growing corporate reserve.
 
-Yahoo Finance • 21m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Bitcoin Looks for Direction After Four Straight Weekly Losses](https://www.bloomberg.com/news/articles/2026-02-16/bitcoin-looks-for-direction-after-four-straight-weekly-losses)**
 
-Bloomberg.com • 15h ago
+Bloomberg.com • 16h ago
 
 ---
 
@@ -207,7 +207,7 @@ CNBC • 1d ago
 
 Harvard trimmed its Bitcoin exchange-traded fund holdings by 21% in Q4 and opened an $86.8 million Ethereum ETF position.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Block • 21h ago
 
 The shift may be due to complex market dynamics, potentially reflecting the unwinding of a trade that capitalized on bitcoin treasury companies trading at premiums to their mNAV.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -223,13 +223,13 @@ CoinDesk • 16h ago
 
 The university's investment arm held 5.35 million shares of the iShares Bitcoin Trust valued at $265.8 million as of Dec. 31, according to SEC filings released Friday.
 
-CoinMarketCap • 10h ago
+CoinMarketCap • 11h ago
 
 ---
 
 **[On a bank holiday, Bitcoin can send any amount of money anywhere on earth in minutes — for $0.44.](https://x.com/saylor/status/2023442227599663413)**
 
-x.com • 14h ago
+x.com • 15h ago
 
 ---
 
@@ -323,7 +323,7 @@ Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will 
 
 📺 Altcoin Daily
 
-👁️ 32K • 👍 2K • 💬 376 • ⏱️ 10:49 • 5h ago
+👁️ 32K • 👍 2K • 💬 376 • ⏱️ 10:49 • 6h ago
 
 ---
 
@@ -343,7 +343,7 @@ JOIN THE FAMILY: http://www.patreon.com/investanswers IA MODELS: https://investa
 
 📺 InvestAnswers
 
-👁️ 35K • 👍 2K • 💬 206 • ⏱️ 1:06:56 • 14h ago
+👁️ 35K • 👍 2K • 💬 206 • ⏱️ 1:06:56 • 15h ago
 
 ---
 
@@ -353,7 +353,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 361 • ⏱️ 39:54 • 15h ago
+👁️ 27K • 👍 1K • 💬 361 • ⏱️ 39:54 • 16h ago
 
 ---
 
@@ -383,7 +383,7 @@ Join Elon Musk and Cathie Wood for a powerful live discussion as they break down
 
 📺 MegaFactory Inside
 
-👁️ 4K • 👍 3K • 46m ago
+👁️ 4K • 👍 3K • 1h ago
 
 ---
 
@@ -393,7 +393,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 8K • 👍 662 • 💬 108 • ⏱️ 25:28 • 4h ago
+👁️ 8K • 👍 662 • 💬 108 • ⏱️ 25:28 • 5h ago
 
 ---
 
@@ -403,7 +403,7 @@ Bitcoin #BTC #cryptocurrency #altcoins #blockchain My Private Trading Group ...
 
 📺 CoinForge
 
-👁️ 2K • 👍 122 • 💬 46 • ⏱️ 12:58 • 12h ago
+👁️ 2K • 👍 122 • 💬 46 • ⏱️ 12:58 • 13h ago
 
 ---
 
@@ -413,7 +413,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 digitalstudiobg
 
-👁️ 11K • 👍 2K • 15h ago
+👁️ 11K • 👍 2K • 16h ago
 
 ---
 
