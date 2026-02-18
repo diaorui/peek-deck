@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-18T08:49:03.443866+00:00'
+updated: '2026-02-18T09:51:03.067942+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- social
 - videos
 - news
-- social
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 08:49 UTC  
+**Last Updated:** February 18, 2026 at 09:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +2.4%  
-**7d:** +3.9%  
-**30d:** -31.2%  
-**90d:** -26.9%  
-**1y:** -25.5%  
+**24h:** +2.9%  
+**7d:** +3.7%  
+**30d:** -31.3%  
+**90d:** -27.0%  
+**1y:** -25.6%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $241.08B
+**Market Cap:** $243.82B
 Rank #2
 
 **Circulating Supply:** 120,692,424 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.6%
+-59.2%
 
 **All-Time Low:** $0.43
-+461636.0%
++466382.2%
 
 ---
 
@@ -72,7 +72,23 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
+
+---
+
+**[The first confirmed case of vibecoded defi being exploited](https://www.reddit.com/r/ethereum/comments/1r7yg6e/the_first_confirmed_case_of_vibecoded_defi_being/)**
+
+https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56b50638038f9fa552f129bd681c7bc814ffcf I can't be happy about people getting hacked. But a tiny asshole part of myself is satisfied and hoping this might turn people around from vibe coding.
+
+23m ago
+
+---
+
+**[Can someone explain to me the hype behind LayerZero and how they managed to leap the ZKEVM?](https://www.reddit.com/r/ethereum/comments/1r7nhbg/can_someone_explain_to_me_the_hype_behind/)**
+
+I haven't been in the loop with LayerZero however it seems like they have implemented their own ZK Virtual Machine with "millions" of transactions on a raspberry pi with etheruem level decentralization, etc etc. Does anyone here actually know what the hype is and if it's accurate? I can't find much on it. I know with the ZKEVM, the roadmap is still a couple of years away and from my understanding from the info posted by Justin Drake and LEAN Ethereum, they seem to be at the cutting edge so where did LayerZero come from?
+
+9h ago
 
 ---
 
@@ -84,19 +100,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Can someone explain to me the hype behind LayerZero and how they managed to leap the ZKEVM?](https://www.reddit.com/r/ethereum/comments/1r7nhbg/can_someone_explain_to_me_the_hype_behind/)**
-
-I haven't been in the loop with LayerZero however it seems like they have implemented their own ZK Virtual Machine with "millions" of transactions on a raspberry pi with etheruem level decentralization, etc etc. Does anyone here actually know what the hype is and if it's accurate? I can't find much on it. I know with the ZKEVM, the roadmap is still a couple of years away and from my understanding from the info posted by Justin Drake and LEAN Ethereum, they seem to be at the cutting edge so where did LayerZero come from?
-
-8h ago
-
----
-
 **[Zero-knowledge proofs involving time series](https://www.reddit.com/r/ethereum/comments/1r732e6/zeroknowledge_proofs_involving_time_series/)**
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-21h ago
+22h ago
 
 ---
 
@@ -140,14 +148,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[No code Dapp testing tool for Mainnet and L2s](https://www.reddit.com/r/ethereum/comments/1r5dirv/no_code_dapp_testing_tool_for_mainnet_and_l2s/)**
-
-Hey guys, built an internal tool to help with my regression testing and automation testing on dapps. Would love some feedback. Github : https://github.com/sidNarasimhan/bugdapp POC: https://jam.dev/c/e715f9f5-9889-4d63-88c7-d19171cfc9c8 https://jam.dev/c/24fd68ec-fe79-4a9b-be50-aaf415823e3d
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 A BlackRock affiliate purchased 4,000 seed shares of the fund for $100,000, providing the initial capital the trust will use to purchase ether, according to an amended S-1 filing.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -164,15 +164,15 @@ The Block • 14h ago
 
 BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
-**[BlackRock Loads Up on Bitmine as $1,400 Ethereum Target Looms](https://finance.yahoo.com/news/blackrock-loads-bitmine-1-400-203847730.html)**
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.371 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-371-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-6-billion-302689296.html)**
 
-Though the US market is closed for Presidents’ Day today, BlackRock’s IBIT ETF recorded a $9.4 million outflow on the last working day before the market closed, 13 February 2026. Bitcoin is hovering at around $68k, and it wasn’t just a panic sell—it was a playground for Wall Street. Market ...
+Bitmine has 3,040,483 staked ETH, representing $6.1 billion at $1,998 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.62% of the...
 
-Yahoo Finance • 1d ago
+PR Newswire • 20h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1d ago
 
 Tom Lee's BitMine said its ether treasury has climbed to 4.37 million ETH as the firm continues aggressive accumulation market prices.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -200,9 +200,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Key facts: Ethereum bearish trend deepens; Harvard invests $86.8M in ETHA](https://www.tradingview.com/news/tradingview:f90a7ffed5ffc:0-key-facts-ethereum-bearish-trend-deepens-harvard-invests-86-8m-in-etha/)**
+**[Harvard Cuts Bitcoin ETF Stake, Adds $86.8M ETH ETF](https://bitbo.io/news/harvard-cuts-bitcoin-adds-eth/)**
 
-TradingView • 1d ago
+Harvard Management Company trimmed its Bitcoin ETF position by about 21% while initiating an $86.8 million stake in BlackRock's spot Ethereum ETF during Q4.
+
+Bitbo • 21h ago
 
 ---
 
@@ -210,7 +212,7 @@ TradingView • 1d ago
 
 Who knew being able to bet on everything would lead to people acting irresponsibly?
 
-Gizmodo • 12h ago
+Gizmodo • 13h ago
 
 ---
 
@@ -222,11 +224,11 @@ TradingView • 1d ago
 
 ---
 
-**[What is Ethereum and why should you care? Paul Brody at EY](https://www.americanbanker.com/podcast/what-is-ethereum-and-why-should-you-care-paul-brody-at-ey)**
+**[Forget Bitcoin and Ethereum: This is the Crypto to Buy in 2026](https://finance.yahoo.com/news/forget-bitcoin-ethereum-crypto-buy-032117500.html)**
 
-JPMorganChase, Citi, Vantage Bank and Custodia Bank have all chosen Ethereum as the underpinning for blockchain projects such as tokenized deposits. The chairman of the Enterprise Ethereum Alliance explains the OG blockchain.
+Bitcoin and Ethereum have dominated crypto headlines for years, but Bitcoin has declined 22.4% year-to-date in 2026, while Ethereum has dropped 33.4% over the same period. Both show signs of exhaustion after their 2025 rallies. Three alternative cryptocurrencies have experienced different price movements than Bitcoin and Ethereum: XRP’s institutional payment infrastructure, Solana’s unmatched transaction speed, ... Forget Bitcoin and Ethereum: This is the Crypto to Buy in 2026
 
-American Banker • 18h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -234,13 +236,23 @@ American Banker • 18h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN: It&#39;s Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8Z5JBHB10hU)**
+
+BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 301 • 💬 55 • ⏱️ 15:02 • 11h ago
+
+---
+
 **[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_v6jsscn71g)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 116 • 💬 10 • ⏱️ 6:02 • 8h ago
+👁️ 2K • 👍 128 • 💬 12 • ⏱️ 6:02 • 9h ago
 
 ---
 
@@ -250,17 +262,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 137 • 💬 118 • ⏱️ 14:18 • 1d ago
-
----
-
-**[BITCOIN: It&#39;s Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8Z5JBHB10hU)**
-
-BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 292 • 💬 43 • ⏱️ 15:02 • 10h ago
+👁️ 4K • 👍 137 • 💬 119 • ⏱️ 14:18 • 1d ago
 
 ---
 
@@ -270,17 +272,7 @@ Crypto News: BlackRock begins acquiring ETH for upcoming Ethereum staking ETF. A
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 261 • 💬 23 • ⏱️ 16:00 • 4h ago
-
----
-
-**[Why Wall Street Only Trusts Bitcoin and Ethereum](https://www.youtube.com/watch?v=CsJYp1hdLcE)**
-
-Bitcoin just took another brutal correction, down 50%, and no, this isn't the first time we've seen this movie. But something bigger ...
-
-📺 Kevin O'Leary
-
-👁️ 52K • 👍 550 • 💬 64 • ⏱️ 1:34 • 1d ago
+👁️ 3K • 👍 322 • 💬 68 • ⏱️ 16:00 • 5h ago
 
 ---
 
@@ -290,7 +282,17 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 230 • 💬 81 • ⏱️ 25:32 • 19h ago
+👁️ 4K • 👍 234 • 💬 81 • ⏱️ 25:32 • 20h ago
+
+---
+
+**[Why Wall Street Only Trusts Bitcoin and Ethereum](https://www.youtube.com/watch?v=CsJYp1hdLcE)**
+
+Bitcoin just took another brutal correction, down 50%, and no, this isn't the first time we've seen this movie. But something bigger ...
+
+📺 Kevin O'Leary
+
+👁️ 61K • 👍 579 • 💬 69 • ⏱️ 1:34 • 1d ago
 
 ---
 
@@ -300,7 +302,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 261 • 💬 27 • ⏱️ 34:48 • 12h ago
+👁️ 2K • 👍 272 • 💬 29 • ⏱️ 34:48 • 13h ago
 
 ---
 
@@ -310,17 +312,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 162 • 💬 6 • ⏱️ 5:28 • 17h ago
-
----
-
-**[HBAR, ETH, or ONDO - Which Altcoin Will Dominate RWA?](https://www.youtube.com/watch?v=jsPxXpRLxMo)**
-
-As RWA takes control of the market, we look at 3 RWA leaders: Ondo, Ethereum, and Hedera Hashgraph. These 3 lead now and ...
-
-📺 Altcoin Buzz
-
-👁️ 6K • 👍 255 • 💬 94 • ⏱️ 12:17 • 14h ago
+👁️ 2K • 👍 162 • 💬 6 • ⏱️ 5:28 • 18h ago
 
 ---
 
@@ -331,6 +323,16 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 📺 Wolf of Dubai Day Trading & Investing
 
 👁️ 6K • 👍 273 • 💬 125 • ⏱️ 17:52 • 2d ago
+
+---
+
+**[HBAR, ETH, or ONDO - Which Altcoin Will Dominate RWA?](https://www.youtube.com/watch?v=jsPxXpRLxMo)**
+
+As RWA takes control of the market, we look at 3 RWA leaders: Ondo, Ethereum, and Hedera Hashgraph. These 3 lead now and ...
+
+📺 Altcoin Buzz
+
+👁️ 6K • 👍 270 • 💬 96 • ⏱️ 12:17 • 15h ago
 
 ---
 

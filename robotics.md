@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-18T08:49:03.447154+00:00'
+updated: '2026-02-18T09:51:03.071144+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 18, 2026 at 08:49 UTC  
+**Last Updated:** February 18, 2026 at 09:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 If you're curious about how it actually works, check out my full video here 🥺🥺🥹: https://youtu.be/SyGJ2h8aM98?si=gUOa0jV8wwxQTysp The video shows the entire 100% automated pipeline and, more importantly, how the model autonomously recovers from mistakes (like when the pancake doesn't land perfectly). It's much more than just a simple motion sequence! GitHub & Hugging Face links are in the description of the video. I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM101. Is it faster than cooking by hand? No. But is it way cooler? I think so. Honestly, I didn't expect ACT (Action Chunking Transformer) to handle physical tasks this effectively. I thought it might be limited, but it turns out it actually performs way better when trained on short, simple primitives. So, I decomposed the cooking process into three tasks and implemented a high-level planner to orchestrate them. The GIF above highlights Task2, which focuses specifically on the flipping motion. Task 1: Batter pouring \ Task 2: Pancake flipping \ Task 3: Plating Check out the full automated operation video on my YouTube.
 
-15h ago
+16h ago
 
 ---
 
@@ -50,13 +50,13 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
 
-17h ago
+18h ago
 
 ---
 
 **[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -64,7 +64,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
 
-10h ago
+11h ago
 
 ---
 
@@ -78,13 +78,13 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
 
-19h ago
+20h ago
 
 ---
 
 **[Preparing the first ALVE-X order. From idea to reality. #RobotArm #Mechatronics #DIAIndustries #Engineering #prototype](https://www.reddit.com/r/robotics/comments/1r7on9l/preparing_the_first_alvex_order_from_idea_to/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -98,7 +98,7 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I'd been building. The feedback was really helpful, and I've been heads-down since then working on the biggest request: Python support. v0.3.0 is out, and Python is now a first-class language alongside Rust. Topics, services, actions, parameters — everything works in Python with full code generation, type-safe dataclasses, and asyncio support out of the box. You can even mix Python and Rust nodes in the same project. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python support.
 
-19h ago
+20h ago
 
 ---
 
@@ -110,15 +110,15 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
-**[Amazon pulls the plug on 'Blue Jay' warehouse robot after only a few months](https://www.businessinsider.com/amazon-pulls-plug-blue-jay-warehouse-robot-2026-2)**
+**[BlackBerry Showcases QNX Robotics Push As Shares Trade Below Estimates](https://finance.yahoo.com/news/blackberry-showcases-qnx-robotics-push-091148792.html)**
 
-Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
+BlackBerry's QNX unit is unveiling new mission critical products at Embedded World 2026. Key launches include a General Embedded Development Platform and a QNX powered humanoid robot. The focus is on next generation intelligent robotics for industrial, automotive, and autonomous use cases. For BlackBerry (TSX:BB), this QNX showcase arrives with the share price at CA$4.66 and longer term returns under pressure, including a 44.1% decline over the past year and a 67.1% decline over five years...
 
-Business Insider • 12h ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -126,7 +126,7 @@ Business Insider • 12h ago
 
 A Warren Area High School robotics team has finished its regular season with two championships – raising its ranking to among the top 1% globally. Team 52575C competed in its final two regular season tournaments over the weekend and brought home the championship trophy in both. The Ft. LeBoeuf VEX V5 PA State Regional Qualifier […]
 
-timesobserver.com • 3h ago
+timesobserver.com • 4h ago
 
 ---
 
@@ -134,7 +134,7 @@ timesobserver.com • 3h ago
 
 COLUMBUS, Ohio, (Feb. 17, 2026) — HII (NYSE: HII) and Path Robotics signed a memorandum of understanding (MOU) today to explore the integration of Path’s physical artificial intelligence (AI) for welding into shipbuilding operations that could accelerate throughput, strengthen the maritime industrial base, and augment the shipbuilding workforce. The MOU signing ceremony took place at
 
-HII • 11h ago
+HII • 12h ago
 
 ---
 
@@ -142,7 +142,15 @@ HII • 11h ago
 
 Advancing are Island Robotics, Waiʻanae High School, Pearl City High School, Kaimuki Middle School, Mililani Mechs Robotics, and Waialua High & Intermediate School.  The double qualifications by these teams will allow one other Hawaiʻi team – to be determined  by the Robotics Education and Competition Foundation – to advance to the VEX Worlds.
 
-Maui Now • 12h ago
+Maui Now • 13h ago
+
+---
+
+**[Amazon pulls the plug on 'Blue Jay' warehouse robot after only a few months](https://www.businessinsider.com/amazon-pulls-plug-blue-jay-warehouse-robot-2026-2)**
+
+Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
+
+Business Insider • 13h ago
 
 ---
 
@@ -150,7 +158,7 @@ Maui Now • 12h ago
 
 The team was selected to compete in the first United States Governor's Cup National Robotics Tournament.
 
-weareiowa.com • 4h ago
+weareiowa.com • 5h ago
 
 ---
 
@@ -158,15 +166,7 @@ weareiowa.com • 4h ago
 
 Artificial intelligence is transforming the robotics field at a rapid pace, according to the International Federation of Robotics or IFR.
 
-The Robot Report • 10h ago
-
----
-
-**[St. Bernard Parish Selected for Humanoid Robotics Pilot](https://bizneworleans.com/st-bernard-parish-selected-for-humanoid-robotics-pilot/)**
-
-ST. BERNARD PARISH, La. (press release) – St. Bernard Parish has been selected as the site of a new humanoid robotics pilot launched through a Memorandum of
-
-Biz New Orleans • 8h ago
+The Robot Report • 11h ago
 
 ---
 
@@ -174,13 +174,15 @@ Biz New Orleans • 8h ago
 
 The market for AI-powered robots and autonomous machines could balloon into a trillion-dollar opportunity by 2035, according to a team of Barclays analysts.
 
-Transport Topics • 12h ago
+Transport Topics • 13h ago
 
 ---
 
-**[Four Central IL robotics teams qualify for state championship](https://www.wcia.com/news/local-news/champaign-urbana-robotics-teams-qualify-for-state-championship/)**
+**[St. Bernard Parish Selected for Humanoid Robotics Pilot](https://bizneworleans.com/st-bernard-parish-selected-for-humanoid-robotics-pilot/)**
 
-WCIA.com • 12h ago
+ST. BERNARD PARISH, La. (press release) – St. Bernard Parish has been selected as the site of a new humanoid robotics pilot launched through a Memorandum of
+
+Biz New Orleans • 9h ago
 
 ---
 
@@ -194,7 +196,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 22K • 👍 351 • 💬 220 • ⏱️ 2:36 • 8h ago
+👁️ 32K • 👍 434 • 💬 280 • ⏱️ 2:36 • 9h ago
 
 ---
 
@@ -204,27 +206,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 16K • 👍 392 • 💬 154 • ⏱️ 2:00 • 16h ago
-
----
-
-**[The Real AI Crisis: It’s Not The Robots (Here’s What Actually Threatens Us)](https://www.youtube.com/watch?v=zVj4b_uImZE)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
-
-📺 Julia McCoy
-
-👁️ 12K • 👍 860 • 💬 112 • ⏱️ 9:04 • 17h ago
-
----
-
-**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
-
-China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
-
-📺 Kalil 4.0
-
-👁️ 100K • 👍 2K • 💬 306 • ⏱️ 9:26 • 1d ago
+👁️ 22K • 👍 481 • 💬 179 • ⏱️ 2:00 • 17h ago
 
 ---
 
@@ -234,7 +216,17 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 474K • 👍 6K • 💬 1K • ⏱️ 1:41 • 1d ago
+👁️ 519K • 👍 7K • 💬 1K • ⏱️ 1:41 • 1d ago
+
+---
+
+**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
+
+China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
+
+📺 Kalil 4.0
+
+👁️ 102K • 👍 2K • 💬 306 • ⏱️ 9:26 • 1d ago
 
 ---
 
@@ -244,27 +236,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 43K • 👍 961 • 💬 115 • ⏱️ 12:43 • 2d ago
-
----
-
-**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
-
-The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
-
-📺 The Sun
-
-👁️ 591K • 👍 11K • 💬 5K • ⏱️ 2:37 • 1d ago
-
----
-
-**[Unnerving sword-wielding robot dances for Chinese New Year stunt](https://www.youtube.com/watch?v=SCj0ZSKKfGo)**
-
-The Sun brings you breaking news and in-depth analysis on the stories that matter most. From the ongoing war in Ukraine to ...
-
-📺 The Sun
-
-👁️ 9K • 👍 129 • 💬 69 • ⏱️ 1:18 • 20h ago
+👁️ 44K • 👍 967 • 💬 126 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -274,17 +246,47 @@ China Media Group's 2026 Spring Festival Gala drew widespread attention with a p
 
 📺 Guardian News
 
-👁️ 7K • 👍 59 • 💬 27 • ⏱️ 0:52 • 3h ago
+👁️ 48K • 👍 106 • 💬 51 • ⏱️ 0:52 • 4h ago
 
 ---
 
-**[Dancing humanoid robots take centre stage at China&#39;s Lunar New Year Gala](https://www.youtube.com/watch?v=HEuhhanh878)**
+**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
 
-The world is ringing in the year of the Fire Horse and China is marking Lunar New Year with an extraordinary and unique ...
+The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
 
-📺 Al Jazeera English
+📺 The Sun
 
-👁️ 35K • 👍 534 • 💬 307 • ⏱️ 7:31 • 15h ago
+👁️ 636K • 👍 12K • 💬 5K • ⏱️ 2:37 • 1d ago
+
+---
+
+**[Elon Musk begs for robot bailout](https://www.youtube.com/watch?v=61_yDWtdNAo)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 55K • 👍 3K • 💬 663 • ⏱️ 14:43 • 1d ago
+
+---
+
+**[Robot Grandmothers Are Coming #humanoidrobot #robotics #uncannyvalley  #airobot](https://www.youtube.com/watch?v=8lDMm35lJqI)**
+
+Chinese engineers have developed a hyper-realistic replica of veteran Chinese actress Cai Ming. Engineers from the Beijing ...
+
+📺 Kalil 4.0
+
+👁️ 1K • 👍 36 • 💬 1 • ⏱️ 0:53 • 6h ago
+
+---
+
+**[Unnerving sword-wielding robot dances for Chinese New Year stunt](https://www.youtube.com/watch?v=SCj0ZSKKfGo)**
+
+The Sun brings you breaking news and in-depth analysis on the stories that matter most. From the ongoing war in Ukraine to ...
+
+📺 The Sun
+
+👁️ 10K • 👍 131 • 💬 74 • ⏱️ 1:18 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-18T08:49:03.429411+00:00'
+updated: '2026-02-18T09:51:03.053061+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - videos
 - news
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 18, 2026 at 08:49 UTC  
+**Last Updated:** February 18, 2026 at 09:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 https://aaddrick.com/blog/claude-for-government-the-last-lab-standing Pulled the Claude Desktop binary the same day it shipped and confirmed it in code. Anthropic's government deployment mode showed up on their status tracker February 17th. Traffic routes to claude.fedstart.com, authentication goes through Palantir Keycloak SSO, Sentry telemetry is disabled, and a pubsec banner gets injected. All of it landed in one release with zero prior trace across eight versions. The GSA deal, the DoD contract dispute, and the Pentagon's supply chain risk threat are covered in the full breakdown linked above.
 
-🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 3h ago
+🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing Pulled the
 
 I work on AI deployment inside my company, and the gap between what AI looks like in a polished demo… and what actually happens in real life? I think about that a lot. Here’s what I keep running into. First, the tool access issue. Companies roll out M365 Copilot licenses across the organization and call it “AI adoption.” But nobody explains what people should actually use it for. It’s like handing everyone a Swiss Army knife and then wondering why they only ever use the blade. Without use cases, it just becomes an expensive icon in the ribbon. Then there’s the trust gap. You’ve got senior engineers and specialists with 20+ years of experience. They’ve built careers on judgment and precision. Of course they don’t blindly trust AI output and for safety-critical or compliance-heavy work, they absolutely shouldn’t. But for drafting, summarizing, structuring ideas, or preparing first passes? The resistance ends up costing them hours every week. The measurement problem is another big one. “We deployed AI” sounds impressive, but it’s meaningless. The real question is: which exact workflows got faster? Which tasks became more accurate? Which processes got cheaper? Most organizations never measure at that level. So they can’t prove value — and momentum fades. Governance is where things get uncomfortable. Legal, compliance, cybersecurity, HSE, they need clear boundaries. Where can AI be used? Where is it off-limits? What data is allowed? Many companies skip this step because it slows things down. Then someone uses ChatGPT to draft a contract, and suddenly everyone panics. And finally, scaling. One team figures out an incredible AI workflow that saves hours every week. But it stays within that team. There’s no structured way to share what works across departments. So instead of compounding gains, progress stays siloed. What I’ve seen actually work: Prompt libraries tailored to specific roles, not generic “how to use AI” guides Clear guardrails on when AI is appropriate (and when it isn’t) Department-level champions who actively share workflows Measuring time saved on specific tasks instead of vague “productivity boosts” Enterprise AI adoption isn’t a tech rollout. It’s a behavior shift. Curious, if you’re working on this inside your organization, what’s blocking you right now?
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ I work on AI deployment inside my company, and the gap between what AI looks lik
 
 AI startup ElevenLabs, valued at $11 billion, employs small teams with high sales quotas.
 
-🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 7h ago
+🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 8h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 "Elon Musk’s SpaceX and its subsidiary xAI are joining a secretive US Department of Defense competition centered on a voice command and control tool that could deploy multiple autonomous systems. The project, launched in January with a $100-million budget and a six-month timeline, requires software that could coordinate unmanned swarming operations across the air and at sea, according to Bloomberg. The Pentagon’s Defense Innovation Unit and its new Defense Autonomous Warfare Group under the US Special Operations Command are overseeing the competition. The contest will unfold in phases, starting with software development before advancing to live trials. SpaceX and xAI’s participation marks an expansion of Musk’s defense work into artificial intelligence-enabled weapons software, as the Pentagon moves to accelerate drone development and domestic manufacturing while cutting bureaucracy. It also follows Washington’s call for cost-effective counter-drone solutions, particularly to protect critical military and civilian infrastructure as well as large public events. Separately, xAI, alongside other firms such as ChatGPT owner OpenAI, secured defense contracts worth up to $200 million each last year to expand advanced artificial intelligence use across military systems."
 
-🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 11h ago
+🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 12h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day 
 
 Japanese company seeks to help copyright holders receive share of revenue
 
-🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 2h ago
+🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Japanese company seeks to help copyright holders receive share of revenue
 
 A self-hosted platform for running Claude agent swarms with a React UI, deployed on GCP Cloud Run. - simonstaton/ClaudeSwarm
 
-🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 8h ago
+🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 9h ago
 
 ---
 
@@ -105,7 +105,7 @@ A self-hosted platform for running Claude agent swarms with a React UI, deployed
 
 The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 20h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 21h ago
 
 ---
 
@@ -121,19 +121,31 @@ So the guy who built OpenClaw, originally called Clawdbot because it was literal
 
 ## Google News: "ai"
 
-**[Anthropic releases Claude Sonnet 4.6, continuing breakneck pace of AI model releases](https://www.cnbc.com/2026/02/17/anthropic-ai-claude-sonnet-4-6-default-free-pro.html)**
+**[12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us](https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco)**
 
-Claude Sonnet 4.6 is more consistent with coding and is better at following coding instructions, Anthropic said.
+San Francisco’s AI startups are pushing workers to grind endlessly, hinting at pressures soon hitting other sectors
 
-CNBC • 14h ago
+The Guardian • 13h ago
 
 ---
 
-**[Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert](https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge)**
+**[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.reuters.com/world/china/india-tells-university-leave-ai-summit-after-presenting-chinese-robot-its-own-2026-02-18/)**
 
-Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interest
+Reuters • 1h ago
 
-The Guardian • 6h ago
+---
+
+**[Online Shopping Could Be AI’s Next Victim](https://www.bloomberg.com/opinion/articles/2026-02-18/retail-could-be-the-next-industry-disrupted-by-ai)**
+
+Bloomberg • 51m ago
+
+---
+
+**[Meta expands Nvidia deal to use millions of AI chips in data center build-out, including standalone CPUs](https://www.cnbc.com/2026/02/17/meta-nvidia-deal-ai-data-center-chips.html)**
+
+Meta expands partnership with Nvidia in a deal likely worth tens of billions, for deploying millions of GPUs and new standalone CPUs in AI data centers
+
+CNBC • 12h ago
 
 ---
 
@@ -141,21 +153,35 @@ The Guardian • 6h ago
 
 Nvidia and Meta are expanding their chip deal to include millions of more AI processors.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Nvidia is partnering with major Indian VC firms in search for the country's next AI start-ups](https://www.cnbc.com/2026/02/18/nvidia-india-ai-vc-data-center-partners.html)**
+**[US Tech Giant Nvidia Announces India Deals At AI Summit](https://www.barrons.com/news/us-tech-giant-nvidia-announces-india-deals-at-ai-summit-e2dc634b?gaa_at=eafs&gaa_n=AWEtsqfV3935bPJsijGP_rQZ5CKZ1w9VjjuCrfoZIjVHFJQrmYCX14SeZnw3&gaa_ts=69958ee9&gaa_sig=z_u6xVa16B7Fz2sy9VTPCwLjOjFliIFO2ADv_5tHEe4Gr62_1hbEdDW6FqKNT0QXk92Dh1gcbFq2YzhjQKoFGg%3D%3D)**
 
-Nvidia is expanding its partnerships in India, including with venture capital firms, as it bets on the country's AI ecosystem that has drawn massive Big Tech investments.
-
-CNBC • 4h ago
+Barron's • 35m ago
 
 ---
 
-**[Nvidia Gets Big Meta Commitment. What It Means for the Broadcom AI Chips Threat.](https://www.barrons.com/articles/nvidia-stock-price-meta-broadcom-ai-chips-47997103?gaa_at=eafs&gaa_n=AWEtsqfjmVUp3dKJzJsB2nnWSlC4qjlWiy5sUOZGtY3vJKdEKpTMp9CjZm9K&gaa_ts=69958067&gaa_sig=jllHKP5jqamzKoZuTfgHWMw_JdjXVgIo13ZMG8UQS39inVZ7Nhy_rQKh9FXdl9zoK4oJz6OybNzTmCnamvnrRA%3D%3D)**
+**[Watch CNBC's full interview with Mistral AI CEO Arthur Mensch](https://www.cnbc.com/video/2026/02/18/watch-cnbcs-full-interview-with-mistral-ai-ceo-arthur-mensch.html)**
 
-Barron's • 19m ago
+Arthur Mensch, CEO of Mistral AI, discusses future growth, competition and AI strategy from the India AI Impact Summit.
+
+CNBC • 1h ago
+
+---
+
+**[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[This doctor is training AI to do her job. And it’s a booming business](https://www.cnn.com/2026/02/17/business/ai-experts-training-jobs)**
+
+AI models are trained on massive amounts of data. But that training doesn’t do much good without what’s known as “reinforcement learning,” a process that involves human experts teaching models the differences between good and bad responses.
+
+CNN • 1d ago
 
 ---
 
@@ -163,35 +189,7 @@ Barron's • 19m ago
 
 Google, Anthropic and OpenAI bosses to mingle with global south leaders wrestling for control over technology
 
-The Guardian • 3h ago
-
----
-
-**[How the global effort to keep AI safe went off the rails](https://www.politico.eu/article/how-the-global-effort-to-keep-ai-safe-went-off-the-rails/)**
-
-Those gathered in New Delhi are no longer obsessing about how to control AI risks but figuring out who can benefit.
-
-politico.eu • 11h ago
-
----
-
-**[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.yahoo.com/news/articles/india-tells-university-leave-ai-075331343.html)**
-
-An Indian university has been asked to vacate its stall at the country's flagship AI summit after a ‌staff member was caught presenting a commercially available robotic dog made in China ‌as its own c...
-
-Yahoo • 55m ago
-
----
-
-**[Why Agentic AI Is Breaking The SaaS Pricing Model](https://www.forbes.com/sites/peterbendorsamuel/2026/02/18/why-agentic-ai-is-breaking-the-saas-pricing-model/)**
-
-Forbes • 16m ago
-
----
-
-**[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
-
-The New York Times • 1d ago
+The Guardian • 4h ago
 
 ---
 
@@ -203,7 +201,7 @@ The New York Times • 1d ago
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Talarico on the broadcast.
 
-⬆️ 487 • 💬 221 • 16h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 487 • 💬 221 • 17h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 
 ---
 
@@ -211,7 +209,7 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 431 • 💬 314 • 7h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 465 • 💬 355 • 8h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -245,7 +243,7 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 opinion: The subtractive bias we're ignoring
 
-⬆️ 250 • 💬 185 • 16h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 254 • 💬 188 • 17h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -275,7 +273,7 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 **[An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://news.ycombinator.com/item?id=47051956)**
 
-⬆️ 107 • 💬 78 • 13h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
+⬆️ 109 • 💬 78 • 14h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
 
 ---
 
@@ -283,43 +281,33 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 ## YouTube Videos: "ai"
 
-**[How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)**
-
-Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code FIRESHIP to get one month of their Build plan for $5 ...
-
-📺 Fireship
-
-👁️ 301K • 👍 14K • 💬 819 • ⏱️ 5:02 • 14h ago
-
----
-
-**[AI Safety Experts WARN: “We&#39;re Not Ready for Superintelligence&quot;](https://www.youtube.com/watch?v=nVRQ_ZxXKgg)**
-
-Artificial intelligence and robotics are advancing at a pace few people are prepared for and AI experts are warning about the ...
-
-📺 MotivationHub
-
-👁️ 20K • 👍 277 • 💬 59 • ⏱️ 13:16 • 1d ago
-
----
-
 **[Viral article warns of looming impacts of artificial intelligence](https://www.youtube.com/watch?v=tYecUUyrIo8)**
 
 Matt Shumer joins "CBS Mornings" to discuss his now viral article, "Something Big Is Happening." He writes that AI's "capability for ...
 
 📺 CBS Mornings
 
-👁️ 46K • 👍 851 • 💬 212 • ⏱️ 7:07 • 18h ago
+👁️ 49K • 👍 881 • 💬 225 • ⏱️ 7:07 • 19h ago
 
 ---
 
-**[Uproar Over AI-Generated Brad Pitt And Tom Cruise Fight Scene](https://www.youtube.com/watch?v=pDA1LMceoRY)**
+**[How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)**
 
-There has been a growing uproar Monday over a fight scene between Brad Pitt and Tom Cruise. The A-list actors appeared to be ...
+Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code FIRESHIP to get one month of their Build plan for $5 ...
 
-📺 Inside Edition
+📺 Fireship
 
-👁️ 108K • 👍 2K • 💬 517 • ⏱️ 2:11 • 1d ago
+👁️ 335K • 👍 15K • 💬 879 • ⏱️ 5:02 • 15h ago
+
+---
+
+**[AI Safety Experts WARN: “We Have 2 Years Before Everything Changes!”](https://www.youtube.com/watch?v=nVRQ_ZxXKgg)**
+
+Artificial intelligence and robotics are advancing at a pace few people are prepared for and AI experts are warning about the ...
+
+📺 MotivationHub
+
+👁️ 21K • 👍 280 • 💬 61 • ⏱️ 13:16 • 1d ago
 
 ---
 
@@ -329,47 +317,7 @@ There has been a growing uproar Monday over a fight scene between Brad Pitt and 
 
 📺 Focus Features
 
-👁️ 1.6M • 👍 616 • 💬 103 • ⏱️ 2:43 • 16h ago
-
----
-
-**[OpenAI Just “Absorbed” OpenClaw and the AI World Exploded](https://www.youtube.com/watch?v=ubVLeoglBYE)**
-
-OpenAI just hired the creator of OpenClaw, one of the fastest-spreading open-source AI agent platforms in the world. At the same ...
-
-📺 AI Revolution
-
-👁️ 48K • 👍 1K • 💬 136 • ⏱️ 8:30 • 1d ago
-
----
-
-**[Stop Using AI the Hard Way (Do this instead)](https://www.youtube.com/watch?v=4JMH-4kKMC8)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4ak6OTF Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 37K • 👍 2K • 💬 164 • ⏱️ 11:21 • 1d ago
-
----
-
-**[Claude Sonnet 4.6: The Best AI Coding Model Ever! 1M Context, Cheap, &amp; More! (Fully Tested)](https://www.youtube.com/watch?v=enoBTzLziEs)**
-
-Anthropic's Claude Sonnet 4.6 just dropped, and it's a game-changer for developers, coders, and AI enthusiasts. With a massive ...
-
-📺 WorldofAI
-
-👁️ 17K • 👍 394 • 💬 23 • ⏱️ 13:14 • 13h ago
-
----
-
-**[Godfather of AI: The next 5 years Will Change Humanity Forever | Yoshua Bengio](https://www.youtube.com/watch?v=0fXGtQoJgNo)**
-
-FREE guide: Turn AI Agent Skills Into Cash — 5 paths to monetize AI in 30 days: https://clickhubspot.com/d203f6 In this episode of ...
-
-📺 Silicon Valley Girl
-
-👁️ 28K • 👍 652 • 💬 68 • ⏱️ 29:31 • 1d ago
+👁️ 1.6M • 👍 719 • 💬 114 • ⏱️ 2:43 • 17h ago
 
 ---
 
@@ -379,7 +327,57 @@ This is why we can't have nice things. Referenced in this video: - Ars Technica'
 
 📺 Jeff Geerling
 
-👁️ 187K • 👍 13K • 💬 1K • ⏱️ 3:37 • 1d ago
+👁️ 194K • 👍 13K • 💬 1K • ⏱️ 3:37 • 1d ago
+
+---
+
+**[Racist AI Content Floods The Internet](https://www.youtube.com/watch?v=Y3YcKIRqmaM)**
+
+The racist Obama video was a sign of a larger problem, AI content denigrating Black people has been mass produced and ...
+
+📺 Reese Waters
+
+👁️ 89K • 👍 8K • 💬 1K • ⏱️ 36:30 • 2d ago
+
+---
+
+**[OpenAI Just “Absorbed” OpenClaw and the AI World Exploded](https://www.youtube.com/watch?v=ubVLeoglBYE)**
+
+OpenAI just hired the creator of OpenClaw, one of the fastest-spreading open-source AI agent platforms in the world. At the same ...
+
+📺 AI Revolution
+
+👁️ 50K • 👍 1K • 💬 136 • ⏱️ 8:30 • 1d ago
+
+---
+
+**[Godfather of AI: The next 5 years Will Change Humanity Forever | Yoshua Bengio](https://www.youtube.com/watch?v=0fXGtQoJgNo)**
+
+FREE guide: Turn AI Agent Skills Into Cash — 5 paths to monetize AI in 30 days: https://clickhubspot.com/d203f6 In this episode of ...
+
+📺 Silicon Valley Girl
+
+👁️ 29K • 👍 673 • 💬 72 • ⏱️ 29:31 • 1d ago
+
+---
+
+**[AI developer resignations mark ‘real wake-up call’ for people: Professor | Katie Pavlich Tonight](https://www.youtube.com/watch?v=XG0qKL1O_tY)**
+
+MIT professor and AI expert Max Tegmark joins “Katie Pavlich Tonight” to discuss the multiple resignations at several AI ...
+
+📺 NewsNation
+
+👁️ 27K • 👍 648 • 💬 149 • ⏱️ 5:31 • 1d ago
+
+---
+
+**[Stop Using AI the Hard Way (Do this instead)](https://www.youtube.com/watch?v=4JMH-4kKMC8)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4ak6OTF Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 38K • 👍 2K • 💬 160 • ⏱️ 11:21 • 1d ago
 
 ---
 
@@ -395,7 +393,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 170,238 • ❤️ 1,323 • 4d ago
+⬇️ 170,238 • ❤️ 1,330 • 4d ago
 
 ---
 
@@ -407,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 40,292 • ❤️ 721 • 2d ago
+⬇️ 40,292 • ❤️ 727 • 2d ago
 
 ---
 
@@ -419,7 +417,7 @@ Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Del
 
 `image-text-to-text` `403.4B`
 
-⬇️ 46,837 • ❤️ 632 • 1d ago
+⬇️ 46,837 • ❤️ 639 • 1d ago
 
 ---
 
@@ -431,7 +429,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 50,917 • ❤️ 550 • 23h ago
+⬇️ 50,917 • ❤️ 554 • 1d ago
 
 ---
 
@@ -443,7 +441,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 4,151 • ❤️ 459 • 6d ago
+⬇️ 4,151 • ❤️ 462 • 6d ago
 
 ---
 
@@ -455,19 +453,7 @@ PersonaPlex-7B is a real-time speech-to-speech conversational model that jointly
 
 `audio-to-audio`
 
-⬇️ 440,168 • ❤️ 1,993 • 2d ago
-
----
-
-**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
-
-*Moonshot AI*
-
-Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. It supports coding from visual inputs and features an 'Agent Swarm' for complex task decomposition and parallel execution, with a context length of 256K.
-
-`image-text-to-text` `170.7B`
-
-⬇️ 895,102 • ❤️ 2,231 • 13d ago
+⬇️ 440,168 • ❤️ 2,004 • 2d ago
 
 ---
 
@@ -479,7 +465,19 @@ MOSS-TTS is a family of high-fidelity, expressive speech and sound generation mo
 
 `text-to-speech` `8.5B`
 
-⬇️ 21,532 • ❤️ 238 • 4d ago
+⬇️ 21,532 • ❤️ 240 • 4d ago
+
+---
+
+**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+
+*Moonshot AI*
+
+Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and agentic tool use. It supports coding from visual inputs and features an 'Agent Swarm' for complex task decomposition and parallel execution, with a context length of 256K.
+
+`image-text-to-text` `170.7B`
+
+⬇️ 895,102 • ❤️ 2,232 • 13d ago
 
 ---
 
@@ -491,7 +489,7 @@ Ming-flash-omni 2.0 is a SOTA 100B parameter omni-multimodal large language mode
 
 `any-to-any`
 
-⬇️ 6,912 • ❤️ 228 • 6d ago
+⬇️ 6,912 • ❤️ 229 • 6d ago
 
 ---
 
@@ -503,7 +501,7 @@ Ring-2.5-1T is an open-source trillion-parameter text generation model featuring
 
 `text-generation` `1012.5B`
 
-⬇️ 3,593 • ❤️ 192 • 3d ago
+⬇️ 3,593 • ❤️ 195 • 3d ago
 
 ---
 
@@ -515,23 +513,13 @@ Ring-2.5-1T is an open-source trillion-parameter text generation model featuring
 
 *Yuang Ai, Jiaming Han, Shaobin Zhuang et al. (10 authors)*
 
+🏢 ByteDance
+
 BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
 
-▲ 19 • 💬 2 • ⭐ 153 • 3d ago
+▲ 20 • 💬 2 • ⭐ 153 • 3d ago
 
-[🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance)
-
----
-
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 2 • 💬 0 • ⭐ 4,174 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+[🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
 ---
 
@@ -553,9 +541,21 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 1 • 💬 0 • ⭐ 1,415 • 23mo ago
+▲ 1 • 💬 0 • ⭐ 1,553 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
+
+---
+
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+
+▲ 2 • 💬 0 • ⭐ 4,196 • 16mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -595,7 +595,7 @@ RAG-Anything is a unified framework that enhances multimodal knowledge retrieval
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 36 • 💬 1 • ⭐ 70,497 • 29mo ago
+▲ 36 • 💬 1 • ⭐ 70,519 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -609,23 +609,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 186 • 💬 12 • ⭐ 3,648 • 18d ago
+▲ 186 • 💬 12 • ⭐ 3,670 • 18d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
-**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
-
-*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
-
-🏢 Qwen
-
-The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
-
-▲ 67 • 💬 1 • ⭐ 7,851 • 27d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
 ---
 
@@ -641,6 +627,20 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 ---
 
+**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
+
+*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
+
+🏢 Qwen
+
+The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
+
+▲ 67 • 💬 1 • ⭐ 7,867 • 27d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 11.1k • 🔱 1.1k • 1h ago
+⭐ 11.4k • 🔱 1.1k • 49s ago
 
 ---
 
@@ -669,7 +669,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.7k • 🔱 170 • 15d ago
+⭐ 3.7k • 🔱 171 • 15d ago
 
 ---
 
@@ -679,7 +679,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 3.1k • 🔱 349 • 7d ago
+⭐ 3.1k • 🔱 353 • 7d ago
 
 ---
 
@@ -689,7 +689,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.7k • 🔱 273 • 1h ago
+⭐ 2.7k • 🔱 273 • 2h ago
 
 ---
 
@@ -699,7 +699,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.4k • 🔱 294 • 14h ago
+⭐ 2.4k • 🔱 297 • 15h ago
 
 ---
 
@@ -709,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 161 • 3h ago
+⭐ 2.4k • 🔱 162 • 4h ago
 
 ---
 
@@ -729,7 +729,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 2.0k • 🔱 211 • 4d ago
+⭐ 2.0k • 🔱 212 • 4d ago
 
 ---
 
@@ -739,7 +739,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `Python`
 
-⭐ 1.8k • 🔱 231 • 15h ago
+⭐ 1.8k • 🔱 242 • 16h ago
 
 ---
 
