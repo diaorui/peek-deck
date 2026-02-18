@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-18T14:28:03.953463+00:00'
+updated: '2026-02-18T15:27:59.689900+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 18, 2026 at 14:28 UTC  
+**Last Updated:** February 18, 2026 at 15:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 If you're curious about how it actually works, check out my full video here 🥺🥺🥹: https://youtu.be/SyGJ2h8aM98?si=gUOa0jV8wwxQTysp The video shows the entire 100% automated pipeline and, more importantly, how the model autonomously recovers from mistakes (like when the pancake doesn't land perfectly). It's much more than just a simple motion sequence! GitHub & Hugging Face links are in the description of the video. I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM101. Is it faster than cooking by hand? No. But is it way cooler? I think so. Honestly, I didn't expect ACT (Action Chunking Transformer) to handle physical tasks this effectively. I thought it might be limited, but it turns out it actually performs way better when trained on short, simple primitives. So, I decomposed the cooking process into three tasks and implemented a high-level planner to orchestrate them. The GIF above highlights Task2, which focuses specifically on the flipping motion. Task 1: Batter pouring \ Task 2: Pancake flipping \ Task 3: Plating Check out the full automated operation video on my YouTube.
 
-21h ago
+22h ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -56,13 +56,13 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
 
-23h ago
+1d ago
 
 ---
 
 **[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -70,7 +70,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
 
-16h ago
+17h ago
 
 ---
 
@@ -82,7 +82,7 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 **[Preparing the first ALVE-X order. From idea to reality. #RobotArm #Mechatronics #DIAIndustries #Engineering #prototype](https://www.reddit.com/r/robotics/comments/1r7on9l/preparing_the_first_alvex_order_from_idea_to/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 **[Straight out of a movie... FuturisticMAXX 🤯](https://www.reddit.com/r/robotics/comments/1r6bwk1/straight_out_of_a_movie_futuristicmaxx/)**
 
-1d ago
+2d ago
 
 ---
 
@@ -108,7 +108,7 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -116,15 +116,7 @@ The Guardian • 1h ago
 
 Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
 
-Business Insider • 18h ago
-
----
-
-**[AI-enabled robotics could shift the balance of power in global manufacturing, says CEO of Alphabet company](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
-
-When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
-
-CNBC • 2h ago
+Business Insider • 19h ago
 
 ---
 
@@ -132,15 +124,23 @@ CNBC • 2h ago
 
 In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
 
-Show Me Mizzou • 1h ago
+Show Me Mizzou • 2h ago
 
 ---
 
-**[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
+**[AI-enabled robotics could shift the balance of power in global manufacturing, says CEO of Alphabet company](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
 
-Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
+When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
 
-Fox News • 1d ago
+CNBC • 3h ago
+
+---
+
+**[Indian university faces backlash for claiming Chinese robodog as own at AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
+
+A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
+
+BBC • 4h ago
 
 ---
 
@@ -150,35 +150,35 @@ The Economist • 1d ago
 
 ---
 
-**[Bellefontaine Robotics make strong run at Meaden and Moore](https://www.peakofohio.com/local-news/bellefontaine-robotics-make-strong-run-at-meaden-and-moore/)**
-
-Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
-
-Peak of Ohio • 1d ago
-
----
-
-**[Indian university faces backlash for claiming Chinese robodog as own at AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
-
-A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
-
-BBC • 3h ago
-
----
-
-**[IFR releases position paper on AI in robotics](https://www.therobotreport.com/ifr-releases-position-paper-ai-robotics/)**
-
-Artificial intelligence is transforming the robotics field at a rapid pace, according to the International Federation of Robotics or IFR.
-
-The Robot Report • 16h ago
-
----
-
 **[Is Serve Robotics' Urban Expansion Supporting Long-Term Demand?](https://finance.yahoo.com/news/serve-robotics-urban-expansion-supporting-130700127.html)**
 
 Can SERV's expanding urban footprint and rising sidewalk delivery usage translate into durable long-term demand?
 
 Yahoo Finance • 1d ago
+
+---
+
+**[20% of U.S. jobs are highly vulnerable to robots and automation, economists say](https://www.cbsnews.com/news/automation-robotics-jobs-most-vulnerable/)**
+
+More than half of jobs in manufacturing and transportation could be automated over the next 20 years, according to Oxford Economics.
+
+CBS News • 18h ago
+
+---
+
+**[Chinese kung-fu robots steal the show in world's most-watched TV program](https://www.lemonde.fr/en/economy/article/2026/02/17/chinese-kung-fu-robots-steal-the-show-in-world-s-most-watched-tv-program_6750576_19.html)**
+
+Watched by 600 million viewers, the annual gala broadcast by national television channel CCTV for Lunar New Year's Eve serves as a showcase for China's advances in robotics and artificial intelligence.
+
+Le Monde.fr • 1d ago
+
+---
+
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+
+KWQC • 2d ago
 
 ---
 
@@ -192,7 +192,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 45K • 👍 563 • 💬 345 • ⏱️ 2:36 • 13h ago
+👁️ 55K • 👍 634 • 💬 400 • ⏱️ 2:36 • 14h ago
 
 ---
 
@@ -202,7 +202,17 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 30K • 👍 607 • 💬 252 • ⏱️ 2:00 • 21h ago
+👁️ 37K • 👍 700 • 💬 291 • ⏱️ 2:00 • 22h ago
+
+---
+
+**[The Real AI Crisis: It’s Not The Robots (Here’s What Actually Threatens Us)](https://www.youtube.com/watch?v=zVj4b_uImZE)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+
+📺 Julia McCoy
+
+👁️ 14K • 👍 958 • 💬 128 • ⏱️ 9:04 • 1d ago
 
 ---
 
@@ -212,7 +222,17 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 537K • 👍 7K • 💬 1K • ⏱️ 1:41 • 1d ago
+👁️ 548K • 👍 7K • 💬 1K • ⏱️ 1:41 • 1d ago
+
+---
+
+**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
+
+China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
+
+📺 Guardian News
+
+👁️ 139K • 👍 228 • 💬 138 • ⏱️ 0:52 • 10h ago
 
 ---
 
@@ -222,17 +242,17 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 105K • 👍 2K • 💬 313 • ⏱️ 9:26 • 1d ago
+👁️ 107K • 👍 2K • 💬 315 • ⏱️ 9:26 • 1d ago
 
 ---
 
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+**[China&#39;s kung fu robots SHOCK AND AMAZE the world](https://www.youtube.com/watch?v=uCHPFZu7XN4)**
 
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+In this conversation, Andy Boreham and Dr. Warwick Powell discuss the recent advancements in humanoid robotics showcased ...
 
-📺 AI Revolution
+📺 Reports on China
 
-👁️ 45K • 👍 973 • 💬 143 • ⏱️ 12:43 • 2d ago
+👁️ 26K • 👍 3K • 💬 463 • ⏱️ 11:25 • 6h ago
 
 ---
 
@@ -242,7 +262,17 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 710K • 👍 13K • 💬 6K • ⏱️ 2:37 • 1d ago
+👁️ 759K • 👍 14K • 💬 6K • ⏱️ 2:37 • 1d ago
+
+---
+
+**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+
+China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+
+📺 AI Revolution
+
+👁️ 45K • 👍 982 • 💬 146 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -252,37 +282,7 @@ The Sun brings you breaking news and in-depth analysis on the stories that matte
 
 📺 The Sun
 
-👁️ 11K • 👍 134 • 💬 78 • ⏱️ 1:18 • 1d ago
-
----
-
-**[China&#39;s Lunar New Year tech showcase](https://www.youtube.com/watch?v=lq0OKuX-U-U)**
-
-CNBC's Deirdre Bosa reports on news regarding Alibaba and ByteDance.
-
-📺 CNBC Television
-
-👁️ 46K • 👍 572 • 💬 526 • ⏱️ 2:57 • 21h ago
-
----
-
-**[Robot Grandmothers Are Coming #humanoidrobot #robotics #uncannyvalley  #airobot](https://www.youtube.com/watch?v=8lDMm35lJqI)**
-
-Chinese engineers have developed a hyper-realistic replica of veteran Chinese actress Cai Ming. Engineers from the Beijing ...
-
-📺 Kalil 4.0
-
-👁️ 2K • 👍 48 • 💬 1 • ⏱️ 0:53 • 11h ago
-
----
-
-**[Dancing humanoid robots take centre stage at China&#39;s Lunar New Year Gala](https://www.youtube.com/watch?v=HEuhhanh878)**
-
-The world is ringing in the year of the Fire Horse and China is marking Lunar New Year with an extraordinary and unique ...
-
-📺 Al Jazeera English
-
-👁️ 45K • 👍 632 • 💬 344 • ⏱️ 7:31 • 21h ago
+👁️ 11K • 👍 139 • 💬 81 • ⏱️ 1:18 • 1d ago
 
 ---
 

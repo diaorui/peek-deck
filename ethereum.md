@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-18T14:28:03.950305+00:00'
+updated: '2026-02-18T15:27:59.686690+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 14:28 UTC  
+**Last Updated:** February 18, 2026 at 15:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,993.53
+### $1,988.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** +1.1%  
-**30d:** -33.0%  
-**90d:** -28.8%  
-**1y:** -27.5%  
+**24h:** -0.1%  
+**7d:** +1.7%  
+**30d:** -32.6%  
+**90d:** -28.4%  
+**1y:** -27.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.04B
+**Market Cap:** $239.55B
 Rank #2
 
 **Circulating Supply:** 120,692,424 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.0%
+-59.9%
 
 **All-Time Low:** $0.43
-+457321.7%
++457416.4%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
-
----
-
-**[The first confirmed case of vibecoded defi being exploited](https://www.reddit.com/r/ethereum/comments/1r7yg6e/the_first_confirmed_case_of_vibecoded_defi_being/)**
-
-https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56b50638038f9fa552f129bd681c7bc814ffcf I can't be happy about people getting hacked. But a tiny asshole part of myself is satisfied and hoping this might turn people around from vibe coding.
-
-5h ago
+9h ago
 
 ---
 
@@ -88,7 +80,23 @@ https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56
 
 This is a good post on the impact of surveillance in Iran: https://www.myprivacy.blog/the-digital-iron-curtain-how-iran-built-the-worlds-most-invasive-surveillance-state/ It's worth reading. IMO one mistake that freedom advocates often make is that we talk about privacy violation and surveillance as "dystopian", using the word as a semantic stop sign: we know it means "bad", we nod along, and don't really go further to clarify why it's bad. I worry that this approach is long-run unhealthy: when we criticize various companies and countries for being "dystopian" and stop there, then to someone who's not already in the same memeplex, it sounds like we're basically criticizing companies and countries for not complying with our culture's aesthetic preferences. Which is ... duh, companies and countries are supposed to not comply with each other's aesthetic preferences, that's the whole point of the "pluralism" thing. What the above article makes clear so well is that "dystopian" surveillance is not bad because it's "dystopian", it's bad because it makes a concrete property of the world worse: the power balance between individual and state. Surveillance enables an outcome where basically everyone other than police and security forces has no opportunity whatsoever to challenge the political status quo without being punished. This means an outcome where a political regime can remain in power forever, without satisfying more than a very small coalition of people who have the eyes and the guns (now drones). The Dictator's Handbook talks about "large coalition" and "small coalition" governments; large coalition governments are the ones that are more pro-human, because they, well, have to keep a large coalition happy. Small coalition ones are the really nasty ones. Here is the near-term dark outcome of dictatorship + automated warfare + surveillance: a regime can literally survive with a coalition of size 1, because an army of all-seeing eyes and robots can defeat the entire populace in battle if needed. In Iran, we see what just dictatorship with surveillance can do, once you add automated police, you get to the unholy trifecta. I don't know of a good solution to this. Privacy technology, as well as more work on censorship-resistant internet (I think we should strive for at least basic-quality internet, eg. 1 Mbps, being a global human right outside the domain of nation-state sovereignty), can help somewhat to reduce the possibility of total government control. But what else? BTW one implicit frame in the article I take some issue with is framing Iran + Russia + China as the unique antagonists (both in surveillance they do internally, and in the technology they export to other countries). They do a lot of dystopian shit of both types. However, Israeli and US tech companies, and undoubtedly tech companies from other Western nations, also do a lot of dystopian shit. Perhaps one key difference between the surveillance described above, and the Western type, is: The surveillance in the above article is about exercising great control over a medium area: you can see everything, but it requires active participation of the government of the territory being surveilled. The Israeli / US / Western flavor is about exercising medium control over a great area: there are more limits to how much they can do, but their surveillance is global: they know what people are doing even in countries and territories they have no presence in. The distinction is not absolute: Israeli surveillance backstops a lot of its human rights abuse in Palestine, US surveillance reinforces ICE abuses (see the recent article about Homeland Security demanding social media firms reveal names of anti-ICE protesters), etc, and "transnational repression" is done by anti-Western countries. But on average, the above seems to be the pattern. The two are differently scary. The former for the reasons I described above. The latter because it allows global projection of power: a politician or civil servant in one country now has to worry about being blackmailed, droned or otherwise attacked from other countries. The USA has shown willingness to go after individual EU officials, ICC officials (see recent articles on both), and others. Ultimately, I suspect that even democratic governments will want more privacy to protect themselves, and we will have to have deep conversations about what "democratic accountability" means: how can a civil servant be accountable to the people, but not accountable to foreign spooks? My high-level frame is: privacy generally helps whoever is weaker. "Weaker" does not mean "moral": sometimes the weaker side is criminal. But in the 21st century, we are at serious risk of stronger factions using modern technologies to establish unbreakable lock-in to power. And so on average, reducing the gradient of power, giving the weak a fighting chance, is something that the world desperately needs.
 
-1h ago
+2h ago
+
+---
+
+**[The first confirmed case of vibecoded defi being exploited](https://www.reddit.com/r/ethereum/comments/1r7yg6e/the_first_confirmed_case_of_vibecoded_defi_being/)**
+
+https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56b50638038f9fa552f129bd681c7bc814ffcf I can't be happy about people getting hacked. But a tiny asshole part of myself is satisfied and hoping this might turn people around from vibe coding.
+
+6h ago
+
+---
+
+**[Switched from first-gen hardware wallets to fully airgapped QR signing... and wow. [Keystone 3 Pro review]](https://www.reddit.com/r/ethereum/comments/1r85liq/switched_from_firstgen_hardware_wallets_to_fully/)**
+
+USB cables are the worst part of hardware wallet UX. Until very recently, transacting onchain for me meant enduring the same listless ritual: scavenging for the cables and adapters, laboriously plugging it in, hoping the USB port doesn't malfunction mid-signature or power off the bloody device, then unplugging and putting everything away. Every single time. No wonder people don’t use crypto as much as they could. Then a friend mentioned a "fully airgapped" alternative. No cables. No Bluetooth. Just QR codes. I was skeptical, but intrigued — how do you sign a transaction with no physical connection whatsoever? As a matter of fact, I found the QR-code workflow to be wonderfully elegant and simple. MetaMask or Rabby generates a transaction QR code. The Keystone's built-in camera scans it and signs offline. You scan the signed QR back with your laptop or phone. Done. Not a single cable had to be scrounged up. Neither was a bluetooth connection risked. No greater attack surface beyond your own eyeballs verifying what's on-screen. I've been testing the Keystone 3 Pro for the past while, and there were genuine surprises. The fingerprint unlock replaces PIN entry entirely — not just for unlocking, but for authorizing transactions. It stores up to 3 separate secret recovery seed phrases on one device = plausible deniability. And the 4-inch touchscreen is a godsend for clear signing. It does come with its flaws: The battery sucks with its 1000mAh lithium-ion. The touchscreen and fingerprint scanner can be finnicky. And it’s a HK-based company with Chinese manufacturing ties… which will understandably give some people pause. Even if their firmware and hardware are open source and have been publicly audited by SlowMist, Keylabs, and Least Authority. I put together a comprehensive review covering security architecture, form factor, usability, and whether the $150 price tag is actually justified: https://youtu.be/fk-cC0WyVgY For those of you still on first-gen cable-based wallets — have you considered airgapped? And for anyone already using Keystone, curious how your experience compares to mine! ———— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! 🥰
+
+🔗 [youtu.be](https://youtu.be/fk-cC0WyVgY) • 13m ago
 
 ---
 
@@ -96,7 +104,7 @@ This is a good post on the impact of surveillance in Iran: https://www.myprivacy
 
 I haven't been in the loop with LayerZero however it seems like they have implemented their own ZK Virtual Machine with "millions" of transactions on a raspberry pi with etheruem level decentralization, etc etc. Does anyone here actually know what the hype is and if it's accurate? I can't find much on it. I know with the ZKEVM, the roadmap is still a couple of years away and from my understanding from the info posted by Justin Drake and LEAN Ethereum, they seem to be at the cutting edge so where did LayerZero come from?
 
-14h ago
+15h ago
 
 ---
 
@@ -140,14 +148,6 @@ We're a group of researchers and have just prepared a draft addressing a gap in 
 
 ---
 
-**[OWASP Smart Contract Top 10 (2026) Released Built on Real-World Exploit Data](https://www.reddit.com/r/ethereum/comments/1r6bn2l/owasp_smart_contract_top_10_2026_released_built/)**
-
-CredShields and SolidityScan are proud to have contributed to the release of the OWASP Smart Contract Top 10 (2026). The OWASP Smart Contract Top 10 defines the primary contract-level failure patterns that repeatedly lead to losses across blockchain systems. It focuses on real-world exploit trends and the vulnerabilities that continue to impact protocols in production. A sincere thank you to the Ethereum Foundation’s Ecosystem Support Program for supporting the OWASP Smart Contract Security initiative and helping advance shared security standards for the ecosystem. Community-driven standards like this only stay relevant through collaboration, research, and practitioner input. We’re grateful to be part of that effort.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ CredShields and SolidityScan are proud to have contributed to the release of the
 
 A BlackRock affiliate purchased 4,000 seed shares of the fund for $100,000, providing the initial capital the trust will use to purchase ether, according to an amended S-1 filing.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -186,7 +186,7 @@ TradingView • 1d ago
 
 Ten years after the famous hack, the DAO Security Fund has decided to stake the untouched ETH and use the yield to fund Ethereum security initiatives, honor claims indefinitely, and professionalize governance and key management.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -194,21 +194,7 @@ CoinDesk • 1h ago
 
 Ethereum could more than double in price in 2026 to reclaim its all-time high near $5,000.
 
-The Motley Fool • 2h ago
-
----
-
-**[Peter Thiel Quietly Exits Ethereum Treasury Firm ETHZilla – Warning Sign for the DAT Model?](https://finance.yahoo.com/news/peter-thiel-quietly-exits-ethereum-122914632.html)**
-
-Peter Thiel just made a quiet but loud move. He and Founders Fund have fully exited their position in Ethereum treasury firm ETHZilla. The confirmation came through a fresh 13G filing with the SEC.That is a sharp pivot. Just months ago, Thiel’s entry sent the stock flying more than 90%. ...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Ethereum At Risk Of Falling Under $996 (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4871040-ethereum-at-risk-of-falling-under-996)**
-
-Seeking Alpha • 18h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -216,7 +202,21 @@ Seeking Alpha • 18h ago
 
 Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
+
+---
+
+**[Tom Lee Expects 'Defining Year for Ethereum' as BitMine Buys ETH Amid 'Rock Bottom' Vibes](https://finance.yahoo.com/news/tom-lee-expects-defining-ethereum-165418778.html)**
+
+BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Ethereum At Risk Of Falling Under $996 (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4871040-ethereum-at-risk-of-falling-under-996)**
+
+Seeking Alpha • 19h ago
 
 ---
 
@@ -232,13 +232,23 @@ TradingView • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[BMNR Update | The Convergence of AI Agents on Ethereum: Early Signals](https://www.youtube.com/watch?v=ZiTuj6QL-pM)**
+
+BMNR is aggressively accumulating ETH while positioning for something much bigger. On top of becoming the settlement layer ...
+
+📺 The Value Thinker
+
+👁️ 1K • 👍 183 • 💬 21 • ⏱️ 18:56 • 2h ago
+
+---
+
 **[BLACKROCK&#39;S BITCOIN &amp; ETHEREUM ETF SECRETS REVEALED &amp; CRYPTO FUND RAISES $650 MILLION!](https://www.youtube.com/watch?v=y8d0s9S1hC0)**
 
 Crypto News: BlackRock begins acquiring ETH for upcoming Ethereum staking ETF. Abu Dhabi funds held over $1 billion of ...
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 429 • 💬 88 • ⏱️ 16:00 • 9h ago
+👁️ 5K • 👍 474 • 💬 91 • ⏱️ 16:00 • 10h ago
 
 ---
 
@@ -248,27 +258,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 138 • 💬 103 • ⏱️ 14:18 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_v6jsscn71g)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 140 • 💬 12 • ⏱️ 6:02 • 13h ago
-
----
-
-**[BITCOIN: It&#39;s Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8Z5JBHB10hU)**
-
-BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 308 • 💬 81 • ⏱️ 15:02 • 16h ago
+👁️ 5K • 👍 140 • 💬 104 • ⏱️ 14:18 • 1d ago
 
 ---
 
@@ -278,27 +268,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 76 • 👍 10 • 💬 1 • ⏱️ 4:35 • 4h ago
+👁️ 120 • 👍 12 • 💬 1 • ⏱️ 4:35 • 5h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Sf7WH37pgOk)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_v6jsscn71g)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 161 • 💬 6 • ⏱️ 5:28 • 23h ago
+👁️ 2K • 👍 143 • 💬 12 • ⏱️ 6:02 • 14h ago
 
 ---
 
-**[Why Wall Street Only Trusts Bitcoin and Ethereum](https://www.youtube.com/watch?v=CsJYp1hdLcE)**
+**[BITCOIN: It&#39;s Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8Z5JBHB10hU)**
 
-Bitcoin just took another brutal correction, down 50%, and no, this isn't the first time we've seen this movie. But something bigger ...
+BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Kevin O'Leary
+📺 Crypto World
 
-👁️ 73K • 👍 656 • 💬 83 • ⏱️ 1:34 • 1d ago
+👁️ 10K • 👍 320 • 💬 82 • ⏱️ 15:02 • 17h ago
 
 ---
 
@@ -308,7 +298,17 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 236 • 💬 100 • ⏱️ 25:32 • 1d ago
+👁️ 4K • 👍 238 • 💬 100 • ⏱️ 25:32 • 1d ago
+
+---
+
+**[Why Wall Street Only Trusts Bitcoin and Ethereum](https://www.youtube.com/watch?v=CsJYp1hdLcE)**
+
+Bitcoin just took another brutal correction, down 50%, and no, this isn't the first time we've seen this movie. But something bigger ...
+
+📺 Kevin O'Leary
+
+👁️ 89K • 👍 732 • 💬 92 • ⏱️ 1:34 • 1d ago
 
 ---
 
@@ -318,17 +318,17 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 280 • 💬 29 • ⏱️ 34:48 • 17h ago
+👁️ 3K • 👍 288 • 💬 29 • ⏱️ 34:48 • 18h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=Xt5MTMqLnnQ)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Sf7WH37pgOk)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Gyan
+📺 More Crypto Online
 
-👁️ 68 • 👍 17 • ⏱️ 6:51 • 1h ago
+👁️ 2K • 👍 161 • 💬 6 • ⏱️ 5:28 • 1d ago
 
 ---
 
