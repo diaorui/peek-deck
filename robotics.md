@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-18T19:50:42.565105+00:00'
+updated: '2026-02-18T20:40:54.713692+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 18, 2026 at 19:50 UTC  
+**Last Updated:** February 18, 2026 at 20:40 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -56,7 +56,7 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-3h ago
+4h ago
 
 ---
 
@@ -68,6 +68,12 @@ RSVP Here Food and drink will be provided. Please tell your friends.
 
 ---
 
+**[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
+
+21h ago
+
+---
+
 **[The humanoid form factor implies more than it delivers in industry](https://www.reddit.com/r/robotics/comments/1r78ba3/the_humanoid_form_factor_implies_more_than_it/)**
 
 Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
@@ -76,17 +82,11 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 ---
 
-**[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
-
-20h ago
-
----
-
 **[Added a wide NoIR camera module to my AI robot to give it "sight"](https://www.reddit.com/r/robotics/comments/1r7kayj/added_a_wide_noir_camera_module_to_my_ai_robot_to/)**
 
 just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
 
-21h ago
+22h ago
 
 ---
 
@@ -96,9 +96,11 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 ---
 
-**[Preparing the first ALVE-X order. From idea to reality. #RobotArm #Mechatronics #DIAIndustries #Engineering #prototype](https://www.reddit.com/r/robotics/comments/1r7on9l/preparing_the_first_alvex_order_from_idea_to/)**
+**[A HUD interface for my GEVO robot (Raspberry Pi + Bluetooth telemetry)](https://www.reddit.com/r/robotics/comments/1r76brc/a_hud_interface_for_my_gevo_robot_raspberry_pi/)**
 
-18h ago
+I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
+
+1d ago
 
 ---
 
@@ -110,7 +112,7 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -118,59 +120,15 @@ The Guardian • 2h ago
 
 Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
-**[Mizzou grad explores future of occupational therapy through robotics](https://showme.missouri.edu/2026/mizzou-grad-explores-future-of-occupational-therapy-through-robotics/)**
+**[igus launches new RBTX online shopping experience for robotics developers](https://www.therobotreport.com/igus-launches-new-rbtx-online-shopping-experience-robotics-developers/)**
 
-In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
+This shift to a self-serve model on RBTX removes the requirement for a sales consultation, providing a streamlined experience, igus said.
 
-Show Me Mizzou • 6h ago
-
----
-
-**[Midway Through the Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://www.etftrends.com/disruptive-technology-content-hub/midway-robotics-earnings-season-discipline-rewarded-recovery-broadening/)**
-
-ETF Trends • 5h ago
-
----
-
-**[New Middletown High School robotics class sees teens creating, competing](https://www.journal-news.com/news/new-middletown-high-school-robotics-class-sees-teens-creating-competing/HZ5XHA4OLFEDRE7KMJTR7CP4VU/)**
-
-A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
-
-Hamilton In-depth, Investigative News from Journal-News • 3h ago
-
----
-
-**[AI, robotics, data and more: Meet John Deere's latest round of collaborators](https://www.michiganfarmnews.com/ai-robotics-data-and-more-meet-john-deere-s-latest-round-of-collaborators)**
-
-Michigan Farm News
-
-Michigan Farm News • 2h ago
-
----
-
-**[From zero to Regionals: China Spring ISD Robotics rises in first season](https://www.kwtx.com/2026/02/18/zero-regionals-china-spring-isd-robotics-rises-first-season/)**
-
-State will be held in Waco and the Robotics World Championships are in Houston in May.
-
-KWTX • 7h ago
-
----
-
-**[Amazon halts Blue Jay robotics project after less than six months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
-
-Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
-
-TechCrunch • 1h ago
-
----
-
-**[Laker Robotics teacher Jeff Diebel mentors future engineers](https://www.michigansthumb.com/news/article/laker-robotics-teacher-jeff-diebel-mentors-future-21328772.php)**
-
-Huron Daily Tribune • 8h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -178,7 +136,55 @@ Huron Daily Tribune • 8h ago
 
 When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
 
-CNBC • 7h ago
+CNBC • 8h ago
+
+---
+
+**[Amazon halts Blue Jay robotics project after less than six months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
+
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
+
+TechCrunch • 2h ago
+
+---
+
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+
+KWQC • 2d ago
+
+---
+
+**[Bellefontaine Robotics make strong run at Meaden and Moore](https://www.peakofohio.com/local-news/bellefontaine-robotics-make-strong-run-at-meaden-and-moore/)**
+
+Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
+
+Peak of Ohio • 1d ago
+
+---
+
+**[Indian university faces backlash for claiming Chinese robodog as own at AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
+
+A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
+
+BBC • 9h ago
+
+---
+
+**[Inside automakers’ strategic bet on humanoid robots beyond the assembly line](https://www.autonews.com/technology/an-automakers-turn-to-robots-for-future-business-0218/)**
+
+Automakers from Tesla to Hyundai are pivoting into humanoid robots, betting their manufacturing expertise will dominate a market projected at $7.5 trillion by 2050.
+
+Automotive News • 8h ago
+
+---
+
+**[Is Serve Robotics' Urban Expansion Supporting Long-Term Demand?](https://finance.yahoo.com/news/serve-robotics-urban-expansion-supporting-130700127.html)**
+
+Can SERV's expanding urban footprint and rising sidewalk delivery usage translate into durable long-term demand?
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -192,7 +198,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 19K • 👍 892 • 💬 106 • ⏱️ 0:32 • 13h ago
+👁️ 72K • 👍 953 • 💬 115 • ⏱️ 0:32 • 13h ago
 
 ---
 
@@ -202,7 +208,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 67K • 👍 692 • 💬 444 • ⏱️ 2:36 • 19h ago
+👁️ 79K • 👍 756 • 💬 471 • ⏱️ 2:36 • 20h ago
 
 ---
 
@@ -212,37 +218,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 45K • 👍 796 • 💬 341 • ⏱️ 2:00 • 1d ago
-
----
-
-**[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
-
-Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
-
-📺 Unitree Robotics
-
-👁️ 569K • 👍 7K • 💬 1K • ⏱️ 1:41 • 2d ago
-
----
-
-**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
-
-China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
-
-📺 Guardian News
-
-👁️ 165K • 👍 267 • 💬 164 • ⏱️ 0:52 • 14h ago
-
----
-
-**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
-
-China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
-
-📺 Kalil 4.0
-
-👁️ 109K • 👍 2K • 💬 317 • ⏱️ 9:26 • 2d ago
+👁️ 54K • 👍 891 • 💬 377 • ⏱️ 2:00 • 1d ago
 
 ---
 
@@ -252,7 +228,47 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 15K • 👍 994 • 💬 130 • ⏱️ 9:04 • 1d ago
+👁️ 16K • 👍 1K • 💬 134 • ⏱️ 9:04 • 1d ago
+
+---
+
+**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
+
+China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
+
+📺 Guardian News
+
+👁️ 184K • 👍 311 • 💬 193 • ⏱️ 0:52 • 15h ago
+
+---
+
+**[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
+
+Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
+
+📺 Unitree Robotics
+
+👁️ 603K • 👍 7K • 💬 1K • ⏱️ 1:41 • 2d ago
+
+---
+
+**[Humanoid Robots Perform in China&#39;s 2026 Lunar New Year Gala](https://www.youtube.com/watch?v=LPEGve_U1cY)**
+
+Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off slick Kung fu moves alongside young martial ...
+
+📺 New York Post
+
+👁️ 16K • 👍 323 • 💬 278 • ⏱️ 2:01 • 5h ago
+
+---
+
+**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
+
+China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
+
+📺 Kalil 4.0
+
+👁️ 111K • 👍 2K • 💬 322 • ⏱️ 9:26 • 2d ago
 
 ---
 
@@ -262,7 +278,7 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 809K • 👍 15K • 💬 7K • ⏱️ 2:37 • 2d ago
+👁️ 860K • 👍 15K • 💬 7K • ⏱️ 2:37 • 2d ago
 
 ---
 
@@ -272,17 +288,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 46K • 👍 992 • 💬 147 • ⏱️ 12:43 • 2d ago
-
----
-
-**[Unnerving sword-wielding robot dances for Chinese New Year stunt](https://www.youtube.com/watch?v=SCj0ZSKKfGo)**
-
-The Sun brings you breaking news and in-depth analysis on the stories that matter most. From the ongoing war in Ukraine to ...
-
-📺 The Sun
-
-👁️ 12K • 👍 148 • 💬 84 • ⏱️ 1:18 • 1d ago
+👁️ 47K • 👍 998 • 💬 152 • ⏱️ 12:43 • 2d ago
 
 ---
 
