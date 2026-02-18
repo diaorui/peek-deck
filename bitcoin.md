@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-18T16:34:50.837307+00:00'
+updated: '2026-02-18T17:52:58.442495+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 16:34 UTC  
+**Last Updated:** February 18, 2026 at 17:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** +1.5%  
-**30d:** -23.9%  
-**90d:** -20.9%  
-**1y:** -30.4%  
+**24h:** -1.4%  
+**7d:** +1.3%  
+**30d:** -24.1%  
+**90d:** -21.0%  
+**1y:** -30.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1347.49B
+**Market Cap:** $1342.07B
 Rank #1
 
-**Circulating Supply:** 19,991,325 BTC
+**Circulating Supply:** 19,991,396 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.6%
+-46.8%
 
 **All-Time Low:** $67.81
-+99230.5%
++98900.1%
 
 ---
 
@@ -77,17 +77,29 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
+
+1h ago
+
+---
+
 **[TIL about the end of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r7twni/til_about_the_end_of_bitcoin/)**
 
 My platform provider (lightning pay) pointed out a sailient point recently. They showed how BTC had been declared "dead" 400 something times since 2009. They pointed out that if you only poked roughly $50 USD into BTC each one of those times (~20k ish total) you would be sitting on about 40 mil rn. Hard to comprehend, and especially hard for the folks that just can't get their head around it. Thoughts?
 
-11h ago
+12h ago
 
 ---
 
 **[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
 
-2h ago
+3h ago
+
+---
+
+**[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
+
+1h ago
 
 ---
 
@@ -95,15 +107,7 @@ My platform provider (lightning pay) pointed out a sailient point recently. They
 
 https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-crypto-stock-and-bond-gains/ Uh oh…
 
-23h ago
-
----
-
-**[In the video, we show how an attacker accessed our wallet seed and used Sparrow Wallet to send funds to his address. Wesatoshis detected it in real time and triggered a pre-signed panic transaction. Using RBF, it replaced the attacker’s transaction and redirected the funds back to us.](https://www.reddit.com/r/Bitcoin/comments/1r82w82/in_the_video_we_show_how_an_attacker_accessed_our/)**
-
-https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
-
-3h ago
+1d ago
 
 ---
 
@@ -111,7 +115,15 @@ https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
 
 I just hit 0.17 of a bitcoin today and wanted to document my journey here today. I know its not alot compared to what some people have but it is what it is. I also kick myself because I found an old coinbase receipt in my email from 2017 where I was buying BTC, I also had about 20k in BTC in July 2021 which I sold all of and then again in 2023 I bought a bunch and of course sold it. This time around I have a cold storage wallet that every-time I buy my BTC I sent it directly and immediately to the cold storage. I don't know where the price is going nor do i care I'm just going to keep buying a little bit everyday or week or month or whenever i can and document my journey here, BTC. I started in May of 2025 this process so lets see how long it takes me.
 
-13h ago
+14h ago
+
+---
+
+**[In the video, we show how an attacker accessed our wallet seed and used Sparrow Wallet to send funds to his address. Wesatoshis detected it in real time and triggered a pre-signed panic transaction. Using RBF, it replaced the attacker’s transaction and redirected the funds back to us.](https://www.reddit.com/r/Bitcoin/comments/1r82w82/in_the_video_we_show_how_an_attacker_accessed_our/)**
+
+https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
+
+4h ago
 
 ---
 
@@ -119,7 +131,7 @@ I just hit 0.17 of a bitcoin today and wanted to document my journey here today.
 
 Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Investments expanded their holdings of the BlackRock spot Bitcoin exchange-traded fund (IBIT) during the fourth quarter of 2025. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 8h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 9h ago
 
 ---
 
@@ -127,7 +139,7 @@ Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Invest
 
 Abu Dhabi's Mubadala Investment Company increased its position in the BlackRock IBIT Bitcoin ETF by 46 percent in the fourth quarter of 2o25. The sovereign wealth fund held approximately 12.7 million IBIT shares worth over $63o million at year-end 📈
 
-🔗 [Crypto Valley Journal](https://cvj.ch/news/abu-dhabi-staatsfonds-stocken-blackrock-bitcoin-etf-auf-ueber-1-milliarde-dollar-auf/) • 9h ago
+🔗 [Crypto Valley Journal](https://cvj.ch/news/abu-dhabi-staatsfonds-stocken-blackrock-bitcoin-etf-auf-ueber-1-milliarde-dollar-auf/) • 10h ago
 
 ---
 
@@ -139,27 +151,41 @@ An estimated 66.7% (14M BTC) is still owned by individuals per River. The big qu
 
 ---
 
-**[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
-
-8m ago
-
----
-
-**[Bitcoin miner, converting flared and stranded natural gas into clean, off-grid electricity](https://www.reddit.com/r/Bitcoin/comments/1r7jpl9/bitcoin_miner_converting_flared_and_stranded/)**
-
-... electricity that would, without Bitcoin never exist.
-
-18h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Looks for Direction After Four Straight Weekly Losses](https://www.bloomberg.com/news/articles/2026-02-16/bitcoin-looks-for-direction-after-four-straight-weekly-losses)**
+**[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqdguKJ1CIsGCNmKpFcyvaw5zlgFhawGek54itWIEPcsic7D42puu0qq&gaa_ts=6995ffd4&gaa_sig=GPYXV3AG7XQXc5Ib-WaB0QSBuXousj6ytzW59v_K4ics4FscJbYeWrhu94Avqxf222eDuwWHy-fLjAG2bZ8yyA%3D%3D)**
 
-Bloomberg.com • 2d ago
+Barron's • 20h ago
+
+---
+
+**[Goldman CEO Solomon, Long a Crypto Skeptic, Says He Owns Bitcoin](https://www.bloomberg.com/news/articles/2026-02-18/goldman-ceo-solomon-long-a-crypto-skeptic-says-he-owns-bitcoin)**
+
+Bloomberg.com • 40m ago
+
+---
+
+**[Miles Suter: Cash App Now Offers Best Bitcoin Pricing, Higher Withdrawals For Users](https://bitcoinmagazine.com/business/miles-suter-cash-app-now-offers-best-bitcoin-pricing-higher-withdrawals-for-users)**
+
+In an exclusive interview, Cash App aims to make Bitcoin foundational with improved limits, lower costs, and future Lightning payments, as shared by Miles Suter.
+
+Bitcoin Magazine • 20m ago
+
+---
+
+**[Arthur Hayes: AI will destroy jobs and that’ll send Bitcoin to a new record price](https://www.dlnews.com/articles/markets/why-arthur-hayes-says-bitcoin-price-will-surge-thanks-to-ai/)**
+
+AI is coming for white collar workers’ jobs, warns Arthur Hayes. That will trigger a debt crisis that will force the Fed into action and print money. That’s when Bitcoin is set to hit a new record, Hayes argues.
+
+dlnews.com • 1h ago
+
+---
+
+**[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
+
+Bloomberg.com • 23h ago
 
 ---
 
@@ -171,61 +197,33 @@ The Block • 1d ago
 
 ---
 
-**[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
+**[Strategy’s Bitcoin Buying Accelerates as $48 Billion BTC Stash Sits Underwater](https://finance.yahoo.com/news/strategy-bitcoin-buying-accelerates-48-161342523.html)**
 
-Bloomberg.com • 22h ago
+Strategy reported its fourth-largest Bitcoin purchase of the year, a week after Michael Saylor's defense of the company's became a meme.
 
----
-
-**[Strategy Deepens Bitcoin Bet While Shifting Risk From Debt To Equity](https://finance.yahoo.com/news/strategy-deepens-bitcoin-bet-while-151055930.html)**
-
-Strategy Inc (NasdaqGS:MSTR) purchased 2,486 bitcoins, funded through recent common and preferred stock sales. The company outlined a new capital management approach that aims to equitize a large portion of its convertible debt. Management reiterated its intention to keep accumulating Bitcoin as a core part of its corporate treasury policy. For investors watching Bitcoin focused equities, Strategy sits at the center of the conversation. The shares last closed at $128.67, with a return of...
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Goldman Sachs' David Solomon says he owns 'very little' bitcoin but watching it closely](https://www.coindesk.com/markets/2026/02/18/goldman-sachs-david-solomon-says-he-owns-very-little-bitcoin-but-watching-it-closely)**
+**[Bitcoin's Crash Is Putting Crypto Treasury Stocks To The Test](https://www.forbes.com/sites/ninabambysheva/2026/02/17/bitcoins-crash-is-putting-crypto-treasury-stocks-to-the-test/)**
 
-“I’m an observer of bitcoin,” Solomon said at the World Liberty Forum on Wednesday, saying he's still trying to understand how it moves.
-
-CoinDesk • 9m ago
+Forbes • 1d ago
 
 ---
 
-**[Bitcoin's Divergence From Nasdaq Is a Warning on Dollar Liquidity: Arthur Hayes](https://decrypt.co/358372/bitcoin-divergence-nasdaq-warning-dollar-liquidity-hayes)**
+**[Brevan Howard’s crypto fund slumped 30% in 2025 amid bitcoin rout](https://www.ft.com/content/8fc6edbb-adb8-46a2-84f4-e2b0bbc50aa2)**
 
-Arthur Hayes warns Bitcoin's divergence from a flat Nasdaq signals an AI-driven credit crisis, but experts say the timeline is overstretched.
+Hedge fund manager’s digital asset strategy stung by ‘terrible year’ for cryptocurrencies
 
-Decrypt • 12h ago
-
----
-
-**[Arthur Hayes: BTC will make new records as Fed responds to AI-related credit collapse](https://www.coindesk.com/markets/2026/02/18/bitcoin-s-plunge-signals-coming-ai-crisis-but-massive-fed-response-will-drive-new-record-high-arthur-hayes)**
-
-The rise of artificial intelligence is likely to displace millions of workers in quick order, triggering sizable credit defaults, said Hayes.
-
-CoinDesk • 1h ago
+Financial Times • 12h ago
 
 ---
 
-**[This Is Fine](https://cryptohayes.substack.com/p/this-is-fine)**
+**['Dr. Doom' Nouriel Roubini blasts bitcoin as 'bogus' and a risk to the financial system](https://www.businessinsider.com/bitcoin-dr-doom-nouriel-roubini-crypto-bogus-financial-system-risk-2026-2)**
 
-Crypto Trader Digest | Arthur Hayes • 17h ago
+Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
 
----
-
-**[GoFundMe campaign seeks to buy Bitcoin to help spur Nancy Guthrie’s release](https://fortune.com/2026/02/17/gofund-me-campaign-seeks-to-buy-bitcoin-to-help-spur-nancy-guthries-release/)**
-
-The fundraiser effort comes after a new letter was sent to TMZ demanding Bitcoin in exchange for information about Guthrie’s captors
-
-Fortune • 20h ago
-
----
-
-**[Starboard Urges Bitcoin Miner Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/articles/2026-02-18/starboard-is-said-to-urge-riot-to-speed-up-shift-to-data-centers)**
-
-Bloomberg.com • 15h ago
+Business Insider • 2h ago
 
 ---
 
@@ -261,7 +259,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 2 • 💬 0 • 22h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -275,7 +273,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 19h ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 20h ago • [b4q.io](https://b4q.io/research)
 
 ---
 
@@ -319,7 +317,7 @@ Strategy founder and executive chairman Michael Saylor discusses the current 'cr
 
 📺 Fox Business
 
-👁️ 26K • 👍 769 • 💬 791 • ⏱️ 11:33 • 9h ago
+👁️ 39K • 👍 968 • 💬 7K • ⏱️ 11:33 • 11h ago
 
 ---
 
@@ -329,7 +327,7 @@ Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will 
 
 📺 Altcoin Daily
 
-👁️ 94K • 👍 3K • 💬 534 • ⏱️ 10:49 • 1d ago
+👁️ 96K • 👍 3K • 💬 543 • ⏱️ 10:49 • 1d ago
 
 ---
 
@@ -339,7 +337,7 @@ Tom Lee just STUNNED the markets with his most important call of 2026. The legen
 
 📺 Money Talks
 
-👁️ 4K • 👍 96 • 💬 34 • ⏱️ 10:05 • 22h ago
+👁️ 4K • 👍 104 • 💬 30 • ⏱️ 10:05 • 23h ago
 
 ---
 
@@ -349,47 +347,7 @@ Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. G
 
 📺 Mark Moss
 
-👁️ 62K • 👍 3K • 💬 491 • ⏱️ 20:14 • 19h ago
-
----
-
-**[🚨 WHY I&#39;D SELL BITCOIN?!?!?!?! 😈](https://www.youtube.com/watch?v=2AmtjX07Tb8)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 12K • 👍 961 • 💬 163 • ⏱️ 13:46 • 20h ago
-
----
-
-**[Billionaires Are Buying: The Secret Move Just Exposed](https://www.youtube.com/watch?v=fpV_N5MEWuw)**
-
-Bitcoin, Gold, and AI stocks all being bought by billionaires, why? BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 6K • 👍 479 • 💬 27 • ⏱️ 16:18 • 4h ago
-
----
-
-**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
-
-Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
-
-📺 Anthony Pompliano
-
-👁️ 39K • 👍 2K • 💬 31 • ⏱️ 20:57 • 18h ago
-
----
-
-**[Bitcoin to $20k? Bobby Lee Issues URGENT Warning 🚨.](https://www.youtube.com/watch?v=yK_b77ErgyE)**
-
-Bitcoin bull Bobby Lee joins Bloomberg to warn that the crypto bull market is over and a major correction is incoming. In this video ...
-
-📺 Financial Funda
-
-👁️ 2K • 👍 91 • 💬 9 • ⏱️ 2:38 • 9h ago
+👁️ 67K • 👍 3K • 💬 529 • ⏱️ 20:14 • 20h ago
 
 ---
 
@@ -399,17 +357,57 @@ Everyone is down and I don't blame them but you are missing it. This is when ALL
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 788 • 💬 56 • ⏱️ 28:14 • 20h ago
+👁️ 13K • 👍 809 • 💬 57 • ⏱️ 28:14 • 21h ago
 
 ---
 
-**[most investors don&#39;t realize this... #bitcoin](https://www.youtube.com/watch?v=Z8IONVM7OHY)**
+**[🚨 WHY I&#39;D SELL BITCOIN?!?!?!?! 😈](https://www.youtube.com/watch?v=2AmtjX07Tb8)**
 
-Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 12K • 👍 990 • 💬 170 • ⏱️ 13:46 • 22h ago
+
+---
+
+**[Bitcoin to $20k? Bobby Lee Issues URGENT Warning 🚨.](https://www.youtube.com/watch?v=yK_b77ErgyE)**
+
+Bitcoin bull Bobby Lee joins Bloomberg to warn that the crypto bull market is over and a major correction is incoming. In this video ...
+
+📺 Financial Funda
+
+👁️ 3K • 👍 117 • 💬 11 • ⏱️ 2:38 • 11h ago
+
+---
+
+**[He looks scared](https://www.youtube.com/watch?v=U-NQD3zAOHs)**
+
+Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https://cryptofundtrader.com?fpr=altcoindaily ...
 
 📺 Altcoin Daily
 
-👁️ 2K • 👍 163 • 💬 8 • ⏱️ 1:08 • 3h ago
+👁️ 48K • 👍 3K • 💬 4K • ⏱️ 11:38 • 17h ago
+
+---
+
+**[Billionaires Are Buying: The Secret Move Just Exposed](https://www.youtube.com/watch?v=fpV_N5MEWuw)**
+
+Bitcoin, Gold, and AI stocks all being bought by billionaires, why? BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 10K • 👍 619 • 💬 42 • ⏱️ 16:18 • 5h ago
+
+---
+
+**[The Day 184 Billion Bitcoin Were Created (And Deleted)](https://www.youtube.com/watch?v=cNXJUgdHwtU)**
+
+In 2010, just one year after Bitcoin launched, 184 billion BTC were created in a single transaction. Not mined. Created. A bug in ...
+
+📺 Unpermissioned: Money Unfiltered
+
+👁️ 540 • 👍 12 • 💬 2 • ⏱️ 0:53 • 12h ago
 
 ---
 
