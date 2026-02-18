@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-18T04:54:37.168820+00:00'
+updated: '2026-02-18T06:02:22.048199+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 04:54 UTC  
+**Last Updated:** February 18, 2026 at 06:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
+**24h:** +0.5%  
 **7d:** +2.5%  
 **30d:** -32.1%  
-**90d:** -27.9%  
+**90d:** -27.8%  
 **1y:** -26.5%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I haven't been in the loop with LayerZero however it seems like they have implemented their own ZK Virtual Machine with "millions" of transactions on a raspberry pi with etheruem level decentralization, etc etc. Does anyone here actually know what the hype is and if it's accurate? I can't find much on it. I know with the ZKEVM, the roadmap is still a couple of years away and from my understanding from the info posted by Justin Drake and LEAN Ethereum, they seem to be at the cutting edge so where did LayerZero come from?
 
-4h ago
+5h ago
+
+---
+
+**[Daily General Discussion February 18, 2026](https://www.reddit.com/r/ethereum/comments/1r7v1qw/daily_general_discussion_february_18_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1m ago
 
 ---
 
@@ -88,7 +96,7 @@ I haven't been in the loop with LayerZero however it seems like they have implem
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-17h ago
+19h ago
 
 ---
 
@@ -104,7 +112,7 @@ Hi guys, i am building a DeFi project which is a bridge/swap aggregator for stab
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -128,7 +136,7 @@ CredShields and SolidityScan are proud to have contributed to the release of the
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -140,14 +148,6 @@ Hey guys, built an internal tool to help with my regression testing and automati
 
 ---
 
-**[The annual Solidity Survey is live!](https://www.reddit.com/r/ethereum/comments/1r4wtku/the_annual_solidity_survey_is_live/)**
-
-Posted by Jacob Czepluch on February 10, 2026
-
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/10/solidity-developer-survey-2025-announcement/) • 3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Posted by Jacob Czepluch on February 10, 2026
 
 A BlackRock affiliate purchased 4,000 seed shares of the fund for $100,000, providing the initial capital the trust will use to purchase ether, according to an amended S-1 filing.
 
-The Block • 10h ago
+The Block • 11h ago
 
 ---
 
@@ -182,9 +182,11 @@ TradingView • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqcu3fuQULG3p04XlA8ykub13CXjDAmqXIAoc-dY6T0HwOLS3ibGe1S-&gaa_ts=69954978&gaa_sig=OK06CsW5tS9VHdXu_QsgPDvFTZ2B59hatAjii4GLuXbUR5JwByF2gFTmFUCL_xwFh1YiWmvFUDknJ2_H9VrBZA%3D%3D)**
+**[Why Crypto Is Falling Today? Bitcoin, XRP Price, Ethereum And Dogecoin Analysis](https://www.tradingview.com/news/financemagnates:480276575094b:0-why-crypto-is-falling-today-bitcoin-xrp-price-ethereum-and-dogecoin-analysis/)**
 
-Barron's • 1d ago
+The cryptocurrency market continues its February consolidation on Tuesday, February 17, 2026, with mixed signals across major assets. Bitcoin trades at $68,362, down 0.74%, while Ethereum falls 0.85% to $1981. The market remains 50% below all-time highs, with historic velocity in the January-Februa…
+
+TradingView • 22h ago
 
 ---
 
@@ -192,15 +194,29 @@ Barron's • 1d ago
 
 Bitcoin and Ethereum have dominated crypto headlines for years, but Bitcoin has declined 22.4% year-to-date in 2026, while Ethereum has dropped 33.4% over the same period. Both show signs of exhaustion after their 2025 rallies. Three alternative cryptocurrencies have experienced different price movements than Bitcoin and Ethereum: XRP’s institutional payment infrastructure, Solana’s unmatched transaction speed, ... Forget Bitcoin and Ethereum: This is the Crypto to Buy in 2026
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Why Crypto Is Falling Today? Bitcoin, XRP Price, Ethereum And Dogecoin Analysis](https://www.tradingview.com/news/financemagnates:480276575094b:0-why-crypto-is-falling-today-bitcoin-xrp-price-ethereum-and-dogecoin-analysis/)**
+**[Bitcoin, Ethereum, XRP Drop. This Could Have a Big Impact on Crypto This Week.](https://www.barrons.com/articles/bitcoin-price-ethereum-xrp-crypto-today-0562633b?gaa_at=eafs&gaa_n=AWEtsqdFpAh6fDRavp_9OVN4qF2TxSbtkc8qWcL2V_I3ViYBEipUjFq4mVx9&gaa_ts=6995595b&gaa_sig=wnSC6vLRGfLxERDQbM-fJ0hSnXufsEo9na0NIsCQK0wkWqMTp6bA-_Owj4zgeFJBzkHDnyAYdAlh0bzwOmKTTg%3D%3D)**
 
-The cryptocurrency market continues its February consolidation on Tuesday, February 17, 2026, with mixed signals across major assets. Bitcoin trades at $68,362, down 0.74%, while Ethereum falls 0.85% to $1981. The market remains 50% below all-time highs, with historic velocity in the January-Februa…
+Barron's • 1d ago
 
-TradingView • 21h ago
+---
+
+**[Ethereum Creator Starting to Think This Whole Prediction Market Thing Might be Gambling](https://gizmodo.com/ethereum-creator-starting-to-think-this-whole-prediction-market-thing-might-be-gambling-2000722910)**
+
+Who knew being able to bet on everything would lead to people acting irresponsibly?
+
+Gizmodo • 10h ago
+
+---
+
+**[Tom Lee Expects 'Defining Year for Ethereum' as BitMine Buys ETH Amid 'Rock Bottom' Vibes](https://finance.yahoo.com/news/tom-lee-expects-defining-ethereum-165418778.html)**
+
+BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
+
+Yahoo Finance • 13h ago
 
 ---
 
@@ -208,23 +224,7 @@ TradingView • 21h ago
 
 Tom Lee's BitMine said its ether treasury has climbed to 4.37 million ETH as the firm continues aggressive accumulation market prices.
 
-The Block • 13h ago
-
----
-
-**[BlackRock Loads Up on Bitmine as $1,400 Ethereum Target Looms](https://finance.yahoo.com/news/blackrock-loads-bitmine-1-400-203847730.html)**
-
-Though the US market is closed for Presidents’ Day today, BlackRock’s IBIT ETF recorded a $9.4 million outflow on the last working day before the market closed, 13 February 2026. Bitcoin is hovering at around $68k, and it wasn’t just a panic sell—it was a playground for Wall Street. Market ...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.371 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-371-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-6-billion-302689296.html)**
-
-Bitmine has 3,040,483 staked ETH, representing $6.1 billion at $1,998 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.62% of the...
-
-PR Newswire • 15h ago
+The Block • 14h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 705 • 👍 85 • 💬 9 • ⏱️ 6:02 • 4h ago
+👁️ 705 • 👍 85 • 💬 9 • ⏱️ 6:02 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNut
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 134 • 💬 123 • ⏱️ 14:18 • 23h ago
+👁️ 4K • 👍 134 • 💬 123 • ⏱️ 14:18 • 1d ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 5K • 👍 262 • 💬 42 • ⏱️ 15:02 • 6h ago
+👁️ 5K • 👍 262 • 💬 42 • ⏱️ 15:02 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 162 • 💬 6 • ⏱️ 5:28 • 13h ago
+👁️ 2K • 👍 162 • 💬 6 • ⏱️ 5:28 • 14h ago
 
 ---
 
@@ -278,7 +278,7 @@ Crypto News: BlackRock begins acquiring ETH for upcoming Ethereum staking ETF. A
 
 📺 Thinking Crypto
 
-👁️ 227 • 👍 52 • 💬 4 • ⏱️ 16:00 • 13m ago
+👁️ 227 • 👍 52 • 💬 4 • ⏱️ 16:00 • 1h ago
 
 ---
 
@@ -288,7 +288,7 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 229 • 💬 81 • ⏱️ 25:32 • 15h ago
+👁️ 3K • 👍 229 • 💬 81 • ⏱️ 25:32 • 17h ago
 
 ---
 
@@ -298,7 +298,7 @@ As RWA takes control of the market, we look at 3 RWA leaders: Ondo, Ethereum, an
 
 📺 Altcoin Buzz
 
-👁️ 4K • 👍 237 • 💬 90 • ⏱️ 12:17 • 10h ago
+👁️ 4K • 👍 237 • 💬 90 • ⏱️ 12:17 • 11h ago
 
 ---
 
@@ -318,7 +318,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 511 • 👍 113 • 💬 13 • ⏱️ 10:53 • 2h ago
+👁️ 511 • 👍 113 • 💬 13 • ⏱️ 10:53 • 4h ago
 
 ---
 
@@ -328,7 +328,7 @@ ByBit Link To Get $600 Bonus: https://partner.bybit.com/b/TradingBitcoin Twitter
 
 📺 EmperorBTC
 
-👁️ 2K • 👍 185 • 💬 38 • ⏱️ 17:52 • 14h ago
+👁️ 2K • 👍 185 • 💬 38 • ⏱️ 17:52 • 16h ago
 
 ---
 
