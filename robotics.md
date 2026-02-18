@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-18T20:40:54.713692+00:00'
+updated: '2026-02-18T21:35:53.276576+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 18, 2026 at 20:40 UTC  
+**Last Updated:** February 18, 2026 at 21:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-18h ago
+19h ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -64,13 +64,13 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsen
 
 RSVP Here Food and drink will be provided. Please tell your friends.
 
-2h ago
+3h ago
 
 ---
 
 **[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -86,7 +86,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
 
-22h ago
+23h ago
 
 ---
 
@@ -112,7 +112,7 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -128,7 +128,7 @@ Business Insider • 1d ago
 
 This shift to a self-serve model on RBTX removes the requirement for a sales consultation, providing a streamlined experience, igus said.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -136,7 +136,7 @@ The Robot Report • 2h ago
 
 When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -144,7 +144,7 @@ CNBC • 8h ago
 
 Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 2h ago
+TechCrunch • 3h ago
 
 ---
 
@@ -168,7 +168,7 @@ Peak of Ohio • 1d ago
 
 A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -176,7 +176,7 @@ BBC • 9h ago
 
 Automakers from Tesla to Hyundai are pivoting into humanoid robots, betting their manufacturing expertise will dominate a market projected at $7.5 trillion by 2050.
 
-Automotive News • 8h ago
+Automotive News • 9h ago
 
 ---
 
@@ -198,7 +198,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 72K • 👍 953 • 💬 115 • ⏱️ 0:32 • 13h ago
+👁️ 72K • 👍 953 • 💬 115 • ⏱️ 0:32 • 14h ago
 
 ---
 
@@ -208,7 +208,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 79K • 👍 756 • 💬 471 • ⏱️ 2:36 • 20h ago
+👁️ 79K • 👍 756 • 💬 471 • ⏱️ 2:36 • 21h ago
 
 ---
 
@@ -238,7 +238,7 @@ China Media Group's 2026 Spring Festival Gala drew widespread attention with a p
 
 📺 Guardian News
 
-👁️ 184K • 👍 311 • 💬 193 • ⏱️ 0:52 • 15h ago
+👁️ 184K • 👍 311 • 💬 193 • ⏱️ 0:52 • 16h ago
 
 ---
 
@@ -258,7 +258,7 @@ Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off s
 
 📺 New York Post
 
-👁️ 16K • 👍 323 • 💬 278 • ⏱️ 2:01 • 5h ago
+👁️ 16K • 👍 323 • 💬 278 • ⏱️ 2:01 • 6h ago
 
 ---
 

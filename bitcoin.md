@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-18T20:40:54.703817+00:00'
+updated: '2026-02-18T21:35:53.268499+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 20:40 UTC  
+**Last Updated:** February 18, 2026 at 21:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
-1h ago
+2h ago
 
 ---
 
@@ -95,19 +95,19 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 My platform provider (lightning pay) pointed out a sailient point recently. They showed how BTC had been declared "dead" 400 something times since 2009. They pointed out that if you only poked roughly $50 USD into BTC each one of those times (~20k ish total) you would be sitting on about 40 mil rn. Hard to comprehend, and especially hard for the folks that just can't get their head around it. Thoughts?
 
-15h ago
+16h ago
 
 ---
 
 **[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
 
-41m ago
+1h ago
 
 ---
 
@@ -131,7 +131,7 @@ They’ll say one thing one day (get out now, BTC is going to 60k), and another 
 
 I just hit 0.17 of a bitcoin today and wanted to document my journey here today. I know its not alot compared to what some people have but it is what it is. I also kick myself because I found an old coinbase receipt in my email from 2017 where I was buying BTC, I also had about 20k in BTC in July 2021 which I sold all of and then again in 2023 I bought a bunch and of course sold it. This time around I have a cold storage wallet that every-time I buy my BTC I sent it directly and immediately to the cold storage. I don't know where the price is going nor do i care I'm just going to keep buying a little bit everyday or week or month or whenever i can and document my journey here, BTC. I started in May of 2025 this process so lets see how long it takes me.
 
-17h ago
+18h ago
 
 ---
 
@@ -139,7 +139,7 @@ I just hit 0.17 of a bitcoin today and wanted to document my journey here today.
 
 https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
 
-7h ago
+8h ago
 
 ---
 
@@ -147,7 +147,7 @@ https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
 
 Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Investments expanded their holdings of the BlackRock spot Bitcoin exchange-traded fund (IBIT) during the fourth quarter of 2025. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 12h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 13h ago
 
 ---
 
@@ -157,7 +157,7 @@ Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Invest
 
 **[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqeEVYIOKMgecms0XKcBBdF-c6-yeRN7mCfmBYmJ_KtO67CRY2P2gZPf&gaa_ts=69962741&gaa_sig=_l-tJqCwpJdyCapr8iuDdR9KeFv-JSMGlEpbrzK9pHOpgDEqM_v5CGzkfaEW40Sok9uxnevyG3wPwU-UemljKQ%3D%3D)**
 
-Barron's • 22h ago
+Barron's • 23h ago
 
 ---
 
@@ -187,13 +187,13 @@ Yahoo Finance • 1d ago
 
 Speaking at an event in Florida, the Goldman chief said he owns some bitcoin. Solomon has previously said the crypto is a speculative asset.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
 **[Goldman CEO Solomon, Long a Crypto Skeptic, Says He Owns Bitcoin](https://www.bloomberg.com/news/articles/2026-02-18/goldman-ceo-solomon-long-a-crypto-skeptic-says-he-owns-bitcoin)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -207,7 +207,7 @@ Forbes • 2h ago
 
 FOMC minutes show a divided Federal Reserve debating inflation and rate cuts, reinforcing dollar strength and weighing on Bitcoin prices.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -215,13 +215,13 @@ Yahoo Finance • 1h ago
 
 FutureBit launched the Apollo III today, a new home Bitcoin mining system combining a high-performance miner and a full Bitcoin node in a single desktop device.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
 **[Starboard Urges Bitcoin Miner Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/articles/2026-02-18/starboard-is-said-to-urge-riot-to-speed-up-shift-to-data-centers)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -263,7 +263,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 23h ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 1d ago • [b4q.io](https://b4q.io/research)
 
 ---
 
@@ -301,7 +301,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 2 • 💬 1 • 1h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 2 • 💬 1 • 2h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
 
 ---
 
@@ -325,7 +325,7 @@ Strategy founder and executive chairman Michael Saylor discusses the current 'cr
 
 📺 Fox Business
 
-👁️ 52K • 👍 1K • 💬 7K • ⏱️ 11:33 • 13h ago
+👁️ 52K • 👍 1K • 💬 7K • ⏱️ 11:33 • 14h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin bull Bobby Lee joins Bloomberg to warn that the crypto bull market is ov
 
 📺 Financial Funda
 
-👁️ 4K • 👍 153 • 💬 13 • ⏱️ 2:38 • 13h ago
+👁️ 4K • 👍 153 • 💬 13 • ⏱️ 2:38 • 14h ago
 
 ---
 
@@ -345,7 +345,7 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 4K • ⏱️ 11:38 • 20h ago
+👁️ 51K • 👍 3K • 💬 4K • ⏱️ 11:38 • 21h ago
 
 ---
 
@@ -385,7 +385,7 @@ Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. G
 
 📺 Mark Moss
 
-👁️ 71K • 👍 3K • 💬 537 • ⏱️ 20:14 • 23h ago
+👁️ 71K • 👍 3K • 💬 537 • ⏱️ 20:14 • 1d ago
 
 ---
 
@@ -395,7 +395,7 @@ Bitcoin what now Follow my $100 Million Trade for FREE & Live: https://levex.com
 
 📺 MMCrypto
 
-👁️ 21K • 👍 2K • 💬 278 • ⏱️ 6:20 • 5h ago
+👁️ 21K • 👍 2K • 💬 278 • ⏱️ 6:20 • 6h ago
 
 ---
 
@@ -405,7 +405,7 @@ Coinbase CEO Brian Armstrong and U.S. Senator Bernie Moreno sit down with CNBC's
 
 📺 CNBC Television
 
-👁️ 11K • 👍 375 • 💬 156 • ⏱️ 10:01 • 4h ago
+👁️ 11K • 👍 375 • 💬 156 • ⏱️ 10:01 • 5h ago
 
 ---
 
