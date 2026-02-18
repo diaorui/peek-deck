@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-18T18:57:28.126497+00:00'
+updated: '2026-02-18T19:50:42.555876+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 18:57 UTC  
+**Last Updated:** February 18, 2026 at 19:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 My platform provider (lightning pay) pointed out a sailient point recently. They showed how BTC had been declared "dead" 400 something times since 2009. They pointed out that if you only poked roughly $50 USD into BTC each one of those times (~20k ish total) you would be sitting on about 40 mil rn. Hard to comprehend, and especially hard for the folks that just can't get their head around it. Thoughts?
 
-13h ago
+14h ago
 
 ---
 
 **[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -115,7 +115,7 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
 
-5h ago
+6h ago
 
 ---
 
@@ -123,7 +123,7 @@ https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
 
 I just hit 0.17 of a bitcoin today and wanted to document my journey here today. I know its not alot compared to what some people have but it is what it is. I also kick myself because I found an old coinbase receipt in my email from 2017 where I was buying BTC, I also had about 20k in BTC in July 2021 which I sold all of and then again in 2023 I bought a bunch and of course sold it. This time around I have a cold storage wallet that every-time I buy my BTC I sent it directly and immediately to the cold storage. I don't know where the price is going nor do i care I'm just going to keep buying a little bit everyday or week or month or whenever i can and document my journey here, BTC. I started in May of 2025 this process so lets see how long it takes me.
 
-15h ago
+16h ago
 
 ---
 
@@ -131,7 +131,7 @@ I just hit 0.17 of a bitcoin today and wanted to document my journey here today.
 
 Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Investments expanded their holdings of the BlackRock spot Bitcoin exchange-traded fund (IBIT) during the fourth quarter of 2025. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 10h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 11h ago
 
 ---
 
@@ -139,7 +139,7 @@ Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Invest
 
 Abu Dhabi's Mubadala Investment Company increased its position in the BlackRock IBIT Bitcoin ETF by 46 percent in the fourth quarter of 2o25. The sovereign wealth fund held approximately 12.7 million IBIT shares worth over $63o million at year-end 📈
 
-🔗 [Crypto Valley Journal](https://cvj.ch/news/abu-dhabi-staatsfonds-stocken-blackrock-bitcoin-etf-auf-ueber-1-milliarde-dollar-auf/) • 11h ago
+🔗 [Crypto Valley Journal](https://cvj.ch/news/abu-dhabi-staatsfonds-stocken-blackrock-bitcoin-etf-auf-ueber-1-milliarde-dollar-auf/) • 12h ago
 
 ---
 
@@ -157,13 +157,13 @@ An estimated 66.7% (14M BTC) is still owned by individuals per River. The big qu
 
 **[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqeKV3HgVDRDx2ZOa8I5yEUHKftRpo5FtwACzSzOSmGg8DArWC0HQPad&gaa_ts=69960ec1&gaa_sig=ZHOWotosMT-jcvpNF8U3k8KmM8ki_NQgDKFE0B5BA_IM244X4l-H5CeRVwV10fZjWUavPSIVCmtrIw4DV_gJ_g%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
 **[Goldman Sachs CEO Reveals He Owns Bitcoin After Public Criticism](https://www.forbes.com/sites/martinadilicosa/2026/02/18/goldman-sachs-ceo-goes-from-bitcoin-skeptic-to-owner-as-price-falls/)**
 
-Forbes • 18m ago
+Forbes • 1h ago
 
 ---
 
@@ -171,19 +171,19 @@ Forbes • 18m ago
 
 Goldman Sachs CEO David Solomon backed Treasury Secretary Bessent, who recently had harsh words for companies like Coinbase that said no crypto legislation is better “than a bad bill.”
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Goldman CEO Solomon, Long a Crypto Skeptic, Says He Owns Bitcoin](https://www.bloomberg.com/news/articles/2026-02-18/goldman-ceo-solomon-long-a-crypto-skeptic-says-he-owns-bitcoin)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[Bitcoin Network Ready for Quantum Computing Threats](https://www.etftrends.com/coinshares-content-hub/bitcoin-network-ready-quantum-computing-threats/)**
 
-ETF Trends • 1h ago
+ETF Trends • 2h ago
 
 ---
 
@@ -191,13 +191,13 @@ ETF Trends • 1h ago
 
 In an exclusive interview, Cash App aims to make Bitcoin foundational with improved limits, lower costs, and future Lightning payments, as shared by Miles Suter.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
 **[Starboard Urges Bitcoin Miner Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/articles/2026-02-18/starboard-is-said-to-urge-riot-to-speed-up-shift-to-data-centers)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -253,7 +253,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
-⬆️ 2 • 💬 0 • 3d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 2 • 💬 0 • 4d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -261,7 +261,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 21h ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 22h ago • [b4q.io](https://b4q.io/research)
 
 ---
 
@@ -313,7 +313,7 @@ Strategy founder and executive chairman Michael Saylor discusses the current 'cr
 
 📺 Fox Business
 
-👁️ 39K • 👍 968 • 💬 7K • ⏱️ 11:33 • 12h ago
+👁️ 39K • 👍 968 • 💬 7K • ⏱️ 11:33 • 13h ago
 
 ---
 
@@ -343,7 +343,7 @@ Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. G
 
 📺 Mark Moss
 
-👁️ 67K • 👍 3K • 💬 529 • ⏱️ 20:14 • 21h ago
+👁️ 67K • 👍 3K • 💬 529 • ⏱️ 20:14 • 22h ago
 
 ---
 
@@ -353,7 +353,7 @@ Everyone is down and I don't blame them but you are missing it. This is when ALL
 
 📺 Digital Asset News
 
-👁️ 13K • 👍 809 • 💬 57 • ⏱️ 28:14 • 22h ago
+👁️ 13K • 👍 809 • 💬 57 • ⏱️ 28:14 • 23h ago
 
 ---
 
@@ -363,7 +363,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 12K • 👍 990 • 💬 170 • ⏱️ 13:46 • 23h ago
+👁️ 12K • 👍 990 • 💬 170 • ⏱️ 13:46 • 1d ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin bull Bobby Lee joins Bloomberg to warn that the crypto bull market is ov
 
 📺 Financial Funda
 
-👁️ 3K • 👍 117 • 💬 11 • ⏱️ 2:38 • 12h ago
+👁️ 3K • 👍 117 • 💬 11 • ⏱️ 2:38 • 13h ago
 
 ---
 
@@ -383,7 +383,7 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 4K • ⏱️ 11:38 • 18h ago
+👁️ 48K • 👍 3K • 💬 4K • ⏱️ 11:38 • 19h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin, Gold, and AI stocks all being bought by billionaires, why? BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 10K • 👍 619 • 💬 42 • ⏱️ 16:18 • 6h ago
+👁️ 10K • 👍 619 • 💬 42 • ⏱️ 16:18 • 7h ago
 
 ---
 
@@ -403,7 +403,7 @@ In 2010, just one year after Bitcoin launched, 184 billion BTC were created in a
 
 📺 Unpermissioned: Money Unfiltered
 
-👁️ 540 • 👍 12 • 💬 2 • ⏱️ 0:53 • 13h ago
+👁️ 540 • 👍 12 • 💬 2 • ⏱️ 0:53 • 14h ago
 
 ---
 

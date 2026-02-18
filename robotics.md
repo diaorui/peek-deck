@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-18T18:57:28.134871+00:00'
+updated: '2026-02-18T19:50:42.565105+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 18, 2026 at 18:57 UTC  
+**Last Updated:** February 18, 2026 at 19:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -56,7 +56,7 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-2h ago
+3h ago
 
 ---
 
@@ -64,7 +64,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsen
 
 RSVP Here Food and drink will be provided. Please tell your friends.
 
-1h ago
+2h ago
 
 ---
 
@@ -78,7 +78,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 **[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -86,7 +86,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
 
-20h ago
+21h ago
 
 ---
 
@@ -98,7 +98,7 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 **[Preparing the first ALVE-X order. From idea to reality. #RobotArm #Mechatronics #DIAIndustries #Engineering #prototype](https://www.reddit.com/r/robotics/comments/1r7on9l/preparing_the_first_alvex_order_from_idea_to/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -110,7 +110,7 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -118,7 +118,7 @@ The Guardian • 1h ago
 
 Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
 
-Business Insider • 22h ago
+Business Insider • 23h ago
 
 ---
 
@@ -126,13 +126,13 @@ Business Insider • 22h ago
 
 In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
 
-Show Me Mizzou • 5h ago
+Show Me Mizzou • 6h ago
 
 ---
 
 **[Midway Through the Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://www.etftrends.com/disruptive-technology-content-hub/midway-robotics-earnings-season-discipline-rewarded-recovery-broadening/)**
 
-ETF Trends • 4h ago
+ETF Trends • 5h ago
 
 ---
 
@@ -140,7 +140,7 @@ ETF Trends • 4h ago
 
 A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
 
-Hamilton In-depth, Investigative News from Journal-News • 2h ago
+Hamilton In-depth, Investigative News from Journal-News • 3h ago
 
 ---
 
@@ -148,7 +148,7 @@ Hamilton In-depth, Investigative News from Journal-News • 2h ago
 
 Michigan Farm News
 
-Michigan Farm News • 1h ago
+Michigan Farm News • 2h ago
 
 ---
 
@@ -156,7 +156,7 @@ Michigan Farm News • 1h ago
 
 State will be held in Waco and the Robotics World Championships are in Houston in May.
 
-KWTX • 6h ago
+KWTX • 7h ago
 
 ---
 
@@ -164,13 +164,13 @@ KWTX • 6h ago
 
 Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 30m ago
+TechCrunch • 1h ago
 
 ---
 
 **[Laker Robotics teacher Jeff Diebel mentors future engineers](https://www.michigansthumb.com/news/article/laker-robotics-teacher-jeff-diebel-mentors-future-21328772.php)**
 
-Huron Daily Tribune • 7h ago
+Huron Daily Tribune • 8h ago
 
 ---
 
@@ -178,7 +178,7 @@ Huron Daily Tribune • 7h ago
 
 When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -192,7 +192,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 19K • 👍 892 • 💬 106 • ⏱️ 0:32 • 12h ago
+👁️ 19K • 👍 892 • 💬 106 • ⏱️ 0:32 • 13h ago
 
 ---
 
@@ -202,7 +202,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 67K • 👍 692 • 💬 444 • ⏱️ 2:36 • 18h ago
+👁️ 67K • 👍 692 • 💬 444 • ⏱️ 2:36 • 19h ago
 
 ---
 
@@ -232,7 +232,7 @@ China Media Group's 2026 Spring Festival Gala drew widespread attention with a p
 
 📺 Guardian News
 
-👁️ 165K • 👍 267 • 💬 164 • ⏱️ 0:52 • 13h ago
+👁️ 165K • 👍 267 • 💬 164 • ⏱️ 0:52 • 14h ago
 
 ---
 

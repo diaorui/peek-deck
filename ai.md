@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-18T18:57:28.118840+00:00'
+updated: '2026-02-18T19:50:42.547402+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 18, 2026 at 18:57 UTC  
+**Last Updated:** February 18, 2026 at 19:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.
 
-6h ago
+7h ago
 
 ---
 
@@ -65,7 +65,7 @@ I work on AI deployment inside my company, and the gap between what AI looks lik
 
 AI startup ElevenLabs, valued at $11 billion, employs small teams with high sales quotas.
 
-🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 17h ago
+🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 18h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
 
-7h ago
+8h ago
 
 ---
 
@@ -81,7 +81,7 @@ You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. W
 
 It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
 
-🔗 [bbc.com](https://www.bbc.com/news/articles/c62dlvdq3e3o) • 48m ago
+🔗 [bbc.com](https://www.bbc.com/news/articles/c62dlvdq3e3o) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ It comes in the same week an OpenAI researcher resigned amid concerns about its 
 
 Human kind for the first time dealing with something that is more intelligent than it , If we see history , humans Got rock - made stones , wheels for survival. Made fire with it , made weapons fr hunting . Made animals as source of transport., All these since we are in need of food. Got money - needed different type of things , so to share he created money to share stuff between communities. Got metal - made engines, guns ., utensils etc since he needed to save his community from others . He left animals and used engines fr transportation. But in this loop even created wars. Got electricity, internet - used fr communication, making his life way better and comfortable. Got AI - need to see what happens. In this analogy, when he created machines he transformed his transportation from animals to machines ( something that are physically more powerful than them ) . With this change humans got more comfortable and less stronger ( people who used to ride horses used to be damn strong in strength) . Advantage is now he can travel way far than before. This is definitely an advantage. Now human kind got AI . A tool that is stronger in intelligence. I think for the first time humans are dealing with something smarter than them. That too in this corporate loop . As a software dev i love using AI . Yes , i miss searching stack overflow, writing one method which works and testing it . Now i am js asking AI to test method , optimise my method and check if everything is okay without breaking. I can surely say time to do same work reduced , the way i think completely changed . Now i am spending more time in making my code better better and better . But completely depending on AI fr work is what i surely hate . If i give it freedom to write code trust me AI is adding unnecessary lines of code and making it more complex. Imagine a family of 4 with 100 dollars as income was living a happy life . Now they saw a new robot cook which actually cooks damn good in advertising. Son thought lets get it since monthly subscription only 20$ . Now dad will think since it will help everyone he got it and for first few months everything is good . Now what will he do if subscription went from 20 to 50$ ? Is a home ready to spend that much fr making things easy even though everyone got habituated in home with it ? Or will he get another small robot with will just do chopping fr 20$ ? Or will dad think mom is unnecessary in home and move her out ? Or robot will become super intelligent and learn everything happens at home and one day takes over complete control by eliminating all 4 and use the 100$ completely? Time will tell.
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ I'm a professional researcher. I've spent a long time in long-form conversations
 
 "Elon Musk’s SpaceX and its subsidiary xAI are joining a secretive US Department of Defense competition centered on a voice command and control tool that could deploy multiple autonomous systems. The project, launched in January with a $100-million budget and a six-month timeline, requires software that could coordinate unmanned swarming operations across the air and at sea, according to Bloomberg. The Pentagon’s Defense Innovation Unit and its new Defense Autonomous Warfare Group under the US Special Operations Command are overseeing the competition. The contest will unfold in phases, starting with software development before advancing to live trials. SpaceX and xAI’s participation marks an expansion of Musk’s defense work into artificial intelligence-enabled weapons software, as the Pentagon moves to accelerate drone development and domestic manufacturing while cutting bureaucracy. It also follows Washington’s call for cost-effective counter-drone solutions, particularly to protect critical military and civilian infrastructure as well as large public events. Separately, xAI, alongside other firms such as ChatGPT owner OpenAI, secured defense contracts worth up to $200 million each last year to expand advanced artificial intelligence use across military systems."
 
-🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 21h ago
+🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 22h ago
 
 ---
 
@@ -113,7 +113,7 @@ I'm a professional researcher. I've spent a long time in long-form conversations
 
 Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day 
 
 **[Opinion | The A.I. Disruption Has Arrived, and It Sure Is Fun](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -139,7 +139,7 @@ Fortune • 1d ago
 
 High school students are less concerned about AI's impact on their future employment prospects, according to a new report.
 
-CNBC • 35m ago
+CNBC • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 35m ago
 
 Citi Wealth Chief Investment Officer Kate Moore comes on Morning Brief to discuss whether the recent sell-off in software stocks is now considered "overdone" as Wall Street's fears around AI begin to ease. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 27m ago
 
 Netflix sent TikTok parent ByteDance a cease-and-desist letter to over its AI video tool Seedance, following in Disney and Paramount's footsteps.
 
-Business Insider • 49m ago
+Business Insider • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Business Insider • 49m ago
 
 Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interest
 
-The Guardian • 16h ago
+The Guardian • 17h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 16h ago
 
 A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -179,7 +179,7 @@ BBC • 7h ago
 
 Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.
 
-blog.google • 2h ago
+blog.google • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Axios • 1d ago
 
 Republicans fear backlash against White House agenda could undermine support in this year’s midterm elections
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -205,7 +205,7 @@ Financial Times • 13h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 744 • 💬 660 • 17h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 744 • 💬 660 • 18h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -263,7 +263,7 @@ I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and
 
 fragments 18 Feb 2026
 
-⬆️ 144 • 💬 97 • 2h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 144 • 💬 97 • 3h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -277,7 +277,7 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 **[An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://news.ycombinator.com/item?id=47051956)**
 
-⬆️ 117 • 💬 80 • 23h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
+⬆️ 117 • 💬 80 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
 
 ---
 
@@ -371,7 +371,7 @@ Revisions to Bureau of Labor Statistics job counts combined with strong GDP grow
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 4K • 👍 155 • 💬 20 • ⏱️ 12:15 • 20h ago
+👁️ 4K • 👍 155 • 💬 20 • ⏱️ 12:15 • 21h ago
 
 ---
 
@@ -381,7 +381,7 @@ In this video I go over the AI tools that are changing faceless YouTube channels
 
 📺 Make Money Matt
 
-👁️ 16K • 👍 908 • 💬 118 • ⏱️ 23:34 • 17h ago
+👁️ 16K • 👍 908 • 💬 118 • ⏱️ 23:34 • 18h ago
 
 ---
 
@@ -653,7 +653,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 12.6k • 🔱 1.3k • 1h ago
+⭐ 12.6k • 🔱 1.3k • 2h ago
 
 ---
 
@@ -691,7 +691,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.8k • 🔱 277 • 1h ago
+⭐ 2.8k • 🔱 277 • 2h ago
 
 ---
 
@@ -701,7 +701,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.5k • 🔱 304 • 6h ago
+⭐ 2.5k • 🔱 304 • 7h ago
 
 ---
 
@@ -711,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 167 • 2h ago
+⭐ 2.4k • 🔱 167 • 3h ago
 
 ---
 
