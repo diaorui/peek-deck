@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-18T13:07:17.416010+00:00'
+updated: '2026-02-18T14:28:03.950305+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 13:07 UTC  
+**Last Updated:** February 18, 2026 at 14:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,974.59
+### $1,993.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.6%  
-**7d:** +1.7%  
-**30d:** -32.6%  
-**90d:** -28.4%  
-**1y:** -27.0%  
+**24h:** +0.1%  
+**7d:** +1.1%  
+**30d:** -33.0%  
+**90d:** -28.8%  
+**1y:** -27.5%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56b50638038f9fa552f129bd681c7bc814ffcf I can't be happy about people getting hacked. But a tiny asshole part of myself is satisfied and hoping this might turn people around from vibe coding.
 
-3h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56
 
 This is a good post on the impact of surveillance in Iran: https://www.myprivacy.blog/the-digital-iron-curtain-how-iran-built-the-worlds-most-invasive-surveillance-state/ It's worth reading. IMO one mistake that freedom advocates often make is that we talk about privacy violation and surveillance as "dystopian", using the word as a semantic stop sign: we know it means "bad", we nod along, and don't really go further to clarify why it's bad. I worry that this approach is long-run unhealthy: when we criticize various companies and countries for being "dystopian" and stop there, then to someone who's not already in the same memeplex, it sounds like we're basically criticizing companies and countries for not complying with our culture's aesthetic preferences. Which is ... duh, companies and countries are supposed to not comply with each other's aesthetic preferences, that's the whole point of the "pluralism" thing. What the above article makes clear so well is that "dystopian" surveillance is not bad because it's "dystopian", it's bad because it makes a concrete property of the world worse: the power balance between individual and state. Surveillance enables an outcome where basically everyone other than police and security forces has no opportunity whatsoever to challenge the political status quo without being punished. This means an outcome where a political regime can remain in power forever, without satisfying more than a very small coalition of people who have the eyes and the guns (now drones). The Dictator's Handbook talks about "large coalition" and "small coalition" governments; large coalition governments are the ones that are more pro-human, because they, well, have to keep a large coalition happy. Small coalition ones are the really nasty ones. Here is the near-term dark outcome of dictatorship + automated warfare + surveillance: a regime can literally survive with a coalition of size 1, because an army of all-seeing eyes and robots can defeat the entire populace in battle if needed. In Iran, we see what just dictatorship with surveillance can do, once you add automated police, you get to the unholy trifecta. I don't know of a good solution to this. Privacy technology, as well as more work on censorship-resistant internet (I think we should strive for at least basic-quality internet, eg. 1 Mbps, being a global human right outside the domain of nation-state sovereignty), can help somewhat to reduce the possibility of total government control. But what else? BTW one implicit frame in the article I take some issue with is framing Iran + Russia + China as the unique antagonists (both in surveillance they do internally, and in the technology they export to other countries). They do a lot of dystopian shit of both types. However, Israeli and US tech companies, and undoubtedly tech companies from other Western nations, also do a lot of dystopian shit. Perhaps one key difference between the surveillance described above, and the Western type, is: The surveillance in the above article is about exercising great control over a medium area: you can see everything, but it requires active participation of the government of the territory being surveilled. The Israeli / US / Western flavor is about exercising medium control over a great area: there are more limits to how much they can do, but their surveillance is global: they know what people are doing even in countries and territories they have no presence in. The distinction is not absolute: Israeli surveillance backstops a lot of its human rights abuse in Palestine, US surveillance reinforces ICE abuses (see the recent article about Homeland Security demanding social media firms reveal names of anti-ICE protesters), etc, and "transnational repression" is done by anti-Western countries. But on average, the above seems to be the pattern. The two are differently scary. The former for the reasons I described above. The latter because it allows global projection of power: a politician or civil servant in one country now has to worry about being blackmailed, droned or otherwise attacked from other countries. The USA has shown willingness to go after individual EU officials, ICC officials (see recent articles on both), and others. Ultimately, I suspect that even democratic governments will want more privacy to protect themselves, and we will have to have deep conversations about what "democratic accountability" means: how can a civil servant be accountable to the people, but not accountable to foreign spooks? My high-level frame is: privacy generally helps whoever is weaker. "Weaker" does not mean "moral": sometimes the weaker side is criminal. But in the 21st century, we are at serious risk of stronger factions using modern technologies to establish unbreakable lock-in to power. And so on average, reducing the gradient of power, giving the weak a fighting chance, is something that the world desperately needs.
 
-9m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ This is a good post on the impact of surveillance in Iran: https://www.myprivacy
 
 I haven't been in the loop with LayerZero however it seems like they have implemented their own ZK Virtual Machine with "millions" of transactions on a raspberry pi with etheruem level decentralization, etc etc. Does anyone here actually know what the hype is and if it's accurate? I can't find much on it. I know with the ZKEVM, the roadmap is still a couple of years away and from my understanding from the info posted by Justin Drake and LEAN Ethereum, they seem to be at the cutting edge so where did LayerZero come from?
 
-12h ago
+14h ago
 
 ---
 
@@ -156,61 +156,7 @@ CredShields and SolidityScan are proud to have contributed to the release of the
 
 A BlackRock affiliate purchased 4,000 seed shares of the fund for $100,000, providing the initial capital the trust will use to purchase ether, according to an amended S-1 filing.
 
-The Block • 18h ago
-
----
-
-**[Tom Lee Expects 'Defining Year for Ethereum' as BitMine Buys ETH Amid 'Rock Bottom' Vibes](https://finance.yahoo.com/news/tom-lee-expects-defining-ethereum-165418778.html)**
-
-BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
-
-Yahoo Finance • 20h ago
-
----
-
-**[BitMine grows Ethereum treasury to 4.37 million ETH, sees $252 million annual staking revenue via MAVAN](https://www.theblock.co/post/390193/bitmine-grows-ethereum-treasury-to-4-37-million-eth-sees-252-million-annual-staking-revenue-via-mavan)**
-
-Tom Lee's BitMine said its ether treasury has climbed to 4.37 million ETH as the firm continues aggressive accumulation market prices.
-
-The Block • 21h ago
-
----
-
-**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.371 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-371-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-6-billion-302689296.html)**
-
-Bitmine has 3,040,483 staked ETH, representing $6.1 billion at $1,998 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.62% of the...
-
-PR Newswire • 23h ago
-
----
-
-**[The Ethereum creator and early Polymarket backer doesn't like the direction prediction markets are headed](https://www.businessinsider.com/ethereum-creator-polymarket-backer-raises-concern-about-prediction-markets-future-2026-2)**
-
-Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
-
-Business Insider • 2h ago
-
----
-
-**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://finance.yahoo.com/news/prediction-2026-ethereum-eth-120500279.html)**
-
-Ethereum could more than double in price in 2026 to reclaim its all-time high near $5,000.
-
-Yahoo Finance • 1h ago
-
----
-
-**[ETHZilla stock plummets as Peter Thiel exits Ethereum treasury bet, filings show](https://www.dlnews.com/articles/markets/ethzilla-stock-drops-as-peter-thiel-exits-ethereuem-corporate-treasury/)**
-
-SEC filings show that Peter Thiel has exited his bet on the Ether treasury firm.  In August, the tech billionaire had a 7.5% stake in ETHZilla. ETHZ stock has crashed 97% since its high last Summer.
-
-dlnews.com • 1h ago
-
----
-
-**[Ethereum At Risk Of Falling Under $996 (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4871040-ethereum-at-risk-of-falling-under-996)**
-
-Seeking Alpha • 17h ago
+The Block • 20h ago
 
 ---
 
@@ -230,6 +176,58 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Key facts: Ethereum bearish trend deepens; Harvard invests $86.8M in ETHA](https://www.tradingview.com/news/tradingview:f90a7ffed5ffc:0-key-facts-ethereum-bearish-trend-deepens-harvard-invests-86-8m-in-etha/)**
+
+TradingView • 1d ago
+
+---
+
+**[From 2016 hack to $150M Endowment: the DAO’s second act focuses on Ethereum security](https://www.coindesk.com/tech/2026/02/18/from-2016-hack-to-usd150m-endowment-the-dao-s-second-act-focuses-on-ethereum-security)**
+
+Ten years after the famous hack, the DAO Security Fund has decided to stake the untouched ETH and use the yield to fund Ethereum security initiatives, honor claims indefinitely, and professionalize governance and key management.
+
+CoinDesk • 1h ago
+
+---
+
+**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://www.fool.com/investing/2026/02/18/prediction-2026-will-be-the-year-of-ethereum-eth/)**
+
+Ethereum could more than double in price in 2026 to reclaim its all-time high near $5,000.
+
+The Motley Fool • 2h ago
+
+---
+
+**[Peter Thiel Quietly Exits Ethereum Treasury Firm ETHZilla – Warning Sign for the DAT Model?](https://finance.yahoo.com/news/peter-thiel-quietly-exits-ethereum-122914632.html)**
+
+Peter Thiel just made a quiet but loud move. He and Founders Fund have fully exited their position in Ethereum treasury firm ETHZilla. The confirmation came through a fresh 13G filing with the SEC.That is a sharp pivot. Just months ago, Thiel’s entry sent the stock flying more than 90%. ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Ethereum At Risk Of Falling Under $996 (Cryptocurrency:ETH-USD)](https://seekingalpha.com/article/4871040-ethereum-at-risk-of-falling-under-996)**
+
+Seeking Alpha • 18h ago
+
+---
+
+**[The Ethereum creator and early Polymarket backer doesn't like the direction prediction markets are headed](https://www.businessinsider.com/ethereum-creator-polymarket-backer-raises-concern-about-prediction-markets-future-2026-2)**
+
+Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
+
+Business Insider • 3h ago
+
+---
+
+**[Why Crypto Is Falling Today? Bitcoin, XRP Price, Ethereum And Dogecoin Analysis](https://www.tradingview.com/news/financemagnates:480276575094b:0-why-crypto-is-falling-today-bitcoin-xrp-price-ethereum-and-dogecoin-analysis/)**
+
+The cryptocurrency market continues its February consolidation on Tuesday, February 17, 2026, with mixed signals across major assets. Bitcoin trades at $68,362, down 0.74%, while Ethereum falls 0.85% to $1981. The market remains 50% below all-time highs, with historic velocity in the January-Februa…
+
+TradingView • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -240,7 +238,7 @@ Crypto News: BlackRock begins acquiring ETH for upcoming Ethereum staking ETF. A
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 429 • 💬 88 • ⏱️ 16:00 • 8h ago
+👁️ 4K • 👍 429 • 💬 88 • ⏱️ 16:00 • 9h ago
 
 ---
 
@@ -260,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 12 • ⏱️ 6:02 • 12h ago
+👁️ 2K • 👍 140 • 💬 12 • ⏱️ 6:02 • 13h ago
 
 ---
 
@@ -270,7 +268,7 @@ BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 9K • 👍 308 • 💬 81 • ⏱️ 15:02 • 15h ago
+👁️ 9K • 👍 308 • 💬 81 • ⏱️ 15:02 • 16h ago
 
 ---
 
@@ -280,7 +278,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 76 • 👍 10 • 💬 1 • ⏱️ 4:35 • 3h ago
+👁️ 76 • 👍 10 • 💬 1 • ⏱️ 4:35 • 4h ago
 
 ---
 
@@ -290,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 161 • 💬 6 • ⏱️ 5:28 • 21h ago
+👁️ 2K • 👍 161 • 💬 6 • ⏱️ 5:28 • 23h ago
 
 ---
 
@@ -320,7 +318,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 280 • 💬 29 • ⏱️ 34:48 • 16h ago
+👁️ 2K • 👍 280 • 💬 29 • ⏱️ 34:48 • 17h ago
 
 ---
 
@@ -330,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 68 • 👍 17 • ⏱️ 6:51 • 12m ago
+👁️ 68 • 👍 17 • ⏱️ 6:51 • 1h ago
 
 ---
 
