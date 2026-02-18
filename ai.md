@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-18T21:35:53.260907+00:00'
+updated: '2026-02-18T22:34:53.736192+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 18, 2026 at 21:35 UTC  
+**Last Updated:** February 18, 2026 at 22:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain claude-desktop-debian on GitHub, so I had a full archive of builds to compare against. Claude for Government showed up on Anthropic's status tracker February 17th. I pulled the binary from the same day and confirmed the implementation in code. The whole gov mode gates on a single enterprise config key. Set customDeploymentUrl to claude.fedstart.com and the app reroutes everything: traffic, auth, telemetry, network egress. Palantir's FedStart platform handles the accreditation layer. Eight prior releases had zero trace of this code. It all landed in one build. There's also a $1 GSA OneGov deal that gives all three branches of government a year of access, and Sonnet 4.6 shipped the same day with a 1 million token context window. Full breakdown and a separate technical report with code samples linked above.
 
-🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 16h ago
+🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 17h ago
 
 ---
 
@@ -61,19 +61,19 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 ---
 
-**[Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making](https://www.reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/)**
-
-You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
-
-10h ago
-
----
-
 **[Elon Musk Firms Enter Secret Pentagon Challenge for Voice-Based Drone Swarming Tech](https://www.reddit.com/r/artificial/comments/1r7jr7l/elon_musk_firms_enter_secret_pentagon_challenge/)**
 
 "Elon Musk’s SpaceX and its subsidiary xAI are joining a secretive US Department of Defense competition centered on a voice command and control tool that could deploy multiple autonomous systems. The project, launched in January with a $100-million budget and a six-month timeline, requires software that could coordinate unmanned swarming operations across the air and at sea, according to Bloomberg. The Pentagon’s Defense Innovation Unit and its new Defense Autonomous Warfare Group under the US Special Operations Command are overseeing the competition. The contest will unfold in phases, starting with software development before advancing to live trials. SpaceX and xAI’s participation marks an expansion of Musk’s defense work into artificial intelligence-enabled weapons software, as the Pentagon moves to accelerate drone development and domestic manufacturing while cutting bureaucracy. It also follows Washington’s call for cost-effective counter-drone solutions, particularly to protect critical military and civilian infrastructure as well as large public events. Separately, xAI, alongside other firms such as ChatGPT owner OpenAI, secured defense contracts worth up to $200 million each last year to expand advanced artificial intelligence use across military systems."
 
-🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 23h ago
+🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 1d ago
+
+---
+
+**[Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making](https://www.reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/)**
+
+You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
+
+11h ago
 
 ---
 
@@ -81,7 +81,7 @@ You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. W
 
 Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
 
-14h ago
+15h ago
 
 ---
 
@@ -89,7 +89,7 @@ Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day 
 
 Japanese company seeks to help copyright holders receive share of revenue
 
-🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 14h ago
+🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 15h ago
 
 ---
 
@@ -97,7 +97,7 @@ Japanese company seeks to help copyright holders receive share of revenue
 
 A self-hosted platform for running Claude agent swarms with a React UI, deployed on GCP Cloud Run. - simonstaton/ClaudeSwarm
 
-🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 21h ago
+🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 22h ago
 
 ---
 
@@ -121,63 +121,47 @@ The blockbuster investment comes as India pushes to gain a stronger foothold in 
 
 ## Google News: "ai"
 
-**[Opinion | The A.I. Disruption Has Arrived, and It Sure Is Fun](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)**
+**[Opinion | The A.I. Disruption We’ve Been Waiting for Has Arrived](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)**
 
-The New York Times • 11h ago
-
----
-
-**[Thousands of CEOs just admitted AI had no impact on employment or productivity—and it has economists resurrecting a paradox from 40 years ago](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)**
-
-In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
-
-Fortune • 1d ago
+The New York Times • 12h ago
 
 ---
 
-**[Alphabet's new AI music model could lure content creators from rivals](https://www.cnbc.com/2026/02/18/alphabets-new-ai-music-model-could-lure-more-content-creators-from-rivals.html)**
+**[I hacked ChatGPT and Google's AI – and it only took 20 minutes](https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes)**
 
-Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.
+I found a way to make AI tell you lies – and I'm not the only one.
+
+BBC • 12h ago
+
+---
+
+**[AI data center firms are adopting optical gear inside facilities to cut energy and boost speed](https://www.axios.com/pro/climate-deals/2026/02/18/ai-data-centers-optical-gear)**
+
+Axios • 52m ago
+
+---
+
+**[Stock market today: Dow, S&P 500 gain for 3rd straight day, Nasdaq jumps as traders brush aside AI worries](https://uk.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-rise-as-ai-worries-recede-with-fed-minutes-ahead-235322634.html)**
+
+Wall Street is entering the final stretch of this batch of earnings as AI dominates stock conversations.
+
+Yahoo Finance UK • 45m ago
+
+---
+
+**[Inside David Einhorn's eclectic stock portfolio: The value investor shuns AI in favor of a unique mix of companies](https://www.cnbc.com/2026/02/18/inside-einhorns-eclectic-stock-portfolio-the-value-investor-shuns-ai.html)**
+
+Einhorn's latest moves reflect his views on artificial intelligence and the market as a whole.
 
 CNBC • 1h ago
 
 ---
 
-**[This Defense Company Made AI Agents That Blow Things Up](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/)**
+**[Microsoft pledges $50 billion to tackle AI inequality as it warns of a ‘growing divide’](https://www.cnn.com/2026/02/18/business/ai-impact-summit-microsoft-inequality-investment)**
 
-Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
+Microsoft says it is on track to invest $50 billion by the end of the decade to help bring artificial intelligence to lower-income countries, as concerns mount over the technology’s potential to deepen inequality.
 
-WIRED • 1h ago
-
----
-
-**[Here's Why Amazon, Alphabet, and Microsoft's AI Spending Is a Genius Move](https://finance.yahoo.com/news/heres-why-amazon-alphabet-microsofts-192500679.html)**
-
-Cloud computing is powering AI innovation.
-
-Yahoo Finance • 2h ago
-
----
-
-**[Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert](https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge)**
-
-Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interest
-
-The Guardian • 19h ago
-
----
-
-**[AI giant Palantir moves its headquarters to Florida as tech company exodus continues](https://www.foxbusiness.com/technology/ai-giant-palantir-moves-its-headquarters-florida-tech-company-exodus-continues)**
-
-Palantir joins the tech exodus to Florida as the AI innovator relocates its headquarters to Miami, following billionaires like Bezos and Thiel to the Sunshine State.
-
-Fox Business • 5h ago
-
----
-
-**[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.reuters.com/world/china/india-tells-university-leave-ai-summit-after-presenting-chinese-robot-its-own-2026-02-18/)**
-
-Reuters • 13h ago
+CNN • 10h ago
 
 ---
 
@@ -185,15 +169,29 @@ Reuters • 13h ago
 
 Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.
 
-blog.google • 5h ago
+blog.google • 6h ago
 
 ---
 
-**[Record scratch—Google’s Lyria 3 AI music model is coming to Gemini today](https://arstechnica.com/google/2026/02/gemini-can-now-generate-ai-music-for-you-no-lyrics-required/)**
+**[The bogus four-day workweek that AI supposedly ‘frees up’](https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek)**
 
-With a simple prompt, you can generate 30 seconds of something like music.
+Business leaders tout AI as a path to shorter weeks and better balance. But without power, workers are unlikely to share the gains
 
-Ars Technica • 5h ago
+The Guardian • 9h ago
+
+---
+
+**[AI giant Palantir moves its headquarters to Florida as tech company exodus continues](https://www.foxbusiness.com/technology/ai-giant-palantir-moves-its-headquarters-florida-tech-company-exodus-continues)**
+
+Palantir joins the tech exodus to Florida as the AI innovator relocates its headquarters to Miami, following billionaires like Bezos and Thiel to the Sunshine State.
+
+Fox Business • 6h ago
+
+---
+
+**[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.reuters.com/world/china/india-tells-university-leave-ai-summit-after-presenting-chinese-robot-its-own-2026-02-18/)**
+
+Reuters • 14h ago
 
 ---
 
@@ -205,7 +203,7 @@ Ars Technica • 5h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 755 • 💬 686 • 19h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 761 • 💬 688 • 20h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -213,7 +211,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Texas state Rep. James Talarico on the broadcast.
 
-⬆️ 513 • 💬 238 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 516 • 💬 242 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 
 ---
 
@@ -239,7 +237,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 374 • 💬 311 • 2d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 374 • 💬 312 • 2d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -255,7 +253,7 @@ opinion: The subtractive bias we're ignoring
 
 fragments 18 Feb 2026
 
-⬆️ 165 • 💬 116 • 5h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 172 • 💬 126 • 6h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -291,7 +289,7 @@ Revisions to Bureau of Labor Statistics job counts combined with strong GDP grow
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 4K • 👍 160 • 💬 26 • ⏱️ 12:15 • 23h ago
+👁️ 4K • 👍 160 • 💬 26 • ⏱️ 12:15 • 1d ago
 
 ---
 
@@ -341,7 +339,7 @@ There has been a growing uproar Monday over a fight scene between Brad Pitt and 
 
 📺 Inside Edition
 
-👁️ 141K • 👍 2K • 💬 648 • ⏱️ 2:11 • 1d ago
+👁️ 141K • 👍 2K • 💬 648 • ⏱️ 2:11 • 2d ago
 
 ---
 
@@ -653,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 12.9k • 🔱 1.3k • 4h ago
+⭐ 12.9k • 🔱 1.3k • 5h ago
 
 ---
 
@@ -691,7 +689,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.8k • 🔱 278 • 3h ago
+⭐ 2.8k • 🔱 278 • 4h ago
 
 ---
 
@@ -701,7 +699,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.5k • 🔱 305 • 8h ago
+⭐ 2.5k • 🔱 305 • 9h ago
 
 ---
 
@@ -711,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 168 • 2h ago
+⭐ 2.5k • 🔱 168 • 3h ago
 
 ---
 

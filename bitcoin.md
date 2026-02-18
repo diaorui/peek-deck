@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-18T21:35:53.268499+00:00'
+updated: '2026-02-18T22:34:53.745163+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 21:35 UTC  
+**Last Updated:** February 18, 2026 at 22:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,237.78
+### $66,373.29
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** +0.4%  
-**30d:** -24.8%  
+**24h:** -1.6%  
+**7d:** +0.3%  
+**30d:** -24.9%  
 **90d:** -21.8%  
-**1y:** -31.2%  
+**1y:** -31.3%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -87,7 +87,13 @@ Rank #1
 
 Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
-2h ago
+3h ago
+
+---
+
+**[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
+
+6h ago
 
 ---
 
@@ -95,19 +101,29 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 My platform provider (lightning pay) pointed out a sailient point recently. They showed how BTC had been declared "dead" 400 something times since 2009. They pointed out that if you only poked roughly $50 USD into BTC each one of those times (~20k ish total) you would be sitting on about 40 mil rn. Hard to comprehend, and especially hard for the folks that just can't get their head around it. Thoughts?
 
-16h ago
+17h ago
 
 ---
 
-**[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
+**[Clarity Bill Odds increased to 79% on polymarket](https://www.reddit.com/r/Bitcoin/comments/1r8d3hm/clarity_bill_odds_increased_to_79_on_polymarket/)**
 
-5h ago
+Today the clarity bill being passed in 2026 has increased by 20% on polymarket, does anyone know what took place for such a dramatic increase? There’s no doubt this will impact crypto prices in the future good or bad.
+
+2h ago
 
 ---
 
 **[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
 
-7h ago
+8h ago
+
+---
+
+**[stop listening to the technical analysis bros](https://www.reddit.com/r/Bitcoin/comments/1r8djax/stop_listening_to_the_technical_analysis_bros/)**
+
+They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
+
+2h ago
 
 ---
 
@@ -119,19 +135,11 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 ---
 
-**[stop listening to the technical analysis bros](https://www.reddit.com/r/Bitcoin/comments/1r8djax/stop_listening_to_the_technical_analysis_bros/)**
-
-They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
-
-1h ago
-
----
-
 **[I just hit 0.17 bitcoin todayj](https://www.reddit.com/r/Bitcoin/comments/1r7rr6g/i_just_hit_017_bitcoin_todayj/)**
 
 I just hit 0.17 of a bitcoin today and wanted to document my journey here today. I know its not alot compared to what some people have but it is what it is. I also kick myself because I found an old coinbase receipt in my email from 2017 where I was buying BTC, I also had about 20k in BTC in July 2021 which I sold all of and then again in 2023 I bought a bunch and of course sold it. This time around I have a cold storage wallet that every-time I buy my BTC I sent it directly and immediately to the cold storage. I don't know where the price is going nor do i care I'm just going to keep buying a little bit everyday or week or month or whenever i can and document my journey here, BTC. I started in May of 2025 this process so lets see how long it takes me.
 
-18h ago
+19h ago
 
 ---
 
@@ -139,15 +147,7 @@ I just hit 0.17 of a bitcoin today and wanted to document my journey here today.
 
 https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
 
-8h ago
-
----
-
-**[Abu Dhabi Funds Buy The Bitcoin Dip](https://www.reddit.com/r/Bitcoin/comments/1r7x3qr/abu_dhabi_funds_buy_the_bitcoin_dip/)**
-
-Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Investments expanded their holdings of the BlackRock spot Bitcoin exchange-traded fund (IBIT) during the fourth quarter of 2025. : Get all the latest crypto news at Sandmark
-
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 13h ago
+9h ago
 
 ---
 
@@ -155,9 +155,55 @@ Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Invest
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqeEVYIOKMgecms0XKcBBdF-c6-yeRN7mCfmBYmJ_KtO67CRY2P2gZPf&gaa_ts=69962741&gaa_sig=_l-tJqCwpJdyCapr8iuDdR9KeFv-JSMGlEpbrzK9pHOpgDEqM_v5CGzkfaEW40Sok9uxnevyG3wPwU-UemljKQ%3D%3D)**
+**[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://finance.yahoo.com/news/bitcoin-won-over-wall-street-124511013.html)**
 
-Barron's • 23h ago
+Since Oct. 10, roughly $8.5 billion has flowed out of US-listed spot Bitcoin exchange-traded funds.  Futures exposure on the Chicago Mercantile Exchange has fallen by about two-thirds from its late-2024 peak to roughly $8 billion.  Prices on Coinbase, the venue favored by many American institutions, have persistently traded at a discount to offshore exchange Binance — a signal of sustained US selling.
+
+Yahoo Finance • 9h ago
+
+---
+
+**[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqc42kH3KhtaJ7t9V1GeYvRAh7AzwmEUnkw_eBRBGvINDBEW73aKzvLV&gaa_ts=699641f6&gaa_sig=63FIVbCzrDULlsE0iyKMJc6OECHN0Aq-TY26kPNeqpchddZOVjWf8TmyYZPMvUBX47QHvdwgV68St5l_yy5CyQ%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Weeks-Long War With Iran Could Start Within Days: Bitcoin Under Pressure, But Gold, Silver, Oil Prices Surge](https://finance.yahoo.com/news/weeks-long-war-iran-could-204716334.html)**
+
+Gold, silver, oil prices surge on fears of a weeks-long Iran war, while Bitcoin slips as investors rotate into traditional safe-haven assets.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)**
+
+The Ivy League school still has more money invested in Bitcoin than any other US stock.
+
+Fortune • 2h ago
+
+---
+
+**[Bitcoin price news: BTC's bounce from this month's crash evaporates](https://www.coindesk.com/markets/2026/02/18/bitcoin-sinks-to-usd66-000-u-s-stocks-lose-steam-as-fed-minutes-mention-possible-rate-hike)**
+
+Bitcoin is now on track for its fifth consecutive weekly decline, and losing this level could open the floor for a fresh leg lower.
+
+CoinDesk • 1h ago
+
+---
+
+**[Ledn Sells $188M Bitcoin-Backed Bonds in First-of-Its-Kind Deal](https://bitcoinmagazine.com/news/ledn-sells-188m-bitcoin-backed-bonds)**
+
+Crypto lender Ledn Inc. has officially sold $188 million in securitized bonds backed by Bitcoin-linked loans.
+
+Bitcoin Magazine • 44m ago
+
+---
+
+**[Starboard Urges Bitcoin Miner Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/articles/2026-02-18/starboard-is-said-to-urge-riot-to-speed-up-shift-to-data-centers)**
+
+Bloomberg.com • 5h ago
 
 ---
 
@@ -175,53 +221,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Strategy Leans On Equity Conversion To Sustain Aggressive Bitcoin Exposure](https://finance.yahoo.com/news/strategy-leans-equity-conversion-sustain-031202999.html)**
+**[Bitcoin Can Send 'Any Amount' Of Money Anywhere On Earth In Minutes On A Bank Holiday, Says Michael Saylor — Critics Aren't Buying It](https://finance.yahoo.com/news/bitcoin-send-amount-money-anywhere-203017758.html)**
 
-Strategy Inc, NasdaqGS:MSTR, has highlighted its focus on resilience to sharp Bitcoin price declines. The company is pursuing a plan to convert about $6b of bond debt into equity as part of its ongoing Bitcoin accumulation approach. Management has reiterated its intention to keep adding Bitcoin despite substantial unrealized losses on existing holdings. Strategy, trading at $133.88, sits at the center of the corporate Bitcoin conversation, with its share price reflecting sharp swings in...
-
-Yahoo Finance • 1d ago
-
----
-
-**[Longtime crypto skeptic and Goldman CEO David Solomon says he owns a 'very limited' amount of bitcoin](https://www.businessinsider.com/bitcoin-goldman-sachs-david-solomon-crypto-investing-regulation-btc-2026-2)**
-
-Speaking at an event in Florida, the Goldman chief said he owns some bitcoin. Solomon has previously said the crypto is a speculative asset.
-
-Business Insider • 2h ago
-
----
-
-**[Goldman CEO Solomon, Long a Crypto Skeptic, Says He Owns Bitcoin](https://www.bloomberg.com/news/articles/2026-02-18/goldman-ceo-solomon-long-a-crypto-skeptic-says-he-owns-bitcoin)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[Goldman Sachs CEO Reveals He Owns Bitcoin After Public Criticism](https://www.forbes.com/sites/martinadilicosa/2026/02/18/goldman-sachs-ceo-goes-from-bitcoin-skeptic-to-owner-as-price-falls/)**
-
-Forbes • 2h ago
-
----
-
-**[Bitcoin Falls, Dollar & Bonds Rally On Hawkish Fed Minutes](https://finance.yahoo.com/news/bitcoin-falls-dollar-bonds-rally-191908665.html)**
-
-FOMC minutes show a divided Federal Reserve debating inflation and rate cuts, reinforcing dollar strength and weighing on Bitcoin prices.
+Strategy Inc. (NASDAQ:MSTR) Chair Michael Saylor touted on Monday Bitcoin’s (CRYPTO: BTC) ability to enable fast and cheap global transfers even on bank holidays like Presidents’ Day. Saylor Champions Bitcoin’S 24/7 Operation Saylor highlighted Bitcoin’s fee estimator on X, with...
 
 Yahoo Finance • 2h ago
-
----
-
-**[FutureBit launches Apollo III, U.S.-Engineered Home Bitcoin Miner](https://bitcoinmagazine.com/news/futurebit-apollo-iii-home-bitcoin-miner)**
-
-FutureBit launched the Apollo III today, a new home Bitcoin mining system combining a high-performance miner and a full Bitcoin node in a single desktop device.
-
-Bitcoin Magazine • 2h ago
-
----
-
-**[Starboard Urges Bitcoin Miner Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/articles/2026-02-18/starboard-is-said-to-urge-riot-to-speed-up-shift-to-data-centers)**
-
-Bloomberg.com • 4h ago
 
 ---
 
@@ -233,7 +237,7 @@ Bloomberg.com • 4h ago
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 3 • 💬 5 • 3d ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 3 • 💬 5 • 4d ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -259,17 +263,17 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 ---
 
+**[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
+
+⬆️ 1 • 💬 2 • 1d ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+
+---
+
 **[Show HN: GPU-accelerated search for Bitcoin keys generated with weak entropy](https://news.ycombinator.com/item?id=47053532)**
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
 ⬆️ 1 • 💬 1 • 1d ago • [b4q.io](https://b4q.io/research)
-
----
-
-**[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
-
-⬆️ 1 • 💬 1 • 1d ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -301,7 +305,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 2 • 💬 1 • 2h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 3 • 💬 1 • 3h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
 
 ---
 
@@ -325,7 +329,7 @@ Strategy founder and executive chairman Michael Saylor discusses the current 'cr
 
 📺 Fox Business
 
-👁️ 52K • 👍 1K • 💬 7K • ⏱️ 11:33 • 14h ago
+👁️ 52K • 👍 1K • 💬 7K • ⏱️ 11:33 • 15h ago
 
 ---
 
@@ -335,7 +339,7 @@ Bitcoin bull Bobby Lee joins Bloomberg to warn that the crypto bull market is ov
 
 📺 Financial Funda
 
-👁️ 4K • 👍 153 • 💬 13 • ⏱️ 2:38 • 14h ago
+👁️ 4K • 👍 153 • 💬 13 • ⏱️ 2:38 • 15h ago
 
 ---
 
@@ -345,7 +349,7 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 4K • ⏱️ 11:38 • 21h ago
+👁️ 51K • 👍 3K • 💬 4K • ⏱️ 11:38 • 22h ago
 
 ---
 
@@ -395,7 +399,7 @@ Bitcoin what now Follow my $100 Million Trade for FREE & Live: https://levex.com
 
 📺 MMCrypto
 
-👁️ 21K • 👍 2K • 💬 278 • ⏱️ 6:20 • 6h ago
+👁️ 21K • 👍 2K • 💬 278 • ⏱️ 6:20 • 7h ago
 
 ---
 
@@ -405,7 +409,7 @@ Coinbase CEO Brian Armstrong and U.S. Senator Bernie Moreno sit down with CNBC's
 
 📺 CNBC Television
 
-👁️ 11K • 👍 375 • 💬 156 • ⏱️ 10:01 • 5h ago
+👁️ 11K • 👍 375 • 💬 156 • ⏱️ 10:01 • 6h ago
 
 ---
 

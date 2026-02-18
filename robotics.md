@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-18T21:35:53.276576+00:00'
+updated: '2026-02-18T22:34:53.754836+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 18, 2026 at 21:35 UTC  
+**Last Updated:** February 18, 2026 at 22:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,19 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-19h ago
+20h ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-8h ago
+9h ago
+
+---
+
+**[Battle Bots Competition – March 7 at Renaissance Youth Center (South Bronx)](https://www.reddit.com/r/robotics/comments/1r8gfbh/battle_bots_competition_march_7_at_renaissance/)**
+
+47m ago
 
 ---
 
@@ -52,11 +58,17 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 ---
 
+**[How do I power a Jetson Nano with a 4S LiPo battery?](https://www.reddit.com/r/robotics/comments/1r8h23c/how_do_i_power_a_jetson_nano_with_a_4s_lipo/)**
+
+23m ago
+
+---
+
 **[Here's a great tutorial for Visual SLAM using a RealSense 3D stereo depth camera in RGBD mode running on NVIDIA Isaac ROS](https://www.reddit.com/r/robotics/comments/1r87zgt/heres_a_great_tutorial_for_visual_slam_using_a/)**
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-4h ago
+5h ago
 
 ---
 
@@ -64,13 +76,13 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsen
 
 RSVP Here Food and drink will be provided. Please tell your friends.
 
-3h ago
+4h ago
 
 ---
 
 **[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -86,20 +98,6 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
 
-23h ago
-
----
-
-**[Chinese Kung Fu Robots🤯](https://www.reddit.com/r/robotics/comments/1r6z43u/chinese_kung_fu_robots/)**
-
-1d ago
-
----
-
-**[A HUD interface for my GEVO robot (Raspberry Pi + Bluetooth telemetry)](https://www.reddit.com/r/robotics/comments/1r76brc/a_hud_interface_for_my_gevo_robot_raspberry_pi/)**
-
-I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
-
 1d ago
 
 ---
@@ -112,15 +110,31 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
-**[Amazon pulls the plug on 'Blue Jay' warehouse robot after only a few months](https://www.businessinsider.com/amazon-pulls-plug-blue-jay-warehouse-robot-2026-2)**
+**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
-Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-Business Insider • 1d ago
+TechCrunch • 4h ago
+
+---
+
+**[Mizzou grad explores future of occupational therapy through robotics](https://showme.missouri.edu/2026/mizzou-grad-explores-future-of-occupational-therapy-through-robotics/)**
+
+In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
+
+Show Me Mizzou • 9h ago
+
+---
+
+**[New Middletown High School robotics class sees teens creating, competing](https://www.journal-news.com/news/new-middletown-high-school-robotics-class-sees-teens-creating-competing/HZ5XHA4OLFEDRE7KMJTR7CP4VU/)**
+
+A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
+
+Hamilton In-depth, Investigative News from Journal-News • 6h ago
 
 ---
 
@@ -128,63 +142,45 @@ Business Insider • 1d ago
 
 This shift to a self-serve model on RBTX removes the requirement for a sales consultation, providing a streamlined experience, igus said.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
-**[AI-enabled robotics could shift global manufacturing power, CEO of Alphabet company says](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
+**[Amazon kills Blue Jay robotics project in under 6 months](https://www.techbuzz.ai/articles/amazon-kills-blue-jay-robotics-project-in-under-6-months)**
 
-When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
+Amazon shutters warehouse robotics initiative, reassigns team to other projects
 
-CNBC • 9h ago
-
----
-
-**[Amazon halts Blue Jay robotics project after less than six months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
-
-Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
-
-TechCrunch • 3h ago
+The Tech Buzz • 3h ago
 
 ---
 
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+**[Crickets Continuum to Develop DCA/r to Standardize Robotics Usage Data Collection](https://www.thecannatareport.com/crickets-robotics-data-collection/)**
 
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+Crickets membership org will introduce a data -ollection agent for robotics to enable interoperability among dealers, ISVs, and manufacturers.
 
-KWQC • 2d ago
-
----
-
-**[Bellefontaine Robotics make strong run at Meaden and Moore](https://www.peakofohio.com/local-news/bellefontaine-robotics-make-strong-run-at-meaden-and-moore/)**
-
-Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
-
-Peak of Ohio • 1d ago
+The Cannata Report - • 8h ago
 
 ---
 
-**[Indian university faces backlash for claiming Chinese robodog as own at AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
+**[AI, robotics, data and more: Meet John Deere's latest round of collaborators](https://www.michiganfarmnews.com/ai-robotics-data-and-more-meet-john-deere-s-latest-round-of-collaborators)**
 
-A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
+Michigan Farm News
 
-BBC • 10h ago
-
----
-
-**[Inside automakers’ strategic bet on humanoid robots beyond the assembly line](https://www.autonews.com/technology/an-automakers-turn-to-robots-for-future-business-0218/)**
-
-Automakers from Tesla to Hyundai are pivoting into humanoid robots, betting their manufacturing expertise will dominate a market projected at $7.5 trillion by 2050.
-
-Automotive News • 9h ago
+Michigan Farm News • 5h ago
 
 ---
 
-**[Is Serve Robotics' Urban Expansion Supporting Long-Term Demand?](https://finance.yahoo.com/news/serve-robotics-urban-expansion-supporting-130700127.html)**
+**[Texas AG Ken Paxton sues Anzu Robotics over alleged China-linked drones](https://www.click2houston.com/news/local/2026/02/18/texas-ag-ken-paxton-sues-anzu-robotics-over-alleged-china-linked-drones/)**
 
-Can SERV's expanding urban footprint and rising sidewalk delivery usage translate into durable long-term demand?
+Texas AG Ken Paxton sues Anzu Robotics, alleging its drones come from Chinese manufacturer DJI and pose potential data and security risks.
 
-Yahoo Finance • 1d ago
+Click2Houston • 34m ago
+
+---
+
+**[Midway Through the Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://www.etftrends.com/disruptive-technology-content-hub/midway-robotics-earnings-season-discipline-rewarded-recovery-broadening/)**
+
+ETF Trends • 7h ago
 
 ---
 
@@ -198,7 +194,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 72K • 👍 953 • 💬 115 • ⏱️ 0:32 • 14h ago
+👁️ 72K • 👍 953 • 💬 115 • ⏱️ 0:32 • 15h ago
 
 ---
 
@@ -208,7 +204,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 79K • 👍 756 • 💬 471 • ⏱️ 2:36 • 21h ago
+👁️ 79K • 👍 756 • 💬 471 • ⏱️ 2:36 • 22h ago
 
 ---
 
@@ -238,7 +234,7 @@ China Media Group's 2026 Spring Festival Gala drew widespread attention with a p
 
 📺 Guardian News
 
-👁️ 184K • 👍 311 • 💬 193 • ⏱️ 0:52 • 16h ago
+👁️ 184K • 👍 311 • 💬 193 • ⏱️ 0:52 • 17h ago
 
 ---
 
@@ -258,7 +254,7 @@ Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off s
 
 📺 New York Post
 
-👁️ 16K • 👍 323 • 💬 278 • ⏱️ 2:01 • 6h ago
+👁️ 16K • 👍 323 • 💬 278 • ⏱️ 2:01 • 7h ago
 
 ---
 
