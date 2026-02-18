@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-18T17:52:58.452126+00:00'
+updated: '2026-02-18T18:57:28.134871+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 18, 2026 at 17:52 UTC  
+**Last Updated:** February 18, 2026 at 18:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-15h ago
+16h ago
+
+---
+
+**[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
+
+5h ago
 
 ---
 
@@ -46,17 +52,11 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 ---
 
-**[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
-
-4h ago
-
----
-
 **[Here's a great tutorial for Visual SLAM using a RealSense 3D stereo depth camera in RGBD mode running on NVIDIA Isaac ROS](https://www.reddit.com/r/robotics/comments/1r87zgt/heres_a_great_tutorial_for_visual_slam_using_a/)**
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-1h ago
+2h ago
 
 ---
 
@@ -64,7 +64,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsen
 
 RSVP Here Food and drink will be provided. Please tell your friends.
 
-3m ago
+1h ago
 
 ---
 
@@ -78,7 +78,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 **[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -86,7 +86,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
 
-19h ago
+20h ago
 
 ---
 
@@ -98,7 +98,7 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 **[Preparing the first ALVE-X order. From idea to reality. #RobotArm #Mechatronics #DIAIndustries #Engineering #prototype](https://www.reddit.com/r/robotics/comments/1r7on9l/preparing_the_first_alvex_order_from_idea_to/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -110,7 +110,7 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 12h ago
+The Guardian • 1h ago
 
 ---
 
@@ -118,15 +118,21 @@ The Guardian • 12h ago
 
 Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
 
-Business Insider • 21h ago
+Business Insider • 22h ago
 
 ---
 
-**[AI-enabled robotics could shift global manufacturing power, CEO of Alphabet company says](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
+**[Mizzou grad explores future of occupational therapy through robotics](https://showme.missouri.edu/2026/mizzou-grad-explores-future-of-occupational-therapy-through-robotics/)**
 
-When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
+In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
 
-CNBC • 5h ago
+Show Me Mizzou • 5h ago
+
+---
+
+**[Midway Through the Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://www.etftrends.com/disruptive-technology-content-hub/midway-robotics-earnings-season-discipline-rewarded-recovery-broadening/)**
+
+ETF Trends • 4h ago
 
 ---
 
@@ -134,51 +140,45 @@ CNBC • 5h ago
 
 A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
 
-Hamilton In-depth, Investigative News from Journal-News • 1h ago
+Hamilton In-depth, Investigative News from Journal-News • 2h ago
 
 ---
 
-**[BOTZ: Will Robotics And 'Embodied AI' Take The Baton?](https://seekingalpha.com/article/4871183-botz-will-robotics-and-embodied-ai-take-the-baton)**
+**[AI, robotics, data and more: Meet John Deere's latest round of collaborators](https://www.michiganfarmnews.com/ai-robotics-data-and-more-meet-john-deere-s-latest-round-of-collaborators)**
 
-Seeking Alpha • 4h ago
+Michigan Farm News
 
----
-
-**[Americans are unleashing their anger on food-delivery robots](https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots)**
-
-The Economist • 1d ago
+Michigan Farm News • 1h ago
 
 ---
 
-**[Inside automakers’ strategic bet on humanoid robots beyond the assembly line](https://www.autonews.com/technology/an-automakers-turn-to-robots-for-future-business-0218/)**
+**[From zero to Regionals: China Spring ISD Robotics rises in first season](https://www.kwtx.com/2026/02/18/zero-regionals-china-spring-isd-robotics-rises-first-season/)**
 
-Automakers from Tesla to Hyundai are pivoting into humanoid robots, betting their manufacturing expertise will dominate a market projected at $7.5 trillion by 2050.
+State will be held in Waco and the Robotics World Championships are in Houston in May.
 
-Automotive News • 5h ago
-
----
-
-**[IFR releases position paper on AI in robotics](https://www.therobotreport.com/ifr-releases-position-paper-ai-robotics/)**
-
-Artificial intelligence is transforming the robotics field at a rapid pace, according to the International Federation of Robotics or IFR.
-
-The Robot Report • 19h ago
+KWTX • 6h ago
 
 ---
 
-**[Is Serve Robotics' Urban Expansion Supporting Long-Term Demand?](https://finance.yahoo.com/news/serve-robotics-urban-expansion-supporting-130700127.html)**
+**[Amazon halts Blue Jay robotics project after less than six months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
-Can SERV's expanding urban footprint and rising sidewalk delivery usage translate into durable long-term demand?
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-Yahoo Finance • 1d ago
+TechCrunch • 30m ago
 
 ---
 
-**[Bellefontaine Robotics make strong run at Meaden and Moore](https://www.peakofohio.com/local-news/bellefontaine-robotics-make-strong-run-at-meaden-and-moore/)**
+**[Laker Robotics teacher Jeff Diebel mentors future engineers](https://www.michigansthumb.com/news/article/laker-robotics-teacher-jeff-diebel-mentors-future-21328772.php)**
 
-Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
+Huron Daily Tribune • 7h ago
 
-Peak of Ohio • 1d ago
+---
+
+**[AI-enabled robotics could shift global manufacturing power, CEO of Alphabet company says](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
+
+When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
+
+CNBC • 6h ago
 
 ---
 
@@ -192,7 +192,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 19K • 👍 892 • 💬 106 • ⏱️ 0:32 • 11h ago
+👁️ 19K • 👍 892 • 💬 106 • ⏱️ 0:32 • 12h ago
 
 ---
 
@@ -202,7 +202,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 67K • 👍 692 • 💬 444 • ⏱️ 2:36 • 17h ago
+👁️ 67K • 👍 692 • 💬 444 • ⏱️ 2:36 • 18h ago
 
 ---
 
@@ -232,7 +232,7 @@ China Media Group's 2026 Spring Festival Gala drew widespread attention with a p
 
 📺 Guardian News
 
-👁️ 165K • 👍 267 • 💬 164 • ⏱️ 0:52 • 12h ago
+👁️ 165K • 👍 267 • 💬 164 • ⏱️ 0:52 • 13h ago
 
 ---
 
@@ -242,7 +242,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 109K • 👍 2K • 💬 317 • ⏱️ 9:26 • 1d ago
+👁️ 109K • 👍 2K • 💬 317 • ⏱️ 9:26 • 2d ago
 
 ---
 

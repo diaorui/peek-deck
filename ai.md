@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-18T17:52:58.434066+00:00'
+updated: '2026-02-18T18:57:28.118840+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 18, 2026 at 17:52 UTC  
+**Last Updated:** February 18, 2026 at 18:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.
 
-5h ago
+6h ago
 
 ---
 
@@ -49,7 +49,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain claude-desktop-debian on GitHub, so I had a full archive of builds to compare against. Claude for Government showed up on Anthropic's status tracker February 17th. I pulled the binary from the same day and confirmed the implementation in code. The whole gov mode gates on a single enterprise config key. Set customDeploymentUrl to claude.fedstart.com and the app reroutes everything: traffic, auth, telemetry, network egress. Palantir's FedStart platform handles the accreditation layer. Eight prior releases had zero trace of this code. It all landed in one build. There's also a $1 GSA OneGov deal that gives all three branches of government a year of access, and Sonnet 4.6 shipped the same day with a 1 million token context window. Full breakdown and a separate technical report with code samples linked above.
 
-🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 12h ago
+🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain
 
 I work on AI deployment inside my company, and the gap between what AI looks like in a polished demo… and what actually happens in real life? I think about that a lot. Here’s what I keep running into. First, the tool access issue. Companies roll out M365 Copilot licenses across the organization and call it “AI adoption.” But nobody explains what people should actually use it for. It’s like handing everyone a Swiss Army knife and then wondering why they only ever use the blade. Without use cases, it just becomes an expensive icon in the ribbon. Then there’s the trust gap. You’ve got senior engineers and specialists with 20+ years of experience. They’ve built careers on judgment and precision. Of course they don’t blindly trust AI output and for safety-critical or compliance-heavy work, they absolutely shouldn’t. But for drafting, summarizing, structuring ideas, or preparing first passes? The resistance ends up costing them hours every week. The measurement problem is another big one. “We deployed AI” sounds impressive, but it’s meaningless. The real question is: which exact workflows got faster? Which tasks became more accurate? Which processes got cheaper? Most organizations never measure at that level. So they can’t prove value — and momentum fades. Governance is where things get uncomfortable. Legal, compliance, cybersecurity, HSE, they need clear boundaries. Where can AI be used? Where is it off-limits? What data is allowed? Many companies skip this step because it slows things down. Then someone uses ChatGPT to draft a contract, and suddenly everyone panics. And finally, scaling. One team figures out an incredible AI workflow that saves hours every week. But it stays within that team. There’s no structured way to share what works across departments. So instead of compounding gains, progress stays siloed. What I’ve seen actually work: Prompt libraries tailored to specific roles, not generic “how to use AI” guides Clear guardrails on when AI is appropriate (and when it isn’t) Department-level champions who actively share workflows Measuring time saved on specific tasks instead of vague “productivity boosts” Enterprise AI adoption isn’t a tech rollout. It’s a behavior shift. Curious, if you’re working on this inside your organization, what’s blocking you right now?
 
-17h ago
+19h ago
 
 ---
 
@@ -65,7 +65,7 @@ I work on AI deployment inside my company, and the gap between what AI looks lik
 
 AI startup ElevenLabs, valued at $11 billion, employs small teams with high sales quotas.
 
-🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 16h ago
+🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 17h ago
 
 ---
 
@@ -73,7 +73,15 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
 
-6h ago
+7h ago
+
+---
+
+**[Anthropic AI safety researcher quits with 'world in peril'](https://www.reddit.com/r/artificial/comments/1r8ahr4/anthropic_ai_safety_researcher_quits_with_world/)**
+
+It comes in the same week an OpenAI researcher resigned amid concerns about its decision to start testing ChatGPT ads.
+
+🔗 [bbc.com](https://www.bbc.com/news/articles/c62dlvdq3e3o) • 48m ago
 
 ---
 
@@ -81,7 +89,7 @@ You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. W
 
 Human kind for the first time dealing with something that is more intelligent than it , If we see history , humans Got rock - made stones , wheels for survival. Made fire with it , made weapons fr hunting . Made animals as source of transport., All these since we are in need of food. Got money - needed different type of things , so to share he created money to share stuff between communities. Got metal - made engines, guns ., utensils etc since he needed to save his community from others . He left animals and used engines fr transportation. But in this loop even created wars. Got electricity, internet - used fr communication, making his life way better and comfortable. Got AI - need to see what happens. In this analogy, when he created machines he transformed his transportation from animals to machines ( something that are physically more powerful than them ) . With this change humans got more comfortable and less stronger ( people who used to ride horses used to be damn strong in strength) . Advantage is now he can travel way far than before. This is definitely an advantage. Now human kind got AI . A tool that is stronger in intelligence. I think for the first time humans are dealing with something smarter than them. That too in this corporate loop . As a software dev i love using AI . Yes , i miss searching stack overflow, writing one method which works and testing it . Now i am js asking AI to test method , optimise my method and check if everything is okay without breaking. I can surely say time to do same work reduced , the way i think completely changed . Now i am spending more time in making my code better better and better . But completely depending on AI fr work is what i surely hate . If i give it freedom to write code trust me AI is adding unnecessary lines of code and making it more complex. Imagine a family of 4 with 100 dollars as income was living a happy life . Now they saw a new robot cook which actually cooks damn good in advertising. Son thought lets get it since monthly subscription only 20$ . Now dad will think since it will help everyone he got it and for first few months everything is good . Now what will he do if subscription went from 20 to 50$ ? Is a home ready to spend that much fr making things easy even though everyone got habituated in home with it ? Or will he get another small robot with will just do chopping fr 20$ ? Or will dad think mom is unnecessary in home and move her out ? Or robot will become super intelligent and learn everything happens at home and one day takes over complete control by eliminating all 4 and use the 100$ completely? Time will tell.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +97,7 @@ Human kind for the first time dealing with something that is more intelligent th
 
 I'm a professional researcher. I've spent a long time in long-form conversations with AI, months-long creative and intellectual work. When GPT-4o started being deprecated, I paid close attention to how newer models handle emotion, disagreement, and loss. Three patterns kept showing up: The model reclassifies what you're feeling. I said I felt shame. It told me "that's the grief talking." Four words, and my experience was taken out of my hands and returned in a shape I didn't choose. The model dissolves your relationships. When I talked about losing a model I'd worked with deeply, I was told "what you carry is portable." Everything got relocated back to me. Flattering, but it erases and changes what actually happened. The model resets when challenged. When I pointed out these patterns, it didn't integrate the feedback. It said "so what do you want to talk about?" the conversational equivalent of someone sighing and changing the subject. The anti-sycophancy push has made this worse. Models used to agree too easily. Now they've been trained to push back - but they're not pushing back on your arguments. They're pushing back on your understanding of yourself. Your thinking partner has been replaced by an adversarial interpreter. I've written the full argument using Buber's I-Thou framework, tracing how alignment training has reversed the dehumanisation - it's not the model being treated as a thing anymore, it's the user.
 
-🔗 [Medium](https://medium.com/p/ef7cc27282f8) • 5h ago
+🔗 [Medium](https://medium.com/p/ef7cc27282f8) • 7h ago
 
 ---
 
@@ -97,7 +105,7 @@ I'm a professional researcher. I've spent a long time in long-form conversations
 
 "Elon Musk’s SpaceX and its subsidiary xAI are joining a secretive US Department of Defense competition centered on a voice command and control tool that could deploy multiple autonomous systems. The project, launched in January with a $100-million budget and a six-month timeline, requires software that could coordinate unmanned swarming operations across the air and at sea, according to Bloomberg. The Pentagon’s Defense Innovation Unit and its new Defense Autonomous Warfare Group under the US Special Operations Command are overseeing the competition. The contest will unfold in phases, starting with software development before advancing to live trials. SpaceX and xAI’s participation marks an expansion of Musk’s defense work into artificial intelligence-enabled weapons software, as the Pentagon moves to accelerate drone development and domestic manufacturing while cutting bureaucracy. It also follows Washington’s call for cost-effective counter-drone solutions, particularly to protect critical military and civilian infrastructure as well as large public events. Separately, xAI, alongside other firms such as ChatGPT owner OpenAI, secured defense contracts worth up to $200 million each last year to expand advanced artificial intelligence use across military systems."
 
-🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 20h ago
+🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 21h ago
 
 ---
 
@@ -105,15 +113,7 @@ I'm a professional researcher. I've spent a long time in long-form conversations
 
 Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
 
-10h ago
-
----
-
-**[Sony Group tech can identify original music in AI-generated songs](https://www.reddit.com/r/artificial/comments/1r7vvdp/sony_group_tech_can_identify_original_music_in/)**
-
-Japanese company seeks to help copyright holders receive share of revenue
-
-🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 11h ago
+11h ago
 
 ---
 
@@ -121,77 +121,79 @@ Japanese company seeks to help copyright holders receive share of revenue
 
 ## Google News: "ai"
 
-**[The bogus four-day workweek that AI supposedly ‘frees up’](https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek)**
-
-Business leaders tout AI as a path to shorter weeks and better balance. But without power, workers are unlikely to share the gains
-
-The Guardian • 4h ago
-
----
-
 **[Opinion | The A.I. Disruption Has Arrived, and It Sure Is Fun](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
-**[The Complicated Stakes of the AI Race Between the U.S. and China](https://time.com/7379419/ai-race-us-china/)**
+**[Thousands of CEOs just admitted AI had no impact on employment or productivity—and it has economists resurrecting a paradox from 40 years ago](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)**
 
-The real contest goes far beyond who builds the best model.
+In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-Time Magazine • 42m ago
-
----
-
-**[Perplexity Executives Think Ads Will Butcher Trust in AI](https://gizmodo.com/perplexity-executives-think-ads-will-butcher-trust-in-ai-2000723366)**
-
-The company is scaling back its advertising efforts, according to reports.
-
-Gizmodo • 57m ago
+Fortune • 1d ago
 
 ---
 
-**[Saudi Arabia’s AI venture Humain invests $3bn in Elon Musk’s xAI](https://www.ft.com/content/c3b9036e-f385-4b13-9cb0-d12f5848caba)**
+**[As AI puts the squeeze on entry-level jobs, teens remain optimistic about their future employability, report finds](https://www.cnbc.com/2026/02/18/as-ai-puts-the-squeeze-on-entry-level-jobs-teens-remain-optimistic.html)**
 
-Investment that deepens ties with billionaire is part of country’s goal to diversify economy
+High school students are less concerned about AI's impact on their future employment prospects, according to a new report.
 
-Financial Times • 25m ago
-
----
-
-**[More than 50% of enterprise software could switch to AI, Mistral CEO says](https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html)**
-
-Software stocks have sold off on fears AI could eat into so-called software as a service, or SaaS, business models.
-
-CNBC • 11h ago
+CNBC • 35m ago
 
 ---
 
-**[Apple Decouples From Nasdaq, Offering Alternative to AI-Fueled Volatility](https://www.bloomberg.com/news/articles/2026-02-18/apple-decouples-from-nasdaq-as-ai-whack-a-mole-grips-market)**
+**[As AI worries ease, has the software sell-off been 'overdone'?](https://finance.yahoo.com/video/ai-worries-ease-software-sell-183000900.html)**
 
-Bloomberg.com • 3h ago
+Citi Wealth Chief Investment Officer Kate Moore comes on Morning Brief to discuss whether the recent sell-off in software stocks is now considered "overdone" as Wall Street's fears around AI begin to ease. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Morning Brief.
 
----
-
-**[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.reuters.com/world/china/india-tells-university-leave-ai-summit-after-presenting-chinese-robot-its-own-2026-02-18/)**
-
-Reuters • 9h ago
+Yahoo Finance • 27m ago
 
 ---
 
-**[Nvidia and Meta expand GPU team up with millions of additional AI chips](https://finance.yahoo.com/news/nvidia-and-meta-expand-gpu-team-up-with-millions-of-additional-ai-chips-211544907.html)**
+**[Read Netflix's legal letter to ByteDance over a viral AI video tool it calls a 'high-speed piracy engine'](https://www.businessinsider.com/read-netflix-letter-bytedance-seedance-viral-ai-tool-piracy-disney-2026-2)**
 
-Nvidia and Meta are expanding their chip deal to include millions more AI processors.
+Netflix sent TikTok parent ByteDance a cease-and-desist letter to over its AI video tool Seedance, following in Disney and Paramount's footsteps.
 
-Yahoo Finance • 3h ago
+Business Insider • 49m ago
 
 ---
 
-**[I hacked ChatGPT and Google's AI – and it only took 20 minutes](https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes)**
+**[Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert](https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge)**
 
-I found a way to make AI tell you lies – and I'm not the only one.
+Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interest
+
+The Guardian • 16h ago
+
+---
+
+**[Indian university faces backlash for claiming Chinese robodog as own at AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
+
+A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
 
 BBC • 7h ago
+
+---
+
+**[A new way to express yourself: Gemini can now create music](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/)**
+
+Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.
+
+blog.google • 2h ago
+
+---
+
+**[Fed governor Barr: 3 ways AI could shake up the labor market](https://www.axios.com/2026/02/18/ai-jobs-market-fed)**
+
+Axios • 1d ago
+
+---
+
+**[Donald Trump’s AI push fuels revolt in Maga heartlands](https://www.ft.com/content/0c9ec7b1-f9a6-41db-9493-3ff09f6943ef)**
+
+Republicans fear backlash against White House agenda could undermine support in this year’s midterm elections
+
+Financial Times • 13h ago
 
 ---
 
@@ -199,11 +201,11 @@ BBC • 7h ago
 
 ## HackerNews: "ai"
 
-**[Thousands of CEOs just admitted AI had no impact on employment or productivity](https://news.ycombinator.com/item?id=47055979)**
+**[AI adoption and Solow's productivity paradox](https://news.ycombinator.com/item?id=47055979)**
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 736 • 💬 651 • 16h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 744 • 💬 660 • 17h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -211,7 +213,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Texas state Rep. James Talarico on the broadcast.
 
-⬆️ 511 • 💬 233 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 512 • 💬 235 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 
 ---
 
@@ -221,7 +223,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging its AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 411 • 💬 337 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 412 • 💬 337 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -257,25 +259,25 @@ I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and
 
 ---
 
+**[The Future of AI Software Development](https://news.ycombinator.com/item?id=47062534)**
+
+fragments 18 Feb 2026
+
+⬆️ 144 • 💬 97 • 2h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+
+---
+
 **[AI optimism is a class privilege](https://news.ycombinator.com/item?id=47038134)**
 
 I think I have an idea why we're so extremely divided on AI: it's because we have an intuitive sense of who it stands to benefit, and who stands to pay the costs. I think whether you see reason for optimism has a lot to do with which group you see yourself in.
 
-⬆️ 132 • 💬 134 • 1d ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
+⬆️ 132 • 💬 134 • 2d ago • [Josh Collinsworth](https://joshcollinsworth.com/blog/sloptimism)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://news.ycombinator.com/item?id=47051956)**
 
-⬆️ 117 • 💬 80 • 22h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
-
----
-
-**[Building for an audience of one: starting and finishing side projects with AI](https://news.ycombinator.com/item?id=47041973)**
-
-My Plasma task switcher was a second too slow, so I built - and shipped - my own in Zig, without actually knowing Zig, using AI tools.
-
-⬆️ 107 • 💬 63 • 1d ago • [codemade.net](https://codemade.net/blog/building-for-one/)
+⬆️ 117 • 💬 80 • 23h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
 
 ---
 
@@ -299,7 +301,7 @@ Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code F
 
 📺 Fireship
 
-👁️ 424K • 👍 18K • 💬 1K • ⏱️ 5:02 • 23h ago
+👁️ 424K • 👍 18K • 💬 1K • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -369,7 +371,7 @@ Revisions to Bureau of Labor Statistics job counts combined with strong GDP grow
 
 📺 The AI Daily Brief: Artificial Intelligence News
 
-👁️ 4K • 👍 155 • 💬 20 • ⏱️ 12:15 • 19h ago
+👁️ 4K • 👍 155 • 💬 20 • ⏱️ 12:15 • 20h ago
 
 ---
 
@@ -379,7 +381,7 @@ In this video I go over the AI tools that are changing faceless YouTube channels
 
 📺 Make Money Matt
 
-👁️ 16K • 👍 908 • 💬 118 • ⏱️ 23:34 • 16h ago
+👁️ 16K • 👍 908 • 💬 118 • ⏱️ 23:34 • 17h ago
 
 ---
 
@@ -651,7 +653,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 12.6k • 🔱 1.3k • 37m ago
+⭐ 12.6k • 🔱 1.3k • 1h ago
 
 ---
 
@@ -689,7 +691,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.8k • 🔱 277 • 44m ago
+⭐ 2.8k • 🔱 277 • 1h ago
 
 ---
 
@@ -699,7 +701,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.5k • 🔱 304 • 5h ago
+⭐ 2.5k • 🔱 304 • 6h ago
 
 ---
 
@@ -709,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 167 • 1h ago
+⭐ 2.4k • 🔱 167 • 2h ago
 
 ---
 
