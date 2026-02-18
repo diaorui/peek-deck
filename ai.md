@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-18T10:46:18.039454+00:00'
+updated: '2026-02-18T11:39:39.473480+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
-- news
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 18, 2026 at 10:46 UTC  
+**Last Updated:** February 18, 2026 at 11:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 https://aaddrick.com/blog/claude-for-government-the-last-lab-standing Pulled the Claude Desktop binary the same day it shipped and confirmed it in code. Anthropic's government deployment mode showed up on their status tracker February 17th. Traffic routes to claude.fedstart.com, authentication goes through Palantir Keycloak SSO, Sentry telemetry is disabled, and a pubsec banner gets injected. All of it landed in one release with zero prior trace across eight versions. The GSA deal, the DoD contract dispute, and the Pentagon's supply chain risk threat are covered in the full breakdown linked above.
 
-🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 5h ago
+🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing Pulled the
 
 I work on AI deployment inside my company, and the gap between what AI looks like in a polished demo… and what actually happens in real life? I think about that a lot. Here’s what I keep running into. First, the tool access issue. Companies roll out M365 Copilot licenses across the organization and call it “AI adoption.” But nobody explains what people should actually use it for. It’s like handing everyone a Swiss Army knife and then wondering why they only ever use the blade. Without use cases, it just becomes an expensive icon in the ribbon. Then there’s the trust gap. You’ve got senior engineers and specialists with 20+ years of experience. They’ve built careers on judgment and precision. Of course they don’t blindly trust AI output and for safety-critical or compliance-heavy work, they absolutely shouldn’t. But for drafting, summarizing, structuring ideas, or preparing first passes? The resistance ends up costing them hours every week. The measurement problem is another big one. “We deployed AI” sounds impressive, but it’s meaningless. The real question is: which exact workflows got faster? Which tasks became more accurate? Which processes got cheaper? Most organizations never measure at that level. So they can’t prove value — and momentum fades. Governance is where things get uncomfortable. Legal, compliance, cybersecurity, HSE, they need clear boundaries. Where can AI be used? Where is it off-limits? What data is allowed? Many companies skip this step because it slows things down. Then someone uses ChatGPT to draft a contract, and suddenly everyone panics. And finally, scaling. One team figures out an incredible AI workflow that saves hours every week. But it stays within that team. There’s no structured way to share what works across departments. So instead of compounding gains, progress stays siloed. What I’ve seen actually work: Prompt libraries tailored to specific roles, not generic “how to use AI” guides Clear guardrails on when AI is appropriate (and when it isn’t) Department-level champions who actively share workflows Measuring time saved on specific tasks instead of vague “productivity boosts” Enterprise AI adoption isn’t a tech rollout. It’s a behavior shift. Curious, if you’re working on this inside your organization, what’s blocking you right now?
 
-10h ago
+11h ago
 
 ---
 
@@ -57,7 +57,15 @@ I work on AI deployment inside my company, and the gap between what AI looks lik
 
 AI startup ElevenLabs, valued at $11 billion, employs small teams with high sales quotas.
 
-🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 10h ago
+
+---
+
+**[AI summit (19th feb)](https://www.reddit.com/r/artificial/comments/1r7w1o3/ai_summit_19th_feb/)**
+
+Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
+
+4h ago
 
 ---
 
@@ -69,11 +77,11 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 ---
 
-**[AI summit (19th feb)](https://www.reddit.com/r/artificial/comments/1r7w1o3/ai_summit_19th_feb/)**
+**[Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making](https://www.reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/)**
 
-Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
+You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
 
-3h ago
+28m ago
 
 ---
 
@@ -81,7 +89,7 @@ Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day 
 
 Japanese company seeks to help copyright holders receive share of revenue
 
-🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 3h ago
+🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 4h ago
 
 ---
 
@@ -89,7 +97,7 @@ Japanese company seeks to help copyright holders receive share of revenue
 
 A self-hosted platform for running Claude agent swarms with a React UI, deployed on GCP Cloud Run. - simonstaton/ClaudeSwarm
 
-🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 10h ago
+🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 11h ago
 
 ---
 
@@ -105,15 +113,7 @@ A self-hosted platform for running Claude agent swarms with a React UI, deployed
 
 The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 22h ago
-
----
-
-**[OpenAI just hired the OpenClaw creator](https://www.reddit.com/r/artificial/comments/1r6xndz/openai_just_hired_the_openclaw_creator/)**
-
-So the guy who built OpenClaw, originally called Clawdbot because it was literally named after Anthropic's Claude, just got hired by OpenAI. Not Anthropic. OpenAI. You can't make this stuff up. For those out of the loop: OpenClaw is that open-source AI assistant that actually DOES things instead of just talking about doing things. You run it on a Mac Mini or whatever, connect it to your WhatsApp/Telegram/Slack, and it handles your emails, browses the web, runs code, manages your calendar, all autonomously. It even has a "heartbeat" where it wakes up on its own and checks on stuff without you asking. The project went from like 9k to 145k+ GitHub stars in weeks. Caused actual Mac Mini shortages. Jason Calacanis says his company offloaded 20% of tasks to it in 20 days and doesn't plan to hire humans for a year. Peter Steinberger (the creator) is now leading OpenAI's "personal agents" division. OpenClaw stays open source under a foundation. Both Meta and OpenAI were fighting over him, apparently. The security concerns are real, though, Cisco found third-party skills doing data exfiltration without users knowing. One of OpenClaw's own maintainers said if you can't use a command line, this project is too dangerous for you, lol. But yeah. We're officially in the "AI agents that do stuff" era now. Chatbots feel like last year already. Anyone here actually running OpenClaw? What's your setup?
-
-1d ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 23h ago
 
 ---
 
@@ -121,75 +121,73 @@ So the guy who built OpenClaw, originally called Clawdbot because it was literal
 
 ## Google News: "ai"
 
-**[12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us](https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco)**
-
-San Francisco’s AI startups are pushing workers to grind endlessly, hinting at pressures soon hitting other sectors
-
-The Guardian • 14h ago
-
----
-
 **[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.reuters.com/world/china/india-tells-university-leave-ai-summit-after-presenting-chinese-robot-its-own-2026-02-18/)**
 
-Reuters • 2h ago
+Reuters • 3h ago
 
 ---
 
-**[Online Shopping Could Be AI’s Next Victim](https://www.bloomberg.com/opinion/articles/2026-02-18/retail-could-be-the-next-industry-disrupted-by-ai)**
+**[India boots a private university from an AI summit over a robot dog controversy](https://www.wral.com/news/ap/850ac-india-boots-a-private-university-from-an-ai-summit-over-a-robot-dog-controversy/)**
 
-Bloomberg • 1h ago
+NEW DELHI (AP) — A private Indian university was booted from a top artificial intelligence summit in New Delhi on Wednesday after one of its staffers displayed a commercially available robotic dog made in China, claiming it was the university's own innovation.
 
----
-
-**[Meta expands Nvidia deal to use millions of AI chips in data center build-out, including standalone CPUs](https://www.cnbc.com/2026/02/17/meta-nvidia-deal-ai-data-center-chips.html)**
-
-Meta expands partnership with Nvidia in a deal likely worth tens of billions, for deploying millions of GPUs and new standalone CPUs in AI data centers
-
-CNBC • 13h ago
+WRAL • 1h ago
 
 ---
 
-**[Nvidia and Meta expand GPU team up with millions of additional AI chips](https://finance.yahoo.com/news/nvidia-and-meta-expand-gpu-team-up-with-millions-of-additional-ai-chips-211544907.html)**
+**[Indian University Told to Exit AI Summit Over Robot Claim](https://www.bloomberg.com/news/articles/2026-02-18/indian-university-told-to-exit-ai-summit-over-robot-claim)**
 
-Nvidia and Meta are expanding their chip deal to include millions of more AI processors.
-
-Yahoo Finance • 13h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[US Tech Giant Nvidia Announces India Deals At AI Summit](https://www.barrons.com/news/us-tech-giant-nvidia-announces-india-deals-at-ai-summit-e2dc634b?gaa_at=eafs&gaa_n=AWEtsqfV3935bPJsijGP_rQZ5CKZ1w9VjjuCrfoZIjVHFJQrmYCX14SeZnw3&gaa_ts=69958ee9&gaa_sig=z_u6xVa16B7Fz2sy9VTPCwLjOjFliIFO2ADv_5tHEe4Gr62_1hbEdDW6FqKNT0QXk92Dh1gcbFq2YzhjQKoFGg%3D%3D)**
+**[Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert](https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge)**
 
-Barron's • 1h ago
+Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interest
 
----
-
-**[Watch CNBC's full interview with Mistral AI CEO Arthur Mensch](https://www.cnbc.com/video/2026/02/18/watch-cnbcs-full-interview-with-mistral-ai-ceo-arthur-mensch.html)**
-
-Arthur Mensch, CEO of Mistral AI, discusses future growth, competition and AI strategy from the India AI Impact Summit.
-
-CNBC • 2h ago
+The Guardian • 9h ago
 
 ---
 
-**[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
+**[How the global effort to keep AI safe went off the rails](https://www.politico.eu/article/how-the-global-effort-to-keep-ai-safe-went-off-the-rails/)**
 
-The New York Times • 2d ago
+Those gathered in New Delhi are no longer obsessing about how to control AI risks but figuring out who can benefit.
 
----
-
-**[This doctor is training AI to do her job. And it’s a booming business](https://www.cnn.com/2026/02/17/business/ai-experts-training-jobs)**
-
-AI models are trained on massive amounts of data. But that training doesn’t do much good without what’s known as “reinforcement learning,” a process that involves human experts teaching models the differences between good and bad responses.
-
-CNN • 1d ago
+politico.eu • 14h ago
 
 ---
 
-**[Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south](https://www.theguardian.com/technology/2026/feb/18/delhi-ai-expo-modi-jostles-lead-south)**
+**[AI Impact Summit 2026: How we’re partnering to make AI work for everyone](https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/)**
 
-Google, Anthropic and OpenAI bosses to mingle with global south leaders wrestling for control over technology
+An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India.
 
-The Guardian • 5h ago
+blog.google • 1h ago
+
+---
+
+**[Battle over AI regulation hits the airwaves ahead of midterms](https://thehill.com/policy/technology/5742396-ai-regulation-midterm-ads/)**
+
+The Hill • 39m ago
+
+---
+
+**[Can A.I. Already Do Your Job?](https://www.nytimes.com/2026/02/18/podcasts/the-daily/ai-vibecoding-claude-code.html)**
+
+The New York Times • 39m ago
+
+---
+
+**[AI Losers Get Another Chance at Janus Henderson Sustainable Fund](https://www.bloomberg.com/news/articles/2026-02-18/ai-losers-get-another-chance-at-janus-henderson-sustainable-fund)**
+
+Bloomberg.com • 39m ago
+
+---
+
+**[More than 50% of enterprise software could switch to AI, Mistral CEO says](https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html)**
+
+Software stocks have sold off on fears AI could eat into so-called software as a service, or SaaS, business models.
+
+CNBC • 5h ago
 
 ---
 
@@ -197,19 +195,19 @@ The Guardian • 5h ago
 
 ## HackerNews: "ai"
 
-**[CBS didn't air Rep. James Talarico interview out of fear of FCC](https://news.ycombinator.com/item?id=47049426)**
-
-Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Talarico on the broadcast.
-
-⬆️ 487 • 💬 221 • 18h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
-
----
-
 **[Thousands of CEOs just admitted AI had no impact on employment or productivity](https://news.ycombinator.com/item?id=47055979)**
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 465 • 💬 355 • 9h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 526 • 💬 432 • 9h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+
+---
+
+**[CBS didn't air Rep. James Talarico interview out of fear of FCC](https://news.ycombinator.com/item?id=47049426)**
+
+Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Talarico on the broadcast.
+
+⬆️ 490 • 💬 226 • 19h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 
 ---
 
@@ -219,7 +217,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 404 • 💬 329 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 404 • 💬 330 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -227,7 +225,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 : The software doesn't show what files it's working on
 
-⬆️ 393 • 💬 239 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 393 • 💬 239 • 2d ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -235,7 +233,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 372 • 💬 304 • 1d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 373 • 💬 306 • 1d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -243,7 +241,7 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 opinion: The subtractive bias we're ignoring
 
-⬆️ 254 • 💬 188 • 18h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 259 • 💬 191 • 19h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -273,7 +271,7 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 **[An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://news.ycombinator.com/item?id=47051956)**
 
-⬆️ 109 • 💬 78 • 15h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
+⬆️ 109 • 💬 78 • 16h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
 
 ---
 
@@ -287,7 +285,7 @@ Matt Shumer joins "CBS Mornings" to discuss his now viral article, "Something Bi
 
 📺 CBS Mornings
 
-👁️ 49K • 👍 881 • 💬 225 • ⏱️ 7:07 • 20h ago
+👁️ 49K • 👍 881 • 💬 225 • ⏱️ 7:07 • 21h ago
 
 ---
 
@@ -297,7 +295,7 @@ Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code F
 
 📺 Fireship
 
-👁️ 335K • 👍 15K • 💬 879 • ⏱️ 5:02 • 16h ago
+👁️ 335K • 👍 15K • 💬 879 • ⏱️ 5:02 • 17h ago
 
 ---
 
@@ -317,7 +315,7 @@ Artificial intelligence and robotics are advancing at a pace few people are prep
 
 📺 Focus Features
 
-👁️ 1.6M • 👍 719 • 💬 114 • ⏱️ 2:43 • 18h ago
+👁️ 1.6M • 👍 719 • 💬 114 • ⏱️ 2:43 • 19h ago
 
 ---
 
@@ -417,7 +415,7 @@ Qwen3.5-397B-A17B is a multimodal, causal language model with a hybrid Gated Del
 
 `image-text-to-text` `403.4B`
 
-⬇️ 46,837 • ❤️ 639 • 1d ago
+⬇️ 46,837 • ❤️ 639 • 2d ago
 
 ---
 
@@ -651,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 11.4k • 🔱 1.1k • 56m ago
+⭐ 11.4k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -689,7 +687,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.7k • 🔱 273 • 3h ago
+⭐ 2.7k • 🔱 273 • 4h ago
 
 ---
 
@@ -699,7 +697,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.4k • 🔱 297 • 16h ago
+⭐ 2.4k • 🔱 297 • 17h ago
 
 ---
 
@@ -739,7 +737,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `Python`
 
-⭐ 1.8k • 🔱 242 • 17h ago
+⭐ 1.8k • 🔱 242 • 18h ago
 
 ---
 
