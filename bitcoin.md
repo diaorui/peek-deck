@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-18T09:51:03.061943+00:00'
+updated: '2026-02-18T10:46:18.048061+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 09:51 UTC  
+**Last Updated:** February 18, 2026 at 10:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 My platform provider (lightning pay) pointed out a sailient point recently. They showed how BTC had been declared "dead" 400 something times since 2009. They pointed out that if you only poked roughly $50 USD into BTC each one of those times (~20k ish total) you would be sitting on about 40 mil rn. Hard to comprehend, and especially hard for the folks that just can't get their head around it. Thoughts?
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ My platform provider (lightning pay) pointed out a sailient point recently. They
 
 https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-crypto-stock-and-bond-gains/ Uh oh…
 
-16h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 I just hit 0.17 of a bitcoin today and wanted to document my journey here today. I know its not alot compared to what some people have but it is what it is. I also kick myself because I found an old coinbase receipt in my email from 2017 where I was buying BTC, I also had about 20k in BTC in July 2021 which I sold all of and then again in 2023 I bought a bunch and of course sold it. This time around I have a cold storage wallet that every-time I buy my BTC I sent it directly and immediately to the cold storage. I don't know where the price is going nor do i care I'm just going to keep buying a little bit everyday or week or month or whenever i can and document my journey here, BTC. I started in May of 2025 this process so lets see how long it takes me.
 
-6h ago
+7h ago
 
 ---
 
@@ -105,7 +105,7 @@ I just hit 0.17 of a bitcoin today and wanted to document my journey here today.
 
 An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ An estimated 66.7% (14M BTC) is still owned by individuals per River. The big qu
 
 ... electricity that would, without Bitcoin never exist.
 
-12h ago
+13h ago
 
 ---
 
@@ -121,7 +121,7 @@ An estimated 66.7% (14M BTC) is still owned by individuals per River. The big qu
 
 Abu Dhabi's Mubadala Investment Company increased its position in the BlackRock IBIT Bitcoin ETF by 46 percent in the fourth quarter of 2o25. The sovereign wealth fund held approximately 12.7 million IBIT shares worth over $63o million at year-end 📈
 
-🔗 [Crypto Valley Journal](https://cvj.ch/news/abu-dhabi-staatsfonds-stocken-blackrock-bitcoin-etf-auf-ueber-1-milliarde-dollar-auf/) • 2h ago
+🔗 [Crypto Valley Journal](https://cvj.ch/news/abu-dhabi-staatsfonds-stocken-blackrock-bitcoin-etf-auf-ueber-1-milliarde-dollar-auf/) • 3h ago
 
 ---
 
@@ -129,7 +129,7 @@ Abu Dhabi's Mubadala Investment Company increased its position in the BlackRock 
 
 February 17, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 20h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 21h ago
 
 ---
 
@@ -137,13 +137,13 @@ February 17, 2026
 
 Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Investments expanded their holdings of the BlackRock spot Bitcoin exchange-traded fund (IBIT) during the fourth quarter of 2025. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 1h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 2h ago
 
 ---
 
 **[Still awesome, 8 years old gem](https://www.reddit.com/r/Bitcoin/comments/1r7c3vq/still_awesome_8_years_old_gem/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -151,7 +151,7 @@ Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Invest
 
 Let's say you have 210 BTC, would you keep it all in one wallet or would you have different hardware wallets?  [comments]
 
-21h ago
+22h ago
 
 ---
 
@@ -163,7 +163,7 @@ Let's say you have 210 BTC, would you keep it all in one wallet or would you hav
 
 Bitcoin, which has traded like a high-beta tech proxy in recent months, mirrored an earlier move lower in US equities but failed to keep pace when stocks edged higher.  “Sentiment is clearly bleak in crypto markets,” said Noelle Acheson, author of Crypto is Macro Now newsletter.  “There is strong progress in adoption by traditional institutions, but this is not reflected in overall prices, which depresses sentiment even more.”
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -171,13 +171,13 @@ Yahoo Finance • 11h ago
 
 Strategy reported its fourth-largest Bitcoin purchase of the year, a week after Michael Saylor's defense of the company's became a meme.
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
 
-Bloomberg • 15h ago
+Bloomberg • 16h ago
 
 ---
 
@@ -185,13 +185,13 @@ Bloomberg • 15h ago
 
 Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $49 billion.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
 **[Bitcoin Price Falls to $68,000. Why Ethereum, XRP Are Struggling to Find Direction.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-ai-tech-stocks-5e824042?gaa_at=eafs&gaa_n=AWEtsqdktsQE4-dS2BJvb1XYbqb-3tZY7DH16k-v1h2Y9Tu6gFMlkIu0so4l&gaa_ts=69958eea&gaa_sig=hzehGaZ_5SXt_zZaPYbPSLHAxrYUk9ABZ1C2dFdUcHhAp4owZ-OS33_lA1mbl73FZadKtDXuAU-oq0maNfAXrA%3D%3D)**
 
-Barron's • 35m ago
+Barron's • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Barron's • 35m ago
 
 The fundraiser effort comes after a new letter was sent to TMZ demanding Bitcoin in exchange for information about Guthrie’s captors
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -219,7 +219,7 @@ Bloomberg • 1d ago
 
 **[Bitcoin's Crash Is Putting Crypto Treasury Stocks To The Test](https://www.forbes.com/sites/ninabambysheva/2026/02/17/bitcoins-crash-is-putting-crypto-treasury-stocks-to-the-test/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -227,7 +227,7 @@ Forbes • 22h ago
 
 Coinbase CEO Brian Armstrong dismissed “paper Bitcoin” claims, insisting spot Bitcoin ETFs are fully backed, while defending Coinbase’s dominant custody role and calling U.S. regulatory clarity the next key step for the industry.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -263,7 +263,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 2 • 💬 0 • 16h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 2 • 💬 0 • 17h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -277,13 +277,13 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 12h ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 13h ago • [b4q.io](https://b4q.io/research)
 
 ---
 
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
-⬆️ 1 • 💬 1 • 20h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+⬆️ 1 • 💬 1 • 21h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -331,7 +331,7 @@ Lyn Alden is a macro strategist and one of the most respected independent voices
 
 📺 Anthony Pompliano
 
-👁️ 32K • 👍 1K • 💬 3 • ⏱️ 20:57 • 11h ago
+👁️ 32K • 👍 1K • 💬 3 • ⏱️ 20:57 • 12h ago
 
 ---
 
@@ -341,7 +341,7 @@ Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. G
 
 📺 Mark Moss
 
-👁️ 50K • 👍 3K • 💬 436 • ⏱️ 20:14 • 12h ago
+👁️ 50K • 👍 3K • 💬 436 • ⏱️ 20:14 • 13h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin Bottom? The Coinbase Premium has been NEGATIVE for 33 straight days — 
 
 📺 CryptosRus Extra
 
-👁️ 4K • 👍 227 • 💬 39 • ⏱️ 11:31 • 9h ago
+👁️ 4K • 👍 227 • 💬 39 • ⏱️ 11:31 • 10h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin bull Bobby Lee joins Bloomberg to warn that the crypto bull market is ov
 
 📺 Financial Funda
 
-👁️ 737 • 👍 33 • 💬 2 • ⏱️ 2:38 • 3h ago
+👁️ 737 • 👍 33 • 💬 2 • ⏱️ 2:38 • 4h ago
 
 ---
 
@@ -371,7 +371,7 @@ Everyone is down and I don't blame them but you are missing it. This is when ALL
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 721 • 💬 47 • ⏱️ 28:14 • 13h ago
+👁️ 11K • 👍 721 • 💬 47 • ⏱️ 28:14 • 14h ago
 
 ---
 
@@ -401,7 +401,7 @@ Tom Lee just STUNNED the markets with his most important call of 2026. The legen
 
 📺 Money Talks
 
-👁️ 3K • 👍 88 • 💬 12 • ⏱️ 10:05 • 15h ago
+👁️ 3K • 👍 88 • 💬 12 • ⏱️ 10:05 • 16h ago
 
 ---
 
@@ -411,7 +411,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 11K • 👍 898 • 💬 117 • ⏱️ 13:46 • 14h ago
+👁️ 11K • 👍 898 • 💬 117 • ⏱️ 13:46 • 15h ago
 
 ---
 

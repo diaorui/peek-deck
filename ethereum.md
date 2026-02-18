@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-18T09:51:03.067942+00:00'
+updated: '2026-02-18T10:46:18.054057+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- social
 - videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 09:51 UTC  
+**Last Updated:** February 18, 2026 at 10:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56b50638038f9fa552f129bd681c7bc814ffcf I can't be happy about people getting hacked. But a tiny asshole part of myself is satisfied and hoping this might turn people around from vibe coding.
 
-23m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56
 
 I haven't been in the loop with LayerZero however it seems like they have implemented their own ZK Virtual Machine with "millions" of transactions on a raspberry pi with etheruem level decentralization, etc etc. Does anyone here actually know what the hype is and if it's accurate? I can't find much on it. I know with the ZKEVM, the roadmap is still a couple of years away and from my understanding from the info posted by Justin Drake and LEAN Ethereum, they seem to be at the cutting edge so where did LayerZero come from?
 
-9h ago
+10h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Suppose I have a time series and a trading bot. I want to prove this trading bot makes certain P&L without showing anything about my strategy. Has anyone published work on this? Thanks in advance!
 
-22h ago
+23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 A BlackRock affiliate purchased 4,000 seed shares of the fund for $100,000, providing the initial capital the trust will use to purchase ether, according to an amended S-1 filing.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 15h ago
 
 BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -172,7 +172,7 @@ Yahoo Finance • 16h ago
 
 Bitmine has 3,040,483 staked ETH, representing $6.1 billion at $1,998 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.62% of the...
 
-PR Newswire • 20h ago
+PR Newswire • 21h ago
 
 ---
 
@@ -180,7 +180,7 @@ PR Newswire • 20h ago
 
 Tom Lee's BitMine said its ether treasury has climbed to 4.37 million ETH as the firm continues aggressive accumulation market prices.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
@@ -204,7 +204,7 @@ Yahoo Finance • 1d ago
 
 Harvard Management Company trimmed its Bitcoin ETF position by about 21% while initiating an $86.8 million stake in BlackRock's spot Ethereum ETF during Q4.
 
-Bitbo • 21h ago
+Bitbo • 22h ago
 
 ---
 
@@ -212,7 +212,7 @@ Bitbo • 21h ago
 
 Who knew being able to bet on everything would lead to people acting irresponsibly?
 
-Gizmodo • 13h ago
+Gizmodo • 14h ago
 
 ---
 
@@ -228,7 +228,7 @@ TradingView • 1d ago
 
 Bitcoin and Ethereum have dominated crypto headlines for years, but Bitcoin has declined 22.4% year-to-date in 2026, while Ethereum has dropped 33.4% over the same period. Both show signs of exhaustion after their 2025 rallies. Three alternative cryptocurrencies have experienced different price movements than Bitcoin and Ethereum: XRP’s institutional payment infrastructure, Solana’s unmatched transaction speed, ... Forget Bitcoin and Ethereum: This is the Crypto to Buy in 2026
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -242,7 +242,7 @@ BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 301 • 💬 55 • ⏱️ 15:02 • 11h ago
+👁️ 8K • 👍 301 • 💬 55 • ⏱️ 15:02 • 12h ago
 
 ---
 
@@ -252,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 128 • 💬 12 • ⏱️ 6:02 • 9h ago
+👁️ 2K • 👍 128 • 💬 12 • ⏱️ 6:02 • 10h ago
 
 ---
 
@@ -272,7 +272,7 @@ Crypto News: BlackRock begins acquiring ETH for upcoming Ethereum staking ETF. A
 
 📺 Thinking Crypto
 
-👁️ 3K • 👍 322 • 💬 68 • ⏱️ 16:00 • 5h ago
+👁️ 3K • 👍 322 • 💬 68 • ⏱️ 16:00 • 6h ago
 
 ---
 
@@ -282,7 +282,7 @@ Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to r
 
 📺 Thinking Crypto
 
-👁️ 4K • 👍 234 • 💬 81 • ⏱️ 25:32 • 20h ago
+👁️ 4K • 👍 234 • 💬 81 • ⏱️ 25:32 • 21h ago
 
 ---
 
@@ -302,7 +302,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 272 • 💬 29 • ⏱️ 34:48 • 13h ago
+👁️ 2K • 👍 272 • 💬 29 • ⏱️ 34:48 • 14h ago
 
 ---
 
@@ -312,7 +312,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 162 • 💬 6 • ⏱️ 5:28 • 18h ago
+👁️ 2K • 👍 162 • 💬 6 • ⏱️ 5:28 • 19h ago
 
 ---
 
@@ -332,7 +332,7 @@ As RWA takes control of the market, we look at 3 RWA leaders: Ondo, Ethereum, an
 
 📺 Altcoin Buzz
 
-👁️ 6K • 👍 270 • 💬 96 • ⏱️ 12:17 • 15h ago
+👁️ 6K • 👍 270 • 💬 96 • ⏱️ 12:17 • 16h ago
 
 ---
 
