@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-18T22:34:53.751513+00:00'
+updated: '2026-02-18T23:31:25.654538+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
+- videos
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 22:34 UTC  
+**Last Updated:** February 18, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.18B
+**Market Cap:** $235.12B
 Rank #2
 
 **Circulating Supply:** 120,692,424 ETH
@@ -62,7 +62,7 @@ No max supply
 -60.6%
 
 **All-Time Low:** $0.43
-+450300.6%
++449764.8%
 
 ---
 
@@ -70,7 +70,7 @@ No max supply
 
 **[Announcing the Platform Team at EF](https://www.reddit.com/r/ethereum/comments/1r8d9io/announcing_the_platform_team_at_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/platform) • 2h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/platform) • 3h ago
 
 ---
 
@@ -78,7 +78,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 USB cables are the worst part of hardware wallet UX. Until very recently, transacting onchain for me meant enduring the same listless ritual: scavenging for the cables and adapters, laboriously plugging it in, hoping the USB port doesn't malfunction mid-signature or power off the bloody device, then unplugging and putting everything away. Every single time. No wonder people don’t use crypto as much as they could. Then a friend mentioned a "fully airgapped" alternative. No cables. No Bluetooth. Just QR codes. I was skeptical, but intrigued — how do you sign a transaction with no physical connection whatsoever? As a matter of fact, I found the QR-code workflow to be wonderfully elegant and simple. MetaMask or Rabby generates a transaction QR code. The Keystone's built-in camera scans it and signs offline. You scan the signed QR back with your laptop or phone. Done. Not a single cable had to be scrounged up. Neither was a bluetooth connection risked. No greater attack surface beyond your own eyeballs verifying what's on-screen. I've been testing the Keystone 3 Pro for the past while, and there were genuine surprises. The fingerprint unlock replaces PIN entry entirely — not just for unlocking, but for authorizing transactions. It stores up to 3 separate secret recovery seed phrases on one device = plausible deniability. And the 4-inch touchscreen is a godsend for clear signing. It does come with its flaws: The battery sucks with its 1000mAh lithium-ion. The touchscreen and fingerprint scanner can be finnicky. And it’s a HK-based company with Chinese manufacturing ties… which will understandably give some people pause. Even if their firmware and hardware are open source and have been publicly audited by SlowMist, Keylabs, and Least Authority. I put together a comprehensive review covering security architecture, form factor, usability, and whether the $150 price tag is actually justified: https://youtu.be/fk-cC0WyVgY For those of you still on first-gen cable-based wallets — have you considered airgapped? And for anyone already using Keystone, curious how your experience compares to mine! ———— If we're meeting for the first time, hi 👋! I find crypto youtube to be a giant cesspool. As a result, i started building my channel to spread the good word on good work in crypto — something with substance and humanity. Dropping a like, sub, and comment goes a LONG way to supporting me, so please consider doing so! 🥰
 
-🔗 [youtu.be](https://youtu.be/fk-cC0WyVgY) • 7h ago
+🔗 [youtu.be](https://youtu.be/fk-cC0WyVgY) • 8h ago
 
 ---
 
@@ -94,7 +94,7 @@ USB cables are the worst part of hardware wallet UX. Until very recently, transa
 
 This is a good post on the impact of surveillance in Iran: https://www.myprivacy.blog/the-digital-iron-curtain-how-iran-built-the-worlds-most-invasive-surveillance-state/ It's worth reading. IMO one mistake that freedom advocates often make is that we talk about privacy violation and surveillance as "dystopian", using the word as a semantic stop sign: we know it means "bad", we nod along, and don't really go further to clarify why it's bad. I worry that this approach is long-run unhealthy: when we criticize various companies and countries for being "dystopian" and stop there, then to someone who's not already in the same memeplex, it sounds like we're basically criticizing companies and countries for not complying with our culture's aesthetic preferences. Which is ... duh, companies and countries are supposed to not comply with each other's aesthetic preferences, that's the whole point of the "pluralism" thing. What the above article makes clear so well is that "dystopian" surveillance is not bad because it's "dystopian", it's bad because it makes a concrete property of the world worse: the power balance between individual and state. Surveillance enables an outcome where basically everyone other than police and security forces has no opportunity whatsoever to challenge the political status quo without being punished. This means an outcome where a political regime can remain in power forever, without satisfying more than a very small coalition of people who have the eyes and the guns (now drones). The Dictator's Handbook talks about "large coalition" and "small coalition" governments; large coalition governments are the ones that are more pro-human, because they, well, have to keep a large coalition happy. Small coalition ones are the really nasty ones. Here is the near-term dark outcome of dictatorship + automated warfare + surveillance: a regime can literally survive with a coalition of size 1, because an army of all-seeing eyes and robots can defeat the entire populace in battle if needed. In Iran, we see what just dictatorship with surveillance can do, once you add automated police, you get to the unholy trifecta. I don't know of a good solution to this. Privacy technology, as well as more work on censorship-resistant internet (I think we should strive for at least basic-quality internet, eg. 1 Mbps, being a global human right outside the domain of nation-state sovereignty), can help somewhat to reduce the possibility of total government control. But what else? BTW one implicit frame in the article I take some issue with is framing Iran + Russia + China as the unique antagonists (both in surveillance they do internally, and in the technology they export to other countries). They do a lot of dystopian shit of both types. However, Israeli and US tech companies, and undoubtedly tech companies from other Western nations, also do a lot of dystopian shit. Perhaps one key difference between the surveillance described above, and the Western type, is: The surveillance in the above article is about exercising great control over a medium area: you can see everything, but it requires active participation of the government of the territory being surveilled. The Israeli / US / Western flavor is about exercising medium control over a great area: there are more limits to how much they can do, but their surveillance is global: they know what people are doing even in countries and territories they have no presence in. The distinction is not absolute: Israeli surveillance backstops a lot of its human rights abuse in Palestine, US surveillance reinforces ICE abuses (see the recent article about Homeland Security demanding social media firms reveal names of anti-ICE protesters), etc, and "transnational repression" is done by anti-Western countries. But on average, the above seems to be the pattern. The two are differently scary. The former for the reasons I described above. The latter because it allows global projection of power: a politician or civil servant in one country now has to worry about being blackmailed, droned or otherwise attacked from other countries. The USA has shown willingness to go after individual EU officials, ICC officials (see recent articles on both), and others. Ultimately, I suspect that even democratic governments will want more privacy to protect themselves, and we will have to have deep conversations about what "democratic accountability" means: how can a civil servant be accountable to the people, but not accountable to foreign spooks? My high-level frame is: privacy generally helps whoever is weaker. "Weaker" does not mean "moral": sometimes the weaker side is criminal. But in the 21st century, we are at serious risk of stronger factions using modern technologies to establish unbreakable lock-in to power. And so on average, reducing the gradient of power, giving the weak a fighting chance, is something that the world desperately needs.
 
-9h ago
+10h ago
 
 ---
 
@@ -102,7 +102,7 @@ This is a good post on the impact of surveillance in Iran: https://www.myprivacy
 
 https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56b50638038f9fa552f129bd681c7bc814ffcf I can't be happy about people getting hacked. But a tiny asshole part of myself is satisfied and hoping this might turn people around from vibe coding.
 
-13h ago
+14h ago
 
 ---
 
@@ -110,7 +110,7 @@ https://preview.redd.it/zfclzfbs18kg1.png?width=2368&format=png&auto=webp&s=fd56
 
 November 3, 2015. ETH was under $1. The DAO didn't exist yet. And two Ethereum core devs just quietly deployed a token contract that would change everything. Fabian Vogelsteller and Alex Van de Sande (avsa) created MistCoin as a demo for the Mist Wallet's custom token system. It wasn't meant to be a product — it was a prototype. The manuscript before the book. That manuscript? It became ERC-20. The standard behind every token you've ever traded. In 2024, the community reverse-engineered MistCoin's original 2015 bytecode and matched it to Solidity 0.1.6. Nine years of blockchain archaeology to verify the OG. Only 1M tokens will ever exist. No VC round. No roadmap. Just history, on-chain forever. https://etherscan.io/token/0xf4eced2f682ce333f96f2d8966c613ded8fc95dd Anyone else find early Ethereum archaeology fascinating? Curious what other historic contracts people have dug up.
 
-5h ago
+6h ago
 
 ---
 
@@ -118,7 +118,7 @@ November 3, 2015. ETH was under $1. The DAO didn't exist yet. And two Ethereum c
 
 OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.
 
-🔗 [openai.com](https://openai.com/index/introducing-evmbench/) • 3h ago
+🔗 [openai.com](https://openai.com/index/introducing-evmbench/) • 4h ago
 
 ---
 
@@ -126,7 +126,7 @@ OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ abil
 
 Posted by Solidity Team on February 18, 2026
 
-🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/18/solidity-0.8.34-release-announcement) • 4h ago
+🔗 [Solidity Programming Language](https://www.soliditylang.org/blog/2026/02/18/solidity-0.8.34-release-announcement) • 5h ago
 
 ---
 
@@ -134,7 +134,7 @@ Posted by Solidity Team on February 18, 2026
 
 I haven't been in the loop with LayerZero however it seems like they have implemented their own ZK Virtual Machine with "millions" of transactions on a raspberry pi with etheruem level decentralization, etc etc. Does anyone here actually know what the hype is and if it's accurate? I can't find much on it. I know with the ZKEVM, the roadmap is still a couple of years away and from my understanding from the info posted by Justin Drake and LEAN Ethereum, they seem to be at the cutting edge so where did LayerZero come from?
 
-22h ago
+23h ago
 
 ---
 
@@ -162,7 +162,7 @@ The Block • 1d ago
 
 Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 2d ago
 
 Billionaire investor Peter Thiel and Founders Fund held a 7.5% stake in Ethereum treasury company ETHZilla last year—but not anymore.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -200,7 +200,7 @@ Yahoo Finance • 1h ago
 
 Ethereum layer-2 network Base is leaving behind the Optimism technology stack as it seeks faster upgrades and reduced overhead.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 2h ago
 
 CoinShares and Ethplorer.io say the 50% figure reflects cumulative deposits, not active staked ETH, which remains closer to 30% of supply.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -236,7 +236,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 3K • 👍 242 • 💬 26 • ⏱️ 12:25 • 5h ago
+👁️ 5K • 👍 276 • 💬 30 • ⏱️ 12:25 • 6h ago
 
 ---
 
@@ -246,17 +246,7 @@ BMNR is aggressively accumulating ETH while positioning for something much bigge
 
 📺 The Value Thinker
 
-👁️ 5K • 👍 414 • 💬 46 • ⏱️ 18:56 • 9h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=cvwgNLIOy0c)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 297 • 👍 48 • 💬 2 • ⏱️ 5:36 • 2h ago
+👁️ 6K • 👍 488 • 💬 62 • ⏱️ 18:56 • 10h ago
 
 ---
 
@@ -266,27 +256,27 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 287 • 👍 17 • ⏱️ 18:58 • 3h ago
+👁️ 601 • 👍 29 • ⏱️ 18:58 • 4h ago
 
 ---
 
-**[CRITICAL MOMENT FOR ETH SOON🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xq53kwOeTeo)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=cvwgNLIOy0c)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 164 • 👍 12 • 💬 1 • ⏱️ 4:35 • 12h ago
+👁️ 1K • 👍 112 • 💬 5 • ⏱️ 5:36 • 3h ago
 
 ---
 
-**[&quot;The Crypto Reset Is Upon Us&quot; - Tom Lee | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=ADlJpUEnP1w)**
+**[Your Next Move Is CRUCIAL! (ETH Pumped +341% Last Time)](https://www.youtube.com/watch?v=okN2OECB1uQ)**
 
-FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 Library Of Wealth
+📺 Trade Confident
 
-👁️ 5K • 👍 142 • 💬 103 • ⏱️ 14:18 • 1d ago
+👁️ 166 • 👍 14 • 💬 2 • ⏱️ 4:36 • 3h ago
 
 ---
 
@@ -296,37 +286,47 @@ Crypto News: BlackRock begins acquiring ETH for upcoming Ethereum staking ETF. A
 
 📺 Thinking Crypto
 
-👁️ 6K • 👍 499 • 💬 79 • ⏱️ 16:00 • 17h ago
+👁️ 6K • 👍 507 • 💬 99 • ⏱️ 16:00 • 18h ago
 
 ---
 
-**[Ethereum : vers 2 500$ ou retour à 1 000$ ? Les vrais enjeux dévoilés](https://www.youtube.com/watch?v=kAXzFXtOn48)**
+**[&quot;The Crypto Reset Is Upon Us&quot; - Tom Lee | Bitcoin &amp; ETH Price Prediction](https://www.youtube.com/watch?v=ADlJpUEnP1w)**
 
-cryptomonnaies #bitcoin #cryptofrance #solana Masterclass Trading Bitcoin ce Dimanche 22 Février à 19H ...
+FREE Daily On-Chain Analysis & Crypto News In 5-Mins: http://bit.ly/TheCryptoNutshell Watch The FULL Interview: "Tom ...
 
-📺 Cryptolyze | Crypto - Finance - Économie
+📺 Library Of Wealth
 
-👁️ 2K • 👍 312 • 💬 34 • ⏱️ 10:14 • 5h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=_v6jsscn71g)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 148 • 💬 13 • ⏱️ 6:02 • 21h ago
+👁️ 5K • 👍 143 • 💬 103 • ⏱️ 14:18 • 1d ago
 
 ---
 
-**[BITCOIN: It&#39;s Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8Z5JBHB10hU)**
+**[CRITICAL MOMENT FOR ETH SOON🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=xq53kwOeTeo)**
 
-BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 10K • 👍 329 • 💬 78 • ⏱️ 15:02 • 1d ago
+👁️ 226 • 👍 12 • 💬 1 • ⏱️ 4:35 • 13h ago
+
+---
+
+**[Gareth Soloway Shares What&#39;s Next for Bitcoin, Ethereum, XRP, Gold, Silver &amp; Stocks!](https://www.youtube.com/watch?v=Lm-H37evXF8)**
+
+Gareth Soloway, Chief Market Strategist at VerifiedInvesting.com, joined me to review the charts for Bitcoin, Ethereum, XRP, Gold, ...
+
+📺 Thinking Crypto
+
+👁️ 4K • 👍 242 • 💬 107 • ⏱️ 25:32 • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Spot ETF Supply Shock Incoming! #shorts](https://www.youtube.com/watch?v=F66abchgYHc)**
+
+Bitcoin, Ethereum, XRP: Spot ETF Supply Shock Incoming!
+
+📺 3T Warrior Academy 
+
+👁️ 765 • 👍 33 • 💬 31 • ⏱️ 0:55 • 2h ago
 
 ---
 

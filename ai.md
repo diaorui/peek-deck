@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-18T22:34:53.736192+00:00'
+updated: '2026-02-18T23:31:25.641310+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- repositories
+- videos
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 18, 2026 at 22:34 UTC  
+**Last Updated:** February 18, 2026 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.
 
-10h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain claude-desktop-debian on GitHub, so I had a full archive of builds to compare against. Claude for Government showed up on Anthropic's status tracker February 17th. I pulled the binary from the same day and confirmed the implementation in code. The whole gov mode gates on a single enterprise config key. Set customDeploymentUrl to claude.fedstart.com and the app reroutes everything: traffic, auth, telemetry, network egress. Palantir's FedStart platform handles the accreditation layer. Eight prior releases had zero trace of this code. It all landed in one build. There's also a $1 GSA OneGov deal that gives all three branches of government a year of access, and Sonnet 4.6 shipped the same day with a 1 million token context window. Full breakdown and a separate technical report with code samples linked above.
 
-🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 17h ago
+🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 18h ago
 
 ---
 
@@ -57,7 +57,7 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain
 
 AI startup ElevenLabs, valued at $11 billion, employs small teams with high sales quotas.
 
-🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 20h ago
+🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 21h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
 
-11h ago
+12h ago
 
 ---
 
@@ -81,7 +81,7 @@ You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. W
 
 Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
 
-15h ago
+16h ago
 
 ---
 
@@ -89,7 +89,7 @@ Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day 
 
 Japanese company seeks to help copyright holders receive share of revenue
 
-🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 15h ago
+🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 16h ago
 
 ---
 
@@ -97,7 +97,7 @@ Japanese company seeks to help copyright holders receive share of revenue
 
 A self-hosted platform for running Claude agent swarms with a React UI, deployed on GCP Cloud Run. - simonstaton/ClaudeSwarm
 
-🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 22h ago
+🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 23h ago
 
 ---
 
@@ -123,7 +123,7 @@ The blockbuster investment comes as India pushes to gain a stronger foothold in 
 
 **[Opinion | The A.I. Disruption We’ve Been Waiting for Has Arrived](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -131,13 +131,13 @@ The New York Times • 12h ago
 
 I found a way to make AI tell you lies – and I'm not the only one.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
 **[AI data center firms are adopting optical gear inside facilities to cut energy and boost speed](https://www.axios.com/pro/climate-deals/2026/02/18/ai-data-centers-optical-gear)**
 
-Axios • 52m ago
+Axios • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 52m ago
 
 Wall Street is entering the final stretch of this batch of earnings as AI dominates stock conversations.
 
-Yahoo Finance UK • 45m ago
+Yahoo Finance UK • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance UK • 45m ago
 
 Einhorn's latest moves reflect his views on artificial intelligence and the market as a whole.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNBC • 1h ago
 
 Microsoft says it is on track to invest $50 billion by the end of the decade to help bring artificial intelligence to lower-income countries, as concerns mount over the technology’s potential to deepen inequality.
 
-CNN • 10h ago
+CNN • 11h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNN • 10h ago
 
 Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.
 
-blog.google • 6h ago
+blog.google • 7h ago
 
 ---
 
@@ -177,7 +177,7 @@ blog.google • 6h ago
 
 Business leaders tout AI as a path to shorter weeks and better balance. But without power, workers are unlikely to share the gains
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -185,13 +185,13 @@ The Guardian • 9h ago
 
 Palantir joins the tech exodus to Florida as the AI innovator relocates its headquarters to Miami, following billionaires like Bezos and Thiel to the Sunshine State.
 
-Fox Business • 6h ago
+Fox Business • 7h ago
 
 ---
 
 **[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.reuters.com/world/china/india-tells-university-leave-ai-summit-after-presenting-chinese-robot-its-own-2026-02-18/)**
 
-Reuters • 14h ago
+Reuters • 15h ago
 
 ---
 
@@ -203,7 +203,7 @@ Reuters • 14h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 761 • 💬 688 • 20h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 761 • 💬 688 • 21h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -253,7 +253,7 @@ opinion: The subtractive bias we're ignoring
 
 fragments 18 Feb 2026
 
-⬆️ 172 • 💬 126 • 6h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 172 • 💬 126 • 7h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -283,13 +283,13 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 ## YouTube Videos: "ai"
 
-**[The AI Productivity Boom Finally Shows Up](https://www.youtube.com/watch?v=c5DaTmYqEEo)**
+**[Viral article warns of looming impacts of artificial intelligence](https://www.youtube.com/watch?v=tYecUUyrIo8)**
 
-Revisions to Bureau of Labor Statistics job counts combined with strong GDP growth point to emerging AI-driven productivity ...
+Matt Shumer joins "CBS Mornings" to discuss his now viral article, "Something Big Is Happening." He writes that AI's "capability for ...
 
-📺 The AI Daily Brief: Artificial Intelligence News
+📺 CBS Mornings
 
-👁️ 4K • 👍 160 • 💬 26 • ⏱️ 12:15 • 1d ago
+👁️ 67K • 👍 1K • 💬 316 • ⏱️ 7:07 • 1d ago
 
 ---
 
@@ -299,7 +299,7 @@ Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code F
 
 📺 Fireship
 
-👁️ 451K • 👍 19K • 💬 1K • ⏱️ 5:02 • 1d ago
+👁️ 474K • 👍 19K • 💬 1K • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -309,17 +309,7 @@ Artificial intelligence and robotics are advancing at a pace few people are prep
 
 📺 MotivationHub
 
-👁️ 24K • 👍 298 • 💬 68 • ⏱️ 13:16 • 2d ago
-
----
-
-**[Viral article warns of looming impacts of artificial intelligence](https://www.youtube.com/watch?v=tYecUUyrIo8)**
-
-Matt Shumer joins "CBS Mornings" to discuss his now viral article, "Something Big Is Happening." He writes that AI's "capability for ...
-
-📺 CBS Mornings
-
-👁️ 64K • 👍 1K • 💬 304 • ⏱️ 7:07 • 1d ago
+👁️ 24K • 👍 302 • 💬 69 • ⏱️ 13:16 • 2d ago
 
 ---
 
@@ -329,7 +319,7 @@ Matt Shumer joins "CBS Mornings" to discuss his now viral article, "Something Bi
 
 📺 Focus Features
 
-👁️ 2.2M • 👍 1K • 💬 150 • ⏱️ 2:43 • 1d ago
+👁️ 2.5M • 👍 1K • 💬 161 • ⏱️ 2:43 • 1d ago
 
 ---
 
@@ -339,37 +329,7 @@ There has been a growing uproar Monday over a fight scene between Brad Pitt and 
 
 📺 Inside Edition
 
-👁️ 141K • 👍 2K • 💬 648 • ⏱️ 2:11 • 2d ago
-
----
-
-**[OpenAI Just “Absorbed” OpenClaw and the AI World Exploded](https://www.youtube.com/watch?v=ubVLeoglBYE)**
-
-OpenAI just hired the creator of OpenClaw, one of the fastest-spreading open-source AI agent platforms in the world. At the same ...
-
-📺 AI Revolution
-
-👁️ 58K • 👍 2K • 💬 142 • ⏱️ 8:30 • 1d ago
-
----
-
-**[AI agent hype will bankrupt you](https://www.youtube.com/watch?v=U5FPhnKMcKs)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 80K • 👍 3K • 💬 915 • ⏱️ 16:13 • 2d ago
-
----
-
-**[AI is destroying open source, and it&#39;s not even good yet](https://www.youtube.com/watch?v=bZJ7A1QoUEI)**
-
-This is why we can't have nice things. Referenced in this video: - Ars Technica's redaction: ...
-
-📺 Jeff Geerling
-
-👁️ 223K • 👍 14K • 💬 1K • ⏱️ 3:37 • 2d ago
+👁️ 149K • 👍 2K • 💬 670 • ⏱️ 2:11 • 2d ago
 
 ---
 
@@ -379,7 +339,47 @@ FREE guide: Turn AI Agent Skills Into Cash — 5 paths to monetize AI in 30 days
 
 📺 Silicon Valley Girl
 
-👁️ 36K • 👍 774 • 💬 92 • ⏱️ 29:31 • 2d ago
+👁️ 38K • 👍 777 • 💬 93 • ⏱️ 29:31 • 2d ago
+
+---
+
+**[The AI War is Over. Google Won](https://www.youtube.com/watch?v=hcE0NPYlo1w)**
+
+Remember to stay protected online guys, with Proton VPN: https://go.getproton.me/SH2D8. Use that link to receive a whopping ...
+
+📺 Not General Knowledge
+
+👁️ 38K • 👍 2K • 💬 323 • ⏱️ 12:27 • 1d ago
+
+---
+
+**[Top AI News: Sonnet 4.6, Grok 4.2, Gemini 3 Deep Think, and OpenClaw | EP #231](https://www.youtube.com/watch?v=HklyjXKYFng)**
+
+Welcome to our first MOONSHOTS Live episode. Peter H. Diamandis, MD, is the Founder of XPRIZE, Singularity University, ZeroG ...
+
+📺 Peter H. Diamandis
+
+👁️ 90K • 👍 3K • 💬 550 • ⏱️ 2:06:37 • 21h ago
+
+---
+
+**[FULL DISCUSSION: Google&#39;s Sundar Pichai, Demis Hassabis Debate AI, India Impact, Job Market | AI1G](https://www.youtube.com/watch?v=1ZhsdckCK2c)**
+
+DRM News streams live from New Delhi as Google CEO Sundar Pichai, Google DeepMind CEO Demis Hassabis, and SVP ...
+
+📺 DRM News
+
+👁️ 114K • 👍 1K • 💬 150 • ⏱️ 22:40 • 12h ago
+
+---
+
+**[OpenAI Just “Absorbed” OpenClaw and the AI World Exploded](https://www.youtube.com/watch?v=ubVLeoglBYE)**
+
+OpenAI just hired the creator of OpenClaw, one of the fastest-spreading open-source AI agent platforms in the world. At the same ...
+
+📺 AI Revolution
+
+👁️ 61K • 👍 2K • 💬 144 • ⏱️ 8:30 • 2d ago
 
 ---
 
@@ -395,7 +395,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 170,238 • ❤️ 1,350 • 5d ago
+⬇️ 170,238 • ❤️ 1,354 • 5d ago
 
 ---
 
@@ -407,7 +407,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 40,292 • ❤️ 745 • 2d ago
+⬇️ 40,292 • ❤️ 746 • 2d ago
 
 ---
 
@@ -419,7 +419,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 46,837 • ❤️ 667 • 2d ago
+⬇️ 46,837 • ❤️ 671 • 2d ago
 
 ---
 
@@ -431,7 +431,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 50,917 • ❤️ 566 • 1d ago
+⬇️ 50,917 • ❤️ 571 • 1d ago
 
 ---
 
@@ -443,7 +443,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 4,151 • ❤️ 462 • 7d ago
+⬇️ 4,151 • ❤️ 463 • 7d ago
 
 ---
 
@@ -455,7 +455,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 440,168 • ❤️ 2,026 • 3d ago
+⬇️ 440,168 • ❤️ 2,031 • 3d ago
 
 ---
 
@@ -491,7 +491,7 @@ Ring-2.5-1T is an open-source trillion-parameter text generation model featuring
 
 `text-generation` `1012.5B`
 
-⬇️ 3,593 • ❤️ 199 • 3d ago
+⬇️ 3,593 • ❤️ 201 • 3d ago
 
 ---
 
@@ -503,7 +503,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 1,148 • ❤️ 185 • 4d ago
+⬇️ 1,148 • ❤️ 187 • 4d ago
 
 ---
 
@@ -519,7 +519,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
 
-▲ 21 • 💬 3 • ⭐ 205 • 3d ago
+▲ 23 • 💬 3 • ⭐ 205 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
@@ -537,18 +537,6 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 11 • 💬 1 • ⭐ 4,198 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
-
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
 *Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
@@ -558,6 +546,18 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 2 • 💬 0 • ⭐ 4,208 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 11 • 💬 1 • ⭐ 4,214 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -609,21 +609,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 65 • 💬 6 • ⭐ 13,545 • 4mo ago
+▲ 65 • 💬 6 • ⭐ 13,562 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
-
----
-
-**[GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763)**
-
-*GLM-5 Team, Aohan Zeng, Xin Lv et al. (186 authors)*
-
-GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
-
-▲ 29 • 💬 2 • ⭐ 1,075 • 1d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
 ---
 
@@ -635,9 +623,21 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 67 • 💬 1 • ⭐ 7,919 • 27d ago
+▲ 67 • 💬 1 • ⭐ 7,919 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+
+---
+
+**[GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763)**
+
+*GLM-5 Team, Aohan Zeng, Xin Lv et al. (186 authors)*
+
+GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
+
+▲ 30 • 💬 2 • ⭐ 1,103 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
 ---
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 12.9k • 🔱 1.3k • 5h ago
+⭐ 13.2k • 🔱 1.3k • 6h ago
 
 ---
 
@@ -663,23 +663,23 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 ---
 
-**[dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)**
-
-PaperBanana: Automating Academic Illustration For AI Scientists
-
-`JavaScript`
-
-⭐ 3.7k • 🔱 173 • 15d ago
-
----
-
 **[jamiepine/voicebox](https://github.com/jamiepine/voicebox)**
 
 The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 3.7k • 🔱 408 • 8d ago
+⭐ 3.9k • 🔱 439 • 8d ago
+
+---
+
+**[dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)**
+
+PaperBanana: Automating Academic Illustration For AI Scientists
+
+`JavaScript`
+
+⭐ 3.7k • 🔱 173 • 16d ago
 
 ---
 
@@ -689,27 +689,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.8k • 🔱 278 • 4h ago
-
----
-
-**[memovai/mimiclaw](https://github.com/memovai/mimiclaw)**
-
-MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw.
-
-`C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
-
-⭐ 2.5k • 🔱 305 • 9h ago
-
----
-
-**[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)**
-
-Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
-
-`Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
-
-⭐ 2.5k • 🔱 168 • 3h ago
+⭐ 2.8k • 🔱 278 • 5h ago
 
 ---
 
@@ -719,7 +699,27 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Python`
 
-⭐ 2.4k • 🔱 299 • 1d ago
+⭐ 2.6k • 🔱 305 • 1d ago
+
+---
+
+**[memovai/mimiclaw](https://github.com/memovai/mimiclaw)**
+
+MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw.
+
+`C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
+
+⭐ 2.5k • 🔱 305 • 10h ago
+
+---
+
+**[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)**
+
+Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
+
+`Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
+
+⭐ 2.5k • 🔱 168 • 2h ago
 
 ---
 

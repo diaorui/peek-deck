@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-18T22:34:53.754836+00:00'
+updated: '2026-02-18T23:31:25.657411+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 18, 2026 at 22:34 UTC  
+**Last Updated:** February 18, 2026 at 23:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Battle Bots Competition – March 7 at Renaissance Youth Center (South Bronx)](https://www.reddit.com/r/robotics/comments/1r8gfbh/battle_bots_competition_march_7_at_renaissance/)**
 
-47m ago
+1h ago
 
 ---
 
@@ -60,7 +60,7 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 **[How do I power a Jetson Nano with a 4S LiPo battery?](https://www.reddit.com/r/robotics/comments/1r8h23c/how_do_i_power_a_jetson_nano_with_a_4s_lipo/)**
 
-23m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-5h ago
+6h ago
 
 ---
 
@@ -76,13 +76,13 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsen
 
 RSVP Here Food and drink will be provided. Please tell your friends.
 
-4h ago
+5h ago
 
 ---
 
 **[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -110,7 +110,7 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -118,7 +118,7 @@ The Guardian • 5h ago
 
 Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 4h ago
+TechCrunch • 5h ago
 
 ---
 
@@ -126,7 +126,7 @@ TechCrunch • 4h ago
 
 In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
 
-Show Me Mizzou • 9h ago
+Show Me Mizzou • 10h ago
 
 ---
 
@@ -134,7 +134,7 @@ Show Me Mizzou • 9h ago
 
 A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
 
-Hamilton In-depth, Investigative News from Journal-News • 6h ago
+Hamilton In-depth, Investigative News from Journal-News • 7h ago
 
 ---
 
@@ -142,7 +142,7 @@ Hamilton In-depth, Investigative News from Journal-News • 6h ago
 
 This shift to a self-serve model on RBTX removes the requirement for a sales consultation, providing a streamlined experience, igus said.
 
-The Robot Report • 4h ago
+The Robot Report • 5h ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 4h ago
 
 Amazon shutters warehouse robotics initiative, reassigns team to other projects
 
-The Tech Buzz • 3h ago
+The Tech Buzz • 4h ago
 
 ---
 
@@ -158,7 +158,7 @@ The Tech Buzz • 3h ago
 
 Crickets membership org will introduce a data -ollection agent for robotics to enable interoperability among dealers, ISVs, and manufacturers.
 
-The Cannata Report - • 8h ago
+The Cannata Report - • 9h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Cannata Report - • 8h ago
 
 Michigan Farm News
 
-Michigan Farm News • 5h ago
+Michigan Farm News • 6h ago
 
 ---
 
@@ -174,13 +174,13 @@ Michigan Farm News • 5h ago
 
 Texas AG Ken Paxton sues Anzu Robotics, alleging its drones come from Chinese manufacturer DJI and pose potential data and security risks.
 
-Click2Houston • 34m ago
+Click2Houston • 1h ago
 
 ---
 
 **[Midway Through the Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://www.etftrends.com/disruptive-technology-content-hub/midway-robotics-earnings-season-discipline-rewarded-recovery-broadening/)**
 
-ETF Trends • 7h ago
+ETF Trends • 8h ago
 
 ---
 
@@ -194,7 +194,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 72K • 👍 953 • 💬 115 • ⏱️ 0:32 • 15h ago
+👁️ 96K • 👍 1K • 💬 118 • ⏱️ 0:32 • 16h ago
 
 ---
 
@@ -204,7 +204,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 79K • 👍 756 • 💬 471 • ⏱️ 2:36 • 22h ago
+👁️ 90K • 👍 828 • 💬 495 • ⏱️ 2:36 • 23h ago
 
 ---
 
@@ -214,7 +214,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 54K • 👍 891 • 💬 377 • ⏱️ 2:00 • 1d ago
+👁️ 62K • 👍 977 • 💬 391 • ⏱️ 2:00 • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 16K • 👍 1K • 💬 134 • ⏱️ 9:04 • 1d ago
+👁️ 17K • 👍 1K • 💬 139 • ⏱️ 9:04 • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ China Media Group's 2026 Spring Festival Gala drew widespread attention with a p
 
 📺 Guardian News
 
-👁️ 184K • 👍 311 • 💬 193 • ⏱️ 0:52 • 17h ago
+👁️ 205K • 👍 337 • 💬 228 • ⏱️ 0:52 • 18h ago
 
 ---
 
@@ -244,37 +244,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 603K • 👍 7K • 💬 1K • ⏱️ 1:41 • 2d ago
-
----
-
-**[Humanoid Robots Perform in China&#39;s 2026 Lunar New Year Gala](https://www.youtube.com/watch?v=LPEGve_U1cY)**
-
-Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off slick Kung fu moves alongside young martial ...
-
-📺 New York Post
-
-👁️ 16K • 👍 323 • 💬 278 • ⏱️ 2:01 • 7h ago
-
----
-
-**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
-
-China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
-
-📺 Kalil 4.0
-
-👁️ 111K • 👍 2K • 💬 322 • ⏱️ 9:26 • 2d ago
-
----
-
-**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
-
-The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
-
-📺 The Sun
-
-👁️ 860K • 👍 15K • 💬 7K • ⏱️ 2:37 • 2d ago
+👁️ 624K • 👍 7K • 💬 1K • ⏱️ 1:41 • 2d ago
 
 ---
 
@@ -284,7 +254,37 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 47K • 👍 998 • 💬 152 • ⏱️ 12:43 • 2d ago
+👁️ 47K • 👍 1K • 💬 153 • ⏱️ 12:43 • 2d ago
+
+---
+
+**[Humanoid Robots Perform in China&#39;s 2026 Lunar New Year Gala](https://www.youtube.com/watch?v=LPEGve_U1cY)**
+
+Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off slick Kung fu moves alongside young martial ...
+
+📺 New York Post
+
+👁️ 25K • 👍 435 • 💬 352 • ⏱️ 2:01 • 8h ago
+
+---
+
+**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
+
+China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
+
+📺 Kalil 4.0
+
+👁️ 113K • 👍 2K • 💬 327 • ⏱️ 9:26 • 2d ago
+
+---
+
+**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
+
+The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
+
+📺 The Sun
+
+👁️ 909K • 👍 16K • 💬 7K • ⏱️ 2:37 • 2d ago
 
 ---
 
