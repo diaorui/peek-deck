@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-18T11:39:39.491361+00:00'
+updated: '2026-02-18T13:07:17.419435+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 18, 2026 at 11:39 UTC  
+**Last Updated:** February 18, 2026 at 13:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 If you're curious about how it actually works, check out my full video here 🥺🥺🥹: https://youtu.be/SyGJ2h8aM98?si=gUOa0jV8wwxQTysp The video shows the entire 100% automated pipeline and, more importantly, how the model autonomously recovers from mistakes (like when the pancake doesn't land perfectly). It's much more than just a simple motion sequence! GitHub & Hugging Face links are in the description of the video. I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM101. Is it faster than cooking by hand? No. But is it way cooler? I think so. Honestly, I didn't expect ACT (Action Chunking Transformer) to handle physical tasks this effectively. I thought it might be limited, but it turns out it actually performs way better when trained on short, simple primitives. So, I decomposed the cooking process into three tasks and implemented a high-level planner to orchestrate them. The GIF above highlights Task2, which focuses specifically on the flipping motion. Task 1: Batter pouring \ Task 2: Pancake flipping \ Task 3: Plating Check out the full automated operation video on my YouTube.
 
-18h ago
+20h ago
 
 ---
 
@@ -50,13 +50,13 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
 
-20h ago
+22h ago
 
 ---
 
 **[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -64,7 +64,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 just integrated a camera into my embedded agent and ran the first live POV test. on-device vision pipeline, real-time inference, feeding straight into her reasoning loop. she locks onto a potted plant, classifies it, then starts analysing light falloff, leaf geometry and texture from her own perspective. nothing crazy visually, but it’s the first time the system is perceiving and narrating its immediate physical environment end-to-end.
 
-13h ago
+15h ago
 
 ---
 
@@ -74,17 +74,17 @@ just integrated a camera into my embedded agent and ran the first live POV test.
 
 ---
 
+**[Preparing the first ALVE-X order. From idea to reality. #RobotArm #Mechatronics #DIAIndustries #Engineering #prototype](https://www.reddit.com/r/robotics/comments/1r7on9l/preparing_the_first_alvex_order_from_idea_to/)**
+
+12h ago
+
+---
+
 **[A HUD interface for my GEVO robot (Raspberry Pi + Bluetooth telemetry)](https://www.reddit.com/r/robotics/comments/1r76brc/a_hud_interface_for_my_gevo_robot_raspberry_pi/)**
 
 I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry Pi connected via Bluetooth to the robot, receiving real-time telemetry such as battery voltage, connection states, overall robot status, DC motor speed, IMU data, and detection of I2C modules for arms and waist. The HUD also includes a serial monitor and the ability to select and map a joystick for robot control. This is an ongoing project and still under active development more updates coming soon. We are Corporación Robot. Thank you very much
 
-21h ago
-
----
-
-**[Preparing the first ALVE-X order. From idea to reality. #RobotArm #Mechatronics #DIAIndustries #Engineering #prototype](https://www.reddit.com/r/robotics/comments/1r7on9l/preparing_the_first_alvex_order_from_idea_to/)**
-
-10h ago
+23h ago
 
 ---
 
@@ -98,7 +98,7 @@ I’m currently building a HUD for my robot GEVO. The system runs on a Raspberry
 
 Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 that I'd been building. The feedback was really helpful, and I've been heads-down since then working on the biggest request: Python support. v0.3.0 is out, and Python is now a first-class language alongside Rust. Topics, services, actions, parameters — everything works in Python with full code generation, type-safe dataclasses, and asyncio support out of the box. You can even mix Python and Rust nodes in the same project. The goal hasn't changed: someone new should be able to pick this up and have nodes communicating in about half an hour. I'd love to hear what you think, especially from people who tried it last time or who've been waiting for Python support.
 
-22h ago
+23h ago
 
 ---
 
@@ -110,7 +110,7 @@ Hey everyone, A few weeks ago I shared PeppyOS, a simpler alternative to ROS 2 t
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -118,61 +118,61 @@ The Guardian • 6h ago
 
 Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
 
-Business Insider • 15h ago
+Business Insider • 16h ago
 
 ---
 
-**[Laker Robotics teacher Jeff Diebel inspires future engineers](https://www.michigansthumb.com/news/article/laker-robotics-teacher-jeff-diebel-mentors-future-21328772.php)**
+**[AI-enabled robotics could shift the balance of power in global manufacturing, says CEO of Alphabet company](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
 
-Huron Daily Tribune • 35m ago
+When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
 
----
-
-**[BlackBerry Showcases QNX Robotics Push As Shares Trade Below Estimates](https://finance.yahoo.com/news/blackberry-showcases-qnx-robotics-push-091148792.html)**
-
-BlackBerry's QNX unit is unveiling new mission critical products at Embedded World 2026. Key launches include a General Embedded Development Platform and a QNX powered humanoid robot. The focus is on next generation intelligent robotics for industrial, automotive, and autonomous use cases. For BlackBerry (TSX:BB), this QNX showcase arrives with the share price at CA$4.66 and longer term returns under pressure, including a 44.1% decline over the past year and a 67.1% decline over five years...
-
-Yahoo Finance • 2h ago
+CNBC • 54m ago
 
 ---
 
-**[Robotics team rated 139th globally](https://www.timesobserver.com/news/local-news/2026/02/robotics-team-rated-139th-globally/)**
+**[Indian university faces backlash for claiming Chinese robodog as own at AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
 
-A Warren Area High School robotics team has finished its regular season with two championships – raising its ranking to among the top 1% globally. Team 52575C competed in its final two regular season tournaments over the weekend and brought home the championship trophy in both. The Ft. LeBoeuf VEX V5 PA State Regional Qualifier […]
+A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
 
-timesobserver.com • 6h ago
-
----
-
-**[HII Teams with Path Robotics to Integrate Physical AI into Manned and Unmanned Shipbuilding](https://hii.com/news/hii-teams-with-path-robotics-to-integrate-physical-ai-into-manned-and-unmanned-shipbuilding/)**
-
-COLUMBUS, Ohio, (Feb. 17, 2026) — HII (NYSE: HII) and Path Robotics signed a memorandum of understanding (MOU) today to explore the integration of Path’s physical artificial intelligence (AI) for welding into shipbuilding operations that could accelerate throughput, strengthen the maritime industrial base, and augment the shipbuilding workforce. The MOU signing ceremony took place at
-
-HII • 14h ago
+BBC • 1h ago
 
 ---
 
-**[New Centre County Nonprofit Aims to Meet Growing Demand for Youth Robotics and STEM Education](https://www.statecollege.com/articles/community/new-centre-county-nonprofit-aims-to-meet-growing-demand-for-youth-robotics-and-stem-education/)**
+**[Wearable robotics are changing how we walk and run](https://www.foxnews.com/tech/wearable-robotics-changing-how-we-walk-run)**
 
-A new nonprofit organization is working to meet the growing demand for youth robotics and other science, technology, engineering and math extracurricular
+Nike's Project Amplify and consumer exoskeletons like Hypershell X are bringing wearable robotics to market, with powered footwear targeting 2028 release.
 
-StateCollege.com • 1h ago
-
----
-
-**[Top Hawaiʻi robotics teams advance to the 2026 VEX World Championships](https://mauinow.com/2026/02/17/top-hawai%CA%BBi-robotics-teams-advance-to-the-2026-vex-world-championships/)**
-
-Advancing are Island Robotics, Waiʻanae High School, Pearl City High School, Kaimuki Middle School, Mililani Mechs Robotics, and Waialua High & Intermediate School.  The double qualifications by these teams will allow one other Hawaiʻi team – to be determined  by the Robotics Education and Competition Foundation – to advance to the VEX Worlds.
-
-Maui Now • 15h ago
+Fox News • 1d ago
 
 ---
 
-**[Norwalk robotics team headed to national competition](https://www.weareiowa.com/video/sports/high-school/norwalk-robotics-team-headed-to-national-competition/524-b539b979-bd08-4f38-924a-474b0e0393ec)**
+**[Americans are unleashing their anger on food-delivery robots](https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots)**
 
-The team was selected to compete in the first United States Governor's Cup National Robotics Tournament.
+The Economist • 1d ago
 
-weareiowa.com • 7h ago
+---
+
+**[Bellefontaine Robotics make strong run at Meaden and Moore](https://www.peakofohio.com/local-news/bellefontaine-robotics-make-strong-run-at-meaden-and-moore/)**
+
+Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
+
+Peak of Ohio • 1d ago
+
+---
+
+**[HD Hyundai Samho is Making Serious Plans to Install Humanoid Robots](https://maritime-executive.com/article/hd-hyundai-samho-is-making-serious-plans-to-install-humanoid-robots)**
+
+Korean shipbuilder HD Hyundai Samho says that it is studying ways to introduce humanoid robots into its yard, and is examining ROI to figure out wher...
+
+The Maritime Executive • 12h ago
+
+---
+
+**[Is Serve Robotics' Urban Expansion Supporting Long-Term Demand?](https://finance.yahoo.com/news/serve-robotics-urban-expansion-supporting-130700127.html)**
+
+Can SERV's expanding urban footprint and rising sidewalk delivery usage translate into durable long-term demand?
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -180,7 +180,7 @@ weareiowa.com • 7h ago
 
 Artificial intelligence is transforming the robotics field at a rapid pace, according to the International Federation of Robotics or IFR.
 
-The Robot Report • 13h ago
+The Robot Report • 14h ago
 
 ---
 
@@ -194,7 +194,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 32K • 👍 434 • 💬 280 • ⏱️ 2:36 • 11h ago
+👁️ 45K • 👍 563 • 💬 345 • ⏱️ 2:36 • 12h ago
 
 ---
 
@@ -204,7 +204,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 22K • 👍 481 • 💬 179 • ⏱️ 2:00 • 18h ago
+👁️ 30K • 👍 607 • 💬 252 • ⏱️ 2:00 • 20h ago
 
 ---
 
@@ -214,7 +214,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 519K • 👍 7K • 💬 1K • ⏱️ 1:41 • 1d ago
+👁️ 537K • 👍 7K • 💬 1K • ⏱️ 1:41 • 1d ago
 
 ---
 
@@ -224,7 +224,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 102K • 👍 2K • 💬 306 • ⏱️ 9:26 • 1d ago
+👁️ 105K • 👍 2K • 💬 313 • ⏱️ 9:26 • 1d ago
 
 ---
 
@@ -234,17 +234,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 44K • 👍 967 • 💬 126 • ⏱️ 12:43 • 2d ago
-
----
-
-**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
-
-China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
-
-📺 Guardian News
-
-👁️ 48K • 👍 106 • 💬 51 • ⏱️ 0:52 • 6h ago
+👁️ 45K • 👍 973 • 💬 143 • ⏱️ 12:43 • 2d ago
 
 ---
 
@@ -254,27 +244,7 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 636K • 👍 12K • 💬 5K • ⏱️ 2:37 • 1d ago
-
----
-
-**[Elon Musk begs for robot bailout](https://www.youtube.com/watch?v=61_yDWtdNAo)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 55K • 👍 3K • 💬 663 • ⏱️ 14:43 • 1d ago
-
----
-
-**[Robot Grandmothers Are Coming #humanoidrobot #robotics #uncannyvalley  #airobot](https://www.youtube.com/watch?v=8lDMm35lJqI)**
-
-Chinese engineers have developed a hyper-realistic replica of veteran Chinese actress Cai Ming. Engineers from the Beijing ...
-
-📺 Kalil 4.0
-
-👁️ 1K • 👍 36 • 💬 1 • ⏱️ 0:53 • 8h ago
+👁️ 710K • 👍 13K • 💬 6K • ⏱️ 2:37 • 1d ago
 
 ---
 
@@ -284,7 +254,37 @@ The Sun brings you breaking news and in-depth analysis on the stories that matte
 
 📺 The Sun
 
-👁️ 10K • 👍 131 • 💬 74 • ⏱️ 1:18 • 23h ago
+👁️ 11K • 👍 134 • 💬 78 • ⏱️ 1:18 • 1d ago
+
+---
+
+**[China&#39;s Lunar New Year tech showcase](https://www.youtube.com/watch?v=lq0OKuX-U-U)**
+
+CNBC's Deirdre Bosa reports on news regarding Alibaba and ByteDance.
+
+📺 CNBC Television
+
+👁️ 46K • 👍 572 • 💬 526 • ⏱️ 2:57 • 19h ago
+
+---
+
+**[Robot Grandmothers Are Coming #humanoidrobot #robotics #uncannyvalley  #airobot](https://www.youtube.com/watch?v=8lDMm35lJqI)**
+
+Chinese engineers have developed a hyper-realistic replica of veteran Chinese actress Cai Ming. Engineers from the Beijing ...
+
+📺 Kalil 4.0
+
+👁️ 2K • 👍 48 • 💬 1 • ⏱️ 0:53 • 10h ago
+
+---
+
+**[Dancing humanoid robots take centre stage at China&#39;s Lunar New Year Gala](https://www.youtube.com/watch?v=HEuhhanh878)**
+
+The world is ringing in the year of the Fire Horse and China is marking Lunar New Year with an extraordinary and unique ...
+
+📺 Al Jazeera English
+
+👁️ 45K • 👍 632 • 💬 344 • ⏱️ 7:31 • 19h ago
 
 ---
 

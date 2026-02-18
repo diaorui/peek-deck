@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-18T11:39:39.482084+00:00'
+updated: '2026-02-18T13:07:17.409715+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 11:39 UTC  
+**Last Updated:** February 18, 2026 at 13:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,450.90
+### $67,496.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.7%  
-**7d:** +1.9%  
-**30d:** -23.6%  
-**90d:** -20.6%  
-**1y:** -30.1%  
+**24h:** +0.7%  
+**7d:** +1.8%  
+**30d:** -23.8%  
+**90d:** -20.7%  
+**1y:** -30.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1363.75B
+**Market Cap:** $1348.85B
 Rank #1
 
-**Circulating Supply:** 19,991,228 BTC
+**Circulating Supply:** 19,991,303 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.9%
+-46.5%
 
 **All-Time Low:** $67.81
-+100473.7%
++99373.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 My platform provider (lightning pay) pointed out a sailient point recently. They showed how BTC had been declared "dead" 400 something times since 2009. They pointed out that if you only poked roughly $50 USD into BTC each one of those times (~20k ish total) you would be sitting on about 40 mil rn. Hard to comprehend, and especially hard for the folks that just can't get their head around it. Thoughts?
 
-6h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ My platform provider (lightning pay) pointed out a sailient point recently. They
 
 https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-crypto-stock-and-bond-gains/ Uh oh…
 
-18h ago
+20h ago
 
 ---
 
@@ -97,7 +97,7 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 I just hit 0.17 of a bitcoin today and wanted to document my journey here today. I know its not alot compared to what some people have but it is what it is. I also kick myself because I found an old coinbase receipt in my email from 2017 where I was buying BTC, I also had about 20k in BTC in July 2021 which I sold all of and then again in 2023 I bought a bunch and of course sold it. This time around I have a cold storage wallet that every-time I buy my BTC I sent it directly and immediately to the cold storage. I don't know where the price is going nor do i care I'm just going to keep buying a little bit everyday or week or month or whenever i can and document my journey here, BTC. I started in May of 2025 this process so lets see how long it takes me.
 
-8h ago
+9h ago
 
 ---
 
@@ -105,7 +105,7 @@ I just hit 0.17 of a bitcoin today and wanted to document my journey here today.
 
 An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
 
-19h ago
+21h ago
 
 ---
 
@@ -113,15 +113,7 @@ An estimated 66.7% (14M BTC) is still owned by individuals per River. The big qu
 
 Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Investments expanded their holdings of the BlackRock spot Bitcoin exchange-traded fund (IBIT) during the fourth quarter of 2025. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 3h ago
-
----
-
-**[Bitcoin miner, converting flared and stranded natural gas into clean, off-grid electricity](https://www.reddit.com/r/Bitcoin/comments/1r7jpl9/bitcoin_miner_converting_flared_and_stranded/)**
-
-... electricity that would, without Bitcoin never exist.
-
-13h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/abu-dhabi-funds-buy-bitcoin-dip) • 5h ago
 
 ---
 
@@ -129,21 +121,15 @@ Abu Dhabi sovereign wealth funds Mubadala Investment Company and Al Warda Invest
 
 Abu Dhabi's Mubadala Investment Company increased its position in the BlackRock IBIT Bitcoin ETF by 46 percent in the fourth quarter of 2o25. The sovereign wealth fund held approximately 12.7 million IBIT shares worth over $63o million at year-end 📈
 
-🔗 [Crypto Valley Journal](https://cvj.ch/news/abu-dhabi-staatsfonds-stocken-blackrock-bitcoin-etf-auf-ueber-1-milliarde-dollar-auf/) • 4h ago
+🔗 [Crypto Valley Journal](https://cvj.ch/news/abu-dhabi-staatsfonds-stocken-blackrock-bitcoin-etf-auf-ueber-1-milliarde-dollar-auf/) • 5h ago
 
 ---
 
-**[While paper hands run away, Strategy has acquired 2,486 BTC for ~$168.4 million at ~$67,710 per coin. As of 2/16/2026, they HODL 717,131 BTC acquired for ~$54.52 billion at ~$76,027 per bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1r75u1n/while_paper_hands_run_away_strategy_has_acquired/)**
+**[Bitcoin miner, converting flared and stranded natural gas into clean, off-grid electricity](https://www.reddit.com/r/Bitcoin/comments/1r7jpl9/bitcoin_miner_converting_flared_and_stranded/)**
 
-February 17, 2026
+... electricity that would, without Bitcoin never exist.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 22h ago
-
----
-
-**[Still awesome, 8 years old gem](https://www.reddit.com/r/Bitcoin/comments/1r7c3vq/still_awesome_8_years_old_gem/)**
-
-18h ago
+15h ago
 
 ---
 
@@ -151,7 +137,23 @@ February 17, 2026
 
 I saw it in 2021 and then started buying up Bitcoin as little as 1/1000 of 1 Bitcoin at a time. Week by week, month by month, and year by year. Steadily. Persistently. Matching each purchase across two platforms, to divide the risk, should something happen to one of them. I have a saying: "HODL til you waddle!", which means never sell, until your Bitcoin holdings are worth so much, you can barely walk. This peak (2025) wasn't enough. How much could I actually do with $10,000 of profit? Nope. Needs to be more... MUCH more. So I keep looking to the future... way down the road... YEARS ahead. Planning to keep buying when my holdings go red... looking FORWARD to that day, because I'm not investing more than I can afford to lose. Never selling my present to finance my future. But always looking forward to (and planning for) a better tomorrow...
 
-1h ago
+3h ago
+
+---
+
+**[While paper hands run away, Strategy has acquired 2,486 BTC for ~$168.4 million at ~$67,710 per coin. As of 2/16/2026, they HODL 717,131 BTC acquired for ~$54.52 billion at ~$76,027 per bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1r75u1n/while_paper_hands_run_away_strategy_has_acquired/)**
+
+February 17, 2026
+
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 23h ago
+
+---
+
+**[Bitcoin, the Ledger that doesn’t argue](https://www.reddit.com/r/Bitcoin/comments/1r7xb37/bitcoin_the_ledger_that_doesnt_argue/)**
+
+I did not write this to convince anyone of Bitcoin. What interested me was something simpler. What changes in a person when they meet a system that does not adjust itself to their interpretation. Most conversations stay on price. This one does not. You do not have to participate in it to notice it. Only pay attention to what in your thinking begins to move, and what refuses to. Agreement is irrelevant here. Recognition is enough.
+
+🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/the-ledger-that-doesnt-argue) • 4h ago
 
 ---
 
@@ -163,39 +165,51 @@ I saw it in 2021 and then started buying up Bitcoin as little as 1/1000 of 1 Bit
 
 Crypto majors soften while Asian equities rebound modestly, with traders continuing to weigh quantum fears, ETF flows and a possible shift in bitcoin’s broader trend.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin Declines Amid Risk-Off Mood With AI Concerns to The Fore](https://finance.yahoo.com/news/bitcoin-declines-geopolitical-tension-adds-120215723.html)**
+**[Michael Saylor's Strategy buys 2,486 bitcoin for $168 million as total holdings reach 717,131 BTC](https://www.theblock.co/post/390010/michael-saylor-strategy-latest-bitcoin-acquisition)**
 
-Bitcoin, which has traded like a high-beta tech proxy in recent months, mirrored an earlier move lower in US equities but failed to keep pace when stocks edged higher.  “Sentiment is clearly bleak in crypto markets,” said Noelle Acheson, author of Crypto is Macro Now newsletter.  “There is strong progress in adoption by traditional institutions, but this is not reflected in overall prices, which depresses sentiment even more.”
+Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $49 billion.
 
-Yahoo Finance • 13h ago
-
----
-
-**[Bitcoin stuck in tight range; WLFI rallies ahead of crypto forum](https://www.coindesk.com/markets/2026/02/18/bitcoin-holds-near-usd68-000-as-volatility-cools-wlfi-jumps-ahead-of-mar-a-lago-forum)**
-
-Bitcoin trades in a tight range as derivatives stabilize and altcoins show pockets of strength ahead of key macro cues and a high-profile crypto event.
-
-CoinDesk • 7m ago
+The Block • 1d ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $150,000 By the End of 2026](https://finance.yahoo.com/news/prediction-bitcoin-hit-150-000-110500127.html)**
+**[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
 
-Bitcoin has the potential to double in value this year. Here's why.
-
-Yahoo Finance • 34m ago
+Bloomberg • 19h ago
 
 ---
 
-**[Brevan Howard's crypto fund said to lose 30% in worst year since inception: FT](https://www.coindesk.com/business/2026/02/18/brevan-howard-s-crypto-fund-lost-30-in-worst-year-since-inception-ft)**
+**[Strategy Leans On Equity Conversion To Sustain Aggressive Bitcoin Exposure](https://finance.yahoo.com/news/strategy-leans-equity-conversion-sustain-031202999.html)**
 
-BH Digital Asset underperformed bitcoin (BTC) which lost 6% throughout the year.
+Strategy Inc, NasdaqGS:MSTR, has highlighted its focus on resilience to sharp Bitcoin price declines. The company is pursuing a plan to convert about $6b of bond debt into equity as part of its ongoing Bitcoin accumulation approach. Management has reiterated its intention to keep adding Bitcoin despite substantial unrealized losses on existing holdings. Strategy, trading at $133.88, sits at the center of the corporate Bitcoin conversation, with its share price reflecting sharp swings in...
 
-CoinDesk • 50m ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://www.bloomberg.com/news/articles/2026-02-18/bitcoin-won-over-wall-street-and-now-it-s-paying-the-price)**
+
+Bloomberg • 22m ago
+
+---
+
+**[Riot Faces Growing Pressure To Move From Bitcoin Mining to AI](https://finance.yahoo.com/news/riot-faces-growing-pressure-move-114850886.html)**
+
+Riot's Bitcoin mining profits are declining sharply due to lower prices. Activist investor Starboard urges Riot to accelerate its shift to AI data centers. Many ...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Milo Tops $100 Million in Crypto Mortgages, Record $12 Million Home Loan](https://bitcoinmagazine.com/news/milo-tops-100-million-in-crypto-mortgages)**
+
+Milo said it has surpassed $100 million in crypto mortgage originations, including a record $12 million loan, as more high-net-worth and institutional clients use Bitcoin as collateral for home financing.
+
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -203,33 +217,21 @@ CoinDesk • 50m ago
 
 The fundraiser effort comes after a new letter was sent to TMZ demanding Bitcoin in exchange for information about Guthrie’s captors
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
-**[Intesa’s Crypto Push Includes $96 Million in Bitcoin ETFs](https://www.bloomberg.com/news/articles/2026-02-18/intesa-s-crypto-push-includes-96-million-in-bitcoin-etfs)**
+**[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqf1U5KUDVulUjV3ssZKQ7ACZPYqeBZy-__xZJ6zPUvYXoJ2gYWDzvU2&gaa_ts=6995bcec&gaa_sig=ZSCUsUXZqvTPb_0miE1pO_npYvw4eQkTFdqiIGARJElmw47XbEFTrm0AIRbz20PX3-ZkuIYTt-s62Z2hog16Ig%3D%3D)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqe83b8W4EsBF0xC-zeF2yAQcwEsX2XeXe3DDI9Lr_nJ5gT9Zcf06VNc&gaa_ts=6995a835&gaa_sig=EYe_Ck_Q2fKyhC0Nry1KB_BOAb2dWoycWycSNS7rf6fGM0lDSN19VvUcX9ZUcpEm2c2LdLX_FBdxst_LWBArSg%3D%3D)**
-
-Barron's • 13h ago
+Barron's • 15h ago
 
 ---
 
-**[Crypto Is a Victim of Its Own Success](https://www.theatlantic.com/ideas/2026/02/crypto-crash-bitcoin-value/685994/)**
+**[Return of 'YOLO' market: Wells Fargo thinks hefty tax refunds will boost bitcoin and these speculative stocks](https://www.cnbc.com/2026/02/17/return-of-yolo-market-wells-fargo-thinks-hefty-tax-refunds-will-boost-bitcoin.html)**
 
-Bitcoin, which has been plummeting in value, has come to feel less like a rebel upstart, more like an eccentric uncle.
+Bitcoin and stocks such as Robinhood and Boeing could surge as potentially higher tax refunds this season lead investors to splurge on riskier trades.
 
-The Atlantic • 1d ago
-
----
-
-**[Bitcoin's Crash Is Putting Crypto Treasury Stocks To The Test](https://www.forbes.com/sites/ninabambysheva/2026/02/17/bitcoins-crash-is-putting-crypto-treasury-stocks-to-the-test/)**
-
-Forbes • 1d ago
+CNBC • 19h ago
 
 ---
 
@@ -265,7 +267,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 2 • 💬 0 • 18h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 2 • 💬 0 • 19h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -279,13 +281,13 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 14h ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 15h ago • [b4q.io](https://b4q.io/research)
 
 ---
 
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
-⬆️ 1 • 💬 1 • 21h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+⬆️ 1 • 💬 1 • 23h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -317,13 +319,43 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin, Gold, or AI? Where the Smart Money is Going](https://www.youtube.com/watch?v=fpV_N5MEWuw)**
+
+Bitcoin, Gold, and AI stocks all being bought by billionaires, why? BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 2K • 👍 176 • 💬 9 • ⏱️ 16:18 • 1h ago
+
+---
+
 **[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
 
 Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
 
 📺 Altcoin Daily
 
-👁️ 91K • 👍 3K • 💬 553 • ⏱️ 10:49 • 1d ago
+👁️ 93K • 👍 3K • 💬 527 • ⏱️ 10:49 • 1d ago
+
+---
+
+**[Bitcoin is in a ‘crypto winter,’ says Strategy founder](https://www.youtube.com/watch?v=H-LEbgIojgA)**
+
+Strategy founder and executive chairman Michael Saylor discusses the current 'crypto winter' for Bitcoin, financial stability and the ...
+
+📺 Fox Business
+
+👁️ 15K • 👍 505 • 💬 380 • ⏱️ 11:33 • 6h ago
+
+---
+
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=_AgowrskpMI)**
+
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+
+📺 Nukes
+
+👁️ 2K • 👍 3K • 1h ago
 
 ---
 
@@ -333,37 +365,17 @@ Lyn Alden is a macro strategist and one of the most respected independent voices
 
 📺 Anthony Pompliano
 
-👁️ 32K • 👍 1K • 💬 3 • ⏱️ 20:57 • 13h ago
+👁️ 35K • 👍 1K • 💬 3 • ⏱️ 20:57 • 15h ago
 
 ---
 
-**[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
+**[THIS BITCOIN SECRET CHANGES EVERYTHING](https://www.youtube.com/watch?v=Jb0UWvqGeC0)**
 
-Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 Mark Moss
+📺 Satoshi Stacker
 
-👁️ 50K • 👍 3K • 💬 436 • ⏱️ 20:14 • 14h ago
-
----
-
-**[Bitcoin Bottom? 33 Days Negative + 3 Winter Metrics](https://www.youtube.com/watch?v=as__yMCPHy4)**
-
-Bitcoin Bottom? The Coinbase Premium has been NEGATIVE for 33 straight days — and we're seeing 3 on-chain “crypto winter” ...
-
-📺 CryptosRus Extra
-
-👁️ 4K • 👍 227 • 💬 39 • ⏱️ 11:31 • 11h ago
-
----
-
-**[Bitcoin to $20k? Bobby Lee Issues URGENT Warning 🚨.](https://www.youtube.com/watch?v=yK_b77ErgyE)**
-
-Bitcoin bull Bobby Lee joins Bloomberg to warn that the crypto bull market is over and a major correction is incoming. In this video ...
-
-📺 Financial Funda
-
-👁️ 737 • 👍 33 • 💬 2 • ⏱️ 2:38 • 4h ago
+👁️ 5K • 👍 392 • 💬 28 • ⏱️ 12:07 • 4h ago
 
 ---
 
@@ -373,27 +385,7 @@ Everyone is down and I don't blame them but you are missing it. This is when ALL
 
 📺 Digital Asset News
 
-👁️ 11K • 👍 721 • 💬 47 • ⏱️ 28:14 • 15h ago
-
----
-
-**[Bitcoin Bull Bobby Lee Warns Bitcoin Could Break Below Key $60,000 Level](https://www.youtube.com/watch?v=ZRj4PmlPv6Q)**
-
-Ballet CEO Bobby Lee, one of bitcoin's longest‑standing bulls, warns the cryptocurrency may face deeper downside, with the ...
-
-📺 Bloomberg Television
-
-👁️ 29K • 👍 422 • 💬 485 • ⏱️ 10:12 • 1d ago
-
----
-
-**[BITCOIN CAPITULATION HAS BEGUN! Jack Mallers Sounds the ALARM](https://www.youtube.com/watch?v=WR-WX5Kl4WA)**
-
-Jack Mallers warns Bitcoin investors to brace for more pain as volatility intensifies. Bitcoin market outlook and capitulation ...
-
-📺 Savvy Finance
-
-👁️ 8K • 👍 478 • 💬 4 • ⏱️ 20:17 • 1d ago
+👁️ 12K • 👍 765 • 💬 49 • ⏱️ 28:14 • 16h ago
 
 ---
 
@@ -403,17 +395,27 @@ Tom Lee just STUNNED the markets with his most important call of 2026. The legen
 
 📺 Money Talks
 
-👁️ 3K • 👍 88 • 💬 12 • ⏱️ 10:05 • 17h ago
+👁️ 3K • 👍 91 • 💬 34 • ⏱️ 10:05 • 18h ago
 
 ---
 
-**[🚨 WHY I&#39;D SELL BITCOIN?!?!?!?! 😈](https://www.youtube.com/watch?v=2AmtjX07Tb8)**
+**[I Stopped Believing In Bitcoin.](https://www.youtube.com/watch?v=ld5sqGLO3ic)**
 
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+Bitcoin just failed its biggest test in 15 years. Ran breaks down why Bitcoin crashed while Gold and stocks soared, creating a ...
 
-📺 BRITISH HODL
+📺 Crypto Insider
 
-👁️ 11K • 👍 898 • 💬 117 • ⏱️ 13:46 • 15h ago
+👁️ 34K • 👍 2K • 💬 165 • ⏱️ 18:15 • 1d ago
+
+---
+
+**[Bitcoin Whales JUST Flipped (KNOW THIS)](https://www.youtube.com/watch?v=hel6MPL79eo)**
+
+ExpressVPN: https://bit.ly/3OLJZ2B. ⚠️ Follow Me On Twitter: https://twitter.com/financial_index. ✓ Patreon Community: ...
+
+📺 Michael Wrubel
+
+👁️ 20K • 💬 123 • ⏱️ 7:07 • 13h ago
 
 ---
 
