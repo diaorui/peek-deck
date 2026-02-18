@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-18T07:33:25.608624+00:00'
+updated: '2026-02-18T08:49:03.429411+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - news
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 18, 2026 at 07:33 UTC  
+**Last Updated:** February 18, 2026 at 08:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[The gap between AI demos and enterprise usage is wider than most people think](https://www.reddit.com/r/artificial/comments/1r7n3sl/the_gap_between_ai_demos_and_enterprise_usage_is/)**
-
-I work on AI deployment inside my company, and the gap between what AI looks like in a polished demo… and what actually happens in real life? I think about that a lot. Here’s what I keep running into. First, the tool access issue. Companies roll out M365 Copilot licenses across the organization and call it “AI adoption.” But nobody explains what people should actually use it for. It’s like handing everyone a Swiss Army knife and then wondering why they only ever use the blade. Without use cases, it just becomes an expensive icon in the ribbon. Then there’s the trust gap. You’ve got senior engineers and specialists with 20+ years of experience. They’ve built careers on judgment and precision. Of course they don’t blindly trust AI output and for safety-critical or compliance-heavy work, they absolutely shouldn’t. But for drafting, summarizing, structuring ideas, or preparing first passes? The resistance ends up costing them hours every week. The measurement problem is another big one. “We deployed AI” sounds impressive, but it’s meaningless. The real question is: which exact workflows got faster? Which tasks became more accurate? Which processes got cheaper? Most organizations never measure at that level. So they can’t prove value — and momentum fades. Governance is where things get uncomfortable. Legal, compliance, cybersecurity, HSE, they need clear boundaries. Where can AI be used? Where is it off-limits? What data is allowed? Many companies skip this step because it slows things down. Then someone uses ChatGPT to draft a contract, and suddenly everyone panics. And finally, scaling. One team figures out an incredible AI workflow that saves hours every week. But it stays within that team. There’s no structured way to share what works across departments. So instead of compounding gains, progress stays siloed. What I’ve seen actually work: Prompt libraries tailored to specific roles, not generic “how to use AI” guides Clear guardrails on when AI is appropriate (and when it isn’t) Department-level champions who actively share workflows Measuring time saved on specific tasks instead of vague “productivity boosts” Enterprise AI adoption isn’t a tech rollout. It’s a behavior shift. Curious, if you’re working on this inside your organization, what’s blocking you right now?
-
-7h ago
-
----
-
 **[I found Claude for Government buried in the Claude Desktop binary. Here's what Anthropic built, how it got deployed, and the line they're still holding against the Pentagon.](https://www.reddit.com/r/artificial/comments/1r7tsff/i_found_claude_for_government_buried_in_the/)**
 
 https://aaddrick.com/blog/claude-for-government-the-last-lab-standing Pulled the Claude Desktop binary the same day it shipped and confirmed it in code. Anthropic's government deployment mode showed up on their status tracker February 17th. Traffic routes to claude.fedstart.com, authentication goes through Palantir Keycloak SSO, Sentry telemetry is disabled, and a pubsec banner gets injected. All of it landed in one release with zero prior trace across eight versions. The GSA deal, the DoD contract dispute, and the Pentagon's supply chain risk threat are covered in the full breakdown linked above.
 
-🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 2h ago
+🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 3h ago
+
+---
+
+**[The gap between AI demos and enterprise usage is wider than most people think](https://www.reddit.com/r/artificial/comments/1r7n3sl/the_gap_between_ai_demos_and_enterprise_usage_is/)**
+
+I work on AI deployment inside my company, and the gap between what AI looks like in a polished demo… and what actually happens in real life? I think about that a lot. Here’s what I keep running into. First, the tool access issue. Companies roll out M365 Copilot licenses across the organization and call it “AI adoption.” But nobody explains what people should actually use it for. It’s like handing everyone a Swiss Army knife and then wondering why they only ever use the blade. Without use cases, it just becomes an expensive icon in the ribbon. Then there’s the trust gap. You’ve got senior engineers and specialists with 20+ years of experience. They’ve built careers on judgment and precision. Of course they don’t blindly trust AI output and for safety-critical or compliance-heavy work, they absolutely shouldn’t. But for drafting, summarizing, structuring ideas, or preparing first passes? The resistance ends up costing them hours every week. The measurement problem is another big one. “We deployed AI” sounds impressive, but it’s meaningless. The real question is: which exact workflows got faster? Which tasks became more accurate? Which processes got cheaper? Most organizations never measure at that level. So they can’t prove value — and momentum fades. Governance is where things get uncomfortable. Legal, compliance, cybersecurity, HSE, they need clear boundaries. Where can AI be used? Where is it off-limits? What data is allowed? Many companies skip this step because it slows things down. Then someone uses ChatGPT to draft a contract, and suddenly everyone panics. And finally, scaling. One team figures out an incredible AI workflow that saves hours every week. But it stays within that team. There’s no structured way to share what works across departments. So instead of compounding gains, progress stays siloed. What I’ve seen actually work: Prompt libraries tailored to specific roles, not generic “how to use AI” guides Clear guardrails on when AI is appropriate (and when it isn’t) Department-level champions who actively share workflows Measuring time saved on specific tasks instead of vague “productivity boosts” Enterprise AI adoption isn’t a tech rollout. It’s a behavior shift. Curious, if you’re working on this inside your organization, what’s blocking you right now?
+
+8h ago
 
 ---
 
@@ -57,7 +57,7 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing Pulled the
 
 AI startup ElevenLabs, valued at $11 billion, employs small teams with high sales quotas.
 
-🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 5h ago
+🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 7h ago
 
 ---
 
@@ -65,7 +65,7 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 "Elon Musk’s SpaceX and its subsidiary xAI are joining a secretive US Department of Defense competition centered on a voice command and control tool that could deploy multiple autonomous systems. The project, launched in January with a $100-million budget and a six-month timeline, requires software that could coordinate unmanned swarming operations across the air and at sea, according to Bloomberg. The Pentagon’s Defense Innovation Unit and its new Defense Autonomous Warfare Group under the US Special Operations Command are overseeing the competition. The contest will unfold in phases, starting with software development before advancing to live trials. SpaceX and xAI’s participation marks an expansion of Musk’s defense work into artificial intelligence-enabled weapons software, as the Pentagon moves to accelerate drone development and domestic manufacturing while cutting bureaucracy. It also follows Washington’s call for cost-effective counter-drone solutions, particularly to protect critical military and civilian infrastructure as well as large public events. Separately, xAI, alongside other firms such as ChatGPT owner OpenAI, secured defense contracts worth up to $200 million each last year to expand advanced artificial intelligence use across military systems."
 
-🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 9h ago
+🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 11h ago
 
 ---
 
@@ -73,7 +73,7 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
 
-35m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day 
 
 Japanese company seeks to help copyright holders receive share of revenue
 
-🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 46m ago
+🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Japanese company seeks to help copyright holders receive share of revenue
 
 A self-hosted platform for running Claude agent swarms with a React UI, deployed on GCP Cloud Run. - simonstaton/ClaudeSwarm
 
-🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 7h ago
+🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 8h ago
 
 ---
 
@@ -105,7 +105,7 @@ A self-hosted platform for running Claude agent swarms with a React UI, deployed
 
 The blockbuster investment comes as India pushes to gain a stronger foothold in the global artificial intelligence race.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 19h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/17/india-adani-ai-data-centers-investment.html) • 20h ago
 
 ---
 
@@ -121,27 +121,19 @@ So the guy who built OpenClaw, originally called Clawdbot because it was literal
 
 ## Google News: "ai"
 
-**[Thousands of CEOs just admitted AI had no impact on employment or productivity—and it has economists resurrecting a paradox from 40 years ago](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)**
-
-In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
-
-Fortune • 13h ago
-
----
-
 **[Anthropic releases Claude Sonnet 4.6, continuing breakneck pace of AI model releases](https://www.cnbc.com/2026/02/17/anthropic-ai-claude-sonnet-4-6-default-free-pro.html)**
 
 Claude Sonnet 4.6 is more consistent with coding and is better at following coding instructions, Anthropic said.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
-**[Meta expands Nvidia deal to use millions of AI chips in data center build-out, including standalone CPUs](https://www.cnbc.com/2026/02/17/meta-nvidia-deal-ai-data-center-chips.html)**
+**[Race for AI is making Hindenburg-style disaster ‘a real risk’, says leading expert](https://www.theguardian.com/science/2026/feb/17/ai-race-hindenburg-style-disaster-a-real-risk-michael-wooldridge)**
 
-Meta expands partnership with Nvidia in a deal likely worth tens of billions, for deploying millions of GPUs and new standalone CPUs in AI data centers
+Prof Michael Wooldridge says scenario such as deadly self-driving car update or AI hack could destroy global interest
 
-CNBC • 10h ago
+The Guardian • 6h ago
 
 ---
 
@@ -149,49 +141,57 @@ CNBC • 10h ago
 
 Nvidia and Meta are expanding their chip deal to include millions of more AI processors.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 11h ago
 
 ---
 
-**[Nvidia Boosts India AI Buildout as E2E, Yotta Get Advanced GPUs](https://www.bloomberg.com/news/articles/2026-02-18/nvidia-boosts-india-ai-buildout-as-e2e-yotta-get-advanced-gpus)**
+**[Nvidia is partnering with major Indian VC firms in search for the country's next AI start-ups](https://www.cnbc.com/2026/02/18/nvidia-india-ai-vc-data-center-partners.html)**
 
-Bloomberg.com • 46m ago
+Nvidia is expanding its partnerships in India, including with venture capital firms, as it bets on the country's AI ecosystem that has drawn massive Big Tech investments.
 
----
-
-**[More than 50% of enterprise software could switch to AI, Mistral CEO says](https://www.cnbc.com/2026/02/18/ai-mistral-software-switch-ceo-india-ai-impact-summit.html)**
-
-Software stocks have sold off on fears AI could eat into so-called software as a service, or SaaS, business models.
-
-CNBC • 1h ago
+CNBC • 4h ago
 
 ---
 
-**[How AI Is Redefining Enterprise Cloud Competition](https://www.forbes.com/sites/bernardmarr/2026/02/18/how-ai-is-redefining-enterprise-cloud-competition/)**
+**[Nvidia Gets Big Meta Commitment. What It Means for the Broadcom AI Chips Threat.](https://www.barrons.com/articles/nvidia-stock-price-meta-broadcom-ai-chips-47997103?gaa_at=eafs&gaa_n=AWEtsqfjmVUp3dKJzJsB2nnWSlC4qjlWiy5sUOZGtY3vJKdEKpTMp9CjZm9K&gaa_ts=69958067&gaa_sig=jllHKP5jqamzKoZuTfgHWMw_JdjXVgIo13ZMG8UQS39inVZ7Nhy_rQKh9FXdl9zoK4oJz6OybNzTmCnamvnrRA%3D%3D)**
 
-Forbes • 26m ago
+Barron's • 19m ago
 
 ---
 
-**[12-hour days, no weekends: the anxiety driving AI’s brutal work culture is a warning for all of us](https://www.theguardian.com/technology/ng-interactive/2026/feb/17/ai-startups-work-culture-san-francisco)**
+**[Tech billionaires fly in for Delhi AI expo as Modi jostles to lead in south](https://www.theguardian.com/technology/2026/feb/18/delhi-ai-expo-modi-jostles-lead-south)**
 
-San Francisco’s AI startups are pushing workers to grind endlessly, hinting at pressures soon hitting other sectors
+Google, Anthropic and OpenAI bosses to mingle with global south leaders wrestling for control over technology
 
-The Guardian • 11h ago
+The Guardian • 3h ago
+
+---
+
+**[How the global effort to keep AI safe went off the rails](https://www.politico.eu/article/how-the-global-effort-to-keep-ai-safe-went-off-the-rails/)**
+
+Those gathered in New Delhi are no longer obsessing about how to control AI risks but figuring out who can benefit.
+
+politico.eu • 11h ago
+
+---
+
+**[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.yahoo.com/news/articles/india-tells-university-leave-ai-075331343.html)**
+
+An Indian university has been asked to vacate its stall at the country's flagship AI summit after a ‌staff member was caught presenting a commercially available robotic dog made in China ‌as its own c...
+
+Yahoo • 55m ago
+
+---
+
+**[Why Agentic AI Is Breaking The SaaS Pricing Model](https://www.forbes.com/sites/peterbendorsamuel/2026/02/18/why-agentic-ai-is-breaking-the-saas-pricing-model/)**
+
+Forbes • 16m ago
 
 ---
 
 **[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
 The New York Times • 1d ago
-
----
-
-**[Meta wins patent for AI that could post for dead social media users](https://mashable.com/article/meta-patent-ai-dead-bot-llm)**
-
-The company says its just a concept, and doesn't plan to advance the idea.
-
-Mashable • 5h ago
 
 ---
 
@@ -203,7 +203,15 @@ Mashable • 5h ago
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Talarico on the broadcast.
 
-⬆️ 485 • 💬 221 • 14h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 487 • 💬 221 • 16h ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+
+---
+
+**[Thousands of CEOs just admitted AI had no impact on employment or productivity](https://news.ycombinator.com/item?id=47055979)**
+
+In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
+
+⬆️ 431 • 💬 314 • 7h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -213,7 +221,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging it's AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 403 • 💬 329 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 404 • 💬 329 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -221,7 +229,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 : The software doesn't show what files it's working on
 
-⬆️ 391 • 💬 239 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
+⬆️ 393 • 💬 239 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/anthropic_claude_ai_edits/)
 
 ---
 
@@ -229,15 +237,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 371 • 💬 304 • 1d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
-
----
-
-**[Thousands of CEOs just admitted AI had no impact on employment or productivity](https://news.ycombinator.com/item?id=47055979)**
-
-In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
-
-⬆️ 368 • 💬 256 • 5h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 372 • 💬 304 • 1d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -245,7 +245,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 opinion: The subtractive bias we're ignoring
 
-⬆️ 245 • 💬 184 • 15h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 250 • 💬 185 • 16h ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -275,7 +275,7 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 **[An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://news.ycombinator.com/item?id=47051956)**
 
-⬆️ 107 • 💬 78 • 12h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
+⬆️ 107 • 💬 78 • 13h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
 
 ---
 
@@ -289,7 +289,7 @@ Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code F
 
 📺 Fireship
 
-👁️ 301K • 👍 14K • 💬 819 • ⏱️ 5:02 • 13h ago
+👁️ 301K • 👍 14K • 💬 819 • ⏱️ 5:02 • 14h ago
 
 ---
 
@@ -309,7 +309,7 @@ Matt Shumer joins "CBS Mornings" to discuss his now viral article, "Something Bi
 
 📺 CBS Mornings
 
-👁️ 46K • 👍 851 • 💬 212 • ⏱️ 7:07 • 17h ago
+👁️ 46K • 👍 851 • 💬 212 • ⏱️ 7:07 • 18h ago
 
 ---
 
@@ -329,7 +329,7 @@ There has been a growing uproar Monday over a fight scene between Brad Pitt and 
 
 📺 Focus Features
 
-👁️ 1.6M • 👍 616 • 💬 103 • ⏱️ 2:43 • 15h ago
+👁️ 1.6M • 👍 616 • 💬 103 • ⏱️ 2:43 • 16h ago
 
 ---
 
@@ -359,7 +359,7 @@ Anthropic's Claude Sonnet 4.6 just dropped, and it's a game-changer for develope
 
 📺 WorldofAI
 
-👁️ 17K • 👍 394 • 💬 23 • ⏱️ 13:14 • 12h ago
+👁️ 17K • 👍 394 • 💬 23 • ⏱️ 13:14 • 13h ago
 
 ---
 
@@ -407,7 +407,7 @@ MiniMax-M2.5 is a text-generation model designed for generating human-like text.
 
 `text-generation` `228.7B`
 
-⬇️ 40,292 • ❤️ 721 • 1d ago
+⬇️ 40,292 • ❤️ 721 • 2d ago
 
 ---
 
@@ -431,7 +431,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 50,917 • ❤️ 550 • 22h ago
+⬇️ 50,917 • ❤️ 550 • 23h ago
 
 ---
 
@@ -503,7 +503,7 @@ Ring-2.5-1T is an open-source trillion-parameter text generation model featuring
 
 `text-generation` `1012.5B`
 
-⬇️ 3,593 • ❤️ 192 • 2d ago
+⬇️ 3,593 • ❤️ 192 • 3d ago
 
 ---
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 11.1k • 🔱 1.1k • 3m ago
+⭐ 11.1k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -689,7 +689,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.7k • 🔱 273 • 39m ago
+⭐ 2.7k • 🔱 273 • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.4k • 🔱 294 • 13h ago
+⭐ 2.4k • 🔱 294 • 14h ago
 
 ---
 
@@ -709,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.4k • 🔱 161 • 1h ago
+⭐ 2.4k • 🔱 161 • 3h ago
 
 ---
 
@@ -719,7 +719,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.2k • 🔱 112 • 23h ago
+⭐ 2.2k • 🔱 112 • 1d ago
 
 ---
 
@@ -739,7 +739,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `Python`
 
-⭐ 1.8k • 🔱 231 • 14h ago
+⭐ 1.8k • 🔱 231 • 15h ago
 
 ---
 
