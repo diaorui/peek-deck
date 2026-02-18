@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-18T02:40:55.076299+00:00'
+updated: '2026-02-18T04:54:37.162939+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 02:40 UTC  
+**Last Updated:** February 18, 2026 at 04:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,58 +38,66 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,733.24
+### $67,750.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +1.7%  
-**30d:** -23.8%  
-**90d:** -20.7%  
-**1y:** -30.3%  
+**24h:** -0.7%  
+**7d:** +2.3%  
+**30d:** -23.3%  
+**90d:** -20.2%  
+**1y:** -29.8%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1346.05B
+**Market Cap:** $1353.31B
 Rank #1
 
-**Circulating Supply:** 19,991,112 BTC
+**Circulating Supply:** 19,991,175 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.6%
+-46.3%
 
 **All-Time Low:** $67.81
-+99196.6%
++99739.3%
 
 ---
 
 ## Fear & Greed Index
 
-### 10
+### 8
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin ownership change in 2025](https://www.reddit.com/r/Bitcoin/comments/1r79p2b/bitcoin_ownership_change_in_2025/)**
-
-An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
-
-10h ago
-
----
-
 **[The Dutch passed a 36% tax on unrealized gains for crypto…](https://www.reddit.com/r/Bitcoin/comments/1r7bycz/the_dutch_passed_a_36_tax_on_unrealized_gains_for/)**
 
 https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-crypto-stock-and-bond-gains/ Uh oh…
 
-9h ago
+11h ago
+
+---
+
+**[Bitcoin ownership change in 2025](https://www.reddit.com/r/Bitcoin/comments/1r79p2b/bitcoin_ownership_change_in_2025/)**
+
+An estimated 66.7% (14M BTC) is still owned by individuals per River. The big question is at what price individuals will sell to businesses and ETF holders.
+
+13h ago
+
+---
+
+**[I just hit 0.17 bitcoin todayj](https://www.reddit.com/r/Bitcoin/comments/1r7rr6g/i_just_hit_017_bitcoin_todayj/)**
+
+I just hit 0.17 of a bitcoin today and wanted to document my journey here today. I know its not alot compared to what some people have but it is what it is. I also kick myself because I found an old coinbase receipt in my email from 2017 where I was buying BTC, I also had about 20k in BTC in July 2021 which I sold all of and then again in 2023 I bought a bunch and of course sold it. This time around I have a cold storage wallet that every-time I buy my BTC I sent it directly and immediately to the cold storage. I don't know where the price is going nor do i care I'm just going to keep buying a little bit everyday or week or month or whenever i can and document my journey here, BTC. I started in May of 2025 this process so lets see how long it takes me.
+
+1h ago
 
 ---
 
@@ -97,7 +105,7 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 ... electricity that would, without Bitcoin never exist.
 
-5h ago
+7h ago
 
 ---
 
@@ -105,13 +113,13 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 February 17, 2026
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 13h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-2486-btc-now-holds-717131-btc_02-17-2026) • 15h ago
 
 ---
 
 **[Still awesome, 8 years old gem](https://www.reddit.com/r/Bitcoin/comments/1r7c3vq/still_awesome_8_years_old_gem/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -119,7 +127,7 @@ February 17, 2026
 
 Let's say you have 210 BTC, would you keep it all in one wallet or would you have different hardware wallets?  [comments]
 
-14h ago
+16h ago
 
 ---
 
@@ -129,27 +137,19 @@ Let's say you have 210 BTC, would you keep it all in one wallet or would you hav
 
 ---
 
-**[The risk of waiting for an “extreme Bitcoin bottom”](https://www.reddit.com/r/Bitcoin/comments/1r7bctz/the_risk_of_waiting_for_an_extreme_bitcoin_bottom/)**
-
-A common idea during market downturns is to wait for a massive crash before buying Bitcoin. On paper, this sounds logical: buy when prices are deeply discounted. In reality, markets rarely give perfectly timed entry points that everyone expects. Extreme price targets often become psychological anchors rather than realistic planning tools. When severe market drops happen, uncertainty and fear usually increase, which can make decision-making harder. Bitcoin’s fixed supply is often discussed as a long-term fundamental factor. However, individual market participants approach accumulation differently. Some focus on gradual accumulation strategies, while others attempt to time large market moves. Both approaches carry different types of risk. From a risk management perspective, it can be useful to ask: If Bitcoin experienced a severe market drop, would you feel confident accumulating? Or would market uncertainty make you more cautious? Curious how others here think about long term accumulation vs trying to time extreme market events. (Not financial advice — discussion only.)
-
-9h ago
-
----
-
 **[I finally set up my hardware wallet](https://www.reddit.com/r/Bitcoin/comments/1r7nzw2/i_finally_set_up_my_hardware_wallet/)**
 
 Yes this thread will kill me but I got a ledger wallet. I opted out of the key card and cloud storage phrase key. Moved all my bitcoin there. Not much but it’s something. Next move is to stamp my key phrase on metal. That comes later.
 
-2h ago
+4h ago
 
 ---
 
-**[Im going all in](https://www.reddit.com/r/Bitcoin/comments/1r6pov6/im_going_all_in/)**
+**[The risk of waiting for an “extreme Bitcoin bottom”](https://www.reddit.com/r/Bitcoin/comments/1r7bctz/the_risk_of_waiting_for_an_extreme_bitcoin_bottom/)**
 
-Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here ever sold something major to buy Bitcoin? Regret it or not?
+A common idea during market downturns is to wait for a massive crash before buying Bitcoin. On paper, this sounds logical: buy when prices are deeply discounted. In reality, markets rarely give perfectly timed entry points that everyone expects. Extreme price targets often become psychological anchors rather than realistic planning tools. When severe market drops happen, uncertainty and fear usually increase, which can make decision-making harder. Bitcoin’s fixed supply is often discussed as a long-term fundamental factor. However, individual market participants approach accumulation differently. Some focus on gradual accumulation strategies, while others attempt to time large market moves. Both approaches carry different types of risk. From a risk management perspective, it can be useful to ask: If Bitcoin experienced a severe market drop, would you feel confident accumulating? Or would market uncertainty make you more cautious? Curious how others here think about long term accumulation vs trying to time extreme market events. (Not financial advice — discussion only.)
 
-1d ago
+12h ago
 
 ---
 
@@ -157,21 +157,17 @@ Im selling my car to be able to buy 0.15 btc and save for my future. Anyone here
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqeoFdoWPPzSycuXmPFYUqjnj4YummaKcYeMueFIF5Pn2KZRrqKn0eSF&gaa_ts=69952a1e&gaa_sig=HuUJcPkrzJVU7MNs84Ca5QKgWkkM1wBALzPoWavY1u3X4qQ1jbc_RCHB1YodrC_NEGDInjMIoRAjn84GV5y7OA%3D%3D)**
+**[Bitcoin Looks for Direction After Four Straight Weekly Losses](https://www.bloomberg.com/news/articles/2026-02-16/bitcoin-looks-for-direction-after-four-straight-weekly-losses)**
 
-Barron's • 4h ago
-
----
-
-**[Starboard Is Said to Urge Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/articles/2026-02-18/starboard-is-said-to-urge-riot-to-speed-up-shift-to-data-centers)**
-
-Bloomberg.com • 1h ago
+Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin scheme uses intimidation, fear to drain millions from Florida victims](https://www.wfla.com/news/polk-county/bitcoin-scheme-uses-intimidation-fear-drains-millions-from-victims/)**
+**[GoFundMe campaign seeks to buy Bitcoin to help spur Nancy Guthrie’s release](https://fortune.com/2026/02/17/gofund-me-campaign-seeks-to-buy-bitcoin-to-help-spur-nancy-guthries-release/)**
 
-WFLA • 2h ago
+The fundraiser effort comes after a new letter was sent to TMZ demanding Bitcoin in exchange for information about Guthrie’s captors
+
+Fortune • 8h ago
 
 ---
 
@@ -179,13 +175,13 @@ WFLA • 2h ago
 
 Bitcoin and stocks such as Robinhood and Boeing could surge as potentially higher tax refunds this season lead investors to splurge on riskier trades.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
 **[Bitcoin's Crash Is Putting Crypto Treasury Stocks To The Test](https://www.forbes.com/sites/ninabambysheva/2026/02/17/bitcoins-crash-is-putting-crypto-treasury-stocks-to-the-test/)**
 
-Forbes • 15h ago
+Forbes • 17h ago
 
 ---
 
@@ -193,7 +189,7 @@ Forbes • 15h ago
 
 Both Mubadala Investment Company and Al Warda Investments lifted investments in BlackRock's iShares Bitcoin ETF (IBIT) in the fourth quarter.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -201,7 +197,7 @@ CoinDesk • 4h ago
 
 Mubadala Investment Company and Al Warda Investments owned over 20 million shares in BlackRock's BTC exchange-traded fund in Q4.
 
-The Block • 9h ago
+The Block • 11h ago
 
 ---
 
@@ -209,23 +205,29 @@ The Block • 9h ago
 
 Abu Dhabi funds added to their Bitcoin exposure in Q4, jumping to more than $1 billion worth of IBIT at the conclusion of the year.
 
-Decrypt • 5h ago
+Decrypt • 7h ago
 
 ---
 
-**[Strategy’s Bitcoin Buying Accelerates as $48 Billion BTC Stash Sits Underwater](https://finance.yahoo.com/news/strategy-bitcoin-buying-accelerates-48-161342523.html)**
+**[‘Nightmare’ Bitcoin scheme draining millions from Floridians](https://www.wfla.com/8-on-your-side/better-call-behnken/wfla-now-live-nightmare-bitcoin-scheme-draining-millions-from-floridians/)**
 
-Strategy reported its fourth-largest Bitcoin purchase of the year, a week after Michael Saylor's defense of the company's became a meme.
-
-Yahoo Finance • 10h ago
+WFLA • 12h ago
 
 ---
 
-**[Strategy (MSTR) news: company added 2,486 bitcoin last week](https://www.coindesk.com/markets/2026/02/17/michael-saylor-s-strategy-purchased-usd168-million-in-bitcoin-last-week)**
+**[Bitcoin has value to many people around the world](https://chicago.suntimes.com/columnists/2026/02/17/bitcoin-tech-broken-economies-repression-ben-jealous)**
 
-The company's stack is now 717,131 bitcoin acquired for $54.52 billion, or $76,027 per coin. Bitcoin's current price is $68,000.
+Bitcoin can travel when everything else is confiscated or left behind, as some pointed out at the Black Blockchain Summit at Howard University last fall.
 
-CoinDesk • 13h ago
+Chicago Sun-Times • 16h ago
+
+---
+
+**[Metaplanet posts $619 million net loss on bitcoin valuation as holdings climb to 35,102 BTC](https://www.theblock.co/post/390048/metaplanet-posts-619-million-net-loss-on-bitcoin-valuation-as-holdings-climb-to-35102-btc)**
+
+Metaplanet posted a $619 million FY2025 loss on its bitcoin valuation, while its total holdings jumped to 35,102 BTC and revenue surged.
+
+The Block • 1d ago
 
 ---
 
@@ -261,7 +263,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 2 • 💬 0 • 9h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 2 • 💬 0 • 11h ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -275,13 +277,13 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 5h ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 7h ago • [b4q.io](https://b4q.io/research)
 
 ---
 
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
-⬆️ 1 • 💬 1 • 12h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+⬆️ 1 • 💬 1 • 15h ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -313,33 +315,23 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Whales JUST Flipped (KNOW THIS)](https://www.youtube.com/watch?v=hel6MPL79eo)**
-
-ExpressVPN: https://bit.ly/3OLJZ2B. ⚠️ Follow Me On Twitter: https://twitter.com/financial_index. ✓ Patreon Community: ...
-
-📺 Michael Wrubel
-
-👁️ 15K • 💬 86 • ⏱️ 7:07 • 3h ago
-
----
-
-**[This Is Where ALL The Money Is Made. (My 4th Bitcoin Cycle)](https://www.youtube.com/watch?v=iwduqUyuw9c)**
-
-Everyone is down and I don't blame them but you are missing it. This is when ALL The money is made AND YOU MADE IT!
-
-📺 Digital Asset News
-
-👁️ 8K • 👍 578 • 💬 39 • ⏱️ 28:14 • 6h ago
-
----
-
 **[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
 
 Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
 
 📺 Mark Moss
 
-👁️ 30K • 👍 2K • 💬 300 • ⏱️ 20:14 • 5h ago
+👁️ 33K • 👍 2K • 💬 335 • ⏱️ 20:14 • 7h ago
+
+---
+
+**[Bitcoin Whales JUST Flipped (KNOW THIS)](https://www.youtube.com/watch?v=hel6MPL79eo)**
+
+ExpressVPN: https://bit.ly/3OLJZ2B. ⚠️ Follow Me On Twitter: https://twitter.com/financial_index. ✓ Patreon Community: ...
+
+📺 Michael Wrubel
+
+👁️ 17K • 💬 86 • ⏱️ 7:07 • 5h ago
 
 ---
 
@@ -349,47 +341,17 @@ Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will 
 
 📺 Altcoin Daily
 
-👁️ 84K • 👍 3K • 💬 542 • ⏱️ 10:49 • 1d ago
+👁️ 85K • 👍 3K • 💬 545 • ⏱️ 10:49 • 1d ago
 
 ---
 
-**[Ray Dalio Says The World Order Has Broken Down - Got Bitcoin?](https://www.youtube.com/watch?v=c7ECE995z34)**
+**[This Is Where ALL The Money Is Made. (My 4th Bitcoin Cycle)](https://www.youtube.com/watch?v=iwduqUyuw9c)**
 
-Ray Dalio Stage 6 debt cycle, sovereign debt crisis, dollar reserve system risk, inflation, currency debasement, trade wars, ...
+Everyone is down and I don't blame them but you are missing it. This is when ALL The money is made AND YOU MADE IT!
 
-📺 Swan Bitcoin
+📺 Digital Asset News
 
-👁️ 10K • 👍 675 • 💬 55 • ⏱️ 12:56 • 4h ago
-
----
-
-**[BITCOIN: It&#39;s Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=8Z5JBHB10hU)**
-
-BITCOIN: It's Happening AGAIN (History Repeating)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 5K • 👍 229 • 💬 30 • ⏱️ 15:02 • 4h ago
-
----
-
-**[JUST IN: Eric Trump Holds 6,000 Bitcoin Worth $400M – American Crypto Takeover Has Begun!](https://www.youtube.com/watch?v=JpFZLgvrdi0)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 2K • 👍 91 • 💬 7 • ⏱️ 20:58 • 4h ago
-
----
-
-**[Bitcoin Update (What&#39;s Happening)](https://www.youtube.com/watch?v=0_a-MveX0rE)**
-
-Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
-
-📺 Aaron Bennett
-
-👁️ 8K • 👍 565 • 💬 71 • ⏱️ 7:50 • 17h ago
+👁️ 8K • 👍 642 • 💬 42 • ⏱️ 28:14 • 8h ago
 
 ---
 
@@ -399,17 +361,55 @@ One of Bitcoin's most respected macro analysts, Lyn Alden, joins Natalie for a c
 
 📺 Natalie Brunell
 
-👁️ 32K • 👍 1K • 💬 273 • ⏱️ 55:19 • 15h ago
+👁️ 34K • 👍 2K • 💬 289 • ⏱️ 55:19 • 17h ago
 
 ---
 
-**[Sold My Maybach for more BTC! [Here is the shocking reason why…]](https://www.youtube.com/watch?v=UtOt2aAOiaE)**
+**[🚨 WHY I&#39;D SELL BITCOIN?!?!?!?! 😈](https://www.youtube.com/watch?v=2AmtjX07Tb8)**
 
-Mainstream media is screaming "CRYPTO WINTER!" — and that's exactly why I just sold my Maybach to buy more Bitcoin.
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
 
-📺 Davinci Jeremie
+📺 BRITISH HODL
 
-👁️ 8K • 👍 541 • 💬 75 • ⏱️ 21:16 • 1d ago
+👁️ 8K • 👍 808 • 💬 109 • ⏱️ 13:46 • 9h ago
+
+---
+
+**[BITCOIN CAPITULATION HAS BEGUN! Jack Mallers Sounds the ALARM](https://www.youtube.com/watch?v=WR-WX5Kl4WA)**
+
+Jack Mallers warns Bitcoin investors to brace for more pain as volatility intensifies. Bitcoin market outlook and capitulation ...
+
+📺 Savvy Finance
+
+👁️ 8K • 👍 478 • 💬 4 • ⏱️ 20:17 • 1d ago
+
+---
+
+**[Ray Dalio Says The World Order Has Broken Down - Got Bitcoin?](https://www.youtube.com/watch?v=c7ECE995z34)**
+
+Ray Dalio Stage 6 debt cycle, sovereign debt crisis, dollar reserve system risk, inflation, currency debasement, trade wars, ...
+
+📺 Swan Bitcoin
+
+👁️ 13K • 👍 850 • 💬 68 • ⏱️ 12:56 • 6h ago
+
+---
+
+**[JUST IN: Eric Trump Holds 6,000 Bitcoin Worth $400M – American Crypto Takeover Has Begun!](https://www.youtube.com/watch?v=JpFZLgvrdi0)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 3K • 👍 211 • 💬 12 • ⏱️ 20:58 • 7h ago
+
+---
+
+**[The Bull Case for Bitcoin with Lyn Alden](https://www.youtube.com/watch?v=1Is8m_sAXn0)**
+
+📺 Natalie Brunell
+
+👁️ 8K • 👍 296 • 💬 13 • ⏱️ 2:03 • 9h ago
 
 ---
 
