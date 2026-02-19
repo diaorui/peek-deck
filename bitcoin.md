@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T13:48:32.419809+00:00'
+updated: '2026-02-19T14:49:52.407671+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 13:48 UTC  
+**Last Updated:** February 19, 2026 at 14:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,215.11
+### $65,924.96
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -2.0%  
-**7d:** -4.3%  
-**30d:** -26.5%  
-**90d:** -22.2%  
-**1y:** -33.0%  
+**7d:** -3.7%  
+**30d:** -26.0%  
+**90d:** -21.6%  
+**1y:** -32.5%  
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 1h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 2h ago
 
 ---
 
@@ -101,7 +101,7 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
-19h ago
+20h ago
 
 ---
 
@@ -109,21 +109,21 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 SYNOPSIS British submarine coordinates appear on a public ledger disguised as transactions. Broadcast globally. Every ten minutes. Western intelligence services descend into chaos. Salvation lies with three strangers: a computer scientist, a civil servant and an army veteran.
 
-2h ago
+3h ago
 
 ---
 
 **[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
 
-21h ago
+22h ago
 
 ---
 
-**[Coinbase tax form - came after I filed my taxes](https://www.reddit.com/r/Bitcoin/comments/1r8kqrx/coinbase_tax_form_came_after_i_filed_my_taxes/)**
+**[Title: The Fed just casually mentioned RAISING rates while the S&P sits at an all-time high.](https://www.reddit.com/r/Bitcoin/comments/1r90sy3/title_the_fed_just_casually_mentioned_raising/)**
 
-Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
+Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-13h ago
+14m ago
 
 ---
 
@@ -131,23 +131,23 @@ Because I transferred Bitcoin from my outside wallet - and sold (had to keep afl
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
-**[stop listening to the technical analysis bros](https://www.reddit.com/r/Bitcoin/comments/1r8djax/stop_listening_to_the_technical_analysis_bros/)**
+**[Coinbase tax form - came after I filed my taxes](https://www.reddit.com/r/Bitcoin/comments/1r8kqrx/coinbase_tax_form_came_after_i_filed_my_taxes/)**
 
-They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
+Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
 
-17h ago
+14h ago
 
 ---
 
-**[⚡ Lightning Thursday! February 19, 2026: Explore the Lightning Network!⚡](https://www.reddit.com/r/Bitcoin/comments/1r8slvg/lightning_thursday_february_19_2026_explore_the/)**
+**[⛏️ BTC PROP Mining Now Supported on SoloHash in MinerBox 🎉](https://www.reddit.com/r/Bitcoin/comments/1r8z0px/btc_prop_mining_now_supported_on_solohash_in/)**
 
-The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources compiled by Jameson Lopp: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and the BitcoinDiscord.com chat
+https://preview.redd.it/tyw3nvbdcgkg1.png?width=1536&format=png&auto=webp&s=2319f8a342478cecd5169f4eb064587c802b6feb Hey Bitcoin miners 👋 If you’re mining on SoloHash, you can now monitor your BTC PROP mining stats directly in the MinerBox app 📊 You’ll be able to: Track hashrate & workers Monitor PROP pool performance Check your stats on the go 🔗 SoloHash: https://solohash.co.uk 🔗 MinerBox: http://minerbox.witplex.com Happy hashing and good luck hitting blocks! ⛏️🔥 #Bitcoin #BTC #Mining #CryptoMining #SoloHash
 
-6h ago
+1h ago
 
 ---
 
@@ -155,53 +155,49 @@ The lightning network is a second-layer solution on top of the Bitcoin blockchai
 
 ## Google News: "bitcoin"
 
-**[Bitcoin price news: BTC's bounce from this month's crash evaporates](https://www.coindesk.com/markets/2026/02/18/bitcoin-sinks-to-usd66-000-u-s-stocks-lose-steam-as-fed-minutes-mention-possible-rate-hike)**
+**[Bitcoin price news: BTC climbs to $67,000 as Trump says U.S. deficit cut by 78%](https://www.coindesk.com/markets/2026/02/19/bitcoin-shakes-off-u-s-session-losses-as-trump-says-u-s-trade-deficit-cut-by-78)**
 
-Bitcoin is now on track for its fifth consecutive weekly decline, and losing this level could open the floor for a fresh leg lower.
+Investors are focused less on the accuracy of Trump’s trade figures and more on how renewed tariff talk could mean higher-for-longer interest rates.
 
-CoinDesk • 17h ago
+CoinDesk • 10h ago
+
+---
+
+**[Hacker returns $21 million in stolen bitcoin to South Korean authorities: report](https://www.theblock.co/post/390451/hacker-returns-stolen-bitcoin-south-korea)**
+
+South Korean prosecutors have recovered the $21 million worth of bitcoin that was stolen from their custody last year.
+
+The Block • 4h ago
+
+---
+
+**[This Desktop Bitcoin Ticket Miner Dropped to $50 With Free Shipping](https://www.pcmag.com/deals/this-desktop-bitcoin-ticket-miner-dropped-to-50-with-free-shipping)**
+
+Solo-mine bitcoin with a compact, standalone device that's been slashed in price by 66%.
+
+PCMag • 49m ago
+
+---
+
+**[Voltage Launches First Payment-Volume Line of Credit: Bitcoin Finality, USD Settlement](https://markets.businessinsider.com/news/currencies/voltage-launches-first-payment-volume-line-of-credit-bitcoin-finality-usd-settlement-1035845338)**
+
+Austin, Texas, February 19th, 2026, FinanceWireVoltage Launches Industry's First Programmatic Revolving Line of Credit: Bitco...
+
+markets.businessinsider.com • 24m ago
+
+---
+
+**[Ledn Closes $188M Bitcoin-Backed Bond Deal – Is Crypto Credit Back From the Dead?](https://finance.yahoo.com/news/ledn-closes-188m-bitcoin-backed-131213681.html)**
+
+Ledn just pulled off something big.The company closed a $188M sale of Bitcoin backed bonds. It is the first time institutional style asset backed securities have been built from consumer crypto loans.Part of the deal includes investment grade notes priced at 335 basis points over the benchmark rate. That puts ...
+
+Yahoo Finance • 1h ago
 
 ---
 
 **[Abu Dhabi Funds Add to Bitcoin Bets Despite Crypto Rout](https://www.bloomberg.com/news/articles/2026-02-18/abu-dhabi-funds-add-to-bitcoin-bets-despite-crypto-rout)**
 
-Bloomberg • 1d ago
-
----
-
-**[Crypto steadies after selloff while derivatives flash caution signals](https://www.coindesk.com/markets/2026/02/19/bitcoin-ether-rise-as-altcoins-lag-in-low-volatility-trade)**
-
-Bitcoin and ether tick higher, but weak altcoin breadth, heavy liquidations and elevated options hedging suggest traders remain cautious in extreme fear conditions.
-
-CoinDesk • 2h ago
-
----
-
-**[Bitcoin ETFs hold billions despite price crash, but resilience masks harsh reality](https://www.coindesk.com/markets/2026/02/18/bitcoin-etfs-hold-billions-after-price-crash-but-resilience-masks-harsh-reality)**
-
-Bitcoin spot ETFs in the United States still hold about $85 billion in assets, despite the BTC price crash.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin Price Falls to $68,000. Why Ethereum, XRP Are Struggling to Find Direction.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-ai-tech-stocks-5e824042?gaa_at=eafs&gaa_n=AWEtsqdkA4KFCQvE6QlRW3EneTbHPIzKiXPhXMeYZzNwzcP5EJvx8PxyS2sJ&gaa_ts=6997180e&gaa_sig=jaDwqzEXrQCf8Q5yvKkyz6ka3B-PxGVgJaaFNKep-U1pfg5J1fQva_huutDu4IQr9OlO7WBDvvQZMhA0Xyy3xA%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Weeks-Long War With Iran Could Start Within Days: Bitcoin Under Pressure, But Gold, Silver, Oil Prices Surge](https://finance.yahoo.com/news/weeks-long-war-iran-could-204716334.html)**
-
-Gold, silver, oil prices surge on fears of a weeks-long Iran war, while Bitcoin slips as investors rotate into traditional safe-haven assets.
-
-Yahoo Finance • 17h ago
-
----
-
-**[When will bitcoin cross back above $100K? See what prediction markets believe](https://seekingalpha.com/news/4553402-when-will-bitcoin-cross-back-above-100k-see-what-prediction-markets-believe)**
-
-Seeking Alpha • 20h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -209,23 +205,27 @@ Seeking Alpha • 20h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
-**['Dr. Doom' Nouriel Roubini blasts bitcoin as 'bogus' and a risk to the financial system](https://www.businessinsider.com/bitcoin-dr-doom-nouriel-roubini-crypto-bogus-financial-system-risk-2026-2)**
+**[When will bitcoin cross back above $100K? See what prediction markets believe](https://seekingalpha.com/news/4553402-when-will-bitcoin-cross-back-above-100k-see-what-prediction-markets-believe)**
 
-Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
-
-Business Insider • 22h ago
+Seeking Alpha • 21h ago
 
 ---
 
-**[UAE-linked bitcoin mining amasses $344 million unrealized profit excluding energy costs: Arkham](https://www.theblock.co/post/390444/uae-linked-bitcoin-mining-amasses-344-million-unrealized-profit-excluding-energy-costs-arkham)**
+**[Bitcoin's Crash Is Putting Crypto Treasury Stocks To The Test](https://www.forbes.com/sites/ninabambysheva/2026/02/17/bitcoins-crash-is-putting-crypto-treasury-stocks-to-the-test/)**
 
-Arkham attributes approximately $344 million in unrealized profit to wallets linked to UAE royal family–affiliated mining operations.
+Forbes • 2d ago
 
-The Block • 4h ago
+---
+
+**[FutureBit launches Apollo III, U.S.-Engineered Home Bitcoin Miner](https://bitcoinmagazine.com/news/futurebit-apollo-iii-home-bitcoin-miner)**
+
+FutureBit launched the Apollo III today, a new home Bitcoin mining system combining a high-performance miner and a full Bitcoin node in a single desktop device.
+
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -245,7 +245,7 @@ Track billions in lost Bitcoin. Explore case studies, check dormant wallets, cal
 
 Explore everything you can do as a lightning app builder using Alby - getAlby/sandbox
 
-⬆️ 2 • 💬 1 • 5d ago • [GitHub](https://github.com/getAlby/sandbox)
+⬆️ 2 • 💬 1 • 6d ago • [GitHub](https://github.com/getAlby/sandbox)
 
 ---
 
@@ -289,7 +289,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 3 • 💬 1 • 18h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 3 • 💬 1 • 19h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
 
 ---
 
@@ -319,7 +319,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 1K • 💬 7 • ⏱️ 28:28 • 15h ago
+👁️ 35K • 👍 1K • 💬 7 • ⏱️ 28:28 • 16h ago
 
 ---
 
@@ -349,7 +349,7 @@ TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAP
 
 📺 Jason Pizzino
 
-👁️ 13K • 👍 869 • 💬 218 • ⏱️ 26:59 • 10h ago
+👁️ 13K • 👍 869 • 💬 218 • ⏱️ 26:59 • 11h ago
 
 ---
 
@@ -369,7 +369,7 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemin
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 348 • 💬 63 • ⏱️ 8:53 • 6h ago
+👁️ 5K • 👍 348 • 💬 63 • ⏱️ 8:53 • 7h ago
 
 ---
 
@@ -407,7 +407,7 @@ On this week's episode of CNBC Crypto World, bitcoin settles in the $60000 after
 
 📺 CNBC Television
 
-👁️ 16K • 👍 309 • 💬 210 • ⏱️ 12:56 • 17h ago
+👁️ 16K • 👍 309 • 💬 210 • ⏱️ 12:56 • 18h ago
 
 ---
 

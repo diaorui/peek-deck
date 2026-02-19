@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-19T13:48:32.411150+00:00'
+updated: '2026-02-19T14:49:52.399385+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 19, 2026 at 13:48 UTC  
+**Last Updated:** February 19, 2026 at 14:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,31 +49,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 "Machine learning can be used to fully reconstruct particle collisions at the LHC [Large Hadron Collider]. This new approach can reconstruct collisions more quickly and precisely than traditional methods, helping physicists better understand LHC data. [...] Each proton–proton collision at the LHC sprays out a complex pattern of particles that must be carefully reconstructed to allow physicists to study what really happened. For more than a decade, CMS has used a particle-flow (PF) algorithm, which combines information from the experiment's different detectors, to identify each particle produced in a collision. Although this method works remarkably well, it relies on a long chain of hand-crafted rules designed by physicists. The new CMS machine-learning-based particle-flow (MLPF) algorithm approaches the task fundamentally differently, replacing much of the rigid hand-crafted logic with a single model trained directly on simulated collisions. Instead of being told how to reconstruct particles, the algorithm learns how particles look in the detectors, like how humans learn to recognize faces without memorizing explicit rules. When benchmarked using data mimicking that from the current LHC run, the performance of the new machine-learning algorithm matched that of the traditional algorithm and, in some cases, even exceeded it. For example, when tested on simulated events in which top quarks were created, the algorithm improved the precision with which sprays of particles—known as jets—were reconstructed by 10%–20% in key particle momentum ranges. The new algorithm also allows a collision to be fully reconstructed far more quickly than before, because it can run efficiently on modern electronic chips known as graphics processing units (GPUs). Traditional algorithms typically need to run on central processing units (CPUs), which are often slower than GPUs for such tasks."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 11h ago
-
----
-
-**[OpenAI Funding Round Nears Record $100B Raise as Valuation Targets $850B](https://www.reddit.com/r/artificial/comments/1r8y452/openai_funding_round_nears_record_100b_raise_as/)**
-
-OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding news, & Sam Altman funding updates on the $100B raise.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 1h ago
-
----
-
-**[Open-source benchmark EVMbench tests how well AI agents handle smart contract exploits](https://www.reddit.com/r/artificial/comments/1r8y11e/opensource_benchmark_evmbench_tests_how_well_ai/)**
-
-EVMbench is a new open-source benchmark designed to test AI agents on practical smart contract security tasks. The benchmark was developed by OpenAI and Paradigm, and it focuses on real-world vulnerability patterns drawn from audited codebases and contest reports.
-
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/19/evmbench-open-source-benchmark-ai-agents/) • 1h ago
-
----
-
-**[Anthropic bans OAuth token usage in third-party tools — Claude Max/Pro users affected](https://www.reddit.com/r/artificial/comments/1r8t76o/anthropic_bans_oauth_token_usage_in_thirdparty/)**
-
-Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service. This means tools like Cline, Roo Code, OpenClaw, and anything using the Agent SDK with consumer OAuth tokens are now in violation of Anthropic's Terms of Service. Developers are told to use API key authentication only. Original discussion: https://www.reddit.com/r/ClaudeAI/comments/1r8t6mn/
-
-5h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 12h ago
 
 ---
 
@@ -81,7 +57,47 @@ Anthropic updated their Claude Code Docs legal compliance page to explicitly ban
 
 Seedance 2.0 API just went live, and I gave it a quick real-world test. It supports API, Skills, and MCP, and batch jobs are straightforward to submit. From integration to first successful run took me about a minute, and new users can test for free. If you’re producing video assets at scale, this may be useful: https://xskill.ai/#/?ref=S2VIIAQR
 
-1h ago
+2h ago
+
+---
+
+**[OpenAI Funding Round Nears Record $100B Raise as Valuation Targets $850B](https://www.reddit.com/r/artificial/comments/1r8y452/openai_funding_round_nears_record_100b_raise_as/)**
+
+OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding news, & Sam Altman funding updates on the $100B raise.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 2h ago
+
+---
+
+**[Open-source benchmark EVMbench tests how well AI agents handle smart contract exploits](https://www.reddit.com/r/artificial/comments/1r8y11e/opensource_benchmark_evmbench_tests_how_well_ai/)**
+
+EVMbench is a new open-source benchmark designed to test AI agents on practical smart contract security tasks. The benchmark was developed by OpenAI and Paradigm, and it focuses on real-world vulnerability patterns drawn from audited codebases and contest reports.
+
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/19/evmbench-open-source-benchmark-ai-agents/) • 2h ago
+
+---
+
+**[Anthropic bans OAuth token usage in third-party tools — Claude Max/Pro users affected](https://www.reddit.com/r/artificial/comments/1r8t76o/anthropic_bans_oauth_token_usage_in_thirdparty/)**
+
+Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service. This means tools like Cline, Roo Code, OpenClaw, and anything using the Agent SDK with consumer OAuth tokens are now in violation of Anthropic's Terms of Service. Developers are told to use API key authentication only. Original discussion: https://www.reddit.com/r/ClaudeAI/comments/1r8t6mn/
+
+7h ago
+
+---
+
+**[Google launches Lyria 3 AI music in Gemini — what this means for independent AI music platforms](https://www.reddit.com/r/artificial/comments/1r90ssr/google_launches_lyria_3_ai_music_in_gemini_what/)**
+
+Google just launched Lyria 3, their new AI music model, directly inside the Gemini app. Users can now generate 30-second music tracks from text prompts. This is a massive signal — big tech is legitimizing AI music creation. Apple is reportedly working on similar features too. But there's an interesting tension here: Google and Apple are treating AI music as a feature inside their ecosystems, while platforms like Nebula Music are building entire ecosystems around AI artists — full tracks, commercial licensing, artist profiles, discovery. I think this actually helps independent AI music platforms more than it hurts them. When Google normalizes AI music creation for mainstream users, the creators who take it seriously will look for dedicated platforms where they can actually build a catalog and audience. What do you think — does big tech entering the space validate AI music, or does it just commoditize it?
+
+14m ago
+
+---
+
+**[6,000 execs struggle to find the AI productivity boom](https://www.reddit.com/r/artificial/comments/1r8zwp2/6000_execs_struggle_to_find_the_ai_productivity/)**
+
+: Survey says 80% of firms see no gains from the tech
+
+🔗 [theregister.com](https://www.theregister.com/2026/02/18/ai_productivity_survey/) • 51m ago
 
 ---
 
@@ -89,7 +105,7 @@ Seedance 2.0 API just went live, and I gave it a quick real-world test. It suppo
 
 I know that is a rollout coming and the backend of openAi is I red code... But recently it's simply impossible to work with anything in GPT that needs any simple task... If you send an OCR... It is read wrong, then you get angry, helps to fix it and ask a simple txt with content for instance and GPT does... So you ask this simple task... Generate the file for download in .txt or .md and then the issues back again missing content... Resuming... I'm going crazy because GPT for one week already. Anybody with same simple issues like that? Cheers
 
-6h ago
+8h ago
 
 ---
 
@@ -101,25 +117,15 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain
 
 ---
 
-**[Built an agent that applied to 1,000 jobs in 48 hours](https://www.reddit.com/r/artificial/comments/1r8sbl0/built_an_agent_that_applied_to_1000_jobs_in_48/)**
-
-https://reddit.com/link/1r8sbl0/video/lwjy5ybzfekg1/player The agent gets two things: a snapshot of the browser and a tree showing every element it can click or fill. That's how it knows what's on the page and what it can interact with. From there it reasons through the form on its own. No hardcoded field mapping, no brittle selectors. It just looks at what's there and figures it out. What surprised me was how it handled situations I didn't plan for. LinkedIn session expired mid-application it reset the password and kept going. One listing had no form at all, just a contact email it sent the email directly with my resume. One application was in French it completed the whole thing in French. I didn't build any of that in. It just reasoned through it. 1,000 applications, 2 days, multiple interviews lined up. Open source: https://github.com/Pickle-Pixel/ApplyPilot
-
-6h ago
-
----
-
-**[Elon Musk Firms Enter Secret Pentagon Challenge for Voice-Based Drone Swarming Tech](https://www.reddit.com/r/artificial/comments/1r7jr7l/elon_musk_firms_enter_secret_pentagon_challenge/)**
-
-"Elon Musk’s SpaceX and its subsidiary xAI are joining a secretive US Department of Defense competition centered on a voice command and control tool that could deploy multiple autonomous systems. The project, launched in January with a $100-million budget and a six-month timeline, requires software that could coordinate unmanned swarming operations across the air and at sea, according to Bloomberg. The Pentagon’s Defense Innovation Unit and its new Defense Autonomous Warfare Group under the US Special Operations Command are overseeing the competition. The contest will unfold in phases, starting with software development before advancing to live trials. SpaceX and xAI’s participation marks an expansion of Musk’s defense work into artificial intelligence-enabled weapons software, as the Pentagon moves to accelerate drone development and domestic manufacturing while cutting bureaucracy. It also follows Washington’s call for cost-effective counter-drone solutions, particularly to protect critical military and civilian infrastructure as well as large public events. Separately, xAI, alongside other firms such as ChatGPT owner OpenAI, secured defense contracts worth up to $200 million each last year to expand advanced artificial intelligence use across military systems."
-
-🔗 [The Defense Post](https://thedefensepost.com/2026/02/17/pentagon-musk-voice-swarming/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Defense Department and Anthropic Square Off in Dispute Over A.I. Safety](https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html)**
+
+The New York Times • 14h ago
+
+---
 
 **[I hacked ChatGPT and Google's AI – and it only took 20 minutes](https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes)**
 
@@ -129,33 +135,9 @@ BBC • 1d ago
 
 ---
 
-**[Defense Department and Anthropic Square Off in Dispute Over A.I. Safety](https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html)**
+**[Jump raises $80M for advisor tools](https://www.axios.com/pro/fintech-deals/2026/02/19/jump-80m-series-b-insight-advisor-ai)**
 
-The New York Times • 13h ago
-
----
-
-**[Bill Gates pulls out of India's AI summit over Epstein files controversy](https://www.bbc.com/news/articles/c309qv9zglno)**
-
-The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
-
-BBC • 5h ago
-
----
-
-**[Bill Gates cancels AI summit keynote address amid fresh scrutiny over Epstein links](https://www.cnn.com/2026/02/18/india/bill-gates-india-summit-keynote-intl-hnk)**
-
-Bill Gates has pulled out of delivering his keynote address at an AI summit in India Thursday, his foundation said, as the billionaire faces scrutiny over his ties to late convicted sex offender Jeffrey Epstein.
-
-CNN • 8h ago
-
----
-
-**[Bill Gates' foundation says sudden withdrawal was 'to ensure the focus remains on the AI Summit’s key priorities'](https://fortune.com/2026/02/19/bill-gates-foundation-on-withdrawal-from-india-ai-summit/)**
-
-Gates is facing questions over his ties to late sex offender Jeffrey Epstein.
-
-Fortune • 48m ago
+Axios • 9m ago
 
 ---
 
@@ -163,39 +145,53 @@ Fortune • 48m ago
 
 Homes.com launched Homes AI powered by Microsoft Azure OpenAI, enabling conversational home search where buyers describe preferences in plain language.
 
-Fox News • 19m ago
+Fox News • 1h ago
 
 ---
 
-**[The rise of AI is making the future of work look bleak – but it could be an opportunity](https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-work-future)**
+**[Letters to the Editor: Lawmakers will likely take no action against AI-generated email campaigns](https://www.latimes.com/opinion/letters-to-the-editor/story/2026-02-19/ai-generated-emails-aqmd-campaign)**
 
-New technology has workers spooked, but experts say it’s creating an opening for a resurgence in worker power
+'I'll wager that nothing will be done about this. That means our public policy, which relies on opinions from constituents, will furthermore be influenced by individuals working with companies to generate AI email blasts,' writes an L.A. Times reader.
 
-The Guardian • 46m ago
-
----
-
-**[Fractal launches Vaidya 2.0, outperforming leading frontier models on Healthcare AI Benchmarks](https://finance.yahoo.com/news/fractal-launches-vaidya-2-0-131900109.html)**
-
-Fractal (www.fractal.ai), a global provider of artificial intelligence (AI) to Fortune 500® companies, today announced the launch of Vaidya 2.0, the next generation of its healthcare reasoning models available at Vaidya.ai. Debuting at the India AI Impact Summit 2026, Vaidya 2.0 scores 50.1 on HealthBench (hard), outperforming OpenAI's GPT-5 and Google's Gemini Pro 3 on this challenging benchmark.
-
-Yahoo Finance • 29m ago
+Los Angeles Times • 49m ago
 
 ---
 
-**[No one can agree on whether AI is the next big thing or all hype. Here’s why](https://www.cnn.com/2026/02/19/tech/ai-jobs-big-thing-hype)**
+**[Bill Gates cancels AI summit keynote address amid fresh scrutiny over Epstein links](https://www.cnn.com/2026/02/18/india/bill-gates-india-summit-keynote-intl-hnk)**
 
-AI is either your most helpful coworker, a glorified search engine or vastly overrated depending on who you ask.
+Bill Gates has pulled out of delivering his keynote address at an AI summit in India Thursday, his foundation said, as the billionaire faces scrutiny over his ties to late convicted sex offender Jeffrey Epstein.
 
-CNN • 3h ago
+CNN • 9h ago
 
 ---
 
-**[Measuring AI agent autonomy in practice](https://www.anthropic.com/research/measuring-agent-autonomy)**
+**[Bill Gates pulls out of India's AI summit over Epstein files controversy](https://www.bbc.com/news/articles/c309qv9zglno)**
 
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
 
-Anthropic • 17h ago
+BBC • 6h ago
+
+---
+
+**[Bill Gates Cancels India AI Summit Speech as Epstein Scrutiny Grows](https://www.wsj.com/world/india/bill-gates-cancels-india-ai-summit-speech-as-epstein-scrutiny-grows-dec78117?gaa_at=eafs&gaa_n=AWEtsqcDnR9w-wYwhOtpppbQj1OwrtkxkckGKOlejw8ztxWhH2_fOAEEfdfx&gaa_ts=6997267a&gaa_sig=vAwny4PfuKNOQx_13RYXejkB4G3LQZbX8SUtH2eENyWFnsbNoxCMpyCCQW3Ro0w3GSVWAb_1DO-3odo5CY-n3Q%3D%3D)**
+
+The Wall Street Journal • 45m ago
+
+---
+
+**[A new way to express yourself: Gemini can now create music](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/)**
+
+Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.
+
+blog.google • 22h ago
+
+---
+
+**[Figma stock jumps 15% as company sees AI monetization accelerating growth](https://www.cnbc.com/2026/02/18/figma-fig-q4-earnings-report-2025.html)**
+
+The design software company maintained its gross margin even as more people adopted the Figma Make artificial intelligence tool.
+
+CNBC • 17h ago
 
 ---
 
@@ -207,7 +203,7 @@ Anthropic • 17h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 779 • 💬 729 • 1d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 780 • 💬 729 • 1d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -225,7 +221,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging its AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 413 • 💬 347 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 413 • 💬 349 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -233,7 +229,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 opinion: The subtractive bias we're ignoring
 
-⬆️ 278 • 💬 215 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 278 • 💬 216 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -241,7 +237,7 @@ opinion: The subtractive bias we're ignoring
 
 fragments 18 Feb 2026
 
-⬆️ 192 • 💬 138 • 21h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 197 • 💬 138 • 22h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -257,7 +253,7 @@ I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and
 
 Artificial intelligence promises to reshape economies worldwide, but firm-level evidence on its effects in Europe remains scarce. This column uses survey data to examine how AI adoption affects productivity and employment across more than 12,000 European firms. The authors find that AI adoption increases labour productivity levels by 4% on average in the EU, with no evidence of reduced employment in the short run. The productivity benefits, however, are unevenly distributed. Medium and large firms, as well as firms that have the capacity to integrate AI through investments in intangible assets and human capital, experience substantially stronger productivity gains.
 
-⬆️ 146 • 💬 114 • 13h ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
+⬆️ 150 • 💬 114 • 14h ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
 
 ---
 
@@ -271,7 +267,7 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 **[What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://news.ycombinator.com/item?id=47061642)**
 
-⬆️ 127 • 💬 118 • 22h ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
+⬆️ 129 • 💬 119 • 23h ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
 
 ---
 
@@ -291,7 +287,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 94K • 👍 6K • 💬 2K • ⏱️ 28:51 • 14h ago
+👁️ 94K • 👍 6K • 💬 2K • ⏱️ 28:51 • 15h ago
 
 ---
 
@@ -311,7 +307,7 @@ GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED
 
 📺 Art Chad
 
-👁️ 111K • 👍 11K • 💬 974 • ⏱️ 24:36 • 20h ago
+👁️ 111K • 👍 11K • 💬 974 • ⏱️ 24:36 • 21h ago
 
 ---
 
@@ -321,7 +317,7 @@ Elon Musk says saving for retirement may be pointless in the AI age. The panel p
 
 📺 Valuetainment
 
-👁️ 199K • 👍 4K • 💬 1K • ⏱️ 33:49 • 17h ago
+👁️ 199K • 👍 4K • 💬 1K • ⏱️ 33:49 • 18h ago
 
 ---
 
@@ -351,7 +347,7 @@ Artificial intelligence and robotics are advancing at a pace few people are prep
 
 📺 MotivationHub
 
-👁️ 26K • 👍 314 • 💬 77 • ⏱️ 13:16 • 2d ago
+👁️ 26K • 👍 314 • 💬 77 • ⏱️ 13:16 • 3d ago
 
 ---
 
@@ -381,7 +377,7 @@ For mathematician Hannah Fry, the definition of artificial general intelligence 
 
 📺 New Scientist
 
-👁️ 44K • 👍 2K • 💬 593 • ⏱️ 26:45 • 19h ago
+👁️ 44K • 👍 2K • 💬 593 • ⏱️ 26:45 • 20h ago
 
 ---
 
@@ -409,7 +405,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 171,928 • ❤️ 1,376 • 5d ago
+⬇️ 171,928 • ❤️ 1,376 • 6d ago
 
 ---
 
@@ -433,7 +429,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 77,344 • ❤️ 587 • 11h ago
+⬇️ 77,344 • ❤️ 587 • 12h ago
 
 ---
 
@@ -651,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 14.6k • 🔱 1.5k • 1m ago
+⭐ 14.6k • 🔱 1.5k • 1h ago
 
 ---
 
@@ -699,7 +695,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.9k • 🔱 291 • 1h ago
+⭐ 2.9k • 🔱 291 • 2h ago
 
 ---
 
@@ -709,7 +705,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.6k • 🔱 318 • 5h ago
+⭐ 2.6k • 🔱 318 • 6h ago
 
 ---
 
@@ -719,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 171 • 4h ago
+⭐ 2.5k • 🔱 171 • 5h ago
 
 ---
 

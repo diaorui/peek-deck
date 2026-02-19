@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-19T13:48:32.425910+00:00'
+updated: '2026-02-19T14:49:52.413565+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 13:48 UTC  
+**Last Updated:** February 19, 2026 at 14:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,951.03
+### $1,931.42
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.9%  
-**7d:** -6.4%  
-**30d:** -35.9%  
-**90d:** -31.0%  
-**1y:** -30.1%  
+**24h:** -2.5%  
+**7d:** -5.5%  
+**30d:** -35.3%  
+**90d:** -30.3%  
+**1y:** -29.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was blown away by the recent interviews where Davide Crapis explained the exciting potential of Ethereum and AI agents. This feels like one of the biggest narrative opportunities the ecosystem has had in years. Precisely because the stakes are so high, I’d actually love to see EF lean into a very classic split of responsibilities: let the deepest technical people focus on building, coordination, and experimentation, and have a dedicated public‑facing person whose main job is interviews, conference talks, and selling the vision to AI founders and researchers -- similar to how Steve Wozniak and Steve Jobs complemented each other at Apple I understand the urge of putting Davide out there, he's good looking, charming, technically brilliant, and filled with enthusiasm. However in a lot of successful orgs, the people doing the most important technical work are not the ones doing the most public communication, not because they’re bad at it, but because their highest leverage is elsewhere. A specialized “storyteller for AI/agents,” backed by folks like Davide on the technical side, feels like the kind of structure that could really help Ethereum capture this moment.
 
-11h ago
+12h ago
 
 ---
 
@@ -88,7 +88,7 @@ I was blown away by the recent interviews where Davide Crapis explained the exci
 
 Your guide to Ethereum's upcoming gas repricing changes
 
-🔗 [gasrepricing.com](https://gasrepricing.com/) • 9h ago
+🔗 [gasrepricing.com](https://gasrepricing.com/) • 10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Your guide to Ethereum's upcoming gas repricing changes
 
 90% of my coins are on Ledger and I mostly don’t touch them. But I need to get a little into more active trading and look to do more swaps. The problem tho, ledger’s fees are a bit higher than i expected and I don’t really want to be transferring money wallet to wallet. Swaps from cold wallet also feel like too much and that’s not even considering the routes. What everyone else does?
 
-6h ago
+7h ago
 
 ---
 
@@ -104,19 +104,19 @@ Your guide to Ethereum's upcoming gas repricing changes
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/Dad2UonQ9Ag) • 9h ago
+🔗 [youtu.be](https://youtu.be/Dad2UonQ9Ag) • 10h ago
 
 ---
 
 **[Announcing the Platform Team at EF](https://www.reddit.com/r/ethereum/comments/1r8d9io/announcing_the_platform_team_at_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/platform) • 17h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/platform) • 19h ago
 
 ---
 
 **[Protocol Priorities Update for 2026](https://www.reddit.com/r/ethereum/comments/1r8j4dh/protocol_priorities_update_for_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/18/protocol-priorities-update-2026) • 14h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/18/protocol-priorities-update-2026) • 15h ago
 
 ---
 
@@ -130,7 +130,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum Protocol Studies 2026](https://www.reddit.com/r/ethereum/comments/1r8j3vp/ethereum_protocol_studies_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/ethereum-protocol-studies-26) • 14h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/ethereum-protocol-studies-26) • 15h ago
 
 ---
 
@@ -150,7 +150,7 @@ This is a good post on the impact of surveillance in Iran: https://www.myprivacy
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -180,7 +180,7 @@ Business Insider • 1d ago
 
 Asymmetric upside for Bitmine Immersion Technologies is likely if Ethereum (and the whole crypto space) recovers from the recent downtrend. More on BMNR stock.
 
-Seeking Alpha • 19h ago
+Seeking Alpha • 20h ago
 
 ---
 
@@ -192,11 +192,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[BitMine adds $90 million in ETH — Tom Lee says crypto sentiment reminiscent of 2018 and 2022 bottoms](https://www.coindesk.com/business/2026/02/17/bitmine-adds-usd90-million-in-eth-with-tom-lee-comparing-crypto-sentiment-to-2018-and-2022-bottoms)**
+**[BitMine grows Ethereum treasury to 4.37 million ETH, sees $252 million annual staking revenue via MAVAN](https://www.theblock.co/post/390193/bitmine-grows-ethereum-treasury-to-4-37-million-eth-sees-252-million-annual-staking-revenue-via-mavan)**
 
-The Ethereum treasury firm continues its buying spree with its largest weekly ETH purchase in token terms this year.
+Tom Lee's BitMine said its ether treasury has climbed to 4.37 million ETH as the firm continues aggressive accumulation market prices.
 
-CoinDesk • 1d ago
+The Block • 1d ago
 
 ---
 
@@ -216,11 +216,11 @@ The Block • 1d ago
 
 ---
 
-**[BlackRock to skim 18% of staked Ethereum ETF rewards from investors — and ETHB exits could take weeks](https://cryptoslate.com/blackrock-to-skim-18-of-staked-ethereum-etf-rewards-from-investors-and-ethb-exits-could-take-weeks/)**
+**[News Explorer — BlackRock and Coinbase to Take 18% Cut of Staking Revenue From Ethereum ETF](https://decrypt.co/news-explorer?pinned=1317116&title=blackrock-and-coinbase-to-take-18-cut-of-staking-revenue-from-ethereum-etf)**
 
-BlackRock Ethereum staking ETF (ETHB) to face liquidity challenges and cue dynamics in pursuit of elevated returns.
+The next-generation media outlet navigating the intersection of culture and technology.
 
-CryptoSlate • 1d ago
+Decrypt • 1d ago
 
 ---
 
@@ -234,7 +234,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 56 • 💬 29 • ⏱️ 18:58 • 19h ago
+👁️ 2K • 👍 56 • 💬 29 • ⏱️ 18:58 • 20h ago
 
 ---
 
@@ -244,7 +244,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 482 • 👍 19 • 💬 2 • ⏱️ 4:36 • 17h ago
+👁️ 482 • 👍 19 • 💬 2 • ⏱️ 4:36 • 18h ago
 
 ---
 
@@ -254,7 +254,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 308 • 💬 61 • ⏱️ 12:25 • 20h ago
+👁️ 6K • 👍 308 • 💬 61 • ⏱️ 12:25 • 21h ago
 
 ---
 
@@ -264,7 +264,7 @@ BITCOIN JUST FAILED: This is Coming Next (Warning)!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 7K • 👍 252 • 💬 40 • ⏱️ 18:57 • 14h ago
+👁️ 7K • 👍 252 • 💬 40 • ⏱️ 18:57 • 15h ago
 
 ---
 
@@ -294,7 +294,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 152 • 💬 11 • ⏱️ 5:36 • 17h ago
+👁️ 2K • 👍 152 • 💬 11 • ⏱️ 5:36 • 18h ago
 
 ---
 
@@ -304,7 +304,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 140 • 👍 10 • 💬 1 • ⏱️ 5:17 • 3h ago
+👁️ 140 • 👍 10 • 💬 1 • ⏱️ 5:17 • 4h ago
 
 ---
 
@@ -314,7 +314,7 @@ Get The Blueprint Here: → https://accelerator.altcoinpro.com/?video=CO2X3s3OPj
 
 📺 BULLRUNNERS
 
-👁️ 2K • 👍 100 • 💬 29 • ⏱️ 1:02:36 • 10h ago
+👁️ 2K • 👍 100 • 💬 29 • ⏱️ 1:02:36 • 11h ago
 
 ---
 
