@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-19T20:35:09.327238+00:00'
+updated: '2026-02-19T21:33:53.380348+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 20:35 UTC  
+**Last Updated:** February 19, 2026 at 21:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 New 13F filings show major financial institutions sharply increased positions in BitMine, a public company widely known as the largest corporate holder of Ethereum. Morgan Stanley now holds 12.2M shares (+26%), ARK 9.5M (+27%), BlackRock 9M (+166%), and Goldman Sachs 5.2M (+588%). Vanguard, Bank of America, Schwab, RBC, Citi and BNY Mellon also expanded exposure. In total, 457 institutional holders now control about 136.7M BitMine shares (~$2.86B). This suggests institutions are increasingly accessing ETH exposure via equity structures rather than direct custody — similar to how MicroStrategy functions as a BTC proxy. Full breakdown: https://btcusa.com/wall-street-giants-boost-bitmine-holdings-as-institutional-ethereum-exposure-expands/ Curious how people here see this trend — does equity-based ETH exposure accelerate or delay direct institutional ETH ownership?
 
-4h ago
+5h ago
 
 ---
 
@@ -88,13 +88,13 @@ New 13F filings show major financial institutions sharply increased positions in
 
 There is an important synergy between FOCIL and AA (EIP-8141, which is based on 7701): 8141 makes not just smart accounts (including multisig, quantum-resistant signatures, key changes, gas sponsorship) first-class citizens, it also can do the same for privacy protocols (either indirectly via paymaster, or if we add 2D nonces, directly as a multi-tenant account). "First-class citizen" means that operations sent from that account can be included directly onchain as transactions, with no wrappers. FOCIL enables censorship-resistant rapid inclusion of any transaction. Hence, with FOCIL and 8141 together, anything, including smart wallet txs, gas sponsored txs, and even privacy protocol txs, can be included onchain through one of 17 different actors (the proposer or the includers) that are all chosen randomly in each slot. This gives us guaranteed rapid inclusion, meaning almost certainly within 1-2 slots, of any such tx, even in an adversarial environment. In this iteration, the FOCILs are 8 kB each, so they are very small in size. However, there is a natural future extension path to making them much larger, so that the majority of transactions to a block could, if needed, come through FOCILs. Such a design would have many of the properties of multiple concurrent proposer (MCP) designs, with the key difference being that FOCILs do not try to control the MEV-relevant "last look" role - that's still auctioned off with ePBS. The behavior of the last look role in "full MCP" depends strongly on the specifics of the design. The FOCIL design ensures that even if literally 100% of all slots get sold off via proposer-builder separation to a hostile actor that refuses to connect to public mempools, discriminates against certain applications, or is otherwise abusive, all transactions can still get quickly included. It's not eliminating the centralization of the proposer role, but it is heavily disempowering it. With EIP-8141 (AA), transactions from smart wallets, privacy protocols, etc, could be sent through a public mempool, and directly received by a FOCIL includer, no wrappers, "public broadcasters", or other intermediaries required. Ethereum is going hard.
 
-1h ago
+2h ago
 
 ---
 
 **[Les scams cryptos : Soyez prudents](https://www.reddit.com/r/ethereum/comments/1r9916p/les_scams_cryptos_soyez_prudents/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ There is an important synergy between FOCIL and AA (EIP-8141, which is based on 
 
 I've been going down a rabbit hole on early Ethereum contract archaeology and found something I thought was worth sharing. MistCoin was deployed on November 3, 2015 — just a few months after Ethereum's mainnet launch. It implements what we'd now recognize as the ERC-20 interface (transfer, balanceOf, totalSupply, approve/transferFrom), but ERC-20 as a formal standard didn't exist until Fabian Vogelsteller's EIP in late 2015, and wasn't widely adopted until 2017. A few things that stood out to me looking at the contract: **Solidity 0.1.6.** The syntax looks almost alien compared to modern Solidity. No `pragma`, no `view`/`pure`, no SafeMath. It's like looking at a fossil record of the language. **Fixed supply of 1,000,000 tokens.** No mint function, no owner privileges, no upgradability. The entire supply was assigned in the constructor and that was it. Immutable from day one. **The contract structure itself became the blueprint.** If you compare MistCoin's layout to the ERC-20 standard that was formalized later, the resemblance is striking. The pattern of mapping balances, emitting Transfer events, and the approve/transferFrom flow — it's all there. What I find interesting isn't the token itself, but what it tells us about how Ethereum's developer culture evolved. In 2015, people were hand-rolling token contracts from scratch with no standards, no templates, no OpenZeppelin. The fact that multiple developers independently converged on nearly identical patterns is what eventually made ERC-20 possible as a standard — it codified what was already emerging organically. The contract is still on-chain, obviously. Blockchain archaeology is one of those things that reminds you everything on Ethereum is permanent. The earliest experiments are still sitting there, readable and verifiable. More details on the history: [mistcoineth.com](https://mistcoineth.com) Has anyone else found interesting pre-standard contracts from 2015? I'd love to know what other early experiments are still sitting on mainnet.
 
-3h ago
+4h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've been going down a rabbit hole on early Ethereum contract archaeology and fo
 
 I was blown away by the recent interviews where Davide Crapis explained the exciting potential of Ethereum and AI agents. This feels like one of the biggest narrative opportunities the ecosystem has had in years. Precisely because the stakes are so high, I’d actually love to see EF lean into a very classic split of responsibilities: let the deepest technical people focus on building, coordination, and experimentation, and have a dedicated public‑facing person whose main job is interviews, conference talks, and selling the vision to AI founders and researchers -- similar to how Steve Wozniak and Steve Jobs complemented each other at Apple I understand the urge of putting Davide out there, he's good looking, charming, technically brilliant, and filled with enthusiasm. However in a lot of successful orgs, the people doing the most important technical work are not the ones doing the most public communication, not because they’re bad at it, but because their highest leverage is elsewhere. A specialized “storyteller for AI/agents,” backed by folks like Davide on the technical side, feels like the kind of structure that could really help Ethereum capture this moment.
 
-17h ago
+18h ago
 
 ---
 
@@ -118,7 +118,7 @@ I was blown away by the recent interviews where Davide Crapis explained the exci
 
 Your guide to Ethereum's upcoming gas repricing changes
 
-🔗 [gasrepricing.com](https://gasrepricing.com/) • 16h ago
+🔗 [gasrepricing.com](https://gasrepricing.com/) • 17h ago
 
 ---
 
@@ -182,7 +182,7 @@ The Block • 1d ago
 
 Billionaire investor Peter Thiel and Founders Fund held a 7.5% stake in Ethereum treasury company ETHZilla last year—but not anymore.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ CryptoSlate • 1d ago
 
 Centralized exchanges are moving forward building their own blockchain infrastructure even as the broader Ethereum ecosystem debates its future.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -206,7 +206,7 @@ CoinDesk • 4h ago
 
 Institutional ownership of Sharplink’s common stock has grown to 46% as of Dec. 31, according to the latest available 13F filings.
 
-The Block • 4h ago
+The Block • 5h ago
 
 ---
 
@@ -214,7 +214,7 @@ The Block • 4h ago
 
 Ethereum is in the midst of its sixth straight down month.  The second largest crypto is down nearly 40% in the past month.  Max Shannon of Bitwise reckons $1,500 could be on the cards.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -246,7 +246,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 111 • 💬 9 • ⏱️ 4:52 • 5h ago
+👁️ 1K • 👍 111 • 💬 9 • ⏱️ 4:52 • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 15K • 👍 1K • 💬 90 • ⏱️ 43:48 • 10h ago
+👁️ 15K • 👍 1K • 💬 90 • ⏱️ 43:48 • 11h ago
 
 ---
 
@@ -276,7 +276,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 270 • 💬 16 • ⏱️ 21:01 • 5h ago
+👁️ 5K • 👍 270 • 💬 16 • ⏱️ 21:01 • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 263 • 👍 15 • 💬 1 • ⏱️ 5:17 • 10h ago
+👁️ 263 • 👍 15 • 💬 1 • ⏱️ 5:17 • 11h ago
 
 ---
 
@@ -296,7 +296,7 @@ BITCOIN JUST FAILED: This is Coming Next (Warning)!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 8K • 👍 269 • 💬 105 • ⏱️ 18:57 • 20h ago
+👁️ 8K • 👍 269 • 💬 105 • ⏱️ 18:57 • 21h ago
 
 ---
 

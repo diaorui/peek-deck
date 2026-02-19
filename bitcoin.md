@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T20:35:09.321254+00:00'
+updated: '2026-02-19T21:33:53.374459+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 20:35 UTC  
+**Last Updated:** February 19, 2026 at 21:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-9h ago
+10h ago
 
 ---
 
 **[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ Full article with explanations on the data here https://x.com/sdwouters/status/2
 
 The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 7h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 8h ago
 
 ---
 
@@ -115,7 +115,7 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-5h ago
+6h ago
 
 ---
 
@@ -139,7 +139,7 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 When I heard of Bitcoin in 2016, I got excited and dive in the rabbit hole since. I have orange pilled some people along the way but I only met 1-3 Bitcoin Maxis in my life (those I know from Bitcoin Asia Conference), excluding those I know from Bitcoin Asia Conference I do not have Bitcoin Maxi friends at all. Many nocoiners dismiss Bitcoin when I talk about it. Some even discredit Bitcoin with a sense of superiority as if they know more than we do. Why are there so many nocoiners? Did they not study the fundamentals and history of money? Why don't they educate themselves?
 
-34m ago
+1h ago
 
 ---
 
@@ -157,7 +157,7 @@ When I heard of Bitcoin in 2016, I got excited and dive in the rabbit hole since
 
 Investors are focused less on the accuracy of Trump’s trade figures and more on how renewed tariff talk could mean higher-for-longer interest rates.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 1h ago
 
 Eric Trump renewed his $1 million Bitcoin price prediction as the Trump family hosted Wall Street and crypto leaders at a WLFI forum.
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -181,13 +181,13 @@ CCN.com • 6h ago
 
 S&P Global gave the majority of the bonds the less-than-stellar rating of BBB-, according to a Feb. 9 report.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
 **[Crypto Firm Ledn Sells Bitcoin-Backed Bonds In ABS Market First](https://www.bloomberg.com/news/articles/2026-02-18/crypto-firm-ledn-sells-bitcoin-backed-bonds-in-abs-market-first)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -195,13 +195,13 @@ Bloomberg.com • 23h ago
 
 Crypto lender Ledn Inc. has officially sold $188 million in securitized bonds backed by Bitcoin-linked loans.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
 **[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
 
-Bloomberg.com • 38m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ Bloomberg.com • 38m ago
 
 Bitcoin’s Lightning Network topped $1.17 billion in November monthly volume across 5.22 million transactions, according to River Financial, which says the milestone reflects growing adoption despite flat price action.
 
-Bitcoin Magazine • 57m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bitcoin Magazine • 57m ago
 
 The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
 
-The Globe and Mail • 9h ago
+The Globe and Mail • 10h ago
 
 ---
 
@@ -273,7 +273,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 1d ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 2d ago • [b4q.io](https://b4q.io/research)
 
 ---
 
@@ -281,7 +281,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 4h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 5h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -305,7 +305,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 1 • 💬 1 • 32m ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
+⬆️ 1 • 💬 1 • 1h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
 
 ---
 
@@ -319,7 +319,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 101 • ⏱️ 28:28 • 22h ago
+👁️ 46K • 👍 2K • 💬 101 • ⏱️ 28:28 • 23h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail app
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 868 • 💬 245 • ⏱️ 36:44 • 3h ago
+👁️ 15K • 👍 868 • 💬 245 • ⏱️ 36:44 • 4h ago
 
 ---
 
@@ -339,7 +339,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 239 • ⏱️ 46:22 • 5h ago
+👁️ 18K • 👍 1K • 💬 239 • ⏱️ 46:22 • 6h ago
 
 ---
 
@@ -369,7 +369,7 @@ Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.c
 
 📺 Crypto Lifer
 
-👁️ 6K • 👍 520 • 💬 1 • ⏱️ 2:09:43 • 3h ago
+👁️ 6K • 👍 520 • 💬 1 • ⏱️ 2:09:43 • 4h ago
 
 ---
 
@@ -379,7 +379,7 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemin
 
 📺 Aaron Bennett
 
-👁️ 9K • 👍 515 • 💬 239 • ⏱️ 8:53 • 13h ago
+👁️ 9K • 👍 515 • 💬 239 • ⏱️ 8:53 • 14h ago
 
 ---
 
@@ -399,7 +399,7 @@ Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. G
 
 📺 Mark Moss
 
-👁️ 91K • 👍 4K • 💬 484 • ⏱️ 20:14 • 1d ago
+👁️ 91K • 👍 4K • 💬 484 • ⏱️ 20:14 • 2d ago
 
 ---
 
