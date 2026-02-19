@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-19T11:13:13.992054+00:00'
+updated: '2026-02-19T12:00:37.833450+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 11:13 UTC  
+**Last Updated:** February 19, 2026 at 12:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was blown away by the recent interviews where Davide Crapis explained the exciting potential of Ethereum and AI agents. This feels like one of the biggest narrative opportunities the ecosystem has had in years. Precisely because the stakes are so high, I’d actually love to see EF lean into a very classic split of responsibilities: let the deepest technical people focus on building, coordination, and experimentation, and have a dedicated public‑facing person whose main job is interviews, conference talks, and selling the vision to AI founders and researchers -- similar to how Steve Wozniak and Steve Jobs complemented each other at Apple I understand the urge of putting Davide out there, he's good looking, charming, technically brilliant, and filled with enthusiasm. However in a lot of successful orgs, the people doing the most important technical work are not the ones doing the most public communication, not because they’re bad at it, but because their highest leverage is elsewhere. A specialized “storyteller for AI/agents,” backed by folks like Davide on the technical side, feels like the kind of structure that could really help Ethereum capture this moment.
 
-8h ago
+9h ago
 
 ---
 
@@ -88,7 +88,7 @@ I was blown away by the recent interviews where Davide Crapis explained the exci
 
 Your guide to Ethereum's upcoming gas repricing changes
 
-🔗 [gasrepricing.com](https://gasrepricing.com/) • 6h ago
+🔗 [gasrepricing.com](https://gasrepricing.com/) • 7h ago
 
 ---
 
@@ -96,13 +96,13 @@ Your guide to Ethereum's upcoming gas repricing changes
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/Dad2UonQ9Ag) • 6h ago
+🔗 [youtu.be](https://youtu.be/Dad2UonQ9Ag) • 7h ago
 
 ---
 
 **[Announcing the Platform Team at EF](https://www.reddit.com/r/ethereum/comments/1r8d9io/announcing_the_platform_team_at_ef/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/platform) • 15h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/platform) • 16h ago
 
 ---
 
@@ -110,13 +110,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 90% of my coins are on Ledger and I mostly don’t touch them. But I need to get a little into more active trading and look to do more swaps. The problem tho, ledger’s fees are a bit higher than i expected and I don’t really want to be transferring money wallet to wallet. Swaps from cold wallet also feel like too much and that’s not even considering the routes. What everyone else does?
 
-3h ago
+4h ago
 
 ---
 
 **[Protocol Priorities Update for 2026](https://www.reddit.com/r/ethereum/comments/1r8j4dh/protocol_priorities_update_for_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/18/protocol-priorities-update-2026) • 11h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/18/protocol-priorities-update-2026) • 12h ago
 
 ---
 
@@ -130,7 +130,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Ethereum Protocol Studies 2026](https://www.reddit.com/r/ethereum/comments/1r8j3vp/ethereum_protocol_studies_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/ethereum-protocol-studies-26) • 11h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/ethereum-protocol-studies-26) • 12h ago
 
 ---
 
@@ -138,7 +138,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 This is a good post on the impact of surveillance in Iran: https://www.myprivacy.blog/the-digital-iron-curtain-how-iran-built-the-worlds-most-invasive-surveillance-state/ It's worth reading. IMO one mistake that freedom advocates often make is that we talk about privacy violation and surveillance as "dystopian", using the word as a semantic stop sign: we know it means "bad", we nod along, and don't really go further to clarify why it's bad. I worry that this approach is long-run unhealthy: when we criticize various companies and countries for being "dystopian" and stop there, then to someone who's not already in the same memeplex, it sounds like we're basically criticizing companies and countries for not complying with our culture's aesthetic preferences. Which is ... duh, companies and countries are supposed to not comply with each other's aesthetic preferences, that's the whole point of the "pluralism" thing. What the above article makes clear so well is that "dystopian" surveillance is not bad because it's "dystopian", it's bad because it makes a concrete property of the world worse: the power balance between individual and state. Surveillance enables an outcome where basically everyone other than police and security forces has no opportunity whatsoever to challenge the political status quo without being punished. This means an outcome where a political regime can remain in power forever, without satisfying more than a very small coalition of people who have the eyes and the guns (now drones). The Dictator's Handbook talks about "large coalition" and "small coalition" governments; large coalition governments are the ones that are more pro-human, because they, well, have to keep a large coalition happy. Small coalition ones are the really nasty ones. Here is the near-term dark outcome of dictatorship + automated warfare + surveillance: a regime can literally survive with a coalition of size 1, because an army of all-seeing eyes and robots can defeat the entire populace in battle if needed. In Iran, we see what just dictatorship with surveillance can do, once you add automated police, you get to the unholy trifecta. I don't know of a good solution to this. Privacy technology, as well as more work on censorship-resistant internet (I think we should strive for at least basic-quality internet, eg. 1 Mbps, being a global human right outside the domain of nation-state sovereignty), can help somewhat to reduce the possibility of total government control. But what else? BTW one implicit frame in the article I take some issue with is framing Iran + Russia + China as the unique antagonists (both in surveillance they do internally, and in the technology they export to other countries). They do a lot of dystopian shit of both types. However, Israeli and US tech companies, and undoubtedly tech companies from other Western nations, also do a lot of dystopian shit. Perhaps one key difference between the surveillance described above, and the Western type, is: The surveillance in the above article is about exercising great control over a medium area: you can see everything, but it requires active participation of the government of the territory being surveilled. The Israeli / US / Western flavor is about exercising medium control over a great area: there are more limits to how much they can do, but their surveillance is global: they know what people are doing even in countries and territories they have no presence in. The distinction is not absolute: Israeli surveillance backstops a lot of its human rights abuse in Palestine, US surveillance reinforces ICE abuses (see the recent article about Homeland Security demanding social media firms reveal names of anti-ICE protesters), etc, and "transnational repression" is done by anti-Western countries. But on average, the above seems to be the pattern. The two are differently scary. The former for the reasons I described above. The latter because it allows global projection of power: a politician or civil servant in one country now has to worry about being blackmailed, droned or otherwise attacked from other countries. The USA has shown willingness to go after individual EU officials, ICC officials (see recent articles on both), and others. Ultimately, I suspect that even democratic governments will want more privacy to protect themselves, and we will have to have deep conversations about what "democratic accountability" means: how can a civil servant be accountable to the people, but not accountable to foreign spooks? My high-level frame is: privacy generally helps whoever is weaker. "Weaker" does not mean "moral": sometimes the weaker side is criminal. But in the 21st century, we are at serious risk of stronger factions using modern technologies to establish unbreakable lock-in to power. And so on average, reducing the gradient of power, giving the weak a fighting chance, is something that the world desperately needs.
 
-22h ago
+23h ago
 
 ---
 
@@ -150,7 +150,7 @@ This is a good post on the impact of surveillance in Iran: https://www.myprivacy
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -234,7 +234,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 6K • 👍 301 • 💬 33 • ⏱️ 12:25 • 17h ago
+👁️ 6K • 👍 301 • 💬 33 • ⏱️ 12:25 • 18h ago
 
 ---
 
@@ -244,7 +244,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 2K • 👍 49 • ⏱️ 18:58 • 16h ago
+👁️ 2K • 👍 49 • ⏱️ 18:58 • 17h ago
 
 ---
 
@@ -254,7 +254,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 2K • 👍 193 • 1h ago
+👁️ 2K • 👍 193 • 2h ago
 
 ---
 
@@ -264,7 +264,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 411 • 👍 17 • 💬 2 • ⏱️ 4:36 • 14h ago
+👁️ 411 • 👍 17 • 💬 2 • ⏱️ 4:36 • 15h ago
 
 ---
 
@@ -274,7 +274,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 149 • 💬 11 • ⏱️ 5:36 • 14h ago
+👁️ 2K • 👍 149 • 💬 11 • ⏱️ 5:36 • 15h ago
 
 ---
 
@@ -284,7 +284,7 @@ BMNR is aggressively accumulating ETH while positioning for something much bigge
 
 📺 The Value Thinker
 
-👁️ 9K • 👍 649 • 💬 70 • ⏱️ 18:56 • 22h ago
+👁️ 9K • 👍 649 • 💬 70 • ⏱️ 18:56 • 23h ago
 
 ---
 
@@ -294,7 +294,7 @@ Get The Blueprint Here: → https://accelerator.altcoinpro.com/?video=CO2X3s3OPj
 
 📺 BULLRUNNERS
 
-👁️ 2K • 👍 83 • 💬 25 • ⏱️ 1:02:36 • 8h ago
+👁️ 2K • 👍 83 • 💬 25 • ⏱️ 1:02:36 • 9h ago
 
 ---
 
@@ -304,7 +304,7 @@ BITCOIN JUST FAILED: This is Coming Next (Warning)!! - Bitcoin News Today, Ether
 
 📺 Crypto World
 
-👁️ 6K • 👍 235 • 💬 38 • ⏱️ 18:57 • 11h ago
+👁️ 6K • 👍 235 • 💬 38 • ⏱️ 18:57 • 12h ago
 
 ---
 

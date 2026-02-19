@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-19T11:13:13.979474+00:00'
+updated: '2026-02-19T12:00:37.818885+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - news
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 19, 2026 at 11:13 UTC  
+**Last Updated:** February 19, 2026 at 12:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.
 
-22h ago
+23h ago
 
 ---
 
@@ -49,7 +49,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 "Machine learning can be used to fully reconstruct particle collisions at the LHC [Large Hadron Collider]. This new approach can reconstruct collisions more quickly and precisely than traditional methods, helping physicists better understand LHC data. [...] Each proton–proton collision at the LHC sprays out a complex pattern of particles that must be carefully reconstructed to allow physicists to study what really happened. For more than a decade, CMS has used a particle-flow (PF) algorithm, which combines information from the experiment's different detectors, to identify each particle produced in a collision. Although this method works remarkably well, it relies on a long chain of hand-crafted rules designed by physicists. The new CMS machine-learning-based particle-flow (MLPF) algorithm approaches the task fundamentally differently, replacing much of the rigid hand-crafted logic with a single model trained directly on simulated collisions. Instead of being told how to reconstruct particles, the algorithm learns how particles look in the detectors, like how humans learn to recognize faces without memorizing explicit rules. When benchmarked using data mimicking that from the current LHC run, the performance of the new machine-learning algorithm matched that of the traditional algorithm and, in some cases, even exceeded it. For example, when tested on simulated events in which top quarks were created, the algorithm improved the precision with which sprays of particles—known as jets—were reconstructed by 10%–20% in key particle momentum ranges. The new algorithm also allows a collision to be fully reconstructed far more quickly than before, because it can run efficiently on modern electronic chips known as graphics processing units (GPUs). Traditional algorithms typically need to run on central processing units (CPUs), which are often slower than GPUs for such tasks."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 8h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain
 
 Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service. This means tools like Cline, Roo Code, OpenClaw, and anything using the Agent SDK with consumer OAuth tokens are now in violation of Anthropic's Terms of Service. Developers are told to use API key authentication only. Original discussion: https://www.reddit.com/r/ClaudeAI/comments/1r8t6mn/
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Anthropic updated their Claude Code Docs legal compliance page to explicitly ban
 
 I know that is a rollout coming and the backend of openAi is I red code... But recently it's simply impossible to work with anything in GPT that needs any simple task... If you send an OCR... It is read wrong, then you get angry, helps to fix it and ask a simple txt with content for instance and GPT does... So you ask this simple task... Generate the file for download in .txt or .md and then the issues back again missing content... Resuming... I'm going crazy because GPT for one week already. Anybody with same simple issues like that? Cheers
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ I know that is a rollout coming and the backend of openAi is I red code... But r
 
 https://reddit.com/link/1r8sbl0/video/lwjy5ybzfekg1/player The agent gets two things: a snapshot of the browser and a tree showing every element it can click or fill. That's how it knows what's on the page and what it can interact with. From there it reasons through the form on its own. No hardcoded field mapping, no brittle selectors. It just looks at what's there and figures it out. What surprised me was how it handled situations I didn't plan for. LinkedIn session expired mid-application it reset the password and kept going. One listing had no form at all, just a contact email it sent the email directly with my resume. One application was in French it completed the whole thing in French. I didn't build any of that in. It just reasoned through it. 1,000 applications, 2 days, multiple interviews lined up. Open source: https://github.com/Pickle-Pixel/ApplyPilot
 
-4h ago
+5h ago
 
 ---
 
@@ -125,7 +125,7 @@ A self-hosted platform for running Claude agent swarms with a React UI, deployed
 
 The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNN • 6h ago
 
 India’s AI summit was meant to showcase the country's potential, but controversy and Gates's exit stole the spotlight.
 
-Al Jazeera • 20m ago
+Al Jazeera • 1h ago
 
 ---
 
@@ -153,13 +153,13 @@ The New York Times • 16h ago
 
 **[AI’s Thirst for Power Turns Utilities Into Crowded Growth Sector](https://www.bloomberg.com/news/articles/2026-02-19/ai-s-thirst-for-power-turns-utilities-into-crowded-growth-sector)**
 
-Bloomberg • 43m ago
+Bloomberg • 1h ago
 
 ---
 
 **[India's AI conference used to be a forum for safety](https://www.axios.com/2026/02/19/india-ai-summit-us-deals)**
 
-Axios • 49m ago
+Axios • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Axios • 49m ago
 
 AI is either your most helpful coworker, a glorified search engine or vastly overrated depending on who you ask.
 
-CNN • 42m ago
+CNN • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ BBC • 1d ago
 
 The age of agentic AI — systems that are semi- or fully autonomous and can act on their own — has arrived. Here’s what you need to know, according to MIT experts.
 
-MIT Sloan • 19h ago
+MIT Sloan • 20h ago
 
 ---
 
@@ -269,13 +269,13 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 Artificial intelligence promises to reshape economies worldwide, but firm-level evidence on its effects in Europe remains scarce. This column uses survey data to examine how AI adoption affects productivity and employment across more than 12,000 European firms. The authors find that AI adoption increases labour productivity levels by 4% on average in the EU, with no evidence of reduced employment in the short run. The productivity benefits, however, are unevenly distributed. Medium and large firms, as well as firms that have the capacity to integrate AI through investments in intangible assets and human capital, experience substantially stronger productivity gains.
 
-⬆️ 132 • 💬 100 • 10h ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
+⬆️ 132 • 💬 100 • 11h ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
 
 ---
 
 **[What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://news.ycombinator.com/item?id=47061642)**
 
-⬆️ 125 • 💬 117 • 20h ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
+⬆️ 125 • 💬 117 • 21h ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
 
 ---
 
@@ -299,7 +299,7 @@ Just tried the Claude Code → Figma MCP workflow, and wow… this is next-level
 
 📺 WorldofAI
 
-👁️ 2K • 👍 112 • 💬 11 • ⏱️ 10:08 • 4h ago
+👁️ 2K • 👍 112 • 💬 11 • ⏱️ 10:08 • 5h ago
 
 ---
 
@@ -309,7 +309,7 @@ GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED
 
 📺 Art Chad
 
-👁️ 103K • 👍 10K • 💬 888 • ⏱️ 24:36 • 18h ago
+👁️ 103K • 👍 10K • 💬 888 • ⏱️ 24:36 • 19h ago
 
 ---
 
@@ -699,7 +699,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.9k • 🔱 286 • 5h ago
+⭐ 2.9k • 🔱 286 • 6h ago
 
 ---
 
@@ -709,7 +709,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.6k • 🔱 314 • 3h ago
+⭐ 2.6k • 🔱 314 • 4h ago
 
 ---
 
@@ -719,7 +719,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 170 • 1h ago
+⭐ 2.5k • 🔱 170 • 2h ago
 
 ---
 

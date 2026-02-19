@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-19T11:13:13.994803+00:00'
+updated: '2026-02-19T12:00:37.836655+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 19, 2026 at 11:13 UTC  
+**Last Updated:** February 19, 2026 at 12:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 [Disclaimer: This text was not touched by AI, this is solely by me, so a few formulation issues might be hidden in there] TLDR: - With some tricks, even the cheaper quadruped models can be used for complex tasks - Reliable and low-latency remote operation and monitoring is hard. But here, wireless is usually the bottleneck, not the VPN - Foxglove UI is pretty neat (not fully open-source) - Having a good dev environment setup from the start is invaluable - A lot can be done with a pure open-source stack! The video shows a setup I've been working on for a while now. Early last year, I took quite a portion of my savings to get my hands on a quadruped robot. These savings did not even get me the full ROS2-ready setup that one needs to actually build a cool application, I had to make quite a few detours (some that probably voided the warranty, but let us not get deeper into it). In any case, I had time the last few days (and nights) to finally setup a clean and performant development and introspection environment for my robot. As you can see from the video, this includes full remote control and monitoring of the inner going-ons. I initially tried sending the whole DDS traffic through my network, but due to obvious overhead reasons, this was not really scalable, especially when wanting a live feed of camera and LiDAR data that is low latency enough for "secure" remote manipulation. The next iteration took me down the road of WebRTC, a protocol that only transmits frame differences, reducing traffic significantly. The results for the camera streams were impressive, but this meant I would have to tackle a conversion layer for each topic, again not a clean solution. Finally, I tried out Foxglove. Although not fully open-source, they use a web socket connection, therefore again avoiding DDS congestion. While it might seem a bit less performant than the custom WebRTC solution, the amazing UI and compatability with my ROS2 setup speaks for itself. Also by the way, the setup above is not solely within a local network! I can spin up this bad boy all over the world through my self-hosted Headscale VPN (WireGuard on the backend). Through testing (and some help with the friends at Technologiehub Wien), I found out that the VPN latency is less of a bottleneck than the wireless connection. Making sure that a non-crowded 5GHz channel is used was an enormous performance boost. Concerning the ROS2 setup, everything is ready to add Nav2 support. LiDAR access works, tf tree looks good and odometry information is also already there. This will be the task to tackle next. The whole setup is dockerized and remote development is pretty easy through the SSH connection via the VPN and a custom devcontainer (although it took a while to get ROS2 Jazzy + CUDA cores working correctly...). In case anyone has read this far: - Should I open-source my setup (including VPN optimizations)? - Any idea how I can get my invested money back? (Not a big issue, I learned so much and am having a blast!) - What would you do with this robot? - Any improvement suggestions? Thats it, goodbye and thank's for the fish!
 
-1h ago
+2h ago
 
 ---
 
@@ -50,7 +50,7 @@ Robotics research and industry news
 
 Hi all, as the title states is there a platform that consolidates a list of people based on research topics? I am looking to find professors working on slam or perception in the UK. Thanks.
 
-3h ago
+4h ago
 
 ---
 
@@ -62,13 +62,13 @@ Hi all, as the title states is there a platform that consolidates a list of peop
 
 **[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Opinion on MS Robotics at WPI / Oregon State / JHU](https://www.reddit.com/r/robotics/comments/1r8ogvw/opinion_on_ms_robotics_at_wpi_oregon_state_jhu/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Hi all, as the title states is there a platform that consolidates a list of peop
 
 **[Battle Bots Competition – March 7 at Renaissance Youth Center (South Bronx)](https://www.reddit.com/r/robotics/comments/1r8gfbh/battle_bots_competition_march_7_at_renaissance/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hi all, as the title states is there a platform that consolidates a list of peop
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-18h ago
+19h ago
 
 ---
 
@@ -108,7 +108,7 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 16h ago
+TechCrunch • 17h ago
 
 ---
 
@@ -116,7 +116,7 @@ TechCrunch • 16h ago
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 17h ago
+The Guardian • 18h ago
 
 ---
 
@@ -132,7 +132,7 @@ CNBC • 23h ago
 
 Industrial robot installations remain near record levels and are projected to keep rising through 2028.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 2h ago
 
 ---
 
@@ -140,7 +140,7 @@ Seeking Alpha • 1h ago
 
 Seaspan Shipyards has awarded a $1.5 million contract to Alberta-based Confined Space Robotics to develop semiautonomous systems for blast and paint operations, marking a significant push toward automation in one of shipbuilding’s most hazardous and labor-intensive processes.
 
-gCaptain • 15h ago
+gCaptain • 16h ago
 
 ---
 
@@ -162,7 +162,7 @@ Peak of Ohio • 2d ago
 
 Automakers from Tesla to Hyundai are pivoting into humanoid robots, betting their manufacturing expertise will dominate a market projected at $7.5 trillion by 2050.
 
-Automotive News • 23h ago
+Automotive News • 1d ago
 
 ---
 
@@ -262,7 +262,7 @@ Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off s
 
 📺 New York Post
 
-👁️ 57K • 👍 901 • 💬 627 • ⏱️ 2:01 • 19h ago
+👁️ 57K • 👍 901 • 💬 627 • ⏱️ 2:01 • 20h ago
 
 ---
 

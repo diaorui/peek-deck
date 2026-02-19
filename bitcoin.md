@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T11:13:13.986829+00:00'
+updated: '2026-02-19T12:00:37.827445+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 11:13 UTC  
+**Last Updated:** February 19, 2026 at 12:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
-16h ago
+17h ago
 
 ---
 
 **[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -101,7 +101,7 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
 
-10h ago
+11h ago
 
 ---
 
@@ -117,7 +117,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
 
-15h ago
+16h ago
 
 ---
 
@@ -139,13 +139,13 @@ My platform provider (lightning pay) pointed out a sailient point recently. They
 
 **[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
 
-21h ago
+22h ago
 
 ---
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-3m ago
+50m ago
 
 ---
 
@@ -171,7 +171,7 @@ The Block • 13h ago
 
 **[Bitcoin, Ethereum, XRP Fall as Crypto Crisis Deepens. Why It Could Get Even Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqcxrGr1M5sjeTn4j-wCuhSg4ALpqmLn50M44pma8YirgBH53KCNbjfJ&gaa_ts=6996f3b5&gaa_sig=2l6PqrHPvrTa9qhr2KcEWG30LWV85l8VYFVnedpp_TBaFiW0OOEBHIgIzIk8x1zFEUXPFZL1v-VpWN1KHrjZlA%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -183,19 +183,19 @@ Yahoo Finance UK • 1h ago
 
 **[Bitcoin Rises After Tech-Led Gains in U.S. Stocks](https://www.barrons.com/livecoverage/stock-market-news-today-021926/card/bitcoin-rises-after-tech-led-gains-in-u-s-stocks-V5f79iGq8a1RutPoqSvo?gaa_at=eafs&gaa_n=AWEtsqcu6-NkOHYag6SDpG3iIQWL7tGXw-Lk_6j6nxQvSRAE9DYB6FbnimCI&gaa_ts=6996f3b5&gaa_sig=v6y695vQAeTMPhnnCOCNFqqa_kLzYtbbCQI9GQVofT08r_quMttZ5LvcsyEHDyttFz9VkXOOFvoVmb6l63iOdg%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
 **[When will bitcoin cross back above $100K? See what prediction markets believe](https://seekingalpha.com/news/4553402-when-will-bitcoin-cross-back-above-100k-see-what-prediction-markets-believe)**
 
-Seeking Alpha • 17h ago
+Seeking Alpha • 18h ago
 
 ---
 
 **[Abu Dhabi Funds Add to Bitcoin Bets Despite Crypto Rout](https://www.bloomberg.com/news/articles/2026-02-18/abu-dhabi-funds-add-to-bitcoin-bets-despite-crypto-rout)**
 
-Bloomberg • 21h ago
+Bloomberg • 22h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg • 21h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 14h ago
+Fortune • 15h ago
 
 ---
 
@@ -313,7 +313,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 30K • 👍 1K • 💬 7 • ⏱️ 28:28 • 13h ago
+👁️ 30K • 👍 1K • 💬 7 • ⏱️ 28:28 • 14h ago
 
 ---
 
@@ -361,7 +361,7 @@ Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. G
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 68 • 💬 5 • ⏱️ 1:09 • 14h ago
+👁️ 2K • 👍 68 • 💬 5 • ⏱️ 1:09 • 15h ago
 
 ---
 
