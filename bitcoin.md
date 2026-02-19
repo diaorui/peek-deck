@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T14:49:52.407671+00:00'
+updated: '2026-02-19T15:51:04.206247+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- social
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 14:49 UTC  
+**Last Updated:** February 19, 2026 at 15:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,924.96
+### $66,360.66
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.0%  
-**7d:** -3.7%  
-**30d:** -26.0%  
-**90d:** -21.6%  
-**1y:** -32.5%  
+**24h:** -1.3%  
+**7d:** -3.8%  
+**30d:** -26.1%  
+**90d:** -21.7%  
+**1y:** -32.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1317.95B
+**Market Cap:** $1328.32B
 Rank #1
 
-**Circulating Supply:** 19,991,846 BTC
+**Circulating Supply:** 19,991,893 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.7%
+-47.4%
 
 **All-Time Low:** $67.81
-+97117.2%
++97748.4%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -93,15 +93,7 @@ Rank #1
 
 The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 2h ago
-
----
-
-**[Abu Dhabi Funds increased its bitcoin position by 46% to $1 Billion. As we've said--institutions are buying while retail is selling](https://www.reddit.com/r/Bitcoin/comments/1r8bfe3/abu_dhabi_funds_increased_its_bitcoin_position_by/)**
-
-Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
-
-20h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 3h ago
 
 ---
 
@@ -109,13 +101,15 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 SYNOPSIS British submarine coordinates appear on a public ledger disguised as transactions. Broadcast globally. Every ten minutes. Western intelligence services descend into chaos. Salvation lies with three strangers: a computer scientist, a civil servant and an army veteran.
 
-3h ago
+4h ago
 
 ---
 
-**[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
+**[Abu Dhabi Funds increased its bitcoin position by 46% to $1 Billion. As we've said--institutions are buying while retail is selling](https://www.reddit.com/r/Bitcoin/comments/1r8bfe3/abu_dhabi_funds_increased_its_bitcoin_position_by/)**
 
-22h ago
+Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
+
+21h ago
 
 ---
 
@@ -123,7 +117,13 @@ SYNOPSIS British submarine coordinates appear on a public ledger disguised as tr
 
 Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-14m ago
+1h ago
+
+---
+
+**[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
+
+23h ago
 
 ---
 
@@ -131,7 +131,7 @@ Did anyone else actually read the FOMC minutes or did we all just watch the gree
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -139,7 +139,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
 
-14h ago
+15h ago
 
 ---
 
@@ -147,7 +147,7 @@ Because I transferred Bitcoin from my outside wallet - and sold (had to keep afl
 
 https://preview.redd.it/tyw3nvbdcgkg1.png?width=1536&format=png&auto=webp&s=2319f8a342478cecd5169f4eb064587c802b6feb Hey Bitcoin miners 👋 If you’re mining on SoloHash, you can now monitor your BTC PROP mining stats directly in the MinerBox app 📊 You’ll be able to: Track hashrate & workers Monitor PROP pool performance Check your stats on the go 🔗 SoloHash: https://solohash.co.uk 🔗 MinerBox: http://minerbox.witplex.com Happy hashing and good luck hitting blocks! ⛏️🔥 #Bitcoin #BTC #Mining #CryptoMining #SoloHash
 
-1h ago
+2h ago
 
 ---
 
@@ -159,39 +159,7 @@ https://preview.redd.it/tyw3nvbdcgkg1.png?width=1536&format=png&auto=webp&s=2319
 
 Investors are focused less on the accuracy of Trump’s trade figures and more on how renewed tariff talk could mean higher-for-longer interest rates.
 
-CoinDesk • 10h ago
-
----
-
-**[Hacker returns $21 million in stolen bitcoin to South Korean authorities: report](https://www.theblock.co/post/390451/hacker-returns-stolen-bitcoin-south-korea)**
-
-South Korean prosecutors have recovered the $21 million worth of bitcoin that was stolen from their custody last year.
-
-The Block • 4h ago
-
----
-
-**[This Desktop Bitcoin Ticket Miner Dropped to $50 With Free Shipping](https://www.pcmag.com/deals/this-desktop-bitcoin-ticket-miner-dropped-to-50-with-free-shipping)**
-
-Solo-mine bitcoin with a compact, standalone device that's been slashed in price by 66%.
-
-PCMag • 49m ago
-
----
-
-**[Voltage Launches First Payment-Volume Line of Credit: Bitcoin Finality, USD Settlement](https://markets.businessinsider.com/news/currencies/voltage-launches-first-payment-volume-line-of-credit-bitcoin-finality-usd-settlement-1035845338)**
-
-Austin, Texas, February 19th, 2026, FinanceWireVoltage Launches Industry's First Programmatic Revolving Line of Credit: Bitco...
-
-markets.businessinsider.com • 24m ago
-
----
-
-**[Ledn Closes $188M Bitcoin-Backed Bond Deal – Is Crypto Credit Back From the Dead?](https://finance.yahoo.com/news/ledn-closes-188m-bitcoin-backed-131213681.html)**
-
-Ledn just pulled off something big.The company closed a $188M sale of Bitcoin backed bonds. It is the first time institutional style asset backed securities have been built from consumer crypto loans.Part of the deal includes investment grade notes priced at 335 basis points over the benchmark rate. That puts ...
-
-Yahoo Finance • 1h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -201,17 +169,49 @@ Bloomberg.com • 1d ago
 
 ---
 
+**[This Desktop Bitcoin Ticket Miner Dropped to $50 With Free Shipping](https://www.pcmag.com/deals/this-desktop-bitcoin-ticket-miner-dropped-to-50-with-free-shipping)**
+
+Solo-mine bitcoin with a compact, standalone device that's been slashed in price by 66%.
+
+PCMag • 1h ago
+
+---
+
+**[Voltage Launches First Payment-Volume Line of Credit: Bitcoin Finality, USD Settlement](https://markets.businessinsider.com/news/currencies/voltage-launches-first-payment-volume-line-of-credit-bitcoin-finality-usd-settlement-1035845338)**
+
+Austin, Texas, February 19th, 2026, FinanceWireVoltage Launches Industry's First Programmatic Revolving Line of Credit: Bitco...
+
+markets.businessinsider.com • 1h ago
+
+---
+
+**[Ledn Closes $188M Bitcoin-Backed Bond Deal – Is Crypto Credit Back From the Dead?](https://finance.yahoo.com/news/ledn-closes-188m-bitcoin-backed-131213681.html)**
+
+Ledn just pulled off something big.The company closed a $188M sale of Bitcoin backed bonds. It is the first time institutional style asset backed securities have been built from consumer crypto loans.Part of the deal includes investment grade notes priced at 335 basis points over the benchmark rate. That puts ...
+
+Yahoo Finance • 2h ago
+
+---
+
+**[Hacker returns $21 million in stolen bitcoin to South Korean authorities: report](https://www.theblock.co/post/390451/hacker-returns-stolen-bitcoin-south-korea)**
+
+South Korean prosecutors have recovered the $21 million worth of bitcoin that was stolen from their custody last year.
+
+The Block • 5h ago
+
+---
+
 **[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)**
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
 **[When will bitcoin cross back above $100K? See what prediction markets believe](https://seekingalpha.com/news/4553402-when-will-bitcoin-cross-back-above-100k-see-what-prediction-markets-believe)**
 
-Seeking Alpha • 21h ago
+Seeking Alpha • 22h ago
 
 ---
 
@@ -225,7 +225,7 @@ Forbes • 2d ago
 
 FutureBit launched the Apollo III today, a new home Bitcoin mining system combining a high-performance miner and a full Bitcoin node in a single desktop device.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -289,7 +289,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 3 • 💬 1 • 19h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 3 • 💬 1 • 20h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
 
 ---
 
@@ -319,17 +319,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 1K • 💬 7 • ⏱️ 28:28 • 16h ago
-
----
-
-**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
-
-Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
-
-📺 Altcoin Daily
-
-👁️ 107K • 👍 4K • 💬 583 • ⏱️ 10:49 • 2d ago
+👁️ 38K • 👍 2K • 💬 101 • ⏱️ 28:28 • 17h ago
 
 ---
 
@@ -339,27 +329,25 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 📺 Altcoin Daily
 
-👁️ 56K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
+👁️ 57K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
 
 ---
 
-**[Bitcoin: There’s No Turning Back From This](https://www.youtube.com/watch?v=hckwq6-F3Bo)**
+**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
 
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
 
-📺 Jason Pizzino
+📺 Altcoin Daily
 
-👁️ 13K • 👍 869 • 💬 218 • ⏱️ 26:59 • 11h ago
+👁️ 107K • 👍 4K • 💬 584 • ⏱️ 10:49 • 2d ago
 
 ---
 
-**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
+**[Lyn Alden’s Bitcoin Price Predictions](https://www.youtube.com/watch?v=qQUAjbX5I1o)**
 
-Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
+📺 Natalie Brunell
 
-📺 Anthony Pompliano
-
-👁️ 55K • 👍 2K • 💬 31 • ⏱️ 20:57 • 1d ago
+👁️ 28K • 👍 504 • 💬 35 • ⏱️ 0:59 • 2d ago
 
 ---
 
@@ -369,17 +357,45 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemin
 
 📺 Aaron Bennett
 
-👁️ 5K • 👍 348 • 💬 63 • ⏱️ 8:53 • 7h ago
+👁️ 6K • 👍 432 • 💬 70 • ⏱️ 8:53 • 8h ago
 
 ---
 
-**[Bitcoin is in a ‘crypto winter,’ says Strategy founder](https://www.youtube.com/watch?v=H-LEbgIojgA)**
+**[Bitcoin: There’s No Turning Back From This](https://www.youtube.com/watch?v=hckwq6-F3Bo)**
 
-Strategy founder and executive chairman Michael Saylor discusses the current 'crypto winter' for Bitcoin, financial stability and the ...
+TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
 
-📺 Fox Business
+📺 Jason Pizzino
 
-👁️ 74K • 👍 1K • 💬 7K • ⏱️ 11:33 • 1d ago
+👁️ 15K • 👍 916 • 💬 270 • ⏱️ 26:59 • 12h ago
+
+---
+
+**[BITCOIN IS REPEATING 2019 CHART (URGENT)](https://www.youtube.com/watch?v=ma3_4EmAv_g)**
+
+📺 Discover Crypto
+
+👁️ 13K • 👍 230 • 💬 84 • ⏱️ 0:34 • 12h ago
+
+---
+
+**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
+
+Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
+
+📺 Anthony Pompliano
+
+👁️ 56K • 👍 2K • 💬 33 • ⏱️ 20:57 • 1d ago
+
+---
+
+**[Trump Family Said Bitcoin is going to $1M...](https://www.youtube.com/watch?v=ILMNi6R3GVQ)**
+
+Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 474 • ⏱️ 8:25 • 13h ago
 
 ---
 
@@ -389,25 +405,7 @@ Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. G
 
 📺 Mark Moss
 
-👁️ 85K • 👍 4K • 💬 464 • ⏱️ 20:14 • 1d ago
-
----
-
-**[Lyn Alden’s Bitcoin Price Predictions](https://www.youtube.com/watch?v=qQUAjbX5I1o)**
-
-📺 Natalie Brunell
-
-👁️ 28K • 👍 502 • 💬 42 • ⏱️ 0:59 • 2d ago
-
----
-
-**[Crypto leaders and lawmakers meet at Trump family&#39;s World Liberty Forum: CNBC Crypto World](https://www.youtube.com/watch?v=Lgl3JnhmXPQ)**
-
-On this week's episode of CNBC Crypto World, bitcoin settles in the $60000 after a volatile start in February. We also recap some ...
-
-📺 CNBC Television
-
-👁️ 16K • 👍 309 • 💬 210 • ⏱️ 12:56 • 18h ago
+👁️ 87K • 👍 4K • 💬 469 • ⏱️ 20:14 • 1d ago
 
 ---
 
