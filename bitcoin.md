@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T10:11:31.619890+00:00'
+updated: '2026-02-19T11:13:13.986829+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
+- social
 - videos
 - cryptocurrency
-- social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 10:11 UTC  
+**Last Updated:** February 19, 2026 at 11:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,15 +38,15 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,023.95
+### $66,826.90
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.9%  
-**7d:** -2.9%  
-**30d:** -25.4%  
+**7d:** -2.8%  
+**30d:** -25.3%  
 **90d:** -21.0%  
 **1y:** -31.9%  
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
-15h ago
+16h ago
 
 ---
 
 **[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,15 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
 
-9h ago
+10h ago
+
+---
+
+**[Daily Discussion, February 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1r8ri0y/daily_discussion_february_19_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+5h ago
 
 ---
 
@@ -109,7 +117,7 @@ Because I transferred Bitcoin from my outside wallet - and sold (had to keep afl
 
 They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
 
-14h ago
+15h ago
 
 ---
 
@@ -117,7 +125,7 @@ They’ll say one thing one day (get out now, BTC is going to 60k), and another 
 
 The lightning network is a second-layer solution on top of the Bitcoin blockchain that enables quick, cheap and scalable Bitcoin payments. Here is the place to discuss and learn more about lightning! Ask your questions about lightning Provide reviews, feedback, comparisons of LN apps, services, websites etc Learn about new LN features, development, apps Link to good quality resources (articles, wikis etc) Resources: Here is an awesome list of resources compiled by Jameson Lopp: https://bitcoinfo.org/lightning.html Want to test out your lightning fire power? tip the Bitcoin devs! https://bitcoindevlist.com/ Previous threads: Search Lnbook getting closer towards being finished and can already be seen at: https://github.com/lnbook/lnbook Lightning Dedicated YouTube Channel: https://youtube.com/renepickhardt Also there is the playlist by chaincode labs: https://youtube.com/playlist?list=PLpLH33TRghT17_U3as2P3vHfAGL8pSOOY Lightning stores: https://www.lightningnetworkstores.com/ Learn more and talk about lightning right here in r/Bitcoin, r/bitcoinbeginners, r/thelightningnetwork, and the BitcoinDiscord.com chat
 
-2h ago
+4h ago
 
 ---
 
@@ -131,23 +139,13 @@ My platform provider (lightning pay) pointed out a sailient point recently. They
 
 **[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
 
-20h ago
+21h ago
 
 ---
 
-**[Daily Discussion, February 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1r8ri0y/daily_discussion_february_19_2026/)**
+**[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-4h ago
-
----
-
-**[Hard Money vs. Fiat: The Invisible War for Your Wealth](https://www.reddit.com/r/Bitcoin/comments/1r8j7xu/hard_money_vs_fiat_the_invisible_war_for_your/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/qyRQ-sLU0bw) • 10h ago
+3m ago
 
 ---
 
@@ -155,25 +153,11 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://www.bloomberg.com/news/articles/2026-02-18/bitcoin-won-over-wall-street-and-now-it-s-paying-the-price)**
+**[Bitcoin price news: BTC climbs to $67,000 as Trump says U.S. deficit cut by 78%](https://www.coindesk.com/markets/2026/02/19/bitcoin-shakes-off-u-s-session-losses-as-trump-says-u-s-trade-deficit-cut-by-78)**
 
-Bloomberg • 21h ago
+Investors are focused less on the accuracy of Trump’s trade figures and more on how renewed tariff talk could mean higher-for-longer interest rates.
 
----
-
-**[Bitcoin can bounce higher — but the market still lacks fuel for a real run](https://www.coindesk.com/markets/2026/02/19/bitcoin-can-bounce-higher-but-the-market-still-lacks-fuel-for-a-real-run)**
-
-Recent trading shows bitcoin staging short-lived rallies that quickly fade amid a stronger dollar, hawkish Fed signals and persistent selling pressure.
-
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin Declines Amid Risk-Off Mood With AI Concerns to The Fore](https://finance.yahoo.com/news/bitcoin-declines-geopolitical-tension-adds-120215723.html)**
-
-Bitcoin, which has tended to move with fluctuations in tech stocks in recent months, mirrored an earlier move lower in US equities but failed to keep pace when they edged higher.  “Sentiment is clearly bleak in crypto markets,” said Noelle Acheson, author of Crypto is Macro Now newsletter.  “There is strong progress in adoption by traditional institutions, but this is not reflected in overall prices, which depresses sentiment even more.”
-
-Yahoo Finance • 1d ago
+CoinDesk • 7h ago
 
 ---
 
@@ -181,41 +165,45 @@ Yahoo Finance • 1d ago
 
 S&P Global gave the majority of the bonds the less-than-stellar rating of BBB-, according to a Feb. 9 report.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
-**[Bitcoin Rises After Tech-Led Gains in U.S. Stocks](https://www.barrons.com/livecoverage/stock-market-news-today-021926/card/bitcoin-rises-after-tech-led-gains-in-u-s-stocks-V5f79iGq8a1RutPoqSvo?modCode=hp_LEDE_C_LC_1&gaa_at=eafs&gaa_n=AWEtsqfqH0SS9gz5UQFtDzdYUzrS1zDG9nQppYlrAIOsoh7oJrcmDgfzCQ90&gaa_ts=6996d725&gaa_sig=C5JE9Xr4UaV2zvnfhaJeapgyXfnh5-3LAo3ahTgijAM8uZUtPmk-sdB0AEub1vxuwkzEjLVfhpiOq6cvJ7q3bQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Crypto Crisis Deepens. Why It Could Get Even Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqcxrGr1M5sjeTn4j-wCuhSg4ALpqmLn50M44pma8YirgBH53KCNbjfJ&gaa_ts=6996f3b5&gaa_sig=2l6PqrHPvrTa9qhr2KcEWG30LWV85l8VYFVnedpp_TBaFiW0OOEBHIgIzIk8x1zFEUXPFZL1v-VpWN1KHrjZlA%3D%3D)**
 
 Barron's • 1h ago
 
 ---
 
-**[Bitcoin, ether, xrp ETFs bleed while Solana bucks outflow trend](https://www.coindesk.com/markets/2026/02/19/bitcoin-ether-xrp-etfs-bleed-while-solana-bucks-outflow-trend)**
+**[Bitcoin price falls as US-Iran tensions rattle risk assets](https://uk.finance.yahoo.com/news/bitcoin-price-us-iran-tensions-risk-assets-100515326.html)**
 
-U.S. spot crypto ETFs saw broad-based redemptions led by bitcoin and ether funds, while Solana products drew fresh inflows, signaling selective institutional rotation rather than a full retreat from digital assets.
-
-CoinDesk • 2h ago
+Yahoo Finance UK • 1h ago
 
 ---
 
-**[The $40k BTC put option emerges as second largest bet ahead of february expiry next week](https://www.coindesk.com/markets/2026/02/19/tbitcoin-s-usd40-000-put-becomes-second-largest-options-bet-ahead-of-february-expiry-next-week)**
+**[Bitcoin Rises After Tech-Led Gains in U.S. Stocks](https://www.barrons.com/livecoverage/stock-market-news-today-021926/card/bitcoin-rises-after-tech-led-gains-in-u-s-stocks-V5f79iGq8a1RutPoqSvo?gaa_at=eafs&gaa_n=AWEtsqcu6-NkOHYag6SDpG3iIQWL7tGXw-Lk_6j6nxQvSRAE9DYB6FbnimCI&gaa_ts=6996f3b5&gaa_sig=v6y695vQAeTMPhnnCOCNFqqa_kLzYtbbCQI9GQVofT08r_quMttZ5LvcsyEHDyttFz9VkXOOFvoVmb6l63iOdg%3D%3D)**
 
-Heavy positioning at lower strikes signals rising demand for downside protection for bitcoin.
-
-CoinDesk • 3h ago
+Barron's • 2h ago
 
 ---
 
 **[When will bitcoin cross back above $100K? See what prediction markets believe](https://seekingalpha.com/news/4553402-when-will-bitcoin-cross-back-above-100k-see-what-prediction-markets-believe)**
 
-Seeking Alpha • 16h ago
+Seeking Alpha • 17h ago
 
 ---
 
 **[Abu Dhabi Funds Add to Bitcoin Bets Despite Crypto Rout](https://www.bloomberg.com/news/articles/2026-02-18/abu-dhabi-funds-add-to-bitcoin-bets-despite-crypto-rout)**
 
-Bloomberg • 20h ago
+Bloomberg • 21h ago
+
+---
+
+**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)**
+
+The Ivy League school still has more money invested in Bitcoin than any other US stock.
+
+Fortune • 14h ago
 
 ---
 
@@ -223,7 +211,15 @@ Bloomberg • 20h ago
 
 Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
 
-Business Insider • 19h ago
+Business Insider • 20h ago
+
+---
+
+**[Brevan Howard’s crypto fund slumped 30% in 2025 amid bitcoin rout](https://www.ft.com/content/8fc6edbb-adb8-46a2-84f4-e2b0bbc50aa2)**
+
+Hedge fund manager’s digital asset strategy stung by ‘terrible year’ for cryptocurrencies
+
+Financial Times • 1d ago
 
 ---
 
@@ -287,7 +283,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 3 • 💬 1 • 15h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 3 • 💬 1 • 16h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
 
 ---
 
@@ -299,9 +295,11 @@ Crypto Pay with Escrow
 
 ---
 
-**[Ditching Discord](https://news.ycombinator.com/item?id=47068579)**
+**[Continuous batching (2025)](https://news.ycombinator.com/item?id=47028545)**
 
-⬆️ 3 • 💬 0 • 9h ago • [wiki.alopex.li](https://wiki.alopex.li/DitchingDiscord)
+We’re on a journey to advance and democratize artificial intelligence through open source and open science.
+
+⬆️ 35 • 💬 7 • 3d ago • [huggingface.co](https://huggingface.co/blog/continuous_batching)
 
 ---
 
@@ -315,7 +313,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 30K • 👍 1K • 💬 7 • ⏱️ 28:28 • 12h ago
+👁️ 30K • 👍 1K • 💬 7 • ⏱️ 28:28 • 13h ago
 
 ---
 
@@ -363,7 +361,7 @@ Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. G
 
 📺 Natalie Brunell
 
-👁️ 2K • 👍 68 • 💬 5 • ⏱️ 1:09 • 13h ago
+👁️ 2K • 👍 68 • 💬 5 • ⏱️ 1:09 • 14h ago
 
 ---
 
@@ -391,7 +389,7 @@ Are you ready? Sign up for NordVPN and stay SAFE and PRIVATE while browsing onli
 
 📺 CryptoWendyO
 
-👁️ 7K • 👍 502 • 💬 7 • ⏱️ 2:18 • 8h ago
+👁️ 7K • 👍 502 • 💬 7 • ⏱️ 2:18 • 9h ago
 
 ---
 
