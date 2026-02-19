@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-19T06:00:04.413370+00:00'
+updated: '2026-02-19T07:12:52.999294+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 19, 2026 at 06:00 UTC  
+**Last Updated:** February 19, 2026 at 07:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,35 +38,35 @@ Robotics research and industry news
 
 ---
 
-**[Opinion on MS Robotics at WPI / Oregon State / JHU](https://www.reddit.com/r/robotics/comments/1r8ogvw/opinion_on_ms_robotics_at_wpi_oregon_state_jhu/)**
+**[Advanced Open Source Custom F405 Flight Controller for FPV drones](https://www.reddit.com/r/robotics/comments/1r8qaas/advanced_open_source_custom_f405_flight/)**
+
+Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 89× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12V input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
 2h ago
 
 ---
 
-**[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
+**[Opinion on MS Robotics at WPI / Oregon State / JHU](https://www.reddit.com/r/robotics/comments/1r8ogvw/opinion_on_ms_robotics_at_wpi_oregon_state_jhu/)**
 
-13m ago
+3h ago
 
 ---
 
-**[Advanced Open Source Custom F405 Flight Controller for FPV drones](https://www.reddit.com/r/robotics/comments/1r8qaas/advanced_open_source_custom_f405_flight/)**
+**[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
 
-Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 89× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12V input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
-
-56m ago
+1h ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-16h ago
+18h ago
 
 ---
 
 **[Battle Bots Competition – March 7 at Renaissance Youth Center (South Bronx)](https://www.reddit.com/r/robotics/comments/1r8gfbh/battle_bots_competition_march_7_at_renaissance/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -82,13 +82,13 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-13h ago
+14h ago
 
 ---
 
 **[Research & Validation Survey for a student-led platform for the FIRST community](https://www.reddit.com/r/robotics/comments/1r8k0x5/research_validation_survey_for_a_studentled/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsen
 
 RSVP Here Food and drink will be provided. Please tell your friends.
 
-12h ago
+13h ago
 
 ---
 
@@ -108,7 +108,7 @@ RSVP Here Food and drink will be provided. Please tell your friends.
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -116,7 +116,7 @@ The Guardian • 12h ago
 
 Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 11h ago
+TechCrunch • 12h ago
 
 ---
 
@@ -124,15 +124,7 @@ TechCrunch • 11h ago
 
 Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
 
-Hawaii News Now • 4h ago
-
----
-
-**[Area robotics teams reach state competition](https://www.wandtv.com/news/illinois/area-robotics-teams-reach-state-competition/article_09601f51-6db9-4c50-8187-66254b18ae80.html)**
-
-Champaign-Urbana's two challenge robotics teams have earned spots at the 2026 FIRST Tech Challenge state championship.
-
-WANDTV.com • 7h ago
+Hawaii News Now • 5h ago
 
 ---
 
@@ -140,7 +132,23 @@ WANDTV.com • 7h ago
 
 In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
 
-Show Me Mizzou • 16h ago
+Show Me Mizzou • 18h ago
+
+---
+
+**[Area robotics teams reach state competition](https://www.wandtv.com/news/illinois/area-robotics-teams-reach-state-competition/article_09601f51-6db9-4c50-8187-66254b18ae80.html)**
+
+Champaign-Urbana's two challenge robotics teams have earned spots at the 2026 FIRST Tech Challenge state championship.
+
+WANDTV.com • 8h ago
+
+---
+
+**[Chinese AI and robotics firms appoint millennial, Gen Z stars as chief scientists](https://www.scmp.com/tech/big-tech/article/3343042/chinese-ai-and-robotics-firms-appoint-millennial-and-gen-z-rising-stars-chief-scientists)**
+
+Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
+
+South China Morning Post • 3h ago
 
 ---
 
@@ -148,7 +156,7 @@ Show Me Mizzou • 16h ago
 
 Reliable Robotics is entering a critical phase in its effort to certify an automated Cessna Caravan.
 
-Aviation Week • 6h ago
+Aviation Week • 7h ago
 
 ---
 
@@ -156,7 +164,7 @@ Aviation Week • 6h ago
 
 Michigan Farm News
 
-Michigan Farm News • 12h ago
+Michigan Farm News • 13h ago
 
 ---
 
@@ -164,21 +172,13 @@ Michigan Farm News • 12h ago
 
 A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
 
-Middletown Journal • 13h ago
+Middletown Journal • 14h ago
 
 ---
 
 **[Midway Through The Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://seekingalpha.com/article/4871792-midway-through-robotics-earnings-season-discipline-rewarded-recovery-broadening)**
 
-Seeking Alpha • 5h ago
-
----
-
-**[Texas AG Ken Paxton sues Anzu Robotics over alleged China-linked drones](https://www.click2houston.com/news/local/2026/02/18/texas-ag-ken-paxton-sues-anzu-robotics-over-alleged-china-linked-drones/)**
-
-Texas AG Ken Paxton sues Anzu Robotics, alleging its drones come from Chinese manufacturer DJI and pose potential data and security risks.
-
-Click2Houston • 7h ago
+Seeking Alpha • 6h ago
 
 ---
 
@@ -192,17 +192,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 145K • 👍 1K • 💬 111 • ⏱️ 0:32 • 23h ago
-
----
-
-**[China&#39;s humanoid robots take center stage at Lunar New Year show](https://www.youtube.com/watch?v=stNO7V8xJHk)**
-
-Humanoid robots took the stage and captivated the world performing dances and kung fu during a Lunar New Year show in China ...
-
-📺 NBC News
-
-👁️ 121K • 👍 988 • 💬 570 • ⏱️ 2:36 • 1d ago
+👁️ 154K • 👍 1K • 💬 114 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -212,27 +202,27 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 71K • 👍 1K • 💬 427 • ⏱️ 2:00 • 1d ago
+👁️ 75K • 👍 1K • 💬 435 • ⏱️ 2:00 • 1d ago
 
 ---
 
-**[The Real AI Crisis: It’s Not The Robots (Here’s What Actually Threatens Us)](https://www.youtube.com/watch?v=zVj4b_uImZE)**
+**[China&#39;s humanoid robots take center stage at Lunar New Year show](https://www.youtube.com/watch?v=stNO7V8xJHk)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+Humanoid robots took the stage and captivated the world performing dances and kung fu during a Lunar New Year show in China ...
 
-📺 Julia McCoy
+📺 NBC News
 
-👁️ 18K • 👍 1K • 💬 145 • ⏱️ 9:04 • 1d ago
+👁️ 142K • 👍 1K • 💬 594 • ⏱️ 2:36 • 1d ago
 
 ---
 
-**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
+**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
 
-China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
+Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
 
-📺 Guardian News
+📺 NDTV
 
-👁️ 230K • 👍 383 • 💬 256 • ⏱️ 0:52 • 1d ago
+👁️ 18K • 👍 83 • 💬 186 • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -242,7 +232,17 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 48K • 👍 1K • 💬 155 • ⏱️ 12:43 • 3d ago
+👁️ 49K • 👍 1K • 💬 155 • ⏱️ 12:43 • 3d ago
+
+---
+
+**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
+
+China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
+
+📺 Guardian News
+
+👁️ 237K • 👍 408 • 💬 267 • ⏱️ 0:52 • 1d ago
 
 ---
 
@@ -252,17 +252,17 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 980K • 👍 17K • 💬 8K • ⏱️ 2:37 • 2d ago
+👁️ 1.0M • 👍 18K • 💬 8K • ⏱️ 2:37 • 2d ago
 
 ---
 
-**[Dancing humanoid robots take centre stage at China&#39;s Lunar New Year Gala](https://www.youtube.com/watch?v=HEuhhanh878)**
+**[Humanoid Robots Perform in China&#39;s 2026 Lunar New Year Gala](https://www.youtube.com/watch?v=LPEGve_U1cY)**
 
-The world is ringing in the year of the Fire Horse and China is marking Lunar New Year with an extraordinary and unique ...
+Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off slick Kung fu moves alongside young martial ...
 
-📺 Al Jazeera English
+📺 New York Post
 
-👁️ 64K • 👍 733 • 💬 415 • ⏱️ 7:31 • 1d ago
+👁️ 51K • 👍 839 • 💬 578 • ⏱️ 2:01 • 15h ago
 
 ---
 
@@ -272,7 +272,7 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 646K • 👍 7K • 💬 1K • ⏱️ 1:41 • 2d ago
+👁️ 664K • 👍 7K • 💬 1K • ⏱️ 1:41 • 2d ago
 
 ---
 
@@ -282,7 +282,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 117K • 👍 2K • 💬 336 • ⏱️ 9:26 • 2d ago
+👁️ 119K • 👍 2K • 💬 341 • ⏱️ 9:26 • 2d ago
 
 ---
 
