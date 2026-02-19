@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-19T09:11:28.061698+00:00'
+updated: '2026-02-19T10:11:31.610216+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - repositories
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 19, 2026 at 09:11 UTC  
+**Last Updated:** February 19, 2026 at 10:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.
 
-20h ago
+21h ago
 
 ---
 
@@ -49,7 +49,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 "Machine learning can be used to fully reconstruct particle collisions at the LHC [Large Hadron Collider]. This new approach can reconstruct collisions more quickly and precisely than traditional methods, helping physicists better understand LHC data. [...] Each proton–proton collision at the LHC sprays out a complex pattern of particles that must be carefully reconstructed to allow physicists to study what really happened. For more than a decade, CMS has used a particle-flow (PF) algorithm, which combines information from the experiment's different detectors, to identify each particle produced in a collision. Although this method works remarkably well, it relies on a long chain of hand-crafted rules designed by physicists. The new CMS machine-learning-based particle-flow (MLPF) algorithm approaches the task fundamentally differently, replacing much of the rigid hand-crafted logic with a single model trained directly on simulated collisions. Instead of being told how to reconstruct particles, the algorithm learns how particles look in the detectors, like how humans learn to recognize faces without memorizing explicit rules. When benchmarked using data mimicking that from the current LHC run, the performance of the new machine-learning algorithm matched that of the traditional algorithm and, in some cases, even exceeded it. For example, when tested on simulated events in which top quarks were created, the algorithm improved the precision with which sprays of particles—known as jets—were reconstructed by 10%–20% in key particle momentum ranges. The new algorithm also allows a collision to be fully reconstructed far more quickly than before, because it can run efficiently on modern electronic chips known as graphics processing units (GPUs). Traditional algorithms typically need to run on central processing units (CPUs), which are often slower than GPUs for such tasks."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 6h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 7h ago
 
 ---
 
@@ -57,7 +57,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 I know that is a rollout coming and the backend of openAi is I red code... But recently it's simply impossible to work with anything in GPT that needs any simple task... If you send an OCR... It is read wrong, then you get angry, helps to fix it and ask a simple txt with content for instance and GPT does... So you ask this simple task... Generate the file for download in .txt or .md and then the issues back again missing content... Resuming... I'm going crazy because GPT for one week already. Anybody with same simple issues like that? Cheers
 
-2h ago
+3h ago
 
 ---
 
@@ -73,7 +73,7 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain
 
 Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service. This means tools like Cline, Roo Code, OpenClaw, and anything using the Agent SDK with consumer OAuth tokens are now in violation of Anthropic's Terms of Service. Developers are told to use API key authentication only. Original discussion: https://www.reddit.com/r/ClaudeAI/comments/1r8t6mn/
 
-1h ago
+2h ago
 
 ---
 
@@ -81,7 +81,7 @@ Anthropic updated their Claude Code Docs legal compliance page to explicitly ban
 
 https://reddit.com/link/1r8sbl0/video/lwjy5ybzfekg1/player The agent gets two things: a snapshot of the browser and a tree showing every element it can click or fill. That's how it knows what's on the page and what it can interact with. From there it reasons through the form on its own. No hardcoded field mapping, no brittle selectors. It just looks at what's there and figures it out. What surprised me was how it handled situations I didn't plan for. LinkedIn session expired mid-application it reset the password and kept going. One listing had no form at all, just a contact email it sent the email directly with my resume. One application was in French it completed the whole thing in French. I didn't build any of that in. It just reasoned through it. 1,000 applications, 2 days, multiple interviews lined up. Open source: https://github.com/Pickle-Pixel/ApplyPilot
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ Japanese company seeks to help copyright holders receive share of revenue
 
 You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
 
-22h ago
+23h ago
 
 ---
 
@@ -125,7 +125,7 @@ A self-hosted platform for running Claude agent swarms with a React UI, deployed
 
 Bill Gates has pulled out of delivering his keynote address at an AI summit in India Thursday, his foundation said, as the billionaire faces scrutiny over his ties to late convicted sex offender Jeffrey Epstein.
 
-CNN • 4h ago
+CNN • 5h ago
 
 ---
 
@@ -133,25 +133,25 @@ CNN • 4h ago
 
 The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
 **[Bill Gates Backs Out of India AI Summit as Epstein Scrutiny Resurfaces](https://www.bloomberg.com/news/newsletters/2026-02-19/bill-gates-backs-out-of-india-ai-summit-as-epstein-scrutiny-resurfaces?srnd=phx-economics-v2)**
 
-Bloomberg • 11m ago
+Bloomberg • 1h ago
 
 ---
 
 **[Meta Begins $65 Million Election Push to Advance A.I. Agenda](https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html)**
 
-The New York Times • 14h ago
+The New York Times • 15h ago
 
 ---
 
 **[Jared Sleeper on Which Software Companies Will Survive the SaaSpocalypse](https://www.bloomberg.com/news/articles/2026-02-19/saaspocalypse-software-stocks-get-hammered-by-rise-of-ai)**
 
-Bloomberg • 11m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -159,13 +159,13 @@ Bloomberg • 11m ago
 
 Heads of companies OpenAI and Anthropic refused to hold hands in a group photo at the opening of an AI summit in India.
 
-Al Jazeera • 48m ago
+Al Jazeera • 1h ago
 
 ---
 
 **[Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei](https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -173,7 +173,7 @@ The New York Times • 10h ago
 
 Tech bro rivalry is real, or at least it is for Sam Altman and Dario Amodei, the CEOs of two leading US artificial intelligence startups."That awkward moment when Sam Altman and Dario Amodei refused t...
 
-Yahoo • 36m ago
+Yahoo • 1h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo • 36m ago
 
 I found a way to make AI tell you lies – and I'm not the only one.
 
-BBC • 23h ago
+BBC • 1d ago
 
 ---
 
@@ -189,7 +189,7 @@ BBC • 23h ago
 
 Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.
 
-blog.google • 17h ago
+blog.google • 18h ago
 
 ---
 
@@ -201,7 +201,7 @@ blog.google • 17h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 778 • 💬 721 • 1d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 779 • 💬 725 • 1d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -209,7 +209,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Texas state Rep. James Talarico on the broadcast.
 
-⬆️ 522 • 💬 247 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 524 • 💬 247 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 
 ---
 
@@ -251,7 +251,7 @@ opinion: The subtractive bias we're ignoring
 
 fragments 18 Feb 2026
 
-⬆️ 187 • 💬 138 • 17h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 187 • 💬 138 • 18h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -273,7 +273,7 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 **[What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://news.ycombinator.com/item?id=47061642)**
 
-⬆️ 124 • 💬 110 • 18h ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
+⬆️ 125 • 💬 113 • 19h ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
 
 ---
 
@@ -287,7 +287,17 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 52K • 👍 4K • 💬 1K • ⏱️ 28:51 • 10h ago
+👁️ 74K • 👍 5K • 💬 2K • ⏱️ 28:51 • 11h ago
+
+---
+
+**[Claude Code + Figma MCP Is The Greatest AI Design System I&#39;ve Ever Used!](https://www.youtube.com/watch?v=mBJNfze9H0I)**
+
+Just tried the Claude Code → Figma MCP workflow, and wow… this is next-level. My Links: Sponsor a Video or Do a Demo of ...
+
+📺 WorldofAI
+
+👁️ 2K • 👍 112 • 💬 11 • ⏱️ 10:08 • 3h ago
 
 ---
 
@@ -297,17 +307,7 @@ GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED
 
 📺 Art Chad
 
-👁️ 94K • 👍 9K • 💬 831 • ⏱️ 24:36 • 16h ago
-
----
-
-**[Godfather of AI: The next 5 years Will Change Humanity Forever | Yoshua Bengio](https://www.youtube.com/watch?v=0fXGtQoJgNo)**
-
-FREE guide: Turn AI Agent Skills Into Cash — 5 paths to monetize AI in 30 days: https://clickhubspot.com/d203f6 In this episode of ...
-
-📺 Silicon Valley Girl
-
-👁️ 41K • 👍 803 • 💬 96 • ⏱️ 29:31 • 2d ago
+👁️ 103K • 👍 10K • 💬 888 • ⏱️ 24:36 • 17h ago
 
 ---
 
@@ -317,17 +317,7 @@ Artificial intelligence and robotics are advancing at a pace few people are prep
 
 📺 MotivationHub
 
-👁️ 26K • 👍 307 • 💬 73 • ⏱️ 13:16 • 2d ago
-
----
-
-**[Replacing Humans With AI Completely BACKFIRED](https://www.youtube.com/watch?v=TYe9DSPuCaE)**
-
-Replacing Workers With AI Has Been A Complete Disaster. Get Exclusive Access To The Community Discord: ...
-
-📺 Damon Cassidy
-
-👁️ 362K • 👍 18K • 💬 3K • ⏱️ 21:15 • 1d ago
+👁️ 26K • 👍 310 • 💬 74 • ⏱️ 13:16 • 2d ago
 
 ---
 
@@ -337,17 +327,27 @@ Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code F
 
 📺 Fireship
 
-👁️ 511K • 👍 20K • 💬 1K • ⏱️ 5:02 • 1d ago
+👁️ 522K • 👍 21K • 💬 1K • ⏱️ 5:02 • 1d ago
 
 ---
 
-**[The 5 Levels of AI Coding (Why Most of You Won&#39;t Make It Past Level 2)](https://www.youtube.com/watch?v=bDcgHzCBgmQ)**
+**[Replacing Humans With AI Completely BACKFIRED](https://www.youtube.com/watch?v=TYe9DSPuCaE)**
 
-My site: https://natebjones.com Full Story w/ Prompts: ...
+Replacing Workers With AI Has Been A Complete Disaster. Get Exclusive Access To The Community Discord: ...
 
-📺 AI News & Strategy Daily | Nate B Jones
+📺 Damon Cassidy
 
-👁️ 64K • 👍 3K • 💬 568 • ⏱️ 42:15 • 18h ago
+👁️ 369K • 👍 18K • 💬 3K • ⏱️ 21:15 • 1d ago
+
+---
+
+**[Godfather of AI: The next 5 years Will Change Humanity Forever | Yoshua Bengio](https://www.youtube.com/watch?v=0fXGtQoJgNo)**
+
+FREE guide: Turn AI Agent Skills Into Cash — 5 paths to monetize AI in 30 days: https://clickhubspot.com/d203f6 In this episode of ...
+
+📺 Silicon Valley Girl
+
+👁️ 42K • 👍 812 • 💬 97 • ⏱️ 29:31 • 2d ago
 
 ---
 
@@ -357,17 +357,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 Focus Features
 
-👁️ 3.6M • 👍 1K • 💬 168 • ⏱️ 2:43 • 1d ago
-
----
-
-**[OpenAI Just “Absorbed” OpenClaw and the AI World Exploded](https://www.youtube.com/watch?v=ubVLeoglBYE)**
-
-OpenAI just hired the creator of OpenClaw, one of the fastest-spreading open-source AI agent platforms in the world. At the same ...
-
-📺 AI Revolution
-
-👁️ 64K • 👍 2K • 💬 146 • ⏱️ 8:30 • 2d ago
+👁️ 3.8M • 👍 1K • 💬 173 • ⏱️ 2:43 • 1d ago
 
 ---
 
@@ -377,7 +367,17 @@ Matt Shumer joins "CBS Mornings" to discuss his now viral article, "Something Bi
 
 📺 CBS Mornings
 
-👁️ 78K • 👍 1K • 💬 330 • ⏱️ 7:07 • 1d ago
+👁️ 79K • 👍 1K • 💬 335 • ⏱️ 7:07 • 1d ago
+
+---
+
+**[“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS](https://www.youtube.com/watch?v=W-jdh08zEGM)**
+
+Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
+
+📺 Valuetainment
+
+👁️ 187K • 👍 3K • 💬 1K • ⏱️ 33:49 • 14h ago
 
 ---
 
@@ -393,7 +393,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 170,238 • ❤️ 1,362 • 5d ago
+⬇️ 171,928 • ❤️ 1,366 • 5d ago
 
 ---
 
@@ -405,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 40,292 • ❤️ 760 • 3d ago
+⬇️ 89,919 • ❤️ 765 • 3d ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 46,837 • ❤️ 697 • 2d ago
+⬇️ 79,343 • ❤️ 707 • 2d ago
 
 ---
 
@@ -429,7 +429,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 50,917 • ❤️ 581 • 7h ago
+⬇️ 77,344 • ❤️ 583 • 8h ago
 
 ---
 
@@ -441,7 +441,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 440,168 • ❤️ 2,039 • 3d ago
+⬇️ 479,308 • ❤️ 2,043 • 3d ago
 
 ---
 
@@ -453,31 +453,7 @@ MOSS-TTS Family is a suite of high-fidelity, expressive speech and sound generat
 
 `text-to-speech` `8.5B`
 
-⬇️ 21,532 • ❤️ 259 • 5d ago
-
----
-
-**[MiniCPM-SALA](https://huggingface.co/openbmb/MiniCPM-SALA)**
-
-*OpenBMB*
-
-MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficient million-token context modeling, achieving 3.5x faster inference and reduced KV-cache overhead on consumer GPUs.
-
-`text-generation` `9.5B`
-
-⬇️ 4,151 • ❤️ 465 • 7d ago
-
----
-
-**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
-
-*Moonshot AI*
-
-Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and tool use grounded in visual inputs. Its key capabilities include coding from visual specifications and agent swarm execution for complex task decomposition, making it suitable for advanced visual reasoning and autonomous agent applications.
-
-`image-text-to-text` `170.7B`
-
-⬇️ 895,102 • ❤️ 2,247 • 14d ago
+⬇️ 28,182 • ❤️ 264 • 5d ago
 
 ---
 
@@ -489,7 +465,19 @@ Ring-2.5-1T is an open-source trillion-parameter text generation model featuring
 
 `text-generation` `1012.5B`
 
-⬇️ 3,593 • ❤️ 203 • 4d ago
+⬇️ 4,468 • ❤️ 204 • 4d ago
+
+---
+
+**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+
+*Moonshot AI*
+
+Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and tool use grounded in visual inputs. Its key capabilities include coding from visual specifications and agent swarm execution for complex task decomposition, making it suitable for advanced visual reasoning and autonomous agent applications.
+
+`image-text-to-text` `170.7B`
+
+⬇️ 955,074 • ❤️ 2,248 • 14d ago
 
 ---
 
@@ -501,7 +489,19 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 1,148 • ❤️ 192 • 4d ago
+⬇️ 1,298 • ❤️ 194 • 5d ago
+
+---
+
+**[MiniCPM-SALA](https://huggingface.co/openbmb/MiniCPM-SALA)**
+
+*OpenBMB*
+
+MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficient million-token context modeling, achieving 3.5x faster inference and reduced KV-cache overhead on consumer GPUs.
+
+`text-generation` `9.5B`
+
+⬇️ 4,372 • ❤️ 467 • 7d ago
 
 ---
 
@@ -517,7 +517,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
 
-▲ 26 • 💬 3 • ⭐ 216 • 4d ago
+▲ 35 • 💬 3 • ⭐ 216 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
@@ -535,18 +535,6 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 11 • 💬 1 • ⭐ 4,214 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
-
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
 *Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
@@ -556,6 +544,18 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 ▲ 2 • 💬 0 • ⭐ 4,223 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 11 • 💬 1 • ⭐ 4,228 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -613,6 +613,18 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
+**[GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763)**
+
+*GLM-5 Team, Aohan Zeng, Xin Lv et al. (186 authors)*
+
+GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
+
+▲ 43 • 💬 3 • ⭐ 1,142 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
+
+---
+
 **[RAG-Anything: All-in-One RAG Framework](https://huggingface.co/papers/2510.12323)**
 
 *Zirui Guo, Xubin Ren, Lingrui Xu et al. (5 authors)*
@@ -621,21 +633,9 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 RAG-Anything is a unified framework that enhances multimodal knowledge retrieval by integrating cross-modal relationships and semantic matching, outperforming existing methods on complex benchmarks.
 
-▲ 65 • 💬 6 • ⭐ 13,562 • 4mo ago
+▲ 65 • 💬 6 • ⭐ 13,573 • 4mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2510.12323) • [💻 code](https://github.com/HKUDS/RAG-Anything)
-
----
-
-**[GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763)**
-
-*GLM-5 Team, Aohan Zeng, Xin Lv et al. (186 authors)*
-
-GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
-
-▲ 40 • 💬 3 • ⭐ 1,103 • 1d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
 ---
 
@@ -649,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 14.0k • 🔱 1.4k • 1h ago
+⭐ 14.4k • 🔱 1.5k • 6m ago
 
 ---
 
@@ -657,7 +657,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.3k • 🔱 488 • 8d ago
+⭐ 6.3k • 🔱 489 • 8d ago
 
 ---
 
@@ -667,7 +667,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 4.3k • 🔱 491 • 8d ago
+⭐ 4.5k • 🔱 506 • 8d ago
 
 ---
 
@@ -687,7 +687,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 2.9k • 🔱 347 • 1d ago
+⭐ 3.1k • 🔱 359 • 1d ago
 
 ---
 
@@ -697,7 +697,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.9k • 🔱 282 • 3h ago
+⭐ 2.9k • 🔱 286 • 4h ago
 
 ---
 
@@ -707,7 +707,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.6k • 🔱 313 • 20h ago
+⭐ 2.6k • 🔱 314 • 2h ago
 
 ---
 
@@ -717,7 +717,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 171 • 2h ago
+⭐ 2.5k • 🔱 170 • 52m ago
 
 ---
 
