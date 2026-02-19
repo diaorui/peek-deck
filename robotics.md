@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-19T19:39:43.541880+00:00'
+updated: '2026-02-19T20:35:09.330450+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 19, 2026 at 19:39 UTC  
+**Last Updated:** February 19, 2026 at 20:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
-7h ago
+8h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 If you're looking to get into VLA / robot foundation models but not sure where to start, I made a curated reading list that covers the path from diffusion model basics to the latest architectures like π0, GR00T N1, and DreamZero. What's covered (6 phases, 30 papers): Phase 1: Generative foundations — MIT 6.S184 (flow matching & diffusion) Phase 2: Early robot models — RT-1 → RT-2 → Octo → OpenVLA, Diffusion Policy, ACT Phase 3: Current architectures — π0, GR00T N1, CogACT, X-VLA, InternVLA-M1 Phase 4: Data scaling — OXE, AgiBot World, UMI, human video transfer Phase 5: Efficient inference — SmolVLA, RTC, dual-system (Helix, Fast-in-Slow) Phase 6: RL fine-tuning, reasoning & world models — HIL-SERL, π*0.6, CoT-VLA, ThinkAct, DreamZero Designed for a study group format (1–2 paper presentations/week + discussion), but works fine for self-study too. Prerequisites are basic DL fundamentals — recommended courses included. 🔗 GitHub: https://github.com/MilkClouds/awesome-vla-study Feedback and paper suggestions welcome — open an issue or PR.
 
-3h ago
+4h ago
 
 ---
 
@@ -60,13 +60,13 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in March Agents & Robotics HackXelerator™ 2026 is a 20-day innovation event running 27 March - 17 April 2026. Builders create working AI systems focused on agents, robotics, and embodied intelligence. This event combines hackathon energy with accelerator structure, featuring both online participation and in-person gatherings (London kick-off on March 29, Berlin showcase on April 17). Choose from four mission tracks: • Mission 1: Digital Agents & Multi-Agent Systems • Mission 2: Autonomous Systems & Embodied AI • Mission 3: Human-Robot Interaction & Social Robotics • Mission 4: Ethics, Agency & Societal Impact Cash and non-cash prizes (GPUs) will be awarded -- details soon to be up on website Sign up at https://www.kxsb.org/ar26
 
-4h ago
+5h ago
 
 ---
 
 **[Doly SDK](https://www.reddit.com/r/robotics/comments/1r96fpt/doly_sdk/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -74,7 +74,7 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds laundry. Price is $8,000 upfront or $450 per month. The system handles shirts, pants, and towels autonomously, with short remote interventions when it gets stuck. The approach is to ship a simplified system now, operate it in real homes, and iterate from there rather than waiting for a fully generalized household robot.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 1h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 2h ago
 
 ---
 
@@ -82,27 +82,25 @@ Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds la
 
 We've probably exceeded 1 billion ROS package downloads a year! Get the full report on Open Robotics Discourse.
 
-1h ago
+2h ago
 
 ---
 
 **[Announcing Webots Academy: A zero-setup, browser-based simulation platform for universities](https://www.reddit.com/r/robotics/comments/1r8vc70/announcing_webots_academy_a_zerosetup/)**
 
-9h ago
+10h ago
+
+---
+
+**[Mix this with the humanoids and you have West World](https://www.reddit.com/r/robotics/comments/1r98nfo/mix_this_with_the_humanoids_and_you_have_west/)**
+
+1h ago
 
 ---
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
 1d ago
-
----
-
-**[4 DOF SCARA robot trajectory planning help](https://www.reddit.com/r/robotics/comments/1r8y9iw/4_dof_scara_robot_trajectory_planning_help/)**
-
-Hello everyone I currently have a 4-axis SCARA robot where I am trying to ensure a safe zone and an effective trajectory along the xy axis (I only move along the z axis at certain moments) I tried to calculate viapoints (between points) using a cubic polynomial, but safety suffers there - it gets very close to itself and almost collides I also need to limit the area outside the manipulator so that it definitely does not go beyond a certain x and a certain y. I understand that Cartesian coordinates/limits are of no use here, since the robot moves in joint space. But now I would like some guidance and maybe some links to the project I am using python and robot's SDK (basic methods to move given the coordinates through IK, change orientation) etc etc
-
-6h ago
 
 ---
 
@@ -118,69 +116,73 @@ The Guardian • 1d ago
 
 ---
 
-**[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
+**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
-Forbes • 1h ago
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
----
-
-**[The Tortoises That Inspired Modern Robotics](https://nautil.us/the-tortoises-that-inspired-modern-robotics-1268922/)**
-
-The Tortoises That Inspired Modern Robotics: W. Grey Walter’s early automatons sparked an ongoing fascination with artificial animals
-
-Nautilus | Science Connected • 2h ago
+TechCrunch • 1d ago
 
 ---
 
-**[Nauticus Robotics, Inc. Announces Major Leadership Enhancements, Aquanaut Manufacturing Expansion, and Accelerated Growth Strategy](https://www.prnewswire.com/news-releases/nauticus-robotics-inc-announces-major-leadership-enhancements-aquanaut-manufacturing-expansion-and-accelerated-growth-strategy-302692564.html)**
+**[A robotic dog made in China gets an Indian university kicked out of an AI summit](https://www.nbcnews.com/world/asia/robotic-dog-made-china-gets-indian-university-kicked-ai-summit-rcna259682)**
 
-/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) ("Nauticus" or the "Company"), a pioneer in autonomous subsea robotics and AI-driven offshore solutions,...
+A professor said the robot was developed at Galgotias University, but internet users quickly identified it as being commercially available from China’s Unitree Robotics.
 
-PR Newswire • 6h ago
-
----
-
-**[A neural blueprint for human-like intelligence in soft robots](https://news.mit.edu/2026/neural-blueprint-human-intelligence-in-soft-robots-0219)**
-
-A new AI control system enables soft robotic arms to learn a wide repertoire of motions and tasks once, then adjust to new scenarios on the fly without needing retraining or sacrificing functionality. The work was co-led by researchers at the Singapore-MIT Alliance for Research and Technology (SMART).
-
-MIT News • 1h ago
+NBC News • 15h ago
 
 ---
 
-**[NC STEM Center e-Update: Millions for Museums, Robotics PD + STEM Scholarships](https://www.ednc.org/nc-stem-center-e-update-millions-for-museums-robotics-pd-stem-scholarships/)**
+**[Robotics trade in focus: 2 overlooked stock picks](https://finance.yahoo.com/video/robotics-trade-focus-2-overlooked-113006524.html)**
 
-Twice a month the NC STEM Center provides an e-update on what’s happening in STEM, and their latest edition is now available.
+As part of Yahoo Finance's Bot & Sold robotics special, KraneShares senior investment strategist Derek Yan joins Asking for a Trend host Josh Lipton to share his top stock picks in the robotics sector. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
 
-EdNC • 2h ago
-
----
-
-**[Worcester robotics firm buys Westborough industrial site for $2.5M](https://wbjournal.com/article/worcester-robotics-firm-buys-westborough-industrial-site-for-2-5m/)**
-
-The owner of a Worcester-based robotic parts and tools firm has purchased an industrial building at 62 Hopkinton Road in Westborough for $2.5 million.
-
-Worcester Business Journal • 2h ago
+Yahoo Finance • 9h ago
 
 ---
 
-**[Monadnock 4-H Robotics Club Team Inconceivable gears up for 2026 competition](https://ledgertranscript.com/2026/02/19/monadnock-4h-robotics-team-2026/)**
+**[AI-enabled robotics could shift global manufacturing power, CEO of Alphabet company says](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
 
-Monadnock Ledger-Transcript • 4h ago
+When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
 
----
-
-**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
-
-Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
-
-Automotive News • 5h ago
+CNBC • 1d ago
 
 ---
 
-**[NHTI to host FIRST Tech Challenge on Saturday](https://www.concordmonitor.com/2026/02/19/concord-robotics-championship-event/)**
+**[China’s Unitree Aims to Ship 20,000 Humanoid Robots in 2026](https://www.eweek.com/news/unitree-20000-humanoid-robots-2026-china/)**
 
-Concord Monitor • 1h ago
+Unitree plans to ship up to 20,000 humanoid robots in 2026 as China tightens its grip on the global robotics market, outpacing Western rivals.
+
+eWeek • 6h ago
+
+---
+
+**[Inside automakers’ strategic bet on humanoid robots beyond the assembly line](https://www.autonews.com/technology/an-automakers-turn-to-robots-for-future-business-0218/)**
+
+Automakers from Tesla to Hyundai are pivoting into humanoid robots, betting their manufacturing expertise will dominate a market projected at $7.5 trillion by 2050.
+
+Automotive News • 1d ago
+
+---
+
+**[Americans are unleashing their anger on food-delivery robots](https://www.economist.com/united-states/2026/02/16/americans-are-unleashing-their-anger-on-food-delivery-robots)**
+
+The Economist • 3d ago
+
+---
+
+**[Chinese AI and robotics firms appoint millennial, Gen Z stars as chief scientists](https://www.scmp.com/tech/big-tech/article/3343042/chinese-ai-and-robotics-firms-appoint-millennial-and-gen-z-rising-stars-chief-scientists)**
+
+Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
+
+South China Morning Post • 16h ago
+
+---
+
+**[HD Hyundai Samho is Making Serious Plans to Install Humanoid Robots](https://maritime-executive.com/article/hd-hyundai-samho-is-making-serious-plans-to-install-humanoid-robots)**
+
+Korean shipbuilder HD Hyundai Samho says that it is studying ways to introduce humanoid robots into its yard, and is examining ROI to figure out wher...
+
+The Maritime Executive • 1d ago
 
 ---
 
@@ -194,7 +196,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 53K • 👍 735 • 💬 644 • ⏱️ 3:42 • 11h ago
+👁️ 70K • 👍 856 • 💬 753 • ⏱️ 3:42 • 12h ago
 
 ---
 
@@ -204,7 +206,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 204K • 👍 1K • 💬 133 • ⏱️ 0:32 • 1d ago
+👁️ 224K • 👍 1K • 💬 138 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -214,7 +216,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 100K • 👍 1K • 💬 621 • ⏱️ 2:00 • 2d ago
+👁️ 108K • 👍 2K • 💬 649 • ⏱️ 2:00 • 2d ago
 
 ---
 
@@ -224,17 +226,17 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 228K • 👍 1K • 💬 725 • ⏱️ 2:36 • 1d ago
+👁️ 252K • 👍 1K • 💬 757 • ⏱️ 2:36 • 1d ago
 
 ---
 
-**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+**[The Real AI Crisis: It’s Not The Robots (Here’s What Actually Threatens Us)](https://www.youtube.com/watch?v=zVj4b_uImZE)**
 
-By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
 
-📺 NVIDIA
+📺 Julia McCoy
 
-👁️ 15K • 👍 692 • ⏱️ 2:51 • 22h ago
+👁️ 19K • 👍 1K • 💬 151 • ⏱️ 9:04 • 2d ago
 
 ---
 
@@ -244,37 +246,17 @@ China Media Group's 2026 Spring Festival Gala drew widespread attention with a p
 
 📺 Guardian News
 
-👁️ 265K • 👍 470 • 💬 387 • ⏱️ 0:52 • 1d ago
+👁️ 270K • 👍 481 • 💬 391 • ⏱️ 0:52 • 1d ago
 
 ---
 
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+**[Humanoid robot performance showcases China’s massive technological leap](https://www.youtube.com/watch?v=qagfo9AUDEA)**
 
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+Humanoid robot performance showcases China's massive technological leap #technology #robotics #chinanews China's annual ...
 
-📺 AI Revolution
+📺 news.com.au
 
-👁️ 51K • 👍 1K • 💬 159 • ⏱️ 12:43 • 3d ago
-
----
-
-**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
-
-The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
-
-📺 The Sun
-
-👁️ 1.2M • 👍 20K • 💬 9K • ⏱️ 2:37 • 3d ago
-
----
-
-**[Humanoid Robots Perform in China&#39;s 2026 Lunar New Year Gala](https://www.youtube.com/watch?v=LPEGve_U1cY)**
-
-Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off slick Kung fu moves alongside young martial ...
-
-📺 New York Post
-
-👁️ 70K • 👍 1K • 💬 724 • ⏱️ 2:01 • 1d ago
+👁️ 7K • 👍 93 • 💬 41 • ⏱️ 2:25 • 16h ago
 
 ---
 
@@ -284,7 +266,27 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 125K • 👍 2K • 💬 344 • ⏱️ 9:26 • 3d ago
+👁️ 126K • 👍 2K • 💬 343 • ⏱️ 9:26 • 3d ago
+
+---
+
+**[China Flaunts DOMINANCE In Humanoid Robots](https://www.youtube.com/watch?v=IUuFjdj2zq0)**
+
+Support our work: http://novara.media/support Buy Novara Media merch: https://shop.novaramedia.com/ Discuss the show on ...
+
+📺 Novara Media
+
+👁️ 16K • 👍 665 • 💬 375 • ⏱️ 11:39 • 7h ago
+
+---
+
+**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+
+By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+
+📺 NVIDIA
+
+👁️ 16K • 👍 720 • ⏱️ 2:51 • 23h ago
 
 ---
 

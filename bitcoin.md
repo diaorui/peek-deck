@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T19:39:43.533579+00:00'
+updated: '2026-02-19T20:35:09.321254+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 19:39 UTC  
+**Last Updated:** February 19, 2026 at 20:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,022.19
+### $67,036.92
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.2%  
+**24h:** +1.0%  
 **7d:** -2.7%  
-**30d:** -25.2%  
+**30d:** -25.3%  
 **90d:** -20.9%  
-**1y:** -31.8%  
+**1y:** -31.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1329.30B
+**Market Cap:** $1338.03B
 Rank #1
 
-**Circulating Supply:** 19,991,937 BTC
+**Circulating Supply:** 19,991,981 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.3%
+-46.9%
 
 **All-Time Low:** $67.81
-+97918.0%
++98645.0%
 
 ---
 
@@ -79,21 +79,13 @@ Rank #1
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-8h ago
+9h ago
 
 ---
 
-**[Italian banking giant Intesa Sanapolo discloses near $100 million bitcoin ETF holdings](https://www.reddit.com/r/Bitcoin/comments/1r8y6nf/italian_banking_giant_intesa_sanapolo_discloses/)**
+**[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
-
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 6h ago
-
----
-
-**[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
-
-1d ago
+1h ago
 
 ---
 
@@ -101,7 +93,21 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-3h ago
+4h ago
+
+---
+
+**[Italian banking giant Intesa Sanapolo discloses near $100 million bitcoin ETF holdings](https://www.reddit.com/r/Bitcoin/comments/1r8y6nf/italian_banking_giant_intesa_sanapolo_discloses/)**
+
+The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
+
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 7h ago
+
+---
+
+**[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
+
+1d ago
 
 ---
 
@@ -117,13 +123,7 @@ Did anyone else actually read the FOMC minutes or did we all just watch the gree
 
 SYNOPSIS British submarine coordinates appear on a public ledger disguised as transactions. Broadcast globally. Every ten minutes. Western intelligence services descend into chaos. Salvation lies with three strangers: a computer scientist, a civil servant and an army veteran.
 
-8h ago
-
----
-
-**[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
-
-1h ago
+9h ago
 
 ---
 
@@ -135,11 +135,11 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 ---
 
-**[Does the Blockstream’s blind oracle safe?](https://www.reddit.com/r/Bitcoin/comments/1r95vlv/does_the_blockstreams_blind_oracle_safe/)**
+**[Why do people pass Bitcoin after they hear about it?](https://www.reddit.com/r/Bitcoin/comments/1r99nsq/why_do_people_pass_bitcoin_after_they_hear_about/)**
 
-I’m using jade and mainly unlocking it by QR code unlock scan. Yes, I know it’s fully open source, but given that it uses the blind oracle from Blockstreams servers to decrypt your wallet info, is this a possible compromise threat? Is it really secure for long-term holdings? Do I need to move my funds to all-new wallet with new seed words?
+When I heard of Bitcoin in 2016, I got excited and dive in the rabbit hole since. I have orange pilled some people along the way but I only met 1-3 Bitcoin Maxis in my life (those I know from Bitcoin Asia Conference), excluding those I know from Bitcoin Asia Conference I do not have Bitcoin Maxi friends at all. Many nocoiners dismiss Bitcoin when I talk about it. Some even discredit Bitcoin with a sense of superiority as if they know more than we do. Why are there so many nocoiners? Did they not study the fundamentals and history of money? Why don't they educate themselves?
 
-1h ago
+34m ago
 
 ---
 
@@ -157,33 +157,59 @@ I’m using jade and mainly unlocking it by QR code unlock scan. Yes, I know it�
 
 Investors are focused less on the accuracy of Trump’s trade figures and more on how renewed tariff talk could mean higher-for-longer interest rates.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Abu Dhabi Funds Add to Bitcoin Bets Despite Crypto Rout](https://www.bloomberg.com/news/articles/2026-02-18/abu-dhabi-funds-add-to-bitcoin-bets-despite-crypto-rout)**
+**[Eric Trump shrugs off bitcoin's recent slump: 'If you don't have the backbone ... go invest in some boring bond'](https://finance.yahoo.com/news/eric-trump-shrugs-off-bitcoins-recent-slump-if-you-dont-have-the-backbone--go-invest-in-some-boring-bond-193400545.html)**
 
-Bloomberg.com • 1d ago
+During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
----
-
-**[Clarity Act Odds Briefly Spike; Bitcoin Miner Tumbles On AI Funding Plans](https://www.investors.com/news/clarity-act-odds-spike-stablecoin-discussions-white-house-bitdeer-funds-ai-data-center/)**
-
-Investor's Business Daily • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Fund manager who embezzled $40m in Bitcoin from former Georgian PM freed in plea deal](https://www.yahoo.com/news/articles/fund-manager-embezzled-40m-bitcoin-153650470.html)**
+**[Eric Trump Doubles Down on $1M Bitcoin Prediction — As Trump Family Welcomes Crypto Leaders at WLFI Gathering](https://www.ccn.com/news/crypto/eric-trump-doubles-down-on-1m-bitcoin-price-prediction/)**
 
-Bidzina Ivanishvili’s bank loaned the Bitcoin in 2015. Sentence reduced from 15 years to one year, suspended. Fund manager fled country early last year, but was arrested shortly after.
+Eric Trump renewed his $1 million Bitcoin price prediction as the Trump family hosted Wall Street and crypto leaders at a WLFI forum.
 
-Yahoo • 4h ago
+CCN.com • 6h ago
+
+---
+
+**[Ledn sells $188 million worth of bitcoin-backed bonds: Bloomberg](https://www.theblock.co/post/390433/ledn-sells-188-million-worth-of-bitcoin-backed-bonds-bloomberg)**
+
+S&P Global gave the majority of the bonds the less-than-stellar rating of BBB-, according to a Feb. 9 report.
+
+The Block • 22h ago
+
+---
+
+**[Crypto Firm Ledn Sells Bitcoin-Backed Bonds In ABS Market First](https://www.bloomberg.com/news/articles/2026-02-18/crypto-firm-ledn-sells-bitcoin-backed-bonds-in-abs-market-first)**
+
+Bloomberg.com • 23h ago
+
+---
+
+**[Ledn Sells $188M Bitcoin-Backed Bonds in First-of-Its-Kind Deal](https://bitcoinmagazine.com/news/ledn-sells-188m-bitcoin-backed-bonds)**
+
+Crypto lender Ledn Inc. has officially sold $188 million in securitized bonds backed by Bitcoin-linked loans.
+
+Bitcoin Magazine • 22h ago
 
 ---
 
 **[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 38m ago
+
+---
+
+**[Bitcoin’s Lightning Network Surpasses $1 Billion in Monthly Volume As Adoption Grows](https://bitcoinmagazine.com/news/bitcoins-lightning-network-surpasses)**
+
+Bitcoin’s Lightning Network topped $1.17 billion in November monthly volume across 5.22 million transactions, according to River Financial, which says the milestone reflects growing adoption despite flat price action.
+
+Bitcoin Magazine • 57m ago
 
 ---
 
@@ -191,39 +217,15 @@ Bloomberg.com • 1h ago
 
 The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
 
-The Globe and Mail • 8h ago
+The Globe and Mail • 9h ago
 
 ---
 
-**[Hacker returns $21 million in stolen bitcoin to South Korean authorities: report](https://www.theblock.co/post/390451/hacker-returns-stolen-bitcoin-south-korea)**
+**[Longtime crypto skeptic and Goldman CEO David Solomon says he owns a 'very limited' amount of bitcoin](https://www.businessinsider.com/bitcoin-goldman-sachs-david-solomon-crypto-investing-regulation-btc-2026-2)**
 
-South Korean prosecutors have recovered the $21 million worth of bitcoin that was stolen from their custody last year.
-
-The Block • 9h ago
-
----
-
-**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)**
-
-The Ivy League school still has more money invested in Bitcoin than any other US stock.
-
-Fortune • 23h ago
-
----
-
-**['Dr. Doom' Nouriel Roubini blasts bitcoin as 'bogus' and a risk to the financial system](https://www.businessinsider.com/bitcoin-dr-doom-nouriel-roubini-crypto-bogus-financial-system-risk-2026-2)**
-
-Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
+Speaking at an event in Florida, the Goldman chief said he owns some bitcoin. Solomon has previously said the crypto is a speculative asset.
 
 Business Insider • 1d ago
-
----
-
-**[JPMorgan announces Bitcoin mining leader](https://www.thestreet.com/crypto/markets/jpmorgan-announces-bitcoin-mining-leader)**
-
-This comes at a time when Bitcoin miners are increasingly pivoting out of the sector.
-
-thestreet.com • 1d ago
 
 ---
 
@@ -257,7 +259,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
-⬆️ 2 • 💬 0 • 4d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 2 • 💬 0 • 5d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -279,7 +281,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 3h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 4h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -299,11 +301,11 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ---
 
-**[OpenBlockspace – IR³ Alpha – Pure Flux Architecture](https://news.ycombinator.com/item?id=47075436)**
+**[Private Marketplace via DHT Broadcast and P2P Quotes](https://news.ycombinator.com/item?id=47078422)**
 
 ...
 
-⬆️ 1 • 💬 1 • 3h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-878/)
+⬆️ 1 • 💬 1 • 32m ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
 
 ---
 
@@ -317,7 +319,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 42K • 👍 2K • 💬 101 • ⏱️ 28:28 • 21h ago
+👁️ 46K • 👍 2K • 💬 101 • ⏱️ 28:28 • 22h ago
 
 ---
 
@@ -327,47 +329,7 @@ Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail app
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 669 • 💬 208 • ⏱️ 36:44 • 2h ago
-
----
-
-**[He looks scared](https://www.youtube.com/watch?v=U-NQD3zAOHs)**
-
-Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https://cryptofundtrader.com?fpr=altcoindaily ...
-
-📺 Altcoin Daily
-
-👁️ 57K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
-
----
-
-**[This Surprised Me (Bitcoin Update)](https://www.youtube.com/watch?v=aGnsO6O2zu4)**
-
-Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
-
-📺 Aaron Bennett
-
-👁️ 8K • 👍 472 • 💬 192 • ⏱️ 8:53 • 12h ago
-
----
-
-**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
-
-Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
-
-📺 Altcoin Daily
-
-👁️ 108K • 👍 4K • 💬 585 • ⏱️ 10:49 • 2d ago
-
----
-
-**[Trump Family Said Bitcoin is going to $1M...](https://www.youtube.com/watch?v=ILMNi6R3GVQ)**
-
-Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
-
-📺 CryptosRUs
-
-👁️ 22K • 👍 1K • 💬 623 • ⏱️ 8:25 • 17h ago
+👁️ 15K • 👍 868 • 💬 245 • ⏱️ 36:44 • 3h ago
 
 ---
 
@@ -377,27 +339,47 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 845 • 💬 154 • ⏱️ 46:22 • 4h ago
+👁️ 18K • 👍 1K • 💬 239 • ⏱️ 46:22 • 5h ago
 
 ---
 
-**[Bitcoin to $20k? Bobby Lee Issues URGENT Warning 🚨.](https://www.youtube.com/watch?v=yK_b77ErgyE)**
+**[He looks scared](https://www.youtube.com/watch?v=U-NQD3zAOHs)**
 
-Bitcoin bull Bobby Lee joins Bloomberg to warn that the crypto bull market is over and a major correction is incoming. In this video ...
+Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https://cryptofundtrader.com?fpr=altcoindaily ...
 
-📺 Financial Funda
+📺 Altcoin Daily
 
-👁️ 7K • 👍 243 • 💬 21 • ⏱️ 2:38 • 1d ago
+👁️ 58K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
 
 ---
 
-**[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
+**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
 
-Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
+Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
 
-📺 Mark Moss
+📺 Altcoin Daily
 
-👁️ 89K • 👍 4K • 💬 477 • ⏱️ 20:14 • 1d ago
+👁️ 109K • 👍 4K • 💬 585 • ⏱️ 10:49 • 2d ago
+
+---
+
+**[Bitcoin Live Trading: Range Getting Tighter Before Massive Move? EP1913](https://www.youtube.com/watch?v=iCaMnA5Gq8c)**
+
+Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
+
+📺 Crypto Lifer
+
+👁️ 6K • 👍 520 • 💬 1 • ⏱️ 2:09:43 • 3h ago
+
+---
+
+**[This Surprised Me (Bitcoin Update)](https://www.youtube.com/watch?v=aGnsO6O2zu4)**
+
+Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
+
+📺 Aaron Bennett
+
+👁️ 9K • 👍 515 • 💬 239 • ⏱️ 8:53 • 13h ago
 
 ---
 
@@ -407,7 +389,27 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 409 • 💬 42 • ⏱️ 1:08 • 1d ago
+👁️ 14K • 👍 416 • 💬 19 • ⏱️ 1:08 • 1d ago
+
+---
+
+**[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
+
+Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
+
+📺 Mark Moss
+
+👁️ 91K • 👍 4K • 💬 484 • ⏱️ 20:14 • 1d ago
+
+---
+
+**[Bitcoin is in a ‘crypto winter,’ says Strategy founder](https://www.youtube.com/watch?v=H-LEbgIojgA)**
+
+Strategy founder and executive chairman Michael Saylor discusses the current 'crypto winter' for Bitcoin, financial stability and the ...
+
+📺 Fox Business
+
+👁️ 81K • 👍 1K • 💬 7K • ⏱️ 11:33 • 1d ago
 
 ---
 
