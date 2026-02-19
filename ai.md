@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-19T22:33:59.276827+00:00'
+updated: '2026-02-19T23:31:25.767366+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
 - social
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 19, 2026 at 22:33 UTC  
+**Last Updated:** February 19, 2026 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Over the years, many lists of AI training and data annotation companies have circulated on Reddit, but a lot of them are now outdated or mix very different types of platforms. I put together an updated 2026 list covering AI training, data annotation, LLM feedback, and related AI work Full list, reviews and open jobs here: https://www.aitrainingjobs.it/best-ai-training-data-annotation-companies-updated-2026/ My reddit Community: https://www.reddit.com/r/AiTraining_Annotation/ Data Annotation. Tech Platform specialized in AI response comparison, evaluation, and human feedback tasks used to improve large language models, with a strong focus on reasoning-heavy work. TELUS International AI Global AI services provider offering search evaluation, AI training, and linguistic data work for major technology companies, including former Lionbridge AI programs. Scale AI Enterprise-focused AI data platform supporting advanced machine learning systems through large-scale data annotation, validation, and model evaluation workflows. Appen One of the longest-running AI data annotation companies, offering a wide range of remote AI training, language, and data labeling projects. Merco AI-focused talent marketplace connecting vetted professionals with project-based AI, data, and engineering roles, closer to a talent network than a task platform. Micro1 AI workforce and staffing platform offering higher-paying AI training and domain-specific roles, often requiring subject-matter expertise. SuperAnnotate AI data annotation platform offering tools and projects for image, video, text, and LLM-related annotation tasks, widely used in computer vision workflows. TransPerfect Global language and localization company working on large-scale AI training and multilingual data annotation projects for enterprise clients. Gloz AI training platform focused on language-based data annotation and LLM evaluation through structured text review and human feedback tasks. Mindrift AI training and data services platform focused on LLM evaluation and structured human feedback to improve model quality and alignment. Braintrust Decentralized talent network connecting vetted professionals with AI, engineering, and data-related projects through client-driven work. iMerit Enterprise-level AI data services company specializing in high-quality data annotation and model evaluation for complex use cases such as healthcare and NLP. Outlier AI training platform focused on reviewing and evaluating AI-generated responses through structured LLM feedback tasks, with relatively easy onboarding. Invisible Technologies AI operations and data services company offering structured, team-based AI training and data work for enterprise clients. OneForma Global AI training and crowdsourcing platform offering data annotation, transcription, translation, and linguistic evaluation tasks, widely used for multilingual projects. Welocalize Localization and language services company offering AI training, search evaluation, and multilingual data annotation work. LXT AI Global AI data annotation and training company focused on language, speech, and localization projects for enterprise clients. Lionbridge Formerly a major AI training and search evaluation company; most AI programs are now operated under TELUS International AI. Innodata Enterprise-level AI data services company specializing in large-scale data annotation and structured AI training projects. Alignerr AI training platform focused on cognitive labeling, decision evaluation, and ethical AI alignment tasks emphasizing human reasoning. Abaka AI AI training and evaluation platform offering contract work focused on reasoning-based annotation and human feedback, often cited for higher pay. Stellar AI AI training and evaluation platform offering project-based annotation and quality assurance work with a strong focus on accuracy. SME Careers Platform connecting subject-matter experts with high-paying AI training, expert review, and model evaluation projects. Cohere Enterprise AI company focused on large language models, offering expert-level roles rather than open crowd-based annotation tasks. Perplexity AI AI-powered search and answer engine offering professional research, engineering, and quality roles related to AI systems. xAI AI research and product company focused on large language models and advanced reasoning systems, offering highly selective roles. Toloka Global crowdsourcing platform offering beginner-friendly AI training microtasks such as content evaluation and data labeling. Prolific Online research platform connecting participants with paid academic and industry studies used for AI training and human feedback. Remotasks AI training platform focused on image, video, and LiDAR annotation for computer vision systems, with structured training programs. CloudFactory Global data operations company providing human-in-the-loop AI services through managed teams and structured workflows. Clickworker Crowdsourcing platform offering basic microtasks such as text labeling, image tagging, and surveys used for AI data collection. Surge AI Premium AI data services company focused on RLHF and high-quality human feedback for advanced AI models, operating through selective contracts. Handshake Career and recruiting platform connecting students and early-career professionals with structured AI-related roles, including AI training support, data labeling, research assistance, and model evaluation positions. RWS Enterprise language, localization, and AI data services company working with global clients on large-scale AI training, linguistic data annotation, and model evaluation projects. TaskVerse Microtask-based platform offering occasional AI-related tasks such as data labeling, content review, and basic human feedback. Uber AI Solutions Task-based platform offering flexible AI-related work such as data labeling, content evaluation, and basic human feedback tasks RemoExperts (Rex.zone) Expert-focused AI training and evaluation platform connecting vetted professionals with high-value remote projects such as LLM evaluation, RLHF, domain-specific analysis, and advanced data annotation. RemoExperts emphasizes selective onboarding, expert-level contributions, and competitive pay rather than open microtask workflows. Silencio AI Audio data collection app where contributors earn by capturing and submitting real-world sound recordings to support speech AI and voice recognition model training. Centific Enterprise AI data solutions company delivering large-scale human-in-the-loop workflows, high-quality datasets, and AI data infrastructure for global clients (not a typical microtask platform).
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ Over the years, many lists of AI training and data annotation companies have cir
 
 OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding news, & Sam Altman funding updates on the $100B raise.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 9h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding
 
 Wanted to understand how the core transformer papers actually connect at the concept level - not just "Paper B cites Paper A" but what specific methods, systems, and ideas flow between them. I ran 12 foundational papers (Attention Is All You Need, BERT, GPT-2/3, Scaling Laws, ViT, LoRA, Chain-of-Thought, FlashAttention, InstructGPT, LLaMA, DPO) through https://github.com/juanceresa/sift-kg (open-source CLI) - point it at a folder of documents + any LLM, get a knowledge graph. 435-entity knowledge graph with 593 relationships for ~$0.72 in API calls (gpt 4o-mini). Graph: https://juanceresa.github.io/sift-kg/transformers/graph.html - interactive and runs in browser. Some interesting structural patterns: - GPT-2 is the most connected node - it's the hub everything flows through. BERT extends it, FlashAttention speeds it up, LoRA compresses it, InstructGPT fine-tunes it with RLHF - The graph splits into 9 natural communities. "Human Feedback and Reinforcement Learning" is the largest (24 entities), which tracks with how much of recent progress is RLHF-shaped - Chain-of-Thought Prompting bridges the reasoning cluster to the few-shot learning cluster - it's structurally a connector between two different research threads - Common Crawl and BooksCorpus show up as shared infrastructure nodes connecting multiple model lineages
 
-3h ago
+4h ago
 
 ---
 
@@ -65,7 +65,7 @@ Wanted to understand how the core transformer papers actually connect at the con
 
 Robots are getting more advanced every day, and in China, they are now flipping, spinning, and performing kung fu on national television.
 
-🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 6h ago
+🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 7h ago
 
 ---
 
@@ -81,7 +81,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Built Makimus-AI, a free open source app that lets you search your entire image 
 
 Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service. This means tools like Cline, Roo Code, OpenClaw, and anything using the Agent SDK with consumer OAuth tokens are now in violation of Anthropic's Terms of Service. Developers are told to use API key authentication only. Original discussion: https://www.reddit.com/r/ClaudeAI/comments/1r8t6mn/
 
-14h ago
+15h ago
 
 ---
 
@@ -97,7 +97,7 @@ Anthropic updated their Claude Code Docs legal compliance page to explicitly ban
 
 Seedance 2.0 API just went live, and I gave it a quick real-world test. It supports API, Skills, and MCP, and batch jobs are straightforward to submit. From integration to first successful run took me about a minute, and new users can test for free. If you’re producing video assets at scale, this may be useful: https://xskill.ai/#/?ref=S2VIIAQR
 
-9h ago
+10h ago
 
 ---
 
@@ -113,7 +113,7 @@ Seedance 2.0 API just went live, and I gave it a quick real-world test. It suppo
 
 "Machine learning can be used to fully reconstruct particle collisions at the LHC [Large Hadron Collider]. This new approach can reconstruct collisions more quickly and precisely than traditional methods, helping physicists better understand LHC data. [...] Each proton–proton collision at the LHC sprays out a complex pattern of particles that must be carefully reconstructed to allow physicists to study what really happened. For more than a decade, CMS has used a particle-flow (PF) algorithm, which combines information from the experiment's different detectors, to identify each particle produced in a collision. Although this method works remarkably well, it relies on a long chain of hand-crafted rules designed by physicists. The new CMS machine-learning-based particle-flow (MLPF) algorithm approaches the task fundamentally differently, replacing much of the rigid hand-crafted logic with a single model trained directly on simulated collisions. Instead of being told how to reconstruct particles, the algorithm learns how particles look in the detectors, like how humans learn to recognize faces without memorizing explicit rules. When benchmarked using data mimicking that from the current LHC run, the performance of the new machine-learning algorithm matched that of the traditional algorithm and, in some cases, even exceeded it. For example, when tested on simulated events in which top quarks were created, the algorithm improved the precision with which sprays of particles—known as jets—were reconstructed by 10%–20% in key particle momentum ranges. The new algorithm also allows a collision to be fully reconstructed far more quickly than before, because it can run efficiently on modern electronic chips known as graphics processing units (GPUs). Traditional algorithms typically need to run on central processing units (CPUs), which are often slower than GPUs for such tasks."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 19h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 20h ago
 
 ---
 
@@ -125,7 +125,7 @@ Seedance 2.0 API just went live, and I gave it a quick real-world test. It suppo
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-blog.google • 6h ago
+blog.google • 7h ago
 
 ---
 
@@ -133,13 +133,13 @@ blog.google • 6h ago
 
 The company says it has addressed the issue and it "did not provide anyone access to information they weren't already authorised to see".
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
 **[Scoop: Nvidia-backed Emerald AI raising $50M+ to cut data center energy demand](https://www.axios.com/pro/climate-deals/2026/02/19/emerald-ai-varun-sivaram-nvidia-data-center-energy)**
 
-Axios • 48m ago
+Axios • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 48m ago
 
 Amazon is spending $200 billion on AI data centers this year, and this company could receive a good chunk of it.
 
-Yahoo Finance • 43m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Yahoo Finance • 43m ago
 
 New reports show youth experiences with AI vary widely amid opportunities to make these tools safer and more helpful for those seeking mental health support.
 
-KOMO • 49m ago
+KOMO • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ KOMO • 49m ago
 
 Bill Gates has pulled out of delivering his keynote address at an AI summit in India Thursday, his foundation said, as the billionaire faces scrutiny over his ties to late convicted sex offender Jeffrey Epstein.
 
-CNN • 17h ago
+CNN • 18h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 17h ago
 
 The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -179,7 +179,7 @@ BBC • 14h ago
 
 The daughter of Bill and Melinda Gates is carrying the tech torch.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 8h ago
 
 The shuffle underscores the rivalry between the two retailers, particularly as Walmart expands its advertising and third-party marketplace businesses.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -222,7 +222,7 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 455 • 💬 263 • 4h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 455 • 💬 263 • 5h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
@@ -256,7 +256,7 @@ fragments 18 Feb 2026
 
 Artificial intelligence promises to reshape economies worldwide, but firm-level evidence on its effects in Europe remains scarce. This column uses survey data to examine how AI adoption affects productivity and employment across more than 12,000 European firms. The authors find that AI adoption increases labour productivity levels by 4% on average in the EU, with no evidence of reduced employment in the short run. The productivity benefits, however, are unevenly distributed. Medium and large firms, as well as firms that have the capacity to integrate AI through investments in intangible assets and human capital, experience substantially stronger productivity gains.
 
-⬆️ 161 • 💬 128 • 22h ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
+⬆️ 161 • 💬 128 • 23h ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
 
 ---
 
@@ -270,7 +270,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.
 
-⬆️ 121 • 💬 44 • 23h ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
+⬆️ 121 • 💬 44 • 1d ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
 
 ---
 
@@ -284,83 +284,23 @@ Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solv
 
 ## YouTube Videos: "ai"
 
-**[“Only a Small Number of Years” — Anthropic CEO Says AI Will Surpass Humans Soon | AQ1B](https://www.youtube.com/watch?v=N08tjtx-oAc)**
+**[9 AI Skills You MUST Have to Get Ahead of 99% of People](https://www.youtube.com/watch?v=BuwPnrMmhzQ)**
 
-At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelligence could surpass most human cognitive abilities ...
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n7 Are you building an AI software ...
 
-📺 DRM News
+📺 Dan Martell
 
-👁️ 23K • 👍 315 • 💬 156 • ⏱️ 4:56 • 16h ago
-
----
-
-**[“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS](https://www.youtube.com/watch?v=W-jdh08zEGM)**
-
-Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
-
-📺 Valuetainment
-
-👁️ 250K • 👍 5K • 💬 1K • ⏱️ 33:49 • 1d ago
+👁️ 22K • 👍 2K • 💬 64 • ⏱️ 19:58 • 9h ago
 
 ---
 
-**[OpenClaw: Are AI Agents Useful? Wait for the Shocking Answer! (14:01)](https://www.youtube.com/watch?v=CreaIkyZAd4)**
+**[I&#39;m Sick Of This AI SH*T](https://www.youtube.com/watch?v=7XGct4rbYfI)**
 
-Intro 00:00 My Openclaw Setup 1:45 Basics of How an AI Agent Works 4:45 What Do We Use it For 12:24 Now Let's Get Our Mind ...
+In this episode I dive into the new wave of AI music released on music streaming platforms, when are they going to do something ...
 
-📺 Rob Braxman Tech
+📺 Rick Beato
 
-👁️ 38K • 👍 3K • 💬 487 • ⏱️ 22:26 • 1d ago
-
----
-
-**[AI Isn&#39;t as Powerful as We Think | Hannah Fry](https://www.youtube.com/watch?v=iitq4Zrphdk)**
-
-For mathematician Hannah Fry, the definition of artificial general intelligence (AGI) is somewhat hazy. But, she says, if we're taking ...
-
-📺 New Scientist
-
-👁️ 57K • 👍 3K • 💬 685 • ⏱️ 26:45 • 1d ago
-
----
-
-**[&#39;This isn&#39;t right&#39;: impact of AI data centers on residents and their utility bills](https://www.youtube.com/watch?v=fqQsExCEEZc)**
-
-ABC News' Elizabeth Schulze investigates the impact of AI data centers backed by the U.S., as they bring the promise of new jobs, ...
-
-📺 ABC News
-
-👁️ 54K • 👍 1K • 💬 634 • ⏱️ 7:36 • 19h ago
-
----
-
-**[Replacing Humans With AI Completely BACKFIRED](https://www.youtube.com/watch?v=TYe9DSPuCaE)**
-
-Replacing Workers With AI Has Been A Complete Disaster. Get Exclusive Access To The Community Discord: ...
-
-📺 Damon Cassidy
-
-👁️ 442K • 👍 23K • 💬 3K • ⏱️ 21:15 • 1d ago
-
----
-
-**[She Made Six Figures Spamming AI Books (NYT Exposé)](https://www.youtube.com/watch?v=NoGduh6HdFk)**
-
-FlexiSpot Valentine's Specials are officially live! Enjoy discounts of up to 65% OFF! Use my code “DG20" to get an extra $20 OFF ...
-
-📺 Daniel Greene
-
-👁️ 43K • 👍 3K • 💬 845 • ⏱️ 33:19 • 1d ago
-
----
-
-**[AI is Eating Itself.](https://www.youtube.com/watch?v=3NAYhyuVQk0)**
-
-GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED, a better and more creator friendly ...
-
-📺 Art Chad
-
-👁️ 144K • 👍 14K • 💬 1K • ⏱️ 24:36 • 1d ago
+👁️ 100K • 👍 14K • 💬 3K • ⏱️ 6:14 • 3h ago
 
 ---
 
@@ -370,17 +310,77 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 132K • 👍 8K • 💬 3K • ⏱️ 28:51 • 23h ago
+👁️ 144K • 👍 9K • 💬 3K • ⏱️ 28:51 • 1d ago
 
 ---
 
-**[THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST - Official Trailer [HD] - Only In Theaters March 27](https://www.youtube.com/watch?v=xkPbV3IRe4Y)**
+**[These 8 AI Tools Will Save You 1000 Hours in 2026](https://www.youtube.com/watch?v=6sm6C_ra2ek)**
 
-"The most urgent film of our time.” THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST is only in theaters March 27. Watch ...
+Start building with Zapier today: https://bit.ly/3MJrLy6 Download the Top 100 AI Tools PDF: https://bit.ly/fp-top-100 More from ...
 
-📺 Focus Features
+📺 Futurepedia
 
-👁️ 4.3M • 👍 2K • 💬 205 • ⏱️ 2:43 • 2d ago
+👁️ 3K • 👍 279 • 💬 19 • ⏱️ 15:53 • 4h ago
+
+---
+
+**[“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS](https://www.youtube.com/watch?v=W-jdh08zEGM)**
+
+Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
+
+📺 Valuetainment
+
+👁️ 266K • 👍 5K • 💬 2K • ⏱️ 33:49 • 1d ago
+
+---
+
+**[“Only a Small Number of Years” — Anthropic CEO Says AI Will Surpass Humans Soon | AQ1B](https://www.youtube.com/watch?v=N08tjtx-oAc)**
+
+At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelligence could surpass most human cognitive abilities ...
+
+📺 DRM News
+
+👁️ 25K • 👍 342 • 💬 169 • ⏱️ 4:56 • 17h ago
+
+---
+
+**[She Made Six Figures Spamming AI Books (NYT Exposé)](https://www.youtube.com/watch?v=NoGduh6HdFk)**
+
+FlexiSpot Valentine's Specials are officially live! Enjoy discounts of up to 65% OFF! Use my code “DG20" to get an extra $20 OFF ...
+
+📺 Daniel Greene
+
+👁️ 45K • 👍 3K • 💬 869 • ⏱️ 33:19 • 1d ago
+
+---
+
+**[AI is Eating Itself.](https://www.youtube.com/watch?v=3NAYhyuVQk0)**
+
+GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED, a better and more creator friendly ...
+
+📺 Art Chad
+
+👁️ 155K • 👍 14K • 💬 1K • ⏱️ 24:36 • 1d ago
+
+---
+
+**[Replacing Humans With AI Completely BACKFIRED](https://www.youtube.com/watch?v=TYe9DSPuCaE)**
+
+Replacing Workers With AI Has Been A Complete Disaster. Get Exclusive Access To The Community Discord: ...
+
+📺 Damon Cassidy
+
+👁️ 468K • 👍 24K • 💬 3K • ⏱️ 21:15 • 1d ago
+
+---
+
+**[AI Isn&#39;t as Powerful as We Think | Hannah Fry](https://www.youtube.com/watch?v=iitq4Zrphdk)**
+
+For mathematician Hannah Fry, the definition of artificial general intelligence (AGI) is somewhat hazy. But, she says, if we're taking ...
+
+📺 New Scientist
+
+👁️ 59K • 👍 3K • 💬 701 • ⏱️ 26:45 • 1d ago
 
 ---
 
@@ -396,7 +396,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 89,919 • ❤️ 784 • 3d ago
+⬇️ 89,919 • ❤️ 789 • 3d ago
 
 ---
 
@@ -408,7 +408,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 79,343 • ❤️ 728 • 3d ago
+⬇️ 79,343 • ❤️ 731 • 3d ago
 
 ---
 
@@ -420,7 +420,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 171,928 • ❤️ 1,384 • 6d ago
+⬇️ 171,928 • ❤️ 1,388 • 6d ago
 
 ---
 
@@ -432,7 +432,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 77,344 • ❤️ 596 • 20h ago
+⬇️ 77,344 • ❤️ 600 • 21h ago
 
 ---
 
@@ -444,7 +444,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 479,308 • ❤️ 2,059 • 4d ago
+⬇️ 479,308 • ❤️ 2,060 • 4d ago
 
 ---
 
@@ -456,7 +456,7 @@ MOSS-TTS Family is a suite of high-fidelity, expressive speech and sound generat
 
 `text-to-speech` `8.5B`
 
-⬇️ 28,182 • ❤️ 273 • 6d ago
+⬇️ 28,182 • ❤️ 274 • 6d ago
 
 ---
 
@@ -468,7 +468,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 1,298 • ❤️ 206 • 5d ago
+⬇️ 1,298 • ❤️ 207 • 5d ago
 
 ---
 
@@ -480,19 +480,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 955,074 • ❤️ 2,262 • 14d ago
-
----
-
-**[Ring-2.5-1T](https://huggingface.co/inclusionAI/Ring-2.5-1T)**
-
-*inclusionAI*
-
-Ring-2.5-1T is an open-source trillion-parameter text generation model featuring a hybrid linear attention architecture for enhanced efficiency and reasoning depth. It excels at long-horizon task execution and complex problem-solving, achieving state-of-the-art performance in areas like mathematics and agentic programming.
-
-`text-generation` `1012.5B`
-
-⬇️ 4,468 • ❤️ 209 • 4d ago
+⬇️ 955,074 • ❤️ 2,265 • 14d ago
 
 ---
 
@@ -504,7 +492,19 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 831,695 • ❤️ 1,090 • 21d ago
+⬇️ 831,695 • ❤️ 1,093 • 21d ago
+
+---
+
+**[Ring-2.5-1T](https://huggingface.co/inclusionAI/Ring-2.5-1T)**
+
+*inclusionAI*
+
+Ring-2.5-1T is an open-source trillion-parameter text generation model featuring a hybrid linear attention architecture for enhanced efficiency and reasoning depth. It excels at long-horizon task execution and complex problem-solving, achieving state-of-the-art performance in areas like mathematics and agentic programming.
+
+`text-generation` `1012.5B`
+
+⬇️ 4,468 • ❤️ 210 • 4d ago
 
 ---
 
@@ -544,7 +544,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
 
-▲ 37 • 💬 3 • ⭐ 227 • 4d ago
+▲ 38 • 💬 3 • ⭐ 227 • 4d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
@@ -610,7 +610,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 67 • 💬 1 • ⭐ 8,002 • 28d ago
+▲ 67 • 💬 1 • ⭐ 8,002 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 14.9k • 🔱 1.6k • 2h ago
+⭐ 15.0k • 🔱 1.6k • 46m ago
 
 ---
 
@@ -668,17 +668,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 5.7k • 🔱 601 • 9d ago
-
----
-
-**[dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)**
-
-PaperBanana: Automating Academic Illustration For AI Scientists
-
-`JavaScript`
-
-⭐ 3.7k • 🔱 174 • 16d ago
+⭐ 5.9k • 🔱 623 • 9d ago
 
 ---
 
@@ -688,7 +678,17 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 3.7k • 🔱 424 • 7h ago
+⭐ 3.8k • 🔱 435 • 8h ago
+
+---
+
+**[dwzhu-pku/PaperBanana](https://github.com/dwzhu-pku/PaperBanana)**
+
+PaperBanana: Automating Academic Illustration For AI Scientists
+
+`JavaScript`
+
+⭐ 3.7k • 🔱 174 • 17d ago
 
 ---
 
@@ -698,7 +698,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.0k • 🔱 298 • 5h ago
+⭐ 3.0k • 🔱 300 • 6h ago
 
 ---
 
@@ -708,7 +708,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.6k • 🔱 327 • 5h ago
+⭐ 2.6k • 🔱 328 • 6h ago
 
 ---
 
@@ -718,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 175 • 2h ago
+⭐ 2.5k • 🔱 175 • 8m ago
 
 ---
 

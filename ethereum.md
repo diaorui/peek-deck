@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-19T22:33:59.289446+00:00'
+updated: '2026-02-19T23:31:25.782207+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 22:33 UTC  
+**Last Updated:** February 19, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $233.95B
+**Market Cap:** $235.12B
 Rank #2
 
 **Circulating Supply:** 120,692,406 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.8%
+-60.6%
 
 **All-Time Low:** $0.43
-+448041.8%
++449845.6%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 New 13F filings show major financial institutions sharply increased positions in BitMine, a public company widely known as the largest corporate holder of Ethereum. Morgan Stanley now holds 12.2M shares (+26%), ARK 9.5M (+27%), BlackRock 9M (+166%), and Goldman Sachs 5.2M (+588%). Vanguard, Bank of America, Schwab, RBC, Citi and BNY Mellon also expanded exposure. In total, 457 institutional holders now control about 136.7M BitMine shares (~$2.86B). This suggests institutions are increasingly accessing ETH exposure via equity structures rather than direct custody — similar to how MicroStrategy functions as a BTC proxy. Full breakdown: https://btcusa.com/wall-street-giants-boost-bitmine-holdings-as-institutional-ethereum-exposure-expands/ Curious how people here see this trend — does equity-based ETH exposure accelerate or delay direct institutional ETH ownership?
 
-6h ago
+7h ago
 
 ---
 
@@ -80,7 +80,7 @@ New 13F filings show major financial institutions sharply increased positions in
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 There is an important synergy between FOCIL and AA (EIP-8141, which is based on 7701): 8141 makes not just smart accounts (including multisig, quantum-resistant signatures, key changes, gas sponsorship) first-class citizens, it also can do the same for privacy protocols (either indirectly via paymaster, or if we add 2D nonces, directly as a multi-tenant account). "First-class citizen" means that operations sent from that account can be included directly onchain as transactions, with no wrappers. FOCIL enables censorship-resistant rapid inclusion of any transaction. Hence, with FOCIL and 8141 together, anything, including smart wallet txs, gas sponsored txs, and even privacy protocol txs, can be included onchain through one of 17 different actors (the proposer or the includers) that are all chosen randomly in each slot. This gives us guaranteed rapid inclusion, meaning almost certainly within 1-2 slots, of any such tx, even in an adversarial environment. In this iteration, the FOCILs are 8 kB each, so they are very small in size. However, there is a natural future extension path to making them much larger, so that the majority of transactions to a block could, if needed, come through FOCILs. Such a design would have many of the properties of multiple concurrent proposer (MCP) designs, with the key difference being that FOCILs do not try to control the MEV-relevant "last look" role - that's still auctioned off with ePBS. The behavior of the last look role in "full MCP" depends strongly on the specifics of the design. The FOCIL design ensures that even if literally 100% of all slots get sold off via proposer-builder separation to a hostile actor that refuses to connect to public mempools, discriminates against certain applications, or is otherwise abusive, all transactions can still get quickly included. It's not eliminating the centralization of the proposer role, but it is heavily disempowering it. With EIP-8141 (AA), transactions from smart wallets, privacy protocols, etc, could be sent through a public mempool, and directly received by a FOCIL includer, no wrappers, "public broadcasters", or other intermediaries required. Ethereum is going hard.
 
-3h ago
+4h ago
 
 ---
 
@@ -96,13 +96,13 @@ There is an important synergy between FOCIL and AA (EIP-8141, which is based on 
 
 I've been going down a rabbit hole on early Ethereum contract archaeology and found something I thought was worth sharing. MistCoin was deployed on November 3, 2015 — just a few months after Ethereum's mainnet launch. It implements what we'd now recognize as the ERC-20 interface (transfer, balanceOf, totalSupply, approve/transferFrom), but ERC-20 as a formal standard didn't exist until Fabian Vogelsteller's EIP in late 2015, and wasn't widely adopted until 2017. A few things that stood out to me looking at the contract: **Solidity 0.1.6.** The syntax looks almost alien compared to modern Solidity. No `pragma`, no `view`/`pure`, no SafeMath. It's like looking at a fossil record of the language. **Fixed supply of 1,000,000 tokens.** No mint function, no owner privileges, no upgradability. The entire supply was assigned in the constructor and that was it. Immutable from day one. **The contract structure itself became the blueprint.** If you compare MistCoin's layout to the ERC-20 standard that was formalized later, the resemblance is striking. The pattern of mapping balances, emitting Transfer events, and the approve/transferFrom flow — it's all there. What I find interesting isn't the token itself, but what it tells us about how Ethereum's developer culture evolved. In 2015, people were hand-rolling token contracts from scratch with no standards, no templates, no OpenZeppelin. The fact that multiple developers independently converged on nearly identical patterns is what eventually made ERC-20 possible as a standard — it codified what was already emerging organically. The contract is still on-chain, obviously. Blockchain archaeology is one of those things that reminds you everything on Ethereum is permanent. The earliest experiments are still sitting there, readable and verifiable. More details on the history: [mistcoineth.com](https://mistcoineth.com) Has anyone else found interesting pre-standard contracts from 2015? I'd love to know what other early experiments are still sitting on mainnet.
 
-5h ago
+6h ago
 
 ---
 
 **[Les scams cryptos : Soyez prudents](https://www.reddit.com/r/ethereum/comments/1r9916p/les_scams_cryptos_soyez_prudents/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -110,7 +110,7 @@ I've been going down a rabbit hole on early Ethereum contract archaeology and fo
 
 Your guide to Ethereum's upcoming gas repricing changes
 
-🔗 [gasrepricing.com](https://gasrepricing.com/) • 18h ago
+🔗 [gasrepricing.com](https://gasrepricing.com/) • 19h ago
 
 ---
 
@@ -118,7 +118,7 @@ Your guide to Ethereum's upcoming gas repricing changes
 
 I was blown away by the recent interviews where Davide Crapis explained the exciting potential of Ethereum and AI agents. This feels like one of the biggest narrative opportunities the ecosystem has had in years. Precisely because the stakes are so high, I’d actually love to see EF lean into a very classic split of responsibilities: let the deepest technical people focus on building, coordination, and experimentation, and have a dedicated public‑facing person whose main job is interviews, conference talks, and selling the vision to AI founders and researchers -- similar to how Steve Wozniak and Steve Jobs complemented each other at Apple I understand the urge of putting Davide out there, he's good looking, charming, technically brilliant, and filled with enthusiasm. However in a lot of successful orgs, the people doing the most important technical work are not the ones doing the most public communication, not because they’re bad at it, but because their highest leverage is elsewhere. A specialized “storyteller for AI/agents,” backed by folks like Davide on the technical side, feels like the kind of structure that could really help Ethereum capture this moment.
 
-19h ago
+20h ago
 
 ---
 
@@ -126,7 +126,7 @@ I was blown away by the recent interviews where Davide Crapis explained the exci
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/Dad2UonQ9Ag) • 17h ago
+🔗 [youtu.be](https://youtu.be/Dad2UonQ9Ag) • 18h ago
 
 ---
 
@@ -168,7 +168,7 @@ Decrypt • 1d ago
 
 Ethereum is in the midst of its sixth straight down month. The second largest crypto is down nearly 40% in the past month. Max Shannon of Bitwise reckons $1,500 could be on the cards.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -232,43 +232,33 @@ The Block • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Coinbase Moves To ETH!🔥Robinhood vs Coinbase🔥SHOTS FIRED!](https://www.youtube.com/watch?v=jSKfTE-aZBQ)**
+
+Optimism has plunged to a new all-time low after intense selling pressure overwhelmed recent demand. The decline accelerated ...
+
+📺 Paul Barron Network
+
+👁️ 15K • 👍 1K • 💬 105 • ⏱️ 15:12 • 3h ago
+
+---
+
+**[Blackrock Ethereum ETF SUBMITTED (Major Price Reaction)](https://www.youtube.com/watch?v=IDB13BcKlLE)**
+
+Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But the charts aren't as bullish! Will the bulls or ...
+
+📺 Discover Crypto
+
+👁️ 144 • 👍 13 • 💬 1 • ⏱️ 4:54 • 31m ago
+
+---
+
 **[The Next Phase of Ethereum: Prediction from Tom Lee | Ethereum Price 2026](https://www.youtube.com/watch?v=uwpXnuUsoiM)**
 
 My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 65 • 💬 19 • ⏱️ 18:58 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=LCBhYanceJE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 111 • 💬 9 • ⏱️ 4:52 • 7h ago
-
----
-
-**[SUPER INVESTOR JUST SOLD HIS ENTIRE ETHEREUM POSITION](https://www.youtube.com/watch?v=Wsk-n6e2dh0)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 6K • 👍 315 • 💬 33 • ⏱️ 12:25 • 1d ago
-
----
-
-**[BITCOIN AND ETH: IT WILL GET WORSE!!!!](https://www.youtube.com/watch?v=tsEU2bvemCM)**
-
-FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
-
-📺 Ivan on Tech
-
-👁️ 15K • 👍 1K • 💬 90 • ⏱️ 43:48 • 12h ago
+👁️ 3K • 👍 66 • 💬 3 • ⏱️ 18:58 • 1d ago
 
 ---
 
@@ -278,7 +268,47 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 270 • 💬 16 • ⏱️ 21:01 • 7h ago
+👁️ 7K • 👍 331 • 💬 19 • ⏱️ 21:01 • 8h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=LCBhYanceJE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 116 • 💬 9 • ⏱️ 4:52 • 8h ago
+
+---
+
+**[Ethereum Is About To Fix This Huge Privacy Problem #shorts](https://www.youtube.com/watch?v=eYtmkv__ZtI)**
+
+Right now, every time someone sends you ETH, your wallet address is exposed publicly. Anyone can see your full history.
+
+📺 Ivan on Tech
+
+👁️ 520 • 👍 23 • 💬 2 • ⏱️ 0:42 • 3h ago
+
+---
+
+**[BITCOIN AND ETH: IT WILL GET WORSE!!!!](https://www.youtube.com/watch?v=tsEU2bvemCM)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 16K • 👍 1K • 💬 93 • ⏱️ 43:48 • 13h ago
+
+---
+
+**[SUPER INVESTOR JUST SOLD HIS ENTIRE ETHEREUM POSITION](https://www.youtube.com/watch?v=Wsk-n6e2dh0)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 7K • 👍 318 • 💬 34 • ⏱️ 12:25 • 1d ago
 
 ---
 
@@ -288,17 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 263 • 👍 15 • 💬 1 • ⏱️ 5:17 • 12h ago
-
----
-
-**[BITCOIN JUST FAILED: This is Coming Next (Warning)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=aeQFWek7vUA)**
-
-BITCOIN JUST FAILED: This is Coming Next (Warning)!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 269 • 💬 105 • ⏱️ 18:57 • 22h ago
+👁️ 336 • 👍 18 • 💬 1 • ⏱️ 5:17 • 13h ago
 
 ---
 
@@ -308,27 +328,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 567 • 👍 19 • 💬 2 • ⏱️ 4:36 • 1d ago
-
----
-
-**[BMNR Update | The Convergence of AI Agents on Ethereum: Early Signals](https://www.youtube.com/watch?v=ZiTuj6QL-pM)**
-
-BMNR is aggressively accumulating ETH while positioning for something much bigger. On top of becoming the settlement layer ...
-
-📺 The Value Thinker
-
-👁️ 11K • 👍 704 • 💬 81 • ⏱️ 18:56 • 1d ago
-
----
-
-**[Raoul Pal: Don&#39;t SELL Before These EXACT Dates (New 2026 Bitcoin &amp; Ethereum Prediction)](https://www.youtube.com/watch?v=7S8_zqg7o8A)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
-
-📺 Crypto Nutshell
-
-👁️ 19K • 👍 665 • 💬 38 • ⏱️ 21:56 • 1d ago
+👁️ 624 • 👍 19 • 💬 2 • ⏱️ 4:36 • 1d ago
 
 ---
 

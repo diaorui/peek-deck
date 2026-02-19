@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T22:33:59.284221+00:00'
+updated: '2026-02-19T23:31:25.776083+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 22:33 UTC  
+**Last Updated:** February 19, 2026 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1338.03B
+**Market Cap:** $1338.66B
 Rank #1
 
-**Circulating Supply:** 19,991,981 BTC
+**Circulating Supply:** 19,992,043 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -46.9%
 
 **All-Time Low:** $67.81
-+98645.0%
++98617.0%
 
 ---
 
@@ -79,19 +79,19 @@ Rank #1
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-1h ago
+2h ago
 
 ---
 
 **[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -99,7 +99,7 @@ Rank #1
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-6h ago
+7h ago
 
 ---
 
@@ -107,7 +107,7 @@ Full article with explanations on the data here https://x.com/sdwouters/status/2
 
 The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 9h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 10h ago
 
 ---
 
@@ -121,7 +121,7 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-7h ago
+8h ago
 
 ---
 
@@ -129,7 +129,7 @@ Did anyone else actually read the FOMC minutes or did we all just watch the gree
 
 SYNOPSIS British submarine coordinates appear on a public ledger disguised as transactions. Broadcast globally. Every ten minutes. Western intelligence services descend into chaos. Salvation lies with three strangers: a computer scientist, a civil servant and an army veteran.
 
-10h ago
+11h ago
 
 ---
 
@@ -145,7 +145,7 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-16h ago
+17h ago
 
 ---
 
@@ -163,13 +163,13 @@ Bloomberg.com • 1d ago
 
 The Bloomberg strategist revised his outlook after analysts challenged his recession-driven forecast, calling the earlier $10,000 target alarmist and potentially harmful to investors.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
 **[The Uneven Toll of Crypto’s Latest Slide Falls on Retail Investors](https://www.bloomberg.com/news/newsletters/2026-02-19/the-uneven-toll-of-crypto-s-latest-slide-falls-on-retail-investors)**
 
-Bloomberg.com • 33m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 33m ago
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 2h ago
 
 Bitcoin’s Lightning Network topped $1.17 billion in November monthly volume across 5.22 million transactions, according to River Financial, which says the milestone reflects growing adoption despite flat price action.
 
-Bitcoin Magazine • 2h ago
+Bitcoin Magazine • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Bitcoin Magazine • 2h ago
 
 South Korean prosecutors have recovered the $21 million worth of bitcoin that was stolen from their custody last year.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -201,13 +201,13 @@ The Block • 12h ago
 
 Sen. Warren is pressing the Federal Reserve and the US Treasury.
 
-thestreet.com • 6h ago
+thestreet.com • 7h ago
 
 ---
 
 **[New way to stack sats: hold USDC, earn Bitcoin. Sometimes the smaller features are the coolest ones. Coinbase One members can choose to receive their weekly rewards in either BTC or USDC, rolling out now.](https://x.com/brian_armstrong/status/2024517835167326609)**
 
-x.com • 6h ago
+x.com • 7h ago
 
 ---
 
@@ -215,7 +215,7 @@ x.com • 6h ago
 
 The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
 
-The Globe and Mail • 11h ago
+The Globe and Mail • 12h ago
 
 ---
 
@@ -279,7 +279,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 6h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 7h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -303,7 +303,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 1 • 💬 1 • 2h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
+⬆️ 1 • 💬 1 • 3h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
 
 ---
 
@@ -317,17 +317,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 46K • 👍 2K • 💬 101 • ⏱️ 28:28 • 1d ago
-
----
-
-**[A Massive Entity Is Quietly Accumulating Bitcoin! Do They Know Something? | Jeff Park](https://www.youtube.com/watch?v=G195SdkkNS0)**
-
-Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail appears to point toward a Hong Kong–based entity ...
-
-📺 The Wolf Of All Streets
-
-👁️ 15K • 👍 868 • 💬 245 • ⏱️ 36:44 • 5h ago
+👁️ 49K • 👍 2K • 💬 101 • ⏱️ 28:28 • 1d ago
 
 ---
 
@@ -337,7 +327,17 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 239 • ⏱️ 46:22 • 7h ago
+👁️ 21K • 👍 1K • 💬 258 • ⏱️ 46:22 • 8h ago
+
+---
+
+**[A Massive Entity Is Quietly Accumulating Bitcoin! Do They Know Something? | Jeff Park](https://www.youtube.com/watch?v=G195SdkkNS0)**
+
+Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail appears to point toward a Hong Kong–based entity ...
+
+📺 The Wolf Of All Streets
+
+👁️ 19K • 👍 959 • 💬 276 • ⏱️ 36:44 • 6h ago
 
 ---
 
@@ -347,37 +347,27 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
+👁️ 59K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
 
 ---
 
-**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
+**[$1 Million Per Bitcoin by 2030?!😨😨](https://www.youtube.com/watch?v=xnvmLfzNCeA)**
 
-Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
 
-📺 Altcoin Daily
+📺 Crypto Cam
 
-👁️ 109K • 👍 4K • 💬 585 • ⏱️ 10:49 • 2d ago
-
----
-
-**[Bitcoin Live Trading: Range Getting Tighter Before Massive Move? EP1913](https://www.youtube.com/watch?v=iCaMnA5Gq8c)**
-
-Welcome to the Crypto Lifer Channel! JOIN THE TRADING GROUP ➡️ https://www.cryptolifer.com Pionex: Best Bot Platform ...
-
-📺 Crypto Lifer
-
-👁️ 6K • 👍 520 • 💬 1 • ⏱️ 2:09:43 • 5h ago
+👁️ 18K • 👍 446 • 💬 34 • ⏱️ 0:30 • 1d ago
 
 ---
 
-**[This Surprised Me (Bitcoin Update)](https://www.youtube.com/watch?v=aGnsO6O2zu4)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=lOy2gPH6OTs)**
 
-Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 Aaron Bennett
+📺 Haley Costomiris
 
-👁️ 9K • 👍 515 • 💬 239 • ⏱️ 8:53 • 15h ago
+👁️ 5K • 👍 3K • 1h ago
 
 ---
 
@@ -387,27 +377,37 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 14K • 👍 416 • 💬 19 • ⏱️ 1:08 • 1d ago
+👁️ 15K • 👍 427 • 💬 19 • ⏱️ 1:08 • 1d ago
 
 ---
 
-**[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
+**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
 
-Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
+Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
 
-📺 Mark Moss
+📺 Anthony Pompliano
 
-👁️ 91K • 👍 4K • 💬 484 • ⏱️ 20:14 • 2d ago
+👁️ 59K • 👍 2K • 💬 33 • ⏱️ 20:57 • 2d ago
 
 ---
 
-**[Bitcoin is in a ‘crypto winter,’ says Strategy founder](https://www.youtube.com/watch?v=H-LEbgIojgA)**
+**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
 
-Strategy founder and executive chairman Michael Saylor discusses the current 'crypto winter' for Bitcoin, financial stability and the ...
+Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
 
-📺 Fox Business
+📺 Altcoin Daily
 
-👁️ 81K • 👍 1K • 💬 7K • ⏱️ 11:33 • 1d ago
+👁️ 110K • 👍 4K • 💬 585 • ⏱️ 10:49 • 2d ago
+
+---
+
+**[This Surprised Me (Bitcoin Update)](https://www.youtube.com/watch?v=aGnsO6O2zu4)**
+
+Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
+
+📺 Aaron Bennett
+
+👁️ 9K • 👍 543 • 💬 243 • ⏱️ 8:53 • 16h ago
 
 ---
 
