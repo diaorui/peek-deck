@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-19T18:53:20.227273+00:00'
+updated: '2026-02-19T19:39:43.525602+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 19, 2026 at 18:53 UTC  
+**Last Updated:** February 19, 2026 at 19:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding news, & Sam Altman funding updates on the $100B raise.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 6h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 7h ago
 
 ---
 
@@ -65,7 +65,7 @@ Anthropic updated their Claude Code Docs legal compliance page to explicitly ban
 
 Seedance 2.0 API just went live, and I gave it a quick real-world test. It supports API, Skills, and MCP, and batch jobs are straightforward to submit. From integration to first successful run took me about a minute, and new users can test for free. If you’re producing video assets at scale, this may be useful: https://xskill.ai/#/?ref=S2VIIAQR
 
-6h ago
+7h ago
 
 ---
 
@@ -73,7 +73,7 @@ Seedance 2.0 API just went live, and I gave it a quick real-world test. It suppo
 
 Between 0.1.0-alpha-11 and 0.1.0-alpha-12, we shipped: Long-form ASR with automatic chunking + overlap stitching Faster ASR streaming and less unnecessary transcoding on uploads MLX Parakeet support New 4-bit model variants (Parakeet, LFM2.5, Qwen3 chat, forced aligner) TTS improvements: model-aware output limits + adaptive timeouts Cleaner model-management UI (My Models + Route Model modal) Docs: https://izwiai.com If you’re testing Izwi, I’d love feedback on speed and quality.
 
-🔗 [GitHub](https://github.com/agentem-ai/izwi) • 16m ago
+🔗 [GitHub](https://github.com/agentem-ai/izwi) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Between 0.1.0-alpha-11 and 0.1.0-alpha-12, we shipped: Long-form ASR with automa
 
 Wanted to understand how the core transformer papers actually connect at the concept level - not just "Paper B cites Paper A" but what specific methods, systems, and ideas flow between them. I ran 12 foundational papers (Attention Is All You Need, BERT, GPT-2/3, Scaling Laws, ViT, LoRA, Chain-of-Thought, FlashAttention, InstructGPT, LLaMA, DPO) through https://github.com/juanceresa/sift-kg (open-source CLI) - point it at a folder of documents + any LLM, get a knowledge graph. 435-entity knowledge graph with 593 relationships for ~$0.72 in API calls (gpt 4o-mini). Graph: https://juanceresa.github.io/sift-kg/transformers/graph.html - interactive and runs in browser. Some interesting structural patterns: - GPT-2 is the most connected node - it's the hub everything flows through. BERT extends it, FlashAttention speeds it up, LoRA compresses it, InstructGPT fine-tunes it with RLHF - The graph splits into 9 natural communities. "Human Feedback and Reinforcement Learning" is the largest (24 entities), which tracks with how much of recent progress is RLHF-shaped - Chain-of-Thought Prompting bridges the reasoning cluster to the few-shot learning cluster - it's structurally a connector between two different research threads - Common Crawl and BooksCorpus show up as shared infrastructure nodes connecting multiple model lineages
 
-18m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Wanted to understand how the core transformer papers actually connect at the con
 
 "By applying new methods of machine learning to quantum chemistry research, Heidelberg University scientists have made significant strides in computational chemistry. They have achieved a major breakthrough toward solving a decades-old dilemma in quantum chemistry: the precise and stable calculation of molecular energies and electron densities with a so-called orbital-free approach, which uses considerably less computational power and therefore permits calculations for very large molecules. [...] How electrons are distributed in a molecule determines its chemical properties—from its stability and reactivity to its biological effect. Reliably calculating this electron distribution and the resulting energy is one of the central functions of quantum chemistry. These calculations form the basis of many applications in which molecules must be specifically understood and designed, such as for new drugs, better batteries, materials for energy conversion, or more efficient catalysts. Yet such calculations are computationally intensive and quickly become very elaborate. The larger the molecule becomes or the more variants that need checking, the sooner established computing processes reach their limits. The "Quantum Chemistry without Orbitals" project is positioned here at the interface of chemistry, physics, and AI research. In quantum chemistry, molecules are frequently described using density functional theory, which allows for the fundamental prediction of chemical molecular properties without having to calculate the quantum mechanical wave function. The electron density is used as the main quantity instead, a simplification that finally makes computations practicable. This orbital-free approach promises especially efficient calculations but until now was considered barely useful, since small deviations in the electron density led to unstable or "non-physical" results. With the aid of machine learning, the Heidelberg method finally solves this precision and stability problem for many different organic molecules. The new process called STRUCTURES25 is based on a specifically developed neural network that learns the relationship between electron density and energy directly from precise reference calculations, capturing the chemical environment of each individual atom in a mathematically detailed representation. A unique training concept was pivotal: The model was trained not only with converged electron densities, but also with many variants surrounding the correct solution, generated by targeted, controlled changes in the underlying reference calculations. This computing process is therefore able to reliably find a physically meaningful solution for molecular energies and electron densities even in the case of small deviations. It remains stable without "getting lost" in the calculation, the Heidelberg researchers emphasize. In tests on a large and diverse collection of organic molecules, STRUCTURES25 achieved a precision that can compete with established reference calculations, for the first time demonstrating a stable convergence using an orbital-free approach. The performance of the method was demonstrated not only on small examples, but on considerably larger "drug-like" molecules as well. Initial runtime comparisons prove that the computing process can scale better with growing molecule size and hence increase the speed of the calculation. Calculations formerly considered too elaborate are now within reach."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 19m ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 1h ago
 
 ---
 
@@ -105,7 +105,7 @@ Wanted to understand how the core transformer papers actually connect at the con
 
 EVMbench is a new open-source benchmark designed to test AI agents on practical smart contract security tasks. The benchmark was developed by OpenAI and Paradigm, and it focuses on real-world vulnerability patterns drawn from audited codebases and contest reports.
 
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/19/evmbench-open-source-benchmark-ai-agents/) • 6h ago
+🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/19/evmbench-open-source-benchmark-ai-agents/) • 7h ago
 
 ---
 
@@ -113,7 +113,7 @@ EVMbench is a new open-source benchmark designed to test AI agents on practical 
 
 Robots are getting more advanced every day, and in China, they are now flipping, spinning, and performing kung fu on national television.
 
-🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 2h ago
+🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 3h ago
 
 ---
 
@@ -125,13 +125,13 @@ Robots are getting more advanced every day, and in China, they are now flipping,
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-blog.google • 2h ago
+blog.google • 3h ago
 
 ---
 
 **[Defense Department and Anthropic Square Off in Dispute Over A.I. Safety](https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 19h ago
 
 The Investing Club holds its "Morning Meeting" every weekday at 10:20 a.m. ET.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 1h ago
 
 ﻿In a room full of aspiring young actors and filmmakers, Matthew McConaughey and Timothée Chalamet weigh in on the impact AI is having in Hollywood and provide advice on how to use the tool as a competitive advantage. The full conversation between the two award-winning actors airs Saturday, February 21 at 7p ET/PT on CNN and streams on the CNN app.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNN • 1h ago
 
 "Consciousness is under siege," says author Michael Pollan. His new book, A World Appears, explores consciousness on both a personal and technological level.
 
-NPR • 1h ago
+NPR • 2h ago
 
 ---
 
@@ -163,7 +163,7 @@ NPR • 1h ago
 
 Bill Gates has pulled out of delivering his keynote address at an AI summit in India Thursday, his foundation said, as the billionaire faces scrutiny over his ties to late convicted sex offender Jeffrey Epstein.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 13h ago
 
 The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
 
-BBC • 10h ago
+BBC • 11h ago
 
 ---
 
@@ -179,7 +179,7 @@ BBC • 10h ago
 
 The move comes amid continued scrutiny of Gates' past ties to convicted sex offender Jeffrey Epstein although that was not given as a reason.
 
-The Seattle Times • 5h ago
+The Seattle Times • 6h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Guardian • 2h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 22h ago
+Anthropic • 23h ago
 
 ---
 
@@ -242,7 +242,7 @@ opinion: The subtractive bias we're ignoring
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 202 • 💬 110 • 41m ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 202 • 💬 110 • 1h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
@@ -258,7 +258,7 @@ fragments 18 Feb 2026
 
 Artificial intelligence promises to reshape economies worldwide, but firm-level evidence on its effects in Europe remains scarce. This column uses survey data to examine how AI adoption affects productivity and employment across more than 12,000 European firms. The authors find that AI adoption increases labour productivity levels by 4% on average in the EU, with no evidence of reduced employment in the short run. The productivity benefits, however, are unevenly distributed. Medium and large firms, as well as firms that have the capacity to integrate AI through investments in intangible assets and human capital, experience substantially stronger productivity gains.
 
-⬆️ 156 • 💬 122 • 18h ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
+⬆️ 156 • 💬 122 • 19h ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
 
 ---
 
@@ -270,7 +270,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 **[An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://news.ycombinator.com/item?id=47051956)**
 
-⬆️ 118 • 💬 80 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
+⬆️ 118 • 💬 80 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
 
 ---
 
@@ -278,7 +278,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.
 
-⬆️ 118 • 💬 39 • 20h ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
+⬆️ 118 • 💬 39 • 21h ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
 
 ---
 
@@ -292,7 +292,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 118K • 👍 8K • 💬 3K • ⏱️ 28:51 • 19h ago
+👁️ 118K • 👍 8K • 💬 3K • ⏱️ 28:51 • 20h ago
 
 ---
 
@@ -302,7 +302,7 @@ Elon Musk says saving for retirement may be pointless in the AI age. The panel p
 
 📺 Valuetainment
 
-👁️ 231K • 👍 4K • 💬 2K • ⏱️ 33:49 • 22h ago
+👁️ 231K • 👍 4K • 💬 2K • ⏱️ 33:49 • 23h ago
 
 ---
 
@@ -332,7 +332,7 @@ At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelli
 
 📺 DRM News
 
-👁️ 20K • 👍 290 • 💬 149 • ⏱️ 4:56 • 12h ago
+👁️ 20K • 👍 290 • 💬 149 • ⏱️ 4:56 • 13h ago
 
 ---
 
@@ -362,7 +362,7 @@ Just tried the Claude Code → Figma MCP workflow, and wow… this is next-level
 
 📺 WorldofAI
 
-👁️ 7K • 👍 261 • 💬 13 • ⏱️ 10:08 • 11h ago
+👁️ 7K • 👍 261 • 💬 13 • ⏱️ 10:08 • 12h ago
 
 ---
 
@@ -372,7 +372,7 @@ These are the AI tools I actually use every day that save me time and money and 
 
 📺 Matt Wolfe
 
-👁️ 301 • 👍 13 • ⏱️ 2:26 • 1h ago
+👁️ 301 • 👍 13 • ⏱️ 2:26 • 2h ago
 
 ---
 
@@ -382,7 +382,7 @@ A Mother's Tearful Apology to Her Brave Son ❤️#ai #cute #usa #shorts.
 
 📺 CORNIA USA AI
 
-👁️ 388 • ⏱️ 0:44 • 1h ago
+👁️ 388 • ⏱️ 0:44 • 2h ago
 
 ---
 
@@ -434,7 +434,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 77,344 • ❤️ 592 • 16h ago
+⬇️ 77,344 • ❤️ 592 • 17h ago
 
 ---
 
@@ -690,7 +690,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 3.6k • 🔱 411 • 3h ago
+⭐ 3.6k • 🔱 411 • 4h ago
 
 ---
 
@@ -700,7 +700,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.0k • 🔱 296 • 1h ago
+⭐ 3.0k • 🔱 296 • 2h ago
 
 ---
 
@@ -710,7 +710,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.6k • 🔱 323 • 1h ago
+⭐ 2.6k • 🔱 323 • 2h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T18:53:20.235712+00:00'
+updated: '2026-02-19T19:39:43.533579+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 18:53 UTC  
+**Last Updated:** February 19, 2026 at 19:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -101,7 +101,7 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Full article with explanations on the data here https://x.com/sdwouters/status/2
 
 Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-4h ago
+5h ago
 
 ---
 
@@ -117,13 +117,13 @@ Did anyone else actually read the FOMC minutes or did we all just watch the gree
 
 SYNOPSIS British submarine coordinates appear on a public ledger disguised as transactions. Broadcast globally. Every ten minutes. Western intelligence services descend into chaos. Salvation lies with three strangers: a computer scientist, a civil servant and an army veteran.
 
-7h ago
+8h ago
 
 ---
 
 **[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-15m ago
+1h ago
 
 ---
 
@@ -157,7 +157,7 @@ I’m using jade and mainly unlocking it by QR code unlock scan. Yes, I know it�
 
 Investors are focused less on the accuracy of Trump’s trade figures and more on how renewed tariff talk could mean higher-for-longer interest rates.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 1d ago
 
 **[Clarity Act Odds Briefly Spike; Bitcoin Miner Tumbles On AI Funding Plans](https://www.investors.com/news/clarity-act-odds-spike-stablecoin-discussions-white-house-bitdeer-funds-ai-data-center/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -177,13 +177,13 @@ Investor's Business Daily • 2h ago
 
 Bidzina Ivanishvili’s bank loaned the Bitcoin in 2015. Sentence reduced from 15 years to one year, suspended. Fund manager fled country early last year, but was arrested shortly after.
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
 **[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
 
-Bloomberg.com • 50m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 50m ago
 
 The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
 
-The Globe and Mail • 7h ago
+The Globe and Mail • 8h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Globe and Mail • 7h ago
 
 South Korean prosecutors have recovered the $21 million worth of bitcoin that was stolen from their custody last year.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 8h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -279,7 +279,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 2h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 3h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -295,7 +295,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 3 • 💬 1 • 23h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 3 • 💬 1 • 1d ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
 
 ---
 
@@ -303,7 +303,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 1 • 💬 1 • 2h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-878/)
+⬆️ 1 • 💬 1 • 3h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-878/)
 
 ---
 
@@ -317,7 +317,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 42K • 👍 2K • 💬 101 • ⏱️ 28:28 • 20h ago
+👁️ 42K • 👍 2K • 💬 101 • ⏱️ 28:28 • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail app
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 669 • 💬 208 • ⏱️ 36:44 • 1h ago
+👁️ 9K • 👍 669 • 💬 208 • ⏱️ 36:44 • 2h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemin
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 472 • 💬 192 • ⏱️ 8:53 • 11h ago
+👁️ 8K • 👍 472 • 💬 192 • ⏱️ 8:53 • 12h ago
 
 ---
 
@@ -367,7 +367,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 623 • ⏱️ 8:25 • 16h ago
+👁️ 22K • 👍 1K • 💬 623 • ⏱️ 8:25 • 17h ago
 
 ---
 
@@ -377,7 +377,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 845 • 💬 154 • ⏱️ 46:22 • 3h ago
+👁️ 12K • 👍 845 • 💬 154 • ⏱️ 46:22 • 4h ago
 
 ---
 

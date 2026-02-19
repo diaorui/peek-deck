@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-19T18:53:20.241739+00:00'
+updated: '2026-02-19T19:39:43.539005+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- social
 - cryptocurrency
 - news
-- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 18:53 UTC  
+**Last Updated:** February 19, 2026 at 19:39 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 New 13F filings show major financial institutions sharply increased positions in BitMine, a public company widely known as the largest corporate holder of Ethereum. Morgan Stanley now holds 12.2M shares (+26%), ARK 9.5M (+27%), BlackRock 9M (+166%), and Goldman Sachs 5.2M (+588%). Vanguard, Bank of America, Schwab, RBC, Citi and BNY Mellon also expanded exposure. In total, 457 institutional holders now control about 136.7M BitMine shares (~$2.86B). This suggests institutions are increasingly accessing ETH exposure via equity structures rather than direct custody — similar to how MicroStrategy functions as a BTC proxy. Full breakdown: https://btcusa.com/wall-street-giants-boost-bitmine-holdings-as-institutional-ethereum-exposure-expands/ Curious how people here see this trend — does equity-based ETH exposure accelerate or delay direct institutional ETH ownership?
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ New 13F filings show major financial institutions sharply increased positions in
 
 I've been going down a rabbit hole on early Ethereum contract archaeology and found something I thought was worth sharing. MistCoin was deployed on November 3, 2015 — just a few months after Ethereum's mainnet launch. It implements what we'd now recognize as the ERC-20 interface (transfer, balanceOf, totalSupply, approve/transferFrom), but ERC-20 as a formal standard didn't exist until Fabian Vogelsteller's EIP in late 2015, and wasn't widely adopted until 2017. A few things that stood out to me looking at the contract: **Solidity 0.1.6.** The syntax looks almost alien compared to modern Solidity. No `pragma`, no `view`/`pure`, no SafeMath. It's like looking at a fossil record of the language. **Fixed supply of 1,000,000 tokens.** No mint function, no owner privileges, no upgradability. The entire supply was assigned in the constructor and that was it. Immutable from day one. **The contract structure itself became the blueprint.** If you compare MistCoin's layout to the ERC-20 standard that was formalized later, the resemblance is striking. The pattern of mapping balances, emitting Transfer events, and the approve/transferFrom flow — it's all there. What I find interesting isn't the token itself, but what it tells us about how Ethereum's developer culture evolved. In 2015, people were hand-rolling token contracts from scratch with no standards, no templates, no OpenZeppelin. The fact that multiple developers independently converged on nearly identical patterns is what eventually made ERC-20 possible as a standard — it codified what was already emerging organically. The contract is still on-chain, obviously. Blockchain archaeology is one of those things that reminds you everything on Ethereum is permanent. The earliest experiments are still sitting there, readable and verifiable. More details on the history: [mistcoineth.com](https://mistcoineth.com) Has anyone else found interesting pre-standard contracts from 2015? I'd love to know what other early experiments are still sitting on mainnet.
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ I've been going down a rabbit hole on early Ethereum contract archaeology and fo
 
 I was blown away by the recent interviews where Davide Crapis explained the exciting potential of Ethereum and AI agents. This feels like one of the biggest narrative opportunities the ecosystem has had in years. Precisely because the stakes are so high, I’d actually love to see EF lean into a very classic split of responsibilities: let the deepest technical people focus on building, coordination, and experimentation, and have a dedicated public‑facing person whose main job is interviews, conference talks, and selling the vision to AI founders and researchers -- similar to how Steve Wozniak and Steve Jobs complemented each other at Apple I understand the urge of putting Davide out there, he's good looking, charming, technically brilliant, and filled with enthusiasm. However in a lot of successful orgs, the people doing the most important technical work are not the ones doing the most public communication, not because they’re bad at it, but because their highest leverage is elsewhere. A specialized “storyteller for AI/agents,” backed by folks like Davide on the technical side, feels like the kind of structure that could really help Ethereum capture this moment.
 
-16h ago
+17h ago
 
 ---
 
@@ -104,7 +104,7 @@ I was blown away by the recent interviews where Davide Crapis explained the exci
 
 Your guide to Ethereum's upcoming gas repricing changes
 
-🔗 [gasrepricing.com](https://gasrepricing.com/) • 14h ago
+🔗 [gasrepricing.com](https://gasrepricing.com/) • 15h ago
 
 ---
 
@@ -112,7 +112,7 @@ Your guide to Ethereum's upcoming gas repricing changes
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/Dad2UonQ9Ag) • 14h ago
+🔗 [youtu.be](https://youtu.be/Dad2UonQ9Ag) • 15h ago
 
 ---
 
@@ -120,7 +120,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 90% of my coins are on Ledger and I mostly don’t touch them. But I need to get a little into more active trading and look to do more swaps. The problem tho, ledger’s fees are a bit higher than i expected and I don’t really want to be transferring money wallet to wallet. Swaps from cold wallet also feel like too much and that’s not even considering the routes. What everyone else does?
 
-11h ago
+12h ago
 
 ---
 
@@ -132,13 +132,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Protocol Priorities Update for 2026](https://www.reddit.com/r/ethereum/comments/1r8j4dh/protocol_priorities_update_for_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/18/protocol-priorities-update-2026) • 19h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/18/protocol-priorities-update-2026) • 20h ago
 
 ---
 
 **[Ethereum Protocol Studies 2026](https://www.reddit.com/r/ethereum/comments/1r8j3vp/ethereum_protocol_studies_2026/)**
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/ethereum-protocol-studies-26) • 19h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/17/ethereum-protocol-studies-26) • 20h ago
 
 ---
 
@@ -150,7 +150,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -164,7 +164,7 @@ Yahoo Finance • 3d ago
 
 **[Harvard Just Chose Ethereum Over Bitcoin — Here's Why](https://www.binance.com/en/square/post/292721446559250)**
 
-Binance • 1d ago
+Binance • 2d ago
 
 ---
 
@@ -180,7 +180,7 @@ Business Insider • 1d ago
 
 Centralized exchanges are moving forward building their own blockchain infrastructure even as the broader Ethereum ecosystem debates its future.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 2h ago
 
 Institutional ownership of Sharplink’s common stock has grown to 46% as of Dec. 31, according to the latest available 13F filings.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 1d ago
 
 Billionaire investor Peter Thiel and Founders Fund held a 7.5% stake in Ethereum treasury company ETHZilla last year—but not anymore.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -212,7 +212,7 @@ Yahoo Finance • 21h ago
 
 Peter Thiel has fully exited ETHZilla after the “Ethereum’s MicroStrategy” stock plunged 95% since August. Insider sales, massive debt redemptions, and thin ETH carry raise new questions about the crypto treasury trade.
 
-CryptoSlate • 22h ago
+CryptoSlate • 23h ago
 
 ---
 
@@ -242,7 +242,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 706 • 👍 79 • 💬 6 • ⏱️ 4:52 • 3h ago
+👁️ 706 • 👍 79 • 💬 6 • ⏱️ 4:52 • 4h ago
 
 ---
 
@@ -252,7 +252,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 567 • 👍 19 • 💬 2 • ⏱️ 4:36 • 22h ago
+👁️ 567 • 👍 19 • 💬 2 • ⏱️ 4:36 • 23h ago
 
 ---
 
@@ -262,7 +262,7 @@ FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https:
 
 📺 Ivan on Tech
 
-👁️ 13K • 👍 1K • 💬 87 • ⏱️ 43:48 • 8h ago
+👁️ 13K • 👍 1K • 💬 87 • ⏱️ 43:48 • 9h ago
 
 ---
 
@@ -292,7 +292,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 153 • 💬 14 • ⏱️ 5:36 • 22h ago
+👁️ 3K • 👍 153 • 💬 14 • ⏱️ 5:36 • 23h ago
 
 ---
 
@@ -312,7 +312,7 @@ Get The Blueprint Here: → https://accelerator.altcoinpro.com/?video=CO2X3s3OPj
 
 📺 BULLRUNNERS
 
-👁️ 2K • 👍 110 • 💬 29 • ⏱️ 1:02:36 • 15h ago
+👁️ 2K • 👍 110 • 💬 29 • ⏱️ 1:02:36 • 16h ago
 
 ---
 
