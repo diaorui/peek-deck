@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-19T08:03:42.570788+00:00'
+updated: '2026-02-19T09:11:28.061698+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
 - social
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 19, 2026 at 08:03 UTC  
+**Last Updated:** February 19, 2026 at 09:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.
 
-19h ago
+20h ago
 
 ---
 
@@ -49,7 +49,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 "Machine learning can be used to fully reconstruct particle collisions at the LHC [Large Hadron Collider]. This new approach can reconstruct collisions more quickly and precisely than traditional methods, helping physicists better understand LHC data. [...] Each proton–proton collision at the LHC sprays out a complex pattern of particles that must be carefully reconstructed to allow physicists to study what really happened. For more than a decade, CMS has used a particle-flow (PF) algorithm, which combines information from the experiment's different detectors, to identify each particle produced in a collision. Although this method works remarkably well, it relies on a long chain of hand-crafted rules designed by physicists. The new CMS machine-learning-based particle-flow (MLPF) algorithm approaches the task fundamentally differently, replacing much of the rigid hand-crafted logic with a single model trained directly on simulated collisions. Instead of being told how to reconstruct particles, the algorithm learns how particles look in the detectors, like how humans learn to recognize faces without memorizing explicit rules. When benchmarked using data mimicking that from the current LHC run, the performance of the new machine-learning algorithm matched that of the traditional algorithm and, in some cases, even exceeded it. For example, when tested on simulated events in which top quarks were created, the algorithm improved the precision with which sprays of particles—known as jets—were reconstructed by 10%–20% in key particle momentum ranges. The new algorithm also allows a collision to be fully reconstructed far more quickly than before, because it can run efficiently on modern electronic chips known as graphics processing units (GPUs). Traditional algorithms typically need to run on central processing units (CPUs), which are often slower than GPUs for such tasks."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 5h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 I know that is a rollout coming and the backend of openAi is I red code... But recently it's simply impossible to work with anything in GPT that needs any simple task... If you send an OCR... It is read wrong, then you get angry, helps to fix it and ask a simple txt with content for instance and GPT does... So you ask this simple task... Generate the file for download in .txt or .md and then the issues back again missing content... Resuming... I'm going crazy because GPT for one week already. Anybody with same simple issues like that? Cheers
 
-1h ago
+2h ago
 
 ---
 
@@ -69,11 +69,19 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain
 
 ---
 
+**[Anthropic bans OAuth token usage in third-party tools — Claude Max/Pro users affected](https://www.reddit.com/r/artificial/comments/1r8t76o/anthropic_bans_oauth_token_usage_in_thirdparty/)**
+
+Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service. This means tools like Cline, Roo Code, OpenClaw, and anything using the Agent SDK with consumer OAuth tokens are now in violation of Anthropic's Terms of Service. Developers are told to use API key authentication only. Original discussion: https://www.reddit.com/r/ClaudeAI/comments/1r8t6mn/
+
+1h ago
+
+---
+
 **[Built an agent that applied to 1,000 jobs in 48 hours](https://www.reddit.com/r/artificial/comments/1r8sbl0/built_an_agent_that_applied_to_1000_jobs_in_48/)**
 
 https://reddit.com/link/1r8sbl0/video/lwjy5ybzfekg1/player The agent gets two things: a snapshot of the browser and a tree showing every element it can click or fill. That's how it knows what's on the page and what it can interact with. From there it reasons through the form on its own. No hardcoded field mapping, no brittle selectors. It just looks at what's there and figures it out. What surprised me was how it handled situations I didn't plan for. LinkedIn session expired mid-application it reset the password and kept going. One listing had no form at all, just a contact email it sent the email directly with my resume. One application was in French it completed the whole thing in French. I didn't build any of that in. It just reasoned through it. 1,000 applications, 2 days, multiple interviews lined up. Open source: https://github.com/Pickle-Pixel/ApplyPilot
 
-1h ago
+2h ago
 
 ---
 
@@ -85,19 +93,19 @@ https://reddit.com/link/1r8sbl0/video/lwjy5ybzfekg1/player The agent gets two th
 
 ---
 
-**[Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making](https://www.reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/)**
-
-You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
-
-20h ago
-
----
-
 **[Sony Group tech can identify original music in AI-generated songs](https://www.reddit.com/r/artificial/comments/1r7vvdp/sony_group_tech_can_identify_original_music_in/)**
 
 Japanese company seeks to help copyright holders receive share of revenue
 
 🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 1d ago
+
+---
+
+**[Using combine consensus of LLMs to remove (or smooth-reduce) their own flaws in decision making](https://www.reddit.com/r/artificial/comments/1r8070j/using_combine_consensus_of_llms_to_remove_or/)**
+
+You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
+
+22h ago
 
 ---
 
@@ -109,27 +117,15 @@ A self-hosted platform for running Claude agent swarms with a React UI, deployed
 
 ---
 
-**[I love Claude but honestly some of the "Claude might have gained consciousness" nonsense that their marketing team is pushing lately is a bit off putting. They know better!](https://www.reddit.com/r/artificial/comments/1r6lw8i/i_love_claude_but_honestly_some_of_the_claude/)**
-
-- Anthropic CEO Says Company No Longer Sure Whether Claude Is Conscious - Link - Anthropic revises Claude’s ‘Constitution,’ and hints at chatbot consciousness - Link
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Meta Begins $65 Million Election Push to Advance A.I. Agenda](https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html)**
+**[Bill Gates cancels AI summit keynote address amid fresh scrutiny over Epstein links](https://www.cnn.com/2026/02/18/india/bill-gates-india-summit-keynote-intl-hnk)**
 
-The New York Times • 13h ago
+Bill Gates has pulled out of delivering his keynote address at an AI summit in India Thursday, his foundation said, as the billionaire faces scrutiny over his ties to late convicted sex offender Jeffrey Epstein.
 
----
-
-**[India AI summit stumbles as Bill Gates pulls out, chaos mounts](https://www.reuters.com/world/india/bill-gates-cancels-keynote-address-india-ai-summit-2026-02-19/)**
-
-Reuters • 4h ago
+CNN • 4h ago
 
 ---
 
@@ -137,59 +133,63 @@ Reuters • 4h ago
 
 The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
-**[Bill Gates withdraws from India AI summit (MSFT:NASDAQ)](https://seekingalpha.com/news/4553708-bill-gates-withdraws-from-india-ai-summit)**
+**[Bill Gates Backs Out of India AI Summit as Epstein Scrutiny Resurfaces](https://www.bloomberg.com/news/newsletters/2026-02-19/bill-gates-backs-out-of-india-ai-summit-as-epstein-scrutiny-resurfaces?srnd=phx-economics-v2)**
 
-Bill Gates and Nvidia CEO Jensen Huang pull out of India’s AI Impact Summit ahead of Modi, Macron, and top AI leaders—get the latest updates and read more.
-
-Seeking Alpha • 2h ago
+Bloomberg • 11m ago
 
 ---
 
-**[India AI Summit: Ambani’s Reliance to Invest $110 Billion in AI Infrastructure](https://www.bloomberg.com/news/articles/2026-02-19/ambani-s-reliance-to-invest-110-billion-in-ai-infrastructure)**
+**[Meta Begins $65 Million Election Push to Advance A.I. Agenda](https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Money Talks as India Searches for Its Place in Global A.I.](https://www.nytimes.com/2026/02/19/business/india-ai-impact-summit.html)**
-
-The New York Times • 3h ago
+The New York Times • 14h ago
 
 ---
 
-**[Modi pitches India as global artificial intelligence hub at AI summit](https://www.newsday.com/news/nation/india-ai-summit-modi-artificial-intelligence-f35984)**
+**[Jared Sleeper on Which Software Companies Will Survive the SaaSpocalypse](https://www.bloomberg.com/news/articles/2026-02-19/saaspocalypse-software-stocks-get-hammered-by-rise-of-ai)**
 
-Prime Minister Narendra Modi has pitched India as a major hub for artificial intelligence, built at home and used worldwide.
-
-Newsday • 1h ago
+Bloomberg • 11m ago
 
 ---
 
-**[‘When friends connect, innovation follows’: French President Macron shares AI image with PM Modi](https://timesofindia.indiatimes.com/india/when-friends-connect-innovation-follows-french-president-macron-shares-ai-image-with-pm-modi/articleshow/128534346.cms)**
+**[Video: OpenAI and Anthropic CEOs refuse to hold hands at India AI summit](https://www.aljazeera.com/video/newsfeed/2026/2/19/video-openai-and-anthropic-ceos-refuse-to-hold-hands-at-india-ai-summit)**
 
-India News: French President Emmanuel Macron on Wednesday shared an AI image with Prime Minister Narendra Modi, as he's on three-day tour to India. He's also set .
+Heads of companies OpenAI and Anthropic refused to hold hands in a group photo at the opening of an AI summit in India.
 
-Times of India • 5h ago
-
----
-
-**[Future of AI should not be decided by ‘a few billionaires,’ UN boss warns](https://www.politico.eu/article/future-ai-artificial-intelligence-not-decided-by-billionaires-united-nations-boss-warns/)**
-
-NEW DELHI—United Nations Secretary-General António Guterres has called upon the world to keep the development of artificial intelligence open to all. “The future of AI can not be decided by a…
-
-politico.eu • 1h ago
+Al Jazeera • 48m ago
 
 ---
 
-**[The bogus four-day workweek that AI supposedly ‘frees up’](https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek)**
+**[Decoding the A.I. Beliefs of Anthropic and Its C.E.O., Dario Amodei](https://www.nytimes.com/2026/02/18/technology/anthropic-dario-amodei-effective-altruism.html)**
 
-Business leaders tout AI as a path to shorter weeks and better balance. But without power, workers are unlikely to share the gains
+The New York Times • 10h ago
 
-The Guardian • 19h ago
+---
+
+**[Summit photo op fails to unite AI startup rivals](https://www.yahoo.com/news/articles/summit-photo-op-fails-unite-083448860.html)**
+
+Tech bro rivalry is real, or at least it is for Sam Altman and Dario Amodei, the CEOs of two leading US artificial intelligence startups."That awkward moment when Sam Altman and Dario Amodei refused t...
+
+Yahoo • 36m ago
+
+---
+
+**[I hacked ChatGPT and Google's AI – and it only took 20 minutes](https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes)**
+
+I found a way to make AI tell you lies – and I'm not the only one.
+
+BBC • 23h ago
+
+---
+
+**[A new way to express yourself: Gemini can now create music](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/)**
+
+Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.
+
+blog.google • 17h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Guardian • 19h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 775 • 💬 716 • 1d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 778 • 💬 721 • 1d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -209,7 +209,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Texas state Rep. James Talarico on the broadcast.
 
-⬆️ 521 • 💬 246 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 522 • 💬 247 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 
 ---
 
@@ -219,7 +219,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging its AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 413 • 💬 345 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 413 • 💬 346 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -235,7 +235,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 374 • 💬 314 • 2d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 374 • 💬 315 • 2d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -243,7 +243,7 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 opinion: The subtractive bias we're ignoring
 
-⬆️ 275 • 💬 208 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 275 • 💬 211 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -251,7 +251,7 @@ opinion: The subtractive bias we're ignoring
 
 fragments 18 Feb 2026
 
-⬆️ 186 • 💬 137 • 15h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 187 • 💬 138 • 17h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -259,7 +259,7 @@ fragments 18 Feb 2026
 
 I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last.This is a...
 
-⬆️ 163 • 💬 260 • 2d ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+⬆️ 164 • 💬 260 • 2d ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 
 ---
 
@@ -273,7 +273,7 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 **[What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://news.ycombinator.com/item?id=47061642)**
 
-⬆️ 123 • 💬 100 • 17h ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
+⬆️ 124 • 💬 110 • 18h ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
 
 ---
 
@@ -287,7 +287,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 52K • 👍 4K • 💬 1K • ⏱️ 28:51 • 8h ago
+👁️ 52K • 👍 4K • 💬 1K • ⏱️ 28:51 • 10h ago
 
 ---
 
@@ -297,7 +297,7 @@ GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED
 
 📺 Art Chad
 
-👁️ 94K • 👍 9K • 💬 831 • ⏱️ 24:36 • 15h ago
+👁️ 94K • 👍 9K • 💬 831 • ⏱️ 24:36 • 16h ago
 
 ---
 
@@ -347,7 +347,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 64K • 👍 3K • 💬 568 • ⏱️ 42:15 • 17h ago
+👁️ 64K • 👍 3K • 💬 568 • ⏱️ 42:15 • 18h ago
 
 ---
 
@@ -405,7 +405,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 40,292 • ❤️ 760 • 2d ago
+⬇️ 40,292 • ❤️ 760 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 50,917 • ❤️ 581 • 5h ago
+⬇️ 50,917 • ❤️ 581 • 7h ago
 
 ---
 
@@ -649,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 14.0k • 🔱 1.4k • 52m ago
+⭐ 14.0k • 🔱 1.4k • 1h ago
 
 ---
 
@@ -697,7 +697,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.9k • 🔱 282 • 2h ago
+⭐ 2.9k • 🔱 282 • 3h ago
 
 ---
 
@@ -707,7 +707,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.6k • 🔱 313 • 19h ago
+⭐ 2.6k • 🔱 313 • 20h ago
 
 ---
 
@@ -717,7 +717,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 171 • 1h ago
+⭐ 2.5k • 🔱 171 • 2h ago
 
 ---
 
@@ -727,7 +727,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.3k • 🔱 112 • 1d ago
+⭐ 2.3k • 🔱 112 • 2d ago
 
 ---
 

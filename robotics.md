@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-19T08:03:42.588774+00:00'
+updated: '2026-02-19T09:11:28.079672+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 19, 2026 at 08:03 UTC  
+**Last Updated:** February 19, 2026 at 09:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -38,9 +38,15 @@ Robotics research and industry news
 
 ---
 
-**[Advanced Open Source Custom F405 Flight Controller for FPV drones](https://www.reddit.com/r/robotics/comments/1r8qaas/advanced_open_source_custom_f405_flight/)**
+**[Is there a platform to find faculties working/ researching on SLAM?](https://www.reddit.com/r/robotics/comments/1r8spd4/is_there_a_platform_to_find_faculties_working/)**
 
-Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 89× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12V input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
+Hi all, as the title states is there a platform that consolidates a list of people based on research topics? I am looking to find professors working on slam or perception in the UK. Thanks.
+
+1h ago
+
+---
+
+**[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
 
 3h ago
 
@@ -48,25 +54,27 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 **[Opinion on MS Robotics at WPI / Oregon State / JHU](https://www.reddit.com/r/robotics/comments/1r8ogvw/opinion_on_ms_robotics_at_wpi_oregon_state_jhu/)**
 
-4h ago
+5h ago
 
 ---
 
-**[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
+**[Fact Check: Does a student "World Championship" by NVIDIA & Boston Dynamics exist in Singapore?](https://www.reddit.com/r/robotics/comments/1r8u6ww/fact_check_does_a_student_world_championship_by/)**
 
-2h ago
+Hi everyone, I’m trying to verify the legitimacy of some "World Championship" claims made by someone I know. The details feel very off to me, but I wanted to check with people who actually follow the international robotics circuit. ​The Specific Claims: ​The Event: An "International Robotics and Coding Championship 2025" held in Singapore. ​The Organizers: Claims it was officially hosted/sponsored by NVIDIA and Boston Dynamics. ​The Award: 2nd Place in "International Innovation and Coding." ​The Red Flags: ​The Trophy: The award shown is a generic "Victory Female" figurine (a gold-plated plastic woman holding a torch) on a black plastic base. I found the exact model on IndiaMART for about ₹200 (~$2.50). Do "World Championships" really give out generic mass-produced budget trophies? ​The Labels: The logos for NVIDIA and Boston Dynamics look like they were printed on a basic home printer and stuck onto the base with adhesive tape or cheap glue. ​Corporate Role: I’ve never heard of NVIDIA or Boston Dynamics hosting youth-only trophy ceremonies for individuals. I thought they were technology partners for conferences like ROSCon (which was in Singapore in Oct 2025), not event organizers for school-level awards. ​Missing Records: I checked the official WRO (World Robot Olympiad) 2025 Singapore results, and the winners in the senior categories were from Costa Rica and Malaysia. There is no mention of this specific "NVIDIA" championship anywhere online. ​My Questions: ​Does anyone know of a real "World Championship" hosted by NVIDIA/Boston Dynamics in Singapore in 2025? ​Are "World Champion" trophies usually generic plastic figurines available at local gift shops? ​Is it common for people to fake these "STEM achievements" using AI-generated bios and home-made trophies? ​Thanks for any help!
+
+19m ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-18h ago
+20h ago
 
 ---
 
 **[Battle Bots Competition – March 7 at Renaissance Youth Center (South Bronx)](https://www.reddit.com/r/robotics/comments/1r8gfbh/battle_bots_competition_march_7_at_renaissance/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -82,21 +90,13 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-15h ago
+16h ago
 
 ---
 
 **[Research & Validation Survey for a student-led platform for the FIRST community](https://www.reddit.com/r/robotics/comments/1r8k0x5/research_validation_survey_for_a_studentled/)**
 
-7h ago
-
----
-
-**[ROS By-The-Bay next Thursday in Mountain View - Speakers from PX4 Drone Controller and Polymath Robotics [RSVP Inside]](https://www.reddit.com/r/robotics/comments/1r89y99/ros_bythebay_next_thursday_in_mountain_view/)**
-
-RSVP Here Food and drink will be provided. Please tell your friends.
-
-14h ago
+8h ago
 
 ---
 
@@ -104,43 +104,27 @@ RSVP Here Food and drink will be provided. Please tell your friends.
 
 ## Google News: "robotics"
 
-**[China’s dancing robots: how worried should we be?](https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show)**
-
-Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
-
-The Guardian • 14h ago
-
----
-
 **[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
 Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
-**[Hawaii robotics team qualifies for World Championships](https://www.hawaiinewsnow.com/2026/02/19/hawaii-robotics-team-qualifies-world-championships/)**
+**[China’s dancing robots: how worried should we be?](https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show)**
 
-Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
+Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-Hawaii News Now • 6h ago
-
----
-
-**[Mizzou grad explores future of occupational therapy through robotics](https://showme.missouri.edu/2026/mizzou-grad-explores-future-of-occupational-therapy-through-robotics/)**
-
-In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
-
-Show Me Mizzou • 18h ago
+The Guardian • 15h ago
 
 ---
 
-**[Area robotics teams reach state competition](https://www.wandtv.com/news/illinois/area-robotics-teams-reach-state-competition/article_09601f51-6db9-4c50-8187-66254b18ae80.html)**
+**[AI-enabled robotics could shift global manufacturing power, CEO of Alphabet company says](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
 
-Champaign-Urbana's two challenge robotics teams have earned spots at the 2026 FIRST Tech Challenge state championship.
+When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
 
-WANDTV.com • 9h ago
+CNBC • 20h ago
 
 ---
 
@@ -148,37 +132,53 @@ WANDTV.com • 9h ago
 
 Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
 
-South China Morning Post • 4h ago
+South China Morning Post • 5h ago
 
 ---
 
-**[Reliable Robotics Prepares For Guam Deployment, TIA Campaign](https://aviationweek.com/aerospace/advanced-air-mobility/reliable-robotics-prepares-guam-deployment-tia-campaign)**
+**[Canadian Shipyard Turns to AI Robotics to Automate One of Shipbuilding’s Toughest Jobs](https://gcaptain.com/canadian-shipyard-turns-to-ai-robotics-to-automate-one-of-shipbuildings-toughest-jobs/)**
 
-Reliable Robotics is entering a critical phase in its effort to certify an automated Cessna Caravan.
+Seaspan Shipyards has awarded a $1.5 million contract to Alberta-based Confined Space Robotics to develop semiautonomous systems for blast and paint operations, marking a significant push toward automation in one of shipbuilding’s most hazardous and labor-intensive processes.
 
-Aviation Week • 8h ago
-
----
-
-**[AI, robotics, data and more: Meet John Deere's latest round of collaborators](https://www.michiganfarmnews.com/ai-robotics-data-and-more-meet-john-deere-s-latest-round-of-collaborators)**
-
-Michigan Farm News
-
-Michigan Farm News • 14h ago
+gCaptain • 13h ago
 
 ---
 
-**[New Middletown High School robotics class sees teens creating, competing](https://www.journal-news.com/news/new-middletown-high-school-robotics-class-sees-teens-creating-competing/HZ5XHA4OLFEDRE7KMJTR7CP4VU/)**
+**[Columbus AI robotics company signs R&D deal with nation's largest shipbuilder](https://www.bizjournals.com/columbus/news/2026/02/18/path-robotics-hii-ai-welding-shipbuilding.html)**
 
-A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
-
-Middletown Journal • 15h ago
+The Business Journals • 22h ago
 
 ---
 
-**[Midway Through The Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://seekingalpha.com/article/4871792-midway-through-robotics-earnings-season-discipline-rewarded-recovery-broadening)**
+**[Bellefontaine Robotics make strong run at Meaden and Moore](https://www.peakofohio.com/local-news/bellefontaine-robotics-make-strong-run-at-meaden-and-moore/)**
 
-Seeking Alpha • 7h ago
+Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
+
+Peak of Ohio • 2d ago
+
+---
+
+**[Inside automakers’ strategic bet on humanoid robots beyond the assembly line](https://www.autonews.com/technology/an-automakers-turn-to-robots-for-future-business-0218/)**
+
+Automakers from Tesla to Hyundai are pivoting into humanoid robots, betting their manufacturing expertise will dominate a market projected at $7.5 trillion by 2050.
+
+Automotive News • 21h ago
+
+---
+
+**[A robotic dog made in China gets an Indian university kicked out of an AI summit](https://apnews.com/article/india-ai-chinese-galgotias-university-robotic-dog-850acd70109cae9ae34c2b78923b2cbb)**
+
+A private Indian university has been booted from a top artificial intelligence summit in New Delhi after one of its staffers displayed a a commercially available robotic dog made in China, claiming it was the university’s own innovation.
+
+Associated Press News • 20h ago
+
+---
+
+**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+
+A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+
+KWQC • 3d ago
 
 ---
 
@@ -262,7 +262,7 @@ Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off s
 
 📺 New York Post
 
-👁️ 51K • 👍 839 • 💬 578 • ⏱️ 2:01 • 16h ago
+👁️ 51K • 👍 839 • 💬 578 • ⏱️ 2:01 • 17h ago
 
 ---
 
