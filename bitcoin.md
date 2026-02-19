@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T17:51:22.926175+00:00'
+updated: '2026-02-19T18:53:20.235712+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 17:51 UTC  
+**Last Updated:** February 19, 2026 at 18:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,325.56
+### $67,022.19
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -3.8%  
-**30d:** -26.1%  
-**90d:** -21.8%  
-**1y:** -32.6%  
+**24h:** +1.2%  
+**7d:** -2.7%  
+**30d:** -25.2%  
+**90d:** -20.9%  
+**1y:** -31.8%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-6h ago
+7h ago
+
+---
+
+**[Italian banking giant Intesa Sanapolo discloses near $100 million bitcoin ETF holdings](https://www.reddit.com/r/Bitcoin/comments/1r8y6nf/italian_banking_giant_intesa_sanapolo_discloses/)**
+
+The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
+
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 6h ago
 
 ---
 
@@ -89,19 +97,11 @@ Rank #1
 
 ---
 
-**[Italian banking giant Intesa Sanapolo discloses near $100 million bitcoin ETF holdings](https://www.reddit.com/r/Bitcoin/comments/1r8y6nf/italian_banking_giant_intesa_sanapolo_discloses/)**
+**[Lightning volume grew by 400% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r93pwo/lightning_volume_grew_by_400_in_2025/)**
 
-The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
+Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 5h ago
-
----
-
-**[Last night I found an old harddrive...containing my script and mood trailer for a Bitcoin movie.](https://www.reddit.com/r/Bitcoin/comments/1r8wwpu/last_night_i_found_an_old_harddrivecontaining_my/)**
-
-SYNOPSIS British submarine coordinates appear on a public ledger disguised as transactions. Broadcast globally. Every ten minutes. Western intelligence services descend into chaos. Salvation lies with three strangers: a computer scientist, a civil servant and an army veteran.
-
-6h ago
+2h ago
 
 ---
 
@@ -109,7 +109,21 @@ SYNOPSIS British submarine coordinates appear on a public ledger disguised as tr
 
 Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-3h ago
+4h ago
+
+---
+
+**[Last night I found an old harddrive...containing my script and mood trailer for a Bitcoin movie.](https://www.reddit.com/r/Bitcoin/comments/1r8wwpu/last_night_i_found_an_old_harddrivecontaining_my/)**
+
+SYNOPSIS British submarine coordinates appear on a public ledger disguised as transactions. Broadcast globally. Every ten minutes. Western intelligence services descend into chaos. Salvation lies with three strangers: a computer scientist, a civil servant and an army veteran.
+
+7h ago
+
+---
+
+**[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
+
+15m ago
 
 ---
 
@@ -117,37 +131,21 @@ Did anyone else actually read the FOMC minutes or did we all just watch the gree
 
 Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
-23h ago
+1d ago
+
+---
+
+**[Does the Blockstream’s blind oracle safe?](https://www.reddit.com/r/Bitcoin/comments/1r95vlv/does_the_blockstreams_blind_oracle_safe/)**
+
+I’m using jade and mainly unlocking it by QR code unlock scan. Yes, I know it’s fully open source, but given that it uses the blind oracle from Blockstreams servers to decrypt your wallet info, is this a possible compromise threat? Is it really secure for long-term holdings? Do I need to move my funds to all-new wallet with new seed words?
+
+1h ago
 
 ---
 
 **[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
 
 1d ago
-
----
-
-**[Daily Discussion, February 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1r8ri0y/daily_discussion_february_19_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-11h ago
-
----
-
-**[Coinbase tax form - came after I filed my taxes](https://www.reddit.com/r/Bitcoin/comments/1r8kqrx/coinbase_tax_form_came_after_i_filed_my_taxes/)**
-
-Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
-
-17h ago
-
----
-
-**[⛏️ BTC PROP Mining Now Supported on SoloHash in MinerBox 🎉](https://www.reddit.com/r/Bitcoin/comments/1r8z0px/btc_prop_mining_now_supported_on_solohash_in/)**
-
-https://preview.redd.it/tyw3nvbdcgkg1.png?width=1536&format=png&auto=webp&s=2319f8a342478cecd5169f4eb064587c802b6feb Hey Bitcoin miners 👋 If you’re mining on SoloHash, you can now monitor your BTC PROP mining stats directly in the MinerBox app 📊 You’ll be able to: Track hashrate & workers Monitor PROP pool performance Check your stats on the go 🔗 SoloHash: https://solohash.co.uk 🔗 MinerBox: http://minerbox.witplex.com Happy hashing and good luck hitting blocks! ⛏️🔥 #Bitcoin #BTC #Mining #CryptoMining #SoloHash
-
-4h ago
 
 ---
 
@@ -159,7 +157,7 @@ https://preview.redd.it/tyw3nvbdcgkg1.png?width=1536&format=png&auto=webp&s=2319
 
 Investors are focused less on the accuracy of Trump’s trade figures and more on how renewed tariff talk could mean higher-for-longer interest rates.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -169,27 +167,31 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[This Desktop Bitcoin Ticket Miner Dropped to $50 With Free Shipping](https://www.pcmag.com/deals/this-desktop-bitcoin-ticket-miner-dropped-to-50-with-free-shipping)**
+**[Clarity Act Odds Briefly Spike; Bitcoin Miner Tumbles On AI Funding Plans](https://www.investors.com/news/clarity-act-odds-spike-stablecoin-discussions-white-house-bitdeer-funds-ai-data-center/)**
 
-Solo-mine bitcoin with a compact, standalone device that's been slashed in price by 66%.
-
-PCMag • 3h ago
+Investor's Business Daily • 2h ago
 
 ---
 
-**[Voltage Launches First Payment-Volume Line of Credit: Bitcoin Finality, USD Settlement](https://markets.businessinsider.com/news/currencies/voltage-launches-first-payment-volume-line-of-credit-bitcoin-finality-usd-settlement-1035845338)**
+**[Fund manager who embezzled $40m in Bitcoin from former Georgian PM freed in plea deal](https://www.yahoo.com/news/articles/fund-manager-embezzled-40m-bitcoin-153650470.html)**
 
-Austin, Texas, February 19th, 2026, FinanceWireVoltage Launches Industry's First Programmatic Revolving Line of Credit: Bitco...
+Bidzina Ivanishvili’s bank loaned the Bitcoin in 2015. Sentence reduced from 15 years to one year, suspended. Fund manager fled country early last year, but was arrested shortly after.
 
-markets.businessinsider.com • 3h ago
+Yahoo • 3h ago
 
 ---
 
-**[Bitcoin Slips Below $66,000 After Strong US Jobless Claims & Trade Deficit Surprise](https://finance.yahoo.com/news/bitcoin-slips-below-66-000-152756027.html)**
+**[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
 
-Bitcoin falls below $66,000 after jobless claims beat expectations & US trade deficit widened, heightening risk-off sentiment.
+Bloomberg.com • 50m ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Opinion: Stablecoins, the new kid on the crypto block, may be killing Bitcoin](https://www.theglobeandmail.com/business/commentary/article-stablecoins-cryptocurrency-bitcoin-genius-act/)**
+
+The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
+
+The Globe and Mail • 7h ago
 
 ---
 
@@ -197,7 +199,7 @@ Yahoo Finance • 2h ago
 
 South Korean prosecutors have recovered the $21 million worth of bitcoin that was stolen from their custody last year.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -205,29 +207,23 @@ The Block • 7h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
-**[Prediction: Bitcoin Will Hit $150,000 By the End of 2026](https://www.fool.com/investing/2026/02/18/prediction-bitcoin-will-hit-150000-by-the-end-of-2/)**
+**['Dr. Doom' Nouriel Roubini blasts bitcoin as 'bogus' and a risk to the financial system](https://www.businessinsider.com/bitcoin-dr-doom-nouriel-roubini-crypto-bogus-financial-system-risk-2026-2)**
 
-Bitcoin has the potential to double in value this year. Here's why.
+Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
 
-The Motley Fool • 1d ago
-
----
-
-**[Bitcoin's Crash Is Putting Crypto Treasury Stocks To The Test](https://www.forbes.com/sites/ninabambysheva/2026/02/17/bitcoins-crash-is-putting-crypto-treasury-stocks-to-the-test/)**
-
-Forbes • 2d ago
+Business Insider • 1d ago
 
 ---
 
-**[FutureBit launches Apollo III, U.S.-Engineered Home Bitcoin Miner](https://bitcoinmagazine.com/news/futurebit-apollo-iii-home-bitcoin-miner)**
+**[JPMorgan announces Bitcoin mining leader](https://www.thestreet.com/crypto/markets/jpmorgan-announces-bitcoin-mining-leader)**
 
-FutureBit launched the Apollo III today, a new home Bitcoin mining system combining a high-performance miner and a full Bitcoin node in a single desktop device.
+This comes at a time when Bitcoin miners are increasingly pivoting out of the sector.
 
-Bitcoin Magazine • 22h ago
+thestreet.com • 1d ago
 
 ---
 
@@ -283,7 +279,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 1h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 2h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -299,7 +295,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 3 • 💬 1 • 22h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 3 • 💬 1 • 23h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
 
 ---
 
@@ -307,7 +303,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 1 • 💬 1 • 1h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-878/)
+⬆️ 1 • 💬 1 • 2h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-878/)
 
 ---
 
@@ -321,7 +317,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 42K • 👍 2K • 💬 101 • ⏱️ 28:28 • 19h ago
+👁️ 42K • 👍 2K • 💬 101 • ⏱️ 28:28 • 20h ago
 
 ---
 
@@ -331,7 +327,7 @@ Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail app
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 669 • 💬 208 • ⏱️ 36:44 • 45m ago
+👁️ 9K • 👍 669 • 💬 208 • ⏱️ 36:44 • 1h ago
 
 ---
 
@@ -351,7 +347,7 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemin
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 472 • 💬 192 • ⏱️ 8:53 • 10h ago
+👁️ 8K • 👍 472 • 💬 192 • ⏱️ 8:53 • 11h ago
 
 ---
 
@@ -371,7 +367,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 22K • 👍 1K • 💬 623 • ⏱️ 8:25 • 15h ago
+👁️ 22K • 👍 1K • 💬 623 • ⏱️ 8:25 • 16h ago
 
 ---
 
@@ -381,7 +377,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 12K • 👍 845 • 💬 154 • ⏱️ 46:22 • 2h ago
+👁️ 12K • 👍 845 • 💬 154 • ⏱️ 46:22 • 3h ago
 
 ---
 
