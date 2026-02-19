@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-18T23:31:25.648996+00:00'
+updated: '2026-02-19T02:13:40.313669+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 18, 2026 at 23:31 UTC  
+**Last Updated:** February 19, 2026 at 02:13 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,373.29
+### $66,828.03
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +0.3%  
-**30d:** -24.9%  
-**90d:** -21.8%  
-**1y:** -31.3%  
+**24h:** -1.3%  
+**7d:** -2.9%  
+**30d:** -25.4%  
+**90d:** -21.1%  
+**1y:** -32.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1325.54B
+**Market Cap:** $1334.81B
 Rank #1
 
-**Circulating Supply:** 19,991,512 BTC
+**Circulating Supply:** 19,991,590 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.4%
+-47.0%
 
 **All-Time Low:** $67.81
-+97657.0%
++98378.1%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
-4h ago
+7h ago
 
 ---
 
 **[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
 
-6h ago
+9h ago
 
 ---
 
@@ -101,21 +101,7 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 My platform provider (lightning pay) pointed out a sailient point recently. They showed how BTC had been declared "dead" 400 something times since 2009. They pointed out that if you only poked roughly $50 USD into BTC each one of those times (~20k ish total) you would be sitting on about 40 mil rn. Hard to comprehend, and especially hard for the folks that just can't get their head around it. Thoughts?
 
-18h ago
-
----
-
-**[Clarity Bill Odds increased to 79% on polymarket](https://www.reddit.com/r/Bitcoin/comments/1r8d3hm/clarity_bill_odds_increased_to_79_on_polymarket/)**
-
-Today the clarity bill being passed in 2026 has increased by 20% on polymarket, does anyone know what took place for such a dramatic increase? There’s no doubt this will impact crypto prices in the future good or bad.
-
-3h ago
-
----
-
-**[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
-
-9h ago
+21h ago
 
 ---
 
@@ -123,7 +109,29 @@ Today the clarity bill being passed in 2026 has increased by 20% on polymarket, 
 
 They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
 
-3h ago
+6h ago
+
+---
+
+**[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
+
+12h ago
+
+---
+
+**[Coinbase tax form - came after I filed my taxes](https://www.reddit.com/r/Bitcoin/comments/1r8kqrx/coinbase_tax_form_came_after_i_filed_my_taxes/)**
+
+Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
+
+1h ago
+
+---
+
+**[Hard Money vs. Fiat: The Invisible War for Your Wealth](https://www.reddit.com/r/Bitcoin/comments/1r8j7xu/hard_money_vs_fiat_the_invisible_war_for_your/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/qyRQ-sLU0bw) • 2h ago
 
 ---
 
@@ -139,15 +147,7 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 I just hit 0.17 of a bitcoin today and wanted to document my journey here today. I know its not alot compared to what some people have but it is what it is. I also kick myself because I found an old coinbase receipt in my email from 2017 where I was buying BTC, I also had about 20k in BTC in July 2021 which I sold all of and then again in 2023 I bought a bunch and of course sold it. This time around I have a cold storage wallet that every-time I buy my BTC I sent it directly and immediately to the cold storage. I don't know where the price is going nor do i care I'm just going to keep buying a little bit everyday or week or month or whenever i can and document my journey here, BTC. I started in May of 2025 this process so lets see how long it takes me.
 
-20h ago
-
----
-
-**[In the video, we show how an attacker accessed our wallet seed and used Sparrow Wallet to send funds to his address. Wesatoshis detected it in real time and triggered a pre-signed panic transaction. Using RBF, it replaced the attacker’s transaction and redirected the funds back to us.](https://www.reddit.com/r/Bitcoin/comments/1r82w82/in_the_video_we_show_how_an_attacker_accessed_our/)**
-
-https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
-
-10h ago
+22h ago
 
 ---
 
@@ -155,25 +155,9 @@ https://reddit.com/link/1r82w82/video/bw7fayf789kg1/player RBF
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://finance.yahoo.com/news/bitcoin-won-over-wall-street-124511013.html)**
+**[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://www.bloomberg.com/news/articles/2026-02-18/bitcoin-won-over-wall-street-and-now-it-s-paying-the-price)**
 
-Since Oct. 10, roughly $8.5 billion has flowed out of US-listed spot Bitcoin exchange-traded funds.  Futures exposure on the Chicago Mercantile Exchange has fallen by about two-thirds from its late-2024 peak to roughly $8 billion.  Prices on Coinbase, the venue favored by many American institutions, have persistently traded at a discount to offshore exchange Binance — a signal of sustained US selling.
-
-Yahoo Finance • 10h ago
-
----
-
-**[Bitcoin Price Falls. Why the Crypto Is Struggling to Break Back Above $70,000.](https://www.barrons.com/articles/bitcoin-price-crypto-ethereum-xrp-b10726b5?gaa_at=eafs&gaa_n=AWEtsqc42kH3KhtaJ7t9V1GeYvRAh7AzwmEUnkw_eBRBGvINDBEW73aKzvLV&gaa_ts=699641f6&gaa_sig=63FIVbCzrDULlsE0iyKMJc6OECHN0Aq-TY26kPNeqpchddZOVjWf8TmyYZPMvUBX47QHvdwgV68St5l_yy5CyQ%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[Weeks-Long War With Iran Could Start Within Days: Bitcoin Under Pressure, But Gold, Silver, Oil Prices Surge](https://finance.yahoo.com/news/weeks-long-war-iran-could-204716334.html)**
-
-Gold, silver, oil prices surge on fears of a weeks-long Iran war, while Bitcoin slips as investors rotate into traditional safe-haven assets.
-
-Yahoo Finance • 2h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -181,51 +165,65 @@ Yahoo Finance • 2h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 2h ago
+Fortune • 5h ago
 
 ---
 
-**[Bitcoin price news: BTC's bounce from this month's crash evaporates](https://www.coindesk.com/markets/2026/02/18/bitcoin-sinks-to-usd66-000-u-s-stocks-lose-steam-as-fed-minutes-mention-possible-rate-hike)**
+**[Riot Surges On Activist Data Center Proposal, ARK Resumes Coinbase Buys](https://www.investors.com/news/bitcoin-miner-riot-platforms-activist-investor-starboard-value-data-center-transition-ark-invest-cathie-wood-coinbase-stock/)**
 
-Bitcoin is now on track for its fifth consecutive weekly decline, and losing this level could open the floor for a fresh leg lower.
-
-CoinDesk • 2h ago
-
----
-
-**[Ledn Sells $188M Bitcoin-Backed Bonds in First-of-Its-Kind Deal](https://bitcoinmagazine.com/news/ledn-sells-188m-bitcoin-backed-bonds)**
-
-Crypto lender Ledn Inc. has officially sold $188 million in securitized bonds backed by Bitcoin-linked loans.
-
-Bitcoin Magazine • 1h ago
+Investor's Business Daily • 4h ago
 
 ---
 
 **[Starboard Urges Bitcoin Miner Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/articles/2026-02-18/starboard-is-said-to-urge-riot-to-speed-up-shift-to-data-centers)**
 
-Bloomberg.com • 6h ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[Michael Saylor's Strategy buys 2,486 bitcoin for $168 million as total holdings reach 717,131 BTC](https://www.theblock.co/post/390010/michael-saylor-strategy-latest-bitcoin-acquisition)**
+**[FutureBit launches Apollo III, U.S.-Engineered Home Bitcoin Miner](https://bitcoinmagazine.com/news/futurebit-apollo-iii-home-bitcoin-miner)**
 
-Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $49 billion.
+FutureBit launched the Apollo III today, a new home Bitcoin mining system combining a high-performance miner and a full Bitcoin node in a single desktop device.
 
-The Block • 1d ago
-
----
-
-**[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
-
-Bloomberg.com • 1d ago
+Bitcoin Magazine • 7h ago
 
 ---
 
-**[Bitcoin Can Send 'Any Amount' Of Money Anywhere On Earth In Minutes On A Bank Holiday, Says Michael Saylor — Critics Aren't Buying It](https://finance.yahoo.com/news/bitcoin-send-amount-money-anywhere-203017758.html)**
+**[The Daily: Peter Thiel and Founders Fund exit ETHZilla, K33 says bitcoin is approaching 'late bear market territory,' and more](https://www.theblock.co/post/390379/the-daily-peter-thiel-and-founders-fund-exit-ethzilla-k33-says-bitcoin-is-approaching-late-bear-market-territory-and-more)**
 
-Strategy Inc. (NASDAQ:MSTR) Chair Michael Saylor touted on Monday Bitcoin’s (CRYPTO: BTC) ability to enable fast and cheap global transfers even on bank holidays like Presidents’ Day. Saylor Champions Bitcoin’S 24/7 Operation Saylor highlighted Bitcoin’s fee estimator on X, with...
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-Yahoo Finance • 3h ago
+The Block • 8h ago
+
+---
+
+**[Goldman Sachs CEO David Solomon, once a crypto skeptic, now says he owns Bitcoin](https://nypost.com/2026/02/18/business/goldman-sachs-ceo-david-solomon-once-a-crypto-skeptic-now-says-he-owns-bitcoin/)**
+
+Under Solomon’s leadership, Goldman has deepened crypto involvement, launching trading desks and custody services for institutional clients
+
+New York Post • 4h ago
+
+---
+
+**[Goldman CEO Solomon, Long a Crypto Skeptic, Says He Owns Bitcoin](https://www.bloomberg.com/news/articles/2026-02-18/goldman-ceo-solomon-long-a-crypto-skeptic-says-he-owns-bitcoin)**
+
+Bloomberg.com • 9h ago
+
+---
+
+**[Goldman Sachs' David Solomon says he owns 'very little' bitcoin but watching it closely](https://www.coindesk.com/markets/2026/02/18/goldman-sachs-david-solomon-says-he-owns-very-little-bitcoin-but-watching-it-closely)**
+
+“I’m an observer of bitcoin,” Solomon said at the World Liberty Forum on Wednesday, saying he's still trying to understand how it moves.
+
+CoinDesk • 9h ago
+
+---
+
+**['Dr. Doom' Nouriel Roubini blasts bitcoin as 'bogus' and a risk to the financial system](https://www.businessinsider.com/bitcoin-dr-doom-nouriel-roubini-crypto-bogus-financial-system-risk-2026-2)**
+
+Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
+
+Business Insider • 11h ago
 
 ---
 
@@ -285,14 +283,6 @@ Structural awareness for Bitcoin. See regime, read structure, decide in real tim
 
 ---
 
-**[Michael Green discusses Bitcoin [video]](https://news.ycombinator.com/item?id=46983956)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-⬆️ 1 • 💬 0 • 6d ago • [youtube.com](https://www.youtube.com/watch?v=6eFKqTg6GS4)
-
----
-
 **[Show HN: Wit-ts – A type-level WIT parser for TypeScript](https://news.ycombinator.com/item?id=47049085)**
 
 Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
@@ -305,7 +295,15 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 3 • 💬 1 • 4h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 3 • 💬 1 • 7h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+
+---
+
+**[Crypto Escrow for Real Estate Developers and Agencies](https://news.ycombinator.com/item?id=47038137)**
+
+Crypto Pay with Escrow
+
+⬆️ 1 • 💬 1 • 2d ago • [Palindrome Pay](https://www.palindromepay.com/blogs/crypto-escrow-real-estate-developers-brokers)
 
 ---
 
@@ -313,23 +311,33 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ## YouTube Videos: "bitcoin"
 
-**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
-
-Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
-
-📺 Altcoin Daily
-
-👁️ 100K • 👍 3K • 💬 567 • ⏱️ 10:49 • 1d ago
-
----
-
 **[Bitcoin is in a ‘crypto winter,’ says Strategy founder](https://www.youtube.com/watch?v=H-LEbgIojgA)**
 
 Strategy founder and executive chairman Michael Saylor discusses the current 'crypto winter' for Bitcoin, financial stability and the ...
 
 📺 Fox Business
 
-👁️ 59K • 👍 1K • 💬 7K • ⏱️ 11:33 • 16h ago
+👁️ 65K • 👍 1K • 💬 7K • ⏱️ 11:33 • 19h ago
+
+---
+
+**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
+
+Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
+
+📺 Altcoin Daily
+
+👁️ 102K • 👍 4K • 💬 570 • ⏱️ 10:49 • 2d ago
+
+---
+
+**[Billionaire Investor Reveals Why Bitcoin Keeps Dropping | Mike Novogratz](https://www.youtube.com/watch?v=AIJezYSx0NU)**
+
+Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This conversation was recorded live at Bitcoin ...
+
+📺 Anthony Pompliano
+
+👁️ 12K • 👍 736 • 💬 7 • ⏱️ 28:28 • 4h ago
 
 ---
 
@@ -339,17 +347,17 @@ Is the crypto correction finally over? In this urgent market update, Chief Marke
 
 📺 Gareth Soloway
 
-👁️ 40K • 👍 3K • 💬 300 • ⏱️ 10:10 • 6h ago
+👁️ 50K • 👍 4K • 💬 362 • ⏱️ 10:10 • 9h ago
 
 ---
 
-**[Watch CNBC&#39;s full interview with Coinbase CEO Brian Armstrong and U.S. Senator Bernie Moreno](https://www.youtube.com/watch?v=l8FC-D3Jimw)**
+**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
 
-Coinbase CEO Brian Armstrong and U.S. Senator Bernie Moreno sit down with CNBC's Sara Eisen to discuss the future of crypto ...
+Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
 
-📺 CNBC Television
+📺 Anthony Pompliano
 
-👁️ 20K • 👍 522 • 💬 200 • ⏱️ 10:01 • 7h ago
+👁️ 52K • 👍 2K • 💬 31 • ⏱️ 20:57 • 1d ago
 
 ---
 
@@ -359,27 +367,17 @@ On this week's episode of CNBC Crypto World, bitcoin settles in the $60000 after
 
 📺 CNBC Television
 
-👁️ 3K • 👍 121 • 💬 55 • ⏱️ 12:56 • 3h ago
+👁️ 7K • 👍 197 • 💬 128 • ⏱️ 12:56 • 5h ago
 
 ---
 
-**[Bitcoin Price Prediction: Will it Hit $45,000?](https://www.youtube.com/watch?v=jbObbA-iO-U)**
+**[Watch CNBC&#39;s full interview with Coinbase CEO Brian Armstrong and U.S. Senator Bernie Moreno](https://www.youtube.com/watch?v=l8FC-D3Jimw)**
 
-Full video here: https://youtu.be/xU0gpt2VgCU #bitcoin #crypto #shorts ⚠️ DISCLAIMER: To appease money-hungry lawyers ...
+Coinbase CEO Brian Armstrong and U.S. Senator Bernie Moreno sit down with CNBC's Sara Eisen to discuss the future of crypto ...
 
-📺 Crypto Love
+📺 CNBC Television
 
-👁️ 615 • 👍 37 • 💬 5 • ⏱️ 1:19 • 6h ago
-
----
-
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=XOdE_tP8RGA)**
-
-Bitcoin has a classic case of the bear market blues. Let's discuss! Into The Cryptoverse Premium (Use code ITC50 for 50% off your ...
-
-📺 Benjamin Cowen
-
-👁️ 17K • 👍 2K • 💬 94 • ⏱️ 15:57 • 3h ago
+👁️ 26K • 👍 595 • 💬 225 • ⏱️ 10:01 • 9h ago
 
 ---
 
@@ -389,27 +387,27 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 📺 Altcoin Daily
 
-👁️ 53K • 👍 3K • 💬 2K • ⏱️ 11:38 • 23h ago
+👁️ 54K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
 
 ---
 
-**[EXTREME Sell Pressure!🔥Crypto Market Update](https://www.youtube.com/watch?v=r3guBkqs9ts)**
+**[Bitcoin Price Prediction: Will it Hit $45,000?](https://www.youtube.com/watch?v=jbObbA-iO-U)**
 
-Altcoins are under intense selling pressure, hitting levels not seen in the past five years. ~This episode is sponsored by BTCC~ ...
+Full video here: https://youtu.be/xU0gpt2VgCU #bitcoin #crypto #shorts ⚠️ DISCLAIMER: To appease money-hungry lawyers ...
 
-📺 Paul Barron Network
+📺 Crypto Love
 
-👁️ 12K • 👍 1K • 💬 84 • ⏱️ 17:17 • 3h ago
+👁️ 873 • 👍 44 • 💬 6 • ⏱️ 1:19 • 9h ago
 
 ---
 
-**[The Real Reason Bitcoin Stopped Going Up](https://www.youtube.com/watch?v=AIJezYSx0NU)**
+**[Bitcoin Whales JUST Flipped (KNOW THIS)](https://www.youtube.com/watch?v=hel6MPL79eo)**
 
-Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This conversation was recorded live at Bitcoin ...
+ExpressVPN: https://bit.ly/3OLJZ2B. ⚠️ Follow Me On Twitter: https://twitter.com/financial_index. ✓ Patreon Community: ...
 
-📺 Anthony Pompliano
+📺 Michael Wrubel
 
-👁️ 4K • 👍 341 • 💬 7 • ⏱️ 28:28 • 1h ago
+👁️ 21K • 💬 448 • ⏱️ 7:07 • 1d ago
 
 ---
 

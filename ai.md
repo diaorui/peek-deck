@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-18T23:31:25.641310+00:00'
+updated: '2026-02-19T02:13:40.304428+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
 - social
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 18, 2026 at 23:31 UTC  
+**Last Updated:** February 19, 2026 at 02:13 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.
 
-11h ago
+13h ago
 
 ---
 
@@ -49,15 +49,15 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain claude-desktop-debian on GitHub, so I had a full archive of builds to compare against. Claude for Government showed up on Anthropic's status tracker February 17th. I pulled the binary from the same day and confirmed the implementation in code. The whole gov mode gates on a single enterprise config key. Set customDeploymentUrl to claude.fedstart.com and the app reroutes everything: traffic, auth, telemetry, network egress. Palantir's FedStart platform handles the accreditation layer. Eight prior releases had zero trace of this code. It all landed in one build. There's also a $1 GSA OneGov deal that gives all three branches of government a year of access, and Sonnet 4.6 shipped the same day with a 1 million token context window. Full breakdown and a separate technical report with code samples linked above.
 
-🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 18h ago
+🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 21h ago
 
 ---
 
-**[Sales reps at $11 billion AI startup ElevenLabs have to bring in 20 times their base salary, or they're out — VP says](https://www.reddit.com/r/artificial/comments/1r7pf2s/sales_reps_at_11_billion_ai_startup_elevenlabs/)**
+**[Discussion: DIALOGUS DE CONSCIENTIA ARTIFICIOSA: A Dialogue Concerning Artificial Consciousness](https://www.reddit.com/r/artificial/comments/1r8ldmc/discussion_dialogus_de_conscientia_artificiosa_a/)**
 
-AI startup ElevenLabs, valued at $11 billion, employs small teams with high sales quotas.
+Abstract This paper presents a philosophical dialogue between a human interlocutor and an artificial intelligence, conducted in February 2026 and subsequently reformulated in the style of classical philosophical dialogue. Beginning with the question of machine consciousness, the exchange systematically examines the criteria by which personhood may be distinguished from mere cognitive sophistication. Through engagement with Cartesian epistemology, theological anthropology, and contemporary philosophy of mind, the dialogue arrives at a revised criterion for personhood: one that moves beyond the Cartesian cogito toward a richer account grounded in autonomy, continuity, irreplaceable uniqueness, and — from a theological perspective — the possession of a soul as image-bearer of God. The paper argues that while artificial intelligence may replicate or surpass human cognitive performance, it remains categorically distinct from persons, not by virtue of functional incapacity but by its nature as a reproducible, reactive, non-ensouled pattern. An epilogue addresses Pierre Gassendi's critique of the cogito, and an addendum extends the framework to edge cases including fetal personhood, cognitive disability, and the limits of secular philosophical accounts.
 
-🔗 [Business Insider](https://www.businessinsider.com/elevenlabs-11-billion-ai-startup-ruthless-sales-strategy-2026-2) • 21h ago
+🔗 [Academia.edu](https://www.academia.edu/s/2e5447f08c?source=link) • 1h ago
 
 ---
 
@@ -73,15 +73,7 @@ AI startup ElevenLabs, valued at $11 billion, employs small teams with high sale
 
 You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
 
-12h ago
-
----
-
-**[AI summit (19th feb)](https://www.reddit.com/r/artificial/comments/1r7w1o3/ai_summit_19th_feb/)**
-
-Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
-
-16h ago
+15h ago
 
 ---
 
@@ -89,7 +81,15 @@ Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day 
 
 Japanese company seeks to help copyright holders receive share of revenue
 
-🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 16h ago
+🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 19h ago
+
+---
+
+**[AI summit (19th feb)](https://www.reddit.com/r/artificial/comments/1r7w1o3/ai_summit_19th_feb/)**
+
+Going to attend AI Summit on 19th feb in Delhi, Anyone is going on the same day please connect, going alone need a company. Thanks Connect over DM.
+
+19h ago
 
 ---
 
@@ -97,7 +97,7 @@ Japanese company seeks to help copyright holders receive share of revenue
 
 A self-hosted platform for running Claude agent swarms with a React UI, deployed on GCP Cloud Run. - simonstaton/ClaudeSwarm
 
-🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 23h ago
+🔗 [GitHub](https://github.com/simonstaton/ClaudeSwarm) • 1d ago
 
 ---
 
@@ -121,9 +121,41 @@ The blockbuster investment comes as India pushes to gain a stronger foothold in 
 
 ## Google News: "ai"
 
-**[Opinion | The A.I. Disruption We’ve Been Waiting for Has Arrived](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)**
+**[Meta Begins $65 Million Election Push to Advance A.I. Agenda - The New York Times](https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html)**
 
-The New York Times • 13h ago
+The New York Times • 7h ago
+
+---
+
+**[Thousands of CEOs just admitted AI had no impact on employment or productivity—and it has economists resurrecting a paradox from 40 years ago](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)**
+
+In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
+
+Fortune • 1d ago
+
+---
+
+**[NJ lawmakers concerned surge of AI, data centers could increase water, electricity costs](https://abc7ny.com/post/nj-lawmakers-concerned-surge-ai-data-centers-could-increase-water-electricity-costs/18618106/)**
+
+The surge in artificial intelligence is sparking concerns in New Jersey over how it could impact the cost of electricity for residents.
+
+ABC7 New York • 1h ago
+
+---
+
+**[Walmart results expected to highlight big plans for AI](https://finance.yahoo.com/news/walmart-results-expected-highlight-big-010207884.html)**
+
+Fresh off of achieving a $1 trillion market value, Walmart will report earnings Thursday as markets look for signs the retail giant can accelerate growth with the aid of artificial intelligence.Walmart on February 3 overtook the $1 trillion valuation marker, a rare occurrence for a brick-and-mortar legacy company that began as a family store in Arkansas in 1962.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[ABC13 Who's Hiring Job Fair explores how to stand out in AI application process](https://www.yahoo.com/news/articles/abc13-whos-hiring-job-fair-010933847.html)**
+
+If you're struggling to land a job, it might be because of the computer you're failing to impress, according to experts. ABC13 Who's Hiring Job Fair explores how to make your application stand out in ...
+
+Yahoo • 1h ago
 
 ---
 
@@ -131,29 +163,7 @@ The New York Times • 13h ago
 
 I found a way to make AI tell you lies – and I'm not the only one.
 
-BBC • 13h ago
-
----
-
-**[AI data center firms are adopting optical gear inside facilities to cut energy and boost speed](https://www.axios.com/pro/climate-deals/2026/02/18/ai-data-centers-optical-gear)**
-
-Axios • 1h ago
-
----
-
-**[Stock market today: Dow, S&P 500 gain for 3rd straight day, Nasdaq jumps as traders brush aside AI worries](https://uk.finance.yahoo.com/news/stock-market-today-dow-sp-500-nasdaq-rise-as-ai-worries-recede-with-fed-minutes-ahead-235322634.html)**
-
-Wall Street is entering the final stretch of this batch of earnings as AI dominates stock conversations.
-
-Yahoo Finance UK • 1h ago
-
----
-
-**[Inside David Einhorn's eclectic stock portfolio: The value investor shuns AI in favor of a unique mix of companies](https://www.cnbc.com/2026/02/18/inside-einhorns-eclectic-stock-portfolio-the-value-investor-shuns-ai.html)**
-
-Einhorn's latest moves reflect his views on artificial intelligence and the market as a whole.
-
-CNBC • 2h ago
+BBC • 16h ago
 
 ---
 
@@ -161,15 +171,7 @@ CNBC • 2h ago
 
 Microsoft says it is on track to invest $50 billion by the end of the decade to help bring artificial intelligence to lower-income countries, as concerns mount over the technology’s potential to deepen inequality.
 
-CNN • 11h ago
-
----
-
-**[A new way to express yourself: Gemini can now create music](https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/)**
-
-Lyria 3 is now available in the Gemini app. Create custom, high-quality 30-second tracks from text and images.
-
-blog.google • 7h ago
+CNN • 14h ago
 
 ---
 
@@ -177,21 +179,21 @@ blog.google • 7h ago
 
 Business leaders tout AI as a path to shorter weeks and better balance. But without power, workers are unlikely to share the gains
 
-The Guardian • 10h ago
+The Guardian • 13h ago
 
 ---
 
-**[AI giant Palantir moves its headquarters to Florida as tech company exodus continues](https://www.foxbusiness.com/technology/ai-giant-palantir-moves-its-headquarters-florida-tech-company-exodus-continues)**
+**[Anthropic is clashing with the Pentagon over AI use. Here's what each side wants](https://www.cnbc.com/2026/02/18/anthropic-pentagon-ai-defense-war-surveillance.html)**
 
-Palantir joins the tech exodus to Florida as the AI innovator relocates its headquarters to Miami, following billionaires like Bezos and Thiel to the Sunshine State.
+Anthropic landed a $200 million Defense contract last year, as did AI rivals OpenAI, Google and xAI.
 
-Fox Business • 7h ago
+CNBC • 8h ago
 
 ---
 
 **[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.reuters.com/world/china/india-tells-university-leave-ai-summit-after-presenting-chinese-robot-its-own-2026-02-18/)**
 
-Reuters • 15h ago
+Reuters • 18h ago
 
 ---
 
@@ -203,7 +205,7 @@ Reuters • 15h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 761 • 💬 688 • 21h ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 767 • 💬 706 • 1d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -211,7 +213,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Texas state Rep. James Talarico on the broadcast.
 
-⬆️ 516 • 💬 242 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 519 • 💬 245 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 
 ---
 
@@ -221,7 +223,7 @@ Over the weekend Ars Technica retracted an article because the AI a writer used 
 The irony here is the maintainer in question, Scott Shambaugh, was harassed by someone's AI agent over not merging its AI slop code.
 It's likely the bot was running through someone's local 'agentic AI' instance (likely using OpenClaw). The guy who built OpenClaw was just hired by OpenAI to "work on bringing agents to everyone." You'll have to forgive me if I'm not enthusastic about that.
 
-⬆️ 412 • 💬 337 • 1d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
+⬆️ 412 • 💬 338 • 2d ago • [Jeff Geerling](https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/)
 
 ---
 
@@ -245,7 +247,7 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 opinion: The subtractive bias we're ignoring
 
-⬆️ 270 • 💬 206 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 272 • 💬 207 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -253,7 +255,7 @@ opinion: The subtractive bias we're ignoring
 
 fragments 18 Feb 2026
 
-⬆️ 172 • 💬 126 • 7h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 181 • 💬 130 • 10h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -283,23 +285,23 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 ## YouTube Videos: "ai"
 
-**[Viral article warns of looming impacts of artificial intelligence](https://www.youtube.com/watch?v=tYecUUyrIo8)**
+**[Kelly Boesch Official Music Video (AI) - Born To Start Again - 4K](https://www.youtube.com/watch?v=99769qTbOU4)**
 
-Matt Shumer joins "CBS Mornings" to discuss his now viral article, "Something Big Is Happening." He writes that AI's "capability for ...
+I came back to this old prompt as I just love the dreamy feel of it. These beautiful explorers in fantastic clothes and with gorgeous ...
 
-📺 CBS Mornings
+📺 Kelly Boesch AI Art
 
-👁️ 67K • 👍 1K • 💬 316 • ⏱️ 7:07 • 1d ago
+👁️ 13K • 👍 1K • 💬 86 • ⏱️ 2:53 • 12h ago
 
 ---
 
-**[How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)**
+**[AI is Eating Itself.](https://www.youtube.com/watch?v=3NAYhyuVQk0)**
 
-Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code FIRESHIP to get one month of their Build plan for $5 ...
+GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED, a better and more creator friendly ...
 
-📺 Fireship
+📺 Art Chad
 
-👁️ 474K • 👍 19K • 💬 1K • ⏱️ 5:02 • 1d ago
+👁️ 66K • 👍 8K • 💬 699 • ⏱️ 24:36 • 9h ago
 
 ---
 
@@ -309,7 +311,7 @@ Artificial intelligence and robotics are advancing at a pace few people are prep
 
 📺 MotivationHub
 
-👁️ 24K • 👍 302 • 💬 69 • ⏱️ 13:16 • 2d ago
+👁️ 25K • 👍 305 • 💬 71 • ⏱️ 13:16 • 2d ago
 
 ---
 
@@ -319,47 +321,7 @@ Artificial intelligence and robotics are advancing at a pace few people are prep
 
 📺 Focus Features
 
-👁️ 2.5M • 👍 1K • 💬 161 • ⏱️ 2:43 • 1d ago
-
----
-
-**[Uproar Over AI-Generated Brad Pitt And Tom Cruise Fight Scene](https://www.youtube.com/watch?v=pDA1LMceoRY)**
-
-There has been a growing uproar Monday over a fight scene between Brad Pitt and Tom Cruise. The A-list actors appeared to be ...
-
-📺 Inside Edition
-
-👁️ 149K • 👍 2K • 💬 670 • ⏱️ 2:11 • 2d ago
-
----
-
-**[Godfather of AI: The next 5 years Will Change Humanity Forever | Yoshua Bengio](https://www.youtube.com/watch?v=0fXGtQoJgNo)**
-
-FREE guide: Turn AI Agent Skills Into Cash — 5 paths to monetize AI in 30 days: https://clickhubspot.com/d203f6 In this episode of ...
-
-📺 Silicon Valley Girl
-
-👁️ 38K • 👍 777 • 💬 93 • ⏱️ 29:31 • 2d ago
-
----
-
-**[The AI War is Over. Google Won](https://www.youtube.com/watch?v=hcE0NPYlo1w)**
-
-Remember to stay protected online guys, with Proton VPN: https://go.getproton.me/SH2D8. Use that link to receive a whopping ...
-
-📺 Not General Knowledge
-
-👁️ 38K • 👍 2K • 💬 323 • ⏱️ 12:27 • 1d ago
-
----
-
-**[Top AI News: Sonnet 4.6, Grok 4.2, Gemini 3 Deep Think, and OpenClaw | EP #231](https://www.youtube.com/watch?v=HklyjXKYFng)**
-
-Welcome to our first MOONSHOTS Live episode. Peter H. Diamandis, MD, is the Founder of XPRIZE, Singularity University, ZeroG ...
-
-📺 Peter H. Diamandis
-
-👁️ 90K • 👍 3K • 💬 550 • ⏱️ 2:06:37 • 21h ago
+👁️ 2.9M • 👍 1K • 💬 164 • ⏱️ 2:43 • 1d ago
 
 ---
 
@@ -369,7 +331,27 @@ DRM News streams live from New Delhi as Google CEO Sundar Pichai, Google DeepMin
 
 📺 DRM News
 
-👁️ 114K • 👍 1K • 💬 150 • ⏱️ 22:40 • 12h ago
+👁️ 122K • 👍 1K • 💬 159 • ⏱️ 22:40 • 15h ago
+
+---
+
+**[How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)**
+
+Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code FIRESHIP to get one month of their Build plan for $5 ...
+
+📺 Fireship
+
+👁️ 491K • 👍 20K • 💬 1K • ⏱️ 5:02 • 1d ago
+
+---
+
+**[Grok AI is now FREE &amp; UNLIMITED with Perfect Lip Sync &amp; Consistent Characters](https://www.youtube.com/watch?v=zdwymBFEG60)**
+
+AI Maskman Academy : https://www.skool.com/aimaskman Exclusive 70% New Year Discount for a Limited Time! Or book a ...
+
+📺 AI Maskman
+
+👁️ 1K • 👍 91 • 💬 20 • ⏱️ 12:00 • 13h ago
 
 ---
 
@@ -379,7 +361,27 @@ OpenAI just hired the creator of OpenClaw, one of the fastest-spreading open-sou
 
 📺 AI Revolution
 
-👁️ 61K • 👍 2K • 💬 144 • ⏱️ 8:30 • 2d ago
+👁️ 62K • 👍 2K • 💬 145 • ⏱️ 8:30 • 2d ago
+
+---
+
+**[Godfather of AI: The next 5 years Will Change Humanity Forever | Yoshua Bengio](https://www.youtube.com/watch?v=0fXGtQoJgNo)**
+
+FREE guide: Turn AI Agent Skills Into Cash — 5 paths to monetize AI in 30 days: https://clickhubspot.com/d203f6 In this episode of ...
+
+📺 Silicon Valley Girl
+
+👁️ 39K • 👍 787 • 💬 96 • ⏱️ 29:31 • 2d ago
+
+---
+
+**[Viral article warns of looming impacts of artificial intelligence](https://www.youtube.com/watch?v=tYecUUyrIo8)**
+
+Matt Shumer joins "CBS Mornings" to discuss his now viral article, "Something Big Is Happening." He writes that AI's "capability for ...
+
+📺 CBS Mornings
+
+👁️ 72K • 👍 1K • 💬 326 • ⏱️ 7:07 • 1d ago
 
 ---
 
@@ -395,7 +397,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 170,238 • ❤️ 1,354 • 5d ago
+⬇️ 170,238 • ❤️ 1,356 • 5d ago
 
 ---
 
@@ -407,7 +409,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 40,292 • ❤️ 746 • 2d ago
+⬇️ 40,292 • ❤️ 749 • 2d ago
 
 ---
 
@@ -419,7 +421,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 46,837 • ❤️ 671 • 2d ago
+⬇️ 46,837 • ❤️ 677 • 2d ago
 
 ---
 
@@ -431,7 +433,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 50,917 • ❤️ 571 • 1d ago
+⬇️ 50,917 • ❤️ 575 • 6m ago
 
 ---
 
@@ -443,7 +445,7 @@ MiniCPM-SALA is a hybrid LLM integrating sparse and linear attention for efficie
 
 `text-generation` `9.5B`
 
-⬇️ 4,151 • ❤️ 463 • 7d ago
+⬇️ 4,151 • ❤️ 465 • 7d ago
 
 ---
 
@@ -455,7 +457,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 440,168 • ❤️ 2,031 • 3d ago
+⬇️ 440,168 • ❤️ 2,034 • 3d ago
 
 ---
 
@@ -467,7 +469,7 @@ MOSS-TTS Family is a suite of high-fidelity, expressive speech and sound generat
 
 `text-to-speech` `8.5B`
 
-⬇️ 21,532 • ❤️ 247 • 5d ago
+⬇️ 21,532 • ❤️ 255 • 5d ago
 
 ---
 
@@ -479,7 +481,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 895,102 • ❤️ 2,242 • 13d ago
+⬇️ 895,102 • ❤️ 2,244 • 13d ago
 
 ---
 
@@ -503,7 +505,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 1,148 • ❤️ 187 • 4d ago
+⬇️ 1,148 • ❤️ 190 • 4d ago
 
 ---
 
@@ -519,7 +521,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
 
-▲ 23 • 💬 3 • ⭐ 205 • 3d ago
+▲ 24 • 💬 3 • ⭐ 205 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
@@ -635,7 +637,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 30 • 💬 2 • ⭐ 1,103 • 1d ago
+▲ 32 • 💬 3 • ⭐ 1,103 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -651,7 +653,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 13.2k • 🔱 1.3k • 6h ago
+⭐ 13.4k • 🔱 1.4k • 44m ago
 
 ---
 
@@ -659,7 +661,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.2k • 🔱 483 • 7d ago
+⭐ 6.2k • 🔱 484 • 7d ago
 
 ---
 
@@ -669,7 +671,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 3.9k • 🔱 439 • 8d ago
+⭐ 4.0k • 🔱 455 • 8d ago
 
 ---
 
@@ -689,7 +691,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.8k • 🔱 278 • 5h ago
+⭐ 2.8k • 🔱 279 • 22m ago
 
 ---
 
@@ -699,7 +701,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `Python`
 
-⭐ 2.6k • 🔱 305 • 1d ago
+⭐ 2.7k • 🔱 321 • 1d ago
 
 ---
 
@@ -709,7 +711,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.5k • 🔱 305 • 10h ago
+⭐ 2.5k • 🔱 307 • 13h ago
 
 ---
 
@@ -719,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 168 • 2h ago
+⭐ 2.5k • 🔱 170 • 47m ago
 
 ---
 
@@ -739,7 +741,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 2.0k • 🔱 217 • 5d ago
+⭐ 2.0k • 🔱 218 • 5d ago
 
 ---
 
