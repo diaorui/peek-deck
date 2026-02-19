@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-19T04:31:58.443158+00:00'
+updated: '2026-02-19T06:00:04.413370+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 19, 2026 at 04:31 UTC  
+**Last Updated:** February 19, 2026 at 06:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,19 +40,33 @@ Robotics research and industry news
 
 **[Opinion on MS Robotics at WPI / Oregon State / JHU](https://www.reddit.com/r/robotics/comments/1r8ogvw/opinion_on_ms_robotics_at_wpi_oregon_state_jhu/)**
 
-59m ago
+2h ago
+
+---
+
+**[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
+
+13m ago
+
+---
+
+**[Advanced Open Source Custom F405 Flight Controller for FPV drones](https://www.reddit.com/r/robotics/comments/1r8qaas/advanced_open_source_custom_f405_flight/)**
+
+Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 89× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12V input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
+
+56m ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Battle Bots Competition – March 7 at Renaissance Youth Center (South Bronx)](https://www.reddit.com/r/robotics/comments/1r8gfbh/battle_bots_competition_march_7_at_renaissance/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -68,13 +82,13 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-11h ago
+13h ago
 
 ---
 
 **[Research & Validation Survey for a student-led platform for the FIRST community](https://www.reddit.com/r/robotics/comments/1r8k0x5/research_validation_survey_for_a_studentled/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -82,21 +96,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsen
 
 RSVP Here Food and drink will be provided. Please tell your friends.
 
-10h ago
-
----
-
-**[Robutt - CAD Files [OC]](https://www.reddit.com/r/robotics/comments/1r7lu25/robutt_cad_files_oc/)**
-
-1d ago
-
----
-
-**[The humanoid form factor implies more than it delivers in industry](https://www.reddit.com/r/robotics/comments/1r78ba3/the_humanoid_form_factor_implies_more_than_it/)**
-
-Mikell Taylor of General Motors talks about how form factor has a lot to do with consumer expectations, what will humanoids do that is actually different from what else is out there.
-
-1d ago
+12h ago
 
 ---
 
@@ -108,7 +108,7 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 11h ago
+The Guardian • 12h ago
 
 ---
 
@@ -116,7 +116,7 @@ The Guardian • 11h ago
 
 Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 10h ago
+TechCrunch • 11h ago
 
 ---
 
@@ -124,23 +124,7 @@ TechCrunch • 10h ago
 
 Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
 
-Hawaii News Now • 2h ago
-
----
-
-**[Mizzou grad explores future of occupational therapy through robotics](https://showme.missouri.edu/2026/mizzou-grad-explores-future-of-occupational-therapy-through-robotics/)**
-
-In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
-
-Show Me Mizzou • 15h ago
-
----
-
-**[Reliable Robotics Prepares For Guam Deployment, TIA Campaign](https://aviationweek.com/aerospace/advanced-air-mobility/reliable-robotics-prepares-guam-deployment-tia-campaign)**
-
-Reliable Robotics is entering a critical phase in its effort to certify an automated Cessna Caravan.
-
-Aviation Week • 5h ago
+Hawaii News Now • 4h ago
 
 ---
 
@@ -148,21 +132,23 @@ Aviation Week • 5h ago
 
 Champaign-Urbana's two challenge robotics teams have earned spots at the 2026 FIRST Tech Challenge state championship.
 
-WANDTV.com • 5h ago
+WANDTV.com • 7h ago
 
 ---
 
-**[Midway Through The Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://seekingalpha.com/article/4871792-midway-through-robotics-earnings-season-discipline-rewarded-recovery-broadening)**
+**[Mizzou grad explores future of occupational therapy through robotics](https://showme.missouri.edu/2026/mizzou-grad-explores-future-of-occupational-therapy-through-robotics/)**
 
-Seeking Alpha • 4h ago
+In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
+
+Show Me Mizzou • 16h ago
 
 ---
 
-**[New Middletown High School robotics class sees teens creating, competing](https://www.journal-news.com/news/new-middletown-high-school-robotics-class-sees-teens-creating-competing/HZ5XHA4OLFEDRE7KMJTR7CP4VU/)**
+**[Reliable Robotics Prepares For Guam Deployment, TIA Campaign](https://aviationweek.com/aerospace/advanced-air-mobility/reliable-robotics-prepares-guam-deployment-tia-campaign)**
 
-A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
+Reliable Robotics is entering a critical phase in its effort to certify an automated Cessna Caravan.
 
-Middletown Journal • 12h ago
+Aviation Week • 6h ago
 
 ---
 
@@ -170,13 +156,29 @@ Middletown Journal • 12h ago
 
 Michigan Farm News
 
-Michigan Farm News • 11h ago
+Michigan Farm News • 12h ago
 
 ---
 
-**[RR Investors Have Opportunity to Lead Richtech Robotics Inc. Securities Fraud Lawsuit First Filed by the Rosen Law Firm](https://www.morningstar.com/news/pr-newswire/20260218dc90892/rr-investors-have-opportunity-to-lead-richtech-robotics-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm)**
+**[New Middletown High School robotics class sees teens creating, competing](https://www.journal-news.com/news/new-middletown-high-school-robotics-class-sees-teens-creating-competing/HZ5XHA4OLFEDRE7KMJTR7CP4VU/)**
 
-Morningstar • 5h ago
+A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
+
+Middletown Journal • 13h ago
+
+---
+
+**[Midway Through The Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://seekingalpha.com/article/4871792-midway-through-robotics-earnings-season-discipline-rewarded-recovery-broadening)**
+
+Seeking Alpha • 5h ago
+
+---
+
+**[Texas AG Ken Paxton sues Anzu Robotics over alleged China-linked drones](https://www.click2houston.com/news/local/2026/02/18/texas-ag-ken-paxton-sues-anzu-robotics-over-alleged-china-linked-drones/)**
+
+Texas AG Ken Paxton sues Anzu Robotics, alleging its drones come from Chinese manufacturer DJI and pose potential data and security risks.
+
+Click2Houston • 7h ago
 
 ---
 
@@ -190,7 +192,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 145K • 👍 1K • 💬 111 • ⏱️ 0:32 • 21h ago
+👁️ 145K • 👍 1K • 💬 111 • ⏱️ 0:32 • 23h ago
 
 ---
 
@@ -230,7 +232,7 @@ China Media Group's 2026 Spring Festival Gala drew widespread attention with a p
 
 📺 Guardian News
 
-👁️ 230K • 👍 383 • 💬 256 • ⏱️ 0:52 • 23h ago
+👁️ 230K • 👍 383 • 💬 256 • ⏱️ 0:52 • 1d ago
 
 ---
 

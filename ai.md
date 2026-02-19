@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-19T04:31:58.425683+00:00'
+updated: '2026-02-19T06:00:04.395671+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- repositories
 - social
 - videos
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 19, 2026 at 04:31 UTC  
+**Last Updated:** February 19, 2026 at 06:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 It has now turned into a full-blown social media meltdown, and authorities have reportedly asked the university to withdraw from the AI show.
 
-16h ago
+17h ago
 
 ---
 
@@ -49,7 +49,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 "Machine learning can be used to fully reconstruct particle collisions at the LHC [Large Hadron Collider]. This new approach can reconstruct collisions more quickly and precisely than traditional methods, helping physicists better understand LHC data. [...] Each proton–proton collision at the LHC sprays out a complex pattern of particles that must be carefully reconstructed to allow physicists to study what really happened. For more than a decade, CMS has used a particle-flow (PF) algorithm, which combines information from the experiment's different detectors, to identify each particle produced in a collision. Although this method works remarkably well, it relies on a long chain of hand-crafted rules designed by physicists. The new CMS machine-learning-based particle-flow (MLPF) algorithm approaches the task fundamentally differently, replacing much of the rigid hand-crafted logic with a single model trained directly on simulated collisions. Instead of being told how to reconstruct particles, the algorithm learns how particles look in the detectors, like how humans learn to recognize faces without memorizing explicit rules. When benchmarked using data mimicking that from the current LHC run, the performance of the new machine-learning algorithm matched that of the traditional algorithm and, in some cases, even exceeded it. For example, when tested on simulated events in which top quarks were created, the algorithm improved the precision with which sprays of particles—known as jets—were reconstructed by 10%–20% in key particle momentum ranges. The new algorithm also allows a collision to be fully reconstructed far more quickly than before, because it can run efficiently on modern electronic chips known as graphics processing units (GPUs). Traditional algorithms typically need to run on central processing units (CPUs), which are often slower than GPUs for such tasks."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 1h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain claude-desktop-debian on GitHub, so I had a full archive of builds to compare against. Claude for Government showed up on Anthropic's status tracker February 17th. I pulled the binary from the same day and confirmed the implementation in code. The whole gov mode gates on a single enterprise config key. Set customDeploymentUrl to claude.fedstart.com and the app reroutes everything: traffic, auth, telemetry, network egress. Palantir's FedStart platform handles the accreditation layer. Eight prior releases had zero trace of this code. It all landed in one build. There's also a $1 GSA OneGov deal that gives all three branches of government a year of access, and Sonnet 4.6 shipped the same day with a 1 million token context window. Full breakdown and a separate technical report with code samples linked above.
 
-🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 23h ago
+🔗 [aaddrick.com](https://aaddrick.com/blog/claude-for-government-the-last-lab-standing) • 1d ago
 
 ---
 
@@ -73,7 +73,7 @@ https://aaddrick.com/blog/claude-for-government-the-last-lab-standing I maintain
 
 You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. While we look towards new models that are likely to get a bit better, but what can we do today, right now? Perhaps not a novel idea, but I was toying with making one llm check an opinion of another llm. This is specifically useful in areas where I am not competent. This is what llms are for, to advise, but llms have good days and bad days, and bad prompts.. Sometimes you need to walk an llm to get to the best opinion. This is fine when you can know the topic and appreciate that the final decision is close to what one can accept as good enough. But there are times when one can't know if that an opinion of llm is good enough to follow. But, man, one wants a bit of certainty in this uncertain and imperfect world. Somewhere down this rabit hole, I played games with llm, was pasting one llm's opinion into another llm to get another perspective and gauge how good the first opinion is. It was working out ok, I'd bring concerns back to the original llm and have it explain the choice there. The courier it back and after some back and forth, I felt like 2 llms was way better than one. Overall, it was producing better results, the combination of llms with a bit of hands-on of human orchestration. Got me thinking, why not automate. The issue was there that llms often didn't do a good job by themselves. The topic would be ignored, some minutia detail will be argued to death, it was often going off the rails. BUT! It was great when it worked. It got me thinking, what llms were missing is a structured protocol to hold llms on true and narrow. I started hooking up something close to human debate rules. And it got traction and results. The whole idea that came out is more complicated in the end, here are some interesting items: Overview: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-EXPLAINED-FOR-HUMANS.md (here much talked about how to make llms be responsible for good outputs through adversarial debate) And a bit of theory: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/SCIENTIFIC.md Then graphs: https://github.com/Alex-R-A/llm-argumentation-protocol/blob/main/PROTOCOL-FLOW-DIAGRAMS.md Overall, returning to the main point, you can make different llms (even across brands) argue to what they know, show proof of their thinking, and get to defend or attack a point. Again, this is cumulative wisdom, so to speak, and then adversarial consensus. Also, doesn't allow any one single llm to simply make stuff up, or give a poor quality answer. Github repo to the claude code skill: https://github.com/Alex-R-A/llm-argumentation-protocol
 
-17h ago
+18h ago
 
 ---
 
@@ -81,7 +81,7 @@ You probably know how llms hallucinate, hedge, don't anchor, confabulate, etc. W
 
 Japanese company seeks to help copyright holders receive share of revenue
 
-🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 21h ago
+🔗 [Nikkei Asia](https://asia.nikkei.com/business/technology/artificial-intelligence/sony-group-tech-can-identify-original-music-in-ai-generated-songs) • 23h ago
 
 ---
 
@@ -113,7 +113,7 @@ The blockbuster investment comes as India pushes to gain a stronger foothold in 
 
 So the guy who built OpenClaw, originally called Clawdbot because it was literally named after Anthropic's Claude, just got hired by OpenAI. Not Anthropic. OpenAI. You can't make this stuff up. For those out of the loop: OpenClaw is that open-source AI assistant that actually DOES things instead of just talking about doing things. You run it on a Mac Mini or whatever, connect it to your WhatsApp/Telegram/Slack, and it handles your emails, browses the web, runs code, manages your calendar, all autonomously. It even has a "heartbeat" where it wakes up on its own and checks on stuff without you asking. The project went from like 9k to 145k+ GitHub stars in weeks. Caused actual Mac Mini shortages. Jason Calacanis says his company offloaded 20% of tasks to it in 20 days and doesn't plan to hire humans for a year. Peter Steinberger (the creator) is now leading OpenAI's "personal agents" division. OpenClaw stays open source under a foundation. Both Meta and OpenAI were fighting over him, apparently. The security concerns are real, though, Cisco found third-party skills doing data exfiltration without users knowing. One of OpenClaw's own maintainers said if you can't use a command line, this project is too dangerous for you, lol. But yeah. We're officially in the "AI agents that do stuff" era now. Chatbots feel like last year already. Anyone here actually running OpenClaw? What's your setup?
 
-1d ago
+2d ago
 
 ---
 
@@ -123,75 +123,75 @@ So the guy who built OpenClaw, originally called Clawdbot because it was literal
 
 **[Meta Begins $65 Million Election Push to Advance A.I. Agenda](https://www.nytimes.com/2026/02/18/technology/meta-65-million-election-ai.html)**
 
-The New York Times • 9h ago
+The New York Times • 13h ago
 
 ---
 
-**[Indian university faces backlash for claiming Chinese robodog as own at AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
+**[I hacked ChatGPT and Google's AI – and it only took 20 minutes](https://www.bbc.com/future/article/20260218-i-hacked-chatgpt-and-googles-ai-and-it-only-took-20-minutes)**
 
-A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
+I found a way to make AI tell you lies – and I'm not the only one.
 
-BBC • 17h ago
-
----
-
-**[Bill Gates cancels keynote address at India AI summit](https://www.yahoo.com/news/articles/bill-gates-cancels-keynote-address-031443252.html)**
-
-Bill Gates pulled out of India's AI Impact Summit hours before his scheduled keynote address on Thursday, dealing another blow ‌to a flagship event already marred by organisational lapses, a robot bun...
-
-Yahoo • 1h ago
+BBC • 20h ago
 
 ---
 
-**[OpenAI to Partner With Tata for AI Data Center Buildout in India](https://www.bloomberg.com/news/articles/2026-02-19/openai-to-partner-with-tata-for-ai-data-center-buildout-in-india)**
+**[Modi, Macron and Global Tech Leaders Speak at India's AI Summit](https://www.bloomberg.com/news/live-blog/2026-02-19/india-ai-impact-summit-2026)**
 
-Bloomberg.com • 27m ago
-
----
-
-**[Moratorium on large AI data centers in Maine under consideration](https://wgme.com/news/local/moratorium-on-large-ai-data-centers-in-maine-under-consideration)**
-
-There are currently no large-scale AI data centers in Maine, but a proposed moratorium would put a pause on any plans to change that.
-
-WGME • 2h ago
+Bloomberg.com • 22m ago
 
 ---
 
-**[Data Land USA: PG&E says it won't let AI data centers raise Central Valley power bills](https://abc30.com/post/data-land-usa-pge-says-let-ai-centers-raise-central-valley-power-bills/18617812/)**
+**[Bill Gates a no-show at India AI summit, event marred by organisational chaos](https://www.reuters.com/world/india/bill-gates-cancels-keynote-address-india-ai-summit-2026-02-19/)**
 
-With the rise of AI and cloud computing, some neighborhoods are getting a little louder.
-
-ABC30 Fresno • 2h ago
+Reuters • 2h ago
 
 ---
 
-**[Where does India fit in the global AI value chain? Futurum CEO discusses](https://www.cnbc.com/video/2026/02/19/futurum-ceo-discusses-where-india-fits-in-the-global-ai-value-chain.html)**
+**[Bill Gates cancels AI summit keynote address amid fresh scrutiny over Epstein links](https://www.cnn.com/2026/02/18/india/bill-gates-india-summit-keynote-intl-hnk)**
 
-Dan Newman of Futurum says India has the potential to become a "global technology powerhouse," particularly given its deep talent pool. However, he cautions that advances in artificial intelligence could pose risks to the labor market, especially in India.
+Bill Gates has pulled out of delivering his keynote address at an AI summit in India Thursday, his foundation said, as the billionaire faces scrutiny over his ties to late convicted sex offender Jeffrey Epstein.
 
-CNBC • 6m ago
-
----
-
-**[The Worst-Case Future for White-Collar Workers](https://www.theatlantic.com/ideas/2026/02/ai-white-collar-jobs/686031/)**
-
-The well-off have no experience with the job market that might be coming.
-
-The Atlantic • 15h ago
+CNN • 53m ago
 
 ---
 
-**[India tells university to leave AI summit after presenting Chinese robot as its own, sources say](https://www.reuters.com/world/china/india-tells-university-leave-ai-summit-after-presenting-chinese-robot-its-own-2026-02-18/)**
+**[Bill Gates To Skip Keynote Address At India AI Summit Amid Epstein Files Row](https://www.ndtv.com/india-news/bill-gates-to-not-deliver-keynote-address-at-india-ai-summit-11056641)**
 
-Reuters • 20h ago
+Bill Gates will not deliver the keynote address at the India AI Impact Summit today, the Gates Foundation said amid a row over his name appearing in the Epstein files.
+
+NDTV • 2h ago
 
 ---
 
-**[A robotic dog made in China gets an Indian university kicked out of an AI summit](https://apnews.com/article/india-ai-chinese-galgotias-university-robotic-dog-850acd70109cae9ae34c2b78923b2cbb)**
+**[Watch CNBC's full interview with Microsoft President Brad Smith at the AI Impact Summit in India](https://www.cnbc.com/video/2026/02/19/watch-cnbcs-full-interview-with-microsoft-president-brad-smith-at-the-ai-impact-summit-in-india.html)**
 
-A private Indian university has been booted from a top artificial intelligence summit in New Delhi after one of its staffers displayed a a commercially available robotic dog made in China, claiming it was the university’s own innovation.
+Microsoft President Brad Smith told CNBC’s Arjun Kharpal that U.S. tech companies should “worry a little bit” about the subsidies their Chinese competitors receive from their government in the AI race. They were speaking at the sidelines of the AI Impact Summit in New Delhi, India.
 
-Associated Press News • 15h ago
+CNBC • 1h ago
+
+---
+
+**[The bogus four-day workweek that AI supposedly ‘frees up’](https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek)**
+
+Business leaders tout AI as a path to shorter weeks and better balance. But without power, workers are unlikely to share the gains
+
+The Guardian • 16h ago
+
+---
+
+**[Agentic AI, explained](https://mitsloan.mit.edu/ideas-made-to-matter/agentic-ai-explained)**
+
+The age of agentic AI — systems that are semi- or fully autonomous and can act on their own — has arrived. Here’s what you need to know, according to MIT experts.
+
+MIT Sloan • 14h ago
+
+---
+
+**[People are applauding a software engineer's 'honest take' on AI in the workplace](https://www.businessinsider.com/dax-raad-post-ai-coding-workplace-bottleneck-productivity-2026-2)**
+
+OpenCode creator Dax Raad argued it isn't necessarily a good thing that AI is lowering the cost of production for companies.
+
+Business Insider • 10h ago
 
 ---
 
@@ -203,7 +203,7 @@ Associated Press News • 15h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 771 • 💬 708 • 1d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 774 • 💬 711 • 1d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -211,7 +211,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 
 Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Texas state Rep. James Talarico on the broadcast.
 
-⬆️ 520 • 💬 245 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 520 • 💬 246 • 1d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
 
 ---
 
@@ -237,7 +237,7 @@ It's likely the bot was running through someone's local 'agentic AI' instance (l
 
 AI companies have bought out Western Digital's storage capacity for 2026. It's only February.
 
-⬆️ 374 • 💬 312 • 2d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
+⬆️ 374 • 💬 313 • 2d ago • [Mashable](https://mashable.com/article/ai-hard-drive-hdd-shortages-western-digital-sold-out)
 
 ---
 
@@ -245,7 +245,7 @@ AI companies have bought out Western Digital's storage capacity for 2026. It's o
 
 opinion: The subtractive bias we're ignoring
 
-⬆️ 274 • 💬 208 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 275 • 💬 208 • 1d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -253,7 +253,7 @@ opinion: The subtractive bias we're ignoring
 
 fragments 18 Feb 2026
 
-⬆️ 184 • 💬 134 • 12h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 185 • 💬 137 • 13h ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -261,7 +261,7 @@ fragments 18 Feb 2026
 
 I’m sitting on a lānai in a hotel in Waikiki beach, writing this article, and wondering if the job I am starting nine days from now will be my last.This is a...
 
-⬆️ 163 • 💬 259 • 2d ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
+⬆️ 163 • 💬 260 • 2d ago • [anthony.noided.media](https://anthony.noided.media/blog/ai/programming/2026/02/14/i-guess-i-kinda-get-why-people-hate-ai.html)
 
 ---
 
@@ -273,9 +273,9 @@ I think I have an idea why we're so extremely divided on AI: it's because we hav
 
 ---
 
-**[An AI Agent Published a Hit Piece on Me – Forensics and More Fallout](https://news.ycombinator.com/item?id=47051956)**
+**[What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://news.ycombinator.com/item?id=47061642)**
 
-⬆️ 118 • 💬 80 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-3/)
+⬆️ 121 • 💬 100 • 15h ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
 
 ---
 
@@ -289,7 +289,7 @@ I came back to this old prompt as I just love the dreamy feel of it. These beaut
 
 📺 Kelly Boesch AI Art
 
-👁️ 14K • 👍 1K • 💬 92 • ⏱️ 2:53 • 14h ago
+👁️ 14K • 👍 1K • 💬 92 • ⏱️ 2:53 • 15h ago
 
 ---
 
@@ -299,7 +299,7 @@ GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED
 
 📺 Art Chad
 
-👁️ 82K • 👍 8K • 💬 811 • ⏱️ 24:36 • 11h ago
+👁️ 82K • 👍 8K • 💬 811 • ⏱️ 24:36 • 12h ago
 
 ---
 
@@ -309,7 +309,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 28K • 👍 3K • 💬 1K • ⏱️ 28:51 • 5h ago
+👁️ 28K • 👍 3K • 💬 1K • ⏱️ 28:51 • 6h ago
 
 ---
 
@@ -431,7 +431,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 50,917 • ❤️ 576 • 2h ago
+⬇️ 50,917 • ❤️ 576 • 3h ago
 
 ---
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 13.7k • 🔱 1.4k • 1h ago
+⭐ 13.7k • 🔱 1.4k • 2h ago
 
 ---
 
@@ -689,7 +689,7 @@ The agent-native LLM router powering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 2.8k • 🔱 281 • 2m ago
+⭐ 2.8k • 🔱 281 • 1h ago
 
 ---
 
@@ -709,7 +709,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.5k • 🔱 308 • 15h ago
+⭐ 2.5k • 🔱 308 • 17h ago
 
 ---
 
@@ -719,7 +719,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.5k • 🔱 171 • 1h ago
+⭐ 2.5k • 🔱 171 • 2h ago
 
 ---
 
