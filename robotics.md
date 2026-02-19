@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-19T12:00:37.836655+00:00'
+updated: '2026-02-19T13:48:32.429132+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 19, 2026 at 12:00 UTC  
+**Last Updated:** February 19, 2026 at 13:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,11 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[A robot-caused human injury has occurred with G1. Their robot is trained to do whatever it takes to stand up after a fall. During that recovery attempt, it kicked someone in the nose, causing heavy bleeding and a possible fracture.](https://www.reddit.com/r/robotics/comments/1r8x33m/a_robotcaused_human_injury_has_occurred_with_g1/)**
+
+From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
+
+2h ago
+
+---
+
 **[My Unitree Go2 Pro Setup](https://www.reddit.com/r/robotics/comments/1r8uw3u/my_unitree_go2_pro_setup/)**
 
 [Disclaimer: This text was not touched by AI, this is solely by me, so a few formulation issues might be hidden in there] TLDR: - With some tricks, even the cheaper quadruped models can be used for complex tasks - Reliable and low-latency remote operation and monitoring is hard. But here, wireless is usually the bottleneck, not the VPN - Foxglove UI is pretty neat (not fully open-source) - Having a good dev environment setup from the start is invaluable - A lot can be done with a pure open-source stack! The video shows a setup I've been working on for a while now. Early last year, I took quite a portion of my savings to get my hands on a quadruped robot. These savings did not even get me the full ROS2-ready setup that one needs to actually build a cool application, I had to make quite a few detours (some that probably voided the warranty, but let us not get deeper into it). In any case, I had time the last few days (and nights) to finally setup a clean and performant development and introspection environment for my robot. As you can see from the video, this includes full remote control and monitoring of the inner going-ons. I initially tried sending the whole DDS traffic through my network, but due to obvious overhead reasons, this was not really scalable, especially when wanting a live feed of camera and LiDAR data that is low latency enough for "secure" remote manipulation. The next iteration took me down the road of WebRTC, a protocol that only transmits frame differences, reducing traffic significantly. The results for the camera streams were impressive, but this meant I would have to tackle a conversion layer for each topic, again not a clean solution. Finally, I tried out Foxglove. Although not fully open-source, they use a web socket connection, therefore again avoiding DDS congestion. While it might seem a bit less performant than the custom WebRTC solution, the amazing UI and compatability with my ROS2 setup speaks for itself. Also by the way, the setup above is not solely within a local network! I can spin up this bad boy all over the world through my self-hosted Headscale VPN (WireGuard on the backend). Through testing (and some help with the friends at Technologiehub Wien), I found out that the VPN latency is less of a bottleneck than the wireless connection. Making sure that a non-crowded 5GHz channel is used was an enormous performance boost. Concerning the ROS2 setup, everything is ready to add Nav2 support. LiDAR access works, tf tree looks good and odometry information is also already there. This will be the task to tackle next. The whole setup is dockerized and remote development is pretty easy through the SSH connection via the VPN and a custom devcontainer (although it took a while to get ROS2 Jazzy + CUDA cores working correctly...). In case anyone has read this far: - Should I open-source my setup (including VPN optimizations)? - Any idea how I can get my invested money back? (Not a big issue, I learned so much and am having a blast!) - What would you do with this robot? - Any improvement suggestions? Thats it, goodbye and thank's for the fish!
 
-2h ago
+4h ago
+
+---
+
+**[Announcing Webots Academy: A zero-setup, browser-based simulation platform for universities](https://www.reddit.com/r/robotics/comments/1r8vc70/announcing_webots_academy_a_zerosetup/)**
+
+3h ago
 
 ---
 
@@ -46,55 +60,41 @@ Robotics research and industry news
 
 ---
 
-**[Is there a platform to find faculties working/ researching on SLAM?](https://www.reddit.com/r/robotics/comments/1r8spd4/is_there_a_platform_to_find_faculties_working/)**
+**[4 DOF SCARA robot trajectory planning help](https://www.reddit.com/r/robotics/comments/1r8y9iw/4_dof_scara_robot_trajectory_planning_help/)**
 
-Hi all, as the title states is there a platform that consolidates a list of people based on research topics? I am looking to find professors working on slam or perception in the UK. Thanks.
-
-4h ago
-
----
-
-**[Announcing Webots Academy: A zero-setup, browser-based simulation platform for universities](https://www.reddit.com/r/robotics/comments/1r8vc70/announcing_webots_academy_a_zerosetup/)**
+Hello everyone I currently have a 4-axis SCARA robot where I am trying to ensure a safe zone and an effective trajectory along the xy axis (I only move along the z axis at certain moments) I tried to calculate viapoints (between points) using a cubic polynomial, but safety suffers there - it gets very close to itself and almost collides I also need to limit the area outside the manipulator so that it definitely does not go beyond a certain x and a certain y. I understand that Cartesian coordinates/limits are of no use here, since the robot moves in joint space. But now I would like some guidance and maybe some links to the project I am using python and robot's SDK (basic methods to move given the coordinates through IK, change orientation) etc etc
 
 1h ago
 
 ---
 
-**[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
+**[Simple Deployment of Ultralytics YOLO26 for ROS 2](https://www.reddit.com/r/robotics/comments/1r8xlb0/simple_deployment_of_ultralytics_yolo26_for_ros_2/)**
+
+1h ago
+
+---
+
+**[Is there a platform to find faculties working/ researching on SLAM?](https://www.reddit.com/r/robotics/comments/1r8spd4/is_there_a_platform_to_find_faculties_working/)**
+
+Hi all, as the title states is there a platform that consolidates a list of people based on research topics? I am looking to find professors working on slam or perception in the UK. Thanks.
 
 6h ago
 
 ---
 
-**[Opinion on MS Robotics at WPI / Oregon State / JHU](https://www.reddit.com/r/robotics/comments/1r8ogvw/opinion_on_ms_robotics_at_wpi_oregon_state_jhu/)**
+**[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
 
 8h ago
 
 ---
 
+**[Opinion on MS Robotics at WPI / Oregon State / JHU](https://www.reddit.com/r/robotics/comments/1r8ogvw/opinion_on_ms_robotics_at_wpi_oregon_state_jhu/)**
+
+10h ago
+
+---
+
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
-
-22h ago
-
----
-
-**[Battle Bots Competition – March 7 at Renaissance Youth Center (South Bronx)](https://www.reddit.com/r/robotics/comments/1r8gfbh/battle_bots_competition_march_7_at_renaissance/)**
-
-14h ago
-
----
-
-**[Here's a great tutorial for Visual SLAM using a RealSense 3D stereo depth camera in RGBD mode running on NVIDIA Isaac ROS](https://www.reddit.com/r/robotics/comments/1r87zgt/heres_a_great_tutorial_for_visual_slam_using_a/)**
-
-https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
-
-19h ago
-
----
-
-**[I got tired of making midnight snacks, so I built Panbot 🤖🥞 (SO-ARM101 Project)](https://www.reddit.com/r/robotics/comments/1r7bpyc/i_got_tired_of_making_midnight_snacks_so_i_built/)**
-
-If you're curious about how it actually works, check out my full video here 🥺🥺🥹: https://youtu.be/SyGJ2h8aM98?si=gUOa0jV8wwxQTysp The video shows the entire 100% automated pipeline and, more importantly, how the model autonomously recovers from mistakes (like when the pancake doesn't land perfectly). It's much more than just a simple motion sequence! GitHub & Hugging Face links are in the description of the video. I made Panbot 🤖🥞, a 100% autonomous pancake cooking robot using the SO-ARM101. Is it faster than cooking by hand? No. But is it way cooler? I think so. Honestly, I didn't expect ACT (Action Chunking Transformer) to handle physical tasks this effectively. I thought it might be limited, but it turns out it actually performs way better when trained on short, simple primitives. So, I decomposed the cooking process into three tasks and implemented a high-level planner to orchestrate them. The GIF above highlights Task2, which focuses specifically on the flipping motion. Task 1: Batter pouring \ Task 2: Pancake flipping \ Task 3: Plating Check out the full automated operation video on my YouTube.
 
 1d ago
 
@@ -104,27 +104,57 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 ## Google News: "robotics"
 
-**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
-
-Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
-
-TechCrunch • 17h ago
-
----
-
 **[China’s dancing robots: how worried should we be?](https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show)**
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 18h ago
+The Guardian • 20h ago
 
 ---
 
-**[AI-enabled robotics could shift global manufacturing power, CEO of Alphabet company says](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
+**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
-When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-CNBC • 23h ago
+TechCrunch • 19h ago
+
+---
+
+**[Nauticus Robotics, Inc. Announces Major Leadership Enhancements, Aquanaut Manufacturing Expansion, and Accelerated Growth Strategy](https://www.prnewswire.com/news-releases/nauticus-robotics-inc-announces-major-leadership-enhancements-aquanaut-manufacturing-expansion-and-accelerated-growth-strategy-302692564.html)**
+
+/PRNewswire/ -- Nauticus Robotics, Inc. (NASDAQ: KITT) ("Nauticus" or the "Company"), a pioneer in autonomous subsea robotics and AI-driven offshore solutions,...
+
+PR Newswire • 9m ago
+
+---
+
+**[Hawaii robotics team qualifies for World Championships](https://www.hawaiinewsnow.com/2026/02/19/hawaii-robotics-team-qualifies-world-championships/)**
+
+Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
+
+Hawaii News Now • 11h ago
+
+---
+
+**[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
+
+Zacks Investment Research • 47m ago
+
+---
+
+**[Drunken boxing and backflips: China put on a robot kung fu display that shows how fast its robotics industry is growing](https://www.businessinsider.com/china-kung-fu-humanoid-robots-performance-spring-festival-gala-unitree-2026-2)**
+
+China's humanoid robots performed kung fu on national TV, stunning viewers with how quickly the technology has advanced.
+
+Business Insider • 8h ago
+
+---
+
+**[Robotics & Smart Manufacturing Conference](https://carlsquare.com/events/robotics-smart-manufacturing-conference/)**
+
+The second edition of this exclusive conference gathers leading investors, founders, and executives from robotics, manufacturing, automation, and software. It offers direct access to the people and ideas driving the next generation of industrial innovation.
+
+Carlsquare Corporate Finance • 2h ago
 
 ---
 
@@ -132,53 +162,21 @@ CNBC • 23h ago
 
 Industrial robot installations remain near record levels and are projected to keep rising through 2028.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 4h ago
 
 ---
 
-**[Canadian Shipyard Turns to AI Robotics to Automate One of Shipbuilding’s Toughest Jobs](https://gcaptain.com/canadian-shipyard-turns-to-ai-robotics-to-automate-one-of-shipbuildings-toughest-jobs/)**
+**[Robotics trade in focus: 2 overlooked stock picks](https://uk.finance.yahoo.com/video/robotics-trade-focus-2-overlooked-113006524.html)**
 
-Seaspan Shipyards has awarded a $1.5 million contract to Alberta-based Confined Space Robotics to develop semiautonomous systems for blast and paint operations, marking a significant push toward automation in one of shipbuilding’s most hazardous and labor-intensive processes.
-
-gCaptain • 16h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
-**[Columbus AI robotics company signs R&D deal with nation's largest shipbuilder](https://www.bizjournals.com/columbus/news/2026/02/18/path-robotics-hii-ai-welding-shipbuilding.html)**
+**[From robotics to public safety: Explore options at Jackson Area Career Center open house](https://www.mlive.com/news/jackson/2026/02/explore-options-at-jackson-area-career-center-at-annual-open-house.html)**
 
-The Business Journals • 1d ago
+The event, from 4 to 7 p.m. Thursday, Feb. 26, welcomes eighth through 11th-grade students to tour classrooms and labs, meet instructors, and see how students gain hands-on experience in high-demand fields.
 
----
-
-**[Bellefontaine Robotics make strong run at Meaden and Moore](https://www.peakofohio.com/local-news/bellefontaine-robotics-make-strong-run-at-meaden-and-moore/)**
-
-Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
-
-Peak of Ohio • 2d ago
-
----
-
-**[Inside automakers’ strategic bet on humanoid robots beyond the assembly line](https://www.autonews.com/technology/an-automakers-turn-to-robots-for-future-business-0218/)**
-
-Automakers from Tesla to Hyundai are pivoting into humanoid robots, betting their manufacturing expertise will dominate a market projected at $7.5 trillion by 2050.
-
-Automotive News • 1d ago
-
----
-
-**[Chinese Humanoid Robots Fight in San Francisco, Sparking New Boxing League Plans](https://www.eweek.com/news/chinese-humanoid-robots-san-francisco-boxing-match/)**
-
-Robot boxing drew paying fans in San Francisco as VR pilots controlled Unitree G1 humanoids, hinting at a future league of heavier, full-height fighters.
-
-eWeek • 15h ago
-
----
-
-**[A robotic dog made in China gets an Indian university kicked out of an AI summit](https://apnews.com/article/india-ai-chinese-galgotias-university-robotic-dog-850acd70109cae9ae34c2b78923b2cbb)**
-
-A private Indian university has been booted from a top artificial intelligence summit in New Delhi after one of its staffers displayed a a commercially available robotic dog made in China, claiming it was the university’s own innovation.
-
-Associated Press News • 22h ago
+MLive.com • 2h ago
 
 ---
 
@@ -186,23 +184,23 @@ Associated Press News • 22h ago
 
 ## YouTube Videos: "robotics"
 
+**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+
+Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+
+📺 10 News
+
+👁️ 12K • 👍 353 • 💬 333 • ⏱️ 3:42 • 5h ago
+
+---
+
 **[A Whole Bunch of Robots Sending New Year Greetings to Everyone!](https://www.youtube.com/watch?v=w4IOJH9Akhg)**
 
 The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Cooperative Rapid Scheduling System.
 
 📺 Unitree Robotics
 
-👁️ 156K • 👍 1K • 💬 119 • ⏱️ 0:32 • 1d ago
-
----
-
-**[China&#39;s humanoid robots take center stage at Lunar New Year show](https://www.youtube.com/watch?v=stNO7V8xJHk)**
-
-Humanoid robots took the stage and captivated the world performing dances and kung fu during a Lunar New Year show in China ...
-
-📺 NBC News
-
-👁️ 166K • 👍 1K • 💬 618 • ⏱️ 2:36 • 1d ago
+👁️ 159K • 👍 1K • 💬 125 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -212,7 +210,27 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 79K • 👍 1K • 💬 484 • ⏱️ 2:00 • 1d ago
+👁️ 86K • 👍 1K • 💬 559 • ⏱️ 2:00 • 1d ago
+
+---
+
+**[China&#39;s humanoid robots take center stage at Lunar New Year show](https://www.youtube.com/watch?v=stNO7V8xJHk)**
+
+Humanoid robots took the stage and captivated the world performing dances and kung fu during a Lunar New Year show in China ...
+
+📺 NBC News
+
+👁️ 190K • 👍 1K • 💬 660 • ⏱️ 2:36 • 1d ago
+
+---
+
+**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
+
+China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
+
+📺 Guardian News
+
+👁️ 256K • 👍 444 • 💬 358 • ⏱️ 0:52 • 1d ago
 
 ---
 
@@ -226,13 +244,13 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 ---
 
-**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
+**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
 
-China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
+Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
 
-📺 Guardian News
+📺 NDTV
 
-👁️ 246K • 👍 430 • 💬 286 • ⏱️ 0:52 • 1d ago
+👁️ 20K • 👍 90 • 💬 198 • ⏱️ 5:02 • 1d ago
 
 ---
 
@@ -242,47 +260,27 @@ The routine fused traditional martial arts with advanced robotics, featuring syn
 
 📺 The Sun
 
-👁️ 1.1M • 👍 18K • 💬 8K • ⏱️ 2:37 • 2d ago
+👁️ 1.1M • 👍 19K • 💬 9K • ⏱️ 2:37 • 2d ago
 
 ---
 
-**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
 
-Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
 
-📺 NDTV
+📺 NVIDIA
 
-👁️ 19K • 👍 86 • 💬 191 • ⏱️ 5:02 • 1d ago
-
----
-
-**[Humanoid Robots Perform in China&#39;s 2026 Lunar New Year Gala](https://www.youtube.com/watch?v=LPEGve_U1cY)**
-
-Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off slick Kung fu moves alongside young martial ...
-
-📺 New York Post
-
-👁️ 57K • 👍 901 • 💬 627 • ⏱️ 2:01 • 20h ago
+👁️ 14K • 👍 630 • ⏱️ 2:51 • 16h ago
 
 ---
 
-**[Dancing humanoid robots take centre stage at China&#39;s Lunar New Year Gala](https://www.youtube.com/watch?v=HEuhhanh878)**
+**[Humanoid robot performance showcases China’s massive technological leap](https://www.youtube.com/watch?v=qagfo9AUDEA)**
 
-The world is ringing in the year of the Fire Horse and China is marking Lunar New Year with an extraordinary and unique ...
+Humanoid robot performance showcases China's massive technological leap #technology #robotics #chinanews China's annual ...
 
-📺 Al Jazeera English
+📺 news.com.au
 
-👁️ 71K • 👍 785 • 💬 432 • ⏱️ 7:31 • 1d ago
-
----
-
-**[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
-
-Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
-
-📺 Unitree Robotics
-
-👁️ 694K • 👍 8K • 💬 1K • ⏱️ 1:41 • 2d ago
+👁️ 4K • 👍 71 • 💬 34 • ⏱️ 2:25 • 10h ago
 
 ---
 
