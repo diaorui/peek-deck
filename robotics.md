@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-19T07:12:52.999294+00:00'
+updated: '2026-02-19T08:03:42.588774+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 19, 2026 at 07:12 UTC  
+**Last Updated:** February 19, 2026 at 08:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,19 +42,19 @@ Robotics research and industry news
 
 Hello guys, I upgraded my first flight controller based on some errors I faced in my previous build and here is my V2 with more advanced features and future expansions for fixed wing drones or FPV drones. MCU STM32F405RGT6 Interfaces & IO ADC input for battery voltage measurement 89× PWM outputs 1× UART for radio 1x Barometer (BMP280) 1x Accelerometer (ICM-42688-PC) => BetaFlight compatible 1× UART for GPS 1x CAN bus expansion 1x SPI expansion 4× GPIOs SWD interface USB-C interface SD card slot for logging Notes Supports up to 12V input voltage Custom-designed PCB Hardware only All Fab Files included (Gerber/BOM/CPL/Schematic/PCB layout/PCB routing/and all settings)
 
-2h ago
+3h ago
 
 ---
 
 **[Opinion on MS Robotics at WPI / Oregon State / JHU](https://www.reddit.com/r/robotics/comments/1r8ogvw/opinion_on_ms_robotics_at_wpi_oregon_state_jhu/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hello guys, I upgraded my first flight controller based on some errors I faced i
 
 **[Battle Bots Competition – March 7 at Renaissance Youth Center (South Bronx)](https://www.reddit.com/r/robotics/comments/1r8gfbh/battle_bots_competition_march_7_at_renaissance/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -82,7 +82,7 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-14h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsen
 
 RSVP Here Food and drink will be provided. Please tell your friends.
 
-13h ago
+14h ago
 
 ---
 
@@ -108,7 +108,7 @@ RSVP Here Food and drink will be provided. Please tell your friends.
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -116,7 +116,7 @@ The Guardian • 13h ago
 
 Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 12h ago
+TechCrunch • 13h ago
 
 ---
 
@@ -124,7 +124,7 @@ TechCrunch • 12h ago
 
 Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
 
-Hawaii News Now • 5h ago
+Hawaii News Now • 6h ago
 
 ---
 
@@ -140,7 +140,7 @@ Show Me Mizzou • 18h ago
 
 Champaign-Urbana's two challenge robotics teams have earned spots at the 2026 FIRST Tech Challenge state championship.
 
-WANDTV.com • 8h ago
+WANDTV.com • 9h ago
 
 ---
 
@@ -148,7 +148,7 @@ WANDTV.com • 8h ago
 
 Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
 
-South China Morning Post • 3h ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -156,7 +156,7 @@ South China Morning Post • 3h ago
 
 Reliable Robotics is entering a critical phase in its effort to certify an automated Cessna Caravan.
 
-Aviation Week • 7h ago
+Aviation Week • 8h ago
 
 ---
 
@@ -164,7 +164,7 @@ Aviation Week • 7h ago
 
 Michigan Farm News
 
-Michigan Farm News • 13h ago
+Michigan Farm News • 14h ago
 
 ---
 
@@ -172,13 +172,13 @@ Michigan Farm News • 13h ago
 
 A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
 
-Middletown Journal • 14h ago
+Middletown Journal • 15h ago
 
 ---
 
 **[Midway Through The Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://seekingalpha.com/article/4871792-midway-through-robotics-earnings-season-discipline-rewarded-recovery-broadening)**
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -262,7 +262,7 @@ Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off s
 
 📺 New York Post
 
-👁️ 51K • 👍 839 • 💬 578 • ⏱️ 2:01 • 15h ago
+👁️ 51K • 👍 839 • 💬 578 • ⏱️ 2:01 • 16h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T07:12:52.989975+00:00'
+updated: '2026-02-19T08:03:42.579575+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - social
 - cryptocurrency
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 07:12 UTC  
+**Last Updated:** February 19, 2026 at 08:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
-12h ago
+13h ago
 
 ---
 
@@ -95,13 +95,13 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
 
-6h ago
+7h ago
 
 ---
 
 **[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -109,7 +109,7 @@ Because I transferred Bitcoin from my outside wallet - and sold (had to keep afl
 
 They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
 
-11h ago
+12h ago
 
 ---
 
@@ -123,7 +123,7 @@ My platform provider (lightning pay) pointed out a sailient point recently. They
 
 **[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -139,7 +139,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/qyRQ-sLU0bw) • 7h ago
+🔗 [youtu.be](https://youtu.be/qyRQ-sLU0bw) • 8h ago
 
 ---
 
@@ -157,13 +157,13 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 **[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://www.bloomberg.com/news/articles/2026-02-18/bitcoin-won-over-wall-street-and-now-it-s-paying-the-price)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
 **[Abu Dhabi Funds Add to Bitcoin Bets Despite Crypto Rout](https://www.bloomberg.com/news/articles/2026-02-18/abu-dhabi-funds-add-to-bitcoin-bets-despite-crypto-rout)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg.com • 17h ago
 
 Sen. Warren said that a bailout for cryptocurrency investors could "directly enrich" President Donald Trump and his family's company, World Liberty Financial.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -193,13 +193,13 @@ Financial Times • 1d ago
 
 **[Riot Surges On Activist Data Center Proposal, ARK Resumes Coinbase Buys](https://www.investors.com/news/bitcoin-miner-riot-platforms-activist-investor-starboard-value-data-center-transition-ark-invest-cathie-wood-coinbase-stock/)**
 
-Investor's Business Daily • 9h ago
+Investor's Business Daily • 10h ago
 
 ---
 
 **[Starboard Urges Bitcoin Miner Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/articles/2026-02-18/starboard-is-said-to-urge-riot-to-speed-up-shift-to-data-centers)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bloomberg.com • 13h ago
 
 FutureBit launched the Apollo III today, a new home Bitcoin mining system combining a high-performance miner and a full Bitcoin node in a single desktop device.
 
-Bitcoin Magazine • 12h ago
+Bitcoin Magazine • 13h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitcoin Magazine • 12h ago
 
 “I’m an observer of bitcoin,” Solomon said at the World Liberty Forum on Wednesday, saying he's still trying to understand how it moves.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -315,7 +315,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • 💬 7 • ⏱️ 28:28 • 9h ago
+👁️ 25K • 👍 1K • 💬 7 • ⏱️ 28:28 • 10h ago
 
 ---
 
@@ -365,7 +365,7 @@ Is the crypto correction finally over? In this urgent market update, Chief Marke
 
 📺 Gareth Soloway
 
-👁️ 62K • 👍 4K • 💬 401 • ⏱️ 10:10 • 14h ago
+👁️ 62K • 👍 4K • 💬 401 • ⏱️ 10:10 • 15h ago
 
 ---
 
@@ -405,7 +405,7 @@ On this week's episode of CNBC Crypto World, bitcoin settles in the $60000 after
 
 📺 CNBC Television
 
-👁️ 13K • 👍 264 • 💬 179 • ⏱️ 12:56 • 10h ago
+👁️ 13K • 👍 264 • 💬 179 • ⏱️ 12:56 • 11h ago
 
 ---
 
