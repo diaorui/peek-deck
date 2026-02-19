@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T02:13:40.313669+00:00'
+updated: '2026-02-19T04:31:58.433962+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
-- videos
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 02:13 UTC  
+**Last Updated:** February 19, 2026 at 04:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,23 +38,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,828.03
+### $66,881.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** -2.9%  
-**30d:** -25.4%  
-**90d:** -21.1%  
-**1y:** -32.0%  
+**24h:** -1.1%  
+**7d:** -2.8%  
+**30d:** -25.3%  
+**90d:** -20.9%  
+**1y:** -31.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1334.81B
+**Market Cap:** $1336.28B
 Rank #1
 
 **Circulating Supply:** 19,991,590 BTC
@@ -64,58 +64,36 @@ Rank #1
 -47.0%
 
 **All-Time Low:** $67.81
-+98378.1%
++98494.6%
 
 ---
 
 ## Fear & Greed Index
 
-### 8
+### 9
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
+**[Abu Dhabi Funds increased its bitcoin position by 46% to $1 Billion. As we've said--institutions are buying while retail is selling](https://www.reddit.com/r/Bitcoin/comments/1r8bfe3/abu_dhabi_funds_increased_its_bitcoin_position_by/)**
+
+Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
 9h ago
 
 ---
 
-**[Abu Dhabi Funds increased its bitcoin position by 46% to $1 Billion. As we've said--institutions are buying while retail is selling](https://www.reddit.com/r/Bitcoin/comments/1r8bfe3/abu_dhabi_funds_increased_its_bitcoin_position_by/)**
+**[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
-Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
-
-7h ago
+12h ago
 
 ---
 
 **[Anyone else panic buying?](https://www.reddit.com/r/Bitcoin/comments/1r87rne/anyone_else_panic_buying/)**
 
-9h ago
-
----
-
-**[TIL about the end of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r7twni/til_about_the_end_of_bitcoin/)**
-
-My platform provider (lightning pay) pointed out a sailient point recently. They showed how BTC had been declared "dead" 400 something times since 2009. They pointed out that if you only poked roughly $50 USD into BTC each one of those times (~20k ish total) you would be sitting on about 40 mil rn. Hard to comprehend, and especially hard for the folks that just can't get their head around it. Thoughts?
-
-21h ago
-
----
-
-**[stop listening to the technical analysis bros](https://www.reddit.com/r/Bitcoin/comments/1r8djax/stop_listening_to_the_technical_analysis_bros/)**
-
-They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
-
-6h ago
-
----
-
-**[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
-
-12h ago
+11h ago
 
 ---
 
@@ -123,7 +101,29 @@ They’ll say one thing one day (get out now, BTC is going to 60k), and another 
 
 Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
 
-1h ago
+3h ago
+
+---
+
+**[TIL about the end of Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r7twni/til_about_the_end_of_bitcoin/)**
+
+My platform provider (lightning pay) pointed out a sailient point recently. They showed how BTC had been declared "dead" 400 something times since 2009. They pointed out that if you only poked roughly $50 USD into BTC each one of those times (~20k ish total) you would be sitting on about 40 mil rn. Hard to comprehend, and especially hard for the folks that just can't get their head around it. Thoughts?
+
+23h ago
+
+---
+
+**[stop listening to the technical analysis bros](https://www.reddit.com/r/Bitcoin/comments/1r8djax/stop_listening_to_the_technical_analysis_bros/)**
+
+They’ll say one thing one day (get out now, BTC is going to 60k), and another thing the next day (BTC is going to 120k, get in now!). It’s all noise. Stick. To. The. Plan.
+
+8h ago
+
+---
+
+**[Peter Schiff explaining Bitcoin in 2013 - surprisingly, NOT AI](https://www.reddit.com/r/Bitcoin/comments/1r83o5q/peter_schiff_explaining_bitcoin_in_2013/)**
+
+14h ago
 
 ---
 
@@ -131,7 +131,7 @@ Because I transferred Bitcoin from my outside wallet - and sold (had to keep afl
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/qyRQ-sLU0bw) • 2h ago
+🔗 [youtu.be](https://youtu.be/qyRQ-sLU0bw) • 4h ago
 
 ---
 
@@ -147,7 +147,7 @@ https://www.imidaily.com/europe/dutch-lawmakers-approve-a-36-tax-on-unrealized-c
 
 I just hit 0.17 of a bitcoin today and wanted to document my journey here today. I know its not alot compared to what some people have but it is what it is. I also kick myself because I found an old coinbase receipt in my email from 2017 where I was buying BTC, I also had about 20k in BTC in July 2021 which I sold all of and then again in 2023 I bought a bunch and of course sold it. This time around I have a cold storage wallet that every-time I buy my BTC I sent it directly and immediately to the cold storage. I don't know where the price is going nor do i care I'm just going to keep buying a little bit everyday or week or month or whenever i can and document my journey here, BTC. I started in May of 2025 this process so lets see how long it takes me.
 
-22h ago
+1d ago
 
 ---
 
@@ -157,7 +157,7 @@ I just hit 0.17 of a bitcoin today and wanted to document my journey here today.
 
 **[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://www.bloomberg.com/news/articles/2026-02-18/bitcoin-won-over-wall-street-and-now-it-s-paying-the-price)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -165,19 +165,27 @@ Bloomberg.com • 13h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 5h ago
+Fortune • 7h ago
+
+---
+
+**[Bitcoin price news: BTC climbs to $67,000 as Trump says U.S. deficit cut by 78%](https://www.coindesk.com/markets/2026/02/19/bitcoin-shakes-off-u-s-session-losses-as-trump-says-u-s-trade-deficit-cut-by-78)**
+
+Investors are focused less on the accuracy of Trump’s trade figures and more on how renewed tariff talk could mean higher-for-longer interest rates.
+
+CoinDesk • 19m ago
 
 ---
 
 **[Riot Surges On Activist Data Center Proposal, ARK Resumes Coinbase Buys](https://www.investors.com/news/bitcoin-miner-riot-platforms-activist-investor-starboard-value-data-center-transition-ark-invest-cathie-wood-coinbase-stock/)**
 
-Investor's Business Daily • 4h ago
+Investor's Business Daily • 7h ago
 
 ---
 
 **[Starboard Urges Bitcoin Miner Riot to Speed Up Shift to Data Centers](https://www.bloomberg.com/news/articles/2026-02-18/starboard-is-said-to-urge-riot-to-speed-up-shift-to-data-centers)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -185,37 +193,7 @@ Bloomberg.com • 8h ago
 
 FutureBit launched the Apollo III today, a new home Bitcoin mining system combining a high-performance miner and a full Bitcoin node in a single desktop device.
 
-Bitcoin Magazine • 7h ago
-
----
-
-**[The Daily: Peter Thiel and Founders Fund exit ETHZilla, K33 says bitcoin is approaching 'late bear market territory,' and more](https://www.theblock.co/post/390379/the-daily-peter-thiel-and-founders-fund-exit-ethzilla-k33-says-bitcoin-is-approaching-late-bear-market-territory-and-more)**
-
-The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
-
-The Block • 8h ago
-
----
-
-**[Goldman Sachs CEO David Solomon, once a crypto skeptic, now says he owns Bitcoin](https://nypost.com/2026/02/18/business/goldman-sachs-ceo-david-solomon-once-a-crypto-skeptic-now-says-he-owns-bitcoin/)**
-
-Under Solomon’s leadership, Goldman has deepened crypto involvement, launching trading desks and custody services for institutional clients
-
-New York Post • 4h ago
-
----
-
-**[Goldman CEO Solomon, Long a Crypto Skeptic, Says He Owns Bitcoin](https://www.bloomberg.com/news/articles/2026-02-18/goldman-ceo-solomon-long-a-crypto-skeptic-says-he-owns-bitcoin)**
-
-Bloomberg.com • 9h ago
-
----
-
-**[Goldman Sachs' David Solomon says he owns 'very little' bitcoin but watching it closely](https://www.coindesk.com/markets/2026/02/18/goldman-sachs-david-solomon-says-he-owns-very-little-bitcoin-but-watching-it-closely)**
-
-“I’m an observer of bitcoin,” Solomon said at the World Liberty Forum on Wednesday, saying he's still trying to understand how it moves.
-
-CoinDesk • 9h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -223,7 +201,29 @@ CoinDesk • 9h ago
 
 Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
 
-Business Insider • 11h ago
+Business Insider • 13h ago
+
+---
+
+**[Brevan Howard’s crypto fund slumped 30% in 2025 amid bitcoin rout](https://www.ft.com/content/8fc6edbb-adb8-46a2-84f4-e2b0bbc50aa2)**
+
+Hedge fund manager’s digital asset strategy stung by ‘terrible year’ for cryptocurrencies
+
+Financial Times • 23h ago
+
+---
+
+**[Goldman Sachs CEO David Solomon, once a crypto skeptic, now says he owns Bitcoin](https://nypost.com/2026/02/18/business/goldman-sachs-ceo-david-solomon-once-a-crypto-skeptic-now-says-he-owns-bitcoin/)**
+
+Under Solomon’s leadership, Goldman has deepened crypto involvement, launching trading desks and custody services for institutional clients
+
+New York Post • 7h ago
+
+---
+
+**[Goldman CEO Solomon, Long a Crypto Skeptic, Says He Owns Bitcoin](https://www.bloomberg.com/news/articles/2026-02-18/goldman-ceo-solomon-long-a-crypto-skeptic-says-he-owns-bitcoin)**
+
+Bloomberg.com • 11h ago
 
 ---
 
@@ -295,7 +295,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 3 • 💬 1 • 7h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 3 • 💬 1 • 9h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
 
 ---
 
@@ -311,23 +311,13 @@ Crypto Pay with Escrow
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin is in a ‘crypto winter,’ says Strategy founder](https://www.youtube.com/watch?v=H-LEbgIojgA)**
-
-Strategy founder and executive chairman Michael Saylor discusses the current 'crypto winter' for Bitcoin, financial stability and the ...
-
-📺 Fox Business
-
-👁️ 65K • 👍 1K • 💬 7K • ⏱️ 11:33 • 19h ago
-
----
-
 **[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
 
 Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
 
 📺 Altcoin Daily
 
-👁️ 102K • 👍 4K • 💬 570 • ⏱️ 10:49 • 2d ago
+👁️ 104K • 👍 4K • 💬 572 • ⏱️ 10:49 • 2d ago
 
 ---
 
@@ -337,7 +327,17 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 736 • 💬 7 • ⏱️ 28:28 • 4h ago
+👁️ 19K • 👍 945 • 💬 7 • ⏱️ 28:28 • 6h ago
+
+---
+
+**[Bitcoin is in a ‘crypto winter,’ says Strategy founder](https://www.youtube.com/watch?v=H-LEbgIojgA)**
+
+Strategy founder and executive chairman Michael Saylor discusses the current 'crypto winter' for Bitcoin, financial stability and the ...
+
+📺 Fox Business
+
+👁️ 68K • 👍 1K • 💬 7K • ⏱️ 11:33 • 21h ago
 
 ---
 
@@ -347,17 +347,7 @@ Is the crypto correction finally over? In this urgent market update, Chief Marke
 
 📺 Gareth Soloway
 
-👁️ 50K • 👍 4K • 💬 362 • ⏱️ 10:10 • 9h ago
-
----
-
-**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
-
-Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
-
-📺 Anthony Pompliano
-
-👁️ 52K • 👍 2K • 💬 31 • ⏱️ 20:57 • 1d ago
+👁️ 57K • 👍 4K • 💬 382 • ⏱️ 10:10 • 11h ago
 
 ---
 
@@ -367,17 +357,7 @@ On this week's episode of CNBC Crypto World, bitcoin settles in the $60000 after
 
 📺 CNBC Television
 
-👁️ 7K • 👍 197 • 💬 128 • ⏱️ 12:56 • 5h ago
-
----
-
-**[Watch CNBC&#39;s full interview with Coinbase CEO Brian Armstrong and U.S. Senator Bernie Moreno](https://www.youtube.com/watch?v=l8FC-D3Jimw)**
-
-Coinbase CEO Brian Armstrong and U.S. Senator Bernie Moreno sit down with CNBC's Sara Eisen to discuss the future of crypto ...
-
-📺 CNBC Television
-
-👁️ 26K • 👍 595 • 💬 225 • ⏱️ 10:01 • 9h ago
+👁️ 10K • 👍 242 • 💬 158 • ⏱️ 12:56 • 8h ago
 
 ---
 
@@ -387,27 +367,47 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
+👁️ 55K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
 
 ---
 
-**[Bitcoin Price Prediction: Will it Hit $45,000?](https://www.youtube.com/watch?v=jbObbA-iO-U)**
+**[Tom Lee: &quot;All Bitcoin Holders Must Prepare Immediately For What&#39;s Coming&quot;](https://www.youtube.com/watch?v=JfSQeCpslMs)**
 
-Full video here: https://youtu.be/xU0gpt2VgCU #bitcoin #crypto #shorts ⚠️ DISCLAIMER: To appease money-hungry lawyers ...
+Tom Lee just STUNNED the markets with his most important call of 2026. The legendary Fundstrat strategist — who called $100K ...
 
-📺 Crypto Love
+📺 Money Talks
 
-👁️ 873 • 👍 44 • 💬 6 • ⏱️ 1:19 • 9h ago
+👁️ 5K • 👍 114 • 💬 31 • ⏱️ 10:05 • 1d ago
 
 ---
 
-**[Bitcoin Whales JUST Flipped (KNOW THIS)](https://www.youtube.com/watch?v=hel6MPL79eo)**
+**[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
 
-ExpressVPN: https://bit.ly/3OLJZ2B. ⚠️ Follow Me On Twitter: https://twitter.com/financial_index. ✓ Patreon Community: ...
+Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
 
-📺 Michael Wrubel
+📺 Mark Moss
 
-👁️ 21K • 💬 448 • ⏱️ 7:07 • 1d ago
+👁️ 78K • 👍 3K • 💬 582 • ⏱️ 20:14 • 1d ago
+
+---
+
+**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
+
+Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
+
+📺 Anthony Pompliano
+
+👁️ 53K • 👍 2K • 💬 31 • ⏱️ 20:57 • 1d ago
+
+---
+
+**[Willy Woo: Why Quantum Computing is CRASHING Bitcoin Right Now.](https://www.youtube.com/watch?v=kjkPwAZezMk)**
+
+Veteran analyst Willy Woo claims Bitcoin's recent price crash is due to the market pricing in the threat of Quantum Computing.
+
+📺 Financial Funda
+
+👁️ 3K • 👍 136 • 💬 5 • ⏱️ 2:19 • 19h ago
 
 ---
 

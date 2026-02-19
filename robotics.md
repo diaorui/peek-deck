@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-19T02:13:40.323040+00:00'
+updated: '2026-02-19T04:31:58.443158+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 19, 2026 at 02:13 UTC  
+**Last Updated:** February 19, 2026 at 04:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,25 @@ Robotics research and industry news
 
 **[Great improvement for only a year](https://www.reddit.com/r/robotics/comments/1r7qfoq/great_improvement_for_only_a_year/)**
 
-23h ago
+1d ago
+
+---
+
+**[Opinion on MS Robotics at WPI / Oregon State / JHU](https://www.reddit.com/r/robotics/comments/1r8ogvw/opinion_on_ms_robotics_at_wpi_oregon_state_jhu/)**
+
+59m ago
 
 ---
 
 **[Capstan Drive (OC)](https://www.reddit.com/r/robotics/comments/1r82l0h/capstan_drive_oc/)**
 
-13h ago
+15h ago
 
 ---
 
 **[Battle Bots Competition – March 7 at Renaissance Youth Center (South Bronx)](https://www.reddit.com/r/robotics/comments/1r8gfbh/battle_bots_competition_march_7_at_renaissance/)**
 
-4h ago
+6h ago
 
 ---
 
@@ -62,17 +68,11 @@ If you're curious about how it actually works, check out my full video here 🥺
 
 https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsense_rgbd.html
 
-9h ago
+11h ago
 
 ---
 
 **[Research & Validation Survey for a student-led platform for the FIRST community](https://www.reddit.com/r/robotics/comments/1r8k0x5/research_validation_survey_for_a_studentled/)**
-
-2h ago
-
----
-
-**[How do I power a Jetson Nano with a 4S LiPo battery?](https://www.reddit.com/r/robotics/comments/1r8h23c/how_do_i_power_a_jetson_nano_with_a_4s_lipo/)**
 
 4h ago
 
@@ -82,7 +82,7 @@ https://nvidia-isaac-ros.github.io/concepts/visual_slam/cuvslam/tutorial_realsen
 
 RSVP Here Food and drink will be provided. Please tell your friends.
 
-8h ago
+10h ago
 
 ---
 
@@ -104,81 +104,79 @@ Mikell Taylor of General Motors talks about how form factor has a lot to do with
 
 ## Google News: "robotics"
 
-**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
-
-Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
-
-TechCrunch • 7h ago
-
----
-
 **[China’s dancing robots: how worried should we be?](https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show)**
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 8h ago
+The Guardian • 11h ago
 
 ---
 
-**[AI-enabled robotics could shift global manufacturing power, CEO of Alphabet company says](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
+**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
-When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-CNBC • 14h ago
-
----
-
-**[Columbus AI robotics company signs R&D deal with nation's largest shipbuilder](https://www.bizjournals.com/columbus/news/2026/02/18/path-robotics-hii-ai-welding-shipbuilding.html)**
-
-The Business Journals • 15h ago
+TechCrunch • 10h ago
 
 ---
 
-**[Amazon pulls the plug on 'Blue Jay' warehouse robot after only a few months](https://www.businessinsider.com/amazon-pulls-plug-blue-jay-warehouse-robot-2026-2)**
+**[Hawaii robotics team qualifies for World Championships](https://www.hawaiinewsnow.com/2026/02/19/hawaii-robotics-team-qualifies-world-championships/)**
 
-Amazon shutters Blue Jay robot as it transitions to Orbital, a new modular warehouse system enhancing same-day delivery capabilities.
+Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
 
-Business Insider • 1d ago
-
----
-
-**[Bellefontaine Robotics make strong run at Meaden and Moore](https://www.peakofohio.com/local-news/bellefontaine-robotics-make-strong-run-at-meaden-and-moore/)**
-
-Students from Bellefontaine Robotics turned in a strong performance Saturday at the Meaden and Moore Competition, hosted by Brecksville-Broadview Heights High School, with several teams […]
-
-Peak of Ohio • 1d ago
+Hawaii News Now • 2h ago
 
 ---
 
-**[Inside automakers’ strategic bet on humanoid robots beyond the assembly line](https://www.autonews.com/technology/an-automakers-turn-to-robots-for-future-business-0218/)**
+**[Mizzou grad explores future of occupational therapy through robotics](https://showme.missouri.edu/2026/mizzou-grad-explores-future-of-occupational-therapy-through-robotics/)**
 
-Automakers from Tesla to Hyundai are pivoting into humanoid robots, betting their manufacturing expertise will dominate a market projected at $7.5 trillion by 2050.
+In the College of Health Sciences, students are working on a robotic arm in hopes of making assistive technology more accessible and affordable.
 
-Automotive News • 14h ago
-
----
-
-**[IFR releases position paper on AI in robotics](https://www.therobotreport.com/ifr-releases-position-paper-ai-robotics/)**
-
-Artificial intelligence is transforming the robotics field at a rapid pace, according to the International Federation of Robotics or IFR.
-
-The Robot Report • 1d ago
+Show Me Mizzou • 15h ago
 
 ---
 
-**[Chinese Humanoid Robots Fight in San Francisco, Sparking New Boxing League Plans](https://www.eweek.com/news/chinese-humanoid-robots-san-francisco-boxing-match/)**
+**[Reliable Robotics Prepares For Guam Deployment, TIA Campaign](https://aviationweek.com/aerospace/advanced-air-mobility/reliable-robotics-prepares-guam-deployment-tia-campaign)**
 
-Robot boxing drew paying fans in San Francisco as VR pilots controlled Unitree G1 humanoids, hinting at a future league of heavier, full-height fighters.
+Reliable Robotics is entering a critical phase in its effort to certify an automated Cessna Caravan.
 
-eWeek • 6h ago
+Aviation Week • 5h ago
 
 ---
 
-**[Bettendorf robotics team advances to world championship](https://www.kwqc.com/2026/02/16/bettendorf-robotics-team-advances-world-championship/)**
+**[Area robotics teams reach state competition](https://www.wandtv.com/news/illinois/area-robotics-teams-reach-state-competition/article_09601f51-6db9-4c50-8187-66254b18ae80.html)**
 
-A group of elementary students from Bettendorf is heading to the world stage after qualifying for the FIRST LEGO League World Championship.
+Champaign-Urbana's two challenge robotics teams have earned spots at the 2026 FIRST Tech Challenge state championship.
 
-KWQC • 3d ago
+WANDTV.com • 5h ago
+
+---
+
+**[Midway Through The Robotics Earnings Season: Discipline Rewarded, Recovery Broadening](https://seekingalpha.com/article/4871792-midway-through-robotics-earnings-season-discipline-rewarded-recovery-broadening)**
+
+Seeking Alpha • 4h ago
+
+---
+
+**[New Middletown High School robotics class sees teens creating, competing](https://www.journal-news.com/news/new-middletown-high-school-robotics-class-sees-teens-creating-competing/HZ5XHA4OLFEDRE7KMJTR7CP4VU/)**
+
+A first-year robotics class at Middletown High School has proven popular as students have begun competing in regional and state contests.
+
+Middletown Journal • 12h ago
+
+---
+
+**[AI, robotics, data and more: Meet John Deere's latest round of collaborators](https://www.michiganfarmnews.com/ai-robotics-data-and-more-meet-john-deere-s-latest-round-of-collaborators)**
+
+Michigan Farm News
+
+Michigan Farm News • 11h ago
+
+---
+
+**[RR Investors Have Opportunity to Lead Richtech Robotics Inc. Securities Fraud Lawsuit First Filed by the Rosen Law Firm](https://www.morningstar.com/news/pr-newswire/20260218dc90892/rr-investors-have-opportunity-to-lead-richtech-robotics-inc-securities-fraud-lawsuit-first-filed-by-the-rosen-law-firm)**
+
+Morningstar • 5h ago
 
 ---
 
@@ -192,7 +190,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 121K • 👍 1K • 💬 123 • ⏱️ 0:32 • 19h ago
+👁️ 145K • 👍 1K • 💬 111 • ⏱️ 0:32 • 21h ago
 
 ---
 
@@ -202,7 +200,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 106K • 👍 898 • 💬 537 • ⏱️ 2:36 • 1d ago
+👁️ 121K • 👍 988 • 💬 570 • ⏱️ 2:36 • 1d ago
 
 ---
 
@@ -212,7 +210,17 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 67K • 👍 1K • 💬 417 • ⏱️ 2:00 • 1d ago
+👁️ 71K • 👍 1K • 💬 427 • ⏱️ 2:00 • 1d ago
+
+---
+
+**[The Real AI Crisis: It’s Not The Robots (Here’s What Actually Threatens Us)](https://www.youtube.com/watch?v=zVj4b_uImZE)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *AI ...
+
+📺 Julia McCoy
+
+👁️ 18K • 👍 1K • 💬 145 • ⏱️ 9:04 • 1d ago
 
 ---
 
@@ -222,17 +230,7 @@ China Media Group's 2026 Spring Festival Gala drew widespread attention with a p
 
 📺 Guardian News
 
-👁️ 221K • 👍 363 • 💬 248 • ⏱️ 0:52 • 21h ago
-
----
-
-**[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
-
-Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
-
-📺 Unitree Robotics
-
-👁️ 636K • 👍 7K • 💬 1K • ⏱️ 1:41 • 2d ago
+👁️ 230K • 👍 383 • 💬 256 • ⏱️ 0:52 • 23h ago
 
 ---
 
@@ -246,23 +244,33 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 ---
 
-**[Unnerving sword-wielding robot dances for Chinese New Year stunt](https://www.youtube.com/watch?v=SCj0ZSKKfGo)**
-
-The Sun brings you breaking news and in-depth analysis on the stories that matter most. From the ongoing war in Ukraine to ...
-
-📺 The Sun
-
-👁️ 14K • 👍 159 • 💬 85 • ⏱️ 1:18 • 1d ago
-
----
-
 **[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
 
 The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
 
 📺 The Sun
 
-👁️ 948K • 👍 16K • 💬 7K • ⏱️ 2:37 • 2d ago
+👁️ 980K • 👍 17K • 💬 8K • ⏱️ 2:37 • 2d ago
+
+---
+
+**[Dancing humanoid robots take centre stage at China&#39;s Lunar New Year Gala](https://www.youtube.com/watch?v=HEuhhanh878)**
+
+The world is ringing in the year of the Fire Horse and China is marking Lunar New Year with an extraordinary and unique ...
+
+📺 Al Jazeera English
+
+👁️ 64K • 👍 733 • 💬 415 • ⏱️ 7:31 • 1d ago
+
+---
+
+**[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
+
+Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
+
+📺 Unitree Robotics
+
+👁️ 646K • 👍 7K • 💬 1K • ⏱️ 1:41 • 2d ago
 
 ---
 
@@ -272,17 +280,7 @@ China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. 
 
 📺 Kalil 4.0
 
-👁️ 115K • 👍 2K • 💬 334 • ⏱️ 9:26 • 2d ago
-
----
-
-**[Humanoid Robots Perform in China&#39;s 2026 Lunar New Year Gala](https://www.youtube.com/watch?v=LPEGve_U1cY)**
-
-Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off slick Kung fu moves alongside young martial ...
-
-📺 New York Post
-
-👁️ 33K • 👍 565 • 💬 439 • ⏱️ 2:01 • 10h ago
+👁️ 117K • 👍 2K • 💬 336 • ⏱️ 9:26 • 2d ago
 
 ---
 
