@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T16:55:11.326501+00:00'
+updated: '2026-02-19T17:51:22.926175+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 16:55 UTC  
+**Last Updated:** February 19, 2026 at 17:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1328.32B
+**Market Cap:** $1329.30B
 Rank #1
 
-**Circulating Supply:** 19,991,893 BTC
+**Circulating Supply:** 19,991,937 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.4%
+-47.3%
 
 **All-Time Low:** $67.81
-+97748.4%
++97918.0%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 4h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 5h ago
 
 ---
 
@@ -101,7 +101,7 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 SYNOPSIS British submarine coordinates appear on a public ledger disguised as transactions. Broadcast globally. Every ten minutes. Western intelligence services descend into chaos. Salvation lies with three strangers: a computer scientist, a civil servant and an army veteran.
 
-5h ago
+6h ago
 
 ---
 
@@ -109,7 +109,7 @@ SYNOPSIS British submarine coordinates appear on a public ledger disguised as tr
 
 Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ Did anyone else actually read the FOMC minutes or did we all just watch the gree
 
 Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
 
-22h ago
+23h ago
 
 ---
 
@@ -131,7 +131,7 @@ Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -139,7 +139,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Because I transferred Bitcoin from my outside wallet - and sold (had to keep afloat as I had no job for over 9 months), it's saying have 56K capital gains because there is no cost basis. The IRS will tax me on all that, and I definitely did not have 56K capital gains. How can I track all the purchases and transfers? Is there a software I should use?
 
-16h ago
+17h ago
 
 ---
 
@@ -147,7 +147,7 @@ Because I transferred Bitcoin from my outside wallet - and sold (had to keep afl
 
 https://preview.redd.it/tyw3nvbdcgkg1.png?width=1536&format=png&auto=webp&s=2319f8a342478cecd5169f4eb064587c802b6feb Hey Bitcoin miners 👋 If you’re mining on SoloHash, you can now monitor your BTC PROP mining stats directly in the MinerBox app 📊 You’ll be able to: Track hashrate & workers Monitor PROP pool performance Check your stats on the go 🔗 SoloHash: https://solohash.co.uk 🔗 MinerBox: http://minerbox.witplex.com Happy hashing and good luck hitting blocks! ⛏️🔥 #Bitcoin #BTC #Mining #CryptoMining #SoloHash
 
-3h ago
+4h ago
 
 ---
 
@@ -159,7 +159,7 @@ https://preview.redd.it/tyw3nvbdcgkg1.png?width=1536&format=png&auto=webp&s=2319
 
 Investors are focused less on the accuracy of Trump’s trade figures and more on how renewed tariff talk could mean higher-for-longer interest rates.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 1d ago
 
 Solo-mine bitcoin with a compact, standalone device that's been slashed in price by 66%.
 
-PCMag • 2h ago
+PCMag • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ PCMag • 2h ago
 
 Austin, Texas, February 19th, 2026, FinanceWireVoltage Launches Industry's First Programmatic Revolving Line of Credit: Bitco...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ markets.businessinsider.com • 2h ago
 
 Bitcoin falls below $66,000 after jobless claims beat expectations & US trade deficit widened, heightening risk-off sentiment.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1h ago
 
 South Korean prosecutors have recovered the $21 million worth of bitcoin that was stolen from their custody last year.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Block • 6h ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -227,7 +227,7 @@ Forbes • 2d ago
 
 FutureBit launched the Apollo III today, a new home Bitcoin mining system combining a high-performance miner and a full Bitcoin node in a single desktop device.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -255,7 +255,7 @@ Explore everything you can do as a lightning app builder using Alby - getAlby/sa
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 2 • 💬 0 • 1d ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 2 • 💬 0 • 2d ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -283,7 +283,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 59m ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 1h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -299,7 +299,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 3 • 💬 1 • 21h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
+⬆️ 3 • 💬 1 • 22h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
 
 ---
 
@@ -307,7 +307,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 1 • 💬 1 • 32m ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-878/)
+⬆️ 1 • 💬 1 • 1h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-878/)
 
 ---
 
@@ -321,7 +321,17 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 38K • 👍 2K • 💬 101 • ⏱️ 28:28 • 18h ago
+👁️ 42K • 👍 2K • 💬 101 • ⏱️ 28:28 • 19h ago
+
+---
+
+**[A Massive Entity Is Quietly Accumulating Bitcoin! Do They Know Something? | Jeff Park](https://www.youtube.com/watch?v=G195SdkkNS0)**
+
+Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail appears to point toward a Hong Kong–based entity ...
+
+📺 The Wolf Of All Streets
+
+👁️ 9K • 👍 669 • 💬 208 • ⏱️ 36:44 • 45m ago
 
 ---
 
@@ -335,59 +345,23 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 ---
 
-**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
-
-Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
-
-📺 Altcoin Daily
-
-👁️ 107K • 👍 4K • 💬 584 • ⏱️ 10:49 • 2d ago
-
----
-
-**[Lyn Alden’s Bitcoin Price Predictions](https://www.youtube.com/watch?v=qQUAjbX5I1o)**
-
-📺 Natalie Brunell
-
-👁️ 28K • 👍 504 • 💬 35 • ⏱️ 0:59 • 2d ago
-
----
-
 **[This Surprised Me (Bitcoin Update)](https://www.youtube.com/watch?v=aGnsO6O2zu4)**
 
 Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
 
 📺 Aaron Bennett
 
-👁️ 6K • 👍 432 • 💬 70 • ⏱️ 8:53 • 9h ago
+👁️ 8K • 👍 472 • 💬 192 • ⏱️ 8:53 • 10h ago
 
 ---
 
-**[Bitcoin: There’s No Turning Back From This](https://www.youtube.com/watch?v=hckwq6-F3Bo)**
+**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
 
-TIA PRO LIFETIME DISCOUNT* - NAVIGATE YOUR PORTFOLIO THROUGH THE PEAK AND COLLAPSE ...
+Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
 
-📺 Jason Pizzino
+📺 Altcoin Daily
 
-👁️ 15K • 👍 916 • 💬 270 • ⏱️ 26:59 • 13h ago
-
----
-
-**[BITCOIN IS REPEATING 2019 CHART (URGENT)](https://www.youtube.com/watch?v=ma3_4EmAv_g)**
-
-📺 Discover Crypto
-
-👁️ 13K • 👍 230 • 💬 84 • ⏱️ 0:34 • 13h ago
-
----
-
-**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
-
-Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
-
-📺 Anthony Pompliano
-
-👁️ 56K • 👍 2K • 💬 33 • ⏱️ 20:57 • 1d ago
+👁️ 108K • 👍 4K • 💬 585 • ⏱️ 10:49 • 2d ago
 
 ---
 
@@ -397,7 +371,27 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 474 • ⏱️ 8:25 • 14h ago
+👁️ 22K • 👍 1K • 💬 623 • ⏱️ 8:25 • 15h ago
+
+---
+
+**[&#39;Bitcoin Going to Zero&#39; Searches Hit All-Time High](https://www.youtube.com/watch?v=9mXKLqzMTIE)**
+
+Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+
+📺 CryptosRUs
+
+👁️ 12K • 👍 845 • 💬 154 • ⏱️ 46:22 • 2h ago
+
+---
+
+**[Bitcoin to $20k? Bobby Lee Issues URGENT Warning 🚨.](https://www.youtube.com/watch?v=yK_b77ErgyE)**
+
+Bitcoin bull Bobby Lee joins Bloomberg to warn that the crypto bull market is over and a major correction is incoming. In this video ...
+
+📺 Financial Funda
+
+👁️ 7K • 👍 243 • 💬 21 • ⏱️ 2:38 • 1d ago
 
 ---
 
@@ -407,7 +401,17 @@ Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. G
 
 📺 Mark Moss
 
-👁️ 87K • 👍 4K • 💬 469 • ⏱️ 20:14 • 1d ago
+👁️ 89K • 👍 4K • 💬 477 • ⏱️ 20:14 • 1d ago
+
+---
+
+**[most bitcoin investors don&#39;t realize this...](https://www.youtube.com/watch?v=Z8IONVM7OHY)**
+
+Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
+
+📺 Altcoin Daily
+
+👁️ 14K • 👍 409 • 💬 42 • ⏱️ 1:08 • 1d ago
 
 ---
 

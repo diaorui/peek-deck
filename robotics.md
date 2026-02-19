@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-19T16:55:11.334725+00:00'
+updated: '2026-02-19T17:51:22.934194+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 19, 2026 at 16:55 UTC  
+**Last Updated:** February 19, 2026 at 17:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 [Disclaimer: This text was not touched by AI, this is solely by me, so a few formulation issues might be hidden in there] TLDR: - With some tricks, even the cheaper quadruped models can be used for complex tasks - Reliable and low-latency remote operation and monitoring is hard. But here, wireless is usually the bottleneck, not the VPN - Foxglove UI is pretty neat (not fully open-source) - Having a good dev environment setup from the start is invaluable - A lot can be done with a pure open-source stack! The video shows a setup I've been working on for a while now. Early last year, I took quite a portion of my savings to get my hands on a quadruped robot. These savings did not even get me the full ROS2-ready setup that one needs to actually build a cool application, I had to make quite a few detours (some that probably voided the warranty, but let us not get deeper into it). In any case, I had time the last few days (and nights) to finally setup a clean and performant development and introspection environment for my robot. As you can see from the video, this includes full remote control and monitoring of the inner going-ons. I initially tried sending the whole DDS traffic through my network, but due to obvious overhead reasons, this was not really scalable, especially when wanting a live feed of camera and LiDAR data that is low latency enough for "secure" remote manipulation. The next iteration took me down the road of WebRTC, a protocol that only transmits frame differences, reducing traffic significantly. The results for the camera streams were impressive, but this meant I would have to tackle a conversion layer for each topic, again not a clean solution. Finally, I tried out Foxglove. Although not fully open-source, they use a web socket connection, therefore again avoiding DDS congestion. While it might seem a bit less performant than the custom WebRTC solution, the amazing UI and compatability with my ROS2 setup speaks for itself. Also by the way, the setup above is not solely within a local network! I can spin up this bad boy all over the world through my self-hosted Headscale VPN (WireGuard on the backend). Through testing (and some help with the friends at Technologiehub Wien), I found out that the VPN latency is less of a bottleneck than the wireless connection. Making sure that a non-crowded 5GHz channel is used was an enormous performance boost. Concerning the ROS2 setup, everything is ready to add Nav2 support. LiDAR access works, tf tree looks good and odometry information is also already there. This will be the task to tackle next. The whole setup is dockerized and remote development is pretty easy through the SSH connection via the VPN and a custom devcontainer (although it took a while to get ROS2 Jazzy + CUDA cores working correctly...). In case anyone has read this far: - Should I open-source my setup (including VPN optimizations)? - Any idea how I can get my invested money back? (Not a big issue, I learned so much and am having a blast!) - What would you do with this robot? - Any improvement suggestions? Thats it, goodbye and thank's for the fish!
 
-7h ago
+8h ago
 
 ---
 
@@ -60,13 +60,13 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in March Agents & Robotics HackXelerator™ 2026 is a 20-day innovation event running 27 March - 17 April 2026. Builders create working AI systems focused on agents, robotics, and embodied intelligence. This event combines hackathon energy with accelerator structure, featuring both online participation and in-person gatherings (London kick-off on March 29, Berlin showcase on April 17). Choose from four mission tracks: • Mission 1: Digital Agents & Multi-Agent Systems • Mission 2: Autonomous Systems & Embodied AI • Mission 3: Human-Robot Interaction & Social Robotics • Mission 4: Ethics, Agency & Societal Impact Cash and non-cash prizes (GPUs) will be awarded -- details soon to be up on website Sign up at https://www.kxsb.org/ar26
 
-2h ago
+3h ago
 
 ---
 
 **[Announcing Webots Academy: A zero-setup, browser-based simulation platform for universities](https://www.reddit.com/r/robotics/comments/1r8vc70/announcing_webots_academy_a_zerosetup/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -80,13 +80,13 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 Hello everyone I currently have a 4-axis SCARA robot where I am trying to ensure a safe zone and an effective trajectory along the xy axis (I only move along the z axis at certain moments) I tried to calculate viapoints (between points) using a cubic polynomial, but safety suffers there - it gets very close to itself and almost collides I also need to limit the area outside the manipulator so that it definitely does not go beyond a certain x and a certain y. I understand that Cartesian coordinates/limits are of no use here, since the robot moves in joint space. But now I would like some guidance and maybe some links to the project I am using python and robot's SDK (basic methods to move given the coordinates through IK, change orientation) etc etc
 
-4h ago
+5h ago
 
 ---
 
 **[Simple Deployment of Ultralytics YOLO26 for ROS 2](https://www.reddit.com/r/robotics/comments/1r8xlb0/simple_deployment_of_ultralytics_yolo26_for_ros_2/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -94,13 +94,13 @@ Hello everyone I currently have a 4-axis SCARA robot where I am trying to ensure
 
 Hi all, as the title states is there a platform that consolidates a list of people based on research topics? I am looking to find professors working on slam or perception in the UK. Thanks.
 
-9h ago
+10h ago
 
 ---
 
 **[Mini HPC-style HA Homelab on Raspberry Pi 3B+ / 4 / 5 Kafka, K3s, MinIO, Cassandra, Full Observability](https://www.reddit.com/r/robotics/comments/1r8r38s/mini_hpcstyle_ha_homelab_on_raspberry_pi_3b_4_5/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hi all, as the title states is there a platform that consolidates a list of peop
 
 Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
 
-The Guardian • 23h ago
+The Guardian • 1d ago
 
 ---
 
@@ -120,7 +120,7 @@ The Guardian • 23h ago
 
 Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 22h ago
+TechCrunch • 23h ago
 
 ---
 
@@ -128,7 +128,7 @@ TechCrunch • 22h ago
 
 Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -144,7 +144,7 @@ CNBC • 1d ago
 
 Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
 
-South China Morning Post • 12h ago
+South China Morning Post • 13h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Business Journals • 1d ago
 
 As part of Yahoo Finance's Bot & Sold robotics special, KraneShares senior investment strategist Derek Yan joins Asking for a Trend host Josh Lipton to share his top stock picks in the robotics sector. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -174,7 +174,7 @@ Yahoo Finance • 5h ago
 
 Robot boxing drew paying fans in San Francisco as VR pilots controlled Unitree G1 humanoids, hinting at a future league of heavier, full-height fighters.
 
-eWeek • 20h ago
+eWeek • 21h ago
 
 ---
 
@@ -182,7 +182,7 @@ eWeek • 20h ago
 
 Industrial robot installations remain near record levels and are projected to keep rising through 2028.
 
-Seeking Alpha • 7h ago
+Seeking Alpha • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 30K • 👍 605 • 💬 535 • ⏱️ 3:42 • 8h ago
+👁️ 53K • 👍 735 • 💬 644 • ⏱️ 3:42 • 9h ago
 
 ---
 
@@ -206,17 +206,7 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 162K • 👍 1K • 💬 129 • ⏱️ 0:32 • 1d ago
-
----
-
-**[China&#39;s humanoid robots take center stage at Lunar New Year show](https://www.youtube.com/watch?v=stNO7V8xJHk)**
-
-Humanoid robots took the stage and captivated the world performing dances and kung fu during a Lunar New Year show in China ...
-
-📺 NBC News
-
-👁️ 207K • 👍 1K • 💬 700 • ⏱️ 2:36 • 1d ago
+👁️ 204K • 👍 1K • 💬 133 • ⏱️ 0:32 • 1d ago
 
 ---
 
@@ -226,37 +216,17 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 91K • 👍 1K • 💬 604 • ⏱️ 2:00 • 2d ago
+👁️ 100K • 👍 1K • 💬 621 • ⏱️ 2:00 • 2d ago
 
 ---
 
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+**[China&#39;s humanoid robots take center stage at Lunar New Year show](https://www.youtube.com/watch?v=stNO7V8xJHk)**
 
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+Humanoid robots took the stage and captivated the world performing dances and kung fu during a Lunar New Year show in China ...
 
-📺 AI Revolution
+📺 NBC News
 
-👁️ 51K • 👍 1K • 💬 158 • ⏱️ 12:43 • 3d ago
-
----
-
-**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
-
-The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
-
-📺 The Sun
-
-👁️ 1.1M • 👍 19K • 💬 9K • ⏱️ 2:37 • 3d ago
-
----
-
-**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
-
-China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
-
-📺 Guardian News
-
-👁️ 261K • 👍 456 • 💬 377 • ⏱️ 0:52 • 1d ago
+👁️ 228K • 👍 1K • 💬 725 • ⏱️ 2:36 • 1d ago
 
 ---
 
@@ -266,7 +236,37 @@ By combining decades of real-world data with advanced AI, simulation and digital
 
 📺 NVIDIA
 
-👁️ 15K • 👍 679 • ⏱️ 2:51 • 20h ago
+👁️ 15K • 👍 692 • ⏱️ 2:51 • 21h ago
+
+---
+
+**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
+
+China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
+
+📺 Guardian News
+
+👁️ 265K • 👍 470 • 💬 387 • ⏱️ 0:52 • 1d ago
+
+---
+
+**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+
+China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+
+📺 AI Revolution
+
+👁️ 51K • 👍 1K • 💬 159 • ⏱️ 12:43 • 3d ago
+
+---
+
+**[China&#39;s humanoid robots perform incredible martial arts stunts for Chinese New Year](https://www.youtube.com/watch?v=R6T-Ea5CfRE)**
+
+The routine fused traditional martial arts with advanced robotics, featuring synchronized stunts and sword and nunchuk ...
+
+📺 The Sun
+
+👁️ 1.2M • 👍 20K • 💬 9K • ⏱️ 2:37 • 3d ago
 
 ---
 
@@ -276,17 +276,17 @@ Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off s
 
 📺 New York Post
 
-👁️ 67K • 👍 975 • 💬 710 • ⏱️ 2:01 • 1d ago
+👁️ 70K • 👍 1K • 💬 724 • ⏱️ 2:01 • 1d ago
 
 ---
 
-**[Kawasaki&#39;s New Robot Horse Is WILD](https://www.youtube.com/watch?v=rSurIVRYtVU)**
+**[China&#39;s Humanoid Robots STUN the World Ushering in the Year of the Horse](https://www.youtube.com/watch?v=U0aHaNPFejo)**
 
-shorts #tech #bike #motorcycle.
+China's humanoid robots are Wild 'N Out as they usher in the Year of the Horse. The Shanghai startup AgiBot kicked off the ...
 
-📺 ThrottleRush
+📺 Kalil 4.0
 
-👁️ 109K • 👍 3K • 💬 38 • ⏱️ 0:41 • 6d ago
+👁️ 125K • 👍 2K • 💬 344 • ⏱️ 9:26 • 2d ago
 
 ---
 
