@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T19:37:00.661723+00:00'
+updated: '2026-02-20T20:34:07.838950+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 19:37 UTC  
+**Last Updated:** February 20, 2026 at 20:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
-7h ago
+8h ago
+
+---
+
+**[ROS News for the Week of February 16th, 2026](https://www.reddit.com/r/robotics/comments/1ra5ld8/ros_news_for_the_week_of_february_16th_2026/)**
+
+ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
+
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 41m ago
 
 ---
 
@@ -48,6 +56,20 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 ---
 
+**[Good Boy](https://www.reddit.com/r/robotics/comments/1ra54wk/good_boy/)**
+
+58m ago
+
+---
+
+**[It's an Archaeology Digger Robot :)](https://www.reddit.com/r/robotics/comments/1r9x1nh/its_an_archaeology_digger_robot/)**
+
+I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
+
+5h ago
+
+---
+
 **[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
 
 20h ago
@@ -55,14 +77,6 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 ---
 
 **[What is the ideal shutdown procedure for an Epson RS4 robot (or industrial SCARA robots in general)?](https://www.reddit.com/r/robotics/comments/1r9zy46/what_is_the_ideal_shutdown_procedure_for_an_epson/)**
-
-3h ago
-
----
-
-**[It's an Archaeology Digger Robot :)](https://www.reddit.com/r/robotics/comments/1r9x1nh/its_an_archaeology_digger_robot/)**
-
-I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
 
 4h ago
 
@@ -88,21 +102,7 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1TENTH/VESC setup. I’m hitting a wall with odom calibration: my physical car moves forward, but /odom and RViz show it moving backward. No matter how I flip the motor rotation, the odometry is always flipped in rViz. I’ve tried flipping the motor direction on the motor controller itself (VESC), tried to flip the polarity, and tried to flip the direction that the vesc_to_odom node calculates, but it continues to move forward, but show that the robot is running backwards on rviz, and on the /odom topic. Has anyone encountered this 'persistent inversion' before, or is there a specific parameter in the config I might be overlooking? Thanks!
 
-13h ago
-
----
-
-**[Check out Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in March](https://www.reddit.com/r/robotics/comments/1r90y95/check_out_agent_and_robotics_hackathon_2026_a/)**
-
-Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in March Agents & Robotics HackXelerator™ 2026 is a 20-day innovation event running 27 March - 17 April 2026. Builders create working AI systems focused on agents, robotics, and embodied intelligence. This event combines hackathon energy with accelerator structure, featuring both online participation and in-person gatherings (London kick-off on March 29, Berlin showcase on April 17). Choose from four mission tracks: • Mission 1: Digital Agents & Multi-Agent Systems • Mission 2: Autonomous Systems & Embodied AI • Mission 3: Human-Robot Interaction & Social Robotics • Mission 4: Ethics, Agency & Societal Impact Cash and non-cash prizes (GPUs) will be awarded -- details soon to be up on website Sign up at https://www.kxsb.org/ar26
-
-1d ago
-
----
-
-**[Doly SDK](https://www.reddit.com/r/robotics/comments/1r96fpt/doly_sdk/)**
-
-1d ago
+14h ago
 
 ---
 
@@ -110,11 +110,11 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 ## Google News: "robotics"
 
-**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html)**
+**[China's robotics giant puts 200 robots to the test](https://www.foxnews.com/tech/china-robotics-giant-puts-200-robots-test)**
 
-Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
+Agibot stages live televised gala with over 200 humanoid robots in Shanghai, featuring synchronized dancing, martial arts and acrobatic performances.
 
-CNBC • 11h ago
+Fox News • 7h ago
 
 ---
 
@@ -122,23 +122,7 @@ CNBC • 11h ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 8h ago
-
----
-
-**[New Technique for 3D Printing Artificial Muscle Paves the Way for More Freaky Robots](https://gizmodo.com/new-technique-for-3d-printing-artificial-muscle-paves-the-way-for-more-freaky-robots-2000724201)**
-
-Never enough robots!
-
-Gizmodo • 1h ago
-
----
-
-**[Amazon Robotics shuts down Blue Jay sortation project](https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/)**
-
-Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects.
-
-The Robot Report • 4h ago
+Business Insider • 9h ago
 
 ---
 
@@ -146,15 +130,7 @@ The Robot Report • 4h ago
 
 NORD said this allows engineers to verify whether the drive concept is suitable for the system early in the planning phase.
 
-The Robot Report • 1h ago
-
----
-
-**[A neural blueprint for human-like intelligence in soft robots](https://news.mit.edu/2026/neural-blueprint-human-intelligence-in-soft-robots-0219)**
-
-A new AI control system enables soft robotic arms to learn a wide repertoire of motions and tasks once, then adjust to new scenarios on the fly without needing retraining or sacrificing functionality. The work was co-led by researchers at the Singapore-MIT Alliance for Research and Technology (SMART).
-
-MIT News • 1d ago
+The Robot Report • 2h ago
 
 ---
 
@@ -166,11 +142,11 @@ Automotive News • 1d ago
 
 ---
 
-**[A robotic dog made in China gets an Indian university kicked out of an AI summit](https://www.nbcnews.com/world/asia/robotic-dog-made-china-gets-indian-university-kicked-ai-summit-rcna259682)**
+**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
-A professor said the robot was developed at Galgotias University, but internet users quickly identified it as being commercially available from China’s Unitree Robotics.
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-NBC News • 1d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -180,11 +156,33 @@ Zacks Investment Research • 1d ago
 
 ---
 
-**[Robotics trade in focus: 2 overlooked stock picks](https://finance.yahoo.com/video/robotics-trade-focus-2-overlooked-113006524.html)**
+**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.fool.com/investing/2026/02/20/teslas-3-trillion-opportunity-how-optimus-could-do/)**
 
-As part of Yahoo Finance's Bot & Sold robotics special, KraneShares senior investment strategist Derek Yan joins Asking for a Trend host Josh Lipton to share his top stock picks in the robotics sector. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
+Tesla has a few robotics advantages that it's tapping into.
 
-Yahoo Finance • 1d ago
+The Motley Fool • 1h ago
+
+---
+
+**[Chinese AI and robotics firms appoint millennial, Gen Z stars as chief scientists](https://www.scmp.com/tech/big-tech/article/3343042/chinese-ai-and-robotics-firms-appoint-millennial-and-gen-z-rising-stars-chief-scientists)**
+
+Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
+
+South China Morning Post • 1d ago
+
+---
+
+**[Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings](https://247wallst.com/investing/2026/02/20/beyond-tesla-and-nvidia-2-overlooked-robotics-stocks-just-blew-out-earnings/)**
+
+Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
+
+24/7 Wall St. • 6h ago
+
+---
+
+**[Columbus AI robotics company signs R&D deal with nation's largest shipbuilder](https://www.bizjournals.com/columbus/news/2026/02/18/path-robotics-hii-ai-welding-shipbuilding.html)**
+
+The Business Journals • 2d ago
 
 ---
 
@@ -198,7 +196,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 138K • 👍 2K • 💬 780 • ⏱️ 2:00 • 3d ago
+👁️ 140K • 👍 2K • 💬 792 • ⏱️ 2:00 • 3d ago
 
 ---
 
@@ -208,17 +206,17 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 345K • 👍 2K • 💬 861 • ⏱️ 2:36 • 2d ago
+👁️ 351K • 👍 2K • 💬 866 • ⏱️ 2:36 • 2d ago
 
 ---
 
-**[Humanoid robots perform advanced Kung Fu during Chinese New Year event](https://www.youtube.com/watch?v=CRgUDR6GeYc)**
+**[The Problem With Humanoid Robots](https://www.youtube.com/watch?v=EPQI0qzt7uw)**
 
-Sky News host Freya Leach reacts to a video showing robots performing advanced level marital arts at a Chinese New Year event ...
+Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
-📺 Sky News Australia
+📺 Wall Street Millennial
 
-👁️ 19K • 👍 201 • 💬 181 • ⏱️ 1:13 • 1d ago
+👁️ 43K • 👍 2K • 💬 474 • ⏱️ 13:31 • 23h ago
 
 ---
 
@@ -228,37 +226,17 @@ Unitree Robotics is plotting an aggressive expansion following its viral showing
 
 📺 Kalil 4.0
 
-👁️ 29K • 👍 485 • 💬 35 • ⏱️ 0:40 • 3d ago
+👁️ 30K • 👍 501 • 💬 36 • ⏱️ 0:40 • 3d ago
 
 ---
 
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
 
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
 
-📺 10 News
+📺 NVIDIA
 
-👁️ 140K • 👍 2K • 💬 1K • ⏱️ 3:42 • 1d ago
-
----
-
-**[Kung Fu robots perform at Spring Festival Gala](https://www.youtube.com/watch?v=4V8w3gkF76E)**
-
-A group of humanoid robots teamed up with young Kung Fu artists for a thrilling martial arts performance at the 2026 Spring ...
-
-📺 CNN
-
-👁️ 229K • 👍 3K • 💬 646 • ⏱️ 0:47 • 3d ago
-
----
-
-**[China&#39;s humanoid robots stole the show at 2026 Spring Festival #robot #technology #humanoidrobots](https://www.youtube.com/watch?v=LVPfUQrAn3g)**
-
-Robots were front and center during the 2026 Spring Festival Gala on primetime Chinese TV, which typically draws more than a ...
-
-📺 Kalil 4.0
-
-👁️ 71K • 👍 1K • 💬 217 • ⏱️ 0:49 • 3d ago
+👁️ 27K • 👍 1K • ⏱️ 2:51 • 1d ago
 
 ---
 
@@ -268,17 +246,7 @@ Kung Fu Robots?! China's AI Just Raised the Bar In this video, I react to an inc
 
 📺 The KickFit Podcast by Axel Gomez
 
-👁️ 106K • 👍 3K • 💬 1K • ⏱️ 8:41 • 2d ago
-
----
-
-**[Humanoid Robots Perform Kung Fu at China’s Lunar New Year Gala](https://www.youtube.com/watch?v=Df4wFMT3_Lw)**
-
-China's annual CCTV Spring Festival Gala featured humanoid robots from four domestic startups during this week's Lunar New ...
-
-📺 Newsweek
-
-👁️ 47K • 👍 497 • 💬 64 • ⏱️ 0:44 • 3d ago
+👁️ 107K • 👍 3K • 💬 1K • ⏱️ 8:41 • 2d ago
 
 ---
 
@@ -289,6 +257,34 @@ Our #robot arm DeskBuddy gets a magnet on each of its gear's teeth. This way we 
 📺 Hacker Twins
 
 👁️ 19K • 👍 247 • 💬 16 • ⏱️ 0:28 • 3d ago
+
+---
+
+**[China&#39;s humanoid robots stole the show at 2026 Spring Festival #robot #technology #humanoidrobots](https://www.youtube.com/watch?v=LVPfUQrAn3g)**
+
+Robots were front and center during the 2026 Spring Festival Gala on primetime Chinese TV, which typically draws more than a ...
+
+📺 Kalil 4.0
+
+👁️ 72K • 👍 1K • 💬 217 • ⏱️ 0:49 • 3d ago
+
+---
+
+**[Humanoid Robots Perform in China&#39;s 2026 Lunar New Year Gala](https://www.youtube.com/watch?v=LPEGve_U1cY)**
+
+Humanoid robots stole the show at CMG's 2026 Spring Festival Gala, pulling off slick Kung fu moves alongside young martial ...
+
+📺 New York Post
+
+👁️ 101K • 👍 1K • 💬 892 • ⏱️ 2:01 • 2d ago
+
+---
+
+**[Model S and X are done, Tesla robots takeover!](https://www.youtube.com/watch?v=KxEWc4xyH9c)**
+
+📺 Doug DeMuro
+
+👁️ 465K • 👍 7K • 💬 515 • ⏱️ 1:20 • 2d ago
 
 ---
 

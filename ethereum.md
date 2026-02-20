@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-20T19:37:00.658506+00:00'
+updated: '2026-02-20T20:34:07.835719+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - videos
 - social
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 19:37 UTC  
+**Last Updated:** February 20, 2026 at 20:34 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,943.77
+### $1,963.68
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** -5.5%  
-**30d:** -33.2%  
-**90d:** -29.7%  
-**1y:** -25.9%  
+**24h:** +0.7%  
+**7d:** -5.9%  
+**30d:** -33.5%  
+**90d:** -30.0%  
+**1y:** -26.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $234.91B
+**Market Cap:** $236.99B
 Rank #2
 
 **Circulating Supply:** 120,692,388 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.6%
+-60.3%
 
 **All-Time Low:** $0.43
-+449905.7%
++453534.0%
 
 ---
 
@@ -72,15 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
-
----
-
-**[Where should I stake my ETH ?](https://www.reddit.com/r/ethereum/comments/1r9zfv9/where_should_i_stake_my_eth/)**
-
-I've never staked my Ethereum that i hold for a while, i heard it's doable without actually involving a node/32 ETH, but by liquid staking, i have 3 questions: Is it safe to use liquid staking? Are % fixed, how does it work? Where can I find the most interesting APY? Thank you for answers and advices, please be gentle as I've never done staking before.
-
-3h ago
+14h ago
 
 ---
 
@@ -92,11 +84,19 @@ Few years Ago no one believe quantum threat is even a thing. But lately it feels
 
 ---
 
+**[Let your Agent Pay for Blockchain Data](https://www.reddit.com/r/ethereum/comments/1ra43dn/let_your_agent_pay_for_blockchain_data/)**
+
+Lobsters like block too You can use x402 for agents to pay and get access to blockchain data now. There’s no clean way for agents to access onchain data without API keys, accounts, or billing friction. Until now. With x402, agents can pay per request using stablecoins over HTTP, wallet in, data out. https://goldrush.dev/blog/goldrush-x402-blockchain-data-for-agents/
+
+1h ago
+
+---
+
 **[How to x402: A Complete Guide to permissionless Agent payments](https://www.reddit.com/r/ethereum/comments/1r9z82d/how_to_x402_a_complete_guide_to_permissionless/)**
 
 Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agents) into an API endpoint after a few days working through the official docs and SDK. It’s running end-to-end: send a request, receive a 402, sign a USDC transfer, retry, and get the response back. A lot of the documentation is confusing due to differences between v1 and v2, so I compiled everything into a single post that should make things clearer. It includes an interactive demo where you can generate a wallet, fund it, and make a real x402 payment against a live endpoint. The goal was to create one resource that’s enough to understand x402 and build your own agent payment integration. The guide also includes some background on the origins of 402. Check it out here: https://simplescraper.io/blog/x402-payment-protocol Let me know what you think!
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agen
 
 Justin Drake dives deep into Lean Ethereum In this episode (which is the first in a six-part series on Lean Ethereum) we covered: - This vision for ethereum, spanning the consensus, data, and execution layers. - How post-quantum cryptography, faster finality, and enshrined ZK are all being used to future-proof Ethereum’s core. They also lay out some of the topics that will be covered in subsequent parts of the series. Listen here
 
-10h ago
+11h ago
 
 ---
 
@@ -112,7 +112,7 @@ Justin Drake dives deep into Lean Ethereum In this episode (which is the first i
 
 There’s been a lot of talk lately about how fast teams are shipping contracts especially with AI-assisted “vibe coding.” Recently, the Ethereum Foundation highlighted the release of the OWASP Smart Contract Top 10, which outlines the most critical risks developers and security teams should be protecting against today. What stands out is how familiar many of these failure patterns still are: access control issues, logic flaws, unsafe assumptions, and upgrade risks. The tooling is getting better. The awareness is getting better. But the same classes of bugs keep showing up in production. Feels like the real challenge in 2026 isn’t whether we can write contracts faster it’s whether we can operate them safely at scale. Curious how others here are thinking about this balance between speed and security.
 
-4h ago
+5h ago
 
 ---
 
@@ -128,7 +128,7 @@ New 13F filings show major financial institutions sharply increased positions in
 
 FOCIL is Hegotá consensus layer headliner, EF protocol priorities: Scale, Improve UX & Harden the L1, Base moving to own stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-12/) • 8h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-12/) • 9h ago
 
 ---
 
@@ -144,7 +144,7 @@ Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and 
 
 Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that expanding AI autonomy without strong human alignment could increase systemic risk as crypto and AI converge.
 
-🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 10h ago
 
 ---
 
@@ -164,7 +164,15 @@ The Block • 1d ago
 
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Fortune • 1d ago
+Fortune • 2d ago
+
+---
+
+**[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://finance.yahoo.com/news/bitcoin-ethereum-off-worst-start-170110665.html)**
+
+The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
+
+Yahoo Finance • 3h ago
 
 ---
 
@@ -172,23 +180,21 @@ Fortune • 1d ago
 
 The world's two largest cryptocurrencies lost their luster over the past year.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
-**[Here’s what a US-Iran war could mean for the price of Bitcoin and Ethereum](https://www.dlnews.com/articles/markets/bitcoins-price-could-tumble-if-the-us-strikes-iran-say-experts/)**
+**[Here‘s what a US-Iran war could mean for the price of Bitcoin and Ethereum](https://www.dlnews.com/articles/markets/bitcoins-price-could-tumble-if-the-us-strikes-iran-say-experts/)**
 
 A war between the US and Iran is around the corner.  When the US and Israel struck Iran last year, crypto prices nosedived.  More strikes could hurt Bitcoin and Ethereum further.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
 
 ---
 
-**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://finance.yahoo.com/news/bitcoin-vs-ethereum-smarter-buy-163000901.html)**
+**[Bitcoin Price Falls to $68,000. Why Ethereum, XRP Are Struggling to Find Direction.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-ai-tech-stocks-5e824042?gaa_at=eafs&gaa_n=AWEtsqfwmCrZoUk9x5VVTmv0LdFLFW9jRheDhileES1u0bCRsLb4QshqQz5A&gaa_ts=6998c8ab&gaa_sig=xlKUIYbyRp-2ABoifKhxolZhWhMXuf8O4IQvRza9pXmRaQP___47dNpIpoAiSLelnIsh06kuEZ5WZLyJxtOD0A%3D%3D)**
 
-The world's two largest cryptocurrencies lost their luster over the past year.
-
-Yahoo Finance • 3h ago
+Barron's • 2d ago
 
 ---
 
@@ -196,7 +202,15 @@ Yahoo Finance • 3h ago
 
 For something unique like Ethereum (ETH), which is designed to be a decentralized utility, you have to look beyond the simple charts.
 
-Asbury Park Press • 1h ago
+Asbury Park Press • 2h ago
+
+---
+
+**[Dual South Korean listings send Ethereum layer-2 token AZTEC surging 82%](https://www.coindesk.com/markets/2026/02/20/dual-s-korea-listings-send-ethereum-layer-2-token-aztec-surging-82)**
+
+Korean exchanges Upbit and Bithumb both added local currency pairs for the privacy-focused layer-2 token, triggering a sharp move in a thinly traded market.
+
+CoinDesk • 8h ago
 
 ---
 
@@ -216,31 +230,17 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Ethereum 50% staking figure by Santiment draws criticism from researchers](https://www.coindesk.com/business/2026/02/18/ethereum-s-50-staking-milestone-triggers-backlash-over-misleading-supply-data)**
-
-CoinShares and Ethplorer.io say the 50% figure reflects cumulative deposits, not active staked ETH, which remains closer to 30% of supply.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqe0x3LhMqFLlqkcJUp2tSXBATSvhEpVkrlz0c6jO2U6UTR3Fns5jnaG&gaa_ts=6998b09e&gaa_sig=S74Zlv4arz35xLEE5x0LyUl-py9FgppLELemP7H2coe8Jx5B7Z0CqtF7yQ7TxpmI7gTX9Rcv0PZy5s_c-phe1g%3D%3D)**
-
-Barron's • 22h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Blackrock Ethereum ETF SUBMITTED (Major Price Reaction)](https://www.youtube.com/watch?v=IDB13BcKlLE)**
+**[🚨 BREAKING: Deep State 911 Insider BUYS ETHEREUM (Howard Lutnick) ($20K ETH) (Tom Lee)](https://www.youtube.com/watch?v=F22KAmIsKd4)**
 
-Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But the charts aren't as bullish! Will the bulls or ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
 
-📺 Discover Crypto
+📺 🌟yourfriendsommi
 
-👁️ 4K • 👍 119 • 💬 34 • ⏱️ 4:54 • 20h ago
+👁️ 2K • 👍 217 • 💬 21 • ⏱️ 16:03 • 16h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 5 • ⏱️ 6:09 • 7h ago
+👁️ 2K • 👍 145 • 💬 6 • ⏱️ 6:09 • 8h ago
 
 ---
 
@@ -260,7 +260,17 @@ Optimism has plunged to a new all-time low after intense selling pressure overwh
 
 📺 Paul Barron Network
 
-👁️ 50K • 👍 3K • 💬 158 • ⏱️ 15:12 • 23h ago
+👁️ 52K • 👍 3K • 💬 160 • ⏱️ 15:12 • 1d ago
+
+---
+
+**[Blackrock Ethereum ETF SUBMITTED (Major Price Reaction)](https://www.youtube.com/watch?v=IDB13BcKlLE)**
+
+Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But the charts aren't as bullish! Will the bulls or ...
+
+📺 Discover Crypto
+
+👁️ 4K • 👍 122 • 💬 34 • ⏱️ 4:54 • 21h ago
 
 ---
 
@@ -270,7 +280,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 4K • 👍 72 • 💬 6 • ⏱️ 18:58 • 2d ago
+👁️ 4K • 👍 73 • 💬 7 • ⏱️ 18:58 • 2d ago
 
 ---
 
@@ -280,27 +290,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 461 • 💬 161 • ⏱️ 21:01 • 1d ago
-
----
-
-**[🚨 BREAKING: Deep State 911 Insider BUYS ETHEREUM (Howard Lutnick) ($20K ETH) (Tom Lee)](https://www.youtube.com/watch?v=F22KAmIsKd4)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 2K • 👍 202 • 💬 19 • ⏱️ 16:03 • 15h ago
-
----
-
-**[ETH BOTTOM PATTERN FORMED!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=TJNwtdERzRY)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 128 • 👍 13 • 💬 2 • ⏱️ 4:18 • 9h ago
+👁️ 13K • 👍 470 • 💬 29 • ⏱️ 21:01 • 1d ago
 
 ---
 
@@ -310,7 +300,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 144 • 💬 10 • ⏱️ 10:02 • 8h ago
+👁️ 1K • 👍 165 • 💬 13 • ⏱️ 10:02 • 9h ago
 
 ---
 
@@ -320,17 +310,25 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 22K • 👍 742 • 💬 47 • ⏱️ 21:56 • 2d ago
+👁️ 22K • 👍 745 • 💬 47 • ⏱️ 21:56 • 2d ago
 
 ---
 
-**[Your Next Move Is CRUCIAL! (ETH Pumped +341% Last Time)](https://www.youtube.com/watch?v=okN2OECB1uQ)**
+**[Harvard just dumped bitcoin and bought ethereum](https://www.youtube.com/watch?v=PJIHUvPwt1c)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+📺 Boyce Watkins
 
-📺 Trade Confident
+👁️ 3K • 👍 246 • 💬 17 • ⏱️ 1:55 • 17h ago
 
-👁️ 701 • 👍 20 • 💬 2 • ⏱️ 4:36 • 1d ago
+---
+
+**[SUPER INVESTOR JUST SOLD HIS ENTIRE ETHEREUM POSITION](https://www.youtube.com/watch?v=Wsk-n6e2dh0)**
+
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
+
+📺 My Financial Friend
+
+👁️ 7K • 👍 301 • 💬 35 • ⏱️ 12:25 • 2d ago
 
 ---
 
