@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T21:50:52.289882+00:00'
+updated: '2026-02-20T22:27:31.010382+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 21:50 UTC  
+**Last Updated:** February 20, 2026 at 22:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 1h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 2h ago
 
 ---
 
@@ -94,7 +94,7 @@ I had a daydream to help scientists find out more information from rare caves of
 
 **[What is the ideal shutdown procedure for an Epson RS4 robot (or industrial SCARA robots in general)?](https://www.reddit.com/r/robotics/comments/1r9zy46/what_is_the_ideal_shutdown_procedure_for_an_epson/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -114,7 +114,7 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 13h ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 10h ago
+Business Insider • 11h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Insider • 10h ago
 
 NORD said this allows engineers to verify whether the drive concept is suitable for the system early in the planning phase.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ Gizmodo • 4h ago
 
 A robot butler sounds like a nice idea, but the technology has its drawbacks.
 
-The Conversation • 21h ago
+The Conversation • 22h ago
 
 ---
 

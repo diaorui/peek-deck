@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T21:50:52.280654+00:00'
+updated: '2026-02-20T22:27:31.001025+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 21:50 UTC  
+**Last Updated:** February 20, 2026 at 22:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Been tracking the Bitcoin Power Law model for a while now. Here's this week's update. BTC is sitting at $67,745. Power Law fair value is around $123,947 — about 45% below fair value. Oscillator reads 13.7% The oscillator has ticked up marginally from 13.6% to 13.7%, remaining firmly entrenched in the Deep Buy Zone (0–25%). This is historically rare territory that typically occurs only 1–2 times per halving cycle. The oscillator's EMA(150) at 31.2% remains below its EMA(350) at 37.7%, maintaining a bearish spread of -6.5 points. This configuration — deep value combined with bearish momentum — represents the model's maximum accumulation signal. Full breakdown with charts here if anyone's interested: https://timetobuybitcoin.com/analysis/maximum-accumulation-zone-deepens-oscillator-at-137-amid-his-2026-02-20 Not financial advice, just sharing the data. Curious what you guys think.
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ Been tracking the Bitcoin Power Law model for a while now. Here's this week's up
 
 I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
 
-52m ago
+1h ago
 
 ---
 
@@ -109,13 +109,13 @@ I've been in crypto for about three years now and I noticed something weird late
 
 We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentally different from previous cycles. In the past, both transaction count and total volume dropped. This time, they have not. Why?
 
-7h ago
+8h ago
 
 ---
 
 **[Money Printer Go Brrrr Again](https://www.reddit.com/r/Bitcoin/comments/1ra60h8/money_printer_go_brrrr_again/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentall
 
 I’ve been thinking less about short-term price lately and more about what Bitcoin could actually look like 10–20 years from now. Not in terms of “how high does it go,” but in terms of real usage. Like… what happens if adoption just keeps growing? More people self-custodying instead of leaving coins on exchanges. More businesses accepting BTC directly. Cross-border payments without needing banks in the middle. People choosing to save in something with a fixed supply instead of constantly inflating currencies. At some point, if that trend continues, Bitcoin stops being seen as just a speculative asset and starts looking more like infrastructure. A base layer. A monetary network that people actually rely on. And historically, when a new monetary network gains critical mass, the people who paid attention early weren’t just “lucky.” They understood what was happening before it became obvious to everyone else. So for me the real question isn’t will price go up. It’s what happens if a censorship resistant, fixed-supply asset just keeps gaining adoption globally. Curious how others here think about the 10–20 year outlook, purely from a network and usage perspective.
 
-11h ago
+12h ago
 
 ---
 
@@ -131,7 +131,7 @@ I’ve been thinking less about short-term price lately and more about what Bitc
 
 Made a simple BTC calculator that charts historical returns over time. It supports recurring buys or one time investments. You can change: Amount Start date Contribution schedule (one time, monthly, yearly, etc) It’s mainly to visualize how different entry points and recurring buys play out across cycles.
 
-🔗 [WhatIfInvest](https://www.whatifinvest.com/calculators/BTC_USD) • 5h ago
+🔗 [WhatIfInvest](https://www.whatifinvest.com/calculators/BTC_USD) • 6h ago
 
 ---
 
@@ -147,7 +147,7 @@ I don’t care if it dips more…. We just had to get in with that tax return. I
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-17h ago
+18h ago
 
 ---
 
@@ -167,7 +167,7 @@ Fortune • 12h ago
 
 Hotter inflation and slower growth delivers a messy message with the Federal Reserve likely take its time before any policy changes, one analyst said.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 1h ago
 
 Crypto lending platform Ledn has closed a $188 million asset-backed securities (ABS) issuance backed by its portfolio of Bitcoin (BTC)-collateralized retail loans, marking what the company describes as an industry first. On Feb. 20, Ledn announced that S&P assigned an investment grade rating of ...
 
-Yahoo Finance Singapore • 39m ago
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -191,13 +191,13 @@ Yahoo Finance Singapore • 39m ago
 
 Crypto prices edged higher on Friday despite a splash of tariff turbulence after the U.S. Supreme Court ruled Trump's levies illegal.
 
-CoinDesk • 27m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
 
-Bloomberg.com • 23h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -213,7 +213,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin has become a vessel of pure speculation
 
-The Globe and Mail • 11h ago
+The Globe and Mail • 12h ago
 
 ---
 
@@ -239,7 +239,7 @@ Investor's Business Daily • 1d ago
 
 Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
 
-⬆️ 3 • 💬 5 • 5d ago • [BTC Graveyard](https://btcgraveyard.com/)
+⬆️ 3 • 💬 5 • 6d ago • [BTC Graveyard](https://btcgraveyard.com/)
 
 ---
 
@@ -275,7 +275,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 3h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 4h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
@@ -303,7 +303,7 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 12h ago
+⬆️ 1 • 💬 0 • 13h ago
 
 ---
 
@@ -317,7 +317,7 @@ EMERGENCY CRYPTO UPDATE – Supreme Court just STRUCK DOWN most of Trump's globa
 
 📺 Tim Warren
 
-👁️ 4K • 👍 405 • 💬 46 • ⏱️ 47:04 • 2h ago
+👁️ 4K • 👍 405 • 💬 46 • ⏱️ 47:04 • 3h ago
 
 ---
 
@@ -347,7 +347,7 @@ https://youtu.be/RThI3UUSpwc?si=t0m9cQVPXyt35ZMD BUY ONE 1-STEP CHALLENGE → GE
 
 📺 100XClub
 
-👁️ 8K • 👍 903 • 💬 324 • ⏱️ 9:49 • 11h ago
+👁️ 8K • 👍 903 • 💬 324 • ⏱️ 9:49 • 12h ago
 
 ---
 
@@ -357,7 +357,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Landon Rayford
 
-👁️ 5K • 👍 1K • 2h ago
+👁️ 5K • 👍 1K • 3h ago
 
 ---
 
@@ -397,7 +397,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA 
 
 📺 100XClub
 
-👁️ 3K • 👍 215 • 💬 36 • ⏱️ 1:35 • 6h ago
+👁️ 3K • 👍 215 • 💬 36 • ⏱️ 1:35 • 7h ago
 
 ---
 

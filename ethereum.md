@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-20T21:50:52.286630+00:00'
+updated: '2026-02-20T22:27:31.007168+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 21:50 UTC  
+**Last Updated:** February 20, 2026 at 22:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Lobsters like block too You can use x402 for agents to pay and get access to blockchain data now. There’s no clean way for agents to access onchain data without API keys, accounts, or billing friction. Until now. With x402, agents can pay per request using stablecoins over HTTP, wallet in, data out. https://goldrush.dev/blog/goldrush-x402-blockchain-data-for-agents/
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Few years Ago no one believe quantum threat is even a thing. But lately it feels
 
 Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agents) into an API endpoint after a few days working through the official docs and SDK. It’s running end-to-end: send a request, receive a 402, sign a USDC transfer, retry, and get the response back. A lot of the documentation is confusing due to differences between v1 and v2, so I compiled everything into a single post that should make things clearer. It includes an interactive demo where you can generate a wallet, fund it, and make a real x402 payment against a live endpoint. The goal was to create one resource that’s enough to understand x402 and build your own agent payment integration. The guide also includes some background on the origins of 402. Check it out here: https://simplescraper.io/blog/x402-payment-protocol Let me know what you think!
 
-5h ago
+6h ago
 
 ---
 
@@ -112,7 +112,7 @@ There’s been a lot of talk lately about how fast teams are shipping contracts 
 
 Justin Drake dives deep into Lean Ethereum In this episode (which is the first in a six-part series on Lean Ethereum) we covered: - This vision for ethereum, spanning the consensus, data, and execution layers. - How post-quantum cryptography, faster finality, and enshrined ZK are all being used to future-proof Ethereum’s core. They also lay out some of the topics that will be covered in subsequent parts of the series. Listen here
 
-12h ago
+13h ago
 
 ---
 
@@ -144,7 +144,7 @@ Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and 
 
 Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that expanding AI autonomy without strong human alignment could increase systemic risk as crypto and AI converge.
 
-🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 11h ago
+🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 12h ago
 
 ---
 
@@ -202,7 +202,7 @@ Nasdaq • 5h ago
 
 The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -226,7 +226,7 @@ Seeking Alpha • 2d ago
 
 For something unique like Ethereum (ETH), which is designed to be a decentralized utility, you have to look beyond the simple charts.
 
-Asbury Park Press • 3h ago
+Asbury Park Press • 4h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 6 • ⏱️ 6:09 • 9h ago
+👁️ 2K • 👍 145 • 💬 6 • ⏱️ 6:09 • 10h ago
 
 ---
 
@@ -270,7 +270,7 @@ Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 122 • 💬 34 • ⏱️ 4:54 • 22h ago
+👁️ 4K • 👍 122 • 💬 34 • ⏱️ 4:54 • 23h ago
 
 ---
 
@@ -300,7 +300,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 165 • 💬 13 • ⏱️ 10:02 • 10h ago
+👁️ 1K • 👍 165 • 💬 13 • ⏱️ 10:02 • 11h ago
 
 ---
 
@@ -318,7 +318,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Boyce Watkins
 
-👁️ 3K • 👍 246 • 💬 17 • ⏱️ 1:55 • 18h ago
+👁️ 3K • 👍 246 • 💬 17 • ⏱️ 1:55 • 19h ago
 
 ---
 

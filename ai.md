@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T21:50:52.272378+00:00'
+updated: '2026-02-20T22:27:30.992500+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 21:50 UTC  
+**Last Updated:** February 20, 2026 at 22:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 8h ago
+🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 9h ago
 
 ---
 
@@ -65,7 +65,7 @@ So I've been watching people struggle with file organization for years. They hav
 
 There are two channels that I enjoy listening to while I sleep. They obviously have AI narrators. I believe they are commonly used ones as I've heard them used by a couple different channels. I asked because I want to create some narrated versions of public domain stories as well as Conan the barbarian (it's still 2 years off from being in the public domain but come on that just splitting hairs). I just want these for my own use for falling asleep. Maybe I'd post them on YouTube but it really isn't worth the target on my back and the hate. Ideally I would like to use the narrator for these videos? https://youtu.be/YeR53Pzccrs?si=wPoGrV9oVx842J0V This one is a nice voice as well that I would like to know the program for. https://youtu.be/uAnzLwc63bk?si=2KKgZ9HF6Sw-GoUd Any advice is appreciated
 
-7m ago
+43m ago
 
 ---
 
@@ -73,7 +73,7 @@ There are two channels that I enjoy listening to while I sleep. They obviously h
 
 We’ve been running voice AI agents in production for 18+ months doing real phone calls (outbound lead qualification and inbound customer care). During this time we’ve tested multiple TTS providers. Sharing our honest assessment because most “comparisons” online are either sponsored or based on 30-second demos, not thousands of hours of real phone conversations. Important context: our use case is Italian-language phone calls over standard telephony (not VoIP, not in-app), which is a harder test than English because fewer models are optimized for it. We process audio at 16kHz. ElevenLabs (currently in production): Best Italian voice quality by far. Prosody is natural, handles pauses well, emotional range is good. Latency for TTS generation is acceptable in our streaming setup. Downsides: pricing at scale gets expensive, and occasionally the voice “glitches” on certain phonemes. We’ve found that the voice stability is very dependent on how you structure your input text — short sentences work dramatically better than long ones. Azure Neural TTS: Rock solid reliability, great latency, good pricing. Italian voices are okay but sound “flat” compared to ElevenLabs — like a newsreader vs a real person. For customer care this works fine. For outbound sales calls where you need warmth and persuasion, it wasn’t cutting it. PlayHT: Tested their v2 API. English quality is impressive. Italian was noticeably worse — unnatural stress patterns, weird pauses between words. Might work for English-only deployments. Cartesia: Very promising on latency (their streaming is genuinely fast). Voice quality for English is good. Italian support was limited when we tested. Worth watching. The metric that matters most for us isn’t MOS score or any standard quality metric — it’s what we call “first 5 second detection rate,” meaning how often the person being called realizes they’re talking to AI within the first 5 seconds. With ElevenLabs we’re at roughly 15-20%. With Azure it was closer to 40%. That gap is massive for outbound conversion. Has anyone done serious production testing of TTS providers for non-English languages? Also very curious about Cartesia’s Italian/European language support — their architecture seems promising but I haven’t seen real multilingual benchmarks. And for anyone using Deepgram or AssemblyAI on the STT side: how’s Italian transcription accuracy for you?
 
-24m ago
+1h ago
 
 ---
 
@@ -89,7 +89,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 Genuine question for teams that have been using Copilot/Cursor/Claude Code in production for 6+ months. I've been working on AI deployment in an enterprise context and keep running into the same pattern: a team adopts AI coding tools, velocity looks great for a few months, and then: - On-call engineers can't debug AI-generated code they didn't write - Incident postmortems have "unclear why" entries more often - Code churn goes up because people keep rewriting code they accepted but didn't understand - New hires can't get oriented because the "why" behind decisions was never documented -- the AI generated the code and the author moved on I started calling this "cognitive debt", the gap between what your codebase does and what your team actually understands about it. Unlike technical debt, you might not even know you have it until something breaks and nobody can explain why. I ended up building a framework to manage it and implemented it on the company i work with: comprehension checkpoints before accepting AI output, a PR template that requires explaining AI code in your own words, code review guardrails designed for AI-generated code, and a quarterly audit system. I have create a github repo with all my work around that, if you are interested let me know. But I'm more interested in what other teams are doing. Have you formalized anything around AI code comprehension? Or is it still informal, "just review it carefully"? Specific things I'm curious about: - Do you require any disclosure when a PR contains AI-generated code? - Do you have paths in your codebase where AI tools are restricted? - Have you had incidents where the root cause was "nobody understood what this code was doing"?
 
-4h ago
+5h ago
 
 ---
 
@@ -141,7 +141,7 @@ NBC News • 4h ago
 
 Software stocks have been in sell-off mode in recent weeks on fears that new AI tools will uproot their longstanding business models.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -157,7 +157,7 @@ BBC • 2h ago
 
 Chelsea have announced that Artificial Intelligance firm IFS will be the club's front-of-shirt sponsor until the end of the season.
 
-ESPN • 1h ago
+ESPN • 2h ago
 
 ---
 
@@ -165,7 +165,7 @@ ESPN • 1h ago
 
 Chelsea have announced IFS, a new AI firm, as their front-of-shirt sponsor for the remainder of the 2025/26 season, "marking the beginning of a long-term collaboration". The Blues have not had a permanent sponsor since their deal with mobile phone operator Three expired in 2023.
 
-Goal.com • 43m ago
+Goal.com • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ Goal.com • 43m ago
 
 Key PointsCoreWeave's report could be better than expected, thanks to fast-growing demand for AI compute capacity.
 
-Nasdaq • 2h ago
+Nasdaq • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ Nasdaq • 2h ago
 
 AI is breaking moats, and digital leaders are already down 20–80% as competition surges. Read the full analysis here.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ Yahoo Finance • 1d ago
 
 Over the past week, a slew of cinematic videos of celebrities and characters in absurd situations have gone viral online, with one commonality –– they were created using a new artificial intelligence tool from Chinese developer ByteDance, sparking anxiety over the fast-evolving capabilities of AI.
 
-CNN • 16h ago
+CNN • 17h ago
 
 ---
 
@@ -234,13 +234,13 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 586 • 💬 139 • 7h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 586 • 💬 139 • 8h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 505 • 💬 448 • 18h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 505 • 💬 448 • 19h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -302,7 +302,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 41K • 👍 1K • 💬 45 • ⏱️ 12:14 • 22h ago
+👁️ 41K • 👍 1K • 💬 45 • ⏱️ 12:14 • 23h ago
 
 ---
 
@@ -362,7 +362,7 @@ Adam Scott's tee shot embeds itself inches from the hole during the opening roun
 
 📺 PGA TOUR
 
-👁️ 105K • 👍 1K • 💬 43 • ⏱️ 0:16 • 20h ago
+👁️ 105K • 👍 1K • 💬 43 • ⏱️ 0:16 • 21h ago
 
 ---
 
@@ -652,7 +652,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.7k • 🔱 1.7k • 1h ago
+⭐ 15.7k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -680,7 +680,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.5k • 🔱 525 • 13h ago
+⭐ 4.5k • 🔱 525 • 14h ago
 
 ---
 
@@ -700,7 +700,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 307 • 14h ago
+⭐ 3.1k • 🔱 307 • 15h ago
 
 ---
 
