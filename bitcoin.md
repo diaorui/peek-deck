@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-19T23:31:25.776083+00:00'
+updated: '2026-02-20T02:09:51.614586+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 19, 2026 at 23:31 UTC  
+**Last Updated:** February 20, 2026 at 02:09 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,60 +38,60 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,885.57
+### $67,225.25
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.4%  
-**7d:** -3.1%  
-**30d:** -25.5%  
-**90d:** -21.2%  
-**1y:** -32.1%  
+**24h:** +0.5%  
+**7d:** -3.6%  
+**30d:** -24.8%  
+**90d:** -22.6%  
+**1y:** -30.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1338.66B
+**Market Cap:** $1345.31B
 Rank #1
 
-**Circulating Supply:** 19,992,043 BTC
+**Circulating Supply:** 19,992,075 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.9%
+-46.6%
 
 **All-Time Low:** $67.81
-+98617.0%
++99147.9%
 
 ---
 
 ## Fear & Greed Index
 
-### 9
+### 7
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
+**[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-12h ago
+5h ago
 
 ---
 
-**[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
+**[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-2h ago
+14h ago
 
 ---
 
 **[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-4h ago
+7h ago
 
 ---
 
@@ -99,7 +99,15 @@ Rank #1
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-7h ago
+9h ago
+
+---
+
+**[Today My Family Got off Zero & Joined the .1 club🚀](https://www.reddit.com/r/Bitcoin/comments/1r9hwmw/today_my_family_got_off_zero_joined_the_1_club/)**
+
+I don’t care if it dips more…. We just had to get in with that tax return. I’d rather it dip to 50k & miss out on those small amounts of BTC than have it rip to 100k or beyond tomorrow and live with the regret that I’ll never see BTC that low ever again! Tonight is the first night I can rest peacefully knowing my family is hedged against the decaying dollar and positioned to benefit from deflation from government inflation. The last one using the dollar gets stuck holding the bag of poverty. Not this family🙏🏼🚀
+
+38m ago
 
 ---
 
@@ -107,7 +115,7 @@ Full article with explanations on the data here https://x.com/sdwouters/status/2
 
 The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 10h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 13h ago
 
 ---
 
@@ -121,31 +129,23 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-8h ago
-
----
-
-**[Last night I found an old harddrive...containing my script and mood trailer for a Bitcoin movie.](https://www.reddit.com/r/Bitcoin/comments/1r8wwpu/last_night_i_found_an_old_harddrivecontaining_my/)**
-
-SYNOPSIS British submarine coordinates appear on a public ledger disguised as transactions. Broadcast globally. Every ten minutes. Western intelligence services descend into chaos. Salvation lies with three strangers: a computer scientist, a civil servant and an army veteran.
-
 11h ago
 
 ---
 
-**[Abu Dhabi Funds increased its bitcoin position by 46% to $1 Billion. As we've said--institutions are buying while retail is selling](https://www.reddit.com/r/Bitcoin/comments/1r8bfe3/abu_dhabi_funds_increased_its_bitcoin_position_by/)**
+**[1099-DA Question if Cost Basis/Cost Bases are Unknown](https://www.reddit.com/r/Bitcoin/comments/1r9g9jp/1099da_question_if_cost_basiscost_bases_are/)**
 
-Per Bloomberg - The sovereign wealth fund increased its holding in BlackRock Inc.’s iShares Bitcoin Trust ETF by 46% from the previous quarter to 12.7 million shares as of Dec. 31, according to a filing. Abu Dhabi Investment Council, an independently-run unit of Mubadala, also boosted its position by 3% to 8.2 million shares through a subsidiary. Their cumulative stakes were worth more than $1 billion, according to the funds’ filings, though details on the purchase prices weren’t immediately available. IBIT, which tracks the value of Bitcoin, lost over 23% of its value in the fourth quarter and has fallen by more than a fifth so far this year.
+Hello, I’ve received a 1099-DA for Cash App that I am confused about. Last year, I sold bitcoin for ~$2k in gross proceeds, but I have zero idea what the cost basis are for five individual transactions. I’ve been buying small batches of bitcoin over years and have received gifts of bitcoin, and those five sales came from those transactions. Can I just report the cost basis as 0 for all of them and pay the capital gains tax on the gross proceeds? Since the total amount is so low, I’d be ok with paying the tax in exchange for going through the headache of aggregating the cost bases. Cashapp allows you to say “various” for dates acquired, so that’s in-part why I’m asking. Thank you so much! I know zero about tax.
 
-1d ago
+1h ago
 
 ---
 
-**[Daily Discussion, February 19, 2026](https://www.reddit.com/r/Bitcoin/comments/1r8ri0y/daily_discussion_february_19_2026/)**
+**[In roughly 3 weeks from now, the 20,000,000th BTC will be mined. It will then take 114 years for the last 1,000,000 to be mined. Stack accordingly…](https://www.reddit.com/r/Bitcoin/comments/1r9hx8j/in_roughly_3_weeks_from_now_the_20000000th_btc/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+Time is running out. TICK TOCK, NEXT BLOCK MOTHA FOCK!
 
-17h ago
+38m ago
 
 ---
 
@@ -153,61 +153,39 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://www.bloomberg.com/news/articles/2026-02-18/bitcoin-won-over-wall-street-and-now-it-s-paying-the-price)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[McGlone shifts bitcoin forecast to $28,000 after critics blast $10,000 call as 'nonsense'](https://www.coindesk.com/markets/2026/02/19/mike-mcglone-softens-bitcoin-downside-target-to-usd28-000-after-backlash-over-usd10-000-call)**
-
-The Bloomberg strategist revised his outlook after analysts challenged his recession-driven forecast, calling the earlier $10,000 target alarmist and potentially harmful to investors.
-
-CoinDesk • 8h ago
-
----
-
-**[The Uneven Toll of Crypto’s Latest Slide Falls on Retail Investors](https://www.bloomberg.com/news/newsletters/2026-02-19/the-uneven-toll-of-crypto-s-latest-slide-falls-on-retail-investors)**
-
-Bloomberg.com • 1h ago
-
----
-
 **[Eric Trump shrugs off bitcoin's recent slump: 'If you don't have the backbone ... go invest in some boring bond'](https://finance.yahoo.com/news/eric-trump-shrugs-off-bitcoins-recent-slump-if-you-dont-have-the-backbone--go-invest-in-some-boring-bond-193400545.html)**
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin’s Lightning Network Surpasses $1 Billion in Monthly Volume As Adoption Grows](https://bitcoinmagazine.com/news/bitcoins-lightning-network-surpasses)**
+**[Bitcoin price news: BTC steadies at $67,000 as traders pay for crash protection](https://www.coindesk.com/markets/2026/02/19/bitcoin-steadies-near-usd67-000-as-traders-pay-for-crash-protection)**
 
-Bitcoin’s Lightning Network topped $1.17 billion in November monthly volume across 5.22 million transactions, according to River Financial, which says the milestone reflects growing adoption despite flat price action.
+The average bitcoin ETF investor now sits on a 20% paper loss, leaving the market vulnerable to capitulation selling if prices slide further, a Wintermute trader said.
 
-Bitcoin Magazine • 3h ago
-
----
-
-**[Hacker returns $21 million in stolen bitcoin to South Korean authorities: report](https://www.theblock.co/post/390451/hacker-returns-stolen-bitcoin-south-korea)**
-
-South Korean prosecutors have recovered the $21 million worth of bitcoin that was stolen from their custody last year.
-
-The Block • 13h ago
+CoinDesk • 4h ago
 
 ---
 
-**[U.S. senator warns Treasury Secretary against 'bailing out billionaires'](https://www.thestreet.com/crypto/markets/us-senator-warns-treasury-secretary-against-bailing-out-billionaires)**
+**[Ditch the Bitcoin Illusion and Tokenize Real Assets](https://www.bloomberg.com/opinion/articles/2026-02-19/ditch-the-bitcoin-illusion-and-tokenize-real-assets)**
 
-Sen. Warren is pressing the Federal Reserve and the US Treasury.
-
-thestreet.com • 7h ago
+Bloomberg.com • 7h ago
 
 ---
 
-**[New way to stack sats: hold USDC, earn Bitcoin. Sometimes the smaller features are the coolest ones. Coinbase One members can choose to receive their weekly rewards in either BTC or USDC, rolling out now.](https://x.com/brian_armstrong/status/2024517835167326609)**
+**[Bitcoin ETF Gold Rush Turns Into An Epic Bust](https://www.investors.com/etfs-and-funds/etfs/bitcoin-etf-gold-rush-turns-into-an-epic-bust/)**
 
-x.com • 7h ago
+Investor's Business Daily • 13h ago
+
+---
+
+**[The Daily: Hacker returns $21 million in stolen bitcoin, Robinhood Chain testnet hits four million transactions in first week, and more](https://www.theblock.co/post/390522/the-daily-hacker-returns-21-million-in-stolen-bitcoin-robinhood-chain-testnet-hits-four-million-transactions-in-first-week-and-more)**
+
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+
+The Block • 8h ago
 
 ---
 
@@ -215,15 +193,39 @@ x.com • 7h ago
 
 The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
 
-The Globe and Mail • 12h ago
+The Globe and Mail • 15h ago
 
 ---
 
-**[Bitcoin (BTC) 13F news: Mubadala Investment Company and Al Warda boosted IBIT stakes in Q4](https://www.coindesk.com/markets/2026/02/17/abu-dhabi-funds-bought-the-bitcoin-dip-as-they-increased-exposure-to-blackrock-s-ibit)**
+**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)**
 
-Both Mubadala Investment Company and Al Warda Investments lifted investments in BlackRock's iShares Bitcoin ETF (IBIT) in the fourth quarter.
+The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-CoinDesk • 2d ago
+Fortune • 1d ago
+
+---
+
+**[JPMorgan announces Bitcoin mining leader](https://www.thestreet.com/crypto/markets/jpmorgan-announces-bitcoin-mining-leader)**
+
+This comes at a time when Bitcoin miners are increasingly pivoting out of the sector.
+
+thestreet.com • 1d ago
+
+---
+
+**[Eric Trump Doubles Down on $1M Bitcoin Prediction — As Trump Family Welcomes Crypto Leaders at WLFI Gathering](https://www.ccn.com/news/crypto/eric-trump-doubles-down-on-1m-bitcoin-price-prediction/)**
+
+Eric Trump renewed his $1 million Bitcoin price prediction as the Trump family hosted Wall Street and crypto leaders at a WLFI forum.
+
+CCN.com • 11h ago
+
+---
+
+**['Dr. Doom' Nouriel Roubini blasts bitcoin as 'bogus' and a risk to the financial system](https://www.businessinsider.com/bitcoin-dr-doom-nouriel-roubini-crypto-bogus-financial-system-risk-2026-2)**
+
+Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
+
+Business Insider • 1d ago
 
 ---
 
@@ -279,7 +281,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 7h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 10h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -303,7 +305,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 1 • 💬 1 • 3h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
+⬆️ 1 • 💬 1 • 6h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
 
 ---
 
@@ -317,7 +319,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 49K • 👍 2K • 💬 101 • ⏱️ 28:28 • 1d ago
+👁️ 52K • 👍 2K • 💬 101 • ⏱️ 28:28 • 1d ago
 
 ---
 
@@ -327,7 +329,17 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 21K • 👍 1K • 💬 258 • ⏱️ 46:22 • 8h ago
+👁️ 23K • 👍 1K • 💬 263 • ⏱️ 46:22 • 10h ago
+
+---
+
+**[Bitcoin Drops Below $65K! Should We Be Worried? W/ Ben Cowen](https://www.youtube.com/watch?v=0aGWd4fSixI)**
+
+Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market analysis meets high probability trade setups ...
+
+📺 The Wolf Of All Streets
+
+👁️ 8K • 👍 522 • 💬 146 • ⏱️ 34:52 • 5h ago
 
 ---
 
@@ -337,7 +349,17 @@ Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail app
 
 📺 The Wolf Of All Streets
 
-👁️ 19K • 👍 959 • 💬 276 • ⏱️ 36:44 • 6h ago
+👁️ 21K • 👍 995 • 💬 289 • ⏱️ 36:44 • 9h ago
+
+---
+
+**[Bitcoin is in a ‘crypto winter,’ says Strategy founder](https://www.youtube.com/watch?v=H-LEbgIojgA)**
+
+Strategy founder and executive chairman Michael Saylor discusses the current 'crypto winter' for Bitcoin, financial stability and the ...
+
+📺 Fox Business
+
+👁️ 87K • 👍 2K • 💬 8K • ⏱️ 11:33 • 1d ago
 
 ---
 
@@ -347,27 +369,17 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 2K • ⏱️ 11:38 • 1d ago
+👁️ 59K • 👍 3K • 💬 2K • ⏱️ 11:38 • 2d ago
 
 ---
 
-**[$1 Million Per Bitcoin by 2030?!😨😨](https://www.youtube.com/watch?v=xnvmLfzNCeA)**
+**[BITCOIN IS ABOUT TO REPEAT HISTORY!!!! (CRASH COMING)](https://www.youtube.com/watch?v=s22EAJsbIYk)**
 
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+WEEX: https://themoon.co/DailyWEEX UP TO $30000 BONUS BLOFIN: https://themoon.co/dailyblofin45usdt 20% ...
 
-📺 Crypto Cam
+📺 The Moon Show
 
-👁️ 18K • 👍 446 • 💬 34 • ⏱️ 0:30 • 1d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=lOy2gPH6OTs)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 Haley Costomiris
-
-👁️ 5K • 👍 3K • 1h ago
+👁️ 8K • 👍 424 • 💬 25 • ⏱️ 9:18 • 10h ago
 
 ---
 
@@ -377,7 +389,17 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 427 • 💬 19 • ⏱️ 1:08 • 1d ago
+👁️ 15K • 👍 431 • 💬 19 • ⏱️ 1:08 • 1d ago
+
+---
+
+**[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
+
+Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
+
+📺 Mark Moss
+
+👁️ 95K • 👍 4K • 💬 509 • ⏱️ 20:14 • 2d ago
 
 ---
 
@@ -387,27 +409,7 @@ Lyn Alden is a macro strategist and one of the most respected independent voices
 
 📺 Anthony Pompliano
 
-👁️ 59K • 👍 2K • 💬 33 • ⏱️ 20:57 • 2d ago
-
----
-
-**[the face of a man who knows bitcoin is done.](https://www.youtube.com/watch?v=MEpyBkdCoiQ)**
-
-Protect your crypto: https://www.ledger.com/altcoindaily Quantum Computing Will Kill Bitcoin? | Sell Crypto Now?
-
-📺 Altcoin Daily
-
-👁️ 110K • 👍 4K • 💬 585 • ⏱️ 10:49 • 2d ago
-
----
-
-**[This Surprised Me (Bitcoin Update)](https://www.youtube.com/watch?v=aGnsO6O2zu4)**
-
-Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
-
-📺 Aaron Bennett
-
-👁️ 9K • 👍 543 • 💬 243 • ⏱️ 8:53 • 16h ago
+👁️ 60K • 👍 2K • 💬 33 • ⏱️ 20:57 • 2d ago
 
 ---
 
