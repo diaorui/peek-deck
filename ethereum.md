@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-20T08:41:58.344726+00:00'
+updated: '2026-02-20T09:42:38.161235+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 08:41 UTC  
+**Last Updated:** February 20, 2026 at 09:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,940.09
+### $1,971.43
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.1%  
-**7d:** -5.9%  
-**30d:** -33.5%  
-**90d:** -30.0%  
-**1y:** -26.2%  
+**24h:** +0.4%  
+**7d:** -5.7%  
+**30d:** -33.3%  
+**90d:** -29.8%  
+**1y:** -26.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $236.27B
+**Market Cap:** $237.29B
 Rank #2
 
 **Circulating Supply:** 120,692,388 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.4%
+-60.3%
 
 **All-Time Low:** $0.43
-+451942.7%
++453970.5%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2h ago
+3h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 New 13F filings show major financial institutions sharply increased positions in BitMine, a public company widely known as the largest corporate holder of Ethereum. Morgan Stanley now holds 12.2M shares (+26%), ARK 9.5M (+27%), BlackRock 9M (+166%), and Goldman Sachs 5.2M (+588%). Vanguard, Bank of America, Schwab, RBC, Citi and BNY Mellon also expanded exposure. In total, 457 institutional holders now control about 136.7M BitMine shares (~$2.86B). This suggests institutions are increasingly accessing ETH exposure via equity structures rather than direct custody — similar to how MicroStrategy functions as a BTC proxy. Full breakdown: https://btcusa.com/wall-street-giants-boost-bitmine-holdings-as-institutional-ethereum-exposure-expands/ Curious how people here see this trend — does equity-based ETH exposure accelerate or delay direct institutional ETH ownership?
 
-16h ago
+17h ago
 
 ---
 
@@ -88,7 +88,7 @@ New 13F filings show major financial institutions sharply increased positions in
 
 There is an important synergy between FOCIL and AA (EIP-8141, which is based on 7701): 8141 makes not just smart accounts (including multisig, quantum-resistant signatures, key changes, gas sponsorship) first-class citizens, it also can do the same for privacy protocols (either indirectly via paymaster, or if we add 2D nonces, directly as a multi-tenant account). "First-class citizen" means that operations sent from that account can be included directly onchain as transactions, with no wrappers. FOCIL enables censorship-resistant rapid inclusion of any transaction. Hence, with FOCIL and 8141 together, anything, including smart wallet txs, gas sponsored txs, and even privacy protocol txs, can be included onchain through one of 17 different actors (the proposer or the includers) that are all chosen randomly in each slot. This gives us guaranteed rapid inclusion, meaning almost certainly within 1-2 slots, of any such tx, even in an adversarial environment. In this iteration, the FOCILs are 8 kB each, so they are very small in size. However, there is a natural future extension path to making them much larger, so that the majority of transactions to a block could, if needed, come through FOCILs. Such a design would have many of the properties of multiple concurrent proposer (MCP) designs, with the key difference being that FOCILs do not try to control the MEV-relevant "last look" role - that's still auctioned off with ePBS. The behavior of the last look role in "full MCP" depends strongly on the specifics of the design. The FOCIL design ensures that even if literally 100% of all slots get sold off via proposer-builder separation to a hostile actor that refuses to connect to public mempools, discriminates against certain applications, or is otherwise abusive, all transactions can still get quickly included. It's not eliminating the centralization of the proposer role, but it is heavily disempowering it. With EIP-8141 (AA), transactions from smart wallets, privacy protocols, etc, could be sent through a public mempool, and directly received by a FOCIL includer, no wrappers, "public broadcasters", or other intermediaries required. Ethereum is going hard.
 
-13h ago
+14h ago
 
 ---
 
@@ -104,13 +104,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ACDC #175 saw steady progress on Glamsterdam’s ePBS Devnet and the formal selection of FOCIL as Hegotá’s Consensus Layer headliner.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-175/) • 6h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-175/) • 7h ago
 
 ---
 
 **[How much do you know about Ethereum ?](https://www.reddit.com/r/ethereum/comments/1r9msb7/how_much_do_you_know_about_ethereum/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -118,7 +118,7 @@ ACDC #175 saw steady progress on Glamsterdam’s ePBS Devnet and the formal sele
 
 I've been going down a rabbit hole on early Ethereum contract archaeology and found something I thought was worth sharing. MistCoin was deployed on November 3, 2015 — just a few months after Ethereum's mainnet launch. It implements what we'd now recognize as the ERC-20 interface (transfer, balanceOf, totalSupply, approve/transferFrom), but ERC-20 as a formal standard didn't exist until Fabian Vogelsteller's EIP in late 2015, and wasn't widely adopted until 2017. A few things that stood out to me looking at the contract: **Solidity 0.1.6.** The syntax looks almost alien compared to modern Solidity. No `pragma`, no `view`/`pure`, no SafeMath. It's like looking at a fossil record of the language. **Fixed supply of 1,000,000 tokens.** No mint function, no owner privileges, no upgradability. The entire supply was assigned in the constructor and that was it. Immutable from day one. **The contract structure itself became the blueprint.** If you compare MistCoin's layout to the ERC-20 standard that was formalized later, the resemblance is striking. The pattern of mapping balances, emitting Transfer events, and the approve/transferFrom flow — it's all there. What I find interesting isn't the token itself, but what it tells us about how Ethereum's developer culture evolved. In 2015, people were hand-rolling token contracts from scratch with no standards, no templates, no OpenZeppelin. The fact that multiple developers independently converged on nearly identical patterns is what eventually made ERC-20 possible as a standard — it codified what was already emerging organically. The contract is still on-chain, obviously. Blockchain archaeology is one of those things that reminds you everything on Ethereum is permanent. The earliest experiments are still sitting there, readable and verifiable. More details on the history: [mistcoineth.com](https://mistcoineth.com) Has anyone else found interesting pre-standard contracts from 2015? I'd love to know what other early experiments are still sitting on mainnet.
 
-15h ago
+16h ago
 
 ---
 
@@ -158,14 +158,6 @@ Fortune • 1d ago
 
 ---
 
-**[Peter Thiel Exits ETHZilla Investment After Ethereum Treasury Stock Craters](https://finance.yahoo.com/news/peter-thiel-exits-ethzilla-investment-210444026.html)**
-
-Billionaire investor Peter Thiel and Founders Fund held a 7.5% stake in Ethereum treasury company ETHZilla last year—but not anymore.
-
-Yahoo Finance • 1d ago
-
----
-
 **[Peter Thiel and Founders Fund exit Ethereum treasury firm ETHZilla, SEC filing shows](https://www.theblock.co/post/390285/peter-thiel-and-founders-fund-exit-ethereum-treasury-firm-ethzilla-sec-filing-shows)**
 
 Peter Thiel fully exits ETHZilla, filing shows, as shares slide and the firm shifts from ether buildup to tokenization.
@@ -174,11 +166,25 @@ The Block • 2d ago
 
 ---
 
-**[Peter Thiel Exits ETHZilla Investment After Ethereum Treasury Stock Craters](https://decrypt.co/358468/peter-thiel-exits-ethzilla-investment-ethereum-treasury-stock-craters)**
+**[Peter Thiel Exits ETHZilla Investment After Ethereum Treasury Stock Craters](https://finance.yahoo.com/news/peter-thiel-exits-ethzilla-investment-210444026.html)**
 
 Billionaire investor Peter Thiel and Founders Fund held a 7.5% stake in Ethereum treasury company ETHZilla last year—but not anymore.
 
-Decrypt • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Peter Thiel sells off full stake in crypto company](https://www.thestreet.com/crypto/markets/peter-thiel-sells-off-full-stake-in-crypto-company)**
+
+SEC filing shows Thiel fully exited Ethereum treasury firm.
+
+thestreet.com • 2d ago
+
+---
+
+**[Bitcoin Price Falls to $68,000. Why Ethereum, XRP Are Struggling to Find Direction.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-ai-tech-stocks-5e824042?gaa_at=eafs&gaa_n=AWEtsqd33YD2yYTXv2Gw9c5Q_B3Hb7gQrIQ17Yo_Eg3x5UnSo6LFKy_4nx1_&gaa_ts=69982ff9&gaa_sig=74DXVVx2ACLF4lvIEFyycPrZK3mCW0XMJCWokAiSmhq5pLQsfUDujIW8YUl63XuI1yRp0RHBN1ciMMHZiwSbTQ%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -190,22 +196,6 @@ The Block • 2d ago
 
 ---
 
-**[BlackRock, Coinbase to keep 18% of Ethereum staking revenue in new ETF](https://www.dlnews.com/articles/defi/blackrock-to-take-fifth-of-ether-staking-revenue-in-new-etf/)**
-
-BlackRock and Coinbase will take an 18% cut of staking revenue from ETHB.  It is well-positioned to become the largest Ethereum ETF on the market.
-
-dlnews.com • 2d ago
-
----
-
-**[Harvard University Cuts Bitcoin ETF Holdings In Q4, Enters Ethereum ETF For First Time — Crypto Billionaire Changpeng Zhao Wonders 'What's Next'](https://finance.yahoo.com/news/harvard-university-cuts-bitcoin-etf-233111982.html)**
-
-Harvard University has cut back on its Bitcoin (CRYPTO: BTC) position and dived into Ethereum (CRYPTO: ETH) for the first time, according to its latest 13F filing released on Friday. Harvard Loses Significant Chunk Of Bitcoin ETF Harvard Management Company,...
-
-Yahoo Finance • 9h ago
-
----
-
 **[The Ethereum creator and early Polymarket backer doesn't like the direction prediction markets are headed](https://www.businessinsider.com/ethereum-creator-polymarket-backer-raises-concern-about-prediction-markets-future-2026-2)**
 
 Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
@@ -214,17 +204,27 @@ Business Insider • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqdbRG78PqFXipxaewXqC1Nss6ULewcDpqWyJdpx7CZCWmgcDTnmG3YK&gaa_ts=699821c2&gaa_sig=70mJTP9aw-XyFITIzRBXE__zGFapWIxezwC2CTQagCCeZszCknJOLgPC2lC4sHHWQBayo3kKukk_dQ577qVpsw%3D%3D)**
+**[Harvard University Cuts Bitcoin ETF Holdings In Q4, Enters Ethereum ETF For First Time — Crypto Billionaire Changpeng Zhao Wonders 'What's Next'](https://finance.yahoo.com/news/harvard-university-cuts-bitcoin-etf-233111982.html)**
 
-Barron's • 11h ago
+Harvard University has cut back on its Bitcoin (CRYPTO: BTC) position and dived into Ethereum (CRYPTO: ETH) for the first time, according to its latest 13F filing released on Friday. Harvard Loses Significant Chunk Of Bitcoin ETF Harvard Management Company,...
+
+Yahoo Finance • 10h ago
 
 ---
 
-**[Crypto Buy Alert For Bitcoin, Ethereum and XRP: Here’s What Comes Next](https://www.tradingview.com/news/coinpedia:449dc01b7094b:0-crypto-buy-alert-for-bitcoin-ethereum-and-xrp-here-s-what-comes-next/)**
+**[Robinhood (HOOD) L2 testnet logs 4 million transactions in first week](https://www.coindesk.com/tech/2026/02/19/robinhood-testnet-l2-logs-4-million-transactions-following-vitalik-questions-of-ethereum-s-rollup-roadmap)**
 
-Crypto markets may be setting up for a short-term bounce, according to market strategist Gareth Soloway. After weeks of pressure and sideways movement, charts for Bitcoin, Ethereum and XRP are showing patterns that traders often watch for possible upside moves.But this is not a call for new all-tim…
+Centralized exchanges are moving forward building their own blockchain infrastructure even as the broader Ethereum ecosystem debates its future.
 
-TradingView • 14h ago
+CoinDesk • 17h ago
+
+---
+
+**[Quantum fears aren’t behind Bitcoin’s 46% drop, says developer](https://www.tradingview.com/news/cointelegraph:b4eef7a39094b:0-quantum-fears-aren-t-behind-bitcoin-s-46-drop-says-developer/)**
+
+Bitcoin’s recent sell-off isn’t due to quantum computing fears, because if that were the case, Ether would be soaring, says Bitcoin developer Matt Carallo. “I strongly disagree with the characterization that Bitcoin's current price is materially, because of some kind of quantum risk,” Carallo told…
+
+TradingView • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ Optimism has plunged to a new all-time low after intense selling pressure overwh
 
 📺 Paul Barron Network
 
-👁️ 41K • 👍 2K • 💬 143 • ⏱️ 15:12 • 12h ago
+👁️ 44K • 👍 2K • 💬 147 • ⏱️ 15:12 • 13h ago
 
 ---
 
@@ -248,7 +248,7 @@ Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 86 • 💬 20 • ⏱️ 4:54 • 9h ago
+👁️ 3K • 👍 95 • 💬 23 • ⏱️ 4:54 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 69 • 💬 4 • ⏱️ 18:58 • 1d ago
+👁️ 4K • 👍 70 • 💬 5 • ⏱️ 18:58 • 1d ago
 
 ---
 
@@ -268,7 +268,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 665 • 👍 112 • 💬 14 • ⏱️ 16:03 • 4h ago
+👁️ 1K • 👍 143 • 💬 15 • ⏱️ 16:03 • 5h ago
 
 ---
 
@@ -278,17 +278,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 411 • 💬 26 • ⏱️ 21:01 • 17h ago
-
----
-
-**[BITCOIN &amp; ALTCOINS: This Changes EVERYTHING (for now)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vNgyvosrXYg)**
-
-BITCOIN & ALTCOINS: This Changes EVERYTHING (for now)!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 190 • 💬 46 • ⏱️ 16:59 • 8h ago
+👁️ 11K • 👍 424 • 💬 28 • ⏱️ 21:01 • 18h ago
 
 ---
 
@@ -298,17 +288,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 339 • 💬 23 • ⏱️ 10:07 • 3h ago
-
----
-
-**[ETH Ethereum Price Predictions: Possible Scenarios](https://www.youtube.com/watch?v=E4vrczwZzt8)**
-
-Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Only: All content on this channel is for ...
-
-📺 C-Zar Gets Crypto 
-
-👁️ 257 • 👍 25 • 💬 15 • ⏱️ 16:35 • 9h ago
+👁️ 2K • 👍 574 • 💬 53 • ⏱️ 10:07 • 4h ago
 
 ---
 
@@ -316,7 +296,17 @@ Welcome to Czar Gets Crypto! Please note the following: Educational Purposes Onl
 
 📺 Boyce Watkins
 
-👁️ 1K • 👍 126 • 💬 7 • ⏱️ 1:55 • 5h ago
+👁️ 2K • 👍 165 • 💬 8 • ⏱️ 1:55 • 6h ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS: This Changes EVERYTHING (for now)!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=vNgyvosrXYg)**
+
+BITCOIN & ALTCOINS: This Changes EVERYTHING (for now)!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 209 • 💬 122 • ⏱️ 16:59 • 9h ago
 
 ---
 
@@ -326,7 +316,17 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 319 • 💬 35 • ⏱️ 12:25 • 1d ago
+👁️ 7K • 👍 320 • 💬 35 • ⏱️ 12:25 • 1d ago
+
+---
+
+**[BITCOIN AND ETH: IT WILL GET WORSE!!!!](https://www.youtube.com/watch?v=tsEU2bvemCM)**
+
+FREE TRAINING: https://www.bullmania.com EXCHANGES I USE (bybit, pionex): https://www.bullmania.com/partners My ...
+
+📺 Ivan on Tech
+
+👁️ 18K • 👍 1K • 💬 95 • ⏱️ 43:48 • 23h ago
 
 ---
 

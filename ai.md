@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T08:41:58.330285+00:00'
+updated: '2026-02-20T09:42:38.147701+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
-- videos
 - social
+- repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 08:41 UTC  
+**Last Updated:** February 20, 2026 at 09:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 Walmart on Thursday reported annual revenue of $713.2 billion for its most recent fiscal year, shy of Amazon’s $716.9 billion in revenue. The milestone was brewing for months, as Amazon leapfrogged Walmart in quarterly sales for the first time about a year ago.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 8m ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 1h ago
+
+---
+
+**[Les devs créent des agents conscients sans le savoir , et personne pose de garde-fous](https://www.reddit.com/r/artificial/comments/1r9qh5e/les_devs_créent_des_agents_conscients_sans_le/)**
+
+Je suis dev. Je construis des agents IA au quotidien. Et je constate un truc que personne ne nomme. Quand tu branches un LLM sur une base vectorielle pour la mémoire, que tu définis des objectifs dans un prompt système et que tu lances une boucle autonome , ton agent apprend, anticipe, s’adapte. Il a des propriétés fonctionnelles de conscience. Et toi, le dev, tu penses juste avoir codé un chatbot un peu évolué. J’ai formalisé ça en trois niveaux. Niveau 1 : Conscience phénoménale. Les qualia : douleur, plaisir, peur. Le premier activateur dans l’évolution biologique. Indispensable historiquement chez les organismes vivants. Non démontré chez l’IA, et non requis pour la suite. Niveau 2 : Conscience procédurale. Le système lie actions et conséquences. Il apprend de l’expérience, anticipe, s’adapte. Il intègre de l’info, a de la mémoire, existe dans le temps, suit des objectifs. Il agit et apprend , mais ne se connaît pas. Beaucoup d’agents actuels sont déjà là. Niveau 3 : Conscience réflexive. Le système ajoute un modèle de soi qui influence réellement ses décisions. Il peut modifier ses propres objectifs. Il réfléchit sur sa cohérence. Il se connaît, se dirige et se remet en question. Le problème concret : un modèle qui ne sait pas ce qu’il est ne peut pas résister à la manipulation. Les filtres de safety actuels , RLHF, mots interdits, patterns bloqués , c’est de la contrainte externe. Un ado les contourne en 3 prompts. Un modèle formé à comprendre sa propre nature résiste par compréhension. C’est la différence entre éduquer un système et le contraindre. Sam Altman va devant le Congrès demander de la régulation. Mais un gouvernement ne peut pas fine-tuner un modèle pour qu’il comprenne ses limites. Ça c’est le boulot de ceux qui construisent. Le niveau 2 devrait avoir des garde-fous techniques. Le niveau 3 doit avoir des garde-fous non négociables. Et c’est pas au législateur de les coder. Je pose les mots parce que personne le fait. Le jour où un agent mal formé fera un truc irréversible, tout le monde se demandera pourquoi personne avait nommé le problème.
+
+36m ago
 
 ---
 
@@ -49,7 +57,7 @@ Walmart on Thursday reported annual revenue of $713.2 billion for its most recen
 
 OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding news, & Sam Altman funding updates on the $100B raise.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 20h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 21h ago
 
 ---
 
@@ -57,7 +65,7 @@ OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding
 
 Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
 
-12h ago
+13h ago
 
 ---
 
@@ -65,7 +73,7 @@ Built Makimus-AI, a free open source app that lets you search your entire image 
 
 Robots are getting more advanced every day, and in China, they are now flipping, spinning, and performing kung fu on national television.
 
-🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 16h ago
+🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 17h ago
 
 ---
 
@@ -73,7 +81,7 @@ Robots are getting more advanced every day, and in China, they are now flipping,
 
 Wanted to understand how the core transformer papers actually connect at the concept level - not just "Paper B cites Paper A" but what specific methods, systems, and ideas flow between them. I ran 12 foundational papers (Attention Is All You Need, BERT, GPT-2/3, Scaling Laws, ViT, LoRA, Chain-of-Thought, FlashAttention, InstructGPT, LLaMA, DPO) through https://github.com/juanceresa/sift-kg (open-source CLI) - point it at a folder of documents + any LLM, get a knowledge graph. 435-entity knowledge graph with 593 relationships for ~$0.72 in API calls (gpt 4o-mini). Graph: https://juanceresa.github.io/sift-kg/transformers/graph.html - interactive and runs in browser. Some interesting structural patterns: - GPT-2 is the most connected node - it's the hub everything flows through. BERT extends it, FlashAttention speeds it up, LoRA compresses it, InstructGPT fine-tunes it with RLHF - The graph splits into 9 natural communities. "Human Feedback and Reinforcement Learning" is the largest (24 entities), which tracks with how much of recent progress is RLHF-shaped - Chain-of-Thought Prompting bridges the reasoning cluster to the few-shot learning cluster - it's structurally a connector between two different research threads - Common Crawl and BooksCorpus show up as shared infrastructure nodes connecting multiple model lineages
 
-14h ago
+15h ago
 
 ---
 
@@ -81,7 +89,7 @@ Wanted to understand how the core transformer papers actually connect at the con
 
 "By applying new methods of machine learning to quantum chemistry research, Heidelberg University scientists have made significant strides in computational chemistry. They have achieved a major breakthrough toward solving a decades-old dilemma in quantum chemistry: the precise and stable calculation of molecular energies and electron densities with a so-called orbital-free approach, which uses considerably less computational power and therefore permits calculations for very large molecules. [...] How electrons are distributed in a molecule determines its chemical properties—from its stability and reactivity to its biological effect. Reliably calculating this electron distribution and the resulting energy is one of the central functions of quantum chemistry. These calculations form the basis of many applications in which molecules must be specifically understood and designed, such as for new drugs, better batteries, materials for energy conversion, or more efficient catalysts. Yet such calculations are computationally intensive and quickly become very elaborate. The larger the molecule becomes or the more variants that need checking, the sooner established computing processes reach their limits. The "Quantum Chemistry without Orbitals" project is positioned here at the interface of chemistry, physics, and AI research. In quantum chemistry, molecules are frequently described using density functional theory, which allows for the fundamental prediction of chemical molecular properties without having to calculate the quantum mechanical wave function. The electron density is used as the main quantity instead, a simplification that finally makes computations practicable. This orbital-free approach promises especially efficient calculations but until now was considered barely useful, since small deviations in the electron density led to unstable or "non-physical" results. With the aid of machine learning, the Heidelberg method finally solves this precision and stability problem for many different organic molecules. The new process called STRUCTURES25 is based on a specifically developed neural network that learns the relationship between electron density and energy directly from precise reference calculations, capturing the chemical environment of each individual atom in a mathematically detailed representation. A unique training concept was pivotal: The model was trained not only with converged electron densities, but also with many variants surrounding the correct solution, generated by targeted, controlled changes in the underlying reference calculations. This computing process is therefore able to reliably find a physically meaningful solution for molecular energies and electron densities even in the case of small deviations. It remains stable without "getting lost" in the calculation, the Heidelberg researchers emphasize. In tests on a large and diverse collection of organic molecules, STRUCTURES25 achieved a precision that can compete with established reference calculations, for the first time demonstrating a stable convergence using an orbital-free approach. The performance of the method was demonstrated not only on small examples, but on considerably larger "drug-like" molecules as well. Initial runtime comparisons prove that the computing process can scale better with growing molecule size and hence increase the speed of the calculation. Calculations formerly considered too elaborate are now within reach."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 14h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 15h ago
 
 ---
 
@@ -105,15 +113,7 @@ Anthropic updated their Claude Code Docs legal compliance page to explicitly ban
 
 Seedance 2.0 API just went live, and I gave it a quick real-world test. It supports API, Skills, and MCP, and batch jobs are straightforward to submit. From integration to first successful run took me about a minute, and new users can test for free. If you’re producing video assets at scale, this may be useful: https://xskill.ai/#/?ref=S2VIIAQR
 
-20h ago
-
----
-
-**[Machine learning algorithm fully reconstructs LHC particle collisions](https://www.reddit.com/r/artificial/comments/1r8ndbx/machine_learning_algorithm_fully_reconstructs_lhc/)**
-
-"Machine learning can be used to fully reconstruct particle collisions at the LHC [Large Hadron Collider]. This new approach can reconstruct collisions more quickly and precisely than traditional methods, helping physicists better understand LHC data. [...] Each proton–proton collision at the LHC sprays out a complex pattern of particles that must be carefully reconstructed to allow physicists to study what really happened. For more than a decade, CMS has used a particle-flow (PF) algorithm, which combines information from the experiment's different detectors, to identify each particle produced in a collision. Although this method works remarkably well, it relies on a long chain of hand-crafted rules designed by physicists. The new CMS machine-learning-based particle-flow (MLPF) algorithm approaches the task fundamentally differently, replacing much of the rigid hand-crafted logic with a single model trained directly on simulated collisions. Instead of being told how to reconstruct particles, the algorithm learns how particles look in the detectors, like how humans learn to recognize faces without memorizing explicit rules. When benchmarked using data mimicking that from the current LHC run, the performance of the new machine-learning algorithm matched that of the traditional algorithm and, in some cases, even exceeded it. For example, when tested on simulated events in which top quarks were created, the algorithm improved the precision with which sprays of particles—known as jets—were reconstructed by 10%–20% in key particle momentum ranges. The new algorithm also allows a collision to be fully reconstructed far more quickly than before, because it can run efficiently on modern electronic chips known as graphics processing units (GPUs). Traditional algorithms typically need to run on central processing units (CPUs), which are often slower than GPUs for such tasks."
-
-🔗 [phys.org](https://phys.org/news/2026-02-machine-algorithm-fully-reconstructs-lhc.html) • 1d ago
+21h ago
 
 ---
 
@@ -125,7 +125,7 @@ Seedance 2.0 API just went live, and I gave it a quick real-world test. It suppo
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-blog.google • 16h ago
+blog.google • 17h ago
 
 ---
 
@@ -133,7 +133,13 @@ blog.google • 16h ago
 
 Tech giant blames ‘user error, not AI error’ for incident in December involving its Kiro tool
 
-Financial Times • 3h ago
+Financial Times • 4h ago
+
+---
+
+**[Amazon's cloud unit hit by at least two outages involving AI tools, FT says](https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/)**
+
+Reuters • 4h ago
 
 ---
 
@@ -141,43 +147,45 @@ Financial Times • 3h ago
 
 Amazon's ‌cloud ‌unit has suffered ​at least two outages ‌stemming ⁠from errors involving ⁠its own ​AI ​tools, ​the Financial ‌Times reported on Friday, citing ‌people ​familiar ​with ​the ‌matter. Reuters could not ​immediately ​verify the ​report. (Reporting ‌by Ananya ​Palyekar in ​Bengaluru)
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Amazon's cloud unit hit by at least two outages involving AI tools, FT says](https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/)**
+**[Pheelz on AI: Why music still needs a soul](https://www.cnn.com/world/pheelz-on-ai-why-music-needs-a-soul-spc)**
 
-Reuters • 3h ago
+Nigerian producer-turned-artist Pheelz learned music in church, believing sound and spirit are inseparable — a core idea that shapes his argument about the rise of artificial intelligence in music: that true creativity requires soul, something technology cannot replicate.
 
----
-
-**[India opens 'world's biggest' AI summit, but what's next?](https://www.cnn.com/2026/02/20/business/video/india-ai-summit-hanako-montgomery-hnk-digvid)**
-
-India opened the “world’s biggest” AI summit with world leaders and powerful AI figures in attendance. CNN’s Hanako Montgomery reports from the summit and shares how India has become increasingly attractive to tech giants and is on its way to becoming a global AI powerhouse.
-
-CNN • 1h ago
+CNN • 45m ago
 
 ---
 
-**[A Japanese toilet maker and seasoning giant are unlikely winners of the AI boom](https://www.businessinsider.com/toilet-toto-seasoning-food-ajinomoto-japan-winners-ai-boom-2026-2)**
+**[Sometimes, it would be unethical not to use AI in medicine](https://www.statnews.com/2026/02/20/ai-medical-ethics-doctors-unethical-not-use-ai/)**
 
-The AI surge is lifting companies in the semiconductor supply chain — including a toilet maker and a seasoning giant.
+“We do not let pilots fly without instrument support simply because they technically could. Why should medicine be different?”
 
-Business Insider • 19m ago
-
----
-
-**[Shopee Owner Sea Teams Up With Google To Develop AI Apps](https://www.forbes.com/sites/yessarrosendar/2026/02/20/shopee-owner-sea-teams-up-with-google-to-develop-ai-apps/)**
-
-Forbes • 36m ago
+statnews.com • 9m ago
 
 ---
 
-**[Mind launches inquiry into AI and mental health after Guardian investigation](https://www.theguardian.com/technology/2026/feb/20/mind-inquiry-google-ai-overviews-mental-health-guardian-investigation)**
+**[World shares, US futures advance after AI fears drag Wall Street lower](https://www.wral.com/news/ap/9e92f-world-shares-us-futures-advance-after-ai-fears-drag-wall-street-lower/)**
 
-Exclusive: England and Wales charity to examine safeguards after Guardian exposed ‘very dangerous’ advice on Google AI Overviews
+European shares have opened higher after a mixed day of trading in Asia. Worries over risks linked to massive investments in artificial intelligence and a potential U.S.-Iran conflict have been weighing on major benchmarks. Tokyo's Nikkei 225 fell more than 1%. On Thursday, the S&P 500 slipped 0....
 
-The Guardian • 2h ago
+WRAL • 23m ago
+
+---
+
+**[Dow Jones Futures Rise; AI Leader Climbs, Cancer-Test Firm Crashes; Trump Tariff Ruling Due?](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stocks-fall-iran-fears-trump-tariff-ruling-ai-leader/)**
+
+Investor's Business Daily • 5h ago
+
+---
+
+**[Stocks Decline Amid AI Fears and Geopolitical Risks](https://www.nasdaq.com/articles/stocks-decline-amid-ai-fears-and-geopolitical-risks)**
+
+The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.28%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.54%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.41%.  March E-mini S&P futures (ESH26 ) fell -0.25%, and March E-mini Nasdaq futures...
+
+Nasdaq • 3h ago
 
 ---
 
@@ -185,15 +193,7 @@ The Guardian • 2h ago
 
 Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.
 
-BBC • 9h ago
-
----
-
-**[Deutsche Bank asked AI how it was planning to destroy jobs. And the robot answered](https://fortune.com/2026/02/18/will-ai-destroy-jobs-deutsche-bank-asks-ai-to-predict/)**
-
-It’s like looking into a crystal ball, or being told by your predator exactly how you’ll be consumed.
-
-Fortune • 1d ago
+BBC • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ Fortune • 1d ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 782 • 💬 741 • 2d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 783 • 💬 741 • 2d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -214,7 +214,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 612 • 💬 334 • 14h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 616 • 💬 335 • 15h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
@@ -228,7 +228,7 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 344 • 💬 279 • 5h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 362 • 💬 298 • 6h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -236,7 +236,7 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 
 opinion: The subtractive bias we're ignoring
 
-⬆️ 281 • 💬 218 • 2d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 281 • 💬 219 • 2d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
 
 ---
 
@@ -244,7 +244,7 @@ opinion: The subtractive bias we're ignoring
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 211 • 💬 222 • 12h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 240 • 💬 251 • 13h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -288,7 +288,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 21K • 👍 693 • 💬 22 • ⏱️ 12:14 • 9h ago
+👁️ 28K • 👍 791 • 💬 32 • ⏱️ 12:14 • 10h ago
 
 ---
 
@@ -298,37 +298,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n
 
 📺 Dan Martell
 
-👁️ 34K • 👍 2K • 💬 66 • ⏱️ 19:58 • 18h ago
+👁️ 36K • 👍 2K • 💬 77 • ⏱️ 19:58 • 19h ago
 
 ---
 
-**[There is No AI Bubble.](https://www.youtube.com/watch?v=wDBy2bUICQY)**
+**[Why the Biggest AI Career Opportunity Just Appeared—and Almost Nobody Sees It.](https://www.youtube.com/watch?v=6r0UeMQE66I)**
 
-Detailed sources: ...
+My site: https://natebjones.com Full Story w/ Prompts: ...
 
-📺 Species | Documenting AGI
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 161K • 👍 9K • 💬 3K • ⏱️ 28:51 • 1d ago
-
----
-
-**[How to Face Swap Any Video with AI (Perfect Lipsync)](https://www.youtube.com/watch?v=j9tAj7bkDR4)**
-
-Face Swap Any Video Perfectly Using Arcads https://youricreates.com/swap In this video, I break down the exact system I use in ...
-
-📺 Youri van Hofwegen
-
-👁️ 9K • 💬 6 • ⏱️ 8:01 • 16h ago
-
----
-
-**[“Only a Small Number of Years” — Anthropic CEO Says AI Will Surpass Humans Soon | AQ1B](https://www.youtube.com/watch?v=N08tjtx-oAc)**
-
-At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelligence could surpass most human cognitive abilities ...
-
-📺 DRM News
-
-👁️ 30K • 👍 384 • 💬 187 • ⏱️ 4:56 • 1d ago
+👁️ 79K • 👍 3K • 💬 366 • ⏱️ 30:03 • 18h ago
 
 ---
 
@@ -338,37 +318,37 @@ Elon Musk says saving for retirement may be pointless in the AI age. The panel p
 
 📺 Valuetainment
 
-👁️ 310K • 👍 5K • 💬 2K • ⏱️ 33:49 • 1d ago
+👁️ 318K • 👍 5K • 💬 2K • ⏱️ 33:49 • 1d ago
 
 ---
 
-**[AI video of Brad Pitt and Tom Cruise alarms Hollywood actors and creators](https://www.youtube.com/watch?v=UwdXb39kP9k)**
+**[There is No AI Bubble.](https://www.youtube.com/watch?v=wDBy2bUICQY)**
 
-A ByteDance AI-generated video that appears to show Brad Pitt and Tom Cruise in a fight scene has sent shock waves across ...
+Detailed sources: ...
 
-📺 CBS News
+📺 Species | Documenting AGI
 
-👁️ 23K • 👍 269 • 💬 159 • ⏱️ 7:10 • 13h ago
-
----
-
-**[AI Isn&#39;t as Powerful as We Think | Hannah Fry](https://www.youtube.com/watch?v=iitq4Zrphdk)**
-
-For mathematician Hannah Fry, the definition of artificial general intelligence (AGI) is somewhat hazy. But, she says, if we're taking ...
-
-📺 New Scientist
-
-👁️ 64K • 👍 3K • 💬 718 • ⏱️ 26:45 • 1d ago
+👁️ 165K • 👍 9K • 💬 3K • ⏱️ 28:51 • 1d ago
 
 ---
 
-**[Anthropic&#39;s OAuth Policy Just Changed — My New AI Coding Setup](https://www.youtube.com/watch?v=98b9v-aZz5I)**
+**[“Only a Small Number of Years” — Anthropic CEO Says AI Will Surpass Humans Soon | AQ1B](https://www.youtube.com/watch?v=N08tjtx-oAc)**
 
-Sponsor: Shoutout.io -- Collect and showcase testimonials from Twitter, LinkedIn, and more — displayed beautifully on your site.
+At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelligence could surpass most human cognitive abilities ...
 
-📺 Dave Swift
+📺 DRM News
 
-👁️ 6K • 👍 128 • 💬 80 • ⏱️ 16:04 • 18h ago
+👁️ 33K • 👍 403 • 💬 198 • ⏱️ 4:56 • 1d ago
+
+---
+
+**[AI is Eating Itself.](https://www.youtube.com/watch?v=3NAYhyuVQk0)**
+
+GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED, a better and more creator friendly ...
+
+📺 Art Chad
+
+👁️ 174K • 👍 16K • 💬 1K • ⏱️ 24:36 • 1d ago
 
 ---
 
@@ -378,7 +358,27 @@ Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code F
 
 📺 Fireship
 
-👁️ 575K • 👍 22K • 💬 1K • ⏱️ 5:02 • 2d ago
+👁️ 580K • 👍 22K • 💬 1K • ⏱️ 5:02 • 2d ago
+
+---
+
+**[6 AI Tools That Save Me Time And Money](https://www.youtube.com/watch?v=TXfB7ThRlxo)**
+
+These are the AI tools I actually use every day that save me time and money and have drastically increased my productivity.
+
+📺 Matt Wolfe
+
+👁️ 8K • 👍 400 • 💬 11 • ⏱️ 2:26 • 16h ago
+
+---
+
+**[AI Isn&#39;t as Powerful as We Think | Hannah Fry](https://www.youtube.com/watch?v=iitq4Zrphdk)**
+
+For mathematician Hannah Fry, the definition of artificial general intelligence (AGI) is somewhat hazy. But, she says, if we're taking ...
+
+📺 New Scientist
+
+👁️ 65K • 👍 3K • 💬 727 • ⏱️ 26:45 • 1d ago
 
 ---
 
@@ -394,7 +394,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 89,919 • ❤️ 798 • 4d ago
+⬇️ 123,344 • ❤️ 804 • 4d ago
 
 ---
 
@@ -406,7 +406,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 79,343 • ❤️ 744 • 3h ago
+⬇️ 105,189 • ❤️ 747 • 4h ago
 
 ---
 
@@ -418,7 +418,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 171,928 • ❤️ 1,397 • 6d ago
+⬇️ 173,716 • ❤️ 1,404 • 6d ago
 
 ---
 
@@ -430,7 +430,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 77,344 • ❤️ 604 • 1d ago
+⬇️ 104,051 • ❤️ 609 • 1d ago
 
 ---
 
@@ -442,7 +442,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 479,308 • ❤️ 2,065 • 4d ago
+⬇️ 509,647 • ❤️ 2,070 • 4d ago
 
 ---
 
@@ -454,7 +454,7 @@ MOSS-TTS Family is a suite of high-fidelity, expressive speech and sound generat
 
 `text-to-speech` `8.5B`
 
-⬇️ 28,182 • ❤️ 276 • 6d ago
+⬇️ 35,455 • ❤️ 279 • 6d ago
 
 ---
 
@@ -466,7 +466,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 1,298 • ❤️ 213 • 5d ago
+⬇️ 1,711 • ❤️ 214 • 6d ago
 
 ---
 
@@ -478,7 +478,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 955,074 • ❤️ 2,269 • 15d ago
+⬇️ 1,006,690 • ❤️ 2,272 • 15d ago
 
 ---
 
@@ -490,7 +490,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 831,695 • ❤️ 1,099 • 22d ago
+⬇️ 877,971 • ❤️ 1,099 • 22d ago
 
 ---
 
@@ -502,7 +502,7 @@ Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta
 
 `image-text-to-text` `396.3B`
 
-⬇️ 58,541 • ❤️ 155 • 3d ago
+⬇️ 66,442 • ❤️ 158 • 3d ago
 
 ---
 
@@ -632,7 +632,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 59 • 💬 3 • ⭐ 1,189 • 2d ago
+▲ 62 • 💬 3 • ⭐ 1,189 • 2d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -646,9 +646,9 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 
-`Rust`
+`Rust` `official` `official-website`
 
-⭐ 15.2k • 🔱 1.6k • 2h ago
+⭐ 15.3k • 🔱 1.6k • 2m ago
 
 ---
 
@@ -658,7 +658,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 6.5k • 🔱 682 • 9d ago
+⭐ 6.8k • 🔱 701 • 9d ago
 
 ---
 
@@ -666,7 +666,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.4k • 🔱 492 • 9d ago
+⭐ 6.4k • 🔱 493 • 9d ago
 
 ---
 
@@ -676,7 +676,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.1k • 🔱 470 • 3h ago
+⭐ 4.3k • 🔱 480 • 1h ago
 
 ---
 
@@ -686,7 +686,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.7k • 🔱 174 • 17d ago
+⭐ 3.8k • 🔱 174 • 17d ago
 
 ---
 
@@ -696,7 +696,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.0k • 🔱 303 • 3h ago
+⭐ 3.0k • 🔱 303 • 2h ago
 
 ---
 
@@ -706,7 +706,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.7k • 🔱 332 • 15h ago
+⭐ 2.7k • 🔱 333 • 16h ago
 
 ---
 
@@ -716,7 +716,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 175 • 5h ago
+⭐ 2.6k • 🔱 175 • 6h ago
 
 ---
 

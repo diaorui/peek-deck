@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T08:41:58.347940+00:00'
+updated: '2026-02-20T09:42:38.164173+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 08:41 UTC  
+**Last Updated:** February 20, 2026 at 09:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[China's autonomous "killer robots"](https://www.reddit.com/r/robotics/comments/1r9j1k0/chinas_autonomous_killer_robots/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
-20h ago
+21h ago
 
 ---
 
 **[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 [Disclaimer: This text was not touched by AI, this is solely by me, so a few formulation issues might be hidden in there] TLDR: - With some tricks, even the cheaper quadruped models can be used for complex tasks - Reliable and low-latency remote operation and monitoring is hard. But here, wireless is usually the bottleneck, not the VPN - Foxglove UI is pretty neat (not fully open-source) - Having a good dev environment setup from the start is invaluable - A lot can be done with a pure open-source stack! The video shows a setup I've been working on for a while now. Early last year, I took quite a portion of my savings to get my hands on a quadruped robot. These savings did not even get me the full ROS2-ready setup that one needs to actually build a cool application, I had to make quite a few detours (some that probably voided the warranty, but let us not get deeper into it). In any case, I had time the last few days (and nights) to finally setup a clean and performant development and introspection environment for my robot. As you can see from the video, this includes full remote control and monitoring of the inner going-ons. I initially tried sending the whole DDS traffic through my network, but due to obvious overhead reasons, this was not really scalable, especially when wanting a live feed of camera and LiDAR data that is low latency enough for "secure" remote manipulation. The next iteration took me down the road of WebRTC, a protocol that only transmits frame differences, reducing traffic significantly. The results for the camera streams were impressive, but this meant I would have to tackle a conversion layer for each topic, again not a clean solution. Finally, I tried out Foxglove. Although not fully open-source, they use a web socket connection, therefore again avoiding DDS congestion. While it might seem a bit less performant than the custom WebRTC solution, the amazing UI and compatability with my ROS2 setup speaks for itself. Also by the way, the setup above is not solely within a local network! I can spin up this bad boy all over the world through my self-hosted Headscale VPN (WireGuard on the backend). Through testing (and some help with the friends at Technologiehub Wien), I found out that the VPN latency is less of a bottleneck than the wireless connection. Making sure that a non-crowded 5GHz channel is used was an enormous performance boost. Concerning the ROS2 setup, everything is ready to add Nav2 support. LiDAR access works, tf tree looks good and odometry information is also already there. This will be the task to tackle next. The whole setup is dockerized and remote development is pretty easy through the SSH connection via the VPN and a custom devcontainer (although it took a while to get ROS2 Jazzy + CUDA cores working correctly...). In case anyone has read this far: - Should I open-source my setup (including VPN optimizations)? - Any idea how I can get my invested money back? (Not a big issue, I learned so much and am having a blast!) - What would you do with this robot? - Any improvement suggestions? Thats it, goodbye and thank's for the fish!
 
-23h ago
+1d ago
 
 ---
 
@@ -64,7 +64,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 If you're looking to get into VLA / robot foundation models but not sure where to start, I made a curated reading list that covers the path from diffusion model basics to the latest architectures like π0, GR00T N1, and DreamZero. What's covered (6 phases, 30 papers): Phase 1: Generative foundations — MIT 6.S184 (flow matching & diffusion) Phase 2: Early robot models — RT-1 → RT-2 → Octo → OpenVLA, Diffusion Policy, ACT Phase 3: Current architectures — π0, GR00T N1, CogACT, X-VLA, InternVLA-M1 Phase 4: Data scaling — OXE, AgiBot World, UMI, human video transfer Phase 5: Efficient inference — SmolVLA, RTC, dual-system (Helix, Fast-in-Slow) Phase 6: RL fine-tuning, reasoning & world models — HIL-SERL, π*0.6, CoT-VLA, ThinkAct, DreamZero Designed for a study group format (1–2 paper presentations/week + discussion), but works fine for self-study too. Prerequisites are basic DL fundamentals — recommended courses included. 🔗 GitHub: https://github.com/MilkClouds/awesome-vla-study Feedback and paper suggestions welcome — open an issue or PR.
 
-16h ago
+17h ago
 
 ---
 
@@ -72,7 +72,7 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1TENTH/VESC setup. I’m hitting a wall with odom calibration: my physical car moves forward, but /odom and RViz show it moving backward. No matter how I flip the motor rotation, the odometry is always flipped in rViz. I’ve tried flipping the motor direction on the motor controller itself (VESC), tried to flip the polarity, and tried to flip the direction that the vesc_to_odom node calculates, but it continues to move forward, but show that the robot is running backwards on rviz, and on the /odom topic. Has anyone encountered this 'persistent inversion' before, or is there a specific parameter in the config I might be overlooking? Thanks!
 
-2h ago
+3h ago
 
 ---
 
@@ -80,13 +80,13 @@ Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1
 
 Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in March Agents & Robotics HackXelerator™ 2026 is a 20-day innovation event running 27 March - 17 April 2026. Builders create working AI systems focused on agents, robotics, and embodied intelligence. This event combines hackathon energy with accelerator structure, featuring both online participation and in-person gatherings (London kick-off on March 29, Berlin showcase on April 17). Choose from four mission tracks: • Mission 1: Digital Agents & Multi-Agent Systems • Mission 2: Autonomous Systems & Embodied AI • Mission 3: Human-Robot Interaction & Social Robotics • Mission 4: Ethics, Agency & Societal Impact Cash and non-cash prizes (GPUs) will be awarded -- details soon to be up on website Sign up at https://www.kxsb.org/ar26
 
-18h ago
+19h ago
 
 ---
 
 **[Doly SDK](https://www.reddit.com/r/robotics/comments/1r96fpt/doly_sdk/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -94,7 +94,7 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds laundry. Price is $8,000 upfront or $450 per month. The system handles shirts, pants, and towels autonomously, with short remote interventions when it gets stuck. The approach is to ship a simplified system now, operate it in real homes, and iterate from there rather than waiting for a fully generalized household robot.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 14h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 15h ago
 
 ---
 
@@ -102,7 +102,7 @@ Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds la
 
 We've probably exceeded 1 billion ROS package downloads a year! Get the full report on Open Robotics Discourse.
 
-14h ago
+15h ago
 
 ---
 
@@ -130,13 +130,21 @@ The Guardian • 1d ago
 
 Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10.
 
-The Robot Report • 18h ago
+The Robot Report • 19h ago
 
 ---
 
 **[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
 
-Zacks Investment Research • 19h ago
+Zacks Investment Research • 20h ago
+
+---
+
+**[AI-enabled robotics could shift global manufacturing power, CEO of Alphabet company says](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
+
+When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
+
+CNBC • 1d ago
 
 ---
 
@@ -158,7 +166,7 @@ The Business Journals • 1d ago
 
 Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
 
-Automotive News • 18h ago
+Automotive News • 19h ago
 
 ---
 
@@ -166,21 +174,13 @@ Automotive News • 18h ago
 
 As part of Yahoo Finance's Bot & Sold robotics special, KraneShares senior investment strategist Derek Yan joins Asking for a Trend host Josh Lipton to share his top stock picks in the robotics sector. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
 
-Forbes • 15h ago
-
----
-
-**[Humanoid home robots are on the market – but do we really want them?](https://theconversation.com/humanoid-home-robots-are-on-the-market-but-do-we-really-want-them-270370)**
-
-A robot butler sounds like a nice idea, but the technology has its drawbacks.
-
-The Conversation • 8h ago
+Forbes • 16h ago
 
 ---
 
@@ -194,7 +194,7 @@ Sky News host Freya Leach reacts to a video showing robots performing advanced l
 
 📺 Sky News Australia
 
-👁️ 16K • 👍 182 • 💬 168 • ⏱️ 1:13 • 1d ago
+👁️ 16K • 👍 186 • 💬 168 • ⏱️ 1:13 • 1d ago
 
 ---
 
@@ -204,7 +204,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 128K • 👍 2K • 💬 727 • ⏱️ 2:00 • 2d ago
+👁️ 130K • 👍 2K • 💬 730 • ⏱️ 2:00 • 2d ago
 
 ---
 
@@ -214,7 +214,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 311K • 👍 2K • 💬 829 • ⏱️ 2:36 • 2d ago
+👁️ 321K • 👍 2K • 💬 844 • ⏱️ 2:36 • 2d ago
 
 ---
 
@@ -224,17 +224,27 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 106K • 👍 1K • 💬 981 • ⏱️ 3:42 • 1d ago
+👁️ 114K • 👍 1K • 💬 1K • ⏱️ 3:42 • 1d ago
 
 ---
 
-**[A Whole Bunch of Robots Sending New Year Greetings to Everyone!](https://www.youtube.com/watch?v=w4IOJH9Akhg)**
+**[The Future of Grocery Shopping? Jio’s Smart Robot Explained](https://www.youtube.com/watch?v=uQ-VrDEEitY)**
 
-The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Cooperative Rapid Scheduling System.
+Jio has showcased an incredible robot designed specifically for dark stores and grocery operations This smart automation ...
 
-📺 Unitree Robotics
+📺 Arjun Sharma 
 
-👁️ 320K • 👍 1K • 💬 147 • ⏱️ 0:32 • 2d ago
+👁️ 5K • 💬 4 • ⏱️ 0:15 • 2d ago
+
+---
+
+**[Unitree Robotics Has BIG Expansion Plans #robotics #unitreeg1 #humanoidrobots](https://www.youtube.com/watch?v=56rf2teQoeU)**
+
+Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
+
+📺 Kalil 4.0
+
+👁️ 25K • 👍 442 • 💬 27 • ⏱️ 0:40 • 2d ago
 
 ---
 
@@ -244,15 +254,7 @@ Budapest-based robotics startup Allonic raised $7.2 million in Hungary's largest
 
 📺 Rowan Cheung
 
-👁️ 13K • 👍 900 • 💬 14 • ⏱️ 1:24 • 1d ago
-
----
-
-**[Dirty Water Dump: Robot Vac Edition 💩 #robot #cleanwithme #cleaning #momlife #satisfyingclean](https://www.youtube.com/watch?v=igvZcyReOD0)**
-
-📺 Rosa Picosa at Home
-
-👁️ 11K • 👍 967 • 💬 23 • ⏱️ 0:51 • 6h ago
+👁️ 14K • 👍 920 • 💬 14 • ⏱️ 1:24 • 1d ago
 
 ---
 
@@ -262,25 +264,27 @@ Dozens of G1 robots achieved the world's first fully autonomous humanoid robot c
 
 📺 Unitree Robotics
 
-👁️ 929K • 👍 8K • 💬 1K • ⏱️ 1:41 • 3d ago
+👁️ 933K • 👍 8K • 💬 1K • ⏱️ 1:41 • 3d ago
 
 ---
 
-**[ROBOT  #shorts #GazeShop#Robot#HumanoidRobot#airobots #Robotics #roboticstechnology #squidgame](https://www.youtube.com/watch?v=ss0ftUwqsoQ)**
+**[The Friendliest Robot In The World](https://www.youtube.com/watch?v=_GmJIp4ewBs)**
 
-📺 락과장 Rock manager 
+Sprout is Fauna Robotics' small, developer-focused humanoid robot built to work safely around people in real-world spaces like ...
 
-👁️ 29K • 👍 133 • 💬 3 • ⏱️ 0:17 • 2d ago
+📺 Game of Tomorrow
+
+👁️ 152K • 👍 5K • 💬 250 • ⏱️ 0:39 • 3d ago
 
 ---
 
-**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+**[This is NOT from China | Humanoid Robot by SST x Qualcomm 🤖| AI Impact Summit 2026 | Future is HERE](https://www.youtube.com/watch?v=mPIvNDTgetY)**
 
-By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+The future is no longer coming… it's already here. At the AI Impact Summit 2026, SST in collaboration with Qualcomm ...
 
-📺 NVIDIA
+📺 Arjun Sharma 
 
-👁️ 21K • 👍 877 • ⏱️ 2:51 • 1d ago
+👁️ 536K • 💬 343 • ⏱️ 1:19 • 1d ago
 
 ---
 
