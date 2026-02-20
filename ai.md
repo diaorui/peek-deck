@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T17:39:09.230040+00:00'
+updated: '2026-02-20T18:51:29.481293+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - news
 - videos
-- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 17:39 UTC  
+**Last Updated:** February 20, 2026 at 18:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,15 @@ AI news, discussions, and developments
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 4h ago
+🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 5h ago
+
+---
+
+**[TikTok creators’ Seedance 2.0 AI is hyperrealistic, arrived “seemingly out of nowhere,” and is spooking Hollywood](https://www.reddit.com/r/artificial/comments/1ra20gt/tiktok_creators_seedance_20_ai_is_hyperrealistic/)**
+
+Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
+
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 1h ago
 
 ---
 
@@ -49,7 +57,15 @@ AI news, discussions, and developments
 
 There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy.” That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
 
-2h ago
+4h ago
+
+---
+
+**[I built an AI that turns file organization into a conversation - no rules engine to learn](https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/)**
+
+So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
+
+5m ago
 
 ---
 
@@ -57,13 +73,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 Walmart on Thursday reported annual revenue of $713.2 billion for its most recent fiscal year, shy of Amazon’s $716.9 billion in revenue. The milestone was brewing for months, as Amazon leapfrogged Walmart in quarterly sales for the first time about a year ago.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 9h ago
-
----
-
-**[I read this book as a child (published 1958) — it was science fantasy at the time.](https://www.reddit.com/r/artificial/comments/1ra1xmn/i_read_this_book_as_a_child_published_1958_it_was/)**
-
-🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Danny_Dunn_and_the_Homework_Machine) • just now
+🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 10h ago
 
 ---
 
@@ -71,7 +81,7 @@ Walmart on Thursday reported annual revenue of $713.2 billion for its most recen
 
 Genuine question for teams that have been using Copilot/Cursor/Claude Code in production for 6+ months. I've been working on AI deployment in an enterprise context and keep running into the same pattern: a team adopts AI coding tools, velocity looks great for a few months, and then: - On-call engineers can't debug AI-generated code they didn't write - Incident postmortems have "unclear why" entries more often - Code churn goes up because people keep rewriting code they accepted but didn't understand - New hires can't get oriented because the "why" behind decisions was never documented -- the AI generated the code and the author moved on I started calling this "cognitive debt", the gap between what your codebase does and what your team actually understands about it. Unlike technical debt, you might not even know you have it until something breaks and nobody can explain why. I ended up building a framework to manage it and implemented it on the company i work with: comprehension checkpoints before accepting AI output, a PR template that requires explaining AI code in your own words, code review guardrails designed for AI-generated code, and a quarterly audit system. I have create a github repo with all my work around that, if you are interested let me know. But I'm more interested in what other teams are doing. Have you formalized anything around AI code comprehension? Or is it still informal, "just review it carefully"? Specific things I'm curious about: - Do you require any disclosure when a PR contains AI-generated code? - Do you have paths in your codebase where AI tools are restricted? - Have you had incidents where the root cause was "nobody understood what this code was doing"?
 
-44m ago
+1h ago
 
 ---
 
@@ -87,7 +97,7 @@ Robots are getting more advanced every day, and in China, they are now flipping,
 
 Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
 
-21h ago
+22h ago
 
 ---
 
@@ -103,15 +113,7 @@ OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding
 
 "By applying new methods of machine learning to quantum chemistry research, Heidelberg University scientists have made significant strides in computational chemistry. They have achieved a major breakthrough toward solving a decades-old dilemma in quantum chemistry: the precise and stable calculation of molecular energies and electron densities with a so-called orbital-free approach, which uses considerably less computational power and therefore permits calculations for very large molecules. [...] How electrons are distributed in a molecule determines its chemical properties—from its stability and reactivity to its biological effect. Reliably calculating this electron distribution and the resulting energy is one of the central functions of quantum chemistry. These calculations form the basis of many applications in which molecules must be specifically understood and designed, such as for new drugs, better batteries, materials for energy conversion, or more efficient catalysts. Yet such calculations are computationally intensive and quickly become very elaborate. The larger the molecule becomes or the more variants that need checking, the sooner established computing processes reach their limits. The "Quantum Chemistry without Orbitals" project is positioned here at the interface of chemistry, physics, and AI research. In quantum chemistry, molecules are frequently described using density functional theory, which allows for the fundamental prediction of chemical molecular properties without having to calculate the quantum mechanical wave function. The electron density is used as the main quantity instead, a simplification that finally makes computations practicable. This orbital-free approach promises especially efficient calculations but until now was considered barely useful, since small deviations in the electron density led to unstable or "non-physical" results. With the aid of machine learning, the Heidelberg method finally solves this precision and stability problem for many different organic molecules. The new process called STRUCTURES25 is based on a specifically developed neural network that learns the relationship between electron density and energy directly from precise reference calculations, capturing the chemical environment of each individual atom in a mathematically detailed representation. A unique training concept was pivotal: The model was trained not only with converged electron densities, but also with many variants surrounding the correct solution, generated by targeted, controlled changes in the underlying reference calculations. This computing process is therefore able to reliably find a physically meaningful solution for molecular energies and electron densities even in the case of small deviations. It remains stable without "getting lost" in the calculation, the Heidelberg researchers emphasize. In tests on a large and diverse collection of organic molecules, STRUCTURES25 achieved a precision that can compete with established reference calculations, for the first time demonstrating a stable convergence using an orbital-free approach. The performance of the method was demonstrated not only on small examples, but on considerably larger "drug-like" molecules as well. Initial runtime comparisons prove that the computing process can scale better with growing molecule size and hence increase the speed of the calculation. Calculations formerly considered too elaborate are now within reach."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 23h ago
-
----
-
-**[Knowledge graph of the transformer paper lineage — from Attention Is All You Need to DPO, mapped as an interactive concept graph [generated from a CLI + 12 PDFs]](https://www.reddit.com/r/artificial/comments/1r97b0q/knowledge_graph_of_the_transformer_paper_lineage/)**
-
-Wanted to understand how the core transformer papers actually connect at the concept level - not just "Paper B cites Paper A" but what specific methods, systems, and ideas flow between them. I ran 12 foundational papers (Attention Is All You Need, BERT, GPT-2/3, Scaling Laws, ViT, LoRA, Chain-of-Thought, FlashAttention, InstructGPT, LLaMA, DPO) through https://github.com/juanceresa/sift-kg (open-source CLI) - point it at a folder of documents + any LLM, get a knowledge graph. 435-entity knowledge graph with 593 relationships for ~$0.72 in API calls (gpt 4o-mini). Graph: https://juanceresa.github.io/sift-kg/transformers/graph.html - interactive and runs in browser. Some interesting structural patterns: - GPT-2 is the most connected node - it's the hub everything flows through. BERT extends it, FlashAttention speeds it up, LoRA compresses it, InstructGPT fine-tunes it with RLHF - The graph splits into 9 natural communities. "Human Feedback and Reinforcement Learning" is the largest (24 entities), which tracks with how much of recent progress is RLHF-shaped - Chain-of-Thought Prompting bridges the reasoning cluster to the few-shot learning cluster - it's structurally a connector between two different research threads - Common Crawl and BooksCorpus show up as shared infrastructure nodes connecting multiple model lineages
-
-23h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 1d ago
 
 ---
 
@@ -131,13 +133,13 @@ blog.google • 1d ago
 
 Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
 **[Exclusive: Goldman Sachs launches an AI-free index](https://www.axios.com/2026/02/20/ai-goldman-sachs-stocks-index)**
 
-Axios • 35m ago
+Axios • 1h ago
 
 ---
 
@@ -145,37 +147,7 @@ Axios • 35m ago
 
 The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities now and for the future.
 
-Fox News • 1h ago
-
----
-
-**[The AI-Panic Cycle—And What’s Actually Different Now](https://www.theatlantic.com/podcasts/2026/02/the-ai-panic-cycle-and-whats-actually-different-now/686077/)**
-
-Are we in another acceleration phase for AI?
-
-The Atlantic • 3h ago
-
----
-
-**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html)**
-
-Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
-
-CNBC • 9h ago
-
----
-
-**[Can an A.I. Productivity Boom Clear a Path for More Rate Cuts? Trump’s Fed Pick Thinks So.](https://www.nytimes.com/2026/02/20/business/ai-productivity-fed-rate-cuts-warsh.html)**
-
-The New York Times • 7h ago
-
----
-
-**[Deutsche Bank asked AI how it was planning to destroy jobs. And the robot answered](https://fortune.com/2026/02/18/will-ai-destroy-jobs-deutsche-bank-asks-ai-to-predict/)**
-
-It’s like looking into a crystal ball, or being told by your predator exactly how you’ll be consumed.
-
-Fortune • 1d ago
+Fox News • 2h ago
 
 ---
 
@@ -183,7 +155,7 @@ Fortune • 1d ago
 
 Tech giant blames ‘user error, not AI error’ for incident in December involving its Kiro tool
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -191,7 +163,39 @@ Financial Times • 12h ago
 
 Reported issues at Amazon Web Services raise questions about firm’s use of artificial intelligence as it cuts staff
 
-The Guardian • 1h ago
+The Guardian • 3h ago
+
+---
+
+**[Amazon blames human employees for an AI coding agent’s mistake](https://www.theverge.com/ai-artificial-intelligence/882005/amazon-blames-human-employees-for-an-ai-coding-agents-mistake)**
+
+Two minor AWS outages have reportedly occurred as a result of actions by Amazon’s AI tools.
+
+The Verge • 1h ago
+
+---
+
+**[The AI-Panic Cycle—And What’s Actually Different Now](https://www.theatlantic.com/podcasts/2026/02/the-ai-panic-cycle-and-whats-actually-different-now/686077/)**
+
+Are we in another acceleration phase for AI?
+
+The Atlantic • 4h ago
+
+---
+
+**[The People vs. AI](https://time.com/7377579/ai-data-centers-people-movement-cover/)**
+
+Across red states and blue, a grassroots movement is pushing back on the unchecked growth of the artificial intelligence industry.
+
+Time Magazine • 1d ago
+
+---
+
+**[Seedance 2.0: China’s latest AI is so good it’s spooked Hollywood. Will its tech sector pump the brakes?](https://www.cnn.com/2026/02/20/china/china-ai-seedance-intl-hnk-dst)**
+
+Over the past week, a slew of cinematic videos of celebrities and characters in absurd situations have gone viral online, with one commonality –– they were created using a new artificial intelligence tool from Chinese developer ByteDance, sparking anxiety over the fast-evolving capabilities of AI.
+
+CNN • 13h ago
 
 ---
 
@@ -212,13 +216,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 661 • 💬 360 • 23h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
-
----
-
-**[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
-
-⬆️ 490 • 💬 427 • 14h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 663 • 💬 363 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
@@ -226,15 +224,13 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 488 • 💬 299 • 7h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 531 • 💬 332 • 8h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
-**[AI is not a coworker, it's an exoskeleton](https://news.ycombinator.com/item?id=47078324)**
+**[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
-
-⬆️ 421 • 💬 420 • 21h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 497 • 💬 436 • 15h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -242,7 +238,15 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 389 • 💬 82 • 3h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 465 • 💬 103 • 5h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+
+---
+
+**[AI is not a coworker, it's an exoskeleton](https://news.ycombinator.com/item?id=47078324)**
+
+Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
+
+⬆️ 442 • 💬 445 • 22h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -272,7 +276,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.
 
-⬆️ 132 • 💬 49 • 1d ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
+⬆️ 132 • 💬 50 • 1d ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
 
 ---
 
@@ -286,7 +290,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 38K • 👍 994 • 💬 42 • ⏱️ 12:14 • 18h ago
+👁️ 38K • 👍 994 • 💬 42 • ⏱️ 12:14 • 19h ago
 
 ---
 
@@ -316,7 +320,7 @@ In this episode I dive into the new wave of AI music released on music streaming
 
 📺 Rick Beato
 
-👁️ 489K • 👍 36K • 💬 8K • ⏱️ 6:14 • 21h ago
+👁️ 489K • 👍 36K • 💬 8K • ⏱️ 6:14 • 22h ago
 
 ---
 
@@ -336,7 +340,7 @@ Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code F
 
 📺 Fireship
 
-👁️ 593K • 👍 23K • 💬 1K • ⏱️ 5:02 • 2d ago
+👁️ 593K • 👍 23K • 💬 1K • ⏱️ 5:02 • 3d ago
 
 ---
 
@@ -346,7 +350,7 @@ Vibe coding,” or using artificial-intelligence tools such as Claude Code to ge
 
 📺 Dave Jorgenson
 
-👁️ 399K • 👍 23K • 💬 427 • ⏱️ 1:08 • 18h ago
+👁️ 399K • 👍 23K • 💬 427 • ⏱️ 1:08 • 19h ago
 
 ---
 
@@ -356,7 +360,7 @@ Google just dropped a LOT. Gemini 3.1 Pro is here with a 77.1% ARC-AGI score (th
 
 📺 Theoretically Media
 
-👁️ 37K • 👍 1K • 💬 163 • ⏱️ 16:12 • 18h ago
+👁️ 37K • 👍 1K • 💬 163 • ⏱️ 16:12 • 19h ago
 
 ---
 
@@ -366,7 +370,7 @@ AI MAN | Made with Seedance 2.0 | AI Short Film My first short film with Seedanc
 
 📺 Heydin
 
-👁️ 25K • 👍 1K • 💬 200 • ⏱️ 4:30 • 18h ago
+👁️ 25K • 👍 1K • 💬 200 • ⏱️ 4:30 • 20h ago
 
 ---
 
@@ -392,7 +396,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 105,189 • ❤️ 763 • 12h ago
+⬇️ 105,189 • ❤️ 763 • 13h ago
 
 ---
 
@@ -646,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.7k • 🔱 1.7k • 12m ago
+⭐ 15.7k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -674,7 +678,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.5k • 🔱 515 • 9h ago
+⭐ 4.5k • 🔱 515 • 10h ago
 
 ---
 
@@ -694,7 +698,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 307 • 10h ago
+⭐ 3.1k • 🔱 307 • 11h ago
 
 ---
 
@@ -714,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 176 • 2h ago
+⭐ 2.6k • 🔱 176 • 3h ago
 
 ---
 
