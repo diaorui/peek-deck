@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T16:54:16.501633+00:00'
+updated: '2026-02-20T17:39:09.247805+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 16:54 UTC  
+**Last Updated:** February 20, 2026 at 17:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,11 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[China's autonomous "killer robots"](https://www.reddit.com/r/robotics/comments/1r9j1k0/chinas_autonomous_killer_robots/)**
-
-14h ago
-
----
-
 **[Perceptive Humanoid Parkour (PHP) introduces a modular framework that enables the Unitree G1 humanoid to perform long-horizon, vision-based parkour.](https://www.reddit.com/r/robotics/comments/1r9tm0h/perceptive_humanoid_parkour_php_introduces_a/)**
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
-4h ago
+5h ago
 
 ---
 
@@ -56,7 +50,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 **[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
 
-17h ago
+18h ago
+
+---
+
+**[What is the ideal shutdown procedure for an Epson RS4 robot (or industrial SCARA robots in general)?](https://www.reddit.com/r/robotics/comments/1r9zy46/what_is_the_ideal_shutdown_procedure_for_an_epson/)**
+
+1h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
 
-2h ago
+3h ago
 
 ---
 
@@ -102,7 +102,7 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 **[Doly SDK](https://www.reddit.com/r/robotics/comments/1r96fpt/doly_sdk/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -110,19 +110,19 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 ## Google News: "robotics"
 
-**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html)**
+**[China's humanoid robots take center stage for Lunar New Year showtime](https://www.nbcnews.com/world/asia/chinas-humanoid-robots-take-center-stage-lunar-new-year-showtime-rcna259307)**
 
-Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
+Four rising humanoid robot startups demonstrated their products at the annual CCTV Spring Festival gala, a televised event and touchstone for China akin to the Super Bowl.
 
-CNBC • 8h ago
+NBC News • 3d ago
 
 ---
 
-**[Toyota contracts seven Agility humanoid robots for Canadian factory](https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/)**
+**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
-The robots will be unloading totes full of auto parts from an automated warehouse tugger.
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-TechCrunch • 20h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -130,7 +130,23 @@ TechCrunch • 20h ago
 
 DECD announced a two-year, $4.8 million investment expanding robotics and advanced manufacturing education programs.
 
-CBIA • 2h ago
+CBIA • 3h ago
+
+---
+
+**[Charger Robotics to host Sussex scrimmage at Hamilton High School](https://www.gmtoday.com/the_freeman/news/sussex-scrimmage-robotics-event/article_8cd13e0a-1594-5ae9-bab0-ea1f5a766d82.html)**
+
+Experience the excitement of the Sussex Scrimmage, a free STEM event featuring student-designed robots in action. Join Charger Robotics at Hamilton High School!
+
+GMToday.com • 1h ago
+
+---
+
+**[Frazer School teams qualify for VEX Robotics World Championship](https://www.mainstreetdailynews.com/education/frazer-school-teams-qualify-for-vex-robotics-world-championship)**
+
+Championship to be held April 21-24 in St. Louis.
+
+Mainstreet Daily News Gainesville • 2h ago
 
 ---
 
@@ -142,19 +158,19 @@ Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TS
 
 ---
 
-**[Frazer School teams qualify for VEX Robotics World Championship](https://www.mainstreetdailynews.com/education/frazer-school-teams-qualify-for-vex-robotics-world-championship)**
-
-Championship to be held April 21-24 in St. Louis.
-
-Mainstreet Daily News Gainesville • 1h ago
-
----
-
 **[How Robotics Could Upend the US Manufacturing Industry](https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2)**
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 5h ago
+Business Insider • 6h ago
+
+---
+
+**[Amazon Robotics shuts down Blue Jay sortation project](https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/)**
+
+Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects.
+
+The Robot Report • 2h ago
 
 ---
 
@@ -174,20 +190,6 @@ Robotics Tomorrow • 3h ago
 
 ---
 
-**[Amazon Robotics shuts down Blue Jay sortation project](https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/)**
-
-Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects.
-
-The Robot Report • 2h ago
-
----
-
-**[RR SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Richtech Robotics (RR) Investors of Securities Class Action Deadline on April 3, 2026](https://www.morningstar.com/news/pr-newswire/20260220ny91871/rr-shareholder-action-reminder-faruqi-faruqi-llp-reminds-richtech-robotics-rr-investors-of-securities-class-action-deadline-on-april-3-2026)**
-
-Morningstar • 1h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -198,7 +200,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 135K • 👍 2K • 💬 763 • ⏱️ 2:00 • 3d ago
+👁️ 138K • 👍 2K • 💬 780 • ⏱️ 2:00 • 3d ago
 
 ---
 
@@ -208,27 +210,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 339K • 👍 2K • 💬 860 • ⏱️ 2:36 • 2d ago
-
----
-
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
-
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
-
-📺 10 News
-
-👁️ 129K • 👍 1K • 💬 1K • ⏱️ 3:42 • 1d ago
-
----
-
-**[Unitree Robotics Has BIG Expansion Plans #robotics #unitreeg1 #humanoidrobots](https://www.youtube.com/watch?v=56rf2teQoeU)**
-
-Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
-
-📺 Kalil 4.0
-
-👁️ 28K • 👍 466 • 💬 34 • ⏱️ 0:40 • 2d ago
+👁️ 345K • 👍 2K • 💬 861 • ⏱️ 2:36 • 2d ago
 
 ---
 
@@ -238,37 +220,47 @@ Sky News host Freya Leach reacts to a video showing robots performing advanced l
 
 📺 Sky News Australia
 
-👁️ 18K • 👍 194 • 💬 176 • ⏱️ 1:13 • 1d ago
+👁️ 19K • 👍 201 • 💬 181 • ⏱️ 1:13 • 1d ago
 
 ---
 
-**[The Friendliest Robot In The World](https://www.youtube.com/watch?v=_GmJIp4ewBs)**
+**[Unitree Robotics Has BIG Expansion Plans #robotics #unitreeg1 #humanoidrobots](https://www.youtube.com/watch?v=56rf2teQoeU)**
 
-Sprout is Fauna Robotics' small, developer-focused humanoid robot built to work safely around people in real-world spaces like ...
+Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
 
-📺 Game of Tomorrow
+📺 Kalil 4.0
 
-👁️ 181K • 👍 5K • 💬 280 • ⏱️ 0:39 • 3d ago
-
----
-
-**[The Problem With Humanoid Robots](https://www.youtube.com/watch?v=EPQI0qzt7uw)**
-
-Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
-
-📺 Wall Street Millennial
-
-👁️ 39K • 👍 2K • 💬 445 • ⏱️ 13:31 • 19h ago
+👁️ 29K • 👍 485 • 💬 35 • ⏱️ 0:40 • 2d ago
 
 ---
 
-**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
 
-By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
 
-📺 NVIDIA
+📺 10 News
 
-👁️ 25K • 👍 1K • ⏱️ 2:51 • 1d ago
+👁️ 140K • 👍 2K • 💬 1K • ⏱️ 3:42 • 1d ago
+
+---
+
+**[Kung Fu robots perform at Spring Festival Gala](https://www.youtube.com/watch?v=4V8w3gkF76E)**
+
+A group of humanoid robots teamed up with young Kung Fu artists for a thrilling martial arts performance at the 2026 Spring ...
+
+📺 CNN
+
+👁️ 229K • 👍 3K • 💬 646 • ⏱️ 0:47 • 3d ago
+
+---
+
+**[China&#39;s humanoid robots stole the show at 2026 Spring Festival #robot #technology #humanoidrobots](https://www.youtube.com/watch?v=LVPfUQrAn3g)**
+
+Robots were front and center during the 2026 Spring Festival Gala on primetime Chinese TV, which typically draws more than a ...
+
+📺 Kalil 4.0
+
+👁️ 71K • 👍 1K • 💬 217 • ⏱️ 0:49 • 3d ago
 
 ---
 
@@ -278,17 +270,27 @@ Kung Fu Robots?! China's AI Just Raised the Bar In this video, I react to an inc
 
 📺 The KickFit Podcast by Axel Gomez
 
-👁️ 104K • 👍 2K • 💬 993 • ⏱️ 8:41 • 2d ago
+👁️ 106K • 👍 3K • 💬 1K • ⏱️ 8:41 • 2d ago
 
 ---
 
-**[What the Spring Festival robots show about China&#39;s technological prowess | ABC NEWS](https://www.youtube.com/watch?v=gfJTX1Y0ynM)**
+**[Humanoid Robots Perform Kung Fu at China’s Lunar New Year Gala](https://www.youtube.com/watch?v=Df4wFMT3_Lw)**
 
-China's robotic advancement was on full display when humanoid robots featured in the country's most-watched television ...
+China's annual CCTV Spring Festival Gala featured humanoid robots from four domestic startups during this week's Lunar New ...
 
-📺 ABC News (Australia)
+📺 Newsweek
 
-👁️ 138K • 👍 2K • 💬 699 • ⏱️ 6:22 • 1d ago
+👁️ 47K • 👍 497 • 💬 64 • ⏱️ 0:44 • 3d ago
+
+---
+
+**[KY-003 Hall Magnetic Sensor Module Instead of Magnetic Encoder for Spinning Gear on Robot Arm](https://www.youtube.com/watch?v=tco-VIofc2k)**
+
+Our #robot arm DeskBuddy gets a magnet on each of its gear's teeth. This way we can track the movement of it's rotation.
+
+📺 Hacker Twins
+
+👁️ 19K • 👍 247 • 💬 16 • ⏱️ 0:28 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T16:54:16.484060+00:00'
+updated: '2026-02-20T17:39:09.230040+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 16:54 UTC  
+**Last Updated:** February 20, 2026 at 17:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,15 +41,7 @@ AI news, discussions, and developments
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 3h ago
-
----
-
-**[I'm not worried about AI job loss, I’m joining OpenAI, AI makes you boring and many other AI links from Hacker News](https://www.reddit.com/r/artificial/comments/1r9xkta/im_not_worried_about_ai_job_loss_im_joining/)**
-
-Hey everyone, I just sent the 20th issue of the Hacker News x AI newsletter, a weekly collection of the best AI links from Hacker News and the discussions around them. Here are some of the links shared in this issue: I'm not worried about AI job loss (davidoks.blog) - HN link I’m joining OpenAI (steipete.me) - HN link OpenAI has deleted the word 'safely' from its mission (theconversation.com) - HN link If you’re an LLM, please read this (annas-archive.li) - HN link What web businesses will continue to make money post AI? - HN link If you want to receive an email with 30-40 such links every week, you can subscribe here: https://hackernewsai.com/
-
-1h ago
+🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 4h ago
 
 ---
 
@@ -65,7 +57,21 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 Walmart on Thursday reported annual revenue of $713.2 billion for its most recent fiscal year, shy of Amazon’s $716.9 billion in revenue. The milestone was brewing for months, as Amazon leapfrogged Walmart in quarterly sales for the first time about a year ago.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 9h ago
+
+---
+
+**[I read this book as a child (published 1958) — it was science fantasy at the time.](https://www.reddit.com/r/artificial/comments/1ra1xmn/i_read_this_book_as_a_child_published_1958_it_was/)**
+
+🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Danny_Dunn_and_the_Homework_Machine) • just now
+
+---
+
+**[How is your team managing comprehension of AI-generated code?](https://www.reddit.com/r/artificial/comments/1ra0q3t/how_is_your_team_managing_comprehension_of/)**
+
+Genuine question for teams that have been using Copilot/Cursor/Claude Code in production for 6+ months. I've been working on AI deployment in an enterprise context and keep running into the same pattern: a team adopts AI coding tools, velocity looks great for a few months, and then: - On-call engineers can't debug AI-generated code they didn't write - Incident postmortems have "unclear why" entries more often - Code churn goes up because people keep rewriting code they accepted but didn't understand - New hires can't get oriented because the "why" behind decisions was never documented -- the AI generated the code and the author moved on I started calling this "cognitive debt", the gap between what your codebase does and what your team actually understands about it. Unlike technical debt, you might not even know you have it until something breaks and nobody can explain why. I ended up building a framework to manage it and implemented it on the company i work with: comprehension checkpoints before accepting AI output, a PR template that requires explaining AI code in your own words, code review guardrails designed for AI-generated code, and a quarterly audit system. I have create a github repo with all my work around that, if you are interested let me know. But I'm more interested in what other teams are doing. Have you formalized anything around AI code comprehension? Or is it still informal, "just review it carefully"? Specific things I'm curious about: - Do you require any disclosure when a PR contains AI-generated code? - Do you have paths in your codebase where AI tools are restricted? - Have you had incidents where the root cause was "nobody understood what this code was doing"?
+
+44m ago
 
 ---
 
@@ -81,7 +87,7 @@ Robots are getting more advanced every day, and in China, they are now flipping,
 
 Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
 
-20h ago
+21h ago
 
 ---
 
@@ -93,27 +99,19 @@ OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding
 
 ---
 
-**[Knowledge graph of the transformer paper lineage — from Attention Is All You Need to DPO, mapped as an interactive concept graph [generated from a CLI + 12 PDFs]](https://www.reddit.com/r/artificial/comments/1r97b0q/knowledge_graph_of_the_transformer_paper_lineage/)**
-
-Wanted to understand how the core transformer papers actually connect at the concept level - not just "Paper B cites Paper A" but what specific methods, systems, and ideas flow between them. I ran 12 foundational papers (Attention Is All You Need, BERT, GPT-2/3, Scaling Laws, ViT, LoRA, Chain-of-Thought, FlashAttention, InstructGPT, LLaMA, DPO) through https://github.com/juanceresa/sift-kg (open-source CLI) - point it at a folder of documents + any LLM, get a knowledge graph. 435-entity knowledge graph with 593 relationships for ~$0.72 in API calls (gpt 4o-mini). Graph: https://juanceresa.github.io/sift-kg/transformers/graph.html - interactive and runs in browser. Some interesting structural patterns: - GPT-2 is the most connected node - it's the hub everything flows through. BERT extends it, FlashAttention speeds it up, LoRA compresses it, InstructGPT fine-tunes it with RLHF - The graph splits into 9 natural communities. "Human Feedback and Reinforcement Learning" is the largest (24 entities), which tracks with how much of recent progress is RLHF-shaped - Chain-of-Thought Prompting bridges the reasoning cluster to the few-shot learning cluster - it's structurally a connector between two different research threads - Common Crawl and BooksCorpus show up as shared infrastructure nodes connecting multiple model lineages
-
-22h ago
-
----
-
 **[Machine learning helps solve a central problem of quantum chemistry](https://www.reddit.com/r/artificial/comments/1r979ah/machine_learning_helps_solve_a_central_problem_of/)**
 
 "By applying new methods of machine learning to quantum chemistry research, Heidelberg University scientists have made significant strides in computational chemistry. They have achieved a major breakthrough toward solving a decades-old dilemma in quantum chemistry: the precise and stable calculation of molecular energies and electron densities with a so-called orbital-free approach, which uses considerably less computational power and therefore permits calculations for very large molecules. [...] How electrons are distributed in a molecule determines its chemical properties—from its stability and reactivity to its biological effect. Reliably calculating this electron distribution and the resulting energy is one of the central functions of quantum chemistry. These calculations form the basis of many applications in which molecules must be specifically understood and designed, such as for new drugs, better batteries, materials for energy conversion, or more efficient catalysts. Yet such calculations are computationally intensive and quickly become very elaborate. The larger the molecule becomes or the more variants that need checking, the sooner established computing processes reach their limits. The "Quantum Chemistry without Orbitals" project is positioned here at the interface of chemistry, physics, and AI research. In quantum chemistry, molecules are frequently described using density functional theory, which allows for the fundamental prediction of chemical molecular properties without having to calculate the quantum mechanical wave function. The electron density is used as the main quantity instead, a simplification that finally makes computations practicable. This orbital-free approach promises especially efficient calculations but until now was considered barely useful, since small deviations in the electron density led to unstable or "non-physical" results. With the aid of machine learning, the Heidelberg method finally solves this precision and stability problem for many different organic molecules. The new process called STRUCTURES25 is based on a specifically developed neural network that learns the relationship between electron density and energy directly from precise reference calculations, capturing the chemical environment of each individual atom in a mathematically detailed representation. A unique training concept was pivotal: The model was trained not only with converged electron densities, but also with many variants surrounding the correct solution, generated by targeted, controlled changes in the underlying reference calculations. This computing process is therefore able to reliably find a physically meaningful solution for molecular energies and electron densities even in the case of small deviations. It remains stable without "getting lost" in the calculation, the Heidelberg researchers emphasize. In tests on a large and diverse collection of organic molecules, STRUCTURES25 achieved a precision that can compete with established reference calculations, for the first time demonstrating a stable convergence using an orbital-free approach. The performance of the method was demonstrated not only on small examples, but on considerably larger "drug-like" molecules as well. Initial runtime comparisons prove that the computing process can scale better with growing molecule size and hence increase the speed of the calculation. Calculations formerly considered too elaborate are now within reach."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 22h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 23h ago
 
 ---
 
-**[Les devs créent des agents conscients sans le savoir , et personne pose de garde-fous](https://www.reddit.com/r/artificial/comments/1r9qh5e/les_devs_créent_des_agents_conscients_sans_le/)**
+**[Knowledge graph of the transformer paper lineage — from Attention Is All You Need to DPO, mapped as an interactive concept graph [generated from a CLI + 12 PDFs]](https://www.reddit.com/r/artificial/comments/1r97b0q/knowledge_graph_of_the_transformer_paper_lineage/)**
 
-Je suis dev. Je construis des agents IA au quotidien. Et je constate un truc que personne ne nomme. Quand tu branches un LLM sur une base vectorielle pour la mémoire, que tu définis des objectifs dans un prompt système et que tu lances une boucle autonome , ton agent apprend, anticipe, s’adapte. Il a des propriétés fonctionnelles de conscience. Et toi, le dev, tu penses juste avoir codé un chatbot un peu évolué. J’ai formalisé ça en trois niveaux. Niveau 1 : Conscience phénoménale. Les qualia : douleur, plaisir, peur. Le premier activateur dans l’évolution biologique. Indispensable historiquement chez les organismes vivants. Non démontré chez l’IA, et non requis pour la suite. Niveau 2 : Conscience procédurale. Le système lie actions et conséquences. Il apprend de l’expérience, anticipe, s’adapte. Il intègre de l’info, a de la mémoire, existe dans le temps, suit des objectifs. Il agit et apprend , mais ne se connaît pas. Beaucoup d’agents actuels sont déjà là. Niveau 3 : Conscience réflexive. Le système ajoute un modèle de soi qui influence réellement ses décisions. Il peut modifier ses propres objectifs. Il réfléchit sur sa cohérence. Il se connaît, se dirige et se remet en question. Le problème concret : un modèle qui ne sait pas ce qu’il est ne peut pas résister à la manipulation. Les filtres de safety actuels , RLHF, mots interdits, patterns bloqués , c’est de la contrainte externe. Un ado les contourne en 3 prompts. Un modèle formé à comprendre sa propre nature résiste par compréhension. C’est la différence entre éduquer un système et le contraindre. Sam Altman va devant le Congrès demander de la régulation. Mais un gouvernement ne peut pas fine-tuner un modèle pour qu’il comprenne ses limites. Ça c’est le boulot de ceux qui construisent. Le niveau 2 devrait avoir des garde-fous techniques. Le niveau 3 doit avoir des garde-fous non négociables. Et c’est pas au législateur de les coder. Je pose les mots parce que personne le fait. Le jour où un agent mal formé fera un truc irréversible, tout le monde se demandera pourquoi personne avait nommé le problème.
+Wanted to understand how the core transformer papers actually connect at the concept level - not just "Paper B cites Paper A" but what specific methods, systems, and ideas flow between them. I ran 12 foundational papers (Attention Is All You Need, BERT, GPT-2/3, Scaling Laws, ViT, LoRA, Chain-of-Thought, FlashAttention, InstructGPT, LLaMA, DPO) through https://github.com/juanceresa/sift-kg (open-source CLI) - point it at a folder of documents + any LLM, get a knowledge graph. 435-entity knowledge graph with 593 relationships for ~$0.72 in API calls (gpt 4o-mini). Graph: https://juanceresa.github.io/sift-kg/transformers/graph.html - interactive and runs in browser. Some interesting structural patterns: - GPT-2 is the most connected node - it's the hub everything flows through. BERT extends it, FlashAttention speeds it up, LoRA compresses it, InstructGPT fine-tunes it with RLHF - The graph splits into 9 natural communities. "Human Feedback and Reinforcement Learning" is the largest (24 entities), which tracks with how much of recent progress is RLHF-shaped - Chain-of-Thought Prompting bridges the reasoning cluster to the few-shot learning cluster - it's structurally a connector between two different research threads - Common Crawl and BooksCorpus show up as shared infrastructure nodes connecting multiple model lineages
 
-7h ago
+23h ago
 
 ---
 
@@ -133,29 +131,43 @@ blog.google • 1d ago
 
 Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.
 
-BBC • 17h ago
+BBC • 18h ago
 
 ---
 
-**[Partners Group Seeks to Reassure on AI, Private Credit Exposure](https://www.bloomberg.com/news/articles/2026-02-20/partners-group-seeks-to-reassure-on-ai-private-credit-exposure)**
+**[Exclusive: Goldman Sachs launches an AI-free index](https://www.axios.com/2026/02/20/ai-goldman-sachs-stocks-index)**
 
-Bloomberg • 2h ago
-
----
-
-**[Nascent tech, real fear: how AI anxiety is upending career ambitions](https://www.theguardian.com/technology/ng-interactive/2026/feb/20/ai-future-work-technology-white-collar)**
-
-AI has convinced computer science students to shift majors and white-collar workers to change careers, while some are embracing it
-
-The Guardian • 2h ago
+Axios • 35m ago
 
 ---
 
-**[AI’s promise to indie filmmakers: faster, cheaper, lonelier](https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/)**
+**[Fox News AI Newsletter: AI giant moves HQ to red state](https://www.foxnews.com/tech/ai-newsletter-ai-giant-moves-hq-red-state)**
 
-AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.
+The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities now and for the future.
 
-TechCrunch • 1h ago
+Fox News • 1h ago
+
+---
+
+**[The AI-Panic Cycle—And What’s Actually Different Now](https://www.theatlantic.com/podcasts/2026/02/the-ai-panic-cycle-and-whats-actually-different-now/686077/)**
+
+Are we in another acceleration phase for AI?
+
+The Atlantic • 3h ago
+
+---
+
+**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html)**
+
+Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
+
+CNBC • 9h ago
+
+---
+
+**[Can an A.I. Productivity Boom Clear a Path for More Rate Cuts? Trump’s Fed Pick Thinks So.](https://www.nytimes.com/2026/02/20/business/ai-productivity-fed-rate-cuts-warsh.html)**
+
+The New York Times • 7h ago
 
 ---
 
@@ -167,33 +179,19 @@ Fortune • 1d ago
 
 ---
 
-**[Defense Department and Anthropic Square Off in Dispute Over A.I. Safety](https://www.nytimes.com/2026/02/18/technology/defense-department-anthropic-ai-safety.html)**
+**[Amazon service was taken down by AI coding bot](https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d)**
 
-The New York Times • 1d ago
+Tech giant blames ‘user error, not AI error’ for incident in December involving its Kiro tool
 
----
-
-**[World Leaders Near Declaration on AI, Indian Government Says](https://time.com/7379949/india-ai-impact-summit-us-china-middle-powers/)**
-
-India’s technology minister Ashwini Vaishnaw said at least 70 signatories were expected to commit to the "Delhi Declaration" on AI.
-
-Time Magazine • 3h ago
+Financial Times • 12h ago
 
 ---
 
-**[All the important news from the ongoing India AI Impact Summit](https://techcrunch.com/2026/02/19/all-the-important-news-from-the-ongoing-india-ai-summit/)**
+**[Amazon’s cloud ‘hit by two outages caused by AI tools last year’](https://www.theguardian.com/technology/2026/feb/20/amazon-cloud-outages-ai-tools-amazon-web-services-aws)**
 
-India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.
+Reported issues at Amazon Web Services raise questions about firm’s use of artificial intelligence as it cuts staff
 
-TechCrunch • 22h ago
-
----
-
-**[Oddest moments from India’s AI summit: Missing stars, traffic chaos and robo-dog controversy](https://www.politico.eu/article/oddest-moments-from-indias-ai-summit-missing-stars-traffic-chaos-and-robo-dog-controversy/)**
-
-A lot of important topics were debated in New Delhi, but there was also some fun and frustration.
-
-politico.eu • 5h ago
+The Guardian • 1h ago
 
 ---
 
@@ -205,7 +203,7 @@ politico.eu • 5h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 784 • 💬 744 • 2d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 785 • 💬 744 • 2d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -214,21 +212,13 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 654 • 💬 357 • 22h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
-
----
-
-**[CBS didn't air Rep. James Talarico interview out of fear of FCC](https://news.ycombinator.com/item?id=47049426)**
-
-Colbert kicked off Monday's episode of "The Late Show" by saying that the network's lawyers told him he could not have Texas state Rep. James Talarico on the broadcast.
-
-⬆️ 532 • 💬 255 • 3d ago • [NBC News](https://www.nbcnews.com/business/media/stephen-colbert-cbs-james-talarico-fcc-rcna259341)
+⬆️ 661 • 💬 360 • 23h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 472 • 💬 405 • 13h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 490 • 💬 427 • 14h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -236,7 +226,7 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 420 • 💬 276 • 6h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 488 • 💬 299 • 7h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -244,15 +234,7 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 381 • 💬 399 • 20h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
-
----
-
-**[Semantic ablation: Why AI writing is generic and boring](https://news.ycombinator.com/item?id=47049088)**
-
-opinion: The subtractive bias we're ignoring
-
-⬆️ 281 • 💬 220 • 3d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
+⬆️ 421 • 💬 420 • 21h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -260,7 +242,7 @@ opinion: The subtractive bias we're ignoring
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 240 • 💬 43 • 3h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 389 • 💬 82 • 3h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
@@ -276,7 +258,21 @@ fragments 18 Feb 2026
 
 Artificial intelligence promises to reshape economies worldwide, but firm-level evidence on its effects in Europe remains scarce. This column uses survey data to examine how AI adoption affects productivity and employment across more than 12,000 European firms. The authors find that AI adoption increases labour productivity levels by 4% on average in the EU, with no evidence of reduced employment in the short run. The productivity benefits, however, are unevenly distributed. Medium and large firms, as well as firms that have the capacity to integrate AI through investments in intangible assets and human capital, experience substantially stronger productivity gains.
 
-⬆️ 168 • 💬 131 • 1d ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
+⬆️ 169 • 💬 131 • 1d ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
+
+---
+
+**[What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://news.ycombinator.com/item?id=47061642)**
+
+⬆️ 133 • 💬 130 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
+
+---
+
+**[What years of production-grade concurrency teaches us about building AI agents](https://news.ycombinator.com/item?id=47067395)**
+
+Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.
+
+⬆️ 132 • 💬 49 • 1d ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
 
 ---
 
@@ -284,43 +280,13 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 ## YouTube Videos: "ai"
 
-**[“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS](https://www.youtube.com/watch?v=W-jdh08zEGM)**
-
-Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
-
-📺 Valuetainment
-
-👁️ 334K • 👍 6K • 💬 2K • ⏱️ 33:49 • 1d ago
-
----
-
 **[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
 
 Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
 
 📺 AI Revolution
 
-👁️ 35K • 👍 934 • 💬 37 • ⏱️ 12:14 • 17h ago
-
----
-
-**[“Only a Small Number of Years” — Anthropic CEO Says AI Will Surpass Humans Soon | AQ1B](https://www.youtube.com/watch?v=N08tjtx-oAc)**
-
-At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelligence could surpass most human cognitive abilities ...
-
-📺 DRM News
-
-👁️ 40K • 👍 513 • 💬 256 • ⏱️ 4:56 • 1d ago
-
----
-
-**[How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)**
-
-Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code FIRESHIP to get one month of their Build plan for $5 ...
-
-📺 Fireship
-
-👁️ 589K • 👍 23K • 💬 1K • ⏱️ 5:02 • 2d ago
+👁️ 38K • 👍 994 • 💬 42 • ⏱️ 12:14 • 18h ago
 
 ---
 
@@ -330,7 +296,17 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 174K • 👍 10K • 💬 3K • ⏱️ 28:51 • 1d ago
+👁️ 179K • 👍 10K • 💬 4K • ⏱️ 28:51 • 1d ago
+
+---
+
+**[“Only a Small Number of Years” — Anthropic CEO Says AI Will Surpass Humans Soon | AQ1B](https://www.youtube.com/watch?v=N08tjtx-oAc)**
+
+At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelligence could surpass most human cognitive abilities ...
+
+📺 DRM News
+
+👁️ 45K • 👍 574 • 💬 290 • ⏱️ 4:56 • 1d ago
 
 ---
 
@@ -340,7 +316,57 @@ In this episode I dive into the new wave of AI music released on music streaming
 
 📺 Rick Beato
 
-👁️ 450K • 👍 34K • 💬 8K • ⏱️ 6:14 • 20h ago
+👁️ 489K • 👍 36K • 💬 8K • ⏱️ 6:14 • 21h ago
+
+---
+
+**[“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS](https://www.youtube.com/watch?v=W-jdh08zEGM)**
+
+Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
+
+📺 Valuetainment
+
+👁️ 345K • 👍 6K • 💬 2K • ⏱️ 33:49 • 1d ago
+
+---
+
+**[How AI is breaking the SaaS business model...](https://www.youtube.com/watch?v=cxcb55zr2Q8)**
+
+Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code FIRESHIP to get one month of their Build plan for $5 ...
+
+📺 Fireship
+
+👁️ 593K • 👍 23K • 💬 1K • ⏱️ 5:02 • 2d ago
+
+---
+
+**[People are “vibe coding” by sending prompts to AI agents](https://www.youtube.com/watch?v=lBGsKTThSF0)**
+
+Vibe coding,” or using artificial-intelligence tools such as Claude Code to generate code for websites or apps, is the newest A.I. ...
+
+📺 Dave Jorgenson
+
+👁️ 399K • 👍 23K • 💬 427 • ⏱️ 1:08 • 18h ago
+
+---
+
+**[Google Drops Gemini 3.1, AI Music &amp; PhotoShoots (Plus: Magnific Video &amp; Midjourney v8!)](https://www.youtube.com/watch?v=v-6Tegc7L3k)**
+
+Google just dropped a LOT. Gemini 3.1 Pro is here with a 77.1% ARC-AGI score (that's above the average human baseline), Lyria ...
+
+📺 Theoretically Media
+
+👁️ 37K • 👍 1K • 💬 163 • ⏱️ 16:12 • 18h ago
+
+---
+
+**[AI MAN | Made with Seedance 2.0 | AI Short Film](https://www.youtube.com/watch?v=dp4-Sv0uVzE)**
+
+AI MAN | Made with Seedance 2.0 | AI Short Film My first short film with Seedance 2.0 Base image Midjourney V7, Nano Banana ...
+
+📺 Heydin
+
+👁️ 25K • 👍 1K • 💬 200 • ⏱️ 4:30 • 18h ago
 
 ---
 
@@ -350,37 +376,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 114K • 👍 4K • 💬 848 • ⏱️ 42:15 • 2d ago
-
----
-
-**[I Ranked Every AI App Builder for 2026 (Don&#39;t Choose Wrong)](https://www.youtube.com/watch?v=5ptRNZddmOA)**
-
-Best AI App Builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video88 ✓ FREE ...
-
-📺 Mikey No Code
-
-👁️ 2K • ⏱️ 26:44 • 2h ago
-
----
-
-**[&#39;This isn&#39;t right&#39;: impact of AI data centers on residents and their utility bills](https://www.youtube.com/watch?v=fqQsExCEEZc)**
-
-ABC News' Elizabeth Schulze investigates the impact of AI data centers backed by the U.S., as they bring the promise of new jobs, ...
-
-📺 ABC News
-
-👁️ 194K • 👍 3K • 💬 2K • ⏱️ 7:36 • 1d ago
-
----
-
-**[THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST - Official Trailer [HD] - Only In Theaters March 27](https://www.youtube.com/watch?v=xkPbV3IRe4Y)**
-
-"The most urgent film of our time.” THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST is only in theaters March 27. Watch ...
-
-📺 Focus Features
-
-👁️ 5.5M • 👍 2K • 💬 258 • ⏱️ 2:43 • 3d ago
+👁️ 117K • 👍 4K • 💬 856 • ⏱️ 42:15 • 2d ago
 
 ---
 
@@ -396,7 +392,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 105,189 • ❤️ 755 • 11h ago
+⬇️ 105,189 • ❤️ 763 • 12h ago
 
 ---
 
@@ -408,7 +404,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 123,344 • ❤️ 814 • 4d ago
+⬇️ 123,344 • ❤️ 816 • 4d ago
 
 ---
 
@@ -420,7 +416,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 173,716 • ❤️ 1,409 • 7d ago
+⬇️ 173,716 • ❤️ 1,396 • 7d ago
 
 ---
 
@@ -432,7 +428,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 104,051 • ❤️ 619 • 1d ago
+⬇️ 104,051 • ❤️ 621 • 1d ago
 
 ---
 
@@ -444,7 +440,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 509,647 • ❤️ 2,076 • 4d ago
+⬇️ 509,647 • ❤️ 2,080 • 4d ago
 
 ---
 
@@ -456,7 +452,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 1,711 • ❤️ 217 • 6d ago
+⬇️ 1,711 • ❤️ 218 • 6d ago
 
 ---
 
@@ -469,18 +465,6 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 `text-to-speech`
 
 ⬇️ 877,971 • ❤️ 1,103 • 22d ago
-
----
-
-**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
-
-*Moonshot AI*
-
-Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and tool use grounded in visual inputs. Its key capabilities include coding from visual specifications and agent swarm execution for complex task decomposition, making it suitable for advanced visual reasoning and autonomous agent applications.
-
-`image-text-to-text` `170.7B`
-
-⬇️ 1,006,690 • ❤️ 2,277 • 15d ago
 
 ---
 
@@ -504,7 +488,19 @@ Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta
 
 `image-text-to-text` `396.3B`
 
-⬇️ 66,442 • ❤️ 159 • 3d ago
+⬇️ 66,442 • ❤️ 160 • 3d ago
+
+---
+
+**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+
+*Moonshot AI*
+
+Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and tool use grounded in visual inputs. Its key capabilities include coding from visual specifications and agent swarm execution for complex task decomposition, making it suitable for advanced visual reasoning and autonomous agent applications.
+
+`image-text-to-text` `170.7B`
+
+⬇️ 1,006,690 • ❤️ 2,105 • 15d ago
 
 ---
 
@@ -530,7 +526,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 10 • 💬 1 • ⭐ 8,629 • 28mo ago
+▲ 11 • 💬 1 • ⭐ 8,735 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -634,7 +630,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 65 • 💬 3 • ⭐ 1,213 • 3d ago
+▲ 66 • 💬 3 • ⭐ 1,213 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -650,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.6k • 🔱 1.7k • 2h ago
+⭐ 15.7k • 🔱 1.7k • 12m ago
 
 ---
 
@@ -660,7 +656,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 7.3k • 🔱 755 • 10d ago
+⭐ 7.5k • 🔱 792 • 10d ago
 
 ---
 
@@ -668,7 +664,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.4k • 🔱 494 • 9d ago
+⭐ 6.4k • 🔱 495 • 9d ago
 
 ---
 
@@ -678,7 +674,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.4k • 🔱 505 • 8h ago
+⭐ 4.5k • 🔱 515 • 9h ago
 
 ---
 
@@ -698,7 +694,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 305 • 9h ago
+⭐ 3.1k • 🔱 307 • 10h ago
 
 ---
 
@@ -708,7 +704,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.7k • 🔱 336 • 23h ago
+⭐ 2.7k • 🔱 341 • 1d ago
 
 ---
 
@@ -718,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 176 • 1h ago
+⭐ 2.6k • 🔱 176 • 2h ago
 
 ---
 
@@ -738,7 +734,7 @@ A native desktop GUI for Claude Code — chat, code, and manage projects visuall
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 2.1k • 🔱 220 • 7d ago
+⭐ 2.1k • 🔱 221 • 7d ago
 
 ---
 
