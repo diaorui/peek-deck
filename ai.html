@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-20T22:27:30.511712+00:00"
+          "dateModified": "2026-02-20T22:57:06.796560+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -714,39 +714,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/" target="_blank" onclick="event.stopPropagation();">I built an AI that turns file organization into a conversation - no rules engine to learn</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="post-description">
-                            So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
-                        </div>
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1771613167.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ra8hz9/does_anyone_know_which_programsetting_allows_the/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -780,7 +747,7 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ra81v9/real_production_comparison_elevenlabs_vs_playht/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/', '_blank')">
                     <div class="post-thumbnail">
                         
                     </div>
@@ -788,13 +755,13 @@
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/artificial/comments/1ra81v9/real_production_comparison_elevenlabs_vs_playht/" target="_blank" onclick="event.stopPropagation();">Real production comparison: ElevenLabs vs PlayHT vs Azure TTS vs Cartesia for phone-quality voice AI</a>
+                            <a href="https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/" target="_blank" onclick="event.stopPropagation();">I built an AI that turns file organization into a conversation - no rules engine to learn</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            We’ve been running voice AI agents in production for 18+ months doing real phone calls (outbound lead qualification and inbound customer care). During this time we’ve tested multiple TTS providers. Sharing our honest assessment because most “comparisons” online are either sponsored or based on 30-second demos, not thousands of hours of real phone conversations. Important context: our use case is Italian-language phone calls over standard telephony (not VoIP, not in-app), which is a harder test than English because fewer models are optimized for it. We process audio at 16kHz. ElevenLabs (currently in production): Best Italian voice quality by far. Prosody is natural, handles pauses well, emotional range is good. Latency for TTS generation is acceptable in our streaming setup. Downsides: pricing at scale gets expensive, and occasionally the voice “glitches” on certain phonemes. We’ve found that the voice stability is very dependent on how you structure your input text — short sentences work dramatically better than long ones. Azure Neural TTS: Rock solid reliability, great latency, good pricing. Italian voices are okay but sound “flat” compared to ElevenLabs — like a newsreader vs a real person. For customer care this works fine. For outbound sales calls where you need warmth and persuasion, it wasn’t cutting it. PlayHT: Tested their v2 API. English quality is impressive. Italian was noticeably worse — unnatural stress patterns, weird pauses between words. Might work for English-only deployments. Cartesia: Very promising on latency (their streaming is genuinely fast). Voice quality for English is good. Italian support was limited when we tested. Worth watching. The metric that matters most for us isn’t MOS score or any standard quality metric — it’s what we call “first 5 second detection rate,” meaning how often the person being called realizes they’re talking to AI within the first 5 seconds. With ElevenLabs we’re at roughly 15-20%. With Azure it was closer to 40%. That gap is massive for outbound conversion. Has anyone done serious production testing of TTS providers for non-English languages? Also very curious about Cartesia’s Italian/European language support — their architecture seems promising but I haven’t seen real multilingual benchmarks. And for anyone using Deepgram or AssemblyAI on the STT side: how’s Italian transcription accuracy for you?
+                            So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
                         </div>
                         
 
@@ -803,7 +770,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1771622764.0"></span>
+                                    <span data-timestamp="1771613167.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -837,6 +804,39 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1771598955.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/artificial/comments/1ra81v9/real_production_comparison_elevenlabs_vs_playht/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/artificial/comments/1ra81v9/real_production_comparison_elevenlabs_vs_playht/" target="_blank" onclick="event.stopPropagation();">Real production comparison: ElevenLabs vs PlayHT vs Azure TTS vs Cartesia for phone-quality voice AI</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            We’ve been running voice AI agents in production for 18+ months doing real phone calls (outbound lead qualification and inbound customer care). During this time we’ve tested multiple TTS providers. Sharing our honest assessment because most “comparisons” online are either sponsored or based on 30-second demos, not thousands of hours of real phone conversations. Important context: our use case is Italian-language phone calls over standard telephony (not VoIP, not in-app), which is a harder test than English because fewer models are optimized for it. We process audio at 16kHz. ElevenLabs (currently in production): Best Italian voice quality by far. Prosody is natural, handles pauses well, emotional range is good. Latency for TTS generation is acceptable in our streaming setup. Downsides: pricing at scale gets expensive, and occasionally the voice “glitches” on certain phonemes. We’ve found that the voice stability is very dependent on how you structure your input text — short sentences work dramatically better than long ones. Azure Neural TTS: Rock solid reliability, great latency, good pricing. Italian voices are okay but sound “flat” compared to ElevenLabs — like a newsreader vs a real person. For customer care this works fine. For outbound sales calls where you need warmth and persuasion, it wasn’t cutting it. PlayHT: Tested their v2 API. English quality is impressive. Italian was noticeably worse — unnatural stress patterns, weird pauses between words. Might work for English-only deployments. Cartesia: Very promising on latency (their streaming is genuinely fast). Voice quality for English is good. Italian support was limited when we tested. Worth watching. The metric that matters most for us isn’t MOS score or any standard quality metric — it’s what we call “first 5 second detection rate,” meaning how often the person being called realizes they’re talking to AI within the first 5 seconds. With ElevenLabs we’re at roughly 15-20%. With Azure it was closer to 40%. That gap is massive for outbound conversion. Has anyone done serious production testing of TTS providers for non-English languages? Also very curious about Cartesia’s Italian/European language support — their architecture seems promising but I haven’t seen real multilingual benchmarks. And for anyone using Deepgram or AssemblyAI on the STT side: how’s Italian transcription accuracy for you?
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1771622764.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -1037,7 +1037,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-20T21:50:24.272181+00:00">Updated 2026-02-20T21:50:24.272181+00:00</small>
+        <small data-timestamp="2026-02-20T22:56:42.876284+00:00">Updated 2026-02-20T22:56:42.876284+00:00</small>
     </div>
 </div>
 
@@ -1223,6 +1223,43 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-ai">
                 
+                <div class="carousel-card" onclick="window.open('https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" ></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html" target="_blank" onclick="event.stopPropagation();">A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nytimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The New York Times" class="news-favicon">
+                                    <a href="https://www.nytimes.com" target="_blank" onclick="event.stopPropagation();">The New York Times</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1771581661.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="article-thumbnail" style="background-image: url('https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_pro_meta_dark.width-1300.png');"></div>
@@ -1257,129 +1294,6 @@
                                 
                                 <div class="news-meta-item">
                                     <span data-timestamp="1771517322.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/tech/security/anthropic-ai-defense-war-venezuela-maduro-rcna259603', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260218-pete-hegseth-gk-b447ec.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.nbcnews.com/tech/security/anthropic-ai-defense-war-venezuela-maduro-rcna259603" target="_blank" onclick="event.stopPropagation();">Tensions between the Pentagon and AI giant Anthropic reach a boiling point</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            A Pentagon spokesperson told NBC News that it is reviewing its relationship with Anthropic.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="NBC News" class="news-favicon">
-                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1771609400.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.cnbc.com/2026/02/20/ringcentral-ring-five9-fivn-rally-ai-sell-off.html', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://image.cnbcfm.com/api/v1/image/108015815-1722626404533-gettyimages-1233441984-PGONCHAR_W9554.jpeg?v=1771611716&w=1920&h=1080');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.cnbc.com/2026/02/20/ringcentral-ring-five9-fivn-rally-ai-sell-off.html" target="_blank" onclick="event.stopPropagation();">Beaten-down software stocks RingCentral and Five9 rally as earnings quell some AI concerns</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Software stocks have been in sell-off mode in recent weeks on fears that new AI tools will uproot their longstanding business models.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="CNBC" class="news-favicon">
-                                    <a href="https://www.cnbc.com" target="_blank" onclick="event.stopPropagation();">CNBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1771613992.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.bbc.com/sport/football/articles/ce3gv2g44peo', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bd21/live/fb5e1d30-0e8e-11f1-a4e4-ddad1524d202.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.bbc.com/sport/football/articles/ce3gv2g44peo" target="_blank" onclick="event.stopPropagation();">Chelsea agree sponsorship deal with AI company IFS</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Chelsea agree a deal with IFS, an AI technology company, to be their shirt sponsor until the end of the season.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="BBC" class="news-favicon">
-                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1771616616.0"></span>
                                 </div>
                                 
                             </div>
@@ -1428,20 +1342,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.goal.com/en-us/lists/chelsea-announce-new-ai-front-of-shirt-sponsor/bltbeadad3dbf8a6cc6', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/sport/football/articles/ce3gv2g44peo', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://assets.goal.com/images/v3/getty-2257918532/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2257918532.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/bd21/live/fb5e1d30-0e8e-11f1-a4e4-ddad1524d202.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.goal.com/en-us/lists/chelsea-announce-new-ai-front-of-shirt-sponsor/bltbeadad3dbf8a6cc6" target="_blank" onclick="event.stopPropagation();">Chelsea announce new AI front-of-shirt sponsor</a>
+                            <a href="https://www.bbc.com/sport/football/articles/ce3gv2g44peo" target="_blank" onclick="event.stopPropagation();">Chelsea agree sponsorship deal with AI company IFS</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Chelsea have announced IFS, a new AI firm, as their front-of-shirt sponsor for the remainder of the 2025/26 season, "marking the beginning of a long-term collaboration". The Blues have not had a permanent sponsor since their deal with mobile phone operator Three expired in 2023.
+                            Chelsea agree a deal with IFS, an AI technology company, to be their shirt sponsor until the end of the season.
                         </div>
                         
 
@@ -1451,9 +1365,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Goal.com" class="news-favicon">
-                                    <a href="https://www.goal.com" target="_blank" onclick="event.stopPropagation();">Goal.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
                                     
                                 </div>
                                 
@@ -1461,7 +1375,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1771621646.0"></span>
+                                    <span data-timestamp="1771616616.0"></span>
                                 </div>
                                 
                             </div>
@@ -1469,20 +1383,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.nasdaq.com/articles/prediction-these-2-artificial-intelligence-ai-stocks-will-soar-after-feb-26-hint-not', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/166336/official-chelsea-agree-short-term-front-of-shirt-sponsorship-with-industrial-ai-provider-ifs', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://platform.weaintgotnohistory.sbnation.com/wp-content/uploads/sites/178/2026/02/gettyimages-2256938465.jpg?quality=90&strip=all&crop=0%2C10.729337314861%2C100%2C78.541325370278&w=1200');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.nasdaq.com/articles/prediction-these-2-artificial-intelligence-ai-stocks-will-soar-after-feb-26-hint-not" target="_blank" onclick="event.stopPropagation();">Prediction: These 2 Artificial Intelligence (AI) Stocks Will Soar After Feb. 26 (Hint: Not Nvidia)</a>
+                            <a href="https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/166336/official-chelsea-agree-short-term-front-of-shirt-sponsorship-with-industrial-ai-provider-ifs" target="_blank" onclick="event.stopPropagation();">Official: Chelsea agree short-term front-of-shirt sponsorship with Industrial AI provider IFS</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            Key PointsCoreWeave's report could be better than expected, thanks to fast-growing demand for AI compute capacity.
+                            Tapping into the AI bubble
                         </div>
                         
 
@@ -1492,9 +1406,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nasdaq.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Nasdaq" class="news-favicon">
-                                    <a href="https://www.nasdaq.com" target="_blank" onclick="event.stopPropagation();">Nasdaq</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://weaintgotnohistory.sbnation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="We Ain't Got No History" class="news-favicon">
+                                    <a href="https://weaintgotnohistory.sbnation.com" target="_blank" onclick="event.stopPropagation();">We Ain't Got No History</a>
                                     
                                 </div>
                                 
@@ -1502,7 +1416,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1771615200.0"></span>
+                                    <span data-timestamp="1771624382.0"></span>
                                 </div>
                                 
                             </div>
@@ -1510,21 +1424,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://seekingalpha.com/article/4873015-warning-this-ai-driven-sell-off-could-be-just-beginning', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://ktla.com/news/nationworld/amc-theatres-refuses-to-screen-ai-film-that-sparked-online-backlash/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2226633028/image_2226633028.jpg?io=getty-c-w1536');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://seekingalpha.com/article/4873015-warning-this-ai-driven-sell-off-could-be-just-beginning" target="_blank" onclick="event.stopPropagation();">Warning: This AI-Driven Sell-Off Could Be Just Beginning</a>
+                            <a href="https://ktla.com/news/nationworld/amc-theatres-refuses-to-screen-ai-film-that-sparked-online-backlash/" target="_blank" onclick="event.stopPropagation();">AMC Theatres refuses to screen AI film that sparked online backlash</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            AI is breaking moats, and digital leaders are already down 20–80% as competition surges. Read the full analysis here.
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1533,9 +1443,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Seeking Alpha" class="news-favicon">
-                                    <a href="https://seekingalpha.com" target="_blank" onclick="event.stopPropagation();">Seeking Alpha</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ktla.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="KTLA" class="news-favicon">
+                                    <a href="https://ktla.com" target="_blank" onclick="event.stopPropagation();">KTLA</a>
                                     
                                 </div>
                                 
@@ -1543,7 +1453,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1771615576.0"></span>
+                                    <span data-timestamp="1771618607.0"></span>
                                 </div>
                                 
                             </div>
@@ -1551,20 +1461,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://finance.yahoo.com/news/nvidia-13f-bombshell-ai-power-161400952.html', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.cnn.com/2026/02/20/business/video/india-ai-summit-hanako-montgomery-hnk-vrtc', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://s.yimg.com/os/en/marketbeat_955/15457620e911e8a525109fa7b278e851');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://media.cnn.com/api/v1/images/stellar/prod/117259-indiaaisummit-vrtc-v1.jpg?c=16x9&q=w_800,c_fill');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://finance.yahoo.com/news/nvidia-13f-bombshell-ai-power-161400952.html" target="_blank" onclick="event.stopPropagation();">NVIDIA’s 13F Bombshell: A New AI Power Trio Emerges</a>
+                            <a href="https://www.cnn.com/2026/02/20/business/video/india-ai-summit-hanako-montgomery-hnk-vrtc" target="_blank" onclick="event.stopPropagation();">India opens 'world's biggest' AI summit, but what's next?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            NVIDIA did anything but stand pat with its investments during Q4 2025. See how the company turned over its holdings in the quarter.
+                            India opened the “world’s biggest” AI summit with world leaders and powerful AI figures in attendance. CNN’s Hanako Montgomery reports from the summit and shares how India has become increasingly attractive to tech giants and is on its way to becoming a global AI powerhouse.
                         </div>
                         
 
@@ -1574,9 +1484,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Yahoo Finance" class="news-favicon">
-                                    <a href="https://finance.yahoo.com" target="_blank" onclick="event.stopPropagation();">Yahoo Finance</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="CNN" class="news-favicon">
+                                    <a href="https://www.cnn.com" target="_blank" onclick="event.stopPropagation();">CNN</a>
                                     
                                 </div>
                                 
@@ -1584,7 +1494,89 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1771517640.0"></span>
+                                    <span data-timestamp="1771570500.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.bbc.com/news/articles/c309qv9zglno', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://ichef.bbci.co.uk/news/1024/branded_news/1a97/live/efd25a30-0d49-11f1-8a17-c3bd2e006216.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.bbc.com/news/articles/c309qv9zglno" target="_blank" onclick="event.stopPropagation();">Bill Gates pulls out of India's AI summit over Epstein files controversy</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="BBC" class="news-favicon">
+                                    <a href="https://www.bbc.com" target="_blank" onclick="event.stopPropagation();">BBC</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1771488805.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/world/asia/indias-ai-summit-draws-global-leaders-big-pledges-chaos-rcna259855', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260220-Altman-and-Amodei-rs-4bf6ab.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nbcnews.com/world/asia/indias-ai-summit-draws-global-leaders-big-pledges-chaos-rcna259855" target="_blank" onclick="event.stopPropagation();">India’s AI summit draws global leaders, big pledges and some chaos</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The five-day event mixed long lines and viral mishaps with a serious pitch: The future of AI shouldn’t be written only in Washington and Beijing.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NBC News" class="news-favicon">
+                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1771618649.0"></span>
                                 </div>
                                 
                             </div>
@@ -1653,7 +1645,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-20T21:50:51.016342+00:00">Updated 2026-02-20T21:50:51.016342+00:00</small>
+        <small data-timestamp="2026-02-20T22:57:05.000339+00:00">Updated 2026-02-20T22:57:05.000339+00:00</small>
     </div>
 </div>
 
@@ -1928,7 +1920,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 672</span>
+                                    <span class="post-points">▲ 673</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 366</span>
@@ -1977,10 +1969,10 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 620</span>
+                                    <span class="post-points">▲ 636</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 356</span>
+                                    <span style="color: #9ca3af;">💬 368</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2026,10 +2018,10 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 586</span>
+                                    <span class="post-points">▲ 612</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 139</span>
+                                    <span style="color: #9ca3af;">💬 146</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2074,7 +2066,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                     <span class="post-points">▲ 505</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 448</span>
+                                    <span style="color: #9ca3af;">💬 452</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2123,10 +2115,10 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 473</span>
+                                    <span class="post-points">▲ 485</span>
                                 </div>
                                 <div class="post-meta-item">
-                                    <span style="color: #9ca3af;">💬 497</span>
+                                    <span style="color: #9ca3af;">💬 508</span>
                                 </div>
                             </div>
                             <div class="post-meta-line">
@@ -2172,7 +2164,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 201</span>
+                                    <span class="post-points">▲ 202</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 143</span>
@@ -2315,7 +2307,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                         <div class="post-meta">
                             <div class="post-meta-line">
                                 <div class="post-meta-item">
-                                    <span class="post-points">▲ 133</span>
+                                    <span class="post-points">▲ 134</span>
                                 </div>
                                 <div class="post-meta-item">
                                     <span style="color: #9ca3af;">💬 130</span>
@@ -2366,7 +2358,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-20T21:50:23.988139+00:00">Updated 2026-02-20T21:50:23.988139+00:00</small>
+        <small data-timestamp="2026-02-20T22:56:42.838126+00:00">Updated 2026-02-20T22:56:42.838126+00:00</small>
     </div>
 </div>
 
@@ -2559,24 +2551,24 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
             <!-- Carousel track -->
             <div class="carousel-track" id="youtube-carousel-ai">
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=W-jdh08zEGM', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=N_3X6qF2tT4', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/W-jdh08zEGM/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/N_3X6qF2tT4/hqdefault.jpg');">
                         
-                        <span class="duration-badge">33:49</span>
+                        <span class="duration-badge">26:37</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=W-jdh08zEGM" target="_blank" onclick="event.stopPropagation();">“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS</a>
+                            <a href="https://www.youtube.com/watch?v=N_3X6qF2tT4" target="_blank" onclick="event.stopPropagation();">AI Bubble: ‘This is dumber than WeWork’ | Ed Zitron</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
+                            We're reaching this thing where we're realising that everybody made a huge mistake.” Author of Wheres You're Ed At and Host of ...
                         </div>
                         
 
@@ -2587,9 +2579,9 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nawJ86x2hdTC2Bnfoe6-j4xR6nYYt5d5TMy5exr4OtjO0=s88-c-k-c0x00ffffff-no-rj" alt="Valuetainment" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/3pf28oA04HZNbm17w-ghu_g3jFl8SP7BcgqYZciQSFaYtoLD7trJc_6C1d3CAM9mj36Sw1zPNw=s88-c-k-c0x00ffffff-no-rj" alt="The Tech Report" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ" target="_blank" onclick="event.stopPropagation();">Valuetainment</a>
+                                    <a href="https://www.youtube.com/channel/UCPiMR-Ize9p3dgjzZ8bo9ZQ" target="_blank" onclick="event.stopPropagation();">The Tech Report</a>
                                 </div>
                                 
                             </div>
@@ -2598,16 +2590,16 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 355K</span>
+                                    <span style="color: #9ca3af;">👁️ 43K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 6K</span>
+                                    <span style="color: #9ca3af;">👍 3K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 2K</span>
+                                    <span style="color: #9ca3af;">💬 910</span>
                                 </div>
                                 
                             </div>
@@ -2617,7 +2609,139 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1771444922.0"></span>
+                                    <span data-timestamp="1771608611.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=LhiQBOzpk7o', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/LhiQBOzpk7o/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">12:48</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=LhiQBOzpk7o" target="_blank" onclick="event.stopPropagation();">Local backlash against AI just started</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/vm9aiDqf2v7LiVQXLC4f_fUTY3jj-zeFL1cLQRoW5iF6RPazl5EbWdt_3hSQQYY87j0FjpAeAw=s88-c-k-c0x00ffffff-no-rj" alt="Chris Norlund" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw" target="_blank" onclick="event.stopPropagation();">Chris Norlund</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 26K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 2K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 368</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1771581111.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=BuwPnrMmhzQ', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/BuwPnrMmhzQ/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">19:58</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=BuwPnrMmhzQ" target="_blank" onclick="event.stopPropagation();">9 AI Skills You MUST Have to Get Ahead of 99% of People</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n7 Are you building an AI software ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/0EEjg1FatDs8_2tFmzmGEP6dRlQygfqN6uCV17iwl-AymS0OSdWrtDeKq8ZIMZeTWRJO_cTT=s88-c-k-c0x00ffffff-no-rj" alt="Dan Martell" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCA-mWX9CvCTVFWRMb9bKc9w" target="_blank" onclick="event.stopPropagation();">Dan Martell</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 52K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 3K</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 128</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1771509616.0"></span>
                                 </div>
                                 
                             </div>
@@ -2664,7 +2788,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 41K</span>
+                                    <span style="color: #9ca3af;">👁️ 43K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -2673,7 +2797,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 45</span>
+                                    <span style="color: #9ca3af;">💬 46</span>
                                 </div>
                                 
                             </div>
@@ -2730,11 +2854,11 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 184K</span>
+                                    <span style="color: #9ca3af;">👁️ 188K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 10K</span>
+                                    <span style="color: #9ca3af;">👍 11K</span>
                                 </div>
                                 
                                 
@@ -2757,24 +2881,24 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=N08tjtx-oAc', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=W-jdh08zEGM', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/N08tjtx-oAc/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/W-jdh08zEGM/hqdefault.jpg');">
                         
-                        <span class="duration-badge">4:56</span>
+                        <span class="duration-badge">33:49</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=N08tjtx-oAc" target="_blank" onclick="event.stopPropagation();">“Only a Small Number of Years” — Anthropic CEO Says AI Will Surpass Humans Soon | AQ1B</a>
+                            <a href="https://www.youtube.com/watch?v=W-jdh08zEGM" target="_blank" onclick="event.stopPropagation();">“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelligence could surpass most human cognitive abilities ...
+                            Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
                         </div>
                         
 
@@ -2785,9 +2909,9 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/zZov0soXwnPSMaPiSlZVVj8tPt6gqmC6ZWT-rmXUvE_mYJPPNJ-W92zQDmQQ6E7wcLD83xbkAQ=s88-c-k-c0x00ffffff-no-rj" alt="DRM News" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/ytc/AIdro_nawJ86x2hdTC2Bnfoe6-j4xR6nYYt5d5TMy5exr4OtjO0=s88-c-k-c0x00ffffff-no-rj" alt="Valuetainment" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCrvG04V6wbOau6fVJI01OlQ" target="_blank" onclick="event.stopPropagation();">DRM News</a>
+                                    <a href="https://www.youtube.com/channel/UCIHdDJ0tjn_3j-FS7s_X1kQ" target="_blank" onclick="event.stopPropagation();">Valuetainment</a>
                                 </div>
                                 
                             </div>
@@ -2796,16 +2920,16 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 50K</span>
+                                    <span style="color: #9ca3af;">👁️ 362K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 613</span>
+                                    <span style="color: #9ca3af;">👍 6K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 306</span>
+                                    <span style="color: #9ca3af;">💬 2K</span>
                                 </div>
                                 
                             </div>
@@ -2815,7 +2939,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1771480474.0"></span>
+                                    <span data-timestamp="1771444922.0"></span>
                                 </div>
                                 
                             </div>
@@ -2823,24 +2947,24 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=dp4-Sv0uVzE', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=S6kRGJlugiw', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/dp4-Sv0uVzE/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/S6kRGJlugiw/hqdefault.jpg');">
                         
-                        <span class="duration-badge">4:30</span>
+                        <span class="duration-badge">12:22</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=dp4-Sv0uVzE" target="_blank" onclick="event.stopPropagation();">AI MAN | Made with Seedance 2.0 | AI Short Film</a>
+                            <a href="https://www.youtube.com/watch?v=S6kRGJlugiw" target="_blank" onclick="event.stopPropagation();">I Need To Warn You About AI Psychosis</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            AI MAN | Made with Seedance 2.0 | AI Short Film My first short film with Seedance 2.0 Base image Midjourney V7, Nano Banana ...
+                            Dr. K's Guide empowers your mental health journey with evidenced-based resources and tools. Learn more: https://bit.ly/4tIuLvj ...
                         </div>
                         
 
@@ -2851,9 +2975,9 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/0jGt9YvZrHF3FEHvVgesshmVBB-23Dshll3gug38Iw6ovxABn9C_TL2_MiIpeR_nbvFFKHylkCs=s88-c-k-c0x00ffffff-no-rj" alt="Heydin" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/tt1Nf16qbXj6hfK8ZLW0grwu4JgEkX0VBcFvOvhEvazBiVfy1Dnf-7D9_nBIKyCfwzA8FzEpWA=s88-c-k-c0x00ffffff-no-rj" alt="HealthyGamerGG" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCnW7ICcDmkZ0MGAso0c8k-g" target="_blank" onclick="event.stopPropagation();">Heydin</a>
+                                    <a href="https://www.youtube.com/channel/UClHVl2N3jPEbkNJVx-ItQIQ" target="_blank" onclick="event.stopPropagation();">HealthyGamerGG</a>
                                 </div>
                                 
                             </div>
@@ -2862,16 +2986,16 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 28K</span>
+                                    <span style="color: #9ca3af;">👁️ 222K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
+                                    <span style="color: #9ca3af;">👍 12K</span>
                                 </div>
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 209</span>
+                                    <span style="color: #9ca3af;">💬 2K</span>
                                 </div>
                                 
                             </div>
@@ -2881,7 +3005,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1771541109.0"></span>
+                                    <span data-timestamp="1771455636.0"></span>
                                 </div>
                                 
                             </div>
@@ -2889,24 +3013,24 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=7XGct4rbYfI', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=5KzjrZKyP4g', '_blank')">
                     <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/7XGct4rbYfI/hqdefault.jpg');">
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/5KzjrZKyP4g/hqdefault.jpg');">
                         
-                        <span class="duration-badge">6:14</span>
+                        <span class="duration-badge">2:50</span>
                         
                     </div>
 
                     <div class="video-content">
                         <!-- Video title (fixed 2-line height) -->
                         <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=7XGct4rbYfI" target="_blank" onclick="event.stopPropagation();">I&#39;m Sick Of This AI SH*T</a>
+                            <a href="https://www.youtube.com/watch?v=5KzjrZKyP4g" target="_blank" onclick="event.stopPropagation();">AMC REJECTS AI Animated Movie</a>
                         </div>
 
                         <!-- Video description (if available) -->
                         
                         <div class="video-description">
-                            In this episode I dive into the new wave of AI music released on music streaming platforms, when are they going to do something ...
+                            After the AI animated short Thanksgiving Day film won a contest to premiere in theaters, the Internet got mad. Then, AMC Theaters ...
                         </div>
                         
 
@@ -2917,9 +3041,9 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 
                                 <div class="video-meta-item video-channel">
                                     
-                                    <img src="https://yt3.ggpht.com/ZfDOigTWKzMkwaokreALniSPfAzaAq4v2T9hawgoFmjX4mHULaVyCcySqKjmvcBqvoPyWX7gsg=s88-c-k-c0x00ffffff-no-rj" alt="Rick Beato" class="channel-avatar">
+                                    <img src="https://yt3.ggpht.com/vwTaQz5-q6PFCr72_PA3H-D3b0ef5FILvKNfJdwHuLbksl6w4rR2cHqprj7ew6gcHETfEBBFgQ=s88-c-k-c0x00ffffff-no-rj" alt="Vailskibum" class="channel-avatar">
                                     
-                                    <a href="https://www.youtube.com/channel/UCJquYOG5EL82sKTfH9aMA9Q" target="_blank" onclick="event.stopPropagation();">Rick Beato</a>
+                                    <a href="https://www.youtube.com/channel/UCVJ2GFJzJgwyN7eWWWSpcHA" target="_blank" onclick="event.stopPropagation();">Vailskibum</a>
                                 </div>
                                 
                             </div>
@@ -2928,271 +3052,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             
                             <div class="video-meta-line">
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 528K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 37K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 9K</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1771532839.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=EtcwmC-NWKo', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/EtcwmC-NWKo/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">27:27</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=EtcwmC-NWKo" target="_blank" onclick="event.stopPropagation();">The AI Bubble Just Popped | Here&#39;s What&#39;s Worse</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            The AI bubble is popping. $680 billion in CapEx, and most of it will earn 4 cents on the dollar. But here's where I was wrong — the ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/aI6hpCLfR4bYHM28YkQIVH0eZweW7KcTXonLyYe_dk-EbxCpCXpMyQndpbpBawOHJRg_aAAd-g=s88-c-k-c0x00ffffff-no-rj" alt="Dr. Josh C. Simmons" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UC4sdJIrKWKxymZ5lwVSBzTw" target="_blank" onclick="event.stopPropagation();">Dr. Josh C. Simmons</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 29K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 661</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1771440741.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=0ijgRrgzVcs', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/0ijgRrgzVcs/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">0:16</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=0ijgRrgzVcs" target="_blank" onclick="event.stopPropagation();">Is this A.I.? 😱</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Adam Scott's tee shot embeds itself inches from the hole during the opening round at The Genesis Invitational SUBSCRIBE TO ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/PXD56UeKw9jGBsorePb_JO68o6T5kCbmtmHA6IKtjY5f9pJ5AcsSfvjQNnGC32vHjb2A42-e9cY=s88-c-k-c0x00ffffff-no-rj" alt="PGA TOUR" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCKwGZZMrhNYKzucCtTPY2Nw" target="_blank" onclick="event.stopPropagation();">PGA TOUR</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 105K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 1K</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 43</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1771549117.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=F6AP0v_2wr0', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/F6AP0v_2wr0/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">23:19</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=F6AP0v_2wr0" target="_blank" onclick="event.stopPropagation();">Meta’s AI Agent is Better Than OpenClaw (Manus AI Demo)</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Automate your work with our AI Agents Playbook:* https://clickhubspot.com/rdw Shownotes How to get your own personal game ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/_Elo3_9mVlpeklJsam8fj50KnvE24IiDXPtQ074_HCG4kRp1f0GhWVqfPsY9HEgNOBOJXCwN=s88-c-k-c0x00ffffff-no-rj" alt="Marketing Against the Grain" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCGtXqPiNV8YC0GMUzY-EUFg" target="_blank" onclick="event.stopPropagation();">Marketing Against the Grain</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 10K</span>
-                                </div>
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👍 344</span>
-                                </div>
-                                
-                                
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 60</span>
-                                </div>
-                                
-                            </div>
-                            
-
-                            <!-- Published date -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item">
-                                    <span data-timestamp="1771513222.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=BuwPnrMmhzQ', '_blank')">
-                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
-                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/BuwPnrMmhzQ/hqdefault.jpg');">
-                        
-                        <span class="duration-badge">19:58</span>
-                        
-                    </div>
-
-                    <div class="video-content">
-                        <!-- Video title (fixed 2-line height) -->
-                        <div class="video-title">
-                            <a href="https://www.youtube.com/watch?v=BuwPnrMmhzQ" target="_blank" onclick="event.stopPropagation();">9 AI Skills You MUST Have to Get Ahead of 99% of People</a>
-                        </div>
-
-                        <!-- Video description (if available) -->
-                        
-                        <div class="video-description">
-                            Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n7 Are you building an AI software ...
-                        </div>
-                        
-
-                        <!-- Metadata (channel, engagement stats, publish date) -->
-                        <div class="video-meta">
-                            <!-- Channel name with avatar -->
-                            <div class="video-meta-line">
-                                
-                                <div class="video-meta-item video-channel">
-                                    
-                                    <img src="https://yt3.ggpht.com/0EEjg1FatDs8_2tFmzmGEP6dRlQygfqN6uCV17iwl-AymS0OSdWrtDeKq8ZIMZeTWRJO_cTT=s88-c-k-c0x00ffffff-no-rj" alt="Dan Martell" class="channel-avatar">
-                                    
-                                    <a href="https://www.youtube.com/channel/UCA-mWX9CvCTVFWRMb9bKc9w" target="_blank" onclick="event.stopPropagation();">Dan Martell</a>
-                                </div>
-                                
-                            </div>
-
-                            <!-- Engagement stats (views, likes, comments) -->
-                            
-                            <div class="video-meta-line">
-                                <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">👁️ 49K</span>
+                                    <span style="color: #9ca3af;">👁️ 22K</span>
                                 </div>
                                 
                                 <div class="video-meta-item">
@@ -3201,7 +3061,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 
                                 
                                 <div class="video-meta-item">
-                                    <span style="color: #9ca3af;">💬 126</span>
+                                    <span style="color: #9ca3af;">💬 648</span>
                                 </div>
                                 
                             </div>
@@ -3211,7 +3071,139 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                             <div class="video-meta-line">
                                 
                                 <div class="video-meta-item">
-                                    <span data-timestamp="1771509616.0"></span>
+                                    <span data-timestamp="1771617608.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=KQIUp7H9Bkc', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/KQIUp7H9Bkc/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">8:29</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=KQIUp7H9Bkc" target="_blank" onclick="event.stopPropagation();">The 10 Most INSANE AI Films Created by Seedance 2.0</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            The 10 Most INSANE AI Films Created by Seedance 2 Seedance 2.0 by ByteDance just changed everything. In this video, we're ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/7XqvJe6KRh81mxw1HD_I2DVxJTPyt3yYm0CQB4dsS8rpVZNCNVaixsN7rdqf_tdGK-7y2mQ1=s88-c-k-c0x00ffffff-no-rj" alt="RandomAI" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCuyTqd701wPfaLRJY2C_4_A" target="_blank" onclick="event.stopPropagation();">RandomAI</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 15K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 247</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 63</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1771519418.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.youtube.com/watch?v=WbO0oDJk9t4', '_blank')">
+                    <!-- Video thumbnail (16:9 with play button overlay and duration badge) -->
+                    <div class="video-thumbnail" style="background-image: url('https://i.ytimg.com/vi/WbO0oDJk9t4/hqdefault.jpg');">
+                        
+                        <span class="duration-badge">2:55</span>
+                        
+                    </div>
+
+                    <div class="video-content">
+                        <!-- Video title (fixed 2-line height) -->
+                        <div class="video-title">
+                            <a href="https://www.youtube.com/watch?v=WbO0oDJk9t4" target="_blank" onclick="event.stopPropagation();">Kelly Boesch Official Music AI Video - Salt On The Tide - 4K</a>
+                        </div>
+
+                        <!-- Video description (if available) -->
+                        
+                        <div class="video-description">
+                            I was playing around in Midjourney with some images with an island feel. I love the dreamy feeling and the flamingos. There are ...
+                        </div>
+                        
+
+                        <!-- Metadata (channel, engagement stats, publish date) -->
+                        <div class="video-meta">
+                            <!-- Channel name with avatar -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item video-channel">
+                                    
+                                    <img src="https://yt3.ggpht.com/Sk2bYVDR4-06zIal7kBJ_KiYnBjKCzhwY6pmWER6Uw1M_py4FBvETDhvObXAqbVmvmwHaJlAKA=s88-c-k-c0x00ffffff-no-rj" alt="Kelly Boesch AI Art" class="channel-avatar">
+                                    
+                                    <a href="https://www.youtube.com/channel/UCfXg6PpmyP6c1h4vuerWUhw" target="_blank" onclick="event.stopPropagation();">Kelly Boesch AI Art</a>
+                                </div>
+                                
+                            </div>
+
+                            <!-- Engagement stats (views, likes, comments) -->
+                            
+                            <div class="video-meta-line">
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👁️ 14K</span>
+                                </div>
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">👍 937</span>
+                                </div>
+                                
+                                
+                                <div class="video-meta-item">
+                                    <span style="color: #9ca3af;">💬 52</span>
+                                </div>
+                                
+                            </div>
+                            
+
+                            <!-- Published date -->
+                            <div class="video-meta-line">
+                                
+                                <div class="video-meta-item">
+                                    <span data-timestamp="1771511063.0"></span>
                                 </div>
                                 
                             </div>
@@ -3239,7 +3231,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-20T20:33:43.224473+00:00">Updated 2026-02-20T20:33:43.224473+00:00</small>
+        <small data-timestamp="2026-02-20T22:56:45.127774+00:00">Updated 2026-02-20T22:56:45.127774+00:00</small>
     </div>
 </div>
 
@@ -3504,7 +3496,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                     <span class="model-stats">⬇️ 105,189</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 765</span>
+                                    <span class="model-stats">❤️ 768</span>
                                 </div>
                             </div>
                             
@@ -3560,7 +3552,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                     <span class="model-stats">⬇️ 123,344</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 803</span>
+                                    <span class="model-stats">❤️ 806</span>
                                 </div>
                             </div>
                             
@@ -3630,6 +3622,62 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/nvidia/personaplex-7b-v1', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/personaplex-7b-v1.png');"></div>
+
+                    <div class="model-content">
+                        <!-- Model name (first line after thumbnail) -->
+                        <div class="model-name">
+                            <a href="https://huggingface.co/nvidia/personaplex-7b-v1" target="_blank" onclick="event.stopPropagation();">
+                                personaplex-7b-v1
+                            </a>
+                        </div>
+
+                        <!-- Author with avatar (second line) -->
+                        <div class="model-author-line">
+                            
+                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png" alt="NVIDIA" class="model-avatar">
+                            
+                            <div class="model-author">
+                                <a href="https://huggingface.co/nvidia" target="_blank" onclick="event.stopPropagation();">NVIDIA</a>
+                            </div>
+                        </div>
+
+                        <!-- AI-generated description (only shown if any model has descriptions) -->
+                        
+                        <div class="model-description">
+                            PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
+                        </div>
+                        
+
+                        <!-- Metadata (tags, stats, time) -->
+                        <div class="model-meta">
+                            <div class="model-meta-line tags-line">
+                                
+                                <span class="model-tag">audio-to-audio</span>
+                                
+                                
+                            </div>
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-stats">⬇️ 509,647</span>
+                                </div>
+                                <div class="model-meta-item">
+                                    <span class="model-stats">❤️ 2,084</span>
+                                </div>
+                            </div>
+                            
+                            <div class="model-meta-line">
+                                <div class="model-meta-item">
+                                    <span class="model-age" data-timestamp="2026-02-15T20:10:09.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://huggingface.co/Nanbeige/Nanbeige4.1-3B', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Nanbeige/Nanbeige4.1-3B.png');"></div>
@@ -3688,62 +3736,6 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/nvidia/personaplex-7b-v1', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/nvidia/personaplex-7b-v1.png');"></div>
-
-                    <div class="model-content">
-                        <!-- Model name (first line after thumbnail) -->
-                        <div class="model-name">
-                            <a href="https://huggingface.co/nvidia/personaplex-7b-v1" target="_blank" onclick="event.stopPropagation();">
-                                personaplex-7b-v1
-                            </a>
-                        </div>
-
-                        <!-- Author with avatar (second line) -->
-                        <div class="model-author-line">
-                            
-                            <img src="https://cdn-avatars.huggingface.co/v1/production/uploads/1613114437487-60262a8e0703121c822a80b6.png" alt="NVIDIA" class="model-avatar">
-                            
-                            <div class="model-author">
-                                <a href="https://huggingface.co/nvidia" target="_blank" onclick="event.stopPropagation();">NVIDIA</a>
-                            </div>
-                        </div>
-
-                        <!-- AI-generated description (only shown if any model has descriptions) -->
-                        
-                        <div class="model-description">
-                            PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
-                        </div>
-                        
-
-                        <!-- Metadata (tags, stats, time) -->
-                        <div class="model-meta">
-                            <div class="model-meta-line tags-line">
-                                
-                                <span class="model-tag">audio-to-audio</span>
-                                
-                                
-                            </div>
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-stats">⬇️ 509,647</span>
-                                </div>
-                                <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 2,081</span>
-                                </div>
-                            </div>
-                            
-                            <div class="model-meta-line">
-                                <div class="model-meta-item">
-                                    <span class="model-age" data-timestamp="2026-02-15T20:10:09.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="model-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/models/FireRedTeam/FireRed-Image-Edit-1.0.png');"></div>
@@ -3786,7 +3778,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                     <span class="model-stats">⬇️ 1,711</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 219</span>
+                                    <span class="model-stats">❤️ 220</span>
                                 </div>
                             </div>
                             
@@ -3842,7 +3834,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                     <span class="model-stats">⬇️ 877,971</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 1,106</span>
+                                    <span class="model-stats">❤️ 1,107</span>
                                 </div>
                             </div>
                             
@@ -3900,7 +3892,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                     <span class="model-stats">⬇️ 66,442</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 160</span>
+                                    <span class="model-stats">❤️ 162</span>
                                 </div>
                             </div>
                             
@@ -3958,7 +3950,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                     <span class="model-stats">⬇️ 35,455</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 282</span>
+                                    <span class="model-stats">❤️ 283</span>
                                 </div>
                             </div>
                             
@@ -4016,7 +4008,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                     <span class="model-stats">⬇️ 2,362</span>
                                 </div>
                                 <div class="model-meta-item">
-                                    <span class="model-stats">❤️ 153</span>
+                                    <span class="model-stats">❤️ 154</span>
                                 </div>
                             </div>
                             
@@ -4050,7 +4042,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-20T20:33:52.046547+00:00">Updated 2026-02-20T20:33:52.046547+00:00</small>
+        <small data-timestamp="2026-02-20T22:56:53.169690+00:00">Updated 2026-02-20T22:56:53.169690+00:00</small>
     </div>
 </div>
 
@@ -4455,7 +4447,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 53,634</span>
+                                    <span style="color: #9ca3af;">⭐ 53,685</span>
                                 </div>
                                 
                             </div>
@@ -4541,7 +4533,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 235</span>
+                                    <span style="color: #9ca3af;">⭐ 238</span>
                                 </div>
                                 
                             </div>
@@ -4619,7 +4611,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 70,764</span>
+                                    <span style="color: #9ca3af;">⭐ 70,803</span>
                                 </div>
                                 
                             </div>
@@ -4698,7 +4690,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 </div>
                                 
                                 <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 8,077</span>
+                                    <span style="color: #9ca3af;">⭐ 8,111</span>
                                 </div>
                                 
                             </div>
@@ -4870,83 +4862,6 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2508.03680', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.03680.png');" ></div>
-
-                    <div class="paper-content">
-                        <!-- Paper title (fixed 2-line height) -->
-                        <div class="paper-title">
-                            <a href="https://huggingface.co/papers/2508.03680" target="_blank" onclick="event.stopPropagation();">Agent Lightning: Train ANY AI Agents with Reinforcement Learning</a>
-                        </div>
-
-                        <!-- Authors -->
-                        <div class="paper-authors">
-                            Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)
-                        </div>
-
-                        <!-- Organization (always reserve space for consistent card height) -->
-                        <div class="paper-organization">
-                            
-                        </div>
-
-                        <!-- Rich description (AI summary if available, otherwise full summary) -->
-                        
-                        <div class="paper-summary">
-                            Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-                        </div>
-                        
-
-                        <!-- Metadata (stats, links, time) -->
-                        <div class="paper-meta">
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-stats">▲ 135</span>
-                                </div>
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">💬 6</span>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <span style="color: #9ca3af;">⭐ 15,065</span>
-                                </div>
-                                
-                            </div>
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <a href="https://arxiv.org/abs/2508.03680" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🎓 arXiv
-                                    </a>
-                                </div>
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://github.com/microsoft/agent-lightning" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        💻 code
-                                    </a>
-                                </div>
-                                
-                                
-                                <div class="paper-meta-item">
-                                    <a href="https://www.microsoft.com/en-us/research/project/agent-lightning/" target="_blank" class="paper-link"
-                                        onclick="event.stopPropagation();">
-                                        🔗 project
-                                    </a>
-                                </div>
-                                
-                            </div>
-                            
-                            <div class="paper-meta-line">
-                                <div class="paper-meta-item">
-                                    <span class="paper-age" data-timestamp="2025-08-05T13:50:13.000Z"></span>
-                                </div>
-                            </div>
-                            
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2602.15763', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
                     <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2602.15763.png');" ></div>
@@ -5017,6 +4932,83 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://huggingface.co/papers/2508.03680', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="paper-thumbnail" style="background-image: url('https://cdn-thumbnails.huggingface.co/social-thumbnails/papers/2508.03680.png');" ></div>
+
+                    <div class="paper-content">
+                        <!-- Paper title (fixed 2-line height) -->
+                        <div class="paper-title">
+                            <a href="https://huggingface.co/papers/2508.03680" target="_blank" onclick="event.stopPropagation();">Agent Lightning: Train ANY AI Agents with Reinforcement Learning</a>
+                        </div>
+
+                        <!-- Authors -->
+                        <div class="paper-authors">
+                            Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)
+                        </div>
+
+                        <!-- Organization (always reserve space for consistent card height) -->
+                        <div class="paper-organization">
+                            
+                        </div>
+
+                        <!-- Rich description (AI summary if available, otherwise full summary) -->
+                        
+                        <div class="paper-summary">
+                            Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+                        </div>
+                        
+
+                        <!-- Metadata (stats, links, time) -->
+                        <div class="paper-meta">
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-stats">▲ 135</span>
+                                </div>
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">💬 6</span>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <span style="color: #9ca3af;">⭐ 15,077</span>
+                                </div>
+                                
+                            </div>
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <a href="https://arxiv.org/abs/2508.03680" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🎓 arXiv
+                                    </a>
+                                </div>
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://github.com/microsoft/agent-lightning" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        💻 code
+                                    </a>
+                                </div>
+                                
+                                
+                                <div class="paper-meta-item">
+                                    <a href="https://www.microsoft.com/en-us/research/project/agent-lightning/" target="_blank" class="paper-link"
+                                        onclick="event.stopPropagation();">
+                                        🔗 project
+                                    </a>
+                                </div>
+                                
+                            </div>
+                            
+                            <div class="paper-meta-line">
+                                <div class="paper-meta-item">
+                                    <span class="paper-age" data-timestamp="2025-08-05T13:50:13.000Z"></span>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -5038,7 +5030,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-20T20:33:53.201938+00:00">Updated 2026-02-20T20:33:53.201938+00:00</small>
+        <small data-timestamp="2026-02-20T22:56:54.253807+00:00">Updated 2026-02-20T22:56:54.253807+00:00</small>
     </div>
 </div>
 
@@ -5308,7 +5300,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 15.7k</span>
+                                <span class="repo-stats">⭐ 15.8k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
@@ -5375,13 +5367,13 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                         </div>
                         <div class="repo-meta-line">
                             <div class="repo-meta-item">
-                                <span class="repo-stats">⭐ 7.7k</span>
+                                <span class="repo-stats">⭐ 7.8k</span>
                             </div>
                             <div class="repo-meta-item">
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">804</span>
+                                <span class="repo-stats">815</span>
                             </div>
                         </div>
                         
@@ -5493,7 +5485,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">525</span>
+                                <span class="repo-stats">531</span>
                             </div>
                         </div>
                         
@@ -5617,7 +5609,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">307</span>
+                                <span class="repo-stats">309</span>
                             </div>
                         </div>
                         
@@ -5684,7 +5676,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
                                 <svg width="12" height="12" viewBox="0 0 16 16" fill="#9ca3af" style="margin-right: 3px;">
                                     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
                                 </svg>
-                                <span class="repo-stats">344</span>
+                                <span class="repo-stats">346</span>
                             </div>
                         </div>
                         
@@ -5921,7 +5913,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-20T20:33:41.107734+00:00">Updated 2026-02-20T20:33:41.107734+00:00</small>
+        <small data-timestamp="2026-02-20T22:56:43.208532+00:00">Updated 2026-02-20T22:56:43.208532+00:00</small>
     </div>
 </div>
 

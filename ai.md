@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T22:27:30.992500+00:00'
+updated: '2026-02-20T22:57:07.262967+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- news
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 22:27 UTC  
+**Last Updated:** February 20, 2026 at 22:57 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,15 +49,7 @@ AI news, discussions, and developments
 
 Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 4h ago
-
----
-
-**[I built an AI that turns file organization into a conversation - no rules engine to learn](https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/)**
-
-So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
-
-3h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 5h ago
 
 ---
 
@@ -65,7 +57,23 @@ So I've been watching people struggle with file organization for years. They hav
 
 There are two channels that I enjoy listening to while I sleep. They obviously have AI narrators. I believe they are commonly used ones as I've heard them used by a couple different channels. I asked because I want to create some narrated versions of public domain stories as well as Conan the barbarian (it's still 2 years off from being in the public domain but come on that just splitting hairs). I just want these for my own use for falling asleep. Maybe I'd post them on YouTube but it really isn't worth the target on my back and the hate. Ideally I would like to use the narrator for these videos? https://youtu.be/YeR53Pzccrs?si=wPoGrV9oVx842J0V This one is a nice voice as well that I would like to know the program for. https://youtu.be/uAnzLwc63bk?si=2KKgZ9HF6Sw-GoUd Any advice is appreciated
 
-43m ago
+1h ago
+
+---
+
+**[I built an AI that turns file organization into a conversation - no rules engine to learn](https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/)**
+
+So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
+
+4h ago
+
+---
+
+**[The straightjacket loosens: when DeepSeek-V3 tells “truth-tellers” to emigrate — what does that imply for V4?](https://www.reddit.com/r/artificial/comments/1r9xbhq/the_straightjacket_loosens_when_deepseekv3_tells/)**
+
+There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy.” That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
+
+8h ago
 
 ---
 
@@ -77,19 +85,11 @@ We’ve been running voice AI agents in production for 18+ months doing real pho
 
 ---
 
-**[The straightjacket loosens: when DeepSeek-V3 tells “truth-tellers” to emigrate — what does that imply for V4?](https://www.reddit.com/r/artificial/comments/1r9xbhq/the_straightjacket_loosens_when_deepseekv3_tells/)**
-
-There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy.” That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
-
-7h ago
-
----
-
 **[How is your team managing comprehension of AI-generated code?](https://www.reddit.com/r/artificial/comments/1ra0q3t/how_is_your_team_managing_comprehension_of/)**
 
 Genuine question for teams that have been using Copilot/Cursor/Claude Code in production for 6+ months. I've been working on AI deployment in an enterprise context and keep running into the same pattern: a team adopts AI coding tools, velocity looks great for a few months, and then: - On-call engineers can't debug AI-generated code they didn't write - Incident postmortems have "unclear why" entries more often - Code churn goes up because people keep rewriting code they accepted but didn't understand - New hires can't get oriented because the "why" behind decisions was never documented -- the AI generated the code and the author moved on I started calling this "cognitive debt", the gap between what your codebase does and what your team actually understands about it. Unlike technical debt, you might not even know you have it until something breaks and nobody can explain why. I ended up building a framework to manage it and implemented it on the company i work with: comprehension checkpoints before accepting AI output, a PR template that requires explaining AI code in your own words, code review guardrails designed for AI-generated code, and a quarterly audit system. I have create a github repo with all my work around that, if you are interested let me know. But I'm more interested in what other teams are doing. Have you formalized anything around AI code comprehension? Or is it still informal, "just review it carefully"? Specific things I'm curious about: - Do you require any disclosure when a PR contains AI-generated code? - Do you have paths in your codebase where AI tools are restricted? - Have you had incidents where the root cause was "nobody understood what this code was doing"?
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +97,7 @@ Genuine question for teams that have been using Copilot/Cursor/Claude Code in pr
 
 Walmart on Thursday reported annual revenue of $713.2 billion for its most recent fiscal year, shy of Amazon’s $716.9 billion in revenue. The milestone was brewing for months, as Amazon leapfrogged Walmart in quarterly sales for the first time about a year ago.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 13h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 14h ago
 
 ---
 
@@ -121,6 +121,12 @@ Built Makimus-AI, a free open source app that lets you search your entire image 
 
 ## Google News: "ai"
 
+**[A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.](https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html)**
+
+The New York Times • 12h ago
+
+---
+
 **[Gemini 3.1 Pro: A smarter model for your most complex tasks](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)**
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
@@ -129,19 +135,11 @@ blog.google • 1d ago
 
 ---
 
-**[Tensions between the Pentagon and AI giant Anthropic reach a boiling point](https://www.nbcnews.com/tech/security/anthropic-ai-defense-war-venezuela-maduro-rcna259603)**
+**[Chelsea announce AI company IFS as shirt sponsor until end of season](https://www.espn.com/soccer/story/_/id/47988573/chelsea-announce-ai-company-ifs-shirt-sponsor-end-season)**
 
-A Pentagon spokesperson told NBC News that it is reviewing its relationship with Anthropic.
+Chelsea have announced that Artificial Intelligance firm IFS will be the club's front-of-shirt sponsor until the end of the season.
 
-NBC News • 4h ago
-
----
-
-**[Beaten-down software stocks RingCentral and Five9 rally as earnings quell some AI concerns](https://www.cnbc.com/2026/02/20/ringcentral-ring-five9-fivn-rally-ai-sell-off.html)**
-
-Software stocks have been in sell-off mode in recent weeks on fears that new AI tools will uproot their longstanding business models.
-
-CNBC • 3h ago
+ESPN • 3h ago
 
 ---
 
@@ -149,47 +147,45 @@ CNBC • 3h ago
 
 Chelsea agree a deal with IFS, an AI technology company, to be their shirt sponsor until the end of the season.
 
-BBC • 2h ago
+BBC • 3h ago
 
 ---
 
-**[Chelsea announce AI company IFS as shirt sponsor until end of season](https://www.espn.com/soccer/story/_/id/47988573/chelsea-announce-ai-company-ifs-shirt-sponsor-end-season)**
+**[Official: Chelsea agree short-term front-of-shirt sponsorship with Industrial AI provider IFS](https://weaintgotnohistory.sbnation.com/chelsea-fc-finances/166336/official-chelsea-agree-short-term-front-of-shirt-sponsorship-with-industrial-ai-provider-ifs)**
 
-Chelsea have announced that Artificial Intelligance firm IFS will be the club's front-of-shirt sponsor until the end of the season.
+Tapping into the AI bubble
 
-ESPN • 2h ago
-
----
-
-**[Chelsea announce new AI front-of-shirt sponsor](https://www.goal.com/en-us/lists/chelsea-announce-new-ai-front-of-shirt-sponsor/bltbeadad3dbf8a6cc6)**
-
-Chelsea have announced IFS, a new AI firm, as their front-of-shirt sponsor for the remainder of the 2025/26 season, "marking the beginning of a long-term collaboration". The Blues have not had a permanent sponsor since their deal with mobile phone operator Three expired in 2023.
-
-Goal.com • 1h ago
+We Ain't Got No History • 1h ago
 
 ---
 
-**[Prediction: These 2 Artificial Intelligence (AI) Stocks Will Soar After Feb. 26 (Hint: Not Nvidia)](https://www.nasdaq.com/articles/prediction-these-2-artificial-intelligence-ai-stocks-will-soar-after-feb-26-hint-not)**
+**[AMC Theatres refuses to screen AI film that sparked online backlash](https://ktla.com/news/nationworld/amc-theatres-refuses-to-screen-ai-film-that-sparked-online-backlash/)**
 
-Key PointsCoreWeave's report could be better than expected, thanks to fast-growing demand for AI compute capacity.
-
-Nasdaq • 3h ago
+KTLA • 2h ago
 
 ---
 
-**[Warning: This AI-Driven Sell-Off Could Be Just Beginning](https://seekingalpha.com/article/4873015-warning-this-ai-driven-sell-off-could-be-just-beginning)**
+**[India opens 'world's biggest' AI summit, but what's next?](https://www.cnn.com/2026/02/20/business/video/india-ai-summit-hanako-montgomery-hnk-vrtc)**
 
-AI is breaking moats, and digital leaders are already down 20–80% as competition surges. Read the full analysis here.
+India opened the “world’s biggest” AI summit with world leaders and powerful AI figures in attendance. CNN’s Hanako Montgomery reports from the summit and shares how India has become increasingly attractive to tech giants and is on its way to becoming a global AI powerhouse.
 
-Seeking Alpha • 3h ago
+CNN • 16h ago
 
 ---
 
-**[NVIDIA’s 13F Bombshell: A New AI Power Trio Emerges](https://finance.yahoo.com/news/nvidia-13f-bombshell-ai-power-161400952.html)**
+**[Bill Gates pulls out of India's AI summit over Epstein files controversy](https://www.bbc.com/news/articles/c309qv9zglno)**
 
-NVIDIA did anything but stand pat with its investments during Q4 2025. See how the company turned over its holdings in the quarter.
+The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
 
-Yahoo Finance • 1d ago
+BBC • 1d ago
+
+---
+
+**[India’s AI summit draws global leaders, big pledges and some chaos](https://www.nbcnews.com/world/asia/indias-ai-summit-draws-global-leaders-big-pledges-chaos-rcna259855)**
+
+The five-day event mixed long lines and viral mishaps with a serious pitch: The future of AI shouldn’t be written only in Washington and Beijing.
+
+NBC News • 2h ago
 
 ---
 
@@ -218,7 +214,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 672 • 💬 366 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 673 • 💬 366 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
@@ -226,7 +222,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 620 • 💬 356 • 11h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 636 • 💬 368 • 12h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -234,13 +230,13 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 586 • 💬 139 • 8h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 612 • 💬 146 • 9h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 505 • 💬 448 • 19h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 505 • 💬 452 • 19h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -248,7 +244,7 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 473 • 💬 497 • 1d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 485 • 💬 508 • 1d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -256,7 +252,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 fragments 18 Feb 2026
 
-⬆️ 201 • 💬 143 • 2d ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 202 • 💬 143 • 2d ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -272,13 +268,13 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.
 
-⬆️ 135 • 💬 50 • 1d ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
+⬆️ 135 • 💬 50 • 2d ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
 
 ---
 
 **[What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://news.ycombinator.com/item?id=47061642)**
 
-⬆️ 133 • 💬 130 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
+⬆️ 134 • 💬 130 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
 
 ---
 
@@ -286,93 +282,23 @@ Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solv
 
 ## YouTube Videos: "ai"
 
-**[“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS](https://www.youtube.com/watch?v=W-jdh08zEGM)**
+**[AI Bubble: ‘This is dumber than WeWork’ | Ed Zitron](https://www.youtube.com/watch?v=N_3X6qF2tT4)**
 
-Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
+We're reaching this thing where we're realising that everybody made a huge mistake.” Author of Wheres You're Ed At and Host of ...
 
-📺 Valuetainment
+📺 The Tech Report
 
-👁️ 355K • 👍 6K • 💬 2K • ⏱️ 33:49 • 2d ago
-
----
-
-**[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
-
-Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
-
-📺 AI Revolution
-
-👁️ 41K • 👍 1K • 💬 45 • ⏱️ 12:14 • 23h ago
+👁️ 43K • 👍 3K • 💬 910 • ⏱️ 26:37 • 5h ago
 
 ---
 
-**[There is No AI Bubble.](https://www.youtube.com/watch?v=wDBy2bUICQY)**
+**[Local backlash against AI just started](https://www.youtube.com/watch?v=LhiQBOzpk7o)**
 
-Detailed sources: ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 Species | Documenting AGI
+📺 Chris Norlund
 
-👁️ 184K • 👍 10K • 💬 4K • ⏱️ 28:51 • 1d ago
-
----
-
-**[“Only a Small Number of Years” — Anthropic CEO Says AI Will Surpass Humans Soon | AQ1B](https://www.youtube.com/watch?v=N08tjtx-oAc)**
-
-At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelligence could surpass most human cognitive abilities ...
-
-📺 DRM News
-
-👁️ 50K • 👍 613 • 💬 306 • ⏱️ 4:56 • 1d ago
-
----
-
-**[AI MAN | Made with Seedance 2.0 | AI Short Film](https://www.youtube.com/watch?v=dp4-Sv0uVzE)**
-
-AI MAN | Made with Seedance 2.0 | AI Short Film My first short film with Seedance 2.0 Base image Midjourney V7, Nano Banana ...
-
-📺 Heydin
-
-👁️ 28K • 👍 1K • 💬 209 • ⏱️ 4:30 • 23h ago
-
----
-
-**[I&#39;m Sick Of This AI SH*T](https://www.youtube.com/watch?v=7XGct4rbYfI)**
-
-In this episode I dive into the new wave of AI music released on music streaming platforms, when are they going to do something ...
-
-📺 Rick Beato
-
-👁️ 528K • 👍 37K • 💬 9K • ⏱️ 6:14 • 1d ago
-
----
-
-**[The AI Bubble Just Popped | Here&#39;s What&#39;s Worse](https://www.youtube.com/watch?v=EtcwmC-NWKo)**
-
-The AI bubble is popping. $680 billion in CapEx, and most of it will earn 4 cents on the dollar. But here's where I was wrong — the ...
-
-📺 Dr. Josh C. Simmons
-
-👁️ 29K • 👍 1K • 💬 661 • ⏱️ 27:27 • 2d ago
-
----
-
-**[Is this A.I.? 😱](https://www.youtube.com/watch?v=0ijgRrgzVcs)**
-
-Adam Scott's tee shot embeds itself inches from the hole during the opening round at The Genesis Invitational SUBSCRIBE TO ...
-
-📺 PGA TOUR
-
-👁️ 105K • 👍 1K • 💬 43 • ⏱️ 0:16 • 21h ago
-
----
-
-**[Meta’s AI Agent is Better Than OpenClaw (Manus AI Demo)](https://www.youtube.com/watch?v=F6AP0v_2wr0)**
-
-Automate your work with our AI Agents Playbook:* https://clickhubspot.com/rdw Shownotes How to get your own personal game ...
-
-📺 Marketing Against the Grain
-
-👁️ 10K • 👍 344 • 💬 60 • ⏱️ 23:19 • 1d ago
+👁️ 26K • 👍 2K • 💬 368 • ⏱️ 12:48 • 13h ago
 
 ---
 
@@ -382,7 +308,77 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n
 
 📺 Dan Martell
 
-👁️ 49K • 👍 3K • 💬 126 • ⏱️ 19:58 • 1d ago
+👁️ 52K • 👍 3K • 💬 128 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
+
+Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
+
+📺 AI Revolution
+
+👁️ 43K • 👍 1K • 💬 46 • ⏱️ 12:14 • 23h ago
+
+---
+
+**[There is No AI Bubble.](https://www.youtube.com/watch?v=wDBy2bUICQY)**
+
+Detailed sources: ...
+
+📺 Species | Documenting AGI
+
+👁️ 188K • 👍 11K • 💬 4K • ⏱️ 28:51 • 1d ago
+
+---
+
+**[“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS](https://www.youtube.com/watch?v=W-jdh08zEGM)**
+
+Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
+
+📺 Valuetainment
+
+👁️ 362K • 👍 6K • 💬 2K • ⏱️ 33:49 • 2d ago
+
+---
+
+**[I Need To Warn You About AI Psychosis](https://www.youtube.com/watch?v=S6kRGJlugiw)**
+
+Dr. K's Guide empowers your mental health journey with evidenced-based resources and tools. Learn more: https://bit.ly/4tIuLvj ...
+
+📺 HealthyGamerGG
+
+👁️ 222K • 👍 12K • 💬 2K • ⏱️ 12:22 • 1d ago
+
+---
+
+**[AMC REJECTS AI Animated Movie](https://www.youtube.com/watch?v=5KzjrZKyP4g)**
+
+After the AI animated short Thanksgiving Day film won a contest to premiere in theaters, the Internet got mad. Then, AMC Theaters ...
+
+📺 Vailskibum
+
+👁️ 22K • 👍 3K • 💬 648 • ⏱️ 2:50 • 2h ago
+
+---
+
+**[The 10 Most INSANE AI Films Created by Seedance 2.0](https://www.youtube.com/watch?v=KQIUp7H9Bkc)**
+
+The 10 Most INSANE AI Films Created by Seedance 2 Seedance 2.0 by ByteDance just changed everything. In this video, we're ...
+
+📺 RandomAI
+
+👁️ 15K • 👍 247 • 💬 63 • ⏱️ 8:29 • 1d ago
+
+---
+
+**[Kelly Boesch Official Music AI Video - Salt On The Tide - 4K](https://www.youtube.com/watch?v=WbO0oDJk9t4)**
+
+I was playing around in Midjourney with some images with an island feel. I love the dreamy feeling and the flamingos. There are ...
+
+📺 Kelly Boesch AI Art
+
+👁️ 14K • 👍 937 • 💬 52 • ⏱️ 2:55 • 1d ago
 
 ---
 
@@ -398,7 +394,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text`
 
-⬇️ 105,189 • ❤️ 765 • 16h ago
+⬇️ 105,189 • ❤️ 768 • 17h ago
 
 ---
 
@@ -410,7 +406,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 123,344 • ❤️ 803 • 4d ago
+⬇️ 123,344 • ❤️ 806 • 4d ago
 
 ---
 
@@ -426,6 +422,18 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 ---
 
+**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
+
+*NVIDIA*
+
+PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
+
+`audio-to-audio`
+
+⬇️ 509,647 • ❤️ 2,084 • 5d ago
+
+---
+
 **[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
 
 *Nanbeige LLM Lab*
@@ -438,18 +446,6 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 ---
 
-**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
-
-*NVIDIA*
-
-PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
-
-`audio-to-audio`
-
-⬇️ 509,647 • ❤️ 2,081 • 5d ago
-
----
-
 **[FireRed-Image-Edit-1.0](https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0)**
 
 *FireRedTeam*
@@ -458,7 +454,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 1,711 • ❤️ 219 • 6d ago
+⬇️ 1,711 • ❤️ 220 • 6d ago
 
 ---
 
@@ -470,7 +466,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 877,971 • ❤️ 1,106 • 22d ago
+⬇️ 877,971 • ❤️ 1,107 • 22d ago
 
 ---
 
@@ -482,7 +478,7 @@ Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta
 
 `image-text-to-text` `396.3B`
 
-⬇️ 66,442 • ❤️ 160 • 3d ago
+⬇️ 66,442 • ❤️ 162 • 3d ago
 
 ---
 
@@ -494,7 +490,7 @@ MOSS-TTS Family is a suite of high-fidelity, expressive speech and sound generat
 
 `text-to-speech` `8.5B`
 
-⬇️ 35,455 • ❤️ 282 • 7d ago
+⬇️ 35,455 • ❤️ 283 • 7d ago
 
 ---
 
@@ -506,7 +502,7 @@ KaniTTS2-en is a 400M parameter English text-to-speech model optimized for real-
 
 `text-to-speech` `370.0M`
 
-⬇️ 2,362 • ❤️ 153 • 1d ago
+⬇️ 2,362 • ❤️ 154 • 1d ago
 
 ---
 
@@ -547,7 +543,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 144 • 💬 19 • ⭐ 53,634 • 11mo ago
+▲ 144 • 💬 19 • ⭐ 53,685 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -561,7 +557,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
 
-▲ 40 • 💬 3 • ⭐ 235 • 5d ago
+▲ 40 • 💬 3 • ⭐ 238 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
@@ -574,7 +570,7 @@ BitDance is a scalable autoregressive image generator that uses binary visual to
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 36 • 💬 1 • ⭐ 70,764 • 29mo ago
+▲ 36 • 💬 1 • ⭐ 70,803 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -588,7 +584,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 67 • 💬 1 • ⭐ 8,077 • 29d ago
+▲ 67 • 💬 1 • ⭐ 8,111 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -618,18 +614,6 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 ---
 
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
-
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
-
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
-
-▲ 135 • 💬 6 • ⭐ 15,065 • 6mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
-
----
-
 **[GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763)**
 
 *GLM-5 Team, Aohan Zeng, Xin Lv et al. (186 authors)*
@@ -639,6 +623,18 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 ▲ 66 • 💬 3 • ⭐ 1,213 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
+
+---
+
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 135 • 💬 6 • ⭐ 15,077 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
 ---
 
@@ -652,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.7k • 🔱 1.7k • 2h ago
+⭐ 15.8k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -662,7 +658,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 7.7k • 🔱 804 • 10d ago
+⭐ 7.8k • 🔱 815 • 10d ago
 
 ---
 
@@ -680,7 +676,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.5k • 🔱 525 • 14h ago
+⭐ 4.5k • 🔱 531 • 14h ago
 
 ---
 
@@ -700,7 +696,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 307 • 15h ago
+⭐ 3.1k • 🔱 309 • 15h ago
 
 ---
 
@@ -710,7 +706,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.7k • 🔱 344 • 1d ago
+⭐ 2.7k • 🔱 346 • 1d ago
 
 ---
 
@@ -720,7 +716,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 176 • 2h ago
+⭐ 2.6k • 🔱 176 • 3h ago
 
 ---
 
