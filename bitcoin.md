@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T07:51:58.055704+00:00'
+updated: '2026-02-20T08:41:58.338738+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 07:51 UTC  
+**Last Updated:** February 20, 2026 at 08:41 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,000.00
+### $67,784.71
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** -2.8%  
+**24h:** +1.4%  
+**7d:** -2.9%  
 **30d:** -24.3%  
-**90d:** -22.0%  
+**90d:** -22.1%  
 **1y:** -29.5%  
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -87,19 +87,13 @@ Rank #1
 
 I don’t care if it dips more…. We just had to get in with that tax return. I’d rather it dip to 50k & miss out on those small amounts of BTC than have it rip to 100k or beyond tomorrow and live with the regret that I’ll never see BTC that low ever again! Tonight is the first night I can rest peacefully knowing my family is hedged against the decaying dollar and positioned to benefit from deflation from government inflation. The last one using the dollar gets stuck holding the bag of poverty. Not this family🙏🏼🚀
 
-6h ago
+7h ago
 
 ---
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-20h ago
-
----
-
-**[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
-
-13h ago
+21h ago
 
 ---
 
@@ -107,7 +101,13 @@ I don’t care if it dips more…. We just had to get in with that tax return. I
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-3h ago
+4h ago
+
+---
+
+**[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
+
+14h ago
 
 ---
 
@@ -115,7 +115,23 @@ The fear-and-greed index is in a state of sustained extreme fear. This has histo
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-15h ago
+16h ago
+
+---
+
+**[Taking out a loan to buy 1 BTC](https://www.reddit.com/r/Bitcoin/comments/1r9pmz3/taking_out_a_loan_to_buy_1_btc/)**
+
+I’m seriously considering taking out a loan in the range of $60,000–$65,000 to purchase 1 full (or almost 1 full) Bitcoin at current prices (around $68,000). For context, I’m a long-term holder by mindset. I wouldn’t be looking to trade short term — the intention would be to hold for multiple years. My thinking is that if Bitcoin continues to appreciate over time, locking in a whole (or nearly whole) coin now could potentially outweigh the cost of interest on the loan. That said, I’m fully aware this adds leverage and therefore risk. Bitcoin is volatile, and if price drops significantly, I’d still be on the hook for repayments regardless of market conditions. I’d really value hearing from people who have either: • Used leverage to buy BTC • Decided against it and why • Think this is a reasonable strategy given strong conviction • Think this is reckless and why Not looking for financial advice — just wanting to pressure-test the idea with the community before making a decision. Would you take on debt to own (almost) 1 BTC right now? Why or why not?
+
+29m ago
+
+---
+
+**[Daily Discussion, February 20, 2026](https://www.reddit.com/r/Bitcoin/comments/1r9njag/daily_discussion_february_20_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+2h ago
 
 ---
 
@@ -127,25 +143,11 @@ i think bitcoin is real money. and it makes me other life someday. so i just ass
 
 ---
 
-**[Moderation](https://www.reddit.com/r/Bitcoin/comments/1r9o9ai/moderation/)**
-
-I have just had a post removed from here by a moderator and have read through the rules. My post was perfectly consistent with all of them. When removing a post please attach the rule that was being violated so the poster understands. Otherwise you are simply abusing your positions and cancelling free speach.
-
-1h ago
-
----
-
 **[Italian banking giant Intesa Sanapolo discloses near $100 million bitcoin ETF holdings](https://www.reddit.com/r/Bitcoin/comments/1r8y6nf/italian_banking_giant_intesa_sanapolo_discloses/)**
 
 The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 19h ago
-
----
-
-**[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
-
-1d ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 20h ago
 
 ---
 
@@ -157,7 +159,7 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -165,13 +167,7 @@ Yahoo Finance • 12h ago
 
 The average bitcoin ETF investor now sits on a 20% paper loss, leaving the market vulnerable to capitulation selling if prices slide further, a Wintermute trader said.
 
-CoinDesk • 8h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfGCzaqFFQbD89FWylqd00mQBJpGWaK7RFLFFCnBrkRBDNx9DXZF7YB&gaa_ts=69980989&gaa_sig=rEk9-yi6HIKajYER6w_wmr_N-kGjUk9Ckl4-42-2LH6abFPDQNnbz9vjFsrljovKwiuUezZc415jTUuOEgBU5Q%3D%3D)**
-
-Barron's • 10h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -179,7 +175,15 @@ Barron's • 10h ago
 
 The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
 
-The Globe and Mail • 20h ago
+The Globe and Mail • 21h ago
+
+---
+
+**[GoFundMe campaign seeks to buy Bitcoin to help spur Nancy Guthrie’s release](https://fortune.com/2026/02/17/gofund-me-campaign-seeks-to-buy-bitcoin-to-help-spur-nancy-guthries-release/)**
+
+The fundraiser effort comes after a new letter was sent to TMZ demanding Bitcoin in exchange for information about Guthrie’s captors
+
+Fortune • 2d ago
 
 ---
 
@@ -187,7 +191,7 @@ The Globe and Mail • 20h ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 14h ago
+The Block • 15h ago
 
 ---
 
@@ -203,31 +207,31 @@ Bitcoin Magazine • 12h ago
 
 The longtime crypto critic warned against using taxpayer dollars to rescue investors and firms amid the current market slide.
 
-Decrypt • 14h ago
+Decrypt • 15h ago
 
 ---
 
-**[Sen. Warren tells Fed and Treasury: No bailout for crypto billionaires](https://www.cnbc.com/2026/02/18/warren-fed-treasury-crypto-billionaires-bailout-trump.html)**
+**[U.S. senator warns Treasury Secretary against 'bailing out billionaires'](https://www.thestreet.com/crypto/markets/us-senator-warns-treasury-secretary-against-bailing-out-billionaires)**
 
-Sen. Warren said that a bailout for cryptocurrency investors could "directly enrich" President Donald Trump and his family's company, World Liberty Financial.
+Sen. Warren is pressing the Federal Reserve and the US Treasury.
 
-CNBC • 1d ago
-
----
-
-**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)**
-
-The Ivy League school still has more money invested in Bitcoin than any other US stock.
-
-Fortune • 1d ago
+thestreet.com • 17h ago
 
 ---
 
-**['Dr. Doom' Nouriel Roubini blasts bitcoin as 'bogus' and a risk to the financial system](https://www.businessinsider.com/bitcoin-dr-doom-nouriel-roubini-crypto-bogus-financial-system-risk-2026-2)**
+**[Eric Trump Doubles Down on $1M Bitcoin Prediction — As Trump Family Welcomes Crypto Leaders at WLFI Gathering](https://www.ccn.com/news/crypto/eric-trump-doubles-down-on-1m-bitcoin-price-prediction/)**
 
-Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
+Eric Trump renewed his $1 million Bitcoin price prediction as the Trump family hosted Wall Street and crypto leaders at a WLFI forum.
 
-Business Insider • 1d ago
+CCN.com • 18h ago
+
+---
+
+**[Brevan Howard’s crypto fund slumped 30% in 2025 amid bitcoin rout](https://www.ft.com/content/8fc6edbb-adb8-46a2-84f4-e2b0bbc50aa2)**
+
+Hedge fund manager’s digital asset strategy stung by ‘terrible year’ for cryptocurrencies
+
+Financial Times • 2d ago
 
 ---
 
@@ -283,7 +287,13 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 15h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 16h ago • [FIRE BTC](https://calc.firebtc.io/)
+
+---
+
+**[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47084865)**
+
+⬆️ 1 • 💬 0 • 1h ago
 
 ---
 
@@ -300,14 +310,6 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 ...
 
 ⬆️ 3 • 💬 1 • 1d ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-863/)
-
----
-
-**[Private Marketplace via DHT Broadcast and P2P Quotes](https://news.ycombinator.com/item?id=47078422)**
-
-...
-
-⬆️ 1 • 💬 1 • 11h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
 
 ---
 
@@ -331,7 +333,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 269 • ⏱️ 46:22 • 16h ago
+👁️ 26K • 👍 1K • 💬 269 • ⏱️ 46:22 • 17h ago
 
 ---
 
@@ -341,7 +343,7 @@ Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail app
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 1K • 💬 295 • ⏱️ 36:44 • 14h ago
+👁️ 23K • 👍 1K • 💬 295 • ⏱️ 36:44 • 15h ago
 
 ---
 
@@ -351,7 +353,7 @@ A wave of companies embraced Michael Saylor's bitcoin playbook in 2025. But with
 
 📺 Forbes
 
-👁️ 14K • 👍 302 • 💬 71 • ⏱️ 5:26 • 12h ago
+👁️ 14K • 👍 302 • 💬 71 • ⏱️ 5:26 • 13h ago
 
 ---
 
@@ -361,7 +363,7 @@ Is Bitcoin being hijacked by Wall Street or is that the point? This conversation
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 916 • 💬 75 • ⏱️ 13:18 • 9h ago
+👁️ 13K • 👍 916 • 💬 75 • ⏱️ 13:18 • 10h ago
 
 ---
 
