@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T15:07:27.505251+00:00'
+updated: '2026-02-20T16:00:43.567998+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 15:07 UTC  
+**Last Updated:** February 20, 2026 at 16:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[China's autonomous "killer robots"](https://www.reddit.com/r/robotics/comments/1r9j1k0/chinas_autonomous_killer_robots/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -56,7 +56,15 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 **[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
 
-15h ago
+16h ago
+
+---
+
+**[It's an Archaeology Digger Robot :)](https://www.reddit.com/r/robotics/comments/1r9x1nh/its_an_archaeology_digger_robot/)**
+
+I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
+
+1h ago
 
 ---
 
@@ -64,7 +72,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 If you're looking to get into VLA / robot foundation models but not sure where to start, I made a curated reading list that covers the path from diffusion model basics to the latest architectures like π0, GR00T N1, and DreamZero. What's covered (6 phases, 30 papers): Phase 1: Generative foundations — MIT 6.S184 (flow matching & diffusion) Phase 2: Early robot models — RT-1 → RT-2 → Octo → OpenVLA, Diffusion Policy, ACT Phase 3: Current architectures — π0, GR00T N1, CogACT, X-VLA, InternVLA-M1 Phase 4: Data scaling — OXE, AgiBot World, UMI, human video transfer Phase 5: Efficient inference — SmolVLA, RTC, dual-system (Helix, Fast-in-Slow) Phase 6: RL fine-tuning, reasoning & world models — HIL-SERL, π*0.6, CoT-VLA, ThinkAct, DreamZero Designed for a study group format (1–2 paper presentations/week + discussion), but works fine for self-study too. Prerequisites are basic DL fundamentals — recommended courses included. 🔗 GitHub: https://github.com/MilkClouds/awesome-vla-study Feedback and paper suggestions welcome — open an issue or PR.
 
-23h ago
+1d ago
 
 ---
 
@@ -80,7 +88,7 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1TENTH/VESC setup. I’m hitting a wall with odom calibration: my physical car moves forward, but /odom and RViz show it moving backward. No matter how I flip the motor rotation, the odometry is always flipped in rViz. I’ve tried flipping the motor direction on the motor controller itself (VESC), tried to flip the polarity, and tried to flip the direction that the vesc_to_odom node calculates, but it continues to move forward, but show that the robot is running backwards on rviz, and on the /odom topic. Has anyone encountered this 'persistent inversion' before, or is there a specific parameter in the config I might be overlooking? Thanks!
 
-9h ago
+10h ago
 
 ---
 
@@ -98,14 +106,6 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 ---
 
-**[Weave Takes First Steps into Home with Laundry Folding Robot](https://www.reddit.com/r/robotics/comments/1r96d80/weave_takes_first_steps_into_home_with_laundry/)**
-
-Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds laundry. Price is $8,000 upfront or $450 per month. The system handles shirts, pants, and towels autonomously, with short remote interventions when it gets stuck. The approach is to ship a simplified system now, operate it in real homes, and iterate from there rather than waiting for a fully generalized household robot.
-
-🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 21h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -114,7 +114,7 @@ Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds la
 
 Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -122,7 +122,15 @@ CNBC • 6h ago
 
 The robots will be unloading totes full of auto parts from an automated warehouse tugger.
 
-TechCrunch • 18h ago
+TechCrunch • 19h ago
+
+---
+
+**[State Makes $4.8M Robotics, Manufacturing Education Investment](https://www.cbia.com/news/workforce/ct-robotics-manufacturing-education-investment)**
+
+DECD announced a two-year, $4.8 million investment expanding robotics and advanced manufacturing education programs.
+
+CBIA • 1h ago
 
 ---
 
@@ -130,15 +138,15 @@ TechCrunch • 18h ago
 
 Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
 
-24/7 Wall St. • 1h ago
+24/7 Wall St. • 2h ago
 
 ---
 
-**[The ADePT framework for assessing autonomous laboratory robotics](https://www.nature.com/articles/s42004-026-01932-9)**
+**[Frazer School teams qualify for VEX Robotics World Championship](https://www.mainstreetdailynews.com/education/frazer-school-teams-qualify-for-vex-robotics-world-championship)**
 
-Laboratory robotics is shifting from scripted automation towards autonomous systems that can perceive, decide and act robustly in real experimental environments. Here, the authors introduce the ADePT framework, comprising adaptability and learning, dexterity, perception and task complexity, to benchmark robotic capability, expose key bottlenecks and chart practical routes towards truly self-driving laboratories.
+Championship to be held April 21-24 in St. Louis.
 
-Nature • 9h ago
+Mainstreet Daily News Gainesville • 21m ago
 
 ---
 
@@ -150,39 +158,33 @@ Business Insider • 4h ago
 
 ---
 
+**[The ADePT framework for assessing autonomous laboratory robotics](https://www.nature.com/articles/s42004-026-01932-9)**
+
+Laboratory robotics is shifting from scripted automation towards autonomous systems that can perceive, decide and act robustly in real experimental environments. Here, the authors introduce the ADePT framework, comprising adaptability and learning, dexterity, perception and task complexity, to benchmark robotic capability, expose key bottlenecks and chart practical routes towards truly self-driving laboratories.
+
+Nature • 10h ago
+
+---
+
 **[Solving Real-World Problems with Robotics That Actually Work](https://www.roboticstomorrow.com/story/2026/02/solving-real-world-problems-with-robotics-that-actually-work/26145/)**
 
 Robots should handle the heavy, repetitive, behind-the-scenes work that wears people down. When that happens, employees can spend more time on service, communication, and the parts of the job that improve the guest experience.
 
-Robotics Tomorrow • 1h ago
+Robotics Tomorrow • 2h ago
 
 ---
 
-**[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
+**[Amazon Robotics shuts down Blue Jay sortation project](https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/)**
 
-Forbes • 21h ago
+Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects.
 
----
-
-**[AI Seed Trends: More Multimedia, Backend Automation, Agentic Security, And Yes, Robots](https://news.crunchbase.com/venture/data-ai-seed-trends-multimedia-automation-cybersecurity-robots/)**
-
-Investors poured over $9 billion into global AI-focused seed rounds over the past six months, per Crunchbase data. Areas they favored include cybersecurity, multimedia AI, robotics and desk work automation.
-
-Crunchbase News • 3h ago
+The Robot Report • 1h ago
 
 ---
 
-**[Robot Talk Episode 145 – Robotics and automation in manufacturing, with Agata Suwala](https://robohub.org/robot-talk-episode-145-robotics-and-automation-in-manufacturing-with-agata-suwala/)**
+**[RR SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Richtech Robotics (RR) Investors of Securities Class Action Deadline on April 3, 2026](https://www.morningstar.com/news/pr-newswire/20260220ny91871/rr-shareholder-action-reminder-faruqi-faruqi-llp-reminds-richtech-robotics-rr-investors-of-securities-class-action-deadline-on-april-3-2026)**
 
-Robohub • 1h ago
-
----
-
-**[RoboSense Shares Surge 15% as Company Signals First-Ever Quarterly Profit；LiDAR for Robotics Sales Surge as Core Growth Engine](https://autonews.gasgoo.com/articles/market-industry/robosense-shares-surge-15-as-company-signals-first-ever-quarterly-profitlidar-for-robotics-sales-surge-as-core-growth-engine-2024814680743088128)**
-
-body { font-size: 16px; line-height: 34px; ...
-
-Gasgoo • 2h ago
+Morningstar • 45m ago
 
 ---
 
