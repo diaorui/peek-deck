@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T06:58:38.216892+00:00'
+updated: '2026-02-20T07:51:58.055704+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 06:58 UTC  
+**Last Updated:** February 20, 2026 at 07:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,19 +87,19 @@ Rank #1
 
 I don’t care if it dips more…. We just had to get in with that tax return. I’d rather it dip to 50k & miss out on those small amounts of BTC than have it rip to 100k or beyond tomorrow and live with the regret that I’ll never see BTC that low ever again! Tonight is the first night I can rest peacefully knowing my family is hedged against the decaying dollar and positioned to benefit from deflation from government inflation. The last one using the dollar gets stuck holding the bag of poverty. Not this family🙏🏼🚀
 
-5h ago
+6h ago
 
 ---
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-19h ago
+20h ago
 
 ---
 
 **[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -107,7 +107,7 @@ I don’t care if it dips more…. We just had to get in with that tax return. I
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-2h ago
+3h ago
 
 ---
 
@@ -115,7 +115,7 @@ The fear-and-greed index is in a state of sustained extreme fear. This has histo
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-14h ago
+15h ago
 
 ---
 
@@ -123,7 +123,7 @@ Full article with explanations on the data here https://x.com/sdwouters/status/2
 
 i think bitcoin is real money. and it makes me other life someday. so i just assemble it. although small amount now.
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ i think bitcoin is real money. and it makes me other life someday. so i just ass
 
 I have just had a post removed from here by a moderator and have read through the rules. My post was perfectly consistent with all of them. When removing a post please attach the rule that was being violated so the poster understands. Otherwise you are simply abusing your positions and cancelling free speach.
 
-10m ago
+1h ago
 
 ---
 
@@ -139,7 +139,7 @@ I have just had a post removed from here by a moderator and have read through th
 
 The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 18h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 19h ago
 
 ---
 
@@ -157,7 +157,7 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -171,7 +171,7 @@ CoinDesk • 8h ago
 
 **[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfGCzaqFFQbD89FWylqd00mQBJpGWaK7RFLFFCnBrkRBDNx9DXZF7YB&gaa_ts=69980989&gaa_sig=rEk9-yi6HIKajYER6w_wmr_N-kGjUk9Ckl4-42-2LH6abFPDQNnbz9vjFsrljovKwiuUezZc415jTUuOEgBU5Q%3D%3D)**
 
-Barron's • 9h ago
+Barron's • 10h ago
 
 ---
 
@@ -179,7 +179,7 @@ Barron's • 9h ago
 
 The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
 
-The Globe and Mail • 19h ago
+The Globe and Mail • 20h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Globe and Mail • 19h ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Block • 13h ago
 
 Sen. Elizabeth Warren urged the Treasury Department and the Federal Reserve to rule out any taxpayer-funded intervention to stabilize Bitcoin.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 12h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bitcoin Magazine • 11h ago
 
 The longtime crypto critic warned against using taxpayer dollars to rescue investors and firms amid the current market slide.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -307,7 +307,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 1 • 💬 1 • 10h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
+⬆️ 1 • 💬 1 • 11h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
 
 ---
 
@@ -331,7 +331,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 269 • ⏱️ 46:22 • 15h ago
+👁️ 26K • 👍 1K • 💬 269 • ⏱️ 46:22 • 16h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail app
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 1K • 💬 295 • ⏱️ 36:44 • 13h ago
+👁️ 23K • 👍 1K • 💬 295 • ⏱️ 36:44 • 14h ago
 
 ---
 
@@ -351,7 +351,7 @@ A wave of companies embraced Michael Saylor's bitcoin playbook in 2025. But with
 
 📺 Forbes
 
-👁️ 14K • 👍 302 • 💬 71 • ⏱️ 5:26 • 11h ago
+👁️ 14K • 👍 302 • 💬 71 • ⏱️ 5:26 • 12h ago
 
 ---
 
@@ -361,7 +361,7 @@ Is Bitcoin being hijacked by Wall Street or is that the point? This conversation
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 916 • 💬 75 • ⏱️ 13:18 • 8h ago
+👁️ 13K • 👍 916 • 💬 75 • ⏱️ 13:18 • 9h ago
 
 ---
 

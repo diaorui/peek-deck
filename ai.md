@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T06:58:38.208571+00:00'
+updated: '2026-02-20T07:51:58.047106+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - social
-- news
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 06:58 UTC  
+**Last Updated:** February 20, 2026 at 07:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
 
-10h ago
+11h ago
 
 ---
 
@@ -49,7 +49,7 @@ Built Makimus-AI, a free open source app that lets you search your entire image 
 
 OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding news, & Sam Altman funding updates on the $100B raise.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 18h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 19h ago
 
 ---
 
@@ -65,7 +65,7 @@ Everyone is celebrating the new feature of Pomelli by Google but : If everyone u
 
 Wanted to understand how the core transformer papers actually connect at the concept level - not just "Paper B cites Paper A" but what specific methods, systems, and ideas flow between them. I ran 12 foundational papers (Attention Is All You Need, BERT, GPT-2/3, Scaling Laws, ViT, LoRA, Chain-of-Thought, FlashAttention, InstructGPT, LLaMA, DPO) through https://github.com/juanceresa/sift-kg (open-source CLI) - point it at a folder of documents + any LLM, get a knowledge graph. 435-entity knowledge graph with 593 relationships for ~$0.72 in API calls (gpt 4o-mini). Graph: https://juanceresa.github.io/sift-kg/transformers/graph.html - interactive and runs in browser. Some interesting structural patterns: - GPT-2 is the most connected node - it's the hub everything flows through. BERT extends it, FlashAttention speeds it up, LoRA compresses it, InstructGPT fine-tunes it with RLHF - The graph splits into 9 natural communities. "Human Feedback and Reinforcement Learning" is the largest (24 entities), which tracks with how much of recent progress is RLHF-shaped - Chain-of-Thought Prompting bridges the reasoning cluster to the few-shot learning cluster - it's structurally a connector between two different research threads - Common Crawl and BooksCorpus show up as shared infrastructure nodes connecting multiple model lineages
 
-12h ago
+13h ago
 
 ---
 
@@ -73,7 +73,7 @@ Wanted to understand how the core transformer papers actually connect at the con
 
 "By applying new methods of machine learning to quantum chemistry research, Heidelberg University scientists have made significant strides in computational chemistry. They have achieved a major breakthrough toward solving a decades-old dilemma in quantum chemistry: the precise and stable calculation of molecular energies and electron densities with a so-called orbital-free approach, which uses considerably less computational power and therefore permits calculations for very large molecules. [...] How electrons are distributed in a molecule determines its chemical properties—from its stability and reactivity to its biological effect. Reliably calculating this electron distribution and the resulting energy is one of the central functions of quantum chemistry. These calculations form the basis of many applications in which molecules must be specifically understood and designed, such as for new drugs, better batteries, materials for energy conversion, or more efficient catalysts. Yet such calculations are computationally intensive and quickly become very elaborate. The larger the molecule becomes or the more variants that need checking, the sooner established computing processes reach their limits. The "Quantum Chemistry without Orbitals" project is positioned here at the interface of chemistry, physics, and AI research. In quantum chemistry, molecules are frequently described using density functional theory, which allows for the fundamental prediction of chemical molecular properties without having to calculate the quantum mechanical wave function. The electron density is used as the main quantity instead, a simplification that finally makes computations practicable. This orbital-free approach promises especially efficient calculations but until now was considered barely useful, since small deviations in the electron density led to unstable or "non-physical" results. With the aid of machine learning, the Heidelberg method finally solves this precision and stability problem for many different organic molecules. The new process called STRUCTURES25 is based on a specifically developed neural network that learns the relationship between electron density and energy directly from precise reference calculations, capturing the chemical environment of each individual atom in a mathematically detailed representation. A unique training concept was pivotal: The model was trained not only with converged electron densities, but also with many variants surrounding the correct solution, generated by targeted, controlled changes in the underlying reference calculations. This computing process is therefore able to reliably find a physically meaningful solution for molecular energies and electron densities even in the case of small deviations. It remains stable without "getting lost" in the calculation, the Heidelberg researchers emphasize. In tests on a large and diverse collection of organic molecules, STRUCTURES25 achieved a precision that can compete with established reference calculations, for the first time demonstrating a stable convergence using an orbital-free approach. The performance of the method was demonstrated not only on small examples, but on considerably larger "drug-like" molecules as well. Initial runtime comparisons prove that the computing process can scale better with growing molecule size and hence increase the speed of the calculation. Calculations formerly considered too elaborate are now within reach."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 12h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 13h ago
 
 ---
 
@@ -81,7 +81,7 @@ Wanted to understand how the core transformer papers actually connect at the con
 
 Robots are getting more advanced every day, and in China, they are now flipping, spinning, and performing kung fu on national television.
 
-🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 14h ago
+🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 15h ago
 
 ---
 
@@ -97,7 +97,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service. This means tools like Cline, Roo Code, OpenClaw, and anything using the Agent SDK with consumer OAuth tokens are now in violation of Anthropic's Terms of Service. Developers are told to use API key authentication only. Original discussion: https://www.reddit.com/r/ClaudeAI/comments/1r8t6mn/
 
-23h ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ Anthropic updated their Claude Code Docs legal compliance page to explicitly ban
 
 Seedance 2.0 API just went live, and I gave it a quick real-world test. It supports API, Skills, and MCP, and batch jobs are straightforward to submit. From integration to first successful run took me about a minute, and new users can test for free. If you’re producing video assets at scale, this may be useful: https://xskill.ai/#/?ref=S2VIIAQR
 
-18h ago
+19h ago
 
 ---
 
@@ -125,7 +125,7 @@ Seedance 2.0 API just went live, and I gave it a quick real-world test. It suppo
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-blog.google • 14h ago
+blog.google • 15h ago
 
 ---
 
@@ -133,7 +133,7 @@ blog.google • 14h ago
 
 Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
@@ -141,7 +141,7 @@ BBC • 7h ago
 
 Information content manager Rosie Weatherley says harmful inaccuracies are presented as uncontroversial facts
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Guardian • 58m ago
 
 India’s prime minister has put AI rivals Sam Altman and Dario Amodei in an awkward spotlight at a summit in New Delhi.
 
-AP News • 13h ago
+AP News • 14h ago
 
 ---
 
@@ -157,13 +157,13 @@ AP News • 13h ago
 
 OpenAI’s Sam Altman and Anthropic’s Dario Amodei had an awkward moment at a major AI summit, with the two CEOs of competing AI giants opting not to link hands.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
 **[India AI-Linked Plays Surge as Modi Hobnobs With Altman, Amodei](https://www.bloomberg.com/news/articles/2026-02-20/india-ai-linked-plays-surge-as-modi-hobnobs-with-altman-amodei)**
 
-Bloomberg • 42m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Bloomberg • 42m ago
 
 The Asian film market celebrates its 30th edition, spotlighting AI, cross-border IP and Hong Kong’s gateway role to China.
 
-The Hollywood Reporter • 58m ago
+The Hollywood Reporter • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 1d ago
 
 Bill Gates has become a point of controversy at a major Indian AI festival this week, amid the fallout of the latest Epstein file release.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -216,7 +216,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 591 • 💬 329 • 12h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 591 • 💬 329 • 13h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
@@ -230,7 +230,7 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 283 • 💬 211 • 3h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 283 • 💬 211 • 4h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -290,7 +290,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 21K • 👍 693 • 💬 22 • ⏱️ 12:14 • 7h ago
+👁️ 21K • 👍 693 • 💬 22 • ⏱️ 12:14 • 8h ago
 
 ---
 
@@ -300,7 +300,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n
 
 📺 Dan Martell
 
-👁️ 34K • 👍 2K • 💬 66 • ⏱️ 19:58 • 16h ago
+👁️ 34K • 👍 2K • 💬 66 • ⏱️ 19:58 • 17h ago
 
 ---
 
@@ -320,7 +320,7 @@ Face Swap Any Video Perfectly Using Arcads https://youricreates.com/swap In this
 
 📺 Youri van Hofwegen
 
-👁️ 9K • 💬 6 • ⏱️ 8:01 • 14h ago
+👁️ 9K • 💬 6 • ⏱️ 8:01 • 15h ago
 
 ---
 
@@ -350,7 +350,7 @@ A ByteDance AI-generated video that appears to show Brad Pitt and Tom Cruise in 
 
 📺 CBS News
 
-👁️ 23K • 👍 269 • 💬 159 • ⏱️ 7:10 • 11h ago
+👁️ 23K • 👍 269 • 💬 159 • ⏱️ 7:10 • 12h ago
 
 ---
 
@@ -370,7 +370,7 @@ Sponsor: Shoutout.io -- Collect and showcase testimonials from Twitter, LinkedIn
 
 📺 Dave Swift
 
-👁️ 6K • 👍 128 • 💬 80 • ⏱️ 16:04 • 17h ago
+👁️ 6K • 👍 128 • 💬 80 • ⏱️ 16:04 • 18h ago
 
 ---
 
@@ -408,7 +408,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 79,343 • ❤️ 744 • 1h ago
+⬇️ 79,343 • ❤️ 744 • 2h ago
 
 ---
 
@@ -678,7 +678,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.1k • 🔱 470 • 1h ago
+⭐ 4.1k • 🔱 470 • 2h ago
 
 ---
 
@@ -708,7 +708,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.7k • 🔱 332 • 13h ago
+⭐ 2.7k • 🔱 332 • 14h ago
 
 ---
 
@@ -718,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 175 • 3h ago
+⭐ 2.6k • 🔱 175 • 4h ago
 
 ---
 
