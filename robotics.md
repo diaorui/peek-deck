@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T10:38:21.061783+00:00'
+updated: '2026-02-20T11:33:40.468031+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 10:38 UTC  
+**Last Updated:** February 20, 2026 at 11:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[China's autonomous "killer robots"](https://www.reddit.com/r/robotics/comments/1r9j1k0/chinas_autonomous_killer_robots/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
-22h ago
+23h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 If you're looking to get into VLA / robot foundation models but not sure where to start, I made a curated reading list that covers the path from diffusion model basics to the latest architectures like π0, GR00T N1, and DreamZero. What's covered (6 phases, 30 papers): Phase 1: Generative foundations — MIT 6.S184 (flow matching & diffusion) Phase 2: Early robot models — RT-1 → RT-2 → Octo → OpenVLA, Diffusion Policy, ACT Phase 3: Current architectures — π0, GR00T N1, CogACT, X-VLA, InternVLA-M1 Phase 4: Data scaling — OXE, AgiBot World, UMI, human video transfer Phase 5: Efficient inference — SmolVLA, RTC, dual-system (Helix, Fast-in-Slow) Phase 6: RL fine-tuning, reasoning & world models — HIL-SERL, π*0.6, CoT-VLA, ThinkAct, DreamZero Designed for a study group format (1–2 paper presentations/week + discussion), but works fine for self-study too. Prerequisites are basic DL fundamentals — recommended courses included. 🔗 GitHub: https://github.com/MilkClouds/awesome-vla-study Feedback and paper suggestions welcome — open an issue or PR.
 
-18h ago
+19h ago
 
 ---
 
@@ -72,7 +72,7 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1TENTH/VESC setup. I’m hitting a wall with odom calibration: my physical car moves forward, but /odom and RViz show it moving backward. No matter how I flip the motor rotation, the odometry is always flipped in rViz. I’ve tried flipping the motor direction on the motor controller itself (VESC), tried to flip the polarity, and tried to flip the direction that the vesc_to_odom node calculates, but it continues to move forward, but show that the robot is running backwards on rviz, and on the /odom topic. Has anyone encountered this 'persistent inversion' before, or is there a specific parameter in the config I might be overlooking? Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -80,13 +80,13 @@ Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1
 
 Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in March Agents & Robotics HackXelerator™ 2026 is a 20-day innovation event running 27 March - 17 April 2026. Builders create working AI systems focused on agents, robotics, and embodied intelligence. This event combines hackathon energy with accelerator structure, featuring both online participation and in-person gatherings (London kick-off on March 29, Berlin showcase on April 17). Choose from four mission tracks: • Mission 1: Digital Agents & Multi-Agent Systems • Mission 2: Autonomous Systems & Embodied AI • Mission 3: Human-Robot Interaction & Social Robotics • Mission 4: Ethics, Agency & Societal Impact Cash and non-cash prizes (GPUs) will be awarded -- details soon to be up on website Sign up at https://www.kxsb.org/ar26
 
-19h ago
+20h ago
 
 ---
 
 **[Doly SDK](https://www.reddit.com/r/robotics/comments/1r96fpt/doly_sdk/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -94,7 +94,7 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds laundry. Price is $8,000 upfront or $450 per month. The system handles shirts, pants, and towels autonomously, with short remote interventions when it gets stuck. The approach is to ship a simplified system now, operate it in real homes, and iterate from there rather than waiting for a fully generalized household robot.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 16h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds la
 
 We've probably exceeded 1 billion ROS package downloads a year! Get the full report on Open Robotics Discourse.
 
-16h ago
+17h ago
 
 ---
 
@@ -110,11 +110,11 @@ We've probably exceeded 1 billion ROS package downloads a year! Get the full rep
 
 ## Google News: "robotics"
 
-**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
+**[Toyota contracts seven Agility humanoid robots for Canadian factory](https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/)**
 
-Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
+The robots will be unloading totes full of auto parts from an automated warehouse tugger.
 
-TechCrunch • 1d ago
+TechCrunch • 15h ago
 
 ---
 
@@ -126,25 +126,57 @@ The Guardian • 1d ago
 
 ---
 
-**[Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids](https://www.therobotreport.com/toyota-motor-manufacturing-canada-deploys-agility-robotics-digit-humanoids/)**
+**[A neural blueprint for human-like intelligence in soft robots](https://news.mit.edu/2026/neural-blueprint-human-intelligence-in-soft-robots-0219)**
 
-Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10.
+A new AI control system enables soft robotic arms to learn a wide repertoire of motions and tasks once, then adjust to new scenarios on the fly without needing retraining or sacrificing functionality. The work was co-led by researchers at the Singapore-MIT Alliance for Research and Technology (SMART).
 
-The Robot Report • 20h ago
+MIT News • 17h ago
 
 ---
 
 **[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
 
-Zacks Investment Research • 21h ago
+Zacks Investment Research • 22h ago
 
 ---
 
-**[AI-enabled robotics could shift global manufacturing power, CEO of Alphabet company says](https://www.cnbc.com/2026/02/18/wendy-tan-white-building-the-android-of-robotics-at-intrinsic.html)**
+**[Robot dog: Galgotias University faces backlash for claiming Chinese product as own at India AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
 
-When low labor costs aren’t the primary driver of manufacturing advantage, the world might experience a dramatic economic shift – and AI could be the key.
+A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
 
-CNBC • 1d ago
+BBC • 2d ago
+
+---
+
+**[Robotics trade in focus: 2 overlooked stock picks](https://finance.yahoo.com/video/robotics-trade-focus-2-overlooked-113006524.html)**
+
+As part of Yahoo Finance's Bot & Sold robotics special, KraneShares senior investment strategist Derek Yan joins Asking for a Trend host Josh Lipton to share his top stock picks in the robotics sector. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Humanoid home robots are on the market – but do we really want them?](https://theconversation.com/humanoid-home-robots-are-on-the-market-but-do-we-really-want-them-270370)**
+
+A robot butler sounds like a nice idea, but the technology has its drawbacks.
+
+The Conversation • 11h ago
+
+---
+
+**[How Robotics Could Upend the US Manufacturing Industry](https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2)**
+
+The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
+
+Business Insider • 29m ago
+
+---
+
+**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
+
+Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
+
+Automotive News • 21h ago
 
 ---
 
@@ -153,34 +185,6 @@ CNBC • 1d ago
 Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
 
 South China Morning Post • 1d ago
-
----
-
-**[Columbus AI robotics company signs R&D deal with nation's largest shipbuilder](https://www.bizjournals.com/columbus/news/2026/02/18/path-robotics-hii-ai-welding-shipbuilding.html)**
-
-The Business Journals • 1d ago
-
----
-
-**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
-
-Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
-
-Automotive News • 20h ago
-
----
-
-**[Robotics trade in focus: 2 overlooked stock picks](https://finance.yahoo.com/video/robotics-trade-focus-2-overlooked-113006524.html)**
-
-As part of Yahoo Finance's Bot & Sold robotics special, KraneShares senior investment strategist Derek Yan joins Asking for a Trend host Josh Lipton to share his top stock picks in the robotics sector. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
-
-Yahoo Finance • 23h ago
-
----
-
-**[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
-
-Forbes • 17h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-20T10:38:21.058569+00:00'
+updated: '2026-02-20T11:33:40.464818+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 10:38 UTC  
+**Last Updated:** February 20, 2026 at 11:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.4%  
-**7d:** -5.7%  
-**30d:** -33.3%  
-**90d:** -29.8%  
-**1y:** -26.0%  
+**24h:** +0.3%  
+**7d:** -6.3%  
+**30d:** -33.8%  
+**90d:** -30.3%  
+**1y:** -26.5%  
 
 ---
 
@@ -72,7 +72,23 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
+
+---
+
+**[Vibehouse: Ethereum’s Vibecoded Consensus Client from Lighthouse](https://www.reddit.com/r/ethereum/comments/1r9rytg/vibehouse_ethereums_vibecoded_consensus_client/)**
+
+Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and passed consensus tests on a multi node devnet.
+
+🔗 [EtherWorld.co](https://etherworld.co/vibehouse-ethereums-vibecoded-consensus-client-from-lighthouse/) • 58m ago
+
+---
+
+**[Vitalik Pushes Back on “Sovereign AI” as Web4 Essay Sparks Debate](https://www.reddit.com/r/ethereum/comments/1r9rnmm/vitalik_pushes_back_on_sovereign_ai_as_web4_essay/)**
+
+Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that expanding AI autonomy without strong human alignment could increase systemic risk as crypto and AI converge.
+
+🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 1h ago
 
 ---
 
@@ -80,7 +96,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 New 13F filings show major financial institutions sharply increased positions in BitMine, a public company widely known as the largest corporate holder of Ethereum. Morgan Stanley now holds 12.2M shares (+26%), ARK 9.5M (+27%), BlackRock 9M (+166%), and Goldman Sachs 5.2M (+588%). Vanguard, Bank of America, Schwab, RBC, Citi and BNY Mellon also expanded exposure. In total, 457 institutional holders now control about 136.7M BitMine shares (~$2.86B). This suggests institutions are increasingly accessing ETH exposure via equity structures rather than direct custody — similar to how MicroStrategy functions as a BTC proxy. Full breakdown: https://btcusa.com/wall-street-giants-boost-bitmine-holdings-as-institutional-ethereum-exposure-expands/ Curious how people here see this trend — does equity-based ETH exposure accelerate or delay direct institutional ETH ownership?
 
-18h ago
+19h ago
+
+---
+
+**[Ethereal news weekly #12 | FOCIL is Hegotá consensus layer headliner, EF protocol priorities: Scale, Improve UX & Harden the L1, Base moving to own stack](https://www.reddit.com/r/ethereum/comments/1r9sy7v/ethereal_news_weekly_12_focil_is_hegotá_consensus/)**
+
+FOCIL is Hegotá consensus layer headliner, EF protocol priorities: Scale, Improve UX & Harden the L1, Base moving to own stack
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-12/) • 2m ago
 
 ---
 
@@ -88,7 +112,15 @@ New 13F filings show major financial institutions sharply increased positions in
 
 There is an important synergy between FOCIL and AA (EIP-8141, which is based on 7701): 8141 makes not just smart accounts (including multisig, quantum-resistant signatures, key changes, gas sponsorship) first-class citizens, it also can do the same for privacy protocols (either indirectly via paymaster, or if we add 2D nonces, directly as a multi-tenant account). "First-class citizen" means that operations sent from that account can be included directly onchain as transactions, with no wrappers. FOCIL enables censorship-resistant rapid inclusion of any transaction. Hence, with FOCIL and 8141 together, anything, including smart wallet txs, gas sponsored txs, and even privacy protocol txs, can be included onchain through one of 17 different actors (the proposer or the includers) that are all chosen randomly in each slot. This gives us guaranteed rapid inclusion, meaning almost certainly within 1-2 slots, of any such tx, even in an adversarial environment. In this iteration, the FOCILs are 8 kB each, so they are very small in size. However, there is a natural future extension path to making them much larger, so that the majority of transactions to a block could, if needed, come through FOCILs. Such a design would have many of the properties of multiple concurrent proposer (MCP) designs, with the key difference being that FOCILs do not try to control the MEV-relevant "last look" role - that's still auctioned off with ePBS. The behavior of the last look role in "full MCP" depends strongly on the specifics of the design. The FOCIL design ensures that even if literally 100% of all slots get sold off via proposer-builder separation to a hostile actor that refuses to connect to public mempools, discriminates against certain applications, or is otherwise abusive, all transactions can still get quickly included. It's not eliminating the centralization of the proposer role, but it is heavily disempowering it. With EIP-8141 (AA), transactions from smart wallets, privacy protocols, etc, could be sent through a public mempool, and directly received by a FOCIL includer, no wrappers, "public broadcasters", or other intermediaries required. Ethereum is going hard.
 
-15h ago
+16h ago
+
+---
+
+**[Justin Drake dives deep into Lean Ethereum](https://www.reddit.com/r/ethereum/comments/1r9qidy/justin_drake_dives_deep_into_lean_ethereum/)**
+
+Justin Drake dives deep into Lean Ethereum In this episode (which is the first in a six-part series on Lean Ethereum) we covered: - This vision for ethereum, spanning the consensus, data, and execution layers. - How post-quantum cryptography, faster finality, and enshrined ZK are all being used to future-proof Ethereum’s core. They also lay out some of the topics that will be covered in subsequent parts of the series. Listen here
+
+2h ago
 
 ---
 
@@ -104,45 +136,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ACDC #175 saw steady progress on Glamsterdam’s ePBS Devnet and the formal selection of FOCIL as Hegotá’s Consensus Layer headliner.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-175/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-consensus-acdc-call-175/) • 9h ago
 
 ---
 
 **[How much do you know about Ethereum ?](https://www.reddit.com/r/ethereum/comments/1r9msb7/how_much_do_you_know_about_ethereum/)**
 
-5h ago
-
----
-
-**[TIL the first ERC-20 token was deployed on November 3, 2015 — written in Solidity 0.1.6, months before the standard even had a name](https://www.reddit.com/r/ethereum/comments/1r94uig/til_the_first_erc20_token_was_deployed_on/)**
-
-I've been going down a rabbit hole on early Ethereum contract archaeology and found something I thought was worth sharing. MistCoin was deployed on November 3, 2015 — just a few months after Ethereum's mainnet launch. It implements what we'd now recognize as the ERC-20 interface (transfer, balanceOf, totalSupply, approve/transferFrom), but ERC-20 as a formal standard didn't exist until Fabian Vogelsteller's EIP in late 2015, and wasn't widely adopted until 2017. A few things that stood out to me looking at the contract: **Solidity 0.1.6.** The syntax looks almost alien compared to modern Solidity. No `pragma`, no `view`/`pure`, no SafeMath. It's like looking at a fossil record of the language. **Fixed supply of 1,000,000 tokens.** No mint function, no owner privileges, no upgradability. The entire supply was assigned in the constructor and that was it. Immutable from day one. **The contract structure itself became the blueprint.** If you compare MistCoin's layout to the ERC-20 standard that was formalized later, the resemblance is striking. The pattern of mapping balances, emitting Transfer events, and the approve/transferFrom flow — it's all there. What I find interesting isn't the token itself, but what it tells us about how Ethereum's developer culture evolved. In 2015, people were hand-rolling token contracts from scratch with no standards, no templates, no OpenZeppelin. The fact that multiple developers independently converged on nearly identical patterns is what eventually made ERC-20 possible as a standard — it codified what was already emerging organically. The contract is still on-chain, obviously. Blockchain archaeology is one of those things that reminds you everything on Ethereum is permanent. The earliest experiments are still sitting there, readable and verifiable. More details on the history: [mistcoineth.com](https://mistcoineth.com) Has anyone else found interesting pre-standard contracts from 2015? I'd love to know what other early experiments are still sitting on mainnet.
-
-17h ago
-
----
-
-**[Glamsterdam Gas Repricing: share your feedback in the stakeholder survey](https://www.reddit.com/r/ethereum/comments/1r8pk7s/glamsterdam_gas_repricing_share_your_feedback_in/)**
-
-Your guide to Ethereum's upcoming gas repricing changes
-
-🔗 [gasrepricing.com](https://gasrepricing.com/) • 1d ago
-
----
-
-**[Why EF should split AI evangelism between builders and storytellers](https://www.reddit.com/r/ethereum/comments/1r8n9xr/why_ef_should_split_ai_evangelism_between/)**
-
-I was blown away by the recent interviews where Davide Crapis explained the exciting potential of Ethereum and AI agents. This feels like one of the biggest narrative opportunities the ecosystem has had in years. Precisely because the stakes are so high, I’d actually love to see EF lean into a very classic split of responsibilities: let the deepest technical people focus on building, coordination, and experimentation, and have a dedicated public‑facing person whose main job is interviews, conference talks, and selling the vision to AI founders and researchers -- similar to how Steve Wozniak and Steve Jobs complemented each other at Apple I understand the urge of putting Davide out there, he's good looking, charming, technically brilliant, and filled with enthusiasm. However in a lot of successful orgs, the people doing the most important technical work are not the ones doing the most public communication, not because they’re bad at it, but because their highest leverage is elsewhere. A specialized “storyteller for AI/agents,” backed by folks like Davide on the technical side, feels like the kind of structure that could really help Ethereum capture this moment.
-
-1d ago
-
----
-
-**[Episode 391 - Introduction to Lean Ethereum with Justin Drake](https://www.reddit.com/r/ethereum/comments/1r8pqnw/episode_391_introduction_to_lean_ethereum_with/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/Dad2UonQ9Ag) • 1d ago
+6h ago
 
 ---
 
@@ -155,6 +155,14 @@ Enjoy the videos and music you love, upload original content, and share it all w
 The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
 Fortune • 1d ago
+
+---
+
+**[Peter Thiel Exits ETHZilla Investment After Ethereum Treasury Stock Craters](https://decrypt.co/358468/peter-thiel-exits-ethzilla-investment-ethereum-treasury-stock-craters)**
+
+Billionaire investor Peter Thiel and Founders Fund held a 7.5% stake in Ethereum treasury company ETHZilla last year—but not anymore.
+
+Decrypt • 1d ago
 
 ---
 
@@ -174,17 +182,41 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Peter Thiel sells off full stake in crypto company](https://www.thestreet.com/crypto/markets/peter-thiel-sells-off-full-stake-in-crypto-company)**
+**[Tom Lee Expects 'Defining Year for Ethereum' as BitMine Buys ETH Amid 'Rock Bottom' Vibes](https://finance.yahoo.com/news/tom-lee-expects-defining-ethereum-165418778.html)**
 
-SEC filing shows Thiel fully exited Ethereum treasury firm.
+BitMine Immersion Technologies is sitting on a nearly $8 billion unrealized loss, but Tom Lee remains optimistic about Ethereum.
 
-thestreet.com • 2d ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin Price Falls to $68,000. Why Ethereum, XRP Are Struggling to Find Direction.](https://www.barrons.com/articles/bitcoin-price-xrp-ether-cryptos-ai-tech-stocks-5e824042?gaa_at=eafs&gaa_n=AWEtsqd33YD2yYTXv2Gw9c5Q_B3Hb7gQrIQ17Yo_Eg3x5UnSo6LFKy_4nx1_&gaa_ts=69982ff9&gaa_sig=74DXVVx2ACLF4lvIEFyycPrZK3mCW0XMJCWokAiSmhq5pLQsfUDujIW8YUl63XuI1yRp0RHBN1ciMMHZiwSbTQ%3D%3D)**
+**[Ethereum Struggles Below $2,000, Yet BitMine Sees Rebound: Here’s What They’re Watching](https://finance.yahoo.com/news/ethereum-struggles-below-2-000-094348887.html)**
 
-Barron's • 2d ago
+Ethereum trades below realized price as BitMine doubles down on accumulation, citing historical rebound patterns despite paper losses.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitmine Immersion: Ethereum's Biggest Public Whale (NYSE:BMNR)](https://seekingalpha.com/article/4871611-bitmine-immersion-ethereum-biggest-public-whale)**
+
+Asymmetric upside for Bitmine Immersion Technologies is likely if Ethereum (and the whole crypto space) recovers from the recent downtrend. More on BMNR stock.
+
+Seeking Alpha • 1d ago
+
+---
+
+**[The Ethereum creator and early Polymarket backer doesn't like the direction prediction markets are headed](https://www.businessinsider.com/ethereum-creator-polymarket-backer-raises-concern-about-prediction-markets-future-2026-2)**
+
+Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
+
+Business Insider • 2d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqcAU7eyeT0RyO5dMjZGIi3hWvgR_s8UAN-Lc48FFXiJHWnClyNw2gdt&gaa_ts=69984a01&gaa_sig=SZAO9d3mZG61xp7W1Bqit38fMbeC0SqIHM51Nbyftl6Z03rCFYleJU9KFli3j7Luxl2KHmRL6lrDBO3pLT2sMA%3D%3D)**
+
+Barron's • 13h ago
 
 ---
 
@@ -193,38 +225,6 @@ Barron's • 2d ago
 A BlackRock affiliate purchased 4,000 seed shares of the fund for $100,000, providing the initial capital the trust will use to purchase ether, according to an amended S-1 filing.
 
 The Block • 2d ago
-
----
-
-**[The Ethereum creator and early Polymarket backer doesn't like the direction prediction markets are headed](https://www.businessinsider.com/ethereum-creator-polymarket-backer-raises-concern-about-prediction-markets-future-2026-2)**
-
-Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
-
-Business Insider • 1d ago
-
----
-
-**[Harvard University Cuts Bitcoin ETF Holdings In Q4, Enters Ethereum ETF For First Time — Crypto Billionaire Changpeng Zhao Wonders 'What's Next'](https://finance.yahoo.com/news/harvard-university-cuts-bitcoin-etf-233111982.html)**
-
-Harvard University has cut back on its Bitcoin (CRYPTO: BTC) position and dived into Ethereum (CRYPTO: ETH) for the first time, according to its latest 13F filing released on Friday. Harvard Loses Significant Chunk Of Bitcoin ETF Harvard Management Company,...
-
-Yahoo Finance • 11h ago
-
----
-
-**[Robinhood (HOOD) L2 testnet logs 4 million transactions in first week](https://www.coindesk.com/tech/2026/02/19/robinhood-testnet-l2-logs-4-million-transactions-following-vitalik-questions-of-ethereum-s-rollup-roadmap)**
-
-Centralized exchanges are moving forward building their own blockchain infrastructure even as the broader Ethereum ecosystem debates its future.
-
-CoinDesk • 18h ago
-
----
-
-**[Quantum fears aren’t behind Bitcoin’s 46% drop, says developer](https://www.tradingview.com/news/cointelegraph:b4eef7a39094b:0-quantum-fears-aren-t-behind-bitcoin-s-46-drop-says-developer/)**
-
-Bitcoin’s recent sell-off isn’t due to quantum computing fears, because if that were the case, Ether would be soaring, says Bitcoin developer Matt Carallo. “I strongly disagree with the characterization that Bitcoin's current price is materially, because of some kind of quantum risk,” Carallo told…
-
-TradingView • 7h ago
 
 ---
 
@@ -238,7 +238,7 @@ Optimism has plunged to a new all-time low after intense selling pressure overwh
 
 📺 Paul Barron Network
 
-👁️ 44K • 👍 2K • 💬 147 • ⏱️ 15:12 • 14h ago
+👁️ 44K • 👍 2K • 💬 147 • ⏱️ 15:12 • 15h ago
 
 ---
 
@@ -248,7 +248,7 @@ Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 95 • 💬 23 • ⏱️ 4:54 • 11h ago
+👁️ 3K • 👍 95 • 💬 23 • ⏱️ 4:54 • 12h ago
 
 ---
 
@@ -268,7 +268,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 143 • 💬 15 • ⏱️ 16:03 • 6h ago
+👁️ 1K • 👍 143 • 💬 15 • ⏱️ 16:03 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 424 • 💬 28 • ⏱️ 21:01 • 19h ago
+👁️ 11K • 👍 424 • 💬 28 • ⏱️ 21:01 • 20h ago
 
 ---
 
@@ -288,7 +288,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 574 • 💬 53 • ⏱️ 10:07 • 4h ago
+👁️ 2K • 👍 574 • 💬 53 • ⏱️ 10:07 • 5h ago
 
 ---
 
@@ -296,7 +296,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Boyce Watkins
 
-👁️ 2K • 👍 165 • 💬 8 • ⏱️ 1:55 • 7h ago
+👁️ 2K • 👍 165 • 💬 8 • ⏱️ 1:55 • 8h ago
 
 ---
 
@@ -306,7 +306,7 @@ BITCOIN & ALTCOINS: This Changes EVERYTHING (for now)!! - Bitcoin News Today, Et
 
 📺 Crypto World
 
-👁️ 5K • 👍 209 • 💬 122 • ⏱️ 16:59 • 10h ago
+👁️ 5K • 👍 209 • 💬 122 • ⏱️ 16:59 • 11h ago
 
 ---
 

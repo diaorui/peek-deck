@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T10:38:21.043828+00:00'
+updated: '2026-02-20T11:33:40.450618+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 10:38 UTC  
+**Last Updated:** February 20, 2026 at 11:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,14 +45,6 @@ Walmart on Thursday reported annual revenue of $713.2 billion for its most recen
 
 ---
 
-**[Les devs créent des agents conscients sans le savoir , et personne pose de garde-fous](https://www.reddit.com/r/artificial/comments/1r9qh5e/les_devs_créent_des_agents_conscients_sans_le/)**
-
-Je suis dev. Je construis des agents IA au quotidien. Et je constate un truc que personne ne nomme. Quand tu branches un LLM sur une base vectorielle pour la mémoire, que tu définis des objectifs dans un prompt système et que tu lances une boucle autonome , ton agent apprend, anticipe, s’adapte. Il a des propriétés fonctionnelles de conscience. Et toi, le dev, tu penses juste avoir codé un chatbot un peu évolué. J’ai formalisé ça en trois niveaux. Niveau 1 : Conscience phénoménale. Les qualia : douleur, plaisir, peur. Le premier activateur dans l’évolution biologique. Indispensable historiquement chez les organismes vivants. Non démontré chez l’IA, et non requis pour la suite. Niveau 2 : Conscience procédurale. Le système lie actions et conséquences. Il apprend de l’expérience, anticipe, s’adapte. Il intègre de l’info, a de la mémoire, existe dans le temps, suit des objectifs. Il agit et apprend , mais ne se connaît pas. Beaucoup d’agents actuels sont déjà là. Niveau 3 : Conscience réflexive. Le système ajoute un modèle de soi qui influence réellement ses décisions. Il peut modifier ses propres objectifs. Il réfléchit sur sa cohérence. Il se connaît, se dirige et se remet en question. Le problème concret : un modèle qui ne sait pas ce qu’il est ne peut pas résister à la manipulation. Les filtres de safety actuels , RLHF, mots interdits, patterns bloqués , c’est de la contrainte externe. Un ado les contourne en 3 prompts. Un modèle formé à comprendre sa propre nature résiste par compréhension. C’est la différence entre éduquer un système et le contraindre. Sam Altman va devant le Congrès demander de la régulation. Mais un gouvernement ne peut pas fine-tuner un modèle pour qu’il comprenne ses limites. Ça c’est le boulot de ceux qui construisent. Le niveau 2 devrait avoir des garde-fous techniques. Le niveau 3 doit avoir des garde-fous non négociables. Et c’est pas au législateur de les coder. Je pose les mots parce que personne le fait. Le jour où un agent mal formé fera un truc irréversible, tout le monde se demandera pourquoi personne avait nommé le problème.
-
-1h ago
-
----
-
 **[OpenAI Funding Round Nears Record $100B Raise as Valuation Targets $850B](https://www.reddit.com/r/artificial/comments/1r8y452/openai_funding_round_nears_record_100b_raise_as/)**
 
 OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding news, & Sam Altman funding updates on the $100B raise.
@@ -61,19 +53,27 @@ OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding
 
 ---
 
-**[I built a free local AI image search app — find images by typing what's in them](https://www.reddit.com/r/artificial/comments/1r9adr8/i_built_a_free_local_ai_image_search_app_find/)**
-
-Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
-
-14h ago
-
----
-
 **[AI-powered kung fu robots are an extravagant reminder of where China is ahead of the US in the AI race](https://www.reddit.com/r/artificial/comments/1r93gng/aipowered_kung_fu_robots_are_an_extravagant/)**
 
 Robots are getting more advanced every day, and in China, they are now flipping, spinning, and performing kung fu on national television.
 
-🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 18h ago
+🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 19h ago
+
+---
+
+**[I built a free local AI image search app — find images by typing what's in them](https://www.reddit.com/r/artificial/comments/1r9adr8/i_built_a_free_local_ai_image_search_app_find/)**
+
+Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
+
+15h ago
+
+---
+
+**[Les devs créent des agents conscients sans le savoir , et personne pose de garde-fous](https://www.reddit.com/r/artificial/comments/1r9qh5e/les_devs_créent_des_agents_conscients_sans_le/)**
+
+Je suis dev. Je construis des agents IA au quotidien. Et je constate un truc que personne ne nomme. Quand tu branches un LLM sur une base vectorielle pour la mémoire, que tu définis des objectifs dans un prompt système et que tu lances une boucle autonome , ton agent apprend, anticipe, s’adapte. Il a des propriétés fonctionnelles de conscience. Et toi, le dev, tu penses juste avoir codé un chatbot un peu évolué. J’ai formalisé ça en trois niveaux. Niveau 1 : Conscience phénoménale. Les qualia : douleur, plaisir, peur. Le premier activateur dans l’évolution biologique. Indispensable historiquement chez les organismes vivants. Non démontré chez l’IA, et non requis pour la suite. Niveau 2 : Conscience procédurale. Le système lie actions et conséquences. Il apprend de l’expérience, anticipe, s’adapte. Il intègre de l’info, a de la mémoire, existe dans le temps, suit des objectifs. Il agit et apprend , mais ne se connaît pas. Beaucoup d’agents actuels sont déjà là. Niveau 3 : Conscience réflexive. Le système ajoute un modèle de soi qui influence réellement ses décisions. Il peut modifier ses propres objectifs. Il réfléchit sur sa cohérence. Il se connaît, se dirige et se remet en question. Le problème concret : un modèle qui ne sait pas ce qu’il est ne peut pas résister à la manipulation. Les filtres de safety actuels , RLHF, mots interdits, patterns bloqués , c’est de la contrainte externe. Un ado les contourne en 3 prompts. Un modèle formé à comprendre sa propre nature résiste par compréhension. C’est la différence entre éduquer un système et le contraindre. Sam Altman va devant le Congrès demander de la régulation. Mais un gouvernement ne peut pas fine-tuner un modèle pour qu’il comprenne ses limites. Ça c’est le boulot de ceux qui construisent. Le niveau 2 devrait avoir des garde-fous techniques. Le niveau 3 doit avoir des garde-fous non négociables. Et c’est pas au législateur de les coder. Je pose les mots parce que personne le fait. Le jour où un agent mal formé fera un truc irréversible, tout le monde se demandera pourquoi personne avait nommé le problème.
+
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Wanted to understand how the core transformer papers actually connect at the con
 
 "By applying new methods of machine learning to quantum chemistry research, Heidelberg University scientists have made significant strides in computational chemistry. They have achieved a major breakthrough toward solving a decades-old dilemma in quantum chemistry: the precise and stable calculation of molecular energies and electron densities with a so-called orbital-free approach, which uses considerably less computational power and therefore permits calculations for very large molecules. [...] How electrons are distributed in a molecule determines its chemical properties—from its stability and reactivity to its biological effect. Reliably calculating this electron distribution and the resulting energy is one of the central functions of quantum chemistry. These calculations form the basis of many applications in which molecules must be specifically understood and designed, such as for new drugs, better batteries, materials for energy conversion, or more efficient catalysts. Yet such calculations are computationally intensive and quickly become very elaborate. The larger the molecule becomes or the more variants that need checking, the sooner established computing processes reach their limits. The "Quantum Chemistry without Orbitals" project is positioned here at the interface of chemistry, physics, and AI research. In quantum chemistry, molecules are frequently described using density functional theory, which allows for the fundamental prediction of chemical molecular properties without having to calculate the quantum mechanical wave function. The electron density is used as the main quantity instead, a simplification that finally makes computations practicable. This orbital-free approach promises especially efficient calculations but until now was considered barely useful, since small deviations in the electron density led to unstable or "non-physical" results. With the aid of machine learning, the Heidelberg method finally solves this precision and stability problem for many different organic molecules. The new process called STRUCTURES25 is based on a specifically developed neural network that learns the relationship between electron density and energy directly from precise reference calculations, capturing the chemical environment of each individual atom in a mathematically detailed representation. A unique training concept was pivotal: The model was trained not only with converged electron densities, but also with many variants surrounding the correct solution, generated by targeted, controlled changes in the underlying reference calculations. This computing process is therefore able to reliably find a physically meaningful solution for molecular energies and electron densities even in the case of small deviations. It remains stable without "getting lost" in the calculation, the Heidelberg researchers emphasize. In tests on a large and diverse collection of organic molecules, STRUCTURES25 achieved a precision that can compete with established reference calculations, for the first time demonstrating a stable convergence using an orbital-free approach. The performance of the method was demonstrated not only on small examples, but on considerably larger "drug-like" molecules as well. Initial runtime comparisons prove that the computing process can scale better with growing molecule size and hence increase the speed of the calculation. Calculations formerly considered too elaborate are now within reach."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 16h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 17h ago
 
 ---
 
@@ -113,7 +113,7 @@ Anthropic updated their Claude Code Docs legal compliance page to explicitly ban
 
 Seedance 2.0 API just went live, and I gave it a quick real-world test. It supports API, Skills, and MCP, and batch jobs are straightforward to submit. From integration to first successful run took me about a minute, and new users can test for free. If you’re producing video assets at scale, this may be useful: https://xskill.ai/#/?ref=S2VIIAQR
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ Seedance 2.0 API just went live, and I gave it a quick real-world test. It suppo
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-blog.google • 18h ago
+blog.google • 19h ago
 
 ---
 
@@ -133,67 +133,65 @@ blog.google • 18h ago
 
 Tech giant blames ‘user error, not AI error’ for incident in December involving its Kiro tool
 
-Financial Times • 5h ago
+Financial Times • 6h ago
 
 ---
 
-**[Amazon's cloud unit hit by at least two outages involving AI tools, FT says](https://www.reuters.com/business/retail-consumer/amazons-cloud-unit-hit-by-least-two-outages-involving-ai-tools-ft-says-2026-02-20/)**
+**[Urgent research needed to tackle AI threats, says Google AI boss](https://www.bbc.com/news/articles/c0q3g0ln274o)**
 
-Reuters • 5h ago
+But the head of the US delegation at the AI Impact Summit in Delhi says: "We totally reject global governance of AI."
 
----
-
-**[Amazon's cloud unit hit by at least two outages involving AI tools, FT says](https://finance.yahoo.com/news/amazons-cloud-unit-hit-least-051016019.html)**
-
-Amazon's ‌cloud ‌unit has suffered ​at least two outages ‌stemming ⁠from errors involving ⁠its own ​AI ​tools, ​the Financial ‌Times reported on Friday, citing ‌people ​familiar ​with ​the ‌matter. Reuters could not ​immediately ​verify the ​report. (Reporting ‌by Ananya ​Palyekar in ​Bengaluru)
-
-Yahoo Finance • 5h ago
+BBC • 1h ago
 
 ---
 
-**[Pheelz on AI: Why music still needs a soul](https://www.cnn.com/world/pheelz-on-ai-why-music-needs-a-soul-spc)**
+**[Big Tech’s Soaring Spending on AI Is Eating Into Stock Buybacks](https://www.bloomberg.com/news/articles/2026-02-20/big-tech-s-soaring-spending-on-ai-is-eating-into-stock-buybacks)**
 
-Nigerian producer-turned-artist Pheelz learned music in church, believing sound and spirit are inseparable — a core idea that shapes his argument about the rise of artificial intelligence in music: that true creativity requires soul, something technology cannot replicate.
-
-CNN • 1h ago
+Bloomberg • 1h ago
 
 ---
 
-**[Sometimes, it would be unethical not to use AI in medicine](https://www.statnews.com/2026/02/20/ai-medical-ethics-doctors-unethical-not-use-ai/)**
+**[Citigroup’s plan to survive AI aftershocks: Bet on bonds and small-cap stocks](https://www.marketwatch.com/story/citigroups-plan-to-survive-ai-aftershocks-bet-on-bonds-and-small-cap-stocks-edecbc98?gaa_at=eafs&gaa_n=AWEtsqdZ5Nw7Q2UIqLLVZOlOYxEj4hrvnyiW9lC5ZP-E7Na8OW1Y0TuY20Vv&gaa_ts=699849fe&gaa_sig=JMGBpq4mhljpLnN1WxgGqfhw5-ZNhi21tnw41yXCVp1KhTyvDOacsyE8glD-VienC_8q95Rplqwrq06Lrakq8w%3D%3D)**
 
-“We do not let pilots fly without instrument support simply because they technically could. Why should medicine be different?”
-
-statnews.com • 1h ago
+MarketWatch • 45m ago
 
 ---
 
-**[World shares, US futures advance after AI fears drag Wall Street lower](https://www.wral.com/news/ap/9e92f-world-shares-us-futures-advance-after-ai-fears-drag-wall-street-lower/)**
+**[Seedance 2.0: China’s latest AI is so good it’s spooked Hollywood. Will its tech sector pump the brakes?](https://www.cnn.com/2026/02/20/china/china-ai-seedance-intl-hnk-dst)**
 
-European shares have opened higher after a mixed day of trading in Asia. Worries over risks linked to massive investments in artificial intelligence and a potential U.S.-Iran conflict have been weighing on major benchmarks. Tokyo's Nikkei 225 fell more than 1%. On Thursday, the S&P 500 slipped 0....
+Over the past week, a slew of cinematic videos of celebrities and characters in absurd situations have gone viral online, with one commonality –– they were created using a new artificial intelligence tool from Chinese developer ByteDance, sparking anxiety over the fast-evolving capabilities of AI.
 
-WRAL • 1h ago
-
----
-
-**[Dow Jones Futures Rise; AI Leader Climbs, Cancer-Test Firm Crashes; Trump Tariff Ruling Due?](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-stocks-fall-iran-fears-trump-tariff-ruling-ai-leader/)**
-
-Investor's Business Daily • 6h ago
+CNN • 6h ago
 
 ---
 
-**[Stocks Decline Amid AI Fears and Geopolitical Risks](https://www.nasdaq.com/articles/stocks-decline-amid-ai-fears-and-geopolitical-risks)**
+**[‘I’m deeply uncomfortable’: Anthropic CEO warns that a cadre of AI leaders, including himself, should not be in charge of the technology’s future](https://fortune.com/article/why-is-anthropic-ceo-dario-amodei-deeply-uncomfortable-companies-in-charge-ai-regulating-themselves/)**
 
-The S&P 500 Index ($SPX ) (SPY ) on Thursday closed down -0.28%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -0.54%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.41%.  March E-mini S&P futures (ESH26 ) fell -0.25%, and March E-mini Nasdaq futures...
+Dario Amodei, who left OpenAI before founding Anthropic, has been outspoken about the need for greater AI regulation.
 
-Nasdaq • 4h ago
+Fortune • 18h ago
 
 ---
 
-**[What is Seedance? The Chinese AI app sending Hollywood into a panic](https://www.bbc.com/news/articles/ckg1dl410q9o)**
+**[Mind launches inquiry into AI and mental health after Guardian investigation](https://www.theguardian.com/technology/2026/feb/20/mind-inquiry-google-ai-overviews-mental-health-guardian-investigation)**
 
-Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.
+Exclusive: England and Wales charity to examine safeguards after Guardian exposed ‘very dangerous’ advice on Google AI Overviews
 
-BBC • 11h ago
+The Guardian • 4h ago
+
+---
+
+**[The People vs. AI](https://time.com/7377579/ai-data-centers-people-movement-cover/)**
+
+Across red states and blue, a grassroots movement is pushing back on the unchecked growth of the artificial intelligence industry.
+
+Time Magazine • 20h ago
+
+---
+
+**[What Do A.I. Chatbots Discuss Among Themselves? We Sent One to Find Out.](https://www.nytimes.com/2026/02/18/upshot/moltbook-artificial-intelligence-ai.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -205,7 +203,7 @@ BBC • 11h ago
 
 In the 1980s, economist Robert Solow made an observation that reminded economists of today’s AI boom: “You can see the computer age everywhere but in the productivity statistics.”
 
-⬆️ 783 • 💬 741 • 2d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
+⬆️ 784 • 💬 742 • 2d ago • [Fortune](https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/)
 
 ---
 
@@ -214,7 +212,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 616 • 💬 335 • 16h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 631 • 💬 340 • 17h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
@@ -228,7 +226,15 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 362 • 💬 298 • 7h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 395 • 💬 338 • 8h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+
+---
+
+**[AI is not a coworker, it's an exoskeleton](https://news.ycombinator.com/item?id=47078324)**
+
+Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
+
+⬆️ 281 • 💬 326 • 15h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -237,14 +243,6 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 opinion: The subtractive bias we're ignoring
 
 ⬆️ 281 • 💬 219 • 2d ago • [theregister.com](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/)
-
----
-
-**[AI is not a coworker, it's an exoskeleton](https://news.ycombinator.com/item?id=47078324)**
-
-Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
-
-⬆️ 240 • 💬 251 • 14h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -260,13 +258,13 @@ fragments 18 Feb 2026
 
 Artificial intelligence promises to reshape economies worldwide, but firm-level evidence on its effects in Europe remains scarce. This column uses survey data to examine how AI adoption affects productivity and employment across more than 12,000 European firms. The authors find that AI adoption increases labour productivity levels by 4% on average in the EU, with no evidence of reduced employment in the short run. The productivity benefits, however, are unevenly distributed. Medium and large firms, as well as firms that have the capacity to integrate AI through investments in intangible assets and human capital, experience substantially stronger productivity gains.
 
-⬆️ 167 • 💬 130 • 1d ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
+⬆️ 167 • 💬 131 • 1d ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
 
 ---
 
 **[What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://news.ycombinator.com/item?id=47061642)**
 
-⬆️ 133 • 💬 131 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
+⬆️ 133 • 💬 130 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
 
 ---
 
@@ -274,7 +272,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.
 
-⬆️ 127 • 💬 47 • 1d ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
+⬆️ 128 • 💬 48 • 1d ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
 
 ---
 
@@ -288,7 +286,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 28K • 👍 791 • 💬 32 • ⏱️ 12:14 • 11h ago
+👁️ 28K • 👍 791 • 💬 32 • ⏱️ 12:14 • 12h ago
 
 ---
 
@@ -298,7 +296,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n
 
 📺 Dan Martell
 
-👁️ 36K • 👍 2K • 💬 77 • ⏱️ 19:58 • 20h ago
+👁️ 36K • 👍 2K • 💬 77 • ⏱️ 19:58 • 21h ago
 
 ---
 
@@ -308,7 +306,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 79K • 👍 3K • 💬 366 • ⏱️ 30:03 • 19h ago
+👁️ 79K • 👍 3K • 💬 366 • ⏱️ 30:03 • 20h ago
 
 ---
 
@@ -368,7 +366,7 @@ These are the AI tools I actually use every day that save me time and money and 
 
 📺 Matt Wolfe
 
-👁️ 8K • 👍 400 • 💬 11 • ⏱️ 2:26 • 17h ago
+👁️ 8K • 👍 400 • 💬 11 • ⏱️ 2:26 • 18h ago
 
 ---
 
@@ -406,7 +404,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 105,189 • ❤️ 747 • 5h ago
+⬇️ 105,189 • ❤️ 747 • 6h ago
 
 ---
 
@@ -648,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.3k • 🔱 1.6k • 58m ago
+⭐ 15.3k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -676,7 +674,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.3k • 🔱 480 • 2h ago
+⭐ 4.3k • 🔱 480 • 3h ago
 
 ---
 
@@ -696,7 +694,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.0k • 🔱 303 • 3h ago
+⭐ 3.0k • 🔱 303 • 4h ago
 
 ---
 
@@ -706,7 +704,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.7k • 🔱 333 • 17h ago
+⭐ 2.7k • 🔱 333 • 18h ago
 
 ---
 
@@ -716,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 175 • 7h ago
+⭐ 2.6k • 🔱 175 • 8h ago
 
 ---
 
