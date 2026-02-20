@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T05:37:59.380928+00:00'
+updated: '2026-02-20T06:58:38.216892+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 05:37 UTC  
+**Last Updated:** February 20, 2026 at 06:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,604.86
+### $68,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.9%  
-**7d:** -2.9%  
+**24h:** +1.0%  
+**7d:** -2.8%  
 **30d:** -24.3%  
-**90d:** -22.1%  
+**90d:** -22.0%  
 **1y:** -29.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1342.43B
+**Market Cap:** $1356.44B
 Rank #1
 
-**Circulating Supply:** 19,992,125 BTC
+**Circulating Supply:** 19,992,143 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.7%
+-46.2%
 
 **All-Time Low:** $67.81
-+98966.5%
++99942.8%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -87,35 +87,19 @@ Rank #1
 
 I don’t care if it dips more…. We just had to get in with that tax return. I’d rather it dip to 50k & miss out on those small amounts of BTC than have it rip to 100k or beyond tomorrow and live with the regret that I’ll never see BTC that low ever again! Tonight is the first night I can rest peacefully knowing my family is hedged against the decaying dollar and positioned to benefit from deflation from government inflation. The last one using the dollar gets stuck holding the bag of poverty. Not this family🙏🏼🚀
 
-4h ago
+5h ago
 
 ---
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-18h ago
+19h ago
 
 ---
 
 **[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-11h ago
-
----
-
-**[Lightning volume grew by 400% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r93pwo/lightning_volume_grew_by_400_in_2025/)**
-
-Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
-
-13h ago
-
----
-
-**[Bitcoin is real money](https://www.reddit.com/r/Bitcoin/comments/1r9kxdd/bitcoin_is_real_money/)**
-
-i think bitcoin is real money. and it makes me other life someday. so i just assemble it. although small amount now.
-
-1h ago
+12h ago
 
 ---
 
@@ -123,7 +107,31 @@ i think bitcoin is real money. and it makes me other life someday. so i just ass
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-1h ago
+2h ago
+
+---
+
+**[Lightning volume grew by 400% in 2025](https://www.reddit.com/r/Bitcoin/comments/1r93pwo/lightning_volume_grew_by_400_in_2025/)**
+
+Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
+
+14h ago
+
+---
+
+**[Bitcoin is real money](https://www.reddit.com/r/Bitcoin/comments/1r9kxdd/bitcoin_is_real_money/)**
+
+i think bitcoin is real money. and it makes me other life someday. so i just assemble it. although small amount now.
+
+3h ago
+
+---
+
+**[Moderation](https://www.reddit.com/r/Bitcoin/comments/1r9o9ai/moderation/)**
+
+I have just had a post removed from here by a moderator and have read through the rules. My post was perfectly consistent with all of them. When removing a post please attach the rule that was being violated so the poster understands. Otherwise you are simply abusing your positions and cancelling free speach.
+
+10m ago
 
 ---
 
@@ -131,21 +139,13 @@ The fear-and-greed index is in a state of sustained extreme fear. This has histo
 
 The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
 
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 16h ago
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 18h ago
 
 ---
 
 **[Bitcoin distribution since 17 years ago](https://www.reddit.com/r/Bitcoin/comments/1r87l8i/bitcoin_distribution_since_17_years_ago/)**
 
 1d ago
-
----
-
-**[Title: The Fed just casually mentioned RAISING rates while the S&P sits at an all-time high.](https://www.reddit.com/r/Bitcoin/comments/1r90sy3/title_the_fed_just_casually_mentioned_raising/)**
-
-Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
-
-15h ago
 
 ---
 
@@ -157,13 +157,7 @@ Did anyone else actually read the FOMC minutes or did we all just watch the gree
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 10h ago
-
----
-
-**[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://www.bloomberg.com/news/articles/2026-02-18/bitcoin-won-over-wall-street-and-now-it-s-paying-the-price)**
-
-Bloomberg • 1d ago
+Yahoo Finance • 11h ago
 
 ---
 
@@ -171,15 +165,29 @@ Bloomberg • 1d ago
 
 The average bitcoin ETF investor now sits on a 20% paper loss, leaving the market vulnerable to capitulation selling if prices slide further, a Wintermute trader said.
 
-CoinDesk • 6h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Bitcoin Declines Amid Risk-Off Mood With AI Concerns to The Fore](https://finance.yahoo.com/news/bitcoin-declines-geopolitical-tension-adds-120215723.html)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfGCzaqFFQbD89FWylqd00mQBJpGWaK7RFLFFCnBrkRBDNx9DXZF7YB&gaa_ts=69980989&gaa_sig=rEk9-yi6HIKajYER6w_wmr_N-kGjUk9Ckl4-42-2LH6abFPDQNnbz9vjFsrljovKwiuUezZc415jTUuOEgBU5Q%3D%3D)**
 
-Bitcoin, which has tended to move with fluctuations in tech stocks in recent months, mirrored an earlier move lower in US equities but failed to keep pace when they edged higher.  “Sentiment is clearly bleak in crypto markets,” said Noelle Acheson, author of Crypto is Macro Now newsletter.  “There is strong progress in adoption by traditional institutions, but this is not reflected in overall prices, which depresses sentiment even more.”
+Barron's • 9h ago
 
-Yahoo Finance • 2d ago
+---
+
+**[Opinion: Stablecoins, the new kid on the crypto block, may be killing Bitcoin](https://www.theglobeandmail.com/business/commentary/article-stablecoins-cryptocurrency-bitcoin-genius-act/)**
+
+The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
+
+The Globe and Mail • 19h ago
+
+---
+
+**[The Daily: Hacker returns $21 million in stolen bitcoin, Robinhood Chain testnet hits four million transactions in first week, and more](https://www.theblock.co/post/390522/the-daily-hacker-returns-21-million-in-stolen-bitcoin-robinhood-chain-testnet-hits-four-million-transactions-in-first-week-and-more)**
+
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+
+The Block • 13h ago
 
 ---
 
@@ -187,7 +195,15 @@ Yahoo Finance • 2d ago
 
 Sen. Elizabeth Warren urged the Treasury Department and the Federal Reserve to rule out any taxpayer-funded intervention to stabilize Bitcoin.
 
-Bitcoin Magazine • 9h ago
+Bitcoin Magazine • 11h ago
+
+---
+
+**[Warren Presses Treasury, Fed to Rule Out Bitcoin Bailout As Prices Tumble: Report](https://decrypt.co/358593/warren-presses-treasury-fed-to-rule-out-bitcoin-bailout-as-prices-tumble-report)**
+
+The longtime crypto critic warned against using taxpayer dollars to rescue investors and firms amid the current market slide.
+
+Decrypt • 13h ago
 
 ---
 
@@ -199,31 +215,19 @@ CNBC • 1d ago
 
 ---
 
-**[Warren Presses Treasury, Fed to Rule Out Bitcoin Bailout As Prices Tumble: Report](https://finance.yahoo.com/news/warren-presses-treasury-fed-rule-171912376.html)**
+**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)**
 
-The longtime crypto critic warned against using taxpayer dollars to rescue investors and firms amid the current market slide.
+The Ivy League school still has more money invested in Bitcoin than any other US stock.
 
-Yahoo Finance • 12h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqddZPXN0lOr271NdRxHdbvoVuuQp_mHzbTt_qQfL9A38ivOH3pH1Btk&gaa_ts=6997f69e&gaa_sig=BHP-XygzPHVX8mj74h9ziuksopsBzzLFzn5ZJV252KhoVFoNLkfo2qR8UUg4ptdw1miNTPP3HL1EVVc8HJPtww%3D%3D)**
-
-Barron's • 8h ago
+Fortune • 1d ago
 
 ---
 
-**[Clarity Act Odds Briefly Spike; Bitcoin Miner Tumbles On AI Funding Plans](https://www.investors.com/news/clarity-act-odds-spike-stablecoin-discussions-white-house-bitdeer-funds-ai-data-center/)**
+**['Dr. Doom' Nouriel Roubini blasts bitcoin as 'bogus' and a risk to the financial system](https://www.businessinsider.com/bitcoin-dr-doom-nouriel-roubini-crypto-bogus-financial-system-risk-2026-2)**
 
-Investor's Business Daily • 8h ago
+Nouriel "Dr. Doom" Roubini said bitcoin is a "pseudo-asset class" and that stablecoin integration in the banking system is a threat to financial stability.
 
----
-
-**[The Daily: Hacker returns $21 million in stolen bitcoin, Robinhood Chain testnet hits four million transactions in first week, and more](https://www.theblock.co/post/390522/the-daily-hacker-returns-21-million-in-stolen-bitcoin-robinhood-chain-testnet-hits-four-million-transactions-in-first-week-and-more)**
-
-The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
-
-The Block • 12h ago
+Business Insider • 1d ago
 
 ---
 
@@ -279,7 +283,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 13h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 15h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -303,7 +307,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 1 • 💬 1 • 9h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
+⬆️ 1 • 💬 1 • 10h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
 
 ---
 
@@ -317,7 +321,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 53K • 👍 2K • 💬 101 • ⏱️ 28:28 • 1d ago
+👁️ 55K • 👍 2K • 💬 101 • ⏱️ 28:28 • 1d ago
 
 ---
 
@@ -327,7 +331,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 267 • ⏱️ 46:22 • 14h ago
+👁️ 26K • 👍 1K • 💬 269 • ⏱️ 46:22 • 15h ago
 
 ---
 
@@ -337,27 +341,27 @@ Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail app
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 1K • 💬 293 • ⏱️ 36:44 • 12h ago
+👁️ 23K • 👍 1K • 💬 295 • ⏱️ 36:44 • 13h ago
 
 ---
 
-**[Bitcoin Drops Below $65K! Should We Be Worried? W/ Ben Cowen](https://www.youtube.com/watch?v=0aGWd4fSixI)**
+**[Bitcoin&#39;s Crash Is Putting Crypto Treasury Stocks To The Test](https://www.youtube.com/watch?v=k9H1YrbXS7A)**
 
-Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market analysis meets high probability trade setups ...
+A wave of companies embraced Michael Saylor's bitcoin playbook in 2025. But with prices plummeting, investors are now sorting ...
 
-📺 The Wolf Of All Streets
+📺 Forbes
 
-👁️ 11K • 👍 594 • 💬 170 • ⏱️ 34:52 • 8h ago
+👁️ 14K • 👍 302 • 💬 71 • ⏱️ 5:26 • 11h ago
 
 ---
 
-**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=XOdE_tP8RGA)**
+**[Why BlackRock Can&#39;t Destroy Bitcoin | Jack Mallers EXCLUSIVE](https://www.youtube.com/watch?v=tMzcG8T-4_4)**
 
-Bitcoin has a classic case of the bear market blues. Let's discuss! Into The Cryptoverse Premium (Use code ITC50 for 50% off your ...
+Is Bitcoin being hijacked by Wall Street or is that the point? This conversation cuts through the noise on BlackRock, institutions, ...
 
-📺 Benjamin Cowen
+📺 Simply Bitcoin
 
-👁️ 66K • 👍 4K • 💬 178 • ⏱️ 15:57 • 1d ago
+👁️ 13K • 👍 916 • 💬 75 • ⏱️ 13:18 • 8h ago
 
 ---
 
@@ -367,7 +371,27 @@ Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https:
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 2K • ⏱️ 11:38 • 2d ago
+👁️ 60K • 👍 3K • 💬 2K • ⏱️ 11:38 • 2d ago
+
+---
+
+**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
+
+Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
+
+📺 Anthony Pompliano
+
+👁️ 60K • 👍 2K • 💬 33 • ⏱️ 20:57 • 2d ago
+
+---
+
+**[Trump Family Said Bitcoin is going to $1M...](https://www.youtube.com/watch?v=ILMNi6R3GVQ)**
+
+Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+
+📺 CryptosRUs
+
+👁️ 24K • 👍 1K • 💬 651 • ⏱️ 8:25 • 1d ago
 
 ---
 
@@ -377,37 +401,17 @@ Strategy founder and executive chairman Michael Saylor discusses the current 'cr
 
 📺 Fox Business
 
-👁️ 89K • 👍 2K • 💬 7K • ⏱️ 11:33 • 1d ago
+👁️ 91K • 👍 2K • 💬 7K • ⏱️ 11:33 • 2d ago
 
 ---
 
-**[most bitcoin investors don&#39;t realize this...](https://www.youtube.com/watch?v=Z8IONVM7OHY)**
+**[Bitcoin: The Bear Market Blues](https://www.youtube.com/watch?v=XOdE_tP8RGA)**
 
-Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily ⭐ Follow ...
+Bitcoin has a classic case of the bear market blues. Let's discuss! Into The Cryptoverse Premium (Use code ITC50 for 50% off your ...
 
-📺 Altcoin Daily
+📺 Benjamin Cowen
 
-👁️ 16K • 👍 436 • 💬 20 • ⏱️ 1:08 • 1d ago
-
----
-
-**[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
-
-Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
-
-📺 Mark Moss
-
-👁️ 95K • 👍 4K • 💬 510 • ⏱️ 20:14 • 2d ago
-
----
-
-**[BITCOIN IS ABOUT TO REPEAT HISTORY!!!! (CRASH COMING)](https://www.youtube.com/watch?v=s22EAJsbIYk)**
-
-WEEX: https://themoon.co/DailyWEEX UP TO $30000 BONUS BLOFIN: https://themoon.co/dailyblofin45usdt 20% ...
-
-📺 The Moon Show
-
-👁️ 9K • 👍 434 • 💬 25 • ⏱️ 9:18 • 13h ago
+👁️ 67K • 👍 4K • 💬 178 • ⏱️ 15:57 • 1d ago
 
 ---
 
