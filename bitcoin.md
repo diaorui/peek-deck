@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T04:26:46.596707+00:00'
+updated: '2026-02-20T05:37:59.380928+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- social
 - videos
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 04:26 UTC  
+**Last Updated:** February 20, 2026 at 05:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,407.49
+### $67,604.86
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -3.7%  
-**30d:** -25.0%  
-**90d:** -22.7%  
-**1y:** -30.1%  
+**24h:** +0.9%  
+**7d:** -2.9%  
+**30d:** -24.3%  
+**90d:** -22.1%  
+**1y:** -29.5%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -87,19 +87,19 @@ Rank #1
 
 I don’t care if it dips more…. We just had to get in with that tax return. I’d rather it dip to 50k & miss out on those small amounts of BTC than have it rip to 100k or beyond tomorrow and live with the regret that I’ll never see BTC that low ever again! Tonight is the first night I can rest peacefully knowing my family is hedged against the decaying dollar and positioned to benefit from deflation from government inflation. The last one using the dollar gets stuck holding the bag of poverty. Not this family🙏🏼🚀
 
-2h ago
+4h ago
 
 ---
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-17h ago
+18h ago
 
 ---
 
 **[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-9h ago
+11h ago
 
 ---
 
@@ -107,7 +107,7 @@ I don’t care if it dips more…. We just had to get in with that tax return. I
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-12h ago
+13h ago
 
 ---
 
@@ -115,15 +115,7 @@ Full article with explanations on the data here https://x.com/sdwouters/status/2
 
 i think bitcoin is real money. and it makes me other life someday. so i just assemble it. although small amount now.
 
-35m ago
-
----
-
-**[Italian banking giant Intesa Sanapolo discloses near $100 million bitcoin ETF holdings](https://www.reddit.com/r/Bitcoin/comments/1r8y6nf/italian_banking_giant_intesa_sanapolo_discloses/)**
-
-The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
-
-🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 15h ago
+1h ago
 
 ---
 
@@ -131,7 +123,15 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-16m ago
+1h ago
+
+---
+
+**[Italian banking giant Intesa Sanapolo discloses near $100 million bitcoin ETF holdings](https://www.reddit.com/r/Bitcoin/comments/1r8y6nf/italian_banking_giant_intesa_sanapolo_discloses/)**
+
+The bank also holds a large put option position on Strategy, potentially capitalizing on the company trading above the value of its BTC holdings.
+
+🔗 [coindesk.com](https://www.coindesk.com/business/2026/02/17/banking-giant-intesa-sanapolo-discloses-usd100-million-bitcoin-etf-holdings-along-with-strategy-hedge) • 16h ago
 
 ---
 
@@ -145,7 +145,7 @@ The fear-and-greed index is in a state of sustained extreme fear. This has histo
 
 Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-13h ago
+15h ago
 
 ---
 
@@ -157,15 +157,29 @@ Did anyone else actually read the FOMC minutes or did we all just watch the gree
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://finance.yahoo.com/news/bitcoin-won-over-wall-street-124511013.html)**
+**[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://www.bloomberg.com/news/articles/2026-02-18/bitcoin-won-over-wall-street-and-now-it-s-paying-the-price)**
 
-Since Oct. 10, roughly $8.5 billion has flowed out of US-listed spot Bitcoin exchange-traded funds.  Futures exposure on the Chicago Mercantile Exchange has fallen by about two-thirds from its late-2024 peak to roughly $8 billion.  Prices on Coinbase, the venue favored by many American institutions, have persistently traded at a discount to offshore exchange Binance — a signal of sustained US selling.
+Bloomberg • 1d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Bitcoin price news: BTC steadies at $67,000 as traders pay for crash protection](https://www.coindesk.com/markets/2026/02/19/bitcoin-steadies-near-usd67-000-as-traders-pay-for-crash-protection)**
+
+The average bitcoin ETF investor now sits on a 20% paper loss, leaving the market vulnerable to capitulation selling if prices slide further, a Wintermute trader said.
+
+CoinDesk • 6h ago
+
+---
+
+**[Bitcoin Declines Amid Risk-Off Mood With AI Concerns to The Fore](https://finance.yahoo.com/news/bitcoin-declines-geopolitical-tension-adds-120215723.html)**
+
+Bitcoin, which has tended to move with fluctuations in tech stocks in recent months, mirrored an earlier move lower in US equities but failed to keep pace when they edged higher.  “Sentiment is clearly bleak in crypto markets,” said Noelle Acheson, author of Crypto is Macro Now newsletter.  “There is strong progress in adoption by traditional institutions, but this is not reflected in overall prices, which depresses sentiment even more.”
+
+Yahoo Finance • 2d ago
 
 ---
 
@@ -173,7 +187,7 @@ Yahoo Finance • 1d ago
 
 Sen. Elizabeth Warren urged the Treasury Department and the Federal Reserve to rule out any taxpayer-funded intervention to stabilize Bitcoin.
 
-Bitcoin Magazine • 8h ago
+Bitcoin Magazine • 9h ago
 
 ---
 
@@ -189,35 +203,19 @@ CNBC • 1d ago
 
 The longtime crypto critic warned against using taxpayer dollars to rescue investors and firms amid the current market slide.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfpOnSEB4ykJDVDQOJ8vhWuqDLcqSTTUDZOqlDRmvg1dezVA5fAtTZv&gaa_ts=6997e5ed&gaa_sig=Aqdf8c4i8ssutNKUUQ7a5cQO4T4D8xC8QPbLAAYgpuuqPaVKU4dmDT7iBtdggQJoiqI82y-a36lrH0JvkvRIyA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqddZPXN0lOr271NdRxHdbvoVuuQp_mHzbTt_qQfL9A38ivOH3pH1Btk&gaa_ts=6997f69e&gaa_sig=BHP-XygzPHVX8mj74h9ziuksopsBzzLFzn5ZJV252KhoVFoNLkfo2qR8UUg4ptdw1miNTPP3HL1EVVc8HJPtww%3D%3D)**
 
-Barron's • 6h ago
-
----
-
-**[Crypto Buy Alert For Bitcoin, Ethereum and XRP: Here’s What Comes Next](https://www.tradingview.com/news/coinpedia:449dc01b7094b:0-crypto-buy-alert-for-bitcoin-ethereum-and-xrp-here-s-what-comes-next/)**
-
-Crypto markets may be setting up for a short-term bounce, according to market strategist Gareth Soloway. After weeks of pressure and sideways movement, charts for Bitcoin, Ethereum and XRP are showing patterns that traders often watch for possible upside moves.But this is not a call for new all-tim…
-
-TradingView • 10h ago
+Barron's • 8h ago
 
 ---
 
-**[Forget Bitcoin and Ethereum: This is the Crypto to Buy in 2026](https://247wallst.com/investing/2026/02/17/forget-bitcoin-and-ethereum-this-is-the-crypto-to-buy-in-2026/)**
+**[Clarity Act Odds Briefly Spike; Bitcoin Miner Tumbles On AI Funding Plans](https://www.investors.com/news/clarity-act-odds-spike-stablecoin-discussions-white-house-bitdeer-funds-ai-data-center/)**
 
-Bitcoin and Ethereum have dominated crypto headlines for years, but Bitcoin has declined 22.4% year-to-date in 2026, while Ethereum has dropped 33.4% over the same period. Both show signs of exhaustion after their 2025 rallies. Three alternative cryptocurrencies have experienced different price movements than Bitcoin and Ethereum: XRP’s institutional payment infrastructure, Solana’s unmatched transaction speed, ... Forget Bitcoin and Ethereum: This is the Crypto to Buy in 2026
-
-24/7 Wall St. • 2d ago
-
----
-
-**[Bitcoin ETF Gold Rush Turns Into An Epic Bust](https://www.investors.com/etfs-and-funds/etfs/bitcoin-etf-gold-rush-turns-into-an-epic-bust/)**
-
-Investor's Business Daily • 15h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -225,7 +223,7 @@ Investor's Business Daily • 15h ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 10h ago
+The Block • 12h ago
 
 ---
 
@@ -281,7 +279,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 12h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 13h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -305,7 +303,7 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ...
 
-⬆️ 1 • 💬 1 • 8h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
+⬆️ 1 • 💬 1 • 9h ago • [bitcoin-zero-down-2ea152.gitlab.io](https://bitcoin-zero-down-2ea152.gitlab.io/gallery/gallery-item-neg-880/)
 
 ---
 
@@ -329,7 +327,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 267 • ⏱️ 46:22 • 13h ago
+👁️ 24K • 👍 1K • 💬 267 • ⏱️ 46:22 • 14h ago
 
 ---
 
@@ -339,7 +337,7 @@ Bitcoin #Crypto #Finance Bitcoin may be quietly changing hands and the trail app
 
 📺 The Wolf Of All Streets
 
-👁️ 22K • 👍 1K • 💬 293 • ⏱️ 36:44 • 11h ago
+👁️ 22K • 👍 1K • 💬 293 • ⏱️ 36:44 • 12h ago
 
 ---
 
@@ -349,7 +347,7 @@ Bitcoin #Crypto #Finance Welcome to Market Mavericks , where fast paced market a
 
 📺 The Wolf Of All Streets
 
-👁️ 11K • 👍 594 • 💬 170 • ⏱️ 34:52 • 7h ago
+👁️ 11K • 👍 594 • 💬 170 • ⏱️ 34:52 • 8h ago
 
 ---
 
@@ -409,7 +407,7 @@ WEEX: https://themoon.co/DailyWEEX UP TO $30000 BONUS BLOFIN: https://themoon.co
 
 📺 The Moon Show
 
-👁️ 9K • 👍 434 • 💬 25 • ⏱️ 9:18 • 12h ago
+👁️ 9K • 👍 434 • 💬 25 • ⏱️ 9:18 • 13h ago
 
 ---
 

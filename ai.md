@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T04:26:46.588409+00:00'
+updated: '2026-02-20T05:37:59.372552+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 04:26 UTC  
+**Last Updated:** February 20, 2026 at 05:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding news, & Sam Altman funding updates on the $100B raise.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 15h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/openai-funding-round-nears-record-100b-raise-valuation-targets-850b/) • 16h ago
 
 ---
 
@@ -49,7 +49,15 @@ OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding
 
 Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
 
-7h ago
+9h ago
+
+---
+
+**[Creative Freedom OR Creative Homogenization? #Pomelli](https://www.reddit.com/r/artificial/comments/1r9m8s1/creative_freedom_or_creative_homogenization/)**
+
+Everyone is celebrating the new feature of Pomelli by Google but : If everyone uses the same AI tools to generate product visuals… do we get more creativity, or more sameness? Google Labs’ “Photoshoot” is powerful. The real impact? That’s the debate.
+
+40m ago
 
 ---
 
@@ -57,7 +65,7 @@ Built Makimus-AI, a free open source app that lets you search your entire image 
 
 Wanted to understand how the core transformer papers actually connect at the concept level - not just "Paper B cites Paper A" but what specific methods, systems, and ideas flow between them. I ran 12 foundational papers (Attention Is All You Need, BERT, GPT-2/3, Scaling Laws, ViT, LoRA, Chain-of-Thought, FlashAttention, InstructGPT, LLaMA, DPO) through https://github.com/juanceresa/sift-kg (open-source CLI) - point it at a folder of documents + any LLM, get a knowledge graph. 435-entity knowledge graph with 593 relationships for ~$0.72 in API calls (gpt 4o-mini). Graph: https://juanceresa.github.io/sift-kg/transformers/graph.html - interactive and runs in browser. Some interesting structural patterns: - GPT-2 is the most connected node - it's the hub everything flows through. BERT extends it, FlashAttention speeds it up, LoRA compresses it, InstructGPT fine-tunes it with RLHF - The graph splits into 9 natural communities. "Human Feedback and Reinforcement Learning" is the largest (24 entities), which tracks with how much of recent progress is RLHF-shaped - Chain-of-Thought Prompting bridges the reasoning cluster to the few-shot learning cluster - it's structurally a connector between two different research threads - Common Crawl and BooksCorpus show up as shared infrastructure nodes connecting multiple model lineages
 
-9h ago
+11h ago
 
 ---
 
@@ -65,7 +73,7 @@ Wanted to understand how the core transformer papers actually connect at the con
 
 Robots are getting more advanced every day, and in China, they are now flipping, spinning, and performing kung fu on national television.
 
-🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 12h ago
+🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 13h ago
 
 ---
 
@@ -73,7 +81,7 @@ Robots are getting more advanced every day, and in China, they are now flipping,
 
 "By applying new methods of machine learning to quantum chemistry research, Heidelberg University scientists have made significant strides in computational chemistry. They have achieved a major breakthrough toward solving a decades-old dilemma in quantum chemistry: the precise and stable calculation of molecular energies and electron densities with a so-called orbital-free approach, which uses considerably less computational power and therefore permits calculations for very large molecules. [...] How electrons are distributed in a molecule determines its chemical properties—from its stability and reactivity to its biological effect. Reliably calculating this electron distribution and the resulting energy is one of the central functions of quantum chemistry. These calculations form the basis of many applications in which molecules must be specifically understood and designed, such as for new drugs, better batteries, materials for energy conversion, or more efficient catalysts. Yet such calculations are computationally intensive and quickly become very elaborate. The larger the molecule becomes or the more variants that need checking, the sooner established computing processes reach their limits. The "Quantum Chemistry without Orbitals" project is positioned here at the interface of chemistry, physics, and AI research. In quantum chemistry, molecules are frequently described using density functional theory, which allows for the fundamental prediction of chemical molecular properties without having to calculate the quantum mechanical wave function. The electron density is used as the main quantity instead, a simplification that finally makes computations practicable. This orbital-free approach promises especially efficient calculations but until now was considered barely useful, since small deviations in the electron density led to unstable or "non-physical" results. With the aid of machine learning, the Heidelberg method finally solves this precision and stability problem for many different organic molecules. The new process called STRUCTURES25 is based on a specifically developed neural network that learns the relationship between electron density and energy directly from precise reference calculations, capturing the chemical environment of each individual atom in a mathematically detailed representation. A unique training concept was pivotal: The model was trained not only with converged electron densities, but also with many variants surrounding the correct solution, generated by targeted, controlled changes in the underlying reference calculations. This computing process is therefore able to reliably find a physically meaningful solution for molecular energies and electron densities even in the case of small deviations. It remains stable without "getting lost" in the calculation, the Heidelberg researchers emphasize. In tests on a large and diverse collection of organic molecules, STRUCTURES25 achieved a precision that can compete with established reference calculations, for the first time demonstrating a stable convergence using an orbital-free approach. The performance of the method was demonstrated not only on small examples, but on considerably larger "drug-like" molecules as well. Initial runtime comparisons prove that the computing process can scale better with growing molecule size and hence increase the speed of the calculation. Calculations formerly considered too elaborate are now within reach."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 9h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 11h ago
 
 ---
 
@@ -89,7 +97,7 @@ It has now turned into a full-blown social media meltdown, and authorities have 
 
 Anthropic updated their Claude Code Docs legal compliance page to explicitly ban the use of OAuth tokens from consumer plans (Free, Pro, Max) in any third-party tool or service. This means tools like Cline, Roo Code, OpenClaw, and anything using the Agent SDK with consumer OAuth tokens are now in violation of Anthropic's Terms of Service. Developers are told to use API key authentication only. Original discussion: https://www.reddit.com/r/ClaudeAI/comments/1r8t6mn/
 
-20h ago
+21h ago
 
 ---
 
@@ -97,7 +105,7 @@ Anthropic updated their Claude Code Docs legal compliance page to explicitly ban
 
 Seedance 2.0 API just went live, and I gave it a quick real-world test. It supports API, Skills, and MCP, and batch jobs are straightforward to submit. From integration to first successful run took me about a minute, and new users can test for free. If you’re producing video assets at scale, this may be useful: https://xskill.ai/#/?ref=S2VIIAQR
 
-15h ago
+16h ago
 
 ---
 
@@ -109,14 +117,6 @@ Seedance 2.0 API just went live, and I gave it a quick real-world test. It suppo
 
 ---
 
-**[Open-source benchmark EVMbench tests how well AI agents handle smart contract exploits](https://www.reddit.com/r/artificial/comments/1r8y11e/opensource_benchmark_evmbench_tests_how_well_ai/)**
-
-EVMbench is a new open-source benchmark designed to test AI agents on practical smart contract security tasks. The benchmark was developed by OpenAI and Paradigm, and it focuses on real-world vulnerability patterns drawn from audited codebases and contest reports.
-
-🔗 [Help Net Security](https://www.helpnetsecurity.com/2026/02/19/evmbench-open-source-benchmark-ai-agents/) • 15h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -125,7 +125,23 @@ EVMbench is a new open-source benchmark designed to test AI agents on practical 
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-blog.google • 12h ago
+blog.google • 13h ago
+
+---
+
+**[Practical AI skills for everyone](https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-professional-certificate/)**
+
+Get Google certified in the practical AI skills employers value most. Includes 3 months of Google AI Pro.
+
+blog.google • 15h ago
+
+---
+
+**[PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)**
+
+PromptSpy Android malware abuses Google Gemini to analyze screens, automate persistence, block removal, and enable VNC-based remote device control.
+
+The Hacker News • 12h ago
 
 ---
 
@@ -133,69 +149,53 @@ blog.google • 12h ago
 
 Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.
 
-BBC • 5h ago
+BBC • 6h ago
 
 ---
 
-**[New app allows users a chance to date AI](https://www.nbcnews.com/video/new-app-allows-users-a-chance-to-date-ai-258006085943)**
+**[Seedance 2.0: China’s latest AI is so good it’s spooked Hollywood. Will its tech sector pump the brakes?](https://www.cnn.com/2026/02/20/china/china-ai-seedance-intl-hnk-dst)**
 
-Eva AI, a new dating app, is allowing its users to find virtual love by having dates with artificial intelligence. NBC News' Valerie Castro reports on how the app works and even tests a virtual date herself.
+Over the past week, a slew of cinematic videos of celebrities and characters in absurd situations have gone viral online, with one commonality –– they were created using a new artificial intelligence tool from Chinese developer ByteDance, sparking anxiety over the fast-evolving capabilities of AI.
 
-NBC News • 1h ago
+CNN • 36m ago
 
 ---
 
-**[CSX CEO Touts AI Efficiency, U.S.-Led Growth and Service Gains at Barclays Industrial Conference](https://finance.yahoo.com/news/csx-ceo-touts-ai-efficiency-030715155.html)**
+**[Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)**
 
-CSX (NASDAQ:CSX) CEO Steve discussed the rail industry’s operating priorities, the company’s near-term focus, and his broader views on industrial demand and artificial intelligence during a keynote conversation at the Barclays 43rd Annual Industrial Select Conference. AI, industrial demand, and the
+The New York Times • 3d ago
+
+---
+
+**[Building India's EdTech and AI Roadmap for Equitable Learning for Every Child](https://finance.yahoo.com/news/building-indias-edtech-ai-roadmap-043000749.html)**
+
+Central Square Foundation (CSF) hosted the EdTech and AI Convening - Education Dialogues, a satellite event of the India AI Impact Summit, convening senior government leaders, philanthropies, global and Indian EdTech innovators, and education experts to reimagine how technology and AI can support learning at scale.
 
 Yahoo Finance • 1h ago
 
 ---
 
-**[Opinion | The A.I. Disruption Has Arrived, and It Sure Is Fun](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)**
+**[How Amazon Tracks Employee AI Usage—and Measures Results](https://www.theinformation.com/newsletters/applied-ai/amazon-tracks-employee-ai-usage-measures-results)**
 
-The New York Times • 1d ago
+Amazon prides itself on being data obsessed, and its approach to tracking its own employees’ use of AI has been no different.Amazon has been using an internal system called Clarity to track how often employees use AI tools in their work, two people with knowledge of the tracking said. (Clarity ...
 
----
-
-**[Deutsche Bank asked AI how it was planning to destroy jobs. And the robot answered](https://fortune.com/2026/02/18/will-ai-destroy-jobs-deutsche-bank-asks-ai-to-predict/)**
-
-It’s like looking into a crystal ball, or being told by your predator exactly how you’ll be consumed.
-
-Fortune • 1d ago
+The Information • 10h ago
 
 ---
 
-**[No one can agree on whether AI is the next big thing or all hype. Here’s why](https://www.cnn.com/2026/02/19/tech/ai-jobs-big-thing-hype)**
+**[Amazon's cloud unit hit by at least two outages involving AI tools, FT says](https://finance.yahoo.com/news/amazons-cloud-unit-hit-least-051016019.html)**
 
-AI is either your most helpful coworker, a glorified search engine or vastly overrated depending on who you ask.
+Amazon's ‌cloud ‌unit has suffered ​at least two outages ‌stemming ⁠from errors involving ⁠its own ​AI ​tools, ​the Financial ‌Times reported on Friday, citing ‌people ​familiar ​with ​the ‌matter. Reuters could not ​immediately ​verify the ​report. (Reporting ‌by Ananya ​Palyekar in ​Bengaluru)
 
-CNN • 17h ago
-
----
-
-**[Accenture tells senior staff to use AI tools or risk losing out on leadership promotions](https://www.cnbc.com/2026/02/19/accenture-ai-orders-senior-staff-lose-out-promotions.html)**
-
-Accenture started tracking how often senior staff are logging in to its AI tools this month saying AI adoption will be a "visible input to talent discussions."
-
-CNBC • 13h ago
+Yahoo Finance • 27m ago
 
 ---
 
-**[The People vs. AI](https://time.com/7377579/ai-data-centers-people-movement-cover/)**
+**[Amazon service was taken down by AI coding bot](https://www.ft.com/content/00c282de-ed14-4acd-a948-bc8d6bdb339d)**
 
-Across red states and blue, a grassroots movement is pushing back on the unchecked growth of the artificial intelligence industry.
+Tech giant blames ‘user error, not AI error’ for incident in December involving its Kiro tool
 
-Time Magazine • 13h ago
-
----
-
-**[Michael Pollan says AI may 'think' — but it will never be conscious](https://www.npr.org/2026/02/19/nx-s1-5713514/michael-pollan-ai-consciousness-a-world-appears)**
-
-"Consciousness is under siege," says author Michael Pollan. His new book, A World Appears, explores consciousness on both a personal and technological level.
-
-NPR • 11h ago
+Financial Times • 37m ago
 
 ---
 
@@ -216,7 +216,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 566 • 💬 321 • 10h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 575 • 💬 324 • 11h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
@@ -236,6 +236,12 @@ opinion: The subtractive bias we're ignoring
 
 ---
 
+**[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
+
+⬆️ 221 • 💬 168 • 2h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+
+---
+
 **[The Future of AI Software Development](https://news.ycombinator.com/item?id=47062534)**
 
 fragments 18 Feb 2026
@@ -248,7 +254,7 @@ fragments 18 Feb 2026
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 186 • 💬 202 • 8h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 193 • 💬 207 • 9h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -256,13 +262,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Artificial intelligence promises to reshape economies worldwide, but firm-level evidence on its effects in Europe remains scarce. This column uses survey data to examine how AI adoption affects productivity and employment across more than 12,000 European firms. The authors find that AI adoption increases labour productivity levels by 4% on average in the EU, with no evidence of reduced employment in the short run. The productivity benefits, however, are unevenly distributed. Medium and large firms, as well as firms that have the capacity to integrate AI through investments in intangible assets and human capital, experience substantially stronger productivity gains.
 
-⬆️ 165 • 💬 129 • 1d ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
-
----
-
-**[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
-
-⬆️ 149 • 💬 86 • 1h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 165 • 💬 130 • 1d ago • [CEPR](https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe)
 
 ---
 
@@ -290,7 +290,7 @@ In this episode I dive into the new wave of AI music released on music streaming
 
 📺 Rick Beato
 
-👁️ 264K • 👍 23K • 💬 5K • ⏱️ 6:14 • 7h ago
+👁️ 264K • 👍 23K • 💬 5K • ⏱️ 6:14 • 9h ago
 
 ---
 
@@ -300,7 +300,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n
 
 📺 Dan Martell
 
-👁️ 30K • 👍 2K • 💬 71 • ⏱️ 19:58 • 14h ago
+👁️ 30K • 👍 2K • 💬 71 • ⏱️ 19:58 • 15h ago
 
 ---
 
@@ -310,7 +310,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 13K • 👍 542 • 💬 22 • ⏱️ 12:14 • 5h ago
+👁️ 13K • 👍 542 • 💬 22 • ⏱️ 12:14 • 6h ago
 
 ---
 
@@ -330,7 +330,7 @@ A ByteDance AI-generated video that appears to show Brad Pitt and Tom Cruise in 
 
 📺 CBS News
 
-👁️ 18K • 👍 241 • 💬 150 • ⏱️ 7:10 • 8h ago
+👁️ 18K • 👍 241 • 💬 150 • ⏱️ 7:10 • 10h ago
 
 ---
 
@@ -350,7 +350,7 @@ At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelli
 
 📺 DRM News
 
-👁️ 28K • 👍 375 • 💬 181 • ⏱️ 4:56 • 22h ago
+👁️ 28K • 👍 375 • 💬 181 • ⏱️ 4:56 • 23h ago
 
 ---
 
@@ -360,7 +360,7 @@ Check out Brilliant Here: https://brilliant.org/AILABS/ Community with All Resou
 
 📺 AI LABS
 
-👁️ 15K • 👍 418 • 💬 19 • ⏱️ 10:11 • 12h ago
+👁️ 15K • 👍 418 • 💬 19 • ⏱️ 10:11 • 13h ago
 
 ---
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust`
 
-⭐ 15.2k • 🔱 1.6k • 59s ago
+⭐ 15.2k • 🔱 1.6k • 1h ago
 
 ---
 
@@ -678,7 +678,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `Python`
 
-⭐ 4.0k • 🔱 458 • 13h ago
+⭐ 4.0k • 🔱 458 • 14h ago
 
 ---
 
@@ -698,7 +698,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.0k • 🔱 302 • 10h ago
+⭐ 3.0k • 🔱 302 • 12h ago
 
 ---
 
@@ -708,7 +708,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.7k • 🔱 332 • 11h ago
+⭐ 2.7k • 🔱 332 • 12h ago
 
 ---
 
@@ -718,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 175 • 1h ago
+⭐ 2.6k • 🔱 175 • 2h ago
 
 ---
 
