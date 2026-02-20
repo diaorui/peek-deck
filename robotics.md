@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T21:26:22.664827+00:00'
+updated: '2026-02-20T21:50:52.289882+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 21:26 UTC  
+**Last Updated:** February 20, 2026 at 21:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,9 +56,31 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 ---
 
-**[Good Boy](https://www.reddit.com/r/robotics/comments/1ra54wk/good_boy/)**
+**[Gazebo Community Meeting: Generating Simulated Terrain from Drone and Satellite Data](https://www.reddit.com/r/robotics/comments/1ra6zhh/gazebo_community_meeting_generating_simulated/)**
+
+Join us online Wednesday, February 25th at 2pm PT. All are welcome to attend. RSVP Here
 
 1h ago
+
+---
+
+**[Real time synchronization of a 3 DOF Robotic Arm | A Digital Twin Robotic Arm Project](https://www.reddit.com/r/robotics/comments/1ra6pnp/real_time_synchronization_of_a_3_dof_robotic_arm/)**
+
+A bidirectional Digital Twin for a 3-DOF robotic arm, built using Arduino, Unity 3D, and Serial Communication. This project creates a real time connection between the physical robotic arm and its digital twin, enabling: Physical to Digital: Potentiometer sensors drive the Unity model in real-time. Digital to Physical: Adjusting the Unity model actuates the real servos via serial commands. Technical Highlights: Euler Angle Mapping to accurately mirror joint rotations between Unity and hardware. (I have explained euler angles in my documentation) State Machine Implementation to prevent jittering and data collisions. Hardware: Arduino Uno, 3x MG90S Servos, 3x 10k Potentiometers, isolated power rails. Challenges & Solutions: Mesh Deformation in Unity that were resolved with pivot/mesh hierarchy normalization. Coordinate System Mismatch that i solved via mapping and axis inversion. Latency issues were solved with manual/monitor mode toggle. Skills Demonstrated: Robotics, Embedded Systems, C++/C#, Unity3D, Electronics, Real-Time Systems, Digital Twin Architecture. I’ve documented everything, including circuit diagrams, code, and live demo, on my GitHub: https://github.com/D1Ahmed/Robotic-Arm-3DOF-arduino-and-unity I'll prefer u guys to checkout the Documentation on my github, and if anyone is interested this project and wanna clear their doubts, I am available to share my knowledge. This project not only strengthened my understanding of cyber+physical systems but also reinforced my ability to integrate hardware and software seamlessly. #Robotics #DigitalTwin #Unity3D #Arduino #EmbeddedSystems #CyberPhysicalSystems #Innovation #Engineering #Electronics #RealtimeSimulation
+
+1h ago
+
+---
+
+**[Good Boy](https://www.reddit.com/r/robotics/comments/1ra54wk/good_boy/)**
+
+2h ago
+
+---
+
+**[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
+
+22h ago
 
 ---
 
@@ -66,19 +88,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
 
-6h ago
-
----
-
-**[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
-
-21h ago
+7h ago
 
 ---
 
 **[What is the ideal shutdown procedure for an Epson RS4 robot (or industrial SCARA robots in general)?](https://www.reddit.com/r/robotics/comments/1r9zy46/what_is_the_ideal_shutdown_procedure_for_an_epson/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -90,31 +106,15 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 ---
 
-**[My Unitree Go2 Pro Setup](https://www.reddit.com/r/robotics/comments/1r8uw3u/my_unitree_go2_pro_setup/)**
-
-[Disclaimer: This text was not touched by AI, this is solely by me, so a few formulation issues might be hidden in there] TLDR: - With some tricks, even the cheaper quadruped models can be used for complex tasks - Reliable and low-latency remote operation and monitoring is hard. But here, wireless is usually the bottleneck, not the VPN - Foxglove UI is pretty neat (not fully open-source) - Having a good dev environment setup from the start is invaluable - A lot can be done with a pure open-source stack! The video shows a setup I've been working on for a while now. Early last year, I took quite a portion of my savings to get my hands on a quadruped robot. These savings did not even get me the full ROS2-ready setup that one needs to actually build a cool application, I had to make quite a few detours (some that probably voided the warranty, but let us not get deeper into it). In any case, I had time the last few days (and nights) to finally setup a clean and performant development and introspection environment for my robot. As you can see from the video, this includes full remote control and monitoring of the inner going-ons. I initially tried sending the whole DDS traffic through my network, but due to obvious overhead reasons, this was not really scalable, especially when wanting a live feed of camera and LiDAR data that is low latency enough for "secure" remote manipulation. The next iteration took me down the road of WebRTC, a protocol that only transmits frame differences, reducing traffic significantly. The results for the camera streams were impressive, but this meant I would have to tackle a conversion layer for each topic, again not a clean solution. Finally, I tried out Foxglove. Although not fully open-source, they use a web socket connection, therefore again avoiding DDS congestion. While it might seem a bit less performant than the custom WebRTC solution, the amazing UI and compatability with my ROS2 setup speaks for itself. Also by the way, the setup above is not solely within a local network! I can spin up this bad boy all over the world through my self-hosted Headscale VPN (WireGuard on the backend). Through testing (and some help with the friends at Technologiehub Wien), I found out that the VPN latency is less of a bottleneck than the wireless connection. Making sure that a non-crowded 5GHz channel is used was an enormous performance boost. Concerning the ROS2 setup, everything is ready to add Nav2 support. LiDAR access works, tf tree looks good and odometry information is also already there. This will be the task to tackle next. The whole setup is dockerized and remote development is pretty easy through the SSH connection via the VPN and a custom devcontainer (although it took a while to get ROS2 Jazzy + CUDA cores working correctly...). In case anyone has read this far: - Should I open-source my setup (including VPN optimizations)? - Any idea how I can get my invested money back? (Not a big issue, I learned so much and am having a blast!) - What would you do with this robot? - Any improvement suggestions? Thats it, goodbye and thank's for the fish!
-
-1d ago
-
----
-
-**[Odom being inverted](https://www.reddit.com/r/robotics/comments/1r9n70l/odom_being_inverted/)**
-
-Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1TENTH/VESC setup. I’m hitting a wall with odom calibration: my physical car moves forward, but /odom and RViz show it moving backward. No matter how I flip the motor rotation, the odometry is always flipped in rViz. I’ve tried flipping the motor direction on the motor controller itself (VESC), tried to flip the polarity, and tried to flip the direction that the vesc_to_odom node calculates, but it continues to move forward, but show that the robot is running backwards on rviz, and on the /odom topic. Has anyone encountered this 'persistent inversion' before, or is there a specific parameter in the config I might be overlooking? Thanks!
-
-15h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[China's robotics giant puts 200 robots to the test](https://www.foxnews.com/tech/china-robotics-giant-puts-200-robots-test)**
+**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html)**
 
-Agibot stages live televised gala with over 200 humanoid robots in Shanghai, featuring synchronized dancing, martial arts and acrobatic performances.
+Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
-Fox News • 7h ago
+CNBC • 13h ago
 
 ---
 
@@ -134,6 +134,22 @@ The Robot Report • 3h ago
 
 ---
 
+**[A neural blueprint for human-like intelligence in soft robots](https://news.mit.edu/2026/neural-blueprint-human-intelligence-in-soft-robots-0219)**
+
+A new AI control system enables soft robotic arms to learn a wide repertoire of motions and tasks once, then adjust to new scenarios on the fly without needing retraining or sacrificing functionality. The work was co-led by researchers at the Singapore-MIT Alliance for Research and Technology (SMART).
+
+MIT News • 1d ago
+
+---
+
+**[Robotics trade in focus: 2 overlooked stock picks](https://finance.yahoo.com/video/robotics-trade-focus-2-overlooked-113006524.html)**
+
+As part of Yahoo Finance's Bot & Sold robotics special, KraneShares senior investment strategist Derek Yan joins Asking for a Trend host Josh Lipton to share his top stock picks in the robotics sector. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
 
 Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
@@ -142,11 +158,11 @@ Automotive News • 1d ago
 
 ---
 
-**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
+**[A robotic dog made in China gets an Indian university kicked out of an AI summit](https://www.nbcnews.com/world/asia/robotic-dog-made-china-gets-indian-university-kicked-ai-summit-rcna259682)**
 
-Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
+A professor said the robot was developed at Galgotias University, but internet users quickly identified it as being commercially available from China’s Unitree Robotics.
 
-TechCrunch • 2d ago
+NBC News • 1d ago
 
 ---
 
@@ -156,33 +172,19 @@ Zacks Investment Research • 1d ago
 
 ---
 
-**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.fool.com/investing/2026/02/20/teslas-3-trillion-opportunity-how-optimus-could-do/)**
+**[New Technique for 3D Printing Artificial Muscle Paves the Way for More Freaky Robots](https://gizmodo.com/new-technique-for-3d-printing-artificial-muscle-paves-the-way-for-more-freaky-robots-2000724201)**
 
-Tesla has a few robotics advantages that it's tapping into.
+Never enough robots!
 
-The Motley Fool • 1h ago
-
----
-
-**[Chinese AI and robotics firms appoint millennial, Gen Z stars as chief scientists](https://www.scmp.com/tech/big-tech/article/3343042/chinese-ai-and-robotics-firms-appoint-millennial-and-gen-z-rising-stars-chief-scientists)**
-
-Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
-
-South China Morning Post • 1d ago
+Gizmodo • 4h ago
 
 ---
 
-**[Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings](https://247wallst.com/investing/2026/02/20/beyond-tesla-and-nvidia-2-overlooked-robotics-stocks-just-blew-out-earnings/)**
+**[Humanoid home robots are on the market – but do we really want them?](https://theconversation.com/humanoid-home-robots-are-on-the-market-but-do-we-really-want-them-270370)**
 
-Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
+A robot butler sounds like a nice idea, but the technology has its drawbacks.
 
-24/7 Wall St. • 7h ago
-
----
-
-**[Columbus AI robotics company signs R&D deal with nation's largest shipbuilder](https://www.bizjournals.com/columbus/news/2026/02/18/path-robotics-hii-ai-welding-shipbuilding.html)**
-
-The Business Journals • 2d ago
+The Conversation • 21h ago
 
 ---
 
