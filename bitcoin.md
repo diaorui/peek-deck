@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T22:57:07.271255+00:00'
+updated: '2026-02-20T23:33:19.395039+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - cryptocurrency
+- videos
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 22:57 UTC  
+**Last Updated:** February 20, 2026 at 23:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
 
-10h ago
+11h ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Been tracking the Bitcoin Power Law model for a while now. Here's this week's update. BTC is sitting at $67,745. Power Law fair value is around $123,947 — about 45% below fair value. Oscillator reads 13.7% The oscillator has ticked up marginally from 13.6% to 13.7%, remaining firmly entrenched in the Deep Buy Zone (0–25%). This is historically rare territory that typically occurs only 1–2 times per halving cycle. The oscillator's EMA(150) at 31.2% remains below its EMA(350) at 37.7%, maintaining a bearish spread of -6.5 points. This configuration — deep value combined with bearish momentum — represents the model's maximum accumulation signal. Full breakdown with charts here if anyone's interested: https://timetobuybitcoin.com/analysis/maximum-accumulation-zone-deepens-oscillator-at-137-amid-his-2026-02-20 Not financial advice, just sharing the data. Curious what you guys think.
 
-5h ago
+6h ago
 
 ---
 
@@ -101,13 +101,13 @@ Been tracking the Bitcoin Power Law model for a while now. Here's this week's up
 
 I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
 
-1h ago
+2h ago
 
 ---
 
 **[Money Printer Go Brrrr Again](https://www.reddit.com/r/Bitcoin/comments/1ra60h8/money_printer_go_brrrr_again/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -115,7 +115,7 @@ I've been in crypto for about three years now and I noticed something weird late
 
 We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentally different from previous cycles. In the past, both transaction count and total volume dropped. This time, they have not. Why?
 
-8h ago
+9h ago
 
 ---
 
@@ -123,7 +123,7 @@ We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentall
 
 Bickerstaff had the opportunity to go hard on Bitcoin, but missed it.
 
-🔗 [Basketball Network](https://www.basketballnetwork.net/off-the-court/j-b-bickerstaff-regrets-not-investing-in-bitcoin-back-in-2016) • 1h ago
+🔗 [Basketball Network](https://www.basketballnetwork.net/off-the-court/j-b-bickerstaff-regrets-not-investing-in-bitcoin-back-in-2016) • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ Bickerstaff had the opportunity to go hard on Bitcoin, but missed it.
 
 I’ve been thinking less about short-term price lately and more about what Bitcoin could actually look like 10–20 years from now. Not in terms of “how high does it go,” but in terms of real usage. Like… what happens if adoption just keeps growing? More people self-custodying instead of leaving coins on exchanges. More businesses accepting BTC directly. Cross-border payments without needing banks in the middle. People choosing to save in something with a fixed supply instead of constantly inflating currencies. At some point, if that trend continues, Bitcoin stops being seen as just a speculative asset and starts looking more like infrastructure. A base layer. A monetary network that people actually rely on. And historically, when a new monetary network gains critical mass, the people who paid attention early weren’t just “lucky.” They understood what was happening before it became obvious to everyone else. So for me the real question isn’t will price go up. It’s what happens if a censorship resistant, fixed-supply asset just keeps gaining adoption globally. Curious how others here think about the 10–20 year outlook, purely from a network and usage perspective.
 
-12h ago
+13h ago
 
 ---
 
@@ -139,7 +139,7 @@ I’ve been thinking less about short-term price lately and more about what Bitc
 
 Made a simple BTC calculator that charts historical returns over time. It supports recurring buys or one time investments. You can change: Amount Start date Contribution schedule (one time, monthly, yearly, etc) It’s mainly to visualize how different entry points and recurring buys play out across cycles.
 
-🔗 [WhatIfInvest](https://www.whatifinvest.com/calculators/BTC_USD) • 6h ago
+🔗 [WhatIfInvest](https://www.whatifinvest.com/calculators/BTC_USD) • 7h ago
 
 ---
 
@@ -147,7 +147,7 @@ Made a simple BTC calculator that charts historical returns over time. It suppor
 
 I had no idea. https://preview.redd.it/a5k0ycsx7qkg1.png?width=368&format=png&auto=webp&s=962d7c35c3025e75c007f8f546a8b54a374e1328
 
-24m ago
+1h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 2h ago
 
 Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
@@ -191,7 +191,7 @@ Fortune • 13h ago
 
 Hotter inflation and slower growth delivers a messy message with the Federal Reserve likely take its time before any policy changes, one analyst said.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -207,13 +207,13 @@ Bitcoin Magazine • 6h ago
 
 Crypto prices edged higher on Friday despite a splash of tariff turbulence after the U.S. Supreme Court ruled Trump's levies illegal.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bloomington man loses $7,600 in Bitcoin to suspect posing as sheriff’s deputy in jury duty scam](https://fox59.com/news/indynews/bloomington-man-loses-7600-in-bitcoin-to-suspect-posing-as-sheriffs-deputy-in-jury-duty-scam/)**
 
-Fox 59 • 1h ago
+Fox 59 • 2h ago
 
 ---
 
@@ -275,7 +275,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 4h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 5h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
@@ -303,7 +303,7 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 13h ago
+⬆️ 1 • 💬 0 • 14h ago
 
 ---
 
@@ -317,7 +317,7 @@ Aliens, Bitcoin, Tesla, and altcoin updates as Clarity Act looms. BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 14K • 👍 719 • 💬 107 • ⏱️ 17:34 • 11h ago
+👁️ 14K • 👍 719 • 💬 107 • ⏱️ 17:34 • 12h ago
 
 ---
 
@@ -337,7 +337,7 @@ https://youtu.be/RThI3UUSpwc?si=t0m9cQVPXyt35ZMD BUY ONE 1-STEP CHALLENGE → GE
 
 📺 100XClub
 
-👁️ 9K • 👍 920 • 💬 323 • ⏱️ 9:49 • 12h ago
+👁️ 9K • 👍 920 • 💬 323 • ⏱️ 9:49 • 13h ago
 
 ---
 
@@ -347,7 +347,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 19K • 👍 1K • 💬 56 • ⏱️ 55:11 • 6h ago
+👁️ 19K • 👍 1K • 💬 56 • ⏱️ 55:11 • 7h ago
 
 ---
 
@@ -357,7 +357,7 @@ Michael Saylor finally admits bitcoin is in a bear market - but the question is 
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 269 • 💬 52 • ⏱️ 1:11:34 • 3h ago
+👁️ 4K • 👍 269 • 💬 52 • ⏱️ 1:11:34 • 4h ago
 
 ---
 
@@ -377,7 +377,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 4K • 👍 233 • 💬 14 • ⏱️ 46:49 • 7h ago
+👁️ 4K • 👍 233 • 💬 14 • ⏱️ 46:49 • 8h ago
 
 ---
 

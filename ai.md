@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T22:57:07.262967+00:00'
+updated: '2026-02-20T23:33:19.386566+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 22:57 UTC  
+**Last Updated:** February 20, 2026 at 23:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 9h ago
+🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 10h ago
 
 ---
 
@@ -81,7 +81,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 We’ve been running voice AI agents in production for 18+ months doing real phone calls (outbound lead qualification and inbound customer care). During this time we’ve tested multiple TTS providers. Sharing our honest assessment because most “comparisons” online are either sponsored or based on 30-second demos, not thousands of hours of real phone conversations. Important context: our use case is Italian-language phone calls over standard telephony (not VoIP, not in-app), which is a harder test than English because fewer models are optimized for it. We process audio at 16kHz. ElevenLabs (currently in production): Best Italian voice quality by far. Prosody is natural, handles pauses well, emotional range is good. Latency for TTS generation is acceptable in our streaming setup. Downsides: pricing at scale gets expensive, and occasionally the voice “glitches” on certain phonemes. We’ve found that the voice stability is very dependent on how you structure your input text — short sentences work dramatically better than long ones. Azure Neural TTS: Rock solid reliability, great latency, good pricing. Italian voices are okay but sound “flat” compared to ElevenLabs — like a newsreader vs a real person. For customer care this works fine. For outbound sales calls where you need warmth and persuasion, it wasn’t cutting it. PlayHT: Tested their v2 API. English quality is impressive. Italian was noticeably worse — unnatural stress patterns, weird pauses between words. Might work for English-only deployments. Cartesia: Very promising on latency (their streaming is genuinely fast). Voice quality for English is good. Italian support was limited when we tested. Worth watching. The metric that matters most for us isn’t MOS score or any standard quality metric — it’s what we call “first 5 second detection rate,” meaning how often the person being called realizes they’re talking to AI within the first 5 seconds. With ElevenLabs we’re at roughly 15-20%. With Azure it was closer to 40%. That gap is massive for outbound conversion. Has anyone done serious production testing of TTS providers for non-English languages? Also very curious about Cartesia’s Italian/European language support — their architecture seems promising but I haven’t seen real multilingual benchmarks. And for anyone using Deepgram or AssemblyAI on the STT side: how’s Italian transcription accuracy for you?
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Built Makimus-AI, a free open source app that lets you search your entire image 
 
 **[A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.](https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -161,7 +161,7 @@ We Ain't Got No History • 1h ago
 
 **[AMC Theatres refuses to screen AI film that sparked online backlash](https://ktla.com/news/nationworld/amc-theatres-refuses-to-screen-ai-film-that-sparked-online-backlash/)**
 
-KTLA • 2h ago
+KTLA • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ BBC • 1d ago
 
 The five-day event mixed long lines and viral mishaps with a serious pitch: The future of AI shouldn’t be written only in Washington and Beijing.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ NBC News • 2h ago
 
 Over the past week, a slew of cinematic videos of celebrities and characters in absurd situations have gone viral online, with one commonality –– they were created using a new artificial intelligence tool from Chinese developer ByteDance, sparking anxiety over the fast-evolving capabilities of AI.
 
-CNN • 17h ago
+CNN • 18h ago
 
 ---
 
@@ -222,7 +222,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 636 • 💬 368 • 12h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 636 • 💬 368 • 13h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -236,7 +236,7 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 505 • 💬 452 • 19h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 505 • 💬 452 • 20h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -288,7 +288,7 @@ We're reaching this thing where we're realising that everybody made a huge mista
 
 📺 The Tech Report
 
-👁️ 43K • 👍 3K • 💬 910 • ⏱️ 26:37 • 5h ago
+👁️ 43K • 👍 3K • 💬 910 • ⏱️ 26:37 • 6h ago
 
 ---
 
@@ -318,7 +318,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 43K • 👍 1K • 💬 46 • ⏱️ 12:14 • 23h ago
+👁️ 43K • 👍 1K • 💬 46 • ⏱️ 12:14 • 1d ago
 
 ---
 
@@ -328,7 +328,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 188K • 👍 11K • 💬 4K • ⏱️ 28:51 • 1d ago
+👁️ 188K • 👍 11K • 💬 4K • ⏱️ 28:51 • 2d ago
 
 ---
 
@@ -348,7 +348,7 @@ Dr. K's Guide empowers your mental health journey with evidenced-based resources
 
 📺 HealthyGamerGG
 
-👁️ 222K • 👍 12K • 💬 2K • ⏱️ 12:22 • 1d ago
+👁️ 222K • 👍 12K • 💬 2K • ⏱️ 12:22 • 2d ago
 
 ---
 
@@ -358,7 +358,7 @@ After the AI animated short Thanksgiving Day film won a contest to premiere in t
 
 📺 Vailskibum
 
-👁️ 22K • 👍 3K • 💬 648 • ⏱️ 2:50 • 2h ago
+👁️ 22K • 👍 3K • 💬 648 • ⏱️ 2:50 • 3h ago
 
 ---
 
@@ -394,7 +394,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text`
 
-⬇️ 105,189 • ❤️ 768 • 17h ago
+⬇️ 105,189 • ❤️ 768 • 18h ago
 
 ---
 
@@ -648,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.8k • 🔱 1.7k • 2h ago
+⭐ 15.8k • 🔱 1.7k • 3h ago
 
 ---
 
@@ -676,7 +676,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.5k • 🔱 531 • 14h ago
+⭐ 4.5k • 🔱 531 • 15h ago
 
 ---
 
@@ -686,7 +686,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.8k • 🔱 176 • 17d ago
+⭐ 3.8k • 🔱 176 • 18d ago
 
 ---
 
@@ -696,7 +696,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 309 • 15h ago
+⭐ 3.1k • 🔱 309 • 16h ago
 
 ---
 

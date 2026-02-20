@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T22:57:07.280313+00:00'
+updated: '2026-02-20T23:33:19.404302+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 22:57 UTC  
+**Last Updated:** February 20, 2026 at 23:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
-10h ago
+11h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 My goal is to do a robotics startup, current robotics masters student here going for a PhD soonish. What field of robotics do you guys think has the most potential for a successful startup? I want to do field robotics specifically. My biggest 2 rn is marine and space robotics, I would ideally find a lab that works in one of those areas and contribute/learn as much as I can.
 
-6m ago
+42m ago
 
 ---
 
@@ -102,7 +102,7 @@ I had a daydream to help scientists find out more information from rare caves of
 
 **[What is the ideal shutdown procedure for an Epson RS4 robot (or industrial SCARA robots in general)?](https://www.reddit.com/r/robotics/comments/1r9zy46/what_is_the_ideal_shutdown_procedure_for_an_epson/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -114,7 +114,7 @@ I had a daydream to help scientists find out more information from rare caves of
 
 Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
-CNBC • 14h ago
+CNBC • 15h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 14h ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 11h ago
+Business Insider • 12h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Insider • 11h ago
 
 NORD said this allows engineers to verify whether the drive concept is suitable for the system early in the planning phase.
 
-The Robot Report • 4h ago
+The Robot Report • 5h ago
 
 ---
 
@@ -184,7 +184,7 @@ Gizmodo • 5h ago
 
 A robot butler sounds like a nice idea, but the technology has its drawbacks.
 
-The Conversation • 22h ago
+The Conversation • 23h ago
 
 ---
 
@@ -258,7 +258,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 13K • 👍 1K • 💬 277 • ⏱️ 14:51 • 7h ago
+👁️ 13K • 👍 1K • 💬 277 • ⏱️ 14:51 • 8h ago
 
 ---
 
