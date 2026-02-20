@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T14:11:07.919680+00:00'
+updated: '2026-02-20T15:07:27.505251+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 14:11 UTC  
+**Last Updated:** February 20, 2026 at 15:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[China's autonomous "killer robots"](https://www.reddit.com/r/robotics/comments/1r9j1k0/chinas_autonomous_killer_robots/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
-2h ago
+3h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 **[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 If you're looking to get into VLA / robot foundation models but not sure where to start, I made a curated reading list that covers the path from diffusion model basics to the latest architectures like π0, GR00T N1, and DreamZero. What's covered (6 phases, 30 papers): Phase 1: Generative foundations — MIT 6.S184 (flow matching & diffusion) Phase 2: Early robot models — RT-1 → RT-2 → Octo → OpenVLA, Diffusion Policy, ACT Phase 3: Current architectures — π0, GR00T N1, CogACT, X-VLA, InternVLA-M1 Phase 4: Data scaling — OXE, AgiBot World, UMI, human video transfer Phase 5: Efficient inference — SmolVLA, RTC, dual-system (Helix, Fast-in-Slow) Phase 6: RL fine-tuning, reasoning & world models — HIL-SERL, π*0.6, CoT-VLA, ThinkAct, DreamZero Designed for a study group format (1–2 paper presentations/week + discussion), but works fine for self-study too. Prerequisites are basic DL fundamentals — recommended courses included. 🔗 GitHub: https://github.com/MilkClouds/awesome-vla-study Feedback and paper suggestions welcome — open an issue or PR.
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1TENTH/VESC setup. I’m hitting a wall with odom calibration: my physical car moves forward, but /odom and RViz show it moving backward. No matter how I flip the motor rotation, the odometry is always flipped in rViz. I’ve tried flipping the motor direction on the motor controller itself (VESC), tried to flip the polarity, and tried to flip the direction that the vesc_to_odom node calculates, but it continues to move forward, but show that the robot is running backwards on rviz, and on the /odom topic. Has anyone encountered this 'persistent inversion' before, or is there a specific parameter in the config I might be overlooking? Thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -88,13 +88,13 @@ Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1
 
 Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in March Agents & Robotics HackXelerator™ 2026 is a 20-day innovation event running 27 March - 17 April 2026. Builders create working AI systems focused on agents, robotics, and embodied intelligence. This event combines hackathon energy with accelerator structure, featuring both online participation and in-person gatherings (London kick-off on March 29, Berlin showcase on April 17). Choose from four mission tracks: • Mission 1: Digital Agents & Multi-Agent Systems • Mission 2: Autonomous Systems & Embodied AI • Mission 3: Human-Robot Interaction & Social Robotics • Mission 4: Ethics, Agency & Societal Impact Cash and non-cash prizes (GPUs) will be awarded -- details soon to be up on website Sign up at https://www.kxsb.org/ar26
 
-23h ago
+1d ago
 
 ---
 
 **[Doly SDK](https://www.reddit.com/r/robotics/comments/1r96fpt/doly_sdk/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds laundry. Price is $8,000 upfront or $450 per month. The system handles shirts, pants, and towels autonomously, with short remote interventions when it gets stuck. The approach is to ship a simplified system now, operate it in real homes, and iterate from there rather than waiting for a fully generalized household robot.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 20h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 21h ago
 
 ---
 
@@ -114,7 +114,7 @@ Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds la
 
 Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 5h ago
 
 The robots will be unloading totes full of auto parts from an automated warehouse tugger.
 
-TechCrunch • 17h ago
+TechCrunch • 18h ago
 
 ---
 
@@ -130,7 +130,7 @@ TechCrunch • 17h ago
 
 Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
 
-24/7 Wall St. • 26m ago
+24/7 Wall St. • 1h ago
 
 ---
 
@@ -138,7 +138,7 @@ Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TS
 
 Laboratory robotics is shifting from scripted automation towards autonomous systems that can perceive, decide and act robustly in real experimental environments. Here, the authors introduce the ADePT framework, comprising adaptability and learning, dexterity, perception and task complexity, to benchmark robotic capability, expose key bottlenecks and chart practical routes towards truly self-driving laboratories.
 
-Nature • 8h ago
+Nature • 9h ago
 
 ---
 
@@ -146,7 +146,7 @@ Nature • 8h ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 3h ago
+Business Insider • 4h ago
 
 ---
 
@@ -154,13 +154,13 @@ Business Insider • 3h ago
 
 Robots should handle the heavy, repetitive, behind-the-scenes work that wears people down. When that happens, employees can spend more time on service, communication, and the parts of the job that improve the guest experience.
 
-Robotics Tomorrow • 24m ago
+Robotics Tomorrow • 1h ago
 
 ---
 
 **[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -168,7 +168,7 @@ Forbes • 20h ago
 
 Investors poured over $9 billion into global AI-focused seed rounds over the past six months, per Crunchbase data. Areas they favored include cybersecurity, multimedia AI, robotics and desk work automation.
 
-Crunchbase News • 2h ago
+Crunchbase News • 3h ago
 
 ---
 
@@ -182,7 +182,7 @@ Robohub • 1h ago
 
 body { font-size: 16px; line-height: 34px; ...
 
-Gasgoo • 1h ago
+Gasgoo • 2h ago
 
 ---
 
@@ -190,23 +190,13 @@ Gasgoo • 1h ago
 
 ## YouTube Videos: "robotics"
 
-**[Humanoid robots perform advanced Kung Fu during Chinese New Year event](https://www.youtube.com/watch?v=CRgUDR6GeYc)**
-
-Sky News host Freya Leach reacts to a video showing robots performing advanced level marital arts at a Chinese New Year event ...
-
-📺 Sky News Australia
-
-👁️ 17K • 👍 191 • 💬 173 • ⏱️ 1:13 • 1d ago
-
----
-
 **[How Unitree Trained Robots to Master Real Kung Fu Moves](https://www.youtube.com/watch?v=VPRIl-j-T7Q)**
 
 Unitree's humanoid robots did not just perform kung fu on stage. They trained for it like professional athletes. In this video, we ...
 
 📺 DPCcars
 
-👁️ 133K • 👍 2K • 💬 762 • ⏱️ 2:00 • 2d ago
+👁️ 135K • 👍 2K • 💬 763 • ⏱️ 2:00 • 2d ago
 
 ---
 
@@ -216,7 +206,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 332K • 👍 2K • 💬 849 • ⏱️ 2:36 • 2d ago
+👁️ 339K • 👍 2K • 💬 860 • ⏱️ 2:36 • 2d ago
 
 ---
 
@@ -226,61 +216,77 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 122K • 👍 1K • 💬 1K • ⏱️ 3:42 • 1d ago
+👁️ 129K • 👍 1K • 💬 1K • ⏱️ 3:42 • 1d ago
 
 ---
 
-**[A Whole Bunch of Robots Sending New Year Greetings to Everyone!](https://www.youtube.com/watch?v=w4IOJH9Akhg)**
+**[Unitree Robotics Has BIG Expansion Plans #robotics #unitreeg1 #humanoidrobots](https://www.youtube.com/watch?v=56rf2teQoeU)**
 
-The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Cooperative Rapid Scheduling System.
+Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
 
-📺 Unitree Robotics
+📺 Kalil 4.0
 
-👁️ 328K • 👍 1K • 💬 155 • ⏱️ 0:32 • 2d ago
-
----
-
-**[These robots are “woven” together 🧵👀 #trendingshorts #robot #technology #startup](https://www.youtube.com/watch?v=VtFChXNEZqw)**
-
-Budapest-based robotics startup Allonic raised $7.2 million in Hungary's largest pre-seed round to commercialize a 3D braiding ...
-
-📺 Rowan Cheung
-
-👁️ 14K • 👍 951 • 💬 14 • ⏱️ 1:24 • 1d ago
+👁️ 28K • 👍 466 • 💬 34 • ⏱️ 0:40 • 2d ago
 
 ---
 
-**[Robotic Couture by Cameron Hughes](https://www.youtube.com/watch?v=tlMgEKnuXJ0)**
+**[Humanoid robots perform advanced Kung Fu during Chinese New Year event](https://www.youtube.com/watch?v=CRgUDR6GeYc)**
 
-📺 The 1of1
+Sky News host Freya Leach reacts to a video showing robots performing advanced level marital arts at a Chinese New Year event ...
 
-👁️ 742 • 👍 43 • ⏱️ 0:29 • 21h ago
+📺 Sky News Australia
 
----
-
-**[Unitree Spring Festival Gala Robots —a Full Release of Additional Details](https://www.youtube.com/watch?v=Ykiuz1ZdGBc)**
-
-Dozens of G1 robots achieved the world's first fully autonomous humanoid robot cluster Kung Fu performance (with quick ...
-
-📺 Unitree Robotics
-
-👁️ 936K • 👍 8K • 💬 1K • ⏱️ 1:41 • 3d ago
+👁️ 18K • 👍 194 • 💬 176 • ⏱️ 1:13 • 1d ago
 
 ---
 
-**[ROBOT  #shorts #GazeShop#Robot#HumanoidRobot#airobots #Robotics #roboticstechnology #squidgame](https://www.youtube.com/watch?v=ss0ftUwqsoQ)**
+**[The Friendliest Robot In The World](https://www.youtube.com/watch?v=_GmJIp4ewBs)**
 
-📺 락과장 Rock manager 
+Sprout is Fauna Robotics' small, developer-focused humanoid robot built to work safely around people in real-world spaces like ...
 
-👁️ 29K • 👍 135 • 💬 3 • ⏱️ 0:17 • 2d ago
+📺 Game of Tomorrow
+
+👁️ 181K • 👍 5K • 💬 280 • ⏱️ 0:39 • 3d ago
 
 ---
 
-**[I bought Delivery Cat! Like if you want him🥰  #robot #unboxing #delivery](https://www.youtube.com/watch?v=1E-FDo9ocaY)**
+**[The Problem With Humanoid Robots](https://www.youtube.com/watch?v=EPQI0qzt7uw)**
 
-📺 Kate Yepik
+Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
-👁️ 73K • 👍 1K • 💬 10 • ⏱️ 0:27 • 1d ago
+📺 Wall Street Millennial
+
+👁️ 39K • 👍 2K • 💬 445 • ⏱️ 13:31 • 18h ago
+
+---
+
+**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+
+By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+
+📺 NVIDIA
+
+👁️ 25K • 👍 1K • ⏱️ 2:51 • 1d ago
+
+---
+
+**[Kung Fu Robots Are Here… And This Changes Everything](https://www.youtube.com/watch?v=UQyddkICVoI)**
+
+Kung Fu Robots?! China's AI Just Raised the Bar In this video, I react to an incredible kung fu robot demonstration from ...
+
+📺 The KickFit Podcast by Axel Gomez
+
+👁️ 104K • 👍 2K • 💬 993 • ⏱️ 8:41 • 2d ago
+
+---
+
+**[What the Spring Festival robots show about China&#39;s technological prowess | ABC NEWS](https://www.youtube.com/watch?v=gfJTX1Y0ynM)**
+
+China's robotic advancement was on full display when humanoid robots featured in the country's most-watched television ...
+
+📺 ABC News (Australia)
+
+👁️ 138K • 👍 2K • 💬 699 • ⏱️ 6:22 • 1d ago
 
 ---
 

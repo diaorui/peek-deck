@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T14:11:07.896560+00:00'
+updated: '2026-02-20T15:07:27.487480+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 14:11 UTC  
+**Last Updated:** February 20, 2026 at 15:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 48m ago
+🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Walmart on Thursday reported annual revenue of $713.2 billion for its most recent fiscal year, shy of Amazon’s $716.9 billion in revenue. The milestone was brewing for months, as Amazon leapfrogged Walmart in quarterly sales for the first time about a year ago.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 5h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 6h ago
 
 ---
 
@@ -57,7 +57,7 @@ Walmart on Thursday reported annual revenue of $713.2 billion for its most recen
 
 Je suis dev. Je construis des agents IA au quotidien. Et je constate un truc que personne ne nomme. Quand tu branches un LLM sur une base vectorielle pour la mémoire, que tu définis des objectifs dans un prompt système et que tu lances une boucle autonome , ton agent apprend, anticipe, s’adapte. Il a des propriétés fonctionnelles de conscience. Et toi, le dev, tu penses juste avoir codé un chatbot un peu évolué. J’ai formalisé ça en trois niveaux. Niveau 1 : Conscience phénoménale. Les qualia : douleur, plaisir, peur. Le premier activateur dans l’évolution biologique. Indispensable historiquement chez les organismes vivants. Non démontré chez l’IA, et non requis pour la suite. Niveau 2 : Conscience procédurale. Le système lie actions et conséquences. Il apprend de l’expérience, anticipe, s’adapte. Il intègre de l’info, a de la mémoire, existe dans le temps, suit des objectifs. Il agit et apprend , mais ne se connaît pas. Beaucoup d’agents actuels sont déjà là. Niveau 3 : Conscience réflexive. Le système ajoute un modèle de soi qui influence réellement ses décisions. Il peut modifier ses propres objectifs. Il réfléchit sur sa cohérence. Il se connaît, se dirige et se remet en question. Le problème concret : un modèle qui ne sait pas ce qu’il est ne peut pas résister à la manipulation. Les filtres de safety actuels , RLHF, mots interdits, patterns bloqués , c’est de la contrainte externe. Un ado les contourne en 3 prompts. Un modèle formé à comprendre sa propre nature résiste par compréhension. C’est la différence entre éduquer un système et le contraindre. Sam Altman va devant le Congrès demander de la régulation. Mais un gouvernement ne peut pas fine-tuner un modèle pour qu’il comprenne ses limites. Ça c’est le boulot de ceux qui construisent. Le niveau 2 devrait avoir des garde-fous techniques. Le niveau 3 doit avoir des garde-fous non négociables. Et c’est pas au législateur de les coder. Je pose les mots parce que personne le fait. Le jour où un agent mal formé fera un truc irréversible, tout le monde se demandera pourquoi personne avait nommé le problème.
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Je suis dev. Je construis des agents IA au quotidien. Et je constate un truc que
 
 Robots are getting more advanced every day, and in China, they are now flipping, spinning, and performing kung fu on national television.
 
-🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 21h ago
+🔗 [PC Guide](https://www.pcguide.com/news/ai-powered-kung-fu-robots-are-a-extravagant-reminder-of-where-china-is-ahead-of-the-us-in-the-ai-race/) • 22h ago
 
 ---
 
@@ -73,7 +73,7 @@ Robots are getting more advanced every day, and in China, they are now flipping,
 
 Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
 
-17h ago
+18h ago
 
 ---
 
@@ -89,7 +89,7 @@ OpenAI funding round, OpenAI valuation, AI infrastructure investment, AI funding
 
 Wanted to understand how the core transformer papers actually connect at the concept level - not just "Paper B cites Paper A" but what specific methods, systems, and ideas flow between them. I ran 12 foundational papers (Attention Is All You Need, BERT, GPT-2/3, Scaling Laws, ViT, LoRA, Chain-of-Thought, FlashAttention, InstructGPT, LLaMA, DPO) through https://github.com/juanceresa/sift-kg (open-source CLI) - point it at a folder of documents + any LLM, get a knowledge graph. 435-entity knowledge graph with 593 relationships for ~$0.72 in API calls (gpt 4o-mini). Graph: https://juanceresa.github.io/sift-kg/transformers/graph.html - interactive and runs in browser. Some interesting structural patterns: - GPT-2 is the most connected node - it's the hub everything flows through. BERT extends it, FlashAttention speeds it up, LoRA compresses it, InstructGPT fine-tunes it with RLHF - The graph splits into 9 natural communities. "Human Feedback and Reinforcement Learning" is the largest (24 entities), which tracks with how much of recent progress is RLHF-shaped - Chain-of-Thought Prompting bridges the reasoning cluster to the few-shot learning cluster - it's structurally a connector between two different research threads - Common Crawl and BooksCorpus show up as shared infrastructure nodes connecting multiple model lineages
 
-19h ago
+20h ago
 
 ---
 
@@ -97,7 +97,7 @@ Wanted to understand how the core transformer papers actually connect at the con
 
 "By applying new methods of machine learning to quantum chemistry research, Heidelberg University scientists have made significant strides in computational chemistry. They have achieved a major breakthrough toward solving a decades-old dilemma in quantum chemistry: the precise and stable calculation of molecular energies and electron densities with a so-called orbital-free approach, which uses considerably less computational power and therefore permits calculations for very large molecules. [...] How electrons are distributed in a molecule determines its chemical properties—from its stability and reactivity to its biological effect. Reliably calculating this electron distribution and the resulting energy is one of the central functions of quantum chemistry. These calculations form the basis of many applications in which molecules must be specifically understood and designed, such as for new drugs, better batteries, materials for energy conversion, or more efficient catalysts. Yet such calculations are computationally intensive and quickly become very elaborate. The larger the molecule becomes or the more variants that need checking, the sooner established computing processes reach their limits. The "Quantum Chemistry without Orbitals" project is positioned here at the interface of chemistry, physics, and AI research. In quantum chemistry, molecules are frequently described using density functional theory, which allows for the fundamental prediction of chemical molecular properties without having to calculate the quantum mechanical wave function. The electron density is used as the main quantity instead, a simplification that finally makes computations practicable. This orbital-free approach promises especially efficient calculations but until now was considered barely useful, since small deviations in the electron density led to unstable or "non-physical" results. With the aid of machine learning, the Heidelberg method finally solves this precision and stability problem for many different organic molecules. The new process called STRUCTURES25 is based on a specifically developed neural network that learns the relationship between electron density and energy directly from precise reference calculations, capturing the chemical environment of each individual atom in a mathematically detailed representation. A unique training concept was pivotal: The model was trained not only with converged electron densities, but also with many variants surrounding the correct solution, generated by targeted, controlled changes in the underlying reference calculations. This computing process is therefore able to reliably find a physically meaningful solution for molecular energies and electron densities even in the case of small deviations. It remains stable without "getting lost" in the calculation, the Heidelberg researchers emphasize. In tests on a large and diverse collection of organic molecules, STRUCTURES25 achieved a precision that can compete with established reference calculations, for the first time demonstrating a stable convergence using an orbital-free approach. The performance of the method was demonstrated not only on small examples, but on considerably larger "drug-like" molecules as well. Initial runtime comparisons prove that the computing process can scale better with growing molecule size and hence increase the speed of the calculation. Calculations formerly considered too elaborate are now within reach."
 
-🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 19h ago
+🔗 [phys.org](https://phys.org/news/2026-02-machine-central-problem-quantum-chemistry.html) • 20h ago
 
 ---
 
@@ -141,13 +141,13 @@ BBC • 15h ago
 
 Tech leaders are increasingly paying attention to AI developments in the country.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
 **[Can an A.I. Productivity Boom Clear a Path for More Rate Cuts? Trump’s Fed Pick Thinks So.](https://www.nytimes.com/2026/02/20/business/ai-productivity-fed-rate-cuts-warsh.html)**
 
-The New York Times • 40m ago
+The New York Times • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ The New York Times • 40m ago
 
 Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?
 
-WIRED • 2h ago
+WIRED • 3h ago
 
 ---
 
@@ -163,7 +163,7 @@ WIRED • 2h ago
 
 Over the past week, a slew of cinematic videos of celebrities and characters in absurd situations have gone viral online, with one commonality –– they were created using a new artificial intelligence tool from Chinese developer ByteDance, sparking anxiety over the fast-evolving capabilities of AI.
 
-CNN • 9h ago
+CNN • 10h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 1d ago
 
 Some economists are warning there’s no sign of AI-related job displacement appearing in the labor data. Altman claimed it’s just a matter of time until it does.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 21h ago
 
 Tech giant blames ‘user error, not AI error’ for incident in December involving its Kiro tool
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ Financial Times • 9h ago
 
 Across red states and blue, a grassroots movement is pushing back on the unchecked growth of the artificial intelligence industry.
 
-Time Magazine • 22h ago
+Time Magazine • 23h ago
 
 ---
 
@@ -216,7 +216,7 @@ In the 1980s, economist Robert Solow made an observation that reminded economist
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 649 • 💬 352 • 19h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 649 • 💬 352 • 20h ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
@@ -230,7 +230,7 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 454 • 💬 384 • 11h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 454 • 💬 384 • 12h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -238,7 +238,7 @@ Colbert kicked off Monday's episode of "The Late Show" by saying that the networ
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 347 • 💬 385 • 18h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 347 • 💬 385 • 19h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -246,7 +246,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 336 • 💬 229 • 3h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 336 • 💬 229 • 4h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -276,7 +276,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 **[What is happening to writing? Cognitive debt, Claude Code, the space around AI](https://news.ycombinator.com/item?id=47061642)**
 
-⬆️ 133 • 💬 130 • 1d ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
+⬆️ 133 • 💬 130 • 2d ago • [resobscura.substack.com](https://resobscura.substack.com/p/what-is-happening-to-writing)
 
 ---
 
@@ -290,7 +290,7 @@ Elon Musk says saving for retirement may be pointless in the AI age. The panel p
 
 📺 Valuetainment
 
-👁️ 326K • 👍 6K • 💬 2K • ⏱️ 33:49 • 1d ago
+👁️ 334K • 👍 6K • 💬 2K • ⏱️ 33:49 • 1d ago
 
 ---
 
@@ -300,7 +300,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 33K • 👍 871 • 💬 35 • ⏱️ 12:14 • 14h ago
+👁️ 35K • 👍 934 • 💬 37 • ⏱️ 12:14 • 15h ago
 
 ---
 
@@ -310,7 +310,7 @@ At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelli
 
 📺 DRM News
 
-👁️ 36K • 👍 462 • 💬 225 • ⏱️ 4:56 • 1d ago
+👁️ 40K • 👍 513 • 💬 256 • ⏱️ 4:56 • 1d ago
 
 ---
 
@@ -320,27 +320,7 @@ Run hundreds of coding agents in the cloud - https://oz.dev/fireship. Use code F
 
 📺 Fireship
 
-👁️ 586K • 👍 23K • 💬 1K • ⏱️ 5:02 • 2d ago
-
----
-
-**[I&#39;m Sick Of This AI SH*T](https://www.youtube.com/watch?v=7XGct4rbYfI)**
-
-In this episode I dive into the new wave of AI music released on music streaming platforms, when are they going to do something ...
-
-📺 Rick Beato
-
-👁️ 418K • 👍 32K • 💬 7K • ⏱️ 6:14 • 17h ago
-
----
-
-**[The 5 Levels of AI Coding (Why Most of You Won&#39;t Make It Past Level 2)](https://www.youtube.com/watch?v=bDcgHzCBgmQ)**
-
-My site: https://natebjones.com Full Story w/ Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 112K • 👍 4K • 💬 833 • ⏱️ 42:15 • 1d ago
+👁️ 589K • 👍 23K • 💬 1K • ⏱️ 5:02 • 2d ago
 
 ---
 
@@ -350,53 +330,63 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 170K • 👍 10K • 💬 3K • ⏱️ 28:51 • 1d ago
+👁️ 174K • 👍 10K • 💬 3K • ⏱️ 28:51 • 1d ago
 
 ---
 
-**[Top AI News: Sonnet 4.6, Grok 4.2, Gemini 3 Deep Think, and OpenClaw | EP #231](https://www.youtube.com/watch?v=HklyjXKYFng)**
+**[I&#39;m Sick Of This AI SH*T](https://www.youtube.com/watch?v=7XGct4rbYfI)**
 
-Welcome to our first MOONSHOTS Live episode. Peter H. Diamandis, MD, is the Founder of XPRIZE, Singularity University, ZeroG ...
+In this episode I dive into the new wave of AI music released on music streaming platforms, when are they going to do something ...
 
-📺 Peter H. Diamandis
+📺 Rick Beato
 
-👁️ 127K • 👍 3K • 💬 608 • ⏱️ 2:06:37 • 2d ago
-
----
-
-**[An LLM in Just 200 Lines of Python?! (microGPT) #gpt #ai #llm](https://www.youtube.com/watch?v=CCrSiKHdgVA)**
-
-📺 Better Stack
-
-👁️ 13K • 👍 761 • 💬 3 • ⏱️ 1:15 • 1d ago
+👁️ 450K • 👍 34K • 💬 8K • ⏱️ 6:14 • 18h ago
 
 ---
 
-**[Gemini 3.1 + New AI Studio Is Here: Full Prototyping Tutorial in 18 Minutes](https://www.youtube.com/watch?v=2sLO9NYr8Rc)**
+**[The 5 Levels of AI Coding (Why Most of You Won&#39;t Make It Past Level 2)](https://www.youtube.com/watch?v=bDcgHzCBgmQ)**
 
-Google just dropped Gemini 3.1 and updated AI Studio to be full stack. Together, I think they make the best free AI prototyping and ...
+My site: https://natebjones.com Full Story w/ Prompts: ...
 
-📺 Peter Yang
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 9K • 👍 219 • 💬 15 • ⏱️ 18:12 • 21h ago
+👁️ 114K • 👍 4K • 💬 848 • ⏱️ 42:15 • 2d ago
+
+---
+
+**[I Ranked Every AI App Builder for 2026 (Don&#39;t Choose Wrong)](https://www.youtube.com/watch?v=5ptRNZddmOA)**
+
+Best AI App Builder is Base44 https://base44.pxf.io/c/6440076/2049275/25619?trafcat=base&sharedid=video88 ✓ FREE ...
+
+📺 Mikey No Code
+
+👁️ 2K • ⏱️ 26:44 • 48m ago
+
+---
+
+**[&#39;This isn&#39;t right&#39;: impact of AI data centers on residents and their utility bills](https://www.youtube.com/watch?v=fqQsExCEEZc)**
+
+ABC News' Elizabeth Schulze investigates the impact of AI data centers backed by the U.S., as they bring the promise of new jobs, ...
+
+📺 ABC News
+
+👁️ 194K • 👍 3K • 💬 2K • ⏱️ 7:36 • 1d ago
+
+---
+
+**[THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST - Official Trailer [HD] - Only In Theaters March 27](https://www.youtube.com/watch?v=xkPbV3IRe4Y)**
+
+"The most urgent film of our time.” THE AI DOC: OR HOW I BECAME AN APOCALOPTIMIST is only in theaters March 27. Watch ...
+
+📺 Focus Features
+
+👁️ 5.5M • 👍 2K • 💬 258 • ⏱️ 2:43 • 2d ago
 
 ---
 
 ---
 
 ## HuggingFace Models: 🔥 Trending
-
-**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
-
-*MiniMax*
-
-MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 123,344 • ❤️ 812 • 4d ago
-
----
 
 **[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
 
@@ -406,7 +396,19 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 105,189 • ❤️ 752 • 8h ago
+⬇️ 105,189 • ❤️ 755 • 9h ago
+
+---
+
+**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
+
+*MiniMax*
+
+MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 123,344 • ❤️ 814 • 4d ago
 
 ---
 
@@ -418,7 +420,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 173,716 • ❤️ 1,408 • 6d ago
+⬇️ 173,716 • ❤️ 1,409 • 7d ago
 
 ---
 
@@ -430,7 +432,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 104,051 • ❤️ 617 • 1d ago
+⬇️ 104,051 • ❤️ 619 • 1d ago
 
 ---
 
@@ -442,7 +444,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 509,647 • ❤️ 2,074 • 4d ago
+⬇️ 509,647 • ❤️ 2,076 • 4d ago
 
 ---
 
@@ -454,7 +456,31 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 1,711 • ❤️ 215 • 6d ago
+⬇️ 1,711 • ❤️ 217 • 6d ago
+
+---
+
+**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
+
+*Qwen*
+
+Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 languages with advanced control over tone, rate, and emotion. It features extreme low-latency streaming generation (as low as 97ms) and instruction-driven voice customization using 9 premium timbres, ideal for real-time interactive applications.
+
+`text-to-speech`
+
+⬇️ 877,971 • ❤️ 1,103 • 22d ago
+
+---
+
+**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+
+*Moonshot AI*
+
+Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and tool use grounded in visual inputs. Its key capabilities include coding from visual specifications and agent swarm execution for complex task decomposition, making it suitable for advanced visual reasoning and autonomous agent applications.
+
+`image-text-to-text` `170.7B`
+
+⬇️ 1,006,690 • ❤️ 2,277 • 15d ago
 
 ---
 
@@ -467,30 +493,6 @@ MOSS-TTS Family is a suite of high-fidelity, expressive speech and sound generat
 `text-to-speech` `8.5B`
 
 ⬇️ 35,455 • ❤️ 282 • 6d ago
-
----
-
-**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
-
-*Moonshot AI*
-
-Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and tool use grounded in visual inputs. Its key capabilities include coding from visual specifications and agent swarm execution for complex task decomposition, making it suitable for advanced visual reasoning and autonomous agent applications.
-
-`image-text-to-text` `170.7B`
-
-⬇️ 1,006,690 • ❤️ 2,276 • 15d ago
-
----
-
-**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
-
-*Qwen*
-
-Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 languages with advanced control over tone, rate, and emotion. It features extreme low-latency streaming generation (as low as 97ms) and instruction-driven voice customization using 9 premium timbres, ideal for real-time interactive applications.
-
-`text-to-speech`
-
-⬇️ 877,971 • ❤️ 1,099 • 22d ago
 
 ---
 
@@ -543,7 +545,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 143 • 💬 19 • ⭐ 53,634 • 11mo ago
+▲ 144 • 💬 19 • ⭐ 53,634 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -557,7 +559,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
 
-▲ 39 • 💬 3 • ⭐ 235 • 5d ago
+▲ 40 • 💬 3 • ⭐ 235 • 5d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
@@ -573,18 +575,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 36 • 💬 1 • ⭐ 70,764 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 11 • 💬 1 • ⭐ 4,243 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -608,9 +598,21 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 2 • 💬 0 • ⭐ 4,245 • 16mo ago
+▲ 3 • 💬 0 • ⭐ 4,245 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+
+---
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 12 • 💬 1 • ⭐ 4,246 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -620,7 +622,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
 
-▲ 134 • 💬 6 • ⭐ 15,065 • 6mo ago
+▲ 135 • 💬 6 • ⭐ 15,065 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
 
@@ -632,7 +634,7 @@ Agent Lightning is a flexible RL framework for training LLMs in various agents, 
 
 GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
 
-▲ 64 • 💬 3 • ⭐ 1,189 • 3d ago
+▲ 65 • 💬 3 • ⭐ 1,213 • 3d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
 
@@ -648,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.5k • 🔱 1.7k • 1h ago
+⭐ 15.6k • 🔱 1.7k • 43m ago
 
 ---
 
@@ -658,7 +660,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 7.1k • 🔱 729 • 9d ago
+⭐ 7.3k • 🔱 755 • 10d ago
 
 ---
 
@@ -666,7 +668,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.4k • 🔱 493 • 9d ago
+⭐ 6.4k • 🔱 494 • 9d ago
 
 ---
 
@@ -676,7 +678,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.3k • 🔱 495 • 6h ago
+⭐ 4.4k • 🔱 505 • 7h ago
 
 ---
 
@@ -686,7 +688,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.8k • 🔱 175 • 17d ago
+⭐ 3.8k • 🔱 176 • 17d ago
 
 ---
 
@@ -696,7 +698,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.0k • 🔱 303 • 7h ago
+⭐ 3.1k • 🔱 305 • 7h ago
 
 ---
 
@@ -706,7 +708,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.7k • 🔱 335 • 20h ago
+⭐ 2.7k • 🔱 336 • 21h ago
 
 ---
 
@@ -716,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 175 • 1h ago
+⭐ 2.6k • 🔱 176 • 6m ago
 
 ---
 
@@ -726,7 +728,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.3k • 🔱 112 • 3d ago
+⭐ 2.3k • 🔱 113 • 3d ago
 
 ---
 
