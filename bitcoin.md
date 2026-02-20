@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T11:33:40.458897+00:00'
+updated: '2026-02-20T13:01:35.070328+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 11:33 UTC  
+**Last Updated:** February 20, 2026 at 13:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,943.61
+### $67,533.95
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.9%  
-**7d:** -3.0%  
-**30d:** -24.3%  
-**90d:** -22.1%  
-**1y:** -29.6%  
+**24h:** +1.5%  
+**7d:** -3.6%  
+**30d:** -24.8%  
+**90d:** -22.6%  
+**1y:** -30.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1362.25B
+**Market Cap:** $1349.07B
 Rank #1
 
-**Circulating Supply:** 19,992,200 BTC
+**Circulating Supply:** 19,992,278 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.0%
+-46.5%
 
 **All-Time Low:** $67.81
-+100346.8%
++99428.1%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 I don’t care if it dips more…. We just had to get in with that tax return. I’d rather it dip to 50k & miss out on those small amounts of BTC than have it rip to 100k or beyond tomorrow and live with the regret that I’ll never see BTC that low ever again! Tonight is the first night I can rest peacefully knowing my family is hedged against the decaying dollar and positioned to benefit from deflation from government inflation. The last one using the dollar gets stuck holding the bag of poverty. Not this family🙏🏼🚀
 
-10h ago
+11h ago
 
 ---
 
 **[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-14h ago
+16h ago
 
 ---
 
@@ -95,7 +95,23 @@ I don’t care if it dips more…. We just had to get in with that tax return. I
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-7h ago
+8h ago
+
+---
+
+**[What does Bitcoin look like in 20 years if adoption keeps growing?](https://www.reddit.com/r/Bitcoin/comments/1r9rnci/what_does_bitcoin_look_like_in_20_years_if/)**
+
+I’ve been thinking less about short-term price lately and more about what Bitcoin could actually look like 10–20 years from now. Not in terms of “how high does it go,” but in terms of real usage. Like… what happens if adoption just keeps growing? More people self-custodying instead of leaving coins on exchanges. More businesses accepting BTC directly. Cross-border payments without needing banks in the middle. People choosing to save in something with a fixed supply instead of constantly inflating currencies. At some point, if that trend continues, Bitcoin stops being seen as just a speculative asset and starts looking more like infrastructure. A base layer. A monetary network that people actually rely on. And historically, when a new monetary network gains critical mass, the people who paid attention early weren’t just “lucky.” They understood what was happening before it became obvious to everyone else. So for me the real question isn’t will price go up. It’s what happens if a censorship resistant, fixed-supply asset just keeps gaining adoption globally. Curious how others here think about the 10–20 year outlook, purely from a network and usage perspective.
+
+2h ago
+
+---
+
+**[These Finnish homes are being heated by a surprising source: Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r9rqi9/these_finnish_homes_are_being_heated_by_a/)**
+
+Heating homes with Bitcoin obviously isn't a surprise to this sub. What's surprising is the website, publishing the article - Grist. Their about us page says: Grist is a nonprofit, independent media organization dedicated to reporting on climate change. Since 1999, we have used the power of journalism to engage the public about the perils of one of the most existential threats we face. We seek to document the often unequal impacts of climate change on communities in the United States and globally — as well as to show the promise of equitable climate solutions. With 40 journalists spread across nearly 20 U.S. states, Grist is the largest and most experienced climate-focused newsroom in the country. Our work aims to illustrate how the effects of a warming planet intersect with, well, everything.... https://grist.org/about/
+
+🔗 [Grist](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/) • 2h ago
 
 ---
 
@@ -105,25 +121,9 @@ The fear-and-greed index is in a state of sustained extreme fear. This has histo
 
 ---
 
-**[These Finnish homes are being heated by a surprising source: Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1r9rqi9/these_finnish_homes_are_being_heated_by_a/)**
-
-Heating homes with Bitcoin obviously isn't a surprise to this sub. What's surprising is the website, publishing the article - Grist. Their about us page says: Grist is a nonprofit, independent media organization dedicated to reporting on climate change. Since 1999, we have used the power of journalism to engage the public about the perils of one of the most existential threats we face. We seek to document the often unequal impacts of climate change on communities in the United States and globally — as well as to show the promise of equitable climate solutions. With 40 journalists spread across nearly 20 U.S. states, Grist is the largest and most experienced climate-focused newsroom in the country. Our work aims to illustrate how the effects of a warming planet intersect with, well, everything.... https://grist.org/about/
-
-🔗 [Grist](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/) • 1h ago
-
----
-
 **[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-16h ago
-
----
-
-**[What does Bitcoin look like in 20 years if adoption keeps growing?](https://www.reddit.com/r/Bitcoin/comments/1r9rnci/what_does_bitcoin_look_like_in_20_years_if/)**
-
-I’ve been thinking less about short-term price lately and more about what Bitcoin could actually look like 10–20 years from now. Not in terms of “how high does it go,” but in terms of real usage. Like… what happens if adoption just keeps growing? More people self-custodying instead of leaving coins on exchanges. More businesses accepting BTC directly. Cross-border payments without needing banks in the middle. People choosing to save in something with a fixed supply instead of constantly inflating currencies. At some point, if that trend continues, Bitcoin stops being seen as just a speculative asset and starts looking more like infrastructure. A base layer. A monetary network that people actually rely on. And historically, when a new monetary network gains critical mass, the people who paid attention early weren’t just “lucky.” They understood what was happening before it became obvious to everyone else. So for me the real question isn’t will price go up. It’s what happens if a censorship resistant, fixed-supply asset just keeps gaining adoption globally. Curious how others here think about the 10–20 year outlook, purely from a network and usage perspective.
-
-1h ago
+18h ago
 
 ---
 
@@ -131,7 +131,7 @@ I’ve been thinking less about short-term price lately and more about what Bitc
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
@@ -139,15 +139,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-19h ago
+20h ago
 
 ---
 
-**[Bitcoin and the System: A Change in Reference](https://www.reddit.com/r/Bitcoin/comments/1r9p518/bitcoin_and_the_system_a_change_in_reference/)**
+**[Bitcoin is real money](https://www.reddit.com/r/Bitcoin/comments/1r9kxdd/bitcoin_is_real_money/)**
 
-Most systemic changes in finance are not wars. They are simply adjustments in measurement. People often assume Bitcoin will either be secretly controlled by institutions or completely overthrow the financial system. Both narratives are wrong because they are watching the wrong clock. Traditional financial assets change quickly in price while their underlying structure evolves slowly. Bitcoin reverses this entirely. Its core rules remain perfectly constant while collective confidence oscillates rapidly around them. We are measuring an immutable structure with a frantic stopwatch, which is why the price seems so chaotic. This is also why the recent institutional integration is so fundamentally misunderstood. "Control" means the ability to change supply, rules, or settlement conditions. Packaging an asset into an ETF is not governing it. Institutions didn’t acquire Bitcoin’s behavior...they merely acquired a standardized interface to a permanent, neutral reference point. I just published a new essay on why structural integration is not endorsement, and how the act of measuring value is changing forever.
+i think bitcoin is real money. and it makes me other life someday. so i just assemble it. although small amount now.
 
-🔗 [bitcoincoherenceledger.substack.com](https://bitcoincoherenceledger.substack.com/p/bitcoin-and-the-system-a-change-in) • 3h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ Most systemic changes in finance are not wars. They are simply adjustments in me
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -167,37 +167,23 @@ Yahoo Finance • 15h ago
 
 Geopolitical tensions and a cautious tone in U.S. stocks are keeping risk appetite in check, and some strategists warn of a potential retest of 2024 lows before a more sustained recovery.
 
-CoinDesk • 4h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Saylor’s Strategy Buys More Bitcoin Using Preferred Stock](https://www.bloomberg.com/news/articles/2026-02-17/saylor-s-strategy-buys-more-bitcoin-using-preferred-stock)**
+**[Bitcoin remains below key onchain level as ETF outflows persist, liquidity stays tight: analysts](https://www.theblock.co/post/390602/bitcoin-remains-below-key-onchain-level-as-etf-outflows-persist-liquidity-stays-tight-analysts)**
 
-Bloomberg • 2d ago
+Analysts warned that weak ETF flows, constrained liquidity, and fragile accumulation are keeping bitcoin's price rangebound and indecisive.
 
----
-
-**[Michael Saylor's Strategy buys 2,486 bitcoin for $168 million as total holdings reach 717,131 BTC](https://www.theblock.co/post/390010/michael-saylor-strategy-latest-bitcoin-acquisition)**
-
-Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $49 billion.
-
-The Block • 2d ago
+The Block • 1h ago
 
 ---
 
-**[When Bitcoin prices turned against Michael Saylor, he quietly pivoted to risky financial gambit at Strategy](https://fortune.com/2026/02/20/michael-saylor-bitcoin-prices-preferred-shares-dilution-strategy/)**
+**[Bitcoin bounces, but $72,000 remains key price level to breaking downtrend: Crypto Markets Today](https://www.coindesk.com/markets/2026/02/20/panic-premium-lingers-in-options-even-as-bitcoin-recovers-from-lows)**
 
-Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
+Bitcoin rebounds toward $68,000 as ETF outflows hit $6.8 billion and funding flips positive, but a break above $72,000 is needed to confirm a bullish shift.
 
-Fortune • 2h ago
-
----
-
-**[Bitcoin zero? Crypto evangelists have run out of stories to tell](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-bitcoin-cryptocurrency-speculation-investing/)**
-
-Bitcoin has become a vessel of pure speculation
-
-The Globe and Mail • 1h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -205,13 +191,27 @@ The Globe and Mail • 1h ago
 
 Value and utility are two very different things in the investment world.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Won Over Wall Street and Now It’s Paying the Price](https://www.bloomberg.com/news/articles/2026-02-18/bitcoin-won-over-wall-street-and-now-it-s-paying-the-price)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 2d ago
+
+---
+
+**[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
+
+Bloomberg.com • 14h ago
+
+---
+
+**[Bitcoin price news: BTC's bounce from this month's crash evaporates](https://www.coindesk.com/markets/2026/02/18/bitcoin-sinks-to-usd66-000-u-s-stocks-lose-steam-as-fed-minutes-mention-possible-rate-hike)**
+
+Bitcoin is now on track for its fifth consecutive weekly decline, and losing this level could open the floor for a fresh leg lower.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -219,15 +219,15 @@ Bloomberg • 1d ago
 
 Sen. Elizabeth Warren urged the Treasury Department and the Federal Reserve to rule out any taxpayer-funded intervention to stabilize Bitcoin.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
-**[Warren Presses Treasury, Fed to Rule Out Bitcoin Bailout As Prices Tumble: Report](https://decrypt.co/358593/warren-presses-treasury-fed-to-rule-out-bitcoin-bailout-as-prices-tumble-report)**
+**[Opinion: Stablecoins, the new kid on the crypto block, may be killing Bitcoin](https://www.theglobeandmail.com/business/commentary/article-stablecoins-cryptocurrency-bitcoin-genius-act/)**
 
-The longtime crypto critic warned against using taxpayer dollars to rescue investors and firms amid the current market slide.
+The more enticing features of stablecoins, including the quasi-anonymous nature of payments, could limit Bitcoin’s growth
 
-Decrypt • 18h ago
+The Globe and Mail • 1d ago
 
 ---
 
@@ -279,31 +279,29 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 ---
 
+**[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
+
+⬆️ 1 • 💬 0 • 1h ago
+
+---
+
 **[Fire calculator that takes Bitcoin holdings into account](https://news.ycombinator.com/item?id=47075139)**
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 19h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 21h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 2h ago
+⬆️ 1 • 💬 0 • 3h ago
 
 ---
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47084865)**
 
-⬆️ 1 • 💬 0 • 4h ago
-
----
-
-**[Show HN: Wit-ts – A type-level WIT parser for TypeScript](https://news.ycombinator.com/item?id=47049085)**
-
-Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
-
-⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/mattmarcello/wit-ts)
+⬆️ 1 • 💬 0 • 5h ago
 
 ---
 
@@ -311,23 +309,23 @@ Contribute to mattmarcello/wit-ts development by creating an account on GitHub.
 
 ## YouTube Videos: "bitcoin"
 
-**[Billionaire Investor Reveals Why Bitcoin Keeps Dropping | Mike Novogratz](https://www.youtube.com/watch?v=AIJezYSx0NU)**
+**[BITCOIN REVERSAL IMMINENT — IT&#39;S HAPPENING NOW!](https://www.youtube.com/watch?v=B_6KEvI4cB0)**
 
-Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This conversation was recorded live at Bitcoin ...
+https://youtu.be/RThI3UUSpwc?si=t0m9cQVPXyt35ZMD BUY ONE 1-STEP CHALLENGE → GET ...
 
-📺 Anthony Pompliano
+📺 100XClub
 
-👁️ 56K • 👍 2K • 💬 101 • ⏱️ 28:28 • 1d ago
+👁️ 3K • 👍 652 • 💬 174 • ⏱️ 9:49 • 2h ago
 
 ---
 
-**[&#39;Bitcoin Going to Zero&#39; Searches Hit All-Time High](https://www.youtube.com/watch?v=9mXKLqzMTIE)**
+**[Trump Is About To Unleash A Massive SHOCK To The Bitcoin Price | Larry Lepard](https://www.youtube.com/watch?v=R1RgSzYtHg8)**
 
-Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+Watch The FULL Interview: https://www.youtube.com/watch?v=-i8humbpZJQ FREE Daily On-Chain Analysis & Crypto News In ...
 
-📺 CryptosRUs
+📺 Library Of Wealth
 
-👁️ 26K • 👍 1K • 💬 496 • ⏱️ 46:22 • 20h ago
+👁️ 3K • 👍 168 • 💬 58 • ⏱️ 14:04 • 7h ago
 
 ---
 
@@ -337,47 +335,57 @@ Is Bitcoin being hijacked by Wall Street or is that the point? This conversation
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 992 • 💬 85 • ⏱️ 13:18 • 13h ago
+👁️ 17K • 👍 1K • 💬 90 • ⏱️ 13:18 • 15h ago
 
 ---
 
-**[Trump Family Said Bitcoin is going to $1M...](https://www.youtube.com/watch?v=ILMNi6R3GVQ)**
+**[BITCOIN HOLDERS... YOU NEED TO SEE THIS CHART](https://www.youtube.com/watch?v=FVYPL5Y_tt0)**
 
-Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
 
-📺 CryptosRUs
+📺 Satoshi Stacker
 
-👁️ 24K • 👍 1K • 💬 652 • ⏱️ 8:25 • 1d ago
-
----
-
-**[He looks scared](https://www.youtube.com/watch?v=U-NQD3zAOHs)**
-
-Michael Saylor issues DIRE WARNING (he looks scared) Crypto Fund Trader - https://cryptofundtrader.com?fpr=altcoindaily ...
-
-📺 Altcoin Daily
-
-👁️ 60K • 👍 3K • 💬 2K • ⏱️ 11:38 • 2d ago
+👁️ 5K • 👍 378 • 💬 29 • ⏱️ 13:06 • 5h ago
 
 ---
 
-**[This could be the end of Bitcoin | Professor Steve Keen](https://www.youtube.com/watch?v=EDvnkcqGt0g)**
+**[Billionaire Investor Reveals Why Bitcoin Keeps Dropping | Mike Novogratz](https://www.youtube.com/watch?v=AIJezYSx0NU)**
 
-I think that may be the beginning of the end of Bitcoin.” Professor Steve Keen told The Tech Report's Isaac Pound that if nothing ...
+Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This conversation was recorded live at Bitcoin ...
 
-📺 The Tech Report
+📺 Anthony Pompliano
 
-👁️ 34K • 👍 2K • 💬 2K • ⏱️ 20:22 • 18h ago
+👁️ 57K • 👍 2K • 💬 101 • ⏱️ 28:28 • 1d ago
 
 ---
 
-**[This &quot;Always&quot; Happens When Gold Beats Bitcoin](https://www.youtube.com/watch?v=TP8bsaWiNM8)**
+**[This Surprised Me (Bitcoin Update)](https://www.youtube.com/watch?v=aGnsO6O2zu4)**
 
-Gold. It beat Bitcoin now after one of the strongest runs we've seen in years. Gold outperformed and a lot of investors think that ...
+Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Gemini Credit Card: ...
 
-📺 Mark Moss
+📺 Aaron Bennett
 
-👁️ 97K • 👍 4K • 💬 488 • ⏱️ 20:14 • 2d ago
+👁️ 10K • 👍 587 • 💬 217 • ⏱️ 8:53 • 1d ago
+
+---
+
+**[Bitcoin Bull Trap to $71k?!](https://www.youtube.com/watch?v=P8LTLf7Nhks)**
+
+Bitcoin is flashing short-term signs of life, and while the broader structure remains clearly bearish, there are legitimate reasons for ...
+
+📺 Coin Bureau Trading
+
+👁️ 2K • 👍 222 • 💬 10 • ⏱️ 13:24 • 4h ago
+
+---
+
+**[BITCOIN: THIS WILL GET WORSE...](https://www.youtube.com/watch?v=4HAfRQHykDo)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+
+📺 Crypto Rover
+
+👁️ 7K • 👍 499 • 💬 25 • ⏱️ 10:18 • 8h ago
 
 ---
 
@@ -387,27 +395,17 @@ Most People Don't See This!! ✓ Bitunix (no kyc, $10000 bonus): https://www.bit
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 447 • 💬 21 • ⏱️ 1:08 • 1d ago
+👁️ 16K • 👍 456 • 💬 21 • ⏱️ 1:08 • 2d ago
 
 ---
 
-**[BITCOIN IS REPEATING 2019 CHART (URGENT)](https://www.youtube.com/watch?v=ma3_4EmAv_g)**
+**[&#39;Bitcoin Going to Zero&#39; Searches Hit All-Time High](https://www.youtube.com/watch?v=9mXKLqzMTIE)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
 
-📺 Discover Crypto
+📺 CryptosRUs
 
-👁️ 23K • 👍 310 • 💬 39 • ⏱️ 0:34 • 1d ago
-
----
-
-**[Will Money Printing End Bitcoin Bear Market? | Lyn Alden](https://www.youtube.com/watch?v=zANj87cV9GU)**
-
-Lyn Alden is a macro strategist and one of the most respected independent voices in global markets. This conversation was ...
-
-📺 Anthony Pompliano
-
-👁️ 61K • 👍 2K • 💬 33 • ⏱️ 20:57 • 2d ago
+👁️ 27K • 👍 1K • 💬 505 • ⏱️ 46:22 • 21h ago
 
 ---
 
