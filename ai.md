@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T20:34:07.821214+00:00'
+updated: '2026-02-20T21:26:22.646529+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
-- social
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 20:34 UTC  
+**Last Updated:** February 20, 2026 at 21:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 7h ago
+🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 2h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 
 There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy.” That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 Genuine question for teams that have been using Copilot/Cursor/Claude Code in production for 6+ months. I've been working on AI deployment in an enterprise context and keep running into the same pattern: a team adopts AI coding tools, velocity looks great for a few months, and then: - On-call engineers can't debug AI-generated code they didn't write - Incident postmortems have "unclear why" entries more often - Code churn goes up because people keep rewriting code they accepted but didn't understand - New hires can't get oriented because the "why" behind decisions was never documented -- the AI generated the code and the author moved on I started calling this "cognitive debt", the gap between what your codebase does and what your team actually understands about it. Unlike technical debt, you might not even know you have it until something breaks and nobody can explain why. I ended up building a framework to manage it and implemented it on the company i work with: comprehension checkpoints before accepting AI output, a PR template that requires explaining AI code in your own words, code review guardrails designed for AI-generated code, and a quarterly audit system. I have create a github repo with all my work around that, if you are interested let me know. But I'm more interested in what other teams are doing. Have you formalized anything around AI code comprehension? Or is it still informal, "just review it carefully"? Specific things I'm curious about: - Do you require any disclosure when a PR contains AI-generated code? - Do you have paths in your codebase where AI tools are restricted? - Have you had incidents where the root cause was "nobody understood what this code was doing"?
 
-3h ago
+4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Genuine question for teams that have been using Copilot/Cursor/Claude Code in pr
 
 So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
 
-1h ago
+2h ago
 
 ---
 
@@ -133,13 +133,13 @@ blog.google • 1d ago
 
 A Pentagon spokesperson told NBC News that it is reviewing its relationship with Anthropic.
 
-NBC News • 2h ago
+NBC News • 3h ago
 
 ---
 
 **[Exclusive: Goldman Sachs launches an AI-free index](https://www.axios.com/2026/02/20/ai-goldman-sachs-stocks-index)**
 
-Axios • 3h ago
+Axios • 4h ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 3h ago
 
 Tech giant blames ‘user error, not AI error’ for incident in December involving its Kiro tool
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -163,7 +163,7 @@ The Guardian • 5h ago
 
 Two minor AWS outages have reportedly occurred as a result of actions by Amazon’s AI tools.
 
-The Verge • 3h ago
+The Verge • 4h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Verge • 3h ago
 
 India opened the “world’s biggest” AI summit with world leaders and powerful AI figures in attendance. CNN’s Hanako Montgomery reports from the summit and shares how India has become increasingly attractive to tech giants and is on its way to becoming a global AI powerhouse.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
@@ -179,7 +179,7 @@ CNN • 13h ago
 
 The five-day event mixed long lines and viral mishaps with a serious pitch: The future of AI shouldn’t be written only in Washington and Beijing.
 
-NBC News • 16m ago
+NBC News • 1h ago
 
 ---
 
@@ -187,7 +187,7 @@ NBC News • 16m ago
 
 Narendra Modi’s thirst to supercharge economic growth is matched by US desire to inject AI into world’s biggest democracy
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Guardian • 3h ago
 
 Over the past week, a slew of cinematic videos of celebrities and characters in absurd situations have gone viral online, with one commonality –– they were created using a new artificial intelligence tool from Chinese developer ByteDance, sparking anxiety over the fast-evolving capabilities of AI.
 
-CNN • 15h ago
+CNN • 16h ago
 
 ---
 
@@ -232,13 +232,13 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 549 • 💬 127 • 6h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 549 • 💬 127 • 7h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 499 • 💬 444 • 17h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 499 • 💬 444 • 18h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -300,7 +300,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 41K • 👍 1K • 💬 45 • ⏱️ 12:14 • 21h ago
+👁️ 41K • 👍 1K • 💬 45 • ⏱️ 12:14 • 22h ago
 
 ---
 
@@ -330,7 +330,7 @@ AI MAN | Made with Seedance 2.0 | AI Short Film My first short film with Seedanc
 
 📺 Heydin
 
-👁️ 28K • 👍 1K • 💬 209 • ⏱️ 4:30 • 21h ago
+👁️ 28K • 👍 1K • 💬 209 • ⏱️ 4:30 • 22h ago
 
 ---
 
@@ -360,7 +360,7 @@ Adam Scott's tee shot embeds itself inches from the hole during the opening roun
 
 📺 PGA TOUR
 
-👁️ 105K • 👍 1K • 💬 43 • ⏱️ 0:16 • 19h ago
+👁️ 105K • 👍 1K • 💬 43 • ⏱️ 0:16 • 20h ago
 
 ---
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.7k • 🔱 1.7k • 35m ago
+⭐ 15.7k • 🔱 1.7k • 1h ago
 
 ---
 
@@ -678,7 +678,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.5k • 🔱 525 • 12h ago
+⭐ 4.5k • 🔱 525 • 13h ago
 
 ---
 
@@ -698,7 +698,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 307 • 13h ago
+⭐ 3.1k • 🔱 307 • 14h ago
 
 ---
 
@@ -718,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 176 • 58m ago
+⭐ 2.6k • 🔱 176 • 1h ago
 
 ---
 

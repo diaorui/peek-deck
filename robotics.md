@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T20:34:07.838950+00:00'
+updated: '2026-02-20T21:26:22.664827+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 20:34 UTC  
+**Last Updated:** February 20, 2026 at 21:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 41m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 1h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 **[Good Boy](https://www.reddit.com/r/robotics/comments/1ra54wk/good_boy/)**
 
-58m ago
+1h ago
 
 ---
 
@@ -66,13 +66,13 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
 
-5h ago
+6h ago
 
 ---
 
 **[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -102,7 +102,7 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1TENTH/VESC setup. I’m hitting a wall with odom calibration: my physical car moves forward, but /odom and RViz show it moving backward. No matter how I flip the motor rotation, the odometry is always flipped in rViz. I’ve tried flipping the motor direction on the motor controller itself (VESC), tried to flip the polarity, and tried to flip the direction that the vesc_to_odom node calculates, but it continues to move forward, but show that the robot is running backwards on rviz, and on the /odom topic. Has anyone encountered this 'persistent inversion' before, or is there a specific parameter in the config I might be overlooking? Thanks!
 
-14h ago
+15h ago
 
 ---
 
@@ -122,7 +122,7 @@ Fox News • 7h ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 9h ago
+Business Insider • 10h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Insider • 9h ago
 
 NORD said this allows engineers to verify whether the drive concept is suitable for the system early in the planning phase.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -176,7 +176,7 @@ South China Morning Post • 1d ago
 
 Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
 
-24/7 Wall St. • 6h ago
+24/7 Wall St. • 7h ago
 
 ---
 
@@ -216,7 +216,7 @@ Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
 📺 Wall Street Millennial
 
-👁️ 43K • 👍 2K • 💬 474 • ⏱️ 13:31 • 23h ago
+👁️ 43K • 👍 2K • 💬 474 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -236,7 +236,7 @@ By combining decades of real-world data with advanced AI, simulation and digital
 
 📺 NVIDIA
 
-👁️ 27K • 👍 1K • ⏱️ 2:51 • 1d ago
+👁️ 27K • 👍 1K • ⏱️ 2:51 • 2d ago
 
 ---
 

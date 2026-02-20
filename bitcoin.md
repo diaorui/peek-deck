@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T20:34:07.829701+00:00'
+updated: '2026-02-20T21:26:22.655323+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 20:34 UTC  
+**Last Updated:** February 20, 2026 at 21:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 Been tracking the Bitcoin Power Law model for a while now. Here's this week's update. BTC is sitting at $67,745. Power Law fair value is around $123,947 — about 45% below fair value. Oscillator reads 13.7% The oscillator has ticked up marginally from 13.6% to 13.7%, remaining firmly entrenched in the Deep Buy Zone (0–25%). This is historically rare territory that typically occurs only 1–2 times per halving cycle. The oscillator's EMA(150) at 31.2% remains below its EMA(350) at 37.7%, maintaining a bearish spread of -6.5 points. This configuration — deep value combined with bearish momentum — represents the model's maximum accumulation signal. Full breakdown with charts here if anyone's interested: https://timetobuybitcoin.com/analysis/maximum-accumulation-zone-deepens-oscillator-at-137-amid-his-2026-02-20 Not financial advice, just sharing the data. Curious what you guys think.
 
-3h ago
+4h ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -101,13 +101,13 @@ Been tracking the Bitcoin Power Law model for a while now. Here's this week's up
 
 We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentally different from previous cycles. In the past, both transaction count and total volume dropped. This time, they have not. Why?
 
-6h ago
+7h ago
 
 ---
 
 **[Money Printer Go Brrrr Again](https://www.reddit.com/r/Bitcoin/comments/1ra60h8/money_printer_go_brrrr_again/)**
 
-25m ago
+1h ago
 
 ---
 
@@ -115,7 +115,7 @@ We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentall
 
 I’ve been thinking less about short-term price lately and more about what Bitcoin could actually look like 10–20 years from now. Not in terms of “how high does it go,” but in terms of real usage. Like… what happens if adoption just keeps growing? More people self-custodying instead of leaving coins on exchanges. More businesses accepting BTC directly. Cross-border payments without needing banks in the middle. People choosing to save in something with a fixed supply instead of constantly inflating currencies. At some point, if that trend continues, Bitcoin stops being seen as just a speculative asset and starts looking more like infrastructure. A base layer. A monetary network that people actually rely on. And historically, when a new monetary network gains critical mass, the people who paid attention early weren’t just “lucky.” They understood what was happening before it became obvious to everyone else. So for me the real question isn’t will price go up. It’s what happens if a censorship resistant, fixed-supply asset just keeps gaining adoption globally. Curious how others here think about the 10–20 year outlook, purely from a network and usage perspective.
 
-10h ago
+11h ago
 
 ---
 
@@ -139,13 +139,13 @@ I don’t care if it dips more…. We just had to get in with that tax return. I
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-16h ago
+17h ago
 
 ---
 
 **[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 1d ago
 
 Software firm Strategy (formerly MicroStrategy) and its co-founder Michael Saylor have become synonymous with Bitcoin. Here’s what you need to know.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 2h ago
 
 If you operate ATMs in 2026, the question isn’t whether crypto is volatile; it’s whether you should add Bitcoin to your ATM and increase the earning potential of the ATM machine you already own.
 
-ATM Marketplace • 2h ago
+ATM Marketplace • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ ATM Marketplace • 2h ago
 
 From The Core Issue: A look at Cluster Mempool, a rearchitecting of how your node's mempool is organized and managed.
 
-Bitcoin Magazine • 55m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
@@ -205,7 +205,7 @@ Bitcoin Magazine • 55m ago
 
 Bitcoin ticked up after the Supreme Court ruled that President Trump exceeded his authority in imposing most tariffs on foreign goods.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 2d ago
 
 **[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -267,7 +267,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 2d ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 3d ago • [b4q.io](https://b4q.io/research)
 
 ---
 
@@ -275,13 +275,13 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 2h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 3h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
-⬆️ 1 • 💬 0 • 8h ago
+⬆️ 1 • 💬 0 • 9h ago
 
 ---
 
@@ -297,13 +297,13 @@ Financial independence on a bitcoin standard
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
 
-⬆️ 1 • 💬 0 • 5h ago • [Attena](https://www.attena.xyz/)
+⬆️ 1 • 💬 0 • 6h ago • [Attena](https://www.attena.xyz/)
 
 ---
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 11h ago
+⬆️ 1 • 💬 0 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ https://youtu.be/RThI3UUSpwc?si=t0m9cQVPXyt35ZMD BUY ONE 1-STEP CHALLENGE → GE
 
 📺 100XClub
 
-👁️ 8K • 👍 903 • 💬 324 • ⏱️ 9:49 • 10h ago
+👁️ 8K • 👍 903 • 💬 324 • ⏱️ 9:49 • 11h ago
 
 ---
 
@@ -357,7 +357,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Landon Rayford
 
-👁️ 5K • 👍 1K • 1h ago
+👁️ 5K • 👍 1K • 2h ago
 
 ---
 
@@ -367,7 +367,7 @@ The clock is ticking. The White House has officially set a March 1st deadline fo
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 341 • 💬 28 • ⏱️ 1:01:02 • 3h ago
+👁️ 6K • 👍 341 • 💬 28 • ⏱️ 1:01:02 • 4h ago
 
 ---
 
@@ -387,7 +387,7 @@ Trump White House PUMPING Crypto.. Due To THIS LAST DAY: Ledger Flash Sale: http
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 2K • 💬 133 • ⏱️ 11:10 • 21h ago
+👁️ 43K • 👍 2K • 💬 133 • ⏱️ 11:10 • 22h ago
 
 ---
 
@@ -397,7 +397,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA 
 
 📺 100XClub
 
-👁️ 3K • 👍 215 • 💬 36 • ⏱️ 1:35 • 5h ago
+👁️ 3K • 👍 215 • 💬 36 • ⏱️ 1:35 • 6h ago
 
 ---
 
@@ -407,7 +407,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 3K • 👍 203 • 💬 21 • ⏱️ 5:51 • 21h ago
+👁️ 3K • 👍 203 • 💬 21 • ⏱️ 5:51 • 22h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-20T20:34:07.835719+00:00'
+updated: '2026-02-20T21:26:22.661489+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- cryptocurrency
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 20:34 UTC  
+**Last Updated:** February 20, 2026 at 21:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Few years Ago no one believe quantum threat is even a thing. But lately it feels different. Not because quantum computers can suddenly crack wallets tomorrow, but because the timeline is slowly shifting from sci-fi to strategic planning. Here’s the uncomfortable part, most of crypto security today relies on elliptic curve cryptography. If a sufficiently powerful quantum computer runs Shor’s algorithm at scale, it could theoretically derive private keys from public keys. The bigger issue isn’t quantum breaks crypto overnight. It’s the long runway required to migrate billions in value to new cryptographic standards before that day ever comes. That kind of coordination takes years. What I find interesting is that Ethereum developers aren’t brushing this off. There’s active research into post-quantum signature schemes lattice-based and hash-based approaches and discussions about how Ethereum’s account abstraction model could make upgrading signatures more flexible compared to more rigid systems. The idea isn’t to panic-fork tomorrow, but to design the protocol so it can evolve if needed. Vitalik has openly talked about the possibility of a hard fork to move toward quantum-resistant signatures if the threat becomes imminent. There’s also ongoing work around making cryptographic components more modular, so the base layer isn’t permanently locked into one signature scheme forever. That kind of design thinking matters. At the same time, this isn’t trivial. Post-quantum signatures are typically much larger. They consume more bandwidth. They increase verification costs. Gas implications are real. And then there’s the elephant in the room: dormant wallets. If a public key is already exposed on-chain, and quantum becomes viable before migration, those funds could be at risk. There’s also the harvest now, decrypt later scenario. Even if quantum isn’t powerful enough today, adversaries could store cryptographic data now and wait for future breakthroughs. That’s not conspiracy talk that’s standard long-term threat modeling. So the question isn’t whether quantum computing will eventually be powerful. It’s whether Ethereum and crypto as a whole can coordinate upgrades in time. Ethereum at least has one advantage: it was built to evolve. It’s already gone through massive upgrades. Social coordination is part of its DNA. Personally, I don’t think this is immediate doom. But I also don’t think it’s something to laugh off anymore. The chains that treat quantum seriously today are probably the ones that survive smoothly tomorrow. Curious where everyone stands. Is this a 2040 problem? A 2030 problem? Or just another narrative that gets recycled every bull run?
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Few years Ago no one believe quantum threat is even a thing. But lately it feels
 
 Lobsters like block too You can use x402 for agents to pay and get access to blockchain data now. There’s no clean way for agents to access onchain data without API keys, accounts, or billing friction. Until now. With x402, agents can pay per request using stablecoins over HTTP, wallet in, data out. https://goldrush.dev/blog/goldrush-x402-blockchain-data-for-agents/
 
-1h ago
+2h ago
 
 ---
 
@@ -96,7 +96,7 @@ Lobsters like block too You can use x402 for agents to pay and get access to blo
 
 Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agents) into an API endpoint after a few days working through the official docs and SDK. It’s running end-to-end: send a request, receive a 402, sign a USDC transfer, retry, and get the response back. A lot of the documentation is confusing due to differences between v1 and v2, so I compiled everything into a single post that should make things clearer. It includes an interactive demo where you can generate a wallet, fund it, and make a real x402 payment against a live endpoint. The goal was to create one resource that’s enough to understand x402 and build your own agent payment integration. The guide also includes some background on the origins of 402. Check it out here: https://simplescraper.io/blog/x402-payment-protocol Let me know what you think!
 
-4h ago
+5h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agen
 
 Justin Drake dives deep into Lean Ethereum In this episode (which is the first in a six-part series on Lean Ethereum) we covered: - This vision for ethereum, spanning the consensus, data, and execution layers. - How post-quantum cryptography, faster finality, and enshrined ZK are all being used to future-proof Ethereum’s core. They also lay out some of the topics that will be covered in subsequent parts of the series. Listen here
 
-11h ago
+12h ago
 
 ---
 
@@ -112,7 +112,7 @@ Justin Drake dives deep into Lean Ethereum In this episode (which is the first i
 
 There’s been a lot of talk lately about how fast teams are shipping contracts especially with AI-assisted “vibe coding.” Recently, the Ethereum Foundation highlighted the release of the OWASP Smart Contract Top 10, which outlines the most critical risks developers and security teams should be protecting against today. What stands out is how familiar many of these failure patterns still are: access control issues, logic flaws, unsafe assumptions, and upgrade risks. The tooling is getting better. The awareness is getting better. But the same classes of bugs keep showing up in production. Feels like the real challenge in 2026 isn’t whether we can write contracts faster it’s whether we can operate them safely at scale. Curious how others here are thinking about this balance between speed and security.
 
-5h ago
+6h ago
 
 ---
 
@@ -136,7 +136,7 @@ FOCIL is Hegotá consensus layer headliner, EF protocol priorities: Scale, Impro
 
 Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and passed consensus tests on a multi node devnet.
 
-🔗 [EtherWorld.co](https://etherworld.co/vibehouse-ethereums-vibecoded-consensus-client-from-lighthouse/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/vibehouse-ethereums-vibecoded-consensus-client-from-lighthouse/) • 10h ago
 
 ---
 
@@ -144,7 +144,7 @@ Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and 
 
 Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that expanding AI autonomy without strong human alignment could increase systemic risk as crypto and AI converge.
 
-🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 10h ago
+🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 11h ago
 
 ---
 
@@ -172,7 +172,7 @@ Fortune • 2d ago
 
 The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 3h ago
 
 The world's two largest cryptocurrencies lost their luster over the past year.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -188,7 +188,7 @@ The Motley Fool • 4h ago
 
 A war between the US and Iran is around the corner.  When the US and Israel struck Iran last year, crypto prices nosedived.  More strikes could hurt Bitcoin and Ethereum further.
 
-dlnews.com • 4h ago
+dlnews.com • 5h ago
 
 ---
 
@@ -202,7 +202,7 @@ Barron's • 2d ago
 
 For something unique like Ethereum (ETH), which is designed to be a decentralized utility, you have to look beyond the simple charts.
 
-Asbury Park Press • 2h ago
+Asbury Park Press • 3h ago
 
 ---
 
@@ -210,7 +210,7 @@ Asbury Park Press • 2h ago
 
 Korean exchanges Upbit and Bithumb both added local currency pairs for the privacy-focused layer-2 token, triggering a sharp move in a thinly traded market.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -240,7 +240,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 217 • 💬 21 • ⏱️ 16:03 • 16h ago
+👁️ 2K • 👍 217 • 💬 21 • ⏱️ 16:03 • 17h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 145 • 💬 6 • ⏱️ 6:09 • 8h ago
+👁️ 2K • 👍 145 • 💬 6 • ⏱️ 6:09 • 9h ago
 
 ---
 
@@ -270,7 +270,7 @@ Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 122 • 💬 34 • ⏱️ 4:54 • 21h ago
+👁️ 4K • 👍 122 • 💬 34 • ⏱️ 4:54 • 22h ago
 
 ---
 
@@ -300,7 +300,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 165 • 💬 13 • ⏱️ 10:02 • 9h ago
+👁️ 1K • 👍 165 • 💬 13 • ⏱️ 10:02 • 10h ago
 
 ---
 
@@ -318,7 +318,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Boyce Watkins
 
-👁️ 3K • 👍 246 • 💬 17 • ⏱️ 1:55 • 17h ago
+👁️ 3K • 👍 246 • 💬 17 • ⏱️ 1:55 • 18h ago
 
 ---
 
