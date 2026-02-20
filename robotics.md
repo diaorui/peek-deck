@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T09:42:38.164173+00:00'
+updated: '2026-02-20T10:38:21.061783+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 09:42 UTC  
+**Last Updated:** February 20, 2026 at 10:38 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[China's autonomous "killer robots"](https://www.reddit.com/r/robotics/comments/1r9j1k0/chinas_autonomous_killer_robots/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
-21h ago
+22h ago
 
 ---
 
 **[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 If you're looking to get into VLA / robot foundation models but not sure where to start, I made a curated reading list that covers the path from diffusion model basics to the latest architectures like π0, GR00T N1, and DreamZero. What's covered (6 phases, 30 papers): Phase 1: Generative foundations — MIT 6.S184 (flow matching & diffusion) Phase 2: Early robot models — RT-1 → RT-2 → Octo → OpenVLA, Diffusion Policy, ACT Phase 3: Current architectures — π0, GR00T N1, CogACT, X-VLA, InternVLA-M1 Phase 4: Data scaling — OXE, AgiBot World, UMI, human video transfer Phase 5: Efficient inference — SmolVLA, RTC, dual-system (Helix, Fast-in-Slow) Phase 6: RL fine-tuning, reasoning & world models — HIL-SERL, π*0.6, CoT-VLA, ThinkAct, DreamZero Designed for a study group format (1–2 paper presentations/week + discussion), but works fine for self-study too. Prerequisites are basic DL fundamentals — recommended courses included. 🔗 GitHub: https://github.com/MilkClouds/awesome-vla-study Feedback and paper suggestions welcome — open an issue or PR.
 
-17h ago
+18h ago
 
 ---
 
@@ -72,7 +72,7 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1TENTH/VESC setup. I’m hitting a wall with odom calibration: my physical car moves forward, but /odom and RViz show it moving backward. No matter how I flip the motor rotation, the odometry is always flipped in rViz. I’ve tried flipping the motor direction on the motor controller itself (VESC), tried to flip the polarity, and tried to flip the direction that the vesc_to_odom node calculates, but it continues to move forward, but show that the robot is running backwards on rviz, and on the /odom topic. Has anyone encountered this 'persistent inversion' before, or is there a specific parameter in the config I might be overlooking? Thanks!
 
-3h ago
+4h ago
 
 ---
 
@@ -86,7 +86,7 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 **[Doly SDK](https://www.reddit.com/r/robotics/comments/1r96fpt/doly_sdk/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds laundry. Price is $8,000 upfront or $450 per month. The system handles shirts, pants, and towels autonomously, with short remote interventions when it gets stuck. The approach is to ship a simplified system now, operate it in real homes, and iterate from there rather than waiting for a fully generalized household robot.
 
-🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 15h ago
+🔗 [Automate](https://www.automate.org/vision/industry-insights/in-the-fold-weave-takes-first-steps-into-the-home-with-laundry-folding-robot) • 16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Weave Robotics has begun shipping Isaac 0, a stationary home robot that folds la
 
 We've probably exceeded 1 billion ROS package downloads a year! Get the full report on Open Robotics Discourse.
 
-15h ago
+16h ago
 
 ---
 
@@ -130,13 +130,13 @@ The Guardian • 1d ago
 
 Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10.
 
-The Robot Report • 19h ago
+The Robot Report • 20h ago
 
 ---
 
 **[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
 
-Zacks Investment Research • 20h ago
+Zacks Investment Research • 21h ago
 
 ---
 
@@ -166,7 +166,7 @@ The Business Journals • 1d ago
 
 Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
 
-Automotive News • 19h ago
+Automotive News • 20h ago
 
 ---
 
@@ -174,13 +174,13 @@ Automotive News • 19h ago
 
 As part of Yahoo Finance's Bot & Sold robotics special, KraneShares senior investment strategist Derek Yan joins Asking for a Trend host Josh Lipton to share his top stock picks in the robotics sector. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
 **[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
 
-Forbes • 16h ago
+Forbes • 17h ago
 
 ---
 

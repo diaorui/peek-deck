@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T09:42:38.155757+00:00'
+updated: '2026-02-20T10:38:21.052234+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 09:42 UTC  
+**Last Updated:** February 20, 2026 at 10:38 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 I don’t care if it dips more…. We just had to get in with that tax return. I’d rather it dip to 50k & miss out on those small amounts of BTC than have it rip to 100k or beyond tomorrow and live with the regret that I’ll never see BTC that low ever again! Tonight is the first night I can rest peacefully knowing my family is hedged against the decaying dollar and positioned to benefit from deflation from government inflation. The last one using the dollar gets stuck holding the bag of poverty. Not this family🙏🏼🚀
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -95,19 +95,19 @@ I don’t care if it dips more…. We just had to get in with that tax return. I
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-5h ago
+6h ago
 
 ---
 
 **[Lyn Alden speaks on the Bitcoin psychology happening currently in the market.](https://www.reddit.com/r/Bitcoin/comments/1r8whbn/lyn_alden_speaks_on_the_bitcoin_psychology/)**
 
-22h ago
+23h ago
 
 ---
 
 **[“In terms of risk adjusted returns I think bitcoin is the best asymmetric bet on Earth. 90% of the risk is out of bitcoin." ex-Google Vijay Boyapati](https://www.reddit.com/r/Bitcoin/comments/1r97dnc/in_terms_of_risk_adjusted_returns_i_think_bitcoin/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -115,7 +115,7 @@ The fear-and-greed index is in a state of sustained extreme fear. This has histo
 
 Full article with explanations on the data here https://x.com/sdwouters/status/2024507942708351443
 
-17h ago
+18h ago
 
 ---
 
@@ -123,7 +123,7 @@ Full article with explanations on the data here https://x.com/sdwouters/status/2
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -131,7 +131,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 i think bitcoin is real money. and it makes me other life someday. so i just assemble it. although small amount now.
 
-5h ago
+6h ago
 
 ---
 
@@ -147,7 +147,7 @@ The bank also holds a large put option position on Strategy, potentially capital
 
 Did anyone else actually read the FOMC minutes or did we all just watch the green candles? The January meeting minutes dropped yesterday. Several officials openly discussed hiking rates if inflation stays elevated. Not "holding longer." Hiking. The economy got upgraded from "moderate" to "solid." Rate cut is now June at the earliest. Meanwhile the S&P closed at a record 6,891. Same day. Bitcoin didn't get the memo about everything being fine — dropped to $66,771. Oil spiked 4% because Vance basically threatened to bomb Iran. So we've got equities at all-time highs, the Fed flirting with hikes, crypto in extreme fear, and crude pricing in a Gulf conflict. All at once. What exactly is the market pricing in right now? Because it feels like four different realities.
 
-19h ago
+20h ago
 
 ---
 
@@ -159,7 +159,7 @@ Did anyone else actually read the FOMC minutes or did we all just watch the gree
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 14h ago
 
 The average bitcoin ETF investor now sits on a 20% paper loss, leaving the market vulnerable to capitulation selling if prices slide further, a Wintermute trader said.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -183,7 +183,7 @@ Yahoo Finance • 3h ago
 
 Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
 
-Fortune • 12m ago
+Fortune • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 1d ago
 
 Michael Saylor keeps things upbeat. He told a TV interviewer that the current Bitcoin dip feels milder than past crashes and that a quicker rebound is likely. He even said, “Spring is coming, and Bitcoin is winning.”Bitcoin Institutional Support Strengthens OutlookAccording to Saylor, a big reason…
 
-TradingView • 6h ago
+TradingView • 7h ago
 
 ---
 
@@ -207,7 +207,7 @@ TradingView • 6h ago
 
 Sen. Elizabeth Warren urged the Treasury Department and the Federal Reserve to rule out any taxpayer-funded intervention to stabilize Bitcoin.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitcoin Magazine • 13h ago
 
 The longtime crypto critic warned against using taxpayer dollars to rescue investors and firms amid the current market slide.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -223,7 +223,7 @@ Yahoo Finance • 16h ago
 
 Sen. Warren is pressing the Federal Reserve and the US Treasury.
 
-thestreet.com • 18h ago
+thestreet.com • 19h ago
 
 ---
 
@@ -231,7 +231,7 @@ thestreet.com • 18h ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -287,19 +287,19 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 17h ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 18h ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 39m ago
+⬆️ 1 • 💬 0 • 1h ago
 
 ---
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47084865)**
 
-⬆️ 1 • 💬 0 • 2h ago
+⬆️ 1 • 💬 0 • 3h ago
 
 ---
 
@@ -331,7 +331,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 26K • 👍 1K • 💬 496 • ⏱️ 46:22 • 18h ago
+👁️ 26K • 👍 1K • 💬 496 • ⏱️ 46:22 • 19h ago
 
 ---
 
@@ -341,7 +341,7 @@ Is Bitcoin being hijacked by Wall Street or is that the point? This conversation
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 992 • 💬 85 • ⏱️ 13:18 • 11h ago
+👁️ 15K • 👍 992 • 💬 85 • ⏱️ 13:18 • 12h ago
 
 ---
 
@@ -371,7 +371,7 @@ I think that may be the beginning of the end of Bitcoin.” Professor Steve Keen
 
 📺 The Tech Report
 
-👁️ 34K • 👍 2K • 💬 2K • ⏱️ 20:22 • 16h ago
+👁️ 34K • 👍 2K • 💬 2K • ⏱️ 20:22 • 17h ago
 
 ---
 
