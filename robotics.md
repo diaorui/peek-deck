@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-20T16:00:43.567998+00:00'
+updated: '2026-02-20T16:54:16.501633+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 20, 2026 at 16:00 UTC  
+**Last Updated:** February 20, 2026 at 16:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[China's autonomous "killer robots"](https://www.reddit.com/r/robotics/comments/1r9j1k0/chinas_autonomous_killer_robots/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
-3h ago
+4h ago
 
 ---
 
@@ -56,7 +56,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 **[G1 Can Autonomously Pack Up, Dispense Pills, Fold Clothes, etc.](https://www.reddit.com/r/robotics/comments/1r9f8fh/g1_can_autonomously_pack_up_dispense_pills_fold/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ If you're looking to get into VLA / robot foundation models but not sure where t
 
 Hi guys, I’m following the Roboracer tutorial for a Traxxas build using the F1TENTH/VESC setup. I’m hitting a wall with odom calibration: my physical car moves forward, but /odom and RViz show it moving backward. No matter how I flip the motor rotation, the odometry is always flipped in rViz. I’ve tried flipping the motor direction on the motor controller itself (VESC), tried to flip the polarity, and tried to flip the direction that the vesc_to_odom node calculates, but it continues to move forward, but show that the robot is running backwards on rviz, and on the /odom topic. Has anyone encountered this 'persistent inversion' before, or is there a specific parameter in the config I might be overlooking? Thanks!
 
-10h ago
+11h ago
 
 ---
 
@@ -102,7 +102,7 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 **[Doly SDK](https://www.reddit.com/r/robotics/comments/1r96fpt/doly_sdk/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -114,7 +114,7 @@ Join Us for Agent and Robotics Hackathon 2026 -- a Hybrid Event Kicking Off in M
 
 Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 7h ago
 
 The robots will be unloading totes full of auto parts from an automated warehouse tugger.
 
-TechCrunch • 19h ago
+TechCrunch • 20h ago
 
 ---
 
@@ -130,7 +130,7 @@ TechCrunch • 19h ago
 
 DECD announced a two-year, $4.8 million investment expanding robotics and advanced manufacturing education programs.
 
-CBIA • 1h ago
+CBIA • 2h ago
 
 ---
 
@@ -138,7 +138,7 @@ CBIA • 1h ago
 
 Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
 
-24/7 Wall St. • 2h ago
+24/7 Wall St. • 3h ago
 
 ---
 
@@ -146,7 +146,7 @@ Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TS
 
 Championship to be held April 21-24 in St. Louis.
 
-Mainstreet Daily News Gainesville • 21m ago
+Mainstreet Daily News Gainesville • 1h ago
 
 ---
 
@@ -154,7 +154,7 @@ Mainstreet Daily News Gainesville • 21m ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 4h ago
+Business Insider • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ Business Insider • 4h ago
 
 Laboratory robotics is shifting from scripted automation towards autonomous systems that can perceive, decide and act robustly in real experimental environments. Here, the authors introduce the ADePT framework, comprising adaptability and learning, dexterity, perception and task complexity, to benchmark robotic capability, expose key bottlenecks and chart practical routes towards truly self-driving laboratories.
 
-Nature • 10h ago
+Nature • 11h ago
 
 ---
 
@@ -170,7 +170,7 @@ Nature • 10h ago
 
 Robots should handle the heavy, repetitive, behind-the-scenes work that wears people down. When that happens, employees can spend more time on service, communication, and the parts of the job that improve the guest experience.
 
-Robotics Tomorrow • 2h ago
+Robotics Tomorrow • 3h ago
 
 ---
 
@@ -178,13 +178,13 @@ Robotics Tomorrow • 2h ago
 
 Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
 **[RR SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Reminds Richtech Robotics (RR) Investors of Securities Class Action Deadline on April 3, 2026](https://www.morningstar.com/news/pr-newswire/20260220ny91871/rr-shareholder-action-reminder-faruqi-faruqi-llp-reminds-richtech-robotics-rr-investors-of-securities-class-action-deadline-on-april-3-2026)**
 
-Morningstar • 45m ago
+Morningstar • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 135K • 👍 2K • 💬 763 • ⏱️ 2:00 • 2d ago
+👁️ 135K • 👍 2K • 💬 763 • ⏱️ 2:00 • 3d ago
 
 ---
 
@@ -258,7 +258,7 @@ Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
 📺 Wall Street Millennial
 
-👁️ 39K • 👍 2K • 💬 445 • ⏱️ 13:31 • 18h ago
+👁️ 39K • 👍 2K • 💬 445 • ⏱️ 13:31 • 19h ago
 
 ---
 

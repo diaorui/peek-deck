@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T16:00:43.558673+00:00'
+updated: '2026-02-20T16:54:16.492455+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 16:00 UTC  
+**Last Updated:** February 20, 2026 at 16:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I don’t care if it dips more…. We just had to get in with that tax return. I’d rather it dip to 50k & miss out on those small amounts of BTC than have it rip to 100k or beyond tomorrow and live with the regret that I’ll never see BTC that low ever again! Tonight is the first night I can rest peacefully knowing my family is hedged against the decaying dollar and positioned to benefit from deflation from government inflation. The last one using the dollar gets stuck holding the bag of poverty. Not this family🙏🏼🚀
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ I don’t care if it dips more…. We just had to get in with that tax return. I
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-11h ago
+12h ago
 
 ---
 
@@ -103,13 +103,13 @@ The fear-and-greed index is in a state of sustained extreme fear. This has histo
 
 I’ve been thinking less about short-term price lately and more about what Bitcoin could actually look like 10–20 years from now. Not in terms of “how high does it go,” but in terms of real usage. Like… what happens if adoption just keeps growing? More people self-custodying instead of leaving coins on exchanges. More businesses accepting BTC directly. Cross-border payments without needing banks in the middle. People choosing to save in something with a fixed supply instead of constantly inflating currencies. At some point, if that trend continues, Bitcoin stops being seen as just a speculative asset and starts looking more like infrastructure. A base layer. A monetary network that people actually rely on. And historically, when a new monetary network gains critical mass, the people who paid attention early weren’t just “lucky.” They understood what was happening before it became obvious to everyone else. So for me the real question isn’t will price go up. It’s what happens if a censorship resistant, fixed-supply asset just keeps gaining adoption globally. Curious how others here think about the 10–20 year outlook, purely from a network and usage perspective.
 
-5h ago
+6h ago
 
 ---
 
 **[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -117,7 +117,7 @@ I’ve been thinking less about short-term price lately and more about what Bitc
 
 We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentally different from previous cycles. In the past, both transaction count and total volume dropped. This time, they have not. Why?
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentall
 
 Heating homes with Bitcoin obviously isn't a surprise to this sub. What's surprising is the website, publishing the article - Grist. Their about us page says: Grist is a nonprofit, independent media organization dedicated to reporting on climate change. Since 1999, we have used the power of journalism to engage the public about the perils of one of the most existential threats we face. We seek to document the often unequal impacts of climate change on communities in the United States and globally — as well as to show the promise of equitable climate solutions. With 40 journalists spread across nearly 20 U.S. states, Grist is the largest and most experienced climate-focused newsroom in the country. Our work aims to illustrate how the effects of a warming planet intersect with, well, everything.... https://grist.org/about/
 
-🔗 [Grist](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/) • 5h ago
+🔗 [Grist](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/) • 6h ago
 
 ---
 
@@ -133,7 +133,7 @@ Heating homes with Bitcoin obviously isn't a surprise to this sub. What's surpri
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=Jg89U0y3tK4) • 44m ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=Jg89U0y3tK4) • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -159,7 +159,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -167,7 +167,7 @@ Fortune • 6h ago
 
 John D’Agostino, Coinbase's Head of Institutional Strategy, appeared on CNBC Tuesday to weigh in on the market volatility. D’Agostino emphasized that while the decline looks large in dollar terms, it’s typical volatility on a percentage basis for crypto. Asked about...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -183,13 +183,13 @@ TradingView • 13h ago
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
 **[France Clears Sale of EDF Data Center Unit to Bitcoin Miner MARA](https://www.bloomberg.com/news/articles/2026-02-20/france-clears-sale-of-edf-data-center-unit-to-bitcoin-miner-mara)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ Bloomberg • 1h ago
 
 Hotter inflation and slower growth delivers a messy message with the Federal Reserve likely take its time before any policy changes, one analyst said.
 
-CoinDesk • 36m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -205,13 +205,13 @@ CoinDesk • 36m ago
 
 Bitcoin’s slide from its October high near $126,100 has sparked debate over whether fears of quantum computing pose a real threat.
 
-Bitcoin Magazine • 42m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
 **[Clarity Act Odds Briefly Spike; Bitcoin Miner Tumbles On AI Funding Plans](https://www.investors.com/news/clarity-act-odds-spike-stablecoin-discussions-white-house-bitdeer-funds-ai-data-center/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -271,7 +271,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
-⬆️ 1 • 💬 0 • 4h ago
+⬆️ 1 • 💬 0 • 5h ago
 
 ---
 
@@ -287,19 +287,19 @@ Financial independence on a bitcoin standard
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
 
-⬆️ 1 • 💬 0 • 1h ago • [Attena](https://www.attena.xyz/)
+⬆️ 1 • 💬 0 • 2h ago • [Attena](https://www.attena.xyz/)
 
 ---
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 6h ago
+⬆️ 1 • 💬 0 • 7h ago
 
 ---
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47084865)**
 
-⬆️ 1 • 💬 0 • 8h ago
+⬆️ 1 • 💬 0 • 9h ago
 
 ---
 
@@ -313,7 +313,7 @@ Aliens, Bitcoin, Tesla, and altcoin updates as Clarity Act looms. BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 6K • 👍 489 • 💬 47 • ⏱️ 17:34 • 4h ago
+👁️ 6K • 👍 489 • 💬 47 • ⏱️ 17:34 • 5h ago
 
 ---
 
@@ -323,7 +323,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=-i8humbpZJQ FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 3K • 👍 200 • 💬 69 • ⏱️ 14:04 • 10h ago
+👁️ 3K • 👍 200 • 💬 69 • ⏱️ 14:04 • 11h ago
 
 ---
 
@@ -333,7 +333,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 4K • 👍 322 • 💬 6 • ⏱️ 13:09 • 4h ago
+👁️ 4K • 👍 322 • 💬 6 • ⏱️ 13:09 • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ https://youtu.be/RThI3UUSpwc?si=t0m9cQVPXyt35ZMD BUY ONE 1-STEP CHALLENGE → GE
 
 📺 100XClub
 
-👁️ 5K • 👍 796 • 💬 243 • ⏱️ 9:49 • 5h ago
+👁️ 5K • 👍 796 • 💬 243 • ⏱️ 9:49 • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 7K • 👍 458 • 💬 38 • ⏱️ 13:06 • 8h ago
+👁️ 7K • 👍 458 • 💬 38 • ⏱️ 13:06 • 9h ago
 
 ---
 
@@ -363,7 +363,7 @@ Trump White House PUMPING Crypto.. Due To THIS LAST DAY: Ledger Flash Sale: http
 
 📺 Altcoin Daily
 
-👁️ 40K • 👍 2K • 💬 125 • ⏱️ 11:10 • 17h ago
+👁️ 40K • 👍 2K • 💬 125 • ⏱️ 11:10 • 18h ago
 
 ---
 
@@ -373,7 +373,7 @@ Bitcoin is flashing short-term signs of life, and while the broader structure re
 
 📺 Coin Bureau Trading
 
-👁️ 3K • 👍 283 • 💬 14 • ⏱️ 13:24 • 7h ago
+👁️ 3K • 👍 283 • 💬 14 • ⏱️ 13:24 • 8h ago
 
 ---
 
@@ -393,7 +393,7 @@ Is Bitcoin being hijacked by Wall Street or is that the point? This conversation
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 93 • ⏱️ 13:18 • 17h ago
+👁️ 18K • 👍 1K • 💬 93 • ⏱️ 13:18 • 18h ago
 
 ---
 
@@ -403,7 +403,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 4K • 👍 378 • 1h ago
+👁️ 4K • 👍 378 • 2h ago
 
 ---
 
