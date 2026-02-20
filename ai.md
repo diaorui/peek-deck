@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-20T18:51:29.481293+00:00'
+updated: '2026-02-20T19:37:00.644012+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- news
 - videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 20, 2026 at 18:51 UTC  
+**Last Updated:** February 20, 2026 at 19:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 5h ago
+🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
 
-5m ago
+50m ago
 
 ---
 
@@ -73,7 +73,7 @@ So I've been watching people struggle with file organization for years. They hav
 
 Walmart on Thursday reported annual revenue of $713.2 billion for its most recent fiscal year, shy of Amazon’s $716.9 billion in revenue. The milestone was brewing for months, as Amazon leapfrogged Walmart in quarterly sales for the first time about a year ago.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 10h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/19/amazon-revenue-passes-walmart-earnings-reports.html) • 11h ago
 
 ---
 
@@ -81,7 +81,7 @@ Walmart on Thursday reported annual revenue of $713.2 billion for its most recen
 
 Genuine question for teams that have been using Copilot/Cursor/Claude Code in production for 6+ months. I've been working on AI deployment in an enterprise context and keep running into the same pattern: a team adopts AI coding tools, velocity looks great for a few months, and then: - On-call engineers can't debug AI-generated code they didn't write - Incident postmortems have "unclear why" entries more often - Code churn goes up because people keep rewriting code they accepted but didn't understand - New hires can't get oriented because the "why" behind decisions was never documented -- the AI generated the code and the author moved on I started calling this "cognitive debt", the gap between what your codebase does and what your team actually understands about it. Unlike technical debt, you might not even know you have it until something breaks and nobody can explain why. I ended up building a framework to manage it and implemented it on the company i work with: comprehension checkpoints before accepting AI output, a PR template that requires explaining AI code in your own words, code review guardrails designed for AI-generated code, and a quarterly audit system. I have create a github repo with all my work around that, if you are interested let me know. But I'm more interested in what other teams are doing. Have you formalized anything around AI code comprehension? Or is it still informal, "just review it carefully"? Specific things I'm curious about: - Do you require any disclosure when a PR contains AI-generated code? - Do you have paths in your codebase where AI tools are restricted? - Have you had incidents where the root cause was "nobody understood what this code was doing"?
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ Robots are getting more advanced every day, and in China, they are now flipping,
 
 Built Makimus-AI, a free open source app that lets you search your entire image library using natural language. Just type "girl in red dress" or "sunset on the beach" and it finds matching images instantly — even works with image-to-image search. Runs fully local on your GPU, no internet needed after setup. [Makimus-AI on GitHub](https://github.com/Ubaida-M-Yusuf/Makimus-AI) I hope it will be useful.
 
-22h ago
+23h ago
 
 ---
 
@@ -133,13 +133,13 @@ blog.google • 1d ago
 
 Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.
 
-BBC • 19h ago
+BBC • 20h ago
 
 ---
 
 **[Exclusive: Goldman Sachs launches an AI-free index](https://www.axios.com/2026/02/20/ai-goldman-sachs-stocks-index)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Axios • 1h ago
 
 The Fox News AI Newsletter covers the latest artificial intelligence technology advancements, including the challenges and opportunities now and for the future.
 
-Fox News • 2h ago
+Fox News • 3h ago
 
 ---
 
@@ -155,7 +155,7 @@ Fox News • 2h ago
 
 Tech giant blames ‘user error, not AI error’ for incident in December involving its Kiro tool
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -163,7 +163,7 @@ Financial Times • 13h ago
 
 Reported issues at Amazon Web Services raise questions about firm’s use of artificial intelligence as it cuts staff
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 3h ago
 
 Two minor AWS outages have reportedly occurred as a result of actions by Amazon’s AI tools.
 
-The Verge • 1h ago
+The Verge • 2h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Verge • 1h ago
 
 Are we in another acceleration phase for AI?
 
-The Atlantic • 4h ago
+The Atlantic • 5h ago
 
 ---
 
@@ -195,7 +195,7 @@ Time Magazine • 1d ago
 
 Over the past week, a slew of cinematic videos of celebrities and characters in absurd situations have gone viral online, with one commonality –– they were created using a new artificial intelligence tool from Chinese developer ByteDance, sparking anxiety over the fast-evolving capabilities of AI.
 
-CNN • 13h ago
+CNN • 14h ago
 
 ---
 
@@ -224,13 +224,13 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 531 • 💬 332 • 8h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 531 • 💬 332 • 9h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 497 • 💬 436 • 15h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 497 • 💬 436 • 16h ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -246,7 +246,7 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 442 • 💬 445 • 22h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 442 • 💬 445 • 23h ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -290,7 +290,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 38K • 👍 994 • 💬 42 • ⏱️ 12:14 • 19h ago
+👁️ 38K • 👍 994 • 💬 42 • ⏱️ 12:14 • 20h ago
 
 ---
 
@@ -320,7 +320,7 @@ In this episode I dive into the new wave of AI music released on music streaming
 
 📺 Rick Beato
 
-👁️ 489K • 👍 36K • 💬 8K • ⏱️ 6:14 • 22h ago
+👁️ 489K • 👍 36K • 💬 8K • ⏱️ 6:14 • 23h ago
 
 ---
 
@@ -350,7 +350,7 @@ Vibe coding,” or using artificial-intelligence tools such as Claude Code to ge
 
 📺 Dave Jorgenson
 
-👁️ 399K • 👍 23K • 💬 427 • ⏱️ 1:08 • 19h ago
+👁️ 399K • 👍 23K • 💬 427 • ⏱️ 1:08 • 20h ago
 
 ---
 
@@ -360,7 +360,7 @@ Google just dropped a LOT. Gemini 3.1 Pro is here with a 77.1% ARC-AGI score (th
 
 📺 Theoretically Media
 
-👁️ 37K • 👍 1K • 💬 163 • ⏱️ 16:12 • 19h ago
+👁️ 37K • 👍 1K • 💬 163 • ⏱️ 16:12 • 20h ago
 
 ---
 
@@ -396,7 +396,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 105,189 • ❤️ 763 • 13h ago
+⬇️ 105,189 • ❤️ 763 • 14h ago
 
 ---
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.7k • 🔱 1.7k • 1h ago
+⭐ 15.7k • 🔱 1.7k • 2h ago
 
 ---
 
@@ -678,7 +678,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.5k • 🔱 515 • 10h ago
+⭐ 4.5k • 🔱 515 • 11h ago
 
 ---
 
@@ -698,7 +698,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 307 • 11h ago
+⭐ 3.1k • 🔱 307 • 12h ago
 
 ---
 
@@ -718,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 176 • 3h ago
+⭐ 2.6k • 🔱 176 • 4h ago
 
 ---
 

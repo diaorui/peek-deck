@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-20T18:51:29.495507+00:00'
+updated: '2026-02-20T19:37:00.658506+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 18:51 UTC  
+**Last Updated:** February 20, 2026 at 19:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've never staked my Ethereum that i hold for a while, i heard it's doable without actually involving a node/32 ETH, but by liquid staking, i have 3 questions: Is it safe to use liquid staking? Are % fixed, how does it work? Where can I find the most interesting APY? Thank you for answers and advices, please be gentle as I've never done staking before.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've never staked my Ethereum that i hold for a while, i heard it's doable witho
 
 Few years Ago no one believe quantum threat is even a thing. But lately it feels different. Not because quantum computers can suddenly crack wallets tomorrow, but because the timeline is slowly shifting from sci-fi to strategic planning. Here’s the uncomfortable part, most of crypto security today relies on elliptic curve cryptography. If a sufficiently powerful quantum computer runs Shor’s algorithm at scale, it could theoretically derive private keys from public keys. The bigger issue isn’t quantum breaks crypto overnight. It’s the long runway required to migrate billions in value to new cryptographic standards before that day ever comes. That kind of coordination takes years. What I find interesting is that Ethereum developers aren’t brushing this off. There’s active research into post-quantum signature schemes lattice-based and hash-based approaches and discussions about how Ethereum’s account abstraction model could make upgrading signatures more flexible compared to more rigid systems. The idea isn’t to panic-fork tomorrow, but to design the protocol so it can evolve if needed. Vitalik has openly talked about the possibility of a hard fork to move toward quantum-resistant signatures if the threat becomes imminent. There’s also ongoing work around making cryptographic components more modular, so the base layer isn’t permanently locked into one signature scheme forever. That kind of design thinking matters. At the same time, this isn’t trivial. Post-quantum signatures are typically much larger. They consume more bandwidth. They increase verification costs. Gas implications are real. And then there’s the elephant in the room: dormant wallets. If a public key is already exposed on-chain, and quantum becomes viable before migration, those funds could be at risk. There’s also the harvest now, decrypt later scenario. Even if quantum isn’t powerful enough today, adversaries could store cryptographic data now and wait for future breakthroughs. That’s not conspiracy talk that’s standard long-term threat modeling. So the question isn’t whether quantum computing will eventually be powerful. It’s whether Ethereum and crypto as a whole can coordinate upgrades in time. Ethereum at least has one advantage: it was built to evolve. It’s already gone through massive upgrades. Social coordination is part of its DNA. Personally, I don’t think this is immediate doom. But I also don’t think it’s something to laugh off anymore. The chains that treat quantum seriously today are probably the ones that survive smoothly tomorrow. Curious where everyone stands. Is this a 2040 problem? A 2030 problem? Or just another narrative that gets recycled every bull run?
 
-5h ago
+6h ago
 
 ---
 
@@ -96,7 +96,7 @@ Few years Ago no one believe quantum threat is even a thing. But lately it feels
 
 Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agents) into an API endpoint after a few days working through the official docs and SDK. It’s running end-to-end: send a request, receive a 402, sign a USDC transfer, retry, and get the response back. A lot of the documentation is confusing due to differences between v1 and v2, so I compiled everything into a single post that should make things clearer. It includes an interactive demo where you can generate a wallet, fund it, and make a real x402 payment against a live endpoint. The goal was to create one resource that’s enough to understand x402 and build your own agent payment integration. The guide also includes some background on the origins of 402. Check it out here: https://simplescraper.io/blog/x402-payment-protocol Let me know what you think!
 
-2h ago
+3h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agen
 
 Justin Drake dives deep into Lean Ethereum In this episode (which is the first in a six-part series on Lean Ethereum) we covered: - This vision for ethereum, spanning the consensus, data, and execution layers. - How post-quantum cryptography, faster finality, and enshrined ZK are all being used to future-proof Ethereum’s core. They also lay out some of the topics that will be covered in subsequent parts of the series. Listen here
 
-9h ago
+10h ago
 
 ---
 
@@ -128,7 +128,7 @@ New 13F filings show major financial institutions sharply increased positions in
 
 FOCIL is Hegotá consensus layer headliner, EF protocol priorities: Scale, Improve UX & Harden the L1, Base moving to own stack
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-12/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-12/) • 8h ago
 
 ---
 
@@ -136,7 +136,7 @@ FOCIL is Hegotá consensus layer headliner, EF protocol priorities: Scale, Impro
 
 Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and passed consensus tests on a multi node devnet.
 
-🔗 [EtherWorld.co](https://etherworld.co/vibehouse-ethereums-vibecoded-consensus-client-from-lighthouse/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/vibehouse-ethereums-vibecoded-consensus-client-from-lighthouse/) • 9h ago
 
 ---
 
@@ -144,7 +144,7 @@ Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and 
 
 Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that expanding AI autonomy without strong human alignment could increase systemic risk as crypto and AI converge.
 
-🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 9h ago
 
 ---
 
@@ -172,7 +172,7 @@ Fortune • 1d ago
 
 The world's two largest cryptocurrencies lost their luster over the past year.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -180,7 +180,7 @@ The Motley Fool • 2h ago
 
 A war between the US and Iran is around the corner.  When the US and Israel struck Iran last year, crypto prices nosedived.  More strikes could hurt Bitcoin and Ethereum further.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -188,7 +188,7 @@ dlnews.com • 2h ago
 
 The world's two largest cryptocurrencies lost their luster over the past year.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -196,7 +196,7 @@ Yahoo Finance • 2h ago
 
 For something unique like Ethereum (ETH), which is designed to be a decentralized utility, you have to look beyond the simple charts.
 
-Asbury Park Press • 56m ago
+Asbury Park Press • 1h ago
 
 ---
 
@@ -226,7 +226,7 @@ CoinDesk • 1d ago
 
 **[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqe0x3LhMqFLlqkcJUp2tSXBATSvhEpVkrlz0c6jO2U6UTR3Fns5jnaG&gaa_ts=6998b09e&gaa_sig=S74Zlv4arz35xLEE5x0LyUl-py9FgppLELemP7H2coe8Jx5B7Z0CqtF7yQ7TxpmI7gTX9Rcv0PZy5s_c-phe1g%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -240,7 +240,7 @@ Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But
 
 📺 Discover Crypto
 
-👁️ 4K • 👍 119 • 💬 34 • ⏱️ 4:54 • 19h ago
+👁️ 4K • 👍 119 • 💬 34 • ⏱️ 4:54 • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 5 • ⏱️ 6:09 • 6h ago
+👁️ 2K • 👍 138 • 💬 5 • ⏱️ 6:09 • 7h ago
 
 ---
 
@@ -260,7 +260,7 @@ Optimism has plunged to a new all-time low after intense selling pressure overwh
 
 📺 Paul Barron Network
 
-👁️ 50K • 👍 3K • 💬 158 • ⏱️ 15:12 • 22h ago
+👁️ 50K • 👍 3K • 💬 158 • ⏱️ 15:12 • 23h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 128 • 👍 13 • 💬 2 • ⏱️ 4:18 • 8h ago
+👁️ 128 • 👍 13 • 💬 2 • ⏱️ 4:18 • 9h ago
 
 ---
 
@@ -310,7 +310,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 144 • 💬 10 • ⏱️ 10:02 • 7h ago
+👁️ 1K • 👍 144 • 💬 10 • ⏱️ 10:02 • 8h ago
 
 ---
 

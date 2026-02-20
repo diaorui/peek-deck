@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-20T18:51:29.489583+00:00'
+updated: '2026-02-20T19:37:00.652405+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 20, 2026 at 18:51 UTC  
+**Last Updated:** February 20, 2026 at 19:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Been tracking the Bitcoin Power Law model for a while now. Here's this week's update. BTC is sitting at $67,745. Power Law fair value is around $123,947 — about 45% below fair value. Oscillator reads 13.7% The oscillator has ticked up marginally from 13.6% to 13.7%, remaining firmly entrenched in the Deep Buy Zone (0–25%). This is historically rare territory that typically occurs only 1–2 times per halving cycle. The oscillator's EMA(150) at 31.2% remains below its EMA(350) at 37.7%, maintaining a bearish spread of -6.5 points. This configuration — deep value combined with bearish momentum — represents the model's maximum accumulation signal. Full breakdown with charts here if anyone's interested: https://timetobuybitcoin.com/analysis/maximum-accumulation-zone-deepens-oscillator-at-137-amid-his-2026-02-20 Not financial advice, just sharing the data. Curious what you guys think.
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Been tracking the Bitcoin Power Law model for a while now. Here's this week's up
 
 We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentally different from previous cycles. In the past, both transaction count and total volume dropped. This time, they have not. Why?
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ We have accepted Bitcoin Lightning since May 2022. This downturn is fundamentall
 
 I’ve been thinking less about short-term price lately and more about what Bitcoin could actually look like 10–20 years from now. Not in terms of “how high does it go,” but in terms of real usage. Like… what happens if adoption just keeps growing? More people self-custodying instead of leaving coins on exchanges. More businesses accepting BTC directly. Cross-border payments without needing banks in the middle. People choosing to save in something with a fixed supply instead of constantly inflating currencies. At some point, if that trend continues, Bitcoin stops being seen as just a speculative asset and starts looking more like infrastructure. A base layer. A monetary network that people actually rely on. And historically, when a new monetary network gains critical mass, the people who paid attention early weren’t just “lucky.” They understood what was happening before it became obvious to everyone else. So for me the real question isn’t will price go up. It’s what happens if a censorship resistant, fixed-supply asset just keeps gaining adoption globally. Curious how others here think about the 10–20 year outlook, purely from a network and usage perspective.
 
-8h ago
+9h ago
 
 ---
 
@@ -111,7 +111,7 @@ I’ve been thinking less about short-term price lately and more about what Bitc
 
 I don’t care if it dips more…. We just had to get in with that tax return. I’d rather it dip to 50k & miss out on those small amounts of BTC than have it rip to 100k or beyond tomorrow and live with the regret that I’ll never see BTC that low ever again! Tonight is the first night I can rest peacefully knowing my family is hedged against the decaying dollar and positioned to benefit from deflation from government inflation. The last one using the dollar gets stuck holding the bag of poverty. Not this family🙏🏼🚀
 
-17h ago
+18h ago
 
 ---
 
@@ -119,7 +119,7 @@ I don’t care if it dips more…. We just had to get in with that tax return. I
 
 Between 2009 and 2012, Bitcoin wallet software was experimental. Many early tools used predictable random number generators to create private keys: - Debian OpenSSL bug (CVE-2008-0166) — A catastrophic bug shipped in 2008 reduced all randomness to just the process ID. Only 65,536 possible private keys. Any wallet generated on Debian/Ubuntu during that period is trivially crackable. - Timestamp-seeded LCGs — glibc and MSVC srand(time(NULL)) followed by rand() to generate each byte of the private key. The entire search space is just ~62.8 million seeds (one per second from genesis to early 2011). - Randstorm (V8 MWC1616) — BitcoinJS and other web-based wallets relied on Chrome's Math.random(), which used a weak PRNG before 2013. Disclosed by Unciphered in 2023, this affected wallets created through browser interfaces. - Brain wallets — SHA256("password"), SHA256("1"), SHA256("12345") — people actually did this, and the keys are still sitting on-chain. - Java LCG — Early Android wallets (BitcoinJ) seeded java.util.Random with millisecond timestamps. There are roughly 2,845 known funded addresses believed to have been created by these weak methods. We built a distributed GPU project to systematically search through all 23 weak key patterns. The pipeline runs entirely on CUDA — each GPU thread generates a private key using the weak algorithm, does the full secp256k1 multiplication, SHA-256, RIPEMD-160, and checks against all target addresses via a bloom filter. An RTX 3090 tests ~130 million keys per second. The small keyspaces are already exhausted (Debian OpenSSL was done in milliseconds). We're currently grinding through SHA-256 of sequential integers — a 2^64 keyspace that will take sustained GPU power. How rewards work if a wallet is found: - 70% distributed to GPU contributors based on verified compute time - 20% to platform development and infrastructure - 10% donated to medical research Website with live stats and the full technical writeup: https://b4q.io Curious if anyone here remembers using any of these early wallet tools. Some of these bugs were well-known at the time but the affected addresses are still funded years later.
 
-3h ago
+4h ago
 
 ---
 
@@ -127,13 +127,13 @@ Between 2009 and 2012, Bitcoin wallet software was experimental. Many early tool
 
 The fear-and-greed index is in a state of sustained extreme fear. This has historically signaled the bottom of a cycle. I don't think the index alone is a good barometer for trading, but it's hard to ignore when it's pegged to extreme fear for weeks or months. I'm buying - we'll see how that works out. ;)
 
-14h ago
+15h ago
 
 ---
 
 **[Bitcoin doesn't give a duck about you](https://www.reddit.com/r/Bitcoin/comments/1r9b1pc/bitcoin_doesnt_give_a_duck_about_you/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -141,7 +141,7 @@ The fear-and-greed index is in a state of sustained extreme fear. This has histo
 
 Made a simple BTC calculator that charts historical returns over time. It supports recurring buys or one time investments. You can change: Amount Start date Contribution schedule (one time, monthly, yearly, etc) It’s mainly to visualize how different entry points and recurring buys play out across cycles.
 
-🔗 [WhatIfInvest](https://www.whatifinvest.com/calculators/BTC_USD) • 2h ago
+🔗 [WhatIfInvest](https://www.whatifinvest.com/calculators/BTC_USD) • 3h ago
 
 ---
 
@@ -149,7 +149,7 @@ Made a simple BTC calculator that charts historical returns over time. It suppor
 
 Heating homes with Bitcoin obviously isn't a surprise to this sub. What's surprising is the website, publishing the article - Grist. Their about us page says: Grist is a nonprofit, independent media organization dedicated to reporting on climate change. Since 1999, we have used the power of journalism to engage the public about the perils of one of the most existential threats we face. We seek to document the often unequal impacts of climate change on communities in the United States and globally — as well as to show the promise of equitable climate solutions. With 40 journalists spread across nearly 20 U.S. states, Grist is the largest and most experienced climate-focused newsroom in the country. Our work aims to illustrate how the effects of a warming planet intersect with, well, everything.... https://grist.org/about/
 
-🔗 [Grist](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/) • 8h ago
+🔗 [Grist](https://grist.org/buildings/bitcoin-cryptocurrency-district-heat-finland/) • 9h ago
 
 ---
 
@@ -161,7 +161,7 @@ Heating homes with Bitcoin obviously isn't a surprise to this sub. What's surpri
 
 During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 23h ago
 
 Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 9h ago
 
 The world's two largest cryptocurrencies lost their luster over the past year.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Motley Fool • 2h ago
 
 The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -193,13 +193,13 @@ Bitcoin Magazine • 1h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 2h ago
+KITCO • 3h ago
 
 ---
 
 **[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
 
-Bloomberg • 20h ago
+Bloomberg • 21h ago
 
 ---
 
@@ -219,7 +219,7 @@ Barron's • 2d ago
 
 **[Clarity Act Odds Briefly Spike; Bitcoin Miner Tumbles On AI Funding Plans](https://www.investors.com/news/clarity-act-odds-spike-stablecoin-discussions-white-house-bitdeer-funds-ai-data-center/)**
 
-Investor's Business Daily • 21h ago
+Investor's Business Daily • 22h ago
 
 ---
 
@@ -275,7 +275,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 26m ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 1h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
@@ -303,7 +303,7 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 9h ago
+⬆️ 1 • 💬 0 • 10h ago
 
 ---
 
@@ -317,7 +317,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=-i8humbpZJQ FREE Daily
 
 📺 Library Of Wealth
 
-👁️ 4K • 👍 240 • 💬 74 • ⏱️ 14:04 • 13h ago
+👁️ 4K • 👍 240 • 💬 74 • ⏱️ 14:04 • 14h ago
 
 ---
 
@@ -327,7 +327,7 @@ https://youtu.be/RThI3UUSpwc?si=t0m9cQVPXyt35ZMD BUY ONE 1-STEP CHALLENGE → GE
 
 📺 100XClub
 
-👁️ 7K • 👍 876 • 💬 272 • ⏱️ 9:49 • 8h ago
+👁️ 7K • 👍 876 • 💬 272 • ⏱️ 9:49 • 9h ago
 
 ---
 
@@ -337,7 +337,7 @@ Aliens, Bitcoin, Tesla, and altcoin updates as Clarity Act looms. BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 10K • 👍 613 • 💬 86 • ⏱️ 17:34 • 7h ago
+👁️ 10K • 👍 613 • 💬 86 • ⏱️ 17:34 • 8h ago
 
 ---
 
@@ -347,7 +347,7 @@ Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA 
 
 📺 100XClub
 
-👁️ 2K • 👍 182 • 💬 61 • ⏱️ 1:35 • 3h ago
+👁️ 2K • 👍 182 • 💬 61 • ⏱️ 1:35 • 4h ago
 
 ---
 
@@ -357,7 +357,7 @@ The clock is ticking. The White House has officially set a March 1st deadline fo
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 275 • 💬 24 • ⏱️ 1:01:02 • 2h ago
+👁️ 3K • 👍 275 • 💬 24 • ⏱️ 1:01:02 • 3h ago
 
 ---
 
@@ -377,7 +377,7 @@ Is Bitcoin being hijacked by Wall Street or is that the point? This conversation
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 95 • ⏱️ 13:18 • 20h ago
+👁️ 19K • 👍 1K • 💬 95 • ⏱️ 13:18 • 21h ago
 
 ---
 
