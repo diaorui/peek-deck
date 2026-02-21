@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T19:46:12.520796+00:00'
+updated: '2026-02-21T20:26:31.257972+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
 - cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 19:46 UTC  
+**Last Updated:** February 21, 2026 at 20:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-19m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 My stack is still already cool imho. Happy stacking everyone
 
-20h ago
+21h ago
 
 ---
 
@@ -111,7 +111,7 @@ My stack is still already cool imho. Happy stacking everyone
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 28m ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 1h ago
 
 ---
 
@@ -119,7 +119,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-1h ago
+2h ago
 
 ---
 
@@ -133,7 +133,7 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-12h ago
+13h ago
 
 ---
 
@@ -147,7 +147,7 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 Trace Mayer spoke of the group of high conviction Bitcoiner's that won't sell all their Bitcoin at any price ! Does this mythical createture still exist ? ? ?
 
-8h ago
+9h ago
 
 ---
 
@@ -167,7 +167,7 @@ Fortune • 1d ago
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 14h ago
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 14m ago
+CoinDesk • 54m ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 1h ago
 
 The US Supreme Court on Friday struck down President Trump’s tariff policy.  Trump on Saturday announced new tariffs.  Bitcoin and Ethereum — previously hurt by Trump’s trade war — are holding steady.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ dlnews.com • 1h ago
 
 With the rial plunging, middle-class savers are bypassing local banks to move billions into the domestic crypto ecosystem.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -255,7 +255,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
 
-⬆️ 2 • 💬 0 • 6d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
+⬆️ 2 • 💬 0 • 7d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -267,7 +267,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 23m ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 1h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -281,7 +281,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 6h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 7h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -327,7 +327,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 176K • 👍 14K • 💬 2K • ⏱️ 32:14 • 6h ago
+👁️ 176K • 👍 14K • 💬 2K • ⏱️ 32:14 • 7h ago
 
 ---
 
@@ -337,7 +337,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 2K • 💬 75 • ⏱️ 52:37 • 5h ago
+👁️ 21K • 👍 2K • 💬 75 • ⏱️ 52:37 • 6h ago
 
 ---
 
@@ -367,7 +367,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 132 • ⏱️ 12:39 • 20h ago
+👁️ 25K • 👍 2K • 💬 132 • ⏱️ 12:39 • 21h ago
 
 ---
 
@@ -377,7 +377,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 1K • ⏱️ 24:35 • 21h ago
+👁️ 34K • 👍 1K • ⏱️ 24:35 • 22h ago
 
 ---
 
@@ -397,7 +397,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 431 • 💬 54 • ⏱️ 13:30 • 7h ago
+👁️ 5K • 👍 431 • 💬 54 • ⏱️ 13:30 • 8h ago
 
 ---
 
