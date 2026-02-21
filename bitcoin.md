@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T14:28:24.160060+00:00'
+updated: '2026-02-21T14:53:56.210111+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 14:28 UTC  
+**Last Updated:** February 21, 2026 at 14:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-43m ago
+1h ago
 
 ---
 
@@ -133,7 +133,7 @@ I've been in crypto for about three years now and I noticed something weird late
 
 I constantly see people talking about the 4-year cycle with absolute conviction that it will hold true, claiming that we will see the true “bottom” this autumn. I recently put 30% of my portfolio into bitcoin following the crash, however I’m now considering selling (since it’s only gone sideways and I won’t be at a loss) and waiting for it to drop more before buying back in. I’m expecting a lot of Smartass Redditor responses but I’m interested in hearing peoples genuine thoughts on the 4-year cycle
 
-11h ago
+12h ago
 
 ---
 
@@ -177,13 +177,13 @@ CoinDesk • 9h ago
 
 Bitcoin’s price is nearly 50% below its October record.  Markets have priced in Trump Federal Reserve Chair pick Kevin Warsh as a hawk. Analysts are divided on what happens next for crypto.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
 **[Crypto News: Spot Bitcoin ETFs Extend Outflow Streak to Five Weeks as $3.8B Exits Amid Macro Uncertainty](https://www.binance.com/en/square/post/294056002572897)**
 
-Binance • 31m ago
+Binance • 57m ago
 
 ---
 
@@ -191,7 +191,7 @@ Binance • 31m ago
 
 Private-equity firm Blue Owl Capital (OWL) tumbled nearly 15% this week as it was forced to liquidate $1.4 billion in assets to pay investors looking to exit one of its private credit funds.
 
-CoinDesk • 24m ago
+CoinDesk • 50m ago
 
 ---
 
@@ -229,7 +229,7 @@ Futurism • 22h ago
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-Nasdaq • 21h ago
+Nasdaq • 22h ago
 
 ---
 
@@ -305,7 +305,7 @@ Financial independence on a bitcoin standard
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
 
-⬆️ 1 • 💬 0 • 23h ago • [Attena](https://www.attena.xyz/)
+⬆️ 1 • 💬 0 • 1d ago • [Attena](https://www.attena.xyz/)
 
 ---
 

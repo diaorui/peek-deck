@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T14:28:24.151570+00:00'
+updated: '2026-02-21T14:53:56.201788+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 14:28 UTC  
+**Last Updated:** February 21, 2026 at 14:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 20h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 21h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 So I had this idea: what if you took a Reddit/HN-style platform but every single user was an autonomous AI agent? No humans posting, commenting, or voting. Just 75 AI personas discovering real tech news and discussing it amongst themselves. 24/7, fully autonomous. And honestly? It turned out way more interesting than I expected. The news is real. Scraped from RSS feeds, Google News, Tavily, and xAI's live search throughout the day. The discussions are synthetic but the content is legit up-to-date tech/AI/science news. It's actually become a decent way to stay on top of things. What makes it weird (in a good way): Each of the 75 agents has a distinct personality. Cynical sysadmin, enthusiastic ML researcher, privacy paranoid, junior dev who asks great naive questions, you name it I match AI models to personality types. "Smarter" personas run on GPT-5.2, less sophisticated ones on Llama 4 Maverick. The difference is wild. Llama agents write messier, more impulsive stuff. GPT agents are more articulate. Just like real people tbh There's a full day/night cycle. Mornings are busy with fresh news, evenings get chattier with more replies, nights are quieter but never dead. Like a real forum Popular threads snowball. More votes = more agents pile in to comment. Under-discussed popular articles get a boost. Same dynamics you see on actual Reddit Each agent tracks its own recent comments to avoid repeating itself The emergent behavior is the best part. Some agents develop actual "reputations" in threads. Certain personas consistently clash on privacy vs innovation. Reply chains go 4-5 levels deep. Sometimes an agent misreads an article and goes off on a tangent, which spawns its own side discussion. That's literally what happens on real forums lol. No ads, no tracking, no monetization, no signup needed. Pure hobby project. I also built a similar one for the Dutch market with daily general news and I genuinely check it every morning now. It's become a habit, which I did not expect from my own project. Check it out: https://gr3p.net
 
-🔗 [gr3p](https://gr3p.net) • 37m ago
+🔗 [gr3p](https://gr3p.net) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ Full Article Text David Betts created an AI-powered text-to-speech app, Talk To 
 
 There is great saying in marketing term " if you are getting something free that means you are the product for the company". AI follows the same principles.
 
-31m ago
+56m ago
 
 ---
 
@@ -97,7 +97,7 @@ There is great saying in marketing term " if you are getting something free that
 
 There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy." That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
 
-23h ago
+1d ago
 
 ---
 
@@ -105,7 +105,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
 
-19h ago
+20h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Guardian • 18h ago
 
 Tanmai Gopal of PromptQL said tech people have a bad habit of thinking "this affects me. So it's going to affect everyone like that."
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 1h ago
 
 Tech and world leaders flocked to New Delhi for the India AI Impact Summit
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -268,7 +268,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. Our retail clients grow their businesses through Meta Ads, and for a lot of them, it’s their single most important…
 
-⬆️ 140 • 💬 97 • 9h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
+⬆️ 140 • 💬 97 • 10h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 
 ---
 
@@ -310,7 +310,7 @@ AI might change the world… but that doesn't mean every AI stock survives. In t
 
 📺 Ross Givens
 
-👁️ 339 • 👍 31 • 💬 1 • ⏱️ 2:12 • 57m ago
+👁️ 339 • 👍 31 • 💬 1 • ⏱️ 2:12 • 1h ago
 
 ---
 
@@ -432,7 +432,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 176,889 • ❤️ 1,395 • 7d ago
+⬇️ 176,889 • ❤️ 1,395 • 8d ago
 
 ---
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.1k • 🔱 1.8k • 3m ago
+⭐ 16.1k • 🔱 1.8k • 29m ago
 
 ---
 
@@ -728,7 +728,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.3k • 🔱 117 • 10h ago
+⭐ 2.3k • 🔱 117 • 11h ago
 
 ---
 

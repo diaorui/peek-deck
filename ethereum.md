@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T14:28:24.166041+00:00'
+updated: '2026-02-21T14:53:56.216117+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 14:28 UTC  
+**Last Updated:** February 21, 2026 at 14:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -112,7 +112,7 @@ Lobsters like block too You can use x402 for agents to pay and get access to blo
 
 There’s been a lot of talk lately about how fast teams are shipping contracts especially with AI-assisted “vibe coding.” Recently, the Ethereum Foundation highlighted the release of the OWASP Smart Contract Top 10, which outlines the most critical risks developers and security teams should be protecting against today. What stands out is how familiar many of these failure patterns still are: access control issues, logic flaws, unsafe assumptions, and upgrade risks. The tooling is getting better. The awareness is getting better. But the same classes of bugs keep showing up in production. Feels like the real challenge in 2026 isn’t whether we can write contracts faster it’s whether we can operate them safely at scale. Curious how others here are thinking about this balance between speed and security.
 
-23h ago
+1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Few years Ago no one believe quantum threat is even a thing. But lately it feels
 
 The tokenized shares were issued by the BNP Paribas’ AssetFoundryTM platform using a "permissioned access model on Ethereum."
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 1d ago
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-Nasdaq • 21h ago
+Nasdaq • 22h ago
 
 ---
 
@@ -278,7 +278,7 @@ Bitcoin is facing a major narrative test in 2026. After a brutal 50% drawdown, c
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 153 • 💬 7 • ⏱️ 22:07 • 14h ago
+👁️ 4K • 👍 153 • 💬 7 • ⏱️ 22:07 • 15h ago
 
 ---
 
@@ -328,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 247 • 👍 55 • 💬 3 • ⏱️ 6:33 • 35m ago
+👁️ 247 • 👍 55 • 💬 3 • ⏱️ 6:33 • 1h ago
 
 ---
 
