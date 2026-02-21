@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T05:27:11.321951+00:00'
+updated: '2026-02-21T06:03:04.727256+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 05:27 UTC  
+**Last Updated:** February 21, 2026 at 06:03 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 9h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 10h ago
 
 ---
 
@@ -60,7 +60,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 My goal is to do a robotics startup, current robotics masters student here going for a PhD soonish. What field of robotics do you guys think has the most potential for a successful startup? I want to do field robotics specifically. My biggest 2 rn is marine and space robotics, I would ideally find a lab that works in one of those areas and contribute/learn as much as I can.
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ My goal is to do a robotics startup, current robotics masters student here going
 
 Join us online Wednesday, February 25th at 2pm PT. All are welcome to attend. RSVP Here
 
-8h ago
+9h ago
 
 ---
 
@@ -76,7 +76,7 @@ Join us online Wednesday, February 25th at 2pm PT. All are welcome to attend. RS
 
 I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
 
-14h ago
+15h ago
 
 ---
 
@@ -84,7 +84,7 @@ I had a daydream to help scientists find out more information from rare caves of
 
 A bidirectional Digital Twin for a 3-DOF robotic arm, built using Arduino, Unity 3D, and Serial Communication. This project creates a real time connection between the physical robotic arm and its digital twin, enabling: Physical to Digital: Potentiometer sensors drive the Unity model in real-time. Digital to Physical: Adjusting the Unity model actuates the real servos via serial commands. Technical Highlights: Euler Angle Mapping to accurately mirror joint rotations between Unity and hardware. (I have explained euler angles in my documentation) State Machine Implementation to prevent jittering and data collisions. Hardware: Arduino Uno, 3x MG90S Servos, 3x 10k Potentiometers, isolated power rails. Challenges & Solutions: Mesh Deformation in Unity that were resolved with pivot/mesh hierarchy normalization. Coordinate System Mismatch that i solved via mapping and axis inversion. Latency issues were solved with manual/monitor mode toggle. Skills Demonstrated: Robotics, Embedded Systems, C++/C#, Unity3D, Electronics, Real-Time Systems, Digital Twin Architecture. I’ve documented everything, including circuit diagrams, code, and live demo, on my GitHub: https://github.com/D1Ahmed/Robotic-Arm-3DOF-arduino-and-unity I'll prefer u guys to checkout the Documentation on my github, and if anyone is interested this project and wanna clear their doubts, I am available to share my knowledge. This project not only strengthened my understanding of cyber+physical systems but also reinforced my ability to integrate hardware and software seamlessly. #Robotics #DigitalTwin #Unity3D #Arduino #EmbeddedSystems #CyberPhysicalSystems #Innovation #Engineering #Electronics #RealtimeSimulation
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ A bidirectional Digital Twin for a 3-DOF robotic arm, built using Arduino, Unity
 
 **[Good Boy](https://www.reddit.com/r/robotics/comments/1ra54wk/good_boy/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -136,7 +136,7 @@ Tech Xplore • 14h ago
 
 A professor said the robot was developed at Galgotias University, but internet users quickly identified it as being commercially available from China’s Unitree Robotics.
 
-NBC News • 1d ago
+NBC News • 2d ago
 
 ---
 
@@ -160,7 +160,7 @@ MIT News • 1d ago
 
 Key PointsTesla is repurposing EV factories to build its Optimus robots.
 
-Nasdaq • 9h ago
+Nasdaq • 10h ago
 
 ---
 
@@ -176,7 +176,7 @@ Automotive News • 1d ago
 
 Everyone knows NVIDIA (NASDAQ:NVDA) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the days of humanoid robots ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -268,7 +268,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 24K • 👍 2K • 💬 458 • ⏱️ 14:51 • 14h ago
+👁️ 24K • 👍 2K • 💬 458 • ⏱️ 14:51 • 15h ago
 
 ---
 

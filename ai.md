@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T05:27:11.306194+00:00'
+updated: '2026-02-21T06:03:04.709331+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
 - social
-- videos
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 05:27 UTC  
+**Last Updated:** February 21, 2026 at 06:03 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 11h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 12h ago
 
 ---
 
@@ -49,7 +49,7 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 
 A Substack post by Farida Khalaf argues AI models have no moat, using the Clawbot/OpenClaw story as proof. The core thesis — models are interchangeable commodities — is correct. I build on top of LLMs and have swapped models three times with minimal impact on results. But the article itself is clearly AI-generated, and it's full of errors that prove the opposite of what the author intended. The video: The article includes a 7-second animated explainer. Pause it and you find Anthropic spelled as "Fathropic," Claude as "Clac#," OpenAI as "OpenAll," and a notepad reading "Cluly fol Slopball!" The article's own $300B valuation claim shows up as "$30B" in the video. There's no way the author watched this before publishing... The timeline is fabricated: The article claims OpenAI "panic-shipped" GPT-5.2-Codex on Feb 5 in response to Clawbot going viral on Jan 27. Except GPT-5.2-Codex launched on January 14 — two weeks before Clawbot. What actually launched Feb 5 was GPT-5.3-Codex. The article got the model name wrong. The selloff attribution is wrong: The article blames the February tech selloff on Clawbot proving commoditization. Bloomberg, Fortune, and CNBC all attribute it to Anthropic's Cowork legal automation plugin — investors worried about AI replacing IT services work. RELX crashed 13%, Nifty IT fell 19%. None of it was about Clawbot. The financials are stale: cites Anthropic at $183B and projects a 40-60% IPO haircut. By publication date, Anthropic's term sheet was at $350B. The round closed at $380B four days later. The irony: an AI-generated article about AI having no moat is the best evidence that AI still needs humans checking the work. The models assembled a convincing shape of market analysis without verifying whether any of it holds together. I wrote a full fact-check with sources here: An AI Wrote About AI's Death. Nobody Checked. Disclosure: I used AI tools for research and drafting. Every claim was verified against primary sources. Every sentence was reviewed before publishing. That's the point.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 Full Article Text David Betts created an AI-powered text-to-speech app, Talk To Me, Goose, that allows people with ALS and other disabilities to speak with their own voice. On a quiet, cold day inside his Mount Washington home, David Betts sits in his living room, framed by sweeping views of Downtown Pittsburgh. The walls and shelves hold evidence of a life spent pushing limits—Ironman race medals, cycling gear, professional accolades and more—yet Betts steers the conversation away from himself. Instead, he tells story after story about the people who have inspired him. This is an instinct that has only deepened since his diagnosis of amyotrophic lateral sclerosis—a progressive neurodegenerative disease with no cure. Betts jokes easily, carrying himself like someone long accustomed to hard goals and harder work. “Yeah, I’ve been known to be a little relentless.” Relentless is one way to put it. Before ALS entered his life, Betts was a senior leader at Deloitte, a healthcare consultant and an endurance athlete who completed Ironman triathlons and a seven-day stage race through the Alps—“the hardest amateur cycling event in the world.” After nearly 22 years with Deloitte, he retired in January. At his retirement party, colleagues presented him with a bicycle covered in name tags, each person choosing a part—from training wheels to handlebar and pedals—that represented how they saw him. “The ones that make me the happiest are the training wheels,” he admitted, tears springing to his eyes. Now 56, Betts is facing a different kind of challenge. He is living with ALS, also known as Lou Gehrig's disease, a fatal disease affecting the body’s nerve cells. ALS eventually causes nerve cells to cease functioning and die, ultimately leading to extreme muscle weakness, paralysis and death, according to the CDC. Both the causes of ALS and the exact number of those who have the disease are mostly unknown. The CDC suggests about 30,000 Americans are living with the disease and an additional 5,000 are diagnosed annually. Instead of retreating inward, Betts has spent the past year building outward, creating an AI-powered communication app designed to help people with ALS continue speaking in their own voice, tone and intent—even after their natural voice begins to fade. Betts named the app—Talk To Me, Goose —as a nod to the 1980s film “Top Gun” and a phrase that the character Maverick (Tom Cruise) utters during the final dogfight scene when he’s grasping for focus, guidance and courage. Maverick repeats the emotional line in the sequel, released in 2022. ‘I knew something was wrong’ Long before his ALS diagnosis, Betts sensed that something in his body had changed. Tiny signs emerged—twitches, cramps, fatigue, changes in his speech. Despite his fitness, something was off and not everyone took him seriously. Many doctors “weren’t listening to me about what I was experiencing.” After months of searching for answers, Betts received his diagnosis in December 2024 at the Sean M. Healey and AMG Center for ALS in Boston. The verdict: sporadic ALS, with no known genetic cause. ALS is terminal. Most patients survive less than five years. Betts heard that prognosis—and promptly chose not to dwell on it. “They told me most people get two to five years. Go get your affairs in order. That kind of thing, I don’t listen to.” Fear is unavoidable, he says, but inaction is a choice. “Yes, I’m terrified. I know what’s going to happen. I can’t let that consume me. Otherwise I wouldn’t move. I’d be paralyzed without being paralyzed.” The symptom that scared Betts most wasn’t losing mobility—it was speech. His ability to communicate had led him from bachelor’s and master’s degrees in theater arts to an MBA at Carnegie Mellon University to a principal role within Deloitte, where he was a highly sought-after problem solver in the life sciences and health care industries. Betts knew what awaited him if he did nothing. “All I could think about was the Speak & Spell-like voice that Stephen Hawking had.” He found that unacceptable—not just personally but also philosophically. “It’s 2024. There must be something better,” he kept telling himself. Betts saw a deeper failure in how assistive communication has been handled for decades. “We ask people to settle for far less than what’s possible, and we’ve been doing it for far too long.” So he did what he’s always done when confronted with a hard problem. “I’m a problem solver,” he said. “That’s my job. I solve problems.” Building a voice from scratch Despite having no background in app development, Betts decided to build the solution himself. “I can wait, or I can figure it out. What do I have to lose?” Betts enrolled in online coding courses. He got frustrated. He got bored. He leaned heavily on artificial intelligence tools, not to replace thinking but to accelerate it. “I used it very much like a teammate,” he said. Within weeks, he had a working prototype. Within months, a full app. “I didn’t know how long I’d have my voice. I still don’t.” Using voice-cloning technology from ElevenLabs—an advanced AI voice technology company founded in 2022—Betts discovered something startling. “It took me, like, 30 15-second clips to make my first voice clone.” When he played it back, the result stopped him cold. “This sounds like me,” he realized, stunned. The technology already existed, but no one had put it together yet in a way that honored identity, emotion and timing. “If we can make a deep fake of Tom Cruise,” then the potential to use that same power for good is already there, Betts said. Closing the ‘awkward pause’ One of Betts’ central missions for the app is solving what he calls “the awkward pause”—the silence that creeps in when someone types too slowly to be part of a conversation. That lag causes others to psychologically disengage, he explained, because it takes too long to type what you want to say. The pause is where isolation creeps in and where connection fails. Typing speeds for many assistive devices average six words per minute—far too slow, in Betts’ opinion. His app predicts intent, mood and tone—allowing users to speak faster, more naturally and with emotional range. The emotional heart of the project arrived via a Montana family that Betts connected with through their shared ALS journey. The father, who died Jan. 26, was in the advanced stages of the disease and had not been able to speak for some time. Using his cloned voice and Betts’ app, he was able to tell his three children a bedtime story—something his youngest had never heard him do before. Hearing about that connection between the father and his children touched Betts’ heart. He remembers telling his wife, Anne Mundell, “I don’t care if anyone ever uses the app again. Mission accomplished.” Expanding outward In April, Betts introduced himself to the ALS community on Facebook. A message arrived from Wendy Faust, executive director of the Live Like Lou Foundation, a national nonprofit organization established in 2017 to assist ALS patients. Named for MLB Hall of Famer Lou Gehrig, it focuses on “leaving ALS better than we found it” through grants, volunteer support and research initiatives. What followed was a cascade of coincidences with Faust: shared hometowns in Southern California, mutual friends, Pittsburgh ties and even a Deloitte connection through a Live Like Lou board member whose daughter previously had worked on Betts’ team. “It was crazy,” he said, laughing. Today, Talk To Me, Goose is available for free to people living with ALS in the U.S. and Canada through Live Like Lou. The app works in 31 languages, across Apple, Android and Windows platforms—including a Windows beta version that Betts released on Christmas Day. “It was my Christmas gift to myself.” He spent that holiday debugging voice speed settings for a woman who needed it immediately. Globally, Betts sees a much larger horizon: “There’s 97 million people globally who would benefit from assistive technology.” He is scheduled to speak this month at the United Nations Office in Vienna after being selected as a Zero Project Awardee and speaker for his work on the app. The Zero Project, founded in 2008, is a global initiative dedicated to creating a world with zero barriers for people with disabilities. It identifies, researches and shares innovative scalable solutions, particularly focusing on themes like employment. Talk to Me, Goose will be recognized with a Zero Project Award, “reflecting its strong endorsement by the global disability innovation community,” Wilfried Kainz, Zero Project’s head of research, said in an email. The app was selected by more than 400 experts from 586 nominations across 93 countries. “David Betts' application exemplifies how innovators can harness the power of assistive technology for rapid development and deployment at scale,” Kainz said. “It is particularly noteworthy for its highly innovative use of AI to bring rich, human texture into generated speech, setting a compelling benchmark for inclusive voice technology.” A lasting legacy To help sustain the free ALS app, Betts created a companion storytelling platform called Fables Adventures—a for-profit story-generating app. Betts and his wife together founded Mundell Designs as the umbrella for the technology he is tinkering with in retirement. The small, mission-driven company is the home of Talk To Me, Goose and Fables Adventures. The couple has personally invested in the company, allowing Betts to focus less on profit and more on access, advocacy and scale. Fables arose as a way “to support my habit of wanting to give things away,” he says, laughing. Subscriptions, audio stories and community-created content help fund free access to Talk To Me, Goose for people with ALS in the U.S. and Canada through the Live Like Lou Foundation—a model Betts hopes will allow the company to sustain both creativity and care. The effort has already raised more than $81,000 for Live Like Lou, with a goal of $250,000 this year. He’s also become an advocate for federal ALS policy, pushing for reauthorization of the ACT for ALS legislation before it expires in 2026. “Without that, I think we’re just going to slow down finding a cure.” Ever onward Betts still rides his bike. Still climbs stairs. Still measures progress—without obsessing. “I don’t like to measure, but I take inventory.” He can no longer climb hills near his house, but he can still ride his bicycle by the river. “I say, ‘Not yet.’ I say ‘Not yet’ a lot.” He recently committed to riding 50 miles for Faust’s 50th birthday: “I’ve got 41 more to go.” Relentless, indeed. People often ask if he’s angry. “I don’t have time to be angry. I don’t have the energy to be angry. I choose joy.” He points to a book by Hanna Du Plessis, “Bedsores and Bliss: Finding Fullness of Life with a Terminal Diagnosis” (Okay Then, $18.57), and a concept that he gleaned from her words and that guides him now: “Grieve with abandon all that is lost and then pause and reflect on everything that is still possible.” Betts has done both. In the process, he has given thousands of people something many thought they would lose forever: their own voice.
 
-🔗 [Pittsburgh Post-Gazette](https://www.post-gazette.com/life/goodness/2026/02/01/als-ai-voice-app-david-betts-pittsburgh/stories/202602010037) • 2h ago
+🔗 [Pittsburgh Post-Gazette](https://www.post-gazette.com/life/goodness/2026/02/01/als-ai-voice-app-david-betts-pittsburgh/stories/202602010037) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Tiktok but with AI-generated interactive mini apps. Hear me out... Something I'v
 
 We open-sourced optimize_anything, an API that optimizes any text artifact. You provide a starting artifact (or just describe what you want) and an evaluator — it handles the search. import gepa.optimize_anything as oa result = oa.optimize_anything( seed_candidate="<your artifact>", evaluator=evaluate, # returns score + diagnostics ) It extends GEPA (our state of the art prompt optimizer) to code, agent architectures, scheduling policies, and more. Two key ideas: (1) diagnostic feedback (stack traces, rendered images, profiler output) is a first-class API concept the LLM proposer reads to make targeted fixes, and (2) Pareto-efficient search across metrics preserves specialized strengths instead of averaging them away. Results across 8 domains: learned agent skills pushing Claude Code to near-perfect accuracy simultaneously making it 47% faster, cloud scheduling algorithms cutting costs 40%, an evolved ARC-AGI agent going from 32.5% → 89.5%, CUDA kernels beating baselines, circle packing outperforming AlphaEvolve's solution, and blackbox solvers matching andOptuna. pip install gepa | Detailed Blog with runnable code for all 8 case studies | Website
 
-🔗 [GEPA](https://gepa-ai.github.io/gepa/blog/2026/02/18/introducing-optimize-anything/) • 4h ago
+🔗 [GEPA](https://gepa-ai.github.io/gepa/blog/2026/02/18/introducing-optimize-anything/) • 5h ago
 
 ---
 
@@ -97,7 +97,7 @@ We open-sourced optimize_anything, an API that optimizes any text artifact. You 
 
 So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
 
-10h ago
+11h ago
 
 ---
 
@@ -105,7 +105,7 @@ So I've been watching people struggle with file organization for years. They hav
 
 There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy.” That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
 
-14h ago
+15h ago
 
 ---
 
@@ -113,7 +113,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 There are two channels that I enjoy listening to while I sleep. They obviously have AI narrators. I believe they are commonly used ones as I've heard them used by a couple different channels. I asked because I want to create some narrated versions of public domain stories as well as Conan the barbarian (it's still 2 years off from being in the public domain but come on that just splitting hairs). I just want these for my own use for falling asleep. Maybe I'd post them on YouTube but it really isn't worth the target on my back and the hate. Ideally I would like to use the narrator for these videos? https://youtu.be/YeR53Pzccrs?si=wPoGrV9oVx842J0V This one is a nice voice as well that I would like to know the program for. https://youtu.be/uAnzLwc63bk?si=2KKgZ9HF6Sw-GoUd Any advice is appreciated
 
-7h ago
+8h ago
 
 ---
 
@@ -131,7 +131,7 @@ blog.google • 1d ago
 
 **[A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.](https://www.nytimes.com/2026/02/20/technology/ai-coding-software-jobs.html)**
 
-The New York Times • 19h ago
+The New York Times • 20h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 19h ago
 
 A Pentagon spokesperson told NBC News that it is reviewing its relationship with Anthropic.
 
-NBC News • 11h ago
+NBC News • 12h ago
 
 ---
 
@@ -147,7 +147,7 @@ NBC News • 11h ago
 
 After meeting with unspecified tech leaders, senator calls for urgent policy action as companies race to build ever more powerful systems
 
-The Guardian • 58m ago
+The Guardian • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ CNN • 1d ago
 
 Tech giant blames ‘user error, not AI error’ for incident in December involving its Kiro tool
 
-Financial Times • 18h ago
+Financial Times • 19h ago
 
 ---
 
@@ -179,7 +179,7 @@ Financial Times • 18h ago
 
 Reported issues at Amazon Web Services raise questions about firm’s use of artificial intelligence as it cuts staff
 
-The Guardian • 13h ago
+The Guardian • 14h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Guardian • 13h ago
 
 Allegedly, the coding assistant decided to “delete and recreate the environment” that was causing problems.
 
-Gizmodo • 9h ago
+Gizmodo • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ Axios • 7h ago
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 695 • 💬 399 • 18h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 695 • 💬 399 • 19h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -213,7 +213,7 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 694 • 💬 175 • 15h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 694 • 💬 175 • 16h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
@@ -260,7 +260,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 141 • 💬 64 • 10h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 141 • 💬 64 • 11h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -288,7 +288,7 @@ Want to create unlimited AI videos for FREE? In this video, I'll show you the be
 
 📺 Automation Xpert
 
-👁️ 6K • 👍 338 • 💬 21 • ⏱️ 12:35 • 19h ago
+👁️ 6K • 👍 338 • 💬 21 • ⏱️ 12:35 • 20h ago
 
 ---
 
@@ -298,7 +298,7 @@ Silicon Valley relies on hype cycles. But for the last few weeks, AI insiders ha
 
 📺 The Atlantic
 
-👁️ 6K • 👍 221 • 💬 61 • ⏱️ 44:00 • 13h ago
+👁️ 6K • 👍 221 • 💬 61 • ⏱️ 44:00 • 14h ago
 
 ---
 
@@ -318,7 +318,7 @@ My site: https://natebjones.com Full Story w/ Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 49K • 👍 2K • 💬 451 • ⏱️ 30:13 • 14h ago
+👁️ 49K • 👍 2K • 💬 451 • ⏱️ 30:13 • 15h ago
 
 ---
 
@@ -368,7 +368,7 @@ At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelli
 
 📺 DRM News
 
-👁️ 57K • 👍 665 • 💬 332 • ⏱️ 4:56 • 1d ago
+👁️ 57K • 👍 665 • 💬 332 • ⏱️ 4:56 • 2d ago
 
 ---
 
@@ -394,7 +394,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text`
 
-⬇️ 105,189 • ❤️ 776 • 23h ago
+⬇️ 105,189 • ❤️ 776 • 1d ago
 
 ---
 
@@ -696,7 +696,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 316 • 1h ago
+⭐ 3.1k • 🔱 316 • 2h ago
 
 ---
 
@@ -726,7 +726,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.3k • 🔱 116 • 1h ago
+⭐ 2.3k • 🔱 116 • 2h ago
 
 ---
 

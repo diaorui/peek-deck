@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T05:27:11.313807+00:00'
+updated: '2026-02-21T06:03:04.717915+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 05:27 UTC  
+**Last Updated:** February 21, 2026 at 06:03 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -101,7 +101,7 @@ My stack is still already cool imho. Happy stacking everyone
 
 I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ HB 2080 would establish a reserve fund authorizing the state treasurer to accept
 
 Been tracking the Bitcoin Power Law model for a while now. Here's this week's update. BTC is sitting at $67,745. Power Law fair value is around $123,947 — about 45% below fair value. Oscillator reads 13.7% The oscillator has ticked up marginally from 13.6% to 13.7%, remaining firmly entrenched in the Deep Buy Zone (0–25%). This is historically rare territory that typically occurs only 1–2 times per halving cycle. The oscillator's EMA(150) at 31.2% remains below its EMA(350) at 37.7%, maintaining a bearish spread of -6.5 points. This configuration — deep value combined with bearish momentum — represents the model's maximum accumulation signal. Full breakdown with charts here if anyone's interested: https://timetobuybitcoin.com/analysis/maximum-accumulation-zone-deepens-oscillator-at-137-amid-his-2026-02-20 Not financial advice, just sharing the data. Curious what you guys think.
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ Been tracking the Bitcoin Power Law model for a while now. Here's this week's up
 
 Given the significant drop in Bitcoin’s price recently, do you think this could be a good opportunity to invest? Some investors see sharp declines as a chance to buy at a lower entry point, while others worry that the market could continue to fall. Considering the volatility and the long-term potential often associated with cryptocurrencies, would you view this downturn as a strategic buying moment, or would you prefer to wait for more stability before making an investment decision?
 
-6h ago
+7h ago
 
 ---
 
@@ -147,7 +147,7 @@ Bickerstaff had the opportunity to go hard on Bitcoin, but missed it.
 
 I just reached my very small but significant goal to me, 0.1. Should I diversify my assets and invest in stocks or keep going with bitcoin and eventually aim for 0.5-1btc? I seriously see the value in bitcoin but am worried about having everything in one basket.
 
-3h ago
+4h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1d ago
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 13m ago
+CoinDesk • 48m ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqdfMM51OXMJ5p-3b7-zgQI13AH3jVNrvfAMvD9A_kFVXvN-7Vp6qvF8&gaa_ts=6999459a&gaa_sig=_B-5aeXpXpOBMjLSaLLoczeDH1AnDDYKB5G_G_iYFXTIcrUZihVsj0UcyclzYvRzTKGnoZXhQp2J5aShO1RRiw%3D%3D)**
 
-Barron's • 19h ago
+Barron's • 20h ago
 
 ---
 
@@ -211,7 +211,7 @@ Fortune • 2d ago
 
 BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 16h ago
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-Nasdaq • 12h ago
+Nasdaq • 13h ago
 
 ---
 
@@ -227,7 +227,7 @@ Nasdaq • 12h ago
 
 Saylor has been offsetting the Bitcoin drag by reverting to a different and dangerous scheme: Issuing tons of preferred stock.
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -281,7 +281,7 @@ The company said it will focus on building data centers for high-performance com
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
-⬆️ 1 • 💬 0 • 17h ago
+⬆️ 1 • 💬 0 • 18h ago
 
 ---
 
@@ -297,13 +297,13 @@ Financial independence on a bitcoin standard
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
 
-⬆️ 1 • 💬 0 • 14h ago • [Attena](https://www.attena.xyz/)
+⬆️ 1 • 💬 0 • 15h ago • [Attena](https://www.attena.xyz/)
 
 ---
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 20h ago
+⬆️ 1 • 💬 0 • 21h ago
 
 ---
 
@@ -317,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 20K • 👍 1K • 💬 160 • ⏱️ 9:14 • 5h ago
+👁️ 20K • 👍 1K • 💬 160 • ⏱️ 9:14 • 6h ago
 
 ---
 
@@ -347,7 +347,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 16K • 👍 784 • ⏱️ 24:35 • 7h ago
+👁️ 16K • 👍 784 • ⏱️ 24:35 • 8h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin #Crypto #Finance Washington's tone toward crypto is shifting and the pus
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 728 • 💬 121 • ⏱️ 57:26 • 13h ago
+👁️ 15K • 👍 728 • 💬 121 • ⏱️ 57:26 • 14h ago
 
 ---
 
@@ -407,7 +407,7 @@ Aliens, Bitcoin, Tesla, and altcoin updates as Clarity Act looms. BITUNIX TRADE 
 
 📺 Lark Davis
 
-👁️ 16K • 👍 780 • 💬 107 • ⏱️ 17:34 • 17h ago
+👁️ 16K • 👍 780 • 💬 107 • ⏱️ 17:34 • 18h ago
 
 ---
 
