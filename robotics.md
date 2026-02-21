@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T10:54:11.711564+00:00'
+updated: '2026-02-21T11:23:29.006224+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 10:54 UTC  
+**Last Updated:** February 21, 2026 at 11:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
-22h ago
+23h ago
 
 ---
 
@@ -44,7 +44,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 - Project website: https://dreamdojo-world.github.io - Paper: https://arxiv.org/abs/2602.06949 - Code repo and model ckpts: https://github.com/NVIDIA/DreamDojo From Jim Fan on 𝕏: https://x.com/DrJimFan/status/2024895359236051274
 
-50m ago
+1h ago
 
 ---
 
@@ -52,7 +52,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 China's humanoid robots have gone from viral stumbles to flawless kung fu flips in just one year. Showcased at the 2026 Spring Festival Gala, startups like Unitree are launching highly capable robots starting at just $13,500, heavily undercutting US competitors like Tesla's Optimus.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 49m ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 1h ago
 
 ---
 
@@ -126,13 +126,13 @@ CNBC • 1d ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 23h ago
+Business Insider • 1d ago
 
 ---
 
 **[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
 
-Tech Xplore • 19h ago
+Tech Xplore • 20h ago
 
 ---
 
@@ -172,7 +172,7 @@ NBC News • 2d ago
 
 The Ratel Robotics' robot launches fiber-optic drones close to the front lines in Ukraine so operators can stay farther back and safer.
 
-AOL.com • 18h ago
+AOL.com • 19h ago
 
 ---
 

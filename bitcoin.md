@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T10:54:11.702390+00:00'
+updated: '2026-02-21T11:23:28.996933+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 10:54 UTC  
+**Last Updated:** February 21, 2026 at 11:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 My stack is still already cool imho. Happy stacking everyone
 
-11h ago
+12h ago
 
 ---
 
 **[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
 
-22h ago
+23h ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -101,7 +101,7 @@ My stack is still already cool imho. Happy stacking everyone
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
 
-9h ago
+10h ago
 
 ---
 
@@ -117,7 +117,7 @@ HB 2080 would establish a reserve fund authorizing the state treasurer to accept
 
 I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ I constantly see people talking about the 4-year cycle with absolute conviction 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 1d ago
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 5h ago
 
 The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
 
-Bitcoin Magazine • 17h ago
+Bitcoin Magazine • 18h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bitcoin Magazine • 17h ago
 
 Cryptocurrency markets showed resilience Friday after US President Donald Trump unveiled a new universal 10% tariff on imports, even as the policy followed a Supreme Court decision blocking his earlier use of emergency economic powers. Key Takeaways: Crypto prices held steady despite Trump announcing a new 10% universal tariff. The ...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bloomberg.com • 1d ago
 
 Bitcoin's downturn has certain critics predicting a total collapse, suggesting its value could eventually plunge to zero dollars.
 
-Futurism • 18h ago
+Futurism • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ Michael Saylor finally admits bitcoin is in a bear market - but the question is 
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 334 • 💬 49 • ⏱️ 1:11:34 • 15h ago
+👁️ 7K • 👍 334 • 💬 49 • ⏱️ 1:11:34 • 16h ago
 
 ---
 
@@ -341,7 +341,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 95 • ⏱️ 55:11 • 18h ago
+👁️ 23K • 👍 1K • 💬 95 • ⏱️ 55:11 • 19h ago
 
 ---
 
@@ -351,7 +351,7 @@ Bitcoin is down roughly 50% from its all-time high, and sentiment is collapsing.
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 648 • 💬 52 • ⏱️ 16:21 • 20h ago
+👁️ 11K • 👍 648 • 💬 52 • ⏱️ 16:21 • 21h ago
 
 ---
 
@@ -361,7 +361,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • ⏱️ 24:35 • 12h ago
+👁️ 25K • 👍 1K • ⏱️ 24:35 • 13h ago
 
 ---
 
@@ -371,7 +371,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 101 • ⏱️ 12:39 • 11h ago
+👁️ 19K • 👍 1K • 💬 101 • ⏱️ 12:39 • 12h ago
 
 ---
 
@@ -379,7 +379,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 CryptoWendyO
 
-👁️ 11K • 👍 608 • 💬 14 • ⏱️ 2:12 • 8h ago
+👁️ 11K • 👍 608 • 💬 14 • ⏱️ 2:12 • 9h ago
 
 ---
 
@@ -409,7 +409,7 @@ Bitcoin #Crypto #Finance Washington's tone toward crypto is shifting and the pus
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 759 • 💬 130 • ⏱️ 57:26 • 18h ago
+👁️ 16K • 👍 759 • 💬 130 • ⏱️ 57:26 • 19h ago
 
 ---
 
