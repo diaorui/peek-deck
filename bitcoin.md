@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T16:30:46.977522+00:00'
+updated: '2026-02-21T17:27:15.309980+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 16:30 UTC  
+**Last Updated:** February 21, 2026 at 17:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,699.18
+### $68,323.78
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.1%  
-**7d:** -0.2%  
-**30d:** -23.4%  
-**90d:** -22.4%  
-**1y:** -28.9%  
+**24h:** +0.5%  
+**7d:** -0.8%  
+**30d:** -23.8%  
+**90d:** -22.9%  
+**1y:** -29.3%  
 
 ---
 
@@ -81,7 +81,13 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-2h ago
+3h ago
+
+---
+
+**[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
+
+1h ago
 
 ---
 
@@ -89,7 +95,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 My stack is still already cool imho. Happy stacking everyone
 
-17h ago
+18h ago
 
 ---
 
@@ -99,25 +105,41 @@ My stack is still already cool imho. Happy stacking everyone
 
 ---
 
+**[Running a Bitcoin Full Node Video Tutorial](https://www.reddit.com/r/Bitcoin/comments/1rasy4c/running_a_bitcoin_full_node_video_tutorial/)**
+
+Quick post for those interested in understanding Bitcoin Core under the hood, at a technical level. Public-key cryptography, UTXOs, Consensus, Blockchain Synchronisation, and a lot more in this tutorial where we launch a Full Node on AWS EC2. Tutorial starts at 1:31:15
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=fq0txiTIiFM) • 2h ago
+
+---
+
 **[Has holding Bitcoin long-term changed how you react to volatility?](https://www.reddit.com/r/Bitcoin/comments/1rakcse/has_holding_bitcoin_longterm_changed_how_you/)**
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-9h ago
+10h ago
+
+---
+
+**[She passed away. The Bitcoin Are Inaccessible.](https://www.reddit.com/r/Bitcoin/comments/1rawoir/she_passed_away_the_bitcoin_are_inaccessible/)**
+
+About 6 years ago i gifted my grandma 2 bitcoin as a gift and to teach her how to use Bitcoin. It was one of the best gift's i could have gifted to her, everyday she woke up excited to see what they were valued at and became genuinely interested in the technology, the communities, and she witnessed history as Bitcoin became popular. Coming from a hard working family, and as a kid never imagining having so much money especially in the form of digital wallet on a phone. While there were times I wanted to ask grandma to sell some, i never did, and she decided to diamond hand never asking me how to move them into a different form of value since the first day. A true HODLer. As a remembrance to her, they will stay in her wallet forever. Long live grandma on the Bitcoin blockchain. Love you grandma. Original post on my profile. Tell your people you love them and get them some Bitcoin, it's a beautiful thing to remember those transactions and contribute to Bitcoin in a positive way.
+
+10m ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-22h ago
+23h ago
 
 ---
 
-**[Running a Bitcoin Full Node Video Tutorial](https://www.reddit.com/r/Bitcoin/comments/1rasy4c/running_a_bitcoin_full_node_video_tutorial/)**
+**[Where are the Hodler's of last resort ? ? ?](https://www.reddit.com/r/Bitcoin/comments/1raorvw/where_are_the_hodlers_of_last_resort/)**
 
-Quick post for those interested in understanding Bitcoin Core under the hood, at a technical level. Public-key cryptography, UTXOs, Consensus, Blockchain Synchronisation, and a lot more in this tutorial where we launch a Full Node on AWS EC2. Tutorial starts at 1:31:15
+Trace Mayer spoke of the group of high conviction Bitcoiner's that won't sell all their Bitcoin at any price ! Does this mythical createture still exist ? ? ?
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=fq0txiTIiFM) • 1h ago
+6h ago
 
 ---
 
@@ -125,31 +147,7 @@ Quick post for those interested in understanding Bitcoin Core under the hood, at
 
 HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
 
-15h ago
-
----
-
-**[The Longevity World Cup is now accepting Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rarid2/the_longevity_world_cup_is_now_accepting_bitcoin/)**
-
-Hi there, not sure if small business announcing their adoption of Bitcoin as a payment system on this sub is still a thing, but I'm from that era so excuse my ignorance: The Longevity World Cup is now accepting Bitcoin (both on-chain and through LN) with BTCPay and Wasabi Wallet. (Also accepting fiat shitcoins, kukks just released a stripe plugin for BTCPay, check it out) LWC is a competition in a new kind of sport, where athletes compete against each other on various biological aging clocks through their blood test results. Your are welcome to compete as well! One more thing.. we aren't accepting btc then converting it right away, we hodl it and pay our contributors and the prize money with it. This is to the circular economy. https://www.longevityworldcup.com/
-
-2h ago
-
----
-
-**[Buy Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ranut9/buy_bitcoin/)**
-
-I will be in Perth in the next few months. Can you tell me where I could buy BTC without KYC? I'm coming from outside Australia and will be staying for a few years. Thanks to all community!
-
-6h ago
-
----
-
-**[Do you guys actually feel anything when the market drops anymore?](https://www.reddit.com/r/Bitcoin/comments/1ra7b74/do_you_guys_actually_feel_anything_when_the/)**
-
-I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
-
-19h ago
+16h ago
 
 ---
 
@@ -161,27 +159,7 @@ I've been in crypto for about three years now and I noticed something weird late
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 11h ago
-
----
-
-**[Eric Trump shrugs off bitcoin's recent slump: 'If you don't have the backbone ... go invest in some boring bond'](https://finance.yahoo.com/news/eric-trump-shrugs-off-bitcoins-recent-slump-if-you-dont-have-the-backbone--go-invest-in-some-boring-bond-193400545.html)**
-
-During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Crypto News: Spot Bitcoin ETFs Extend Outflow Streak to Five Weeks as $3.8B Exits Amid Macro Uncertainty](https://www.binance.com/en/square/post/294056002572897)**
-
-Binance • 2h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -189,7 +167,21 @@ Binance • 2h ago
 
 Private-equity firm Blue Owl Capital (OWL) tumbled nearly 15% this week as it was forced to liquidate $1.4 billion in assets to pay investors looking to exit one of its private credit funds.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
+
+Bloomberg.com • 2h ago
+
+---
+
+**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+
+At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+
+Decrypt • 3h ago
 
 ---
 
@@ -197,35 +189,41 @@ CoinDesk • 2h ago
 
 The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
 
-Bitcoin Magazine • 23h ago
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Crypto price news: BTC unfazed by Trump tariff news; DOGE, SOL, ADA lead modest bounce](https://www.coindesk.com/markets/2026/02/20/bitcoin-shrugs-off-trump-s-new-tariffs-nears-usd68-000-as-altcoins-lead-modest-bounce)**
+
+Crypto prices edged higher on Friday despite a splash of tariff turbulence after the U.S. Supreme Court ruled Trump's levies illegal.
+
+CoinDesk • 20h ago
+
+---
+
+**[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
+
+U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
+
+CoinDesk • 43m ago
 
 ---
 
 **[Bloomington man loses $7,600 in Bitcoin to suspect posing as sheriff’s deputy in jury duty scam](https://fox59.com/news/indynews/bloomington-man-loses-7600-in-bitcoin-to-suspect-posing-as-sheriffs-deputy-in-jury-duty-scam/)**
 
-Fox 59 • 18h ago
+Fox 59 • 19h ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqf3suj0NZE97LqAU8y7AvCHX8YdJDHjx6zBWSvk8a6p_6Tiuxfb4tvI&gaa_ts=6999d776&gaa_sig=ZojV6TVUSj9rGTJDXP60Le5mSIaa970_VUAUDeYJw2IpyTt-oAPiCersbURnfWQ7utrb7Yd6Iozo-6qb3HokOQ%3D%3D)**
+**[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
 
-Barron's • 1d ago
-
----
-
-**[Concern Grows That Bitcoin’s Value Could Be Entirely Destroyed](https://futurism.com/future-society/concern-bitcoin-value-destroyed)**
-
-Bitcoin's downturn has certain critics predicting a total collapse, suggesting its value could eventually plunge to zero dollars.
-
-Futurism • 1d ago
+Forbes • 4h ago
 
 ---
 
-**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
+**[Bitcoin ETF Gold Rush Turns Into An Epic Bust](https://www.investors.com/etfs-and-funds/etfs/bitcoin-etf-gold-rush-turns-into-an-epic-bust/)**
 
-Key PointsBitcoin could struggle to retain its reputation as "digital gold".
-
-Nasdaq • 1d ago
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -271,7 +269,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 3h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 4h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -279,7 +277,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 22h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 23h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
@@ -325,7 +323,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 93K • 👍 9K • 💬 1K • ⏱️ 32:14 • 3h ago
+👁️ 93K • 👍 9K • 💬 1K • ⏱️ 32:14 • 4h ago
 
 ---
 
@@ -335,7 +333,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 1K • ⏱️ 52:37 • 2h ago
+👁️ 10K • 👍 1K • ⏱️ 52:37 • 3h ago
 
 ---
 
@@ -345,7 +343,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 24K • 👍 2K • 💬 126 • ⏱️ 12:39 • 17h ago
+👁️ 24K • 👍 2K • 💬 126 • ⏱️ 12:39 • 18h ago
 
 ---
 
@@ -355,7 +353,7 @@ Welcome to New England Crypto and East Coast Hardware Thanks for taking the time
 
 📺 New England Crypto
 
-👁️ 830 • 👍 23 • ⏱️ 0:23 • 3h ago
+👁️ 830 • 👍 23 • ⏱️ 0:23 • 4h ago
 
 ---
 
@@ -365,7 +363,7 @@ Bitcoin #Crypto #Finance From a back-corner “unofficial” interview at Bitcoi
 
 📺 The Wolf Of All Streets
 
-👁️ 3K • 👍 279 • 💬 45 • ⏱️ 37:11 • 2h ago
+👁️ 3K • 👍 279 • 💬 45 • ⏱️ 37:11 • 3h ago
 
 ---
 
@@ -375,7 +373,7 @@ Michael Saylor finally admits bitcoin is in a bear market - but the question is 
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 351 • 💬 54 • ⏱️ 1:11:34 • 21h ago
+👁️ 8K • 👍 351 • 💬 54 • ⏱️ 1:11:34 • 22h ago
 
 ---
 
@@ -405,7 +403,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 32K • 👍 1K • ⏱️ 24:35 • 18h ago
+👁️ 32K • 👍 1K • ⏱️ 24:35 • 19h ago
 
 ---
 

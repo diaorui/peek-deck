@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T16:30:46.983506+00:00'
+updated: '2026-02-21T17:27:15.315844+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - cryptocurrency
 - news
 - videos
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 16:30 UTC  
+**Last Updated:** February 21, 2026 at 17:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,986.51
+### $1,988.30
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +1.2%  
-**30d:** -32.7%  
-**90d:** -32.7%  
-**1y:** -28.0%  
+**24h:** +0.7%  
+**7d:** +1.1%  
+**30d:** -32.8%  
+**90d:** -32.8%  
+**1y:** -28.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 "AI becomes the government" is dystopian: it leads to slop when AI is weak, and is doom-maximizing once AI becomes strong. But AI used well can be empowering, and push the frontier of democratic / decentralized modes of governance. The core problem with democratic / decentralized modes of governance (including DAOs on ethereum) is limits to human attention: there are many thousands of decisions to make, involving many domains of expertise, and most people don't have the time or skill to be experts in even one, let alone all of them. The usual solution, delegation, is disempowering: it leads to a small group of delegates controlling decision-making while their supporters, after they hit the "delegate" button, have no influence at all. So what can we do? We use personal LLMs to solve the attention problem! Here are a few ideas: Personal governance agents If a governance mechanism depends on you to make a large number of decisions, a personal agent can perform all the necessary votes for you, based on preferences that it infers from your personal writing, conversation history, direct statements, etc. If the agent is (i) unsure how you would vote on an issue, and (ii) convinced the issue is important, then it should ask you directly, and give you all relevant context. Public conversation agents Making good decisions often cannot come from a linear process of taking people's views that are based only on their own information, and averaging them (even quadratically). There is a need for processes that aggregate many people's information, and then give each person (or their LLM) a chance to respond based on that. This includes: Inferring and summarizing your own views and converting them into a format that can be shared publicly (and does not expose your private info) Summarizing commonalities between people's inputs (expressed as words), similar to the various LLM+pol.is ideas Suggestion markets If a governance mechanism values "high-quality inputs" of any type (this could be proposals, or it could even be arguments), then you can have a prediction market, where anyone can submit an input, AIs can bet on a token representing that input, and if the mechanism "accepts" the input (either accepting the proposal, or accepting it as a "unit" of conversation that it then passes along to its participant), it pays out $X to the holders of the token. Note that this is basically the same as https://firefly.social/post/x/2017956762347835488 Decentralized governance with private information One of the biggest weaknesses of highly decentralized / democratic governance is that it does not work well when important decisions need to be made with secret information. Common situations: (i) the org engaging in adversarial conflicts or negotiations (ii) internal dispute resolution (iii) compensation / funding decisions. Typically, orgs solve this by appointing individuals who have great power to take on those tasks. But with multi-party computation (currently I've seen this done with TEEs; I would love to see at least the two-party case solved with garbled circuits https://vitalik.eth.limo/general/2020/03/21/garbled.html so we can get pure-cryptographic security guarantees for it), we could actually take many people's inputs into account to deal with these situations, without compromising privacy. Basically: you submit your personal LLM into a black box, the LLM sees private info, it makes a judgement based on that, and it outputs only that judgement. You don't see the private info, and no one else sees the contents of your personal LLM. The importance of privacy All of these approaches involve each participant making use of much more information about themselves, and potentially submitting much larger-sized inputs. Hence, it becomes all the more important to protect privacy. There are two kinds of privacy that matter: Anonymity of the participant: this can be accomplished with ZK. In general, I think all governance tools should come with ZK built in Privacy of the contents: this has two parts. First, the personal LLM should do what it can to avoid divulging private info about you that it does not need to divulge. Second, when you have computation that combines multiple LLMs or multiple people's info, you need multi-party techniques to compute it privately. Both are important.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Some backstory In February 2016 — less than a year after Ethereum launched — Alex Van de Sande (avsa) from the Ethereum Foundation deployed an experimental contract called Unicorns (0x89205A3A). It was one of the very first token contracts on Ethereum, predating the ERC-20 standard. A month later, he created Unicorn Meat (0xED6aC8de) — another experimental token — along with the Grinder Association DAO, one of the earliest DAOs on Ethereum. The Grinder let you exchange Unicorns for Unicorn Meat, effectively the first onchain token swap. These were demo contracts for the Mist browser. They were never meant to become "real" tokens, but they've survived for 10 years now — still on mainnet, still functional, still held in wallets. The problem Because these tokens predate ERC-20 (they have 0 decimal places, non-standard transfer functions), they don't work well with modern DEXes. Uniswap V3's fee math rounds to 0 for 0-decimal tokens. AMM pooling is essentially broken for them. Wrapped versions exist (w🦄 and w🍖 are standard ERC-20s), but the 0-decimal problem persists. What we built Unicorn Market — a fully onchain orderbook contract, purpose-built for these tokens: No backend, no matching engine, no admin keys — pure smart contract Escrowed limit orders — maker's tokens held in contract until filled or cancelled Partial fills — take any portion of an order Deterministic rounding — uses OpenZeppelin's Math.mulDiv with ceiling rounding so makers never get shorted All state onchain, all settlement via events Verified contract: 0xA352B50A91C648c97F7aC0a80D686D297b62693E Trade interface: unicornmeateth.com/market Source: github.com/cartoonitunes/unicorn-market Why this matters (beyond the meme) There are hundreds of pre-ERC-20 and non-standard tokens stuck on Ethereum mainnet with no good trading infrastructure. AMMs assume standard decimals and transfer behavior. A simple, auditable orderbook contract is arguably the right primitive for these edge cases. If you hold any legacy Ethereum tokens from 2015-2017, you probably know the pain of trying to trade them on modern infra. Technical details Reentrancy-guarded, CEI pattern throughout Happy to answer questions about the contract design or the history of these tokens.
 
-18h ago
+19h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agen
 
 Lobsters like block too You can use x402 for agents to pay and get access to blockchain data now. There’s no clean way for agents to access onchain data without API keys, accounts, or billing friction. Until now. With x402, agents can pay per request using stablecoins over HTTP, wallet in, data out. https://goldrush.dev/blog/goldrush-x402-blockchain-data-for-agents/
 
-21h ago
+22h ago
 
 ---
 
@@ -156,21 +156,31 @@ Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that e
 
 The tokenized shares were issued by the BNP Paribas’ AssetFoundryTM platform using a "permissioned access model on Ethereum."
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqeAMHdiDC1bbfZnzQYg4FbwXbSejYDPKeO0_odA4VKE5wE1PKKka74Q&gaa_ts=6999d777&gaa_sig=XpR_53aWqQl-xI4kLdBI97qLi-PnqHJ9SE107an2gTHey9DDdsO7VJxLdJX489pF75B51Pu0QmQ_TFaNuliPJg%3D%3D)**
+**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
 
-Barron's • 1d ago
+At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+
+Decrypt • 3h ago
 
 ---
 
-**[Tom Lee's BitMine Buys Over $140M Ethereum In Two Weeks — Why Is The Price Not Moving?](https://finance.yahoo.com/news/tom-lees-bitmine-buys-over-134215962.html)**
+**[BNP Paribas uses Ethereum for money market tokenisation pilot](https://finance.yahoo.com/news/bnp-paribas-uses-ethereum-money-160634831.html)**
 
-BitMine keeps buying, but Ethereum's price remains weak. Tom Lee previously said capitulation is near. Analysts warn of lower risk. BitMine, chaired by Fundstrat’s Tom ...
+BNP Paribas Asset Management tokenised a money market fund. The French asset manager used Ethereum for the experiment. A number of top traditional finance institutions are delving into the world of tokenisation.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 1h ago
+
+---
+
+**[BNP Paribas Joins BlackRock and JPMorgan in the Rush to Tokenize Funds on Ethereum](https://finance.yahoo.com/news/bnp-paribas-joins-blackrock-jpmorgan-160508821.html)**
+
+BNP Paribas launched a tokenized share class of a French-domiciled money market fund on the public Ethereum blockchain.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -190,6 +200,12 @@ Nasdaq • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqcqj4mkbqDl3DP2HhJouEZiTgkuHaPHNGFWHmTbvtneMIi5rYazUcXa&gaa_ts=6999ee60&gaa_sig=548JO9UAnRItSQHt1yCobsjwDwnL3BDMh1q1GIp8RKu58VcJFEWoNOr5g8J4tyL0aF3nP5NTNuvtX3PSa2ZlPw%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[Dual South Korean listings send Ethereum layer-2 token AZTEC surging 82%](https://www.coindesk.com/markets/2026/02/20/dual-s-korea-listings-send-ethereum-layer-2-token-aztec-surging-82)**
 
 Korean exchanges Upbit and Bithumb both added local currency pairs for the privacy-focused layer-2 token, triggering a sharp move in a thinly traded market.
@@ -206,27 +222,11 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Bitcoin and Ethereum Options Expiry Today: $2.4B Set to Shake Crypto Markets](https://www.tradingview.com/news/coinpedia:3091c71e8094b:0-bitcoin-and-ethereum-options-expiry-today-2-4b-set-to-shake-crypto-markets/)**
+**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://www.fool.com/investing/2026/02/18/prediction-2026-will-be-the-year-of-ethereum-eth/)**
 
-The crypto market may see strong price swings today as Bitcoin and Ethereum options worth nearly $2.4 billion are set to expire. With the crypto market already under pressure, traders are closely watching key levels, including Bitcoin’s max pain at $70,000 and Ethereum’s at $2,050, which could infl…
+Ethereum could more than double in price in 2026 to reclaim its all-time high near $5,000.
 
-TradingView • 1d ago
-
----
-
-**[Coinbase-Backed Ethereum Network Base to Dump Optimism Tech as Potential Token Looms](https://decrypt.co/358469/coinbase-ethereum-network-base-dump-optimism-tech-potential-token)**
-
-Ethereum layer-2 network Base is leaving behind the Optimism technology stack as it seeks faster upgrades and reduced overhead.
-
-Decrypt • 2d ago
-
----
-
-**[Vitalik Buterin plans bolt-on cypherpunk layer to upgrade existing Ethereum](https://cryptobriefing.com/vitalik-buterin-cypherpunk-ethereum-layer-upgrade/)**
-
-Vitalik Buterin announces a cypherpunk Ethereum layer focusing on censorship resistance, ZK cryptography, and consensus efficiency.
-
-Crypto Briefing • 1d ago
+The Motley Fool • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 495 • 👍 76 • 💬 4 • ⏱️ 4:43 • 1h ago
+👁️ 495 • 👍 76 • 💬 4 • ⏱️ 4:43 • 2h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 738 • 👍 70 • 💬 4 • ⏱️ 18:46 • 1h ago
+👁️ 738 • 👍 70 • 💬 4 • ⏱️ 18:46 • 2h ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 180 • 👍 7 • ⏱️ 4:35 • 6h ago
+👁️ 180 • 👍 7 • ⏱️ 4:35 • 7h ago
 
 ---
 
@@ -290,7 +290,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 108 • 💬 5 • ⏱️ 4:31 • 14h ago
+👁️ 2K • 👍 108 • 💬 5 • ⏱️ 4:31 • 15h ago
 
 ---
 
@@ -310,7 +310,7 @@ BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 6K • 👍 237 • 💬 25 • ⏱️ 15:50 • 16h ago
+👁️ 6K • 👍 237 • 💬 25 • ⏱️ 15:50 • 17h ago
 
 ---
 
@@ -320,7 +320,7 @@ Bitcoin is facing a major narrative test in 2026. After a brutal 50% drawdown, c
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 161 • 💬 7 • ⏱️ 22:07 • 16h ago
+👁️ 4K • 👍 161 • 💬 7 • ⏱️ 22:07 • 17h ago
 
 ---
 
@@ -330,7 +330,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 958 • 👍 137 • 💬 8 • ⏱️ 10:25 • 8h ago
+👁️ 958 • 👍 137 • 💬 8 • ⏱️ 10:25 • 9h ago
 
 ---
 
