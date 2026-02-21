@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T17:51:50.250148+00:00'
+updated: '2026-02-21T18:36:56.041052+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 17:51 UTC  
+**Last Updated:** February 21, 2026 at 18:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,323.78
+### $68,553.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.8%  
-**30d:** -23.8%  
-**90d:** -22.9%  
-**1y:** -29.3%  
+**24h:** +1.3%  
+**7d:** -0.4%  
+**30d:** -23.5%  
+**90d:** -22.6%  
+**1y:** -29.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1361.95B
+**Market Cap:** $1369.16B
 Rank #1
 
-**Circulating Supply:** 19,992,743 BTC
+**Circulating Supply:** 19,992,778 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.9%
+-45.7%
 
 **All-Time Low:** $67.81
-+100469.2%
++100914.6%
 
 ---
 
@@ -87,7 +87,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 My stack is still already cool imho. Happy stacking everyone
 
-18h ago
+19h ago
 
 ---
 
@@ -117,21 +117,21 @@ Quick post for those interested in understanding Bitcoin Core under the hood, at
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-10h ago
+11h ago
 
 ---
 
-**[She passed away. The Bitcoin Are Inaccessible.](https://www.reddit.com/r/Bitcoin/comments/1rawoir/she_passed_away_the_bitcoin_are_inaccessible/)**
+**[A long time ago, in a galaxy far, far away…](https://www.reddit.com/r/Bitcoin/comments/1ray94i/a_long_time_ago_in_a_galaxy_far_far_away/)**
 
-About 6 years ago i gifted my grandma 2 bitcoin as a gift and to teach her how to use Bitcoin. It was one of the best gift's i could have gifted to her, everyday she woke up excited to see what they were valued at and became genuinely interested in the technology, the communities, and she witnessed history as Bitcoin became popular. Coming from a hard working family, and as a kid never imagining having so much money especially in the form of digital wallet on a phone. While there were times I wanted to ask grandma to sell some, i never did, and she decided to diamond hand never asking me how to move them into a different form of value since the first day. A true HODLer. As a remembrance to her, they will stay in her wallet forever. Long live grandma on the Bitcoin blockchain. Love you grandma. Original post on my profile. Tell your people you love them and get them some Bitcoin, it's a beautiful thing to remember those transactions and contribute to Bitcoin in a positive way.
+Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-35m ago
+20m ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -139,7 +139,7 @@ About 6 years ago i gifted my grandma 2 bitcoin as a gift and to teach her how t
 
 Trace Mayer spoke of the group of high conviction Bitcoiner's that won't sell all their Bitcoin at any price ! Does this mythical createture still exist ? ? ?
 
-6h ago
+7h ago
 
 ---
 
@@ -147,7 +147,7 @@ Trace Mayer spoke of the group of high conviction Bitcoiner's that won't sell al
 
 HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
 
-16h ago
+17h ago
 
 ---
 
@@ -155,33 +155,49 @@ HB 2080 would establish a reserve fund authorizing the state treasurer to accept
 
 ## Google News: "bitcoin"
 
+**[When Bitcoin prices turned against Michael Saylor, he quietly pivoted to a risky financial gambit at Strategy](https://fortune.com/2026/02/20/michael-saylor-bitcoin-prices-preferred-shares-dilution-strategy/)**
+
+Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
+
+Fortune • 1d ago
+
+---
+
+**[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
+
+Bloomberg • 1d ago
+
+---
+
 **[Bitcoin analysis: Small investors, or shrimps, are buying BTC. But it's the whales who keep rallies going.](https://www.coindesk.com/markets/2026/02/21/small-investors-are-buying-bitcoin-it-now-needs-bigger-players-to-show-up)**
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin price analysis: seeds of BTC'S next big bull run may have already been sown](https://www.coindesk.com/markets/2026/02/20/how-this-week-s-sign-of-private-credit-stress-could-set-stage-for-next-bitcoin-bull-run)**
+**[Eric Trump Celebrates American Bitcoin's 'Incredible' 6,000 BTC Milestone — But Stock Has Sunk 85% Since Nasdaq Debut](https://finance.yahoo.com/news/eric-trump-celebrates-american-bitcoins-230105870.html)**
 
-Private-equity firm Blue Owl Capital (OWL) tumbled nearly 15% this week as it was forced to liquidate $1.4 billion in assets to pay investors looking to exit one of its private credit funds.
+American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump toasted the firm’s treasury hitting the 6,000 Bitcoin (CRYPTO: BTC) milestone on Tuesday. Trump Sees ‘Exciting Days Ahead’ In an X post, Trump stated that the firm hit the “incredible” milestone within six...
 
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
-
-Bloomberg.com • 2h ago
+Yahoo Finance • 19h ago
 
 ---
 
-**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+**[Bitcoin, Ethereum hold firm as Trump announces global tariff hike](https://www.dlnews.com/articles/markets/bitcoin-price-holds-firm-despite-trump-tariff-announcement/)**
 
-At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+The US Supreme Court on Friday struck down President Trump’s tariff policy.  Trump on Saturday announced new tariffs.  Bitcoin and Ethereum — previously hurt by Trump’s trade war — are holding steady.
 
-Decrypt • 3h ago
+dlnews.com • 13m ago
+
+---
+
+**[Iran’s rial collapse mirrors Lebanon’s crisis, driving citizens to bitcoin](https://www.coindesk.com/opinion/2026/02/21/iran-s-rial-collapse-mirrors-lebanon-s-crisis-driving-citizens-to-bitcoin)**
+
+With the rial plunging, middle-class savers are bypassing local banks to move billions into the domestic crypto ecosystem.
+
+CoinDesk • 32m ago
 
 ---
 
@@ -193,14 +209,6 @@ Bitcoin Magazine • 1d ago
 
 ---
 
-**[Crypto price news: BTC unfazed by Trump tariff news; DOGE, SOL, ADA lead modest bounce](https://www.coindesk.com/markets/2026/02/20/bitcoin-shrugs-off-trump-s-new-tariffs-nears-usd68-000-as-altcoins-lead-modest-bounce)**
-
-Crypto prices edged higher on Friday despite a splash of tariff turbulence after the U.S. Supreme Court ruled Trump's levies illegal.
-
-CoinDesk • 20h ago
-
----
-
 **[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
@@ -209,21 +217,17 @@ CoinDesk • 1h ago
 
 ---
 
-**[Bloomington man loses $7,600 in Bitcoin to suspect posing as sheriff’s deputy in jury duty scam](https://fox59.com/news/indynews/bloomington-man-loses-7600-in-bitcoin-to-suspect-posing-as-sheriffs-deputy-in-jury-duty-scam/)**
+**[Bitcoin ignores US Supreme Court Trump tariff strike amid talk of $150B refund](https://www.tradingview.com/news/cointelegraph:6eca7e0fb094b:0-bitcoin-ignores-us-supreme-court-trump-tariff-strike-amid-talk-of-150b-refund/)**
 
-Fox 59 • 20h ago
+Bitcoin BITSTAMP:BTCUSD saw choppy price action after Friday’s Wall Street open as markets reacted to the US Supreme Court decision on President Donald Trump’s trade tariffs.Key points:Supreme Court ruling attacks Trump tariffsData from TradingView showed $67,000 forming a focus for BTC price actio…
+
+TradingView • 1d ago
 
 ---
 
 **[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
 
-Forbes • 5h ago
-
----
-
-**[Bitcoin ETF Gold Rush Turns Into An Epic Bust](https://www.investors.com/etfs-and-funds/etfs/bitcoin-etf-gold-rush-turns-into-an-epic-bust/)**
-
-Investor's Business Daily • 2d ago
+Forbes • 6h ago
 
 ---
 
@@ -269,7 +273,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 4h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 5h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -277,7 +281,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 23h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 1d ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
@@ -313,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 213 • ⏱️ 9:14 • 18h ago
+👁️ 54K • 👍 2K • 💬 225 • ⏱️ 9:14 • 19h ago
 
 ---
 
@@ -323,7 +327,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 93K • 👍 9K • 💬 1K • ⏱️ 32:14 • 4h ago
+👁️ 176K • 👍 14K • 💬 2K • ⏱️ 32:14 • 5h ago
 
 ---
 
@@ -333,47 +337,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 10K • 👍 1K • ⏱️ 52:37 • 3h ago
-
----
-
-**[The $900 Billion Supreme Court &#39;Rug Pull&#39; That Could Send Bitcoin Parabolic!](https://www.youtube.com/watch?v=C3sX3NIN39Y)**
-
-billion just got ripped out of the economy while GDP misses and inflation creeps back. The Supreme Court ruling on tariffs, weak ...
-
-📺 Simply Bitcoin
-
-👁️ 24K • 👍 2K • 💬 126 • ⏱️ 12:39 • 18h ago
-
----
-
-**[NEW Solo Bitcoin Miner! 12.5TH/s mining BTC #shorts #bitcoin #tech](https://www.youtube.com/watch?v=m3grN03eiFo)**
-
-Welcome to New England Crypto and East Coast Hardware Thanks for taking the time! Today we are unboxing the brand new ...
-
-📺 New England Crypto
-
-👁️ 830 • 👍 23 • ⏱️ 0:23 • 4h ago
-
----
-
-**[Bitcoin’s Bear Market Trigger Nobody Wants To Admit | Jordi Visser](https://www.youtube.com/watch?v=h_TuYh4T3PM)**
-
-Bitcoin #Crypto #Finance From a back-corner “unofficial” interview at Bitcoin Investor Week, Jordi Visser explains why AI is the ...
-
-📺 The Wolf Of All Streets
-
-👁️ 3K • 👍 279 • 💬 45 • ⏱️ 37:11 • 3h ago
-
----
-
-**[Michael Saylor ADMITS He Was Wrong About Bitcoin bear market!! | EP 1445](https://www.youtube.com/watch?v=8gtLPHA-dcI)**
-
-Michael Saylor finally admits bitcoin is in a bear market - but the question is how long will this one last and is he concerned?
-
-📺 Simply Bitcoin
-
-👁️ 8K • 👍 351 • 💬 54 • ⏱️ 1:11:34 • 22h ago
+👁️ 21K • 👍 2K • 💬 75 • ⏱️ 52:37 • 4h ago
 
 ---
 
@@ -383,7 +347,7 @@ Bitcoin is down roughly 50% from its all-time high, and sentiment is collapsing.
 
 📺 Swan Bitcoin
 
-👁️ 13K • 👍 713 • 💬 59 • ⏱️ 16:21 • 1d ago
+👁️ 13K • 👍 726 • 💬 59 • ⏱️ 16:21 • 1d ago
 
 ---
 
@@ -393,7 +357,17 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 103 • ⏱️ 55:11 • 1d ago
+👁️ 25K • 👍 1K • 💬 103 • ⏱️ 55:11 • 1d ago
+
+---
+
+**[The $900 Billion Supreme Court &#39;Rug Pull&#39; That Could Send Bitcoin Parabolic!](https://www.youtube.com/watch?v=C3sX3NIN39Y)**
+
+billion just got ripped out of the economy while GDP misses and inflation creeps back. The Supreme Court ruling on tariffs, weak ...
+
+📺 Simply Bitcoin
+
+👁️ 25K • 👍 2K • 💬 132 • ⏱️ 12:39 • 19h ago
 
 ---
 
@@ -403,7 +377,37 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 32K • 👍 1K • ⏱️ 24:35 • 19h ago
+👁️ 34K • 👍 1K • ⏱️ 24:35 • 20h ago
+
+---
+
+**[$1 Million Per Bitcoin by 2030?!😨😨](https://www.youtube.com/watch?v=xnvmLfzNCeA)**
+
+ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+
+📺 Crypto Cam
+
+👁️ 32K • 👍 544 • 💬 47 • ⏱️ 0:30 • 2d ago
+
+---
+
+**[BITCOIN: The Final Shakeout Is Coming! (big warning) - BTC Price Prediction Today](https://www.youtube.com/watch?v=XEel-8u7LjA)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 5K • 👍 431 • 💬 54 • ⏱️ 13:30 • 6h ago
+
+---
+
+**[I Investigated The Viral Epstein-Bitcoin Conspiracy](https://www.youtube.com/watch?v=8NMRnXFTncU)**
+
+The Epstein and Bitcoin theories are going viral. I love drama so much, I just HAD to do it!!! Check out how to secure your Bitcoin ...
+
+📺 BTC Isla
+
+👁️ 6K • 👍 643 • 💬 123 • ⏱️ 13:43 • 1d ago
 
 ---
 

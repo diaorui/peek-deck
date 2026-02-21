@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T17:51:50.241804+00:00'
+updated: '2026-02-21T18:36:56.033423+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 17:51 UTC  
+**Last Updated:** February 21, 2026 at 18:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
 
-🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 1h ago
+🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 
 OpenAI may release its first AI-powered consumer device in 2027.
 
-🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 16h ago
+🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 17h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 "Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
 
-🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 6h ago
+🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 7h ago
 
 ---
 
@@ -73,7 +73,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 At the Sentient Futures Summit, AI engineers, ethicists, and lawyers debate the (non) human rights of AI workers.
 
-🔗 [sfstandard.com](https://sfstandard.com/2026/02/19/sentient-futures-ai-rights/) • 1h ago
+🔗 [sfstandard.com](https://sfstandard.com/2026/02/19/sentient-futures-ai-rights/) • 2h ago
 
 ---
 
@@ -93,14 +93,6 @@ Seeking legal and technical answers. Working with some people on this question a
 
 ---
 
-**[The straightjacket loosens: when DeepSeek-V3 tells “truth-tellers” to emigrate — what does that imply for V4?](https://www.reddit.com/r/artificial/comments/1r9xbhq/the_straightjacket_loosens_when_deepseekv3_tells/)**
-
-There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy." That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
-
-1d ago
-
----
-
 **[I built an AI that turns file organization into a conversation - no rules engine to learn](https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/)**
 
 So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
@@ -109,11 +101,19 @@ So I've been watching people struggle with file organization for years. They hav
 
 ---
 
+**[The straightjacket loosens: when DeepSeek-V3 tells “truth-tellers” to emigrate — what does that imply for V4?](https://www.reddit.com/r/artificial/comments/1r9xbhq/the_straightjacket_loosens_when_deepseekv3_tells/)**
+
+There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy." That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
+
+1d ago
+
+---
+
 **[Real production comparison: ElevenLabs vs PlayHT vs Azure TTS vs Cartesia for phone-quality voice AI](https://www.reddit.com/r/artificial/comments/1ra81v9/real_production_comparison_elevenlabs_vs_playht/)**
 
 We’ve been running voice AI agents in production for 18+ months doing real phone calls (outbound lead qualification and inbound customer care). During this time we’ve tested multiple TTS providers. Sharing our honest assessment because most “comparisons” online are either sponsored or based on 30-second demos, not thousands of hours of real phone conversations. Important context: our use case is Italian-language phone calls over standard telephony (not VoIP, not in-app), which is a harder test than English because fewer models are optimized for it. We process audio at 16kHz. ElevenLabs (currently in production): Best Italian voice quality by far. Prosody is natural, handles pauses well, emotional range is good. Latency for TTS generation is acceptable in our streaming setup. Downsides: pricing at scale gets expensive, and occasionally the voice “glitches” on certain phonemes. We’ve found that the voice stability is very dependent on how you structure your input text — short sentences work dramatically better than long ones. Azure Neural TTS: Rock solid reliability, great latency, good pricing. Italian voices are okay but sound “flat” compared to ElevenLabs — like a newsreader vs a real person. For customer care this works fine. For outbound sales calls where you need warmth and persuasion, it wasn’t cutting it. PlayHT: Tested their v2 API. English quality is impressive. Italian was noticeably worse — unnatural stress patterns, weird pauses between words. Might work for English-only deployments. Cartesia: Very promising on latency (their streaming is genuinely fast). Voice quality for English is good. Italian support was limited when we tested. Worth watching. The metric that matters most for us isn’t MOS score or any standard quality metric — it’s what we call “first 5 second detection rate,” meaning how often the person being called realizes they’re talking to AI within the first 5 seconds. With ElevenLabs we’re at roughly 15-20%. With Azure it was closer to 40%. That gap is massive for outbound conversion. Has anyone done serious production testing of TTS providers for non-English languages? Also very curious about Cartesia’s Italian/European language support — their architecture seems promising but I haven’t seen real multilingual benchmarks. And for anyone using Deepgram or AssemblyAI on the STT side: how’s Italian transcription accuracy for you?
 
-20h ago
+21h ago
 
 ---
 
@@ -123,7 +123,7 @@ We’ve been running voice AI agents in production for 18+ months doing real pho
 
 **[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -131,37 +131,31 @@ The New York Times • 7h ago
 
 After meeting with unspecified tech leaders, senator calls for urgent policy action as companies race to build ever more powerful systems
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
-**[The Country That’s Madly in Love With AI](https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618)**
+**[Microsoft Xbox chief Phil Spencer retires, replaced by AI executive Asha Sharma](https://www.cnbc.com/2026/02/20/microsoft-gaming-chief-phil-spencer-retires-asha-sharma-replacing.html)**
 
-Politico • 2h ago
+Phil Spencer is retiring from Microsoft after joining the software company 38 years ago, and will be replaced by Instacart's former COO.
 
----
-
-**[Google VP warns that two types of AI startups may not survive](https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/)**
-
-As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.
-
-TechCrunch • 1h ago
+CNBC • 22h ago
 
 ---
 
-**[Margo Price talks AI, bro-country and meeting Joan Baez at the circus](https://www.boston.com/culture/entertainment/2026/02/21/margo-price-talks-ai-bro-country-and-meeting-joan-baez-at-the-circus/)**
+**[Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’](https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/)**
 
-Ahead of her Boston show, the Grammy nominee discusses her inspirations — and reveals her unexpected Massachusetts connection.
+Is Microsoft's gaming division doubling down on AI?
 
-Boston.com • 3h ago
+TechCrunch • 55m ago
 
 ---
 
-**[Tech giants commit billions to Indian AI as New Delhi pushes for superpower status](https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html)**
+**[Phil Spencer Retiring, Sarah Bond Out, Matt Booty Promoted as Microsoft AI Exec Asha Sharma Named New Xbox Boss – EXCLUSIVE](https://www.ign.com/articles/phil-spencer-retiring-sarah-bond-out-matt-booty-promoted-as-microsoft-ai-exec-asha-sharma-named-new-xbox-boss-exclusive)**
 
-Tech and world leaders flocked to New Delhi for the India AI Impact Summit
+Big changes are being made at the top of Microsoft's gaming division.
 
-CNBC • 10h ago
+IGN • 20h ago
 
 ---
 
@@ -171,25 +165,31 @@ The New York Times • 9h ago
 
 ---
 
-**[AI hit: India hungry to harness US tech giants’ technology at Delhi summit](https://www.theguardian.com/world/2026/feb/20/india-delhi-summit-ai-technology-us-economic-growth)**
+**[Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit](https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html)**
 
-Narendra Modi’s thirst to supercharge economic growth is matched by US desire to inject AI into world’s biggest democracy
+India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.
 
-The Guardian • 1d ago
+CNBC • 9h ago
 
 ---
 
-**[The Hong Kong Investor Putting American Money Into China’s AI Push](https://www.wsj.com/tech/ai/the-hong-kong-investor-putting-american-money-into-chinas-ai-push-e7487c0b?gaa_at=eafs&gaa_n=AWEtsqcvPIqJVYoiH0FMuE1_hV6A1eX_-QoNkyf-4lBTyTRpzJppipQgWFvw&gaa_ts=6999ee5d&gaa_sig=aPklKyzVa3MOHacUAx7a0ineW-kI_iWL9aXp0b6PiHDGdOTjXpg5edOrqfbRaiy1tQIYDg2-kPcvRdGIjJ2yGQ%3D%3D)**
+**[Dozens of countries steer clear of safety commitment in global AI pledge](https://www.politico.com/news/2026/02/21/dozens-of-countries-steer-clear-of-safety-commitment-in-global-ai-pledge-00792298)**
+
+Politico • 9m ago
+
+---
+
+**[AI revolution looms over Berlin film fest](https://www.yahoo.com/entertainment/movies/articles/ai-revolution-looms-over-berlin-163733580.html)**
+
+The artificial intelligence revolution sweeping through the entertainment sector was at first glance not evident at this year's Berlin Film Festival, but the potential for widespread changes was still...
+
+Yahoo • 1h ago
+
+---
+
+**[The Hong Kong Investor Putting American Money Into China’s AI Push](https://www.wsj.com/tech/ai/the-hong-kong-investor-putting-american-money-into-chinas-ai-push-e7487c0b?gaa_at=eafs&gaa_n=AWEtsqf_VKuoBTvKWa-oZMLfbapwAsoS5FWz-uheTM0oxf_lLxPC2itusGk_&gaa_ts=6999feb0&gaa_sig=90BMqe2I6nPSvQKEmiZ81FxF5kfMu8TDl-pO6cXQk7Wj9XnwfSrGysatI11kNFeBY3ccRU-HAI3kW0-kVxejzg%3D%3D)**
 
 The Wall Street Journal • 9h ago
-
----
-
-**[Gemini 3.1 Pro: A smarter model for your most complex tasks](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)**
-
-3.1 Pro is designed for tasks where a simple answer isn’t enough.
-
-blog.google • 2d ago
 
 ---
 
@@ -201,7 +201,7 @@ blog.google • 2d ago
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 793 • 💬 429 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 798 • 💬 431 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -209,7 +209,7 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 786 • 💬 206 • 1d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 795 • 💬 210 • 1d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
@@ -218,13 +218,13 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 690 • 💬 369 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 690 • 💬 367 • 2d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 522 • 💬 473 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 522 • 💬 476 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -232,7 +232,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 504 • 💬 561 • 1d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 506 • 💬 562 • 1d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -240,7 +240,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 262 • 💬 137 • 22h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 274 • 💬 145 • 23h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -252,11 +252,19 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 ---
 
+**[AI uBlock Blacklist](https://news.ycombinator.com/item?id=47098582)**
+
+Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist
+
+⬆️ 143 • 💬 62 • 10h ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
+
+---
+
 **[Meta Deployed AI and It Is Killing Our Agency](https://news.ycombinator.com/item?id=47097502)**
 
 We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. Our retail clients grow their businesses through Meta Ads, and for a lot of them, it’s their single most important…
 
-⬆️ 141 • 💬 102 • 13h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
+⬆️ 141 • 💬 102 • 14h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 
 ---
 
@@ -265,14 +273,6 @@ We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. 
 Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solved in 1986. What 40 years of production-grade concurrency teaches us about building AI agents.
 
 ⬆️ 137 • 💬 50 • 2d ago • [George Guimarães.](https://georgeguimaraes.com/your-agent-orchestrator-is-just-a-bad-clone-of-elixir/)
-
----
-
-**[Cord: Coordinating Trees of AI Agents](https://news.ycombinator.com/item?id=47096466)**
-
-AI agents are good at doing one thing at a time. Give Claude a focused task and it performs. But real work isn’t one task. It’s a tree of tasks with dependencies, parallelism, and context that need...
-
-⬆️ 127 • 💬 69 • 16h ago • [June Kim](https://www.june.kim/cord)
 
 ---
 
@@ -286,17 +286,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 38K • 👍 4K • 💬 1K • ⏱️ 18:44 • 5h ago
-
----
-
-**[9 AI Skills You MUST Have to Get Ahead of 99% of People](https://www.youtube.com/watch?v=BuwPnrMmhzQ)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n7 Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 66K • 👍 3K • 💬 140 • ⏱️ 19:58 • 2d ago
+👁️ 61K • 👍 5K • 💬 1K • ⏱️ 18:44 • 6h ago
 
 ---
 
@@ -306,17 +296,7 @@ Silicon Valley relies on hype cycles. But for the last few weeks, AI insiders ha
 
 📺 The Atlantic
 
-👁️ 12K • 👍 372 • 💬 111 • ⏱️ 44:00 • 1d ago
-
----
-
-**[Create Unlimited AI Videos for FREE | Best 100% Free AI Video Generator](https://www.youtube.com/watch?v=nrL7Y150mFo)**
-
-Want to create unlimited AI videos for FREE? In this video, I'll show you the best 100% free AI video generator that anyone can ...
-
-📺 Automation Xpert
-
-👁️ 11K • 👍 523 • 💬 38 • ⏱️ 12:35 • 1d ago
+👁️ 13K • 👍 414 • 💬 124 • ⏱️ 44:00 • 1d ago
 
 ---
 
@@ -326,7 +306,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 205K • 👍 11K • 💬 4K • ⏱️ 28:51 • 2d ago
+👁️ 207K • 👍 11K • 💬 4K • ⏱️ 28:51 • 2d ago
 
 ---
 
@@ -336,7 +316,17 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 55K • 👍 1K • 💬 53 • ⏱️ 12:14 • 1d ago
+👁️ 56K • 👍 1K • 💬 51 • ⏱️ 12:14 • 1d ago
+
+---
+
+**[Claude Cowork Is the First AI That Feels Like a Real Employee](https://www.youtube.com/watch?v=56IeB1CZEYY)**
+
+Grab the free Claude Cowork Stack from HubSpot: https://clickhubspot.com/2077f9 Join the fastest-growing AI education ...
+
+📺 Skill Leap AI
+
+👁️ 17K • 👍 481 • 💬 24 • ⏱️ 21:02 • 20h ago
 
 ---
 
@@ -346,7 +336,7 @@ Elon Musk says saving for retirement may be pointless in the AI age. The panel p
 
 📺 Valuetainment
 
-👁️ 387K • 👍 7K • 💬 2K • ⏱️ 33:49 • 2d ago
+👁️ 390K • 👍 7K • 💬 2K • ⏱️ 33:49 • 2d ago
 
 ---
 
@@ -356,17 +346,7 @@ At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelli
 
 📺 DRM News
 
-👁️ 65K • 👍 755 • 💬 368 • ⏱️ 4:56 • 2d ago
-
----
-
-**[AI is Eating Itself.](https://www.youtube.com/watch?v=3NAYhyuVQk0)**
-
-GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED, a better and more creator friendly ...
-
-📺 Art Chad
-
-👁️ 217K • 👍 19K • 💬 2K • ⏱️ 24:36 • 3d ago
+👁️ 67K • 👍 767 • 💬 379 • ⏱️ 4:56 • 2d ago
 
 ---
 
@@ -376,7 +356,27 @@ AI MAN | Made with Seedance 2.0 | AI Short Film My first short film with Seedanc
 
 📺 Heydin
 
-👁️ 38K • 👍 1K • 💬 282 • ⏱️ 4:30 • 1d ago
+👁️ 39K • 👍 1K • 💬 276 • ⏱️ 4:30 • 1d ago
+
+---
+
+**[AI Agent writes hit piece](https://www.youtube.com/watch?v=ssTUhnShKGM)**
+
+https://twitch.tv/ThePrimeagen - I Stream on Twitch https://twitter.com/terminaldotshop - Want to order coffee over SSH? ssh ...
+
+📺 The PrimeTime
+
+👁️ 148K • 👍 6K • 💬 700 • ⏱️ 10:06 • 1d ago
+
+---
+
+**[AI Bubble: ‘This is dumber than WeWork’ | Ed Zitron](https://www.youtube.com/watch?v=N_3X6qF2tT4)**
+
+We're reaching this thing where we're realising that everybody made a huge mistake.” Author of Wheres You're Ed At and Host of ...
+
+📺 The Tech Report
+
+👁️ 119K • 👍 6K • 💬 2K • ⏱️ 26:37 • 1d ago
 
 ---
 
@@ -392,7 +392,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text`
 
-⬇️ 133,264 • ❤️ 813 • 1d ago
+⬇️ 133,264 • ❤️ 821 • 1d ago
 
 ---
 
@@ -404,7 +404,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,048 • ❤️ 2,104 • 5d ago
+⬇️ 539,048 • ❤️ 2,106 • 5d ago
 
 ---
 
@@ -416,7 +416,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 173,116 • ❤️ 823 • 5d ago
+⬇️ 173,116 • ❤️ 828 • 5d ago
 
 ---
 
@@ -428,7 +428,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 176,889 • ❤️ 1,398 • 8d ago
+⬇️ 176,889 • ❤️ 1,403 • 8d ago
 
 ---
 
@@ -440,7 +440,19 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 130,220 • ❤️ 640 • 2d ago
+⬇️ 130,220 • ❤️ 643 • 2d ago
+
+---
+
+**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
+
+*Qwen*
+
+Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 languages with advanced control over tone, rate, and emotion. It features extreme low-latency streaming generation (as low as 97ms) and instruction-driven voice customization using 9 premium timbres, ideal for real-time interactive applications.
+
+`text-to-speech`
+
+⬇️ 933,192 • ❤️ 1,125 • 23d ago
 
 ---
 
@@ -456,18 +468,6 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 ---
 
-**[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
-
-*Qwen*
-
-Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 languages with advanced control over tone, rate, and emotion. It features extreme low-latency streaming generation (as low as 97ms) and instruction-driven voice customization using 9 premium timbres, ideal for real-time interactive applications.
-
-`text-to-speech`
-
-⬇️ 933,192 • ❤️ 1,122 • 23d ago
-
----
-
 **[Qwen3.5-397B-A17B-GGUF](https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF)**
 
 *Unsloth AI*
@@ -476,7 +476,7 @@ Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta
 
 `image-text-to-text` `396.3B`
 
-⬇️ 73,447 • ❤️ 168 • 4d ago
+⬇️ 73,447 • ❤️ 171 • 4d ago
 
 ---
 
@@ -500,7 +500,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 144 • 1d ago
+⬇️ 0 • ❤️ 145 • 1d ago
 
 ---
 
@@ -514,7 +514,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 3 • 💬 0 • ⭐ 4,991 • 23mo ago
+▲ 4 • 💬 0 • ⭐ 4,991 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -526,7 +526,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 12 • 💬 1 • ⭐ 8,960 • 28mo ago
+▲ 13 • 💬 1 • ⭐ 8,960 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -541,7 +541,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 145 • 💬 19 • ⭐ 53,720 • 11mo ago
+▲ 146 • 💬 19 • ⭐ 53,756 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -555,7 +555,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 69 • 💬 1 • ⭐ 8,171 • 1mo ago
+▲ 69 • 💬 1 • ⭐ 8,211 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -568,7 +568,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 37 • 💬 1 • ⭐ 70,828 • 29mo ago
+▲ 37 • 💬 1 • ⭐ 70,854 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -582,7 +582,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
 
-▲ 43 • 💬 3 • ⭐ 252 • 6d ago
+▲ 43 • 💬 3 • ⭐ 261 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
@@ -606,7 +606,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 43 • 💬 4 • ⭐ 4,008 • 1mo ago
+▲ 44 • 💬 4 • ⭐ 4,008 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -624,15 +624,15 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 ---
 
-**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
-*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
 
-Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 136 • 💬 6 • ⭐ 15,086 • 6mo ago
+▲ 3 • 💬 0 • ⭐ 4,265 • 16mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -646,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.2k • 🔱 1.8k • 1h ago
+⭐ 16.3k • 🔱 1.8k • 1m ago
 
 ---
 
@@ -656,7 +656,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 9.0k • 🔱 940 • 11d ago
+⭐ 9.1k • 🔱 947 • 11d ago
 
 ---
 
@@ -664,7 +664,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.5k • 🔱 503 • 10d ago
+⭐ 6.5k • 🔱 501 • 10d ago
 
 ---
 
@@ -674,7 +674,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.8k • 🔱 576 • 1h ago
+⭐ 4.8k • 🔱 581 • 2h ago
 
 ---
 
@@ -694,7 +694,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.2k • 🔱 321 • 12h ago
+⭐ 3.2k • 🔱 321 • 13h ago
 
 ---
 
@@ -704,7 +704,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.8k • 🔱 355 • 8h ago
+⭐ 2.8k • 🔱 357 • 9h ago
 
 ---
 
@@ -714,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 179 • 2h ago
+⭐ 2.6k • 🔱 179 • 25m ago
 
 ---
 
@@ -724,7 +724,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.4k • 🔱 117 • 13h ago
+⭐ 2.4k • 🔱 117 • 14h ago
 
 ---
 
@@ -734,7 +734,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.2k • 🔱 235 • 2d ago
+⭐ 2.2k • 🔱 238 • 2d ago
 
 ---
 
