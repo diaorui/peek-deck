@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T18:36:56.049239+00:00'
+updated: '2026-02-21T19:24:45.595084+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 18:36 UTC  
+**Last Updated:** February 21, 2026 at 19:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Meet Sprout, a humanoid platform for developers, enterprises, and researchers—shipping today.
 
-🔗 [faunarobotics.com](https://faunarobotics.com/) • 1h ago
+🔗 [faunarobotics.com](https://faunarobotics.com/) • 2h ago
 
 ---
 
@@ -74,7 +74,7 @@ I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I 
 
 Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using MoveIt Servo to command X/Y/Z position only, Joint 4 moves unexpectedly. This does NOT happen in Gazebo simulation with identical code. Key observations: Joint 4 moves consistently in one direction for +Z, opposite direction for -Z Not random — same behavior every time Works perfectly in Gazebo simulation Happens regardless of whether I publish to /arm_group_controller/joint_trajectory or direct /joint_commands_to_teensy commands [I switched to /joint_commands_to_teensy because robot was jerky when i gave it to trajectory controller] The only difference between hardware and simulation is the command_out_topic in real world i use /joint_commands_to_teensy and simulation i use /arm_group_controller/joint_trajectory --- here is the yaml file All encoders are working and providing feedback(I use dc encoder motors) Hardware Setup Teensy 4.1 microcontroller with micro-ROS 6 motors with encoders on all joints CytronMD motor drivers Using KDL kinematics solver What I've Tried Verified joint ordering is correct (tested each joint individually) Confirmed encoder directions and zero calibration Tested both control topics (/arm_group_controller/joint_trajectory and /joint_commands_to_teensy) Increased loop rate from 100ms to 20ms to match servo publish rate Checked Gazebo simulation closely — Joint 4 does NOT move during +Z/-Z commands Code Snippets Teensy Loop Rate: cppvoid loop() { RCSOFTCHECK(rclc_executor_spin_some(&executor, RCL_MS_TO_NS(20))); } Servo Config yaml: publish_period: 0.02 # 50Hz command_in_type: "speed_units" move_group_name: "arm_group" planning_frame: "base_link" ee_frame_name: "fake_link" Joint Command Callback: cppvoid joint_command_callback(const void * msgin) { const std_msgs__msg__Float64MultiArray * msg = (const std_msgs__msg__Float64MultiArray *)msgin; for (size_t i = 0; i < NUM_MOTORS && i < msg->data.size; i++) { float new_target = msg->data.data[i] * (180.0 / M_PI); if (i == 2) { new_target = new_target * -1; } if (abs(new_target - motors[i].target_angle) > 0.1) { motors[i].target_angle = new_target; motors[i].integral = 0; motors[i].settled_count = 0; } } } The Mystery In real world the joint_4 is moving unwanted -- here is the video when robot executes +z and -z --------- But in Gazebo simulation with the exact same input, Joint 4 only has minimum motion -- here is the simulation video . Questions Is this expected behavior for a 5-DOF robot? Is there a MoveIt Servo parameter to constrain/lock certain joints during position-only commands? Why does Gazebo not exhibit this behavior while hardware does? Any insights appreciated!
 
-11h ago
+12h ago
 
 ---
 
@@ -90,7 +90,7 @@ idk if anyone will know about this but does anybody remember hanson robotics who
 
 ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 22h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 23h ago
 
 ---
 
@@ -98,7 +98,7 @@ ROS News for the Week of February 16th, 2026                                 202
 
 My goal is to do a robotics startup, current robotics masters student here going for a PhD soonish. What field of robotics do you guys think has the most potential for a successful startup? I want to do field robotics specifically. My biggest 2 rn is marine and space robotics, I would ideally find a lab that works in one of those areas and contribute/learn as much as I can.
 
-19h ago
+20h ago
 
 ---
 
@@ -106,7 +106,7 @@ My goal is to do a robotics startup, current robotics masters student here going
 
 China's humanoid robots have gone from viral stumbles to flawless kung fu flips in just one year. Showcased at the 2026 Spring Festival Gala, startups like Unitree are launching highly capable robots starting at just $13,500, heavily undercutting US competitors like Tesla's Optimus.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 8h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 9h ago
 
 ---
 
@@ -148,7 +148,7 @@ IEEE Spectrum • 2d ago
 
 Texas Attorney General Ken Paxton sues Anzu Robotics, alleging deceptive practices and undisclosed ties to DJI in Collin County court filing.
 
-Dronelife • 1d ago
+Dronelife • 2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Dronelife • 1d ago
 
 Less than two years since it was founded, San Francisco-based startup Weave Robotics is accepting pre-orders for its first home robot, which promises to do one thing well: fold your laundry.
 
-New Atlas • 7h ago
+New Atlas • 8h ago
 
 ---
 
@@ -178,7 +178,7 @@ BBC • 3d ago
 
 Key PointsTesla is repurposing EV factories to build its Optimus robots.
 
-Nasdaq • 22h ago
+Nasdaq • 23h ago
 
 ---
 
@@ -230,7 +230,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 20K • 👍 167 • 💬 85 • ⏱️ 2:14 • 15h ago
+👁️ 20K • 👍 167 • 💬 85 • ⏱️ 2:14 • 16h ago
 
 ---
 
@@ -248,7 +248,7 @@ Viral: China's Humanoid Robots Take Center Stage For Lunar New Year Showtime | S
 
 📺 Austen Hartley
 
-👁️ 731 • 👍 38 • 💬 1 • ⏱️ 0:39 • 2h ago
+👁️ 731 • 👍 38 • 💬 1 • ⏱️ 0:39 • 3h ago
 
 ---
 

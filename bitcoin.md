@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T18:36:56.041052+00:00'
+updated: '2026-02-21T19:24:45.585923+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 18:36 UTC  
+**Last Updated:** February 21, 2026 at 19:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-4h ago
+5h ago
 
 ---
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 My stack is still already cool imho. Happy stacking everyone
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ My stack is still already cool imho. Happy stacking everyone
 
 Quick post for those interested in understanding Bitcoin Core under the hood, at a technical level. Public-key cryptography, UTXOs, Consensus, Blockchain Synchronisation, and a lot more in this tutorial where we launch a Full Node on AWS EC2. Tutorial starts at 1:31:15
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=fq0txiTIiFM) • 3h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=fq0txiTIiFM) • 4h ago
 
 ---
 
@@ -117,7 +117,7 @@ Quick post for those interested in understanding Bitcoin Core under the hood, at
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-11h ago
+12h ago
 
 ---
 
@@ -125,7 +125,7 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-20m ago
+1h ago
 
 ---
 
@@ -139,7 +139,7 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 Trace Mayer spoke of the group of high conviction Bitcoiner's that won't sell all their Bitcoin at any price ! Does this mythical createture still exist ? ? ?
 
-7h ago
+8h ago
 
 ---
 
@@ -147,7 +147,7 @@ Trace Mayer spoke of the group of high conviction Bitcoiner's that won't sell al
 
 HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
 
-17h ago
+18h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg • 1d ago
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 13h ago
 
 American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump toasted the firm’s treasury hitting the 6,000 Bitcoin (CRYPTO: BTC) milestone on Tuesday. Trump Sees ‘Exciting Days Ahead’ In an X post, Trump stated that the firm hit the “incredible” milestone within six...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -189,7 +189,7 @@ Yahoo Finance • 19h ago
 
 The US Supreme Court on Friday struck down President Trump’s tariff policy.  Trump on Saturday announced new tariffs.  Bitcoin and Ethereum — previously hurt by Trump’s trade war — are holding steady.
 
-dlnews.com • 13m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -197,7 +197,7 @@ dlnews.com • 13m ago
 
 With the rial plunging, middle-class savers are bypassing local banks to move billions into the domestic crypto ecosystem.
 
-CoinDesk • 32m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -213,7 +213,7 @@ Bitcoin Magazine • 1d ago
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -273,7 +273,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 5h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 6h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -327,7 +327,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 176K • 👍 14K • 💬 2K • ⏱️ 32:14 • 5h ago
+👁️ 176K • 👍 14K • 💬 2K • ⏱️ 32:14 • 6h ago
 
 ---
 
@@ -337,7 +337,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 2K • 💬 75 • ⏱️ 52:37 • 4h ago
+👁️ 21K • 👍 2K • 💬 75 • ⏱️ 52:37 • 5h ago
 
 ---
 
@@ -367,7 +367,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 132 • ⏱️ 12:39 • 19h ago
+👁️ 25K • 👍 2K • 💬 132 • ⏱️ 12:39 • 20h ago
 
 ---
 
@@ -377,7 +377,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 1K • ⏱️ 24:35 • 20h ago
+👁️ 34K • 👍 1K • ⏱️ 24:35 • 21h ago
 
 ---
 
@@ -397,7 +397,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 431 • 💬 54 • ⏱️ 13:30 • 6h ago
+👁️ 5K • 👍 431 • 💬 54 • ⏱️ 13:30 • 7h ago
 
 ---
 

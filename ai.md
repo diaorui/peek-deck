@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T18:36:56.033423+00:00'
+updated: '2026-02-21T19:24:45.577526+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
+- repositories
 - social
 - news
-- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 18:36 UTC  
+**Last Updated:** February 21, 2026 at 19:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
 
-🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 2h ago
+🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 3h ago
 
 ---
 
@@ -57,7 +57,7 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 
 OpenAI may release its first AI-powered consumer device in 2027.
 
-🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 17h ago
+🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 18h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 "Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
 
-🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 7h ago
+🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 8h ago
 
 ---
 
@@ -73,7 +73,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 At the Sentient Futures Summit, AI engineers, ethicists, and lawyers debate the (non) human rights of AI workers.
 
-🔗 [sfstandard.com](https://sfstandard.com/2026/02/19/sentient-futures-ai-rights/) • 2h ago
+🔗 [sfstandard.com](https://sfstandard.com/2026/02/19/sentient-futures-ai-rights/) • 3h ago
 
 ---
 
@@ -81,7 +81,7 @@ At the Sentient Futures Summit, AI engineers, ethicists, and lawyers debate the 
 
 Seeking legal and technical answers. Working with some people on this question and we keep reaching a conclusion that it can't. That it's not possible. AI can exist anywhere in the world, governed under others' laws (or none at all). It can't be blocked since the internet can't technically, actually, block something. It can be accessed through countless channels, apps, or experiences. Is there a legitimate way in which AI can technically and truly be made safe or controlled? Important question for reasons we don't think everyone realizes. If the answer is "no" then politicians are effectively causing harm by pretending they can... They pander votes under false pretenses and they set a false sense of security that we'll be safe because they'll make laws to protect us. It's like passing a law requiring that fire not hurt us. Sure, pass the law, but it's not possible for it to be so.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ Seeking legal and technical answers. Working with some people on this question a
 
 So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ We’ve been running voice AI agents in production for 18+ months doing real pho
 
 **[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 8h ago
 
 After meeting with unspecified tech leaders, senator calls for urgent policy action as companies race to build ever more powerful systems
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNBC • 22h ago
 
 Is Microsoft's gaming division doubling down on AI?
 
-TechCrunch • 55m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -155,13 +155,13 @@ TechCrunch • 55m ago
 
 Big changes are being made at the top of Microsoft's gaming division.
 
-IGN • 20h ago
+IGN • 21h ago
 
 ---
 
 **[At A.I. Summit, India Tries to Find a Way Between the U.S. and China](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html)**
 
-The New York Times • 9h ago
+The New York Times • 10h ago
 
 ---
 
@@ -169,13 +169,13 @@ The New York Times • 9h ago
 
 India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
 **[Dozens of countries steer clear of safety commitment in global AI pledge](https://www.politico.com/news/2026/02/21/dozens-of-countries-steer-clear-of-safety-commitment-in-global-ai-pledge-00792298)**
 
-Politico • 9m ago
+Politico • 57m ago
 
 ---
 
@@ -183,13 +183,13 @@ Politico • 9m ago
 
 The artificial intelligence revolution sweeping through the entertainment sector was at first glance not evident at this year's Berlin Film Festival, but the potential for widespread changes was still...
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
 **[The Hong Kong Investor Putting American Money Into China’s AI Push](https://www.wsj.com/tech/ai/the-hong-kong-investor-putting-american-money-into-chinas-ai-push-e7487c0b?gaa_at=eafs&gaa_n=AWEtsqf_VKuoBTvKWa-oZMLfbapwAsoS5FWz-uheTM0oxf_lLxPC2itusGk_&gaa_ts=6999feb0&gaa_sig=90BMqe2I6nPSvQKEmiZ81FxF5kfMu8TDl-pO6cXQk7Wj9XnwfSrGysatI11kNFeBY3ccRU-HAI3kW0-kVxejzg%3D%3D)**
 
-The Wall Street Journal • 9h ago
+The Wall Street Journal • 10h ago
 
 ---
 
@@ -240,7 +240,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 274 • 💬 145 • 23h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 274 • 💬 145 • 1d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -256,7 +256,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist
 
-⬆️ 143 • 💬 62 • 10h ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
+⬆️ 143 • 💬 62 • 11h ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
 
 ---
 
@@ -286,7 +286,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 61K • 👍 5K • 💬 1K • ⏱️ 18:44 • 6h ago
+👁️ 61K • 👍 5K • 💬 1K • ⏱️ 18:44 • 7h ago
 
 ---
 
@@ -326,7 +326,7 @@ Grab the free Claude Cowork Stack from HubSpot: https://clickhubspot.com/2077f9 
 
 📺 Skill Leap AI
 
-👁️ 17K • 👍 481 • 💬 24 • ⏱️ 21:02 • 20h ago
+👁️ 17K • 👍 481 • 💬 24 • ⏱️ 21:02 • 21h ago
 
 ---
 
@@ -488,7 +488,7 @@ KaniTTS2-en is a 400M parameter English text-to-speech model optimized for real-
 
 `text-to-speech` `370.0M`
 
-⬇️ 2,590 • ❤️ 163 • 1d ago
+⬇️ 2,590 • ❤️ 163 • 2d ago
 
 ---
 
@@ -646,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.3k • 🔱 1.8k • 1m ago
+⭐ 16.3k • 🔱 1.8k • 49m ago
 
 ---
 
@@ -674,7 +674,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.8k • 🔱 581 • 2h ago
+⭐ 4.8k • 🔱 581 • 3h ago
 
 ---
 
@@ -694,7 +694,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.2k • 🔱 321 • 13h ago
+⭐ 3.2k • 🔱 321 • 14h ago
 
 ---
 
@@ -704,7 +704,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.8k • 🔱 357 • 9h ago
+⭐ 2.8k • 🔱 357 • 10h ago
 
 ---
 
@@ -714,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 179 • 25m ago
+⭐ 2.6k • 🔱 179 • 1h ago
 
 ---
 
@@ -724,7 +724,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.4k • 🔱 117 • 14h ago
+⭐ 2.4k • 🔱 117 • 15h ago
 
 ---
 
