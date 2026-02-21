@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T22:25:46.225078+00:00'
+updated: '2026-02-21T22:51:05.378316+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 22:25 UTC  
+**Last Updated:** February 21, 2026 at 22:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1366.67B
+**Market Cap:** $1361.13B
 Rank #1
 
-**Circulating Supply:** 19,992,809 BTC
+**Circulating Supply:** 19,992,828 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.8%
+-46.0%
 
 **All-Time Low:** $67.81
-+100678.6%
++100388.1%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 https://newsroom.kbc.com/kbc-bank-launches-regulated-crypto-services-with-crypto-finance-as-partner Belgium’s KBC Bank rolled out regulated crypto trading for retail clients, including bitcoin. This means they became the first major Belgian bank to offer direct Bitcoin access. The service went live mid-Feb through its Bolero investment platform under the EU’s MiCA framework.
 
-3h ago
+4h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 2d ago
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 2h ago
 
 On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bitcoin Magazine • 1d ago
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ Fox 59 • 1d ago
 
 **[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -313,7 +313,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 57K • 👍 3K • 💬 225 • ⏱️ 9:14 • 22h ago
+👁️ 59K • 👍 3K • 💬 234 • ⏱️ 9:14 • 23h ago
 
 ---
 
@@ -323,7 +323,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 267K • 👍 18K • 💬 3K • ⏱️ 32:14 • 9h ago
+👁️ 334K • 👍 21K • 💬 3K • ⏱️ 32:14 • 9h ago
 
 ---
 
@@ -333,7 +333,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 2K • 💬 75 • ⏱️ 52:37 • 8h ago
+👁️ 45K • 👍 3K • 💬 75 • ⏱️ 52:37 • 8h ago
+
+---
+
+**[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
+
+Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
+
+📺 Money Talks
+
+👁️ 405 • 👍 31 • 💬 38 • ⏱️ 15:10 • 4h ago
 
 ---
 
@@ -343,17 +353,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 104 • ⏱️ 55:11 • 1d ago
-
----
-
-**[The $900 Billion Supreme Court &#39;Rug Pull&#39; That Could Send Bitcoin Parabolic!](https://www.youtube.com/watch?v=C3sX3NIN39Y)**
-
-billion just got ripped out of the economy while GDP misses and inflation creeps back. The Supreme Court ruling on tariffs, weak ...
-
-📺 Simply Bitcoin
-
-👁️ 26K • 👍 2K • 💬 150 • ⏱️ 12:39 • 23h ago
+👁️ 26K • 👍 1K • 💬 107 • ⏱️ 55:11 • 1d ago
 
 ---
 
@@ -363,27 +363,17 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 1K • ⏱️ 24:35 • 1d ago
+👁️ 36K • 👍 1K • ⏱️ 24:35 • 1d ago
 
 ---
 
-**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=bsP1DJT1nwc)**
+**[The $900 Billion Supreme Court &#39;Rug Pull&#39; That Could Send Bitcoin Parabolic!](https://www.youtube.com/watch?v=C3sX3NIN39Y)**
 
-BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
+billion just got ripped out of the economy while GDP misses and inflation creeps back. The Supreme Court ruling on tariffs, weak ...
 
-📺 Manfred Thönicke
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 1K • 2h ago
-
----
-
-**[BITCOIN: The Final Shakeout Is Coming! (big warning) - BTC Price Prediction Today](https://www.youtube.com/watch?v=XEel-8u7LjA)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 7K • 👍 482 • 💬 57 • ⏱️ 13:30 • 10h ago
+👁️ 27K • 👍 2K • 💬 143 • ⏱️ 12:39 • 23h ago
 
 ---
 
@@ -393,17 +383,27 @@ LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications t
 
 📺 Dumb Money Live
 
-👁️ 14K • 👍 436 • 💬 20 • ⏱️ 1:02 • 19h ago
+👁️ 15K • 👍 465 • 💬 22 • ⏱️ 1:02 • 19h ago
 
 ---
 
-**[Billionaire Investor Reveals Why Bitcoin Keeps Dropping | Mike Novogratz](https://www.youtube.com/watch?v=AIJezYSx0NU)**
+**[The White House Just Released The Crypto BULLS!! (Why I&#39;m preparing for a Bitcoin DUMP)](https://www.youtube.com/watch?v=-i8humbpZJQ)**
 
-Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This conversation was recorded live at Bitcoin ...
+Trump White House PUMPING Crypto.. Due To THIS LAST DAY: Ledger Flash Sale: https://www.ledger.com/altcoindaily 50% ...
 
-📺 Anthony Pompliano
+📺 Altcoin Daily
 
-👁️ 65K • 👍 2K • 💬 101 • ⏱️ 28:28 • 3d ago
+👁️ 48K • 👍 3K • 💬 138 • ⏱️ 11:10 • 2d ago
+
+---
+
+**[Why BlackRock Can&#39;t Destroy Bitcoin | Jack Mallers EXCLUSIVE](https://www.youtube.com/watch?v=tMzcG8T-4_4)**
+
+Is Bitcoin being hijacked by Wall Street or is that the point? This conversation cuts through the noise on BlackRock, institutions, ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 1K • 💬 101 • ⏱️ 13:18 • 2d ago
 
 ---
 

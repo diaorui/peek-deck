@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T22:25:46.231079+00:00'
+updated: '2026-02-21T22:51:05.384213+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 22:25 UTC  
+**Last Updated:** February 21, 2026 at 22:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $239.37B
+**Market Cap:** $238.20B
 Rank #2
 
 **Circulating Supply:** 120,692,373 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.9%
+-60.1%
 
 **All-Time Low:** $0.43
-+457719.0%
++456157.7%
 
 ---
 
@@ -240,7 +240,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 5K • 👍 335 • 💬 37 • ⏱️ 18:46 • 7h ago
+👁️ 8K • 👍 397 • 💬 49 • ⏱️ 18:46 • 7h ago
+
+---
+
+**[Is Tom Lee Finally Right About the ETH Bottom? (BMNR Update)](https://www.youtube.com/watch?v=3a83V1fKPLE)**
+
+Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
+
+📺 Future Investing
+
+👁️ 1K • 👍 145 • 💬 44 • ⏱️ 8:49 • 1h ago
 
 ---
 
@@ -250,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 5 • ⏱️ 4:43 • 7h ago
+👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:43 • 8h ago
 
 ---
 
@@ -260,27 +270,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 522 • 💬 33 • ⏱️ 21:01 • 2d ago
-
----
-
-**[WHY ETH CAN RALLY NEXT MONTH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=50RuciUyE7w)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 294 • 👍 13 • ⏱️ 4:35 • 12h ago
-
----
-
-**[🚨 BTC &amp; ETH: ALL IN NOW!!!!! &quot;MEGA FOMO PUMP INCOMING!!!&quot;](https://www.youtube.com/watch?v=Rc6HxdvIdd8)**
-
-Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take on all of it. An objective one. ---------- AI Trading ...
-
-📺 Thomas Kralow
-
-👁️ 26K • 👍 4K • 💬 58 • ⏱️ 10:36 • 1d ago
+👁️ 15K • 👍 526 • 💬 33 • ⏱️ 21:01 • 2d ago
 
 ---
 
@@ -290,27 +280,27 @@ Optimism has plunged to a new all-time low after intense selling pressure overwh
 
 📺 Paul Barron Network
 
-👁️ 56K • 👍 3K • 💬 171 • ⏱️ 15:12 • 2d ago
+👁️ 57K • 👍 3K • 💬 172 • ⏱️ 15:12 • 2d ago
 
 ---
 
-**[☠️ What does Howard Lutnick know about Ethereum&#39;s Future?](https://www.youtube.com/watch?v=ki0X2Ur6hGQ)**
+**[🚨 BTC &amp; ETH: ALL IN NOW!!!!! &quot;MEGA FOMO PUMP INCOMING!!!&quot;](https://www.youtube.com/watch?v=Rc6HxdvIdd8)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take on all of it. An objective one. ---------- AI Trading ...
 
-📺 🌟yourfriendsommi
+📺 Thomas Kralow
 
-👁️ 1K • 👍 160 • 💬 9 • ⏱️ 10:25 • 14h ago
+👁️ 27K • 👍 4K • 💬 60 • ⏱️ 10:36 • 1d ago
 
 ---
 
-**[CAN CLARITY ACT PUSH XRP TO $100 - XRP WILL FLIP ETH SOON - AI AGENTS USE XRP ON THE XRPL - XRP NEWS](https://www.youtube.com/watch?v=mT-3oJa1EA4)**
+**[WHY ETH CAN RALLY NEXT MONTH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=50RuciUyE7w)**
 
-CAN CLARITY ACT PUSH XRP TO $100 - XRP WILL FLIP ETH SOON - AI AGENTS USE XRP ON THE XRPL - XRP NEWS NEW ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Common Sense Crypto
+📺 Cilinix Crypto
 
-👁️ 4K • 👍 603 • 💬 90 • ⏱️ 15:36 • 5h ago
+👁️ 334 • 👍 16 • ⏱️ 4:35 • 12h ago
 
 ---
 
@@ -320,7 +310,7 @@ BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 6K • 👍 246 • 💬 56 • ⏱️ 15:50 • 22h ago
+👁️ 6K • 👍 250 • 💬 43 • ⏱️ 15:50 • 22h ago
 
 ---
 
@@ -331,6 +321,16 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 109 • 💬 5 • ⏱️ 4:31 • 20h ago
+
+---
+
+**[☠️ What does Howard Lutnick know about Ethereum&#39;s Future?](https://www.youtube.com/watch?v=ki0X2Ur6hGQ)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 1K • 👍 167 • 💬 10 • ⏱️ 10:25 • 14h ago
 
 ---
 

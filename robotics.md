@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T22:25:46.234261+00:00'
+updated: '2026-02-21T22:51:05.387385+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 22:25 UTC  
+**Last Updated:** February 21, 2026 at 22:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 Hey all, I recently switched from the aerospace to the robotics industry. I'm trying to introduce testing and quality assurance to my team that's been building prototypes for anthropomorphic robots. The testing that's done happens during teleoperation of the robots. In my view this is quite unsafe for the human operator. For this reason I'd like to bring in more automated test scripts in testing without the need of human, and some stricter acceptance criteria before handed over to a human operator. Since this is an agile work environment and very fast paced it can get challenging to have a heavy testing. I also don't want to bring in some heavy V&V processes into the development lifecycle If anyone here is in robotics testing and QA I'd love to connect and hear your thoughts on how you might have over come such a challenge within your teams. If I'm having high expectations of testing in robotics since I'm from aerospace, feel free to break the news to me 😅
 
-2h ago
+3h ago
 
 ---
 
@@ -82,7 +82,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I am not sure how much of this is for show or how much it could be real. ok moving turret while tracking mosquitos, plenty of examples online but a camera able to recognize them and so much tiny ? a laser so powerful to kill them midair? I am wondering if this is real or just a show and in case where to start to learn how to build own myself. I would appreciate any tip or comment to lead on where to document myself on the hardware for the software i've seen plenty of good libraries in python - or other languages - but i am more interested on which kind of hardware to look for and calculation for power consumption.
 
-10h ago
+11h ago
 
 ---
 
@@ -90,7 +90,7 @@ I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I 
 
 Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using MoveIt Servo to command X/Y/Z position only, Joint 4 moves unexpectedly. This does NOT happen in Gazebo simulation with identical code. Key observations: Joint 4 moves consistently in one direction for +Z, opposite direction for -Z Not random — same behavior every time Works perfectly in Gazebo simulation Happens regardless of whether I publish to /arm_group_controller/joint_trajectory or direct /joint_commands_to_teensy commands [I switched to /joint_commands_to_teensy because robot was jerky when i gave it to trajectory controller] The only difference between hardware and simulation is the command_out_topic in real world i use /joint_commands_to_teensy and simulation i use /arm_group_controller/joint_trajectory --- here is the yaml file All encoders are working and providing feedback(I use dc encoder motors) Hardware Setup Teensy 4.1 microcontroller with micro-ROS 6 motors with encoders on all joints CytronMD motor drivers Using KDL kinematics solver What I've Tried Verified joint ordering is correct (tested each joint individually) Confirmed encoder directions and zero calibration Tested both control topics (/arm_group_controller/joint_trajectory and /joint_commands_to_teensy) Increased loop rate from 100ms to 20ms to match servo publish rate Checked Gazebo simulation closely — Joint 4 does NOT move during +Z/-Z commands Code Snippets Teensy Loop Rate: cppvoid loop() { RCSOFTCHECK(rclc_executor_spin_some(&executor, RCL_MS_TO_NS(20))); } Servo Config yaml: publish_period: 0.02 # 50Hz command_in_type: "speed_units" move_group_name: "arm_group" planning_frame: "base_link" ee_frame_name: "fake_link" Joint Command Callback: cppvoid joint_command_callback(const void * msgin) { const std_msgs__msg__Float64MultiArray * msg = (const std_msgs__msg__Float64MultiArray *)msgin; for (size_t i = 0; i < NUM_MOTORS && i < msg->data.size; i++) { float new_target = msg->data.data[i] * (180.0 / M_PI); if (i == 2) { new_target = new_target * -1; } if (abs(new_target - motors[i].target_angle) > 0.1) { motors[i].target_angle = new_target; motors[i].integral = 0; motors[i].settled_count = 0; } } } The Mystery In real world the joint_4 is moving unwanted -- here is the video when robot executes +z and -z --------- But in Gazebo simulation with the exact same input, Joint 4 only has minimum motion -- here is the simulation video . Questions Is this expected behavior for a 5-DOF robot? Is there a MoveIt Servo parameter to constrain/lock certain joints during position-only commands? Why does Gazebo not exhibit this behavior while hardware does? Any insights appreciated!
 
-15h ago
+16h ago
 
 ---
 
@@ -98,7 +98,7 @@ Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using M
 
 idk if anyone will know about this but does anybody remember hanson robotics who created the robot sophia that was famous a while. Then on their website advertised "little sophia" as a robot companion with their kickstarter. The website still says "preorder" and has been outdated for years. Did they go bankrupt? Out of business? Run off with the kickstarter money? There isn't an adequate rabbit hole I can jump down about this I can't find any info online about this. Their website is preserved the same as it was in 2022 or something so obviously something was abandoned or whatever. I just wanna know mostly out of curiosity, because it seems strange that it was just abandoned and forgotten.
 
-15h ago
+16h ago
 
 ---
 
@@ -194,23 +194,23 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 47K • 👍 2K • 💬 631 • ⏱️ 14:51 • 1d ago
-
----
-
 **[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
 
 Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
 
 📺 DPCcars
 
-👁️ 21K • 👍 179 • 💬 89 • ⏱️ 2:14 • 19h ago
+👁️ 23K • 👍 184 • 💬 95 • ⏱️ 2:14 • 20h ago
+
+---
+
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 48K • 👍 2K • 💬 653 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -220,7 +220,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 237K • 👍 2K • 💬 2K • ⏱️ 3:42 • 2d ago
+👁️ 242K • 👍 3K • 💬 2K • ⏱️ 3:42 • 2d ago
 
 ---
 
@@ -230,7 +230,7 @@ Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
 📺 Wall Street Millennial
 
-👁️ 49K • 👍 2K • 💬 522 • ⏱️ 13:31 • 2d ago
+👁️ 50K • 👍 2K • 💬 522 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -240,7 +240,7 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.1M • 👍 85K • 💬 3K • ⏱️ 1:27 • 2d ago
+👁️ 1.1M • 👍 86K • 💬 3K • ⏱️ 1:27 • 2d ago
 
 ---
 
@@ -250,17 +250,17 @@ Chinese combat robots stunned global audiences as their appearance at a major Lu
 
 📺 Carros Show
 
-👁️ 27K • 👍 750 • 💬 138 • ⏱️ 10:12 • 2d ago
+👁️ 28K • 👍 755 • 💬 139 • ⏱️ 10:12 • 2d ago
 
 ---
 
-**[It Just Happened: Elon Musk Reveals Optimus Robot with Real Human Skin](https://www.youtube.com/watch?v=gLsdEGC5iAk)**
+**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
 
-The next project from Elon Musk is expected to push humanoid robotics into uncharted territory, with reports pointing to an ...
+China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
 
-📺 Carros Show
+📺 AI Revolution
 
-👁️ 11K • 👍 135 • 💬 38 • ⏱️ 9:20 • 5d ago
+👁️ 60K • 👍 1K • 💬 161 • ⏱️ 12:43 • 5d ago
 
 ---
 
@@ -270,7 +270,7 @@ Unitree Robotics is plotting an aggressive expansion following its viral showing
 
 📺 Kalil 4.0
 
-👁️ 31K • 👍 596 • 💬 209 • ⏱️ 11:04 • 1d ago
+👁️ 32K • 👍 616 • 💬 215 • ⏱️ 11:04 • 1d ago
 
 ---
 
@@ -280,17 +280,17 @@ Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid 
 
 📺 India Today Global
 
-👁️ 104K • 👍 1K • 💬 678 • ⏱️ 2:57 • 5d ago
+👁️ 105K • 👍 1K • 💬 678 • ⏱️ 2:57 • 5d ago
 
 ---
 
-**[Humanoid Robots Grab Spotlight at Spring Festival Gala](https://www.youtube.com/watch?v=1XCpBJn-Puc)**
+**[China’s Kung Fu Robots STUN the World with Unreal Live Performance!](https://www.youtube.com/watch?v=_jYdh-gyc3A)**
 
-Humanoid robots took center stage at China's annual Spring Festival Gala, performing acrobatic dances and kung fu routines.
+China just stunned the world after showcasing Kung Fu–performing humanoid robots in a massive live event viewed by millions.
 
-📺 Bloomberg Television
+📺 The AI Nexus
 
-👁️ 110K • 👍 738 • 💬 423 • ⏱️ 3:48 • 2d ago
+👁️ 34K • 👍 872 • 💬 107 • ⏱️ 18:26 • 3d ago
 
 ---
 
