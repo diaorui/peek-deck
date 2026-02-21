@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T12:50:55.354047+00:00'
+updated: '2026-02-21T13:42:29.300541+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 12:50 UTC  
+**Last Updated:** February 21, 2026 at 13:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 China's humanoid robots have gone from viral stumbles to flawless kung fu flips in just one year. Showcased at the 2026 Spring Festival Gala, startups like Unitree are launching highly capable robots starting at just $13,500, heavily undercutting US competitors like Tesla's Optimus.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 2h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 3h ago
 
 ---
 
@@ -52,7 +52,7 @@ China's humanoid robots have gone from viral stumbles to flawless kung fu flips 
 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
-39m ago
+1h ago
 
 ---
 
@@ -60,7 +60,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I am not sure how much of this is for show or how much it could be real. ok moving turret while tracking mosquitos, plenty of examples online but a camera able to recognize them and so much tiny ? a laser so powerful to kill them midair? I am wondering if this is real or just a show and in case where to start to learn how to build own myself. I would appreciate any tip or comment to lead on where to document myself on the hardware for the software i've seen plenty of good libraries in python - or other languages - but i am more interested on which kind of hardware to look for and calculation for power consumption.
 
-1h ago
+2h ago
 
 ---
 
@@ -76,7 +76,7 @@ Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using M
 
 idk if anyone will know about this but does anybody remember hanson robotics who created the robot sophia that was famous a while. Then on their website advertised "little sophia" as a robot companion with their kickstarter. The website still says "preorder" and has been outdated for years. Did they go bankrupt? Out of business? Run off with the kickstarter money? There isn't an adequate rabbit hole I can jump down about this I can't find any info online about this. Their website is preserved the same as it was in 2022 or something so obviously something was abandoned or whatever. I just wanna know mostly out of curiosity, because it seems strange that it was just abandoned and forgotten.
 
-6h ago
+7h ago
 
 ---
 
@@ -84,7 +84,7 @@ idk if anyone will know about this but does anybody remember hanson robotics who
 
 ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 16h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 17h ago
 
 ---
 
@@ -108,7 +108,7 @@ My goal is to do a robotics startup, current robotics masters student here going
 
 I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
 
-22h ago
+23h ago
 
 ---
 
@@ -136,7 +136,7 @@ Business Insider • 1d ago
 
 Tesla has a few robotics advantages that it's tapping into.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -174,7 +174,7 @@ IEEE Spectrum • 2d ago
 
 **[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -232,7 +232,7 @@ Powerful & Precision: Snow Clever Machinery RC Tracked Robot for Amazing Snow Cl
 
 📺 NEXTOOLINNO 
 
-👁️ 5K • 👍 30 • 💬 2 • ⏱️ 0:04 • 8h ago
+👁️ 5K • 👍 30 • 💬 2 • ⏱️ 0:04 • 9h ago
 
 ---
 
@@ -260,7 +260,7 @@ Viral: China's Humanoid Robots Take Center Stage For Lunar New Year Showtime | S
 
 📺 Mint
 
-👁️ 5K • 👍 75 • 💬 69 • ⏱️ 3:01 • 9h ago
+👁️ 5K • 👍 75 • 💬 69 • ⏱️ 3:01 • 10h ago
 
 ---
 
