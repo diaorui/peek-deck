@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T09:31:53.093446+00:00'
+updated: '2026-02-21T10:27:48.936009+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
-- social
 - videos
+- cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 09:31 UTC  
+**Last Updated:** February 21, 2026 at 10:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,920.80
+### $68,017.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -1.2%  
-**30d:** -24.2%  
-**90d:** -23.2%  
-**1y:** -29.6%  
+**24h:** +1.3%  
+**7d:** -0.9%  
+**30d:** -23.9%  
+**90d:** -22.9%  
+**1y:** -29.4%  
 
 ---
 
@@ -77,31 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
-
-21h ago
-
----
-
 **[Just 0.4 to go to my goal🥹](https://www.reddit.com/r/Bitcoin/comments/1raajx3/just_04_to_go_to_my_goal/)**
 
 My stack is still already cool imho. Happy stacking everyone
 
-10h ago
+11h ago
+
+---
+
+**[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
+
+22h ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-15h ago
-
----
-
-**[Missouri #Btc Strategic Reserve bill advances to the House Commerce Committee.](https://www.reddit.com/r/Bitcoin/comments/1radrbh/missouri_btc_strategic_reserve_bill_advances_to/)**
-
-HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
-
-8h ago
+16h ago
 
 ---
 
@@ -109,7 +101,15 @@ HB 2080 would establish a reserve fund authorizing the state treasurer to accept
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-2h ago
+3h ago
+
+---
+
+**[Missouri #Btc Strategic Reserve bill advances to the House Commerce Committee.](https://www.reddit.com/r/Bitcoin/comments/1radrbh/missouri_btc_strategic_reserve_bill_advances_to/)**
+
+HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
+
+9h ago
 
 ---
 
@@ -117,15 +117,7 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
 
-12h ago
-
----
-
-**[Power Law model shows BTC at $68k is deep in the buy zone (13.7%)](https://www.reddit.com/r/Bitcoin/comments/1ra0vwj/power_law_model_shows_btc_at_68k_is_deep_in_the/)**
-
-Been tracking the Bitcoin Power Law model for a while now. Here's this week's update. BTC is sitting at $67,745. Power Law fair value is around $123,947 — about 45% below fair value. Oscillator reads 13.7% The oscillator has ticked up marginally from 13.6% to 13.7%, remaining firmly entrenched in the Deep Buy Zone (0–25%). This is historically rare territory that typically occurs only 1–2 times per halving cycle. The oscillator's EMA(150) at 31.2% remains below its EMA(350) at 37.7%, maintaining a bearish spread of -6.5 points. This configuration — deep value combined with bearish momentum — represents the model's maximum accumulation signal. Full breakdown with charts here if anyone's interested: https://timetobuybitcoin.com/analysis/maximum-accumulation-zone-deepens-oscillator-at-137-amid-his-2026-02-20 Not financial advice, just sharing the data. Curious what you guys think.
-
-16h ago
+13h ago
 
 ---
 
@@ -141,7 +133,7 @@ Given the significant drop in Bitcoin’s price recently, do you think this coul
 
 I constantly see people talking about the 4-year cycle with absolute conviction that it will hold true, claiming that we will see the true “bottom” this autumn. I recently put 30% of my portfolio into bitcoin following the crash, however I’m now considering selling (since it’s only gone sideways and I won’t be at a loss) and waiting for it to drop more before buying back in. I’m expecting a lot of Smartass Redditor responses but I’m interested in hearing peoples genuine thoughts on the 4-year cycle
 
-6h ago
+7h ago
 
 ---
 
@@ -149,7 +141,15 @@ I constantly see people talking about the 4-year cycle with absolute conviction 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
+
+---
+
+**[What should be my goal?](https://www.reddit.com/r/Bitcoin/comments/1radze3/what_should_be_my_goal/)**
+
+I just reached my very small but significant goal to me, 0.1. Should I diversify my assets and invest in stocks or keep going with bitcoin and eventually aim for 0.5-1btc? I seriously see the value in bitcoin but am worried about having everything in one basket.
+
+8h ago
 
 ---
 
@@ -165,27 +165,35 @@ Fortune • 1d ago
 
 ---
 
-**[Michael Saylor Is Telling The Truth About Strategy's Bitcoin Stash, Coinbase Exec Says](https://finance.yahoo.com/news/michael-saylor-telling-truth-strategys-203026600.html)**
+**[Bitcoin analysis: Small investors, or shrimps, are buying BTC. But it's the whales who keep rallies going.](https://www.coindesk.com/markets/2026/02/21/small-investors-are-buying-bitcoin-it-now-needs-bigger-players-to-show-up)**
 
-John D’Agostino, Coinbase's Head of Institutional Strategy, appeared on CNBC Tuesday to weigh in on the market volatility. D’Agostino emphasized that while the decline looks large in dollar terms, it’s typical volatility on a percentage basis for crypto. Asked about...
+Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-Yahoo Finance • 1d ago
-
----
-
-**[What Is Strategy (MSTR)? The Bitcoin Treasury Company](https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company)**
-
-Software firm MicroStrategy and its co-founder Michael Saylor have become synonymous with Bitcoin. Here’s everything you need to know.
-
-Decrypt • 15h ago
+CoinDesk • 5h ago
 
 ---
 
-**[Crypto price news: BTC unfazed by Trump tariff news; DOGE, SOL, ADA lead modest bounce](https://www.coindesk.com/markets/2026/02/20/bitcoin-shrugs-off-trump-s-new-tariffs-nears-usd68-000-as-altcoins-lead-modest-bounce)**
+**[Bitcoin Pops After Supreme Court Strikes Down Trump’s Tariffs](https://bitcoinmagazine.com/news/bitcoin-pops-after-supreme-court)**
 
-Crypto prices edged higher on Friday despite a splash of tariff turbulence after the U.S. Supreme Court ruled Trump's levies illegal.
+The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
 
-CoinDesk • 12h ago
+Bitcoin Magazine • 17h ago
+
+---
+
+**[Bitcoin, Ether Hold Strong as Trump Announces Additional Universal 10% Tariff](https://finance.yahoo.com/news/bitcoin-ether-hold-strong-trump-072027103.html)**
+
+Cryptocurrency markets showed resilience Friday after US President Donald Trump unveiled a new universal 10% tariff on imports, even as the policy followed a Supreme Court decision blocking his earlier use of emergency economic powers. Key Takeaways: Crypto prices held steady despite Trump announcing a new 10% universal tariff. The ...
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin price news: BTC gains, but quickly retreats as Trump tariffs ruled illegal by Supreme Court](https://www.coindesk.com/markets/2026/02/20/bitcoin-pops-then-drops-as-supreme-court-strikes-down-trump-tariffs)**
+
+Hotter inflation and slower growth delivers a messy message with the Federal Reserve likely take its time before any policy changes, one analyst said.
+
+CoinDesk • 19h ago
 
 ---
 
@@ -193,15 +201,7 @@ CoinDesk • 12h ago
 
 Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF) CEO Scott Ellam talked with Proactive about the company’s international executive recruitment business and its disciplined Bitcoin treasury strategy. Connecting Excellence Group Plc operates as an international executive recruitment firm...
 
-Yahoo Finance UK • 1h ago
-
----
-
-**[Bitcoin analysis: Small investors, or shrimps, are buying BTC. But it's the whales who keep rallies going.](https://www.coindesk.com/markets/2026/02/21/small-investors-are-buying-bitcoin-it-now-needs-bigger-players-to-show-up)**
-
-Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
-
-CoinDesk • 4h ago
+Yahoo Finance UK • 2h ago
 
 ---
 
@@ -211,25 +211,27 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqccRITaUops_aoPK8EtE5PCx3wi5yxL_x6c92InoCsAMXkrZoMI2TIy&gaa_ts=6999713d&gaa_sig=ciDeatUc1CSZkoptxJoB35iKJRkT0O6Cgbceg4c-k4PtpZs1X8V9vdHApCK_Oopqu7uvUS1jSPE8DhXjyFSUYw%3D%3D)**
-
-Barron's • 23h ago
-
----
-
-**[Bitcoin’s 50% Slide: Quantum Scare Or Capital Rotation?](https://bitcoinmagazine.com/markets/bitcoins-50-slide-quantum-scare)**
-
-Bitcoin’s slide from its October high near $126,100 has sparked debate over whether fears of quantum computing pose a real threat.
-
-Bitcoin Magazine • 18h ago
-
----
-
 **[Concern Grows That Bitcoin’s Value Could Be Entirely Destroyed](https://futurism.com/future-society/concern-bitcoin-value-destroyed)**
 
 Bitcoin's downturn has certain critics predicting a total collapse, suggesting its value could eventually plunge to zero dollars.
 
-Futurism • 17h ago
+Futurism • 18h ago
+
+---
+
+**[Bitcoin zero? Crypto evangelists have run out of stories to tell](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-bitcoin-cryptocurrency-speculation-investing/)**
+
+Bitcoin has become a vessel of pure speculation
+
+The Globe and Mail • 1d ago
+
+---
+
+**[Bitcoin remains below key onchain level as ETF outflows persist, liquidity stays tight: analysts](https://www.theblock.co/post/390602/bitcoin-remains-below-key-onchain-level-as-etf-outflows-persist-liquidity-stays-tight-analysts)**
+
+Analysts warned that weak ETF flows, constrained liquidity, and fragile accumulation are keeping bitcoin's price rangebound and indecisive.
+
+The Block • 22h ago
 
 ---
 
@@ -277,13 +279,13 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 15h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 16h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
-⬆️ 1 • 💬 0 • 21h ago
+⬆️ 1 • 💬 0 • 22h ago
 
 ---
 
@@ -299,7 +301,7 @@ Financial independence on a bitcoin standard
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
 
-⬆️ 1 • 💬 0 • 18h ago • [Attena](https://www.attena.xyz/)
+⬆️ 1 • 💬 0 • 19h ago • [Attena](https://www.attena.xyz/)
 
 ---
 
@@ -329,7 +331,7 @@ Michael Saylor finally admits bitcoin is in a bear market - but the question is 
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 334 • 💬 49 • ⏱️ 1:11:34 • 14h ago
+👁️ 7K • 👍 334 • 💬 49 • ⏱️ 1:11:34 • 15h ago
 
 ---
 
@@ -339,7 +341,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 95 • ⏱️ 55:11 • 17h ago
+👁️ 23K • 👍 1K • 💬 95 • ⏱️ 55:11 • 18h ago
 
 ---
 
@@ -349,7 +351,7 @@ Bitcoin is down roughly 50% from its all-time high, and sentiment is collapsing.
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 648 • 💬 52 • ⏱️ 16:21 • 19h ago
+👁️ 11K • 👍 648 • 💬 52 • ⏱️ 16:21 • 20h ago
 
 ---
 
@@ -359,7 +361,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • ⏱️ 24:35 • 11h ago
+👁️ 25K • 👍 1K • ⏱️ 24:35 • 12h ago
 
 ---
 
@@ -369,7 +371,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 101 • ⏱️ 12:39 • 10h ago
+👁️ 19K • 👍 1K • 💬 101 • ⏱️ 12:39 • 11h ago
 
 ---
 
@@ -377,7 +379,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 CryptoWendyO
 
-👁️ 11K • 👍 608 • 💬 14 • ⏱️ 2:12 • 7h ago
+👁️ 11K • 👍 608 • 💬 14 • ⏱️ 2:12 • 8h ago
 
 ---
 
@@ -407,7 +409,7 @@ Bitcoin #Crypto #Finance Washington's tone toward crypto is shifting and the pus
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 759 • 💬 130 • ⏱️ 57:26 • 17h ago
+👁️ 16K • 👍 759 • 💬 130 • ⏱️ 57:26 • 18h ago
 
 ---
 
