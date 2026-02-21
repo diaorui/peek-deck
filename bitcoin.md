@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T10:27:48.936009+00:00'
+updated: '2026-02-21T10:54:11.702390+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 10:27 UTC  
+**Last Updated:** February 21, 2026 at 10:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -125,7 +125,7 @@ I've been in crypto for about three years now and I noticed something weird late
 
 Given the significant drop in Bitcoin’s price recently, do you think this could be a good opportunity to invest? Some investors see sharp declines as a chance to buy at a lower entry point, while others worry that the market could continue to fall. Considering the volatility and the long-term potential often associated with cryptocurrencies, would you view this downturn as a strategic buying moment, or would you prefer to wait for more stability before making an investment decision?
 
-11h ago
+12h ago
 
 ---
 
@@ -133,7 +133,7 @@ Given the significant drop in Bitcoin’s price recently, do you think this coul
 
 I constantly see people talking about the 4-year cycle with absolute conviction that it will hold true, claiming that we will see the true “bottom” this autumn. I recently put 30% of my portfolio into bitcoin following the crash, however I’m now considering selling (since it’s only gone sideways and I won’t be at a loss) and waiting for it to drop more before buying back in. I’m expecting a lot of Smartass Redditor responses but I’m interested in hearing peoples genuine thoughts on the 4-year cycle
 
-7h ago
+8h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I just reached my very small but significant goal to me, 0.1. Should I diversify my assets and invest in stocks or keep going with bitcoin and eventually aim for 0.5-1btc? I seriously see the value in bitcoin but am worried about having everything in one basket.
 
-8h ago
+9h ago
 
 ---
 
@@ -201,7 +201,7 @@ CoinDesk • 19h ago
 
 Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF) CEO Scott Ellam talked with Proactive about the company’s international executive recruitment business and its disciplined Bitcoin treasury strategy. Connecting Excellence Group Plc operates as an international executive recruitment firm...
 
-Yahoo Finance UK • 2h ago
+Yahoo Finance UK • 3h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Globe and Mail • 1d ago
 
 Analysts warned that weak ETF flows, constrained liquidity, and fragile accumulation are keeping bitcoin's price rangebound and indecisive.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -285,7 +285,7 @@ The company said it will focus on building data centers for high-performance com
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
-⬆️ 1 • 💬 0 • 22h ago
+⬆️ 1 • 💬 0 • 23h ago
 
 ---
 
@@ -301,7 +301,7 @@ Financial independence on a bitcoin standard
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
 
-⬆️ 1 • 💬 0 • 19h ago • [Attena](https://www.attena.xyz/)
+⬆️ 1 • 💬 0 • 20h ago • [Attena](https://www.attena.xyz/)
 
 ---
 
@@ -321,7 +321,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 171 • ⏱️ 9:14 • 10h ago
+👁️ 38K • 👍 2K • 💬 171 • ⏱️ 9:14 • 11h ago
 
 ---
 
@@ -399,7 +399,7 @@ Thank you for taking the time to watch. If you want to support these videos, you
 
 📺 Doctor of Pump & Dump
 
-👁️ 5K • 👍 449 • ⏱️ 26:22 • 12h ago
+👁️ 5K • 👍 449 • ⏱️ 26:22 • 13h ago
 
 ---
 
