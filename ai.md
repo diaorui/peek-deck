@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T07:07:18.729757+00:00'
+updated: '2026-02-21T07:51:57.457658+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
-- news
 - social
+- repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 07:07 UTC  
+**Last Updated:** February 21, 2026 at 07:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 13h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 14h ago
 
 ---
 
@@ -49,7 +49,7 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 
 OpenAI may release its first AI-powered consumer device in 2027.
 
-🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 5h ago
+🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Full Article Text David Betts created an AI-powered text-to-speech app, Talk To 
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 17h ago
+🔗 [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/) • 18h ago
 
 ---
 
@@ -81,7 +81,7 @@ We open-sourced optimize_anything, an API that optimizes any text artifact. You 
 
 So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
 
-12h ago
+13h ago
 
 ---
 
@@ -89,7 +89,7 @@ So I've been watching people struggle with file organization for years. They hav
 
 There are two channels that I enjoy listening to while I sleep. They obviously have AI narrators. I believe they are commonly used ones as I've heard them used by a couple different channels. I asked because I want to create some narrated versions of public domain stories as well as Conan the barbarian (it's still 2 years off from being in the public domain but come on that just splitting hairs). I just want these for my own use for falling asleep. Maybe I'd post them on YouTube but it really isn't worth the target on my back and the hate. Ideally I would like to use the narrator for these videos? https://youtu.be/YeR53Pzccrs?si=wPoGrV9oVx842J0V This one is a nice voice as well that I would like to know the program for. https://youtu.be/uAnzLwc63bk?si=2KKgZ9HF6Sw-GoUd Any advice is appreciated
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ There are two channels that I enjoy listening to while I sleep. They obviously h
 
 We’ve been running voice AI agents in production for 18+ months doing real phone calls (outbound lead qualification and inbound customer care). During this time we’ve tested multiple TTS providers. Sharing our honest assessment because most “comparisons” online are either sponsored or based on 30-second demos, not thousands of hours of real phone conversations. Important context: our use case is Italian-language phone calls over standard telephony (not VoIP, not in-app), which is a harder test than English because fewer models are optimized for it. We process audio at 16kHz. ElevenLabs (currently in production): Best Italian voice quality by far. Prosody is natural, handles pauses well, emotional range is good. Latency for TTS generation is acceptable in our streaming setup. Downsides: pricing at scale gets expensive, and occasionally the voice “glitches” on certain phonemes. We’ve found that the voice stability is very dependent on how you structure your input text — short sentences work dramatically better than long ones. Azure Neural TTS: Rock solid reliability, great latency, good pricing. Italian voices are okay but sound “flat” compared to ElevenLabs — like a newsreader vs a real person. For customer care this works fine. For outbound sales calls where you need warmth and persuasion, it wasn’t cutting it. PlayHT: Tested their v2 API. English quality is impressive. Italian was noticeably worse — unnatural stress patterns, weird pauses between words. Might work for English-only deployments. Cartesia: Very promising on latency (their streaming is genuinely fast). Voice quality for English is good. Italian support was limited when we tested. Worth watching. The metric that matters most for us isn’t MOS score or any standard quality metric — it’s what we call “first 5 second detection rate,” meaning how often the person being called realizes they’re talking to AI within the first 5 seconds. With ElevenLabs we’re at roughly 15-20%. With Azure it was closer to 40%. That gap is massive for outbound conversion. Has anyone done serious production testing of TTS providers for non-English languages? Also very curious about Cartesia’s Italian/European language support — their architecture seems promising but I haven’t seen real multilingual benchmarks. And for anyone using Deepgram or AssemblyAI on the STT side: how’s Italian transcription accuracy for you?
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +105,7 @@ We’ve been running voice AI agents in production for 18+ months doing real pho
 
 There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy.” That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
 
-16h ago
+17h ago
 
 ---
 
@@ -113,7 +113,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 Tiktok but with AI-generated interactive mini apps. Hear me out... Something I've been thinking about lately. Right now the most addictive form of social media is short videos. But what's actually more engaging than watching something? Playing something. Interacting with it. Like imagine instead of scrolling through videos you were scrolling through little games, tools, apps. Things you can actually touch and play with. That wasn't really possible before because making even a simple game took weeks. But now AI can generate a working interactive app from a single sentence in seconds. Plus problem number one for anyone vibe coding, how do you distribute your app - especially if it's something small and silly? You're not going to bother making a landing page for it and buying a domain. And ideally, people would like to share their experience using some product like this, so a social media format seems perfect. It feels like once generative AI gets good enough to make whatever we want on the fly, social media kind of has to go in this direction right? Why would you watch a video of something when you could just play it yourself. I think in the future, every influencer is going to take a video and generate some kind of game out of it to make it more engaging and personalized. Would require something like generating 3D models on the fly to make it really good. Actually found a few apps that're already doing this (kinda). One is called Minis im, one is called Rosebud, theres a few more you can find if you google. But I don't think any of them are making any money since it's a hard-to-monetize concept. Curious what this community thinks. Is this where things are heading or is interactive content too niche to go mainstream? I think as AI gets better and better, this will start to become a thing, but it's a bit early.
 
-7h ago
+8h ago
 
 ---
 
@@ -147,7 +147,7 @@ BBC • 1h ago
 
 A Pentagon spokesperson told NBC News that it is reviewing its relationship with Anthropic.
 
-NBC News • 13h ago
+NBC News • 14h ago
 
 ---
 
@@ -171,7 +171,7 @@ Financial Times • 1d ago
 
 Reported issues at Amazon Web Services raise questions about firm’s use of artificial intelligence as it cuts staff
 
-The Guardian • 15h ago
+The Guardian • 16h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Guardian • 15h ago
 
 Allegedly, the coding assistant decided to “delete and recreate the environment” that was causing problems.
 
-Gizmodo • 11h ago
+Gizmodo • 12h ago
 
 ---
 
@@ -195,7 +195,7 @@ Fortune • 2d ago
 
 As tech CEOs predict mass job displacement, billionaire former Shark Tank star Mark Cuban just revealed the “smartest counter” to that narrative.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 14h ago
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 715 • 💬 178 • 17h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 715 • 💬 178 • 18h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
@@ -215,7 +215,7 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 710 • 💬 403 • 20h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 710 • 💬 403 • 21h ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -310,7 +310,7 @@ We're reaching this thing where we're realising that everybody made a huge mista
 
 📺 The Tech Report
 
-👁️ 84K • 👍 4K • 💬 1K • ⏱️ 26:37 • 13h ago
+👁️ 84K • 👍 4K • 💬 1K • ⏱️ 26:37 • 14h ago
 
 ---
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 15.9k • 🔱 1.7k • 10m ago
+⭐ 15.9k • 🔱 1.7k • 54m ago
 
 ---
 

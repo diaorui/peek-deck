@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T07:07:18.737980+00:00'
+updated: '2026-02-21T07:51:57.466287+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 07:07 UTC  
+**Last Updated:** February 21, 2026 at 07:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -93,7 +93,7 @@ My stack is still already cool imho. Happy stacking everyone
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -101,7 +101,7 @@ My stack is still already cool imho. Happy stacking everyone
 
 HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Been tracking the Bitcoin Power Law model for a while now. Here's this week's up
 
 Given the significant drop in Bitcoin’s price recently, do you think this could be a good opportunity to invest? Some investors see sharp declines as a chance to buy at a lower entry point, while others worry that the market could continue to fall. Considering the volatility and the long-term potential often associated with cryptocurrencies, would you view this downturn as a strategic buying moment, or would you prefer to wait for more stability before making an investment decision?
 
-8h ago
+9h ago
 
 ---
 
@@ -133,13 +133,13 @@ Given the significant drop in Bitcoin’s price recently, do you think this coul
 
 I constantly see people talking about the 4-year cycle with absolute conviction that it will hold true, claiming that we will see the true “bottom” this autumn. I recently put 30% of my portfolio into bitcoin following the crash, however I’m now considering selling (since it’s only gone sideways and I won’t be at a loss) and waiting for it to drop more before buying back in. I’m expecting a lot of Smartass Redditor responses but I’m interested in hearing peoples genuine thoughts on the 4-year cycle
 
-4h ago
+5h ago
 
 ---
 
 **[Money Printer Go Brrrr Again](https://www.reddit.com/r/Bitcoin/comments/1ra60h8/money_printer_go_brrrr_again/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -147,7 +147,7 @@ I constantly see people talking about the 4-year cycle with absolute conviction 
 
 Bickerstaff had the opportunity to go hard on Bitcoin, but missed it.
 
-🔗 [Basketball Network](https://www.basketballnetwork.net/off-the-court/j-b-bickerstaff-regrets-not-investing-in-bitcoin-back-in-2016) • 9h ago
+🔗 [Basketball Network](https://www.basketballnetwork.net/off-the-court/j-b-bickerstaff-regrets-not-investing-in-bitcoin-back-in-2016) • 10h ago
 
 ---
 
@@ -159,7 +159,7 @@ Bickerstaff had the opportunity to go hard on Bitcoin, but missed it.
 
 Crypto prices edged higher on Friday despite a splash of tariff turbulence after the U.S. Supreme Court ruled Trump's levies illegal.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -175,7 +175,7 @@ Yahoo Finance • 1d ago
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 1d ago
 
 **[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqcIGEEUTSidasWQ_y6A4CFD3kdp5JpWequ2BigdhKpmBXpMXqg0Nozk&gaa_ts=69995d11&gaa_sig=Ux5gf7QMB0nSIJeYRd3m8fIS-Epy0WWaqm_D08BWx35KH9NEX0Tvxn_5VwpP2PCPEQN03vU9MFk7Tur5ETl2aA%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -195,7 +195,7 @@ Barron's • 21h ago
 
 Bitcoin's downturn has certain critics predicting a total collapse, suggesting its value could eventually plunge to zero dollars.
 
-Futurism • 14h ago
+Futurism • 15h ago
 
 ---
 
@@ -203,7 +203,7 @@ Futurism • 14h ago
 
 Bitcoin’s slide from its October high near $126,100 has sparked debate over whether fears of quantum computing pose a real threat.
 
-Bitcoin Magazine • 15h ago
+Bitcoin Magazine • 16h ago
 
 ---
 
@@ -219,7 +219,7 @@ Fortune • 2d ago
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-Nasdaq • 14h ago
+Nasdaq • 15h ago
 
 ---
 
@@ -227,7 +227,7 @@ Nasdaq • 14h ago
 
 Saylor has been offsetting the Bitcoin drag by reverting to a different and dangerous scheme: Issuing tons of preferred stock.
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
@@ -275,13 +275,13 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 12h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 13h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
-⬆️ 1 • 💬 0 • 19h ago
+⬆️ 1 • 💬 0 • 20h ago
 
 ---
 
@@ -297,7 +297,7 @@ Financial independence on a bitcoin standard
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
 
-⬆️ 1 • 💬 0 • 16h ago • [Attena](https://www.attena.xyz/)
+⬆️ 1 • 💬 0 • 17h ago • [Attena](https://www.attena.xyz/)
 
 ---
 
@@ -317,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 157 • ⏱️ 9:14 • 7h ago
+👁️ 31K • 👍 2K • 💬 157 • ⏱️ 9:14 • 8h ago
 
 ---
 
@@ -327,7 +327,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 93 • ⏱️ 12:39 • 7h ago
+👁️ 16K • 👍 1K • 💬 93 • ⏱️ 12:39 • 8h ago
 
 ---
 
@@ -367,7 +367,7 @@ https://youtu.be/RThI3UUSpwc?si=t0m9cQVPXyt35ZMD BUY ONE 1-STEP CHALLENGE → GE
 
 📺 100XClub
 
-👁️ 9K • 👍 945 • 💬 312 • ⏱️ 9:49 • 20h ago
+👁️ 9K • 👍 945 • 💬 312 • ⏱️ 9:49 • 21h ago
 
 ---
 
