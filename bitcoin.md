@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T15:49:31.152217+00:00'
+updated: '2026-02-21T16:30:46.977522+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
+- news
 - videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 15:49 UTC  
+**Last Updated:** February 21, 2026 at 16:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1369.44B
+**Market Cap:** $1361.95B
 Rank #1
 
-**Circulating Supply:** 19,992,700 BTC
+**Circulating Supply:** 19,992,743 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-45.9%
 
 **All-Time Low:** $67.81
-+100899.9%
++100469.2%
 
 ---
 
@@ -89,7 +89,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 My stack is still already cool imho. Happy stacking everyone
 
-16h ago
+17h ago
 
 ---
 
@@ -103,13 +103,13 @@ My stack is still already cool imho. Happy stacking everyone
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -125,7 +125,7 @@ Quick post for those interested in understanding Bitcoin Core under the hood, at
 
 HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
 
-14h ago
+15h ago
 
 ---
 
@@ -141,7 +141,7 @@ Hi there, not sure if small business announcing their adoption of Bitcoin as a p
 
 I will be in Perth in the next few months. Can you tell me where I could buy BTC without KYC? I'm coming from outside Australia and will be staying for a few years. Thanks to all community!
 
-5h ago
+6h ago
 
 ---
 
@@ -149,7 +149,7 @@ I will be in Perth in the next few months. Can you tell me where I could buy BTC
 
 I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
 
-18h ago
+19h ago
 
 ---
 
@@ -161,7 +161,7 @@ I've been in crypto for about three years now and I noticed something weird late
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -175,13 +175,13 @@ Yahoo Finance • 1d ago
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg.com • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
 **[Crypto News: Spot Bitcoin ETFs Extend Outflow Streak to Five Weeks as $3.8B Exits Amid Macro Uncertainty](https://www.binance.com/en/square/post/294056002572897)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ Binance • 1h ago
 
 Private-equity firm Blue Owl Capital (OWL) tumbled nearly 15% this week as it was forced to liquidate $1.4 billion in assets to pay investors looking to exit one of its private credit funds.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -197,7 +197,7 @@ CoinDesk • 1h ago
 
 The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
 
-Bitcoin Magazine • 22h ago
+Bitcoin Magazine • 23h ago
 
 ---
 
@@ -217,7 +217,7 @@ Barron's • 1d ago
 
 Bitcoin's downturn has certain critics predicting a total collapse, suggesting its value could eventually plunge to zero dollars.
 
-Futurism • 23h ago
+Futurism • 1d ago
 
 ---
 
@@ -225,7 +225,7 @@ Futurism • 23h ago
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-Nasdaq • 23h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -271,7 +271,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 2h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 3h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -279,7 +279,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 21h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 22h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
@@ -293,7 +293,7 @@ The company said it will focus on building data centers for high-performance com
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 1d ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 2d ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -315,7 +315,27 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 202 • ⏱️ 9:14 • 16h ago
+👁️ 51K • 👍 2K • 💬 213 • ⏱️ 9:14 • 17h ago
+
+---
+
+**[Bitcoin Is Crashing and Exchanges Freezing Up](https://www.youtube.com/watch?v=Xhrzm4CmpEo)**
+
+Take your personal data back with Incogni! Use code BOYLE at the link below and get 60% off an annual plan: ...
+
+📺 Patrick Boyle
+
+👁️ 93K • 👍 9K • 💬 1K • ⏱️ 32:14 • 3h ago
+
+---
+
+**[Bitcoin Is About to Absorb a Historic Rotation](https://www.youtube.com/watch?v=eZSL4CWTnDg)**
+
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years of market experience and the author of VisserLabs ...
+
+📺 Anthony Pompliano
+
+👁️ 10K • 👍 1K • ⏱️ 52:37 • 2h ago
 
 ---
 
@@ -325,7 +345,27 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 121 • ⏱️ 12:39 • 16h ago
+👁️ 24K • 👍 2K • 💬 126 • ⏱️ 12:39 • 17h ago
+
+---
+
+**[NEW Solo Bitcoin Miner! 12.5TH/s mining BTC #shorts #bitcoin #tech](https://www.youtube.com/watch?v=m3grN03eiFo)**
+
+Welcome to New England Crypto and East Coast Hardware Thanks for taking the time! Today we are unboxing the brand new ...
+
+📺 New England Crypto
+
+👁️ 830 • 👍 23 • ⏱️ 0:23 • 3h ago
+
+---
+
+**[Bitcoin’s Bear Market Trigger Nobody Wants To Admit | Jordi Visser](https://www.youtube.com/watch?v=h_TuYh4T3PM)**
+
+Bitcoin #Crypto #Finance From a back-corner “unofficial” interview at Bitcoin Investor Week, Jordi Visser explains why AI is the ...
+
+📺 The Wolf Of All Streets
+
+👁️ 3K • 👍 279 • 💬 45 • ⏱️ 37:11 • 2h ago
 
 ---
 
@@ -335,17 +375,7 @@ Michael Saylor finally admits bitcoin is in a bear market - but the question is 
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 346 • 💬 54 • ⏱️ 1:11:34 • 20h ago
-
----
-
-**[WATCH OUT Bitcoin Investors...This Is Days Away](https://www.youtube.com/watch?v=EH6Mp9d0RuA)**
-
-Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
-
-📺 CryptosRUs
-
-👁️ 24K • 👍 1K • 💬 102 • ⏱️ 55:11 • 23h ago
+👁️ 8K • 👍 351 • 💬 54 • ⏱️ 1:11:34 • 21h ago
 
 ---
 
@@ -355,7 +385,17 @@ Bitcoin is down roughly 50% from its all-time high, and sentiment is collapsing.
 
 📺 Swan Bitcoin
 
-👁️ 12K • 👍 701 • 💬 56 • ⏱️ 16:21 • 1d ago
+👁️ 13K • 👍 713 • 💬 59 • ⏱️ 16:21 • 1d ago
+
+---
+
+**[WATCH OUT Bitcoin Investors...This Is Days Away](https://www.youtube.com/watch?v=EH6Mp9d0RuA)**
+
+Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
+
+📺 CryptosRUs
+
+👁️ 24K • 👍 1K • 💬 103 • ⏱️ 55:11 • 1d ago
 
 ---
 
@@ -365,47 +405,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 30K • 👍 1K • ⏱️ 24:35 • 17h ago
-
----
-
-**[$1 Million Per Bitcoin by 2030?!😨😨](https://www.youtube.com/watch?v=xnvmLfzNCeA)**
-
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
-
-📺 Crypto Cam
-
-👁️ 31K • 👍 535 • 💬 45 • ⏱️ 0:30 • 2d ago
-
----
-
-**[I Investigated The Viral Epstein-Bitcoin Conspiracy](https://www.youtube.com/watch?v=8NMRnXFTncU)**
-
-The Epstein and Bitcoin theories are going viral. I love drama so much, I just HAD to do it!!! Check out how to secure your Bitcoin ...
-
-📺 BTC Isla
-
-👁️ 6K • 👍 586 • 💬 110 • ⏱️ 13:43 • 21h ago
-
----
-
-**[Billionaire Investor Reveals Why Bitcoin Keeps Dropping | Mike Novogratz](https://www.youtube.com/watch?v=AIJezYSx0NU)**
-
-Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This conversation was recorded live at Bitcoin ...
-
-📺 Anthony Pompliano
-
-👁️ 64K • 👍 2K • 💬 101 • ⏱️ 28:28 • 2d ago
-
----
-
-**[The White House Just Released The Crypto BULLS!! (Why I&#39;m preparing for a Bitcoin DUMP)](https://www.youtube.com/watch?v=-i8humbpZJQ)**
-
-Trump White House PUMPING Crypto.. Due To THIS LAST DAY: Ledger Flash Sale: https://www.ledger.com/altcoindaily 50% ...
-
-📺 Altcoin Daily
-
-👁️ 47K • 👍 3K • 💬 144 • ⏱️ 11:10 • 1d ago
+👁️ 32K • 👍 1K • ⏱️ 24:35 • 18h ago
 
 ---
 

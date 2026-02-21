@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T15:49:31.161325+00:00'
+updated: '2026-02-21T16:30:46.986749+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 15:49 UTC  
+**Last Updated:** February 21, 2026 at 16:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I 
 
 Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using MoveIt Servo to command X/Y/Z position only, Joint 4 moves unexpectedly. This does NOT happen in Gazebo simulation with identical code. Key observations: Joint 4 moves consistently in one direction for +Z, opposite direction for -Z Not random — same behavior every time Works perfectly in Gazebo simulation Happens regardless of whether I publish to /arm_group_controller/joint_trajectory or direct /joint_commands_to_teensy commands [I switched to /joint_commands_to_teensy because robot was jerky when i gave it to trajectory controller] The only difference between hardware and simulation is the command_out_topic in real world i use /joint_commands_to_teensy and simulation i use /arm_group_controller/joint_trajectory --- here is the yaml file All encoders are working and providing feedback(I use dc encoder motors) Hardware Setup Teensy 4.1 microcontroller with micro-ROS 6 motors with encoders on all joints CytronMD motor drivers Using KDL kinematics solver What I've Tried Verified joint ordering is correct (tested each joint individually) Confirmed encoder directions and zero calibration Tested both control topics (/arm_group_controller/joint_trajectory and /joint_commands_to_teensy) Increased loop rate from 100ms to 20ms to match servo publish rate Checked Gazebo simulation closely — Joint 4 does NOT move during +Z/-Z commands Code Snippets Teensy Loop Rate: cppvoid loop() { RCSOFTCHECK(rclc_executor_spin_some(&executor, RCL_MS_TO_NS(20))); } Servo Config yaml: publish_period: 0.02 # 50Hz command_in_type: "speed_units" move_group_name: "arm_group" planning_frame: "base_link" ee_frame_name: "fake_link" Joint Command Callback: cppvoid joint_command_callback(const void * msgin) { const std_msgs__msg__Float64MultiArray * msg = (const std_msgs__msg__Float64MultiArray *)msgin; for (size_t i = 0; i < NUM_MOTORS && i < msg->data.size; i++) { float new_target = msg->data.data[i] * (180.0 / M_PI); if (i == 2) { new_target = new_target * -1; } if (abs(new_target - motors[i].target_angle) > 0.1) { motors[i].target_angle = new_target; motors[i].integral = 0; motors[i].settled_count = 0; } } } The Mystery In real world the joint_4 is moving unwanted -- here is the video when robot executes +z and -z --------- But in Gazebo simulation with the exact same input, Joint 4 only has minimum motion -- here is the simulation video . Questions Is this expected behavior for a 5-DOF robot? Is there a MoveIt Servo parameter to constrain/lock certain joints during position-only commands? Why does Gazebo not exhibit this behavior while hardware does? Any insights appreciated!
 
-8h ago
+9h ago
 
 ---
 
@@ -76,7 +76,7 @@ idk if anyone will know about this but does anybody remember hanson robotics who
 
 ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 19h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 20h ago
 
 ---
 
@@ -84,7 +84,7 @@ ROS News for the Week of February 16th, 2026                                 202
 
 China's humanoid robots have gone from viral stumbles to flawless kung fu flips in just one year. Showcased at the 2026 Spring Festival Gala, startups like Unitree are launching highly capable robots starting at just $13,500, heavily undercutting US competitors like Tesla's Optimus.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 5h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 6h ago
 
 ---
 
@@ -100,7 +100,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 My goal is to do a robotics startup, current robotics masters student here going for a PhD soonish. What field of robotics do you guys think has the most potential for a successful startup? I want to do field robotics specifically. My biggest 2 rn is marine and space robotics, I would ideally find a lab that works in one of those areas and contribute/learn as much as I can.
 
-16h ago
+17h ago
 
 ---
 
@@ -172,7 +172,7 @@ NBC News • 2d ago
 
 Key PointsTesla is repurposing EV factories to build its Optimus robots.
 
-Nasdaq • 19h ago
+Nasdaq • 20h ago
 
 ---
 
@@ -196,13 +196,13 @@ Yahoo Finance • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[How Unitree Trained Robots to Master Real Kung Fu Moves](https://www.youtube.com/watch?v=VPRIl-j-T7Q)**
+**[China&#39;s humanoid robots take center stage at Lunar New Year show](https://www.youtube.com/watch?v=stNO7V8xJHk)**
 
-Unitree's humanoid robots did not just perform kung fu on stage. They trained for it like professional athletes. In this video, we ...
+Humanoid robots took the stage and captivated the world performing dances and kung fu during a Lunar New Year show in China ...
 
-📺 DPCcars
+📺 NBC News
 
-👁️ 149K • 👍 2K • 💬 838 • ⏱️ 2:00 • 3d ago
+👁️ 376K • 👍 2K • 💬 918 • ⏱️ 2:36 • 3d ago
 
 ---
 
@@ -212,17 +212,25 @@ Humanoid robots took center stage at China's annual Spring Festival Gala, perfor
 
 📺 Bloomberg Television
 
-👁️ 103K • 👍 715 • 💬 406 • ⏱️ 3:48 • 2d ago
+👁️ 106K • 👍 730 • 💬 418 • ⏱️ 3:48 • 2d ago
 
 ---
 
-**[China&#39;s humanoid robots take center stage at Lunar New Year show](https://www.youtube.com/watch?v=stNO7V8xJHk)**
+**[How Unitree Trained Robots to Master Real Kung Fu Moves](https://www.youtube.com/watch?v=VPRIl-j-T7Q)**
 
-Humanoid robots took the stage and captivated the world performing dances and kung fu during a Lunar New Year show in China ...
+Unitree's humanoid robots did not just perform kung fu on stage. They trained for it like professional athletes. In this video, we ...
 
-📺 NBC News
+📺 DPCcars
 
-👁️ 374K • 👍 2K • 💬 912 • ⏱️ 2:36 • 3d ago
+👁️ 149K • 👍 2K • 💬 844 • ⏱️ 2:00 • 3d ago
+
+---
+
+**[Robot day 7 build  #3dprinting #robotics #cnc](https://www.youtube.com/watch?v=7e3D3fhFKGQ)**
+
+📺 Austen Hartley
+
+👁️ 265 • 👍 4 • ⏱️ 0:39 • 48m ago
 
 ---
 
@@ -232,7 +240,7 @@ Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
 📺 Wall Street Millennial
 
-👁️ 48K • 👍 2K • 💬 538 • ⏱️ 13:31 • 1d ago
+👁️ 49K • 👍 2K • 💬 544 • ⏱️ 13:31 • 1d ago
 
 ---
 
@@ -242,7 +250,15 @@ Unitree Robotics is plotting an aggressive expansion following its viral showing
 
 📺 Kalil 4.0
 
-👁️ 28K • 👍 537 • 💬 177 • ⏱️ 11:04 • 1d ago
+👁️ 29K • 👍 562 • 💬 179 • ⏱️ 11:04 • 1d ago
+
+---
+
+**[Dirty Water Dump: Robot Vac Edition 💩 #robot #cleanwithme #cleaning #momlife #satisfyingclean](https://www.youtube.com/watch?v=igvZcyReOD0)**
+
+📺 Rosa Picosa at Home
+
+👁️ 44K • 👍 2K • 💬 39 • ⏱️ 0:51 • 1d ago
 
 ---
 
@@ -252,15 +268,7 @@ Robots were front and center during the 2026 Spring Festival Gala on primetime C
 
 📺 Kalil 4.0
 
-👁️ 80K • 👍 2K • 💬 232 • ⏱️ 0:49 • 4d ago
-
----
-
-**[I bought Delivery Cat! Like if you want him🥰  #robot #unboxing #delivery](https://www.youtube.com/watch?v=1E-FDo9ocaY)**
-
-📺 Kate Yepik
-
-👁️ 106K • 👍 2K • 💬 13 • ⏱️ 0:27 • 2d ago
+👁️ 81K • 👍 2K • 💬 234 • ⏱️ 0:49 • 4d ago
 
 ---
 
@@ -270,7 +278,7 @@ Viral: China's Humanoid Robots Take Center Stage For Lunar New Year Showtime | S
 
 📺 Mint
 
-👁️ 7K • 👍 87 • 💬 71 • ⏱️ 3:01 • 12h ago
+👁️ 8K • 👍 92 • 💬 76 • ⏱️ 3:01 • 13h ago
 
 ---
 
@@ -280,17 +288,7 @@ By combining decades of real-world data with advanced AI, simulation and digital
 
 📺 NVIDIA
 
-👁️ 29K • 👍 1K • ⏱️ 2:51 • 2d ago
-
----
-
-**[Unitree Robotics Has BIG Expansion Plans #robotics #unitreeg1 #humanoidrobots](https://www.youtube.com/watch?v=56rf2teQoeU)**
-
-Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
-
-📺 Kalil 4.0
-
-👁️ 36K • 👍 556 • 💬 39 • ⏱️ 0:40 • 3d ago
+👁️ 30K • 👍 1K • ⏱️ 2:51 • 2d ago
 
 ---
 

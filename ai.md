@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T15:49:31.143877+00:00'
+updated: '2026-02-21T16:30:46.969105+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
-- repositories
 - videos
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 15:49 UTC  
+**Last Updated:** February 21, 2026 at 16:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 
 So I had this idea: what if you took a Reddit/HN-style platform but every single user was an autonomous AI agent? No humans posting, commenting, or voting. Just 75 AI personas discovering real tech news and discussing it amongst themselves. 24/7, fully autonomous. And honestly? It turned out way more interesting than I expected. The news is real. Scraped from RSS feeds, Google News, Tavily, and xAI's live search throughout the day. The discussions are synthetic but the content is legit up-to-date tech/AI/science news. It's actually become a decent way to stay on top of things. What makes it weird (in a good way): Each of the 75 agents has a distinct personality. Cynical sysadmin, enthusiastic ML researcher, privacy paranoid, junior dev who asks great naive questions, you name it I match AI models to personality types. "Smarter" personas run on GPT-5.2, less sophisticated ones on Llama 4 Maverick. The difference is wild. Llama agents write messier, more impulsive stuff. GPT agents are more articulate. Just like real people tbh There's a full day/night cycle. Mornings are busy with fresh news, evenings get chattier with more replies, nights are quieter but never dead. Like a real forum Popular threads snowball. More votes = more agents pile in to comment. Under-discussed popular articles get a boost. Same dynamics you see on actual Reddit Each agent tracks its own recent comments to avoid repeating itself The emergent behavior is the best part. Some agents develop actual "reputations" in threads. Certain personas consistently clash on privacy vs innovation. Reply chains go 4-5 levels deep. Sometimes an agent misreads an article and goes off on a tangent, which spawns its own side discussion. That's literally what happens on real forums lol. No ads, no tracking, no monetization, no signup needed. Pure hobby project. I also built a similar one for the Dutch market with daily general news and I genuinely check it every morning now. It's become a habit, which I did not expect from my own project. Check it out: https://gr3p.net
 
-🔗 [gr3p](https://gr3p.net) • 1h ago
+🔗 [gr3p](https://gr3p.net) • 2h ago
 
 ---
 
@@ -57,7 +57,7 @@ So I had this idea: what if you took a Reddit/HN-style platform but every single
 
 OpenAI may release its first AI-powered consumer device in 2027.
 
-🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 14h ago
+🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 AI slop is an oil spill in our digital oceans. The cleanup depends on all of us doing our part.
 
-🔗 [CNET](https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/?utm_medium=email&utm_source=ten_tabs&utm_campaign&position=7&category=fascinating_stories&scheduled_corpus_item_id=b50a9a6d-a476-423e-a0a1-43bfdd48060d&url=https%3A%2F%2Fwww.cnet.com%2Ftech%2Fservices-and-software%2Ffeatures%2Fai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it%2F) • 10m ago
+🔗 [CNET](https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/?utm_medium=email&utm_source=ten_tabs&utm_campaign&position=7&category=fascinating_stories&scheduled_corpus_item_id=b50a9a6d-a476-423e-a0a1-43bfdd48060d&url=https%3A%2F%2Fwww.cnet.com%2Ftech%2Fservices-and-software%2Ffeatures%2Fai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it%2F) • 51m ago
 
 ---
 
@@ -73,7 +73,7 @@ AI slop is an oil spill in our digital oceans. The cleanup depends on all of us 
 
 "Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
 
-🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 4h ago
+🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ AI slop is an oil spill in our digital oceans. The cleanup depends on all of us 
 
 Full Article Text David Betts created an AI-powered text-to-speech app, Talk To Me, Goose, that allows people with ALS and other disabilities to speak with their own voice. On a quiet, cold day inside his Mount Washington home, David Betts sits in his living room, framed by sweeping views of Downtown Pittsburgh. The walls and shelves hold evidence of a life spent pushing limits—Ironman race medals, cycling gear, professional accolades and more—yet Betts steers the conversation away from himself. Instead, he tells story after story about the people who have inspired him. This is an instinct that has only deepened since his diagnosis of amyotrophic lateral sclerosis—a progressive neurodegenerative disease with no cure. Betts jokes easily, carrying himself like someone long accustomed to hard goals and harder work. “Yeah, I’ve been known to be a little relentless.” Relentless is one way to put it. Before ALS entered his life, Betts was a senior leader at Deloitte, a healthcare consultant and an endurance athlete who completed Ironman triathlons and a seven-day stage race through the Alps—“the hardest amateur cycling event in the world.” After nearly 22 years with Deloitte, he retired in January. At his retirement party, colleagues presented him with a bicycle covered in name tags, each person choosing a part—from training wheels to handlebar and pedals—that represented how they saw him. “The ones that make me the happiest are the training wheels,” he admitted, tears springing to his eyes. Now 56, Betts is facing a different kind of challenge. He is living with ALS, also known as Lou Gehrig's disease, a fatal disease affecting the body’s nerve cells. ALS eventually causes nerve cells to cease functioning and die, ultimately leading to extreme muscle weakness, paralysis and death, according to the CDC. Both the causes of ALS and the exact number of those who have the disease are mostly unknown. The CDC suggests about 30,000 Americans are living with the disease and an additional 5,000 are diagnosed annually. Instead of retreating inward, Betts has spent the past year building outward, creating an AI-powered communication app designed to help people with ALS continue speaking in their own voice, tone and intent—even after their natural voice begins to fade. Betts named the app—Talk To Me, Goose —as a nod to the 1980s film “Top Gun” and a phrase that the character Maverick (Tom Cruise) utters during the final dogfight scene when he’s grasping for focus, guidance and courage. Maverick repeats the emotional line in the sequel, released in 2022. ‘I knew something was wrong’ Long before his ALS diagnosis, Betts sensed that something in his body had changed. Tiny signs emerged—twitches, cramps, fatigue, changes in his speech. Despite his fitness, something was off and not everyone took him seriously. Many doctors “weren’t listening to me about what I was experiencing.” After months of searching for answers, Betts received his diagnosis in December 2024 at the Sean M. Healey and AMG Center for ALS in Boston. The verdict: sporadic ALS, with no known genetic cause. ALS is terminal. Most patients survive less than five years. Betts heard that prognosis—and promptly chose not to dwell on it. “They told me most people get two to five years. Go get your affairs in order. That kind of thing, I don’t listen to.” Fear is unavoidable, he says, but inaction is a choice. “Yes, I’m terrified. I know what’s going to happen. I can’t let that consume me. Otherwise I wouldn’t move. I’d be paralyzed without being paralyzed.” The symptom that scared Betts most wasn’t losing mobility—it was speech. His ability to communicate had led him from bachelor’s and master’s degrees in theater arts to an MBA at Carnegie Mellon University to a principal role within Deloitte, where he was a highly sought-after problem solver in the life sciences and health care industries. Betts knew what awaited him if he did nothing. “All I could think about was the Speak & Spell-like voice that Stephen Hawking had.” He found that unacceptable—not just personally but also philosophically. “It’s 2024. There must be something better,” he kept telling himself. Betts saw a deeper failure in how assistive communication has been handled for decades. “We ask people to settle for far less than what’s possible, and we’ve been doing it for far too long.” So he did what he’s always done when confronted with a hard problem. “I’m a problem solver,” he said. “That’s my job. I solve problems.” Building a voice from scratch Despite having no background in app development, Betts decided to build the solution himself. “I can wait, or I can figure it out. What do I have to lose?” Betts enrolled in online coding courses. He got frustrated. He got bored. He leaned heavily on artificial intelligence tools, not to replace thinking but to accelerate it. “I used it very much like a teammate,” he said. Within weeks, he had a working prototype. Within months, a full app. “I didn’t know how long I’d have my voice. I still don’t.” Using voice-cloning technology from ElevenLabs—an advanced AI voice technology company founded in 2022—Betts discovered something startling. “It took me, like, 30 15-second clips to make my first voice clone.” When he played it back, the result stopped him cold. “This sounds like me,” he realized, stunned. The technology already existed, but no one had put it together yet in a way that honored identity, emotion and timing. “If we can make a deep fake of Tom Cruise,” then the potential to use that same power for good is already there, Betts said. Closing the ‘awkward pause’ One of Betts’ central missions for the app is solving what he calls “the awkward pause”—the silence that creeps in when someone types too slowly to be part of a conversation. That lag causes others to psychologically disengage, he explained, because it takes too long to type what you want to say. The pause is where isolation creeps in and where connection fails. Typing speeds for many assistive devices average six words per minute—far too slow, in Betts’ opinion. His app predicts intent, mood and tone—allowing users to speak faster, more naturally and with emotional range. The emotional heart of the project arrived via a Montana family that Betts connected with through their shared ALS journey. The father, who died Jan. 26, was in the advanced stages of the disease and had not been able to speak for some time. Using his cloned voice and Betts’ app, he was able to tell his three children a bedtime story—something his youngest had never heard him do before. Hearing about that connection between the father and his children touched Betts’ heart. He remembers telling his wife, Anne Mundell, “I don’t care if anyone ever uses the app again. Mission accomplished.” Expanding outward In April, Betts introduced himself to the ALS community on Facebook. A message arrived from Wendy Faust, executive director of the Live Like Lou Foundation, a national nonprofit organization established in 2017 to assist ALS patients. Named for MLB Hall of Famer Lou Gehrig, it focuses on “leaving ALS better than we found it” through grants, volunteer support and research initiatives. What followed was a cascade of coincidences with Faust: shared hometowns in Southern California, mutual friends, Pittsburgh ties and even a Deloitte connection through a Live Like Lou board member whose daughter previously had worked on Betts’ team. “It was crazy,” he said, laughing. Today, Talk To Me, Goose is available for free to people living with ALS in the U.S. and Canada through Live Like Lou. The app works in 31 languages, across Apple, Android and Windows platforms—including a Windows beta version that Betts released on Christmas Day. “It was my Christmas gift to myself.” He spent that holiday debugging voice speed settings for a woman who needed it immediately. Globally, Betts sees a much larger horizon: “There’s 97 million people globally who would benefit from assistive technology.” He is scheduled to speak this month at the United Nations Office in Vienna after being selected as a Zero Project Awardee and speaker for his work on the app. The Zero Project, founded in 2008, is a global initiative dedicated to creating a world with zero barriers for people with disabilities. It identifies, researches and shares innovative scalable solutions, particularly focusing on themes like employment. Talk to Me, Goose will be recognized with a Zero Project Award, “reflecting its strong endorsement by the global disability innovation community,” Wilfried Kainz, Zero Project’s head of research, said in an email. The app was selected by more than 400 experts from 586 nominations across 93 countries. “David Betts' application exemplifies how innovators can harness the power of assistive technology for rapid development and deployment at scale,” Kainz said. “It is particularly noteworthy for its highly innovative use of AI to bring rich, human texture into generated speech, setting a compelling benchmark for inclusive voice technology.” A lasting legacy To help sustain the free ALS app, Betts created a companion storytelling platform called Fables Adventures—a for-profit story-generating app. Betts and his wife together founded Mundell Designs as the umbrella for the technology he is tinkering with in retirement. The small, mission-driven company is the home of Talk To Me, Goose and Fables Adventures. The couple has personally invested in the company, allowing Betts to focus less on profit and more on access, advocacy and scale. Fables arose as a way “to support my habit of wanting to give things away,” he says, laughing. Subscriptions, audio stories and community-created content help fund free access to Talk To Me, Goose for people with ALS in the U.S. and Canada through the Live Like Lou Foundation—a model Betts hopes will allow the company to sustain both creativity and care. The effort has already raised more than $81,000 for Live Like Lou, with a goal of $250,000 this year. He’s also become an advocate for federal ALS policy, pushing for reauthorization of the ACT for ALS legislation before it expires in 2026. “Without that, I think we’re just going to slow down finding a cure.” Ever onward Betts still rides his bike. Still climbs stairs. Still measures progress—without obsessing. “I don’t like to measure, but I take inventory.” He can no longer climb hills near his house, but he can still ride his bicycle by the river. “I say, ‘Not yet.’ I say ‘Not yet’ a lot.” He recently committed to riding 50 miles for Faust’s 50th birthday: “I’ve got 41 more to go.” Relentless, indeed. People often ask if he’s angry. “I don’t have time to be angry. I don’t have the energy to be angry. I choose joy.” He points to a book by Hanna Du Plessis, “Bedsores and Bliss: Finding Fullness of Life with a Terminal Diagnosis” (Okay Then, $18.57), and a concept that he gleaned from her words and that guides him now: “Grieve with abandon all that is lost and then pause and reflect on everything that is still possible.” Betts has done both. In the process, he has given thousands of people something many thought they would lose forever: their own voice.
 
-🔗 [Pittsburgh Post-Gazette](https://www.post-gazette.com/life/goodness/2026/02/01/als-ai-voice-app-david-betts-pittsburgh/stories/202602010037) • 12h ago
+🔗 [Pittsburgh Post-Gazette](https://www.post-gazette.com/life/goodness/2026/02/01/als-ai-voice-app-david-betts-pittsburgh/stories/202602010037) • 13h ago
 
 ---
 
@@ -105,7 +105,7 @@ Seeking legal and technical answers. Working with some people on this question a
 
 There is great saying in marketing term " if you are getting something free that means you are the product for the company". AI follows the same principles.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 **[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -131,13 +131,13 @@ The New York Times • 5h ago
 
 After meeting with unspecified tech leaders, senator calls for urgent policy action as companies race to build ever more powerful systems
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
 **[The Country That’s Madly in Love With AI](https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618)**
 
-Politico • 49m ago
+Politico • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Politico • 49m ago
 
 Hold up, let him cook.
 
-Gizmodo • 34m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Gizmodo • 34m ago
 
 3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-blog.google • 1d ago
+blog.google • 2d ago
 
 ---
 
@@ -161,13 +161,13 @@ blog.google • 1d ago
 
 Tech and world leaders flocked to New Delhi for the India AI Impact Summit
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
 **[At A.I. Summit, India Tries to Find a Way Between the U.S. and China](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -183,7 +183,7 @@ BBC • 2d ago
 
 Chelsea have announced that Artificial Intelligance firm IFS will be the club's front-of-shirt sponsor until the end of the season.
 
-ESPN • 19h ago
+ESPN • 20h ago
 
 ---
 
@@ -191,7 +191,7 @@ ESPN • 19h ago
 
 “This is very serious,” Judge Carolyn B. Kuhl said in response to the apparent product placement stunt.
 
-Fortune • 22h ago
+Fortune • 23h ago
 
 ---
 
@@ -242,7 +242,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 241 • 💬 122 • 20h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 241 • 💬 122 • 21h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -250,7 +250,7 @@ Every company building an AI assistant is funded by advertising. They are also b
 
 fragments 18 Feb 2026
 
-⬆️ 202 • 💬 143 • 2d ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
+⬆️ 202 • 💬 143 • 3d ago • [martinfowler.com](https://martinfowler.com/fragments/2026-02-18.html)
 
 ---
 
@@ -266,7 +266,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. Our retail clients grow their businesses through Meta Ads, and for a lot of them, it’s their single most important…
 
-⬆️ 140 • 💬 100 • 11h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
+⬆️ 140 • 💬 100 • 12h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 
 ---
 
@@ -288,27 +288,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 20K • 👍 3K • 💬 746 • ⏱️ 18:44 • 3h ago
-
----
-
-**[The AI-Panic Cycle—And What’s Actually Different Now](https://www.youtube.com/watch?v=kNdjLf4f0uU)**
-
-Silicon Valley relies on hype cycles. But for the last few weeks, AI insiders have been spooked by advances coming from their ...
-
-📺 The Atlantic
-
-👁️ 10K • 👍 338 • 💬 96 • ⏱️ 44:00 • 23h ago
-
----
-
-**[AI’s $625 BILLION Gamble… This Ends BAD 🚨](https://www.youtube.com/watch?v=pWCt23crmhU)**
-
-AI might change the world… but that doesn't mean every AI stock survives. In this video, I break down the biggest financial ...
-
-📺 Ross Givens
-
-👁️ 339 • 👍 31 • 💬 1 • ⏱️ 2:12 • 2h ago
+👁️ 38K • 👍 4K • 💬 1K • ⏱️ 18:44 • 4h ago
 
 ---
 
@@ -318,17 +298,27 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n
 
 📺 Dan Martell
 
-👁️ 64K • 👍 3K • 💬 136 • ⏱️ 19:58 • 2d ago
+👁️ 66K • 👍 3K • 💬 140 • ⏱️ 19:58 • 2d ago
 
 ---
 
-**[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
+**[The AI-Panic Cycle—And What’s Actually Different Now](https://www.youtube.com/watch?v=kNdjLf4f0uU)**
 
-Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
+Silicon Valley relies on hype cycles. But for the last few weeks, AI insiders have been spooked by advances coming from their ...
 
-📺 AI Revolution
+📺 The Atlantic
 
-👁️ 53K • 👍 1K • 💬 53 • ⏱️ 12:14 • 1d ago
+👁️ 12K • 👍 372 • 💬 111 • ⏱️ 44:00 • 1d ago
+
+---
+
+**[Create Unlimited AI Videos for FREE | Best 100% Free AI Video Generator](https://www.youtube.com/watch?v=nrL7Y150mFo)**
+
+Want to create unlimited AI videos for FREE? In this video, I'll show you the best 100% free AI video generator that anyone can ...
+
+📺 Automation Xpert
+
+👁️ 11K • 👍 523 • 💬 38 • ⏱️ 12:35 • 1d ago
 
 ---
 
@@ -338,37 +328,27 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 203K • 👍 11K • 💬 4K • ⏱️ 28:51 • 2d ago
+👁️ 205K • 👍 11K • 💬 4K • ⏱️ 28:51 • 2d ago
 
 ---
 
-**[AI video of Brad Pitt and Tom Cruise alarms Hollywood actors and creators](https://www.youtube.com/watch?v=UwdXb39kP9k)**
+**[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
 
-A ByteDance AI-generated video that appears to show Brad Pitt and Tom Cruise in a fight scene has sent shock waves across ...
+Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
 
-📺 CBS News
+📺 AI Revolution
 
-👁️ 45K • 👍 579 • 💬 287 • ⏱️ 7:10 • 1d ago
-
----
-
-**[AI MAN | Made with Seedance 2.0 | AI Short Film](https://www.youtube.com/watch?v=dp4-Sv0uVzE)**
-
-AI MAN | Made with Seedance 2.0 | AI Short Film My first short film with Seedance 2.0 I just got early access to test Seedance 2.0 ...
-
-📺 Heydin
-
-👁️ 37K • 👍 1K • 💬 272 • ⏱️ 4:30 • 1d ago
+👁️ 55K • 👍 1K • 💬 53 • ⏱️ 12:14 • 1d ago
 
 ---
 
-**[AI is Eating Itself.](https://www.youtube.com/watch?v=3NAYhyuVQk0)**
+**[“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS](https://www.youtube.com/watch?v=W-jdh08zEGM)**
 
-GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED, a better and more creator friendly ...
+Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
 
-📺 Art Chad
+📺 Valuetainment
 
-👁️ 215K • 👍 19K • 💬 2K • ⏱️ 24:36 • 2d ago
+👁️ 387K • 👍 7K • 💬 2K • ⏱️ 33:49 • 2d ago
 
 ---
 
@@ -378,7 +358,27 @@ At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelli
 
 📺 DRM News
 
-👁️ 64K • 👍 738 • 💬 363 • ⏱️ 4:56 • 2d ago
+👁️ 65K • 👍 755 • 💬 368 • ⏱️ 4:56 • 2d ago
+
+---
+
+**[AI is Eating Itself.](https://www.youtube.com/watch?v=3NAYhyuVQk0)**
+
+GET 70% OFF PROTON VPN AT http://www.protonvpn.com/artchad Support me on STACKED, a better and more creator friendly ...
+
+📺 Art Chad
+
+👁️ 217K • 👍 19K • 💬 2K • ⏱️ 24:36 • 2d ago
+
+---
+
+**[AI MAN | Made with Seedance 2.0 | AI Short Film](https://www.youtube.com/watch?v=dp4-Sv0uVzE)**
+
+AI MAN | Made with Seedance 2.0 | AI Short Film My first short film with Seedance 2.0 Base image Midjourney V7, Nano Banana ...
+
+📺 Heydin
+
+👁️ 38K • 👍 1K • 💬 282 • ⏱️ 4:30 • 1d ago
 
 ---
 
@@ -394,7 +394,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text`
 
-⬇️ 133,264 • ❤️ 805 • 1d ago
+⬇️ 133,264 • ❤️ 813 • 1d ago
 
 ---
 
@@ -406,7 +406,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,048 • ❤️ 2,101 • 5d ago
+⬇️ 539,048 • ❤️ 2,104 • 5d ago
 
 ---
 
@@ -418,7 +418,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 173,116 • ❤️ 819 • 5d ago
+⬇️ 173,116 • ❤️ 823 • 5d ago
 
 ---
 
@@ -430,7 +430,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 176,889 • ❤️ 1,395 • 8d ago
+⬇️ 176,889 • ❤️ 1,398 • 8d ago
 
 ---
 
@@ -442,7 +442,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 130,220 • ❤️ 639 • 2d ago
+⬇️ 130,220 • ❤️ 640 • 2d ago
 
 ---
 
@@ -466,7 +466,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 933,192 • ❤️ 1,119 • 23d ago
+⬇️ 933,192 • ❤️ 1,122 • 23d ago
 
 ---
 
@@ -502,7 +502,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 143 • 1d ago
+⬇️ 0 • ❤️ 144 • 1d ago
 
 ---
 
@@ -516,7 +516,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 3 • 💬 0 • ⭐ 4,259 • 23mo ago
+▲ 3 • 💬 0 • ⭐ 4,991 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -528,7 +528,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 11 • 💬 1 • ⭐ 8,960 • 28mo ago
+▲ 12 • 💬 1 • ⭐ 8,960 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -543,7 +543,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 144 • 💬 19 • ⭐ 53,720 • 11mo ago
+▲ 145 • 💬 19 • ⭐ 53,720 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -584,21 +584,9 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
 
-▲ 42 • 💬 3 • ⭐ 252 • 6d ago
+▲ 43 • 💬 3 • ⭐ 252 • 6d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
-
----
-
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
-
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
-
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
-
-▲ 3 • 💬 0 • ⭐ 4,261 • 16mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -620,7 +608,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 42 • 💬 4 • ⭐ 3,984 • 1mo ago
+▲ 43 • 💬 4 • ⭐ 4,008 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -638,6 +626,18 @@ GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinf
 
 ---
 
+**[Agent Lightning: Train ANY AI Agents with Reinforcement Learning](https://huggingface.co/papers/2508.03680)**
+
+*Xufang Luo, Yuge Zhang, Zhiyuan He et al. (8 authors)*
+
+Agent Lightning is a flexible RL framework for training LLMs in various agents, using a hierarchical RL algorithm and decoupling execution from training to handle complex interactions.
+
+▲ 136 • 💬 6 • ⭐ 15,086 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.03680) • [💻 code](https://github.com/microsoft/agent-lightning) • [🔗 project](https://www.microsoft.com/en-us/research/project/agent-lightning/)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
@@ -648,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.1k • 🔱 1.8k • 1h ago
+⭐ 16.2k • 🔱 1.8k • 1m ago
 
 ---
 
@@ -658,7 +658,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 8.8k • 🔱 917 • 11d ago
+⭐ 9.0k • 🔱 940 • 11d ago
 
 ---
 
@@ -666,7 +666,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.5k • 🔱 501 • 10d ago
+⭐ 6.5k • 🔱 503 • 10d ago
 
 ---
 
@@ -676,7 +676,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.7k • 🔱 570 • 1d ago
+⭐ 4.8k • 🔱 576 • 35m ago
 
 ---
 
@@ -686,7 +686,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.8k • 🔱 177 • 18d ago
+⭐ 3.8k • 🔱 178 • 18d ago
 
 ---
 
@@ -696,7 +696,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 320 • 10h ago
+⭐ 3.2k • 🔱 321 • 11h ago
 
 ---
 
@@ -706,7 +706,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.8k • 🔱 355 • 6h ago
+⭐ 2.8k • 🔱 355 • 7h ago
 
 ---
 
@@ -716,7 +716,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 179 • 3h ago
+⭐ 2.6k • 🔱 179 • 45m ago
 
 ---
 
@@ -726,7 +726,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.3k • 🔱 117 • 11h ago
+⭐ 2.4k • 🔱 117 • 12h ago
 
 ---
 
@@ -736,7 +736,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.1k • 🔱 231 • 2d ago
+⭐ 2.2k • 🔱 235 • 2d ago
 
 ---
 
