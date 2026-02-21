@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T07:51:57.466287+00:00'
+updated: '2026-02-21T08:33:22.350323+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 07:51 UTC  
+**Last Updated:** February 21, 2026 at 08:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,785.96
+### $67,920.80
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.2%  
-**7d:** -1.5%  
-**30d:** -24.4%  
-**90d:** -23.4%  
-**1y:** -29.8%  
+**24h:** -0.3%  
+**7d:** -1.2%  
+**30d:** -24.2%  
+**90d:** -23.2%  
+**1y:** -29.6%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 My stack is still already cool imho. Happy stacking everyone
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -101,7 +101,15 @@ My stack is still already cool imho. Happy stacking everyone
 
 HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
 
-6h ago
+7h ago
+
+---
+
+**[Has holding Bitcoin long-term changed how you react to volatility?](https://www.reddit.com/r/Bitcoin/comments/1rakcse/has_holding_bitcoin_longterm_changed_how_you/)**
+
+When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
+
+1h ago
 
 ---
 
@@ -109,7 +117,7 @@ HB 2080 would establish a reserve fund authorizing the state treasurer to accept
 
 I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
 
-10h ago
+11h ago
 
 ---
 
@@ -117,7 +125,7 @@ I've been in crypto for about three years now and I noticed something weird late
 
 Been tracking the Bitcoin Power Law model for a while now. Here's this week's update. BTC is sitting at $67,745. Power Law fair value is around $123,947 — about 45% below fair value. Oscillator reads 13.7% The oscillator has ticked up marginally from 13.6% to 13.7%, remaining firmly entrenched in the Deep Buy Zone (0–25%). This is historically rare territory that typically occurs only 1–2 times per halving cycle. The oscillator's EMA(150) at 31.2% remains below its EMA(350) at 37.7%, maintaining a bearish spread of -6.5 points. This configuration — deep value combined with bearish momentum — represents the model's maximum accumulation signal. Full breakdown with charts here if anyone's interested: https://timetobuybitcoin.com/analysis/maximum-accumulation-zone-deepens-oscillator-at-137-amid-his-2026-02-20 Not financial advice, just sharing the data. Curious what you guys think.
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +133,7 @@ Been tracking the Bitcoin Power Law model for a while now. Here's this week's up
 
 Given the significant drop in Bitcoin’s price recently, do you think this could be a good opportunity to invest? Some investors see sharp declines as a chance to buy at a lower entry point, while others worry that the market could continue to fall. Considering the volatility and the long-term potential often associated with cryptocurrencies, would you view this downturn as a strategic buying moment, or would you prefer to wait for more stability before making an investment decision?
 
-9h ago
+10h ago
 
 ---
 
@@ -137,17 +145,11 @@ I constantly see people talking about the 4-year cycle with absolute conviction 
 
 ---
 
-**[Money Printer Go Brrrr Again](https://www.reddit.com/r/Bitcoin/comments/1ra60h8/money_printer_go_brrrr_again/)**
+**[Daily Discussion, February 21, 2026](https://www.reddit.com/r/Bitcoin/comments/1rajhcs/daily_discussion_february_21_2026/)**
 
-11h ago
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
----
-
-**[The current Detroit Pistons head coach, J.B. Bickerstaff regrets not investing in Bitcoin back in 2016: “We saw it explode and were like, ‘Damn, Nick was right!”](https://www.reddit.com/r/Bitcoin/comments/1ra7rrf/the_current_detroit_pistons_head_coach_jb/)**
-
-Bickerstaff had the opportunity to go hard on Bitcoin, but missed it.
-
-🔗 [Basketball Network](https://www.basketballnetwork.net/off-the-court/j-b-bickerstaff-regrets-not-investing-in-bitcoin-back-in-2016) • 10h ago
+2h ago
 
 ---
 
@@ -155,19 +157,43 @@ Bickerstaff had the opportunity to go hard on Bitcoin, but missed it.
 
 ## Google News: "bitcoin"
 
+**[When Bitcoin prices turned against Michael Saylor, he quietly pivoted to a risky financial gambit at Strategy](https://fortune.com/2026/02/20/michael-saylor-bitcoin-prices-preferred-shares-dilution-strategy/)**
+
+Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
+
+Fortune • 23h ago
+
+---
+
+**[Michael Saylor Is Telling The Truth About Strategy's Bitcoin Stash, Coinbase Exec Says](https://finance.yahoo.com/news/michael-saylor-telling-truth-strategys-203026600.html)**
+
+John D’Agostino, Coinbase's Head of Institutional Strategy, appeared on CNBC Tuesday to weigh in on the market volatility. D’Agostino emphasized that while the decline looks large in dollar terms, it’s typical volatility on a percentage basis for crypto. Asked about...
+
+Yahoo Finance • 1d ago
+
+---
+
+**[What Is Strategy (MSTR)? The Bitcoin Treasury Company](https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company)**
+
+Software firm MicroStrategy and its co-founder Michael Saylor have become synonymous with Bitcoin. Here’s everything you need to know.
+
+Decrypt • 14h ago
+
+---
+
 **[Crypto price news: BTC unfazed by Trump tariff news; DOGE, SOL, ADA lead modest bounce](https://www.coindesk.com/markets/2026/02/20/bitcoin-shrugs-off-trump-s-new-tariffs-nears-usd68-000-as-altcoins-lead-modest-bounce)**
 
 Crypto prices edged higher on Friday despite a splash of tariff turbulence after the U.S. Supreme Court ruled Trump's levies illegal.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Eric Trump shrugs off bitcoin's recent slump: 'If you don't have the backbone ... go invest in some boring bond'](https://finance.yahoo.com/news/eric-trump-shrugs-off-bitcoins-recent-slump-if-you-dont-have-the-backbone--go-invest-in-some-boring-bond-193400545.html)**
+**[Connecting Excellence OTCQB debut & 1,000 Bitcoin target explained - ICYMI](https://uk.finance.yahoo.com/news/connecting-excellence-otcqb-debut-1-074503838.html)**
 
-During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
+Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF) CEO Scott Ellam talked with Proactive about the company’s international executive recruitment business and its disciplined Bitcoin treasury strategy. Connecting Excellence Group Plc operates as an international executive recruitment firm...
 
-Yahoo Finance • 1d ago
+Yahoo Finance UK • 48m ago
 
 ---
 
@@ -175,7 +201,7 @@ Yahoo Finance • 1d ago
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -185,17 +211,9 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqcIGEEUTSidasWQ_y6A4CFD3kdp5JpWequ2BigdhKpmBXpMXqg0Nozk&gaa_ts=69995d11&gaa_sig=Ux5gf7QMB0nSIJeYRd3m8fIS-Epy0WWaqm_D08BWx35KH9NEX0Tvxn_5VwpP2PCPEQN03vU9MFk7Tur5ETl2aA%3D%3D)**
+**[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqccRITaUops_aoPK8EtE5PCx3wi5yxL_x6c92InoCsAMXkrZoMI2TIy&gaa_ts=6999713d&gaa_sig=ciDeatUc1CSZkoptxJoB35iKJRkT0O6Cgbceg4c-k4PtpZs1X8V9vdHApCK_Oopqu7uvUS1jSPE8DhXjyFSUYw%3D%3D)**
 
 Barron's • 22h ago
-
----
-
-**[Concern Grows That Bitcoin’s Value Could Be Entirely Destroyed](https://futurism.com/future-society/concern-bitcoin-value-destroyed)**
-
-Bitcoin's downturn has certain critics predicting a total collapse, suggesting its value could eventually plunge to zero dollars.
-
-Futurism • 15h ago
 
 ---
 
@@ -203,31 +221,15 @@ Futurism • 15h ago
 
 Bitcoin’s slide from its October high near $126,100 has sparked debate over whether fears of quantum computing pose a real threat.
 
-Bitcoin Magazine • 16h ago
+Bitcoin Magazine • 17h ago
 
 ---
 
-**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)**
+**[Concern Grows That Bitcoin’s Value Could Be Entirely Destroyed](https://futurism.com/future-society/concern-bitcoin-value-destroyed)**
 
-The Ivy League school still has more money invested in Bitcoin than any other US stock.
+Bitcoin's downturn has certain critics predicting a total collapse, suggesting its value could eventually plunge to zero dollars.
 
-Fortune • 2d ago
-
----
-
-**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
-
-Key PointsBitcoin could struggle to retain its reputation as "digital gold".
-
-Nasdaq • 15h ago
-
----
-
-**[When Bitcoin prices turned against Michael Saylor, he quietly pivoted to a risky financial gambit at Strategy](https://finance.yahoo.com/news/bitcoin-prices-turned-against-michael-093000902.html)**
-
-Saylor has been offsetting the Bitcoin drag by reverting to a different and dangerous scheme: Issuing tons of preferred stock.
-
-Yahoo Finance • 22h ago
+Futurism • 16h ago
 
 ---
 
@@ -275,7 +277,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 13h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 14h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
@@ -303,7 +305,7 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 22h ago
+⬆️ 1 • 💬 0 • 23h ago
 
 ---
 
@@ -317,7 +319,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 2K • 💬 157 • ⏱️ 9:14 • 8h ago
+👁️ 31K • 👍 2K • 💬 157 • ⏱️ 9:14 • 9h ago
 
 ---
 
@@ -327,7 +329,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 93 • ⏱️ 12:39 • 8h ago
+👁️ 16K • 👍 1K • 💬 93 • ⏱️ 12:39 • 9h ago
 
 ---
 
@@ -337,7 +339,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 22K • 👍 953 • ⏱️ 24:35 • 9h ago
+👁️ 22K • 👍 953 • ⏱️ 24:35 • 10h ago
 
 ---
 
@@ -347,7 +349,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 23K • 👍 1K • 💬 95 • ⏱️ 55:11 • 15h ago
+👁️ 23K • 👍 1K • 💬 95 • ⏱️ 55:11 • 16h ago
 
 ---
 
@@ -357,7 +359,7 @@ Bitcoin is down roughly 50% from its all-time high, and sentiment is collapsing.
 
 📺 Swan Bitcoin
 
-👁️ 11K • 👍 640 • 💬 51 • ⏱️ 16:21 • 17h ago
+👁️ 11K • 👍 640 • 💬 51 • ⏱️ 16:21 • 18h ago
 
 ---
 
@@ -367,7 +369,7 @@ https://youtu.be/RThI3UUSpwc?si=t0m9cQVPXyt35ZMD BUY ONE 1-STEP CHALLENGE → GE
 
 📺 100XClub
 
-👁️ 9K • 👍 945 • 💬 312 • ⏱️ 9:49 • 21h ago
+👁️ 9K • 👍 945 • 💬 312 • ⏱️ 9:49 • 22h ago
 
 ---
 
@@ -377,7 +379,7 @@ Michael Saylor finally admits bitcoin is in a bear market - but the question is 
 
 📺 Simply Bitcoin
 
-👁️ 7K • 👍 323 • 💬 48 • ⏱️ 1:11:34 • 12h ago
+👁️ 7K • 👍 323 • 💬 48 • ⏱️ 1:11:34 • 13h ago
 
 ---
 
@@ -405,7 +407,7 @@ Watch The FULL Interview: https://www.youtube.com/watch?v=-i8humbpZJQ FREE Daily
 
 📺 Andrei Jikh
 
-👁️ 18K • 👍 362 • 💬 34 • ⏱️ 0:49 • 14h ago
+👁️ 18K • 👍 362 • 💬 34 • ⏱️ 0:49 • 15h ago
 
 ---
 
