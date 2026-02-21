@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T20:50:11.993277+00:00'
+updated: '2026-02-21T21:24:24.866558+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 20:50 UTC  
+**Last Updated:** February 21, 2026 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 1h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 2h ago
 
 ---
 
@@ -111,7 +111,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 My stack is still already cool imho. Happy stacking everyone
 
-21h ago
+22h ago
 
 ---
 
@@ -119,7 +119,7 @@ My stack is still already cool imho. Happy stacking everyone
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-2h ago
+3h ago
 
 ---
 
@@ -133,7 +133,7 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-13h ago
+14h ago
 
 ---
 
@@ -147,7 +147,7 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 I am considering yoloing my daughters' investments at it, I think it seems interesting and unique, but for the most part it seems to trend pretty close to the value of btc so I'm unsure in the benefit over buying coins, and I know people will say that's better, but I'm still interested in feedback on this investment vehicle.
 
-35m ago
+1h ago
 
 ---
 
@@ -159,7 +159,7 @@ I am considering yoloing my daughters' investments at it, I think it seems inter
 
 With the rial plunging, middle-class savers are bypassing local banks to move billions into the domestic crypto ecosystem.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 2h ago
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 2h ago
 
 The US Supreme Court on Friday struck down President Trump’s tariff policy.  Trump on Saturday announced new tariffs.  Bitcoin and Ethereum — previously hurt by Trump’s trade war — are holding steady.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -259,7 +259,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 1h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 2h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -267,13 +267,13 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 Distributed GPU computing platform searching for Bitcoin private keys generated by weak entropy sources in early Bitcoin software. 70% of recovered BTC goes to contributors.
 
-⬆️ 1 • 💬 1 • 3d ago • [b4q.io](https://b4q.io/research)
+⬆️ 1 • 💬 1 • 4d ago • [b4q.io](https://b4q.io/research)
 
 ---
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 7h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 8h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -327,7 +327,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 267K • 👍 18K • 💬 3K • ⏱️ 32:14 • 7h ago
+👁️ 267K • 👍 18K • 💬 3K • ⏱️ 32:14 • 8h ago
 
 ---
 
@@ -337,7 +337,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 2K • 💬 75 • ⏱️ 52:37 • 6h ago
+👁️ 35K • 👍 2K • 💬 75 • ⏱️ 52:37 • 7h ago
 
 ---
 
@@ -357,7 +357,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 150 • ⏱️ 12:39 • 21h ago
+👁️ 26K • 👍 2K • 💬 150 • ⏱️ 12:39 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 1K • ⏱️ 24:35 • 22h ago
+👁️ 35K • 👍 1K • ⏱️ 24:35 • 23h ago
 
 ---
 
@@ -377,7 +377,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Manfred Thönicke
 
-👁️ 3K • 👍 1K • 35m ago
+👁️ 3K • 👍 1K • 1h ago
 
 ---
 
@@ -387,7 +387,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 482 • 💬 57 • ⏱️ 13:30 • 8h ago
+👁️ 7K • 👍 482 • 💬 57 • ⏱️ 13:30 • 9h ago
 
 ---
 
@@ -397,7 +397,7 @@ LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications t
 
 📺 Dumb Money Live
 
-👁️ 14K • 👍 436 • 💬 20 • ⏱️ 1:02 • 17h ago
+👁️ 14K • 👍 436 • 💬 20 • ⏱️ 1:02 • 18h ago
 
 ---
 

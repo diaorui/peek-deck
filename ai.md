@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T20:50:11.985047+00:00'
+updated: '2026-02-21T21:24:24.858174+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- social
 - videos
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 20:50 UTC  
+**Last Updated:** February 21, 2026 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
 
-🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 4h ago
+🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 5h ago
 
 ---
 
@@ -71,7 +71,7 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 
 Abstract
 
-🔗 [Medium](https://medium.com/@justinldew/killing-the-basilisk-a-post-transformer-analysis-of-the-roko-problem-4f6f5213b6d0) • 13m ago
+🔗 [Medium](https://medium.com/@justinldew/killing-the-basilisk-a-post-transformer-analysis-of-the-roko-problem-4f6f5213b6d0) • 47m ago
 
 ---
 
@@ -79,7 +79,7 @@ Abstract
 
 OpenAI may release its first AI-powered consumer device in 2027.
 
-🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 19h ago
+🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 20h ago
 
 ---
 
@@ -87,7 +87,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 "Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
 
-🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 9h ago
+🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 10h ago
 
 ---
 
@@ -95,7 +95,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 At the Sentient Futures Summit, AI engineers, ethicists, and lawyers debate the (non) human rights of AI workers.
 
-🔗 [sfstandard.com](https://sfstandard.com/2026/02/19/sentient-futures-ai-rights/) • 4h ago
+🔗 [sfstandard.com](https://sfstandard.com/2026/02/19/sentient-futures-ai-rights/) • 5h ago
 
 ---
 
@@ -123,13 +123,13 @@ Seeking legal and technical answers. Working with some people on this question a
 
 India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
 **[At A.I. Summit, India Tries to Find a Way Between the U.S. and China - The New York Times](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -141,7 +141,7 @@ Politico • 2h ago
 
 **[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
@@ -149,7 +149,7 @@ The New York Times • 10h ago
 
 Out of Ohio’s 88 counties, 75 are mental health shortage areas, according to a recent study from the Health Policy Institute of Ohio.
 
-10TV • 49m ago
+10TV • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ Out of Ohio’s 88 counties, 75 are mental health shortage areas, according to a
 
 After meeting with unspecified tech leaders, senator calls for urgent policy action as companies race to build ever more powerful systems
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -173,7 +173,7 @@ blog.google • 2d ago
 
 AI is helping jobseekers rapidly apply to jobs. But recruiters and employers say that’s not always a good thing.
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Wall Street Journal • 12h ago
 
 Deepfakes showing grim taxpayer-funded waterparks have gone viral and drawn some racist responses.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
@@ -246,7 +246,7 @@ Every company building an AI assistant is funded by advertising. They are also b
 
 Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist
 
-⬆️ 178 • 💬 75 • 12h ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
+⬆️ 178 • 💬 75 • 13h ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
 
 ---
 
@@ -284,7 +284,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 76K • 👍 6K • 💬 2K • ⏱️ 18:44 • 8h ago
+👁️ 76K • 👍 6K • 💬 2K • ⏱️ 18:44 • 9h ago
 
 ---
 
@@ -364,7 +364,7 @@ Download the "The Loop Marketing Landscape Report" here https://clickhubspot.com
 
 📺 Grace Leung
 
-👁️ 5K • 👍 365 • 💬 10 • ⏱️ 16:43 • 7h ago
+👁️ 5K • 👍 365 • 💬 10 • ⏱️ 16:43 • 8h ago
 
 ---
 
@@ -672,7 +672,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.8k • 🔱 585 • 4h ago
+⭐ 4.8k • 🔱 585 • 5h ago
 
 ---
 
@@ -692,7 +692,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.2k • 🔱 321 • 15h ago
+⭐ 3.2k • 🔱 321 • 16h ago
 
 ---
 
@@ -702,7 +702,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.8k • 🔱 357 • 11h ago
+⭐ 2.8k • 🔱 357 • 12h ago
 
 ---
 
@@ -712,7 +712,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 180 • 2h ago
+⭐ 2.6k • 🔱 180 • 3h ago
 
 ---
 
@@ -722,7 +722,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.4k • 🔱 117 • 16h ago
+⭐ 2.4k • 🔱 117 • 17h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T20:50:12.002354+00:00'
+updated: '2026-02-21T21:24:24.875763+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 20:50 UTC  
+**Last Updated:** February 21, 2026 at 21:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-1h ago
+2h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 Hey all, I recently switched from the aerospace to the robotics industry. I'm trying to introduce testing and quality assurance to my team that's been building prototypes for anthropomorphic robots. The testing that's done happens during teleoperation of the robots. In my view this is quite unsafe for the human operator. For this reason I'd like to bring in more automated test scripts in testing without the need of human, and some stricter acceptance criteria before handed over to a human operator. Since this is an agile work environment and very fast paced it can get challenging to have a heavy testing. I also don't want to bring in some heavy V&V processes into the development lifecycle If anyone here is in robotics testing and QA I'd love to connect and hear your thoughts on how you might have over come such a challenge within your teams. If I'm having high expectations of testing in robotics since I'm from aerospace, feel free to break the news to me 😅
 
-59m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey all, I recently switched from the aerospace to the robotics industry. I'm tr
 
 Meet Sprout, a humanoid platform for developers, enterprises, and researchers—shipping today.
 
-🔗 [faunarobotics.com](https://faunarobotics.com/) • 3h ago
+🔗 [faunarobotics.com](https://faunarobotics.com/) • 4h ago
 
 ---
 
@@ -150,7 +150,7 @@ Hawaii News Now • 2d ago
 
 Golabs announced that, throughout the tournament, it hosted live demonstrations of its robotics solutions at Denago EV's booth.
 
-thebuzzevnews.com • 7h ago
+thebuzzevnews.com • 8h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Robot Report • 20h ago
 
 Hundreds of students from across the region traveled to the College of Southern Maryland (CSM) in January and February to showcase their engineering skills during a series of VEX Robotics competitions. Separate tournaments were held on the CSM La Plata Campus for elementary and middle school, high school, and college level teams. Competitors demonstrated their ability to design, build, test, and operate robots to complete task-based challenges, applying teamwork, problem-solving, and critical thinking along the way. More than 20 elementary and middle school teams competed in the VEX IQ tournament on Jan. 24, and on Feb. 7, more than 30 regional high school teams filled the CSM Physical Education Center to put their robots to the test. Talons robotics team members supported both competitions as referees, scorekeepers, and judges, providing mentorship and leadership for younger participants. The CSM Talons Robotics team stood out at the Feb. 6 college-level competition, sweeping every match and outscoring four other teams from four-year universities. Talons team member Alexander Hawe said the win was a major confidence boost. “We had some setbacks and went through a full redesign from the robot we had in Manassas,” he said, referring to a November tournament in November. “After […]
 
-Southern Maryland News Net • 6h ago
+Southern Maryland News Net • 7h ago
 
 ---
 
@@ -232,7 +232,7 @@ Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
 📺 Wall Street Millennial
 
-👁️ 49K • 👍 2K • 💬 522 • ⏱️ 13:31 • 1d ago
+👁️ 49K • 👍 2K • 💬 522 • ⏱️ 13:31 • 2d ago
 
 ---
 
