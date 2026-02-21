@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T11:23:29.006224+00:00'
+updated: '2026-02-21T11:45:41.164041+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 11:23 UTC  
+**Last Updated:** February 21, 2026 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,19 +40,19 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 ---
 
-**[Nvidia, UC Berkeley, HKUST, and UT Austin released DreamDojo, a foundation world model for robots trained on the largest video dataset to date for world model pretraining.](https://www.reddit.com/r/robotics/comments/1ranh9z/nvidia_uc_berkeley_hkust_and_ut_austin_released/)**
-
-- Project website: https://dreamdojo-world.github.io - Paper: https://arxiv.org/abs/2602.06949 - Code repo and model ckpts: https://github.com/NVIDIA/DreamDojo From Jim Fan on 𝕏: https://x.com/DrJimFan/status/2024895359236051274
-
-1h ago
-
----
-
 **[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.reddit.com/r/robotics/comments/1ranhso/whos_laughing_now_chinas_humanoid_robots_go_from/)**
 
 China's humanoid robots have gone from viral stumbles to flawless kung fu flips in just one year. Showcased at the 2026 Spring Festival Gala, startups like Unitree are launching highly capable robots starting at just $13,500, heavily undercutting US competitors like Tesla's Optimus.
 
 🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 1h ago
+
+---
+
+**[what would be a good starting point to do something similar?](https://www.reddit.com/r/robotics/comments/1raoxnh/what_would_be_a_good_starting_point_to_do/)**
+
+I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I am not sure how much of this is for show or how much it could be real. ok moving turret while tracking mosquitos, plenty of examples online but a camera able to recognize them and so much tiny ? a laser so powerful to kill them midair? I am wondering if this is real or just a show and in case where to start to learn how to build own myself. I would appreciate any tip or comment to lead on where to document myself on the hardware for the software i've seen plenty of good libraries in python - or other languages - but i am more interested on which kind of hardware to look for and calculation for power consumption.
+
+14m ago
 
 ---
 
@@ -68,7 +68,7 @@ Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using M
 
 idk if anyone will know about this but does anybody remember hanson robotics who created the robot sophia that was famous a while. Then on their website advertised "little sophia" as a robot companion with their kickstarter. The website still says "preorder" and has been outdated for years. Did they go bankrupt? Out of business? Run off with the kickstarter money? There isn't an adequate rabbit hole I can jump down about this I can't find any info online about this. Their website is preserved the same as it was in 2022 or something so obviously something was abandoned or whatever. I just wanna know mostly out of curiosity, because it seems strange that it was just abandoned and forgotten.
 
-4h ago
+5h ago
 
 ---
 
@@ -84,7 +84,7 @@ ROS News for the Week of February 16th, 2026                                 202
 
 From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
-1d ago
+2d ago
 
 ---
 
@@ -100,7 +100,7 @@ My goal is to do a robotics startup, current robotics masters student here going
 
 I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
 
-20h ago
+21h ago
 
 ---
 
@@ -130,9 +130,47 @@ Business Insider • 1d ago
 
 ---
 
+**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.fool.com/investing/2026/02/20/teslas-3-trillion-opportunity-how-optimus-could-do/)**
+
+Tesla has a few robotics advantages that it's tapping into.
+
+The Motley Fool • 16h ago
+
+---
+
+**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
+
+Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
+
+Automotive News • 1d ago
+
+---
+
+**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
+
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
+
+TechCrunch • 2d ago
+
+---
+
+**[Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings](https://247wallst.com/investing/2026/02/20/beyond-tesla-and-nvidia-2-overlooked-robotics-stocks-just-blew-out-earnings/)**
+
+Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
+
+24/7 Wall St. • 22h ago
+
+---
+
 **[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
 
 Tech Xplore • 20h ago
+
+---
+
+**[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
+
+Forbes • 1d ago
 
 ---
 
@@ -144,51 +182,11 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Trojan Horse or Trade Dispute? Texas Attorney General Targets Anzu in High-Stakes Drone Lawsuit](https://dronelife.com/2026/02/19/texas-ag-sues-anzu-robotics-dji-clone-lawsuit/)**
+**[Chinese AI and robotics firms appoint millennial, Gen Z stars as chief scientists](https://www.scmp.com/tech/big-tech/article/3343042/chinese-ai-and-robotics-firms-appoint-millennial-and-gen-z-rising-stars-chief-scientists)**
 
-Texas Attorney General Ken Paxton sues Anzu Robotics, alleging deceptive practices and undisclosed ties to DJI in Collin County court filing.
+Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
 
-Dronelife • 1d ago
-
----
-
-**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.fool.com/investing/2026/02/20/teslas-3-trillion-opportunity-how-optimus-could-do/)**
-
-Tesla has a few robotics advantages that it's tapping into.
-
-The Motley Fool • 15h ago
-
----
-
-**[A robotic dog made in China gets an Indian university kicked out of an AI summit](https://www.nbcnews.com/world/asia/robotic-dog-made-china-gets-indian-university-kicked-ai-summit-rcna259682)**
-
-A professor said the robot was developed at Galgotias University, but internet users quickly identified it as being commercially available from China’s Unitree Robotics.
-
-NBC News • 2d ago
-
----
-
-**[These new Ukrainian ground robots can launch unjammable fiber-optic drones close to the front so troops don't have to](https://www.aol.com/ukrainian-ground-robots-launch-unjammable-161742486.html)**
-
-The Ratel Robotics' robot launches fiber-optic drones close to the front lines in Ukraine so operators can stay farther back and safer.
-
-AOL.com • 19h ago
-
----
-
-**[New Technique for 3D Printing Artificial Muscle Paves the Way for More Freaky Robots](https://gizmodo.com/new-technique-for-3d-printing-artificial-muscle-paves-the-way-for-more-freaky-robots-2000724201)**
-
-Never enough robots!
-
-Gizmodo • 17h ago
-
----
-
-**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
-
-Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
-
-Automotive News • 1d ago
+South China Morning Post • 2d ago
 
 ---
 
@@ -202,7 +200,7 @@ Humanoid robots took center stage at China's annual Spring Festival Gala, perfor
 
 📺 Bloomberg Television
 
-👁️ 100K • 👍 700 • 💬 407 • ⏱️ 3:48 • 2d ago
+👁️ 101K • 👍 706 • 💬 409 • ⏱️ 3:48 • 2d ago
 
 ---
 
@@ -212,7 +210,7 @@ Unitree's humanoid robots did not just perform kung fu on stage. They trained fo
 
 📺 DPCcars
 
-👁️ 147K • 👍 2K • 💬 822 • ⏱️ 2:00 • 3d ago
+👁️ 148K • 👍 2K • 💬 826 • ⏱️ 2:00 • 3d ago
 
 ---
 
@@ -222,37 +220,17 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 369K • 👍 2K • 💬 897 • ⏱️ 2:36 • 3d ago
+👁️ 371K • 👍 2K • 💬 898 • ⏱️ 2:36 • 3d ago
 
 ---
 
-**[The Problem With Humanoid Robots](https://www.youtube.com/watch?v=EPQI0qzt7uw)**
+**[Powerful &amp; Precision: Snow Clever Machinery RC Tracked Robot for Amazing Snow Clearing](https://www.youtube.com/watch?v=IJ9cVriWbBk)**
 
-Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
+Powerful & Precision: Snow Clever Machinery RC Tracked Robot for Amazing Snow Clearing Description Experience the future of ...
 
-📺 Wall Street Millennial
+📺 NEXTOOLINNO 
 
-👁️ 47K • 👍 2K • 💬 531 • ⏱️ 13:31 • 1d ago
-
----
-
-**[Viral: China&#39;s Humanoid Robots Take Center Stage For Lunar New Year Showtime | Should We Be Worried?](https://www.youtube.com/watch?v=CfoOuK_Xroo)**
-
-Viral: China's Humanoid Robots Take Center Stage For Lunar New Year Showtime | Should We Be Worried? China has grabbed ...
-
-📺 Mint
-
-👁️ 3K • 👍 57 • 💬 57 • ⏱️ 3:01 • 7h ago
-
----
-
-**[China&#39;s humanoid robots stole the show at 2026 Spring Festival #robot #technology #humanoidrobots](https://www.youtube.com/watch?v=LVPfUQrAn3g)**
-
-Robots were front and center during the 2026 Spring Festival Gala on primetime Chinese TV, which typically draws more than a ...
-
-📺 Kalil 4.0
-
-👁️ 77K • 👍 2K • 💬 225 • ⏱️ 0:49 • 4d ago
+👁️ 5K • 👍 30 • 💬 2 • ⏱️ 0:04 • 7h ago
 
 ---
 
@@ -260,27 +238,7 @@ Robots were front and center during the 2026 Spring Festival Gala on primetime C
 
 📺 Kate Yepik
 
-👁️ 101K • 👍 2K • 💬 13 • ⏱️ 0:27 • 2d ago
-
----
-
-**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
-
-By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
-
-📺 NVIDIA
-
-👁️ 29K • 👍 1K • ⏱️ 2:51 • 2d ago
-
----
-
-**[Unitree Robotics Has BIG Expansion Plans #robotics #unitreeg1 #humanoidrobots](https://www.youtube.com/watch?v=56rf2teQoeU)**
-
-Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
-
-📺 Kalil 4.0
-
-👁️ 34K • 👍 540 • 💬 39 • ⏱️ 0:40 • 3d ago
+👁️ 103K • 👍 2K • 💬 13 • ⏱️ 0:27 • 2d ago
 
 ---
 
@@ -290,7 +248,47 @@ Unitree Robotics is plotting an aggressive expansion following its viral showing
 
 📺 Kalil 4.0
 
-👁️ 26K • 👍 517 • 💬 174 • ⏱️ 11:04 • 1d ago
+👁️ 27K • 👍 526 • 💬 177 • ⏱️ 11:04 • 1d ago
+
+---
+
+**[Viral: China&#39;s Humanoid Robots Take Center Stage For Lunar New Year Showtime | Should We Be Worried?](https://www.youtube.com/watch?v=CfoOuK_Xroo)**
+
+Viral: China's Humanoid Robots Take Center Stage For Lunar New Year Showtime | Should We Be Worried? China has grabbed ...
+
+📺 Mint
+
+👁️ 5K • 👍 75 • 💬 69 • ⏱️ 3:01 • 8h ago
+
+---
+
+**[The Problem With Humanoid Robots](https://www.youtube.com/watch?v=EPQI0qzt7uw)**
+
+Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
+
+📺 Wall Street Millennial
+
+👁️ 48K • 👍 2K • 💬 506 • ⏱️ 13:31 • 1d ago
+
+---
+
+**[China&#39;s humanoid robots stole the show at 2026 Spring Festival #robot #technology #humanoidrobots](https://www.youtube.com/watch?v=LVPfUQrAn3g)**
+
+Robots were front and center during the 2026 Spring Festival Gala on primetime Chinese TV, which typically draws more than a ...
+
+📺 Kalil 4.0
+
+👁️ 78K • 👍 2K • 💬 228 • ⏱️ 0:49 • 4d ago
+
+---
+
+**[Param – India’s Most Advanced Robot Dog 🇮🇳🔥 | 100% Made In India Tech Power! #robotdog #robotpet](https://www.youtube.com/watch?v=5oMuS7c9Irs)**
+
+Meet Param, India's most advanced indigenous robot dog that showcases the power of Indian innovation and self-reliance.
+
+📺 Memes Of Society 48
+
+👁️ 116K • 👍 330 • 💬 34 • ⏱️ 0:04 • 1d ago
 
 ---
 

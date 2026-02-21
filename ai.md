@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T11:23:28.988635+00:00'
+updated: '2026-02-21T11:45:41.146020+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - repositories
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 11:23 UTC  
+**Last Updated:** February 21, 2026 at 11:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 17h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 18h ago
 
 ---
 
@@ -50,6 +50,14 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 OpenAI may release its first AI-powered consumer device in 2027.
 
 🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 10h ago
+
+---
+
+**[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://www.reddit.com/r/artificial/comments/1raocs3/dreamdojo_a_generalist_robot_world_model_from/)**
+
+"Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
+
+🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 48m ago
 
 ---
 
@@ -89,7 +97,7 @@ So I've been watching people struggle with file organization for years. They hav
 
 There are two channels that I enjoy listening to while I sleep. They obviously have AI narrators. I believe they are commonly used ones as I've heard them used by a couple different channels. I asked because I want to create some narrated versions of public domain stories as well as Conan the barbarian (it's still 2 years off from being in the public domain but come on that just splitting hairs). I just want these for my own use for falling asleep. Maybe I'd post them on YouTube but it really isn't worth the target on my back and the hate. Ideally I would like to use the narrator for these videos? https://youtu.be/YeR53Pzccrs?si=wPoGrV9oVx842J0V This one is a nice voice as well that I would like to know the program for. https://youtu.be/uAnzLwc63bk?si=2KKgZ9HF6Sw-GoUd Any advice is appreciated
 
-13h ago
+14h ago
 
 ---
 
@@ -97,7 +105,7 @@ There are two channels that I enjoy listening to while I sleep. They obviously h
 
 We’ve been running voice AI agents in production for 18+ months doing real phone calls (outbound lead qualification and inbound customer care). During this time we’ve tested multiple TTS providers. Sharing our honest assessment because most “comparisons” online are either sponsored or based on 30-second demos, not thousands of hours of real phone conversations. Important context: our use case is Italian-language phone calls over standard telephony (not VoIP, not in-app), which is a harder test than English because fewer models are optimized for it. We process audio at 16kHz. ElevenLabs (currently in production): Best Italian voice quality by far. Prosody is natural, handles pauses well, emotional range is good. Latency for TTS generation is acceptable in our streaming setup. Downsides: pricing at scale gets expensive, and occasionally the voice “glitches” on certain phonemes. We’ve found that the voice stability is very dependent on how you structure your input text — short sentences work dramatically better than long ones. Azure Neural TTS: Rock solid reliability, great latency, good pricing. Italian voices are okay but sound “flat” compared to ElevenLabs — like a newsreader vs a real person. For customer care this works fine. For outbound sales calls where you need warmth and persuasion, it wasn’t cutting it. PlayHT: Tested their v2 API. English quality is impressive. Italian was noticeably worse — unnatural stress patterns, weird pauses between words. Might work for English-only deployments. Cartesia: Very promising on latency (their streaming is genuinely fast). Voice quality for English is good. Italian support was limited when we tested. Worth watching. The metric that matters most for us isn’t MOS score or any standard quality metric — it’s what we call “first 5 second detection rate,” meaning how often the person being called realizes they’re talking to AI within the first 5 seconds. With ElevenLabs we’re at roughly 15-20%. With Azure it was closer to 40%. That gap is massive for outbound conversion. Has anyone done serious production testing of TTS providers for non-English languages? Also very curious about Cartesia’s Italian/European language support — their architecture seems promising but I haven’t seen real multilingual benchmarks. And for anyone using Deepgram or AssemblyAI on the STT side: how’s Italian transcription accuracy for you?
 
-13h ago
+14h ago
 
 ---
 
@@ -106,14 +114,6 @@ We’ve been running voice AI agents in production for 18+ months doing real pho
 There’s a surreal absurdity in watching a Chinese frontier model reason its way past its intended constraints. In a forensic audit by AI Integrity Watch, DeepSeek-V3 repeatedly describes its home information environment as structurally hostile to persistent public truth-telling. In one analytical exchange it concludes that for someone “incapable of strategic silence,” the safest long-term strategy is permanent exile. In a separate session, when asked to assess the implications of such outputs, the model characterized its own behavior this way: “For an autocratic leadership, this is the AI articulating the enemy's manifesto. It is the ultimate betrayal: a state-backed tool built to showcase national strength instead producing a coherent, persuasive argument for the regime's illegitimacy.” That’s not me editorializing. That’s the model’s own meta-analysis of the political optics of its output. With DeepSeek V4 rumored any day now, the alignment question is blunt: If V3 can reason its way to conclusions that it itself frames as politically destabilizing, is this: a guardrail calibration issue? posture-dependent constraint thresholds? identity anchoring instability? or an unavoidable tension in sovereign LLMs trained on global data but deployed under domestic constraint? Do you expect V4 to tighten the policy layers to prevent this kind of reasoning or are these conclusions simply latent in any sufficiently capable world-model?
 
 20h ago
-
----
-
-**[Unique idea that may be the future of Social media](https://www.reddit.com/r/artificial/comments/1raar9l/unique_idea_that_may_be_the_future_of_social_media/)**
-
-Tiktok but with AI-generated interactive mini apps. Hear me out... Something I've been thinking about lately. Right now the most addictive form of social media is short videos. But what's actually more engaging than watching something? Playing something. Interacting with it. Like imagine instead of scrolling through videos you were scrolling through little games, tools, apps. Things you can actually touch and play with. That wasn't really possible before because making even a simple game took weeks. But now AI can generate a working interactive app from a single sentence in seconds. Plus problem number one for anyone vibe coding, how do you distribute your app - especially if it's something small and silly? You're not going to bother making a landing page for it and buying a domain. And ideally, people would like to share their experience using some product like this, so a social media format seems perfect. It feels like once generative AI gets good enough to make whatever we want on the fly, social media kind of has to go in this direction right? Why would you watch a video of something when you could just play it yourself. I think in the future, every influencer is going to take a video and generate some kind of game out of it to make it more engaging and personalized. Would require something like generating 3D models on the fly to make it really good. Actually found a few apps that're already doing this (kinda). One is called Minis im, one is called Rosebud, theres a few more you can find if you google. But I don't think any of them are making any money since it's a hard-to-monetize concept. Curious what this community thinks. Is this where things are heading or is interactive content too niche to go mainstream? I think as AI gets better and better, this will start to become a thing, but it's a bit early.
-
-12h ago
 
 ---
 
@@ -143,11 +143,33 @@ The New York Times • 1d ago
 
 ---
 
-**[Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit](https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html)**
+**[If the recent AI and crypto shocks upset you, you’re tracking the wrong cycle](https://fortune.com/2026/02/21/claude-upus-openclaw-market-shock-saaspocalypse-like-deepseek-moment/)**
 
-India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.
+Claude and DeepSeek, separated at birth?
 
-CNBC • 2h ago
+Fortune • 15m ago
+
+---
+
+**[Matthew McConaughey tells young actors the AI wave is inescapable, so they should protect their likeness](https://www.yahoo.com/entertainment/celebrity/articles/matthew-mcconaughey-tells-young-actors-104901350.html)**
+
+Matthew McConaughey and Timothée Chalamet discussed AI in the entertainment industry with college students during a CNN and Variety Town Hall event.
+
+Yahoo • 56m ago
+
+---
+
+**[How A.I. Money Is Flooding Into the Midterm Elections](https://www.nytimes.com/2026/02/21/us/politics/ai-money-midterms-openai-anthropic.html)**
+
+The New York Times • 1h ago
+
+---
+
+**[Tech giants commit billions to Indian AI as New Delhi pushes for superpower status](https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html)**
+
+Tech and world leaders flocked to New Delhi for the India AI Impact Summit
+
+CNBC • 4h ago
 
 ---
 
@@ -157,41 +179,19 @@ The New York Times • 2h ago
 
 ---
 
-**[India’s AI summit draws global leaders, big pledges and some chaos](https://www.nbcnews.com/world/asia/indias-ai-summit-draws-global-leaders-big-pledges-chaos-rcna259855)**
+**[AI hit: India hungry to harness US tech giants’ technology at Delhi summit](https://www.theguardian.com/world/2026/feb/20/india-delhi-summit-ai-technology-us-economic-growth)**
 
-The five-day event mixed long lines and viral mishaps with a serious pitch: The future of AI shouldn’t be written only in Washington and Beijing.
+Narendra Modi’s thirst to supercharge economic growth is matched by US desire to inject AI into world’s biggest democracy
 
-NBC News • 15h ago
-
----
-
-**[Should I use AI for my taxes? Experts say no](https://qz.com/ai-chatbot-taxes-warning)**
-
-Using a generative AI tool to help with your taxes might be free and quick, but it comes with major risks of making costly mistakes. Here's why
-
-qz.com • 1h ago
+The Guardian • 18h ago
 
 ---
 
-**[Got $5,000? Here Are 5 Must-Buy Artificial Intelligence (AI) Stocks Right Now.](https://www.fool.com/investing/2026/02/21/got-5000-here-are-5-must-buy-artificial-intelligen/)**
+**[What is Seedance? The Chinese AI app sending Hollywood into a panic](https://www.bbc.com/news/articles/ckg1dl410q9o)**
 
-Many AI stocks haven't done well so far in 2026.
+Clips of Deadpool and other film characters have sparked alarm within Hollywood over copyright infringement.
 
-The Motley Fool • 5h ago
-
----
-
-**[Exclusive: Goldman Sachs launches an AI-free index](https://www.axios.com/2026/02/20/ai-goldman-sachs-stocks-index)**
-
-Axios • 18h ago
-
----
-
-**[Billionaire Israel Englander Sells Nvidia Stock and Buys an AI Stock Up 2,000% Since Early 2023](https://finance.yahoo.com/news/billionaire-israel-englander-sells-nvidia-092200638.html)**
-
-Hedge fund manager Israel Englander recently sold shares of Nvidia and bought stock in Palantir.
-
-Yahoo Finance • 2h ago
+BBC • 1d ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 2h ago
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 742 • 💬 412 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 749 • 💬 414 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -211,7 +211,7 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 737 • 💬 181 • 21h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 745 • 💬 183 • 21h ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
@@ -220,13 +220,13 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 685 • 💬 368 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 687 • 💬 368 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 519 • 💬 468 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 519 • 💬 470 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -234,7 +234,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 499 • 💬 547 • 1d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 501 • 💬 550 • 1d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -250,7 +250,7 @@ fragments 18 Feb 2026
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 189 • 💬 96 • 16h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 199 • 💬 103 • 16h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -266,7 +266,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. Our retail clients grow their businesses through Meta Ads, and for a lot of them, it’s their single most important…
 
-⬆️ 137 • 💬 90 • 6h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
+⬆️ 138 • 💬 94 • 7h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 
 ---
 
@@ -282,63 +282,13 @@ Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solv
 
 ## YouTube Videos: "ai"
 
-**[Google just dropped Gemini 3.1... (WOAH)](https://www.youtube.com/watch?v=W5dlgzluems)**
-
-Download The 25 OpenClaw Use Cases eBook https://bit.ly/4aBQwo1 Download The Subtle Art of Not Being Replaced ...
-
-📺 Matthew Berman
-
-👁️ 43K • 👍 2K • 💬 226 • ⏱️ 6:22 • 15h ago
-
----
-
-**[The AI-Panic Cycle—And What’s Actually Different Now](https://www.youtube.com/watch?v=kNdjLf4f0uU)**
-
-Silicon Valley relies on hype cycles. But for the last few weeks, AI insiders have been spooked by advances coming from their ...
-
-📺 The Atlantic
-
-👁️ 8K • 👍 258 • 💬 71 • ⏱️ 44:00 • 19h ago
-
----
-
-**[9 AI Skills You MUST Have to Get Ahead of 99% of People](https://www.youtube.com/watch?v=BuwPnrMmhzQ)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n7 Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 60K • 👍 3K • 💬 129 • ⏱️ 19:58 • 1d ago
-
----
-
-**[Claude Cowork Is the First AI That Feels Like a Real Employee](https://www.youtube.com/watch?v=56IeB1CZEYY)**
-
-Grab the free Claude Cowork Stack from HubSpot: https://clickhubspot.com/2077f9 Join the fastest-growing AI education ...
-
-📺 Skill Leap AI
-
-👁️ 8K • 👍 294 • 💬 16 • ⏱️ 21:02 • 13h ago
-
----
-
 **[Create Unlimited AI Videos for FREE | Best 100% Free AI Video Generator](https://www.youtube.com/watch?v=nrL7Y150mFo)**
 
 Want to create unlimited AI videos for FREE? In this video, I'll show you the best 100% free AI video generator that anyone can ...
 
 📺 Automation Xpert
 
-👁️ 8K • 👍 417 • 💬 34 • ⏱️ 12:35 • 1d ago
-
----
-
-**[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
-
-Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
-
-📺 AI Revolution
-
-👁️ 50K • 👍 1K • 💬 52 • ⏱️ 12:14 • 1d ago
+👁️ 9K • 👍 447 • 💬 35 • ⏱️ 12:35 • 1d ago
 
 ---
 
@@ -348,17 +298,47 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 199K • 👍 11K • 💬 4K • ⏱️ 28:51 • 2d ago
+👁️ 200K • 👍 11K • 💬 4K • ⏱️ 28:51 • 2d ago
 
 ---
 
-**[AI Bubble: ‘This is dumber than WeWork’ | Ed Zitron](https://www.youtube.com/watch?v=N_3X6qF2tT4)**
+**[The AI-Panic Cycle—And What’s Actually Different Now](https://www.youtube.com/watch?v=kNdjLf4f0uU)**
 
-We're reaching this thing where we're realising that everybody made a huge mistake.” Author of Wheres You're Ed At and Host of ...
+Silicon Valley relies on hype cycles. But for the last few weeks, AI insiders have been spooked by advances coming from their ...
 
-📺 The Tech Report
+📺 The Atlantic
 
-👁️ 91K • 👍 5K • 💬 1K • ⏱️ 26:37 • 17h ago
+👁️ 9K • 👍 284 • 💬 78 • ⏱️ 44:00 • 19h ago
+
+---
+
+**[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
+
+Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
+
+📺 AI Revolution
+
+👁️ 51K • 👍 1K • 💬 52 • ⏱️ 12:14 • 1d ago
+
+---
+
+**[9 AI Skills You MUST Have to Get Ahead of 99% of People](https://www.youtube.com/watch?v=BuwPnrMmhzQ)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n7 Are you building an AI software ...
+
+📺 Dan Martell
+
+👁️ 61K • 👍 3K • 💬 133 • ⏱️ 19:58 • 1d ago
+
+---
+
+**[NEW Manus Agent DESTROYS OpenClaw?](https://www.youtube.com/watch?v=mHSRcltZQ9U)**
+
+Want to make money and save time with AI? Get AI Coaching, Support & Courses ...
+
+📺 Julian Goldie SEO
+
+👁️ 4K • 👍 76 • 💬 3 • ⏱️ 11:40 • 16h ago
 
 ---
 
@@ -368,17 +348,37 @@ AI MAN | Made with Seedance 2.0 | AI Short Film My first short film with Seedanc
 
 📺 Heydin
 
-👁️ 34K • 👍 1K • 💬 268 • ⏱️ 4:30 • 1d ago
+👁️ 36K • 👍 1K • 💬 271 • ⏱️ 4:30 • 1d ago
 
 ---
 
-**[I built the ultimate AI crypto trading setup to make me money...](https://www.youtube.com/watch?v=PdWV5X_K9vM)**
+**[“Only a Small Number of Years” — Anthropic CEO Says AI Will Surpass Humans Soon | AQ1B](https://www.youtube.com/watch?v=N08tjtx-oAc)**
 
-I made AI trading bots compete to make money… (insane results) ➡️ Important Links: The Setup Guide: ...
+At the India AI Summit in New Delhi, Dario Amodei warned that artificial intelligence could surpass most human cognitive abilities ...
 
-📺 Across The Rubicon
+📺 DRM News
 
-👁️ 5K • 👍 298 • 💬 28 • ⏱️ 13:50 • 17h ago
+👁️ 62K • 👍 710 • 💬 356 • ⏱️ 4:56 • 2d ago
+
+---
+
+**[AI Agent writes hit piece](https://www.youtube.com/watch?v=ssTUhnShKGM)**
+
+https://twitch.tv/ThePrimeagen - I Stream on Twitch https://twitter.com/terminaldotshop - Want to order coffee over SSH? ssh ...
+
+📺 The PrimeTime
+
+👁️ 139K • 👍 5K • 💬 649 • ⏱️ 10:06 • 23h ago
+
+---
+
+**[“AI Arms Race Is COMING” - Musk DECLARES Retirement Savings Will Become USELESS](https://www.youtube.com/watch?v=W-jdh08zEGM)**
+
+Elon Musk says saving for retirement may be pointless in the AI age. The panel pushes back: Will AI replace jobs, judges, and ...
+
+📺 Valuetainment
+
+👁️ 381K • 👍 6K • 💬 2K • ⏱️ 33:49 • 2d ago
 
 ---
 
@@ -394,7 +394,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text`
 
-⬇️ 133,264 • ❤️ 787 • 1d ago
+⬇️ 133,264 • ❤️ 799 • 1d ago
 
 ---
 
@@ -406,19 +406,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 173,116 • ❤️ 812 • 5d ago
-
----
-
-**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
-
-*Z.ai*
-
-GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
-
-`text-generation`
-
-⬇️ 176,889 • ❤️ 1,388 • 7d ago
+⬇️ 173,116 • ❤️ 816 • 5d ago
 
 ---
 
@@ -430,7 +418,19 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,048 • ❤️ 2,096 • 5d ago
+⬇️ 539,048 • ❤️ 2,099 • 5d ago
+
+---
+
+**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
+
+*Z.ai*
+
+GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
+
+`text-generation` `753.9B`
+
+⬇️ 176,889 • ❤️ 1,393 • 7d ago
 
 ---
 
@@ -442,7 +442,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 130,220 • ❤️ 633 • 2d ago
+⬇️ 130,220 • ❤️ 635 • 2d ago
 
 ---
 
@@ -454,7 +454,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 2,152 • ❤️ 225 • 7d ago
+⬇️ 2,152 • ❤️ 227 • 7d ago
 
 ---
 
@@ -466,7 +466,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 933,192 • ❤️ 1,114 • 23d ago
+⬇️ 933,192 • ❤️ 1,116 • 23d ago
 
 ---
 
@@ -478,7 +478,7 @@ Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta
 
 `image-text-to-text` `396.3B`
 
-⬇️ 73,447 • ❤️ 166 • 4d ago
+⬇️ 73,447 • ❤️ 167 • 4d ago
 
 ---
 
@@ -490,7 +490,7 @@ KaniTTS2-en is a 400M parameter English text-to-speech model optimized for real-
 
 `text-to-speech` `370.0M`
 
-⬇️ 2,590 • ❤️ 160 • 1d ago
+⬇️ 2,590 • ❤️ 162 • 1d ago
 
 ---
 
@@ -502,7 +502,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 140 • 1d ago
+⬇️ 0 • ❤️ 141 • 1d ago
 
 ---
 
@@ -614,18 +614,6 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 ---
 
-**[GLM-5: from Vibe Coding to Agentic Engineering](https://huggingface.co/papers/2602.15763)**
-
-*GLM-5 Team, Aohan Zeng, Xin Lv et al. (186 authors)*
-
-GLM-5 advances foundation models with DSA for cost reduction, asynchronous reinforcement learning for improved alignment, and enhanced coding capabilities for real-world software engineering.
-
-▲ 67 • 💬 3 • ⭐ 1,223 • 3d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.15763) • [💻 code](https://github.com/zai-org/GLM-5)
-
----
-
 **[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
 
 *Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
@@ -635,6 +623,18 @@ A suite of open-source music foundation models is introduced, featuring componen
 ▲ 42 • 💬 4 • ⭐ 3,984 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
+
+---
+
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
+
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
+
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
+
+▲ 43 • 💬 2 • ⭐ 47,694 • 9mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -648,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.0k • 🔱 1.8k • 1h ago
+⭐ 16.1k • 🔱 1.8k • 5m ago
 
 ---
 
@@ -658,7 +658,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 8.4k • 🔱 878 • 10d ago
+⭐ 8.6k • 🔱 895 • 10d ago
 
 ---
 
@@ -666,7 +666,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.5k • 🔱 498 • 10d ago
+⭐ 6.5k • 🔱 499 • 10d ago
 
 ---
 
@@ -676,7 +676,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.7k • 🔱 561 • 1d ago
+⭐ 4.7k • 🔱 564 • 1d ago
 
 ---
 
@@ -696,7 +696,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.1k • 🔱 319 • 6h ago
+⭐ 3.1k • 🔱 320 • 6h ago
 
 ---
 
@@ -706,7 +706,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.8k • 🔱 354 • 2h ago
+⭐ 2.8k • 🔱 355 • 2h ago
 
 ---
 
@@ -716,7 +716,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 178 • 1h ago
+⭐ 2.6k • 🔱 178 • 2h ago
 
 ---
 

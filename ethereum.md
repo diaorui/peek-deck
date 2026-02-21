@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T11:23:29.002985+00:00'
+updated: '2026-02-21T11:45:41.160789+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 11:23 UTC  
+**Last Updated:** February 21, 2026 at 11:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
-**7d:** +0.3%  
-**30d:** -33.4%  
-**90d:** -33.3%  
-**1y:** -28.7%  
+**24h:** +1.5%  
+**7d:** +0.7%  
+**30d:** -33.1%  
+**90d:** -33.0%  
+**1y:** -28.4%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.36B
+**Market Cap:** $238.84B
 Rank #2
 
 **Circulating Supply:** 120,692,373 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.1%
+-60.0%
 
 **All-Time Low:** $0.43
-+456090.7%
++456878.3%
 
 ---
 
@@ -112,7 +112,7 @@ Lobsters like block too You can use x402 for agents to pay and get access to blo
 
 There’s been a lot of talk lately about how fast teams are shipping contracts especially with AI-assisted “vibe coding.” Recently, the Ethereum Foundation highlighted the release of the OWASP Smart Contract Top 10, which outlines the most critical risks developers and security teams should be protecting against today. What stands out is how familiar many of these failure patterns still are: access control issues, logic flaws, unsafe assumptions, and upgrade risks. The tooling is getting better. The awareness is getting better. But the same classes of bugs keep showing up in production. Feels like the real challenge in 2026 isn’t whether we can write contracts faster it’s whether we can operate them safely at scale. Curious how others here are thinking about this balance between speed and security.
 
-20h ago
+21h ago
 
 ---
 
@@ -136,7 +136,7 @@ Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and 
 
 Few years Ago no one believe quantum threat is even a thing. But lately it feels different. Not because quantum computers can suddenly crack wallets tomorrow, but because the timeline is slowly shifting from sci-fi to strategic planning. Here’s the uncomfortable part, most of crypto security today relies on elliptic curve cryptography. If a sufficiently powerful quantum computer runs Shor’s algorithm at scale, it could theoretically derive private keys from public keys. The bigger issue isn’t quantum breaks crypto overnight. It’s the long runway required to migrate billions in value to new cryptographic standards before that day ever comes. That kind of coordination takes years. What I find interesting is that Ethereum developers aren’t brushing this off. There’s active research into post-quantum signature schemes lattice-based and hash-based approaches and discussions about how Ethereum’s account abstraction model could make upgrading signatures more flexible compared to more rigid systems. The idea isn’t to panic-fork tomorrow, but to design the protocol so it can evolve if needed. Vitalik has openly talked about the possibility of a hard fork to move toward quantum-resistant signatures if the threat becomes imminent. There’s also ongoing work around making cryptographic components more modular, so the base layer isn’t permanently locked into one signature scheme forever. That kind of design thinking matters. At the same time, this isn’t trivial. Post-quantum signatures are typically much larger. They consume more bandwidth. They increase verification costs. Gas implications are real. And then there’s the elephant in the room: dormant wallets. If a public key is already exposed on-chain, and quantum becomes viable before migration, those funds could be at risk. There’s also the harvest now, decrypt later scenario. Even if quantum isn’t powerful enough today, adversaries could store cryptographic data now and wait for future breakthroughs. That’s not conspiracy talk that’s standard long-term threat modeling. So the question isn’t whether quantum computing will eventually be powerful. It’s whether Ethereum and crypto as a whole can coordinate upgrades in time. Ethereum at least has one advantage: it was built to evolve. It’s already gone through massive upgrades. Social coordination is part of its DNA. Personally, I don’t think this is immediate doom. But I also don’t think it’s something to laugh off anymore. The chains that treat quantum seriously today are probably the ones that survive smoothly tomorrow. Curious where everyone stands. Is this a 2040 problem? A 2030 problem? Or just another narrative that gets recycled every bull run?
 
-21h ago
+22h ago
 
 ---
 
@@ -152,27 +152,19 @@ New 13F filings show major financial institutions sharply increased positions in
 
 ## Google News: "ethereum"
 
+**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
+
+FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
+
+The Block • 15h ago
+
+---
+
 **[BNP Paribas taps Ethereum for new money market fund tokenization pilot](https://www.theblock.co/post/390686/bnp-paribas-taps-ethereum-new-money-market-fund-tokenization-pilot)**
 
 The tokenized shares were issued by the BNP Paribas’ AssetFoundryTM platform using a "permissioned access model on Ethereum."
 
 The Block • 14h ago
-
----
-
-**[Forget Bitcoin and Ethereum: This is the Crypto to Buy in 2026](https://247wallst.com/investing/2026/02/17/forget-bitcoin-and-ethereum-this-is-the-crypto-to-buy-in-2026/)**
-
-Bitcoin and Ethereum have dominated crypto headlines for years, but Bitcoin has declined 22.4% year-to-date in 2026, while Ethereum has dropped 33.4% over the same period. Both show signs of exhaustion after their 2025 rallies. Three alternative cryptocurrencies have experienced different price movements than Bitcoin and Ethereum: XRP’s institutional payment infrastructure, Solana’s unmatched transaction speed, ... Forget Bitcoin and Ethereum: This is the Crypto to Buy in 2026
-
-24/7 Wall St. • 3d ago
-
----
-
-**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
-
-BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
-
-Yahoo Finance • 22h ago
 
 ---
 
@@ -184,6 +176,22 @@ Fortune • 2d ago
 
 ---
 
+**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
+
+BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
+
+Key PointsBitcoin could struggle to retain its reputation as "digital gold".
+
+Nasdaq • 19h ago
+
+---
+
 **[The Ethereum creator and early Polymarket backer doesn't like the direction prediction markets are headed](https://www.businessinsider.com/ethereum-creator-polymarket-backer-raises-concern-about-prediction-markets-future-2026-2)**
 
 Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
@@ -192,33 +200,17 @@ Business Insider • 3d ago
 
 ---
 
-**[Robinhood (HOOD) L2 testnet logs 4 million transactions in first week](https://www.coindesk.com/tech/2026/02/19/robinhood-testnet-l2-logs-4-million-transactions-following-vitalik-questions-of-ethereum-s-rollup-roadmap)**
-
-Centralized exchanges are moving forward building their own blockchain infrastructure even as the broader Ethereum ecosystem debates its future.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqdlMu07q9qLYfk-xUaJWn1fSRLSgoXj5oM4Gu5pedJL6OAFtxLcjUSe&gaa_ts=69998c14&gaa_sig=HTdfufFbt4-Q8kGnDAS0KOvz38kkFvS7qthHlggd2W0ZbEfQW0b4gm7wLrQIzB84cXbXgDgqOfa_sLtofM8CBA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqeflJiJAwc_HnEGxYr-O9HxBWsD-1oPDz1wv1-rhr8DJmGKIFGtUddL&gaa_ts=69999de5&gaa_sig=YPvX5QH0UTJBB25H_9iY0xlUT4VF9wmztTEE0TS7uoeQa3IUQDDLVghy_GOaK1QHqBZ32mJ0sdCreDOUylDw4g%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
+**[Dual South Korean listings send Ethereum layer-2 token AZTEC surging 82%](https://www.coindesk.com/markets/2026/02/20/dual-s-korea-listings-send-ethereum-layer-2-token-aztec-surging-82)**
 
-Key PointsBitcoin could struggle to retain its reputation as "digital gold".
+Korean exchanges Upbit and Bithumb both added local currency pairs for the privacy-focused layer-2 token, triggering a sharp move in a thinly traded market.
 
-Nasdaq • 18h ago
-
----
-
-**[Ethereum Breaks Fhe Final Whale Floor In A 2018-Style Capitulation: What To Expect](https://www.tradingview.com/news/newsbtc:154df2de3094b:0-ethereum-breaks-fhe-final-whale-floor-in-a-2018-style-capitulation-what-to-expect/)**
-
-Ethereum is struggling to reclaim the $2,000 level, with persistent selling pressure continuing to weigh on sentiment across the broader crypto market. Despite intermittent recovery attempts, price action remains fragile as liquidity conditions tighten and investors reassess risk exposure following…
-
-TradingView • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -230,37 +222,25 @@ Seeking Alpha • 2d ago
 
 ---
 
+**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://www.fool.com/investing/2026/02/18/prediction-2026-will-be-the-year-of-ethereum-eth/)**
+
+Ethereum could more than double in price in 2026 to reclaim its all-time high near $5,000.
+
+The Motley Fool • 3d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=HI7Dxj99nms)**
+**[WHY ETH CAN RALLY NEXT MONTH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=50RuciUyE7w)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 More Crypto Online
+📺 Cilinix Crypto
 
-👁️ 1K • 👍 84 • 💬 5 • ⏱️ 4:31 • 9h ago
-
----
-
-**[BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZLIMj73KyWg)**
-
-BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 204 • 💬 24 • ⏱️ 15:50 • 10h ago
-
----
-
-**[☠️ What does Howard Lutnick know about Ethereum&#39;s Future?](https://www.youtube.com/watch?v=ki0X2Ur6hGQ)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 282 • 👍 51 • 💬 5 • ⏱️ 10:25 • 3h ago
+👁️ 74 • 👍 3 • ⏱️ 4:35 • 1h ago
 
 ---
 
@@ -270,7 +250,27 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 14K • 👍 502 • 💬 29 • ⏱️ 21:01 • 1d ago
+👁️ 15K • 👍 504 • 💬 30 • ⏱️ 21:01 • 1d ago
+
+---
+
+**[BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZLIMj73KyWg)**
+
+BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 5K • 👍 221 • 💬 24 • ⏱️ 15:50 • 11h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=HI7Dxj99nms)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 1K • 👍 98 • 💬 5 • ⏱️ 4:31 • 9h ago
 
 ---
 
@@ -284,13 +284,43 @@ Optimism has plunged to a new all-time low after intense selling pressure overwh
 
 ---
 
+**[🚨 BREAKING: Deep State 911 Insider BUYS ETHEREUM (Howard Lutnick) ($20K ETH) (Tom Lee)](https://www.youtube.com/watch?v=F22KAmIsKd4)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 2K • 👍 240 • 💬 22 • ⏱️ 16:03 • 1d ago
+
+---
+
 **[🚨 BTC &amp; ETH: ALL IN NOW!!!!! &quot;MEGA FOMO PUMP INCOMING!!!&quot;](https://www.youtube.com/watch?v=Rc6HxdvIdd8)**
 
 Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take on all of it. An objective one. ---------- AI Trading ...
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 4K • 💬 54 • ⏱️ 10:36 • 23h ago
+👁️ 24K • 👍 4K • 💬 54 • ⏱️ 10:36 • 1d ago
+
+---
+
+**[21 February Today Crypto Live Trading | @bullishbullmaster #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=HeryDXz0Snw)**
+
+ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsapp Channel ...
+
+📺 Bullish Bull Master
+
+👁️ 6K • 👍 667 • 2h ago
+
+---
+
+**[☠️ What does Howard Lutnick know about Ethereum&#39;s Future?](https://www.youtube.com/watch?v=ki0X2Ur6hGQ)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 542 • 👍 90 • 💬 7 • ⏱️ 10:25 • 3h ago
 
 ---
 
@@ -301,34 +331,6 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 📺 Jamie Tree 
 
 👁️ 4K • 👍 77 • 💬 7 • ⏱️ 18:58 • 2d ago
-
----
-
-**[Blackrock Ethereum ETF SUBMITTED (Major Price Reaction)](https://www.youtube.com/watch?v=IDB13BcKlLE)**
-
-Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But the charts aren't as bullish! Will the bulls or ...
-
-📺 Discover Crypto
-
-👁️ 5K • 👍 128 • 💬 35 • ⏱️ 4:54 • 1d ago
-
----
-
-**[SUPER INVESTOR JUST SOLD HIS ENTIRE ETHEREUM POSITION](https://www.youtube.com/watch?v=Wsk-n6e2dh0)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 7K • 👍 320 • 💬 35 • ⏱️ 12:25 • 2d ago
-
----
-
-**[Harvard just dumped bitcoin and bought ethereum](https://www.youtube.com/watch?v=PJIHUvPwt1c)**
-
-📺 Boyce Watkins
-
-👁️ 4K • 👍 332 • 💬 25 • ⏱️ 1:55 • 1d ago
 
 ---
 

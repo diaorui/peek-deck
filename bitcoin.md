@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T11:23:28.996933+00:00'
+updated: '2026-02-21T11:45:41.154431+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 11:23 UTC  
+**Last Updated:** February 21, 2026 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -0.9%  
-**30d:** -23.9%  
-**90d:** -22.9%  
+**24h:** +0.9%  
+**7d:** -1.0%  
+**30d:** -24.0%  
+**90d:** -23.0%  
 **1y:** -29.4%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1363.82B
+**Market Cap:** $1362.04B
 Rank #1
 
-**Circulating Supply:** 19,992,581 BTC
+**Circulating Supply:** 19,992,659 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.9%
+-46.0%
 
 **All-Time Low:** $67.81
-+100489.9%
++100367.5%
 
 ---
 
@@ -91,17 +91,17 @@ My stack is still already cool imho. Happy stacking everyone
 
 ---
 
-**[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
-
-17h ago
-
----
-
 **[Has holding Bitcoin long-term changed how you react to volatility?](https://www.reddit.com/r/Bitcoin/comments/1rakcse/has_holding_bitcoin_longterm_changed_how_you/)**
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
 4h ago
+
+---
+
+**[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
+
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ I've been in crypto for about three years now and I noticed something weird late
 
 Given the significant drop in Bitcoin’s price recently, do you think this could be a good opportunity to invest? Some investors see sharp declines as a chance to buy at a lower entry point, while others worry that the market could continue to fall. Considering the volatility and the long-term potential often associated with cryptocurrencies, would you view this downturn as a strategic buying moment, or would you prefer to wait for more stability before making an investment decision?
 
-12h ago
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ Given the significant drop in Bitcoin’s price recently, do you think this coul
 
 I constantly see people talking about the 4-year cycle with absolute conviction that it will hold true, claiming that we will see the true “bottom” this autumn. I recently put 30% of my portfolio into bitcoin following the crash, however I’m now considering selling (since it’s only gone sideways and I won’t be at a loss) and waiting for it to drop more before buying back in. I’m expecting a lot of Smartass Redditor responses but I’m interested in hearing peoples genuine thoughts on the 4-year cycle
 
-8h ago
+9h ago
 
 ---
 
@@ -145,11 +145,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[What should be my goal?](https://www.reddit.com/r/Bitcoin/comments/1radze3/what_should_be_my_goal/)**
+**[People who took a big loss in crypto, what helped you rebuild or move forward?](https://www.reddit.com/r/Bitcoin/comments/1rao47b/people_who_took_a_big_loss_in_crypto_what_helped/)**
 
-I just reached my very small but significant goal to me, 0.1. Should I diversify my assets and invest in stocks or keep going with bitcoin and eventually aim for 0.5-1btc? I seriously see the value in bitcoin but am worried about having everything in one basket.
+I’m not looking for quick fixes or coin recommendations. I’m more interested in the human side of this. I lost most of my savings during the crypto downturn, and honestly the mental hit was harder than the financial one. For those who went through something similar, what actually helped you move forward — emotionally, financially, or both? I feel like a lot of people carry these losses quietly, so hearing real experiences might help more than just me.
 
-9h ago
+1h ago
 
 ---
 
@@ -173,11 +173,33 @@ CoinDesk • 6h ago
 
 ---
 
+**[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Is bitcoin's price slump an investing opportunity? Here's how to buy bitcoin.](https://finance.yahoo.com/personal-finance/investing/article/is-bitcoins-price-slump-an-investing-opportunity-heres-how-to-buy-bitcoin-222211113.html)**
+
+Is the recent bitcoin slump a buying opportunity? Discover the safest ways to buy and store bitcoin in 2026.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Bitcoin Pops After Supreme Court Strikes Down Trump’s Tariffs](https://bitcoinmagazine.com/news/bitcoin-pops-after-supreme-court)**
 
 The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
 
 Bitcoin Magazine • 18h ago
+
+---
+
+**[Bitcoin price news: BTC gains, but quickly retreats as Trump tariffs ruled illegal by Supreme Court](https://www.coindesk.com/markets/2026/02/20/bitcoin-pops-then-drops-as-supreme-court-strikes-down-trump-tariffs)**
+
+Hotter inflation and slower growth delivers a messy message with the Federal Reserve likely take its time before any policy changes, one analyst said.
+
+CoinDesk • 20h ago
 
 ---
 
@@ -189,25 +211,9 @@ Yahoo Finance • 4h ago
 
 ---
 
-**[Bitcoin price news: BTC gains, but quickly retreats as Trump tariffs ruled illegal by Supreme Court](https://www.coindesk.com/markets/2026/02/20/bitcoin-pops-then-drops-as-supreme-court-strikes-down-trump-tariffs)**
+**[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqcfsEvfKt5tBEnIg8Tw79mz8Jx7HCZ7XYHiKWhPU6gwcCczHDqa4nER&gaa_ts=69999de3&gaa_sig=v-BCfYZku0l78ezXSmzC7icbFMNlhHTfXjnInUelLbrE0byDnf16z1cVePSo2pRHA6zAiQtiFbYPOwnfa0xlZQ%3D%3D)**
 
-Hotter inflation and slower growth delivers a messy message with the Federal Reserve likely take its time before any policy changes, one analyst said.
-
-CoinDesk • 19h ago
-
----
-
-**[Connecting Excellence OTCQB debut & 1,000 Bitcoin target explained - ICYMI](https://uk.finance.yahoo.com/news/connecting-excellence-otcqb-debut-1-074503838.html)**
-
-Connecting Excellence Group Plc (AQSE:XCE, OTCQB:XCELF) CEO Scott Ellam talked with Proactive about the company’s international executive recruitment business and its disciplined Bitcoin treasury strategy. Connecting Excellence Group Plc operates as an international executive recruitment firm...
-
-Yahoo Finance UK • 3h ago
-
----
-
-**[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
-
-Bloomberg.com • 1d ago
+Barron's • 1d ago
 
 ---
 
@@ -219,19 +225,11 @@ Futurism • 19h ago
 
 ---
 
-**[Bitcoin zero? Crypto evangelists have run out of stories to tell](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-bitcoin-cryptocurrency-speculation-investing/)**
+**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
 
-Bitcoin has become a vessel of pure speculation
+Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-The Globe and Mail • 1d ago
-
----
-
-**[Bitcoin remains below key onchain level as ETF outflows persist, liquidity stays tight: analysts](https://www.theblock.co/post/390602/bitcoin-remains-below-key-onchain-level-as-etf-outflows-persist-liquidity-stays-tight-analysts)**
-
-Analysts warned that weak ETF flows, constrained liquidity, and fragile accumulation are keeping bitcoin's price rangebound and indecisive.
-
-The Block • 23h ago
+Nasdaq • 19h ago
 
 ---
 
@@ -279,13 +277,13 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 16h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 17h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
-⬆️ 1 • 💬 0 • 23h ago
+⬆️ 1 • 💬 0 • 1d ago
 
 ---
 
@@ -321,37 +319,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 171 • ⏱️ 9:14 • 11h ago
-
----
-
-**[Michael Saylor ADMITS He Was Wrong About Bitcoin bear market!! | EP 1445](https://www.youtube.com/watch?v=8gtLPHA-dcI)**
-
-Michael Saylor finally admits bitcoin is in a bear market - but the question is how long will this one last and is he concerned?
-
-📺 Simply Bitcoin
-
-👁️ 7K • 👍 334 • 💬 49 • ⏱️ 1:11:34 • 16h ago
-
----
-
-**[WATCH OUT Bitcoin Investors...This Is Days Away](https://www.youtube.com/watch?v=EH6Mp9d0RuA)**
-
-Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
-
-📺 CryptosRUs
-
-👁️ 23K • 👍 1K • 💬 95 • ⏱️ 55:11 • 19h ago
-
----
-
-**[When Bitcoin Gets This Oversold, Buy Signal Follows](https://www.youtube.com/watch?v=bmb7tm-jTHo)**
-
-Bitcoin is down roughly 50% from its all-time high, and sentiment is collapsing. But what does historical data say about buying ...
-
-📺 Swan Bitcoin
-
-👁️ 11K • 👍 648 • 💬 52 • ⏱️ 16:21 • 21h ago
+👁️ 43K • 👍 2K • 💬 184 • ⏱️ 9:14 • 12h ago
 
 ---
 
@@ -361,7 +329,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 25K • 👍 1K • ⏱️ 24:35 • 13h ago
+👁️ 27K • 👍 1K • ⏱️ 24:35 • 13h ago
 
 ---
 
@@ -371,15 +339,17 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 101 • ⏱️ 12:39 • 12h ago
+👁️ 20K • 👍 1K • 💬 110 • ⏱️ 12:39 • 12h ago
 
 ---
 
-**[TRUMP LIED ABOUT CRYPTO? XRP LEADS OVER BITCOIN #xrp #trump #crypto #bitcoin](https://www.youtube.com/watch?v=44gk_-xDHF8)**
+**[WATCH OUT Bitcoin Investors...This Is Days Away](https://www.youtube.com/watch?v=EH6Mp9d0RuA)**
 
-📺 CryptoWendyO
+Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' X ...
 
-👁️ 11K • 👍 608 • 💬 14 • ⏱️ 2:12 • 9h ago
+📺 CryptosRUs
+
+👁️ 24K • 👍 1K • 💬 98 • ⏱️ 55:11 • 19h ago
 
 ---
 
@@ -393,13 +363,39 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 ---
 
-**[This Bitcoin Rally That I Predicted on February 5th &amp; 6th is a BULL TRAP - New BTC Lows are Coming](https://www.youtube.com/watch?v=8t5D_7hctNQ)**
+**[TRUMP LIED ABOUT CRYPTO? XRP LEADS OVER BITCOIN #xrp #trump #crypto #bitcoin](https://www.youtube.com/watch?v=44gk_-xDHF8)**
 
-Thank you for taking the time to watch. If you want to support these videos, you can do so by following this link. Tips and Donations ...
+📺 CryptoWendyO
 
-📺 Doctor of Pump & Dump
+👁️ 12K • 👍 659 • 💬 16 • ⏱️ 2:12 • 9h ago
 
-👁️ 5K • 👍 449 • ⏱️ 26:22 • 13h ago
+---
+
+**[When Bitcoin Gets This Oversold, Buy Signal Follows](https://www.youtube.com/watch?v=bmb7tm-jTHo)**
+
+Bitcoin is down roughly 50% from its all-time high, and sentiment is collapsing. But what does historical data say about buying ...
+
+📺 Swan Bitcoin
+
+👁️ 12K • 👍 666 • 💬 54 • ⏱️ 16:21 • 21h ago
+
+---
+
+**[Gold vs Bitcoin: The New Monetary Order](https://www.youtube.com/watch?v=e1LnfsBTZ4A)**
+
+📺 Andrei Jikh
+
+👁️ 22K • 👍 411 • 💬 40 • ⏱️ 0:49 • 18h ago
+
+---
+
+**[This Trade Works EVERY Time Bitcoin Moves 🪙📈](https://www.youtube.com/watch?v=0_9Ke23WqZc)**
+
+LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications to know when we're on ✓ CONNECT on IG, ...
+
+📺 Dumb Money Live
+
+👁️ 5K • 👍 208 • 💬 10 • ⏱️ 1:02 • 8h ago
 
 ---
 
@@ -409,7 +405,7 @@ Bitcoin #Crypto #Finance Washington's tone toward crypto is shifting and the pus
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 759 • 💬 130 • ⏱️ 57:26 • 19h ago
+👁️ 16K • 👍 768 • 💬 131 • ⏱️ 57:26 • 19h ago
 
 ---
 
