@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T21:24:24.872551+00:00'
+updated: '2026-02-21T21:47:28.007823+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
 - news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 21:24 UTC  
+**Last Updated:** February 21, 2026 at 21:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -202,7 +202,7 @@ Business Insider • 3d ago
 
 **[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqd4dioOCeuntDUke-pCdjE4Lg_tdM81D8dTxbaqTX18HToWSgJ_Egb8&gaa_ts=699a1df3&gaa_sig=oFhv4YabZ3lFNT8yY6jpvIZFuOVSei8ywPHChXLvRfD8ARDfbWW4vPVpDbz78xb36Q_ZBEST_01P1Yg5IUGYmw%3D%3D)**
 
-Barron's • 1d ago
+Barron's • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 5 • ⏱️ 4:43 • 6h ago
+👁️ 1K • 👍 117 • 💬 5 • ⏱️ 4:43 • 7h ago
 
 ---
 
