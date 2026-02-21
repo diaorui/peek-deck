@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T23:25:47.085417+00:00'
+updated: '2026-02-21T23:47:52.731739+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 23:25 UTC  
+**Last Updated:** February 21, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -152,9 +152,9 @@ Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and 
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
+**[BNP Paribas taps Ethereum for new money market fund tokenization pilot](https://www.theblock.co/post/390686/bnp-paribas-taps-ethereum-new-money-market-fund-tokenization-pilot)**
 
-FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
+The tokenized shares were issued by the BNP Paribas’ AssetFoundryTM platform using a "permissioned access model on Ethereum."
 
 The Block • 1d ago
 
@@ -165,14 +165,6 @@ The Block • 1d ago
 At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
 
 Decrypt • 9h ago
-
----
-
-**[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
-
-The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
-
-CoinDesk • 4h ago
 
 ---
 
@@ -192,17 +184,11 @@ Fortune • 1d ago
 
 ---
 
-**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
+**[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
 
-BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
+The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqffi28I1w1hFBNr2CbwKn5XGVYYKjtIqD7TDAFyqcWIPNU6GkXbhbF3&gaa_ts=699a3459&gaa_sig=H-xt-kSkpSci7h5G2wEqw0Y4MVLwL2BTbRFE-mV3neONyTYml_f77Jt_o-XtpKNlfRa-MPVg2_vEJ7jaVuZRaw%3D%3D)**
-
-Barron's • 2d ago
+CoinDesk • 4h ago
 
 ---
 
@@ -222,11 +208,23 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitmine Immersion: Ethereum's Biggest Public Whale (NYSE:BMNR)](https://seekingalpha.com/article/4871611-bitmine-immersion-ethereum-biggest-public-whale)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqcQilBZAczFGVgonoo-1CHc9LM5h0LKgLo22kby_OBw_hFvqYXRxLTc&gaa_ts=699a4798&gaa_sig=zk3O5tMJ0VWI5JOIptTHq3ddZMV5Dgv-Tp4pveG6wWeEMFW9yZuo4_fx32WPmC6siLy07zuHOGM8-WwohsTkXw%3D%3D)**
 
-Asymmetric upside for Bitmine Immersion Technologies is likely if Ethereum (and the whole crypto space) recovers from the recent downtrend. More on BMNR stock.
+Barron's • 2d ago
 
-Seeking Alpha • 3d ago
+---
+
+**[Key facts: Ethereum Drops 34% to $1,955; Consolidation Pattern Forms](https://www.tradingview.com/news/tradingview:9cce689faebbf:0-key-facts-ethereum-drops-34-to-1-955-consolidation-pattern-forms/)**
+
+TradingView • 23h ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1771676400)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -260,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:43 • 8h ago
+👁️ 2K • 👍 126 • 💬 5 • ⏱️ 4:43 • 9h ago
 
 ---
 

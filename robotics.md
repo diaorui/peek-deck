@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T23:25:47.088644+00:00'
+updated: '2026-02-21T23:47:52.734998+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 23:25 UTC  
+**Last Updated:** February 21, 2026 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ Meet Sprout, a humanoid platform for developers, enterprises, and researchers—
 
 I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I am not sure how much of this is for show or how much it could be real. ok moving turret while tracking mosquitos, plenty of examples online but a camera able to recognize them and so much tiny ? a laser so powerful to kill them midair? I am wondering if this is real or just a show and in case where to start to learn how to build own myself. I would appreciate any tip or comment to lead on where to document myself on the hardware for the software i've seen plenty of good libraries in python - or other languages - but i am more interested on which kind of hardware to look for and calculation for power consumption.
 
-11h ago
+12h ago
 
 ---
 
@@ -98,7 +98,7 @@ Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using M
 
 idk if anyone will know about this but does anybody remember hanson robotics who created the robot sophia that was famous a while. Then on their website advertised "little sophia" as a robot companion with their kickstarter. The website still says "preorder" and has been outdated for years. Did they go bankrupt? Out of business? Run off with the kickstarter money? There isn't an adequate rabbit hole I can jump down about this I can't find any info online about this. Their website is preserved the same as it was in 2022 or something so obviously something was abandoned or whatever. I just wanna know mostly out of curiosity, because it seems strange that it was just abandoned and forgotten.
 
-16h ago
+17h ago
 
 ---
 
@@ -130,6 +130,14 @@ Business Insider • 1d ago
 
 ---
 
+**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
+
+Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
+
+Automotive News • 2d ago
+
+---
+
 **[Video Friday: Humanoid Robots Celebrate Spring](https://spectrum.ieee.org/robot-martial-arts)**
 
 Celebrate the Lunar New Year with a synchronized martial arts demo by humanoid robots and cuddling robot pandas! Plus Perseverance finds itself.
@@ -144,25 +152,17 @@ Tech Xplore • 1d ago
 
 ---
 
-**[This robot can fold your laundry – but not without a helping hand](https://newatlas.com/robotics/weave-robotics-isaac-robot-fold-laundry-teleoperation/)**
-
-Less than two years since it was founded, San Francisco-based startup Weave Robotics is accepting pre-orders for its first home robot, which promises to do one thing well: fold your laundry.
-
-New Atlas • 12h ago
-
----
-
 **[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
 
 Zacks Investment Research • 2d ago
 
 ---
 
-**[Indian university faces backlash for claiming Chinese robodog as own at AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
+**[This robot can fold your laundry – but not without a helping hand](https://newatlas.com/robotics/weave-robotics-isaac-robot-fold-laundry-teleoperation/)**
 
-A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
+Less than two years since it was founded, San Francisco-based startup Weave Robotics is accepting pre-orders for its first home robot, which promises to do one thing well: fold your laundry.
 
-BBC • 3d ago
+New Atlas • 12h ago
 
 ---
 
@@ -174,11 +174,11 @@ Nasdaq • 1d ago
 
 ---
 
-**[Toyota contracts seven Agility humanoid robots for Canadian factory](https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/)**
+**[Robot dog: Galgotias University faces backlash for claiming Chinese product as own at India AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
 
-The robots will be unloading totes full of auto parts from an automated warehouse tugger.
+A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
 
-TechCrunch • 2d ago
+BBC • 3d ago
 
 ---
 
@@ -200,7 +200,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 23K • 👍 184 • 💬 95 • ⏱️ 2:14 • 20h ago
+👁️ 23K • 👍 184 • 💬 95 • ⏱️ 2:14 • 21h ago
 
 ---
 
@@ -260,7 +260,7 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 
 📺 AI Revolution
 
-👁️ 60K • 👍 1K • 💬 161 • ⏱️ 12:43 • 5d ago
+👁️ 60K • 👍 1K • 💬 161 • ⏱️ 12:43 • 6d ago
 
 ---
 

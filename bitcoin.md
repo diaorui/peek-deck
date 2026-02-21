@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T23:25:47.079394+00:00'
+updated: '2026-02-21T23:47:52.725653+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
-- news
 - social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 23:25 UTC  
+**Last Updated:** February 21, 2026 at 23:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-9h ago
+10h ago
 
 ---
 
@@ -97,7 +97,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-3h ago
+4h ago
 
 ---
 
@@ -157,17 +157,27 @@ I am considering yoloing my daughters' investments at it, I think it seems inter
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
-
-Bloomberg.com • 2d ago
-
----
-
 **[‘Bitcoin to zero’ searches spike in the U.S., but the bottom signal is mixed](https://www.coindesk.com/markets/2026/02/22/bitcoin-to-zero-searches-spike-in-the-u-s-but-the-bottom-signal-is-mixed)**
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
+
+---
+
+**[Bitcoin analysis: Small investors, or shrimps, are buying BTC. But it's the whales who keep rallies going.](https://www.coindesk.com/markets/2026/02/21/small-investors-are-buying-bitcoin-it-now-needs-bigger-players-to-show-up)**
+
+Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
+
+CoinDesk • 18h ago
+
+---
+
+**[Jim Cramer Says Cryptos Are 'Getting Slaughtered,' Dismisses Bitcoin As Iranian War Hedge](https://finance.yahoo.com/news/jim-cramer-says-cryptos-getting-233120436.html)**
+
+Jim Cramer took to social media platform X on Thursday to question the cryptocurrency market, specifically questioning Bitcoin's (CRYPTO: BTC) utility during periods of geopolitical instability. Cramer Dismisses “Iranian War Hedge” Narrative As tensions between the U.S. and Iran reach...
+
+Yahoo Finance • 16m ago
 
 ---
 
@@ -175,7 +185,7 @@ CoinDesk • 3h ago
 
 On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -191,27 +201,21 @@ Bitcoin Magazine • 1d ago
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin Rises After Supreme Court Rules Against Trump Tariffs](https://finance.yahoo.com/news/bitcoin-rises-supreme-court-rules-172049557.html)**
+**[Altcoins Outperform Bitcoin After Supreme Court Tariff Ruling: Altcoin Season Starting?](https://www.tradingview.com/news/coinpedia:e0121ca0e094b:0-altcoins-outperform-bitcoin-after-supreme-court-tariff-ruling-altcoin-season-starting/)**
 
-Bitcoin ticked up after the Supreme Court ruled that President Trump exceeded his authority in imposing most tariffs on foreign goods.
+BNB, DOGE, ADA, and SOL each gained 3 to 4% in the last 24 hours while Bitcoin sat still. The total crypto market climbed 1.39% to $2.33 trillion, and the move came from altcoins, not BTC.What triggered the rotation? The U.S. Supreme Court ruled 6-3 that President Trump’s global tariffs were illega…
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bloomington man loses $7,600 in Bitcoin to suspect posing as sheriff’s deputy in jury duty scam](https://fox59.com/news/indynews/bloomington-man-loses-7600-in-bitcoin-to-suspect-posing-as-sheriffs-deputy-in-jury-duty-scam/)**
-
-Fox 59 • 1d ago
+TradingView • 13h ago
 
 ---
 
 **[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
 
-Forbes • 10h ago
+Forbes • 11h ago
 
 ---
 
@@ -223,9 +227,11 @@ The Block • 2d ago
 
 ---
 
-**[How ETF flows can amplify Bitcoin’s price swings](https://www.marketwatch.com/video/mwi-clips/how-etf-flows-can-amplify-bitcoins-price-swings/432E5C3C-4D11-449A-A556-C47C1AD3AD72.html?gaa_at=eafs&gaa_n=AWEtsqftCLiP6WerhbXezKOtYMOZsvgbRGdgFxhjUkxFFjiHdNDI_52vbhOs&gaa_ts=699a3457&gaa_sig=-56qjLQK3twM64AAJkzYual_ojngm3kAB1RkwnFKQc3DA6gJhsAJ_Eetu1GoILYTd1oqRa7rTNkQ1I5s931fxQ%3D%3D)**
+**[JPMorgan announces Bitcoin mining leader](https://www.thestreet.com/crypto/markets/jpmorgan-announces-bitcoin-mining-leader)**
 
-MarketWatch • 1d ago
+This comes at a time when Bitcoin miners are increasingly pivoting out of the sector.
+
+thestreet.com • 3d ago
 
 ---
 
@@ -313,7 +319,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 59K • 👍 3K • 💬 234 • ⏱️ 9:14 • 23h ago
+👁️ 59K • 👍 3K • 💬 234 • ⏱️ 9:14 • 1d ago
 
 ---
 
@@ -343,7 +349,7 @@ Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Dig
 
 📺 Money Talks
 
-👁️ 405 • 👍 31 • 💬 38 • ⏱️ 15:10 • 4h ago
+👁️ 405 • 👍 31 • 💬 38 • ⏱️ 15:10 • 5h ago
 
 ---
 
