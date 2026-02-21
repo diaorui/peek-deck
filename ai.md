@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T15:26:10.522847+00:00'
+updated: '2026-02-21T15:49:31.143877+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 15:26 UTC  
+**Last Updated:** February 21, 2026 at 15:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,23 +41,7 @@ AI news, discussions, and developments
 
 Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 21h ago
-
----
-
-**[OpenAI will reportedly release an AI-powered smart speaker in 2027. The company is also said to be working on smart glasses and a smart lamp.](https://www.reddit.com/r/artificial/comments/1radki3/openai_will_reportedly_release_an_aipowered_smart/)**
-
-OpenAI may release its first AI-powered consumer device in 2027.
-
-🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 14h ago
-
----
-
-**[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://www.reddit.com/r/artificial/comments/1raocs3/dreamdojo_a_generalist_robot_world_model_from/)**
-
-"Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
-
-🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 4h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 22h ago
 
 ---
 
@@ -69,11 +53,43 @@ So I had this idea: what if you took a Reddit/HN-style platform but every single
 
 ---
 
+**[OpenAI will reportedly release an AI-powered smart speaker in 2027. The company is also said to be working on smart glasses and a smart lamp.](https://www.reddit.com/r/artificial/comments/1radki3/openai_will_reportedly_release_an_aipowered_smart/)**
+
+OpenAI may release its first AI-powered consumer device in 2027.
+
+🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 14h ago
+
+---
+
+**[AI Slop Is Destroying the Internet. These Are the People Fighting to Save It](https://www.reddit.com/r/artificial/comments/1rau6e8/ai_slop_is_destroying_the_internet_these_are_the/)**
+
+AI slop is an oil spill in our digital oceans. The cleanup depends on all of us doing our part.
+
+🔗 [CNET](https://www.cnet.com/tech/services-and-software/features/ai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it/?utm_medium=email&utm_source=ten_tabs&utm_campaign&position=7&category=fascinating_stories&scheduled_corpus_item_id=b50a9a6d-a476-423e-a0a1-43bfdd48060d&url=https%3A%2F%2Fwww.cnet.com%2Ftech%2Fservices-and-software%2Ffeatures%2Fai-slop-is-destroying-the-internet-these-are-the-people-fighting-to-save-it%2F) • 10m ago
+
+---
+
+**[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://www.reddit.com/r/artificial/comments/1raocs3/dreamdojo_a_generalist_robot_world_model_from/)**
+
+"Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
+
+🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 4h ago
+
+---
+
 **[How a Pittsburgh man is harnessing AI to keep ALS from stealing our voices](https://www.reddit.com/r/artificial/comments/1rafr6g/how_a_pittsburgh_man_is_harnessing_ai_to_keep_als/)**
 
 Full Article Text David Betts created an AI-powered text-to-speech app, Talk To Me, Goose, that allows people with ALS and other disabilities to speak with their own voice. On a quiet, cold day inside his Mount Washington home, David Betts sits in his living room, framed by sweeping views of Downtown Pittsburgh. The walls and shelves hold evidence of a life spent pushing limits—Ironman race medals, cycling gear, professional accolades and more—yet Betts steers the conversation away from himself. Instead, he tells story after story about the people who have inspired him. This is an instinct that has only deepened since his diagnosis of amyotrophic lateral sclerosis—a progressive neurodegenerative disease with no cure. Betts jokes easily, carrying himself like someone long accustomed to hard goals and harder work. “Yeah, I’ve been known to be a little relentless.” Relentless is one way to put it. Before ALS entered his life, Betts was a senior leader at Deloitte, a healthcare consultant and an endurance athlete who completed Ironman triathlons and a seven-day stage race through the Alps—“the hardest amateur cycling event in the world.” After nearly 22 years with Deloitte, he retired in January. At his retirement party, colleagues presented him with a bicycle covered in name tags, each person choosing a part—from training wheels to handlebar and pedals—that represented how they saw him. “The ones that make me the happiest are the training wheels,” he admitted, tears springing to his eyes. Now 56, Betts is facing a different kind of challenge. He is living with ALS, also known as Lou Gehrig's disease, a fatal disease affecting the body’s nerve cells. ALS eventually causes nerve cells to cease functioning and die, ultimately leading to extreme muscle weakness, paralysis and death, according to the CDC. Both the causes of ALS and the exact number of those who have the disease are mostly unknown. The CDC suggests about 30,000 Americans are living with the disease and an additional 5,000 are diagnosed annually. Instead of retreating inward, Betts has spent the past year building outward, creating an AI-powered communication app designed to help people with ALS continue speaking in their own voice, tone and intent—even after their natural voice begins to fade. Betts named the app—Talk To Me, Goose —as a nod to the 1980s film “Top Gun” and a phrase that the character Maverick (Tom Cruise) utters during the final dogfight scene when he’s grasping for focus, guidance and courage. Maverick repeats the emotional line in the sequel, released in 2022. ‘I knew something was wrong’ Long before his ALS diagnosis, Betts sensed that something in his body had changed. Tiny signs emerged—twitches, cramps, fatigue, changes in his speech. Despite his fitness, something was off and not everyone took him seriously. Many doctors “weren’t listening to me about what I was experiencing.” After months of searching for answers, Betts received his diagnosis in December 2024 at the Sean M. Healey and AMG Center for ALS in Boston. The verdict: sporadic ALS, with no known genetic cause. ALS is terminal. Most patients survive less than five years. Betts heard that prognosis—and promptly chose not to dwell on it. “They told me most people get two to five years. Go get your affairs in order. That kind of thing, I don’t listen to.” Fear is unavoidable, he says, but inaction is a choice. “Yes, I’m terrified. I know what’s going to happen. I can’t let that consume me. Otherwise I wouldn’t move. I’d be paralyzed without being paralyzed.” The symptom that scared Betts most wasn’t losing mobility—it was speech. His ability to communicate had led him from bachelor’s and master’s degrees in theater arts to an MBA at Carnegie Mellon University to a principal role within Deloitte, where he was a highly sought-after problem solver in the life sciences and health care industries. Betts knew what awaited him if he did nothing. “All I could think about was the Speak & Spell-like voice that Stephen Hawking had.” He found that unacceptable—not just personally but also philosophically. “It’s 2024. There must be something better,” he kept telling himself. Betts saw a deeper failure in how assistive communication has been handled for decades. “We ask people to settle for far less than what’s possible, and we’ve been doing it for far too long.” So he did what he’s always done when confronted with a hard problem. “I’m a problem solver,” he said. “That’s my job. I solve problems.” Building a voice from scratch Despite having no background in app development, Betts decided to build the solution himself. “I can wait, or I can figure it out. What do I have to lose?” Betts enrolled in online coding courses. He got frustrated. He got bored. He leaned heavily on artificial intelligence tools, not to replace thinking but to accelerate it. “I used it very much like a teammate,” he said. Within weeks, he had a working prototype. Within months, a full app. “I didn’t know how long I’d have my voice. I still don’t.” Using voice-cloning technology from ElevenLabs—an advanced AI voice technology company founded in 2022—Betts discovered something startling. “It took me, like, 30 15-second clips to make my first voice clone.” When he played it back, the result stopped him cold. “This sounds like me,” he realized, stunned. The technology already existed, but no one had put it together yet in a way that honored identity, emotion and timing. “If we can make a deep fake of Tom Cruise,” then the potential to use that same power for good is already there, Betts said. Closing the ‘awkward pause’ One of Betts’ central missions for the app is solving what he calls “the awkward pause”—the silence that creeps in when someone types too slowly to be part of a conversation. That lag causes others to psychologically disengage, he explained, because it takes too long to type what you want to say. The pause is where isolation creeps in and where connection fails. Typing speeds for many assistive devices average six words per minute—far too slow, in Betts’ opinion. His app predicts intent, mood and tone—allowing users to speak faster, more naturally and with emotional range. The emotional heart of the project arrived via a Montana family that Betts connected with through their shared ALS journey. The father, who died Jan. 26, was in the advanced stages of the disease and had not been able to speak for some time. Using his cloned voice and Betts’ app, he was able to tell his three children a bedtime story—something his youngest had never heard him do before. Hearing about that connection between the father and his children touched Betts’ heart. He remembers telling his wife, Anne Mundell, “I don’t care if anyone ever uses the app again. Mission accomplished.” Expanding outward In April, Betts introduced himself to the ALS community on Facebook. A message arrived from Wendy Faust, executive director of the Live Like Lou Foundation, a national nonprofit organization established in 2017 to assist ALS patients. Named for MLB Hall of Famer Lou Gehrig, it focuses on “leaving ALS better than we found it” through grants, volunteer support and research initiatives. What followed was a cascade of coincidences with Faust: shared hometowns in Southern California, mutual friends, Pittsburgh ties and even a Deloitte connection through a Live Like Lou board member whose daughter previously had worked on Betts’ team. “It was crazy,” he said, laughing. Today, Talk To Me, Goose is available for free to people living with ALS in the U.S. and Canada through Live Like Lou. The app works in 31 languages, across Apple, Android and Windows platforms—including a Windows beta version that Betts released on Christmas Day. “It was my Christmas gift to myself.” He spent that holiday debugging voice speed settings for a woman who needed it immediately. Globally, Betts sees a much larger horizon: “There’s 97 million people globally who would benefit from assistive technology.” He is scheduled to speak this month at the United Nations Office in Vienna after being selected as a Zero Project Awardee and speaker for his work on the app. The Zero Project, founded in 2008, is a global initiative dedicated to creating a world with zero barriers for people with disabilities. It identifies, researches and shares innovative scalable solutions, particularly focusing on themes like employment. Talk to Me, Goose will be recognized with a Zero Project Award, “reflecting its strong endorsement by the global disability innovation community,” Wilfried Kainz, Zero Project’s head of research, said in an email. The app was selected by more than 400 experts from 586 nominations across 93 countries. “David Betts' application exemplifies how innovators can harness the power of assistive technology for rapid development and deployment at scale,” Kainz said. “It is particularly noteworthy for its highly innovative use of AI to bring rich, human texture into generated speech, setting a compelling benchmark for inclusive voice technology.” A lasting legacy To help sustain the free ALS app, Betts created a companion storytelling platform called Fables Adventures—a for-profit story-generating app. Betts and his wife together founded Mundell Designs as the umbrella for the technology he is tinkering with in retirement. The small, mission-driven company is the home of Talk To Me, Goose and Fables Adventures. The couple has personally invested in the company, allowing Betts to focus less on profit and more on access, advocacy and scale. Fables arose as a way “to support my habit of wanting to give things away,” he says, laughing. Subscriptions, audio stories and community-created content help fund free access to Talk To Me, Goose for people with ALS in the U.S. and Canada through the Live Like Lou Foundation—a model Betts hopes will allow the company to sustain both creativity and care. The effort has already raised more than $81,000 for Live Like Lou, with a goal of $250,000 this year. He’s also become an advocate for federal ALS policy, pushing for reauthorization of the ACT for ALS legislation before it expires in 2026. “Without that, I think we’re just going to slow down finding a cure.” Ever onward Betts still rides his bike. Still climbs stairs. Still measures progress—without obsessing. “I don’t like to measure, but I take inventory.” He can no longer climb hills near his house, but he can still ride his bicycle by the river. “I say, ‘Not yet.’ I say ‘Not yet’ a lot.” He recently committed to riding 50 miles for Faust’s 50th birthday: “I’ve got 41 more to go.” Relentless, indeed. People often ask if he’s angry. “I don’t have time to be angry. I don’t have the energy to be angry. I choose joy.” He points to a book by Hanna Du Plessis, “Bedsores and Bliss: Finding Fullness of Life with a Terminal Diagnosis” (Okay Then, $18.57), and a concept that he gleaned from her words and that guides him now: “Grieve with abandon all that is lost and then pause and reflect on everything that is still possible.” Betts has done both. In the process, he has given thousands of people something many thought they would lose forever: their own voice.
 
 🔗 [Pittsburgh Post-Gazette](https://www.post-gazette.com/life/goodness/2026/02/01/als-ai-voice-app-david-betts-pittsburgh/stories/202602010037) • 12h ago
+
+---
+
+**[How can a government actually stop or control AI?](https://www.reddit.com/r/artificial/comments/1rasu2g/how_can_a_government_actually_stop_or_control_ai/)**
+
+Seeking legal and technical answers. Working with some people on this question and we keep reaching a conclusion that it can't. That it's not possible. AI can exist anywhere in the world, governed under others' laws (or none at all). It can't be blocked since the internet can't technically, actually, block something. It can be accessed through countless channels, apps, or experiences. Is there a legitimate way in which AI can technically and truly be made safe or controlled? Important question for reasons we don't think everyone realizes. If the answer is "no" then politicians are effectively causing harm by pretending they can... They pander votes under false pretenses and they set a false sense of security that we'll be safe because they'll make laws to protect us. It's like passing a law requiring that fire not hurt us. Sure, pass the law, but it's not possible for it to be so.
+
+1h ago
 
 ---
 
@@ -101,22 +117,6 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 ---
 
-**[I built an AI that turns file organization into a conversation - no rules engine to learn](https://www.reddit.com/r/artificial/comments/1ra3sle/i_built_an_ai_that_turns_file_organization_into_a/)**
-
-So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
-
-20h ago
-
----
-
-**[Real production comparison: ElevenLabs vs PlayHT vs Azure TTS vs Cartesia for phone-quality voice AI](https://www.reddit.com/r/artificial/comments/1ra81v9/real_production_comparison_elevenlabs_vs_playht/)**
-
-We’ve been running voice AI agents in production for 18+ months doing real phone calls (outbound lead qualification and inbound customer care). During this time we’ve tested multiple TTS providers. Sharing our honest assessment because most “comparisons” online are either sponsored or based on 30-second demos, not thousands of hours of real phone conversations. Important context: our use case is Italian-language phone calls over standard telephony (not VoIP, not in-app), which is a harder test than English because fewer models are optimized for it. We process audio at 16kHz. ElevenLabs (currently in production): Best Italian voice quality by far. Prosody is natural, handles pauses well, emotional range is good. Latency for TTS generation is acceptable in our streaming setup. Downsides: pricing at scale gets expensive, and occasionally the voice “glitches” on certain phonemes. We’ve found that the voice stability is very dependent on how you structure your input text — short sentences work dramatically better than long ones. Azure Neural TTS: Rock solid reliability, great latency, good pricing. Italian voices are okay but sound “flat” compared to ElevenLabs — like a newsreader vs a real person. For customer care this works fine. For outbound sales calls where you need warmth and persuasion, it wasn’t cutting it. PlayHT: Tested their v2 API. English quality is impressive. Italian was noticeably worse — unnatural stress patterns, weird pauses between words. Might work for English-only deployments. Cartesia: Very promising on latency (their streaming is genuinely fast). Voice quality for English is good. Italian support was limited when we tested. Worth watching. The metric that matters most for us isn’t MOS score or any standard quality metric — it’s what we call “first 5 second detection rate,” meaning how often the person being called realizes they’re talking to AI within the first 5 seconds. With ElevenLabs we’re at roughly 15-20%. With Azure it was closer to 40%. That gap is massive for outbound conversion. Has anyone done serious production testing of TTS providers for non-English languages? Also very curious about Cartesia’s Italian/European language support — their architecture seems promising but I haven’t seen real multilingual benchmarks. And for anyone using Deepgram or AssemblyAI on the STT side: how’s Italian transcription accuracy for you?
-
-18h ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -135,41 +135,25 @@ The Guardian • 7h ago
 
 ---
 
-**[Not so fast: Quick-moving AI leaves accountability behind in the dust](https://thehill.com/opinion/healthcare/5747516-ai-decision-responsibility-gap/)**
+**[The Country That’s Madly in Love With AI](https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618)**
 
-The Hill • 2h ago
-
----
-
-**[Opinion | Progressives for news media regulation](https://www.washingtonpost.com/opinions/2026/02/21/new-york-ai-media/)**
-
-New York legislation would tell publishers how they can and can’t use artificial intelligence.
-
-The Washington Post • 2h ago
+Politico • 49m ago
 
 ---
 
-**[Mark Cuban says AI won’t take your job anytime soon because it still acts like a hungover college intern—with a $100K price tag to show for it](https://fortune.com/2026/02/20/mark-cuban-smartest-counter-artificial-intelligence-stealing-jobs-six-figure-price-tag-lacks-awareness-ai-layoffs/)**
+**[Sam Altman Says Companies Are ‘AI Washing’ Layoffs](https://gizmodo.com/sam-altman-says-companies-are-ai-washing-layoffs-2000724759)**
 
-As tech CEOs predict mass job displacement, billionaire former Shark Tank star Mark Cuban just revealed the “smartest counter” to that narrative.
+Hold up, let him cook.
 
-Fortune • 23h ago
-
----
-
-**[Nascent tech, real fear: how AI anxiety is upending career ambitions](https://www.theguardian.com/technology/ng-interactive/2026/feb/20/ai-future-work-technology-white-collar)**
-
-AI has convinced computer science students to shift majors and white-collar workers to change careers, while some are embracing it
-
-The Guardian • 19h ago
+Gizmodo • 34m ago
 
 ---
 
-**[The CEO of a $1 billion AI unicorn says his peers have a blind spot for AI taking jobs](https://fortune.com/2026/02/21/will-ai-take-my-job-coders-software-engineers-really-screwed/)**
+**[Gemini 3.1 Pro: A smarter model for your most complex tasks](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)**
 
-Tanmai Gopal of PromptQL said tech people have a bad habit of thinking "this affects me. So it's going to affect everyone like that."
+3.1 Pro is designed for tasks where a simple answer isn’t enough.
 
-Fortune • 2h ago
+blog.google • 1d ago
 
 ---
 
@@ -177,23 +161,37 @@ Fortune • 2h ago
 
 Tech and world leaders flocked to New Delhi for the India AI Impact Summit
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[AI hit: India hungry to harness US tech giants’ technology at Delhi summit](https://www.theguardian.com/world/2026/feb/20/india-delhi-summit-ai-technology-us-economic-growth)**
+**[At A.I. Summit, India Tries to Find a Way Between the U.S. and China](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html)**
 
-Narendra Modi’s thirst to supercharge economic growth is matched by US desire to inject AI into world’s biggest democracy
-
-The Guardian • 22h ago
+The New York Times • 6h ago
 
 ---
 
-**[Urgent research needed to tackle AI threats, says Google AI boss](https://www.bbc.com/news/articles/c0q3g0ln274o)**
+**[Bill Gates pulls out of India's AI summit over Epstein files controversy](https://www.bbc.com/news/articles/c309qv9zglno)**
 
-But the head of the US delegation at the AI Impact Summit in Delhi says: "We totally reject global governance of AI."
+The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities".
 
-BBC • 1d ago
+BBC • 2d ago
+
+---
+
+**[Chelsea announce AI company IFS as shirt sponsor until end of season](https://www.espn.com/soccer/story/_/id/47988573/chelsea-announce-ai-company-ifs-shirt-sponsor-end-season)**
+
+Chelsea have announced that Artificial Intelligance firm IFS will be the club's front-of-shirt sponsor until the end of the season.
+
+ESPN • 19h ago
+
+---
+
+**[Mark Zuckerberg’s entourage threatened with contempt for wearing Meta AI glasses into a no-recording courtroom](https://fortune.com/2026/02/20/mark-zuckerbergs-contempt-of-court-meta-glasses-courtroom-trial-social-media-addiction/)**
+
+“This is very serious,” Judge Carolyn B. Kuhl said in response to the apparent product placement stunt.
+
+Fortune • 22h ago
 
 ---
 
@@ -205,7 +203,7 @@ BBC • 1d ago
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 764 • 💬 420 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 778 • 💬 424 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -213,7 +211,7 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 760 • 💬 198 • 1d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 776 • 💬 203 • 1d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
@@ -222,13 +220,13 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 688 • 💬 369 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 689 • 💬 369 • 1d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 520 • 💬 470 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 521 • 💬 471 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -236,7 +234,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 502 • 💬 552 • 1d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 503 • 💬 557 • 1d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -244,7 +242,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 224 • 💬 111 • 20h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 241 • 💬 122 • 20h ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -268,7 +266,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. Our retail clients grow their businesses through Meta Ads, and for a lot of them, it’s their single most important…
 
-⬆️ 140 • 💬 97 • 10h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
+⬆️ 140 • 💬 100 • 11h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 
 ---
 
@@ -310,7 +308,7 @@ AI might change the world… but that doesn't mean every AI stock survives. In t
 
 📺 Ross Givens
 
-👁️ 339 • 👍 31 • 💬 1 • ⏱️ 2:12 • 1h ago
+👁️ 339 • 👍 31 • 💬 1 • ⏱️ 2:12 • 2h ago
 
 ---
 

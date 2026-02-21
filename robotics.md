@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T15:26:10.540509+00:00'
+updated: '2026-02-21T15:49:31.161325+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 15:26 UTC  
+**Last Updated:** February 21, 2026 at 15:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -52,15 +52,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I am not sure how much of this is for show or how much it could be real. ok moving turret while tracking mosquitos, plenty of examples online but a camera able to recognize them and so much tiny ? a laser so powerful to kill them midair? I am wondering if this is real or just a show and in case where to start to learn how to build own myself. I would appreciate any tip or comment to lead on where to document myself on the hardware for the software i've seen plenty of good libraries in python - or other languages - but i am more interested on which kind of hardware to look for and calculation for power consumption.
 
-3h ago
-
----
-
-**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.reddit.com/r/robotics/comments/1ranhso/whos_laughing_now_chinas_humanoid_robots_go_from/)**
-
-China's humanoid robots have gone from viral stumbles to flawless kung fu flips in just one year. Showcased at the 2026 Spring Festival Gala, startups like Unitree are launching highly capable robots starting at just $13,500, heavily undercutting US competitors like Tesla's Optimus.
-
-🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 5h ago
+4h ago
 
 ---
 
@@ -76,7 +68,7 @@ Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using M
 
 idk if anyone will know about this but does anybody remember hanson robotics who created the robot sophia that was famous a while. Then on their website advertised "little sophia" as a robot companion with their kickstarter. The website still says "preorder" and has been outdated for years. Did they go bankrupt? Out of business? Run off with the kickstarter money? There isn't an adequate rabbit hole I can jump down about this I can't find any info online about this. Their website is preserved the same as it was in 2022 or something so obviously something was abandoned or whatever. I just wanna know mostly out of curiosity, because it seems strange that it was just abandoned and forgotten.
 
-8h ago
+9h ago
 
 ---
 
@@ -85,6 +77,14 @@ idk if anyone will know about this but does anybody remember hanson robotics who
 ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
 
 🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 19h ago
+
+---
+
+**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.reddit.com/r/robotics/comments/1ranhso/whos_laughing_now_chinas_humanoid_robots_go_from/)**
+
+China's humanoid robots have gone from viral stumbles to flawless kung fu flips in just one year. Showcased at the 2026 Spring Festival Gala, startups like Unitree are launching highly capable robots starting at just $13,500, heavily undercutting US competitors like Tesla's Optimus.
+
+🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 5h ago
 
 ---
 
@@ -132,30 +132,6 @@ Business Insider • 1d ago
 
 ---
 
-**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
-
-Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
-
-Automotive News • 2d ago
-
----
-
-**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.fool.com/investing/2026/02/20/teslas-3-trillion-opportunity-how-optimus-could-do/)**
-
-Tesla has a few robotics advantages that it's tapping into.
-
-The Motley Fool • 19h ago
-
----
-
-**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
-
-Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
-
-TechCrunch • 2d ago
-
----
-
 **[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
 
 Tech Xplore • 1d ago
@@ -170,25 +146,49 @@ IEEE Spectrum • 2d ago
 
 ---
 
-**[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
-
-Forbes • 1d ago
-
----
-
-**[Chinese AI and robotics firms appoint millennial, Gen Z stars as chief scientists](https://www.scmp.com/tech/big-tech/article/3343042/chinese-ai-and-robotics-firms-appoint-millennial-and-gen-z-rising-stars-chief-scientists)**
-
-Young talent drive AI innovation at Chinese tech firms, focusing on fundamental research and strategic planning for future technologies.
-
-South China Morning Post • 2d ago
-
----
-
 **[Trojan Horse or Trade Dispute? Texas Attorney General Targets Anzu in High-Stakes Drone Lawsuit](https://dronelife.com/2026/02/19/texas-ag-sues-anzu-robotics-dji-clone-lawsuit/)**
 
 Texas Attorney General Ken Paxton sues Anzu Robotics, alleging deceptive practices and undisclosed ties to DJI in Collin County court filing.
 
 Dronelife • 1d ago
+
+---
+
+**[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
+
+Zacks Investment Research • 2d ago
+
+---
+
+**[A robotic dog made in China gets an Indian university kicked out of an AI summit](https://www.nbcnews.com/world/asia/robotic-dog-made-china-gets-indian-university-kicked-ai-summit-rcna259682)**
+
+A professor said the robot was developed at Galgotias University, but internet users quickly identified it as being commercially available from China’s Unitree Robotics.
+
+NBC News • 2d ago
+
+---
+
+**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.nasdaq.com/articles/teslas-3-trillion-opportunity-how-optimus-could-dominate-robotics-market-2026)**
+
+Key PointsTesla is repurposing EV factories to build its Optimus robots.
+
+Nasdaq • 19h ago
+
+---
+
+**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
+
+Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
+
+Automotive News • 2d ago
+
+---
+
+**[Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings](https://finance.yahoo.com/news/beyond-tesla-nvidia-2-overlooked-134442037.html)**
+
+Everyone knows NVIDIA (NASDAQ:NVDA) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the days of humanoid robots ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -270,7 +270,7 @@ Viral: China's Humanoid Robots Take Center Stage For Lunar New Year Showtime | S
 
 📺 Mint
 
-👁️ 7K • 👍 87 • 💬 71 • ⏱️ 3:01 • 11h ago
+👁️ 7K • 👍 87 • 💬 71 • ⏱️ 3:01 • 12h ago
 
 ---
 

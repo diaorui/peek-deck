@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T15:26:10.531239+00:00'
+updated: '2026-02-21T15:49:31.152217+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 15:26 UTC  
+**Last Updated:** February 21, 2026 at 15:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,524.32
+### $68,699.18
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -0.5%  
-**30d:** -23.6%  
-**90d:** -22.6%  
-**1y:** -29.1%  
+**24h:** +1.1%  
+**7d:** -0.2%  
+**30d:** -23.4%  
+**90d:** -22.4%  
+**1y:** -28.9%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-1h ago
+2h ago
 
 ---
 
@@ -113,6 +113,14 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 ---
 
+**[Running a Bitcoin Full Node Video Tutorial](https://www.reddit.com/r/Bitcoin/comments/1rasy4c/running_a_bitcoin_full_node_video_tutorial/)**
+
+Quick post for those interested in understanding Bitcoin Core under the hood, at a technical level. Public-key cryptography, UTXOs, Consensus, Blockchain Synchronisation, and a lot more in this tutorial where we launch a Full Node on AWS EC2. Tutorial starts at 1:31:15
+
+🔗 [youtube.com](https://www.youtube.com/watch?v=fq0txiTIiFM) • 1h ago
+
+---
+
 **[Missouri #Btc Strategic Reserve bill advances to the House Commerce Committee.](https://www.reddit.com/r/Bitcoin/comments/1radrbh/missouri_btc_strategic_reserve_bill_advances_to/)**
 
 HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
@@ -121,27 +129,11 @@ HB 2080 would establish a reserve fund authorizing the state treasurer to accept
 
 ---
 
-**[Do you guys actually feel anything when the market drops anymore?](https://www.reddit.com/r/Bitcoin/comments/1ra7b74/do_you_guys_actually_feel_anything_when_the/)**
+**[The Longevity World Cup is now accepting Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rarid2/the_longevity_world_cup_is_now_accepting_bitcoin/)**
 
-I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
+Hi there, not sure if small business announcing their adoption of Bitcoin as a payment system on this sub is still a thing, but I'm from that era so excuse my ignorance: The Longevity World Cup is now accepting Bitcoin (both on-chain and through LN) with BTCPay and Wasabi Wallet. (Also accepting fiat shitcoins, kukks just released a stripe plugin for BTCPay, check it out) LWC is a competition in a new kind of sport, where athletes compete against each other on various biological aging clocks through their blood test results. Your are welcome to compete as well! One more thing.. we aren't accepting btc then converting it right away, we hodl it and pay our contributors and the prize money with it. This is to the circular economy. https://www.longevityworldcup.com/
 
-18h ago
-
----
-
-**[What are your thoughts on the 4-year cycle?](https://www.reddit.com/r/Bitcoin/comments/1raffd0/what_are_your_thoughts_on_the_4year_cycle/)**
-
-I constantly see people talking about the 4-year cycle with absolute conviction that it will hold true, claiming that we will see the true “bottom” this autumn. I recently put 30% of my portfolio into bitcoin following the crash, however I’m now considering selling (since it’s only gone sideways and I won’t be at a loss) and waiting for it to drop more before buying back in. I’m expecting a lot of Smartass Redditor responses but I’m interested in hearing peoples genuine thoughts on the 4-year cycle
-
-12h ago
-
----
-
-**[Daily Discussion, February 21, 2026](https://www.reddit.com/r/Bitcoin/comments/1rajhcs/daily_discussion_february_21_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-9h ago
+2h ago
 
 ---
 
@@ -153,17 +145,17 @@ I will be in Perth in the next few months. Can you tell me where I could buy BTC
 
 ---
 
+**[Do you guys actually feel anything when the market drops anymore?](https://www.reddit.com/r/Bitcoin/comments/1ra7b74/do_you_guys_actually_feel_anything_when_the/)**
+
+I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
+
+18h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
-
-**[When Bitcoin prices turned against Michael Saylor, he quietly pivoted to a risky financial gambit at Strategy](https://fortune.com/2026/02/20/michael-saylor-bitcoin-prices-preferred-shares-dilution-strategy/)**
-
-Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
-
-Fortune • 1d ago
-
----
 
 **[Bitcoin analysis: Small investors, or shrimps, are buying BTC. But it's the whales who keep rallies going.](https://www.coindesk.com/markets/2026/02/21/small-investors-are-buying-bitcoin-it-now-needs-bigger-players-to-show-up)**
 
@@ -173,11 +165,17 @@ CoinDesk • 10h ago
 
 ---
 
-**[What Federal Reserve Chair nominee Kevin Warsh could do to Bitcoin’s price](https://www.dlnews.com/articles/markets/bitcoin-price-could-benefit-under-warsh/)**
+**[Eric Trump shrugs off bitcoin's recent slump: 'If you don't have the backbone ... go invest in some boring bond'](https://finance.yahoo.com/news/eric-trump-shrugs-off-bitcoins-recent-slump-if-you-dont-have-the-backbone--go-invest-in-some-boring-bond-193400545.html)**
 
-Bitcoin’s price is nearly 50% below its October record.  Markets have priced in Trump Federal Reserve Chair pick Kevin Warsh as a hawk. Analysts are divided on what happens next for crypto.
+During a wide-ranging interview with Yahoo Finance, Eric Trump weighed in on bitcoin, crypto legislation, his personal debanking experience, and the latest digital asset project between the Trump Organization and his flagship crypto venture, World Liberty Financial.
 
-dlnews.com • 3h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
+
+Bloomberg.com • 49m ago
 
 ---
 
@@ -195,25 +193,23 @@ CoinDesk • 1h ago
 
 ---
 
-**['Bitcoin Has Failed'—Crypto Influencer Questions Entire BTC Thesis After 12 Years](https://finance.yahoo.com/news/bitcoin-failed-crypto-influencer-questions-160029339.html)**
-
-Crypto influencer Ran Neuner said Bitcoin (CRYPTO: BTC) failed its defining test as a store of value, questioning the entire thesis for the first time in 12 years after capital fled to gold instead of BTC during recent market stress....
-
-Yahoo Finance • 23h ago
-
----
-
-**[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Bitcoin Pops After Supreme Court Strikes Down Trump’s Tariffs](https://bitcoinmagazine.com/news/bitcoin-pops-after-supreme-court)**
 
 The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
 
 Bitcoin Magazine • 22h ago
+
+---
+
+**[Bloomington man loses $7,600 in Bitcoin to suspect posing as sheriff’s deputy in jury duty scam](https://fox59.com/news/indynews/bloomington-man-loses-7600-in-bitcoin-to-suspect-posing-as-sheriffs-deputy-in-jury-duty-scam/)**
+
+Fox 59 • 18h ago
+
+---
+
+**[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqf3suj0NZE97LqAU8y7AvCHX8YdJDHjx6zBWSvk8a6p_6Tiuxfb4tvI&gaa_ts=6999d776&gaa_sig=ZojV6TVUSj9rGTJDXP60Le5mSIaa970_VUAUDeYJw2IpyTt-oAPiCersbURnfWQ7utrb7Yd6Iozo-6qb3HokOQ%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -229,7 +225,7 @@ Futurism • 23h ago
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-Nasdaq • 22h ago
+Nasdaq • 23h ago
 
 ---
 
@@ -319,7 +315,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 202 • ⏱️ 9:14 • 15h ago
+👁️ 47K • 👍 2K • 💬 202 • ⏱️ 9:14 • 16h ago
 
 ---
 
