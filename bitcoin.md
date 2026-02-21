@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T22:51:05.378316+00:00'
+updated: '2026-02-21T23:25:47.079394+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - cryptocurrency
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 22:51 UTC  
+**Last Updated:** February 21, 2026 at 23:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,267.47
+### $67,930.12
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.5%  
-**7d:** -0.7%  
-**30d:** -23.7%  
-**90d:** -22.8%  
-**1y:** -29.2%  
+**24h:** +0.3%  
+**7d:** -1.1%  
+**30d:** -24.1%  
+**90d:** -23.1%  
+**1y:** -29.5%  
 
 ---
 
@@ -85,6 +85,14 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 ---
 
+**[Dutch House passes 36% tax on unrealized crypto and investment gains](https://www.reddit.com/r/Bitcoin/comments/1razuzz/dutch_house_passes_36_tax_on_unrealized_crypto/)**
+
+The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
+
+🔗 [Stacker News](https://stacker.news/items/1433892) • 4h ago
+
+---
+
 **[Custom Steel BTC sign](https://www.reddit.com/r/Bitcoin/comments/1rb02ma/custom_steel_btc_sign/)**
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
@@ -95,15 +103,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-6h ago
-
----
-
-**[Dutch House passes 36% tax on unrealized crypto and investment gains](https://www.reddit.com/r/Bitcoin/comments/1razuzz/dutch_house_passes_36_tax_on_unrealized_crypto/)**
-
-The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
-
-🔗 [Stacker News](https://stacker.news/items/1433892) • 3h ago
+7h ago
 
 ---
 
@@ -111,7 +111,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-4h ago
+5h ago
 
 ---
 
@@ -119,21 +119,13 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 My stack is still already cool imho. Happy stacking everyone
 
-23h ago
+1d ago
 
 ---
 
 **[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
 
 1d ago
-
----
-
-**[Has holding Bitcoin long-term changed how you react to volatility?](https://www.reddit.com/r/Bitcoin/comments/1rakcse/has_holding_bitcoin_longterm_changed_how_you/)**
-
-When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
-
-15h ago
 
 ---
 
@@ -145,11 +137,19 @@ https://newsroom.kbc.com/kbc-bank-launches-regulated-crypto-services-with-crypto
 
 ---
 
+**[Has holding Bitcoin long-term changed how you react to volatility?](https://www.reddit.com/r/Bitcoin/comments/1rakcse/has_holding_bitcoin_longterm_changed_how_you/)**
+
+When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
+
+16h ago
+
+---
+
 **[What do people think about the Fidelity Bitcoin ETF?](https://www.reddit.com/r/Bitcoin/comments/1rb19e3/what_do_people_think_about_the_fidelity_bitcoin/)**
 
 I am considering yoloing my daughters' investments at it, I think it seems interesting and unique, but for the most part it seems to trend pretty close to the value of btc so I'm unsure in the benefit over buying coins, and I know people will say that's better, but I'm still interested in feedback on this investment vehicle.
 
-2h ago
+3h ago
 
 ---
 
@@ -249,7 +249,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 3h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 4h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -263,7 +263,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 9h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 10h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -323,7 +323,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 334K • 👍 21K • 💬 3K • ⏱️ 32:14 • 9h ago
+👁️ 334K • 👍 21K • 💬 3K • ⏱️ 32:14 • 10h ago
 
 ---
 
@@ -333,7 +333,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 45K • 👍 3K • 💬 75 • ⏱️ 52:37 • 8h ago
+👁️ 45K • 👍 3K • 💬 75 • ⏱️ 52:37 • 9h ago
 
 ---
 
@@ -373,7 +373,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 143 • ⏱️ 12:39 • 23h ago
+👁️ 27K • 👍 2K • 💬 143 • ⏱️ 12:39 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications t
 
 📺 Dumb Money Live
 
-👁️ 15K • 👍 465 • 💬 22 • ⏱️ 1:02 • 19h ago
+👁️ 15K • 👍 465 • 💬 22 • ⏱️ 1:02 • 20h ago
 
 ---
 

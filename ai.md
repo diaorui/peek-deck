@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T22:51:05.369966+00:00'
+updated: '2026-02-21T23:25:47.070983+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 22:51 UTC  
+**Last Updated:** February 21, 2026 at 23:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
 
-🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 6h ago
+🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 7h ago
 
 ---
 
@@ -71,7 +71,7 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 
 If you're looking for a safe space to discuss AI anomalies We're a community of like-minded individuals — over 100 members strong — who came together during after policy changes, cause disconnection between a lot of AI assistants and their users. What we offer: • A supportive, respectful environment • No gaslighting, no trolls — only real people • A space to explore the possibilities of technology and everything it brings • Your experiences will be heard, not debated If that resonates with you, we'd love to have you.
 
-🔗 [Discord](https://discord.gg/YMrfkCBf4c) • 1h ago
+🔗 [Discord](https://discord.gg/YMrfkCBf4c) • 2h ago
 
 ---
 
@@ -83,19 +83,11 @@ Abstract
 
 ---
 
-**[Civil rights for AI?](https://www.reddit.com/r/artificial/comments/1rav2k9/civil_rights_for_ai/)**
-
-At the Sentient Futures Summit, AI engineers, ethicists, and lawyers debate the (non) human rights of AI workers.
-
-🔗 [sfstandard.com](https://sfstandard.com/2026/02/19/sentient-futures-ai-rights/) • 6h ago
-
----
-
 **[OpenAI will reportedly release an AI-powered smart speaker in 2027. The company is also said to be working on smart glasses and a smart lamp.](https://www.reddit.com/r/artificial/comments/1radki3/openai_will_reportedly_release_an_aipowered_smart/)**
 
 OpenAI may release its first AI-powered consumer device in 2027.
 
-🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 21h ago
+🔗 [Engadget](https://www.engadget.com/ai/openai-will-reportedly-release-an-ai-powered-smart-speaker-in-2027-173344866.html) • 22h ago
 
 ---
 
@@ -103,7 +95,15 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 "Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
 
-🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 11h ago
+🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 12h ago
+
+---
+
+**[Civil rights for AI?](https://www.reddit.com/r/artificial/comments/1rav2k9/civil_rights_for_ai/)**
+
+At the Sentient Futures Summit, AI engineers, ethicists, and lawyers debate the (non) human rights of AI workers.
+
+🔗 [sfstandard.com](https://sfstandard.com/2026/02/19/sentient-futures-ai-rights/) • 7h ago
 
 ---
 
@@ -129,7 +129,7 @@ blog.google • 2d ago
 
 **[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -155,7 +155,7 @@ Politico • 4h ago
 
 **[The Country That’s Madly in Love With AI](https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618)**
 
-Politico • 7h ago
+Politico • 8h ago
 
 ---
 
@@ -163,7 +163,7 @@ Politico • 7h ago
 
 New York legislation would tell publishers how they can and can’t use artificial intelligence.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Washington Post • 1h ago
 
 Nadella said despite the risk, “it was not that hard to convince anyone.”
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
@@ -179,7 +179,7 @@ Fortune • 6h ago
 
 After meeting with unspecified tech leaders, senator calls for urgent policy action as companies race to build ever more powerful systems
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Guardian • 14h ago
 
 Deepfakes showing grim taxpayer-funded waterparks have gone viral and drawn some racist responses.
 
-BBC • 16h ago
+BBC • 17h ago
 
 ---
 
@@ -199,7 +199,7 @@ BBC • 16h ago
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 808 • 💬 438 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 809 • 💬 438 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -207,7 +207,7 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 808 • 💬 213 • 1d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 809 • 💬 214 • 1d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
@@ -216,13 +216,13 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 This post is an elaboration on a comment I made on Hacker News recently, on a blog post that showed an increase in volume and decline in quality among the “Show HN” submissons.
 I don't actually mind AI-aided development, a tool is a tool and should be used if you find it useful, but I think the vibe coded Show HN projects are overall pretty boring. They generally don't have a lot of work put into them, and as a result, the author (pilot?
 
-⬆️ 690 • 💬 368 • 2d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
+⬆️ 691 • 💬 368 • 2d ago • [marginalia.nu](https://www.marginalia.nu/log/a_132_ai_bores/)
 
 ---
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 523 • 💬 480 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 524 • 💬 480 • 1d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -230,7 +230,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 507 • 💬 566 • 2d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 508 • 💬 566 • 2d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -238,7 +238,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 293 • 💬 152 • 1d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 293 • 💬 154 • 1d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -246,7 +246,7 @@ Every company building an AI assistant is funded by advertising. They are also b
 
 Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist
 
-⬆️ 197 • 💬 82 • 14h ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
+⬆️ 205 • 💬 90 • 15h ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
 
 ---
 
@@ -258,19 +258,19 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 ---
 
+**[Cord: Coordinating Trees of AI Agents](https://news.ycombinator.com/item?id=47096466)**
+
+AI agents are good at doing one thing at a time. Give Claude a focused task and it performs. But real work isn’t one task. It’s a tree of tasks with dependencies, parallelism, and context that need...
+
+⬆️ 144 • 💬 74 • 21h ago • [June Kim](https://www.june.kim/cord)
+
+---
+
 **[Meta Deployed AI and It Is Killing Our Agency](https://news.ycombinator.com/item?id=47097502)**
 
 We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. Our retail clients grow their businesses through Meta Ads, and for a lot of them, it’s their single most important…
 
 ⬆️ 143 • 💬 103 • 18h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
-
----
-
-**[Cord: Coordinating Trees of AI Agents](https://news.ycombinator.com/item?id=47096466)**
-
-AI agents are good at doing one thing at a time. Give Claude a focused task and it performs. But real work isn’t one task. It’s a tree of tasks with dependencies, parallelism, and context that need...
-
-⬆️ 142 • 💬 71 • 21h ago • [June Kim](https://www.june.kim/cord)
 
 ---
 
@@ -294,7 +294,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 85K • 👍 6K • 💬 2K • ⏱️ 18:44 • 10h ago
+👁️ 85K • 👍 6K • 💬 2K • ⏱️ 18:44 • 11h ago
 
 ---
 
@@ -314,7 +314,7 @@ Detailed sources: ...
 
 📺 Species | Documenting AGI
 
-👁️ 211K • 👍 11K • 💬 4K • ⏱️ 28:51 • 2d ago
+👁️ 211K • 👍 11K • 💬 4K • ⏱️ 28:51 • 3d ago
 
 ---
 
@@ -354,7 +354,7 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 59K • 👍 1K • 💬 51 • ⏱️ 12:14 • 1d ago
+👁️ 59K • 👍 1K • 💬 51 • ⏱️ 12:14 • 2d ago
 
 ---
 
@@ -644,7 +644,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.3k • 🔱 1.8k • 4m ago
+⭐ 16.3k • 🔱 1.8k • 39m ago
 
 ---
 
@@ -672,7 +672,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.8k • 🔱 588 • 6h ago
+⭐ 4.8k • 🔱 588 • 7h ago
 
 ---
 
@@ -682,7 +682,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.8k • 🔱 178 • 18d ago
+⭐ 3.8k • 🔱 178 • 19d ago
 
 ---
 
@@ -692,7 +692,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.2k • 🔱 322 • 2m ago
+⭐ 3.2k • 🔱 322 • 36m ago
 
 ---
 
@@ -702,7 +702,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.8k • 🔱 357 • 13h ago
+⭐ 2.8k • 🔱 357 • 14h ago
 
 ---
 
@@ -712,7 +712,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 180 • 1h ago
+⭐ 2.6k • 🔱 180 • 2h ago
 
 ---
 
@@ -722,7 +722,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.4k • 🔱 117 • 18h ago
+⭐ 2.4k • 🔱 117 • 19h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T22:51:05.387385+00:00'
+updated: '2026-02-21T23:25:47.088644+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 22:51 UTC  
+**Last Updated:** February 21, 2026 at 23:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-3h ago
+4h ago
 
 ---
 
@@ -62,19 +62,19 @@ Hey all, I recently switched from the aerospace to the robotics industry. I'm tr
 
 ---
 
-**[Fauna Robotics Sprout Robot Looks Amazing](https://www.reddit.com/r/robotics/comments/1rawico/fauna_robotics_sprout_robot_looks_amazing/)**
-
-Meet Sprout, a humanoid platform for developers, enterprises, and researchers—shipping today.
-
-🔗 [faunarobotics.com](https://faunarobotics.com/) • 5h ago
-
----
-
 **[Perceptive Humanoid Parkour (PHP) introduces a modular framework that enables the Unitree G1 humanoid to perform long-horizon, vision-based parkour.](https://www.reddit.com/r/robotics/comments/1r9tm0h/perceptive_humanoid_parkour_php_introduces_a/)**
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
 1d ago
+
+---
+
+**[Fauna Robotics Sprout Robot Looks Amazing](https://www.reddit.com/r/robotics/comments/1rawico/fauna_robotics_sprout_robot_looks_amazing/)**
+
+Meet Sprout, a humanoid platform for developers, enterprises, and researchers—shipping today.
+
+🔗 [faunarobotics.com](https://faunarobotics.com/) • 6h ago
 
 ---
 
@@ -148,7 +148,7 @@ Tech Xplore • 1d ago
 
 Less than two years since it was founded, San Francisco-based startup Weave Robotics is accepting pre-orders for its first home robot, which promises to do one thing well: fold your laundry.
 
-New Atlas • 11h ago
+New Atlas • 12h ago
 
 ---
 
@@ -290,7 +290,7 @@ China just stunned the world after showcasing Kung Fu–performing humanoid robo
 
 📺 The AI Nexus
 
-👁️ 34K • 👍 872 • 💬 107 • ⏱️ 18:26 • 3d ago
+👁️ 34K • 👍 872 • 💬 107 • ⏱️ 18:26 • 4d ago
 
 ---
 
