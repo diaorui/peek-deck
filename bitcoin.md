@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T21:47:28.001620+00:00'
+updated: '2026-02-21T22:25:46.225078+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
+- news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 21:47 UTC  
+**Last Updated:** February 21, 2026 at 22:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,565.45
+### $68,267.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.8%  
+**24h:** +0.5%  
 **7d:** -0.7%  
 **30d:** -23.7%  
 **90d:** -22.8%  
@@ -95,7 +95,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -103,15 +103,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 2h ago
-
----
-
-**[Just 0.4 to go to my goal🥹](https://www.reddit.com/r/Bitcoin/comments/1raajx3/just_04_to_go_to_my_goal/)**
-
-My stack is still already cool imho. Happy stacking everyone
-
-22h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 3h ago
 
 ---
 
@@ -119,7 +111,15 @@ My stack is still already cool imho. Happy stacking everyone
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-3h ago
+4h ago
+
+---
+
+**[Just 0.4 to go to my goal🥹](https://www.reddit.com/r/Bitcoin/comments/1raajx3/just_04_to_go_to_my_goal/)**
+
+My stack is still already cool imho. Happy stacking everyone
+
+23h ago
 
 ---
 
@@ -133,13 +133,15 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-14h ago
+15h ago
 
 ---
 
-**[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
+**[KBC Bank (Belgium) launches regulated crypto services with Crypto Finance as partner](https://www.reddit.com/r/Bitcoin/comments/1raz4uw/kbc_bank_belgium_launches_regulated_crypto/)**
 
-1d ago
+https://newsroom.kbc.com/kbc-bank-launches-regulated-crypto-services-with-crypto-finance-as-partner Belgium’s KBC Bank rolled out regulated crypto trading for retail clients, including bitcoin. This means they became the first major Belgian bank to offer direct Bitcoin access. The service went live mid-Feb through its Bolero investment platform under the EU’s MiCA framework.
+
+3h ago
 
 ---
 
@@ -147,7 +149,7 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 I am considering yoloing my daughters' investments at it, I think it seems interesting and unique, but for the most part it seems to trend pretty close to the value of btc so I'm unsure in the benefit over buying coins, and I know people will say that's better, but I'm still interested in feedback on this investment vehicle.
 
-1h ago
+2h ago
 
 ---
 
@@ -155,19 +157,9 @@ I am considering yoloing my daughters' investments at it, I think it seems inter
 
 ## Google News: "bitcoin"
 
-**[Iran’s rial collapse mirrors Lebanon’s crisis, driving citizens to bitcoin](https://www.coindesk.com/opinion/2026/02/21/iran-s-rial-collapse-mirrors-lebanon-s-crisis-driving-citizens-to-bitcoin)**
+**[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
 
-With the rial plunging, middle-class savers are bypassing local banks to move billions into the domestic crypto ecosystem.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin analysis: Small investors, or shrimps, are buying BTC. But it's the whales who keep rallies going.](https://www.coindesk.com/markets/2026/02/21/small-investors-are-buying-bitcoin-it-now-needs-bigger-players-to-show-up)**
-
-Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
-
-CoinDesk • 16h ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -179,19 +171,11 @@ CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin’s $1 trillion identity crisis hits from every direction](https://finance.yahoo.com/news/bitcoin-1-trillion-identity-crisis-150000517.html)**
+**[Robert Kiyosaki Doubles Down on Bitcoin at $67,000, Citing Two Big Catalysts](https://finance.yahoo.com/news/robert-kiyosaki-doubles-down-bitcoin-204510463.html)**
 
-Tokenization, blockchain-powered derivatives and cross-border stablecoin payments are emerging as credible use cases — none of which require Bitcoin to function. If anything, stablecoin activity could be correlated with activity on Ethereum or on other chains. And stablecoins are for payments,” said Carlos Domingo, co-founder and CEO of Securitize, a tokenization platform.
+On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin, Ethereum hold firm as Trump announces global tariff hike](https://www.dlnews.com/articles/markets/bitcoin-price-holds-firm-despite-trump-tariff-announcement/)**
-
-The US Supreme Court on Friday struck down President Trump’s tariff policy.  Trump on Saturday announced new tariffs.  Bitcoin and Ethereum — previously hurt by Trump’s trade war — are holding steady.
-
-dlnews.com • 3h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -211,11 +195,17 @@ CoinDesk • 5h ago
 
 ---
 
-**[Bitcoin ignores US Supreme Court Trump tariff strike amid talk of $150B refund](https://www.tradingview.com/news/cointelegraph:6eca7e0fb094b:0-bitcoin-ignores-us-supreme-court-trump-tariff-strike-amid-talk-of-150b-refund/)**
+**[Bitcoin Rises After Supreme Court Rules Against Trump Tariffs](https://finance.yahoo.com/news/bitcoin-rises-supreme-court-rules-172049557.html)**
 
-Bitcoin BITSTAMP:BTCUSD saw choppy price action after Friday’s Wall Street open as markets reacted to the US Supreme Court decision on President Donald Trump’s trade tariffs.Key points:Supreme Court ruling attacks Trump tariffsData from TradingView showed $67,000 forming a focus for BTC price actio…
+Bitcoin ticked up after the Supreme Court ruled that President Trump exceeded his authority in imposing most tariffs on foreign goods.
 
-TradingView • 1d ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bloomington man loses $7,600 in Bitcoin to suspect posing as sheriff’s deputy in jury duty scam](https://fox59.com/news/indynews/bloomington-man-loses-7600-in-bitcoin-to-suspect-posing-as-sheriffs-deputy-in-jury-duty-scam/)**
+
+Fox 59 • 1d ago
 
 ---
 
@@ -225,23 +215,23 @@ Forbes • 9h ago
 
 ---
 
-**[Bitcoin ETF Gold Rush Turns Into An Epic Bust](https://www.investors.com/etfs-and-funds/etfs/bitcoin-etf-gold-rush-turns-into-an-epic-bust/)**
+**[The Daily: Hacker returns $21 million in stolen bitcoin, Robinhood Chain testnet hits four million transactions in first week, and more](https://www.theblock.co/post/390522/the-daily-hacker-returns-21-million-in-stolen-bitcoin-robinhood-chain-testnet-hits-four-million-transactions-in-first-week-and-more)**
 
-Investor's Business Daily • 2d ago
+The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
+
+The Block • 2d ago
+
+---
+
+**[How ETF flows can amplify Bitcoin’s price swings](https://www.marketwatch.com/video/mwi-clips/how-etf-flows-can-amplify-bitcoins-price-swings/432E5C3C-4D11-449A-A556-C47C1AD3AD72.html?gaa_at=eafs&gaa_n=AWEtsqftCLiP6WerhbXezKOtYMOZsvgbRGdgFxhjUkxFFjiHdNDI_52vbhOs&gaa_ts=699a3457&gaa_sig=-56qjLQK3twM64AAJkzYual_ojngm3kAB1RkwnFKQc3DA6gJhsAJ_Eetu1GoILYTd1oqRa7rTNkQ1I5s931fxQ%3D%3D)**
+
+MarketWatch • 1d ago
 
 ---
 
 ---
 
 ## HackerNews: "bitcoin"
-
-**[£189,486,935,770 in Bitcoin. Lost Forever](https://news.ycombinator.com/item?id=47018882)**
-
-Track billions in lost Bitcoin. Explore case studies, check dormant wallets, calculate your losses, and protect your Bitcoin inheritance.
-
-⬆️ 3 • 💬 5 • 6d ago • [BTC Graveyard](https://btcgraveyard.com/)
-
----
 
 **[Bitcoin oracle that sells cryptographically signed price data for micropayments](https://news.ycombinator.com/item?id=47050321)**
 
@@ -259,7 +249,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 2h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 3h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -273,7 +263,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 8h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 9h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -307,6 +297,12 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 ---
 
+**[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
+
+⬆️ 1 • 💬 0 • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -327,7 +323,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 267K • 👍 18K • 💬 3K • ⏱️ 32:14 • 8h ago
+👁️ 267K • 👍 18K • 💬 3K • ⏱️ 32:14 • 9h ago
 
 ---
 
@@ -337,7 +333,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 2K • 💬 75 • ⏱️ 52:37 • 7h ago
+👁️ 35K • 👍 2K • 💬 75 • ⏱️ 52:37 • 8h ago
 
 ---
 
@@ -357,7 +353,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 150 • ⏱️ 12:39 • 22h ago
+👁️ 26K • 👍 2K • 💬 150 • ⏱️ 12:39 • 23h ago
 
 ---
 
@@ -367,7 +363,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 35K • 👍 1K • ⏱️ 24:35 • 23h ago
+👁️ 35K • 👍 1K • ⏱️ 24:35 • 1d ago
 
 ---
 
@@ -377,7 +373,7 @@ BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote a
 
 📺 Manfred Thönicke
 
-👁️ 3K • 👍 1K • 1h ago
+👁️ 3K • 👍 1K • 2h ago
 
 ---
 
@@ -387,7 +383,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 482 • 💬 57 • ⏱️ 13:30 • 9h ago
+👁️ 7K • 👍 482 • 💬 57 • ⏱️ 13:30 • 10h ago
 
 ---
 
@@ -397,7 +393,7 @@ LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications t
 
 📺 Dumb Money Live
 
-👁️ 14K • 👍 436 • 💬 20 • ⏱️ 1:02 • 18h ago
+👁️ 14K • 👍 436 • 💬 20 • ⏱️ 1:02 • 19h ago
 
 ---
 
@@ -407,7 +403,7 @@ Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This
 
 📺 Anthony Pompliano
 
-👁️ 65K • 👍 2K • 💬 101 • ⏱️ 28:28 • 2d ago
+👁️ 65K • 👍 2K • 💬 101 • ⏱️ 28:28 • 3d ago
 
 ---
 
