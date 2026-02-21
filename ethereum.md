@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T11:45:41.160789+00:00'
+updated: '2026-02-21T12:50:55.350861+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - social
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 11:45 UTC  
+**Last Updated:** February 21, 2026 at 12:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.5%  
-**7d:** +0.7%  
-**30d:** -33.1%  
-**90d:** -33.0%  
-**1y:** -28.4%  
+**24h:** +2.0%  
+**7d:** +0.4%  
+**30d:** -33.3%  
+**90d:** -33.2%  
+**1y:** -28.6%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+6h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Some backstory In February 2016 — less than a year after Ethereum launched — Alex Van de Sande (avsa) from the Ethereum Foundation deployed an experimental contract called Unicorns (0x89205A3A). It was one of the very first token contracts on Ethereum, predating the ERC-20 standard. A month later, he created Unicorn Meat (0xED6aC8de) — another experimental token — along with the Grinder Association DAO, one of the earliest DAOs on Ethereum. The Grinder let you exchange Unicorns for Unicorn Meat, effectively the first onchain token swap. These were demo contracts for the Mist browser. They were never meant to become "real" tokens, but they've survived for 10 years now — still on mainnet, still functional, still held in wallets. The problem Because these tokens predate ERC-20 (they have 0 decimal places, non-standard transfer functions), they don't work well with modern DEXes. Uniswap V3's fee math rounds to 0 for 0-decimal tokens. AMM pooling is essentially broken for them. Wrapped versions exist (w🦄 and w🍖 are standard ERC-20s), but the 0-decimal problem persists. What we built Unicorn Market — a fully onchain orderbook contract, purpose-built for these tokens: No backend, no matching engine, no admin keys — pure smart contract Escrowed limit orders — maker's tokens held in contract until filled or cancelled Partial fills — take any portion of an order Deterministic rounding — uses OpenZeppelin's Math.mulDiv with ceiling rounding so makers never get shorted All state onchain, all settlement via events Verified contract: 0xA352B50A91C648c97F7aC0a80D686D297b62693E Trade interface: unicornmeateth.com/market Source: github.com/cartoonitunes/unicorn-market Why this matters (beyond the meme) There are hundreds of pre-ERC-20 and non-standard tokens stuck on Ethereum mainnet with no good trading infrastructure. AMMs assume standard decimals and transfer behavior. A simple, auditable orderbook contract is arguably the right primitive for these edge cases. If you hold any legacy Ethereum tokens from 2015-2017, you probably know the pain of trying to trade them on modern infra. Technical details Reentrancy-guarded, CEI pattern throughout Happy to answer questions about the contract design or the history of these tokens.
 
-13h ago
+14h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agents) into an API endpoint after a few days working through the official docs and SDK. It’s running end-to-end: send a request, receive a 402, sign a USDC transfer, retry, and get the response back. A lot of the documentation is confusing due to differences between v1 and v2, so I compiled everything into a single post that should make things clearer. It includes an interactive demo where you can generate a wallet, fund it, and make a real x402 payment against a live endpoint. The goal was to create one resource that’s enough to understand x402 and build your own agent payment integration. The guide also includes some background on the origins of 402. Check it out here: https://simplescraper.io/blog/x402-payment-protocol Let me know what you think!
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agen
 
 Lobsters like block too You can use x402 for agents to pay and get access to blockchain data now. There’s no clean way for agents to access onchain data without API keys, accounts, or billing friction. Until now. With x402, agents can pay per request using stablecoins over HTTP, wallet in, data out. https://goldrush.dev/blog/goldrush-x402-blockchain-data-for-agents/
 
-16h ago
+17h ago
 
 ---
 
@@ -112,7 +112,7 @@ Lobsters like block too You can use x402 for agents to pay and get access to blo
 
 There’s been a lot of talk lately about how fast teams are shipping contracts especially with AI-assisted “vibe coding.” Recently, the Ethereum Foundation highlighted the release of the OWASP Smart Contract Top 10, which outlines the most critical risks developers and security teams should be protecting against today. What stands out is how familiar many of these failure patterns still are: access control issues, logic flaws, unsafe assumptions, and upgrade risks. The tooling is getting better. The awareness is getting better. But the same classes of bugs keep showing up in production. Feels like the real challenge in 2026 isn’t whether we can write contracts faster it’s whether we can operate them safely at scale. Curious how others here are thinking about this balance between speed and security.
 
-21h ago
+22h ago
 
 ---
 
@@ -132,19 +132,19 @@ Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and 
 
 ---
 
+**[Vitalik Pushes Back on “Sovereign AI” as Web4 Essay Sparks Debate](https://www.reddit.com/r/ethereum/comments/1r9rnmm/vitalik_pushes_back_on_sovereign_ai_as_web4_essay/)**
+
+Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that expanding AI autonomy without strong human alignment could increase systemic risk as crypto and AI converge.
+
+🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 1d ago
+
+---
+
 **[Quantum computing isn’t FUD anymore how ready is Ethereum really?](https://www.reddit.com/r/ethereum/comments/1r9vjvf/quantum_computing_isnt_fud_anymore_how_ready_is/)**
 
 Few years Ago no one believe quantum threat is even a thing. But lately it feels different. Not because quantum computers can suddenly crack wallets tomorrow, but because the timeline is slowly shifting from sci-fi to strategic planning. Here’s the uncomfortable part, most of crypto security today relies on elliptic curve cryptography. If a sufficiently powerful quantum computer runs Shor’s algorithm at scale, it could theoretically derive private keys from public keys. The bigger issue isn’t quantum breaks crypto overnight. It’s the long runway required to migrate billions in value to new cryptographic standards before that day ever comes. That kind of coordination takes years. What I find interesting is that Ethereum developers aren’t brushing this off. There’s active research into post-quantum signature schemes lattice-based and hash-based approaches and discussions about how Ethereum’s account abstraction model could make upgrading signatures more flexible compared to more rigid systems. The idea isn’t to panic-fork tomorrow, but to design the protocol so it can evolve if needed. Vitalik has openly talked about the possibility of a hard fork to move toward quantum-resistant signatures if the threat becomes imminent. There’s also ongoing work around making cryptographic components more modular, so the base layer isn’t permanently locked into one signature scheme forever. That kind of design thinking matters. At the same time, this isn’t trivial. Post-quantum signatures are typically much larger. They consume more bandwidth. They increase verification costs. Gas implications are real. And then there’s the elephant in the room: dormant wallets. If a public key is already exposed on-chain, and quantum becomes viable before migration, those funds could be at risk. There’s also the harvest now, decrypt later scenario. Even if quantum isn’t powerful enough today, adversaries could store cryptographic data now and wait for future breakthroughs. That’s not conspiracy talk that’s standard long-term threat modeling. So the question isn’t whether quantum computing will eventually be powerful. It’s whether Ethereum and crypto as a whole can coordinate upgrades in time. Ethereum at least has one advantage: it was built to evolve. It’s already gone through massive upgrades. Social coordination is part of its DNA. Personally, I don’t think this is immediate doom. But I also don’t think it’s something to laugh off anymore. The chains that treat quantum seriously today are probably the ones that survive smoothly tomorrow. Curious where everyone stands. Is this a 2040 problem? A 2030 problem? Or just another narrative that gets recycled every bull run?
 
-22h ago
-
----
-
-**[Wall Street giants massively increased holdings in BitMine — the largest corporate ETH holder](https://www.reddit.com/r/ethereum/comments/1r93mxh/wall_street_giants_massively_increased_holdings/)**
-
-New 13F filings show major financial institutions sharply increased positions in BitMine, a public company widely known as the largest corporate holder of Ethereum. Morgan Stanley now holds 12.2M shares (+26%), ARK 9.5M (+27%), BlackRock 9M (+166%), and Goldman Sachs 5.2M (+588%). Vanguard, Bank of America, Schwab, RBC, Citi and BNY Mellon also expanded exposure. In total, 457 institutional holders now control about 136.7M BitMine shares (~$2.86B). This suggests institutions are increasingly accessing ETH exposure via equity structures rather than direct custody — similar to how MicroStrategy functions as a BTC proxy. Full breakdown: https://btcusa.com/wall-street-giants-boost-bitmine-holdings-as-institutional-ethereum-exposure-expands/ Curious how people here see this trend — does equity-based ETH exposure accelerate or delay direct institutional ETH ownership?
-
-1d ago
+23h ago
 
 ---
 
@@ -156,7 +156,7 @@ New 13F filings show major financial institutions sharply increased positions in
 
 FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
@@ -164,23 +164,15 @@ The Block • 15h ago
 
 The tokenized shares were issued by the BNP Paribas’ AssetFoundryTM platform using a "permissioned access model on Ethereum."
 
-The Block • 14h ago
+The Block • 16h ago
 
 ---
 
-**[Harvard shakes up its crypto strategy by selling Bitcoin and purchasing Ethereum](https://fortune.com/2026/02/18/harvard-shakes-up-its-crypto-strategy/)**
+**[Tom Lee's BitMine Buys Over $140M Ethereum In Two Weeks — Why Is The Price Not Moving?](https://finance.yahoo.com/news/tom-lees-bitmine-buys-over-134215962.html)**
 
-The Ivy League school still has more money invested in Bitcoin than any other US stock.
+BitMine keeps buying, but Ethereum's price remains weak. Tom Lee previously said capitulation is near. Analysts warn of lower risk. BitMine, chaired by Fundstrat’s Tom ...
 
-Fortune • 2d ago
-
----
-
-**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
-
-BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
-
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -188,7 +180,7 @@ Yahoo Finance • 22h ago
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-Nasdaq • 19h ago
+Nasdaq • 20h ago
 
 ---
 
@@ -200,7 +192,7 @@ Business Insider • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqeflJiJAwc_HnEGxYr-O9HxBWsD-1oPDz1wv1-rhr8DJmGKIFGtUddL&gaa_ts=69999de5&gaa_sig=YPvX5QH0UTJBB25H_9iY0xlUT4VF9wmztTEE0TS7uoeQa3IUQDDLVghy_GOaK1QHqBZ32mJ0sdCreDOUylDw4g%3D%3D)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfX8u-vlTON-ayDNCxYueN1SYVec8AGD0bndoLlAvET5ygYiXYyTouP&gaa_ts=6999ad9a&gaa_sig=-IaqHoZd5byRmxvVB4XxKzi0RuPf2cfPV6MfNvcbnpoOGLO0BfZ8MScnhi8AijyurwuOkP8pvXUVb__EOA-GUA%3D%3D)**
 
 Barron's • 1d ago
 
@@ -222,11 +214,19 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[Prediction: 2026 Will Be the Year of Ethereum (ETH)](https://www.fool.com/investing/2026/02/18/prediction-2026-will-be-the-year-of-ethereum-eth/)**
+**[Coinbase-Backed Ethereum Network Base to Dump Optimism Tech as Potential Token Looms](https://decrypt.co/358469/coinbase-ethereum-network-base-dump-optimism-tech-potential-token)**
 
-Ethereum could more than double in price in 2026 to reclaim its all-time high near $5,000.
+Ethereum layer-2 network Base is leaving behind the Optimism technology stack as it seeks faster upgrades and reduced overhead.
 
-The Motley Fool • 3d ago
+Decrypt • 2d ago
+
+---
+
+**[Bitcoin and Ethereum Options Expiry Today: $2.4B Set to Shake Crypto Markets](https://www.tradingview.com/news/coinpedia:3091c71e8094b:0-bitcoin-and-ethereum-options-expiry-today-2-4b-set-to-shake-crypto-markets/)**
+
+The crypto market may see strong price swings today as Bitcoin and Ethereum options worth nearly $2.4 billion are set to expire. With the crypto market already under pressure, traders are closely watching key levels, including Bitcoin’s max pain at $70,000 and Ethereum’s at $2,050, which could infl…
+
+TradingView • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 74 • 👍 3 • ⏱️ 4:35 • 1h ago
+👁️ 74 • 👍 3 • ⏱️ 4:35 • 2h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum & Alt
 
 📺 Crypto World
 
-👁️ 5K • 👍 221 • 💬 24 • ⏱️ 15:50 • 11h ago
+👁️ 5K • 👍 221 • 💬 24 • ⏱️ 15:50 • 12h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 98 • 💬 5 • ⏱️ 4:31 • 9h ago
+👁️ 1K • 👍 98 • 💬 5 • ⏱️ 4:31 • 10h ago
 
 ---
 
@@ -310,7 +310,7 @@ ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsap
 
 📺 Bullish Bull Master
 
-👁️ 6K • 👍 667 • 2h ago
+👁️ 6K • 👍 667 • 3h ago
 
 ---
 
@@ -320,7 +320,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 542 • 👍 90 • 💬 7 • ⏱️ 10:25 • 3h ago
+👁️ 542 • 👍 90 • 💬 7 • ⏱️ 10:25 • 4h ago
 
 ---
 
