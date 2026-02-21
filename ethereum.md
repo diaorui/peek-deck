@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T20:26:31.263894+00:00'
+updated: '2026-02-21T20:50:11.999200+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 20:26 UTC  
+**Last Updated:** February 21, 2026 at 20:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,992.23
+### $1,984.31
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.0%  
-**7d:** +1.3%  
-**30d:** -32.7%  
-**90d:** -32.6%  
-**1y:** -27.9%  
+**24h:** +0.5%  
+**7d:** +0.9%  
+**30d:** -32.9%  
+**90d:** -32.9%  
+**1y:** -28.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $240.31B
+**Market Cap:** $239.37B
 Rank #2
 
 **Circulating Supply:** 120,692,373 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.7%
+-59.9%
 
 **All-Time Low:** $0.43
-+459689.0%
++457719.0%
 
 ---
 
@@ -152,11 +152,11 @@ Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and 
 
 ## Google News: "ethereum"
 
-**[BNP Paribas taps Ethereum for new money market fund tokenization pilot](https://www.theblock.co/post/390686/bnp-paribas-taps-ethereum-new-money-market-fund-tokenization-pilot)**
+**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
 
-The tokenized shares were issued by the BNP Paribas’ AssetFoundryTM platform using a "permissioned access model on Ethereum."
+FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -168,17 +168,11 @@ Decrypt • 6h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfsiuQRVeNu-b5izc8snmhog1e-fGoOyi0EkY6vP8xJRcx8JQ__EmYy&gaa_ts=699a0eef&gaa_sig=8e2Wq3PgFHvJw8foTeHaHAq5AvvSlWPnae8BSKzFVIoN21YwGm280R1Gic52dsYOHpnF5JWLime0G2fDmJCLuQ%3D%3D)**
+**[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
 
-Barron's • 1d ago
+The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
 
----
-
-**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
-
-BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
-
-Yahoo Finance • 1d ago
+CoinDesk • 1h ago
 
 ---
 
@@ -190,22 +184,6 @@ Yahoo Finance • 2h ago
 
 ---
 
-**[BNP Paribas uses Ethereum for money market tokenisation pilot](https://www.dlnews.com/articles/markets/ethereum-used-by-bnp-paribas-to-tokenise-money-fund/)**
-
-BNP Paribas Asset Management tokenised a money market fund. The French asset manager used Ethereum for the experiment.  A number of top traditional finance institutions are delving into the world of tokenisation.
-
-dlnews.com • 4h ago
-
----
-
-**[BNP Paribas Joins BlackRock and JPMorgan in the Rush to Tokenize Funds on Ethereum](https://finance.yahoo.com/news/bnp-paribas-joins-blackrock-jpmorgan-160508821.html)**
-
-BNP Paribas launched a tokenized share class of a French-domiciled money market fund on the public Ethereum blockchain.
-
-Yahoo Finance • 4h ago
-
----
-
 **[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
 
 The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
@@ -214,11 +192,17 @@ Fortune • 1d ago
 
 ---
 
-**[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
+**[The Ethereum creator and early Polymarket backer doesn't like the direction prediction markets are headed](https://www.businessinsider.com/ethereum-creator-polymarket-backer-raises-concern-about-prediction-markets-future-2026-2)**
 
-The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
+Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
 
-CoinDesk • 1h ago
+Business Insider • 3d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqd4dioOCeuntDUke-pCdjE4Lg_tdM81D8dTxbaqTX18HToWSgJ_Egb8&gaa_ts=699a1df3&gaa_sig=oFhv4YabZ3lFNT8yY6jpvIZFuOVSei8ywPHChXLvRfD8ARDfbWW4vPVpDbz78xb36Q_ZBEST_01P1Yg5IUGYmw%3D%3D)**
+
+Barron's • 1d ago
 
 ---
 
@@ -227,6 +211,22 @@ CoinDesk • 1h ago
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
 Nasdaq • 1d ago
+
+---
+
+**[Bitcoin and Ethereum Options Expiry Today: $2.4B Set to Shake Crypto Markets](https://www.tradingview.com/news/coinpedia:3091c71e8094b:0-bitcoin-and-ethereum-options-expiry-today-2-4b-set-to-shake-crypto-markets/)**
+
+The crypto market may see strong price swings today as Bitcoin and Ethereum options worth nearly $2.4 billion are set to expire. With the crypto market already under pressure, traders are closely watching key levels, including Bitcoin’s max pain at $70,000 and Ethereum’s at $2,050, which could infl…
+
+TradingView • 1d ago
+
+---
+
+**[Bitmine Immersion: Ethereum's Biggest Public Whale (NYSE:BMNR)](https://seekingalpha.com/article/4871611-bitmine-immersion-ethereum-biggest-public-whale)**
+
+Asymmetric upside for Bitmine Immersion Technologies is likely if Ethereum (and the whole crypto space) recovers from the recent downtrend. More on BMNR stock.
+
+Seeking Alpha • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 2K • 👍 208 • 💬 8 • ⏱️ 18:46 • 5h ago
+👁️ 5K • 👍 335 • 💬 37 • ⏱️ 18:46 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 950 • 👍 104 • 💬 5 • ⏱️ 4:43 • 5h ago
+👁️ 1K • 👍 117 • 💬 5 • ⏱️ 4:43 • 6h ago
 
 ---
 
@@ -260,17 +260,67 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 519 • 💬 32 • ⏱️ 21:01 • 2d ago
+👁️ 15K • 👍 522 • 💬 33 • ⏱️ 21:01 • 2d ago
 
 ---
 
-**[Blackrock Ethereum ETF SUBMITTED (Major Price Reaction)](https://www.youtube.com/watch?v=IDB13BcKlLE)**
+**[WHY ETH CAN RALLY NEXT MONTH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=50RuciUyE7w)**
 
-Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But the charts aren't as bullish! Will the bulls or ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Discover Crypto
+📺 Cilinix Crypto
 
-👁️ 5K • 👍 134 • 💬 35 • ⏱️ 4:54 • 1d ago
+👁️ 294 • 👍 13 • ⏱️ 4:35 • 10h ago
+
+---
+
+**[🚨 BTC &amp; ETH: ALL IN NOW!!!!! &quot;MEGA FOMO PUMP INCOMING!!!&quot;](https://www.youtube.com/watch?v=Rc6HxdvIdd8)**
+
+Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take on all of it. An objective one. ---------- AI Trading ...
+
+📺 Thomas Kralow
+
+👁️ 26K • 👍 4K • 💬 58 • ⏱️ 10:36 • 1d ago
+
+---
+
+**[Coinbase Moves To ETH!🔥Robinhood vs Coinbase🔥SHOTS FIRED!](https://www.youtube.com/watch?v=jSKfTE-aZBQ)**
+
+Optimism has plunged to a new all-time low after intense selling pressure overwhelmed recent demand. The decline accelerated ...
+
+📺 Paul Barron Network
+
+👁️ 56K • 👍 3K • 💬 171 • ⏱️ 15:12 • 2d ago
+
+---
+
+**[☠️ What does Howard Lutnick know about Ethereum&#39;s Future?](https://www.youtube.com/watch?v=ki0X2Ur6hGQ)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 1K • 👍 160 • 💬 9 • ⏱️ 10:25 • 12h ago
+
+---
+
+**[CAN CLARITY ACT PUSH XRP TO $100 - XRP WILL FLIP ETH SOON - AI AGENTS USE XRP ON THE XRPL - XRP NEWS](https://www.youtube.com/watch?v=mT-3oJa1EA4)**
+
+CAN CLARITY ACT PUSH XRP TO $100 - XRP WILL FLIP ETH SOON - AI AGENTS USE XRP ON THE XRPL - XRP NEWS NEW ...
+
+📺 Common Sense Crypto
+
+👁️ 4K • 👍 603 • 💬 90 • ⏱️ 15:36 • 3h ago
+
+---
+
+**[BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZLIMj73KyWg)**
+
+BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 6K • 👍 246 • 💬 56 • ⏱️ 15:50 • 20h ago
 
 ---
 
@@ -281,56 +331,6 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 2K • 👍 109 • 💬 5 • ⏱️ 4:31 • 18h ago
-
----
-
-**[Coinbase Moves To ETH!🔥Robinhood vs Coinbase🔥SHOTS FIRED!](https://www.youtube.com/watch?v=jSKfTE-aZBQ)**
-
-Optimism has plunged to a new all-time low after intense selling pressure overwhelmed recent demand. The decline accelerated ...
-
-📺 Paul Barron Network
-
-👁️ 56K • 👍 3K • 💬 170 • ⏱️ 15:12 • 1d ago
-
----
-
-**[CAN CLARITY ACT PUSH XRP TO $100 - XRP WILL FLIP ETH SOON - AI AGENTS USE XRP ON THE XRPL - XRP NEWS](https://www.youtube.com/watch?v=mT-3oJa1EA4)**
-
-CAN CLARITY ACT PUSH XRP TO $100 - XRP WILL FLIP ETH SOON - AI AGENTS USE XRP ON THE XRPL - XRP NEWS NEW ...
-
-📺 Common Sense Crypto
-
-👁️ 1K • 👍 321 • 💬 35 • ⏱️ 15:36 • 3h ago
-
----
-
-**[WHY ETH CAN RALLY NEXT MONTH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=50RuciUyE7w)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 234 • 👍 11 • ⏱️ 4:35 • 10h ago
-
----
-
-**[BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=ZLIMj73KyWg)**
-
-BITCOIN PRICE PATTERN NO ONE IS WATCHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 241 • 💬 25 • ⏱️ 15:50 • 20h ago
-
----
-
-**[☠️ What does Howard Lutnick know about Ethereum&#39;s Future?](https://www.youtube.com/watch?v=ki0X2Ur6hGQ)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 1K • 👍 144 • 💬 9 • ⏱️ 10:25 • 12h ago
 
 ---
 

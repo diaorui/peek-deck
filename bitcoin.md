@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T20:26:31.257972+00:00'
+updated: '2026-02-21T20:50:11.993277+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 20:26 UTC  
+**Last Updated:** February 21, 2026 at 20:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,553.77
+### $68,565.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.3%  
-**7d:** -0.3%  
-**30d:** -23.5%  
-**90d:** -22.5%  
-**1y:** -29.0%  
+**24h:** +0.8%  
+**7d:** -0.7%  
+**30d:** -23.7%  
+**90d:** -22.8%  
+**1y:** -29.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1369.16B
+**Market Cap:** $1366.67B
 Rank #1
 
-**Circulating Supply:** 19,992,778 BTC
+**Circulating Supply:** 19,992,809 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.7%
+-45.8%
 
 **All-Time Low:** $67.81
-+100914.6%
++100678.6%
 
 ---
 
@@ -81,13 +81,7 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-6h ago
-
----
-
-**[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
-
-4h ago
+7h ago
 
 ---
 
@@ -99,11 +93,9 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 ---
 
-**[Just 0.4 to go to my goal🥹](https://www.reddit.com/r/Bitcoin/comments/1raajx3/just_04_to_go_to_my_goal/)**
+**[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-My stack is still already cool imho. Happy stacking everyone
-
-21h ago
+4h ago
 
 ---
 
@@ -112,6 +104,14 @@ My stack is still already cool imho. Happy stacking everyone
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
 🔗 [Stacker News](https://stacker.news/items/1433892) • 1h ago
+
+---
+
+**[Just 0.4 to go to my goal🥹](https://www.reddit.com/r/Bitcoin/comments/1raajx3/just_04_to_go_to_my_goal/)**
+
+My stack is still already cool imho. Happy stacking everyone
+
+21h ago
 
 ---
 
@@ -143,11 +143,11 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 ---
 
-**[Where are the Hodler's of last resort ? ? ?](https://www.reddit.com/r/Bitcoin/comments/1raorvw/where_are_the_hodlers_of_last_resort/)**
+**[What do people think about the Fidelity Bitcoin ETF?](https://www.reddit.com/r/Bitcoin/comments/1rb19e3/what_do_people_think_about_the_fidelity_bitcoin/)**
 
-Trace Mayer spoke of the group of high conviction Bitcoiner's that won't sell all their Bitcoin at any price ! Does this mythical createture still exist ? ? ?
+I am considering yoloing my daughters' investments at it, I think it seems interesting and unique, but for the most part it seems to trend pretty close to the value of btc so I'm unsure in the benefit over buying coins, and I know people will say that's better, but I'm still interested in feedback on this investment vehicle.
 
-9h ago
+35m ago
 
 ---
 
@@ -155,11 +155,11 @@ Trace Mayer spoke of the group of high conviction Bitcoiner's that won't sell al
 
 ## Google News: "bitcoin"
 
-**[When Bitcoin prices turned against Michael Saylor, he quietly pivoted to a risky financial gambit at Strategy](https://fortune.com/2026/02/20/michael-saylor-bitcoin-prices-preferred-shares-dilution-strategy/)**
+**[Iran’s rial collapse mirrors Lebanon’s crisis, driving citizens to bitcoin](https://www.coindesk.com/opinion/2026/02/21/iran-s-rial-collapse-mirrors-lebanon-s-crisis-driving-citizens-to-bitcoin)**
 
-Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
+With the rial plunging, middle-class savers are bypassing local banks to move billions into the domestic crypto ecosystem.
 
-Fortune • 1d ago
+CoinDesk • 2h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 15h ago
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 54m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 54m ago
 
 Tokenization, blockchain-powered derivatives and cross-border stablecoin payments are emerging as credible use cases — none of which require Bitcoin to function. If anything, stablecoin activity could be correlated with activity on Ethereum or on other chains. And stablecoins are for payments,” said Carlos Domingo, co-founder and CEO of Securitize, a tokenization platform.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -192,14 +192,6 @@ Yahoo Finance • 1h ago
 The US Supreme Court on Friday struck down President Trump’s tariff policy.  Trump on Saturday announced new tariffs.  Bitcoin and Ethereum — previously hurt by Trump’s trade war — are holding steady.
 
 dlnews.com • 2h ago
-
----
-
-**[Iran’s rial collapse mirrors Lebanon’s crisis, driving citizens to bitcoin](https://www.coindesk.com/opinion/2026/02/21/iran-s-rial-collapse-mirrors-lebanon-s-crisis-driving-citizens-to-bitcoin)**
-
-With the rial plunging, middle-class savers are bypassing local banks to move billions into the domestic crypto ecosystem.
-
-CoinDesk • 2h ago
 
 ---
 
@@ -215,21 +207,27 @@ Bitcoin Magazine • 1d ago
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
-**[Bitcoin Rises After Supreme Court Rules Against Trump Tariffs](https://decrypt.co/358761/bitcoin-rises-supreme-court-rules-against-trump-tariffs)**
+**[Bitcoin ignores US Supreme Court Trump tariff strike amid talk of $150B refund](https://www.tradingview.com/news/cointelegraph:6eca7e0fb094b:0-bitcoin-ignores-us-supreme-court-trump-tariff-strike-amid-talk-of-150b-refund/)**
 
-Bitcoin ticked up after the Supreme Court ruled that President Trump exceeded his authority in imposing most tariffs on foreign goods.
+Bitcoin BITSTAMP:BTCUSD saw choppy price action after Friday’s Wall Street open as markets reacted to the US Supreme Court decision on President Donald Trump’s trade tariffs.Key points:Supreme Court ruling attacks Trump tariffsData from TradingView showed $67,000 forming a focus for BTC price actio…
 
-Decrypt • 2d ago
+TradingView • 1d ago
 
 ---
 
 **[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
 
-Forbes • 7h ago
+Forbes • 8h ago
+
+---
+
+**[Bitcoin ETF Gold Rush Turns Into An Epic Bust](https://www.investors.com/etfs-and-funds/etfs/bitcoin-etf-gold-rush-turns-into-an-epic-bust/)**
+
+Investor's Business Daily • 2d ago
 
 ---
 
@@ -250,12 +248,6 @@ Track billions in lost Bitcoin. Explore case studies, check dormant wallets, cal
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
 ⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
-
----
-
-**[A Bitcoin Blunder for the Ages: $40B Accidentally Given Away](https://news.ycombinator.com/item?id=47017670)**
-
-⬆️ 2 • 💬 0 • 7d ago • [wsj.com](https://www.wsj.com/finance/currencies/a-bitcoin-blunder-for-the-ages-40-billion-accidentally-given-away-3a207eac)
 
 ---
 
@@ -307,6 +299,14 @@ Financial independence on a bitcoin standard
 
 ---
 
+**[Show HN: Natural language search across Kalshi and Polymarket](https://news.ycombinator.com/item?id=47088680)**
+
+Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
+
+⬆️ 1 • 💬 0 • 1d ago • [Attena](https://www.attena.xyz/)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -317,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 2K • 💬 225 • ⏱️ 9:14 • 20h ago
+👁️ 57K • 👍 3K • 💬 225 • ⏱️ 9:14 • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 176K • 👍 14K • 💬 2K • ⏱️ 32:14 • 7h ago
+👁️ 267K • 👍 18K • 💬 3K • ⏱️ 32:14 • 7h ago
 
 ---
 
@@ -337,17 +337,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 2K • 💬 75 • ⏱️ 52:37 • 6h ago
-
----
-
-**[When Bitcoin Gets This Oversold, Buy Signal Follows](https://www.youtube.com/watch?v=bmb7tm-jTHo)**
-
-Bitcoin is down roughly 50% from its all-time high, and sentiment is collapsing. But what does historical data say about buying ...
-
-📺 Swan Bitcoin
-
-👁️ 13K • 👍 726 • 💬 59 • ⏱️ 16:21 • 1d ago
+👁️ 35K • 👍 2K • 💬 75 • ⏱️ 52:37 • 6h ago
 
 ---
 
@@ -357,7 +347,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 103 • ⏱️ 55:11 • 1d ago
+👁️ 25K • 👍 1K • 💬 104 • ⏱️ 55:11 • 1d ago
 
 ---
 
@@ -367,7 +357,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 132 • ⏱️ 12:39 • 21h ago
+👁️ 26K • 👍 2K • 💬 150 • ⏱️ 12:39 • 21h ago
 
 ---
 
@@ -377,17 +367,17 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 34K • 👍 1K • ⏱️ 24:35 • 22h ago
+👁️ 35K • 👍 1K • ⏱️ 24:35 • 22h ago
 
 ---
 
-**[$1 Million Per Bitcoin by 2030?!😨😨](https://www.youtube.com/watch?v=xnvmLfzNCeA)**
+**[Michael Saylor on Bitcoin Crash &amp; MSTR Stock Drop – BTC Price Analysis](https://www.youtube.com/watch?v=bsP1DJT1nwc)**
 
-ツFollow me on My REAL Instagram @TradeshipUniversity and DM "CRYPTO" for Automated Trading!
+BTC #Bitcoin #Cryptocurrency Join Michael Saylor for his unforgettable keynote at the Bitcoin Conference. The leading Bitcoin ...
 
-📺 Crypto Cam
+📺 Manfred Thönicke
 
-👁️ 32K • 👍 544 • 💬 47 • ⏱️ 0:30 • 2d ago
+👁️ 3K • 👍 1K • 35m ago
 
 ---
 
@@ -397,17 +387,27 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 5K • 👍 431 • 💬 54 • ⏱️ 13:30 • 8h ago
+👁️ 7K • 👍 482 • 💬 57 • ⏱️ 13:30 • 8h ago
 
 ---
 
-**[I Investigated The Viral Epstein-Bitcoin Conspiracy](https://www.youtube.com/watch?v=8NMRnXFTncU)**
+**[This Trade Works EVERY Time Bitcoin Moves 🪙📈](https://www.youtube.com/watch?v=0_9Ke23WqZc)**
 
-The Epstein and Bitcoin theories are going viral. I love drama so much, I just HAD to do it!!! Check out how to secure your Bitcoin ...
+LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications to know when we're on ✓ CONNECT on IG, ...
 
-📺 BTC Isla
+📺 Dumb Money Live
 
-👁️ 6K • 👍 643 • 💬 123 • ⏱️ 13:43 • 1d ago
+👁️ 14K • 👍 436 • 💬 20 • ⏱️ 1:02 • 17h ago
+
+---
+
+**[Billionaire Investor Reveals Why Bitcoin Keeps Dropping | Mike Novogratz](https://www.youtube.com/watch?v=AIJezYSx0NU)**
+
+Mike Novogratz is a veteran macro investor and the founder & CEO of Galaxy. This conversation was recorded live at Bitcoin ...
+
+📺 Anthony Pompliano
+
+👁️ 65K • 👍 2K • 💬 101 • ⏱️ 28:28 • 2d ago
 
 ---
 
