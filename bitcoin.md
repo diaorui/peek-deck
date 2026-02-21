@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T19:24:45.585923+00:00'
+updated: '2026-02-21T19:46:12.520796+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 19:24 UTC  
+**Last Updated:** February 21, 2026 at 19:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -45,9 +45,9 @@ Live Bitcoin monitoring dashboard
 ## Bitcoin Chart
 
 **24h:** +1.3%  
-**7d:** -0.4%  
+**7d:** -0.3%  
 **30d:** -23.5%  
-**90d:** -22.6%  
+**90d:** -22.5%  
 **1y:** -29.0%  
 
 ---
@@ -81,13 +81,21 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-5h ago
+6h ago
 
 ---
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
 3h ago
+
+---
+
+**[Custom Steel BTC sign](https://www.reddit.com/r/Bitcoin/comments/1rb02ma/custom_steel_btc_sign/)**
+
+I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
+
+19m ago
 
 ---
 
@@ -99,25 +107,11 @@ My stack is still already cool imho. Happy stacking everyone
 
 ---
 
-**[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
+**[Dutch House passes 36% tax on unrealized crypto and investment gains](https://www.reddit.com/r/Bitcoin/comments/1razuzz/dutch_house_passes_36_tax_on_unrealized_crypto/)**
 
-1d ago
+The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
----
-
-**[Running a Bitcoin Full Node Video Tutorial](https://www.reddit.com/r/Bitcoin/comments/1rasy4c/running_a_bitcoin_full_node_video_tutorial/)**
-
-Quick post for those interested in understanding Bitcoin Core under the hood, at a technical level. Public-key cryptography, UTXOs, Consensus, Blockchain Synchronisation, and a lot more in this tutorial where we launch a Full Node on AWS EC2. Tutorial starts at 1:31:15
-
-🔗 [youtube.com](https://www.youtube.com/watch?v=fq0txiTIiFM) • 4h ago
-
----
-
-**[Has holding Bitcoin long-term changed how you react to volatility?](https://www.reddit.com/r/Bitcoin/comments/1rakcse/has_holding_bitcoin_longterm_changed_how_you/)**
-
-When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
-
-12h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 28m ago
 
 ---
 
@@ -126,6 +120,20 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
 1h ago
+
+---
+
+**[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
+
+1d ago
+
+---
+
+**[Has holding Bitcoin long-term changed how you react to volatility?](https://www.reddit.com/r/Bitcoin/comments/1rakcse/has_holding_bitcoin_longterm_changed_how_you/)**
+
+When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
+
+12h ago
 
 ---
 
@@ -143,14 +151,6 @@ Trace Mayer spoke of the group of high conviction Bitcoiner's that won't sell al
 
 ---
 
-**[Missouri #Btc Strategic Reserve bill advances to the House Commerce Committee.](https://www.reddit.com/r/Bitcoin/comments/1radrbh/missouri_btc_strategic_reserve_bill_advances_to/)**
-
-HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
-
-18h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
@@ -163,12 +163,6 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin Trapped in Fragile Trading as Hedge Funds Pivot to Cash](https://www.bloomberg.com/news/articles/2026-02-19/bitcoin-settles-in-trading-range-while-hedge-funds-pivot-to-cash)**
-
-Bloomberg • 1d ago
-
----
-
 **[Bitcoin analysis: Small investors, or shrimps, are buying BTC. But it's the whales who keep rallies going.](https://www.coindesk.com/markets/2026/02/21/small-investors-are-buying-bitcoin-it-now-needs-bigger-players-to-show-up)**
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
@@ -177,11 +171,19 @@ CoinDesk • 14h ago
 
 ---
 
-**[Eric Trump Celebrates American Bitcoin's 'Incredible' 6,000 BTC Milestone — But Stock Has Sunk 85% Since Nasdaq Debut](https://finance.yahoo.com/news/eric-trump-celebrates-american-bitcoins-230105870.html)**
+**[‘Bitcoin to zero’ searches spike in the U.S., but the bottom signal is mixed](https://www.coindesk.com/markets/2026/02/22/bitcoin-to-zero-searches-spike-in-the-u-s-but-the-bottom-signal-is-mixed)**
 
-American Bitcoin Corp. (NASDAQ:ABTC) co-founder Eric Trump toasted the firm’s treasury hitting the 6,000 Bitcoin (CRYPTO: BTC) milestone on Tuesday. Trump Sees ‘Exciting Days Ahead’ In an X post, Trump stated that the firm hit the “incredible” milestone within six...
+Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-Yahoo Finance • 20h ago
+CoinDesk • 14m ago
+
+---
+
+**[Bitcoin’s $1 trillion identity crisis hits from every direction](https://finance.yahoo.com/news/bitcoin-1-trillion-identity-crisis-150000517.html)**
+
+Tokenization, blockchain-powered derivatives and cross-border stablecoin payments are emerging as credible use cases — none of which require Bitcoin to function. If anything, stablecoin activity could be correlated with activity on Ethereum or on other chains. And stablecoins are for payments,” said Carlos Domingo, co-founder and CEO of Securitize, a tokenization platform.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -213,21 +215,21 @@ Bitcoin Magazine • 1d ago
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
-**[Bitcoin ignores US Supreme Court Trump tariff strike amid talk of $150B refund](https://www.tradingview.com/news/cointelegraph:6eca7e0fb094b:0-bitcoin-ignores-us-supreme-court-trump-tariff-strike-amid-talk-of-150b-refund/)**
+**[Bitcoin Rises After Supreme Court Rules Against Trump Tariffs](https://decrypt.co/358761/bitcoin-rises-supreme-court-rules-against-trump-tariffs)**
 
-Bitcoin BITSTAMP:BTCUSD saw choppy price action after Friday’s Wall Street open as markets reacted to the US Supreme Court decision on President Donald Trump’s trade tariffs.Key points:Supreme Court ruling attacks Trump tariffsData from TradingView showed $67,000 forming a focus for BTC price actio…
+Bitcoin ticked up after the Supreme Court ruled that President Trump exceeded his authority in imposing most tariffs on foreign goods.
 
-TradingView • 1d ago
+Decrypt • 2d ago
 
 ---
 
 **[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
 
-Forbes • 6h ago
+Forbes • 7h ago
 
 ---
 
@@ -260,6 +262,12 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
 ⬆️ 1 • 💬 2 • 4d ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+
+---
+
+**[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
+
+⬆️ 1 • 💬 1 • 23m ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -299,14 +307,6 @@ Financial independence on a bitcoin standard
 
 ---
 
-**[Show HN: Natural language search across Kalshi and Polymarket](https://news.ycombinator.com/item?id=47088680)**
-
-Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
-
-⬆️ 1 • 💬 0 • 1d ago • [Attena](https://www.attena.xyz/)
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -317,7 +317,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 54K • 👍 2K • 💬 225 • ⏱️ 9:14 • 19h ago
+👁️ 54K • 👍 2K • 💬 225 • ⏱️ 9:14 • 20h ago
 
 ---
 

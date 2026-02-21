@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T19:24:45.595084+00:00'
+updated: '2026-02-21T19:46:12.529876+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 19:24 UTC  
+**Last Updated:** February 21, 2026 at 19:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -43,6 +43,14 @@ Robotics research and industry news
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
 7h ago
+
+---
+
+**[How is this book to take me from a beginner to an advance robotics engineer?](https://www.reddit.com/r/robotics/comments/1razy46/how_is_this_book_to_take_me_from_a_beginner_to_an/)**
+
+Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
+
+24m ago
 
 ---
 
@@ -66,7 +74,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I am not sure how much of this is for show or how much it could be real. ok moving turret while tracking mosquitos, plenty of examples online but a camera able to recognize them and so much tiny ? a laser so powerful to kill them midair? I am wondering if this is real or just a show and in case where to start to learn how to build own myself. I would appreciate any tip or comment to lead on where to document myself on the hardware for the software i've seen plenty of good libraries in python - or other languages - but i am more interested on which kind of hardware to look for and calculation for power consumption.
 
-7h ago
+8h ago
 
 ---
 
@@ -82,7 +90,7 @@ Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using M
 
 idk if anyone will know about this but does anybody remember hanson robotics who created the robot sophia that was famous a while. Then on their website advertised "little sophia" as a robot companion with their kickstarter. The website still says "preorder" and has been outdated for years. Did they go bankrupt? Out of business? Run off with the kickstarter money? There isn't an adequate rabbit hole I can jump down about this I can't find any info online about this. Their website is preserved the same as it was in 2022 or something so obviously something was abandoned or whatever. I just wanna know mostly out of curiosity, because it seems strange that it was just abandoned and forgotten.
 
-12h ago
+13h ago
 
 ---
 
@@ -102,14 +110,6 @@ My goal is to do a robotics startup, current robotics masters student here going
 
 ---
 
-**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.reddit.com/r/robotics/comments/1ranhso/whos_laughing_now_chinas_humanoid_robots_go_from/)**
-
-China's humanoid robots have gone from viral stumbles to flawless kung fu flips in just one year. Showcased at the 2026 Spring Festival Gala, startups like Unitree are launching highly capable robots starting at just $13,500, heavily undercutting US competitors like Tesla's Optimus.
-
-🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 9h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -122,33 +122,57 @@ CNBC • 1d ago
 
 ---
 
-**[The CEO of a startup building robots for factories explains how US manufacturing is at a crossroads](https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2)**
+**[Toyota contracts seven Agility humanoid robots for Canadian factory](https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/)**
 
-The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
+The robots will be unloading totes full of auto parts from an automated warehouse tugger.
 
-Business Insider • 1d ago
-
----
-
-**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
-
-Tech Xplore • 1d ago
+TechCrunch • 1d ago
 
 ---
 
-**[Video Friday: Humanoid Robots Celebrate Spring](https://spectrum.ieee.org/robot-martial-arts)**
+**[SCORE hosts SeaPerch underwater robotics training for regional educators](https://wire.auburn.edu/content/cosam/2026/02/191200-sea-perch-underwater-robotics-training.php)**
 
-Celebrate the Lunar New Year with a synchronized martial arts demo by humanoid robots and cuddling robot pandas! Plus Perseverance finds itself.
+Auburn University’s Southeastern Center of Robotics Education hosted a SeaPerch underwater robotics training for educators from across the region, providing hands-on professional development in engineering and robotics. Participating teachers learned to build and operate remotely operated vehicles and will bring SeaPerch kits back to their schools to engage students in real-world STEM applications.
 
-IEEE Spectrum • 2d ago
+Auburn University • 19h ago
 
 ---
 
-**[Trojan Horse or Trade Dispute? Texas Attorney General Targets Anzu in High-Stakes Drone Lawsuit](https://dronelife.com/2026/02/19/texas-ag-sues-anzu-robotics-dji-clone-lawsuit/)**
+**[Hawaii robotics team qualifies for World Championships](https://www.hawaiinewsnow.com/2026/02/19/hawaii-robotics-team-qualifies-world-championships/)**
 
-Texas Attorney General Ken Paxton sues Anzu Robotics, alleging deceptive practices and undisclosed ties to DJI in Collin County court filing.
+Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
 
-Dronelife • 2d ago
+Hawaii News Now • 2d ago
+
+---
+
+**[Golabs Showcases Robotics at Denago EV’s Booth at The American Express PGA Tour](https://www.thebuzzevnews.com/golabs-robotics-denago-ev/)**
+
+Golabs announced that, throughout the tournament, it hosted live demonstrations of its robotics solutions at Denago EV's booth.
+
+thebuzzevnews.com • 6h ago
+
+---
+
+**[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
+
+Forbes • 2d ago
+
+---
+
+**[Ghost Robotics: Innovating for safety](https://www.therobotreport.com/ghost-robotics-innovating-for-safety/)**
+
+Gavin Kenneally, co-founder and CEO of Ghost Robotics, discusses the design and function of the Vision 60 quadruped robots in the latest podcast episode.
+
+The Robot Report • 19h ago
+
+---
+
+**[Future Engineers on Display as CSM Hosts Regional Robotics Tournaments](https://smnewsnet.com/archives/556523/future-engineers-on-display-as-csm-hosts-regional-robotics-tournaments/)**
+
+Hundreds of students from across the region traveled to the College of Southern Maryland (CSM) in January and February to showcase their engineering skills during a series of VEX Robotics competitions. Separate tournaments were held on the CSM La Plata Campus for elementary and middle school, high school, and college level teams. Competitors demonstrated their ability to design, build, test, and operate robots to complete task-based challenges, applying teamwork, problem-solving, and critical thinking along the way. More than 20 elementary and middle school teams competed in the VEX IQ tournament on Jan. 24, and on Feb. 7, more than 30 regional high school teams filled the CSM Physical Education Center to put their robots to the test. Talons robotics team members supported both competitions as referees, scorekeepers, and judges, providing mentorship and leadership for younger participants. The CSM Talons Robotics team stood out at the Feb. 6 college-level competition, sweeping every match and outscoring four other teams from four-year universities. Talons team member Alexander Hawe said the win was a major confidence boost. “We had some setbacks and went through a full redesign from the robot we had in Manassas,” he said, referring to a November tournament in November. “After […]
+
+Southern Maryland News Net • 5h ago
 
 ---
 
@@ -160,33 +184,11 @@ New Atlas • 8h ago
 
 ---
 
-**[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
+**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
-Zacks Investment Research • 2d ago
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
----
-
-**[Robot dog: Galgotias University faces backlash for claiming Chinese product as own at India AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
-
-A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
-
-BBC • 3d ago
-
----
-
-**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.nasdaq.com/articles/teslas-3-trillion-opportunity-how-optimus-could-dominate-robotics-market-2026)**
-
-Key PointsTesla is repurposing EV factories to build its Optimus robots.
-
-Nasdaq • 23h ago
-
----
-
-**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
-
-Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
-
-Automotive News • 2d ago
+TechCrunch • 3d ago
 
 ---
 
@@ -230,7 +232,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 20K • 👍 167 • 💬 85 • ⏱️ 2:14 • 16h ago
+👁️ 20K • 👍 167 • 💬 85 • ⏱️ 2:14 • 17h ago
 
 ---
 
@@ -240,7 +242,7 @@ Viral: China's Humanoid Robots Take Center Stage For Lunar New Year Showtime | S
 
 📺 Mint
 
-👁️ 9K • 👍 96 • 💬 78 • ⏱️ 3:01 • 15h ago
+👁️ 9K • 👍 96 • 💬 78 • ⏱️ 3:01 • 16h ago
 
 ---
 
@@ -248,7 +250,7 @@ Viral: China's Humanoid Robots Take Center Stage For Lunar New Year Showtime | S
 
 📺 Austen Hartley
 
-👁️ 731 • 👍 38 • 💬 1 • ⏱️ 0:39 • 3h ago
+👁️ 731 • 👍 38 • 💬 1 • ⏱️ 0:39 • 4h ago
 
 ---
 

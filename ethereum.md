@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T19:24:45.591889+00:00'
+updated: '2026-02-21T19:46:12.526697+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- social
 - videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 19:24 UTC  
+**Last Updated:** February 21, 2026 at 19:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,13 +36,13 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,988.30
+### $1,992.23
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.4%  
+**24h:** +1.0%  
 **7d:** +1.3%  
 **30d:** -32.7%  
 **90d:** -32.6%  
@@ -132,19 +132,19 @@ Justin Drake dives deep into Lean Ethereum In this episode (which is the first i
 
 ---
 
-**[Vibehouse: Ethereum’s Vibecoded Consensus Client from Lighthouse](https://www.reddit.com/r/ethereum/comments/1r9rytg/vibehouse_ethereums_vibecoded_consensus_client/)**
-
-Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and passed consensus tests on a multi node devnet.
-
-🔗 [EtherWorld.co](https://etherworld.co/vibehouse-ethereums-vibecoded-consensus-client-from-lighthouse/) • 1d ago
-
----
-
 **[Vitalik Pushes Back on “Sovereign AI” as Web4 Essay Sparks Debate](https://www.reddit.com/r/ethereum/comments/1r9rnmm/vitalik_pushes_back_on_sovereign_ai_as_web4_essay/)**
 
 Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that expanding AI autonomy without strong human alignment could increase systemic risk as crypto and AI converge.
 
 🔗 [EtherWorld.co](https://etherworld.co/vitalik-pushes-back-on-sovereign-ai-as-web4-essay-sparks-debate/) • 1d ago
+
+---
+
+**[Vibehouse: Ethereum’s Vibecoded Consensus Client from Lighthouse](https://www.reddit.com/r/ethereum/comments/1r9rytg/vibehouse_ethereums_vibecoded_consensus_client/)**
+
+Vibehouse, an AI generated fork of Lighthouse, implemented ePBS in 72 hours and passed consensus tests on a multi node devnet.
+
+🔗 [EtherWorld.co](https://etherworld.co/vibehouse-ethereums-vibecoded-consensus-client-from-lighthouse/) • 1d ago
 
 ---
 
@@ -168,19 +168,33 @@ Decrypt • 5h ago
 
 ---
 
-**[BNP Paribas uses Ethereum for money market tokenisation pilot](https://finance.yahoo.com/news/bnp-paribas-uses-ethereum-money-160634831.html)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfsiuQRVeNu-b5izc8snmhog1e-fGoOyi0EkY6vP8xJRcx8JQ__EmYy&gaa_ts=699a0eef&gaa_sig=8e2Wq3PgFHvJw8foTeHaHAq5AvvSlWPnae8BSKzFVIoN21YwGm280R1Gic52dsYOHpnF5JWLime0G2fDmJCLuQ%3D%3D)**
 
-BNP Paribas Asset Management tokenised a money market fund. The French asset manager used Ethereum for the experiment. A number of top traditional finance institutions are delving into the world of tokenisation.
-
-Yahoo Finance • 3h ago
+Barron's • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum hold firm as Trump announces global tariff hike](https://www.dlnews.com/articles/markets/bitcoin-price-holds-firm-despite-trump-tariff-announcement/)**
+**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
 
-The US Supreme Court on Friday struck down President Trump’s tariff policy.  Trump on Saturday announced new tariffs.  Bitcoin and Ethereum — previously hurt by Trump’s trade war — are holding steady.
+BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
 
-dlnews.com • 1h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin, Ethereum hold firm as Trump announces global tariff hike](https://finance.yahoo.com/news/bitcoin-ethereum-hold-firm-trump-181742981.html)**
+
+The US Supreme Court on Friday struck down President Trump’s tariff policy. Trump on Saturday announced new tariffs. Bitcoin and Ethereum — previously hurt by Trump’s trade war — are holding steady.
+
+Yahoo Finance • 1h ago
+
+---
+
+**[BNP Paribas uses Ethereum for money market tokenisation pilot](https://www.dlnews.com/articles/markets/ethereum-used-by-bnp-paribas-to-tokenise-money-fund/)**
+
+BNP Paribas Asset Management tokenised a money market fund. The French asset manager used Ethereum for the experiment.  A number of top traditional finance institutions are delving into the world of tokenisation.
+
+dlnews.com • 3h ago
 
 ---
 
@@ -192,17 +206,19 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[The Ethereum creator and early Polymarket backer doesn't like the direction prediction markets are headed](https://www.businessinsider.com/ethereum-creator-polymarket-backer-raises-concern-about-prediction-markets-future-2026-2)**
+**[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
 
-Vitalik Buterin, an early Polymarket backer, said prediction markets risk devolving into "corposlop" rather than having long-term financial utility.
+The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
 
-Business Insider • 3d ago
+Fortune • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfQkBi6oABTafZalhEinEEmWg8adnz0Bvjk-btH2zAXMgpAozY-F8rV&gaa_ts=6999feb3&gaa_sig=F7FwqVLMlo5J9lNUBmYA8CWj0kW3UbTmbZGAPCOED131C0xDttWyPdHFlKAs8B8p_K3arjthXzn82ni7Tuv7cg%3D%3D)**
+**[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
 
-Barron's • 1d ago
+The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
+
+CoinDesk • 22m ago
 
 ---
 
@@ -211,22 +227,6 @@ Barron's • 1d ago
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
 Nasdaq • 1d ago
-
----
-
-**[Dual South Korean listings send Ethereum layer-2 token AZTEC surging 82%](https://www.coindesk.com/markets/2026/02/20/dual-s-korea-listings-send-ethereum-layer-2-token-aztec-surging-82)**
-
-Korean exchanges Upbit and Bithumb both added local currency pairs for the privacy-focused layer-2 token, triggering a sharp move in a thinly traded market.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitmine Immersion: Ethereum's Biggest Public Whale (NYSE:BMNR)](https://seekingalpha.com/article/4871611-bitmine-immersion-ethereum-biggest-public-whale)**
-
-Asymmetric upside for Bitmine Immersion Technologies is likely if Ethereum (and the whole crypto space) recovers from the recent downtrend. More on BMNR stock.
-
-Seeking Alpha • 3d ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 950 • 👍 104 • 💬 5 • ⏱️ 4:43 • 4h ago
+👁️ 950 • 👍 104 • 💬 5 • ⏱️ 4:43 • 5h ago
 
 ---
 
