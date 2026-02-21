@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T17:27:15.309980+00:00'
+updated: '2026-02-21T17:51:50.250148+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 17:27 UTC  
+**Last Updated:** February 21, 2026 at 17:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ My stack is still already cool imho. Happy stacking everyone
 
 Quick post for those interested in understanding Bitcoin Core under the hood, at a technical level. Public-key cryptography, UTXOs, Consensus, Blockchain Synchronisation, and a lot more in this tutorial where we launch a Full Node on AWS EC2. Tutorial starts at 1:31:15
 
-🔗 [youtube.com](https://www.youtube.com/watch?v=fq0txiTIiFM) • 2h ago
+🔗 [youtube.com](https://www.youtube.com/watch?v=fq0txiTIiFM) • 3h ago
 
 ---
 
@@ -125,7 +125,7 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 About 6 years ago i gifted my grandma 2 bitcoin as a gift and to teach her how to use Bitcoin. It was one of the best gift's i could have gifted to her, everyday she woke up excited to see what they were valued at and became genuinely interested in the technology, the communities, and she witnessed history as Bitcoin became popular. Coming from a hard working family, and as a kid never imagining having so much money especially in the form of digital wallet on a phone. While there were times I wanted to ask grandma to sell some, i never did, and she decided to diamond hand never asking me how to move them into a different form of value since the first day. A true HODLer. As a remembrance to her, they will stay in her wallet forever. Long live grandma on the Bitcoin blockchain. Love you grandma. Original post on my profile. Tell your people you love them and get them some Bitcoin, it's a beautiful thing to remember those transactions and contribute to Bitcoin in a positive way.
 
-10m ago
+35m ago
 
 ---
 
@@ -205,19 +205,19 @@ CoinDesk • 20h ago
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 43m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bloomington man loses $7,600 in Bitcoin to suspect posing as sheriff’s deputy in jury duty scam](https://fox59.com/news/indynews/bloomington-man-loses-7600-in-bitcoin-to-suspect-posing-as-sheriffs-deputy-in-jury-duty-scam/)**
 
-Fox 59 • 19h ago
+Fox 59 • 20h ago
 
 ---
 
 **[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
 
-Forbes • 4h ago
+Forbes • 5h ago
 
 ---
 
@@ -243,7 +243,7 @@ Track billions in lost Bitcoin. Explore case studies, check dormant wallets, cal
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 3 • 💬 0 • 3d ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -313,7 +313,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 2K • 💬 213 • ⏱️ 9:14 • 17h ago
+👁️ 51K • 👍 2K • 💬 213 • ⏱️ 9:14 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-21T17:27:15.315844+00:00'
+updated: '2026-02-21T17:51:50.256450+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - cryptocurrency
-- news
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 17:27 UTC  
+**Last Updated:** February 21, 2026 at 17:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -156,7 +156,7 @@ Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that e
 
 The tokenized shares were issued by the BNP Paribas’ AssetFoundryTM platform using a "permissioned access model on Ethereum."
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 495 • 👍 76 • 💬 4 • ⏱️ 4:43 • 2h ago
+👁️ 495 • 👍 76 • 💬 4 • ⏱️ 4:43 • 3h ago
 
 ---
 
@@ -320,7 +320,7 @@ Bitcoin is facing a major narrative test in 2026. After a brutal 50% drawdown, c
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 161 • 💬 7 • ⏱️ 22:07 • 17h ago
+👁️ 4K • 👍 161 • 💬 7 • ⏱️ 22:07 • 18h ago
 
 ---
 

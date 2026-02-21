@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-21T17:27:15.301713+00:00'
+updated: '2026-02-21T17:51:50.241804+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- news
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 21, 2026 at 17:27 UTC  
+**Last Updated:** February 21, 2026 at 17:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ His case highlights a broader issue as U.S.-based AI tools block analysis of sen
 
 Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
 
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 23h ago
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ At the Sentient Futures Summit, AI engineers, ethicists, and lawyers debate the 
 
 Seeking legal and technical answers. Working with some people on this question and we keep reaching a conclusion that it can't. That it's not possible. AI can exist anywhere in the world, governed under others' laws (or none at all). It can't be blocked since the internet can't technically, actually, block something. It can be accessed through countless channels, apps, or experiences. Is there a legitimate way in which AI can technically and truly be made safe or controlled? Important question for reasons we don't think everyone realizes. If the answer is "no" then politicians are effectively causing harm by pretending they can... They pander votes under false pretenses and they set a false sense of security that we'll be safe because they'll make laws to protect us. It's like passing a law requiring that fire not hurt us. Sure, pass the law, but it's not possible for it to be so.
 
-2h ago
+3h ago
 
 ---
 
@@ -105,7 +105,7 @@ There’s a surreal absurdity in watching a Chinese frontier model reason its wa
 
 So I've been watching people struggle with file organization for years. They have 10,000+ files scattered across Downloads, Desktop, Documents. They want to organize but the thought of setting up rules feels like learning regex. That's why I built the AI Job Builder for VaultSort. Here's how it works: you describe what you want in plain English. "Move all screenshots older than 30 days to ~/Archive/Screenshots, organized by month." The AI generates the complete rule set - predicates, logic, folder structure - in under 15 seconds. You review it, edit if needed, then run it. The thing that matters: you own the AI cost. No subscription. No mystery charges. You bring your own API key (OpenAI, Anthropic, Google Gemini), or use the free Gemini tier and pay $0. The rules it generates are transparent and editable — not a black box. I've tested it on everything from "organize my photo library by camera model and date" to "move all PDFs with invoices in the filename to my accounting folder." It handles the logic tree without you having to think about AND/OR/NOT operators. It's a premium feature (one-time purchase, no subscription), but honestly, if you're managing thousands of files and dread the organizational work, it's probably worth it. VaultSort link if you want to try it. Happy to answer questions about how it works or why I built it this way.
 
-22h ago
+23h ago
 
 ---
 
@@ -153,7 +153,7 @@ TechCrunch • 1h ago
 
 Ahead of her Boston show, the Grammy nominee discusses her inspirations — and reveals her unexpected Massachusetts connection.
 
-Boston.com • 2h ago
+Boston.com • 3h ago
 
 ---
 
@@ -161,13 +161,13 @@ Boston.com • 2h ago
 
 Tech and world leaders flocked to New Delhi for the India AI Impact Summit
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
 **[At A.I. Summit, India Tries to Find a Way Between the U.S. and China](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Guardian • 1d ago
 
 **[The Hong Kong Investor Putting American Money Into China’s AI Push](https://www.wsj.com/tech/ai/the-hong-kong-investor-putting-american-money-into-chinas-ai-push-e7487c0b?gaa_at=eafs&gaa_n=AWEtsqcvPIqJVYoiH0FMuE1_hV6A1eX_-QoNkyf-4lBTyTRpzJppipQgWFvw&gaa_ts=6999ee5d&gaa_sig=aPklKyzVa3MOHacUAx7a0ineW-kI_iWL9aXp0b6PiHDGdOTjXpg5edOrqfbRaiy1tQIYDg2-kPcvRdGIjJ2yGQ%3D%3D)**
 
-The Wall Street Journal • 8h ago
+The Wall Street Journal • 9h ago
 
 ---
 
@@ -256,7 +256,7 @@ Artificial intelligence promises to reshape economies worldwide, but firm-level 
 
 We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. Our retail clients grow their businesses through Meta Ads, and for a lot of them, it’s their single most important…
 
-⬆️ 141 • 💬 102 • 12h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
+⬆️ 141 • 💬 102 • 13h ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 
 ---
 
@@ -272,7 +272,7 @@ Python and JavaScript/TypeScript AI frameworks are reinventing what telecom solv
 
 AI agents are good at doing one thing at a time. Give Claude a focused task and it performs. But real work isn’t one task. It’s a tree of tasks with dependencies, parallelism, and context that need...
 
-⬆️ 127 • 💬 69 • 15h ago • [June Kim](https://www.june.kim/cord)
+⬆️ 127 • 💬 69 • 16h ago • [June Kim](https://www.june.kim/cord)
 
 ---
 
@@ -646,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.2k • 🔱 1.8k • 57m ago
+⭐ 16.2k • 🔱 1.8k • 1h ago
 
 ---
 
@@ -714,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 179 • 1h ago
+⭐ 2.6k • 🔱 179 • 2h ago
 
 ---
 
