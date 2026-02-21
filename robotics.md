@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T14:53:56.219316+00:00'
+updated: '2026-02-21T15:26:10.540509+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 14:53 UTC  
+**Last Updated:** February 21, 2026 at 15:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
-2h ago
+3h ago
 
 ---
 
@@ -60,7 +60,7 @@ I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I 
 
 China's humanoid robots have gone from viral stumbles to flawless kung fu flips in just one year. Showcased at the 2026 Spring Festival Gala, startups like Unitree are launching highly capable robots starting at just $13,500, heavily undercutting US competitors like Tesla's Optimus.
 
-🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 4h ago
+🔗 [CNBC](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html) • 5h ago
 
 ---
 
@@ -158,7 +158,7 @@ TechCrunch • 2d ago
 
 **[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
 
-Tech Xplore • 23h ago
+Tech Xplore • 1d ago
 
 ---
 

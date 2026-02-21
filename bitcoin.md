@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-21T14:53:56.210111+00:00'
+updated: '2026-02-21T15:26:10.531239+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 21, 2026 at 14:53 UTC  
+**Last Updated:** February 21, 2026 at 15:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 My stack is still already cool imho. Happy stacking everyone
 
-15h ago
+16h ago
 
 ---
 
@@ -103,13 +103,13 @@ My stack is still already cool imho. Happy stacking everyone
 
 When I first started holding Bitcoin, price swings felt intense. Even small drops would get my attention. Over time, I’ve noticed I react very differently. The volatility feels more normal now, and I don’t check the price as often. For those who have been holding for years, did your emotional reaction change too? Is this just part of understanding Bitcoin better? Would appreciate hearing long-term perspectives.
 
-7h ago
+8h ago
 
 ---
 
 **[Bitcoin is going to the moon $201352](https://www.reddit.com/r/Bitcoin/comments/1ra2vi6/bitcoin_is_going_to_the_moon_201352/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -117,7 +117,7 @@ When I first started holding Bitcoin, price swings felt intense. Even small drop
 
 HB 2080 would establish a reserve fund authorizing the state treasurer to accept and hold $BTC donations for a minimum of five years. The committee will review the bill before deciding whether to move it to the House floor.
 
-13h ago
+14h ago
 
 ---
 
@@ -125,7 +125,7 @@ HB 2080 would establish a reserve fund authorizing the state treasurer to accept
 
 I've been in crypto for about three years now and I noticed something weird lately. When I first started, a 5% dip would have me checking my phone every two minutes and panicking. Now, I see a 20% crash and I just... don't care. It is like I have become completely desensitized to losing or gaining money in short bursts. I feel like this space has totally rewired how my brain processes risk and reward. Has anyone else experienced this emotional numbness, or am I just becoming a bit of a degenerate?
 
-17h ago
+18h ago
 
 ---
 
@@ -141,7 +141,7 @@ I constantly see people talking about the 4-year cycle with absolute conviction 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I will be in Perth in the next few months. Can you tell me where I could buy BTC without KYC? I'm coming from outside Australia and will be staying for a few years. Thanks to all community!
 
-4h ago
+5h ago
 
 ---
 
@@ -169,7 +169,7 @@ Fortune • 1d ago
 
 Small wallets have increased their BTC holdings by 2.5% since October's all-time high while large holders trimmed 0.8%, Santiment data shows.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -183,7 +183,7 @@ dlnews.com • 3h ago
 
 **[Crypto News: Spot Bitcoin ETFs Extend Outflow Streak to Five Weeks as $3.8B Exits Amid Macro Uncertainty](https://www.binance.com/en/square/post/294056002572897)**
 
-Binance • 57m ago
+Binance • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ Binance • 57m ago
 
 Private-equity firm Blue Owl Capital (OWL) tumbled nearly 15% this week as it was forced to liquidate $1.4 billion in assets to pay investors looking to exit one of its private credit funds.
 
-CoinDesk • 50m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -199,7 +199,7 @@ CoinDesk • 50m ago
 
 Crypto influencer Ran Neuner said Bitcoin (CRYPTO: BTC) failed its defining test as a store of value, questioning the entire thesis for the first time in 12 years after capital fled to gold instead of BTC during recent market stress....
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -213,7 +213,7 @@ Bloomberg.com • 1d ago
 
 The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
 
-Bitcoin Magazine • 21h ago
+Bitcoin Magazine • 22h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bitcoin Magazine • 21h ago
 
 Bitcoin's downturn has certain critics predicting a total collapse, suggesting its value could eventually plunge to zero dollars.
 
-Futurism • 22h ago
+Futurism • 23h ago
 
 ---
 
@@ -275,7 +275,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 1h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 2h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -283,7 +283,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 20h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 21h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
@@ -329,7 +329,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 121 • ⏱️ 12:39 • 15h ago
+👁️ 22K • 👍 2K • 💬 121 • ⏱️ 12:39 • 16h ago
 
 ---
 
@@ -339,7 +339,7 @@ Michael Saylor finally admits bitcoin is in a bear market - but the question is 
 
 📺 Simply Bitcoin
 
-👁️ 8K • 👍 346 • 💬 54 • ⏱️ 1:11:34 • 19h ago
+👁️ 8K • 👍 346 • 💬 54 • ⏱️ 1:11:34 • 20h ago
 
 ---
 
@@ -349,7 +349,7 @@ Make Free Predictions on Crypto, Sports, Politics & More on *ClashPicks* ▻ htt
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 102 • ⏱️ 55:11 • 22h ago
+👁️ 24K • 👍 1K • 💬 102 • ⏱️ 55:11 • 23h ago
 
 ---
 
@@ -369,7 +369,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 30K • 👍 1K • ⏱️ 24:35 • 16h ago
+👁️ 30K • 👍 1K • ⏱️ 24:35 • 17h ago
 
 ---
 
@@ -389,7 +389,7 @@ The Epstein and Bitcoin theories are going viral. I love drama so much, I just H
 
 📺 BTC Isla
 
-👁️ 6K • 👍 586 • 💬 110 • ⏱️ 13:43 • 20h ago
+👁️ 6K • 👍 586 • 💬 110 • ⏱️ 13:43 • 21h ago
 
 ---
 
