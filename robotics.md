@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T08:33:22.361477+00:00'
+updated: '2026-02-21T09:31:53.102569+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 08:33 UTC  
+**Last Updated:** February 21, 2026 at 09:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Amazon FAR and researchers from University of California, Berkeley, Carnegie Mellon University, and Stanford University just released PHP (Perceptive Humanoid Parkour), enabling a Unitree G1 humanoid to perform highly dynamic parkour using only onboard depth sensing. The robot climbs 1.25m walls (96% of its height), vaults over obstacles at 3 m/s, and autonomously traverses 60-second multi-obstacle courses with closed-loop adaptation to real-time obstacle changes. Website: https://php-parkour.github.io/ Paper: https://arxiv.org/abs/2602.15827
 
-20h ago
+21h ago
 
 ---
 
@@ -44,7 +44,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using MoveIt Servo to command X/Y/Z position only, Joint 4 moves unexpectedly. This does NOT happen in Gazebo simulation with identical code. Key observations: Joint 4 moves consistently in one direction for +Z, opposite direction for -Z Not random — same behavior every time Works perfectly in Gazebo simulation Happens regardless of whether I publish to /arm_group_controller/joint_trajectory or direct /joint_commands_to_teensy commands [I switched to /joint_commands_to_teensy because robot was jerky when i gave it to trajectory controller] The only difference between hardware and simulation is the command_out_topic in real world i use /joint_commands_to_teensy and simulation i use /arm_group_controller/joint_trajectory --- here is the yaml file All encoders are working and providing feedback(I use dc encoder motors) Hardware Setup Teensy 4.1 microcontroller with micro-ROS 6 motors with encoders on all joints CytronMD motor drivers Using KDL kinematics solver What I've Tried Verified joint ordering is correct (tested each joint individually) Confirmed encoder directions and zero calibration Tested both control topics (/arm_group_controller/joint_trajectory and /joint_commands_to_teensy) Increased loop rate from 100ms to 20ms to match servo publish rate Checked Gazebo simulation closely — Joint 4 does NOT move during +Z/-Z commands Code Snippets Teensy Loop Rate: cppvoid loop() { RCSOFTCHECK(rclc_executor_spin_some(&executor, RCL_MS_TO_NS(20))); } Servo Config yaml: publish_period: 0.02 # 50Hz command_in_type: "speed_units" move_group_name: "arm_group" planning_frame: "base_link" ee_frame_name: "fake_link" Joint Command Callback: cppvoid joint_command_callback(const void * msgin) { const std_msgs__msg__Float64MultiArray * msg = (const std_msgs__msg__Float64MultiArray *)msgin; for (size_t i = 0; i < NUM_MOTORS && i < msg->data.size; i++) { float new_target = msg->data.data[i] * (180.0 / M_PI); if (i == 2) { new_target = new_target * -1; } if (abs(new_target - motors[i].target_angle) > 0.1) { motors[i].target_angle = new_target; motors[i].integral = 0; motors[i].settled_count = 0; } } } The Mystery In real world the joint_4 is moving unwanted -- here is the video when robot executes +z and -z --------- But in Gazebo simulation with the exact same input, Joint 4 only has minimum motion -- here is the simulation video . Questions Is this expected behavior for a 5-DOF robot? Is there a MoveIt Servo parameter to constrain/lock certain joints during position-only commands? Why does Gazebo not exhibit this behavior while hardware does? Any insights appreciated!
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using M
 
 idk if anyone will know about this but does anybody remember hanson robotics who created the robot sophia that was famous a while. Then on their website advertised "little sophia" as a robot companion with their kickstarter. The website still says "preorder" and has been outdated for years. Did they go bankrupt? Out of business? Run off with the kickstarter money? There isn't an adequate rabbit hole I can jump down about this I can't find any info online about this. Their website is preserved the same as it was in 2022 or something so obviously something was abandoned or whatever. I just wanna know mostly out of curiosity, because it seems strange that it was just abandoned and forgotten.
 
-1h ago
+2h ago
 
 ---
 
@@ -60,7 +60,7 @@ idk if anyone will know about this but does anybody remember hanson robotics who
 
 ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 12h ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 13h ago
 
 ---
 
@@ -76,7 +76,7 @@ From Eren Chen on 𝕏: https://x.com/ErenChenAI/status/2024182978553815314
 
 My goal is to do a robotics startup, current robotics masters student here going for a PhD soonish. What field of robotics do you guys think has the most potential for a successful startup? I want to do field robotics specifically. My biggest 2 rn is marine and space robotics, I would ideally find a lab that works in one of those areas and contribute/learn as much as I can.
 
-9h ago
+10h ago
 
 ---
 
@@ -84,7 +84,7 @@ My goal is to do a robotics startup, current robotics masters student here going
 
 I had a daydream to help scientists find out more information from rare caves of Denisovans and Hominids. What do you think? Can archaeologists use this kind of technology? Thanks for watching!
 
-17h ago
+18h ago
 
 ---
 
@@ -98,7 +98,7 @@ I had a daydream to help scientists find out more information from rare caves of
 
 Join us online Wednesday, February 25th at 2pm PT. All are welcome to attend. RSVP Here
 
-11h ago
+12h ago
 
 ---
 
@@ -106,7 +106,7 @@ Join us online Wednesday, February 25th at 2pm PT. All are welcome to attend. RS
 
 A bidirectional Digital Twin for a 3-DOF robotic arm, built using Arduino, Unity 3D, and Serial Communication. This project creates a real time connection between the physical robotic arm and its digital twin, enabling: Physical to Digital: Potentiometer sensors drive the Unity model in real-time. Digital to Physical: Adjusting the Unity model actuates the real servos via serial commands. Technical Highlights: Euler Angle Mapping to accurately mirror joint rotations between Unity and hardware. (I have explained euler angles in my documentation) State Machine Implementation to prevent jittering and data collisions. Hardware: Arduino Uno, 3x MG90S Servos, 3x 10k Potentiometers, isolated power rails. Challenges & Solutions: Mesh Deformation in Unity that were resolved with pivot/mesh hierarchy normalization. Coordinate System Mismatch that i solved via mapping and axis inversion. Latency issues were solved with manual/monitor mode toggle. Skills Demonstrated: Robotics, Embedded Systems, C++/C#, Unity3D, Electronics, Real-Time Systems, Digital Twin Architecture. I’ve documented everything, including circuit diagrams, code, and live demo, on my GitHub: https://github.com/D1Ahmed/Robotic-Arm-3DOF-arduino-and-unity I'll prefer u guys to checkout the Documentation on my github, and if anyone is interested this project and wanna clear their doubts, I am available to share my knowledge. This project not only strengthened my understanding of cyber+physical systems but also reinforced my ability to integrate hardware and software seamlessly. #Robotics #DigitalTwin #Unity3D #Arduino #EmbeddedSystems #CyberPhysicalSystems #Innovation #Engineering #Electronics #RealtimeSimulation
 
-11h ago
+12h ago
 
 ---
 
@@ -126,7 +126,7 @@ Fox News • 19h ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 21h ago
+Business Insider • 22h ago
 
 ---
 
@@ -134,7 +134,7 @@ Business Insider • 21h ago
 
 Tesla has a few robotics advantages that it's tapping into.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -158,7 +158,7 @@ TechCrunch • 2d ago
 
 Everyone knows NVIDIA (NASDAQ:NVDA | NVDA Price Prediction) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
 
-24/7 Wall St. • 18h ago
+24/7 Wall St. • 19h ago
 
 ---
 
@@ -170,7 +170,7 @@ Forbes • 1d ago
 
 **[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
 
-Tech Xplore • 17h ago
+Tech Xplore • 18h ago
 
 ---
 
@@ -192,13 +192,23 @@ South China Morning Post • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Humanoid Robots Grab Spotlight at Spring Festival Gala](https://www.youtube.com/watch?v=1XCpBJn-Puc)**
+
+Humanoid robots took center stage at China's annual Spring Festival Gala, performing acrobatic dances and kung fu routines.
+
+📺 Bloomberg Television
+
+👁️ 100K • 👍 700 • 💬 407 • ⏱️ 3:48 • 2d ago
+
+---
+
 **[How Unitree Trained Robots to Master Real Kung Fu Moves](https://www.youtube.com/watch?v=VPRIl-j-T7Q)**
 
 Unitree's humanoid robots did not just perform kung fu on stage. They trained for it like professional athletes. In this video, we ...
 
 📺 DPCcars
 
-👁️ 146K • 👍 2K • 💬 809 • ⏱️ 2:00 • 3d ago
+👁️ 147K • 👍 2K • 💬 822 • ⏱️ 2:00 • 3d ago
 
 ---
 
@@ -208,7 +218,7 @@ Humanoid robots took the stage and captivated the world performing dances and ku
 
 📺 NBC News
 
-👁️ 367K • 👍 2K • 💬 895 • ⏱️ 2:36 • 3d ago
+👁️ 369K • 👍 2K • 💬 897 • ⏱️ 2:36 • 3d ago
 
 ---
 
@@ -218,7 +228,17 @@ Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
 📺 Wall Street Millennial
 
-👁️ 46K • 👍 2K • 💬 524 • ⏱️ 13:31 • 1d ago
+👁️ 47K • 👍 2K • 💬 531 • ⏱️ 13:31 • 1d ago
+
+---
+
+**[Viral: China&#39;s Humanoid Robots Take Center Stage For Lunar New Year Showtime | Should We Be Worried?](https://www.youtube.com/watch?v=CfoOuK_Xroo)**
+
+Viral: China's Humanoid Robots Take Center Stage For Lunar New Year Showtime | Should We Be Worried? China has grabbed ...
+
+📺 Mint
+
+👁️ 3K • 👍 57 • 💬 57 • ⏱️ 3:01 • 6h ago
 
 ---
 
@@ -228,7 +248,25 @@ Robots were front and center during the 2026 Spring Festival Gala on primetime C
 
 📺 Kalil 4.0
 
-👁️ 76K • 👍 2K • 💬 224 • ⏱️ 0:49 • 4d ago
+👁️ 77K • 👍 2K • 💬 225 • ⏱️ 0:49 • 4d ago
+
+---
+
+**[I bought Delivery Cat! Like if you want him🥰  #robot #unboxing #delivery](https://www.youtube.com/watch?v=1E-FDo9ocaY)**
+
+📺 Kate Yepik
+
+👁️ 101K • 👍 2K • 💬 13 • ⏱️ 0:27 • 2d ago
+
+---
+
+**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+
+By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+
+📺 NVIDIA
+
+👁️ 29K • 👍 1K • ⏱️ 2:51 • 2d ago
 
 ---
 
@@ -238,55 +276,17 @@ Unitree Robotics is plotting an aggressive expansion following its viral showing
 
 📺 Kalil 4.0
 
-👁️ 33K • 👍 528 • 💬 39 • ⏱️ 0:40 • 3d ago
+👁️ 34K • 👍 540 • 💬 39 • ⏱️ 0:40 • 3d ago
 
 ---
 
-**[Humanoid Robots Grab Spotlight at Spring Festival Gala](https://www.youtube.com/watch?v=1XCpBJn-Puc)**
+**[Unitree&#39;s Expansion Plans Just Got SCARY: China&#39;s Kung Fu Humanoid Robots Rise](https://www.youtube.com/watch?v=9x4fK7R7VAE)**
 
-Humanoid robots took center stage at China's annual Spring Festival Gala, performing acrobatic dances and kung fu routines.
+Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
 
-📺 Bloomberg Television
+📺 Kalil 4.0
 
-👁️ 97K • 👍 693 • 💬 407 • ⏱️ 3:48 • 2d ago
-
----
-
-**[What the Spring Festival robots show about China&#39;s technological prowess | ABC NEWS](https://www.youtube.com/watch?v=gfJTX1Y0ynM)**
-
-China's robotic advancement was on full display when humanoid robots featured in the country's most-watched television ...
-
-📺 ABC News (Australia)
-
-👁️ 146K • 👍 2K • 💬 695 • ⏱️ 6:22 • 2d ago
-
----
-
-**[Powerful &amp; Precision: Snow Clever Machinery RC Tracked Robot for Amazing Snow Clearing](https://www.youtube.com/watch?v=IJ9cVriWbBk)**
-
-Powerful & Precision: Snow Clever Machinery RC Tracked Robot for Amazing Snow Clearing Description Experience the future of ...
-
-📺 NEXTOOLINNO 
-
-👁️ 2K • 👍 12 • 💬 2 • ⏱️ 0:04 • 4h ago
-
----
-
-**[Model S and X are done, Tesla robots takeover!](https://www.youtube.com/watch?v=KxEWc4xyH9c)**
-
-📺 Doug DeMuro
-
-👁️ 485K • 👍 7K • 💬 563 • ⏱️ 1:20 • 2d ago
-
----
-
-**[KY-003 Hall Magnetic Sensor Module Instead of Magnetic Encoder for Spinning Gear on Robot Arm](https://www.youtube.com/watch?v=tco-VIofc2k)**
-
-Our #robot arm DeskBuddy gets a magnet on each of its gear's teeth. This way we can track the movement of it's rotation.
-
-📺 Hacker Twins
-
-👁️ 19K • 👍 248 • 💬 16 • ⏱️ 0:28 • 4d ago
+👁️ 26K • 👍 517 • 💬 174 • ⏱️ 11:04 • 1d ago
 
 ---
 
