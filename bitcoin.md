@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T16:32:39.392134+00:00'
+updated: '2026-02-22T17:26:57.073298+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 16:32 UTC  
+**Last Updated:** February 22, 2026 at 17:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,330.46
+### $67,595.24
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -1.5%  
-**30d:** -24.1%  
-**90d:** -22.6%  
-**1y:** -29.5%  
+**24h:** -1.5%  
+**7d:** -1.9%  
+**30d:** -24.3%  
+**90d:** -22.9%  
+**1y:** -29.8%  
 
 ---
 
@@ -77,11 +77,27 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Withdrawing large amount without proof of acquisition](https://www.reddit.com/r/Bitcoin/comments/1rboi4t/withdrawing_large_amount_without_proof_of/)**
+
+When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks.
+
+2h ago
+
+---
+
+**[People just do not yet understand how Bitcoin is different and why it is the ultimate store of value and ultimate debasement asset - James Lavish](https://www.reddit.com/r/Bitcoin/comments/1rbpktw/people_just_do_not_yet_understand_how_bitcoin_is/)**
+
+Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can rediscover fire. TLDW: Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself. ...do you have more time to watch? 1: https://youtu.be/19LA7ReARCQ 2: https://youtu.be/YroOIC8eDrk 3: https://youtu.be/ZsgZjAPjxDU
+
+1h ago
+
+---
+
 **[Dutch House passes 36% tax on unrealized crypto and investment gains](https://www.reddit.com/r/Bitcoin/comments/1razuzz/dutch_house_passes_36_tax_on_unrealized_crypto/)**
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 21h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 22h ago
 
 ---
 
@@ -97,7 +113,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-9h ago
+10h ago
 
 ---
 
@@ -105,7 +121,7 @@ In these brutal bear markets where weak hands get absolutely wrecked, there’s 
 
 With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
 
-11h ago
+12h ago
 
 ---
 
@@ -113,7 +129,7 @@ With all this FUD going around right now, just keep in mind. No one knows more t
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-22h ago
+23h ago
 
 ---
 
@@ -121,7 +137,7 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-21h ago
+22h ago
 
 ---
 
@@ -131,27 +147,11 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 ---
 
-**[Withdrawing large amount without proof of acquisition](https://www.reddit.com/r/Bitcoin/comments/1rboi4t/withdrawing_large_amount_without_proof_of/)**
-
-When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks.
-
-1h ago
-
----
-
 **[Daily Discussion, February 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1rbe381/daily_discussion_february_22_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
-
----
-
-**[How are you viewing the current market structure?](https://www.reddit.com/r/Bitcoin/comments/1rb67nk/how_are_you_viewing_the_current_market_structure/)**
-
-Just trying to look at this calmly and without bias. After the recent sell-off, we got a bounce. That’s not unusual. Bitcoin has always reacted sharply after strong downside moves. The real question, at least to me, is whether this bounce actually changes anything structurally or if it’s just a temporary reaction inside a broader correction. So far, we haven’t clearly reclaimed and held above major resistance on the higher timeframes. In past cycles, real trend shifts usually showed sustained strength over time not just quick pops. At the same time, Bitcoin has gone through plenty of corrections before continuing its longer term trajectory. Short term structure doesn’t automatically define where things go over the years. Not making any predictions here. Just observing and trying to stay objective. How are you guys reading it from a higher timeframe point of view? And guys it's just my views it's could be wrong
-
-16h ago
+11h ago
 
 ---
 
@@ -161,7 +161,7 @@ Just trying to look at this calmly and without bias. After the recent sell-off, 
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -169,15 +169,7 @@ Bloomberg.com • 1d ago
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 1h ago
-
----
-
-**[Prosecutors recover $22 million worth of lost Bitcoin](https://www.yahoo.com/news/articles/prosecutors-recover-22-million-worth-123101025.html)**
-
-Hunt for lost 320 Bitcoin a success, say South Korean prosecutors. Officials say they tracked down operator of bogus wallet checking tool. Police in Seoul also lost $2 million worth of Bitcoin.
-
-Yahoo • 4h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -185,7 +177,21 @@ Yahoo • 4h ago
 
 Singapore-based Bitdeer, now the world's largest publicly traded self-miner, has completely liquidated its BTC treasury.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Quantum computing risk puts 7 million BTC including Satoshi Nakamoto's 1 million at stake](https://www.coindesk.com/business/2026/02/22/to-freeze-or-not-to-freeze-satoshi-and-the-usd440-billion-in-bitcoin-threatened-by-quantum-computing)**
+
+If quantum systems mature, roughly $440 billion in bitcoin including Satoshi’s holdings could be exposed.
+
+CoinDesk • 1h ago
+
+---
+
+**[ZERO BITCOIN LEFT: BITDEER SOLD EVERYTHING & THAT IS THE SIGNAL EVERYONE MISSED](https://www.binance.com/sv/square/post/294416876774225)**
+
+Binance • 3h ago
 
 ---
 
@@ -194,14 +200,6 @@ Yahoo Finance • 2h ago
 Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
 
 Fortune • 2d ago
-
----
-
-**[1 Top Cryptocurrency to Buy Before It Soars 120%, According to a Top Wall Street Investment Firm](https://www.fool.com/investing/2026/02/22/1-top-cryptocurrency-to-buy-before-it-soars-120-ac/)**
-
-After five months of steady selling pressure, Bitcoin could be ready to rebound.
-
-The Motley Fool • 11h ago
 
 ---
 
@@ -217,23 +215,23 @@ The Globe and Mail • 2d ago
 
 CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
-**[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
+**[1 Top Cryptocurrency to Buy Before It Soars 120%, According to a Top Wall Street Investment Firm](https://www.fool.com/investing/2026/02/22/1-top-cryptocurrency-to-buy-before-it-soars-120-ac/)**
 
-U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
+After five months of steady selling pressure, Bitcoin could be ready to rebound.
 
-CoinDesk • 23h ago
+The Motley Fool • 11h ago
 
 ---
 
-**[Bitcoin Rises After Supreme Court Rules Against Trump Tariffs](https://finance.yahoo.com/news/bitcoin-rises-supreme-court-rules-172049557.html)**
+**[Bitcoin historical price metric sees $122K 'average return' over 10 months](https://www.tradingview.com/news/cointelegraph:f73da97d1094b:0-bitcoin-historical-price-metric-sees-122k-average-return-over-10-months/)**
 
-Bitcoin ticked up after the Supreme Court ruled that President Trump exceeded his authority in imposing most tariffs on foreign goods.
+Bitcoin BITSTAMP:BTCUSD at $122,000 in ten months could be an “average return” if history repeats itself.Key points:BTC price ended half of past 24 months higherNew analysis from network economist Timothy Peterson gives almost 90% odds of a BTC price being higher by early 2027.Bitcoin’s underperfor…
 
-Yahoo Finance • 1d ago
+TradingView • 3h ago
 
 ---
 
@@ -257,7 +255,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 21h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 22h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -299,7 +297,7 @@ Financial independence on a bitcoin standard
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 2 • 💬 0 • 3h ago
+⬆️ 2 • 💬 0 • 4h ago
 
 ---
 
@@ -331,7 +329,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 200 • ⏱️ 8:15 • 16h ago
+👁️ 41K • 👍 2K • 💬 200 • ⏱️ 8:15 • 17h ago
 
 ---
 
@@ -381,7 +379,7 @@ Trump and Bitcoin a mixed bag, but he has made millions on crypto! Best Crypto T
 
 📺 Lark Davis
 
-👁️ 7K • 👍 608 • 💬 171 • ⏱️ 11:45 • 5h ago
+👁️ 7K • 👍 608 • 💬 171 • ⏱️ 11:45 • 6h ago
 
 ---
 
@@ -411,7 +409,7 @@ Is Bitcoin's corporate treasury model about to implode? With Strategy underwater
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 1K • 💬 192 • ⏱️ 11:16 • 3h ago
+👁️ 18K • 👍 1K • 💬 192 • ⏱️ 11:16 • 4h ago
 
 ---
 

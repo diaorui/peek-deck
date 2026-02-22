@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T16:32:39.383724+00:00'
+updated: '2026-02-22T17:26:57.064742+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - news
+- repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 16:32 UTC  
+**Last Updated:** February 22, 2026 at 17:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,6 +43,14 @@ AI news, discussions, and developments
 
 ---
 
+**[Who is OpenClaw creator Peter Steinberger? The millennial developer caught the attention of Sam Altman and Mark Zuckerberg](https://www.reddit.com/r/artificial/comments/1rbpkm5/who_is_openclaw_creator_peter_steinberger_the/)**
+
+Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
+
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 1h ago
+
+---
+
 **[Lawyer says Google shut down his Gmail, Voice and Photos after NotebookLM upload](https://www.reddit.com/r/artificial/comments/1raulde/lawyer_says_google_shut_down_his_gmail_voice_and/)**
 
 His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
@@ -51,19 +59,19 @@ His case highlights a broader issue as U.S.-based AI tools block analysis of sen
 
 ---
 
-**[This Defense Company Made AI Agents That Blow Things Up](https://www.reddit.com/r/artificial/comments/1rbbecm/this_defense_company_made_ai_agents_that_blow/)**
-
-Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
-
-🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 12h ago
-
----
-
 **[Ollama 0.17 released with improved OpenClaw onboarding](https://www.reddit.com/r/artificial/comments/1rba9ie/ollama_017_released_with_improved_openclaw/)**
 
 The open-source ollama project that makes it easy to get up and running with a variety of LLMs under Windows, macOS, and Linux is out with a new release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 13h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 14h ago
+
+---
+
+**[This Defense Company Made AI Agents That Blow Things Up](https://www.reddit.com/r/artificial/comments/1rbbecm/this_defense_company_made_ai_agents_that_blow/)**
+
+Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
+
+🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 13h ago
 
 ---
 
@@ -75,19 +83,19 @@ Seeking legal and technical answers. Working with some people on this question a
 
 ---
 
-**[Is the AI habit tracker app space actually evolving?](https://www.reddit.com/r/artificial/comments/1rb0296/is_the_ai_habit_tracker_app_space_actually/)**
-
-I’ve been testing a few AI habit tracker app options because I was curious whether AI actually adds anything meaningful beyond streaks. One I’ve tried recently is Resolve. What stood out wasn’t some crazy prediction engine, but the short AI reflections after logging habits. Instead of just showing a missed day, it nudges you to think about what happened. Over time that’s helped me notice patterns around sleep and focus. Has anyone seen an AI habit tracker app that genuinely feels like it’s doing more than summarizing inputs?
-
-21h ago
-
----
-
 **[TikTok creators’ Seedance 2.0 AI is hyperrealistic, arrived “seemingly out of nowhere,” and is spooking Hollywood](https://www.reddit.com/r/artificial/comments/1ra20gt/tiktok_creators_seedance_20_ai_is_hyperrealistic/)**
 
 Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
 
 🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 1d ago
+
+---
+
+**[Is the AI habit tracker app space actually evolving?](https://www.reddit.com/r/artificial/comments/1rb0296/is_the_ai_habit_tracker_app_space_actually/)**
+
+I’ve been testing a few AI habit tracker app options because I was curious whether AI actually adds anything meaningful beyond streaks. One I’ve tried recently is Resolve. What stood out wasn’t some crazy prediction engine, but the short AI reflections after logging habits. Instead of just showing a missed day, it nudges you to think about what happened. Over time that’s helped me notice patterns around sleep and focus. Has anyone seen an AI habit tracker app that genuinely feels like it’s doing more than summarizing inputs?
+
+22h ago
 
 ---
 
@@ -107,23 +115,15 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 ---
 
-**[Could AI Data Centers Be Moved to Outer Space?](https://www.reddit.com/r/artificial/comments/1rb6ckf/could_ai_data_centers_be_moved_to_outer_space/)**
-
-Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?
-
-🔗 [WIRED](https://www.wired.com/story/could-we-put-ai-data-centers-in-space/) • 16h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[I’m worried my boyfriend’s use of AI is affecting his ability to think for himself | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/feb/22/worried-boyfriend-ai-affecting-ability-think-for-himself-annalisa-barbieri)**
+**[Met police using AI tools supplied by Palantir to flag officer misconduct](https://www.theguardian.com/uk-news/2026/feb/22/met-police-ai-tools-officer-misconduct-palantir)**
 
-Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
+Exclusive: Police Federation condemns deployment of US firm’s tech to analyse behaviour as ‘automated suspicion’
 
-The Guardian • 8h ago
+The Guardian • 1h ago
 
 ---
 
@@ -133,39 +133,19 @@ The New York Times • 1d ago
 
 ---
 
-**[Walmart's AI push is leading to faster delivery times: CFO](https://finance.yahoo.com/video/walmarts-ai-push-leading-faster-130014168.html)**
+**[Long Beach plans use of artificial intelligence program to review 911 dispatch calls](https://abc7.com/post/long-beach-plans-use-artificial-intelligence-program-review-911-dispatch-calls/18622853/)**
 
-Walmart CFO John David Rainey sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss the store's investments in artificial intelligence, including its AI shopping assistant Sparky, and how AI is contributing to productivity and quicker home deliveries. Also be sure to catch Yahoo Finance's full interview with John David Rainey. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Market Catalysts.
+The city of Long Beach will soon be using artificial intelligence to review 911 calls as part of a first-of-its-kind program, and officials assure it's not meant to replace jobs.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence](https://www.bloomberg.com/news/newsletters/2026-02-22/apple-s-ai-wearables-push-what-to-expect-from-march-4-low-end-macbook-launch)**
-
-Bloomberg.com • 3h ago
+ABC7 Los Angeles • 1h ago
 
 ---
 
-**[TANVI RATNA: India, AI and America’s new 'Global South' strategy](https://www.foxbusiness.com/fox-news-opinion/tanvi-ratna-india-ai-americas-new-global-south-strategy)**
+**[Sam Altman would like to remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/)**
 
-Major AI summit in India reveals U.S. strategy to lead Global South technology adoption through $250 billion deals and new supply chain partnerships.
+"It also takes a lot of energy to train a human."
 
-Fox Business • 1h ago
-
----
-
-**[Kick Chronic Kidney Disease With AI](https://www.forbes.com/sites/johnwerner/2026/02/21/kick-chronic-kidney-disease-with-ai/)**
-
-Forbes • 1d ago
-
----
-
-**[In some classrooms, teachers ask: Can AI teach students to write better?](https://www.washingtonpost.com/nation/2026/02/22/ai-chatbots-teach-writing/)**
-
-Coaching from artificial intelligence chatbots, personalized and accessible at any time, is now shaping how some students write.
-
-The Washington Post • 1h ago
+TechCrunch • 19h ago
 
 ---
 
@@ -173,21 +153,41 @@ The Washington Post • 1h ago
 
 "To give a true homily is to share faith," and artificial intelligence "will never be able to share faith," the pope added.
 
-OSV News • 18h ago
-
----
-
-**[Sam Altman would like remind you that humans use a lot of energy, too](https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/)**
-
-"It also takes a lot of energy to train a human."
-
-TechCrunch • 18h ago
+OSV News • 19h ago
 
 ---
 
 **[Exclusive: Goldman Sachs launches an AI-free index](https://www.axios.com/2026/02/20/ai-goldman-sachs-stocks-index)**
 
-Axios • 1d ago
+Axios • 2d ago
+
+---
+
+**[Here's My Highest Conviction AI Stock to Buy Right Now (HINT: It Recently Partnered with Nvidia)](https://www.fool.com/investing/2026/02/22/heres-my-highest-conviction-ai-stock-to-buy-right/)**
+
+Brookfield Corporation is going all-in to capitalize on the once-in-a-generation AI infrastructure opportunity.
+
+The Motley Fool • 8h ago
+
+---
+
+**[3 key earnings reports for this week to keep the AI trade alive](https://www.investing.com/news/stock-market-news/3-key-earnings-reports-for-this-week-to-keep-the-ai-trade-alive-4517547)**
+
+Investing.com • 14h ago
+
+---
+
+**[India’s AI ambitions hit limits at global summit](https://www.ft.com/content/5c26f2f6-c857-407c-93fe-7f59aa88c8f4)**
+
+The world’s most populous country continues to struggle to find its place in an industry dominated by the US and China
+
+Financial Times • 16h ago
+
+---
+
+**[At A.I. Summit, India Tries to Find a Way Between the U.S. and China](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html)**
+
+The New York Times • 1d ago
 
 ---
 
@@ -282,7 +282,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 29K • 👍 1K • 💬 60 • ⏱️ 10:44 • 17h ago
+👁️ 29K • 👍 1K • 💬 60 • ⏱️ 10:44 • 18h ago
 
 ---
 
@@ -360,7 +360,7 @@ HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #a
 
 📺 AI Search
 
-👁️ 46K • 👍 2K • 💬 379 • ⏱️ 39:36 • 13h ago
+👁️ 46K • 👍 2K • 💬 379 • ⏱️ 39:36 • 14h ago
 
 ---
 
@@ -410,7 +410,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 702 • 14h ago
+⬇️ 153,566 • ❤️ 702 • 15h ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.9k • 🔱 2.0k • 5m ago
+⭐ 16.9k • 🔱 2.0k • 59m ago
 
 ---
 
@@ -651,7 +651,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 10.0k • 🔱 1.0k • 18h ago
+⭐ 10.0k • 🔱 1.0k • 19h ago
 
 ---
 
@@ -689,7 +689,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 327 • 2h ago
+⭐ 3.3k • 🔱 327 • 3h ago
 
 ---
 
@@ -699,7 +699,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.9k • 🔱 368 • 7h ago
+⭐ 2.9k • 🔱 368 • 8h ago
 
 ---
 
@@ -709,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 181 • 1h ago
+⭐ 2.7k • 🔱 181 • 2h ago
 
 ---
 
@@ -729,7 +729,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.4k • 🔱 258 • 22m ago
+⭐ 2.4k • 🔱 258 • 1h ago
 
 ---
 

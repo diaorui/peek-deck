@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T16:32:39.401527+00:00'
+updated: '2026-02-22T17:26:57.082500+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 16:32 UTC  
+**Last Updated:** February 22, 2026 at 17:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,23 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
+
+29m ago
+
+---
+
 **[Inside Figure's San Jose headquarters](https://www.reddit.com/r/robotics/comments/1rbhva5/inside_figures_san_jose_headquarters/)**
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-6h ago
+7h ago
 
 ---
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -50,7 +56,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-6h ago
+7h ago
 
 ---
 
@@ -58,15 +64,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-21h ago
-
----
-
-**[Delivery drones in Shenzhen](https://www.reddit.com/r/robotics/comments/1rapmtd/delivery_drones_in_shenzhen/)**
-
-This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
-
-1d ago
+22h ago
 
 ---
 
@@ -78,11 +76,25 @@ Hello everyone I am 13 years old and I have a lot of robot parts that I have bee
 
 ---
 
+**[Fighting back paid annotation services](https://www.reddit.com/r/robotics/comments/1rbqy5k/fighting_back_paid_annotation_services/)**
+
+29m ago
+
+---
+
+**[Delivery drones in Shenzhen](https://www.reddit.com/r/robotics/comments/1rapmtd/delivery_drones_in_shenzhen/)**
+
+This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
+
+1d ago
+
+---
+
 **[NYC Build](https://www.reddit.com/r/robotics/comments/1rb97z0/nyc_build/)**
 
 Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
 
-14h ago
+15h ago
 
 ---
 
@@ -90,21 +102,7 @@ Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. 
 
 I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
 
-14h ago
-
----
-
-**[please help](https://www.reddit.com/r/robotics/comments/1rb70fc/please_help/)**
-
-I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don't return anything. It seems everything leads to a dead end. I have Choregraphe but to my understanding it doesn't work in the newer OS. I would like to program for the robot and utilise it so any help would be appreciated.
-
-16h ago
-
----
-
-**[ANOTHER CITY COUNCIL MEETING](https://www.reddit.com/r/robotics/comments/1rba53x/another_city_council_meeting/)**
-
-13h ago
+15h ago
 
 ---
 
@@ -120,11 +118,11 @@ CNBC • 2d ago
 
 ---
 
-**[Video Friday: Humanoid Robots Celebrate Spring](https://spectrum.ieee.org/robot-martial-arts)**
+**[Integrated motion control enables sophisticated robot motion](https://www.therobotreport.com/integrated-motion-control-enables-sophisticated-robot-motion/)**
 
-Celebrate the Lunar New Year with a synchronized martial arts demo by humanoid robots and cuddling robot pandas! Plus Perseverance finds itself.
+Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
 
-IEEE Spectrum • 1d ago
+The Robot Report • 3h ago
 
 ---
 
@@ -132,13 +130,13 @@ IEEE Spectrum • 1d ago
 
 For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
 
-fox23.com • 3h ago
+fox23.com • 4h ago
 
 ---
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 6h ago
+umlconnector.com • 7h ago
 
 ---
 
@@ -146,7 +144,7 @@ umlconnector.com • 6h ago
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Seeking Alpha • 4h ago
+Seeking Alpha • 5h ago
 
 ---
 
@@ -160,7 +158,15 @@ Hawaii News Now • 3d ago
 
 **[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
 
-Forbes • 2d ago
+Forbes • 3d ago
+
+---
+
+**[Best Ideas Club: This robotics stock could surge as it dominates AI and healthcare](https://www.openingbelldailynews.com/p/best-ideas-club-investors-hulick-robotics-healthcare-ai-asset-manager-portfolio-strategy)**
+
+Veteran investor Tom Hulick's highest-conviction idea for the next 12 months.
+
+Opening Bell Daily • 6h ago
 
 ---
 
@@ -168,7 +174,7 @@ Forbes • 2d ago
 
 OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
-South China Morning Post • 6h ago
+South China Morning Post • 7h ago
 
 ---
 
@@ -176,15 +182,7 @@ South China Morning Post • 6h ago
 
 There were teams from across Iowa and even one from Nebraska that took part in the scrimmage on Saturday.
 
-weareiowa.com • 16h ago
-
----
-
-**[Integrated motion control enables sophisticated robot motion](https://www.therobotreport.com/integrated-motion-control-enables-sophisticated-robot-motion/)**
-
-Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
-
-The Robot Report • 3h ago
+weareiowa.com • 17h ago
 
 ---
 
@@ -198,7 +196,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 16K • 👍 346 • 💬 89 • ⏱️ 8:38 • 17h ago
+👁️ 16K • 👍 346 • 💬 89 • ⏱️ 8:38 • 18h ago
 
 ---
 

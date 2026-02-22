@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T16:32:39.398233+00:00'
+updated: '2026-02-22T17:26:57.079313+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 16:32 UTC  
+**Last Updated:** February 22, 2026 at 17:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -2.1%  
-**30d:** -33.8%  
-**90d:** -33.9%  
-**1y:** -30.6%  
+**24h:** -2.2%  
+**7d:** -2.5%  
+**30d:** -34.0%  
+**90d:** -34.2%  
+**1y:** -30.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was looking into staking, I invest on robinhood because it is easy and I do not own much Crypto. How often does slashing occur in staking? I was going to start staking the eth I have, but started looking into it and saw you could potentially lose all the eth you stake if slashing occurs. How often does it happen?
 
-14h ago
+15h ago
 
 ---
 
@@ -152,19 +152,19 @@ Justin Drake dives deep into Lean Ethereum In this episode (which is the first i
 
 ## Google News: "ethereum"
 
-**[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
-
-The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
-
-CoinDesk • 21h ago
-
----
-
 **[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
 
 FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
 
 The Block • 1d ago
+
+---
+
+**[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
+
+The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
+
+CoinDesk • 22h ago
 
 ---
 
@@ -188,7 +188,7 @@ Decrypt • 1d ago
 
 The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -200,31 +200,27 @@ Nasdaq • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfwWUK7kdPGlkaRRqH9MN0IA3BbCYUb80on9usSObd9jFx0jl31M5f3&gaa_ts=699b2914&gaa_sig=x08neM-AQ6_9GE2pN5k6NfVvpKD9nsbYWNCbA2zq0DEgqfZdXB0c18t6McRT6b_ECkCJG54KDAEz57CxKRFlHw%3D%3D)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqdDFMyCG310CtFBhisyjW1Vi2LdSyRj9BnWf1OnTtP8NuTo_-1RlR2A&gaa_ts=699b3fcd&gaa_sig=IKWqdAYfxX4gHz4UrzgXHbbksUfZBTHrWk9DozxBfXZ1UHL5zmn3kSB3IMjY_AMpvo1jxPwX7kgAW8yebpHMEw%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
-
-Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
-
-TradingView • 18h ago
-
----
-
-**[ETHB: Everything We Know About BlackRock's New Ethereum Staking ETF](https://info.arkm.com/research/ethb-everything-we-know-about-blackrocks-new-ethereum-staking-etf)**
-
-BlackRock is undergoing preparations to launch its much-anticipated Ethereum staking ETF: ETHB. Here's everything we know so far
-
-Arkham | Research • 2d ago
-
----
-
 **[Vitalik Buterin Resumes ETH Sales as Ethereum Prices Struggle Below $2K](https://www.binance.com/en/square/post/294348990119137)**
 
-Binance • 6h ago
+Binance • 7h ago
+
+---
+
+**[Key facts: Ethereum Price Drops Below $2,800; MVRV at -14.3%; Accumulation Trends Noted](https://www.tradingview.com/news/tradingview:56d73a29098f3:0-key-facts-ethereum-price-drops-below-2-800-mvrv-at-14-3-accumulation-trends-noted/)**
+
+TradingView • 17h ago
+
+---
+
+**[Ethereum Jitters: Fidelity’s FETH ETF Sees $11.6 Million Walk Out After Steep Token Slide](https://www.tipranks.com/news/cryptocurrencies/ethereum-jitters-fidelitys-feth-etf-sees-11-6-million-walk-out-after-steep-token-slide)**
+
+TipRanks • 1d ago
 
 ---
 
@@ -238,7 +234,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 182 • 💬 44 • ⏱️ 11:38 • 7h ago
+👁️ 2K • 👍 182 • 💬 44 • ⏱️ 11:38 • 8h ago
 
 ---
 
@@ -248,7 +244,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 12K • 👍 540 • 💬 116 • ⏱️ 8:49 • 19h ago
+👁️ 12K • 👍 540 • 💬 116 • ⏱️ 8:49 • 20h ago
 
 ---
 
@@ -258,7 +254,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 7 • ⏱️ 5:45 • 4h ago
+👁️ 1K • 👍 99 • 💬 7 • ⏱️ 5:45 • 5h ago
 
 ---
 
@@ -278,7 +274,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 FacePaintcom
 
-👁️ 13K • 👍 3K • 15h ago
+👁️ 13K • 👍 3K • 16h ago
 
 ---
 
@@ -298,7 +294,7 @@ Everybody is looking at Bitcoin to lead the market, but I think it will be Ether
 
 📺 Michaël van de Poppe
 
-👁️ 391 • 👍 6 • 💬 1 • ⏱️ 0:13 • 4h ago
+👁️ 391 • 👍 6 • 💬 1 • ⏱️ 0:13 • 5h ago
 
 ---
 
@@ -328,7 +324,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 321 • 💬 142 • ⏱️ 14:32 • 16h ago
+👁️ 9K • 👍 321 • 💬 142 • ⏱️ 14:32 • 17h ago
 
 ---
 
