@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T21:26:12.453946+00:00'
+updated: '2026-02-22T21:48:47.435186+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - news
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 21:26 UTC  
+**Last Updated:** February 22, 2026 at 21:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 3h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 4h ago
 
 ---
 
@@ -71,7 +71,7 @@ His case highlights a broader issue as U.S.-based AI tools block analysis of sen
 
 The open-source ollama project that makes it easy to get up and running with a variety of LLMs under Windows, macOS, and Linux is out with a new release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 18h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 19h ago
 
 ---
 
@@ -79,7 +79,7 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
 
-🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 17h ago
+🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 18h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 1d ago
 
 Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -151,7 +151,7 @@ Big Tech says it is here to empower you; its AI boss just implied it may not nee
 
 **[New AI software set to accelerate delivery of vital net-zero infrastructure](https://techxplore.com/news/2026-02-ai-software-delivery-vital-net.html)**
 
-Tech Xplore • 56m ago
+Tech Xplore • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Tech Xplore • 56m ago
 
 The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
 
-The Washington Post • 42m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -281,7 +281,7 @@ Slandered by one AI robot and misquoted in a news article by another, US-based s
 
 📺 FRANCE 24 English
 
-👁️ 54K • 👍 1K • 💬 276 • ⏱️ 5:50 • 6h ago
+👁️ 54K • 👍 1K • 💬 276 • ⏱️ 5:50 • 7h ago
 
 ---
 
@@ -321,7 +321,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 Relax History AI
 
-👁️ 140 • 👍 17 • 💬 2 • ⏱️ 25:13 • 2h ago
+👁️ 140 • 👍 17 • 💬 2 • ⏱️ 25:13 • 3h ago
 
 ---
 
@@ -351,7 +351,7 @@ IM LIVE EVERY DAY- https://www.youtube.com/channel/UCWsD... Check Out My Second 
 
 📺 Speedy Boykins
 
-👁️ 11K • 👍 395 • 💬 21 • ⏱️ 3:11 • 14h ago
+👁️ 11K • 👍 395 • 💬 21 • ⏱️ 3:11 • 15h ago
 
 ---
 
@@ -361,7 +361,7 @@ Grab the free Claude Cowork Stack from HubSpot: https://clickhubspot.com/2077f9 
 
 📺 Skill Leap AI
 
-👁️ 34K • 👍 784 • 💬 33 • ⏱️ 21:02 • 1d ago
+👁️ 34K • 👍 784 • 💬 33 • ⏱️ 21:02 • 2d ago
 
 ---
 
@@ -411,7 +411,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 711 • 19h ago
+⬇️ 153,566 • ❤️ 711 • 20h ago
 
 ---
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.0k • 🔱 2.0k • 1h ago
+⭐ 17.0k • 🔱 2.0k • 2h ago
 
 ---
 
@@ -652,7 +652,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 10.1k • 🔱 1.1k • 23h ago
+⭐ 10.1k • 🔱 1.1k • 1d ago
 
 ---
 
@@ -690,7 +690,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 327 • 7h ago
+⭐ 3.3k • 🔱 327 • 8h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 183 • 45m ago
+⭐ 2.7k • 🔱 183 • 1h ago
 
 ---
 

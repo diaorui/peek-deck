@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T21:26:12.462274+00:00'
+updated: '2026-02-22T21:48:47.443446+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 21:26 UTC  
+**Last Updated:** February 22, 2026 at 21:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -105,7 +105,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-14h ago
+15h ago
 
 ---
 
@@ -327,7 +327,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 217 • ⏱️ 8:15 • 21h ago
+👁️ 47K • 👍 2K • 💬 217 • ⏱️ 8:15 • 22h ago
 
 ---
 
@@ -337,7 +337,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 1K • 👍 96 • 💬 10 • ⏱️ 23:49 • 4h ago
+👁️ 1K • 👍 96 • 💬 10 • ⏱️ 23:49 • 5h ago
 
 ---
 
@@ -357,7 +357,7 @@ Is Bitcoin's corporate treasury model about to implode? With Strategy underwater
 
 📺 Coin Bureau
 
-👁️ 41K • 👍 2K • 💬 277 • ⏱️ 11:16 • 8h ago
+👁️ 41K • 👍 2K • 💬 277 • ⏱️ 11:16 • 9h ago
 
 ---
 
@@ -377,7 +377,7 @@ DM me the word "ACCESS" on Telegram to join my group for 2 months FREE: https://
 
 📺 Andy Bitcoinsensus
 
-👁️ 4K • 👍 235 • 💬 63 • ⏱️ 29:02 • 6h ago
+👁️ 4K • 👍 235 • 💬 63 • ⏱️ 29:02 • 7h ago
 
 ---
 

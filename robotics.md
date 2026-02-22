@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T21:26:12.471434+00:00'
+updated: '2026-02-22T21:48:47.452550+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 21:26 UTC  
+**Last Updated:** February 22, 2026 at 21:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -64,7 +64,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-5h ago
+6h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 **[CC student into robotics/aerospace needing serious project ideas + career advice](https://www.reddit.com/r/robotics/comments/1rbxawr/cc_student_into_roboticsaerospace_needing_serious/)**
 
-33m ago
+55m ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 I’m making language for drones, a tiny DSL that compiles a simple .bloom spec into C++17 for onboard-friendly tile analytics / anomaly detection. Current MVP: - .bloom → bloomc.py → generated out.cpp → out.exe - deterministic seeded test frames (no camera required) - per-tile mean/variance + anomaly detection (var OR brightness) - exports out.json (mean_map / var_map / anom_map) Quickstart (Windows/MSYS2): - .\scripts\build.ps1 any feedback for me ? :) Repo: https://github.com/Gelukkig95/Bloom-uav-dsl
 
-1h ago
+2h ago
 
 ---
 
@@ -100,7 +100,7 @@ I’m making language for drones, a tiny DSL that compiles a simple .bloom spec 
 
 I’m building Bloom, a tiny DSL that compiles a simple .bloom spec into C++17 for onboard-friendly tile analytics / anomaly detection. Current MVP: - .bloom → bloomc.py → generated out.cpp → out.exe - deterministic seeded test frames (no camera required) - per-tile mean/variance + anomaly detection (var OR brightness) - exports out.json (mean_map / var_map / anom_map) Quickstart (Windows/MSYS2): - .\scripts\build.ps1 any feedback for me ? :) Repo: https://github.com/Gelukkig95/Bloom-uav-dsl
 
-1h ago
+2h ago
 
 ---
 
@@ -150,7 +150,7 @@ Hawaii News Now • 3d ago
 
 HINTON- Two robotics clubs from Hinton High School have qualified to compete in a statewide competition.
 
-The N'West Iowa REVIEW • 2h ago
+The N'West Iowa REVIEW • 3h ago
 
 ---
 
@@ -158,7 +158,7 @@ The N'West Iowa REVIEW • 2h ago
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Seeking Alpha • 9h ago
+Seeking Alpha • 10h ago
 
 ---
 
@@ -180,7 +180,7 @@ Automotive News • 3d ago
 
 Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
 
-The Robot Report • 7h ago
+The Robot Report • 8h ago
 
 ---
 

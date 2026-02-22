@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T21:26:12.468212+00:00'
+updated: '2026-02-22T21:48:47.449397+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- cryptocurrency
 - videos
+- social
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 21:26 UTC  
+**Last Updated:** February 22, 2026 at 21:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -172,7 +172,7 @@ CoinDesk • 1d ago
 
 Ethereum co-founder Vitalik Buterin is rapidly liquidating millions of dollars worth of his tokens into a declining market.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -226,7 +226,7 @@ TipRanks • 4h ago
 
 This insight shows retails are Short but institutionals are Long. Find out the details of this new information and what it means.
 
-investingLive • 3h ago
+investingLive • 4h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 246 • 👍 14 • 💬 1 • ⏱️ 4:51 • 9h ago
+👁️ 246 • 👍 14 • 💬 1 • ⏱️ 4:51 • 10h ago
 
 ---
 
