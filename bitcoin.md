@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T08:34:47.305867+00:00'
+updated: '2026-02-22T09:32:32.254418+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - cryptocurrency
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 08:34 UTC  
+**Last Updated:** February 22, 2026 at 09:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1360.62B
+**Market Cap:** $1359.65B
 Rank #1
 
-**Circulating Supply:** 19,992,968 BTC
+**Circulating Supply:** 19,993,084 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.0%
+-46.1%
 
 **All-Time Low:** $67.81
-+100249.5%
++100190.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-18h ago
+19h ago
 
 ---
 
@@ -89,7 +89,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 13h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 14h ago
 
 ---
 
@@ -97,7 +97,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-14h ago
+15h ago
 
 ---
 
@@ -105,13 +105,13 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-13h ago
+14h ago
 
 ---
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
 
-3h ago
+4h ago
 
 ---
 
@@ -127,7 +127,7 @@ With all this FUD going around right now, just keep in mind. No one knows more t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ In these brutal bear markets where weak hands get absolutely wrecked, there’s 
 
 Just trying to look at this calmly and without bias. After the recent sell-off, we got a bounce. That’s not unusual. Bitcoin has always reacted sharply after strong downside moves. The real question, at least to me, is whether this bounce actually changes anything structurally or if it’s just a temporary reaction inside a broader correction. So far, we haven’t clearly reclaimed and held above major resistance on the higher timeframes. In past cycles, real trend shifts usually showed sustained strength over time not just quick pops. At the same time, Bitcoin has gone through plenty of corrections before continuing its longer term trajectory. Short term structure doesn’t automatically define where things go over the years. Not making any predictions here. Just observing and trying to stay objective. How are you guys reading it from a higher timeframe point of view? And guys it's just my views it's could be wrong
 
-8h ago
+9h ago
 
 ---
 
@@ -151,7 +151,7 @@ Just trying to look at this calmly and without bias. After the recent sell-off, 
 
 Hey , I was playing with multiSig 2 out of 3 in sparrow Wallet Wallet 1 : hot wallet in Sparrow wallet itself Wallet 2 : CC (SEEDS X)+ Passphrase Wallet 3 : CC (SAME SEEDS X as wallet 2 ) + Different Passphrase But when i use Wallet 2 as complete different wallet (in single sig) it generate with derivative path of m/84'/0'/0' and gives XPUB xpub6C...agCXs . But when i used the same wallet 2 (seed X + same passphrase)in multisig (added by scanning QR while setting up) it generates derivation path of m/48'/0'/0'/2' with Xpub of xpub6ED....bGN . Masterfingerprint is same in both cases however I thought transaction won't go through due to different xpub and derivative path .. but it successfully got signed and broadcasted in multisig Any reason for following ..
 
-2h ago
+3h ago
 
 ---
 
@@ -161,7 +161,7 @@ Hey , I was playing with multiSig 2 out of 3 in sparrow Wallet Wallet 1 : hot wa
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 17h ago
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -183,7 +183,7 @@ Fortune • 1d ago
 
 **[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
 
-Forbes • 20h ago
+Forbes • 21h ago
 
 ---
 
@@ -191,7 +191,7 @@ Forbes • 20h ago
 
 After five months of steady selling pressure, Bitcoin could be ready to rebound.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -199,7 +199,7 @@ The Motley Fool • 3h ago
 
 The project's creator nearly deleted the viral AI agent after crypto scammers hijacked his accounts, launched a fake token that hit $16 million, and harassed him for weeks.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -207,7 +207,7 @@ CoinDesk • 2h ago
 
 Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
 
-Fortune • 1d ago
+Fortune • 2d ago
 
 ---
 
@@ -215,13 +215,13 @@ Fortune • 1d ago
 
 On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
 **[Robert Kiyosaki buys 1 more BTC , doubles down on bitcoin over gold](https://www.binance.com/en/square/post/294203989714162)**
 
-Binance • 8h ago
+Binance • 9h ago
 
 ---
 
@@ -229,7 +229,7 @@ Binance • 8h ago
 
 Robert Kiyosaki is buying Bitcoin again.
 
-thestreet.com • 9h ago
+thestreet.com • 10h ago
 
 ---
 
@@ -253,7 +253,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 13h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 14h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -267,7 +267,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 19h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 20h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -303,7 +303,7 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 **[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
 
-⬆️ 1 • 💬 0 • 1d ago
+⬆️ 1 • 💬 0 • 2d ago
 
 ---
 
@@ -311,13 +311,23 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
+
+bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 30K • 👍 2K • 💬 151 • ⏱️ 8:15 • 9h ago
+
+---
+
 **[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
 
 Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
 
 📺 Money Talks
 
-👁️ 1K • 👍 44 • 💬 35 • ⏱️ 15:10 • 14h ago
+👁️ 2K • 👍 48 • 💬 41 • ⏱️ 15:10 • 15h ago
 
 ---
 
@@ -327,17 +337,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 64K • 👍 3K • 💬 255 • ⏱️ 9:14 • 1d ago
-
----
-
-**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
-
-bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 24K • 👍 2K • 💬 145 • ⏱️ 8:15 • 8h ago
+👁️ 64K • 👍 3K • 💬 256 • ⏱️ 9:14 • 1d ago
 
 ---
 
@@ -347,7 +347,17 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 475K • 👍 26K • 💬 4K • ⏱️ 32:14 • 19h ago
+👁️ 504K • 👍 27K • 💬 4K • ⏱️ 32:14 • 20h ago
+
+---
+
+**[Here&#39;s Why Your 0.1 Bitcoin Understanding Is Wrong](https://www.youtube.com/watch?v=e4xS0rhgJ_M)**
+
+Subscribe for More Bitcoin Content I built this tool because I was tired of losing track of my Bitcoin DCA plan. MaxiStack shows ...
+
+📺 Mr Bitcoin Maxi 
+
+👁️ 2K • 👍 159 • 💬 68 • ⏱️ 12:41 • 13h ago
 
 ---
 
@@ -357,17 +367,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 66K • 👍 3K • 💬 75 • ⏱️ 52:37 • 18h ago
+👁️ 70K • 👍 3K • 💬 75 • ⏱️ 52:37 • 19h ago
 
 ---
 
-**[The Truth About Bitcoin’s Regulatory Win](https://www.youtube.com/watch?v=ED5IlRd4PJg)**
+**[BITCOIN HOLDERS: MY IMPORTANT MESSAGE!](https://www.youtube.com/watch?v=iBFOmxCN24o)**
 
-Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and a longtime macro investor at the intersection ...
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
 
-📺 Anthony Pompliano
+📺 Crypto Kid
 
-👁️ 38K • 👍 1K • ⏱️ 24:35 • 1d ago
+👁️ 4K • 👍 262 • 💬 85 • ⏱️ 13:24 • 10h ago
 
 ---
 
@@ -381,31 +391,21 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 ---
 
-**[BITCOIN HOLDERS: MY IMPORTANT MESSAGE!](https://www.youtube.com/watch?v=iBFOmxCN24o)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
-
-📺 Crypto Kid
-
-👁️ 3K • 👍 218 • 💬 79 • ⏱️ 13:24 • 9h ago
-
----
-
-**[IS BITCOIN ACTUALLY DEAD??!!](https://www.youtube.com/watch?v=-itjlUK81JA)**
-
-Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA ...
-
-📺 100XClub
-
-👁️ 5K • 👍 304 • 💬 44 • ⏱️ 1:35 • 1d ago
-
----
-
 **[TRUMP LIED ABOUT CRYPTO? XRP LEADS OVER BITCOIN #xrp #trump #crypto #bitcoin](https://www.youtube.com/watch?v=44gk_-xDHF8)**
 
 📺 CryptoWendyO
 
-👁️ 25K • 👍 1K • 💬 71 • ⏱️ 2:12 • 1d ago
+👁️ 25K • 👍 1K • 💬 72 • ⏱️ 2:12 • 1d ago
+
+---
+
+**[This Trade Works EVERY Time Bitcoin Moves 🪙📈](https://www.youtube.com/watch?v=0_9Ke23WqZc)**
+
+LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications to know when we're on ✓ CONNECT on IG, ...
+
+📺 Dumb Money Live
+
+👁️ 20K • 👍 538 • 💬 23 • ⏱️ 1:02 • 1d ago
 
 ---
 
