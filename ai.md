@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T20:53:52.438030+00:00'
+updated: '2026-02-22T21:26:12.453946+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 20:53 UTC  
+**Last Updated:** February 22, 2026 at 21:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 4h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 4h ago
 
 What is the point of AI alarmism if the people warning the world aren't changing course?
 
-Al Jazeera • 40m ago
+Al Jazeera • 1h ago
 
 ---
 
@@ -145,13 +145,13 @@ Al Jazeera • 40m ago
 
 Big Tech says it is here to empower you; its AI boss just implied it may not need you at all. If the software does the work, what exactly is left for the worker?
 
-3DVF • 1h ago
+3DVF • 2h ago
 
 ---
 
 **[New AI software set to accelerate delivery of vital net-zero infrastructure](https://techxplore.com/news/2026-02-ai-software-delivery-vital-net.html)**
 
-Tech Xplore • 23m ago
+Tech Xplore • 56m ago
 
 ---
 
@@ -159,7 +159,7 @@ Tech Xplore • 23m ago
 
 The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
 
-The Washington Post • 9m ago
+The Washington Post • 42m ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 1d ago
 
 With its record FY27 defense budget, India is doubling down on AI, autonomy, and self‑reliance, reshaping its partnership with Israel in the process
 
-The Jerusalem Post • 13h ago
+The Jerusalem Post • 14h ago
 
 ---
 
@@ -311,7 +311,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 65 • ⏱️ 10:44 • 21h ago
+👁️ 34K • 👍 1K • 💬 65 • ⏱️ 10:44 • 22h ago
 
 ---
 
@@ -331,7 +331,7 @@ Best LONGEST FREE AI Video Generator of 2026 - Make 15-Minute Videos For FREE 1.
 
 📺 AI Explorer 
 
-👁️ 2K • 👍 95 • 💬 9 • ⏱️ 4:16 • 13h ago
+👁️ 2K • 👍 95 • 💬 9 • ⏱️ 4:16 • 14h ago
 
 ---
 
@@ -700,7 +700,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.9k • 🔱 368 • 11h ago
+⭐ 2.9k • 🔱 368 • 12h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 183 • 13m ago
+⭐ 2.7k • 🔱 183 • 45m ago
 
 ---
 
@@ -730,7 +730,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.4k • 🔱 260 • 4h ago
+⭐ 2.4k • 🔱 260 • 5h ago
 
 ---
 
