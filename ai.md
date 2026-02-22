@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T22:26:17.814102+00:00'
+updated: '2026-02-22T22:52:27.676222+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 22:26 UTC  
+**Last Updated:** February 22, 2026 at 22:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 4h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 5h ago
 
 ---
 
@@ -71,7 +71,7 @@ His case highlights a broader issue as U.S.-based AI tools block analysis of sen
 
 The open-source ollama project that makes it easy to get up and running with a variety of LLMs under Windows, macOS, and Linux is out with a new release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 19h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 20h ago
 
 ---
 
@@ -79,7 +79,7 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
 
-🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 18h ago
+🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 19h ago
 
 ---
 
@@ -123,7 +123,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
 
-The Washington Post • 24m ago
+The Washington Post • 50m ago
 
 ---
 
@@ -131,13 +131,13 @@ The Washington Post • 24m ago
 
 Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
 **[Dems eyeing 2028 tap the brakes on AI data centers](https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers)**
 
-Axios • 24m ago
+Axios • 50m ago
 
 ---
 
@@ -159,7 +159,7 @@ The New York Times • 17h ago
 
 Daron Acemoglu told Fortune Donald Trump’s AI policy could jeopardize U.S. democracy, but AI proponents say any regulation would hamper AI innovation.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -185,7 +185,7 @@ Politico • 1d ago
 
 **[The AI productivity boom is not here (yet)](https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet)**
 
-The Economist • 9h ago
+The Economist • 10h ago
 
 ---
 
@@ -279,7 +279,7 @@ Slandered by one AI robot and misquoted in a news article by another, US-based s
 
 📺 FRANCE 24 English
 
-👁️ 54K • 👍 1K • 💬 276 • ⏱️ 5:50 • 7h ago
+👁️ 54K • 👍 1K • 💬 276 • ⏱️ 5:50 • 8h ago
 
 ---
 
@@ -319,7 +319,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 Relax History AI
 
-👁️ 140 • 👍 17 • 💬 2 • ⏱️ 25:13 • 3h ago
+👁️ 140 • 👍 17 • 💬 2 • ⏱️ 25:13 • 4h ago
 
 ---
 
@@ -349,7 +349,7 @@ IM LIVE EVERY DAY- https://www.youtube.com/channel/UCWsD... Check Out My Second 
 
 📺 Speedy Boykins
 
-👁️ 11K • 👍 395 • 💬 21 • ⏱️ 3:11 • 15h ago
+👁️ 11K • 👍 395 • 💬 21 • ⏱️ 3:11 • 16h ago
 
 ---
 
@@ -409,7 +409,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 711 • 20h ago
+⬇️ 153,566 • ❤️ 711 • 21h ago
 
 ---
 
@@ -640,7 +640,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.0k • 🔱 2.0k • 2h ago
+⭐ 17.0k • 🔱 2.0k • 3h ago
 
 ---
 
@@ -688,7 +688,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 327 • 8h ago
+⭐ 3.3k • 🔱 327 • 9h ago
 
 ---
 
@@ -708,7 +708,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 183 • 1h ago
+⭐ 2.7k • 🔱 183 • 2h ago
 
 ---
 

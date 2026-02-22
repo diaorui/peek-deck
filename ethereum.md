@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T22:26:17.828365+00:00'
+updated: '2026-02-22T22:52:27.690925+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 22:26 UTC  
+**Last Updated:** February 22, 2026 at 22:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-23m ago
+49m ago
 
 ---
 
@@ -292,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 246 • 👍 14 • 💬 1 • ⏱️ 4:51 • 10h ago
+👁️ 246 • 👍 14 • 💬 1 • ⏱️ 4:51 • 11h ago
 
 ---
 
@@ -332,7 +332,7 @@ Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Koste
 
 📺 TradingKompass
 
-👁️ 2K • 👍 294 • 💬 28 • ⏱️ 22:21 • 7h ago
+👁️ 2K • 👍 294 • 💬 28 • ⏱️ 22:21 • 8h ago
 
 ---
 

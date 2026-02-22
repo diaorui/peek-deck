@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T22:26:17.822451+00:00'
+updated: '2026-02-22T22:52:27.684773+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 22:26 UTC  
+**Last Updated:** February 22, 2026 at 22:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -113,7 +113,7 @@ I wanna get into dcaing but what interval is the best presuming i pay zero fees 
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-15h ago
+16h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 1d ago
 
 Dubai, UAE, Feb.  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just crossed $7.285M in presale with three working product demos while most projects in 202...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ markets.businessinsider.com • 1h ago
 
 On Sunday, Michael Burry used an X post to lay out what he described as 26 years of major market calls. That self-audit arrives as Bitcoin lacks utility remains central to his current framework, with Burry arguing the token has not proven durable as a hedge against currency debasement. In the post, Burry shared about his missed opportunity with crypto, writing that he considered buying Bitcoin (CRYPTO: BTC) in 2013 after meeting a friend at Lightspeed but did not follow through. Burry also share
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -327,7 +327,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 47K • 👍 2K • 💬 217 • ⏱️ 8:15 • 22h ago
+👁️ 47K • 👍 2K • 💬 217 • ⏱️ 8:15 • 23h ago
 
 ---
 
@@ -337,7 +337,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 1K • 👍 96 • 💬 10 • ⏱️ 23:49 • 5h ago
+👁️ 1K • 👍 96 • 💬 10 • ⏱️ 23:49 • 6h ago
 
 ---
 
@@ -357,7 +357,7 @@ Is Bitcoin's corporate treasury model about to implode? With Strategy underwater
 
 📺 Coin Bureau
 
-👁️ 41K • 👍 2K • 💬 277 • ⏱️ 11:16 • 9h ago
+👁️ 41K • 👍 2K • 💬 277 • ⏱️ 11:16 • 10h ago
 
 ---
 
@@ -377,7 +377,7 @@ DM me the word "ACCESS" on Telegram to join my group for 2 months FREE: https://
 
 📺 Andy Bitcoinsensus
 
-👁️ 4K • 👍 235 • 💬 63 • ⏱️ 29:02 • 7h ago
+👁️ 4K • 👍 235 • 💬 63 • ⏱️ 29:02 • 8h ago
 
 ---
 
