@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T15:49:56.636346+00:00'
+updated: '2026-02-22T16:32:39.392134+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 15:49 UTC  
+**Last Updated:** February 22, 2026 at 16:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1351.67B
+**Market Cap:** $1350.53B
 Rank #1
 
-**Circulating Supply:** 19,993,168 BTC
+**Circulating Supply:** 19,993,212 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -46.4%
 
 **All-Time Low:** $67.81
-+99600.6%
++99503.3%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 20h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 21h ago
 
 ---
 
@@ -105,7 +105,7 @@ In these brutal bear markets where weak hands get absolutely wrecked, there’s 
 
 With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
 
-10h ago
+11h ago
 
 ---
 
@@ -113,7 +113,7 @@ With all this FUD going around right now, just keep in mind. No one knows more t
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-21h ago
+22h ago
 
 ---
 
@@ -121,13 +121,13 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-20h ago
+21h ago
 
 ---
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -135,7 +135,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks.
 
-27m ago
+1h ago
 
 ---
 
@@ -143,7 +143,7 @@ When I was a minor back in 2015, my old friend’s big brother convinced me to i
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 1d ago
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 27m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 27m ago
 
 Hunt for lost 320 Bitcoin a success, say South Korean prosecutors. Officials say they tracked down operator of bogus wallet checking tool. Police in Seoul also lost $2 million worth of Bitcoin.
 
-Yahoo • 3h ago
+Yahoo • 4h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo • 3h ago
 
 Singapore-based Bitdeer, now the world's largest publicly traded self-miner, has completely liquidated its BTC treasury.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -201,7 +201,7 @@ Fortune • 2d ago
 
 After five months of steady selling pressure, Bitcoin could be ready to rebound.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -217,7 +217,7 @@ The Globe and Mail • 2d ago
 
 CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -257,7 +257,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 20h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 21h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -293,13 +293,13 @@ The company said it will focus on building data centers for high-performance com
 
 Financial independence on a bitcoin standard
 
-⬆️ 1 • 💬 0 • 2d ago • [FIRE BTC](https://calc.firebtc.io/)
+⬆️ 1 • 💬 0 • 3d ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 2 • 💬 0 • 2h ago
+⬆️ 2 • 💬 0 • 3h ago
 
 ---
 
@@ -321,7 +321,17 @@ Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Dig
 
 📺 Money Talks
 
-👁️ 2K • 👍 59 • 💬 57 • ⏱️ 15:10 • 21h ago
+👁️ 3K • 👍 60 • 💬 59 • ⏱️ 15:10 • 22h ago
+
+---
+
+**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
+
+bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 41K • 👍 2K • 💬 200 • ⏱️ 8:15 • 16h ago
 
 ---
 
@@ -335,23 +345,13 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 ---
 
-**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
-
-bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 38K • 👍 2K • 💬 177 • ⏱️ 8:15 • 16h ago
-
----
-
 **[Bitcoin Is Crashing and Exchanges Freezing Up](https://www.youtube.com/watch?v=Xhrzm4CmpEo)**
 
 Take your personal data back with Incogni! Use code BOYLE at the link below and get 60% off an annual plan: ...
 
 📺 Patrick Boyle
 
-👁️ 550K • 👍 29K • 💬 4K • ⏱️ 32:14 • 1d ago
+👁️ 569K • 👍 29K • 💬 4K • ⏱️ 32:14 • 1d ago
 
 ---
 
@@ -361,27 +361,27 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 76K • 👍 4K • 💬 73 • ⏱️ 52:37 • 1d ago
+👁️ 79K • 👍 4K • 💬 73 • ⏱️ 52:37 • 1d ago
 
 ---
 
-**[BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Se2cgqhVFOw)**
+**[BITCOIN HOLDERS: MY IMPORTANT MESSAGE!](https://www.youtube.com/watch?v=iBFOmxCN24o)**
 
-BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
 
-📺 Crypto World
+📺 Crypto Kid
 
-👁️ 8K • 👍 310 • 💬 80 • ⏱️ 14:32 • 16h ago
+👁️ 5K • 👍 323 • 💬 116 • ⏱️ 13:24 • 17h ago
 
 ---
 
-**[The $900 Billion Supreme Court &#39;Rug Pull&#39; That Could Send Bitcoin Parabolic!](https://www.youtube.com/watch?v=C3sX3NIN39Y)**
+**[Trump Betrayed Crypto Holders](https://www.youtube.com/watch?v=niBiKTAXUXs)**
 
-billion just got ripped out of the economy while GDP misses and inflation creeps back. The Supreme Court ruling on tariffs, weak ...
+Trump and Bitcoin a mixed bag, but he has made millions on crypto! Best Crypto Tax Software!
 
-📺 Simply Bitcoin
+📺 Lark Davis
 
-👁️ 31K • 👍 2K • 💬 150 • ⏱️ 12:39 • 1d ago
+👁️ 7K • 👍 608 • 💬 171 • ⏱️ 11:45 • 5h ago
 
 ---
 
@@ -391,25 +391,27 @@ LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications t
 
 📺 Dumb Money Live
 
-👁️ 20K • 👍 557 • 💬 24 • ⏱️ 1:02 • 1d ago
+👁️ 21K • 👍 570 • 💬 24 • ⏱️ 1:02 • 1d ago
 
 ---
 
-**[TRUMP LIED ABOUT CRYPTO? XRP LEADS OVER BITCOIN #xrp #trump #crypto #bitcoin](https://www.youtube.com/watch?v=44gk_-xDHF8)**
+**[The $900 Billion Supreme Court &#39;Rug Pull&#39; That Could Send Bitcoin Parabolic!](https://www.youtube.com/watch?v=C3sX3NIN39Y)**
 
-📺 CryptoWendyO
+billion just got ripped out of the economy while GDP misses and inflation creeps back. The Supreme Court ruling on tariffs, weak ...
 
-👁️ 28K • 👍 1K • 💬 74 • ⏱️ 2:12 • 1d ago
+📺 Simply Bitcoin
+
+👁️ 31K • 👍 2K • 💬 151 • ⏱️ 12:39 • 1d ago
 
 ---
 
-**[The White House Just Released The Crypto BULLS!! (Why I&#39;m preparing for a Bitcoin DUMP)](https://www.youtube.com/watch?v=-i8humbpZJQ)**
+**[Strategy&#39;s $54 Billion Bitcoin Bet Is Underwater. What Happens Next?](https://www.youtube.com/watch?v=w1K0mtKNey0)**
 
-Trump White House PUMPING Crypto.. Due To THIS LAST DAY: Ledger Flash Sale: https://www.ledger.com/altcoindaily 50% ...
+Is Bitcoin's corporate treasury model about to implode? With Strategy underwater on its BTC holdings and copycat firms facing ...
 
-📺 Altcoin Daily
+📺 Coin Bureau
 
-👁️ 49K • 👍 3K • 💬 141 • ⏱️ 11:10 • 2d ago
+👁️ 18K • 👍 1K • 💬 192 • ⏱️ 11:16 • 3h ago
 
 ---
 

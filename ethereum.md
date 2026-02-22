@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T15:49:56.641685+00:00'
+updated: '2026-02-22T16:32:39.398233+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 15:49 UTC  
+**Last Updated:** February 22, 2026 at 16:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.35B
+**Market Cap:** $235.15B
 Rank #2
 
 **Circulating Supply:** 120,692,364 ETH
@@ -62,7 +62,7 @@ No max supply
 -60.6%
 
 **All-Time Low:** $0.43
-+450339.9%
++449817.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was looking into staking, I invest on robinhood because it is easy and I do not own much Crypto. How often does slashing occur in staking? I was going to start staking the eth I have, but started looking into it and saw you could potentially lose all the eth you stake if slashing occurs. How often does it happen?
 
-13h ago
+14h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agents) into an API endpoint after a few days working through the official docs and SDK. It’s running end-to-end: send a request, receive a 402, sign a USDC transfer, retry, and get the response back. A lot of the documentation is confusing due to differences between v1 and v2, so I compiled everything into a single post that should make things clearer. It includes an interactive demo where you can generate a wallet, fund it, and make a real x402 payment against a live endpoint. The goal was to create one resource that’s enough to understand x402 and build your own agent payment integration. The guide also includes some background on the origins of 402. Check it out here: https://simplescraper.io/blog/x402-payment-protocol Let me know what you think!
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Justin Drake dives deep into Lean Ethereum In this episode (which is the first i
 
 The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -196,7 +196,7 @@ Fortune • 1d ago
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-Nasdaq • 1d ago
+Nasdaq • 2d ago
 
 ---
 
@@ -210,7 +210,7 @@ Barron's • 2d ago
 
 Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
 
-TradingView • 17h ago
+TradingView • 18h ago
 
 ---
 
@@ -238,7 +238,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 156 • 💬 32 • ⏱️ 11:38 • 6h ago
+👁️ 2K • 👍 182 • 💬 44 • ⏱️ 11:38 • 7h ago
 
 ---
 
@@ -248,17 +248,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 11K • 👍 512 • 💬 103 • ⏱️ 8:49 • 18h ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 Realistic Prediction]](https://www.youtube.com/watch?v=9jkSSrclP4M)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
-
-📺 Crypto Nutshell
-
-👁️ 14K • 👍 591 • 💬 38 • ⏱️ 18:46 • 1d ago
+👁️ 12K • 👍 540 • 💬 116 • ⏱️ 8:49 • 19h ago
 
 ---
 
@@ -268,7 +258,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 682 • 👍 77 • 💬 7 • ⏱️ 5:45 • 3h ago
+👁️ 1K • 👍 99 • 💬 7 • ⏱️ 5:45 • 4h ago
+
+---
+
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 Realistic Prediction]](https://www.youtube.com/watch?v=9jkSSrclP4M)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
+
+📺 Crypto Nutshell
+
+👁️ 15K • 👍 605 • 💬 38 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -278,27 +278,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 FacePaintcom
 
-👁️ 5K • 👍 2K • 14h ago
-
----
-
-**[Tom Lee: The 44x Opportunity EVEN Bigger Than Bitcoin (2026 Prediction)](https://www.youtube.com/watch?v=DAkb7jk3oUE)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 533 • 💬 35 • ⏱️ 21:01 • 3d ago
-
----
-
-**[Ethereum Is Quietly BEATING Bitcoin 📈?!](https://www.youtube.com/watch?v=wAFAfPXYiRw)**
-
-Everybody is looking at Bitcoin to lead the market, but I think it will be Ethereum. In this video, I'll explain to you why I think ...
-
-📺 Michaël van de Poppe
-
-👁️ 260 • 👍 4 • 💬 1 • ⏱️ 0:13 • 3h ago
+👁️ 13K • 👍 3K • 15h ago
 
 ---
 
@@ -308,17 +288,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 108 • 👍 9 • 💬 1 • ⏱️ 4:51 • 4h ago
+👁️ 145 • 👍 10 • 💬 17 • ⏱️ 4:51 • 5h ago
 
 ---
 
-**[BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Se2cgqhVFOw)**
+**[Ethereum Is Quietly BEATING Bitcoin 📈?!](https://www.youtube.com/watch?v=wAFAfPXYiRw)**
 
-BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+Everybody is looking at Bitcoin to lead the market, but I think it will be Ethereum. In this video, I'll explain to you why I think ...
 
-📺 Crypto World
+📺 Michaël van de Poppe
 
-👁️ 8K • 👍 310 • 💬 80 • ⏱️ 14:32 • 16h ago
+👁️ 391 • 👍 6 • 💬 1 • ⏱️ 0:13 • 4h ago
 
 ---
 
@@ -328,7 +308,27 @@ Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take o
 
 📺 Thomas Kralow
 
-👁️ 29K • 👍 5K • 💬 60 • ⏱️ 10:36 • 2d ago
+👁️ 29K • 👍 5K • 💬 61 • ⏱️ 10:36 • 2d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jcPfG6X_unA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 144 • 💬 6 • ⏱️ 4:43 • 1d ago
+
+---
+
+**[BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Se2cgqhVFOw)**
+
+BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 321 • 💬 142 • ⏱️ 14:32 • 16h ago
 
 ---
 

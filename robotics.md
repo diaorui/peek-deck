@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T15:49:56.644549+00:00'
+updated: '2026-02-22T16:32:39.401527+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 15:49 UTC  
+**Last Updated:** February 22, 2026 at 16:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -50,7 +50,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-20h ago
+21h ago
 
 ---
 
@@ -74,7 +74,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-21m ago
+1h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hello everyone I am 13 years old and I have a lot of robot parts that I have bee
 
 Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
 
-13h ago
+14h ago
 
 ---
 
@@ -90,7 +90,7 @@ Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. 
 
 I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
 
-13h ago
+14h ago
 
 ---
 
@@ -98,7 +98,7 @@ I have a robotics-focused system design interview coming up soon (fleet robots /
 
 I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don't return anything. It seems everything leads to a dead end. I have Choregraphe but to my understanding it doesn't work in the newer OS. I would like to program for the robot and utilise it so any help would be appreciated.
 
-15h ago
+16h ago
 
 ---
 
@@ -132,13 +132,13 @@ IEEE Spectrum • 1d ago
 
 For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
 
-fox23.com • 2h ago
+fox23.com • 3h ago
 
 ---
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 5h ago
+umlconnector.com • 6h ago
 
 ---
 
@@ -168,7 +168,7 @@ Forbes • 2d ago
 
 OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
-South China Morning Post • 5h ago
+South China Morning Post • 6h ago
 
 ---
 
@@ -176,7 +176,7 @@ South China Morning Post • 5h ago
 
 There were teams from across Iowa and even one from Nebraska that took part in the scrimmage on Saturday.
 
-weareiowa.com • 15h ago
+weareiowa.com • 16h ago
 
 ---
 
@@ -184,7 +184,7 @@ weareiowa.com • 15h ago
 
 Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
 
-The Robot Report • 2h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -198,7 +198,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 14K • 👍 317 • 💬 84 • ⏱️ 8:38 • 16h ago
+👁️ 16K • 👍 346 • 💬 89 • ⏱️ 8:38 • 17h ago
 
 ---
 
@@ -208,7 +208,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 37K • 👍 267 • 💬 146 • ⏱️ 2:14 • 1d ago
+👁️ 43K • 👍 287 • 💬 168 • ⏱️ 2:14 • 1d ago
 
 ---
 
@@ -218,17 +218,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 58K • 👍 3K • 💬 765 • ⏱️ 14:51 • 2d ago
-
----
-
-**[China’s Combat Robots Steal the Show at Lunar New Year Gala](https://www.youtube.com/watch?v=MFCmePpllIA)**
-
-China's combat robots steal the show at the Lunar New Year gala as advanced humanoid machines stunned audiences with ...
-
-📺 Carros Show
-
-👁️ 104K • 👍 1K • 💬 237 • ⏱️ 9:50 • 3d ago
+👁️ 60K • 👍 3K • 💬 768 • ⏱️ 14:51 • 2d ago
 
 ---
 
@@ -238,7 +228,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 267K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
+👁️ 270K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
 
 ---
 
@@ -258,7 +248,7 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 📺 Carros Show
 
-👁️ 12K • 👍 138 • 💬 38 • ⏱️ 9:20 • 6d ago
+👁️ 12K • 👍 139 • 💬 38 • ⏱️ 9:20 • 6d ago
 
 ---
 
@@ -268,7 +258,27 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.2M • 👍 94K • 💬 3K • ⏱️ 1:27 • 2d ago
+👁️ 1.3M • 👍 94K • 💬 3K • ⏱️ 1:27 • 3d ago
+
+---
+
+**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+
+China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+
+📺 AI Revolution
+
+👁️ 62K • 👍 1K • 💬 161 • ⏱️ 12:43 • 6d ago
+
+---
+
+**[Chinese Combat Robot &quot;Centaur&quot; Shocked the World at Lunar New Year Gala](https://www.youtube.com/watch?v=wQBm60t5P5o)**
+
+Chinese combat robots stunned global audiences as their appearance at a major Lunar New Year celebration highlighted how far ...
+
+📺 Carros Show
+
+👁️ 30K • 👍 789 • 💬 152 • ⏱️ 10:12 • 2d ago
 
 ---
 
@@ -279,16 +289,6 @@ By combining decades of real-world data with advanced AI, simulation and digital
 📺 NVIDIA
 
 👁️ 33K • 👍 1K • ⏱️ 2:51 • 3d ago
-
----
-
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
-
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
-
-📺 AI Revolution
-
-👁️ 61K • 👍 1K • 💬 161 • ⏱️ 12:43 • 6d ago
 
 ---
 
