@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T18:37:31.110793+00:00'
+updated: '2026-02-22T19:25:58.683910+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - news
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 18:37 UTC  
+**Last Updated:** February 22, 2026 at 19:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 3h ago
 
 ---
 
@@ -71,7 +71,7 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 The open-source ollama project that makes it easy to get up and running with a variety of LLMs under Windows, macOS, and Linux is out with a new release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 15h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 16h ago
 
 ---
 
@@ -79,7 +79,7 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
 
-🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 14h ago
+🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 15h ago
 
 ---
 
@@ -141,7 +141,7 @@ Politico • 1d ago
 
 **[Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence](https://www.bloomberg.com/news/newsletters/2026-02-22/apple-s-ai-wearables-push-what-to-expect-from-march-4-low-end-macbook-launch)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -149,7 +149,7 @@ Bloomberg.com • 5h ago
 
 Companies are seeking advice on how to provide energy to data centres and profit from artificial intelligence
 
-Financial Times • 13h ago
+Financial Times • 14h ago
 
 ---
 
@@ -157,7 +157,7 @@ Financial Times • 13h ago
 
 "To give a true homily is to share faith," and artificial intelligence "will never be able to share faith," the pope added.
 
-OSV News • 20h ago
+OSV News • 21h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Hacker News • 1d ago
 
 Samsung continues to evolve its AI experience by adding a new AI agent across the Galaxy ecosystem to make everyday interactions easier
 
-samsung.com • 19h ago
+samsung.com • 20h ago
 
 ---
 
@@ -181,7 +181,7 @@ samsung.com • 19h ago
 
 Coaching from artificial intelligence chatbots, personalized and accessible at any time, is now shaping how some students write.
 
-The Washington Post • 5m ago
+The Washington Post • 54m ago
 
 ---
 
@@ -189,7 +189,7 @@ The Washington Post • 5m ago
 
 You can avoid Google's AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.
 
-WIRED • 7h ago
+WIRED • 8h ago
 
 ---
 
@@ -231,7 +231,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 301 • 💬 164 • 1d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 301 • 💬 164 • 2d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -283,7 +283,7 @@ Slandered by one AI robot and misquoted in a news article by another, US-based s
 
 📺 FRANCE 24 English
 
-👁️ 18K • 👍 985 • 💬 191 • ⏱️ 5:50 • 3h ago
+👁️ 18K • 👍 985 • 💬 191 • ⏱️ 5:50 • 4h ago
 
 ---
 
@@ -293,7 +293,7 @@ IM LIVE EVERY DAY- https://www.youtube.com/channel/UCWsD... Check Out My Second 
 
 📺 Speedy Boykins
 
-👁️ 10K • 👍 373 • 💬 20 • ⏱️ 3:11 • 11h ago
+👁️ 10K • 👍 373 • 💬 20 • ⏱️ 3:11 • 12h ago
 
 ---
 
@@ -323,7 +323,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 62 • ⏱️ 10:44 • 19h ago
+👁️ 31K • 👍 1K • 💬 62 • ⏱️ 10:44 • 20h ago
 
 ---
 
@@ -413,7 +413,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 707 • 16h ago
+⬇️ 153,566 • ❤️ 707 • 17h ago
 
 ---
 
@@ -644,7 +644,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.0k • 🔱 2.0k • 4m ago
+⭐ 17.0k • 🔱 2.0k • 52m ago
 
 ---
 
@@ -654,7 +654,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 10.0k • 🔱 1.1k • 20h ago
+⭐ 10.0k • 🔱 1.1k • 21h ago
 
 ---
 
@@ -692,7 +692,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 327 • 4h ago
+⭐ 3.3k • 🔱 327 • 5h ago
 
 ---
 
@@ -702,7 +702,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.9k • 🔱 368 • 9h ago
+⭐ 2.9k • 🔱 368 • 10h ago
 
 ---
 
@@ -712,7 +712,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 182 • 3h ago
+⭐ 2.7k • 🔱 182 • 4h ago
 
 ---
 
@@ -732,7 +732,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.4k • 🔱 260 • 2h ago
+⭐ 2.4k • 🔱 260 • 3h ago
 
 ---
 

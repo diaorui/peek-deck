@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T18:37:31.128612+00:00'
+updated: '2026-02-22T19:25:58.703510+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 18:37 UTC  
+**Last Updated:** February 22, 2026 at 19:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-23h ago
+1d ago
 
 ---
 
@@ -78,7 +78,7 @@ Hello everyone I am 13 years old and I have a lot of robot parts that I have bee
 
 **[Fighting back paid annotation services](https://www.reddit.com/r/robotics/comments/1rbqy5k/fighting_back_paid_annotation_services/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
 
-16h ago
+17h ago
 
 ---
 
@@ -102,7 +102,7 @@ Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. 
 
 I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
 
-16h ago
+17h ago
 
 ---
 
@@ -130,13 +130,13 @@ TechCrunch • 2d ago
 
 For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
 
-fox23.com • 5h ago
+fox23.com • 6h ago
 
 ---
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 8h ago
+umlconnector.com • 9h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Robot Report • 5h ago
 
 Veteran investor Tom Hulick's highest-conviction idea for the next 12 months.
 
-Opening Bell Daily • 7h ago
+Opening Bell Daily • 8h ago
 
 ---
 
@@ -196,7 +196,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 17K • 👍 367 • 💬 99 • ⏱️ 8:38 • 19h ago
+👁️ 17K • 👍 367 • 💬 99 • ⏱️ 8:38 • 20h ago
 
 ---
 

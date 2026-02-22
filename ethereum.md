@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T18:37:31.125297+00:00'
+updated: '2026-02-22T19:25:58.698334+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 18:37 UTC  
+**Last Updated:** February 22, 2026 at 19:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-12h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was looking into staking, I invest on robinhood because it is easy and I do not own much Crypto. How often does slashing occur in staking? I was going to start staking the eth I have, but started looking into it and saw you could potentially lose all the eth you stake if slashing occurs. How often does it happen?
 
-16h ago
+17h ago
 
 ---
 
@@ -128,7 +128,7 @@ Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agen
 
 Lobsters like block too You can use x402 for agents to pay and get access to blockchain data now. There’s no clean way for agents to access onchain data without API keys, accounts, or billing friction. Until now. With x402, agents can pay per request using stablecoins over HTTP, wallet in, data out. https://goldrush.dev/blog/goldrush-x402-blockchain-data-for-agents/
 
-1d ago
+2d ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 1d ago
 
 The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Barron's • 2d ago
 
 Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
 
-TradingView • 20h ago
+TradingView • 21h ago
 
 ---
 
@@ -240,7 +240,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 203 • 💬 55 • ⏱️ 11:38 • 9h ago
+👁️ 3K • 👍 203 • 💬 55 • ⏱️ 11:38 • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 13K • 👍 583 • 💬 116 • ⏱️ 8:49 • 21h ago
+👁️ 13K • 👍 583 • 💬 116 • ⏱️ 8:49 • 22h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 7 • ⏱️ 5:45 • 6h ago
+👁️ 2K • 👍 115 • 💬 7 • ⏱️ 5:45 • 7h ago
 
 ---
 
@@ -290,7 +290,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 FacePaintcom
 
-👁️ 7K • 👍 3K • 17h ago
+👁️ 7K • 👍 3K • 18h ago
 
 ---
 
@@ -300,7 +300,7 @@ Everybody is looking at Bitcoin to lead the market, but I think it will be Ether
 
 📺 Michaël van de Poppe
 
-👁️ 561 • 👍 9 • 💬 3 • ⏱️ 0:13 • 6h ago
+👁️ 561 • 👍 9 • 💬 3 • ⏱️ 0:13 • 7h ago
 
 ---
 
@@ -320,7 +320,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 Manfred Thönicke
 
-👁️ 4K • 👍 1K • 1h ago
+👁️ 4K • 👍 1K • 2h ago
 
 ---
 
@@ -330,7 +330,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 328 • 💬 96 • ⏱️ 14:32 • 18h ago
+👁️ 9K • 👍 328 • 💬 96 • ⏱️ 14:32 • 19h ago
 
 ---
 

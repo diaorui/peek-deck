@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T18:37:31.119256+00:00'
+updated: '2026-02-22T19:25:58.692253+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- news
 - cryptocurrency
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 18:37 UTC  
+**Last Updated:** February 22, 2026 at 19:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ When I was a minor back in 2015, my old friend’s big brother convinced me to i
 
 Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can rediscover fire. TLDW: Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself. ...do you have more time to watch? 1: https://youtu.be/19LA7ReARCQ 2: https://youtu.be/YroOIC8eDrk 3: https://youtu.be/ZsgZjAPjxDU
 
-2h ago
+3h ago
 
 ---
 
@@ -97,7 +97,7 @@ Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can 
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 23h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 1d ago
 
 ---
 
@@ -113,7 +113,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-11h ago
+12h ago
 
 ---
 
@@ -121,7 +121,7 @@ In these brutal bear markets where weak hands get absolutely wrecked, there’s 
 
 With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
 
-13h ago
+14h ago
 
 ---
 
@@ -151,7 +151,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
+13h ago
 
 ---
 
@@ -163,7 +163,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 President Donald Trump raised the global tariff rate to 15% despite a Supreme Court ruling against earlier emergency trade measures, keeping pressure on China and other partners.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ Bloomberg.com • 1d ago
 
 If quantum systems mature, roughly $440 billion in bitcoin including Satoshi’s holdings could be exposed.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -185,13 +185,13 @@ CoinDesk • 2h ago
 
 On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
 
-Yahoo Finance • 21h ago
+Yahoo Finance • 22h ago
 
 ---
 
 **[Robert Kiyosaki buys 1 more BTC , doubles down on bitcoin over gold](https://www.binance.com/en/square/post/294203989714162)**
 
-Binance • 18h ago
+Binance • 19h ago
 
 ---
 
@@ -199,7 +199,7 @@ Binance • 18h ago
 
 Robert Kiyosaki is buying Bitcoin again.
 
-thestreet.com • 19h ago
+thestreet.com • 20h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Globe and Mail • 2d ago
 
 CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-The Block • 20h ago
+The Block • 21h ago
 
 ---
 
@@ -255,7 +255,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 23h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 1d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -297,7 +297,7 @@ Financial independence on a bitcoin standard
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 2 • 💬 0 • 5h ago
+⬆️ 2 • 💬 0 • 6h ago
 
 ---
 
@@ -319,7 +319,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 208 • ⏱️ 8:15 • 18h ago
+👁️ 44K • 👍 2K • 💬 208 • ⏱️ 8:15 • 19h ago
 
 ---
 
@@ -369,7 +369,7 @@ Real estate mogul Grant Cardone unveils his innovative hybrid portfolio, combini
 
 📺 Fox Business
 
-👁️ 936 • 👍 65 • 💬 16 • ⏱️ 8:23 • 1h ago
+👁️ 936 • 👍 65 • 💬 16 • ⏱️ 8:23 • 2h ago
 
 ---
 
@@ -389,7 +389,7 @@ DM me the word "ACCESS" on Telegram to join my group for 2 months FREE: https://
 
 📺 Andy Bitcoinsensus
 
-👁️ 2K • 👍 205 • 💬 61 • ⏱️ 29:02 • 3h ago
+👁️ 2K • 👍 205 • 💬 61 • ⏱️ 29:02 • 4h ago
 
 ---
 
@@ -409,7 +409,7 @@ Trump and Bitcoin a mixed bag, but he has made millions on crypto! Best Crypto T
 
 📺 Lark Davis
 
-👁️ 11K • 👍 736 • 💬 210 • ⏱️ 11:45 • 7h ago
+👁️ 11K • 👍 736 • 💬 210 • ⏱️ 11:45 • 8h ago
 
 ---
 
