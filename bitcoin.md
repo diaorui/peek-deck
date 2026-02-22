@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T10:53:48.631177+00:00'
+updated: '2026-02-22T11:22:21.156509+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 10:53 UTC  
+**Last Updated:** February 22, 2026 at 11:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -89,7 +89,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 15h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 16h ago
 
 ---
 
@@ -97,7 +97,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-16h ago
+17h ago
 
 ---
 
@@ -119,7 +119,7 @@ With all this FUD going around right now, just keep in mind. No one knows more t
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -143,7 +143,7 @@ In these brutal bear markets where weak hands get absolutely wrecked, there’s 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ Just trying to look at this calmly and without bias. After the recent sell-off, 
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg • 19h ago
+Bloomberg • 20h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg • 19h ago
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Globe and Mail • 13h ago
 
 CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -269,7 +269,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 21h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 22h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -349,7 +349,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 504K • 👍 27K • 💬 4K • ⏱️ 32:14 • 21h ago
+👁️ 504K • 👍 27K • 💬 4K • ⏱️ 32:14 • 22h ago
 
 ---
 
@@ -359,7 +359,7 @@ Subscribe for More Bitcoin Content I built this tool because I was tired of losi
 
 📺 Mr Bitcoin Maxi 
 
-👁️ 2K • 👍 159 • 💬 68 • ⏱️ 12:41 • 14h ago
+👁️ 2K • 👍 159 • 💬 68 • ⏱️ 12:41 • 15h ago
 
 ---
 
@@ -369,7 +369,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 70K • 👍 3K • 💬 75 • ⏱️ 52:37 • 20h ago
+👁️ 70K • 👍 3K • 💬 75 • ⏱️ 52:37 • 21h ago
 
 ---
 

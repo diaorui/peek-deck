@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T10:53:48.622163+00:00'
+updated: '2026-02-22T11:22:21.148164+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
 - news
 - videos
 - social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 10:53 UTC  
+**Last Updated:** February 22, 2026 at 11:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
 
-🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 18h ago
+🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 19h ago
 
 ---
 
@@ -111,7 +111,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 "Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
 
-🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 23h ago
+🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 1d ago
 
 ---
 
@@ -123,7 +123,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 Shares of Microsoft, Oracle and Salesforce are sliding as investors debate whether AI will disrupt or destroy software firms.
 
-USA Today • 48m ago
+USA Today • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ As artificial intelligence reshapes classrooms and workplaces alike, educators i
 preparing students to thrive in an 
 AI-driven world.
 
-Honolulu Star-Advertiser • 48m ago
+Honolulu Star-Advertiser • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Honolulu Star-Advertiser • 48m ago
 
 SpaceX received federal environmental approval for Starship launches from Kennedy Space Center, paving the way for up to 1 million AI-powering satellites. Learn what this means for Florida's Space Coast.
 
-Florida Today • 50m ago
+Florida Today • 1h ago
 
 ---
 
@@ -169,13 +169,13 @@ Fortune • 22h ago
 
 **[Kick Chronic Kidney Disease With AI](https://www.forbes.com/sites/johnwerner/2026/02/21/kick-chronic-kidney-disease-with-ai/)**
 
-Forbes • 18h ago
+Forbes • 19h ago
 
 ---
 
 **[The Country That’s Madly in Love With AI](https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618)**
 
-Politico • 19h ago
+Politico • 20h ago
 
 ---
 
@@ -189,7 +189,7 @@ Axios • 1d ago
 
 Big tech's spending spree is accelerating, but Nvidia stock is priced like it isn't.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -286,7 +286,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 21K • 👍 794 • 💬 53 • ⏱️ 10:44 • 11h ago
+👁️ 21K • 👍 794 • 💬 53 • ⏱️ 10:44 • 12h ago
 
 ---
 
@@ -296,7 +296,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 105K • 👍 7K • 💬 2K • ⏱️ 18:44 • 22h ago
+👁️ 105K • 👍 7K • 💬 2K • ⏱️ 18:44 • 23h ago
 
 ---
 
@@ -326,7 +326,7 @@ Americans Are FURIOUS Over AI Data Centers | It's Getting Worse Popular Video Co
 
 📺 Snyder Reports
 
-👁️ 11K • 👍 1K • 💬 174 • ⏱️ 11:21 • 9h ago
+👁️ 11K • 👍 1K • 💬 174 • ⏱️ 11:21 • 10h ago
 
 ---
 
@@ -336,7 +336,7 @@ Former Congressman Brad Carson, the President of Americans for Responsible Innov
 
 📺 Forbes Breaking News
 
-👁️ 9K • 👍 290 • 💬 130 • ⏱️ 20:25 • 19h ago
+👁️ 9K • 👍 290 • 💬 130 • ⏱️ 20:25 • 20h ago
 
 ---
 
@@ -356,7 +356,7 @@ There is growing concern about how artificial intelligence could be used by the 
 
 📺 Sky News Australia
 
-👁️ 8K • 👍 181 • 💬 101 • ⏱️ 2:08 • 5h ago
+👁️ 8K • 👍 181 • 💬 101 • ⏱️ 2:08 • 6h ago
 
 ---
 
@@ -674,7 +674,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.9k • 🔱 599 • 18h ago
+⭐ 4.9k • 🔱 599 • 19h ago
 
 ---
 
@@ -704,7 +704,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.9k • 🔱 366 • 1h ago
+⭐ 2.9k • 🔱 366 • 2h ago
 
 ---
 
@@ -714,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 180 • 10h ago
+⭐ 2.6k • 🔱 180 • 11h ago
 
 ---
 

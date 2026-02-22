@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T10:53:48.640504+00:00'
+updated: '2026-02-22T11:22:21.165616+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 10:53 UTC  
+**Last Updated:** February 22, 2026 at 11:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-15h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
-22h ago
+23h ago
 
 ---
 
@@ -66,7 +66,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-46m ago
+1h ago
 
 ---
 
@@ -74,7 +74,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
 
-8h ago
+9h ago
 
 ---
 
@@ -82,7 +82,7 @@ Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. 
 
 I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
 
-8h ago
+9h ago
 
 ---
 
@@ -90,7 +90,7 @@ I have a robotics-focused system design interview coming up soon (fleet robots /
 
 I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don't return anything. It seems everything leads to a dead end. I have Choregraphe but to my understanding it doesn't work in the newer OS. I would like to program for the robot and utilise it so any help would be appreciated.
 
-10h ago
+11h ago
 
 ---
 
@@ -124,13 +124,13 @@ CNBC • 2d ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 1d ago
+Business Insider • 2d ago
 
 ---
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 55m ago
+umlconnector.com • 1h ago
 
 ---
 
@@ -146,7 +146,7 @@ Hawaii News Now • 3d ago
 
 There were teams from across Iowa and even one from Nebraska that took part in the scrimmage on Saturday.
 
-weareiowa.com • 10h ago
+weareiowa.com • 11h ago
 
 ---
 
@@ -168,7 +168,7 @@ Auburn University • 1d ago
 
 OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
-South China Morning Post • 53m ago
+South China Morning Post • 1h ago
 
 ---
 
@@ -198,7 +198,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 9K • 👍 245 • 💬 71 • ⏱️ 8:38 • 11h ago
+👁️ 9K • 👍 245 • 💬 71 • ⏱️ 8:38 • 12h ago
 
 ---
 
@@ -278,7 +278,7 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 9K • 👍 200 • 💬 202 • ⏱️ 2:30 • 17h ago
+👁️ 9K • 👍 200 • 💬 202 • ⏱️ 2:30 • 18h ago
 
 ---
 
