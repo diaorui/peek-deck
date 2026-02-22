@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T21:48:47.452550+00:00'
+updated: '2026-02-22T22:26:17.831536+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 21:48 UTC  
+**Last Updated:** February 22, 2026 at 22:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +50,15 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-11h ago
+12h ago
+
+---
+
+**[Built my first hexapod!](https://www.reddit.com/r/robotics/comments/1rbyo3y/built_my_first_hexapod/)**
+
+Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
+
+41m ago
 
 ---
 
@@ -76,31 +84,23 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 ---
 
+**[From garden cart to autonomous UGV](https://www.reddit.com/r/robotics/comments/1rbyn7f/from_garden_cart_to_autonomous_ugv/)**
+
+I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
+
+41m ago
+
+---
+
 **[CC student into robotics/aerospace needing serious project ideas + career advice](https://www.reddit.com/r/robotics/comments/1rbxawr/cc_student_into_roboticsaerospace_needing_serious/)**
 
-55m ago
+1h ago
 
 ---
 
 **[Fighting back paid annotation services](https://www.reddit.com/r/robotics/comments/1rbqy5k/fighting_back_paid_annotation_services/)**
 
-4h ago
-
----
-
-**[[Open Source] Bloom: tiny DSL → C++ for on-drone tile anomaly maps](https://www.reddit.com/r/robotics/comments/1rbvjdp/open_source_bloom_tiny_dsl_c_for_ondrone_tile/)**
-
-I’m making language for drones, a tiny DSL that compiles a simple .bloom spec into C++17 for onboard-friendly tile analytics / anomaly detection. Current MVP: - .bloom → bloomc.py → generated out.cpp → out.exe - deterministic seeded test frames (no camera required) - per-tile mean/variance + anomaly detection (var OR brightness) - exports out.json (mean_map / var_map / anom_map) Quickstart (Windows/MSYS2): - .\scripts\build.ps1 any feedback for me ? :) Repo: https://github.com/Gelukkig95/Bloom-uav-dsl
-
-2h ago
-
----
-
-**[[Open Source] I am making computer language for drones , Bloom: a tiny DSL that compiles to heapless C++ for on-drone tile anomaly maps](https://www.reddit.com/r/robotics/comments/1rbvi5u/open_source_i_am_making_computer_language_for/)**
-
-I’m building Bloom, a tiny DSL that compiles a simple .bloom spec into C++17 for onboard-friendly tile analytics / anomaly detection. Current MVP: - .bloom → bloomc.py → generated out.cpp → out.exe - deterministic seeded test frames (no camera required) - per-tile mean/variance + anomaly detection (var OR brightness) - exports out.json (mean_map / var_map / anom_map) Quickstart (Windows/MSYS2): - .\scripts\build.ps1 any feedback for me ? :) Repo: https://github.com/Gelukkig95/Bloom-uav-dsl
-
-2h ago
+5h ago
 
 ---
 
@@ -116,11 +116,9 @@ CNBC • 2d ago
 
 ---
 
-**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
+**[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
 
-OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
-
-South China Morning Post • 11h ago
+Zacks Investment Research • 3d ago
 
 ---
 
@@ -128,13 +126,13 @@ South China Morning Post • 11h ago
 
 For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
 
-fox23.com • 8h ago
+fox23.com • 9h ago
 
 ---
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 11h ago
+umlconnector.com • 12h ago
 
 ---
 
@@ -176,11 +174,11 @@ Automotive News • 3d ago
 
 ---
 
-**[Integrated motion control enables sophisticated robot motion](https://www.therobotreport.com/integrated-motion-control-enables-sophisticated-robot-motion/)**
+**[Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids](https://www.therobotreport.com/toyota-motor-manufacturing-canada-deploys-agility-robotics-digit-humanoids/)**
 
-Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
+Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10.
 
-The Robot Report • 8h ago
+The Robot Report • 3d ago
 
 ---
 
@@ -194,7 +192,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 19K • 👍 378 • 💬 102 • ⏱️ 8:38 • 22h ago
+👁️ 19K • 👍 378 • 💬 102 • ⏱️ 8:38 • 23h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T21:48:47.449397+00:00'
+updated: '2026-02-22T22:26:17.828365+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 21:48 UTC  
+**Last Updated:** February 22, 2026 at 22:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,943.45
+### $1,954.68
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.0%  
-**7d:** -2.8%  
-**30d:** -34.2%  
-**90d:** -34.4%  
-**1y:** -31.1%  
+**24h:** -0.9%  
+**7d:** -2.2%  
+**30d:** -33.8%  
+**90d:** -34.0%  
+**1y:** -30.7%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
+
+---
+
+**[Do ETH ETF's on the TSX pay staking rewards like some US ones do?](https://www.reddit.com/r/ethereum/comments/1rbz4pb/do_eth_etfs_on_the_tsx_pay_staking_rewards_like/)**
+
+Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
+
+23m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was looking into staking, I invest on robinhood because it is easy and I do not own much Crypto. How often does slashing occur in staking? I was going to start staking the eth I have, but started looking into it and saw you could potentially lose all the eth you stake if slashing occurs. How often does it happen?
 
-19h ago
+20h ago
 
 ---
 
@@ -104,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Some backstory In February 2016 — less than a year after Ethereum launched — Alex Van de Sande (avsa) from the Ethereum Foundation deployed an experimental contract called Unicorns (0x89205A3A). It was one of the very first token contracts on Ethereum, predating the ERC-20 standard. A month later, he created Unicorn Meat (0xED6aC8de) — another experimental token — along with the Grinder Association DAO, one of the earliest DAOs on Ethereum. The Grinder let you exchange Unicorns for Unicorn Meat, effectively the first onchain token swap. These were demo contracts for the Mist browser. They were never meant to become "real" tokens, but they've survived for 10 years now — still on mainnet, still functional, still held in wallets. The problem Because these tokens predate ERC-20 (they have 0 decimal places, non-standard transfer functions), they don't work well with modern DEXes. Uniswap V3's fee math rounds to 0 for 0-decimal tokens. AMM pooling is essentially broken for them. Wrapped versions exist (w🦄 and w🍖 are standard ERC-20s), but the 0-decimal problem persists. What we built Unicorn Market — a fully onchain orderbook contract, purpose-built for these tokens: No backend, no matching engine, no admin keys — pure smart contract Escrowed limit orders — maker's tokens held in contract until filled or cancelled Partial fills — take any portion of an order Deterministic rounding — uses OpenZeppelin's Math.mulDiv with ceiling rounding so makers never get shorted All state onchain, all settlement via events Verified contract: 0xA352B50A91C648c97F7aC0a80D686D297b62693E Trade interface: unicornmeateth.com/market Source: github.com/cartoonitunes/unicorn-market Why this matters (beyond the meme) There are hundreds of pre-ERC-20 and non-standard tokens stuck on Ethereum mainnet with no good trading infrastructure. AMMs assume standard decimals and transfer behavior. A simple, auditable orderbook contract is arguably the right primitive for these edge cases. If you hold any legacy Ethereum tokens from 2015-2017, you probably know the pain of trying to trade them on modern infra. Technical details Reentrancy-guarded, CEI pattern throughout Happy to answer questions about the contract design or the history of these tokens.
 
-1d ago
+2d ago
 
 ---
 
@@ -140,25 +148,9 @@ There’s been a lot of talk lately about how fast teams are shipping contracts 
 
 ---
 
-**[Justin Drake dives deep into Lean Ethereum](https://www.reddit.com/r/ethereum/comments/1r9qidy/justin_drake_dives_deep_into_lean_ethereum/)**
-
-Justin Drake dives deep into Lean Ethereum In this episode (which is the first in a six-part series on Lean Ethereum) we covered: - This vision for ethereum, spanning the consensus, data, and execution layers. - How post-quantum cryptography, faster finality, and enshrined ZK are all being used to future-proof Ethereum’s core. They also lay out some of the topics that will be covered in subsequent parts of the series. Listen here
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
-
-FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
-
-The Block • 2d ago
-
----
 
 **[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
 
@@ -168,27 +160,19 @@ CoinDesk • 1d ago
 
 ---
 
-**[Vitalik Buterin Sells $7 Million in Ethereum as ETH Price Sinks 30%](https://finance.yahoo.com/news/vitalik-buterin-sells-7-million-113000164.html)**
+**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
 
-Ethereum co-founder Vitalik Buterin is rapidly liquidating millions of dollars worth of his tokens into a declining market.
+FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
 
-Yahoo Finance • 10h ago
-
----
-
-**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
-
-BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
-
-Yahoo Finance • 2d ago
+The Block • 2d ago
 
 ---
 
-**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+**[Ethereum, Solana Defy L1 Myth — Bitwise CIO Sees Prediction Markets Changing Everything](https://finance.yahoo.com/news/ethereum-solana-defy-l1-myth-211224432.html)**
 
-At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+Bitwise CIO Matt Hougan says institutions favor chains like Ethereum & Solana, while prediction markets are regulatory equalizer in crypto.
 
-Decrypt • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -200,6 +184,14 @@ Fortune • 2d ago
 
 ---
 
+**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
+
+Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
+
+TradingView • 1d ago
+
+---
+
 **[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
@@ -208,17 +200,11 @@ Nasdaq • 2d ago
 
 ---
 
-**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
+**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
 
-Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
+At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
 
-TradingView • 23h ago
-
----
-
-**[Ethereum ETF Blink, Not Breakdown: Fidelity’s FETH Books a $11.6 Million Outflow](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-blink-not-breakdown-fidelitys-feth-books-a-11-6-million-outflow)**
-
-TipRanks • 4h ago
+Decrypt • 1d ago
 
 ---
 
@@ -226,7 +212,23 @@ TipRanks • 4h ago
 
 This insight shows retails are Short but institutionals are Long. Find out the details of this new information and what it means.
 
-investingLive • 4h ago
+investingLive • 5h ago
+
+---
+
+**[ETHB: Everything We Know About BlackRock's New Ethereum Staking ETF](https://info.arkm.com/research/ethb-everything-we-know-about-blackrocks-new-ethereum-staking-etf)**
+
+BlackRock is undergoing preparations to launch its much-anticipated Ethereum staking ETF: ETHB. Here's everything we know so far
+
+Arkham | Research • 2d ago
+
+---
+
+**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://coingape.com/blackrock-signals-270m-bitcoin-ethereum-sell-off-as-2-4b-in-crypto-options-expire/)**
+
+BlackRock deposited Bitcoin and Ethereum into Coinbase, likely to offload these coins amid the expiry of $2.4 billion crypto options.
+
+CoinGape • 2d ago
 
 ---
 
@@ -240,7 +242,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 4K • 👍 224 • 💬 58 • ⏱️ 11:38 • 12h ago
+👁️ 4K • 👍 224 • 💬 58 • ⏱️ 11:38 • 13h ago
 
 ---
 
@@ -250,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 7 • ⏱️ 5:45 • 9h ago
+👁️ 2K • 👍 124 • 💬 7 • ⏱️ 5:45 • 10h ago
 
 ---
 
@@ -280,7 +282,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 2K • 👍 190 • 4h ago
+👁️ 2K • 👍 190 • 5h ago
 
 ---
 
@@ -300,7 +302,7 @@ Everybody is looking at Bitcoin to lead the market, but I think it will be Ether
 
 📺 Michaël van de Poppe
 
-👁️ 808 • 👍 10 • 💬 4 • ⏱️ 0:13 • 9h ago
+👁️ 808 • 👍 10 • 💬 4 • ⏱️ 0:13 • 10h ago
 
 ---
 
@@ -330,7 +332,7 @@ Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Koste
 
 📺 TradingKompass
 
-👁️ 2K • 👍 294 • 💬 28 • ⏱️ 22:21 • 6h ago
+👁️ 2K • 👍 294 • 💬 28 • ⏱️ 22:21 • 7h ago
 
 ---
 

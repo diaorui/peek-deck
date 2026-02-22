@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T21:48:47.443446+00:00'
+updated: '2026-02-22T22:26:17.822451+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 21:48 UTC  
+**Last Updated:** February 22, 2026 at 22:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,432.47
+### $67,654.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.4%  
-**7d:** -2.0%  
-**30d:** -24.5%  
-**90d:** -23.0%  
-**1y:** -29.9%  
+**24h:** -0.6%  
+**7d:** -1.8%  
+**30d:** -24.3%  
+**90d:** -22.8%  
+**1y:** -29.8%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks.
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ When I was a minor back in 2015, my old friend’s big brother convinced me to i
 
 Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can rediscover fire. TLDW: Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself. ...do you have more time to watch? 1: https://youtu.be/19LA7ReARCQ 2: https://youtu.be/YroOIC8eDrk 3: https://youtu.be/ZsgZjAPjxDU
 
-5h ago
+6h ago
 
 ---
 
@@ -98,6 +98,14 @@ Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
 🔗 [Stacker News](https://stacker.news/items/1433892) • 1d ago
+
+---
+
+**[What dca interval should i choose](https://www.reddit.com/r/Bitcoin/comments/1rbvssm/what_dca_interval_should_i_choose/)**
+
+I wanna get into dcaing but what interval is the best presuming i pay zero fees and what do you guys do. And how do you buy to minimize fees?
+
+2h ago
 
 ---
 
@@ -117,19 +125,11 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 ---
 
-**[What dca interval should i choose](https://www.reddit.com/r/Bitcoin/comments/1rbvssm/what_dca_interval_should_i_choose/)**
-
-I wanna get into dcaing but what interval is the best presuming i pay zero fees and what do you guys do. And how do you buy to minimize fees?
-
-1h ago
-
----
-
 **[Just keep this in mind…](https://www.reddit.com/r/Bitcoin/comments/1rbde7t/just_keep_this_in_mind/)**
 
 With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
 
-16h ago
+17h ago
 
 ---
 
@@ -141,19 +141,19 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 ---
 
+**[Has anyone experienced issues withdrawing GBP from crypto.com?](https://www.reddit.com/r/Bitcoin/comments/1rbuwbr/has_anyone_experienced_issues_withdrawing_gbp/)**
+
+Withdrawn money in the past no issue, but this time they are checking it. Find it weird with it not being my first withdrawal. Could take 3 days. Nightmare!
+
+3h ago
+
+---
+
 **[Thoughts on buying BTC on Cashapp?](https://www.reddit.com/r/Bitcoin/comments/1rbnwrr/thoughts_on_buying_btc_on_cashapp/)**
 
 What are your thoughts on that??
 
-6h ago
-
----
-
-**[Custom Steel BTC sign](https://www.reddit.com/r/Bitcoin/comments/1rb02ma/custom_steel_btc_sign/)**
-
-I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
-
-1d ago
+7h ago
 
 ---
 
@@ -161,59 +161,39 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 ## Google News: "bitcoin"
 
-**[BTC, ETH, DOGE price news: Bitcoin drops to $67,000 as Trump's tariff tentions return](https://www.coindesk.com/markets/2026/02/22/bitcoin-dips-to-usd67-000-doge-eth-slide-as-tariff-uncertainty-weighs-on-risk-assets)**
+**[Quantum computing risk puts 7 million BTC including Satoshi Nakamoto's 1 million at stake](https://www.coindesk.com/business/2026/02/22/to-freeze-or-not-to-freeze-satoshi-and-the-usd440-billion-in-bitcoin-threatened-by-quantum-computing)**
 
-President Donald Trump raised the global tariff rate to 15% despite a Supreme Court ruling against earlier emergency trade measures, keeping pressure on China and other partners.
+If quantum systems mature, roughly $440 billion in bitcoin including Satoshi’s holdings could be exposed.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
-
-U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
-
-CoinDesk • 1d ago
-
----
-
-**[Bitcoin slips after earlier gains amid tariff volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-68000-after-tariffdriven-volatility-fades-4517576)**
-
-Investing.com • 3h ago
+CoinDesk • 6h ago
 
 ---
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Agoraflux_WOP(@Agora_flux)'s insights](https://www.binance.com/en/square/post/294489010326385)**
+**[Crypto News: Pepeto Presale Crosses $7.285M as Bernstein Targets $250,000 Bitcoin and Altcoin Rotation Begins](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-crosses-7-285m-as-bernstein-targets-250-000-bitcoin-and-altcoin-rotation-begins-1035853011)**
 
-Binance • 2h ago
+Dubai, UAE, Feb.  22, 2026  (GLOBE NEWSWIRE) -- Pepeto just crossed $7.285M in presale with three working product demos while most projects in 202...
 
----
-
-**[Robert Kiyosaki Doubles Down on Bitcoin at $67,000, Citing Two Big Catalysts](https://finance.yahoo.com/news/robert-kiyosaki-doubles-down-bitcoin-204510463.html)**
-
-On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
-
-Yahoo Finance • 1d ago
+markets.businessinsider.com • 1h ago
 
 ---
 
-**[Robert Kiyosaki buys 1 more BTC , doubles down on bitcoin over gold](https://www.binance.com/en/square/post/294203989714162)**
+**[Michael Burry Says He 'Slept' on Bitcoin After Early 2013 Buying Opportunity](https://finance.yahoo.com/news/michael-burry-says-slept-bitcoin-205027452.html)**
 
-Binance • 21h ago
+On Sunday, Michael Burry used an X post to lay out what he described as 26 years of major market calls. That self-audit arrives as Bitcoin lacks utility remains central to his current framework, with Burry arguing the token has not proven durable as a hedge against currency debasement. In the post, Burry shared about his missed opportunity with crypto, writing that he considered buying Bitcoin (CRYPTO: BTC) in 2013 after meeting a friend at Lightspeed but did not follow through. Burry also share
+
+Yahoo Finance • 1h ago
 
 ---
 
-**[Rich Dad Poor Dad buys Bitcoin again](https://www.thestreet.com/crypto/economy/rich-dad-poor-dad-buys-bitcoin-again)**
+**[Agoraflux_WOP(@Agora_flux)s statistik](https://www.binance.com/sv/square/post/294489010326385)**
 
-Robert Kiyosaki is buying Bitcoin again.
-
-thestreet.com • 22h ago
+Binance • 3h ago
 
 ---
 
@@ -229,7 +209,27 @@ Fortune • 2d ago
 
 CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-The Block • 23h ago
+The Block • 1d ago
+
+---
+
+**[Bitcoin zero? Crypto evangelists have run out of stories to tell](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-bitcoin-cryptocurrency-speculation-investing/)**
+
+Bitcoin has become a vessel of pure speculation
+
+The Globe and Mail • 2d ago
+
+---
+
+**[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
+
+Forbes • 1d ago
+
+---
+
+**[Bitcoin slips after earlier gains amid tariff volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-68000-after-tariffdriven-volatility-fades-4517576)**
+
+Investing.com • 4h ago
 
 ---
 
@@ -295,7 +295,7 @@ Financial independence on a bitcoin standard
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 2 • 💬 0 • 8h ago
+⬆️ 2 • 💬 0 • 9h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin #Crypto #Finance Grant Cardone reveals why his ultimate target is 10000 
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 351 • 💬 148 • ⏱️ 23:59 • 7h ago
+👁️ 6K • 👍 351 • 💬 148 • ⏱️ 23:59 • 8h ago
 
 ---
 
@@ -367,7 +367,7 @@ Trump and Bitcoin a mixed bag, but he has made millions on crypto! Best Crypto T
 
 📺 Lark Davis
 
-👁️ 14K • 👍 845 • 💬 250 • ⏱️ 11:45 • 10h ago
+👁️ 14K • 👍 845 • 💬 250 • ⏱️ 11:45 • 11h ago
 
 ---
 
@@ -387,7 +387,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 2K • 👍 190 • 4h ago
+👁️ 2K • 👍 190 • 5h ago
 
 ---
 
