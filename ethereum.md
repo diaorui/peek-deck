@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T15:26:30.912254+00:00'
+updated: '2026-02-22T15:49:56.641685+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 15:26 UTC  
+**Last Updated:** February 22, 2026 at 15:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** -2.4%  
-**30d:** -33.9%  
-**90d:** -34.1%  
-**1y:** -30.8%  
+**24h:** -1.5%  
+**7d:** -2.1%  
+**30d:** -33.8%  
+**90d:** -33.9%  
+**1y:** -30.6%  
 
 ---
 
@@ -168,19 +168,11 @@ The Block • 1d ago
 
 ---
 
-**[Vitalik Buterin Sells $7 Million in Ethereum as ETH Price Sinks 30%](https://finance.yahoo.com/news/vitalik-buterin-sells-7-million-113000164.html)**
+**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
 
-Ethereum co-founder Vitalik Buterin is rapidly liquidating millions of dollars worth of his tokens into a declining market.
+BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
 
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
-
-The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
-
-Fortune • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -192,6 +184,14 @@ Decrypt • 1d ago
 
 ---
 
+**[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
+
+The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
+
+Fortune • 1d ago
+
+---
+
 **[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
 
 Key PointsBitcoin could struggle to retain its reputation as "digital gold".
@@ -200,15 +200,17 @@ Nasdaq • 1d ago
 
 ---
 
-**[Key facts: Ethereum Price Drops Below $2,800; MVRV at -14.3%; Accumulation Trends Noted](https://www.tradingview.com/news/tradingview:56d73a29098f3:0-key-facts-ethereum-price-drops-below-2-800-mvrv-at-14-3-accumulation-trends-noted/)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfwWUK7kdPGlkaRRqH9MN0IA3BbCYUb80on9usSObd9jFx0jl31M5f3&gaa_ts=699b2914&gaa_sig=x08neM-AQ6_9GE2pN5k6NfVvpKD9nsbYWNCbA2zq0DEgqfZdXB0c18t6McRT6b_ECkCJG54KDAEz57CxKRFlHw%3D%3D)**
 
-TradingView • 15h ago
+Barron's • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqevFVbc1ZVNtWt776JBmTlE33_rUghsdpbviMUYloNd3hYAMWs1PBds&gaa_ts=699b15d5&gaa_sig=kx-e6yDC55Xr61KoqI8FaIFBisWI-vh3vDy68KfgNBAPyB70qxo4bDVwLqcYeWWsFMEsihKllv0AYFNcLEVIQw%3D%3D)**
+**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
 
-Barron's • 2d ago
+Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
+
+TradingView • 17h ago
 
 ---
 
@@ -220,9 +222,9 @@ Arkham | Research • 2d ago
 
 ---
 
-**[Ethereum Rout Triggers Nearly 19% One-Day Outflow from Invesco’s QETH ETF](https://www.tipranks.com/news/cryptocurrencies/ethereum-rout-triggers-nearly-19-one-day-outflow-from-invescos-qeth-etf)**
+**[Vitalik Buterin Resumes ETH Sales as Ethereum Prices Struggle Below $2K](https://www.binance.com/en/square/post/294348990119137)**
 
-TipRanks • 1d ago
+Binance • 6h ago
 
 ---
 
@@ -306,7 +308,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 108 • 👍 9 • 💬 1 • ⏱️ 4:51 • 3h ago
+👁️ 108 • 👍 9 • 💬 1 • ⏱️ 4:51 • 4h ago
 
 ---
 
@@ -316,7 +318,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 310 • 💬 80 • ⏱️ 14:32 • 15h ago
+👁️ 8K • 👍 310 • 💬 80 • ⏱️ 14:32 • 16h ago
 
 ---
 

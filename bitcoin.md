@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T15:26:30.906200+00:00'
+updated: '2026-02-22T15:49:56.636346+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
-- videos
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 15:26 UTC  
+**Last Updated:** February 22, 2026 at 15:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,972.65
+### $67,330.46
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -1.7%  
-**30d:** -24.2%  
-**90d:** -22.8%  
-**1y:** -29.7%  
+**24h:** -0.8%  
+**7d:** -1.5%  
+**30d:** -24.1%  
+**90d:** -22.6%  
+**1y:** -29.5%  
 
 ---
 
@@ -93,19 +93,11 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 ---
 
-**[A long time ago, in a galaxy far, far away…](https://www.reddit.com/r/Bitcoin/comments/1ray94i/a_long_time_ago_in_a_galaxy_far_far_away/)**
-
-Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
-
-21h ago
-
----
-
 **[Long-Term Bitcoin Holders Pay Way Less Tax](https://www.reddit.com/r/Bitcoin/comments/1rbep1g/longterm_bitcoin_holders_pay_way_less_tax/)**
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-8h ago
+9h ago
 
 ---
 
@@ -114,6 +106,14 @@ In these brutal bear markets where weak hands get absolutely wrecked, there’s 
 With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
 
 10h ago
+
+---
+
+**[A long time ago, in a galaxy far, far away…](https://www.reddit.com/r/Bitcoin/comments/1ray94i/a_long_time_ago_in_a_galaxy_far_far_away/)**
+
+Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
+
+21h ago
 
 ---
 
@@ -131,6 +131,14 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 ---
 
+**[Withdrawing large amount without proof of acquisition](https://www.reddit.com/r/Bitcoin/comments/1rboi4t/withdrawing_large_amount_without_proof_of/)**
+
+When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks.
+
+27m ago
+
+---
+
 **[Daily Discussion, February 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1rbe381/daily_discussion_february_22_2026/)**
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
@@ -143,15 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Just trying to look at this calmly and without bias. After the recent sell-off, we got a bounce. That’s not unusual. Bitcoin has always reacted sharply after strong downside moves. The real question, at least to me, is whether this bounce actually changes anything structurally or if it’s just a temporary reaction inside a broader correction. So far, we haven’t clearly reclaimed and held above major resistance on the higher timeframes. In past cycles, real trend shifts usually showed sustained strength over time not just quick pops. At the same time, Bitcoin has gone through plenty of corrections before continuing its longer term trajectory. Short term structure doesn’t automatically define where things go over the years. Not making any predictions here. Just observing and trying to stay objective. How are you guys reading it from a higher timeframe point of view? And guys it's just my views it's could be wrong
 
-15h ago
-
----
-
-**[Hard Money: A Complete Guide to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rbf6rn/hard_money_a_complete_guide_to_bitcoin/)**
-
-Hi, I spent months writing this with the goal of publishing, would love the community's input/feedback before I do. Thanks This is the Preface: This is not a how-to manual. What you are holding is a structured, layered education built from the ground up, one that works equally for the curious beginner, the self-directed learner, and the technically minded enthusiast. It covers Bitcoin's first principles, technical architecture, economic philosophy, monetary history, security model, investment thesis, and geopolitical implications. In short, it is a comprehensive intellectual case for Bitcoin and a thorough explanation of how it works at every level. Treat it less like a book you read once and more like a reference you return to. As you go deeper down the proverbial rabbit hole of the Bitcoin space, you will find that concepts which once seemed opaque begin to crystallize. Come back to these pages as your understanding evolves, you will find something new each time. Nearly every major topic in the Bitcoin space is covered here, and every effort has been made to present even the most complex ideas in the clearest language possible. That is harder than it sounds. Bitcoin is an intricate technology sitting at the intersection of cryptography, economics, game theory, and political philosophy. Some sections of this guide are, by necessity, technical, perhaps even what some readers might call "nerdy" or dense. Do not be discouraged by that. Read through it anyway. With time, and with exposure to this space, the concepts will click. Most people who understand Bitcoin deeply did not get there overnight. It took years. It took for me as well. That is normal. That is the journey. Welcome to it.
-
-🔗 [drive.proton.me](https://drive.proton.me/urls/W3X7N7RA2C#i1bRAB8TAZMi) • 8h ago
+16h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg.com • 1d ago
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 9h ago
+CoinDesk • 27m ago
 
 ---
 
@@ -177,7 +177,15 @@ CoinDesk • 9h ago
 
 Hunt for lost 320 Bitcoin a success, say South Korean prosecutors. Officials say they tracked down operator of bogus wallet checking tool. Police in Seoul also lost $2 million worth of Bitcoin.
 
-Yahoo • 2h ago
+Yahoo • 3h ago
+
+---
+
+**[Bitdeer Sells Entire Bitcoin Stash as Mining Profits Near Record Lows](https://finance.yahoo.com/news/bitdeer-sells-entire-bitcoin-stash-135554538.html)**
+
+Singapore-based Bitdeer, now the world's largest publicly traded self-miner, has completely liquidated its BTC treasury.
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -186,6 +194,14 @@ Yahoo • 2h ago
 Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
 
 Fortune • 2d ago
+
+---
+
+**[1 Top Cryptocurrency to Buy Before It Soars 120%, According to a Top Wall Street Investment Firm](https://www.fool.com/investing/2026/02/22/1-top-cryptocurrency-to-buy-before-it-soars-120-ac/)**
+
+After five months of steady selling pressure, Bitcoin could be ready to rebound.
+
+The Motley Fool • 10h ago
 
 ---
 
@@ -205,33 +221,19 @@ The Block • 17h ago
 
 ---
 
-**[If Bitcoin stays near $67k, it breaks the Power Law floor by mid-December](https://cryptoslate.com/if-bitcoin-stays-near-67k-it-breaks-the-power-law-floor-by-mid-december/)**
-
-The Newhedge floor is near $51,128 now but climbs daily toward the mid $60,000s by late October.
-
-CryptoSlate • 1d ago
-
----
-
-**[Lyn Alden Says AI Stock Peak Could Boost Bitcoin](https://bitbo.io/news/ai-stock-peak-bitcoin/)**
-
-Macro strategist Lyn Alden said a peak in heavily bid AI stocks could trigger a rotation that benefits bitcoin, which she argues needs only marginal new demand to move higher.
-
-Bitbo • 19h ago
-
----
-
-**[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
-
-Forbes • 1d ago
-
----
-
 **[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
+
+---
+
+**[Bitcoin Rises After Supreme Court Rules Against Trump Tariffs](https://finance.yahoo.com/news/bitcoin-rises-supreme-court-rules-172049557.html)**
+
+Bitcoin ticked up after the Supreme Court ruled that President Trump exceeded his authority in imposing most tariffs on foreign goods.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -297,7 +299,7 @@ Financial independence on a bitcoin standard
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 1 • 💬 0 • 2h ago
+⬆️ 2 • 💬 0 • 2h ago
 
 ---
 
@@ -319,7 +321,7 @@ Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Dig
 
 📺 Money Talks
 
-👁️ 2K • 👍 59 • 💬 57 • ⏱️ 15:10 • 20h ago
+👁️ 2K • 👍 59 • 💬 57 • ⏱️ 15:10 • 21h ago
 
 ---
 
@@ -339,7 +341,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 177 • ⏱️ 8:15 • 15h ago
+👁️ 38K • 👍 2K • 💬 177 • ⏱️ 8:15 • 16h ago
 
 ---
 
@@ -369,7 +371,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 310 • 💬 80 • ⏱️ 14:32 • 15h ago
+👁️ 8K • 👍 310 • 💬 80 • ⏱️ 14:32 • 16h ago
 
 ---
 

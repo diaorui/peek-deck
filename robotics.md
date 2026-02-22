@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T15:26:30.915455+00:00'
+updated: '2026-02-22T15:49:56.644549+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 15:26 UTC  
+**Last Updated:** February 22, 2026 at 15:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
-
-22h ago
-
----
-
 **[Inside Figure's San Jose headquarters](https://www.reddit.com/r/robotics/comments/1rbhva5/inside_figures_san_jose_headquarters/)**
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-5h ago
+6h ago
+
+---
+
+**[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
+
+23h ago
 
 ---
 
@@ -67,6 +67,14 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
 1d ago
+
+---
+
+**[What should I make](https://www.reddit.com/r/robotics/comments/1rbonu9/what_should_i_make/)**
+
+Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
+
+21m ago
 
 ---
 
@@ -96,15 +104,7 @@ I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don'
 
 **[ANOTHER CITY COUNCIL MEETING](https://www.reddit.com/r/robotics/comments/1rba53x/another_city_council_meeting/)**
 
-12h ago
-
----
-
-**[QA and testing in robotics](https://www.reddit.com/r/robotics/comments/1rb0nxq/qa_and_testing_in_robotics/)**
-
-Hey all, I recently switched from the aerospace to the robotics industry. I'm trying to introduce testing and quality assurance to my team that's been building prototypes for anthropomorphic robots. The testing that's done happens during teleoperation of the robots. In my view this is quite unsafe for the human operator. For this reason I'd like to bring in more automated test scripts in testing without the need of human, and some stricter acceptance criteria before handed over to a human operator. Since this is an agile work environment and very fast paced it can get challenging to have a heavy testing. I also don't want to bring in some heavy V&V processes into the development lifecycle If anyone here is in robotics testing and QA I'd love to connect and hear your thoughts on how you might have over come such a challenge within your teams. If I'm having high expectations of testing in robotics since I'm from aerospace, feel free to break the news to me 😅
-
-19h ago
+13h ago
 
 ---
 
@@ -128,12 +128,6 @@ IEEE Spectrum • 1d ago
 
 ---
 
-**[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
-
-umlconnector.com • 5h ago
-
----
-
 **[Over 350 students compete at 2nd Annual Redhawks Robotics Rumble](https://www.fox23.com/news/over-350-students-compete-at-2nd-annual-redhawks-robotics-rumble/article_bbcc613a-17f8-4ad7-a0bd-1b7b448939ac.html)**
 
 For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
@@ -142,11 +136,17 @@ fox23.com • 2h ago
 
 ---
 
+**[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
+
+umlconnector.com • 5h ago
+
+---
+
 **[Kraken Robotics: Attractive Business, Challenging Valuation (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4873255-kraken-robotics-attractive-business-challenging-valuation)**
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Seeking Alpha • 3h ago
+Seeking Alpha • 4h ago
 
 ---
 
@@ -184,7 +184,7 @@ weareiowa.com • 15h ago
 
 Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
