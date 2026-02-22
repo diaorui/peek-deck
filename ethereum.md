@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T17:26:57.079313+00:00'
+updated: '2026-02-22T17:51:50.255308+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 17:26 UTC  
+**Last Updated:** February 22, 2026 at 17:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -208,7 +208,7 @@ Barron's • 2d ago
 
 **[Vitalik Buterin Resumes ETH Sales as Ethereum Prices Struggle Below $2K](https://www.binance.com/en/square/post/294348990119137)**
 
-Binance • 7h ago
+Binance • 8h ago
 
 ---
 
@@ -284,7 +284,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 145 • 👍 10 • 💬 17 • ⏱️ 4:51 • 5h ago
+👁️ 145 • 👍 10 • 💬 17 • ⏱️ 4:51 • 6h ago
 
 ---
 
@@ -324,7 +324,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 321 • 💬 142 • ⏱️ 14:32 • 17h ago
+👁️ 9K • 👍 321 • 💬 142 • ⏱️ 14:32 • 18h ago
 
 ---
 

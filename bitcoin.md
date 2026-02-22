@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T17:26:57.073298+00:00'
+updated: '2026-02-22T17:51:50.249136+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 17:26 UTC  
+**Last Updated:** February 22, 2026 at 17:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -113,7 +113,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-10h ago
+11h ago
 
 ---
 
@@ -223,7 +223,7 @@ The Block • 19h ago
 
 After five months of steady selling pressure, Bitcoin could be ready to rebound.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -243,7 +243,7 @@ TradingView • 3h ago
 
 SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
 
-⬆️ 3 • 💬 0 • 4d ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 3 • 💬 0 • 5d ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
 
 ---
 
@@ -319,7 +319,7 @@ Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Dig
 
 📺 Money Talks
 
-👁️ 3K • 👍 60 • 💬 59 • ⏱️ 15:10 • 22h ago
+👁️ 3K • 👍 60 • 💬 59 • ⏱️ 15:10 • 23h ago
 
 ---
 
@@ -329,7 +329,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 41K • 👍 2K • 💬 200 • ⏱️ 8:15 • 17h ago
+👁️ 41K • 👍 2K • 💬 200 • ⏱️ 8:15 • 18h ago
 
 ---
 
@@ -369,7 +369,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 5K • 👍 323 • 💬 116 • ⏱️ 13:24 • 17h ago
+👁️ 5K • 👍 323 • 💬 116 • ⏱️ 13:24 • 18h ago
 
 ---
 
@@ -409,7 +409,7 @@ Is Bitcoin's corporate treasury model about to implode? With Strategy underwater
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 1K • 💬 192 • ⏱️ 11:16 • 4h ago
+👁️ 18K • 👍 1K • 💬 192 • ⏱️ 11:16 • 5h ago
 
 ---
 

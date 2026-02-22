@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T17:26:57.082500+00:00'
+updated: '2026-02-22T17:51:50.258601+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 17:26 UTC  
+**Last Updated:** February 22, 2026 at 17:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-29m ago
+54m ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-7h ago
+8h ago
 
 ---
 
@@ -72,13 +72,13 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-1h ago
+2h ago
 
 ---
 
 **[Fighting back paid annotation services](https://www.reddit.com/r/robotics/comments/1rbqy5k/fighting_back_paid_annotation_services/)**
 
-29m ago
+54m ago
 
 ---
 
@@ -122,7 +122,7 @@ CNBC • 2d ago
 
 Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
 
-The Robot Report • 3h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -144,7 +144,7 @@ umlconnector.com • 7h ago
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Seeking Alpha • 5h ago
+Seeking Alpha • 6h ago
 
 ---
 
