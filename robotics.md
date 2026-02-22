@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T23:28:04.980126+00:00'
+updated: '2026-02-22T23:51:20.793607+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 23:28 UTC  
+**Last Updated:** February 22, 2026 at 23:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-13h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-7h ago
+8h ago
 
 ---
 
@@ -150,7 +150,7 @@ GazetteXtra • 1h ago
 
 The case alleges Richtech Robotics claimed that it had a collaborative and commercial relationship with Microsoft when it did not....
 
-GlobeNewswire • 18m ago
+GlobeNewswire • 41m ago
 
 ---
 
@@ -158,7 +158,7 @@ GlobeNewswire • 18m ago
 
 HINTON- Two robotics clubs from Hinton High School have qualified to compete in a statewide competition.
 
-The N'West Iowa REVIEW • 4h ago
+The N'West Iowa REVIEW • 5h ago
 
 ---
 
@@ -174,7 +174,7 @@ Hawaii News Now • 3d ago
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Seeking Alpha • 11h ago
+Seeking Alpha • 12h ago
 
 ---
 

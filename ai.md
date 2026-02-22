@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T23:28:04.962991+00:00'
+updated: '2026-02-22T23:51:20.778227+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
-- news
 - social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 23:28 UTC  
+**Last Updated:** February 22, 2026 at 23:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 5h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 6h ago
 
 ---
 
@@ -71,7 +71,7 @@ His case highlights a broader issue as U.S.-based AI tools block analysis of sen
 
 The open-source ollama project that makes it easy to get up and running with a variety of LLMs under Windows, macOS, and Linux is out with a new release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 20h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 21h ago
 
 ---
 
@@ -79,7 +79,7 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
 
-🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 19h ago
+🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 20h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Washington Post • 1h ago
 
 Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 1h ago
 
 Is humanity at a crossroads, potentially in the crosshairs of malign AI? We may not know, but best not to ignore the possibilities.
 
-Psychology Today • 37m ago
+Psychology Today • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Psychology Today • 37m ago
 
 Daron Acemoglu told Fortune Donald Trump’s AI policy could jeopardize U.S. democracy, but AI proponents say any regulation would hamper AI innovation.
 
-Fortune • 10h ago
+Fortune • 11h ago
 
 ---
 
@@ -281,7 +281,7 @@ Slandered by one AI robot and misquoted in a news article by another, US-based s
 
 📺 FRANCE 24 English
 
-👁️ 76K • 👍 2K • 💬 327 • ⏱️ 5:50 • 8h ago
+👁️ 76K • 👍 2K • 💬 327 • ⏱️ 5:50 • 9h ago
 
 ---
 
@@ -341,7 +341,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 37K • 👍 2K • 💬 346 • ⏱️ 14:18 • 1d ago
+👁️ 37K • 👍 2K • 💬 346 • ⏱️ 14:18 • 2d ago
 
 ---
 
@@ -351,7 +351,7 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 Relax History AI
 
-👁️ 259 • 👍 31 • 💬 3 • ⏱️ 25:13 • 4h ago
+👁️ 259 • 👍 31 • 💬 3 • ⏱️ 25:13 • 5h ago
 
 ---
 
@@ -371,7 +371,7 @@ IM LIVE EVERY DAY- https://www.youtube.com/channel/UCWsD... Check Out My Second 
 
 📺 Speedy Boykins
 
-👁️ 12K • 👍 417 • 💬 23 • ⏱️ 3:11 • 16h ago
+👁️ 12K • 👍 417 • 💬 23 • ⏱️ 3:11 • 17h ago
 
 ---
 
@@ -411,7 +411,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 714 • 21h ago
+⬇️ 153,566 • ❤️ 714 • 22h ago
 
 ---
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.1k • 🔱 2.0k • 20m ago
+⭐ 17.1k • 🔱 2.0k • 43m ago
 
 ---
 
@@ -690,7 +690,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 329 • 9h ago
+⭐ 3.3k • 🔱 329 • 10h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 183 • 2h ago
+⭐ 2.7k • 🔱 183 • 3h ago
 
 ---
 

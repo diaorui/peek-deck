@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T23:28:04.971200+00:00'
+updated: '2026-02-22T23:51:20.785530+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 23:28 UTC  
+**Last Updated:** February 22, 2026 at 23:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,7 +97,7 @@ Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can 
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-16h ago
+17h ago
 
 ---
 
@@ -179,7 +179,7 @@ Bloomberg.com • 1d ago
 
 On Sunday, Michael Burry used an X post to lay out what he described as 26 years of major market calls. That self-audit arrives as Bitcoin lacks utility remains central to his current framework, with Burry arguing the token has not proven durable as a hedge against currency debasement. In the post, Burry shared about his missed opportunity with crypto, writing that he considered buying Bitcoin (CRYPTO: BTC) in 2013 after meeting a friend at Lightspeed but did not follow through. Burry also share
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -209,7 +209,7 @@ The Block • 1d ago
 
 After five months of steady selling pressure, Bitcoin could be ready to rebound.
 
-The Motley Fool • 17h ago
+The Motley Fool • 18h ago
 
 ---
 
@@ -231,7 +231,7 @@ The Globe and Mail • 2d ago
 
 Bitcoin, the world's most popular cryptocurrency, is less popular these days. The crypto token has fallen more than 40% since its peak last fall,
 
-PYMNTS.com • 16m ago
+PYMNTS.com • 40m ago
 
 ---
 
@@ -319,7 +319,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 232 • ⏱️ 8:15 • 23h ago
+👁️ 50K • 👍 3K • 💬 232 • ⏱️ 8:15 • 1d ago
 
 ---
 
@@ -359,7 +359,7 @@ This is not about tariffs. It is about an $800 trillion wealth rotation that cou
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 385 • 💬 15 • ⏱️ 17:48 • 57m ago
+👁️ 4K • 👍 385 • 💬 15 • ⏱️ 17:48 • 1h ago
 
 ---
 
@@ -389,7 +389,7 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 69K • 👍 3K • 💬 264 • ⏱️ 9:14 • 1d ago
+👁️ 69K • 👍 3K • 💬 264 • ⏱️ 9:14 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ DM me the word "ACCESS" on Telegram to join my group for 2 months FREE: https://
 
 📺 Andy Bitcoinsensus
 
-👁️ 4K • 👍 250 • 💬 66 • ⏱️ 29:02 • 8h ago
+👁️ 4K • 👍 250 • 💬 66 • ⏱️ 29:02 • 9h ago
 
 ---
 

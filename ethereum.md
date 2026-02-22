@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T23:28:04.977036+00:00'
+updated: '2026-02-22T23:51:20.790879+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 23:28 UTC  
+**Last Updated:** February 22, 2026 at 23:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -220,7 +220,7 @@ Coinpaper • 16h ago
 
 Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
 
-AMBCrypto • 25m ago
+AMBCrypto • 48m ago
 
 ---
 
@@ -240,7 +240,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 2K • 👍 134 • 💬 9 • ⏱️ 16:36 • 1h ago
+👁️ 2K • 👍 134 • 💬 9 • ⏱️ 16:36 • 2h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 264 • 👍 17 • 💬 1 • ⏱️ 4:51 • 11h ago
+👁️ 264 • 👍 17 • 💬 1 • ⏱️ 4:51 • 12h ago
 
 ---
 
@@ -300,7 +300,7 @@ O mercado cripto está operando em zona de MEDO EXTREMO. Com o Ethereum e o Bitc
 
 📺 Augusto Backes
 
-👁️ 5K • 👍 1K • 💬 78 • ⏱️ 26:44 • 1h ago
+👁️ 5K • 👍 1K • 💬 78 • ⏱️ 26:44 • 2h ago
 
 ---
 
@@ -320,7 +320,7 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 📺 럭셔리앤하우스 luxuryhouse korea
 
-👁️ 2K • 👍 3K • 14m ago
+👁️ 2K • 👍 3K • 37m ago
 
 ---
 
