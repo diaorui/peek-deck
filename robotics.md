@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T06:50:48.011899+00:00'
+updated: '2026-02-22T07:36:23.819128+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 06:50 UTC  
+**Last Updated:** February 22, 2026 at 07:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-11h ago
+12h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
-18h ago
+19h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
 
-4h ago
+5h ago
 
 ---
 
@@ -72,7 +72,7 @@ Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. 
 
 I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
 
-4h ago
+5h ago
 
 ---
 
@@ -80,7 +80,7 @@ I have a robotics-focused system design interview coming up soon (fleet robots /
 
 I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don't return anything. It seems everything leads to a dead end. I have Choregraphe but to my understanding it doesn't work in the newer OS. I would like to program for the robot and utilise it so any help would be appreciated.
 
-6h ago
+7h ago
 
 ---
 
@@ -104,7 +104,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I am not sure how much of this is for show or how much it could be real. ok moving turret while tracking mosquitos, plenty of examples online but a camera able to recognize them and so much tiny ? a laser so powerful to kill them midair? I am wondering if this is real or just a show and in case where to start to learn how to build own myself. I would appreciate any tip or comment to lead on where to document myself on the hardware for the software i've seen plenty of good libraries in python - or other languages - but i am more interested on which kind of hardware to look for and calculation for power consumption.
 
-19h ago
+20h ago
 
 ---
 
@@ -132,7 +132,7 @@ TechCrunch • 2d ago
 
 There were teams from across Iowa and even one from Nebraska that took part in the scrimmage on Saturday.
 
-weareiowa.com • 6h ago
+weareiowa.com • 7h ago
 
 ---
 
@@ -186,7 +186,7 @@ TechCrunch • 3d ago
 
 Golabs announced that, throughout the tournament, it hosted live demonstrations of its robotics solutions at Denago EV's booth.
 
-thebuzzevnews.com • 17h ago
+thebuzzevnews.com • 18h ago
 
 ---
 
@@ -200,7 +200,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 6K • 👍 208 • 💬 54 • ⏱️ 8:38 • 7h ago
+👁️ 6K • 👍 208 • 💬 54 • ⏱️ 8:38 • 8h ago
 
 ---
 

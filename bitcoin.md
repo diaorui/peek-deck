@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T06:50:48.003508+00:00'
+updated: '2026-02-22T07:36:23.809772+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
 - videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 06:50 UTC  
+**Last Updated:** February 22, 2026 at 07:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 11h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 12h ago
 
 ---
 
@@ -97,7 +97,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-12h ago
+13h ago
 
 ---
 
@@ -105,13 +105,13 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-11h ago
+12h ago
 
 ---
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -119,7 +119,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
 
-1h ago
+2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Just trying to look at this calmly and without bias. After the recent sell-off, 
 
 1, Does it allow eternal transfer? like if i want to transfer to my personal wallet. 2, How much is the fees of buying crypto? 3, Are there any limitations from using paypal for btc
 
-4h ago
+5h ago
 
 ---
 
@@ -151,7 +151,7 @@ Just trying to look at this calmly and without bias. After the recent sell-off, 
 
 I am considering yoloing my daughters' investments at it, I think it seems interesting and unique, but for the most part it seems to trend pretty close to the value of btc so I'm unsure in the benefit over buying coins, and I know people will say that's better, but I'm still interested in feedback on this investment vehicle.
 
-10h ago
+11h ago
 
 ---
 
@@ -161,7 +161,7 @@ I am considering yoloing my daughters' investments at it, I think it seems inter
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg • 15h ago
+Bloomberg • 16h ago
 
 ---
 
@@ -169,7 +169,7 @@ Bloomberg • 15h ago
 
 CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Block • 8h ago
 
 After five months of steady selling pressure, Bitcoin could be ready to rebound.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -207,7 +207,7 @@ Yahoo Finance • 10h ago
 
 **[Robert Kiyosaki buys 1 more BTC , doubles down on bitcoin over gold](https://www.binance.com/en/square/post/294203989714162)**
 
-Binance • 6h ago
+Binance • 7h ago
 
 ---
 
@@ -215,7 +215,7 @@ Binance • 6h ago
 
 Robert Kiyosaki warned that a debt-driven dollar crisis could trigger massive money printing by the Fed.
 
-Stocktwits • 17h ago
+Stocktwits • 18h ago
 
 ---
 
@@ -255,7 +255,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 11h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 12h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -269,7 +269,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 17h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 18h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -319,7 +319,7 @@ Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Dig
 
 📺 Money Talks
 
-👁️ 1K • 👍 44 • 💬 35 • ⏱️ 15:10 • 12h ago
+👁️ 1K • 👍 44 • 💬 35 • ⏱️ 15:10 • 13h ago
 
 ---
 
@@ -349,7 +349,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 475K • 👍 26K • 💬 4K • ⏱️ 32:14 • 17h ago
+👁️ 475K • 👍 26K • 💬 4K • ⏱️ 32:14 • 18h ago
 
 ---
 
@@ -359,7 +359,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 66K • 👍 3K • 💬 75 • ⏱️ 52:37 • 16h ago
+👁️ 66K • 👍 3K • 💬 75 • ⏱️ 52:37 • 17h ago
 
 ---
 
@@ -389,7 +389,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 3K • 👍 218 • 💬 79 • ⏱️ 13:24 • 7h ago
+👁️ 3K • 👍 218 • 💬 79 • ⏱️ 13:24 • 8h ago
 
 ---
 
