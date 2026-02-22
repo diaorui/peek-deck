@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T14:27:53.947481+00:00'
+updated: '2026-02-22T14:53:46.135891+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 14:27 UTC  
+**Last Updated:** February 22, 2026 at 14:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -105,7 +105,7 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-7h ago
+8h ago
 
 ---
 
@@ -143,7 +143,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Just trying to look at this calmly and without bias. After the recent sell-off, we got a bounce. That’s not unusual. Bitcoin has always reacted sharply after strong downside moves. The real question, at least to me, is whether this bounce actually changes anything structurally or if it’s just a temporary reaction inside a broader correction. So far, we haven’t clearly reclaimed and held above major resistance on the higher timeframes. In past cycles, real trend shifts usually showed sustained strength over time not just quick pops. At the same time, Bitcoin has gone through plenty of corrections before continuing its longer term trajectory. Short term structure doesn’t automatically define where things go over the years. Not making any predictions here. Just observing and trying to stay objective. How are you guys reading it from a higher timeframe point of view? And guys it's just my views it's could be wrong
 
-14h ago
+15h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 8h ago
 
 Hunt for lost 320 Bitcoin a success, say South Korean prosecutors. Officials say they tracked down operator of bogus wallet checking tool. Police in Seoul also lost $2 million worth of Bitcoin.
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -217,7 +217,7 @@ CryptoSlate • 1d ago
 
 Macro strategist Lyn Alden said a peak in heavily bid AI stocks could trigger a rotation that benefits bitcoin, which she argues needs only marginal new demand to move higher.
 
-Bitbo • 18h ago
+Bitbo • 19h ago
 
 ---
 
@@ -231,7 +231,7 @@ Forbes • 1d ago
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -305,7 +305,7 @@ Financial independence on a bitcoin standard
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
 
-⬆️ 1 • 💬 0 • 1d ago • [Attena](https://www.attena.xyz/)
+⬆️ 1 • 💬 0 • 2d ago • [Attena](https://www.attena.xyz/)
 
 ---
 
@@ -319,7 +319,7 @@ Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Dig
 
 📺 Money Talks
 
-👁️ 2K • 👍 59 • 💬 57 • ⏱️ 15:10 • 19h ago
+👁️ 2K • 👍 59 • 💬 57 • ⏱️ 15:10 • 20h ago
 
 ---
 
@@ -339,7 +339,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 177 • ⏱️ 8:15 • 14h ago
+👁️ 38K • 👍 2K • 💬 177 • ⏱️ 8:15 • 15h ago
 
 ---
 
@@ -369,7 +369,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 8K • 👍 310 • 💬 80 • ⏱️ 14:32 • 14h ago
+👁️ 8K • 👍 310 • 💬 80 • ⏱️ 14:32 • 15h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T14:27:53.956787+00:00'
+updated: '2026-02-22T14:53:46.145036+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 14:27 UTC  
+**Last Updated:** February 22, 2026 at 14:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-4h ago
+5h ago
 
 ---
 
@@ -96,7 +96,7 @@ I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don'
 
 **[ANOTHER CITY COUNCIL MEETING](https://www.reddit.com/r/robotics/comments/1rba53x/another_city_council_meeting/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don'
 
 Hey all, I recently switched from the aerospace to the robotics industry. I'm trying to introduce testing and quality assurance to my team that's been building prototypes for anthropomorphic robots. The testing that's done happens during teleoperation of the robots. In my view this is quite unsafe for the human operator. For this reason I'd like to bring in more automated test scripts in testing without the need of human, and some stricter acceptance criteria before handed over to a human operator. Since this is an agile work environment and very fast paced it can get challenging to have a heavy testing. I also don't want to bring in some heavy V&V processes into the development lifecycle If anyone here is in robotics testing and QA I'd love to connect and hear your thoughts on how you might have over come such a challenge within your teams. If I'm having high expectations of testing in robotics since I'm from aerospace, feel free to break the news to me 😅
 
-18h ago
+19h ago
 
 ---
 
@@ -146,7 +146,7 @@ fox23.com • 1h ago
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Seeking Alpha • 2h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -184,7 +184,7 @@ weareiowa.com • 14h ago
 
 Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
 
-The Robot Report • 56m ago
+The Robot Report • 1h ago
 
 ---
 
