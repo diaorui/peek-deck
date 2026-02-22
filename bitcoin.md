@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T05:37:25.545627+00:00'
+updated: '2026-02-22T06:50:48.003508+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 05:37 UTC  
+**Last Updated:** February 22, 2026 at 06:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,945.10
+### $68,111.39
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -1.3%  
-**30d:** -23.9%  
-**90d:** -22.4%  
-**1y:** -29.4%  
+**24h:** +0.3%  
+**7d:** -1.1%  
+**30d:** -23.7%  
+**90d:** -22.3%  
+**1y:** -29.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1359.32B
+**Market Cap:** $1360.62B
 Rank #1
 
-**Circulating Supply:** 19,992,934 BTC
+**Circulating Supply:** 19,992,968 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.1%
+-46.0%
 
 **All-Time Low:** $67.81
-+100147.8%
++100249.5%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 10h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 11h ago
 
 ---
 
@@ -89,7 +89,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-15h ago
+17h ago
 
 ---
 
@@ -97,7 +97,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-11h ago
+12h ago
 
 ---
 
@@ -105,13 +105,29 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-10h ago
+11h ago
 
 ---
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-13h ago
+14h ago
+
+---
+
+**[Just keep this in mind…](https://www.reddit.com/r/Bitcoin/comments/1rbde7t/just_keep_this_in_mind/)**
+
+With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
+
+1h ago
+
+---
+
+**[Should I sell?](https://www.reddit.com/r/Bitcoin/comments/1rbbas7/should_i_sell/)**
+
+In September of 2019 I began to track the declining value of bitcoin. I had always wanted to get in on it and I had the opportunity to very early on but didn’t. I was extremely confident the value would shoot back up. At the time I had roughly $100k in my 401(K). My wife and I decided to take a “loan” against my 401(K) for $25,000 and and in November 2019 I invested that into Bitcoin, I’ve since repaid my 401(k). Now in 2026 that $25k investment is worth $400k!!! Should I sell? Our financial situation is stable, we owe $110k on our home that is worth $300k so if we were to sell we would profit around $160k after closing. We have been wanting to build a new home on the 20 acres of property we own however, with interest rates we don’t want to take a loan. Our home is a 2.9% and even with great credit we are looking at a 5.8%. Our building estimate is $410k so even if we put the entire $160k down from the house sale we would need to finance $250k which by itself is not a big deal. At our current 2.9% our payment would be $1,457 but at 5.8% it would be $1,900 and there’s just no way to financially justify that. However if we sold our bitcoin we would net around $340k or so after taxes. That along with our home sale would give us $500k allowing us to build our home outright without financing and still leave a little bit of money in our pocket…. So what do you all think we should do?
+
+3h ago
 
 ---
 
@@ -119,7 +135,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 Just trying to look at this calmly and without bias. After the recent sell-off, we got a bounce. That’s not unusual. Bitcoin has always reacted sharply after strong downside moves. The real question, at least to me, is whether this bounce actually changes anything structurally or if it’s just a temporary reaction inside a broader correction. So far, we haven’t clearly reclaimed and held above major resistance on the higher timeframes. In past cycles, real trend shifts usually showed sustained strength over time not just quick pops. At the same time, Bitcoin has gone through plenty of corrections before continuing its longer term trajectory. Short term structure doesn’t automatically define where things go over the years. Not making any predictions here. Just observing and trying to stay objective. How are you guys reading it from a higher timeframe point of view? And guys it's just my views it's could be wrong
 
-5h ago
+7h ago
 
 ---
 
@@ -127,7 +143,7 @@ Just trying to look at this calmly and without bias. After the recent sell-off, 
 
 1, Does it allow eternal transfer? like if i want to transfer to my personal wallet. 2, How much is the fees of buying crypto? 3, Are there any limitations from using paypal for btc
 
-3h ago
+4h ago
 
 ---
 
@@ -135,23 +151,7 @@ Just trying to look at this calmly and without bias. After the recent sell-off, 
 
 I am considering yoloing my daughters' investments at it, I think it seems interesting and unique, but for the most part it seems to trend pretty close to the value of btc so I'm unsure in the benefit over buying coins, and I know people will say that's better, but I'm still interested in feedback on this investment vehicle.
 
-9h ago
-
----
-
-**[Just 0.4 to go to my goal🥹](https://www.reddit.com/r/Bitcoin/comments/1raajx3/just_04_to_go_to_my_goal/)**
-
-My stack is still already cool imho. Happy stacking everyone
-
-1d ago
-
----
-
-**[Suggestions on software that I can use for Cold wallets](https://www.reddit.com/r/Bitcoin/comments/1rbb70a/suggestions_on_software_that_i_can_use_for_cold/)**
-
-I have a Ledger S which I believe is no longer supported by Ledger Live ? Can you suggest any softwares, that I can use to continue using my Ledger S? Also, previously I had the Ledger Live installed on my laptop but for some reason its now deleted so i don't know what to do. Thanks
-
-2h ago
+10h ago
 
 ---
 
@@ -161,15 +161,31 @@ I have a Ledger S which I believe is no longer supported by Ledger Live ? Can yo
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg.com • 14h ago
+Bloomberg • 15h ago
 
 ---
 
-**[‘Bitcoin to zero’ searches spike in the U.S., but the bottom signal is mixed](https://www.coindesk.com/markets/2026/02/22/bitcoin-to-zero-searches-spike-in-the-u-s-but-the-bottom-signal-is-mixed)**
+**[CryptoQuant says bitcoin whale deposit activity grows amid ongoing bear phase](https://www.theblock.co/post/390712/cryptoquant-bitcoin-whale-deposit-ongoing-bear-phase)**
 
-Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
+CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-CoinDesk • 10h ago
+The Block • 8h ago
+
+---
+
+**[1 Top Cryptocurrency to Buy Before It Soars 120%, According to a Top Wall Street Investment Firm](https://www.fool.com/investing/2026/02/22/1-top-cryptocurrency-to-buy-before-it-soars-120-ac/)**
+
+After five months of steady selling pressure, Bitcoin could be ready to rebound.
+
+The Motley Fool • 1h ago
+
+---
+
+**[Mentioning 'bitcoin' or crypto on AI agent OpenClaw's Discord will get you banned](https://www.coindesk.com/tech/2026/02/22/mentioning-bitcoin-or-crypto-on-ai-agent-openclaw-s-discord-will-get-you-banned)**
+
+The project's creator nearly deleted the viral AI agent after crypto scammers hijacked his accounts, launched a fake token that hit $16 million, and harassed him for weeks.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -185,51 +201,37 @@ Fortune • 1d ago
 
 On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[CryptoQuant says bitcoin whale deposit activity grows amid ongoing bear phase](https://www.theblock.co/post/390712/cryptoquant-bitcoin-whale-deposit-ongoing-bear-phase)**
+**[Robert Kiyosaki buys 1 more BTC , doubles down on bitcoin over gold](https://www.binance.com/en/square/post/294203989714162)**
 
-CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
-
-The Block • 7h ago
+Binance • 6h ago
 
 ---
 
-**[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
+**[Rich Dad Poor Dad Author Reveals He Bought Bitcoin For 2 Reasons](https://stocktwits.com/news-articles/markets/cryptocurrency/rich-dad-poor-dad-author-bought-bitcoin-2-reasons/cZR8QVjR4U5)**
 
-Forbes • 17h ago
+Robert Kiyosaki warned that a debt-driven dollar crisis could trigger massive money printing by the Fed.
 
----
-
-**[Bitcoin dips after Trump tariff hike announcement, then recovers](https://www.investing.com/news/cryptocurrency-news/bitcoin-dips-after-trump-tariff-hike-announcement-then-recovers-4517528)**
-
-Investing.com • 11h ago
+Stocktwits • 17h ago
 
 ---
 
-**[Lyn Alden Says AI Stock Peak Could Boost Bitcoin](https://bitbo.io/news/ai-stock-peak-bitcoin/)**
+**[Bitcoin zero? Crypto evangelists have run out of stories to tell](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-bitcoin-cryptocurrency-speculation-investing/)**
 
-Macro strategist Lyn Alden said a peak in heavily bid AI stocks could trigger a rotation that benefits bitcoin, which she argues needs only marginal new demand to move higher.
+Bitcoin has become a vessel of pure speculation
 
-Bitbo • 9h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1771736400)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
+The Globe and Mail • 1d ago
 
 ---
 
-**[Bitcoin Pops After Supreme Court Strikes Down Trump’s Tariffs](https://bitcoinmagazine.com/news/bitcoin-pops-after-supreme-court)**
+**[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
 
-The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
+U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-Bitcoin Magazine • 1d ago
+CoinDesk • 14h ago
 
 ---
 
@@ -253,7 +255,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 10h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 11h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -267,7 +269,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 16h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 17h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -311,23 +313,33 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Holders suddenly have a MAJOR PROBLEM](https://www.youtube.com/watch?v=SwNLNppPHl8)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ Bitunix (no kyc, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 63K • 👍 3K • 💬 250 • ⏱️ 9:14 • 1d ago
-
----
-
 **[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
 
 Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
 
 📺 Money Talks
 
-👁️ 1K • 👍 40 • 💬 35 • ⏱️ 15:10 • 11h ago
+👁️ 1K • 👍 44 • 💬 35 • ⏱️ 15:10 • 12h ago
+
+---
+
+**[Bitcoin Holders suddenly have a MAJOR PROBLEM](https://www.youtube.com/watch?v=SwNLNppPHl8)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ Bitunix (no kyc, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 64K • 👍 3K • 💬 255 • ⏱️ 9:14 • 1d ago
+
+---
+
+**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
+
+bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+
+📺 Altcoin Daily
+
+👁️ 24K • 👍 2K • 💬 145 • ⏱️ 8:15 • 7h ago
 
 ---
 
@@ -337,7 +349,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 448K • 👍 25K • 💬 4K • ⏱️ 32:14 • 16h ago
+👁️ 475K • 👍 26K • 💬 4K • ⏱️ 32:14 • 17h ago
 
 ---
 
@@ -347,17 +359,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 62K • 👍 3K • 💬 75 • ⏱️ 52:37 • 15h ago
-
----
-
-**[This Is Where Bitcoin Holders Are Made](https://www.youtube.com/watch?v=j67YGN3F7BQ)**
-
-Bitcoin conviction is easy at $120K. It's harder when price pulls back and your cost basis is underwater. In this episode of No ...
-
-📺 Swan Bitcoin
-
-👁️ 2K • 👍 103 • 💬 27 • ⏱️ 1:02 • 13h ago
+👁️ 66K • 👍 3K • 💬 75 • ⏱️ 52:37 • 16h ago
 
 ---
 
@@ -367,7 +369,7 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 📺 Anthony Pompliano
 
-👁️ 37K • 👍 1K • ⏱️ 24:35 • 1d ago
+👁️ 38K • 👍 1K • ⏱️ 24:35 • 1d ago
 
 ---
 
@@ -377,7 +379,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 145 • ⏱️ 12:39 • 1d ago
+👁️ 30K • 👍 2K • 💬 150 • ⏱️ 12:39 • 1d ago
 
 ---
 
@@ -387,27 +389,25 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 2K • 👍 181 • 💬 73 • ⏱️ 13:24 • 6h ago
+👁️ 3K • 👍 218 • 💬 79 • ⏱️ 13:24 • 7h ago
 
 ---
 
-**[The White House Just Released The Crypto BULLS!! (Why I&#39;m preparing for a Bitcoin DUMP)](https://www.youtube.com/watch?v=-i8humbpZJQ)**
+**[IS BITCOIN ACTUALLY DEAD??!!](https://www.youtube.com/watch?v=-itjlUK81JA)**
 
-Trump White House PUMPING Crypto.. Due To THIS LAST DAY: Ledger Flash Sale: https://www.ledger.com/altcoindaily 50% ...
+Join The Community: https://bit.ly/FefeCommunity FOLLOW FEFE FOR THE BEST ALPHA ...
 
-📺 Altcoin Daily
+📺 100XClub
 
-👁️ 48K • 👍 3K • 💬 141 • ⏱️ 11:10 • 2d ago
+👁️ 5K • 👍 304 • 💬 44 • ⏱️ 1:35 • 1d ago
 
 ---
 
-**[This Trade Works EVERY Time Bitcoin Moves 🪙📈](https://www.youtube.com/watch?v=0_9Ke23WqZc)**
+**[TRUMP LIED ABOUT CRYPTO? XRP LEADS OVER BITCOIN #xrp #trump #crypto #bitcoin](https://www.youtube.com/watch?v=44gk_-xDHF8)**
 
-LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications to know when we're on ✓ CONNECT on IG, ...
+📺 CryptoWendyO
 
-📺 Dumb Money Live
-
-👁️ 18K • 👍 523 • 💬 23 • ⏱️ 1:02 • 1d ago
+👁️ 25K • 👍 1K • 💬 71 • ⏱️ 2:12 • 1d ago
 
 ---
 

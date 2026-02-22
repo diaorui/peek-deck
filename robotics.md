@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T05:37:25.554802+00:00'
+updated: '2026-02-22T06:50:48.011899+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 05:37 UTC  
+**Last Updated:** February 22, 2026 at 06:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-10h ago
+11h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
 
-17h ago
+18h ago
 
 ---
 
@@ -58,13 +58,13 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
 
-3h ago
+4h ago
 
 ---
 
 **[ANOTHER CITY COUNCIL MEETING](https://www.reddit.com/r/robotics/comments/1rba53x/another_city_council_meeting/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -72,7 +72,7 @@ Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. 
 
 I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ I have a robotics-focused system design interview coming up soon (fleet robots /
 
 I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don't return anything. It seems everything leads to a dead end. I have Choregraphe but to my understanding it doesn't work in the newer OS. I would like to program for the robot and utilise it so any help would be appreciated.
 
-5h ago
+6h ago
 
 ---
 
@@ -88,7 +88,7 @@ I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don'
 
 Hey all, I recently switched from the aerospace to the robotics industry. I'm trying to introduce testing and quality assurance to my team that's been building prototypes for anthropomorphic robots. The testing that's done happens during teleoperation of the robots. In my view this is quite unsafe for the human operator. For this reason I'd like to bring in more automated test scripts in testing without the need of human, and some stricter acceptance criteria before handed over to a human operator. Since this is an agile work environment and very fast paced it can get challenging to have a heavy testing. I also don't want to bring in some heavy V&V processes into the development lifecycle If anyone here is in robotics testing and QA I'd love to connect and hear your thoughts on how you might have over come such a challenge within your teams. If I'm having high expectations of testing in robotics since I'm from aerospace, feel free to break the news to me 😅
 
-9h ago
+11h ago
 
 ---
 
@@ -104,7 +104,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I am not sure how much of this is for show or how much it could be real. ok moving turret while tracking mosquitos, plenty of examples online but a camera able to recognize them and so much tiny ? a laser so powerful to kill them midair? I am wondering if this is real or just a show and in case where to start to learn how to build own myself. I would appreciate any tip or comment to lead on where to document myself on the hardware for the software i've seen plenty of good libraries in python - or other languages - but i am more interested on which kind of hardware to look for and calculation for power consumption.
 
-18h ago
+19h ago
 
 ---
 
@@ -120,11 +120,11 @@ CNBC • 1d ago
 
 ---
 
-**[The CEO of a startup building robots for factories explains how US manufacturing is at a crossroads](https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2)**
+**[Toyota contracts seven Agility humanoid robots for Canadian factory](https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/)**
 
-The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
+The robots will be unloading totes full of auto parts from an automated warehouse tugger.
 
-Business Insider • 1d ago
+TechCrunch • 2d ago
 
 ---
 
@@ -132,7 +132,7 @@ Business Insider • 1d ago
 
 There were teams from across Iowa and even one from Nebraska that took part in the scrimmage on Saturday.
 
-weareiowa.com • 5h ago
+weareiowa.com • 6h ago
 
 ---
 
@@ -166,14 +166,6 @@ The Robot Report • 2d ago
 
 ---
 
-**[Golabs Showcases Robotics at Denago EV’s Booth at The American Express PGA Tour](https://www.thebuzzevnews.com/golabs-robotics-denago-ev/)**
-
-Golabs announced that, throughout the tournament, it hosted live demonstrations of its robotics solutions at Denago EV's booth.
-
-thebuzzevnews.com • 16h ago
-
----
-
 **[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
 
 Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
@@ -190,6 +182,14 @@ TechCrunch • 3d ago
 
 ---
 
+**[Golabs Showcases Robotics at Denago EV’s Booth at The American Express PGA Tour](https://www.thebuzzevnews.com/golabs-robotics-denago-ev/)**
+
+Golabs announced that, throughout the tournament, it hosted live demonstrations of its robotics solutions at Denago EV's booth.
+
+thebuzzevnews.com • 17h ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,7 +200,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 3K • 👍 165 • 💬 38 • ⏱️ 8:38 • 6h ago
+👁️ 6K • 👍 208 • 💬 54 • ⏱️ 8:38 • 7h ago
 
 ---
 
@@ -210,7 +210,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 26K • 👍 207 • 💬 106 • ⏱️ 2:14 • 1d ago
+👁️ 28K • 👍 215 • 💬 113 • ⏱️ 2:14 • 1d ago
 
 ---
 
@@ -220,17 +220,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 53K • 👍 3K • 💬 704 • ⏱️ 14:51 • 1d ago
-
----
-
-**[China’s Combat Robots Steal the Show at Lunar New Year Gala](https://www.youtube.com/watch?v=MFCmePpllIA)**
-
-China's combat robots steal the show at the Lunar New Year gala as advanced humanoid machines stunned audiences with ...
-
-📺 Carros Show
-
-👁️ 100K • 👍 1K • 💬 221 • ⏱️ 9:50 • 3d ago
+👁️ 54K • 👍 3K • 💬 729 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -240,27 +230,17 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 252K • 👍 3K • 💬 2K • ⏱️ 3:42 • 2d ago
+👁️ 257K • 👍 3K • 💬 2K • ⏱️ 3:42 • 2d ago
 
 ---
 
-**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+**[China’s Combat Robots Steal the Show at Lunar New Year Gala](https://www.youtube.com/watch?v=MFCmePpllIA)**
 
-Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+China's combat robots steal the show at the Lunar New Year gala as advanced humanoid machines stunned audiences with ...
 
-📺 NDTV
+📺 Carros Show
 
-👁️ 28K • 👍 112 • 💬 215 • ⏱️ 5:02 • 3d ago
-
----
-
-**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
-
-A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
-
-📺 Dr Ben Miles
-
-👁️ 1.2M • 👍 89K • 💬 3K • ⏱️ 1:27 • 2d ago
+👁️ 101K • 👍 1K • 💬 224 • ⏱️ 9:50 • 3d ago
 
 ---
 
@@ -270,7 +250,27 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 📺 Carros Show
 
-👁️ 11K • 👍 134 • 💬 38 • ⏱️ 9:20 • 5d ago
+👁️ 11K • 👍 135 • 💬 38 • ⏱️ 9:20 • 5d ago
+
+---
+
+**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
+
+A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
+
+📺 Dr Ben Miles
+
+👁️ 1.2M • 👍 91K • 💬 3K • ⏱️ 1:27 • 2d ago
+
+---
+
+**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+
+Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+
+📺 NDTV
+
+👁️ 28K • 👍 112 • 💬 216 • ⏱️ 5:02 • 4d ago
 
 ---
 
@@ -280,17 +280,17 @@ Unitree Robotics is plotting an aggressive expansion following its viral showing
 
 📺 Kalil 4.0
 
-👁️ 35K • 👍 658 • 💬 233 • ⏱️ 11:04 • 2d ago
+👁️ 36K • 👍 667 • 💬 236 • ⏱️ 11:04 • 2d ago
 
 ---
 
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+**[Unitree Humanoid Robots Shock People at 2026 Spring Festival Gala with Martial Arts](https://www.youtube.com/watch?v=O9ao_HLi1gE)**
 
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid robots stunned 1.4 billion viewers with a ...
 
-📺 AI Revolution
+📺 India Today Global
 
-👁️ 60K • 👍 1K • 💬 161 • ⏱️ 12:43 • 6d ago
+👁️ 108K • 👍 1K • 💬 702 • ⏱️ 2:57 • 5d ago
 
 ---
 
