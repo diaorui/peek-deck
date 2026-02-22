@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T14:53:46.127408+00:00'
+updated: '2026-02-22T15:26:30.897784+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
+- videos
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 14:53 UTC  
+**Last Updated:** February 22, 2026 at 15:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
 
-🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 22h ago
+🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 23h ago
 
 ---
 
@@ -71,7 +71,7 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 I’ve been testing a few AI habit tracker app options because I was curious whether AI actually adds anything meaningful beyond streaks. One I’ve tried recently is Resolve. What stood out wasn’t some crazy prediction engine, but the short AI reflections after logging habits. Instead of just showing a missed day, it nudges you to think about what happened. Over time that’s helped me notice patterns around sleep and focus. Has anyone seen an AI habit tracker app that genuinely feels like it’s doing more than summarizing inputs?
 
-19h ago
+20h ago
 
 ---
 
@@ -123,7 +123,7 @@ Massive data centers for generative AI are bad for the Earth. How about launchin
 
 Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -135,7 +135,7 @@ The New York Times • 1d ago
 
 **[Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence](https://www.bloomberg.com/news/newsletters/2026-02-22/apple-s-ai-wearables-push-what-to-expect-from-march-4-low-end-macbook-launch)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -143,7 +143,7 @@ Bloomberg.com • 1h ago
 
 They’re stressing about raising venture capital and product launches — not who they’ll take to prom.
 
-New York Post • 1h ago
+New York Post • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ New York Post • 1h ago
 
 The fast take-up of innovative technology risks creating a ‘two-speed system’, an Independent Schools Australia paper warns
 
-The Guardian • 51m ago
+The Guardian • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ Yahoo Finance • 1d ago
 
 **[Kick Chronic Kidney Disease With AI](https://www.forbes.com/sites/johnwerner/2026/02/21/kick-chronic-kidney-disease-with-ai/)**
 
-Forbes • 22h ago
+Forbes • 23h ago
 
 ---
 
@@ -173,7 +173,7 @@ Forbes • 22h ago
 
 "To give a true homily is to share faith," and artificial intelligence "will never be able to share faith," the pope added.
 
-OSV News • 16h ago
+OSV News • 17h ago
 
 ---
 
@@ -187,7 +187,7 @@ Axios • 1d ago
 
 The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
 
-The Washington Post • 39m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -284,7 +284,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 27K • 👍 951 • 💬 58 • ⏱️ 10:44 • 15h ago
+👁️ 27K • 👍 951 • 💬 58 • ⏱️ 10:44 • 16h ago
 
 ---
 
@@ -304,7 +304,7 @@ Former Congressman Brad Carson, the President of Americans for Responsible Innov
 
 📺 Forbes Breaking News
 
-👁️ 10K • 👍 314 • 💬 134 • ⏱️ 20:25 • 23h ago
+👁️ 10K • 👍 314 • 💬 134 • ⏱️ 20:25 • 1d ago
 
 ---
 
@@ -324,7 +324,7 @@ Americans Are FURIOUS Over AI Data Centers | It's Getting Worse Popular Video Co
 
 📺 Snyder Reports
 
-👁️ 12K • 👍 1K • 💬 196 • ⏱️ 11:21 • 13h ago
+👁️ 12K • 👍 1K • 💬 196 • ⏱️ 11:21 • 14h ago
 
 ---
 
@@ -334,7 +334,7 @@ There is growing concern about how artificial intelligence could be used by the 
 
 📺 Sky News Australia
 
-👁️ 13K • 👍 209 • 💬 118 • ⏱️ 2:08 • 9h ago
+👁️ 13K • 👍 209 • 💬 118 • ⏱️ 2:08 • 10h ago
 
 ---
 
@@ -374,7 +374,7 @@ HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #a
 
 📺 AI Search
 
-👁️ 39K • 👍 2K • 💬 340 • ⏱️ 39:36 • 11h ago
+👁️ 39K • 👍 2K • 💬 340 • ⏱️ 39:36 • 12h ago
 
 ---
 
@@ -644,7 +644,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.8k • 🔱 1.9k • 30m ago
+⭐ 16.8k • 🔱 1.9k • 1h ago
 
 ---
 
@@ -672,7 +672,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.0k • 🔱 606 • 22h ago
+⭐ 5.0k • 🔱 606 • 23h ago
 
 ---
 
@@ -702,7 +702,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.9k • 🔱 368 • 5h ago
+⭐ 2.9k • 🔱 368 • 6h ago
 
 ---
 
@@ -712,7 +712,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 181 • 14h ago
+⭐ 2.7k • 🔱 181 • 15h ago
 
 ---
 
