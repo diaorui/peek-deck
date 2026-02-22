@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T10:27:57.169812+00:00'
+updated: '2026-02-22T10:53:48.631177+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
+- news
 - videos
 - social
-- news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 10:27 UTC  
+**Last Updated:** February 22, 2026 at 10:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-20h ago
+21h ago
 
 ---
 
@@ -127,7 +127,7 @@ With all this FUD going around right now, just keep in mind. No one knows more t
 
 I started accumulating since 2017 and have finally accumulated 15 Btc. My great grand children are going to remember me as a chad, hopefully btc falls or remain here for some time
 
-42m ago
+1h ago
 
 ---
 
@@ -135,7 +135,7 @@ I started accumulating since 2017 and have finally accumulated 15 Btc. My great 
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-3h ago
+4h ago
 
 ---
 
@@ -151,7 +151,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Just trying to look at this calmly and without bias. After the recent sell-off, we got a bounce. That’s not unusual. Bitcoin has always reacted sharply after strong downside moves. The real question, at least to me, is whether this bounce actually changes anything structurally or if it’s just a temporary reaction inside a broader correction. So far, we haven’t clearly reclaimed and held above major resistance on the higher timeframes. In past cycles, real trend shifts usually showed sustained strength over time not just quick pops. At the same time, Bitcoin has gone through plenty of corrections before continuing its longer term trajectory. Short term structure doesn’t automatically define where things go over the years. Not making any predictions here. Just observing and trying to stay objective. How are you guys reading it from a higher timeframe point of view? And guys it's just my views it's could be wrong
 
-10h ago
+11h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin has become a vessel of pure speculation
 
-The Globe and Mail • 12h ago
+The Globe and Mail • 13h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 12h ago
 
 **[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
 
 ---
 
@@ -223,7 +223,7 @@ Polymarket • 1d ago
 
 Macro strategist Lyn Alden said a peak in heavily bid AI stocks could trigger a rotation that benefits bitcoin, which she argues needs only marginal new demand to move higher.
 
-Bitbo • 14h ago
+Bitbo • 15h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bitbo • 14h ago
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -319,7 +319,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 151 • ⏱️ 8:15 • 10h ago
+👁️ 30K • 👍 2K • 💬 151 • ⏱️ 8:15 • 11h ago
 
 ---
 
@@ -329,7 +329,7 @@ Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Dig
 
 📺 Money Talks
 
-👁️ 2K • 👍 48 • 💬 41 • ⏱️ 15:10 • 15h ago
+👁️ 2K • 👍 48 • 💬 41 • ⏱️ 15:10 • 16h ago
 
 ---
 
@@ -379,7 +379,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 4K • 👍 262 • 💬 85 • ⏱️ 13:24 • 10h ago
+👁️ 4K • 👍 262 • 💬 85 • ⏱️ 13:24 • 11h ago
 
 ---
 

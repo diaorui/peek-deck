@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T10:27:57.179118+00:00'
+updated: '2026-02-22T10:53:48.640504+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 10:27 UTC  
+**Last Updated:** February 22, 2026 at 10:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-38m ago
+1h ago
 
 ---
 
@@ -66,7 +66,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-20m ago
+46m ago
 
 ---
 
@@ -96,7 +96,7 @@ I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don'
 
 **[ANOTHER CITY COUNCIL MEETING](https://www.reddit.com/r/robotics/comments/1rba53x/another_city_council_meeting/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -104,7 +104,7 @@ I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don'
 
 Hey all, I recently switched from the aerospace to the robotics industry. I'm trying to introduce testing and quality assurance to my team that's been building prototypes for anthropomorphic robots. The testing that's done happens during teleoperation of the robots. In my view this is quite unsafe for the human operator. For this reason I'd like to bring in more automated test scripts in testing without the need of human, and some stricter acceptance criteria before handed over to a human operator. Since this is an agile work environment and very fast paced it can get challenging to have a heavy testing. I also don't want to bring in some heavy V&V processes into the development lifecycle If anyone here is in robotics testing and QA I'd love to connect and hear your thoughts on how you might have over come such a challenge within your teams. If I'm having high expectations of testing in robotics since I'm from aerospace, feel free to break the news to me 😅
 
-14h ago
+15h ago
 
 ---
 
@@ -130,7 +130,7 @@ Business Insider • 1d ago
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 29m ago
+umlconnector.com • 55m ago
 
 ---
 
@@ -168,7 +168,7 @@ Auburn University • 1d ago
 
 OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
-South China Morning Post • 27m ago
+South China Morning Post • 53m ago
 
 ---
 
