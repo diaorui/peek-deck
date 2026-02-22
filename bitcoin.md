@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T19:47:03.408055+00:00'
+updated: '2026-02-22T20:28:46.741271+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 19:47 UTC  
+**Last Updated:** February 22, 2026 at 20:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks.
 
-4h ago
+5h ago
 
 ---
 
@@ -89,7 +89,7 @@ When I was a minor back in 2015, my old friend’s big brother convinced me to i
 
 Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can rediscover fire. TLDW: Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself. ...do you have more time to watch? 1: https://youtu.be/19LA7ReARCQ 2: https://youtu.be/YroOIC8eDrk 3: https://youtu.be/ZsgZjAPjxDU
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +121,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
 
-14h ago
+15h ago
 
 ---
 
@@ -145,7 +145,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 What are your thoughts on that??
 
-4h ago
+5h ago
 
 ---
 
@@ -163,7 +163,7 @@ What are your thoughts on that??
 
 If quantum systems mature, roughly $440 billion in bitcoin including Satoshi’s holdings could be exposed.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg • 1d ago
 
 **[Bitcoin see-saws around $68,000, DOGE, ETH slide as tariff uncertainty weighs on risk assets](https://www.binance.com/el/square/post/294454588504145)**
 
-Binance • 2h ago
+Binance • 3h ago
 
 ---
 
@@ -215,7 +215,7 @@ The Globe and Mail • 2d ago
 
 CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -223,13 +223,13 @@ The Block • 21h ago
 
 Macro strategist Lyn Alden said a peak in heavily bid AI stocks could trigger a rotation that benefits bitcoin, which she argues needs only marginal new demand to move higher.
 
-Bitbo • 23h ago
+Bitbo • 1d ago
 
 ---
 
 **[Bitcoin slips after earlier gains amid tariff volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-68000-after-tariffdriven-volatility-fades-4517576)**
 
-Investing.com • 1h ago
+Investing.com • 2h ago
 
 ---
 
@@ -295,7 +295,7 @@ Financial independence on a bitcoin standard
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 2 • 💬 0 • 6h ago
+⬆️ 2 • 💬 0 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ Real estate mogul Grant Cardone unveils his innovative hybrid portfolio, combini
 
 📺 Fox Business
 
-👁️ 936 • 👍 65 • 💬 16 • ⏱️ 8:23 • 2h ago
+👁️ 936 • 👍 65 • 💬 16 • ⏱️ 8:23 • 3h ago
 
 ---
 
@@ -387,7 +387,7 @@ DM me the word "ACCESS" on Telegram to join my group for 2 months FREE: https://
 
 📺 Andy Bitcoinsensus
 
-👁️ 2K • 👍 205 • 💬 61 • ⏱️ 29:02 • 4h ago
+👁️ 2K • 👍 205 • 💬 61 • ⏱️ 29:02 • 5h ago
 
 ---
 
@@ -407,7 +407,7 @@ Trump and Bitcoin a mixed bag, but he has made millions on crypto! Best Crypto T
 
 📺 Lark Davis
 
-👁️ 11K • 👍 736 • 💬 210 • ⏱️ 11:45 • 8h ago
+👁️ 11K • 👍 736 • 💬 210 • ⏱️ 11:45 • 9h ago
 
 ---
 

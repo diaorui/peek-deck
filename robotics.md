@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T19:47:03.417610+00:00'
+updated: '2026-02-22T20:28:46.750429+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 19:47 UTC  
+**Last Updated:** February 22, 2026 at 20:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-9h ago
+10h ago
 
 ---
 
@@ -64,7 +64,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-4h ago
+5h ago
 
 ---
 
@@ -78,7 +78,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 **[Fighting back paid annotation services](https://www.reddit.com/r/robotics/comments/1rbqy5k/fighting_back_paid_annotation_services/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 FRT-737 Designed to Elevate Security Operations with a Patrol Robot delivering AI-powered threat detection, autonomous patrolling, and 24/7 security monitoring.
 
-🔗 [kodyrobots](https://kodyrobots.com/patrol-robot-frt-737/) • 32m ago
+🔗 [kodyrobots](https://kodyrobots.com/patrol-robot-frt-737/) • 1h ago
 
 ---
 
@@ -102,7 +102,7 @@ FRT-737 Designed to Elevate Security Operations with a Patrol Robot delivering A
 
 Hello, I am in the process of building an MITMini-Cheetah type build for a personal project. I planned on using their CAD for the legs as I was able to find a full model for it. However I am having a hard time with the two pulleys in the leg. I can’t seem to find anything online about how to acquire these. Do they need to be just custom CNC, or are they readily available online. If they need to be custom, I have the model for them in Fusion. How would I go about doing that without breaking the bank?
 
-39m ago
+1h ago
 
 ---
 
@@ -130,13 +130,13 @@ TechCrunch • 2d ago
 
 For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
 
-fox23.com • 6h ago
+fox23.com • 7h ago
 
 ---
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 9h ago
+umlconnector.com • 10h ago
 
 ---
 
@@ -196,7 +196,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 17K • 👍 367 • 💬 99 • ⏱️ 8:38 • 20h ago
+👁️ 17K • 👍 367 • 💬 99 • ⏱️ 8:38 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ Chinese combat robots stunned global audiences as their appearance at a major Lu
 
 📺 Carros Show
 
-👁️ 30K • 👍 791 • 💬 155 • ⏱️ 10:12 • 2d ago
+👁️ 30K • 👍 791 • 💬 155 • ⏱️ 10:12 • 3d ago
 
 ---
 

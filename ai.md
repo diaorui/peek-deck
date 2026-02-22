@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T19:47:03.398787+00:00'
+updated: '2026-02-22T20:28:46.732976+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
 - social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 19:47 UTC  
+**Last Updated:** February 22, 2026 at 20:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 3h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 4h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 1d ago
 
 The world’s most populous country continues to struggle to find its place in an industry dominated by the US and China
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -151,13 +151,13 @@ Politico • 1d ago
 
 The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
 
-The Washington Post • 45m ago
+The Washington Post • 1h ago
 
 ---
 
 **[Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence](https://www.bloomberg.com/news/newsletters/2026-02-22/apple-s-ai-wearables-push-what-to-expect-from-march-4-low-end-macbook-launch)**
 
-Bloomberg • 6h ago
+Bloomberg • 7h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Hacker News • 1d ago
 
 "To give a true homily is to share faith," and artificial intelligence "will never be able to share faith," the pope added.
 
-OSV News • 21h ago
+OSV News • 22h ago
 
 ---
 
@@ -221,7 +221,7 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 514 • 💬 567 • 2d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 514 • 💬 567 • 3d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -301,7 +301,7 @@ In this episode I dive into the new wave of AI music released on music streaming
 
 📺 Rick Beato
 
-👁️ 698K • 👍 47K • 💬 11K • ⏱️ 6:14 • 2d ago
+👁️ 698K • 👍 47K • 💬 11K • ⏱️ 6:14 • 3d ago
 
 ---
 
@@ -321,7 +321,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 31K • 👍 1K • 💬 62 • ⏱️ 10:44 • 20h ago
+👁️ 31K • 👍 1K • 💬 62 • ⏱️ 10:44 • 21h ago
 
 ---
 
@@ -399,7 +399,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,971 • ❤️ 2,136 • 6d ago
+⬇️ 539,971 • ❤️ 2,136 • 7d ago
 
 ---
 
@@ -700,7 +700,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.9k • 🔱 368 • 10h ago
+⭐ 2.9k • 🔱 368 • 11h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 182 • 4h ago
+⭐ 2.7k • 🔱 182 • 5h ago
 
 ---
 
@@ -730,7 +730,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.4k • 🔱 260 • 3h ago
+⭐ 2.4k • 🔱 260 • 4h ago
 
 ---
 
