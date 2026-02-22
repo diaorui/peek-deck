@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T22:52:27.676222+00:00'
+updated: '2026-02-22T23:28:04.962991+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
-- social
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 22:52 UTC  
+**Last Updated:** February 22, 2026 at 23:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 6h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 7h ago
 
 ---
 
@@ -123,7 +123,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
 
-The Washington Post • 50m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -137,21 +137,15 @@ The Guardian • 6h ago
 
 **[Dems eyeing 2028 tap the brakes on AI data centers](https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers)**
 
-Axios • 50m ago
+Axios • 1h ago
 
 ---
 
-**[The AI alarm cycle: Lots of talk, little action](https://www.aljazeera.com/video/the-listening-post/2026/2/22/the-ai-alarm-cycle-lots-of-talk-little-action)**
+**[Does AI "need" us more than we need it?](https://www.psychologytoday.com/us/blog/experimentations/202602/could-ai-hijack-the-human-psyche)**
 
-What is the point of AI alarmism if the people warning the world aren't changing course?
+Is humanity at a crossroads, potentially in the crosshairs of malign AI? We may not know, but best not to ignore the possibilities.
 
-Al Jazeera • 2h ago
-
----
-
-**[The A.I. Evangelists on a Mission to Shake Up Japan](https://www.nytimes.com/2026/02/22/world/asia/japan-ai-politics-election.html)**
-
-The New York Times • 17h ago
+Psychology Today • 37m ago
 
 ---
 
@@ -163,17 +157,23 @@ Fortune • 10h ago
 
 ---
 
+**[The A.I. Evangelists on a Mission to Shake Up Japan](https://www.nytimes.com/2026/02/22/world/asia/japan-ai-politics-election.html)**
+
+The New York Times • 18h ago
+
+---
+
 **[Consultancies set for fastest growth in years on back of AI boom](https://www.ft.com/content/3cd94803-909c-4617-99b0-a1b5061f93ad)**
 
 Companies are seeking advice on how to provide energy to data centres and profit from artificial intelligence
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
 **[Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence](https://www.bloomberg.com/news/newsletters/2026-02-22/apple-s-ai-wearables-push-what-to-expect-from-march-4-low-end-macbook-launch)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -183,9 +183,11 @@ Politico • 1d ago
 
 ---
 
-**[The AI productivity boom is not here (yet)](https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet)**
+**[Gemini 3.1 Pro: A smarter model for your most complex tasks](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)**
 
-The Economist • 10h ago
+3.1 Pro is designed for tasks where a simple answer isn’t enough.
+
+blog.google • 3d ago
 
 ---
 
@@ -279,17 +281,7 @@ Slandered by one AI robot and misquoted in a news article by another, US-based s
 
 📺 FRANCE 24 English
 
-👁️ 54K • 👍 1K • 💬 276 • ⏱️ 5:50 • 8h ago
-
----
-
-**[Billions just evaporated in AI bubble](https://www.youtube.com/watch?v=0SABrSvmV7o)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 123K • 👍 8K • 💬 2K • ⏱️ 18:44 • 1d ago
+👁️ 76K • 👍 2K • 💬 327 • ⏱️ 5:50 • 8h ago
 
 ---
 
@@ -299,7 +291,17 @@ Former Congressman Brad Carson, the President of Americans for Responsible Innov
 
 📺 Forbes Breaking News
 
-👁️ 11K • 👍 357 • 💬 148 • ⏱️ 20:25 • 1d ago
+👁️ 12K • 👍 384 • 💬 155 • ⏱️ 20:25 • 1d ago
+
+---
+
+**[Billions just evaporated in AI bubble](https://www.youtube.com/watch?v=0SABrSvmV7o)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 128K • 👍 8K • 💬 2K • ⏱️ 18:44 • 1d ago
 
 ---
 
@@ -309,17 +311,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 34K • 👍 1K • 💬 65 • ⏱️ 10:44 • 23h ago
-
----
-
-**[20 Most Influential Romanov Dynasty Figures Brought to Life Using AI | Peter the Great, Nikolai II](https://www.youtube.com/watch?v=3jgOL5L_1u4)**
-
-20 Most Influential Romanov Dynasty Figures Brought to Life Using AI Witness the rise and fall of Imperial Russia as 20 of the ...
-
-📺 Relax History AI
-
-👁️ 140 • 👍 17 • 💬 2 • ⏱️ 25:13 • 4h ago
+👁️ 36K • 👍 1K • 💬 67 • ⏱️ 10:44 • 1d ago
 
 ---
 
@@ -329,27 +321,7 @@ Best LONGEST FREE AI Video Generator of 2026 - Make 15-Minute Videos For FREE 1.
 
 📺 AI Explorer 
 
-👁️ 2K • 👍 95 • 💬 9 • ⏱️ 4:16 • 15h ago
-
----
-
-**[I Asked AI Who It Would Vote For: TRUMP or OBAMA for a THIRD TERM](https://www.youtube.com/watch?v=9Wj5Ywbf2C4)**
-
-Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
-
-📺 I Ask AI
-
-👁️ 35K • 👍 2K • 💬 326 • ⏱️ 14:18 • 1d ago
-
----
-
-**[iShowSpeed Pretends To Be An AI On Omegle 😂](https://www.youtube.com/watch?v=TzYlww29Ac8)**
-
-IM LIVE EVERY DAY- https://www.youtube.com/channel/UCWsD... Check Out My Second Channel!
-
-📺 Speedy Boykins
-
-👁️ 11K • 👍 395 • 💬 21 • ⏱️ 3:11 • 16h ago
+👁️ 2K • 👍 106 • 💬 11 • ⏱️ 4:16 • 16h ago
 
 ---
 
@@ -359,17 +331,47 @@ Grab the free Claude Cowork Stack from HubSpot: https://clickhubspot.com/2077f9 
 
 📺 Skill Leap AI
 
-👁️ 34K • 👍 784 • 💬 33 • ⏱️ 21:02 • 2d ago
+👁️ 36K • 👍 796 • 💬 34 • ⏱️ 21:02 • 2d ago
 
 ---
 
-**[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
+**[I Asked AI Who It Would Vote For: TRUMP or OBAMA for a THIRD TERM](https://www.youtube.com/watch?v=9Wj5Ywbf2C4)**
 
-Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
+Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, and more. Subscribe through my link to get 40% off ...
 
-📺 AI Revolution
+📺 I Ask AI
 
-👁️ 69K • 👍 2K • 💬 61 • ⏱️ 12:14 • 2d ago
+👁️ 37K • 👍 2K • 💬 346 • ⏱️ 14:18 • 1d ago
+
+---
+
+**[20 Most Influential Romanov Dynasty Figures Brought to Life Using AI | Peter the Great, Nikolai II](https://www.youtube.com/watch?v=3jgOL5L_1u4)**
+
+20 Most Influential Romanov Dynasty Figures Brought to Life Using AI Witness the rise and fall of Imperial Russia as 20 of the ...
+
+📺 Relax History AI
+
+👁️ 259 • 👍 31 • 💬 3 • ⏱️ 25:13 • 4h ago
+
+---
+
+**[$1,000 a Day in AI Costs. Three Engineers. No Writing Code. No Code Review. But More Output.](https://www.youtube.com/watch?v=-bQcWs1Z9a0)**
+
+My site: https://natebjones.com Full Story w/ Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 78K • 👍 3K • 💬 616 • ⏱️ 30:13 • 2d ago
+
+---
+
+**[iShowSpeed Pretends To Be An AI On Omegle 😂](https://www.youtube.com/watch?v=TzYlww29Ac8)**
+
+IM LIVE EVERY DAY- https://www.youtube.com/channel/UCWsD... Check Out My Second Channel!
+
+📺 Speedy Boykins
+
+👁️ 12K • 👍 417 • 💬 23 • ⏱️ 3:11 • 16h ago
 
 ---
 
@@ -385,7 +387,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 217,901 • ❤️ 880 • 2d ago
+⬇️ 217,901 • ❤️ 884 • 2d ago
 
 ---
 
@@ -397,7 +399,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,971 • ❤️ 2,138 • 7d ago
+⬇️ 539,971 • ❤️ 2,144 • 7d ago
 
 ---
 
@@ -409,7 +411,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 711 • 21h ago
+⬇️ 153,566 • ❤️ 714 • 21h ago
 
 ---
 
@@ -421,7 +423,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 177,505 • ❤️ 1,427 • 9d ago
+⬇️ 177,505 • ❤️ 1,428 • 9d ago
 
 ---
 
@@ -433,7 +435,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 190,549 • ❤️ 854 • 6d ago
+⬇️ 190,549 • ❤️ 856 • 6d ago
 
 ---
 
@@ -445,7 +447,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 982,327 • ❤️ 1,141 • 24d ago
+⬇️ 982,327 • ❤️ 1,144 • 24d ago
 
 ---
 
@@ -457,7 +459,7 @@ Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta
 
 `image-text-to-text` `396.3B`
 
-⬇️ 79,371 • ❤️ 179 • 5d ago
+⬇️ 79,371 • ❤️ 180 • 5d ago
 
 ---
 
@@ -481,7 +483,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 2,430 • ❤️ 248 • 8d ago
+⬇️ 2,430 • ❤️ 249 • 8d ago
 
 ---
 
@@ -493,7 +495,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 14,728 • ❤️ 143 • 2d ago
+⬇️ 14,728 • ❤️ 144 • 2h ago
 
 ---
 
@@ -507,7 +509,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 5 • 💬 0 • ⭐ 6,260 • 23mo ago
+▲ 5 • 💬 0 • ⭐ 6,862 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -548,7 +550,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 69 • 💬 1 • ⭐ 8,281 • 1mo ago
+▲ 69 • 💬 1 • ⭐ 8,314 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -574,7 +576,7 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 37 • 💬 1 • ⭐ 70,889 • 29mo ago
+▲ 37 • 💬 1 • ⭐ 70,915 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -586,7 +588,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 44 • 💬 4 • ⭐ 4,057 • 1mo ago
+▲ 44 • 💬 4 • ⭐ 4,083 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -640,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.0k • 🔱 2.0k • 3h ago
+⭐ 17.1k • 🔱 2.0k • 20m ago
 
 ---
 
@@ -678,7 +680,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.8k • 🔱 179 • 19d ago
+⭐ 3.8k • 🔱 179 • 20d ago
 
 ---
 
@@ -688,7 +690,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 327 • 9h ago
+⭐ 3.3k • 🔱 329 • 9h ago
 
 ---
 
@@ -698,7 +700,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.9k • 🔱 368 • 13h ago
+⭐ 2.9k • 🔱 370 • 14h ago
 
 ---
 
@@ -728,7 +730,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.4k • 🔱 260 • 6h ago
+⭐ 2.4k • 🔱 260 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T22:52:27.690925+00:00'
+updated: '2026-02-22T23:28:04.977036+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
 - cryptocurrency
-- social
 - news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 22:52 UTC  
+**Last Updated:** February 22, 2026 at 23:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** -2.2%  
-**30d:** -33.8%  
+**24h:** -1.0%  
+**7d:** -2.3%  
+**30d:** -33.9%  
 **90d:** -34.0%  
-**1y:** -30.7%  
+**1y:** -30.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $234.66B
+**Market Cap:** $235.34B
 Rank #2
 
 **Circulating Supply:** 120,692,364 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.7%
+-60.5%
 
 **All-Time Low:** $0.43
-+448487.6%
++450739.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-49m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Interested in purchasing these rather than actual crypto, and I am wondering if 
 
 I was looking into staking, I invest on robinhood because it is easy and I do not own much Crypto. How often does slashing occur in staking? I was going to start staking the eth I have, but started looking into it and saw you could potentially lose all the eth you stake if slashing occurs. How often does it happen?
 
-20h ago
+21h ago
 
 ---
 
@@ -172,31 +172,7 @@ The Block • 2d ago
 
 Bitwise CIO Matt Hougan says institutions favor chains like Ethereum & Solana, while prediction markets are regulatory equalizer in crypto.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
-
-The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
-
-Fortune • 2d ago
-
----
-
-**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
-
-Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
-
-TradingView • 1d ago
-
----
-
-**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
-
-Key PointsBitcoin could struggle to retain its reputation as "digital gold".
-
-Nasdaq • 2d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -208,27 +184,49 @@ Decrypt • 1d ago
 
 ---
 
-**[Ethereum Analysis Shows Order Flow Divergence: Institutions Bullish While Retails Bearish](https://investinglive.com/Cryptocurrency/ethereum-order-flow-divergence-institutions-turn-net-long-while-retail-leans-bearish-20260222/)**
+**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
 
-This insight shows retails are Short but institutionals are Long. Find out the details of this new information and what it means.
+Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
 
-investingLive • 5h ago
-
----
-
-**[ETHB: Everything We Know About BlackRock's New Ethereum Staking ETF](https://info.arkm.com/research/ethb-everything-we-know-about-blackrocks-new-ethereum-staking-etf)**
-
-BlackRock is undergoing preparations to launch its much-anticipated Ethereum staking ETF: ETHB. Here's everything we know so far
-
-Arkham | Research • 2d ago
+TradingView • 1d ago
 
 ---
 
-**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://coingape.com/blackrock-signals-270m-bitcoin-ethereum-sell-off-as-2-4b-in-crypto-options-expire/)**
+**[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
 
-BlackRock deposited Bitcoin and Ethereum into Coinbase, likely to offload these coins amid the expiry of $2.4 billion crypto options.
+The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
 
-CoinGape • 2d ago
+Fortune • 2d ago
+
+---
+
+**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
+
+Key PointsBitcoin could struggle to retain its reputation as "digital gold".
+
+Nasdaq • 2d ago
+
+---
+
+**[XRP Ledger Dominates Tokenized U.S. Treasuries with 63% Market Control, Outpacing Ethereum and Solana](https://coinpaper.com/14813/xrp-ledger-dominates-tokenized-u-s-treasuries-with-63-market-control-outpacing-ethereum-and-solana)**
+
+XRP Ledger dominates tokenized U.S. Treasuries with 63% market share, outpacing Ethereum, Solana, and leading institutional adoption.
+
+Coinpaper • 16h ago
+
+---
+
+**[Ethereum under pressure: Founder sales, whale losses, and bearish odds collide](https://ambcrypto.com/ethereum-under-pressure-founder-sales-whale-losses-and-bearish-odds-collide/)**
+
+Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
+
+AMBCrypto • 25m ago
+
+---
+
+**[Ethereum ETF Blink, Not Breakdown: Fidelity’s FETH Books a $11.6 Million Outflow](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-blink-not-breakdown-fidelitys-feth-books-a-11-6-million-outflow)**
+
+TipRanks • 6h ago
 
 ---
 
@@ -236,23 +234,23 @@ CoinGape • 2d ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN &amp; ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=me9L_nMl48c)**
+
+BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 2K • 👍 134 • 💬 9 • ⏱️ 16:36 • 1h ago
+
+---
+
 **[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
 
 While most people hesitate on Ethereum, I'm loading up. In this video, I break down my full Ethereum thesis, why current price ...
 
 📺 Michaël van de Poppe
 
-👁️ 4K • 👍 224 • 💬 58 • ⏱️ 11:38 • 13h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zj8xtosFZp4)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 124 • 💬 7 • ⏱️ 5:45 • 10h ago
+👁️ 5K • 👍 241 • 💬 63 • ⏱️ 11:38 • 14h ago
 
 ---
 
@@ -262,7 +260,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 14K • 👍 602 • 💬 118 • ⏱️ 8:49 • 1d ago
+👁️ 15K • 👍 624 • 💬 137 • ⏱️ 8:49 • 1d ago
 
 ---
 
@@ -272,17 +270,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 16K • 👍 619 • 💬 42 • ⏱️ 18:46 • 1d ago
+👁️ 16K • 👍 629 • 💬 43 • ⏱️ 18:46 • 1d ago
 
 ---
 
-**[BITCOIN: The Last 48 Hours! (don’t miss it) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=fHmqTZYi2q0)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Zj8xtosFZp4)**
 
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 BitcoinHyper
+📺 More Crypto Online
 
-👁️ 2K • 👍 190 • 5h ago
+👁️ 2K • 👍 129 • 💬 8 • ⏱️ 5:45 • 11h ago
 
 ---
 
@@ -292,17 +290,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 246 • 👍 14 • 💬 1 • ⏱️ 4:51 • 11h ago
+👁️ 264 • 👍 17 • 💬 1 • ⏱️ 4:51 • 11h ago
 
 ---
 
-**[Ethereum Is Quietly BEATING Bitcoin 📈?!](https://www.youtube.com/watch?v=wAFAfPXYiRw)**
+**[🚨 BITCOIN E ETHEREUM: O Fundo é Aqui ou o Pânico Só Começou? (URGENTE )](https://www.youtube.com/watch?v=GZesdiZtwG0)**
 
-Everybody is looking at Bitcoin to lead the market, but I think it will be Ethereum. In this video, I'll explain to you why I think ...
+O mercado cripto está operando em zona de MEDO EXTREMO. Com o Ethereum e o Bitcoin acumulando quedas pesadas, ...
 
-📺 Michaël van de Poppe
+📺 Augusto Backes
 
-👁️ 808 • 👍 10 • 💬 4 • ⏱️ 0:13 • 10h ago
+👁️ 5K • 👍 1K • 💬 78 • ⏱️ 26:44 • 1h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=vsuPNo-e4f4)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 Manfred Thönicke
+
+👁️ 4K • 👍 1K • 6h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=XozN-JoQQmE)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 럭셔리앤하우스 luxuryhouse korea
+
+👁️ 2K • 👍 3K • 14m ago
 
 ---
 
@@ -312,27 +330,7 @@ Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take o
 
 📺 Thomas Kralow
 
-👁️ 30K • 👍 5K • 💬 61 • ⏱️ 10:36 • 2d ago
-
----
-
-**[Blackrock Ethereum ETF SUBMITTED (Major Price Reaction)](https://www.youtube.com/watch?v=IDB13BcKlLE)**
-
-Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But the charts aren't as bullish! Will the bulls or ...
-
-📺 Discover Crypto
-
-👁️ 6K • 👍 144 • 💬 35 • ⏱️ 4:54 • 2d ago
-
----
-
-**[Krypto-Bärenmarkt vorbei? 🤔 JETZT wird’s wichtig! Bitcoin, Ethereum, Solana, XRP, SUI | Analyse](https://www.youtube.com/watch?v=oJZjP1krvpQ)**
-
-Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Kostenlos Discord beitreten: ...
-
-📺 TradingKompass
-
-👁️ 2K • 👍 294 • 💬 28 • ⏱️ 22:21 • 8h ago
+👁️ 30K • 👍 5K • 💬 62 • ⏱️ 10:36 • 2d ago
 
 ---
 

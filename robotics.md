@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T22:52:27.694162+00:00'
+updated: '2026-02-22T23:28:04.980126+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 22:52 UTC  
+**Last Updated:** February 22, 2026 at 23:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -46,14 +46,6 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 ---
 
-**[Robotic (Arm) failed Project](https://www.reddit.com/r/robotics/comments/1rbi5y1/robotic_arm_failed_project/)**
-
-This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
-
-12h ago
-
----
-
 **[Built my first hexapod!](https://www.reddit.com/r/robotics/comments/1rbyo3y/built_my_first_hexapod/)**
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
@@ -62,9 +54,25 @@ Built my very first hexapod and i think i love this hobby!Feels great finally se
 
 ---
 
+**[Robotic (Arm) failed Project](https://www.reddit.com/r/robotics/comments/1rbi5y1/robotic_arm_failed_project/)**
+
+This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
+
+13h ago
+
+---
+
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
 1d ago
+
+---
+
+**[From garden cart to autonomous UGV](https://www.reddit.com/r/robotics/comments/1rbyn7f/from_garden_cart_to_autonomous_ugv/)**
+
+I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
+
+1h ago
 
 ---
 
@@ -84,23 +92,15 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 ---
 
-**[From garden cart to autonomous UGV](https://www.reddit.com/r/robotics/comments/1rbyn7f/from_garden_cart_to_autonomous_ugv/)**
-
-I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
-
-1h ago
-
----
-
 **[CC student into robotics/aerospace needing serious project ideas + career advice](https://www.reddit.com/r/robotics/comments/1rbxawr/cc_student_into_roboticsaerospace_needing_serious/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Fighting back paid annotation services](https://www.reddit.com/r/robotics/comments/1rbqy5k/fighting_back_paid_annotation_services/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -116,9 +116,11 @@ CNBC • 2d ago
 
 ---
 
-**[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
+**[Tech companies are making their robots cute to try and win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
 
-Zacks Investment Research • 3d ago
+Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
+
+NBC News • 8h ago
 
 ---
 
@@ -126,21 +128,29 @@ Zacks Investment Research • 3d ago
 
 For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
 
-fox23.com • 9h ago
+fox23.com • 10h ago
 
 ---
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 12h ago
+umlconnector.com • 13h ago
 
 ---
 
-**[Hawaii robotics team qualifies for World Championships](https://www.hawaiinewsnow.com/2026/02/19/hawaii-robotics-team-qualifies-world-championships/)**
+**[Robotics competition](https://www.gazettextra.com/robotics-competition/image_2b964d1d-3484-40b1-bc79-9e3d4ab2823c.html)**
 
-Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
+Seven teams from Milton High School were among 32 teams from across the state that participated Saturday, Feb. 21, 2026, in the first-ever robotics competition hosted by Milton.
 
-Hawaii News Now • 3d ago
+GazetteXtra • 1h ago
+
+---
+
+**[Richtech Robotics Inc. Securities Class Action Lawsuit Filed; Lead Plaintiff Deadline April 3, 2026 – RGRD Law](https://www.globenewswire.com/news-release/2026/02/22/3242286/0/en/Richtech-Robotics-Inc-Securities-Class-Action-Lawsuit-Filed-Lead-Plaintiff-Deadline-April-3-2026-RGRD-Law.html)**
+
+The case alleges Richtech Robotics claimed that it had a collaborative and commercial relationship with Microsoft when it did not....
+
+GlobeNewswire • 18m ago
 
 ---
 
@@ -149,6 +159,14 @@ Hawaii News Now • 3d ago
 HINTON- Two robotics clubs from Hinton High School have qualified to compete in a statewide competition.
 
 The N'West Iowa REVIEW • 4h ago
+
+---
+
+**[Hawaii robotics team qualifies for World Championships](https://www.hawaiinewsnow.com/2026/02/19/hawaii-robotics-team-qualifies-world-championships/)**
+
+Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
+
+Hawaii News Now • 3d ago
 
 ---
 
@@ -166,22 +184,6 @@ Forbes • 3d ago
 
 ---
 
-**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
-
-Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
-
-Automotive News • 3d ago
-
----
-
-**[Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids](https://www.therobotreport.com/toyota-motor-manufacturing-canada-deploys-agility-robotics-digit-humanoids/)**
-
-Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10.
-
-The Robot Report • 3d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -192,7 +194,17 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 19K • 👍 378 • 💬 102 • ⏱️ 8:38 • 23h ago
+👁️ 21K • 👍 396 • 💬 105 • ⏱️ 8:38 • 1d ago
+
+---
+
+**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+
+Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+
+📺 New York Post
+
+👁️ 13K • 👍 269 • 💬 277 • ⏱️ 2:30 • 1d ago
 
 ---
 
@@ -202,7 +214,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 56K • 👍 325 • 💬 187 • ⏱️ 2:14 • 1d ago
+👁️ 63K • 👍 340 • 💬 195 • ⏱️ 2:14 • 1d ago
 
 ---
 
@@ -212,7 +224,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 62K • 👍 3K • 💬 785 • ⏱️ 14:51 • 2d ago
+👁️ 63K • 👍 3K • 💬 789 • ⏱️ 14:51 • 2d ago
+
+---
+
+**[AI Robots Are Evolving WAY FASTER Than Expected! ](https://www.youtube.com/watch?v=-bOog4ux0XU)**
+
+Kung fu robots, companion female humanoids, and robotic dogs are some of the robots that will be flooding the streets.
+
+📺 Aaron Page 
+
+👁️ 9K • 👍 718 • 💬 121 • ⏱️ 14:02 • 1d ago
 
 ---
 
@@ -222,7 +244,17 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 277K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
+👁️ 282K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
+
+---
+
+**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
+
+A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
+
+📺 Dr Ben Miles
+
+👁️ 1.3M • 👍 98K • 💬 3K • ⏱️ 1:27 • 3d ago
 
 ---
 
@@ -236,43 +268,13 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 ---
 
-**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
-
-A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
-
-📺 Dr Ben Miles
-
-👁️ 1.3M • 👍 97K • 💬 3K • ⏱️ 1:27 • 3d ago
-
----
-
-**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
-
-By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
-
-📺 NVIDIA
-
-👁️ 33K • 👍 1K • ⏱️ 2:51 • 4d ago
-
----
-
 **[The Problem With Humanoid Robots](https://www.youtube.com/watch?v=EPQI0qzt7uw)**
 
 Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
 📺 Wall Street Millennial
 
-👁️ 52K • 👍 2K • 💬 573 • ⏱️ 13:31 • 3d ago
-
----
-
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
-
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
-
-📺 AI Revolution
-
-👁️ 62K • 👍 1K • 💬 161 • ⏱️ 12:43 • 6d ago
+👁️ 53K • 👍 2K • 💬 575 • ⏱️ 13:31 • 3d ago
 
 ---
 
@@ -282,7 +284,7 @@ Chinese combat robots stunned global audiences as their appearance at a major Lu
 
 📺 Carros Show
 
-👁️ 31K • 👍 793 • 💬 156 • ⏱️ 10:12 • 3d ago
+👁️ 31K • 👍 796 • 💬 157 • ⏱️ 10:12 • 3d ago
 
 ---
 
