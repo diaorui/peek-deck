@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T20:28:46.741271+00:00'
+updated: '2026-02-22T20:53:52.446460+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 20:28 UTC  
+**Last Updated:** February 22, 2026 at 20:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,336.79
+### $67,432.47
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
+**24h:** -1.4%  
 **7d:** -2.0%  
-**30d:** -24.4%  
-**90d:** -22.9%  
+**30d:** -24.5%  
+**90d:** -23.0%  
 **1y:** -29.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1345.84B
+**Market Cap:** $1348.42B
 Rank #1
 
-**Circulating Supply:** 19,993,246 BTC
+**Circulating Supply:** 19,993,284 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.6%
+-46.5%
 
 **All-Time Low:** $67.81
-+99180.3%
++99288.0%
 
 ---
 
@@ -105,7 +105,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-13h ago
+14h ago
 
 ---
 
@@ -114,6 +114,14 @@ In these brutal bear markets where weak hands get absolutely wrecked, there’s 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
 1d ago
+
+---
+
+**[What dca interval should i choose](https://www.reddit.com/r/Bitcoin/comments/1rbvssm/what_dca_interval_should_i_choose/)**
+
+I wanna get into dcaing but what interval is the best presuming i pay zero fees and what do you guys do. And how do you buy to minimize fees?
+
+55m ago
 
 ---
 
@@ -133,14 +141,6 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 ---
 
-**[Custom Steel BTC sign](https://www.reddit.com/r/Bitcoin/comments/1rb02ma/custom_steel_btc_sign/)**
-
-I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
-
-1d ago
-
----
-
 **[Thoughts on buying BTC on Cashapp?](https://www.reddit.com/r/Bitcoin/comments/1rbnwrr/thoughts_on_buying_btc_on_cashapp/)**
 
 What are your thoughts on that??
@@ -149,7 +149,9 @@ What are your thoughts on that??
 
 ---
 
-**[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
+**[Custom Steel BTC sign](https://www.reddit.com/r/Bitcoin/comments/1rb02ma/custom_steel_btc_sign/)**
+
+I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
 1d ago
 
@@ -159,11 +161,25 @@ What are your thoughts on that??
 
 ## Google News: "bitcoin"
 
-**[Quantum computing risk puts 7 million BTC including Satoshi Nakamoto's 1 million at stake](https://www.coindesk.com/business/2026/02/22/to-freeze-or-not-to-freeze-satoshi-and-the-usd440-billion-in-bitcoin-threatened-by-quantum-computing)**
+**[BTC, ETH, DOGE price news: Bitcoin drops to $67,000 as Trump's tariff tentions return](https://www.coindesk.com/markets/2026/02/22/bitcoin-dips-to-usd67-000-doge-eth-slide-as-tariff-uncertainty-weighs-on-risk-assets)**
 
-If quantum systems mature, roughly $440 billion in bitcoin including Satoshi’s holdings could be exposed.
+President Donald Trump raised the global tariff rate to 15% despite a Supreme Court ruling against earlier emergency trade measures, keeping pressure on China and other partners.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
+
+---
+
+**[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
+
+U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin slips after earlier gains amid tariff volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-68000-after-tariffdriven-volatility-fades-4517576)**
+
+Investing.com • 2h ago
 
 ---
 
@@ -173,9 +189,9 @@ Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin see-saws around $68,000, DOGE, ETH slide as tariff uncertainty weighs on risk assets](https://www.binance.com/el/square/post/294454588504145)**
+**[Agoraflux_WOP(@Agora_flux)'s insights](https://www.binance.com/en/square/post/294489010326385)**
 
-Binance • 3h ago
+Binance • 1h ago
 
 ---
 
@@ -183,7 +199,21 @@ Binance • 3h ago
 
 On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
+
+---
+
+**[Robert Kiyosaki buys 1 more BTC , doubles down on bitcoin over gold](https://www.binance.com/en/square/post/294203989714162)**
+
+Binance • 20h ago
+
+---
+
+**[Rich Dad Poor Dad buys Bitcoin again](https://www.thestreet.com/crypto/economy/rich-dad-poor-dad-buys-bitcoin-again)**
+
+Robert Kiyosaki is buying Bitcoin again.
+
+thestreet.com • 21h ago
 
 ---
 
@@ -195,41 +225,11 @@ Fortune • 2d ago
 
 ---
 
-**[1 Top Cryptocurrency to Buy Before It Soars 120%, According to a Top Wall Street Investment Firm](https://www.fool.com/investing/2026/02/22/1-top-cryptocurrency-to-buy-before-it-soars-120-ac/)**
-
-After five months of steady selling pressure, Bitcoin could be ready to rebound.
-
-The Motley Fool • 14h ago
-
----
-
-**[Bitcoin zero? Crypto evangelists have run out of stories to tell](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-bitcoin-cryptocurrency-speculation-investing/)**
-
-Bitcoin has become a vessel of pure speculation
-
-The Globe and Mail • 2d ago
-
----
-
 **[CryptoQuant says bitcoin whale deposit activity grows amid ongoing bear phase](https://www.theblock.co/post/390712/cryptoquant-bitcoin-whale-deposit-ongoing-bear-phase)**
 
 CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
 The Block • 22h ago
-
----
-
-**[Lyn Alden Says AI Stock Peak Could Boost Bitcoin](https://bitbo.io/news/ai-stock-peak-bitcoin/)**
-
-Macro strategist Lyn Alden said a peak in heavily bid AI stocks could trigger a rotation that benefits bitcoin, which she argues needs only marginal new demand to move higher.
-
-Bitbo • 1d ago
-
----
-
-**[Bitcoin slips after earlier gains amid tariff volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-68000-after-tariffdriven-volatility-fades-4517576)**
-
-Investing.com • 2h ago
 
 ---
 
@@ -311,13 +311,33 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 ## YouTube Videos: "bitcoin"
 
+**[Grant Cardone: I’m Going ALL IN On Bitcoin](https://www.youtube.com/watch?v=_GBiPA7e0YA)**
+
+Bitcoin #Crypto #Finance Grant Cardone reveals why his ultimate target is 10000 Bitcoin and how he's using a hybrid real estate ...
+
+📺 The Wolf Of All Streets
+
+👁️ 6K • 👍 351 • 💬 148 • ⏱️ 23:59 • 6h ago
+
+---
+
 **[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
 
 bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 208 • ⏱️ 8:15 • 20h ago
+👁️ 47K • 👍 2K • 💬 217 • ⏱️ 8:15 • 21h ago
+
+---
+
+**[BREAKING: &#39;Bitcoin Zero&#39; Trending in USA Right Now — History Says Something Big Is Coming](https://www.youtube.com/watch?v=Wkjg44NDxfI)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 1K • 👍 96 • 💬 10 • ⏱️ 23:49 • 4h ago
 
 ---
 
@@ -327,77 +347,17 @@ Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Dig
 
 📺 Money Talks
 
-👁️ 3K • 👍 61 • 💬 60 • ⏱️ 15:10 • 1d ago
+👁️ 3K • 👍 62 • 💬 68 • ⏱️ 15:10 • 1d ago
 
 ---
 
-**[Bitcoin Holders suddenly have a MAJOR PROBLEM](https://www.youtube.com/watch?v=SwNLNppPHl8)**
+**[Strategy&#39;s $54 Billion Bitcoin Bet Is Underwater. What Happens Next?](https://www.youtube.com/watch?v=w1K0mtKNey0)**
 
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ Bitunix (no kyc, $10k bonus): ...
+Is Bitcoin's corporate treasury model about to implode? With Strategy underwater on its BTC holdings and copycat firms facing ...
 
-📺 Altcoin Daily
+📺 Coin Bureau
 
-👁️ 67K • 👍 3K • 💬 261 • ⏱️ 9:14 • 1d ago
-
----
-
-**[Bitcoin Is Crashing and Exchanges Freezing Up](https://www.youtube.com/watch?v=Xhrzm4CmpEo)**
-
-Take your personal data back with Incogni! Use code BOYLE at the link below and get 60% off an annual plan: ...
-
-📺 Patrick Boyle
-
-👁️ 585K • 👍 30K • 💬 4K • ⏱️ 32:14 • 1d ago
-
----
-
-**[Bitcoin Is About to Absorb a Historic Rotation](https://www.youtube.com/watch?v=eZSL4CWTnDg)**
-
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years of market experience and the author of VisserLabs ...
-
-📺 Anthony Pompliano
-
-👁️ 82K • 👍 4K • 💬 73 • ⏱️ 52:37 • 1d ago
-
----
-
-**[How one real estate mogul melded concrete with crypto](https://www.youtube.com/watch?v=uOeNnO93mYU)**
-
-Real estate mogul Grant Cardone unveils his innovative hybrid portfolio, combining real estate and Bitcoin on 'The Claman ...
-
-📺 Fox Business
-
-👁️ 936 • 👍 65 • 💬 16 • ⏱️ 8:23 • 3h ago
-
----
-
-**[CRYPTO BUY ALERT: The &quot;Micro&quot; Signal Pointing to +40% Upside (BTC, SOL, ETH, LINK)](https://www.youtube.com/watch?v=zl4oSuT7pLY)**
-
-Is the crypto crash finally over, or is this just a trap? The Fear and Greed Index is sitting at an abysmal 7, but while the masses are ...
-
-📺 Gareth Soloway
-
-👁️ 79K • 👍 5K • 💬 626 • ⏱️ 10:45 • 1d ago
-
----
-
-**[URGENT BITCOIN NOW!  WATCH BEFORE MONDAY!](https://www.youtube.com/watch?v=LAHVTO8cdeo)**
-
-DM me the word "ACCESS" on Telegram to join my group for 2 months FREE: https://t.me/AndyJack_trades Blofin: ...
-
-📺 Andy Bitcoinsensus
-
-👁️ 2K • 👍 205 • 💬 61 • ⏱️ 29:02 • 5h ago
-
----
-
-**[BITCOIN HOLDERS: MY IMPORTANT MESSAGE!](https://www.youtube.com/watch?v=iBFOmxCN24o)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
-
-📺 Crypto Kid
-
-👁️ 6K • 👍 339 • 💬 119 • ⏱️ 13:24 • 20h ago
+👁️ 41K • 👍 2K • 💬 277 • ⏱️ 11:16 • 8h ago
 
 ---
 
@@ -407,7 +367,47 @@ Trump and Bitcoin a mixed bag, but he has made millions on crypto! Best Crypto T
 
 📺 Lark Davis
 
-👁️ 11K • 👍 736 • 💬 210 • ⏱️ 11:45 • 9h ago
+👁️ 14K • 👍 845 • 💬 250 • ⏱️ 11:45 • 9h ago
+
+---
+
+**[URGENT BITCOIN NOW!  WATCH BEFORE MONDAY!](https://www.youtube.com/watch?v=LAHVTO8cdeo)**
+
+DM me the word "ACCESS" on Telegram to join my group for 2 months FREE: https://t.me/AndyJack_trades Blofin: ...
+
+📺 Andy Bitcoinsensus
+
+👁️ 4K • 👍 235 • 💬 63 • ⏱️ 29:02 • 6h ago
+
+---
+
+**[BITCOIN: The Last 48 Hours! (don’t miss it) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=fHmqTZYi2q0)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 2K • 👍 190 • 3h ago
+
+---
+
+**[Bitcoin Holders suddenly have a MAJOR PROBLEM](https://www.youtube.com/watch?v=SwNLNppPHl8)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ Bitunix (no kyc, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 68K • 👍 3K • 💬 263 • ⏱️ 9:14 • 1d ago
+
+---
+
+**[The $900 Billion Supreme Court &#39;Rug Pull&#39; That Could Send Bitcoin Parabolic!](https://www.youtube.com/watch?v=C3sX3NIN39Y)**
+
+billion just got ripped out of the economy while GDP misses and inflation creeps back. The Supreme Court ruling on tariffs, weak ...
+
+📺 Simply Bitcoin
+
+👁️ 32K • 👍 2K • 💬 153 • ⏱️ 12:39 • 1d ago
 
 ---
 

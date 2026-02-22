@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T20:28:46.747226+00:00'
+updated: '2026-02-22T20:53:52.452470+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- social
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 20:28 UTC  
+**Last Updated:** February 22, 2026 at 20:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,943.65
+### $1,943.45
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.5%  
-**7d:** -2.6%  
-**30d:** -34.1%  
-**90d:** -34.3%  
-**1y:** -31.0%  
+**24h:** -2.0%  
+**7d:** -2.8%  
+**30d:** -34.2%  
+**90d:** -34.4%  
+**1y:** -31.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $234.17B
+**Market Cap:** $234.66B
 Rank #2
 
 **Circulating Supply:** 120,692,364 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.8%
+-60.7%
 
 **All-Time Low:** $0.43
-+448067.2%
++448487.6%
 
 ---
 
@@ -156,7 +156,7 @@ Justin Drake dives deep into Lean Ethereum In this episode (which is the first i
 
 FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
 
-The Block • 1d ago
+The Block • 2d ago
 
 ---
 
@@ -168,11 +168,11 @@ CoinDesk • 1d ago
 
 ---
 
-**['Ethereum Is Going Hard': Vitalik Buterin Backs Censorship Resistance Upgrade](https://decrypt.co/358792/ethereum-going-hard-vitalik-buterin-backs-censorship-resistance-upgrade)**
+**[Vitalik Buterin Sells $7 Million in Ethereum as ETH Price Sinks 30%](https://finance.yahoo.com/news/vitalik-buterin-sells-7-million-113000164.html)**
 
-Ethereum developers scheduled a controversial upgrade for later this year. Buterin said it reinforces the network’s cypherpunk principles.
+Ethereum co-founder Vitalik Buterin is rapidly liquidating millions of dollars worth of his tokens into a declining market.
 
-Decrypt • 1d ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -181,6 +181,14 @@ Decrypt • 1d ago
 BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
 
 Yahoo Finance • 2d ago
+
+---
+
+**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+
+At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+
+Decrypt • 1d ago
 
 ---
 
@@ -200,20 +208,6 @@ Nasdaq • 2d ago
 
 ---
 
-**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
-
-At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
-
-Decrypt • 1d ago
-
----
-
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfA05iUkJnC_Lx3Vjs3kJRbIGKQ_MgnkHRHEudJgwOeq8gGgq-evfrt&gaa_ts=699b60a5&gaa_sig=XTf16uxH4UYn611a-4pMOpN2sJgBScBcBg2hq95IXQfPQBIlRyfPRCKOfVgd8l1TCrH683aY52iuwtkXPAL_VA%3D%3D)**
-
-Barron's • 2d ago
-
----
-
 **[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
 
 Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
@@ -222,11 +216,17 @@ TradingView • 22h ago
 
 ---
 
+**[Ethereum ETF Blink, Not Breakdown: Fidelity’s FETH Books a $11.6 Million Outflow](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-blink-not-breakdown-fidelitys-feth-books-a-11-6-million-outflow)**
+
+TipRanks • 3h ago
+
+---
+
 **[Ethereum Analysis Shows Order Flow Divergence: Institutions Bullish While Retails Bearish](https://investinglive.com/Cryptocurrency/ethereum-order-flow-divergence-institutions-turn-net-long-while-retail-leans-bearish-20260222/)**
 
 This insight shows retails are Short but institutionals are Long. Find out the details of this new information and what it means.
 
-investingLive • 2h ago
+investingLive • 3h ago
 
 ---
 
@@ -240,17 +240,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 3K • 👍 203 • 💬 55 • ⏱️ 11:38 • 11h ago
-
----
-
-**[Is Tom Lee Finally Right About the ETH Bottom? (BMNR Update)](https://www.youtube.com/watch?v=3a83V1fKPLE)**
-
-Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
-
-📺 Future Investing
-
-👁️ 13K • 👍 583 • 💬 116 • ⏱️ 8:49 • 23h ago
+👁️ 4K • 👍 224 • 💬 58 • ⏱️ 11:38 • 11h ago
 
 ---
 
@@ -260,7 +250,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 115 • 💬 7 • ⏱️ 5:45 • 8h ago
+👁️ 2K • 👍 124 • 💬 7 • ⏱️ 5:45 • 8h ago
+
+---
+
+**[Is Tom Lee Finally Right About the ETH Bottom? (BMNR Update)](https://www.youtube.com/watch?v=3a83V1fKPLE)**
+
+Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
+
+📺 Future Investing
+
+👁️ 14K • 👍 602 • 💬 118 • ⏱️ 8:49 • 23h ago
 
 ---
 
@@ -270,7 +270,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 613 • 💬 41 • ⏱️ 18:46 • 1d ago
+👁️ 16K • 👍 619 • 💬 42 • ⏱️ 18:46 • 1d ago
+
+---
+
+**[BITCOIN: The Last 48 Hours! (don’t miss it) - BTC, ETH, XRP Price Prediction Today](https://www.youtube.com/watch?v=fHmqTZYi2q0)**
+
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
+
+📺 BitcoinHyper
+
+👁️ 2K • 👍 190 • 3h ago
 
 ---
 
@@ -280,17 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 195 • 👍 13 • 💬 1 • ⏱️ 4:51 • 8h ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UcdnChwDGQ0)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 FacePaintcom
-
-👁️ 7K • 👍 3K • 19h ago
+👁️ 246 • 👍 14 • 💬 1 • ⏱️ 4:51 • 9h ago
 
 ---
 
@@ -300,7 +300,7 @@ Everybody is looking at Bitcoin to lead the market, but I think it will be Ether
 
 📺 Michaël van de Poppe
 
-👁️ 561 • 👍 9 • 💬 3 • ⏱️ 0:13 • 8h ago
+👁️ 808 • 👍 10 • 💬 4 • ⏱️ 0:13 • 8h ago
 
 ---
 
@@ -314,23 +314,23 @@ Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take o
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=vsuPNo-e4f4)**
+**[Blackrock Ethereum ETF SUBMITTED (Major Price Reaction)](https://www.youtube.com/watch?v=IDB13BcKlLE)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+Nick Valdez looks at the VERY bullish news regarding Blackrock and Ethereum. But the charts aren't as bullish! Will the bulls or ...
 
-📺 Manfred Thönicke
+📺 Discover Crypto
 
-👁️ 4K • 👍 1K • 3h ago
+👁️ 6K • 👍 144 • 💬 35 • ⏱️ 4:54 • 2d ago
 
 ---
 
-**[BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Se2cgqhVFOw)**
+**[Krypto-Bärenmarkt vorbei? 🤔 JETZT wird’s wichtig! Bitcoin, Ethereum, Solana, XRP, SUI | Analyse](https://www.youtube.com/watch?v=oJZjP1krvpQ)**
 
-BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+Werde Teil unserer Community & bring dein Trading auf das nächste Level!* Kostenlos Discord beitreten: ...
 
-📺 Crypto World
+📺 TradingKompass
 
-👁️ 9K • 👍 328 • 💬 96 • ⏱️ 14:32 • 20h ago
+👁️ 2K • 👍 294 • 💬 28 • ⏱️ 22:21 • 6h ago
 
 ---
 

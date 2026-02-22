@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T20:28:46.732976+00:00'
+updated: '2026-02-22T20:53:52.438030+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- news
 - social
 - videos
-- news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 20:28 UTC  
+**Last Updated:** February 22, 2026 at 20:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,19 +43,19 @@ AI news, discussions, and developments
 
 ---
 
+**[‘An AlphaFold 4’ – scientists marvel at DeepMind drug spin-off’s exclusive new AI](https://www.reddit.com/r/artificial/comments/1rbrsl8/an_alphafold_4_scientists_marvel_at_deepmind_drug/)**
+
+Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
+
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 3h ago
+
+---
+
 **[Who is OpenClaw creator Peter Steinberger? The millennial developer caught the attention of Sam Altman and Mark Zuckerberg](https://www.reddit.com/r/artificial/comments/1rbpkm5/who_is_openclaw_creator_peter_steinberger_the/)**
 
 Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
 
 🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 4h ago
-
----
-
-**[‘An AlphaFold 4’ – scientists marvel at DeepMind drug spin-off’s exclusive new AI](https://www.reddit.com/r/artificial/comments/1rbrsl8/an_alphafold_4_scientists_marvel_at_deepmind_drug/)**
-
-Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
-
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 2h ago
 
 ---
 
@@ -71,7 +71,7 @@ His case highlights a broader issue as U.S.-based AI tools block analysis of sen
 
 The open-source ollama project that makes it easy to get up and running with a variety of LLMs under Windows, macOS, and Linux is out with a new release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 17h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 18h ago
 
 ---
 
@@ -79,7 +79,7 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
 
-🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 16h ago
+🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 17h ago
 
 ---
 
@@ -119,31 +119,39 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 ## Google News: "ai"
 
-**[I’m worried my boyfriend’s use of AI is affecting his ability to think for himself | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/feb/22/worried-boyfriend-ai-affecting-ability-think-for-himself-annalisa-barbieri)**
-
-Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
-
-The Guardian • 3h ago
-
----
-
 **[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
 
 The New York Times • 1d ago
 
 ---
 
-**[India’s AI ambitions hit limits at global summit](https://www.ft.com/content/5c26f2f6-c857-407c-93fe-7f59aa88c8f4)**
+**[I’m worried my boyfriend’s use of AI is affecting his ability to think for himself | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/feb/22/worried-boyfriend-ai-affecting-ability-think-for-himself-annalisa-barbieri)**
 
-The world’s most populous country continues to struggle to find its place in an industry dominated by the US and China
+Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
 
-Financial Times • 9h ago
+The Guardian • 4h ago
 
 ---
 
-**[The Country That’s Madly in Love With AI](https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618)**
+**[The AI alarm cycle: Lots of talk, little action](https://www.aljazeera.com/video/the-listening-post/2026/2/22/the-ai-alarm-cycle-lots-of-talk-little-action)**
 
-Politico • 1d ago
+What is the point of AI alarmism if the people warning the world aren't changing course?
+
+Al Jazeera • 40m ago
+
+---
+
+**[AI could reshape white-collar jobs sooner than expected, warns Microsoft’s AI chief](https://3dvf.com/en/ai-could-reshape-white-collar-jobs-sooner-than-expected-warns-microsofts-ai-chief/)**
+
+Big Tech says it is here to empower you; its AI boss just implied it may not need you at all. If the software does the work, what exactly is left for the worker?
+
+3DVF • 1h ago
+
+---
+
+**[New AI software set to accelerate delivery of vital net-zero infrastructure](https://techxplore.com/news/2026-02-ai-software-delivery-vital-net.html)**
+
+Tech Xplore • 23m ago
 
 ---
 
@@ -151,43 +159,35 @@ Politico • 1d ago
 
 The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
 
-The Washington Post • 1h ago
+The Washington Post • 9m ago
 
 ---
 
-**[Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence](https://www.bloomberg.com/news/newsletters/2026-02-22/apple-s-ai-wearables-push-what-to-expect-from-march-4-low-end-macbook-launch)**
+**[India’s AI ambitions hit limits at global summit](https://www.ft.com/content/5c26f2f6-c857-407c-93fe-7f59aa88c8f4)**
 
-Bloomberg • 7h ago
+The world’s most populous country continues to struggle to find its place in an industry dominated by the US and China
 
----
-
-**[AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)**
-
-AI-augmented actor breached 600+ FortiGate devices in 55 countries using weak credentials and exposed ports, Amazon reports.
-
-The Hacker News • 1d ago
+Financial Times • 10h ago
 
 ---
 
-**[Pope Leo XIV tells priests not to use AI to write homilies or seek ‘likes’ on TikTok](https://www.osvnews.com/pope-leo-xiv-tells-priests-not-to-use-ai-to-write-homilies-or-seek-likes-on-tiktok/)**
+**[At A.I. Summit, India Tries to Find a Way Between the U.S. and China](https://www.nytimes.com/2026/02/21/world/asia/ai-summit-india-foreign-policy.html)**
 
-"To give a true homily is to share faith," and artificial intelligence "will never be able to share faith," the pope added.
-
-OSV News • 22h ago
+The New York Times • 1d ago
 
 ---
 
-**[Google VP warns that two types of AI startups may not survive](https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/)**
+**[India bets on AI, resilience tech for strategic autonomy](https://www.jpost.com/defense-and-tech/article-887428)**
 
-As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.
+With its record FY27 defense budget, India is doubling down on AI, autonomy, and self‑reliance, reshaping its partnership with Israel in the process
 
-TechCrunch • 1d ago
+The Jerusalem Post • 13h ago
 
 ---
 
-**[The AI productivity boom is not here (yet)](https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet)**
+**[The Country That’s Madly in Love With AI](https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618)**
 
-The Economist • 7h ago
+Politico • 1d ago
 
 ---
 
@@ -214,14 +214,6 @@ Announcement We are happy to announce that ggml.ai (the founding team of llama.c
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
 ⬆️ 527 • 💬 484 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
-
----
-
-**[AI is not a coworker, it's an exoskeleton](https://news.ycombinator.com/item?id=47078324)**
-
-Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
-
-⬆️ 514 • 💬 567 • 3d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -271,6 +263,14 @@ We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. 
 
 ---
 
+**[Pi for Excel: AI sidebar add-in for Excel](https://news.ycombinator.com/item?id=47082854)**
+
+Experimental Excel sidebar agent add-in. Multi-model. Powered by Pi. - tmustier/pi-for-excel
+
+⬆️ 107 • 💬 29 • 2d ago • [GitHub](https://github.com/tmustier/pi-for-excel)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -281,27 +281,7 @@ Slandered by one AI robot and misquoted in a news article by another, US-based s
 
 📺 FRANCE 24 English
 
-👁️ 18K • 👍 985 • 💬 191 • ⏱️ 5:50 • 5h ago
-
----
-
-**[iShowSpeed Pretends To Be An AI On Omegle 😂](https://www.youtube.com/watch?v=TzYlww29Ac8)**
-
-IM LIVE EVERY DAY- https://www.youtube.com/channel/UCWsD... Check Out My Second Channel!
-
-📺 Speedy Boykins
-
-👁️ 10K • 👍 373 • 💬 20 • ⏱️ 3:11 • 13h ago
-
----
-
-**[I&#39;m Sick Of This AI SH*T](https://www.youtube.com/watch?v=7XGct4rbYfI)**
-
-In this episode I dive into the new wave of AI music released on music streaming platforms, when are they going to do something ...
-
-📺 Rick Beato
-
-👁️ 698K • 👍 47K • 💬 11K • ⏱️ 6:14 • 3d ago
+👁️ 54K • 👍 1K • 💬 276 • ⏱️ 5:50 • 6h ago
 
 ---
 
@@ -311,17 +291,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 118K • 👍 8K • 💬 2K • ⏱️ 18:44 • 1d ago
-
----
-
-**[Google Just Dropped The Smartest AI In The World: Gemini 3.1](https://www.youtube.com/watch?v=XMJA3_hv9aY)**
-
-Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a model designed for situations where simple ...
-
-📺 AI Revolution
-
-👁️ 31K • 👍 1K • 💬 62 • ⏱️ 10:44 • 21h ago
+👁️ 123K • 👍 8K • 💬 2K • ⏱️ 18:44 • 1d ago
 
 ---
 
@@ -331,7 +301,37 @@ Former Congressman Brad Carson, the President of Americans for Responsible Innov
 
 📺 Forbes Breaking News
 
-👁️ 11K • 👍 341 • 💬 139 • ⏱️ 20:25 • 1d ago
+👁️ 11K • 👍 357 • 💬 148 • ⏱️ 20:25 • 1d ago
+
+---
+
+**[Google Just Dropped The Smartest AI In The World: Gemini 3.1](https://www.youtube.com/watch?v=XMJA3_hv9aY)**
+
+Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a model designed for situations where simple ...
+
+📺 AI Revolution
+
+👁️ 34K • 👍 1K • 💬 65 • ⏱️ 10:44 • 21h ago
+
+---
+
+**[20 Most Influential Romanov Dynasty Figures Brought to Life Using AI | Peter the Great, Nikolai II](https://www.youtube.com/watch?v=3jgOL5L_1u4)**
+
+20 Most Influential Romanov Dynasty Figures Brought to Life Using AI Witness the rise and fall of Imperial Russia as 20 of the ...
+
+📺 Relax History AI
+
+👁️ 140 • 👍 17 • 💬 2 • ⏱️ 25:13 • 2h ago
+
+---
+
+**[Best LONGEST FREE AI Video Generator of 2026 | Make 15-Minute Videos For FREE](https://www.youtube.com/watch?v=4kccWCOs3BQ)**
+
+Best LONGEST FREE AI Video Generator of 2026 - Make 15-Minute Videos For FREE 1. Tool Used in The Video ...
+
+📺 AI Explorer 
+
+👁️ 2K • 👍 95 • 💬 9 • ⏱️ 4:16 • 13h ago
 
 ---
 
@@ -341,17 +341,17 @@ Go to https://groundnews.com/ai to stay fully informed about U.S. politics, AI, 
 
 📺 I Ask AI
 
-👁️ 33K • 👍 2K • 💬 314 • ⏱️ 14:18 • 1d ago
+👁️ 35K • 👍 2K • 💬 326 • ⏱️ 14:18 • 1d ago
 
 ---
 
-**[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
+**[iShowSpeed Pretends To Be An AI On Omegle 😂](https://www.youtube.com/watch?v=TzYlww29Ac8)**
 
-Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
+IM LIVE EVERY DAY- https://www.youtube.com/channel/UCWsD... Check Out My Second Channel!
 
-📺 AI Revolution
+📺 Speedy Boykins
 
-👁️ 67K • 👍 1K • 💬 61 • ⏱️ 12:14 • 2d ago
+👁️ 11K • 👍 395 • 💬 21 • ⏱️ 3:11 • 14h ago
 
 ---
 
@@ -361,17 +361,17 @@ Grab the free Claude Cowork Stack from HubSpot: https://clickhubspot.com/2077f9 
 
 📺 Skill Leap AI
 
-👁️ 32K • 👍 767 • 💬 32 • ⏱️ 21:02 • 1d ago
+👁️ 34K • 👍 784 • 💬 33 • ⏱️ 21:02 • 1d ago
 
 ---
 
-**[When You&#39;re Training the AI That&#39;s Replacing You](https://www.youtube.com/watch?v=U9OnLgSwVc4)**
+**[Google Just Dropped LYRIA 3: New AI Feature No One Expected](https://www.youtube.com/watch?v=UKRz33WdaH0)**
 
-He's just trying to help. nothing to worry about. Upcoming Shows: San Francisco - Feb 26 Sacramento - Feb 27/28 Philadelphia ...
+Google just introduced a new wave of AI systems inside Gemini that go far beyond simple generation. Alongside the release of ...
 
-📺 Ryan Long
+📺 AI Revolution
 
-👁️ 50K • 👍 5K • 💬 406 • ⏱️ 5:15 • 1d ago
+👁️ 69K • 👍 2K • 💬 61 • ⏱️ 12:14 • 2d ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 217,901 • ❤️ 873 • 2d ago
+⬇️ 217,901 • ❤️ 880 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,971 • ❤️ 2,136 • 7d ago
+⬇️ 539,971 • ❤️ 2,138 • 7d ago
 
 ---
 
@@ -411,7 +411,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 707 • 18h ago
+⬇️ 153,566 • ❤️ 711 • 19h ago
 
 ---
 
@@ -423,7 +423,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 177,505 • ❤️ 1,425 • 9d ago
+⬇️ 177,505 • ❤️ 1,427 • 9d ago
 
 ---
 
@@ -435,7 +435,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 190,549 • ❤️ 853 • 6d ago
+⬇️ 190,549 • ❤️ 854 • 6d ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 982,327 • ❤️ 1,140 • 24d ago
+⬇️ 982,327 • ❤️ 1,141 • 24d ago
 
 ---
 
@@ -459,7 +459,7 @@ Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta
 
 `image-text-to-text` `396.3B`
 
-⬇️ 79,371 • ❤️ 178 • 5d ago
+⬇️ 79,371 • ❤️ 179 • 5d ago
 
 ---
 
@@ -471,7 +471,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 155 • 2d ago
+⬇️ 0 • ❤️ 156 • 2d ago
 
 ---
 
@@ -483,19 +483,19 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 2,430 • ❤️ 246 • 8d ago
+⬇️ 2,430 • ❤️ 248 • 8d ago
 
 ---
 
-**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+**[Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF](https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF)**
 
-*Moonshot AI*
+*TeichAI*
 
-Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and tool use grounded in visual inputs. Its key capabilities include coding from visual specifications and agent swarm execution for complex task decomposition, making it suitable for advanced visual reasoning and autonomous agent applications.
+A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoning data for enhanced coding, science, and general-purpose text generation tasks.
 
-`image-text-to-text`
+`text-generation` `14.8B`
 
-⬇️ 1,127,686 • ❤️ 2,075 • 17d ago
+⬇️ 14,728 • ❤️ 143 • 2d ago
 
 ---
 
@@ -614,21 +614,21 @@ BitDance is a scalable autoregressive image generator that uses binary visual to
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 43 • 💬 2 • ⭐ 47,761 • 10mo ago
+▲ 43 • 💬 2 • ⭐ 47,783 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
-**[OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation](https://huggingface.co/papers/2410.17799)**
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
-*Qinglin Zhang, Luyao Cheng, Chong Deng et al. (9 authors)*
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
 
-A novel GPT-based model, OmniFlatten, enables real-time natural full-duplex spoken dialogue through a multi-stage post-training technique that integrates speech and text without altering the original model's architecture.
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-▲ 10 • 💬 1 • ⭐ 53,587 • 16mo ago
+▲ 26 • 💬 4 • ⭐ 17,786 • 3mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2410.17799) • [💻 code](https://github.com/karpathy/nanogpt)
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -652,7 +652,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 10.0k • 🔱 1.1k • 22h ago
+⭐ 10.1k • 🔱 1.1k • 23h ago
 
 ---
 
@@ -670,7 +670,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.0k • 🔱 612 • 1d ago
+⭐ 5.1k • 🔱 612 • 1d ago
 
 ---
 
@@ -690,7 +690,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 327 • 6h ago
+⭐ 3.3k • 🔱 327 • 7h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 182 • 5h ago
+⭐ 2.7k • 🔱 183 • 13m ago
 
 ---
 
@@ -720,7 +720,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.4k • 🔱 120 • 1d ago
+⭐ 2.5k • 🔱 120 • 1d ago
 
 ---
 

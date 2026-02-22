@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T20:28:46.750429+00:00'
+updated: '2026-02-22T20:53:52.455716+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 20:28 UTC  
+**Last Updated:** February 22, 2026 at 20:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-10h ago
+11h ago
 
 ---
 
@@ -76,31 +76,29 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 ---
 
+**[CC student into robotics/aerospace needing serious project ideas + career advice](https://www.reddit.com/r/robotics/comments/1rbxawr/cc_student_into_roboticsaerospace_needing_serious/)**
+
+1m ago
+
+---
+
 **[Fighting back paid annotation services](https://www.reddit.com/r/robotics/comments/1rbqy5k/fighting_back_paid_annotation_services/)**
 
 3h ago
 
 ---
 
-**[Delivery drones in Shenzhen](https://www.reddit.com/r/robotics/comments/1rapmtd/delivery_drones_in_shenzhen/)**
+**[[Open Source] Bloom: tiny DSL → C++ for on-drone tile anomaly maps](https://www.reddit.com/r/robotics/comments/1rbvjdp/open_source_bloom_tiny_dsl_c_for_ondrone_tile/)**
 
-This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
+I’m making language for drones, a tiny DSL that compiles a simple .bloom spec into C++17 for onboard-friendly tile analytics / anomaly detection. Current MVP: - .bloom → bloomc.py → generated out.cpp → out.exe - deterministic seeded test frames (no camera required) - per-tile mean/variance + anomaly detection (var OR brightness) - exports out.json (mean_map / var_map / anom_map) Quickstart (Windows/MSYS2): - .\scripts\build.ps1 any feedback for me ? :) Repo: https://github.com/Gelukkig95/Bloom-uav-dsl
 
-1d ago
-
----
-
-**[FFRT-737 | Designed to Elevate Security Operations with a Patrol Robot](https://www.reddit.com/r/robotics/comments/1rbunma/ffrt737_designed_to_elevate_security_operations/)**
-
-FRT-737 Designed to Elevate Security Operations with a Patrol Robot delivering AI-powered threat detection, autonomous patrolling, and 24/7 security monitoring.
-
-🔗 [kodyrobots](https://kodyrobots.com/patrol-robot-frt-737/) • 1h ago
+1h ago
 
 ---
 
-**[MIT Mini-Cheetah Build](https://www.reddit.com/r/robotics/comments/1rbugsq/mit_minicheetah_build/)**
+**[[Open Source] I am making computer language for drones , Bloom: a tiny DSL that compiles to heapless C++ for on-drone tile anomaly maps](https://www.reddit.com/r/robotics/comments/1rbvi5u/open_source_i_am_making_computer_language_for/)**
 
-Hello, I am in the process of building an MITMini-Cheetah type build for a personal project. I planned on using their CAD for the legs as I was able to find a full model for it. However I am having a hard time with the two pulleys in the leg. I can’t seem to find anything online about how to acquire these. Do they need to be just custom CNC, or are they readily available online. If they need to be custom, I have the model for them in Fusion. How would I go about doing that without breaking the bank?
+I’m building Bloom, a tiny DSL that compiles a simple .bloom spec into C++17 for onboard-friendly tile analytics / anomaly detection. Current MVP: - .bloom → bloomc.py → generated out.cpp → out.exe - deterministic seeded test frames (no camera required) - per-tile mean/variance + anomaly detection (var OR brightness) - exports out.json (mean_map / var_map / anom_map) Quickstart (Windows/MSYS2): - .\scripts\build.ps1 any feedback for me ? :) Repo: https://github.com/Gelukkig95/Bloom-uav-dsl
 
 1h ago
 
@@ -118,11 +116,11 @@ CNBC • 2d ago
 
 ---
 
-**[Toyota contracts seven Agility humanoid robots for Canadian factory](https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/)**
+**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
 
-The robots will be unloading totes full of auto parts from an automated warehouse tugger.
+OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
-TechCrunch • 2d ago
+South China Morning Post • 10h ago
 
 ---
 
@@ -140,14 +138,6 @@ umlconnector.com • 10h ago
 
 ---
 
-**[Hinton robotics teams taking their skills to state tournament](https://www.nwestiowa.com/sentinel/hinton-robotics-teams-taking-their-skills-to-state-tournament/article_b7ee24eb-8cc6-4c7e-8def-c131c0dfbeb3.html)**
-
-HINTON- Two robotics clubs from Hinton High School have qualified to compete in a statewide competition.
-
-The N'West Iowa REVIEW • 1h ago
-
----
-
 **[Hawaii robotics team qualifies for World Championships](https://www.hawaiinewsnow.com/2026/02/19/hawaii-robotics-team-qualifies-world-championships/)**
 
 Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
@@ -156,11 +146,19 @@ Hawaii News Now • 3d ago
 
 ---
 
+**[Hinton robotics teams taking their skills to state tournament](https://www.nwestiowa.com/sentinel/hinton-robotics-teams-taking-their-skills-to-state-tournament/article_b7ee24eb-8cc6-4c7e-8def-c131c0dfbeb3.html)**
+
+HINTON- Two robotics clubs from Hinton High School have qualified to compete in a statewide competition.
+
+The N'West Iowa REVIEW • 2h ago
+
+---
+
 **[Kraken Robotics: Attractive Business, Challenging Valuation (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4873255-kraken-robotics-attractive-business-challenging-valuation)**
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Seeking Alpha • 8h ago
+Seeking Alpha • 9h ago
 
 ---
 
@@ -170,19 +168,19 @@ Forbes • 3d ago
 
 ---
 
-**[Integrated motion control enables sophisticated robot motion](https://www.therobotreport.com/integrated-motion-control-enables-sophisticated-robot-motion/)**
-
-Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
-
-The Robot Report • 6h ago
-
----
-
 **[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
 
 Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
 
 Automotive News • 3d ago
+
+---
+
+**[Integrated motion control enables sophisticated robot motion](https://www.therobotreport.com/integrated-motion-control-enables-sophisticated-robot-motion/)**
+
+Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
+
+The Robot Report • 7h ago
 
 ---
 
@@ -196,7 +194,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 17K • 👍 367 • 💬 99 • ⏱️ 8:38 • 21h ago
+👁️ 19K • 👍 378 • 💬 102 • ⏱️ 8:38 • 21h ago
 
 ---
 
@@ -206,7 +204,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 49K • 👍 306 • 💬 180 • ⏱️ 2:14 • 1d ago
+👁️ 56K • 👍 325 • 💬 187 • ⏱️ 2:14 • 1d ago
 
 ---
 
@@ -216,7 +214,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 61K • 👍 3K • 💬 781 • ⏱️ 14:51 • 2d ago
+👁️ 62K • 👍 3K • 💬 785 • ⏱️ 14:51 • 2d ago
 
 ---
 
@@ -226,27 +224,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 273K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
-
----
-
-**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
-
-A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
-
-📺 Dr Ben Miles
-
-👁️ 1.3M • 👍 96K • 💬 3K • ⏱️ 1:27 • 3d ago
-
----
-
-**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
-
-Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
-
-📺 New York Post
-
-👁️ 12K • 👍 233 • 💬 245 • ⏱️ 2:30 • 1d ago
+👁️ 277K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
 
 ---
 
@@ -260,23 +238,13 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 ---
 
-**[Chinese Combat Robot &quot;Centaur&quot; Shocked the World at Lunar New Year Gala](https://www.youtube.com/watch?v=wQBm60t5P5o)**
+**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
 
-Chinese combat robots stunned global audiences as their appearance at a major Lunar New Year celebration highlighted how far ...
+A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
 
-📺 Carros Show
+📺 Dr Ben Miles
 
-👁️ 30K • 👍 791 • 💬 155 • ⏱️ 10:12 • 3d ago
-
----
-
-**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
-
-Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
-
-📺 The China Show
-
-👁️ 164K • 👍 10K • 💬 1K • ⏱️ 2:10:35 • 1d ago
+👁️ 1.3M • 👍 97K • 💬 3K • ⏱️ 1:27 • 3d ago
 
 ---
 
@@ -286,7 +254,37 @@ By combining decades of real-world data with advanced AI, simulation and digital
 
 📺 NVIDIA
 
-👁️ 33K • 👍 1K • ⏱️ 2:51 • 3d ago
+👁️ 33K • 👍 1K • ⏱️ 2:51 • 4d ago
+
+---
+
+**[The Problem With Humanoid Robots](https://www.youtube.com/watch?v=EPQI0qzt7uw)**
+
+Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
+
+📺 Wall Street Millennial
+
+👁️ 52K • 👍 2K • 💬 573 • ⏱️ 13:31 • 2d ago
+
+---
+
+**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
+
+China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
+
+📺 AI Revolution
+
+👁️ 62K • 👍 1K • 💬 161 • ⏱️ 12:43 • 6d ago
+
+---
+
+**[Chinese Combat Robot &quot;Centaur&quot; Shocked the World at Lunar New Year Gala](https://www.youtube.com/watch?v=wQBm60t5P5o)**
+
+Chinese combat robots stunned global audiences as their appearance at a major Lunar New Year celebration highlighted how far ...
+
+📺 Carros Show
+
+👁️ 31K • 👍 793 • 💬 156 • ⏱️ 10:12 • 3d ago
 
 ---
 
