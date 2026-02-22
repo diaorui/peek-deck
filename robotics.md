@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T17:51:50.258601+00:00'
+updated: '2026-02-22T18:37:31.128612+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 17:51 UTC  
+**Last Updated:** February 22, 2026 at 18:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -46,17 +46,17 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 ---
 
-**[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
-
-1d ago
-
----
-
 **[Robotic (Arm) failed Project](https://www.reddit.com/r/robotics/comments/1rbi5y1/robotic_arm_failed_project/)**
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-7h ago
+8h ago
+
+---
+
+**[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
+
+1d ago
 
 ---
 
@@ -64,7 +64,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-22h ago
+23h ago
 
 ---
 
@@ -72,13 +72,13 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-2h ago
+3h ago
 
 ---
 
 **[Fighting back paid annotation services](https://www.reddit.com/r/robotics/comments/1rbqy5k/fighting_back_paid_annotation_services/)**
 
-54m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
 
-15h ago
+16h ago
 
 ---
 
@@ -102,7 +102,7 @@ Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. 
 
 I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
 
-15h ago
+16h ago
 
 ---
 
@@ -118,11 +118,11 @@ CNBC • 2d ago
 
 ---
 
-**[Integrated motion control enables sophisticated robot motion](https://www.therobotreport.com/integrated-motion-control-enables-sophisticated-robot-motion/)**
+**[Toyota contracts seven Agility humanoid robots for Canadian factory](https://techcrunch.com/2026/02/19/toyota-hires-seven-agility-humanoid-robots-for-canadian-factory/)**
 
-Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
+The robots will be unloading totes full of auto parts from an automated warehouse tugger.
 
-The Robot Report • 4h ago
+TechCrunch • 2d ago
 
 ---
 
@@ -130,13 +130,13 @@ The Robot Report • 4h ago
 
 For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
 
-fox23.com • 4h ago
+fox23.com • 5h ago
 
 ---
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 7h ago
+umlconnector.com • 8h ago
 
 ---
 
@@ -144,7 +144,7 @@ umlconnector.com • 7h ago
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Seeking Alpha • 6h ago
+Seeking Alpha • 7h ago
 
 ---
 
@@ -162,27 +162,27 @@ Forbes • 3d ago
 
 ---
 
+**[Integrated motion control enables sophisticated robot motion](https://www.therobotreport.com/integrated-motion-control-enables-sophisticated-robot-motion/)**
+
+Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
+
+The Robot Report • 5h ago
+
+---
+
 **[Best Ideas Club: This robotics stock could surge as it dominates AI and healthcare](https://www.openingbelldailynews.com/p/best-ideas-club-investors-hulick-robotics-healthcare-ai-asset-manager-portfolio-strategy)**
 
 Veteran investor Tom Hulick's highest-conviction idea for the next 12 months.
 
-Opening Bell Daily • 6h ago
+Opening Bell Daily • 7h ago
 
 ---
 
-**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
+**[Intuitive Surgical: This Robotic-Surgery Leader Could Keep Compounding for Another Decade](https://www.fool.com/investing/2026/02/22/intuitive-surgical-could-keep-compounding-for/)**
 
-OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
+The company's years of beating the market aren't over yet.
 
-South China Morning Post • 7h ago
-
----
-
-**[West Des Moines robotics team hosts preseason scrimmage, looking forward to competition](https://www.weareiowa.com/video/news/community/west-des-moines-robotics-team-hosts-preseason-scrimmage-looking-forward-to-competition/524-2e10ae22-f433-44f8-8c29-0c852167d14c)**
-
-There were teams from across Iowa and even one from Nebraska that took part in the scrimmage on Saturday.
-
-weareiowa.com • 17h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -196,7 +196,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 16K • 👍 346 • 💬 89 • ⏱️ 8:38 • 18h ago
+👁️ 17K • 👍 367 • 💬 99 • ⏱️ 8:38 • 19h ago
 
 ---
 
@@ -206,7 +206,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 43K • 👍 287 • 💬 168 • ⏱️ 2:14 • 1d ago
+👁️ 49K • 👍 306 • 💬 180 • ⏱️ 2:14 • 1d ago
 
 ---
 
@@ -216,7 +216,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 60K • 👍 3K • 💬 768 • ⏱️ 14:51 • 2d ago
+👁️ 61K • 👍 3K • 💬 781 • ⏱️ 14:51 • 2d ago
 
 ---
 
@@ -226,17 +226,27 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 270K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
+👁️ 273K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
 
 ---
 
-**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
 
-Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
 
-📺 NDTV
+📺 Dr Ben Miles
 
-👁️ 28K • 👍 114 • 💬 216 • ⏱️ 5:02 • 4d ago
+👁️ 1.3M • 👍 96K • 💬 3K • ⏱️ 1:27 • 3d ago
+
+---
+
+**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+
+Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+
+📺 New York Post
+
+👁️ 12K • 👍 233 • 💬 245 • ⏱️ 2:30 • 1d ago
 
 ---
 
@@ -250,33 +260,23 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 ---
 
-**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
-
-A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
-
-📺 Dr Ben Miles
-
-👁️ 1.3M • 👍 94K • 💬 3K • ⏱️ 1:27 • 3d ago
-
----
-
-**[China New AI Robots Gain HUMAN SENSES (Touch, Vision, Smell And Memory)](https://www.youtube.com/watch?v=l-CmzOLo34g)**
-
-China just unveiled a new wave of physical AI that pushes humanoid robots far beyond demos. Tiangong 3.0 arrives as a full-size ...
-
-📺 AI Revolution
-
-👁️ 62K • 👍 1K • 💬 161 • ⏱️ 12:43 • 6d ago
-
----
-
 **[Chinese Combat Robot &quot;Centaur&quot; Shocked the World at Lunar New Year Gala](https://www.youtube.com/watch?v=wQBm60t5P5o)**
 
 Chinese combat robots stunned global audiences as their appearance at a major Lunar New Year celebration highlighted how far ...
 
 📺 Carros Show
 
-👁️ 30K • 👍 789 • 💬 152 • ⏱️ 10:12 • 2d ago
+👁️ 30K • 👍 791 • 💬 155 • ⏱️ 10:12 • 2d ago
+
+---
+
+**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
+
+Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
+
+📺 The China Show
+
+👁️ 164K • 👍 10K • 💬 1K • ⏱️ 2:10:35 • 1d ago
 
 ---
 

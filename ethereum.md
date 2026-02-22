@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T17:51:50.255308+00:00'
+updated: '2026-02-22T18:37:31.125297+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
+- social
 - videos
 - news
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 17:51 UTC  
+**Last Updated:** February 22, 2026 at 18:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,952.88
+### $1,943.65
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** -2.5%  
-**30d:** -34.0%  
-**90d:** -34.2%  
-**1y:** -30.9%  
+**24h:** -2.4%  
+**7d:** -2.9%  
+**30d:** -34.3%  
+**90d:** -34.4%  
+**1y:** -31.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $235.15B
+**Market Cap:** $234.17B
 Rank #2
 
 **Circulating Supply:** 120,692,364 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.6%
+-60.8%
 
 **All-Time Low:** $0.43
-+449817.9%
++448067.2%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I was looking into staking, I invest on robinhood because it is easy and I do not own much Crypto. How often does slashing occur in staking? I was going to start staking the eth I have, but started looking into it and saw you could potentially lose all the eth you stake if slashing occurs. How often does it happen?
 
-15h ago
+16h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 1d ago
 
 The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
@@ -176,11 +176,11 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
 
-At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+Key PointsBitcoin could struggle to retain its reputation as "digital gold".
 
-Decrypt • 1d ago
+Nasdaq • 2d ago
 
 ---
 
@@ -192,35 +192,41 @@ Fortune • 2d ago
 
 ---
 
-**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
+**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
 
-Key PointsBitcoin could struggle to retain its reputation as "digital gold".
+At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
 
-Nasdaq • 2d ago
+Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqdDFMyCG310CtFBhisyjW1Vi2LdSyRj9BnWf1OnTtP8NuTo_-1RlR2A&gaa_ts=699b3fcd&gaa_sig=IKWqdAYfxX4gHz4UrzgXHbbksUfZBTHrWk9DozxBfXZ1UHL5zmn3kSB3IMjY_AMpvo1jxPwX7kgAW8yebpHMEw%3D%3D)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqexYuSjIyMeJkvZJrDXSynLFbFzEl-809PgMLBTBuv8_uBZPFHWHtal&gaa_ts=699b5056&gaa_sig=-Ta-wQaEk2FARyr6XodDN7iTUFr7bXH2hztC7-BlxTXKfcPYVz2PCyzFCunIGh1QfEAJjCrw0aGjrEY-ZYr1gA%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Vitalik Buterin Resumes ETH Sales as Ethereum Prices Struggle Below $2K](https://www.binance.com/en/square/post/294348990119137)**
+**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
 
-Binance • 8h ago
+Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
 
----
-
-**[Key facts: Ethereum Price Drops Below $2,800; MVRV at -14.3%; Accumulation Trends Noted](https://www.tradingview.com/news/tradingview:56d73a29098f3:0-key-facts-ethereum-price-drops-below-2-800-mvrv-at-14-3-accumulation-trends-noted/)**
-
-TradingView • 17h ago
+TradingView • 20h ago
 
 ---
 
-**[Ethereum Jitters: Fidelity’s FETH ETF Sees $11.6 Million Walk Out After Steep Token Slide](https://www.tipranks.com/news/cryptocurrencies/ethereum-jitters-fidelitys-feth-etf-sees-11-6-million-walk-out-after-steep-token-slide)**
+**[ETHB: Everything We Know About BlackRock's New Ethereum Staking ETF](https://info.arkm.com/research/ethb-everything-we-know-about-blackrocks-new-ethereum-staking-etf)**
 
-TipRanks • 1d ago
+BlackRock is undergoing preparations to launch its much-anticipated Ethereum staking ETF: ETHB. Here's everything we know so far
+
+Arkham | Research • 2d ago
+
+---
+
+**[Every Ethereum Whale Cohort Now Underwater: ETH Capitulation Marking The Final Bottom? | Bitcoinist.com](https://bitcoinist.com/every-ethereum-whale-underwater-eth-capitulation/)**
+
+Ethereum struggles below $2K as whale profit ratios turn negative, signaling rising stress and fragile market sentiment amid volatility
+
+Bitcoinist.com • 1d ago
 
 ---
 
@@ -234,7 +240,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 2K • 👍 182 • 💬 44 • ⏱️ 11:38 • 8h ago
+👁️ 3K • 👍 203 • 💬 55 • ⏱️ 11:38 • 9h ago
 
 ---
 
@@ -244,7 +250,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 12K • 👍 540 • 💬 116 • ⏱️ 8:49 • 20h ago
+👁️ 13K • 👍 583 • 💬 116 • ⏱️ 8:49 • 21h ago
 
 ---
 
@@ -254,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 99 • 💬 7 • ⏱️ 5:45 • 5h ago
+👁️ 2K • 👍 115 • 💬 7 • ⏱️ 5:45 • 6h ago
 
 ---
 
@@ -264,17 +270,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 15K • 👍 605 • 💬 38 • ⏱️ 18:46 • 1d ago
-
----
-
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UcdnChwDGQ0)**
-
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
-
-📺 FacePaintcom
-
-👁️ 13K • 👍 3K • 16h ago
+👁️ 15K • 👍 613 • 💬 41 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -284,7 +280,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 145 • 👍 10 • 💬 17 • ⏱️ 4:51 • 6h ago
+👁️ 195 • 👍 13 • 💬 1 • ⏱️ 4:51 • 7h ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UcdnChwDGQ0)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 FacePaintcom
+
+👁️ 7K • 👍 3K • 17h ago
 
 ---
 
@@ -294,7 +300,7 @@ Everybody is looking at Bitcoin to lead the market, but I think it will be Ether
 
 📺 Michaël van de Poppe
 
-👁️ 391 • 👍 6 • 💬 1 • ⏱️ 0:13 • 5h ago
+👁️ 561 • 👍 9 • 💬 3 • ⏱️ 0:13 • 6h ago
 
 ---
 
@@ -304,17 +310,17 @@ Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take o
 
 📺 Thomas Kralow
 
-👁️ 29K • 👍 5K • 💬 61 • ⏱️ 10:36 • 2d ago
+👁️ 30K • 👍 5K • 💬 61 • ⏱️ 10:36 • 2d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jcPfG6X_unA)**
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=vsuPNo-e4f4)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
 
-📺 More Crypto Online
+📺 Manfred Thönicke
 
-👁️ 2K • 👍 144 • 💬 6 • ⏱️ 4:43 • 1d ago
+👁️ 4K • 👍 1K • 1h ago
 
 ---
 
@@ -324,7 +330,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 321 • 💬 142 • ⏱️ 14:32 • 18h ago
+👁️ 9K • 👍 328 • 💬 96 • ⏱️ 14:32 • 18h ago
 
 ---
 
