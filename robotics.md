@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T11:22:21.165616+00:00'
+updated: '2026-02-22T11:45:33.729689+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 11:22 UTC  
+**Last Updated:** February 22, 2026 at 11:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -54,19 +54,19 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 ---
 
-**[Delivery drones in Shenzhen](https://www.reddit.com/r/robotics/comments/1rapmtd/delivery_drones_in_shenzhen/)**
-
-This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
-
-23h ago
-
----
-
 **[Robotic (Arm) failed Project](https://www.reddit.com/r/robotics/comments/1rbi5y1/robotic_arm_failed_project/)**
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
 1h ago
+
+---
+
+**[Delivery drones in Shenzhen](https://www.reddit.com/r/robotics/comments/1rapmtd/delivery_drones_in_shenzhen/)**
+
+This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
+
+23h ago
 
 ---
 
@@ -96,7 +96,7 @@ I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don'
 
 **[ANOTHER CITY COUNCIL MEETING](https://www.reddit.com/r/robotics/comments/1rba53x/another_city_council_meeting/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -142,6 +142,14 @@ Hawaii News Now • 3d ago
 
 ---
 
+**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
+
+OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
+
+South China Morning Post • 1h ago
+
+---
+
 **[West Des Moines robotics team hosts preseason scrimmage, looking forward to competition](https://www.weareiowa.com/video/news/community/west-des-moines-robotics-team-hosts-preseason-scrimmage-looking-forward-to-competition/524-2e10ae22-f433-44f8-8c29-0c852167d14c)**
 
 There were teams from across Iowa and even one from Nebraska that took part in the scrimmage on Saturday.
@@ -156,19 +164,17 @@ Forbes • 2d ago
 
 ---
 
-**[SCORE hosts SeaPerch underwater robotics training for regional educators](https://wire.auburn.edu/content/cosam/2026/02/191200-sea-perch-underwater-robotics-training.php)**
+**[Meet CyRo — a robot that can pick up objects it has never seen before… in seconds. 🤯 Powered by CynLr’s Object Intelligence Platform, CyRo can understand shape, texture, and grasp possibilities in real time, moving robotics beyond repetition to real-world i](https://www.linkedin.com/posts/cnbc-tv18_ai-robotics-cyro-activity-7431296824696705024-WbEU)**
 
-Auburn University’s Southeastern Center of Robotics Education hosted a SeaPerch underwater robotics training for educators from across the region, providing hands-on professional development in engineering and robotics. Participating teachers learned to build and operate remotely operated vehicles and will bring SeaPerch kits back to their schools to engage students in real-world STEM applications.
+Meet CyRo — a robot that can pick up objects it has never seen before… in seconds. 🤯
 
-Auburn University • 1d ago
+Powered by CynLr’s Object Intelligence Platform, CyRo can understand shape, texture, and grasp possibilities in real time, moving robotics beyond repetition to real-world intuition. Aishwarya Anand reports. 
 
----
+Aishwarya Anand
 
-**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
+#AI #Robotics #CyRo #AISummit #DeepTech
 
-OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
-
-South China Morning Post • 1h ago
+LinkedIn • 25m ago
 
 ---
 
@@ -198,17 +204,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 9K • 👍 245 • 💬 71 • ⏱️ 8:38 • 12h ago
-
----
-
-**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
-
-Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
-
-📺 DPCcars
-
-👁️ 30K • 👍 232 • 💬 131 • ⏱️ 2:14 • 1d ago
+👁️ 11K • 👍 280 • 💬 78 • ⏱️ 8:38 • 12h ago
 
 ---
 
@@ -218,37 +214,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 56K • 👍 3K • 💬 743 • ⏱️ 14:51 • 1d ago
+👁️ 57K • 👍 3K • 💬 752 • ⏱️ 14:51 • 1d ago
 
 ---
 
-**[China’s Combat Robots Steal the Show at Lunar New Year Gala](https://www.youtube.com/watch?v=MFCmePpllIA)**
+**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
 
-China's combat robots steal the show at the Lunar New Year gala as advanced humanoid machines stunned audiences with ...
+Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
 
-📺 Carros Show
+📺 DPCcars
 
-👁️ 102K • 👍 1K • 💬 233 • ⏱️ 9:50 • 3d ago
-
----
-
-**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
-
-Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
-
-📺 NDTV
-
-👁️ 28K • 👍 113 • 💬 216 • ⏱️ 5:02 • 4d ago
-
----
-
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
-
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
-
-📺 10 News
-
-👁️ 261K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
+👁️ 33K • 👍 248 • 💬 136 • ⏱️ 2:14 • 1d ago
 
 ---
 
@@ -258,7 +234,17 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 
 📺 Carros Show
 
-👁️ 11K • 👍 136 • 💬 38 • ⏱️ 9:20 • 6d ago
+👁️ 12K • 👍 137 • 💬 38 • ⏱️ 9:20 • 6d ago
+
+---
+
+**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+
+Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+
+📺 10 News
+
+👁️ 264K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
 
 ---
 
@@ -268,17 +254,7 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.2M • 👍 92K • 💬 3K • ⏱️ 1:27 • 2d ago
-
----
-
-**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
-
-Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
-
-📺 New York Post
-
-👁️ 9K • 👍 200 • 💬 202 • ⏱️ 2:30 • 18h ago
+👁️ 1.2M • 👍 93K • 💬 3K • ⏱️ 1:27 • 2d ago
 
 ---
 
@@ -289,6 +265,36 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 📺 AI Revolution
 
 👁️ 61K • 👍 1K • 💬 161 • ⏱️ 12:43 • 6d ago
+
+---
+
+**[Chinese Combat Robot &quot;Centaur&quot; Shocked the World at Lunar New Year Gala](https://www.youtube.com/watch?v=wQBm60t5P5o)**
+
+Chinese combat robots stunned global audiences as their appearance at a major Lunar New Year celebration highlighted how far ...
+
+📺 Carros Show
+
+👁️ 29K • 👍 784 • 💬 149 • ⏱️ 10:12 • 2d ago
+
+---
+
+**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
+
+Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
+
+📺 The China Show
+
+👁️ 157K • 👍 10K • 💬 1K • ⏱️ 2:10:35 • 1d ago
+
+---
+
+**[All New Humanoid Robots That Will Take Humanity to the Next Level | Best of Winter 2026](https://www.youtube.com/watch?v=HEWYgeXk26s)**
+
+All new humanoid robots are rapidly transforming the way humans work, live, and interact with technology, as the latest ...
+
+📺 Carros Show
+
+👁️ 5K • 👍 142 • 💬 10 • ⏱️ 59:47 • 3d ago
 
 ---
 

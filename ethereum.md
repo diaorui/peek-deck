@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T11:22:21.162405+00:00'
+updated: '2026-02-22T11:45:33.726444+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 11:22 UTC  
+**Last Updated:** February 22, 2026 at 11:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +0.1%  
-**7d:** -1.0%  
-**30d:** -33.0%  
-**90d:** -33.2%  
-**1y:** -29.9%  
+**24h:** +0.3%  
+**7d:** -0.8%  
+**30d:** -32.9%  
+**90d:** -33.0%  
+**1y:** -29.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.09B
+**Market Cap:** $238.91B
 Rank #2
 
 **Circulating Supply:** 120,692,364 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.1%
+-60.0%
 
 **All-Time Low:** $0.43
-+455598.8%
++456991.5%
 
 ---
 
@@ -156,15 +156,15 @@ Justin Drake dives deep into Lean Ethereum In this episode (which is the first i
 
 The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
 
-CoinDesk • 15h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
+**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
 
-FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
+At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
 
-The Block • 1d ago
+Decrypt • 21h ago
 
 ---
 
@@ -173,6 +173,14 @@ The Block • 1d ago
 BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
+
+FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
+
+The Block • 1d ago
 
 ---
 
@@ -192,33 +200,21 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+**[Key facts: Ethereum Price Drops Below $2,800; MVRV at -14.3%; Accumulation Trends Noted](https://www.tradingview.com/news/tradingview:56d73a29098f3:0-key-facts-ethereum-price-drops-below-2-800-mvrv-at-14-3-accumulation-trends-noted/)**
 
-At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
-
-Decrypt • 21h ago
+TradingView • 11h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqcViEfKvzt1TLbAiCgtdqVphRWhNx1X4dMRgyCM7HjM_QOZ4yX9v20V&gaa_ts=699add96&gaa_sig=fkpFPi75pzd_wmYCYYiRgCLI6VN9Sye2-JMujTLa0FtBkcZtCaphffd1B13ixXBlsopf3b5NgMk_Xiupf3sb3g%3D%3D)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqc2vrygpjsd02dTntiwn3R89C1qJPNwJ-YFyEsIVmJzZZsryFh_-WnR&gaa_ts=699aefc8&gaa_sig=QyoGMJvC-DDFv3t64T0qsppz3PA6TQtoZvZr0_2tWDbrNvUBp0I0Ha2WfCDxrrByeIY9Xcm9yIFF48mge6PcWQ%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Bitcoin and Ethereum Options Expiry Today: $2.4B Set to Shake Crypto Markets](https://www.tradingview.com/news/coinpedia:3091c71e8094b:0-bitcoin-and-ethereum-options-expiry-today-2-4b-set-to-shake-crypto-markets/)**
+**[Ethereum Nerves Jangle as iShares’ ETHA Bleeds Nearly $97 Million in a Day](https://www.tipranks.com/news/cryptocurrencies/ethereum-nerves-jangle-as-ishares-etha-bleeds-nearly-97-million-in-a-day)**
 
-The crypto market may see strong price swings today as Bitcoin and Ethereum options worth nearly $2.4 billion are set to expire. With the crypto market already under pressure, traders are closely watching key levels, including Bitcoin’s max pain at $70,000 and Ethereum’s at $2,050, which could infl…
-
-TradingView • 2d ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1771676400)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
+TipRanks • 1d ago
 
 ---
 
@@ -240,7 +236,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 9K • 👍 454 • 💬 94 • ⏱️ 8:49 • 14h ago
+👁️ 10K • 👍 483 • 💬 98 • ⏱️ 8:49 • 14h ago
 
 ---
 
@@ -250,7 +246,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 13K • 👍 548 • 💬 36 • ⏱️ 18:46 • 20h ago
+👁️ 14K • 👍 562 • 💬 36 • ⏱️ 18:46 • 20h ago
 
 ---
 
@@ -260,7 +256,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 217 • 👍 19 • ⏱️ 11:38 • 2h ago
+👁️ 750 • 👍 91 • 💬 14 • ⏱️ 11:38 • 2h ago
 
 ---
 
@@ -274,13 +270,13 @@ TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Fo
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jcPfG6X_unA)**
+**[Tom Lee: The 44x Opportunity EVEN Bigger Than Bitcoin (2026 Prediction)](https://www.youtube.com/watch?v=DAkb7jk3oUE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
 
-📺 More Crypto Online
+📺 Crypto Nutshell
 
-👁️ 2K • 👍 144 • 💬 5 • ⏱️ 4:43 • 20h ago
+👁️ 16K • 👍 532 • 💬 35 • ⏱️ 21:01 • 2d ago
 
 ---
 
@@ -290,27 +286,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 6K • 👍 265 • 💬 66 • ⏱️ 14:32 • 11h ago
-
----
-
-**[🍟 Ethereum returned ZERO VALUE in 10 YEARS !? (Undervalued) (2016 Prices)](https://www.youtube.com/watch?v=eqjcsDrGEuY)**
-
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
-
-📺 🌟yourfriendsommi
-
-👁️ 283 • 👍 58 • 💬 6 • ⏱️ 19:35 • 3h ago
-
----
-
-**[Tom Lee: The 44x Opportunity EVEN Bigger Than Bitcoin (2026 Prediction)](https://www.youtube.com/watch?v=DAkb7jk3oUE)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
-
-📺 Crypto Nutshell
-
-👁️ 16K • 👍 531 • 💬 34 • ⏱️ 21:01 • 2d ago
+👁️ 7K • 👍 287 • 💬 66 • ⏱️ 14:32 • 12h ago
 
 ---
 
@@ -320,17 +296,37 @@ Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take o
 
 📺 Thomas Kralow
 
-👁️ 28K • 👍 4K • 💬 60 • ⏱️ 10:36 • 1d ago
+👁️ 29K • 👍 5K • 💬 60 • ⏱️ 10:36 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Ich warte auf DIESEN long und HIER baue ich Shorts auf!!](https://www.youtube.com/watch?v=LL9QPF96crk)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jcPfG6X_unA)**
 
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Krypto Trading & Investing
+📺 More Crypto Online
 
-👁️ 896 • 👍 247 • 💬 55 • ⏱️ 8:25 • 6h ago
+👁️ 2K • 👍 146 • 💬 5 • ⏱️ 4:43 • 21h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=3uOyK20Ew8w)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 117 • 👍 25 • ⏱️ 6:35 • 26m ago
+
+---
+
+**[🍟 Ethereum returned ZERO VALUE in 10 YEARS !? (Undervalued) (2016 Prices)](https://www.youtube.com/watch?v=eqjcsDrGEuY)**
+
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+
+📺 🌟yourfriendsommi
+
+👁️ 564 • 👍 96 • 💬 8 • ⏱️ 19:35 • 3h ago
 
 ---
 

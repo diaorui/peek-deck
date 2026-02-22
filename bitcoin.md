@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T11:22:21.156509+00:00'
+updated: '2026-02-22T11:45:33.720452+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 11:22 UTC  
+**Last Updated:** February 22, 2026 at 11:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,080.51
+### $68,231.15
 
 ---
 
 ## Bitcoin Chart
 
 **24h:** -0.1%  
-**7d:** -1.1%  
+**7d:** -1.0%  
 **30d:** -23.7%  
-**90d:** -22.3%  
+**90d:** -22.2%  
 **1y:** -29.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1359.65B
+**Market Cap:** $1362.80B
 Rank #1
 
-**Circulating Supply:** 19,993,084 BTC
+**Circulating Supply:** 19,993,115 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.1%
+-45.9%
 
 **All-Time Low:** $67.81
-+100190.5%
++100422.0%
 
 ---
 
@@ -77,19 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[My barber just sold his Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rargo9/my_barber_just_sold_his_bitcoin/)**
-
-Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
-
-21h ago
-
----
-
 **[Dutch House passes 36% tax on unrealized crypto and investment gains](https://www.reddit.com/r/Bitcoin/comments/1razuzz/dutch_house_passes_36_tax_on_unrealized_crypto/)**
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
 🔗 [Stacker News](https://stacker.news/items/1433892) • 16h ago
+
+---
+
+**[My barber just sold his Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rargo9/my_barber_just_sold_his_bitcoin/)**
+
+Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
+
+22h ago
 
 ---
 
@@ -101,17 +101,25 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 ---
 
+**[Just keep this in mind…](https://www.reddit.com/r/Bitcoin/comments/1rbde7t/just_keep_this_in_mind/)**
+
+With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
+
+6h ago
+
+---
+
 **[Custom Steel BTC sign](https://www.reddit.com/r/Bitcoin/comments/1rb02ma/custom_steel_btc_sign/)**
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-15h ago
+16h ago
 
 ---
 
-**[Just keep this in mind…](https://www.reddit.com/r/Bitcoin/comments/1rbde7t/just_keep_this_in_mind/)**
+**[Long-Term Bitcoin Holders Pay Way Less Tax](https://www.reddit.com/r/Bitcoin/comments/1rbep1g/longterm_bitcoin_holders_pay_way_less_tax/)**
 
-With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
+In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
 5h ago
 
@@ -120,22 +128,6 @@ With all this FUD going around right now, just keep in mind. No one knows more t
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
 19h ago
-
----
-
-**[Reached 15/21 BTC goal](https://www.reddit.com/r/Bitcoin/comments/1rbht1u/reached_1521_btc_goal/)**
-
-I started accumulating since 2017 and have finally accumulated 15 Btc. My great grand children are going to remember me as a chad, hopefully btc falls or remain here for some time
-
-1h ago
-
----
-
-**[Long-Term Bitcoin Holders Pay Way Less Tax](https://www.reddit.com/r/Bitcoin/comments/1rbep1g/longterm_bitcoin_holders_pay_way_less_tax/)**
-
-In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
-
-4h ago
 
 ---
 
@@ -151,7 +143,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Just trying to look at this calmly and without bias. After the recent sell-off, we got a bounce. That’s not unusual. Bitcoin has always reacted sharply after strong downside moves. The real question, at least to me, is whether this bounce actually changes anything structurally or if it’s just a temporary reaction inside a broader correction. So far, we haven’t clearly reclaimed and held above major resistance on the higher timeframes. In past cycles, real trend shifts usually showed sustained strength over time not just quick pops. At the same time, Bitcoin has gone through plenty of corrections before continuing its longer term trajectory. Short term structure doesn’t automatically define where things go over the years. Not making any predictions here. Just observing and trying to stay objective. How are you guys reading it from a higher timeframe point of view? And guys it's just my views it's could be wrong
 
-11h ago
+12h ago
+
+---
+
+**[why Different Derivative path and XpUb able to sign transaction](https://www.reddit.com/r/Bitcoin/comments/1rbe3cj/why_different_derivative_path_and_xpub_able_to/)**
+
+Hey , I was playing with multiSig 2 out of 3 in sparrow Wallet Wallet 1 : hot wallet in Sparrow wallet itself Wallet 2 : CC (SEEDS X)+ Passphrase Wallet 3 : CC (SAME SEEDS X as wallet 2 ) + Different Passphrase But when i use Wallet 2 as complete different wallet (in single sig) it generate with derivative path of m/84'/0'/0' and gives XPUB xpub6C...agCXs . But when i used the same wallet 2 (seed X + same passphrase)in multisig (added by scanning QR while setting up) it generates derivation path of m/48'/0'/0'/2' with Xpub of xpub6ED....bGN . Masterfingerprint is same in both cases however I thought transaction won't go through due to different xpub and derivative path .. but it successfully got signed and broadcasted in multisig Any reason for following ..
+
+5h ago
 
 ---
 
@@ -161,7 +161,7 @@ Just trying to look at this calmly and without bias. After the recent sell-off, 
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg • 20h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin has become a vessel of pure speculation
 
-The Globe and Mail • 13h ago
+The Globe and Mail • 14h ago
 
 ---
 
@@ -205,17 +205,17 @@ The Block • 13h ago
 
 ---
 
-**[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
-
-Forbes • 22h ago
-
----
-
 **[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1771754400)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
+
+---
+
+**[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
+
+Forbes • 23h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bitbo • 15h ago
 
 U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -255,7 +255,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 15h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 16h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -283,7 +283,7 @@ The company said it will focus on building data centers for high-performance com
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
-⬆️ 1 • 💬 0 • 1d ago
+⬆️ 1 • 💬 0 • 2d ago
 
 ---
 
@@ -319,27 +319,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 30K • 👍 2K • 💬 151 • ⏱️ 8:15 • 11h ago
-
----
-
-**[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
-
-Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
-
-📺 Money Talks
-
-👁️ 2K • 👍 48 • 💬 41 • ⏱️ 15:10 • 16h ago
-
----
-
-**[Bitcoin Holders suddenly have a MAJOR PROBLEM](https://www.youtube.com/watch?v=SwNLNppPHl8)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ Bitunix (no kyc, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 64K • 👍 3K • 💬 256 • ⏱️ 9:14 • 1d ago
+👁️ 34K • 👍 2K • 💬 153 • ⏱️ 8:15 • 12h ago
 
 ---
 
@@ -349,7 +329,27 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 504K • 👍 27K • 💬 4K • ⏱️ 32:14 • 22h ago
+👁️ 525K • 👍 28K • 💬 4K • ⏱️ 32:14 • 22h ago
+
+---
+
+**[Bitcoin Holders suddenly have a MAJOR PROBLEM](https://www.youtube.com/watch?v=SwNLNppPHl8)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ Bitunix (no kyc, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 65K • 👍 3K • 💬 259 • ⏱️ 9:14 • 1d ago
+
+---
+
+**[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
+
+Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
+
+📺 Money Talks
+
+👁️ 2K • 👍 70 • 💬 56 • ⏱️ 15:10 • 17h ago
 
 ---
 
@@ -359,7 +359,7 @@ Subscribe for More Bitcoin Content I built this tool because I was tired of losi
 
 📺 Mr Bitcoin Maxi 
 
-👁️ 2K • 👍 159 • 💬 68 • ⏱️ 12:41 • 15h ago
+👁️ 3K • 👍 174 • 💬 78 • ⏱️ 12:41 • 15h ago
 
 ---
 
@@ -369,17 +369,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 70K • 👍 3K • 💬 75 • ⏱️ 52:37 • 21h ago
-
----
-
-**[BITCOIN HOLDERS: MY IMPORTANT MESSAGE!](https://www.youtube.com/watch?v=iBFOmxCN24o)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
-
-📺 Crypto Kid
-
-👁️ 4K • 👍 262 • 💬 85 • ⏱️ 13:24 • 11h ago
+👁️ 73K • 👍 3K • 💬 75 • ⏱️ 52:37 • 21h ago
 
 ---
 
@@ -397,7 +387,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 CryptoWendyO
 
-👁️ 25K • 👍 1K • 💬 72 • ⏱️ 2:12 • 1d ago
+👁️ 26K • 👍 1K • 💬 72 • ⏱️ 2:12 • 1d ago
 
 ---
 
@@ -407,7 +397,17 @@ LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications t
 
 📺 Dumb Money Live
 
-👁️ 20K • 👍 538 • 💬 23 • ⏱️ 1:02 • 1d ago
+👁️ 20K • 👍 543 • 💬 23 • ⏱️ 1:02 • 1d ago
+
+---
+
+**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UcdnChwDGQ0)**
+
+TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+
+📺 FacePaintcom
+
+👁️ 4K • 👍 2K • 10h ago
 
 ---
 
