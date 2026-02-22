@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-21T23:47:52.734998+00:00'
+updated: '2026-02-22T02:21:17.574655+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 21, 2026 at 23:47 UTC  
+**Last Updated:** February 22, 2026 at 02:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,15 +34,7 @@ Robotics research and industry news
 
 **[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
 
-7h ago
-
----
-
-**[Delivery drones in Shenzhen](https://www.reddit.com/r/robotics/comments/1rapmtd/delivery_drones_in_shenzhen/)**
-
-This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
-
-11h ago
+9h ago
 
 ---
 
@@ -50,7 +42,39 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-4h ago
+6h ago
+
+---
+
+**[Delivery drones in Shenzhen](https://www.reddit.com/r/robotics/comments/1rapmtd/delivery_drones_in_shenzhen/)**
+
+This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x.com/ShuoYangAIR/status/2000540600257622392
+
+14h ago
+
+---
+
+**[NYC Build](https://www.reddit.com/r/robotics/comments/1rb97z0/nyc_build/)**
+
+Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
+
+24m ago
+
+---
+
+**[Robotics System Design Interviews Questions / Prep](https://www.reddit.com/r/robotics/comments/1rb97oy/robotics_system_design_interviews_questions_prep/)**
+
+I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
+
+25m ago
+
+---
+
+**[please help](https://www.reddit.com/r/robotics/comments/1rb70fc/please_help/)**
+
+I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don't return anything. It seems everything leads to a dead end. I have Choregraphe but to my understanding it doesn't work in the newer OS. I would like to program for the robot and utilise it so any help would be appreciated.
+
+2h ago
 
 ---
 
@@ -58,7 +82,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 Hey all, I recently switched from the aerospace to the robotics industry. I'm trying to introduce testing and quality assurance to my team that's been building prototypes for anthropomorphic robots. The testing that's done happens during teleoperation of the robots. In my view this is quite unsafe for the human operator. For this reason I'd like to bring in more automated test scripts in testing without the need of human, and some stricter acceptance criteria before handed over to a human operator. Since this is an agile work environment and very fast paced it can get challenging to have a heavy testing. I also don't want to bring in some heavy V&V processes into the development lifecycle If anyone here is in robotics testing and QA I'd love to connect and hear your thoughts on how you might have over come such a challenge within your teams. If I'm having high expectations of testing in robotics since I'm from aerospace, feel free to break the news to me 😅
 
-3h ago
+6h ago
 
 ---
 
@@ -74,7 +98,7 @@ Amazon FAR and researchers from University of California, Berkeley, Carnegie Mel
 
 Meet Sprout, a humanoid platform for developers, enterprises, and researchers—shipping today.
 
-🔗 [faunarobotics.com](https://faunarobotics.com/) • 6h ago
+🔗 [faunarobotics.com](https://faunarobotics.com/) • 9h ago
 
 ---
 
@@ -82,31 +106,7 @@ Meet Sprout, a humanoid platform for developers, enterprises, and researchers—
 
 I've been fascinated by this video https://www.youtube.com/shorts/y4ujD4PUX-0 I am not sure how much of this is for show or how much it could be real. ok moving turret while tracking mosquitos, plenty of examples online but a camera able to recognize them and so much tiny ? a laser so powerful to kill them midair? I am wondering if this is real or just a show and in case where to start to learn how to build own myself. I would appreciate any tip or comment to lead on where to document myself on the hardware for the software i've seen plenty of good libraries in python - or other languages - but i am more interested on which kind of hardware to look for and calculation for power consumption.
 
-12h ago
-
----
-
-**[MoveIt Servo: Unwanted joint movement during Cartesian XYZ motion](https://www.reddit.com/r/robotics/comments/1raka7y/moveit_servo_unwanted_joint_movement_during/)**
-
-Problem I have a 5-DOF robotic arm with 6 joints (last is gripper). When using MoveIt Servo to command X/Y/Z position only, Joint 4 moves unexpectedly. This does NOT happen in Gazebo simulation with identical code. Key observations: Joint 4 moves consistently in one direction for +Z, opposite direction for -Z Not random — same behavior every time Works perfectly in Gazebo simulation Happens regardless of whether I publish to /arm_group_controller/joint_trajectory or direct /joint_commands_to_teensy commands [I switched to /joint_commands_to_teensy because robot was jerky when i gave it to trajectory controller] The only difference between hardware and simulation is the command_out_topic in real world i use /joint_commands_to_teensy and simulation i use /arm_group_controller/joint_trajectory --- here is the yaml file All encoders are working and providing feedback(I use dc encoder motors) Hardware Setup Teensy 4.1 microcontroller with micro-ROS 6 motors with encoders on all joints CytronMD motor drivers Using KDL kinematics solver What I've Tried Verified joint ordering is correct (tested each joint individually) Confirmed encoder directions and zero calibration Tested both control topics (/arm_group_controller/joint_trajectory and /joint_commands_to_teensy) Increased loop rate from 100ms to 20ms to match servo publish rate Checked Gazebo simulation closely — Joint 4 does NOT move during +Z/-Z commands Code Snippets Teensy Loop Rate: cppvoid loop() { RCSOFTCHECK(rclc_executor_spin_some(&executor, RCL_MS_TO_NS(20))); } Servo Config yaml: publish_period: 0.02 # 50Hz command_in_type: "speed_units" move_group_name: "arm_group" planning_frame: "base_link" ee_frame_name: "fake_link" Joint Command Callback: cppvoid joint_command_callback(const void * msgin) { const std_msgs__msg__Float64MultiArray * msg = (const std_msgs__msg__Float64MultiArray *)msgin; for (size_t i = 0; i < NUM_MOTORS && i < msg->data.size; i++) { float new_target = msg->data.data[i] * (180.0 / M_PI); if (i == 2) { new_target = new_target * -1; } if (abs(new_target - motors[i].target_angle) > 0.1) { motors[i].target_angle = new_target; motors[i].integral = 0; motors[i].settled_count = 0; } } } The Mystery In real world the joint_4 is moving unwanted -- here is the video when robot executes +z and -z --------- But in Gazebo simulation with the exact same input, Joint 4 only has minimum motion -- here is the simulation video . Questions Is this expected behavior for a 5-DOF robot? Is there a MoveIt Servo parameter to constrain/lock certain joints during position-only commands? Why does Gazebo not exhibit this behavior while hardware does? Any insights appreciated!
-
-16h ago
-
----
-
-**[Hanson Robotics, what happened?](https://www.reddit.com/r/robotics/comments/1rak0ne/hanson_robotics_what_happened/)**
-
-idk if anyone will know about this but does anybody remember hanson robotics who created the robot sophia that was famous a while. Then on their website advertised "little sophia" as a robot companion with their kickstarter. The website still says "preorder" and has been outdated for years. Did they go bankrupt? Out of business? Run off with the kickstarter money? There isn't an adequate rabbit hole I can jump down about this I can't find any info online about this. Their website is preserved the same as it was in 2022 or something so obviously something was abandoned or whatever. I just wanna know mostly out of curiosity, because it seems strange that it was just abandoned and forgotten.
-
-17h ago
-
----
-
-**[ROS News for the Week of February 16th, 2026](https://www.reddit.com/r/robotics/comments/1ra5ld8/ros_news_for_the_week_of_february_16th_2026/)**
-
-ROS News for the Week of February 16th, 2026                                 2025 ROS Metrics Report.pdf (3.7 MB)   The 2025 ROS Metrics report is out (3.7 MB) you can also check the Discourse post more detailed information.  🚀 The TL;DR is that ROS 2 is growing like crazy and that the era of ROS 1 is over. Package downloads are up 85% and we’re just shy of 1 BILLION downloads annually. ROS 2 now makes up over 90% of all ROS downloads.                 Next week we’ve got a Gazebo Communit...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-16th-2026/52610) • 1d ago
+14h ago
 
 ---
 
@@ -130,6 +130,52 @@ Business Insider • 1d ago
 
 ---
 
+**[West Des Moines robotics team hosts preseason scrimmage, looking forward to competition](https://www.weareiowa.com/video/news/community/west-des-moines-robotics-team-hosts-preseason-scrimmage-looking-forward-to-competition/524-2e10ae22-f433-44f8-8c29-0c852167d14c)**
+
+There were teams from across Iowa and even one from Nebraska that took part in the scrimmage on Saturday.
+
+weareiowa.com • 2h ago
+
+---
+
+**[Hawaii robotics team qualifies for World Championships](https://www.hawaiinewsnow.com/2026/02/19/hawaii-robotics-team-qualifies-world-championships/)**
+
+Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
+
+Hawaii News Now • 3d ago
+
+---
+
+**[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
+
+Forbes • 2d ago
+
+---
+
+**[SCORE hosts SeaPerch underwater robotics training for regional educators](https://wire.auburn.edu/content/cosam/2026/02/191200-sea-perch-underwater-robotics-training.php)**
+
+Auburn University’s Southeastern Center of Robotics Education hosted a SeaPerch underwater robotics training for educators from across the region, providing hands-on professional development in engineering and robotics. Participating teachers learned to build and operate remotely operated vehicles and will bring SeaPerch kits back to their schools to engage students in real-world STEM applications.
+
+Auburn University • 1d ago
+
+---
+
+**[Golabs Showcases Robotics at Denago EV’s Booth at The American Express PGA Tour](https://www.thebuzzevnews.com/golabs-robotics-denago-ev/)**
+
+Golabs announced that, throughout the tournament, it hosted live demonstrations of its robotics solutions at Denago EV's booth.
+
+thebuzzevnews.com • 13h ago
+
+---
+
+**[Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids](https://www.therobotreport.com/toyota-motor-manufacturing-canada-deploys-agility-robotics-digit-humanoids/)**
+
+Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10.
+
+The Robot Report • 2d ago
+
+---
+
 **[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
 
 Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
@@ -138,55 +184,11 @@ Automotive News • 2d ago
 
 ---
 
-**[Video Friday: Humanoid Robots Celebrate Spring](https://spectrum.ieee.org/robot-martial-arts)**
+**[Amazon halts Blue Jay robotics project after less than 6 months](https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/)**
 
-Celebrate the Lunar New Year with a synchronized martial arts demo by humanoid robots and cuddling robot pandas! Plus Perseverance finds itself.
+Amazon said Blue Jay's core tech will be used for other robotics projects and the employees who worked on it were moved to other projects.
 
-IEEE Spectrum • 2d ago
-
----
-
-**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
-
-Tech Xplore • 1d ago
-
----
-
-**[Serve Robotics vs. NVIDIA: Which AI Robotics Stock Is a Better Buy?](https://www.zacks.com/stock/news/2871890/serve-robotics-vs-nvidia-which-ai-robotics-stock-is-a-better-buy)**
-
-Zacks Investment Research • 2d ago
-
----
-
-**[This robot can fold your laundry – but not without a helping hand](https://newatlas.com/robotics/weave-robotics-isaac-robot-fold-laundry-teleoperation/)**
-
-Less than two years since it was founded, San Francisco-based startup Weave Robotics is accepting pre-orders for its first home robot, which promises to do one thing well: fold your laundry.
-
-New Atlas • 12h ago
-
----
-
-**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.nasdaq.com/articles/teslas-3-trillion-opportunity-how-optimus-could-dominate-robotics-market-2026)**
-
-Key PointsTesla is repurposing EV factories to build its Optimus robots.
-
-Nasdaq • 1d ago
-
----
-
-**[Robot dog: Galgotias University faces backlash for claiming Chinese product as own at India AI summit](https://www.bbc.com/news/articles/cge8nd5ve00o)**
-
-A professor claimed that a robotic dog made by Chinese firm Unitree had been made by the university.
-
-BBC • 3d ago
-
----
-
-**[Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings](https://finance.yahoo.com/news/beyond-tesla-nvidia-2-overlooked-134442037.html)**
-
-Everyone knows NVIDIA (NASDAQ:NVDA) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the days of humanoid robots ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
-
-Yahoo Finance • 1d ago
+TechCrunch • 3d ago
 
 ---
 
@@ -200,7 +202,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 23K • 👍 184 • 💬 95 • ⏱️ 2:14 • 21h ago
+👁️ 25K • 👍 199 • 💬 102 • ⏱️ 2:14 • 23h ago
 
 ---
 
@@ -210,7 +212,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 48K • 👍 2K • 💬 653 • ⏱️ 14:51 • 1d ago
+👁️ 51K • 👍 3K • 💬 684 • ⏱️ 14:51 • 1d ago
 
 ---
 
@@ -220,7 +222,27 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 242K • 👍 3K • 💬 2K • ⏱️ 3:42 • 2d ago
+👁️ 249K • 👍 3K • 💬 2K • ⏱️ 3:42 • 2d ago
+
+---
+
+**[China’s Combat Robots Steal the Show at Lunar New Year Gala](https://www.youtube.com/watch?v=MFCmePpllIA)**
+
+China's combat robots steal the show at the Lunar New Year gala as advanced humanoid machines stunned audiences with ...
+
+📺 Carros Show
+
+👁️ 99K • 👍 1K • 💬 221 • ⏱️ 9:50 • 3d ago
+
+---
+
+**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+
+Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+
+📺 NDTV
+
+👁️ 28K • 👍 112 • 💬 215 • ⏱️ 5:02 • 3d ago
 
 ---
 
@@ -230,7 +252,7 @@ Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
 
 📺 Wall Street Millennial
 
-👁️ 50K • 👍 2K • 💬 522 • ⏱️ 13:31 • 2d ago
+👁️ 50K • 👍 2K • 💬 550 • ⏱️ 13:31 • 2d ago
 
 ---
 
@@ -240,7 +262,7 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.1M • 👍 86K • 💬 3K • ⏱️ 1:27 • 2d ago
+👁️ 1.2M • 👍 88K • 💬 3K • ⏱️ 1:27 • 2d ago
 
 ---
 
@@ -250,7 +272,7 @@ Chinese combat robots stunned global audiences as their appearance at a major Lu
 
 📺 Carros Show
 
-👁️ 28K • 👍 755 • 💬 139 • ⏱️ 10:12 • 2d ago
+👁️ 28K • 👍 762 • 💬 140 • ⏱️ 10:12 • 2d ago
 
 ---
 
@@ -270,27 +292,7 @@ Unitree Robotics is plotting an aggressive expansion following its viral showing
 
 📺 Kalil 4.0
 
-👁️ 32K • 👍 616 • 💬 215 • ⏱️ 11:04 • 1d ago
-
----
-
-**[Unitree Humanoid Robots Shock People at 2026 Spring Festival Gala with Martial Arts](https://www.youtube.com/watch?v=O9ao_HLi1gE)**
-
-Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid robots stunned 1.4 billion viewers with a ...
-
-📺 India Today Global
-
-👁️ 105K • 👍 1K • 💬 678 • ⏱️ 2:57 • 5d ago
-
----
-
-**[China’s Kung Fu Robots STUN the World with Unreal Live Performance!](https://www.youtube.com/watch?v=_jYdh-gyc3A)**
-
-China just stunned the world after showcasing Kung Fu–performing humanoid robots in a massive live event viewed by millions.
-
-📺 The AI Nexus
-
-👁️ 34K • 👍 872 • 💬 107 • ⏱️ 18:26 • 4d ago
+👁️ 34K • 👍 640 • 💬 223 • ⏱️ 11:04 • 2d ago
 
 ---
 
