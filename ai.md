@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T09:32:32.246037+00:00'
+updated: '2026-02-22T10:27:57.161411+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 09:32 UTC  
+**Last Updated:** February 22, 2026 at 10:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
 
-🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 17h ago
+🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 18h ago
+
+---
+
+**[There’s is no one good AI](https://www.reddit.com/r/artificial/comments/1rbhoj3/theres_is_no_one_good_ai/)**
+
+People say Gemini is better or ChatGPT or Grok, but I think each ai has each of its own good traits. Who agrees?
+
+50m ago
 
 ---
 
@@ -55,7 +63,7 @@ His case highlights a broader issue as U.S.-based AI tools block analysis of sen
 
 Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
 
-🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 5h ago
+🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 6h ago
 
 ---
 
@@ -63,7 +71,7 @@ Scout AI is using technology borrowed from the AI industry to power lethal weapo
 
 The open-source ollama project that makes it easy to get up and running with a variety of LLMs under Windows, macOS, and Linux is out with a new release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 6h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 7h ago
 
 ---
 
@@ -71,7 +79,7 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 I’ve been testing a few AI habit tracker app options because I was curious whether AI actually adds anything meaningful beyond streaks. One I’ve tried recently is Resolve. What stood out wasn’t some crazy prediction engine, but the short AI reflections after logging habits. Instead of just showing a missed day, it nudges you to think about what happened. Over time that’s helped me notice patterns around sleep and focus. Has anyone seen an AI habit tracker app that genuinely feels like it’s doing more than summarizing inputs?
 
-14h ago
+15h ago
 
 ---
 
@@ -83,27 +91,11 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 
 ---
 
-**[Could AI Data Centers Be Moved to Outer Space?](https://www.reddit.com/r/artificial/comments/1rb6ckf/could_ai_data_centers_be_moved_to_outer_space/)**
-
-Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?
-
-🔗 [WIRED](https://www.wired.com/story/could-we-put-ai-data-centers-in-space/) • 9h ago
-
----
-
 **[How can a government actually stop or control AI?](https://www.reddit.com/r/artificial/comments/1rasu2g/how_can_a_government_actually_stop_or_control_ai/)**
 
 Seeking legal and technical answers. Working with some people on this question and we keep reaching a conclusion that it can't. That it's not possible. AI can exist anywhere in the world, governed under others' laws (or none at all). It can't be blocked since the internet can't technically, actually, block something. It can be accessed through countless channels, apps, or experiences. Is there a legitimate way in which AI can technically and truly be made safe or controlled? Important question for reasons we don't think everyone realizes. If the answer is "no" then politicians are effectively causing harm by pretending they can... They pander votes under false pretenses and they set a false sense of security that we'll be safe because they'll make laws to protect us. It's like passing a law requiring that fire not hurt us. Sure, pass the law, but it's not possible for it to be so.
 
-18h ago
-
----
-
-**[Ai ?](https://www.reddit.com/r/artificial/comments/1rbevqa/ai/)**
-
-Will AI take all the jobs in the future?
-
-2h ago
+19h ago
 
 ---
 
@@ -115,77 +107,89 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 ---
 
+**[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://www.reddit.com/r/artificial/comments/1raocs3/dreamdojo_a_generalist_robot_world_model_from/)**
+
+"Being able to simulate the outcomes of actions in varied environments will revolutionize the development of generalist agents at scale. However, modeling these world dynamics, especially for dexterous robotics tasks, poses significant challenges due to limited data coverage and scarce action labels. As an endeavor towards this end, we introduce DreamDojo, a foundation world model that learns diverse interactions and dexterous controls from 44k hours of egocentric human videos. Our data mixture represents the largest video dataset to date for world model pretraining, spanning a wide range of daily scenarios with diverse objects and skills. To address the scarcity of action labels, we introduce continuous latent actions as unified proxy actions, enhancing interaction knowledge transfer from unlabeled videos. After post-training on small-scale target robot data, DreamDojo demonstrates a strong understanding of physics and precise action controllability. We also devise a distillation pipeline that accelerates DreamDojo to a real-time speed of 10.81 FPS and further improves context consistency. Our work enables several important applications based on generative world models, including live teleoperation, policy evaluation, and model-based planning. Systematic evaluation on multiple challenging out-of-distribution (OOD) benchmarks verifies the significance of our method for simulating open-world, contact-rich tasks, paving the way for general-purpose robot world models."
+
+🔗 [huggingface.co](https://huggingface.co/papers/2602.06949) • 23h ago
+
+---
+
 ---
 
 ## Google News: "ai"
-
-**[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
-
-The New York Times • 23h ago
-
----
-
-**[Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit](https://www.cnbc.com/2026/02/21/ai-summit-india-tech.html)**
-
-India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.
-
-CNBC • 1d ago
-
----
-
-**[India’s AI ambitions hit limits at global summit](https://www.ft.com/content/5c26f2f6-c857-407c-93fe-7f59aa88c8f4)**
-
-The world’s most populous country continues to struggle to find its place in an industry dominated by the US and China
-
-Financial Times • 8h ago
-
----
-
-**[Dozens of countries steer clear of safety commitment in global AI pledge](https://www.politico.com/news/2026/02/21/dozens-of-countries-steer-clear-of-safety-commitment-in-global-ai-pledge-00792298)**
-
-Politico • 15h ago
-
----
-
-**[Talking Sensibly With Highly Emotional People By Using AI Such As ChatGPT To Translate Logic Into Emotional Language They Will Understand](https://www.forbes.com/sites/lanceeliot/2026/02/22/talking-sensibly-with-highly-emotional-people-by-using-ai-such-as-chatgpt-to-translate-logic-into-emotional-language-they-will-understand/)**
-
-Forbes • 1h ago
-
----
 
 **[I’m worried my boyfriend’s use of AI is affecting his ability to think for himself | Annalisa Barbieri](https://www.theguardian.com/lifeandstyle/2026/feb/22/worried-boyfriend-ai-affecting-ability-think-for-himself-annalisa-barbieri)**
 
 Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
 
-The Guardian • 3h ago
+The Guardian • 2h ago
+
+---
+
+**[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[Software stocks are sliding. Is it time to 'buy the dip'?](https://www.usatoday.com/story/money/2026/02/22/software-stocks-selloff-microsoft-oracle-salesforce-nasdaq/88774908007/)**
+
+Shares of Microsoft, Oracle and Salesforce are sliding as investors debate whether AI will disrupt or destroy software firms.
+
+USA Today • 22m ago
+
+---
+
+**[Rise of AI challenges schools to adapt, Hawaii report finds](https://www.staradvertiser.com/2026/02/22/hawaii-news/rise-of-ai-challenges-schools-to-adapt-hawaii-report-finds/)**
+
+As artificial intelligence reshapes classrooms and workplaces alike, educators in Hawaii say the debate shouldn’t center on whether a college education has lost its value but on whether schools are 
+preparing students to thrive in an 
+AI-driven world.
+
+Honolulu Star-Advertiser • 22m ago
+
+---
+
+**[SpaceX gets federal approval for Starship launches, AI satellites from Florida's Space Coast](https://www.floridatoday.com/story/news/local/environment/2026/02/22/faa-clears-spacex-starship-operations-at-kennedy-space-center/88679658007/)**
+
+SpaceX received federal environmental approval for Starship launches from Kennedy Space Center, paving the way for up to 1 million AI-powering satellites. Learn what this means for Florida's Space Coast.
+
+Florida Today • 24m ago
+
+---
+
+**[‘I have a chip on my shoulder.’ Phoebe Gates wants her $185 million AI startup Phia to succeed with ‘no ties to my privilege or my last name’](https://fortune.com/2026/02/21/phoebe-gates-startup-phia-succeed-without-help-parents-bill-gates-melinda-french-gates/)**
+
+The daughter of Bill Gates and Melinda French Gates acknowledges her privilege, but says she’s building her own thing without their help.
+
+Fortune • 21h ago
+
+---
+
+**[Kick Chronic Kidney Disease With AI](https://www.forbes.com/sites/johnwerner/2026/02/21/kick-chronic-kidney-disease-with-ai/)**
+
+Forbes • 18h ago
 
 ---
 
 **[The Country That’s Madly in Love With AI](https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618)**
 
-Politico • 18h ago
+Politico • 19h ago
 
 ---
 
-**[Employers to job seekers: Your AI résumé isn’t fooling anyone](https://www.washingtonpost.com/technology/2026/02/21/ai-resume-jobs/)**
+**[Exclusive: Goldman Sachs launches an AI-free index](https://www.axios.com/2026/02/20/ai-goldman-sachs-stocks-index)**
 
-AI is helping jobseekers rapidly apply to jobs. But recruiters and employers say that’s not always a good thing.
-
-The Washington Post • 15h ago
+Axios • 1d ago
 
 ---
 
-**[Galaxy AI Expands Multi-Agent Ecosystem To Give Users More Choice and Flexibility](https://news.samsung.com/global/galaxy-ai-expands-multi-agent-ecosystem-to-give-users-more-choice-and-flexibility)**
+**[The Artificial Intelligence (AI) Infrastructure Stock That Hyperscalers Are Fighting Over for 2026](https://www.fool.com/investing/2026/02/22/the-artificial-intelligence-ai-infrastructure-stoc/)**
 
-Samsung continues to evolve its AI experience by adding a new AI agent across the Galaxy ecosystem to make everyday interactions easier
+Big tech's spending spree is accelerating, but Nvidia stock is priced like it isn't.
 
-samsung.com • 10h ago
-
----
-
-**[China Defies Global ‘AI Scare Trade’ as Investors Chase Winners](https://www.bloomberg.com/news/articles/2026-02-22/china-defies-global-ai-scare-trade-as-investors-chase-winners)**
-
-Bloomberg.com • 9h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -197,7 +201,7 @@ Bloomberg.com • 9h ago
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 817 • 💬 446 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 820 • 💬 448 • 1d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -205,7 +209,7 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 815 • 💬 218 • 1d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 815 • 💬 219 • 1d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
@@ -220,7 +224,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 525 • 💬 485 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 525 • 💬 484 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -228,7 +232,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 509 • 💬 566 • 2d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 510 • 💬 566 • 2d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -236,7 +240,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 300 • 💬 161 • 1d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 301 • 💬 162 • 1d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -244,7 +248,7 @@ Every company building an AI assistant is funded by advertising. They are also b
 
 Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist
 
-⬆️ 245 • 💬 109 • 1d ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
+⬆️ 249 • 💬 110 • 1d ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
 
 ---
 
@@ -252,7 +256,7 @@ Websites I personally found that are completely generated by AI. Pull requests w
 
 Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. - tnm/zclaw
 
-⬆️ 159 • 💬 84 • 20h ago • [GitHub](https://github.com/tnm/zclaw)
+⬆️ 176 • 💬 94 • 21h ago • [GitHub](https://github.com/tnm/zclaw)
 
 ---
 
@@ -282,7 +286,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 21K • 👍 794 • 💬 53 • ⏱️ 10:44 • 10h ago
+👁️ 21K • 👍 794 • 💬 53 • ⏱️ 10:44 • 11h ago
 
 ---
 
@@ -292,7 +296,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 105K • 👍 7K • 💬 2K • ⏱️ 18:44 • 21h ago
+👁️ 105K • 👍 7K • 💬 2K • ⏱️ 18:44 • 22h ago
 
 ---
 
@@ -322,7 +326,7 @@ Americans Are FURIOUS Over AI Data Centers | It's Getting Worse Popular Video Co
 
 📺 Snyder Reports
 
-👁️ 11K • 👍 1K • 💬 174 • ⏱️ 11:21 • 8h ago
+👁️ 11K • 👍 1K • 💬 174 • ⏱️ 11:21 • 9h ago
 
 ---
 
@@ -332,7 +336,7 @@ Former Congressman Brad Carson, the President of Americans for Responsible Innov
 
 📺 Forbes Breaking News
 
-👁️ 9K • 👍 290 • 💬 130 • ⏱️ 20:25 • 18h ago
+👁️ 9K • 👍 290 • 💬 130 • ⏱️ 20:25 • 19h ago
 
 ---
 
@@ -352,7 +356,7 @@ There is growing concern about how artificial intelligence could be used by the 
 
 📺 Sky News Australia
 
-👁️ 8K • 👍 181 • 💬 101 • ⏱️ 2:08 • 4h ago
+👁️ 8K • 👍 181 • 💬 101 • ⏱️ 2:08 • 5h ago
 
 ---
 
@@ -372,7 +376,7 @@ HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #a
 
 📺 AI Search
 
-👁️ 21K • 👍 1K • 💬 232 • ⏱️ 39:36 • 6h ago
+👁️ 21K • 👍 1K • 💬 232 • ⏱️ 39:36 • 7h ago
 
 ---
 
@@ -412,7 +416,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 684 • 7h ago
+⬇️ 153,566 • ❤️ 684 • 8h ago
 
 ---
 
@@ -472,7 +476,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 2,430 • ❤️ 233 • 7d ago
+⬇️ 2,430 • ❤️ 233 • 8d ago
 
 ---
 
@@ -642,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.7k • 🔱 1.9k • 2m ago
+⭐ 16.7k • 🔱 1.9k • 58m ago
 
 ---
 
@@ -652,7 +656,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 9.8k • 🔱 1.0k • 11h ago
+⭐ 9.8k • 🔱 1.0k • 12h ago
 
 ---
 
@@ -670,7 +674,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 4.9k • 🔱 599 • 17h ago
+⭐ 4.9k • 🔱 599 • 18h ago
 
 ---
 
@@ -690,7 +694,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.2k • 🔱 325 • 3h ago
+⭐ 3.2k • 🔱 325 • 4h ago
 
 ---
 
@@ -700,7 +704,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.9k • 🔱 366 • 38m ago
+⭐ 2.9k • 🔱 366 • 1h ago
 
 ---
 
@@ -710,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 180 • 9h ago
+⭐ 2.6k • 🔱 180 • 10h ago
 
 ---
 
