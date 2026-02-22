@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T19:25:58.703510+00:00'
+updated: '2026-02-22T19:47:03.417610+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 19:25 UTC  
+**Last Updated:** February 22, 2026 at 19:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -60,19 +60,19 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 ---
 
+**[What should I make](https://www.reddit.com/r/robotics/comments/1rbonu9/what_should_i_make/)**
+
+Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
+
+4h ago
+
+---
+
 **[How is this book to take me from a beginner to an advance robotics engineer?](https://www.reddit.com/r/robotics/comments/1razy46/how_is_this_book_to_take_me_from_a_beginner_to_an/)**
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
 1d ago
-
----
-
-**[What should I make](https://www.reddit.com/r/robotics/comments/1rbonu9/what_should_i_make/)**
-
-Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
-
-3h ago
 
 ---
 
@@ -90,19 +90,19 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 ---
 
-**[NYC Build](https://www.reddit.com/r/robotics/comments/1rb97z0/nyc_build/)**
+**[FFRT-737 | Designed to Elevate Security Operations with a Patrol Robot](https://www.reddit.com/r/robotics/comments/1rbunma/ffrt737_designed_to_elevate_security_operations/)**
 
-Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
+FRT-737 Designed to Elevate Security Operations with a Patrol Robot delivering AI-powered threat detection, autonomous patrolling, and 24/7 security monitoring.
 
-17h ago
+🔗 [kodyrobots](https://kodyrobots.com/patrol-robot-frt-737/) • 32m ago
 
 ---
 
-**[Robotics System Design Interviews Questions / Prep](https://www.reddit.com/r/robotics/comments/1rb97oy/robotics_system_design_interviews_questions_prep/)**
+**[MIT Mini-Cheetah Build](https://www.reddit.com/r/robotics/comments/1rbugsq/mit_minicheetah_build/)**
 
-I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
+Hello, I am in the process of building an MITMini-Cheetah type build for a personal project. I planned on using their CAD for the legs as I was able to find a full model for it. However I am having a hard time with the two pulleys in the leg. I can’t seem to find anything online about how to acquire these. Do they need to be just custom CNC, or are they readily available online. If they need to be custom, I have the model for them in Fusion. How would I go about doing that without breaking the bank?
 
-17h ago
+39m ago
 
 ---
 
@@ -140,11 +140,11 @@ umlconnector.com • 9h ago
 
 ---
 
-**[Kraken Robotics: Attractive Business, Challenging Valuation (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4873255-kraken-robotics-attractive-business-challenging-valuation)**
+**[Hinton robotics teams taking their skills to state tournament](https://www.nwestiowa.com/sentinel/hinton-robotics-teams-taking-their-skills-to-state-tournament/article_b7ee24eb-8cc6-4c7e-8def-c131c0dfbeb3.html)**
 
-Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
+HINTON- Two robotics clubs from Hinton High School have qualified to compete in a statewide competition.
 
-Seeking Alpha • 7h ago
+The N'West Iowa REVIEW • 1h ago
 
 ---
 
@@ -153,6 +153,14 @@ Seeking Alpha • 7h ago
 Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
 
 Hawaii News Now • 3d ago
+
+---
+
+**[Kraken Robotics: Attractive Business, Challenging Valuation (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4873255-kraken-robotics-attractive-business-challenging-valuation)**
+
+Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
+
+Seeking Alpha • 8h ago
 
 ---
 
@@ -166,23 +174,15 @@ Forbes • 3d ago
 
 Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
 
-The Robot Report • 5h ago
+The Robot Report • 6h ago
 
 ---
 
-**[Best Ideas Club: This robotics stock could surge as it dominates AI and healthcare](https://www.openingbelldailynews.com/p/best-ideas-club-investors-hulick-robotics-healthcare-ai-asset-manager-portfolio-strategy)**
+**[Toyota deploying humanoid robots at Canadian assembly plant](https://www.autonews.com/manufacturing/anc-tmmc-agility-humanoid-robot-deployment-0219/)**
 
-Veteran investor Tom Hulick's highest-conviction idea for the next 12 months.
+Part of a growing trend toward humanoids in automotive, the robots will assist with logistics at Toyota Motor Manufacturing Canada's Woodstock, Ont. plant, which produces the RAV4.
 
-Opening Bell Daily • 8h ago
-
----
-
-**[Intuitive Surgical: This Robotic-Surgery Leader Could Keep Compounding for Another Decade](https://www.fool.com/investing/2026/02/22/intuitive-surgical-could-keep-compounding-for/)**
-
-The company's years of beating the market aren't over yet.
-
-The Motley Fool • 1h ago
+Automotive News • 3d ago
 
 ---
 

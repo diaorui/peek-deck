@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T19:25:58.698334+00:00'
+updated: '2026-02-22T19:47:03.414279+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 19:25 UTC  
+**Last Updated:** February 22, 2026 at 19:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.4%  
-**7d:** -2.9%  
-**30d:** -34.3%  
-**90d:** -34.4%  
-**1y:** -31.2%  
+**24h:** -1.5%  
+**7d:** -2.6%  
+**30d:** -34.1%  
+**90d:** -34.3%  
+**1y:** -31.0%  
 
 ---
 
@@ -168,19 +168,19 @@ CoinDesk • 1d ago
 
 ---
 
+**['Ethereum Is Going Hard': Vitalik Buterin Backs Censorship Resistance Upgrade](https://decrypt.co/358792/ethereum-going-hard-vitalik-buterin-backs-censorship-resistance-upgrade)**
+
+Ethereum developers scheduled a controversial upgrade for later this year. Buterin said it reinforces the network’s cypherpunk principles.
+
+Decrypt • 23h ago
+
+---
+
 **[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
 
 BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
 
 Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
-
-Key PointsBitcoin could struggle to retain its reputation as "digital gold".
-
-Nasdaq • 2d ago
 
 ---
 
@@ -192,6 +192,14 @@ Fortune • 2d ago
 
 ---
 
+**[Bitcoin vs. Ethereum: Which Is the Smarter Buy for 2026 and Beyond?](https://www.nasdaq.com/articles/bitcoin-vs-ethereum-which-smarter-buy-2026-and-beyond)**
+
+Key PointsBitcoin could struggle to retain its reputation as "digital gold".
+
+Nasdaq • 2d ago
+
+---
+
 **[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
 
 At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
@@ -200,7 +208,7 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqexYuSjIyMeJkvZJrDXSynLFbFzEl-809PgMLBTBuv8_uBZPFHWHtal&gaa_ts=699b5056&gaa_sig=-Ta-wQaEk2FARyr6XodDN7iTUFr7bXH2hztC7-BlxTXKfcPYVz2PCyzFCunIGh1QfEAJjCrw0aGjrEY-ZYr1gA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqfA05iUkJnC_Lx3Vjs3kJRbIGKQ_MgnkHRHEudJgwOeq8gGgq-evfrt&gaa_ts=699b60a5&gaa_sig=XTf16uxH4UYn611a-4pMOpN2sJgBScBcBg2hq95IXQfPQBIlRyfPRCKOfVgd8l1TCrH683aY52iuwtkXPAL_VA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -214,19 +222,11 @@ TradingView • 21h ago
 
 ---
 
-**[ETHB: Everything We Know About BlackRock's New Ethereum Staking ETF](https://info.arkm.com/research/ethb-everything-we-know-about-blackrocks-new-ethereum-staking-etf)**
+**[Ethereum Analysis Shows Order Flow Divergence: Institutions Bullish While Retails Bearish](https://investinglive.com/Cryptocurrency/ethereum-order-flow-divergence-institutions-turn-net-long-while-retail-leans-bearish-20260222/)**
 
-BlackRock is undergoing preparations to launch its much-anticipated Ethereum staking ETF: ETHB. Here's everything we know so far
+This insight shows retails are Short but institutionals are Long. Find out the details of this new information and what it means.
 
-Arkham | Research • 2d ago
-
----
-
-**[Every Ethereum Whale Cohort Now Underwater: ETH Capitulation Marking The Final Bottom? | Bitcoinist.com](https://bitcoinist.com/every-ethereum-whale-underwater-eth-capitulation/)**
-
-Ethereum struggles below $2K as whale profit ratios turn negative, signaling rising stress and fragile market sentiment amid volatility
-
-Bitcoinist.com • 1d ago
+investingLive • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 195 • 👍 13 • 💬 1 • ⏱️ 4:51 • 7h ago
+👁️ 195 • 👍 13 • 💬 1 • ⏱️ 4:51 • 8h ago
 
 ---
 
@@ -330,7 +330,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 9K • 👍 328 • 💬 96 • ⏱️ 14:32 • 19h ago
+👁️ 9K • 👍 328 • 💬 96 • ⏱️ 14:32 • 20h ago
 
 ---
 

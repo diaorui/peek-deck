@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T19:25:58.692253+00:00'
+updated: '2026-02-22T19:47:03.408055+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- videos
 - cryptocurrency
 - social
-- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 19:25 UTC  
+**Last Updated:** February 22, 2026 at 19:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -2.2%  
-**30d:** -24.6%  
-**90d:** -23.1%  
-**1y:** -30.0%  
+**24h:** -1.1%  
+**7d:** -2.0%  
+**30d:** -24.4%  
+**90d:** -22.9%  
+**1y:** -29.9%  
 
 ---
 
@@ -101,19 +101,19 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 ---
 
+**[Long-Term Bitcoin Holders Pay Way Less Tax](https://www.reddit.com/r/Bitcoin/comments/1rbep1g/longterm_bitcoin_holders_pay_way_less_tax/)**
+
+In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
+
+13h ago
+
+---
+
 **[My barber just sold his Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rargo9/my_barber_just_sold_his_bitcoin/)**
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
 1d ago
-
----
-
-**[Long-Term Bitcoin Holders Pay Way Less Tax](https://www.reddit.com/r/Bitcoin/comments/1rbep1g/longterm_bitcoin_holders_pay_way_less_tax/)**
-
-In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
-
-12h ago
 
 ---
 
@@ -137,7 +137,15 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-23h ago
+1d ago
+
+---
+
+**[Thoughts on buying BTC on Cashapp?](https://www.reddit.com/r/Bitcoin/comments/1rbnwrr/thoughts_on_buying_btc_on_cashapp/)**
+
+What are your thoughts on that??
+
+4h ago
 
 ---
 
@@ -147,31 +155,9 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 ---
 
-**[Daily Discussion, February 22, 2026](https://www.reddit.com/r/Bitcoin/comments/1rbe381/daily_discussion_february_22_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-13h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[BTC, ETH, DOGE price news: Bitcoin drops to $67,000 as Trump's tariff tentions return](https://www.coindesk.com/markets/2026/02/22/bitcoin-dips-to-usd67-000-doge-eth-slide-as-tariff-uncertainty-weighs-on-risk-assets)**
-
-President Donald Trump raised the global tariff rate to 15% despite a Supreme Court ruling against earlier emergency trade measures, keeping pressure on China and other partners.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
-
-Bloomberg.com • 1d ago
-
----
 
 **[Quantum computing risk puts 7 million BTC including Satoshi Nakamoto's 1 million at stake](https://www.coindesk.com/business/2026/02/22/to-freeze-or-not-to-freeze-satoshi-and-the-usd440-billion-in-bitcoin-threatened-by-quantum-computing)**
 
@@ -181,25 +167,23 @@ CoinDesk • 3h ago
 
 ---
 
+**[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
+
+Bloomberg • 1d ago
+
+---
+
+**[Bitcoin see-saws around $68,000, DOGE, ETH slide as tariff uncertainty weighs on risk assets](https://www.binance.com/el/square/post/294454588504145)**
+
+Binance • 2h ago
+
+---
+
 **[Robert Kiyosaki Doubles Down on Bitcoin at $67,000, Citing Two Big Catalysts](https://finance.yahoo.com/news/robert-kiyosaki-doubles-down-bitcoin-204510463.html)**
 
 On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
 
-Yahoo Finance • 22h ago
-
----
-
-**[Robert Kiyosaki buys 1 more BTC , doubles down on bitcoin over gold](https://www.binance.com/en/square/post/294203989714162)**
-
-Binance • 19h ago
-
----
-
-**[Rich Dad Poor Dad buys Bitcoin again](https://www.thestreet.com/crypto/economy/rich-dad-poor-dad-buys-bitcoin-again)**
-
-Robert Kiyosaki is buying Bitcoin again.
-
-thestreet.com • 20h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -215,7 +199,7 @@ Fortune • 2d ago
 
 After five months of steady selling pressure, Bitcoin could be ready to rebound.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -232,6 +216,20 @@ The Globe and Mail • 2d ago
 CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
 The Block • 21h ago
+
+---
+
+**[Lyn Alden Says AI Stock Peak Could Boost Bitcoin](https://bitbo.io/news/ai-stock-peak-bitcoin/)**
+
+Macro strategist Lyn Alden said a peak in heavily bid AI stocks could trigger a rotation that benefits bitcoin, which she argues needs only marginal new demand to move higher.
+
+Bitbo • 23h ago
+
+---
+
+**[Bitcoin slips after earlier gains amid tariff volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-68000-after-tariffdriven-volatility-fades-4517576)**
+
+Investing.com • 1h ago
 
 ---
 
@@ -319,7 +317,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 208 • ⏱️ 8:15 • 19h ago
+👁️ 44K • 👍 2K • 💬 208 • ⏱️ 8:15 • 20h ago
 
 ---
 
@@ -399,7 +397,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 6K • 👍 339 • 💬 119 • ⏱️ 13:24 • 19h ago
+👁️ 6K • 👍 339 • 💬 119 • ⏱️ 13:24 • 20h ago
 
 ---
 
