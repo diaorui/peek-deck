@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-22T02:21:17.571410+00:00'
+updated: '2026-02-22T04:29:40.833154+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 02:21 UTC  
+**Last Updated:** February 22, 2026 at 04:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,51 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,972.11
+### $1,968.53
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.1%  
-**7d:** -0.9%  
-**30d:** -32.9%  
-**90d:** -33.1%  
-**1y:** -29.8%  
+**24h:** +0.5%  
+**7d:** -1.3%  
+**30d:** -33.2%  
+**90d:** -33.4%  
+**1y:** -30.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $238.83B
+**Market Cap:** $237.98B
 Rank #2
 
 **Circulating Supply:** 120,692,364 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.0%
+-60.1%
 
 **All-Time Low:** $0.43
-+456926.8%
++455210.8%
 
 ---
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion February 21, 2026](https://www.reddit.com/r/ethereum/comments/1rajeg9/daily_general_discussion_february_21_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-20h ago
-
----
-
 **[Staking](https://www.reddit.com/r/ethereum/comments/1rb9eit/staking/)**
 
 I was looking into staking, I invest on robinhood because it is easy and I do not own much Crypto. How often does slashing occur in staking? I was going to start staking the eth I have, but started looking into it and saw you could potentially lose all the eth you stake if slashing occurs. How often does it happen?
 
-16m ago
+2h ago
+
+---
+
+**[Daily General Discussion February 21, 2026](https://www.reddit.com/r/ethereum/comments/1rajeg9/daily_general_discussion_february_21_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+22h ago
 
 ---
 
@@ -88,7 +88,7 @@ I was looking into staking, I invest on robinhood because it is easy and I do no
 
 "AI becomes the government" is dystopian: it leads to slop when AI is weak, and is doom-maximizing once AI becomes strong. But AI used well can be empowering, and push the frontier of democratic / decentralized modes of governance. The core problem with democratic / decentralized modes of governance (including DAOs on ethereum) is limits to human attention: there are many thousands of decisions to make, involving many domains of expertise, and most people don't have the time or skill to be experts in even one, let alone all of them. The usual solution, delegation, is disempowering: it leads to a small group of delegates controlling decision-making while their supporters, after they hit the "delegate" button, have no influence at all. So what can we do? We use personal LLMs to solve the attention problem! Here are a few ideas: Personal governance agents If a governance mechanism depends on you to make a large number of decisions, a personal agent can perform all the necessary votes for you, based on preferences that it infers from your personal writing, conversation history, direct statements, etc. If the agent is (i) unsure how you would vote on an issue, and (ii) convinced the issue is important, then it should ask you directly, and give you all relevant context. Public conversation agents Making good decisions often cannot come from a linear process of taking people's views that are based only on their own information, and averaging them (even quadratically). There is a need for processes that aggregate many people's information, and then give each person (or their LLM) a chance to respond based on that. This includes: Inferring and summarizing your own views and converting them into a format that can be shared publicly (and does not expose your private info) Summarizing commonalities between people's inputs (expressed as words), similar to the various LLM+pol.is ideas Suggestion markets If a governance mechanism values "high-quality inputs" of any type (this could be proposals, or it could even be arguments), then you can have a prediction market, where anyone can submit an input, AIs can bet on a token representing that input, and if the mechanism "accepts" the input (either accepting the proposal, or accepting it as a "unit" of conversation that it then passes along to its participant), it pays out $X to the holders of the token. Note that this is basically the same as https://firefly.social/post/x/2017956762347835488 Decentralized governance with private information One of the biggest weaknesses of highly decentralized / democratic governance is that it does not work well when important decisions need to be made with secret information. Common situations: (i) the org engaging in adversarial conflicts or negotiations (ii) internal dispute resolution (iii) compensation / funding decisions. Typically, orgs solve this by appointing individuals who have great power to take on those tasks. But with multi-party computation (currently I've seen this done with TEEs; I would love to see at least the two-party case solved with garbled circuits https://vitalik.eth.limo/general/2020/03/21/garbled.html so we can get pure-cryptographic security guarantees for it), we could actually take many people's inputs into account to deal with these situations, without compromising privacy. Basically: you submit your personal LLM into a black box, the LLM sees private info, it makes a judgement based on that, and it outputs only that judgement. You don't see the private info, and no one else sees the contents of your personal LLM. The importance of privacy All of these approaches involve each participant making use of much more information about themselves, and potentially submitting much larger-sized inputs. Hence, it becomes all the more important to protect privacy. There are two kinds of privacy that matter: Anonymity of the participant: this can be accomplished with ZK. In general, I think all governance tools should come with ZK built in Privacy of the contents: this has two parts. First, the personal LLM should do what it can to avoid divulging private info about you that it does not need to divulge. Second, when you have computation that combines multiple LLMs or multiple people's info, you need multi-party techniques to compute it privately. Both are important.
 
-11h ago
+13h ago
 
 ---
 
@@ -152,27 +152,19 @@ Vitalik Buterin challenges the Web4 “sovereign AI” narrative, warning that e
 
 ## Google News: "ethereum"
 
-**[BNP Paribas taps Ethereum for new money market fund tokenization pilot](https://www.theblock.co/post/390686/bnp-paribas-taps-ethereum-new-money-market-fund-tokenization-pilot)**
-
-The tokenized shares were issued by the BNP Paribas’ AssetFoundryTM platform using a "permissioned access model on Ethereum."
-
-The Block • 1d ago
-
----
-
-**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
-
-At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
-
-Decrypt • 12h ago
-
----
-
 **[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
 
 The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
 
-CoinDesk • 6h ago
+CoinDesk • 9h ago
+
+---
+
+**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
+
+FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
+
+The Block • 1d ago
 
 ---
 
@@ -200,25 +192,33 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqcPtOrZHAaTQw-X-s3lgS585x9aObgaiUb1ikguk1WjNXCAPON38-d7&gaa_ts=699a6b8c&gaa_sig=a0ha1l8eHom9mb0B3lCjDQXNpEagXJk9ekScZj_yU8urweo2zxecAllsjIFUHBXa6ZwLJigHtCO6Hr5WzEUpMg%3D%3D)**
+**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+
+At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+
+Decrypt • 14h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Waffle as Crypto Crisis Deepens. Why It Could Get Worse.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-crisis-e43f4227?gaa_at=eafs&gaa_n=AWEtsqe0GH225M1_-l543-4zCDHfkbEqoNRrDGuKnQtyt3ZyViMjaVD7pCRx&gaa_ts=699a89a3&gaa_sig=f1spDAG28MCz58fBkx2W78kIHm1W2CwH2y-hM8YBUJ6CY1A52VgvLuHiTwwoDByFCtHBu4-2PCeNT1to9Kp9aA%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[Ethereum Breaks Fhe Final Whale Floor In A 2018-Style Capitulation: What To Expect](https://www.tradingview.com/news/newsbtc:154df2de3094b:0-ethereum-breaks-fhe-final-whale-floor-in-a-2018-style-capitulation-what-to-expect/)**
+**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
 
-Ethereum is struggling to reclaim the $2,000 level, with persistent selling pressure continuing to weigh on sentiment across the broader crypto market. Despite intermittent recovery attempts, price action remains fragile as liquidity conditions tighten and investors reassess risk exposure following…
+Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
 
-TradingView • 1d ago
+TradingView • 6h ago
 
 ---
 
-**[Vitalik Buterin plans bolt-on cypherpunk layer to upgrade existing Ethereum](https://cryptobriefing.com/vitalik-buterin-cypherpunk-ethereum-layer-upgrade/)**
+**[Bitmine Immersion: Ethereum's Biggest Public Whale (NYSE:BMNR)](https://seekingalpha.com/article/4871611-bitmine-immersion-ethereum-biggest-public-whale)**
 
-Vitalik Buterin announces a cypherpunk Ethereum layer focusing on censorship resistance, ZK cryptography, and consensus efficiency.
+Asymmetric upside for Bitmine Immersion Technologies is likely if Ethereum (and the whole crypto space) recovers from the recent downtrend. More on BMNR stock.
 
-Crypto Briefing • 1d ago
+Seeking Alpha • 3d ago
 
 ---
 
@@ -240,7 +240,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 5K • 👍 300 • 💬 80 • ⏱️ 8:49 • 5h ago
+👁️ 6K • 👍 357 • 💬 91 • ⏱️ 8:49 • 7h ago
 
 ---
 
@@ -250,7 +250,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 11K • 👍 475 • 💬 34 • ⏱️ 18:46 • 11h ago
+👁️ 12K • 👍 501 • 💬 35 • ⏱️ 18:46 • 13h ago
 
 ---
 
@@ -260,7 +260,7 @@ BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &
 
 📺 Crypto World
 
-👁️ 2K • 👍 156 • 💬 24 • ⏱️ 14:32 • 2h ago
+👁️ 4K • 👍 197 • 💬 50 • ⏱️ 14:32 • 4h ago
 
 ---
 
@@ -270,7 +270,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 5 • ⏱️ 4:43 • 11h ago
+👁️ 2K • 👍 135 • 💬 5 • ⏱️ 4:43 • 13h ago
+
+---
+
+**[Tom Lee: The 44x Opportunity EVEN Bigger Than Bitcoin (2026 Prediction)](https://www.youtube.com/watch?v=DAkb7jk3oUE)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
+
+📺 Crypto Nutshell
+
+👁️ 16K • 👍 529 • 💬 33 • ⏱️ 21:01 • 2d ago
 
 ---
 
@@ -280,27 +290,7 @@ Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take o
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 4K • 💬 60 • ⏱️ 10:36 • 1d ago
-
----
-
-**[WHY ETH CAN RALLY NEXT MONTH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=50RuciUyE7w)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 364 • 👍 17 • ⏱️ 4:35 • 16h ago
-
----
-
-**[Coinbase Moves To ETH!🔥Robinhood vs Coinbase🔥SHOTS FIRED!](https://www.youtube.com/watch?v=jSKfTE-aZBQ)**
-
-Optimism has plunged to a new all-time low after intense selling pressure overwhelmed recent demand. The decline accelerated ...
-
-📺 Paul Barron Network
-
-👁️ 57K • 👍 3K • 💬 172 • ⏱️ 15:12 • 2d ago
+👁️ 28K • 👍 4K • 💬 60 • ⏱️ 10:36 • 1d ago
 
 ---
 
@@ -310,27 +300,37 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 174 • 💬 10 • ⏱️ 10:25 • 18h ago
+👁️ 1K • 👍 176 • 💬 10 • ⏱️ 10:25 • 20h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UcdnChwDGQ0)**
+**[WHY ETH CAN RALLY NEXT MONTH!🔥 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=50RuciUyE7w)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 FacePaintcom
+📺 Cilinix Crypto
 
-👁️ 3K • 👍 1K • 1h ago
+👁️ 392 • 👍 17 • ⏱️ 4:35 • 18h ago
 
 ---
 
-**[CAN CLARITY ACT PUSH XRP TO $100 - XRP WILL FLIP ETH SOON - AI AGENTS USE XRP ON THE XRPL - XRP NEWS](https://www.youtube.com/watch?v=mT-3oJa1EA4)**
+**[Coinbase Moves To ETH!🔥Robinhood vs Coinbase🔥SHOTS FIRED!](https://www.youtube.com/watch?v=jSKfTE-aZBQ)**
 
-CAN CLARITY ACT PUSH XRP TO $100 - XRP WILL FLIP ETH SOON - AI AGENTS USE XRP ON THE XRPL - XRP NEWS NEW ...
+Optimism has plunged to a new all-time low after intense selling pressure overwhelmed recent demand. The decline accelerated ...
 
-📺 Common Sense Crypto
+📺 Paul Barron Network
 
-👁️ 8K • 👍 868 • 💬 115 • ⏱️ 15:36 • 9h ago
+👁️ 57K • 👍 3K • 💬 173 • ⏱️ 15:12 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=qmxSiNO11SM)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 236 • 👍 43 • 💬 1 • ⏱️ 7:26 • 57m ago
 
 ---
 

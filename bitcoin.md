@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T02:21:17.565305+00:00'
+updated: '2026-02-22T04:29:40.827081+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 02:21 UTC  
+**Last Updated:** February 22, 2026 at 04:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,870.27
+### $68,039.62
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.7%  
-**7d:** -1.0%  
-**30d:** -23.7%  
-**90d:** -22.2%  
-**1y:** -29.2%  
+**24h:** +0.3%  
+**7d:** -1.2%  
+**30d:** -23.8%  
+**90d:** -22.3%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1361.79B
+**Market Cap:** $1359.32B
 Rank #1
 
-**Circulating Supply:** 19,992,887 BTC
+**Circulating Supply:** 19,992,934 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.0%
+-46.1%
 
 **All-Time Low:** $67.81
-+100348.3%
++100147.8%
 
 ---
 
@@ -77,17 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
-
-10h ago
-
----
-
 **[Dutch House passes 36% tax on unrealized crypto and investment gains](https://www.reddit.com/r/Bitcoin/comments/1razuzz/dutch_house_passes_36_tax_on_unrealized_crypto/)**
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 7h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 9h ago
 
 ---
 
@@ -95,7 +89,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-12h ago
+14h ago
 
 ---
 
@@ -103,7 +97,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-6h ago
+9h ago
 
 ---
 
@@ -111,7 +105,13 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-8h ago
+10h ago
+
+---
+
+**[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
+
+12h ago
 
 ---
 
@@ -119,7 +119,23 @@ Just found this whilst digging around a an ancient box of cables I should have j
 
 Just trying to look at this calmly and without bias. After the recent sell-off, we got a bounce. That’s not unusual. Bitcoin has always reacted sharply after strong downside moves. The real question, at least to me, is whether this bounce actually changes anything structurally or if it’s just a temporary reaction inside a broader correction. So far, we haven’t clearly reclaimed and held above major resistance on the higher timeframes. In past cycles, real trend shifts usually showed sustained strength over time not just quick pops. At the same time, Bitcoin has gone through plenty of corrections before continuing its longer term trajectory. Short term structure doesn’t automatically define where things go over the years. Not making any predictions here. Just observing and trying to stay objective. How are you guys reading it from a higher timeframe point of view? And guys it's just my views it's could be wrong
 
-2h ago
+4h ago
+
+---
+
+**[Use paypal for buying btc?](https://www.reddit.com/r/Bitcoin/comments/1rb9zmv/use_paypal_for_buying_btc/)**
+
+1, Does it allow eternal transfer? like if i want to transfer to my personal wallet. 2, How much is the fees of buying crypto? 3, Are there any limitations from using paypal for btc
+
+1h ago
+
+---
+
+**[What do people think about the Fidelity Bitcoin ETF?](https://www.reddit.com/r/Bitcoin/comments/1rb19e3/what_do_people_think_about_the_fidelity_bitcoin/)**
+
+I am considering yoloing my daughters' investments at it, I think it seems interesting and unique, but for the most part it seems to trend pretty close to the value of btc so I'm unsure in the benefit over buying coins, and I know people will say that's better, but I'm still interested in feedback on this investment vehicle.
+
+8h ago
 
 ---
 
@@ -131,25 +147,11 @@ My stack is still already cool imho. Happy stacking everyone
 
 ---
 
-**[What do people think about the Fidelity Bitcoin ETF?](https://www.reddit.com/r/Bitcoin/comments/1rb19e3/what_do_people_think_about_the_fidelity_bitcoin/)**
+**[Suggestions on software that I can use for Cold wallets](https://www.reddit.com/r/Bitcoin/comments/1rbb70a/suggestions_on_software_that_i_can_use_for_cold/)**
 
-I am considering yoloing my daughters' investments at it, I think it seems interesting and unique, but for the most part it seems to trend pretty close to the value of btc so I'm unsure in the benefit over buying coins, and I know people will say that's better, but I'm still interested in feedback on this investment vehicle.
+I have a Ledger S which I believe is no longer supported by Ledger Live ? Can you suggest any softwares, that I can use to continue using my Ledger S? Also, previously I had the Ledger Live installed on my laptop but for some reason its now deleted so i don't know what to do. Thanks
 
-6h ago
-
----
-
-**[KBC Bank (Belgium) launches regulated crypto services with Crypto Finance as partner](https://www.reddit.com/r/Bitcoin/comments/1raz4uw/kbc_bank_belgium_launches_regulated_crypto/)**
-
-https://newsroom.kbc.com/kbc-bank-launches-regulated-crypto-services-with-crypto-finance-as-partner Belgium’s KBC Bank rolled out regulated crypto trading for retail clients, including bitcoin. This means they became the first major Belgian bank to offer direct Bitcoin access. The service went live mid-Feb through its Bolero investment platform under the EU’s MiCA framework.
-
-7h ago
-
----
-
-**[Watching a skeptic explain why BTC is over for the 100th time](https://www.reddit.com/r/Bitcoin/comments/1r9tyhl/watching_a_skeptic_explain_why_btc_is_over_for/)**
-
-1d ago
+58m ago
 
 ---
 
@@ -157,33 +159,17 @@ https://newsroom.kbc.com/kbc-bank-launches-regulated-crypto-services-with-crypto
 
 ## Google News: "bitcoin"
 
+**[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
+
+Bloomberg.com • 13h ago
+
+---
+
 **[‘Bitcoin to zero’ searches spike in the U.S., but the bottom signal is mixed](https://www.coindesk.com/markets/2026/02/22/bitcoin-to-zero-searches-spike-in-the-u-s-but-the-bottom-signal-is-mixed)**
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 6h ago
-
----
-
-**[Bitcoin price analysis: BTC at attractive levels for patient investors](https://www.coindesk.com/markets/2026/02/21/bitcoin-echoes-late-2022-bear-market-bottom-k33-says)**
-
-The current levels offer an attractive entry for long-term investors, even if their patience will be tested, Vetle Lunde said.
-
-CoinDesk • 7h ago
-
----
-
-**[Jim Cramer Says Cryptos Are 'Getting Slaughtered,' Dismisses Bitcoin As Iranian War Hedge](https://finance.yahoo.com/news/jim-cramer-says-cryptos-getting-233120436.html)**
-
-Jim Cramer took to social media platform X on Thursday to question the cryptocurrency market, specifically questioning Bitcoin's (CRYPTO: BTC) utility during periods of geopolitical instability. Cramer Dismisses “Iranian War Hedge” Narrative As tensions between the U.S. and Iran reach...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Robert Kiyosaki buys 1 more BTC , doubles down on bitcoin over gold](https://www.binance.com/en/square/post/294203989714162)**
-
-Binance • 2h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -195,33 +181,35 @@ Fortune • 1d ago
 
 ---
 
-**[Bitcoin Rises After Supreme Court Rules Against Trump Tariffs](https://finance.yahoo.com/news/bitcoin-rises-supreme-court-rules-172049557.html)**
+**[Robert Kiyosaki Doubles Down on Bitcoin at $67,000, Citing Two Big Catalysts](https://finance.yahoo.com/news/robert-kiyosaki-doubles-down-bitcoin-204510463.html)**
 
-Bitcoin ticked up after the Supreme Court ruled that President Trump exceeded his authority in imposing most tariffs on foreign goods.
+On Saturday, Robert Kiyosaki said he bought another full Bitcoin (CRYPTO: BTC) for $67,000 even as he described the cryptocurrency as "crashing," framing the purchase as a bet against a potential breakdown in the U.S. dollar and a coming supply milestone for Bitcoin. The move fits with his long-running stance of ignoring crypto volatility while he builds positions across Bitcoin, Ethereum (CRYPTO: ETH), and hard assets as protection from what he sees as worsening U.S. debt dynamics. In a post on
 
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
-
-U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
-
-CoinDesk • 9h ago
+Yahoo Finance • 7h ago
 
 ---
 
-**[Bitcoin price news: BTC gains, but quickly retreats as Trump tariffs ruled illegal by Supreme Court](https://www.coindesk.com/markets/2026/02/20/bitcoin-pops-then-drops-as-supreme-court-strikes-down-trump-tariffs)**
+**[CryptoQuant says bitcoin whale deposit activity grows amid ongoing bear phase](https://www.theblock.co/post/390712/cryptoquant-bitcoin-whale-deposit-ongoing-bear-phase)**
 
-Hotter inflation and slower growth delivers a messy message with the Federal Reserve likely take its time before any policy changes, one analyst said.
+CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-CoinDesk • 1d ago
+The Block • 6h ago
 
 ---
 
-**[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
+**[Bitcoin Pops After Supreme Court Strikes Down Trump’s Tariffs](https://bitcoinmagazine.com/news/bitcoin-pops-after-supreme-court)**
 
-Forbes • 13h ago
+The Supreme Court on Friday struck down Trump’s global tariffs, ruling 6-3 that he exceeded his emergency powers.
+
+Bitcoin Magazine • 1d ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1771729200)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -229,7 +217,19 @@ Forbes • 13h ago
 
 At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
 
-Decrypt • 12h ago
+Decrypt • 14h ago
+
+---
+
+**[Bitcoin Price Suddenly Braced For A ‘Massive Trigger’—Predicted To Open The Crypto ‘Flood Gates’ To Trillions](https://www.forbes.com/sites/digital-assets/2026/02/21/bitcoin-price-suddenly-braced-for-a-massive-trigger-predicted-to-open-the-crypto-flood-gates-to-trillions/)**
+
+Forbes • 16h ago
+
+---
+
+**[Bitcoin sees its worst ever start to a year](https://seekingalpha.com/news/4554654-bitcoin-sees-worst-ever-start-to-a-year)**
+
+Seeking Alpha • 1d ago
 
 ---
 
@@ -253,7 +253,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 6h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 9h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -267,7 +267,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 13h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 15h ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -311,13 +311,23 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Holders suddenly have a MAJOR PROBLEM](https://www.youtube.com/watch?v=SwNLNppPHl8)**
+
+BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ Bitunix (no kyc, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 63K • 👍 3K • 💬 250 • ⏱️ 9:14 • 1d ago
+
+---
+
 **[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
 
 Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
 
 📺 Money Talks
 
-👁️ 824 • 👍 33 • 💬 25 • ⏱️ 15:10 • 7h ago
+👁️ 1K • 👍 40 • 💬 35 • ⏱️ 15:10 • 9h ago
 
 ---
 
@@ -327,27 +337,7 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 419K • 👍 24K • 💬 4K • ⏱️ 32:14 • 13h ago
-
----
-
-**[Bitcoin Holders suddenly have a MAJOR PROBLEM](https://www.youtube.com/watch?v=SwNLNppPHl8)**
-
-BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ Bitunix (no kyc, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 62K • 👍 3K • 💬 248 • ⏱️ 9:14 • 1d ago
-
----
-
-**[This Is Where Bitcoin Holders Are Made](https://www.youtube.com/watch?v=j67YGN3F7BQ)**
-
-Bitcoin conviction is easy at $120K. It's harder when price pulls back and your cost basis is underwater. In this episode of No ...
-
-📺 Swan Bitcoin
-
-👁️ 2K • 👍 91 • 💬 27 • ⏱️ 1:02 • 10h ago
+👁️ 448K • 👍 25K • 💬 4K • ⏱️ 32:14 • 15h ago
 
 ---
 
@@ -357,27 +347,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 57K • 👍 3K • 💬 75 • ⏱️ 52:37 • 12h ago
+👁️ 62K • 👍 3K • 💬 75 • ⏱️ 52:37 • 14h ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UcdnChwDGQ0)**
+**[This Is Where Bitcoin Holders Are Made](https://www.youtube.com/watch?v=j67YGN3F7BQ)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+Bitcoin conviction is easy at $120K. It's harder when price pulls back and your cost basis is underwater. In this episode of No ...
 
-📺 FacePaintcom
+📺 Swan Bitcoin
 
-👁️ 3K • 👍 1K • 1h ago
-
----
-
-**[This Trade Works EVERY Time Bitcoin Moves 🪙📈](https://www.youtube.com/watch?v=0_9Ke23WqZc)**
-
-LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications to know when we're on ✓ CONNECT on IG, ...
-
-📺 Dumb Money Live
-
-👁️ 18K • 👍 512 • 💬 22 • ⏱️ 1:02 • 23h ago
+👁️ 2K • 👍 103 • 💬 27 • ⏱️ 1:02 • 12h ago
 
 ---
 
@@ -391,23 +371,43 @@ Anthony Scaramucci is the founder and managing partner of SkyBridge Capital and 
 
 ---
 
-**[Tom Lee :&quot;Why You NEED To Own Just 0.1 Bitcoin (BTC) In 2026 (Prediction)&quot;](https://www.youtube.com/watch?v=G9qVNHjKeMc)**
+**[The $900 Billion Supreme Court &#39;Rug Pull&#39; That Could Send Bitcoin Parabolic!](https://www.youtube.com/watch?v=C3sX3NIN39Y)**
 
-My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
+billion just got ripped out of the economy while GDP misses and inflation creeps back. The Supreme Court ruling on tariffs, weak ...
 
-📺 Jamie Tree 
+📺 Simply Bitcoin
 
-👁️ 5K • 👍 124 • 💬 19 • ⏱️ 20:56 • 1d ago
+👁️ 29K • 👍 2K • 💬 145 • ⏱️ 12:39 • 1d ago
 
 ---
 
-**[Bitcoin Bear Market: Is 8 Months Left? Price Prediction!](https://www.youtube.com/watch?v=04yPEO_AIJA)**
+**[BITCOIN HOLDERS: MY IMPORTANT MESSAGE!](https://www.youtube.com/watch?v=iBFOmxCN24o)**
 
-Full video here: https://youtu.be/xU0gpt2VgCU #bitcoin #crypto #shorts ⚠️ DISCLAIMER: To appease money-hungry lawyers ...
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
 
-📺 Crypto Love
+📺 Crypto Kid
 
-👁️ 1K • 👍 56 • 💬 50 • ⏱️ 1:39 • 9h ago
+👁️ 2K • 👍 181 • 💬 73 • ⏱️ 13:24 • 5h ago
+
+---
+
+**[The White House Just Released The Crypto BULLS!! (Why I&#39;m preparing for a Bitcoin DUMP)](https://www.youtube.com/watch?v=-i8humbpZJQ)**
+
+Trump White House PUMPING Crypto.. Due To THIS LAST DAY: Ledger Flash Sale: https://www.ledger.com/altcoindaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 48K • 👍 3K • 💬 141 • ⏱️ 11:10 • 2d ago
+
+---
+
+**[This Trade Works EVERY Time Bitcoin Moves 🪙📈](https://www.youtube.com/watch?v=0_9Ke23WqZc)**
+
+LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications to know when we're on ✓ CONNECT on IG, ...
+
+📺 Dumb Money Live
+
+👁️ 18K • 👍 523 • 💬 23 • ⏱️ 1:02 • 1d ago
 
 ---
 
