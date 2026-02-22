@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T13:44:11.239996+00:00'
+updated: '2026-02-22T14:27:53.947481+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 13:44 UTC  
+**Last Updated:** February 22, 2026 at 14:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,974.79
+### $67,972.65
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -1.4%  
-**30d:** -23.9%  
-**90d:** -22.5%  
-**1y:** -29.4%  
+**24h:** -1.5%  
+**7d:** -1.7%  
+**30d:** -24.2%  
+**90d:** -22.8%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1362.80B
+**Market Cap:** $1351.67B
 Rank #1
 
-**Circulating Supply:** 19,993,115 BTC
+**Circulating Supply:** 19,993,168 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--45.9%
+-46.4%
 
 **All-Time Low:** $67.81
-+100422.0%
++99600.6%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 18h ago
+🔗 [Stacker News](https://stacker.news/items/1433892) • 19h ago
 
 ---
 
@@ -89,7 +89,7 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
 
-23h ago
+1d ago
 
 ---
 
@@ -97,15 +97,7 @@ Went to my barber and he is very bearish on Bitcoin and he thinks it’s going t
 
 Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
 
-19h ago
-
----
-
-**[Just keep this in mind…](https://www.reddit.com/r/Bitcoin/comments/1rbde7t/just_keep_this_in_mind/)**
-
-With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
-
-8h ago
+20h ago
 
 ---
 
@@ -117,17 +109,25 @@ In these brutal bear markets where weak hands get absolutely wrecked, there’s 
 
 ---
 
+**[Just keep this in mind…](https://www.reddit.com/r/Bitcoin/comments/1rbde7t/just_keep_this_in_mind/)**
+
+With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
+
+9h ago
+
+---
+
 **[Custom Steel BTC sign](https://www.reddit.com/r/Bitcoin/comments/1rb02ma/custom_steel_btc_sign/)**
 
 I’ve been making a bunch of Bitcoin related art lately. Here’s the most recent one I just finished up. All steel with a hidden RGB LED light strip. Very happy with how this turned out! For those interested in how I made this… The ₿ and the flat ring were cut out using my oxy-acetylene torch. Using a ring-roller, I made the hoop, and welded on the flat ring to conceal the LED strip and be the face where the text was engraved. Has the appearance of angle iron rolled into a ring. The ₿ is actually attached with magnets so it gives it that stand-off appearance. I originally was going to roll each individual ring for the circuit lines and weld those on to make the whole background raised, but decided the CNC would be much easier and also make the whole project go a lot faster lol. What do you guys think? Would you hang this in your house?
 
-18h ago
+19h ago
 
 ---
 
 **[Tim Draper on Bitcoin: "I think it's the greatest thing that's happened to humanity."](https://www.reddit.com/r/Bitcoin/comments/1rauk76/tim_draper_on_bitcoin_i_think_its_the_greatest/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -135,7 +135,7 @@ I’ve been making a bunch of Bitcoin related art lately. Here’s the most rece
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-7h ago
+8h ago
 
 ---
 
@@ -147,11 +147,11 @@ Just trying to look at this calmly and without bias. After the recent sell-off, 
 
 ---
 
-**[why Different Derivative path and XpUb able to sign transaction](https://www.reddit.com/r/Bitcoin/comments/1rbe3cj/why_different_derivative_path_and_xpub_able_to/)**
+**[Hard Money: A Complete Guide to Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rbf6rn/hard_money_a_complete_guide_to_bitcoin/)**
 
-Hey , I was playing with multiSig 2 out of 3 in sparrow Wallet Wallet 1 : hot wallet in Sparrow wallet itself Wallet 2 : CC (SEEDS X)+ Passphrase Wallet 3 : CC (SAME SEEDS X as wallet 2 ) + Different Passphrase But when i use Wallet 2 as complete different wallet (in single sig) it generate with derivative path of m/84'/0'/0' and gives XPUB xpub6C...agCXs . But when i used the same wallet 2 (seed X + same passphrase)in multisig (added by scanning QR while setting up) it generates derivation path of m/48'/0'/0'/2' with Xpub of xpub6ED....bGN . Masterfingerprint is same in both cases however I thought transaction won't go through due to different xpub and derivative path .. but it successfully got signed and broadcasted in multisig Any reason for following ..
+Hi, I spent months writing this with the goal of publishing, would love the community's input/feedback before I do. Thanks This is the Preface: This is not a how-to manual. What you are holding is a structured, layered education built from the ground up, one that works equally for the curious beginner, the self-directed learner, and the technically minded enthusiast. It covers Bitcoin's first principles, technical architecture, economic philosophy, monetary history, security model, investment thesis, and geopolitical implications. In short, it is a comprehensive intellectual case for Bitcoin and a thorough explanation of how it works at every level. Treat it less like a book you read once and more like a reference you return to. As you go deeper down the proverbial rabbit hole of the Bitcoin space, you will find that concepts which once seemed opaque begin to crystallize. Come back to these pages as your understanding evolves, you will find something new each time. Nearly every major topic in the Bitcoin space is covered here, and every effort has been made to present even the most complex ideas in the clearest language possible. That is harder than it sounds. Bitcoin is an intricate technology sitting at the intersection of cryptography, economics, game theory, and political philosophy. Some sections of this guide are, by necessity, technical, perhaps even what some readers might call "nerdy" or dense. Do not be discouraged by that. Read through it anyway. With time, and with exposure to this space, the concepts will click. Most people who understand Bitcoin deeply did not get there overnight. It took years. It took for me as well. That is normal. That is the journey. Welcome to it.
 
-7h ago
+🔗 [drive.proton.me](https://drive.proton.me/urls/W3X7N7RA2C#i1bRAB8TAZMi) • 7h ago
 
 ---
 
@@ -161,7 +161,7 @@ Hey , I was playing with multiSig 2 out of 3 in sparrow Wallet Wallet 1 : hot wa
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg.com • 22h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -169,23 +169,15 @@ Bloomberg.com • 22h ago
 
 Google Trends data shows the term hit a record high in the U.S. this month, though global interest has fallen since peaking in August.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
-**[Prosecutors recover $22 million worth of lost Bitcoin](https://www.dlnews.com/articles/people-culture/prosecutors-find-22-million-worth-of-lost-bitcoin/)**
+**[Prosecutors recover $22 million worth of lost Bitcoin](https://www.yahoo.com/news/articles/prosecutors-recover-22-million-worth-123101025.html)**
 
 Hunt for lost 320 Bitcoin a success, say South Korean prosecutors. Officials say they tracked down operator of bogus wallet checking tool. Police in Seoul also lost $2 million worth of Bitcoin.
 
-dlnews.com • 1h ago
-
----
-
-**[Viral AI agent bans ‘Bitcoin,' ‘crypto’ mentions](https://sg.finance.yahoo.com/news/viral-ai-agent-bans-bitcoin-123906545.html)**
-
-Artificial intelligence has officially entered its uncanny era, when it is equal parts revolutionary and unsettling. One of the latest examples is OpenClaw, a viral open-source AI agent framework that has captured the imagination of developers worldwide. It is designed as part of the broader ...
-
-Yahoo Finance Singapore • 1h ago
+Yahoo • 1h ago
 
 ---
 
@@ -197,27 +189,35 @@ Fortune • 2d ago
 
 ---
 
-**[CryptoQuant says bitcoin whale deposit activity grows amid ongoing bear phase](https://www.theblock.co/post/390712/cryptoquant-bitcoin-whale-deposit-ongoing-bear-phase)**
-
-CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
-
-The Block • 15h ago
-
----
-
 **[Bitcoin zero? Crypto evangelists have run out of stories to tell](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-bitcoin-cryptocurrency-speculation-investing/)**
 
 Bitcoin has become a vessel of pure speculation
 
-The Globe and Mail • 16h ago
+The Globe and Mail • 2d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1771754400)**
+**[CryptoQuant says bitcoin whale deposit activity grows amid ongoing bear phase](https://www.theblock.co/post/390712/cryptoquant-bitcoin-whale-deposit-ongoing-bear-phase)**
 
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+CryptoQuant said the exchange whale ratio has risen to 0.64, the highest level since 2015, suggesting whales are leading selling activity.
 
-Polymarket • 1d ago
+The Block • 16h ago
+
+---
+
+**[If Bitcoin stays near $67k, it breaks the Power Law floor by mid-December](https://cryptoslate.com/if-bitcoin-stays-near-67k-it-breaks-the-power-law-floor-by-mid-december/)**
+
+The Newhedge floor is near $51,128 now but climbs daily toward the mid $60,000s by late October.
+
+CryptoSlate • 1d ago
+
+---
+
+**[Lyn Alden Says AI Stock Peak Could Boost Bitcoin](https://bitbo.io/news/ai-stock-peak-bitcoin/)**
+
+Macro strategist Lyn Alden said a peak in heavily bid AI stocks could trigger a rotation that benefits bitcoin, which she argues needs only marginal new demand to move higher.
+
+Bitbo • 18h ago
 
 ---
 
@@ -227,11 +227,11 @@ Forbes • 1d ago
 
 ---
 
-**[If Bitcoin stays near $67k, it breaks the Power Law floor by mid-December](https://cryptoslate.com/if-bitcoin-stays-near-67k-it-breaks-the-power-law-floor-by-mid-december/)**
+**[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
 
-The Newhedge floor is near $51,128 now but climbs daily toward the mid $60,000s by late October.
+U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
 
-CryptoSlate • 1d ago
+CoinDesk • 21h ago
 
 ---
 
@@ -255,7 +255,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 18h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 19h ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -295,6 +295,12 @@ Financial independence on a bitcoin standard
 
 ---
 
+**[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
+
+⬆️ 1 • 💬 0 • 1h ago
+
+---
+
 **[Show HN: Natural language search across Kalshi and Polymarket](https://news.ycombinator.com/item?id=47088680)**
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
@@ -303,33 +309,17 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 ---
 
-**[Regulated Crypto Investigation Team – Intelligence Cyber Wizard Services](https://news.ycombinator.com/item?id=47085488)**
-
-⬆️ 1 • 💬 0 • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
+**[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
 
-bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
 
-📺 Altcoin Daily
+📺 Money Talks
 
-👁️ 34K • 👍 2K • 💬 153 • ⏱️ 8:15 • 14h ago
-
----
-
-**[Bitcoin Is Crashing and Exchanges Freezing Up](https://www.youtube.com/watch?v=Xhrzm4CmpEo)**
-
-Take your personal data back with Incogni! Use code BOYLE at the link below and get 60% off an annual plan: ...
-
-📺 Patrick Boyle
-
-👁️ 525K • 👍 28K • 💬 4K • ⏱️ 32:14 • 1d ago
+👁️ 2K • 👍 59 • 💬 57 • ⏱️ 15:10 • 19h ago
 
 ---
 
@@ -339,27 +329,27 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 
 📺 Altcoin Daily
 
-👁️ 65K • 👍 3K • 💬 259 • ⏱️ 9:14 • 1d ago
+👁️ 66K • 👍 3K • 💬 261 • ⏱️ 9:14 • 1d ago
 
 ---
 
-**[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
+**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
 
-Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
+bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 Money Talks
+📺 Altcoin Daily
 
-👁️ 2K • 👍 70 • 💬 56 • ⏱️ 15:10 • 19h ago
+👁️ 38K • 👍 2K • 💬 177 • ⏱️ 8:15 • 14h ago
 
 ---
 
-**[Here&#39;s Why Your 0.1 Bitcoin Understanding Is Wrong](https://www.youtube.com/watch?v=e4xS0rhgJ_M)**
+**[Bitcoin Is Crashing and Exchanges Freezing Up](https://www.youtube.com/watch?v=Xhrzm4CmpEo)**
 
-Subscribe for More Bitcoin Content I built this tool because I was tired of losing track of my Bitcoin DCA plan. MaxiStack shows ...
+Take your personal data back with Incogni! Use code BOYLE at the link below and get 60% off an annual plan: ...
 
-📺 Mr Bitcoin Maxi 
+📺 Patrick Boyle
 
-👁️ 3K • 👍 174 • 💬 78 • ⏱️ 12:41 • 17h ago
+👁️ 550K • 👍 29K • 💬 4K • ⏱️ 32:14 • 1d ago
 
 ---
 
@@ -369,7 +359,17 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 73K • 👍 3K • 💬 75 • ⏱️ 52:37 • 23h ago
+👁️ 76K • 👍 4K • 💬 73 • ⏱️ 52:37 • 1d ago
+
+---
+
+**[BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Se2cgqhVFOw)**
+
+BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 310 • 💬 80 • ⏱️ 14:32 • 14h ago
 
 ---
 
@@ -379,15 +379,7 @@ billion just got ripped out of the economy while GDP misses and inflation creeps
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 150 • ⏱️ 12:39 • 1d ago
-
----
-
-**[TRUMP LIED ABOUT CRYPTO? XRP LEADS OVER BITCOIN #xrp #trump #crypto #bitcoin](https://www.youtube.com/watch?v=44gk_-xDHF8)**
-
-📺 CryptoWendyO
-
-👁️ 26K • 👍 1K • 💬 72 • ⏱️ 2:12 • 1d ago
+👁️ 31K • 👍 2K • 💬 150 • ⏱️ 12:39 • 1d ago
 
 ---
 
@@ -397,17 +389,25 @@ LIKE what we're doing? Smash the thumbs up! SUBSCRIBE with "all" notifications t
 
 📺 Dumb Money Live
 
-👁️ 20K • 👍 543 • 💬 23 • ⏱️ 1:02 • 1d ago
+👁️ 20K • 👍 557 • 💬 24 • ⏱️ 1:02 • 1d ago
 
 ---
 
-**[LIVE: Trump Announces Important News About Crypto! This Speech Will Change the Crypto Industry](https://www.youtube.com/watch?v=UcdnChwDGQ0)**
+**[TRUMP LIED ABOUT CRYPTO? XRP LEADS OVER BITCOIN #xrp #trump #crypto #bitcoin](https://www.youtube.com/watch?v=44gk_-xDHF8)**
 
-TrumpCrypto2026 #DigitalAssets #TrumpAnnouncement Welcome to the Trump Crypto Forum 2026 — streaming LIVE from ...
+📺 CryptoWendyO
 
-📺 FacePaintcom
+👁️ 28K • 👍 1K • 💬 74 • ⏱️ 2:12 • 1d ago
 
-👁️ 4K • 👍 2K • 12h ago
+---
+
+**[The White House Just Released The Crypto BULLS!! (Why I&#39;m preparing for a Bitcoin DUMP)](https://www.youtube.com/watch?v=-i8humbpZJQ)**
+
+Trump White House PUMPING Crypto.. Due To THIS LAST DAY: Ledger Flash Sale: https://www.ledger.com/altcoindaily 50% ...
+
+📺 Altcoin Daily
+
+👁️ 49K • 👍 3K • 💬 141 • ⏱️ 11:10 • 2d ago
 
 ---
 

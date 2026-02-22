@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-22T13:44:11.231511+00:00'
+updated: '2026-02-22T14:27:53.938914+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
+- repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 22, 2026 at 13:44 UTC  
+**Last Updated:** February 22, 2026 at 14:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
 
-🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 21h ago
+🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 22h ago
 
 ---
 
@@ -63,7 +63,7 @@ Scout AI is using technology borrowed from the AI industry to power lethal weapo
 
 The open-source ollama project that makes it easy to get up and running with a variety of LLMs under Windows, macOS, and Linux is out with a new release
 
-🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 10h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 11h ago
 
 ---
 
@@ -71,15 +71,7 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 I’ve been testing a few AI habit tracker app options because I was curious whether AI actually adds anything meaningful beyond streaks. One I’ve tried recently is Resolve. What stood out wasn’t some crazy prediction engine, but the short AI reflections after logging habits. Instead of just showing a missed day, it nudges you to think about what happened. Over time that’s helped me notice patterns around sleep and focus. Has anyone seen an AI habit tracker app that genuinely feels like it’s doing more than summarizing inputs?
 
-18h ago
-
----
-
-**[TikTok creators’ Seedance 2.0 AI is hyperrealistic, arrived “seemingly out of nowhere,” and is spooking Hollywood](https://www.reddit.com/r/artificial/comments/1ra20gt/tiktok_creators_seedance_20_ai_is_hyperrealistic/)**
-
-Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
-
-🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 1d ago
+19h ago
 
 ---
 
@@ -88,6 +80,14 @@ Seedance 2.0 is the latest generative AI tool on the market. Its realistic video
 Seeking legal and technical answers. Working with some people on this question and we keep reaching a conclusion that it can't. That it's not possible. AI can exist anywhere in the world, governed under others' laws (or none at all). It can't be blocked since the internet can't technically, actually, block something. It can be accessed through countless channels, apps, or experiences. Is there a legitimate way in which AI can technically and truly be made safe or controlled? Important question for reasons we don't think everyone realizes. If the answer is "no" then politicians are effectively causing harm by pretending they can... They pander votes under false pretenses and they set a false sense of security that we'll be safe because they'll make laws to protect us. It's like passing a law requiring that fire not hurt us. Sure, pass the law, but it's not possible for it to be so.
 
 23h ago
+
+---
+
+**[TikTok creators’ Seedance 2.0 AI is hyperrealistic, arrived “seemingly out of nowhere,” and is spooking Hollywood](https://www.reddit.com/r/artificial/comments/1ra20gt/tiktok_creators_seedance_20_ai_is_hyperrealistic/)**
+
+Seedance 2.0 is the latest generative AI tool on the market. Its realistic video and audio generation has caught the attention of Hollywood.
+
+🔗 [PC Guide](https://www.pcguide.com/pro/news-pro/tiktok-creators-seedance-2-0-ai-is-hyperrealistic-arrived-seemingly-out-of-nowhere-and-is-spooking-hollywood/) • 1d ago
 
 ---
 
@@ -111,7 +111,7 @@ OpenAI may release its first AI-powered consumer device in 2027.
 
 Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?
 
-🔗 [WIRED](https://www.wired.com/story/could-we-put-ai-data-centers-in-space/) • 13h ago
+🔗 [WIRED](https://www.wired.com/story/could-we-put-ai-data-centers-in-space/) • 14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Massive data centers for generative AI are bad for the Earth. How about launchin
 
 Overdependence on chatbots is a growing problem, and though your boyfriend’s ADHD may be a factor, he needs to find the root of his anxiety
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -133,33 +133,47 @@ The New York Times • 1d ago
 
 ---
 
-**[Woman Uses AI to Apologize for Burning Down House, Biting Cop](https://www.yahoo.com/news/articles/woman-uses-ai-apologize-burning-114500425.html)**
+**[Apple’s Next Big Thing Is a Push Into Visual Artificial Intelligence](https://www.bloomberg.com/news/newsletters/2026-02-22/apple-s-ai-wearables-push-what-to-expect-from-march-4-low-end-macbook-launch)**
 
-Not making a strong case for yourself.
-
-Yahoo • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Recruiter reveals broken Zoom interview etiquette: bathrobes, yoga, and outsourcing thinking to AI](https://fortune.com/2026/02/22/recruiter-reveals-broken-zoom-interview-etiquette-bathrobes-yoga-outsourcing-thinking-ai/)**
+**[Exclusive | Meet the teen tycoons powering AI start-ups — and making bank off them](https://nypost.com/2026/02/22/business/teens-are-launching-artificial-intelligence-companies-and-making-big-money/)**
 
-Redballoon's Sara Nibler said she recently screened a candidate who was "fresh from the shower, with his hair still dripping wet, his shirt was open."
+They’re stressing about raising venture capital and product launches — not who they’ll take to prom.
 
-Fortune • 1h ago
+New York Post • 1h ago
 
 ---
 
-**[How to Hide Google’s AI Overviews From Your Search Results](https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/)**
+**[In some schools, chatbots interrogate students about their work. But the AI revolution has teachers worried](https://www.theguardian.com/australia-news/2026/feb/23/ai-chatbots-schools-education-australian-students-paper)**
 
-You can avoid Google's AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.
+The fast take-up of innovative technology risks creating a ‘two-speed system’, an Independent Schools Australia paper warns
 
-WIRED • 2h ago
+The Guardian • 25m ago
+
+---
+
+**[‘I have a chip on my shoulder.’ Phoebe Gates wants her $185 million AI startup Phia to succeed with ‘no ties to my privilege or my last name’](https://finance.yahoo.com/news/chip-shoulder-phoebe-gates-wants-123300362.html)**
+
+The daughter of Bill Gates and Melinda French Gates acknowledges her privilege, but says she’s building her own thing without their help.
+
+Yahoo Finance • 1d ago
 
 ---
 
 **[Kick Chronic Kidney Disease With AI](https://www.forbes.com/sites/johnwerner/2026/02/21/kick-chronic-kidney-disease-with-ai/)**
 
-Forbes • 21h ago
+Forbes • 22h ago
+
+---
+
+**[Pope Leo XIV tells priests not to use AI to write homilies or seek ‘likes’ on TikTok](https://www.osvnews.com/pope-leo-xiv-tells-priests-not-to-use-ai-to-write-homilies-or-seek-likes-on-tiktok/)**
+
+"To give a true homily is to share faith," and artificial intelligence "will never be able to share faith," the pope added.
+
+OSV News • 16h ago
 
 ---
 
@@ -169,25 +183,11 @@ Axios • 1d ago
 
 ---
 
-**[The Country That’s Madly in Love With AI](https://www.politico.com/news/magazine/2026/02/21/south-korea-ai-popular-why-00789618)**
+**[Anthropic eyes Pentagon deal after fallout over Maduro raid](https://www.washingtonpost.com/technology/2026/02/22/pentagon-anthropic-ai-dispute/)**
 
-Politico • 22h ago
+The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
 
----
-
-**[Pope Leo XIV tells priests not to use AI to write homilies or seek ‘likes’ on TikTok](https://www.osvnews.com/pope-leo-xiv-tells-priests-not-to-use-ai-to-write-homilies-or-seek-likes-on-tiktok/)**
-
-"To give a true homily is to share faith," and artificial intelligence "will never be able to share faith," the pope added.
-
-OSV News • 15h ago
-
----
-
-**[Why fake AI videos of UK urban decline are taking over social media](https://www.bbc.com/news/articles/c4g8r23yv71o)**
-
-Deepfakes showing grim taxpayer-funded waterparks have gone viral and drawn some racist responses.
-
-BBC • 1d ago
+The Washington Post • 13m ago
 
 ---
 
@@ -199,7 +199,7 @@ BBC • 1d ago
 
 By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already surpasses human performance. Used well, it is an unprecedented amplifier of human ingenuity and productivity. Its widespread adoption is hindered by two key barriers: high latency and astronomical cost. Interactions with language models lag far...
 
-⬆️ 821 • 💬 448 • 2d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
+⬆️ 823 • 💬 448 • 2d ago • [Taalas](https://taalas.com/the-path-to-ubiquitous-ai/)
 
 ---
 
@@ -207,7 +207,7 @@ By Ljubisa Bajic Many believe AI is the real deal. In narrow domains, it already
 
 Announcement We are happy to announce that ggml.ai (the founding team of llama.cpp) are joining Hugging Face in order to keep future AI truly open. Georgi and team are joining HF with the goal of s...
 
-⬆️ 817 • 💬 220 • 1d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
+⬆️ 818 • 💬 220 • 2d ago • [GitHub](https://github.com/ggml-org/llama.cpp/discussions/19759)
 
 ---
 
@@ -222,7 +222,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 **[An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://news.ycombinator.com/item?id=47083145)**
 
-⬆️ 526 • 💬 484 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
+⬆️ 527 • 💬 484 • 2d ago • [theshamblog.com](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 
 ---
 
@@ -230,7 +230,7 @@ I don't actually mind AI-aided development, a tool is a tool and should be used 
 
 Kasava is the AI-native platform purpose-built for product development. Plan, build, and monitor with AI-powered workflows.
 
-⬆️ 512 • 💬 567 • 2d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
+⬆️ 513 • 💬 567 • 2d ago • [Kasava](https://www.kasava.dev/blog/ai-as-exoskeleton)
 
 ---
 
@@ -238,7 +238,7 @@ Kasava is the AI-native platform purpose-built for product development. Plan, bu
 
 Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
 
-⬆️ 301 • 💬 164 • 1d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 301 • 💬 163 • 1d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
 
 ---
 
@@ -246,7 +246,7 @@ Every company building an AI assistant is funded by advertising. They are also b
 
 Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist
 
-⬆️ 253 • 💬 110 • 1d ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
+⬆️ 258 • 💬 112 • 1d ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
 
 ---
 
@@ -254,7 +254,7 @@ Websites I personally found that are completely generated by AI. Pull requests w
 
 Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. - tnm/zclaw
 
-⬆️ 195 • 💬 112 • 1d ago • [GitHub](https://github.com/tnm/zclaw)
+⬆️ 207 • 💬 115 • 1d ago • [GitHub](https://github.com/tnm/zclaw)
 
 ---
 
@@ -262,7 +262,7 @@ Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an E
 
 AI agents are good at doing one thing at a time. Give Claude a focused task and it performs. But real work isn’t one task. It’s a tree of tasks with dependencies, parallelism, and context that need...
 
-⬆️ 149 • 💬 75 • 1d ago • [June Kim](https://www.june.kim/cord)
+⬆️ 151 • 💬 75 • 1d ago • [June Kim](https://www.june.kim/cord)
 
 ---
 
@@ -270,7 +270,7 @@ AI agents are good at doing one thing at a time. Give Claude a focused task and 
 
 We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. Our retail clients grow their businesses through Meta Ads, and for a lot of them, it’s their single most important…
 
-⬆️ 146 • 💬 105 • 1d ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
+⬆️ 146 • 💬 106 • 1d ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
 
 ---
 
@@ -284,17 +284,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 24K • 👍 865 • 💬 55 • ⏱️ 10:44 • 14h ago
-
----
-
-**[9 AI Skills You MUST Have to Get Ahead of 99% of People](https://www.youtube.com/watch?v=BuwPnrMmhzQ)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4l2d0n7 Are you building an AI software ...
-
-📺 Dan Martell
-
-👁️ 78K • 👍 4K • 💬 142 • ⏱️ 19:58 • 2d ago
+👁️ 27K • 👍 951 • 💬 58 • ⏱️ 10:44 • 15h ago
 
 ---
 
@@ -304,37 +294,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 107K • 👍 7K • 💬 2K • ⏱️ 18:44 • 1d ago
-
----
-
-**[I&#39;m Sick Of This AI SH*T](https://www.youtube.com/watch?v=7XGct4rbYfI)**
-
-In this episode I dive into the new wave of AI music released on music streaming platforms, when are they going to do something ...
-
-📺 Rick Beato
-
-👁️ 681K • 👍 46K • 💬 10K • ⏱️ 6:14 • 2d ago
-
----
-
-**[&#39;Lord of the Wrestling Ring&#39; - 80&#39;s VHS TAPE! #ai #parody #fanmade](https://www.youtube.com/watch?v=Fjc5DXFS2P4)**
-
-The ultimate Lord of the Rings parody meets a chaotic wrestling event — where Middle-earth enters the squared circle and the ...
-
-📺 Ai of Euphoria 
-
-👁️ 29K • 👍 2K • 💬 163 • ⏱️ 0:53 • 2d ago
-
----
-
-**[100% FREE Seedance 2.0 AI Video Generator : How to Use It WORLDWIDE](https://www.youtube.com/watch?v=jkPTYD5lXo8)**
-
-Free Seedance 2.0 AI Video Generator – How to Use It Worldwide (Step-by-Step Tutorial)* Seedance 2.0 just broke the internet ...
-
-📺 How To In 5 Minutes
-
-👁️ 25K • 👍 526 • 💬 103 • ⏱️ 4:01 • 2d ago
+👁️ 112K • 👍 7K • 💬 2K • ⏱️ 18:44 • 1d ago
 
 ---
 
@@ -344,7 +304,27 @@ Former Congressman Brad Carson, the President of Americans for Responsible Innov
 
 📺 Forbes Breaking News
 
-👁️ 10K • 👍 302 • 💬 131 • ⏱️ 20:25 • 22h ago
+👁️ 10K • 👍 314 • 💬 134 • ⏱️ 20:25 • 23h ago
+
+---
+
+**[I&#39;m Sick Of This AI SH*T](https://www.youtube.com/watch?v=7XGct4rbYfI)**
+
+In this episode I dive into the new wave of AI music released on music streaming platforms, when are they going to do something ...
+
+📺 Rick Beato
+
+👁️ 686K • 👍 47K • 💬 11K • ⏱️ 6:14 • 2d ago
+
+---
+
+**[Americans Are FURIOUS Over AI Data Centers | It&#39;s Getting Worse](https://www.youtube.com/watch?v=gaD4NG3TOzQ)**
+
+Americans Are FURIOUS Over AI Data Centers | It's Getting Worse Popular Video Content: US News: - http://bit.ly/USworldnews ...
+
+📺 Snyder Reports
+
+👁️ 12K • 👍 1K • 💬 196 • ⏱️ 11:21 • 13h ago
 
 ---
 
@@ -354,7 +334,7 @@ There is growing concern about how artificial intelligence could be used by the 
 
 📺 Sky News Australia
 
-👁️ 11K • 👍 197 • 💬 112 • ⏱️ 2:08 • 8h ago
+👁️ 13K • 👍 209 • 💬 118 • ⏱️ 2:08 • 9h ago
 
 ---
 
@@ -364,7 +344,17 @@ Google just introduced a new wave of AI systems inside Gemini that go far beyond
 
 📺 AI Revolution
 
-👁️ 64K • 👍 1K • 💬 60 • ⏱️ 12:14 • 2d ago
+👁️ 65K • 👍 1K • 💬 61 • ⏱️ 12:14 • 2d ago
+
+---
+
+**[AI Agent writes hit piece](https://www.youtube.com/watch?v=ssTUhnShKGM)**
+
+https://twitch.tv/ThePrimeagen - I Stream on Twitch https://twitter.com/terminaldotshop - Want to order coffee over SSH? ssh ...
+
+📺 The PrimeTime
+
+👁️ 160K • 👍 6K • 💬 728 • ⏱️ 10:06 • 2d ago
 
 ---
 
@@ -374,7 +364,17 @@ Grab the free Claude Cowork Stack from HubSpot: https://clickhubspot.com/2077f9 
 
 📺 Skill Leap AI
 
-👁️ 28K • 👍 694 • 💬 31 • ⏱️ 21:02 • 1d ago
+👁️ 29K • 👍 717 • 💬 31 • ⏱️ 21:02 • 1d ago
+
+---
+
+**[AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=fnMAIa2PEAk)**
+
+HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools Thanks to our sponsor ...
+
+📺 AI Search
+
+👁️ 39K • 👍 2K • 💬 340 • ⏱️ 39:36 • 11h ago
 
 ---
 
@@ -390,7 +390,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 217,901 • ❤️ 861 • 2d ago
+⬇️ 217,901 • ❤️ 868 • 2d ago
 
 ---
 
@@ -402,7 +402,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,971 • ❤️ 2,129 • 6d ago
+⬇️ 539,971 • ❤️ 2,132 • 6d ago
 
 ---
 
@@ -414,7 +414,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 689 • 12h ago
+⬇️ 153,566 • ❤️ 695 • 12h ago
 
 ---
 
@@ -426,7 +426,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 177,505 • ❤️ 1,418 • 8d ago
+⬇️ 177,505 • ❤️ 1,421 • 8d ago
 
 ---
 
@@ -450,7 +450,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 982,327 • ❤️ 1,134 • 24d ago
+⬇️ 982,327 • ❤️ 1,136 • 24d ago
 
 ---
 
@@ -462,19 +462,7 @@ Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta
 
 `image-text-to-text` `396.3B`
 
-⬇️ 79,371 • ❤️ 176 • 5d ago
-
----
-
-**[FireRed-Image-Edit-1.0](https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0)**
-
-*FireRedTeam*
-
-FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong instruction following and text style preservation capabilities, suitable for tasks like photo restoration and multi-image editing.
-
-`image-to-image`
-
-⬇️ 2,430 • ❤️ 235 • 8d ago
+⬇️ 79,371 • ❤️ 177 • 5d ago
 
 ---
 
@@ -486,7 +474,19 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 151 • 2d ago
+⬇️ 0 • ❤️ 152 • 2d ago
+
+---
+
+**[FireRed-Image-Edit-1.0](https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0)**
+
+*FireRedTeam*
+
+FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong instruction following and text style preservation capabilities, suitable for tasks like photo restoration and multi-image editing.
+
+`image-to-image`
+
+⬇️ 2,430 • ❤️ 239 • 8d ago
 
 ---
 
@@ -498,7 +498,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text`
 
-⬇️ 1,127,686 • ❤️ 2,070 • 17d ago
+⬇️ 1,127,686 • ❤️ 2,071 • 17d ago
 
 ---
 
@@ -512,7 +512,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 5 • 💬 0 • ⭐ 5,633 • 23mo ago
+▲ 5 • 💬 0 • ⭐ 6,260 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -539,7 +539,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 146 • 💬 19 • ⭐ 53,791 • 11mo ago
+▲ 146 • 💬 19 • ⭐ 53,828 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -553,7 +553,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 69 • 💬 1 • ⭐ 8,249 • 1mo ago
+▲ 69 • 💬 1 • ⭐ 8,281 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -566,23 +566,9 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 37 • 💬 1 • ⭐ 70,870 • 29mo ago
+▲ 37 • 💬 1 • ⭐ 70,889 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[BitDance: Scaling Autoregressive Generative Models with Binary Tokens](https://huggingface.co/papers/2602.14041)**
-
-*Yuang Ai, Jiaming Han, Shaobin Zhuang et al. (10 authors)*
-
-🏢 ByteDance
-
-BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
-
-▲ 44 • 💬 3 • ⭐ 262 • 7d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
 ---
 
@@ -595,6 +581,20 @@ A suite of open-source music foundation models is introduced, featuring componen
 ▲ 44 • 💬 4 • ⭐ 4,057 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
+
+---
+
+**[BitDance: Scaling Autoregressive Generative Models with Binary Tokens](https://huggingface.co/papers/2602.14041)**
+
+*Yuang Ai, Jiaming Han, Shaobin Zhuang et al. (10 authors)*
+
+🏢 ByteDance
+
+BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
+
+▲ 44 • 💬 3 • ⭐ 274 • 7d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
 ---
 
@@ -644,7 +644,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 16.7k • 🔱 1.9k • 2h ago
+⭐ 16.8k • 🔱 1.9k • 5m ago
 
 ---
 
@@ -654,7 +654,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 9.9k • 🔱 1.0k • 15h ago
+⭐ 9.9k • 🔱 1.0k • 16h ago
 
 ---
 
@@ -662,7 +662,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.6k • 🔱 503 • 11d ago
+⭐ 6.6k • 🔱 504 • 11d ago
 
 ---
 
@@ -672,7 +672,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.0k • 🔱 602 • 21h ago
+⭐ 5.0k • 🔱 606 • 22h ago
 
 ---
 
@@ -692,7 +692,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.2k • 🔱 326 • 7h ago
+⭐ 3.3k • 🔱 326 • 47m ago
 
 ---
 
@@ -702,7 +702,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 2.9k • 🔱 367 • 4h ago
+⭐ 2.9k • 🔱 368 • 5h ago
 
 ---
 
@@ -712,7 +712,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.6k • 🔱 180 • 13h ago
+⭐ 2.7k • 🔱 181 • 14h ago
 
 ---
 
@@ -732,7 +732,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.3k • 🔱 256 • 3d ago
+⭐ 2.3k • 🔱 258 • 3d ago
 
 ---
 

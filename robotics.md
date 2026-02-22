@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-22T13:44:11.249239+00:00'
+updated: '2026-02-22T14:27:53.956787+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 22, 2026 at 13:44 UTC  
+**Last Updated:** February 22, 2026 at 14:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hi, I am a fresher and I am looking to lean towards a career in robotics. I was first thinking to learn ROS but that would skip the foundation theory required so now my plan is to grasp advance robotics concept and then move into ROS. But before that I need to confirm if it would be an efficient path or not, for covering the concepts I am thinking of studying Moder Robotics book.
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ This is an airport of drones, operated by Meituan in Shenzhen. Source: https://x
 
 Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. I have wanted to this for a while. I think this would be a great idea and maybe can get sponsored?
 
-11h ago
+12h ago
 
 ---
 
@@ -82,7 +82,7 @@ Anyone in NYC want to build a robot together etc? Lmk I’ll arrange something. 
 
 I have a robotics-focused system design interview coming up soon (fleet robots / arm motion planning related role), and I’m trying to practice realistic design scenarios rather than just generic software system design. Would love if people here could share: Robotics system design questions you’ve seen in interviews Interesting fleet coordination or multi-robot scenarios Vision + manipulation architecture prompts Reliability / observability design problems in robotics Any “gotcha” style questions that caught you off guard Any other design questions in the field really, so I can practice a few for my interview! I’m especially interested in questions around: Multi-robot interaction and path planning Robot + vision integration (e.g., bin picking, grasping, pose estimation) Scaling robot fleets Handling failures and safety constraints Any resources that you guys can share, related to this topic would also be amazing! Happy to share what I learn after the interview as well.
 
-11h ago
+12h ago
 
 ---
 
@@ -90,7 +90,7 @@ I have a robotics-focused system design interview coming up soon (fleet robots /
 
 I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don't return anything. It seems everything leads to a dead end. I have Choregraphe but to my understanding it doesn't work in the newer OS. I would like to program for the robot and utilise it so any help would be appreciated.
 
-13h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ I have a Pepper robot running NAOqi 2.9 and any SDK links I use are dead or don'
 
 Hey all, I recently switched from the aerospace to the robotics industry. I'm trying to introduce testing and quality assurance to my team that's been building prototypes for anthropomorphic robots. The testing that's done happens during teleoperation of the robots. In my view this is quite unsafe for the human operator. For this reason I'd like to bring in more automated test scripts in testing without the need of human, and some stricter acceptance criteria before handed over to a human operator. Since this is an agile work environment and very fast paced it can get challenging to have a heavy testing. I also don't want to bring in some heavy V&V processes into the development lifecycle If anyone here is in robotics testing and QA I'd love to connect and hear your thoughts on how you might have over come such a challenge within your teams. If I'm having high expectations of testing in robotics since I'm from aerospace, feel free to break the news to me 😅
 
-17h ago
+18h ago
 
 ---
 
@@ -120,17 +120,25 @@ CNBC • 2d ago
 
 ---
 
-**[The CEO of a startup building robots for factories explains how US manufacturing is at a crossroads](https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2)**
+**[Video Friday: Humanoid Robots Celebrate Spring](https://spectrum.ieee.org/robot-martial-arts)**
 
-The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
+Celebrate the Lunar New Year with a synchronized martial arts demo by humanoid robots and cuddling robot pandas! Plus Perseverance finds itself.
 
-Business Insider • 2d ago
+IEEE Spectrum • 1d ago
 
 ---
 
 **[US Robotics 56k External Serial Fax/Data Modem – V.92 Standard For Dial-Up Internet Connection](https://umlconnector.com/itm/Fax-Data-Modem-V-92-Standard-For-Dial-Up-Internet-Connection/572788)**
 
-umlconnector.com • 3h ago
+umlconnector.com • 4h ago
+
+---
+
+**[Over 350 students compete at 2nd Annual Redhawks Robotics Rumble](https://www.fox23.com/news/over-350-students-compete-at-2nd-annual-redhawks-robotics-rumble/article_bbcc613a-17f8-4ad7-a0bd-1b7b448939ac.html)**
+
+For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
+
+fox23.com • 1h ago
 
 ---
 
@@ -150,11 +158,17 @@ Hawaii News Now • 3d ago
 
 ---
 
+**[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
+
+Forbes • 2d ago
+
+---
+
 **[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
 
 OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
-South China Morning Post • 3h ago
+South China Morning Post • 4h ago
 
 ---
 
@@ -162,35 +176,15 @@ South China Morning Post • 3h ago
 
 There were teams from across Iowa and even one from Nebraska that took part in the scrimmage on Saturday.
 
-weareiowa.com • 13h ago
+weareiowa.com • 14h ago
 
 ---
 
-**[Digit Gets A Job: Agility Robotics And Toyota Sign Robots-As-A-Service Deal](https://www.forbes.com/sites/johnkoetsier/2026/02/19/digit-gets-a-job-agility-robotics-and-toyota-sign-robots-as-a-service-deal/)**
+**[Integrated motion control enables sophisticated robot motion](https://www.therobotreport.com/integrated-motion-control-enables-sophisticated-robot-motion/)**
 
-Forbes • 2d ago
+Integrated motion control allows all kinds of robots to tackle a range of tasks with precision, in contrast with conventional machinery.
 
----
-
-**[Meet CyRo — a robot that can pick up objects it has never seen before… in seconds. 🤯 Powered by CynLr’s Object Intelligence Platform, CyRo can understand shape, texture, and grasp possibilities in real time, moving robotics beyond repetition to real-world i](https://www.linkedin.com/posts/cnbc-tv18_ai-robotics-cyro-activity-7431296824696705024-WbEU)**
-
-Meet CyRo — a robot that can pick up objects it has never seen before… in seconds. 🤯
-
-Powered by CynLr’s Object Intelligence Platform, CyRo can understand shape, texture, and grasp possibilities in real time, moving robotics beyond repetition to real-world intuition. Aishwarya Anand reports. 
-
-Aishwarya Anand
-
-#AI #Robotics #CyRo #AISummit #DeepTech
-
-LinkedIn • 2h ago
-
----
-
-**[Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids](https://www.therobotreport.com/toyota-motor-manufacturing-canada-deploys-agility-robotics-digit-humanoids/)**
-
-Toyota Motor Manufacturing Canada is expanding its commercial trials for Digit from three humanoids to 10.
-
-The Robot Report • 2d ago
+The Robot Report • 56m ago
 
 ---
 
@@ -204,17 +198,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 11K • 👍 280 • 💬 78 • ⏱️ 8:38 • 14h ago
-
----
-
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 57K • 👍 3K • 💬 752 • ⏱️ 14:51 • 1d ago
+👁️ 14K • 👍 317 • 💬 84 • ⏱️ 8:38 • 15h ago
 
 ---
 
@@ -224,17 +208,27 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 33K • 👍 248 • 💬 136 • ⏱️ 2:14 • 1d ago
+👁️ 37K • 👍 267 • 💬 146 • ⏱️ 2:14 • 1d ago
 
 ---
 
-**[It Just Happened: Elon Musk Reveals Optimus Robot with Real Human Skin](https://www.youtube.com/watch?v=gLsdEGC5iAk)**
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
 
-The next project from Elon Musk is expected to push humanoid robotics into uncharted territory, with reports pointing to an ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 58K • 👍 3K • 💬 765 • ⏱️ 14:51 • 1d ago
+
+---
+
+**[China’s Combat Robots Steal the Show at Lunar New Year Gala](https://www.youtube.com/watch?v=MFCmePpllIA)**
+
+China's combat robots steal the show at the Lunar New Year gala as advanced humanoid machines stunned audiences with ...
 
 📺 Carros Show
 
-👁️ 12K • 👍 137 • 💬 38 • ⏱️ 9:20 • 6d ago
+👁️ 104K • 👍 1K • 💬 237 • ⏱️ 9:50 • 3d ago
 
 ---
 
@@ -244,7 +238,27 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 264K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
+👁️ 267K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
+
+---
+
+**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+
+Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+
+📺 NDTV
+
+👁️ 28K • 👍 114 • 💬 216 • ⏱️ 5:02 • 4d ago
+
+---
+
+**[It Just Happened: Elon Musk Reveals Optimus Robot with Real Human Skin](https://www.youtube.com/watch?v=gLsdEGC5iAk)**
+
+The next project from Elon Musk is expected to push humanoid robotics into uncharted territory, with reports pointing to an ...
+
+📺 Carros Show
+
+👁️ 12K • 👍 138 • 💬 38 • ⏱️ 9:20 • 6d ago
 
 ---
 
@@ -254,7 +268,17 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.2M • 👍 93K • 💬 3K • ⏱️ 1:27 • 2d ago
+👁️ 1.2M • 👍 94K • 💬 3K • ⏱️ 1:27 • 2d ago
+
+---
+
+**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+
+By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+
+📺 NVIDIA
+
+👁️ 33K • 👍 1K • ⏱️ 2:51 • 3d ago
 
 ---
 
@@ -265,36 +289,6 @@ China just unveiled a new wave of physical AI that pushes humanoid robots far be
 📺 AI Revolution
 
 👁️ 61K • 👍 1K • 💬 161 • ⏱️ 12:43 • 6d ago
-
----
-
-**[Chinese Combat Robot &quot;Centaur&quot; Shocked the World at Lunar New Year Gala](https://www.youtube.com/watch?v=wQBm60t5P5o)**
-
-Chinese combat robots stunned global audiences as their appearance at a major Lunar New Year celebration highlighted how far ...
-
-📺 Carros Show
-
-👁️ 29K • 👍 784 • 💬 149 • ⏱️ 10:12 • 2d ago
-
----
-
-**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
-
-Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
-
-📺 The China Show
-
-👁️ 157K • 👍 10K • 💬 1K • ⏱️ 2:10:35 • 1d ago
-
----
-
-**[All New Humanoid Robots That Will Take Humanity to the Next Level | Best of Winter 2026](https://www.youtube.com/watch?v=HEWYgeXk26s)**
-
-All new humanoid robots are rapidly transforming the way humans work, live, and interact with technology, as the latest ...
-
-📺 Carros Show
-
-👁️ 5K • 👍 142 • 💬 10 • ⏱️ 59:47 • 3d ago
 
 ---
 
