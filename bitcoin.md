@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-23T19:05:01.877826+00:00'
+updated: '2026-02-23T20:06:36.452412+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 19:05 UTC  
+**Last Updated:** February 23, 2026 at 20:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,803.36
+### $64,339.77
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -4.0%  
-**7d:** -4.1%  
-**30d:** -25.3%  
-**90d:** -28.6%  
-**1y:** -29.3%  
+**24h:** -4.8%  
+**7d:** -4.6%  
+**30d:** -25.7%  
+**90d:** -28.9%  
+**1y:** -29.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1288.60B
+**Market Cap:** $1284.68B
 Rank #1
 
-**Circulating Supply:** 19,993,700 BTC
+**Circulating Supply:** 19,993,781 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--48.9%
+-49.0%
 
 **All-Time Low:** $67.81
-+94936.1%
++94672.2%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[I still love this short Bitcoin explanation](https://www.reddit.com/r/Bitcoin/comments/1rcitoa/i_still_love_this_short_bitcoin_explanation/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Just hit 0.1 coin. A proud moment.](https://www.reddit.com/r/Bitcoin/comments/1rcbe8j/just_hit_01_coin_a_proud_moment/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,13 +93,7 @@ Rank #1
 
 Easy way to stamp your seed onto stainless steel washers. Any hardware store sells 1 inch washers for so cheap (avoid zinc plated due to lower melting point in case of a fire). After a couple hours of using a mallet, it is nice to know stainless should last a hell of a lot longer than paper.
 
-7h ago
-
----
-
-**[Almost at the end of the month 🙏](https://www.reddit.com/r/Bitcoin/comments/1rc0ddm/almost_at_the_end_of_the_month/)**
-
-20h ago
+8h ago
 
 ---
 
@@ -107,7 +101,13 @@ Easy way to stamp your seed onto stainless steel washers. Any hardware store sel
 
 $BTCUSD i’m sorry, but I have to say something all you people are so emotional and nearsighted. That’s true bitcoin has fallen from 100,000 to where it’s at now but honestly, what did you expect it to just continuously go up? It’s still a relatively new asset. If you bought it the tippy top and or down money that’s your own fault. Bitcoin is a store of value in a time of economic uncertainty which we’re living in for that reason and there’s no way this is gonna go to zero it doesn’t benefit anyone remember the only way to make money is to buy when people are fearful and selling if you think you wanna sell at the bottom of a pullback be my guest, but I’m buying right now
 
-1h ago
+2h ago
+
+---
+
+**[Almost at the end of the month 🙏](https://www.reddit.com/r/Bitcoin/comments/1rc0ddm/almost_at_the_end_of_the_month/)**
+
+21h ago
 
 ---
 
@@ -115,7 +115,13 @@ $BTCUSD i’m sorry, but I have to say something all you people are so emotional
 
 As with every single bear market and subsequent accumulation phase since the inception of Bitcoin, we are now looking at roughly November/December of 2027 until the next official bull market pump/takeoff phase will begin. The low of this current bear market will be somewhere between 40k and 50k, as I said months and months ago and got laughed at. If you are one of those new traders or new Crypto bros who think the next bull market is on the way, you've got some big disappointment headed your way. Right now you should be firmly in accumulation mode. Buy all the way down to the 40k range. The next top of the upcoming bull market pump will very likely top out somewhere between 175,000 and 200,000 as a rough estimate based upon all previous data. Best guess would be 175k. Best estimate is that the low of this bear market will hit around September/October of this year.
 
-9h ago
+10h ago
+
+---
+
+**[ok this is funny and true "the monkey brain, it doesn’t compute well with bitcoin’s volatility"](https://www.reddit.com/r/Bitcoin/comments/1rcpm4r/ok_this_is_funny_and_true_the_monkey_brain_it/)**
+
+1h ago
 
 ---
 
@@ -123,13 +129,7 @@ As with every single bear market and subsequent accumulation phase since the inc
 
 I bought a bunch of bitcoin at $65k USD and now I'm waiting for bitcoin to fall to $50k USD so I can buy even more. I fully expect bitcoin to hit a new record high at some point in the next 4 years. I just don't know exactly when. So I'm hoping bitcoin crashes as hard as possible in 2026, so we can all buy at a discount before it bounces back. Anyone else in the same boat?
 
-16h ago
-
----
-
-**[ok this is funny and true "the monkey brain, it doesn’t compute well with bitcoin’s volatility"](https://www.reddit.com/r/Bitcoin/comments/1rcpm4r/ok_this_is_funny_and_true_the_monkey_brain_it/)**
-
-33m ago
+17h ago
 
 ---
 
@@ -137,15 +137,15 @@ I bought a bunch of bitcoin at $65k USD and now I'm waiting for bitcoin to fall 
 
 I just released v2 of Awning, an open-source Bitcoin + Lightning node stack written in Bash that runs entirely in Docker. The idea: one directory, one command, one dependency. No Python, no Node.js, no Go runtime on the host — just Docker. What it includes: Bitcoin Core (full node, Tor-only by default) LND (Lightning) Electrs (Electrum server) RTL (web UI) Automatic static channel backups to GitHub It auto-detects your system, fetches the latest versions, generates secure credentials, and walks you through setup. The whole stack is portable: you can copy the folder to an external drive and start it on another machine. Optimized for Raspberry Pi 5 (8GB) but works on any Linux x86_64 or ARM64. Demo video and docs in the repo: https://github.com/giovantenne/awning Feedback welcome, especially from anyone running nodes on constrained hardware.
 
-2h ago
+3h ago
 
 ---
 
-**[We built a non-custodial Lightning payment gateway for merchants who can’t get bank accounts — here’s a live demo](https://www.reddit.com/r/Bitcoin/comments/1rclm07/we_built_a_noncustodial_lightning_payment_gateway/)**
+**[Stock vs BTC](https://www.reddit.com/r/Bitcoin/comments/1rclz39/stock_vs_btc/)**
 
-We’ve been deep in cannabis point-of-sale systems for years. One thing that’s always frustrated us: legitimate businesses that are completely locked out of traditional payment processing. Cannabis is the obvious one, but there are plenty of other industries stuck in cash-only hell because banks won’t touch them. So we built SatsRail — a non-custodial Lightning payment gateway designed for merchants in underbanked industries. Here’s the live demo: https://demo.satsrail.com/lightning-in-a-bottle/ How it works: ∙ We never touch the funds. SatsRail orchestrates the payment flow between buyer and merchant — sats go straight from buyer to merchant. ∙ Non-custodial by design, not by marketing. Merchants keep their own keys. ∙ Full API available for developers who want to integrate Lightning payments into their own platforms. ∙ Built for real merchant use cases: order management, payment tracking, checkout flows — not just a “pay me” button. Why Lightning? For merchants who can’t get bank accounts, Bitcoin over Lightning is the only real alternative that doesn’t involve stuffing cash in a safe. Instant settlement, no chargebacks, no bank approval needed, and fees that don’t eat into already-thin margins. What we’re looking for: We’re at the stage where we need real feedback from people who actually understand Lightning. Not looking for hype — we want to know: ∙ Does the checkout flow make sense? ∙ What would stop you from using this at your business? ∙ What’s missing? ∙ If you’re a developer, does the API approach interest you? Roast it, break it, tell us what sucks. That’s how we make it better.
+I come in peace brothers. I'm not gonna lie, atm I'm not holding any Crypto. However, the BTC price is getting extremely tempting. I'm looking to buy both BTC and CoinBase stock. I made this video as a relief, don't take it too seriously. I believe at the end of the year BTC will make a comeback and have the last laugh. 50k price range will be a buy without a doubt for me, for now I'm waiting. How is the sentiment around here? Do you guys feel switching over to stocks? Perhaps you regret not investing in Gold/Silver instead?
 
-2h ago
+🔗 [youtube.com](https://www.youtube.com/shorts/39AyHqX3kTg) • 3h ago
 
 ---
 
@@ -157,7 +157,7 @@ We’ve been deep in cannabis point-of-sale systems for years. One thing that’
 
 Bitcoin fell more than 5% to below $65,000 after President Donald Trump announced plans to raise global tariffs to 15%, rattling risk sentiment across markets.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -165,7 +165,7 @@ CNBC • 17h ago
 
 Aggregate Bitcoin ETF allocations among the largest hedge fund holders fell 28% from the third to the fourth quarter of 2025, according to data compiled by CF Benchmarks, a wholly-owned subsidiary of crypto exchange Kraken.  Bitcoin is down almost 50% from its October peak of over $126,000.  “The dominant theme over the last two quarters was hedge fund de-risking,” Gabe Selby, head of research at CF Benchmarks, wrote in a Feb. 19 research note.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -173,7 +173,7 @@ Yahoo Finance • 9h ago
 
 Outflows underscore persistent institutional wariness toward bitcoin after the early October crash.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -181,23 +181,7 @@ CoinDesk • 14h ago
 
 Laurore Ltd.’s $436 Million BlackRock IBIT stake reflects “personal investment conviction,” a spokesperson said, as Hong Kong filings link it to Zhang Hui.
 
-CoinDesk • 45m ago
-
----
-
-**[Bitcoin price news: BTC slips toward $65,000 amid U.S. stock rout](https://www.coindesk.com/markets/2026/02/23/bitcoin-rebound-fades-as-software-and-private-equity-rout-drags-stocks-and-crypto-lower)**
-
-Crypto has been nearly perfectly correlated with a key software sector ETF, and that gauge has tumbled another 5% Monday to a new 52-week low.
-
-CoinDesk • 2h ago
-
----
-
-**[Is bitcoin's price slump an investing opportunity? Here's how to buy bitcoin.](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-bitcoin-222211772.html)**
-
-Is the recent bitcoin slump a buying opportunity? Discover the safest ways to buy and store bitcoin in 2026.
-
-Yahoo Finance • 2h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -209,25 +193,39 @@ Fortune • 3d ago
 
 ---
 
-**[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqfUuTnaCpYhmUcqTzAd_Uqmv4uqqK3By7x6WTebH64fwgmEZhWYv7SQ&gaa_ts=699ca840&gaa_sig=C-5R86-WMU9XR_gz1_Ah-zCliHnbnCLTxy8PnJSS_v0rtH2ADu6v8r5mc0USeelqP-moC6rU6EWbHCrdKb-eDw%3D%3D)**
+**[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqcrL5LASo_75_obb-Aj1t8TPZN-rAMrWbk2Gj_rGSRCtsPdElketw3P&gaa_ts=699cb6b0&gaa_sig=aQeGwET5K33TQiPDylPxGN-4f-k_H4AmFaEblU4cGF9mCphIIpH68T3t-hK5clm1Bln4GgGx3p-i2-QMJiJpUw%3D%3D)**
 
-MarketWatch • 40m ago
-
----
-
-**[Strategy news: MSTR acquired 592 BTC last week](https://www.coindesk.com/markets/2026/02/23/strategy-logs-100th-bitcoin-purchase-announcement-adding-592-coins-last-week-for-usd39-8-million)**
-
-Led by Executive Chairman Michael Saylor, the company now holds 717,722 bitcoin, purchased at an average price of $76,020 per coin, for a total of $54.56 billion.
-
-CoinDesk • 5h ago
+MarketWatch • 1h ago
 
 ---
 
-**[Bitdeer's bitcoin treasury drops to zero after miner liquidates remaining 943 BTC](https://www.theblock.co/post/390719/bitdeers-bitcoin-treasury-drops-to-zero-after-miner-liquidates-remaining-943-btc)**
+**[Saylor’s Strategy Leans on Common Stock Again to Buy Bitcoin While Pitching Preferred Shares](https://www.bloomberg.com/news/articles/2026-02-23/bitcoin-buyer-strategy-leans-on-common-stock-while-pitching-preferred-shares)**
 
-The liquidation makes Bitdeer the largest publicly traded bitcoin miner by self-mining hashrate to hold no BTC on its balance sheet.
+Bloomberg.com • 5h ago
 
-The Block • 1d ago
+---
+
+**[How Accurate Are Polymarket's Bets on $150,000 Bitcoin, Really? A Long-Term Investor's Take on Short-Term Crypto Odds](https://www.fool.com/investing/2026/02/23/how-accurate-are-polymarkets-bets-on-150000-bitcoi/)**
+
+Could Bitcoin more than double by the end of the year?
+
+The Motley Fool • 36m ago
+
+---
+
+**[Bitcoin sinks below $65,000 as macro shocks rattle fragile market: analysts](https://www.theblock.co/post/390747/bitcoin-sinks-below-65000)**
+
+Nearly $360 million in crypto long positions were liquidated in an hour, according to Coinglass' heatmap based on available data.
+
+The Block • 17h ago
+
+---
+
+**[Mexican billionaire Ricardo Salinas remains bullish on bitcoin after plunge](https://www.coindesk.com/markets/2026/02/23/mexican-billionaire-ricardo-salinas-remains-bullish-on-bitcoin-after-plunge)**
+
+Salinas said he has 70% of hits liquid assets in bitcoin during an interview last year, up from 10% in 2020.
+
+CoinDesk • 6h ago
 
 ---
 
@@ -251,7 +249,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 1d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 2d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -315,17 +313,7 @@ Something big is about to happen to bitcoin and may have an opposite effect, con
 
 📺 Alessio Rastani
 
-👁️ 6K • 👍 788 • 💬 140 • ⏱️ 17:51 • 3h ago
-
----
-
-**[BIG PROBLEM FOR ALL BITCOIN BEARS !!!!](https://www.youtube.com/watch?v=3bJqtHWCBSo)**
-
-BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/Coinflare Earn Up to ...
-
-📺 The Moon Show
-
-👁️ 11K • 👍 785 • 💬 90 • ⏱️ 7:05 • 9h ago
+👁️ 13K • 👍 1K • 💬 214 • ⏱️ 17:51 • 4h ago
 
 ---
 
@@ -335,17 +323,37 @@ Michael Saylor returns to answer every question Natalie Brunell throws at him �
 
 📺 Natalie Brunell
 
-👁️ 14K • 👍 2K • 💬 578 • ⏱️ 1:51:55 • 5h ago
+👁️ 43K • 👍 3K • 💬 912 • ⏱️ 1:51:55 • 6h ago
 
 ---
 
-**[Bitcoin Is Crashing | Why Michael Saylor Is More Bullish Than Ever!](https://www.youtube.com/watch?v=YEGUg2V_VFw)**
+**[Bitcoin Is CRASHING | Why Michael Saylor Is More Bullish Than Ever!](https://www.youtube.com/watch?v=YEGUg2V_VFw)**
 
 Peak fear. Record global uncertainty. Bitcoin below its prior high and the crowd is calling it over. Michael Saylor says this is one of ...
 
 📺 Simply Bitcoin
 
-👁️ 4K • 👍 421 • 💬 34 • ⏱️ 10:21 • 5h ago
+👁️ 5K • 👍 514 • 💬 37 • ⏱️ 10:21 • 6h ago
+
+---
+
+**[More Chaos Caused Bitcoin To Drop Below $65,000](https://www.youtube.com/watch?v=rcLj4hjGUAI)**
+
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+
+📺 CryptosRUs
+
+👁️ 14K • 👍 867 • 💬 81 • ⏱️ 44:12 • 4h ago
+
+---
+
+**[BIG PROBLEM FOR ALL BITCOIN BEARS !!!!](https://www.youtube.com/watch?v=3bJqtHWCBSo)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/Coinflare Earn Up to ...
+
+📺 The Moon Show
+
+👁️ 13K • 👍 853 • 💬 110 • ⏱️ 7:05 • 10h ago
 
 ---
 
@@ -355,27 +363,7 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 14K • 👍 771 • 💬 134 • ⏱️ 9:10 • 16h ago
-
----
-
-**[what the fu*K happened to Bitcoin](https://www.youtube.com/watch?v=CZ8j_SxW8ks)**
-
-My Auto BUY / SELL setup https://ckenny.com/PM (Long or Short Automatically) Where I futures Trade ...
-
-📺 Conor Kenny
-
-👁️ 12K • 👍 556 • 💬 113 • ⏱️ 16:18 • 12h ago
-
----
-
-**[BITCOIN BREAKDOWN CONFIRMED ( Chaos Wrecks Markets)](https://www.youtube.com/watch?v=nedvGbDBUsI)**
-
-In today's video, we are breaking down the massive Bitcoin breakdown. With BTC slipping below the critical $65000 support level, ...
-
-📺 Discover Crypto
-
-👁️ 3K • 👍 275 • 💬 20 • ⏱️ 1:10:57 • 2h ago
+👁️ 14K • 👍 793 • 💬 156 • ⏱️ 9:10 • 17h ago
 
 ---
 
@@ -385,17 +373,17 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 29K • 👍 1K • 💬 452 • ⏱️ 8:44 • 17h ago
+👁️ 30K • 👍 1K • 💬 426 • ⏱️ 8:44 • 18h ago
 
 ---
 
-**[WARNING: Time’s Up! | How Low Will Bitcoin &amp; Crypto Go?](https://www.youtube.com/watch?v=5MJFPHMlNlA)**
+**[what the fu*K happened to Bitcoin](https://www.youtube.com/watch?v=CZ8j_SxW8ks)**
 
-In today's video, Kyledoops addresses the recent sell-off in crypto. Will Bitcoin and crypto make new lows and if so how bad will it ...
+My Auto BUY / SELL setup https://ckenny.com/PM (Long or Short Automatically) Where I futures Trade ...
 
-📺 Crypto Banter
+📺 Conor Kenny
 
-👁️ 17K • 👍 1K • 💬 22 • ⏱️ 34:08 • 10h ago
+👁️ 12K • 👍 573 • 💬 115 • ⏱️ 16:18 • 13h ago
 
 ---
 
@@ -405,7 +393,17 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 6K • 👍 440 • 💬 31 • ⏱️ 14:30 • 7h ago
+👁️ 8K • 👍 476 • 💬 35 • ⏱️ 14:30 • 8h ago
+
+---
+
+**[THIS IS WHY BITCOIN DUMPED... (warning!)](https://www.youtube.com/watch?v=HLvwOlGl2Ck)**
+
+WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25% FEE DISCOUNT & GET FREE $25 ...
+
+📺 Crypto Rover
+
+👁️ 12K • 👍 618 • 💬 46 • ⏱️ 8:25 • 13h ago
 
 ---
 
