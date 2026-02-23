@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T15:26:33.095037+00:00'
+updated: '2026-02-23T16:29:08.209895+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 15:26 UTC  
+**Last Updated:** February 23, 2026 at 16:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,928.72
+### $1,890.60
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** -3.7%  
-**30d:** -32.0%  
-**90d:** -36.5%  
-**1y:** -23.7%  
+**24h:** -2.3%  
+**7d:** -4.8%  
+**30d:** -32.8%  
+**90d:** -37.2%  
+**1y:** -24.5%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
+
+---
+
+**[ETH txn encoder tool](https://www.reddit.com/r/ethereum/comments/1rclcno/eth_txn_encoder_tool/)**
+
+Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
+
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 27m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 1h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 3h ago
 
 ---
 
@@ -96,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-17h ago
+18h ago
 
 ---
 
@@ -140,23 +148,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[How to x402: A Complete Guide to permissionless Agent payments](https://www.reddit.com/r/ethereum/comments/1r9z82d/how_to_x402_a_complete_guide_to_permissionless/)**
-
-Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agents) into an API endpoint after a few days working through the official docs and SDK. It’s running end-to-end: send a request, receive a 402, sign a USDC transfer, retry, and get the response back. A lot of the documentation is confusing due to differences between v1 and v2, so I compiled everything into a single post that should make things clearer. It includes an interactive demo where you can generate a wallet, fund it, and make a real x402 payment against a live endpoint. The goal was to create one resource that’s enough to understand x402 and build your own agent payment integration. The guide also includes some background on the origins of 402. Check it out here: https://simplescraper.io/blog/x402-payment-protocol Let me know what you think!
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum founder Vitalik Buterin accelerates ether sales](https://www.coindesk.com/markets/2026/02/23/ethereum-founder-vitalik-buterin-accelerates-ether-sales)**
+**[Ethereum's cofounder Vitalik Buterin sells more ether while prices continues to slide](https://www.coindesk.com/markets/2026/02/23/ethereum-founder-vitalik-buterin-accelerates-ether-sales)**
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 5h ago
+CoinDesk • 6h ago
 
 ---
 
@@ -168,19 +168,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
+**[Ethereum Hits 2-Week Low—And Tom Lee's BitMine Just Added to Its $8.4 Billion Stash](https://finance.yahoo.com/news/ethereum-hits-2-week-low-152634284.html)**
 
-Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Tom Lee's BitMine (BMNR) buys 51,162 ether (ETH) amid falling crypto prices](https://www.coindesk.com/business/2026/02/23/bitmine-immersion-added-usd98-million-of-ether-last-week-as-losses-balloon-to-more-than-usd8-billion)**
+**[Hey Anon Announces Launch of “Pandora” Prediction Market on Ethereum](https://www.coindesk.com/press-release/2026/02/23/hey-anon-announces-launch-of-pandora-prediction-market-on-ethereum)**
 
-Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.
+Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 1h ago
+CoinDesk • 23m ago
 
 ---
 
@@ -208,12 +208,6 @@ The Block • 2d ago
 
 ---
 
-**[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
-
-Binance • 6h ago
-
----
-
 **[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1771825500)**
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
@@ -222,11 +216,19 @@ Polymarket • 1d ago
 
 ---
 
-**[XRP Ledger Dominates Tokenized U.S. Treasuries with 63% Market Control, Outpacing Ethereum and Solana](https://coinpaper.com/14813/xrp-ledger-dominates-tokenized-u-s-treasuries-with-63-market-control-outpacing-ethereum-and-solana)**
+**[Ethereum under pressure: Founder sales, whale losses, and bearish odds collide](https://ambcrypto.com/ethereum-under-pressure-founder-sales-whale-losses-and-bearish-odds-collide/)**
 
-XRP Ledger dominates tokenized U.S. Treasuries with 63% market share, outpacing Ethereum, Solana, and leading institutional adoption.
+Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
 
-Coinpaper • 1d ago
+AMBCrypto • 17h ago
+
+---
+
+**[Crypto Crash Alert: Why are Bitcoin, Ethereum and XRP Prices Falling Today?](https://coinpedia.org/news/crypto-crash-alert-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
+
+Global cryptocurrency markets fell sharply on Monday, extending a multi-month downturn that traders say is being driven less by crypto-specific news and
+
+Coinpedia Fintech News • 11h ago
 
 ---
 
@@ -240,7 +242,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 873 • 👍 65 • 💬 15 • ⏱️ 14:34 • 2h ago
+👁️ 873 • 👍 65 • 💬 15 • ⏱️ 14:34 • 3h ago
 
 ---
 
@@ -250,7 +252,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 115 • 💬 3 • ⏱️ 6:00 • 5h ago
+👁️ 1K • 👍 115 • 💬 3 • ⏱️ 6:00 • 6h ago
 
 ---
 
@@ -260,7 +262,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 4K • 👍 359 • 58m ago
+👁️ 4K • 👍 359 • 2h ago
 
 ---
 
@@ -290,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 129 • 👍 11 • 💬 1 • ⏱️ 4:45 • 5h ago
+👁️ 129 • 👍 11 • 💬 1 • ⏱️ 4:45 • 6h ago
 
 ---
 
@@ -300,7 +302,7 @@ ALL TRADING PLATFORMS (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code
 
 📺 Vibe With Sahil
 
-👁️ 3K • 👍 332 • 1h ago
+👁️ 3K • 👍 332 • 2h ago
 
 ---
 
@@ -310,7 +312,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 10K • 👍 322 • 💬 64 • ⏱️ 16:36 • 17h ago
+👁️ 10K • 👍 322 • 💬 64 • ⏱️ 16:36 • 18h ago
 
 ---
 
@@ -330,7 +332,7 @@ Bitcoin is down. Altcoins are crushed. Gold is soaring. Are we still in a crypto
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 178 • 💬 2 • ⏱️ 21:22 • 22h ago
+👁️ 5K • 👍 178 • 💬 2 • ⏱️ 21:22 • 23h ago
 
 ---
 
