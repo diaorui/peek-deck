@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T02:22:29.882893+00:00'
+updated: '2026-02-23T04:36:06.969729+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 02:22 UTC  
+**Last Updated:** February 23, 2026 at 04:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,17 +42,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.8%  
-**7d:** -6.6%  
+**24h:** -5.7%  
+**7d:** -6.5%  
 **30d:** -34.0%  
 **90d:** -38.4%  
-**1y:** -26.0%  
+**1y:** -25.9%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.69B
+**Market Cap:** $224.51B
 Rank #2
 
 **Circulating Supply:** 120,692,355 ETH
@@ -62,7 +62,7 @@ No max supply
 -62.4%
 
 **All-Time Low:** $0.43
-+429274.2%
++429315.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-4h ago
+6h ago
 
 ---
 
@@ -168,20 +168,6 @@ CoinDesk • 1d ago
 
 ---
 
-**[Assessing Bit Digital (BTBT) Valuation After Ethereum Treasury Update And WhiteFiber Retention](https://finance.yahoo.com/news/assessing-bit-digital-btbt-valuation-010532137.html)**
-
-Event overview and why it matters for Bit Digital (BTBT) Bit Digital (BTBT) recently released its January Ethereum treasury update, reporting holdings of 155,239.4 ETH and an annualized staking yield of about 2.9%, while confirming it will retain roughly 27 million WhiteFiber shares post lockup. See our latest analysis for Bit Digital. Despite the fresh Ethereum treasury and staking update, Bit Digital’s share price has been weak recently, with a 30 day share price return of 22.27% and a 1...
-
-Yahoo Finance • 1h ago
-
----
-
-**[Assessing BNP Paribas (ENXTPA:BNP) Valuation After Blockchain Tokenisation Pilot On Ethereum](https://uk.finance.yahoo.com/news/assessing-bnp-paribas-enxtpa-bnp-002123935.html)**
-
-Yahoo Finance UK • 2h ago
-
----
-
 **[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
 
 The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
@@ -190,11 +176,11 @@ Fortune • 2d ago
 
 ---
 
-**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
 
-At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
 
-Decrypt • 1d ago
+Yahoo Finance • 2d ago
 
 ---
 
@@ -206,11 +192,11 @@ TradingView • 1d ago
 
 ---
 
-**[XRP Ledger Dominates Tokenized U.S. Treasuries with 63% Market Control, Outpacing Ethereum and Solana](https://coinpaper.com/14813/xrp-ledger-dominates-tokenized-u-s-treasuries-with-63-market-control-outpacing-ethereum-and-solana)**
+**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
 
-XRP Ledger dominates tokenized U.S. Treasuries with 63% market share, outpacing Ethereum, Solana, and leading institutional adoption.
+At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
 
-Coinpaper • 19h ago
+Decrypt • 1d ago
 
 ---
 
@@ -218,13 +204,31 @@ Coinpaper • 19h ago
 
 Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
 
-AMBCrypto • 3h ago
+AMBCrypto • 5h ago
 
 ---
 
-**[Ethereum ETF Blink, Not Breakdown: Fidelity’s FETH Books a $11.6 Million Outflow](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-blink-not-breakdown-fidelitys-feth-books-a-11-6-million-outflow)**
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1771815900)**
 
-TipRanks • 9h ago
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
+
+---
+
+**[Ethereum Analysis Shows Order Flow Divergence: Institutions Bullish While Retails Bearish](https://investinglive.com/Cryptocurrency/ethereum-order-flow-divergence-institutions-turn-net-long-while-retail-leans-bearish-20260222/)**
+
+This insight shows retails are Short but institutionals are Long. Find out the details of this new information and what it means.
+
+investingLive • 11h ago
+
+---
+
+**[ETHB: Everything We Know About BlackRock's New Ethereum Staking ETF](https://info.arkm.com/research/ethb-everything-we-know-about-blackrocks-new-ethereum-staking-etf)**
+
+BlackRock is undergoing preparations to launch its much-anticipated Ethereum staking ETF: ETHB. Here's everything we know so far
+
+Arkham | Research • 2d ago
 
 ---
 
@@ -238,7 +242,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 5K • 👍 252 • 💬 50 • ⏱️ 11:38 • 17h ago
+👁️ 5K • 👍 258 • 💬 51 • ⏱️ 11:38 • 19h ago
 
 ---
 
@@ -248,7 +252,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 4K • 👍 228 • 💬 28 • ⏱️ 16:36 • 4h ago
+👁️ 6K • 👍 264 • 💬 46 • ⏱️ 16:36 • 7h ago
 
 ---
 
@@ -258,7 +262,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 17K • 👍 650 • 💬 38 • ⏱️ 18:46 • 1d ago
+👁️ 18K • 👍 666 • 💬 38 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -268,7 +272,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 16K • 👍 638 • 💬 155 • ⏱️ 8:49 • 1d ago
+👁️ 16K • 👍 652 • 💬 158 • ⏱️ 8:49 • 1d ago
 
 ---
 
@@ -278,7 +282,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 130 • 💬 8 • ⏱️ 5:45 • 14h ago
+👁️ 2K • 👍 132 • 💬 8 • ⏱️ 5:45 • 16h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=beqWSsNCiD0)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Profit First
+
+👁️ 372 • 👍 77 • 💬 10 • ⏱️ 7:37 • 1h ago
 
 ---
 
@@ -288,7 +302,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 356 • 👍 19 • 💬 1 • ⏱️ 4:51 • 14h ago
+👁️ 387 • 👍 20 • 💬 1 • ⏱️ 4:51 • 17h ago
 
 ---
 
@@ -302,23 +316,13 @@ Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take o
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=jcPfG6X_unA)**
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=3uOyK20Ew8w)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
 
-📺 More Crypto Online
+📺 Crypto Gyan
 
-👁️ 2K • 👍 146 • 💬 6 • ⏱️ 4:43 • 1d ago
-
----
-
-**[BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=Se2cgqhVFOw)**
-
-BITCOIN PRICE TARGET CONFIRMED (Prepare Now)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 341 • 💬 78 • ⏱️ 14:32 • 1d ago
+👁️ 2K • 👍 123 • ⏱️ 6:35 • 17h ago
 
 ---
 
@@ -328,7 +332,7 @@ O mercado cripto está operando em zona de MEDO EXTREMO. Com o Ethereum e o Bitc
 
 📺 Augusto Backes
 
-👁️ 13K • 👍 2K • 💬 130 • ⏱️ 26:44 • 4h ago
+👁️ 19K • 👍 2K • 💬 153 • ⏱️ 26:44 • 6h ago
 
 ---
 
