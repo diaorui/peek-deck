@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T10:53:56.013959+00:00'
+updated: '2026-02-23T11:41:01.711352+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 10:53 UTC  
+**Last Updated:** February 23, 2026 at 11:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,879.11
+### $1,916.67
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.2%  
-**7d:** -3.8%  
-**30d:** -32.0%  
+**24h:** -2.7%  
+**7d:** -3.9%  
+**30d:** -32.1%  
 **90d:** -36.6%  
-**1y:** -23.7%  
+**1y:** -23.8%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-12h ago
+13h ago
 
 ---
 
@@ -168,27 +168,19 @@ Decrypt • 1d ago
 
 ---
 
+**[Will Ethereum Price Crash If Vitalik Buterin Keeps Selling? February's $16M Sales Sparks Market Concerns](https://finance.yahoo.com/news/ethereum-price-crash-vitalik-buterin-110429311.html)**
+
+Vitalik Buterin sold $3.67 million worth of ETH over two days. Despite concerns, Buterin’s roughly $16 million in February sales represent just 0.1% of Ethereum’s ...
+
+Yahoo Finance • 36m ago
+
+---
+
 **[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
 
 The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
 
 Fortune • 2d ago
-
----
-
-**[Vitalik Buterin Sells $7 Million in Ethereum as ETH Price Sinks 30%](https://finance.yahoo.com/news/vitalik-buterin-sells-7-million-113000164.html)**
-
-Ethereum co-founder Vitalik Buterin is rapidly liquidating millions of dollars worth of his tokens into a declining market.
-
-Yahoo Finance • 23h ago
-
----
-
-**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
-
-Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
-
-TradingView • 1d ago
 
 ---
 
@@ -200,35 +192,39 @@ The Block • 2d ago
 
 ---
 
+**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
+
+Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
+
+TradingView • 1d ago
+
+---
+
+**[BMNR’s Tom Lee points to ‘softer’ inflation trends ahead of weekly ETH purchase update](https://www.msn.com/en-us/money/markets/bmnr-s-tom-lee-points-to-softer-inflation-trends-ahead-of-weekly-eth-purchase-update/ar-AA1WSIrf?ocid=finance-verthp-feeds)**
+
+MSN • 3h ago
+
+---
+
+**[XRP Ledger Dominates Tokenized U.S. Treasuries with 63% Market Control, Outpacing Ethereum and Solana](https://coinpaper.com/14813/xrp-ledger-dominates-tokenized-u-s-treasuries-with-63-market-control-outpacing-ethereum-and-solana)**
+
+XRP Ledger dominates tokenized U.S. Treasuries with 63% market share, outpacing Ethereum, Solana, and leading institutional adoption.
+
+Coinpaper • 1d ago
+
+---
+
 **[Ethereum under pressure: Founder sales, whale losses, and bearish odds collide](https://ambcrypto.com/ethereum-under-pressure-founder-sales-whale-losses-and-bearish-odds-collide/)**
 
 Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
 
-AMBCrypto • 11h ago
+AMBCrypto • 12h ago
 
 ---
 
-**[Crypto Crash Alert: Why are Bitcoin, Ethereum and XRP Prices Falling Today?](https://coinpedia.org/news/crypto-crash-alert-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
+**[Ethereum ETF Blink, Not Breakdown: Fidelity’s FETH Books a $11.6 Million Outflow](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-blink-not-breakdown-fidelitys-feth-books-a-11-6-million-outflow)**
 
-Global cryptocurrency markets fell sharply on Monday, extending a multi-month downturn that traders say is being driven less by crypto-specific news and
-
-Coinpedia Fintech News • 5h ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1771815900)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
-**[ETHB: Everything We Know About BlackRock's New Ethereum Staking ETF](https://info.arkm.com/research/ethb-everything-we-know-about-blackrocks-new-ethereum-staking-etf)**
-
-BlackRock is undergoing preparations to launch its much-anticipated Ethereum staking ETF: ETHB. Here's everything we know so far
-
-Arkham | Research • 2d ago
+TipRanks • 18h ago
 
 ---
 
@@ -252,7 +248,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 9K • 👍 303 • 💬 56 • ⏱️ 16:36 • 13h ago
+👁️ 9K • 👍 303 • 💬 56 • ⏱️ 16:36 • 14h ago
 
 ---
 
@@ -292,7 +288,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 683 • 💬 56 • ⏱️ 15:00 • 6h ago
+👁️ 4K • 👍 683 • 💬 56 • ⏱️ 15:00 • 7h ago
 
 ---
 
@@ -302,7 +298,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 135 • 💬 11 • ⏱️ 17:46 • 5h ago
+👁️ 1K • 👍 135 • 💬 11 • ⏱️ 17:46 • 6h ago
 
 ---
 
@@ -312,7 +308,7 @@ The Ultimate Meme Coin Course Link: https://www.udemy.com/course/meme-coin-tradi
 
 📺 Crypto Andy
 
-👁️ 196 • 👍 3 • ⏱️ 0:41 • 5h ago
+👁️ 196 • 👍 3 • ⏱️ 0:41 • 6h ago
 
 ---
 
@@ -322,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 458 • 👍 22 • 💬 1 • ⏱️ 4:51 • 23h ago
+👁️ 458 • 👍 22 • 💬 1 • ⏱️ 4:51 • 1d ago
 
 ---
 
@@ -332,7 +328,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 1K • 👍 158 • 💬 10 • ⏱️ 7:37 • 7h ago
+👁️ 1K • 👍 158 • 💬 10 • ⏱️ 7:37 • 8h ago
 
 ---
 

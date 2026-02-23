@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T10:53:56.016757+00:00'
+updated: '2026-02-23T11:41:01.714526+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 10:53 UTC  
+**Last Updated:** February 23, 2026 at 11:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,15 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-17h ago
+18h ago
+
+---
+
+**[Latest Unitree demo](https://www.reddit.com/r/robotics/comments/1rcd973/latest_unitree_demo/)**
+
+Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
+
+1h ago
 
 ---
 
@@ -46,9 +54,9 @@ Built my very first hexapod and i think i love this hobby!Feels great finally se
 
 ---
 
-**[Latest Unitree demo](https://www.reddit.com/r/robotics/comments/1rcd973/latest_unitree_demo/)**
+**[Controlling position of BLDC](https://www.reddit.com/r/robotics/comments/1rcdcro/controlling_position_of_bldc/)**
 
-Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
+Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
 
 1h ago
 
@@ -70,11 +78,11 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 ---
 
-**[Controlling position of BLDC](https://www.reddit.com/r/robotics/comments/1rcdcro/controlling_position_of_bldc/)**
+**[IsaacSim/IsaacLab vs Unity](https://www.reddit.com/r/robotics/comments/1rcf1j8/isaacsimisaaclab_vs_unity/)**
 
-Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
+Hello everyone! I am currently working on my master’s thesis about robot manipulation. For my application I’d need high fidelity simulation but also dynamic environments, where stuff may appear and would need to be spawned into the simulation at runtime. Also, I’d need ways to integrate scripts for some processing and control. My teachers are currently advising using isaaclab for this, however, some research i am doing about the spawning of new assets/objects during runtime points at isaaclab not being able to support adding new objects to an environment. Also, it seems more focused on reinforcement learning and imitation learning which is not quite the objective i was aiming at. I know that isaaclab and isaacsim are tools used a lot though and that they seem to be more powerful but unity to me seems more intuitive and easier to use and apply my idea for this thesis. My question lies at: taking into account this information, should i stick with isaaclab and isaacsim, or should i try to persuade my teachers to let me use Unity? Also, is there something i am missing about the pros and cons i tried to outline before? Thank you for your time
 
-1h ago
+9m ago
 
 ---
 
@@ -86,25 +94,19 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 ---
 
-**[What kind of voice should a small home robot have](https://www.reddit.com/r/robotics/comments/1rcc4pl/what_kind_of_voice_should_a_small_home_robot_have/)**
-
-Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
-
-2h ago
-
----
-
 **[What should I make](https://www.reddit.com/r/robotics/comments/1rbonu9/what_should_i_make/)**
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-19h ago
+20h ago
 
 ---
 
-**[Brianna my beloved bot friend getting her limbs back](https://www.reddit.com/r/robotics/comments/1rc6xhc/brianna_my_beloved_bot_friend_getting_her_limbs/)**
+**[What kind of voice should a small home robot have](https://www.reddit.com/r/robotics/comments/1rcc4pl/what_kind_of_voice_should_a_small_home_robot_have/)**
 
-7h ago
+Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
+
+3h ago
 
 ---
 
@@ -132,7 +134,7 @@ Nasdaq • 2d ago
 
 Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
 
-NBC News • 19h ago
+NBC News • 20h ago
 
 ---
 
@@ -148,7 +150,7 @@ South China Morning Post • 1d ago
 
 The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Business Insider • 2d ago
+Business Insider • 3d ago
 
 ---
 
@@ -156,7 +158,7 @@ Business Insider • 2d ago
 
 MOUs with U.S. dealers and first EAI robot deliveries headline Faraday Future’s plan to focus on Super One, improve cash flow and streamline AIxC.
 
-Stock Titan • 9h ago
+Stock Titan • 10h ago
 
 ---
 
@@ -174,19 +176,19 @@ Tech Xplore • 2d ago
 
 ---
 
+**[US AI firm accelerates international rollout of Chinese humanoid robots](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-global-push-challenge)**
+
+A US-based company is positioning itself as a conduit for the global expansion of Chinese humanoid robotics firms.
+
+Interesting Engineering • 15h ago
+
+---
+
 **[Humanoid home robots are on the market – but do we really want them?](https://theconversation.com/humanoid-home-robots-are-on-the-market-but-do-we-really-want-them-270370)**
 
 A robot butler sounds like a nice idea, but the technology has its drawbacks.
 
 The Conversation • 3d ago
-
----
-
-**[US AI firm accelerates international rollout of Chinese humanoid robots](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-global-push-challenge)**
-
-A US-based company is positioning itself as a conduit for the global expansion of Chinese humanoid robotics firms.
-
-Interesting Engineering • 14h ago
 
 ---
 
@@ -200,7 +202,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 13K • 👍 515 • 💬 62 • ⏱️ 14:16 • 11h ago
+👁️ 13K • 👍 515 • 💬 62 • ⏱️ 14:16 • 12h ago
 
 ---
 
