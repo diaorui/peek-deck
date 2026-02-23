@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T09:56:57.298072+00:00'
+updated: '2026-02-23T10:53:56.013959+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 09:56 UTC  
+**Last Updated:** February 23, 2026 at 10:53 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-11h ago
+12h ago
 
 ---
 
@@ -180,7 +180,7 @@ Fortune • 2d ago
 
 Ethereum co-founder Vitalik Buterin is rapidly liquidating millions of dollars worth of his tokens into a declining market.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 2d ago
 
 Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
 
-AMBCrypto • 10h ago
+AMBCrypto • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ AMBCrypto • 10h ago
 
 Global cryptocurrency markets fell sharply on Monday, extending a multi-month downturn that traders say is being driven less by crypto-specific news and
 
-Coinpedia Fintech News • 4h ago
+Coinpedia Fintech News • 5h ago
 
 ---
 
@@ -252,7 +252,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 9K • 👍 303 • 💬 56 • ⏱️ 16:36 • 12h ago
+👁️ 9K • 👍 303 • 💬 56 • ⏱️ 16:36 • 13h ago
 
 ---
 
@@ -292,7 +292,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 683 • 💬 56 • ⏱️ 15:00 • 5h ago
+👁️ 4K • 👍 683 • 💬 56 • ⏱️ 15:00 • 6h ago
 
 ---
 
@@ -302,7 +302,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 135 • 💬 11 • ⏱️ 17:46 • 4h ago
+👁️ 1K • 👍 135 • 💬 11 • ⏱️ 17:46 • 5h ago
 
 ---
 
@@ -312,7 +312,7 @@ The Ultimate Meme Coin Course Link: https://www.udemy.com/course/meme-coin-tradi
 
 📺 Crypto Andy
 
-👁️ 196 • 👍 3 • ⏱️ 0:41 • 4h ago
+👁️ 196 • 👍 3 • ⏱️ 0:41 • 5h ago
 
 ---
 
@@ -322,7 +322,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 458 • 👍 22 • 💬 1 • ⏱️ 4:51 • 22h ago
+👁️ 458 • 👍 22 • 💬 1 • ⏱️ 4:51 • 23h ago
 
 ---
 
@@ -332,7 +332,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 1K • 👍 158 • 💬 10 • ⏱️ 7:37 • 6h ago
+👁️ 1K • 👍 158 • 💬 10 • ⏱️ 7:37 • 7h ago
 
 ---
 

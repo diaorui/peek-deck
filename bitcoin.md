@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-23T09:56:57.292114+00:00'
+updated: '2026-02-23T10:53:56.008679+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- videos
 - news
 - social
-- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 09:56 UTC  
+**Last Updated:** February 23, 2026 at 10:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Almost at the end of the month 🙏](https://www.reddit.com/r/Bitcoin/comments/1rc0ddm/almost_at_the_end_of_the_month/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ I bought a bunch of bitcoin at $65k USD and now I'm waiting for bitcoin to fall 
 
 **[Just hit 0.1 coin. A proud moment.](https://www.reddit.com/r/Bitcoin/comments/1rcbe8j/just_hit_01_coin_a_proud_moment/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ I bought a bunch of bitcoin at $65k USD and now I'm waiting for bitcoin to fall 
 
 When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks. EDIT: Thanks everyone for your response. I've answered many DM's for fun to fuck around with the scammers lol. Like many suggested, I'll reach out to a tax lawyer first, then a crypto CPA. I'm not moving to another country bruh - I'll handle all of this LEGALLY! I like being able to sleep at night.
 
-18h ago
+19h ago
 
 ---
 
@@ -109,7 +109,7 @@ When I was a minor back in 2015, my old friend’s big brother convinced me to i
 
 Almost 2 weeks now chilling in the 60s... Don't be the meme lined up at 100k But its going to 30k! Ya and home prices are crashing 50% and the us will pay off its national debt. Mmmhmmm
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ Almost 2 weeks now chilling in the 60s... Don't be the meme lined up at 100k But
 
 Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can rediscover fire. TLDW: Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself. ...do you have more time to watch? 1: https://youtu.be/19LA7ReARCQ 2: https://youtu.be/YroOIC8eDrk 3: https://youtu.be/ZsgZjAPjxDU
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can 
 
 It is. Always has been. People are npcs
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ It is. Always has been. People are npcs
 
 Tough times create strong men 💪 It just feels like 1 person says one bad thing everyone just goes rampage mode hahaha! When bears have a point for it to go lower I think it can 🤷 I think some need to read there side. It’s like watching one side of the news!!
 
-9h ago
+10h ago
 
 ---
 
@@ -141,7 +141,7 @@ Tough times create strong men 💪 It just feels like 1 person says one bad thin
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -159,7 +159,7 @@ If clean spark liquidates within the next couple days, expect BTC to drop into t
 
 **[Bitcoin Falls Below $65,000 in Latest Bout of Tariff Uncertainty](https://www.bloomberg.com/news/articles/2026-02-23/bitcoin-btc-slides-to-65-000-in-latest-bout-of-tariff-uncertainty)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 1h ago
 
 The liquidation makes Bitdeer the largest publicly traded bitcoin miner by self-mining hashrate to hold no BTC on its balance sheet.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -175,13 +175,13 @@ The Block • 16h ago
 
 Bitdeer has sold all of its self-owned Bitcoin, reducing its treasury balance to 0 BTC. Several trackers still show over 1,000 Bitcoins due to outdated ...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[U.S. stock futures, dollar and bitcoin drop as investors await clarity on Trump’s latest tariff plans](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?gaa_at=eafs&gaa_n=AWEtsqdYYDgU-a7mTfyXgXraoMKM2VzYluHuFj8k3CHr6Mf2vYflxCPuL4h1&gaa_ts=699c27d3&gaa_sig=fkAHTpkAGiao6v6bLANpyPFVlOuyQBdwHQTMT0lT8gIZWNdOMcGC3h5sUwl1PSq8vEHwbkIuFBq_KVv3RwsrPg%3D%3D)**
 
-MarketWatch • 5h ago
+MarketWatch • 6h ago
 
 ---
 
@@ -205,13 +205,13 @@ Yahoo Finance • 2d ago
 
 Bitcoin, the world's most popular cryptocurrency, is less popular these days. The crypto token has fallen more than 40% since its peak last fall,
 
-PYMNTS.com • 10h ago
+PYMNTS.com • 11h ago
 
 ---
 
 **[🚨 Bitcoin dropped below $65k. $230 million in leveraged longs liquidated in 60 minutes. When shit gets real, Bitcoin doesn't act like digital gold. It acts like a leveraged tech stock. The "store of value" narrative works great until it doesn't.](https://x.com/MarioNawfal/status/2025775973225070979)**
 
-x.com • 6h ago
+x.com • 7h ago
 
 ---
 
@@ -293,7 +293,7 @@ Financial independence on a bitcoin standard
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 2 • 💬 0 • 20h ago
+⬆️ 2 • 💬 0 • 21h ago
 
 ---
 
@@ -315,7 +315,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 385 • ⏱️ 8:44 • 8h ago
+👁️ 25K • 👍 1K • 💬 385 • ⏱️ 8:44 • 9h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 560 • 💬 78 • ⏱️ 9:10 • 7h ago
+👁️ 10K • 👍 560 • 💬 78 • ⏱️ 9:10 • 8h ago
 
 ---
 
@@ -335,7 +335,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 8K • 👍 506 • 💬 133 • ⏱️ 6:12 • 8h ago
+👁️ 8K • 👍 506 • 💬 133 • ⏱️ 6:12 • 9h ago
 
 ---
 
@@ -345,7 +345,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 412 • 💬 45 • ⏱️ 8:25 • 3h ago
+👁️ 5K • 👍 412 • 💬 45 • ⏱️ 8:25 • 4h ago
 
 ---
 
@@ -355,7 +355,7 @@ This is not about tariffs. It is about an $800 trillion wealth rotation that cou
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 131 • ⏱️ 17:48 • 11h ago
+👁️ 29K • 👍 2K • 💬 131 • ⏱️ 17:48 • 12h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 120 • ⏱️ 9:22 • 11h ago
+👁️ 33K • 👍 2K • 💬 120 • ⏱️ 9:22 • 12h ago
 
 ---
 
@@ -385,7 +385,7 @@ My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https:
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 164 • 💬 14 • ⏱️ 5:01 • 10h ago
+👁️ 4K • 👍 164 • 💬 14 • ⏱️ 5:01 • 11h ago
 
 ---
 
@@ -395,7 +395,7 @@ URGENT Bitcoin Support Update! It Could Be OVER! XRP $1.93B CAPITULATION In this
 
 📺 CryptoWendyO
 
-👁️ 17K • 👍 892 • 💬 57 • ⏱️ 12:58 • 15h ago
+👁️ 17K • 👍 892 • 💬 57 • ⏱️ 12:58 • 16h ago
 
 ---
 
@@ -405,7 +405,7 @@ Bitcoin #Crypto #Finance Grant Cardone reveals why his ultimate target is 10000 
 
 📺 The Wolf Of All Streets
 
-👁️ 14K • 👍 489 • 💬 250 • ⏱️ 23:59 • 19h ago
+👁️ 14K • 👍 489 • 💬 250 • ⏱️ 23:59 • 20h ago
 
 ---
 
