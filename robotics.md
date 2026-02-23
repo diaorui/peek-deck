@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T21:11:18.250073+00:00'
+updated: '2026-02-23T22:11:52.559719+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 21:11 UTC  
+**Last Updated:** February 23, 2026 at 22:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
-11h ago
+12h ago
 
 ---
 
@@ -46,11 +46,27 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 ---
 
+**[3-Phase Roadmap For Scaling Humanoids](https://www.reddit.com/r/robotics/comments/1rcr4d8/3phase_roadmap_for_scaling_humanoids/)**
+
+Jeff Cardenas, CEO of Apptronik, described how humanoid robotics could scale over the next five years. The framework was structured in three phases: Phase 1: Industrial environments such as logistics and manufacturing. Structured workflows, clearer safety boundaries, and measurable ROI make these environments the most practical starting point. Phase 2: Broader commercial settings including healthcare, hospitality, and retail. Increased human interaction and environmental variability introduce additional complexity. Phase 3: Home and assistive care. Considered a long-term objective rather than an initial deployment market. An updated Apollo has been operating internally for about a year, running commercial pilots and participating in a research partnership with Google’s Gemini Robotics.
+
+2h ago
+
+---
+
+**[Seeking manual for kids robotic kit](https://www.reddit.com/r/robotics/comments/1rcvke5/seeking_manual_for_kids_robotic_kit/)**
+
+We found this kit as a thrift store but it’s missing the instructions which are not available online. Please help a keen 7 year old build his third robot!
+
+5m ago
+
+---
+
 **[What kind of voice should a small home robot have](https://www.reddit.com/r/robotics/comments/1rcc4pl/what_kind_of_voice_should_a_small_home_robot_have/)**
 
 Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
 
-12h ago
+13h ago
 
 ---
 
@@ -58,7 +74,7 @@ Lately our team ran into a question we didn’t expect to spend this much time o
 
 Hey folks, My team is building a spherical ROS 2 robot and we're currently having a massive internal architectural debate. I'd love a reality check from people actually deploying embodied AI on edge hardware. Right now, we've moved away from the traditional, rigid FSM (Finite State Machine) and hardcoded if-else loops for intent parsing. Instead, we are running what we call an "LLM + Skills" architecture. Here is our current stack: We use a lightweight local VLM (1B/2B parameters) purely as a high-level dispatcher/router. It takes in camera/audio input, parses the user's intent, and then calls pre-defined ROS 2 actions/services (e.g., Maps_to(), play_expression(), move_chassis()). It works. It's predictable. It's safe. But honestly, it feels like a stepping stone. At its core, it still feels like a glorified Voice Assistant glued to a traditional state machine. The holy grail everyone talks about right now is Pure VLA (Vision-Language-Action) — pumping pixels and text directly into a model and having it spit out cmd_vel or motor torques directly, bypassing traditional planners completely. My question to the community: Is anyone actually deploying pure end-to-end VLA on real-world edge hardware with any degree of safety and reliability? Or is the "LLM + Skills" hybrid approach the actual practical ceiling for open-source and commercial edge robots right now due to compute limits? Would love to hear how "deep" your models are actually controlling the hardware vs just acting as a fancy NLU layer.
 
-7h ago
+8h ago
 
 ---
 
@@ -66,23 +82,7 @@ Hey folks, My team is building a spherical ROS 2 robot and we're currently havin
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
-23h ago
-
----
-
-**[3-Phase Roadmap For Scaling Humanoids](https://www.reddit.com/r/robotics/comments/1rcr4d8/3phase_roadmap_for_scaling_humanoids/)**
-
-Jeff Cardenas, CEO of Apptronik, described how humanoid robotics could scale over the next five years. The framework was structured in three phases: Phase 1: Industrial environments such as logistics and manufacturing. Structured workflows, clearer safety boundaries, and measurable ROI make these environments the most practical starting point. Phase 2: Broader commercial settings including healthcare, hospitality, and retail. Increased human interaction and environmental variability introduce additional complexity. Phase 3: Home and assistive care. Considered a long-term objective rather than an initial deployment market. An updated Apollo has been operating internally for about a year, running commercial pilots and participating in a research partnership with Google’s Gemini Robotics.
-
-1h ago
-
----
-
-**[Your car won't light the check engine for a single misfire. Why does your robot confirm every fault instantly?](https://www.reddit.com/r/robotics/comments/1rcskbg/your_car_wont_light_the_check_engine_for_a_single/)**
-
-Your robot's fault logs are a haystack. The real error is the needle. 10 alerts just fired. The motor burns out at 3 AM. Nobody noticed. All warning. All confirmed. All identical on your dashboard. One of them is a motor about to burn out. Good luck finding it. This is what diagnostics look like without filtering. Every glitch instantly confirmed, instantly in your face. Your operator sees a wall of orange. Mutes the channel. Goes back to scrolling Reddit. One YAML change: confirmation_threshold: -3 Same 10 alerts fire. Same sensors, same noise. But now: 9 stay "pending" (transient: counter never reaches -3). 1 "confirmed": MOTOR_OVERHEAT (sustained: 5 reports in a row). The needle jumps out of the haystack. This is how every serious monitoring system works. Prometheus has for duration. Your car's ECU has pending vs confirmed DTCs. It won't light the check engine for a single misfire (needs two drive cycles to confirm). diagnostic_updater has none of this. Every message is independent. No memory, no threshold. ros2_medkit adds 4 filtering layers: Local filter (client-side dedup) Confirmation debounce (counter-based threshold) Auto-healing (robot recovers → fault closes) Auto-confirm timeout (slow-burn faults don't slip through) The data is still there. It just doesn't scream. GitHub: https://github.com/selfpatch/ros2_medkit Full article: https://discourse.openrobotics.org/t/your-robots-fault-log-is-a-haystack-the-real-error-is-the-needle/52583
-
-55m ago
+1d ago
 
 ---
 
@@ -90,7 +90,7 @@ Your robot's fault logs are a haystack. The real error is the needle. 10 alerts 
 
 I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
 
-23h ago
+1d ago
 
 ---
 
@@ -98,7 +98,7 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
 
-11h ago
+12h ago
 
 ---
 
@@ -126,15 +126,7 @@ The Guardian • 5d ago
 
 Tesollo said its DG-5F-S robotic hand supports precise grasping and manipulation motions required for humanoid robots.
 
-The Robot Report • 2h ago
-
----
-
-**[AI robots may outnumber workers in a few decades, ex-Citi executive says](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
-
-"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
-
-CNBC • 6h ago
+The Robot Report • 3h ago
 
 ---
 
@@ -142,7 +134,23 @@ CNBC • 6h ago
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
 
-KPAX News • 19h ago
+KPAX News • 20h ago
+
+---
+
+**[AI robots may outnumber workers in a few decades, ex-Citi executive says](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
+
+"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
+
+CNBC • 7h ago
+
+---
+
+**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.nasdaq.com/articles/teslas-3-trillion-opportunity-how-optimus-could-dominate-robotics-market-2026)**
+
+Key PointsTesla is repurposing EV factories to build its Optimus robots.
+
+Nasdaq • 3d ago
 
 ---
 
@@ -154,11 +162,11 @@ South China Morning Post • 1d ago
 
 ---
 
-**[Tech companies are making their robots cute to try to win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
+**[Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: For EAI Robotics, FF Will Officially Begin Its First Batch of Deliveries Next Week](https://www.businesswire.com/news/home/20260222086489/en/Faraday-Future-Founder-and-Co-CEO-YT-Jia-Shares-Weekly-Investor-Update-For-EAI-Robotics-FF-Will-Officially-Begin-Its-First-Batch-of-Deliveries-Next-Week)**
 
-Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
+Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global shared intelligent electric mobi...
 
-NBC News • 1d ago
+Business Wire • 21h ago
 
 ---
 
@@ -170,25 +178,17 @@ Business Insider • 3d ago
 
 ---
 
-**[EngineAI’s agile humanoid stuns with advanced stability and control](https://interestingengineering.com/ai-robotics/engineai-humanoid-robot-impresses-with-quick-recovery)**
+**[Tech companies are making their robots cute to try to win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
 
-EngineAI’s PM01 humanoid shows advanced balance, quick recovery, and humanlike movement in a new demo video.
+Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
 
-Interesting Engineering • 11h ago
-
----
-
-**[Humanoid robots: Faraday Future readies first EAI deliveries](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-6h6an0dy45p4.html)**
-
-MOUs with U.S. dealers and first EAI robot deliveries headline Faraday Future’s plan to focus on Super One, improve cash flow and streamline AIxC.
-
-Stock Titan • 19h ago
+NBC News • 1d ago
 
 ---
 
-**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
+**[Post From Community: Milwaukee Robotics Academy presents: 2026 Milwaukee Robotics City Championships](https://milwaukeenns.org/2026/02/23/post-from-community-milwaukee-robotics-academy-presents-2026-milwaukee-robotics-city-championships/)**
 
-Tech Xplore • 3d ago
+Milwaukee Neighborhood News Service • 4h ago
 
 ---
 
@@ -206,43 +206,23 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 ---
 
-**[Humanoid robots dance at the Temple of Heaven for the Chinese New Year#coolchina](https://www.youtube.com/watch?v=PY-LqvwhtRE)**
-
-Following their performance on the Spring Festival Gala stage, where humanoid robots danced and demonstrated martial arts as ...
-
-📺 CGTN
-
-👁️ 21K • 👍 1K • 💬 205 • ⏱️ 2:14 • 8h ago
-
----
-
 **[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
 
 Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
 
 📺 10 News
 
-👁️ 301K • 👍 3K • 💬 2K • ⏱️ 3:42 • 4d ago
+👁️ 302K • 👍 4K • 💬 2K • ⏱️ 3:42 • 4d ago
 
 ---
 
-**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
+**[Humanoid robots dance at the Temple of Heaven for the Chinese New Year#coolchina](https://www.youtube.com/watch?v=PY-LqvwhtRE)**
 
-Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
+Following their performance on the Spring Festival Gala stage, where humanoid robots danced and demonstrated martial arts as ...
 
-📺 AI Revolution
+📺 CGTN
 
-👁️ 37K • 👍 864 • 💬 114 • ⏱️ 14:16 • 21h ago
-
----
-
-**[AI Robots Are Evolving WAY FASTER Than Expected! ](https://www.youtube.com/watch?v=-bOog4ux0XU)**
-
-Kung fu robots, companion female humanoids, and robotic dogs are some of the robots that will be flooding the streets.
-
-📺 Aaron Page 
-
-👁️ 11K • 👍 811 • 💬 133 • ⏱️ 14:02 • 1d ago
+👁️ 30K • 👍 1K • 💬 229 • ⏱️ 2:14 • 9h ago
 
 ---
 
@@ -252,17 +232,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 69K • 👍 3K • 💬 824 • ⏱️ 14:51 • 3d ago
+👁️ 70K • 👍 3K • 💬 826 • ⏱️ 14:51 • 3d ago
 
 ---
 
-**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
 
-Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
 
-📺 New York Post
+📺 AI Revolution
 
-👁️ 17K • 👍 311 • 💬 299 • ⏱️ 2:30 • 2d ago
+👁️ 40K • 👍 912 • 💬 119 • ⏱️ 14:16 • 22h ago
 
 ---
 
@@ -272,7 +252,17 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 84K • 👍 425 • 💬 227 • ⏱️ 2:14 • 2d ago
+👁️ 85K • 👍 433 • 💬 227 • ⏱️ 2:14 • 2d ago
+
+---
+
+**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+
+Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+
+📺 New York Post
+
+👁️ 18K • 👍 313 • 💬 301 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -282,17 +272,27 @@ Join the NextGen AI Community for early access, faster updates, and deeper AI & 
 
 📺 NextGen AI
 
-👁️ 37K • 👍 678 • 💬 163 • ⏱️ 9:42 • 4d ago
+👁️ 38K • 👍 678 • 💬 163 • ⏱️ 9:42 • 4d ago
 
 ---
 
-**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
+**[AI Robots Are Evolving WAY FASTER Than Expected! ](https://www.youtube.com/watch?v=-bOog4ux0XU)**
 
-Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
+Kung fu robots, companion female humanoids, and robotic dogs are some of the robots that will be flooding the streets.
 
-📺 The China Show
+📺 Aaron Page 
 
-👁️ 183K • 👍 11K • 💬 1K • ⏱️ 1:49:11 • 2d ago
+👁️ 11K • 👍 816 • 💬 133 • ⏱️ 14:02 • 2d ago
+
+---
+
+**[50 Humanoid Robots Perform Kung Fu in Perfect Sync #robotics #humanoidrobots #innovation #china](https://www.youtube.com/watch?v=ee2ebY-8mnM)**
+
+Humanoid robot clusters are the new drone swarms. Chinese robotics leader Unitree just shared footage with about 50 of its Kung ...
+
+📺 Kalil 4.0
+
+👁️ 658 • 👍 47 • 💬 7 • ⏱️ 0:59 • 1h ago
 
 ---
 

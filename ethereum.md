@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T21:11:18.247182+00:00'
+updated: '2026-02-23T22:11:52.556441+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
+- news
 - social
 - videos
-- news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 21:11 UTC  
+**Last Updated:** February 23, 2026 at 22:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,14 +36,14 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,863.28
+### $1,863.29
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.9%  
-**7d:** -6.4%  
+**24h:** -4.7%  
+**7d:** -6.3%  
 **30d:** -33.8%  
 **90d:** -38.2%  
 **1y:** -25.7%  
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.02B
+**Market Cap:** $225.27B
 Rank #2
 
 **Circulating Supply:** 120,692,355 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.2%
 
 **All-Time Low:** $0.43
-+429096.3%
++431163.4%
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
 **[Telegram bot for audit contest updates (Sherlock, Code4rena, Cantina, Immunefi)](https://www.reddit.com/r/ethereum/comments/1rctimq/telegram_bot_for_audit_contest_updates_sherlock/)**
 
-21m ago
+1h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
 
-🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 5h ago
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 6h ago
 
 ---
 
@@ -94,7 +94,7 @@ Simple little tool for encoding function calls according to the eth abi. I've se
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 7h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 8h ago
 
 ---
 
@@ -102,7 +102,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Some backstory In February 2016 — less than a year after Ethereum launched —
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 10h ago
 
 Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
@@ -170,15 +170,7 @@ Yahoo Finance • 7h ago
 
 Ethereum founder Vitalik Buterin has been selling ETH in the last few days as the second-largest crypto asset continues its fall.
 
-Decrypt • 3h ago
-
----
-
-**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
-
-At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
-
-Decrypt • 2d ago
+Decrypt • 4h ago
 
 ---
 
@@ -186,7 +178,7 @@ Decrypt • 2d ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -194,13 +186,13 @@ Yahoo Finance • 5h ago
 
 Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
 **[BitMine Stock Defies the ‘Crypto Winter’ as Tom Lee Secures 3.7% of All Ethereum](https://www.tipranks.com/news/bitmine-stock-defies-the-crypto-winter-as-tom-lee-secures-3-7-of-all-ethereum)**
 
-TipRanks • 5h ago
+TipRanks • 6h ago
 
 ---
 
@@ -212,17 +204,25 @@ Fortune • 3d ago
 
 ---
 
-**[🔷 Analyst Predicts The Ethereum Price Bottom With A Marked Path To $15,000](https://www.binance.com/en/square/post/294795991625314)**
+**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1771877700)**
 
-Binance • 5h ago
+Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
-**[BNP Paribas Asset Management pilots tokenized MMF issuance on Ethereum](https://www.ledgerinsights.com/bnp-paribas-asset-management-pilots-tokenized-mmf-issuance-on-ethereum/)**
+**[🔷 Analyst Predicts The Ethereum Price Bottom With A Marked Path To $15,000](https://www.binance.com/en/square/post/294795991625314)**
 
-BNP Paribas Asset Management (BNPP AM) has issued a tokenized share class of an existing money market fund (MMF) on the Ethereum blockchain. The issuance
+Binance • 6h ago
 
-ledgerinsights.com • 6h ago
+---
+
+**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+
+At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+
+Decrypt • 2d ago
 
 ---
 
@@ -230,93 +230,43 @@ ledgerinsights.com • 6h ago
 
 ## YouTube Videos: "ethereum"
 
-**[BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hkInfemKTV4)**
-
-BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 845 • 👍 52 • 💬 14 • ⏱️ 22:08 • 1h ago
-
----
-
 **[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=Bz26yGwwFpM)**
 
 Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-bitcoin-strategy.com My Chart Software: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 108 • 💬 32 • ⏱️ 14:34 • 8h ago
+👁️ 3K • 👍 122 • 💬 38 • ⏱️ 14:34 • 9h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=smPJV_jsMzY)**
+**[BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hkInfemKTV4)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 2K • 👍 137 • 💬 4 • ⏱️ 6:00 • 11h ago
-
----
-
-**[KALSHI: ETHEREUM COULD FALL TO $999](https://www.youtube.com/watch?v=cSL3thSoVf4)**
-
-Kalshi is pricing in a potential major Ethereum drawdown this year. In this video I compare that market-implied forecast with ...
-
-📺 Smart Money Tracking
-
-👁️ 56 • 👍 4 • 💬 1 • ⏱️ 27:22 • 1h ago
+👁️ 3K • 👍 153 • 💬 43 • ⏱️ 22:08 • 2h ago
 
 ---
 
-**[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
+**[&quot;This F**ked my BTC &amp; ETH Prediction But It&#39;s About to Turn VERY BULLISH&quot; - Raoul Pal](https://www.youtube.com/watch?v=xtTgHjsk5D0)**
 
-While most people hesitate on Ethereum, I'm loading up. In this video, I break down my full Ethereum thesis, why current price ...
+What if the next rate cut isn't the beginning of another tightening cycle… but the end of rate hikes altogether? In this conversation ...
 
-📺 Michaël van de Poppe
+📺 Savvy Finance
 
-👁️ 7K • 👍 294 • 💬 62 • ⏱️ 11:38 • 1d ago
-
----
-
-**[WILL ETH DUMP LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_MBkfSVtbsg)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 192 • 👍 13 • 💬 1 • ⏱️ 4:45 • 11h ago
+👁️ 2K • 👍 154 • 💬 11 • ⏱️ 19:20 • 5h ago
 
 ---
 
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 Realistic Prediction]](https://www.youtube.com/watch?v=9jkSSrclP4M)**
+**[SHOCKING New Ethereum-AI Roadmap Will SAVE Crypto](https://www.youtube.com/watch?v=rhtm19uWtBE)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
+SHOCKING New Ethereum-AI Roadmap AI Will SAVE Crypto GM O Army! In this video, we dive into how artificial intelligence is ...
 
-📺 Crypto Nutshell
+📺 CryptoWendyO
 
-👁️ 20K • 👍 699 • 💬 42 • ⏱️ 18:46 • 2d ago
-
----
-
-**[Is Tom Lee Finally Right About the ETH Bottom? (BMNR Update)](https://www.youtube.com/watch?v=3a83V1fKPLE)**
-
-Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
-
-📺 Future Investing
-
-👁️ 19K • 👍 705 • 💬 184 • ⏱️ 8:49 • 2d ago
-
----
-
-**[SEMANA EXTREMA ✅ VIENE GRAN MOVIMIENTO, BTC, ETH](https://www.youtube.com/watch?v=YzXsV4sDoKs)**
-
-Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
-
-📺 Alvarburn
-
-👁️ 2K • 👍 271 • 💬 23 • ⏱️ 20:20 • 7h ago
+👁️ 103 • 👍 27 • 💬 3 • ⏱️ 3:44 • 10m ago
 
 ---
 
@@ -326,7 +276,57 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 89 • 💬 11 • ⏱️ 1:23:36 • 9h ago
+👁️ 2K • 👍 107 • 💬 25 • ⏱️ 1:23:36 • 10h ago
+
+---
+
+**[The Bottom Of Ethereum Is NEAR! How To Find Your Entry!](https://www.youtube.com/watch?v=31_NG5yQV7c)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 204 • 👍 17 • 💬 8 • ⏱️ 6:12 • 1h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=smPJV_jsMzY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 142 • 💬 4 • ⏱️ 6:00 • 12h ago
+
+---
+
+**[$BMNR Buys MUCH MORE $ETH](https://www.youtube.com/watch?v=VjgT0Usl4z0)**
+
+HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Traders With Our AutoPilot™ ...
+
+📺 Wolf of Dubai Day Trading & Investing
+
+👁️ 455 • 👍 40 • 💬 6 • ⏱️ 8:06 • 2h ago
+
+---
+
+**[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
+
+While most people hesitate on Ethereum, I'm loading up. In this video, I break down my full Ethereum thesis, why current price ...
+
+📺 Michaël van de Poppe
+
+👁️ 7K • 👍 297 • 💬 62 • ⏱️ 11:38 • 1d ago
+
+---
+
+**[KALSHI: ETHEREUM COULD FALL TO $999](https://www.youtube.com/watch?v=cSL3thSoVf4)**
+
+Kalshi is pricing in a potential major Ethereum drawdown this year. In this video I compare that market-implied forecast with ...
+
+📺 Smart Money Tracking
+
+👁️ 262 • 👍 30 • 💬 7 • ⏱️ 27:22 • 2h ago
 
 ---
 
