@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T22:11:52.556441+00:00'
+updated: '2026-02-23T23:08:12.272894+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- social
 - cryptocurrency
 - news
-- social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 22:11 UTC  
+**Last Updated:** February 23, 2026 at 23:08 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
 **[Telegram bot for audit contest updates (Sherlock, Code4rena, Cantina, Immunefi)](https://www.reddit.com/r/ethereum/comments/1rctimq/telegram_bot_for_audit_contest_updates_sherlock/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -86,7 +86,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
 
-🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 6h ago
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 7h ago
 
 ---
 
@@ -94,7 +94,7 @@ Simple little tool for encoding function calls according to the eth abi. I've se
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 8h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 9h ago
 
 ---
 
@@ -142,7 +142,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Some backstory In February 2016 — less than a year after Ethereum launched — Alex Van de Sande (avsa) from the Ethereum Foundation deployed an experimental contract called Unicorns (0x89205A3A). It was one of the very first token contracts on Ethereum, predating the ERC-20 standard. A month later, he created Unicorn Meat (0xED6aC8de) — another experimental token — along with the Grinder Association DAO, one of the earliest DAOs on Ethereum. The Grinder let you exchange Unicorns for Unicorn Meat, effectively the first onchain token swap. These were demo contracts for the Mist browser. They were never meant to become "real" tokens, but they've survived for 10 years now — still on mainnet, still functional, still held in wallets. The problem Because these tokens predate ERC-20 (they have 0 decimal places, non-standard transfer functions), they don't work well with modern DEXes. Uniswap V3's fee math rounds to 0 for 0-decimal tokens. AMM pooling is essentially broken for them. Wrapped versions exist (w🦄 and w🍖 are standard ERC-20s), but the 0-decimal problem persists. What we built Unicorn Market — a fully onchain orderbook contract, purpose-built for these tokens: No backend, no matching engine, no admin keys — pure smart contract Escrowed limit orders — maker's tokens held in contract until filled or cancelled Partial fills — take any portion of an order Deterministic rounding — uses OpenZeppelin's Math.mulDiv with ceiling rounding so makers never get shorted All state onchain, all settlement via events Verified contract: 0xA352B50A91C648c97F7aC0a80D686D297b62693E Trade interface: unicornmeateth.com/market Source: github.com/cartoonitunes/unicorn-market Why this matters (beyond the meme) There are hundreds of pre-ERC-20 and non-standard tokens stuck on Ethereum mainnet with no good trading infrastructure. AMMs assume standard decimals and transfer behavior. A simple, auditable orderbook contract is arguably the right primitive for these edge cases. If you hold any legacy Ethereum tokens from 2015-2017, you probably know the pain of trying to trade them on modern infra. Technical details Reentrancy-guarded, CEI pattern throughout Happy to answer questions about the contract design or the history of these tokens.
 
-2d ago
+3d ago
 
 ---
 
@@ -154,7 +154,7 @@ Some backstory In February 2016 — less than a year after Ethereum launched —
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 11h ago
 
 Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 8h ago
 
 Ethereum founder Vitalik Buterin has been selling ETH in the last few days as the second-largest crypto asset continues its fall.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -178,7 +178,7 @@ Decrypt • 4h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -186,7 +186,7 @@ Yahoo Finance • 6h ago
 
 Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -214,7 +214,7 @@ Polymarket • 1d ago
 
 **[🔷 Analyst Predicts The Ethereum Price Bottom With A Marked Path To $15,000](https://www.binance.com/en/square/post/294795991625314)**
 
-Binance • 6h ago
+Binance • 7h ago
 
 ---
 
@@ -236,7 +236,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 122 • 💬 38 • ⏱️ 14:34 • 9h ago
+👁️ 3K • 👍 122 • 💬 38 • ⏱️ 14:34 • 10h ago
 
 ---
 
@@ -246,7 +246,7 @@ BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 3K • 👍 153 • 💬 43 • ⏱️ 22:08 • 2h ago
+👁️ 3K • 👍 153 • 💬 43 • ⏱️ 22:08 • 3h ago
 
 ---
 
@@ -256,7 +256,7 @@ What if the next rate cut isn't the beginning of another tightening cycle… but
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 154 • 💬 11 • ⏱️ 19:20 • 5h ago
+👁️ 2K • 👍 154 • 💬 11 • ⏱️ 19:20 • 6h ago
 
 ---
 
@@ -266,7 +266,7 @@ SHOCKING New Ethereum-AI Roadmap AI Will SAVE Crypto GM O Army! In this video, w
 
 📺 CryptoWendyO
 
-👁️ 103 • 👍 27 • 💬 3 • ⏱️ 3:44 • 10m ago
+👁️ 103 • 👍 27 • 💬 3 • ⏱️ 3:44 • 1h ago
 
 ---
 
@@ -276,7 +276,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 107 • 💬 25 • ⏱️ 1:23:36 • 10h ago
+👁️ 2K • 👍 107 • 💬 25 • ⏱️ 1:23:36 • 11h ago
 
 ---
 
@@ -286,7 +286,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 204 • 👍 17 • 💬 8 • ⏱️ 6:12 • 1h ago
+👁️ 204 • 👍 17 • 💬 8 • ⏱️ 6:12 • 2h ago
 
 ---
 
@@ -306,7 +306,7 @@ HTTPS://WWW.X10DAYTRADING.COM TRADE TO $1M WHILE WORKING 9 TO 5? Copy Pro Trader
 
 📺 Wolf of Dubai Day Trading & Investing
 
-👁️ 455 • 👍 40 • 💬 6 • ⏱️ 8:06 • 2h ago
+👁️ 455 • 👍 40 • 💬 6 • ⏱️ 8:06 • 3h ago
 
 ---
 
@@ -326,7 +326,7 @@ Kalshi is pricing in a potential major Ethereum drawdown this year. In this vide
 
 📺 Smart Money Tracking
 
-👁️ 262 • 👍 30 • 💬 7 • ⏱️ 27:22 • 2h ago
+👁️ 262 • 👍 30 • 💬 7 • ⏱️ 27:22 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-23T22:11:52.541320+00:00'
+updated: '2026-02-23T23:08:12.259617+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 23, 2026 at 22:11 UTC  
+**Last Updated:** February 23, 2026 at 23:08 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 5h ago
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 6h ago
 
 ---
 
@@ -47,13 +47,13 @@ AI news, discussions, and developments
 
 Researchers generated images from noise, using orders of magnitude less energy than current generative AI models require.
 
-🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 19h ago
+🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 20h ago
 
 ---
 
 **[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
 
-🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 12m ago
+🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 1h ago
 
 ---
 
@@ -61,7 +61,7 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 This is the most insane thing I have seen so far. 17k tokens/second. I just tried their chatbot from taalas.com. I asked it to do a comparison between Nvidia, cerebras, groq and taalas. I got the response in 0.058s and token output was 15k. This is some godly speed with a llama3 8B param model. If they launch a developer kit, I will surely buy it. What do you guys think about this?
 
-🔗 [chatjimmy.ai](https://chatjimmy.ai/) • 37m ago
+🔗 [chatjimmy.ai](https://chatjimmy.ai/) • 1h ago
 
 ---
 
@@ -69,7 +69,7 @@ This is the most insane thing I have seen so far. 17k tokens/second. I just trie
 
 What? Transformer News argues that the political left has largely ignored the implications of artificial intelligence, despite its potential to significantly impact society, with notable exceptions like Bernie Sanders and Cory Doctorow who have raised concerns. So What? This matters to progressive communicators because engaging with AI's societal impacts could provide opportunities to shape policy and protect civil liberties, ensuring that technological advancements do not exacerbate existing inequalities. Full article: https://www.transformernews.ai/p/the-left-is-missing-out-on-ai-sanders-doctorow-bender-bores?utm_source=semafor
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/biohackers-are-pro-nicotine#ai) • 1h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/biohackers-are-pro-nicotine#ai) • 2h ago
 
 ---
 
@@ -77,7 +77,7 @@ What? Transformer News argues that the political left has largely ignored the im
 
 I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
 
-16h ago
+17h ago
 
 ---
 
@@ -85,7 +85,7 @@ I’ve been building an embodied AI system that can physically move around and i
 
 I am saddened by this I live in U.S
 
-1h ago
+2h ago
 
 ---
 
@@ -93,7 +93,7 @@ I am saddened by this I live in U.S
 
 "SeaCast is an innovative high-resolution forecasting system for the Mediterranean that harnesses AI to deliver faster and more energy-efficient predictions than traditional models. Unlike existing global AI models, which operate at lower resolutions and primarily rely on ocean data, SeaCast integrates both ocean and atmospheric variables, capturing complex regional dynamics. A paper describing the system is published in the journal Scientific Reports. SeaCast's graph-based neural network accounts for intricate coastlines and lateral boundary conditions, overcoming one of the major challenges in regional ocean forecasting. The model operates at a high resolution of about 4 km (1/24°), the same resolution as the CMCC Mediterranean operational forecasting system MedFS (which is coupled with a wave model and covers the full ocean depth), delivered through the Copernicus Marine Service, and produces forecasts down to a depth of 200 meters. This is made possible by training the model on CMCC Mediterranean reanalysis data, which are provided at the same resolution and are freely available through the Copernicus Marine website. SeaCast consistently outperforms the Copernicus operational model over the standard 10-day forecast horizon and extends predictions to 15 days. The efficiency gains are striking: while the operational numerical system requires around 70 minutes on 89 CPUs (central processing units, conventional processors used in most computers) to produce a 10-day forecast, SeaCast can generate a 15-day forecast in about 20 seconds using a single GPU, a highly efficient processor designed for parallel calculations and widely used in machine learning. These advancements are crucial for ocean and climate research. For example, SeaCast's improved computational speed enables rapid "what-if scenario" testing and probabilistic ensemble forecasts, where multiple simulations are used to better estimate forecast uncertainty—scientific tools that are invaluable not only for research, but also for coastal management and decision-making."
 
-🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 6h ago
+🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 7h ago
 
 ---
 
@@ -101,7 +101,7 @@ I am saddened by this I live in U.S
 
 I've written 365+ prompts for enterprise use and the pattern is clear: structured prompts with boring, predictable formatting outperform creative or "clever" prompts every single time especially for professional settings. What do I mean by structure: Every prompt I've built follows the same skeleton: - Who are you ? (role/context) - What do you need? (specific task) - Constraints (what's in/out of scope) - Output format (exactly how you want it delivered) Why "creative" prompts fail in enterprise: They're not repeatable : If a clever prompt works for me but my colleague can't modify it for their use case, it's useless at scale. They're hard to debug : When a structured prompt gives bad output, you can identify which section needs fixing. When a creative prompt fails, you're starting from scratch. They don't transfer across models : A prompt that exploits a specific model's quirks breaks when you switch from GPT-4.1 to Claude to Copilot. Structure-based prompts transfer cleanly. They can't be governed : IT and compliance teams need to review and approve prompt templates. "Just ask it creatively" isn't a policy. The boring truth about prompt engineering: It's not engineering and it's not an art. It's technical writing. The same skills that make good documentation make good prompts: clarity, specificity, structure, and knowing your audience. The best prompt engineers I've met aren't AI researchers they're former technical writers, business analysts, and process designers. Am I wrong to push for standardization over creativity?
 
-13h ago
+14h ago
 
 ---
 
@@ -121,7 +121,7 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -129,13 +129,13 @@ CNBC • 5h ago
 
 Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
 
-Anthropic • 6h ago
+Anthropic • 7h ago
 
 ---
 
 **[SPONSORED 95% of AI pilots flop — General Assembly has a solution](https://www.axios.com/sponsored/95-of-ai-pilots-flop-general-assembly-has-a-solution)**
 
-Axios • 32m ago
+Axios • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ Axios • 32m ago
 
 While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.
 
-TechCrunch • 25m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -151,13 +151,13 @@ TechCrunch • 25m ago
 
 Massive investment in AI contributed “basically zero” to U.S. economic growth last year, Goldman Sachs has calculated.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
 **[‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School](https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -165,13 +165,13 @@ The New York Times • 7h ago
 
 DoorDash Inc., American Express Co., KKR & Co Inc. and Blackstone Inc all slumped more than 8%.  Shares of other companies name-checked in the article, including Uber Technologies Inc., Mastercard Inc., Visa Inc., Capital One Financial Corp. and Apollo Global Management Inc. were all lower by at least 3%.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
 **[A Viral Blog Post Slams Stocks. Fear About AI Is Real.](https://www.barrons.com/articles/ai-blog-post-stocks-fall-cf25d815?gaa_at=eafs&gaa_n=AWEtsqe9bRdNGTHtdyBgUoplj4OAtWXfREYuVp_1UBxOX6MXujp8RVPEATdo&gaa_ts=699cd40f&gaa_sig=rUDkrEqNqHdAGy2oEsZWExepsaFv4FmmDhbp7GvsXc8qMlVYT7AG7YYFw9qIBsEbjJgz7Dn6vwNsvOmylQHhJQ%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -179,7 +179,7 @@ Barron's • 2h ago
 
 Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.
 
-TechCrunch • 7h ago
+TechCrunch • 8h ago
 
 ---
 
@@ -187,7 +187,7 @@ TechCrunch • 7h ago
 
 Amid talk of artificial intelligence taking our jobs, the big unasked question is: how will we be fed?
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -199,13 +199,13 @@ The Guardian • 4h ago
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 776 • 💬 668 • 23h ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 776 • 💬 668 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 511 • 💬 404 • 14h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 511 • 💬 404 • 15h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -253,7 +253,7 @@ We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. 
 
 Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
 
-⬆️ 116 • 💬 47 • 13h ago • [LLM Timeline](https://llm-timeline.com/)
+⬆️ 116 • 💬 47 • 14h ago • [LLM Timeline](https://llm-timeline.com/)
 
 ---
 
@@ -269,7 +269,7 @@ A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強の
 
 LLMs memorize more training data than previously thought.
 
-⬆️ 78 • 💬 96 • 6h ago • [Ars Technica](https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/)
+⬆️ 78 • 💬 96 • 7h ago • [Ars Technica](https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/)
 
 ---
 
@@ -283,7 +283,7 @@ My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 57K • 👍 3K • 💬 478 • ⏱️ 36:37 • 7h ago
+👁️ 57K • 👍 3K • 💬 478 • ⏱️ 36:37 • 8h ago
 
 ---
 
@@ -293,7 +293,7 @@ Thank you Wildgrain for sponsoring. Visit http://wildgrain.com/EMBERS and use co
 
 📺 Ashley Embers
 
-👁️ 22K • 👍 1K • 💬 283 • ⏱️ 31:25 • 5h ago
+👁️ 22K • 👍 1K • 💬 283 • ⏱️ 31:25 • 6h ago
 
 ---
 
@@ -303,7 +303,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 40K • 👍 912 • 💬 119 • ⏱️ 14:16 • 22h ago
+👁️ 40K • 👍 912 • 💬 119 • ⏱️ 14:16 • 23h ago
 
 ---
 
@@ -333,7 +333,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 49K • 👍 1K • 💬 84 • ⏱️ 10:44 • 1d ago
+👁️ 49K • 👍 1K • 💬 84 • ⏱️ 10:44 • 2d ago
 
 ---
 
@@ -373,7 +373,7 @@ I made ai create my very own all in one AI webapp! This was definitely interesti
 
 📺 tef
 
-👁️ 3K • 👍 481 • 💬 120 • ⏱️ 8:46 • 2h ago
+👁️ 3K • 👍 481 • 💬 120 • ⏱️ 8:46 • 3h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 302,852 • ❤️ 928 • 8h ago
+⬇️ 302,852 • ❤️ 928 • 9h ago
 
 ---
 
@@ -449,7 +449,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 163 • 20h ago
+⬇️ 0 • ❤️ 163 • 21h ago
 
 ---
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.7k • 🔱 2.1k • 3h ago
+⭐ 17.7k • 🔱 2.1k • 4h ago
 
 ---
 
@@ -652,7 +652,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 10.5k • 🔱 1.1k • 1h ago
+⭐ 10.5k • 🔱 1.1k • 2h ago
 
 ---
 
@@ -670,7 +670,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.3k • 🔱 643 • 10h ago
+⭐ 5.3k • 🔱 643 • 11h ago
 
 ---
 
@@ -690,7 +690,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 334 • 17h ago
+⭐ 3.4k • 🔱 334 • 18h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 186 • 3h ago
+⭐ 2.7k • 🔱 186 • 4h ago
 
 ---
 
