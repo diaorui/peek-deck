@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-22T23:51:20.785530+00:00'
+updated: '2026-02-23T02:22:29.876845+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 22, 2026 at 23:51 UTC  
+**Last Updated:** February 23, 2026 at 02:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,39 +38,39 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,478.83
+### $64,696.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.6%  
-**7d:** -1.8%  
-**30d:** -24.3%  
-**90d:** -22.8%  
-**1y:** -29.7%  
+**24h:** -4.8%  
+**7d:** -4.1%  
+**30d:** -25.3%  
+**90d:** -28.5%  
+**1y:** -29.3%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1349.14B
+**Market Cap:** $1294.60B
 Rank #1
 
-**Circulating Supply:** 19,993,343 BTC
+**Circulating Supply:** 19,993,400 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.4%
+-48.7%
 
 **All-Time Low:** $67.81
-+99512.2%
++95326.9%
 
 ---
 
 ## Fear & Greed Index
 
-### 9
+### 5
 **EXTREME FEAR**
 
 ---
@@ -79,9 +79,9 @@ Rank #1
 
 **[Withdrawing large amount without proof of acquisition](https://www.reddit.com/r/Bitcoin/comments/1rboi4t/withdrawing_large_amount_without_proof_of/)**
 
-When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks.
+When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks. EDIT: Thanks everyone for your response. I've answered many DM's for fun to fuck around with the scammers lol. Like many suggested, I'll reach out to a tax lawyer first, then a crypto CPA. I'm not moving to another country bruh - I'll handle all of this LEGALLY! I like being able to sleep at night.
 
-8h ago
+11h ago
 
 ---
 
@@ -89,23 +89,45 @@ When I was a minor back in 2015, my old friend’s big brother convinced me to i
 
 Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can rediscover fire. TLDW: Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself. ...do you have more time to watch? 1: https://youtu.be/19LA7ReARCQ 2: https://youtu.be/YroOIC8eDrk 3: https://youtu.be/ZsgZjAPjxDU
 
-7h ago
+10h ago
 
 ---
 
-**[Long-Term Bitcoin Holders Pay Way Less Tax](https://www.reddit.com/r/Bitcoin/comments/1rbep1g/longterm_bitcoin_holders_pay_way_less_tax/)**
+**[Are we all Abit too “Optimistic”? I’m heavy in Bitcoin and I won’t surrender.](https://www.reddit.com/r/Bitcoin/comments/1rc32x6/are_we_all_abit_too_optimistic_im_heavy_in/)**
 
-In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
+Tough times create strong men 💪 It just feels like 1 person says one bad thing everyone just goes rampage mode hahaha! When bears have a point for it to go lower I think it can 🤷 I think some need to read there side. It’s like watching one side of the news!!
 
-17h ago
+1h ago
 
 ---
 
-**[Dutch House passes 36% tax on unrealized crypto and investment gains](https://www.reddit.com/r/Bitcoin/comments/1razuzz/dutch_house_passes_36_tax_on_unrealized_crypto/)**
+**[The bear market is self fulfilling prophecy](https://www.reddit.com/r/Bitcoin/comments/1rc2gbl/the_bear_market_is_self_fulfilling_prophecy/)**
 
-The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3), introduces a capital growth tax on most assets, such as stocks, crypto, and bonds. Under the new framework, residents will be taxed each year at a rate of around 36% on their actual returns from savings and investments, even if the assets are not sold. This means taxes will apply not only to income received, but also to increases in asset values, including unrealized gains. NOTE: This is not yet a law, but shows the insanity that is coming our way. There is lots of real humor here, think about how trivially this will be to have fun with: Create a new coin called DUTCHY_COIN_A and issue 100 quadrillion coins. On day before tax year end, sell one of the coins for $1 on an exchange, POOF you now owe 3.6×10¹³ dollars to gov. There are many many other fun ideas we could do: Have DUTCHY_COIN_A valuation be based on DUTCHY_COIN_B - likewise have DUTCHY_COIN_B valuation based on value of DUTCHY_COIN_A - create a circular dependency and have them figure out what is the value.... Have DUTCHY_COIN_A valuation be based on a fictitious and noncollectable metric, like each holder owns a pro-rata share of all the unclaimed Gold throughout the universe. If done correctly, such laws could actually have crazy real-world effects, since the tax office should book taxes owed as an asset, such insane valuations of their balance sheet now having hundreds of quadrillions in "assets" could destabilize forex markets. Its fun to watch relatively low-iq law makers create these types of problems for themselves.... [23 comments]
+It is. Always has been. People are npcs
 
-🔗 [Stacker News](https://stacker.news/items/1433892) • 1d ago
+2h ago
+
+---
+
+**[How much would regulatory clarity actually change things for Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rc03u6/how_much_would_regulatory_clarity_actually_change/)**
+
+I’ve been seeing a lot of talk about potential market structure legislation in the U.S. and how clearer rules could bring more institutional money into Bitcoin. Trying to look at it without the hype for a second. On one hand, big institutions usually wait for regulatory clarity before they move serious capital. They don’t like uncertainty, and Bitcoin has definitely lived in that gray area for a while. On the other hand, Bitcoin has grown for over a decade without perfect regulatory conditions. Adoption hasn’t exactly been waiting for permission. So I’m honestly not sure how much would actually change. Would clearer laws really unlock a new wave of participation? Or is the long-term trajectory mostly driven by fundamentals and global demand anyway? Curious how others here see it.
+
+3h ago
+
+---
+
+**[Almost at the end of the month 🙏](https://www.reddit.com/r/Bitcoin/comments/1rc0ddm/almost_at_the_end_of_the_month/)**
+
+3h ago
+
+---
+
+**[PREÇO DO BTC ABAIXO DOS 64K...](https://www.reddit.com/r/Bitcoin/comments/1rc4i5m/preço_do_btc_abaixo_dos_64k/)**
+
+Comecei a investir em btc e outras criptomoedas recentemente, comprei entorno de 66-67 mil dólares, acabei de investir mais 500 reais, espero ter feito uma boa decisão....
+
+29m ago
 
 ---
 
@@ -113,47 +135,23 @@ The bill, known as the Actual Return in Box 3 Act (Wet werkelijk rendement box 3
 
 I wanna get into dcaing but what interval is the best presuming i pay zero fees and what do you guys do. And how do you buy to minimize fees?
 
-3h ago
+6h ago
 
 ---
 
-**[Just keep this in mind…](https://www.reddit.com/r/Bitcoin/comments/1rbde7t/just_keep_this_in_mind/)**
+**[Reality of Being in the Top 5% Net Worth with Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rc2m3o/reality_of_being_in_the_top_5_net_worth_with/)**
 
-With all this FUD going around right now, just keep in mind. No one knows more than you do about bitcoin. Everybody is just guessing and pulling shit out their ass, if they knew they would be able to capitalize on the volatility. Just HODL baby!!!
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-18h ago
-
----
-
-**[My barber just sold his Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rargo9/my_barber_just_sold_his_bitcoin/)**
-
-Went to my barber and he is very bearish on Bitcoin and he thinks it’s going to 20k. We are going to pump so hard guys, this is a classic bottom signal
-
-1d ago
+🔗 [youtube.com](https://youtube.com/watch?v=l-c-XkQWWpw&si=ZsGLoWaNhqEnG7qG) • 1h ago
 
 ---
 
-**[A long time ago, in a galaxy far, far away…](https://www.reddit.com/r/Bitcoin/comments/1ray94i/a_long_time_ago_in_a_galaxy_far_far_away/)**
+**[Long-Term Bitcoin Holders Pay Way Less Tax](https://www.reddit.com/r/Bitcoin/comments/1rbep1g/longterm_bitcoin_holders_pay_way_less_tax/)**
 
-Just found this whilst digging around a an ancient box of cables I should have jettisoned years ago. Ahh the (bad) memories…
+In these brutal bear markets where weak hands get absolutely wrecked, there’s one quiet advantage the patient Bitcoin accumulators have. The IRS treats Bitcoin as property. Sell within 1 year and short-term gains get taxed at regular income rates, up to 37%. But once you hold Bitcoin longer than 1 year, it switches to long-term capital gains tax: 0%, 15%, or 20%. Specifically: 0% if your taxable income is $0–$49,450 (single) or $0–$98,900 (married filing jointly). Most people fall into the 15% bracket (up to $545k single / $613k married), with 20% only for the highest earners. Take a $100k profit: short-term at 32% bracket = ~$32k tax. Long-term at 15% = only $15k. That’s $17k extra in your pocket just for holding longer. Bitcoin will go up for sure, is our new generation wealth asset. Real accumulators understand this. Stay risk-aware, speed up their stacking during bear markets (because this is where real money is made), and remember that time in the market beats timing the market every single cycle. Stack through the void. Bitcoin all the way.
 
-1d ago
-
----
-
-**[Has anyone experienced issues withdrawing GBP from crypto.com?](https://www.reddit.com/r/Bitcoin/comments/1rbuwbr/has_anyone_experienced_issues_withdrawing_gbp/)**
-
-Withdrawn money in the past no issue, but this time they are checking it. Find it weird with it not being my first withdrawal. Could take 3 days. Nightmare!
-
-4h ago
-
----
-
-**[Thoughts on buying BTC on Cashapp?](https://www.reddit.com/r/Bitcoin/comments/1rbnwrr/thoughts_on_buying_btc_on_cashapp/)**
-
-What are your thoughts on that??
-
-8h ago
+19h ago
 
 ---
 
@@ -165,7 +163,7 @@ What are your thoughts on that??
 
 If quantum systems mature, roughly $440 billion in bitcoin including Satoshi’s holdings could be exposed.
 
-CoinDesk • 7h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -175,25 +173,49 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Michael Burry Says He 'Slept' on Bitcoin After Early 2013 Buying Opportunity](https://finance.yahoo.com/news/michael-burry-says-slept-bitcoin-205027452.html)**
+**[Bitcoin falls below $65,000, dropping over 5%, after Trump raises global tariffs to 15%](https://www.cnbc.com/2026/02/23/bitcoin-falls-trump-tariffs.html)**
 
-On Sunday, Michael Burry used an X post to lay out what he described as 26 years of major market calls. That self-audit arrives as Bitcoin lacks utility remains central to his current framework, with Burry arguing the token has not proven durable as a hedge against currency debasement. In the post, Burry shared about his missed opportunity with crypto, writing that he considered buying Bitcoin (CRYPTO: BTC) in 2013 after meeting a friend at Lightspeed but did not follow through. Burry also share
+Bitcoin fell more than 5% to below $65,000 after President Donald Trump announced plans to raise global tariffs to 15%, rattling risk sentiment across markets.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Agoraflux_WOP(@Agora_flux)s statistik](https://www.binance.com/sv/square/post/294489010326385)**
-
-Binance • 4h ago
+CNBC • 29m ago
 
 ---
 
-**[When Bitcoin prices turned against Michael Saylor, he quietly pivoted to a risky financial gambit at Strategy](https://fortune.com/2026/02/20/michael-saylor-bitcoin-prices-preferred-shares-dilution-strategy/)**
+**[Bitcoin Slides 4% to $65,000 as Whale Selling Grows and Recent Buyers Lock in Losses](https://news.futunn.com/en/post/69088309/bitcoin-slides-4-to-65000-as-whale-selling-grows-and)**
 
-Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
+On-chaindata from Glassnode and CryptoQuant shows large holders dominating exchange inflows while short-term investors continue to sell at a loss, pointing to a fragile base-building phase.
+
+富途牛牛 • 33m ago
+
+---
+
+**[Bitdeer Sells Entire Bitcoin Stash as Mining Profits Near Record Lows](https://finance.yahoo.com/news/bitdeer-sells-entire-bitcoin-stash-135554538.html)**
+
+Singapore-based Bitdeer, now the world's largest publicly traded self-miner, has completely liquidated its BTC treasury.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
+
+The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
 
 Fortune • 2d ago
+
+---
+
+**[Key facts: Bitcoin price may reach $122,000; Bernstein targets $150,000](https://www.tradingview.com/news/tradingview:4c4a1da558451:0-key-facts-bitcoin-price-may-reach-122-000-bernstein-targets-150-000/)**
+
+TradingView • 2h ago
+
+---
+
+**[1 Top Cryptocurrency to Buy Before It Soars 120%, According to a Top Wall Street Investment Firm](https://www.fool.com/investing/2026/02/22/1-top-cryptocurrency-to-buy-before-it-soars-120-ac/)**
+
+After five months of steady selling pressure, Bitcoin could be ready to rebound.
+
+The Motley Fool • 20h ago
 
 ---
 
@@ -205,33 +227,11 @@ The Block • 1d ago
 
 ---
 
-**[1 Top Cryptocurrency to Buy Before It Soars 120%, According to a Top Wall Street Investment Firm](https://www.fool.com/investing/2026/02/22/1-top-cryptocurrency-to-buy-before-it-soars-120-ac/)**
-
-After five months of steady selling pressure, Bitcoin could be ready to rebound.
-
-The Motley Fool • 18h ago
-
----
-
-**[Bitcoin slips after earlier gains amid tariff volatility](https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-near-68000-after-tariffdriven-volatility-fades-4517576)**
-
-Investing.com • 5h ago
-
----
-
 **[Bitcoin zero? Crypto evangelists have run out of stories to tell](https://www.theglobeandmail.com/investing/markets/inside-the-market/article-bitcoin-cryptocurrency-speculation-investing/)**
 
 Bitcoin has become a vessel of pure speculation
 
 The Globe and Mail • 2d ago
-
----
-
-**[Bitcoin Plummets More Than 40% From October’s Record High](https://www.pymnts.com/cryptocurrency/2026/bitcoin-plummets-more-than-40-from-octobers-record-high/)**
-
-Bitcoin, the world's most popular cryptocurrency, is less popular these days. The crypto token has fallen more than 40% since its peak last fall,
-
-PYMNTS.com • 40m ago
 
 ---
 
@@ -297,7 +297,7 @@ Financial independence on a bitcoin standard
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 2 • 💬 0 • 10h ago
+⬆️ 2 • 💬 0 • 13h ago
 
 ---
 
@@ -313,33 +313,23 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 ## YouTube Videos: "bitcoin"
 
+**[Did Trump Just Signal an $800 Trillion Rotation Into Bitcoin?!](https://www.youtube.com/watch?v=TiXlIqOdKaI)**
+
+This is not about tariffs. It is about an $800 trillion wealth rotation that could reshape the global economy. Bonds are stretched ...
+
+📺 Simply Bitcoin
+
+👁️ 12K • 👍 1K • 💬 86 • ⏱️ 17:48 • 3h ago
+
+---
+
 **[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
 
 bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
 📺 Altcoin Daily
 
-👁️ 50K • 👍 3K • 💬 232 • ⏱️ 8:15 • 1d ago
-
----
-
-**[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
-
-Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
-
-📺 Money Talks
-
-👁️ 3K • 👍 62 • 💬 60 • ⏱️ 15:10 • 1d ago
-
----
-
-**[99.9% Will F*CK This Up — Bitcoin Is About To Screw Everyone | Guy Swann Warning](https://www.youtube.com/watch?v=F7t7Lvj0pC4)**
-
-Guy Swann explains why almost everyone is about to get Bitcoin totally wrong — and how it could come back to wreck them.
-
-📺 BTC Sessions
-
-👁️ 3K • 👍 172 • 💬 28 • ⏱️ 15:04 • 3h ago
+👁️ 52K • 👍 3K • 💬 239 • ⏱️ 8:15 • 1d ago
 
 ---
 
@@ -349,17 +339,7 @@ Bitcoin #Crypto #Finance Grant Cardone reveals why his ultimate target is 10000 
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 400 • 💬 173 • ⏱️ 23:59 • 9h ago
-
----
-
-**[Did Trump Just Signal an $800 Trillion Rotation Into Bitcoin?!](https://www.youtube.com/watch?v=TiXlIqOdKaI)**
-
-This is not about tariffs. It is about an $800 trillion wealth rotation that could reshape the global economy. Bonds are stretched ...
-
-📺 Simply Bitcoin
-
-👁️ 4K • 👍 385 • 💬 15 • ⏱️ 17:48 • 1h ago
+👁️ 10K • 👍 442 • 💬 195 • ⏱️ 23:59 • 12h ago
 
 ---
 
@@ -369,7 +349,17 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 623K • 👍 31K • 💬 5K • ⏱️ 32:14 • 1d ago
+👁️ 641K • 👍 32K • 💬 5K • ⏱️ 32:14 • 1d ago
+
+---
+
+**[99.9% Will F*CK This Up — Bitcoin Is About To Screw Everyone | Guy Swann Warning](https://www.youtube.com/watch?v=F7t7Lvj0pC4)**
+
+Guy Swann explains why almost everyone is about to get Bitcoin totally wrong — and how it could come back to wreck them.
+
+📺 BTC Sessions
+
+👁️ 5K • 👍 214 • 💬 35 • ⏱️ 15:04 • 6h ago
 
 ---
 
@@ -379,7 +369,37 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with over 30 years o
 
 📺 Anthony Pompliano
 
-👁️ 87K • 👍 4K • 💬 72 • ⏱️ 52:37 • 1d ago
+👁️ 89K • 👍 4K • 💬 72 • ⏱️ 52:37 • 1d ago
+
+---
+
+**[The Global Order Is Collapsing. (Why They Are Buying Bitcoin)](https://www.youtube.com/watch?v=ExVDqyTTZNE)**
+
+Global uncertainty just printed an all time high, and the system is starting to show its seams. AI-driven deflation is colliding with a ...
+
+📺 Simply Bitcoin
+
+👁️ 14K • 👍 1K • 💬 57 • ⏱️ 16:39 • 1d ago
+
+---
+
+**[&quot;Now We Know Why They Crashed Bitcoin On Purpose&quot; - Mike Novogratz Reveals Everything](https://www.youtube.com/watch?v=XhRN6PUZ9JI)**
+
+Mike Novogratz just gave the most INSIDER look at crypto in 2026. The Galaxy Digital CEO — the man who facilitated a $9 ...
+
+📺 Money Talks
+
+👁️ 4K • 👍 63 • 💬 41 • ⏱️ 15:10 • 1d ago
+
+---
+
+**[Strategy&#39;s $54 Billion Bitcoin Bet Is Underwater. What Happens Next?](https://www.youtube.com/watch?v=w1K0mtKNey0)**
+
+Is Bitcoin's corporate treasury model about to implode? With Strategy underwater on its BTC holdings and copycat firms facing ...
+
+📺 Coin Bureau
+
+👁️ 60K • 👍 2K • 💬 356 • ⏱️ 11:16 • 13h ago
 
 ---
 
@@ -390,26 +410,6 @@ BTC Conference 2026 - 'ALTCOINDAILY' for 10% off Ticket: https://2026.b.tc ✓ B
 📺 Altcoin Daily
 
 👁️ 69K • 👍 3K • 💬 264 • ⏱️ 9:14 • 2d ago
-
----
-
-**[URGENT BITCOIN NOW!  WATCH BEFORE MONDAY!](https://www.youtube.com/watch?v=LAHVTO8cdeo)**
-
-DM me the word "ACCESS" on Telegram to join my group for 2 months FREE: https://t.me/AndyJack_trades Blofin: ...
-
-📺 Andy Bitcoinsensus
-
-👁️ 4K • 👍 250 • 💬 66 • ⏱️ 29:02 • 9h ago
-
----
-
-**[The $900 Billion Supreme Court &#39;Rug Pull&#39; That Could Send Bitcoin Parabolic!](https://www.youtube.com/watch?v=C3sX3NIN39Y)**
-
-billion just got ripped out of the economy while GDP misses and inflation creeps back. The Supreme Court ruling on tariffs, weak ...
-
-📺 Simply Bitcoin
-
-👁️ 33K • 👍 2K • 💬 157 • ⏱️ 12:39 • 2d ago
 
 ---
 
