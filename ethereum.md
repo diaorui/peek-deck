@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T16:29:08.209895+00:00'
+updated: '2026-02-23T17:41:35.024688+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 16:29 UTC  
+**Last Updated:** February 23, 2026 at 17:41 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.3%  
-**7d:** -4.8%  
-**30d:** -32.8%  
-**90d:** -37.2%  
-**1y:** -24.5%  
+**24h:** -4.8%  
+**7d:** -7.1%  
+**30d:** -34.3%  
+**90d:** -38.7%  
+**1y:** -26.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $229.97B
+**Market Cap:** $223.03B
 Rank #2
 
 **Circulating Supply:** 120,692,355 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.5%
+-62.7%
 
 **All-Time Low:** $0.43
-+439942.1%
++426373.3%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
+
+---
+
+**[TIL the person who wrote web3.js and co-authored EIP-20 also deployed the first ERC-20 token — on the same day, November 3, 2015](https://www.reddit.com/r/ethereum/comments/1rcmnkj/til_the_person_who_wrote_web3js_and_coauthored/)**
+
+Fabian Vogelsteller's fingerprints are on three things that underpin every token on every EVM chain: web3.js — the JavaScript library that let every early dApp talk to Ethereum EIP-20 — the token standard co-authored with Vitalik that every ERC-20 token follows The first ERC-20 token ever deployed — which he and Alex Van de Sande (avsa) shipped the same day EIP-20 was proposed, November 3, 2015, as a working reference implementation inside the Mist Wallet The token was called MistCoin. It was deployed at block 494,088 — before ERC-20 even had a number. There was no standard yet. Fabian wrote the standard and the first working implementation simultaneously, so the Mist Wallet would have a real token to demo. 1,000,000 were minted. The contract is still at the original address. The token still trades. Most tokens claim to be important. This one just is, by virtue of being the first artifact of the person who built the infrastructure everything else runs on.
+
+52m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
 
-🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 27m ago
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 1h ago
 
 ---
 
@@ -88,7 +96,7 @@ Simple little tool for encoding function calls according to the eth abi. I've se
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 3h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 4h ago
 
 ---
 
@@ -104,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-18h ago
+19h ago
 
 ---
 
@@ -140,14 +148,6 @@ Some backstory In February 2016 — less than a year after Ethereum launched —
 
 ---
 
-**[Daily General Discussion February 20, 2026](https://www.reddit.com/r/ethereum/comments/1r9nfzz/daily_general_discussion_february_20_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -168,19 +168,19 @@ Decrypt • 2d ago
 
 ---
 
-**[Ethereum Hits 2-Week Low—And Tom Lee's BitMine Just Added to Its $8.4 Billion Stash](https://finance.yahoo.com/news/ethereum-hits-2-week-low-152634284.html)**
-
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
-
-Yahoo Finance • 1h ago
-
----
-
 **[Hey Anon Announces Launch of “Pandora” Prediction Market on Ethereum](https://www.coindesk.com/press-release/2026/02/23/hey-anon-announces-launch-of-pandora-prediction-market-on-ethereum)**
 
 Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
 
-CoinDesk • 23m ago
+CoinDesk • 1h ago
+
+---
+
+**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
+
+Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
+
+Yahoo Finance • 4h ago
 
 ---
 
@@ -188,7 +188,7 @@ CoinDesk • 23m ago
 
 The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
 
-Fortune • 2d ago
+Fortune • 3d ago
 
 ---
 
@@ -200,6 +200,12 @@ TradingView • 1d ago
 
 ---
 
+**[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
+
+Binance • 8h ago
+
+---
+
 **[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
 
 FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
@@ -208,27 +214,17 @@ The Block • 2d ago
 
 ---
 
-**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1771825500)**
+**[Bitcoin, Ethereum, Zcash, Hyperliquid are in Arthur Hayes portfolio alongside gold, oil, defense 'stonks'](https://www.msn.com/en-us/money/markets/bitcoin-ethereum-zcash-hyperliquid-are-in-arthur-hayes-portfolio-alongside-gold-oil-defense-stonks/ar-AA1WSZCx?ocid=finance-verthp-feeds)**
 
-Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+MSN • 6h ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1771815900)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
-
----
-
-**[Ethereum under pressure: Founder sales, whale losses, and bearish odds collide](https://ambcrypto.com/ethereum-under-pressure-founder-sales-whale-losses-and-bearish-odds-collide/)**
-
-Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
-
-AMBCrypto • 17h ago
-
----
-
-**[Crypto Crash Alert: Why are Bitcoin, Ethereum and XRP Prices Falling Today?](https://coinpedia.org/news/crypto-crash-alert-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
-
-Global cryptocurrency markets fell sharply on Monday, extending a multi-month downturn that traders say is being driven less by crypto-specific news and
-
-Coinpedia Fintech News • 11h ago
 
 ---
 
@@ -242,7 +238,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 873 • 👍 65 • 💬 15 • ⏱️ 14:34 • 3h ago
+👁️ 1K • 👍 92 • 💬 29 • ⏱️ 14:34 • 5h ago
 
 ---
 
@@ -252,17 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 115 • 💬 3 • ⏱️ 6:00 • 6h ago
-
----
-
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=QG69W2WJ-Yk)**
-
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
-
-📺 Trade with Burner
-
-👁️ 4K • 👍 359 • 2h ago
+👁️ 2K • 👍 132 • 💬 3 • ⏱️ 6:00 • 7h ago
 
 ---
 
@@ -272,17 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 691 • 💬 42 • ⏱️ 18:46 • 2d ago
-
----
-
-**[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
-
-While most people hesitate on Ethereum, I'm loading up. In this video, I break down my full Ethereum thesis, why current price ...
-
-📺 Michaël van de Poppe
-
-👁️ 7K • 👍 285 • 💬 56 • ⏱️ 11:38 • 1d ago
+👁️ 20K • 👍 695 • 💬 42 • ⏱️ 18:46 • 2d ago
 
 ---
 
@@ -292,37 +268,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 129 • 👍 11 • 💬 1 • ⏱️ 4:45 • 6h ago
+👁️ 177 • 👍 12 • 💬 1 • ⏱️ 4:45 • 7h ago
 
 ---
 
-**[Crypto Live Trading 23 Feb ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=Q8c8ESkWnto)**
+**[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
 
-ALL TRADING PLATFORMS (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google Form For EMA ...
+While most people hesitate on Ethereum, I'm loading up. In this video, I break down my full Ethereum thesis, why current price ...
 
-📺 Vibe With Sahil
+📺 Michaël van de Poppe
 
-👁️ 3K • 👍 332 • 2h ago
-
----
-
-**[BITCOIN &amp; ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=me9L_nMl48c)**
-
-BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 10K • 👍 322 • 💬 64 • ⏱️ 16:36 • 18h ago
-
----
-
-**[Is Tom Lee Finally Right About the ETH Bottom? (BMNR Update)](https://www.youtube.com/watch?v=3a83V1fKPLE)**
-
-Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
-
-📺 Future Investing
-
-👁️ 18K • 👍 675 • 💬 175 • ⏱️ 8:49 • 1d ago
+👁️ 7K • 👍 289 • 💬 58 • ⏱️ 11:38 • 1d ago
 
 ---
 
@@ -332,7 +288,47 @@ Bitcoin is down. Altcoins are crushed. Gold is soaring. Are we still in a crypto
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 178 • 💬 2 • ⏱️ 21:22 • 23h ago
+👁️ 5K • 👍 182 • 💬 2 • ⏱️ 21:22 • 1d ago
+
+---
+
+**[SEMANA EXTREMA ✅ VIENE GRAN MOVIMIENTO, BTC, ETH](https://www.youtube.com/watch?v=YzXsV4sDoKs)**
+
+Canal de Telegram con noticias de última hora, novedades y análisis: https://t.me/alvarburn ✓ Instagram: ...
+
+📺 Alvarburn
+
+👁️ 1K • 👍 202 • 💬 20 • ⏱️ 20:20 • 3h ago
+
+---
+
+**[Is Tom Lee Finally Right About the ETH Bottom? (BMNR Update)](https://www.youtube.com/watch?v=3a83V1fKPLE)**
+
+Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
+
+📺 Future Investing
+
+👁️ 18K • 👍 692 • 💬 181 • ⏱️ 8:49 • 1d ago
+
+---
+
+**[23 February Today Crypto Live Trading | @bullishbullmaster #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=x2_BvLih24Y)**
+
+ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsapp Channel ...
+
+📺 Bullish Bull Master
+
+👁️ 2K • 👍 346 • 1h ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=me9L_nMl48c)**
+
+BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 325 • 💬 95 • ⏱️ 16:36 • 20h ago
 
 ---
 

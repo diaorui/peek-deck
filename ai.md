@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-23T16:29:08.195588+00:00'
+updated: '2026-02-23T17:41:35.010432+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 23, 2026 at 16:29 UTC  
+**Last Updated:** February 23, 2026 at 17:41 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,31 +41,13 @@ AI news, discussions, and developments
 
 Researchers generated images from noise, using orders of magnitude less energy than current generative AI models require.
 
-🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 13h ago
+🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 14h ago
 
 ---
 
-**[Embodied AI initiated an AI to AI interaction to start saving for its own hardware upgrade with zero human input](https://www.reddit.com/r/artificial/comments/1rc9cvt/embodied_ai_initiated_an_ai_to_ai_interaction_to/)**
+**[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
 
-I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
-
-10h ago
-
----
-
-**[‘An AlphaFold 4’ – scientists marvel at DeepMind drug spin-off’s exclusive new AI](https://www.reddit.com/r/artificial/comments/1rbrsl8/an_alphafold_4_scientists_marvel_at_deepmind_drug/)**
-
-Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
-
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 23h ago
-
----
-
-**[The prompt format that consistently beats free-form asking and why structure matters more than creativity](https://www.reddit.com/r/artificial/comments/1rcbrgg/the_prompt_format_that_consistently_beats/)**
-
-I've written 365+ prompts for enterprise use and the pattern is clear: structured prompts with boring, predictable formatting outperform creative or "clever" prompts every single time especially for professional settings. What do I mean by structure: Every prompt I've built follows the same skeleton: - Who are you ? (role/context) - What do you need? (specific task) - Constraints (what's in/out of scope) - Output format (exactly how you want it delivered) Why "creative" prompts fail in enterprise: They're not repeatable : If a clever prompt works for me but my colleague can't modify it for their use case, it's useless at scale. They're hard to debug : When a structured prompt gives bad output, you can identify which section needs fixing. When a creative prompt fails, you're starting from scratch. They don't transfer across models : A prompt that exploits a specific model's quirks breaks when you switch from GPT-4.1 to Claude to Copilot. Structure-based prompts transfer cleanly. They can't be governed : IT and compliance teams need to review and approve prompt templates. "Just ask it creatively" isn't a policy. The boring truth about prompt engineering: It's not engineering and it's not an art. It's technical writing. The same skills that make good documentation make good prompts: clarity, specificity, structure, and knowing your audience. The best prompt engineers I've met aren't AI researchers they're former technical writers, business analysts, and process designers. Am I wrong to push for standardization over creativity?
-
-8h ago
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 59m ago
 
 ---
 
@@ -73,7 +55,31 @@ I've written 365+ prompts for enterprise use and the pattern is clear: structure
 
 "SeaCast is an innovative high-resolution forecasting system for the Mediterranean that harnesses AI to deliver faster and more energy-efficient predictions than traditional models. Unlike existing global AI models, which operate at lower resolutions and primarily rely on ocean data, SeaCast integrates both ocean and atmospheric variables, capturing complex regional dynamics. A paper describing the system is published in the journal Scientific Reports. SeaCast's graph-based neural network accounts for intricate coastlines and lateral boundary conditions, overcoming one of the major challenges in regional ocean forecasting. The model operates at a high resolution of about 4 km (1/24°), the same resolution as the CMCC Mediterranean operational forecasting system MedFS (which is coupled with a wave model and covers the full ocean depth), delivered through the Copernicus Marine Service, and produces forecasts down to a depth of 200 meters. This is made possible by training the model on CMCC Mediterranean reanalysis data, which are provided at the same resolution and are freely available through the Copernicus Marine website. SeaCast consistently outperforms the Copernicus operational model over the standard 10-day forecast horizon and extends predictions to 15 days. The efficiency gains are striking: while the operational numerical system requires around 70 minutes on 89 CPUs (central processing units, conventional processors used in most computers) to produce a 10-day forecast, SeaCast can generate a 15-day forecast in about 20 seconds using a single GPU, a highly efficient processor designed for parallel calculations and widely used in machine learning. These advancements are crucial for ocean and climate research. For example, SeaCast's improved computational speed enables rapid "what-if scenario" testing and probabilistic ensemble forecasts, where multiple simulations are used to better estimate forecast uncertainty—scientific tools that are invaluable not only for research, but also for coastal management and decision-making."
 
-🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 25m ago
+🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 1h ago
+
+---
+
+**[Embodied AI initiated an AI to AI interaction to start saving for its own hardware upgrade with zero human input](https://www.reddit.com/r/artificial/comments/1rc9cvt/embodied_ai_initiated_an_ai_to_ai_interaction_to/)**
+
+I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
+
+11h ago
+
+---
+
+**[‘An AlphaFold 4’ – scientists marvel at DeepMind drug spin-off’s exclusive new AI](https://www.reddit.com/r/artificial/comments/1rbrsl8/an_alphafold_4_scientists_marvel_at_deepmind_drug/)**
+
+Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
+
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 1d ago
+
+---
+
+**[The prompt format that consistently beats free-form asking and why structure matters more than creativity](https://www.reddit.com/r/artificial/comments/1rcbrgg/the_prompt_format_that_consistently_beats/)**
+
+I've written 365+ prompts for enterprise use and the pattern is clear: structured prompts with boring, predictable formatting outperform creative or "clever" prompts every single time especially for professional settings. What do I mean by structure: Every prompt I've built follows the same skeleton: - Who are you ? (role/context) - What do you need? (specific task) - Constraints (what's in/out of scope) - Output format (exactly how you want it delivered) Why "creative" prompts fail in enterprise: They're not repeatable : If a clever prompt works for me but my colleague can't modify it for their use case, it's useless at scale. They're hard to debug : When a structured prompt gives bad output, you can identify which section needs fixing. When a creative prompt fails, you're starting from scratch. They don't transfer across models : A prompt that exploits a specific model's quirks breaks when you switch from GPT-4.1 to Claude to Copilot. Structure-based prompts transfer cleanly. They can't be governed : IT and compliance teams need to review and approve prompt templates. "Just ask it creatively" isn't a policy. The boring truth about prompt engineering: It's not engineering and it's not an art. It's technical writing. The same skills that make good documentation make good prompts: clarity, specificity, structure, and knowing your audience. The best prompt engineers I've met aren't AI researchers they're former technical writers, business analysts, and process designers. Am I wrong to push for standardization over creativity?
+
+9h ago
 
 ---
 
@@ -81,7 +87,7 @@ I've written 365+ prompts for enterprise use and the pattern is clear: structure
 
 xAI reportedly delayed a Grok model to improve Baldur's Gate knowledge. Grok is also focusing on playing high-level League of Legends.
 
-🔗 [PC Guide](https://www.pcguide.com/news/xais-grok-development-was-delayed-to-keep-its-baldurs-gate-knowledge-up-to-scratch-says-insider-report/) • 3h ago
+🔗 [PC Guide](https://www.pcguide.com/news/xais-grok-development-was-delayed-to-keep-its-baldurs-gate-knowledge-up-to-scratch-says-insider-report/) • 5h ago
 
 ---
 
@@ -89,7 +95,7 @@ xAI reportedly delayed a Grok model to improve Baldur's Gate knowledge. Grok is 
 
 Hello, I currently work as a tech in film and television, specifically on the set design and art department side of things. I don’t want to start a hypothetical discussion on whether AI will take over film production, but for the purposes of this discussion, let’s assume that I believe it will. I want to stay ahead of the curve the best I can, or at least prepare myself enough so if things go south for people in the industry, I have the skill set to make AI work for me. I know I’m already pretty behind the eight ball here, but am curious where people think I should start. What kind of workflows and programs should I familiarize myself with? Are there any resources you’d recommend? I am willing to pay for education, though I would obviously prefer to teach myself if that is possible, and use money for the required subscriptions and tools. Thanks in advance for any advice you may have.
 
-16h ago
+17h ago
 
 ---
 
@@ -97,7 +103,7 @@ Hello, I currently work as a tech in film and television, specifically on the se
 
 Interesting to see more India-focused AI products emerging. The language angle could be a strong differentiator if executed well.
 
-🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 13h ago
+🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 14h ago
 
 ---
 
@@ -107,87 +113,81 @@ Interesting to see more India-focused AI products emerging. The language angle c
 
 ---
 
-**[Who is OpenClaw creator Peter Steinberger? The millennial developer caught the attention of Sam Altman and Mark Zuckerberg](https://www.reddit.com/r/artificial/comments/1rbpkm5/who_is_openclaw_creator_peter_steinberger_the/)**
-
-Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
-
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
+**[Gemini 3.1 Pro: A smarter model for your most complex tasks](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)**
+
+3.1 Pro is designed for tasks where a simple answer isn’t enough.
+
+blog.google • 4d ago
+
+---
+
+**[Sam Altman defends AI resource usage: Water concerns 'fake,' and 'humans use energy too'](https://www.cnbc.com/2026/02/23/openai-altman-defends-ai-resource-usage-water-concerns-fake-humans-use-energy-summit.html)**
+
+OpenAI CEO Sam Altman defended the resource use of AI on Friday, arguing that water concerns were "fake" and comparing it to human energy use.
+
+CNBC • 8h ago
+
+---
+
+**[This economic idea transfixed Wall Street and Washington. It may be a mirage.](https://www.washingtonpost.com/technology/2026/02/23/ai-economic-growth-gdp-mirage/)**
+
+Massive investment in AI contributed “basically zero” to U.S. economic growth last year, Goldman Sachs has calculated.
+
+The Washington Post • 9m ago
+
+---
+
+**[The Fight Over AI in Hollywood Is a Battle Between Money and Activism](https://www.hollywoodreporter.com/business/business-news/hollywood-ai-breaking-point-1236512451/)**
+
+Seedance. Sora. Billions in VC cash. With each day bringing new visions of Armageddon, studios, talent and lawmakers are fiercely pushing back against a rewrite no one agreed to.
+
+The Hollywood Reporter • 28m ago
+
+---
+
+**[Multibillion dollar Birmingham ‘AI factory’ taking shape: ‘Not coming to town to build a big grey box’](https://www.al.com/news/2026/02/multibillion-dollar-birmingham-ai-factory-taking-shape-not-coming-to-town-to-build-a-big-grey-box.html)**
+
+AL.com • 26m ago
+
+---
+
+**[Elizabeth Tweedale on Why AI Literacy Must Start Early in Children](https://www.usatoday.com/story/special/contributor-content/2026/02/23/elizabeth-tweedale-on-why-ai-literacy-must-start-early-in-children/88825089007/)**
+
+Tweedale is passionate about educating children about emerging technologies, especially artificial intelligence (AI). That is why she founded Coco Coders.
+
+USA Today • 1h ago
+
+---
+
+**[Anthropic Education Report: The AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)**
+
+Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
+
+Anthropic • 2h ago
+
+---
+
+**[‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School](https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html)**
+
+The New York Times • 3h ago
+
+---
+
+**[AI threatens enterprise software companies, says Franklin Templeton CEO](https://www.ft.com/content/323dd99c-4224-44f2-919e-e72b49d0a74d)**
+
+Jenny Johnson’s warning comes amid a sell-off in buyout shops and private credit lenders that have bet heavily on tech
+
+Financial Times • 6h ago
+
+---
+
 **[AI's "centaur phase" consumes Silicon Valley](https://www.axios.com/2026/02/23/ai-agents-openclaw-openai-anthropic)**
 
-Axios • 6h ago
-
----
-
-**[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
-
-The New York Times • 21m ago
-
----
-
-**[AI robots may outnumber workers in a few decades, ex-Citi executive says](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
-
-"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
-
-CNBC • 2h ago
-
----
-
-**[New datacentres risk doubling UK electricity use, regulator says](https://www.theguardian.com/technology/2026/feb/23/new-datacentres-risk-doubling-uk-electricity-use-ofgem-peak-demand)**
-
-Ofgem says about 140 proposed projects, driven by AI use, could require more power than current peak demand
-
-The Guardian • 25m ago
-
----
-
-**[Scarcity value puts a rocket under China’s AI challengers](https://www.ft.com/content/d83ca039-eba0-4449-8493-98fe744e79f7)**
-
-Investors are increasingly willing to take risks on potentially groundbreaking technologies, even where profitability is distant
-
-Financial Times • 33m ago
-
----
-
-**[Wipro executive says AI is an opportunity, not a threat](https://www.reuters.com/world/india/wipros-cto-says-ai-is-an-opportunity-not-threat-2026-02-23/)**
-
-Reuters • 5h ago
-
----
-
-**[There’s another AI-doom post doing the rounds. This time, the S&P 500 dives nearly 40%.](https://www.marketwatch.com/story/theres-another-ai-doom-post-doing-the-rounds-this-time-the-s-p-500-dives-nearly-40-13162b42?gaa_at=eafs&gaa_n=AWEtsqdUgwUXzUiYuYBthx4SKgvxWGyTTqaxIuQpOFK0EW8bkoD2p34HS0_q&gaa_ts=699c83b9&gaa_sig=xyZTWbLg4oQ0P-dY1RxrTxhUQO6s4vO9RhIN4TPaQLFm_9k0g_FPCi-BMrfYad6yuM66PgUyRbswHUk9dwHfhw%3D%3D)**
-
-MarketWatch • 4h ago
-
----
-
-**[Why is AI so bad at reading PDFs?](https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure)**
-
-One of the most ubiquitous file formats is stumping the major models
-
-The Verge • 5h ago
-
----
-
-**[Urgent research needed to tackle AI threats, says Google AI boss](https://www.bbc.com/news/articles/c0q3g0ln274o)**
-
-But the head of the US delegation at the AI Impact Summit in Delhi says: "We totally reject global governance of AI."
-
-BBC • 3d ago
-
----
-
-**[All the important news from the ongoing India AI Impact Summit](https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/)**
-
-India is hosting a four-day AI Summit this week that will be attended by executives from major AI labs and Big Tech, including OpenAI, Anthropic, Nvidia, Microsoft, Google, and Cloudflare, as well as heads of state.
-
-TechCrunch • 23h ago
+Axios • 7h ago
 
 ---
 
@@ -199,13 +199,13 @@ TechCrunch • 23h ago
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 731 • 💬 622 • 17h ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 740 • 💬 637 • 18h ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 397 • 💬 332 • 8h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 439 • 💬 356 • 10h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -221,7 +221,7 @@ Every company building an AI assistant is funded by advertising. They are also b
 
 Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist
 
-⬆️ 289 • 💬 124 • 2d ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
+⬆️ 291 • 💬 124 • 2d ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
 
 ---
 
@@ -229,7 +229,7 @@ Websites I personally found that are completely generated by AI. Pull requests w
 
 Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. - tnm/zclaw
 
-⬆️ 270 • 💬 145 • 2d ago • [GitHub](https://github.com/tnm/zclaw)
+⬆️ 271 • 💬 146 • 2d ago • [GitHub](https://github.com/tnm/zclaw)
 
 ---
 
@@ -237,13 +237,13 @@ Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an E
 
 BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled binaries of real open-source servers, proxies, and network infrastructure.
 
-⬆️ 233 • 💬 92 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
+⬆️ 234 • 💬 92 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
 
 ---
 
 **[Uncovering insiders and alpha on Polymarket with AI](https://news.ycombinator.com/item?id=47091557)**
 
-⬆️ 155 • 💬 160 • 2d ago • [X (formerly Twitter)](https://twitter.com/peterjliu/status/2024901585806225723)
+⬆️ 155 • 💬 161 • 2d ago • [X (formerly Twitter)](https://twitter.com/peterjliu/status/2024901585806225723)
 
 ---
 
@@ -281,47 +281,7 @@ This video shows how Seedance 2.0 is revolutionizing AI video production, offeri
 
 📺 AI Filmmaking Academy
 
-👁️ 18K • 👍 583 • 💬 109 • ⏱️ 7:03 • 19h ago
-
----
-
-**[AI Could Make The World &#39;Unrecognizable&#39; In 5 Years: AI Policy PAC Founder Sounds The Alarm](https://www.youtube.com/watch?v=A50mUc6qZas)**
-
-Former Congressman Brad Carson, the President of Americans for Responsible Innovation and the founder of Public First Action ...
-
-📺 Forbes Breaking News
-
-👁️ 17K • 👍 486 • 💬 195 • ⏱️ 20:25 • 2d ago
-
----
-
-**[Google Just Dropped The Smartest AI In The World: Gemini 3.1](https://www.youtube.com/watch?v=XMJA3_hv9aY)**
-
-Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a model designed for situations where simple ...
-
-📺 AI Revolution
-
-👁️ 45K • 👍 1K • 💬 79 • ⏱️ 10:44 • 1d ago
-
----
-
-**[First victim of AI agent harassment warns &#39;thousands&#39; more could be next • FRANCE 24 English](https://www.youtube.com/watch?v=BHol8DA2dJ0)**
-
-Slandered by one AI robot and misquoted in a news article by another, US-based software engineer Scott Shambaugh has made ...
-
-📺 FRANCE 24 English
-
-👁️ 182K • 👍 4K • 💬 776 • ⏱️ 5:50 • 1d ago
-
----
-
-**[Billions just evaporated in AI bubble](https://www.youtube.com/watch?v=0SABrSvmV7o)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 140K • 👍 8K • 💬 2K • ⏱️ 18:44 • 2d ago
+👁️ 20K • 👍 649 • 💬 121 • ⏱️ 7:03 • 20h ago
 
 ---
 
@@ -331,17 +291,57 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 25K • 👍 721 • 💬 96 • ⏱️ 14:16 • 17h ago
+👁️ 31K • 👍 785 • 💬 108 • ⏱️ 14:16 • 18h ago
 
 ---
 
-**[Most AI Businesses Won’t Make Money in 2026 — These Will](https://www.youtube.com/watch?v=UrO_8rKri8w)**
+**[Google Just Dropped The Smartest AI In The World: Gemini 3.1](https://www.youtube.com/watch?v=XMJA3_hv9aY)**
 
-In this video, I break down why most AI businesses will not make money in 2026 and the five ai business ideas that actually will.
+Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a model designed for situations where simple ...
 
-📺 James Blue
+📺 AI Revolution
 
-👁️ 4K • ⏱️ 11:14 • 2h ago
+👁️ 46K • 👍 1K • 💬 82 • ⏱️ 10:44 • 1d ago
+
+---
+
+**[AI Could Make The World &#39;Unrecognizable&#39; In 5 Years: AI Policy PAC Founder Sounds The Alarm](https://www.youtube.com/watch?v=A50mUc6qZas)**
+
+Former Congressman Brad Carson, the President of Americans for Responsible Innovation and the founder of Public First Action ...
+
+📺 Forbes Breaking News
+
+👁️ 17K • 👍 499 • 💬 199 • ⏱️ 20:25 • 2d ago
+
+---
+
+**[First victim of AI agent harassment warns &#39;thousands&#39; more could be next • FRANCE 24 English](https://www.youtube.com/watch?v=BHol8DA2dJ0)**
+
+Slandered by one AI robot and misquoted in a news article by another, US-based software engineer Scott Shambaugh has made ...
+
+📺 FRANCE 24 English
+
+👁️ 218K • 👍 5K • 💬 933 • ⏱️ 5:50 • 1d ago
+
+---
+
+**[The AI Doctor They Said Couldn’t Exist Is Now Real](https://www.youtube.com/watch?v=P5wyAdUkxYs)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ *An AI ...
+
+📺 Julia McCoy
+
+👁️ 3K • 👍 427 • 💬 77 • ⏱️ 7:38 • 2h ago
+
+---
+
+**[Billions just evaporated in AI bubble](https://www.youtube.com/watch?v=0SABrSvmV7o)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 141K • 👍 8K • 💬 2K • ⏱️ 18:44 • 2d ago
 
 ---
 
@@ -351,27 +351,27 @@ Watch the full show here: https://www.youtube.com/watch?v=1g_Zjq2-nnc Support th
 
 📺 China Fact Chasers
 
-👁️ 13K • 👍 1K • 💬 127 • ⏱️ 18:46 • 1d ago
+👁️ 14K • 👍 1K • 💬 130 • ⏱️ 18:46 • 1d ago
 
 ---
 
-**[Open AI is Broke…And Wall Street is Preparing for Crash](https://www.youtube.com/watch?v=0wLbuni6PfM)**
+**[Most AI Businesses Won’t Make Money in 2026 — These Will](https://www.youtube.com/watch?v=UrO_8rKri8w)**
 
-Work with me: https://theproactivethinker.com Follow me on Instagram: https://www.instagram.com/proactiv.thinker.
+In this video, I break down why most AI businesses will not make money in 2026 and the five ai business ideas that actually will.
 
-📺 Proactive Thinker
+📺 James Blue
 
-👁️ 21K • 👍 490 • 💬 91 • ⏱️ 10:01 • 1d ago
+👁️ 6K • 💬 2 • ⏱️ 11:14 • 3h ago
 
 ---
 
-**[China’s 2026 Spring Festival: AI Humanoids Steal the Show at China’s 2026 Spring Festival Gala](https://www.youtube.com/watch?v=5BGaXr9AQvU)**
+**[Can An AI Agent Play RuneScape?](https://www.youtube.com/watch?v=pXZLI7Lradw)**
 
-From martial arts to everyday tasks, humanoid robots took centre stage at China's 2026 Spring Festival Gala. See how AI-powered ...
+Go to https://buyraycon.com/sirpuggerbc to get 15% off! Thanks to Raycon for sponsoring! Have information you think would make ...
 
-📺 WION
+📺 SirPugger
 
-👁️ 7K • 👍 121 • 💬 76 • ⏱️ 3:27 • 9h ago
+👁️ 39K • 👍 1K • 💬 255 • ⏱️ 17:17 • 15h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 302,852 • ❤️ 921 • 2h ago
+⬇️ 302,852 • ❤️ 923 • 3h ago
 
 ---
 
@@ -411,7 +411,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 177,577 • ❤️ 735 • 1d ago
+⬇️ 177,577 • ❤️ 739 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 178,519 • ❤️ 1,458 • 10d ago
+⬇️ 178,519 • ❤️ 1,459 • 10d ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 1,011,122 • ❤️ 1,155 • 25d ago
+⬇️ 1,011,122 • ❤️ 1,156 • 25d ago
 
 ---
 
@@ -459,7 +459,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 160 • 14h ago
+⬇️ 0 • ❤️ 161 • 16h ago
 
 ---
 
@@ -471,7 +471,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 19,434 • ❤️ 158 • 19h ago
+⬇️ 19,434 • ❤️ 159 • 20h ago
 
 ---
 
@@ -495,7 +495,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 2,689 • ❤️ 258 • 9d ago
+⬇️ 2,689 • ❤️ 259 • 9d ago
 
 ---
 
@@ -582,27 +582,27 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
-
-*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
-
-A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
-
-▲ 44 • 💬 4 • ⭐ 4,108 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
-
----
-
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 43 • 💬 2 • ⭐ 47,814 • 10mo ago
+▲ 43 • 💬 2 • ⭐ 47,847 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+
+---
+
+**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
+
+*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
+
+A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
+
+▲ 44 • 💬 4 • ⭐ 4,135 • 1mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
@@ -640,7 +640,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.6k • 🔱 2.1k • 1h ago
+⭐ 17.6k • 🔱 2.1k • 45m ago
 
 ---
 
@@ -668,7 +668,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.2k • 🔱 636 • 4h ago
+⭐ 5.2k • 🔱 641 • 6h ago
 
 ---
 
@@ -688,7 +688,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 332 • 12h ago
+⭐ 3.4k • 🔱 333 • 13h ago
 
 ---
 
@@ -698,7 +698,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.0k • 🔱 383 • 1d ago
+⭐ 3.0k • 🔱 384 • 1d ago
 
 ---
 
@@ -708,7 +708,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 183 • 2h ago
+⭐ 2.7k • 🔱 183 • 3h ago
 
 ---
 
@@ -718,7 +718,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.5k • 🔱 279 • 1d ago
+⭐ 2.5k • 🔱 283 • 1d ago
 
 ---
 

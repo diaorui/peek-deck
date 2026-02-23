@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T16:29:08.213027+00:00'
+updated: '2026-02-23T17:41:35.027859+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 16:29 UTC  
+**Last Updated:** February 23, 2026 at 17:41 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
-6h ago
+7h ago
 
 ---
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -50,7 +50,7 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
 
-7h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ Lately our team ran into a question we didn’t expect to spend this much time o
 
 Hey folks, My team is building a spherical ROS 2 robot and we're currently having a massive internal architectural debate. I'd love a reality check from people actually deploying embodied AI on edge hardware. Right now, we've moved away from the traditional, rigid FSM (Finite State Machine) and hardcoded if-else loops for intent parsing. Instead, we are running what we call an "LLM + Skills" architecture. Here is our current stack: We use a lightweight local VLM (1B/2B parameters) purely as a high-level dispatcher/router. It takes in camera/audio input, parses the user's intent, and then calls pre-defined ROS 2 actions/services (e.g., Maps_to(), play_expression(), move_chassis()). It works. It's predictable. It's safe. But honestly, it feels like a stepping stone. At its core, it still feels like a glorified Voice Assistant glued to a traditional state machine. The holy grail everyone talks about right now is Pure VLA (Vision-Language-Action) — pumping pixels and text directly into a model and having it spit out cmd_vel or motor torques directly, bypassing traditional planners completely. My question to the community: Is anyone actually deploying pure end-to-end VLA on real-world edge hardware with any degree of safety and reliability? Or is the "LLM + Skills" hybrid approach the actual practical ceiling for open-source and commercial edge robots right now due to compute limits? Would love to hear how "deep" your models are actually controlling the hardware vs just acting as a fancy NLU layer.
 
-2h ago
+3h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey folks, My team is building a spherical ROS 2 robot and we're currently havin
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
-18h ago
+19h ago
 
 ---
 
@@ -74,7 +74,7 @@ Built my very first hexapod and i think i love this hobby!Feels great finally se
 
 I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
 
-18h ago
+19h ago
 
 ---
 
@@ -82,7 +82,7 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
 
-6h ago
+7h ago
 
 ---
 
@@ -96,7 +96,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 **[computer vision and robotics](https://www.reddit.com/r/robotics/comments/1rchf5m/computer_vision_and_robotics/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -124,7 +124,7 @@ CNBC • 3d ago
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -144,19 +144,27 @@ Nasdaq • 2d ago
 
 ---
 
-**[First Hydrogen Enters into Binding Letter of Intent with Robotics Company](https://finance.yahoo.com/news/first-hydrogen-enters-binding-letter-134500645.html)**
-
-Vancouver, British Columbia--(Newsfile Corp. - February 23, 2026) - First Hydrogen Corp. (TSXV: FHYD) (OTC Pink: FHYDF) (FSE: FIT) ("FIRST HYDROGEN" or the "Company") announces that it has entered into a binding Letter of Intent (the "LOI") with Exodus Actuation Solutions Inc. ("RoboticsCo"), a company holding patents and related intellectual property ("IP"), including robotics technology. RoboticsCo owns or licenses 25 issued and 11 pending patents covering its Exodus Actuation gearbox and high
-
-Yahoo Finance • 2h ago
-
----
-
 **[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
 
 OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
 South China Morning Post • 1d ago
+
+---
+
+**[First Hydrogen Enters into Binding Letter of Intent with Robotics Company](https://finance.yahoo.com/news/first-hydrogen-enters-binding-letter-134500645.html)**
+
+Vancouver, British Columbia--(Newsfile Corp. - February 23, 2026) - First Hydrogen Corp. (TSXV: FHYD) (OTC Pink: FHYDF) (FSE: FIT) ("FIRST HYDROGEN" or the "Company") announces that it has entered into a binding Letter of Intent (the "LOI") with Exodus Actuation Solutions Inc. ("RoboticsCo"), a company holding patents and related intellectual property ("IP"), including robotics technology. RoboticsCo owns or licenses 25 issued and 11 pending patents covering its Exodus Actuation gearbox and high
+
+Yahoo Finance • 3h ago
+
+---
+
+**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
+
+AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
+
+MIT Technology Review • 36m ago
 
 ---
 
@@ -172,21 +180,15 @@ NBC News • 1d ago
 
 MOUs with U.S. dealers and first EAI robot deliveries headline Faraday Future’s plan to focus on Super One, improve cash flow and streamline AIxC.
 
-Stock Titan • 15h ago
+Stock Titan • 16h ago
 
 ---
 
-**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
+**[EngineAI’s agile humanoid stuns with advanced stability and control](https://interestingengineering.com/ai-robotics/engineai-humanoid-robot-impresses-with-quick-recovery)**
 
-Tech Xplore • 3d ago
+EngineAI’s PM01 humanoid shows advanced balance, quick recovery, and humanlike movement in a new demo video.
 
----
-
-**[US AI firm accelerates international rollout of Chinese humanoid robots](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-global-push-challenge)**
-
-A US-based company is positioning itself as a conduit for the global expansion of Chinese humanoid robotics firms.
-
-Interesting Engineering • 20h ago
+Interesting Engineering • 7h ago
 
 ---
 
@@ -194,63 +196,23 @@ Interesting Engineering • 20h ago
 
 ## YouTube Videos: "robotics"
 
-**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
-
-Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
-
-📺 AI Revolution
-
-👁️ 25K • 👍 721 • 💬 96 • ⏱️ 14:16 • 17h ago
-
----
-
 **[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
 
 A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
 
 📺 Dr Ben Miles
 
-👁️ 1.4M • 👍 102K • 💬 3K • ⏱️ 1:27 • 4d ago
+👁️ 1.4M • 👍 103K • 💬 3K • ⏱️ 1:27 • 4d ago
 
 ---
 
-**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
 
-Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
 
-📺 New York Post
+📺 AI Revolution
 
-👁️ 16K • 👍 299 • 💬 294 • ⏱️ 2:30 • 1d ago
-
----
-
-**[AI Robots Are Evolving WAY FASTER Than Expected! ](https://www.youtube.com/watch?v=-bOog4ux0XU)**
-
-Kung fu robots, companion female humanoids, and robotic dogs are some of the robots that will be flooding the streets.
-
-📺 Aaron Page 
-
-👁️ 11K • 👍 800 • 💬 132 • ⏱️ 14:02 • 1d ago
-
----
-
-**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
-
-Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
-
-📺 DPCcars
-
-👁️ 83K • 👍 416 • 💬 224 • ⏱️ 2:14 • 2d ago
-
----
-
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 68K • 👍 3K • 💬 816 • ⏱️ 14:51 • 3d ago
+👁️ 31K • 👍 785 • 💬 108 • ⏱️ 14:16 • 18h ago
 
 ---
 
@@ -260,17 +222,37 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 297K • 👍 3K • 💬 2K • ⏱️ 3:42 • 4d ago
+👁️ 299K • 👍 3K • 💬 2K • ⏱️ 3:42 • 4d ago
 
 ---
 
-**[Unitree Humanoid Robots Shock People at 2026 Spring Festival Gala with Martial Arts](https://www.youtube.com/watch?v=O9ao_HLi1gE)**
+**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
 
-Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid robots stunned 1.4 billion viewers with a ...
+Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
 
-📺 India Today Global
+📺 DPCcars
 
-👁️ 126K • 👍 1K • 💬 782 • ⏱️ 2:57 • 6d ago
+👁️ 84K • 👍 423 • 💬 226 • ⏱️ 2:14 • 2d ago
+
+---
+
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 68K • 👍 3K • 💬 823 • ⏱️ 14:51 • 3d ago
+
+---
+
+**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+
+Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+
+📺 New York Post
+
+👁️ 17K • 👍 307 • 💬 299 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -280,17 +262,37 @@ Following their performance on the Spring Festival Gala stage, where humanoid ro
 
 📺 CGTN
 
-👁️ 4K • 👍 486 • 💬 75 • ⏱️ 2:14 • 4h ago
+👁️ 10K • 👍 927 • 💬 143 • ⏱️ 2:14 • 5h ago
 
 ---
 
-**[The Problem With Humanoid Robots](https://www.youtube.com/watch?v=EPQI0qzt7uw)**
+**[AI Robots Are Evolving WAY FASTER Than Expected! ](https://www.youtube.com/watch?v=-bOog4ux0XU)**
 
-Check out Cape and use code WALLSTML33 to get 33% off your first six months ...
+Kung fu robots, companion female humanoids, and robotic dogs are some of the robots that will be flooding the streets.
 
-📺 Wall Street Millennial
+📺 Aaron Page 
 
-👁️ 54K • 👍 3K • 💬 587 • ⏱️ 13:31 • 3d ago
+👁️ 11K • 👍 807 • 💬 133 • ⏱️ 14:02 • 1d ago
+
+---
+
+**[China’s Kung Fu Robot SHOCKS the World at Spring Festival Gala (LIVE!)](https://www.youtube.com/watch?v=RprmQfqUfaE)**
+
+Join the NextGen AI Community for early access, faster updates, and deeper AI & robotics analysis: ...
+
+📺 NextGen AI
+
+👁️ 37K • 👍 676 • 💬 163 • ⏱️ 9:42 • 4d ago
+
+---
+
+**[Unitree&#39;s Expansion Plans Just Got SCARY: China&#39;s Kung Fu Humanoid Robots Rise](https://www.youtube.com/watch?v=9x4fK7R7VAE)**
+
+Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
+
+📺 Kalil 4.0
+
+👁️ 45K • 👍 806 • 💬 284 • ⏱️ 11:04 • 3d ago
 
 ---
 
