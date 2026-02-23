@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T14:30:20.239188+00:00'
+updated: '2026-02-23T15:26:33.095037+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 14:30 UTC  
+**Last Updated:** February 23, 2026 at 15:26 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $231.83B
+**Market Cap:** $229.97B
 Rank #2
 
 **Circulating Supply:** 120,692,355 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.2%
+-61.5%
 
 **All-Time Low:** $0.43
-+443420.4%
++439942.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-16h ago
+17h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 "AI becomes the government" is dystopian: it leads to slop when AI is weak, and is doom-maximizing once AI becomes strong. But AI used well can be empowering, and push the frontier of democratic / decentralized modes of governance. The core problem with democratic / decentralized modes of governance (including DAOs on ethereum) is limits to human attention: there are many thousands of decisions to make, involving many domains of expertise, and most people don't have the time or skill to be experts in even one, let alone all of them. The usual solution, delegation, is disempowering: it leads to a small group of delegates controlling decision-making while their supporters, after they hit the "delegate" button, have no influence at all. So what can we do? We use personal LLMs to solve the attention problem! Here are a few ideas: Personal governance agents If a governance mechanism depends on you to make a large number of decisions, a personal agent can perform all the necessary votes for you, based on preferences that it infers from your personal writing, conversation history, direct statements, etc. If the agent is (i) unsure how you would vote on an issue, and (ii) convinced the issue is important, then it should ask you directly, and give you all relevant context. Public conversation agents Making good decisions often cannot come from a linear process of taking people's views that are based only on their own information, and averaging them (even quadratically). There is a need for processes that aggregate many people's information, and then give each person (or their LLM) a chance to respond based on that. This includes: Inferring and summarizing your own views and converting them into a format that can be shared publicly (and does not expose your private info) Summarizing commonalities between people's inputs (expressed as words), similar to the various LLM+pol.is ideas Suggestion markets If a governance mechanism values "high-quality inputs" of any type (this could be proposals, or it could even be arguments), then you can have a prediction market, where anyone can submit an input, AIs can bet on a token representing that input, and if the mechanism "accepts" the input (either accepting the proposal, or accepting it as a "unit" of conversation that it then passes along to its participant), it pays out $X to the holders of the token. Note that this is basically the same as https://firefly.social/post/x/2017956762347835488 Decentralized governance with private information One of the biggest weaknesses of highly decentralized / democratic governance is that it does not work well when important decisions need to be made with secret information. Common situations: (i) the org engaging in adversarial conflicts or negotiations (ii) internal dispute resolution (iii) compensation / funding decisions. Typically, orgs solve this by appointing individuals who have great power to take on those tasks. But with multi-party computation (currently I've seen this done with TEEs; I would love to see at least the two-party case solved with garbled circuits https://vitalik.eth.limo/general/2020/03/21/garbled.html so we can get pure-cryptographic security guarantees for it), we could actually take many people's inputs into account to deal with these situations, without compromising privacy. Basically: you submit your personal LLM into a black box, the LLM sees private info, it makes a judgement based on that, and it outputs only that judgement. You don't see the private info, and no one else sees the contents of your personal LLM. The importance of privacy All of these approaches involve each participant making use of much more information about themselves, and potentially submitting much larger-sized inputs. Hence, it becomes all the more important to protect privacy. There are two kinds of privacy that matter: Anonymity of the participant: this can be accomplished with ZK. In general, I think all governance tools should come with ZK built in Privacy of the contents: this has two parts. First, the personal LLM should do what it can to avoid divulging private info about you that it does not need to divulge. Second, when you have computation that combines multiple LLMs or multiple people's info, you need multi-party techniques to compute it privately. Both are important.
 
-1d ago
+2d ago
 
 ---
 
@@ -156,7 +156,7 @@ Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agen
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -172,7 +172,7 @@ Decrypt • 2d ago
 
 Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 1h ago
 
 Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.
 
-CoinDesk • 31m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -210,7 +210,7 @@ The Block • 2d ago
 
 **[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
 
-Binance • 5h ago
+Binance • 6h ago
 
 ---
 
@@ -234,83 +234,33 @@ Coinpaper • 1d ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=smPJV_jsMzY)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 821 • 👍 85 • 💬 3 • ⏱️ 6:00 • 4h ago
-
----
-
-**[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
-
-While most people hesitate on Ethereum, I'm loading up. In this video, I break down my full Ethereum thesis, why current price ...
-
-📺 Michaël van de Poppe
-
-👁️ 6K • 👍 282 • 💬 56 • ⏱️ 11:38 • 1d ago
-
----
-
 **[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=Bz26yGwwFpM)**
 
 Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-bitcoin-strategy.com My Chart Software: ...
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 253 • 👍 16 • 💬 6 • ⏱️ 14:34 • 1h ago
+👁️ 873 • 👍 65 • 💬 15 • ⏱️ 14:34 • 2h ago
 
 ---
 
-**[WILL ETH DUMP LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_MBkfSVtbsg)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=smPJV_jsMzY)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Cilinix Crypto
+📺 More Crypto Online
 
-👁️ 84 • 👍 10 • 💬 1 • ⏱️ 4:45 • 4h ago
-
----
-
-**[Matt Hougan: What Scares Me Most Right Now in Crypto! (It&#39;s TERRIFYING)](https://www.youtube.com/watch?v=qM3KR_9-ArA)**
-
-Bitcoin is down. Altcoins are crushed. Gold is soaring. Are we still in a crypto winter — or is something deeper happening beneath ...
-
-📺 Savvy Finance
-
-👁️ 4K • 👍 174 • 💬 2 • ⏱️ 21:22 • 21h ago
+👁️ 1K • 👍 115 • 💬 3 • ⏱️ 6:00 • 5h ago
 
 ---
 
-**[BITCOIN &amp; ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=me9L_nMl48c)**
+**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=QG69W2WJ-Yk)**
 
-BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
 
-📺 Crypto World
+📺 Trade with Burner
 
-👁️ 10K • 👍 316 • 💬 61 • ⏱️ 16:36 • 16h ago
-
----
-
-**[Is Tom Lee Finally Right About the ETH Bottom? (BMNR Update)](https://www.youtube.com/watch?v=3a83V1fKPLE)**
-
-Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
-
-📺 Future Investing
-
-👁️ 17K • 👍 670 • 💬 170 • ⏱️ 8:49 • 1d ago
-
----
-
-**[Ethereum&#39;s Last Big Upgrade: The zkEVM | Ansgar Dietrichs](https://www.youtube.com/watch?v=QK6yyRdJ-eY)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's next big leap might ...
-
-📺 Bankless
-
-👁️ 365 • 👍 31 • 💬 3 • ⏱️ 1:23:36 • 3h ago
+👁️ 4K • 👍 359 • 58m ago
 
 ---
 
@@ -320,17 +270,67 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 19K • 👍 683 • 💬 42 • ⏱️ 18:46 • 1d ago
+👁️ 19K • 👍 691 • 💬 42 • ⏱️ 18:46 • 2d ago
 
 ---
 
-**[☠️ Vitalik keeps Dumping Ethereum (My Donut is Shredded)](https://www.youtube.com/watch?v=GEDeAiPNFV0)**
+**[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
 
-Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
+While most people hesitate on Ethereum, I'm loading up. In this video, I break down my full Ethereum thesis, why current price ...
 
-📺 🌟yourfriendsommi
+📺 Michaël van de Poppe
 
-👁️ 1K • 👍 167 • 💬 14 • ⏱️ 17:46 • 9h ago
+👁️ 7K • 👍 285 • 💬 56 • ⏱️ 11:38 • 1d ago
+
+---
+
+**[WILL ETH DUMP LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_MBkfSVtbsg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 129 • 👍 11 • 💬 1 • ⏱️ 4:45 • 5h ago
+
+---
+
+**[Crypto Live Trading 23 Feb ||  @MrStarSahil   #bitcoin #ethereum #cryptotrading](https://www.youtube.com/watch?v=Q8c8ESkWnto)**
+
+ALL TRADING PLATFORMS (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code=JFWJTR Google Form For EMA ...
+
+📺 Vibe With Sahil
+
+👁️ 3K • 👍 332 • 1h ago
+
+---
+
+**[BITCOIN &amp; ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=me9L_nMl48c)**
+
+BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 10K • 👍 322 • 💬 64 • ⏱️ 16:36 • 17h ago
+
+---
+
+**[Is Tom Lee Finally Right About the ETH Bottom? (BMNR Update)](https://www.youtube.com/watch?v=3a83V1fKPLE)**
+
+Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
+
+📺 Future Investing
+
+👁️ 18K • 👍 675 • 💬 175 • ⏱️ 8:49 • 1d ago
+
+---
+
+**[Matt Hougan: What Scares Me Most Right Now in Crypto! (It&#39;s TERRIFYING)](https://www.youtube.com/watch?v=qM3KR_9-ArA)**
+
+Bitcoin is down. Altcoins are crushed. Gold is soaring. Are we still in a crypto winter — or is something deeper happening beneath ...
+
+📺 Savvy Finance
+
+👁️ 5K • 👍 178 • 💬 2 • ⏱️ 21:22 • 22h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-23T14:30:20.233006+00:00'
+updated: '2026-02-23T15:26:33.089011+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 14:30 UTC  
+**Last Updated:** February 23, 2026 at 15:26 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1325.12B
+**Market Cap:** $1318.91B
 Rank #1
 
-**Circulating Supply:** 19,993,587 BTC
+**Circulating Supply:** 19,993,628 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.5%
+-47.7%
 
 **All-Time Low:** $67.81
-+97603.9%
++97105.4%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Just hit 0.1 coin. A proud moment.](https://www.reddit.com/r/Bitcoin/comments/1rcbe8j/just_hit_01_coin_a_proud_moment/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 I bought a bunch of bitcoin at $65k USD and now I'm waiting for bitcoin to fall to $50k USD so I can buy even more. I fully expect bitcoin to hit a new record high at some point in the next 4 years. I just don't know exactly when. So I'm hoping bitcoin crashes as hard as possible in 2026, so we can all buy at a discount before it bounces back. Anyone else in the same boat?
 
-11h ago
+12h ago
 
 ---
 
 **[Almost at the end of the month 🙏](https://www.reddit.com/r/Bitcoin/comments/1rc0ddm/almost_at_the_end_of_the_month/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -101,7 +101,7 @@ I bought a bunch of bitcoin at $65k USD and now I'm waiting for bitcoin to fall 
 
 As with every single bear market and subsequent accumulation phase since the inception of Bitcoin, we are now looking at roughly November/December of 2027 until the next official bull market pump/takeoff phase will begin. The low of this current bear market will be somewhere between 40k and 50k, as I said months and months ago and got laughed at. If you are one of those new traders or new Crypto bros who think the next bull market is on the way, you've got some big disappointment headed your way. Right now you should be firmly in accumulation mode. Buy all the way down to the 40k range. The next top of the upcoming bull market pump will very likely top out somewhere between 175,000 and 200,000 as a rough estimate based upon all previous data. Best guess would be 175k. Best estimate is that the low of this bear market will hit around September/October of this year.
 
-4h ago
+5h ago
 
 ---
 
@@ -109,7 +109,7 @@ As with every single bear market and subsequent accumulation phase since the inc
 
 Almost 2 weeks now chilling in the 60s... Don't be the meme lined up at 100k But its going to 30k! Ya and home prices are crashing 50% and the us will pay off its national debt. Mmmhmmm
 
-13h ago
+14h ago
 
 ---
 
@@ -117,7 +117,7 @@ Almost 2 weeks now chilling in the 60s... Don't be the meme lined up at 100k But
 
 When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks. EDIT: Thanks everyone for your response. I've answered many DM's for fun to fuck around with the scammers lol. Like many suggested, I'll reach out to a tax lawyer first, then a crypto CPA. I'm not moving to another country bruh - I'll handle all of this LEGALLY! I like being able to sleep at night.
 
-23h ago
+1d ago
 
 ---
 
@@ -125,7 +125,7 @@ When I was a minor back in 2015, my old friend’s big brother convinced me to i
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 It is. Always has been. People are npcs
 
-14h ago
+15h ago
 
 ---
 
@@ -141,7 +141,7 @@ It is. Always has been. People are npcs
 
 https://preview.redd.it/y2stxcc747lg1.png?width=169&format=png&auto=webp&s=3dd52b20338a5fdec569ee4ba10508e5f4493ff3 But at the end, it's always the asset's fault. :)
 
-7h ago
+8h ago
 
 ---
 
@@ -149,7 +149,7 @@ https://preview.redd.it/y2stxcc747lg1.png?width=169&format=png&auto=webp&s=3dd52
 
 If clean spark liquidates within the next couple days, expect BTC to drop into the 50,000-60,000 range. I bought at $90K, 66K AND 64K. Largest position is at 64k. I'm holding now to see if Clean Spark liquidates, then buy the dip!
 
-11h ago
+12h ago
 
 ---
 
@@ -159,7 +159,7 @@ If clean spark liquidates within the next couple days, expect BTC to drop into t
 
 **[Bitcoin Falls Below $65,000 in Latest Bout of Tariff Uncertainty](https://www.bloomberg.com/news/articles/2026-02-23/bitcoin-btc-slides-to-65-000-in-latest-bout-of-tariff-uncertainty)**
 
-Bloomberg • 3h ago
+Bloomberg • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg • 3h ago
 
 Salinas said he has 70% of hits liquid assets in bitcoin during an interview last year, up from 10% in 2020.
 
-CoinDesk • 50m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ CoinDesk • 50m ago
 
 House Bill 2080, introduced by Missouri Rep. Ben Keathley, would create a state 'Bitcoin Strategic Reserve Fund' that would allow the treasurer to acquire and manage bitcoin under set guidelines.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ CoinDesk • 1h ago
 
 **[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-Bloomberg • 1d ago
+Bloomberg • 2d ago
 
 ---
 
@@ -203,13 +203,13 @@ Fortune • 3d ago
 
 **[U.S. stock futures, dollar and bitcoin drop as investors await clarity on Trump’s latest tariff plans](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?gaa_at=eafs&gaa_n=AWEtsqf8g0O458U3Zgm6Bno5nJWNnT8Te0XsVp1--BxCiZW4izU83lEGgeYo&gaa_ts=699c67dc&gaa_sig=caXcrT1dPr_DwsOLKhw0XlWpOzlOKRbtVFaNRNi56nausR6o5TFz_HI7HVbnH9ha8adq-oDl_GYTOKRuEhENKg%3D%3D)**
 
-MarketWatch • 10h ago
+MarketWatch • 11h ago
 
 ---
 
 **[Watch Trump Regroups After Supreme Court Loss, Bitcoin Falls Below $65,000 | The Opening Trade 2/23/2026](https://www.bloomberg.com/news/videos/2026-02-23/the-opening-trade-2-23-2026-video)**
 
-Bloomberg • 14h ago
+Bloomberg • 15h ago
 
 ---
 
@@ -297,7 +297,7 @@ Financial independence on a bitcoin standard
 
 Fast natural language search across 60,000+ prediction markets on Kalshi and Polymarket. Sports, crypto, weather, politics and more.
 
-⬆️ 1 • 💬 0 • 2d ago • [Attena](https://www.attena.xyz/)
+⬆️ 1 • 💬 0 • 3d ago • [Attena](https://www.attena.xyz/)
 
 ---
 
@@ -311,17 +311,17 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 5K • 👍 538 • 💬 80 • ⏱️ 7:05 • 4h ago
+👁️ 8K • 👍 677 • 💬 86 • ⏱️ 7:05 • 5h ago
 
 ---
 
-**[Bitcoin is Dumping Because of These Events...](https://www.youtube.com/watch?v=7qQn-y24d5M)**
+**[Bitcoin Is Crashing | Why Michael Saylor Is More Bullish Than Ever!](https://www.youtube.com/watch?v=YEGUg2V_VFw)**
 
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+Peak fear. Record global uncertainty. Bitcoin below its prior high and the crowd is calling it over. Michael Saylor says this is one of ...
 
-📺 CryptosRUs
+📺 Simply Bitcoin
 
-👁️ 27K • 👍 1K • 💬 408 • ⏱️ 8:44 • 12h ago
+👁️ 2K • 👍 272 • 💬 26 • ⏱️ 10:21 • 2h ago
 
 ---
 
@@ -331,7 +331,7 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 12K • 👍 668 • 💬 96 • ⏱️ 9:10 • 12h ago
+👁️ 13K • 👍 724 • 💬 122 • ⏱️ 9:10 • 13h ago
 
 ---
 
@@ -341,7 +341,37 @@ My Auto BUY / SELL setup https://ckenny.com/PM (Long or Short Automatically) Whe
 
 📺 Conor Kenny
 
-👁️ 9K • 👍 469 • 💬 74 • ⏱️ 16:18 • 7h ago
+👁️ 11K • 👍 531 • 💬 96 • ⏱️ 16:18 • 8h ago
+
+---
+
+**[Michael Saylor Responds to Bitcoin Critics](https://www.youtube.com/watch?v=8eaJ3VuzhmY)**
+
+Michael Saylor returns to answer every question Natalie Brunell throws at him — including the ones most people are afraid to ask.
+
+📺 Natalie Brunell
+
+👁️ 6K • 👍 773 • 💬 165 • ⏱️ 1:51:55 • 2h ago
+
+---
+
+**[Bitcoin is Dumping Because of These Events...](https://www.youtube.com/watch?v=7qQn-y24d5M)**
+
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+
+📺 CryptosRUs
+
+👁️ 29K • 👍 1K • 💬 418 • ⏱️ 8:44 • 13h ago
+
+---
+
+**[WARNING: Time’s Up! | How Low Will Bitcoin &amp; Crypto Go?](https://www.youtube.com/watch?v=5MJFPHMlNlA)**
+
+In today's video, Kyledoops addresses the recent sell-off in crypto. Will Bitcoin and crypto make new lows and if so how bad will it ...
+
+📺 Crypto Banter
+
+👁️ 15K • 👍 1K • 💬 21 • ⏱️ 34:08 • 7h ago
 
 ---
 
@@ -351,7 +381,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 537 • 💬 47 • ⏱️ 8:25 • 8h ago
+👁️ 10K • 👍 587 • 💬 41 • ⏱️ 8:25 • 9h ago
 
 ---
 
@@ -361,47 +391,17 @@ This is not about tariffs. It is about an $800 trillion wealth rotation that cou
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 144 • ⏱️ 17:48 • 16h ago
+👁️ 34K • 👍 2K • 💬 154 • ⏱️ 17:48 • 16h ago
 
 ---
 
-**[Crucial Week Ahead for Crypto... Huge News](https://www.youtube.com/watch?v=2feU286lKOs)**
+**[BITCOIN: The Trap Is Now Set! (big warning) - BTC Price Prediction Today](https://www.youtube.com/watch?v=WwFeM5VRmos)**
 
-Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
+Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
-📺 Altcoin Daily
+📺 BitcoinHyper
 
-👁️ 37K • 👍 2K • 💬 150 • ⏱️ 9:22 • 15h ago
-
----
-
-**[BITCOIN: EMERGENCY UPDATE (CLICK NOW)](https://www.youtube.com/watch?v=rdE9-PtvAaU)**
-
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
-
-📺 Crypto Kid
-
-👁️ 9K • 👍 546 • 💬 138 • ⏱️ 6:12 • 12h ago
-
----
-
-**[URGENT Bitcoin Support Update! It Could Be OVER! XRP $1.93B CAPITULATION](https://www.youtube.com/watch?v=BtgRnCMTtYk)**
-
-URGENT Bitcoin Support Update! It Could Be OVER! XRP $1.93B CAPITULATION In this video, we discuss the current state of ...
-
-📺 CryptoWendyO
-
-👁️ 17K • 👍 903 • 💬 59 • ⏱️ 12:58 • 20h ago
-
----
-
-**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
-
-bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 55K • 👍 3K • 💬 248 • ⏱️ 8:15 • 1d ago
+👁️ 4K • 👍 378 • 💬 24 • ⏱️ 14:30 • 3h ago
 
 ---
 
