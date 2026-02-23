@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-23T17:41:35.010432+00:00'
+updated: '2026-02-23T19:05:01.870424+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - videos
+- repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 23, 2026 at 17:41 UTC  
+**Last Updated:** February 23, 2026 at 19:05 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
+
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 2h ago
+
+---
+
 **['Thermodynamic computer' can mimic AI neural networks — using orders of magnitude less energy to generate images](https://www.reddit.com/r/artificial/comments/1rc62w8/thermodynamic_computer_can_mimic_ai_neural/)**
 
 Researchers generated images from noise, using orders of magnitude less energy than current generative AI models require.
 
-🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 14h ago
-
----
-
-**[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
-
-🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 59m ago
-
----
-
-**[AI model delivers detailed 15-day Mediterranean Sea predictions in seconds](https://www.reddit.com/r/artificial/comments/1rclemq/ai_model_delivers_detailed_15day_mediterranean/)**
-
-"SeaCast is an innovative high-resolution forecasting system for the Mediterranean that harnesses AI to deliver faster and more energy-efficient predictions than traditional models. Unlike existing global AI models, which operate at lower resolutions and primarily rely on ocean data, SeaCast integrates both ocean and atmospheric variables, capturing complex regional dynamics. A paper describing the system is published in the journal Scientific Reports. SeaCast's graph-based neural network accounts for intricate coastlines and lateral boundary conditions, overcoming one of the major challenges in regional ocean forecasting. The model operates at a high resolution of about 4 km (1/24°), the same resolution as the CMCC Mediterranean operational forecasting system MedFS (which is coupled with a wave model and covers the full ocean depth), delivered through the Copernicus Marine Service, and produces forecasts down to a depth of 200 meters. This is made possible by training the model on CMCC Mediterranean reanalysis data, which are provided at the same resolution and are freely available through the Copernicus Marine website. SeaCast consistently outperforms the Copernicus operational model over the standard 10-day forecast horizon and extends predictions to 15 days. The efficiency gains are striking: while the operational numerical system requires around 70 minutes on 89 CPUs (central processing units, conventional processors used in most computers) to produce a 10-day forecast, SeaCast can generate a 15-day forecast in about 20 seconds using a single GPU, a highly efficient processor designed for parallel calculations and widely used in machine learning. These advancements are crucial for ocean and climate research. For example, SeaCast's improved computational speed enables rapid "what-if scenario" testing and probabilistic ensemble forecasts, where multiple simulations are used to better estimate forecast uncertainty—scientific tools that are invaluable not only for research, but also for coastal management and decision-making."
-
-🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 1h ago
+🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 15h ago
 
 ---
 
@@ -63,7 +55,15 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
 
-11h ago
+13h ago
+
+---
+
+**[AI model delivers detailed 15-day Mediterranean Sea predictions in seconds](https://www.reddit.com/r/artificial/comments/1rclemq/ai_model_delivers_detailed_15day_mediterranean/)**
+
+"SeaCast is an innovative high-resolution forecasting system for the Mediterranean that harnesses AI to deliver faster and more energy-efficient predictions than traditional models. Unlike existing global AI models, which operate at lower resolutions and primarily rely on ocean data, SeaCast integrates both ocean and atmospheric variables, capturing complex regional dynamics. A paper describing the system is published in the journal Scientific Reports. SeaCast's graph-based neural network accounts for intricate coastlines and lateral boundary conditions, overcoming one of the major challenges in regional ocean forecasting. The model operates at a high resolution of about 4 km (1/24°), the same resolution as the CMCC Mediterranean operational forecasting system MedFS (which is coupled with a wave model and covers the full ocean depth), delivered through the Copernicus Marine Service, and produces forecasts down to a depth of 200 meters. This is made possible by training the model on CMCC Mediterranean reanalysis data, which are provided at the same resolution and are freely available through the Copernicus Marine website. SeaCast consistently outperforms the Copernicus operational model over the standard 10-day forecast horizon and extends predictions to 15 days. The efficiency gains are striking: while the operational numerical system requires around 70 minutes on 89 CPUs (central processing units, conventional processors used in most computers) to produce a 10-day forecast, SeaCast can generate a 15-day forecast in about 20 seconds using a single GPU, a highly efficient processor designed for parallel calculations and widely used in machine learning. These advancements are crucial for ocean and climate research. For example, SeaCast's improved computational speed enables rapid "what-if scenario" testing and probabilistic ensemble forecasts, where multiple simulations are used to better estimate forecast uncertainty—scientific tools that are invaluable not only for research, but also for coastal management and decision-making."
+
+🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 3h ago
 
 ---
 
@@ -79,7 +79,7 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 I've written 365+ prompts for enterprise use and the pattern is clear: structured prompts with boring, predictable formatting outperform creative or "clever" prompts every single time especially for professional settings. What do I mean by structure: Every prompt I've built follows the same skeleton: - Who are you ? (role/context) - What do you need? (specific task) - Constraints (what's in/out of scope) - Output format (exactly how you want it delivered) Why "creative" prompts fail in enterprise: They're not repeatable : If a clever prompt works for me but my colleague can't modify it for their use case, it's useless at scale. They're hard to debug : When a structured prompt gives bad output, you can identify which section needs fixing. When a creative prompt fails, you're starting from scratch. They don't transfer across models : A prompt that exploits a specific model's quirks breaks when you switch from GPT-4.1 to Claude to Copilot. Structure-based prompts transfer cleanly. They can't be governed : IT and compliance teams need to review and approve prompt templates. "Just ask it creatively" isn't a policy. The boring truth about prompt engineering: It's not engineering and it's not an art. It's technical writing. The same skills that make good documentation make good prompts: clarity, specificity, structure, and knowing your audience. The best prompt engineers I've met aren't AI researchers they're former technical writers, business analysts, and process designers. Am I wrong to push for standardization over creativity?
 
-9h ago
+10h ago
 
 ---
 
@@ -87,7 +87,7 @@ I've written 365+ prompts for enterprise use and the pattern is clear: structure
 
 xAI reportedly delayed a Grok model to improve Baldur's Gate knowledge. Grok is also focusing on playing high-level League of Legends.
 
-🔗 [PC Guide](https://www.pcguide.com/news/xais-grok-development-was-delayed-to-keep-its-baldurs-gate-knowledge-up-to-scratch-says-insider-report/) • 5h ago
+🔗 [PC Guide](https://www.pcguide.com/news/xais-grok-development-was-delayed-to-keep-its-baldurs-gate-knowledge-up-to-scratch-says-insider-report/) • 6h ago
 
 ---
 
@@ -95,7 +95,7 @@ xAI reportedly delayed a Grok model to improve Baldur's Gate knowledge. Grok is 
 
 Hello, I currently work as a tech in film and television, specifically on the set design and art department side of things. I don’t want to start a hypothetical discussion on whether AI will take over film production, but for the purposes of this discussion, let’s assume that I believe it will. I want to stay ahead of the curve the best I can, or at least prepare myself enough so if things go south for people in the industry, I have the skill set to make AI work for me. I know I’m already pretty behind the eight ball here, but am curious where people think I should start. What kind of workflows and programs should I familiarize myself with? Are there any resources you’d recommend? I am willing to pay for education, though I would obviously prefer to teach myself if that is possible, and use money for the required subscriptions and tools. Thanks in advance for any advice you may have.
 
-17h ago
+18h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hello, I currently work as a tech in film and television, specifically on the se
 
 Interesting to see more India-focused AI products emerging. The language angle could be a strong differentiator if executed well.
 
-🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 14h ago
+🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 15h ago
 
 ---
 
@@ -117,19 +117,11 @@ Interesting to see more India-focused AI products emerging. The language angle c
 
 ## Google News: "ai"
 
-**[Gemini 3.1 Pro: A smarter model for your most complex tasks](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)**
+**[Anthropic Education Report: The AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)**
 
-3.1 Pro is designed for tasks where a simple answer isn’t enough.
+Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
 
-blog.google • 4d ago
-
----
-
-**[Sam Altman defends AI resource usage: Water concerns 'fake,' and 'humans use energy too'](https://www.cnbc.com/2026/02/23/openai-altman-defends-ai-resource-usage-water-concerns-fake-humans-use-energy-summit.html)**
-
-OpenAI CEO Sam Altman defended the resource use of AI on Friday, arguing that water concerns were "fake" and comparing it to human energy use.
-
-CNBC • 8h ago
+Anthropic • 3h ago
 
 ---
 
@@ -137,57 +129,63 @@ CNBC • 8h ago
 
 Massive investment in AI contributed “basically zero” to U.S. economic growth last year, Goldman Sachs has calculated.
 
-The Washington Post • 9m ago
+The Washington Post • 1h ago
 
 ---
 
-**[The Fight Over AI in Hollywood Is a Battle Between Money and Activism](https://www.hollywoodreporter.com/business/business-news/hollywood-ai-breaking-point-1236512451/)**
+**[Signs of a health care AI bubble emerge](https://www.axios.com/pro/health-tech-deals/2026/02/23/ai-bubble-signs-health-care-life-sciences)**
 
-Seedance. Sora. Billions in VC cash. With each day bringing new visions of Armageddon, studios, talent and lawmakers are fiercely pushing back against a rewrite no one agreed to.
-
-The Hollywood Reporter • 28m ago
+Axios • 23m ago
 
 ---
 
-**[Multibillion dollar Birmingham ‘AI factory’ taking shape: ‘Not coming to town to build a big grey box’](https://www.al.com/news/2026/02/multibillion-dollar-birmingham-ai-factory-taking-shape-not-coming-to-town-to-build-a-big-grey-box.html)**
+**[Medicare’s AI ‘modernization’ project, and the Ohio hospital antitrust battle](https://www.statnews.com/2026/02/23/medicare-ai-modernization-project-ohiohealth-antitrust-battle-health-care-inc/)**
 
-AL.com • 26m ago
+Would you trust AI to help you pick your Medicare plan?
 
----
-
-**[Elizabeth Tweedale on Why AI Literacy Must Start Early in Children](https://www.usatoday.com/story/special/contributor-content/2026/02/23/elizabeth-tweedale-on-why-ai-literacy-must-start-early-in-children/88825089007/)**
-
-Tweedale is passionate about educating children about emerging technologies, especially artificial intelligence (AI). That is why she founded Coco Coders.
-
-USA Today • 1h ago
+statnews.com • 2h ago
 
 ---
 
-**[Anthropic Education Report: The AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)**
+**[Opinion | Take It From a Doctor: It’s OK if Your Medical Advice Comes From A.I.](https://www.nytimes.com/2026/02/17/opinion/doctors-patients-ai.html)**
 
-Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
-
-Anthropic • 2h ago
+The New York Times • 6d ago
 
 ---
 
-**[‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School](https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html)**
+**[Pentagon audit: Republicans push AI to reform defense spending](https://www.foxnews.com/video/6389759352112)**
 
-The New York Times • 3h ago
+Fox News chief national security correspondent Jennifer Griffin reports on Republican efforts to mandate AI for Pentagon audits. The Department of Defense has failed audits for eight straight years.
 
----
-
-**[AI threatens enterprise software companies, says Franklin Templeton CEO](https://www.ft.com/content/323dd99c-4224-44f2-919e-e72b49d0a74d)**
-
-Jenny Johnson’s warning comes amid a sell-off in buyout shops and private credit lenders that have bet heavily on tech
-
-Financial Times • 6h ago
+Fox News • 54m ago
 
 ---
 
-**[AI's "centaur phase" consumes Silicon Valley](https://www.axios.com/2026/02/23/ai-agents-openclaw-openai-anthropic)**
+**[Cybersecurity stock selling deepens on AI threat concerns. Why we're not bailing](https://www.cnbc.com/2026/02/23/cybersecurity-stock-selling-deepens-on-ai-threat-concerns-why-were-not-bailing.html)**
 
-Axios • 7h ago
+AI disruption fears spark sell-off in cyber, but the market is overlooking the sector's fundamentals
+
+CNBC • 17m ago
+
+---
+
+**[The Lesson of A.I. Literacy Class: Don’t Let the Chatbot Think for You](https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html)**
+
+The New York Times • 9h ago
+
+---
+
+**[‘A.I. Literacy’ Is Trending in Schools. Here’s Why.](https://www.nytimes.com/2026/02/23/business/ai-literacy-faq.html)**
+
+The New York Times • 9h ago
+
+---
+
+**[Our commitment to make AI training available to all 6 million U.S. educators](https://blog.google/products-and-platforms/products/education/teacher-ai-literacy-training/)**
+
+Learn about Google’s partnership to bring AI skills to every classroom with free training for 6 million U.S. educators.
+
+blog.google • 6h ago
 
 ---
 
@@ -199,21 +197,13 @@ Axios • 7h ago
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 740 • 💬 637 • 18h ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 758 • 💬 649 • 19h ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 439 • 💬 356 • 10h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
-
----
-
-**[Every company building your AI assistant is now an ad company](https://news.ycombinator.com/item?id=47092203)**
-
-Every company building an AI assistant is funded by advertising. They are also building hardware that listens and watches 24/7. Local on-device inference is the only way out.
-
-⬆️ 311 • 💬 168 • 2d ago • [juno-labs.com](https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company)
+⬆️ 469 • 💬 382 • 11h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -229,7 +219,7 @@ Websites I personally found that are completely generated by AI. Pull requests w
 
 Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. - tnm/zclaw
 
-⬆️ 271 • 💬 146 • 2d ago • [GitHub](https://github.com/tnm/zclaw)
+⬆️ 273 • 💬 146 • 2d ago • [GitHub](https://github.com/tnm/zclaw)
 
 ---
 
@@ -237,13 +227,7 @@ Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an E
 
 BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled binaries of real open-source servers, proxies, and network infrastructure.
 
-⬆️ 234 • 💬 92 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
-
----
-
-**[Uncovering insiders and alpha on Polymarket with AI](https://news.ycombinator.com/item?id=47091557)**
-
-⬆️ 155 • 💬 161 • 2d ago • [X (formerly Twitter)](https://twitter.com/peterjliu/status/2024901585806225723)
+⬆️ 235 • 💬 92 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
 
 ---
 
@@ -251,7 +235,7 @@ BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled bina
 
 AI agents are good at doing one thing at a time. Give Claude a focused task and it performs. But real work isn’t one task. It’s a tree of tasks with dependencies, parallelism, and context that need...
 
-⬆️ 151 • 💬 75 • 2d ago • [June Kim](https://www.june.kim/cord)
+⬆️ 153 • 💬 75 • 2d ago • [June Kim](https://www.june.kim/cord)
 
 ---
 
@@ -271,6 +255,22 @@ A massive leadership shakeup at Microsoft's gaming division sees Phil Spencer an
 
 ---
 
+**[Palantir's secret weapon isn't AI – it's Ontology. An open-source deep dive](https://news.ycombinator.com/item?id=47107512)**
+
+A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。 - Leading-AI-IO/palantir-ontology-strategy
+
+⬆️ 84 • 💬 56 • 1d ago • [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy)
+
+---
+
+**[Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)](https://news.ycombinator.com/item?id=47119871)**
+
+Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
+
+⬆️ 83 • 💬 41 • 9h ago • [LLM Timeline](https://llm-timeline.com/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -281,7 +281,7 @@ This video shows how Seedance 2.0 is revolutionizing AI video production, offeri
 
 📺 AI Filmmaking Academy
 
-👁️ 20K • 👍 649 • 💬 121 • ⏱️ 7:03 • 20h ago
+👁️ 20K • 👍 649 • 💬 121 • ⏱️ 7:03 • 21h ago
 
 ---
 
@@ -291,7 +291,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 31K • 👍 785 • 💬 108 • ⏱️ 14:16 • 18h ago
+👁️ 31K • 👍 785 • 💬 108 • ⏱️ 14:16 • 19h ago
 
 ---
 
@@ -331,7 +331,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 3K • 👍 427 • 💬 77 • ⏱️ 7:38 • 2h ago
+👁️ 3K • 👍 427 • 💬 77 • ⏱️ 7:38 • 4h ago
 
 ---
 
@@ -361,7 +361,7 @@ In this video, I break down why most AI businesses will not make money in 2026 a
 
 📺 James Blue
 
-👁️ 6K • 💬 2 • ⏱️ 11:14 • 3h ago
+👁️ 6K • 💬 2 • ⏱️ 11:14 • 5h ago
 
 ---
 
@@ -371,7 +371,7 @@ Go to https://buyraycon.com/sirpuggerbc to get 15% off! Thanks to Raycon for spo
 
 📺 SirPugger
 
-👁️ 39K • 👍 1K • 💬 255 • ⏱️ 17:17 • 15h ago
+👁️ 39K • 👍 1K • 💬 255 • ⏱️ 17:17 • 16h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 302,852 • ❤️ 923 • 3h ago
+⬇️ 302,852 • ❤️ 923 • 5h ago
 
 ---
 
@@ -459,7 +459,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 161 • 16h ago
+⬇️ 0 • ❤️ 161 • 17h ago
 
 ---
 
@@ -471,7 +471,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 19,434 • ❤️ 159 • 20h ago
+⬇️ 19,434 • ❤️ 159 • 21h ago
 
 ---
 
@@ -640,7 +640,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.6k • 🔱 2.1k • 45m ago
+⭐ 17.6k • 🔱 2.1k • 2h ago
 
 ---
 
@@ -668,7 +668,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.2k • 🔱 641 • 6h ago
+⭐ 5.2k • 🔱 641 • 7h ago
 
 ---
 
@@ -688,7 +688,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 333 • 13h ago
+⭐ 3.4k • 🔱 333 • 14h ago
 
 ---
 
@@ -708,7 +708,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 183 • 3h ago
+⭐ 2.7k • 🔱 183 • 4h ago
 
 ---
 

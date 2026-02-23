@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T17:41:35.024688+00:00'
+updated: '2026-02-23T19:05:01.883000+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
 - videos
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 17:41 UTC  
+**Last Updated:** February 23, 2026 at 19:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,890.60
+### $1,863.28
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.8%  
-**7d:** -7.1%  
-**30d:** -34.3%  
-**90d:** -38.7%  
-**1y:** -26.3%  
+**24h:** -4.2%  
+**7d:** -6.6%  
+**30d:** -34.0%  
+**90d:** -38.4%  
+**1y:** -26.0%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-11h ago
+13h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Fabian Vogelsteller's fingerprints are on three things that underpin every token on every EVM chain: web3.js — the JavaScript library that let every early dApp talk to Ethereum EIP-20 — the token standard co-authored with Vitalik that every ERC-20 token follows The first ERC-20 token ever deployed — which he and Alex Van de Sande (avsa) shipped the same day EIP-20 was proposed, November 3, 2015, as a working reference implementation inside the Mist Wallet The token was called MistCoin. It was deployed at block 494,088 — before ERC-20 even had a number. There was no standard yet. Fabian wrote the standard and the first working implementation simultaneously, so the Mist Wallet would have a real token to demo. 1,000,000 were minted. The contract is still at the original address. The token still trades. Most tokens claim to be important. This one just is, by virtue of being the first artifact of the person who built the infrastructure everything else runs on.
 
-52m ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Fabian Vogelsteller's fingerprints are on three things that underpin every token
 
 Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
 
-🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 1h ago
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 3h ago
 
 ---
 
@@ -96,7 +96,15 @@ Simple little tool for encoding function calls according to the eth abi. I've se
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 4h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 5h ago
+
+---
+
+**[Do ETH ETF's on the TSX pay staking rewards like some US ones do?](https://www.reddit.com/r/ethereum/comments/1rbz4pb/do_eth_etfs_on_the_tsx_pay_staking_rewards_like/)**
+
+Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
+
+21h ago
 
 ---
 
@@ -105,14 +113,6 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
 1d ago
-
----
-
-**[Do ETH ETF's on the TSX pay staking rewards like some US ones do?](https://www.reddit.com/r/ethereum/comments/1rbz4pb/do_eth_etfs_on_the_tsx_pay_staking_rewards_like/)**
-
-Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
-
-19h ago
 
 ---
 
@@ -156,7 +156,7 @@ Some backstory In February 2016 — less than a year after Ethereum launched —
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -168,19 +168,11 @@ Decrypt • 2d ago
 
 ---
 
-**[Hey Anon Announces Launch of “Pandora” Prediction Market on Ethereum](https://www.coindesk.com/press-release/2026/02/23/hey-anon-announces-launch-of-pandora-prediction-market-on-ethereum)**
+**[How Investors Are Reacting To Sharplink (SBET) Doubling Down On Ethereum Treasury Staking And Institutional Adoption](https://finance.yahoo.com/news/investors-reacting-sharplink-sbet-doubling-181410307.html)**
 
-Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates.
+Sharplink, Inc. recently completed a comprehensive brand refresh and expanded its Ethereum-focused treasury operations, including aggressive staking that has generated over 13,000 ETH in rewards while institutional ownership reached 46% as of late 2025. This shift toward “Ethereum with an Edge,” emphasizing disciplined growth, yield productivity, and institutional-grade execution, is helping position Sharplink as a dedicated corporate vehicle for exposure to the Ethereum ecosystem. Next, we...
 
-CoinDesk • 1h ago
-
----
-
-**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
-
-Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
-
-Yahoo Finance • 4h ago
+Yahoo Finance • 50m ago
 
 ---
 
@@ -202,7 +194,7 @@ TradingView • 1d ago
 
 **[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
 
-Binance • 8h ago
+Binance • 9h ago
 
 ---
 
@@ -216,15 +208,23 @@ The Block • 2d ago
 
 **[Bitcoin, Ethereum, Zcash, Hyperliquid are in Arthur Hayes portfolio alongside gold, oil, defense 'stonks'](https://www.msn.com/en-us/money/markets/bitcoin-ethereum-zcash-hyperliquid-are-in-arthur-hayes-portfolio-alongside-gold-oil-defense-stonks/ar-AA1WSZCx?ocid=finance-verthp-feeds)**
 
-MSN • 6h ago
+MSN • 7h ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1771815900)**
+**[Ethereum under pressure: Founder sales, whale losses, and bearish odds collide](https://ambcrypto.com/ethereum-under-pressure-founder-sales-whale-losses-and-bearish-odds-collide/)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
 
-Polymarket • 1d ago
+AMBCrypto • 20h ago
+
+---
+
+**[Crypto Crash Alert: Why are Bitcoin, Ethereum and XRP Prices Falling Today?](https://coinpedia.org/news/crypto-crash-alert-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
+
+Global cryptocurrency markets fell sharply on Monday, extending a multi-month downturn that traders say is being driven less by crypto-specific news and
+
+Coinpedia Fintech News • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 1K • 👍 92 • 💬 29 • ⏱️ 14:34 • 5h ago
+👁️ 1K • 👍 92 • 💬 29 • ⏱️ 14:34 • 6h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 3 • ⏱️ 6:00 • 7h ago
+👁️ 2K • 👍 132 • 💬 3 • ⏱️ 6:00 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 177 • 👍 12 • 💬 1 • ⏱️ 4:45 • 7h ago
+👁️ 177 • 👍 12 • 💬 1 • ⏱️ 4:45 • 9h ago
 
 ---
 
@@ -298,7 +298,7 @@ Canal de Telegram con noticias de última hora, novedades y análisis: https://t
 
 📺 Alvarburn
 
-👁️ 1K • 👍 202 • 💬 20 • ⏱️ 20:20 • 3h ago
+👁️ 1K • 👍 202 • 💬 20 • ⏱️ 20:20 • 5h ago
 
 ---
 
@@ -318,7 +318,7 @@ ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsap
 
 📺 Bullish Bull Master
 
-👁️ 2K • 👍 346 • 1h ago
+👁️ 2K • 👍 346 • 2h ago
 
 ---
 
@@ -328,7 +328,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 10K • 👍 325 • 💬 95 • ⏱️ 16:36 • 20h ago
+👁️ 10K • 👍 325 • 💬 95 • ⏱️ 16:36 • 21h ago
 
 ---
 

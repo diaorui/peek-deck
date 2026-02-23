@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T17:41:35.027859+00:00'
+updated: '2026-02-23T19:05:01.885744+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
+- news
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 17:41 UTC  
+**Last Updated:** February 23, 2026 at 19:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
-7h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
 
-9h ago
+10h ago
 
 ---
 
@@ -58,7 +58,7 @@ Lately our team ran into a question we didn’t expect to spend this much time o
 
 Hey folks, My team is building a spherical ROS 2 robot and we're currently having a massive internal architectural debate. I'd love a reality check from people actually deploying embodied AI on edge hardware. Right now, we've moved away from the traditional, rigid FSM (Finite State Machine) and hardcoded if-else loops for intent parsing. Instead, we are running what we call an "LLM + Skills" architecture. Here is our current stack: We use a lightweight local VLM (1B/2B parameters) purely as a high-level dispatcher/router. It takes in camera/audio input, parses the user's intent, and then calls pre-defined ROS 2 actions/services (e.g., Maps_to(), play_expression(), move_chassis()). It works. It's predictable. It's safe. But honestly, it feels like a stepping stone. At its core, it still feels like a glorified Voice Assistant glued to a traditional state machine. The holy grail everyone talks about right now is Pure VLA (Vision-Language-Action) — pumping pixels and text directly into a model and having it spit out cmd_vel or motor torques directly, bypassing traditional planners completely. My question to the community: Is anyone actually deploying pure end-to-end VLA on real-world edge hardware with any degree of safety and reliability? Or is the "LLM + Skills" hybrid approach the actual practical ceiling for open-source and commercial edge robots right now due to compute limits? Would love to hear how "deep" your models are actually controlling the hardware vs just acting as a fancy NLU layer.
 
-3h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hey folks, My team is building a spherical ROS 2 robot and we're currently havin
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
-19h ago
+21h ago
 
 ---
 
@@ -74,7 +74,7 @@ Built my very first hexapod and i think i love this hobby!Feels great finally se
 
 I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
 
-19h ago
+21h ago
 
 ---
 
@@ -82,7 +82,7 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
 
-7h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 **[computer vision and robotics](https://www.reddit.com/r/robotics/comments/1rchf5m/computer_vision_and_robotics/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -120,27 +120,19 @@ CNBC • 3d ago
 
 ---
 
-**[AI robots may outnumber workers in a few decades, ex-Citi executive says](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
+**[Tesollo commercializes its lightweight, compact robotic hand for humanoids](https://www.therobotreport.com/tesollo-commercializes-its-lightweight-compact-robotic-hand-for-humanoids/)**
 
-"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
+Tesollo said its DG-5F-S robotic hand supports precise grasping and manipulation motions required for humanoid robots.
 
-CNBC • 3h ago
-
----
-
-**[How Robotics Could Upend the US Manufacturing Industry](https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2)**
-
-The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
-
-Business Insider • 3d ago
+The Robot Report • 38m ago
 
 ---
 
-**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.nasdaq.com/articles/teslas-3-trillion-opportunity-how-optimus-could-dominate-robotics-market-2026)**
+**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
 
-Key PointsTesla is repurposing EV factories to build its Optimus robots.
+A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
 
-Nasdaq • 2d ago
+KPAX News • 17h ago
 
 ---
 
@@ -152,19 +144,11 @@ South China Morning Post • 1d ago
 
 ---
 
-**[First Hydrogen Enters into Binding Letter of Intent with Robotics Company](https://finance.yahoo.com/news/first-hydrogen-enters-binding-letter-134500645.html)**
+**[How Robotics Could Upend the US Manufacturing Industry](https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2)**
 
-Vancouver, British Columbia--(Newsfile Corp. - February 23, 2026) - First Hydrogen Corp. (TSXV: FHYD) (OTC Pink: FHYDF) (FSE: FIT) ("FIRST HYDROGEN" or the "Company") announces that it has entered into a binding Letter of Intent (the "LOI") with Exodus Actuation Solutions Inc. ("RoboticsCo"), a company holding patents and related intellectual property ("IP"), including robotics technology. RoboticsCo owns or licenses 25 issued and 11 pending patents covering its Exodus Actuation gearbox and high
+The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-Yahoo Finance • 3h ago
-
----
-
-**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
-
-AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
-
-MIT Technology Review • 36m ago
+Business Insider • 3d ago
 
 ---
 
@@ -176,11 +160,19 @@ NBC News • 1d ago
 
 ---
 
+**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
+
+AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
+
+MIT Technology Review • 2h ago
+
+---
+
 **[Humanoid robots: Faraday Future readies first EAI deliveries](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-6h6an0dy45p4.html)**
 
 MOUs with U.S. dealers and first EAI robot deliveries headline Faraday Future’s plan to focus on Super One, improve cash flow and streamline AIxC.
 
-Stock Titan • 16h ago
+Stock Titan • 17h ago
 
 ---
 
@@ -188,7 +180,13 @@ Stock Titan • 16h ago
 
 EngineAI’s PM01 humanoid shows advanced balance, quick recovery, and humanlike movement in a new demo video.
 
-Interesting Engineering • 7h ago
+Interesting Engineering • 8h ago
+
+---
+
+**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
+
+Tech Xplore • 3d ago
 
 ---
 
@@ -212,7 +210,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 31K • 👍 785 • 💬 108 • ⏱️ 14:16 • 18h ago
+👁️ 31K • 👍 785 • 💬 108 • ⏱️ 14:16 • 19h ago
 
 ---
 
@@ -262,7 +260,7 @@ Following their performance on the Spring Festival Gala stage, where humanoid ro
 
 📺 CGTN
 
-👁️ 10K • 👍 927 • 💬 143 • ⏱️ 2:14 • 5h ago
+👁️ 10K • 👍 927 • 💬 143 • ⏱️ 2:14 • 6h ago
 
 ---
 
