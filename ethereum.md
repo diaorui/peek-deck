@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T06:06:11.515795+00:00'
+updated: '2026-02-23T07:37:36.769866+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
+- news
 - videos
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 06:06 UTC  
+**Last Updated:** February 23, 2026 at 07:37 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,37 +36,45 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,860.45
+### $1,882.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.7%  
-**7d:** -6.3%  
-**30d:** -33.8%  
-**90d:** -38.2%  
-**1y:** -25.7%  
+**24h:** -4.5%  
+**7d:** -5.4%  
+**30d:** -33.2%  
+**90d:** -37.6%  
+**1y:** -25.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.51B
+**Market Cap:** $226.69B
 Rank #2
 
 **Circulating Supply:** 120,692,355 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.0%
 
 **All-Time Low:** $0.43
-+429315.7%
++434359.9%
 
 ---
 
 ## Reddit: r/ethereum
+
+**[Daily General Discussion February 23, 2026](https://www.reddit.com/r/ethereum/comments/1rc9j78/daily_general_discussion_february_23_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
+
+---
 
 **[Daily General Discussion February 22, 2026](https://www.reddit.com/r/ethereum/comments/1rbe1a8/daily_general_discussion_february_22_2026/)**
 
@@ -76,19 +84,11 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily General Discussion February 23, 2026](https://www.reddit.com/r/ethereum/comments/1rc9j78/daily_general_discussion_february_23_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-4m ago
-
----
-
 **[Do ETH ETF's on the TSX pay staking rewards like some US ones do?](https://www.reddit.com/r/ethereum/comments/1rbz4pb/do_eth_etfs_on_the_tsx_pay_staking_rewards_like/)**
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-8h ago
+9h ago
 
 ---
 
@@ -176,17 +176,19 @@ Fortune • 2d ago
 
 ---
 
-**[BlackRock Signals $270M Bitcoin, Ethereum Sell-Off as $2.4B in Crypto Options Expire](https://finance.yahoo.com/news/blackrock-signals-270m-bitcoin-ethereum-125715997.html)**
+**[Vitalik Buterin Sells $7 Million in Ethereum as ETH Price Sinks 30%](https://finance.yahoo.com/news/vitalik-buterin-sells-7-million-113000164.html)**
 
-BlackRock, the world’s largest asset manager, looks set to offload Bitcoin and Ethereum following the net daily outflows that the crypto ETFs recorded yesterday. This comes as $2.4 billion in crypto options expire, another development that could trigger market volatility. BlackRock Moves $270M In BTC, ETH To Coinbase Arkham data shows that the asset manager
+Ethereum co-founder Vitalik Buterin is rapidly liquidating millions of dollars worth of his tokens into a declining market.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Key facts: Ethereum shows oversold signals; staking gains traction; net deposits drop](https://www.tradingview.com/news/tradingview:b9e96be034161:0-key-facts-ethereum-shows-oversold-signals-staking-gains-traction-net-deposits-drop/)**
+**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
 
-TradingView • 6h ago
+Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
+
+TradingView • 1d ago
 
 ---
 
@@ -198,11 +200,11 @@ Decrypt • 1d ago
 
 ---
 
-**[XRP Ledger Dominates Tokenized U.S. Treasuries with 63% Market Control, Outpacing Ethereum and Solana](https://coinpaper.com/14813/xrp-ledger-dominates-tokenized-u-s-treasuries-with-63-market-control-outpacing-ethereum-and-solana)**
+**[Crypto Crash Alert: Why are Bitcoin, Ethereum and XRP Prices Falling Today?](https://coinpedia.org/news/crypto-crash-alert-why-are-bitcoin-ethereum-and-xrp-prices-falling-today/)**
 
-XRP Ledger dominates tokenized U.S. Treasuries with 63% market share, outpacing Ethereum, Solana, and leading institutional adoption.
+Global cryptocurrency markets fell sharply on Monday, extending a multi-month downturn that traders say is being driven less by crypto-specific news and
 
-Coinpaper • 23h ago
+Coinpedia Fintech News • 2h ago
 
 ---
 
@@ -210,15 +212,7 @@ Coinpaper • 23h ago
 
 Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
 
-AMBCrypto • 7h ago
-
----
-
-**[Ethereum Analysis Shows Order Flow Divergence: Institutions Bullish While Retails Bearish](https://investinglive.com/Cryptocurrency/ethereum-order-flow-divergence-institutions-turn-net-long-while-retail-leans-bearish-20260222/)**
-
-This insight shows retails are Short but institutionals are Long. Find out the details of this new information and what it means.
-
-investingLive • 12h ago
+AMBCrypto • 8h ago
 
 ---
 
@@ -227,6 +221,14 @@ investingLive • 12h ago
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
+
+---
+
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC breakdown hints at deeper correction as ETH and XRP extend losses](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-breakdown-hints-at-deeper-correction-as-eth-and-xrp-extend-losses-202602230350)**
+
+Bitcoin (BTC), Ethereum (ETH) and Ripple (XRP) prices are extending losses on Monday after falling slightly the previous week. BTC is slipping below the lower consolidation range at $65,000, and ETH is falling below $1,900, both extending their six-week losing streaks.
+
+FXStreet • 3h ago
 
 ---
 
@@ -240,7 +242,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 5K • 👍 258 • 💬 51 • ⏱️ 11:38 • 21h ago
+👁️ 6K • 👍 263 • 💬 53 • ⏱️ 11:38 • 22h ago
 
 ---
 
@@ -250,7 +252,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 264 • 💬 46 • ⏱️ 16:36 • 8h ago
+👁️ 8K • 👍 293 • 💬 47 • ⏱️ 16:36 • 10h ago
 
 ---
 
@@ -260,7 +262,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 18K • 👍 666 • 💬 38 • ⏱️ 18:46 • 1d ago
+👁️ 18K • 👍 675 • 💬 39 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -270,7 +272,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 16K • 👍 652 • 💬 158 • ⏱️ 8:49 • 1d ago
+👁️ 16K • 👍 655 • 💬 159 • ⏱️ 8:49 • 1d ago
 
 ---
 
@@ -280,27 +282,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 8 • ⏱️ 5:45 • 18h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=beqWSsNCiD0)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 372 • 👍 77 • 💬 10 • ⏱️ 7:37 • 2h ago
-
----
-
-**[WILL ETH SURPRISE EVERYONE AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Jr2i6FCbUyc)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 387 • 👍 20 • 💬 1 • ⏱️ 4:51 • 18h ago
+👁️ 2K • 👍 138 • 💬 8 • ⏱️ 5:45 • 19h ago
 
 ---
 
@@ -310,27 +292,47 @@ Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take o
 
 📺 Thomas Kralow
 
-👁️ 30K • 👍 5K • 💬 62 • ⏱️ 10:36 • 2d ago
+👁️ 31K • 👍 5K • 💬 60 • ⏱️ 10:36 • 2d ago
 
 ---
 
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=3uOyK20Ew8w)**
+**[☠️ Vitalik keeps Dumping Ethereum (My Donut is Shredded)](https://www.youtube.com/watch?v=GEDeAiPNFV0)**
 
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Bell Button 'All' Follow on Twitter: ...
 
-📺 Crypto Gyan
+📺 🌟yourfriendsommi
 
-👁️ 2K • 👍 123 • ⏱️ 6:35 • 18h ago
+👁️ 594 • 👍 100 • 💬 10 • ⏱️ 17:46 • 2h ago
 
 ---
 
-**[🚨 BITCOIN E ETHEREUM: O Fundo é Aqui ou o Pânico Só Começou? (URGENTE )](https://www.youtube.com/watch?v=GZesdiZtwG0)**
+**[Bitcoin &amp; Ethereum. BTC fischt komplett die Heatmap leer, ist DAS JETZT unsere Chance?](https://www.youtube.com/watch?v=mGwQAKpCPy0)**
 
-O mercado cripto está operando em zona de MEDO EXTREMO. Com o Ethereum e o Bitcoin acumulando quedas pesadas, ...
+Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
 
-📺 Augusto Backes
+📺 Krypto Trading & Investing
 
-👁️ 19K • 👍 2K • 💬 153 • ⏱️ 26:44 • 8h ago
+👁️ 2K • 👍 557 • 💬 59 • ⏱️ 15:00 • 3h ago
+
+---
+
+**[WILL ETH SURPRISE EVERYONE AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Jr2i6FCbUyc)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 424 • 👍 22 • 💬 1 • ⏱️ 4:51 • 20h ago
+
+---
+
+**[Stake Ethereum on Coinbase In Under One Minute | Blackrock Does Not Want You To Know This !!!](https://www.youtube.com/watch?v=V7ZGQe0IZyc)**
+
+The Ultimate Meme Coin Course Link: https://www.udemy.com/course/meme-coin-trading-course/?
+
+📺 Crypto Andy
+
+👁️ 196 • 👍 3 • ⏱️ 0:41 • 1h ago
 
 ---
 

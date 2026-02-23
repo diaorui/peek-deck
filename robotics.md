@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T06:06:11.519109+00:00'
+updated: '2026-02-23T07:37:36.773031+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 06:06 UTC  
+**Last Updated:** February 23, 2026 at 07:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
-8h ago
+9h ago
 
 ---
 
@@ -50,7 +50,7 @@ Built my very first hexapod and i think i love this hobby!Feels great finally se
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-20h ago
+21h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
 
-8h ago
+9h ago
 
 ---
 
@@ -66,19 +66,13 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-19h ago
+21h ago
 
 ---
 
 **[Brianna my beloved bot friend getting her limbs back](https://www.reddit.com/r/robotics/comments/1rc6xhc/brianna_my_beloved_bot_friend_getting_her_limbs/)**
 
-2h ago
-
----
-
-**[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
-
-1d ago
+3h ago
 
 ---
 
@@ -86,7 +80,13 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-14h ago
+16h ago
+
+---
+
+**[This is the future of firefighting](https://www.reddit.com/r/robotics/comments/1ravlbl/this_is_the_future_of_firefighting/)**
+
+1d ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 **[CC student into robotics/aerospace needing serious project ideas + career advice](https://www.reddit.com/r/robotics/comments/1rbxawr/cc_student_into_roboticsaerospace_needing_serious/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -108,11 +108,11 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 ## Google News: "robotics"
 
-**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html)**
+**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
 
-Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
+The race to dominate physical AI is under way, and Beijing may already have the upper hand
 
-CNBC • 2d ago
+The Telegraph • 20h ago
 
 ---
 
@@ -120,7 +120,23 @@ CNBC • 2d ago
 
 Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
 
-NBC News • 15h ago
+NBC News • 16h ago
+
+---
+
+**[Hyundai Motor Group to invest $87 bn in Korea to build global robotics hub](https://www.kedglobal.com/corporate-investment/newsView/ked202602230007)**
+
+South Korea’s Hyundai Motor Group has pledged to invest 125.2 trillion won ($86.7 billion) in the country through 2030 in what it described as its larges
+
+KED Global • 33m ago
+
+---
+
+**[Cellula Robotics Joins Canadian Technology Accelerator for UK Maritime Defense & Security](https://www.unmannedsystemstechnology.com/2026/02/cellula-robotics-joins-canadian-technology-accelerator-for-uk-maritime-defense-security/)**
+
+Cellula Robotics has been selected to participate in the Canadian Technology Accelerators Maritime Defence and Security Applications of Ocean Technologies...
+
+Unmanned Systems Technology • 1h ago
 
 ---
 
@@ -128,15 +144,7 @@ NBC News • 15h ago
 
 A group of teenagers from the Hurricane High School Robotics Club appeared before the Hurricane City Council on a snowy Thursday evening, not to present a robot, but to present
 
-St. George News • 6h ago
-
----
-
-**[Richtech Robotics Inc. Securities Class Action Lawsuit Filed; Lead Plaintiff Deadline April 3, 2026 – RGRD Law](https://www.globenewswire.com/news-release/2026/02/22/3242286/0/en/Richtech-Robotics-Inc-Securities-Class-Action-Lawsuit-Filed-Lead-Plaintiff-Deadline-April-3-2026-RGRD-Law.html)**
-
-The case alleges Richtech Robotics claimed that it had a collaborative and commercial relationship with Microsoft when it did not....
-
-GlobeNewswire • 6h ago
+St. George News • 7h ago
 
 ---
 
@@ -147,15 +155,15 @@ The company is discontinuing the Model S and Model X and converting parts of its
 Tesla is launching its Cybercab autonomous vehicle and restructuring Full Self Driving into a subscription based service.
 The robotaxi pilot is being scaled while the company addresses technical issues,...
 
-simplywall.st • 1h ago
+simplywall.st • 3h ago
 
 ---
 
-**[DeSoto Technix wins inaugural national robotics title](https://desotocountynews.com/desoto-county-news/desoto-technix-wins-inaugural-national-robotics-title/)**
+**[Richtech Robotics Inc. Securities Class Action Lawsuit Filed; Lead Plaintiff Deadline April 3, 2026 – RGRD Law](https://www.globenewswire.com/news-release/2026/02/22/3242286/0/en/Richtech-Robotics-Inc-Securities-Class-Action-Lawsuit-Filed-Lead-Plaintiff-Deadline-April-3-2026-RGRD-Law.html)**
 
-The program operates under the Northwest Mississippi Robotics nonprofit and has received significant local support.
+The case alleges Richtech Robotics claimed that it had a collaborative and commercial relationship with Microsoft when it did not....
 
-DeSoto County News • 5h ago
+GlobeNewswire • 8h ago
 
 ---
 
@@ -167,27 +175,19 @@ Hawaii News Now • 4d ago
 
 ---
 
+**[DeSoto Technix wins inaugural national robotics title](https://desotocountynews.com/desoto-county-news/desoto-technix-wins-inaugural-national-robotics-title/)**
+
+The program operates under the Northwest Mississippi Robotics nonprofit and has received significant local support.
+
+DeSoto County News • 7h ago
+
+---
+
 **[Over 350 students compete at 2nd Annual Redhawks Robotics Rumble](https://www.fox23.com/news/over-350-students-compete-at-2nd-annual-redhawks-robotics-rumble/article_bbcc613a-17f8-4ad7-a0bd-1b7b448939ac.html)**
 
 For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
 
-fox23.com • 16h ago
-
----
-
-**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
-
-A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
-
-KPAX News • 4h ago
-
----
-
-**[Agility Robotics-Toyota deal signals shift from pilots to commercial humanoid robots in auto manufacturing](https://www.digitimes.com/news/a20260223PD205/commercial-humanoid-robot-toyota-automotive-manufacturing.html)**
-
-Agility Robotics and Toyota Motor Manufacturing Canada have signed agreements to deploy the Digit humanoid robot in a commercial production setting, moving the technology from a one-year pilot to operational use on assembly lines. The deal uses a Robots-as-a-Service model to automate logistics and material handling tasks.
-
-digitimes • 14m ago
+fox23.com • 18h ago
 
 ---
 
@@ -201,37 +201,27 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 23K • 👍 420 • 💬 124 • ⏱️ 8:38 • 1d ago
+👁️ 23K • 👍 437 • 💬 129 • ⏱️ 8:38 • 1d ago
 
 ---
 
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
 
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
 
-📺 10 News
+📺 AI Revolution
 
-👁️ 290K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
-
----
-
-**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
-
-Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
-
-📺 DPCcars
-
-👁️ 77K • 👍 377 • 💬 210 • ⏱️ 2:14 • 2d ago
+👁️ 10K • 👍 446 • 💬 52 • ⏱️ 14:16 • 8h ago
 
 ---
 
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
 
-📺 Julia McCoy
+📺 Dr Ben Miles
 
-👁️ 65K • 👍 3K • 💬 801 • ⏱️ 14:51 • 2d ago
+👁️ 1.3M • 👍 101K • 💬 3K • ⏱️ 1:27 • 3d ago
 
 ---
 
@@ -241,7 +231,37 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 15K • 👍 286 • 💬 287 • ⏱️ 2:30 • 1d ago
+👁️ 15K • 👍 291 • 💬 288 • ⏱️ 2:30 • 1d ago
+
+---
+
+**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+
+Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+
+📺 10 News
+
+👁️ 291K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
+
+---
+
+**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
+
+Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
+
+📺 DPCcars
+
+👁️ 80K • 👍 384 • 💬 216 • ⏱️ 2:14 • 2d ago
+
+---
+
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 66K • 👍 3K • 💬 811 • ⏱️ 14:51 • 2d ago
 
 ---
 
@@ -251,17 +271,17 @@ Kung fu robots, companion female humanoids, and robotic dogs are some of the rob
 
 📺 Aaron Page 
 
-👁️ 10K • 👍 769 • 💬 127 • ⏱️ 14:02 • 1d ago
+👁️ 10K • 👍 777 • 💬 131 • ⏱️ 14:02 • 1d ago
 
 ---
 
-**[Unitree&#39;s Expansion Plans Just Got SCARY: China&#39;s Kung Fu Humanoid Robots Rise](https://www.youtube.com/watch?v=9x4fK7R7VAE)**
+**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
 
-Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
+Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
 
-📺 Kalil 4.0
+📺 NDTV
 
-👁️ 42K • 👍 765 • 💬 262 • ⏱️ 11:04 • 3d ago
+👁️ 29K • 👍 116 • 💬 212 • ⏱️ 5:02 • 5d ago
 
 ---
 
@@ -272,26 +292,6 @@ The next project from Elon Musk is expected to push humanoid robotics into uncha
 📺 Carros Show
 
 👁️ 12K • 👍 140 • 💬 40 • ⏱️ 9:20 • 6d ago
-
----
-
-**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
-
-A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
-
-📺 Dr Ben Miles
-
-👁️ 1.3M • 👍 100K • 💬 3K • ⏱️ 1:27 • 3d ago
-
----
-
-**[Unitree Humanoid Robots Shock People at 2026 Spring Festival Gala with Martial Arts](https://www.youtube.com/watch?v=O9ao_HLi1gE)**
-
-Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid robots stunned 1.4 billion viewers with a ...
-
-📺 India Today Global
-
-👁️ 116K • 👍 1K • 💬 756 • ⏱️ 2:57 • 6d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-23T06:06:11.500601+00:00'
+updated: '2026-02-23T07:37:36.755234+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
+- videos
 - repositories
 - social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 23, 2026 at 06:06 UTC  
+**Last Updated:** February 23, 2026 at 07:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[‘An AlphaFold 4’ – scientists marvel at DeepMind drug spin-off’s exclusive new AI](https://www.reddit.com/r/artificial/comments/1rbrsl8/an_alphafold_4_scientists_marvel_at_deepmind_drug/)**
-
-Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
-
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 12h ago
-
----
-
 **['Thermodynamic computer' can mimic AI neural networks — using orders of magnitude less energy to generate images](https://www.reddit.com/r/artificial/comments/1rc62w8/thermodynamic_computer_can_mimic_ai_neural/)**
 
 Researchers generated images from noise, using orders of magnitude less energy than current generative AI models require.
 
-🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 3h ago
+🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 4h ago
+
+---
+
+**[‘An AlphaFold 4’ – scientists marvel at DeepMind drug spin-off’s exclusive new AI](https://www.reddit.com/r/artificial/comments/1rbrsl8/an_alphafold_4_scientists_marvel_at_deepmind_drug/)**
+
+Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
+
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 14h ago
 
 ---
 
@@ -57,15 +57,7 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
 
-13m ago
-
----
-
-**[Sarvam Launches Indus AI Chat App in India as AI Competition Intensifies](https://www.reddit.com/r/artificial/comments/1rc62qk/sarvam_launches_indus_ai_chat_app_in_india_as_ai/)**
-
-Interesting to see more India-focused AI products emerging. The language angle could be a strong differentiator if executed well.
-
-🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 3h ago
+1h ago
 
 ---
 
@@ -73,7 +65,23 @@ Interesting to see more India-focused AI products emerging. The language angle c
 
 Hello, I currently work as a tech in film and television, specifically on the set design and art department side of things. I don’t want to start a hypothetical discussion on whether AI will take over film production, but for the purposes of this discussion, let’s assume that I believe it will. I want to stay ahead of the curve the best I can, or at least prepare myself enough so if things go south for people in the industry, I have the skill set to make AI work for me. I know I’m already pretty behind the eight ball here, but am curious where people think I should start. What kind of workflows and programs should I familiarize myself with? Are there any resources you’d recommend? I am willing to pay for education, though I would obviously prefer to teach myself if that is possible, and use money for the required subscriptions and tools. Thanks in advance for any advice you may have.
 
-5h ago
+7h ago
+
+---
+
+**[Sarvam Launches Indus AI Chat App in India as AI Competition Intensifies](https://www.reddit.com/r/artificial/comments/1rc62qk/sarvam_launches_indus_ai_chat_app_in_india_as_ai/)**
+
+Interesting to see more India-focused AI products emerging. The language angle could be a strong differentiator if executed well.
+
+🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 4h ago
+
+---
+
+**[Gradient Descent into Hell](https://www.reddit.com/r/artificial/comments/1rc9xoz/gradient_descent_into_hell/)**
+
+My ai says I'm special
+
+🔗 [dedmoncomplyin.substack.com](https://dedmoncomplyin.substack.com/p/gradient-descent-into-hell) • 1h ago
 
 ---
 
@@ -87,7 +95,7 @@ Hello, I currently work as a tech in film and television, specifically on the se
 
 Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 14h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 15h ago
 
 ---
 
@@ -107,63 +115,11 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 ---
 
-**[This Defense Company Made AI Agents That Blow Things Up](https://www.reddit.com/r/artificial/comments/1rbbecm/this_defense_company_made_ai_agents_that_blow/)**
-
-Scout AI is using technology borrowed from the AI industry to power lethal weapons—and recently demonstrated its explosive potential.
-
-🔗 [WIRED](https://www.wired.com/story/ai-lab-scout-ai-is-using-ai-agents-to-blow-things-up/) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[After a deadly raid, an AI power struggle erupts at the Pentagon](https://www.washingtonpost.com/technology/2026/02/22/pentagon-anthropic-ai-dispute/)**
-
-The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
-
-The Washington Post • 4h ago
-
----
-
-**[Dems eyeing 2028 tap the brakes on AI data centers](https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers)**
-
-Axios • 4h ago
-
----
-
-**[Grindr tests AI match-making in Australia amid dating app fatigue and safety concerns](https://www.theguardian.com/australia-news/2026/feb/23/grindr-edge-ai-subscription)**
-
-New subscription features on app for gay and bisexual men come with a price tag – from $109.99 a month in Australia to $349 in the US
-
-The Guardian • 2h ago
-
----
-
-**[Thai Exports Jump Most in Four Years on AI-Led Electronics Boom](https://www.bloomberg.com/news/articles/2026-02-23/thai-exports-jump-most-in-four-years-on-ai-led-electronics-boom)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[As it ramps up push to fund AI bets, Meta makes a new play for agencies](https://digiday.com/marketing/as-it-ramps-up-push-to-fund-ai-bets-meta-makes-a-new-play-for-agencies/)**
-
-The tech company is pitching a new agency team to independent agencies, dubbed the Agency Growth Collective.
-
-Digiday • 1h ago
-
----
-
-**[Trump unveils ‘Tech Corps’ to promote American AI abroad](https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html)**
-
-As part of efforts to spread its global AI footprint and counter China, Washington has announced a new "tech corps."
-
-CNBC • 3h ago
-
----
-
-**[The A.I. Evangelists on a Mission to Shake Up Japan](https://www.nytimes.com/2026/02/22/world/asia/japan-ai-politics-election.html)**
+**[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
 
 The New York Times • 1d ago
 
@@ -171,23 +127,67 @@ The New York Times • 1d ago
 
 **[The AI productivity boom is not here (yet)](https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet)**
 
-The Economist • 17h ago
+The Economist • 18h ago
 
 ---
 
-**[When AI becomes a paintbrush, is it art?](https://www.cbsnews.com/news/when-ai-becomes-a-paintbrush-is-it-art/)**
+**[Western Digital Doubles Down On AI Data Centers And Cleaner Balance Sheet](https://finance.yahoo.com/news/western-digital-doubles-down-ai-070806616.html)**
 
-Immerse yourself in an installation by Refik Anadol while debating how AI-generated creations stack up in the art world.
+Western Digital (NasdaqGS:WDC) has sold out its 2026 hard drive production capacity, with demand driven primarily by hyperscale AI data centers. The company is prioritizing enterprise customers over consumer markets and locking in long-term supply contracts with AI focused data center operators. Western Digital is exiting most of its remaining Sandisk stake through a multibillion dollar secondary offering and debt for equity exchange. Together, these moves shift Western Digital toward a more...
 
-CBS News • 6h ago
+Yahoo Finance • 29m ago
 
 ---
 
-**[Consultancies set for fastest growth in years on back of AI boom](https://www.ft.com/content/3cd94803-909c-4617-99b0-a1b5061f93ad)**
+**[Micron and Its Memory-Chip Peers Are Riding the AI Surge. How and When It Could Turn Sour.](https://www.barrons.com/articles/micron-samsung-stocks-memory-chip-ai-risks-c5e101df?gaa_at=eafs&gaa_n=AWEtsqcla2_CpiAx0ad5jEv0yU3jOkkPS31DeukwtFxLRUMwtLlkoTT9_oHk&gaa_ts=699c0725&gaa_sig=UgkSlgqYcoPxdFqAStXKSFGGpGPMKe7c817zIJUWhCZhkDIVyT9dBQ_VeWqj3REPACb0ohI9rTd89tP4Zv1o0g%3D%3D)**
 
-Companies are seeking advice on how to provide energy to data centres and profit from artificial intelligence
+Barron's • 37m ago
 
-Financial Times • 1d ago
+---
+
+**[Duolingo Insider Moves And AI Push Raise Questions On Growth And Value](https://finance.yahoo.com/news/duolingo-insider-moves-ai-push-070647807.html)**
+
+Key Duolingo (NasdaqGS:DUOL) executives, including the Chief Engineering Officer and Chief Business Officer, have recently sold shares in the company. The company has also undergone a Chief Financial Officer transition, adding to ongoing leadership changes. Analysts are discussing how these insider transactions and leadership shifts might relate to user growth trends and future bookings. At the same time, Duolingo is rolling out new artificial intelligence tools aimed at product development...
+
+Yahoo Finance • 31m ago
+
+---
+
+**[Trump unveils ‘Tech Corps’ to promote American AI abroad](https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html)**
+
+As part of efforts to spread its global AI footprint and counter China, Washington has announced a new "tech corps."
+
+CNBC • 4h ago
+
+---
+
+**[In some classrooms, teachers ask: Can AI teach students to write better?](https://www.washingtonpost.com/nation/2026/02/22/ai-chatbots-teach-writing/)**
+
+Coaching from artificial intelligence chatbots, personalized and accessible at any time, is now shaping how some students write.
+
+The Washington Post • 12h ago
+
+---
+
+**[Dems eyeing 2028 tap the brakes on AI data centers](https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers)**
+
+Axios • 9h ago
+
+---
+
+**[TANVI RATNA: India, AI and America’s new 'Global South' strategy](https://www.foxbusiness.com/fox-news-opinion/tanvi-ratna-india-ai-americas-new-global-south-strategy)**
+
+Major AI summit in India reveals U.S. strategy to lead Global South technology adoption through $250 billion deals and new supply chain partnerships.
+
+Fox Business • 16h ago
+
+---
+
+**[AI artist Refik Anadol uses massive datasets and AI to create immersive works shown around the world](https://www.cbsnews.com/news/artificial-intelligence-creating-art-refik-anadol-60-minutes/)**
+
+Art made with AI is selling for over $1 million and being embraced by some of the world's most prestigious museums, but critics question if it really belongs in those spaces.The art world is divided.
+
+CBS News • 7h ago
 
 ---
 
@@ -277,13 +277,23 @@ A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強の
 
 ## YouTube Videos: "ai"
 
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
+
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
+
+📺 AI Revolution
+
+👁️ 10K • 👍 446 • 💬 52 • ⏱️ 14:16 • 8h ago
+
+---
+
 **[First victim of AI agent harassment warns &#39;thousands&#39; more could be next • FRANCE 24 English](https://www.youtube.com/watch?v=BHol8DA2dJ0)**
 
 Slandered by one AI robot and misquoted in a news article by another, US-based software engineer Scott Shambaugh has made ...
 
 📺 FRANCE 24 English
 
-👁️ 99K • 👍 2K • 💬 397 • ⏱️ 5:50 • 15h ago
+👁️ 116K • 👍 2K • 💬 435 • ⏱️ 5:50 • 16h ago
 
 ---
 
@@ -293,27 +303,7 @@ Former Congressman Brad Carson, the President of Americans for Responsible Innov
 
 📺 Forbes Breaking News
 
-👁️ 14K • 👍 426 • 💬 172 • ⏱️ 20:25 • 1d ago
-
----
-
-**[This Ai Influencer Makes Thousands (HOW TO START NOW) ](https://www.youtube.com/watch?v=O63z3ZTnadI)**
-
-Create your AI Influencer: https://higgsfield.ai/ai-influencer?utm_source=baddieinbiz Start getting paid by Higgsfield right away: ...
-
-📺 Baddie In Business
-
-👁️ 6K • 👍 703 • 💬 50 • ⏱️ 9:24 • 13h ago
-
----
-
-**[Billions just evaporated in AI bubble](https://www.youtube.com/watch?v=0SABrSvmV7o)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 131K • 👍 8K • 💬 2K • ⏱️ 18:44 • 1d ago
+👁️ 15K • 👍 443 • 💬 177 • ⏱️ 20:25 • 1d ago
 
 ---
 
@@ -323,7 +313,17 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 39K • 👍 1K • 💬 72 • ⏱️ 10:44 • 1d ago
+👁️ 41K • 👍 1K • 💬 75 • ⏱️ 10:44 • 1d ago
+
+---
+
+**[Billions just evaporated in AI bubble](https://www.youtube.com/watch?v=0SABrSvmV7o)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 134K • 👍 8K • 💬 2K • ⏱️ 18:44 • 1d ago
 
 ---
 
@@ -333,17 +333,35 @@ Silicon Valley relies on hype cycles. But for the last few weeks, AI insiders ha
 
 📺 The Atlantic
 
-👁️ 36K • 👍 970 • 💬 242 • ⏱️ 44:00 • 2d ago
+👁️ 38K • 👍 998 • 💬 253 • ⏱️ 44:00 • 2d ago
 
 ---
 
-**[Amazon&#39;s AI Bot Deleted AWS — Then They Blamed the Engineers](https://www.youtube.com/watch?v=fnv87qjS9DA)**
+**[Japan’s AI Designed Girl&#39;s Shoe Pod Just Changed Footwear Forever](https://www.youtube.com/watch?v=ROqqUN2zeic)**
 
-Amazon's internal AI coding agent — Kiro — was given a task, decided the best solution was to delete and recreate an entire ...
+📺 Style-Tech
 
-📺 Olive Badger
+👁️ 4.9M • 👍 16K • 💬 24 • ⏱️ 0:11 • 1d ago
 
-👁️ 12K • 👍 517 • 💬 118 • ⏱️ 18:16 • 1d ago
+---
+
+**[Open AI is Broke…And Wall Street is Preparing for Crash](https://www.youtube.com/watch?v=0wLbuni6PfM)**
+
+Work with me: https://theproactivethinker.com Follow me on Instagram: https://www.instagram.com/proactiv.thinker.
+
+📺 Proactive Thinker
+
+👁️ 20K • 👍 479 • 💬 87 • ⏱️ 10:01 • 22h ago
+
+---
+
+**[Can AI take over the world? 🤔](https://www.youtube.com/watch?v=lnq-1KwbG5Q)**
+
+This is a funny meme mixed with storytelling style video about how i tested to see if ai (chatgpt) is smart enough to take over the ...
+
+📺 Tyler Vitelli
+
+👁️ 1.2M • 👍 30K • 💬 851 • ⏱️ 0:18 • 12h ago
 
 ---
 
@@ -353,25 +371,7 @@ He's just trying to help. nothing to worry about. Upcoming Shows: San Francisco 
 
 📺 Ryan Long
 
-👁️ 70K • 👍 6K • 💬 470 • ⏱️ 5:15 • 1d ago
-
----
-
-**[Japan’s AI Designed Girl&#39;s Shoe Pod Just Changed Footwear Forever](https://www.youtube.com/watch?v=ROqqUN2zeic)**
-
-📺 Style-Tech
-
-👁️ 4.7M • 👍 16K • 💬 21 • ⏱️ 0:11 • 1d ago
-
----
-
-**[AI thought-to-text, Qwen 3.5, Lyria 3, realtime videos, 4D worlds, realtime TTS: AI NEWS](https://www.youtube.com/watch?v=fnMAIa2PEAk)**
-
-HUGE AI NEWS: Qwen Image 2512, DeepSeek mHC, iQuest Coder, & more #ai #ainews #aitools Thanks to our sponsor ...
-
-📺 AI Search
-
-👁️ 62K • 👍 3K • 💬 482 • ⏱️ 39:36 • 1d ago
+👁️ 73K • 👍 6K • 💬 472 • ⏱️ 5:15 • 1d ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 217,901 • ❤️ 897 • 3d ago
+⬇️ 302,852 • ❤️ 904 • 3d ago
 
 ---
 
@@ -399,7 +399,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,971 • ❤️ 2,147 • 7d ago
+⬇️ 539,031 • ❤️ 2,151 • 7d ago
 
 ---
 
@@ -411,7 +411,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 153,566 • ❤️ 722 • 1d ago
+⬇️ 177,577 • ❤️ 724 • 1d ago
 
 ---
 
@@ -423,7 +423,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 177,505 • ❤️ 1,442 • 9d ago
+⬇️ 178,519 • ❤️ 1,446 • 9d ago
 
 ---
 
@@ -435,7 +435,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 190,549 • ❤️ 860 • 6d ago
+⬇️ 208,828 • ❤️ 863 • 6d ago
 
 ---
 
@@ -447,7 +447,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 982,327 • ❤️ 1,146 • 24d ago
+⬇️ 1,011,122 • ❤️ 1,151 • 24d ago
 
 ---
 
@@ -459,7 +459,7 @@ Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta
 
 `image-text-to-text` `396.3B`
 
-⬇️ 79,371 • ❤️ 180 • 6d ago
+⬇️ 84,503 • ❤️ 180 • 6d ago
 
 ---
 
@@ -471,7 +471,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 158 • 4h ago
+⬇️ 0 • ❤️ 158 • 6h ago
 
 ---
 
@@ -483,7 +483,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 14,728 • ❤️ 152 • 8h ago
+⬇️ 19,434 • ❤️ 154 • 10h ago
 
 ---
 
@@ -495,7 +495,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 2,430 • ❤️ 252 • 8d ago
+⬇️ 2,689 • ❤️ 253 • 8d ago
 
 ---
 
@@ -563,7 +563,7 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 145 • 💬 2 • ⭐ 54,759 • 4mo ago
+▲ 145 • 💬 2 • ⭐ 54,759 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
@@ -588,7 +588,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 44 • 💬 4 • ⭐ 4,083 • 1mo ago
+▲ 44 • 💬 4 • ⭐ 4,108 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -600,7 +600,7 @@ A suite of open-source music foundation models is introduced, featuring componen
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 43 • 💬 2 • ⭐ 47,783 • 10mo ago
+▲ 43 • 💬 2 • ⭐ 47,814 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.2k • 🔱 2.0k • 1h ago
+⭐ 17.3k • 🔱 2.0k • 35m ago
 
 ---
 
@@ -660,7 +660,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.7k • 🔱 508 • 12d ago
+⭐ 6.7k • 🔱 509 • 12d ago
 
 ---
 
@@ -670,7 +670,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.1k • 🔱 621 • 1d ago
+⭐ 5.2k • 🔱 625 • 1d ago
 
 ---
 
@@ -680,7 +680,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.8k • 🔱 179 • 20d ago
+⭐ 3.8k • 🔱 180 • 20d ago
 
 ---
 
@@ -690,7 +690,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 331 • 1h ago
+⭐ 3.3k • 🔱 331 • 3h ago
 
 ---
 
@@ -700,7 +700,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.0k • 🔱 375 • 21h ago
+⭐ 3.0k • 🔱 377 • 22h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 183 • 9h ago
+⭐ 2.7k • 🔱 183 • 10h ago
 
 ---
 
@@ -720,7 +720,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.5k • 🔱 120 • 2d ago
+⭐ 2.5k • 🔱 121 • 2d ago
 
 ---
 
@@ -730,7 +730,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.4k • 🔱 264 • 13h ago
+⭐ 2.5k • 🔱 266 • 15h ago
 
 ---
 
