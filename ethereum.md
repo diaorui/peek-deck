@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T20:06:36.458319+00:00'
+updated: '2026-02-23T21:11:18.247182+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
-- cryptocurrency
 - social
+- videos
+- news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 20:06 UTC  
+**Last Updated:** February 23, 2026 at 21:11 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.8%  
-**7d:** -6.7%  
-**30d:** -34.1%  
-**90d:** -38.5%  
-**1y:** -26.0%  
+**24h:** -4.9%  
+**7d:** -6.4%  
+**30d:** -33.8%  
+**90d:** -38.2%  
+**1y:** -25.7%  
 
 ---
 
@@ -72,15 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
-**[TIL the person who wrote web3.js and co-authored EIP-20 also deployed the first ERC-20 token — on the same day, November 3, 2015](https://www.reddit.com/r/ethereum/comments/1rcmnkj/til_the_person_who_wrote_web3js_and_coauthored/)**
+**[Telegram bot for audit contest updates (Sherlock, Code4rena, Cantina, Immunefi)](https://www.reddit.com/r/ethereum/comments/1rctimq/telegram_bot_for_audit_contest_updates_sherlock/)**
 
-Fabian Vogelsteller's fingerprints are on three things that underpin every token on every EVM chain: web3.js — the JavaScript library that let every early dApp talk to Ethereum EIP-20 — the token standard co-authored with Vitalik that every ERC-20 token follows The first ERC-20 token ever deployed — which he and Alex Van de Sande (avsa) shipped the same day EIP-20 was proposed, November 3, 2015, as a working reference implementation inside the Mist Wallet The token was called MistCoin. It was deployed at block 494,088 — before ERC-20 even had a number. There was no standard yet. Fabian wrote the standard and the first working implementation simultaneously, so the Mist Wallet would have a real token to demo. 1,000,000 were minted. The contract is still at the original address. The token still trades. Most tokens claim to be important. This one just is, by virtue of being the first artifact of the person who built the infrastructure everything else runs on.
-
-3h ago
+21m ago
 
 ---
 
@@ -88,7 +86,7 @@ Fabian Vogelsteller's fingerprints are on three things that underpin every token
 
 Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
 
-🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 4h ago
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 5h ago
 
 ---
 
@@ -96,7 +94,7 @@ Simple little tool for encoding function calls according to the eth abi. I've se
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 6h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 7h ago
 
 ---
 
@@ -104,7 +102,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-22h ago
+23h ago
 
 ---
 
@@ -152,27 +150,27 @@ Some backstory In February 2016 — less than a year after Ethereum launched —
 
 ## Google News: "ethereum"
 
-**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
-
-Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
-
-Yahoo Finance • 6h ago
-
----
-
 **[Ethereum's cofounder Vitalik Buterin sells more ether while prices continues to slide](https://www.coindesk.com/markets/2026/02/23/ethereum-founder-vitalik-buterin-accelerates-ether-sales)**
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
-**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
+**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
 
-FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
+Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
 
-The Block • 2d ago
+Yahoo Finance • 7h ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Continues ETH Selling Spree](https://decrypt.co/358839/ethereum-founder-vitalik-buterin-continues-eth-selling-spree)**
+
+Ethereum founder Vitalik Buterin has been selling ETH in the last few days as the second-largest crypto asset continues its fall.
+
+Decrypt • 3h ago
 
 ---
 
@@ -184,11 +182,25 @@ Decrypt • 2d ago
 
 ---
 
-**[How Investors Are Reacting To Sharplink (SBET) Doubling Down On Ethereum Treasury Staking And Institutional Adoption](https://finance.yahoo.com/news/investors-reacting-sharplink-sbet-doubling-181410307.html)**
+**[Ethereum Hits 2-Week Low—And Tom Lee's BitMine Just Added to Its $8.4 Billion Stash](https://finance.yahoo.com/news/ethereum-hits-2-week-low-152634284.html)**
 
-Sharplink, Inc. recently completed a comprehensive brand refresh and expanded its Ethereum-focused treasury operations, including aggressive staking that has generated over 13,000 ETH in rewards while institutional ownership reached 46% as of late 2025. This shift toward “Ethereum with an Edge,” emphasizing disciplined growth, yield productivity, and institutional-grade execution, is helping position Sharplink as a dedicated corporate vehicle for exposure to the Ethereum ecosystem. Next, we...
+Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 5h ago
+
+---
+
+**[Tom Lee's BitMine (BMNR) buys 51,162 ether (ETH) amid falling crypto prices](https://www.coindesk.com/business/2026/02/23/bitmine-immersion-added-usd98-million-of-ether-last-week-as-losses-balloon-to-more-than-usd8-billion)**
+
+Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.
+
+CoinDesk • 7h ago
+
+---
+
+**[BitMine Stock Defies the ‘Crypto Winter’ as Tom Lee Secures 3.7% of All Ethereum](https://www.tipranks.com/news/bitmine-stock-defies-the-crypto-winter-as-tom-lee-secures-3-7-of-all-ethereum)**
+
+TipRanks • 5h ago
 
 ---
 
@@ -200,33 +212,17 @@ Fortune • 3d ago
 
 ---
 
-**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
+**[🔷 Analyst Predicts The Ethereum Price Bottom With A Marked Path To $15,000](https://www.binance.com/en/square/post/294795991625314)**
 
-Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
-
-TradingView • 1d ago
+Binance • 5h ago
 
 ---
 
-**[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
+**[BNP Paribas Asset Management pilots tokenized MMF issuance on Ethereum](https://www.ledgerinsights.com/bnp-paribas-asset-management-pilots-tokenized-mmf-issuance-on-ethereum/)**
 
-Binance • 10h ago
+BNP Paribas Asset Management (BNPP AM) has issued a tokenized share class of an existing money market fund (MMF) on the Ethereum blockchain. The issuance
 
----
-
-**[Ethereum Slides Below Trend Lines as Founder Sales Add to Market Stress](https://www.investing.com/analysis/ethereum-slides-below-trend-lines-as-founder-sales-add-to-market-stress-200675500)**
-
-Market Analysis by  covering: Bitcoin US Dollar, Ethereum US Dollar. Read 's Market Analysis on Investing.com
-
-Investing.com • 1h ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1771815900)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
+ledgerinsights.com • 6h ago
 
 ---
 
@@ -240,7 +236,7 @@ BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 845 • 👍 52 • 💬 14 • ⏱️ 22:08 • 35m ago
+👁️ 845 • 👍 52 • 💬 14 • ⏱️ 22:08 • 1h ago
 
 ---
 
@@ -250,7 +246,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 2K • 👍 108 • 💬 32 • ⏱️ 14:34 • 7h ago
+👁️ 2K • 👍 108 • 💬 32 • ⏱️ 14:34 • 8h ago
 
 ---
 
@@ -260,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 137 • 💬 4 • ⏱️ 6:00 • 9h ago
+👁️ 2K • 👍 137 • 💬 4 • ⏱️ 6:00 • 11h ago
 
 ---
 
@@ -270,7 +266,7 @@ Kalshi is pricing in a potential major Ethereum drawdown this year. In this vide
 
 📺 Smart Money Tracking
 
-👁️ 56 • 👍 4 • 💬 1 • ⏱️ 27:22 • 14m ago
+👁️ 56 • 👍 4 • 💬 1 • ⏱️ 27:22 • 1h ago
 
 ---
 
@@ -290,7 +286,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 192 • 👍 13 • 💬 1 • ⏱️ 4:45 • 10h ago
+👁️ 192 • 👍 13 • 💬 1 • ⏱️ 4:45 • 11h ago
 
 ---
 
@@ -310,7 +306,7 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 19K • 👍 705 • 💬 184 • ⏱️ 8:49 • 1d ago
+👁️ 19K • 👍 705 • 💬 184 • ⏱️ 8:49 • 2d ago
 
 ---
 
@@ -320,7 +316,7 @@ Canal de Telegram con noticias de última hora, novedades y análisis: https://t
 
 📺 Alvarburn
 
-👁️ 2K • 👍 271 • 💬 23 • ⏱️ 20:20 • 6h ago
+👁️ 2K • 👍 271 • 💬 23 • ⏱️ 20:20 • 7h ago
 
 ---
 
@@ -330,7 +326,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 89 • 💬 11 • ⏱️ 1:23:36 • 8h ago
+👁️ 2K • 👍 89 • 💬 11 • ⏱️ 1:23:36 • 9h ago
 
 ---
 

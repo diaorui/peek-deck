@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-23T20:06:36.443742+00:00'
+updated: '2026-02-23T21:11:18.234277+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 23, 2026 at 20:06 UTC  
+**Last Updated:** February 23, 2026 at 21:11 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 4h ago
 
 ---
 
@@ -47,7 +47,23 @@ AI news, discussions, and developments
 
 Researchers generated images from noise, using orders of magnitude less energy than current generative AI models require.
 
-🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 17h ago
+🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 18h ago
+
+---
+
+**[The left is missing out on AI | Transformer News](https://www.reddit.com/r/artificial/comments/1rctw1g/the_left_is_missing_out_on_ai_transformer_news/)**
+
+What? Transformer News argues that the political left has largely ignored the implications of artificial intelligence, despite its potential to significantly impact society, with notable exceptions like Bernie Sanders and Cory Doctorow who have raised concerns. So What? This matters to progressive communicators because engaging with AI's societal impacts could provide opportunities to shape policy and protect civil liberties, ensuring that technological advancements do not exacerbate existing inequalities. Full article: https://www.transformernews.ai/p/the-left-is-missing-out-on-ai-sanders-doctorow-bender-bores?utm_source=semafor
+
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/biohackers-are-pro-nicotine#ai) • 7m ago
+
+---
+
+**[So Seedance 2.0 is not coming out tomorrow? What's the next best AI for video generation?](https://www.reddit.com/r/artificial/comments/1rcthnz/so_seedance_20_is_not_coming_out_tomorrow_whats/)**
+
+I am saddened by this I live in U.S
+
+22m ago
 
 ---
 
@@ -55,7 +71,7 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
 
-14h ago
+15h ago
 
 ---
 
@@ -63,7 +79,7 @@ I’ve been building an embodied AI system that can physically move around and i
 
 "SeaCast is an innovative high-resolution forecasting system for the Mediterranean that harnesses AI to deliver faster and more energy-efficient predictions than traditional models. Unlike existing global AI models, which operate at lower resolutions and primarily rely on ocean data, SeaCast integrates both ocean and atmospheric variables, capturing complex regional dynamics. A paper describing the system is published in the journal Scientific Reports. SeaCast's graph-based neural network accounts for intricate coastlines and lateral boundary conditions, overcoming one of the major challenges in regional ocean forecasting. The model operates at a high resolution of about 4 km (1/24°), the same resolution as the CMCC Mediterranean operational forecasting system MedFS (which is coupled with a wave model and covers the full ocean depth), delivered through the Copernicus Marine Service, and produces forecasts down to a depth of 200 meters. This is made possible by training the model on CMCC Mediterranean reanalysis data, which are provided at the same resolution and are freely available through the Copernicus Marine website. SeaCast consistently outperforms the Copernicus operational model over the standard 10-day forecast horizon and extends predictions to 15 days. The efficiency gains are striking: while the operational numerical system requires around 70 minutes on 89 CPUs (central processing units, conventional processors used in most computers) to produce a 10-day forecast, SeaCast can generate a 15-day forecast in about 20 seconds using a single GPU, a highly efficient processor designed for parallel calculations and widely used in machine learning. These advancements are crucial for ocean and climate research. For example, SeaCast's improved computational speed enables rapid "what-if scenario" testing and probabilistic ensemble forecasts, where multiple simulations are used to better estimate forecast uncertainty—scientific tools that are invaluable not only for research, but also for coastal management and decision-making."
 
-🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 4h ago
+🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 5h ago
 
 ---
 
@@ -71,7 +87,7 @@ I’ve been building an embodied AI system that can physically move around and i
 
 I've written 365+ prompts for enterprise use and the pattern is clear: structured prompts with boring, predictable formatting outperform creative or "clever" prompts every single time especially for professional settings. What do I mean by structure: Every prompt I've built follows the same skeleton: - Who are you ? (role/context) - What do you need? (specific task) - Constraints (what's in/out of scope) - Output format (exactly how you want it delivered) Why "creative" prompts fail in enterprise: They're not repeatable : If a clever prompt works for me but my colleague can't modify it for their use case, it's useless at scale. They're hard to debug : When a structured prompt gives bad output, you can identify which section needs fixing. When a creative prompt fails, you're starting from scratch. They don't transfer across models : A prompt that exploits a specific model's quirks breaks when you switch from GPT-4.1 to Claude to Copilot. Structure-based prompts transfer cleanly. They can't be governed : IT and compliance teams need to review and approve prompt templates. "Just ask it creatively" isn't a policy. The boring truth about prompt engineering: It's not engineering and it's not an art. It's technical writing. The same skills that make good documentation make good prompts: clarity, specificity, structure, and knowing your audience. The best prompt engineers I've met aren't AI researchers they're former technical writers, business analysts, and process designers. Am I wrong to push for standardization over creativity?
 
-11h ago
+12h ago
 
 ---
 
@@ -87,7 +103,7 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 One of the principles Boris Cherny sets for his team at Anthropic forces them to really rely on Claude to get the job done.
 
-🔗 [Business Insider](https://www.businessinsider.com/claude-creator-three-principles-boris-cherny-2026-2?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 48m ago
+🔗 [Business Insider](https://www.businessinsider.com/claude-creator-three-principles-boris-cherny-2026-2?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 1h ago
 
 ---
 
@@ -95,23 +111,7 @@ One of the principles Boris Cherny sets for his team at Anthropic forces them to
 
 xAI reportedly delayed a Grok model to improve Baldur's Gate knowledge. Grok is also focusing on playing high-level League of Legends.
 
-🔗 [PC Guide](https://www.pcguide.com/news/xais-grok-development-was-delayed-to-keep-its-baldurs-gate-knowledge-up-to-scratch-says-insider-report/) • 7h ago
-
----
-
-**[Interested in AI workflow for filmmaking](https://www.reddit.com/r/artificial/comments/1rc2b2o/interested_in_ai_workflow_for_filmmaking/)**
-
-Hello, I currently work as a tech in film and television, specifically on the set design and art department side of things. I don’t want to start a hypothetical discussion on whether AI will take over film production, but for the purposes of this discussion, let’s assume that I believe it will. I want to stay ahead of the curve the best I can, or at least prepare myself enough so if things go south for people in the industry, I have the skill set to make AI work for me. I know I’m already pretty behind the eight ball here, but am curious where people think I should start. What kind of workflows and programs should I familiarize myself with? Are there any resources you’d recommend? I am willing to pay for education, though I would obviously prefer to teach myself if that is possible, and use money for the required subscriptions and tools. Thanks in advance for any advice you may have.
-
-19h ago
-
----
-
-**[Sarvam Launches Indus AI Chat App in India as AI Competition Intensifies](https://www.reddit.com/r/artificial/comments/1rc62qk/sarvam_launches_indus_ai_chat_app_in_india_as_ai/)**
-
-Interesting to see more India-focused AI products emerging. The language angle could be a strong differentiator if executed well.
-
-🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 17h ago
+🔗 [PC Guide](https://www.pcguide.com/news/xais-grok-development-was-delayed-to-keep-its-baldurs-gate-knowledge-up-to-scratch-says-insider-report/) • 8h ago
 
 ---
 
@@ -123,49 +123,35 @@ Interesting to see more India-focused AI products emerging. The language angle c
 
 Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
 
-Anthropic • 4h ago
+Anthropic • 5h ago
 
 ---
 
-**[Backed by Anthropic, a Super PAC Group Begins an Ad Blitz in Support of A.I. Regulation](https://www.nytimes.com/2026/02/23/technology/ai-pac-ad-blitz.html)**
+**[IBM is the latest AI casualty. Shares are tanking 11% on Anthropic programming language threat](https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html)**
 
-The New York Times • 1h ago
+COBOL is a computer language used for business data processing and IBM is a leader in that area.
 
----
-
-**[Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports](https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/)**
-
-Anthropic accuses DeepSeek, Moonshot, and MiniMax of using 24,000 fake accounts to distill Claude’s AI capabilities, as U.S. officials debate export controls aimed at slowing China’s AI progress.
-
-TechCrunch • 9m ago
+CNBC • 1h ago
 
 ---
 
-**[Sam Altman defends AI’s energy toll by saying it also takes a lot to ‘train a human’](https://www.theguardian.com/technology/2026/feb/23/sam-altman-openai-energy-use-datacenters)**
+**[Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits](https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html)**
 
-OpenAI CEO also downplayed concerns about how much water datacenters require at AI summit in India
+The New York Times • 35m ago
+
+---
+
+**[If AI makes human labor obsolete, who decides who gets to eat?](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed)**
+
+Amid talk of artificial intelligence taking our jobs, the big unasked question is: how will we be fed?
 
 The Guardian • 3h ago
 
 ---
 
-**[The market is so on edge about AI that it's selling off Monday on an unlikely source](https://www.cnbc.com/2026/02/23/the-market-is-so-on-edge-about-ai-that-its-selling-off-monday-on-an-unlikely-source.html)**
+**[Tech Stocks Have Gotten Crushed by AI. Why Valuations Could Fall Further.](https://www.barrons.com/articles/tech-stocks-ai-selloff-valuations-fe976ef9?gaa_at=eafs&gaa_n=AWEtsqdeQ3Bh3mLIC2knvrxRD3Z85-948nEVf7Rx5b3EsmeNDY0PPbOyvvCO&gaa_ts=699cc5d8&gaa_sig=lmDYuwL0VRGnyK0S18-JUkKiQguwCQeXUzBmRSchQLXH2GlwGeCxqecw7Z6Jo-RcJEti5pJzqquDTWZl7Hu6Aw%3D%3D)**
 
-Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
-
-CNBC • 19m ago
-
----
-
-**[There’s another AI-doom post doing the rounds. This time, the S&P 500 dives nearly 40%.](https://www.marketwatch.com/story/theres-another-ai-doom-post-doing-the-rounds-this-time-the-s-p-500-dives-nearly-40-13162b42?gaa_at=eafs&gaa_n=AWEtsqeH9IshdFWu-f7xrC8I2tTTs9w64tcxhSqiJLm2etSNSlWYfCRmbqC_&gaa_ts=699cb6b5&gaa_sig=-8Lv3710ZpHtoNYMUKulrtnpfGm-1kxLkOj8rRKEC8lgy9alaC2J5qGEnOEyJeN04ClshkrFRxXigLFvya1RJw%3D%3D)**
-
-MarketWatch • 8h ago
-
----
-
-**[The Lesson of A.I. Literacy Class: Don’t Let the Chatbot Think for You](https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html)**
-
-The New York Times • 10h ago
+Barron's • 52m ago
 
 ---
 
@@ -173,21 +159,37 @@ The New York Times • 10h ago
 
 Massive investment in AI contributed “basically zero” to U.S. economic growth last year, Goldman Sachs has calculated.
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
-**[AI's "centaur phase" consumes Silicon Valley](https://www.axios.com/2026/02/23/ai-agents-openclaw-openai-anthropic)**
+**[Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears](https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html)**
 
-Axios • 9h ago
+Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.
+
+CNBC • 4h ago
 
 ---
 
-**[Why is AI so bad at reading PDFs?](https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure)**
+**[Software, Payment Shares Sink After Citrini Post on AI Risks](https://finance.yahoo.com/news/software-payments-shares-tumble-citrini-162303649.html)**
 
-One of the most ubiquitous file formats is stumping the major models
+DoorDash Inc., American Express Co., KKR & Co Inc. and Blackstone Inc all slumped more than 8%.  Shares of other companies name-checked in the article, including Uber Technologies Inc., Mastercard Inc., Visa Inc., Capital One Financial Corp. and Apollo Global Management Inc. were all lower by at least 3%.
 
-The Verge • 9h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[A Viral Blog Post Slams Stocks. Fear About AI Is Real.](https://www.barrons.com/articles/ai-blog-post-stocks-fall-cf25d815?gaa_at=eafs&gaa_n=AWEtsqdT3N4-YwiunCNoQuFj58_TsvlLGHwmQyKdwvBLVWzzIOUBvKQXF_Vq&gaa_ts=699cc5d8&gaa_sig=6bQOFowoVKCNeLDJtJi7tdMrkrPcDrEgkGiJbWb2wouuYj46fyEONBRGZhA6rHKPRKH7DVBErkYiwZ2ZXZsgmw%3D%3D)**
+
+Barron's • 1h ago
+
+---
+
+**[How AI agents could destroy the economy](https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/)**
+
+Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.
+
+TechCrunch • 6h ago
 
 ---
 
@@ -199,13 +201,13 @@ The Verge • 9h ago
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 767 • 💬 658 • 20h ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 773 • 💬 666 • 22h ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 488 • 💬 392 • 12h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 499 • 💬 401 • 13h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -229,7 +231,7 @@ Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an E
 
 BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled binaries of real open-source servers, proxies, and network infrastructure.
 
-⬆️ 236 • 💬 92 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
+⬆️ 237 • 💬 92 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
 
 ---
 
@@ -249,19 +251,11 @@ We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. 
 
 ---
 
-**[Phil Spencer is exiting Microsoft as AI executive takes over Xbox](https://news.ycombinator.com/item?id=47093953)**
-
-A massive leadership shakeup at Microsoft's gaming division sees Phil Spencer and Sarah Bond leaving the company.
-
-⬆️ 99 • 💬 82 • 2d ago • [Neowin](https://www.neowin.net/news/phil-spencer-is-exiting-microsoft-as-ai-executive-takes-over-xbox/)
-
----
-
 **[Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)](https://news.ycombinator.com/item?id=47119871)**
 
 Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
 
-⬆️ 90 • 💬 43 • 10h ago • [LLM Timeline](https://llm-timeline.com/)
+⬆️ 101 • 💬 45 • 12h ago • [LLM Timeline](https://llm-timeline.com/)
 
 ---
 
@@ -269,7 +263,13 @@ Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT �
 
 A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。 - Leading-AI-IO/palantir-ontology-strategy
 
-⬆️ 84 • 💬 56 • 1d ago • [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy)
+⬆️ 84 • 💬 58 • 1d ago • [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy)
+
+---
+
+**[I hate AI side projects](https://news.ycombinator.com/item?id=47094637)**
+
+⬆️ 79 • 💬 117 • 2d ago • [Dylan Castillo](https://dylancastillo.co/posts/ai-side-projects.html)
 
 ---
 
@@ -283,7 +283,7 @@ This video shows how Seedance 2.0 is revolutionizing AI video production, offeri
 
 📺 AI Filmmaking Academy
 
-👁️ 23K • 👍 697 • 💬 136 • ⏱️ 7:03 • 22h ago
+👁️ 23K • 👍 697 • 💬 136 • ⏱️ 7:03 • 23h ago
 
 ---
 
@@ -293,7 +293,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 37K • 👍 864 • 💬 114 • ⏱️ 14:16 • 20h ago
+👁️ 37K • 👍 864 • 💬 114 • ⏱️ 14:16 • 21h ago
 
 ---
 
@@ -303,7 +303,7 @@ My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 33K • 👍 2K • 💬 362 • ⏱️ 36:37 • 5h ago
+👁️ 33K • 👍 2K • 💬 362 • ⏱️ 36:37 • 6h ago
 
 ---
 
@@ -363,7 +363,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 7K • 👍 642 • 💬 100 • ⏱️ 7:38 • 5h ago
+👁️ 7K • 👍 642 • 💬 100 • ⏱️ 7:38 • 6h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 302,852 • ❤️ 925 • 6h ago
+⬇️ 302,852 • ❤️ 925 • 7h ago
 
 ---
 
@@ -401,7 +401,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,031 • ❤️ 2,167 • 7d ago
+⬇️ 539,031 • ❤️ 2,167 • 8d ago
 
 ---
 
@@ -461,7 +461,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 162 • 18h ago
+⬇️ 0 • ❤️ 162 • 19h ago
 
 ---
 
@@ -473,7 +473,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 19,434 • ❤️ 161 • 22h ago
+⬇️ 19,434 • ❤️ 161 • 1d ago
 
 ---
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.7k • 🔱 2.1k • 1h ago
+⭐ 17.7k • 🔱 2.1k • 2h ago
 
 ---
 
@@ -652,7 +652,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 10.5k • 🔱 1.1k • 38m ago
+⭐ 10.5k • 🔱 1.1k • 1h ago
 
 ---
 
@@ -670,7 +670,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.2k • 🔱 642 • 8h ago
+⭐ 5.2k • 🔱 642 • 9h ago
 
 ---
 
@@ -690,7 +690,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 333 • 15h ago
+⭐ 3.4k • 🔱 333 • 16h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 185 • 1h ago
+⭐ 2.7k • 🔱 185 • 2h ago
 
 ---
 

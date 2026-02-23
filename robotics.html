@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-23T20:06:36.086380+00:00"
+          "dateModified": "2026-02-23T21:11:17.854100+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -746,6 +746,41 @@
                     </div>
                 </div>
                 
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rbyo3y/built_my_first_hexapod/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/bjA1YjN2ODU5NGxnMS2EMvlmuzgdAiKy2YCoIVO7wkWxuf2_uHk8OsxcfIN-.jpeg?width=640&crop=smart&auto=webp&s=49f5b6dfd236978128f91de83a47ae95ab6d7d9e" alt="Built my first hexapod!" onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rbyo3y/built_my_first_hexapod/" target="_blank" onclick="event.stopPropagation();">Built my first hexapod!</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="post-description">
+                            Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
+                        </div>
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1771796717.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rcr4d8/3phase_roadmap_for_scaling_humanoids/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -781,23 +816,23 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rbyo3y/built_my_first_hexapod/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rcskbg/your_car_wont_light_the_check_engine_for_a_single/', '_blank')">
                     <div class="post-thumbnail">
                         
-                        <img src="https://external-preview.redd.it/bjA1YjN2ODU5NGxnMS2EMvlmuzgdAiKy2YCoIVO7wkWxuf2_uHk8OsxcfIN-.jpeg?width=640&crop=smart&auto=webp&s=49f5b6dfd236978128f91de83a47ae95ab6d7d9e" alt="Built my first hexapod!" onerror="this.style.display='none'" loading="lazy">
+                        <img src="https://preview.redd.it/pni1vph8yalg1.gif?width=640&crop=smart&s=f4c5e82c5b3cda4b3675f4cf2d0ec5c57302f71c" alt="Your car won't light the check engine for a single misfire. Why does your robot confirm every fault instantly?" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rbyo3y/built_my_first_hexapod/" target="_blank" onclick="event.stopPropagation();">Built my first hexapod!</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1rcskbg/your_car_wont_light_the_check_engine_for_a_single/" target="_blank" onclick="event.stopPropagation();">Your car won't light the check engine for a single misfire. Why does your robot confirm every fault instantly?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
+                            Your robot's fault logs are a haystack. The real error is the needle. 10 alerts just fired. The motor burns out at 3 AM. Nobody noticed. All warning. All confirmed. All identical on your dashboard. One of them is a motor about to burn out. Good luck finding it. This is what diagnostics look like without filtering. Every glitch instantly confirmed, instantly in your face. Your operator sees a wall of orange. Mutes the channel. Goes back to scrolling Reddit. One YAML change: confirmation_threshold: -3 Same 10 alerts fire. Same sensors, same noise. But now: 9 stay "pending" (transient: counter never reaches -3). 1 "confirmed": MOTOR_OVERHEAT (sustained: 5 reports in a row). The needle jumps out of the haystack. This is how every serious monitoring system works. Prometheus has for duration. Your car's ECU has pending vs confirmed DTCs. It won't light the check engine for a single misfire (needs two drive cycles to confirm). diagnostic_updater has none of this. Every message is independent. No memory, no threshold. ros2_medkit adds 4 filtering layers: Local filter (client-side dedup) Confirmation debounce (counter-based threshold) Auto-healing (robot recovers → fault closes) Auto-confirm timeout (slow-burn faults don't slip through) The data is still there. It just doesn't scream. GitHub: https://github.com/selfpatch/ros2_medkit Full article: https://discourse.openrobotics.org/t/your-robots-fault-log-is-a-haystack-the-real-error-is-the-needle/52583
                         </div>
                         
 
@@ -806,7 +841,7 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1771796717.0"></span>
+                                    <span data-timestamp="1771877747.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -921,35 +956,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rchf5m/computer_vision_and_robotics/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rchf5m/computer_vision_and_robotics/" target="_blank" onclick="event.stopPropagation();">computer vision and robotics</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1771853314.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
 
                 <!-- View All button at end of carousel -->
                 <div class="carousel-card"
@@ -973,7 +979,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-23T20:06:15.534719+00:00">Updated 2026-02-23T20:06:15.534719+00:00</small>
+        <small data-timestamp="2026-02-23T21:10:49.830024+00:00">Updated 2026-02-23T21:10:49.830024+00:00</small>
     </div>
 </div>
 
@@ -1159,20 +1165,20 @@
             <!-- Carousel track -->
             <div class="carousel-track" id="news-carousel-robotics">
                 
-                <div class="carousel-card" onclick="window.open('https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://www.telegraph.co.uk/content/dam/business/2026/02/20/TELEMMGLPICT000464556223_17715964244630_trans_NvBQzQNjv4BqOWyXE6QzxNy30rVEsOfixLyz91Skp7cj6eQFEaED0vA.jpeg?impolicy=OG-Standard');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://i.guim.co.uk/img/media/e00cacac7fa79897e1d75d6c01e814cb8692b2ef/242_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=622e368828a5df108807691d3eada585');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/" target="_blank" onclick="event.stopPropagation();">China’s kung fu robots are a wake-up call for the West</a>
+                            <a href="https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show" target="_blank" onclick="event.stopPropagation();">China’s dancing robots: how worried should we be?</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            The race to dominate physical AI is under way, and Beijing may already have the upper hand
+                            Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
                         </div>
                         
 
@@ -1182,9 +1188,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.telegraph.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Telegraph" class="news-favicon">
-                                    <a href="https://www.telegraph.co.uk" target="_blank" onclick="event.stopPropagation();">The Telegraph</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Guardian" class="news-favicon">
+                                    <a href="https://www.theguardian.com" target="_blank" onclick="event.stopPropagation();">The Guardian</a>
                                     
                                 </div>
                                 
@@ -1192,7 +1198,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1771758000.0"></span>
+                                    <span data-timestamp="1771435800.0"></span>
                                 </div>
                                 
                             </div>
@@ -1200,20 +1206,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.therobotreport.com/tesollo-commercializes-its-lightweight-compact-robotic-hand-for-humanoids/', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/02/20/fc9e8182-cd7d-4f0d-93f7-d7c6565c915a_3ba33e4d.jpg?itok=3AlCxtsd&v=1771591734');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.therobotreport.com/wp-content/uploads/2026/02/DG-5F-S-20-DoF-model-left-and-15-DoF-model-right-featured.jpg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots" target="_blank" onclick="event.stopPropagation();">US software firm opens doors for global adoption of China’s humanoid robots</a>
+                            <a href="https://www.therobotreport.com/tesollo-commercializes-its-lightweight-compact-robotic-hand-for-humanoids/" target="_blank" onclick="event.stopPropagation();">Tesollo commercializes its lightweight, compact robotic hand for humanoids</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
+                            Tesollo said its DG-5F-S robotic hand supports precise grasping and manipulation motions required for humanoid robots.
                         </div>
                         
 
@@ -1223,9 +1229,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="South China Morning Post" class="news-favicon">
-                                    <a href="https://www.scmp.com" target="_blank" onclick="event.stopPropagation();">South China Morning Post</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="The Robot Report" class="news-favicon">
+                                    <a href="https://www.therobotreport.com" target="_blank" onclick="event.stopPropagation();">The Robot Report</a>
                                     
                                 </div>
                                 
@@ -1233,48 +1239,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1771754415.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.news.com.au/technology/innovation/inventions/how-china-is-winning-the-race-for-smart-robots/news-story/6c32958cdb18fd9f0d82a3e00a297b11', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://content.api.news/v3/images/bin/6a2e5b6444396c8e68a7020bf8174eed');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.news.com.au/technology/innovation/inventions/how-china-is-winning-the-race-for-smart-robots/news-story/6c32958cdb18fd9f0d82a3e00a297b11" target="_blank" onclick="event.stopPropagation();">World terrified of ‘humanoid’ Chinese robots</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Rosie the robo-maid; Made in China?
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.news.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="News.com.au" class="news-favicon">
-                                    <a href="https://www.news.com.au" target="_blank" onclick="event.stopPropagation();">News.com.au</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1771862598.0"></span>
+                                    <span data-timestamp="1771871192.0"></span>
                                 </div>
                                 
                             </div>
@@ -1323,20 +1288,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.euronews.com/next/2026/02/21/china-showcases-humanoid-martial-arts-robots-should-europe-be-worried', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://images.euronews.com/articles/stories/09/65/94/56/1200x675_cmsv2_e9951c9e-915f-59d3-8502-451462e7b118-9659456.jpg');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://ewscripps.brightspotcdn.com/dims4/default/995e7b3/2147483647/strip/true/crop/720x378+0+14/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F7d%2Ff8%2F1d4381e842dcbcc817821db9f56a%2Fworld-champs.jpeg');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.euronews.com/next/2026/02/21/china-showcases-humanoid-martial-arts-robots-should-europe-be-worried" target="_blank" onclick="event.stopPropagation();">China showcases martial arts robots. Should Europe be worried?</a>
+                            <a href="https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort" target="_blank" onclick="event.stopPropagation();">Kalispell girls robotics team qualifies for worlds, launches community fundraising effort</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            As Beijing pushes forward in robotics, which it displayed at the Lunar New Year performance, a bigger question is emerging: how advanced are these systems really, and should Europe be concerned?
+                            A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
                         </div>
                         
 
@@ -1346,9 +1311,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.euronews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="Euronews.com" class="news-favicon">
-                                    <a href="https://www.euronews.com" target="_blank" onclick="event.stopPropagation();">Euronews.com</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.kpax.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="KPAX News" class="news-favicon">
+                                    <a href="https://www.kpax.com" target="_blank" onclick="event.stopPropagation();">KPAX News</a>
                                     
                                 </div>
                                 
@@ -1356,7 +1321,130 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1771657230.0"></span>
+                                    <span data-timestamp="1771811783.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/02/20/fc9e8182-cd7d-4f0d-93f7-d7c6565c915a_3ba33e4d.jpg?itok=3AlCxtsd&v=1771591734');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots" target="_blank" onclick="event.stopPropagation();">US software firm opens doors for global adoption of China’s humanoid robots</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scmp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="South China Morning Post" class="news-favicon">
+                                    <a href="https://www.scmp.com" target="_blank" onclick="event.stopPropagation();">South China Morning Post</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1771754415.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-02/260220-Dot-robot-rs-481210.jpg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818" target="_blank" onclick="event.stopPropagation();">Tech companies are making their robots cute to try to win over humans</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nbcnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="NBC News" class="news-favicon">
+                                    <a href="https://www.nbcnews.com" target="_blank" onclick="event.stopPropagation();">NBC News</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1771772441.0"></span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2', '_blank')">
+                    <!-- Rich preview thumbnail (with fallback icon) -->
+                    <div class="article-thumbnail" style="background-image: url('https://i.insider.com/69983f5af8731049f3af753c?width=1200&format=jpeg');"></div>
+
+                    <div class="article-content">
+                        <!-- Article headline (fixed 3-line height) -->
+                        <div class="news-headline">
+                            <a href="https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2" target="_blank" onclick="event.stopPropagation();">How Robotics Could Upend the US Manufacturing Industry</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+                        <div class="article-description">
+                            The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
+                        </div>
+                        
+
+                        <!-- Metadata (source, time) -->
+                        <div class="news-meta">
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item news-source">
+                                    
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Business Insider" class="news-favicon">
+                                    <a href="https://www.businessinsider.com" target="_blank" onclick="event.stopPropagation();">Business Insider</a>
+                                    
+                                </div>
+                                
+                            </div>
+                            <div class="news-meta-line">
+                                
+                                <div class="news-meta-item">
+                                    <span data-timestamp="1771585440.0"></span>
                                 </div>
                                 
                             </div>
@@ -1405,20 +1493,20 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-6h6an0dy45p4.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://wp.technologyreview.com/wp-content/uploads/2026/02/260219_humanoid_algo_hero.jpg?resize=1200,600');"></div>
+                    <div class="article-thumbnail" style="background-image: url('https://www.stocktitan.net/news_covers/Faraday_Future_Founder_and_Co_CEO_YT_Jia_Shares_Weekly_Investor_Update_For_EAI_Robotics_FF_Will_Of_1016301.webp');"></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/" target="_blank" onclick="event.stopPropagation();">The human work behind humanoid robots is being hidden</a>
+                            <a href="https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-6h6an0dy45p4.html" target="_blank" onclick="event.stopPropagation();">Humanoid robots: Faraday Future readies first EAI deliveries</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="article-description">
-                            AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
+                            MOUs with U.S. dealers and first EAI robot deliveries headline Faraday Future’s plan to focus on Super One, improve cash flow and streamline AIxC.
                         </div>
                         
 
@@ -1428,9 +1516,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.technologyreview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="MIT Technology Review" class="news-favicon">
-                                    <a href="https://www.technologyreview.com" target="_blank" onclick="event.stopPropagation();">MIT Technology Review</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.stocktitan.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Stock Titan" class="news-favicon">
+                                    <a href="https://www.stocktitan.net" target="_blank" onclick="event.stopPropagation();">Stock Titan</a>
                                     
                                 </div>
                                 
@@ -1438,7 +1526,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1771866300.0"></span>
+                                    <span data-timestamp="1771809378.0"></span>
                                 </div>
                                 
                             </div>
@@ -1446,21 +1534,17 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://theweek.com/tech/china-and-the-rise-of-the-humanoid-robots', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html', '_blank')">
                     <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://cdn.mos.cms.futurecdn.net/3tmUWbs2SDXVtyxfRejVrK-2000-80.jpg');"></div>
+                    <div class="article-thumbnail" ></div>
 
                     <div class="article-content">
                         <!-- Article headline (fixed 3-line height) -->
                         <div class="news-headline">
-                            <a href="https://theweek.com/tech/china-and-the-rise-of-the-humanoid-robots" target="_blank" onclick="event.stopPropagation();">China and the rise of the humanoid robots</a>
+                            <a href="https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html" target="_blank" onclick="event.stopPropagation();">Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes</a>
                         </div>
 
                         <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The country’s ‘bustling’ robotics industry is dominating the global market, though experts are split on how concerned we should be
-                        </div>
                         
 
                         <!-- Metadata (source, time) -->
@@ -1469,9 +1553,9 @@
                                 
                                 <div class="news-meta-item news-source">
                                     
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://theweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="The Week" class="news-favicon">
-                                    <a href="https://theweek.com" target="_blank" onclick="event.stopPropagation();">The Week</a>
+                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techxplore.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+                                         alt="Tech Xplore" class="news-favicon">
+                                    <a href="https://techxplore.com" target="_blank" onclick="event.stopPropagation();">Tech Xplore</a>
                                     
                                 </div>
                                 
@@ -1479,89 +1563,7 @@
                             <div class="news-meta-line">
                                 
                                 <div class="news-meta-item">
-                                    <span data-timestamp="1771855450.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://www.pcmag.com/news/honor-teases-new-humanoid-robots-first-model-will-arrive-at-mwc-2026', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://i.pcmag.com/imagery/articles/04KL5BCtSmUvZXLlY0K1psN-1.fit_lim.size_1200x630.v1771846966.jpg');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://www.pcmag.com/news/honor-teases-new-humanoid-robots-first-model-will-arrive-at-mwc-2026" target="_blank" onclick="event.stopPropagation();">Honor Teases New Humanoid Robots, First Model Will Arrive at MWC 2026</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            The Chinese smartphone brand revealed a teaser clip for its upcoming service robot.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pcmag.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="PCMag" class="news-favicon">
-                                    <a href="https://www.pcmag.com" target="_blank" onclick="event.stopPropagation();">PCMag</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1771851936.0"></span>
-                                </div>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="carousel-card" onclick="window.open('https://spectrum.ieee.org/robot-martial-arts', '_blank')">
-                    <!-- Rich preview thumbnail (with fallback icon) -->
-                    <div class="article-thumbnail" style="background-image: url('https://spectrum.ieee.org/media-library/image.png?id=64966934&width=1200&height=600&coordinates=0%2C13%2C0%2C14');"></div>
-
-                    <div class="article-content">
-                        <!-- Article headline (fixed 3-line height) -->
-                        <div class="news-headline">
-                            <a href="https://spectrum.ieee.org/robot-martial-arts" target="_blank" onclick="event.stopPropagation();">Video Friday: Humanoid Robots Celebrate Spring</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-                        <div class="article-description">
-                            Celebrate the Lunar New Year with a synchronized martial arts demo by humanoid robots and cuddling robot pandas! Plus Perseverance finds itself.
-                        </div>
-                        
-
-                        <!-- Metadata (source, time) -->
-                        <div class="news-meta">
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item news-source">
-                                    
-                                    <img src="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://spectrum.ieee.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-                                         alt="IEEE Spectrum" class="news-favicon">
-                                    <a href="https://spectrum.ieee.org" target="_blank" onclick="event.stopPropagation();">IEEE Spectrum</a>
-                                    
-                                </div>
-                                
-                            </div>
-                            <div class="news-meta-line">
-                                
-                                <div class="news-meta-item">
-                                    <span data-timestamp="1771612176.0"></span>
+                                    <span data-timestamp="1771599615.0"></span>
                                 </div>
                                 
                             </div>
@@ -1589,7 +1591,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-23T20:06:33.967296+00:00">Updated 2026-02-23T20:06:33.967296+00:00</small>
+        <small data-timestamp="2026-02-23T21:11:02.251748+00:00">Updated 2026-02-23T21:11:02.251748+00:00</small>
     </div>
 </div>
 
