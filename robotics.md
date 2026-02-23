@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T07:37:36.773031+00:00'
+updated: '2026-02-23T08:53:30.661053+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 07:37 UTC  
+**Last Updated:** February 23, 2026 at 08:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -42,15 +42,7 @@ Robotics research and industry news
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
-9h ago
-
----
-
-**[Inside Figure's San Jose headquarters](https://www.reddit.com/r/robotics/comments/1rbhva5/inside_figures_san_jose_headquarters/)**
-
-From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
-
-21h ago
+11h ago
 
 ---
 
@@ -58,7 +50,15 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
 
-9h ago
+11h ago
+
+---
+
+**[Inside Figure's San Jose headquarters](https://www.reddit.com/r/robotics/comments/1rbhva5/inside_figures_san_jose_headquarters/)**
+
+From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
+
+23h ago
 
 ---
 
@@ -66,13 +66,21 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-21h ago
+22h ago
+
+---
+
+**[What kind of voice should a small home robot have](https://www.reddit.com/r/robotics/comments/1rcc4pl/what_kind_of_voice_should_a_small_home_robot_have/)**
+
+Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
+
+15m ago
 
 ---
 
 **[Brianna my beloved bot friend getting her limbs back](https://www.reddit.com/r/robotics/comments/1rc6xhc/brianna_my_beloved_bot_friend_getting_her_limbs/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -80,7 +88,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-16h ago
+17h ago
 
 ---
 
@@ -98,21 +106,23 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 ---
 
-**[CC student into robotics/aerospace needing serious project ideas + career advice](https://www.reddit.com/r/robotics/comments/1rbxawr/cc_student_into_roboticsaerospace_needing_serious/)**
-
-10h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
+**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html)**
 
-The race to dominate physical AI is under way, and Beijing may already have the upper hand
+Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
-The Telegraph • 20h ago
+CNBC • 3d ago
+
+---
+
+**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.nasdaq.com/articles/teslas-3-trillion-opportunity-how-optimus-could-dominate-robotics-market-2026)**
+
+Key PointsTesla is repurposing EV factories to build its Optimus robots.
+
+Nasdaq • 2d ago
 
 ---
 
@@ -120,74 +130,61 @@ The Telegraph • 20h ago
 
 Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
 
-NBC News • 16h ago
+NBC News • 17h ago
 
 ---
 
-**[Hyundai Motor Group to invest $87 bn in Korea to build global robotics hub](https://www.kedglobal.com/corporate-investment/newsView/ked202602230007)**
+**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
 
-South Korea’s Hyundai Motor Group has pledged to invest 125.2 trillion won ($86.7 billion) in the country through 2030 in what it described as its larges
+OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
-KED Global • 33m ago
-
----
-
-**[Cellula Robotics Joins Canadian Technology Accelerator for UK Maritime Defense & Security](https://www.unmannedsystemstechnology.com/2026/02/cellula-robotics-joins-canadian-technology-accelerator-for-uk-maritime-defense-security/)**
-
-Cellula Robotics has been selected to participate in the Canadian Technology Accelerators Maritime Defence and Security Applications of Ocean Technologies...
-
-Unmanned Systems Technology • 1h ago
+South China Morning Post • 22h ago
 
 ---
 
-**[Hurricane High robotics club promotes STEM industry at City Council meeting](https://www.stgeorgeutah.com/news/hurricane-high-robotics-club-promotes-stem-industry-at-city-council-meeting/article_b9857309-f262-491d-8c71-7e4ee1c89b0f.html)**
+**[How Robotics Could Upend the US Manufacturing Industry](https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2)**
 
-A group of teenagers from the Hurricane High School Robotics Club appeared before the Hurricane City Council on a snowy Thursday evening, not to present a robot, but to present
+The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
 
-St. George News • 7h ago
-
----
-
-**[Tesla Pivot To Robotics And Autonomy Reshapes Long Term Investment Case](https://simplywall.st/stocks/us/automobiles/nasdaq-tsla/tesla/news/tesla-pivot-to-robotics-and-autonomy-reshapes-long-term-inve)**
-
-Tesla (NasdaqGS:TSLA) is shifting its core focus from premium electric vehicles to robotics, artificial intelligence, and autonomous systems.
-The company is discontinuing the Model S and Model X and converting parts of its manufacturing footprint to produce the Optimus humanoid robot.
-Tesla is launching its Cybercab autonomous vehicle and restructuring Full Self Driving into a subscription based service.
-The robotaxi pilot is being scaled while the company addresses technical issues,...
-
-simplywall.st • 3h ago
+Business Insider • 2d ago
 
 ---
 
-**[Richtech Robotics Inc. Securities Class Action Lawsuit Filed; Lead Plaintiff Deadline April 3, 2026 – RGRD Law](https://www.globenewswire.com/news-release/2026/02/22/3242286/0/en/Richtech-Robotics-Inc-Securities-Class-Action-Lawsuit-Filed-Lead-Plaintiff-Deadline-April-3-2026-RGRD-Law.html)**
+**[Humanoid robots: Faraday Future readies first EAI deliveries](https://www.stocktitan.net/news/FFAI/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-6h6an0dy45p4.html)**
 
-The case alleges Richtech Robotics claimed that it had a collaborative and commercial relationship with Microsoft when it did not....
+MOUs with U.S. dealers and first EAI robot deliveries headline Faraday Future’s plan to focus on Super One, improve cash flow and streamline AIxC.
 
-GlobeNewswire • 8h ago
-
----
-
-**[Hawaii robotics team qualifies for World Championships](https://www.hawaiinewsnow.com/2026/02/19/hawaii-robotics-team-qualifies-world-championships/)**
-
-Organizers started a GoFundMe page, where the community can donate to the team’s chance to compete against the best in the world.
-
-Hawaii News Now • 4d ago
+Stock Titan • 7h ago
 
 ---
 
-**[DeSoto Technix wins inaugural national robotics title](https://desotocountynews.com/desoto-county-news/desoto-technix-wins-inaugural-national-robotics-title/)**
+**[Amazon Robotics shuts down Blue Jay sortation project](https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/)**
 
-The program operates under the Northwest Mississippi Robotics nonprofit and has received significant local support.
+Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects.
 
-DeSoto County News • 7h ago
+The Robot Report • 2d ago
 
 ---
 
-**[Over 350 students compete at 2nd Annual Redhawks Robotics Rumble](https://www.fox23.com/news/over-350-students-compete-at-2nd-annual-redhawks-robotics-rumble/article_bbcc613a-17f8-4ad7-a0bd-1b7b448939ac.html)**
+**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
 
-For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
+Tech Xplore • 2d ago
 
-fox23.com • 18h ago
+---
+
+**[Humanoid home robots are on the market – but do we really want them?](https://theconversation.com/humanoid-home-robots-are-on-the-market-but-do-we-really-want-them-270370)**
+
+A robot butler sounds like a nice idea, but the technology has its drawbacks.
+
+The Conversation • 3d ago
+
+---
+
+**[US AI firm accelerates international rollout of Chinese humanoid robots](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-global-push-challenge)**
+
+A US-based company is positioning itself as a conduit for the global expansion of Chinese humanoid robotics firms.
+
+Interesting Engineering • 12h ago
 
 ---
 
@@ -211,7 +208,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 10K • 👍 446 • 💬 52 • ⏱️ 14:16 • 8h ago
+👁️ 10K • 👍 446 • 💬 52 • ⏱️ 14:16 • 9h ago
 
 ---
 
@@ -241,7 +238,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 291K • 👍 3K • 💬 2K • ⏱️ 3:42 • 3d ago
+👁️ 291K • 👍 3K • 💬 2K • ⏱️ 3:42 • 4d ago
 
 ---
 
