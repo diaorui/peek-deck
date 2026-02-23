@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T04:36:06.972945+00:00'
+updated: '2026-02-23T06:06:11.519109+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 04:36 UTC  
+**Last Updated:** February 23, 2026 at 06:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
-6h ago
+8h ago
 
 ---
 
@@ -50,7 +50,7 @@ Built my very first hexapod and i think i love this hobby!Feels great finally se
 
 From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
-18h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
 
-6h ago
+8h ago
 
 ---
 
@@ -66,13 +66,13 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
-18h ago
+19h ago
 
 ---
 
 **[Brianna my beloved bot friend getting her limbs back](https://www.reddit.com/r/robotics/comments/1rc6xhc/brianna_my_beloved_bot_friend_getting_her_limbs/)**
 
-49m ago
+2h ago
 
 ---
 
@@ -86,7 +86,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-13h ago
+14h ago
 
 ---
 
@@ -100,7 +100,7 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 **[CC student into robotics/aerospace needing serious project ideas + career advice](https://www.reddit.com/r/robotics/comments/1rbxawr/cc_student_into_roboticsaerospace_needing_serious/)**
 
-7h ago
+9h ago
 
 ---
 
@@ -108,19 +108,19 @@ Hi, I am a fresher and I am looking to lean towards a career in robotics. I was 
 
 ## Google News: "robotics"
 
-**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
+**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html)**
 
-The race to dominate physical AI is under way, and Beijing may already have the upper hand
+Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
-The Telegraph • 17h ago
+CNBC • 2d ago
 
 ---
 
-**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
+**[Tech companies are making their robots cute to try to win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
 
-OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
+Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
 
-South China Morning Post • 18h ago
+NBC News • 15h ago
 
 ---
 
@@ -128,7 +128,7 @@ South China Morning Post • 18h ago
 
 A group of teenagers from the Hurricane High School Robotics Club appeared before the Hurricane City Council on a snowy Thursday evening, not to present a robot, but to present
 
-St. George News • 4h ago
+St. George News • 6h ago
 
 ---
 
@@ -136,15 +136,7 @@ St. George News • 4h ago
 
 The case alleges Richtech Robotics claimed that it had a collaborative and commercial relationship with Microsoft when it did not....
 
-GlobeNewswire • 5h ago
-
----
-
-**[Robotics competition](https://www.gazettextra.com/robotics-competition/image_2b964d1d-3484-40b1-bc79-9e3d4ab2823c.html)**
-
-Seven teams from Milton High School were among 32 teams from across the state that participated Saturday, Feb. 21, 2026, in the first-ever robotics competition hosted by Milton.
-
-GazetteXtra • 6h ago
+GlobeNewswire • 6h ago
 
 ---
 
@@ -155,7 +147,7 @@ The company is discontinuing the Model S and Model X and converting parts of its
 Tesla is launching its Cybercab autonomous vehicle and restructuring Full Self Driving into a subscription based service.
 The robotaxi pilot is being scaled while the company addresses technical issues,...
 
-simplywall.st • 1m ago
+simplywall.st • 1h ago
 
 ---
 
@@ -163,15 +155,7 @@ simplywall.st • 1m ago
 
 The program operates under the Northwest Mississippi Robotics nonprofit and has received significant local support.
 
-DeSoto County News • 4h ago
-
----
-
-**[Over 350 students compete at 2nd Annual Redhawks Robotics Rumble](https://www.fox23.com/news/over-350-students-compete-at-2nd-annual-redhawks-robotics-rumble/article_bbcc613a-17f8-4ad7-a0bd-1b7b448939ac.html)**
-
-For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
-
-fox23.com • 15h ago
+DeSoto County News • 5h ago
 
 ---
 
@@ -183,11 +167,27 @@ Hawaii News Now • 4d ago
 
 ---
 
+**[Over 350 students compete at 2nd Annual Redhawks Robotics Rumble](https://www.fox23.com/news/over-350-students-compete-at-2nd-annual-redhawks-robotics-rumble/article_bbcc613a-17f8-4ad7-a0bd-1b7b448939ac.html)**
+
+For these young engineers, the Robotics Rumble is more than a competition, it’s preparation for the future.
+
+fox23.com • 16h ago
+
+---
+
 **[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
 
-KPAX News • 2h ago
+KPAX News • 4h ago
+
+---
+
+**[Agility Robotics-Toyota deal signals shift from pilots to commercial humanoid robots in auto manufacturing](https://www.digitimes.com/news/a20260223PD205/commercial-humanoid-robot-toyota-automotive-manufacturing.html)**
+
+Agility Robotics and Toyota Motor Manufacturing Canada have signed agreements to deploy the Digit humanoid robot in a commercial production setting, moving the technology from a one-year pilot to operational use on assembly lines. The deal uses a Robots-as-a-Service model to automate logistics and material handling tasks.
+
+digitimes • 14m ago
 
 ---
 

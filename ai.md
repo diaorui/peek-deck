@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-23T04:36:06.955317+00:00'
+updated: '2026-02-23T06:06:11.500601+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 23, 2026 at 04:36 UTC  
+**Last Updated:** February 23, 2026 at 06:06 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 11h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 12h ago
 
 ---
 
@@ -49,7 +49,15 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 Researchers generated images from noise, using orders of magnitude less energy than current generative AI models require.
 
-🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 1h ago
+🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 3h ago
+
+---
+
+**[Embodied AI initiated an AI to AI interaction to start saving for its own hardware upgrade with zero human input](https://www.reddit.com/r/artificial/comments/1rc9cvt/embodied_ai_initiated_an_ai_to_ai_interaction_to/)**
+
+I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
+
+13m ago
 
 ---
 
@@ -57,7 +65,15 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 Interesting to see more India-focused AI products emerging. The language angle could be a strong differentiator if executed well.
 
-🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 1h ago
+🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 3h ago
+
+---
+
+**[Interested in AI workflow for filmmaking](https://www.reddit.com/r/artificial/comments/1rc2b2o/interested_in_ai_workflow_for_filmmaking/)**
+
+Hello, I currently work as a tech in film and television, specifically on the set design and art department side of things. I don’t want to start a hypothetical discussion on whether AI will take over film production, but for the purposes of this discussion, let’s assume that I believe it will. I want to stay ahead of the curve the best I can, or at least prepare myself enough so if things go south for people in the industry, I have the skill set to make AI work for me. I know I’m already pretty behind the eight ball here, but am curious where people think I should start. What kind of workflows and programs should I familiarize myself with? Are there any resources you’d recommend? I am willing to pay for education, though I would obviously prefer to teach myself if that is possible, and use money for the required subscriptions and tools. Thanks in advance for any advice you may have.
+
+5h ago
 
 ---
 
@@ -67,19 +83,11 @@ Interesting to see more India-focused AI products emerging. The language angle c
 
 ---
 
-**[Interested in AI workflow for filmmaking](https://www.reddit.com/r/artificial/comments/1rc2b2o/interested_in_ai_workflow_for_filmmaking/)**
-
-Hello, I currently work as a tech in film and television, specifically on the set design and art department side of things. I don’t want to start a hypothetical discussion on whether AI will take over film production, but for the purposes of this discussion, let’s assume that I believe it will. I want to stay ahead of the curve the best I can, or at least prepare myself enough so if things go south for people in the industry, I have the skill set to make AI work for me. I know I’m already pretty behind the eight ball here, but am curious where people think I should start. What kind of workflows and programs should I familiarize myself with? Are there any resources you’d recommend? I am willing to pay for education, though I would obviously prefer to teach myself if that is possible, and use money for the required subscriptions and tools. Thanks in advance for any advice you may have.
-
-4h ago
-
----
-
 **[Who is OpenClaw creator Peter Steinberger? The millennial developer caught the attention of Sam Altman and Mark Zuckerberg](https://www.reddit.com/r/artificial/comments/1rbpkm5/who_is_openclaw_creator_peter_steinberger_the/)**
 
 Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 12h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 14h ago
 
 ---
 
@@ -107,14 +115,6 @@ Scout AI is using technology borrowed from the AI industry to power lethal weapo
 
 ---
 
-**[How can a government actually stop or control AI?](https://www.reddit.com/r/artificial/comments/1rasu2g/how_can_a_government_actually_stop_or_control_ai/)**
-
-Seeking legal and technical answers. Working with some people on this question and we keep reaching a conclusion that it can't. That it's not possible. AI can exist anywhere in the world, governed under others' laws (or none at all). It can't be blocked since the internet can't technically, actually, block something. It can be accessed through countless channels, apps, or experiences. Is there a legitimate way in which AI can technically and truly be made safe or controlled? Important question for reasons we don't think everyone realizes. If the answer is "no" then politicians are effectively causing harm by pretending they can... They pander votes under false pretenses and they set a false sense of security that we'll be safe because they'll make laws to protect us. It's like passing a law requiring that fire not hurt us. Sure, pass the law, but it's not possible for it to be so.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,21 +123,13 @@ Seeking legal and technical answers. Working with some people on this question a
 
 The Pentagon's deal with Anthropic is in jeopardy due to the company's reservations about the use of its AI technology in the Maduro raid, highlighting the challenges of integrating AI into military operations.
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
 
 ---
 
-**[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
+**[Dems eyeing 2028 tap the brakes on AI data centers](https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers)**
 
-The New York Times • 1d ago
-
----
-
-**[Trump unveils ‘Tech Corps’ to promote American AI abroad](https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html)**
-
-As part of efforts to spread its global AI footprint and counter China, Washington has announced a new "tech corps."
-
-CNBC • 1h ago
+Axios • 4h ago
 
 ---
 
@@ -145,33 +137,49 @@ CNBC • 1h ago
 
 New subscription features on app for gay and bisexual men come with a price tag – from $109.99 a month in Australia to $349 in the US
 
-The Guardian • 39m ago
+The Guardian • 2h ago
 
 ---
 
-**[SK Hynix Boss Pledges to Boost Output of AI Memory Chips](https://www.bloomberg.com/news/articles/2026-02-23/sk-hynix-boss-pledges-to-boost-output-of-ai-memory-chips)**
+**[Thai Exports Jump Most in Four Years on AI-Led Electronics Boom](https://www.bloomberg.com/news/articles/2026-02-23/thai-exports-jump-most-in-four-years-on-ai-led-electronics-boom)**
 
-Bloomberg.com • 56m ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[AI artist Refik Anadol uses massive datasets and AI to create immersive works shown around the world](https://www.cbsnews.com/news/artificial-intelligence-creating-art-refik-anadol-60-minutes/)**
+**[As it ramps up push to fund AI bets, Meta makes a new play for agencies](https://digiday.com/marketing/as-it-ramps-up-push-to-fund-ai-bets-meta-makes-a-new-play-for-agencies/)**
 
-Art made with AI is selling for over $1 million and being embraced by some of the world's most prestigious museums, but critics question if it really belongs in those spaces.The art world is divided.
+The tech company is pitching a new agency team to independent agencies, dubbed the Agency Growth Collective.
 
-CBS News • 4h ago
+Digiday • 1h ago
+
+---
+
+**[Trump unveils ‘Tech Corps’ to promote American AI abroad](https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html)**
+
+As part of efforts to spread its global AI footprint and counter China, Washington has announced a new "tech corps."
+
+CNBC • 3h ago
+
+---
+
+**[The A.I. Evangelists on a Mission to Shake Up Japan](https://www.nytimes.com/2026/02/22/world/asia/japan-ai-politics-election.html)**
+
+The New York Times • 1d ago
 
 ---
 
 **[The AI productivity boom is not here (yet)](https://www.economist.com/finance-and-economics/2026/02/22/the-ai-productivity-boom-is-not-here-yet)**
 
-The Economist • 15h ago
+The Economist • 17h ago
 
 ---
 
-**[Dems eyeing 2028 tap the brakes on AI data centers](https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers)**
+**[When AI becomes a paintbrush, is it art?](https://www.cbsnews.com/news/when-ai-becomes-a-paintbrush-is-it-art/)**
 
-Axios • 2h ago
+Immerse yourself in an installation by Refik Anadol while debating how AI-generated creations stack up in the art world.
+
+CBS News • 6h ago
 
 ---
 
@@ -179,15 +187,7 @@ Axios • 2h ago
 
 Companies are seeking advice on how to provide energy to data centres and profit from artificial intelligence
 
-Financial Times • 23h ago
-
----
-
-**[English majors were mocked for years. Now they're gaining momentum in the AI job market.](https://www.businessinsider.com/ai-job-market-english-majors-humanities-demand-2026-2)**
-
-For years, English majors were mocked as useless. Now, AI is giving them some momentum in the job market, while computer science grads get disrupted.
-
-Business Insider • 18h ago
+Financial Times • 1d ago
 
 ---
 
@@ -283,7 +283,7 @@ Slandered by one AI robot and misquoted in a news article by another, US-based s
 
 📺 FRANCE 24 English
 
-👁️ 99K • 👍 2K • 💬 397 • ⏱️ 5:50 • 13h ago
+👁️ 99K • 👍 2K • 💬 397 • ⏱️ 5:50 • 15h ago
 
 ---
 
@@ -303,7 +303,7 @@ Create your AI Influencer: https://higgsfield.ai/ai-influencer?utm_source=baddie
 
 📺 Baddie In Business
 
-👁️ 6K • 👍 703 • 💬 50 • ⏱️ 9:24 • 11h ago
+👁️ 6K • 👍 703 • 💬 50 • ⏱️ 9:24 • 13h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 217,901 • ❤️ 897 • 2d ago
+⬇️ 217,901 • ❤️ 897 • 3d ago
 
 ---
 
@@ -471,7 +471,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 158 • 3h ago
+⬇️ 0 • ❤️ 158 • 4h ago
 
 ---
 
@@ -483,7 +483,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 14,728 • ❤️ 152 • 7h ago
+⬇️ 14,728 • ❤️ 152 • 8h ago
 
 ---
 
@@ -642,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.2k • 🔱 2.0k • 7m ago
+⭐ 17.2k • 🔱 2.0k • 1h ago
 
 ---
 
@@ -690,7 +690,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 331 • 9m ago
+⭐ 3.3k • 🔱 331 • 1h ago
 
 ---
 
@@ -700,7 +700,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.0k • 🔱 375 • 19h ago
+⭐ 3.0k • 🔱 375 • 21h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 183 • 7h ago
+⭐ 2.7k • 🔱 183 • 9h ago
 
 ---
 
@@ -730,7 +730,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.4k • 🔱 264 • 12h ago
+⭐ 2.4k • 🔱 264 • 13h ago
 
 ---
 

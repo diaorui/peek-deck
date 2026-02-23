@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T04:36:06.969729+00:00'
+updated: '2026-02-23T06:06:11.515795+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 04:36 UTC  
+**Last Updated:** February 23, 2026 at 06:06 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,858.96
+### $1,860.45
 
 ---
 
 ## Ethereum Chart
 
 **24h:** -5.7%  
-**7d:** -6.5%  
-**30d:** -34.0%  
-**90d:** -38.4%  
-**1y:** -25.9%  
+**7d:** -6.3%  
+**30d:** -33.8%  
+**90d:** -38.2%  
+**1y:** -25.7%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
+1d ago
+
+---
+
+**[Daily General Discussion February 23, 2026](https://www.reddit.com/r/ethereum/comments/1rc9j78/daily_general_discussion_february_23_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+4m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-6h ago
+8h ago
 
 ---
 
@@ -96,7 +104,7 @@ I was looking into staking, I invest on robinhood because it is easy and I do no
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -120,7 +128,7 @@ Some backstory In February 2016 — less than a year after Ethereum launched —
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-2d ago
+3d ago
 
 ---
 
@@ -135,14 +143,6 @@ Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agen
 **[Let your Agent Pay for Blockchain Data](https://www.reddit.com/r/ethereum/comments/1ra43dn/let_your_agent_pay_for_blockchain_data/)**
 
 Lobsters like block too You can use x402 for agents to pay and get access to blockchain data now. There’s no clean way for agents to access onchain data without API keys, accounts, or billing friction. Until now. With x402, agents can pay per request using stablecoins over HTTP, wallet in, data out. https://goldrush.dev/blog/goldrush-x402-blockchain-data-for-agents/
-
-2d ago
-
----
-
-**[Even the Ethereum Foundation is highlighting the same smart contract risks](https://www.reddit.com/r/ethereum/comments/1r9x3eh/even_the_ethereum_foundation_is_highlighting_the/)**
-
-There’s been a lot of talk lately about how fast teams are shipping contracts especially with AI-assisted “vibe coding.” Recently, the Ethereum Foundation highlighted the release of the OWASP Smart Contract Top 10, which outlines the most critical risks developers and security teams should be protecting against today. What stands out is how familiar many of these failure patterns still are: access control issues, logic flaws, unsafe assumptions, and upgrade risks. The tooling is getting better. The awareness is getting better. But the same classes of bugs keep showing up in production. Feels like the real challenge in 2026 isn’t whether we can write contracts faster it’s whether we can operate them safely at scale. Curious how others here are thinking about this balance between speed and security.
 
 2d ago
 
@@ -184,11 +184,9 @@ Yahoo Finance • 2d ago
 
 ---
 
-**[Ethereum Price Looks Bullish, But Only On The Inverted Chart](https://www.tradingview.com/news/newsbtc:43febd1f0094b:0-ethereum-price-looks-bullish-but-only-on-the-inverted-chart/)**
+**[Key facts: Ethereum shows oversold signals; staking gains traction; net deposits drop](https://www.tradingview.com/news/tradingview:b9e96be034161:0-key-facts-ethereum-shows-oversold-signals-staking-gains-traction-net-deposits-drop/)**
 
-Ethereum shows signs of strength, but the bullish picture only emerges on an inverted chart. On the standard view, the downtrend remains intact until key resistance is reclaimed, making the current optimism conditional.Inverted Structure Reinforces Ethereum Bearish HTF OutlookPresenting an inverted…
-
-TradingView • 1d ago
+TradingView • 6h ago
 
 ---
 
@@ -200,11 +198,27 @@ Decrypt • 1d ago
 
 ---
 
+**[XRP Ledger Dominates Tokenized U.S. Treasuries with 63% Market Control, Outpacing Ethereum and Solana](https://coinpaper.com/14813/xrp-ledger-dominates-tokenized-u-s-treasuries-with-63-market-control-outpacing-ethereum-and-solana)**
+
+XRP Ledger dominates tokenized U.S. Treasuries with 63% market share, outpacing Ethereum, Solana, and leading institutional adoption.
+
+Coinpaper • 23h ago
+
+---
+
 **[Ethereum under pressure: Founder sales, whale losses, and bearish odds collide](https://ambcrypto.com/ethereum-under-pressure-founder-sales-whale-losses-and-bearish-odds-collide/)**
 
 Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
 
-AMBCrypto • 5h ago
+AMBCrypto • 7h ago
+
+---
+
+**[Ethereum Analysis Shows Order Flow Divergence: Institutions Bullish While Retails Bearish](https://investinglive.com/Cryptocurrency/ethereum-order-flow-divergence-institutions-turn-net-long-while-retail-leans-bearish-20260222/)**
+
+This insight shows retails are Short but institutionals are Long. Find out the details of this new information and what it means.
+
+investingLive • 12h ago
 
 ---
 
@@ -213,22 +227,6 @@ AMBCrypto • 5h ago
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
-
----
-
-**[Ethereum Analysis Shows Order Flow Divergence: Institutions Bullish While Retails Bearish](https://investinglive.com/Cryptocurrency/ethereum-order-flow-divergence-institutions-turn-net-long-while-retail-leans-bearish-20260222/)**
-
-This insight shows retails are Short but institutionals are Long. Find out the details of this new information and what it means.
-
-investingLive • 11h ago
-
----
-
-**[ETHB: Everything We Know About BlackRock's New Ethereum Staking ETF](https://info.arkm.com/research/ethb-everything-we-know-about-blackrocks-new-ethereum-staking-etf)**
-
-BlackRock is undergoing preparations to launch its much-anticipated Ethereum staking ETF: ETHB. Here's everything we know so far
-
-Arkham | Research • 2d ago
 
 ---
 
@@ -242,7 +240,7 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 5K • 👍 258 • 💬 51 • ⏱️ 11:38 • 19h ago
+👁️ 5K • 👍 258 • 💬 51 • ⏱️ 11:38 • 21h ago
 
 ---
 
@@ -252,7 +250,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 6K • 👍 264 • 💬 46 • ⏱️ 16:36 • 7h ago
+👁️ 6K • 👍 264 • 💬 46 • ⏱️ 16:36 • 8h ago
 
 ---
 
@@ -282,7 +280,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 132 • 💬 8 • ⏱️ 5:45 • 16h ago
+👁️ 2K • 👍 132 • 💬 8 • ⏱️ 5:45 • 18h ago
 
 ---
 
@@ -292,7 +290,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 372 • 👍 77 • 💬 10 • ⏱️ 7:37 • 1h ago
+👁️ 372 • 👍 77 • 💬 10 • ⏱️ 7:37 • 2h ago
 
 ---
 
@@ -302,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 387 • 👍 20 • 💬 1 • ⏱️ 4:51 • 17h ago
+👁️ 387 • 👍 20 • 💬 1 • ⏱️ 4:51 • 18h ago
 
 ---
 
@@ -322,7 +320,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 2K • 👍 123 • ⏱️ 6:35 • 17h ago
+👁️ 2K • 👍 123 • ⏱️ 6:35 • 18h ago
 
 ---
 
@@ -332,7 +330,7 @@ O mercado cripto está operando em zona de MEDO EXTREMO. Com o Ethereum e o Bitc
 
 📺 Augusto Backes
 
-👁️ 19K • 👍 2K • 💬 153 • ⏱️ 26:44 • 6h ago
+👁️ 19K • 👍 2K • 💬 153 • ⏱️ 26:44 • 8h ago
 
 ---
 
