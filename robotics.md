@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T23:08:12.275843+00:00'
+updated: '2026-02-23T23:54:07.531101+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 23:08 UTC  
+**Last Updated:** February 23, 2026 at 23:54 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
-13h ago
+14h ago
+
+---
+
+**[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
+
+24m ago
 
 ---
 
@@ -50,7 +56,7 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 Jeff Cardenas, CEO of Apptronik, described how humanoid robotics could scale over the next five years. The framework was structured in three phases: Phase 1: Industrial environments such as logistics and manufacturing. Structured workflows, clearer safety boundaries, and measurable ROI make these environments the most practical starting point. Phase 2: Broader commercial settings including healthcare, hospitality, and retail. Increased human interaction and environmental variability introduce additional complexity. Phase 3: Home and assistive care. Considered a long-term objective rather than an initial deployment market. An updated Apollo has been operating internally for about a year, running commercial pilots and participating in a research partnership with Google’s Gemini Robotics.
 
-3h ago
+4h ago
 
 ---
 
@@ -66,15 +72,7 @@ We found this kit as a thrift store but it’s missing the instructions which ar
 
 Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
 
-14h ago
-
----
-
-**[Is anyone actually running pure end-to-end VLA on edge robots, or are we all just stuck optimizing the "LLM + Skills" middle ground?](https://www.reddit.com/r/robotics/comments/1rci5th/is_anyone_actually_running_pure_endtoend_vla_on/)**
-
-Hey folks, My team is building a spherical ROS 2 robot and we're currently having a massive internal architectural debate. I'd love a reality check from people actually deploying embodied AI on edge hardware. Right now, we've moved away from the traditional, rigid FSM (Finite State Machine) and hardcoded if-else loops for intent parsing. Instead, we are running what we call an "LLM + Skills" architecture. Here is our current stack: We use a lightweight local VLM (1B/2B parameters) purely as a high-level dispatcher/router. It takes in camera/audio input, parses the user's intent, and then calls pre-defined ROS 2 actions/services (e.g., Maps_to(), play_expression(), move_chassis()). It works. It's predictable. It's safe. But honestly, it feels like a stepping stone. At its core, it still feels like a glorified Voice Assistant glued to a traditional state machine. The holy grail everyone talks about right now is Pure VLA (Vision-Language-Action) — pumping pixels and text directly into a model and having it spit out cmd_vel or motor torques directly, bypassing traditional planners completely. My question to the community: Is anyone actually deploying pure end-to-end VLA on real-world edge hardware with any degree of safety and reliability? Or is the "LLM + Skills" hybrid approach the actual practical ceiling for open-source and commercial edge robots right now due to compute limits? Would love to hear how "deep" your models are actually controlling the hardware vs just acting as a fancy NLU layer.
-
-9h ago
+15h ago
 
 ---
 
@@ -83,6 +81,14 @@ Hey folks, My team is building a spherical ROS 2 robot and we're currently havin
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
 1d ago
+
+---
+
+**[Hydac HY TTC 580 Controller Bulk Supply](https://www.reddit.com/r/robotics/comments/1rcxpjf/hydac_hy_ttc_580_controller_bulk_supply/)**
+
+I recently acquired a lot of new-in-box HYDAC HY-TTC 580 mobile controllers (2023 production date) from a discontinued autonomous equipment program. These are ruggedized mobile controllers designed for off-highway and harsh environment applications, supporting functional safety standards (SIL2, PL d, ASIL C). Originally deployed in autonomous agricultural equipment, but applicable to construction machinery, hydraulic systems, EV mobile platforms, and other industrial automation builds. These units typically sell new through manufacturer/distribution channels for several thousand dollars each depending on configuration. I have multiple units available and am open to quantity discounts. For bulk buyers, I can offer pricing around $300 per unit depending on volume. If anyone here works in mobile automation, robotics, hydraulic controls, or prototyping and has interest, feel free to message me. I’m happy to share full model details and spec sheet.
+
+25m ago
 
 ---
 
@@ -98,15 +104,7 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
 
-13h ago
-
----
-
-**[Inside Figure's San Jose headquarters](https://www.reddit.com/r/robotics/comments/1rbhva5/inside_figures_san_jose_headquarters/)**
-
-From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
-
-1d ago
+14h ago
 
 ---
 
@@ -122,14 +120,6 @@ The Guardian • 5d ago
 
 ---
 
-**[Tesollo commercializes its lightweight, compact robotic hand for humanoids](https://www.therobotreport.com/tesollo-commercializes-its-lightweight-compact-robotic-hand-for-humanoids/)**
-
-Tesollo said its DG-5F-S robotic hand supports precise grasping and manipulation motions required for humanoid robots.
-
-The Robot Report • 4h ago
-
----
-
 **[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
@@ -142,7 +132,7 @@ KPAX News • 21h ago
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -166,7 +156,7 @@ South China Morning Post • 1d ago
 
 Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global shared intelligent electric mobi...
 
-Business Wire • 22h ago
+Business Wire • 23h ago
 
 ---
 
@@ -186,9 +176,17 @@ NBC News • 1d ago
 
 ---
 
-**[Post From Community: Milwaukee Robotics Academy presents: 2026 Milwaukee Robotics City Championships](https://milwaukeenns.org/2026/02/23/post-from-community-milwaukee-robotics-academy-presents-2026-milwaukee-robotics-city-championships/)**
+**[EngineAI’s agile humanoid stuns with advanced stability and control](https://interestingengineering.com/ai-robotics/engineai-humanoid-robot-impresses-with-quick-recovery)**
 
-Milwaukee Neighborhood News Service • 5h ago
+EngineAI’s PM01 humanoid shows advanced balance, quick recovery, and humanlike movement in a new demo video.
+
+Interesting Engineering • 13h ago
+
+---
+
+**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
+
+Tech Xplore • 3d ago
 
 ---
 
@@ -222,7 +220,7 @@ Following their performance on the Spring Festival Gala stage, where humanoid ro
 
 📺 CGTN
 
-👁️ 30K • 👍 1K • 💬 229 • ⏱️ 2:14 • 10h ago
+👁️ 30K • 👍 1K • 💬 229 • ⏱️ 2:14 • 11h ago
 
 ---
 
@@ -242,7 +240,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 40K • 👍 912 • 💬 119 • ⏱️ 14:16 • 23h ago
+👁️ 40K • 👍 912 • 💬 119 • ⏱️ 14:16 • 1d ago
 
 ---
 
@@ -272,7 +270,7 @@ Join the NextGen AI Community for early access, faster updates, and deeper AI & 
 
 📺 NextGen AI
 
-👁️ 38K • 👍 678 • 💬 163 • ⏱️ 9:42 • 4d ago
+👁️ 38K • 👍 678 • 💬 163 • ⏱️ 9:42 • 5d ago
 
 ---
 
@@ -292,7 +290,7 @@ Humanoid robot clusters are the new drone swarms. Chinese robotics leader Unitre
 
 📺 Kalil 4.0
 
-👁️ 658 • 👍 47 • 💬 7 • ⏱️ 0:59 • 2h ago
+👁️ 658 • 👍 47 • 💬 7 • ⏱️ 0:59 • 3h ago
 
 ---
 

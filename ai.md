@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-23T23:08:12.259617+00:00'
+updated: '2026-02-23T23:54:07.513598+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 23, 2026 at 23:08 UTC  
+**Last Updated:** February 23, 2026 at 23:54 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 7h ago
 
 ---
 
@@ -51,25 +51,11 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 ---
 
-**[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
+**[IBM stock tumbles 10% after Anthropic launches COBOL AI tool](https://www.reddit.com/r/artificial/comments/1rcxj45/ibm_stock_tumbles_10_after_anthropic_launches/)**
 
-🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 1h ago
+Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falling 10%, after Anthropic announced an AI tool designed to streamline COBOL code modernization. Accenture (NYSE:ACN) and Cognizant Technology Solutions (NASDAQ:CTSH) also declined following the news.
 
----
-
-**[Inference at 16k tokens/second](https://www.reddit.com/r/artificial/comments/1rcup6s/inference_at_16k_tokenssecond/)**
-
-This is the most insane thing I have seen so far. 17k tokens/second. I just tried their chatbot from taalas.com. I asked it to do a comparison between Nvidia, cerebras, groq and taalas. I got the response in 0.058s and token output was 15k. This is some godly speed with a llama3 8B param model. If they launch a developer kit, I will surely buy it. What do you guys think about this?
-
-🔗 [chatjimmy.ai](https://chatjimmy.ai/) • 1h ago
-
----
-
-**[The left is missing out on AI | Transformer News](https://www.reddit.com/r/artificial/comments/1rctw1g/the_left_is_missing_out_on_ai_transformer_news/)**
-
-What? Transformer News argues that the political left has largely ignored the implications of artificial intelligence, despite its potential to significantly impact society, with notable exceptions like Bernie Sanders and Cory Doctorow who have raised concerns. So What? This matters to progressive communicators because engaging with AI's societal impacts could provide opportunities to shape policy and protect civil liberties, ensuring that technological advancements do not exacerbate existing inequalities. Full article: https://www.transformernews.ai/p/the-left-is-missing-out-on-ai-sanders-doctorow-bender-bores?utm_source=semafor
-
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/biohackers-are-pro-nicotine#ai) • 2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 32m ago
 
 ---
 
@@ -77,7 +63,15 @@ What? Transformer News argues that the political left has largely ignored the im
 
 I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
 
-17h ago
+18h ago
+
+---
+
+**[Inference at 16k tokens/second](https://www.reddit.com/r/artificial/comments/1rcup6s/inference_at_16k_tokenssecond/)**
+
+This is the most insane thing I have seen so far. 17k tokens/second. I just tried their chatbot from taalas.com. I asked it to do a comparison between Nvidia, cerebras, groq and taalas. I got the response in 0.058s and token output was 15k. This is some godly speed with a llama3 8B param model. If they launch a developer kit, I will surely buy it. What do you guys think about this?
+
+🔗 [chatjimmy.ai](https://chatjimmy.ai/) • 2h ago
 
 ---
 
@@ -85,7 +79,7 @@ I’ve been building an embodied AI system that can physically move around and i
 
 I am saddened by this I live in U.S
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +95,7 @@ I am saddened by this I live in U.S
 
 I've written 365+ prompts for enterprise use and the pattern is clear: structured prompts with boring, predictable formatting outperform creative or "clever" prompts every single time especially for professional settings. What do I mean by structure: Every prompt I've built follows the same skeleton: - Who are you ? (role/context) - What do you need? (specific task) - Constraints (what's in/out of scope) - Output format (exactly how you want it delivered) Why "creative" prompts fail in enterprise: They're not repeatable : If a clever prompt works for me but my colleague can't modify it for their use case, it's useless at scale. They're hard to debug : When a structured prompt gives bad output, you can identify which section needs fixing. When a creative prompt fails, you're starting from scratch. They don't transfer across models : A prompt that exploits a specific model's quirks breaks when you switch from GPT-4.1 to Claude to Copilot. Structure-based prompts transfer cleanly. They can't be governed : IT and compliance teams need to review and approve prompt templates. "Just ask it creatively" isn't a policy. The boring truth about prompt engineering: It's not engineering and it's not an art. It's technical writing. The same skills that make good documentation make good prompts: clarity, specificity, structure, and knowing your audience. The best prompt engineers I've met aren't AI researchers they're former technical writers, business analysts, and process designers. Am I wrong to push for standardization over creativity?
 
-14h ago
+15h ago
 
 ---
 
@@ -113,81 +107,91 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 ---
 
+**[Claude Code creator says these are the 3 principles he shares with every member of his team](https://www.reddit.com/r/artificial/comments/1rcqy2i/claude_code_creator_says_these_are_the_3/)**
+
+One of the principles Boris Cherny sets for his team at Anthropic forces them to really rely on Claude to get the job done.
+
+🔗 [Business Insider](https://www.businessinsider.com/claude-creator-three-principles-boris-cherny-2026-2?utm_source=reddit&utm_medium=social&utm_campaign=BusinessInsider-post-artificial) • 4h ago
+
+---
+
 ---
 
 ## Google News: "ai"
-
-**[Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears](https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html)**
-
-Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.
-
-CNBC • 6h ago
-
----
 
 **[Anthropic Education Report: The AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)**
 
 Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
 
-Anthropic • 7h ago
+Anthropic • 8h ago
 
 ---
 
-**[SPONSORED 95% of AI pilots flop — General Assembly has a solution](https://www.axios.com/sponsored/95-of-ai-pilots-flop-general-assembly-has-a-solution)**
+**[Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears](https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html)**
 
-Axios • 1h ago
+Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.
 
----
-
-**[With AI, investor loyalty is (almost) dead: at least a dozen OpenAI VCs now also back Anthropic](https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/)**
-
-While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.
-
-TechCrunch • 1h ago
+CNBC • 7h ago
 
 ---
 
-**[This economic idea transfixed Wall Street and Washington. It may be a mirage.](https://www.washingtonpost.com/technology/2026/02/23/ai-economic-growth-gdp-mirage/)**
+**[Chinese AI companies 'distilled' Claude to improve own models, Anthropic says](https://www.reuters.com/world/china/chinese-companies-used-claude-improve-own-models-anthropic-says-2026-02-23/)**
 
-Massive investment in AI contributed “basically zero” to U.S. economic growth last year, Goldman Sachs has calculated.
-
-The Washington Post • 5h ago
+Reuters • 5h ago
 
 ---
 
-**[‘A.I. Literacy’ Is the New Drivers’ Ed at This Newark School](https://www.nytimes.com/2026/02/23/technology/ai-literacy-newark-school-chatbots.html)**
+**[Top AI firm alleges Chinese labs used 24K fake accounts to siphon US tech](https://www.foxnews.com/politics/top-ai-firm-alleges-chinese-labs-used-24k-fake-accounts-siphon-us-tech)**
 
-The New York Times • 8h ago
+Chinese AI labs allegedly used 24,000 fraudulent accounts to extract capabilities from Anthropic's Claude chatbot in coordinated "distillation" attacks.
+
+Fox News • 6h ago
 
 ---
 
-**[Software, Payment Shares Sink After Citrini Post on AI Risks](https://finance.yahoo.com/news/software-payments-shares-tumble-citrini-162303649.html)**
+**[US AI giant accuses Chinese rivals of mass data theft](https://www.theguardian.com/technology/2026/feb/23/us-ai-anthropic-china)**
+
+Anthropic says three Chinese firms used ‘distillation’ technique to extract information from its Claude chatbot
+
+The Guardian • 39m ago
+
+---
+
+**[Parents encouraged to watch how kids use AI as technology spreads, experts say](https://www.cbsnews.com/pittsburgh/news/parents-kids-companion-ai/)**
+
+Families are grappling with so many issues related to technology, and AI is developing so quickly that it can be hard to keep up.
+
+CBS News • 26m ago
+
+---
+
+**[Dow tumbles more than 800 points as tariff uncertainty and AI disruption fears roil markets](https://www.cnn.com/2026/02/23/investing/us-stocks-trump-tariffs)**
+
+Stocks fell, gold moved higher and volatility picked up Monday as uncertainty about President Donald Trump’s new proposed tariffs and nerves about artificial intelligence weighed on Wall Street.
+
+CNN • 7h ago
+
+---
+
+**[The Viral Citrini Substack Post That Has Sparked New AI Worries on Wall Street](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026/card/the-citrini-substack-selloff-70cWx0scioiLradyuTRa?gaa_at=eafs&gaa_n=AWEtsqdzLppemqZRPMm8DbSCtvK_1E38x1XSXY9DIyYfxR6uDH6Ctk7Z2jxU&gaa_ts=699cec03&gaa_sig=nV1fKTdmtK9kV1OsPt6LVS18wahbiGTH6LMnnDMoLfmjSYvcAA7rgohlbIVnljJgukiTnJNUqHkOVWQgo_AbVg%3D%3D)**
+
+WSJ • 14h ago
+
+---
+
+**[An AI Thought Experiment on Substack Is Sending The Stock Market Spiraling](https://gizmodo.com/an-ai-thought-experiment-on-substack-is-sending-the-stock-market-spiraling-2000725601)**
+
+AI is coming for everything, Wall Street seems to believe.
+
+Gizmodo • 28m ago
+
+---
+
+**[Taleb, Citrini Fuel AI Scare Trade as IBM Drops Most in 25 Years](https://finance.yahoo.com/news/software-payments-shares-tumble-citrini-162303649.html)**
 
 DoorDash Inc., American Express Co., KKR & Co Inc. and Blackstone Inc all slumped more than 8%.  Shares of other companies name-checked in the article, including Uber Technologies Inc., Mastercard Inc., Visa Inc., Capital One Financial Corp. and Apollo Global Management Inc. were all lower by at least 3%.
 
-Yahoo Finance • 4h ago
-
----
-
-**[A Viral Blog Post Slams Stocks. Fear About AI Is Real.](https://www.barrons.com/articles/ai-blog-post-stocks-fall-cf25d815?gaa_at=eafs&gaa_n=AWEtsqe9bRdNGTHtdyBgUoplj4OAtWXfREYuVp_1UBxOX6MXujp8RVPEATdo&gaa_ts=699cd40f&gaa_sig=rUDkrEqNqHdAGy2oEsZWExepsaFv4FmmDhbp7GvsXc8qMlVYT7AG7YYFw9qIBsEbjJgz7Dn6vwNsvOmylQHhJQ%3D%3D)**
-
-Barron's • 3h ago
-
----
-
-**[How AI agents could destroy the economy](https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/)**
-
-Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.
-
-TechCrunch • 8h ago
-
----
-
-**[If AI makes human labor obsolete, who decides who gets to eat?](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed)**
-
-Amid talk of artificial intelligence taking our jobs, the big unasked question is: how will we be fed?
-
-The Guardian • 5h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -199,13 +203,13 @@ The Guardian • 5h ago
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 776 • 💬 668 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 781 • 💬 677 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 511 • 💬 404 • 15h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 520 • 💬 410 • 16h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -213,7 +217,7 @@ I’m seeking assistance regarding a sudden restriction on my Google AI Ultra ac
 
 Websites I personally found that are completely generated by AI. Pull requests welcome. - alvi-se/ai-ublock-blacklist
 
-⬆️ 292 • 💬 124 • 2d ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
+⬆️ 292 • 💬 125 • 2d ago • [GitHub](https://github.com/alvi-se/ai-ublock-blacklist)
 
 ---
 
@@ -221,7 +225,7 @@ Websites I personally found that are completely generated by AI. Pull requests w
 
 Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. - tnm/zclaw
 
-⬆️ 276 • 💬 147 • 2d ago • [GitHub](https://github.com/tnm/zclaw)
+⬆️ 276 • 💬 149 • 2d ago • [GitHub](https://github.com/tnm/zclaw)
 
 ---
 
@@ -229,7 +233,7 @@ Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an E
 
 BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled binaries of real open-source servers, proxies, and network infrastructure.
 
-⬆️ 238 • 💬 92 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
+⬆️ 238 • 💬 93 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
 
 ---
 
@@ -238,6 +242,15 @@ BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled bina
 AI agents are good at doing one thing at a time. Give Claude a focused task and it performs. But real work isn’t one task. It’s a tree of tasks with dependencies, parallelism, and context that need...
 
 ⬆️ 154 • 💬 80 • 2d ago • [June Kim](https://www.june.kim/cord)
+
+---
+
+**[FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://news.ycombinator.com/item?id=47129361)**
+
+My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
+During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
+
+⬆️ 153 • 💬 117 • 2h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 
 ---
 
@@ -253,7 +266,7 @@ We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. 
 
 Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
 
-⬆️ 116 • 💬 47 • 14h ago • [LLM Timeline](https://llm-timeline.com/)
+⬆️ 130 • 💬 48 • 14h ago • [LLM Timeline](https://llm-timeline.com/)
 
 ---
 
@@ -262,14 +275,6 @@ Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT �
 A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強のデータプラットフォーム「パランティア」の中核概念である『オントロジー』の戦略と実装を解き明かすOSS書籍プロジェクト。 - Leading-AI-IO/palantir-ontology-strategy
 
 ⬆️ 84 • 💬 59 • 1d ago • [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy)
-
----
-
-**[AIs can generate near-verbatim copies of novels from training data](https://news.ycombinator.com/item?id=47123805)**
-
-LLMs memorize more training data than previously thought.
-
-⬆️ 78 • 💬 96 • 7h ago • [Ars Technica](https://arstechnica.com/ai/2026/02/ais-can-generate-near-verbatim-copies-of-novels-from-training-data/)
 
 ---
 
@@ -293,7 +298,7 @@ Thank you Wildgrain for sponsoring. Visit http://wildgrain.com/EMBERS and use co
 
 📺 Ashley Embers
 
-👁️ 22K • 👍 1K • 💬 283 • ⏱️ 31:25 • 6h ago
+👁️ 22K • 👍 1K • 💬 283 • ⏱️ 31:25 • 7h ago
 
 ---
 
@@ -303,7 +308,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 40K • 👍 912 • 💬 119 • ⏱️ 14:16 • 23h ago
+👁️ 40K • 👍 912 • 💬 119 • ⏱️ 14:16 • 1d ago
 
 ---
 
@@ -373,7 +378,7 @@ I made ai create my very own all in one AI webapp! This was definitely interesti
 
 📺 tef
 
-👁️ 3K • 👍 481 • 💬 120 • ⏱️ 8:46 • 3h ago
+👁️ 3K • 👍 481 • 💬 120 • ⏱️ 8:46 • 4h ago
 
 ---
 
@@ -449,7 +454,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 163 • 21h ago
+⬇️ 0 • ❤️ 163 • 22h ago
 
 ---
 
@@ -652,7 +657,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 `TypeScript` `ai` `cuda` `mlx` `qwen3-tts` `qwen3-tts-ui`
 
-⭐ 10.5k • 🔱 1.1k • 2h ago
+⭐ 10.5k • 🔱 1.1k • 3h ago
 
 ---
 
@@ -670,7 +675,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.3k • 🔱 643 • 11h ago
+⭐ 5.3k • 🔱 643 • 12h ago
 
 ---
 
@@ -680,7 +685,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.9k • 🔱 183 • 20d ago
+⭐ 3.9k • 🔱 183 • 21d ago
 
 ---
 
@@ -690,7 +695,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 334 • 18h ago
+⭐ 3.4k • 🔱 334 • 19h ago
 
 ---
 
@@ -710,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 186 • 4h ago
+⭐ 2.7k • 🔱 186 • 5h ago
 
 ---
 

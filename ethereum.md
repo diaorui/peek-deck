@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T23:08:12.272894+00:00'
+updated: '2026-02-23T23:54:07.527895+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
 - news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 23:08 UTC  
+**Last Updated:** February 23, 2026 at 23:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,863.29
+### $1,864.93
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** -6.3%  
-**30d:** -33.8%  
-**90d:** -38.2%  
-**1y:** -25.7%  
+**24h:** -3.9%  
+**7d:** -6.9%  
+**30d:** -34.2%  
+**90d:** -38.6%  
+**1y:** -26.1%  
 
 ---
 
@@ -78,7 +78,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 **[Telegram bot for audit contest updates (Sherlock, Code4rena, Cantina, Immunefi)](https://www.reddit.com/r/ethereum/comments/1rctimq/telegram_bot_for_audit_contest_updates_sherlock/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,7 @@ Simple little tool for encoding function calls according to the eth abi. I've se
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 10h ago
 
 ---
 
@@ -154,7 +154,7 @@ Some backstory In February 2016 — less than a year after Ethereum launched —
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 12h ago
 
 Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -170,7 +170,7 @@ Yahoo Finance • 9h ago
 
 Ethereum founder Vitalik Buterin has been selling ETH in the last few days as the second-largest crypto asset continues its fall.
 
-Decrypt • 5h ago
+Decrypt • 6h ago
 
 ---
 
@@ -178,7 +178,15 @@ Decrypt • 5h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
+
+---
+
+**[Bitmine ups Ethereum treasury stake to 4.42 million ETH, now holds 3.66% of supply](https://www.theblock.co/post/390843/bitmine-ups-ethereum-treasury-stake-to-4-42-million-eth-now-holds-3-66-of-supply)**
+
+Bitmine increased holdings to 4.42 million ETH, controlling 3.66% of supply and generating $171 million staking revenue.
+
+The Block • 8h ago
 
 ---
 
@@ -190,12 +198,6 @@ CoinDesk • 9h ago
 
 ---
 
-**[BitMine Stock Defies the ‘Crypto Winter’ as Tom Lee Secures 3.7% of All Ethereum](https://www.tipranks.com/news/bitmine-stock-defies-the-crypto-winter-as-tom-lee-secures-3-7-of-all-ethereum)**
-
-TipRanks • 6h ago
-
----
-
 **[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
 
 The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
@@ -204,25 +206,25 @@ Fortune • 3d ago
 
 ---
 
-**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1771877700)**
+**[AI Explains What’s Driving The Ethereum Price Volatility, Can It Rise Above $3,000 Again?](https://www.tradingview.com/news/newsbtc:e40cfa5f2094b:0-ai-explains-what-s-driving-the-ethereum-price-volatility-can-it-rise-above-3-000-again/)**
 
-Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+A recent technical breakdown shared by crypto analyst Trader Tardigrade added a notable outlook to the discussion of how fast Ethereum can enter into a bull run or if there’s more consolidation ahead. In his post on X, he compared Ethereum against the US Dollar Index and then consulted Perplexity A…
 
-Polymarket • 1d ago
-
----
-
-**[🔷 Analyst Predicts The Ethereum Price Bottom With A Marked Path To $15,000](https://www.binance.com/en/square/post/294795991625314)**
-
-Binance • 7h ago
+TradingView • 5h ago
 
 ---
 
-**[Bitcoin Quantum Threat Takes Center Stage at Ethereum Conference](https://decrypt.co/358784/bitcoin-quantum-threat-center-stage-ethereum-conference)**
+**[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
 
-At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
+Binance • 14h ago
 
-Decrypt • 2d ago
+---
+
+**[BNP Paribas Asset Management pilots tokenized MMF issuance on Ethereum](https://www.ledgerinsights.com/bnp-paribas-asset-management-pilots-tokenized-mmf-issuance-on-ethereum/)**
+
+BNP Paribas Asset Management (BNPP AM) has issued a tokenized share class of an existing money market fund (MMF) on the Ethereum blockchain. The issuance
+
+ledgerinsights.com • 9h ago
 
 ---
 
@@ -236,7 +238,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 122 • 💬 38 • ⏱️ 14:34 • 10h ago
+👁️ 3K • 👍 122 • 💬 38 • ⏱️ 14:34 • 11h ago
 
 ---
 
@@ -246,7 +248,7 @@ BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 3K • 👍 153 • 💬 43 • ⏱️ 22:08 • 3h ago
+👁️ 3K • 👍 153 • 💬 43 • ⏱️ 22:08 • 4h ago
 
 ---
 
@@ -256,7 +258,7 @@ What if the next rate cut isn't the beginning of another tightening cycle… but
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 154 • 💬 11 • ⏱️ 19:20 • 6h ago
+👁️ 2K • 👍 154 • 💬 11 • ⏱️ 19:20 • 7h ago
 
 ---
 
@@ -276,7 +278,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 2K • 👍 107 • 💬 25 • ⏱️ 1:23:36 • 11h ago
+👁️ 2K • 👍 107 • 💬 25 • ⏱️ 1:23:36 • 12h ago
 
 ---
 
@@ -286,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 204 • 👍 17 • 💬 8 • ⏱️ 6:12 • 2h ago
+👁️ 204 • 👍 17 • 💬 8 • ⏱️ 6:12 • 3h ago
 
 ---
 
@@ -296,7 +298,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 142 • 💬 4 • ⏱️ 6:00 • 12h ago
+👁️ 2K • 👍 142 • 💬 4 • ⏱️ 6:00 • 13h ago
 
 ---
 
@@ -326,7 +328,7 @@ Kalshi is pricing in a potential major Ethereum drawdown this year. In this vide
 
 📺 Smart Money Tracking
 
-👁️ 262 • 👍 30 • 💬 7 • ⏱️ 27:22 • 3h ago
+👁️ 262 • 👍 30 • 💬 7 • ⏱️ 27:22 • 4h ago
 
 ---
 
