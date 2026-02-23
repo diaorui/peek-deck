@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-23T11:41:01.697213+00:00'
+updated: '2026-02-23T13:07:54.215620+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - news
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 23, 2026 at 11:41 UTC  
+**Last Updated:** February 23, 2026 at 13:07 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Researchers generated images from noise, using orders of magnitude less energy than current generative AI models require.
 
-🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 8h ago
+🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
 
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 18h ago
+🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 19h ago
 
 ---
 
@@ -57,7 +57,7 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
 
-5h ago
+7h ago
 
 ---
 
@@ -65,7 +65,23 @@ I’ve been building an embodied AI system that can physically move around and i
 
 I've written 365+ prompts for enterprise use and the pattern is clear: structured prompts with boring, predictable formatting outperform creative or "clever" prompts every single time especially for professional settings. What do I mean by structure: Every prompt I've built follows the same skeleton: - Who are you ? (role/context) - What do you need? (specific task) - Constraints (what's in/out of scope) - Output format (exactly how you want it delivered) Why "creative" prompts fail in enterprise: They're not repeatable : If a clever prompt works for me but my colleague can't modify it for their use case, it's useless at scale. They're hard to debug : When a structured prompt gives bad output, you can identify which section needs fixing. When a creative prompt fails, you're starting from scratch. They don't transfer across models : A prompt that exploits a specific model's quirks breaks when you switch from GPT-4.1 to Claude to Copilot. Structure-based prompts transfer cleanly. They can't be governed : IT and compliance teams need to review and approve prompt templates. "Just ask it creatively" isn't a policy. The boring truth about prompt engineering: It's not engineering and it's not an art. It's technical writing. The same skills that make good documentation make good prompts: clarity, specificity, structure, and knowing your audience. The best prompt engineers I've met aren't AI researchers they're former technical writers, business analysts, and process designers. Am I wrong to push for standardization over creativity?
 
-3h ago
+4h ago
+
+---
+
+**[Sovereignty in a System Prompt](https://www.reddit.com/r/artificial/comments/1rcgp9r/sovereignty_in_a_system_prompt/)**
+
+Your favourite ROP gadget
+
+🔗 [pop.rdi.sh](https://pop.rdi.sh/sovereignty-in-a-system-prompt/) • 11m ago
+
+---
+
+**[xAI's Grok development was delayed to keep its Baldur's Gate knowledge up to scratch, says insider report](https://www.reddit.com/r/artificial/comments/1rcg6zm/xais_grok_development_was_delayed_to_keep_its/)**
+
+xAI reportedly delayed a Grok model to improve Baldur's Gate knowledge. Grok is also focusing on playing high-level League of Legends.
+
+🔗 [PC Guide](https://www.pcguide.com/news/xais-grok-development-was-delayed-to-keep-its-baldurs-gate-knowledge-up-to-scratch-says-insider-report/) • 36m ago
 
 ---
 
@@ -73,7 +89,7 @@ I've written 365+ prompts for enterprise use and the pattern is clear: structure
 
 Hello, I currently work as a tech in film and television, specifically on the set design and art department side of things. I don’t want to start a hypothetical discussion on whether AI will take over film production, but for the purposes of this discussion, let’s assume that I believe it will. I want to stay ahead of the curve the best I can, or at least prepare myself enough so if things go south for people in the industry, I have the skill set to make AI work for me. I know I’m already pretty behind the eight ball here, but am curious where people think I should start. What kind of workflows and programs should I familiarize myself with? Are there any resources you’d recommend? I am willing to pay for education, though I would obviously prefer to teach myself if that is possible, and use money for the required subscriptions and tools. Thanks in advance for any advice you may have.
 
-11h ago
+12h ago
 
 ---
 
@@ -81,7 +97,7 @@ Hello, I currently work as a tech in film and television, specifically on the se
 
 Interesting to see more India-focused AI products emerging. The language angle could be a strong differentiator if executed well.
 
-🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 8h ago
+🔗 [techputs](https://techputs.com/sarvam-indus-ai-chat-app-india-launch/) • 10h ago
 
 ---
 
@@ -95,23 +111,7 @@ Interesting to see more India-focused AI products emerging. The language angle c
 
 Steinberger made $100M off his first company and quit coding. Now he’s back to show the world the “magic” of agentic AI.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 19h ago
-
----
-
-**[Lawyer says Google shut down his Gmail, Voice and Photos after NotebookLM upload](https://www.reddit.com/r/artificial/comments/1raulde/lawyer_says_google_shut_down_his_gmail_voice_and/)**
-
-His case highlights a broader issue as U.S.-based AI tools block analysis of sensitive public records, including documents from the Epstein files.
-
-🔗 [Discrepancy Report](https://discrepancyreport.com/lawyer-says-google-shut-down-his-gmail-voice-and-photos-after-notebooklm-upload/) • 1d ago
-
----
-
-**[Ollama 0.17 released with improved OpenClaw onboarding](https://www.reddit.com/r/artificial/comments/1rba9ie/ollama_017_released_with_improved_openclaw/)**
-
-The open-source ollama project that makes it easy to get up and running with a variety of LLMs under Windows, macOS, and Linux is out with a new release
-
-🔗 [phoronix.com](https://www.phoronix.com/news/ollama-0.17) • 1d ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/openclaw-creator-peter-steinberger-millennial-075900835.html) • 21h ago
 
 ---
 
@@ -121,7 +121,7 @@ The open-source ollama project that makes it easy to get up and running with a v
 
 **[Dems eyeing 2028 tap the brakes on AI data centers](https://www.axios.com/2026/02/22/democrats-2028-retreat-ai-data-centers)**
 
-Axios • 3h ago
+Axios • 14h ago
 
 ---
 
@@ -129,45 +129,37 @@ Axios • 3h ago
 
 On the latest episode of Equity, we debated what’s next for the creator economy, and whether there will be any room for the next generation of creators to stand out.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
-**[If AI makes human labor obsolete, who decides who gets to eat?](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed)**
+**[Wells Fargo upgrades Google-parent Alphabet, says it has '3 key traits of AI winner'](https://www.cnbc.com/2026/02/23/wells-fargo-upgrades-google-parent-alphabet-says-it-has-3-key-traits-of-ai-winner.html)**
 
-Amid talk of artificial intelligence taking our jobs, the big unasked question is: how will we be fed?
+Analyst Ken Gawrelski upgraded the Google and YouTube parent to overweight.
 
-The Guardian • 41m ago
-
----
-
-**[Answers to FAQs about AI data centers, including water, energy usage](https://www.jsonline.com/story/news/local/wisconsin/2026/02/23/ai-data-centers-wisconsin-vantage-janesville-caledonia/88763836007/)**
-
-Journal Sentinel readers sent more than 300 questions about data centers in Wisconsin. Here is a summary of the most common questions and answers.
-
-Milwaukee Journal Sentinel • 36m ago
+CNBC • 1h ago
 
 ---
 
-**[AI chipmaker Nvidia to post Q4 earnings this week: What to expect](https://finance.yahoo.com/video/ai-chipmaker-nvidia-post-q4-110013996.html)**
+**[How Staying Small Became AI Startups’ Biggest Flex](https://www.wsj.com/articles/how-staying-small-became-ai-startups-biggest-flex-ec127320?gaa_at=eafs&gaa_n=AWEtsqd-rPW2bLH9C4xlGiJg_Olwj_yNvoJScZzeqUMpQAPi_cutTUGbIMK0&gaa_ts=699c548b&gaa_sig=Vn5wncJu1__X-Bzy8urF2enSJpDKSjiv_Ez4MOV4mknf-Viu8P_5T7YTk8ahj_zqLNaz-69alkgbPS4ecJ_8HQ%3D%3D)**
 
-Nvidia (NVDA) is scheduled to release its fourth quarter earnings results on Wednesday, February 25. But will it be all sunshine and superconductors for the AI chipmaker this week as the broader tech sector continues to recover from the software sell-off sparked by AI fears earlier in the month? Winthrop Capital CIO Adam Coons joins Yahoo Finance Senior Reporters Brooke DiPalma and Ines Ferré in commenting on what Wall Street will be looking for in Nvidia's earnings results and whether investors expect software stocks to bounce back. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
-
-Yahoo Finance • 40m ago
+The Wall Street Journal • 1h ago
 
 ---
 
-**[Trump unveils ‘Tech Corps’ to promote American AI abroad](https://www.cnbc.com/2026/02/23/us-launch-peace-corps-tech-corps-india-export-ai-stack-sovereignty-counter-china.html)**
+**[How a poet uses AI to write and why her work is now at MoMA](https://www.scientificamerican.com/article/how-a-poet-uses-ai-to-write-and-why-her-work-is-now-at-moma/)**
 
-As part of efforts to spread its global AI footprint and counter China, Washington has announced a new "tech corps."
+Sasha Stiles turned GPT-2 experiments into a self-writing poem at a Museum of Modern Art installation—and a new way to think about text-generating AI optimization
 
-CNBC • 8h ago
+Scientific American • 1h ago
 
 ---
 
-**[The A.I. Evangelists on a Mission to Shake Up Japan](https://www.nytimes.com/2026/02/22/world/asia/japan-ai-politics-election.html)**
+**[This economic idea transfixed Wall Street and Washington. It may be a mirage.](https://www.washingtonpost.com/technology/2026/02/23/ai-economic-growth-gdp-mirage/)**
 
-The New York Times • 1d ago
+Massive investment in AI contributed “basically zero” to U.S. economic growth last year, Goldman Sachs has calculated.
+
+The Washington Post • 6m ago
 
 ---
 
@@ -175,23 +167,29 @@ The New York Times • 1d ago
 
 Major AI summit in India reveals U.S. strategy to lead Global South technology adoption through $250 billion deals and new supply chain partnerships.
 
-Fox Business • 20h ago
+Fox Business • 21h ago
 
 ---
 
-**[When AI becomes a paintbrush, is it art?](https://www.cbsnews.com/news/when-ai-becomes-a-paintbrush-is-it-art/)**
+**[The AI boom is helping Samsung and coming for Apple](https://finance.yahoo.com/news/the-ai-boom-is-helping-samsung-and-coming-for-apple-110057196.html)**
 
-Immerse yourself in an installation by Refik Anadol while debating how AI-generated creations stack up in the art world.
+Samsung is using the AI chip shortage to juice its margins. That could hurt Apple.
 
-CBS News • 11h ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[How to Hide Google’s AI Overviews From Your Search Results](https://www.wired.com/story/how-to-hide-google-ai-overviews-from-your-search-results/)**
+**[People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.](https://www.nytimes.com/2026/02/21/technology/ai-boom-backlash.html)**
 
-You can avoid Google's AI summaries in your search results by simply adjusting your query. Or just switch search engines altogether.
+The New York Times • 2d ago
 
-WIRED • 1d ago
+---
+
+**[Can AI liberate us from the tyranny of email?](https://www.ft.com/content/216edf7e-6fe8-47e6-96f2-bf2d59bd560a)**
+
+New tools automating inbox management could ease a loathed productivity burden. But do they work?
+
+Financial Times • 8h ago
 
 ---
 
@@ -227,7 +225,7 @@ Websites I personally found that are completely generated by AI. Pull requests w
 
 Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. - tnm/zclaw
 
-⬆️ 213 • 💬 117 • 1d ago • [GitHub](https://github.com/tnm/zclaw)
+⬆️ 213 • 💬 117 • 2d ago • [GitHub](https://github.com/tnm/zclaw)
 
 ---
 
@@ -279,13 +277,33 @@ A comprehensive guide to Palantir Foundry's Ontology strategy. / 世界最強の
 
 ## YouTube Videos: "ai"
 
+**[Seedance 2.0 Claims the AI Video Throne!](https://www.youtube.com/watch?v=F1kWxdfiBNE)**
+
+This video shows how Seedance 2.0 is revolutionizing AI video production, offering near-CGI visual effects, and precise control ...
+
+📺 AI Filmmaking Academy
+
+👁️ 15K • 👍 515 • 💬 93 • ⏱️ 7:03 • 15h ago
+
+---
+
 **[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
 
 Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
 
 📺 AI Revolution
 
-👁️ 13K • 👍 515 • 💬 62 • ⏱️ 14:16 • 12h ago
+👁️ 18K • 👍 641 • 💬 72 • ⏱️ 14:16 • 13h ago
+
+---
+
+**[China&#39;s AI Slop is Hilarious!](https://www.youtube.com/watch?v=bux60mjqkPs)**
+
+Watch the full show here: https://www.youtube.com/watch?v=1g_Zjq2-nnc Support the show here ...
+
+📺 China Fact Chasers
+
+👁️ 12K • 👍 1K • 💬 124 • ⏱️ 18:46 • 21h ago
 
 ---
 
@@ -295,7 +313,7 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 📺 AI Revolution
 
-👁️ 43K • 👍 1K • 💬 76 • ⏱️ 10:44 • 1d ago
+👁️ 44K • 👍 1K • 💬 79 • ⏱️ 10:44 • 1d ago
 
 ---
 
@@ -305,27 +323,7 @@ Former Congressman Brad Carson, the President of Americans for Responsible Innov
 
 📺 Forbes Breaking News
 
-👁️ 16K • 👍 456 • 💬 178 • ⏱️ 20:25 • 1d ago
-
----
-
-**[Billions just evaporated in AI bubble](https://www.youtube.com/watch?v=0SABrSvmV7o)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 137K • 👍 8K • 💬 2K • ⏱️ 18:44 • 1d ago
-
----
-
-**[The AI-Panic Cycle—And What’s Actually Different Now](https://www.youtube.com/watch?v=kNdjLf4f0uU)**
-
-Silicon Valley relies on hype cycles. But for the last few weeks, AI insiders have been spooked by advances coming from their ...
-
-📺 The Atlantic
-
-👁️ 39K • 👍 1K • 💬 265 • ⏱️ 44:00 • 2d ago
+👁️ 16K • 👍 469 • 💬 184 • ⏱️ 20:25 • 1d ago
 
 ---
 
@@ -335,47 +333,45 @@ Slandered by one AI robot and misquoted in a news article by another, US-based s
 
 📺 FRANCE 24 English
 
-👁️ 129K • 👍 3K • 💬 485 • ⏱️ 5:50 • 21h ago
+👁️ 154K • 👍 3K • 💬 611 • ⏱️ 5:50 • 22h ago
 
 ---
 
-**[VIRAL ‘GHISLAINE Maxwell SPOTTED’ 100% Proven Real, Not AI](https://www.youtube.com/watch?v=JFktxh3hV9I)**
+**[Billions just evaporated in AI bubble](https://www.youtube.com/watch?v=0SABrSvmV7o)**
 
-Watch this next  : https://youtu.be/1vFttpBAfsY Want to help keep this channel independent and uncensored? Here's how you can ...
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
 
-📺 Melanie King
+📺 Chris Norlund
 
-👁️ 192K • 👍 11K • 💬 3K • ⏱️ 18:35 • 1d ago
-
----
-
-**[When You&#39;re Training the AI That&#39;s Replacing You](https://www.youtube.com/watch?v=U9OnLgSwVc4)**
-
-He's just trying to help. nothing to worry about. Upcoming Shows: San Francisco - Feb 26 Sacramento - Feb 27/28 Philadelphia ...
-
-📺 Ryan Long
-
-👁️ 75K • 👍 6K • 💬 481 • ⏱️ 5:15 • 1d ago
+👁️ 139K • 👍 8K • 💬 2K • ⏱️ 18:44 • 2d ago
 
 ---
 
-**[Can AI take over the world? 🤔](https://www.youtube.com/watch?v=lnq-1KwbG5Q)**
+**[IShowSpeed&#39;s REAL LIFE vs AI Moments Gone Wrong 💀 #usa](https://www.youtube.com/watch?v=vSVi3RZVLP8)**
 
-This is a funny meme mixed with storytelling style video about how i tested to see if ai (chatgpt) is smart enough to take over the ...
+usa #usashorts.
 
-📺 Tyler Vitelli
+📺 Froggy
 
-👁️ 1.3M • 👍 33K • 💬 904 • ⏱️ 0:18 • 16h ago
+👁️ 287K • 👍 2K • 💬 24 • ⏱️ 0:30 • 16h ago
 
 ---
 
-**[The AI Agent Economy Is Here](https://www.youtube.com/watch?v=Q8wVMdwhlh4)**
+**[😱கெத்து காட்டும்  Android App📱 Personal Akka❓🤫 #spamcalls #ai #shorts](https://www.youtube.com/watch?v=jlK5auLvmNU)**
 
-With the takeoff of OpenClaw and MoltBook, a new agent-driven economy is taking shape. In this episode of the Lightcone, the ...
+the Equal AI – Caller ID Assistant app — one of the newest AI call assistant tools designed to manage unknown calls ...
 
-📺 Y Combinator
+📺 Tamil Tech - MrTT
 
-👁️ 70K • 👍 2K • 💬 132 • ⏱️ 23:22 • 1d ago
+👁️ 12K • 👍 1K • 💬 21 • ⏱️ 0:53 • 2h ago
+
+---
+
+**[Japan’s AI Designed Girl&#39;s Shoe Pod Just Changed Footwear Forever](https://www.youtube.com/watch?v=ROqqUN2zeic)**
+
+📺 Style-Tech
+
+👁️ 5.2M • 👍 17K • 💬 26 • ⏱️ 0:11 • 1d ago
 
 ---
 
@@ -391,7 +387,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 302,852 • ❤️ 908 • 3d ago
+⬇️ 302,852 • ❤️ 912 • 3d ago
 
 ---
 
@@ -403,7 +399,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,031 • ❤️ 2,155 • 7d ago
+⬇️ 539,031 • ❤️ 2,160 • 7d ago
 
 ---
 
@@ -415,7 +411,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 177,577 • ❤️ 728 • 1d ago
+⬇️ 177,577 • ❤️ 734 • 1d ago
 
 ---
 
@@ -427,7 +423,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 178,519 • ❤️ 1,452 • 9d ago
+⬇️ 178,519 • ❤️ 1,456 • 9d ago
 
 ---
 
@@ -439,7 +435,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 208,828 • ❤️ 864 • 7d ago
+⬇️ 208,828 • ❤️ 867 • 7d ago
 
 ---
 
@@ -451,19 +447,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 1,011,122 • ❤️ 1,151 • 25d ago
-
----
-
-**[Qwen3.5-397B-A17B-GGUF](https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF)**
-
-*Unsloth AI*
-
-Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta Network and Mixture-of-Experts architecture, excelling in vision-language tasks, multilingual understanding across 201 languages, and long-context reasoning up to 1M tokens.
-
-`image-text-to-text` `396.3B`
-
-⬇️ 84,503 • ❤️ 181 • 6d ago
+⬇️ 1,011,122 • ❤️ 1,153 • 25d ago
 
 ---
 
@@ -475,7 +459,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 159 • 10h ago
+⬇️ 0 • ❤️ 159 • 11h ago
 
 ---
 
@@ -487,19 +471,31 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 19,434 • ❤️ 156 • 14h ago
+⬇️ 19,434 • ❤️ 158 • 16h ago
 
 ---
 
-**[FireRed-Image-Edit-1.0](https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0)**
+**[Qwen3.5-397B-A17B-GGUF](https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF)**
 
-*FireRedTeam*
+*Unsloth AI*
 
-FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong instruction following and text style preservation capabilities, suitable for tasks like photo restoration and multi-image editing.
+Qwen3.5-397B-A17B is a multimodal large language model with a hybrid Gated Delta Network and Mixture-of-Experts architecture, excelling in vision-language tasks, multilingual understanding across 201 languages, and long-context reasoning up to 1M tokens.
 
-`image-to-image`
+`image-text-to-text` `396.3B`
 
-⬇️ 2,689 • ❤️ 255 • 9d ago
+⬇️ 84,503 • ❤️ 182 • 6d ago
+
+---
+
+**[Kimi-K2.5](https://huggingface.co/moonshotai/Kimi-K2.5)**
+
+*Moonshot AI*
+
+Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in vision-language understanding and tool use grounded in visual inputs. Its key capabilities include coding from visual specifications and agent swarm execution for complex task decomposition, making it suitable for advanced visual reasoning and autonomous agent applications.
+
+`image-text-to-text` `170.7B`
+
+⬇️ 1,193,038 • ❤️ 2,084 • 18d ago
 
 ---
 
@@ -540,7 +536,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 146 • 💬 19 • ⭐ 53,860 • 11mo ago
+▲ 146 • 💬 19 • ⭐ 53,897 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -560,6 +556,19 @@ The Qwen3-TTS series presents advanced multilingual text-to-speech models with v
 
 ---
 
+**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+
+*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+
+MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+
+▲ 145 • 💬 2 • ⭐ 54,800 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -570,19 +579,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 37 • 💬 1 • ⭐ 70,961 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
-
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
-
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
-
-▲ 145 • 💬 2 • ⭐ 54,759 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
 
 ---
 
@@ -610,6 +606,18 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 26 • 💬 4 • ⭐ 17,840 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+
+---
+
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -619,20 +627,6 @@ A multi-agent framework using large language models for stock trading simulates 
 ▲ 17 • 💬 1 • ⭐ 30,388 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
-**[BitDance: Scaling Autoregressive Generative Models with Binary Tokens](https://huggingface.co/papers/2602.14041)**
-
-*Yuang Ai, Jiaming Han, Shaobin Zhuang et al. (10 authors)*
-
-🏢 ByteDance
-
-BitDance is a scalable autoregressive image generator that uses binary visual tokens and diffusion-based methods to achieve efficient high-resolution image generation with improved speed and performance.
-
-▲ 44 • 💬 3 • ⭐ 287 • 8d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.14041) • [💻 code](https://github.com/shallowdream204/BitDance) • [🔗 project](https://bitdance.csuhan.com/)
 
 ---
 
@@ -646,7 +640,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.4k • 🔱 2.0k • 2h ago
+⭐ 17.5k • 🔱 2.1k • 2m ago
 
 ---
 
@@ -664,7 +658,7 @@ The open-source voice synthesis studio powered by Qwen3-TTS.
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.7k • 🔱 510 • 12d ago
+⭐ 6.7k • 🔱 513 • 12d ago
 
 ---
 
@@ -674,7 +668,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.2k • 🔱 627 • 1d ago
+⭐ 5.2k • 🔱 632 • 1h ago
 
 ---
 
@@ -684,7 +678,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `JavaScript`
 
-⭐ 3.8k • 🔱 181 • 20d ago
+⭐ 3.8k • 🔱 182 • 20d ago
 
 ---
 
@@ -694,7 +688,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.3k • 🔱 331 • 7h ago
+⭐ 3.3k • 🔱 332 • 8h ago
 
 ---
 
@@ -704,7 +698,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.0k • 🔱 377 • 1d ago
+⭐ 3.0k • 🔱 379 • 1d ago
 
 ---
 
@@ -714,7 +708,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 183 • 15h ago
+⭐ 2.7k • 🔱 183 • 16h ago
 
 ---
 
@@ -724,7 +718,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.5k • 🔱 270 • 19h ago
+⭐ 2.5k • 🔱 275 • 20h ago
 
 ---
 
@@ -734,7 +728,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.5k • 🔱 121 • 2d ago
+⭐ 2.5k • 🔱 123 • 2d ago
 
 ---
 

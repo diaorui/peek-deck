@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T11:41:01.714526+00:00'
+updated: '2026-02-23T13:07:54.233253+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 11:41 UTC  
+**Last Updated:** February 23, 2026 at 13:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
-
-18h ago
-
----
-
 **[Latest Unitree demo](https://www.reddit.com/r/robotics/comments/1rcd973/latest_unitree_demo/)**
 
 Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
-1h ago
+3h ago
+
+---
+
+**[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
+
+20h ago
 
 ---
 
@@ -50,15 +50,7 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
-13h ago
-
----
-
-**[Controlling position of BLDC](https://www.reddit.com/r/robotics/comments/1rcdcro/controlling_position_of_bldc/)**
-
-Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
-
-1h ago
+15h ago
 
 ---
 
@@ -66,7 +58,15 @@ Hi everyone, I had a few questions about this motor we had laying around. From w
 
 I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
 
-13h ago
+15h ago
+
+---
+
+**[Controlling position of BLDC](https://www.reddit.com/r/robotics/comments/1rcdcro/controlling_position_of_bldc/)**
+
+Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
+
+3h ago
 
 ---
 
@@ -78,11 +78,17 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 ---
 
-**[IsaacSim/IsaacLab vs Unity](https://www.reddit.com/r/robotics/comments/1rcf1j8/isaacsimisaaclab_vs_unity/)**
+**[What kind of voice should a small home robot have](https://www.reddit.com/r/robotics/comments/1rcc4pl/what_kind_of_voice_should_a_small_home_robot_have/)**
 
-Hello everyone! I am currently working on my master’s thesis about robot manipulation. For my application I’d need high fidelity simulation but also dynamic environments, where stuff may appear and would need to be spawned into the simulation at runtime. Also, I’d need ways to integrate scripts for some processing and control. My teachers are currently advising using isaaclab for this, however, some research i am doing about the spawning of new assets/objects during runtime points at isaaclab not being able to support adding new objects to an environment. Also, it seems more focused on reinforcement learning and imitation learning which is not quite the objective i was aiming at. I know that isaaclab and isaacsim are tools used a lot though and that they seem to be more powerful but unity to me seems more intuitive and easier to use and apply my idea for this thesis. My question lies at: taking into account this information, should i stick with isaaclab and isaacsim, or should i try to persuade my teachers to let me use Unity? Also, is there something i am missing about the pros and cons i tried to outline before? Thank you for your time
+Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
 
-9m ago
+4h ago
+
+---
+
+**[Brianna my beloved bot friend getting her limbs back](https://www.reddit.com/r/robotics/comments/1rc6xhc/brianna_my_beloved_bot_friend_getting_her_limbs/)**
+
+9h ago
 
 ---
 
@@ -98,15 +104,7 @@ This is a 1.5-metre-long articulated robotic arm constructed with a full metal b
 
 Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
 
-20h ago
-
----
-
-**[What kind of voice should a small home robot have](https://www.reddit.com/r/robotics/comments/1rcc4pl/what_kind_of_voice_should_a_small_home_robot_have/)**
-
-Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
-
-3h ago
+21h ago
 
 ---
 
@@ -122,19 +120,11 @@ CNBC • 3d ago
 
 ---
 
-**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.nasdaq.com/articles/teslas-3-trillion-opportunity-how-optimus-could-dominate-robotics-market-2026)**
+**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
 
-Key PointsTesla is repurposing EV factories to build its Optimus robots.
+The race to dominate physical AI is under way, and Beijing may already have the upper hand
 
-Nasdaq • 2d ago
-
----
-
-**[Tech companies are making their robots cute to try to win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
-
-Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
-
-NBC News • 20h ago
+The Telegraph • 1d ago
 
 ---
 
@@ -143,6 +133,22 @@ NBC News • 20h ago
 OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
 South China Morning Post • 1d ago
+
+---
+
+**[China's robotics giant puts 200 robots to the test](https://www.foxnews.com/tech/china-robotics-giant-puts-200-robots-test)**
+
+Agibot stages live televised gala with over 200 humanoid robots in Shanghai, featuring synchronized dancing, martial arts and acrobatic performances.
+
+Fox News • 2d ago
+
+---
+
+**[Tech companies are making their robots cute to try to win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
+
+Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
+
+NBC News • 22h ago
 
 ---
 
@@ -158,37 +164,31 @@ Business Insider • 3d ago
 
 MOUs with U.S. dealers and first EAI robot deliveries headline Faraday Future’s plan to focus on Super One, improve cash flow and streamline AIxC.
 
-Stock Titan • 10h ago
+Stock Titan • 11h ago
 
 ---
 
-**[Amazon Robotics shuts down Blue Jay sortation project](https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/)**
+**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.nasdaq.com/articles/teslas-3-trillion-opportunity-how-optimus-could-dominate-robotics-market-2026)**
 
-Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects.
+Key PointsTesla is repurposing EV factories to build its Optimus robots.
 
-The Robot Report • 2d ago
-
----
-
-**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
-
-Tech Xplore • 2d ago
+Nasdaq • 2d ago
 
 ---
 
-**[US AI firm accelerates international rollout of Chinese humanoid robots](https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-global-push-challenge)**
+**[Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings](https://finance.yahoo.com/news/beyond-tesla-nvidia-2-overlooked-134442037.html)**
 
-A US-based company is positioning itself as a conduit for the global expansion of Chinese humanoid robotics firms.
+Everyone knows NVIDIA (NASDAQ:NVDA) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the days of humanoid robots ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
 
-Interesting Engineering • 15h ago
+Yahoo Finance • 2d ago
 
 ---
 
-**[Humanoid home robots are on the market – but do we really want them?](https://theconversation.com/humanoid-home-robots-are-on-the-market-but-do-we-really-want-them-270370)**
+**[5 Interesting Startup Deals You May Have Missed: Plant-Based Clothing Dyes, A Shoebox-Picking Robot, And Power Generated On The Moon](https://news.crunchbase.com/venture/interesting-startup-deals-ai-robotics-energy-generation/)**
 
-A robot butler sounds like a nice idea, but the technology has its drawbacks.
+A host of interesting, under-the-radar recently funded startups caught our attention in the past month: one that’s developing nuclear-waste generated electricity on the moon, and another that aims to use AI to extract business intelligence from enterprise contracts. Let’s take a closer look.
 
-The Conversation • 3d ago
+Crunchbase News • 1h ago
 
 ---
 
@@ -202,7 +202,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 13K • 👍 515 • 💬 62 • ⏱️ 14:16 • 12h ago
+👁️ 18K • 👍 641 • 💬 72 • ⏱️ 14:16 • 13h ago
 
 ---
 
@@ -212,27 +212,7 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.3M • 👍 101K • 💬 3K • ⏱️ 1:27 • 3d ago
-
----
-
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
-
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
-
-📺 10 News
-
-👁️ 293K • 👍 3K • 💬 2K • ⏱️ 3:42 • 4d ago
-
----
-
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 66K • 👍 3K • 💬 813 • ⏱️ 14:51 • 2d ago
+👁️ 1.4M • 👍 102K • 💬 3K • ⏱️ 1:27 • 3d ago
 
 ---
 
@@ -242,7 +222,17 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 16K • 👍 294 • 💬 288 • ⏱️ 2:30 • 1d ago
+👁️ 16K • 👍 297 • 💬 291 • ⏱️ 2:30 • 1d ago
+
+---
+
+**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+
+Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+
+📺 10 News
+
+👁️ 295K • 👍 3K • 💬 2K • ⏱️ 3:42 • 4d ago
 
 ---
 
@@ -252,17 +242,17 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 81K • 👍 396 • 💬 218 • ⏱️ 2:14 • 2d ago
+👁️ 82K • 👍 404 • 💬 224 • ⏱️ 2:14 • 2d ago
 
 ---
 
-**[AI Robots Are Evolving WAY FASTER Than Expected! ](https://www.youtube.com/watch?v=-bOog4ux0XU)**
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
 
-Kung fu robots, companion female humanoids, and robotic dogs are some of the robots that will be flooding the streets.
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 Aaron Page 
+📺 Julia McCoy
 
-👁️ 11K • 👍 781 • 💬 131 • ⏱️ 14:02 • 1d ago
+👁️ 67K • 👍 3K • 💬 815 • ⏱️ 14:51 • 2d ago
 
 ---
 
@@ -272,17 +262,27 @@ Galgotias University has come under scrutiny after displaying a Chinese-made rob
 
 📺 NDTV
 
-👁️ 29K • 👍 117 • 💬 212 • ⏱️ 5:02 • 5d ago
+👁️ 29K • 👍 118 • 💬 213 • ⏱️ 5:02 • 5d ago
 
 ---
 
-**[China’s Kung Fu Robot SHOCKS the World at Spring Festival Gala (LIVE!)](https://www.youtube.com/watch?v=RprmQfqUfaE)**
+**[AI Robots Are Evolving WAY FASTER Than Expected! ](https://www.youtube.com/watch?v=-bOog4ux0XU)**
 
-Join the NextGen AI Community for early access, faster updates, and deeper AI & robotics analysis: ...
+Kung fu robots, companion female humanoids, and robotic dogs are some of the robots that will be flooding the streets.
 
-📺 NextGen AI
+📺 Aaron Page 
 
-👁️ 36K • 👍 671 • 💬 160 • ⏱️ 9:42 • 4d ago
+👁️ 11K • 👍 788 • 💬 131 • ⏱️ 14:02 • 1d ago
+
+---
+
+**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+
+By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+
+📺 NVIDIA
+
+👁️ 35K • 👍 1K • ⏱️ 2:51 • 4d ago
 
 ---
 
@@ -292,7 +292,7 @@ Absolutely insane scenes at the 2026 Spring Festival Gala as Unitree's humanoid 
 
 📺 India Today Global
 
-👁️ 123K • 👍 1K • 💬 774 • ⏱️ 2:57 • 6d ago
+👁️ 125K • 👍 1K • 💬 780 • ⏱️ 2:57 • 6d ago
 
 ---
 

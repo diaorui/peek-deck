@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T11:41:01.711352+00:00'
+updated: '2026-02-23T13:07:54.230027+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 11:41 UTC  
+**Last Updated:** February 23, 2026 at 13:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.7%  
-**7d:** -3.9%  
-**30d:** -32.1%  
-**90d:** -36.6%  
-**1y:** -23.8%  
+**24h:** -1.6%  
+**7d:** -3.5%  
+**30d:** -31.9%  
+**90d:** -36.4%  
+**1y:** -23.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.91B
+**Market Cap:** $231.83B
 Rank #2
 
 **Circulating Supply:** 120,692,355 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.3%
+-61.2%
 
 **All-Time Low:** $0.43
-+442210.1%
++443420.4%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-13h ago
+15h ago
 
 ---
 
@@ -168,19 +168,19 @@ Decrypt • 1d ago
 
 ---
 
+**[Is Ethereum good enough for Wall Street? If history is any guide, the answer is clear](https://fortune.com/crypto/2026/02/23/ethereum-wall-street-canton-r3-zksync-ethdenver/)**
+
+A consortium of banks is building its own version of blockchain—it will be hard pressed to make it work.
+
+Fortune • 38m ago
+
+---
+
 **[Will Ethereum Price Crash If Vitalik Buterin Keeps Selling? February's $16M Sales Sparks Market Concerns](https://finance.yahoo.com/news/ethereum-price-crash-vitalik-buterin-110429311.html)**
 
 Vitalik Buterin sold $3.67 million worth of ETH over two days. Despite concerns, Buterin’s roughly $16 million in February sales represent just 0.1% of Ethereum’s ...
 
-Yahoo Finance • 36m ago
-
----
-
-**[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
-
-The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
-
-Fortune • 2d ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -200,9 +200,23 @@ TradingView • 1d ago
 
 ---
 
+**[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
+
+Binance • 3h ago
+
+---
+
+**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1771825500)**
+
+Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
+
+---
+
 **[BMNR’s Tom Lee points to ‘softer’ inflation trends ahead of weekly ETH purchase update](https://www.msn.com/en-us/money/markets/bmnr-s-tom-lee-points-to-softer-inflation-trends-ahead-of-weekly-eth-purchase-update/ar-AA1WSIrf?ocid=finance-verthp-feeds)**
 
-MSN • 3h ago
+MSN • 4h ago
 
 ---
 
@@ -214,23 +228,19 @@ Coinpaper • 1d ago
 
 ---
 
-**[Ethereum under pressure: Founder sales, whale losses, and bearish odds collide](https://ambcrypto.com/ethereum-under-pressure-founder-sales-whale-losses-and-bearish-odds-collide/)**
-
-Unrealized losses among all whale tiers and Vitalik’s resumed distribution weigh on the ETH outlook.
-
-AMBCrypto • 12h ago
-
----
-
-**[Ethereum ETF Blink, Not Breakdown: Fidelity’s FETH Books a $11.6 Million Outflow](https://www.tipranks.com/news/cryptocurrencies/ethereum-etf-blink-not-breakdown-fidelitys-feth-books-a-11-6-million-outflow)**
-
-TipRanks • 18h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=smPJV_jsMzY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 821 • 👍 85 • 💬 3 • ⏱️ 6:00 • 2h ago
+
+---
 
 **[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
 
@@ -238,7 +248,37 @@ While most people hesitate on Ethereum, I'm loading up. In this video, I break d
 
 📺 Michaël van de Poppe
 
-👁️ 6K • 👍 270 • 💬 56 • ⏱️ 11:38 • 1d ago
+👁️ 6K • 👍 282 • 💬 56 • ⏱️ 11:38 • 1d ago
+
+---
+
+**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=Bz26yGwwFpM)**
+
+Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-bitcoin-strategy.com My Chart Software: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 253 • 👍 16 • 💬 6 • ⏱️ 14:34 • 28m ago
+
+---
+
+**[WILL ETH DUMP LOWER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=_MBkfSVtbsg)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 84 • 👍 10 • 💬 1 • ⏱️ 4:45 • 3h ago
+
+---
+
+**[Matt Hougan: What Scares Me Most Right Now in Crypto! (It&#39;s TERRIFYING)](https://www.youtube.com/watch?v=qM3KR_9-ArA)**
+
+Bitcoin is down. Altcoins are crushed. Gold is soaring. Are we still in a crypto winter — or is something deeper happening beneath ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 174 • 💬 2 • ⏱️ 21:22 • 20h ago
 
 ---
 
@@ -248,17 +288,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 9K • 👍 303 • 💬 56 • ⏱️ 16:36 • 14h ago
-
----
-
-**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 Realistic Prediction]](https://www.youtube.com/watch?v=9jkSSrclP4M)**
-
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
-
-📺 Crypto Nutshell
-
-👁️ 19K • 👍 677 • 💬 41 • ⏱️ 18:46 • 1d ago
+👁️ 10K • 👍 316 • 💬 61 • ⏱️ 16:36 • 15h ago
 
 ---
 
@@ -268,27 +298,27 @@ Get lifetime access to my full investing system + all spreadsheets, my real-time
 
 📺 Future Investing
 
-👁️ 17K • 👍 661 • 💬 159 • ⏱️ 8:49 • 1d ago
+👁️ 17K • 👍 670 • 💬 170 • ⏱️ 8:49 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: ALL IN NOW!!!!! &quot;MEGA FOMO PUMP INCOMING!!!&quot;](https://www.youtube.com/watch?v=Rc6HxdvIdd8)**
+**[Ethereum&#39;s Last Big Upgrade: The zkEVM | Ansgar Dietrichs](https://www.youtube.com/watch?v=QK6yyRdJ-eY)**
 
-Bitcoin, ethereum and the rest of crypto is hinting at a pump. Here is my take on all of it. An objective one. ---------- AI Trading ...
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's next big leap might ...
 
-📺 Thomas Kralow
+📺 Bankless
 
-👁️ 31K • 👍 5K • 💬 61 • ⏱️ 10:36 • 2d ago
+👁️ 365 • 👍 31 • 💬 3 • ⏱️ 1:23:36 • 1h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. BTC fischt komplett die Heatmap leer, ist DAS JETZT unsere Chance?](https://www.youtube.com/watch?v=mGwQAKpCPy0)**
+**[Tom Lee Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum! [2026 Realistic Prediction]](https://www.youtube.com/watch?v=9jkSSrclP4M)**
 
-Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zurück bis max 400 USDT) ...
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Claim your $20 Kalshi bonus when you ...
 
-📺 Krypto Trading & Investing
+📺 Crypto Nutshell
 
-👁️ 4K • 👍 683 • 💬 56 • ⏱️ 15:00 • 7h ago
+👁️ 19K • 👍 683 • 💬 42 • ⏱️ 18:46 • 1d ago
 
 ---
 
@@ -298,37 +328,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 135 • 💬 11 • ⏱️ 17:46 • 6h ago
-
----
-
-**[Stake Ethereum on Coinbase In Under One Minute | Blackrock Does Not Want You To Know This !!!](https://www.youtube.com/watch?v=V7ZGQe0IZyc)**
-
-The Ultimate Meme Coin Course Link: https://www.udemy.com/course/meme-coin-trading-course/?
-
-📺 Crypto Andy
-
-👁️ 196 • 👍 3 • ⏱️ 0:41 • 6h ago
-
----
-
-**[WILL ETH SURPRISE EVERYONE AGAIN?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Jr2i6FCbUyc)**
-
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
-
-📺 Cilinix Crypto
-
-👁️ 458 • 👍 22 • 💬 1 • ⏱️ 4:51 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=beqWSsNCiD0)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 1K • 👍 158 • 💬 10 • ⏱️ 7:37 • 8h ago
+👁️ 1K • 👍 167 • 💬 14 • ⏱️ 17:46 • 8h ago
 
 ---
 

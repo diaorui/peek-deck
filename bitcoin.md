@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-23T11:41:01.705447+00:00'
+updated: '2026-02-23T13:07:54.224032+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
+- news
 - cryptocurrency
 - social
-- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 11:41 UTC  
+**Last Updated:** February 23, 2026 at 13:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,312.87
+### $66,411.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.6%  
-**7d:** -2.0%  
-**30d:** -23.6%  
-**90d:** -27.0%  
-**1y:** -27.7%  
+**24h:** -1.8%  
+**7d:** -1.8%  
+**30d:** -23.5%  
+**90d:** -26.9%  
+**1y:** -27.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1327.06B
+**Market Cap:** $1325.12B
 Rank #1
 
-**Circulating Supply:** 19,993,440 BTC
+**Circulating Supply:** 19,993,587 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.3%
+-47.5%
 
 **All-Time Low:** $67.81
-+97825.1%
++97603.9%
 
 ---
 
@@ -81,35 +81,19 @@ Rank #1
 
 I bought a bunch of bitcoin at $65k USD and now I'm waiting for bitcoin to fall to $50k USD so I can buy even more. I fully expect bitcoin to hit a new record high at some point in the next 4 years. I just don't know exactly when. So I'm hoping bitcoin crashes as hard as possible in 2026, so we can all buy at a discount before it bounces back. Anyone else in the same boat?
 
-8h ago
+10h ago
 
 ---
 
 **[Just hit 0.1 coin. A proud moment.](https://www.reddit.com/r/Bitcoin/comments/1rcbe8j/just_hit_01_coin_a_proud_moment/)**
 
-3h ago
+5h ago
 
 ---
 
 **[Almost at the end of the month 🙏](https://www.reddit.com/r/Bitcoin/comments/1rc0ddm/almost_at_the_end_of_the_month/)**
 
-12h ago
-
----
-
-**[Accumulate](https://www.reddit.com/r/Bitcoin/comments/1rc3wsu/accumulate/)**
-
-Almost 2 weeks now chilling in the 60s... Don't be the meme lined up at 100k But its going to 30k! Ya and home prices are crashing 50% and the us will pay off its national debt. Mmmhmmm
-
-10h ago
-
----
-
-**[Withdrawing large amount without proof of acquisition](https://www.reddit.com/r/Bitcoin/comments/1rboi4t/withdrawing_large_amount_without_proof_of/)**
-
-When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks. EDIT: Thanks everyone for your response. I've answered many DM's for fun to fuck around with the scammers lol. Like many suggested, I'll reach out to a tax lawyer first, then a crypto CPA. I'm not moving to another country bruh - I'll handle all of this LEGALLY! I like being able to sleep at night.
-
-20h ago
+14h ago
 
 ---
 
@@ -117,23 +101,23 @@ When I was a minor back in 2015, my old friend’s big brother convinced me to i
 
 As with every single bear market and subsequent accumulation phase since the inception of Bitcoin, we are now looking at roughly November/December of 2027 until the next official bull market pump/takeoff phase will begin. The low of this current bear market will be somewhere between 40k and 50k, as I said months and months ago and got laughed at. If you are one of those new traders or new Crypto bros who think the next bull market is on the way, you've got some big disappointment headed your way. Right now you should be firmly in accumulation mode. Buy all the way down to the 40k range. The next top of the upcoming bull market pump will very likely top out somewhere between 175,000 and 200,000 as a rough estimate based upon all previous data. Best guess would be 175k. Best estimate is that the low of this bear market will hit around September/October of this year.
 
-1h ago
+3h ago
 
 ---
 
-**[The bear market is self fulfilling prophecy](https://www.reddit.com/r/Bitcoin/comments/1rc2gbl/the_bear_market_is_self_fulfilling_prophecy/)**
+**[Accumulate](https://www.reddit.com/r/Bitcoin/comments/1rc3wsu/accumulate/)**
 
-It is. Always has been. People are npcs
+Almost 2 weeks now chilling in the 60s... Don't be the meme lined up at 100k But its going to 30k! Ya and home prices are crashing 50% and the us will pay off its national debt. Mmmhmmm
 
 11h ago
 
 ---
 
-**[People just do not yet understand how Bitcoin is different and why it is the ultimate store of value and ultimate debasement asset - James Lavish](https://www.reddit.com/r/Bitcoin/comments/1rbpktw/people_just_do_not_yet_understand_how_bitcoin_is/)**
+**[Withdrawing large amount without proof of acquisition](https://www.reddit.com/r/Bitcoin/comments/1rboi4t/withdrawing_large_amount_without_proof_of/)**
 
-Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can rediscover fire. TLDW: Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself. ...do you have more time to watch? 1: https://youtu.be/19LA7ReARCQ 2: https://youtu.be/YroOIC8eDrk 3: https://youtu.be/ZsgZjAPjxDU
+When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks. EDIT: Thanks everyone for your response. I've answered many DM's for fun to fuck around with the scammers lol. Like many suggested, I'll reach out to a tax lawyer first, then a crypto CPA. I'm not moving to another country bruh - I'll handle all of this LEGALLY! I like being able to sleep at night.
 
-19h ago
+21h ago
 
 ---
 
@@ -141,13 +125,29 @@ Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-5h ago
+6h ago
 
 ---
 
-**[Are we all Abit too “Optimistic”? I’m heavy in Bitcoin and I won’t surrender.](https://www.reddit.com/r/Bitcoin/comments/1rc32x6/are_we_all_abit_too_optimistic_im_heavy_in/)**
+**[The bear market is self fulfilling prophecy](https://www.reddit.com/r/Bitcoin/comments/1rc2gbl/the_bear_market_is_self_fulfilling_prophecy/)**
 
-Tough times create strong men 💪 It just feels like 1 person says one bad thing everyone just goes rampage mode hahaha! When bears have a point for it to go lower I think it can 🤷 I think some need to read there side. It’s like watching one side of the news!!
+It is. Always has been. People are npcs
+
+12h ago
+
+---
+
+**[People just do not yet understand how Bitcoin is different and why it is the ultimate store of value and ultimate debasement asset - James Lavish](https://www.reddit.com/r/Bitcoin/comments/1rbpktw/people_just_do_not_yet_understand_how_bitcoin_is/)**
+
+Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can rediscover fire. TLDW: Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself. ...do you have more time to watch? 1: https://youtu.be/19LA7ReARCQ 2: https://youtu.be/YroOIC8eDrk 3: https://youtu.be/ZsgZjAPjxDU
+
+21h ago
+
+---
+
+**[Bitdeer fully liquidated... Watching Clean Spark now...](https://www.reddit.com/r/Bitcoin/comments/1rc5ubt/bitdeer_fully_liquidated_watching_clean_spark_now/)**
+
+If clean spark liquidates within the next couple days, expect BTC to drop into the 50,000-60,000 range. I bought at $90K, 66K AND 64K. Largest position is at 64k. I'm holding now to see if Clean Spark liquidates, then buy the dip!
 
 10h ago
 
@@ -159,7 +159,7 @@ Tough times create strong men 💪 It just feels like 1 person says one bad thin
 
 **[Bitcoin Falls Below $65,000 in Latest Bout of Tariff Uncertainty](https://www.bloomberg.com/news/articles/2026-02-23/bitcoin-btc-slides-to-65-000-in-latest-bout-of-tariff-uncertainty)**
 
-Bloomberg.com • 29m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -167,29 +167,27 @@ Bloomberg.com • 29m ago
 
 The liquidation makes Bitdeer the largest publicly traded bitcoin miner by self-mining hashrate to hold no BTC on its balance sheet.
 
-The Block • 18h ago
+The Block • 19h ago
 
 ---
 
-**[Bitdeer Sells Entire Bitcoin Stash as Mining Profits Near Record Lows](https://finance.yahoo.com/news/bitdeer-sells-entire-bitcoin-stash-135554538.html)**
+**[Missouri Advances Legislation For A State Bitcoin Reserve](https://bitcoinmagazine.com/news/missouri-advances-state-bitcoin-reserve)**
 
-Singapore-based Bitdeer, now the world's largest publicly traded self-miner, has completely liquidated its BTC treasury.
+House Bill 2080, introduced by Missouri Rep. Ben Keathley, would create a state 'Bitcoin Strategic Reserve Fund' that would allow the treasurer to acquire and manage bitcoin under set guidelines.
 
-Yahoo Finance • 21h ago
-
----
-
-**[Bitdeer sold all its bitcoin to fund its move into AI data centers](https://www.coindesk.com/markets/2026/02/23/bitdeer-empties-bitcoin-treasury-as-miners-accelerate-industry-wide-ai-pivot)**
-
-Singapore based BTC and AI miner sells all holdings to build liquidity for expansion, signaling a broader shift in capital strategy across the sector.
-
-CoinDesk • 1h ago
+Bitcoin Magazine • 6m ago
 
 ---
 
-**[U.S. stock futures, dollar and bitcoin drop as investors await clarity on Trump’s latest tariff plans](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?gaa_at=eafs&gaa_n=AWEtsqdMa5gzICR8n9kqsarvVQrX3Q33pOd72eC1YyDQXiXbFfOELsd6MJAk&gaa_ts=699c4036&gaa_sig=M7bsRA1sM3p7HUW-oKWi9Wne8eXUv6jNZNuRizpkMTzSBx-lCqiRDflIdvp7X1N96dJpHutjZ4aT57NtVLjZNQ%3D%3D)**
+**[U.S. stock futures, dollar and bitcoin drop as investors await clarity on Trump’s latest tariff plans](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?gaa_at=eafs&gaa_n=AWEtsqdivsfIoB4Xj5GoxKwbG7641_sIGaYdDBORvzoN1nKfbnSP94TAtHjj&gaa_ts=699c548d&gaa_sig=u-M5M3jvZAXI0LoxqPBe9ZCKalY_WbczBOmc43UtWB5eMxawWO17Km23gyH4KSSDbZP0y7oE1PcBbrWrUljILg%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 9h ago
+
+---
+
+**[Watch Trump Regroups After Supreme Court Loss, Bitcoin Falls Below $65,000 | The Opening Trade 2/23/2026](https://www.bloomberg.com/news/videos/2026-02-23/the-opening-trade-2-23-2026-video)**
+
+Bloomberg • 13h ago
 
 ---
 
@@ -197,21 +195,7 @@ MarketWatch • 7h ago
 
 U.S. futures have slipped and world markets were mixed after the Supreme Court struck down most of President Donald Trump’s sweeping tariffs.
 
-AP News • 5h ago
-
----
-
-**[Bitcoin price news: BTC gains, but quickly retreats as Trump tariffs ruled illegal by Supreme Court](https://www.coindesk.com/markets/2026/02/20/bitcoin-pops-then-drops-as-supreme-court-strikes-down-trump-tariffs)**
-
-Hotter inflation and slower growth delivers a messy message with the Federal Reserve likely take its time before any policy changes, one analyst said.
-
-CoinDesk • 2d ago
-
----
-
-**[Bitcoin Took Its First Step Against Quantum Computers](https://www.forbes.com/sites/digital-assets/2026/02/23/bitcoin-took-its-first-step-against-quantum-computers/)**
-
-Forbes • 1h ago
+AP News • 7h ago
 
 ---
 
@@ -225,7 +209,19 @@ Fortune • 3d ago
 
 **[🚨 Bitcoin dropped below $65k. $230 million in leveraged longs liquidated in 60 minutes. When shit gets real, Bitcoin doesn't act like digital gold. It acts like a leveraged tech stock. The "store of value" narrative works great until it doesn't.](https://x.com/MarioNawfal/status/2025775973225070979)**
 
-x.com • 8h ago
+x.com • 9h ago
+
+---
+
+**[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqeQukAVbhyg7lF6de_pKV1bPI6OCKRQXuxy9iMeWCvDaiqf4sGoUJow&gaa_ts=699c548d&gaa_sig=7bWfcQ7GCLS5biHScX5QMkHguBE0jn0-ujuEBFYRHQD1v2HfLcFJiJsC3YTajKQCQEe55piJAxgAxyBhq1QH7A%3D%3D)**
+
+Barron's • 3d ago
+
+---
+
+**[Bitcoin Took Its First Step Against Quantum Computers](https://www.forbes.com/sites/digital-assets/2026/02/23/bitcoin-took-its-first-step-against-quantum-computers/)**
+
+Forbes • 2h ago
 
 ---
 
@@ -291,7 +287,7 @@ Financial independence on a bitcoin standard
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 2 • 💬 0 • 22h ago
+⬆️ 2 • 💬 0 • 23h ago
 
 ---
 
@@ -307,13 +303,23 @@ Fast natural language search across 60,000+ prediction markets on Kalshi and Pol
 
 ## YouTube Videos: "bitcoin"
 
+**[BIG PROBLEM FOR ALL BITCOIN BEARS !!!!](https://www.youtube.com/watch?v=3bJqtHWCBSo)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/Coinflare Earn Up to ...
+
+📺 The Moon Show
+
+👁️ 5K • 👍 538 • 💬 80 • ⏱️ 7:05 • 3h ago
+
+---
+
 **[Bitcoin is Dumping Because of These Events...](https://www.youtube.com/watch?v=7qQn-y24d5M)**
 
 Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 385 • ⏱️ 8:44 • 10h ago
+👁️ 27K • 👍 1K • 💬 408 • ⏱️ 8:44 • 11h ago
 
 ---
 
@@ -323,17 +329,17 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 560 • 💬 78 • ⏱️ 9:10 • 9h ago
+👁️ 12K • 👍 668 • 💬 96 • ⏱️ 9:10 • 10h ago
 
 ---
 
-**[BITCOIN: EMERGENCY UPDATE (CLICK NOW)](https://www.youtube.com/watch?v=rdE9-PtvAaU)**
+**[what the fu*K happened to Bitcoin](https://www.youtube.com/watch?v=CZ8j_SxW8ks)**
 
-WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
+My Auto BUY / SELL setup https://ckenny.com/PM (Long or Short Automatically) Where I futures Trade ...
 
-📺 Crypto Kid
+📺 Conor Kenny
 
-👁️ 8K • 👍 506 • 💬 133 • ⏱️ 6:12 • 9h ago
+👁️ 9K • 👍 469 • 💬 74 • ⏱️ 16:18 • 6h ago
 
 ---
 
@@ -343,7 +349,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 5K • 👍 412 • 💬 45 • ⏱️ 8:25 • 5h ago
+👁️ 9K • 👍 537 • 💬 47 • ⏱️ 8:25 • 6h ago
 
 ---
 
@@ -353,7 +359,7 @@ This is not about tariffs. It is about an $800 trillion wealth rotation that cou
 
 📺 Simply Bitcoin
 
-👁️ 29K • 👍 2K • 💬 131 • ⏱️ 17:48 • 13h ago
+👁️ 32K • 👍 2K • 💬 144 • ⏱️ 17:48 • 14h ago
 
 ---
 
@@ -363,27 +369,17 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 33K • 👍 2K • 💬 120 • ⏱️ 9:22 • 13h ago
+👁️ 37K • 👍 2K • 💬 150 • ⏱️ 9:22 • 14h ago
 
 ---
 
-**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
+**[BITCOIN: EMERGENCY UPDATE (CLICK NOW)](https://www.youtube.com/watch?v=rdE9-PtvAaU)**
 
-bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/r/CryptoKid MEMBER UPDATES ...
 
-📺 Altcoin Daily
+📺 Crypto Kid
 
-👁️ 55K • 👍 3K • 💬 249 • ⏱️ 8:15 • 1d ago
-
----
-
-**[BITCOIN: NEW WEEK ANALYSIS!!! #BTC Price Prediction &amp; Crypto Crash News Today](https://www.youtube.com/watch?v=GdQRSqDYLtM)**
-
-My Free Trading Course https://www.rt1m.com/free My Discord Server (FREE) https://discord.com/invite/jRAnCV9CTB ...
-
-📺 Road To $1 Million USD
-
-👁️ 4K • 👍 164 • 💬 14 • ⏱️ 5:01 • 12h ago
+👁️ 9K • 👍 546 • 💬 138 • ⏱️ 6:12 • 11h ago
 
 ---
 
@@ -393,17 +389,17 @@ URGENT Bitcoin Support Update! It Could Be OVER! XRP $1.93B CAPITULATION In this
 
 📺 CryptoWendyO
 
-👁️ 17K • 👍 892 • 💬 57 • ⏱️ 12:58 • 17h ago
+👁️ 17K • 👍 903 • 💬 59 • ⏱️ 12:58 • 18h ago
 
 ---
 
-**[Grant Cardone: I’m Going ALL IN On Bitcoin](https://www.youtube.com/watch?v=_GBiPA7e0YA)**
+**[Bitcoin is going to ZERO!!!](https://www.youtube.com/watch?v=OmmusjoCtKs)**
 
-Bitcoin #Crypto #Finance Grant Cardone reveals why his ultimate target is 10000 Bitcoin and how he's using a hybrid real estate ...
+bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
 
-📺 The Wolf Of All Streets
+📺 Altcoin Daily
 
-👁️ 14K • 👍 489 • 💬 250 • ⏱️ 23:59 • 21h ago
+👁️ 55K • 👍 3K • 💬 248 • ⏱️ 8:15 • 1d ago
 
 ---
 
