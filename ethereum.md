@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-23T13:07:54.230027+00:00'
+updated: '2026-02-23T14:30:20.239188+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 13:07 UTC  
+**Last Updated:** February 23, 2026 at 14:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,916.67
+### $1,928.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.6%  
-**7d:** -3.5%  
-**30d:** -31.9%  
-**90d:** -36.4%  
-**1y:** -23.5%  
+**24h:** -1.9%  
+**7d:** -3.7%  
+**30d:** -32.0%  
+**90d:** -36.5%  
+**1y:** -23.7%  
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
+
+---
+
+**[EtherWorld Weekly — Edition 352](https://www.reddit.com/r/ethereum/comments/1rchdoc/etherworld_weekly_edition_352/)**
+
+World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
+
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 1h ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Interested in purchasing these rather than actual crypto, and I am wondering if they pay staking rewards similar to a dividend, or do they stake the ETH while keeping the rewards and charging a management fee?
 
-15h ago
+16h ago
 
 ---
 
@@ -140,23 +148,15 @@ Hey, Just finished integrating x402 (Coinbase's new payment protocol for AI agen
 
 ---
 
-**[Let your Agent Pay for Blockchain Data](https://www.reddit.com/r/ethereum/comments/1ra43dn/let_your_agent_pay_for_blockchain_data/)**
-
-Lobsters like block too You can use x402 for agents to pay and get access to blockchain data now. There’s no clean way for agents to access onchain data without API keys, accounts, or billing friction. Until now. With x402, agents can pay per request using stablecoins over HTTP, wallet in, data out. https://goldrush.dev/blog/goldrush-x402-blockchain-data-for-agents/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum's Vitalik Buterin proposes AI 'stewards' to help reinvent DAO governance](https://www.coindesk.com/web3/2026/02/21/ethereum-s-vitalik-buterin-proposes-ai-stewards-to-help-reinvent-dao-governance)**
+**[Ethereum founder Vitalik Buterin accelerates ether sales](https://www.coindesk.com/markets/2026/02/23/ethereum-founder-vitalik-buterin-accelerates-ether-sales)**
 
-The system would use zero-knowledge proofs and secure environments (MPC/TEEs) to protect voter identity and sensitive data while preventing coercion and bribery.
+The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 1d ago
+CoinDesk • 4h ago
 
 ---
 
@@ -164,31 +164,31 @@ CoinDesk • 1d ago
 
 At ETH Denver, developers warned that advances in quantum computing could threaten Bitcoin’s digital signatures as the industry continues to debate how to prepare.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
-**[Is Ethereum good enough for Wall Street? If history is any guide, the answer is clear](https://fortune.com/crypto/2026/02/23/ethereum-wall-street-canton-r3-zksync-ethdenver/)**
+**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
 
-A consortium of banks is building its own version of blockchain—it will be hard pressed to make it work.
+Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
 
-Fortune • 38m ago
-
----
-
-**[Will Ethereum Price Crash If Vitalik Buterin Keeps Selling? February's $16M Sales Sparks Market Concerns](https://finance.yahoo.com/news/ethereum-price-crash-vitalik-buterin-110429311.html)**
-
-Vitalik Buterin sold $3.67 million worth of ETH over two days. Despite concerns, Buterin’s roughly $16 million in February sales represent just 0.1% of Ethereum’s ...
-
-Yahoo Finance • 2h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
+**[Tom Lee's BitMine (BMNR) buys 51,162 ether (ETH) amid falling crypto prices](https://www.coindesk.com/business/2026/02/23/bitmine-immersion-added-usd98-million-of-ether-last-week-as-losses-balloon-to-more-than-usd8-billion)**
 
-FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
+Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.
 
-The Block • 2d ago
+CoinDesk • 31m ago
+
+---
+
+**[Bitcoin and Ethereum are off to their worst start of the year in a decade—but some see a rebound in sight](https://fortune.com/2026/02/20/bitcoin-ethereum-price-today-worst-starts-in-history-rebound-in-sight/)**
+
+The year-to-date performances of the world’s two largest cryptocurrencies are some of the most bearish on record, according to data from CoinGecko.
+
+Fortune • 2d ago
 
 ---
 
@@ -200,9 +200,17 @@ TradingView • 1d ago
 
 ---
 
+**[Vitalik Buterin is building a 'cypherpunk principled non-ugly Ethereum' as devs officially add FOCIL to upgrade roadmap](https://www.theblock.co/post/390682/vitalik-buterin-is-building-a-cypherpunk-principled-non-ugly-ethereum-as-devs-officially-add-focil-to-upgrade-roadmap)**
+
+FOCIL was officially “scheduled for inclusion” as the consensus-layer (CL) headliner for the upcoming Hegota upgrade, targeted for late 2026.
+
+The Block • 2d ago
+
+---
+
 **[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
 
-Binance • 3h ago
+Binance • 5h ago
 
 ---
 
@@ -211,12 +219,6 @@ Binance • 3h ago
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
-
----
-
-**[BMNR’s Tom Lee points to ‘softer’ inflation trends ahead of weekly ETH purchase update](https://www.msn.com/en-us/money/markets/bmnr-s-tom-lee-points-to-softer-inflation-trends-ahead-of-weekly-eth-purchase-update/ar-AA1WSIrf?ocid=finance-verthp-feeds)**
-
-MSN • 4h ago
 
 ---
 
@@ -238,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 821 • 👍 85 • 💬 3 • ⏱️ 6:00 • 2h ago
+👁️ 821 • 👍 85 • 💬 3 • ⏱️ 6:00 • 4h ago
 
 ---
 
@@ -258,7 +260,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 253 • 👍 16 • 💬 6 • ⏱️ 14:34 • 28m ago
+👁️ 253 • 👍 16 • 💬 6 • ⏱️ 14:34 • 1h ago
 
 ---
 
@@ -268,7 +270,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 84 • 👍 10 • 💬 1 • ⏱️ 4:45 • 3h ago
+👁️ 84 • 👍 10 • 💬 1 • ⏱️ 4:45 • 4h ago
 
 ---
 
@@ -278,7 +280,7 @@ Bitcoin is down. Altcoins are crushed. Gold is soaring. Are we still in a crypto
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 174 • 💬 2 • ⏱️ 21:22 • 20h ago
+👁️ 4K • 👍 174 • 💬 2 • ⏱️ 21:22 • 21h ago
 
 ---
 
@@ -288,7 +290,7 @@ BITCOIN & ALTCOINS JUST FLIPPED (this is next)!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 10K • 👍 316 • 💬 61 • ⏱️ 16:36 • 15h ago
+👁️ 10K • 👍 316 • 💬 61 • ⏱️ 16:36 • 16h ago
 
 ---
 
@@ -308,7 +310,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 365 • 👍 31 • 💬 3 • ⏱️ 1:23:36 • 1h ago
+👁️ 365 • 👍 31 • 💬 3 • ⏱️ 1:23:36 • 3h ago
 
 ---
 
@@ -328,7 +330,7 @@ Donation Address: yourfriendsommi.eth / yourfriendsommi.pls Click Subscribe + Be
 
 📺 🌟yourfriendsommi
 
-👁️ 1K • 👍 167 • 💬 14 • ⏱️ 17:46 • 8h ago
+👁️ 1K • 👍 167 • 💬 14 • ⏱️ 17:46 • 9h ago
 
 ---
 

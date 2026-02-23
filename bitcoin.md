@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-23T13:07:54.224032+00:00'
+updated: '2026-02-23T14:30:20.233006+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - cryptocurrency
-- social
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 23, 2026 at 13:07 UTC  
+**Last Updated:** February 23, 2026 at 14:30 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,411.97
+### $66,062.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.8%  
-**7d:** -1.8%  
-**30d:** -23.5%  
-**90d:** -26.9%  
-**1y:** -27.6%  
+**24h:** -2.5%  
+**7d:** -2.1%  
+**30d:** -23.7%  
+**90d:** -27.1%  
+**1y:** -27.8%  
 
 ---
 
@@ -77,23 +77,23 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Just hit 0.1 coin. A proud moment.](https://www.reddit.com/r/Bitcoin/comments/1rcbe8j/just_hit_01_coin_a_proud_moment/)**
+
+6h ago
+
+---
+
 **[Is anyone else hoping bitcoin drops further so we can buy at a discount?](https://www.reddit.com/r/Bitcoin/comments/1rc5voy/is_anyone_else_hoping_bitcoin_drops_further_so_we/)**
 
 I bought a bunch of bitcoin at $65k USD and now I'm waiting for bitcoin to fall to $50k USD so I can buy even more. I fully expect bitcoin to hit a new record high at some point in the next 4 years. I just don't know exactly when. So I'm hoping bitcoin crashes as hard as possible in 2026, so we can all buy at a discount before it bounces back. Anyone else in the same boat?
 
-10h ago
-
----
-
-**[Just hit 0.1 coin. A proud moment.](https://www.reddit.com/r/Bitcoin/comments/1rcbe8j/just_hit_01_coin_a_proud_moment/)**
-
-5h ago
+11h ago
 
 ---
 
 **[Almost at the end of the month 🙏](https://www.reddit.com/r/Bitcoin/comments/1rc0ddm/almost_at_the_end_of_the_month/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ I bought a bunch of bitcoin at $65k USD and now I'm waiting for bitcoin to fall 
 
 As with every single bear market and subsequent accumulation phase since the inception of Bitcoin, we are now looking at roughly November/December of 2027 until the next official bull market pump/takeoff phase will begin. The low of this current bear market will be somewhere between 40k and 50k, as I said months and months ago and got laughed at. If you are one of those new traders or new Crypto bros who think the next bull market is on the way, you've got some big disappointment headed your way. Right now you should be firmly in accumulation mode. Buy all the way down to the 40k range. The next top of the upcoming bull market pump will very likely top out somewhere between 175,000 and 200,000 as a rough estimate based upon all previous data. Best guess would be 175k. Best estimate is that the low of this bear market will hit around September/October of this year.
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ As with every single bear market and subsequent accumulation phase since the inc
 
 Almost 2 weeks now chilling in the 60s... Don't be the meme lined up at 100k But its going to 30k! Ya and home prices are crashing 50% and the us will pay off its national debt. Mmmhmmm
 
-11h ago
+13h ago
 
 ---
 
@@ -117,7 +117,7 @@ Almost 2 weeks now chilling in the 60s... Don't be the meme lined up at 100k But
 
 When I was a minor back in 2015, my old friend’s big brother convinced me to invest in Bitcoin. He said the price will go to ten thousand. As a naive kid I believed him. Since I was too young to buy any myself, I paid him around $3000 cash to make the purchases for me. That was money from years of red pocket. In hindsight, it was a very stupid but lucky investment. He kept custody till 2021 where he transferred the money in my hardware wallet. I kept the BTC ever since then. I now need to cash out close to a million dollars, but I lost contact with the person who initially purchased the BTC for me because I believe they moved overseas (he should be filthy rich now). I have no way to document proof of the source other than the BTC landing into my wallet in 2021. How should I declare my ACB? Is it best I work with a CPA or tax lawyer? At this point I’m ready for an audit, but will I be in trouble or criminally investigated for because I suddenly deposit so much money into my bank? Does anyone have a similar story? Or has anyone withdrawn large sums without proof of purchase? I am in Canada btw. Thanks. EDIT: Thanks everyone for your response. I've answered many DM's for fun to fuck around with the scammers lol. Like many suggested, I'll reach out to a tax lawyer first, then a crypto CPA. I'm not moving to another country bruh - I'll handle all of this LEGALLY! I like being able to sleep at night.
 
-21h ago
+23h ago
 
 ---
 
@@ -125,7 +125,7 @@ When I was a minor back in 2015, my old friend’s big brother convinced me to i
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+8h ago
 
 ---
 
@@ -133,15 +133,15 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 It is. Always has been. People are npcs
 
-12h ago
+14h ago
 
 ---
 
-**[People just do not yet understand how Bitcoin is different and why it is the ultimate store of value and ultimate debasement asset - James Lavish](https://www.reddit.com/r/Bitcoin/comments/1rbpktw/people_just_do_not_yet_understand_how_bitcoin_is/)**
+**[Gamblers getting liquidated is always fun to watch.](https://www.reddit.com/r/Bitcoin/comments/1rcawx6/gamblers_getting_liquidated_is_always_fun_to_watch/)**
 
-Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can rediscover fire. TLDW: Absolute mathematical scarcity, achieved by consensus in a sufficiently decentralized network, was a DISCOVERY, rather than an invention. It cannot be achieved again by a network of participants aware of this discovery, since the very thing discovered was resistance to replicability itself. ...do you have more time to watch? 1: https://youtu.be/19LA7ReARCQ 2: https://youtu.be/YroOIC8eDrk 3: https://youtu.be/ZsgZjAPjxDU
+https://preview.redd.it/y2stxcc747lg1.png?width=169&format=png&auto=webp&s=3dd52b20338a5fdec569ee4ba10508e5f4493ff3 But at the end, it's always the asset's fault. :)
 
-21h ago
+7h ago
 
 ---
 
@@ -149,7 +149,7 @@ Anyone wondering why some shitcoin cannot take over Bitcoin, because nobody can 
 
 If clean spark liquidates within the next couple days, expect BTC to drop into the 50,000-60,000 range. I bought at $90K, 66K AND 64K. Largest position is at 64k. I'm holding now to see if Clean Spark liquidates, then buy the dip!
 
-10h ago
+11h ago
 
 ---
 
@@ -159,43 +159,37 @@ If clean spark liquidates within the next couple days, expect BTC to drop into t
 
 **[Bitcoin Falls Below $65,000 in Latest Bout of Tariff Uncertainty](https://www.bloomberg.com/news/articles/2026-02-23/bitcoin-btc-slides-to-65-000-in-latest-bout-of-tariff-uncertainty)**
 
-Bloomberg • 1h ago
+Bloomberg • 3h ago
 
 ---
 
-**[Bitdeer's bitcoin treasury drops to zero after miner liquidates remaining 943 BTC](https://www.theblock.co/post/390719/bitdeers-bitcoin-treasury-drops-to-zero-after-miner-liquidates-remaining-943-btc)**
+**[Mexican billionaire Ricardo Salinas remains bullish on bitcoin after plunge](https://www.coindesk.com/markets/2026/02/23/mexican-billionaire-ricardo-salinas-remains-bullish-on-bitcoin-after-plunge)**
 
-The liquidation makes Bitdeer the largest publicly traded bitcoin miner by self-mining hashrate to hold no BTC on its balance sheet.
+Salinas said he has 70% of hits liquid assets in bitcoin during an interview last year, up from 10% in 2020.
 
-The Block • 19h ago
+CoinDesk • 50m ago
 
 ---
 
-**[Missouri Advances Legislation For A State Bitcoin Reserve](https://bitcoinmagazine.com/news/missouri-advances-state-bitcoin-reserve)**
+**[Missouri Advances Second Attempt to Establish State Bitcoin Reserve](https://bitcoinmagazine.com/news/missouri-advances-state-bitcoin-reserve)**
 
 House Bill 2080, introduced by Missouri Rep. Ben Keathley, would create a state 'Bitcoin Strategic Reserve Fund' that would allow the treasurer to acquire and manage bitcoin under set guidelines.
 
-Bitcoin Magazine • 6m ago
+Bitcoin Magazine • 1h ago
 
 ---
 
-**[U.S. stock futures, dollar and bitcoin drop as investors await clarity on Trump’s latest tariff plans](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?gaa_at=eafs&gaa_n=AWEtsqdivsfIoB4Xj5GoxKwbG7641_sIGaYdDBORvzoN1nKfbnSP94TAtHjj&gaa_ts=699c548d&gaa_sig=u-M5M3jvZAXI0LoxqPBe9ZCKalY_WbczBOmc43UtWB5eMxawWO17Km23gyH4KSSDbZP0y7oE1PcBbrWrUljILg%3D%3D)**
+**[Strategy news: MSTR acquired 592 BTC last week](https://www.coindesk.com/markets/2026/02/23/strategy-logs-100th-bitcoin-purchase-announcement-adding-592-coins-last-week-for-usd39-8-million)**
 
-MarketWatch • 9h ago
+Led by Executive Chairman Michael Saylor, the company now holds 717,722 bitcoin, purchased at an average price of $76,020 per coin, for a total of $54.56 billion.
 
----
-
-**[Watch Trump Regroups After Supreme Court Loss, Bitcoin Falls Below $65,000 | The Opening Trade 2/23/2026](https://www.bloomberg.com/news/videos/2026-02-23/the-opening-trade-2-23-2026-video)**
-
-Bloomberg • 13h ago
+CoinDesk • 1h ago
 
 ---
 
-**[US futures, bitcoin fall and Asian markets are mixed after the Supreme Court nixes Trump's tariffs](https://apnews.com/article/stocks-markets-tariffs-trump-b1d3cf0b370842c305daf706f3b47405)**
+**[Bitcoin’s $1 Trillion Identity Crisis Hits From Every Direction](https://www.bloomberg.com/news/articles/2026-02-21/bitcoin-s-1-trillion-identity-crisis-hits-from-every-direction)**
 
-U.S. futures have slipped and world markets were mixed after the Supreme Court struck down most of President Donald Trump’s sweeping tariffs.
-
-AP News • 7h ago
+Bloomberg • 1d ago
 
 ---
 
@@ -207,21 +201,29 @@ Fortune • 3d ago
 
 ---
 
-**[🚨 Bitcoin dropped below $65k. $230 million in leveraged longs liquidated in 60 minutes. When shit gets real, Bitcoin doesn't act like digital gold. It acts like a leveraged tech stock. The "store of value" narrative works great until it doesn't.](https://x.com/MarioNawfal/status/2025775973225070979)**
+**[U.S. stock futures, dollar and bitcoin drop as investors await clarity on Trump’s latest tariff plans](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-clarity-on-trumps-latest-tariff-plans-ae774ba0?gaa_at=eafs&gaa_n=AWEtsqf8g0O458U3Zgm6Bno5nJWNnT8Te0XsVp1--BxCiZW4izU83lEGgeYo&gaa_ts=699c67dc&gaa_sig=caXcrT1dPr_DwsOLKhw0XlWpOzlOKRbtVFaNRNi56nausR6o5TFz_HI7HVbnH9ha8adq-oDl_GYTOKRuEhENKg%3D%3D)**
 
-x.com • 9h ago
+MarketWatch • 10h ago
 
 ---
 
-**[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqeQukAVbhyg7lF6de_pKV1bPI6OCKRQXuxy9iMeWCvDaiqf4sGoUJow&gaa_ts=699c548d&gaa_sig=7bWfcQ7GCLS5biHScX5QMkHguBE0jn0-ujuEBFYRHQD1v2HfLcFJiJsC3YTajKQCQEe55piJAxgAxyBhq1QH7A%3D%3D)**
+**[Watch Trump Regroups After Supreme Court Loss, Bitcoin Falls Below $65,000 | The Opening Trade 2/23/2026](https://www.bloomberg.com/news/videos/2026-02-23/the-opening-trade-2-23-2026-video)**
+
+Bloomberg • 14h ago
+
+---
+
+**[Bitcoin price slips after Trump hikes worldwide tariff to 15% from 10% despite Supreme Court decision](https://www.coindesk.com/markets/2026/02/21/bitcoin-price-slips-after-trump-hikes-worldwide-tariff-to-15-from-10-despite-supreme-court-decision)**
+
+U.S. President Donald Trump announced a 15% worldwide tariff on imported goods, despite an earlier Supreme Court decision that invalidated earlier trade actions.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin, XRP Prices Rise After Crypto Bill Talks. Why It’s Not Enough for a Rally.](https://www.barrons.com/articles/bitcoin-xrp-price-ether-crypto-bill-coinbase-2a691e44?gaa_at=eafs&gaa_n=AWEtsqckO_XEI9pfbIjBxIkd8nE6pu76pVxCu6BuVMLUFAKEn7D-Ryt1jNWh&gaa_ts=699c67dc&gaa_sig=koSWNMAPEzQmWEa2LbE3Z506CVE_6bGaERNgRpgKAL97g4Shs-uzxZQtGKm3lEQ85f5UCYanDbitgyPbGbyJzg%3D%3D)**
 
 Barron's • 3d ago
-
----
-
-**[Bitcoin Took Its First Step Against Quantum Computers](https://www.forbes.com/sites/digital-assets/2026/02/23/bitcoin-took-its-first-step-against-quantum-computers/)**
-
-Forbes • 2h ago
 
 ---
 
@@ -239,7 +241,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 **[Bitcoin's plunge should end the hype that it is digital gold](https://news.ycombinator.com/item?id=47047392)**
 
-⬆️ 1 • 💬 2 • 5d ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
+⬆️ 1 • 💬 2 • 6d ago • [thehill.com](https://thehill.com/opinion/finance/5735525-bitcoin-gold-performance-disparity/)
 
 ---
 
@@ -259,7 +261,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 1d ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 2d ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -287,7 +289,7 @@ Financial independence on a bitcoin standard
 
 **[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
 
-⬆️ 2 • 💬 0 • 23h ago
+⬆️ 2 • 💬 0 • 1d ago
 
 ---
 
@@ -309,7 +311,7 @@ BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://th
 
 📺 The Moon Show
 
-👁️ 5K • 👍 538 • 💬 80 • ⏱️ 7:05 • 3h ago
+👁️ 5K • 👍 538 • 💬 80 • ⏱️ 7:05 • 4h ago
 
 ---
 
@@ -319,7 +321,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 27K • 👍 1K • 💬 408 • ⏱️ 8:44 • 11h ago
+👁️ 27K • 👍 1K • 💬 408 • ⏱️ 8:44 • 12h ago
 
 ---
 
@@ -329,7 +331,7 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 12K • 👍 668 • 💬 96 • ⏱️ 9:10 • 10h ago
+👁️ 12K • 👍 668 • 💬 96 • ⏱️ 9:10 • 12h ago
 
 ---
 
@@ -339,7 +341,7 @@ My Auto BUY / SELL setup https://ckenny.com/PM (Long or Short Automatically) Whe
 
 📺 Conor Kenny
 
-👁️ 9K • 👍 469 • 💬 74 • ⏱️ 16:18 • 6h ago
+👁️ 9K • 👍 469 • 💬 74 • ⏱️ 16:18 • 7h ago
 
 ---
 
@@ -349,7 +351,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 9K • 👍 537 • 💬 47 • ⏱️ 8:25 • 6h ago
+👁️ 9K • 👍 537 • 💬 47 • ⏱️ 8:25 • 8h ago
 
 ---
 
@@ -359,7 +361,7 @@ This is not about tariffs. It is about an $800 trillion wealth rotation that cou
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 2K • 💬 144 • ⏱️ 17:48 • 14h ago
+👁️ 32K • 👍 2K • 💬 144 • ⏱️ 17:48 • 16h ago
 
 ---
 
@@ -369,7 +371,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 150 • ⏱️ 9:22 • 14h ago
+👁️ 37K • 👍 2K • 💬 150 • ⏱️ 9:22 • 15h ago
 
 ---
 
@@ -379,7 +381,7 @@ WEEX: https://cryptokid.io/WEEX-Bonus UP TO $30000 ❎ LeveX: https://levex.com/
 
 📺 Crypto Kid
 
-👁️ 9K • 👍 546 • 💬 138 • ⏱️ 6:12 • 11h ago
+👁️ 9K • 👍 546 • 💬 138 • ⏱️ 6:12 • 12h ago
 
 ---
 
@@ -389,7 +391,7 @@ URGENT Bitcoin Support Update! It Could Be OVER! XRP $1.93B CAPITULATION In this
 
 📺 CryptoWendyO
 
-👁️ 17K • 👍 903 • 💬 59 • ⏱️ 12:58 • 18h ago
+👁️ 17K • 👍 903 • 💬 59 • ⏱️ 12:58 • 20h ago
 
 ---
 

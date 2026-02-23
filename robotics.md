@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T13:07:54.233253+00:00'
+updated: '2026-02-23T14:30:20.242590+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 13:07 UTC  
+**Last Updated:** February 23, 2026 at 14:30 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
-3h ago
+4h ago
 
 ---
 
 **[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -50,7 +50,7 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
 
-15h ago
+16h ago
 
 ---
 
@@ -58,7 +58,7 @@ Built my very first hexapod and i think i love this hobby!Feels great finally se
 
 I’m modifying a garden cart into an autonomous robot. This is just the prototype. Now I want to take it to the next level — more intelligence, more autonomy, more real-world impact. I’m documenting the entire evolution of the project and looking for support to keep building. If you believe in innovation built from scratch, follow along and share. Every bit of support makes a difference. https://linktr.ee/adax.ai
 
-15h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
 
-3h ago
+4h ago
 
 ---
 
@@ -78,17 +78,25 @@ From Brett Adcock on 𝕏: https://x.com/adcock_brett/status/2025282340159979591
 
 ---
 
+**[Is anyone actually running pure end-to-end VLA on edge robots, or are we all just stuck optimizing the "LLM + Skills" middle ground?](https://www.reddit.com/r/robotics/comments/1rci5th/is_anyone_actually_running_pure_endtoend_vla_on/)**
+
+Hey folks, My team is building a spherical ROS 2 robot and we're currently having a massive internal architectural debate. I'd love a reality check from people actually deploying embodied AI on edge hardware. Right now, we've moved away from the traditional, rigid FSM (Finite State Machine) and hardcoded if-else loops for intent parsing. Instead, we are running what we call an "LLM + Skills" architecture. Here is our current stack: We use a lightweight local VLM (1B/2B parameters) purely as a high-level dispatcher/router. It takes in camera/audio input, parses the user's intent, and then calls pre-defined ROS 2 actions/services (e.g., Maps_to(), play_expression(), move_chassis()). It works. It's predictable. It's safe. But honestly, it feels like a stepping stone. At its core, it still feels like a glorified Voice Assistant glued to a traditional state machine. The holy grail everyone talks about right now is Pure VLA (Vision-Language-Action) — pumping pixels and text directly into a model and having it spit out cmd_vel or motor torques directly, bypassing traditional planners completely. My question to the community: Is anyone actually deploying pure end-to-end VLA on real-world edge hardware with any degree of safety and reliability? Or is the "LLM + Skills" hybrid approach the actual practical ceiling for open-source and commercial edge robots right now due to compute limits? Would love to hear how "deep" your models are actually controlling the hardware vs just acting as a fancy NLU layer.
+
+31m ago
+
+---
+
+**[computer vision and robotics](https://www.reddit.com/r/robotics/comments/1rchf5m/computer_vision_and_robotics/)**
+
+1h ago
+
+---
+
 **[What kind of voice should a small home robot have](https://www.reddit.com/r/robotics/comments/1rcc4pl/what_kind_of_voice_should_a_small_home_robot_have/)**
 
 Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
 
-4h ago
-
----
-
-**[Brianna my beloved bot friend getting her limbs back](https://www.reddit.com/r/robotics/comments/1rc6xhc/brianna_my_beloved_bot_friend_getting_her_limbs/)**
-
-9h ago
+5h ago
 
 ---
 
@@ -97,14 +105,6 @@ Lately our team ran into a question we didn’t expect to spend this much time o
 This is a 1.5-metre-long articulated robotic arm constructed with a full metal body and ABS 3D-printed parts. The system is powered by stepper motors and controlled by an Arduino Mega. Unfortunately, the initial project failed due to significant backlash in the shoulder joint. Although I used a compound gear system and each motor was equipped with a planetary gearbox, I identified the gearboxes as the primary source of error. I have since dismantled the robot and am considering switching to harmonic drives. However, these are difficult to source in India and are prohibitively expensive on sites like Alibaba, even with my current budget of ₹1.2 Lakhs.
 
 1d ago
-
----
-
-**[What should I make](https://www.reddit.com/r/robotics/comments/1rbonu9/what_should_i_make/)**
-
-Hello everyone I am 13 years old and I have a lot of robot parts that I have been collecting over the years and I want to make a cool project possibly a custom STARWARS droid or something like that I have a 3D printer and a soldering iron. If anyone has any ideas then let me know.
-
-21h ago
 
 ---
 
@@ -120,14 +120,6 @@ CNBC • 3d ago
 
 ---
 
-**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
-
-The race to dominate physical AI is under way, and Beijing may already have the upper hand
-
-The Telegraph • 1d ago
-
----
-
 **[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
 
 OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
@@ -136,11 +128,11 @@ South China Morning Post • 1d ago
 
 ---
 
-**[China's robotics giant puts 200 robots to the test](https://www.foxnews.com/tech/china-robotics-giant-puts-200-robots-test)**
+**[First Hydrogen Enters into Binding Letter of Intent with Robotics Company](https://finance.yahoo.com/news/first-hydrogen-enters-binding-letter-134500645.html)**
 
-Agibot stages live televised gala with over 200 humanoid robots in Shanghai, featuring synchronized dancing, martial arts and acrobatic performances.
+Vancouver, British Columbia--(Newsfile Corp. - February 23, 2026) - First Hydrogen Corp. (TSXV: FHYD) (OTC Pink: FHYDF) (FSE: FIT) ("FIRST HYDROGEN" or the "Company") announces that it has entered into a binding Letter of Intent (the "LOI") with Exodus Actuation Solutions Inc. ("RoboticsCo"), a company holding patents and related intellectual property ("IP"), including robotics technology. RoboticsCo owns or licenses 25 issued and 11 pending patents covering its Exodus Actuation gearbox and high
 
-Fox News • 2d ago
+Yahoo Finance • 45m ago
 
 ---
 
@@ -148,7 +140,7 @@ Fox News • 2d ago
 
 Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
@@ -164,7 +156,29 @@ Business Insider • 3d ago
 
 MOUs with U.S. dealers and first EAI robot deliveries headline Faraday Future’s plan to focus on Super One, improve cash flow and streamline AIxC.
 
-Stock Titan • 11h ago
+Stock Titan • 13h ago
+
+---
+
+**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
+
+Tech Xplore • 2d ago
+
+---
+
+**[Next-gen robotic hands from China mimic human movement and grip](https://interestingengineering.com/ai-robotics/china-linkerbot-robotic-hands-human-skills)**
+
+Chinese startup LinkerBot has developed a technology to equip humanoids with the skills of performing complex and delicate tasks.
+
+Interesting Engineering • 1h ago
+
+---
+
+**[Honor Teases New Humanoid Robots, First Model Will Arrive at MWC 2026](https://www.pcmag.com/news/honor-teases-new-humanoid-robots-first-model-will-arrive-at-mwc-2026)**
+
+The Chinese smartphone brand revealed a teaser clip for its upcoming service robot.
+
+PCMag • 1h ago
 
 ---
 
@@ -173,22 +187,6 @@ Stock Titan • 11h ago
 Key PointsTesla is repurposing EV factories to build its Optimus robots.
 
 Nasdaq • 2d ago
-
----
-
-**[Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings](https://finance.yahoo.com/news/beyond-tesla-nvidia-2-overlooked-134442037.html)**
-
-Everyone knows NVIDIA (NASDAQ:NVDA) and Tesla (NASDAQ:TSLA) are the marquee names in robotics and autonomous systems. But with both stocks carrying trillion-dollar valuations, the leverage may be limited. Today, we’re spotlighting two robotics stocks that just reported strong Q4 earnings and have drawn renewed analyst attention heading into 2026. While the days of humanoid robots ... Beyond Tesla and Nvidia: 2 Overlooked Robotics Stocks Just Blew Out Earnings
-
-Yahoo Finance • 2d ago
-
----
-
-**[5 Interesting Startup Deals You May Have Missed: Plant-Based Clothing Dyes, A Shoebox-Picking Robot, And Power Generated On The Moon](https://news.crunchbase.com/venture/interesting-startup-deals-ai-robotics-energy-generation/)**
-
-A host of interesting, under-the-radar recently funded startups caught our attention in the past month: one that’s developing nuclear-waste generated electricity on the moon, and another that aims to use AI to extract business intelligence from enterprise contracts. Let’s take a closer look.
-
-Crunchbase News • 1h ago
 
 ---
 
@@ -202,7 +200,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 18K • 👍 641 • 💬 72 • ⏱️ 14:16 • 13h ago
+👁️ 18K • 👍 641 • 💬 72 • ⏱️ 14:16 • 15h ago
 
 ---
 
