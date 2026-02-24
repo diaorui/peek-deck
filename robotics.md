@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T18:31:33.003123+00:00'
+updated: '2026-02-24T19:49:11.828412+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 18:31 UTC  
+**Last Updated:** February 24, 2026 at 19:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,25 +34,19 @@ Robotics research and industry news
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-57m ago
+2h ago
 
 ---
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-19h ago
+20h ago
 
 ---
 
 **[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
 
-10h ago
-
----
-
-**[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
-
-9h ago
+11h ago
 
 ---
 
@@ -60,15 +54,13 @@ Robotics research and industry news
 
 GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
 
-3h ago
+4h ago
 
 ---
 
-**[A Complete SLAM(Simultaneous Localization and Mapping) Implementation for an Indoor Robot.](https://www.reddit.com/r/robotics/comments/1rde3bj/a_complete_slamsimultaneous_localization_and/)**
+**[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
-I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
-
-6h ago
+10h ago
 
 ---
 
@@ -76,7 +68,15 @@ I've recently been experimenting with SLAM (Simultaneous Localization and Mappin
 
 I just started my dream job 3 months ago, I haven't contributed anything significant yet, last whole month I haven't been able to work at all, I am faking working to my colleagues. my colleagues are very helpful and super nice but, soon they are gonna find out, I am gonna loose job, even if I find another, it's gonna be the same result, I have heavy student loan, switching Carrers isn't option. I've no one to talk to who understands, only option I can see is ending it the easy way, pls show if there is any other option
 
-4h ago
+6h ago
+
+---
+
+**[A Complete SLAM(Simultaneous Localization and Mapping) Implementation for an Indoor Robot.](https://www.reddit.com/r/robotics/comments/1rde3bj/a_complete_slamsimultaneous_localization_and/)**
+
+I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
+
+7h ago
 
 ---
 
@@ -84,7 +84,7 @@ I just started my dream job 3 months ago, I haven't contributed anything signifi
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-17h ago
+19h ago
 
 ---
 
@@ -92,15 +92,15 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-13h ago
+14h ago
 
 ---
 
-**[Best Robot Lawn Mowers for 2026 | Online Review](https://www.reddit.com/r/robotics/comments/1rdd5bu/best_robot_lawn_mowers_for_2026_online_review/)**
+**[Automated Asset generation](https://www.reddit.com/r/robotics/comments/1rdpg4e/automated_asset_generation/)**
 
-If you're looking for a robot lawn mower that doesn't need boundary wires, here are a few models that keep coming up in 2026: Best Easy Setup Eufy E15 $2,299 at Amazon Best for Straight Lawns Husqvarna Automower 410 iQ $2,999 at Amazon Best Budget for Small Lawns Anthbot M5 $699 at Anthbot Best Choice for Medium-Sized Lawns Sunseeker X3 Plus $1,399.99 at Sunseeker Best for Large Lawns (Up to 2.5 Acres) Segway Navimow X390 $4,999 at Segway Best for Very Large Lawns (Up to 10 Acres) Kress Mission Mega RTK KR237 $14,999 at Kress Best Commercial-Grade Wire-Free Option Husqvarna Automower 450X EPOS $5,899 at Husqvarna Overall, what stood out to me is that most wire-free robot lawn mowers in 2026 are clearly split by lawn size and complexity. The smaller models seem aimed at convenience and price, while the higher-end ones are basically replacing traditional riding mowers for large properties. Also worth noting: a lot of these newer models rely heavily on RTK/satellite navigation, so yard layout, tree cover, and signal stability probably matter more than they used to. Definitely feels like the tech is maturing, but still not totally one-size-fits-all.
+Folks in embodied AI and VLA training would love this . Just came across palatial on LinkedIn and their asset generation pipeline . They promise physics ready and articulation generated assets ( saves my time from manually editing URDF ) . Would be really interesting to see how it helps industry to pivot from manual teleop and data collection to more sim based approach and sim2real transfer . https://www.linkedin.com/posts/palatialsim\_a-child-consumes-more-data-in-1-month-than-activity-7432107363379265536-ytSV?utm\_medium=ios\_app&rcm=ACoAACvOJv8B6-auy1zBUCy3esLqkSR8o1X5nFY&utm\_source=social\_share\_send&utm\_campaign=copy\_link
 
-7h ago
+40m ago
 
 ---
 
@@ -116,6 +116,14 @@ CNBC • 4d ago
 
 ---
 
+**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
+
+A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
+
+KPAX News • 1d ago
+
+---
+
 **[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
@@ -128,15 +136,23 @@ CNBC • 1d ago
 
 Certis and FieldAI are partnering to deploy autonomous security robots, linking FieldAI autonomy with Certis orchestration across global sites.
 
-eWeek • 3h ago
+eWeek • 4h ago
 
 ---
 
-**[Autonomous robots expose hurricane-driven hidden ocean bloom](https://interestingengineering.com/ai-robotics/hurricane-idalia-ocean-robots-hidden-bloom)**
+**[The hidden infrastructure challenge facing outdoor robotics OEMs](https://www.therobotreport.com/the-hidden-infrastructure-challenge-facing-outdoor-robotics-oems/)**
 
-Ocean robots and satellites reveal hidden subsurface bloom after Hurricane Idalia reshaped Gulf waters.
+Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
 
-Interesting Engineering • 19h ago
+The Robot Report • 19h ago
+
+---
+
+**[Rossville students gain experience at Caston robotics competition](https://www.jconline.com/story/news/education/2026/02/24/rossville-students-caston-robotics-competition-results/88841646007/)**
+
+Two Rossville robotics teams joined 87 squads statewide, learning strategy and teamwork during the Caston competition.
+
+Journal & Courier • 2h ago
 
 ---
 
@@ -152,31 +168,15 @@ MIT Technology Review • 1d ago
 
 Mirumi, whose goal is to “steal your heart,” arrives as the “kidult” market is projected to climb.
 
-The Japan Times • 17h ago
+The Japan Times • 18h ago
 
 ---
 
-**[Rossville students gain experience at Caston robotics competition](https://www.jconline.com/story/news/education/2026/02/24/rossville-students-caston-robotics-competition-results/88841646007/)**
+**[Charleston County students to compete in 16th annual SeaPerch underwater robotics contest](https://abcnews4.com/news/local/charleston-county-students-to-compete-in-16th-annual-seaperch-underwater-robotics-contest-education-stem-engineering-life-skills-north-charleston-sports-complex)**
 
-Two Rossville robotics teams joined 87 squads statewide, learning strategy and teamwork during the Caston competition.
+Students from multiple Charleston County School District schools, will be competing Wednesday in the16th Annual Charleston SeaPerch Challenge.According to the
 
-Journal & Courier • 1h ago
-
----
-
-**[Unlock the ROI of Mobile Robots: Roboteon Launches New Complimentary Robotics Investment Impact Analysis](https://finance.yahoo.com/news/unlock-roi-mobile-robots-roboteon-150000000.html)**
-
-SAN JOSE, Calif., February 24, 2026--Roboteon Announces Complimentary Warehouse Robotics Investment Impact Analysis Service to Provide the Insight Companies Need
-
-Yahoo Finance • 3h ago
-
----
-
-**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
-
-A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
-
-KPAX News • 1d ago
+WCIV • 43m ago
 
 ---
 
@@ -192,13 +192,23 @@ Business Wire • 1d ago
 
 ## YouTube Videos: "robotics"
 
+**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+
+Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+
+📺 New York Post
+
+👁️ 19K • 👍 336 • 💬 323 • ⏱️ 2:30 • 3d ago
+
+---
+
 **[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
 
 Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
 
 📺 DPCcars
 
-👁️ 89K • 👍 468 • 💬 247 • ⏱️ 2:14 • 3d ago
+👁️ 89K • 👍 474 • 💬 248 • ⏱️ 2:14 • 3d ago
 
 ---
 
@@ -208,17 +218,7 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.4M • 👍 107K • 💬 3K • ⏱️ 1:27 • 5d ago
-
----
-
-**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
-
-Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
-
-📺 New York Post
-
-👁️ 19K • 👍 331 • 💬 321 • ⏱️ 2:30 • 3d ago
+👁️ 1.4M • 👍 108K • 💬 3K • ⏱️ 1:27 • 5d ago
 
 ---
 
@@ -228,7 +228,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 74K • 👍 3K • 💬 856 • ⏱️ 14:51 • 4d ago
+👁️ 75K • 👍 3K • 💬 857 • ⏱️ 14:51 • 4d ago
 
 ---
 
@@ -238,7 +238,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 312K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
+👁️ 314K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
 
 ---
 
@@ -248,7 +248,17 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 67K • 👍 1K • 💬 163 • ⏱️ 14:16 • 1d ago
+👁️ 71K • 👍 1K • 💬 169 • ⏱️ 14:16 • 1d ago
+
+---
+
+**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+
+Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+
+📺 NDTV
+
+👁️ 30K • 👍 119 • 💬 214 • ⏱️ 5:02 • 6d ago
 
 ---
 
@@ -258,27 +268,17 @@ The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Coopera
 
 📺 Unitree Robotics
 
-👁️ 1.7M • 👍 2K • 💬 204 • ⏱️ 0:32 • 6d ago
+👁️ 1.8M • 👍 2K • 💬 204 • ⏱️ 0:32 • 6d ago
 
 ---
 
-**[China’s Kung Fu Robots STUN the World with Unreal Live Performance!](https://www.youtube.com/watch?v=_jYdh-gyc3A)**
+**[Unitree Kung Fu Bot   Pray for Blessings at the Temple of Heaven: Wish Everyone All the Best](https://www.youtube.com/watch?v=eQpyvR-B7hc)**
 
-China just stunned the world after showcasing Kung Fu–performing humanoid robots in a massive live event viewed by millions.
+Unitree G1 Robots Cluster Show.
 
-📺 The AI Nexus
+📺 Unitree Robotics
 
-👁️ 42K • 👍 1K • 💬 119 • ⏱️ 18:26 • 6d ago
-
----
-
-**[Should we be impressed or worried by China&#39;s humanoid robot display?](https://www.youtube.com/watch?v=RuEEOUjT-N0)**
-
-China Media Group's 2026 Spring Festival Gala drew widespread attention with a performance of humanoid robots that appeared ...
-
-📺 Guardian News
-
-👁️ 322K • 👍 611 • 💬 460 • ⏱️ 0:52 • 6d ago
+👁️ 777K • 👍 3K • 💬 545 • ⏱️ 0:41 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/ad
 
 📺 The China Show
 
-👁️ 192K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 3d ago
+👁️ 193K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 3d ago
 
 ---
 

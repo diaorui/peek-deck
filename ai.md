@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-24T18:31:32.985249+00:00'
+updated: '2026-02-24T19:49:11.812268+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - videos
+- repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 24, 2026 at 18:31 UTC  
+**Last Updated:** February 24, 2026 at 19:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,39 +41,7 @@ AI news, discussions, and developments
 
 Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falling 10%, after Anthropic announced an AI tool designed to streamline COBOL code modernization. Accenture (NYSE:ACN) and Cognizant Technology Solutions (NASDAQ:CTSH) also declined following the news.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 19h ago
-
----
-
-**[Hegseth and Anthropic CEO set to meet as debate intensifies over the military's use of AI](https://www.reddit.com/r/artificial/comments/1rdj2lr/hegseth_and_anthropic_ceo_set_to_meet_as_debate/)**
-
-Defense Secretary Pete Hegseth plans to meet with the CEO of Anthropic. The artificial intelligence company is the only one of its peers to not supply its technology to a new U.S. military internal network.
-
-🔗 [AP News](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) • 3h ago
-
----
-
-**[Could someone help me?](https://www.reddit.com/r/artificial/comments/1rdk3fb/could_someone_help_me/)**
-
-I'm a first-year engineering student and I've noticed that ChatGPT is extremely bad at helping me with things; the calculations are poor, it gets confused when there's too much data. Does anyone know of any good artificial intelligence that could help me study? I've tested DeepSeek and Gemini but didn't notice much difference.
-
-2h ago
-
----
-
-**[Meta strikes up to $100B AMD chip deal as it chases 'personal superintelligence'](https://www.reddit.com/r/artificial/comments/1rdm17p/meta_strikes_up_to_100b_amd_chip_deal_as_it/)**
-
-Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.
-
-🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 1h ago
-
----
-
-**[AI Reveals Unexpected New Physics in the Fourth State of Matter](https://www.reddit.com/r/artificial/comments/1rd9ivd/ai_reveals_unexpected_new_physics_in_the_fourth/)**
-
-I predicted early in January that ai will discover new physics before 2028 is over, came earlier than expected.
-
-🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 11h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 20h ago
 
 ---
 
@@ -81,7 +49,47 @@ I predicted early in January that ai will discover new physics before 2028 is ov
 
 context: I've been building a system that sends the same question to multiple models in parallel, then has each model review the others. six months, a few thousand sessions, mostly legal and financial questions the design decision I agonized over the most turned out to matter more than any other choice I made blind review changes everything I tested two versions. in one, the reviewing model sees "this is Claude's response." in the other, it just sees "Response A" the difference is kind of alarming when models know they're reviewing a named model, they hedge. they find "nuanced perspectives." there's something resembling professional courtesy baked into these things. makes sense if you think about the training data. reddit threads and twitter posts where people debate which model is better, lots of human-written comparisons that try to be balanced. the politeness is learned behavior with blind review, the gloves come off. scores spread out. critiques get specific. Claude in particular gets almost mean when it doesn't know it's reviewing GPT. it'll identify logical leaps, flag unstated assumptions, point out when a claim needs a citation that isn't there. stuff it would politely sidestep in the named version I don't have a rigorous paper on this. few hundred sessions, skewed toward legal and financial questions. but the pattern was consistent enough that I built the entire system around blind review and never looked back courtesy bias has a direction here's the thing I still don't understand. the courtesy effect is stronger in some directions than others. Claude reviewing GPT blind vs named shows the biggest delta. GPT reviewing Claude shows less difference. I have no good theory for why agreement is less useful than disagreement I assumed the point was to find consensus. three models agree, you're probably right. but sessions with the lowest initial agreement actually produce the best final answers model agreement on factual stuff: 70-80%. analytical or strategic questions: 40-50%. and the low-agreement sessions, where models are fighting, tend to surface things no single model caught. forced convergence seems to produce higher quality than natural consensus I suspect agreement means the models are pulling from the same training patterns. disagreement means at least one found a different path through the problem. the different path is usually where the insight lives the tool I built around this is in my profile if anyone wants to see blind review in action. curious whether others working with multi-model systems have noticed similar patterns
 
+4h ago
+
+---
+
+**[Hegseth and Anthropic CEO set to meet as debate intensifies over the military's use of AI](https://www.reddit.com/r/artificial/comments/1rdj2lr/hegseth_and_anthropic_ceo_set_to_meet_as_debate/)**
+
+Defense Secretary Pete Hegseth plans to meet with the CEO of Anthropic. The artificial intelligence company is the only one of its peers to not supply its technology to a new U.S. military internal network.
+
+🔗 [AP News](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) • 4h ago
+
+---
+
+**[Meta strikes up to $100B AMD chip deal as it chases 'personal superintelligence'](https://www.reddit.com/r/artificial/comments/1rdm17p/meta_strikes_up_to_100b_amd_chip_deal_as_it/)**
+
+Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.
+
+🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 2h ago
+
+---
+
+**[AI Reveals Unexpected New Physics in the Fourth State of Matter](https://www.reddit.com/r/artificial/comments/1rd9ivd/ai_reveals_unexpected_new_physics_in_the_fourth/)**
+
+I predicted early in January that ai will discover new physics before 2028 is over, came earlier than expected.
+
+🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 12h ago
+
+---
+
+**[Could someone help me?](https://www.reddit.com/r/artificial/comments/1rdk3fb/could_someone_help_me/)**
+
+I'm a first-year engineering student and I've noticed that ChatGPT is extremely bad at helping me with things; the calculations are poor, it gets confused when there's too much data. Does anyone know of any good artificial intelligence that could help me study? I've tested DeepSeek and Gemini but didn't notice much difference.
+
 3h ago
+
+---
+
+**[Why are most AI courses so broad but never actually deep?](https://www.reddit.com/r/artificial/comments/1rdiiue/why_are_most_ai_courses_so_broad_but_never/)**
+
+Please be honest with me. I’ve joined multiple paid communities and courses about AI, content creation, animation, and online growth. I’ve spent real money. But I keep running into the same problem. Everything is always… too broad. They cover 50 tools. They talk about AI influencing, AI ads, automation, marketing, trends. But when it comes to actually mastering ONE specific thing deeply — it’s missing. For example, what I really want is: • How to build my own 3D character • How to keep character consistency • How to maintain world consistency • How to plan storyboarding properly • Camera angles, scene continuity, shot variations • How to structure episodes • Hooks, pacing, storytelling flow Instead, most courses feel like: “Here are 20 tools, try them all.” But I don’t want 20 topics mixed together. I want one focused system done properly. I don’t mind if multiple tools are mentioned — that’s fine. But I don’t want 10 different subjects mixed into one course. Is there actually a focused path for AI-based animation storytelling? Or is everything just marketing funnels and tool showcases? If you’ve found something structured and specific (not hype), I’d genuinely appreciate guidance. I feel like there must be a smarter way to approach this.
+
+4h ago
 
 ---
 
@@ -89,7 +97,7 @@ context: I've been building a system that sends the same question to multiple mo
 
 A Pew Research Center survey found that just 4 in 10 parents talk to their teens about AI usage.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/ai-teens-parents-pew-survey/) • 2h ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/ai-teens-parents-pew-survey/) • 3h ago
 
 ---
 
@@ -99,19 +107,11 @@ A Pew Research Center survey found that just 4 in 10 parents talk to their teens
 
 ---
 
-**[Why are most AI courses so broad but never actually deep?](https://www.reddit.com/r/artificial/comments/1rdiiue/why_are_most_ai_courses_so_broad_but_never/)**
-
-Please be honest with me. I’ve joined multiple paid communities and courses about AI, content creation, animation, and online growth. I’ve spent real money. But I keep running into the same problem. Everything is always… too broad. They cover 50 tools. They talk about AI influencing, AI ads, automation, marketing, trends. But when it comes to actually mastering ONE specific thing deeply — it’s missing. For example, what I really want is: • How to build my own 3D character • How to keep character consistency • How to maintain world consistency • How to plan storyboarding properly • Camera angles, scene continuity, shot variations • How to structure episodes • Hooks, pacing, storytelling flow Instead, most courses feel like: “Here are 20 tools, try them all.” But I don’t want 20 topics mixed together. I want one focused system done properly. I don’t mind if multiple tools are mentioned — that’s fine. But I don’t want 10 different subjects mixed into one course. Is there actually a focused path for AI-based animation storytelling? Or is everything just marketing funnels and tool showcases? If you’ve found something structured and specific (not hype), I’d genuinely appreciate guidance. I feel like there must be a smarter way to approach this.
-
-3h ago
-
----
-
 **[Prompt repetition adds zero accuracy to AI agents on engineering tasks](https://www.reddit.com/r/artificial/comments/1rd3jd0/prompt_repetition_adds_zero_accuracy_to_ai_agents/)**
 
 We tested prompt repetition on 20 parallel AI agents. Ceiling effects dominated both experiments. The null result is a finding about evaluation design.
 
-🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 15h ago
+🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 16h ago
 
 ---
 
@@ -123,45 +123,19 @@ We tested prompt repetition on 20 parallel AI agents. Ceiling effects dominated 
 
 Shares in Uber, Mastercard and American Express fall on back of apocalypse scenario posted on Substack
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
-**[Skittish investors spooked as dystopian AI outlooks go viral](https://www.reuters.com/business/skittish-investors-spooked-dystopian-ai-outlooks-go-viral-2026-02-24/)**
+**[Breaking Down the Doomsday AI Memo That Spooked Markets](https://www.wsj.com/tech/ai/breaking-down-the-viral-memo-that-spooked-markets-bc088c83?gaa_at=eafs&gaa_n=AWEtsqfywYp-FRIMxokry_cUkTBvuoSNTR808yQZxzJ18LoEJSkCjG1-wLiP&gaa_ts=699e0419&gaa_sig=yjq8XrMAuv1zyMIwOJ8QeBjhmD_IHbkGuCwkx6akuJ_vGKDohECrg76ha04XBgYIkmPA8tY3zsYYF2JOth-t7w%3D%3D)**
 
-Reuters • 6h ago
+WSJ • 3h ago
 
 ---
 
 **[The AI doom-and-gloom scenario captivating Wall Street](https://www.axios.com/2026/02/24/ai-stock-market-unemployment)**
 
-Axios • 8h ago
-
----
-
-**[Behind the Curtain: AI's biggest threats](https://www.axios.com/2026/02/24/ai-biggest-threats-2028-election)**
-
-Axios • 7h ago
-
----
-
-**[Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits](https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html)**
-
-The New York Times • 19h ago
-
----
-
-**[Pete Hegseth meets with Anthropic CEO Dario Amodei over disagreements about AI guardrails for military use](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)**
-
-Anthropic CEO Dario Amodei is meeting with Defense Secretary Pete Hegseth today, as the Pentagon threatens the AI company with what could amount to a government blacklist.
-
-CNN • 1h ago
-
----
-
-**[For AI labs, Pete Hegseth’s Pentagon brings opportunities—and risks](https://www.economist.com/business/2026/02/24/for-ai-labs-pete-hegseths-pentagon-brings-opportunities-and-risks)**
-
-The Economist • 37m ago
+Axios • 9h ago
 
 ---
 
@@ -173,17 +147,43 @@ Anthropic • 1d ago
 
 ---
 
-**[IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat](https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html)**
+**[Animal shelter inundated with calls over fake AI dog photo](https://thehill.com/policy/technology/5752651-animal-shelter-calls-ai-dog-video/)**
 
-COBOL is a computer language used for business data processing and IBM is a leader in that area.
-
-CNBC • 23h ago
+The Hill • 33m ago
 
 ---
 
-**[Anthropic unveils new business tools after release sparked market sell-off](https://thehill.com/policy/technology/5752717-anthropic-claude-cowork-connectors/)**
+**[Shelby Co. DA partners with AI company to launch evidence management agent](https://www.yahoo.com/news/articles/shelby-co-da-partners-ai-191308362.html)**
 
-The Hill • 19m ago
+The Shelby County District Attorney's Office has announced the launch of a new AI-powered evidence management agent.  The DA's office's partnership with the Memphis-based Foltrigg.ai aims to help pros...
+
+Yahoo • 36m ago
+
+---
+
+**[Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits](https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html)**
+
+The New York Times • 21h ago
+
+---
+
+**[Exclusive: Hegseth gives Anthropic until Friday to back down on AI safeguards](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario)**
+
+Axios • 1h ago
+
+---
+
+**[Hegseth sets Friday deadline for Anthropic to drop its AI red lines](https://www.politico.com/news/2026/02/24/hegseth-sets-friday-deadline-for-anthropic-to-drop-its-ai-red-lines-00795641)**
+
+Politico • 9m ago
+
+---
+
+**[AI nerves are fraying. Anthropic keeps doubling down](https://www.cnn.com/2026/02/24/tech/anthropic-claude-plugins-office-jobs)**
+
+Just weeks after its AI tools shook software stocks, Anthropic is pushing even deeper into the workplace. The company is updating its Claude AI helper to perform better at tasks within specific jobs, such as design, human resources and wealth management roles, while also enabling it to work across Microsoft Excel and PowerPoint apps.
+
+CNN • 5h ago
 
 ---
 
@@ -195,7 +195,7 @@ The Hill • 19m ago
 
 We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.
 
-⬆️ 1235 • 💬 687 • 1d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
+⬆️ 1235 • 💬 692 • 1d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
 
 ---
 
@@ -203,13 +203,13 @@ We're adopting Rust as our C++ successor language, and using AI agents to accele
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 797 • 💬 688 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 797 • 💬 689 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 564 • 💬 439 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 564 • 💬 440 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -217,7 +217,7 @@ I’m seeking assistance regarding a sudden restriction on my Google AI Ultra ac
 
 The latest update of Firefox, version 148, introduces a much-anticipated "AI kill switch" feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company’s new revenue-focused strategy regarding AI integrations. […]
 
-⬆️ 430 • 💬 349 • 12h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+⬆️ 435 • 💬 362 • 14h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 
 ---
 
@@ -226,15 +226,15 @@ The latest update of Firefox, version 148, introduces a much-anticipated "AI kil
 My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
 During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
 
-⬆️ 411 • 💬 329 • 20h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+⬆️ 413 • 💬 332 • 22h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 
 ---
 
-**[IDF Killed Gaza Aid Workers at Point Blank Range in 2025 Massacre: Report](https://news.ycombinator.com/item?id=47136179)**
+**[IDF killed Gaza aid workers at point blank range in 2025 massacre: Report](https://news.ycombinator.com/item?id=47136179)**
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 286 • 💬 59 • 6h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 373 • 💬 78 • 7h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -242,7 +242,7 @@ A minute-by-minute reconstruction of the massacre by Earshot and Forensic Archit
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 274 • 💬 262 • 19h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 275 • 💬 262 • 20h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -258,7 +258,7 @@ BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled bina
 
 Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
 
-⬆️ 166 • 💬 58 • 1d ago • [LLM Timeline](https://llm-timeline.com/)
+⬆️ 167 • 💬 59 • 1d ago • [LLM Timeline](https://llm-timeline.com/)
 
 ---
 
@@ -266,7 +266,7 @@ Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT �
 
 <p>IZUMI-SANO, Osaka — Kansai Airport is proud to have never had a lost baggage incident in the 30 years since it opened in 1994, earning recognition as the airport with the world’s best baggage service.</p>
 
-⬆️ 115 • 💬 38 • 1h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
+⬆️ 153 • 💬 54 • 3h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
 
 ---
 
@@ -280,7 +280,17 @@ He worked inside the AI industry — until he was suddenly laid off. Now he's sp
 
 📺 Jay Reed
 
-👁️ 42K • 👍 3K • 💬 784 • ⏱️ 9:01 • 23h ago
+👁️ 45K • 👍 3K • 💬 846 • ⏱️ 9:01 • 1d ago
+
+---
+
+**[The AI Tsunami is Here &amp; Society Isn&#39;t Ready | Dario Amodei x Nikhil Kamath | People by WTF](https://www.youtube.com/watch?v=68ylaeBbdsg)**
+
+I sat down with Dario Amodei in Bangalore. He built Claude, but he started as a biologist looking for a tool to cure disease. Today ...
+
+📺 Nikhil Kamath
+
+👁️ 171K • 👍 5K • 💬 659 • ⏱️ 1:08:35 • 10h ago
 
 ---
 
@@ -290,7 +300,17 @@ I made ai create my very own all in one AI webapp! This was definitely interesti
 
 📺 tef
 
-👁️ 16K • 👍 1K • 💬 257 • ⏱️ 8:46 • 23h ago
+👁️ 17K • 👍 1K • 💬 259 • ⏱️ 8:46 • 1d ago
+
+---
+
+**[&#39;An AI Tsunami Is Coming...&#39;: Dario Amodei Talks About This AI Warning To Nikhil Kamath](https://www.youtube.com/watch?v=KJOO5P-3z2E)**
+
+Artificial intelligence is approaching human-level capability far faster than most people realise, according to Anthropic CEO Dario ...
+
+📺 NDTV Profit
+
+👁️ 5K • 👍 30 • 💬 8 • ⏱️ 2:48 • 8h ago
 
 ---
 
@@ -300,17 +320,17 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 67K • 👍 1K • 💬 163 • ⏱️ 14:16 • 1d ago
+👁️ 71K • 👍 1K • 💬 169 • ⏱️ 14:16 • 1d ago
 
 ---
 
-**[You&#39;re Right - I&#39;m AI generated (Here&#39;s The Proof)](https://www.youtube.com/watch?v=K3SD34vHPe4)**
+**[Cops Use AI to Arrest an Innocent Man &amp; It Cost Them MILLIONS](https://www.youtube.com/watch?v=q92ut2cB0-c)**
 
-People keep asking if I'm AI… so I decided to actually test it. As a computer scientist, I built AI versions of myself and compared ...
+An AI system said this man was a '100% match' for someone banned from a casino—so security detained him, police arrested him ...
 
-📺 House of El
+📺 Hampton Law
 
-👁️ 95K • 👍 10K • 💬 2K • ⏱️ 5:22 • 1d ago
+👁️ 87K • 👍 3K • 💬 1K • ⏱️ 24:18 • 2d ago
 
 ---
 
@@ -324,13 +344,23 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 ---
 
-**[Cops Use AI to Arrest an Innocent Man &amp; It Cost Them MILLIONS](https://www.youtube.com/watch?v=q92ut2cB0-c)**
+**[Not all software will be &#39;eaten&#39; by AI: Daniel Newman](https://www.youtube.com/watch?v=pGLKpweKlWk)**
 
-An AI system said this man was a '100% match' for someone banned from a casino—so security detained him, police arrested him ...
+Futurum Group CEO Daniel Newman analyzes the software market sell-off, discussing A.I.'s impact on software and distinguishing ...
 
-📺 Hampton Law
+📺 Fox Business Clips
 
-👁️ 79K • 👍 3K • 💬 1K • ⏱️ 24:18 • 1d ago
+👁️ 5K • 👍 77 • 💬 4 • ⏱️ 5:47 • 15h ago
+
+---
+
+**[You&#39;re Right - I&#39;m AI generated (Here&#39;s The Proof)](https://www.youtube.com/watch?v=K3SD34vHPe4)**
+
+People keep asking if I'm AI… so I decided to actually test it. As a computer scientist, I built AI versions of myself and compared ...
+
+📺 House of El
+
+👁️ 98K • 👍 10K • 💬 2K • ⏱️ 5:22 • 1d ago
 
 ---
 
@@ -340,37 +370,7 @@ My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 147K • 👍 6K • 💬 787 • ⏱️ 36:37 • 1d ago
-
----
-
-**[The AI Tsunami is Here &amp; Society Isn&#39;t Ready | Dario Amodei x Nikhil Kamath | People by WTF](https://www.youtube.com/watch?v=68ylaeBbdsg)**
-
-I sat down with Dario Amodei in Bangalore. He built Claude, but he started as a biologist looking for a tool to cure disease. Today ...
-
-📺 Nikhil Kamath
-
-👁️ 118K • 👍 4K • 💬 556 • ⏱️ 1:08:35 • 9h ago
-
----
-
-**[38 Kling 3.0 Prompts for Cinematic AI Videos](https://www.youtube.com/watch?v=jQ0jQwhpGpE)**
-
-Use Kling 3.0 inside Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa4 In this video, I break down 38 cinematic camera ...
-
-📺 Isa does AI
-
-👁️ 5K • 💬 5 • ⏱️ 18:32 • 3h ago
-
----
-
-**[Uber CEO: I Have To Be Honest, AI Will Replace 9.4 Million Jobs At Uber!](https://www.youtube.com/watch?v=s52O1JH2tnU)**
-
-Uber CEO Dara Khosrowshahi reveals the future of driverless cars, how he led Uber's financial turnaround, his family's escape ...
-
-📺 The Diary Of A CEO
-
-👁️ 320K • 👍 7K • 💬 2K • ⏱️ 1:43:17 • 1d ago
+👁️ 155K • 👍 6K • 💬 818 • ⏱️ 36:37 • 1d ago
 
 ---
 
@@ -386,7 +386,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 390,092 • ❤️ 981 • 1d ago
+⬇️ 390,092 • ❤️ 987 • 1d ago
 
 ---
 
@@ -410,7 +410,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 202,462 • ❤️ 771 • 2d ago
+⬇️ 202,462 • ❤️ 773 • 2d ago
 
 ---
 
@@ -434,7 +434,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 223,962 • ❤️ 899 • 8d ago
+⬇️ 223,962 • ❤️ 902 • 8d ago
 
 ---
 
@@ -446,7 +446,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 34,627 • ❤️ 184 • 1d ago
+⬇️ 34,627 • ❤️ 190 • 1d ago
 
 ---
 
@@ -458,7 +458,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 174 • 1d ago
+⬇️ 0 • ❤️ 177 • 1d ago
 
 ---
 
@@ -494,7 +494,7 @@ ZUNA is a 380M-parameter EEG foundation model capable of denoising, reconstructi
 
 `382.0M`
 
-⬇️ 1,351 • ❤️ 126 • 20h ago
+⬇️ 1,351 • ❤️ 126 • 34m ago
 
 ---
 
@@ -547,7 +547,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 17 • 💬 1 • ⭐ 30,557 • 14mo ago
+▲ 18 • 💬 1 • ⭐ 30,557 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -599,9 +599,23 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
 
-▲ 145 • 💬 2 • ⭐ 54,862 • 5mo ago
+▲ 145 • 💬 2 • ⭐ 54,897 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+
+---
+
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
+
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
+
+🏢 GVC Lab at Great Bay University
+
+PersonaLive is a diffusion-based portrait animation framework that improves real-time performance through hybrid implicit signals, appearance distillation, and autoregressive streaming generation.
+
+▲ 36 • 💬 3 • ⭐ 1,901 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
 ---
 
@@ -613,21 +627,9 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 A compact vision-language-diffusion model called Mobile-O enables efficient unified multimodal understanding and generation on mobile devices through specialized architecture design and optimized training methodology.
 
-▲ 16 • 💬 2 • ⭐ 31 • 1d ago
+▲ 18 • 💬 2 • ⭐ 31 • 1d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2602.20161) • [💻 code](https://github.com/Amshaker/Mobile-O) • [🔗 project](https://amshaker.github.io/Mobile-O/)
-
----
-
-**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
-
-*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
-
-Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
-
-▲ 43 • 💬 2 • ⭐ 47,913 • 10mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -641,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 18.4k • 🔱 2.2k • 1h ago
+⭐ 18.5k • 🔱 2.2k • 12m ago
 
 ---
 
@@ -659,7 +661,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.4k • 🔱 661 • 9h ago
+⭐ 5.4k • 🔱 661 • 10h ago
 
 ---
 
@@ -669,7 +671,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 3.9k • 🔱 196 • 5h ago
+⭐ 3.9k • 🔱 197 • 6h ago
 
 ---
 
@@ -679,7 +681,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 339 • 2h ago
+⭐ 3.4k • 🔱 341 • 38m ago
 
 ---
 
@@ -689,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.1k • 🔱 411 • 13h ago
+⭐ 3.1k • 🔱 412 • 2h ago
 
 ---
 
@@ -699,7 +701,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.8k • 🔱 189 • 8h ago
+⭐ 2.8k • 🔱 190 • 1h ago
 
 ---
 
@@ -709,7 +711,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.7k • 🔱 314 • 5h ago
+⭐ 2.7k • 🔱 314 • 6h ago
 
 ---
 
@@ -719,7 +721,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.6k • 🔱 132 • 4h ago
+⭐ 2.6k • 🔱 132 • 5h ago
 
 ---
 
@@ -729,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 454 • 1h ago
+⭐ 2.3k • 🔱 456 • 2h ago
 
 ---
 
