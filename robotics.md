@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T13:49:30.062635+00:00'
+updated: '2026-02-24T14:51:57.525306+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 13:49 UTC  
+**Last Updated:** February 24, 2026 at 14:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-14h ago
+15h ago
 
 ---
 
 **[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
 
-5h ago
+6h ago
 
 ---
 
 **[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-13h ago
+14h ago
 
 ---
 
@@ -62,7 +62,7 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-8h ago
+10h ago
 
 ---
 
@@ -70,7 +70,7 @@ I’ve been working with my team on a small wheeled-leg robot recently, we wante
 
 I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
 
-2h ago
+3h ago
 
 ---
 
@@ -78,7 +78,15 @@ I've recently been experimenting with SLAM (Simultaneous Localization and Mappin
 
 If you're looking for a robot lawn mower that doesn't need boundary wires, here are a few models that keep coming up in 2026: Best Easy Setup Eufy E15 $2,299 at Amazon Best for Straight Lawns Husqvarna Automower 410 iQ $2,999 at Amazon Best Budget for Small Lawns Anthbot M5 $699 at Anthbot Best Choice for Medium-Sized Lawns Sunseeker X3 Plus $1,399.99 at Sunseeker Best for Large Lawns (Up to 2.5 Acres) Segway Navimow X390 $4,999 at Segway Best for Very Large Lawns (Up to 10 Acres) Kress Mission Mega RTK KR237 $14,999 at Kress Best Commercial-Grade Wire-Free Option Husqvarna Automower 450X EPOS $5,899 at Husqvarna Overall, what stood out to me is that most wire-free robot lawn mowers in 2026 are clearly split by lawn size and complexity. The smaller models seem aimed at convenience and price, while the higher-end ones are basically replacing traditional riding mowers for large properties. Also worth noting: a lot of these newer models rely heavily on RTK/satellite navigation, so yard layout, tree cover, and signal stability probably matter more than they used to. Definitely feels like the tech is maturing, but still not totally one-size-fits-all.
 
-2h ago
+3h ago
+
+---
+
+**[I made a Python lib that lets two machines talk in 3 lines — no config, no setup](https://www.reddit.com/r/robotics/comments/1rdgz6v/i_made_a_python_lib_that_lets_two_machines_talk/)**
+
+I'm an undergrad. I've worked on competition robots, lab projects, and industry internships — and every single time, getting two machines to just send data to each other was way more painful than it should be. Like, I just want to send a sensor data from machine A to machine B. Why does that take an afternoon of setup? So I built NitROS — a Python pub/sub library where this actually works: # Machine A from nitros import Publisher pub = Publisher("sensors") pub.send({"temperature": 23.5, "humidity": 65}) # Machine B from nitros import Subscriber def callback(msg): print(msg) Subscriber("sensors", callback) That's it. No IPs, no config files, no build steps. mDNS auto-discovery handles the rest. Also handles numpy arrays, camera frames (with JPEG compression), and point clouds out of the box. It's NOT a full middleware replacement. No TF, no URDF, no services. Just pub/sub that works in 30 seconds. Best for prototyping, competitions, simple robot-to-laptop comms. GitHub: https://github.com/inputnameplz/NitROS Would love feedback — what's missing? What would make you actually try it?
+
+51m ago
 
 ---
 
@@ -94,15 +102,7 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 I just started my dream job 3 months ago, I haven't contributed anything significant yet, last whole month I haven't been able to work at all, I am faking working to my colleagues. my colleagues are very helpful and super nice but, soon they are gonna find out, I am gonna loose job, even if I find another, it's gonna be the same result, I have heavy student loan, switching Carrers isn't option. I've no one to talk to who understands, only option I can see is ending it the easy way, pls show if there is any other option
 
-1m ago
-
----
-
-**[Machine Learning’s Role in Industrial Robotics](https://www.reddit.com/r/robotics/comments/1rdfyg6/machine_learnings_role_in_industrial_robotics/)**
-
-Adoption is less about algorithms and more about integration and data quality. Legacy PLC and SCADA systems, siloed data, and unclear ownership of models can slow deployment. Success often depends on defining a specific operational goal first, building a clean data foundation, and scaling from validated pilot use cases.
-
-🔗 [Automate](https://www.automate.org/ai/industry-insights/how-ai-and-ml-are-redefining-manufacturing-intelligence) • 33m ago
+1h ago
 
 ---
 
@@ -130,7 +130,7 @@ KPAX News • 1d ago
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -138,7 +138,7 @@ CNBC • 23h ago
 
 Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
 
-The Robot Report • 13h ago
+The Robot Report • 14h ago
 
 ---
 
@@ -146,7 +146,15 @@ The Robot Report • 13h ago
 
 AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
 
-MIT Technology Review • 20h ago
+MIT Technology Review • 21h ago
+
+---
+
+**[A fluffy pink robot may be Japan’s answer to Labubu](https://www.japantimes.co.jp/business/2026/02/24/companies/japan-labubu-mirumi/)**
+
+Mirumi, whose goal is to “steal your heart,” arrives as the “kidult” market is projected to climb.
+
+The Japan Times • 13h ago
 
 ---
 
@@ -155,6 +163,14 @@ MIT Technology Review • 20h ago
 Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global shared intelligent electric mobi...
 
 Business Wire • 1d ago
+
+---
+
+**[From Doraemon to dexterous hands: LinkerBot equips robots with human skills](https://www.scmp.com/tech/tech-trends/article/3344242/doraemon-dexterous-hands-chinas-linkerbot-equips-robots-human-skills)**
+
+The start-up is revolutionising humanoid robotics with ultra-dexterous hands, ushering in a new era of humanlike robotic capability.
+
+South China Morning Post • 1d ago
 
 ---
 
@@ -174,25 +190,19 @@ Seeking Alpha • 2d ago
 
 ---
 
-**[From Doraemon to dexterous hands: LinkerBot equips robots with human skills](https://www.scmp.com/tech/tech-trends/article/3344242/doraemon-dexterous-hands-chinas-linkerbot-equips-robots-human-skills)**
-
-The start-up is revolutionising humanoid robotics with ultra-dexterous hands, ushering in a new era of humanlike robotic capability.
-
-South China Morning Post • 1d ago
-
----
-
-**[How AI, automated labs and CDMOs are replacing agrifood’s 100-year-old R&D playbook](https://agfundernews.com/how-ai-automated-labs-and-cdmos-are-replacing-agrifoods-100-year-old-rd-playbook)**
-
-The world's most critical challenges are accelerating at a rapid pace. The R&D methods tasked with solving them are not—until now.
-
-AgFunderNews • 2h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
+
+AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
+
+📺 The AI Nexus
+
+👁️ 743 • 👍 55 • 💬 7 • ⏱️ 21:45 • 9h ago
+
+---
 
 **[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
 
@@ -200,27 +210,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 88K • 👍 458 • 💬 245 • ⏱️ 2:14 • 3d ago
-
----
-
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
-
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
-
-📺 10 News
-
-👁️ 309K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
-
----
-
-**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
-
-Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
-
-📺 New York Post
-
-👁️ 19K • 👍 329 • 💬 320 • ⏱️ 2:30 • 2d ago
+👁️ 88K • 👍 462 • 💬 245 • ⏱️ 2:14 • 3d ago
 
 ---
 
@@ -230,7 +220,27 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.4M • 👍 106K • 💬 3K • ⏱️ 1:27 • 4d ago
+👁️ 1.4M • 👍 107K • 💬 3K • ⏱️ 1:27 • 4d ago
+
+---
+
+**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+
+Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+
+📺 10 News
+
+👁️ 311K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
+
+---
+
+**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+
+Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+
+📺 New York Post
+
+👁️ 19K • 👍 331 • 💬 321 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -240,7 +250,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 73K • 👍 3K • 💬 845 • ⏱️ 14:51 • 3d ago
+👁️ 73K • 👍 3K • 💬 849 • ⏱️ 14:51 • 3d ago
+
+---
+
+**[China’s Combat Robots Steal the Show at Lunar New Year Gala](https://www.youtube.com/watch?v=MFCmePpllIA)**
+
+China's combat robots steal the show at the Lunar New Year gala as advanced humanoid machines stunned audiences with ...
+
+📺 Carros Show
+
+👁️ 117K • 👍 1K • 💬 250 • ⏱️ 9:50 • 5d ago
 
 ---
 
@@ -250,47 +270,27 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 152 • ⏱️ 14:16 • 1d ago
+👁️ 64K • 👍 1K • 💬 159 • ⏱️ 14:16 • 1d ago
 
 ---
 
-**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+**[What If Robots Broke the Three Laws?](https://www.youtube.com/watch?v=vJuusnxe-Tg)**
 
-Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+IRobot#I ...
 
-📺 NDTV
+📺 CineCraft
 
-👁️ 29K • 👍 118 • 💬 214 • ⏱️ 5:02 • 6d ago
-
----
-
-**[Humanoid robots dance at the Temple of Heaven for the Chinese New Year#coolchina](https://www.youtube.com/watch?v=PY-LqvwhtRE)**
-
-Following their performance on the Spring Festival Gala stage, where humanoid robots danced and demonstrated martial arts as ...
-
-📺 CGTN
-
-👁️ 78K • 👍 2K • 💬 385 • ⏱️ 2:14 • 1d ago
+👁️ 6K • 👍 313 • 💬 2 • ⏱️ 1:09 • 1h ago
 
 ---
 
-**[A Whole Bunch of Robots Sending New Year Greetings to Everyone!](https://www.youtube.com/watch?v=w4IOJH9Akhg)**
+**[Unitree Kung Fu Robots Take Over Temple of Heaven With Advanced AI System](https://www.youtube.com/watch?v=Yy7YXsTZjwQ)**
 
-The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Cooperative Rapid Scheduling System.
+Humanoid robots performing martial arts at the Temple of Heaven? Unitree's latest video shows coordinated G1 robots delivering ...
 
-📺 Unitree Robotics
+📺 DPCcars
 
-👁️ 1.6M • 👍 2K • 💬 202 • ⏱️ 0:32 • 6d ago
-
----
-
-**[China’s Kung Fu Robots STUN the World with Unreal Live Performance!](https://www.youtube.com/watch?v=_jYdh-gyc3A)**
-
-China just stunned the world after showcasing Kung Fu–performing humanoid robots in a massive live event viewed by millions.
-
-📺 The AI Nexus
-
-👁️ 42K • 👍 1K • 💬 119 • ⏱️ 18:26 • 6d ago
+👁️ 14K • 👍 135 • 💬 61 • ⏱️ 2:11 • 23h ago
 
 ---
 

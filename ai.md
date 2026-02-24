@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-24T13:49:30.045135+00:00'
+updated: '2026-02-24T14:51:57.509964+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
+- repositories
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 24, 2026 at 13:49 UTC  
+**Last Updated:** February 24, 2026 at 14:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falling 10%, after Anthropic announced an AI tool designed to streamline COBOL code modernization. Accenture (NYSE:ACN) and Cognizant Technology Solutions (NASDAQ:CTSH) also declined following the news.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 14h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 15h ago
 
 ---
 
@@ -49,13 +49,13 @@ Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falli
 
 I predicted early in January that ai will discover new physics before 2028 is over, came earlier than expected.
 
-🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 6h ago
+🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 7h ago
 
 ---
 
 **[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 21h ago
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 22h ago
 
 ---
 
@@ -63,7 +63,7 @@ I predicted early in January that ai will discover new physics before 2028 is ov
 
 ĀTMAYĀNA The Serpent Ascent This is a world where existence is layered, consciousness is structured, and power is the refinement of alignment between awareness and primordial force. Reality is not a ladder. It is a field of interwoven planes, currents, and laws. ⸻ COSMIC ORIGIN Before creation there is Mahāśūnya — the Great Silence. Mahāśūnya is not emptiness but potential unexpressed. It contains no direction, no vibration, no time. From Mahāśūnya emerges Ādi-Tattva, the Primordial Principle. It is the first differentiation: awareness and dynamism. Awareness is the unmoving witness. Dynamism is Śakti, the force of manifestation. All existence unfolds from the interplay of these two. ⸻ THE STRUCTURE OF EXISTENCE Creation is organized into interpenetrating planes called Lokas. Bhūloka is the physical realm. Matter, biology, kingdoms, creatures, and mortal life operate here. It is dense and karmically slow. Antarloka is the subtle realm. Spirits, dream-forms, wandering pranic entities, and unanchored consciousness move here. Thought has structure in this plane. Devaloka is the luminous realm. Devas, perfected beings, high mantra-forms, and stable astral constructs dwell here. Time flows differently. Tapoloka is the realm of accumulated ascetic heat. Great beings generating immense Tapas reside here. The atmosphere itself bends under spiritual pressure. Satyaloka is the plane of near-truth. Identity is thin here. Only those who have stabilized non-dual awareness can exist without fragmentation. Turīya is not a location but a state beyond plane classification. It is pure witnessing beyond vibration. All Lokas coexist, layered through frequency rather than distance. ⸻ THE SUBTLE BODY ARCHITECTURE Every conscious being possesses a subtle structure composed of: Nāḍīs — channels through which prāna flows. Chakras — nodal vortexes where consciousness and prāna interface. Kundalini — latent ascending force coiled at the root center. The seven primary chakra gates structure spiritual ascent: Muladhara anchors survival and stability. Svadhisthana governs desire and fluid identity. Manipura refines will and assertion. Anahata opens unity and emotional resonance. Vishuddha commands vibration and truth-expression. Ajna grants perception beyond linear time. Sahasrara dissolves separation between self and totality. Each gate is both empowerment and psychological trial. ⸻ THE GREAT ASCENT When Kundalini awakens and ascends through the chakras, consciousness expands in stages. If the ascent is forced without purification, fragmentation occurs. If stabilized through discipline, mantra, mudra, and guidance, the practitioner transcends physical limitation. When Kundalini pierces Sahasrara, Mahā-Udghāta occurs — the Great Surge. This event overwhelms identity with non-dual perception. Outcomes vary: Stabilization into enlightened embodiment. Ego fracture into fallen mysticism. Refusal of surrender leading to Asuric crystallization. Complete dissolution into liberation. ⸻ KARMIC STRUCTURE Karma is not moral reward or punishment. It is structural causality woven into existence. Every action modifies the field of probability and resonance. Advanced beings perceive karmic threads through Ajna awakening. Excessive imbalance triggers cosmic correction through events, beings, or inner collapse. Entire regions can accumulate karmic density, altering geography and creature ecology. ⸻ THE LAW OF ṚTA Ṛta is the underlying order of the cosmos. It governs cycles, balance, manifestation limits, and Śakti distribution. Even high beings operate within Ṛta unless they transcend it consciously. Ṛta correction manifests when force exceeds alignment. ⸻ MAHĀPURUṢA MANIFESTATION Those who accumulate immense karmic refinement begin expressing the Thirty-Two Great Marks. These are not cosmetic features but crystallizations of virtue and destiny. Such beings may become world rulers aligned with cosmic law or renounce authority for higher realization. ⸻ ŚAKTI CULTIVATION Beyond enlightenment lies the refinement of Śakti itself. Śakti expresses through three primary currents: Icchā — will-force Jñāna — knowledge-force Kriyā — action-force Balanced integration allows creative manifestation without destabilization. Imbalance results in destructive reality distortion. The highest state unifies awareness and Śakti without division. ⸻ CREATURE COSMOLOGY The world contains multiple intelligent non-human lineages. Nāgas govern subterranean knowledge and Kundalini mysteries. Garuḍas rule aerial dominion and perception currents. Yakshas guard mineral prana and sacred geography nodes. Gandharvas manipulate vibrational structures through sound. Apsaras influence desire and emotional resonance. Vanaras specialize in primal agility and animal alignment. Rakshasas arise from karmic distortion, battlefield residue, or corrupted ascension. Asuras are power-refined beings who reject surrender at the highest gate, cultivating will without dissolution. Each species has its own relationship to prāna and Śakti. ⸻ SACRED GEOGRAPHY Geography influences cultivation. Mountain peaks thin perception barriers. Deserts intensify will and austerity. Forests amplify life-prana and spirit interaction. River valleys cleanse karmic density but attract subtle entities. Cremation grounds concentrate death-energy suitable for forbidden practices. Cities and temples are constructed on pranic intersections. Architecture aligns with cosmic geometry to stabilize collective fields. ⸻ KINGDOMS AND CIVILIZATION Civilization operates with ancient material culture but advanced metaphysical science. Temples regulate prāna flows. Gurus anchor lineages and maintain transmission integrity. Kingdoms consult spiritual authorities for Astra regulation and karmic forecasting. Astras are mantra-bound weapons that alter elemental and karmic structure. Past catastrophic wars reshaped geography and creature balance. Śakti misuse remains the greatest existential threat. ⸻ THE CURRENT COSMIC BALANCE Devas, Asuras, Rakshasas, Nāgas, humans, and ascended beings coexist in tension. Guru lineages safeguard knowledge. Certain astras are sealed. Some Lokas are thinning. Śakti density is fluctuating. The field of existence is stable — but strained. ⸻ THE HIGHEST POSSIBILITY At the summit of ascent, identity and power are reconciled. Awareness no longer clings. Śakti flows without distortion. The being becomes neither ruler nor renunciate, neither Deva nor Asura. They become a living axis of reality — aligned with origin yet active within manifestation. Beyond that lies Mahāśūnya again. Silence. Potential. And the cycle continues.
 
-7m ago
+1h ago
 
 ---
 
@@ -71,7 +71,15 @@ I predicted early in January that ai will discover new physics before 2028 is ov
 
 We tested prompt repetition on 20 parallel AI agents. Ceiling effects dominated both experiments. The null result is a finding about evaluation design.
 
-🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 10h ago
+🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 11h ago
+
+---
+
+**[The Technological Singularity Is Almost Here - Soon, One Person Will Be Able to Make an Entire Movie!](https://www.reddit.com/r/artificial/comments/1rdhzqh/the_technological_singularity_is_almost_here_soon/)**
+
+Just tried out Seedance 2.0 - with a single prompt, it generated a full action fight sequence for me. Strikes, dodges, camera movement, impact - all there. No stunt coordinator, no VFX team, not even post-production editing. Just one sentence + API, and it handled the pacing, framing, and action completely on its own. Honestly, I'm a bit blown away. This isn't just simple-this feels like output with real "directorial intent." I'm starting to seriously think: the technological singularity might actually be close. In the future, one person will be their own film crew. It's not that traditional filmmakers will lose their jobs it's that the "industrial barriers" built on equipment, headcount, and complex workflows are being dismantled by tools. The most interesting part: people with real vision will become even more important. Because no matter how powerful the tool gets, you still need a brain that knows how to tell a story. If you've got an action scene you've always wanted to shoot but never had the means now's your chance to try.
+
+11m ago
 
 ---
 
@@ -87,7 +95,7 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 "SeaCast is an innovative high-resolution forecasting system for the Mediterranean that harnesses AI to deliver faster and more energy-efficient predictions than traditional models. Unlike existing global AI models, which operate at lower resolutions and primarily rely on ocean data, SeaCast integrates both ocean and atmospheric variables, capturing complex regional dynamics. A paper describing the system is published in the journal Scientific Reports. SeaCast's graph-based neural network accounts for intricate coastlines and lateral boundary conditions, overcoming one of the major challenges in regional ocean forecasting. The model operates at a high resolution of about 4 km (1/24°), the same resolution as the CMCC Mediterranean operational forecasting system MedFS (which is coupled with a wave model and covers the full ocean depth), delivered through the Copernicus Marine Service, and produces forecasts down to a depth of 200 meters. This is made possible by training the model on CMCC Mediterranean reanalysis data, which are provided at the same resolution and are freely available through the Copernicus Marine website. SeaCast consistently outperforms the Copernicus operational model over the standard 10-day forecast horizon and extends predictions to 15 days. The efficiency gains are striking: while the operational numerical system requires around 70 minutes on 89 CPUs (central processing units, conventional processors used in most computers) to produce a 10-day forecast, SeaCast can generate a 15-day forecast in about 20 seconds using a single GPU, a highly efficient processor designed for parallel calculations and widely used in machine learning. These advancements are crucial for ocean and climate research. For example, SeaCast's improved computational speed enables rapid "what-if scenario" testing and probabilistic ensemble forecasts, where multiple simulations are used to better estimate forecast uncertainty—scientific tools that are invaluable not only for research, but also for coastal management and decision-making."
 
-🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 21h ago
+🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 22h ago
 
 ---
 
@@ -101,15 +109,7 @@ I’ve been building an embodied AI system that can physically move around and i
 
 **[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
 
-🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 15h ago
-
----
-
-**[‘An AlphaFold 4’ – scientists marvel at DeepMind drug spin-off’s exclusive new AI](https://www.reddit.com/r/artificial/comments/1rbrsl8/an_alphafold_4_scientists_marvel_at_deepmind_drug/)**
-
-Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
-
-🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 1d ago
+🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 16h ago
 
 ---
 
@@ -117,45 +117,9 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 ## Google News: "ai"
 
-**[Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears](https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html)**
+**[Behind the Curtain: AI's biggest threats](https://www.axios.com/2026/02/24/ai-biggest-threats-2028-election)**
 
-Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.
-
-CNBC • 20h ago
-
----
-
-**[Anthropic Education Report: The AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)**
-
-Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
-
-Anthropic • 22h ago
-
----
-
-**[Meta and AMD set huge AI chips pact](https://www.axios.com/2026/02/24/ai-meta-amd-chips)**
-
-Axios • 45m ago
-
----
-
-**[Meta and AMD Agree to AI Chips Deal Worth More Than $100 Billion](https://www.wsj.com/tech/ai/meta-and-amd-agree-to-ai-chips-deal-worth-more-than-100-billion-9c7fd06b?gaa_at=eafs&gaa_n=AWEtsqe537uOCpy0sqrXR0_K7Lc9qT8knAquns9B69EdD5IuD2oVDwXMZkCy&gaa_ts=699dafce&gaa_sig=4zccmYrk5gXTD-ee2FNaFNJVhvoNbahSStt8UL9tRLkQgVy71gw_VXtICQpj3ITJI4pIritaTHDC6EIvPZrSzg%3D%3D)**
-
-WSJ • 34m ago
-
----
-
-**[Meta strikes AI chip deal with AMD days after committing to deploy millions of Nvidia GPUs](https://www.cnbc.com/2026/02/24/meta-to-use-6gw-of-amd-gpus-days-after-expanded-nvidia-ai-chip-deal.html)**
-
-AMD has secured Meta as a customer for its Helios rack-scale system, as Nvidia's Blackwell faces heightened competition.
-
-CNBC • 1h ago
-
----
-
-**[Brookfield Buys Chips-for-Rent Firm Ori, Revving Up Bet on AI](https://www.bloomberg.com/news/articles/2026-02-24/brookfield-buys-chips-for-rent-firm-ori-revving-up-bet-on-ai)**
-
-Bloomberg • 48m ago
+Axios • 4h ago
 
 ---
 
@@ -163,29 +127,65 @@ Bloomberg • 48m ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 19h ago
+Anthropic • 20h ago
 
 ---
 
-**[Are China’s ‘AI tigers’ cheating? US rival Anthropic alleges some are](https://www.cnn.com/2026/02/24/tech/anthropic-chinese-ai-distillation-intl-hnk)**
+**[IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat](https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html)**
 
-Top United States artificial intelligence firm Anthropic is accusing three prominent Chinese AI labs of illegally extracting capabilities from its Claude model to advance their own, claiming it raises national security concerns.
+COBOL is a computer language used for business data processing and IBM is a leader in that area.
 
-CNN • 7h ago
+CNBC • 19h ago
 
 ---
 
-**[Anthropic joins OpenAI in flagging 'industrial-scale' distillation campaigns by Chinese AI firms](https://www.cnbc.com/2026/02/24/anthropic-openai-china-firms-distillation-deepseek.html)**
+**[Anthropic Links AI Agent With Tools for Investment Banking, HR](https://www.bloomberg.com/news/articles/2026-02-24/anthropic-links-ai-agent-with-tools-for-investment-banking-hr)**
 
-Anthropic accused three Chinese artificial intelligence enterprises of engaging in coordinated distillation campaigns, the latest American tech firm to do so.
+Bloomberg.com • 21m ago
+
+---
+
+**[Amused by that AI video of a dancing raccoon? This is how the misery starts ...](https://www.theguardian.com/commentisfree/2026/feb/24/amused-by-that-ai-video-of-a-dancing-raccoon-this-is-how-the-misery-starts)**
+
+AI is already coming for our dignity – tricking us with amusing little online scenarios. How long before it comes for everything else, asks Polly Hudson
+
+The Guardian • 4m ago
+
+---
+
+**[JBL Bandbox Solo Review: An AI Speaker You Can Actually Love](https://gizmodo.com/jbl-bandbox-solo-review-an-ai-speaker-you-can-actually-love-2000724702)**
+
+AI tools in music don't have to be slop.
+
+Gizmodo • 36m ago
+
+---
+
+**[Jamie Dimon Dismisses Fears Over How AI Will Hit JPMorgan](https://www.wsj.com/finance/banking/jamie-dimon-dismisses-fears-over-how-ai-will-hit-jpmorgan-f4e31e35?gaa_at=eafs&gaa_n=AWEtsqcInza5oggDUAOsWZW7HK_z-YU5zzilb2u83vpNQ7U7Mok1C4KTy5Ca&gaa_ts=699dbe6e&gaa_sig=ixAK5UN2Kb1eumgFi4StRBk1Ujsea9f5w-2OvMCXy9_yYkBih_a0NAyG5BbN1DuvFwNaxGP1_ijDDG5NujCF9Q%3D%3D)**
+
+WSJ • 14h ago
+
+---
+
+**[Nvidia earnings report collides with Wall Street skepticism over AI spending](https://www.cnbc.com/2026/02/24/nvidia-earnings-collide-with-wall-street-skepticism-over-ai-spending.html)**
+
+Nvidia is the only megacap tech stock to notch gains this year as investors have turned cautious on the hefty amounts of spending on AI infrastructure.
 
 CNBC • 1h ago
 
 ---
 
-**[Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits](https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html)**
+**[Opinion | New York Democrats Have a Chance to Vote Against the A.I. Oligarchs](https://www.nytimes.com/2026/02/23/opinion/alex-bores-ai-democrats.html)**
 
-The New York Times • 15h ago
+The New York Times • 14h ago
+
+---
+
+**[AI Will Never Be Conscious](https://www.wired.com/story/book-excerpt-a-world-appears-michael-pollan/)**
+
+In his new book, “A World Appears,” Michael Pollan argues that artificial intelligence can do many things—it just can’t be a person.
+
+WIRED • 3h ago
 
 ---
 
@@ -197,7 +197,7 @@ The New York Times • 15h ago
 
 We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.
 
-⬆️ 1206 • 💬 673 • 1d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
+⬆️ 1215 • 💬 678 • 1d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
 
 ---
 
@@ -205,13 +205,13 @@ We're adopting Rust as our C++ successor language, and using AI agents to accele
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 793 • 💬 686 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 793 • 💬 687 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 553 • 💬 438 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 554 • 💬 438 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -220,7 +220,7 @@ I’m seeking assistance regarding a sudden restriction on my Google AI Ultra ac
 My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
 During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
 
-⬆️ 396 • 💬 320 • 16h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+⬆️ 400 • 💬 320 • 17h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 
 ---
 
@@ -228,7 +228,7 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
 
 The latest update of Firefox, version 148, introduces a much-anticipated "AI kill switch" feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company’s new revenue-focused strategy regarding AI integrations. […]
 
-⬆️ 336 • 💬 285 • 8h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+⬆️ 361 • 💬 304 • 9h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 
 ---
 
@@ -236,7 +236,7 @@ The latest update of Firefox, version 148, introduces a much-anticipated "AI kil
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 260 • 💬 250 • 14h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 262 • 💬 250 • 15h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -244,7 +244,7 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled binaries of real open-source servers, proxies, and network infrastructure.
 
-⬆️ 242 • 💬 96 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
+⬆️ 242 • 💬 96 • 2d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
 
 ---
 
@@ -252,7 +252,7 @@ BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled bina
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 203 • 💬 49 • 1h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 226 • 💬 56 • 2h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -260,7 +260,7 @@ A minute-by-minute reconstruction of the massacre by Earshot and Forensic Archit
 
 Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
 
-⬆️ 162 • 💬 56 • 1d ago • [LLM Timeline](https://llm-timeline.com/)
+⬆️ 163 • 💬 56 • 1d ago • [LLM Timeline](https://llm-timeline.com/)
 
 ---
 
@@ -276,23 +276,13 @@ Users are exhausted fighting AI moderation, AI-generated art, and AI-first featu
 
 ## YouTube Videos: "ai"
 
-**[I Made AI Create AI](https://www.youtube.com/watch?v=4PZvO0ILluo)**
-
-I made ai create my very own all in one AI webapp! This was definitely interesting. Check out Mocha AI here: ...
-
-📺 tef
-
-👁️ 13K • 👍 1K • 💬 239 • ⏱️ 8:46 • 18h ago
-
----
-
 **[He Got Laid Off From AI Company, Now He’s EXPOSING EVERYTHING (It’s SCARY)](https://www.youtube.com/watch?v=Um4XnmMKau8)**
 
 He worked inside the AI industry — until he was suddenly laid off. Now he's speaking out. In this video, we break down what he ...
 
 📺 Jay Reed
 
-👁️ 37K • 👍 3K • 💬 668 • ⏱️ 9:01 • 19h ago
+👁️ 39K • 👍 3K • 💬 737 • ⏱️ 9:01 • 20h ago
 
 ---
 
@@ -302,45 +292,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 61K • 👍 1K • 💬 152 • ⏱️ 14:16 • 1d ago
-
----
-
-**[You&#39;re Right - I&#39;m AI generated (Here&#39;s The Proof)](https://www.youtube.com/watch?v=K3SD34vHPe4)**
-
-People keep asking if I'm AI… so I decided to actually test it. As a computer scientist, I built AI versions of myself and compared ...
-
-📺 House of El
-
-👁️ 88K • 👍 9K • 💬 2K • ⏱️ 5:22 • 19h ago
-
----
-
-**[Google Just Dropped The Smartest AI In The World: Gemini 3.1](https://www.youtube.com/watch?v=XMJA3_hv9aY)**
-
-Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a model designed for situations where simple ...
-
-📺 AI Revolution
-
-👁️ 53K • 👍 1K • 💬 86 • ⏱️ 10:44 • 2d ago
-
----
-
-**[Google&#39;s New AI Is Smarter Than Everyone&#39;s But It Costs HALF as Much. Here&#39;s Why They Don&#39;t Care.](https://www.youtube.com/watch?v=8jKAT8GNDE0)**
-
-My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 129K • 👍 5K • 💬 731 • ⏱️ 36:37 • 22h ago
-
----
-
-**[My AI girlfriend #comedy #music #parody of Stayin&#39; Alive by Bee Gees](https://www.youtube.com/watch?v=1TnQVcMCQUc)**
-
-📺 Matt Storer
-
-👁️ 176K • 👍 9K • 💬 104 • ⏱️ 0:27 • 2h ago
+👁️ 64K • 👍 1K • 💬 159 • ⏱️ 14:16 • 1d ago
 
 ---
 
@@ -350,27 +302,77 @@ Former Congressman Brad Carson, the President of Americans for Responsible Innov
 
 📺 Forbes Breaking News
 
-👁️ 21K • 👍 580 • 💬 235 • ⏱️ 20:25 • 2d ago
+👁️ 22K • 👍 588 • 💬 236 • ⏱️ 20:25 • 2d ago
 
 ---
 
-**[Cute baby Gave His Mother A Beautiful White flying  Horse 🐎 #ai #cute #shorts](https://www.youtube.com/watch?v=rYiPDbrJ88E)**
+**[Urgent research needed to tackle AI threats, says Google AI boss | BBC News](https://www.youtube.com/watch?v=j5o8iD8qz3k)**
 
-Cute baby Gave His Mother A Beautiful White flying Horse #ai #cute #shorts.
+More research on the threats of artificial intelligence (AI) "needs to be done urgently", the boss of Google DeepMind has told BBC ...
 
-📺 green screen mahtab1m
+📺 BBC News
 
-👁️ 11K • 💬 2 • ⏱️ 0:24 • 7h ago
+👁️ 19K • 👍 233 • 💬 120 • ⏱️ 3:17 • 23h ago
 
 ---
 
-**[Open AI is Broke…And Wall Street is Preparing for Crash](https://www.youtube.com/watch?v=0wLbuni6PfM)**
+**[Google&#39;s New AI Is Smarter Than Everyone&#39;s But It Costs HALF as Much. Here&#39;s Why They Don&#39;t Care.](https://www.youtube.com/watch?v=8jKAT8GNDE0)**
 
-Work with me: https://theproactivethinker.com Follow me on Instagram: https://www.instagram.com/proactiv.thinker.
+My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
 
-📺 Proactive Thinker
+📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 22K • 👍 524 • 💬 103 • ⏱️ 10:01 • 2d ago
+👁️ 138K • 👍 5K • 💬 762 • ⏱️ 36:37 • 23h ago
+
+---
+
+**[Google Just Dropped The Smartest AI In The World: Gemini 3.1](https://www.youtube.com/watch?v=XMJA3_hv9aY)**
+
+Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a model designed for situations where simple ...
+
+📺 AI Revolution
+
+👁️ 54K • 👍 1K • 💬 87 • ⏱️ 10:44 • 2d ago
+
+---
+
+**[Professor Hannah Fry on what the future of AI might actually look like 👩‍💻 - BBC](https://www.youtube.com/watch?v=23paKxMVlcU)**
+
+BBCAIUnpacked #ProfessorHannahFry #AI #TheOneShow Artificial Intelligence is transforming our lives at break-neck speed.
+
+📺 BBC
+
+👁️ 3K • 👍 75 • 💬 5 • ⏱️ 0:57 • 2h ago
+
+---
+
+**[Cops Use AI to Arrest an Innocent Man &amp; It Cost Them MILLIONS](https://www.youtube.com/watch?v=q92ut2cB0-c)**
+
+An AI system said this man was a '100% match' for someone banned from a casino—so security detained him, police arrested him ...
+
+📺 Hampton Law
+
+👁️ 72K • 👍 3K • 💬 1K • ⏱️ 24:18 • 1d ago
+
+---
+
+**[AI Will Create New Wealth, But Not Where You Think | Carnegie Mellon University, Po-Shen Loh](https://www.youtube.com/watch?v=BfBGhSqvcu4)**
+
+Carnegie Mellon University Professor and social entrepreneur Po-Shen Loh talks about the one trait that gives you an edge in the ...
+
+📺 EO
+
+👁️ 87K • 👍 3K • 💬 105 • ⏱️ 18:44 • 2d ago
+
+---
+
+**[Uber CEO: I Have To Be Honest, AI Will Replace 9.4 Million Jobs At Uber!](https://www.youtube.com/watch?v=s52O1JH2tnU)**
+
+Uber CEO Dara Khosrowshahi reveals the future of driverless cars, how he led Uber's financial turnaround, his family's escape ...
+
+📺 The Diary Of A CEO
+
+👁️ 307K • 👍 7K • 💬 2K • ⏱️ 1:43:17 • 1d ago
 
 ---
 
@@ -386,7 +388,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 390,092 • ❤️ 974 • 23h ago
+⬇️ 390,092 • ❤️ 977 • 1d ago
 
 ---
 
@@ -398,7 +400,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 180,202 • ❤️ 1,501 • 10d ago
+⬇️ 180,202 • ❤️ 1,504 • 11d ago
 
 ---
 
@@ -410,7 +412,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 202,462 • ❤️ 765 • 2d ago
+⬇️ 202,462 • ❤️ 768 • 2d ago
 
 ---
 
@@ -434,7 +436,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 223,962 • ❤️ 894 • 8d ago
+⬇️ 223,962 • ❤️ 898 • 8d ago
 
 ---
 
@@ -446,7 +448,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 34,627 • ❤️ 178 • 1d ago
+⬇️ 34,627 • ❤️ 182 • 1d ago
 
 ---
 
@@ -458,7 +460,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 169 • 1d ago
+⬇️ 0 • ❤️ 171 • 1d ago
 
 ---
 
@@ -470,7 +472,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 1,023,572 • ❤️ 1,169 • 26d ago
+⬇️ 1,023,572 • ❤️ 1,172 • 26d ago
 
 ---
 
@@ -482,7 +484,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 1,276,735 • ❤️ 2,101 • 19d ago
+⬇️ 1,276,735 • ❤️ 2,102 • 19d ago
 
 ---
 
@@ -494,7 +496,7 @@ ZUNA is a 380M-parameter EEG foundation model capable of denoising, reconstructi
 
 `382.0M`
 
-⬇️ 1,351 • ❤️ 121 • 15h ago
+⬇️ 1,351 • ❤️ 124 • 16h ago
 
 ---
 
@@ -508,7 +510,7 @@ ZUNA is a 380M-parameter EEG foundation model capable of denoising, reconstructi
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 6 • 💬 0 • ⭐ 7,834 • 23mo ago
+▲ 6 • 💬 0 • ⭐ 7,922 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -538,6 +540,18 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 147 • 💬 19 • ⭐ 53,971 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 17 • 💬 1 • ⭐ 30,557 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
@@ -580,18 +594,6 @@ MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves sta
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 17 • 💬 1 • ⭐ 30,490 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -605,27 +607,29 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://huggingface.co/papers/2602.20161)**
+
+*Abdelrahman Shaker, Ahmed Heakl, Jaseel Muhammad et al. (11 authors)*
+
+🏢 Mohamed Bin Zayed University of Artificial Intelligence
+
+A compact vision-language-diffusion model called Mobile-O enables efficient unified multimodal understanding and generation on mobile devices through specialized architecture design and optimized training methodology.
+
+▲ 16 • 💬 2 • ⭐ 31 • 1d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2602.20161) • [💻 code](https://github.com/Amshaker/Mobile-O) • [🔗 project](https://amshaker.github.io/Mobile-O/)
+
+---
+
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 43 • 💬 2 • ⭐ 47,877 • 10mo ago
+▲ 43 • 💬 2 • ⭐ 47,913 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
-
----
-
-**[HeartMuLa: A Family of Open Sourced Music Foundation Models](https://huggingface.co/papers/2601.10547)**
-
-*Dongchao Yang, Yuxin Xie, Yuguo Yin et al. (28 authors)*
-
-A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
-
-▲ 44 • 💬 4 • ⭐ 4,158 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
 ---
 
@@ -639,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 18.3k • 🔱 2.2k • 1h ago
+⭐ 18.4k • 🔱 2.2k • 3m ago
 
 ---
 
@@ -647,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.9k • 🔱 525 • 13d ago
+⭐ 6.9k • 🔱 526 • 13d ago
 
 ---
 
@@ -657,7 +661,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.4k • 🔱 661 • 4h ago
+⭐ 5.4k • 🔱 661 • 5h ago
 
 ---
 
@@ -665,9 +669,9 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 PaperBanana: Automating Academic Illustration For AI Scientists
 
-`JavaScript`
+`Python`
 
-⭐ 3.9k • 🔱 184 • 21d ago
+⭐ 3.9k • 🔱 194 • 1h ago
 
 ---
 
@@ -677,7 +681,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 337 • 11h ago
+⭐ 3.4k • 🔱 339 • 12h ago
 
 ---
 
@@ -687,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.1k • 🔱 406 • 8h ago
+⭐ 3.1k • 🔱 410 • 9h ago
 
 ---
 
@@ -697,7 +701,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 188 • 4h ago
+⭐ 2.8k • 🔱 189 • 5h ago
 
 ---
 
@@ -707,7 +711,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.7k • 🔱 306 • 10h ago
+⭐ 2.7k • 🔱 313 • 1h ago
 
 ---
 
@@ -717,7 +721,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.6k • 🔱 131 • 5h ago
+⭐ 2.6k • 🔱 131 • 55m ago
 
 ---
 
@@ -727,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 449 • 7h ago
+⭐ 2.3k • 🔱 450 • 16m ago
 
 ---
 
