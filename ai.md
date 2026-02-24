@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-24T02:11:42.367011+00:00'
+updated: '2026-02-24T04:30:37.353502+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- repositories
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 24, 2026 at 02:11 UTC  
+**Last Updated:** February 24, 2026 at 04:30 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,29 @@ AI news, discussions, and developments
 
 Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falling 10%, after Anthropic announced an AI tool designed to streamline COBOL code modernization. Accenture (NYSE:ACN) and Cognizant Technology Solutions (NASDAQ:CTSH) also declined following the news.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 5h ago
 
 ---
 
 **[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 9h ago
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 11h ago
+
+---
+
+**[Prompt repetition adds zero accuracy to AI agents on engineering tasks](https://www.reddit.com/r/artificial/comments/1rd3jd0/prompt_repetition_adds_zero_accuracy_to_ai_agents/)**
+
+We tested prompt repetition on 20 parallel AI agents. Ceiling effects dominated both experiments. The null result is a finding about evaluation design.
+
+🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 1h ago
+
+---
+
+**[The high-fantasy cult of Anthropic](https://www.reddit.com/r/artificial/comments/1rd5bw5/the_highfantasy_cult_of_anthropic/)**
+
+Plus, its fight with the Pentagon, OpenAI and Meta race to deploy AI agents to the masses, and tasteless AI people argue about taste
+
+🔗 [sf.gazetteer.co](https://sf.gazetteer.co/the-high-fantasy-cult-of-anthropic) • 9m ago
 
 ---
 
@@ -55,7 +71,13 @@ Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falli
 
 Researchers generated images from noise, using orders of magnitude less energy than current generative AI models require.
 
-🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 23h ago
+🔗 [Live Science](https://www.livescience.com/technology/computing/thermodynamic-computer-can-mimic-ai-neural-networks-using-orders-of-magnitude-less-energy-to-generate-images) • 1d ago
+
+---
+
+**[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
+
+🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 6h ago
 
 ---
 
@@ -63,7 +85,7 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 I’ve been building an embodied AI system that can physically move around and interact with external services through an agent layer. In this clip, the embodied AI initiates a direct interaction with its agent and tells it to begin saving for an outdoor speaker so it can be heard more clearly when operating outside. The agent uses openclaw to claim available resources and convert them into Amazon gift cards, which the embodied system uses as a way to store value and work toward hardware upgrades it wants. There were no prompts or manual commands from me during this interaction. The embodied AI initiated the conversation, made the request, and the agent executed it. This is part of a larger system where the embodied AI can identify limitations in its physical capabilities and allocate resources toward improving itself. Curious to hear thoughts from others working on embodied agents or autonomous systems.
 
-20h ago
+22h ago
 
 ---
 
@@ -71,7 +93,7 @@ I’ve been building an embodied AI system that can physically move around and i
 
 "SeaCast is an innovative high-resolution forecasting system for the Mediterranean that harnesses AI to deliver faster and more energy-efficient predictions than traditional models. Unlike existing global AI models, which operate at lower resolutions and primarily rely on ocean data, SeaCast integrates both ocean and atmospheric variables, capturing complex regional dynamics. A paper describing the system is published in the journal Scientific Reports. SeaCast's graph-based neural network accounts for intricate coastlines and lateral boundary conditions, overcoming one of the major challenges in regional ocean forecasting. The model operates at a high resolution of about 4 km (1/24°), the same resolution as the CMCC Mediterranean operational forecasting system MedFS (which is coupled with a wave model and covers the full ocean depth), delivered through the Copernicus Marine Service, and produces forecasts down to a depth of 200 meters. This is made possible by training the model on CMCC Mediterranean reanalysis data, which are provided at the same resolution and are freely available through the Copernicus Marine website. SeaCast consistently outperforms the Copernicus operational model over the standard 10-day forecast horizon and extends predictions to 15 days. The efficiency gains are striking: while the operational numerical system requires around 70 minutes on 89 CPUs (central processing units, conventional processors used in most computers) to produce a 10-day forecast, SeaCast can generate a 15-day forecast in about 20 seconds using a single GPU, a highly efficient processor designed for parallel calculations and widely used in machine learning. These advancements are crucial for ocean and climate research. For example, SeaCast's improved computational speed enables rapid "what-if scenario" testing and probabilistic ensemble forecasts, where multiple simulations are used to better estimate forecast uncertainty—scientific tools that are invaluable not only for research, but also for coastal management and decision-making."
 
-🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 10h ago
+🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 12h ago
 
 ---
 
@@ -83,33 +105,11 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 ---
 
-**[The prompt format that consistently beats free-form asking and why structure matters more than creativity](https://www.reddit.com/r/artificial/comments/1rcbrgg/the_prompt_format_that_consistently_beats/)**
-
-I've written 365+ prompts for enterprise use and the pattern is clear: structured prompts with boring, predictable formatting outperform creative or "clever" prompts every single time especially for professional settings. What do I mean by structure: Every prompt I've built follows the same skeleton: - Who are you ? (role/context) - What do you need? (specific task) - Constraints (what's in/out of scope) - Output format (exactly how you want it delivered) Why "creative" prompts fail in enterprise: They're not repeatable : If a clever prompt works for me but my colleague can't modify it for their use case, it's useless at scale. They're hard to debug : When a structured prompt gives bad output, you can identify which section needs fixing. When a creative prompt fails, you're starting from scratch. They don't transfer across models : A prompt that exploits a specific model's quirks breaks when you switch from GPT-4.1 to Claude to Copilot. Structure-based prompts transfer cleanly. They can't be governed : IT and compliance teams need to review and approve prompt templates. "Just ask it creatively" isn't a policy. The boring truth about prompt engineering: It's not engineering and it's not an art. It's technical writing. The same skills that make good documentation make good prompts: clarity, specificity, structure, and knowing your audience. The best prompt engineers I've met aren't AI researchers they're former technical writers, business analysts, and process designers. Am I wrong to push for standardization over creativity?
-
-17h ago
-
----
-
-**[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
-
-🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 4h ago
-
----
-
 **[The left is missing out on AI | Transformer News](https://www.reddit.com/r/artificial/comments/1rctw1g/the_left_is_missing_out_on_ai_transformer_news/)**
 
 What? Transformer News argues that the political left has largely ignored the implications of artificial intelligence, despite its potential to significantly impact society, with notable exceptions like Bernie Sanders and Cory Doctorow who have raised concerns. So What? This matters to progressive communicators because engaging with AI's societal impacts could provide opportunities to shape policy and protect civil liberties, ensuring that technological advancements do not exacerbate existing inequalities. Full article: https://www.transformernews.ai/p/the-left-is-missing-out-on-ai-sanders-doctorow-bender-bores?utm_source=semafor
 
-🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/biohackers-are-pro-nicotine#ai) • 5h ago
-
----
-
-**[xAI's Grok development was delayed to keep its Baldur's Gate knowledge up to scratch, says insider report](https://www.reddit.com/r/artificial/comments/1rcg6zm/xais_grok_development_was_delayed_to_keep_its/)**
-
-xAI reportedly delayed a Grok model to improve Baldur's Gate knowledge. Grok is also focusing on playing high-level League of Legends.
-
-🔗 [PC Guide](https://www.pcguide.com/news/xais-grok-development-was-delayed-to-keep-its-baldurs-gate-knowledge-up-to-scratch-says-insider-report/) • 13h ago
+🔗 [Instrumental Communications](https://www.instrumentalcomms.com/blog/biohackers-are-pro-nicotine#ai) • 7h ago
 
 ---
 
@@ -121,7 +121,7 @@ xAI reportedly delayed a Grok model to improve Baldur's Gate knowledge. Grok is 
 
 Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
@@ -129,55 +129,7 @@ CNBC • 9h ago
 
 Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
 
-Anthropic • 10h ago
-
----
-
-**[Detecting and preventing distillation attacks](https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-Anthropic • 7h ago
-
----
-
-**[US AI giant accuses Chinese rivals of mass data theft](https://www.theguardian.com/technology/2026/feb/23/us-ai-anthropic-china)**
-
-Anthropic says three Chinese firms used ‘distillation’ technique to extract information from its Claude chatbot
-
-The Guardian • 1h ago
-
----
-
-**[Anthropic Says Chinese AI Companies Improved Models By ‘Illicitly’ Copying Its Capabilities](https://gizmodo.com/anthropic-says-chinese-ai-companies-made-models-by-illicitly-copying-its-capabilities-2000725717)**
-
-Keep in mind that DeepSeek is expected to release a new flagship model any day now.
-
-Gizmodo • 17m ago
-
----
-
-**[Video: The Newest Player in A.I.’s Supply Chain Is a Toilet Maker](https://www.nytimes.com/video/podcasts/100000010732602/the-newest-player-in-ais-supply-chain-is-a-toilet-maker.html)**
-
-A British investor urged the Japanese company Toto to produce its advanced ceramics not for toilet seats and bidets, but for A.I. semiconductors.
-
-The New York Times • 41m ago
-
----
-
-**[If AI makes human labor obsolete, who decides who gets to eat?](https://www.theguardian.com/business/2026/feb/23/ai-how-will-we-be-fed)**
-
-Amid talk of artificial intelligence taking our jobs, the big unasked question is: how will we be fed?
-
-The Guardian • 8h ago
-
----
-
-**[Taleb, Citrini Fuel AI Scare Trade as IBM Drops Most in 25 Years](https://finance.yahoo.com/news/software-payments-shares-tumble-citrini-162303649.html)**
-
-DoorDash Inc., American Express Co., KKR & Co Inc. and Blackstone Inc all slumped more than 8%.  Shares of other companies name-checked in the article, including Uber Technologies Inc., Mastercard Inc., Visa Inc., Capital One Financial Corp. and Apollo Global Management Inc. were all lower by at least 3%.
-
-Yahoo Finance • 4h ago
+Anthropic • 12h ago
 
 ---
 
@@ -185,13 +137,55 @@ Yahoo Finance • 4h ago
 
 COBOL is a computer language used for business data processing and IBM is a leader in that area.
 
-CNBC • 6h ago
+CNBC • 9h ago
 
 ---
 
-**[IBM Becomes Latest Victim Of Anthropic’s AI Developments](https://www.forbes.com/sites/tylerroush/2026/02/23/ibm-shares-plummet-13-worst-day-since-2000-after-anthropic-launches-programming-ai-tool/)**
+**[IBM posts steepest daily drop since 2000 after Anthropic says AI can modernize COBOL](https://www.reuters.com/business/ibm-posts-steepest-daily-drop-since-2000-after-anthropic-says-ai-can-modernize-2026-02-24/)**
 
-Forbes • 5h ago
+Reuters • 1h ago
+
+---
+
+**[IBM stock plunges after AI tool targets its legacy systems](https://www.detroitnews.com/story/business/2026/02/23/ibm-shares-plummet-after-anthropic-says-ai-can-modernize-cobol/88836143007/)**
+
+IBM shares plunged over 13% after AI startup Anthropic announced a tool to modernize COBOL, a key IBM programming language.
+
+The Detroit News • 53m ago
+
+---
+
+**[The Viral Citrini Substack Post That Has Sparked New AI Worries on Wall Street](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-tariffs-02-23-2026/card/the-citrini-substack-selloff-70cWx0scioiLradyuTRa?gaa_at=eafs&gaa_n=AWEtsqeq0LvQBqfExQIpMEs7lcvkinfFq7Nz4_CFyzTr74QuobVtXR7j6ju5&gaa_ts=699d2cca&gaa_sig=iWrU8J27xd2fVZ1oZmKfbL3ulLtakiGvNfZDgqwo3Qy9EjxMdXhGGKuaj-HfqTcaEu_rZ8TqjTAois9nkorBOw%3D%3D)**
+
+WSJ • 19h ago
+
+---
+
+**[Citrini Report Author Calls for AI Tax After Scare-Trade Selloff](https://www.bloomberg.com/news/articles/2026-02-24/citrini-report-author-calls-for-ai-tax-after-scare-trade-selloff)**
+
+Bloomberg.com • 1h ago
+
+---
+
+**[Dow drops 800 points as AI disruption fears and tariff woes weigh on markets: Live updates](https://www.cnbc.com/2026/02/22/stock-market-today-live-updates.html)**
+
+The major averages were under pressure as worries over AI disruption and Trump's tariffs pulled stocks lower.
+
+CNBC • 1d ago
+
+---
+
+**[Last year, Accenture trained 550,000 workers in AI—now it’s warning senior staff to use it or don’t get promoted](https://finance.yahoo.com/news/last-accenture-trained-550-000-163301915.html)**
+
+Bosses have long warned staff to come to grips with AI. Now, companies like Accenture, KPMG, and Ring are tying employees’ AI usage to their future success and remuneration.
+
+Yahoo Finance • 11h ago
+
+---
+
+**[Opinion | New York Democrats Have a Chance to Vote Against the A.I. Oligarchs](https://www.nytimes.com/2026/02/23/opinion/alex-bores-ai-democrats.html)**
+
+The New York Times • 4h ago
 
 ---
 
@@ -199,17 +193,34 @@ Forbes • 5h ago
 
 ## HackerNews: "ai"
 
+**[Ladybird adopts Rust, with help from AI](https://news.ycombinator.com/item?id=47120899)**
+
+We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.
+
+⬆️ 1116 • 💬 609 • 17h ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
+
+---
+
 **[Google restricting Google AI Pro/Ultra subscribers for using OpenClaw](https://news.ycombinator.com/item?id=47115805)**
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 785 • 💬 680 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 789 • 💬 680 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 527 • 💬 417 • 18h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 535 • 💬 423 • 20h ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+
+---
+
+**[FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me](https://news.ycombinator.com/item?id=47129361)**
+
+My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
+During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
+
+⬆️ 300 • 💬 249 • 6h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 
 ---
 
@@ -229,15 +240,6 @@ Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an E
 
 ---
 
-**[FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me](https://news.ycombinator.com/item?id=47129361)**
-
-My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
-During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
-
-⬆️ 253 • 💬 199 • 4h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
-
----
-
 **[We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://news.ycombinator.com/item?id=47111440)**
 
 BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled binaries of real open-source servers, proxies, and network infrastructure.
@@ -250,15 +252,7 @@ BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled bina
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 173 • 💬 157 • 3h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
-
----
-
-**[Meta Deployed AI and It Is Killing Our Agency](https://news.ycombinator.com/item?id=47097502)**
-
-We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. Our retail clients grow their businesses through Meta Ads, and for a lot of them, it’s their single most important…
-
-⬆️ 149 • 💬 109 • 2d ago • [Mojo Dojo](https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/)
+⬆️ 225 • 💬 219 • 5h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -266,7 +260,7 @@ We manage millions of dollars in annual Meta ad spend. Not thousands. Millions. 
 
 Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
 
-⬆️ 139 • 💬 52 • 17h ago • [LLM Timeline](https://llm-timeline.com/)
+⬆️ 147 • 💬 52 • 19h ago • [LLM Timeline](https://llm-timeline.com/)
 
 ---
 
@@ -274,7 +268,7 @@ Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT �
 
 Users are exhausted fighting AI moderation, AI-generated art, and AI-first features.
 
-⬆️ 85 • 💬 73 • 22h ago • [404 Media](https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/)
+⬆️ 88 • 💬 73 • 1d ago • [404 Media](https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/)
 
 ---
 
@@ -288,17 +282,7 @@ He worked inside the AI industry — until he was suddenly laid off. Now he's sp
 
 📺 Jay Reed
 
-👁️ 27K • 👍 2K • 💬 554 • ⏱️ 9:01 • 7h ago
-
----
-
-**[Reacting To Our Own AI Videos (part 7)](https://www.youtube.com/watch?v=CNlW-BsHyDM)**
-
-Reacting To Our Own AI Videos (part 7) : BeckBros Clothing: ...
-
-📺 MoreBeckBros
-
-👁️ 14K • 👍 1K • 💬 270 • ⏱️ 24:18 • 4h ago
+👁️ 31K • 👍 2K • 💬 602 • ⏱️ 9:01 • 9h ago
 
 ---
 
@@ -308,7 +292,7 @@ My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 90K • 👍 4K • 💬 593 • ⏱️ 36:37 • 11h ago
+👁️ 103K • 👍 4K • 💬 636 • ⏱️ 36:37 • 13h ago
 
 ---
 
@@ -318,55 +302,7 @@ This video shows how Seedance 2.0 is revolutionizing AI video production, offeri
 
 📺 AI Filmmaking Academy
 
-👁️ 27K • 👍 783 • 💬 152 • ⏱️ 7:03 • 1d ago
-
----
-
-**[AI Could Make The World &#39;Unrecognizable&#39; In 5 Years: AI Policy PAC Founder Sounds The Alarm](https://www.youtube.com/watch?v=A50mUc6qZas)**
-
-Former Congressman Brad Carson, the President of Americans for Responsible Innovation and the founder of Public First Action ...
-
-📺 Forbes Breaking News
-
-👁️ 20K • 👍 545 • 💬 214 • ⏱️ 20:25 • 2d ago
-
----
-
-**[Urgent research needed to tackle AI threats, says Google AI boss | BBC News](https://www.youtube.com/watch?v=j5o8iD8qz3k)**
-
-More research on the threats of artificial intelligence (AI) "needs to be done urgently", the boss of Google DeepMind has told BBC ...
-
-📺 BBC News
-
-👁️ 10K • 👍 168 • 💬 103 • ⏱️ 3:17 • 10h ago
-
----
-
-**[The worst thing about AI nobody talks about](https://www.youtube.com/watch?v=k9xxEU0ywqU)**
-
-📺 FD Streams
-
-👁️ 18K • 👍 2K • 💬 258 • ⏱️ 7:44 • 3h ago
-
----
-
-**[Google Just Dropped The Smartest AI In The World: Gemini 3.1](https://www.youtube.com/watch?v=XMJA3_hv9aY)**
-
-Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a model designed for situations where simple ...
-
-📺 AI Revolution
-
-👁️ 51K • 👍 1K • 💬 84 • ⏱️ 10:44 • 2d ago
-
----
-
-**[First victim of AI agent harassment warns &#39;thousands&#39; more could be next • FRANCE 24 English](https://www.youtube.com/watch?v=BHol8DA2dJ0)**
-
-Slandered by one AI robot and misquoted in a news article by another, US-based software engineer Scott Shambaugh has made ...
-
-📺 FRANCE 24 English
-
-👁️ 388K • 👍 8K • 💬 1K • ⏱️ 5:50 • 1d ago
+👁️ 28K • 👍 807 • 💬 156 • ⏱️ 7:03 • 1d ago
 
 ---
 
@@ -376,7 +312,67 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 143K • 👍 8K • 💬 2K • ⏱️ 18:44 • 2d ago
+👁️ 144K • 👍 8K • 💬 2K • ⏱️ 18:44 • 2d ago
+
+---
+
+**[You&#39;re Right - I&#39;m AI generated (Here&#39;s The Proof)](https://www.youtube.com/watch?v=K3SD34vHPe4)**
+
+People keep asking if I'm AI… so I decided to actually test it. As a computer scientist, I built AI versions of myself and compared ...
+
+📺 House of El
+
+👁️ 74K • 👍 8K • 💬 2K • ⏱️ 5:22 • 10h ago
+
+---
+
+**[AI Could Make The World &#39;Unrecognizable&#39; In 5 Years: AI Policy PAC Founder Sounds The Alarm](https://www.youtube.com/watch?v=A50mUc6qZas)**
+
+Former Congressman Brad Carson, the President of Americans for Responsible Innovation and the founder of Public First Action ...
+
+📺 Forbes Breaking News
+
+👁️ 20K • 👍 553 • 💬 218 • ⏱️ 20:25 • 2d ago
+
+---
+
+**[Google Just Dropped The Smartest AI In The World: Gemini 3.1](https://www.youtube.com/watch?v=XMJA3_hv9aY)**
+
+Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a model designed for situations where simple ...
+
+📺 AI Revolution
+
+👁️ 51K • 👍 1K • 💬 86 • ⏱️ 10:44 • 2d ago
+
+---
+
+**[First victim of AI agent harassment warns &#39;thousands&#39; more could be next • FRANCE 24 English](https://www.youtube.com/watch?v=BHol8DA2dJ0)**
+
+Slandered by one AI robot and misquoted in a news article by another, US-based software engineer Scott Shambaugh has made ...
+
+📺 FRANCE 24 English
+
+👁️ 411K • 👍 8K • 💬 2K • ⏱️ 5:50 • 1d ago
+
+---
+
+**[Urgent research needed to tackle AI threats, says Google AI boss | BBC News](https://www.youtube.com/watch?v=j5o8iD8qz3k)**
+
+More research on the threats of artificial intelligence (AI) "needs to be done urgently", the boss of Google DeepMind has told BBC ...
+
+📺 BBC News
+
+👁️ 11K • 👍 180 • 💬 103 • ⏱️ 3:17 • 13h ago
+
+---
+
+**[the ai slop era is ending... (thank god)](https://www.youtube.com/watch?v=9UzfFm231i4)**
+
+Welcome back to another video on this channel, in this video I discuss the possibility of the AI bubble collapsing, and the ...
+
+📺 XaliCubed
+
+👁️ 20K • 👍 1K • 💬 225 • ⏱️ 9:06 • 9h ago
 
 ---
 
@@ -392,19 +388,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 302,852 • ❤️ 939 • 12h ago
-
----
-
-**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
-
-*NVIDIA*
-
-PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
-
-`audio-to-audio`
-
-⬇️ 539,031 • ❤️ 2,174 • 8d ago
+⬇️ 302,852 • ❤️ 952 • 14h ago
 
 ---
 
@@ -416,7 +400,19 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 178,519 • ❤️ 1,473 • 10d ago
+⬇️ 178,519 • ❤️ 1,481 • 10d ago
+
+---
+
+**[personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)**
+
+*NVIDIA*
+
+PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that jointly performs streaming speech understanding and generation. It enables natural conversational dynamics like interruptions and overlaps by concurrently processing user audio and generating its own spoken responses, conditioned on voice and text prompts for persona control.
+
+`audio-to-audio`
+
+⬇️ 539,031 • ❤️ 2,178 • 8d ago
 
 ---
 
@@ -428,7 +424,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 177,577 • ❤️ 750 • 2d ago
+⬇️ 177,577 • ❤️ 753 • 2d ago
 
 ---
 
@@ -440,7 +436,19 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 208,828 • ❤️ 877 • 7d ago
+⬇️ 208,828 • ❤️ 882 • 7d ago
+
+---
+
+**[Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF](https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF)**
+
+*TeichAI*
+
+A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoning data for enhanced coding, science, and general-purpose text generation tasks.
+
+`text-generation` `14.8B`
+
+⬇️ 19,434 • ❤️ 171 • 1d ago
 
 ---
 
@@ -456,18 +464,6 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 ---
 
-**[Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF](https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF)**
-
-*TeichAI*
-
-A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoning data for enhanced coding, science, and general-purpose text generation tasks.
-
-`text-generation` `14.8B`
-
-⬇️ 19,434 • ❤️ 167 • 1d ago
-
----
-
 **[Qwen3-TTS-12Hz-1.7B-CustomVoice](https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice)**
 
 *Qwen*
@@ -476,7 +472,7 @@ Qwen3-TTS-12Hz-1.7B-CustomVoice is a text-to-speech model supporting 10 language
 
 `text-to-speech`
 
-⬇️ 1,011,122 • ❤️ 1,162 • 25d ago
+⬇️ 1,011,122 • ❤️ 1,163 • 25d ago
 
 ---
 
@@ -488,7 +484,7 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 1,193,038 • ❤️ 2,095 • 18d ago
+⬇️ 1,193,038 • ❤️ 2,097 • 19d ago
 
 ---
 
@@ -500,7 +496,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 `image-to-image`
 
-⬇️ 2,689 • ❤️ 259 • 9d ago
+⬇️ 2,689 • ❤️ 262 • 9d ago
 
 ---
 
@@ -514,7 +510,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 5 • 💬 0 • ⭐ 7,755 • 23mo ago
+▲ 5 • 💬 0 • ⭐ 7,834 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -555,7 +551,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 69 • 💬 1 • ⭐ 8,373 • 1mo ago
+▲ 69 • 💬 2 • ⭐ 8,373 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -587,6 +583,18 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
+**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
+
+*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
+
+A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
+
+▲ 17 • 💬 1 • ⭐ 30,490 • 14mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
+
+---
+
 **[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
 *Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
@@ -599,25 +607,13 @@ Agentic coding tools receive goals written in natural language as input, break t
 
 ---
 
-**[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
-
-*Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
-
-A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
-
-▲ 17 • 💬 1 • ⭐ 30,436 • 14mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
-
----
-
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 43 • 💬 2 • ⭐ 47,847 • 10mo ago
+▲ 43 • 💬 2 • ⭐ 47,877 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -629,7 +625,7 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 A suite of open-source music foundation models is introduced, featuring components for audio-text alignment, lyric recognition, music coding, and large language model-based song generation with controllable attributes and scalable parameterization.
 
-▲ 44 • 💬 4 • ⭐ 4,135 • 1mo ago
+▲ 44 • 💬 4 • ⭐ 4,158 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.10547) • [💻 code](https://github.com/HeartMuLa/heartlib) • [🔗 project](https://heartmula.github.io/)
 
@@ -645,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 17.8k • 🔱 2.1k • 48m ago
+⭐ 17.9k • 🔱 2.1k • 42s ago
 
 ---
 
@@ -653,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.8k • 🔱 515 • 12d ago
+⭐ 6.8k • 🔱 517 • 13d ago
 
 ---
 
@@ -663,7 +659,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.3k • 🔱 651 • 14h ago
+⭐ 5.3k • 🔱 656 • 16h ago
 
 ---
 
@@ -683,7 +679,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 334 • 17m ago
+⭐ 3.4k • 🔱 335 • 2h ago
 
 ---
 
@@ -693,7 +689,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.0k • 🔱 384 • 1d ago
+⭐ 3.1k • 🔱 388 • 1d ago
 
 ---
 
@@ -703,7 +699,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 186 • 7h ago
+⭐ 2.7k • 🔱 187 • 1h ago
 
 ---
 
@@ -713,7 +709,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.6k • 🔱 287 • 1d ago
+⭐ 2.6k • 🔱 293 • 1h ago
 
 ---
 
@@ -723,7 +719,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.5k • 🔱 125 • 2d ago
+⭐ 2.5k • 🔱 126 • 1h ago
 
 ---
 
@@ -733,7 +729,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 431 • 17h ago
+⭐ 2.2k • 🔱 439 • 19h ago
 
 ---
 

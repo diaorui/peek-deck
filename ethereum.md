@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-24T02:11:42.381308+00:00'
+updated: '2026-02-24T04:30:37.368162+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 24, 2026 at 02:11 UTC  
+**Last Updated:** February 24, 2026 at 04:30 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** -5.7%  
-**30d:** -37.0%  
-**90d:** -38.8%  
-**1y:** -26.1%  
+**24h:** -1.9%  
+**7d:** -6.5%  
+**30d:** -37.6%  
+**90d:** -39.3%  
+**1y:** -26.7%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $222.21B
+**Market Cap:** $220.71B
 Rank #2
 
 **Circulating Supply:** 120,692,340 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.8%
+-63.0%
 
 **All-Time Low:** $0.43
-+425029.2%
++422181.5%
 
 ---
 
@@ -72,7 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
+
+---
+
+**[Best way to restake rETH?](https://www.reddit.com/r/ethereum/comments/1rd5lq8/best_way_to_restake_reth/)**
+
+1m ago
 
 ---
 
@@ -80,13 +86,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
 
-🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 10h ago
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 12h ago
 
 ---
 
 **[Telegram bot for audit contest updates (Sherlock, Code4rena, Cantina, Immunefi)](https://www.reddit.com/r/ethereum/comments/1rctimq/telegram_bot_for_audit_contest_updates_sherlock/)**
 
-5h ago
+7h ago
 
 ---
 
@@ -94,7 +100,7 @@ Simple little tool for encoding function calls according to the eth abi. I've se
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 12h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 15h ago
 
 ---
 
@@ -138,23 +144,31 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[We built a fully onchain orderbook for two of Ethereum's oldest tokens (2016 Unicorn experiment)](https://www.reddit.com/r/ethereum/comments/1ra98op/we_built_a_fully_onchain_orderbook_for_two_of/)**
-
-Some backstory In February 2016 — less than a year after Ethereum launched — Alex Van de Sande (avsa) from the Ethereum Foundation deployed an experimental contract called Unicorns (0x89205A3A). It was one of the very first token contracts on Ethereum, predating the ERC-20 standard. A month later, he created Unicorn Meat (0xED6aC8de) — another experimental token — along with the Grinder Association DAO, one of the earliest DAOs on Ethereum. The Grinder let you exchange Unicorns for Unicorn Meat, effectively the first onchain token swap. These were demo contracts for the Mist browser. They were never meant to become "real" tokens, but they've survived for 10 years now — still on mainnet, still functional, still held in wallets. The problem Because these tokens predate ERC-20 (they have 0 decimal places, non-standard transfer functions), they don't work well with modern DEXes. Uniswap V3's fee math rounds to 0 for 0-decimal tokens. AMM pooling is essentially broken for them. Wrapped versions exist (w🦄 and w🍖 are standard ERC-20s), but the 0-decimal problem persists. What we built Unicorn Market — a fully onchain orderbook contract, purpose-built for these tokens: No backend, no matching engine, no admin keys — pure smart contract Escrowed limit orders — maker's tokens held in contract until filled or cancelled Partial fills — take any portion of an order Deterministic rounding — uses OpenZeppelin's Math.mulDiv with ceiling rounding so makers never get shorted All state onchain, all settlement via events Verified contract: 0xA352B50A91C648c97F7aC0a80D686D297b62693E Trade interface: unicornmeateth.com/market Source: github.com/cartoonitunes/unicorn-market Why this matters (beyond the meme) There are hundreds of pre-ERC-20 and non-standard tokens stuck on Ethereum mainnet with no good trading infrastructure. AMMs assume standard decimals and transfer behavior. A simple, auditable orderbook contract is arguably the right primitive for these edge cases. If you hold any legacy Ethereum tokens from 2015-2017, you probably know the pain of trying to trade them on modern infra. Technical details Reentrancy-guarded, CEI pattern throughout Happy to answer questions about the contract design or the history of these tokens.
-
-3d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**['Ethereum Foundation believes in Defipunk', says org as it forms team to support protocol development](https://www.theblock.co/post/390888/ethereum-foundation-defipunk-forms-team-support-protocol-development)**
+
+The Ethereum Foundation named former DELV CEO Charles St. Louis as DeFi Protocol Specialist and ivangbi as DeFi Coordinator.
+
+The Block • 6h ago
+
+---
 
 **[Is Ethereum good enough for Wall Street? If history is any guide, the answer is clear](https://fortune.com/crypto/2026/02/23/ethereum-wall-street-canton-r3-zksync-ethdenver/)**
 
 A consortium of banks is building its own version of blockchain—it will be hard pressed to make it work.
 
-Fortune • 13h ago
+Fortune • 16h ago
+
+---
+
+**[Institutional Interest Grows As Bitmine Expands Ethereum Holdings And Validator Network](https://sg.finance.yahoo.com/news/institutional-interest-grows-bitmine-expands-031518791.html)**
+
+Major institutional investors have substantially raised their holdings in Bitmine Immersion Technologies (NYSEAM:BMNR). The move aligns with Bitmine’s record accumulation of Ethereum tokens and a larger combined asset base. The company has launched a new "Made in America Validator Network" focused on Ethereum infrastructure. Bitmine Immersion Technologies, trading at $19.22, has had a mixed return profile, with the stock up 163.4% over the past year but showing a 33.3% decline over the past...
+
+Yahoo Finance Singapore • 1h ago
 
 ---
 
@@ -162,7 +176,7 @@ Fortune • 13h ago
 
 Ethereum founder Vitalik Buterin has been selling ETH in the last few days as the second-largest crypto asset continues its fall.
 
-Decrypt • 8h ago
+Decrypt • 11h ago
 
 ---
 
@@ -170,7 +184,7 @@ Decrypt • 8h ago
 
 Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -178,15 +192,7 @@ Yahoo Finance • 12h ago
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 15h ago
-
----
-
-**[With 11,000 New AI Agents Online, Is Ethereum a Screaming Buy Right Now With $2,500?](https://www.fool.com/investing/2026/02/23/with-11000-new-ai-agents-online-is-ethereum-a-scre/)**
-
-This new class of on-chain actors could generate a lot of demand for the coin.
-
-The Motley Fool • 1h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -194,7 +200,7 @@ The Motley Fool • 1h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
 
-Yahoo Finance • 10h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -202,29 +208,23 @@ Yahoo Finance • 10h ago
 
 Bitmine increased holdings to 4.42 million ETH, controlling 3.66% of supply and generating $171 million staking revenue.
 
-The Block • 11h ago
+The Block • 13h ago
 
 ---
 
-**[Ethereum Hits 2-Week Low—And Tom Lee's BitMine Just Added to Its $8.4 Billion Stash](https://decrypt.co/358826/ethereum-2-week-low-tom-lee-bitmine-8-4-billion-stash)**
+**[Tom Lee's BitMine (BMNR) buys 51,162 ether (ETH) amid falling crypto prices](https://www.coindesk.com/business/2026/02/23/bitmine-immersion-added-usd98-million-of-ether-last-week-as-losses-balloon-to-more-than-usd8-billion)**
 
-Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
+Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.
 
-Decrypt • 10h ago
-
----
-
-**[Ethereum Futures Breakdown Accelerates](https://investinglive.com/Cryptocurrency/ethereum-futures-breakdown-accelerates-20260223/)**
-
-Ether futures point to a daily drop, so far, of almost 6%
-
-investingLive • 21h ago
+CoinDesk • 14h ago
 
 ---
 
-**[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
+**[With 11,000 New AI Agents Online, Is Ethereum a Screaming Buy Right Now With $2,500?](https://www.fool.com/investing/2026/02/23/with-11000-new-ai-agents-online-is-ethereum-a-scre/)**
 
-Binance • 16h ago
+This new class of on-chain actors could generate a lot of demand for the coin.
+
+The Motley Fool • 4h ago
 
 ---
 
@@ -238,17 +238,7 @@ SHOCKING New Ethereum-AI Roadmap AI Will SAVE Crypto GM O Army! In this video, w
 
 📺 CryptoWendyO
 
-👁️ 1K • 👍 147 • 💬 10 • ⏱️ 3:44 • 4h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EG5jhwbRZU8)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 524 • 👍 59 • 💬 8 • ⏱️ 5:24 • 2h ago
+👁️ 2K • 👍 167 • 💬 10 • ⏱️ 3:44 • 6h ago
 
 ---
 
@@ -258,17 +248,17 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 131 • 💬 40 • ⏱️ 14:34 • 13h ago
+👁️ 3K • 👍 134 • 💬 40 • ⏱️ 14:34 • 15h ago
 
 ---
 
-**[BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hkInfemKTV4)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=EG5jhwbRZU8)**
 
-BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto World
+📺 More Crypto Online
 
-👁️ 6K • 👍 235 • 💬 70 • ⏱️ 22:08 • 6h ago
+👁️ 873 • 👍 77 • 💬 8 • ⏱️ 5:24 • 4h ago
 
 ---
 
@@ -278,37 +268,17 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 489 • 👍 25 • 💬 9 • ⏱️ 6:12 • 5h ago
+👁️ 617 • 👍 28 • 💬 10 • ⏱️ 6:12 • 8h ago
 
 ---
 
-**[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
+**[BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hkInfemKTV4)**
 
-While most people hesitate on Ethereum, I'm loading up. In this video, I break down my full Ethereum thesis, why current price ...
+BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
 
-📺 Michaël van de Poppe
+📺 Crypto World
 
-👁️ 8K • 👍 302 • 💬 63 • ⏱️ 11:38 • 1d ago
-
----
-
-**[Ethereum&#39;s Last Big Upgrade: The zkEVM | Ansgar Dietrichs](https://www.youtube.com/watch?v=QK6yyRdJ-eY)**
-
-SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's next big leap might ...
-
-📺 Bankless
-
-👁️ 2K • 👍 113 • 💬 16 • ⏱️ 1:23:36 • 14h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=smPJV_jsMzY)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 3K • 👍 144 • 💬 4 • ⏱️ 6:00 • 16h ago
+👁️ 7K • 👍 260 • 💬 73 • ⏱️ 22:08 • 8h ago
 
 ---
 
@@ -318,17 +288,47 @@ Kalshi is pricing in a potential major Ethereum drawdown this year. In this vide
 
 📺 Smart Money Tracking
 
-👁️ 537 • 👍 46 • 💬 17 • ⏱️ 27:22 • 6h ago
+👁️ 639 • 👍 49 • 💬 16 • ⏱️ 27:22 • 8h ago
 
 ---
 
-**[Is Tom Lee Finally Right About the ETH Bottom? (BMNR Update)](https://www.youtube.com/watch?v=3a83V1fKPLE)**
+**[Tom Lee: &quot;Crypto Price Predictions Are About To Go INSANE!&quot; | Bitcoin 2026](https://www.youtube.com/watch?v=WbT5Jt8csr8)**
 
-Get lifetime access to my full investing system + all spreadsheets, my real-time portfolio, trade alerts, DAILY member-only ...
+My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutshell.com/subscribe You can NOW ...
 
-📺 Future Investing
+📺 Jamie Tree 
 
-👁️ 20K • 👍 722 • 💬 185 • ⏱️ 8:49 • 2d ago
+👁️ 3K • 👍 72 • 💬 20 • ⏱️ 19:18 • 13h ago
+
+---
+
+**[I&#39;m Loading Ethereum — Here&#39;s My Full Thesis](https://www.youtube.com/watch?v=oL7scKcjHSc)**
+
+While most people hesitate on Ethereum, I'm loading up. In this video, I break down my full Ethereum thesis, why current price ...
+
+📺 Michaël van de Poppe
+
+👁️ 8K • 👍 306 • 💬 66 • ⏱️ 11:38 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=smPJV_jsMzY)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 144 • 💬 4 • ⏱️ 6:00 • 18h ago
+
+---
+
+**[Ethereum&#39;s Last Big Upgrade: The zkEVM | Ansgar Dietrichs](https://www.youtube.com/watch?v=QK6yyRdJ-eY)**
+
+SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premium --- Ethereum's next big leap might ...
+
+📺 Bankless
+
+👁️ 3K • 👍 116 • 💬 17 • ⏱️ 1:23:36 • 17h ago
 
 ---
 
