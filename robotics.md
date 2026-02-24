@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T05:44:38.898520+00:00'
+updated: '2026-02-24T07:02:11.555020+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 05:44 UTC  
+**Last Updated:** February 24, 2026 at 07:02 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -42,15 +42,7 @@ Robotics research and industry news
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-4h ago
-
----
-
-**[Latest Unitree demo](https://www.reddit.com/r/robotics/comments/1rcd973/latest_unitree_demo/)**
-
-Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
-
-19h ago
+6h ago
 
 ---
 
@@ -58,7 +50,15 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-53m ago
+2h ago
+
+---
+
+**[Latest Unitree demo](https://www.reddit.com/r/robotics/comments/1rcd973/latest_unitree_demo/)**
+
+Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
+
+21h ago
 
 ---
 
@@ -72,7 +72,7 @@ I’ve been working with my team on a small wheeled-leg robot recently, we wante
 
 Jeff Cardenas, CEO of Apptronik, described how humanoid robotics could scale over the next five years. The framework was structured in three phases: Phase 1: Industrial environments such as logistics and manufacturing. Structured workflows, clearer safety boundaries, and measurable ROI make these environments the most practical starting point. Phase 2: Broader commercial settings including healthcare, hospitality, and retail. Increased human interaction and environmental variability introduce additional complexity. Phase 3: Home and assistive care. Considered a long-term objective rather than an initial deployment market. An updated Apollo has been operating internally for about a year, running commercial pilots and participating in a research partnership with Google’s Gemini Robotics.
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Jeff Cardenas, CEO of Apptronik, described how humanoid robotics could scale ove
 
 We found this kit as a thrift store but it’s missing the instructions which are not available online. Please help a keen 7 year old build his third robot!
 
-7h ago
+8h ago
 
 ---
 
@@ -88,7 +88,7 @@ We found this kit as a thrift store but it’s missing the instructions which ar
 
 Hi, I’m looking for non-animal alternatives to a psychiatric/autonomic service dog. I don’t currently have one, which is why I’m trying to find tech replacements. I’m specifically looking for real, purchasable products (brand + model names) — not just general categories. I strongly prefer one-time purchases (no subscriptions) if possible. I need help replacing tasks like: Monitoring / Alerts • Detecting zoning out or inactivity • Anxiety/stress alerts (heart rate changes, etc.) • Persistent alarms to prevent oversleeping Interruptions • Interrupting repetitive or harmful behaviors • Persistent prompts if I’m overstimulated or stuck Regulation • Deep pressure or compression devices • Grounding tools that help regulate anxiety/heart rate Environmental help • Smart door/opening solutions • Devices that help when stuck in bed or on the floor • Ways to create personal space or discourage people from approaching 24/7 interaction • A non-animal option I can talk to anytime for grounding (prefer no subscription, but note if required) If you’ve personally used something like this, I’d really appreciate hearing what worked and what didn’t. Thank you!
 
-2h ago
+3h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hi, I’m looking for non-animal alternatives to a psychiatric/autonomic service
 
 Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
 
-21h ago
+22h ago
 
 ---
 
@@ -120,22 +120,6 @@ CNBC • 3d ago
 
 ---
 
-**[Certis and FieldAI Form Strategic Partnership to Deploy Autonomous Robotics in Real-World Security Operations](https://www.prnewswire.com/news-releases/certis-and-fieldai-form-strategic-partnership-to-deploy-autonomous-robotics-in-real-world-security-operations-302695190.html)**
-
-/PRNewswire/ -- Certis Group, Singapore's leading provider of integrated security and operations solutions, has formed a strategic partnership with FieldAI, a...
-
-PR Newswire • 4h ago
-
----
-
-**[Certis and FieldAI Partner to Advance Autonomous Robotics in Real-World Security Operations](https://www.prnewswire.com/apac/news-releases/certis-and-fieldai-partner-to-advance-autonomous-robotics-in-real-world-security-operations-302695202.html)**
-
-/PRNewswire/ -- Certis Group, a leading Singapore-based provider of integrated security and operations solutions, has formed a strategic partnership with...
-
-PR Newswire • 3h ago
-
----
-
 **[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
@@ -148,15 +132,7 @@ KPAX News • 1d ago
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
-CNBC • 15h ago
-
----
-
-**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
-
-AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
-
-MIT Technology Review • 12h ago
+CNBC • 16h ago
 
 ---
 
@@ -164,15 +140,15 @@ MIT Technology Review • 12h ago
 
 Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
 
-The Robot Report • 4h ago
+The Robot Report • 6h ago
 
 ---
 
-**[Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: For EAI Robotics, FF Will Officially Begin Its First Batch of Deliveries Next Week](https://www.businesswire.com/news/home/20260222086489/en/Faraday-Future-Founder-and-Co-CEO-YT-Jia-Shares-Weekly-Investor-Update-For-EAI-Robotics-FF-Will-Officially-Begin-Its-First-Batch-of-Deliveries-Next-Week)**
+**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
 
-Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global shared intelligent electric mobi...
+AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
 
-Business Wire • 1d ago
+MIT Technology Review • 13h ago
 
 ---
 
@@ -184,6 +160,14 @@ The Motley Fool • 3d ago
 
 ---
 
+**[Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: For EAI Robotics, FF Will Officially Begin Its First Batch of Deliveries Next Week](https://www.businesswire.com/news/home/20260222086489/en/Faraday-Future-Founder-and-Co-CEO-YT-Jia-Shares-Weekly-Investor-Update-For-EAI-Robotics-FF-Will-Officially-Begin-Its-First-Batch-of-Deliveries-Next-Week)**
+
+Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global shared intelligent electric mobi...
+
+Business Wire • 1d ago
+
+---
+
 **[Kraken Robotics: Attractive Business, Challenging Valuation (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4873255-kraken-robotics-attractive-business-challenging-valuation)**
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
@@ -192,19 +176,25 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Tech companies are making their robots cute to try to win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
+
+Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
+
+NBC News • 1d ago
+
+---
+
+**[From Doraemon to dexterous hands: LinkerBot equips robots with human skills](https://www.scmp.com/tech/tech-trends/article/3344242/doraemon-dexterous-hands-chinas-linkerbot-equips-robots-human-skills)**
+
+The start-up is revolutionising humanoid robotics with ultra-dexterous hands, ushering in a new era of humanlike robotic capability.
+
+South China Morning Post • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
-
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
-
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
-
-📺 10 News
-
-👁️ 306K • 👍 4K • 💬 2K • ⏱️ 3:42 • 4d ago
-
----
 
 **[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
 
@@ -212,17 +202,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 87K • 👍 447 • 💬 239 • ⏱️ 2:14 • 3d ago
-
----
-
-**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
-
-A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
-
-📺 Dr Ben Miles
-
-👁️ 1.4M • 👍 104K • 💬 3K • ⏱️ 1:27 • 4d ago
+👁️ 87K • 👍 453 • 💬 240 • ⏱️ 2:14 • 3d ago
 
 ---
 
@@ -232,7 +212,27 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 18K • 👍 322 • 💬 316 • ⏱️ 2:30 • 2d ago
+👁️ 18K • 👍 325 • 💬 317 • ⏱️ 2:30 • 2d ago
+
+---
+
+**[This New Way of Making Robots is Wild](https://www.youtube.com/watch?v=t4Dl1QqwSkw)**
+
+A startup called Allonic has developed a 3D braiding technique that weaves robotic parts into a single integrated structure, ...
+
+📺 Dr Ben Miles
+
+👁️ 1.4M • 👍 105K • 💬 3K • ⏱️ 1:27 • 4d ago
+
+---
+
+**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+
+Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+
+📺 10 News
+
+👁️ 307K • 👍 4K • 💬 2K • ⏱️ 3:42 • 4d ago
 
 ---
 
@@ -242,7 +242,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 71K • 👍 3K • 💬 839 • ⏱️ 14:51 • 3d ago
+👁️ 72K • 👍 3K • 💬 841 • ⏱️ 14:51 • 3d ago
 
 ---
 
@@ -252,17 +252,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 51K • 👍 1K • 💬 139 • ⏱️ 14:16 • 1d ago
-
----
-
-**[Unitree Kung Fu Bot   Pray for Blessings at the Temple of Heaven: Wish Everyone All the Best](https://www.youtube.com/watch?v=eQpyvR-B7hc)**
-
-Unitree G1 Robots Cluster Show.
-
-📺 Unitree Robotics
-
-👁️ 62K • 👍 3K • 💬 453 • ⏱️ 0:41 • 21h ago
+👁️ 56K • 👍 1K • 💬 147 • ⏱️ 14:16 • 1d ago
 
 ---
 
@@ -272,17 +262,7 @@ Galgotias University has come under scrutiny after displaying a Chinese-made rob
 
 📺 NDTV
 
-👁️ 29K • 👍 118 • 💬 214 • ⏱️ 5:02 • 5d ago
-
----
-
-**[China’s Kung Fu Robot SHOCKS the World at Spring Festival Gala (LIVE!)](https://www.youtube.com/watch?v=RprmQfqUfaE)**
-
-Join the NextGen AI Community for early access, faster updates, and deeper AI & robotics analysis: ...
-
-📺 NextGen AI
-
-👁️ 38K • 👍 682 • 💬 163 • ⏱️ 9:42 • 5d ago
+👁️ 29K • 👍 118 • 💬 214 • ⏱️ 5:02 • 6d ago
 
 ---
 
@@ -292,7 +272,27 @@ Humanoid robot clusters are the new drone swarms. Chinese robotics leader Unitre
 
 📺 Kalil 4.0
 
-👁️ 5K • 👍 206 • 💬 29 • ⏱️ 0:59 • 9h ago
+👁️ 8K • 👍 264 • 💬 37 • ⏱️ 0:59 • 10h ago
+
+---
+
+**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+
+By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+
+📺 NVIDIA
+
+👁️ 37K • 👍 1K • ⏱️ 2:51 • 5d ago
+
+---
+
+**[A Whole Bunch of Robots Sending New Year Greetings to Everyone!](https://www.youtube.com/watch?v=w4IOJH9Akhg)**
+
+The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Cooperative Rapid Scheduling System.
+
+📺 Unitree Robotics
+
+👁️ 1.6M • 👍 2K • 💬 201 • ⏱️ 0:32 • 6d ago
 
 ---
 
