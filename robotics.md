@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T11:23:36.012030+00:00'
+updated: '2026-02-24T12:01:57.422419+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 11:23 UTC  
+**Last Updated:** February 24, 2026 at 12:01 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-10h ago
+11h ago
 
 ---
 
@@ -62,7 +62,7 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-6h ago
+7h ago
 
 ---
 
@@ -70,7 +70,7 @@ I’ve been working with my team on a small wheeled-leg robot recently, we wante
 
 If you're looking for a robot lawn mower that doesn't need boundary wires, here are a few models that keep coming up in 2026: Best Easy Setup Eufy E15 $2,299 at Amazon Best for Straight Lawns Husqvarna Automower 410 iQ $2,999 at Amazon Best Budget for Small Lawns Anthbot M5 $699 at Anthbot Best Choice for Medium-Sized Lawns Sunseeker X3 Plus $1,399.99 at Sunseeker Best for Large Lawns (Up to 2.5 Acres) Segway Navimow X390 $4,999 at Segway Best for Very Large Lawns (Up to 10 Acres) Kress Mission Mega RTK KR237 $14,999 at Kress Best Commercial-Grade Wire-Free Option Husqvarna Automower 450X EPOS $5,899 at Husqvarna Overall, what stood out to me is that most wire-free robot lawn mowers in 2026 are clearly split by lawn size and complexity. The smaller models seem aimed at convenience and price, while the higher-end ones are basically replacing traditional riding mowers for large properties. Also worth noting: a lot of these newer models rely heavily on RTK/satellite navigation, so yard layout, tree cover, and signal stability probably matter more than they used to. Definitely feels like the tech is maturing, but still not totally one-size-fits-all.
 
-26m ago
+1h ago
 
 ---
 
@@ -128,7 +128,7 @@ KPAX News • 1d ago
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -136,7 +136,7 @@ CNBC • 20h ago
 
 Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
 
-The Robot Report • 10h ago
+The Robot Report • 11h ago
 
 ---
 
@@ -160,7 +160,7 @@ Business Wire • 1d ago
 
 Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Seeking Alpha • 1d ago
+Seeking Alpha • 2d ago
 
 ---
 
@@ -184,7 +184,7 @@ South China Morning Post • 1d ago
 
 The CCESC VEX IQ Middle School Robotics League wrapped up its 2025–26 season with a competitive finals event held Saturday at the Columbiana County Career and Technical Center. Three teams earned qualification to compete in the Ohio VEX IQ Middle School Robotics State Championship, which will take place March 2–3 at the National Museum of […]
 
-salemnews.net • 5h ago
+salemnews.net • 6h ago
 
 ---
 
@@ -198,7 +198,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 87K • 👍 458 • 💬 243 • ⏱️ 2:14 • 3d ago
+👁️ 88K • 👍 458 • 💬 245 • ⏱️ 2:14 • 3d ago
 
 ---
 
@@ -208,7 +208,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 308K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
+👁️ 309K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
 
 ---
 
@@ -218,7 +218,7 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 18K • 👍 328 • 💬 318 • ⏱️ 2:30 • 2d ago
+👁️ 19K • 👍 329 • 💬 320 • ⏱️ 2:30 • 2d ago
 
 ---
 
@@ -228,7 +228,7 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.4M • 👍 105K • 💬 3K • ⏱️ 1:27 • 4d ago
+👁️ 1.4M • 👍 106K • 💬 3K • ⏱️ 1:27 • 4d ago
 
 ---
 
@@ -238,7 +238,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 72K • 👍 3K • 💬 844 • ⏱️ 14:51 • 3d ago
+👁️ 73K • 👍 3K • 💬 845 • ⏱️ 14:51 • 3d ago
 
 ---
 
@@ -248,7 +248,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 59K • 👍 1K • 💬 150 • ⏱️ 14:16 • 1d ago
+👁️ 61K • 👍 1K • 💬 152 • ⏱️ 14:16 • 1d ago
 
 ---
 
@@ -262,33 +262,33 @@ Galgotias University has come under scrutiny after displaying a Chinese-made rob
 
 ---
 
-**[50 Humanoid Robots Perform Kung Fu in Perfect Sync #robotics #humanoidrobots #innovation #china](https://www.youtube.com/watch?v=ee2ebY-8mnM)**
-
-Humanoid robot clusters are the new drone swarms. Chinese robotics leader Unitree just shared footage with about 50 of its Kung ...
-
-📺 Kalil 4.0
-
-👁️ 11K • 👍 306 • 💬 41 • ⏱️ 0:59 • 15h ago
-
----
-
-**[Unitree Kung Fu Bot   Pray for Blessings at the Temple of Heaven: Wish Everyone All the Best](https://www.youtube.com/watch?v=eQpyvR-B7hc)**
-
-Unitree G1 Robots Cluster Show.
-
-📺 Unitree Robotics
-
-👁️ 72K • 👍 3K • 💬 471 • ⏱️ 0:41 • 1d ago
-
----
-
 **[Humanoid robots dance at the Temple of Heaven for the Chinese New Year#coolchina](https://www.youtube.com/watch?v=PY-LqvwhtRE)**
 
 Following their performance on the Spring Festival Gala stage, where humanoid robots danced and demonstrated martial arts as ...
 
 📺 CGTN
 
-👁️ 71K • 👍 2K • 💬 359 • ⏱️ 2:14 • 22h ago
+👁️ 78K • 👍 2K • 💬 385 • ⏱️ 2:14 • 23h ago
+
+---
+
+**[A Whole Bunch of Robots Sending New Year Greetings to Everyone!](https://www.youtube.com/watch?v=w4IOJH9Akhg)**
+
+The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Cooperative Rapid Scheduling System.
+
+📺 Unitree Robotics
+
+👁️ 1.6M • 👍 2K • 💬 202 • ⏱️ 0:32 • 6d ago
+
+---
+
+**[China’s Kung Fu Robots STUN the World with Unreal Live Performance!](https://www.youtube.com/watch?v=_jYdh-gyc3A)**
+
+China just stunned the world after showcasing Kung Fu–performing humanoid robots in a massive live event viewed by millions.
+
+📺 The AI Nexus
+
+👁️ 42K • 👍 1K • 💬 119 • ⏱️ 18:26 • 6d ago
 
 ---
 

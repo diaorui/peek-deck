@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-24T11:23:36.002709+00:00'
+updated: '2026-02-24T12:01:57.413239+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 24, 2026 at 11:23 UTC  
+**Last Updated:** February 24, 2026 at 12:01 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1262.19B
+**Market Cap:** $1263.31B
 Rank #1
 
-**Circulating Supply:** 19,994,000 BTC
+**Circulating Supply:** 19,994,078 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -49.9%
 
 **All-Time Low:** $67.81
-+92976.2%
++93095.7%
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 I almost sold, tired of this red candle. Holding 1 BTC since 2017. Never sold. I almost just did it. One click away. Give me some strength guys! Some strength to hit buy instead
 
-7h ago
+8h ago
 
 ---
 
 **[I still love this short Bitcoin explanation](https://www.reddit.com/r/Bitcoin/comments/1rcitoa/i_still_love_this_short_bitcoin_explanation/)**
 
-20h ago
+21h ago
 
 ---
 
 **[Bitcoin is "dead"](https://www.reddit.com/r/Bitcoin/comments/1rda9jh/bitcoin_is_dead/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -123,13 +123,13 @@ Looking for insight and thoughts.. I don't have much but am currently down 30%>.
 
 Easy way to stamp your seed onto stainless steel washers. Any hardware store sells 1 inch washers for so cheap (avoid zinc plated due to lower melting point in case of a fire). After a couple hours of using a mallet, it is nice to know stainless should last a hell of a lot longer than paper.
 
-23h ago
+1d ago
 
 ---
 
 **[Wise words Sensei!! 🙏](https://www.reddit.com/r/Bitcoin/comments/1rcswby/wise_words_sensei/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -137,7 +137,7 @@ Easy way to stamp your seed onto stainless steel washers. Any hardware store sel
 
 I’ve been looking at Bitcoin from more of a long-term angle rather than trying to trade it. The part I’m stuck on is timing. For those of you who plan to hold for years, how did you decide when to actually start buying? Did you just begin and stick to a plan, or did you wait for certain conditions before getting in?
 
-9h ago
+10h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 15h ago
 
 Could Ethereum really outperform Bitcoin this year? Harvard seems to think so.
 
-The Motley Fool • 58m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ The Block • 22h ago
 
 **[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqc3W7_97azs162DrjDL8-Cbyu7Zly7GGFvyt8WgRWedFC-LBS5aNNto&gaa_ts=699d8d9f&gaa_sig=w_mDX8rCdXP-StM66afBol3vLvpVzX5aXUj4GweBJRO-_-D4xIy4aDH0N-sdxnYJAidQLmBU9IILHsxW9f4mVw%3D%3D)**
 
-MarketWatch • 16h ago
+MarketWatch • 17h ago
 
 ---
 
@@ -281,7 +281,7 @@ The company said it will focus on building data centers for high-performance com
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
-⬆️ 1 • 💬 0 • 3d ago
+⬆️ 1 • 💬 0 • 4d ago
 
 ---
 
@@ -309,7 +309,7 @@ Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk
 
 📺 CNBC Television
 
-👁️ 19K • 👍 169 • 💬 186 • ⏱️ 3:54 • 12h ago
+👁️ 21K • 👍 208 • 💬 204 • ⏱️ 3:54 • 13h ago
 
 ---
 
@@ -319,57 +319,15 @@ Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Be
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 2K • 💬 158 • ⏱️ 16:07 • 13h ago
+👁️ 22K • 👍 2K • 💬 172 • ⏱️ 16:07 • 13h ago
 
 ---
 
-**[Whales are BUYING!!! #crypto](https://www.youtube.com/watch?v=n7qFFbz-Fv4)**
+**[Bitcoin Price Didn’t Fall Because Of Crypto News #bitcoin #crypto #cryptonews](https://www.youtube.com/watch?v=w0WtdCZ-otk)**
 
-bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
+📺 The Wolf Of All Streets
 
-📺 Altcoin Daily
-
-👁️ 12K • 👍 383 • 💬 18 • ⏱️ 1:05 • 16h ago
-
----
-
-**[EXTREME WARNING: This Has NEVER Happened in Bitcoin History [Until Now]](https://www.youtube.com/watch?v=hdlXWE64s3U)**
-
-Something we have never seen before has started to surface. In today's video, Kyledoops shares what this means for Bitcoins ...
-
-📺 Crypto Banter
-
-👁️ 6K • 👍 757 • 💬 5 • ⏱️ 33:12 • 3h ago
-
----
-
-**[More Chaos Caused Bitcoin To Drop Below $65,000](https://www.youtube.com/watch?v=rcLj4hjGUAI)**
-
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
-
-📺 CryptosRUs
-
-👁️ 21K • 👍 1K • 💬 132 • ⏱️ 44:12 • 20h ago
-
----
-
-**[Michael Saylor Responds to Bitcoin Critics](https://www.youtube.com/watch?v=8eaJ3VuzhmY)**
-
-Michael Saylor returns to answer every question Natalie Brunell throws at him — including the ones most people are afraid to ask.
-
-📺 Natalie Brunell
-
-👁️ 124K • 👍 5K • 💬 2K • ⏱️ 1:51:55 • 22h ago
-
----
-
-**[Something Big is About to Happen to Bitcoin (and may have an OPPOSITE effect)](https://www.youtube.com/watch?v=gshvpBDiTd8)**
-
-Something big is about to happen to bitcoin and may have an opposite effect, contrary to what many people expect. We explain ...
-
-📺 Alessio Rastani
-
-👁️ 43K • 👍 3K • 💬 438 • ⏱️ 17:51 • 19h ago
+👁️ 7K • 👍 336 • 💬 52 • ⏱️ 2:22 • 12h ago
 
 ---
 
@@ -379,7 +337,17 @@ Take your personal data back with Incogni! Use code BOYLE at the link below and 
 
 📺 Patrick Boyle
 
-👁️ 766K • 👍 36K • 💬 5K • ⏱️ 32:14 • 2d ago
+👁️ 774K • 👍 36K • 💬 5K • ⏱️ 32:14 • 2d ago
+
+---
+
+**[Michael Saylor Responds to Bitcoin Critics](https://www.youtube.com/watch?v=8eaJ3VuzhmY)**
+
+Michael Saylor returns to answer every question Natalie Brunell throws at him — including the ones most people are afraid to ask.
+
+📺 Natalie Brunell
+
+👁️ 133K • 👍 5K • 💬 2K • ⏱️ 1:51:55 • 22h ago
 
 ---
 
@@ -389,17 +357,47 @@ It is once again time for some Bitcoin dubious speculation! Into The Cryptoverse
 
 📺 Benjamin Cowen
 
-👁️ 57K • 👍 4K • 💬 140 • ⏱️ 6:17 • 18h ago
+👁️ 61K • 👍 4K • 💬 141 • ⏱️ 6:17 • 18h ago
 
 ---
 
-**[Raoul Pal: Important Warning To All Small Bitcoin &amp; Crypto Investors (New 2026 Prediction)](https://www.youtube.com/watch?v=znyX12B83EQ)**
+**[BTC CLOSE TO CAPITULATION ($49k next)](https://www.youtube.com/watch?v=yi0JSDEdGNI)**
 
-Raoul Pal just revealed why Bitcoin is trading at a MASSIVE discount to fair value. The Real Vision CEO exposed what REALLY ...
+If you're a Bitcoin bull, you need to hear this — because Bitcoin has lost yet another crucial support level and lower lows are ...
 
-📺 Money Talks
+📺 Coin Bureau Trading
 
-👁️ 7K • 👍 145 • 💬 33 • ⏱️ 14:56 • 16h ago
+👁️ 2K • 👍 282 • 💬 32 • ⏱️ 28:41 • 4h ago
+
+---
+
+**[Bitcoin falls to nearly $64,000 as 2026 crypto woes continue](https://www.youtube.com/watch?v=1MXtUV41aos)**
+
+CNBC's MacKenzie Sigalos reports on the latest moves in bitcoin.
+
+📺 CNBC Television
+
+👁️ 9K • 👍 58 • 💬 35 • ⏱️ 1:05 • 15h ago
+
+---
+
+**[Something Big is About to Happen to Bitcoin (and may have an OPPOSITE effect)](https://www.youtube.com/watch?v=gshvpBDiTd8)**
+
+Something big is about to happen to bitcoin and may have an opposite effect, contrary to what many people expect. We explain ...
+
+📺 Alessio Rastani
+
+👁️ 45K • 👍 3K • 💬 445 • ⏱️ 17:51 • 20h ago
+
+---
+
+**[More Chaos Caused Bitcoin To Drop Below $65,000](https://www.youtube.com/watch?v=rcLj4hjGUAI)**
+
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+
+📺 CryptosRUs
+
+👁️ 21K • 👍 1K • 💬 137 • ⏱️ 44:12 • 20h ago
 
 ---
 

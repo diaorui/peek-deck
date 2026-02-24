@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-24T11:23:35.994132+00:00'
+updated: '2026-02-24T12:01:57.404588+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 24, 2026 at 11:23 UTC  
+**Last Updated:** February 24, 2026 at 12:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ I predicted early in January that ai will discover new physics before 2028 is ov
 
 **[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 18h ago
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 19h ago
 
 ---
 
@@ -101,7 +101,7 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 **[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
 
-🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 13h ago
+🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 14h ago
 
 ---
 
@@ -121,7 +121,7 @@ I've written 365+ prompts for enterprise use and the pattern is clear: structure
 
 DoorDash Inc., American Express Co., KKR & Co Inc. and Blackstone Inc all slumped more than 8%.  Shares of other companies name-checked in the article, including Uber Technologies Inc., Mastercard Inc., Visa Inc., Capital One Financial Corp. and Apollo Global Management Inc. were all lower by at least 3%.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -129,7 +129,7 @@ Yahoo Finance • 13h ago
 
 COBOL is a computer language used for business data processing and IBM is a leader in that area.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -147,7 +147,7 @@ The New York Times • 11h ago
 
 **[Exclusive: AI advocacy group touts 500,000 supporters](https://www.axios.com/2026/02/24/ai-advocacy-group-touts-supporters)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -161,7 +161,7 @@ USA Today • 1h ago
 
 **[BlackRock Backs Dutch Chipmaker Axelera AI in $250 Million Round](https://www.bloomberg.com/news/articles/2026-02-24/blackrock-backs-dutch-chipmaker-axelera-ai-in-250-million-round)**
 
-Bloomberg.com • 23m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ Reuters • 11h ago
 
 DeepSeek, Moonshot and MiniMax created more than 16 million interactions with Claude using roughly 24,000 fake accounts, the U.S. company said in a blog post.
 
-NBC News • 53m ago
+NBC News • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Anthropic • 17h ago
 
 We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.
 
-⬆️ 1186 • 💬 656 • 23h ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
+⬆️ 1186 • 💬 656 • 1d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
 
 ---
 
@@ -218,7 +218,7 @@ I’m seeking assistance regarding a sudden restriction on my Google AI Ultra ac
 My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
 During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
 
-⬆️ 374 • 💬 302 • 13h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+⬆️ 374 • 💬 302 • 14h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 
 ---
 
@@ -226,7 +226,7 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
 
 The latest update of Firefox, version 148, introduces a much-anticipated "AI kill switch" feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company’s new revenue-focused strategy regarding AI integrations. […]
 
-⬆️ 281 • 💬 229 • 5h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+⬆️ 281 • 💬 229 • 6h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 
 ---
 
@@ -242,7 +242,7 @@ Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an E
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 253 • 💬 245 • 12h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 253 • 💬 245 • 13h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -274,13 +274,23 @@ Users are exhausted fighting AI moderation, AI-generated art, and AI-first featu
 
 ## YouTube Videos: "ai"
 
+**[I Made AI Create AI](https://www.youtube.com/watch?v=4PZvO0ILluo)**
+
+I made ai create my very own all in one AI webapp! This was definitely interesting. Check out Mocha AI here: ...
+
+📺 tef
+
+👁️ 13K • 👍 1K • 💬 239 • ⏱️ 8:46 • 16h ago
+
+---
+
 **[He Got Laid Off From AI Company, Now He’s EXPOSING EVERYTHING (It’s SCARY)](https://www.youtube.com/watch?v=Um4XnmMKau8)**
 
 He worked inside the AI industry — until he was suddenly laid off. Now he's speaking out. In this video, we break down what he ...
 
 📺 Jay Reed
 
-👁️ 36K • 👍 3K • 💬 646 • ⏱️ 9:01 • 16h ago
+👁️ 37K • 👍 3K • 💬 668 • ⏱️ 9:01 • 17h ago
 
 ---
 
@@ -290,37 +300,17 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 59K • 👍 1K • 💬 150 • ⏱️ 14:16 • 1d ago
+👁️ 61K • 👍 1K • 💬 152 • ⏱️ 14:16 • 1d ago
 
 ---
 
-**[First victim of AI agent harassment warns &#39;thousands&#39; more could be next • FRANCE 24 English](https://www.youtube.com/watch?v=BHol8DA2dJ0)**
+**[You&#39;re Right - I&#39;m AI generated (Here&#39;s The Proof)](https://www.youtube.com/watch?v=K3SD34vHPe4)**
 
-Slandered by one AI robot and misquoted in a news article by another, US-based software engineer Scott Shambaugh has made ...
+People keep asking if I'm AI… so I decided to actually test it. As a computer scientist, I built AI versions of myself and compared ...
 
-📺 FRANCE 24 English
+📺 House of El
 
-👁️ 452K • 👍 9K • 💬 2K • ⏱️ 5:50 • 1d ago
-
----
-
-**[Google&#39;s New AI Is Smarter Than Everyone&#39;s But It Costs HALF as Much. Here&#39;s Why They Don&#39;t Care.](https://www.youtube.com/watch?v=8jKAT8GNDE0)**
-
-My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
-
-📺 AI News & Strategy Daily | Nate B Jones
-
-👁️ 123K • 👍 5K • 💬 700 • ⏱️ 36:37 • 20h ago
-
----
-
-**[Urgent research needed to tackle AI threats, says Google AI boss | BBC News](https://www.youtube.com/watch?v=j5o8iD8qz3k)**
-
-More research on the threats of artificial intelligence (AI) "needs to be done urgently", the boss of Google DeepMind has told BBC ...
-
-📺 BBC News
-
-👁️ 15K • 👍 212 • 💬 115 • ⏱️ 3:17 • 20h ago
+👁️ 88K • 👍 9K • 💬 2K • ⏱️ 5:22 • 18h ago
 
 ---
 
@@ -334,13 +324,41 @@ Google just pushed Gemini into a new phase with the release of Gemini 3.1 Pro, a
 
 ---
 
+**[Google&#39;s New AI Is Smarter Than Everyone&#39;s But It Costs HALF as Much. Here&#39;s Why They Don&#39;t Care.](https://www.youtube.com/watch?v=8jKAT8GNDE0)**
+
+My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
+
+📺 AI News & Strategy Daily | Nate B Jones
+
+👁️ 129K • 👍 5K • 💬 731 • ⏱️ 36:37 • 21h ago
+
+---
+
+**[My AI girlfriend #comedy #music #parody of Stayin&#39; Alive by Bee Gees](https://www.youtube.com/watch?v=1TnQVcMCQUc)**
+
+📺 Matt Storer
+
+👁️ 176K • 👍 9K • 💬 104 • ⏱️ 0:27 • 59m ago
+
+---
+
 **[AI Could Make The World &#39;Unrecognizable&#39; In 5 Years: AI Policy PAC Founder Sounds The Alarm](https://www.youtube.com/watch?v=A50mUc6qZas)**
 
 Former Congressman Brad Carson, the President of Americans for Responsible Innovation and the founder of Public First Action ...
 
 📺 Forbes Breaking News
 
-👁️ 21K • 👍 569 • 💬 229 • ⏱️ 20:25 • 2d ago
+👁️ 21K • 👍 580 • 💬 235 • ⏱️ 20:25 • 2d ago
+
+---
+
+**[Cute baby Gave His Mother A Beautiful White flying  Horse 🐎 #ai #cute #shorts](https://www.youtube.com/watch?v=rYiPDbrJ88E)**
+
+Cute baby Gave His Mother A Beautiful White flying Horse #ai #cute #shorts.
+
+📺 green screen mahtab1m
+
+👁️ 11K • 💬 2 • ⏱️ 0:24 • 5h ago
 
 ---
 
@@ -350,27 +368,7 @@ Work with me: https://theproactivethinker.com Follow me on Instagram: https://ww
 
 📺 Proactive Thinker
 
-👁️ 22K • 👍 523 • 💬 103 • ⏱️ 10:01 • 2d ago
-
----
-
-**[Billions just evaporated in AI bubble](https://www.youtube.com/watch?v=0SABrSvmV7o)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 144K • 👍 8K • 💬 2K • ⏱️ 18:44 • 2d ago
-
----
-
-**[Uber CEO: I Have To Be Honest, AI Will Replace 9.4 Million Jobs At Uber!](https://www.youtube.com/watch?v=s52O1JH2tnU)**
-
-Uber CEO Dara Khosrowshahi reveals the future of driverless cars, how he led Uber's financial turnaround, his family's escape ...
-
-📺 The Diary Of A CEO
-
-👁️ 280K • 👍 6K • 💬 2K • ⏱️ 1:43:17 • 1d ago
+👁️ 22K • 👍 524 • 💬 103 • ⏱️ 10:01 • 2d ago
 
 ---
 
@@ -386,7 +384,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 390,092 • ❤️ 965 • 21h ago
+⬇️ 390,092 • ❤️ 974 • 22h ago
 
 ---
 
@@ -398,7 +396,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 180,202 • ❤️ 1,492 • 10d ago
+⬇️ 180,202 • ❤️ 1,501 • 10d ago
 
 ---
 
@@ -410,7 +408,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 202,462 • ❤️ 762 • 2d ago
+⬇️ 202,462 • ❤️ 765 • 2d ago
 
 ---
 
@@ -434,7 +432,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 223,962 • ❤️ 891 • 8d ago
+⬇️ 223,962 • ❤️ 894 • 8d ago
 
 ---
 
@@ -446,7 +444,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 34,627 • ❤️ 175 • 1d ago
+⬇️ 34,627 • ❤️ 178 • 1d ago
 
 ---
 
@@ -458,7 +456,7 @@ Capybara is a unified visual creation model framework supporting Text-to-Video, 
 
 `any-to-any`
 
-⬇️ 0 • ❤️ 167 • 1d ago
+⬇️ 0 • ❤️ 169 • 1d ago
 
 ---
 
@@ -482,19 +480,19 @@ Kimi K2.5 is a native multimodal agentic model with 1T parameters, excelling in 
 
 `image-text-to-text` `170.7B`
 
-⬇️ 1,276,735 • ❤️ 2,099 • 19d ago
+⬇️ 1,276,735 • ❤️ 2,101 • 19d ago
 
 ---
 
-**[FireRed-Image-Edit-1.0](https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0)**
+**[ZUNA](https://huggingface.co/Zyphra/ZUNA)**
 
-*FireRedTeam*
+*Zyphra*
 
-FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong instruction following and text style preservation capabilities, suitable for tasks like photo restoration and multi-image editing.
+ZUNA is a 380M-parameter EEG foundation model capable of denoising, reconstructing, and upsampling scalp-EEG signals with superior accuracy compared to standard methods, leveraging large-scale pretraining for effective signal prediction.
 
-`image-to-image`
+`382.0M`
 
-⬇️ 3,053 • ❤️ 264 • 10d ago
+⬇️ 1,351 • ❤️ 121 • 13h ago
 
 ---
 
@@ -508,7 +506,7 @@ FireRed-Image-Edit-1.0 is a general-purpose image editing model with strong inst
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 5 • 💬 0 • ⭐ 7,834 • 23mo ago
+▲ 6 • 💬 0 • ⭐ 7,834 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -520,7 +518,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 13 • 💬 1 • ⭐ 9,569 • 28mo ago
+▲ 14 • 💬 1 • ⭐ 9,612 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -535,7 +533,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 146 • 💬 19 • ⭐ 53,971 • 11mo ago
+▲ 147 • 💬 19 • ⭐ 53,971 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -639,7 +637,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 18.2k • 🔱 2.2k • 2h ago
+⭐ 18.3k • 🔱 2.2k • 4m ago
 
 ---
 
@@ -647,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 6.9k • 🔱 524 • 13d ago
+⭐ 6.9k • 🔱 525 • 13d ago
 
 ---
 
@@ -657,7 +655,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.4k • 🔱 659 • 2h ago
+⭐ 5.4k • 🔱 661 • 2h ago
 
 ---
 
@@ -677,7 +675,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 337 • 9h ago
+⭐ 3.4k • 🔱 337 • 10h ago
 
 ---
 
@@ -687,7 +685,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.1k • 🔱 402 • 5h ago
+⭐ 3.1k • 🔱 406 • 6h ago
 
 ---
 
@@ -707,7 +705,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.7k • 🔱 303 • 8h ago
+⭐ 2.7k • 🔱 306 • 9h ago
 
 ---
 
@@ -717,7 +715,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.6k • 🔱 129 • 3h ago
+⭐ 2.6k • 🔱 131 • 3h ago
 
 ---
 
@@ -727,7 +725,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 448 • 4h ago
+⭐ 2.3k • 🔱 449 • 5h ago
 
 ---
 
