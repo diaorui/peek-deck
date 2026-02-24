@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T09:28:25.127176+00:00'
+updated: '2026-02-24T10:26:58.949324+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 09:28 UTC  
+**Last Updated:** February 24, 2026 at 10:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -42,13 +42,13 @@ Robotics research and industry news
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-8h ago
+9h ago
 
 ---
 
 **[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -56,13 +56,13 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-4h ago
+5h ago
 
 ---
 
 **[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
-14m ago
+1h ago
 
 ---
 
@@ -70,7 +70,7 @@ I’ve been working with my team on a small wheeled-leg robot recently, we wante
 
 Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
-23h ago
+1d ago
 
 ---
 
@@ -78,13 +78,13 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 Hi everyone! I’m a working on a school project, and I decided to build a mini wind turbine using a motor. My main goals are: - Make it produce a consistent 1V–5V output (enough to show renewable energy in action). - Allow the turbine to rotate freely in any direction (vertical rotation setup). - Test it using a Gookodoq e-fan placed about 30 cm away as my wind source. So far, I’ve been experimenting with: - Picking the right motor that can balance torque and voltage. - Designing blades that are light but still catch wind effectively. - Building a mounting system that lets the turbine rotate smoothly without too much friction. I’d really appreciate advice from anyone who’s tried something similar: - What kind of motor worked best for you? - Any tips for keeping the voltage stable in the 1–5V range? - Blade designs or materials that you found effective? This project is both for learning and fun, so even small tips or photos of your own builds would mean a lot. Thanks in advance! 🙌
 
-24m ago
+1h ago
 
 ---
 
 **[How are you handling networking / video / telemetry in your robotics projects?](https://www.reddit.com/r/robotics/comments/1rd9kr0/how_are_you_handling_networking_video_telemetry/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi everyone! I’m a working on a school project, and I decided to build a mini 
 
 Je suis en train de construire un bipède humanoïde et je suis confronté à des choix mécaniques. Qu’utilisez vous comme transmission servo-moteurs vers un axe d’articulation 1_ entraînement direct axe sur axe 2_ par came l’axe A est équipé d’une barre métallique perpendiculaire et le servomoteur du même système et un petit axe en bout des deux cames les relient 3_par engrenage
 
-2h ago
+3h ago
 
 ---
 
@@ -126,7 +126,7 @@ KPAX News • 1d ago
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -134,7 +134,7 @@ CNBC • 19h ago
 
 Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
 
-The Robot Report • 8h ago
+The Robot Report • 9h ago
 
 ---
 
@@ -142,7 +142,7 @@ The Robot Report • 8h ago
 
 AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
 
-MIT Technology Review • 16h ago
+MIT Technology Review • 17h ago
 
 ---
 
@@ -174,13 +174,13 @@ NBC News • 1d ago
 
 OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
-South China Morning Post • 1d ago
+South China Morning Post • 2d ago
 
 ---
 
 **[Robotics Info Night for South Lake Tahoe students](https://southtahoenow.com/02/23/2026/robotics-info-night-for-south-lake-tahoe-students)**
 
-South Tahoe Now • 9h ago
+South Tahoe Now • 10h ago
 
 ---
 
@@ -264,7 +264,7 @@ Humanoid robot clusters are the new drone swarms. Chinese robotics leader Unitre
 
 📺 Kalil 4.0
 
-👁️ 11K • 👍 306 • 💬 41 • ⏱️ 0:59 • 13h ago
+👁️ 11K • 👍 306 • 💬 41 • ⏱️ 0:59 • 14h ago
 
 ---
 
@@ -284,7 +284,7 @@ Following their performance on the Spring Festival Gala stage, where humanoid ro
 
 📺 CGTN
 
-👁️ 71K • 👍 2K • 💬 359 • ⏱️ 2:14 • 21h ago
+👁️ 71K • 👍 2K • 💬 359 • ⏱️ 2:14 • 22h ago
 
 ---
 
