@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-23T23:54:07.531101+00:00'
+updated: '2026-02-24T02:11:42.384494+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 23, 2026 at 23:54 UTC  
+**Last Updated:** February 24, 2026 at 02:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
+
+2h ago
+
+---
+
 **[Latest Unitree demo](https://www.reddit.com/r/robotics/comments/1rcd973/latest_unitree_demo/)**
 
 Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
-14h ago
+16h ago
 
 ---
 
-**[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
+**[50 Videos in 5 Minutes - Robotics & Automation at PACK EXPO](https://www.reddit.com/r/robotics/comments/1rczp3m/50_videos_in_5_minutes_robotics_automation_at/)**
 
-24m ago
+I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
+
+1h ago
 
 ---
 
@@ -56,7 +64,7 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 Jeff Cardenas, CEO of Apptronik, described how humanoid robotics could scale over the next five years. The framework was structured in three phases: Phase 1: Industrial environments such as logistics and manufacturing. Structured workflows, clearer safety boundaries, and measurable ROI make these environments the most practical starting point. Phase 2: Broader commercial settings including healthcare, hospitality, and retail. Increased human interaction and environmental variability introduce additional complexity. Phase 3: Home and assistive care. Considered a long-term objective rather than an initial deployment market. An updated Apollo has been operating internally for about a year, running commercial pilots and participating in a research partnership with Google’s Gemini Robotics.
 
-4h ago
+6h ago
 
 ---
 
@@ -64,7 +72,7 @@ Jeff Cardenas, CEO of Apptronik, described how humanoid robotics could scale ove
 
 We found this kit as a thrift store but it’s missing the instructions which are not available online. Please help a keen 7 year old build his third robot!
 
-1h ago
+4h ago
 
 ---
 
@@ -72,7 +80,7 @@ We found this kit as a thrift store but it’s missing the instructions which ar
 
 Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
 
-15h ago
+17h ago
 
 ---
 
@@ -88,7 +96,7 @@ Built my very first hexapod and i think i love this hobby!Feels great finally se
 
 I recently acquired a lot of new-in-box HYDAC HY-TTC 580 mobile controllers (2023 production date) from a discontinued autonomous equipment program. These are ruggedized mobile controllers designed for off-highway and harsh environment applications, supporting functional safety standards (SIL2, PL d, ASIL C). Originally deployed in autonomous agricultural equipment, but applicable to construction machinery, hydraulic systems, EV mobile platforms, and other industrial automation builds. These units typically sell new through manufacturer/distribution channels for several thousand dollars each depending on configuration. I have multiple units available and am open to quantity discounts. For bulk buyers, I can offer pricing around $300 per unit depending on volume. If anyone here works in mobile automation, robotics, hydraulic controls, or prototyping and has interest, feel free to message me. I’m happy to share full model details and spec sheet.
 
-25m ago
+2h ago
 
 ---
 
@@ -100,31 +108,23 @@ I’m modifying a garden cart into an autonomous robot. This is just the prototy
 
 ---
 
-**[Controlling position of BLDC](https://www.reddit.com/r/robotics/comments/1rcdcro/controlling_position_of_bldc/)**
-
-Hi everyone, I had a few questions about this motor we had laying around. From what I understand this is a 3 phase BLDC motor with a hall sensor to detect the coils being energized. It also has an optical encoder for the position at the back. Now I want to program my own PID as learning experience to control its position. I searched for "BLDC controller boards" and I saw some boards that allow me to send PWM and change the speed of the motor. I looked further and came across FOC which I think I need in order to control the position. The simpleFOCmini board however did not have pins to which I connect the hall sensor to (but I am unsure if this is required). I would then connect the optical sensor to the MCU to read position, calculate error, do some PID and send PWM to the BLDC board to compensate. I am questioning if so far I understand this correctly and what board I could use to obtain this position control.
-
-14h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[China’s dancing robots: how worried should we be?](https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show)**
+**[Who's laughing now? China’s humanoid robots go from viral stumbles to kung fu flips in one year](https://www.cnbc.com/2026/02/20/china-humanoid-robots-spring-festival-gala-unitree-tesla-ai-race.html)**
 
-Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
+Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
-The Guardian • 5d ago
+CNBC • 3d ago
 
 ---
 
-**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
+**[The hidden infrastructure challenge facing outdoor robotics OEMs](https://www.therobotreport.com/the-hidden-infrastructure-challenge-facing-outdoor-robotics-oems/)**
 
-A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
+Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
 
-KPAX News • 21h ago
+The Robot Report • 1h ago
 
 ---
 
@@ -132,15 +132,23 @@ KPAX News • 21h ago
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
-CNBC • 9h ago
+CNBC • 11h ago
 
 ---
 
-**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.nasdaq.com/articles/teslas-3-trillion-opportunity-how-optimus-could-dominate-robotics-market-2026)**
+**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
 
-Key PointsTesla is repurposing EV factories to build its Optimus robots.
+AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
 
-Nasdaq • 3d ago
+MIT Technology Review • 9h ago
+
+---
+
+**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
+
+A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
+
+KPAX News • 1d ago
 
 ---
 
@@ -156,15 +164,15 @@ South China Morning Post • 1d ago
 
 Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global shared intelligent electric mobi...
 
-Business Wire • 23h ago
+Business Wire • 1d ago
 
 ---
 
-**[How Robotics Could Upend the US Manufacturing Industry](https://www.businessinsider.com/how-robotics-could-upend-the-us-manufacturing-industry-2026-2)**
+**[Kraken Robotics: Attractive Business, Challenging Valuation (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4873255-kraken-robotics-attractive-business-challenging-valuation)**
 
-The US manufacturing industry is at a crossroads, and Edward Mehr of robotics-enabled startup, Machina Labs, has chosen his path to follow.
+Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
 
-Business Insider • 3d ago
+Seeking Alpha • 1d ago
 
 ---
 
@@ -176,17 +184,11 @@ NBC News • 1d ago
 
 ---
 
-**[EngineAI’s agile humanoid stuns with advanced stability and control](https://interestingengineering.com/ai-robotics/engineai-humanoid-robot-impresses-with-quick-recovery)**
+**[Next-gen robotic hands from China mimic human movement and grip](https://interestingengineering.com/ai-robotics/china-linkerbot-robotic-hands-human-skills)**
 
-EngineAI’s PM01 humanoid shows advanced balance, quick recovery, and humanlike movement in a new demo video.
+Chinese startup LinkerBot has developed a technology to equip humanoids with the skills of performing complex and delicate tasks.
 
 Interesting Engineering • 13h ago
-
----
-
-**[Humanoid robots that 'catch themselves' instead of falling: What a new walking algorithm changes](https://techxplore.com/news/2026-02-humanoid-robots-falling-algorithm.html)**
-
-Tech Xplore • 3d ago
 
 ---
 
@@ -200,7 +202,7 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.4M • 👍 103K • 💬 3K • ⏱️ 1:27 • 4d ago
+👁️ 1.4M • 👍 104K • 💬 3K • ⏱️ 1:27 • 4d ago
 
 ---
 
@@ -210,17 +212,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 302K • 👍 4K • 💬 2K • ⏱️ 3:42 • 4d ago
-
----
-
-**[Humanoid robots dance at the Temple of Heaven for the Chinese New Year#coolchina](https://www.youtube.com/watch?v=PY-LqvwhtRE)**
-
-Following their performance on the Spring Festival Gala stage, where humanoid robots danced and demonstrated martial arts as ...
-
-📺 CGTN
-
-👁️ 30K • 👍 1K • 💬 229 • ⏱️ 2:14 • 11h ago
+👁️ 305K • 👍 4K • 💬 2K • ⏱️ 3:42 • 4d ago
 
 ---
 
@@ -230,17 +222,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 70K • 👍 3K • 💬 826 • ⏱️ 14:51 • 3d ago
-
----
-
-**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
-
-Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
-
-📺 AI Revolution
-
-👁️ 40K • 👍 912 • 💬 119 • ⏱️ 14:16 • 1d ago
+👁️ 71K • 👍 3K • 💬 830 • ⏱️ 14:51 • 3d ago
 
 ---
 
@@ -250,17 +232,7 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 85K • 👍 433 • 💬 227 • ⏱️ 2:14 • 2d ago
-
----
-
-**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
-
-Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
-
-📺 New York Post
-
-👁️ 18K • 👍 313 • 💬 301 • ⏱️ 2:30 • 2d ago
+👁️ 86K • 👍 443 • 💬 235 • ⏱️ 2:14 • 2d ago
 
 ---
 
@@ -270,7 +242,37 @@ Join the NextGen AI Community for early access, faster updates, and deeper AI & 
 
 📺 NextGen AI
 
-👁️ 38K • 👍 678 • 💬 163 • ⏱️ 9:42 • 5d ago
+👁️ 38K • 👍 682 • 💬 163 • ⏱️ 9:42 • 5d ago
+
+---
+
+**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+
+Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+
+📺 New York Post
+
+👁️ 18K • 👍 320 • 💬 311 • ⏱️ 2:30 • 2d ago
+
+---
+
+**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+
+Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+
+📺 NDTV
+
+👁️ 29K • 👍 119 • 💬 214 • ⏱️ 5:02 • 5d ago
+
+---
+
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
+
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
+
+📺 AI Revolution
+
+👁️ 47K • 👍 1K • 💬 130 • ⏱️ 14:16 • 1d ago
 
 ---
 
@@ -280,17 +282,17 @@ Kung fu robots, companion female humanoids, and robotic dogs are some of the rob
 
 📺 Aaron Page 
 
-👁️ 11K • 👍 816 • 💬 133 • ⏱️ 14:02 • 2d ago
+👁️ 11K • 👍 827 • 💬 135 • ⏱️ 14:02 • 2d ago
 
 ---
 
-**[50 Humanoid Robots Perform Kung Fu in Perfect Sync #robotics #humanoidrobots #innovation #china](https://www.youtube.com/watch?v=ee2ebY-8mnM)**
+**[Humanoid robots dance at the Temple of Heaven for the Chinese New Year#coolchina](https://www.youtube.com/watch?v=PY-LqvwhtRE)**
 
-Humanoid robot clusters are the new drone swarms. Chinese robotics leader Unitree just shared footage with about 50 of its Kung ...
+Following their performance on the Spring Festival Gala stage, where humanoid robots danced and demonstrated martial arts as ...
 
-📺 Kalil 4.0
+📺 CGTN
 
-👁️ 658 • 👍 47 • 💬 7 • ⏱️ 0:59 • 3h ago
+👁️ 44K • 👍 2K • 💬 284 • ⏱️ 2:14 • 13h ago
 
 ---
 
