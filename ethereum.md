@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-24T10:26:58.946084+00:00'
+updated: '2026-02-24T11:23:36.008765+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- videos
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 24, 2026 at 10:26 UTC  
+**Last Updated:** February 24, 2026 at 11:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.7%  
-**7d:** -6.7%  
-**30d:** -37.7%  
-**90d:** -39.5%  
-**1y:** -26.9%  
+**24h:** -5.1%  
+**7d:** -6.9%  
+**30d:** -37.8%  
+**90d:** -39.6%  
+**1y:** -27.0%  
 
 ---
 
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
 **[Best way to restake rETH?](https://www.reddit.com/r/ethereum/comments/1rd5lq8/best_way_to_restake_reth/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -94,7 +94,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
 
-🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 18h ago
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 19h ago
 
 ---
 
@@ -108,7 +108,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 **[Telegram bot for audit contest updates (Sherlock, Code4rena, Cantina, Immunefi)](https://www.reddit.com/r/ethereum/comments/1rctimq/telegram_bot_for_audit_contest_updates_sherlock/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Foundation named former DELV CEO Charles St. Louis as DeFi Protocol Specialist and ivangbi as DeFi Coordinator.
 
-The Block • 12h ago
+The Block • 13h ago
 
 ---
 
@@ -160,13 +160,37 @@ The Block • 12h ago
 
 A consortium of banks is building its own version of blockchain—it will be hard pressed to make it work.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Extend Losses. Why AI Is Pounding Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqf45KrfzVxOPLyt1K82hX-0ZSnalEcGXpMBddC39HLDa1OdzW0b0i5m&gaa_ts=699d729a&gaa_sig=mhtB9TInrLSGzZnyZpoWyHLirbdcxZSl7oT6vgimz55QY9_1-EVdVbV5MBuwGuyOa6XX5ufFbE5g1UWX9CYfgw%3D%3D)**
+**[Bitcoin, Ethereum and XRP Extend Losses. Why AI Is Pounding Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdO6xDKz4x48hKlmKC0LMRluh6RfmpcAxTWNDh_eVft4ieDMaumqEDh&gaa_ts=699d8da0&gaa_sig=EqrjxvUHAenf-0Mn8ST-7xFKpTrvz5QPOoL-Dm3lneZB_i2MPVxS7iHxZRRkMYkoMH0ukr7b8UiS3cu81J1Y4w%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
+
+---
+
+**[Better Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/02/24/better-buy-bitcoin-vs-ethereum/)**
+
+Could Ethereum really outperform Bitcoin this year? Harvard seems to think so.
+
+The Motley Fool • 58m ago
+
+---
+
+**[Ethereum Foundation starts 70,000 ETH staking process to fund operations, bolster network](https://www.coindesk.com/business/2026/02/24/putting-the-treasury-to-work-the-ethereum-foundation-just-staked-70-000-eth-to-fund-its-future)**
+
+The staking commenced with a 2,016 ETH deposit, and uses Dirk and Vouch, open-source validator tools developed by infrastructure firm Attestant
+
+CoinDesk • 39m ago
+
+---
+
+**[ETH Casino 2026 - Best Ethereum Casinos for US Players](https://muddyrivernews.com/gambling/ethereum-casinos/20260223091539/)**
+
+Discover top Ethereum casinos in the US. Play with ETH, enjoy instant transactions, fast payouts, generous bonuses, and secure crypto gaming platforms.
+
+Muddy River News • 20h ago
 
 ---
 
@@ -178,49 +202,25 @@ Yahoo Finance • 19h ago
 
 ---
 
-**[Bitmine ups Ethereum treasury stake to 4.42 million ETH, now holds 3.66% of supply](https://www.theblock.co/post/390843/bitmine-ups-ethereum-treasury-stake-to-4-42-million-eth-now-holds-3-66-of-supply)**
-
-Bitmine increased holdings to 4.42 million ETH, controlling 3.66% of supply and generating $171 million staking revenue.
-
-The Block • 19h ago
-
----
-
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.423 Million Tokens, and Total Crypto and Total Cash Holdings of $9.6 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-423-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-6-billion-302694282.html)**
 
 Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,958 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.66% of the...
 
-PR Newswire • 20h ago
+PR Newswire • 21h ago
 
 ---
 
-**[Ethereum Founder Vitalik Buterin Continues ETH Selling Spree](https://decrypt.co/358839/ethereum-founder-vitalik-buterin-continues-eth-selling-spree)**
+**[Bitmine ups Ethereum treasury stake to 4.42 million ETH, now holds 3.66% of supply](https://www.theblock.co/post/390843/bitmine-ups-ethereum-treasury-stake-to-4-42-million-eth-now-holds-3-66-of-supply)**
 
-Ethereum founder Vitalik Buterin has been selling ETH in the last few days as the second-largest crypto asset continues its fall.
+Bitmine increased holdings to 4.42 million ETH, controlling 3.66% of supply and generating $171 million staking revenue.
 
-Decrypt • 17h ago
-
----
-
-**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
-
-Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
-
-Yahoo Finance • 21h ago
+The Block • 20h ago
 
 ---
 
-**[Ethereum's cofounder Vitalik Buterin sells more ether while prices continues to slide](https://www.coindesk.com/markets/2026/02/23/ethereum-founder-vitalik-buterin-accelerates-ether-sales)**
+**[Ethereum Is Growing. So Why Is The ETH Price Collapsing?](https://www.forbes.com/sites/greatspeculations/2026/02/24/ethereum-is-growing-so-why-is-the-eth-price-collapsing/)**
 
-The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
-
-CoinDesk • 1d ago
-
----
-
-**[Wallet Maintenance for Ethereum Network (ETH) - 2026-02-24](https://www.binance.com/en/support/announcement/detail/b75538be7628494293b42353910c3516)**
-
-Binance • 1d ago
+Forbes • 23m ago
 
 ---
 
@@ -234,7 +234,7 @@ SHOCKING New Ethereum-AI Roadmap AI Will SAVE Crypto GM O Army! In this video, w
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 190 • 💬 10 • ⏱️ 3:44 • 12h ago
+👁️ 3K • 👍 190 • 💬 10 • ⏱️ 3:44 • 13h ago
 
 ---
 
@@ -244,7 +244,7 @@ What if the next rate cut isn't the beginning of another tightening cycle… but
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 218 • 💬 18 • ⏱️ 19:20 • 17h ago
+👁️ 4K • 👍 218 • 💬 18 • ⏱️ 19:20 • 18h ago
 
 ---
 
@@ -254,7 +254,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 4K • 👍 138 • 💬 41 • ⏱️ 14:34 • 21h ago
+👁️ 4K • 👍 138 • 💬 41 • ⏱️ 14:34 • 22h ago
 
 ---
 
@@ -264,7 +264,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 123 • 💬 10 • ⏱️ 5:24 • 10h ago
+👁️ 2K • 👍 123 • 💬 10 • ⏱️ 5:24 • 11h ago
 
 ---
 
@@ -274,7 +274,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 815 • 👍 35 • 💬 10 • ⏱️ 6:12 • 13h ago
+👁️ 815 • 👍 35 • 💬 10 • ⏱️ 6:12 • 14h ago
 
 ---
 
@@ -284,7 +284,7 @@ BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 9K • 👍 299 • 💬 86 • ⏱️ 22:08 • 14h ago
+👁️ 9K • 👍 299 • 💬 86 • ⏱️ 22:08 • 15h ago
 
 ---
 
@@ -294,7 +294,7 @@ Kalshi is pricing in a potential major Ethereum drawdown this year. In this vide
 
 📺 Smart Money Tracking
 
-👁️ 780 • 👍 54 • 💬 20 • ⏱️ 27:22 • 14h ago
+👁️ 780 • 👍 54 • 💬 20 • ⏱️ 27:22 • 15h ago
 
 ---
 

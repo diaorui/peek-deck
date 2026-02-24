@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-24T10:26:58.931549+00:00'
+updated: '2026-02-24T11:23:35.994132+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- repositories
 - social
+- repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 24, 2026 at 10:26 UTC  
+**Last Updated:** February 24, 2026 at 11:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falling 10%, after Anthropic announced an AI tool designed to streamline COBOL code modernization. Accenture (NYSE:ACN) and Cognizant Technology Solutions (NASDAQ:CTSH) also declined following the news.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 11h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 12h ago
 
 ---
 
@@ -49,13 +49,13 @@ Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falli
 
 I predicted early in January that ai will discover new physics before 2028 is over, came earlier than expected.
 
-🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 3h ago
+🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 4h ago
 
 ---
 
 **[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 17h ago
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 18h ago
 
 ---
 
@@ -63,7 +63,7 @@ I predicted early in January that ai will discover new physics before 2028 is ov
 
 We tested prompt repetition on 20 parallel AI agents. Ceiling effects dominated both experiments. The null result is a finding about evaluation design.
 
-🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 7h ago
+🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 8h ago
 
 ---
 
@@ -79,7 +79,7 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 "SeaCast is an innovative high-resolution forecasting system for the Mediterranean that harnesses AI to deliver faster and more energy-efficient predictions than traditional models. Unlike existing global AI models, which operate at lower resolutions and primarily rely on ocean data, SeaCast integrates both ocean and atmospheric variables, capturing complex regional dynamics. A paper describing the system is published in the journal Scientific Reports. SeaCast's graph-based neural network accounts for intricate coastlines and lateral boundary conditions, overcoming one of the major challenges in regional ocean forecasting. The model operates at a high resolution of about 4 km (1/24°), the same resolution as the CMCC Mediterranean operational forecasting system MedFS (which is coupled with a wave model and covers the full ocean depth), delivered through the Copernicus Marine Service, and produces forecasts down to a depth of 200 meters. This is made possible by training the model on CMCC Mediterranean reanalysis data, which are provided at the same resolution and are freely available through the Copernicus Marine website. SeaCast consistently outperforms the Copernicus operational model over the standard 10-day forecast horizon and extends predictions to 15 days. The efficiency gains are striking: while the operational numerical system requires around 70 minutes on 89 CPUs (central processing units, conventional processors used in most computers) to produce a 10-day forecast, SeaCast can generate a 15-day forecast in about 20 seconds using a single GPU, a highly efficient processor designed for parallel calculations and widely used in machine learning. These advancements are crucial for ocean and climate research. For example, SeaCast's improved computational speed enables rapid "what-if scenario" testing and probabilistic ensemble forecasts, where multiple simulations are used to better estimate forecast uncertainty—scientific tools that are invaluable not only for research, but also for coastal management and decision-making."
 
-🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 18h ago
+🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 19h ago
 
 ---
 
@@ -91,17 +91,17 @@ I’ve been building an embodied AI system that can physically move around and i
 
 ---
 
-**[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
-
-🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 12h ago
-
----
-
 **[‘An AlphaFold 4’ – scientists marvel at DeepMind drug spin-off’s exclusive new AI](https://www.reddit.com/r/artificial/comments/1rbrsl8/an_alphafold_4_scientists_marvel_at_deepmind_drug/)**
 
 Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
 
 🔗 [nature.com](https://www.nature.com/articles/d41586-026-00365-7) • 1d ago
+
+---
+
+**[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
+
+🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 13h ago
 
 ---
 
@@ -117,39 +117,65 @@ I've written 365+ prompts for enterprise use and the pattern is clear: structure
 
 ## Google News: "ai"
 
-**[Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears](https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html)**
+**[Taleb, Citrini Fuel AI Scare Trade as IBM Drops Most in 25 Years](https://finance.yahoo.com/news/software-payments-shares-tumble-citrini-162303649.html)**
 
-Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.
+DoorDash Inc., American Express Co., KKR & Co Inc. and Blackstone Inc all slumped more than 8%.  Shares of other companies name-checked in the article, including Uber Technologies Inc., Mastercard Inc., Visa Inc., Capital One Financial Corp. and Apollo Global Management Inc. were all lower by at least 3%.
 
-CNBC • 17h ago
-
----
-
-**[Anthropic Education Report: The AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)**
-
-Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
-
-Anthropic • 18h ago
+Yahoo Finance • 13h ago
 
 ---
 
-**[Arini’s Lemssouguer Says AI Fear Alone Risks Software Defaults](https://www.bloomberg.com/news/articles/2026-02-24/arini-s-lemssouguer-says-ai-fear-alone-risks-software-defaults)**
+**[IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat](https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html)**
 
-Bloomberg • 1h ago
+COBOL is a computer language used for business data processing and IBM is a leader in that area.
+
+CNBC • 15h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Extend Losses. Why AI Is Pounding Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdeHorbs-Ufx8ERzudrecSqy0q-ORwU2Z0P1C0i1xm9FIVZ_kqXnFT_&gaa_ts=699d7296&gaa_sig=l6NYv8R7OJBqWuGHJ9hvXrCfpBIR8mkKl7y33fAZewvrX1HdA4zEpq_c6_Fd2bbDoExEjaMYJHoza526LNKBZA%3D%3D)**
+**[IBM, CrowdStrike, Other AI-Battered Stocks Struggle to Rebound. It’s a Long Road Back.](https://www.barrons.com/articles/ibm-stock-crowdstrike-datadog-anthropic-ai-015ce5d1?gaa_at=eafs&gaa_n=AWEtsqcoBcHN2-GnuZcWH_asAzwI9u9rZf9V69djUhXWi1gOjkVyVFq6BHbg&gaa_ts=699d8d9d&gaa_sig=35bH_I-sWZV_Fv7O2ArSVF9tzZ3Voo3rzFtxyaCmClHvF3lgDDbSu3m_X-mM3ilOZEDWqIjCaTclbRX6Ptk9Dw%3D%3D)**
 
 Barron's • 1h ago
 
 ---
 
-**[Agentic AI and the Pentagon’s Integration Challenge](https://warontherocks.com/2026/02/agentic-ai-and-the-pentagons-integration-challenge/)**
+**[Opinion | New York Democrats Have a Chance to Vote Against the A.I. Oligarchs](https://www.nytimes.com/2026/02/23/opinion/alex-bores-ai-democrats.html)**
 
-Agentic AI is quickly moving from demo to deployment inside the Department of Defense. But what does it actually mean to give AI “agency” — and what does
+The New York Times • 11h ago
 
-War on the Rocks • 1h ago
+---
+
+**[Exclusive: AI advocacy group touts 500,000 supporters](https://www.axios.com/2026/02/24/ai-advocacy-group-touts-supporters)**
+
+Axios • 1h ago
+
+---
+
+**[How AI is making travel scams nearly impossible to spot](https://www.usatoday.com/story/travel/columnist/2026/02/24/travel-booking-ai-scams/88777288007/)**
+
+Cybersecurity experts reveal how AI-generated messages and fake sites are scamming travelers, and the red flags to watch.
+
+USA Today • 1h ago
+
+---
+
+**[BlackRock Backs Dutch Chipmaker Axelera AI in $250 Million Round](https://www.bloomberg.com/news/articles/2026-02-24/blackrock-backs-dutch-chipmaker-axelera-ai-in-250-million-round)**
+
+Bloomberg.com • 23m ago
+
+---
+
+**[Exclusive: China's DeepSeek trained AI model on Nvidia's best chip despite US ban, official says](https://www.reuters.com/world/china/chinas-deepseek-trained-ai-model-nvidias-best-chip-despite-us-ban-official-says-2026-02-24/)**
+
+Reuters • 11h ago
+
+---
+
+**[Chinese AI companies 'distilled' Claude to improve own models, Anthropic says](https://www.nbcnews.com/world/asia/chinese-ai-companies-distilled-claude-improve-models-anthropic-says-rcna260386)**
+
+DeepSeek, Moonshot and MiniMax created more than 16 million interactions with Claude using roughly 24,000 fake accounts, the U.S. company said in a blog post.
+
+NBC News • 53m ago
 
 ---
 
@@ -157,37 +183,7 @@ War on the Rocks • 1h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 16h ago
-
----
-
-**[Exclusive: China's DeepSeek trained AI model on Nvidia's best chip despite US ban, official says](https://www.reuters.com/world/china/chinas-deepseek-trained-ai-model-nvidias-best-chip-despite-us-ban-official-says-2026-02-24/)**
-
-Reuters • 10h ago
-
----
-
-**[Are China’s ‘AI tigers’ cheating? US rival Anthropic alleges some are](https://www.cnn.com/2026/02/24/tech/anthropic-chinese-ai-distillation-intl-hnk)**
-
-Top United States artificial intelligence firm Anthropic is accusing three prominent Chinese AI labs of illegally extracting capabilities from its Claude model to advance their own, claiming it raises national security concerns.
-
-CNN • 3h ago
-
----
-
-**[Jim Cramer says AI fears have made the stock market fragile](https://www.cnbc.com/2026/02/23/jim-cramer-says-ai-fears-have-made-the-stock-market-fragile.html)**
-
-New research explains how the AI boom could hurt the economy and cause a 10% unemployment rate.
-
-CNBC • 10h ago
-
----
-
-**[CNBC Daily Open: AI fears and tariff confusion spook U.S. markets](https://www.cnbc.com/2026/02/24/cnbc-daily-open-ai-fears-and-tariff-confusion-spook-us-markets.html)**
-
-Investors lost their sense of security in the business of cybersecurity companies after Anthropic on Friday launched an AI-powered security scanning tool.
-
-CNBC • 9h ago
+Anthropic • 17h ago
 
 ---
 
@@ -199,7 +195,7 @@ CNBC • 9h ago
 
 We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.
 
-⬆️ 1164 • 💬 639 • 22h ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
+⬆️ 1186 • 💬 656 • 23h ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
 
 ---
 
@@ -207,13 +203,13 @@ We're adopting Rust as our C++ successor language, and using AI agents to accele
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 791 • 💬 683 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 791 • 💬 685 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 547 • 💬 434 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 549 • 💬 435 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -222,7 +218,15 @@ I’m seeking assistance regarding a sudden restriction on my Google AI Ultra ac
 My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
 During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
 
-⬆️ 357 • 💬 291 • 12h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+⬆️ 374 • 💬 302 • 13h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+
+---
+
+**[Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://news.ycombinator.com/item?id=47133313)**
+
+The latest update of Firefox, version 148, introduces a much-anticipated "AI kill switch" feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company’s new revenue-focused strategy regarding AI integrations. […]
+
+⬆️ 281 • 💬 229 • 5h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 
 ---
 
@@ -238,7 +242,7 @@ Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an E
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 249 • 💬 244 • 11h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 253 • 💬 245 • 12h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -247,14 +251,6 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled binaries of real open-source servers, proxies, and network infrastructure.
 
 ⬆️ 242 • 💬 96 • 1d ago • [Quesma](https://quesma.com/blog/introducing-binaryaudit/)
-
----
-
-**[Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://news.ycombinator.com/item?id=47133313)**
-
-The latest update of Firefox, version 148, introduces a much-anticipated "AI kill switch" feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company’s new revenue-focused strategy regarding AI integrations. […]
-
-⬆️ 214 • 💬 170 • 4h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 
 ---
 
@@ -284,7 +280,7 @@ He worked inside the AI industry — until he was suddenly laid off. Now he's sp
 
 📺 Jay Reed
 
-👁️ 36K • 👍 3K • 💬 646 • ⏱️ 9:01 • 15h ago
+👁️ 36K • 👍 3K • 💬 646 • ⏱️ 9:01 • 16h ago
 
 ---
 
@@ -314,7 +310,7 @@ My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 123K • 👍 5K • 💬 700 • ⏱️ 36:37 • 19h ago
+👁️ 123K • 👍 5K • 💬 700 • ⏱️ 36:37 • 20h ago
 
 ---
 
@@ -324,7 +320,7 @@ More research on the threats of artificial intelligence (AI) "needs to be done u
 
 📺 BBC News
 
-👁️ 15K • 👍 212 • 💬 115 • ⏱️ 3:17 • 19h ago
+👁️ 15K • 👍 212 • 💬 115 • ⏱️ 3:17 • 20h ago
 
 ---
 
@@ -390,7 +386,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 390,092 • ❤️ 965 • 20h ago
+⬇️ 390,092 • ❤️ 965 • 21h ago
 
 ---
 
@@ -643,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 18.2k • 🔱 2.2k • 1h ago
+⭐ 18.2k • 🔱 2.2k • 2h ago
 
 ---
 
@@ -661,7 +657,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.4k • 🔱 659 • 1h ago
+⭐ 5.4k • 🔱 659 • 2h ago
 
 ---
 
@@ -681,7 +677,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 337 • 8h ago
+⭐ 3.4k • 🔱 337 • 9h ago
 
 ---
 
@@ -701,7 +697,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 188 • 1h ago
+⭐ 2.7k • 🔱 188 • 2h ago
 
 ---
 
@@ -711,7 +707,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.7k • 🔱 303 • 7h ago
+⭐ 2.7k • 🔱 303 • 8h ago
 
 ---
 
@@ -721,7 +717,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.6k • 🔱 129 • 2h ago
+⭐ 2.6k • 🔱 129 • 3h ago
 
 ---
 
@@ -731,7 +727,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.2k • 🔱 448 • 3h ago
+⭐ 2.2k • 🔱 448 • 4h ago
 
 ---
 

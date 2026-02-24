@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T10:26:58.949324+00:00'
+updated: '2026-02-24T11:23:36.012030+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 10:26 UTC  
+**Last Updated:** February 24, 2026 at 11:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,19 @@ Robotics research and industry news
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-10h ago
+11h ago
+
+---
+
+**[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
+
+3h ago
+
+---
+
+**[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
+
+2h ago
 
 ---
 
@@ -42,13 +54,7 @@ Robotics research and industry news
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-9h ago
-
----
-
-**[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
-
-2h ago
+10h ago
 
 ---
 
@@ -56,13 +62,15 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-5h ago
+6h ago
 
 ---
 
-**[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
+**[Best Robot Lawn Mowers for 2026 | Online Review](https://www.reddit.com/r/robotics/comments/1rdd5bu/best_robot_lawn_mowers_for_2026_online_review/)**
 
-1h ago
+If you're looking for a robot lawn mower that doesn't need boundary wires, here are a few models that keep coming up in 2026: Best Easy Setup Eufy E15 $2,299 at Amazon Best for Straight Lawns Husqvarna Automower 410 iQ $2,999 at Amazon Best Budget for Small Lawns Anthbot M5 $699 at Anthbot Best Choice for Medium-Sized Lawns Sunseeker X3 Plus $1,399.99 at Sunseeker Best for Large Lawns (Up to 2.5 Acres) Segway Navimow X390 $4,999 at Segway Best for Very Large Lawns (Up to 10 Acres) Kress Mission Mega RTK KR237 $14,999 at Kress Best Commercial-Grade Wire-Free Option Husqvarna Automower 450X EPOS $5,899 at Husqvarna Overall, what stood out to me is that most wire-free robot lawn mowers in 2026 are clearly split by lawn size and complexity. The smaller models seem aimed at convenience and price, while the higher-end ones are basically replacing traditional riding mowers for large properties. Also worth noting: a lot of these newer models rely heavily on RTK/satellite navigation, so yard layout, tree cover, and signal stability probably matter more than they used to. Definitely feels like the tech is maturing, but still not totally one-size-fits-all.
+
+26m ago
 
 ---
 
@@ -78,13 +86,13 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 Hi everyone! I’m a working on a school project, and I decided to build a mini wind turbine using a motor. My main goals are: - Make it produce a consistent 1V–5V output (enough to show renewable energy in action). - Allow the turbine to rotate freely in any direction (vertical rotation setup). - Test it using a Gookodoq e-fan placed about 30 cm away as my wind source. So far, I’ve been experimenting with: - Picking the right motor that can balance torque and voltage. - Designing blades that are light but still catch wind effectively. - Building a mounting system that lets the turbine rotate smoothly without too much friction. I’d really appreciate advice from anyone who’s tried something similar: - What kind of motor worked best for you? - Any tips for keeping the voltage stable in the 1–5V range? - Blade designs or materials that you found effective? This project is both for learning and fun, so even small tips or photos of your own builds would mean a lot. Thanks in advance! 🙌
 
-1h ago
+2h ago
 
 ---
 
 **[How are you handling networking / video / telemetry in your robotics projects?](https://www.reddit.com/r/robotics/comments/1rd9kr0/how_are_you_handling_networking_video_telemetry/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -92,13 +100,7 @@ Hi everyone! I’m a working on a school project, and I decided to build a mini 
 
 Je suis en train de construire un bipède humanoïde et je suis confronté à des choix mécaniques. Qu’utilisez vous comme transmission servo-moteurs vers un axe d’articulation 1_ entraînement direct axe sur axe 2_ par came l’axe A est équipé d’une barre métallique perpendiculaire et le servomoteur du même système et un petit axe en bout des deux cames les relient 3_par engrenage
 
-3h ago
-
----
-
-**[Robotic Chair by Toyota](https://www.reddit.com/r/robotics/comments/1rbqy4p/robotic_chair_by_toyota/)**
-
-1d ago
+4h ago
 
 ---
 
@@ -122,7 +124,7 @@ KPAX News • 1d ago
 
 ---
 
-**[AI robots may outnumber workers in a few decades, ex-Citi executive says](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
+**[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
@@ -134,7 +136,7 @@ CNBC • 20h ago
 
 Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
 
-The Robot Report • 9h ago
+The Robot Report • 10h ago
 
 ---
 
@@ -142,7 +144,7 @@ The Robot Report • 9h ago
 
 AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
 
-MIT Technology Review • 17h ago
+MIT Technology Review • 18h ago
 
 ---
 
@@ -170,17 +172,19 @@ NBC News • 1d ago
 
 ---
 
-**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
+**[From Doraemon to dexterous hands: LinkerBot equips robots with human skills](https://www.scmp.com/tech/tech-trends/article/3344242/doraemon-dexterous-hands-chinas-linkerbot-equips-robots-human-skills)**
 
-OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
+The start-up is revolutionising humanoid robotics with ultra-dexterous hands, ushering in a new era of humanlike robotic capability.
 
-South China Morning Post • 2d ago
+South China Morning Post • 1d ago
 
 ---
 
-**[Robotics Info Night for South Lake Tahoe students](https://southtahoenow.com/02/23/2026/robotics-info-night-for-south-lake-tahoe-students)**
+**[Middle school robotics league wraps up season](https://www.salemnews.net/news/neighborhood-news/2026/02/middle-school-robotics-league-wraps-up-season/)**
 
-South Tahoe Now • 10h ago
+The CCESC VEX IQ Middle School Robotics League wrapped up its 2025–26 season with a competitive finals event held Saturday at the Columbiana County Career and Technical Center. Three teams earned qualification to compete in the Ohio VEX IQ Middle School Robotics State Championship, which will take place March 2–3 at the National Museum of […]
+
+salemnews.net • 5h ago
 
 ---
 
@@ -264,7 +268,7 @@ Humanoid robot clusters are the new drone swarms. Chinese robotics leader Unitre
 
 📺 Kalil 4.0
 
-👁️ 11K • 👍 306 • 💬 41 • ⏱️ 0:59 • 14h ago
+👁️ 11K • 👍 306 • 💬 41 • ⏱️ 0:59 • 15h ago
 
 ---
 
