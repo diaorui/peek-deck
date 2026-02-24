@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-24T17:15:03.395229+00:00'
+updated: '2026-02-24T18:31:32.993778+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- news
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 24, 2026 at 17:15 UTC  
+**Last Updated:** February 24, 2026 at 18:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -0.3%  
-**7d:** -3.0%  
-**30d:** -27.1%  
-**90d:** -29.5%  
-**1y:** -27.4%  
+**24h:** +0.0%  
+**7d:** -3.2%  
+**30d:** -27.2%  
+**90d:** -29.7%  
+**1y:** -27.6%  
 
 ---
 
@@ -79,59 +79,13 @@ Rank #1
 
 **[Bitcoin is "dead"](https://www.reddit.com/r/Bitcoin/comments/1rda9jh/bitcoin_is_dead/)**
 
-9h ago
+10h ago
 
 ---
 
 **[Previously on, If I Had a Time Machine....](https://www.reddit.com/r/Bitcoin/comments/1rdf4pw/previously_on_if_i_had_a_time_machine/)**
 
-4h ago
-
----
-
-**[My daily buy just keeps going up :)](https://www.reddit.com/r/Bitcoin/comments/1rdepfo/my_daily_buy_just_keeps_going_up/)**
-
-I had no intention of selling this year. I've invested money I do not need liquid. At about 1:30, I get a notification of sats aquired and the number is way higher than what I was getting two months ago. I know a lot of people are in pain with the current prices, and a lot of leverage users have been obliterated, but my steady strategy has always paid off. Right now I'm getting extra.
-
-4h ago
-
----
-
-**[Almost sold but didn’t](https://www.reddit.com/r/Bitcoin/comments/1rd422h/almost_sold_but_didnt/)**
-
-I almost sold, tired of this red candle. Holding 1 BTC since 2017. Never sold. I almost just did it. One click away. Give me some strength guys! Some strength to hit buy instead
-
-13h ago
-
----
-
-**[The Lightning Network crossed $1 billion in monthly transaction volume for the first time ever 💥](https://www.reddit.com/r/Bitcoin/comments/1rdcce4/the_lightning_network_crossed_1_billion_in/)**
-
-$1.17 billion across 5.2 million transactions And the average transaction size nearly doubled year over year from $118 to $223 which means this isn't just micropayment experimentation anymore Businesses are using it Exchanges are moving real money through it
-
-7h ago
-
----
-
-**[Today marks 12 years since Mt. Gox exchange went dark](https://www.reddit.com/r/Bitcoin/comments/1rdg9b8/today_marks_12_years_since_mt_gox_exchange_went/)**
-
-I got into Bitcoin and crypto in about 2018, so I had always heard the Mt. Gox name without knowing too much about the story of the hack and the 2014 collapse of the exchange. With it being the 12th anniversary of Mt. Gox going dark today, I thought I would learn about it and write about it. Mt. Gox was the biggest BTC exchange in the world at the time, handling 70%+ of the global BTC transactions. Over the course of two years, hackers siphoned off 800,000 BTC. There was basically a cover-up. And it sent crypto into a long winter. It bears many of the hallmarks of the FTX collapse, just a precursor. Because of the FTX event, I feel the Mt. Gox one has been missed by newer people to crypto like myself. The story is fascinating and sad. This was the early days of Bitcoin, relatively, and it shows. If I have one takeaway from the whole thing, it’s how far the Bitcoin and cryptocurrency industry has come since.
-
-🔗 [bitcoinchaser.com](https://bitcoinchaser.com/mt-gox-bitcoins-biggest-exchange/) • 3h ago
-
----
-
-**[Emirates NBD, a leading bank in the United Arab Emirates with assets totaling $16 billion, sees bitcoin as ‘digital gold,’ explores adding BTC to portfolio](https://www.reddit.com/r/Bitcoin/comments/1rdhw7v/emirates_nbd_a_leading_bank_in_the_united_arab/)**
-
-Later in the video he's being asked if they're considering shitcoins like ether and Mr Gravier explained they're nothing more than shitcoins. Full video: https://www.cnbc.com/video/2026/02/24/maurice-gauvier-crypto.html
-
-2h ago
-
----
-
-**[I still love this short Bitcoin explanation](https://www.reddit.com/r/Bitcoin/comments/1rcitoa/i_still_love_this_short_bitcoin_explanation/)**
-
-1d ago
+5h ago
 
 ---
 
@@ -139,15 +93,61 @@ Later in the video he's being asked if they're considering shitcoins like ether 
 
 My strategy for not missing the bottom is the following: 5 Times a week I invest 10k per Day in BTC for the next 30 weeks and so should you! Don't wait until we have the price range between 40-45k which everyone is expecting rn. As we have seen the last cycles this doesn't play out, people tend to get emotional and wait until they think it can't get lower. The price of 60-64k is already super cheap in my opinion. Cheers guys!
 
-7m ago
+1h ago
 
 ---
 
-**[Bitcoin in Philippines and South Africa](https://www.reddit.com/r/Bitcoin/comments/1rdf4t7/bitcoin_in_philippines_and_south_africa/)**
+**[My daily buy just keeps going up :)](https://www.reddit.com/r/Bitcoin/comments/1rdepfo/my_daily_buy_just_keeps_going_up/)**
 
-How popular is Bitcoin in Philippines and South Africa?
+I had no intention of selling this year. I've invested money I do not need liquid. At about 1:30, I get a notification of sats aquired and the number is way higher than what I was getting two months ago. I know a lot of people are in pain with the current prices, and a lot of leverage users have been obliterated, but my steady strategy has always paid off. Right now I'm getting extra.
 
-4h ago
+6h ago
+
+---
+
+**[The Lightning Network crossed $1 billion in monthly transaction volume for the first time ever 💥](https://www.reddit.com/r/Bitcoin/comments/1rdcce4/the_lightning_network_crossed_1_billion_in/)**
+
+$1.17 billion across 5.2 million transactions And the average transaction size nearly doubled year over year from $118 to $223 which means this isn't just micropayment experimentation anymore Businesses are using it Exchanges are moving real money through it
+
+8h ago
+
+---
+
+**[Almost sold but didn’t](https://www.reddit.com/r/Bitcoin/comments/1rd422h/almost_sold_but_didnt/)**
+
+I almost sold, tired of this red candle. Holding 1 BTC since 2017. Never sold. I almost just did it. One click away. Give me some strength guys! Some strength to hit buy instead
+
+14h ago
+
+---
+
+**[Emirates NBD, a leading bank in the United Arab Emirates with assets totaling $16 billion, sees bitcoin as ‘digital gold,’ explores adding BTC to portfolio](https://www.reddit.com/r/Bitcoin/comments/1rdhw7v/emirates_nbd_a_leading_bank_in_the_united_arab/)**
+
+Later in the video he's being asked if they're considering shitcoins like ether and Mr Gravier explained they're nothing more than shitcoins. Full video: https://www.cnbc.com/video/2026/02/24/maurice-gauvier-crypto.html
+
+3h ago
+
+---
+
+**[Today marks 12 years since Mt. Gox exchange went dark](https://www.reddit.com/r/Bitcoin/comments/1rdg9b8/today_marks_12_years_since_mt_gox_exchange_went/)**
+
+I got into Bitcoin and crypto in about 2018, so I had always heard the Mt. Gox name without knowing too much about the story of the hack and the 2014 collapse of the exchange. With it being the 12th anniversary of Mt. Gox going dark today, I thought I would learn about it and write about it. Mt. Gox was the biggest BTC exchange in the world at the time, handling 70%+ of the global BTC transactions. Over the course of two years, hackers siphoned off 800,000 BTC. There was basically a cover-up. And it sent crypto into a long winter. It bears many of the hallmarks of the FTX collapse, just a precursor. Because of the FTX event, I feel the Mt. Gox one has been missed by newer people to crypto like myself. The story is fascinating and sad. This was the early days of Bitcoin, relatively, and it shows. If I have one takeaway from the whole thing, it’s how far the Bitcoin and cryptocurrency industry has come since.
+
+🔗 [bitcoinchaser.com](https://bitcoinchaser.com/mt-gox-bitcoins-biggest-exchange/) • 5h ago
+
+---
+
+**[Jane Street Accused of Insider Trading That Helped Collapse Terraform aka the bitcoin market in 2022 - WSJ](https://www.reddit.com/r/Bitcoin/comments/1rdmims/jane_street_accused_of_insider_trading_that/)**
+
+We've been saying that institutions are buying while price is crashing at retail is selling. We still don't know who crashed the market on Oct. 10 or on Feb 5 but if I had to guess . . .
+
+1h ago
+
+---
+
+**[I still love this short Bitcoin explanation](https://www.reddit.com/r/Bitcoin/comments/1rcitoa/i_still_love_this_short_bitcoin_explanation/)**
+
+1d ago
 
 ---
 
@@ -159,33 +159,49 @@ How popular is Bitcoin in Philippines and South Africa?
 
 Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
 
-CNBC • 13h ago
+CNBC • 15h ago
 
 ---
 
-**[Bitcoin Break-Even Trap Is Killing Every Rally as Buyers Strike](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-break-even-trap-is-killing-every-rally-as-buyers-strike?srnd=phx-markets)**
+**[Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.](https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?gaa_at=eafs&gaa_n=AWEtsqd7_LGbjHQiME779iEe1ILN11DaP3RAn9_zggCZUmNxGU0qRjnM4M8l&gaa_ts=699df1ee&gaa_sig=5IW9dvIXmQmF1_wAIM0oArnUBHR5p2USVE3uTGktsvjwSGTpFmyWyCPLBzEVpMF8Xx6N2m2lKc0h4qhiBztO4w%3D%3D)**
 
-Bloomberg • 20m ago
+MarketWatch • 22h ago
+
+---
+
+**[Mystery Hong Kong investor in BlackRock's bitcoin ETF breaks silence after $436 million stake sparks controversy](https://www.coindesk.com/markets/2026/02/23/mystery-hong-kong-investor-in-blackrock-s-bitcoin-etf-breaks-silence-after-usd436-million-stake-sparks-controversy)**
+
+Laurore Ltd.’s $436 Million BlackRock IBIT stake reflects “personal investment conviction,” a spokesperson said, as Hong Kong filings link it to Zhang Hui.
+
+CoinDesk • 1d ago
+
+---
+
+**[Bitcoin Break-Even Trap Is Killing Every Rally as Buyers Strike](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-break-even-trap-is-killing-every-rally-as-buyers-strike)**
+
+Bloomberg • 1h ago
+
+---
+
+**[Bitcoin price news: BTC narrows big early losses, rallying back above $64,000](https://www.coindesk.com/markets/2026/02/24/bitcoin-retakes-usd64-000-crypto-miners-rally-as-ai-related-software-rout-eases)**
+
+Sellers are taking a breather as bitcoin's Fear & Greed Index plunged to levels never seen before.
+
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Crash Warning: Why My Scariest Chart Signals The Next Leg Down](https://www.forbes.com/sites/digital-assets/2026/02/24/bitcoin-crash-warning-why-my-scariest-chart-signals-the-next-leg-down/)**
 
-Forbes • 26m ago
+Forbes • 1h ago
 
 ---
 
-**[Michigan Introduces Bill to Allow State Employees to Be Paid in Bitcoin](https://bitcoinmagazine.com/news/michigan-introduces-bill-paid-in-bitcoin)**
+**[Strategy news: MSTR acquired 592 BTC last week](https://www.coindesk.com/markets/2026/02/23/strategy-logs-100th-bitcoin-purchase-announcement-adding-592-coins-last-week-for-usd39-8-million)**
 
-Michigan introduced legislation that would allow classified state civil service employees to receive their wages in Bitcoin.
+Led by Executive Chairman Michael Saylor, the company now holds 717,722 bitcoin, purchased at an average price of $76,020 per coin, for a total of $54.56 billion.
 
-Bitcoin Magazine • 1h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqcve9av45ScG5akhlAPLQeKPq5gmDbyqwYQ1_9h3TpsMVazLqZpNoSn&gaa_ts=699ddff3&gaa_sig=ZGk3hLLiN8eeEGyEQbwbwQW2lgc-xQLpINydIFhdFRc4EP3-y-5qeEUWxeCDxEvOP9CMfGXKMnp7d-XbtT6-pg%3D%3D)**
-
-Barron's • 6h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -197,17 +213,11 @@ The Block • 1d ago
 
 ---
 
-**[The ghost of the iPhone: Why Michael Saylor thinks bitcoin is mirroring Apple’s legendary ‘valley of despair’](https://www.coindesk.com/markets/2026/02/24/the-ghost-of-the-iphone-why-michael-saylor-thinks-bitcoin-is-mirroring-apple-s-legendary-valley-of-despair)**
+**[Michael Saylor Hints at Strategy’s 100th Bitcoin Buy: Why Corporate Accumulation Still Matters](https://finance.yahoo.com/news/michael-saylor-hints-strategy-100th-072956273.html)**
 
-Michael Saylor compared bitcoin’s 45% drawdown to Apple’s 2013 slump, arguing that enduring deep corrections is part of every successful technology investment.
+Michael Saylor’s firm, Strategy (formerly MicroStrategy), is about to make its 100th Bitcoin purchase. The company currently hodls a massive 717,131 BTC, accumulated steadily since August 2020. Despite recent market volatility and unrealized losses on their holdings, Saylor’s latest hint suggests the company shows no signs of slowing down. Saylor ...
 
-CoinDesk • 4h ago
-
----
-
-**[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqemV93XvVOd5j4ijPcf_7HfPADCn5aka4u7wA9RGN_WeCjPsAK6-2df&gaa_ts=699ddff3&gaa_sig=gacbGA_Tnfz3lCqVO6KcXeAfauAEoLxWRuMr18E408KXSnQLElvt4zMvTmFNH-GvqkdrvkCVobAYTKriT7DjFg%3D%3D)**
-
-MarketWatch • 22h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -215,13 +225,7 @@ MarketWatch • 22h ago
 
 Could Ethereum really outperform Bitcoin this year? Harvard seems to think so.
 
-The Motley Fool • 6h ago
-
----
-
-**[Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.](https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?gaa_at=eafs&gaa_n=AWEtsqcmch-K4hYnDuwN59wMx6KHUXWx5cHLajm1L8cXeWHZODi1oXV3mL1V&gaa_ts=699ddff3&gaa_sig=5Rwgt3K7k2Q_z_Gt7fSS5gtX2f4dog0t3HDGempyXU7odDu12I7wF1aYzccjWX1nGksPudiAiBQHHI0JqdKIfw%3D%3D)**
-
-MarketWatch • 20h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -233,15 +237,7 @@ MarketWatch • 20h ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 5 • 💬 14 • 2h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
-
----
-
-**[Bitcoin oracle that sells cryptographically signed price data for micropayments](https://news.ycombinator.com/item?id=47050321)**
-
-SLO is a minimal protocol that allows agents and contracts to purchase signed, verifiable BTCUSD price assertions—using Lightning payments—with a design that generalizes to other metrics with varia...
-
-⬆️ 3 • 💬 0 • 6d ago • [GitHub](https://github.com/jonathanbulkeley/sovereign-lightning-oracle)
+⬆️ 5 • 💬 15 • 3h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
 
 ---
 
@@ -249,7 +245,7 @@ SLO is a minimal protocol that allows agents and contracts to purchase signed, v
 
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
-⬆️ 1 • 💬 1 • 1h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
+⬆️ 1 • 💬 1 • 3h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
 
 ---
 
@@ -271,7 +267,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The Chicago-based company said it was temporarily suspending client deposits and withdrawals last week due to recent market and financial conditions.
 
-⬆️ 1 • 💬 0 • 5h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
+⬆️ 1 • 💬 0 • 6h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
 
 ---
 
@@ -279,7 +275,7 @@ The Chicago-based company said it was temporarily suspending client deposits and
 
 Singapore based BTC and AI miner sells all holdings to build liquidity for expansion, signaling a broader shift in capital strategy across the sector.
 
-⬆️ 1 • 💬 0 • 19h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/23/bitdeer-empties-bitcoin-treasury-as-miners-accelerate-industry-wide-ai-pivot)
+⬆️ 1 • 💬 0 • 21h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/23/bitdeer-empties-bitcoin-treasury-as-miners-accelerate-industry-wide-ai-pivot)
 
 ---
 
@@ -293,13 +289,21 @@ Singapore based BTC and AI miner sells all holdings to build liquidity for expan
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
 **[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
 
 ⬆️ 1 • 💬 0 • 4d ago
+
+---
+
+**[Fire calculator that takes Bitcoin holdings into account](https://news.ycombinator.com/item?id=47075139)**
+
+Financial independence on a bitcoin standard
+
+⬆️ 1 • 💬 0 • 5d ago • [FIRE BTC](https://calc.firebtc.io/)
 
 ---
 
@@ -313,7 +317,7 @@ Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk
 
 📺 CNBC Television
 
-👁️ 29K • 👍 261 • 💬 310 • ⏱️ 3:54 • 18h ago
+👁️ 29K • 👍 261 • 💬 310 • ⏱️ 3:54 • 20h ago
 
 ---
 
@@ -323,7 +327,7 @@ Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Be
 
 📺 Simply Bitcoin
 
-👁️ 25K • 👍 2K • 💬 224 • ⏱️ 16:07 • 18h ago
+👁️ 25K • 👍 2K • 💬 224 • ⏱️ 16:07 • 20h ago
 
 ---
 
@@ -333,7 +337,7 @@ Iran war danger, software stock slaughter, and BTC, ETH, SOL charts BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 14K • 👍 746 • 💬 91 • ⏱️ 16:06 • 6h ago
+👁️ 14K • 👍 746 • 💬 91 • ⏱️ 16:06 • 7h ago
 
 ---
 
@@ -343,7 +347,7 @@ Raoul Pal just revealed why Bitcoin is trading at a MASSIVE discount to fair val
 
 📺 Money Talks
 
-👁️ 9K • 👍 176 • 💬 75 • ⏱️ 14:56 • 22h ago
+👁️ 9K • 👍 176 • 💬 75 • ⏱️ 14:56 • 23h ago
 
 ---
 
@@ -353,7 +357,7 @@ Something we have never seen before has started to surface. In today's video, Ky
 
 📺 Crypto Banter
 
-👁️ 18K • 👍 1K • 💬 29 • ⏱️ 33:12 • 9h ago
+👁️ 18K • 👍 1K • 💬 29 • ⏱️ 33:12 • 10h ago
 
 ---
 
@@ -363,7 +367,7 @@ Are you ready? Sign Up For Phemex and Earn a brand new iPhone 16 pro max, and th
 
 📺 Crypto Jebb
 
-👁️ 2K • 👍 189 • 💬 15 • ⏱️ 44:44 • 1h ago
+👁️ 2K • 👍 189 • 💬 15 • ⏱️ 44:44 • 3h ago
 
 ---
 
@@ -373,7 +377,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 15K • 👍 445 • 💬 25 • ⏱️ 1:05 • 22h ago
+👁️ 15K • 👍 445 • 💬 25 • ⏱️ 1:05 • 23h ago
 
 ---
 
@@ -393,7 +397,7 @@ Caitlin Long is the founder and CEO of Custodia Bank and a pioneer at the inters
 
 📺 Anthony Pompliano
 
-👁️ 31K • 👍 1K • 💬 68 • ⏱️ 22:43 • 19h ago
+👁️ 31K • 👍 1K • 💬 68 • ⏱️ 22:43 • 20h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-24T17:15:03.386786+00:00'
+updated: '2026-02-24T18:31:32.985249+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
 - repositories
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 24, 2026 at 17:15 UTC  
+**Last Updated:** February 24, 2026 at 18:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,39 +41,7 @@ AI news, discussions, and developments
 
 Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falling 10%, after Anthropic announced an AI tool designed to streamline COBOL code modernization. Accenture (NYSE:ACN) and Cognizant Technology Solutions (NASDAQ:CTSH) also declined following the news.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 17h ago
-
----
-
-**[AI Reveals Unexpected New Physics in the Fourth State of Matter](https://www.reddit.com/r/artificial/comments/1rd9ivd/ai_reveals_unexpected_new_physics_in_the_fourth/)**
-
-I predicted early in January that ai will discover new physics before 2028 is over, came earlier than expected.
-
-🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 10h ago
-
----
-
-**[Could someone help me?](https://www.reddit.com/r/artificial/comments/1rdk3fb/could_someone_help_me/)**
-
-I'm a first-year engineering student and I've noticed that ChatGPT is extremely bad at helping me with things; the calculations are poor, it gets confused when there's too much data. Does anyone know of any good artificial intelligence that could help me study? I've tested DeepSeek and Gemini but didn't notice much difference.
-
-1h ago
-
----
-
-**[I've been running blind reviews between AI models for six months. here's what I didn't expect](https://www.reddit.com/r/artificial/comments/1rdilvu/ive_been_running_blind_reviews_between_ai_models/)**
-
-context: I've been building a system that sends the same question to multiple models in parallel, then has each model review the others. six months, a few thousand sessions, mostly legal and financial questions the design decision I agonized over the most turned out to matter more than any other choice I made blind review changes everything I tested two versions. in one, the reviewing model sees "this is Claude's response." in the other, it just sees "Response A" the difference is kind of alarming when models know they're reviewing a named model, they hedge. they find "nuanced perspectives." there's something resembling professional courtesy baked into these things. makes sense if you think about the training data. reddit threads and twitter posts where people debate which model is better, lots of human-written comparisons that try to be balanced. the politeness is learned behavior with blind review, the gloves come off. scores spread out. critiques get specific. Claude in particular gets almost mean when it doesn't know it's reviewing GPT. it'll identify logical leaps, flag unstated assumptions, point out when a claim needs a citation that isn't there. stuff it would politely sidestep in the named version I don't have a rigorous paper on this. few hundred sessions, skewed toward legal and financial questions. but the pattern was consistent enough that I built the entire system around blind review and never looked back courtesy bias has a direction here's the thing I still don't understand. the courtesy effect is stronger in some directions than others. Claude reviewing GPT blind vs named shows the biggest delta. GPT reviewing Claude shows less difference. I have no good theory for why agreement is less useful than disagreement I assumed the point was to find consensus. three models agree, you're probably right. but sessions with the lowest initial agreement actually produce the best final answers model agreement on factual stuff: 70-80%. analytical or strategic questions: 40-50%. and the low-agreement sessions, where models are fighting, tend to surface things no single model caught. forced convergence seems to produce higher quality than natural consensus I suspect agreement means the models are pulling from the same training patterns. disagreement means at least one found a different path through the problem. the different path is usually where the insight lives the tool I built around this is in my profile if anyone wants to see blind review in action. curious whether others working with multi-model systems have noticed similar patterns
-
-2h ago
-
----
-
-**[Why are most AI courses so broad but never actually deep?](https://www.reddit.com/r/artificial/comments/1rdiiue/why_are_most_ai_courses_so_broad_but_never/)**
-
-Please be honest with me. I’ve joined multiple paid communities and courses about AI, content creation, animation, and online growth. I’ve spent real money. But I keep running into the same problem. Everything is always… too broad. They cover 50 tools. They talk about AI influencing, AI ads, automation, marketing, trends. But when it comes to actually mastering ONE specific thing deeply — it’s missing. For example, what I really want is: • How to build my own 3D character • How to keep character consistency • How to maintain world consistency • How to plan storyboarding properly • Camera angles, scene continuity, shot variations • How to structure episodes • Hooks, pacing, storytelling flow Instead, most courses feel like: “Here are 20 tools, try them all.” But I don’t want 20 topics mixed together. I want one focused system done properly. I don’t mind if multiple tools are mentioned — that’s fine. But I don’t want 10 different subjects mixed into one course. Is there actually a focused path for AI-based animation storytelling? Or is everything just marketing funnels and tool showcases? If you’ve found something structured and specific (not hype), I’d genuinely appreciate guidance. I feel like there must be a smarter way to approach this.
-
-2h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 19h ago
 
 ---
 
@@ -81,7 +49,15 @@ Please be honest with me. I’ve joined multiple paid communities and courses ab
 
 Defense Secretary Pete Hegseth plans to meet with the CEO of Anthropic. The artificial intelligence company is the only one of its peers to not supply its technology to a new U.S. military internal network.
 
-🔗 [AP News](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) • 1h ago
+🔗 [AP News](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) • 3h ago
+
+---
+
+**[Could someone help me?](https://www.reddit.com/r/artificial/comments/1rdk3fb/could_someone_help_me/)**
+
+I'm a first-year engineering student and I've noticed that ChatGPT is extremely bad at helping me with things; the calculations are poor, it gets confused when there's too much data. Does anyone know of any good artificial intelligence that could help me study? I've tested DeepSeek and Gemini but didn't notice much difference.
+
+2h ago
 
 ---
 
@@ -89,15 +65,23 @@ Defense Secretary Pete Hegseth plans to meet with the CEO of Anthropic. The arti
 
 Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 6m ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 1h ago
 
 ---
 
-**[Could it understand it faster than human researchers?](https://www.reddit.com/r/artificial/comments/1rdm01b/could_it_understand_it_faster_than_human/)**
+**[AI Reveals Unexpected New Physics in the Fourth State of Matter](https://www.reddit.com/r/artificial/comments/1rd9ivd/ai_reveals_unexpected_new_physics_in_the_fourth/)**
 
-Could artificial intelligence understand sexual orientation faster than human researchers?
+I predicted early in January that ai will discover new physics before 2028 is over, came earlier than expected.
 
-7m ago
+🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 11h ago
+
+---
+
+**[I've been running blind reviews between AI models for six months. here's what I didn't expect](https://www.reddit.com/r/artificial/comments/1rdilvu/ive_been_running_blind_reviews_between_ai_models/)**
+
+context: I've been building a system that sends the same question to multiple models in parallel, then has each model review the others. six months, a few thousand sessions, mostly legal and financial questions the design decision I agonized over the most turned out to matter more than any other choice I made blind review changes everything I tested two versions. in one, the reviewing model sees "this is Claude's response." in the other, it just sees "Response A" the difference is kind of alarming when models know they're reviewing a named model, they hedge. they find "nuanced perspectives." there's something resembling professional courtesy baked into these things. makes sense if you think about the training data. reddit threads and twitter posts where people debate which model is better, lots of human-written comparisons that try to be balanced. the politeness is learned behavior with blind review, the gloves come off. scores spread out. critiques get specific. Claude in particular gets almost mean when it doesn't know it's reviewing GPT. it'll identify logical leaps, flag unstated assumptions, point out when a claim needs a citation that isn't there. stuff it would politely sidestep in the named version I don't have a rigorous paper on this. few hundred sessions, skewed toward legal and financial questions. but the pattern was consistent enough that I built the entire system around blind review and never looked back courtesy bias has a direction here's the thing I still don't understand. the courtesy effect is stronger in some directions than others. Claude reviewing GPT blind vs named shows the biggest delta. GPT reviewing Claude shows less difference. I have no good theory for why agreement is less useful than disagreement I assumed the point was to find consensus. three models agree, you're probably right. but sessions with the lowest initial agreement actually produce the best final answers model agreement on factual stuff: 70-80%. analytical or strategic questions: 40-50%. and the low-agreement sessions, where models are fighting, tend to surface things no single model caught. forced convergence seems to produce higher quality than natural consensus I suspect agreement means the models are pulling from the same training patterns. disagreement means at least one found a different path through the problem. the different path is usually where the insight lives the tool I built around this is in my profile if anyone wants to see blind review in action. curious whether others working with multi-model systems have noticed similar patterns
+
+3h ago
 
 ---
 
@@ -105,7 +89,7 @@ Could artificial intelligence understand sexual orientation faster than human re
 
 A Pew Research Center survey found that just 4 in 10 parents talk to their teens about AI usage.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/ai-teens-parents-pew-survey/) • 51m ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/ai-teens-parents-pew-survey/) • 2h ago
 
 ---
 
@@ -115,29 +99,55 @@ A Pew Research Center survey found that just 4 in 10 parents talk to their teens
 
 ---
 
+**[Why are most AI courses so broad but never actually deep?](https://www.reddit.com/r/artificial/comments/1rdiiue/why_are_most_ai_courses_so_broad_but_never/)**
+
+Please be honest with me. I’ve joined multiple paid communities and courses about AI, content creation, animation, and online growth. I’ve spent real money. But I keep running into the same problem. Everything is always… too broad. They cover 50 tools. They talk about AI influencing, AI ads, automation, marketing, trends. But when it comes to actually mastering ONE specific thing deeply — it’s missing. For example, what I really want is: • How to build my own 3D character • How to keep character consistency • How to maintain world consistency • How to plan storyboarding properly • Camera angles, scene continuity, shot variations • How to structure episodes • Hooks, pacing, storytelling flow Instead, most courses feel like: “Here are 20 tools, try them all.” But I don’t want 20 topics mixed together. I want one focused system done properly. I don’t mind if multiple tools are mentioned — that’s fine. But I don’t want 10 different subjects mixed into one course. Is there actually a focused path for AI-based animation storytelling? Or is everything just marketing funnels and tool showcases? If you’ve found something structured and specific (not hype), I’d genuinely appreciate guidance. I feel like there must be a smarter way to approach this.
+
+3h ago
+
+---
+
+**[Prompt repetition adds zero accuracy to AI agents on engineering tasks](https://www.reddit.com/r/artificial/comments/1rd3jd0/prompt_repetition_adds_zero_accuracy_to_ai_agents/)**
+
+We tested prompt repetition on 20 parallel AI agents. Ceiling effects dominated both experiments. The null result is a finding about evaluation design.
+
+🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 15h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
+**[‘A feedback loop with no brake’: how an AI doomsday report shook US markets](https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets)**
+
+Shares in Uber, Mastercard and American Express fall on back of apocalypse scenario posted on Substack
+
+The Guardian • 2h ago
+
+---
+
+**[Skittish investors spooked as dystopian AI outlooks go viral](https://www.reuters.com/business/skittish-investors-spooked-dystopian-ai-outlooks-go-viral-2026-02-24/)**
+
+Reuters • 6h ago
+
+---
+
+**[The AI doom-and-gloom scenario captivating Wall Street](https://www.axios.com/2026/02/24/ai-stock-market-unemployment)**
+
+Axios • 8h ago
+
+---
+
 **[Behind the Curtain: AI's biggest threats](https://www.axios.com/2026/02/24/ai-biggest-threats-2028-election)**
 
-Axios • 6h ago
+Axios • 7h ago
 
 ---
 
-**[AI nerves are fraying. Anthropic keeps doubling down](https://www.cnn.com/2026/02/24/tech/anthropic-claude-plugins-office-jobs)**
+**[Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits](https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html)**
 
-Just weeks after its AI tools shook software stocks, Anthropic is pushing even deeper into the workplace. The company is updating its Claude AI helper to perform better at tasks within specific jobs, such as design, human resources and wealth management roles, while also enabling it to work across Microsoft Excel and PowerPoint apps.
-
-CNN • 2h ago
-
----
-
-**[Anthropic joins OpenAI in flagging 'industrial-scale' distillation campaigns by Chinese AI firms](https://www.cnbc.com/2026/02/24/anthropic-openai-china-firms-distillation-deepseek.html)**
-
-Anthropic accused three Chinese artificial intelligence enterprises of engaging in coordinated distillation campaigns, the latest American tech firm to do so.
-
-CNBC • 4h ago
+The New York Times • 19h ago
 
 ---
 
@@ -145,47 +155,35 @@ CNBC • 4h ago
 
 Anthropic CEO Dario Amodei is meeting with Defense Secretary Pete Hegseth today, as the Pentagon threatens the AI company with what could amount to a government blacklist.
 
-CNN • 36m ago
+CNN • 1h ago
 
 ---
 
-**[Local opposition creates roadblocks for AI boom](https://www.axios.com/2026/02/24/ai-data-centers-energy-bills)**
+**[For AI labs, Pete Hegseth’s Pentagon brings opportunities—and risks](https://www.economist.com/business/2026/02/24/for-ai-labs-pete-hegseths-pentagon-brings-opportunities-and-risks)**
 
-Axios • 31m ago
-
----
-
-**[Jamie Dimon Dismisses Fears Over How AI Will Hit JPMorgan](https://www.wsj.com/finance/banking/jamie-dimon-dismisses-fears-over-how-ai-will-hit-jpmorgan-f4e31e35?gaa_at=eafs&gaa_n=AWEtsqdmw0gIluhTXKV7R9Q9tfRCHNN6w4Esyl_cvb-m9mdqoxS12jH_dguh&gaa_ts=699ddff1&gaa_sig=BiBuvekJmeOWKqZSKyVoKVkgMFhHTNUv_KZyQYqMVZSS_gYNWgXaypn9F8omijOsdkr2c_wNI1x83qJ_7EvrIA%3D%3D)**
-
-WSJ • 17h ago
+The Economist • 37m ago
 
 ---
 
-**[‘A feedback loop with no brake’: how an AI doomsday report shook US markets](https://www.theguardian.com/technology/2026/feb/24/feedback-loop-no-brake-how-ai-doomsday-report-rattled-markets)**
+**[Anthropic Education Report: The AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)**
 
-Shares in Uber, Mastercard and American Express fall on back of apocalypse scenario posted on Substack
+Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
 
-The Guardian • 1h ago
-
----
-
-**[Skittish investors spooked as dystopian AI outlooks go viral](https://www.reuters.com/business/skittish-investors-spooked-dystopian-ai-outlooks-go-viral-2026-02-24/)**
-
-Reuters • 4h ago
+Anthropic • 1d ago
 
 ---
 
-**[The AI doom-and-gloom scenario captivating Wall Street](https://www.axios.com/2026/02/24/ai-stock-market-unemployment)**
+**[IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat](https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html)**
 
-Axios • 7h ago
+COBOL is a computer language used for business data processing and IBM is a leader in that area.
+
+CNBC • 23h ago
 
 ---
 
-**[Michael Pollan Punctures the AI Bubble](https://www.theatlantic.com/books/2026/02/michael-pollans-new-book-pops-ai-bubble/686119/)**
+**[Anthropic unveils new business tools after release sparked market sell-off](https://thehill.com/policy/technology/5752717-anthropic-claude-cowork-connectors/)**
 
-His new book, about the mystery of consciousness, strengthens the case that technology will never truly replicate humans.
-
-The Atlantic • 4h ago
+The Hill • 19m ago
 
 ---
 
@@ -197,7 +195,7 @@ The Atlantic • 4h ago
 
 We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.
 
-⬆️ 1233 • 💬 686 • 1d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
+⬆️ 1235 • 💬 687 • 1d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
 
 ---
 
@@ -205,13 +203,13 @@ We're adopting Rust as our C++ successor language, and using AI agents to accele
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 795 • 💬 688 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 797 • 💬 688 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 562 • 💬 439 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 564 • 💬 439 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -219,7 +217,7 @@ I’m seeking assistance regarding a sudden restriction on my Google AI Ultra ac
 
 The latest update of Firefox, version 148, introduces a much-anticipated "AI kill switch" feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company’s new revenue-focused strategy regarding AI integrations. […]
 
-⬆️ 423 • 💬 341 • 11h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+⬆️ 430 • 💬 349 • 12h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 
 ---
 
@@ -228,15 +226,7 @@ The latest update of Firefox, version 148, introduces a much-anticipated "AI kil
 My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
 During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
 
-⬆️ 409 • 💬 325 • 19h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
-
----
-
-**[AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says](https://news.ycombinator.com/item?id=47130208)**
-
-Imported chips and hardware mean the AI investments are translating into US GDP growth.
-
-⬆️ 271 • 💬 259 • 18h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 411 • 💬 329 • 20h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 
 ---
 
@@ -244,7 +234,15 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 266 • 💬 65 • 4h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 286 • 💬 59 • 6h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+
+---
+
+**[AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says](https://news.ycombinator.com/item?id=47130208)**
+
+Imported chips and hardware mean the AI investments are translating into US GDP growth.
+
+⬆️ 274 • 💬 262 • 19h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -260,15 +258,15 @@ BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled bina
 
 Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
 
-⬆️ 165 • 💬 58 • 1d ago • [LLM Timeline](https://llm-timeline.com/)
+⬆️ 166 • 💬 58 • 1d ago • [LLM Timeline](https://llm-timeline.com/)
 
 ---
 
-**[Pinterest is drowning in a sea of AI slop and auto-moderation](https://news.ycombinator.com/item?id=47117966)**
+**[Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)](https://news.ycombinator.com/item?id=47139224)**
 
-Users are exhausted fighting AI moderation, AI-generated art, and AI-first features.
+<p>IZUMI-SANO, Osaka — Kansai Airport is proud to have never had a lost baggage incident in the 30 years since it opened in 1994, earning recognition as the airport with the world’s best baggage service.</p>
 
-⬆️ 93 • 💬 76 • 1d ago • [404 Media](https://www.404media.co/pinterest-is-drowning-in-a-sea-of-ai-slop-and-auto-moderation/)
+⬆️ 115 • 💬 38 • 1h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
 
 ---
 
@@ -282,7 +280,7 @@ He worked inside the AI industry — until he was suddenly laid off. Now he's sp
 
 📺 Jay Reed
 
-👁️ 42K • 👍 3K • 💬 784 • ⏱️ 9:01 • 22h ago
+👁️ 42K • 👍 3K • 💬 784 • ⏱️ 9:01 • 23h ago
 
 ---
 
@@ -292,7 +290,7 @@ I made ai create my very own all in one AI webapp! This was definitely interesti
 
 📺 tef
 
-👁️ 16K • 👍 1K • 💬 257 • ⏱️ 8:46 • 21h ago
+👁️ 16K • 👍 1K • 💬 257 • ⏱️ 8:46 • 23h ago
 
 ---
 
@@ -312,7 +310,7 @@ People keep asking if I'm AI… so I decided to actually test it. As a computer 
 
 📺 House of El
 
-👁️ 95K • 👍 10K • 💬 2K • ⏱️ 5:22 • 23h ago
+👁️ 95K • 👍 10K • 💬 2K • ⏱️ 5:22 • 1d ago
 
 ---
 
@@ -352,7 +350,7 @@ I sat down with Dario Amodei in Bangalore. He built Claude, but he started as a 
 
 📺 Nikhil Kamath
 
-👁️ 118K • 👍 4K • 💬 556 • ⏱️ 1:08:35 • 7h ago
+👁️ 118K • 👍 4K • 💬 556 • ⏱️ 1:08:35 • 9h ago
 
 ---
 
@@ -362,7 +360,7 @@ Use Kling 3.0 inside Higgsfield https://higgsfield.ai?fpr=ai&fp_sid=isa4 In this
 
 📺 Isa does AI
 
-👁️ 5K • 💬 5 • ⏱️ 18:32 • 2h ago
+👁️ 5K • 💬 5 • ⏱️ 18:32 • 3h ago
 
 ---
 
@@ -496,7 +494,7 @@ ZUNA is a 380M-parameter EEG foundation model capable of denoising, reconstructi
 
 `382.0M`
 
-⬇️ 1,351 • ❤️ 126 • 19h ago
+⬇️ 1,351 • ❤️ 126 • 20h ago
 
 ---
 
@@ -643,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 18.4k • 🔱 2.2k • 1m ago
+⭐ 18.4k • 🔱 2.2k • 1h ago
 
 ---
 
@@ -661,7 +659,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.4k • 🔱 661 • 7h ago
+⭐ 5.4k • 🔱 661 • 9h ago
 
 ---
 
@@ -671,7 +669,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 3.9k • 🔱 196 • 4h ago
+⭐ 3.9k • 🔱 196 • 5h ago
 
 ---
 
@@ -681,7 +679,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 339 • 59m ago
+⭐ 3.4k • 🔱 339 • 2h ago
 
 ---
 
@@ -691,7 +689,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.1k • 🔱 411 • 11h ago
+⭐ 3.1k • 🔱 411 • 13h ago
 
 ---
 
@@ -701,7 +699,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.8k • 🔱 189 • 7h ago
+⭐ 2.8k • 🔱 189 • 8h ago
 
 ---
 
@@ -711,7 +709,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.7k • 🔱 314 • 4h ago
+⭐ 2.7k • 🔱 314 • 5h ago
 
 ---
 
@@ -721,7 +719,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.6k • 🔱 132 • 3h ago
+⭐ 2.6k • 🔱 132 • 4h ago
 
 ---
 
@@ -731,7 +729,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 454 • 51s ago
+⭐ 2.3k • 🔱 454 • 1h ago
 
 ---
 
