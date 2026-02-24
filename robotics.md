@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T20:37:23.830931+00:00'
+updated: '2026-02-24T21:36:47.281468+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 20:37 UTC  
+**Last Updated:** February 24, 2026 at 21:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,15 @@ Robotics research and industry news
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-3h ago
+4h ago
 
 ---
 
-**[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
+**[Robot Dishwashing for Larger Restaurants / Cruise Ships](https://www.reddit.com/r/robotics/comments/1rdr8hu/robot_dishwashing_for_larger_restaurants_cruise/)**
 
-21h ago
+Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
----
-
-**[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
-
-12h ago
+1h ago
 
 ---
 
@@ -54,13 +50,19 @@ Robotics research and industry news
 
 GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
 
-5h ago
+6h ago
 
 ---
 
-**[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
+**[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-11h ago
+22h ago
+
+---
+
+**[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
+
+13h ago
 
 ---
 
@@ -68,7 +70,13 @@ GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: h
 
 I just started my dream job 3 months ago, I haven't contributed anything significant yet, last whole month I haven't been able to work at all, I am faking working to my colleagues. my colleagues are very helpful and super nice but, soon they are gonna find out, I am gonna loose job, even if I find another, it's gonna be the same result, I have heavy student loan, switching Carrers isn't option. I've no one to talk to who understands, only option I can see is ending it the easy way, pls show if there is any other option
 
-6h ago
+7h ago
+
+---
+
+**[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
+
+12h ago
 
 ---
 
@@ -76,7 +84,7 @@ I just started my dream job 3 months ago, I haven't contributed anything signifi
 
 I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
 
-8h ago
+9h ago
 
 ---
 
@@ -84,7 +92,7 @@ I've recently been experimenting with SLAM (Simultaneous Localization and Mappin
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-19h ago
+20h ago
 
 ---
 
@@ -92,15 +100,7 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-15h ago
-
----
-
-**[Automated Asset generation](https://www.reddit.com/r/robotics/comments/1rdpg4e/automated_asset_generation/)**
-
-Folks in embodied AI and VLA training would love this . Just came across palatial on LinkedIn and their asset generation pipeline . They promise physics ready and articulation generated assets ( saves my time from manually editing URDF ) . Would be really interesting to see how it helps industry to pivot from manual teleop and data collection to more sim based approach and sim2real transfer . https://www.linkedin.com/posts/palatialsim\_a-child-consumes-more-data-in-1-month-than-activity-7432107363379265536-ytSV?utm\_medium=ios\_app&rcm=ACoAACvOJv8B6-auy1zBUCy3esLqkSR8o1X5nFY&utm\_source=social\_share\_send&utm\_campaign=copy\_link
-
-1h ago
+16h ago
 
 ---
 
@@ -116,14 +116,6 @@ CNBC • 4d ago
 
 ---
 
-**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
-
-A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
-
-KPAX News • 1d ago
-
----
-
 **[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
@@ -132,27 +124,33 @@ CNBC • 1d ago
 
 ---
 
-**[Certis and FieldAI Partner to Deploy Autonomous Security Robots](https://www.eweek.com/news/certis-fieldai-autonomous-security-robots/)**
+**[Japan Eyes Plan to Mass Produce Humanoid Robots By 2027](https://www.eweek.com/news/japan-mass-produce-humanoid-robots-2027/)**
 
-Certis and FieldAI are partnering to deploy autonomous security robots, linking FieldAI autonomy with Certis orchestration across global sites.
+Japan aims to mass-produce humanoid robots by 2027 as Hitachi deploys AI-powered models and the government backs a domestic robotics strategy.
 
-eWeek • 5h ago
-
----
-
-**[The hidden infrastructure challenge facing outdoor robotics OEMs](https://www.therobotreport.com/the-hidden-infrastructure-challenge-facing-outdoor-robotics-oems/)**
-
-Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
-
-The Robot Report • 19h ago
+eWeek • 1d ago
 
 ---
 
-**[Rossville students gain experience at Caston robotics competition](https://www.jconline.com/story/news/education/2026/02/24/rossville-students-caston-robotics-competition-results/88841646007/)**
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
 
-Two Rossville robotics teams joined 87 squads statewide, learning strategy and teamwork during the Caston competition.
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-Journal & Courier • 3h ago
+TribLIVE.com • 5h ago
+
+---
+
+**[Autonomous robots expose hurricane-driven hidden ocean bloom](https://interestingengineering.com/ai-robotics/hurricane-idalia-ocean-robots-hidden-bloom)**
+
+Ocean robots and satellites reveal hidden subsurface bloom after Hurricane Idalia reshaped Gulf waters.
+
+Interesting Engineering • 22h ago
+
+---
+
+**[Rise of the rice robots—creating active smart materials](https://techxplore.com/news/2026-02-rice-robots-smart-materials.html)**
+
+Tech Xplore • 1h ago
 
 ---
 
@@ -168,23 +166,23 @@ MIT Technology Review • 1d ago
 
 Mirumi, whose goal is to “steal your heart,” arrives as the “kidult” market is projected to climb.
 
-The Japan Times • 19h ago
+The Japan Times • 20h ago
 
 ---
 
-**[Charleston County students to compete in 16th annual SeaPerch underwater robotics contest](https://abcnews4.com/news/local/charleston-county-students-to-compete-in-16th-annual-seaperch-underwater-robotics-contest-education-stem-engineering-life-skills-north-charleston-sports-complex)**
+**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
 
-Students from multiple Charleston County School District schools, will be competing Wednesday in the16th Annual Charleston SeaPerch Challenge.According to the
+A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
 
-WCIV • 1h ago
+KPAX News • 8h ago
 
 ---
 
-**[Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: For EAI Robotics, FF Will Officially Begin Its First Batch of Deliveries Next Week](https://www.businesswire.com/news/home/20260222086489/en/Faraday-Future-Founder-and-Co-CEO-YT-Jia-Shares-Weekly-Investor-Update-For-EAI-Robotics-FF-Will-Officially-Begin-Its-First-Batch-of-Deliveries-Next-Week)**
+**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
 
-Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global shared intelligent electric mobi...
+The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
 
-Business Wire • 1d ago
+The Boston Globe • 5h ago
 
 ---
 
