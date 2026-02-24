@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T07:02:11.555020+00:00'
+updated: '2026-02-24T08:05:50.641979+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 07:02 UTC  
+**Last Updated:** February 24, 2026 at 08:05 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-6h ago
+7h ago
 
 ---
 
@@ -50,7 +50,7 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-2h ago
+3h ago
 
 ---
 
@@ -58,7 +58,21 @@ I’ve been working with my team on a small wheeled-leg robot recently, we wante
 
 Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
-21h ago
+22h ago
+
+---
+
+**[How are you handling networking / video / telemetry in your robotics projects?](https://www.reddit.com/r/robotics/comments/1rd9kr0/how_are_you_handling_networking_video_telemetry/)**
+
+50m ago
+
+---
+
+**[Choix d’un système de transmission](https://www.reddit.com/r/robotics/comments/1rd9exz/choix_dun_système_de_transmission/)**
+
+Je suis en train de construire un bipède humanoïde et je suis confronté à des choix mécaniques. Qu’utilisez vous comme transmission servo-moteurs vers un axe d’articulation 1_ entraînement direct axe sur axe 2_ par came l’axe A est équipé d’une barre métallique perpendiculaire et le servomoteur du même système et un petit axe en bout des deux cames les relient 3_par engrenage
+
+1h ago
 
 ---
 
@@ -72,7 +86,7 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 Jeff Cardenas, CEO of Apptronik, described how humanoid robotics could scale over the next five years. The framework was structured in three phases: Phase 1: Industrial environments such as logistics and manufacturing. Structured workflows, clearer safety boundaries, and measurable ROI make these environments the most practical starting point. Phase 2: Broader commercial settings including healthcare, hospitality, and retail. Increased human interaction and environmental variability introduce additional complexity. Phase 3: Home and assistive care. Considered a long-term objective rather than an initial deployment market. An updated Apollo has been operating internally for about a year, running commercial pilots and participating in a research partnership with Google’s Gemini Robotics.
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +94,7 @@ Jeff Cardenas, CEO of Apptronik, described how humanoid robotics could scale ove
 
 We found this kit as a thrift store but it’s missing the instructions which are not available online. Please help a keen 7 year old build his third robot!
 
-8h ago
+9h ago
 
 ---
 
@@ -88,23 +102,7 @@ We found this kit as a thrift store but it’s missing the instructions which ar
 
 Hi, I’m looking for non-animal alternatives to a psychiatric/autonomic service dog. I don’t currently have one, which is why I’m trying to find tech replacements. I’m specifically looking for real, purchasable products (brand + model names) — not just general categories. I strongly prefer one-time purchases (no subscriptions) if possible. I need help replacing tasks like: Monitoring / Alerts • Detecting zoning out or inactivity • Anxiety/stress alerts (heart rate changes, etc.) • Persistent alarms to prevent oversleeping Interruptions • Interrupting repetitive or harmful behaviors • Persistent prompts if I’m overstimulated or stuck Regulation • Deep pressure or compression devices • Grounding tools that help regulate anxiety/heart rate Environmental help • Smart door/opening solutions • Devices that help when stuck in bed or on the floor • Ways to create personal space or discourage people from approaching 24/7 interaction • A non-animal option I can talk to anytime for grounding (prefer no subscription, but note if required) If you’ve personally used something like this, I’d really appreciate hearing what worked and what didn’t. Thank you!
 
-3h ago
-
----
-
-**[What kind of voice should a small home robot have](https://www.reddit.com/r/robotics/comments/1rcc4pl/what_kind_of_voice_should_a_small_home_robot_have/)**
-
-Lately our team ran into a question we didn’t expect to spend this much time on. Should a small home robot even speak? We first planned normal voice interaction. Commands, feedback, simple status updates. Pretty standard. But during testing we noticed the sound itself changed how people felt about the robot more than what it actually did. Now we are debating three directions. Electronic tones, closer to R2 D2. People understood intent from pitch and rhythm even without words. It felt friendly and not intrusive. Soft animal-like sounds. Almost purring or small reactions. Less informative, but people treated it more like a pet than a device. Full human speech. Clear and efficient, but several testers said it suddenly felt less like a companion and more like an appliance. A few described it as slightly uncomfortable in a quiet room. So we are unsure what a simple home robot should be. A tool that talks clearly, or a presence that communicates indirectly. For a daily living space, would you prefer robots to behave like efficient computers, or something with a biological feel? R2 D2 style tones, soft creature sounds, or real speech. Which would you pick and why? Also interested if anyone here has worked on non verbal sound feedback design.
-
-22h ago
-
----
-
-**[Built my first hexapod!](https://www.reddit.com/r/robotics/comments/1rbyo3y/built_my_first_hexapod/)**
-
-Built my very first hexapod and i think i love this hobby!Feels great finally seeing it alive. Im already working on the next hexapod, using ds3230 and lifepo 6.6v. Wanna get the ubec out of the way and see a faster robot !
-
-1d ago
+4h ago
 
 ---
 
@@ -120,6 +118,14 @@ CNBC • 3d ago
 
 ---
 
+**[AI robots may outnumber workers in a few decades, ex-Citi executive says](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
+
+"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
+
+CNBC • 17h ago
+
+---
+
 **[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
@@ -128,35 +134,11 @@ KPAX News • 1d ago
 
 ---
 
-**[AI robots may outnumber workers in a few decades, ex-Citi executive says](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
-
-"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
-
-CNBC • 16h ago
-
----
-
-**[The hidden infrastructure challenge facing outdoor robotics OEMs](https://www.therobotreport.com/the-hidden-infrastructure-challenge-facing-outdoor-robotics-oems/)**
-
-Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
-
-The Robot Report • 6h ago
-
----
-
 **[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
 
 AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
 
-MIT Technology Review • 13h ago
-
----
-
-**[Tesla's $3 Trillion Opportunity: How Optimus Could Dominate the Robotics Market in 2026](https://www.fool.com/investing/2026/02/20/teslas-3-trillion-opportunity-how-optimus-could-do/)**
-
-Tesla has a few robotics advantages that it's tapping into.
-
-The Motley Fool • 3d ago
+MIT Technology Review • 15h ago
 
 ---
 
@@ -176,6 +158,14 @@ Seeking Alpha • 1d ago
 
 ---
 
+**[Next-gen robotic hands from China mimic human movement and grip](https://interestingengineering.com/ai-robotics/china-linkerbot-robotic-hands-human-skills)**
+
+Chinese startup LinkerBot has developed a technology to equip humanoids with the skills of performing complex and delicate tasks.
+
+Interesting Engineering • 19h ago
+
+---
+
 **[Tech companies are making their robots cute to try to win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
 
 Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
@@ -184,11 +174,19 @@ NBC News • 1d ago
 
 ---
 
-**[From Doraemon to dexterous hands: LinkerBot equips robots with human skills](https://www.scmp.com/tech/tech-trends/article/3344242/doraemon-dexterous-hands-chinas-linkerbot-equips-robots-human-skills)**
+**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
 
-The start-up is revolutionising humanoid robotics with ultra-dexterous hands, ushering in a new era of humanlike robotic capability.
+OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
 
 South China Morning Post • 1d ago
+
+---
+
+**[The hidden infrastructure challenge facing outdoor robotics OEMs](https://www.therobotreport.com/the-hidden-infrastructure-challenge-facing-outdoor-robotics-oems/)**
+
+Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
+
+The Robot Report • 7h ago
 
 ---
 
@@ -272,7 +270,7 @@ Humanoid robot clusters are the new drone swarms. Chinese robotics leader Unitre
 
 📺 Kalil 4.0
 
-👁️ 8K • 👍 264 • 💬 37 • ⏱️ 0:59 • 10h ago
+👁️ 8K • 👍 264 • 💬 37 • ⏱️ 0:59 • 11h ago
 
 ---
 

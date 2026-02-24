@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-24T07:02:11.551863+00:00'
+updated: '2026-02-24T08:05:50.638870+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 24, 2026 at 07:02 UTC  
+**Last Updated:** February 24, 2026 at 08:05 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,16 +36,16 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,826.07
+### $1,815.17
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
+**24h:** -4.9%  
 **7d:** -6.8%  
 **30d:** -37.8%  
-**90d:** -39.6%  
+**90d:** -39.5%  
 **1y:** -27.0%  
 
 ---
@@ -72,13 +72,13 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
 **[Best way to restake rETH?](https://www.reddit.com/r/ethereum/comments/1rd5lq8/best_way_to_restake_reth/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +94,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
 
-🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 15h ago
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 16h ago
+
+---
+
+**[Telegram bot for audit contest updates (Sherlock, Code4rena, Cantina, Immunefi)](https://www.reddit.com/r/ethereum/comments/1rctimq/telegram_bot_for_audit_contest_updates_sherlock/)**
+
+11h ago
 
 ---
 
@@ -102,13 +108,7 @@ Simple little tool for encoding function calls according to the eth abi. I've se
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 17h ago
-
----
-
-**[Telegram bot for audit contest updates (Sherlock, Code4rena, Cantina, Immunefi)](https://www.reddit.com/r/ethereum/comments/1rctimq/telegram_bot_for_audit_contest_updates_sherlock/)**
-
-10h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 18h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Foundation named former DELV CEO Charles St. Louis as DeFi Protocol Specialist and ivangbi as DeFi Coordinator.
 
-The Block • 9h ago
+The Block • 10h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 9h ago
 
 A consortium of banks is building its own version of blockchain—it will be hard pressed to make it work.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
@@ -168,7 +168,7 @@ Fortune • 18h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -176,7 +176,7 @@ Yahoo Finance • 15h ago
 
 Bitmine increased holdings to 4.42 million ETH, controlling 3.66% of supply and generating $171 million staking revenue.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Block • 16h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
 
-Decrypt • 15h ago
+Decrypt • 16h ago
 
 ---
 
@@ -192,7 +192,7 @@ Decrypt • 15h ago
 
 Ethereum founder Vitalik Buterin has been selling ETH in the last few days as the second-largest crypto asset continues its fall.
 
-Decrypt • 13h ago
+Decrypt • 14h ago
 
 ---
 
@@ -200,7 +200,7 @@ Decrypt • 13h ago
 
 Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 17h ago
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -216,15 +216,15 @@ CoinDesk • 20h ago
 
 This new class of on-chain actors could generate a lot of demand for the coin.
 
-The Motley Fool • 6h ago
+The Motley Fool • 7h ago
 
 ---
 
-**[Binance to Face Temporary Downtime on Ethereum Network](https://www.tradingview.com/news/u_today:086cf0ef3094b:0-binance-to-face-temporary-downtime-on-ethereum-network/)**
+**[AI Explains What’s Driving The Ethereum Price Volatility, Can It Rise Above $3,000 Again?](https://www.tradingview.com/news/newsbtc:e40cfa5f2094b:0-ai-explains-what-s-driving-the-ethereum-price-volatility-can-it-rise-above-3-000-again/)**
 
-The industry’s biggest cryptocurrency exchange, Binance, has announced its plans to conduct maintenance on the Ethereum network. As an early precaution, the exchange said it may record a temporary outage, but it reassured its users that funds lodged with it are safe.Binance to face outagePer the ge…
+A recent technical breakdown shared by crypto analyst Trader Tardigrade added a notable outlook to the discussion of how fast Ethereum can enter into a bull run or if there’s more consolidation ahead. In his post on X, he compared Ethereum against the US Dollar Index and then consulted Perplexity A…
 
-TradingView • 15h ago
+TradingView • 13h ago
 
 ---
 
@@ -238,7 +238,7 @@ SHOCKING New Ethereum-AI Roadmap AI Will SAVE Crypto GM O Army! In this video, w
 
 📺 CryptoWendyO
 
-👁️ 3K • 👍 182 • 💬 11 • ⏱️ 3:44 • 9h ago
+👁️ 3K • 👍 182 • 💬 11 • ⏱️ 3:44 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 136 • 💬 41 • ⏱️ 14:34 • 18h ago
+👁️ 3K • 👍 136 • 💬 41 • ⏱️ 14:34 • 19h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 110 • 💬 9 • ⏱️ 5:24 • 7h ago
+👁️ 1K • 👍 110 • 💬 9 • ⏱️ 5:24 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ What if the next rate cut isn't the beginning of another tightening cycle… but
 
 📺 Savvy Finance
 
-👁️ 4K • 👍 212 • 💬 12 • ⏱️ 19:20 • 14h ago
+👁️ 4K • 👍 212 • 💬 12 • ⏱️ 19:20 • 15h ago
 
 ---
 
@@ -278,7 +278,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 4K • 👍 78 • 💬 21 • ⏱️ 19:18 • 15h ago
+👁️ 4K • 👍 78 • 💬 21 • ⏱️ 19:18 • 16h ago
 
 ---
 
@@ -288,7 +288,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 732 • 👍 33 • 💬 10 • ⏱️ 6:12 • 10h ago
+👁️ 732 • 👍 33 • 💬 10 • ⏱️ 6:12 • 11h ago
 
 ---
 
@@ -298,7 +298,7 @@ BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 287 • 💬 70 • ⏱️ 22:08 • 11h ago
+👁️ 8K • 👍 287 • 💬 70 • ⏱️ 22:08 • 12h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 144 • 💬 4 • ⏱️ 6:00 • 20h ago
+👁️ 3K • 👍 144 • 💬 4 • ⏱️ 6:00 • 21h ago
 
 ---
 
@@ -328,7 +328,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 123 • 💬 18 • ⏱️ 1:23:36 • 19h ago
+👁️ 3K • 👍 123 • 💬 18 • ⏱️ 1:23:36 • 20h ago
 
 ---
 
