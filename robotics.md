@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T14:51:57.525306+00:00'
+updated: '2026-02-24T16:00:04.464229+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 14:51 UTC  
+**Last Updated:** February 24, 2026 at 16:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,35 +34,19 @@ Robotics research and industry news
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-15h ago
+16h ago
 
 ---
 
 **[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
 
-6h ago
+7h ago
 
 ---
 
 **[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
-5h ago
-
----
-
-**[50 Videos in 5 Minutes - Robotics & Automation at PACK EXPO](https://www.reddit.com/r/robotics/comments/1rczp3m/50_videos_in_5_minutes_robotics_automation_at/)**
-
-I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
-
-14h ago
-
----
-
-**[We built both parallel leg and bipedal versions of our robot. How do you feel?](https://www.reddit.com/r/robotics/comments/1rd6gin/we_built_both_parallel_leg_and_bipedal_versions/)**
-
-I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
-
-10h ago
+6h ago
 
 ---
 
@@ -70,15 +54,31 @@ I’ve been working with my team on a small wheeled-leg robot recently, we wante
 
 I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
 
-3h ago
+4h ago
 
 ---
 
-**[Best Robot Lawn Mowers for 2026 | Online Review](https://www.reddit.com/r/robotics/comments/1rdd5bu/best_robot_lawn_mowers_for_2026_online_review/)**
+**[50 Videos in 5 Minutes - Robotics & Automation at PACK EXPO](https://www.reddit.com/r/robotics/comments/1rczp3m/50_videos_in_5_minutes_robotics_automation_at/)**
 
-If you're looking for a robot lawn mower that doesn't need boundary wires, here are a few models that keep coming up in 2026: Best Easy Setup Eufy E15 $2,299 at Amazon Best for Straight Lawns Husqvarna Automower 410 iQ $2,999 at Amazon Best Budget for Small Lawns Anthbot M5 $699 at Anthbot Best Choice for Medium-Sized Lawns Sunseeker X3 Plus $1,399.99 at Sunseeker Best for Large Lawns (Up to 2.5 Acres) Segway Navimow X390 $4,999 at Segway Best for Very Large Lawns (Up to 10 Acres) Kress Mission Mega RTK KR237 $14,999 at Kress Best Commercial-Grade Wire-Free Option Husqvarna Automower 450X EPOS $5,899 at Husqvarna Overall, what stood out to me is that most wire-free robot lawn mowers in 2026 are clearly split by lawn size and complexity. The smaller models seem aimed at convenience and price, while the higher-end ones are basically replacing traditional riding mowers for large properties. Also worth noting: a lot of these newer models rely heavily on RTK/satellite navigation, so yard layout, tree cover, and signal stability probably matter more than they used to. Definitely feels like the tech is maturing, but still not totally one-size-fits-all.
+I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-3h ago
+15h ago
+
+---
+
+**[[Open Source] ElRobot, 7+1 DOF 3D printed robotic arm for AI](https://www.reddit.com/r/robotics/comments/1rdj0gu/open_source_elrobot_71_dof_3d_printed_robotic_arm/)**
+
+GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot
+
+40m ago
+
+---
+
+**[We built both parallel leg and bipedal versions of our robot. How do you feel?](https://www.reddit.com/r/robotics/comments/1rd6gin/we_built_both_parallel_leg_and_bipedal_versions/)**
+
+I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
+
+11h ago
 
 ---
 
@@ -86,15 +86,15 @@ If you're looking for a robot lawn mower that doesn't need boundary wires, here 
 
 I'm an undergrad. I've worked on competition robots, lab projects, and industry internships — and every single time, getting two machines to just send data to each other was way more painful than it should be. Like, I just want to send a sensor data from machine A to machine B. Why does that take an afternoon of setup? So I built NitROS — a Python pub/sub library where this actually works: # Machine A from nitros import Publisher pub = Publisher("sensors") pub.send({"temperature": 23.5, "humidity": 65}) # Machine B from nitros import Subscriber def callback(msg): print(msg) Subscriber("sensors", callback) That's it. No IPs, no config files, no build steps. mDNS auto-discovery handles the rest. Also handles numpy arrays, camera frames (with JPEG compression), and point clouds out of the box. It's NOT a full middleware replacement. No TF, no URDF, no services. Just pub/sub that works in 30 seconds. Best for prototyping, competitions, simple robot-to-laptop comms. GitHub: https://github.com/inputnameplz/NitROS Would love feedback — what's missing? What would make you actually try it?
 
-51m ago
+2h ago
 
 ---
 
-**[Latest Unitree demo](https://www.reddit.com/r/robotics/comments/1rcd973/latest_unitree_demo/)**
+**[Best Robot Lawn Mowers for 2026 | Online Review](https://www.reddit.com/r/robotics/comments/1rdd5bu/best_robot_lawn_mowers_for_2026_online_review/)**
 
-Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
+If you're looking for a robot lawn mower that doesn't need boundary wires, here are a few models that keep coming up in 2026: Best Easy Setup Eufy E15 $2,299 at Amazon Best for Straight Lawns Husqvarna Automower 410 iQ $2,999 at Amazon Best Budget for Small Lawns Anthbot M5 $699 at Anthbot Best Choice for Medium-Sized Lawns Sunseeker X3 Plus $1,399.99 at Sunseeker Best for Large Lawns (Up to 2.5 Acres) Segway Navimow X390 $4,999 at Segway Best for Very Large Lawns (Up to 10 Acres) Kress Mission Mega RTK KR237 $14,999 at Kress Best Commercial-Grade Wire-Free Option Husqvarna Automower 450X EPOS $5,899 at Husqvarna Overall, what stood out to me is that most wire-free robot lawn mowers in 2026 are clearly split by lawn size and complexity. The smaller models seem aimed at convenience and price, while the higher-end ones are basically replacing traditional riding mowers for large properties. Also worth noting: a lot of these newer models rely heavily on RTK/satellite navigation, so yard layout, tree cover, and signal stability probably matter more than they used to. Definitely feels like the tech is maturing, but still not totally one-size-fits-all.
 
-1d ago
+5h ago
 
 ---
 
@@ -102,7 +102,7 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 I just started my dream job 3 months ago, I haven't contributed anything significant yet, last whole month I haven't been able to work at all, I am faking working to my colleagues. my colleagues are very helpful and super nice but, soon they are gonna find out, I am gonna loose job, even if I find another, it's gonna be the same result, I have heavy student loan, switching Carrers isn't option. I've no one to talk to who understands, only option I can see is ending it the easy way, pls show if there is any other option
 
-1h ago
+2h ago
 
 ---
 
@@ -115,6 +115,14 @@ I just started my dream job 3 months ago, I haven't contributed anything signifi
 Chinese humanoid robots are having a moment in the spotlight after a standout performance at the country's annual Spring Festival Gala.
 
 CNBC • 4d ago
+
+---
+
+**[Certis and FieldAI Partner to Deploy Autonomous Security Robots](https://www.eweek.com/news/certis-fieldai-autonomous-security-robots/)**
+
+Certis and FieldAI are partnering to deploy autonomous security robots, linking FieldAI autonomy with Certis orchestration across global sites.
+
+eWeek • 55m ago
 
 ---
 
@@ -138,15 +146,15 @@ CNBC • 1d ago
 
 Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
 
-The Robot Report • 14h ago
+The Robot Report • 15h ago
 
 ---
 
-**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
+**[Unlock the ROI of Mobile Robots: Roboteon Launches New Complimentary Robotics Investment Impact Analysis](https://finance.yahoo.com/news/unlock-roi-mobile-robots-roboteon-150000000.html)**
 
-AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
+SAN JOSE, Calif., February 24, 2026--Roboteon Announces Complimentary Warehouse Robotics Investment Impact Analysis Service to Provide the Insight Companies Need
 
-MIT Technology Review • 21h ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -154,15 +162,15 @@ MIT Technology Review • 21h ago
 
 Mirumi, whose goal is to “steal your heart,” arrives as the “kidult” market is projected to climb.
 
-The Japan Times • 13h ago
+The Japan Times • 15h ago
 
 ---
 
-**[Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: For EAI Robotics, FF Will Officially Begin Its First Batch of Deliveries Next Week](https://www.businesswire.com/news/home/20260222086489/en/Faraday-Future-Founder-and-Co-CEO-YT-Jia-Shares-Weekly-Investor-Update-For-EAI-Robotics-FF-Will-Officially-Begin-Its-First-Batch-of-Deliveries-Next-Week)**
+**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
 
-Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global shared intelligent electric mobi...
+AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
 
-Business Wire • 1d ago
+MIT Technology Review • 22h ago
 
 ---
 
@@ -174,19 +182,11 @@ South China Morning Post • 1d ago
 
 ---
 
-**[Tech companies are making their robots cute to try to win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
+**[Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: For EAI Robotics, FF Will Officially Begin Its First Batch of Deliveries Next Week](https://www.businesswire.com/news/home/20260222086489/en/Faraday-Future-Founder-and-Co-CEO-YT-Jia-Shares-Weekly-Investor-Update-For-EAI-Robotics-FF-Will-Officially-Begin-Its-First-Batch-of-Deliveries-Next-Week)**
 
-Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
+Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) (“Faraday Future”, “FF” or the “Company”), a California-based global shared intelligent electric mobi...
 
-NBC News • 1d ago
-
----
-
-**[Kraken Robotics: Attractive Business, Challenging Valuation (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4873255-kraken-robotics-attractive-business-challenging-valuation)**
-
-Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
-
-Seeking Alpha • 2d ago
+Business Wire • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ AI robots are starting to act way too human, and the latest breakthroughs prove 
 
 📺 The AI Nexus
 
-👁️ 743 • 👍 55 • 💬 7 • ⏱️ 21:45 • 9h ago
+👁️ 743 • 👍 55 • 💬 7 • ⏱️ 21:45 • 11h ago
 
 ---
 
@@ -250,7 +250,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 73K • 👍 3K • 💬 849 • ⏱️ 14:51 • 3d ago
+👁️ 73K • 👍 3K • 💬 849 • ⏱️ 14:51 • 4d ago
 
 ---
 
@@ -280,7 +280,7 @@ IRobot#I ...
 
 📺 CineCraft
 
-👁️ 6K • 👍 313 • 💬 2 • ⏱️ 1:09 • 1h ago
+👁️ 6K • 👍 313 • 💬 2 • ⏱️ 1:09 • 2h ago
 
 ---
 
@@ -290,7 +290,7 @@ Humanoid robots performing martial arts at the Temple of Heaven? Unitree's lates
 
 📺 DPCcars
 
-👁️ 14K • 👍 135 • 💬 61 • ⏱️ 2:11 • 23h ago
+👁️ 14K • 👍 135 • 💬 61 • ⏱️ 2:11 • 1d ago
 
 ---
 
