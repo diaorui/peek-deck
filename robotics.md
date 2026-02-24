@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T19:49:11.828412+00:00'
+updated: '2026-02-24T20:37:23.830931+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 19:49 UTC  
+**Last Updated:** February 24, 2026 at 20:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-20h ago
+21h ago
 
 ---
 
 **[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -54,13 +54,13 @@ Robotics research and industry news
 
 GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
 
-4h ago
+5h ago
 
 ---
 
 **[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -76,7 +76,7 @@ I just started my dream job 3 months ago, I haven't contributed anything signifi
 
 I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
 
-7h ago
+8h ago
 
 ---
 
@@ -92,7 +92,7 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-14h ago
+15h ago
 
 ---
 
@@ -100,7 +100,7 @@ I’ve been working with my team on a small wheeled-leg robot recently, we wante
 
 Folks in embodied AI and VLA training would love this . Just came across palatial on LinkedIn and their asset generation pipeline . They promise physics ready and articulation generated assets ( saves my time from manually editing URDF ) . Would be really interesting to see how it helps industry to pivot from manual teleop and data collection to more sim based approach and sim2real transfer . https://www.linkedin.com/posts/palatialsim\_a-child-consumes-more-data-in-1-month-than-activity-7432107363379265536-ytSV?utm\_medium=ios\_app&rcm=ACoAACvOJv8B6-auy1zBUCy3esLqkSR8o1X5nFY&utm\_source=social\_share\_send&utm\_campaign=copy\_link
 
-40m ago
+1h ago
 
 ---
 
@@ -136,7 +136,7 @@ CNBC • 1d ago
 
 Certis and FieldAI are partnering to deploy autonomous security robots, linking FieldAI autonomy with Certis orchestration across global sites.
 
-eWeek • 4h ago
+eWeek • 5h ago
 
 ---
 
@@ -152,7 +152,7 @@ The Robot Report • 19h ago
 
 Two Rossville robotics teams joined 87 squads statewide, learning strategy and teamwork during the Caston competition.
 
-Journal & Courier • 2h ago
+Journal & Courier • 3h ago
 
 ---
 
@@ -168,7 +168,7 @@ MIT Technology Review • 1d ago
 
 Mirumi, whose goal is to “steal your heart,” arrives as the “kidult” market is projected to climb.
 
-The Japan Times • 18h ago
+The Japan Times • 19h ago
 
 ---
 
@@ -176,7 +176,7 @@ The Japan Times • 18h ago
 
 Students from multiple Charleston County School District schools, will be competing Wednesday in the16th Annual Charleston SeaPerch Challenge.According to the
 
-WCIV • 43m ago
+WCIV • 1h ago
 
 ---
 

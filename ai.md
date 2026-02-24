@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-24T19:49:11.812268+00:00'
+updated: '2026-02-24T20:37:23.813179+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 24, 2026 at 19:49 UTC  
+**Last Updated:** February 24, 2026 at 20:37 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falling 10%, after Anthropic announced an AI tool designed to streamline COBOL code modernization. Accenture (NYSE:ACN) and Cognizant Technology Solutions (NASDAQ:CTSH) also declined following the news.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 20h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 21h ago
 
 ---
 
@@ -49,7 +49,7 @@ Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falli
 
 context: I've been building a system that sends the same question to multiple models in parallel, then has each model review the others. six months, a few thousand sessions, mostly legal and financial questions the design decision I agonized over the most turned out to matter more than any other choice I made blind review changes everything I tested two versions. in one, the reviewing model sees "this is Claude's response." in the other, it just sees "Response A" the difference is kind of alarming when models know they're reviewing a named model, they hedge. they find "nuanced perspectives." there's something resembling professional courtesy baked into these things. makes sense if you think about the training data. reddit threads and twitter posts where people debate which model is better, lots of human-written comparisons that try to be balanced. the politeness is learned behavior with blind review, the gloves come off. scores spread out. critiques get specific. Claude in particular gets almost mean when it doesn't know it's reviewing GPT. it'll identify logical leaps, flag unstated assumptions, point out when a claim needs a citation that isn't there. stuff it would politely sidestep in the named version I don't have a rigorous paper on this. few hundred sessions, skewed toward legal and financial questions. but the pattern was consistent enough that I built the entire system around blind review and never looked back courtesy bias has a direction here's the thing I still don't understand. the courtesy effect is stronger in some directions than others. Claude reviewing GPT blind vs named shows the biggest delta. GPT reviewing Claude shows less difference. I have no good theory for why agreement is less useful than disagreement I assumed the point was to find consensus. three models agree, you're probably right. but sessions with the lowest initial agreement actually produce the best final answers model agreement on factual stuff: 70-80%. analytical or strategic questions: 40-50%. and the low-agreement sessions, where models are fighting, tend to surface things no single model caught. forced convergence seems to produce higher quality than natural consensus I suspect agreement means the models are pulling from the same training patterns. disagreement means at least one found a different path through the problem. the different path is usually where the insight lives the tool I built around this is in my profile if anyone wants to see blind review in action. curious whether others working with multi-model systems have noticed similar patterns
 
-4h ago
+5h ago
 
 ---
 
@@ -57,7 +57,7 @@ context: I've been building a system that sends the same question to multiple mo
 
 Defense Secretary Pete Hegseth plans to meet with the CEO of Anthropic. The artificial intelligence company is the only one of its peers to not supply its technology to a new U.S. military internal network.
 
-🔗 [AP News](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) • 4h ago
+🔗 [AP News](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ Defense Secretary Pete Hegseth plans to meet with the CEO of Anthropic. The arti
 
 Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 2h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a
 
 I predicted early in January that ai will discover new physics before 2028 is over, came earlier than expected.
 
-🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 12h ago
+🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 13h ago
 
 ---
 
@@ -81,7 +81,7 @@ I predicted early in January that ai will discover new physics before 2028 is ov
 
 I'm a first-year engineering student and I've noticed that ChatGPT is extremely bad at helping me with things; the calculations are poor, it gets confused when there's too much data. Does anyone know of any good artificial intelligence that could help me study? I've tested DeepSeek and Gemini but didn't notice much difference.
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ I'm a first-year engineering student and I've noticed that ChatGPT is extremely 
 
 Please be honest with me. I’ve joined multiple paid communities and courses about AI, content creation, animation, and online growth. I’ve spent real money. But I keep running into the same problem. Everything is always… too broad. They cover 50 tools. They talk about AI influencing, AI ads, automation, marketing, trends. But when it comes to actually mastering ONE specific thing deeply — it’s missing. For example, what I really want is: • How to build my own 3D character • How to keep character consistency • How to maintain world consistency • How to plan storyboarding properly • Camera angles, scene continuity, shot variations • How to structure episodes • Hooks, pacing, storytelling flow Instead, most courses feel like: “Here are 20 tools, try them all.” But I don’t want 20 topics mixed together. I want one focused system done properly. I don’t mind if multiple tools are mentioned — that’s fine. But I don’t want 10 different subjects mixed into one course. Is there actually a focused path for AI-based animation storytelling? Or is everything just marketing funnels and tool showcases? If you’ve found something structured and specific (not hype), I’d genuinely appreciate guidance. I feel like there must be a smarter way to approach this.
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Please be honest with me. I’ve joined multiple paid communities and courses ab
 
 A Pew Research Center survey found that just 4 in 10 parents talk to their teens about AI usage.
 
-🔗 [cbsnews.com](https://www.cbsnews.com/news/ai-teens-parents-pew-survey/) • 3h ago
+🔗 [cbsnews.com](https://www.cbsnews.com/news/ai-teens-parents-pew-survey/) • 4h ago
 
 ---
 
@@ -111,7 +111,7 @@ A Pew Research Center survey found that just 4 in 10 parents talk to their teens
 
 We tested prompt repetition on 20 parallel AI agents. Ceiling effects dominated both experiments. The null result is a finding about evaluation design.
 
-🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 16h ago
+🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 17h ago
 
 ---
 
@@ -123,19 +123,19 @@ We tested prompt repetition on 20 parallel AI agents. Ceiling effects dominated 
 
 Shares in Uber, Mastercard and American Express fall on back of apocalypse scenario posted on Substack
 
-The Guardian • 3h ago
+The Guardian • 4h ago
 
 ---
 
 **[Breaking Down the Doomsday AI Memo That Spooked Markets](https://www.wsj.com/tech/ai/breaking-down-the-viral-memo-that-spooked-markets-bc088c83?gaa_at=eafs&gaa_n=AWEtsqfywYp-FRIMxokry_cUkTBvuoSNTR808yQZxzJ18LoEJSkCjG1-wLiP&gaa_ts=699e0419&gaa_sig=yjq8XrMAuv1zyMIwOJ8QeBjhmD_IHbkGuCwkx6akuJ_vGKDohECrg76ha04XBgYIkmPA8tY3zsYYF2JOth-t7w%3D%3D)**
 
-WSJ • 3h ago
+WSJ • 4h ago
 
 ---
 
 **[The AI doom-and-gloom scenario captivating Wall Street](https://www.axios.com/2026/02/24/ai-stock-market-unemployment)**
 
-Axios • 9h ago
+Axios • 10h ago
 
 ---
 
@@ -149,7 +149,7 @@ Anthropic • 1d ago
 
 **[Animal shelter inundated with calls over fake AI dog photo](https://thehill.com/policy/technology/5752651-animal-shelter-calls-ai-dog-video/)**
 
-The Hill • 33m ago
+The Hill • 1h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Hill • 33m ago
 
 The Shelby County District Attorney's Office has announced the launch of a new AI-powered evidence management agent.  The DA's office's partnership with the Memphis-based Foltrigg.ai aims to help pros...
 
-Yahoo • 36m ago
+Yahoo • 1h ago
 
 ---
 
@@ -169,13 +169,13 @@ The New York Times • 21h ago
 
 **[Exclusive: Hegseth gives Anthropic until Friday to back down on AI safeguards](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
 **[Hegseth sets Friday deadline for Anthropic to drop its AI red lines](https://www.politico.com/news/2026/02/24/hegseth-sets-friday-deadline-for-anthropic-to-drop-its-ai-red-lines-00795641)**
 
-Politico • 9m ago
+Politico • 57m ago
 
 ---
 
@@ -183,7 +183,7 @@ Politico • 9m ago
 
 Just weeks after its AI tools shook software stocks, Anthropic is pushing even deeper into the workplace. The company is updating its Claude AI helper to perform better at tasks within specific jobs, such as design, human resources and wealth management roles, while also enabling it to work across Microsoft Excel and PowerPoint apps.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
@@ -234,7 +234,7 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 373 • 💬 78 • 7h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 373 • 💬 78 • 8h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -242,7 +242,7 @@ A minute-by-minute reconstruction of the massacre by Earshot and Forensic Archit
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 275 • 💬 262 • 20h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 275 • 💬 262 • 21h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -290,7 +290,7 @@ I sat down with Dario Amodei in Bangalore. He built Claude, but he started as a 
 
 📺 Nikhil Kamath
 
-👁️ 171K • 👍 5K • 💬 659 • ⏱️ 1:08:35 • 10h ago
+👁️ 171K • 👍 5K • 💬 659 • ⏱️ 1:08:35 • 11h ago
 
 ---
 
@@ -350,7 +350,7 @@ Futurum Group CEO Daniel Newman analyzes the software market sell-off, discussin
 
 📺 Fox Business Clips
 
-👁️ 5K • 👍 77 • 💬 4 • ⏱️ 5:47 • 15h ago
+👁️ 5K • 👍 77 • 💬 4 • ⏱️ 5:47 • 16h ago
 
 ---
 
@@ -422,7 +422,7 @@ PersonaPlex-7B-v1 is a real-time speech-to-speech conversational model that join
 
 `audio-to-audio`
 
-⬇️ 539,333 • ❤️ 2,181 • 8d ago
+⬇️ 539,333 • ❤️ 2,181 • 9d ago
 
 ---
 
@@ -494,7 +494,7 @@ ZUNA is a 380M-parameter EEG foundation model capable of denoising, reconstructi
 
 `382.0M`
 
-⬇️ 1,351 • ❤️ 126 • 34m ago
+⬇️ 1,351 • ❤️ 126 • 1h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 18.5k • 🔱 2.2k • 12m ago
+⭐ 18.5k • 🔱 2.2k • 1h ago
 
 ---
 
@@ -661,7 +661,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.4k • 🔱 661 • 10h ago
+⭐ 5.4k • 🔱 661 • 11h ago
 
 ---
 
@@ -671,7 +671,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 3.9k • 🔱 197 • 6h ago
+⭐ 3.9k • 🔱 197 • 7h ago
 
 ---
 
@@ -681,7 +681,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 341 • 38m ago
+⭐ 3.4k • 🔱 341 • 1h ago
 
 ---
 
@@ -691,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.1k • 🔱 412 • 2h ago
+⭐ 3.1k • 🔱 412 • 3h ago
 
 ---
 
@@ -701,7 +701,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.8k • 🔱 190 • 1h ago
+⭐ 2.8k • 🔱 190 • 2h ago
 
 ---
 
@@ -711,7 +711,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.7k • 🔱 314 • 6h ago
+⭐ 2.7k • 🔱 314 • 7h ago
 
 ---
 
@@ -721,7 +721,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.6k • 🔱 132 • 5h ago
+⭐ 2.6k • 🔱 132 • 6h ago
 
 ---
 
@@ -731,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 456 • 2h ago
+⭐ 2.3k • 🔱 456 • 3h ago
 
 ---
 

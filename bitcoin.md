@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-24T19:49:11.820056+00:00'
+updated: '2026-02-24T20:37:23.821722+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
-- cryptocurrency
+- videos
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 24, 2026 at 19:49 UTC  
+**Last Updated:** February 24, 2026 at 20:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[Bitcoin is "dead"](https://www.reddit.com/r/Bitcoin/comments/1rda9jh/bitcoin_is_dead/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 My strategy for not missing the bottom is the following: 5 Times a week I invest x k per Day in BTC for the next 30 weeks and so should you! Don't wait until we have the price range between 40-45k which everyone is expecting rn. As we have seen the last cycles this doesn't play out, people tend to get emotional and wait until they think it can't get lower. The price of 60-64k is already super cheap in my opinion. Cheers guys! Edit: took out the amount because some guys take it personal. Only wanted to explain my strategy so there you go!
 
-2h ago
+3h ago
 
 ---
 
@@ -101,7 +101,7 @@ My strategy for not missing the bottom is the following: 5 Times a week I invest
 
 I had no intention of selling this year. I've invested money I do not need liquid. At about 1:30, I get a notification of sats aquired and the number is way higher than what I was getting two months ago. I know a lot of people are in pain with the current prices, and a lot of leverage users have been obliterated, but my steady strategy has always paid off. Right now I'm getting extra.
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ I had no intention of selling this year. I've invested money I do not need liqui
 
 Later in the video he's being asked if they're considering shitcoins like ether and Mr Gravier explained they're nothing more than shitcoins. Full video: https://www.cnbc.com/video/2026/02/24/maurice-gauvier-crypto.html
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ Later in the video he's being asked if they're considering shitcoins like ether 
 
 Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (especially when traveling), I had a weird idea: What if I hid ALL 2,048 BIP39 words inside a normal-looking children's book? So I wrote "The Adventures of Veit the Fox" – a 19-chapter adventure story about a fox’s adventures, published it, and had it delivered to me as a paperback. It reads like a normal kids' book, but every single BIP39 word appears naturally in the text. How the backup works: Your 12- or 24-word seed becomes a list of page/line/word numbers Example: "abandon" → Page 12, Line 3, Word 5 → "12-3-5" The numbers look meaningless to anyone who finds them The book looks like an innocent children's book on your shelf Why do I love this backup: Nobody suspects a children's book You can keep the book and numbers in separate locations Even if someone finds both, they don't know it's a backup Inconspicuous when traveling and crossing borders I also created a word index PDF showing where each word appears, because without it it is extremely time-consuming to find the words. Maybe this will be a helpful tip for you too. Happy to answer questions about the process or the book cipher concept!
 
-34m ago
+1h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (e
 
 $1.17 billion across 5.2 million transactions And the average transaction size nearly doubled year over year from $118 to $223 which means this isn't just micropayment experimentation anymore Businesses are using it Exchanges are moving real money through it
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ $1.17 billion across 5.2 million transactions And the average transaction size n
 
 What would owning even 1 BTC do for you financially, and would you be richer than a lot of people?
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ I almost sold, tired of this red candle. Holding 1 BTC since 2017. Never sold. I
 
 I got into Bitcoin and crypto in about 2018, so I had always heard the Mt. Gox name without knowing too much about the story of the hack and the 2014 collapse of the exchange. With it being the 12th anniversary of Mt. Gox going dark today, I thought I would learn about it and write about it. Mt. Gox was the biggest BTC exchange in the world at the time, handling 70%+ of the global BTC transactions. Over the course of two years, hackers siphoned off 800,000 BTC. There was basically a cover-up. And it sent crypto into a long winter. It bears many of the hallmarks of the FTX collapse, just a precursor. Because of the FTX event, I feel the Mt. Gox one has been missed by newer people to crypto like myself. The story is fascinating and sad. This was the early days of Bitcoin, relatively, and it shows. If I have one takeaway from the whole thing, it’s how far the Bitcoin and cryptocurrency industry has come since.
 
-🔗 [bitcoinchaser.com](https://bitcoinchaser.com/mt-gox-bitcoins-biggest-exchange/) • 6h ago
+🔗 [bitcoinchaser.com](https://bitcoinchaser.com/mt-gox-bitcoins-biggest-exchange/) • 7h ago
 
 ---
 
@@ -161,7 +161,7 @@ I got into Bitcoin and crypto in about 2018, so I had always heard the Mt. Gox n
 
 Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNBC • 16h ago
 
 Sellers are taking a breather as bitcoin's Fear & Greed Index plunged to levels never seen before.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ CoinDesk • 2h ago
 
 Strategy comprised 99.2% of all Bitcoin buying last week.  The treasury trade has dried up as Bitcoin suffers a debilitating price drop.  In any case, over 1.1 million Bitcoin still sits in corporate coffers.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ dlnews.com • 1h ago
 
 Canaan (CAN) acquired Cipher Mining’s 49% stake in three West Texas mining projects for $39.75 million in shares, giving Cipher a significant equity stake in Canaan.
 
-Bitcoin Magazine • 1h ago
+Bitcoin Magazine • 2h ago
 
 ---
 
@@ -197,13 +197,13 @@ Barron's • 9h ago
 
 **[Bitcoin Break-Even Trap Is Killing Every Rally as Buyers Strike](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-break-even-trap-is-killing-every-rally-as-buyers-strike)**
 
-Bloomberg • 2h ago
+Bloomberg • 3h ago
 
 ---
 
 **[Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.](https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?gaa_at=eafs&gaa_n=AWEtsqcv6U8hUSAyp8shPN5kJ3TVCYgn33YAlgNtz0Vl1nVpFdPpcMrjbuCx&gaa_ts=699e0406&gaa_sig=lMmqInAVMVvGLHEObm-6jEmf2m7iZJJGOXfhpuKXce3qZQIapPROcv7NX3ZYM4htVDgfSS2BbFMYqR8UWsBvow%3D%3D)**
 
-MarketWatch • 23h ago
+MarketWatch • 1d ago
 
 ---
 
@@ -225,7 +225,7 @@ Forbes • 1d ago
 
 Could Ethereum really outperform Bitcoin this year? Harvard seems to think so.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -245,7 +245,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
-⬆️ 1 • 💬 1 • 4h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
+⬆️ 1 • 💬 1 • 5h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
 
 ---
 
@@ -267,7 +267,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 The Chicago-based company said it was temporarily suspending client deposits and withdrawals last week due to recent market and financial conditions.
 
-⬆️ 1 • 💬 0 • 7h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
+⬆️ 1 • 💬 0 • 8h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
 
 ---
 
@@ -275,7 +275,7 @@ The Chicago-based company said it was temporarily suspending client deposits and
 
 Singapore based BTC and AI miner sells all holdings to build liquidity for expansion, signaling a broader shift in capital strategy across the sector.
 
-⬆️ 1 • 💬 0 • 22h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/23/bitdeer-empties-bitcoin-treasury-as-miners-accelerate-industry-wide-ai-pivot)
+⬆️ 1 • 💬 0 • 23h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/23/bitdeer-empties-bitcoin-treasury-as-miners-accelerate-industry-wide-ai-pivot)
 
 ---
 
@@ -317,7 +317,7 @@ Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk
 
 📺 CNBC Television
 
-👁️ 32K • 👍 288 • 💬 329 • ⏱️ 3:54 • 21h ago
+👁️ 32K • 👍 288 • 💬 329 • ⏱️ 3:54 • 22h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Be
 
 📺 Simply Bitcoin
 
-👁️ 27K • 👍 2K • 💬 205 • ⏱️ 16:07 • 21h ago
+👁️ 27K • 👍 2K • 💬 205 • ⏱️ 16:07 • 22h ago
 
 ---
 
@@ -337,7 +337,7 @@ Iran war danger, software stock slaughter, and BTC, ETH, SOL charts BITUNIX TRAD
 
 📺 Lark Davis
 
-👁️ 17K • 👍 832 • 💬 107 • ⏱️ 16:06 • 8h ago
+👁️ 17K • 👍 832 • 💬 107 • ⏱️ 16:06 • 9h ago
 
 ---
 
@@ -397,7 +397,7 @@ After Bitcoin tapped levels below $65000 once again, Alex Miller with Stack Labs
 
 📺 Schwab Network
 
-👁️ 5K • 👍 53 • 💬 5 • ⏱️ 8:13 • 23h ago
+👁️ 5K • 👍 53 • 💬 5 • ⏱️ 8:13 • 1d ago
 
 ---
 
