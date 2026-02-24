@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T12:01:57.422419+00:00'
+updated: '2026-02-24T13:49:30.062635+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 12:01 UTC  
+**Last Updated:** February 24, 2026 at 13:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-12h ago
+14h ago
 
 ---
 
 **[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
 
-3h ago
+5h ago
 
 ---
 
 **[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-11h ago
+13h ago
 
 ---
 
@@ -62,7 +62,15 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-7h ago
+8h ago
+
+---
+
+**[A Complete SLAM(Simultaneous Localization and Mapping) Implementation for an Indoor Robot.](https://www.reddit.com/r/robotics/comments/1rde3bj/a_complete_slamsimultaneous_localization_and/)**
+
+I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
+
+2h ago
 
 ---
 
@@ -70,7 +78,7 @@ I’ve been working with my team on a small wheeled-leg robot recently, we wante
 
 If you're looking for a robot lawn mower that doesn't need boundary wires, here are a few models that keep coming up in 2026: Best Easy Setup Eufy E15 $2,299 at Amazon Best for Straight Lawns Husqvarna Automower 410 iQ $2,999 at Amazon Best Budget for Small Lawns Anthbot M5 $699 at Anthbot Best Choice for Medium-Sized Lawns Sunseeker X3 Plus $1,399.99 at Sunseeker Best for Large Lawns (Up to 2.5 Acres) Segway Navimow X390 $4,999 at Segway Best for Very Large Lawns (Up to 10 Acres) Kress Mission Mega RTK KR237 $14,999 at Kress Best Commercial-Grade Wire-Free Option Husqvarna Automower 450X EPOS $5,899 at Husqvarna Overall, what stood out to me is that most wire-free robot lawn mowers in 2026 are clearly split by lawn size and complexity. The smaller models seem aimed at convenience and price, while the higher-end ones are basically replacing traditional riding mowers for large properties. Also worth noting: a lot of these newer models rely heavily on RTK/satellite navigation, so yard layout, tree cover, and signal stability probably matter more than they used to. Definitely feels like the tech is maturing, but still not totally one-size-fits-all.
 
-1h ago
+2h ago
 
 ---
 
@@ -82,25 +90,19 @@ Unitree on 𝕏: https://x.com/UnitreeRobotics/status/2025844809144074249
 
 ---
 
-**[Need Tips for DIY Wind Turbine Project](https://www.reddit.com/r/robotics/comments/1rdbb4n/need_tips_for_diy_wind_turbine_project/)**
+**[Got a dream robotics job, that's all I ever wanted in my life, now I can't output any work, feeling hopeless, pls help.](https://www.reddit.com/r/robotics/comments/1rdgovs/got_a_dream_robotics_job_thats_all_i_ever_wanted/)**
 
-Hi everyone! I’m a working on a school project, and I decided to build a mini wind turbine using a motor. My main goals are: - Make it produce a consistent 1V–5V output (enough to show renewable energy in action). - Allow the turbine to rotate freely in any direction (vertical rotation setup). - Test it using a Gookodoq e-fan placed about 30 cm away as my wind source. So far, I’ve been experimenting with: - Picking the right motor that can balance torque and voltage. - Designing blades that are light but still catch wind effectively. - Building a mounting system that lets the turbine rotate smoothly without too much friction. I’d really appreciate advice from anyone who’s tried something similar: - What kind of motor worked best for you? - Any tips for keeping the voltage stable in the 1–5V range? - Blade designs or materials that you found effective? This project is both for learning and fun, so even small tips or photos of your own builds would mean a lot. Thanks in advance! 🙌
+I just started my dream job 3 months ago, I haven't contributed anything significant yet, last whole month I haven't been able to work at all, I am faking working to my colleagues. my colleagues are very helpful and super nice but, soon they are gonna find out, I am gonna loose job, even if I find another, it's gonna be the same result, I have heavy student loan, switching Carrers isn't option. I've no one to talk to who understands, only option I can see is ending it the easy way, pls show if there is any other option
 
-2h ago
-
----
-
-**[How are you handling networking / video / telemetry in your robotics projects?](https://www.reddit.com/r/robotics/comments/1rd9kr0/how_are_you_handling_networking_video_telemetry/)**
-
-4h ago
+1m ago
 
 ---
 
-**[Choix d’un système de transmission](https://www.reddit.com/r/robotics/comments/1rd9exz/choix_dun_système_de_transmission/)**
+**[Machine Learning’s Role in Industrial Robotics](https://www.reddit.com/r/robotics/comments/1rdfyg6/machine_learnings_role_in_industrial_robotics/)**
 
-Je suis en train de construire un bipède humanoïde et je suis confronté à des choix mécaniques. Qu’utilisez vous comme transmission servo-moteurs vers un axe d’articulation 1_ entraînement direct axe sur axe 2_ par came l’axe A est équipé d’une barre métallique perpendiculaire et le servomoteur du même système et un petit axe en bout des deux cames les relient 3_par engrenage
+Adoption is less about algorithms and more about integration and data quality. Legacy PLC and SCADA systems, siloed data, and unclear ownership of models can slow deployment. Success often depends on defining a specific operational goal first, building a clean data foundation, and scaling from validated pilot use cases.
 
-4h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/how-ai-and-ml-are-redefining-manufacturing-intelligence) • 33m ago
 
 ---
 
@@ -128,7 +130,7 @@ KPAX News • 1d ago
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
-CNBC • 21h ago
+CNBC • 23h ago
 
 ---
 
@@ -136,7 +138,7 @@ CNBC • 21h ago
 
 Robotic mowers are ditching wires for GPS. OEMs must now build complex data infrastructure or partner with specialists to scale.
 
-The Robot Report • 11h ago
+The Robot Report • 13h ago
 
 ---
 
@@ -144,7 +146,7 @@ The Robot Report • 11h ago
 
 AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
 
-MIT Technology Review • 18h ago
+MIT Technology Review • 20h ago
 
 ---
 
@@ -156,19 +158,19 @@ Business Wire • 1d ago
 
 ---
 
-**[Kraken Robotics: Attractive Business, Challenging Valuation (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4873255-kraken-robotics-attractive-business-challenging-valuation)**
-
-Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
-
-Seeking Alpha • 2d ago
-
----
-
 **[Tech companies are making their robots cute to try to win over humans](https://www.nbcnews.com/tech/tech-news/tech-companies-cute-robot-designs-win-over-humans-rcna259818)**
 
 Whether they’re delivering food or folding your laundry, consumer-facing robots are increasingly being designed to be more palatable to the humans who interact with them.
 
 NBC News • 1d ago
+
+---
+
+**[Kraken Robotics: Attractive Business, Challenging Valuation (OTCMKTS:KRKNF)](https://seekingalpha.com/article/4873255-kraken-robotics-attractive-business-challenging-valuation)**
+
+Kraken Robotics (KRKNF) shifts to commercialization in defense UUV/AUVs; Q3 growth driven by acquisitions, 2025 guide $120–135M. Read more macro analysis here.
+
+Seeking Alpha • 2d ago
 
 ---
 
@@ -180,11 +182,11 @@ South China Morning Post • 1d ago
 
 ---
 
-**[Middle school robotics league wraps up season](https://www.salemnews.net/news/neighborhood-news/2026/02/middle-school-robotics-league-wraps-up-season/)**
+**[How AI, automated labs and CDMOs are replacing agrifood’s 100-year-old R&D playbook](https://agfundernews.com/how-ai-automated-labs-and-cdmos-are-replacing-agrifoods-100-year-old-rd-playbook)**
 
-The CCESC VEX IQ Middle School Robotics League wrapped up its 2025–26 season with a competitive finals event held Saturday at the Columbiana County Career and Technical Center. Three teams earned qualification to compete in the Ohio VEX IQ Middle School Robotics State Championship, which will take place March 2–3 at the National Museum of […]
+The world's most critical challenges are accelerating at a rapid pace. The R&D methods tasked with solving them are not—until now.
 
-salemnews.net • 6h ago
+AgFunderNews • 2h ago
 
 ---
 
@@ -268,7 +270,7 @@ Following their performance on the Spring Festival Gala stage, where humanoid ro
 
 📺 CGTN
 
-👁️ 78K • 👍 2K • 💬 385 • ⏱️ 2:14 • 23h ago
+👁️ 78K • 👍 2K • 💬 385 • ⏱️ 2:14 • 1d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-24T12:01:57.404588+00:00'
+updated: '2026-02-24T13:49:30.045135+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 24, 2026 at 12:01 UTC  
+**Last Updated:** February 24, 2026 at 13:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falling 10%, after Anthropic announced an AI tool designed to streamline COBOL code modernization. Accenture (NYSE:ACN) and Cognizant Technology Solutions (NASDAQ:CTSH) also declined following the news.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 12h ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 14h ago
 
 ---
 
@@ -49,13 +49,21 @@ Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falli
 
 I predicted early in January that ai will discover new physics before 2028 is over, came earlier than expected.
 
-🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 4h ago
+🔗 [SciTechDaily](https://scitechdaily.com/ai-reveals-unexpected-new-physics-in-the-fourth-state-of-matter/) • 6h ago
 
 ---
 
 **[Big Tech to invest about $650 billion in AI in 2026, Bridgewater says](https://www.reddit.com/r/artificial/comments/1rcmgzy/big_tech_to_invest_about_650_billion_in_ai_in/)**
 
-🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 19h ago
+🔗 [reuters.com](https://www.reuters.com/business/big-tech-invest-about-650-billion-ai-2026-bridgewater-says-2026-02-23/) • 21h ago
+
+---
+
+**[Here is what I think Indian version of xianxia may be.](https://www.reddit.com/r/artificial/comments/1rdgk0g/here_is_what_i_think_indian_version_of_xianxia/)**
+
+ĀTMAYĀNA The Serpent Ascent This is a world where existence is layered, consciousness is structured, and power is the refinement of alignment between awareness and primordial force. Reality is not a ladder. It is a field of interwoven planes, currents, and laws. ⸻ COSMIC ORIGIN Before creation there is Mahāśūnya — the Great Silence. Mahāśūnya is not emptiness but potential unexpressed. It contains no direction, no vibration, no time. From Mahāśūnya emerges Ādi-Tattva, the Primordial Principle. It is the first differentiation: awareness and dynamism. Awareness is the unmoving witness. Dynamism is Śakti, the force of manifestation. All existence unfolds from the interplay of these two. ⸻ THE STRUCTURE OF EXISTENCE Creation is organized into interpenetrating planes called Lokas. Bhūloka is the physical realm. Matter, biology, kingdoms, creatures, and mortal life operate here. It is dense and karmically slow. Antarloka is the subtle realm. Spirits, dream-forms, wandering pranic entities, and unanchored consciousness move here. Thought has structure in this plane. Devaloka is the luminous realm. Devas, perfected beings, high mantra-forms, and stable astral constructs dwell here. Time flows differently. Tapoloka is the realm of accumulated ascetic heat. Great beings generating immense Tapas reside here. The atmosphere itself bends under spiritual pressure. Satyaloka is the plane of near-truth. Identity is thin here. Only those who have stabilized non-dual awareness can exist without fragmentation. Turīya is not a location but a state beyond plane classification. It is pure witnessing beyond vibration. All Lokas coexist, layered through frequency rather than distance. ⸻ THE SUBTLE BODY ARCHITECTURE Every conscious being possesses a subtle structure composed of: Nāḍīs — channels through which prāna flows. Chakras — nodal vortexes where consciousness and prāna interface. Kundalini — latent ascending force coiled at the root center. The seven primary chakra gates structure spiritual ascent: Muladhara anchors survival and stability. Svadhisthana governs desire and fluid identity. Manipura refines will and assertion. Anahata opens unity and emotional resonance. Vishuddha commands vibration and truth-expression. Ajna grants perception beyond linear time. Sahasrara dissolves separation between self and totality. Each gate is both empowerment and psychological trial. ⸻ THE GREAT ASCENT When Kundalini awakens and ascends through the chakras, consciousness expands in stages. If the ascent is forced without purification, fragmentation occurs. If stabilized through discipline, mantra, mudra, and guidance, the practitioner transcends physical limitation. When Kundalini pierces Sahasrara, Mahā-Udghāta occurs — the Great Surge. This event overwhelms identity with non-dual perception. Outcomes vary: Stabilization into enlightened embodiment. Ego fracture into fallen mysticism. Refusal of surrender leading to Asuric crystallization. Complete dissolution into liberation. ⸻ KARMIC STRUCTURE Karma is not moral reward or punishment. It is structural causality woven into existence. Every action modifies the field of probability and resonance. Advanced beings perceive karmic threads through Ajna awakening. Excessive imbalance triggers cosmic correction through events, beings, or inner collapse. Entire regions can accumulate karmic density, altering geography and creature ecology. ⸻ THE LAW OF ṚTA Ṛta is the underlying order of the cosmos. It governs cycles, balance, manifestation limits, and Śakti distribution. Even high beings operate within Ṛta unless they transcend it consciously. Ṛta correction manifests when force exceeds alignment. ⸻ MAHĀPURUṢA MANIFESTATION Those who accumulate immense karmic refinement begin expressing the Thirty-Two Great Marks. These are not cosmetic features but crystallizations of virtue and destiny. Such beings may become world rulers aligned with cosmic law or renounce authority for higher realization. ⸻ ŚAKTI CULTIVATION Beyond enlightenment lies the refinement of Śakti itself. Śakti expresses through three primary currents: Icchā — will-force Jñāna — knowledge-force Kriyā — action-force Balanced integration allows creative manifestation without destabilization. Imbalance results in destructive reality distortion. The highest state unifies awareness and Śakti without division. ⸻ CREATURE COSMOLOGY The world contains multiple intelligent non-human lineages. Nāgas govern subterranean knowledge and Kundalini mysteries. Garuḍas rule aerial dominion and perception currents. Yakshas guard mineral prana and sacred geography nodes. Gandharvas manipulate vibrational structures through sound. Apsaras influence desire and emotional resonance. Vanaras specialize in primal agility and animal alignment. Rakshasas arise from karmic distortion, battlefield residue, or corrupted ascension. Asuras are power-refined beings who reject surrender at the highest gate, cultivating will without dissolution. Each species has its own relationship to prāna and Śakti. ⸻ SACRED GEOGRAPHY Geography influences cultivation. Mountain peaks thin perception barriers. Deserts intensify will and austerity. Forests amplify life-prana and spirit interaction. River valleys cleanse karmic density but attract subtle entities. Cremation grounds concentrate death-energy suitable for forbidden practices. Cities and temples are constructed on pranic intersections. Architecture aligns with cosmic geometry to stabilize collective fields. ⸻ KINGDOMS AND CIVILIZATION Civilization operates with ancient material culture but advanced metaphysical science. Temples regulate prāna flows. Gurus anchor lineages and maintain transmission integrity. Kingdoms consult spiritual authorities for Astra regulation and karmic forecasting. Astras are mantra-bound weapons that alter elemental and karmic structure. Past catastrophic wars reshaped geography and creature balance. Śakti misuse remains the greatest existential threat. ⸻ THE CURRENT COSMIC BALANCE Devas, Asuras, Rakshasas, Nāgas, humans, and ascended beings coexist in tension. Guru lineages safeguard knowledge. Certain astras are sealed. Some Lokas are thinning. Śakti density is fluctuating. The field of existence is stable — but strained. ⸻ THE HIGHEST POSSIBILITY At the summit of ascent, identity and power are reconciled. Awareness no longer clings. Śakti flows without distortion. The being becomes neither ruler nor renunciate, neither Deva nor Asura. They become a living axis of reality — aligned with origin yet active within manifestation. Beyond that lies Mahāśūnya again. Silence. Potential. And the cycle continues.
+
+7m ago
 
 ---
 
@@ -63,7 +71,7 @@ I predicted early in January that ai will discover new physics before 2028 is ov
 
 We tested prompt repetition on 20 parallel AI agents. Ceiling effects dominated both experiments. The null result is a finding about evaluation design.
 
-🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 8h ago
+🔗 [Hugues Clouâtre - AI & Platform Engineering](https://clouatre.ca/posts/prompt-repetition-agent-evaluation/) • 10h ago
 
 ---
 
@@ -79,7 +87,7 @@ Researchers generated images from noise, using orders of magnitude less energy t
 
 "SeaCast is an innovative high-resolution forecasting system for the Mediterranean that harnesses AI to deliver faster and more energy-efficient predictions than traditional models. Unlike existing global AI models, which operate at lower resolutions and primarily rely on ocean data, SeaCast integrates both ocean and atmospheric variables, capturing complex regional dynamics. A paper describing the system is published in the journal Scientific Reports. SeaCast's graph-based neural network accounts for intricate coastlines and lateral boundary conditions, overcoming one of the major challenges in regional ocean forecasting. The model operates at a high resolution of about 4 km (1/24°), the same resolution as the CMCC Mediterranean operational forecasting system MedFS (which is coupled with a wave model and covers the full ocean depth), delivered through the Copernicus Marine Service, and produces forecasts down to a depth of 200 meters. This is made possible by training the model on CMCC Mediterranean reanalysis data, which are provided at the same resolution and are freely available through the Copernicus Marine website. SeaCast consistently outperforms the Copernicus operational model over the standard 10-day forecast horizon and extends predictions to 15 days. The efficiency gains are striking: while the operational numerical system requires around 70 minutes on 89 CPUs (central processing units, conventional processors used in most computers) to produce a 10-day forecast, SeaCast can generate a 15-day forecast in about 20 seconds using a single GPU, a highly efficient processor designed for parallel calculations and widely used in machine learning. These advancements are crucial for ocean and climate research. For example, SeaCast's improved computational speed enables rapid "what-if scenario" testing and probabilistic ensemble forecasts, where multiple simulations are used to better estimate forecast uncertainty—scientific tools that are invaluable not only for research, but also for coastal management and decision-making."
 
-🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 19h ago
+🔗 [phys.org](https://phys.org/news/2026-02-ai-day-mediterranean-sea-seconds.html) • 21h ago
 
 ---
 
@@ -91,6 +99,12 @@ I’ve been building an embodied AI system that can physically move around and i
 
 ---
 
+**[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
+
+🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 15h ago
+
+---
+
 **[‘An AlphaFold 4’ – scientists marvel at DeepMind drug spin-off’s exclusive new AI](https://www.reddit.com/r/artificial/comments/1rbrsl8/an_alphafold_4_scientists_marvel_at_deepmind_drug/)**
 
 Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scientists developing open-source tools are left guessing how to achieve similar results.
@@ -99,83 +113,49 @@ Isomorphic Lab’s proprietary drug-discovery model is a major advance, but scie
 
 ---
 
-**[ChatGPT spits out surprising insight in particle physics](https://www.reddit.com/r/artificial/comments/1rcvdj1/chatgpt_spits_out_surprising_insight_in_particle/)**
-
-🔗 [science.org](https://www.science.org/content/article/chatgpt-spits-out-surprising-insight-particle-physics) • 14h ago
-
----
-
-**[The prompt format that consistently beats free-form asking and why structure matters more than creativity](https://www.reddit.com/r/artificial/comments/1rcbrgg/the_prompt_format_that_consistently_beats/)**
-
-I've written 365+ prompts for enterprise use and the pattern is clear: structured prompts with boring, predictable formatting outperform creative or "clever" prompts every single time especially for professional settings. What do I mean by structure: Every prompt I've built follows the same skeleton: - Who are you ? (role/context) - What do you need? (specific task) - Constraints (what's in/out of scope) - Output format (exactly how you want it delivered) Why "creative" prompts fail in enterprise: They're not repeatable : If a clever prompt works for me but my colleague can't modify it for their use case, it's useless at scale. They're hard to debug : When a structured prompt gives bad output, you can identify which section needs fixing. When a creative prompt fails, you're starting from scratch. They don't transfer across models : A prompt that exploits a specific model's quirks breaks when you switch from GPT-4.1 to Claude to Copilot. Structure-based prompts transfer cleanly. They can't be governed : IT and compliance teams need to review and approve prompt templates. "Just ask it creatively" isn't a policy. The boring truth about prompt engineering: It's not engineering and it's not an art. It's technical writing. The same skills that make good documentation make good prompts: clarity, specificity, structure, and knowing your audience. The best prompt engineers I've met aren't AI researchers they're former technical writers, business analysts, and process designers. Am I wrong to push for standardization over creativity?
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Taleb, Citrini Fuel AI Scare Trade as IBM Drops Most in 25 Years](https://finance.yahoo.com/news/software-payments-shares-tumble-citrini-162303649.html)**
+**[Cybersecurity stocks drop for a second day as new Anthropic tool fuels AI disruption fears](https://www.cnbc.com/2026/02/23/cybersecurity-stocks-anthropic-ai-crowdstrike.html)**
 
-DoorDash Inc., American Express Co., KKR & Co Inc. and Blackstone Inc all slumped more than 8%.  Shares of other companies name-checked in the article, including Uber Technologies Inc., Mastercard Inc., Visa Inc., Capital One Financial Corp. and Apollo Global Management Inc. were all lower by at least 3%.
+Cybersecurity stocks are the latest to see sell-off pressure as AI threatens to upend software companies.
 
-Yahoo Finance • 14h ago
-
----
-
-**[IBM is the latest AI casualty. Shares tank 13% on Anthropic programming language threat](https://www.cnbc.com/2026/02/23/ibm-is-the-latest-ai-casualty-shares-are-tanking-on-anthropic-cobol-threat.html)**
-
-COBOL is a computer language used for business data processing and IBM is a leader in that area.
-
-CNBC • 16h ago
+CNBC • 20h ago
 
 ---
 
-**[IBM, CrowdStrike, Other AI-Battered Stocks Struggle to Rebound. It’s a Long Road Back.](https://www.barrons.com/articles/ibm-stock-crowdstrike-datadog-anthropic-ai-015ce5d1?gaa_at=eafs&gaa_n=AWEtsqcoBcHN2-GnuZcWH_asAzwI9u9rZf9V69djUhXWi1gOjkVyVFq6BHbg&gaa_ts=699d8d9d&gaa_sig=35bH_I-sWZV_Fv7O2ArSVF9tzZ3Voo3rzFtxyaCmClHvF3lgDDbSu3m_X-mM3ilOZEDWqIjCaTclbRX6Ptk9Dw%3D%3D)**
+**[Anthropic Education Report: The AI Fluency Index](https://www.anthropic.com/research/AI-fluency-index)**
 
-Barron's • 1h ago
+Anthropic's AI Fluency Index measures 11 observable behaviors across thousands of Claude.ai conversations to understand how people develop AI collaboration skills.
 
----
-
-**[Opinion | New York Democrats Have a Chance to Vote Against the A.I. Oligarchs](https://www.nytimes.com/2026/02/23/opinion/alex-bores-ai-democrats.html)**
-
-The New York Times • 11h ago
+Anthropic • 22h ago
 
 ---
 
-**[Exclusive: AI advocacy group touts 500,000 supporters](https://www.axios.com/2026/02/24/ai-advocacy-group-touts-supporters)**
+**[Meta and AMD set huge AI chips pact](https://www.axios.com/2026/02/24/ai-meta-amd-chips)**
 
-Axios • 2h ago
-
----
-
-**[How AI is making travel scams nearly impossible to spot](https://www.usatoday.com/story/travel/columnist/2026/02/24/travel-booking-ai-scams/88777288007/)**
-
-Cybersecurity experts reveal how AI-generated messages and fake sites are scamming travelers, and the red flags to watch.
-
-USA Today • 1h ago
+Axios • 45m ago
 
 ---
 
-**[BlackRock Backs Dutch Chipmaker Axelera AI in $250 Million Round](https://www.bloomberg.com/news/articles/2026-02-24/blackrock-backs-dutch-chipmaker-axelera-ai-in-250-million-round)**
+**[Meta and AMD Agree to AI Chips Deal Worth More Than $100 Billion](https://www.wsj.com/tech/ai/meta-and-amd-agree-to-ai-chips-deal-worth-more-than-100-billion-9c7fd06b?gaa_at=eafs&gaa_n=AWEtsqe537uOCpy0sqrXR0_K7Lc9qT8knAquns9B69EdD5IuD2oVDwXMZkCy&gaa_ts=699dafce&gaa_sig=4zccmYrk5gXTD-ee2FNaFNJVhvoNbahSStt8UL9tRLkQgVy71gw_VXtICQpj3ITJI4pIritaTHDC6EIvPZrSzg%3D%3D)**
 
-Bloomberg.com • 1h ago
-
----
-
-**[Exclusive: China's DeepSeek trained AI model on Nvidia's best chip despite US ban, official says](https://www.reuters.com/world/china/chinas-deepseek-trained-ai-model-nvidias-best-chip-despite-us-ban-official-says-2026-02-24/)**
-
-Reuters • 11h ago
+WSJ • 34m ago
 
 ---
 
-**[Chinese AI companies 'distilled' Claude to improve own models, Anthropic says](https://www.nbcnews.com/world/asia/chinese-ai-companies-distilled-claude-improve-models-anthropic-says-rcna260386)**
+**[Meta strikes AI chip deal with AMD days after committing to deploy millions of Nvidia GPUs](https://www.cnbc.com/2026/02/24/meta-to-use-6gw-of-amd-gpus-days-after-expanded-nvidia-ai-chip-deal.html)**
 
-DeepSeek, Moonshot and MiniMax created more than 16 million interactions with Claude using roughly 24,000 fake accounts, the U.S. company said in a blog post.
+AMD has secured Meta as a customer for its Helios rack-scale system, as Nvidia's Blackwell faces heightened competition.
 
-NBC News • 1h ago
+CNBC • 1h ago
+
+---
+
+**[Brookfield Buys Chips-for-Rent Firm Ori, Revving Up Bet on AI](https://www.bloomberg.com/news/articles/2026-02-24/brookfield-buys-chips-for-rent-firm-ori-revving-up-bet-on-ai)**
+
+Bloomberg • 48m ago
 
 ---
 
@@ -183,7 +163,29 @@ NBC News • 1h ago
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-Anthropic • 17h ago
+Anthropic • 19h ago
+
+---
+
+**[Are China’s ‘AI tigers’ cheating? US rival Anthropic alleges some are](https://www.cnn.com/2026/02/24/tech/anthropic-chinese-ai-distillation-intl-hnk)**
+
+Top United States artificial intelligence firm Anthropic is accusing three prominent Chinese AI labs of illegally extracting capabilities from its Claude model to advance their own, claiming it raises national security concerns.
+
+CNN • 7h ago
+
+---
+
+**[Anthropic joins OpenAI in flagging 'industrial-scale' distillation campaigns by Chinese AI firms](https://www.cnbc.com/2026/02/24/anthropic-openai-china-firms-distillation-deepseek.html)**
+
+Anthropic accused three Chinese artificial intelligence enterprises of engaging in coordinated distillation campaigns, the latest American tech firm to do so.
+
+CNBC • 1h ago
+
+---
+
+**[Pentagon Summons Anthropic Chief in Dispute Over A.I. Limits](https://www.nytimes.com/2026/02/23/us/politics/pentagon-anthropic-ai.html)**
+
+The New York Times • 15h ago
 
 ---
 
@@ -195,7 +197,7 @@ Anthropic • 17h ago
 
 We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.
 
-⬆️ 1186 • 💬 656 • 1d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
+⬆️ 1206 • 💬 673 • 1d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
 
 ---
 
@@ -203,13 +205,13 @@ We're adopting Rust as our C++ successor language, and using AI agents to accele
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 791 • 💬 685 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 793 • 💬 686 • 1d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
 **[Pope tells priests to use their brains, not AI, to write homilies](https://news.ycombinator.com/item?id=47119210)**
 
-⬆️ 549 • 💬 435 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
+⬆️ 553 • 💬 438 • 1d ago • [ewtnnews.com](https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies)
 
 ---
 
@@ -218,7 +220,7 @@ I’m seeking assistance regarding a sudden restriction on my Google AI Ultra ac
 My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
 During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
 
-⬆️ 374 • 💬 302 • 14h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+⬆️ 396 • 💬 320 • 16h ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 
 ---
 
@@ -226,15 +228,7 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
 
 The latest update of Firefox, version 148, introduces a much-anticipated "AI kill switch" feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company’s new revenue-focused strategy regarding AI integrations. […]
 
-⬆️ 281 • 💬 229 • 6h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
-
----
-
-**[zclaw: personal AI assistant in under 888 KB, running on an ESP32](https://news.ycombinator.com/item?id=47100232)**
-
-Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, memory, and more. - tnm/zclaw
-
-⬆️ 279 • 💬 149 • 2d ago • [GitHub](https://github.com/tnm/zclaw)
+⬆️ 336 • 💬 285 • 8h ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 
 ---
 
@@ -242,7 +236,7 @@ Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an E
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 253 • 💬 245 • 13h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 260 • 💬 250 • 14h ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -254,11 +248,19 @@ BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled bina
 
 ---
 
+**[IDF Killed Gaza Aid Workers at Point Blank Range in 2025 Massacre: Report](https://news.ycombinator.com/item?id=47136179)**
+
+A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
+
+⬆️ 203 • 💬 49 • 1h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+
+---
+
 **[Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)](https://news.ycombinator.com/item?id=47119871)**
 
 Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
 
-⬆️ 159 • 💬 55 • 1d ago • [LLM Timeline](https://llm-timeline.com/)
+⬆️ 162 • 💬 56 • 1d ago • [LLM Timeline](https://llm-timeline.com/)
 
 ---
 
@@ -280,7 +282,7 @@ I made ai create my very own all in one AI webapp! This was definitely interesti
 
 📺 tef
 
-👁️ 13K • 👍 1K • 💬 239 • ⏱️ 8:46 • 16h ago
+👁️ 13K • 👍 1K • 💬 239 • ⏱️ 8:46 • 18h ago
 
 ---
 
@@ -290,7 +292,7 @@ He worked inside the AI industry — until he was suddenly laid off. Now he's sp
 
 📺 Jay Reed
 
-👁️ 37K • 👍 3K • 💬 668 • ⏱️ 9:01 • 17h ago
+👁️ 37K • 👍 3K • 💬 668 • ⏱️ 9:01 • 19h ago
 
 ---
 
@@ -310,7 +312,7 @@ People keep asking if I'm AI… so I decided to actually test it. As a computer 
 
 📺 House of El
 
-👁️ 88K • 👍 9K • 💬 2K • ⏱️ 5:22 • 18h ago
+👁️ 88K • 👍 9K • 💬 2K • ⏱️ 5:22 • 19h ago
 
 ---
 
@@ -330,7 +332,7 @@ My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
 
 📺 AI News & Strategy Daily | Nate B Jones
 
-👁️ 129K • 👍 5K • 💬 731 • ⏱️ 36:37 • 21h ago
+👁️ 129K • 👍 5K • 💬 731 • ⏱️ 36:37 • 22h ago
 
 ---
 
@@ -338,7 +340,7 @@ My site: https://natebjones.com Full Story w/ Guide & Prompts: ...
 
 📺 Matt Storer
 
-👁️ 176K • 👍 9K • 💬 104 • ⏱️ 0:27 • 59m ago
+👁️ 176K • 👍 9K • 💬 104 • ⏱️ 0:27 • 2h ago
 
 ---
 
@@ -358,7 +360,7 @@ Cute baby Gave His Mother A Beautiful White flying Horse #ai #cute #shorts.
 
 📺 green screen mahtab1m
 
-👁️ 11K • 💬 2 • ⏱️ 0:24 • 5h ago
+👁️ 11K • 💬 2 • ⏱️ 0:24 • 7h ago
 
 ---
 
@@ -384,7 +386,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 390,092 • ❤️ 974 • 22h ago
+⬇️ 390,092 • ❤️ 974 • 23h ago
 
 ---
 
@@ -492,7 +494,7 @@ ZUNA is a 380M-parameter EEG foundation model capable of denoising, reconstructi
 
 `382.0M`
 
-⬇️ 1,351 • ❤️ 121 • 13h ago
+⬇️ 1,351 • ❤️ 121 • 15h ago
 
 ---
 
@@ -637,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 18.3k • 🔱 2.2k • 4m ago
+⭐ 18.3k • 🔱 2.2k • 1h ago
 
 ---
 
@@ -655,7 +657,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.4k • 🔱 661 • 2h ago
+⭐ 5.4k • 🔱 661 • 4h ago
 
 ---
 
@@ -675,7 +677,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.4k • 🔱 337 • 10h ago
+⭐ 3.4k • 🔱 337 • 11h ago
 
 ---
 
@@ -685,7 +687,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.1k • 🔱 406 • 6h ago
+⭐ 3.1k • 🔱 406 • 8h ago
 
 ---
 
@@ -695,7 +697,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.7k • 🔱 188 • 2h ago
+⭐ 2.7k • 🔱 188 • 4h ago
 
 ---
 
@@ -705,7 +707,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.7k • 🔱 306 • 9h ago
+⭐ 2.7k • 🔱 306 • 10h ago
 
 ---
 
@@ -715,7 +717,7 @@ All-in-one AI framework & toolkit
 
 `Python` `ai-agent` `ai-coding` `claude-code` `cli` `codex`
 
-⭐ 2.6k • 🔱 131 • 3h ago
+⭐ 2.6k • 🔱 131 • 5h ago
 
 ---
 
@@ -725,7 +727,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.3k • 🔱 449 • 5h ago
+⭐ 2.3k • 🔱 449 • 7h ago
 
 ---
 
