@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-24T04:30:37.362082+00:00'
+updated: '2026-02-24T05:44:38.889993+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 24, 2026 at 04:30 UTC  
+**Last Updated:** February 24, 2026 at 05:44 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,342.30
+### $63,000.45
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -4.9%  
-**30d:** -28.4%  
-**90d:** -30.9%  
-**1y:** -28.8%  
+**24h:** -4.3%  
+**7d:** -5.3%  
+**30d:** -28.8%  
+**90d:** -31.2%  
+**1y:** -29.1%  
 
 ---
 
@@ -79,43 +79,7 @@ Rank #1
 
 **[I still love this short Bitcoin explanation](https://www.reddit.com/r/Bitcoin/comments/1rcitoa/i_still_love_this_short_bitcoin_explanation/)**
 
-14h ago
-
----
-
-**[Just hit 0.1 coin. A proud moment.](https://www.reddit.com/r/Bitcoin/comments/1rcbe8j/just_hit_01_coin_a_proud_moment/)**
-
-20h ago
-
----
-
-**[Cold Storage Washers](https://www.reddit.com/r/Bitcoin/comments/1rcfecn/cold_storage_washers/)**
-
-Easy way to stamp your seed onto stainless steel washers. Any hardware store sells 1 inch washers for so cheap (avoid zinc plated due to lower melting point in case of a fire). After a couple hours of using a mallet, it is nice to know stainless should last a hell of a lot longer than paper.
-
-16h ago
-
----
-
-**[ok this is funny and true "the monkey brain, it doesn’t compute well with bitcoin’s volatility"](https://www.reddit.com/r/Bitcoin/comments/1rcpm4r/ok_this_is_funny_and_true_the_monkey_brain_it/)**
-
-9h ago
-
----
-
-**[Buy when People sell](https://www.reddit.com/r/Bitcoin/comments/1rcng23/buy_when_people_sell/)**
-
-$BTCUSD i’m sorry, but I have to say something all you people are so emotional and nearsighted. That’s true bitcoin has fallen from 100,000 to where it’s at now but honestly, what did you expect it to just continuously go up? It’s still a relatively new asset. If you bought it the tippy top and or down money that’s your own fault. Bitcoin is a store of value in a time of economic uncertainty which we’re living in for that reason and there’s no way this is gonna go to zero it doesn’t benefit anyone remember the only way to make money is to buy when people are fearful and selling. If you think you wanna sell at the bottom of a pullback be my guest, but I’m buying right now
-
-11h ago
-
----
-
-**[If you’re thinking long term, how do you decide when to start buying Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rd0ytg/if_youre_thinking_long_term_how_do_you_decide/)**
-
-I’ve been looking at Bitcoin from more of a long-term angle rather than trying to trade it. The part I’m stuck on is timing. For those of you who plan to hold for years, how did you decide when to actually start buying? Did you just begin and stick to a plan, or did you wait for certain conditions before getting in?
-
-2h ago
+15h ago
 
 ---
 
@@ -123,7 +87,51 @@ I’ve been looking at Bitcoin from more of a long-term angle rather than trying
 
 I almost sold, tired of this red candle. Holding 1 BTC since 2017. Never sold. I almost just did it. One click away. Give me some strength guys! Some strength to hit buy instead
 
-45m ago
+1h ago
+
+---
+
+**[Just hit 0.1 coin. A proud moment.](https://www.reddit.com/r/Bitcoin/comments/1rcbe8j/just_hit_01_coin_a_proud_moment/)**
+
+21h ago
+
+---
+
+**[Cold Storage Washers](https://www.reddit.com/r/Bitcoin/comments/1rcfecn/cold_storage_washers/)**
+
+Easy way to stamp your seed onto stainless steel washers. Any hardware store sells 1 inch washers for so cheap (avoid zinc plated due to lower melting point in case of a fire). After a couple hours of using a mallet, it is nice to know stainless should last a hell of a lot longer than paper.
+
+17h ago
+
+---
+
+**[ok this is funny and true "the monkey brain, it doesn’t compute well with bitcoin’s volatility"](https://www.reddit.com/r/Bitcoin/comments/1rcpm4r/ok_this_is_funny_and_true_the_monkey_brain_it/)**
+
+11h ago
+
+---
+
+**[Buy when People sell](https://www.reddit.com/r/Bitcoin/comments/1rcng23/buy_when_people_sell/)**
+
+$BTCUSD i’m sorry, but I have to say something all you people are so emotional and nearsighted. That’s true bitcoin has fallen from 100,000 to where it’s at now but honestly, what did you expect it to just continuously go up? It’s still a relatively new asset. If you bought it the tippy top and or down money that’s your own fault. Bitcoin is a store of value in a time of economic uncertainty which we’re living in for that reason and there’s no way this is gonna go to zero it doesn’t benefit anyone remember the only way to make money is to buy when people are fearful and selling. If you think you wanna sell at the bottom of a pullback be my guest, but I’m buying right now
+
+12h ago
+
+---
+
+**[If you’re thinking long term, how do you decide when to start buying Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rd0ytg/if_youre_thinking_long_term_how_do_you_decide/)**
+
+I’ve been looking at Bitcoin from more of a long-term angle rather than trying to trade it. The part I’m stuck on is timing. For those of you who plan to hold for years, how did you decide when to actually start buying? Did you just begin and stick to a plan, or did you wait for certain conditions before getting in?
+
+4h ago
+
+---
+
+**[2nd day in a row Bitcoin dumped at 8 pm Eastern time - Why?](https://www.reddit.com/r/Bitcoin/comments/1rd2mqe/2nd_day_in_a_row_bitcoin_dumped_at_8_pm_eastern/)**
+
+This is the second day in a row Bitcoin and really all crypto started dumping hard right at 8 pm Eastern. Anyone have any insights? Two days in a row dumping at the same time is definitely eyebrow raising. Which global markets open at 8 pm Eastern? The dump was across the crypto board--not just BTC.
+
+3h ago
 
 ---
 
@@ -131,21 +139,15 @@ I almost sold, tired of this red candle. Holding 1 BTC since 2017. Never sold. I
 
 James Check aka Checkmatey makes a great point here, that when investors demand physical delivery it is a forcing function for price to be accurately reflected in the market, whether it's gold or bitcoin. The more people who buy bitcoin and remove it from exchanges, the better.
 
-11h ago
+12h ago
 
 ---
 
-**[Almost at the end of the month 🙏](https://www.reddit.com/r/Bitcoin/comments/1rc0ddm/almost_at_the_end_of_the_month/)**
+**[🚀 Bitcoin Outlook for 2026: Is this an opportunity or the beginning of another](https://www.reddit.com/r/Bitcoin/comments/1rd63wm/bitcoin_outlook_for_2026_is_this_an_opportunity/)**
 
-1d ago
+🚀 Bitcoin Outlook for 2026: Is this an opportunity or the beginning of another decline?
 
----
-
-**[Advice For a New Buyer](https://www.reddit.com/r/Bitcoin/comments/1rcvofq/advice_for_a_new_buyer/)**
-
-Hey guys, I am very new to buying Bitcoin, and in this recent drop, I decided to dabble in some BTC. I bought 2k at 95K and then 1350 at 88k, Now i have no problem with holding as this is a amount i am comfroatble with putting in and jsut leaving but I was wondering, with market expecting to drop more if there is a short peak where it rebounds to like 93-94 would it be worth selling my 2K at a small loss and then rebuying when it dips lower. Appreciate any advice or guidance I can get, as I am new to this stuff, but I really want to get into investing! Thanks. (all amounts in CAD) EDIT: I truly appreciate all the advice, thank you everyone!!
-
-6h ago
+🔗 [루원부부의 일상❤️](https://redduck.tistory.com/m/entry/%F0%9F%9A%80-Bitcoin-Outlook-for-2026-Is-this-an-opportunity-or-the-beginning-of-another) • 1h ago
 
 ---
 
@@ -165,51 +167,33 @@ CNBC • 1d ago
 
 Aggregate Bitcoin ETF allocations among the largest hedge fund holders fell 28% from the third to the fourth quarter of 2025, according to data compiled by CF Benchmarks, a wholly-owned subsidiary of crypto exchange Kraken.  Bitcoin is down almost 50% from its October peak of over $126,000.  “The dominant theme over the last two quarters was hedge fund de-risking,” Gabe Selby, head of research at CF Benchmarks, wrote in a Feb. 19 research note.
 
-Yahoo Finance • 18h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Mystery Hong Kong investor in BlackRock's bitcoin ETF breaks silence after $436 million stake sparks controversy](https://www.coindesk.com/markets/2026/02/23/mystery-hong-kong-investor-in-blackrock-s-bitcoin-etf-breaks-silence-after-usd436-million-stake-sparks-controversy)**
+**[Mystery Hong Kong investor in BlackRock's bitcoin ETF breaks silence — only to spark more questions](https://www.coindesk.com/markets/2026/02/23/mystery-hong-kong-investor-in-blackrock-s-bitcoin-etf-breaks-silence-after-usd436-million-stake-sparks-controversy)**
 
 Laurore Ltd.’s $436 Million BlackRock IBIT stake reflects “personal investment conviction,” a spokesperson said, as Hong Kong filings link it to Zhang Hui.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.](https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?gaa_at=eafs&gaa_n=AWEtsqdc9yeF9XJVWbMlZPFinTd2Sun7RIAQTHMQaXQzf28sB0uHxjYJ27wd&gaa_ts=699d2ccb&gaa_sig=ofZAPgWEcJ8vNnhc05RXAPKEKNZyQse3O55BaIXC04VH7jWqaESEk9GU2otDtsKUjbYh6UI9oxqpZ3i5o-7-5g%3D%3D)**
+**[Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.](https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?gaa_at=eafs&gaa_n=AWEtsqczOMrC7_bUNgaHno32oMN0MW3bol-k4p4k388oUNRcpJY6WWv_Ogmo&gaa_ts=699d3e2e&gaa_sig=2wBGL9EeddoW3huqvm55G3zbA2btFLKdFJNgHDI2cW7I7pTslary9hAw_fYGXZIFbNIKjDfPpqan0mcJaXFJAg%3D%3D)**
 
-MarketWatch • 8h ago
-
----
-
-**[Bitcoin extends decline, falling over 5% to below $64,000](https://www.cnbc.com/2026/02/24/bitcoin-extends-decline-falling-below-64000-btc-trump-tariffs-ai-crypto.html)**
-
-Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
-
-CNBC • 59m ago
+MarketWatch • 9h ago
 
 ---
 
-**[Bitcoin's Slide to $64,000 Is a 'Macro Shock,' Not a Market Breakdown](https://finance.yahoo.com/news/bitcoins-slide-64-000-macro-031906164.html)**
+**[Bitcoin Heads for Worst Month Since Crypto Collapse of June 2022](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-btc-heads-for-worst-month-since-june-2022-crypto-winter)**
 
-Bitcoin's 50% drop from its October peak is a macro shock in an overleveraged market, not a broken cycle, experts claim.
-
-Yahoo Finance • 1h ago
+Bloomberg • 36m ago
 
 ---
 
-**[Abundant Mines CEO says Bitcoin mining now offers 100% first-year tax write-off](https://finance.yahoo.com/news/abundant-mines-ceo-says-bitcoin-015400017.html)**
+**[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqfgt24DXIVuq0dbew561ytMQJsGMWoGmyiGsoPjwbX6R4lvzrLtt5mH&gaa_ts=699d3e2e&gaa_sig=b5rpYp7O83JnTRX1HAGa9jLIgepSKQacQBWgT-G2gwG81coJbeXTmbeCmFFB9oN6kRAS0efMpCylIgewBnBKRQ%3D%3D)**
 
-As tax season approaches, Bitcoin mining is drawing renewed attention for reasons that have little to do with hash rate or price forecasts. Changes to U.S. tax law have turned mining equipment into one of the most aggressive write-off strategies available to investors willing to own the hardware. ...
-
-Yahoo Finance • 2h ago
-
----
-
-**[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqd3ePJGfGgRu1sdU_0rGl_hLlCxxmoQG8HzZSJ5FzhNbCKmf8FgwsuD&gaa_ts=699d2ccb&gaa_sig=lpiVIznJK21r4Khxs8jXp3mlMTe9_bP4SNcj8arOxvBRY87jE8ZkVqUAjHy6B_g4LfWfKHKibnaSTDybeSB3Tg%3D%3D)**
-
-MarketWatch • 10h ago
+MarketWatch • 11h ago
 
 ---
 
@@ -217,15 +201,31 @@ MarketWatch • 10h ago
 
 Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $47.5 billion.
 
-The Block • 15h ago
+The Block • 16h ago
 
 ---
 
-**[Michael Saylor Hints at Strategy’s 100th Bitcoin Buy: Why Corporate Accumulation Still Matters](https://finance.yahoo.com/news/michael-saylor-hints-strategy-100th-072956273.html)**
+**[When Bitcoin prices turned against Michael Saylor, he quietly pivoted to a risky financial gambit at Strategy](https://fortune.com/2026/02/20/michael-saylor-bitcoin-prices-preferred-shares-dilution-strategy/)**
 
-Michael Saylor’s firm, Strategy (formerly MicroStrategy), is about to make its 100th Bitcoin purchase. The company currently hodls a massive 717,131 BTC, accumulated steadily since August 2020. Despite recent market volatility and unrealized losses on their holdings, Saylor’s latest hint suggests the company shows no signs of slowing down. Saylor ...
+Saylor has been offseting the Bitcoin drag by reverting to different and dangerous scheme: Issuing tons of preferred stock.
 
-Yahoo Finance • 21h ago
+Fortune • 3d ago
+
+---
+
+**[What Happens If Bitcoin Crashes Below $60,000? Bears Are Winning Right Now](https://bitcoinmagazine.com/markets/bitcoin-weekly-close-weakens-65650-support-fails-60000-next-major-test)**
+
+Bitcoin just smashed through major support – here's why bears could drag it all the way to $60,000 (or lower) this week, and what it means for your stack.
+
+Bitcoin Magazine • 4h ago
+
+---
+
+**[How Accurate Are Polymarket's Bets on $150,000 Bitcoin, Really? A Long-Term Investor's Take on Short-Term Crypto Odds](https://www.fool.com/investing/2026/02/23/how-accurate-are-polymarkets-bets-on-150000-bitcoi/)**
+
+Could Bitcoin more than double by the end of the year?
+
+The Motley Fool • 10h ago
 
 ---
 
@@ -265,7 +265,7 @@ Distributed GPU computing platform searching for Bitcoin private keys generated 
 
 Singapore based BTC and AI miner sells all holdings to build liquidity for expansion, signaling a broader shift in capital strategy across the sector.
 
-⬆️ 1 • 💬 0 • 7h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/23/bitdeer-empties-bitcoin-treasury-as-miners-accelerate-industry-wide-ai-pivot)
+⬆️ 1 • 💬 0 • 8h ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/23/bitdeer-empties-bitcoin-treasury-as-miners-accelerate-industry-wide-ai-pivot)
 
 ---
 
@@ -313,7 +313,7 @@ Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk
 
 📺 CNBC Television
 
-👁️ 13K • 👍 129 • 💬 150 • ⏱️ 3:54 • 6h ago
+👁️ 13K • 👍 129 • 💬 150 • ⏱️ 3:54 • 7h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Be
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 1K • 💬 132 • ⏱️ 16:07 • 6h ago
+👁️ 13K • 👍 1K • 💬 132 • ⏱️ 16:07 • 7h ago
 
 ---
 
@@ -333,7 +333,7 @@ Raoul Pal just revealed why Bitcoin is trading at a MASSIVE discount to fair val
 
 📺 Money Talks
 
-👁️ 5K • 👍 135 • 💬 24 • ⏱️ 14:56 • 9h ago
+👁️ 5K • 👍 135 • 💬 24 • ⏱️ 14:56 • 11h ago
 
 ---
 
@@ -343,7 +343,7 @@ Caitlin Long is the founder and CEO of Custodia Bank and a pioneer at the inters
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 799 • 💬 25 • ⏱️ 22:43 • 6h ago
+👁️ 17K • 👍 799 • 💬 25 • ⏱️ 22:43 • 7h ago
 
 ---
 
@@ -353,7 +353,7 @@ Michael Saylor returns to answer every question Natalie Brunell throws at him �
 
 📺 Natalie Brunell
 
-👁️ 104K • 👍 4K • 💬 2K • ⏱️ 1:51:55 • 15h ago
+👁️ 104K • 👍 4K • 💬 2K • ⏱️ 1:51:55 • 16h ago
 
 ---
 
@@ -363,7 +363,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 10K • 👍 348 • 💬 17 • ⏱️ 1:05 • 9h ago
+👁️ 10K • 👍 348 • 💬 17 • ⏱️ 1:05 • 10h ago
 
 ---
 
@@ -373,7 +373,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 20K • 👍 1K • 💬 128 • ⏱️ 44:12 • 13h ago
+👁️ 20K • 👍 1K • 💬 128 • ⏱️ 44:12 • 14h ago
 
 ---
 
@@ -383,7 +383,7 @@ Something big is about to happen to bitcoin and may have an opposite effect, con
 
 📺 Alessio Rastani
 
-👁️ 37K • 👍 2K • 💬 399 • ⏱️ 17:51 • 12h ago
+👁️ 37K • 👍 2K • 💬 399 • ⏱️ 17:51 • 13h ago
 
 ---
 
@@ -401,7 +401,7 @@ After Bitcoin tapped levels below $65000 once again, Alex Miller with Stack Labs
 
 📺 Schwab Network
 
-👁️ 3K • 👍 37 • 💬 3 • ⏱️ 8:13 • 8h ago
+👁️ 3K • 👍 37 • 💬 3 • ⏱️ 8:13 • 9h ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-24T04:30:37.368162+00:00'
+updated: '2026-02-24T05:44:38.895611+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - cryptocurrency
-- videos
 - social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 24, 2026 at 04:30 UTC  
+**Last Updated:** February 24, 2026 at 05:44 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,814.45
+### $1,837.97
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.9%  
-**7d:** -6.5%  
-**30d:** -37.6%  
-**90d:** -39.3%  
-**1y:** -26.7%  
+**24h:** -3.1%  
+**7d:** -6.8%  
+**30d:** -37.8%  
+**90d:** -39.5%  
+**1y:** -27.0%  
 
 ---
 
@@ -68,17 +68,17 @@ No max supply
 
 ## Reddit: r/ethereum
 
+**[Best way to restake rETH?](https://www.reddit.com/r/ethereum/comments/1rd5lq8/best_way_to_restake_reth/)**
+
+1h ago
+
+---
+
 **[Daily General Discussion February 23, 2026](https://www.reddit.com/r/ethereum/comments/1rc9j78/daily_general_discussion_february_23_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
-
----
-
-**[Best way to restake rETH?](https://www.reddit.com/r/ethereum/comments/1rd5lq8/best_way_to_restake_reth/)**
-
-1m ago
+23h ago
 
 ---
 
@@ -86,13 +86,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Simple little tool for encoding function calls according to the eth abi. I've seen a few other sites out there, but most of them have been pretty awkward to use so I made this one.
 
-🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 12h ago
+🔗 [hashing101.com](https://hashing101.com/tools/eth-abi-encoder/) • 13h ago
 
 ---
 
 **[Telegram bot for audit contest updates (Sherlock, Code4rena, Cantina, Immunefi)](https://www.reddit.com/r/ethereum/comments/1rctimq/telegram_bot_for_audit_contest_updates_sherlock/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -100,7 +100,7 @@ Simple little tool for encoding function calls according to the eth abi. I've se
 
 World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, Podcasts, Upcoming Events & Jobs
 
-🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 15h ago
+🔗 [EtherWorld.co](https://etherworld.co/etherworld-weekly-edition-352/) • 16h ago
 
 ---
 
@@ -152,7 +152,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The Ethereum Foundation named former DELV CEO Charles St. Louis as DeFi Protocol Specialist and ivangbi as DeFi Coordinator.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
@@ -160,7 +160,7 @@ The Block • 6h ago
 
 A consortium of banks is building its own version of blockchain—it will be hard pressed to make it work.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
@@ -168,23 +168,7 @@ Fortune • 16h ago
 
 Major institutional investors have substantially raised their holdings in Bitmine Immersion Technologies (NYSEAM:BMNR). The move aligns with Bitmine’s record accumulation of Ethereum tokens and a larger combined asset base. The company has launched a new "Made in America Validator Network" focused on Ethereum infrastructure. Bitmine Immersion Technologies, trading at $19.22, has had a mixed return profile, with the stock up 163.4% over the past year but showing a 33.3% decline over the past...
 
-Yahoo Finance Singapore • 1h ago
-
----
-
-**[Ethereum Founder Vitalik Buterin Continues ETH Selling Spree](https://decrypt.co/358839/ethereum-founder-vitalik-buterin-continues-eth-selling-spree)**
-
-Ethereum founder Vitalik Buterin has been selling ETH in the last few days as the second-largest crypto asset continues its fall.
-
-Decrypt • 11h ago
-
----
-
-**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
-
-Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
-
-Yahoo Finance • 15h ago
+Yahoo Finance Singapore • 2h ago
 
 ---
 
@@ -192,7 +176,23 @@ Yahoo Finance • 15h ago
 
 The latest sales are part of a broader plan announced in late January to fund ecosystem development and other initiative.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
+
+---
+
+**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
+
+Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
+
+Yahoo Finance • 16h ago
+
+---
+
+**[Ethereum Founder Vitalik Buterin Continues ETH Selling Spree](https://decrypt.co/358839/ethereum-founder-vitalik-buterin-continues-eth-selling-spree)**
+
+Ethereum founder Vitalik Buterin has been selling ETH in the last few days as the second-largest crypto asset continues its fall.
+
+Decrypt • 12h ago
 
 ---
 
@@ -200,7 +200,7 @@ CoinDesk • 18h ago
 
 Publicly traded Ethereum treasury firm BitMine Immersion Technologies added to its industry-leading stash last week as ETH slides.
 
-Yahoo Finance • 13h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -208,7 +208,7 @@ Yahoo Finance • 13h ago
 
 Bitmine increased holdings to 4.42 million ETH, controlling 3.66% of supply and generating $171 million staking revenue.
 
-The Block • 13h ago
+The Block • 14h ago
 
 ---
 
@@ -216,7 +216,7 @@ The Block • 13h ago
 
 Tom Lee's Ethereum-focused firm continues buying into the crypto market weakness, now 4.42 million ETH tokens, or about 3.66 percent of the total supply.
 
-CoinDesk • 14h ago
+CoinDesk • 15h ago
 
 ---
 
@@ -224,7 +224,7 @@ CoinDesk • 14h ago
 
 This new class of on-chain actors could generate a lot of demand for the coin.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -238,7 +238,7 @@ SHOCKING New Ethereum-AI Roadmap AI Will SAVE Crypto GM O Army! In this video, w
 
 📺 CryptoWendyO
 
-👁️ 2K • 👍 167 • 💬 10 • ⏱️ 3:44 • 6h ago
+👁️ 2K • 👍 167 • 💬 10 • ⏱️ 3:44 • 7h ago
 
 ---
 
@@ -248,7 +248,7 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 3K • 👍 134 • 💬 40 • ⏱️ 14:34 • 15h ago
+👁️ 3K • 👍 134 • 💬 40 • ⏱️ 14:34 • 17h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 873 • 👍 77 • 💬 8 • ⏱️ 5:24 • 4h ago
+👁️ 873 • 👍 77 • 💬 8 • ⏱️ 5:24 • 5h ago
 
 ---
 
@@ -268,7 +268,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 617 • 👍 28 • 💬 10 • ⏱️ 6:12 • 8h ago
+👁️ 617 • 👍 28 • 💬 10 • ⏱️ 6:12 • 9h ago
 
 ---
 
@@ -278,7 +278,7 @@ BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 260 • 💬 73 • ⏱️ 22:08 • 8h ago
+👁️ 7K • 👍 260 • 💬 73 • ⏱️ 22:08 • 10h ago
 
 ---
 
@@ -288,7 +288,7 @@ Kalshi is pricing in a potential major Ethereum drawdown this year. In this vide
 
 📺 Smart Money Tracking
 
-👁️ 639 • 👍 49 • 💬 16 • ⏱️ 27:22 • 8h ago
+👁️ 639 • 👍 49 • 💬 16 • ⏱️ 27:22 • 9h ago
 
 ---
 
@@ -298,7 +298,7 @@ My FREE Daily On-Chain Analysis & Crypto News In 5-Mins: https://www.cryptonutsh
 
 📺 Jamie Tree 
 
-👁️ 3K • 👍 72 • 💬 20 • ⏱️ 19:18 • 13h ago
+👁️ 3K • 👍 72 • 💬 20 • ⏱️ 19:18 • 14h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 144 • 💬 4 • ⏱️ 6:00 • 18h ago
+👁️ 3K • 👍 144 • 💬 4 • ⏱️ 6:00 • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ SPOTIFY PREMIUM RSS FEED | USE CODE: SPOTIFY24 https://bankless.cc/spotify-premi
 
 📺 Bankless
 
-👁️ 3K • 👍 116 • 💬 17 • ⏱️ 1:23:36 • 17h ago
+👁️ 3K • 👍 116 • 💬 17 • ⏱️ 1:23:36 • 18h ago
 
 ---
 
