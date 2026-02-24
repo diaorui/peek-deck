@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T22:35:15.384280+00:00'
+updated: '2026-02-24T23:34:00.813244+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 22:35 UTC  
+**Last Updated:** February 24, 2026 at 23:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -42,27 +42,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-2h ago
-
----
-
-**[[Open Source] ElRobot, 7+1 DOF 3D printed robotic arm for AI](https://www.reddit.com/r/robotics/comments/1rdj0gu/open_source_elrobot_71_dof_3d_printed_robotic_arm/)**
-
-GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
-
-7h ago
-
----
-
-**[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
-
-23h ago
-
----
-
-**[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
-
-14h ago
+3h ago
 
 ---
 
@@ -70,13 +50,33 @@ GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: h
 
 I just started my dream job 3 months ago, I haven't contributed anything significant yet, last whole month I haven't been able to work at all, I am faking working to my colleagues. my colleagues are very helpful and super nice but, soon they are gonna find out, I am gonna loose job, even if I find another, it's gonna be the same result, I have heavy student loan, switching Carrers isn't option. I've no one to talk to who understands, only option I can see is ending it the easy way, pls show if there is any other option
 
+9h ago
+
+---
+
+**[[Open Source] ElRobot, 7+1 DOF 3D printed robotic arm for AI](https://www.reddit.com/r/robotics/comments/1rdj0gu/open_source_elrobot_71_dof_3d_printed_robotic_arm/)**
+
+GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
+
 8h ago
+
+---
+
+**[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
+
+1d ago
+
+---
+
+**[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
+
+15h ago
 
 ---
 
 **[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -84,7 +84,15 @@ I just started my dream job 3 months ago, I haven't contributed anything signifi
 
 I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
 
-10h ago
+11h ago
+
+---
+
+**[I am trying to design a robot with a 3DOF head. Any suggestions about smaller designs?](https://www.reddit.com/r/robotics/comments/1rdtfk7/i_am_trying_to_design_a_robot_with_a_3dof_head/)**
+
+I sketched out my idea on paper to visualize it better. Basically, the bottom combination of the rotations of those servos can either tilt the head like how puppies do it, you know? Or make the head nod if I rotate both of them together. And if the whole thing is then on a ball bearing, it can move side to side, too. The face will be a display module, and I will animate the expressions. I have seen such a design for animatronics, and basically, that's what I tried to adapt. But I am trying to minimize its size so that it is actually a desk robot and not an R2-D2 or something. Any suggestions for making it smaller? Are there any existing designs I could take a look at? I am using SG90S Servos because they are quite small, and locally they are the only real option; it's kinda hard to acquire some parts where I live. I don't know if they can handle this weight, but if I don't come up with a smaller design, I think I will give up on making it small and just get strong servos anyway
+
+2h ago
 
 ---
 
@@ -92,15 +100,7 @@ I've recently been experimenting with SLAM (Simultaneous Localization and Mappin
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-21h ago
-
----
-
-**[We built both parallel leg and bipedal versions of our robot. How do you feel?](https://www.reddit.com/r/robotics/comments/1rd6gin/we_built_both_parallel_leg_and_bipedal_versions/)**
-
-I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
-
-17h ago
+22h ago
 
 ---
 
@@ -116,6 +116,30 @@ CNBC • 4d ago
 
 ---
 
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
+
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
+
+TribLIVE.com • 1h ago
+
+---
+
+**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
+
+The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
+
+The Boston Globe • 7h ago
+
+---
+
+**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
+
+A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
+
+KPAX News • 1d ago
+
+---
+
 **[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
@@ -124,33 +148,19 @@ CNBC • 1d ago
 
 ---
 
-**[Japan Eyes Plan to Mass Produce Humanoid Robots By 2027](https://www.eweek.com/news/japan-mass-produce-humanoid-robots-2027/)**
+**[Certis and FieldAI Partner to Deploy Autonomous Security Robots](https://www.eweek.com/news/certis-fieldai-autonomous-security-robots/)**
 
-Japan aims to mass-produce humanoid robots by 2027 as Hitachi deploys AI-powered models and the government backs a domestic robotics strategy.
+Certis and FieldAI are partnering to deploy autonomous security robots, linking FieldAI autonomy with Certis orchestration across global sites.
 
-eWeek • 1d ago
-
----
-
-**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
-
-Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
-
-TribLIVE.com • 6h ago
+eWeek • 8h ago
 
 ---
 
-**[Autonomous robots expose hurricane-driven hidden ocean bloom](https://interestingengineering.com/ai-robotics/hurricane-idalia-ocean-robots-hidden-bloom)**
+**[VDMA warns Germany is losing ground in global robotics race](https://www.therobotreport.com/vdma-warns-germany-losing-ground-in-global-robotics-race/)**
 
-Ocean robots and satellites reveal hidden subsurface bloom after Hurricane Idalia reshaped Gulf waters.
+Germany’s robotics industry is heading for another year of decline, as rising global competition and structural challenges test its strength.
 
-Interesting Engineering • 23h ago
-
----
-
-**[Rise of the rice robots—creating active smart materials](https://techxplore.com/news/2026-02-rice-robots-smart-materials.html)**
-
-Tech Xplore • 2h ago
+The Robot Report • 7h ago
 
 ---
 
@@ -166,23 +176,13 @@ MIT Technology Review • 1d ago
 
 Mirumi, whose goal is to “steal your heart,” arrives as the “kidult” market is projected to climb.
 
-The Japan Times • 21h ago
+The Japan Times • 22h ago
 
 ---
 
-**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
+**[Rise of the rice robots—creating active smart materials](https://techxplore.com/news/2026-02-rice-robots-smart-materials.html)**
 
-A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
-
-KPAX News • 9h ago
-
----
-
-**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
-
-The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
-
-The Boston Globe • 6h ago
+Tech Xplore • 3h ago
 
 ---
 
@@ -216,7 +216,7 @@ AI robots are starting to act way too human, and the latest breakthroughs prove 
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 85 • 💬 10 • ⏱️ 21:45 • 17h ago
+👁️ 1K • 👍 85 • 💬 10 • ⏱️ 21:45 • 18h ago
 
 ---
 
@@ -256,7 +256,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 75K • 👍 1K • 💬 173 • ⏱️ 14:16 • 1d ago
+👁️ 75K • 👍 1K • 💬 173 • ⏱️ 14:16 • 2d ago
 
 ---
 
