@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-24T21:36:47.272137+00:00'
+updated: '2026-02-24T22:35:15.375290+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - news
+- videos
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 24, 2026 at 21:36 UTC  
+**Last Updated:** February 24, 2026 at 22:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1289.10B
+**Market Cap:** $1281.54B
 Rank #1
 
-**Circulating Supply:** 19,994,228 BTC
+**Circulating Supply:** 19,994,281 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--48.9%
+-49.2%
 
 **All-Time Low:** $67.81
-+94973.0%
++94428.8%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[Previously on, If I Had a Time Machine....](https://www.reddit.com/r/Bitcoin/comments/1rdf4pw/previously_on_if_i_had_a_time_machine/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Bitcoin is "dead"](https://www.reddit.com/r/Bitcoin/comments/1rda9jh/bitcoin_is_dead/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -93,13 +93,13 @@ Rank #1
 
 Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (especially when traveling), I had a weird idea: What if I hid ALL 2,048 BIP39 words inside a normal-looking children's book? So I wrote "The Adventures of Veit the Fox" – a 19-chapter adventure story about a fox’s adventures, published it, and had it delivered to me as a paperback. It reads like a normal kids' book, but every single BIP39 word appears naturally in the text. How the backup works: Your 12- or 24-word seed becomes a list of page/line/word numbers Example: "abandon" → Page 12, Line 3, Word 5 → "12-3-5" The numbers look meaningless to anyone who finds them The book looks like an innocent children's book on your shelf Why do I love this backup: Nobody suspects a children's book You can keep the book and numbers in separate locations Even if someone finds both, they don't know it's a backup Inconspicuous when traveling and crossing borders I also created a word index PDF showing where each word appears, because without it it is extremely time-consuming to find the words. Maybe this will be a helpful tip for you too. Happy to answer questions about the process or the book cipher concept!
 
-2h ago
+3h ago
 
 ---
 
 **[Bitcoin is Dead. Long Live Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1rdrie8/bitcoin_is_dead_long_live_bitcoin/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -107,7 +107,7 @@ Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (e
 
 What would owning even 1 BTC do for you financially, and would you be richer than a lot of people?
 
-3h ago
+4h ago
 
 ---
 
@@ -115,7 +115,7 @@ What would owning even 1 BTC do for you financially, and would you be richer tha
 
 My strategy for not missing the bottom is the following: 5 Times a week I invest x k per Day in BTC for the next 30 weeks and so should you! Don't wait until we have the price range between 40-45k which everyone is expecting rn. As we have seen the last cycles this doesn't play out, people tend to get emotional and wait until they think it can't get lower. The price of 60-64k is already super cheap in my opinion. Cheers guys! Edit: took out the amount because some guys take it personal. Only wanted to explain my strategy so there you go!
 
-4h ago
+5h ago
 
 ---
 
@@ -131,7 +131,7 @@ Later in the video he's being asked if they're considering shitcoins like ether 
 
 I had no intention of selling this year. I've invested money I do not need liquid. At about 1:30, I get a notification of sats aquired and the number is way higher than what I was getting two months ago. I know a lot of people are in pain with the current prices, and a lot of leverage users have been obliterated, but my steady strategy has always paid off. Right now I'm getting extra.
 
-9h ago
+10h ago
 
 ---
 
@@ -139,7 +139,7 @@ I had no intention of selling this year. I've invested money I do not need liqui
 
 $1.17 billion across 5.2 million transactions And the average transaction size nearly doubled year over year from $118 to $223 which means this isn't just micropayment experimentation anymore Businesses are using it Exchanges are moving real money through it
 
-11h ago
+12h ago
 
 ---
 
@@ -147,7 +147,7 @@ $1.17 billion across 5.2 million transactions And the average transaction size n
 
 I almost sold, tired of this red candle. Holding 1 BTC since 2017. Never sold. I almost just did it. One click away. Give me some strength guys! Some strength to hit buy instead
 
-17h ago
+18h ago
 
 ---
 
@@ -159,7 +159,7 @@ I almost sold, tired of this red candle. Holding 1 BTC since 2017. Never sold. I
 
 Bitcoin briefly sank below $63,000 on Tuesday, dragging down its miners alongside it.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNBC • 3h ago
 
 Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bitcoin Magazine • 1h ago
 
 The following article is adapted from The Block’s newsletter, The Daily, which comes out on weekday afternoons.
 
-The Block • 2h ago
+The Block • 3h ago
 
 ---
 
@@ -191,13 +191,13 @@ The Block • 2h ago
 
 Prosecutors in Seoul say a man poisoned his business partner after the colleague mismanaged his Bitcoin investments.
 
-Yahoo • 47m ago
+Yahoo • 1h ago
 
 ---
 
 **[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdcYe4bl42kQWiLXMRC2QpgpmaDd-SA_YJMVZQU6URt-wyu3WQZo_xi&gaa_ts=699e1d4d&gaa_sig=FpasW_U0DDhg_2GGrhP_WUbp2mTQ0vW0CtT2_K-kAvHP_zB_pzVNFhQ3lyAp6rZmpkl-ceblfRMBoesTWzvisA%3D%3D)**
 
-Barron's • 12m ago
+Barron's • 1h ago
 
 ---
 
@@ -235,7 +235,7 @@ Forbes • 1d ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 5 • 💬 15 • 6h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+⬆️ 5 • 💬 15 • 7h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
 
 ---
 
@@ -243,7 +243,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
-⬆️ 1 • 💬 1 • 6h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
+⬆️ 1 • 💬 1 • 7h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
 
 ---
 
@@ -257,7 +257,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 The Chicago-based company said it was temporarily suspending client deposits and withdrawals last week due to recent market and financial conditions.
 
-⬆️ 1 • 💬 0 • 9h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
+⬆️ 1 • 💬 0 • 10h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
 
 ---
 
@@ -313,27 +313,7 @@ Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk
 
 📺 CNBC Television
 
-👁️ 32K • 👍 288 • 💬 329 • ⏱️ 3:54 • 23h ago
-
----
-
-**[We Just Entered &quot;CRASH STAGE 4&quot; (Is $35,000 Bitcoin Next?)](https://www.youtube.com/watch?v=a6nl9j0ufS4)**
-
-Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Bears are calling for $35K while Michael Saylor and ...
-
-📺 Simply Bitcoin
-
-👁️ 27K • 👍 2K • 💬 205 • ⏱️ 16:07 • 23h ago
-
----
-
-**[Bitcoin Crash Just Hit a Historic Level (NEVER Seen Before)](https://www.youtube.com/watch?v=iCv_rXUdDgQ)**
-
-Iran war danger, software stock slaughter, and BTC, ETH, SOL charts BITUNIX TRADE THE TOP COINS (available ...
-
-📺 Lark Davis
-
-👁️ 17K • 👍 832 • 💬 107 • ⏱️ 16:06 • 10h ago
+👁️ 35K • 👍 310 • 💬 379 • ⏱️ 3:54 • 1d ago
 
 ---
 
@@ -343,7 +323,47 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 982 • 💬 63 • ⏱️ 45:23 • 5h ago
+👁️ 19K • 👍 1K • 💬 83 • ⏱️ 45:23 • 6h ago
+
+---
+
+**[holy **ck - now we know what&#39;s DESTROYING Bitcoin](https://www.youtube.com/watch?v=-y2K3E5JAg8)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 9K • 👍 766 • 💬 172 • ⏱️ 13:40 • 4h ago
+
+---
+
+**[🚨 BITCOIN IS FOR THE 0.5% 🚀](https://www.youtube.com/watch?v=wKwpDIuCvI8)**
+
+LINK TO STUDY: https://x.com/BritishHodl/status/2024564388934668437?s=20 Will you Subscribe?
+
+📺 BRITISH HODL
+
+👁️ 13K • 👍 1K • 💬 321 • ⏱️ 15:27 • 1d ago
+
+---
+
+**[Bitcoin Crash Just Hit a Historic Level (NEVER Seen Before)](https://www.youtube.com/watch?v=iCv_rXUdDgQ)**
+
+Iran war danger, software stock slaughter, and BTC, ETH, SOL charts BITUNIX TRADE THE TOP COINS (available ...
+
+📺 Lark Davis
+
+👁️ 20K • 👍 885 • 💬 110 • ⏱️ 16:06 • 11h ago
+
+---
+
+**[We Just Entered &quot;CRASH STAGE 4&quot; (Is $35,000 Bitcoin Next?)](https://www.youtube.com/watch?v=a6nl9j0ufS4)**
+
+Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Bears are calling for $35K while Michael Saylor and ...
+
+📺 Simply Bitcoin
+
+👁️ 28K • 👍 2K • 💬 210 • ⏱️ 16:07 • 1d ago
 
 ---
 
@@ -353,37 +373,17 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Altcoin Daily
 
-👁️ 16K • 👍 463 • 💬 27 • ⏱️ 1:05 • 1d ago
+👁️ 17K • 👍 467 • 💬 27 • ⏱️ 1:05 • 1d ago
 
 ---
 
-**[Worst Bitcoin Signal EVER](https://www.youtube.com/watch?v=UOdRm6Fzd4Y)**
+**[Michael Saylor on How Bitcoin is Like a Hotel Running at 30,000% Occupancy](https://www.youtube.com/watch?v=iKPs6ZIBdl8)**
 
-Is this the end of the bull run, or the ultimate bear trap? In today's emergency update, we are analyzing what might be the most ...
+Michael Saylor breaks down what makes Bitcoin the ultimate asset using a brilliant hotel room analogy and why it can run at ...
 
-📺 Discover Crypto
+📺 Bitcoin Magazine
 
-👁️ 5K • 👍 436 • 💬 5 • ⏱️ 1:02:46 • 4h ago
-
----
-
-**[Bitcoin: Dubious Speculation](https://www.youtube.com/watch?v=6hszLDlcrxg)**
-
-It is once again time for some Bitcoin dubious speculation! Into The Cryptoverse Premium (Use code ITC50 for 50% off your first ...
-
-📺 Benjamin Cowen
-
-👁️ 72K • 👍 4K • 💬 156 • ⏱️ 6:17 • 1d ago
-
----
-
-**[Michael Saylor Responds to Bitcoin Critics](https://www.youtube.com/watch?v=8eaJ3VuzhmY)**
-
-Michael Saylor returns to answer every question Natalie Brunell throws at him — including the ones most people are afraid to ask.
-
-📺 Natalie Brunell
-
-👁️ 161K • 👍 5K • 💬 2K • ⏱️ 1:51:55 • 1d ago
+👁️ 6K • 👍 99 • 💬 16 • ⏱️ 2:15 • 19h ago
 
 ---
 
@@ -397,13 +397,13 @@ After Bitcoin tapped levels below $65000 once again, Alex Miller with Stack Labs
 
 ---
 
-**[Bitcoin Holders ... Pay Attention To This Pattern Playing Out](https://www.youtube.com/watch?v=5MilVZPyE7A)**
+**[Bitcoin Is Set Up for a Strong Rebound, Says Bitwise&#39;s Rasmussen](https://www.youtube.com/watch?v=LDj3344lK04)**
 
-Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
+Bitcoin remained tethered near the the lower end of its recent trading range even as global financial markets showed signs of a ...
 
-📺 Aaron Bennett
+📺 Bloomberg Television
 
-👁️ 18K • 👍 873 • 💬 152 • ⏱️ 9:10 • 1d ago
+👁️ 1K • 👍 37 • 💬 43 • ⏱️ 7:26 • 1h ago
 
 ---
 

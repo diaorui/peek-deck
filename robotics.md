@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-24T21:36:47.281468+00:00'
+updated: '2026-02-24T22:35:15.384280+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 24, 2026 at 21:36 UTC  
+**Last Updated:** February 24, 2026 at 22:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-1h ago
+2h ago
 
 ---
 
@@ -50,19 +50,19 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
 
-6h ago
+7h ago
 
 ---
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
 
-22h ago
+23h ago
 
 ---
 
 **[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -70,13 +70,13 @@ GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: h
 
 I just started my dream job 3 months ago, I haven't contributed anything significant yet, last whole month I haven't been able to work at all, I am faking working to my colleagues. my colleagues are very helpful and super nice but, soon they are gonna find out, I am gonna loose job, even if I find another, it's gonna be the same result, I have heavy student loan, switching Carrers isn't option. I've no one to talk to who understands, only option I can see is ending it the easy way, pls show if there is any other option
 
-7h ago
+8h ago
 
 ---
 
 **[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -84,7 +84,7 @@ I just started my dream job 3 months ago, I haven't contributed anything signifi
 
 I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
 
-9h ago
+10h ago
 
 ---
 
@@ -92,7 +92,7 @@ I've recently been experimenting with SLAM (Simultaneous Localization and Mappin
 
 I filmed these packaging and automation applications at the Tradeshow last week in Philadelphia at PACK EXPO.
 
-20h ago
+21h ago
 
 ---
 
@@ -100,7 +100,7 @@ I filmed these packaging and automation applications at the Tradeshow last week 
 
 I’ve been working with my team on a small wheeled-leg robot recently, we wanted to build something like a toy for our kids. Our first version used a parallel leg structure, and from an engineering standpoint, it was a beast: Simple mechanics, big motors close to the body for better torque, high stiffness, super reliable, good dynamic obstacle crossing, and even load distribution. It just worked—no drama, solid performance all around. But our product guy felt this is too mechanic, almost like equipment meant only for industrial environments. It didn’t feel like something from nature. More like a body plus legs plus feet assembled together. So we spent about two weeks building a bipedal version and intentionally added two rabbit ears for him. The bipedal lost some of the advantages above. Harder to control, less robust, and mechanically not as good. But it seemed more biological. Curious what you all think: Does tweaking the morphology alone really make it feel better? Justify the engineering tax? My team in the office are inclined to bipedal now. Just feeling my life would become harder because of the switch.
 
-16h ago
+17h ago
 
 ---
 
@@ -136,7 +136,7 @@ eWeek • 1d ago
 
 Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-TribLIVE.com • 5h ago
+TribLIVE.com • 6h ago
 
 ---
 
@@ -144,13 +144,13 @@ TribLIVE.com • 5h ago
 
 Ocean robots and satellites reveal hidden subsurface bloom after Hurricane Idalia reshaped Gulf waters.
 
-Interesting Engineering • 22h ago
+Interesting Engineering • 23h ago
 
 ---
 
 **[Rise of the rice robots—creating active smart materials](https://techxplore.com/news/2026-02-rice-robots-smart-materials.html)**
 
-Tech Xplore • 1h ago
+Tech Xplore • 2h ago
 
 ---
 
@@ -166,7 +166,7 @@ MIT Technology Review • 1d ago
 
 Mirumi, whose goal is to “steal your heart,” arrives as the “kidult” market is projected to climb.
 
-The Japan Times • 20h ago
+The Japan Times • 21h ago
 
 ---
 
@@ -174,7 +174,7 @@ The Japan Times • 20h ago
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
 
-KPAX News • 8h ago
+KPAX News • 9h ago
 
 ---
 
@@ -182,7 +182,7 @@ KPAX News • 8h ago
 
 The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
 
-The Boston Globe • 5h ago
+The Boston Globe • 6h ago
 
 ---
 
@@ -196,7 +196,7 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 19K • 👍 336 • 💬 323 • ⏱️ 2:30 • 3d ago
+👁️ 19K • 👍 341 • 💬 323 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -206,7 +206,17 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 89K • 👍 474 • 💬 248 • ⏱️ 2:14 • 3d ago
+👁️ 89K • 👍 479 • 💬 248 • ⏱️ 2:14 • 3d ago
+
+---
+
+**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
+
+AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
+
+📺 The AI Nexus
+
+👁️ 1K • 👍 85 • 💬 10 • ⏱️ 21:45 • 17h ago
 
 ---
 
@@ -216,7 +226,7 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.4M • 👍 108K • 💬 3K • ⏱️ 1:27 • 5d ago
+👁️ 1.4M • 👍 108K • 💬 4K • ⏱️ 1:27 • 5d ago
 
 ---
 
@@ -226,7 +236,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 75K • 👍 3K • 💬 857 • ⏱️ 14:51 • 4d ago
+👁️ 75K • 👍 3K • 💬 794 • ⏱️ 14:51 • 4d ago
 
 ---
 
@@ -236,7 +246,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 314K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
+👁️ 315K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
 
 ---
 
@@ -246,7 +256,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 71K • 👍 1K • 💬 169 • ⏱️ 14:16 • 1d ago
+👁️ 75K • 👍 1K • 💬 173 • ⏱️ 14:16 • 1d ago
 
 ---
 
@@ -276,17 +286,7 @@ Unitree G1 Robots Cluster Show.
 
 📺 Unitree Robotics
 
-👁️ 777K • 👍 3K • 💬 545 • ⏱️ 0:41 • 1d ago
-
----
-
-**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
-
-Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
-
-📺 The China Show
-
-👁️ 193K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 3d ago
+👁️ 896K • 👍 3K • 💬 554 • ⏱️ 0:41 • 1d ago
 
 ---
 
