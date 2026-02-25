@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T14:32:06.995059+00:00'
+updated: '2026-02-25T16:04:50.621965+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 14:32 UTC  
+**Last Updated:** February 25, 2026 at 16:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-1h ago
+3h ago
 
 ---
 
@@ -44,13 +44,13 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-18h ago
+19h ago
 
 ---
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-20h ago
+22h ago
 
 ---
 
@@ -58,25 +58,33 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-3h ago
+4h ago
 
 ---
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-5h ago
+6h ago
+
+---
+
+**[Industrial Inspection Is Still Often Pen and Paper](https://www.reddit.com/r/robotics/comments/1rega3c/industrial_inspection_is_still_often_pen_and_paper/)**
+
+ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilities expecting highly automated, fully digitized operations. Instead, he found inspection data being written down on paper. Logs stored and never reviewed. Manual restarts that were never automated because the retrofit would be too complex. Teams collecting data that never reached the people who needed it. His take is that the distance between state-of-the-art robotics research and day-to-day industrial practice remains significant.
+
+36m ago
 
 ---
 
 **[Lego strandbeest (part 3)](https://www.reddit.com/r/robotics/comments/1rdwocl/lego_strandbeest_part_3/)**
 
-14h ago
+16h ago
 
 ---
 
 **[I built a custom YOLO-based object detection pipeline natively on a Raspberry Pi using ROS 2 Jazzy (Open Source)](https://www.reddit.com/r/robotics/comments/1redgvi/i_built_a_custom_yolobased_object_detection/)**
 
-52m ago
+2h ago
 
 ---
 
@@ -84,19 +92,15 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
 
-23h ago
-
----
-
-**[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
-
 1d ago
 
 ---
 
-**[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
+**[Autonomous Mobile Robot Navigation with RL in MuJoCo!](https://www.reddit.com/r/robotics/comments/1rdz3qy/autonomous_mobile_robot_navigation_with_rl_in/)**
 
-1d ago
+hey guys! I've been working on local planner policies for skid steer robots in RL and this is my first project. Haven't seen a lot of projects for mobile robots in MuJoCo, and I saw an opportunity to work on efficient navigation in this sim for skid steer robots (where the dynamics are more complex, and actually matter). My end goal is an energy-efficient navigation agent, but in the meantime I’ve been focused on one super annoying thing: getting rid of the steering wobble/osscillations without playing the endless tune the reward penalties game. I tried five variants, and ended up realizing that sparse-reward agents (the one on the right of the video) can reach a very good performance in terms of succes rate, andgular jitter, and succes per path length compared to the dense-reward agents. If you want to know more take a look here: https://github.com/octavioaguila/rl_nav pleas if you are working with track-terrain interactions, or slip dynamics in MuJoCo, send me a DM. I am looking for better ways to model these types of systems.
+
+14h ago
 
 ---
 
@@ -116,7 +120,23 @@ The Guardian • 6d ago
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
-NBC Bay Area • 22h ago
+NBC Bay Area • 23h ago
+
+---
+
+**[2026 Robotics Summit early bird registration ends March 2](https://www.therobotreport.com/2026-robotics-summit-early-bird-registration-ends-march-2/)**
+
+Ticket prices for the Robotics Summit (May 27-28 in Boston) increase after March 2. Register today for the world's leading robotics development event.
+
+The Robot Report • 59m ago
+
+---
+
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
+
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
+
+TribLIVE.com • 17h ago
 
 ---
 
@@ -128,11 +148,19 @@ CNBC • 2d ago
 
 ---
 
-**[A new caretaker class? As robots go mainstream, there's a job they're creating instead of eliminating](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+**[10k Trajectories, 5 Days: Axis Robotics Defines a New Paradigm for Physical AI](https://finance.yahoo.com/news/10k-trajectories-5-days-axis-153000184.html)**
 
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+LOS ANGELES, CA / ACCESS Newswire / February 25, 2026 / Over the past five days, Axis Robotics conducted a bold experiment codenamed "Little Prince's Rose." The results were electrifying. Using Axis Robotics' proprietary browser-based platform, the ...
 
-Los Angeles Times • 3h ago
+Yahoo Finance • 34m ago
+
+---
+
+**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
+
+The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
+
+The Boston Globe • 23h ago
 
 ---
 
@@ -140,15 +168,7 @@ Los Angeles Times • 3h ago
 
 Elon Musk's Grok is set to enter classified U.S. military systems, marking a shift in the Pentagon's Anthropic AI strategy.
 
-Interesting Engineering • 22h ago
-
----
-
-**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
-
-Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
-
-TribLIVE.com • 15h ago
+Interesting Engineering • 1d ago
 
 ---
 
@@ -168,22 +188,6 @@ The Hindu • 1d ago
 
 ---
 
-**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
-
-The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
-
-The Boston Globe • 22h ago
-
----
-
-**[AI2 Robotics raises Series B funding to advance AlphaBot, embodied AI](https://www.therobotreport.com/ai2-robotics-raises-series-b-funding-advance-alphabot-embodied-ai/)**
-
-AI2 Robotics brought its valuation to more than $1 billion as it develops VLA models for semi-humanoid robots.
-
-The Robot Report • 14h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -194,7 +198,7 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 20K • 👍 345 • 💬 325 • ⏱️ 2:30 • 3d ago
+👁️ 20K • 👍 348 • 💬 324 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -204,7 +208,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 28K • 👍 455 • 💬 276 • ⏱️ 7:18 • 21h ago
+👁️ 30K • 👍 535 • 💬 329 • ⏱️ 7:18 • 22h ago
 
 ---
 
@@ -214,17 +218,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 323K • 👍 4K • 💬 2K • ⏱️ 3:42 • 6d ago
-
----
-
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 78K • 👍 3K • 💬 825 • ⏱️ 14:51 • 4d ago
+👁️ 326K • 👍 4K • 💬 2K • ⏱️ 3:42 • 6d ago
 
 ---
 
@@ -234,7 +228,17 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.5M • 👍 111K • 💬 4K • ⏱️ 1:27 • 5d ago
+👁️ 1.5M • 👍 112K • 💬 4K • ⏱️ 1:27 • 6d ago
+
+---
+
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 79K • 👍 3K • 💬 827 • ⏱️ 14:51 • 5d ago
 
 ---
 
@@ -244,7 +248,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 96K • 👍 1K • 💬 217 • ⏱️ 14:16 • 2d ago
+👁️ 99K • 👍 2K • 💬 224 • ⏱️ 14:16 • 2d ago
 
 ---
 
@@ -254,17 +258,7 @@ AI robots are starting to act way too human, and the latest breakthroughs prove 
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 119 • 💬 10 • ⏱️ 21:45 • 1d ago
-
----
-
-**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
-
-Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
-
-📺 The China Show
-
-👁️ 199K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 4d ago
+👁️ 2K • 👍 121 • 💬 10 • ⏱️ 21:45 • 1d ago
 
 ---
 
@@ -274,7 +268,17 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 90K • 👍 484 • 💬 252 • ⏱️ 2:14 • 4d ago
+👁️ 91K • 👍 484 • 💬 252 • ⏱️ 2:14 • 4d ago
+
+---
+
+**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
+
+Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
+
+📺 The China Show
+
+👁️ 200K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 4d ago
 
 ---
 
@@ -284,7 +288,7 @@ Humanoid robots developed by China's Unitree Robotics has given another impressi
 
 📺 Firstpost
 
-👁️ 27K • 👍 331 • 💬 269 • ⏱️ 4:45 • 1d ago
+👁️ 28K • 👍 335 • 💬 273 • ⏱️ 4:45 • 1d ago
 
 ---
 
