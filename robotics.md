@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T23:28:56.941237+00:00'
+updated: '2026-02-25T23:56:14.320808+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 23:28 UTC  
+**Last Updated:** February 25, 2026 at 23:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-5h ago
+6h ago
 
 ---
 
@@ -53,6 +53,14 @@ Hello, we just open-sourced our custom waist design for openarm. We found that a
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
 1d ago
+
+---
+
+**[I built a body for GPT](https://www.reddit.com/r/robotics/comments/1resqdo/i_built_a_body_for_gpt/)**
+
+Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
+
+1h ago
 
 ---
 
@@ -92,15 +100,11 @@ ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilit
 
 ---
 
-**[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
+**[I want to get into robotics](https://www.reddit.com/r/robotics/comments/1reu3uq/i_want_to_get_into_robotics/)**
 
-14h ago
+Hello, i’ve been wanting to learn robotic for quite a while but i don’t know where to start. I am not good at maths and i don’t think ill get into the university i want so id love to be self taught in this domain.
 
----
-
-**[Can I use DC motors+qdd+simplefoc or serial Bus servos like sts3215 for applications that require backdrivability?](https://www.reddit.com/r/robotics/comments/1reoxeb/can_i_use_dc_motorsqddsimplefoc_or_serial_bus/)**
-
-2h ago
+10m ago
 
 ---
 
@@ -124,19 +128,19 @@ The Conversation • 1d ago
 
 ---
 
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
+**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
 
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
+The race to dominate physical AI is under way, and Beijing may already have the upper hand
 
-NBC Bay Area • 1d ago
+The Telegraph • 3d ago
 
 ---
 
-**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
+**[Video: Unitree’s G1 humanoid robots perform synchronized Kung Fu at Chinese temple](https://interestingengineering.com/ai-robotics/synchronized-robot-kung-fu-chinese-temple)**
 
-The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
+Unitree’s G1 robots performed synchronized martial arts, including punches, kicks, and flips at a Beijing landmark.
 
-The Boston Globe • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -144,23 +148,7 @@ The Boston Globe • 1d ago
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 1h ago
-
----
-
-**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
-
-Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
-
-TribLIVE.com • 1d ago
-
----
-
-**[After Galgotias, a moment of reflection for India’s robotics ambitions](https://www.thehindu.com/education/after-galgotias-a-moment-of-reflection-for-indias-robotics-ambitions/article70670336.ece)**
-
-Explore how India can transform grassroots robotics talent into a robust economy, leveraging education, innovation, and local manufacturing.
-
-The Hindu • 1d ago
+CNBC • 2h ago
 
 ---
 
@@ -172,19 +160,35 @@ Los Angeles Times • 12h ago
 
 ---
 
-**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
+**[Denver elementary school uses robotics to build future problem-solvers](https://www.9news.com/article/news/education/samuels-elementary-school-denver-robotics-program/73-6ec745bd-3089-4edb-aa22-a7373e686aa5)**
 
-The race to dominate physical AI is under way, and Beijing may already have the upper hand
+At Samuels Elementary, a thriving robotics program nurtures resilience and creativity, empowering students to embrace limitless possibilities.
 
-The Telegraph • 3d ago
+9News • 54m ago
 
 ---
 
-**[Exclusive / US government to meet with robot-makers as China competition intensifies](https://www.semafor.com/article/02/25/2026/us-government-to-meet-with-robot-makers-as-china-competition-intensifies)**
+**[After Galgotias, a moment of reflection for India’s robotics ambitions](https://www.thehindu.com/education/after-galgotias-a-moment-of-reflection-for-indias-robotics-ambitions/article70670336.ece)**
 
-The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
+Explore how India can transform grassroots robotics talent into a robust economy, leveraging education, innovation, and local manufacturing.
 
-Semafor • 4h ago
+The Hindu • 1d ago
+
+---
+
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
+
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
+
+TribLIVE.com • 1d ago
+
+---
+
+**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
+
+The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
+
+The Boston Globe • 1d ago
 
 ---
 
@@ -192,23 +196,13 @@ Semafor • 4h ago
 
 ## YouTube Videos: "robotics"
 
-**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+**[China Unveils Its First Robot Army That Will Change the Future of Warfare](https://www.youtube.com/watch?v=8A-jwqhLcV8)**
 
-Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+China has unveiled its first fully integrated robot army, a development that signals a dramatic shift in the future of modern warfare.
 
-📺 New York Post
+📺 Carros Show
 
-👁️ 20K • 👍 352 • 💬 326 • ⏱️ 2:30 • 4d ago
-
----
-
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
-
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
-
-📺 10 News
-
-👁️ 330K • 👍 4K • 💬 3K • ⏱️ 3:42 • 6d ago
+👁️ 33K • 👍 514 • 💬 151 • ⏱️ 8:38 • 4d ago
 
 ---
 
@@ -218,27 +212,37 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 37K • 👍 748 • 💬 404 • ⏱️ 7:18 • 1d ago
+👁️ 42K • 👍 827 • 💬 437 • ⏱️ 7:18 • 1d ago
 
 ---
 
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
 
-📺 Julia McCoy
+📺 10 News
 
-👁️ 80K • 👍 3K • 💬 834 • ⏱️ 14:51 • 5d ago
+👁️ 332K • 👍 4K • 💬 3K • ⏱️ 3:42 • 6d ago
 
 ---
 
-**[Unitree&#39;s Expansion Plans Just Got SCARY: China&#39;s Kung Fu Humanoid Robots Rise](https://www.youtube.com/watch?v=9x4fK7R7VAE)**
+**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
 
-Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
+Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
 
-📺 Kalil 4.0
+📺 New York Post
 
-👁️ 49K • 👍 877 • 💬 307 • ⏱️ 11:04 • 5d ago
+👁️ 20K • 👍 353 • 💬 326 • ⏱️ 2:30 • 4d ago
+
+---
+
+**[24 humanoid robots performed martial arts at this China festival. #ai #robot #china](https://www.youtube.com/watch?v=F6kZKK_VPvU)**
+
+China's Spring Festival Gala stunned the world as 24 humanoid robots performed martial arts, backflips, nunchaku and parkour ...
+
+📺 zurihassan
+
+👁️ 120K • 👍 3K • 💬 191 • ⏱️ 1:44 • 6d ago
 
 ---
 
@@ -248,7 +252,7 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 📺 Dr Ben Miles
 
-👁️ 1.5M • 👍 112K • 💬 4K • ⏱️ 1:27 • 6d ago
+👁️ 1.5M • 👍 113K • 💬 4K • ⏱️ 1:27 • 6d ago
 
 ---
 
@@ -258,7 +262,17 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 104K • 👍 2K • 💬 242 • ⏱️ 14:16 • 3d ago
+👁️ 106K • 👍 2K • 💬 248 • ⏱️ 14:16 • 3d ago
+
+---
+
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 81K • 👍 3K • 💬 837 • ⏱️ 14:51 • 5d ago
 
 ---
 
@@ -268,27 +282,17 @@ AI robots are starting to act way too human, and the latest breakthroughs prove 
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 129 • 💬 10 • ⏱️ 21:45 • 1d ago
+👁️ 2K • 👍 131 • 💬 11 • ⏱️ 21:45 • 1d ago
 
 ---
 
-**[Unitree Kung Fu Bot   Pray for Blessings at the Temple of Heaven: Wish Everyone All the Best](https://www.youtube.com/watch?v=eQpyvR-B7hc)**
+**[Unitree&#39;s Expansion Plans Just Got SCARY: China&#39;s Kung Fu Humanoid Robots Rise](https://www.youtube.com/watch?v=9x4fK7R7VAE)**
 
-Unitree G1 Robots Cluster Show.
+Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
 
-📺 Unitree Robotics
+📺 Kalil 4.0
 
-👁️ 1.1M • 👍 4K • 💬 597 • ⏱️ 0:41 • 2d ago
-
----
-
-**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
-
-Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
-
-📺 DPCcars
-
-👁️ 91K • 👍 488 • 💬 252 • ⏱️ 2:14 • 4d ago
+👁️ 49K • 👍 878 • 💬 307 • ⏱️ 11:04 • 5d ago
 
 ---
 
