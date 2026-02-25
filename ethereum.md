@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-25T07:33:58.611697+00:00'
+updated: '2026-02-25T08:52:03.900443+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 07:33 UTC  
+**Last Updated:** February 25, 2026 at 08:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +3.3%  
-**7d:** -2.8%  
-**30d:** -37.4%  
-**90d:** -37.5%  
-**1y:** -18.7%  
+**24h:** +4.4%  
+**7d:** -2.2%  
+**30d:** -37.0%  
+**90d:** -37.1%  
+**1y:** -18.2%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Meta is reportedly preparing stablecoin payments for Facebook, Instagram, and WhatsApp in H2 2026, a move that could put Ethereum rails behind everyday transfers.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/meta-stablecoin-integration-ethereum-h2-2026/) • 9h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/meta-stablecoin-integration-ethereum-h2-2026/) • 10h ago
 
 ---
 
@@ -88,7 +88,7 @@ Meta is reportedly preparing stablecoin payments for Facebook, Instagram, and Wh
 
 The Ethereum Foundation has started staking a portion of its ETH treasury, with an initial 2,016 ETH deposit and plans to allocate around 70,000 ETH over time. Staking rewards will be directed back into the EF treasury to fund protocol R&D, ecosystem grants, and core operations. The setup uses distributed validator infrastructure (Dirk and Vouch) and minority clients across multiple jurisdictions to avoid single points of failure and support client diversity. This move effectively turns part of the EF treasury into productive staking capital rather than idle ETH. Some potential implications: slightly reduces liquid ETH supply reinforces ETH’s staking-yield model aligns EF funding with network security signals long-term commitment to PoS Full article: [https://btcusa.com/ethereum-foundation-begins-staking-treasury-eth-allocating-70000-eth-to-validators/]() What do you think — should large ecosystem treasuries be staking by default?
 
-14h ago
+16h ago
 
 ---
 
@@ -96,7 +96,7 @@ The Ethereum Foundation has started staking a portion of its ETH treasury, with 
 
 Supporting the builders shaping decentralized finance and strengthening Ethereum as the global financial settlement layer
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/23/commitment-to-defi) • 12h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/23/commitment-to-defi) • 13h ago
 
 ---
 
@@ -104,7 +104,7 @@ Supporting the builders shaping decentralized finance and strengthening Ethereum
 
 One variable that changed for me is "stable era mindset vs chaotic era mindset". When you're in a "stable era", you see how private property is suboptimal, how economics can easily churn out 10+ categories of situations where it's obvious that certain taxes, incentives to make things available at better prices, etc can produce first-order gains with only second-order deadweight losses (which means that at low levels, the gains greatly exceed the losses). "Pure" private property is only "optimal" under spherical-cow economic assumptions like perfect competition. But in a "chaotic era", private property is more about schelling points - it's about creating a bulwark that's easy for people to understand and rally around defending, that says "your attempt to intervene in my life from the outside ends here". In the chaotic era, infringements on personal space are less likely to be well-meaning bureaucrats who overreach because they have not read enough Hayek, and more likely to be coming from a place of outright indifference or even hostility to your well-being. And looking at modern politics, yeah, there's a lot of that now. Since a lot of "Vitalik hates private property" sentiment comes from me liking Harberger taxes, I'll address that topic directly. My biggest update since the original 2016-19 era ideas was that, when designing details of Harberger taxes, the best motivating example to organize thought around is not "your house", rather it's "corporate intellectual property and walled gardens". If we think about the underlying complaints that people have about powerful corporations, the walled gardens and various ways in which centralized power accumulates on itself is top 5 on the list. What would it look like to build a "Harberger tax" that would tax eg. social platforms, Apple, etc more if they acted as walled gardens, and less if they enabled interoperability (and zero if they were fully open-source and interoperable and forkable)? There is a lot of energy right now around wanting to tax very wealthy individuals and corporations more, and I wonder: what if the best way to do that is not to tax wealth or unrealized gains (which has large downsides), but instead to tax enclosure? This way you raise revenue in a way that actually increases efficiency (any losses from people working less hard are more-than-compensated by gains from people shifting their work into formats where it's easier for people to build on top of each other and markets becoming more competitive). Any tax is an infringement on private property. But if you think about "tax on social platform that's proportional to some metric of how walled-garden-y they are", in an intuitive human sense, it really doesn't feel like "bureaucrats intervening in my life". It feels like "keeping concentrations of power from getting too out of hand". So I am in favor of doing things like that, and much less than before in favor of anything that forces people (incl entrepreneurs) to outright sell their assets, as eg. "Harberger tax on everything" does. A world where startup entrepreneurs are forced to constantly sell shares, realistically to the same few large VCs, in order to pay unrealized-gains or wealth tax bills strikes me as a world that's likely to be more soulless and homogeneous than today. But a world where the top 50% of large companies ranked by walled-garden-ness are taxed more (and the bottom 25% by that metric taxed less, perhaps some even zero), is a world that feels more dynamic and open and free. But even the above is somewhat of a "stable era" perspective, because it tries to make a more-perfect solution from the perspective of the political layer being friendly. We live in a chaotic era, and the point of crypto should be to solve important problems from the bottom up (whether "individualistic bottom up", enabling people to resist and escape various shackles, or "collective bottom up", communities organizing around shifting entire equilibria to their benefit) This ties into what I mean by wanting Ethereum to protect financial self-sovereignty. I do not think that Ethereum has much to offer to the trillion-dollar companies whose goal it is to offer products and services in a way that maximizes walled gardens and enclosure - in fact, much the opposite, censorship resistance can serve as the baseline for rebel communities that play the adversarial game of routing around those walled gardens. I do think Ethereum offers stronger security to people who want to maintain security of (including ability to use) their own financial resources, including surviving through great economic and political turmoil, for their personal or economic needs. And Ethereum offers a base layer for communities to organize large sudden collective shifts away from harmful equilibria into better ones; DAOs should try to solve that problem more.
 
-12h ago
+13h ago
 
 ---
 
@@ -150,17 +150,17 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 ## Google News: "ethereum"
 
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdzxD6xHVMk9XvDLjAU8JVq8pbRIs1TULhWvxWG_u1GRJzwPyMo1BNR&gaa_ts=699ea94d&gaa_sig=KB8Z4VIZqp92e7LKbci2PoenkEPuYJZzPe5LIhdTIdh8YGNUAam_W-PuyZSd3fqm6qsxeorz49fYMrXaeKKHqA%3D%3D)**
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdrOJ2Hr3F8n6e25m2bjQxxrIBec9qyHVwufIuC6xhpueSIff853RDN&gaa_ts=699ebb9f&gaa_sig=SVbx2klAKi08cJVbs_SkU5EmQDvCQKhcMJuQyYYPsY6E-1BVOsEMg-ghr3nNdWHKT4nCkJz-r-YRlMOJRgSlOA%3D%3D)**
 
-Barron's • 10h ago
+Barron's • 11h ago
 
 ---
 
-**[Crypto Market Today: Bitcoin and Ethereum Pump After Jane Street Lawsuit](https://coinpedia.org/news/crypto-market-today-bitcoin-and-ethereum-pump-after-jane-street-lawsuit/)**
+**[Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC, ETH and XRP post cautious recovery amid downside risks](https://www.fxstreet.com/cryptocurrencies/news/top-3-price-prediction-bitcoin-ethereum-ripple-btc-eth-and-xrp-post-cautious-recovery-amid-downside-risks-202602250357)**
 
-The crypto market is flashing green today after days of pressure. Total market capitalization has climbed to $2.27 trillion, up nearly 3% in 24 hours.
+Bitcoin (BTC), Ethereum (ETH), and Ripple (XRP) are posting a cautious recovery on Wednesday following a market correction earlier this week.  BTC is approaching a key breakdown level, while ETH and XRP are rebounding from crucial support levels.
 
-Coinpedia Fintech News • 5h ago
+FXStreet • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ TradingView • 1d ago
 
 The Ethereum Foundation has begun staking a portion of its ether treasury, targeting about 70,000 ETH to generate rewards for operations.
 
-The Block • 18h ago
+The Block • 20h ago
 
 ---
 
@@ -188,19 +188,19 @@ Yahoo Finance • 1d ago
 
 ---
 
+**[Ethereum founder sells again as markets crash](https://www.thestreet.com/crypto/markets/ethereum-founder-sells-again-as-markets-crash)**
+
+Vitalik Buterin sells millions in ETH amid market slump.
+
+thestreet.com • 17h ago
+
+---
+
 **[Ethereum news: Vitalik Buterin sold 17,000 ETH this month as ether fell 37%](https://www.coindesk.com/markets/2026/02/25/vitalik-buterin-sold-17-000-eth-this-month-as-ether-fell-37)**
 
 The Ethereum co-founder's tracked wallets dropped from 241,000 ETH to 224,000 ETH in February, with sales routed through CoW Protocol in small batches to limit market impact.
 
-CoinDesk • 33m ago
-
----
-
-**[Ethereum Foundation Starts Staking Treasury Amid Vitalik Buterin's ETH Sales](https://decrypt.co/358981/ethereum-foundation-staking-treasury-vitalik-buterin-sales)**
-
-The Ethereum Foundation began staking ETH as part of new treasury operations amid a string of sales from co-founder Vitalik Buterin.
-
-Decrypt • 15h ago
+CoinDesk • 1h ago
 
 ---
 
@@ -238,7 +238,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 2K • 👍 112 • 💬 74 • ⏱️ 36:49 • 10h ago
+👁️ 2K • 👍 112 • 💬 74 • ⏱️ 36:49 • 12h ago
 
 ---
 
@@ -248,7 +248,7 @@ IMPORTANT Ethereum $1800 Support BOUNCE! Can It Hold? Ethereum just bounced hard
 
 📺 Tim Warren
 
-👁️ 2K • 👍 280 • 💬 98 • ⏱️ 13:04 • 11h ago
+👁️ 2K • 👍 280 • 💬 98 • ⏱️ 13:04 • 12h ago
 
 ---
 
@@ -258,7 +258,7 @@ BITCOIN & CRYPTO REPEATING HISTORY (Signal Confirmed)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 8K • 👍 306 • 💬 45 • ⏱️ 16:59 • 13h ago
+👁️ 8K • 👍 306 • 💬 45 • ⏱️ 16:59 • 14h ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 120 • 💬 7 • ⏱️ 3:47 • 8h ago
+👁️ 1K • 👍 120 • 💬 7 • ⏱️ 3:47 • 9h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video is a BMNR weekly update, breaking down the company's balance sheet, E
 
 📺 The Value Thinker
 
-👁️ 8K • 👍 579 • 💬 74 • ⏱️ 14:39 • 18h ago
+👁️ 8K • 👍 579 • 💬 74 • ⏱️ 14:39 • 19h ago
 
 ---
 
@@ -328,7 +328,7 @@ Hier Handle ich Kryptowährungen!! Bitunix (Instant VIP LVL 3 und 20% Deposit Zu
 
 📺 Krypto Trading & Investing
 
-👁️ 2K • 👍 434 • 💬 39 • ⏱️ 11:59 • 2h ago
+👁️ 2K • 👍 434 • 💬 39 • ⏱️ 11:59 • 3h ago
 
 ---
 

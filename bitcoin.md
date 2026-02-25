@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T07:33:58.605759+00:00'
+updated: '2026-02-25T08:52:03.894497+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 07:33 UTC  
+**Last Updated:** February 25, 2026 at 08:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +2.8%  
-**7d:** -2.8%  
-**30d:** -27.0%  
-**90d:** -28.4%  
-**1y:** -22.6%  
+**24h:** +3.6%  
+**7d:** -2.3%  
+**30d:** -26.7%  
+**90d:** -28.0%  
+**1y:** -22.2%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin is Dead. Long Live Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1rdrie8/bitcoin_is_dead_long_live_bitcoin/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -87,21 +87,13 @@ Rank #1
 
 Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (especially when traveling), I had a weird idea: What if I hid ALL 2,048 BIP39 words inside a normal-looking children's book? So I wrote "The Adventures of Veit the Fox" – a 19-chapter adventure story about a fox’s adventures, published it, and had it delivered to me as a paperback. It reads like a normal kids' book, but every single BIP39 word appears naturally in the text. How the backup works: Your 12- or 24-word seed becomes a list of page/line/word numbers Example: "abandon" → Page 12, Line 3, Word 5 → "12-3-5" The numbers look meaningless to anyone who finds them The book looks like an innocent children's book on your shelf Why do I love this backup: Nobody suspects a children's book You can keep the book and numbers in separate locations Even if someone finds both, they don't know it's a backup Inconspicuous when traveling and crossing borders I also created a word index PDF showing where each word appears, because without it it is extremely time-consuming to find the words. Maybe this will be a helpful tip for you too. Happy to answer questions about the process or the book cipher concept!
 
-12h ago
+13h ago
 
 ---
 
 **[Bitcoin is "dead"](https://www.reddit.com/r/Bitcoin/comments/1rda9jh/bitcoin_is_dead/)**
 
-23h ago
-
----
-
-**[What would owning even 1 BTC do for your financial life?](https://www.reddit.com/r/Bitcoin/comments/1rdnbvg/what_would_owning_even_1_btc_do_for_your/)**
-
-What would owning even 1 BTC do for you financially, and would you be richer than a lot of people?
-
-13h ago
+1d ago
 
 ---
 
@@ -109,37 +101,21 @@ What would owning even 1 BTC do for you financially, and would you be richer tha
 
 What I’ve noticed about tops is that they usually come when everyone thinks it’s going to go much higher. What I’ve noticed about bottoms is they usually come when everyone thinks it’s going much lower. Do with this information as you please.
 
-3h ago
+5h ago
+
+---
+
+**[What would owning even 1 BTC do for your financial life?](https://www.reddit.com/r/Bitcoin/comments/1rdnbvg/what_would_owning_even_1_btc_do_for_your/)**
+
+What would owning even 1 BTC do for you financially, and would you be richer than a lot of people?
+
+14h ago
 
 ---
 
 **[Previously on, If I Had a Time Machine....](https://www.reddit.com/r/Bitcoin/comments/1rdf4pw/previously_on_if_i_had_a_time_machine/)**
 
-18h ago
-
----
-
-**[How long is your DCA streak, and how long do you plan to keep DCA'ing for?](https://www.reddit.com/r/Bitcoin/comments/1re1xxd/how_long_is_your_dca_streak_and_how_long_do_you/)**
-
-I'll admit I have never completely stopped "panic buying". Sometimes when bitcoin drops I buy hard, but for the last 8 months I've tried to temper that and have now been DCA'ing $100 every week instead. I plan on DCA'ing at least for the next 5-8 years, but some day when bitcoin reaches 1 mil + DCA'ing $100/week (or even $200/week) will only buy tiny fractions of what it can buy today. I'll probably feel differently when that time comes, but right now it feels like in the future that will feel futile buying such small amounts each week. Anyways.... whats your DCA streak thus far, and your plan for the future if you DCA?
-
-4h ago
-
----
-
-**[BTC hitting 62500 thoughts on breaking the early feb low](https://www.reddit.com/r/Bitcoin/comments/1rdyjno/btc_hitting_62500_thoughts_on_breaking_the_early/)**
-
-bitcoin just hit 62500 and things are looking shaky do you think we stay above the 60055 low from february 6 or is a breakdown coming let me know if you are buying here or waiting for sub 60k
-
-6h ago
-
----
-
-**[I don’t always buy Bitcoin, but when I do…](https://www.reddit.com/r/Bitcoin/comments/1rdtabb/i_dont_always_buy_bitcoin_but_when_i_do/)**
-
-…I like it at a 50% discount
-
-10h ago
+20h ago
 
 ---
 
@@ -147,7 +123,31 @@ bitcoin just hit 62500 and things are looking shaky do you think we stay above t
 
 Longs get wiped, the screens burn red, Day traders chase, their edge long dead. Dollar slips, we’re slipping too, That’s not the hedge they swore was true. Prophets speak in tones so bold, Diamond hands? I already sold. I will not yield, I will not fold, One final prayer the charts foretold: HODL.
 
-1h ago
+2h ago
+
+---
+
+**[Owning 1 Bitcoin is what you need to do.](https://www.reddit.com/r/Bitcoin/comments/1re7d4r/owning_1_bitcoin_is_what_you_need_to_do/)**
+
+If you owned a full Bitcoin, do you think things would change in ten years?
+
+45m ago
+
+---
+
+**[How long is your DCA streak, and how long do you plan to keep DCA'ing for?](https://www.reddit.com/r/Bitcoin/comments/1re1xxd/how_long_is_your_dca_streak_and_how_long_do_you/)**
+
+I'll admit I have never completely stopped "panic buying". Sometimes when bitcoin drops I buy hard, but for the last 8 months I've tried to temper that and have now been DCA'ing $100 every week instead. I plan on DCA'ing at least for the next 5-8 years, but some day when bitcoin reaches 1 mil + DCA'ing $100/week (or even $200/week) will only buy tiny fractions of what it can buy today. I'll probably feel differently when that time comes, but right now it feels like in the future that will feel futile buying such small amounts each week. Anyways.... whats your DCA streak thus far, and your plan for the future if you DCA?
+
+5h ago
+
+---
+
+**[BTC hitting 62500 thoughts on breaking the early feb low](https://www.reddit.com/r/Bitcoin/comments/1rdyjno/btc_hitting_62500_thoughts_on_breaking_the_early/)**
+
+bitcoin just hit 62500 and things are looking shaky do you think we stay above the 60055 low from february 6 or is a breakdown coming let me know if you are buying here or waiting for sub 60k
+
+8h ago
 
 ---
 
@@ -167,7 +167,7 @@ Yahoo Finance • 2d ago
 
 Bitcoin briefly sank below $63,000 on Tuesday, dragging down its miners alongside it.
 
-CNBC • 13h ago
+CNBC • 15h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 13h ago
 
 A solo miner turned $75 in rented hashpower into a $200,000 Bitcoin block reward, defying steep odds in a rare, lottery-like win.
 
-Bitcoin Magazine • 11h ago
+Bitcoin Magazine • 12h ago
 
 ---
 
@@ -183,47 +183,45 @@ Bitcoin Magazine • 11h ago
 
 One of Bitcoin’s earliest and largest holders has reportedly sold $1.24 billion in BTC. Santiment data shows wallets holding 10–10,000 BTC now control a nine-month ...
 
-Yahoo Finance • 16h ago
-
----
-
-**[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqfY-tqlRP1okqNMN3CqNwlGCEKQyB-u2GshSbJHqc_BCvinq5RDbmZb&gaa_ts=699ea94a&gaa_sig=TeNjn213hd44JtE6cXelTOSwQnhFn5cLix__fPnkac-DctmT4kOQhuVtPPMUL9Fc12fHitGhamhIzBmB1-HVyA%3D%3D)**
-
-MarketWatch • 1d ago
-
----
-
-**['If it's not going to zero, it's going to a million': Michael Saylor's Strategy buys another 592 bitcoin for $40M](https://www.theblock.co/post/390770/if-its-not-going-to-zero-its-going-to-a-million-michael-saylors-strategy-buys-more-bitcoin)**
-
-Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $47.5 billion.
-
-The Block • 1d ago
-
----
-
-**[Crypto firm with U.S. bank charter holds bitcoin holder Strategy's preferred stock](https://www.coindesk.com/markets/2026/02/25/crypto-firm-with-a-u-s-bank-charter-adds-bitcoin-holder-strategy-stock-to-its-balance-sheet)**
-
-Anchorage Digital, the first federally chartered U.S. crypto bank, has added perpetual preferred stock in bitcoin treasury firm Strategy to its balance sheet.
-
-CoinDesk • 1h ago
-
----
-
-**[Bitcoin Bounces From $62,500 but On-Chain Data Signals Prolonged Weakness](https://finance.yahoo.com/news/bitcoin-bounces-62-500-chain-060651941.html)**
-
-Bitcoin price drops below $65,000 as realized losses surge and distribution signals prolonged liquidity weakness and heightened risk.
-
-Yahoo Finance • 1h ago
+Yahoo Finance • 18h ago
 
 ---
 
 **[Bitcoin Break-Even Trap Is Killing Every Rally as Buyers Strike](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-break-even-trap-is-killing-every-rally-as-buyers-strike)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
-**[Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.](https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?gaa_at=eafs&gaa_n=AWEtsqedvOUGDJ8XDxG4Vs3EzYWt_RxAPIXY-3-nBP9HVErEyXyOals1VUFi&gaa_ts=699ea94a&gaa_sig=bT3loyIm1IDmNUvEY1c8a6O6TdjbiEq-FbTRjjpfwXIApF52hcz8IqVomTAL5tBVr9-ebD5BI5FE3uuHKR8zJA%3D%3D)**
+**[Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.](https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?gaa_at=eafs&gaa_n=AWEtsqeQBh2w4SYkz-wPX73qXDWm4vpiPJo-7q7o-UVfTb0V5E9CzOpIpB1-&gaa_ts=699ebb9d&gaa_sig=KzLF3Zxo-uxZ1z5rtIN0ixqtihJ00-p_-Wl6rxHfv2SoBSTDAWKdpT2zKNLWH9LAzCcA6ZQIlg0vHZ5fvGBXDw%3D%3D)**
+
+MarketWatch • 1d ago
+
+---
+
+**[Hedge Funds That Piled Into US Bitcoin Funds Are First to Exit](https://finance.yahoo.com/news/hedge-funds-piled-us-bitcoin-093355654.html)**
+
+Aggregate Bitcoin ETF allocations among the largest hedge fund holders fell 28% from the third to the fourth quarter of 2025, according to data compiled by CF Benchmarks, a wholly-owned subsidiary of crypto exchange Kraken.  Bitcoin is down almost 50% from its October peak of over $126,000.  “The dominant theme over the last two quarters was hedge fund de-risking,” Gabe Selby, head of research at CF Benchmarks, wrote in a Feb. 19 research note.
+
+Yahoo Finance • 1d ago
+
+---
+
+**[Bitcoin extends decline, falling below $63,000 before paring some losses](https://www.cnbc.com/2026/02/24/bitcoin-extends-decline-falling-below-64000-btc-trump-tariffs-ai-crypto.html)**
+
+Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
+
+CNBC • 1d ago
+
+---
+
+**[Bitcoin Took Its First Step Against Quantum Computers](https://www.forbes.com/sites/digital-assets/2026/02/23/bitcoin-took-its-first-step-against-quantum-computers/)**
+
+Forbes • 1d ago
+
+---
+
+**[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqefy-tYTMUry6Yxbtk-6FDEVTgtbjeintv4e8FeTO-qJaFdaXL-SNYn&gaa_ts=699ebb9d&gaa_sig=hyrF2Nv8c_GuUcIW84tBgJA9ynOqJbMmqJpC1mY-uiRrFDis8rjxos17acMDrgoLIn5YLYGFtP06BXBhodp5Nw%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -237,7 +235,7 @@ MarketWatch • 1d ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 6 • 💬 16 • 16h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+⬆️ 6 • 💬 17 • 18h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
 
 ---
 
@@ -245,7 +243,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
-⬆️ 1 • 💬 1 • 16h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
+⬆️ 1 • 💬 1 • 17h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
 
 ---
 
@@ -259,7 +257,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 The Chicago-based company said it was temporarily suspending client deposits and withdrawals last week due to recent market and financial conditions.
 
-⬆️ 1 • 💬 0 • 19h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
+⬆️ 1 • 💬 0 • 20h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
 
 ---
 
@@ -299,9 +297,11 @@ Financial independence on a bitcoin standard
 
 ---
 
-**[We Built UltrafastSecp256k1 Up to 51% Faster ECC Across x86,ARM64,and RISC-V](https://news.ycombinator.com/item?id=47110770)**
+**[Show HN: Quantifying opportunity cost with a deliberately "simple" web app](https://news.ycombinator.com/item?id=47138631)**
 
-⬆️ 5 • 💬 0 • 2d ago
+Stop wondering. Calculate the exact amount of wealth you abandoned. A monument to wrong decisions. Verified pain inside.
+
+⬆️ 9 • 💬 5 • 17h ago • [shouldhavebought.com](https://shouldhavebought.com/)
 
 ---
 
@@ -315,7 +315,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 18K • 👍 1K • 💬 265 • ⏱️ 13:40 • 13h ago
+👁️ 18K • 👍 1K • 💬 265 • ⏱️ 13:40 • 14h ago
 
 ---
 
@@ -325,7 +325,7 @@ Get my free guide to building a tax-free bitcoin income stream: https://link.1ma
 
 📺 Mark Moss
 
-👁️ 44K • 👍 2K • 💬 290 • ⏱️ 15:47 • 10h ago
+👁️ 44K • 👍 2K • 💬 290 • ⏱️ 15:47 • 11h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin is down 45% from its all-time high as AI disruption rattles global marke
 
 📺 Swan Bitcoin
 
-👁️ 28K • 👍 1K • 💬 139 • ⏱️ 19:02 • 8h ago
+👁️ 28K • 👍 1K • 💬 139 • ⏱️ 19:02 • 9h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin was supposed to break out in 2026. Instead it ran to 126K and crashed ba
 
 📺 Simply Bitcoin
 
-👁️ 15K • 👍 1K • 💬 83 • ⏱️ 15:53 • 9h ago
+👁️ 15K • 👍 1K • 💬 83 • ⏱️ 15:53 • 10h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Be
 
 📺 Fox Business
 
-👁️ 28K • 👍 437 • 💬 419 • ⏱️ 9:01 • 11h ago
+👁️ 28K • 👍 437 • 💬 419 • ⏱️ 9:01 • 12h ago
 
 ---
 
@@ -395,7 +395,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 24K • 👍 1K • 💬 121 • ⏱️ 45:23 • 15h ago
+👁️ 24K • 👍 1K • 💬 121 • ⏱️ 45:23 • 17h ago
 
 ---
 
