@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T02:13:11.353582+00:00'
+updated: '2026-02-25T04:32:08.979670+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - news
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 02:13 UTC  
+**Last Updated:** February 25, 2026 at 04:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,083.25
+### $65,590.22
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +4.1%  
-**7d:** -1.2%  
-**30d:** -25.9%  
-**90d:** -27.1%  
-**1y:** -21.2%  
+**24h:** +4.0%  
+**7d:** -2.1%  
+**30d:** -26.5%  
+**90d:** -27.8%  
+**1y:** -22.0%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1323.71B
+**Market Cap:** $1310.54B
 Rank #1
 
-**Circulating Supply:** 19,994,378 BTC
+**Circulating Supply:** 19,994,384 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.6%
+-48.0%
 
 **All-Time Low:** $67.81
-+97359.1%
++96583.4%
 
 ---
 
@@ -77,11 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin is Dead. Long Live Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1rdrie8/bitcoin_is_dead_long_live_bitcoin/)**
+
+8h ago
+
+---
+
 **[I wrote a children's book containing all 2,048 BIP39 seed words – here's why](https://www.reddit.com/r/Bitcoin/comments/1rdplwo/i_wrote_a_childrens_book_containing_all_2048/)**
 
 Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (especially when traveling), I had a weird idea: What if I hid ALL 2,048 BIP39 words inside a normal-looking children's book? So I wrote "The Adventures of Veit the Fox" – a 19-chapter adventure story about a fox’s adventures, published it, and had it delivered to me as a paperback. It reads like a normal kids' book, but every single BIP39 word appears naturally in the text. How the backup works: Your 12- or 24-word seed becomes a list of page/line/word numbers Example: "abandon" → Page 12, Line 3, Word 5 → "12-3-5" The numbers look meaningless to anyone who finds them The book looks like an innocent children's book on your shelf Why do I love this backup: Nobody suspects a children's book You can keep the book and numbers in separate locations Even if someone finds both, they don't know it's a backup Inconspicuous when traveling and crossing borders I also created a word index PDF showing where each word appears, because without it it is extremely time-consuming to find the words. Maybe this will be a helpful tip for you too. Happy to answer questions about the process or the book cipher concept!
 
-6h ago
+9h ago
 
 ---
 
@@ -89,25 +95,19 @@ Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (e
 
 What would owning even 1 BTC do for you financially, and would you be richer than a lot of people?
 
-8h ago
+10h ago
 
 ---
 
 **[Bitcoin is "dead"](https://www.reddit.com/r/Bitcoin/comments/1rda9jh/bitcoin_is_dead/)**
 
-18h ago
-
----
-
-**[Bitcoin is Dead. Long Live Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1rdrie8/bitcoin_is_dead_long_live_bitcoin/)**
-
-5h ago
+20h ago
 
 ---
 
 **[Previously on, If I Had a Time Machine....](https://www.reddit.com/r/Bitcoin/comments/1rdf4pw/previously_on_if_i_had_a_time_machine/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -115,7 +115,15 @@ What would owning even 1 BTC do for you financially, and would you be richer tha
 
 …I like it at a 50% discount
 
-4h ago
+7h ago
+
+---
+
+**[BTC hitting 62500 thoughts on breaking the early feb low](https://www.reddit.com/r/Bitcoin/comments/1rdyjno/btc_hitting_62500_thoughts_on_breaking_the_early/)**
+
+bitcoin just hit 62500 and things are looking shaky do you think we stay above the 60055 low from february 6 or is a breakdown coming let me know if you are buying here or waiting for sub 60k
+
+3h ago
 
 ---
 
@@ -123,7 +131,7 @@ What would owning even 1 BTC do for you financially, and would you be richer tha
 
 My strategy for not missing the bottom is the following: 5 Times a week I invest x k per Day in BTC for the next 30 weeks and so should you! Don't wait until we have the price range between 40-45k which everyone is expecting rn. As we have seen the last cycles this doesn't play out, people tend to get emotional and wait until they think it can't get lower. The price of 60-64k is already super cheap in my opinion. Cheers guys! Edit: took out the amount because some guys take it personal. Only wanted to explain my strategy so there you go!
 
-9h ago
+11h ago
 
 ---
 
@@ -131,23 +139,15 @@ My strategy for not missing the bottom is the following: 5 Times a week I invest
 
 It seems that Jane street may have been manipulating bitcoin on a daily basis slamming Bitcoin futures to make massive profits. A good profitable could be to potentially squeeze its shorts by massively all of us start to buy bitcoin So many additional shorts to be squeezed in addition to jane street as well
 
-5h ago
+8h ago
 
 ---
 
-**[Emirates NBD, a leading bank in the United Arab Emirates with assets totaling $16 billion, sees bitcoin as ‘digital gold,’ explores adding BTC to portfolio](https://www.reddit.com/r/Bitcoin/comments/1rdhw7v/emirates_nbd_a_leading_bank_in_the_united_arab/)**
+**[What I’ve Noticed](https://www.reddit.com/r/Bitcoin/comments/1re2bzu/what_ive_noticed/)**
 
-Later in the video he's being asked if they're considering shitcoins like ether and Mr Gravier explained they're nothing more than shitcoins. Full video: https://www.cnbc.com/video/2026/02/24/maurice-gauvier-crypto.html
+What I’ve noticed about tops is that they usually come when everyone thinks it’s going to go much higher. What I’ve noticed about bottoms is they usually come when everyone thinks it’s going much lower. Do with this information as you please.
 
-11h ago
-
----
-
-**[My daily buy just keeps going up :)](https://www.reddit.com/r/Bitcoin/comments/1rdepfo/my_daily_buy_just_keeps_going_up/)**
-
-I had no intention of selling this year. I've invested money I do not need liquid. At about 1:30, I get a notification of sats aquired and the number is way higher than what I was getting two months ago. I know a lot of people are in pain with the current prices, and a lot of leverage users have been obliterated, but my steady strategy has always paid off. Right now I'm getting extra.
-
-13h ago
+52m ago
 
 ---
 
@@ -159,7 +159,7 @@ I had no intention of selling this year. I've invested money I do not need liqui
 
 The deal was funded through the issuance of Canaan shares valued at roughly $39.75 million, making Cipher a significant shareholder.
 
-The Block • 21h ago
+The Block • 23h ago
 
 ---
 
@@ -167,43 +167,43 @@ The Block • 21h ago
 
 Bitcoin briefly sank below $63,000 on Tuesday, dragging down its miners alongside it.
 
-CNBC • 8h ago
+CNBC • 10h ago
 
 ---
 
-**[Cipher rebrands to Cipher Digital, plans to sell Bitcoin treasury](https://finance.yahoo.com/news/cipher-rebrands-cipher-digital-plans-145614953.html)**
+**[Solo Miner Turns $75 Into $200,000 Bitcoin Block Reward Using Rented Hashrate](https://bitcoinmagazine.com/news/solo-miner-turns-75-into-200000)**
 
-Cipher Digital reported fourth-quarter results while detailing a transition toward data center development and Bitcoin treasury liquidation
+A solo miner turned $75 in rented hashpower into a $200,000 Bitcoin block reward, defying steep odds in a rare, lottery-like win.
 
-Yahoo Finance • 11h ago
-
----
-
-**[Bitcoin extends decline, falling below $63,000 before paring some losses](https://www.cnbc.com/2026/02/24/bitcoin-extends-decline-falling-below-64000-btc-trump-tariffs-ai-crypto.html)**
-
-Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
-
-CNBC • 22h ago
+Bitcoin Magazine • 8h ago
 
 ---
 
-**[Hedge Funds That Piled Into US Bitcoin Funds Are First to Exit](https://www.bloomberg.com/news/articles/2026-02-23/hedge-funds-that-piled-into-us-bitcoin-btc-funds-are-first-to-exit)**
+**[Bitcoin Depot Will Require ID for 'Every Transaction' at ATMs Amid Growing Pressure](https://decrypt.co/359045/bitcoin-depot-require-id-every-transaction-atms-growing-pressure)**
 
-Bloomberg • 1d ago
+Bitcoin Depot will begin verifying customers’ identities each time they use its ATMs, voluntarily refining its compliance procedures.
+
+Decrypt • 6h ago
 
 ---
 
-**[Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.](https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?gaa_at=eafs&gaa_n=AWEtsqcVI7D-G1HB1Cerj1XKVHOF5Y1TPjOTVRX0EMBvkjAQBO-32gf5g_UD&gaa_ts=699e5db3&gaa_sig=ByHM266Wbv7rhGPlNo-HFaof-jdOpY234jDx6uXqXwQhTjj_h1DSifSWunXvwfv_m70DUumhV7gRnYhubnqcTQ%3D%3D)**
+**[Bitcoin Break-Even Trap Is Killing Every Rally as Buyers Strike](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-break-even-trap-is-killing-every-rally-as-buyers-strike)**
+
+Bloomberg.com • 11h ago
+
+---
+
+**[Bitcoin ETFs are hemorrhaging billions. Here’s what investors awaiting a crypto turnaround should watch for.](https://www.marketwatch.com/story/bitcoin-etfs-are-hemorrhaging-billions-heres-what-investors-awaiting-a-crypto-turnaround-should-watch-for-33d31eed?gaa_at=eafs&gaa_n=AWEtsqf7toU6Dm7fKHQB54ZgDwUKylKcbGin-tBOp_siBLEl9FiK4Zvp_G86&gaa_ts=699e7e9c&gaa_sig=OoI9IEHRl9iMNxukAYxiy58qFJcC7T3PyeDJeIJStxdoMJXiZNHulyLrPMxAHTZxVvQh_rbyBtgQ4KLQMlv0fg%3D%3D)**
 
 MarketWatch • 1d ago
 
 ---
 
-**[New Data Shows Which US Investors Actually Sold Bitcoin ETFs](https://finance.yahoo.com/news/data-shows-us-investors-actually-004138088.html)**
+**[Hedge Funds That Piled Into US Bitcoin Funds Are First to Exit](https://finance.yahoo.com/news/hedge-funds-piled-us-bitcoin-093355654.html)**
 
-New 13F filing data reveals which Wall Street firms sold Bitcoin ETFs, cutting exposure by over $1.6 billion as outflows rise.
+Aggregate Bitcoin ETF allocations among the largest hedge fund holders fell 28% from the third to the fourth quarter of 2025, according to data compiled by CF Benchmarks, a wholly-owned subsidiary of crypto exchange Kraken.  Bitcoin is down almost 50% from its October peak of over $126,000.  “The dominant theme over the last two quarters was hedge fund de-risking,” Gabe Selby, head of research at CF Benchmarks, wrote in a Feb. 19 research note.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -211,17 +211,19 @@ Yahoo Finance • 1h ago
 
 Key PointsBitcoin and XRP are both likely to grow significantly over the coming years.
 
-Nasdaq • 4h ago
+Nasdaq • 6h ago
 
 ---
 
-**[Bitcoin Took Its First Step Against Quantum Computers](https://www.forbes.com/sites/digital-assets/2026/02/23/bitcoin-took-its-first-step-against-quantum-computers/)**
+**[Bitcoin extends decline, falling below $63,000 before paring some losses](https://www.cnbc.com/2026/02/24/bitcoin-extends-decline-falling-below-64000-btc-trump-tariffs-ai-crypto.html)**
 
-Forbes • 1d ago
+Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
+
+CNBC • 1d ago
 
 ---
 
-**[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqdySptULNilI7qI5I51plhVyxEtY-d-rGrqXfQHViK5Lq8rQu7Czr0y&gaa_ts=699e5db3&gaa_sig=TtiHxeu2DXPwNH3XnJQv1KWkOhkwSjHQof2NZFKuFFuf7yYwgZbThG_mdThixFSyDtvktG3j39HLM2IhHY_xwA%3D%3D)**
+**[Strategy shows no fear — it keeps adding to a losing bitcoin position as prices drop](https://www.marketwatch.com/story/strategy-shows-no-fear-it-keeps-adding-to-a-losing-bitcoin-position-as-prices-drop-950e8de1?gaa_at=eafs&gaa_n=AWEtsqdrXblVo-oOdG8E8gk9yR94YVJcSfaGVsr1sRIOJG-NDqRxwSVnbyhF&gaa_ts=699e7e9c&gaa_sig=EkUnutcro8X4xws2qnAIrSCcpr-C7rjNGhUzTW6J_VTIWCbHjWDwHUmDz1jYLfgbCFrK-tjDzv2DUq8J-QlLaQ%3D%3D)**
 
 MarketWatch • 1d ago
 
@@ -235,7 +237,7 @@ MarketWatch • 1d ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 6 • 💬 16 • 11h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+⬆️ 6 • 💬 16 • 13h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
 
 ---
 
@@ -243,7 +245,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
-⬆️ 1 • 💬 1 • 10h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
+⬆️ 1 • 💬 1 • 13h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
 
 ---
 
@@ -257,7 +259,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 The Chicago-based company said it was temporarily suspending client deposits and withdrawals last week due to recent market and financial conditions.
 
-⬆️ 1 • 💬 0 • 14h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
+⬆️ 1 • 💬 0 • 16h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
 
 ---
 
@@ -313,27 +315,7 @@ Get my free guide to building a tax-free bitcoin income stream: https://link.1ma
 
 📺 Mark Moss
 
-👁️ 23K • 👍 2K • 💬 361 • ⏱️ 15:47 • 5h ago
-
----
-
-**[Michael Saylor Reveals the Pattern Behind Bitcoin’s Crash!](https://www.youtube.com/watch?v=eWLncwZY2QQ)**
-
-Bitcoin is down 45% from its all-time high as AI disruption rattles global markets and uncertainty hits record levels. With weekly ...
-
-📺 Swan Bitcoin
-
-👁️ 8K • 👍 796 • 💬 85 • ⏱️ 19:02 • 3h ago
-
----
-
-**[Blockstream CEO Adam Back on Bitcoin&#39;s downturn](https://www.youtube.com/watch?v=grythd396gM)**
-
-Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk the downturn in Bitcoin, the state of the crypto ...
-
-📺 CNBC Television
-
-👁️ 38K • 👍 319 • 💬 379 • ⏱️ 3:54 • 1d ago
+👁️ 35K • 👍 2K • 💬 292 • ⏱️ 15:47 • 7h ago
 
 ---
 
@@ -343,27 +325,27 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 15K • 👍 933 • 💬 247 • ⏱️ 13:40 • 8h ago
+👁️ 17K • 👍 972 • 💬 264 • ⏱️ 13:40 • 10h ago
 
 ---
 
-**[Bitcoin Investors… Get Ready for State of the Union Volatility](https://www.youtube.com/watch?v=UtRUFzuOUEs)**
+**[Michael Saylor Reveals the Pattern Behind Bitcoin’s Crash!](https://www.youtube.com/watch?v=eWLncwZY2QQ)**
 
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+Bitcoin is down 45% from its all-time high as AI disruption rattles global markets and uncertainty hits record levels. With weekly ...
 
-📺 CryptosRUs
+📺 Swan Bitcoin
 
-👁️ 22K • 👍 1K • 💬 107 • ⏱️ 45:23 • 10h ago
+👁️ 19K • 👍 1K • 💬 128 • ⏱️ 19:02 • 5h ago
 
 ---
 
-**[Bitcoin Is Set Up for a Strong Rebound, Says Bitwise&#39;s Rasmussen](https://www.youtube.com/watch?v=LDj3344lK04)**
+**[Blockstream CEO Adam Back on Bitcoin&#39;s downturn](https://www.youtube.com/watch?v=grythd396gM)**
 
-Bitcoin remained tethered near the the lower end of its recent trading range even as global financial markets showed signs of a ...
+Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk the downturn in Bitcoin, the state of the crypto ...
 
-📺 Bloomberg Television
+📺 CNBC Television
 
-👁️ 3K • 👍 72 • 💬 70 • ⏱️ 7:26 • 5h ago
+👁️ 39K • 👍 332 • 💬 382 • ⏱️ 3:54 • 1d ago
 
 ---
 
@@ -373,7 +355,27 @@ Bitcoin remained tethered near the the lower end of its recent trading range eve
 
 📺 Fox Business
 
-👁️ 18K • 👍 365 • 💬 359 • ⏱️ 9:01 • 5h ago
+👁️ 24K • 👍 404 • 💬 396 • ⏱️ 9:01 • 8h ago
+
+---
+
+**[Bitcoin Investors… Get Ready for State of the Union Volatility](https://www.youtube.com/watch?v=UtRUFzuOUEs)**
+
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+
+📺 CryptosRUs
+
+👁️ 23K • 👍 1K • 💬 143 • ⏱️ 45:23 • 12h ago
+
+---
+
+**[Is Bitcoin&#39;s Price Being Suppressed? Billionaire Leaks Manipulation Secrets](https://www.youtube.com/watch?v=0KhA_VB3QYM)**
+
+Bitcoin was supposed to break out in 2026. Instead it ran to 126K and crashed back to 63K. So what really happened?
+
+📺 Simply Bitcoin
+
+👁️ 12K • 👍 1K • 💬 81 • ⏱️ 15:53 • 6h ago
 
 ---
 
@@ -387,6 +389,16 @@ Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Be
 
 ---
 
+**[Bitcoin Is Set Up for a Strong Rebound, Says Bitwise&#39;s Rasmussen](https://www.youtube.com/watch?v=LDj3344lK04)**
+
+Bitcoin remained tethered near the the lower end of its recent trading range even as global financial markets showed signs of a ...
+
+📺 Bloomberg Television
+
+👁️ 4K • 👍 82 • 💬 98 • ⏱️ 7:26 • 7h ago
+
+---
+
 **[Something Big is About to Happen to Bitcoin (and may have an OPPOSITE effect)](https://www.youtube.com/watch?v=gshvpBDiTd8)**
 
 Something big is about to happen to bitcoin and may have an opposite effect, contrary to what many people expect. We explain ...
@@ -394,16 +406,6 @@ Something big is about to happen to bitcoin and may have an opposite effect, con
 📺 Alessio Rastani
 
 👁️ 53K • 👍 3K • 💬 484 • ⏱️ 17:51 • 1d ago
-
----
-
-**[Whales are BUYING!!! #crypto](https://www.youtube.com/watch?v=n7qFFbz-Fv4)**
-
-bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 17K • 👍 485 • 💬 28 • ⏱️ 1:05 • 1d ago
 
 ---
 
