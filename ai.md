@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-25T19:07:58.416445+00:00'
+updated: '2026-02-25T19:58:51.075840+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- videos
 - repositories
+- videos
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 25, 2026 at 19:07 UTC  
+**Last Updated:** February 25, 2026 at 19:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Hello! I want to share an experiment I’ve been running. Over the past few week
 
 In an abrupt shift, the company may release future AI models without ironclad safety guarantees
 
-🔗 [TIME](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) • 16h ago
+🔗 [TIME](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) • 17h ago
 
 ---
 
@@ -57,7 +57,7 @@ In an abrupt shift, the company may release future AI models without ironclad s
 
 Abstract: We report the performance of Aletheia (Feng et al., 2026b), a mathematics research agent powered by Gemini 3 Deep Think, on the inaugural FirstProof challenge. Within the allowed timeframe of the challenge, Aletheia autonomously solved 6 problems (2, 5, 7, 8, 9, 10) out of 10 according to majority expert assessments; we note that experts were not unanimous on Problem 8 (only). For full transparency, we explain our interpretation of FirstProof and disclose details about our experiments as well as our evaluation. Raw prompts and outputs are available at this https URL. FirstProof Abstract: To assess the ability of current AI systems to correctly answer research-level mathematics questions, we share a set of ten math questions which have arisen naturally in the research process of the authors. The questions had not been shared publicly until now; the answers are known to the authors of the questions but will remain encrypted for a short time.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 13m ago
+🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ I had this insight as I was vibecoding the night away. Of course people are goin
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-🔗 [anthropic.com](https://www.anthropic.com/responsible-scaling-policy/roadmap) • 20h ago
+🔗 [anthropic.com](https://www.anthropic.com/responsible-scaling-policy/roadmap) • 21h ago
 
 ---
 
@@ -139,7 +139,7 @@ Yahoo Finance • 7h ago
 
 **[Bleak Research Report Stokes A.I. Debate on Wall St. - The New York Times](https://www.nytimes.com/2026/02/25/business/citrini-ai-stock-market.html)**
 
-The New York Times • 50m ago
+The New York Times • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ The New York Times • 50m ago
 
 AI is not a doomsday device. It’s a boon for the stocks of firms with high barriers to entry due to large capital investment. Eventually, as inflation comes down, bonds will benefit too.
 
-Bloomberg.com • 44m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ Bloomberg.com • 44m ago
 
 Uncertainty around the long-term viability of software business models has major ripple effects on today's stock prices.
 
-CNBC • 10m ago
+CNBC • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ CNBC • 10m ago
 
 Public backlash over the data center boom is leading to a variety of draconian policies—including bans on new construction.
 
-TechCrunch • 4m ago
+TechCrunch • 55m ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 9h ago
 
 Last month, the Federal Trade Commission warned that it has seen a “big wave” of phone scams in which fraudsters claim to be from the IRS.
 
-The Washington Post • 32m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -290,7 +290,7 @@ I made ai create my very own all in one AI webapp! This was definitely interesti
 
 📺 tef
 
-👁️ 22K • 👍 2K • 💬 294 • ⏱️ 8:46 • 1d ago
+👁️ 22K • 👍 2K • 💬 294 • ⏱️ 8:46 • 2d ago
 
 ---
 
@@ -360,7 +360,7 @@ The most unhinged AI music generator just dropped — and right now, it's comple
 
 📺 Theoretically Media
 
-👁️ 27K • 👍 2K • 💬 461 • ⏱️ 14:49 • 19h ago
+👁️ 27K • 👍 2K • 💬 461 • ⏱️ 14:49 • 20h ago
 
 ---
 
@@ -420,7 +420,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,875 • ❤️ 270 • 16h ago
+⬇️ 6,875 • ❤️ 270 • 17h ago
 
 ---
 
@@ -650,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.1k • 🔱 2.3k • 47m ago
+⭐ 19.1k • 🔱 2.3k • 1h ago
 
 ---
 
@@ -668,7 +668,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.5k • 🔱 675 • 12h ago
+⭐ 5.5k • 🔱 675 • 13h ago
 
 ---
 
@@ -698,7 +698,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.3k • 🔱 434 • 2h ago
+⭐ 3.3k • 🔱 434 • 3h ago
 
 ---
 
@@ -718,7 +718,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.8k • 🔱 193 • 17m ago
+⭐ 2.8k • 🔱 193 • 1h ago
 
 ---
 
@@ -728,7 +728,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 490 • 4h ago
+⭐ 2.5k • 🔱 490 • 5h ago
 
 ---
 
@@ -738,7 +738,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 268 • 5h ago
+⭐ 2.4k • 🔱 268 • 6h ago
 
 ---
 

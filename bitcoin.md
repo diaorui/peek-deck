@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T19:07:58.423760+00:00'
+updated: '2026-02-25T19:58:51.084450+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 19:07 UTC  
+**Last Updated:** February 25, 2026 at 19:58 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4f008711480e9de8c23a06b3d9e6bbd824ed6 Thoughts on this?
 
-1h ago
+2h ago
 
 ---
 
@@ -97,7 +97,7 @@ If you owned a full Bitcoin, do you think things would change in ten years?
 
 Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
-1h ago
+2h ago
 
 ---
 
@@ -105,7 +105,7 @@ Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
 Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 months ago the average normie that did zero research on BTC & thinks it's a scam saw it shoot past $125,000 and subsequently regretted not getting some at the bottom. That same bitter normie is now glad the fiat cuck buck price of BTC has halved, he's euphoric even. He's telling people how glad he is that he didn't buy in, that he knew this would happen & that the guy, who communicated federal crimes over Gmail, is Satoshi. In the meantime Wall Street, nation states & banks have legitimized Bitcoin as a real, disruptive asset, that needs to be custodied, regulated & included in every portfolio. Last year & especially this year it dawned on me: hyperbitcoinization among the sheeple won't happen, not in a million years. This bright future we're imagining for humanity, that will finally be able to use a free, sovereign, energy-backed money, will not come to fruition. The average person could literally watch Bitcoin do another 150x from here and think it's a worthless, ocean-boiling ponzi scheme. I wanted to see regular folk aquire some Bitcoin for themselves, for their family. I tried educating them, like others educated me. I did my part. Few listened. Eventually I gave up telling people about it, as I think it's unnecessary at this point. This time around I'm GLAD corporations, billionaires and ETFs are accumulating. Maybe this arrogant, ignorant, mindless mass of stupid consumers doesn't deserve to hold this asset. And I'm okay with that.
 
-2h ago
+3h ago
 
 ---
 
@@ -113,7 +113,7 @@ Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 mon
 
 I have always wanted to buy BTC after a big crash and hold out until I almost double my money. This week was the perfect opportunity. I bought $5k worth of BTC when it was at $63,300 and then another $5k worth when it went back up to $64,500, fearing the $62,000 was the lowest it would get this cycle. So wish me luck! If anybody has any advice for noobies, I am all ears! But I’m feeling pretty good about this so far!
 
-2h ago
+3h ago
 
 ---
 
@@ -121,7 +121,7 @@ I have always wanted to buy BTC after a big crash and hold out until I almost do
 
 Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. Let's assume the high was $126,000 and the low was $60,000. As a holder, you considered either holding and forgetting about it or trading the 4 year cycle. Realistically and objectively, it's impossible to sell at exactly $126,000 and then buy back at $60,000, 50% cheaper. Let's say you sold everything at $100,000 and now, during the drop, you bought back at $70,000. the difference is very small. When Bitcoin is at 500,000, it won't matter whether you bought it at 100,000 or 70,000. Is it worth it? The possibility of selling and missing out while the price rises, the added stress, the fees for entering and exiting the market, and paying taxes to sell at $100,000 and buy back at $70,000? Because nobody sells at the exact maximum and buys back at the exact bottom. I clearly see that the ideal strategy is to hold, saving you commissions, taxes, stress, and on top of that, ensuring you don't miss out on the market when it goes up.
 
-4h ago
+5h ago
 
 ---
 
@@ -129,13 +129,13 @@ Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. 
 
 I have about $4000 USD with cashapp that I purchased through their service. All of the sudden without explanation they closed my account. Now I cannot move my BTC off of their platform to a cold wallet. I have to sell for USD which generates a taxable event. If it can happen to a random person like me it can happen to you.
 
-4h ago
+5h ago
 
 ---
 
 **[60% of the time, bitcoin works every time](https://www.reddit.com/r/Bitcoin/comments/1rei11t/60_of_the_time_bitcoin_works_every_time/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -143,7 +143,7 @@ I have about $4000 USD with cashapp that I purchased through their service. All 
 
 Cash App has a map feature on the Bitcoin page, that I just noticed. I know people will say, “don’t spend your Bitcoin!”, but isn’t this what Bitcoin will be used for in the (hopefully) near future? Tell me what’s wrong with seeing this in Cash App, or BTC ATM icons in Waze, or any other big company involved with providing exposure to BTC.
 
-5h ago
+6h ago
 
 ---
 
@@ -151,7 +151,7 @@ Cash App has a map feature on the Bitcoin page, that I just noticed. I know peop
 
 I've been DCAing on strike since the beginning of January. I've accumulated a decent amount to the point where I'd be more comfortable sending it to my Ledger. To transfer my full amount they want to charge me damn near $50 and $30 for the standard delivery time (approx 1 hour) For a 24-hour time frame delivery, it says free. Does anyone have any good experience with the "flexible transfer" or should I pay the transfer fee?
 
-2h ago
+3h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Block • 1d ago
 
 Bitcoin mining profitability crashes below 3 cents per terahash as hash prices plummet 30%, forcing miners to pivot toward AI computing opportunities.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 1h ago
 
 Anchorage Digital, the first federally chartered U.S. crypto bank, has added perpetual preferred stock in bitcoin treasury firm Strategy to its balance sheet.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 11h ago
 
 Strategy (NASDAQ:MSTR) bought 592 Bitcoin (CRYPTO: BTC) for $39.8 million marking its 100th purchase announcement since August 2020, despite sitting on a $7 billion unrealized loss. The 100th Purchase Milestone Strategy sold 297,940 shares of common stock between February 17-22,...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -211,7 +211,7 @@ Yahoo Finance • 17h ago
 
 Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
 
-Bloomberg.com • 23m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -227,13 +227,13 @@ CoinDesk • 1h ago
 
 Dubai, UAE, Feb.  25, 2026  (GLOBE NEWSWIRE) -- Pepeto just did something no meme coin presale has done. It crossed $7.32 million raised, shipped ...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
 **[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqfHAc1WCcaT1biSi4QI54KHcmNhobwZnxi-Jal62ACAhBXpR13D3NUP&gaa_ts=699f4bf6&gaa_sig=5vSLztXJQ-42NQhyGArfO8rBaXKpUbSOw6ZpzHL0H57fDMG2pl4Kl23gtGZSg9UlrEotB1nfoZklvK1yIt0sqw%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -265,7 +265,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 3d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 4d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance Bitcoin accumulation is approaching extreme levels at t
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 816 • 💬 125 • ⏱️ 29:33 • 4h ago
+👁️ 12K • 👍 816 • 💬 125 • ⏱️ 29:33 • 5h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 107 • ⏱️ 9:37 • 19h ago
+👁️ 42K • 👍 2K • 💬 107 • ⏱️ 9:37 • 20h ago
 
 ---
 
@@ -353,7 +353,7 @@ SIGN UP TO FEFE'S EXCLUSIVE BITFUNDED MASTERCLASSS NOW!
 
 📺 100XClub
 
-👁️ 9K • 👍 915 • 💬 162 • ⏱️ 10:33 • 9h ago
+👁️ 9K • 👍 915 • 💬 162 • ⏱️ 10:33 • 10h ago
 
 ---
 
@@ -403,7 +403,7 @@ Bitcoin remained tethered near the the lower end of its recent trading range eve
 
 📺 Bloomberg Television
 
-👁️ 8K • 👍 120 • 💬 94 • ⏱️ 7:26 • 22h ago
+👁️ 8K • 👍 120 • 💬 94 • ⏱️ 7:26 • 23h ago
 
 ---
 

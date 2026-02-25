@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-25T19:07:58.428884+00:00'
+updated: '2026-02-25T19:58:51.090482+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 19:07 UTC  
+**Last Updated:** February 25, 2026 at 19:58 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Meta is reportedly preparing stablecoin payments for Facebook, Instagram, and WhatsApp in H2 2026, a move that could put Ethereum rails behind everyday transfers.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/meta-stablecoin-integration-ethereum-h2-2026/) • 20h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/meta-stablecoin-integration-ethereum-h2-2026/) • 21h ago
 
 ---
 
@@ -96,7 +96,7 @@ The Ethereum Foundation has started staking a portion of its ETH treasury, with 
 
 Supporting the builders shaping decentralized finance and strengthening Ethereum as the global financial settlement layer
 
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/23/commitment-to-defi) • 23h ago
+🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/23/commitment-to-defi) • 1d ago
 
 ---
 
@@ -104,7 +104,7 @@ Supporting the builders shaping decentralized finance and strengthening Ethereum
 
 One variable that changed for me is "stable era mindset vs chaotic era mindset". When you're in a "stable era", you see how private property is suboptimal, how economics can easily churn out 10+ categories of situations where it's obvious that certain taxes, incentives to make things available at better prices, etc can produce first-order gains with only second-order deadweight losses (which means that at low levels, the gains greatly exceed the losses). "Pure" private property is only "optimal" under spherical-cow economic assumptions like perfect competition. But in a "chaotic era", private property is more about schelling points - it's about creating a bulwark that's easy for people to understand and rally around defending, that says "your attempt to intervene in my life from the outside ends here". In the chaotic era, infringements on personal space are less likely to be well-meaning bureaucrats who overreach because they have not read enough Hayek, and more likely to be coming from a place of outright indifference or even hostility to your well-being. And looking at modern politics, yeah, there's a lot of that now. Since a lot of "Vitalik hates private property" sentiment comes from me liking Harberger taxes, I'll address that topic directly. My biggest update since the original 2016-19 era ideas was that, when designing details of Harberger taxes, the best motivating example to organize thought around is not "your house", rather it's "corporate intellectual property and walled gardens". If we think about the underlying complaints that people have about powerful corporations, the walled gardens and various ways in which centralized power accumulates on itself is top 5 on the list. What would it look like to build a "Harberger tax" that would tax eg. social platforms, Apple, etc more if they acted as walled gardens, and less if they enabled interoperability (and zero if they were fully open-source and interoperable and forkable)? There is a lot of energy right now around wanting to tax very wealthy individuals and corporations more, and I wonder: what if the best way to do that is not to tax wealth or unrealized gains (which has large downsides), but instead to tax enclosure? This way you raise revenue in a way that actually increases efficiency (any losses from people working less hard are more-than-compensated by gains from people shifting their work into formats where it's easier for people to build on top of each other and markets becoming more competitive). Any tax is an infringement on private property. But if you think about "tax on social platform that's proportional to some metric of how walled-garden-y they are", in an intuitive human sense, it really doesn't feel like "bureaucrats intervening in my life". It feels like "keeping concentrations of power from getting too out of hand". So I am in favor of doing things like that, and much less than before in favor of anything that forces people (incl entrepreneurs) to outright sell their assets, as eg. "Harberger tax on everything" does. A world where startup entrepreneurs are forced to constantly sell shares, realistically to the same few large VCs, in order to pay unrealized-gains or wealth tax bills strikes me as a world that's likely to be more soulless and homogeneous than today. But a world where the top 50% of large companies ranked by walled-garden-ness are taxed more (and the bottom 25% by that metric taxed less, perhaps some even zero), is a world that feels more dynamic and open and free. But even the above is somewhat of a "stable era" perspective, because it tries to make a more-perfect solution from the perspective of the political layer being friendly. We live in a chaotic era, and the point of crypto should be to solve important problems from the bottom up (whether "individualistic bottom up", enabling people to resist and escape various shackles, or "collective bottom up", communities organizing around shifting entire equilibria to their benefit) This ties into what I mean by wanting Ethereum to protect financial self-sovereignty. I do not think that Ethereum has much to offer to the trillion-dollar companies whose goal it is to offer products and services in a way that maximizes walled gardens and enclosure - in fact, much the opposite, censorship resistance can serve as the baseline for rebel communities that play the adversarial game of routing around those walled gardens. I do think Ethereum offers stronger security to people who want to maintain security of (including ability to use) their own financial resources, including surviving through great economic and political turmoil, for their personal or economic needs. And Ethereum offers a base layer for communities to organize large sudden collective shifts away from harmful equilibria into better ones; DAOs should try to solve that problem more.
 
-23h ago
+1d ago
 
 ---
 
@@ -176,7 +176,7 @@ thestreet.com • 1d ago
 
 **[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqd2fqjmxSjCm9WnAw74fKT96xQv57rpeNUSA6ZHr-CE1pz7NRkFU7Vz&gaa_ts=699f4bf8&gaa_sig=JR8jR7SRdYj_4rX1HOTfMH4Niq_DlHi4oBBED2mgga6f4FMxHSeG6G30_vCQg9t9qr6-w9YdgIkSu_QOxeNCjg%3D%3D)**
 
-Barron's • 21h ago
+Barron's • 22h ago
 
 ---
 
@@ -184,7 +184,7 @@ Barron's • 21h ago
 
 More than $400 million worth of short positions have been liquidated in the last day as Bitcoin nears $69K and Ethereum and Solana surge.
 
-Yahoo Finance • 53m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -192,7 +192,7 @@ Yahoo Finance • 53m ago
 
 A crypto security firm used AI to identify a high-severity bug in an Ethereum client.  While never exploited, that bug could have affected nearly 40% of Ethereum validators.  Last week Anthropic rattled cybersecurity stocks with its own AI security tool.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 174 • 💬 10 • ⏱️ 6:58 • 7h ago
+👁️ 3K • 👍 174 • 💬 10 • ⏱️ 6:58 • 8h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 11K • 👍 322 • 💬 93 • ⏱️ 22:08 • 1d ago
+👁️ 11K • 👍 322 • 💬 93 • ⏱️ 22:08 • 2d ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 447 • 👍 55 • 💬 5 • ⏱️ 3:50 • 38m ago
+👁️ 447 • 👍 55 • 💬 5 • ⏱️ 3:50 • 1h ago
 
 ---
 

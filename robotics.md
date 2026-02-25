@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T19:07:58.431636+00:00'
+updated: '2026-02-25T19:58:51.093713+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 19:07 UTC  
+**Last Updated:** February 25, 2026 at 19:58 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-22h ago
+23h ago
 
 ---
 
@@ -52,7 +52,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-1h ago
+2h ago
 
 ---
 
@@ -74,19 +74,19 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-1h ago
+2h ago
 
 ---
 
 **[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
 
-56m ago
+1h ago
 
 ---
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -94,7 +94,7 @@ Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimbe
 
 ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilities expecting highly automated, fully digitized operations. Instead, he found inspection data being written down on paper. Logs stored and never reviewed. Manual restarts that were never automated because the retrofit would be too complex. Teams collecting data that never reached the people who needed it. His take is that the distance between state-of-the-art robotics research and day-to-day industrial practice remains significant.
 
-3h ago
+4h ago
 
 ---
 
@@ -102,7 +102,7 @@ ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilit
 
 NVIDIA released this open-source world model that takes motor controls and generates the corresponding visual output. Robots practice tasks in a simulated visual environment before real-world deployment, no physical hardware needed for training. Project Page: https://dreamdojo-world.github.io/
 
-1h ago
+2h ago
 
 ---
 
@@ -114,7 +114,7 @@ NVIDIA released this open-source world model that takes motor controls and gener
 
 There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
 
-The Conversation • 23h ago
+The Conversation • 1d ago
 
 ---
 
@@ -138,7 +138,7 @@ Interesting Engineering • 2d ago
 
 Armatrix is raising INR 18.43 crore (about $2.1M) led by pi Ventures to develop snake-like robotic arms for hazardous industrial inspections.
 
-eWeek • 2h ago
+eWeek • 3h ago
 
 ---
 
@@ -162,7 +162,7 @@ Los Angeles Times • 8h ago
 
 Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-TribLIVE.com • 20h ago
+TribLIVE.com • 21h ago
 
 ---
 
