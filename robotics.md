@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T11:41:23.711546+00:00'
+updated: '2026-02-25T13:08:17.919619+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 11:41 UTC  
+**Last Updated:** February 25, 2026 at 13:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-15h ago
+16h ago
 
 ---
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -50,19 +50,27 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-33m ago
+2h ago
 
 ---
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Lego strandbeest (part 3)](https://www.reddit.com/r/robotics/comments/1rdwocl/lego_strandbeest_part_3/)**
 
-12h ago
+13h ago
+
+---
+
+**[SimToolReal, an RL framework for zero-shot dexterous tool manipulation.](https://www.reddit.com/r/robotics/comments/1recjdg/simtoolreal_an_rl_framework_for_zeroshot/)**
+
+Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
+
+8m ago
 
 ---
 
@@ -70,7 +78,7 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
 
-20h ago
+21h ago
 
 ---
 
@@ -92,31 +100,23 @@ GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: h
 
 ---
 
-**[Autonomous Mobile Robot Navigation with RL in MuJoCo!](https://www.reddit.com/r/robotics/comments/1rdz3qy/autonomous_mobile_robot_navigation_with_rl_in/)**
-
-hey guys! I've been working on local planner policies for skid steer robots in RL and this is my first project. Haven't seen a lot of projects for mobile robots in MuJoCo, and I saw an opportunity to work on efficient navigation in this sim for skid steer robots (where the dynamics are more complex, and actually matter). My end goal is an energy-efficient navigation agent, but in the meantime I’ve been focused on one super annoying thing: getting rid of the steering wobble/osscillations without playing the endless tune the reward penalties game. I tried five variants, and ended up realizing that sparse-reward agents (the one on the right of the video) can reach a very good performance in terms of succes rate, andgular jitter, and succes per path length compared to the dense-reward agents. If you want to know more take a look here: https://github.com/octavioaguila/rl_nav pleas if you are working with track-terrain interactions, or slip dynamics in MuJoCo, send me a DM. I am looking for better ways to model these types of systems.
-
-10h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[China’s dancing robots: how worried should we be?](https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show)**
+
+Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
+
+The Guardian • 6d ago
+
+---
 
 **[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
-NBC Bay Area • 19h ago
-
----
-
-**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
-
-There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
-
-The Conversation • 16h ago
+NBC Bay Area • 20h ago
 
 ---
 
@@ -124,7 +124,15 @@ The Conversation • 16h ago
 
 AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
 
-Los Angeles Times • 41m ago
+Los Angeles Times • 2h ago
+
+---
+
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
+
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
+
+TribLIVE.com • 14h ago
 
 ---
 
@@ -136,11 +144,11 @@ The Hindu • 1d ago
 
 ---
 
-**[Video: Unitree’s G1 humanoid robots perform synchronized Kung Fu at Chinese temple](https://interestingengineering.com/ai-robotics/synchronized-robot-kung-fu-chinese-temple)**
+**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
 
-Unitree’s G1 robots performed synchronized martial arts, including punches, kicks, and flips at a Beijing landmark.
+The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
 
-Interesting Engineering • 1d ago
+The Boston Globe • 20h ago
 
 ---
 
@@ -148,23 +156,7 @@ Interesting Engineering • 1d ago
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
 
-KPAX News • 22h ago
-
----
-
-**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
-
-Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
-
-TribLIVE.com • 13h ago
-
----
-
-**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
-
-The race to dominate physical AI is under way, and Beijing may already have the upper hand
-
-The Telegraph • 3d ago
+KPAX News • 23h ago
 
 ---
 
@@ -180,23 +172,21 @@ CNBC • 1d ago
 
 AI2 Robotics brought its valuation to more than $1 billion as it develops VLA models for semi-humanoid robots.
 
-The Robot Report • 11h ago
+The Robot Report • 13h ago
+
+---
+
+**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
+
+OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
+
+South China Morning Post • 3d ago
 
 ---
 
 ---
 
 ## YouTube Videos: "robotics"
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 26K • 👍 423 • 💬 260 • ⏱️ 7:18 • 18h ago
-
----
 
 **[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
 
@@ -208,13 +198,23 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 ---
 
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 28K • 👍 455 • 💬 276 • ⏱️ 7:18 • 19h ago
+
+---
+
 **[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
 
 Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
 
 📺 10 News
 
-👁️ 322K • 👍 4K • 💬 2K • ⏱️ 3:42 • 6d ago
+👁️ 323K • 👍 4K • 💬 2K • ⏱️ 3:42 • 6d ago
 
 ---
 
@@ -224,7 +224,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 77K • 👍 3K • 💬 819 • ⏱️ 14:51 • 4d ago
+👁️ 78K • 👍 3K • 💬 825 • ⏱️ 14:51 • 4d ago
 
 ---
 
@@ -244,17 +244,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 93K • 👍 1K • 💬 215 • ⏱️ 14:16 • 2d ago
-
----
-
-**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
-
-Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
-
-📺 DPCcars
-
-👁️ 90K • 👍 482 • 💬 249 • ⏱️ 2:14 • 4d ago
+👁️ 96K • 👍 1K • 💬 217 • ⏱️ 14:16 • 2d ago
 
 ---
 
@@ -264,27 +254,37 @@ AI robots are starting to act way too human, and the latest breakthroughs prove 
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 113 • 💬 10 • ⏱️ 21:45 • 1d ago
+👁️ 2K • 👍 119 • 💬 10 • ⏱️ 21:45 • 1d ago
 
 ---
 
-**[ROBO-KUNG FU: 50 Humanoid Robots Perform High-Speed Martial Arts at Temple of Heaven | World News](https://www.youtube.com/watch?v=qcqCh2AgLFA)**
+**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
 
-In a striking fusion of ancient heritage and futuristic technology, China's Unitree Robotics has released footage of 50 humanoid ...
+Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
 
-📺 Times Now World
+📺 The China Show
 
-👁️ 622 • 👍 4 • 💬 2 • ⏱️ 1:36 • 17h ago
+👁️ 199K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 4d ago
 
 ---
 
-**[What’s Next in Robotics?](https://www.youtube.com/watch?v=ncKvzReJZyM)**
+**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
 
-By combining decades of real-world data with advanced AI, simulation and digital twins, teams are rapidly training, validating, and ...
+Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
 
-📺 NVIDIA
+📺 DPCcars
 
-👁️ 39K • 👍 1K • ⏱️ 2:51 • 6d ago
+👁️ 90K • 👍 484 • 💬 252 • ⏱️ 2:14 • 4d ago
+
+---
+
+**[Humanoid Robots Perform Martial Arts at Beijing&#39;s Temple of Heaven | Vantage with Palki Sharma |N18G](https://www.youtube.com/watch?v=IZYAKBR1QOs)**
+
+Humanoid robots developed by China's Unitree Robotics has given another impressive Chinese Kung Fu performance at the ...
+
+📺 Firstpost
+
+👁️ 27K • 👍 331 • 💬 269 • ⏱️ 4:45 • 1d ago
 
 ---
 
