@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T16:04:50.612756+00:00'
+updated: '2026-02-25T17:35:47.027416+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 16:04 UTC  
+**Last Updated:** February 25, 2026 at 17:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,485.90
+### $68,496.23
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.0%  
-**7d:** +0.7%  
-**30d:** -24.5%  
-**90d:** -25.8%  
-**1y:** -19.9%  
+**24h:** +6.4%  
+**7d:** +2.4%  
+**30d:** -23.2%  
+**90d:** -24.6%  
+**1y:** -18.5%  
 
 ---
 
@@ -81,7 +81,23 @@ Rank #1
 
 If you owned a full Bitcoin, do you think things would change in ten years?
 
-7h ago
+9h ago
+
+---
+
+**[First time buyer](https://www.reddit.com/r/Bitcoin/comments/1rehrjj/first_time_buyer/)**
+
+I have always wanted to buy BTC after a big crash and hold out until I almost double my money. This week was the perfect opportunity. I bought $5k worth of BTC when it was at $63,300 and then another $5k worth when it went back up to $64,500, fearing the $62,000 was the lowest it would get this cycle. So wish me luck! If anybody has any advice for noobies, I am all ears! But I’m feeling pretty good about this so far!
+
+1h ago
+
+---
+
+**[My unpopular take on Bitcoin & society](https://www.reddit.com/r/Bitcoin/comments/1reiai1/my_unpopular_take_on_bitcoin_society/)**
+
+Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 months ago the average normie that did zero research on BTC & thinks it's a scam saw it shoot past $125,000 and subsequently regretted not getting some at the bottom. That same bitter normie is now glad the fiat cuck buck price of BTC has halved, he's euphoric even. He's telling people how glad he is that he didn't buy in, that he knew this would happen & that the guy, who communicated federal crimes over Gmail, is Satoshi. In the meantime Wall Street, nation states & banks have legitimized Bitcoin as a real, disruptive asset, that needs to be custodied, regulated & included in every portfolio. Last year & especially this year it dawned on me: hyperbitcoinization among the sheeple won't happen, not in a million years. This bright future we're imagining for humanity, that will finally be able to use a free, sovereign, energy-backed money, will not come to fruition. The average person could literally watch Bitcoin do another 150x from here and think it's a worthless, ocean-boiling ponzi scheme. I wanted to see regular folk aquire some Bitcoin for themselves, for their family. I tried educating them, like others educated me. I did my part. Few listened. Eventually I gave up telling people about it, as I think it's unnecessary at this point. This time around I'm GLAD corporations, billionaires and ETFs are accumulating. Maybe this arrogant, ignorant, mindless mass of stupid consumers doesn't deserve to hold this asset. And I'm okay with that.
+
+55m ago
 
 ---
 
@@ -89,7 +105,7 @@ If you owned a full Bitcoin, do you think things would change in ten years?
 
 Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. Let's assume the high was $126,000 and the low was $60,000. As a holder, you considered either holding and forgetting about it or trading the 4 year cycle. Realistically and objectively, it's impossible to sell at exactly $126,000 and then buy back at $60,000, 50% cheaper. Let's say you sold everything at $100,000 and now, during the drop, you bought back at $70,000. the difference is very small. When Bitcoin is at 500,000, it won't matter whether you bought it at 100,000 or 70,000. Is it worth it? The possibility of selling and missing out while the price rises, the added stress, the fees for entering and exiting the market, and paying taxes to sell at $100,000 and buy back at $70,000? Because nobody sells at the exact maximum and buys back at the exact bottom. I clearly see that the ideal strategy is to hold, saving you commissions, taxes, stress, and on top of that, ensuring you don't miss out on the market when it goes up.
 
-1h ago
+3h ago
 
 ---
 
@@ -97,13 +113,7 @@ Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. 
 
 I have about $4000 USD with cashapp that I purchased through their service. All of the sudden without explanation they closed my account. Now I cannot move my BTC off of their platform to a cold wallet. I have to sell for USD which generates a taxable event. If it can happen to a random person like me it can happen to you.
 
-1h ago
-
----
-
-**[Bitcoin is Dead. Long Live Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1rdrie8/bitcoin_is_dead_long_live_bitcoin/)**
-
-19h ago
+3h ago
 
 ---
 
@@ -111,7 +121,13 @@ I have about $4000 USD with cashapp that I purchased through their service. All 
 
 Cash App has a map feature on the Bitcoin page, that I just noticed. I know people will say, “don’t spend your Bitcoin!”, but isn’t this what Bitcoin will be used for in the (hopefully) near future? Tell me what’s wrong with seeing this in Cash App, or BTC ATM icons in Waze, or any other big company involved with providing exposure to BTC.
 
-2h ago
+4h ago
+
+---
+
+**[Bitcoin is Dead. Long Live Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1rdrie8/bitcoin_is_dead_long_live_bitcoin/)**
+
+21h ago
 
 ---
 
@@ -119,7 +135,13 @@ Cash App has a map feature on the Bitcoin page, that I just noticed. I know peop
 
 Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (especially when traveling), I had a weird idea: What if I hid ALL 2,048 BIP39 words inside a normal-looking children's book? So I wrote "The Adventures of Veit the Fox" – a 19-chapter adventure story about a fox’s adventures, published it, and had it delivered to me as a paperback. It reads like a normal kids' book, but every single BIP39 word appears naturally in the text. How the backup works: Your 12- or 24-word seed becomes a list of page/line/word numbers Example: "abandon" → Page 12, Line 3, Word 5 → "12-3-5" The numbers look meaningless to anyone who finds them The book looks like an innocent children's book on your shelf Why do I love this backup: Nobody suspects a children's book You can keep the book and numbers in separate locations Even if someone finds both, they don't know it's a backup Inconspicuous when traveling and crossing borders I also created a word index PDF showing where each word appears, because without it it is extremely time-consuming to find the words. Maybe this will be a helpful tip for you too. Happy to answer questions about the process or the book cipher concept!
 
-20h ago
+22h ago
+
+---
+
+**[60% of the time, bitcoin works every time](https://www.reddit.com/r/Bitcoin/comments/1rei11t/60_of_the_time_bitcoin_works_every_time/)**
+
+1h ago
 
 ---
 
@@ -127,27 +149,7 @@ Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (e
 
 What I’ve noticed about tops is that they usually come when everyone thinks it’s going to go much higher. What I’ve noticed about bottoms is they usually come when everyone thinks it’s going much lower. Do with this information as you please.
 
-12h ago
-
----
-
-**[Bitcoin is "dead"](https://www.reddit.com/r/Bitcoin/comments/1rda9jh/bitcoin_is_dead/)**
-
-1d ago
-
----
-
-**[Fix the money, Fix the world](https://www.reddit.com/r/Bitcoin/comments/1re6q60/fix_the_money_fix_the_world/)**
-
-8h ago
-
----
-
-**[What would owning even 1 BTC do for your financial life?](https://www.reddit.com/r/Bitcoin/comments/1rdnbvg/what_would_owning_even_1_btc_do_for_your/)**
-
-What would owning even 1 BTC do for you financially, and would you be richer than a lot of people?
-
-22h ago
+13h ago
 
 ---
 
@@ -155,19 +157,11 @@ What would owning even 1 BTC do for you financially, and would you be richer tha
 
 ## Google News: "bitcoin"
 
-**[Bitcoin extends decline, falling below $63,000 before paring some losses](https://www.cnbc.com/2026/02/24/bitcoin-extends-decline-falling-below-64000-btc-trump-tariffs-ai-crypto.html)**
+**[Bitcoin Pares Gains During Trump Speech After Topping $66,000](https://finance.yahoo.com/news/bitcoin-jumps-above-66-000-021902167.html)**
 
-Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
+The largest cryptocurrency climbed more than 6% to roughly $68,300 in New York morning trading, marking its biggest intraday gain since Feb. 6 as technology stocks led a tentative rebound across risk assets.  “The move higher likely reflects some dip-buying behavior after the extended selloff,” said Caroline Mauron, co-founder of Orbit Markets, adding that Bitcoin reaching $70,000 would shift the narrative.  Traders are now turning their focus to Nvidia, which is expected to report earnings after the stock market’s close.
 
-CNBC • 1d ago
-
----
-
-**[Bitdeer Sells Entire Bitcoin Stash as Mining Profits Near Record Lows](https://finance.yahoo.com/news/bitdeer-sells-entire-bitcoin-stash-135554538.html)**
-
-Singapore-based Bitdeer, now the world's largest publicly traded self-miner, has completely liquidated its BTC treasury.
-
-Yahoo Finance • 3d ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -175,7 +169,7 @@ Yahoo Finance • 3d ago
 
 Bitcoin briefly sank below $63,000 on Tuesday, dragging down its miners alongside it.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
@@ -187,45 +181,53 @@ The Block • 1d ago
 
 ---
 
-**[South Korean police arrest two over alleged theft of seized bitcoin from evidence: report](https://www.theblock.co/post/391212/south-korean-police-arrest-two-over-alleged-theft-of-seized-bitcoin-from-evidence)**
+**[Solo Miner Turns $75 Into $200,000 Bitcoin Block Reward Using Rented Hashrate](https://bitcoinmagazine.com/news/solo-miner-turns-75-into-200000)**
 
-South Korean police have arrested two individuals over the alleged theft of 22 BTC seized during a 2021 hacking investigation.
+A solo miner turned $75 in rented hashpower into a $200,000 Bitcoin block reward, defying steep odds in a rare, lottery-like win.
 
-The Block • 3h ago
-
----
-
-**[Michael Saylor Hits 100 Bitcoin Buys—And He's Not Stopping Despite A $7 Billion Loss](https://finance.yahoo.com/news/michael-saylor-hits-100-bitcoin-133058007.html)**
-
-Strategy (NASDAQ:MSTR) bought 592 Bitcoin (CRYPTO: BTC) for $39.8 million marking its 100th purchase announcement since August 2020, despite sitting on a $7 billion unrealized loss. The 100th Purchase Milestone Strategy sold 297,940 shares of common stock between February 17-22,...
-
-Yahoo Finance • 2h ago
+Bitcoin Magazine • 21h ago
 
 ---
 
-**[Bitcoin is back above $65,000, but it's still on track for another rough month](https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-hold-rally-ahead-of-nvidia-earnings-gold-silver-up/card/bitcoin-is-back-above-65-000-but-it-s-still-on-track-for-another-rough-month-or4wAkaRhuviJANaLNil?mod=mw_robin&gaa_at=eafs&gaa_n=AWEtsqedz2YrAAVqhM59UkybDJmdm2XNOi5yO-1wB___1f5xsodQNJSRhNnj&gaa_ts=699f07d2&gaa_sig=p-Im9aZi_GTyuTp9FlYMH3L3NGNV464jScOqoPalv0E89lv4AMXU57t05jyHmvftV4rRSohQU4evdE8Pd168oQ%3D%3D&gaa_at=eafs&gaa_n=AWEtsqcoETDsy5xnhO2o01IHIY_E0nP4DGUDVtFwg8c6dSS_-gwPfVFHFVOG&gaa_ts=699f2108&gaa_sig=qKOGZeEVqxYdzwK2WVDDNPZQL1ISHVzQMlL3DYi_f2UG-tKP8cfZnssdeRuyAD_lszll7Or16R1_MnunSZSOBQ%3D%3D)**
+**[Bitcoin Break-Even Trap Is Killing Every Rally as Buyers Strike](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-break-even-trap-is-killing-every-rally-as-buyers-strike)**
 
-MarketWatch • 2h ago
+Bloomberg.com • 1d ago
+
+---
+
+**[Crypto Long & Short: When ETF options start driving bitcoin](https://www.coindesk.com/coindesk-indices/2026/02/25/crypto-long-and-short-when-etf-options-start-driving-bitcoin)**
+
+In this week’s Crypto Long & Short Newsletter, Gregory Mall of Lionsoul Global on how ETFs have shifted a growing share of bitcoin volatility into U.S. equity options markets.
+
+CoinDesk • 31m ago
+
+---
+
+**[New Data Shows Which US Investors Actually Sold Bitcoin ETFs](https://finance.yahoo.com/news/data-shows-us-investors-actually-004138088.html)**
+
+New 13F filing data reveals which Wall Street firms sold Bitcoin ETFs, cutting exposure by over $1.6 billion as outflows rise.
+
+Yahoo Finance • 16h ago
 
 ---
 
 **[Bitcoin Holders Sitting on Losses Are Selling Into Every Bounce](https://www.bloomberg.com/news/newsletters/2026-02-25/bitcoin-holders-sitting-on-losses-are-selling-into-every-bounce)**
 
-Bloomberg.com • 16m ago
+Bloomberg.com • 17m ago
 
 ---
 
-**[The Winklevoss Twins’ Crypto Company Is in Crisis After the Bitcoin Crash](https://futurism.com/future-society/winklevoss-bitcoin-crypto-crash)**
+**[South Korean police arrest two over alleged theft of seized bitcoin from evidence: report](https://www.theblock.co/post/391212/south-korean-police-arrest-two-over-alleged-theft-of-seized-bitcoin-from-evidence)**
 
-The Winklevoss twins' Gemini crypto exchange struggled to brace for bitcoin volatility, throwing up warning signs for the industry as a whole.
+South Korean police have arrested two individuals over the alleged theft of 22 BTC seized during a 2021 hacking investigation.
 
-Futurism • 19h ago
+The Block • 4h ago
 
 ---
 
-**[Bitcoin Took Its First Step Against Quantum Computers](https://www.forbes.com/sites/digital-assets/2026/02/23/bitcoin-took-its-first-step-against-quantum-computers/)**
+**[‘My Anxiety Is High’—JPMorgan CEO Issues Financial Crisis Warning As Bitcoin Bulls Predict A Price Boom](https://www.forbes.com/sites/digital-assets/2026/02/25/worse-than-2008-urgent-fed-financial-crisis-warning-predicted-to-blow-up-the-bitcoin-price/)**
 
-Forbes • 2d ago
+Forbes • 6h ago
 
 ---
 
@@ -243,7 +245,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 1 • 💬 1 • 3h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 1 • 💬 1 • 4h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -315,7 +317,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 98 • ⏱️ 9:37 • 16h ago
+👁️ 38K • 👍 2K • 💬 98 • ⏱️ 9:37 • 18h ago
 
 ---
 
@@ -325,7 +327,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 21K • 👍 1K • 💬 281 • ⏱️ 13:40 • 22h ago
+👁️ 21K • 👍 1K • 💬 281 • ⏱️ 13:40 • 23h ago
 
 ---
 
@@ -335,7 +337,7 @@ Get my free guide to building a tax-free bitcoin income stream: https://link.1ma
 
 📺 Mark Moss
 
-👁️ 62K • 👍 3K • 💬 332 • ⏱️ 15:47 • 19h ago
+👁️ 62K • 👍 3K • 💬 332 • ⏱️ 15:47 • 20h ago
 
 ---
 
@@ -345,7 +347,7 @@ Is this really Bitcoin's mildest bear market ever? In this episode, Adam Livings
 
 📺 Swan Bitcoin
 
-👁️ 2K • 👍 209 • 💬 24 • ⏱️ 16:38 • 2h ago
+👁️ 2K • 👍 209 • 💬 24 • ⏱️ 16:38 • 3h ago
 
 ---
 
@@ -355,7 +357,7 @@ Bitcoin was supposed to break out in 2026. Instead it ran to 126K and crashed ba
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 104 • ⏱️ 15:53 • 17h ago
+👁️ 20K • 👍 1K • 💬 104 • ⏱️ 15:53 • 19h ago
 
 ---
 
@@ -375,7 +377,7 @@ SIGN UP TO FEFE'S EXCLUSIVE BITFUNDED MASTERCLASSS NOW!
 
 📺 100XClub
 
-👁️ 7K • 👍 821 • 💬 150 • ⏱️ 10:33 • 6h ago
+👁️ 7K • 👍 821 • 💬 150 • ⏱️ 10:33 • 7h ago
 
 ---
 
@@ -395,7 +397,7 @@ Bitcoin remained tethered near the the lower end of its recent trading range eve
 
 📺 Bloomberg Television
 
-👁️ 8K • 👍 115 • 💬 91 • ⏱️ 7:26 • 19h ago
+👁️ 8K • 👍 115 • 💬 91 • ⏱️ 7:26 • 20h ago
 
 ---
 
@@ -405,7 +407,7 @@ Join the Bitpanda evolution here https://bitpanda.pxf.io/c/2040095/3761002/15871
 
 📺 Lark Davis
 
-👁️ 6K • 👍 493 • 💬 31 • ⏱️ 16:39 • 4h ago
+👁️ 6K • 👍 493 • 💬 31 • ⏱️ 16:39 • 5h ago
 
 ---
 

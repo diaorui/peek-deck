@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T16:04:50.621965+00:00'
+updated: '2026-02-25T17:35:47.036587+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 16:04 UTC  
+**Last Updated:** February 25, 2026 at 17:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-3h ago
+4h ago
 
 ---
 
@@ -44,13 +44,7 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-19h ago
-
----
-
-**[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
-
-22h ago
+21h ago
 
 ---
 
@@ -58,13 +52,49 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-4h ago
+6h ago
+
+---
+
+**[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
+
+1d ago
+
+---
+
+**[OpenArm Waist Extension (Open Sourced)](https://www.reddit.com/r/robotics/comments/1rejphm/openarm_waist_extension_open_sourced/)**
+
+Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
+
+6m ago
 
 ---
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-6h ago
+8h ago
+
+---
+
+**[AI assistant programming.](https://www.reddit.com/r/robotics/comments/1rejr2n/ai_assistant_programming/)**
+
+Hello! So I’m a baby programmer who likes old tech (I’m talking 80s-earlier.) I’m wondering if I could create my own H.E.L.P.I. from Fnaf. I want to get a C64 ultimate. Could I get a H.E.L.P.I helper on that, like a Fnaf themed Clippy? Could I sew my own plush of him and program a robotic skeleton? Basically a Furby that helps with my chores and such? How ‘sci-fi‘ can I get with this? I know most of this is just Sci-fi mumbo jumbo, but I’m curious now. Any feed back would be appreciated.
+
+4m ago
+
+---
+
+**[Mobile Climbing Robot for the AS/RS & 3PL](https://www.reddit.com/r/robotics/comments/1rejkqz/mobile_climbing_robot_for_the_asrs_3pl/)**
+
+Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
+
+10m ago
+
+---
+
+**[Roadmap for robotics](https://www.reddit.com/r/robotics/comments/1reil7g/roadmap_for_robotics/)**
+
+45m ago
 
 ---
 
@@ -72,35 +102,7 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilities expecting highly automated, fully digitized operations. Instead, he found inspection data being written down on paper. Logs stored and never reviewed. Manual restarts that were never automated because the retrofit would be too complex. Teams collecting data that never reached the people who needed it. His take is that the distance between state-of-the-art robotics research and day-to-day industrial practice remains significant.
 
-36m ago
-
----
-
-**[Lego strandbeest (part 3)](https://www.reddit.com/r/robotics/comments/1rdwocl/lego_strandbeest_part_3/)**
-
-16h ago
-
----
-
-**[I built a custom YOLO-based object detection pipeline natively on a Raspberry Pi using ROS 2 Jazzy (Open Source)](https://www.reddit.com/r/robotics/comments/1redgvi/i_built_a_custom_yolobased_object_detection/)**
-
 2h ago
-
----
-
-**[[Open Source] ElRobot, 7+1 DOF 3D printed robotic arm for AI](https://www.reddit.com/r/robotics/comments/1rdj0gu/open_source_elrobot_71_dof_3d_printed_robotic_arm/)**
-
-GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
-
-1d ago
-
----
-
-**[Autonomous Mobile Robot Navigation with RL in MuJoCo!](https://www.reddit.com/r/robotics/comments/1rdz3qy/autonomous_mobile_robot_navigation_with_rl_in/)**
-
-hey guys! I've been working on local planner policies for skid steer robots in RL and this is my first project. Haven't seen a lot of projects for mobile robots in MuJoCo, and I saw an opportunity to work on efficient navigation in this sim for skid steer robots (where the dynamics are more complex, and actually matter). My end goal is an energy-efficient navigation agent, but in the meantime I’ve been focused on one super annoying thing: getting rid of the steering wobble/osscillations without playing the endless tune the reward penalties game. I tried five variants, and ended up realizing that sparse-reward agents (the one on the right of the video) can reach a very good performance in terms of succes rate, andgular jitter, and succes per path length compared to the dense-reward agents. If you want to know more take a look here: https://github.com/octavioaguila/rl_nav pleas if you are working with track-terrain interactions, or slip dynamics in MuJoCo, send me a DM. I am looking for better ways to model these types of systems.
-
-14h ago
 
 ---
 
@@ -108,19 +110,27 @@ hey guys! I've been working on local planner policies for skid steer robots in R
 
 ## Google News: "robotics"
 
-**[China’s dancing robots: how worried should we be?](https://www.theguardian.com/world/2026/feb/18/china-dancing-humanoid-robots-festival-show)**
-
-Eye-catching martial arts performance at China gala had viewers and experts wondering what else humanoids can do
-
-The Guardian • 6d ago
-
----
-
 **[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
-NBC Bay Area • 23h ago
+NBC Bay Area • 1d ago
+
+---
+
+**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
+
+There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
+
+The Conversation • 22h ago
+
+---
+
+**[Video: Unitree’s G1 humanoid robots perform synchronized Kung Fu at Chinese temple](https://interestingengineering.com/ai-robotics/synchronized-robot-kung-fu-chinese-temple)**
+
+Unitree’s G1 robots performed synchronized martial arts, including punches, kicks, and flips at a Beijing landmark.
+
+Interesting Engineering • 2d ago
 
 ---
 
@@ -128,7 +138,23 @@ NBC Bay Area • 23h ago
 
 Ticket prices for the Robotics Summit (May 27-28 in Boston) increase after March 2. Register today for the world's leading robotics development event.
 
-The Robot Report • 59m ago
+The Robot Report • 2h ago
+
+---
+
+**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+
+AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+
+Los Angeles Times • 6h ago
+
+---
+
+**[After Galgotias, a moment of reflection for India’s robotics ambitions](https://www.thehindu.com/education/after-galgotias-a-moment-of-reflection-for-indias-robotics-ambitions/article70670336.ece)**
+
+Explore how India can transform grassroots robotics talent into a robust economy, leveraging education, innovation, and local manufacturing.
+
+The Hindu • 1d ago
 
 ---
 
@@ -136,7 +162,15 @@ The Robot Report • 59m ago
 
 Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-TribLIVE.com • 17h ago
+TribLIVE.com • 19h ago
+
+---
+
+**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
+
+A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
+
+KPAX News • 1d ago
 
 ---
 
@@ -148,43 +182,11 @@ CNBC • 2d ago
 
 ---
 
-**[10k Trajectories, 5 Days: Axis Robotics Defines a New Paradigm for Physical AI](https://finance.yahoo.com/news/10k-trajectories-5-days-axis-153000184.html)**
+**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
 
-LOS ANGELES, CA / ACCESS Newswire / February 25, 2026 / Over the past five days, Axis Robotics conducted a bold experiment codenamed "Little Prince's Rose." The results were electrifying. Using Axis Robotics' proprietary browser-based platform, the ...
+The race to dominate physical AI is under way, and Beijing may already have the upper hand
 
-Yahoo Finance • 34m ago
-
----
-
-**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
-
-The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
-
-The Boston Globe • 23h ago
-
----
-
-**[Musk's Grok AI moves to classified defense systems, Anthropic ousted](https://interestingengineering.com/ai-robotics/musk-grok-joins-classified-military-systems)**
-
-Elon Musk's Grok is set to enter classified U.S. military systems, marking a shift in the Pentagon's Anthropic AI strategy.
-
-Interesting Engineering • 1d ago
-
----
-
-**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
-
-AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
-
-MIT Technology Review • 1d ago
-
----
-
-**[After Galgotias, a moment of reflection for India’s robotics ambitions](https://www.thehindu.com/education/after-galgotias-a-moment-of-reflection-for-indias-robotics-ambitions/article70670336.ece)**
-
-Explore how India can transform grassroots robotics talent into a robust economy, leveraging education, innovation, and local manufacturing.
-
-The Hindu • 1d ago
+The Telegraph • 3d ago
 
 ---
 
@@ -198,7 +200,7 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 20K • 👍 348 • 💬 324 • ⏱️ 2:30 • 3d ago
+👁️ 20K • 👍 348 • 💬 324 • ⏱️ 2:30 • 4d ago
 
 ---
 
@@ -208,7 +210,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 30K • 👍 535 • 💬 329 • ⏱️ 7:18 • 22h ago
+👁️ 30K • 👍 535 • 💬 329 • ⏱️ 7:18 • 1d ago
 
 ---
 

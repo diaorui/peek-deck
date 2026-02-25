@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-25T16:04:50.603124+00:00'
+updated: '2026-02-25T17:35:47.019073+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 25, 2026 at 16:04 UTC  
+**Last Updated:** February 25, 2026 at 17:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hello! I want to share an experiment I’ve been running. Over the past few weeks, I’ve been developing a desktop HTML first-person shooter called Zombie Slayer. The core constraint of the project is this: every line of code was generated through prompts. I never manually edited the source. For context: I have never built a 3D game before, and I’ve never programmed in HTML. I also have nearly zero coding experience. This project has been less about traditional development and more about testing the boundary conditions of prompt-driven creation. The game was built in Antigravity using Gemini 3 Pro, with Three.js handling real-time 3D rendering. All geometry is procedurally generated at runtime. Sound effects are synthesized dynamically, and the music was also generated with AI (Suno). The entire playable build is under 900KB in file size and is an easily shareable HTML file. From a systems perspective: - HTML desktop game (<1MB total footprint) Procedural geometry generated at runtime Real-time sound generation - 10 escalating stages with objectives + economy layer (coin-based Black Market) - Enemy scaling model (each kill increases enemy population and variety) - Weapon and physics modifiers (jetpack thrust, anti-gravity cannon, nuke projectile, etc.) - Dynamic environmental interactions (flood events, teleport well, destructible elements) To my knowledge, this may be the first playable first-person shooter built entirely through prompting (at least at this level of complexity and intentional design). If I’m wrong, I’d genuinely love to see comparable examples. The goal is to continue expanding the game exclusively through prompts and release it for free. I’d appreciate any technical feedback, skepticism, or discussion. I’m treating this as an open experiment in what “AI-native” game development might look like.
 
-3h ago
+4h ago
 
 ---
 
@@ -49,23 +49,7 @@ Hello! I want to share an experiment I’ve been running. Over the past few week
 
 In an abrupt shift, the company may release future AI models without ironclad safety guarantees
 
-🔗 [TIME](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) • 13h ago
-
----
-
-**[Anthropic believes RSI (recursive self improvement) could arrive “as soon as early 2027”](https://www.reddit.com/r/artificial/comments/1rdujgd/anthropic_believes_rsi_recursive_self_improvement/)**
-
-Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
-
-🔗 [anthropic.com](https://www.anthropic.com/responsible-scaling-policy/roadmap) • 17h ago
-
----
-
-**[Knowledge is the key to unlocking AI's full potential as a creative tool](https://www.reddit.com/r/artificial/comments/1re43cm/knowledge_is_the_key_to_unlocking_ais_full/)**
-
-I had this insight as I was vibecoding the night away. Of course people are going to use AI in lieu of learning how to do things, but I also think there will be a more compelling group that will realize that the more knowledge you have, the higher you can go with these tools, and this will inspire people to learn, so that they can then use that knowledge to create things with AI.
-
-10h ago
+🔗 [TIME](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) • 15h ago
 
 ---
 
@@ -73,7 +57,23 @@ I had this insight as I was vibecoding the night away. Of course people are goin
 
 Hi, I’m looking for AI software that allows us to upload a large number of our existing Word/PDF documents (templates, past client documents, standard clauses, etc.) and then generate new documents based on those patterns. What I’m NOT looking for is just a chatbot that answers questions about the documents. I need something that can: Learn from our document structure and wording Reuse our formatting and style Generate full new documents based on prompts and documents we feed it (ideally if you coul connect dropbox) Ideally integrate with Dropbox or similar cloud storage Export properly formatted Word documents Support for non-English languages (in thi case Slovak) would be important as well. Does anyone have experience with tools that can do this reliably?
 
-7h ago
+8h ago
+
+---
+
+**[Anthropic believes RSI (recursive self improvement) could arrive “as soon as early 2027”](https://www.reddit.com/r/artificial/comments/1rdujgd/anthropic_believes_rsi_recursive_self_improvement/)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+🔗 [anthropic.com](https://www.anthropic.com/responsible-scaling-policy/roadmap) • 19h ago
+
+---
+
+**[Knowledge is the key to unlocking AI's full potential as a creative tool](https://www.reddit.com/r/artificial/comments/1re43cm/knowledge_is_the_key_to_unlocking_ais_full/)**
+
+I had this insight as I was vibecoding the night away. Of course people are going to use AI in lieu of learning how to do things, but I also think there will be a more compelling group that will realize that the more knowledge you have, the higher you can go with these tools, and this will inspire people to learn, so that they can then use that knowledge to create things with AI.
+
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falli
 
 Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 22h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 1d ago
 
 ---
 
@@ -121,11 +121,69 @@ I predicted early in January that ai will discover new physics before 2028 is ov
 
 ## Google News: "ai"
 
-**[Pentagon threatens to make Anthropic a pariah if it refuses to drop AI guardrails](https://www.cnn.com/2026/02/24/tech/hegseth-anthropic-ai-military-amodei)**
+**[Anthropic ditches its core safety promise in the middle of an AI red line fight with the Pentagon](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)**
 
-Anthropic CEO Dario Amodei is meeting with Defense Secretary Pete Hegseth today, as the Pentagon threatens the AI company with what could amount to a government blacklist.
+Anthropic, a company founded by OpenAI exiles worried about the dangers of AI, is loosening its core safety principle in response to competition.
 
-CNN • 23h ago
+CNN • 3h ago
+
+---
+
+**[Anthropic Is Dropping Its Signature Safety Pledge Amid a Heated AI Race](https://www.businessinsider.com/anthropic-changing-safety-policy-2026-2)**
+
+Anthropic said it will no longer "pause the scaling and/or delay the deployment of new models" when the updates would outpace its own safety measures.
+
+Business Insider • 15m ago
+
+---
+
+**[Anthropic Drops Hallmark Safety Pledge in Race With AI Peers](https://finance.yahoo.com/news/anthropic-drops-hallmark-safety-pledge-080051173.html)**
+
+The company in 2023 said in its Responsible Scaling Policy that it would delay AI development that might be dangerous.  In a Tuesday blog post, Anthropic said it was updating its rules to say it would no longer do so if it believes it lacks a significant lead over a competitor.  “The policy environment has shifted toward prioritizing AI competitiveness and economic growth, while safety-oriented discussions have yet to gain meaningful traction at the federal level,” Anthropic said in its post.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Tech Firms Aren’t Just Encouraging Their Workers to Use AI. They’re Enforcing It.](https://www.wsj.com/tech/ai/tech-firms-arent-just-encouraging-their-workers-to-use-ai-theyre-enforcing-it-d43ebf84?gaa_at=eafs&gaa_n=AWEtsqfr5OwHvyQgWbRUA7ag8xrRz70kVTp5IczRso4dtC2p4rWkCx3JnoOQ&gaa_ts=699f3654&gaa_sig=2iD1zaY51GbOk6DWdw31_psX3O_Lf89OSH5Q_Viwv54XPzFeTP56H4v-tBiToemhVt7PdQP0fQ-fHJ63Z6dscw%3D%3D)**
+
+WSJ • 16h ago
+
+---
+
+**[Robotaxis are learning to drive in an AI-simulated world](https://www.axios.com/2026/02/25/ai-waymo-robotaxis-av)**
+
+Axios • 32m ago
+
+---
+
+**[Alpha School student shares how AI helps her learn](https://www.foxnews.com/video/6389893925112)**
+
+11-year-old Alpha School student Everest Nevraumont joins 'America's Newsroom' to discuss her experience attending the State of the Union address and her experience utilizing AI at Alpha School to accelerate learning.
+
+Fox News • 29m ago
+
+---
+
+**[San Jose animal shelter warns of fake AI photo claiming dog was to be euthanized](https://www.cbsnews.com/sanfrancisco/news/san-jose-animal-shelter-warns-fake-ai-photo-claiming-dog-to-be-euthanized/)**
+
+A San Francisco Bay Area animal shelter said it has been flooded with phone calls after a fake AI-generated post claiming one of its dogs would be euthanized went viral.
+
+CBS News • 33m ago
+
+---
+
+**[These Tools Say They Can Spot A.I. Fakes. Do They Really Work?](https://www.nytimes.com/2026/02/25/technology/ai-detection-generated-photos-video.html)**
+
+The New York Times • 7h ago
+
+---
+
+**[AI Panic Is Opportunity for Stock Pickers, Morgan Stanley Says](https://finance.yahoo.com/news/ai-panic-opportunity-stock-pickers-120414620.html)**
+
+Investors should seek out what the team referred to as AI incumbents, strong growers and high-quality names to take advantage of lower prices and momentum behind adoption of the technology.  The investment case for AI adopters with high pricing power continues to strengthen, strategists including Andrew Pauker said.  “Nearer-term AI adoption tailwinds help to offset longer-term disruption fears for impacted areas and for the overall market,” Pauker wrote.
+
+Yahoo Finance • 5h ago
 
 ---
 
@@ -133,61 +191,7 @@ CNN • 23h ago
 
 JPMorgan, the world's biggest bank by market cap, has the industry's largest annual tech budget at nearly $20 billion, and it has outlined an ambitious AI plan.
 
-CNBC • 20h ago
-
----
-
-**[How a characteristically human bias shows up in today’s large language models.](https://www.psychologytoday.com/us/blog/consumed/202602/debugging-overconfidence-is-ai-too-sure-of-itself)**
-
-AI doesn’t just simulate human thinking and language—it mimics our cognitive biases too. Overconfidence is one of the most powerful and overlooked issues.
-
-Psychology Today • 14m ago
-
----
-
-**[Nvidia’s new AI system Vera Rubin is 10 times more efficient than its predecessor — here’s a first look](https://www.cnbc.com/2026/02/25/first-look-at-nvidias-ai-system-vera-rubin-and-how-it-beats-blackwell.html)**
-
-CNBC got an exclusive first look at Vera Rubin, Nvidia's next AI system that's due to ship in the second half of the year
-
-CNBC • 3h ago
-
----
-
-**[Nvidia earnings under microscope as AI economy spurs concerns](https://www.axios.com/2026/02/25/nvidia-earnings-preview-jensen-huang)**
-
-Axios • 5h ago
-
----
-
-**[Nvidia Stock Braces For AI Chipmaker's Fiscal Q4 Report (Live Coverage)](https://www.investors.com/news/technology/nvidia-stock-nvda-fiscal-q4-2026-earnings/)**
-
-Investor's Business Daily • 23m ago
-
----
-
-**[Breaking Down the Doomsday AI Memo That Spooked Markets](https://www.wsj.com/tech/ai/breaking-down-the-viral-memo-that-spooked-markets-bc088c83?gaa_at=eafs&gaa_n=AWEtsqfHRr6fXmzOQ3TfgUYoH6JPUkOsT_rHkcIOnDCrKRj7REWoj3xRNf2J&gaa_ts=699f2106&gaa_sig=twTV4qZDf4OPwBm0LZaRjRkk1bwd8Lzd-u6vCKRqJZvGZJCOAMQvpGTueuxE9RqqftJZu8sk9tNmBPifRFWxJw%3D%3D)**
-
-WSJ • 1d ago
-
----
-
-**[Bleak Research Report Stokes A.I. Debate on Wall St.](https://www.nytimes.com/2026/02/25/business/citrini-ai-stock-market.html)**
-
-The New York Times • 6h ago
-
----
-
-**[AI Will Lead to Economic Collapse? We’ve Heard This Story Before.](https://www.barrons.com/articles/ai-economic-collapse-citrini-stock-market-50378a1d?gaa_at=eafs&gaa_n=AWEtsqfgcBvflzTVvuqM7LHxz3VD5MaDFxINX8HYdV7_xgcb8y_pUCKJm4Hv&gaa_ts=699f2106&gaa_sig=-uLbDh6W2azv-CdZaoCb-MuMJL9-JMAwrjfmO0Pu8J7y_Ghhd0ywLV5UmC3JDjh_Bhz4Er6qtGqMNh8lJnjN3w%3D%3D)**
-
-Barron's • 10m ago
-
----
-
-**[Say please? The best way to talk to an AI](https://www.bbc.com/future/article/20260224-the-best-way-to-talk-to-a-chatbot)**
-
-One study found a chatbot gave better answers if you pretend to be on Star Trek.
-
-BBC • 6h ago
+CNBC • 21h ago
 
 ---
 
@@ -199,7 +203,7 @@ BBC • 6h ago
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 1941 • 💬 788 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 1975 • 💬 818 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -207,7 +211,7 @@ A minute-by-minute reconstruction of the massacre by Earshot and Forensic Archit
 
 We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.
 
-⬆️ 1260 • 💬 695 • 2d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
+⬆️ 1261 • 💬 696 • 2d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
 
 ---
 
@@ -215,7 +219,7 @@ We're adopting Rust as our C++ successor language, and using AI agents to accele
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 798 • 💬 692 • 2d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 798 • 💬 693 • 2d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
@@ -229,7 +233,7 @@ I’m seeking assistance regarding a sudden restriction on my Google AI Ultra ac
 
 One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
 
-⬆️ 479 • 💬 196 • 19h ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
+⬆️ 487 • 💬 201 • 21h ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
 
 ---
 
@@ -246,7 +250,7 @@ The latest update of Firefox, version 148, introduces a much-anticipated "AI kil
 My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
 During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.
 
-⬆️ 428 • 💬 357 • 1d ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
+⬆️ 428 • 💬 358 • 1d ago • [Vladimir Varankin](https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/)
 
 ---
 
@@ -254,7 +258,7 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 283 • 💬 272 • 1d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 285 • 💬 270 • 1d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -262,7 +266,7 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 <p>IZUMI-SANO, Osaka — Kansai Airport is proud to have never had a lost baggage incident in the 30 years since it opened in 1994, earning recognition as the airport with the world’s best baggage service.</p>
 
-⬆️ 216 • 💬 104 • 23h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
+⬆️ 217 • 💬 105 • 1d ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
 
 ---
 
@@ -284,7 +288,7 @@ I replicated this faceless AI YouTube channel step-by-step. Here's how... ▻ Ge
 
 📺 Wholesale Ted
 
-👁️ 20K • 👍 2K • 💬 238 • ⏱️ 18:46 • 21h ago
+👁️ 20K • 👍 2K • 💬 238 • ⏱️ 18:46 • 23h ago
 
 ---
 
@@ -294,7 +298,7 @@ Discover how to use Seedance 2 Pro for free and unlimited access without paying 
 
 📺 Brain Project
 
-👁️ 7K • 👍 250 • 💬 116 • ⏱️ 10:42 • 22h ago
+👁️ 7K • 👍 250 • 💬 116 • ⏱️ 10:42 • 1d ago
 
 ---
 
@@ -314,7 +318,7 @@ The most unhinged AI music generator just dropped — and right now, it's comple
 
 📺 Theoretically Media
 
-👁️ 25K • 👍 1K • 💬 440 • ⏱️ 14:49 • 16h ago
+👁️ 25K • 👍 1K • 💬 440 • ⏱️ 14:49 • 18h ago
 
 ---
 
@@ -334,7 +338,7 @@ Krystal and Saagar discuss markets tanking over AI fears. Sign up for a PREMIUM 
 
 📺 Breaking Points
 
-👁️ 254K • 👍 7K • 💬 2K • ⏱️ 12:54 • 21h ago
+👁️ 254K • 👍 7K • 💬 2K • ⏱️ 12:54 • 22h ago
 
 ---
 
@@ -344,7 +348,7 @@ In this video, I break down five free Google AI courses that teach how AI actual
 
 📺 James Blue
 
-👁️ 3K • ⏱️ 11:13 • 1h ago
+👁️ 3K • ⏱️ 11:13 • 2h ago
 
 ---
 
@@ -364,7 +368,7 @@ Tracy Morgan talking about AI is the funniest thing you'll hear today. In this c
 
 📺 The Comedy Compound
 
-👁️ 2K • 👍 65 • 💬 3 • ⏱️ 0:12 • 7h ago
+👁️ 2K • 👍 65 • 💬 3 • ⏱️ 0:12 • 9h ago
 
 ---
 
@@ -402,7 +406,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 20,991 • ❤️ 366 • 23h ago
+⬇️ 20,991 • ❤️ 366 • 1d ago
 
 ---
 
@@ -414,7 +418,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,875 • ❤️ 257 • 13h ago
+⬇️ 6,875 • ❤️ 257 • 14h ago
 
 ---
 
@@ -644,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.1k • 🔱 2.3k • 1m ago
+⭐ 19.1k • 🔱 2.3k • 1h ago
 
 ---
 
@@ -662,7 +666,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.5k • 🔱 674 • 9h ago
+⭐ 5.5k • 🔱 674 • 11h ago
 
 ---
 
@@ -672,7 +676,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.0k • 🔱 210 • 1h ago
+⭐ 4.0k • 🔱 210 • 3h ago
 
 ---
 
@@ -682,7 +686,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.5k • 🔱 348 • 12h ago
+⭐ 3.5k • 🔱 348 • 13h ago
 
 ---
 
@@ -692,7 +696,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.3k • 🔱 432 • 22h ago
+⭐ 3.3k • 🔱 432 • 1d ago
 
 ---
 
@@ -712,7 +716,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.8k • 🔱 192 • 3h ago
+⭐ 2.8k • 🔱 192 • 4h ago
 
 ---
 
@@ -722,7 +726,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 489 • 1h ago
+⭐ 2.4k • 🔱 489 • 3h ago
 
 ---
 
@@ -732,7 +736,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 267 • 2h ago
+⭐ 2.4k • 🔱 267 • 3h ago
 
 ---
 
