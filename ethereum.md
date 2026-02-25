@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-25T20:47:15.182502+00:00'
+updated: '2026-02-25T21:36:26.939444+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 20:47 UTC  
+**Last Updated:** February 25, 2026 at 21:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $250.03B
+**Market Cap:** $250.17B
 Rank #2
 
 **Circulating Supply:** 120,692,321 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.1%
+-57.7%
 
 **All-Time Low:** $0.43
-+478292.7%
++482590.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Meta is reportedly preparing stablecoin payments for Facebook, Instagram, and WhatsApp in H2 2026, a move that could put Ethereum rails behind everyday transfers.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/meta-stablecoin-integration-ethereum-h2-2026/) • 22h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/meta-stablecoin-integration-ethereum-h2-2026/) • 23h ago
 
 ---
 
@@ -154,7 +154,7 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 The Ethereum co-founder's tracked wallets dropped from 241,000 ETH to 224,000 ETH in February, with sales routed through CoW Protocol in small batches to limit market impact.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 13h ago
 
 Ethereum (CRYPTO: ETH) is down 5% over the past 24 hours, extending its monthly decline to around 38%. CryptocurrencyTickerPriceMarket Cap7-Day TrendEthereum(CRYPTO: ETH)$1,819.76$219.7 billion-8.3%Bitcoin(CRYPTO: BTC)$62,905.46$1.25 trillion-7.7%XRP(CRYPTO: XRP)$1.33$81.3 billion-8.6% Trader Notes: Crypto trader Don Wedge said Ethereum is sitting at a major...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -176,7 +176,7 @@ thestreet.com • 1d ago
 
 **[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdN5IG0-nuuu2elcWl0MYXaQweMKwjPTdvH8NJSBclCXXleIxeF_Nh4&gaa_ts=699f633d&gaa_sig=Z9e5awF1z0QfZPZr1LE3xF9_lt9JEix09rcW4a349A43RLTMJD2eh5M3BR1bZbh50jvTU4SJAlPhO7V-ROSMGA%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -184,7 +184,7 @@ Barron's • 23h ago
 
 A crypto security firm used AI to identify a high-severity bug in an Ethereum client.  While never exploited, that bug could have affected nearly 40% of Ethereum validators.  Last week Anthropic rattled cybersecurity stocks with its own AI security tool.
 
-dlnews.com • 4h ago
+dlnews.com • 5h ago
 
 ---
 
@@ -192,7 +192,7 @@ dlnews.com • 4h ago
 
 More than $400 million worth of short positions have been liquidated in the last day as Bitcoin nears $69K and Ethereum and Solana surge.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -238,7 +238,7 @@ I mean... they told us this would happen, so theres no use for any of us being s
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 1K • 💬 103 • ⏱️ 28:35 • 9h ago
+👁️ 9K • 👍 1K • 💬 111 • ⏱️ 28:35 • 10h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 174 • 💬 10 • ⏱️ 6:58 • 9h ago
+👁️ 3K • 👍 176 • 💬 10 • ⏱️ 6:58 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum has long been compared to Bitcoin — but according to Sharplink CEO an
 
 📺 Coinage
 
-👁️ 2K • 👍 76 • 💬 6 • ⏱️ 21:21 • 8h ago
+👁️ 3K • 👍 108 • 💬 7 • ⏱️ 21:21 • 9h ago
 
 ---
 
@@ -268,7 +268,7 @@ IMPORTANT Ethereum $1800 Support BOUNCE! Can It Hold? Ethereum just bounced hard
 
 📺 Tim Warren
 
-👁️ 3K • 👍 305 • 💬 104 • ⏱️ 13:04 • 1d ago
+👁️ 3K • 👍 311 • 💬 104 • ⏱️ 13:04 • 1d ago
 
 ---
 
@@ -278,37 +278,7 @@ BITCOIN & CRYPTO REPEATING HISTORY (Signal Confirmed)!!! - Bitcoin News Today, E
 
 📺 Crypto World
 
-👁️ 10K • 👍 336 • 💬 73 • ⏱️ 16:59 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Mjc9hJiGaaI)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 146 • 💬 8 • ⏱️ 3:47 • 21h ago
-
----
-
-**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=Bz26yGwwFpM)**
-
-Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-bitcoin-strategy.com My Chart Software: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 5K • 👍 149 • 💬 52 • ⏱️ 14:34 • 2d ago
-
----
-
-**[BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hkInfemKTV4)**
-
-BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
-
-📺 Crypto World
-
-👁️ 11K • 👍 322 • 💬 93 • ⏱️ 22:08 • 2d ago
+👁️ 11K • 👍 342 • 💬 75 • ⏱️ 16:59 • 1d ago
 
 ---
 
@@ -318,7 +288,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 447 • 👍 55 • 💬 5 • ⏱️ 3:50 • 2h ago
+👁️ 1K • 👍 132 • 💬 8 • ⏱️ 3:50 • 3h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Mjc9hJiGaaI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 146 • 💬 8 • ⏱️ 3:47 • 22h ago
+
+---
+
+**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=Bz26yGwwFpM)**
+
+Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-bitcoin-strategy.com My Chart Software: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 5K • 👍 150 • 💬 52 • ⏱️ 14:34 • 2d ago
+
+---
+
+**[BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=hkInfemKTV4)**
+
+BITCOIN CRASH EXPLAINED (This Could Get UGLY)!!! - Bitcoin News Today, Ethereum & Altcoins *Bitunix* ...
+
+📺 Crypto World
+
+👁️ 11K • 👍 322 • 💬 106 • ⏱️ 22:08 • 2d ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 𝗖𝗿𝘆𝗽𝘁𝗼 𝘄𝗶𝘁𝗵 𝗣𝗶𝘆𝘂
 
-👁️ 213 • 👍 7 • ⏱️ 1:57 • 17h ago
+👁️ 215 • 👍 7 • ⏱️ 1:57 • 18h ago
 
 ---
 

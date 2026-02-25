@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T20:47:15.176480+00:00'
+updated: '2026-02-25T21:36:26.933504+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 20:47 UTC  
+**Last Updated:** February 25, 2026 at 21:36 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,10 +54,10 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1383.47B
+**Market Cap:** $1376.91B
 Rank #1
 
-**Circulating Supply:** 19,994,712 BTC
+**Circulating Supply:** 19,994,762 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
@@ -81,7 +81,7 @@ Rank #1
 
 https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4f008711480e9de8c23a06b3d9e6bbd824ed6 Thoughts on this?
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
 If you owned a full Bitcoin, do you think things would change in ten years?
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 mon
 
 I have always wanted to buy BTC after a big crash and hold out until I almost double my money. This week was the perfect opportunity. I bought $5k worth of BTC when it was at $63,300 and then another $5k worth when it went back up to $64,500, fearing the $62,000 was the lowest it would get this cycle. So wish me luck! If anybody has any advice for noobies, I am all ears! But I’m feeling pretty good about this so far!
 
-4h ago
+5h ago
 
 ---
 
@@ -127,7 +127,7 @@ I have always wanted to buy BTC after a big crash and hold out until I almost do
 
 Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. Let's assume the high was $126,000 and the low was $60,000. As a holder, you considered either holding and forgetting about it or trading the 4 year cycle. Realistically and objectively, it's impossible to sell at exactly $126,000 and then buy back at $60,000, 50% cheaper. Let's say you sold everything at $100,000 and now, during the drop, you bought back at $70,000. the difference is very small. When Bitcoin is at 500,000, it won't matter whether you bought it at 100,000 or 70,000. Is it worth it? The possibility of selling and missing out while the price rises, the added stress, the fees for entering and exiting the market, and paying taxes to sell at $100,000 and buy back at $70,000? Because nobody sells at the exact maximum and buys back at the exact bottom. I clearly see that the ideal strategy is to hold, saving you commissions, taxes, stress, and on top of that, ensuring you don't miss out on the market when it goes up.
 
-6h ago
+7h ago
 
 ---
 
@@ -135,19 +135,19 @@ Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. 
 
 I have about $4000 USD with cashapp that I purchased through their service. All of the sudden without explanation they closed my account. Now I cannot move my BTC off of their platform to a cold wallet. I have to sell for USD which generates a taxable event. If it can happen to a random person like me it can happen to you.
 
-6h ago
+7h ago
 
 ---
 
 **[60% of the time, bitcoin works every time](https://www.reddit.com/r/Bitcoin/comments/1rei11t/60_of_the_time_bitcoin_works_every_time/)**
 
-4h ago
+5h ago
 
 ---
 
 **[Morgan Stanley's Amy Oldenburg confirms the bank has plans to offer Bitcoin trading, lending, yield, and custody in the future](https://www.reddit.com/r/Bitcoin/comments/1rep4ke/morgan_stanleys_amy_oldenburg_confirms_the_bank/)**
 
-8m ago
+57m ago
 
 ---
 
@@ -187,7 +187,7 @@ Bitcoin Magazine • 1d ago
 
 **[A $272 Billion UAE Bank Just Called Bitcoin 'Digital Gold'](https://www.forbes.com/sites/digital-assets/2026/02/25/a-272-billion-uae-bank-just-called-bitcoin-digital-gold/)**
 
-Forbes • 49m ago
+Forbes • 1h ago
 
 ---
 
@@ -195,7 +195,7 @@ Forbes • 49m ago
 
 Cryptocurrencies are "utterly useless," Federal Reserve Bank of Minneapolis President Neel Kashkari says. Kashkari cast doubt on the value of cryptocurrencies when asked about AI by Old National Bancorp (NASDAQ:ONB) CEO Jim Ryan III during a Q&A at the Midwest...
 
-Yahoo Finance • 27m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 27m ago
 
 Morgan Stanley said at Strategy World that it plans to expand its digital asset offerings, including launching a native crypto custody and exchange solution.
 
-Bitcoin Magazine • 3m ago
+Bitcoin Magazine • 52m ago
 
 ---
 
@@ -217,7 +217,7 @@ Bloomberg.com • 2h ago
 
 **[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdp9kYPpbenYoszQmM0P2rhXuNifqhYE-y35slF9dinPC1rUL6mCfSX&gaa_ts=699f633c&gaa_sig=AJV4N0FPIjE_T80RnXXHOudelMNPsTWjGznDOS-cFO_4P4pwjavLpjMPESRJRnsjIMvNeHYNRxL-sRShfiQwMw%3D%3D)**
 
-Barron's • 23h ago
+Barron's • 1d ago
 
 ---
 
@@ -243,7 +243,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 1 • 💬 1 • 7h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 1 • 💬 1 • 8h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -273,7 +273,7 @@ The Chicago-based company said it was temporarily suspending client deposits and
 
 Singapore based BTC and AI miner sells all holdings to build liquidity for expansion, signaling a broader shift in capital strategy across the sector.
 
-⬆️ 1 • 💬 0 • 1d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/23/bitdeer-empties-bitcoin-treasury-as-miners-accelerate-industry-wide-ai-pivot)
+⬆️ 1 • 💬 0 • 2d ago • [coindesk.com](https://www.coindesk.com/markets/2026/02/23/bitdeer-empties-bitcoin-treasury-as-miners-accelerate-industry-wide-ai-pivot)
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin #Crypto #Finance Bitcoin accumulation is approaching extreme levels at t
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 816 • 💬 125 • ⏱️ 29:33 • 5h ago
+👁️ 16K • 👍 943 • 💬 133 • ⏱️ 29:33 • 6h ago
 
 ---
 
@@ -325,17 +325,17 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 107 • ⏱️ 9:37 • 21h ago
+👁️ 44K • 👍 2K • 💬 112 • ⏱️ 9:37 • 22h ago
 
 ---
 
-**[Bitcoin Is Being Repriced by AI](https://www.youtube.com/watch?v=DnT8bUl_DM8)**
+**[BITCOIN - DO THIS NOW](https://www.youtube.com/watch?v=T37B-cXa8NY)**
 
-Get my free guide to building a tax-free bitcoin income stream: https://link.1markmoss.com/hqXt3 There's a rotation starting that ...
+CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
 
-📺 Mark Moss
+📺 My Financial Friend
 
-👁️ 67K • 👍 3K • 💬 432 • ⏱️ 15:47 • 23h ago
+👁️ 5K • 👍 396 • 💬 30 • ⏱️ 25:16 • 3h ago
 
 ---
 
@@ -345,7 +345,7 @@ SIGN UP TO FEFE'S EXCLUSIVE BITFUNDED MASTERCLASSS NOW!
 
 📺 100XClub
 
-👁️ 9K • 👍 915 • 💬 162 • ⏱️ 10:33 • 10h ago
+👁️ 11K • 👍 945 • 💬 178 • ⏱️ 10:33 • 11h ago
 
 ---
 
@@ -355,7 +355,37 @@ Join the Bitpanda evolution here https://bitpanda.pxf.io/c/2040095/3761002/15871
 
 📺 Lark Davis
 
-👁️ 10K • 👍 647 • 💬 34 • ⏱️ 16:39 • 8h ago
+👁️ 12K • 👍 725 • 💬 43 • ⏱️ 16:39 • 9h ago
+
+---
+
+**[Bitcoin Up 8% Today. Do the Insiders See Something Different?](https://www.youtube.com/watch?v=mk5IW2kOF6s)**
+
+Bitcoin is up 8% today. Ethereum up 12%. So why are insiders fleeing? At least 8 publicly traded Bitcoin miners have announced ...
+
+📺 Dana Love, PhD
+
+👁️ 151 • 👍 5 • 💬 2 • ⏱️ 1:05 • 54m ago
+
+---
+
+**[BITCOIN BOUNCE - TIME TO GO ALL IN AGAIN !!!!!](https://www.youtube.com/watch?v=MNBvyFOJ27g)**
+
+Coinflare: https://themoon.co/Coinflare Earn Up to $5050 in Rewards BYBIT: http://themoon.co/Bybit 10% DISCOUNT ...
+
+📺 The Moon Show
+
+👁️ 4K • 👍 369 • 💬 23 • ⏱️ 6:30 • 2h ago
+
+---
+
+**[Bitcoin Is Being Repriced by AI](https://www.youtube.com/watch?v=DnT8bUl_DM8)**
+
+Get my free guide to building a tax-free bitcoin income stream: https://link.1markmoss.com/hqXt3 There's a rotation starting that ...
+
+📺 Mark Moss
+
+👁️ 71K • 👍 3K • 💬 437 • ⏱️ 15:47 • 1d ago
 
 ---
 
@@ -365,47 +395,17 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 22K • 👍 1K • 💬 292 • ⏱️ 13:40 • 1d ago
+👁️ 22K • 👍 1K • 💬 295 • ⏱️ 13:40 • 1d ago
 
 ---
 
-**[Blockstream CEO Adam Back on Bitcoin&#39;s downturn](https://www.youtube.com/watch?v=grythd396gM)**
+**[Michael Saylor Reveals the Pattern Behind Bitcoin’s Crash!](https://www.youtube.com/watch?v=eWLncwZY2QQ)**
 
-Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk the downturn in Bitcoin, the state of the crypto ...
+Bitcoin is down 45% from its all-time high as AI disruption rattles global markets and uncertainty hits record levels. With weekly ...
 
-📺 CNBC Television
+📺 Swan Bitcoin
 
-👁️ 43K • 👍 358 • 💬 424 • ⏱️ 3:54 • 1d ago
-
----
-
-**[We Just Entered &quot;CRASH STAGE 4&quot; (Is $35,000 Bitcoin Next?)](https://www.youtube.com/watch?v=a6nl9j0ufS4)**
-
-Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Bears are calling for $35K while Michael Saylor and ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 2K • 💬 229 • ⏱️ 16:07 • 1d ago
-
----
-
-**[Bitcoin Is Set Up for a Strong Rebound, Says Bitwise&#39;s Rasmussen](https://www.youtube.com/watch?v=LDj3344lK04)**
-
-Bitcoin remained tethered near the the lower end of its recent trading range even as global financial markets showed signs of a ...
-
-📺 Bloomberg Television
-
-👁️ 8K • 👍 120 • 💬 94 • ⏱️ 7:26 • 1d ago
-
----
-
-**[Bitcoin Investors… Get Ready for State of the Union Volatility](https://www.youtube.com/watch?v=UtRUFzuOUEs)**
-
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
-
-📺 CryptosRUs
-
-👁️ 25K • 👍 1K • 💬 127 • ⏱️ 45:23 • 1d ago
+👁️ 53K • 👍 2K • 💬 201 • ⏱️ 19:02 • 22h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T20:47:15.185756+00:00'
+updated: '2026-02-25T21:36:26.942643+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 20:47 UTC  
+**Last Updated:** February 25, 2026 at 21:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-7h ago
+8h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-3h ago
+4h ago
 
 ---
 
@@ -60,7 +60,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-9h ago
+10h ago
 
 ---
 
@@ -74,7 +74,7 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-3h ago
+4h ago
 
 ---
 
@@ -82,25 +82,25 @@ Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimbe
 
 ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilities expecting highly automated, fully digitized operations. Instead, he found inspection data being written down on paper. Logs stored and never reviewed. Manual restarts that were never automated because the retrofit would be too complex. Teams collecting data that never reached the people who needed it. His take is that the distance between state-of-the-art robotics research and day-to-day industrial practice remains significant.
 
-5h ago
+6h ago
 
 ---
 
 **[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
 
-2h ago
+3h ago
 
 ---
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Can I use DC motors+qdd+simplefoc or serial Bus servos like sts3215 for applications that require backdrivability?](https://www.reddit.com/r/robotics/comments/1reoxeb/can_i_use_dc_motorsqddsimplefoc_or_serial_bus/)**
 
-16m ago
+1h ago
 
 ---
 
@@ -144,7 +144,7 @@ Interesting Engineering • 2d ago
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 47m ago
+TechCrunch • 1h ago
 
 ---
 
@@ -160,7 +160,7 @@ Semafor • 2h ago
 
 AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
 
-Los Angeles Times • 9h ago
+Los Angeles Times • 10h ago
 
 ---
 
@@ -184,7 +184,7 @@ KPAX News • 1d ago
 
 Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-TribLIVE.com • 22h ago
+TribLIVE.com • 23h ago
 
 ---
 
@@ -198,7 +198,7 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 20K • 👍 350 • 💬 326 • ⏱️ 2:30 • 4d ago
+👁️ 20K • 👍 352 • 💬 326 • ⏱️ 2:30 • 4d ago
 
 ---
 
@@ -208,17 +208,7 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 328K • 👍 4K • 💬 2K • ⏱️ 3:42 • 6d ago
-
----
-
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 79K • 👍 3K • 💬 833 • ⏱️ 14:51 • 5d ago
+👁️ 330K • 👍 4K • 💬 3K • ⏱️ 3:42 • 6d ago
 
 ---
 
@@ -228,7 +218,17 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 33K • 👍 632 • 💬 363 • ⏱️ 7:18 • 1d ago
+👁️ 37K • 👍 748 • 💬 404 • ⏱️ 7:18 • 1d ago
+
+---
+
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 80K • 👍 3K • 💬 834 • ⏱️ 14:51 • 5d ago
 
 ---
 
@@ -238,17 +238,7 @@ Unitree Robotics is plotting an aggressive expansion following its viral showing
 
 📺 Kalil 4.0
 
-👁️ 49K • 👍 872 • 💬 307 • ⏱️ 11:04 • 5d ago
-
----
-
-**[China’s Combat Robots Steal the Show at Lunar New Year Gala](https://www.youtube.com/watch?v=MFCmePpllIA)**
-
-China's combat robots steal the show at the Lunar New Year gala as advanced humanoid machines stunned audiences with ...
-
-📺 Carros Show
-
-👁️ 121K • 👍 1K • 💬 283 • ⏱️ 9:50 • 6d ago
+👁️ 49K • 👍 877 • 💬 307 • ⏱️ 11:04 • 5d ago
 
 ---
 
@@ -262,33 +252,43 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 ---
 
-**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
-
-AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
-
-📺 The AI Nexus
-
-👁️ 2K • 👍 124 • 💬 10 • ⏱️ 21:45 • 1d ago
-
----
-
 **[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
 
 Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
 
 📺 AI Revolution
 
-👁️ 102K • 👍 2K • 💬 237 • ⏱️ 14:16 • 2d ago
+👁️ 104K • 👍 2K • 💬 242 • ⏱️ 14:16 • 2d ago
 
 ---
 
-**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
+**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
 
-Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
+AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
 
-📺 The China Show
+📺 The AI Nexus
 
-👁️ 201K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 4d ago
+👁️ 2K • 👍 129 • 💬 10 • ⏱️ 21:45 • 1d ago
+
+---
+
+**[Unitree Kung Fu Bot   Pray for Blessings at the Temple of Heaven: Wish Everyone All the Best](https://www.youtube.com/watch?v=eQpyvR-B7hc)**
+
+Unitree G1 Robots Cluster Show.
+
+📺 Unitree Robotics
+
+👁️ 1.1M • 👍 4K • 💬 597 • ⏱️ 0:41 • 2d ago
+
+---
+
+**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
+
+Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
+
+📺 DPCcars
+
+👁️ 91K • 👍 488 • 💬 252 • ⏱️ 2:14 • 4d ago
 
 ---
 
