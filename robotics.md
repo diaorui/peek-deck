@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T21:36:26.942643+00:00'
+updated: '2026-02-25T22:35:21.630631+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 21:36 UTC  
+**Last Updated:** February 25, 2026 at 22:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-4h ago
+5h ago
 
 ---
 
@@ -60,7 +60,21 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-10h ago
+11h ago
+
+---
+
+**[Mobile Climbing Robot for the AS/RS & 3PL](https://www.reddit.com/r/robotics/comments/1rejkqz/mobile_climbing_robot_for_the_asrs_3pl/)**
+
+Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
+
+5h ago
+
+---
+
+**[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
+
+4h ago
 
 ---
 
@@ -70,37 +84,23 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 ---
 
-**[Mobile Climbing Robot for the AS/RS & 3PL](https://www.reddit.com/r/robotics/comments/1rejkqz/mobile_climbing_robot_for_the_asrs_3pl/)**
-
-Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
-
-4h ago
-
----
-
 **[Industrial Inspection Is Still Often Pen and Paper](https://www.reddit.com/r/robotics/comments/1rega3c/industrial_inspection_is_still_often_pen_and_paper/)**
 
 ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilities expecting highly automated, fully digitized operations. Instead, he found inspection data being written down on paper. Logs stored and never reviewed. Manual restarts that were never automated because the retrofit would be too complex. Teams collecting data that never reached the people who needed it. His take is that the distance between state-of-the-art robotics research and day-to-day industrial practice remains significant.
 
-6h ago
-
----
-
-**[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
-
-3h ago
+7h ago
 
 ---
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-12h ago
+13h ago
 
 ---
 
 **[Can I use DC motors+qdd+simplefoc or serial Bus servos like sts3215 for applications that require backdrivability?](https://www.reddit.com/r/robotics/comments/1reoxeb/can_i_use_dc_motorsqddsimplefoc_or_serial_bus/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -108,19 +108,11 @@ ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilit
 
 ## Google News: "robotics"
 
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
+**[Alphabet-owned robotics software company Intrinsic joins Google](https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/)**
 
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
+Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-NBC Bay Area • 1d ago
-
----
-
-**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
-
-The race to dominate physical AI is under way, and Beijing may already have the upper hand
-
-The Telegraph • 3d ago
+TechCrunch • 2h ago
 
 ---
 
@@ -132,35 +124,35 @@ The Conversation • 1d ago
 
 ---
 
-**[Video: Unitree’s G1 humanoid robots perform synchronized Kung Fu at Chinese temple](https://interestingengineering.com/ai-robotics/synchronized-robot-kung-fu-chinese-temple)**
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
 
-Unitree’s G1 robots performed synchronized martial arts, including punches, kicks, and flips at a Beijing landmark.
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
-Interesting Engineering • 2d ago
-
----
-
-**[Alphabet-owned robotics software company Intrinsic joins Google](https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/)**
-
-Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
-
-TechCrunch • 1h ago
+NBC Bay Area • 1d ago
 
 ---
 
-**[Exclusive / US government to meet with robot-makers as China competition intensifies](https://www.semafor.com/article/02/25/2026/us-government-to-meet-with-robot-makers-as-china-competition-intensifies)**
+**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
 
-The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
+The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
 
-Semafor • 2h ago
+The Boston Globe • 1d ago
 
 ---
 
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+**[Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html)**
 
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-Los Angeles Times • 10h ago
+CNBC • 50m ago
+
+---
+
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
+
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
+
+TribLIVE.com • 1d ago
 
 ---
 
@@ -172,19 +164,27 @@ The Hindu • 1d ago
 
 ---
 
-**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
+**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
 
-A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
+AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
 
-KPAX News • 1d ago
+Los Angeles Times • 11h ago
 
 ---
 
-**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
+**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
 
-Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
+The race to dominate physical AI is under way, and Beijing may already have the upper hand
 
-TribLIVE.com • 23h ago
+The Telegraph • 3d ago
+
+---
+
+**[Exclusive / US government to meet with robot-makers as China competition intensifies](https://www.semafor.com/article/02/25/2026/us-government-to-meet-with-robot-makers-as-china-competition-intensifies)**
+
+The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
+
+Semafor • 3h ago
 
 ---
 
