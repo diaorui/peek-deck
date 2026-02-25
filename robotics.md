@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T13:08:17.919619+00:00'
+updated: '2026-02-25T14:32:06.995059+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 13:08 UTC  
+**Last Updated:** February 25, 2026 at 14:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[SimToolReal, an RL framework for zero-shot dexterous tool manipulation.](https://www.reddit.com/r/robotics/comments/1recjdg/simtoolreal_an_rl_framework_for_zeroshot/)**
+
+Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
+
+1h ago
+
+---
+
 **[Robot Dishwashing for Larger Restaurants / Cruise Ships](https://www.reddit.com/r/robotics/comments/1rdr8hu/robot_dishwashing_for_larger_restaurants_cruise/)**
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-16h ago
+18h ago
 
 ---
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -50,27 +58,25 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-2h ago
+3h ago
 
 ---
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-3h ago
+5h ago
 
 ---
 
 **[Lego strandbeest (part 3)](https://www.reddit.com/r/robotics/comments/1rdwocl/lego_strandbeest_part_3/)**
 
-13h ago
+14h ago
 
 ---
 
-**[SimToolReal, an RL framework for zero-shot dexterous tool manipulation.](https://www.reddit.com/r/robotics/comments/1recjdg/simtoolreal_an_rl_framework_for_zeroshot/)**
+**[I built a custom YOLO-based object detection pipeline natively on a Raspberry Pi using ROS 2 Jazzy (Open Source)](https://www.reddit.com/r/robotics/comments/1redgvi/i_built_a_custom_yolobased_object_detection/)**
 
-Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
-
-8m ago
+52m ago
 
 ---
 
@@ -78,7 +84,7 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
 
-21h ago
+23h ago
 
 ---
 
@@ -89,12 +95,6 @@ GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: h
 ---
 
 **[Reflex Robotics Shoveling Snow](https://www.reddit.com/r/robotics/comments/1rcxptv/reflex_robotics_shoveling_snow/)**
-
-1d ago
-
----
-
-**[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
 1d ago
 
@@ -116,7 +116,15 @@ The Guardian • 6d ago
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
-NBC Bay Area • 20h ago
+NBC Bay Area • 22h ago
+
+---
+
+**[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
+
+"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
+
+CNBC • 2d ago
 
 ---
 
@@ -124,7 +132,15 @@ NBC Bay Area • 20h ago
 
 AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
 
-Los Angeles Times • 2h ago
+Los Angeles Times • 3h ago
+
+---
+
+**[Musk's Grok AI moves to classified defense systems, Anthropic ousted](https://interestingengineering.com/ai-robotics/musk-grok-joins-classified-military-systems)**
+
+Elon Musk's Grok is set to enter classified U.S. military systems, marking a shift in the Pentagon's Anthropic AI strategy.
+
+Interesting Engineering • 22h ago
 
 ---
 
@@ -132,7 +148,15 @@ Los Angeles Times • 2h ago
 
 Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-TribLIVE.com • 14h ago
+TribLIVE.com • 15h ago
+
+---
+
+**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
+
+AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
+
+MIT Technology Review • 1d ago
 
 ---
 
@@ -148,23 +172,7 @@ The Hindu • 1d ago
 
 The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
 
-The Boston Globe • 20h ago
-
----
-
-**[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
-
-A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
-
-KPAX News • 23h ago
-
----
-
-**[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
-
-"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
-
-CNBC • 1d ago
+The Boston Globe • 22h ago
 
 ---
 
@@ -172,15 +180,7 @@ CNBC • 1d ago
 
 AI2 Robotics brought its valuation to more than $1 billion as it develops VLA models for semi-humanoid robots.
 
-The Robot Report • 13h ago
-
----
-
-**[US software firm opens doors for global adoption of China’s humanoid robots](https://www.scmp.com/tech/tech-trends/article/3344172/software-connection-us-firm-opens-doors-global-adoption-chinas-humanoid-robots)**
-
-OpenMind works with several Chinese robotics companies including Unitree, UBTech, AgiBot and Engine AI.
-
-South China Morning Post • 3d ago
+The Robot Report • 14h ago
 
 ---
 
@@ -204,7 +204,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 28K • 👍 455 • 💬 276 • ⏱️ 7:18 • 19h ago
+👁️ 28K • 👍 455 • 💬 276 • ⏱️ 7:18 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T13:08:17.911433+00:00'
+updated: '2026-02-25T14:32:06.985362+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - videos
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 13:08 UTC  
+**Last Updated:** February 25, 2026 at 14:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +4.4%  
-**7d:** -1.1%  
-**30d:** -25.8%  
-**90d:** -27.1%  
-**1y:** -21.3%  
+**24h:** +3.9%  
+**7d:** -0.7%  
+**30d:** -25.5%  
+**90d:** -26.8%  
+**1y:** -20.9%  
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 If you owned a full Bitcoin, do you think things would change in ten years?
 
-5h ago
+6h ago
 
 ---
 
 **[Bitcoin is Dead. Long Live Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1rdrie8/bitcoin_is_dead_long_live_bitcoin/)**
 
-16h ago
+18h ago
 
 ---
 
@@ -95,7 +95,15 @@ If you owned a full Bitcoin, do you think things would change in ten years?
 
 Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (especially when traveling), I had a weird idea: What if I hid ALL 2,048 BIP39 words inside a normal-looking children's book? So I wrote "The Adventures of Veit the Fox" – a 19-chapter adventure story about a fox’s adventures, published it, and had it delivered to me as a paperback. It reads like a normal kids' book, but every single BIP39 word appears naturally in the text. How the backup works: Your 12- or 24-word seed becomes a list of page/line/word numbers Example: "abandon" → Page 12, Line 3, Word 5 → "12-3-5" The numbers look meaningless to anyone who finds them The book looks like an innocent children's book on your shelf Why do I love this backup: Nobody suspects a children's book You can keep the book and numbers in separate locations Even if someone finds both, they don't know it's a backup Inconspicuous when traveling and crossing borders I also created a word index PDF showing where each word appears, because without it it is extremely time-consuming to find the words. Maybe this will be a helpful tip for you too. Happy to answer questions about the process or the book cipher concept!
 
-17h ago
+19h ago
+
+---
+
+**[What I’ve Noticed](https://www.reddit.com/r/Bitcoin/comments/1re2bzu/what_ive_noticed/)**
+
+What I’ve noticed about tops is that they usually come when everyone thinks it’s going to go much higher. What I’ve noticed about bottoms is they usually come when everyone thinks it’s going much lower. Do with this information as you please.
+
+10h ago
 
 ---
 
@@ -105,11 +113,11 @@ Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (e
 
 ---
 
-**[What I’ve Noticed](https://www.reddit.com/r/Bitcoin/comments/1re2bzu/what_ive_noticed/)**
+**[Does this provide hope for BTC use in the near future?](https://www.reddit.com/r/Bitcoin/comments/1recuhm/does_this_provide_hope_for_btc_use_in_the_near/)**
 
-What I’ve noticed about tops is that they usually come when everyone thinks it’s going to go much higher. What I’ve noticed about bottoms is they usually come when everyone thinks it’s going much lower. Do with this information as you please.
+Cash App has a map feature on the Bitcoin page, that I just noticed. I know people will say, “don’t spend your Bitcoin!”, but isn’t this what Bitcoin will be used for in the (hopefully) near future? Tell me what’s wrong with seeing this in Cash App, or BTC ATM icons in Waze, or any other big company involved with providing exposure to BTC.
 
-9h ago
+1h ago
 
 ---
 
@@ -117,13 +125,7 @@ What I’ve noticed about tops is that they usually come when everyone thinks it
 
 What would owning even 1 BTC do for you financially, and would you be richer than a lot of people?
 
-19h ago
-
----
-
-**[Previously on, If I Had a Time Machine....](https://www.reddit.com/r/Bitcoin/comments/1rdf4pw/previously_on_if_i_had_a_time_machine/)**
-
-1d ago
+20h ago
 
 ---
 
@@ -131,21 +133,21 @@ What would owning even 1 BTC do for you financially, and would you be richer tha
 
 Longs get wiped, the screens burn red, Day traders chase, their edge long dead. Dollar slips, we’re slipping too, That’s not the hedge they swore was true. Prophets speak in tones so bold, Diamond hands? I already sold. I will not yield, I will not fold, One final prayer the charts foretold: HODL.
 
-7h ago
+8h ago
 
 ---
 
 **[Fix the money, Fix the world](https://www.reddit.com/r/Bitcoin/comments/1re6q60/fix_the_money_fix_the_world/)**
 
-5h ago
+7h ago
 
 ---
 
-**[Daily Discussion, February 25, 2026](https://www.reddit.com/r/Bitcoin/comments/1re5a78/daily_discussion_february_25_2026/)**
+**[Caution with Cashapp](https://www.reddit.com/r/Bitcoin/comments/1reechv/caution_with_cashapp/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+I have about $4000 USD with cashapp that I purchased through their service. All of the sudden without explanation they closed my account. Now I cannot move my BTC off of their platform to a cold wallet. I have to sell for USD which generates a taxable event. If it can happen to a random person like me it can happen to you.
 
-7h ago
+17m ago
 
 ---
 
@@ -153,35 +155,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[Bitdeer Sells Entire Bitcoin Stash as Mining Profits Near Record Lows](https://finance.yahoo.com/news/bitdeer-sells-entire-bitcoin-stash-135554538.html)**
+**[Historic mining capitulation nears end, pointing to bitcoin price stabilization](https://www.coindesk.com/markets/2026/02/25/one-of-longest-mining-capitulations-nears-end-signaling-potential-btc-price-bottom)**
 
-Singapore-based Bitdeer, now the world's largest publicly traded self-miner, has completely liquidated its BTC treasury.
+Hash Ribbon recovery and sub production pricing suggest the worst of the bitcoin drawdown may have passed.
 
-Yahoo Finance • 2d ago
-
----
-
-**[Bitcoin mining is no longer profitable after crypto's latest downward turn, analyst says](https://www.cnbc.com/2026/02/24/bitcoin-mining-is-no-longer-profitable-after-cryptos-latest-downward-turn.html)**
-
-Bitcoin briefly sank below $63,000 on Tuesday, dragging down its miners alongside it.
-
-CNBC • 19h ago
-
----
-
-**[Canaan acquires Cipher Mining's stake in West Texas bitcoin mining projects in $40 million deal](https://www.theblock.co/post/390926/canaan-cipher-mining-west-texas-bitcoin-mining)**
-
-The deal was funded through the issuance of Canaan shares valued at roughly $39.75 million, making Cipher a significant shareholder.
-
-The Block • 1d ago
-
----
-
-**[Bitcoin’s 'Oldest' 2009 Whale Reportedly Sells $1.24B BTC as Price Falls Below $65,000 — Is It Accurate?](https://finance.yahoo.com/news/bitcoin-oldest-2009-whale-sells-144215483.html)**
-
-One of Bitcoin’s earliest and largest holders has reportedly sold $1.24 billion in BTC. Santiment data shows wallets holding 10–10,000 BTC now control a nine-month ...
-
-Yahoo Finance • 22h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -193,39 +171,61 @@ CNBC • 1d ago
 
 ---
 
-**[South Korean police arrest two over alleged theft of seized bitcoin from evidence: report](https://www.theblock.co/post/391212/south-korean-police-arrest-two-over-alleged-theft-of-seized-bitcoin-from-evidence)**
+**[Bitcoin’s late-night spike fuels broad altcoin rally: Crypto Markets Today](https://www.coindesk.com/markets/2026/02/25/crypto-rebounds-from-oversold-levels-altcoin-season-indicator-revisits-january-high)**
 
-South Korean police have arrested two individuals over the alleged theft of 22 BTC seized during a 2021 hacking investigation.
+Bitcoin rose as much as 3.7% overnight before paring gains, while altcoins outperformed and the altcoin season indicator hit its highest level since January.
 
-The Block • 31m ago
-
----
-
-**[Coinbase Flags Key Bitcoin Zones — Why $60K and $90K Could Define the Next Move](https://finance.yahoo.com/news/coinbase-flags-key-bitcoin-zones-124215552.html)**
-
-Coinbase flags $60,000 as critical support; a drop below this level could trigger rapid downside. Positive gamma clusters between $85,000–$90,000 likely cap upside, keeping price ...
-
-Yahoo Finance • 26m ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin Jumps Above $66,000 Ahead of Trump’s Address to Congress](https://www.bloomberg.com/news/articles/2026-02-25/bitcoin-jumps-above-66-000-ahead-of-trump-s-address-to-congress)**
+**[Bitcoin mining is no longer profitable after crypto's latest downward turn, analyst says](https://www.cnbc.com/2026/02/24/bitcoin-mining-is-no-longer-profitable-after-cryptos-latest-downward-turn.html)**
 
-Bloomberg.com • 49m ago
+Bitcoin briefly sank below $63,000 on Tuesday, dragging down its miners alongside it.
 
----
-
-**[Bitcoin Price Rises. XRP, Ethereum and Cryptos Were Left Out of Trump Speech.](https://www.barrons.com/articles/cryptos-xrp-bitcoin-trump-c1822431?gaa_at=eafs&gaa_n=AWEtsqd0ejF80tKee_WQg6MkgmTsj8pq-CuH4kkFXRMe7EJVL7vhWLlKv6Ih&gaa_ts=699ef7a1&gaa_sig=vSX12Xc4_T9yBzFVWeGrDKhakxloNfGivv1Woz0p9qRlMRfJnCA7hR-hbiq_TcGaiUsTwsvygP0dUozHruGm1Q%3D%3D)**
-
-Barron's • 4h ago
+CNBC • 20h ago
 
 ---
 
-**[Bitcoin Rises as Markets Price State of the Union Trump Address](https://www.tradingview.com/news/cryptonews:d3d9542e7094b:0-bitcoin-rises-as-markets-price-state-of-the-union-trump-address/)**
+**[Bitcoin Holders Sitting on Losses Are Selling Into Every Bounce](https://www.bloomberg.com/news/newsletters/2026-02-25/bitcoin-holders-sitting-on-losses-are-selling-into-every-bounce)**
 
-Bitcoin (BTC) surged more than $2,000 to reclaim the $66,000 level Tuesday evening, driven by risk-on positioning ahead of the State of the Union address by President Donald Trump.While the asset has since retraced slightly to trade near $65,500, according to , the move signals a potential localize…
+Bloomberg • 14m ago
 
-TradingView • 2h ago
+---
+
+**[Bitcoin is back above $65,000, but it's still on track for another rough month](https://www.marketwatch.com/livecoverage/stock-market-today-dow-sp500-nasdaq-hold-rally-ahead-of-nvidia-earnings-gold-silver-up/card/bitcoin-is-back-above-65-000-but-it-s-still-on-track-for-another-rough-month-or4wAkaRhuviJANaLNil?mod=mw_robin&gaa_at=eafs&gaa_n=AWEtsqedz2YrAAVqhM59UkybDJmdm2XNOi5yO-1wB___1f5xsodQNJSRhNnj&gaa_ts=699f07d2&gaa_sig=p-Im9aZi_GTyuTp9FlYMH3L3NGNV464jScOqoPalv0E89lv4AMXU57t05jyHmvftV4rRSohQU4evdE8Pd168oQ%3D%3D&gaa_at=eafs&gaa_n=AWEtsqfnvq8aG39AMO6Zm8q4DXSP6JGY4zBBS2R9pRKiH6d_Yw-bpcNerLqr&gaa_ts=699f0b4d&gaa_sig=iTr496jzUF5Ba4Wjzs2jVpwb9QMxn2K-qDnjk9WVxCMxzbH9B_WXC5h09IAJxagqxrO3kz3ptGUo1cqMm01HtA%3D%3D)**
+
+MarketWatch • 29m ago
+
+---
+
+**[America’s most shorted stock is Wall Street’s Bitcoin machine](https://finance.yahoo.com/news/america-most-shorted-stock-wall-020336775.html)**
+
+If you had to guess which $40 billion company is currently the most shorted stock in America, you probably would need more than one try. It’s Strategy. Yes, the company formerly known as MicroStrategy. Yes — the Michael Saylor Bitcoin machine. According to Goldman Sachs’ hedge fund positioning ...
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Anchorage Digital holds Strategy holds bitcoin holder Strategy's preferred stock](https://www.coindesk.com/markets/2026/02/25/crypto-firm-with-a-u-s-bank-charter-adds-bitcoin-holder-strategy-stock-to-its-balance-sheet)**
+
+Anchorage Digital, the first federally chartered U.S. crypto bank, has added perpetual preferred stock in bitcoin treasury firm Strategy to its balance sheet.
+
+CoinDesk • 8h ago
+
+---
+
+**[Michael Saylor Hits 100 Bitcoin Buys—And He's Not Stopping Despite A $7 Billion Loss](https://finance.yahoo.com/news/michael-saylor-hits-100-bitcoin-133058007.html)**
+
+Strategy (NASDAQ:MSTR) bought 592 Bitcoin (CRYPTO: BTC) for $39.8 million marking its 100th purchase announcement since August 2020, despite sitting on a $7 billion unrealized loss. The 100th Purchase Milestone Strategy sold 297,940 shares of common stock between February 17-22,...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Bitcoin Took Its First Step Against Quantum Computers](https://www.forbes.com/sites/digital-assets/2026/02/23/bitcoin-took-its-first-step-against-quantum-computers/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -237,7 +237,13 @@ TradingView • 2h ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 6 • 💬 19 • 22h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+⬆️ 6 • 💬 19 • 23h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+
+---
+
+**[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
+
+⬆️ 1 • 💬 1 • 1h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -245,19 +251,13 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
-⬆️ 1 • 💬 1 • 21h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
+⬆️ 1 • 💬 1 • 23h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
 
 ---
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
 ⬆️ 1 • 💬 1 • 3d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
-
----
-
-**[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
-
-⬆️ 1 • 💬 0 • 3m ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -279,7 +279,7 @@ Singapore based BTC and AI miner sells all holdings to build liquidity for expan
 
 **[Bisq Decentralized Bitcoin](https://news.ycombinator.com/item?id=47100561)**
 
-⬆️ 1 • 💬 0 • 3d ago • [bisq.wiki](https://bisq.wiki/Main_Page)
+⬆️ 1 • 💬 0 • 4d ago • [bisq.wiki](https://bisq.wiki/Main_Page)
 
 ---
 
@@ -315,7 +315,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 20K • 👍 1K • 💬 281 • ⏱️ 13:40 • 19h ago
+👁️ 20K • 👍 1K • 💬 281 • ⏱️ 13:40 • 20h ago
 
 ---
 
@@ -325,7 +325,7 @@ Get my free guide to building a tax-free bitcoin income stream: https://link.1ma
 
 📺 Mark Moss
 
-👁️ 56K • 👍 3K • 💬 316 • ⏱️ 15:47 • 16h ago
+👁️ 56K • 👍 3K • 💬 316 • ⏱️ 15:47 • 17h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 96 • ⏱️ 9:37 • 13h ago
+👁️ 34K • 👍 2K • 💬 96 • ⏱️ 9:37 • 15h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin was supposed to break out in 2026. Instead it ran to 126K and crashed ba
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 101 • ⏱️ 15:53 • 14h ago
+👁️ 18K • 👍 1K • 💬 101 • ⏱️ 15:53 • 16h ago
 
 ---
 
@@ -375,7 +375,7 @@ Bitcoin remained tethered near the the lower end of its recent trading range eve
 
 📺 Bloomberg Television
 
-👁️ 7K • 👍 108 • 💬 91 • ⏱️ 7:26 • 16h ago
+👁️ 7K • 👍 108 • 💬 91 • ⏱️ 7:26 • 17h ago
 
 ---
 
@@ -395,7 +395,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 25K • 👍 1K • 💬 125 • ⏱️ 45:23 • 21h ago
+👁️ 25K • 👍 1K • 💬 125 • ⏱️ 45:23 • 22h ago
 
 ---
 
@@ -405,7 +405,7 @@ Bitcoin is down 45% from its all-time high as AI disruption rattles global marke
 
 📺 Swan Bitcoin
 
-👁️ 39K • 👍 2K • 💬 177 • ⏱️ 19:02 • 14h ago
+👁️ 39K • 👍 2K • 💬 177 • ⏱️ 19:02 • 15h ago
 
 ---
 
