@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T22:35:21.630631+00:00'
+updated: '2026-02-25T23:28:56.941237+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 22:35 UTC  
+**Last Updated:** February 25, 2026 at 23:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-9h ago
+10h ago
 
 ---
 
@@ -60,7 +60,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-11h ago
+12h ago
 
 ---
 
@@ -68,13 +68,13 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-5h ago
+6h ago
 
 ---
 
 **[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -88,13 +88,13 @@ Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimbe
 
 ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilities expecting highly automated, fully digitized operations. Instead, he found inspection data being written down on paper. Logs stored and never reviewed. Manual restarts that were never automated because the retrofit would be too complex. Teams collecting data that never reached the people who needed it. His take is that the distance between state-of-the-art robotics research and day-to-day industrial practice remains significant.
 
-7h ago
+8h ago
 
 ---
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -112,7 +112,7 @@ ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilit
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 2h ago
+TechCrunch • 3h ago
 
 ---
 
@@ -144,7 +144,7 @@ The Boston Globe • 1d ago
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 50m ago
+CNBC • 1h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Hindu • 1d ago
 
 AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
 
-Los Angeles Times • 11h ago
+Los Angeles Times • 12h ago
 
 ---
 
@@ -184,7 +184,7 @@ The Telegraph • 3d ago
 
 The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
 
-Semafor • 3h ago
+Semafor • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 104K • 👍 2K • 💬 242 • ⏱️ 14:16 • 2d ago
+👁️ 104K • 👍 2K • 💬 242 • ⏱️ 14:16 • 3d ago
 
 ---
 

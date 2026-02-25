@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T22:35:21.619363+00:00'
+updated: '2026-02-25T23:28:56.932069+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - cryptocurrency
 - videos
+- news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 22:35 UTC  
+**Last Updated:** February 25, 2026 at 23:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Google searches for "buy bitcoin" at highest level in 5 years](https://www.reddit.com/r/Bitcoin/comments/1renmsw/google_searches_for_buy_bitcoin_at_highest_level/)**
 
-🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 2h ago
+🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4f008711480e9de8c23a06b3d9e6bbd824ed6 Thoughts on this?
 
-4h ago
+5h ago
 
 ---
 
@@ -95,13 +95,13 @@ https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4
 
 Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
-4h ago
+5h ago
 
 ---
 
 **[Morgan Stanley's Amy Oldenburg confirms the bank has plans to offer Bitcoin trading, lending, yield, and custody in the future](https://www.reddit.com/r/Bitcoin/comments/1rep4ke/morgan_stanleys_amy_oldenburg_confirms_the_bank/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -109,7 +109,7 @@ Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
 If you owned a full Bitcoin, do you think things would change in ten years?
 
-14h ago
+15h ago
 
 ---
 
@@ -117,7 +117,7 @@ If you owned a full Bitcoin, do you think things would change in ten years?
 
 Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 months ago the average normie that did zero research on BTC & thinks it's a scam saw it shoot past $125,000 and subsequently regretted not getting some at the bottom. That same bitter normie is now glad the fiat cuck buck price of BTC has halved, he's euphoric even. He's telling people how glad he is that he didn't buy in, that he knew this would happen & that the guy, who communicated federal crimes over Gmail, is Satoshi. In the meantime Wall Street, nation states & banks have legitimized Bitcoin as a real, disruptive asset, that needs to be custodied, regulated & included in every portfolio. Last year & especially this year it dawned on me: hyperbitcoinization among the sheeple won't happen, not in a million years. This bright future we're imagining for humanity, that will finally be able to use a free, sovereign, energy-backed money, will not come to fruition. The average person could literally watch Bitcoin do another 150x from here and think it's a worthless, ocean-boiling ponzi scheme. I wanted to see regular folk aquire some Bitcoin for themselves, for their family. I tried educating them, like others educated me. I did my part. Few listened. Eventually I gave up telling people about it, as I think it's unnecessary at this point. This time around I'm GLAD corporations, billionaires and ETFs are accumulating. Maybe this arrogant, ignorant, mindless mass of stupid consumers doesn't deserve to hold this asset. And I'm okay with that.
 
-5h ago
+6h ago
 
 ---
 
@@ -125,7 +125,7 @@ Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 mon
 
 I have always wanted to buy BTC after a big crash and hold out until I almost double my money. This week was the perfect opportunity. I bought $5k worth of BTC when it was at $63,300 and then another $5k worth when it went back up to $64,500, fearing the $62,000 was the lowest it would get this cycle. So wish me luck! If anybody has any advice for noobies, I am all ears! But I’m feeling pretty good about this so far!
 
-6h ago
+7h ago
 
 ---
 
@@ -133,13 +133,13 @@ I have always wanted to buy BTC after a big crash and hold out until I almost do
 
 Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. Let's assume the high was $126,000 and the low was $60,000. As a holder, you considered either holding and forgetting about it or trading the 4 year cycle. Realistically and objectively, it's impossible to sell at exactly $126,000 and then buy back at $60,000, 50% cheaper. Let's say you sold everything at $100,000 and now, during the drop, you bought back at $70,000. the difference is very small. When Bitcoin is at 500,000, it won't matter whether you bought it at 100,000 or 70,000. Is it worth it? The possibility of selling and missing out while the price rises, the added stress, the fees for entering and exiting the market, and paying taxes to sell at $100,000 and buy back at $70,000? Because nobody sells at the exact maximum and buys back at the exact bottom. I clearly see that the ideal strategy is to hold, saving you commissions, taxes, stress, and on top of that, ensuring you don't miss out on the market when it goes up.
 
-8h ago
+9h ago
 
 ---
 
 **[What happened in Brazil?](https://www.reddit.com/r/Bitcoin/comments/1req45q/what_happened_in_brazil/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -147,7 +147,7 @@ Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. 
 
 I have about $4000 USD with cashapp that I purchased through their service. All of the sudden without explanation they closed my account. Now I cannot move my BTC off of their platform to a cold wallet. I have to sell for USD which generates a taxable event. If it can happen to a random person like me it can happen to you.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ I have about $4000 USD with cashapp that I purchased through their service. All 
 
 Bitcoin rebounds amid Jane Street speculation. The speculation comes as the firm contests a lawsuit tied to the 2022 TerraUSD collapse. Macro and technical factors ...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bitcoin Magazine • 1d ago
 
 Looking for the best crypto wallets in 2026? Explore our expert guide to top hardware and software wallets for storing Bitcoin, Ethereum, and altcoins, plus accessing DeFi securely.
 
-Business Insider • 1h ago
+Business Insider • 2h ago
 
 ---
 
@@ -223,7 +223,7 @@ Yahoo Finance Singapore • 1h ago
 
 Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
 
-Bloomberg.com • 47m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -247,7 +247,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 1 • 💬 1 • 9h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 1 • 💬 1 • 10h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -319,7 +319,7 @@ Bitcoin #Crypto #Finance Bitcoin accumulation is approaching extreme levels at t
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 943 • 💬 133 • ⏱️ 29:33 • 7h ago
+👁️ 16K • 👍 943 • 💬 133 • ⏱️ 29:33 • 8h ago
 
 ---
 
@@ -329,7 +329,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 44K • 👍 2K • 💬 112 • ⏱️ 9:37 • 23h ago
+👁️ 44K • 👍 2K • 💬 112 • ⏱️ 9:37 • 1d ago
 
 ---
 
@@ -339,7 +339,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 5K • 👍 396 • 💬 30 • ⏱️ 25:16 • 4h ago
+👁️ 5K • 👍 396 • 💬 30 • ⏱️ 25:16 • 5h ago
 
 ---
 
@@ -349,7 +349,7 @@ SIGN UP TO FEFE'S EXCLUSIVE BITFUNDED MASTERCLASSS NOW!
 
 📺 100XClub
 
-👁️ 11K • 👍 945 • 💬 178 • ⏱️ 10:33 • 12h ago
+👁️ 11K • 👍 945 • 💬 178 • ⏱️ 10:33 • 13h ago
 
 ---
 
@@ -359,7 +359,7 @@ Join the Bitpanda evolution here https://bitpanda.pxf.io/c/2040095/3761002/15871
 
 📺 Lark Davis
 
-👁️ 12K • 👍 725 • 💬 43 • ⏱️ 16:39 • 10h ago
+👁️ 12K • 👍 725 • 💬 43 • ⏱️ 16:39 • 11h ago
 
 ---
 
@@ -369,7 +369,7 @@ Bitcoin is up 8% today. Ethereum up 12%. So why are insiders fleeing? At least 8
 
 📺 Dana Love, PhD
 
-👁️ 151 • 👍 5 • 💬 2 • ⏱️ 1:05 • 1h ago
+👁️ 151 • 👍 5 • 💬 2 • ⏱️ 1:05 • 2h ago
 
 ---
 
@@ -379,7 +379,7 @@ Coinflare: https://themoon.co/Coinflare Earn Up to $5050 in Rewards BYBIT: http:
 
 📺 The Moon Show
 
-👁️ 4K • 👍 369 • 💬 23 • ⏱️ 6:30 • 3h ago
+👁️ 4K • 👍 369 • 💬 23 • ⏱️ 6:30 • 4h ago
 
 ---
 
@@ -409,7 +409,7 @@ Bitcoin is down 45% from its all-time high as AI disruption rattles global marke
 
 📺 Swan Bitcoin
 
-👁️ 53K • 👍 2K • 💬 201 • ⏱️ 19:02 • 23h ago
+👁️ 53K • 👍 2K • 💬 201 • ⏱️ 19:02 • 1d ago
 
 ---
 

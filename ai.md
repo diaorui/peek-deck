@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-25T22:35:21.611036+00:00'
+updated: '2026-02-25T23:28:56.923518+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - news
 - videos
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 25, 2026 at 22:35 UTC  
+**Last Updated:** February 25, 2026 at 23:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hello! I want to share an experiment I’ve been running. Over the past few weeks, I’ve been developing a desktop HTML first-person shooter called Zombie Slayer. The core constraint of the project is this: every line of code was generated through prompts. I never manually edited the source. For context: I have never built a 3D game before, and I’ve never programmed in HTML. I also have nearly zero coding experience. This project has been less about traditional development and more about testing the boundary conditions of prompt-driven creation. The game was built in Antigravity using Gemini 3 Pro, with Three.js handling real-time 3D rendering. All geometry is procedurally generated at runtime. Sound effects are synthesized dynamically, and the music was also generated with AI (Suno). The entire playable build is under 900KB in file size and is an easily shareable HTML file. From a systems perspective: - HTML desktop game (<1MB total footprint) Procedural geometry generated at runtime Real-time sound generation - 10 escalating stages with objectives + economy layer (coin-based Black Market) - Enemy scaling model (each kill increases enemy population and variety) - Weapon and physics modifiers (jetpack thrust, anti-gravity cannon, nuke projectile, etc.) - Dynamic environmental interactions (flood events, teleport well, destructible elements) To my knowledge, this may be the first playable first-person shooter built entirely through prompting (at least at this level of complexity and intentional design). If I’m wrong, I’d genuinely love to see comparable examples. The goal is to continue expanding the game exclusively through prompts and release it for free. I’d appreciate any technical feedback, skepticism, or discussion. I’m treating this as an open experiment in what “AI-native” game development might look like.
 
-9h ago
+10h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hello! I want to share an experiment I’ve been running. Over the past few week
 
 In an abrupt shift, the company may release future AI models without ironclad safety guarantees
 
-🔗 [TIME](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) • 20h ago
+🔗 [TIME](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) • 21h ago
 
 ---
 
@@ -57,7 +57,7 @@ In an abrupt shift, the company may release future AI models without ironclad s
 
 Hi , I’m the founder of Sentinel Gateway. We’ve been focused on the structural problem of instruction provenance in autonomous agents: models process all text as undifferentiated input, so adversarial content can cause agents to propose harmful actions. Rather than asking the model to decide which text is an instruction, Sentinel Gateway enforces that only user signed prompts (token-scoped) are treated as executable intent and that every agent action must present a valid token before execution. This provides an execution level control boundary and full per prompt auditability. We’ve performed controlled adversarial tests with leading agent stacks and are offering a small number of private red-team evaluations to teams that are running agents with file/API access. I’ll answer high-level questions here; if you want deeper technical details or to run tests, DM me and we’ll discuss and a scheduled evaluation. Proof of concept + test plan available to qualified teams.
 
-2h ago
+3h ago
 
 ---
 
@@ -65,7 +65,7 @@ Hi , I’m the founder of Sentinel Gateway. We’ve been focused on the structur
 
 Abstract: We report the performance of Aletheia (Feng et al., 2026b), a mathematics research agent powered by Gemini 3 Deep Think, on the inaugural FirstProof challenge. Within the allowed timeframe of the challenge, Aletheia autonomously solved 6 problems (2, 5, 7, 8, 9, 10) out of 10 according to majority expert assessments; we note that experts were not unanimous on Problem 8 (only). For full transparency, we explain our interpretation of FirstProof and disclose details about our experiments as well as our evaluation. Raw prompts and outputs are available at this https URL. FirstProof Abstract: To assess the ability of current AI systems to correctly answer research-level mathematics questions, we share a set of ten math questions which have arisen naturally in the research process of the authors. The questions had not been shared publicly until now; the answers are known to the authors of the questions but will remain encrypted for a short time.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 3h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Abstract: We report the performance of Aletheia (Feng et al., 2026b), a mathemat
 
 I had this insight as I was vibecoding the night away. Of course people are going to use AI in lieu of learning how to do things, but I also think there will be a more compelling group that will realize that the more knowledge you have, the higher you can go with these tools, and this will inspire people to learn, so that they can then use that knowledge to create things with AI.
 
-17h ago
+18h ago
 
 ---
 
@@ -89,7 +89,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 Hi, I’m looking for AI software that allows us to upload a large number of our existing Word/PDF documents (templates, past client documents, standard clauses, etc.) and then generate new documents based on those patterns. What I’m NOT looking for is just a chatbot that answers questions about the documents. I need something that can: Learn from our document structure and wording Reuse our formatting and style Generate full new documents based on prompts and documents we feed it (ideally if you coul connect dropbox) Ideally integrate with Dropbox or similar cloud storage Export properly formatted Word documents Support for non-English languages (in thi case Slovak) would be important as well. Does anyone have experience with tools that can do this reliably?
 
-13h ago
+14h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hi, I’m looking for AI software that allows us to upload a large number of our
 
 Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falling 10%, after Anthropic announced an AI tool designed to streamline COBOL code modernization. Accenture (NYSE:ACN) and Cognizant Technology Solutions (NASDAQ:CTSH) also declined following the news.
 
-🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 1d ago
+🔗 [Yahoo Finance](https://finance.yahoo.com/news/ibm-stock-tumbles-10-anthropic-194042677.html) • 2d ago
 
 ---
 
@@ -125,19 +125,19 @@ context: I've been building a system that sends the same question to multiple mo
 
 Anthropic, a company founded by OpenAI exiles worried about the dangers of AI, is loosening its core safety principle in response to competition.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
 **[Opinion | I Thought I Understood A.I. Companies. I Couldn’t Have Been More Wrong.](https://www.nytimes.com/2026/02/25/opinion/ai-industry-competition-innovation.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
 **[Salesforce’s stock falls as mixed earnings forecast fails to dispel AI gloom](https://www.marketwatch.com/story/salesforces-stock-falls-as-mixed-earnings-forecast-fails-to-dispel-ai-gloom-d230d256?gaa_at=eafs&gaa_n=AWEtsqdllc5huI0i2o4uCwqUylkyuIcQe9e62Z0JNt2Vfzs8LJvQh3y9BOvW&gaa_ts=699f7c93&gaa_sig=XojgdtwZOoqXiiBGP7qwa4MDEpx-4n-FgQYs-VFB8uKxviw-lh8In7LrVjhZxQZ2JhqPmW0MIbcD3FOZLMREDQ%3D%3D)**
 
-MarketWatch • 1h ago
+MarketWatch • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ MarketWatch • 1h ago
 
 All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance • 3h ago
 
 It's the biggest annual increase since the pandemic.
 
-Gizmodo • 24m ago
+Gizmodo • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Gizmodo • 24m ago
 
 Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.
 
-OpenAI • 8h ago
+OpenAI • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ OpenAI • 8h ago
 
 One study found a chatbot gave better answers if you pretend to be on Star Trek.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Guardian • 1d ago
 
 Last month, the Federal Trade Commission warned that it has seen a “big wave” of phone scams in which fraudsters claim to be from the IRS.
 
-The Washington Post • 3h ago
+The Washington Post • 4h ago
 
 ---
 
@@ -221,7 +221,7 @@ We're adopting Rust as our C++ successor language, and using AI agents to accele
 
 I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...
 
-⬆️ 800 • 💬 695 • 2d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
+⬆️ 800 • 💬 695 • 3d ago • [Google AI Developers Forum](https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778)
 
 ---
 
@@ -260,7 +260,7 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 286 • 💬 271 • 1d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 286 • 💬 271 • 2d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -276,7 +276,7 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
-⬆️ 184 • 💬 66 • 12h ago • [llmskirmish.com](https://llmskirmish.com/)
+⬆️ 184 • 💬 66 • 13h ago • [llmskirmish.com](https://llmskirmish.com/)
 
 ---
 
@@ -290,7 +290,7 @@ This man has had an AI 'girlfriend' for three years "You can do whatever you wan
 
 📺 BBC
 
-👁️ 4K • 👍 100 • 💬 44 • ⏱️ 4:50 • 8h ago
+👁️ 4K • 👍 100 • 💬 44 • ⏱️ 4:50 • 9h ago
 
 ---
 
@@ -320,7 +320,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 593 • 💬 99 • ⏱️ 7:45 • 6h ago
+👁️ 12K • 👍 593 • 💬 99 • ⏱️ 7:45 • 7h ago
 
 ---
 
@@ -380,7 +380,7 @@ Invest in EnergyX → https://bit.ly/energy-x-vs Join our WhatsApp Community Get
 
 📺 Vaibhav Sisinty
 
-👁️ 12K • 👍 541 • 💬 33 • ⏱️ 20:44 • 6h ago
+👁️ 12K • 👍 541 • 💬 33 • ⏱️ 20:44 • 7h ago
 
 ---
 
@@ -420,7 +420,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,875 • ❤️ 277 • 19h ago
+⬇️ 6,875 • ❤️ 277 • 20h ago
 
 ---
 
@@ -648,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.2k • 🔱 2.3k • 1h ago
+⭐ 19.2k • 🔱 2.3k • 2h ago
 
 ---
 
@@ -666,7 +666,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.5k • 🔱 675 • 16h ago
+⭐ 5.5k • 🔱 675 • 17h ago
 
 ---
 
@@ -676,7 +676,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.0k • 🔱 215 • 8h ago
+⭐ 4.0k • 🔱 215 • 9h ago
 
 ---
 
@@ -686,7 +686,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.5k • 🔱 348 • 18h ago
+⭐ 3.5k • 🔱 348 • 19h ago
 
 ---
 
@@ -696,7 +696,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.3k • 🔱 438 • 5h ago
+⭐ 3.3k • 🔱 438 • 6h ago
 
 ---
 
@@ -716,7 +716,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.8k • 🔱 193 • 1h ago
+⭐ 2.8k • 🔱 193 • 2h ago
 
 ---
 
@@ -726,7 +726,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 493 • 8h ago
+⭐ 2.5k • 🔱 493 • 9h ago
 
 ---
 
@@ -736,7 +736,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 268 • 8h ago
+⭐ 2.5k • 🔱 268 • 9h ago
 
 ---
 
