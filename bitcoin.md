@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T17:35:47.027416+00:00'
+updated: '2026-02-25T19:07:58.423760+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 17:35 UTC  
+**Last Updated:** February 25, 2026 at 19:07 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,496.23
+### $69,101.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +6.4%  
-**7d:** +2.4%  
-**30d:** -23.2%  
-**90d:** -24.6%  
-**1y:** -18.5%  
+**24h:** +7.2%  
+**7d:** +3.2%  
+**30d:** -22.6%  
+**90d:** -24.0%  
+**1y:** -17.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1347.94B
+**Market Cap:** $1383.47B
 Rank #1
 
-**Circulating Supply:** 19,994,659 BTC
+**Circulating Supply:** 19,994,712 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.5%
+-45.2%
 
 **All-Time Low:** $67.81
-+99425.1%
++101826.0%
 
 ---
 
@@ -77,17 +77,25 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Bitcoin surges from 63.9k to nearly 69k in just hours after analysts suggests the "crypto winter" has ended](https://www.reddit.com/r/Bitcoin/comments/1rekdiv/bitcoin_surges_from_639k_to_nearly_69k_in_just/)**
+
+https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4f008711480e9de8c23a06b3d9e6bbd824ed6 Thoughts on this?
+
+1h ago
+
+---
+
 **[Owning 1 Bitcoin is what you need to do.](https://www.reddit.com/r/Bitcoin/comments/1re7d4r/owning_1_bitcoin_is_what_you_need_to_do/)**
 
 If you owned a full Bitcoin, do you think things would change in ten years?
 
-9h ago
+11h ago
 
 ---
 
-**[First time buyer](https://www.reddit.com/r/Bitcoin/comments/1rehrjj/first_time_buyer/)**
+**[Dump 401k into bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rek3pi/dump_401k_into_bitcoin/)**
 
-I have always wanted to buy BTC after a big crash and hold out until I almost double my money. This week was the perfect opportunity. I bought $5k worth of BTC when it was at $63,300 and then another $5k worth when it went back up to $64,500, fearing the $62,000 was the lowest it would get this cycle. So wish me luck! If anybody has any advice for noobies, I am all ears! But I’m feeling pretty good about this so far!
+Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
 1h ago
 
@@ -97,7 +105,15 @@ I have always wanted to buy BTC after a big crash and hold out until I almost do
 
 Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 months ago the average normie that did zero research on BTC & thinks it's a scam saw it shoot past $125,000 and subsequently regretted not getting some at the bottom. That same bitter normie is now glad the fiat cuck buck price of BTC has halved, he's euphoric even. He's telling people how glad he is that he didn't buy in, that he knew this would happen & that the guy, who communicated federal crimes over Gmail, is Satoshi. In the meantime Wall Street, nation states & banks have legitimized Bitcoin as a real, disruptive asset, that needs to be custodied, regulated & included in every portfolio. Last year & especially this year it dawned on me: hyperbitcoinization among the sheeple won't happen, not in a million years. This bright future we're imagining for humanity, that will finally be able to use a free, sovereign, energy-backed money, will not come to fruition. The average person could literally watch Bitcoin do another 150x from here and think it's a worthless, ocean-boiling ponzi scheme. I wanted to see regular folk aquire some Bitcoin for themselves, for their family. I tried educating them, like others educated me. I did my part. Few listened. Eventually I gave up telling people about it, as I think it's unnecessary at this point. This time around I'm GLAD corporations, billionaires and ETFs are accumulating. Maybe this arrogant, ignorant, mindless mass of stupid consumers doesn't deserve to hold this asset. And I'm okay with that.
 
-55m ago
+2h ago
+
+---
+
+**[First time buyer](https://www.reddit.com/r/Bitcoin/comments/1rehrjj/first_time_buyer/)**
+
+I have always wanted to buy BTC after a big crash and hold out until I almost double my money. This week was the perfect opportunity. I bought $5k worth of BTC when it was at $63,300 and then another $5k worth when it went back up to $64,500, fearing the $62,000 was the lowest it would get this cycle. So wish me luck! If anybody has any advice for noobies, I am all ears! But I’m feeling pretty good about this so far!
+
+2h ago
 
 ---
 
@@ -105,7 +121,7 @@ Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 mon
 
 Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. Let's assume the high was $126,000 and the low was $60,000. As a holder, you considered either holding and forgetting about it or trading the 4 year cycle. Realistically and objectively, it's impossible to sell at exactly $126,000 and then buy back at $60,000, 50% cheaper. Let's say you sold everything at $100,000 and now, during the drop, you bought back at $70,000. the difference is very small. When Bitcoin is at 500,000, it won't matter whether you bought it at 100,000 or 70,000. Is it worth it? The possibility of selling and missing out while the price rises, the added stress, the fees for entering and exiting the market, and paying taxes to sell at $100,000 and buy back at $70,000? Because nobody sells at the exact maximum and buys back at the exact bottom. I clearly see that the ideal strategy is to hold, saving you commissions, taxes, stress, and on top of that, ensuring you don't miss out on the market when it goes up.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +129,13 @@ Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. 
 
 I have about $4000 USD with cashapp that I purchased through their service. All of the sudden without explanation they closed my account. Now I cannot move my BTC off of their platform to a cold wallet. I have to sell for USD which generates a taxable event. If it can happen to a random person like me it can happen to you.
 
-3h ago
+4h ago
+
+---
+
+**[60% of the time, bitcoin works every time](https://www.reddit.com/r/Bitcoin/comments/1rei11t/60_of_the_time_bitcoin_works_every_time/)**
+
+2h ago
 
 ---
 
@@ -121,35 +143,15 @@ I have about $4000 USD with cashapp that I purchased through their service. All 
 
 Cash App has a map feature on the Bitcoin page, that I just noticed. I know people will say, “don’t spend your Bitcoin!”, but isn’t this what Bitcoin will be used for in the (hopefully) near future? Tell me what’s wrong with seeing this in Cash App, or BTC ATM icons in Waze, or any other big company involved with providing exposure to BTC.
 
-4h ago
+5h ago
 
 ---
 
-**[Bitcoin is Dead. Long Live Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1rdrie8/bitcoin_is_dead_long_live_bitcoin/)**
+**[Sending BTC from strike to cold storage](https://www.reddit.com/r/Bitcoin/comments/1reirzt/sending_btc_from_strike_to_cold_storage/)**
 
-21h ago
+I've been DCAing on strike since the beginning of January. I've accumulated a decent amount to the point where I'd be more comfortable sending it to my Ledger. To transfer my full amount they want to charge me damn near $50 and $30 for the standard delivery time (approx 1 hour) For a 24-hour time frame delivery, it says free. Does anyone have any good experience with the "flexible transfer" or should I pay the transfer fee?
 
----
-
-**[I wrote a children's book containing all 2,048 BIP39 seed words – here's why](https://www.reddit.com/r/Bitcoin/comments/1rdplwo/i_wrote_a_childrens_book_containing_all_2048/)**
-
-Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (especially when traveling), I had a weird idea: What if I hid ALL 2,048 BIP39 words inside a normal-looking children's book? So I wrote "The Adventures of Veit the Fox" – a 19-chapter adventure story about a fox’s adventures, published it, and had it delivered to me as a paperback. It reads like a normal kids' book, but every single BIP39 word appears naturally in the text. How the backup works: Your 12- or 24-word seed becomes a list of page/line/word numbers Example: "abandon" → Page 12, Line 3, Word 5 → "12-3-5" The numbers look meaningless to anyone who finds them The book looks like an innocent children's book on your shelf Why do I love this backup: Nobody suspects a children's book You can keep the book and numbers in separate locations Even if someone finds both, they don't know it's a backup Inconspicuous when traveling and crossing borders I also created a word index PDF showing where each word appears, because without it it is extremely time-consuming to find the words. Maybe this will be a helpful tip for you too. Happy to answer questions about the process or the book cipher concept!
-
-22h ago
-
----
-
-**[60% of the time, bitcoin works every time](https://www.reddit.com/r/Bitcoin/comments/1rei11t/60_of_the_time_bitcoin_works_every_time/)**
-
-1h ago
-
----
-
-**[What I’ve Noticed](https://www.reddit.com/r/Bitcoin/comments/1re2bzu/what_ive_noticed/)**
-
-What I’ve noticed about tops is that they usually come when everyone thinks it’s going to go much higher. What I’ve noticed about bottoms is they usually come when everyone thinks it’s going much lower. Do with this information as you please.
-
-13h ago
+2h ago
 
 ---
 
@@ -157,19 +159,11 @@ What I’ve noticed about tops is that they usually come when everyone thinks it
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Pares Gains During Trump Speech After Topping $66,000](https://finance.yahoo.com/news/bitcoin-jumps-above-66-000-021902167.html)**
-
-The largest cryptocurrency climbed more than 6% to roughly $68,300 in New York morning trading, marking its biggest intraday gain since Feb. 6 as technology stocks led a tentative rebound across risk assets.  “The move higher likely reflects some dip-buying behavior after the extended selloff,” said Caroline Mauron, co-founder of Orbit Markets, adding that Bitcoin reaching $70,000 would shift the narrative.  Traders are now turning their focus to Nvidia, which is expected to report earnings after the stock market’s close.
-
-Yahoo Finance • 4h ago
-
----
-
 **[Bitcoin mining is no longer profitable after crypto's latest downward turn, analyst says](https://www.cnbc.com/2026/02/24/bitcoin-mining-is-no-longer-profitable-after-cryptos-latest-downward-turn.html)**
 
 Bitcoin briefly sank below $63,000 on Tuesday, dragging down its miners alongside it.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -181,53 +175,65 @@ The Block • 1d ago
 
 ---
 
-**[Solo Miner Turns $75 Into $200,000 Bitcoin Block Reward Using Rented Hashrate](https://bitcoinmagazine.com/news/solo-miner-turns-75-into-200000)**
+**[Bitcoin Mining No Longer Profitable, Analyst Warns](https://finance.yahoo.com/news/bitcoin-mining-no-longer-profitable-173650737.html)**
 
-A solo miner turned $75 in rented hashpower into a $200,000 Bitcoin block reward, defying steep odds in a rare, lottery-like win.
+Bitcoin mining profitability crashes below 3 cents per terahash as hash prices plummet 30%, forcing miners to pivot toward AI computing opportunities.
 
-Bitcoin Magazine • 21h ago
-
----
-
-**[Bitcoin Break-Even Trap Is Killing Every Rally as Buyers Strike](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-break-even-trap-is-killing-every-rally-as-buyers-strike)**
-
-Bloomberg.com • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Crypto Long & Short: When ETF options start driving bitcoin](https://www.coindesk.com/coindesk-indices/2026/02/25/crypto-long-and-short-when-etf-options-start-driving-bitcoin)**
+**[Crypto firm with U.S. bank charter holds bitcoin holder Strategy's preferred stock](https://www.coindesk.com/markets/2026/02/25/crypto-firm-with-a-u-s-bank-charter-adds-bitcoin-holder-strategy-stock-to-its-balance-sheet)**
 
-In this week’s Crypto Long & Short Newsletter, Gregory Mall of Lionsoul Global on how ETFs have shifted a growing share of bitcoin volatility into U.S. equity options markets.
+Anchorage Digital, the first federally chartered U.S. crypto bank, has added perpetual preferred stock in bitcoin treasury firm Strategy to its balance sheet.
 
-CoinDesk • 31m ago
-
----
-
-**[New Data Shows Which US Investors Actually Sold Bitcoin ETFs](https://finance.yahoo.com/news/data-shows-us-investors-actually-004138088.html)**
-
-New 13F filing data reveals which Wall Street firms sold Bitcoin ETFs, cutting exposure by over $1.6 billion as outflows rise.
-
-Yahoo Finance • 16h ago
+CoinDesk • 11h ago
 
 ---
 
-**[Bitcoin Holders Sitting on Losses Are Selling Into Every Bounce](https://www.bloomberg.com/news/newsletters/2026-02-25/bitcoin-holders-sitting-on-losses-are-selling-into-every-bounce)**
+**[Michael Saylor Hits 100 Bitcoin Buys—And He's Not Stopping Despite A $7 Billion Loss](https://finance.yahoo.com/news/michael-saylor-hits-100-bitcoin-133058007.html)**
 
-Bloomberg.com • 17m ago
+Strategy (NASDAQ:MSTR) bought 592 Bitcoin (CRYPTO: BTC) for $39.8 million marking its 100th purchase announcement since August 2020, despite sitting on a $7 billion unrealized loss. The 100th Purchase Milestone Strategy sold 297,940 shares of common stock between February 17-22,...
 
----
-
-**[South Korean police arrest two over alleged theft of seized bitcoin from evidence: report](https://www.theblock.co/post/391212/south-korean-police-arrest-two-over-alleged-theft-of-seized-bitcoin-from-evidence)**
-
-South Korean police have arrested two individuals over the alleged theft of 22 BTC seized during a 2021 hacking investigation.
-
-The Block • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[‘My Anxiety Is High’—JPMorgan CEO Issues Financial Crisis Warning As Bitcoin Bulls Predict A Price Boom](https://www.forbes.com/sites/digital-assets/2026/02/25/worse-than-2008-urgent-fed-financial-crisis-warning-predicted-to-blow-up-the-bitcoin-price/)**
+**[America’s most shorted stock is Wall Street’s Bitcoin machine](https://finance.yahoo.com/news/america-most-shorted-stock-wall-020336775.html)**
 
-Forbes • 6h ago
+If you had to guess which $40 billion company is currently the most shorted stock in America, you probably would need more than one try. It’s Strategy. Yes, the company formerly known as MicroStrategy. Yes — the Michael Saylor Bitcoin machine. According to Goldman Sachs’ hedge fund positioning ...
+
+Yahoo Finance • 17h ago
+
+---
+
+**[The Bull Case for Bitcoin Is Hiding in the $1 Trillion Wreckage](https://www.bloomberg.com/news/articles/2026-02-25/the-bull-case-for-bitcoin-is-hiding-in-the-1-trillion-wreckage)**
+
+Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
+
+Bloomberg.com • 23m ago
+
+---
+
+**[What early Bitcoin architect Adam Back thinks of this cycle](https://www.coindesk.com/markets/2026/02/25/what-early-bitcoin-architect-adam-back-thinks-of-this-cycle)**
+
+Cited in the 2008 Bitcoin white paper, Back argued volatility is typical even as regulatory clarity and institutional access expands.
+
+CoinDesk • 1h ago
+
+---
+
+**[Crypto News Today: Pepeto Presale Tops $7.32M as Trump Fuels Bitcoin and Bitcoin Price Prediction Targets $225K](https://markets.businessinsider.com/news/stocks/crypto-news-today-pepeto-presale-tops-7-32m-as-trump-fuels-bitcoin-and-bitcoin-price-prediction-targets-225k-1035866940)**
+
+Dubai, UAE, Feb.  25, 2026  (GLOBE NEWSWIRE) -- Pepeto just did something no meme coin presale has done. It crossed $7.32 million raised, shipped ...
+
+markets.businessinsider.com • 1h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqfHAc1WCcaT1biSi4QI54KHcmNhobwZnxi-Jal62ACAhBXpR13D3NUP&gaa_ts=699f4bf6&gaa_sig=5vSLztXJQ-42NQhyGArfO8rBaXKpUbSOw6ZpzHL0H57fDMG2pl4Kl23gtGZSg9UlrEotB1nfoZklvK1yIt0sqw%3D%3D)**
+
+Barron's • 21h ago
 
 ---
 
@@ -245,7 +251,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 1 • 💬 1 • 4h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 1 • 💬 1 • 6h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -289,7 +295,7 @@ Singapore based BTC and AI miner sells all holdings to build liquidity for expan
 
 The company said it will focus on building data centers for high-performance computing and artificial-intelligence workloads.
 
-⬆️ 1 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
+⬆️ 1 • 💬 0 • 5d ago • [coindesk.com](https://www.coindesk.com/business/2026/02/06/bitfarms-says-it-s-no-longer-a-bitcoin-company-doubling-down-on-ai-with-u-s-move)
 
 ---
 
@@ -311,23 +317,23 @@ Financial independence on a bitcoin standard
 
 ## YouTube Videos: "bitcoin"
 
+**[Bitcoin Accumulation ERUPTS As The Financial System Cracks! Supply Shock Incoming?](https://www.youtube.com/watch?v=hZLsPjR1-t0)**
+
+Bitcoin #Crypto #Finance Bitcoin accumulation is approaching extreme levels at the same time cracks are beginning to show ...
+
+📺 The Wolf Of All Streets
+
+👁️ 12K • 👍 816 • 💬 125 • ⏱️ 29:33 • 4h ago
+
+---
+
 **[Michael Saylor Reveals Why Bitcoin Is Actually Crashing](https://www.youtube.com/watch?v=uXCubgUQ7tY)**
 
 Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
 
 📺 Altcoin Daily
 
-👁️ 38K • 👍 2K • 💬 98 • ⏱️ 9:37 • 18h ago
-
----
-
-**[holy **ck - now we know what&#39;s DESTROYING Bitcoin](https://www.youtube.com/watch?v=-y2K3E5JAg8)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 21K • 👍 1K • 💬 281 • ⏱️ 13:40 • 23h ago
+👁️ 42K • 👍 2K • 💬 107 • ⏱️ 9:37 • 19h ago
 
 ---
 
@@ -337,37 +343,7 @@ Get my free guide to building a tax-free bitcoin income stream: https://link.1ma
 
 📺 Mark Moss
 
-👁️ 62K • 👍 3K • 💬 332 • ⏱️ 15:47 • 20h ago
-
----
-
-**[This Will Be Bitcoin&#39;s Mildest Bear Market Ever!](https://www.youtube.com/watch?v=p5z7wEcU35M)**
-
-Is this really Bitcoin's mildest bear market ever? In this episode, Adam Livingston breaks down the data behind the 2025–2026 ...
-
-📺 Swan Bitcoin
-
-👁️ 2K • 👍 209 • 💬 24 • ⏱️ 16:38 • 3h ago
-
----
-
-**[Is Bitcoin&#39;s Price Being Suppressed? Billionaire Leaks Manipulation Secrets](https://www.youtube.com/watch?v=0KhA_VB3QYM)**
-
-Bitcoin was supposed to break out in 2026. Instead it ran to 126K and crashed back to 63K. So what really happened?
-
-📺 Simply Bitcoin
-
-👁️ 20K • 👍 1K • 💬 104 • ⏱️ 15:53 • 19h ago
-
----
-
-**[Blockstream CEO Adam Back on Bitcoin&#39;s downturn](https://www.youtube.com/watch?v=grythd396gM)**
-
-Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk the downturn in Bitcoin, the state of the crypto ...
-
-📺 CNBC Television
-
-👁️ 42K • 👍 348 • 💬 424 • ⏱️ 3:54 • 1d ago
+👁️ 67K • 👍 3K • 💬 432 • ⏱️ 15:47 • 22h ago
 
 ---
 
@@ -377,27 +353,7 @@ SIGN UP TO FEFE'S EXCLUSIVE BITFUNDED MASTERCLASSS NOW!
 
 📺 100XClub
 
-👁️ 7K • 👍 821 • 💬 150 • ⏱️ 10:33 • 7h ago
-
----
-
-**[We Just Entered &quot;CRASH STAGE 4&quot; (Is $35,000 Bitcoin Next?)](https://www.youtube.com/watch?v=a6nl9j0ufS4)**
-
-Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Bears are calling for $35K while Michael Saylor and ...
-
-📺 Simply Bitcoin
-
-👁️ 30K • 👍 2K • 💬 228 • ⏱️ 16:07 • 1d ago
-
----
-
-**[Bitcoin Is Set Up for a Strong Rebound, Says Bitwise&#39;s Rasmussen](https://www.youtube.com/watch?v=LDj3344lK04)**
-
-Bitcoin remained tethered near the the lower end of its recent trading range even as global financial markets showed signs of a ...
-
-📺 Bloomberg Television
-
-👁️ 8K • 👍 115 • 💬 91 • ⏱️ 7:26 • 20h ago
+👁️ 9K • 👍 915 • 💬 162 • ⏱️ 10:33 • 9h ago
 
 ---
 
@@ -407,7 +363,57 @@ Join the Bitpanda evolution here https://bitpanda.pxf.io/c/2040095/3761002/15871
 
 📺 Lark Davis
 
-👁️ 6K • 👍 493 • 💬 31 • ⏱️ 16:39 • 5h ago
+👁️ 10K • 👍 647 • 💬 34 • ⏱️ 16:39 • 7h ago
+
+---
+
+**[holy **ck - now we know what&#39;s DESTROYING Bitcoin](https://www.youtube.com/watch?v=-y2K3E5JAg8)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 22K • 👍 1K • 💬 292 • ⏱️ 13:40 • 1d ago
+
+---
+
+**[Blockstream CEO Adam Back on Bitcoin&#39;s downturn](https://www.youtube.com/watch?v=grythd396gM)**
+
+Adam Back, Blockstream CEO and co-founder, joins 'Closing Bell Overtime' to talk the downturn in Bitcoin, the state of the crypto ...
+
+📺 CNBC Television
+
+👁️ 43K • 👍 358 • 💬 424 • ⏱️ 3:54 • 1d ago
+
+---
+
+**[We Just Entered &quot;CRASH STAGE 4&quot; (Is $35,000 Bitcoin Next?)](https://www.youtube.com/watch?v=a6nl9j0ufS4)**
+
+Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Bears are calling for $35K while Michael Saylor and ...
+
+📺 Simply Bitcoin
+
+👁️ 30K • 👍 2K • 💬 229 • ⏱️ 16:07 • 1d ago
+
+---
+
+**[Bitcoin Is Set Up for a Strong Rebound, Says Bitwise&#39;s Rasmussen](https://www.youtube.com/watch?v=LDj3344lK04)**
+
+Bitcoin remained tethered near the the lower end of its recent trading range even as global financial markets showed signs of a ...
+
+📺 Bloomberg Television
+
+👁️ 8K • 👍 120 • 💬 94 • ⏱️ 7:26 • 22h ago
+
+---
+
+**[Bitcoin Investors… Get Ready for State of the Union Volatility](https://www.youtube.com/watch?v=UtRUFzuOUEs)**
+
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+
+📺 CryptosRUs
+
+👁️ 25K • 👍 1K • 💬 127 • ⏱️ 45:23 • 1d ago
 
 ---
 

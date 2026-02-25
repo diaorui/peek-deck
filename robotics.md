@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T17:35:47.036587+00:00'
+updated: '2026-02-25T19:07:58.431636+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 17:35 UTC  
+**Last Updated:** February 25, 2026 at 19:07 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-4h ago
+6h ago
 
 ---
 
@@ -44,7 +44,15 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-21h ago
+22h ago
+
+---
+
+**[OpenArm Waist Extension (Open Sourced)](https://www.reddit.com/r/robotics/comments/1rejphm/openarm_waist_extension_open_sourced/)**
+
+Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
+
+1h ago
 
 ---
 
@@ -52,7 +60,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-6h ago
+8h ago
 
 ---
 
@@ -62,39 +70,23 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 ---
 
-**[OpenArm Waist Extension (Open Sourced)](https://www.reddit.com/r/robotics/comments/1rejphm/openarm_waist_extension_open_sourced/)**
+**[Mobile Climbing Robot for the AS/RS & 3PL](https://www.reddit.com/r/robotics/comments/1rejkqz/mobile_climbing_robot_for_the_asrs_3pl/)**
 
-Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
+Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-6m ago
+1h ago
+
+---
+
+**[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
+
+56m ago
 
 ---
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-8h ago
-
----
-
-**[AI assistant programming.](https://www.reddit.com/r/robotics/comments/1rejr2n/ai_assistant_programming/)**
-
-Hello! So I’m a baby programmer who likes old tech (I’m talking 80s-earlier.) I’m wondering if I could create my own H.E.L.P.I. from Fnaf. I want to get a C64 ultimate. Could I get a H.E.L.P.I helper on that, like a Fnaf themed Clippy? Could I sew my own plush of him and program a robotic skeleton? Basically a Furby that helps with my chores and such? How ‘sci-fi‘ can I get with this? I know most of this is just Sci-fi mumbo jumbo, but I’m curious now. Any feed back would be appreciated.
-
-4m ago
-
----
-
-**[Mobile Climbing Robot for the AS/RS & 3PL](https://www.reddit.com/r/robotics/comments/1rejkqz/mobile_climbing_robot_for_the_asrs_3pl/)**
-
-Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
-
-10m ago
-
----
-
-**[Roadmap for robotics](https://www.reddit.com/r/robotics/comments/1reil7g/roadmap_for_robotics/)**
-
-45m ago
+9h ago
 
 ---
 
@@ -102,7 +94,15 @@ Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimbe
 
 ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilities expecting highly automated, fully digitized operations. Instead, he found inspection data being written down on paper. Logs stored and never reviewed. Manual restarts that were never automated because the retrofit would be too complex. Teams collecting data that never reached the people who needed it. His take is that the distance between state-of-the-art robotics research and day-to-day industrial practice remains significant.
 
-2h ago
+3h ago
+
+---
+
+**[DreamDojo - Open-Source Robot World Model (NVIDIA)](https://www.reddit.com/r/robotics/comments/1rekd91/dreamdojo_opensource_robot_world_model_nvidia/)**
+
+NVIDIA released this open-source world model that takes motor controls and generates the corresponding visual output. Robots practice tasks in a simulated visual environment before real-world deployment, no physical hardware needed for training. Project Page: https://dreamdojo-world.github.io/
+
+1h ago
 
 ---
 
@@ -110,19 +110,19 @@ ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilit
 
 ## Google News: "robotics"
 
+**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
+
+There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
+
+The Conversation • 23h ago
+
+---
+
 **[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
 NBC Bay Area • 1d ago
-
----
-
-**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
-
-There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
-
-The Conversation • 22h ago
 
 ---
 
@@ -134,19 +134,11 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[2026 Robotics Summit early bird registration ends March 2](https://www.therobotreport.com/2026-robotics-summit-early-bird-registration-ends-march-2/)**
+**[Armatrix Seeks $2.1M To Build Hazardous Inspection Robots in India](https://www.eweek.com/news/armatrix-hazardous-inspection-robots-india/)**
 
-Ticket prices for the Robotics Summit (May 27-28 in Boston) increase after March 2. Register today for the world's leading robotics development event.
+Armatrix is raising INR 18.43 crore (about $2.1M) led by pi Ventures to develop snake-like robotic arms for hazardous industrial inspections.
 
-The Robot Report • 2h ago
-
----
-
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
-
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
-
-Los Angeles Times • 6h ago
+eWeek • 2h ago
 
 ---
 
@@ -158,11 +150,19 @@ The Hindu • 1d ago
 
 ---
 
+**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+
+AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+
+Los Angeles Times • 8h ago
+
+---
+
 **[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
 
 Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-TribLIVE.com • 19h ago
+TribLIVE.com • 20h ago
 
 ---
 
@@ -174,11 +174,11 @@ KPAX News • 1d ago
 
 ---
 
-**[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
+**[AI2 Robotics raises Series B funding to advance AlphaBot, embodied AI](https://www.therobotreport.com/ai2-robotics-raises-series-b-funding-advance-alphabot-embodied-ai/)**
 
-"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
+AI2 Robotics brought its valuation to more than $1 billion as it develops VLA models for semi-humanoid robots.
 
-CNBC • 2d ago
+The Robot Report • 19h ago
 
 ---
 
@@ -200,17 +200,7 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 20K • 👍 348 • 💬 324 • ⏱️ 2:30 • 4d ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 30K • 👍 535 • 💬 329 • ⏱️ 7:18 • 1d ago
+👁️ 20K • 👍 350 • 💬 326 • ⏱️ 2:30 • 4d ago
 
 ---
 
@@ -220,7 +210,47 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 326K • 👍 4K • 💬 2K • ⏱️ 3:42 • 6d ago
+👁️ 328K • 👍 4K • 💬 2K • ⏱️ 3:42 • 6d ago
+
+---
+
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 79K • 👍 3K • 💬 833 • ⏱️ 14:51 • 5d ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 33K • 👍 632 • 💬 363 • ⏱️ 7:18 • 1d ago
+
+---
+
+**[Unitree&#39;s Expansion Plans Just Got SCARY: China&#39;s Kung Fu Humanoid Robots Rise](https://www.youtube.com/watch?v=9x4fK7R7VAE)**
+
+Unitree Robotics is plotting an aggressive expansion following its viral showing at China's 2026 Spring Festival. Hangzhou-based ...
+
+📺 Kalil 4.0
+
+👁️ 49K • 👍 872 • 💬 307 • ⏱️ 11:04 • 5d ago
+
+---
+
+**[China’s Combat Robots Steal the Show at Lunar New Year Gala](https://www.youtube.com/watch?v=MFCmePpllIA)**
+
+China's combat robots steal the show at the Lunar New Year gala as advanced humanoid machines stunned audiences with ...
+
+📺 Carros Show
+
+👁️ 121K • 👍 1K • 💬 283 • ⏱️ 9:50 • 6d ago
 
 ---
 
@@ -234,13 +264,13 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 ---
 
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
 
-📺 Julia McCoy
+📺 The AI Nexus
 
-👁️ 79K • 👍 3K • 💬 827 • ⏱️ 14:51 • 5d ago
+👁️ 2K • 👍 124 • 💬 10 • ⏱️ 21:45 • 1d ago
 
 ---
 
@@ -250,27 +280,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 99K • 👍 2K • 💬 224 • ⏱️ 14:16 • 2d ago
-
----
-
-**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
-
-AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
-
-📺 The AI Nexus
-
-👁️ 2K • 👍 121 • 💬 10 • ⏱️ 21:45 • 1d ago
-
----
-
-**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
-
-Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
-
-📺 DPCcars
-
-👁️ 91K • 👍 484 • 💬 252 • ⏱️ 2:14 • 4d ago
+👁️ 102K • 👍 2K • 💬 237 • ⏱️ 14:16 • 2d ago
 
 ---
 
@@ -280,17 +290,7 @@ Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/ad
 
 📺 The China Show
 
-👁️ 200K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 4d ago
-
----
-
-**[Humanoid Robots Perform Martial Arts at Beijing&#39;s Temple of Heaven | Vantage with Palki Sharma |N18G](https://www.youtube.com/watch?v=IZYAKBR1QOs)**
-
-Humanoid robots developed by China's Unitree Robotics has given another impressive Chinese Kung Fu performance at the ...
-
-📺 Firstpost
-
-👁️ 28K • 👍 335 • 💬 273 • ⏱️ 4:45 • 1d ago
+👁️ 201K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 4d ago
 
 ---
 
