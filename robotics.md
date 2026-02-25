@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T09:56:16.194204+00:00'
+updated: '2026-02-25T10:53:18.187702+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 09:56 UTC  
+**Last Updated:** February 25, 2026 at 10:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-13h ago
+14h ago
 
 ---
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Lego strandbeest (part 3)](https://www.reddit.com/r/robotics/comments/1rdwocl/lego_strandbeest_part_3/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -56,7 +56,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
 
-18h ago
+19h ago
 
 ---
 
@@ -68,7 +68,7 @@ GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: h
 
 **[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
 
-40m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: h
 
 hey guys! I've been working on local planner policies for skid steer robots in RL and this is my first project. Haven't seen a lot of projects for mobile robots in MuJoCo, and I saw an opportunity to work on efficient navigation in this sim for skid steer robots (where the dynamics are more complex, and actually matter). My end goal is an energy-efficient navigation agent, but in the meantime I’ve been focused on one super annoying thing: getting rid of the steering wobble/osscillations without playing the endless tune the reward penalties game. I tried five variants, and ended up realizing that sparse-reward agents (the one on the right of the video) can reach a very good performance in terms of succes rate, andgular jitter, and succes per path length compared to the dense-reward agents. If you want to know more take a look here: https://github.com/octavioaguila/rl_nav pleas if you are working with track-terrain interactions, or slip dynamics in MuJoCo, send me a DM. I am looking for better ways to model these types of systems.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +96,7 @@ hey guys! I've been working on local planner policies for skid steer robots in R
 
 I have been following these community and all the news about robotics and automation for quite some time. And I came to an understanding that China is the undisputed king in this fields, due to their expertise in manufacturing and R&D. But my question is that why other countries have not yet caught upto this trend like what are the reasons. Is it that the automation solutions are far too expensive for the companies to afford, supply chain issues, labour laws, government policies? what are the causes that despite the advancements in robotics and automation yet no other country is able to complete with china in the field of manufacturing and robotics? This reddit community is filled with experts and hobbist from the robotics and automation field so i thought that it would be the best place to understand the real problems that has barred other countries from competing with china in the filed of robotics and automation. I myself am a hobbist and am interested in the robotics and industrial automation field. From my understanding and views, in developing countries companies often want to automate but the higher initial cost of the equipments and a lack of skilled work force to be able to tackle any type of malfunction in the automation equipment has stopped companies from the mass adoption of automation and robotics. And in developed countries they are more oriented towards more precise engineering and hence the equipments becomes so much delicate and costly. They are necessary from the precision manufacturing of certain parts but at the same time the other day today manufacturing there I think we don't need that much precision and an eye for that precision is not letting the mass manufacturing to take off in the developed countries. Many would tell me that yes automation is taking off in other countries too but I don't think that those rate can match the rate in China. I may be wrong correct me if I am wrong. If anyone knows what are the reasons for the low adoption rate of the automation and robotics in manufacturing in countries other than china I would love to know those reasons too.
 
-2h ago
+3h ago
 
 ---
 
@@ -108,7 +108,7 @@ I have been following these community and all the news about robotics and automa
 
 There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
 
-The Conversation • 14h ago
+The Conversation • 15h ago
 
 ---
 
@@ -116,7 +116,7 @@ The Conversation • 14h ago
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
-NBC Bay Area • 17h ago
+NBC Bay Area • 18h ago
 
 ---
 
@@ -132,7 +132,7 @@ The Hindu • 1d ago
 
 Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-TribLIVE.com • 11h ago
+TribLIVE.com • 12h ago
 
 ---
 
@@ -140,7 +140,7 @@ TribLIVE.com • 11h ago
 
 The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
 
-The Boston Globe • 17h ago
+The Boston Globe • 18h ago
 
 ---
 
@@ -156,7 +156,7 @@ Interesting Engineering • 1d ago
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
 
-KPAX News • 20h ago
+KPAX News • 21h ago
 
 ---
 
@@ -180,7 +180,7 @@ CNBC • 1d ago
 
 AI2 Robotics brought its valuation to more than $1 billion as it develops VLA models for semi-humanoid robots.
 
-The Robot Report • 9h ago
+The Robot Report • 10h ago
 
 ---
 
@@ -194,7 +194,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 26K • 👍 423 • 💬 260 • ⏱️ 7:18 • 16h ago
+👁️ 26K • 👍 423 • 💬 260 • ⏱️ 7:18 • 17h ago
 
 ---
 
@@ -274,7 +274,7 @@ In a striking fusion of ancient heritage and futuristic technology, China's Unit
 
 📺 Times Now World
 
-👁️ 622 • 👍 4 • 💬 2 • ⏱️ 1:36 • 15h ago
+👁️ 622 • 👍 4 • 💬 2 • ⏱️ 1:36 • 16h ago
 
 ---
 

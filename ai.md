@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-25T09:56:16.176807+00:00'
+updated: '2026-02-25T10:53:18.170124+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
-- news
 - repositories
+- social
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 25, 2026 at 09:56 UTC  
+**Last Updated:** February 25, 2026 at 10:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 In an abrupt shift, the company may release future AI models without ironclad safety guarantees
 
-🔗 [TIME](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) • 7h ago
+🔗 [TIME](https://time.com/7380854/exclusive-anthropic-drops-flagship-safety-pledge/) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ In an abrupt shift, the company may release future AI models without ironclad s
 
 Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
 
-🔗 [anthropic.com](https://www.anthropic.com/responsible-scaling-policy/roadmap) • 11h ago
+🔗 [anthropic.com](https://www.anthropic.com/responsible-scaling-policy/roadmap) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ Anthropic is an AI safety and research company that's working to build reliable,
 
 I had this insight as I was vibecoding the night away. Of course people are going to use AI in lieu of learning how to do things, but I also think there will be a more compelling group that will realize that the more knowledge you have, the higher you can go with these tools, and this will inspire people to learn, so that they can then use that knowledge to create things with AI.
 
-4h ago
+5h ago
 
 ---
 
@@ -65,7 +65,7 @@ I had this insight as I was vibecoding the night away. Of course people are goin
 
 Hi, I’m looking for AI software that allows us to upload a large number of our existing Word/PDF documents (templates, past client documents, standard clauses, etc.) and then generate new documents based on those patterns. What I’m NOT looking for is just a chatbot that answers questions about the documents. I need something that can: Learn from our document structure and wording Reuse our formatting and style Generate full new documents based on prompts and documents we feed it (ideally if you coul connect dropbox) Ideally integrate with Dropbox or similar cloud storage Export properly formatted Word documents Support for non-English languages (in thi case Slovak) would be important as well. Does anyone have experience with tools that can do this reliably?
 
-53m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ Investing.com -- IBM (NYSE:IBM) shares hit a session low Monday afternoon, falli
 
 context: I've been building a system that sends the same question to multiple models in parallel, then has each model review the others. six months, a few thousand sessions, mostly legal and financial questions the design decision I agonized over the most turned out to matter more than any other choice I made blind review changes everything I tested two versions. in one, the reviewing model sees "this is Claude's response." in the other, it just sees "Response A" the difference is kind of alarming when models know they're reviewing a named model, they hedge. they find "nuanced perspectives." there's something resembling professional courtesy baked into these things. makes sense if you think about the training data. reddit threads and twitter posts where people debate which model is better, lots of human-written comparisons that try to be balanced. the politeness is learned behavior with blind review, the gloves come off. scores spread out. critiques get specific. Claude in particular gets almost mean when it doesn't know it's reviewing GPT. it'll identify logical leaps, flag unstated assumptions, point out when a claim needs a citation that isn't there. stuff it would politely sidestep in the named version I don't have a rigorous paper on this. few hundred sessions, skewed toward legal and financial questions. but the pattern was consistent enough that I built the entire system around blind review and never looked back courtesy bias has a direction here's the thing I still don't understand. the courtesy effect is stronger in some directions than others. Claude reviewing GPT blind vs named shows the biggest delta. GPT reviewing Claude shows less difference. I have no good theory for why agreement is less useful than disagreement I assumed the point was to find consensus. three models agree, you're probably right. but sessions with the lowest initial agreement actually produce the best final answers model agreement on factual stuff: 70-80%. analytical or strategic questions: 40-50%. and the low-agreement sessions, where models are fighting, tend to surface things no single model caught. forced convergence seems to produce higher quality than natural consensus I suspect agreement means the models are pulling from the same training patterns. disagreement means at least one found a different path through the problem. the different path is usually where the insight lives the tool I built around this is in my profile if anyone wants to see blind review in action. curious whether others working with multi-model systems have noticed similar patterns
 
-18h ago
+19h ago
 
 ---
 
@@ -89,7 +89,7 @@ context: I've been building a system that sends the same question to multiple mo
 
 Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a 160 million-share warrant, deepening its push to diversify beyond Nvidia and expand data center capacity.
 
-🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 16h ago
+🔗 [TechCrunch](https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/) • 17h ago
 
 ---
 
@@ -97,7 +97,7 @@ Meta is buying billions of dollars in AMD AI chips in a multiyear deal tied to a
 
 Defense Secretary Pete Hegseth plans to meet with the CEO of Anthropic. The artificial intelligence company is the only one of its peers to not supply its technology to a new U.S. military internal network.
 
-🔗 [AP News](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) • 18h ago
+🔗 [AP News](https://apnews.com/article/anthropic-hegseth-ai-pentagon-military-3d86c9296fe953ec0591fcde6a613aba) • 19h ago
 
 ---
 
@@ -113,7 +113,7 @@ I predicted early in January that ai will discover new physics before 2028 is ov
 
 I'm a first-year engineering student and I've noticed that ChatGPT is extremely bad at helping me with things; the calculations are poor, it gets confused when there's too much data. Does anyone know of any good artificial intelligence that could help me study? I've tested DeepSeek and Gemini but didn't notice much difference.
 
-17h ago
+18h ago
 
 ---
 
@@ -123,7 +123,7 @@ I'm a first-year engineering student and I've noticed that ChatGPT is extremely 
 
 **[Pentagon sets Friday deadline for Anthropic to abandon ethics rules for AI — or else](https://www.politico.com/news/2026/02/24/hegseth-sets-friday-deadline-for-anthropic-to-drop-its-ai-red-lines-00795641)**
 
-Politico • 14h ago
+Politico • 15h ago
 
 ---
 
@@ -131,7 +131,7 @@ Politico • 14h ago
 
 JPMorgan, the world's biggest bank by market cap, has the industry's largest annual tech budget at nearly $20 billion, and it has outlined an ambitious AI plan.
 
-CNBC • 13h ago
+CNBC • 14h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 13h ago
 
 Three schools in Montgomery County are piloting a school safety tool known as VOLT AI.
 
-WJLA • 26m ago
+WJLA • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ WJLA • 26m ago
 
 Just weeks after its AI tools shook software stocks, Anthropic is pushing even deeper into the workplace. The company is updating its Claude AI helper to perform better at tasks within specific jobs, such as design, human resources and wealth management roles, while also enabling it to work across Microsoft Excel and PowerPoint apps.
 
-CNN • 19h ago
+CNN • 20h ago
 
 ---
 
@@ -155,25 +155,25 @@ CNN • 19h ago
 
 Shares in Uber, Mastercard and American Express fall on back of apocalypse scenario posted on Substack
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
 **[Breaking Down the Doomsday AI Memo That Spooked Markets](https://www.wsj.com/tech/ai/breaking-down-the-viral-memo-that-spooked-markets-bc088c83?gaa_at=eafs&gaa_n=AWEtsqcmN5geqAZI5ox09OOaJrGT70jblQ60uv4SF3BS7slBxU-3DiaLb1Mt&gaa_ts=699ecaa8&gaa_sig=X2oZ5X9IHIzy0ZGq7JBfLf84gJ_1To4lPzRTZYc6glaKswexncjszmR_g0SeKutH2E_Vk9dXa4QtJp5JTxiEuQ%3D%3D)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
 **[AI Will Lead to Economic Collapse—Just Like the Y2K Bug and Peak Oil Did](https://www.barrons.com/articles/ai-economic-collapse-y2k-bug-peak-oil-50378a1d?gaa_at=eafs&gaa_n=AWEtsqfG3quIaPKAelraejsduDEx3RU8kNnfaNnazRMypEcQmEdPWCo_BwZd&gaa_ts=699ecaa8&gaa_sig=8lU113phhnwLlODKJHz6VGJ41jrOSU5HuTK9pzfM8-EjvclG27qqzKv0Vg4mmHun3TCOp8Ma_2iX_chy3Mgq3g%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
 **[Opinion | How Fast Will A.I. Agents Rip Through the Economy?](https://www.nytimes.com/2026/02/24/opinion/ezra-klein-podcast-jack-clark.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 23h ago
 
 His new book, about the mystery of consciousness, strengthens the case that technology will never truly replicate humans.
 
-The Atlantic • 20h ago
+The Atlantic • 21h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Atlantic • 20h ago
 
 One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
 
-The Cloudflare Blog • 13h ago
+The Cloudflare Blog • 14h ago
 
 ---
 
@@ -201,7 +201,7 @@ The Cloudflare Blog • 13h ago
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 1794 • 💬 704 • 21h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 1794 • 💬 704 • 22h ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -239,7 +239,7 @@ The latest update of Firefox, version 148, introduces a much-anticipated "AI kil
 
 One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
 
-⬆️ 448 • 💬 174 • 13h ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
+⬆️ 448 • 💬 174 • 14h ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
 
 ---
 
@@ -272,7 +272,7 @@ BinaryAudit benchmarks AI agents using Ghidra to find backdoors in compiled bina
 
 <p>IZUMI-SANO, Osaka — Kansai Airport is proud to have never had a lost baggage incident in the 30 years since it opened in 1994, earning recognition as the airport with the world’s best baggage service.</p>
 
-⬆️ 209 • 💬 99 • 17h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
+⬆️ 209 • 💬 99 • 18h ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
 
 ---
 
@@ -286,7 +286,7 @@ On Nikhil Kamath's podcast People by WTF, Anthropic CEO Dario Amodei delivered a
 
 📺 NDTV
 
-👁️ 15K • 👍 83 • 💬 48 • ⏱️ 2:48 • 23h ago
+👁️ 15K • 👍 83 • 💬 48 • ⏱️ 2:48 • 1d ago
 
 ---
 
@@ -296,7 +296,7 @@ Krystal and Saagar discuss markets tanking over AI fears. Sign up for a PREMIUM 
 
 📺 Breaking Points
 
-👁️ 235K • 👍 7K • 💬 1K • ⏱️ 12:54 • 14h ago
+👁️ 235K • 👍 7K • 💬 1K • ⏱️ 12:54 • 15h ago
 
 ---
 
@@ -316,7 +316,7 @@ The most unhinged AI music generator just dropped — and right now, it's comple
 
 📺 Theoretically Media
 
-👁️ 18K • 👍 1K • 💬 332 • ⏱️ 14:49 • 10h ago
+👁️ 18K • 👍 1K • 💬 332 • ⏱️ 14:49 • 11h ago
 
 ---
 
@@ -336,7 +336,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 201K • 👍 11K • 💬 2K • ⏱️ 7:09 • 17h ago
+👁️ 201K • 👍 11K • 💬 2K • ⏱️ 7:09 • 18h ago
 
 ---
 
@@ -376,7 +376,7 @@ BBCAIUnpacked #ProfessorHannahFry #AI #TheOneShow Artificial Intelligence is tra
 
 📺 BBC
 
-👁️ 14K • 👍 215 • 💬 10 • ⏱️ 0:57 • 21h ago
+👁️ 14K • 👍 215 • 💬 10 • ⏱️ 0:57 • 22h ago
 
 ---
 
@@ -404,7 +404,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 20,991 • ❤️ 306 • 17h ago
+⬇️ 20,991 • ❤️ 306 • 18h ago
 
 ---
 
@@ -440,7 +440,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,875 • ❤️ 221 • 7h ago
+⬇️ 6,875 • ❤️ 221 • 8h ago
 
 ---
 
@@ -500,7 +500,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 232 • ❤️ 168 • 19h ago
+⬇️ 232 • ❤️ 168 • 20h ago
 
 ---
 
@@ -647,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 18.9k • 🔱 2.3k • 5m ago
+⭐ 18.9k • 🔱 2.3k • 1h ago
 
 ---
 
@@ -665,7 +665,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.5k • 🔱 671 • 3h ago
+⭐ 5.5k • 🔱 671 • 4h ago
 
 ---
 
@@ -675,7 +675,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.0k • 🔱 206 • 20h ago
+⭐ 4.0k • 🔱 206 • 21h ago
 
 ---
 
@@ -685,7 +685,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.5k • 🔱 346 • 5h ago
+⭐ 3.5k • 🔱 346 • 6h ago
 
 ---
 
@@ -695,7 +695,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.2k • 🔱 426 • 16h ago
+⭐ 3.2k • 🔱 426 • 17h ago
 
 ---
 
@@ -705,7 +705,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 2.8k • 🔱 329 • 20h ago
+⭐ 2.8k • 🔱 329 • 21h ago
 
 ---
 
@@ -715,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.8k • 🔱 191 • 1m ago
+⭐ 2.8k • 🔱 191 • 58m ago
 
 ---
 
@@ -725,7 +725,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 261 • 37m ago
+⭐ 2.4k • 🔱 261 • 1h ago
 
 ---
 
@@ -735,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.4k • 🔱 476 • 16h ago
+⭐ 2.4k • 🔱 476 • 17h ago
 
 ---
 

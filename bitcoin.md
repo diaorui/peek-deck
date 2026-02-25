@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T09:56:16.185127+00:00'
+updated: '2026-02-25T10:53:18.178540+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - videos
 - social
+- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 09:56 UTC  
+**Last Updated:** February 25, 2026 at 10:53 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Bitcoin is Dead. Long Live Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1rdrie8/bitcoin_is_dead_long_live_bitcoin/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 If you owned a full Bitcoin, do you think things would change in ten years?
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ If you owned a full Bitcoin, do you think things would change in ten years?
 
 Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (especially when traveling), I had a weird idea: What if I hid ALL 2,048 BIP39 words inside a normal-looking children's book? So I wrote "The Adventures of Veit the Fox" – a 19-chapter adventure story about a fox’s adventures, published it, and had it delivered to me as a paperback. It reads like a normal kids' book, but every single BIP39 word appears naturally in the text. How the backup works: Your 12- or 24-word seed becomes a list of page/line/word numbers Example: "abandon" → Page 12, Line 3, Word 5 → "12-3-5" The numbers look meaningless to anyone who finds them The book looks like an innocent children's book on your shelf Why do I love this backup: Nobody suspects a children's book You can keep the book and numbers in separate locations Even if someone finds both, they don't know it's a backup Inconspicuous when traveling and crossing borders I also created a word index PDF showing where each word appears, because without it it is extremely time-consuming to find the words. Maybe this will be a helpful tip for you too. Happy to answer questions about the process or the book cipher concept!
 
-14h ago
+15h ago
 
 ---
 
@@ -109,7 +109,7 @@ Hey r/Bitcoin, After losing sleep over how to securely back up my seed phrase (e
 
 What I’ve noticed about tops is that they usually come when everyone thinks it’s going to go much higher. What I’ve noticed about bottoms is they usually come when everyone thinks it’s going much lower. Do with this information as you please.
 
-6h ago
+7h ago
 
 ---
 
@@ -123,7 +123,7 @@ What would owning even 1 BTC do for you financially, and would you be richer tha
 
 **[Previously on, If I Had a Time Machine....](https://www.reddit.com/r/Bitcoin/comments/1rdf4pw/previously_on_if_i_had_a_time_machine/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -131,7 +131,7 @@ What would owning even 1 BTC do for you financially, and would you be richer tha
 
 Longs get wiped, the screens burn red, Day traders chase, their edge long dead. Dollar slips, we’re slipping too, That’s not the hedge they swore was true. Prophets speak in tones so bold, Diamond hands? I already sold. I will not yield, I will not fold, One final prayer the charts foretold: HODL.
 
-4h ago
+5h ago
 
 ---
 
@@ -139,7 +139,7 @@ Longs get wiped, the screens burn red, Day traders chase, their edge long dead. 
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -147,7 +147,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 bitcoin just hit 62500 and things are looking shaky do you think we stay above the 60055 low from february 6 or is a breakdown coming let me know if you are buying here or waiting for sub 60k
 
-9h ago
+10h ago
 
 ---
 
@@ -167,7 +167,7 @@ The Block • 1d ago
 
 Bitcoin briefly sank below $63,000 on Tuesday, dragging down its miners alongside it.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -175,7 +175,7 @@ CNBC • 16h ago
 
 A solo miner turned $75 in rented hashpower into a $200,000 Bitcoin block reward, defying steep odds in a rare, lottery-like win.
 
-Bitcoin Magazine • 13h ago
+Bitcoin Magazine • 14h ago
 
 ---
 
@@ -183,7 +183,7 @@ Bitcoin Magazine • 13h ago
 
 One of Bitcoin’s earliest and largest holders has reportedly sold $1.24 billion in BTC. Santiment data shows wallets holding 10–10,000 BTC now control a nine-month ...
 
-Yahoo Finance • 19h ago
+Yahoo Finance • 20h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 19h ago
 
 Strategy Inc. (formerly MicroStrategy) has completed its 100th Bitcoin purchase, adding 592 BTC for about US$39.8 million and lifting its holdings to 717,722 BTC, funded through at-the-market common stock sales. This milestone underscores Strategy’s evolution into a highly leveraged Bitcoin treasury vehicle, where ongoing equity issuance directly affects Bitcoin exposure per share and shareholder dilution risk. We’ll now examine how this 7.60% weekly share price decline and equity-funded...
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -205,7 +205,7 @@ MarketWatch • 1d ago
 
 Anchorage Digital, the first federally chartered U.S. crypto bank, has added perpetual preferred stock in bitcoin treasury firm Strategy to its balance sheet.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -237,7 +237,7 @@ Yahoo Finance • 2d ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 6 • 💬 17 • 19h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+⬆️ 6 • 💬 17 • 20h ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
 
 ---
 
@@ -245,7 +245,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
-⬆️ 1 • 💬 1 • 18h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
+⬆️ 1 • 💬 1 • 19h ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
 
 ---
 
@@ -259,7 +259,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 The Chicago-based company said it was temporarily suspending client deposits and withdrawals last week due to recent market and financial conditions.
 
-⬆️ 1 • 💬 0 • 21h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
+⬆️ 1 • 💬 0 • 22h ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
 
 ---
 
@@ -303,7 +303,7 @@ Financial independence on a bitcoin standard
 
 Stop wondering. Calculate the exact amount of wealth you abandoned. A monument to wrong decisions. Verified pain inside.
 
-⬆️ 16 • 💬 12 • 18h ago • [shouldhavebought.com](https://shouldhavebought.com/)
+⬆️ 16 • 💬 12 • 19h ago • [shouldhavebought.com](https://shouldhavebought.com/)
 
 ---
 
@@ -317,7 +317,7 @@ Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Ph
 
 📺 Tyler S
 
-👁️ 19K • 👍 1K • 💬 272 • ⏱️ 13:40 • 16h ago
+👁️ 19K • 👍 1K • 💬 272 • ⏱️ 13:40 • 17h ago
 
 ---
 
@@ -327,7 +327,7 @@ Get my free guide to building a tax-free bitcoin income stream: https://link.1ma
 
 📺 Mark Moss
 
-👁️ 50K • 👍 2K • 💬 295 • ⏱️ 15:47 • 12h ago
+👁️ 50K • 👍 2K • 💬 295 • ⏱️ 15:47 • 13h ago
 
 ---
 
@@ -337,7 +337,7 @@ Bitcoin was supposed to break out in 2026. Instead it ran to 126K and crashed ba
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 84 • ⏱️ 15:53 • 11h ago
+👁️ 17K • 👍 1K • 💬 84 • ⏱️ 15:53 • 12h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin is down 45% from its all-time high as AI disruption rattles global marke
 
 📺 Swan Bitcoin
 
-👁️ 33K • 👍 1K • 💬 158 • ⏱️ 19:02 • 10h ago
+👁️ 33K • 👍 1K • 💬 158 • ⏱️ 19:02 • 11h ago
 
 ---
 
@@ -397,7 +397,7 @@ bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X:
 
 📺 Fox Business
 
-👁️ 31K • 👍 461 • 💬 447 • ⏱️ 9:01 • 13h ago
+👁️ 31K • 👍 461 • 💬 447 • ⏱️ 9:01 • 14h ago
 
 ---
 
