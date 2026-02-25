@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-25T19:58:51.090482+00:00'
+updated: '2026-02-25T20:47:15.182502+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 19:58 UTC  
+**Last Updated:** February 25, 2026 at 20:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,10 +42,10 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +11.4%  
-**7d:** +6.3%  
-**30d:** -31.5%  
-**90d:** -31.6%  
+**24h:** +11.7%  
+**7d:** +6.2%  
+**30d:** -31.6%  
+**90d:** -31.7%  
 **1y:** -11.1%  
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Meta is reportedly preparing stablecoin payments for Facebook, Instagram, and WhatsApp in H2 2026, a move that could put Ethereum rails behind everyday transfers.
 
-🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/meta-stablecoin-integration-ethereum-h2-2026/) • 21h ago
+🔗 [Daily Crypto Briefs](https://dailycryptobriefs.com/news/meta-stablecoin-integration-ethereum-h2-2026/) • 22h ago
 
 ---
 
@@ -150,19 +150,19 @@ World News, Stories By EtherWorld, Technical Explainers, Client News & Updates, 
 
 ## Google News: "ethereum"
 
-**[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
-
-Prediction markets are losing their way, according to Ethereum co-founder Vitalik Buterin. The platforms initially conceived as arbiters of truth are on the fast lane to becoming "corposlop," Buterin said on Feb. 14 on X. Buterin previously defined corposlop as...
-
-Yahoo Finance • 2d ago
-
----
-
 **[Ethereum news: Vitalik Buterin sold 17,000 ETH this month as ether fell 37%](https://www.coindesk.com/markets/2026/02/25/vitalik-buterin-sold-17-000-eth-this-month-as-ether-fell-37)**
 
 The Ethereum co-founder's tracked wallets dropped from 241,000 ETH to 224,000 ETH in February, with sales routed through CoW Protocol in small batches to limit market impact.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
+
+---
+
+**[Ethereum Dumps 5%: Why Is Co-Founder Vitalik Buterin Selling?](https://finance.yahoo.com/news/ethereum-dumps-5-why-co-190042940.html)**
+
+Ethereum (CRYPTO: ETH) is down 5% over the past 24 hours, extending its monthly decline to around 38%. CryptocurrencyTickerPriceMarket Cap7-Day TrendEthereum(CRYPTO: ETH)$1,819.76$219.7 billion-8.3%Bitcoin(CRYPTO: BTC)$62,905.46$1.25 trillion-7.7%XRP(CRYPTO: XRP)$1.33$81.3 billion-8.6% Trader Notes: Crypto trader Don Wedge said Ethereum is sitting at a major...
+
+Yahoo Finance • 1h ago
 
 ---
 
@@ -174,17 +174,9 @@ thestreet.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqd2fqjmxSjCm9WnAw74fKT96xQv57rpeNUSA6ZHr-CE1pz7NRkFU7Vz&gaa_ts=699f4bf8&gaa_sig=JR8jR7SRdYj_4rX1HOTfMH4Niq_DlHi4oBBED2mgga6f4FMxHSeG6G30_vCQg9t9qr6-w9YdgIkSu_QOxeNCjg%3D%3D)**
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdN5IG0-nuuu2elcWl0MYXaQweMKwjPTdvH8NJSBclCXXleIxeF_Nh4&gaa_ts=699f633d&gaa_sig=Z9e5awF1z0QfZPZr1LE3xF9_lt9JEix09rcW4a349A43RLTMJD2eh5M3BR1bZbh50jvTU4SJAlPhO7V-ROSMGA%3D%3D)**
 
-Barron's • 22h ago
-
----
-
-**[Bitcoin, Ethereum and Solana Shorts Get Rekt as BTC Price Rebounds Near $69K](https://finance.yahoo.com/news/bitcoin-ethereum-solana-shorts-rekt-181417564.html)**
-
-More than $400 million worth of short positions have been liquidated in the last day as Bitcoin nears $69K and Ethereum and Solana surge.
-
-Yahoo Finance • 1h ago
+Barron's • 23h ago
 
 ---
 
@@ -192,7 +184,15 @@ Yahoo Finance • 1h ago
 
 A crypto security firm used AI to identify a high-severity bug in an Ethereum client.  While never exploited, that bug could have affected nearly 40% of Ethereum validators.  Last week Anthropic rattled cybersecurity stocks with its own AI security tool.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
+
+---
+
+**[Bitcoin, Ethereum and Solana Shorts Get Rekt as BTC Price Rebounds Near $69K](https://finance.yahoo.com/news/bitcoin-ethereum-solana-shorts-rekt-181417564.html)**
+
+More than $400 million worth of short positions have been liquidated in the last day as Bitcoin nears $69K and Ethereum and Solana surge.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -212,19 +212,19 @@ Muddy River News • 2d ago
 
 ---
 
-**[Ethereum Foundation starts 70,000 ETH staking process to fund operations, bolster network](https://www.coindesk.com/business/2026/02/24/putting-the-treasury-to-work-the-ethereum-foundation-just-staked-70-000-eth-to-fund-its-future)**
-
-The staking commenced with a 2,016 ETH deposit, and uses Dirk and Vouch, open-source validator tools developed by infrastructure firm Attestant
-
-CoinDesk • 1d ago
-
----
-
 **['Ethereum Foundation believes in Defipunk', says org as it forms team to support protocol development](https://www.theblock.co/post/390888/ethereum-foundation-defipunk-forms-team-support-protocol-development)**
 
 The Ethereum Foundation named former DELV CEO Charles St. Louis as DeFi Protocol Specialist and ivangbi as DeFi Coordinator.
 
 The Block • 1d ago
+
+---
+
+**[Better Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/02/24/better-buy-bitcoin-vs-ethereum/)**
+
+Could Ethereum really outperform Bitcoin this year? Harvard seems to think so.
+
+The Motley Fool • 1d ago
 
 ---
 
@@ -238,7 +238,7 @@ I mean... they told us this would happen, so theres no use for any of us being s
 
 📺 Money Rules - Investing Tips 
 
-👁️ 8K • 👍 1K • 💬 103 • ⏱️ 28:35 • 8h ago
+👁️ 8K • 👍 1K • 💬 103 • ⏱️ 28:35 • 9h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 174 • 💬 10 • ⏱️ 6:58 • 8h ago
+👁️ 3K • 👍 174 • 💬 10 • ⏱️ 6:58 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ Ethereum has long been compared to Bitcoin — but according to Sharplink CEO an
 
 📺 Coinage
 
-👁️ 2K • 👍 76 • 💬 6 • ⏱️ 21:21 • 7h ago
+👁️ 2K • 👍 76 • 💬 6 • ⏱️ 21:21 • 8h ago
 
 ---
 
@@ -268,7 +268,7 @@ IMPORTANT Ethereum $1800 Support BOUNCE! Can It Hold? Ethereum just bounced hard
 
 📺 Tim Warren
 
-👁️ 3K • 👍 305 • 💬 104 • ⏱️ 13:04 • 23h ago
+👁️ 3K • 👍 305 • 💬 104 • ⏱️ 13:04 • 1d ago
 
 ---
 
@@ -288,7 +288,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 8 • ⏱️ 3:47 • 20h ago
+👁️ 2K • 👍 146 • 💬 8 • ⏱️ 3:47 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 447 • 👍 55 • 💬 5 • ⏱️ 3:50 • 1h ago
+👁️ 447 • 👍 55 • 💬 5 • ⏱️ 3:50 • 2h ago
 
 ---
 
@@ -326,7 +326,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 𝗖𝗿𝘆𝗽𝘁𝗼 𝘄𝗶𝘁𝗵 𝗣𝗶𝘆𝘂
 
-👁️ 213 • 👍 7 • ⏱️ 1:57 • 16h ago
+👁️ 213 • 👍 7 • ⏱️ 1:57 • 17h ago
 
 ---
 

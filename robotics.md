@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T19:58:51.093713+00:00'
+updated: '2026-02-25T20:47:15.185756+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 19:58 UTC  
+**Last Updated:** February 25, 2026 at 20:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,15 +36,7 @@ Robotics research and industry news
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-6h ago
-
----
-
-**[Robot Dishwashing for Larger Restaurants / Cruise Ships](https://www.reddit.com/r/robotics/comments/1rdr8hu/robot_dishwashing_for_larger_restaurants_cruise/)**
-
-Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
-
-23h ago
+7h ago
 
 ---
 
@@ -52,7 +44,15 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-2h ago
+3h ago
+
+---
+
+**[Robot Dishwashing for Larger Restaurants / Cruise Ships](https://www.reddit.com/r/robotics/comments/1rdr8hu/robot_dishwashing_for_larger_restaurants_cruise/)**
+
+Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
+
+1d ago
 
 ---
 
@@ -60,7 +60,7 @@ Hello, we just open-sourced our custom waist design for openarm. We found that a
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-8h ago
+9h ago
 
 ---
 
@@ -74,19 +74,7 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-2h ago
-
----
-
-**[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
-
-1h ago
-
----
-
-**[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
-
-10h ago
+3h ago
 
 ---
 
@@ -94,15 +82,25 @@ Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimbe
 
 ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilities expecting highly automated, fully digitized operations. Instead, he found inspection data being written down on paper. Logs stored and never reviewed. Manual restarts that were never automated because the retrofit would be too complex. Teams collecting data that never reached the people who needed it. His take is that the distance between state-of-the-art robotics research and day-to-day industrial practice remains significant.
 
-4h ago
+5h ago
 
 ---
 
-**[DreamDojo - Open-Source Robot World Model (NVIDIA)](https://www.reddit.com/r/robotics/comments/1rekd91/dreamdojo_opensource_robot_world_model_nvidia/)**
-
-NVIDIA released this open-source world model that takes motor controls and generates the corresponding visual output. Robots practice tasks in a simulated visual environment before real-world deployment, no physical hardware needed for training. Project Page: https://dreamdojo-world.github.io/
+**[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
 
 2h ago
+
+---
+
+**[Day 156 of building Asimov, an open-source humanoid. We're assembling the full body and testing new walking policies on the legs](https://www.reddit.com/r/robotics/comments/1re8h65/day_156_of_building_asimov_an_opensource_humanoid/)**
+
+11h ago
+
+---
+
+**[Can I use DC motors+qdd+simplefoc or serial Bus servos like sts3215 for applications that require backdrivability?](https://www.reddit.com/r/robotics/comments/1reoxeb/can_i_use_dc_motorsqddsimplefoc_or_serial_bus/)**
+
+16m ago
 
 ---
 
@@ -110,19 +108,27 @@ NVIDIA released this open-source world model that takes motor controls and gener
 
 ## Google News: "robotics"
 
-**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
-
-There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
-
-The Conversation • 1d ago
-
----
-
 **[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
 NBC Bay Area • 1d ago
+
+---
+
+**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
+
+The race to dominate physical AI is under way, and Beijing may already have the upper hand
+
+The Telegraph • 3d ago
+
+---
+
+**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
+
+There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
+
+The Conversation • 1d ago
 
 ---
 
@@ -134,11 +140,27 @@ Interesting Engineering • 2d ago
 
 ---
 
-**[Armatrix Seeks $2.1M To Build Hazardous Inspection Robots in India](https://www.eweek.com/news/armatrix-hazardous-inspection-robots-india/)**
+**[Alphabet-owned robotics software company Intrinsic joins Google](https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/)**
 
-Armatrix is raising INR 18.43 crore (about $2.1M) led by pi Ventures to develop snake-like robotic arms for hazardous industrial inspections.
+Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-eWeek • 3h ago
+TechCrunch • 47m ago
+
+---
+
+**[Exclusive / US government to meet with robot-makers as China competition intensifies](https://www.semafor.com/article/02/25/2026/us-government-to-meet-with-robot-makers-as-china-competition-intensifies)**
+
+The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
+
+Semafor • 2h ago
+
+---
+
+**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+
+AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+
+Los Angeles Times • 9h ago
 
 ---
 
@@ -150,22 +172,6 @@ The Hindu • 1d ago
 
 ---
 
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
-
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
-
-Los Angeles Times • 8h ago
-
----
-
-**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
-
-Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
-
-TribLIVE.com • 21h ago
-
----
-
 **[Kalispell girls robotics team qualifies for worlds, launches community fundraising effort](https://www.kpax.com/neighborhood-news/flathead-valley/kalispell-girls-robotics-team-qualifies-for-worlds-launches-community-fundraising-effort)**
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
@@ -174,19 +180,11 @@ KPAX News • 1d ago
 
 ---
 
-**[AI2 Robotics raises Series B funding to advance AlphaBot, embodied AI](https://www.therobotreport.com/ai2-robotics-raises-series-b-funding-advance-alphabot-embodied-ai/)**
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
 
-AI2 Robotics brought its valuation to more than $1 billion as it develops VLA models for semi-humanoid robots.
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-The Robot Report • 19h ago
-
----
-
-**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
-
-The race to dominate physical AI is under way, and Beijing may already have the upper hand
-
-The Telegraph • 3d ago
+TribLIVE.com • 22h ago
 
 ---
 

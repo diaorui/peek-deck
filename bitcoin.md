@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T19:58:51.084450+00:00'
+updated: '2026-02-25T20:47:15.176480+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- social
 - videos
 - news
-- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 19:58 UTC  
+**Last Updated:** February 25, 2026 at 20:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** +7.2%  
-**7d:** +3.2%  
-**30d:** -22.6%  
-**90d:** -24.0%  
-**1y:** -17.9%  
+**24h:** +8.0%  
+**7d:** +3.3%  
+**30d:** -22.5%  
+**90d:** -23.9%  
+**1y:** -17.8%  
 
 ---
 
@@ -85,19 +85,25 @@ https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4
 
 ---
 
-**[Owning 1 Bitcoin is what you need to do.](https://www.reddit.com/r/Bitcoin/comments/1re7d4r/owning_1_bitcoin_is_what_you_need_to_do/)**
-
-If you owned a full Bitcoin, do you think things would change in ten years?
-
-11h ago
-
----
-
 **[Dump 401k into bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rek3pi/dump_401k_into_bitcoin/)**
 
 Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
-2h ago
+3h ago
+
+---
+
+**[Google searches for "buy bitcoin" at highest level in 5 years](https://www.reddit.com/r/Bitcoin/comments/1renmsw/google_searches_for_buy_bitcoin_at_highest_level/)**
+
+🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 1h ago
+
+---
+
+**[Owning 1 Bitcoin is what you need to do.](https://www.reddit.com/r/Bitcoin/comments/1re7d4r/owning_1_bitcoin_is_what_you_need_to_do/)**
+
+If you owned a full Bitcoin, do you think things would change in ten years?
+
+12h ago
 
 ---
 
@@ -105,7 +111,7 @@ Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
 Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 months ago the average normie that did zero research on BTC & thinks it's a scam saw it shoot past $125,000 and subsequently regretted not getting some at the bottom. That same bitter normie is now glad the fiat cuck buck price of BTC has halved, he's euphoric even. He's telling people how glad he is that he didn't buy in, that he knew this would happen & that the guy, who communicated federal crimes over Gmail, is Satoshi. In the meantime Wall Street, nation states & banks have legitimized Bitcoin as a real, disruptive asset, that needs to be custodied, regulated & included in every portfolio. Last year & especially this year it dawned on me: hyperbitcoinization among the sheeple won't happen, not in a million years. This bright future we're imagining for humanity, that will finally be able to use a free, sovereign, energy-backed money, will not come to fruition. The average person could literally watch Bitcoin do another 150x from here and think it's a worthless, ocean-boiling ponzi scheme. I wanted to see regular folk aquire some Bitcoin for themselves, for their family. I tried educating them, like others educated me. I did my part. Few listened. Eventually I gave up telling people about it, as I think it's unnecessary at this point. This time around I'm GLAD corporations, billionaires and ETFs are accumulating. Maybe this arrogant, ignorant, mindless mass of stupid consumers doesn't deserve to hold this asset. And I'm okay with that.
 
-3h ago
+4h ago
 
 ---
 
@@ -113,7 +119,7 @@ Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 mon
 
 I have always wanted to buy BTC after a big crash and hold out until I almost double my money. This week was the perfect opportunity. I bought $5k worth of BTC when it was at $63,300 and then another $5k worth when it went back up to $64,500, fearing the $62,000 was the lowest it would get this cycle. So wish me luck! If anybody has any advice for noobies, I am all ears! But I’m feeling pretty good about this so far!
 
-3h ago
+4h ago
 
 ---
 
@@ -121,7 +127,7 @@ I have always wanted to buy BTC after a big crash and hold out until I almost do
 
 Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. Let's assume the high was $126,000 and the low was $60,000. As a holder, you considered either holding and forgetting about it or trading the 4 year cycle. Realistically and objectively, it's impossible to sell at exactly $126,000 and then buy back at $60,000, 50% cheaper. Let's say you sold everything at $100,000 and now, during the drop, you bought back at $70,000. the difference is very small. When Bitcoin is at 500,000, it won't matter whether you bought it at 100,000 or 70,000. Is it worth it? The possibility of selling and missing out while the price rises, the added stress, the fees for entering and exiting the market, and paying taxes to sell at $100,000 and buy back at $70,000? Because nobody sells at the exact maximum and buys back at the exact bottom. I clearly see that the ideal strategy is to hold, saving you commissions, taxes, stress, and on top of that, ensuring you don't miss out on the market when it goes up.
 
-5h ago
+6h ago
 
 ---
 
@@ -129,35 +135,31 @@ Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. 
 
 I have about $4000 USD with cashapp that I purchased through their service. All of the sudden without explanation they closed my account. Now I cannot move my BTC off of their platform to a cold wallet. I have to sell for USD which generates a taxable event. If it can happen to a random person like me it can happen to you.
 
-5h ago
+6h ago
 
 ---
 
 **[60% of the time, bitcoin works every time](https://www.reddit.com/r/Bitcoin/comments/1rei11t/60_of_the_time_bitcoin_works_every_time/)**
 
-3h ago
+4h ago
 
 ---
 
-**[Does this provide hope for BTC use in the near future?](https://www.reddit.com/r/Bitcoin/comments/1recuhm/does_this_provide_hope_for_btc_use_in_the_near/)**
+**[Morgan Stanley's Amy Oldenburg confirms the bank has plans to offer Bitcoin trading, lending, yield, and custody in the future](https://www.reddit.com/r/Bitcoin/comments/1rep4ke/morgan_stanleys_amy_oldenburg_confirms_the_bank/)**
 
-Cash App has a map feature on the Bitcoin page, that I just noticed. I know people will say, “don’t spend your Bitcoin!”, but isn’t this what Bitcoin will be used for in the (hopefully) near future? Tell me what’s wrong with seeing this in Cash App, or BTC ATM icons in Waze, or any other big company involved with providing exposure to BTC.
-
-6h ago
-
----
-
-**[Sending BTC from strike to cold storage](https://www.reddit.com/r/Bitcoin/comments/1reirzt/sending_btc_from_strike_to_cold_storage/)**
-
-I've been DCAing on strike since the beginning of January. I've accumulated a decent amount to the point where I'd be more comfortable sending it to my Ledger. To transfer my full amount they want to charge me damn near $50 and $30 for the standard delivery time (approx 1 hour) For a 24-hour time frame delivery, it says free. Does anyone have any good experience with the "flexible transfer" or should I pay the transfer fee?
-
-3h ago
+8m ago
 
 ---
 
 ---
 
 ## Google News: "bitcoin"
+
+**[Bitcoin Heads for Worst Month Since Crypto Collapse of June 2022](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-btc-heads-for-worst-month-since-june-2022-crypto-winter)**
+
+Bloomberg.com • 23h ago
+
+---
 
 **[Bitcoin mining is no longer profitable after crypto's latest downward turn, analyst says](https://www.cnbc.com/2026/02/24/bitcoin-mining-is-no-longer-profitable-after-cryptos-latest-downward-turn.html)**
 
@@ -175,35 +177,33 @@ The Block • 1d ago
 
 ---
 
-**[Bitcoin Mining No Longer Profitable, Analyst Warns](https://finance.yahoo.com/news/bitcoin-mining-no-longer-profitable-173650737.html)**
+**[Solo Miner Turns $75 Into $200,000 Bitcoin Block Reward Using Rented Hashrate](https://bitcoinmagazine.com/news/solo-miner-turns-75-into-200000)**
 
-Bitcoin mining profitability crashes below 3 cents per terahash as hash prices plummet 30%, forcing miners to pivot toward AI computing opportunities.
+A solo miner turned $75 in rented hashpower into a $200,000 Bitcoin block reward, defying steep odds in a rare, lottery-like win.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Crypto firm with U.S. bank charter holds bitcoin holder Strategy's preferred stock](https://www.coindesk.com/markets/2026/02/25/crypto-firm-with-a-u-s-bank-charter-adds-bitcoin-holder-strategy-stock-to-its-balance-sheet)**
-
-Anchorage Digital, the first federally chartered U.S. crypto bank, has added perpetual preferred stock in bitcoin treasury firm Strategy to its balance sheet.
-
-CoinDesk • 12h ago
+Bitcoin Magazine • 1d ago
 
 ---
 
-**[Michael Saylor Hits 100 Bitcoin Buys—And He's Not Stopping Despite A $7 Billion Loss](https://finance.yahoo.com/news/michael-saylor-hits-100-bitcoin-133058007.html)**
+**[A $272 Billion UAE Bank Just Called Bitcoin 'Digital Gold'](https://www.forbes.com/sites/digital-assets/2026/02/25/a-272-billion-uae-bank-just-called-bitcoin-digital-gold/)**
 
-Strategy (NASDAQ:MSTR) bought 592 Bitcoin (CRYPTO: BTC) for $39.8 million marking its 100th purchase announcement since August 2020, despite sitting on a $7 billion unrealized loss. The 100th Purchase Milestone Strategy sold 297,940 shares of common stock between February 17-22,...
-
-Yahoo Finance • 6h ago
+Forbes • 49m ago
 
 ---
 
-**[America’s most shorted stock is Wall Street’s Bitcoin machine](https://finance.yahoo.com/news/america-most-shorted-stock-wall-020336775.html)**
+**['Raise Your Hand If You've Bought Or Sold Something With Bitcoin': Fed Official Reportedly Slams Crypto And Stablecoins As 'Utterly Useless'](https://finance.yahoo.com/news/raise-hand-youve-bought-sold-201935528.html)**
 
-If you had to guess which $40 billion company is currently the most shorted stock in America, you probably would need more than one try. It’s Strategy. Yes, the company formerly known as MicroStrategy. Yes — the Michael Saylor Bitcoin machine. According to Goldman Sachs’ hedge fund positioning ...
+Cryptocurrencies are "utterly useless," Federal Reserve Bank of Minneapolis President Neel Kashkari says. Kashkari cast doubt on the value of cryptocurrencies when asked about AI by Old National Bancorp (NASDAQ:ONB) CEO Jim Ryan III during a Q&A at the Midwest...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 27m ago
+
+---
+
+**[Morgan Stanley: We Want To Have Bitcoin Trading And Custody](https://bitcoinmagazine.com/news/morgan-stanley-plans-for-bitcoin-trading)**
+
+Morgan Stanley said at Strategy World that it plans to expand its digital asset offerings, including launching a native crypto custody and exchange solution.
+
+Bitcoin Magazine • 3m ago
 
 ---
 
@@ -211,29 +211,21 @@ Yahoo Finance • 17h ago
 
 Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[What early Bitcoin architect Adam Back thinks of this cycle](https://www.coindesk.com/markets/2026/02/25/what-early-bitcoin-architect-adam-back-thinks-of-this-cycle)**
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdp9kYPpbenYoszQmM0P2rhXuNifqhYE-y35slF9dinPC1rUL6mCfSX&gaa_ts=699f633c&gaa_sig=AJV4N0FPIjE_T80RnXXHOudelMNPsTWjGznDOS-cFO_4P4pwjavLpjMPESRJRnsjIMvNeHYNRxL-sRShfiQwMw%3D%3D)**
 
-Cited in the 2008 Bitcoin white paper, Back argued volatility is typical even as regulatory clarity and institutional access expands.
-
-CoinDesk • 1h ago
+Barron's • 23h ago
 
 ---
 
-**[Crypto News Today: Pepeto Presale Tops $7.32M as Trump Fuels Bitcoin and Bitcoin Price Prediction Targets $225K](https://markets.businessinsider.com/news/stocks/crypto-news-today-pepeto-presale-tops-7-32m-as-trump-fuels-bitcoin-and-bitcoin-price-prediction-targets-225k-1035866940)**
+**[The Winklevoss Twins’ Crypto Company Is in Crisis After the Bitcoin Crash](https://futurism.com/future-society/winklevoss-bitcoin-crypto-crash)**
 
-Dubai, UAE, Feb.  25, 2026  (GLOBE NEWSWIRE) -- Pepeto just did something no meme coin presale has done. It crossed $7.32 million raised, shipped ...
+The Winklevoss twins' Gemini crypto exchange struggled to brace for bitcoin volatility, throwing up warning signs for the industry as a whole.
 
-markets.businessinsider.com • 2h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqfHAc1WCcaT1biSi4QI54KHcmNhobwZnxi-Jal62ACAhBXpR13D3NUP&gaa_ts=699f4bf6&gaa_sig=5vSLztXJQ-42NQhyGArfO8rBaXKpUbSOw6ZpzHL0H57fDMG2pl4Kl23gtGZSg9UlrEotB1nfoZklvK1yIt0sqw%3D%3D)**
-
-Barron's • 22h ago
+Futurism • 1d ago
 
 ---
 
@@ -251,7 +243,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 1 • 💬 1 • 6h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 1 • 💬 1 • 7h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -333,7 +325,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 42K • 👍 2K • 💬 107 • ⏱️ 9:37 • 20h ago
+👁️ 42K • 👍 2K • 💬 107 • ⏱️ 9:37 • 21h ago
 
 ---
 
@@ -343,7 +335,7 @@ Get my free guide to building a tax-free bitcoin income stream: https://link.1ma
 
 📺 Mark Moss
 
-👁️ 67K • 👍 3K • 💬 432 • ⏱️ 15:47 • 22h ago
+👁️ 67K • 👍 3K • 💬 432 • ⏱️ 15:47 • 23h ago
 
 ---
 
@@ -363,7 +355,7 @@ Join the Bitpanda evolution here https://bitpanda.pxf.io/c/2040095/3761002/15871
 
 📺 Lark Davis
 
-👁️ 10K • 👍 647 • 💬 34 • ⏱️ 16:39 • 7h ago
+👁️ 10K • 👍 647 • 💬 34 • ⏱️ 16:39 • 8h ago
 
 ---
 
@@ -403,7 +395,7 @@ Bitcoin remained tethered near the the lower end of its recent trading range eve
 
 📺 Bloomberg Television
 
-👁️ 8K • 👍 120 • 💬 94 • ⏱️ 7:26 • 23h ago
+👁️ 8K • 👍 120 • 💬 94 • ⏱️ 7:26 • 1d ago
 
 ---
 
