@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T06:02:03.846033+00:00'
+updated: '2026-02-25T07:33:58.614876+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 06:02 UTC  
+**Last Updated:** February 25, 2026 at 07:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,19 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
 
-9h ago
+11h ago
 
 ---
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
-12h ago
+14h ago
 
 ---
 
 **[Lego strandbeest (part 3)](https://www.reddit.com/r/robotics/comments/1rdwocl/lego_strandbeest_part_3/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -56,13 +56,13 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: https://x.com/norma_core_dev
 
-14h ago
+16h ago
 
 ---
 
 **[This device that picks up rocks by NASA](https://www.reddit.com/r/robotics/comments/1rdahdb/this_device_that_picks_up_rocks_by_nasa/)**
 
-21h ago
+23h ago
 
 ---
 
@@ -74,7 +74,15 @@ GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: h
 
 **[Unitree AS2](https://www.reddit.com/r/robotics/comments/1rdbgjk/unitree_as2/)**
 
-20h ago
+22h ago
+
+---
+
+**[Little bit Curious](https://www.reddit.com/r/robotics/comments/1re68wx/little_bit_curious/)**
+
+I have been following these community and all the news about robotics and automation for quite some time. And I came to an understanding that China is the undisputed king in this fields, due to their expertise in manufacturing and R&D. But my question is that why other countries have not yet caught upto this trend like what are the reasons. Is it that the automation solutions are far too expensive for the companies to afford, supply chain issues, labour laws, government policies? what are the causes that despite the advancements in robotics and automation yet no other country is able to complete with china in the field of manufacturing and robotics? This reddit community is filled with experts and hobbist from the robotics and automation field so i thought that it would be the best place to understand the real problems that has barred other countries from competing with china in the filed of robotics and automation. I myself am a hobbist and am interested in the robotics and industrial automation field. From my understanding and views, in developing countries companies often want to automate but the higher initial cost of the equipments and a lack of skilled work force to be able to tackle any type of malfunction in the automation equipment has stopped companies from the mass adoption of automation and robotics. And in developed countries they are more oriented towards more precise engineering and hence the equipments becomes so much delicate and costly. They are necessary from the precision manufacturing of certain parts but at the same time the other day today manufacturing there I think we don't need that much precision and an eye for that precision is not letting the mass manufacturing to take off in the developed countries. Many would tell me that yes automation is taking off in other countries too but I don't think that those rate can match the rate in China. I may be wrong correct me if I am wrong. If anyone knows what are the reasons for the low adoption rate of the automation and robotics in manufacturing in countries other than china I would love to know those reasons too.
+
+33m ago
 
 ---
 
@@ -82,7 +90,7 @@ GitHub: https://github.com/norma-core/norma-core/tree/main/hardware/elrobot X: h
 
 Hi for background information, I am the cofounder of my high-schools first Vex robotics club along with my partner whom is a junior. What we usually did back when it first started was admit anyone interested, and explained the guidelines for Vex robotics. My partner took attendance while I presented. It became an issue as newer people kept wanting to join. Once the Vex kits came in, we assigned groups to build and get to know each other fr During this time, there wasn’t really a need for slideshows, just person to person guidance. I noticed that with around 20-25 kids it was difficult to manage them and unnecessary for 6+ people to work on one robot each. Around 16 people will join the competition that’s taking place in a month or two. Out of the 20+ people, 3 will manage the code. Furthermore, now that the robots are built, I am finding it hard to plan forward. I’d love to hear about it how other people managed similar clubs. What my plan is, using robot kits we purchased online, I hope let them get building land controlling experiences.Als should I kick the people that rarely show up?
 
-3h ago
+4h ago
 
 ---
 
@@ -90,13 +98,7 @@ Hi for background information, I am the cofounder of my high-schools first Vex r
 
 I've recently been experimenting with SLAM (Simultaneous Localization and Mapping) to better understand and implement the line feature extraction method described in the paper(A line segment extraction algorithm using laser data based on seeded region growing: link to paper ). This is running in an indoor setting with a 2D LiDAR sensor simulation. Feel free to check the github repository github repository(https://github.com/Amanuel-1/SLAM) for the full implementation! star the repo if you like my implementation.
 
-18h ago
-
----
-
-**[Robotics Roadmap](https://www.reddit.com/r/robotics/comments/1re4he8/robotics_roadmap/)**
-
-37m ago
+19h ago
 
 ---
 
@@ -108,15 +110,7 @@ I've recently been experimenting with SLAM (Simultaneous Localization and Mappin
 
 There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
 
-The Conversation • 10h ago
-
----
-
-**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
-
-Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
-
-TribLIVE.com • 7h ago
+The Conversation • 12h ago
 
 ---
 
@@ -124,7 +118,15 @@ TribLIVE.com • 7h ago
 
 Explore how India can transform grassroots robotics talent into a robust economy, leveraging education, innovation, and local manufacturing.
 
-The Hindu • 20h ago
+The Hindu • 21h ago
+
+---
+
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
+
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
+
+TribLIVE.com • 9h ago
 
 ---
 
@@ -132,7 +134,7 @@ The Hindu • 20h ago
 
 The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
 
-The Boston Globe • 13h ago
+The Boston Globe • 15h ago
 
 ---
 
@@ -140,15 +142,7 @@ The Boston Globe • 13h ago
 
 A Kalispell all-female robotics team qualifies for World Championship but needs $27,000 to make the trip
 
-KPAX News • 16h ago
-
----
-
-**[Video: Unitree’s G1 humanoid robots perform synchronized Kung Fu at Chinese temple](https://interestingengineering.com/ai-robotics/synchronized-robot-kung-fu-chinese-temple)**
-
-Unitree’s G1 robots performed synchronized martial arts, including punches, kicks, and flips at a Beijing landmark.
-
-Interesting Engineering • 1d ago
+KPAX News • 18h ago
 
 ---
 
@@ -160,11 +154,27 @@ The Telegraph • 2d ago
 
 ---
 
+**[Video: Unitree’s G1 humanoid robots perform synchronized Kung Fu at Chinese temple](https://interestingengineering.com/ai-robotics/synchronized-robot-kung-fu-chinese-temple)**
+
+Unitree’s G1 robots performed synchronized martial arts, including punches, kicks, and flips at a Beijing landmark.
+
+Interesting Engineering • 1d ago
+
+---
+
 **[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
 
 "You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
 CNBC • 1d ago
+
+---
+
+**[AI2 Robotics raises Series B funding to advance AlphaBot, embodied AI](https://www.therobotreport.com/ai2-robotics-raises-series-b-funding-advance-alphabot-embodied-ai/)**
+
+AI2 Robotics brought its valuation to more than $1 billion as it develops VLA models for semi-humanoid robots.
+
+The Robot Report • 7h ago
 
 ---
 
@@ -176,17 +186,19 @@ News.com.au • 1d ago
 
 ---
 
-**[AI2 Robotics raises Series B funding to advance AlphaBot, embodied AI](https://www.therobotreport.com/ai2-robotics-raises-series-b-funding-advance-alphabot-embodied-ai/)**
-
-AI2 Robotics brought its valuation to more than $1 billion as it develops VLA models for semi-humanoid robots.
-
-The Robot Report • 5h ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 23K • 👍 392 • 💬 245 • ⏱️ 7:18 • 14h ago
+
+---
 
 **[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
 
@@ -194,7 +206,7 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 19K • 👍 344 • 💬 323 • ⏱️ 2:30 • 3d ago
+👁️ 20K • 👍 345 • 💬 323 • ⏱️ 2:30 • 3d ago
 
 ---
 
@@ -204,27 +216,17 @@ Freshly released vision of Chinese Robots defeating an army with US-style Humvee
 
 📺 10 News
 
-👁️ 319K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
+👁️ 321K • 👍 4K • 💬 2K • ⏱️ 3:42 • 5d ago
 
 ---
 
-**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
 
-AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
 
-📺 The AI Nexus
+📺 Julia McCoy
 
-👁️ 2K • 👍 103 • 💬 10 • ⏱️ 21:45 • 1d ago
-
----
-
-**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
-
-Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
-
-📺 AI Revolution
-
-👁️ 85K • 👍 1K • 💬 205 • ⏱️ 14:16 • 2d ago
+👁️ 77K • 👍 3K • 💬 812 • ⏱️ 14:51 • 4d ago
 
 ---
 
@@ -238,43 +240,43 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 
 ---
 
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
 
-📺 Julia McCoy
+📺 AI Revolution
 
-👁️ 76K • 👍 3K • 💬 809 • ⏱️ 14:51 • 4d ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 16K • 👍 327 • 💬 193 • ⏱️ 7:18 • 12h ago
+👁️ 90K • 👍 1K • 💬 211 • ⏱️ 14:16 • 2d ago
 
 ---
 
-**[Galgotias University AI Summit | &#39;These Robot Dogs Are Chinese, Not Indian&#39;: Galgotias Thrown Out](https://www.youtube.com/watch?v=zyVpCu_PslQ)**
+**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
 
-Galgotias University has come under scrutiny after displaying a Chinese-made robotic dog at the India AI Impact Summit. Sources ...
+AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
 
-📺 NDTV
+📺 The AI Nexus
 
-👁️ 30K • 👍 119 • 💬 215 • ⏱️ 5:02 • 6d ago
+👁️ 2K • 👍 108 • 💬 10 • ⏱️ 21:45 • 1d ago
 
 ---
 
-**[A Whole Bunch of Robots Sending New Year Greetings to Everyone!](https://www.youtube.com/watch?v=w4IOJH9Akhg)**
+**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
 
-The same model of the 'Kung Fu Bot' at the Spring Festival Gala, Cluster Cooperative Rapid Scheduling System.
+Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
 
-📺 Unitree Robotics
+📺 DPCcars
 
-👁️ 1.9M • 👍 2K • 💬 204 • ⏱️ 0:32 • 6d ago
+👁️ 90K • 👍 482 • 💬 249 • ⏱️ 2:14 • 4d ago
+
+---
+
+**[Humanoid Robots Perform Martial Arts at Beijing&#39;s Temple of Heaven | Vantage with Palki Sharma |N18G](https://www.youtube.com/watch?v=IZYAKBR1QOs)**
+
+Humanoid robots developed by China's Unitree Robotics has given another impressive Chinese Kung Fu performance at the ...
+
+📺 Firstpost
+
+👁️ 26K • 👍 319 • 💬 267 • ⏱️ 4:45 • 1d ago
 
 ---
 
@@ -284,7 +286,7 @@ Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/ad
 
 📺 The China Show
 
-👁️ 197K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 4d ago
+👁️ 198K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 4d ago
 
 ---
 
