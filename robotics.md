@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T10:11:47.425908+00:00'
+updated: '2026-02-26T11:12:25.463834+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 10:11 UTC  
+**Last Updated:** February 26, 2026 at 11:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-11h ago
+12h ago
+
+---
+
+**[EgoScale by Nvidia, a human-to-dexterous-manipulation transfer framework built on large-scale egocentric human data (20k hours) (Demos with a 22-DoF robotic hand)](https://www.reddit.com/r/robotics/comments/1rf62n4/egoscale_by_nvidia_a_humantodexterousmanipulation/)**
+
+- Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
+
+1h ago
 
 ---
 
@@ -44,7 +52,15 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-21h ago
+22h ago
+
+---
+
+**[Made in France WALL-E animatronic (french news)](https://www.reddit.com/r/robotics/comments/1rf73c9/made_in_france_walle_animatronic_french_news/)**
+
+Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
+
+20m ago
 
 ---
 
@@ -52,13 +68,21 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-16h ago
+17h ago
 
 ---
 
 **[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
 
-16h ago
+17h ago
+
+---
+
+**[The Huge Gap Between Demo and Deployment. And How Can We Bridge It?](https://www.reddit.com/r/robotics/comments/1rf73if/the_huge_gap_between_demo_and_deployment_and_how/)**
+
+I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
+
+19m ago
 
 ---
 
@@ -66,7 +90,7 @@ Hello, we just open-sourced our custom waist design for openarm. We found that a
 
 Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-16h ago
+17h ago
 
 ---
 
@@ -74,15 +98,7 @@ Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimbe
 
 Hey everyone, I’m working on a small autonomous indoor rover (Pi 4 + RPLIDAR + wheel encoders, running ROS2 + Nav2), and it’s navigating decently but I’m still seeing noticeable odometry drift over longer runs. I’ve calibrated the wheel encoders carefully, but the error still builds up over time. I’m considering adding sensor fusion with an IMU (EKF), but not sure if that’s the best next step. For those who’ve built similar indoor robots: What helped you most with reducing drift? Is EKF with IMU worth it on a Pi-class setup? At what point did you switch to more powerful hardware? Appreciate any advice from folks who’ve dealt with this. Thanks!
 
-5h ago
-
----
-
-**[Robot Dishwashing for Larger Restaurants / Cruise Ships](https://www.reddit.com/r/robotics/comments/1rdr8hu/robot_dishwashing_for_larger_restaurants_cruise/)**
-
-Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics booth showcased a unique application for dishwashing. Hey u/adamhanson you made a comment about wanting robots doing dishes. Here ya go.
-
-1d ago
+6h ago
 
 ---
 
@@ -90,21 +106,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-23h ago
-
----
-
-**[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
-
 1d ago
-
----
-
-**[Stress-tested AI across Perception, Planning, and Control — the failures were more interesting than the wins.](https://www.reddit.com/r/robotics/comments/1rf0arw/stresstested_ai_across_perception_planning_and/)**
-
-Spent the past week pushing generative AI through a full robotics software stack to see where it actually breaks down. The results were surprising, not because the AI failed at writing code, but because of how it failed. Every single failure came down to the same thing: the AI has no model of physical reality. A few highlights: — Perception: nailed the MutuallyExclusiveCallbackGroup + MultiThreadedExecutor architecture for a YOLOv8 ROS2 node. Then confidently told me to mount /dev/video0 on macOS. — Planning: wrote a solid 200-line RRT* implementation. Treated the robot as a dimensionless point. When I asked it to fix the C-Space inflation, it updated the visualization but not the collision math. The path still went straight through the buffer zones. — Control: produced a textbook PID response curve. The control effort subplot showed near-infinite instantaneous torque at t=0. Derivative Kick, no output clamping, no anti-windup. Would have damaged the hardware on first run. The pattern across all three: AI has absorbed an enormous amount of robotics knowledge. What it hasn't internalized is the physical substrate those algorithms run on. Wrote this up in full if anyone wants the details: https://medium.com/@advaithsomula/vibecoding-stops-at-the-laws-of-physics-6024872572c0 Curious if others have hit similar patterns.
-
-5h ago
 
 ---
 
@@ -116,47 +118,39 @@ Spent the past week pushing generative AI through a full robotics software stack
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 14h ago
+TechCrunch • 15h ago
 
 ---
 
-**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
+**[Exclusive / US government to meet with robot-makers as China competition intensifies](https://www.semafor.com/article/02/25/2026/us-government-to-meet-with-robot-makers-as-china-competition-intensifies)**
 
-There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
+The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
 
-The Conversation • 1d ago
-
----
-
-**[7 Next-Gen Chinese Humanoid Robots: From ‘Kung Fu’ Spectacles to Factory Workhorses](https://www.eweek.com/news/7-next-gen-chinese-humanoid-robots-2026/)**
-
-China’s humanoid robot makers are scaling fast in 2026, led by Unitree and AgiBot, as the market shifts from viral demos to commercial deployment.
-
-eWeek • 1d ago
+Semafor • 16h ago
 
 ---
 
-**[Video: Unitree’s G1 humanoid robots perform synchronized Kung Fu at Chinese temple](https://interestingengineering.com/ai-robotics/synchronized-robot-kung-fu-chinese-temple)**
+**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
 
-Unitree’s G1 robots performed synchronized martial arts, including punches, kicks, and flips at a Beijing landmark.
+Intrinsic is focused on making robots easier to program, teach, and operate.
 
-Interesting Engineering • 2d ago
-
----
-
-**[International Federation of Robotics](https://ifr.org/case-studies/kr-quantec-against-electrical-waste)**
-
-The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
-
-International Federation of Robotics • 2h ago
+The Verge • 5m ago
 
 ---
 
-**[Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html)**
+**[Cofounder of bankrupt robot vacuum maker iRobot says Elon Musk’s vision of robots is ‘pure fantasy’](https://fortune.com/2026/02/25/mit-roboticist-irobot-cofounder-roomba-robot-vacuum-elon-musk-tesla-optimus-pure-fantasy-thinking/)**
 
-Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-CNBC • 12h ago
+Fortune • 15h ago
+
+---
+
+**[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
+
+"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
+
+CNBC • 2d ago
 
 ---
 
@@ -168,27 +162,35 @@ TribLIVE.com • 1d ago
 
 ---
 
-**[Cofounder of bankrupt robot vacuum maker iRobot says Elon Musk’s vision of robots is ‘pure fantasy’](https://fortune.com/2026/02/25/mit-roboticist-irobot-cofounder-roomba-robot-vacuum-elon-musk-tesla-optimus-pure-fantasy-thinking/)**
+**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
 
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
 
-Fortune • 14h ago
-
----
-
-**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
-
-The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
-
-The Boston Globe • 1d ago
+The Conversation • 1d ago
 
 ---
 
-**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
+**[Humanoid robots steal show at festival gala](https://www.chinadaily.com.cn/a/202602/25/WS699e579ca310d6866eb3a24f.html)**
 
-AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
+Breakthroughs in motion control and cluster technology take center stage.
 
-MIT Technology Review • 2d ago
+China Daily • 1d ago
+
+---
+
+**[7 Next-Gen Chinese Humanoid Robots: From ‘Kung Fu’ Spectacles to Factory Workhorses](https://www.eweek.com/news/7-next-gen-chinese-humanoid-robots-2026/)**
+
+China’s humanoid robot makers are scaling fast in 2026, led by Unitree and AgiBot, as the market shifts from viral demos to commercial deployment.
+
+eWeek • 1d ago
+
+---
+
+**[I Went To TechFest 2026. Here Are My Takeaways On Robotics Today](https://seekingalpha.com/article/4875129-techfest-2026-my-takeaways-robotics-today)**
+
+At TechFest 2026, robotics progress looked practical and disciplined. Growth is steady, AI enhances capability, and long-term service and system coordination drive real-world adoption.
+
+Seeking Alpha • 40m ago
 
 ---
 
