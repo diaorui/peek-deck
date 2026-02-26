@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T14:48:46.196162+00:00'
+updated: '2026-02-26T15:57:43.861684+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 14:48 UTC  
+**Last Updated:** February 26, 2026 at 15:57 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-3h ago
+4h ago
+
+---
+
+**[Robotic Pallet loader and mover](https://www.reddit.com/r/robotics/comments/1rfaro4/robotic_pallet_loader_and_mover/)**
+
+Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
+
+2h ago
 
 ---
 
@@ -44,7 +52,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 1h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 2h ago
 
 ---
 
@@ -52,7 +60,15 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-4h ago
+6h ago
+
+---
+
+**[Boston Dynamics’ Atlas GM on Retiring R1 and Building the Production Humanoid](https://www.reddit.com/r/robotics/comments/1rfat9z/boston_dynamics_atlas_gm_on_retiring_r1_and/)**
+
+Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
+
+2h ago
 
 ---
 
@@ -60,7 +76,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-15h ago
+17h ago
 
 ---
 
@@ -68,7 +84,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-3h ago
+5h ago
 
 ---
 
@@ -82,29 +98,13 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 **[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-1h ago
+2h ago
 
 ---
 
-**[The Huge Gap Between Demo and Deployment. And How Can We Bridge It?](https://www.reddit.com/r/robotics/comments/1rf73if/the_huge_gap_between_demo_and_deployment_and_how/)**
+**[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. In particular, I’ve noticed most demos focus on performance-oriented tasks, like dancing or even kung fu. But those seem very different from the kinds of scenarios that would generate large-scale, real economic value in actual deployment. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
-
-3h ago
-
----
-
-**[OpenArm Waist Extension (Open Sourced)](https://www.reddit.com/r/robotics/comments/1rejphm/openarm_waist_extension_open_sourced/)**
-
-Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
-
-21h ago
-
----
-
-**[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
-
-20h ago
+2m ago
 
 ---
 
@@ -112,11 +112,51 @@ Hello, we just open-sourced our custom waist design for openarm. We found that a
 
 ## Google News: "robotics"
 
+**[Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html)**
+
+Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
+
+CNBC • 18h ago
+
+---
+
 **[Alphabet-owned robotics software company Intrinsic joins Google](https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/)**
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 18h ago
+TechCrunch • 19h ago
+
+---
+
+**[AI robotics company started by Alphabet is joining Google proper](https://www.engadget.com/ai/ai-robotics-company-started-by-alphabet-is-joining-google-proper-144421411.html)**
+
+A robotics company started by Alphabet is being absorbed by Google.
+
+Engadget • 1h ago
+
+---
+
+**[Exclusive / US government to meet with robot-makers as China competition intensifies](https://www.semafor.com/article/02/25/2026/us-government-to-meet-with-robot-makers-as-china-competition-intensifies)**
+
+The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
+
+Semafor • 21h ago
+
+---
+
+**[Automation World in Seoul to feature Chinese humanoid makers](https://www.therobotreport.com/automation-world-seoul-features-china-humanoid-makers/)**
+
+The 'Big 5' humanoid robot manufacturers will participate in the China Humanoid Robot Conference as part of AW 2026.
+
+The Robot Report • 1h ago
+
+---
+
+**[Intrinsic is joining Google to advance physical AI in robotics](https://www.therobotreport.com/intrinsic-is-joining-google-to-advance-physical-ai-in-robotics/)**
+
+Intrinsic originally spun out from Google parent Alphabet in 2021, and it has since worked with Alphabet subsidiaries.
+
+The Robot Report • 2h ago
 
 ---
 
@@ -132,7 +172,7 @@ NBC Bay Area • 1d ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -144,49 +184,11 @@ The Conversation • 1d ago
 
 ---
 
-**[Is Mass. losing robotics edge? Here's what local companies are doing.](https://www.bizjournals.com/boston/news/2026/02/26/robotics-companies-in-massachusetts.html)**
+**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
 
-The Business Journals • 3h ago
+AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
 
----
-
-**[Intrinsic is joining Google to advance physical AI in robotics](https://www.therobotreport.com/intrinsic-is-joining-google-to-advance-physical-ai-in-robotics/)**
-
-Intrinsic originally spun out from Google parent Alphabet in 2021, and it has since worked with Alphabet subsidiaries.
-
-The Robot Report • 1h ago
-
----
-
-**[Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html)**
-
-Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
-
-CNBC • 17h ago
-
----
-
-**[German Chancellor Friedrich Merz visits Unitree Robotics in Hangzhou, watching Wubot and robot fights](https://www.globaltimes.cn/page/202602/1355787.shtml)**
-
-German Chancellor Friedrich Merz visited Chinese robotics firm Unitree Robotics in Hangzhou, East China’s Zhejiang Province, on Thursday afternoon, where he watched the robot product displays and robot performances such as
-
-Global Times • 4h ago
-
----
-
-**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
-
-Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
-
-TribLIVE.com • 1d ago
-
----
-
-**[I Went To TechFest 2026. Here Are My Takeaways On Robotics Today](https://seekingalpha.com/article/4875129-techfest-2026-my-takeaways-robotics-today)**
-
-At TechFest 2026, robotics progress looked practical and disciplined. Growth is steady, AI enhances capability, and long-term service and system coordination drive real-world adoption.
-
-Seeking Alpha • 4h ago
+Los Angeles Times • 1d ago
 
 ---
 
@@ -200,7 +202,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 897 • 👍 51 • 💬 14 • ⏱️ 24:08 • 8h ago
+👁️ 897 • 👍 51 • 💬 14 • ⏱️ 24:08 • 9h ago
 
 ---
 
@@ -240,7 +242,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 84K • 👍 3K • 💬 861 • ⏱️ 14:51 • 5d ago
+👁️ 84K • 👍 3K • 💬 861 • ⏱️ 14:51 • 6d ago
 
 ---
 
@@ -270,7 +272,7 @@ German Chancellor Friedrich Merz visited the Chinese robotics firm Unitree Robot
 
 📺 CGTN
 
-👁️ 43K • 👍 2K • 💬 213 • ⏱️ 0:37 • 5h ago
+👁️ 43K • 👍 2K • 💬 213 • ⏱️ 0:37 • 6h ago
 
 ---
 
