@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-25T23:56:14.311678+00:00'
+updated: '2026-02-26T02:12:26.946107+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - news
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 25, 2026 at 23:56 UTC  
+**Last Updated:** February 26, 2026 at 02:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,901.00
+### $67,987.74
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.8%  
-**7d:** +1.5%  
+**24h:** +3.9%  
+**7d:** -0.1%  
 **30d:** -23.9%  
 **90d:** -25.3%  
-**1y:** -19.3%  
+**1y:** -19.9%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1358.18B
+**Market Cap:** $1358.87B
 Rank #1
 
-**Circulating Supply:** 19,994,831 BTC
+**Circulating Supply:** 19,994,865 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -46.1%
 
 **All-Time Low:** $67.81
-+100113.8%
++100115.3%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Google searches for "buy bitcoin" at highest level in 5 years](https://www.reddit.com/r/Bitcoin/comments/1renmsw/google_searches_for_buy_bitcoin_at_highest_level/)**
 
-🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 4h ago
+🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 6h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4f008711480e9de8c23a06b3d9e6bbd824ed6 Thoughts on this?
 
-6h ago
+8h ago
 
 ---
 
@@ -95,13 +95,29 @@ https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4
 
 Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
-6h ago
+8h ago
+
+---
+
+**[$1,000,000 ≥ BTC on sale for 70k](https://www.reddit.com/r/Bitcoin/comments/1retzmv/1000000_btc_on_sale_for_70k/)**
+
+And people are freaking out…sit back and enjoy the ride.
+
+2h ago
 
 ---
 
 **[Morgan Stanley's Amy Oldenburg confirms the bank has plans to offer Bitcoin trading, lending, yield, and custody in the future](https://www.reddit.com/r/Bitcoin/comments/1rep4ke/morgan_stanleys_amy_oldenburg_confirms_the_bank/)**
 
-3h ago
+5h ago
+
+---
+
+**[I bought at 20k..4 years ago](https://www.reddit.com/r/Bitcoin/comments/1revtqk/i_bought_at_20k4_years_ago/)**
+
+a few years ago, I bought Bitcoin at 20k, I sold at 70k. I just wanted to inform new buyers and ppl that are thinking about this now... hold that shi, this coin can do so much for you investing. I've seen on so many forums that it's crashing it's gonna skyrocket yada yada... don't stalk it where it's price is, hold it long. I could have made thousands more than I did if I held it longer to over 100k dollars. welcome to the club, I'm glad to be back in:)
+
+1h ago
 
 ---
 
@@ -109,7 +125,7 @@ Hi, I have $800K in my 401k, 52M in Midwest. Should I just dump it all in FBTC?
 
 In honor of corn pumping today
 
-3h ago
+6h ago
 
 ---
 
@@ -117,7 +133,13 @@ In honor of corn pumping today
 
 I have always wanted to buy BTC after a big crash and hold out until I almost double my money. This week was the perfect opportunity. I bought $5k worth of BTC when it was at $63,300 and then another $5k worth when it went back up to $64,500, fearing the $62,000 was the lowest it would get this cycle. So wish me luck! If anybody has any advice for noobies, I am all ears! But I’m feeling pretty good about this so far!
 
-7h ago
+9h ago
+
+---
+
+**[What happened in Brazil?](https://www.reddit.com/r/Bitcoin/comments/1req45q/what_happened_in_brazil/)**
+
+4h ago
 
 ---
 
@@ -125,29 +147,7 @@ I have always wanted to buy BTC after a big crash and hold out until I almost do
 
 If you owned a full Bitcoin, do you think things would change in ten years?
 
-15h ago
-
----
-
-**[My unpopular take on Bitcoin & society](https://www.reddit.com/r/Bitcoin/comments/1reiai1/my_unpopular_take_on_bitcoin_society/)**
-
-Shocker, we've entered another bear market after Bitcoin did an 8.5x. Just 4 months ago the average normie that did zero research on BTC & thinks it's a scam saw it shoot past $125,000 and subsequently regretted not getting some at the bottom. That same bitter normie is now glad the fiat cuck buck price of BTC has halved, he's euphoric even. He's telling people how glad he is that he didn't buy in, that he knew this would happen & that the guy, who communicated federal crimes over Gmail, is Satoshi. In the meantime Wall Street, nation states & banks have legitimized Bitcoin as a real, disruptive asset, that needs to be custodied, regulated & included in every portfolio. Last year & especially this year it dawned on me: hyperbitcoinization among the sheeple won't happen, not in a million years. This bright future we're imagining for humanity, that will finally be able to use a free, sovereign, energy-backed money, will not come to fruition. The average person could literally watch Bitcoin do another 150x from here and think it's a worthless, ocean-boiling ponzi scheme. I wanted to see regular folk aquire some Bitcoin for themselves, for their family. I tried educating them, like others educated me. I did my part. Few listened. Eventually I gave up telling people about it, as I think it's unnecessary at this point. This time around I'm GLAD corporations, billionaires and ETFs are accumulating. Maybe this arrogant, ignorant, mindless mass of stupid consumers doesn't deserve to hold this asset. And I'm okay with that.
-
-7h ago
-
----
-
-**[What happened in Brazil?](https://www.reddit.com/r/Bitcoin/comments/1req45q/what_happened_in_brazil/)**
-
-2h ago
-
----
-
-**[Thought experiment on the 4 year cycle trade vs HODL](https://www.reddit.com/r/Bitcoin/comments/1ree966/thought_experiment_on_the_4_year_cycle_trade_vs/)**
-
-Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. Let's assume the high was $126,000 and the low was $60,000. As a holder, you considered either holding and forgetting about it or trading the 4 year cycle. Realistically and objectively, it's impossible to sell at exactly $126,000 and then buy back at $60,000, 50% cheaper. Let's say you sold everything at $100,000 and now, during the drop, you bought back at $70,000. the difference is very small. When Bitcoin is at 500,000, it won't matter whether you bought it at 100,000 or 70,000. Is it worth it? The possibility of selling and missing out while the price rises, the added stress, the fees for entering and exiting the market, and paying taxes to sell at $100,000 and buy back at $70,000? Because nobody sells at the exact maximum and buys back at the exact bottom. I clearly see that the ideal strategy is to hold, saving you commissions, taxes, stress, and on top of that, ensuring you don't miss out on the market when it goes up.
-
-9h ago
+18h ago
 
 ---
 
@@ -155,11 +155,49 @@ Hypothesis: You are someone who accumulated Bitcoin when the price was $40,000. 
 
 ## Google News: "bitcoin"
 
-**[Historic mining capitulation nears end, pointing to bitcoin price stabilization](https://www.coindesk.com/markets/2026/02/25/one-of-longest-mining-capitulations-nears-end-signaling-potential-btc-price-bottom)**
+**[Bitcoin Rises as Markets Price State of the Union Trump Address](https://finance.yahoo.com/news/bitcoin-rises-markets-price-state-110034504.html)**
 
-Hash Ribbon recovery and sub production pricing suggest the worst of the bitcoin drawdown may have passed.
+Bitcoin (BTC) surged more than $2,000 to reclaim the $66,000 level Tuesday evening, driven by risk-on positioning ahead of the State of the Union address by President Donald Trump.While the asset has since retraced slightly to trade near $65,500, according to CoinGecko, the move signals a potential localized bottom as ...
 
-CoinDesk • 12h ago
+Yahoo Finance • 15h ago
+
+---
+
+**[Fact Check: Sam Bankman-Fried Did NOT Offer AOC Bitcoin To Fund 2028 Presidential Campaign](https://www.yahoo.com/news/articles/fact-check-sam-bankman-fried-020721082.html)**
+
+Did Sam Bankman-Fried write a post on X, offering Congresswoman Alexandria Ocasio-Cortez money in bitcoins to fund a 2028 presidential run? No, that's not true: As of this writing, there was no such p...
+
+Yahoo • 5m ago
+
+---
+
+**[Michael Saylor Says Bitcoin's Newness Is The 'Strongest Argument' Against It, But Notes It Took People 30 Years To Embrace Electricity](https://finance.yahoo.com/news/michael-saylor-says-bitcoins-newness-003040833.html)**
+
+Strategy Inc. (NASDAQ:MSTR) Executive Chair Michael Saylor shared his thoughts Monday on the “strongest argument” against Bitcoin (CRYPTO: BTC) and why he rejects it. Saylor Claims Investors Wary Of BTC’s Novelty Speaking to Bitcoin influencer Natalie Brunell, Saylor argued that...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Crypto Long & Short: When ETF options start driving bitcoin](https://www.coindesk.com/coindesk-indices/2026/02/25/crypto-long-and-short-when-etf-options-start-driving-bitcoin)**
+
+In this week’s Crypto Long & Short Newsletter, Gregory Mall of Lionsoul Global on how ETFs have shifted a growing share of bitcoin volatility into U.S. equity options markets.
+
+CoinDesk • 9h ago
+
+---
+
+**[Bitcoin Break-Even Trap Is Killing Every Rally as Buyers Strike](https://www.bloomberg.com/news/articles/2026-02-24/bitcoin-break-even-trap-is-killing-every-rally-as-buyers-strike)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Jane Street Speculation Renews Scrutiny of Bitcoin ETF Market Mechanics](https://finance.yahoo.com/news/jane-street-speculation-renews-scrutiny-015724564.html)**
+
+Online claims have drawn attention to how institutional middlemen hedge Bitcoin ETF shares, exposing a gap between inflows and spot buying.
+
+Yahoo Finance • 15m ago
 
 ---
 
@@ -171,14 +209,6 @@ CNBC • 1d ago
 
 ---
 
-**[Solo Miner Turns $75 Into $200,000 Bitcoin Block Reward Using Rented Hashrate](https://bitcoinmagazine.com/news/solo-miner-turns-75-into-200000)**
-
-A solo miner turned $75 in rented hashpower into a $200,000 Bitcoin block reward, defying steep odds in a rare, lottery-like win.
-
-Bitcoin Magazine • 1d ago
-
----
-
 **[Canaan acquires Cipher Mining's stake in West Texas bitcoin mining projects in $40 million deal](https://www.theblock.co/post/390926/canaan-cipher-mining-west-texas-bitcoin-mining)**
 
 The deal was funded through the issuance of Canaan shares valued at roughly $39.75 million, making Cipher a significant shareholder.
@@ -187,23 +217,11 @@ The Block • 1d ago
 
 ---
 
-**[Here's Why Bitcoin Is Making An Incredible Rebound Wednesday, Surging More than 7%](https://finance.yahoo.com/news/heres-why-bitcoin-making-incredible-224156951.html)**
+**[Solo Miner Turns $75 Into $200,000 Bitcoin Block Reward Using Rented Hashrate](https://bitcoinmagazine.com/news/solo-miner-turns-75-into-200000)**
 
-Bitcoin's push back toward the $70,000 level has some investors breathing a lot easier today.
+A solo miner turned $75 in rented hashpower into a $200,000 Bitcoin block reward, defying steep odds in a rare, lottery-like win.
 
-Yahoo Finance • 1h ago
-
----
-
-**[Bitcoin Cycle Mechanics: Compression Before Expansion?](https://www.binance.com/es-MX/square/post/295600126676802)**
-
-Binance • 1h ago
-
----
-
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqcGiaMqyzT_5BvNaDwy_OMi52uWq2iRu5Vshz2nG4AK7QXMOTLlGRM0&gaa_ts=699f8f81&gaa_sig=-ZmABmkK5xH3E5Tt1aTL3u7Z_sNPy81-ZXfJdYBYWgPQ4afg0xTUa2mT2VGb_nsOrznbBFpgCPlEPjZaTjS58g%3D%3D)**
-
-Barron's • 1d ago
+Bitcoin Magazine • 1d ago
 
 ---
 
@@ -215,25 +233,15 @@ Futurism • 1d ago
 
 ---
 
-**['Buy Bitcoin' Searches Hit A 5-Year High. Are Dip Buyers Right?](https://www.forbes.com/sites/digital-assets/2026/02/25/buy-bitcoin-searches-hit-a-5-year-high-are-dip-buyers-right/)**
-
-'Buy bitcoin' Google searches hit a 5-year peak. On-chain data, Jane Street, Trump, and an AI macro thesis explain what's driving this interest wave.
-
-Forbes • 53m ago
-
----
-
-**[South Korean police arrest two over alleged theft of seized bitcoin from evidence: report](https://www.theblock.co/post/391212/south-korean-police-arrest-two-over-alleged-theft-of-seized-bitcoin-from-evidence)**
-
-South Korean police have arrested two individuals over the alleged theft of 22 BTC seized during a 2021 hacking investigation.
-
-The Block • 11h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
+
+**[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
+
+⬆️ 8 • 💬 3 • 3h ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+
+---
 
 **[Show HN: StarkZap – Gasless Bitcoin Payments SDK for TypeScript](https://news.ycombinator.com/item?id=47137736)**
 
@@ -243,15 +251,17 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 ---
 
-**[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
+**[No 10 Am BTC Dump? Bitcoin Price Rallies as Jane Street Trading Draws Attention](https://news.ycombinator.com/item?id=47160617)**
 
-⬆️ 6 • 💬 3 • 1h ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
+
+⬆️ 2 • 💬 0 • 46m ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
 
 ---
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 1 • 💬 1 • 10h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 1 • 💬 1 • 13h ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -299,43 +309,17 @@ The company said it will focus on building data centers for high-performance com
 
 ---
 
-**[Professional Bitcoin Asset Tracing – Intelligence Cyber Wizard](https://news.ycombinator.com/item?id=47086751)**
-
-⬆️ 1 • 💬 0 • 5d ago
-
----
-
 ---
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Accumulation ERUPTS As The Financial System Cracks! Supply Shock Incoming?](https://www.youtube.com/watch?v=hZLsPjR1-t0)**
+**[Bitcoin Manipulation Exposed: They Are Shorting MicroStrategy to ZERO?!](https://www.youtube.com/watch?v=1F6cfLhP9_A)**
 
-Bitcoin #Crypto #Finance Bitcoin accumulation is approaching extreme levels at the same time cracks are beginning to show ...
+Bitcoin did not just crash. It may have been engineered. From Terra's collapse to a $19 billion liquidation event and the sudden ...
 
-📺 The Wolf Of All Streets
+📺 Simply Bitcoin
 
-👁️ 19K • 👍 1K • 💬 141 • ⏱️ 29:33 • 9h ago
-
----
-
-**[Why Bitcoin Volatility Is the BULL Case](https://www.youtube.com/watch?v=eMZxngkiK_o)**
-
-Matt Cole is the CEO of Strive Asset Management, and Jeff Park is a Partner & Chief Investment Officer at ProCap Financial.
-
-📺 Anthony Pompliano
-
-👁️ 4K • 👍 248 • 💬 3 • ⏱️ 20:29 • 1h ago
-
----
-
-**[Bitcoin climbs toward $70,000 level as U.S. equities rise: CNBC Crypto World](https://www.youtube.com/watch?v=RB6VV7DkZjY)**
-
-On today's episode of CNBC Crypto World, bitcoin is on pace to break a multi-week losing streak. Also, Trump family-backed ...
-
-📺 CNBC Television
-
-👁️ 4K • 👍 89 • 💬 31 • ⏱️ 12:55 • 3h ago
+👁️ 11K • 👍 2K • 💬 83 • ⏱️ 15:03 • 3h ago
 
 ---
 
@@ -345,27 +329,47 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 7K • 👍 447 • 💬 33 • ⏱️ 25:16 • 5h ago
+👁️ 8K • 👍 456 • 💬 35 • ⏱️ 25:16 • 8h ago
 
 ---
 
-**[Michael Saylor Reveals Why Bitcoin Is Actually Crashing](https://www.youtube.com/watch?v=uXCubgUQ7tY)**
+**[Bitcoin Accumulation ERUPTS As The Financial System Cracks! Supply Shock Incoming?](https://www.youtube.com/watch?v=hZLsPjR1-t0)**
 
-Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
+Bitcoin #Crypto #Finance Bitcoin accumulation is approaching extreme levels at the same time cracks are beginning to show ...
 
-📺 Altcoin Daily
+📺 The Wolf Of All Streets
 
-👁️ 45K • 👍 2K • 💬 118 • ⏱️ 9:37 • 1d ago
+👁️ 21K • 👍 1K • 💬 176 • ⏱️ 29:33 • 11h ago
 
 ---
 
-**[holy **ck - now we know what&#39;s DESTROYING Bitcoin](https://www.youtube.com/watch?v=-y2K3E5JAg8)**
+**[Bitcoin Price Scandal Exposed](https://www.youtube.com/watch?v=KPXIHlchqGw)**
+
+Drew takes a look a the latest manipulation that has happened recently with Bitcoin's price action. Is there a guilty party?
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 173 • 💬 26 • ⏱️ 9:33 • 2h ago
+
+---
+
+**[Bitcoin climbs toward $70,000 level as U.S. equities rise: CNBC Crypto World](https://www.youtube.com/watch?v=RB6VV7DkZjY)**
+
+On today's episode of CNBC Crypto World, bitcoin is on pace to break a multi-week losing streak. Also, Trump family-backed ...
+
+📺 CNBC Television
+
+👁️ 7K • 👍 115 • 💬 62 • ⏱️ 12:55 • 5h ago
+
+---
+
+**[something VIOLENTLY BIG is about to happen to Bitcoin  . . .](https://www.youtube.com/watch?v=hKdeqFdYMOQ)**
 
 Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
 
 📺 Tyler S
 
-👁️ 22K • 👍 1K • 💬 296 • ⏱️ 13:40 • 1d ago
+👁️ 15K • 👍 988 • 💬 184 • ⏱️ 10:03 • 9h ago
 
 ---
 
@@ -375,37 +379,37 @@ Bitcoin is up 8% today. Ethereum up 12%. So why are insiders fleeing? At least 8
 
 📺 Dana Love, PhD
 
-👁️ 403 • 👍 10 • 💬 2 • ⏱️ 1:05 • 3h ago
+👁️ 576 • 👍 14 • 💬 2 • ⏱️ 1:05 • 5h ago
 
 ---
 
-**[Michael Saylor Reveals the Pattern Behind Bitcoin’s Crash!](https://www.youtube.com/watch?v=eWLncwZY2QQ)**
+**[We Just Entered &quot;CRASH STAGE 4&quot; (Is $35,000 Bitcoin Next?)](https://www.youtube.com/watch?v=a6nl9j0ufS4)**
 
-Bitcoin is down 45% from its all-time high as AI disruption rattles global markets and uncertainty hits record levels. With weekly ...
+Bitcoin just fell below $65K and $230 million in longs were wiped in an hour. Bears are calling for $35K while Michael Saylor and ...
 
-📺 Swan Bitcoin
+📺 Simply Bitcoin
 
-👁️ 56K • 👍 2K • 💬 209 • ⏱️ 19:02 • 1d ago
-
----
-
-**[Bitcoin Is Being Repriced by AI](https://www.youtube.com/watch?v=DnT8bUl_DM8)**
-
-Get my free guide to building a tax-free bitcoin income stream: https://link.1markmoss.com/hqXt3 There's a rotation starting that ...
-
-📺 Mark Moss
-
-👁️ 74K • 👍 3K • 💬 463 • ⏱️ 15:47 • 1d ago
+👁️ 31K • 👍 2K • 💬 224 • ⏱️ 16:07 • 2d ago
 
 ---
 
-**[Something Big is About to Happen to Bitcoin (and may have an OPPOSITE effect)](https://www.youtube.com/watch?v=gshvpBDiTd8)**
+**[Michael Saylor Reveals Why Bitcoin Is Actually Crashing](https://www.youtube.com/watch?v=uXCubgUQ7tY)**
 
-Something big is about to happen to bitcoin and may have an opposite effect, contrary to what many people expect. We explain ...
+Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
 
-📺 Alessio Rastani
+📺 Altcoin Daily
 
-👁️ 58K • 👍 3K • 💬 550 • ⏱️ 17:51 • 2d ago
+👁️ 46K • 👍 2K • 💬 118 • ⏱️ 9:37 • 1d ago
+
+---
+
+**[TRUMP FAMILY DUMPING THEIR BITCOIN?](https://www.youtube.com/watch?v=v5_6SsAxDwY)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+
+📺 Discover Crypto
+
+👁️ 42K • 👍 280 • 💬 65 • ⏱️ 0:11 • 2d ago
 
 ---
 

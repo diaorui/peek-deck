@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-25T23:56:14.320808+00:00'
+updated: '2026-02-26T02:12:26.956412+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 25, 2026 at 23:56 UTC  
+**Last Updated:** February 26, 2026 at 02:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-10h ago
+13h ago
 
 ---
 
@@ -44,7 +44,15 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-6h ago
+8h ago
+
+---
+
+**[I built a body for GPT](https://www.reddit.com/r/robotics/comments/1resqdo/i_built_a_body_for_gpt/)**
+
+Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
+
+3h ago
 
 ---
 
@@ -56,11 +64,17 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 ---
 
-**[I built a body for GPT](https://www.reddit.com/r/robotics/comments/1resqdo/i_built_a_body_for_gpt/)**
+**[Mobile Climbing Robot for the AS/RS & 3PL](https://www.reddit.com/r/robotics/comments/1rejkqz/mobile_climbing_robot_for_the_asrs_3pl/)**
 
-Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
+Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-1h ago
+8h ago
+
+---
+
+**[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
+
+8h ago
 
 ---
 
@@ -68,21 +82,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-12h ago
-
----
-
-**[Mobile Climbing Robot for the AS/RS & 3PL](https://www.reddit.com/r/robotics/comments/1rejkqz/mobile_climbing_robot_for_the_asrs_3pl/)**
-
-Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
-
-6h ago
-
----
-
-**[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
-
-5h ago
+15h ago
 
 ---
 
@@ -92,19 +92,19 @@ Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimbe
 
 ---
 
-**[Industrial Inspection Is Still Often Pen and Paper](https://www.reddit.com/r/robotics/comments/1rega3c/industrial_inspection_is_still_often_pen_and_paper/)**
+**[Self growing modular robots](https://www.reddit.com/r/robotics/comments/1rex78v/self_growing_modular_robots/)**
 
-ANYbotics CEO Péter Fankhauser describes visiting offshore wind and oil facilities expecting highly automated, fully digitized operations. Instead, he found inspection data being written down on paper. Logs stored and never reviewed. Manual restarts that were never automated because the retrofit would be too complex. Teams collecting data that never reached the people who needed it. His take is that the distance between state-of-the-art robotics research and day-to-day industrial practice remains significant.
+Researchers created modular robots that can add or remove parts to change shape, repair themselves or improve performance.
 
-8h ago
+🔗 [youtube.com](https://youtube.com/shorts/A2hh1z75Tr8?feature=share) • 16m ago
 
 ---
 
-**[I want to get into robotics](https://www.reddit.com/r/robotics/comments/1reu3uq/i_want_to_get_into_robotics/)**
+**[I saw this showroom in NYC has companion dolls with robotic features and AI language model](https://www.reddit.com/r/robotics/comments/1rex1rv/i_saw_this_showroom_in_nyc_has_companion_dolls/)**
 
-Hello, i’ve been wanting to learn robotic for quite a while but i don’t know where to start. I am not good at maths and i don’t think ill get into the university i want so id love to be self taught in this domain.
+Here's an article about the this I found in the NY Post. I visited this showroom last month when I was in NYC and the owner told me that next month they will be featuring a full animetronic head that will be compatible with your existing doll body. The head has full facial expressions and can talk with it's LLM. Some of the robotic features I saw were internal body heating system, moving eyes, breathing chest and some other gimmiky things. It's pretty cool actually. I say these dolls will be walking autonomously within the next 5-10 years.
 
-10m ago
+🔗 [New York Post](https://nypost.com/2025/09/06/us-news/secret-nyc-sex-doll-showroom-gives-customers-a-chance-to-get-up-close-and-personal-with-kinky-partner/) • 23m ago
 
 ---
 
@@ -116,7 +116,7 @@ Hello, i’ve been wanting to learn robotic for quite a while but i don’t know
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 3h ago
+TechCrunch • 6h ago
 
 ---
 
@@ -128,19 +128,19 @@ The Conversation • 1d ago
 
 ---
 
-**[China’s kung fu robots are a wake-up call for the West](https://www.telegraph.co.uk/business/2026/02/22/chinas-kung-fu-robots-are-a-wake-up-call-for-the-west/)**
+**[7 Next-Gen Chinese Humanoid Robots: From ‘Kung Fu’ Spectacles to Factory Workhorses](https://www.eweek.com/news/7-next-gen-chinese-humanoid-robots-2026/)**
 
-The race to dominate physical AI is under way, and Beijing may already have the upper hand
+China’s humanoid robot makers are scaling fast in 2026, led by Unitree and AgiBot, as the market shifts from viral demos to commercial deployment.
 
-The Telegraph • 3d ago
+eWeek • 1d ago
 
 ---
 
-**[Video: Unitree’s G1 humanoid robots perform synchronized Kung Fu at Chinese temple](https://interestingengineering.com/ai-robotics/synchronized-robot-kung-fu-chinese-temple)**
+**[Humanoid robots steal show at festival gala](https://www.chinadaily.com.cn/a/202602/25/WS699e579ca310d6866eb3a24f.html)**
 
-Unitree’s G1 robots performed synchronized martial arts, including punches, kicks, and flips at a Beijing landmark.
+Breakthroughs in motion control and cluster technology take center stage.
 
-Interesting Engineering • 2d ago
+China Daily • 1d ago
 
 ---
 
@@ -148,31 +148,7 @@ Interesting Engineering • 2d ago
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 2h ago
-
----
-
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
-
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
-
-Los Angeles Times • 12h ago
-
----
-
-**[Denver elementary school uses robotics to build future problem-solvers](https://www.9news.com/article/news/education/samuels-elementary-school-denver-robotics-program/73-6ec745bd-3089-4edb-aa22-a7373e686aa5)**
-
-At Samuels Elementary, a thriving robotics program nurtures resilience and creativity, empowering students to embrace limitless possibilities.
-
-9News • 54m ago
-
----
-
-**[After Galgotias, a moment of reflection for India’s robotics ambitions](https://www.thehindu.com/education/after-galgotias-a-moment-of-reflection-for-indias-robotics-ambitions/article70670336.ece)**
-
-Explore how India can transform grassroots robotics talent into a robust economy, leveraging education, innovation, and local manufacturing.
-
-The Hindu • 1d ago
+CNBC • 4h ago
 
 ---
 
@@ -181,6 +157,30 @@ The Hindu • 1d ago
 Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
 TribLIVE.com • 1d ago
+
+---
+
+**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+
+AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+
+Los Angeles Times • 15h ago
+
+---
+
+**[Denver elementary school uses robotics to build future problem-solvers](https://www.9news.com/article/news/education/samuels-elementary-school-denver-robotics-program/73-6ec745bd-3089-4edb-aa22-a7373e686aa5)**
+
+At Samuels Elementary, a thriving robotics program nurtures resilience and creativity, empowering students to embrace limitless possibilities.
+
+9News • 3h ago
+
+---
+
+**[After Galgotias, a moment of reflection for India’s robotics ambitions](https://www.thehindu.com/education/after-galgotias-a-moment-of-reflection-for-indias-robotics-ambitions/article70670336.ece)**
+
+Explore how India can transform grassroots robotics talent into a robust economy, leveraging education, innovation, and local manufacturing.
+
+The Hindu • 1d ago
 
 ---
 
@@ -196,33 +196,23 @@ The Boston Globe • 1d ago
 
 ## YouTube Videos: "robotics"
 
-**[China Unveils Its First Robot Army That Will Change the Future of Warfare](https://www.youtube.com/watch?v=8A-jwqhLcV8)**
-
-China has unveiled its first fully integrated robot army, a development that signals a dramatic shift in the future of modern warfare.
-
-📺 Carros Show
-
-👁️ 33K • 👍 514 • 💬 151 • ⏱️ 8:38 • 4d ago
-
----
-
 **[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
 
 📺 NBC Bay Area
 
-👁️ 42K • 👍 827 • 💬 437 • ⏱️ 7:18 • 1d ago
+👁️ 47K • 👍 935 • 💬 485 • ⏱️ 7:18 • 1d ago
 
 ---
 
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+**[China Unveils Its First Robot Army That Will Change the Future of Warfare](https://www.youtube.com/watch?v=8A-jwqhLcV8)**
 
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+China has unveiled its first fully integrated robot army, a development that signals a dramatic shift in the future of modern warfare.
 
-📺 10 News
+📺 Carros Show
 
-👁️ 332K • 👍 4K • 💬 3K • ⏱️ 3:42 • 6d ago
+👁️ 33K • 👍 516 • 💬 151 • ⏱️ 8:38 • 4d ago
 
 ---
 
@@ -236,13 +226,23 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 ---
 
+**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
+
+Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
+
+📺 10 News
+
+👁️ 332K • 👍 4K • 💬 3K • ⏱️ 3:42 • 6d ago
+
+---
+
 **[24 humanoid robots performed martial arts at this China festival. #ai #robot #china](https://www.youtube.com/watch?v=F6kZKK_VPvU)**
 
 China's Spring Festival Gala stunned the world as 24 humanoid robots performed martial arts, backflips, nunchaku and parkour ...
 
 📺 zurihassan
 
-👁️ 120K • 👍 3K • 💬 191 • ⏱️ 1:44 • 6d ago
+👁️ 125K • 👍 3K • 💬 193 • ⏱️ 1:44 • 6d ago
 
 ---
 
@@ -262,27 +262,17 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 106K • 👍 2K • 💬 248 • ⏱️ 14:16 • 3d ago
+👁️ 108K • 👍 2K • 💬 253 • ⏱️ 14:16 • 3d ago
 
 ---
 
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
 
-📺 Julia McCoy
+📺 DPCcars
 
-👁️ 81K • 👍 3K • 💬 837 • ⏱️ 14:51 • 5d ago
-
----
-
-**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
-
-AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
-
-📺 The AI Nexus
-
-👁️ 2K • 👍 131 • 💬 11 • ⏱️ 21:45 • 1d ago
+👁️ 91K • 👍 488 • 💬 253 • ⏱️ 2:14 • 4d ago
 
 ---
 
@@ -292,7 +282,17 @@ Unitree Robotics is plotting an aggressive expansion following its viral showing
 
 📺 Kalil 4.0
 
-👁️ 49K • 👍 878 • 💬 307 • ⏱️ 11:04 • 5d ago
+👁️ 49K • 👍 880 • 💬 308 • ⏱️ 11:04 • 6d ago
+
+---
+
+**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
+
+AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
+
+📺 The AI Nexus
+
+👁️ 3K • 👍 136 • 💬 11 • ⏱️ 21:45 • 1d ago
 
 ---
 
