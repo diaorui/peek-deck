@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-26T22:35:15.520609+00:00'
+updated: '2026-02-26T23:31:27.352005+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 26, 2026 at 22:35 UTC  
+**Last Updated:** February 26, 2026 at 23:31 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
-6h ago
+7h ago
 
 ---
 
@@ -89,13 +89,13 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 Currencies like the dollar have value because powerful governments say that they do. If the US government said today that the dollar was worthless, nobody would accept it anymore. Bitcoin works in the exact opposite way. It's democratized money. This means that no single country or group has control over it. If any government says that they don't like Bitcoin, which many have, it doesn't matter. Bitcoin is decentralized, so there are thousands of nodes and Bitcoin miners all over the world securing the network and making sure that anyone, anywhere can trade Bitcoin. So while traditional currencies are backed by governments, Bitcoin is backed by the people. I hope i educated him enough.
 
-8h ago
+9h ago
 
 ---
 
 **[All money is money](https://www.reddit.com/r/Bitcoin/comments/1rfk4kg/all_money_is_money/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Currencies like the dollar have value because powerful governments say that they
 
 Be careful plebs, they want your bitcoin!
 
-2h ago
+3h ago
 
 ---
 
@@ -111,7 +111,7 @@ Be careful plebs, they want your bitcoin!
 
 2011: -93% 2015: -86% 2018: -84% 2022: -77% Every cycle, the drawdown gets smaller as the market matures. If BTC follows this trend, the 2026 bottom should be around -70% from the $126K ATH. That puts us at $38K. At the moment It costs $87,000 to produce one Bitcoin and the current price is $65,000. So, miners are losing money on every single coin they mine. This only happens during bear markets. In 2022, Bitcoin dropped below its production cost in June. People called the bottom but the actual bottom was 5 months later in November at $15,800 after miners were forced to sell everything they had just to keep the lights on. The pattern has always been the same. Price drops below production cost. Miners start selling reserves to survive. Selling pressure pushes price lower. Weaker miners go bankrupt. Their creditors liquidate the remaining Bitcoin. More selling. More pain. Then the bottom. We are in the selling reserves phase. The bankruptcy phase has not even started. Of course, things could be different this time. In my opinion BTC is going LOWER Ill be DCAing sub 50k
 
-12h ago
+13h ago
 
 ---
 
@@ -119,7 +119,7 @@ Be careful plebs, they want your bitcoin!
 
 https://preview.redd.it/dj4slsvwfwlg1.png?width=1234&format=png&auto=webp&s=9f76d69777638172571d4bf6ebe8642dbbad919c TLDR: Even at 15% APR with 30% down, buying Bitcoin upfront on a loan beats DCA 67-89% of the time depending on the term length. But only if you don't get liquidated. I posted a similar idea on this sub a few months ago and got roasted. I got humbled and looked at the data. For every month from Jan 2016 to Feb 2026, I compared two strategies using the same total dollar outlay. Strategy A: put 30% down, borrow the rest at 15% APR, buy all BTC upfront, repay monthly. Strategy B: take that same total cash and DCA it over the same period. DCA actually gets more dollars to deploy because it includes interest payments. The loan still wins the majority of the time. The longer the term, the wider the gap. At 1 year the loan wins 67% of the time. At 5 years, 89%. Now the part that matters. I also simulated what happens with traditional crypto lenders. If BTC drops 50%+ from your entry price, they force-sell your Bitcoin to cover the loan. Everyone in my last post was right to bring up this crash risk. The periods where liquidation gets triggered are almost always ones where you bought near a top and DCA would have been the better play anyway. You already timed it badly. Liquidation just makes it permanent by selling your BTC at the worst possible moment instead of letting you hold through the recovery. A mate of mine went through exactly this in 2022 with a B2X on Ledn. BTC dropped, hit the liquidation threshold, Bitcoin gone. Your typical mortgage lender in tradfi doesn't repossess your house because prices dipped. But that's exactly how crypto lending works today. Liquidation makes bad timing permanent. And I think that's a design problem. I built a backtesting tool so you can test this with whatever assumptions you want. Code is open source. What if there was a loan product that worked like a mortgage? The data makes me think there's something here but the last post made it seem like nobody wants this. Genuinely curious what the sub thinks.
 
-1h ago
+2h ago
 
 ---
 
@@ -127,7 +127,7 @@ https://preview.redd.it/dj4slsvwfwlg1.png?width=1234&format=png&auto=webp&s=9f76
 
 https://x.com/1914ad/status/2026757796390449382?s=46 TLDR: Every 10am (NYC time) Jane Street would start dumping BTC because they earned money every time its price fell. They extracted over $4.2B through market manipulation.
 
-8h ago
+9h ago
 
 ---
 
@@ -135,7 +135,7 @@ https://x.com/1914ad/status/2026757796390449382?s=46 TLDR: Every 10am (NYC time)
 
 a few years ago, I bought Bitcoin at 20k, I sold at 70k. I just wanted to inform new buyers and ppl that are thinking about this now... hold that shi, this coin can do so much for you investing. I've seen on so many forums that it's crashing it's gonna skyrocket yada yada... don't stalk it where it's price is, hold it long. I could have made thousands more than I did if I held it longer to over 100k dollars. welcome to the club, I'm glad to be back in:)
 
-21h ago
+22h ago
 
 ---
 
@@ -143,7 +143,7 @@ a few years ago, I bought Bitcoin at 20k, I sold at 70k. I just wanted to inform
 
 Fear & Greed: 16. Lowest RSI ever on weekly. $3.8B in ETF outflows. Timeline says crypto is dead. Meanwhile BlackRock is casually scooping $78M like nothing happened. Every bear market has a moment where institutions and retail completely diverge. This might be it. Or maybe BlackRock is wrong and your favorite CT influencer is right. DYOR.
 
-8h ago
+9h ago
 
 ---
 
@@ -151,7 +151,7 @@ Fear & Greed: 16. Lowest RSI ever on weekly. $3.8B in ETF outflows. Timeline say
 
 I’ve been around long enough to remember when the focus was almost entirely on self custody and sovereignty. Running a node. Holding your own keys. Opting out of the system. That felt like the point. Now most of the headlines are about ETFs, institutional flows, and large custodians holding significant supply. It seems like a lot of people just want exposure in a brokerage account instead of managing seed phrases themselves. I totally get it, it’s easier, safer for many, and probably necessary for broader adoption. But I sometimes wonder: if Bitcoin ends up primarily held and custodied by large financial institutions, integrated into traditional markets, is that still the same movement it started as? Maybe this is just maturation. Maybe sovereignty at scale looks different than we imagined. Not trying to be negative, genuinely curious how others think about this.
 
-5h ago
+6h ago
 
 ---
 
@@ -161,19 +161,19 @@ I’ve been around long enough to remember when the focus was almost entirely on
 
 **[Opinion | Crypto Is Pointless. Not Even the White House Can Fix That.](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
 **[Bitcoin Miner Tied to Trump Family Pummeled by Crypto Crash](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-tied-to-trump-family-pummeled-by-crypto-crash)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
 **[Trump Brothers’ Bitcoin Miner Posts Quarterly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-26-2026/card/trump-brothers-bitcoin-miner-posts-quarterly-loss-vnJNFk9Ig28NkJ1Pb2iv?gaa_at=eafs&gaa_n=AWEtsqeZ01PVp_rC91pMcfas47vPWu6WlsjtThTiFXrVMN-bFmqW3yu7fuKM&gaa_ts=69a0cdbb&gaa_sig=hpceE07TMHXY94koTC53YOPM9dtAUx9ovs_ZchX39-KKvLS9Rz20w9Fukzg_iOl7V52pfoaUKdulOZN2srL8Qg%3D%3D)**
 
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
@@ -181,7 +181,7 @@ WSJ • 13h ago
 
 The company now holds over 6,000 BTC, with roughly one-third acquired through mining and two-thirds through open-market purchases and strategic transactions.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -189,13 +189,13 @@ CoinDesk • 9h ago
 
 Every slump needs a scapegoat.
 
-Fortune • 1h ago
+Fortune • 2h ago
 
 ---
 
 **[Bitcoin Miner MARA, Starwood Partner to Develop AI Data Centers](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-mara-starwood-partner-to-develop-ai-data-centers)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -211,13 +211,13 @@ CNBC • 1d ago
 
 The bill seeks to open up crypto investment options for public retirement plans and protect digital asset activities on an individual level.
 
-The Block • 16h ago
+The Block • 17h ago
 
 ---
 
 **[Bitcoin Price Rose Close to $70,000. What Nvidia Earnings Mean for Cryptos.](https://www.barrons.com/articles/bitcoin-price-cryptos-nvidia-xrp-9c7904fa?gaa_at=eafs&gaa_n=AWEtsqeKPfd7HKDiFqziFcOxiqS090KxXV-GbfUweO9627X0zNU3J1pA_1y6&gaa_ts=69a0cdbb&gaa_sig=bRjUqY6PZDQxJxTgnXnUmT01pbEZw5awMm7h8IZkwvWOc0GhNC0VqnVoWdgGoofHmnBkJCi6BOneJs09C8EGwg%3D%3D)**
 
-Barron's • 11h ago
+Barron's • 12h ago
 
 ---
 
@@ -235,7 +235,7 @@ CoinDesk • 17h ago
 
 **[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
 
-⬆️ 9 • 💬 3 • 23h ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+⬆️ 9 • 💬 3 • 1d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
 
 ---
 
@@ -255,7 +255,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 **[Fix the money, fix the world: Bitcoin as techno-libertarian religion](https://news.ycombinator.com/item?id=47165953)**
 
-⬆️ 2 • 💬 0 • 8h ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
+⬆️ 2 • 💬 0 • 9h ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
 
 ---
 
@@ -263,7 +263,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
 
-⬆️ 2 • 💬 0 • 21h ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
+⬆️ 2 • 💬 0 • 22h ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
 
 ---
 
@@ -285,7 +285,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
 
-⬆️ 1 • 💬 0 • 4h ago • [GitHub](https://github.com/pyoneerC/deadhand)
+⬆️ 1 • 💬 0 • 5h ago • [GitHub](https://github.com/pyoneerC/deadhand)
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin ripped into a relief rally after sweeping range lows, liquidating a wave
 
 📺 Crypto Banter
 
-👁️ 19K • 👍 1K • 💬 31 • ⏱️ 34:54 • 7h ago
+👁️ 19K • 👍 1K • 💬 31 • ⏱️ 34:54 • 8h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Into 
 
 📺 Aaron Bennett
 
-👁️ 29K • 👍 1K • 💬 179 • ⏱️ 8:26 • 19h ago
+👁️ 29K • 👍 1K • 💬 179 • ⏱️ 8:26 • 20h ago
 
 ---
 
@@ -345,7 +345,7 @@ Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 30K • 👍 2K • 💬 119 • ⏱️ 12:57 • 8h ago
+👁️ 30K • 👍 2K • 💬 119 • ⏱️ 12:57 • 9h ago
 
 ---
 
@@ -355,7 +355,7 @@ WEEX: https://themoon.co/DailyWEEX UP TO $30000 BONUS BLOFIN: https://themoon.co
 
 📺 The Moon Show
 
-👁️ 5K • 👍 328 • 💬 12 • ⏱️ 10:56 • 7h ago
+👁️ 5K • 👍 328 • 💬 12 • ⏱️ 10:56 • 8h ago
 
 ---
 
@@ -383,7 +383,7 @@ Get my free guide to building a tax-free bitcoin income stream: https://link.1ma
 
 📺 Andrei Jikh
 
-👁️ 16K • 👍 702 • 💬 42 • ⏱️ 1:18 • 5h ago
+👁️ 16K • 👍 702 • 💬 42 • ⏱️ 1:18 • 6h ago
 
 ---
 
@@ -393,7 +393,7 @@ Drew takes a look a the latest manipulation that has happened recently with Bitc
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 383 • 💬 82 • ⏱️ 9:33 • 22h ago
+👁️ 8K • 👍 383 • 💬 82 • ⏱️ 9:33 • 23h ago
 
 ---
 

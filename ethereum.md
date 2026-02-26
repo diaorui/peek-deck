@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-26T22:35:15.526606+00:00'
+updated: '2026-02-26T23:31:27.358200+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
 - cryptocurrency
+- videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 26, 2026 at 22:35 UTC  
+**Last Updated:** February 26, 2026 at 23:31 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ Most people know ERC-20 from 2017+ culture, but the design constraints were visi
 
 EF Protocol publishes Strawmap, a technical strawman roadmap that visualizes Ethereum L1 upgrades through 2029, framing dependencies, headliners, & five long-term north stars.
 
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 16h ago
+🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 17h ago
 
 ---
 
@@ -156,7 +156,7 @@ One variable that changed for me is "stable era mindset vs chaotic era mindset".
 
 The rally marks one of the strongest single-day rebounds in weeks, snapping a steady slide that had pushed bitcoin down sharply from its October highs.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ The Block • 23h ago
 
 The move follows investor exits, asset sales and a retreat from holding Ethereum on the public company's balance sheet.
 
-Decrypt • 18h ago
+Decrypt • 19h ago
 
 ---
 
@@ -180,7 +180,7 @@ CoinDesk • 2h ago
 
 Vitalik Buterin proposed what he called a quantum roadmap on Thursday.  He wants to update the cryptography that secures the blockchain. At least one change could make its way into an Ethereum upgrade this year.
 
-dlnews.com • 8m ago
+dlnews.com • 1h ago
 
 ---
 
@@ -218,7 +218,7 @@ Barron's • 2d ago
 
 Imagine watching $80 million evaporate from your balance sheet because you bought the top of the market. That is the brutal reality facing FG Nexus right now. On February 25, 2026, the FG Nexus Ethereum treasury firm dumped another 7,550 ETH onto the market, locking in massive crypto losses just as…
 
-TradingView • 12h ago
+TradingView • 13h ago
 
 ---
 
@@ -240,7 +240,7 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 📺 Thomas Kralow
 
-👁️ 24K • 👍 3K • 💬 47 • ⏱️ 5:59 • 13h ago
+👁️ 24K • 👍 3K • 💬 47 • ⏱️ 5:59 • 14h ago
 
 ---
 
@@ -260,7 +260,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 32K • 👍 2K • 💬 249 • ⏱️ 13:38 • 20h ago
+👁️ 32K • 👍 2K • 💬 249 • ⏱️ 13:38 • 21h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 114 • 💬 8 • ⏱️ 4:58 • 5h ago
+👁️ 1K • 👍 114 • 💬 8 • ⏱️ 4:58 • 6h ago
 
 ---
 
@@ -280,7 +280,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 217 • 👍 21 • 💬 2 • ⏱️ 14:30 • 4h ago
+👁️ 217 • 👍 21 • 💬 2 • ⏱️ 14:30 • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ Brian from Santiment joined me to review the Onchain metrics for the crypto mark
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 142 • 💬 53 • ⏱️ 23:27 • 8h ago
+👁️ 2K • 👍 142 • 💬 53 • ⏱️ 23:27 • 9h ago
 
 ---
 
@@ -310,7 +310,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 122 • 💬 3 • ⏱️ 4:33 • 10h ago
+👁️ 2K • 👍 122 • 💬 3 • ⏱️ 4:33 • 11h ago
 
 ---
 
@@ -320,7 +320,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 183 • 👍 13 • 💬 3 • ⏱️ 4:21 • 12h ago
+👁️ 183 • 👍 13 • 💬 3 • ⏱️ 4:21 • 13h ago
 
 ---
 

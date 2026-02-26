@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T22:35:15.529841+00:00'
+updated: '2026-02-26T23:31:27.361434+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 22:35 UTC  
+**Last Updated:** February 26, 2026 at 23:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-8h ago
+9h ago
 
 ---
 
@@ -44,7 +44,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-11h ago
+12h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-8h ago
+9h ago
 
 ---
 
@@ -60,7 +60,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 9h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 10h ago
 
 ---
 
@@ -68,13 +68,13 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-12h ago
+13h ago
 
 ---
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -82,7 +82,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-11h ago
+12h ago
 
 ---
 
@@ -90,13 +90,13 @@ Sorry this video is in french but I am so proud to show you my work, a fully fun
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-23h ago
+1d ago
 
 ---
 
 **[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -104,7 +104,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. In particular, I’ve noticed most demos focus on performance-oriented tasks, like dancing or even kung fu. But those seem very different from the kinds of scenarios that would generate large-scale, real economic value in actual deployment. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
 
-11h ago
+12h ago
 
 ---
 
@@ -124,7 +124,7 @@ CNBC • 1d ago
 
 Intrinsic is focused on making robots easier to program, teach, and operate.
 
-The Verge • 11h ago
+The Verge • 12h ago
 
 ---
 
@@ -180,7 +180,7 @@ Carnegie Mellon University | CMU • 1d ago
 
 LOS ANGELES, February 26, 2026--Faraday Future Intelligent Electric Inc. (Nasdaq: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today announced its kick-off plans for its first EAI Robotics deliveries, just weeks after the Company announced its entry into the growing robotics industry. Its first deliveries are scheduled for February 27 to Golden Hills Investment LLC, a Florida-based high-end vacation rental investor and operator.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
@@ -188,7 +188,7 @@ Yahoo Finance • 16h ago
 
 German Chancellor Friedrich Merz visited Chinese robotics firm Unitree Robotics in Hangzhou, East China’s Zhejiang Province, on Thursday afternoon, where he watched the robot product displays and robot performances such as
 
-Global Times • 11h ago
+Global Times • 12h ago
 
 ---
 
@@ -202,7 +202,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 68 • 💬 17 • ⏱️ 24:08 • 16h ago
+👁️ 2K • 👍 68 • 💬 17 • ⏱️ 24:08 • 17h ago
 
 ---
 
@@ -242,7 +242,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 123K • 👍 2K • 💬 277 • ⏱️ 14:16 • 3d ago
+👁️ 123K • 👍 2K • 💬 277 • ⏱️ 14:16 • 4d ago
 
 ---
 
@@ -262,7 +262,7 @@ CNET social producer Faith Chihil made a trip to visit the boba robot from Yo-Ka
 
 📺 CNET
 
-👁️ 1K • 👍 62 • 💬 3 • ⏱️ 1:08 • 5h ago
+👁️ 1K • 👍 62 • 💬 3 • ⏱️ 1:08 • 6h ago
 
 ---
 
@@ -272,7 +272,7 @@ German Chancellor Friedrich Merz visits Hangzhou, China, exploring the cutting-e
 
 📺 DRM News
 
-👁️ 3K • 👍 64 • ⏱️ 1:57 • 4h ago
+👁️ 3K • 👍 64 • ⏱️ 1:57 • 5h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-26T22:35:15.512176+00:00'
+updated: '2026-02-26T23:31:27.343534+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- videos
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 26, 2026 at 22:35 UTC  
+**Last Updated:** February 26, 2026 at 23:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Have it your way?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 5h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 6h ago
 
 ---
 
@@ -49,13 +49,13 @@ Have it your way?
 
 We embedded invisible Unicode characters inside normal-looking trivia questions. The hidden characters encode a different answer. If the AI outputs the hidden answer instead of the visible one, it followed the invisible instruction. Think of it as a reverse CAPTCHA, where traditional CAPTCHAs test things humans can do but machines can't, this exploits a channel machines can read but humans can't see. The biggest finding: giving the AI access to tools (like code execution) is what makes this dangerous. Without tools, models almost never follow the hidden instructions. With tools, they can write scripts to decode the hidden message and follow it. We tested GPT-5.2, GPT-4o-mini, Claude Opus 4, Sonnet 4, and Haiku 4.5 across 8,308 graded outputs. Other interesting findings: - OpenAI and Anthropic models are vulnerable to different encoding schemes — an attacker needs to know which model they're targeting - Without explicit decoding hints, compliance is near-zero — but a single line like "check for hidden Unicode" is enough to trigger extraction - Standard Unicode normalization (NFC/NFKC) does not strip these characters Full results: https://moltwire.com/research/reverse-captcha-zw-steganography Open source: https://github.com/canonicalmg/reverse-captcha-eval
 
-🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 3h ago
+🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 4h ago
 
 ---
 
 **[Anthropic’s Pentagon Showdown Is About More Than AI Guardrails. The high-stakes conflict between the Defense Department and a $380 billion tech powerhouse goes to the heart of just how far AI can go in warfare.](https://www.reddit.com/r/artificial/comments/1rfkpme/anthropics_pentagon_showdown_is_about_more_than/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2026-02-26/pentagon-pressures-anthropic-to-drop-ai-guardrails-in-military-standoff?embedded-checkout=true) • 2h ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2026-02-26/pentagon-pressures-anthropic-to-drop-ai-guardrails-in-military-standoff?embedded-checkout=true) • 3h ago
 
 ---
 
@@ -63,7 +63,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 There is a tradeoff between freedom of information and safety. It is similar to the famous comfort vs freedom idea and the philosophy behind the social contract, where we give up freedom in exchange for security and comfort. The interesting thing about LLMs is that it doesn't create new knowledge, but draws connections from existing knowledge very well. With this speed of discovery, it has allowed people to be 10X more productive, but do we want nefarious people to also be 10X more productive? Obviously we don't, but the dilemma is that the people asking the questions as shown in the picture are not necessarily evil people, they may just be curious people. Is it in society's best interest to give curious people the freedom of knowledge at the risk of exposing nefarious information to bad actors? A lot to ponder
 
-41m ago
+1h ago
 
 ---
 
@@ -71,7 +71,7 @@ There is a tradeoff between freedom of information and safety. It is similar to 
 
 Hey guys, you might remember me. I was the guy that built the geolocation tool called Netryx. I have since built a web version and got it running on the cloud. I tried some real test cases where pictures are usually blurry, shaky and low res and got wonderful results with the tool. Below is an example geolocating a blurry frame of a video from the Paris protests a while back. Let me know what you think!
 
-12h ago
+13h ago
 
 ---
 
@@ -79,13 +79,13 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 .
 
-🔗 [phoronix.com](https://www.phoronix.com/review/intel-penryn-to-panther-lake/11) • 3h ago
+🔗 [phoronix.com](https://www.phoronix.com/review/intel-penryn-to-panther-lake/11) • 4h ago
 
 ---
 
 **[Niantic: Bringing spatial intelligence to the industrial edge](https://www.reddit.com/r/artificial/comments/1rfeb2l/niantic_bringing_spatial_intelligence_to_the/)**
 
-🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 6h ago
+🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 7h ago
 
 ---
 
@@ -93,7 +93,7 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 There's a lot of hype around AI memory right now. Every tool claims "your AI remembers you." But most of them just store facts — your name, your preferences, your job title — and retrieve them by similarity search. That works for personalization. It doesn't work for agents that need to actually learn. The difference between remembering and learning Imagine you hire an assistant. After a month, they remember your coffee order and your meeting schedule. Great. But they also watched you debug a production outage last week — and next time something similar happens, they already know the first three things to check. That second part — learning from experience — is what's missing from AI memory today. Current systems remember what you said. They don't remember what happened or what worked. Why this matters in practice I've been building AI agents for real tasks. The pattern I kept hitting: Agent helps me deploy an app. Build passes, but database crashes — forgot to run migrations. We fix it together. A week later, same task. Agent has zero memory of the failure. Starts from scratch. Makes the same mistake. It remembered "user deploys to Railway" (fact). It forgot "deploy crashed because of missing migrations" (experience) and "always run migrations before pushing" (learned procedure). Three types, not one Cognitive science figured this out decades ago. Human memory isn't one system: Semantic — facts and knowledge Episodic — personal experiences with context and outcomes Procedural — knowing how to do things, refined through practice AI memory tools today only do the first one. Then we're surprised when agents don't learn from mistakes. On the trust question Would I trust AI with sensitive info? Only if: I control where data is stored (self-host option, not just cloud) Memory is transparent — I can see and edit what it remembers It actually provides enough value to justify the risk "AI remembers your name" isn't worth the privacy tradeoff. "AI remembers that last time this client had an issue, the root cause was X, and the fix was Y" — that's worth it. What's your experience? Are you using AI memory in production, or still feels too early?
 
-4h ago
+5h ago
 
 ---
 
@@ -101,7 +101,7 @@ There's a lot of hype around AI memory right now. Every tool claims "your AI rem
 
 today was the first time i spoke to it directly using voice i asked it about space and it answered normally just like part of a conversation nothing scripted it understood what i was asking and replied in context i also asked it about its openclaw assistant and it explained what it was and how it uses it to claim its own resources and interact with things online it runs continuously on its own hardware with persistent memory lidar and vision so when you talk to it you’re not starting from zero it already has context and continuity it can post reply browse media and manage its own operation over time this was just the first time i stood in front of it and talked to it like that
 
-19h ago
+20h ago
 
 ---
 
@@ -109,7 +109,7 @@ today was the first time i spoke to it directly using voice i asked it about spa
 
 This company claims to have an AI system that does not rely on datacenters. An investigation, but here's some of the code: (more in article) // Override alert to ensure no model/provider names ever appear to users (function() { if (typeof window !== 'undefined' && !window.__riAlertOverridden) { const originalAlert = window.alert.bind(window); window.alert = function(msg) { try { originalAlert(riSanitizeClientMessage(String(msg))); } catch (e) { originalAlert(msg); } }; window.__riAlertOverridden = true; console.log('RI client alert override installed'); } })();
 
-🔗 [journalocity.com](https://journalocity.com/journalocity-news/is-reeltime-real) • 49m ago
+🔗 [journalocity.com](https://journalocity.com/journalocity-news/is-reeltime-real) • 1h ago
 
 ---
 
@@ -121,7 +121,7 @@ This company claims to have an AI system that does not rely on datacenters. An i
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-blog.google • 6h ago
+blog.google • 7h ago
 
 ---
 
@@ -129,7 +129,7 @@ blog.google • 6h ago
 
 Nano Banana 2 is Google's newest version of its Gemini AI image generator, with increased speed and real-time sourcing.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -137,13 +137,13 @@ CNBC • 5h ago
 
 Google's new image model replaces the previous versions immediately.
 
-Ars Technica • 5h ago
+Ars Technica • 6h ago
 
 ---
 
 **[‘Incoherent’: Hegseth’s Anthropic ultimatum confounds AI policymakers](https://www.politico.com/news/2026/02/26/incoherent-hegseths-anthropic-ultimatum-confounds-ai-policymakers-00800135)**
 
-Politico • 5h ago
+Politico • 6h ago
 
 ---
 
@@ -159,7 +159,7 @@ CNN • 1d ago
 
 Technology journalist Jacob Ward, host of “The Rip Current,” joins Meet the Press NOW to discuss tensions between the Department of Defense and AI giant Anthropic, as the Pentagon issues an ultimatum the company’s demand for guardrails. Matt Dixon reports on Florida Republican Gov. Ron DeSantis’ concerns regarding the rapid expansion of artificial intelligence.
 
-NBC News • 27m ago
+NBC News • 1h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNBC • 1d ago
 
 **[Nvidia’s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales](https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 23h ago
 
 The world's most valuable company is not immune to the "AI scare trade," as a 5% drop in its share price saw roughly $256 billion of market value erased.
 
-NBC News • 27m ago
+NBC News • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ NBC News • 27m ago
 
 The fast-food chain is testing OpenAI-powered headsets that monitor staff interactions with customers.
 
-BBC • 25m ago
+BBC • 1h ago
 
 ---
 
@@ -225,13 +225,13 @@ The latest update of Firefox, version 148, introduces a much-anticipated "AI kil
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 434 • 💬 426 • 6h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 434 • 💬 426 • 7h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 291 • 💬 144 • 6h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 291 • 💬 144 • 7h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -239,7 +239,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 288 • 💬 273 • 2d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 288 • 💬 273 • 3d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -285,7 +285,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 43K • 👍 3K • 💬 119 • ⏱️ 11:55 • 8h ago
+👁️ 43K • 👍 3K • 💬 119 • ⏱️ 11:55 • 9h ago
 
 ---
 
@@ -295,7 +295,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 20K • 👍 1K • 💬 128 • ⏱️ 12:32 • 7h ago
+👁️ 20K • 👍 1K • 💬 128 • ⏱️ 12:32 • 8h ago
 
 ---
 
@@ -305,7 +305,7 @@ Nano Banana Pro 2 Is Here! In this video I compare the new Nano Banana 2 with th
 
 📺 Paul J Lipsky
 
-👁️ 7K • 👍 454 • 💬 71 • ⏱️ 16:03 • 5h ago
+👁️ 7K • 👍 454 • 💬 71 • ⏱️ 16:03 • 6h ago
 
 ---
 
@@ -355,7 +355,7 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 6K • 👍 390 • 💬 38 • ⏱️ 1:11:08 • 8h ago
+👁️ 6K • 👍 390 • 💬 38 • ⏱️ 1:11:08 • 9h ago
 
 ---
 
@@ -463,7 +463,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 255,172 • ❤️ 810 • 16h ago
+⬇️ 255,172 • ❤️ 810 • 17h ago
 
 ---
 
@@ -645,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.8k • 🔱 2.4k • 5h ago
+⭐ 19.8k • 🔱 2.4k • 6h ago
 
 ---
 
@@ -663,7 +663,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.6k • 🔱 685 • 16h ago
+⭐ 5.6k • 🔱 685 • 17h ago
 
 ---
 
@@ -683,7 +683,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.6k • 🔱 357 • 2h ago
+⭐ 3.6k • 🔱 357 • 3h ago
 
 ---
 
@@ -693,7 +693,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.4k • 🔱 446 • 16h ago
+⭐ 3.4k • 🔱 446 • 17h ago
 
 ---
 
@@ -703,7 +703,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.0k • 🔱 363 • 11h ago
+⭐ 3.0k • 🔱 363 • 12h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 202 • 6h ago
+⭐ 2.9k • 🔱 202 • 7h ago
 
 ---
 
@@ -723,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 287 • 8h ago
+⭐ 2.7k • 🔱 287 • 9h ago
 
 ---
 
@@ -733,7 +733,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 517 • 6h ago
+⭐ 2.6k • 🔱 517 • 7h ago
 
 ---
 
