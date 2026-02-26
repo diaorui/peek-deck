@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T04:28:32.743181+00:00'
+updated: '2026-02-26T05:42:33.083800+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- videos
 - news
+- videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 04:28 UTC  
+**Last Updated:** February 26, 2026 at 05:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[SimToolReal, an RL framework for zero-shot dexterous tool manipulation.](https://www.reddit.com/r/robotics/comments/1recjdg/simtoolreal_an_rl_framework_for_zeroshot/)**
-
-Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
-
-15h ago
-
----
-
 **[I built a body for GPT](https://www.reddit.com/r/robotics/comments/1resqdo/i_built_a_body_for_gpt/)**
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-5h ago
+6h ago
+
+---
+
+**[SimToolReal, an RL framework for zero-shot dexterous tool manipulation.](https://www.reddit.com/r/robotics/comments/1recjdg/simtoolreal_an_rl_framework_for_zeroshot/)**
+
+Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
+
+16h ago
 
 ---
 
@@ -52,13 +52,13 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-10h ago
+12h ago
 
 ---
 
 **[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hello, we just open-sourced our custom waist design for openarm. We found that a
 
 Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-11h ago
+12h ago
 
 ---
 
@@ -82,7 +82,15 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-17h ago
+18h ago
+
+---
+
+**[Improving Odometry Accuracy on a Small Indoor Rover – Advice?](https://www.reddit.com/r/robotics/comments/1rf0nqj/improving_odometry_accuracy_on_a_small_indoor/)**
+
+Hey everyone, I’m working on a small autonomous indoor rover (Pi 4 + RPLIDAR + wheel encoders, running ROS2 + Nav2), and it’s navigating decently but I’m still seeing noticeable odometry drift over longer runs. I’ve calibrated the wheel encoders carefully, but the error still builds up over time. I’m considering adding sensor fusion with an IMU (EKF), but not sure if that’s the best next step. For those who’ve built similar indoor robots: What helped you most with reducing drift? Is EKF with IMU worth it on a Pi-class setup? At what point did you switch to more powerful hardware? Appreciate any advice from folks who’ve dealt with this. Thanks!
+
+1h ago
 
 ---
 
@@ -90,21 +98,13 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 Spent the past week pushing generative AI through a full robotics software stack to see where it actually breaks down. The results were surprising, not because the AI failed at writing code, but because of how it failed. Every single failure came down to the same thing: the AI has no model of physical reality. A few highlights: — Perception: nailed the MutuallyExclusiveCallbackGroup + MultiThreadedExecutor architecture for a YOLOv8 ROS2 node. Then confidently told me to mount /dev/video0 on macOS. — Planning: wrote a solid 200-line RRT* implementation. Treated the robot as a dimensionless point. When I asked it to fix the C-Space inflation, it updated the visualization but not the collision math. The path still went straight through the buffer zones. — Control: produced a textbook PID response curve. The control effort subplot showed near-infinite instantaneous torque at t=0. Derivative Kick, no output clamping, no anti-windup. Would have damaged the hardware on first run. The pattern across all three: AI has absorbed an enormous amount of robotics knowledge. What it hasn't internalized is the physical substrate those algorithms run on. Wrote this up in full if anyone wants the details: https://medium.com/@advaithsomula/vibecoding-stops-at-the-laws-of-physics-6024872572c0 Curious if others have hit similar patterns.
 
-11m ago
+1h ago
 
 ---
 
 **[Robotic electricians are being widely deployed to perform live high-voltage electrical operations in China](https://www.reddit.com/r/robotics/comments/1rdmqgo/robotic_electricians_are_being_widely_deployed_to/)**
 
 1d ago
-
----
-
-**[Self growing modular robots](https://www.reddit.com/r/robotics/comments/1rex78v/self_growing_modular_robots/)**
-
-Researchers created modular robots that can add or remove parts to change shape, repair themselves or improve performance.
-
-🔗 [youtube.com](https://youtube.com/shorts/A2hh1z75Tr8?feature=share) • 2h ago
 
 ---
 
@@ -116,7 +116,7 @@ Researchers created modular robots that can add or remove parts to change shape,
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 8h ago
+TechCrunch • 9h ago
 
 ---
 
@@ -148,7 +148,31 @@ China Daily • 1d ago
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 6h ago
+CNBC • 7h ago
+
+---
+
+**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+
+AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+
+Los Angeles Times • 18h ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
+
+NBC Bay Area • 1d ago
+
+---
+
+**[Cofounder of bankrupt robot vacuum maker iRobot says Elon Musk’s vision of robots is ‘pure fantasy’](https://fortune.com/2026/02/25/mit-roboticist-irobot-cofounder-roomba-robot-vacuum-elon-musk-tesla-optimus-pure-fantasy-thinking/)**
+
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+
+Fortune • 10h ago
 
 ---
 
@@ -160,35 +184,11 @@ TribLIVE.com • 1d ago
 
 ---
 
-**[Cofounder of bankrupt robot vacuum maker iRobot says Elon Musk’s vision of robots is ‘pure fantasy’](https://fortune.com/2026/02/25/mit-roboticist-irobot-cofounder-roomba-robot-vacuum-elon-musk-tesla-optimus-pure-fantasy-thinking/)**
+**[The human work behind humanoid robots is being hidden](https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/)**
 
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
+AI’s concealed labor has repeatedly led us to overestimate the technology. Humanoid robots are entering a similar phase.
 
-Fortune • 9h ago
-
----
-
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
-
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
-
-Los Angeles Times • 17h ago
-
----
-
-**[Denver elementary school uses robotics to build future problem-solvers](https://www.9news.com/article/news/education/samuels-elementary-school-denver-robotics-program/73-6ec745bd-3089-4edb-aa22-a7373e686aa5)**
-
-At Samuels Elementary, a thriving robotics program nurtures resilience and creativity, empowering students to embrace limitless possibilities.
-
-9News • 5h ago
-
----
-
-**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
-
-The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
-
-The Boston Globe • 1d ago
+MIT Technology Review • 2d ago
 
 ---
 
@@ -282,7 +282,7 @@ AI robots are starting to act way too human, and the latest breakthroughs prove 
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 139 • 💬 12 • ⏱️ 21:45 • 1d ago
+👁️ 3K • 👍 139 • 💬 12 • ⏱️ 21:45 • 2d ago
 
 ---
 
