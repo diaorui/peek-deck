@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T08:05:20.224990+00:00'
+updated: '2026-02-26T09:12:36.384882+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 08:05 UTC  
+**Last Updated:** February 26, 2026 at 09:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-9h ago
+10h ago
 
 ---
 
@@ -44,7 +44,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-19h ago
+20h ago
 
 ---
 
@@ -52,13 +52,13 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-14h ago
+15h ago
 
 ---
 
 **[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -66,7 +66,15 @@ Hello, we just open-sourced our custom waist design for openarm. We found that a
 
 Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-14h ago
+15h ago
+
+---
+
+**[Improving Odometry Accuracy on a Small Indoor Rover – Advice?](https://www.reddit.com/r/robotics/comments/1rf0nqj/improving_odometry_accuracy_on_a_small_indoor/)**
+
+Hey everyone, I’m working on a small autonomous indoor rover (Pi 4 + RPLIDAR + wheel encoders, running ROS2 + Nav2), and it’s navigating decently but I’m still seeing noticeable odometry drift over longer runs. I’ve calibrated the wheel encoders carefully, but the error still builds up over time. I’m considering adding sensor fusion with an IMU (EKF), but not sure if that’s the best next step. For those who’ve built similar indoor robots: What helped you most with reducing drift? Is EKF with IMU worth it on a Pi-class setup? At what point did you switch to more powerful hardware? Appreciate any advice from folks who’ve dealt with this. Thanks!
+
+4h ago
 
 ---
 
@@ -82,15 +90,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-20h ago
-
----
-
-**[Improving Odometry Accuracy on a Small Indoor Rover – Advice?](https://www.reddit.com/r/robotics/comments/1rf0nqj/improving_odometry_accuracy_on_a_small_indoor/)**
-
-Hey everyone, I’m working on a small autonomous indoor rover (Pi 4 + RPLIDAR + wheel encoders, running ROS2 + Nav2), and it’s navigating decently but I’m still seeing noticeable odometry drift over longer runs. I’ve calibrated the wheel encoders carefully, but the error still builds up over time. I’m considering adding sensor fusion with an IMU (EKF), but not sure if that’s the best next step. For those who’ve built similar indoor robots: What helped you most with reducing drift? Is EKF with IMU worth it on a Pi-class setup? At what point did you switch to more powerful hardware? Appreciate any advice from folks who’ve dealt with this. Thanks!
-
-3h ago
+22h ago
 
 ---
 
@@ -104,7 +104,7 @@ Hey everyone, I’m working on a small autonomous indoor rover (Pi 4 + RPLIDAR +
 
 Spent the past week pushing generative AI through a full robotics software stack to see where it actually breaks down. The results were surprising, not because the AI failed at writing code, but because of how it failed. Every single failure came down to the same thing: the AI has no model of physical reality. A few highlights: — Perception: nailed the MutuallyExclusiveCallbackGroup + MultiThreadedExecutor architecture for a YOLOv8 ROS2 node. Then confidently told me to mount /dev/video0 on macOS. — Planning: wrote a solid 200-line RRT* implementation. Treated the robot as a dimensionless point. When I asked it to fix the C-Space inflation, it updated the visualization but not the collision math. The path still went straight through the buffer zones. — Control: produced a textbook PID response curve. The control effort subplot showed near-infinite instantaneous torque at t=0. Derivative Kick, no output clamping, no anti-windup. Would have damaged the hardware on first run. The pattern across all three: AI has absorbed an enormous amount of robotics knowledge. What it hasn't internalized is the physical substrate those algorithms run on. Wrote this up in full if anyone wants the details: https://medium.com/@advaithsomula/vibecoding-stops-at-the-laws-of-physics-6024872572c0 Curious if others have hit similar patterns.
 
-3h ago
+4h ago
 
 ---
 
@@ -116,7 +116,7 @@ Spent the past week pushing generative AI through a full robotics software stack
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 12h ago
+TechCrunch • 13h ago
 
 ---
 
@@ -136,11 +136,11 @@ eWeek • 1d ago
 
 ---
 
-**[Humanoid robots steal show at festival gala](https://www.chinadaily.com.cn/a/202602/25/WS699e579ca310d6866eb3a24f.html)**
+**[Video: Unitree’s G1 humanoid robots perform synchronized Kung Fu at Chinese temple](https://interestingengineering.com/ai-robotics/synchronized-robot-kung-fu-chinese-temple)**
 
-Breakthroughs in motion control and cluster technology take center stage.
+Unitree’s G1 robots performed synchronized martial arts, including punches, kicks, and flips at a Beijing landmark.
 
-China Daily • 1d ago
+Interesting Engineering • 2d ago
 
 ---
 
@@ -148,15 +148,7 @@ China Daily • 1d ago
 
 The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
 
-International Federation of Robotics • 44m ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
-
-NBC Bay Area • 1d ago
+International Federation of Robotics • 1h ago
 
 ---
 
@@ -164,15 +156,15 @@ NBC Bay Area • 1d ago
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 10h ago
+CNBC • 11h ago
 
 ---
 
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
 
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
 
-Los Angeles Times • 21h ago
+TribLIVE.com • 1d ago
 
 ---
 
@@ -180,7 +172,15 @@ Los Angeles Times • 21h ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 12h ago
+Fortune • 13h ago
+
+---
+
+**[‘Check back in 15 years’: Robotics legend Rodney Brooks rejects AI hype but won’t call it a bubble](https://www.bostonglobe.com/2026/02/24/business/rodney-brooks-ai-robotics-superintelligence/)**
+
+The entrepreneur and former MIT professor thinks practical humanoid robots and superintelligence are centuries away.
+
+The Boston Globe • 1d ago
 
 ---
 
@@ -202,7 +202,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 58K • 👍 1K • 💬 550 • ⏱️ 7:18 • 1d ago
+👁️ 60K • 👍 1K • 💬 582 • ⏱️ 7:18 • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 33K • 👍 521 • 💬 151 • ⏱️ 8:38 • 4d ago
+👁️ 34K • 👍 523 • 💬 151 • ⏱️ 8:38 • 4d ago
 
 ---
 
@@ -222,27 +222,7 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 20K • 👍 354 • 💬 327 • ⏱️ 2:30 • 4d ago
-
----
-
-**[Eerie New Video Shows Chinese Robots Defeating US | 10 News+](https://www.youtube.com/watch?v=94cam_dtnW0)**
-
-Freshly released vision of Chinese Robots defeating an army with US-style Humvees, has shown the unnerving future ...
-
-📺 10 News
-
-👁️ 334K • 👍 4K • 💬 3K • ⏱️ 3:42 • 6d ago
-
----
-
-**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
-
-Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
-
-📺 DPCcars
-
-👁️ 91K • 👍 490 • 💬 255 • ⏱️ 2:14 • 5d ago
+👁️ 20K • 👍 355 • 💬 327 • ⏱️ 2:30 • 4d ago
 
 ---
 
@@ -252,7 +232,27 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 112K • 👍 2K • 💬 255 • ⏱️ 14:16 • 3d ago
+👁️ 114K • 👍 2K • 💬 257 • ⏱️ 14:16 • 3d ago
+
+---
+
+**[Unitree vs AGIBOT Kung Fu Robots Face Off in 2026](https://www.youtube.com/watch?v=tGjYiURB-yM)**
+
+Unitree and AGIBOT just stunned the world with their humanoid kung fu performances. But which robot truly leads in agility, ...
+
+📺 DPCcars
+
+👁️ 91K • 👍 493 • 💬 256 • ⏱️ 2:14 • 5d ago
+
+---
+
+**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
+
+AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
+
+📺 The AI Nexus
+
+👁️ 3K • 👍 142 • 💬 12 • ⏱️ 21:45 • 2d ago
 
 ---
 
@@ -272,27 +272,27 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 82K • 👍 3K • 💬 855 • ⏱️ 14:51 • 5d ago
+👁️ 83K • 👍 3K • 💬 856 • ⏱️ 14:51 • 5d ago
 
 ---
 
-**[FTC Top 25 | DECODE | February - Presented by Studica Robotics](https://www.youtube.com/watch?v=DHJNzojpPEg)**
+**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
 
-Congrats to all who were voted for in the FTC Top 25 by the community! In FTC Top 25 we'll count down the list, provide some Top ...
+Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
 
-📺 FUN Robotics Network
+📺 The China Show
 
-👁️ 1K • 👍 23 • ⏱️ 58:20 • 5h ago
+👁️ 205K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 5d ago
 
 ---
 
-**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
+**[Humanoid Robots Perform Martial Arts at Beijing&#39;s Temple of Heaven | Vantage with Palki Sharma |N18G](https://www.youtube.com/watch?v=IZYAKBR1QOs)**
 
-AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
+Humanoid robots developed by China's Unitree Robotics has given another impressive Chinese Kung Fu performance at the ...
 
-📺 The AI Nexus
+📺 Firstpost
 
-👁️ 3K • 👍 140 • 💬 12 • ⏱️ 21:45 • 2d ago
+👁️ 29K • 👍 345 • 💬 286 • ⏱️ 4:45 • 2d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-26T08:05:20.206981+00:00'
+updated: '2026-02-26T09:12:36.366862+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 26, 2026 at 08:05 UTC  
+**Last Updated:** February 26, 2026 at 09:12 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 today was the first time i spoke to it directly using voice i asked it about space and it answered normally just like part of a conversation nothing scripted it understood what i was asking and replied in context i also asked it about its openclaw assistant and it explained what it was and how it uses it to claim its own resources and interact with things online it runs continuously on its own hardware with persistent memory lidar and vision so when you talk to it you’re not starting from zero it already has context and continuity it can post reply browse media and manage its own operation over time this was just the first time i stood in front of it and talked to it like that
 
-4h ago
+5h ago
 
 ---
 
@@ -49,7 +49,7 @@ today was the first time i spoke to it directly using voice i asked it about spa
 
 Hello! I want to share an experiment I’ve been running. Over the past few weeks, I’ve been developing a desktop HTML first-person shooter called Zombie Slayer. The core constraint of the project is this: every line of code was generated through prompts. I never manually edited the source. For context: I have never built a 3D game before, and I’ve never programmed in HTML. I also have nearly zero coding experience. This project has been less about traditional development and more about testing the boundary conditions of prompt-driven creation. The game was built in Antigravity using Gemini 3 Pro, with Three.js handling real-time 3D rendering. All geometry is procedurally generated at runtime. Sound effects are synthesized dynamically, and the music was also generated with AI (Suno). The entire playable build is under 900KB in file size and is an easily shareable HTML file. From a systems perspective: - HTML desktop game (<1MB total footprint) Procedural geometry generated at runtime Real-time sound generation - 10 escalating stages with objectives + economy layer (coin-based Black Market) - Enemy scaling model (each kill increases enemy population and variety) - Weapon and physics modifiers (jetpack thrust, anti-gravity cannon, nuke projectile, etc.) - Dynamic environmental interactions (flood events, teleport well, destructible elements) To my knowledge, this may be the first playable first-person shooter built entirely through prompting (at least at this level of complexity and intentional design). If I’m wrong, I’d genuinely love to see comparable examples. The goal is to continue expanding the game exclusively through prompts and release it for free. I’d appreciate any technical feedback, skepticism, or discussion. I’m treating this as an open experiment in what “AI-native” game development might look like.
 
-19h ago
+20h ago
 
 ---
 
@@ -57,15 +57,7 @@ Hello! I want to share an experiment I’ve been running. Over the past few week
 
 Lengthy interview with Anthropic co-founder about agentic AI
 
-🔗 [open.spotify.com](https://open.spotify.com/episode/6aeTJQPEXYHITci8d0wfdp?si=wEBInXK-S7WVaUBfbub4aQ) • 7h ago
-
----
-
-**[How AI hype and financial engineering are quietly destroying jobs](https://www.reddit.com/r/artificial/comments/1rf413j/how_ai_hype_and_financial_engineering_are_quietly/)**
-
-AI poses an enormous threat to job security globally. But the mechanisms through which it is currently destroying jobs are not the ones in the media spotlight. The real drivers are perception and financial engineering - the story we tell about the technology, and the capital structures that story enables.
-
-🔗 [amonle](https://amonle.com/feed/how-ai-hype-and-financial-engineering-are-quietly-destroying-jobs/) • 23m ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/6aeTJQPEXYHITci8d0wfdp?si=wEBInXK-S7WVaUBfbub4aQ) • 9h ago
 
 ---
 
@@ -73,7 +65,7 @@ AI poses an enormous threat to job security globally. But the mechanisms through
 
 Hey everyone. Just an AI enthusiast wanting to give a quick overview of what I'm working on. I'd love to get some feedback from people who use AI frequently. https://reddit.com/link/1rez30u/video/8r9u3brlbrlg1/player It's essentially a front end for memory. Any MCP compatible AI can use it. I built it mostly to be used with Claude, but I'm integrating other AIs. There's some stuff I should be finishing up soon, like full headed browser access directly with Claude Code, and direct communication between two CLIs within the same environment. It also integrates with Openclaw. Openclaw basically saves everything it does in .md files, so I just synced the folder and everything shows up in this 3D graph. https://reddit.com/link/1rez30u/video/3y57aibmbrlg1/player I've put so much stuff into it that I honestly don't even know where to start, but yeah, I just wanted to share. It has a whiteboard, proxy invites for others to join and share the AI usage, it reads whatever is written on the whiteboard, recognizes cards open on the screen... It's a huge mashup of things I've been building for myself over time, just with a little logo on it now. And that's about it. Just really wanted to share.
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +73,7 @@ Hey everyone. Just an AI enthusiast wanting to give a quick overview of what I'm
 
 Hey there, this could be a bit too niche or the wrong group but I am hoping someone might be able to assist me. I work for a car rental company in Australia and I am tentatively looking into the potential of installing AI robot arms/systems/people into our car wash's. More specifically, we would be looking for something to do the interior detailing, eg. wiping dash, clearing rubbish, removing stains, cleaning windows, vacuuming. I'm not too sure where to start or whether this is even possible, I have found a few start-ups based out of the US, but nothing concrete. Thank you!
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +89,7 @@ In an abrupt shift, the company may release future AI models without ironclad s
 
 Abstract: We report the performance of Aletheia (Feng et al., 2026b), a mathematics research agent powered by Gemini 3 Deep Think, on the inaugural FirstProof challenge. Within the allowed timeframe of the challenge, Aletheia autonomously solved 6 problems (2, 5, 7, 8, 9, 10) out of 10 according to majority expert assessments; we note that experts were not unanimous on Problem 8 (only). For full transparency, we explain our interpretation of FirstProof and disclose details about our experiments as well as our evaluation. Raw prompts and outputs are available at this https URL. FirstProof Abstract: To assess the ability of current AI systems to correctly answer research-level mathematics questions, we share a set of ten math questions which have arisen naturally in the research process of the authors. The questions had not been shared publicly until now; the answers are known to the authors of the questions but will remain encrypted for a short time.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 13h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 14h ago
 
 ---
 
@@ -113,7 +105,15 @@ I had this insight as I was vibecoding the night away. Of course people are goin
 
 Hi, I’m looking for AI software that allows us to upload a large number of our existing Word/PDF documents (templates, past client documents, standard clauses, etc.) and then generate new documents based on those patterns. What I’m NOT looking for is just a chatbot that answers questions about the documents. I need something that can: Learn from our document structure and wording Reuse our formatting and style Generate full new documents based on prompts and documents we feed it (ideally if you coul connect dropbox) Ideally integrate with Dropbox or similar cloud storage Export properly formatted Word documents Support for non-English languages (in thi case Slovak) would be important as well. Does anyone have experience with tools that can do this reliably?
 
-23h ago
+1d ago
+
+---
+
+**[Anthropic believes RSI (recursive self improvement) could arrive “as soon as early 2027”](https://www.reddit.com/r/artificial/comments/1rdujgd/anthropic_believes_rsi_recursive_self_improvement/)**
+
+Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.
+
+🔗 [anthropic.com](https://www.anthropic.com/responsible-scaling-policy/roadmap) • 1d ago
 
 ---
 
@@ -121,27 +121,19 @@ Hi, I’m looking for AI software that allows us to upload a large number of our
 
 ## Google News: "ai"
 
-**[Tech stocks today: Nvidia stock rises as guidance signals AI boom alive and well](https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stock-rises-as-guidance-signals-ai-boom-alive-and-well-220259696.html)**
-
-All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
-
-Yahoo Finance • 9h ago
-
----
-
 **[Chip giant Nvidia defies AI concerns with record $215bn revenue](https://www.bbc.com/news/articles/c80jgd8yljko)**
 
 Demand for Nvidia chips rose even as the company sets out to create AI products of its own.
 
-BBC • 8h ago
+BBC • 9h ago
 
 ---
 
-**[CNBC Daily Open: Nvidia’s earnings beat and AI developments provide some respite for markets](https://www.cnbc.com/2026/02/26/cnbc-daily-open-nvidias-earnings-beat-ai-related-news-offer-some-respite-for-markets.html)**
+**[Anthropic ditches its core safety promise in the middle of an AI red line fight with the Pentagon](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)**
 
-The world's most valuable company reported better-than-expected fiscal fourth-quarter results after the bell Wednesday stateside.
+Anthropic, a company founded by OpenAI exiles worried about the dangers of AI, is loosening its core safety principle in response to competition.
 
-CNBC • 34m ago
+CNN • 19h ago
 
 ---
 
@@ -151,33 +143,33 @@ The New York Times • 1d ago
 
 ---
 
+**[Anthropic’s Pentagon Showdown Is About More Than AI Guardrails](https://www.bloomberg.com/news/features/2026-02-26/pentagon-pressures-anthropic-to-drop-ai-guardrails-in-military-standoff)**
+
+Bloomberg • 8h ago
+
+---
+
 **[Morgan Stanley predicts AI won't let you retire early: Instead, you'll have to train for jobs that don't exist yet](https://fortune.com/2026/02/26/morgan-stanley-predicts-ai-wont-let-you-retire-early-instead-youll-have-to-train-for-jobs-that-dont-exist-yet/)**
 
 Who are you going to believe, a viral essay about an AI doomsday or the last 150 years of history?
 
-Fortune • 35m ago
+Fortune • 1h ago
 
 ---
 
-**[Singapore's Grab bets on AI, new services to triple profit by 2028](https://www.reuters.com/business/finance/singapores-grab-bets-ai-new-services-triple-profit-by-2028-2026-02-26/)**
+**[AI Is Being Misunderstood as a Breakthrough in Planning. It’s Not.](https://warontherocks.com/2026/02/ai-is-being-misunderstood-as-a-breakthrough-in-planning-its-not/)**
 
-Reuters • 22m ago
+In the age of AI, the scarcest resource in headquarters is no longer time. It is, rather, the willingness to say no. Artificial intelligence is moving
 
----
-
-**[China’s latest chip push and AI fever in India](https://www.ft.com/content/4a0d4199-735f-420c-a466-c2674817c786)**
-
-The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times
-
-Financial Times • 24m ago
+War on the Rocks • 11m ago
 
 ---
 
-**[Do you have to be polite to AI?](https://www.bbc.com/future/article/20260224-the-best-way-to-talk-to-a-chatbot)**
+**[WPP to merge ad agencies and cut jobs in radical shake-up to counter AI threat](https://www.theguardian.com/business/2026/feb/26/wpp-merge-ad-agencies-cut-jobs-ai-threat-advertising)**
 
-One study found a chatbot gave better answers if you pretend to be on Star Trek.
+Group aims to be ‘simpler, lower-cost, AI-enabled business’ and achieve £500m of annual savings by 2028
 
-BBC • 22h ago
+The Guardian • 1h ago
 
 ---
 
@@ -185,7 +177,7 @@ BBC • 22h ago
 
 We're introducing a handful of new features and capabilities to Flow.
 
-blog.google • 14h ago
+blog.google • 16h ago
 
 ---
 
@@ -193,7 +185,15 @@ blog.google • 14h ago
 
 Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.
 
-OpenAI • 17h ago
+OpenAI • 18h ago
+
+---
+
+**[Do you have to be polite to AI?](https://www.bbc.com/future/article/20260224-the-best-way-to-talk-to-a-chatbot)**
+
+One study found a chatbot gave better answers if you pretend to be on Star Trek.
+
+BBC • 23h ago
 
 ---
 
@@ -205,7 +205,7 @@ OpenAI • 17h ago
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 2038 • 💬 906 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 2042 • 💬 912 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -221,7 +221,7 @@ We're adopting Rust as our C++ successor language, and using AI agents to accele
 
 One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
 
-⬆️ 512 • 💬 220 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
+⬆️ 512 • 💬 221 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
 
 ---
 
@@ -229,7 +229,7 @@ One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4
 
 The latest update of Firefox, version 148, introduces a much-anticipated "AI kill switch" feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company’s new revenue-focused strategy regarding AI integrations. […]
 
-⬆️ 459 • 💬 386 • 2d ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+⬆️ 459 • 💬 387 • 2d ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 
 ---
 
@@ -254,7 +254,7 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
 
-⬆️ 232 • 💬 243 • 18h ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
+⬆️ 237 • 💬 245 • 20h ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 
 ---
 
@@ -270,15 +270,13 @@ Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in si
 
 LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
-⬆️ 204 • 💬 72 • 22h ago • [llmskirmish.com](https://llmskirmish.com/)
+⬆️ 208 • 💬 72 • 23h ago • [llmskirmish.com](https://llmskirmish.com/)
 
 ---
 
-**[Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)](https://news.ycombinator.com/item?id=47119871)**
+**[Hegseth gives Anthropic until Friday to back down on AI safeguards](https://news.ycombinator.com/item?id=47140734)**
 
-Track every major LLM from 2017 to 2026. From Transformers → GPT → ChatGPT → Claude → Gemini → DeepSeek and beyond.
-
-⬆️ 169 • 💬 57 • 2d ago • [LLM Timeline](https://llm-timeline.com/)
+⬆️ 94 • 💬 18 • 1d ago • [axios.com](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario)
 
 ---
 
@@ -292,67 +290,7 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 48K • 👍 1K • 💬 133 • ⏱️ 17:39 • 10h ago
-
----
-
-**[Dario Amodei Podcast | &#39;An AI Tsunami Is Coming, And No One’s Ready&#39;: Anthropic CEO Warns](https://www.youtube.com/watch?v=Zr3Z4x_1QTA)**
-
-On Nikhil Kamath's podcast People by WTF, Anthropic CEO Dario Amodei delivered a stark warning about artificial intelligence.
-
-📺 NDTV
-
-👁️ 20K • 👍 108 • 💬 65 • ⏱️ 2:48 • 1d ago
-
----
-
-**[I Used AI To Copy A YouTube Channel Making $1k+/Day](https://www.youtube.com/watch?v=TNJ6qh12nmA)**
-
-Get 50% Off Wondercraft: https://wholesaletedgo.com/wondercraft (affiliate link) ▻ Get My FREE AI Print On Demand Book: ...
-
-📺 Wholesale Ted
-
-👁️ 29K • 👍 2K • 💬 230 • ⏱️ 18:46 • 1d ago
-
----
-
-**[AI is changing the World Of Theoretical Physics, Fast.](https://www.youtube.com/watch?v=JvgaZ_myFE4)**
-
-Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINEHOSFEB4 100% Discount for the first 1000 ...
-
-📺 Sabine Hossenfelder
-
-👁️ 295K • 👍 15K • 💬 2K • ⏱️ 7:09 • 1d ago
-
----
-
-**[The AI Infrastructure War Just Escalated](https://www.youtube.com/watch?v=CxQY-0UZmUY)**
-
-CHAPTERS ⤵ 00:00 - Curious AI News & Other Developments 02:10 - AnchorWeave keeps AI video worlds from warping by ...
-
-📺 Dylan Curious
-
-👁️ 2K • 👍 155 • 💬 32 • ⏱️ 31:54 • 13h ago
-
----
-
-**[The AI Tsunami is Here &amp; Society Isn&#39;t Ready | Dario Amodei x Nikhil Kamath | People by WTF](https://www.youtube.com/watch?v=68ylaeBbdsg)**
-
-I sat down with Dario Amodei in Bangalore. He built Claude, but he started as a biologist looking for a tool to cure disease. Today ...
-
-📺 Nikhil Kamath
-
-👁️ 448K • 👍 9K • 💬 1K • ⏱️ 1:08:35 • 1d ago
-
----
-
-**[Quantum AI Ran the Book of Enoch&#39;s Coordinates — What It Found Breaks the Timeline](https://www.youtube.com/watch?v=uVQwOIKr318)**
-
-Quantum AI Ran the Book of Enoch's Coordinates — What It Found Breaks the Timeline In June 2025, a team of scientists named ...
-
-📺 Spacialize
-
-👁️ 30K • 👍 1K • 💬 86 • ⏱️ 17:32 • 1d ago
+👁️ 53K • 👍 1K • 💬 148 • ⏱️ 17:39 • 11h ago
 
 ---
 
@@ -362,7 +300,67 @@ Artificial intelligence is accelerating - but how fast is too fast? A new benchm
 
 📺 Sky News
 
-👁️ 15K • 👍 228 • 💬 51 • ⏱️ 8:04 • 14h ago
+👁️ 17K • 👍 260 • 💬 57 • ⏱️ 8:04 • 15h ago
+
+---
+
+**[Dario Amodei Podcast | &#39;An AI Tsunami Is Coming, And No One’s Ready&#39;: Anthropic CEO Warns](https://www.youtube.com/watch?v=Zr3Z4x_1QTA)**
+
+On Nikhil Kamath's podcast People by WTF, Anthropic CEO Dario Amodei delivered a stark warning about artificial intelligence.
+
+📺 NDTV
+
+👁️ 21K • 👍 111 • 💬 65 • ⏱️ 2:48 • 1d ago
+
+---
+
+**[AI is changing the World Of Theoretical Physics, Fast.](https://www.youtube.com/watch?v=JvgaZ_myFE4)**
+
+Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINEHOSFEB4 100% Discount for the first 1000 ...
+
+📺 Sabine Hossenfelder
+
+👁️ 300K • 👍 15K • 💬 2K • ⏱️ 7:09 • 1d ago
+
+---
+
+**[I Used AI To Copy A YouTube Channel Making $1k+/Day](https://www.youtube.com/watch?v=TNJ6qh12nmA)**
+
+Get 50% Off Wondercraft: https://wholesaletedgo.com/wondercraft (affiliate link) ▻ Get My FREE AI Print On Demand Book: ...
+
+📺 Wholesale Ted
+
+👁️ 30K • 👍 2K • 💬 237 • ⏱️ 18:46 • 1d ago
+
+---
+
+**[The AI Tsunami is Here &amp; Society Isn&#39;t Ready | Dario Amodei x Nikhil Kamath | People by WTF](https://www.youtube.com/watch?v=68ylaeBbdsg)**
+
+I sat down with Dario Amodei in Bangalore. He built Claude, but he started as a biologist looking for a tool to cure disease. Today ...
+
+📺 Nikhil Kamath
+
+👁️ 462K • 👍 9K • 💬 1K • ⏱️ 1:08:35 • 1d ago
+
+---
+
+**[The AI Infrastructure War Just Escalated](https://www.youtube.com/watch?v=CxQY-0UZmUY)**
+
+CHAPTERS ⤵ 00:00 - Curious AI News & Other Developments 02:10 - AnchorWeave keeps AI video worlds from warping by ...
+
+📺 Dylan Curious
+
+👁️ 3K • 👍 165 • 💬 33 • ⏱️ 31:54 • 14h ago
+
+---
+
+**[Quantum AI Ran the Book of Enoch&#39;s Coordinates — What It Found Breaks the Timeline](https://www.youtube.com/watch?v=uVQwOIKr318)**
+
+Quantum AI Ran the Book of Enoch's Coordinates — What It Found Breaks the Timeline In June 2025, a team of scientists named ...
+
+📺 Spacialize
+
+👁️ 31K • 👍 1K • 💬 87 • ⏱️ 17:32 • 1d ago
 
 ---
 
@@ -372,15 +370,17 @@ The most unhinged AI music generator just dropped — and right now, it's comple
 
 📺 Theoretically Media
 
-👁️ 32K • 👍 2K • 💬 512 • ⏱️ 14:49 • 1d ago
+👁️ 33K • 👍 2K • 💬 516 • ⏱️ 14:49 • 1d ago
 
 ---
 
-**[Insane new AI scam 😭](https://www.youtube.com/watch?v=0qfoF1QHdpY)**
+**[Market CRASH After Viral AI Doom Post](https://www.youtube.com/watch?v=kNInY3ZAMWo)**
 
-📺 John Casterline
+Krystal and Saagar discuss markets tanking over AI fears. Sign up for a PREMIUM Breaking Points subscriptions for full early ...
 
-👁️ 877K • 👍 76K • 💬 707 • ⏱️ 0:35 • 8h ago
+📺 Breaking Points
+
+👁️ 290K • 👍 8K • 💬 2K • ⏱️ 12:54 • 1d ago
 
 ---
 
@@ -396,7 +396,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 20,991 • ❤️ 454 • 1d ago
+⬇️ 158,273 • ❤️ 470 • 1d ago
 
 ---
 
@@ -408,7 +408,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 482,910 • ❤️ 1,066 • 2d ago
+⬇️ 601,563 • ❤️ 1,073 • 2d ago
 
 ---
 
@@ -420,7 +420,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 6,875 • ❤️ 308 • 1d ago
+⬇️ 41,061 • ❤️ 320 • 1d ago
 
 ---
 
@@ -432,7 +432,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 3,320 • ❤️ 282 • 1d ago
+⬇️ 10,951 • ❤️ 289 • 1d ago
 
 ---
 
@@ -444,7 +444,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 181,706 • ❤️ 1,562 • 12d ago
+⬇️ 182,893 • ❤️ 1,564 • 12d ago
 
 ---
 
@@ -456,7 +456,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 227,984 • ❤️ 797 • 1h ago
+⬇️ 255,172 • ❤️ 799 • 3h ago
 
 ---
 
@@ -468,19 +468,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 43,099 • ❤️ 211 • 3d ago
-
----
-
-**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
-
-*MiniMax*
-
-MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation`
-
-⬇️ 240,246 • ❤️ 938 • 9d ago
+⬇️ 55,865 • ❤️ 211 • 3d ago
 
 ---
 
@@ -492,7 +480,19 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 60,114 • ❤️ 193 • 1d ago
+⬇️ 179,363 • ❤️ 202 • 1d ago
+
+---
+
+**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
+
+*MiniMax*
+
+MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation`
+
+⬇️ 271,710 • ❤️ 945 • 10d ago
 
 ---
 
@@ -504,7 +504,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 232 • ❤️ 186 • 1d ago
+⬇️ 1,081 • ❤️ 187 • 1d ago
 
 ---
 
@@ -607,7 +607,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 147 • 💬 19 • ⭐ 54,138 • 11mo ago
+▲ 147 • 💬 19 • ⭐ 54,182 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -620,23 +620,21 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 38 • 💬 1 • ⭐ 71,186 • 29mo ago
+▲ 38 • 💬 1 • ⭐ 71,229 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
-**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
 
-*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
 
-🏢 Qwen
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
 
-The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
+▲ 26 • 💬 4 • ⭐ 18,127 • 3mo ago
 
-▲ 69 • 💬 2 • ⭐ 8,541 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -650,7 +648,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.4k • 🔱 2.4k • 1h ago
+⭐ 19.5k • 🔱 2.4k • 2m ago
 
 ---
 
@@ -658,7 +656,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 7.4k • 🔱 577 • 15d ago
+⭐ 7.5k • 🔱 581 • 15d ago
 
 ---
 
@@ -668,7 +666,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.6k • 🔱 681 • 1h ago
+⭐ 5.6k • 🔱 682 • 3h ago
 
 ---
 
@@ -678,7 +676,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.1k • 🔱 221 • 17h ago
+⭐ 4.1k • 🔱 221 • 19h ago
 
 ---
 
@@ -688,7 +686,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.6k • 🔱 353 • 1h ago
+⭐ 3.6k • 🔱 354 • 3h ago
 
 ---
 
@@ -698,7 +696,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.4k • 🔱 440 • 2h ago
+⭐ 3.4k • 🔱 443 • 3h ago
 
 ---
 
@@ -708,7 +706,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.0k • 🔱 349 • 4h ago
+⭐ 3.0k • 🔱 353 • 1h ago
 
 ---
 
@@ -718,7 +716,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.8k • 🔱 196 • 1h ago
+⭐ 2.8k • 🔱 196 • 2h ago
 
 ---
 
@@ -728,7 +726,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 276 • 1h ago
+⭐ 2.6k • 🔱 283 • 12m ago
 
 ---
 
@@ -738,7 +736,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.5k • 🔱 508 • 17h ago
+⭐ 2.6k • 🔱 510 • 19h ago
 
 ---
 
