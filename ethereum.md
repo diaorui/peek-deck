@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-26T05:42:33.080548+00:00'
+updated: '2026-02-26T07:02:16.388309+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 26, 2026 at 05:42 UTC  
+**Last Updated:** February 26, 2026 at 07:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,7 +42,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +9.4%  
+**24h:** +8.0%  
 **7d:** +4.8%  
 **30d:** -31.5%  
 **90d:** -31.0%  
@@ -52,7 +52,7 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.84B
+**Market Cap:** $249.05B
 Rank #2
 
 **Circulating Supply:** 120,692,290 ETH
@@ -62,7 +62,7 @@ No max supply
 -58.3%
 
 **All-Time Low:** $0.43
-+476542.1%
++476304.2%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 https://strawmap.org/ A very important document. Let's walk through this one "goal" at a time. We'll start with fast slots and fast finality. I expect that we'll reduce slot time in an incremental fashion, eg. I like the "sqrt(2) at a time" formula (12 -> 8 -> 6 -> 4 -> 3 -> 2, though the last two steps are more speculative and depend on heavy research). It is possible to go faster or slower here; but the high level is that we'll view the slot time as a parameter that we adjust down when we're confident it's safe to, similar to the blob target. Fast slots are off in their own lane at the top of the roadmap, and do not really seem to connect to anything. This is because the rest of the roadmap is pretty independent of the slot time: we would need to do roughly the same things whether the slot time is 2 seconds or 32 seconds There are a few intersection areas though. One is p2p improvements. @raulvk has recently been working on an optimized p2p layer for Ethereum, which uses erasure coding to greatly improve on the bandwidth/latency tradeoff frontier. Roughly speaking: in today's design, each node receives a full block body from several peers, and is able to accept and rebroadcast it as soon as it receives the first one. If the "width" (number of peers sending you the block) is low, then one bad peer can greatly delay when you receive the block. If width is high, there is a lot of unneeded data overhead. With erasure coding, you can choose a k-of-n setup, eg: split each block into 8 pieces so that with any 4 of them you can reconstruct the full block. This gives you much of the redundancy benefits of high width, without the overhead. We have stats that show that this architecture can greatly reduce 95th percentile block propagation time, making shorter slots viable with no security tradeoffs (except increased protocol complexity, though here the performance-gain-to-lines-of-code ratio is quite favorable) Another intersection area is the more complex slot structure that comes with ePBS, FOCIL, and the fast confirmation rule. These have important benefits, but they decrease the safe latency maximum from slot/3 to slot/5. There's ongoing research to try to pipeline things better to minimize losses (also note: the slot time is lower-bounded not just by slot latency, but also by the fixed-cost part of ZK prover latency), but there are some tradeoffs here. One way we are exploring to compensate for this is to change to an architecture where only ~256-1024 randomly selected attesters sign on each slot. For a fork choice (non-finalizing) function, this is totally sufficient. The smaller number of signatures lets us remove the aggregation phase, shortening the slots. Fast finality is more complex (the ultimate protocol is IMO simpler than status quo Gasper, but the change path is complex). Today, finality takes 16 minutes (12s slots * 32 slot epochs * 2.5 epochs) on average. The goal is to decouple slots and finality, so allow us to reason about both separately, and we are aiming to use a one-round-finality BFT algorithm (a Minimmit variant) to finalize. So endgame finality time might be eg. 6-16 sec. Because this is a very invasive set of changes, the plan is to bundle the largest step in each change with a switch of the cryptography, notably to post-quantum hash-based signatures, and to a maximally STARK-friendly hash (there are three possible responses to the recent Poseidon2 attacks: (i) increase round count or introduce other countermeasures such as a Monolith layer, (ii) go back to Poseidon1, which is even more lindy than Poseidon2 and has not seen flaws, (iii) use BLAKE3 or other maximally-cheap "conventional" hash. All are being researched). Additionally, there is a plan to introduce many of these changes piece-by-piece, eg. "1-epoch finality" means we adjust the current consensus to change from FFG-style finalization to Minimmit-style finalization. One possible finality time trajectory is: 16 min (today) -> 10m40s (8s slots) -> 6m24s (one-epoch finality) -> 1m12s (8-slot epochs, 6s slots) -> 48s (4s slots) -> 16s (minimmit) -> 8s (minimmit with more aggressive parameters) One interesting consequence of the incremental approach is that there is a pathway to making the slots quantum-resistant much sooner than making the finality quantum-resistant, so we may well quite quickly get to a regime where, if quantum computers suddenly appear, we lose the finality guarantee, but the chain keeps chugging along. Summary: expect to see progressive decreases of both slot time and finality time, and expect to see these changes to be intertwined with a "ship of Theseus" style component-by-component replacement of Ethereum's slot structure and consensus with a cleaner, simpler, quantum-resistant, prover-friendly, end-to-end formally-verified alternative.
 
-7h ago
+9h ago
+
+---
+
+**[Daily General Discussion February 26, 2026](https://www.reddit.com/r/ethereum/comments/1rf2aoa/daily_general_discussion_february_26_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1h ago
 
 ---
 
@@ -80,15 +88,7 @@ https://strawmap.org/ A very important document. Let's walk through this one "go
 
 The Ethereum Foundation has published a draft long-term roadmap called “Strawmap,” outlining how the protocol could evolve across multiple forks through the rest of the decade. It organizes Ethereum’s end-state around five core goals: fast L1 (seconds-level finality) gigagas L1 (~10k TPS via zk execution proofs) teragas L2 (massive rollup DA bandwidth) post-quantum L1 native privacy (shielded ETH transfers) Strawmap is described as a coordination tool rather than a fixed plan, mapping one possible path for Ethereum’s base layer architecture over time. Overall it reads like Ethereum’s intended equilibrium design: zk-verified execution + rollup scaling + fast finality + built-in privacy. Full breakdown: https://btcusa.com/ethereum-foundation-publishes-strawmap-roadmap-with-fast-finality-zkevm-scaling-and-native-privacy-goals/ Which part of Strawmap do you see as the biggest shift for Ethereum long-term — zk L1, native privacy, or fast finality?
 
-8h ago
-
----
-
-**[Daily General Discussion February 25, 2026](https://www.reddit.com/r/ethereum/comments/1re561b/daily_general_discussion_february_25_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-23h ago
+9h ago
 
 ---
 
@@ -96,7 +96,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 EF Protocol publishes Strawmap, a technical strawman roadmap that visualizes Ethereum L1 upgrades through 2029, framing dependencies, headliners, & five long-term north stars.
 
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 1m ago
+🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 1h ago
+
+---
+
+**[Daily General Discussion February 25, 2026](https://www.reddit.com/r/ethereum/comments/1re561b/daily_general_discussion_february_25_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
 
 ---
 
@@ -104,7 +112,7 @@ EF Protocol publishes Strawmap, a technical strawman roadmap that visualizes Eth
 
 Short-term resistance levels Trend line dates back to Jan. 18 and short-term tops date back to Feb 5. We bumped up against both of them at the same time at 4:36 pm Eastern time today.
 
-33m ago
+1h ago
 
 ---
 
@@ -140,17 +148,17 @@ One variable that changed for me is "stable era mindset vs chaotic era mindset".
 
 ---
 
-**[Daily General Discussion February 24, 2026](https://www.reddit.com/r/ethereum/comments/1rd88ab/daily_general_discussion_february_24_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
+
+**[ETHZilla Drops Ethereum Treasury Label in Rebrand After Share Price Collapse](https://decrypt.co/359186/ethzilla-ethereum-rebrand-share-price-collapse)**
+
+The move follows investor exits, asset sales and a retreat from holding Ethereum on the public company's balance sheet.
+
+Decrypt • 3h ago
+
+---
 
 **[Ethereum Co-Founder Vitalik Buterin Warns Prediction Markets Are On Path To Becoming 'Corposlop'](https://finance.yahoo.com/news/ethereum-co-founder-vitalik-buterin-131154926.html)**
 
@@ -164,7 +172,7 @@ Yahoo Finance • 2d ago
 
 The Ethereum co-founder's tracked wallets dropped from 241,000 ETH to 224,000 ETH in February, with sales routed through CoW Protocol in small batches to limit market impact.
 
-CoinDesk • 22h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -176,17 +184,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqd_fXSOqqxfvS5aiaOyDGAhf-gv7Ntrho5wdfus4ZoWtpSwmUfYvLV7&gaa_ts=699fe0b2&gaa_sig=yytyOaa3JCAvZckNmeoCS4Hysvdv-pdbk2k4FZqSRmVLk3siHTzKDjsym8zrT0e5OMVb9q6FSjJHCxtfCheRiA%3D%3D)**
-
-Barron's • 1d ago
-
----
-
 **[ETHZilla Drops Ethereum Treasury Label in Rebrand After Share Price Collapse](https://finance.yahoo.com/news/ethzilla-drops-ethereum-treasury-label-033444081.html)**
 
 The move follows investor exits, asset sales and a retreat from holding Ethereum on the public company's balance sheet.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -206,14 +208,6 @@ The Block • 1d ago
 
 ---
 
-**[ETH Casino 2026 - Best Ethereum Casinos for US Players](https://muddyrivernews.com/gambling/ethereum-casinos/20260223091539/)**
-
-Discover top Ethereum casinos in the US. Play with ETH, enjoy instant transactions, fast payouts, generous bonuses, and secure crypto gaming platforms.
-
-Muddy River News • 2d ago
-
----
-
 **[Better Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/02/24/better-buy-bitcoin-vs-ethereum/)**
 
 Could Ethereum really outperform Bitcoin this year? Harvard seems to think so.
@@ -222,9 +216,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Ethereum Is Growing. So Why Is The ETH Price Collapsing?](https://www.forbes.com/sites/greatspeculations/2026/02/24/ethereum-is-growing-so-why-is-the-eth-price-collapsing/)**
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqe_1xdwvMmrxWMzK0lqbw1zm8O04VZ7aFSbD6Zt6BzuxN4rlxz3TbDB&gaa_ts=699ff365&gaa_sig=DrPOL90Sqakke8bjIalKnzDbSoOW8H9kzCmj6DF7-AN7-ZscS_G1mfOefnCdjHIv3WAiowHXsCSextQPQqFIZw%3D%3D)**
 
-Forbes • 1d ago
+Barron's • 1d ago
+
+---
+
+**[ETH Casino 2026 - Best Ethereum Casinos for US Players](https://muddyrivernews.com/gambling/ethereum-casinos/20260223091539/)**
+
+Discover top Ethereum casinos in the US. Play with ETH, enjoy instant transactions, fast payouts, generous bonuses, and secure crypto gaming platforms.
+
+Muddy River News • 2d ago
 
 ---
 
@@ -232,13 +234,23 @@ Forbes • 1d ago
 
 ## YouTube Videos: "ethereum"
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=yacmf0otMwA)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 173 • 💬 11 • ⏱️ 3:50 • 12h ago
+
+---
+
 **[Why Ethereum Isn&#39;t Bitcoin&#39;s Little Brother: Sharplink CEO](https://www.youtube.com/watch?v=pvG3sBnPjZE)**
 
 Ethereum has long been compared to Bitcoin — but according to Sharplink CEO and former BlackRock digital assets leader ...
 
 📺 Coinage
 
-👁️ 6K • 👍 165 • 💬 22 • ⏱️ 21:21 • 17h ago
+👁️ 6K • 👍 173 • 💬 35 • ⏱️ 21:21 • 19h ago
 
 ---
 
@@ -248,17 +260,17 @@ BITCOIN & ALTCOIN PUMP: Next Targets Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 264 • 💬 32 • ⏱️ 20:49 • 7h ago
+👁️ 6K • 👍 292 • 💬 29 • ⏱️ 20:49 • 8h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=yacmf0otMwA)**
+**[Don&#39;t Let This Ethereum Pump Trick You...](https://www.youtube.com/watch?v=IulJEzVVDB8)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
 
-📺 More Crypto Online
+📺 Trade Confident
 
-👁️ 2K • 👍 170 • 💬 11 • ⏱️ 3:50 • 11h ago
+👁️ 389 • 👍 21 • 💬 5 • ⏱️ 5:45 • 11h ago
 
 ---
 
@@ -268,7 +280,7 @@ I mean... they told us this would happen, so theres no use for any of us being s
 
 📺 Money Rules - Investing Tips 
 
-👁️ 11K • 👍 1K • 💬 123 • ⏱️ 28:35 • 18h ago
+👁️ 11K • 👍 1K • 💬 144 • ⏱️ 28:35 • 19h ago
 
 ---
 
@@ -282,33 +294,33 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 ---
 
-**[BITCOIN &amp; CRYPTO REPEATING HISTORY (Signal Confirmed)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=B51zxN9TVdE)**
+**[🚨IMPORTANT Ethereum $1,800 Support BOUNCE! Can It Hold?](https://www.youtube.com/watch?v=U62slGX_PaQ)**
 
-BITCOIN & CRYPTO REPEATING HISTORY (Signal Confirmed)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+IMPORTANT Ethereum $1800 Support BOUNCE! Can It Hold? Ethereum just bounced hard off the critical $1800 support ...
 
-📺 Crypto World
+📺 Tim Warren
 
-👁️ 11K • 👍 345 • 💬 76 • ⏱️ 16:59 • 1d ago
-
----
-
-**[MAJOR WALL ST. FIRM CAUGHT MANIPULATING CRYPTO (BMNR, ETH)](https://www.youtube.com/watch?v=OFERbiSAR30)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 5K • 👍 552 • 💬 75 • ⏱️ 13:38 • 3h ago
+👁️ 3K • 👍 312 • 💬 78 • ⏱️ 13:04 • 1d ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=XTbfzXSdp2g)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Hbhxhj-mt18)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 171 • 💬 4 • ⏱️ 6:09 • 1d ago
+👁️ 1K • 👍 137 • 💬 6 • ⏱️ 3:51 • 6h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Mjc9hJiGaaI)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 147 • 💬 8 • ⏱️ 3:47 • 1d ago
 
 ---
 
@@ -319,16 +331,6 @@ Watch the full episode: https://youtu.be/xgJOC10lUWQ Join Premium: https://the-b
 📺 Gerhard - Bitcoin Strategy
 
 👁️ 5K • 👍 150 • 💬 52 • ⏱️ 14:34 • 2d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=Hbhxhj-mt18)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 789 • 👍 88 • 💬 5 • ⏱️ 3:51 • 5h ago
 
 ---
 
