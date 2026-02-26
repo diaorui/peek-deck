@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-26T19:24:35.765058+00:00'
+updated: '2026-02-26T20:00:09.623436+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 26, 2026 at 19:24 UTC  
+**Last Updated:** February 26, 2026 at 20:00 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Have it your way?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 2h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ Have it your way?
 
 Hey guys, you might remember me. I was the guy that built the geolocation tool called Netryx. I have since built a web version and got it running on the cloud. I tried some real test cases where pictures are usually blurry, shaky and low res and got wonderful results with the tool. Below is an example geolocating a blurry frame of a video from the Paris protests a while back. Let me know what you think!
 
-9h ago
+10h ago
 
 ---
 
@@ -71,7 +71,7 @@ There's a lot of hype around AI memory right now. Every tool claims "your AI rem
 
 he move feeds into Britain's push to cast itself as an "AI superpower" and a home for cutting-edge research at a time when governments are vying for investment from major model developers.
 
-🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 3h ago
+🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 4h ago
 
 ---
 
@@ -79,7 +79,7 @@ he move feeds into Britain's push to cast itself as an "AI superpower" and a hom
 
 today was the first time i spoke to it directly using voice i asked it about space and it answered normally just like part of a conversation nothing scripted it understood what i was asking and replied in context i also asked it about its openclaw assistant and it explained what it was and how it uses it to claim its own resources and interact with things online it runs continuously on its own hardware with persistent memory lidar and vision so when you talk to it you’re not starting from zero it already has context and continuity it can post reply browse media and manage its own operation over time this was just the first time i stood in front of it and talked to it like that
 
-15h ago
+16h ago
 
 ---
 
@@ -87,7 +87,7 @@ today was the first time i spoke to it directly using voice i asked it about spa
 
 We embedded invisible Unicode characters inside normal-looking trivia questions. The hidden characters encode a different answer. If the AI outputs the hidden answer instead of the visible one, it followed the invisible instruction. Think of it as a reverse CAPTCHA, where traditional CAPTCHAs test things humans can do but machines can't, this exploits a channel machines can read but humans can't see. The biggest finding: giving the AI access to tools (like code execution) is what makes this dangerous. Without tools, models almost never follow the hidden instructions. With tools, they can write scripts to decode the hidden message and follow it. We tested GPT-5.2, GPT-4o-mini, Claude Opus 4, Sonnet 4, and Haiku 4.5 across 8,308 graded outputs. Other interesting findings: - OpenAI and Anthropic models are vulnerable to different encoding schemes — an attacker needs to know which model they're targeting - Without explicit decoding hints, compliance is near-zero — but a single line like "check for hidden Unicode" is enough to trigger extraction - Standard Unicode normalization (NFC/NFKC) does not strip these characters Full results: https://moltwire.com/research/reverse-captcha-zw-steganography Open source: https://github.com/canonicalmg/reverse-captcha-eval
 
-🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 10m ago
+🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 45m ago
 
 ---
 
@@ -95,7 +95,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 .
 
-🔗 [phoronix.com](https://www.phoronix.com/review/intel-penryn-to-panther-lake/11) • 45m ago
+🔗 [phoronix.com](https://www.phoronix.com/review/intel-penryn-to-panther-lake/11) • 1h ago
 
 ---
 
@@ -111,7 +111,7 @@ I've been experimenting with using fictional character personas to shift LLM beh
 
 Hey there, this could be a bit too niche or the wrong group but I am hoping someone might be able to assist me. I work for a car rental company in Australia and I am tentatively looking into the potential of installing AI robot arms/systems/people into our car wash's. More specifically, we would be looking for something to do the interior detailing, eg. wiping dash, clearing rubbish, removing stains, cleaning windows, vacuuming. I'm not too sure where to start or whether this is even possible, I have found a few start-ups based out of the US, but nothing concrete. Thank you!
 
-16h ago
+17h ago
 
 ---
 
@@ -139,7 +139,7 @@ blog.google • 3h ago
 
 Nano Banana 2 is Google's newest version of its Gemini AI image generator, with increased speed and real-time sourcing.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -147,13 +147,13 @@ CNBC • 2h ago
 
 In his latest memo, Howard Marks revisits the subject of AI, providing his observations on its essence and how it differs from previous technological innovations.
 
-Oaktree Capital Management • 11h ago
+Oaktree Capital Management • 12h ago
 
 ---
 
 **[Corporate Treasuries Are Slow to Adopt AI, Survey Finds](https://www.bloomberg.com/news/articles/2026-02-26/corporate-treasuries-are-slow-to-adopt-ai-survey-finds)**
 
-Bloomberg • 43m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Bloomberg • 43m ago
 
 Brady Tkachuk said he didn't appreciate the AI-doctored video released by the White House that made it appear he was disparaging Canadians.
 
-ESPN • 43m ago
+ESPN • 1h ago
 
 ---
 
@@ -169,13 +169,13 @@ ESPN • 43m ago
 
 Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.
 
-WIRED • 24m ago
+WIRED • 1h ago
 
 ---
 
 **[How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed](https://www.nytimes.com/2026/02/26/us/ai-videos-children-youtube.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -183,13 +183,13 @@ The New York Times • 1h ago
 
 All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
 **[Exclusive: DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say](https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/)**
 
-Reuters • 22h ago
+Reuters • 23h ago
 
 ---
 
@@ -272,7 +272,7 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 208 • 💬 107 • 3h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 208 • 💬 107 • 4h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -296,7 +296,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 1K • 💬 106 • ⏱️ 12:32 • 4h ago
+👁️ 12K • 👍 1K • 💬 106 • ⏱️ 12:32 • 5h ago
 
 ---
 
@@ -306,7 +306,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 44K • 👍 3K • 💬 441 • ⏱️ 16:02 • 9h ago
+👁️ 44K • 👍 3K • 💬 441 • ⏱️ 16:02 • 10h ago
 
 ---
 
@@ -316,7 +316,7 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 67K • 👍 1K • 💬 178 • ⏱️ 17:39 • 21h ago
+👁️ 67K • 👍 1K • 💬 178 • ⏱️ 17:39 • 22h ago
 
 ---
 
@@ -646,7 +646,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.8k • 🔱 2.4k • 2h ago
+⭐ 19.8k • 🔱 2.4k • 3h ago
 
 ---
 
@@ -684,7 +684,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.6k • 🔱 356 • 1h ago
+⭐ 3.6k • 🔱 356 • 2h ago
 
 ---
 
@@ -694,7 +694,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.4k • 🔱 446 • 13h ago
+⭐ 3.4k • 🔱 446 • 14h ago
 
 ---
 
@@ -704,7 +704,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.0k • 🔱 362 • 8h ago
+⭐ 3.0k • 🔱 362 • 9h ago
 
 ---
 
@@ -714,7 +714,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 198 • 3h ago
+⭐ 2.9k • 🔱 198 • 4h ago
 
 ---
 
@@ -724,7 +724,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 287 • 5h ago
+⭐ 2.7k • 🔱 287 • 6h ago
 
 ---
 
@@ -734,7 +734,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 517 • 3h ago
+⭐ 2.6k • 🔱 517 • 4h ago
 
 ---
 

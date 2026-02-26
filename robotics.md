@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T19:24:35.783129+00:00'
+updated: '2026-02-26T20:00:09.639064+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 19:24 UTC  
+**Last Updated:** February 26, 2026 at 20:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-5h ago
+6h ago
 
 ---
 
@@ -60,7 +60,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-5h ago
+6h ago
 
 ---
 
@@ -68,13 +68,13 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-9h ago
+10h ago
 
 ---
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -82,7 +82,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-8h ago
+9h ago
 
 ---
 
@@ -90,13 +90,13 @@ Sorry this video is in french but I am so proud to show you my work, a fully fun
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-20h ago
+21h ago
 
 ---
 
 **[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -104,7 +104,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 Hi everyone. I’m a relatively new robotics teacher working with LEGO EV3. I already have a large fleet of robots, and switching to SPIKE is not an option in the near future. Over the last few weeks I’ve been researching the available software stacks and this is how things look to me so far — please correct me if I’m wrong: EV3-G Once a powerful environment, but with a very awkward interface. At this point it seems basically dead: no official support, a dead-end ecosystem, and you’re locked inside LEGO. That said, a lot of people still use it and there’s a huge amount of tutorials and competition-related material for it. EV3 Classroom This is what I started with. It feels like a heavily simplified version: less control, fewer low-level tools, more “intro to robotics” than serious competition prep. I’m almost certain that staying on Classroom is not a good option for stronger students. Pybricks (MicroPython) This looks like the most future-proof choice: real code, proper state machines, timing control, debouncing, cleaner logic. Also a big plus is the ability to move beyond LEGO later (Python skills, other robotics platforms, CV, etc.). However, it feels like: there are fewer ready-made solutions fewer competition-oriented guides fewer long-term teachers using it at scale My goal is to prepare more advanced students for local competitions, not just basic line-following demos. I also want the skills they learn to transfer outside the LEGO ecosystem. Questions for experienced folks: What do you actually use today with EV3? Does it make sense to move students to Pybricks in a classroom setting? Is EV3-G still the “gold standard” despite being a dead end? If you were planning 2–3 years ahead, what stack would you choose? I’d really appreciate input from people who actively coach teams or teach robotics, not just run intro courses.
 
-44m ago
+1h ago
 
 ---
 
@@ -116,7 +116,7 @@ Hi everyone. I’m a relatively new robotics teacher working with LEGO EV3. I al
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -124,7 +124,7 @@ CNBC • 21h ago
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 23h ago
+TechCrunch • 1d ago
 
 ---
 
@@ -148,7 +148,7 @@ Semafor • 1d ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -164,7 +164,7 @@ TribLIVE.com • 1d ago
 
 German Chancellor Friedrich Merz visited Chinese robotics firm Unitree Robotics in Hangzhou, East China’s Zhejiang Province, on Thursday afternoon, where he watched the robot product displays and robot performances such as
 
-Global Times • 8h ago
+Global Times • 9h ago
 
 ---
 
@@ -272,7 +272,7 @@ CNET social producer Faith Chihil made a trip to visit the boba robot from Yo-Ka
 
 📺 CNET
 
-👁️ 854 • 👍 56 • 💬 2 • ⏱️ 1:08 • 2h ago
+👁️ 854 • 👍 56 • 💬 2 • ⏱️ 1:08 • 3h ago
 
 ---
 

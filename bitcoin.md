@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-26T19:24:35.773752+00:00'
+updated: '2026-02-26T20:00:09.630964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- social
 - videos
+- social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 26, 2026 at 19:24 UTC  
+**Last Updated:** February 26, 2026 at 20:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 2011: -93% 2015: -86% 2018: -84% 2022: -77% Every cycle, the drawdown gets smaller as the market matures. If BTC follows this trend, the 2026 bottom should be around -70% from the $126K ATH. That puts us at $38K. At the moment It costs $87,000 to produce one Bitcoin and the current price is $65,000. So, miners are losing money on every single coin they mine. This only happens during bear markets. In 2022, Bitcoin dropped below its production cost in June. People called the bottom but the actual bottom was 5 months later in November at $15,800 after miners were forced to sell everything they had just to keep the lights on. The pattern has always been the same. Price drops below production cost. Miners start selling reserves to survive. Selling pressure pushes price lower. Weaker miners go bankrupt. Their creditors liquidate the remaining Bitcoin. More selling. More pain. Then the bottom. We are in the selling reserves phase. The bankruptcy phase has not even started. Of course, things could be different this time. In my opinion BTC is going LOWER Ill be DCAing sub 50k
 
-8h ago
+9h ago
 
 ---
 
@@ -97,7 +97,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 https://x.com/1914ad/status/2026757796390449382?s=46 TLDR: Every 10am (NYC time) Jane Street would start dumping BTC because they earned money every time its price fell. They extracted over $4.2B through market manipulation.
 
-5h ago
+6h ago
 
 ---
 
@@ -105,7 +105,7 @@ https://x.com/1914ad/status/2026757796390449382?s=46 TLDR: Every 10am (NYC time)
 
 a few years ago, I bought Bitcoin at 20k, I sold at 70k. I just wanted to inform new buyers and ppl that are thinking about this now... hold that shi, this coin can do so much for you investing. I've seen on so many forums that it's crashing it's gonna skyrocket yada yada... don't stalk it where it's price is, hold it long. I could have made thousands more than I did if I held it longer to over 100k dollars. welcome to the club, I'm glad to be back in:)
 
-18h ago
+19h ago
 
 ---
 
@@ -135,7 +135,7 @@ https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4
 
 **[Google searches for "buy bitcoin" at highest level in 5 years](https://www.reddit.com/r/Bitcoin/comments/1renmsw/google_searches_for_buy_bitcoin_at_highest_level/)**
 
-🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 23h ago
+🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 1d ago
 
 ---
 
@@ -143,7 +143,7 @@ https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4
 
 And people are freaking out…sit back and enjoy the ride.
 
-19h ago
+20h ago
 
 ---
 
@@ -151,7 +151,7 @@ And people are freaking out…sit back and enjoy the ride.
 
 I’ve been around long enough to remember when the focus was almost entirely on self custody and sovereignty. Running a node. Holding your own keys. Opting out of the system. That felt like the point. Now most of the headlines are about ETFs, institutional flows, and large custodians holding significant supply. It seems like a lot of people just want exposure in a brokerage account instead of managing seed phrases themselves. I totally get it, it’s easier, safer for many, and probably necessary for broader adoption. But I sometimes wonder: if Bitcoin ends up primarily held and custodied by large financial institutions, integrated into traditional markets, is that still the same movement it started as? Maybe this is just maturation. Maybe sovereignty at scale looks different than we imagined. Not trying to be negative, genuinely curious how others think about this.
 
-2h ago
+3h ago
 
 ---
 
@@ -161,7 +161,7 @@ I’ve been around long enough to remember when the focus was almost entirely on
 
 **[Trump Brothers’ Bitcoin Miner Posts Quarterly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-26-2026/card/trump-brothers-bitcoin-miner-posts-quarterly-loss-vnJNFk9Ig28NkJ1Pb2iv?gaa_at=eafs&gaa_n=AWEtsqfbzDO_YdhbgvL1b8PUx2mbvf5260AatvNS0CYYceY4ieVXK9c-Hq-S&gaa_ts=69a0a15f&gaa_sig=q9nwos4xz-DHanbPsn0yuNQee8TtfTeae4RQl6DCt1Eys7Sn5AwaMTBh4a6-awNmN3sydiUNpsOKh9mfHuD4vA%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
@@ -169,7 +169,7 @@ WSJ • 10h ago
 
 The company now holds over 6,000 BTC, with roughly one-third acquired through mining and two-thirds through open-market purchases and strategic transactions.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -183,13 +183,13 @@ Reuters • 7h ago
 
 Crypto rebounds sharply from Tuesday's lows, yet traders question whether the move marks a lasting turn or another range-bound bounce.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
 **[Bitcoin Resumes Slide After Quick Pullback in Risk Appetite](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-resumes-slide-after-quick-pullback-in-risk-appetite)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -237,7 +237,7 @@ Business Insider • 1d ago
 
 **[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
 
-⬆️ 9 • 💬 3 • 20h ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+⬆️ 9 • 💬 3 • 21h ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
 
 ---
 
@@ -257,7 +257,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 **[Fix the money, fix the world: Bitcoin as techno-libertarian religion](https://news.ycombinator.com/item?id=47165953)**
 
-⬆️ 2 • 💬 0 • 5h ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
+⬆️ 2 • 💬 0 • 6h ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
 
 ---
 
@@ -265,7 +265,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
 
-⬆️ 2 • 💬 0 • 17h ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
+⬆️ 2 • 💬 0 • 18h ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
 
 ---
 
@@ -287,7 +287,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
 
-⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/pyoneerC/deadhand)
+⬆️ 1 • 💬 0 • 2h ago • [GitHub](https://github.com/pyoneerC/deadhand)
 
 ---
 
@@ -357,7 +357,7 @@ Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 23K • 👍 2K • 💬 108 • ⏱️ 12:57 • 5h ago
+👁️ 23K • 👍 2K • 💬 108 • ⏱️ 12:57 • 6h ago
 
 ---
 
@@ -377,7 +377,7 @@ WEEX: https://themoon.co/DailyWEEX UP TO $30000 BONUS BLOFIN: https://themoon.co
 
 📺 The Moon Show
 
-👁️ 4K • 👍 291 • 💬 8 • ⏱️ 10:56 • 4h ago
+👁️ 4K • 👍 291 • 💬 8 • ⏱️ 10:56 • 5h ago
 
 ---
 
