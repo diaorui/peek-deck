@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-26T12:00:58.906772+00:00'
+updated: '2026-02-26T13:49:01.084907+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - repositories
+- news
 - videos
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 26, 2026 at 12:00 UTC  
+**Last Updated:** February 26, 2026 at 13:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hey guys, you might remember me. I was the guy that built the geolocation tool called Netryx. I have since built a web version and got it running on the cloud. I tried some real test cases where pictures are usually blurry, shaky and low res and got wonderful results with the tool. Below is an example geolocating a blurry frame of a video from the Paris protests a while back. Let me know what you think!
 
-2h ago
+3h ago
 
 ---
 
@@ -49,15 +49,7 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 today was the first time i spoke to it directly using voice i asked it about space and it answered normally just like part of a conversation nothing scripted it understood what i was asking and replied in context i also asked it about its openclaw assistant and it explained what it was and how it uses it to claim its own resources and interact with things online it runs continuously on its own hardware with persistent memory lidar and vision so when you talk to it you’re not starting from zero it already has context and continuity it can post reply browse media and manage its own operation over time this was just the first time i stood in front of it and talked to it like that
 
-8h ago
-
----
-
-**[I Built a Fully Playable FPS Using Only Prompts (No Manual Code)](https://www.reddit.com/r/artificial/comments/1recjbv/i_built_a_fully_playable_fps_using_only_prompts/)**
-
-Hello! I want to share an experiment I’ve been running. Over the past few weeks, I’ve been developing a desktop HTML first-person shooter called Zombie Slayer. The core constraint of the project is this: every line of code was generated through prompts. I never manually edited the source. For context: I have never built a 3D game before, and I’ve never programmed in HTML. I also have nearly zero coding experience. This project has been less about traditional development and more about testing the boundary conditions of prompt-driven creation. The game was built in Antigravity using Gemini 3 Pro, with Three.js handling real-time 3D rendering. All geometry is procedurally generated at runtime. Sound effects are synthesized dynamically, and the music was also generated with AI (Suno). The entire playable build is under 900KB in file size and is an easily shareable HTML file. From a systems perspective: - HTML desktop game (<1MB total footprint) Procedural geometry generated at runtime Real-time sound generation - 10 escalating stages with objectives + economy layer (coin-based Black Market) - Enemy scaling model (each kill increases enemy population and variety) - Weapon and physics modifiers (jetpack thrust, anti-gravity cannon, nuke projectile, etc.) - Dynamic environmental interactions (flood events, teleport well, destructible elements) To my knowledge, this may be the first playable first-person shooter built entirely through prompting (at least at this level of complexity and intentional design). If I’m wrong, I’d genuinely love to see comparable examples. The goal is to continue expanding the game exclusively through prompts and release it for free. I’d appreciate any technical feedback, skepticism, or discussion. I’m treating this as an open experiment in what “AI-native” game development might look like.
-
-23h ago
+10h ago
 
 ---
 
@@ -65,7 +57,15 @@ Hello! I want to share an experiment I’ve been running. Over the past few week
 
 Hey there, this could be a bit too niche or the wrong group but I am hoping someone might be able to assist me. I work for a car rental company in Australia and I am tentatively looking into the potential of installing AI robot arms/systems/people into our car wash's. More specifically, we would be looking for something to do the interior detailing, eg. wiping dash, clearing rubbish, removing stains, cleaning windows, vacuuming. I'm not too sure where to start or whether this is even possible, I have found a few start-ups based out of the US, but nothing concrete. Thank you!
 
-9h ago
+11h ago
+
+---
+
+**[I Built a Fully Playable FPS Using Only Prompts (No Manual Code)](https://www.reddit.com/r/artificial/comments/1recjbv/i_built_a_fully_playable_fps_using_only_prompts/)**
+
+Hello! I want to share an experiment I’ve been running. Over the past few weeks, I’ve been developing a desktop HTML first-person shooter called Zombie Slayer. The core constraint of the project is this: every line of code was generated through prompts. I never manually edited the source. For context: I have never built a 3D game before, and I’ve never programmed in HTML. I also have nearly zero coding experience. This project has been less about traditional development and more about testing the boundary conditions of prompt-driven creation. The game was built in Antigravity using Gemini 3 Pro, with Three.js handling real-time 3D rendering. All geometry is procedurally generated at runtime. Sound effects are synthesized dynamically, and the music was also generated with AI (Suno). The entire playable build is under 900KB in file size and is an easily shareable HTML file. From a systems perspective: - HTML desktop game (<1MB total footprint) Procedural geometry generated at runtime Real-time sound generation - 10 escalating stages with objectives + economy layer (coin-based Black Market) - Enemy scaling model (each kill increases enemy population and variety) - Weapon and physics modifiers (jetpack thrust, anti-gravity cannon, nuke projectile, etc.) - Dynamic environmental interactions (flood events, teleport well, destructible elements) To my knowledge, this may be the first playable first-person shooter built entirely through prompting (at least at this level of complexity and intentional design). If I’m wrong, I’d genuinely love to see comparable examples. The goal is to continue expanding the game exclusively through prompts and release it for free. I’d appreciate any technical feedback, skepticism, or discussion. I’m treating this as an open experiment in what “AI-native” game development might look like.
+
+1d ago
 
 ---
 
@@ -73,7 +73,15 @@ Hey there, this could be a bit too niche or the wrong group but I am hoping some
 
 Hey everyone. Just an AI enthusiast wanting to give a quick overview of what I'm working on. I'd love to get some feedback from people who use AI frequently. https://reddit.com/link/1rez30u/video/8r9u3brlbrlg1/player It's essentially a front end for memory. Any MCP compatible AI can use it. I built it mostly to be used with Claude, but I'm integrating other AIs. There's some stuff I should be finishing up soon, like full headed browser access directly with Claude Code, and direct communication between two CLIs within the same environment. It also integrates with Openclaw. Openclaw basically saves everything it does in .md files, so I just synced the folder and everything shows up in this 3D graph. https://reddit.com/link/1rez30u/video/3y57aibmbrlg1/player I've put so much stuff into it that I honestly don't even know where to start, but yeah, I just wanted to share. It has a whiteboard, proxy invites for others to join and share the AI usage, it reads whatever is written on the whiteboard, recognizes cards open on the screen... It's a huge mashup of things I've been building for myself over time, just with a little logo on it now. And that's about it. Just really wanted to share.
 
-8h ago
+10h ago
+
+---
+
+**[Google's Aletheia AI Agent Autonomously Solves 6/10 Novel FirstProof Math Problems](https://www.reddit.com/r/artificial/comments/1rem7gq/googles_aletheia_ai_agent_autonomously_solves_610/)**
+
+Abstract: We report the performance of Aletheia (Feng et al., 2026b), a mathematics research agent powered by Gemini 3 Deep Think, on the inaugural FirstProof challenge. Within the allowed timeframe of the challenge, Aletheia autonomously solved 6 problems (2, 5, 7, 8, 9, 10) out of 10 according to majority expert assessments; we note that experts were not unanimous on Problem 8 (only). For full transparency, we explain our interpretation of FirstProof and disclose details about our experiments as well as our evaluation. Raw prompts and outputs are available at this https URL. FirstProof Abstract: To assess the ability of current AI systems to correctly answer research-level mathematics questions, we share a set of ten math questions which have arisen naturally in the research process of the authors. The questions had not been shared publicly until now; the answers are known to the authors of the questions but will remain encrypted for a short time.
+
+🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 18h ago
 
 ---
 
@@ -89,15 +97,7 @@ In an abrupt shift, the company may release future AI models without ironclad s
 
 Lengthy interview with Anthropic co-founder about agentic AI
 
-🔗 [open.spotify.com](https://open.spotify.com/episode/6aeTJQPEXYHITci8d0wfdp?si=wEBInXK-S7WVaUBfbub4aQ) • 11h ago
-
----
-
-**[Google's Aletheia AI Agent Autonomously Solves 6/10 Novel FirstProof Math Problems](https://www.reddit.com/r/artificial/comments/1rem7gq/googles_aletheia_ai_agent_autonomously_solves_610/)**
-
-Abstract: We report the performance of Aletheia (Feng et al., 2026b), a mathematics research agent powered by Gemini 3 Deep Think, on the inaugural FirstProof challenge. Within the allowed timeframe of the challenge, Aletheia autonomously solved 6 problems (2, 5, 7, 8, 9, 10) out of 10 according to majority expert assessments; we note that experts were not unanimous on Problem 8 (only). For full transparency, we explain our interpretation of FirstProof and disclose details about our experiments as well as our evaluation. Raw prompts and outputs are available at this https URL. FirstProof Abstract: To assess the ability of current AI systems to correctly answer research-level mathematics questions, we share a set of ten math questions which have arisen naturally in the research process of the authors. The questions had not been shared publicly until now; the answers are known to the authors of the questions but will remain encrypted for a short time.
-
-🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 17h ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/6aeTJQPEXYHITci8d0wfdp?si=wEBInXK-S7WVaUBfbub4aQ) • 13h ago
 
 ---
 
@@ -121,19 +121,11 @@ Hi, I’m looking for AI software that allows us to upload a large number of our
 
 ## Google News: "ai"
 
-**[New ways to create and refine content in Flow](https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/)**
-
-We're introducing a handful of new features and capabilities to Flow.
-
-blog.google • 18h ago
-
----
-
 **[Anthropic ditches its core safety promise in the middle of an AI red line fight with the Pentagon](https://www.cnn.com/2026/02/25/tech/anthropic-safety-policy-change)**
 
 Anthropic, a company founded by OpenAI exiles worried about the dangers of AI, is loosening its core safety principle in response to competition.
 
-CNN • 21h ago
+CNN • 23h ago
 
 ---
 
@@ -143,41 +135,11 @@ Axios • 1d ago
 
 ---
 
-**[Battle of the AI brands: What’s behind the bad blood between OpenAI and Anthropic](https://www.latimes.com/business/story/2026-02-26/battle-of-ai-brands-whats-behind-bad-blood-between-openai-anthropic)**
+**[What is AI ‘distillation’?](https://www.ft.com/content/4ee94860-d8e6-4f99-b59b-899e89ede5d5)**
 
-The two companies have been publicly taking jabs at each other as they contend in the race to dominate AI.
+Shortcut used by Chinese groups lets smaller models learn from bigger, more powerful systems
 
-Los Angeles Times • 1h ago
-
----
-
-**[Exclusive: Senators revive bipartisan AI innovation bill](https://www.axios.com/2026/02/26/senators-bipartisan-ai-innovation-bill)**
-
-Axios • 2h ago
-
----
-
-**[Elon Musk's makeshift AI power plant generates sound and fury in Mississippi](https://www.nbcnews.com/news/us-news/musks-ai-power-plant-generates-sound-fury-mississippi-rcna258594)**
-
-The 27 temporary gas turbines roar like jet engines day and night to power data centers, residents say.
-
-NBC News • 1h ago
-
----
-
-**[Rolls-Royce profits soar 40% amid booming demand for AI datacentre power](https://www.theguardian.com/business/2026/feb/26/rolls-royce-profits-soar-amid-booming-demand-for-ai-datacentre-power)**
-
-Engine maker promises to give up to £9bn to shareholders over next three years as turnaround gathers pace
-
-The Guardian • 2h ago
-
----
-
-**[Nvidia reports earnings and guidance beat as AI boom pushes data center revenue up 75%](https://www.cnbc.com/2026/02/25/nvidia-nvda-earnings-report-q4-2026.html)**
-
-Nvidia has been the best performer on Wall Street this year among tech's megacap companies.
-
-CNBC • 19h ago
+Financial Times • 1h ago
 
 ---
 
@@ -185,15 +147,49 @@ CNBC • 19h ago
 
 Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.
 
-OpenAI • 21h ago
+OpenAI • 23h ago
 
 ---
 
-**[Do you have to be polite to AI?](https://www.bbc.com/future/article/20260224-the-best-way-to-talk-to-a-chatbot)**
+**[Bonus: Your questions on AI at work](https://www.economist.com/podcasts/2026/02/26/bonus-your-questions-on-ai-at-work)**
 
-One study found a chatbot gave better answers if you pretend to be on Star Trek.
+The Economist • 59m ago
 
-BBC • 1d ago
+---
+
+**[CesiumAstro acquires Vidrovr to embed AI in communications systems](https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/)**
+
+SpaceNews • 49m ago
+
+---
+
+**[Mark Cuban says AI has ushered in an era where any 'kid in a basement' can build something world-changing](https://www.businessinsider.com/mark-cuban-ai-lets-any-kid-build-something-world-changing-2026-2)**
+
+Cuban says AI tools like ChatGPT let curious kids teach themselves and turn one idea into a potentially life-changing product.
+
+Business Insider • 31m ago
+
+---
+
+**[Tech stocks today: Nvidia stock rises as guidance signals AI boom alive and well](https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stock-rises-as-guidance-signals-ai-boom-alive-and-well-220259696.html)**
+
+All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
+
+Yahoo Finance • 15h ago
+
+---
+
+**[A.I. Complicates Old Internet Privacy Risks](https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html)**
+
+The New York Times • 3h ago
+
+---
+
+**[New ways to create and refine content in Flow](https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates-february-2026/)**
+
+We're introducing a handful of new features and capabilities to Flow.
+
+blog.google • 20h ago
 
 ---
 
@@ -205,15 +201,7 @@ BBC • 1d ago
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 2048 • 💬 922 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
-
----
-
-**[Ladybird adopts Rust, with help from AI](https://news.ycombinator.com/item?id=47120899)**
-
-We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.
-
-⬆️ 1268 • 💬 697 • 3d ago • [ladybird.org](https://ladybird.org/posts/adopting-rust/)
+⬆️ 2054 • 💬 931 • 2d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -221,7 +209,7 @@ We're adopting Rust as our C++ successor language, and using AI agents to accele
 
 One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
 
-⬆️ 513 • 💬 222 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
+⬆️ 515 • 💬 227 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
 
 ---
 
@@ -229,7 +217,7 @@ One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4
 
 The latest update of Firefox, version 148, introduces a much-anticipated "AI kill switch" feature, allowing users to disable AI functionalities such as chatbot prompts and AI-generated link summaries. Mozilla emphasizes that once AI features are turned off, future updates will not override this choice. This decision reflects the company’s new revenue-focused strategy regarding AI integrations. […]
 
-⬆️ 459 • 💬 387 • 2d ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+⬆️ 460 • 💬 387 • 2d ago • [ServerHost Hosting Solutions Blog](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 
 ---
 
@@ -246,7 +234,7 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 287 • 💬 272 • 2d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 287 • 💬 273 • 2d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
 
 ---
 
@@ -254,7 +242,7 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
 
-⬆️ 241 • 💬 245 • 22h ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
+⬆️ 245 • 💬 248 • 1d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 
 ---
 
@@ -270,13 +258,21 @@ Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in si
 
 LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
-⬆️ 208 • 💬 73 • 1d ago • [llmskirmish.com](https://llmskirmish.com/)
+⬆️ 208 • 💬 74 • 1d ago • [llmskirmish.com](https://llmskirmish.com/)
 
 ---
 
 **[Hegseth gives Anthropic until Friday to back down on AI safeguards](https://news.ycombinator.com/item?id=47140734)**
 
 ⬆️ 95 • 💬 18 • 1d ago • [axios.com](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario)
+
+---
+
+**[An autopsy of AI-generated 3D slop](https://news.ycombinator.com/item?id=47157841)**
+
+Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-generated 3D 'slop' vs. handcrafted models to show why the human touch is very much required to attain positive ROI.
+
+⬆️ 91 • 💬 55 • 16h ago • [aircada.com](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
 
 ---
 
@@ -290,7 +286,7 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 56K • 👍 1K • 💬 158 • ⏱️ 17:39 • 14h ago
+👁️ 56K • 👍 1K • 💬 158 • ⏱️ 17:39 • 16h ago
 
 ---
 
@@ -310,7 +306,7 @@ Artificial intelligence is accelerating - but how fast is too fast? A new benchm
 
 📺 Sky News
 
-👁️ 19K • 👍 306 • 💬 61 • ⏱️ 8:04 • 18h ago
+👁️ 19K • 👍 306 • 💬 61 • ⏱️ 8:04 • 20h ago
 
 ---
 
@@ -340,7 +336,7 @@ Join Our Discord Server! https://discord.gg/MNTSVCJbDd 0:00 Intro 0:23 How we go
 
 📺 MoeMoe
 
-👁️ 5K • 👍 301 • 💬 76 • ⏱️ 2:02 • 9h ago
+👁️ 5K • 👍 301 • 💬 76 • ⏱️ 2:02 • 11h ago
 
 ---
 
@@ -380,7 +376,7 @@ Notification On Karlo... Milte Hai 1 Baje! Class 10 - Complete AI & IT One Shot 
 
 📺 Physics Wallah Foundation
 
-👁️ 391K • 👍 46K • 19h ago
+👁️ 391K • 👍 46K • 21h ago
 
 ---
 
@@ -456,7 +452,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 255,172 • ❤️ 803 • 5h ago
+⬇️ 255,172 • ❤️ 803 • 7h ago
 
 ---
 
@@ -649,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.6k • 🔱 2.4k • 3m ago
+⭐ 19.6k • 🔱 2.4k • 1h ago
 
 ---
 
@@ -667,7 +663,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.6k • 🔱 682 • 5h ago
+⭐ 5.6k • 🔱 682 • 7h ago
 
 ---
 
@@ -677,7 +673,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.1k • 🔱 223 • 21h ago
+⭐ 4.1k • 🔱 223 • 23h ago
 
 ---
 
@@ -687,7 +683,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.6k • 🔱 355 • 5h ago
+⭐ 3.6k • 🔱 355 • 7h ago
 
 ---
 
@@ -697,7 +693,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.4k • 🔱 443 • 6h ago
+⭐ 3.4k • 🔱 443 • 8h ago
 
 ---
 
@@ -707,7 +703,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.0k • 🔱 355 • 1h ago
+⭐ 3.0k • 🔱 355 • 3h ago
 
 ---
 
@@ -717,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 196 • 5h ago
+⭐ 2.9k • 🔱 196 • 6h ago
 
 ---
 
@@ -727,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 286 • 21m ago
+⭐ 2.6k • 🔱 286 • 2h ago
 
 ---
 
@@ -737,7 +733,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 513 • 21h ago
+⭐ 2.6k • 🔱 513 • 23h ago
 
 ---
 

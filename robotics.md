@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T12:00:58.926000+00:00'
+updated: '2026-02-26T13:49:01.102600+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 12:00 UTC  
+**Last Updated:** February 26, 2026 at 13:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,41 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[I built a body for GPT](https://www.reddit.com/r/robotics/comments/1resqdo/i_built_a_body_for_gpt/)**
+**[German Chancellor Friedrich Merz visited Unitree in China’s Hangzhou.](https://www.reddit.com/r/robotics/comments/1rf7kh5/german_chancellor_friedrich_merz_visited_unitree/)**
 
-Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
+From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-13h ago
+2h ago
+
+---
+
+**[A Spanish engineer trying to use his smart vacuum cleaner robot with his PS5 gamepad discovered that he was able to control 7,000 devices around the world.](https://www.reddit.com/r/robotics/comments/1rf9mnu/a_spanish_engineer_trying_to_use_his_smart_vacuum/)**
+
+Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
+
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 44m ago
 
 ---
 
 **[EgoScale by Nvidia, a human-to-dexterous-manipulation transfer framework built on large-scale egocentric human data (20k hours) (Demos with a 22-DoF robotic hand)](https://www.reddit.com/r/robotics/comments/1rf62n4/egoscale_by_nvidia_a_humantodexterousmanipulation/)**
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
+
+3h ago
+
+---
+
+**[I built a body for GPT](https://www.reddit.com/r/robotics/comments/1resqdo/i_built_a_body_for_gpt/)**
+
+Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
+
+14h ago
+
+---
+
+**[Made in France WALL-E animatronic (french news)](https://www.reddit.com/r/robotics/comments/1rf73c9/made_in_france_walle_animatronic_french_news/)**
+
+Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
 2h ago
 
@@ -52,15 +76,21 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-23h ago
+1d ago
 
 ---
 
-**[Made in France WALL-E animatronic (french news)](https://www.reddit.com/r/robotics/comments/1rf73c9/made_in_france_walle_animatronic_french_news/)**
+**[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
+3m ago
 
-1h ago
+---
+
+**[The Huge Gap Between Demo and Deployment. And How Can We Bridge It?](https://www.reddit.com/r/robotics/comments/1rf73if/the_huge_gap_between_demo_and_deployment_and_how/)**
+
+I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. In particular, I’ve noticed most demos focus on performance-oriented tasks, like dancing or even kung fu. But those seem very different from the kinds of scenarios that would generate large-scale, real economic value in actual deployment. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
+
+2h ago
 
 ---
 
@@ -68,45 +98,13 @@ Sorry this video is in french but I am so proud to show you my work, a fully fun
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-18h ago
+20h ago
 
 ---
 
 **[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
 
-17h ago
-
----
-
-**[The Huge Gap Between Demo and Deployment. And How Can We Bridge It?](https://www.reddit.com/r/robotics/comments/1rf73if/the_huge_gap_between_demo_and_deployment_and_how/)**
-
-I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
-
-1h ago
-
----
-
-**[Mobile Climbing Robot for the AS/RS & 3PL](https://www.reddit.com/r/robotics/comments/1rejkqz/mobile_climbing_robot_for_the_asrs_3pl/)**
-
-Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
-
-18h ago
-
----
-
-**[Improving Odometry Accuracy on a Small Indoor Rover – Advice?](https://www.reddit.com/r/robotics/comments/1rf0nqj/improving_odometry_accuracy_on_a_small_indoor/)**
-
-Hey everyone, I’m working on a small autonomous indoor rover (Pi 4 + RPLIDAR + wheel encoders, running ROS2 + Nav2), and it’s navigating decently but I’m still seeing noticeable odometry drift over longer runs. I’ve calibrated the wheel encoders carefully, but the error still builds up over time. I’m considering adding sensor fusion with an IMU (EKF), but not sure if that’s the best next step. For those who’ve built similar indoor robots: What helped you most with reducing drift? Is EKF with IMU worth it on a Pi-class setup? At what point did you switch to more powerful hardware? Appreciate any advice from folks who’ve dealt with this. Thanks!
-
-7h ago
-
----
-
-**[Weave Robotics Isaac 0, a stationary, laundry folding robot powered by Physical Intelligence π0.6 model](https://www.reddit.com/r/robotics/comments/1reacvq/weave_robotics_isaac_0_a_stationary_laundry/)**
-
-Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
-
-1d ago
+19h ago
 
 ---
 
@@ -118,23 +116,15 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 16h ago
+TechCrunch • 17h ago
 
 ---
 
-**[Exclusive / US government to meet with robot-makers as China competition intensifies](https://www.semafor.com/article/02/25/2026/us-government-to-meet-with-robot-makers-as-china-competition-intensifies)**
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
 
-The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
-Semafor • 17h ago
-
----
-
-**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
-
-Intrinsic is focused on making robots easier to program, teach, and operate.
-
-The Verge • 54m ago
+NBC Bay Area • 1d ago
 
 ---
 
@@ -142,23 +132,7 @@ The Verge • 54m ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 16h ago
-
----
-
-**[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
-
-"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
-
-CNBC • 2d ago
-
----
-
-**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
-
-Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
-
-TribLIVE.com • 1d ago
+Fortune • 18h ago
 
 ---
 
@@ -170,19 +144,41 @@ The Conversation • 1d ago
 
 ---
 
-**[Humanoid robots steal show at festival gala](https://www.chinadaily.com.cn/a/202602/25/WS699e579ca310d6866eb3a24f.html)**
+**[Is Mass. losing robotics edge? Here's what local companies are doing.](https://www.bizjournals.com/boston/news/2026/02/26/robotics-companies-in-massachusetts.html)**
 
-Breakthroughs in motion control and cluster technology take center stage.
-
-China Daily • 1d ago
+The Business Journals • 2h ago
 
 ---
 
-**[7 Next-Gen Chinese Humanoid Robots: From ‘Kung Fu’ Spectacles to Factory Workhorses](https://www.eweek.com/news/7-next-gen-chinese-humanoid-robots-2026/)**
+**[Intrinsic is joining Google to advance physical AI in robotics](https://www.therobotreport.com/intrinsic-is-joining-google-to-advance-physical-ai-in-robotics/)**
 
-China’s humanoid robot makers are scaling fast in 2026, led by Unitree and AgiBot, as the market shifts from viral demos to commercial deployment.
+Intrinsic originally spun out from Google parent Alphabet in 2021, and it has since worked with Alphabet subsidiaries.
 
-eWeek • 1d ago
+The Robot Report • 50m ago
+
+---
+
+**[Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html)**
+
+Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
+
+CNBC • 16h ago
+
+---
+
+**[German Chancellor Friedrich Merz visits Unitree Robotics in Hangzhou, watching Wubot and robot fights](https://www.globaltimes.cn/page/202602/1355787.shtml)**
+
+German Chancellor Friedrich Merz visited Chinese robotics firm Unitree Robotics in Hangzhou, East China’s Zhejiang Province, on Thursday afternoon, where he watched the robot product displays and robot performances such as
+
+Global Times • 3h ago
+
+---
+
+**[CMU scores 1st tenant for $100M Hazelwood Green robotics center](https://triblive.com/business/cmu-scores-first-tenant-for-100m-hazelwood-green-robotics-center/)**
+
+Carnegie Mellon University&rsquo;s Robotics Innovation Center has secured its first tenant ahead of the $100 million facility&rsquo;s opening celebration Friday. California-based FieldAI will establish a small lab and office suite in the 150,000-square-foot building, the university announced Monday. The Robotics Innovation Center is located at Hazelwood Green, site of a
+
+TribLIVE.com • 1d ago
 
 ---
 
@@ -190,7 +186,7 @@ eWeek • 1d ago
 
 At TechFest 2026, robotics progress looked practical and disciplined. Growth is steady, AI enhances capability, and long-term service and system coordination drive real-world adoption.
 
-Seeking Alpha • 1h ago
+Seeking Alpha • 3h ago
 
 ---
 
@@ -224,7 +220,7 @@ From staggering dance steps to smooth martial arts performances, humanoid robots
 
 📺 CGTN
 
-👁️ 3K • 👍 118 • 💬 15 • ⏱️ 4:41 • 6h ago
+👁️ 3K • 👍 118 • 💬 15 • ⏱️ 4:41 • 8h ago
 
 ---
 
@@ -264,7 +260,7 @@ German Chancellor Friedrich Merz visited the Chinese robotics firm Unitree Robot
 
 📺 CGTN
 
-👁️ 6K • 👍 820 • 💬 87 • ⏱️ 0:37 • 2h ago
+👁️ 6K • 👍 820 • 💬 87 • ⏱️ 0:37 • 4h ago
 
 ---
 
