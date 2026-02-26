@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T09:12:36.384882+00:00'
+updated: '2026-02-26T10:11:47.425908+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 09:12 UTC  
+**Last Updated:** February 26, 2026 at 10:11 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-10h ago
+11h ago
 
 ---
 
@@ -44,7 +44,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-20h ago
+21h ago
 
 ---
 
@@ -52,13 +52,13 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-15h ago
+16h ago
 
 ---
 
 **[Well… there goes our last advantage](https://www.reddit.com/r/robotics/comments/1reky0g/well_there_goes_our_last_advantage/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -66,7 +66,7 @@ Hello, we just open-sourced our custom waist design for openarm. We found that a
 
 Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-15h ago
+16h ago
 
 ---
 
@@ -74,7 +74,7 @@ Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimbe
 
 Hey everyone, I’m working on a small autonomous indoor rover (Pi 4 + RPLIDAR + wheel encoders, running ROS2 + Nav2), and it’s navigating decently but I’m still seeing noticeable odometry drift over longer runs. I’ve calibrated the wheel encoders carefully, but the error still builds up over time. I’m considering adding sensor fusion with an IMU (EKF), but not sure if that’s the best next step. For those who’ve built similar indoor robots: What helped you most with reducing drift? Is EKF with IMU worth it on a Pi-class setup? At what point did you switch to more powerful hardware? Appreciate any advice from folks who’ve dealt with this. Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -90,7 +90,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo in the Yaskawa robotics 
 
 Blog article (with longer videos): https://www.pi.website/blog/partner From Physical Intelligence on 𝕏: https://x.com/physical_int/status/2026447989959762079 Weave Robotics Website: https://www.weaverobotics.com/
 
-22h ago
+23h ago
 
 ---
 
@@ -104,7 +104,7 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 Spent the past week pushing generative AI through a full robotics software stack to see where it actually breaks down. The results were surprising, not because the AI failed at writing code, but because of how it failed. Every single failure came down to the same thing: the AI has no model of physical reality. A few highlights: — Perception: nailed the MutuallyExclusiveCallbackGroup + MultiThreadedExecutor architecture for a YOLOv8 ROS2 node. Then confidently told me to mount /dev/video0 on macOS. — Planning: wrote a solid 200-line RRT* implementation. Treated the robot as a dimensionless point. When I asked it to fix the C-Space inflation, it updated the visualization but not the collision math. The path still went straight through the buffer zones. — Control: produced a textbook PID response curve. The control effort subplot showed near-infinite instantaneous torque at t=0. Derivative Kick, no output clamping, no anti-windup. Would have damaged the hardware on first run. The pattern across all three: AI has absorbed an enormous amount of robotics knowledge. What it hasn't internalized is the physical substrate those algorithms run on. Wrote this up in full if anyone wants the details: https://medium.com/@advaithsomula/vibecoding-stops-at-the-laws-of-physics-6024872572c0 Curious if others have hit similar patterns.
 
-4h ago
+5h ago
 
 ---
 
@@ -116,7 +116,7 @@ Spent the past week pushing generative AI through a full robotics software stack
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 13h ago
+TechCrunch • 14h ago
 
 ---
 
@@ -148,7 +148,7 @@ Interesting Engineering • 2d ago
 
 The International Federation of Robotics is a professional non-profit organization to promote, strengthen and protect the robotics industry worldwide.
 
-International Federation of Robotics • 1h ago
+International Federation of Robotics • 2h ago
 
 ---
 
@@ -156,7 +156,7 @@ International Federation of Robotics • 1h ago
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 11h ago
+CNBC • 12h ago
 
 ---
 
@@ -172,7 +172,7 @@ TribLIVE.com • 1d ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
