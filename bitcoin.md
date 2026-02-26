@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-26T18:09:31.348752+00:00'
+updated: '2026-02-26T19:24:35.773752+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
+- social
 - videos
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 26, 2026 at 18:09 UTC  
+**Last Updated:** February 26, 2026 at 19:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,27 +44,27 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.6%  
-**7d:** -2.1%  
-**30d:** -25.4%  
-**90d:** -26.7%  
-**1y:** -21.5%  
+**24h:** -2.1%  
+**7d:** -0.4%  
+**30d:** -24.1%  
+**90d:** -25.5%  
+**1y:** -20.2%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1336.12B
+**Market Cap:** $1352.80B
 Rank #1
 
-**Circulating Supply:** 19,995,131 BTC
+**Circulating Supply:** 19,995,171 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.0%
+-46.3%
 
 **All-Time Low:** $67.81
-+98453.3%
++99695.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 2011: -93% 2015: -86% 2018: -84% 2022: -77% Every cycle, the drawdown gets smaller as the market matures. If BTC follows this trend, the 2026 bottom should be around -70% from the $126K ATH. That puts us at $38K. At the moment It costs $87,000 to produce one Bitcoin and the current price is $65,000. So, miners are losing money on every single coin they mine. This only happens during bear markets. In 2022, Bitcoin dropped below its production cost in June. People called the bottom but the actual bottom was 5 months later in November at $15,800 after miners were forced to sell everything they had just to keep the lights on. The pattern has always been the same. Price drops below production cost. Miners start selling reserves to survive. Selling pressure pushes price lower. Weaker miners go bankrupt. Their creditors liquidate the remaining Bitcoin. More selling. More pain. Then the bottom. We are in the selling reserves phase. The bankruptcy phase has not even started. Of course, things could be different this time. In my opinion BTC is going LOWER Ill be DCAing sub 50k
 
-7h ago
+8h ago
 
 ---
 
@@ -97,7 +97,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 https://x.com/1914ad/status/2026757796390449382?s=46 TLDR: Every 10am (NYC time) Jane Street would start dumping BTC because they earned money every time its price fell. They extracted over $4.2B through market manipulation.
 
-4h ago
+5h ago
 
 ---
 
@@ -105,7 +105,7 @@ https://x.com/1914ad/status/2026757796390449382?s=46 TLDR: Every 10am (NYC time)
 
 a few years ago, I bought Bitcoin at 20k, I sold at 70k. I just wanted to inform new buyers and ppl that are thinking about this now... hold that shi, this coin can do so much for you investing. I've seen on so many forums that it's crashing it's gonna skyrocket yada yada... don't stalk it where it's price is, hold it long. I could have made thousands more than I did if I held it longer to over 100k dollars. welcome to the club, I'm glad to be back in:)
 
-17h ago
+18h ago
 
 ---
 
@@ -113,7 +113,7 @@ a few years ago, I bought Bitcoin at 20k, I sold at 70k. I just wanted to inform
 
 Fear & Greed: 16. Lowest RSI ever on weekly. $3.8B in ETF outflows. Timeline says crypto is dead. Meanwhile BlackRock is casually scooping $78M like nothing happened. Every bear market has a moment where institutions and retail completely diverge. This might be it. Or maybe BlackRock is wrong and your favorite CT influencer is right. DYOR.
 
-4h ago
+5h ago
 
 ---
 
@@ -121,7 +121,7 @@ Fear & Greed: 16. Lowest RSI ever on weekly. $3.8B in ETF outflows. Timeline say
 
 Currencies like the dollar have value because powerful governments say that they do. If the US government said today that the dollar was worthless, nobody would accept it anymore. Bitcoin works in the exact opposite way. It's democratized money. This means that no single country or group has control over it. If any government says that they don't like Bitcoin, which many have, it doesn't matter. Bitcoin is decentralized, so there are thousands of nodes and Bitcoin miners all over the world securing the network and making sure that anyone, anywhere can trade Bitcoin. So while traditional currencies are backed by governments, Bitcoin is backed by the people. I hope i educated him enough.
 
-3h ago
+5h ago
 
 ---
 
@@ -135,7 +135,7 @@ https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4
 
 **[Google searches for "buy bitcoin" at highest level in 5 years](https://www.reddit.com/r/Bitcoin/comments/1renmsw/google_searches_for_buy_bitcoin_at_highest_level/)**
 
-🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 22h ago
+🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 23h ago
 
 ---
 
@@ -143,15 +143,15 @@ https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4
 
 And people are freaking out…sit back and enjoy the ride.
 
-18h ago
+19h ago
 
 ---
 
-**[Whats your single piece of evidence for long term upside?](https://www.reddit.com/r/Bitcoin/comments/1rf94b9/whats_your_single_piece_of_evidence_for_long_term/)**
+**[Has Bitcoin quietly become something different?](https://www.reddit.com/r/Bitcoin/comments/1rff92u/has_bitcoin_quietly_become_something_different/)**
 
-if you had to sum it up to one point.. whats your personal reason for believing in longterm upside?
+I’ve been around long enough to remember when the focus was almost entirely on self custody and sovereignty. Running a node. Holding your own keys. Opting out of the system. That felt like the point. Now most of the headlines are about ETFs, institutional flows, and large custodians holding significant supply. It seems like a lot of people just want exposure in a brokerage account instead of managing seed phrases themselves. I totally get it, it’s easier, safer for many, and probably necessary for broader adoption. But I sometimes wonder: if Bitcoin ends up primarily held and custodied by large financial institutions, integrated into traditional markets, is that still the same movement it started as? Maybe this is just maturation. Maybe sovereignty at scale looks different than we imagined. Not trying to be negative, genuinely curious how others think about this.
 
-5h ago
+2h ago
 
 ---
 
@@ -159,47 +159,67 @@ if you had to sum it up to one point.. whats your personal reason for believing 
 
 ## Google News: "bitcoin"
 
-**[The Bull Case for Bitcoin Is Hiding in the $1 Trillion Wreckage](https://www.bloomberg.com/news/articles/2026-02-25/the-bull-case-for-bitcoin-is-hiding-in-the-1-trillion-wreckage)**
+**[Trump Brothers’ Bitcoin Miner Posts Quarterly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-26-2026/card/trump-brothers-bitcoin-miner-posts-quarterly-loss-vnJNFk9Ig28NkJ1Pb2iv?gaa_at=eafs&gaa_n=AWEtsqfbzDO_YdhbgvL1b8PUx2mbvf5260AatvNS0CYYceY4ieVXK9c-Hq-S&gaa_ts=69a0a15f&gaa_sig=q9nwos4xz-DHanbPsn0yuNQee8TtfTeae4RQl6DCt1Eys7Sn5AwaMTBh4a6-awNmN3sydiUNpsOKh9mfHuD4vA%3D%3D)**
 
-Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
-
-Bloomberg • 18h ago
+WSJ • 10h ago
 
 ---
 
-**[Bitcoin mining is no longer profitable after crypto's latest downward turn, analyst says](https://www.cnbc.com/2026/02/24/bitcoin-mining-is-no-longer-profitable-after-cryptos-latest-downward-turn.html)**
+**[Trump-linked bitcoin mining company lost $153 million last year](https://www.coindesk.com/business/2026/02/26/trump-family-linked-american-bitcoin-posts-usd59-million-q4-loss-as-bitcoin-price-slides)**
 
-Bitcoin briefly sank below $63,000 on Tuesday, dragging down its miners alongside it.
+The company now holds over 6,000 BTC, with roughly one-third acquired through mining and two-thirds through open-market purchases and strategic transactions.
 
-CNBC • 2d ago
-
----
-
-**[Bitcoin news: $75 turns into $200,000 jackpot for lucky BTC miner](https://www.coindesk.com/markets/2026/02/25/solo-bitcoin-miner-turns-usd75-of-rented-hashrate-into-a-usd200-000-block-reward)**
-
-The miner rented 1 petahash per second through on-demand cloud mining and got lucky on block 938,092, one of 21 solo-mined blocks in the past year.
-
-CoinDesk • 13h ago
+CoinDesk • 6h ago
 
 ---
 
-**[Bitcoin Mining Capitulation Nears End: Is a BTC USD Price Bottom Forming?](https://finance.yahoo.com/news/bitcoin-mining-capitulation-nears-end-122129515.html)**
+**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
 
-Wall Street traders have placed massive bets that Michael Saylor’s company will crash. As of late February 2026, over 30 million MSTR shares are being sold short. Currently, Strategy has a massive amount of short interest, where roughly 11% to 14% of its available shares are sold short. The “days ...
+Reuters • 7h ago
 
-Yahoo Finance • 5h ago
+---
+
+**[Why crypto is up today: Bitcoin is facing a major hurdle around $70,000 that will decide if this rally is built to last](https://www.coindesk.com/markets/2026/02/25/bitcoin-snaps-back-near-usd69-000-but-analysts-warn-the-market-may-not-be-out-of-the-woods-yet)**
+
+Crypto rebounds sharply from Tuesday's lows, yet traders question whether the move marks a lasting turn or another range-bound bounce.
+
+CoinDesk • 20h ago
 
 ---
 
 **[Bitcoin Resumes Slide After Quick Pullback in Risk Appetite](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-resumes-slide-after-quick-pullback-in-risk-appetite)**
 
-Bloomberg • 26m ago
+Bloomberg • 1h ago
 
 ---
 
 **[Opinion | Donald Trump Is the Crypto President. Why Is It Struggling? - The New York Times](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
+
+---
+
+**[Indiana prepares to put bitcoin in its public retirement plans](https://www.coindesk.com/policy/2026/02/26/indiana-joins-seven-other-u-s-states-in-passing-bills-allowing-crypto-in-public-pensions)**
+
+Indiana passes HB 1042 enabling public retirement funds to invest in bitcoin and ETFs, and separately bans crypto ATMs over fraud risks.
+
+CoinDesk • 6h ago
+
+---
+
+**[Wallet in Telegram unveils yield for Bitcoin, Ethereum and USDT holdings](https://www.theblock.co/post/391338/telegram-crypto-wallet-yield-bitcoin-ethereum-usdt-holdings)**
+
+TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
+
+The Block • 9h ago
+
+---
+
+**[Want to Make $15,000 With XRP or Bitcoin? Do These 3 Things.](https://www.nasdaq.com/articles/want-make-15000-xrp-or-bitcoin-do-these-3-things)**
+
+Key PointsBitcoin and XRP are both likely to grow significantly over the coming years.
+
+Nasdaq • 1d ago
 
 ---
 
@@ -211,33 +231,13 @@ Business Insider • 1d ago
 
 ---
 
-**[Engie eyes bitcoin mine and storage system at huge new Brazil solar plant](https://www.reuters.com/sustainability/climate-energy/engie-eyes-bitcoin-mine-storage-system-huge-new-brazil-solar-plant-2026-02-23/)**
-
-Reuters • 3d ago
-
----
-
-**[Wallet in Telegram unveils yield for Bitcoin, Ethereum and USDT holdings](https://www.theblock.co/post/391338/telegram-crypto-wallet-yield-bitcoin-ethereum-usdt-holdings)**
-
-TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
-
-The Block • 8h ago
-
----
-
-**[Trump Brothers’ Bitcoin Miner Posts Quarterly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-26-2026/card/trump-brothers-bitcoin-miner-posts-quarterly-loss-vnJNFk9Ig28NkJ1Pb2iv?gaa_at=eafs&gaa_n=AWEtsqd7jbj6_iLT6utJ0vkXAOprxsSu-nSTHq_rqVxqUn6wcguSpkj7MFFP&gaa_ts=69a08fbf&gaa_sig=LI5M1_DHf_qfYT3GvjufSQs-HHtP8pszjLdldKpuaEJwEN-_MphpQc-v_zGIrJwsNKUzpojpXVRSlpHg-bvnXg%3D%3D)**
-
-WSJ • 9h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
 
 **[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
 
-⬆️ 9 • 💬 3 • 19h ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+⬆️ 9 • 💬 3 • 20h ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
 
 ---
 
@@ -257,7 +257,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 **[Fix the money, fix the world: Bitcoin as techno-libertarian religion](https://news.ycombinator.com/item?id=47165953)**
 
-⬆️ 2 • 💬 0 • 4h ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
+⬆️ 2 • 💬 0 • 5h ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
 
 ---
 
@@ -265,7 +265,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
 
-⬆️ 2 • 💬 0 • 16h ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
+⬆️ 2 • 💬 0 • 17h ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
 
 ---
 
@@ -279,7 +279,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 4d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 5d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -287,7 +287,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
 
-⬆️ 1 • 💬 0 • 15m ago • [GitHub](https://github.com/pyoneerC/deadhand)
+⬆️ 1 • 💬 0 • 1h ago • [GitHub](https://github.com/pyoneerC/deadhand)
 
 ---
 
@@ -311,23 +311,33 @@ Singapore based BTC and AI miner sells all holdings to build liquidity for expan
 
 ## YouTube Videos: "bitcoin"
 
-**[Bitcoin Manipulation Exposed: They Are Shorting MicroStrategy to ZERO?!](https://www.youtube.com/watch?v=1F6cfLhP9_A)**
-
-Bitcoin did not just crash. It may have been engineered. From Terra's collapse to a $19 billion liquidation event and the sudden ...
-
-📺 Simply Bitcoin
-
-👁️ 37K • 👍 3K • 💬 169 • ⏱️ 15:03 • 19h ago
-
----
-
 **[Bitcoin Holders, This Is Wild (Breaking News)](https://www.youtube.com/watch?v=OdPd3ZKntwU)**
 
 Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
 
 📺 Aaron Bennett
 
-👁️ 27K • 👍 993 • 💬 170 • ⏱️ 8:26 • 15h ago
+👁️ 28K • 👍 1K • 💬 179 • ⏱️ 8:26 • 16h ago
+
+---
+
+**[Bitcoin Manipulation Exposed: They Are Shorting MicroStrategy to ZERO?!](https://www.youtube.com/watch?v=1F6cfLhP9_A)**
+
+Bitcoin did not just crash. It may have been engineered. From Terra's collapse to a $19 billion liquidation event and the sudden ...
+
+📺 Simply Bitcoin
+
+👁️ 39K • 👍 3K • 💬 178 • ⏱️ 15:03 • 21h ago
+
+---
+
+**[The Biggest Bitcoin Short Squeeze of 2026 Is Loading [Proof]](https://www.youtube.com/watch?v=4z0knsMozq4)**
+
+Bitcoin ripped into a relief rally after sweeping range lows, liquidating a wave of shorts and shifting momentum for the first time in ...
+
+📺 Crypto Banter
+
+👁️ 13K • 👍 1K • 💬 26 • ⏱️ 34:54 • 4h ago
 
 ---
 
@@ -337,7 +347,17 @@ Bitcoin Price Suppression & Crypto Market Manipulation LIFTED! ⭐ Follow Altcoi
 
 📺 Altcoin Daily
 
-👁️ 52K • 👍 3K • 💬 163 • ⏱️ 10:59 • 19h ago
+👁️ 54K • 👍 3K • 💬 165 • ⏱️ 10:59 • 20h ago
+
+---
+
+**[Bitcoin: Midterm Year Returns](https://www.youtube.com/watch?v=fV6NzO02KH4)**
+
+Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
+
+📺 Benjamin Cowen
+
+👁️ 23K • 👍 2K • 💬 108 • ⏱️ 12:57 • 5h ago
 
 ---
 
@@ -347,7 +367,27 @@ Drew takes a look a the latest manipulation that has happened recently with Bitc
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 375 • 💬 49 • ⏱️ 9:33 • 18h ago
+👁️ 8K • 👍 382 • 💬 52 • ⏱️ 9:33 • 19h ago
+
+---
+
+**[🚨 BITCOIN IS FOOLING YOU!!!!!](https://www.youtube.com/watch?v=FwtS4G858EA)**
+
+WEEX: https://themoon.co/DailyWEEX UP TO $30000 BONUS BLOFIN: https://themoon.co/dailyBlofin450usdt UP TO ...
+
+📺 The Moon Show
+
+👁️ 4K • 👍 291 • 💬 8 • ⏱️ 10:56 • 4h ago
+
+---
+
+**[Bitcoin Is Being Repriced by AI](https://www.youtube.com/watch?v=DnT8bUl_DM8)**
+
+Get my free guide to building a tax-free bitcoin income stream: https://link.1markmoss.com/hqXt3 There's a rotation starting that ...
+
+📺 Mark Moss
+
+👁️ 86K • 👍 4K • 💬 510 • ⏱️ 15:47 • 1d ago
 
 ---
 
@@ -361,53 +401,11 @@ Bitcoin #Crypto #Finance Bitcoin accumulation is approaching extreme levels at t
 
 ---
 
-**[Bitcoin Is Being Repriced by AI](https://www.youtube.com/watch?v=DnT8bUl_DM8)**
+**[How Wall Street Can Manipulate Bitcoin](https://www.youtube.com/watch?v=w6LZUaCo50w)**
 
-Get my free guide to building a tax-free bitcoin income stream: https://link.1markmoss.com/hqXt3 There's a rotation starting that ...
+📺 Andrei Jikh
 
-📺 Mark Moss
-
-👁️ 84K • 👍 4K • 💬 501 • ⏱️ 15:47 • 1d ago
-
----
-
-**[Michael Saylor Reveals the Pattern Behind Bitcoin’s Crash!](https://www.youtube.com/watch?v=eWLncwZY2QQ)**
-
-Bitcoin is down 45% from its all-time high as AI disruption rattles global markets and uncertainty hits record levels. With weekly ...
-
-📺 Swan Bitcoin
-
-👁️ 66K • 👍 2K • 💬 207 • ⏱️ 19:02 • 1d ago
-
----
-
-**[Whales are BUYING!!! #crypto](https://www.youtube.com/watch?v=n7qFFbz-Fv4)**
-
-bitcoin to zero (what most people won't tell you) ⭐ Follow Altcoin Daily on X: https://twitter.com/AltcoinDaily 50% deposit ...
-
-📺 Altcoin Daily
-
-👁️ 21K • 👍 563 • 💬 30 • ⏱️ 1:05 • 2d ago
-
----
-
-**[The 10 AM &quot;Scam&quot;: How They’re Rigged Bitcoin](https://www.youtube.com/watch?v=ZmHXJrqe5L8)**
-
-Bitcoin, Jane Street allegations, MSTR, NVIDIA, SOL, and more! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 11K • 👍 705 • 💬 83 • ⏱️ 15:02 • 6h ago
-
----
-
-**[BITCOIN PUMP (Should You Be Worried)](https://www.youtube.com/watch?v=MokZSoETpUM)**
-
-Is this Bitcoin pump finally the real deal, or are we walking into a massive bull trap? Today, we're looking at why "Trust" is the most ...
-
-📺 Discover Crypto
-
-👁️ 3K • 👍 271 • 3h ago
+👁️ 9K • 👍 482 • 💬 30 • ⏱️ 1:18 • 2h ago
 
 ---
 
