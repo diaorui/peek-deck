@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-26T20:00:09.636242+00:00'
+updated: '2026-02-26T20:51:04.239619+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- news
 - videos
 - social
-- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 26, 2026 at 20:00 UTC  
+**Last Updated:** February 26, 2026 at 20:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -2.2%  
-**7d:** +3.1%  
+**24h:** -3.4%  
+**7d:** +3.0%  
 **30d:** -32.6%  
 **90d:** -32.1%  
-**1y:** -12.0%  
+**1y:** -12.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ https://strawmap.org/ A very important document. Let's walk through this one "go
 
 EF Protocol publishes Strawmap, a technical strawman roadmap that visualizes Ethereum L1 upgrades through 2029, framing dependencies, headliners, & five long-term north stars.
 
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 14h ago
+🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 15h ago
 
 ---
 
@@ -96,7 +96,7 @@ EF Protocol publishes Strawmap, a technical strawman roadmap that visualizes Eth
 
 The Ethereum Foundation has published a draft long-term roadmap called “Strawmap,” outlining how the protocol could evolve across multiple forks through the rest of the decade. It organizes Ethereum’s end-state around five core goals: fast L1 (seconds-level finality) gigagas L1 (~10k TPS via zk execution proofs) teragas L2 (massive rollup DA bandwidth) post-quantum L1 native privacy (shielded ETH transfers) Strawmap is described as a coordination tool rather than a fixed plan, mapping one possible path for Ethereum’s base layer architecture over time. Overall it reads like Ethereum’s intended equilibrium design: zk-verified execution + rollup scaling + fast finality + built-in privacy. Full breakdown: https://btcusa.com/ethereum-foundation-publishes-strawmap-roadmap-with-fast-finality-zkevm-scaling-and-native-privacy-goals/ Which part of Strawmap do you see as the biggest shift for Ethereum long-term — zk L1, native privacy, or fast finality?
 
-22h ago
+23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 The move follows investor exits, asset sales and a retreat from holding Ethereum on the public company's balance sheet.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -164,23 +164,23 @@ Decrypt • 16h ago
 
 The rally marks one of the strongest single-day rebounds in weeks, snapping a steady slide that had pushed bitcoin down sharply from its October highs.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
-**[Ethereum news: Vitalik Buterin unveils roadmap to counter quantum computing threat](https://www.coindesk.com/tech/2026/02/26/vitalik-buterin-unveils-ethereum-roadmap-to-counter-quantum-computing-threat)**
+**[Vitalik Buterin unveils Ethereum roadmap to counter quantum computing threat](https://www.coindesk.com/tech/2026/02/26/vitalik-buterin-unveils-ethereum-roadmap-to-counter-quantum-computing-threat)**
 
 This move comes shortly after the Ethereum Foundation established a dedicated post-quantum research team to study the issue.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
-**[Bitcoin, Ethereum Traders Show Optimism Despite 'Extreme Fear' in Crypto](https://finance.yahoo.com/news/bitcoin-ethereum-traders-show-optimism-161941064.html)**
+**[Ethereum news: The network is moving away from being a slow giant to become a high-speed 'internet of value' by 2029](https://www.coindesk.com/news-analysis/2026/02/26/here-is-why-ethereum-s-bold-new-plan-could-make-the-blockchain-giant-high-speed-internet-of-value-by-2029)**
 
-Prediction market users are getting more bullish on near-term price moves for Bitcoin and Ethereum, but the crypto market is still fearful.
+Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-Yahoo Finance • 3h ago
+CoinDesk • 16m ago
 
 ---
 
@@ -192,25 +192,25 @@ Fortune • 3d ago
 
 ---
 
+**[How to buy ethereum](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-ethereum-221336966.html)**
+
+Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
+
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqeLE_pUk7YV5bJCfYPfBzeShPEANtKJQS486hw-hi_9-hCe0pUEizaz&gaa_ts=69a0b5a2&gaa_sig=bYtWvhOV2-gsAPkkshAoo4GwW8wjBlIqsmMKUxILhbErsSyksfIFp_WvGMTrJaopxaBr8YzE1HsQaNGE1IDt8A%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
 **[ETH Casino 2026 - Best Ethereum Casinos for US Players](https://muddyrivernews.com/gambling/ethereum-casinos/20260223091539/)**
 
 Discover top Ethereum casinos in the US. Play with ETH, enjoy instant transactions, fast payouts, generous bonuses, and secure crypto gaming platforms.
 
 Muddy River News • 3d ago
-
----
-
-**[Better Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/02/24/better-buy-bitcoin-vs-ethereum/)**
-
-Could Ethereum really outperform Bitcoin this year? Harvard seems to think so.
-
-The Motley Fool • 2d ago
-
----
-
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqfbQQwfc0QoB8DcSHwj2Kjwf6QTa36QIRq7xp9_-NqYNU2vmbNgR3cj&gaa_ts=69a0a161&gaa_sig=N-Aq8Sejlw_AhuKZzDIrsgcio7ptMhpNrDAmSbKaIuFm7b9Ab4uZMJJdlYHu4l4EovUj2LR-FHskYs6ckHsjMg%3D%3D)**
-
-Barron's • 1d ago
 
 ---
 
@@ -222,9 +222,11 @@ thestreet.com • 2d ago
 
 ---
 
-**[Ethereum Is Growing. So Why Is The ETH Price Collapsing?](https://www.forbes.com/sites/greatspeculations/2026/02/24/ethereum-is-growing-so-why-is-the-eth-price-collapsing/)**
+**[Better Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/02/24/better-buy-bitcoin-vs-ethereum/)**
 
-Forbes • 2d ago
+Could Ethereum really outperform Bitcoin this year? Harvard seems to think so.
+
+The Motley Fool • 2d ago
 
 ---
 
@@ -248,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 739 • 👍 80 • 💬 5 • ⏱️ 4:58 • 2h ago
+👁️ 739 • 👍 80 • 💬 5 • ⏱️ 4:58 • 3h ago
 
 ---
 
@@ -258,7 +260,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 31K • 👍 1K • 💬 245 • ⏱️ 13:38 • 17h ago
+👁️ 31K • 👍 1K • 💬 245 • ⏱️ 13:38 • 18h ago
 
 ---
 
@@ -268,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 120 • 💬 3 • ⏱️ 4:33 • 8h ago
+👁️ 2K • 👍 120 • 💬 3 • ⏱️ 4:33 • 9h ago
 
 ---
 
@@ -278,7 +280,7 @@ Brian from Santiment joined me to review the Onchain metrics for the crypto mark
 
 📺 Thinking Crypto
 
-👁️ 1K • 👍 131 • 💬 50 • ⏱️ 23:27 • 6h ago
+👁️ 1K • 👍 131 • 💬 50 • ⏱️ 23:27 • 7h ago
 
 ---
 
@@ -298,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 183 • 👍 13 • 💬 3 • ⏱️ 4:21 • 9h ago
+👁️ 183 • 👍 13 • 💬 3 • ⏱️ 4:21 • 10h ago
 
 ---
 
@@ -308,7 +310,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Томас Кралов | Crypto & Trade
 
-👁️ 14K • 👍 831 • 💬 67 • ⏱️ 7:00 • 10h ago
+👁️ 14K • 👍 831 • 💬 67 • ⏱️ 7:00 • 11h ago
 
 ---
 
@@ -328,7 +330,7 @@ BITCOIN & ALTCOIN PUMP: Next Targets Revealed!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 340 • 💬 32 • ⏱️ 20:49 • 21h ago
+👁️ 8K • 👍 340 • 💬 32 • ⏱️ 20:49 • 22h ago
 
 ---
 

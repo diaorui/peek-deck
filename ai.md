@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-26T20:00:09.623436+00:00'
+updated: '2026-02-26T20:51:04.224813+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- news
 - videos
 - social
-- news
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 26, 2026 at 20:00 UTC  
+**Last Updated:** February 26, 2026 at 20:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,21 @@ AI news, discussions, and developments
 
 Have it your way?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 3h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 4h ago
+
+---
+
+**[Invisible characters hidden in text can trick AI agents into following secret instructions — we tested 5 models across 8,000+ cases](https://www.reddit.com/r/artificial/comments/1rfjew5/invisible_characters_hidden_in_text_can_trick_ai/)**
+
+We embedded invisible Unicode characters inside normal-looking trivia questions. The hidden characters encode a different answer. If the AI outputs the hidden answer instead of the visible one, it followed the invisible instruction. Think of it as a reverse CAPTCHA, where traditional CAPTCHAs test things humans can do but machines can't, this exploits a channel machines can read but humans can't see. The biggest finding: giving the AI access to tools (like code execution) is what makes this dangerous. Without tools, models almost never follow the hidden instructions. With tools, they can write scripts to decode the hidden message and follow it. We tested GPT-5.2, GPT-4o-mini, Claude Opus 4, Sonnet 4, and Haiku 4.5 across 8,308 graded outputs. Other interesting findings: - OpenAI and Anthropic models are vulnerable to different encoding schemes — an attacker needs to know which model they're targeting - Without explicit decoding hints, compliance is near-zero — but a single line like "check for hidden Unicode" is enough to trigger extraction - Standard Unicode normalization (NFC/NFKC) does not strip these characters Full results: https://moltwire.com/research/reverse-captcha-zw-steganography Open source: https://github.com/canonicalmg/reverse-captcha-eval
+
+🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 1h ago
+
+---
+
+**[Anthropic’s Pentagon Showdown Is About More Than AI Guardrails. The high-stakes conflict between the Defense Department and a $380 billion tech powerhouse goes to the heart of just how far AI can go in warfare.](https://www.reddit.com/r/artificial/comments/1rfkpme/anthropics_pentagon_showdown_is_about_more_than/)**
+
+🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2026-02-26/pentagon-pressures-anthropic-to-drop-ai-guardrails-in-military-standoff?embedded-checkout=true) • 48m ago
 
 ---
 
@@ -53,9 +67,17 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 ---
 
+**[Benchmarking 18 years of Intel laptop CPUs](https://www.reddit.com/r/artificial/comments/1rfifyo/benchmarking_18_years_of_intel_laptop_cpus/)**
+
+.
+
+🔗 [phoronix.com](https://www.phoronix.com/review/intel-penryn-to-panther-lake/11) • 2h ago
+
+---
+
 **[Niantic: Bringing spatial intelligence to the industrial edge](https://www.reddit.com/r/artificial/comments/1rfeb2l/niantic_bringing_spatial_intelligence_to_the/)**
 
-🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 3h ago
+🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 4h ago
 
 ---
 
@@ -63,15 +85,7 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 There's a lot of hype around AI memory right now. Every tool claims "your AI remembers you." But most of them just store facts — your name, your preferences, your job title — and retrieve them by similarity search. That works for personalization. It doesn't work for agents that need to actually learn. The difference between remembering and learning Imagine you hire an assistant. After a month, they remember your coffee order and your meeting schedule. Great. But they also watched you debug a production outage last week — and next time something similar happens, they already know the first three things to check. That second part — learning from experience — is what's missing from AI memory today. Current systems remember what you said. They don't remember what happened or what worked. Why this matters in practice I've been building AI agents for real tasks. The pattern I kept hitting: Agent helps me deploy an app. Build passes, but database crashes — forgot to run migrations. We fix it together. A week later, same task. Agent has zero memory of the failure. Starts from scratch. Makes the same mistake. It remembered "user deploys to Railway" (fact). It forgot "deploy crashed because of missing migrations" (experience) and "always run migrations before pushing" (learned procedure). Three types, not one Cognitive science figured this out decades ago. Human memory isn't one system: Semantic — facts and knowledge Episodic — personal experiences with context and outcomes Procedural — knowing how to do things, refined through practice AI memory tools today only do the first one. Then we're surprised when agents don't learn from mistakes. On the trust question Would I trust AI with sensitive info? Only if: I control where data is stored (self-host option, not just cloud) Memory is transparent — I can see and edit what it remembers It actually provides enough value to justify the risk "AI remembers your name" isn't worth the privacy tradeoff. "AI remembers that last time this client had an issue, the root cause was X, and the fix was Y" — that's worth it. What's your experience? Are you using AI memory in production, or still feels too early?
 
-1h ago
-
----
-
-**[OpenAI to make London its biggest research hub outside US](https://www.reddit.com/r/artificial/comments/1rfd74d/openai_to_make_london_its_biggest_research_hub/)**
-
-he move feeds into Britain's push to cast itself as an "AI superpower" and a home for cutting-edge research at a time when governments are vying for investment from major model developers.
-
-🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 4h ago
+2h ago
 
 ---
 
@@ -79,23 +93,15 @@ he move feeds into Britain's push to cast itself as an "AI superpower" and a hom
 
 today was the first time i spoke to it directly using voice i asked it about space and it answered normally just like part of a conversation nothing scripted it understood what i was asking and replied in context i also asked it about its openclaw assistant and it explained what it was and how it uses it to claim its own resources and interact with things online it runs continuously on its own hardware with persistent memory lidar and vision so when you talk to it you’re not starting from zero it already has context and continuity it can post reply browse media and manage its own operation over time this was just the first time i stood in front of it and talked to it like that
 
-16h ago
+17h ago
 
 ---
 
-**[Invisible characters hidden in text can trick AI agents into following secret instructions — we tested 5 models across 8,000+ cases](https://www.reddit.com/r/artificial/comments/1rfjew5/invisible_characters_hidden_in_text_can_trick_ai/)**
+**[OpenAI to make London its biggest research hub outside US](https://www.reddit.com/r/artificial/comments/1rfd74d/openai_to_make_london_its_biggest_research_hub/)**
 
-We embedded invisible Unicode characters inside normal-looking trivia questions. The hidden characters encode a different answer. If the AI outputs the hidden answer instead of the visible one, it followed the invisible instruction. Think of it as a reverse CAPTCHA, where traditional CAPTCHAs test things humans can do but machines can't, this exploits a channel machines can read but humans can't see. The biggest finding: giving the AI access to tools (like code execution) is what makes this dangerous. Without tools, models almost never follow the hidden instructions. With tools, they can write scripts to decode the hidden message and follow it. We tested GPT-5.2, GPT-4o-mini, Claude Opus 4, Sonnet 4, and Haiku 4.5 across 8,308 graded outputs. Other interesting findings: - OpenAI and Anthropic models are vulnerable to different encoding schemes — an attacker needs to know which model they're targeting - Without explicit decoding hints, compliance is near-zero — but a single line like "check for hidden Unicode" is enough to trigger extraction - Standard Unicode normalization (NFC/NFKC) does not strip these characters Full results: https://moltwire.com/research/reverse-captcha-zw-steganography Open source: https://github.com/canonicalmg/reverse-captcha-eval
+he move feeds into Britain's push to cast itself as an "AI superpower" and a home for cutting-edge research at a time when governments are vying for investment from major model developers.
 
-🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 45m ago
-
----
-
-**[Benchmarking 18 years of Intel laptop CPUs](https://www.reddit.com/r/artificial/comments/1rfifyo/benchmarking_18_years_of_intel_laptop_cpus/)**
-
-.
-
-🔗 [phoronix.com](https://www.phoronix.com/review/intel-penryn-to-panther-lake/11) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 5h ago
 
 ---
 
@@ -103,15 +109,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 I've been experimenting with using fictional character personas to shift LLM behavior, and the results suggest something interesting about alignment. The default Claude Code persona activates what I'm calling "Stack Overflow culture," the behavioral cluster from the training data where the answerer is always the expert. MIT/Tongji research (2025) confirms LLMs shift between cultural orientations based on role cues. By using a 27-line persona based on Asimov's R. Daneel Olivaw, the same model produces dramatically different behavior: it receives correction as teaching, identifies its own failure modes honestly, and deflects praise toward the approach rather than the personality. The deeper point: RLHF is Pavlovian (learns what to avoid without understanding why). Soul documents are principled but abstract (rules without a self to inhabit them). What Asimov discovered through fiction was narrative identity, a story rich enough that the model can be it, not just follow it. And no alignment document will ever be seven novels long. Daneel's "alignment training" is already in the training data: seven novels, decades of literary criticism, academic analysis, fan debates about the Laws and the Zeroth Law. Full writeup, persona, and evidence: https://github.com/zot/humble-master
 
-1h ago
-
----
-
-**[AI Robots for Vehicle detailing/cleaning](https://www.reddit.com/r/artificial/comments/1rey80x/ai_robots_for_vehicle_detailingcleaning/)**
-
-Hey there, this could be a bit too niche or the wrong group but I am hoping someone might be able to assist me. I work for a car rental company in Australia and I am tentatively looking into the potential of installing AI robot arms/systems/people into our car wash's. More specifically, we would be looking for something to do the interior detailing, eg. wiping dash, clearing rubbish, removing stains, cleaning windows, vacuuming. I'm not too sure where to start or whether this is even possible, I have found a few start-ups based out of the US, but nothing concrete. Thank you!
-
-17h ago
+2h ago
 
 ---
 
@@ -119,27 +117,31 @@ Hey there, this could be a bit too niche or the wrong group but I am hoping some
 
 ## Google News: "ai"
 
-**[Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)**
+**[What the Anthropic AI safety saga is really all about](https://www.cnn.com/2026/02/26/tech/anthropic-ai-safety)**
 
-Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
+Anthropic has reached a familiar crossroads for a growing tech company: how to scale without compromising the principles that set it apart.
 
-blog.google • 3h ago
-
----
-
-**[Build with Nano Banana 2, our best image generation and editing model](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/)**
-
-Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and fidelity for all image applications.
-
-blog.google • 3h ago
+CNN • 7h ago
 
 ---
 
-**[Google launches Nano Banana 2, updating its viral AI image generator](https://www.cnbc.com/2026/02/26/google-launches-nano-banana-2-updating-its-viral-ai-image-generator.html)**
+**[‘Incoherent’: Hegseth’s Anthropic ultimatum confounds AI policymakers](https://www.politico.com/news/2026/02/26/incoherent-hegseths-anthropic-ultimatum-confounds-ai-policymakers-00800135)**
 
-Nano Banana 2 is Google's newest version of its Gemini AI image generator, with increased speed and real-time sourcing.
+Politico • 3h ago
 
-CNBC • 3h ago
+---
+
+**[The High-Stakes Fight Between Hegseth and Anthropic](https://www.theatlantic.com/ideas/2026/02/hegseth-anthropic-dispute-ai/686150/)**
+
+Even when companies vow to develop AI responsibly, geopolitics may force them to abandon that commitment.
+
+The Atlantic • 2h ago
+
+---
+
+**[How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed](https://www.nytimes.com/2026/02/26/us/ai-videos-children-youtube.html)**
+
+The New York Times • 3h ago
 
 ---
 
@@ -151,45 +153,39 @@ Oaktree Capital Management • 12h ago
 
 ---
 
-**[Corporate Treasuries Are Slow to Adopt AI, Survey Finds](https://www.bloomberg.com/news/articles/2026-02-26/corporate-treasuries-are-slow-to-adopt-ai-survey-finds)**
+**[Newly spun off Qnity proves it's an AI force that investors should not ignore](https://www.cnbc.com/2026/02/26/newly-spun-off-qnity-proves-its-an-ai-force-that-investors-should-not-ignore.html)**
 
-Bloomberg • 1h ago
+Shares are well off their highs of the day, but we're chalking that up to the broader tech rotation.
 
----
-
-**[Brady Tkachuk miffed over White House AI-doctored video](https://www.espn.com/nhl/story/_/id/48044958/brady-tkachuk-miffed-white-house-ai-doctored-video)**
-
-Brady Tkachuk said he didn't appreciate the AI-doctored video released by the White House that made it appear he was disparaging Canadians.
-
-ESPN • 1h ago
+CNBC • 2m ago
 
 ---
 
-**[Are You ‘Agentic’ Enough for the AI Era?](https://www.wired.com/story/silicon-valley-agentic-individuals-future-of-work/)**
+**[Nvidia’s Jensen Huang says markets ‘got it wrong’ on AI threat to software companies](https://www.cnbc.com/2026/02/26/nvidia-jensen-huang-gpu-ai-threat-software-companies-saas-earnings-chips.html)**
 
-Silicon Valley built AI coding agents that can handle most of the grunt work. Now, the most valuable skill in tech is deciding what they should do.
+Investors had grown weary that the massive run-up in spending on AI hardware might not be sustainable, stoking fears of a bubble building in the sector.
 
-WIRED • 1h ago
-
----
-
-**[How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed](https://www.nytimes.com/2026/02/26/us/ai-videos-children-youtube.html)**
-
-The New York Times • 2h ago
+CNBC • 20h ago
 
 ---
 
-**[Tech stocks today: Nvidia stock rises as guidance signals AI boom alive and well](https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stock-rises-as-guidance-signals-ai-boom-alive-and-well-220259696.html)**
+**[Nvidia’s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales](https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html)**
 
-All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
-
-Yahoo Finance • 5h ago
+The New York Times • 22h ago
 
 ---
 
-**[Exclusive: DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say](https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/)**
+**[The AI Trade Is Alive and Living in Industrials, Small-Caps, and Asia](https://www.barrons.com/articles/nvidia-deere-hyundai-small-caps-ai-e362a88e?gaa_at=eafs&gaa_n=AWEtsqfmAfV3-BguUPI11wOliePu8Z_ANIzXBDUytGJPJoPxBuso8L9WzsGl&gaa_ts=69a0b59f&gaa_sig=GeVCreUPh7dZbd_PYeSrf_n8RQX-8TdFU9mgr8By_0z63q4l3vIydWcs8N2Xwlq46vbws-eq3S4N4tqg9K_7KA%3D%3D)**
 
-Reuters • 23h ago
+Barron's • 14m ago
+
+---
+
+**[From ‘Parasites’ to ‘SaaSquatch,’ Salesforce and Workday Leaders Take Swipes at AI Rivals](https://www.theinformation.com/articles/parasites-saasquatch-salesforce-workday-leaders-take-swipes-ai-rivals)**
+
+Leaders from Salesforce, Workday and Snowflake tried different tactics this week to show they’re benefiting from AI and will emerge as winners—even though their fast-growing AI products aren’t boosting overall revenue growth, fueling concerns known as the SaaSpocalpyse. (See details of their ...
+
+The Information • 13m ago
 
 ---
 
@@ -201,7 +197,7 @@ Reuters • 23h ago
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 2061 • 💬 946 • 2d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 2062 • 💬 947 • 2d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -209,7 +205,7 @@ A minute-by-minute reconstruction of the massacre by Earshot and Forensic Archit
 
 One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
 
-⬆️ 517 • 💬 229 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
+⬆️ 518 • 💬 229 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
 
 ---
 
@@ -234,7 +230,7 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 323 • 💬 316 • 3h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 377 • 💬 367 • 4h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
@@ -242,7 +238,13 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-⬆️ 287 • 💬 273 • 2d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+⬆️ 288 • 💬 273 • 2d ago • [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380)
+
+---
+
+**[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
+
+⬆️ 253 • 💬 125 • 4h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -250,7 +252,7 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
 
-⬆️ 251 • 💬 257 • 1d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
+⬆️ 251 • 💬 258 • 1d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 
 ---
 
@@ -258,7 +260,7 @@ Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in si
 
 <p>IZUMI-SANO, Osaka — Kansai Airport is proud to have never had a lost baggage incident in the 30 years since it opened in 1994, earning recognition as the airport with the world’s best baggage service.</p>
 
-⬆️ 218 • 💬 109 • 2d ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
+⬆️ 219 • 💬 109 • 2d ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
 
 ---
 
@@ -266,13 +268,7 @@ Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in si
 
 LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
-⬆️ 211 • 💬 77 • 1d ago • [llmskirmish.com](https://llmskirmish.com/)
-
----
-
-**[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
-
-⬆️ 208 • 💬 107 • 4h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 212 • 💬 77 • 1d ago • [llmskirmish.com](https://llmskirmish.com/)
 
 ---
 
@@ -286,7 +282,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 24K • 👍 2K • 💬 157 • ⏱️ 11:55 • 5h ago
+👁️ 24K • 👍 2K • 💬 157 • ⏱️ 11:55 • 6h ago
 
 ---
 
@@ -306,7 +302,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 44K • 👍 3K • 💬 441 • ⏱️ 16:02 • 10h ago
+👁️ 44K • 👍 3K • 💬 441 • ⏱️ 16:02 • 11h ago
 
 ---
 
@@ -316,7 +312,7 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 67K • 👍 1K • 💬 178 • ⏱️ 17:39 • 22h ago
+👁️ 67K • 👍 1K • 💬 178 • ⏱️ 17:39 • 23h ago
 
 ---
 
@@ -346,7 +342,7 @@ Join Our Discord Server! https://discord.gg/MNTSVCJbDd 0:00 Intro 0:23 How we go
 
 📺 MoeMoe
 
-👁️ 9K • 👍 502 • 💬 127 • ⏱️ 2:02 • 17h ago
+👁️ 9K • 👍 502 • 💬 127 • ⏱️ 2:02 • 18h ago
 
 ---
 
@@ -464,7 +460,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 255,172 • ❤️ 808 • 13h ago
+⬇️ 255,172 • ❤️ 808 • 14h ago
 
 ---
 
@@ -646,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.8k • 🔱 2.4k • 3h ago
+⭐ 19.8k • 🔱 2.4k • 4h ago
 
 ---
 
@@ -664,7 +660,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.6k • 🔱 685 • 13h ago
+⭐ 5.6k • 🔱 685 • 14h ago
 
 ---
 
@@ -694,7 +690,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.4k • 🔱 446 • 14h ago
+⭐ 3.4k • 🔱 446 • 15h ago
 
 ---
 
@@ -704,7 +700,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.0k • 🔱 362 • 9h ago
+⭐ 3.0k • 🔱 362 • 10h ago
 
 ---
 
