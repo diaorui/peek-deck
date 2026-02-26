@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-26T20:51:04.224813+00:00'
+updated: '2026-02-26T21:33:43.110977+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - videos
 - social
 - repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 26, 2026 at 20:51 UTC  
+**Last Updated:** February 26, 2026 at 21:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,13 +49,13 @@ Have it your way?
 
 We embedded invisible Unicode characters inside normal-looking trivia questions. The hidden characters encode a different answer. If the AI outputs the hidden answer instead of the visible one, it followed the invisible instruction. Think of it as a reverse CAPTCHA, where traditional CAPTCHAs test things humans can do but machines can't, this exploits a channel machines can read but humans can't see. The biggest finding: giving the AI access to tools (like code execution) is what makes this dangerous. Without tools, models almost never follow the hidden instructions. With tools, they can write scripts to decode the hidden message and follow it. We tested GPT-5.2, GPT-4o-mini, Claude Opus 4, Sonnet 4, and Haiku 4.5 across 8,308 graded outputs. Other interesting findings: - OpenAI and Anthropic models are vulnerable to different encoding schemes — an attacker needs to know which model they're targeting - Without explicit decoding hints, compliance is near-zero — but a single line like "check for hidden Unicode" is enough to trigger extraction - Standard Unicode normalization (NFC/NFKC) does not strip these characters Full results: https://moltwire.com/research/reverse-captcha-zw-steganography Open source: https://github.com/canonicalmg/reverse-captcha-eval
 
-🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 1h ago
+🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 2h ago
 
 ---
 
 **[Anthropic’s Pentagon Showdown Is About More Than AI Guardrails. The high-stakes conflict between the Defense Department and a $380 billion tech powerhouse goes to the heart of just how far AI can go in warfare.](https://www.reddit.com/r/artificial/comments/1rfkpme/anthropics_pentagon_showdown_is_about_more_than/)**
 
-🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2026-02-26/pentagon-pressures-anthropic-to-drop-ai-guardrails-in-military-standoff?embedded-checkout=true) • 48m ago
+🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2026-02-26/pentagon-pressures-anthropic-to-drop-ai-guardrails-in-military-standoff?embedded-checkout=true) • 1h ago
 
 ---
 
@@ -63,7 +63,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 Hey guys, you might remember me. I was the guy that built the geolocation tool called Netryx. I have since built a web version and got it running on the cloud. I tried some real test cases where pictures are usually blurry, shaky and low res and got wonderful results with the tool. Below is an example geolocating a blurry frame of a video from the Paris protests a while back. Let me know what you think!
 
-10h ago
+11h ago
 
 ---
 
@@ -77,7 +77,7 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 **[Niantic: Bringing spatial intelligence to the industrial edge](https://www.reddit.com/r/artificial/comments/1rfeb2l/niantic_bringing_spatial_intelligence_to_the/)**
 
-🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 4h ago
+🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 5h ago
 
 ---
 
@@ -85,7 +85,7 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 There's a lot of hype around AI memory right now. Every tool claims "your AI remembers you." But most of them just store facts — your name, your preferences, your job title — and retrieve them by similarity search. That works for personalization. It doesn't work for agents that need to actually learn. The difference between remembering and learning Imagine you hire an assistant. After a month, they remember your coffee order and your meeting schedule. Great. But they also watched you debug a production outage last week — and next time something similar happens, they already know the first three things to check. That second part — learning from experience — is what's missing from AI memory today. Current systems remember what you said. They don't remember what happened or what worked. Why this matters in practice I've been building AI agents for real tasks. The pattern I kept hitting: Agent helps me deploy an app. Build passes, but database crashes — forgot to run migrations. We fix it together. A week later, same task. Agent has zero memory of the failure. Starts from scratch. Makes the same mistake. It remembered "user deploys to Railway" (fact). It forgot "deploy crashed because of missing migrations" (experience) and "always run migrations before pushing" (learned procedure). Three types, not one Cognitive science figured this out decades ago. Human memory isn't one system: Semantic — facts and knowledge Episodic — personal experiences with context and outcomes Procedural — knowing how to do things, refined through practice AI memory tools today only do the first one. Then we're surprised when agents don't learn from mistakes. On the trust question Would I trust AI with sensitive info? Only if: I control where data is stored (self-host option, not just cloud) Memory is transparent — I can see and edit what it remembers It actually provides enough value to justify the risk "AI remembers your name" isn't worth the privacy tradeoff. "AI remembers that last time this client had an issue, the root cause was X, and the fix was Y" — that's worth it. What's your experience? Are you using AI memory in production, or still feels too early?
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ There's a lot of hype around AI memory right now. Every tool claims "your AI rem
 
 today was the first time i spoke to it directly using voice i asked it about space and it answered normally just like part of a conversation nothing scripted it understood what i was asking and replied in context i also asked it about its openclaw assistant and it explained what it was and how it uses it to claim its own resources and interact with things online it runs continuously on its own hardware with persistent memory lidar and vision so when you talk to it you’re not starting from zero it already has context and continuity it can post reply browse media and manage its own operation over time this was just the first time i stood in front of it and talked to it like that
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,7 @@ today was the first time i spoke to it directly using voice i asked it about spa
 
 he move feeds into Britain's push to cast itself as an "AI superpower" and a home for cutting-edge research at a time when governments are vying for investment from major model developers.
 
-🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 5h ago
+🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 6h ago
 
 ---
 
@@ -109,7 +109,7 @@ he move feeds into Britain's push to cast itself as an "AI superpower" and a hom
 
 I've been experimenting with using fictional character personas to shift LLM behavior, and the results suggest something interesting about alignment. The default Claude Code persona activates what I'm calling "Stack Overflow culture," the behavioral cluster from the training data where the answerer is always the expert. MIT/Tongji research (2025) confirms LLMs shift between cultural orientations based on role cues. By using a 27-line persona based on Asimov's R. Daneel Olivaw, the same model produces dramatically different behavior: it receives correction as teaching, identifies its own failure modes honestly, and deflects praise toward the approach rather than the personality. The deeper point: RLHF is Pavlovian (learns what to avoid without understanding why). Soul documents are principled but abstract (rules without a self to inhabit them). What Asimov discovered through fiction was narrative identity, a story rich enough that the model can be it, not just follow it. And no alignment document will ever be seven novels long. Daneel's "alignment training" is already in the training data: seven novels, decades of literary criticism, academic analysis, fan debates about the Laws and the Zeroth Law. Full writeup, persona, and evidence: https://github.com/zot/humble-master
 
-2h ago
+3h ago
 
 ---
 
@@ -127,7 +127,7 @@ CNN • 7h ago
 
 **[‘Incoherent’: Hegseth’s Anthropic ultimatum confounds AI policymakers](https://www.politico.com/news/2026/02/26/incoherent-hegseths-anthropic-ultimatum-confounds-ai-policymakers-00800135)**
 
-Politico • 3h ago
+Politico • 4h ago
 
 ---
 
@@ -135,7 +135,7 @@ Politico • 3h ago
 
 Even when companies vow to develop AI responsibly, geopolitics may force them to abandon that commitment.
 
-The Atlantic • 2h ago
+The Atlantic • 3h ago
 
 ---
 
@@ -149,7 +149,7 @@ The New York Times • 3h ago
 
 In his latest memo, Howard Marks revisits the subject of AI, providing his observations on its essence and how it differs from previous technological innovations.
 
-Oaktree Capital Management • 12h ago
+Oaktree Capital Management • 13h ago
 
 ---
 
@@ -157,7 +157,7 @@ Oaktree Capital Management • 12h ago
 
 Shares are well off their highs of the day, but we're chalking that up to the broader tech rotation.
 
-CNBC • 2m ago
+CNBC • 44m ago
 
 ---
 
@@ -165,19 +165,19 @@ CNBC • 2m ago
 
 Investors had grown weary that the massive run-up in spending on AI hardware might not be sustainable, stoking fears of a bubble building in the sector.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
 **[Nvidia’s Quarterly Profit Hits $43 Billion on Strong A.I. Chip Sales](https://www.nytimes.com/2026/02/25/technology/nvidia-earnings.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
 **[The AI Trade Is Alive and Living in Industrials, Small-Caps, and Asia](https://www.barrons.com/articles/nvidia-deere-hyundai-small-caps-ai-e362a88e?gaa_at=eafs&gaa_n=AWEtsqfmAfV3-BguUPI11wOliePu8Z_ANIzXBDUytGJPJoPxBuso8L9WzsGl&gaa_ts=69a0b59f&gaa_sig=GeVCreUPh7dZbd_PYeSrf_n8RQX-8TdFU9mgr8By_0z63q4l3vIydWcs8N2Xwlq46vbws-eq3S4N4tqg9K_7KA%3D%3D)**
 
-Barron's • 14m ago
+Barron's • 56m ago
 
 ---
 
@@ -185,7 +185,7 @@ Barron's • 14m ago
 
 Leaders from Salesforce, Workday and Snowflake tried different tactics this week to show they’re benefiting from AI and will emerge as winners—even though their fast-growing AI products aren’t boosting overall revenue growth, fueling concerns known as the SaaSpocalpyse. (See details of their ...
 
-The Information • 13m ago
+The Information • 55m ago
 
 ---
 
@@ -230,7 +230,7 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 377 • 💬 367 • 4h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 377 • 💬 367 • 5h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
@@ -244,7 +244,7 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 253 • 💬 125 • 4h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 253 • 💬 125 • 5h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -282,7 +282,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 24K • 👍 2K • 💬 157 • ⏱️ 11:55 • 6h ago
+👁️ 43K • 👍 3K • 💬 119 • ⏱️ 11:55 • 7h ago
 
 ---
 
@@ -292,7 +292,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 12K • 👍 1K • 💬 106 • ⏱️ 12:32 • 5h ago
+👁️ 20K • 👍 1K • 💬 128 • ⏱️ 12:32 • 6h ago
+
+---
+
+**[Nano Banana 2 Is Incredible! (Gemini&#39;s New AI Image Model)](https://www.youtube.com/watch?v=_oiBHvwTtGs)**
+
+Nano Banana Pro 2 Is Here! In this video I compare the new Nano Banana 2 with the original Nano Banana and Nano Banana ...
+
+📺 Paul J Lipsky
+
+👁️ 7K • 👍 454 • 💬 71 • ⏱️ 16:03 • 4h ago
 
 ---
 
@@ -302,17 +312,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 44K • 👍 3K • 💬 441 • ⏱️ 16:02 • 11h ago
-
----
-
-**[&quot;You Built A MONSTER!&quot; - Anthropic WARNS Of Massive Chinese AI Copying Operation](https://www.youtube.com/watch?v=M9Sw-7FY6Vo)**
-
-Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks on its Claude models, and the panel breaks down ...
-
-📺 Valuetainment
-
-👁️ 67K • 👍 1K • 💬 178 • ⏱️ 17:39 • 23h ago
+👁️ 48K • 👍 3K • 💬 471 • ⏱️ 16:02 • 12h ago
 
 ---
 
@@ -322,27 +322,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 320K • 👍 16K • 💬 2K • ⏱️ 7:09 • 2d ago
-
----
-
-**[Dario Amodei Podcast | &#39;An AI Tsunami Is Coming, And No One’s Ready&#39;: Anthropic CEO Warns](https://www.youtube.com/watch?v=Zr3Z4x_1QTA)**
-
-On Nikhil Kamath's podcast People by WTF, Anthropic CEO Dario Amodei delivered a stark warning about artificial intelligence.
-
-📺 NDTV
-
-👁️ 23K • 👍 122 • 💬 71 • ⏱️ 2:48 • 2d ago
-
----
-
-**[The Character.ai Situation is Getting Worse](https://www.youtube.com/watch?v=bGbbxPOaVk4)**
-
-Join Our Discord Server! https://discord.gg/MNTSVCJbDd 0:00 Intro 0:23 How we got here? 1:07 Why are they doing this?
-
-📺 MoeMoe
-
-👁️ 9K • 👍 502 • 💬 127 • ⏱️ 2:02 • 18h ago
+👁️ 325K • 👍 16K • 💬 2K • ⏱️ 7:09 • 2d ago
 
 ---
 
@@ -352,7 +332,27 @@ Artificial intelligence is accelerating - but how fast is too fast? A new benchm
 
 📺 Sky News
 
-👁️ 25K • 👍 385 • 💬 81 • ⏱️ 8:04 • 1d ago
+👁️ 27K • 👍 403 • 💬 91 • ⏱️ 8:04 • 1d ago
+
+---
+
+**[&quot;You Built A MONSTER!&quot; - Anthropic WARNS Of Massive Chinese AI Copying Operation](https://www.youtube.com/watch?v=M9Sw-7FY6Vo)**
+
+Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks on its Claude models, and the panel breaks down ...
+
+📺 Valuetainment
+
+👁️ 69K • 👍 1K • 💬 182 • ⏱️ 17:39 • 1d ago
+
+---
+
+**[The AI Intelligence Tsunami Is Here | Raoul Pal The Journey Man with Emad Mostaque](https://www.youtube.com/watch?v=tIzdKxEVL08)**
+
+Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF Raoul welcomes back Emad Mostaque, ...
+
+📺 Raoul Pal The Journey Man
+
+👁️ 6K • 👍 390 • 💬 38 • ⏱️ 1:11:08 • 7h ago
 
 ---
 
@@ -362,17 +362,17 @@ Quantum AI Ran the Book of Enoch's Coordinates — What It Found Breaks the Time
 
 📺 Spacialize
 
-👁️ 33K • 👍 1K • 💬 90 • ⏱️ 17:32 • 1d ago
+👁️ 34K • 👍 1K • 💬 92 • ⏱️ 17:32 • 1d ago
 
 ---
 
-**[The AI Tsunami is Here &amp; Society Isn&#39;t Ready | Dario Amodei x Nikhil Kamath | People by WTF](https://www.youtube.com/watch?v=68ylaeBbdsg)**
+**[Market CRASH After Viral AI Doom Post](https://www.youtube.com/watch?v=kNInY3ZAMWo)**
 
-I sat down with Dario Amodei in Bangalore. He built Claude, but he started as a biologist looking for a tool to cure disease. Today ...
+Krystal and Saagar discuss markets tanking over AI fears. Sign up for a PREMIUM Breaking Points subscriptions for full early ...
 
-📺 Nikhil Kamath
+📺 Breaking Points
 
-👁️ 509K • 👍 10K • 💬 1K • ⏱️ 1:08:35 • 2d ago
+👁️ 302K • 👍 8K • 💬 2K • ⏱️ 12:54 • 2d ago
 
 ---
 
@@ -388,7 +388,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 158,273 • ❤️ 542 • 2d ago
+⬇️ 158,273 • ❤️ 549 • 2d ago
 
 ---
 
@@ -400,7 +400,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 601,563 • ❤️ 1,089 • 3d ago
+⬇️ 601,563 • ❤️ 1,092 • 3d ago
 
 ---
 
@@ -412,7 +412,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 41,061 • ❤️ 355 • 1d ago
+⬇️ 41,061 • ❤️ 360 • 1d ago
 
 ---
 
@@ -424,7 +424,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 10,951 • ❤️ 307 • 2d ago
+⬇️ 10,951 • ❤️ 308 • 2d ago
 
 ---
 
@@ -436,7 +436,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 179,363 • ❤️ 238 • 2d ago
+⬇️ 179,363 • ❤️ 240 • 2d ago
 
 ---
 
@@ -448,7 +448,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 182,893 • ❤️ 1,570 • 13d ago
+⬇️ 182,893 • ❤️ 1,571 • 13d ago
 
 ---
 
@@ -460,7 +460,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 255,172 • ❤️ 808 • 14h ago
+⬇️ 255,172 • ❤️ 810 • 15h ago
 
 ---
 
@@ -472,19 +472,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 55,865 • ❤️ 213 • 3d ago
-
----
-
-**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
-
-*MiniMax*
-
-MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation`
-
-⬇️ 271,710 • ❤️ 954 • 10d ago
+⬇️ 55,865 • ❤️ 214 • 4d ago
 
 ---
 
@@ -496,7 +484,19 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,081 • ❤️ 190 • 2d ago
+⬇️ 1,081 • ❤️ 192 • 2d ago
+
+---
+
+**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
+
+*MiniMax*
+
+MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation`
+
+⬇️ 271,710 • ❤️ 955 • 10d ago
 
 ---
 
@@ -660,7 +660,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.6k • 🔱 685 • 14h ago
+⭐ 5.6k • 🔱 685 • 15h ago
 
 ---
 
@@ -670,7 +670,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.1k • 🔱 228 • 1d ago
+⭐ 4.1k • 🔱 229 • 1d ago
 
 ---
 
@@ -680,7 +680,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.6k • 🔱 356 • 2h ago
+⭐ 3.6k • 🔱 357 • 1h ago
 
 ---
 
@@ -700,7 +700,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.0k • 🔱 362 • 10h ago
+⭐ 3.0k • 🔱 363 • 10h ago
 
 ---
 
@@ -710,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 198 • 4h ago
+⭐ 2.9k • 🔱 202 • 5h ago
 
 ---
 
@@ -720,7 +720,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 287 • 6h ago
+⭐ 2.7k • 🔱 287 • 7h ago
 
 ---
 
@@ -730,7 +730,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 517 • 4h ago
+⭐ 2.6k • 🔱 517 • 5h ago
 
 ---
 

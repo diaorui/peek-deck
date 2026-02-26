@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T20:51:04.242984+00:00'
+updated: '2026-02-26T21:33:43.128881+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 20:51 UTC  
+**Last Updated:** February 26, 2026 at 21:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-6h ago
+7h ago
 
 ---
 
@@ -44,7 +44,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-9h ago
+10h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 7h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 8h ago
 
 ---
 
@@ -60,7 +60,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-6h ago
+7h ago
 
 ---
 
@@ -74,7 +74,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ Sorry this video is in french but I am so proud to show you my work, a fully fun
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-21h ago
+22h ago
 
 ---
 
@@ -132,7 +132,7 @@ TechCrunch • 1d ago
 
 Intrinsic is focused on making robots easier to program, teach, and operate.
 
-The Verge • 9h ago
+The Verge • 10h ago
 
 ---
 
@@ -200,7 +200,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 64 • 💬 16 • ⏱️ 24:08 • 14h ago
+👁️ 2K • 👍 68 • 💬 17 • ⏱️ 24:08 • 15h ago
 
 ---
 
@@ -210,27 +210,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 80K • 👍 2K • 💬 880 • ⏱️ 7:18 • 2d ago
-
----
-
-**[China Unveils Its First Robot Army That Will Change the Future of Warfare](https://www.youtube.com/watch?v=8A-jwqhLcV8)**
-
-China has unveiled its first fully integrated robot army, a development that signals a dramatic shift in the future of modern warfare.
-
-📺 Carros Show
-
-👁️ 34K • 👍 528 • 💬 152 • ⏱️ 8:38 • 4d ago
-
----
-
-**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
-
-Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
-
-📺 New York Post
-
-👁️ 21K • 👍 362 • 💬 328 • ⏱️ 2:30 • 5d ago
+👁️ 84K • 👍 2K • 💬 921 • ⏱️ 7:18 • 2d ago
 
 ---
 
@@ -240,17 +220,7 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 85K • 👍 4K • 💬 863 • ⏱️ 14:51 • 6d ago
-
----
-
-**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
-
-Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
-
-📺 AI Revolution
-
-👁️ 122K • 👍 2K • 💬 274 • ⏱️ 14:16 • 3d ago
+👁️ 86K • 👍 4K • 💬 865 • ⏱️ 14:51 • 6d ago
 
 ---
 
@@ -260,7 +230,27 @@ Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of n
 
 📺 Unitree Robotics
 
-👁️ 837K • 👍 2K • 💬 320 • ⏱️ 0:58 • 2d ago
+👁️ 891K • 👍 2K • 💬 320 • ⏱️ 0:58 • 2d ago
+
+---
+
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
+
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
+
+📺 AI Revolution
+
+👁️ 123K • 👍 2K • 💬 277 • ⏱️ 14:16 • 3d ago
+
+---
+
+**[Warm-skinned robot &#39;Moya&#39; sparks creepy comments from men | Weird But True](https://www.youtube.com/watch?v=PhEjiViCDw8)**
+
+Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chinese company DroidUp, has skin that is warm to the ...
+
+📺 New York Post
+
+👁️ 21K • 👍 363 • 💬 328 • ⏱️ 2:30 • 5d ago
 
 ---
 
@@ -270,7 +260,27 @@ CNET social producer Faith Chihil made a trip to visit the boba robot from Yo-Ka
 
 📺 CNET
 
-👁️ 854 • 👍 56 • 💬 2 • ⏱️ 1:08 • 4h ago
+👁️ 1K • 👍 62 • 💬 3 • ⏱️ 1:08 • 4h ago
+
+---
+
+**[Merz Visits Hangzhou, Sees Humanoid Robot Demonstrations and High-Tech Industrial Operations | AI1N](https://www.youtube.com/watch?v=aCqEhkCWCoQ)**
+
+German Chancellor Friedrich Merz visits Hangzhou, China, exploring the cutting-edge innovations of Unitree Robotics and ...
+
+📺 DRM News
+
+👁️ 3K • 👍 64 • ⏱️ 1:57 • 3h ago
+
+---
+
+**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
+
+AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
+
+📺 The AI Nexus
+
+👁️ 3K • 👍 145 • 💬 16 • ⏱️ 21:45 • 2d ago
 
 ---
 
@@ -281,16 +291,6 @@ Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/ad
 📺 The China Show
 
 👁️ 208K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 5d ago
-
----
-
-**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
-
-AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 144 • 💬 16 • ⏱️ 21:45 • 2d ago
 
 ---
 
