@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T21:33:43.128881+00:00'
+updated: '2026-02-26T22:35:15.529841+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 21:33 UTC  
+**Last Updated:** February 26, 2026 at 22:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-7h ago
+8h ago
 
 ---
 
@@ -44,15 +44,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-10h ago
-
----
-
-**[A Spanish engineer trying to use his smart vacuum cleaner robot with his PS5 gamepad discovered that he was able to control 7,000 devices around the world.](https://www.reddit.com/r/robotics/comments/1rf9mnu/a_spanish_engineer_trying_to_use_his_smart_vacuum/)**
-
-Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
-
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 8h ago
+11h ago
 
 ---
 
@@ -60,7 +52,15 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-7h ago
+8h ago
+
+---
+
+**[A Spanish engineer trying to use his smart vacuum cleaner robot with his PS5 gamepad discovered that he was able to control 7,000 devices around the world.](https://www.reddit.com/r/robotics/comments/1rf9mnu/a_spanish_engineer_trying_to_use_his_smart_vacuum/)**
+
+Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
+
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 9h ago
 
 ---
 
@@ -68,13 +68,13 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-11h ago
+12h ago
 
 ---
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -82,13 +82,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-10h ago
-
----
-
-**[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
-
-7h ago
+11h ago
 
 ---
 
@@ -96,15 +90,21 @@ Sorry this video is in french but I am so proud to show you my work, a fully fun
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-22h ago
+23h ago
 
 ---
 
-**[EV3-G vs EV3 Classroom vs Pybricks](https://www.reddit.com/r/robotics/comments/1rfiggp/ev3g_vs_ev3_classroom_vs_pybricks/)**
+**[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-Hi everyone. I’m a relatively new robotics teacher working with LEGO EV3. I already have a large fleet of robots, and switching to SPIKE is not an option in the near future. Over the last few weeks I’ve been researching the available software stacks and this is how things look to me so far — please correct me if I’m wrong: EV3-G Once a powerful environment, but with a very awkward interface. At this point it seems basically dead: no official support, a dead-end ecosystem, and you’re locked inside LEGO. That said, a lot of people still use it and there’s a huge amount of tutorials and competition-related material for it. EV3 Classroom This is what I started with. It feels like a heavily simplified version: less control, fewer low-level tools, more “intro to robotics” than serious competition prep. I’m almost certain that staying on Classroom is not a good option for stronger students. Pybricks (MicroPython) This looks like the most future-proof choice: real code, proper state machines, timing control, debouncing, cleaner logic. Also a big plus is the ability to move beyond LEGO later (Python skills, other robotics platforms, CV, etc.). However, it feels like: there are fewer ready-made solutions fewer competition-oriented guides fewer long-term teachers using it at scale My goal is to prepare more advanced students for local competitions, not just basic line-following demos. I also want the skills they learn to transfer outside the LEGO ecosystem. Questions for experienced folks: What do you actually use today with EV3? Does it make sense to move students to Pybricks in a classroom setting? Is EV3-G still the “gold standard” despite being a dead end? If you were planning 2–3 years ahead, what stack would you choose? I’d really appreciate input from people who actively coach teams or teach robotics, not just run intro courses.
+8h ago
 
-2h ago
+---
+
+**[The Huge Gap Between Demo and Deployment. And How Can We Bridge It?](https://www.reddit.com/r/robotics/comments/1rf73if/the_huge_gap_between_demo_and_deployment_and_how/)**
+
+I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. In particular, I’ve noticed most demos focus on performance-oriented tasks, like dancing or even kung fu. But those seem very different from the kinds of scenarios that would generate large-scale, real economic value in actual deployment. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
+
+11h ago
 
 ---
 
@@ -116,7 +116,15 @@ Hi everyone. I’m a relatively new robotics teacher working with LEGO EV3. I al
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 23h ago
+CNBC • 1d ago
+
+---
+
+**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
+
+Intrinsic is focused on making robots easier to program, teach, and operate.
+
+The Verge • 11h ago
 
 ---
 
@@ -128,11 +136,19 @@ TechCrunch • 1d ago
 
 ---
 
-**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
 
-Intrinsic is focused on making robots easier to program, teach, and operate.
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
 
-The Verge • 10h ago
+NBC Bay Area • 2d ago
+
+---
+
+**[7 Next-Gen Chinese Humanoid Robots: From ‘Kung Fu’ Spectacles to Factory Workhorses](https://www.eweek.com/news/7-next-gen-chinese-humanoid-robots-2026/)**
+
+China’s humanoid robot makers are scaling fast in 2026, led by Unitree and AgiBot, as the market shifts from viral demos to commercial deployment.
+
+eWeek • 2d ago
 
 ---
 
@@ -144,11 +160,11 @@ The Conversation • 2d ago
 
 ---
 
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
+**[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
 
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
+"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
 
-NBC Bay Area • 2d ago
+CNBC • 3d ago
 
 ---
 
@@ -156,23 +172,15 @@ NBC Bay Area • 2d ago
 
 From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
 
-Carnegie Mellon University • 1d ago
+Carnegie Mellon University | CMU • 1d ago
 
 ---
 
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+**[Faraday Future to Kick Off 2026 EAI Robotics Deliveries Beginning Feb. 27 by Delivering to an Airbnb Operator; Establishes First U.S. "EAI Robot & Vehicle + Vacation Rental" Deployment](https://finance.yahoo.com/news/faraday-future-kick-off-2026-054200057.html)**
 
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+LOS ANGELES, February 26, 2026--Faraday Future Intelligent Electric Inc. (Nasdaq: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today announced its kick-off plans for its first EAI Robotics deliveries, just weeks after the Company announced its entry into the growing robotics industry. Its first deliveries are scheduled for February 27 to Golden Hills Investment LLC, a Florida-based high-end vacation rental investor and operator.
 
-Los Angeles Times • 1d ago
-
----
-
-**[Cofounder of bankrupt robot vacuum maker iRobot says Elon Musk’s vision of robots is ‘pure fantasy’](https://fortune.com/2026/02/25/mit-roboticist-irobot-cofounder-roomba-robot-vacuum-elon-musk-tesla-optimus-pure-fantasy-thinking/)**
-
-Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
-
-Fortune • 1d ago
+Yahoo Finance • 16h ago
 
 ---
 
@@ -180,13 +188,7 @@ Fortune • 1d ago
 
 German Chancellor Friedrich Merz visited Chinese robotics firm Unitree Robotics in Hangzhou, East China’s Zhejiang Province, on Thursday afternoon, where he watched the robot product displays and robot performances such as
 
-Global Times • 10h ago
-
----
-
-**[Local startup awarded contract from NASA to develop robots that can withstand the vacuum of space](https://www.bizjournals.com/pittsburgh/news/2026/02/26/hebi-robotics-awarded-850k-contract-from-nasa.html)**
-
-The Business Journals • 1h ago
+Global Times • 11h ago
 
 ---
 
@@ -200,7 +202,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 68 • 💬 17 • ⏱️ 24:08 • 15h ago
+👁️ 2K • 👍 68 • 💬 17 • ⏱️ 24:08 • 16h ago
 
 ---
 
@@ -260,7 +262,7 @@ CNET social producer Faith Chihil made a trip to visit the boba robot from Yo-Ka
 
 📺 CNET
 
-👁️ 1K • 👍 62 • 💬 3 • ⏱️ 1:08 • 4h ago
+👁️ 1K • 👍 62 • 💬 3 • ⏱️ 1:08 • 5h ago
 
 ---
 
@@ -270,7 +272,7 @@ German Chancellor Friedrich Merz visits Hangzhou, China, exploring the cutting-e
 
 📺 DRM News
 
-👁️ 3K • 👍 64 • ⏱️ 1:57 • 3h ago
+👁️ 3K • 👍 64 • ⏱️ 1:57 • 4h ago
 
 ---
 
