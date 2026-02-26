@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T11:12:25.463834+00:00'
+updated: '2026-02-26T12:00:58.926000+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 11:12 UTC  
+**Last Updated:** February 26, 2026 at 12:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-12h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.arxiv.org/abs/2602.16863
 
-22h ago
+23h ago
 
 ---
 
@@ -60,7 +60,7 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-20m ago
+1h ago
 
 ---
 
@@ -68,7 +68,7 @@ Sorry this video is in french but I am so proud to show you my work, a fully fun
 
 Hello, we just open-sourced our custom waist design for openarm. We found that adding waist joints can significantly improve robot's operation space (check video). Also, as a bonus feature, you can test out this model directly on any VR headset using the teleoperation project below! Hardware: https://github.com/qrafty-ai/hardware_designs/tree/main/openarm_waist Teleoperation: https://github.com/qrafty-ai/teleop_xr
 
-17h ago
+18h ago
 
 ---
 
@@ -82,7 +82,7 @@ Hello, we just open-sourced our custom waist design for openarm. We found that a
 
 I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
 
-19m ago
+1h ago
 
 ---
 
@@ -90,7 +90,7 @@ I've been researching the current state of humanoid robot deployments for a book
 
 Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimber from HAI Robotics. You'll typically see a couple of hundred of these working inside a warehouse.
 
-17h ago
+18h ago
 
 ---
 
@@ -98,7 +98,7 @@ Filmed at ProMat 2025 tradeshow in Chicago, IL. The solution is called HaiClimbe
 
 Hey everyone, I’m working on a small autonomous indoor rover (Pi 4 + RPLIDAR + wheel encoders, running ROS2 + Nav2), and it’s navigating decently but I’m still seeing noticeable odometry drift over longer runs. I’ve calibrated the wheel encoders carefully, but the error still builds up over time. I’m considering adding sensor fusion with an IMU (EKF), but not sure if that’s the best next step. For those who’ve built similar indoor robots: What helped you most with reducing drift? Is EKF with IMU worth it on a Pi-class setup? At what point did you switch to more powerful hardware? Appreciate any advice from folks who’ve dealt with this. Thanks!
 
-6h ago
+7h ago
 
 ---
 
@@ -118,7 +118,7 @@ Blog article (with longer videos): https://www.pi.website/blog/partner From Phys
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 15h ago
+TechCrunch • 16h ago
 
 ---
 
@@ -126,7 +126,7 @@ TechCrunch • 15h ago
 
 The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
 
-Semafor • 16h ago
+Semafor • 17h ago
 
 ---
 
@@ -134,7 +134,7 @@ Semafor • 16h ago
 
 Intrinsic is focused on making robots easier to program, teach, and operate.
 
-The Verge • 5m ago
+The Verge • 54m ago
 
 ---
 
@@ -142,7 +142,7 @@ The Verge • 5m ago
 
 Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Fortune • 15h ago
+Fortune • 16h ago
 
 ---
 
@@ -190,7 +190,7 @@ eWeek • 1d ago
 
 At TechFest 2026, robotics progress looked practical and disciplined. Growth is steady, AI enhances capability, and long-term service and system coordination drive real-world adoption.
 
-Seeking Alpha • 40m ago
+Seeking Alpha • 1h ago
 
 ---
 
@@ -204,7 +204,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 60K • 👍 1K • 💬 582 • ⏱️ 7:18 • 1d ago
+👁️ 64K • 👍 1K • 💬 636 • ⏱️ 7:18 • 1d ago
 
 ---
 
@@ -214,7 +214,17 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 34K • 👍 523 • 💬 151 • ⏱️ 8:38 • 4d ago
+👁️ 34K • 👍 524 • 💬 151 • ⏱️ 8:38 • 4d ago
+
+---
+
+**[How close are robots to everyday life?](https://www.youtube.com/watch?v=34y-DfXYhOs)**
+
+From staggering dance steps to smooth martial arts performances, humanoid robots at the CMG Spring Festival Gala have ...
+
+📺 CGTN
+
+👁️ 3K • 👍 118 • 💬 15 • ⏱️ 4:41 • 6h ago
 
 ---
 
@@ -224,17 +234,17 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 20K • 👍 355 • 💬 327 • ⏱️ 2:30 • 4d ago
+👁️ 20K • 👍 357 • 💬 327 • ⏱️ 2:30 • 4d ago
 
 ---
 
-**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
+**[24 humanoid robots performed martial arts at this China festival. #ai #robot #china](https://www.youtube.com/watch?v=F6kZKK_VPvU)**
 
-Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
+China's Spring Festival Gala stunned the world as 24 humanoid robots performed martial arts, backflips, nunchaku and parkour ...
 
-📺 AI Revolution
+📺 zurihassan
 
-👁️ 114K • 👍 2K • 💬 257 • ⏱️ 14:16 • 3d ago
+👁️ 146K • 👍 3K • 💬 226 • ⏱️ 1:44 • 6d ago
 
 ---
 
@@ -244,17 +254,37 @@ Unitree and AGIBOT just stunned the world with their humanoid kung fu performanc
 
 📺 DPCcars
 
-👁️ 91K • 👍 493 • 💬 256 • ⏱️ 2:14 • 5d ago
+👁️ 88K • 👍 495 • 💬 256 • ⏱️ 2:14 • 5d ago
 
 ---
 
-**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
+**[German Chancellor Friedrich Merz visits Unitree Robotics, watches robot martial arts demonstration](https://www.youtube.com/watch?v=hiddC9wwtqU)**
 
-AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
+German Chancellor Friedrich Merz visited the Chinese robotics firm Unitree Robotics in east China's Zhejiang Province on ...
 
-📺 The AI Nexus
+📺 CGTN
 
-👁️ 3K • 👍 142 • 💬 12 • ⏱️ 21:45 • 2d ago
+👁️ 6K • 👍 820 • 💬 87 • ⏱️ 0:37 • 2h ago
+
+---
+
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
+
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
+
+📺 AI Revolution
+
+👁️ 115K • 👍 2K • 💬 259 • ⏱️ 14:16 • 3d ago
+
+---
+
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 83K • 👍 3K • 💬 858 • ⏱️ 14:51 • 5d ago
 
 ---
 
@@ -265,36 +295,6 @@ A startup called Allonic has developed a 3D braiding technique that weaves robot
 📺 Dr Ben Miles
 
 👁️ 1.5M • 👍 114K • 💬 4K • ⏱️ 1:27 • 6d ago
-
----
-
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
-
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
-
-📺 Julia McCoy
-
-👁️ 83K • 👍 3K • 💬 856 • ⏱️ 14:51 • 5d ago
-
----
-
-**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
-
-Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
-
-📺 The China Show
-
-👁️ 205K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 5d ago
-
----
-
-**[Humanoid Robots Perform Martial Arts at Beijing&#39;s Temple of Heaven | Vantage with Palki Sharma |N18G](https://www.youtube.com/watch?v=IZYAKBR1QOs)**
-
-Humanoid robots developed by China's Unitree Robotics has given another impressive Chinese Kung Fu performance at the ...
-
-📺 Firstpost
-
-👁️ 29K • 👍 345 • 💬 286 • ⏱️ 4:45 • 2d ago
 
 ---
 
