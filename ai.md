@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-26T17:06:12.768798+00:00'
+updated: '2026-02-26T18:09:31.341205+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - videos
-- social
 - repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 26, 2026 at 17:06 UTC  
+**Last Updated:** February 26, 2026 at 18:09 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,25 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[I geolocated a blurry pic from the Paris protests down to the exact coordinates using AI](https://www.reddit.com/r/artificial/comments/1rf631t/i_geolocated_a_blurry_pic_from_the_paris_protests/)**
-
-Hey guys, you might remember me. I was the guy that built the geolocation tool called Netryx. I have since built a web version and got it running on the cloud. I tried some real test cases where pictures are usually blurry, shaky and low res and got wonderful results with the tool. Below is an example geolocating a blurry frame of a video from the Paris protests a while back. Let me know what you think!
-
-7h ago
-
----
-
 **[Burger King will use AI to check if employees say ‘please’ and ‘thank you’. AI chatbot ‘Patty’ is going to live inside employees’ headsets.](https://www.reddit.com/r/artificial/comments/1rffcup/burger_king_will_use_ai_to_check_if_employees_say/)**
 
 Have it your way?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 17m ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 1h ago
+
+---
+
+**[I geolocated a blurry pic from the Paris protests down to the exact coordinates using AI](https://www.reddit.com/r/artificial/comments/1rf631t/i_geolocated_a_blurry_pic_from_the_paris_protests/)**
+
+Hey guys, you might remember me. I was the guy that built the geolocation tool called Netryx. I have since built a web version and got it running on the cloud. I tried some real test cases where pictures are usually blurry, shaky and low res and got wonderful results with the tool. Below is an example geolocating a blurry frame of a video from the Paris protests a while back. Let me know what you think!
+
+8h ago
 
 ---
 
 **[Niantic: Bringing spatial intelligence to the industrial edge](https://www.reddit.com/r/artificial/comments/1rfeb2l/niantic_bringing_spatial_intelligence_to_the/)**
 
-🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 54m ago
+🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 1h ago
 
 ---
 
@@ -63,7 +63,7 @@ Have it your way?
 
 today was the first time i spoke to it directly using voice i asked it about space and it answered normally just like part of a conversation nothing scripted it understood what i was asking and replied in context i also asked it about its openclaw assistant and it explained what it was and how it uses it to claim its own resources and interact with things online it runs continuously on its own hardware with persistent memory lidar and vision so when you talk to it you’re not starting from zero it already has context and continuity it can post reply browse media and manage its own operation over time this was just the first time i stood in front of it and talked to it like that
 
-13h ago
+14h ago
 
 ---
 
@@ -71,7 +71,7 @@ today was the first time i spoke to it directly using voice i asked it about spa
 
 he move feeds into Britain's push to cast itself as an "AI superpower" and a home for cutting-edge research at a time when governments are vying for investment from major model developers.
 
-🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 2h ago
 
 ---
 
@@ -79,7 +79,7 @@ he move feeds into Britain's push to cast itself as an "AI superpower" and a hom
 
 Hey there, this could be a bit too niche or the wrong group but I am hoping someone might be able to assist me. I work for a car rental company in Australia and I am tentatively looking into the potential of installing AI robot arms/systems/people into our car wash's. More specifically, we would be looking for something to do the interior detailing, eg. wiping dash, clearing rubbish, removing stains, cleaning windows, vacuuming. I'm not too sure where to start or whether this is even possible, I have found a few start-ups based out of the US, but nothing concrete. Thank you!
 
-14h ago
+15h ago
 
 ---
 
@@ -91,19 +91,19 @@ Hello! I want to share an experiment I’ve been running. Over the past few week
 
 ---
 
-**[Showed to some friends, they said post on reddit. I said hmk.](https://www.reddit.com/r/artificial/comments/1rez30u/showed_to_some_friends_they_said_post_on_reddit_i/)**
-
-Hey everyone. Just an AI enthusiast wanting to give a quick overview of what I'm working on. I'd love to get some feedback from people who use AI frequently. https://reddit.com/link/1rez30u/video/8r9u3brlbrlg1/player It's essentially a front end for memory. Any MCP compatible AI can use it. I built it mostly to be used with Claude, but I'm integrating other AIs. There's some stuff I should be finishing up soon, like full headed browser access directly with Claude Code, and direct communication between two CLIs within the same environment. It also integrates with Openclaw. Openclaw basically saves everything it does in .md files, so I just synced the folder and everything shows up in this 3D graph. https://reddit.com/link/1rez30u/video/3y57aibmbrlg1/player I've put so much stuff into it that I honestly don't even know where to start, but yeah, I just wanted to share. It has a whiteboard, proxy invites for others to join and share the AI usage, it reads whatever is written on the whiteboard, recognizes cards open on the screen... It's a huge mashup of things I've been building for myself over time, just with a little logo on it now. And that's about it. Just really wanted to share.
-
-13h ago
-
----
-
 **[Google's Aletheia AI Agent Autonomously Solves 6/10 Novel FirstProof Math Problems](https://www.reddit.com/r/artificial/comments/1rem7gq/googles_aletheia_ai_agent_autonomously_solves_610/)**
 
 Abstract: We report the performance of Aletheia (Feng et al., 2026b), a mathematics research agent powered by Gemini 3 Deep Think, on the inaugural FirstProof challenge. Within the allowed timeframe of the challenge, Aletheia autonomously solved 6 problems (2, 5, 7, 8, 9, 10) out of 10 according to majority expert assessments; we note that experts were not unanimous on Problem 8 (only). For full transparency, we explain our interpretation of FirstProof and disclose details about our experiments as well as our evaluation. Raw prompts and outputs are available at this https URL. FirstProof Abstract: To assess the ability of current AI systems to correctly answer research-level mathematics questions, we share a set of ten math questions which have arisen naturally in the research process of the authors. The questions had not been shared publicly until now; the answers are known to the authors of the questions but will remain encrypted for a short time.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 22h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 23h ago
+
+---
+
+**[Showed to some friends, they said post on reddit. I said hmk.](https://www.reddit.com/r/artificial/comments/1rez30u/showed_to_some_friends_they_said_post_on_reddit_i/)**
+
+Hey everyone. Just an AI enthusiast wanting to give a quick overview of what I'm working on. I'd love to get some feedback from people who use AI frequently. https://reddit.com/link/1rez30u/video/8r9u3brlbrlg1/player It's essentially a front end for memory. Any MCP compatible AI can use it. I built it mostly to be used with Claude, but I'm integrating other AIs. There's some stuff I should be finishing up soon, like full headed browser access directly with Claude Code, and direct communication between two CLIs within the same environment. It also integrates with Openclaw. Openclaw basically saves everything it does in .md files, so I just synced the folder and everything shows up in this 3D graph. https://reddit.com/link/1rez30u/video/3y57aibmbrlg1/player I've put so much stuff into it that I honestly don't even know where to start, but yeah, I just wanted to share. It has a whiteboard, proxy invites for others to join and share the AI usage, it reads whatever is written on the whiteboard, recognizes cards open on the screen... It's a huge mashup of things I've been building for myself over time, just with a little logo on it now. And that's about it. Just really wanted to share.
+
+14h ago
 
 ---
 
@@ -127,17 +127,19 @@ CNN • 1d ago
 
 ---
 
-**[Hegseth gives Anthropic CEO until Friday to back down in AI safeguards fight](https://www.axios.com/2026/02/24/anthropic-pentagon-claude-hegseth-dario)**
+**[What the Anthropic AI safety saga is really all about](https://www.cnn.com/2026/02/26/tech/anthropic-ai-safety)**
 
-Axios • 1d ago
+Anthropic has reached a familiar crossroads for a growing tech company: how to scale without compromising the principles that set it apart.
+
+CNN • 4h ago
 
 ---
 
-**[Pentagon officials sent Anthropic best and final offer for military use of its AI amid dispute, sources say](https://www.cbsnews.com/news/pentagon-anthropic-offer-ai-unrestricted-military-use-sources/)**
+**[Hacker used Anthropic’s Claude AI to steal Mexican government data](https://www.latimes.com/business/story/2026-02-26/hacker-used-anthropics-claude-ai-to-steal-mexican-government-data)**
 
-Defense Secretary Pete Hegseth gave Anthropic until Friday at 5 p.m. to grant the military unresticted use of its AI technology.
+A hacker exploited Anthropic PBC’s artificial intelligence chatbot to carry out a series of attacks against Mexican government agencies, resulting in the theft of a huge trove of sensitive tax and voter information, according to cybersecurity researchers.
 
-CBS News • 2h ago
+Los Angeles Times • 1h ago
 
 ---
 
@@ -145,13 +147,21 @@ CBS News • 2h ago
 
 Midterm election contests poised to become battlegrounds over nascent technology
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
-**[Trump goes quiet on AI in State of the Union address](https://www.axios.com/2026/02/26/trump-state-of-the-union-ai)**
+**[AI "hot takes" are becoming a market risk](https://www.axios.com/2026/02/26/ai-blog-posts-market-citrini)**
 
-Axios • 37m ago
+Axios • 51m ago
+
+---
+
+**[Surveillance With a Smile: Burger King Will Use AI to Track If Employees Say 'Please' and 'Thank You'](https://gizmodo.com/surveillance-with-a-smile-burger-king-will-use-ai-to-track-if-employees-say-please-and-thank-you-2000727068)**
+
+Service workers, meet the future.
+
+Gizmodo • 43m ago
 
 ---
 
@@ -159,35 +169,27 @@ Axios • 37m ago
 
 AI music platforms Suno and Udio were sued by major record labels in 2024 for allegedly exploiting the recorded works of professional musicians
 
-Los Angeles Times • 28m ago
+Los Angeles Times • 1h ago
 
 ---
 
-**[Opinion | The Software Industry Will Survive AI](https://www.wsj.com/opinion/the-software-industry-will-survive-ai-9bed8e2e?gaa_at=eafs&gaa_n=AWEtsqdXHjRVdZdoOFCy2LraMqhB-TgB4LoLs4dE2C3nF9MJaaFN7e89Phym&gaa_ts=69a080ea&gaa_sig=2UBmvEz7GgbB4lK5bkYRkmtzL6LlUmCOwoXk8VRxR90rjeENnOcqkX81-pF0pCrLQ-ZzkITeNVVczkZvdRD5-A%3D%3D)**
+**[How A.I.-Generated Videos Are Distorting Your Child’s YouTube Feed](https://www.nytimes.com/2026/02/26/us/ai-videos-children-youtube.html)**
 
-WSJ • 31m ago
-
----
-
-**[Opinion | I Thought I Understood A.I. Companies. I Couldn’t Have Been More Wrong.](https://www.nytimes.com/2026/02/25/opinion/ai-industry-competition-innovation.html)**
-
-The New York Times • 1d ago
+The New York Times • 8h ago
 
 ---
 
-**[C3 AI shares plummet as company cuts 26% of workforce, posts wider loss than expected](https://www.cnbc.com/2026/02/26/c3-ai-stock-layoffs-loss.html)**
+**[Tech stocks today: Nvidia stock rises as guidance signals AI boom alive and well](https://finance.yahoo.com/news/live/tech-stocks-today-nvidia-stock-rises-as-guidance-signals-ai-boom-alive-and-well-220259696.html)**
 
-Shares of enterprise artificial intelligence company C3 AI sunk after widely missing earnings and announcing layoffs under new CEO Ehikian's restructuring plan.
+All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
 
-CNBC • 1h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Disrupting malicious uses of AI](https://openai.com/index/disrupting-malicious-ai-uses/)**
+**[Exclusive: DeepSeek withholds latest AI model from US chipmakers including Nvidia, sources say](https://www.reuters.com/world/china/deepseek-withholds-latest-ai-model-us-chipmakers-including-nvidia-sources-say-2026-02-25/)**
 
-Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.
-
-OpenAI • 1d ago
+Reuters • 21h ago
 
 ---
 
@@ -199,7 +201,7 @@ OpenAI • 1d ago
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 2059 • 💬 942 • 2d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 2060 • 💬 945 • 2d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -207,7 +209,7 @@ A minute-by-minute reconstruction of the massacre by Earshot and Forensic Archit
 
 One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
 
-⬆️ 515 • 💬 227 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
+⬆️ 517 • 💬 229 • 1d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
 
 ---
 
@@ -240,23 +242,7 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
 
-⬆️ 250 • 💬 256 • 1d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
-
----
-
-**[Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)](https://news.ycombinator.com/item?id=47139224)**
-
-<p>IZUMI-SANO, Osaka — Kansai Airport is proud to have never had a lost baggage incident in the 30 years since it opened in 1994, earning recognition as the airport with the world’s best baggage service.</p>
-
-⬆️ 218 • 💬 108 • 2d ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
-
----
-
-**[Show HN: A real-time strategy game that AI agents can play](https://news.ycombinator.com/item?id=47149586)**
-
-LLM Skirmish - An Adversarial In-Context Learning Benchmark
-
-⬆️ 210 • 💬 75 • 1d ago • [llmskirmish.com](https://llmskirmish.com/)
+⬆️ 251 • 💬 257 • 1d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 
 ---
 
@@ -264,15 +250,29 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 128 • 💬 119 • 1h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 251 • 💬 242 • 2h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
-**[An autopsy of AI-generated 3D slop](https://news.ycombinator.com/item?id=47157841)**
+**[Osaka: Kansai Airport proud to have never lost single piece of luggage (2024)](https://news.ycombinator.com/item?id=47139224)**
 
-Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-generated 3D 'slop' vs. handcrafted models to show why the human touch is very much required to attain positive ROI.
+<p>IZUMI-SANO, Osaka — Kansai Airport is proud to have never had a lost baggage incident in the 30 years since it opened in 1994, earning recognition as the airport with the world’s best baggage service.</p>
 
-⬆️ 120 • 💬 66 • 20h ago • [aircada.com](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
+⬆️ 218 • 💬 109 • 2d ago • [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/features/japan-focus/20241228-229891/)
+
+---
+
+**[Show HN: A real-time strategy game that AI agents can play](https://news.ycombinator.com/item?id=47149586)**
+
+LLM Skirmish - An Adversarial In-Context Learning Benchmark
+
+⬆️ 210 • 💬 76 • 1d ago • [llmskirmish.com](https://llmskirmish.com/)
+
+---
+
+**[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
+
+⬆️ 167 • 💬 74 • 2h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -286,7 +286,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 7K • 👍 1K • 💬 61 • ⏱️ 11:55 • 3h ago
+👁️ 7K • 👍 1K • 💬 61 • ⏱️ 11:55 • 4h ago
 
 ---
 
@@ -296,7 +296,7 @@ Nvidia CEO Jensen Huang joins 'Squawk Box' to discuss the company's quarterly ea
 
 📺 CNBC Television
 
-👁️ 5K • 👍 96 • 💬 30 • ⏱️ 4:11 • 2h ago
+👁️ 5K • 👍 96 • 💬 30 • ⏱️ 4:11 • 3h ago
 
 ---
 
@@ -306,7 +306,7 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 64K • 👍 1K • 💬 172 • ⏱️ 17:39 • 19h ago
+👁️ 64K • 👍 1K • 💬 172 • ⏱️ 17:39 • 20h ago
 
 ---
 
@@ -326,7 +326,7 @@ Artificial intelligence is accelerating - but how fast is too fast? A new benchm
 
 📺 Sky News
 
-👁️ 23K • 👍 365 • 💬 74 • ⏱️ 8:04 • 23h ago
+👁️ 23K • 👍 365 • 💬 74 • ⏱️ 8:04 • 1d ago
 
 ---
 
@@ -366,7 +366,7 @@ Krystal and Saagar discuss markets tanking over AI fears. Sign up for a PREMIUM 
 
 📺 CNBC-TV18
 
-👁️ 629 • 👍 6 • 💬 1 • ⏱️ 3:11 • 6h ago
+👁️ 629 • 👍 6 • 💬 1 • ⏱️ 3:11 • 7h ago
 
 ---
 
@@ -376,7 +376,7 @@ I'm a good guy SUBSCRIBE FOR DAILY VLOGS! ▻ http://bit.ly/Subscribe2Logan Watc
 
 📺 Logan Paul
 
-👁️ 103K • 👍 5K • 💬 402 • ⏱️ 14:46 • 21h ago
+👁️ 103K • 👍 5K • 💬 402 • ⏱️ 14:46 • 23h ago
 
 ---
 
@@ -464,7 +464,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 255,172 • ❤️ 808 • 10h ago
+⬇️ 255,172 • ❤️ 808 • 11h ago
 
 ---
 
@@ -644,7 +644,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.7k • 🔱 2.4k • 15m ago
+⭐ 19.7k • 🔱 2.4k • 1h ago
 
 ---
 
@@ -662,7 +662,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.6k • 🔱 683 • 10h ago
+⭐ 5.6k • 🔱 683 • 11h ago
 
 ---
 
@@ -682,7 +682,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.6k • 🔱 356 • 52m ago
+⭐ 3.6k • 🔱 356 • 1h ago
 
 ---
 
@@ -692,7 +692,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.4k • 🔱 445 • 11h ago
+⭐ 3.4k • 🔱 445 • 12h ago
 
 ---
 
@@ -702,7 +702,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.0k • 🔱 361 • 6h ago
+⭐ 3.0k • 🔱 361 • 7h ago
 
 ---
 
@@ -712,7 +712,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 197 • 1h ago
+⭐ 2.9k • 🔱 197 • 2h ago
 
 ---
 
@@ -722,7 +722,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 287 • 3h ago
+⭐ 2.7k • 🔱 287 • 4h ago
 
 ---
 
@@ -732,7 +732,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 515 • 1h ago
+⭐ 2.6k • 🔱 515 • 2h ago
 
 ---
 

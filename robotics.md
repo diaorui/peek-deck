@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T17:06:12.783992+00:00'
+updated: '2026-02-26T18:09:31.357118+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 17:06 UTC  
+**Last Updated:** February 26, 2026 at 18:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-5h ago
+6h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-3h ago
+4h ago
 
 ---
 
@@ -52,7 +52,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 4h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 5h ago
 
 ---
 
@@ -60,7 +60,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-3h ago
+4h ago
 
 ---
 
@@ -68,13 +68,13 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-7h ago
+8h ago
 
 ---
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -82,7 +82,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-6h ago
+7h ago
 
 ---
 
@@ -90,13 +90,13 @@ Sorry this video is in french but I am so proud to show you my work, a fully fun
 
 Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-18h ago
+19h ago
 
 ---
 
 **[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -116,7 +116,7 @@ Website: https://simtoolreal.github.io/ arXiv:2602.16863 [cs.RO]: https://www.ar
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -124,15 +124,15 @@ CNBC • 19h ago
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 21h ago
+TechCrunch • 22h ago
 
 ---
 
-**[AI robotics company started by Alphabet is joining Google proper](https://www.engadget.com/ai/ai-robotics-company-started-by-alphabet-is-joining-google-proper-144421411.html)**
+**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
 
-A robotics company started by Alphabet is being absorbed by Google.
+Intrinsic is focused on making robots easier to program, teach, and operate.
 
-Engadget • 2h ago
+The Verge • 7h ago
 
 ---
 
@@ -140,15 +140,7 @@ Engadget • 2h ago
 
 The Department of Commerce is convening American robotics companies on March 10 to discuss how to bolster the domestic industry and thwart Chinese competition.
 
-Semafor • 22h ago
-
----
-
-**[Meet your new robot fry cooks: inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
-
-Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
-
-Fortune • 3h ago
+Semafor • 23h ago
 
 ---
 
@@ -156,23 +148,39 @@ Fortune • 3h ago
 
 The 'Big 5' humanoid robot manufacturers will participate in the China Humanoid Robot Conference as part of AW 2026.
 
-The Robot Report • 2h ago
-
----
-
-**[Intrinsic is joining Google to advance physical AI in robotics](https://www.therobotreport.com/intrinsic-is-joining-google-to-advance-physical-ai-in-robotics/)**
-
-Intrinsic originally spun out from Google parent Alphabet in 2021, and it has since worked with Alphabet subsidiaries.
-
 The Robot Report • 4h ago
 
 ---
 
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+**[Cofounder of bankrupt robot vacuum maker iRobot says Elon Musk’s vision of robots is ‘pure fantasy’](https://fortune.com/2026/02/25/mit-roboticist-irobot-cofounder-roomba-robot-vacuum-elon-musk-tesla-optimus-pure-fantasy-thinking/)**
 
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+Rodney Brooks said future “humanoid” robots will have wheels and multiple arms.
 
-Los Angeles Times • 1d ago
+Fortune • 22h ago
+
+---
+
+**[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
+
+"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
+
+CNBC • 3d ago
+
+---
+
+**[7 Next-Gen Chinese Humanoid Robots: From ‘Kung Fu’ Spectacles to Factory Workhorses](https://www.eweek.com/news/7-next-gen-chinese-humanoid-robots-2026/)**
+
+China’s humanoid robot makers are scaling fast in 2026, led by Unitree and AgiBot, as the market shifts from viral demos to commercial deployment.
+
+eWeek • 1d ago
+
+---
+
+**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
+
+There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
+
+The Conversation • 1d ago
 
 ---
 
@@ -180,15 +188,7 @@ Los Angeles Times • 1d ago
 
 German Chancellor Friedrich Merz visited Chinese robotics firm Unitree Robotics in Hangzhou, East China’s Zhejiang Province, on Thursday afternoon, where he watched the robot product displays and robot performances such as
 
-Global Times • 6h ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
-
-NBC Bay Area • 2d ago
+Global Times • 7h ago
 
 ---
 
@@ -202,7 +202,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 1K • 👍 57 • 💬 16 • ⏱️ 24:08 • 10h ago
+👁️ 1K • 👍 57 • 💬 16 • ⏱️ 24:08 • 11h ago
 
 ---
 
@@ -212,7 +212,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 74K • 👍 2K • 💬 800 • ⏱️ 7:18 • 1d ago
+👁️ 74K • 👍 2K • 💬 800 • ⏱️ 7:18 • 2d ago
 
 ---
 
@@ -232,7 +232,7 @@ CNET social producer Faith Chihil made a trip to visit the boba robot from Yo-Ka
 
 📺 CNET
 
-👁️ 412 • 👍 30 • ⏱️ 1:08 • 30m ago
+👁️ 412 • 👍 30 • ⏱️ 1:08 • 1h ago
 
 ---
 
@@ -290,7 +290,7 @@ China's Spring Festival Gala stunned the world as 24 humanoid robots performed m
 
 📺 Indiplus News Official
 
-👁️ 6K • 👍 535 • 💬 11 • ⏱️ 0:29 • 3h ago
+👁️ 6K • 👍 535 • 💬 11 • ⏱️ 0:29 • 4h ago
 
 ---
 
