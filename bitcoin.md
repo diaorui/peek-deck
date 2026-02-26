@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-26T13:49:01.093338+00:00'
+updated: '2026-02-26T14:48:46.186957+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
 - cryptocurrency
-- news
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 26, 2026 at 13:49 UTC  
+**Last Updated:** February 26, 2026 at 14:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1359.99B
+**Market Cap:** $1357.35B
 Rank #1
 
-**Circulating Supply:** 19,995,059 BTC
+**Circulating Supply:** 19,995,081 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.0%
+-46.3%
 
 **All-Time Low:** $67.81
-+100230.3%
++99667.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 2011: -93% 2015: -86% 2018: -84% 2022: -77% Every cycle, the drawdown gets smaller as the market matures. If BTC follows this trend, the 2026 bottom should be around -70% from the $126K ATH. That puts us at $38K. At the moment It costs $87,000 to produce one Bitcoin and the current price is $65,000. So, miners are losing money on every single coin they mine. This only happens during bear markets. In 2022, Bitcoin dropped below its production cost in June. People called the bottom but the actual bottom was 5 months later in November at $15,800 after miners were forced to sell everything they had just to keep the lights on. The pattern has always been the same. Price drops below production cost. Miners start selling reserves to survive. Selling pressure pushes price lower. Weaker miners go bankrupt. Their creditors liquidate the remaining Bitcoin. More selling. More pain. Then the bottom. We are in the selling reserves phase. The bankruptcy phase has not even started. Of course, things could be different this time. In my opinion BTC is going LOWER Ill be DCAing sub 50k
 
-3h ago
+4h ago
 
 ---
 
@@ -89,7 +89,7 @@ Rank #1
 
 a few years ago, I bought Bitcoin at 20k, I sold at 70k. I just wanted to inform new buyers and ppl that are thinking about this now... hold that shi, this coin can do so much for you investing. I've seen on so many forums that it's crashing it's gonna skyrocket yada yada... don't stalk it where it's price is, hold it long. I could have made thousands more than I did if I held it longer to over 100k dollars. welcome to the club, I'm glad to be back in:)
 
-12h ago
+13h ago
 
 ---
 
@@ -97,13 +97,13 @@ a few years ago, I bought Bitcoin at 20k, I sold at 70k. I just wanted to inform
 
 https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4f008711480e9de8c23a06b3d9e6bbd824ed6 Thoughts on this?
 
-19h ago
+20h ago
 
 ---
 
 **[Google searches for "buy bitcoin" at highest level in 5 years](https://www.reddit.com/r/Bitcoin/comments/1renmsw/google_searches_for_buy_bitcoin_at_highest_level/)**
 
-🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 18h ago
+🔗 [X (formerly Twitter)](https://x.com/kalshi/status/2026725340517712220?s=61&t=911XcFq5FV9qoH1Ja3r1TQ) • 19h ago
 
 ---
 
@@ -111,13 +111,13 @@ https://preview.redd.it/6t18reociolg1.png?width=1063&format=png&auto=webp&s=d9f4
 
 And people are freaking out…sit back and enjoy the ride.
 
-14h ago
+15h ago
 
 ---
 
 **[Morgan Stanley's Amy Oldenburg confirms the bank has plans to offer Bitcoin trading, lending, yield, and custody in the future](https://www.reddit.com/r/Bitcoin/comments/1rep4ke/morgan_stanleys_amy_oldenburg_confirms_the_bank/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -125,7 +125,7 @@ And people are freaking out…sit back and enjoy the ride.
 
 Bitcoin will humble you if you don't wish to learn this simple lesson. Buy small spot on weekly/monthly and aim to get a full Bitcoin as the primary goal. Set a target date to get full Bitcoin with at least 6 months duration. Try to avoid buying one full Bitcoin from day 1 itself. You won't be truly be able to appreciate it and most likely be one of the many that curse crypto in the end. The longer it takes to accomplish it, the better imo. People I know took them 3-6 years and they truly are still passionate about Bitcoin till now despite the crash. Worry less about the loss/profit that fluctuates on a daily basis especially at time like this with the current politics and economy. Buy Bitcoin like you want to buy a house on a discount. Do this and you will feel a great sense of accomplishment over time. Be proud and know that the level of discipline you created is no easy feat. Successful people are mostly discipline people. You are ten steps closer with that trait alone. If you are like me, you will also have better sleep at night when you are halfway on the journey to accomplish a task that feels impossible but is indeed possible. All the best, bitcoiners!
 
-12h ago
+13h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bitcoin will humble you if you don't wish to learn this simple lesson. Buy small
 
 In honor of corn pumping today
 
-17h ago
+18h ago
 
 ---
 
@@ -141,7 +141,7 @@ In honor of corn pumping today
 
 if you had to sum it up to one point.. whats your personal reason for believing in longterm upside?
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ if you had to sum it up to one point.. whats your personal reason for believing 
 
 Crypto Adoption Index says that there are 53M users in USA that use Bitcoin. Just interested people who live in USA, is this true that Bitcoin is extremely popular and 1 of 6 people own Bitcoin in their wallets?
 
-3h ago
+4h ago
 
 ---
 
@@ -161,7 +161,7 @@ Crypto Adoption Index says that there are 53M users in USA that use Bitcoin. Jus
 
 Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
 
-Bloomberg • 13h ago
+Bloomberg • 14h ago
 
 ---
 
@@ -175,19 +175,19 @@ CNBC • 1d ago
 
 **[Trump Brothers’ Bitcoin Miner Posts Quarterly Loss](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-02-26-2026/card/trump-brothers-bitcoin-miner-posts-quarterly-loss-vnJNFk9Ig28NkJ1Pb2iv?gaa_at=eafs&gaa_n=AWEtsqfrRz9G10-kDPe6XJFZ1BYrGd025YioTuQ679OqqoW0q51CeRwViJPE&gaa_ts=69a052b3&gaa_sig=PSygzNKil_LXVI2WHGO9QPTmaba259CwencyrxzXNdXQMXROWY--i0aa5Wgk-Ll1llEASZ9bhhIZOrVF4uv47g%3D%3D)**
 
-WSJ • 5h ago
+WSJ • 6h ago
 
 ---
 
 **[Bitcoin Miner Tied to Trump Family Pummeled by Crypto Crash](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-tied-to-trump-family-pummeled-by-crypto-crash)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
 **[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
 
-Reuters • 1h ago
+Reuters • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Business Insider • 1d ago
 
 TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
 
-The Block • 3h ago
+The Block • 4h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Block • 3h ago
 
 Online claims have drawn attention to how institutional middlemen hedge Bitcoin ETF shares, exposing a gap between inflows and spot buying.
 
-Yahoo Finance • 11h ago
+Yahoo Finance • 12h ago
 
 ---
 
@@ -219,7 +219,7 @@ Yahoo Finance • 11h ago
 
 Jane Street faces fresh scrutiny as traders allege a daily Bitcoin “10 a.m. dump.” What’s driving the claims—and what’s proven so far?
 
-CCN.com • 6h ago
+CCN.com • 7h ago
 
 ---
 
@@ -237,7 +237,7 @@ CNN • 23d ago
 
 **[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
 
-⬆️ 9 • 💬 3 • 14h ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+⬆️ 9 • 💬 3 • 15h ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
 
 ---
 
@@ -245,7 +245,7 @@ CNN • 23d ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 6 • 💬 21 • 1d ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+⬆️ 6 • 💬 21 • 2d ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
 
 ---
 
@@ -259,7 +259,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
 
-⬆️ 2 • 💬 0 • 12h ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
+⬆️ 2 • 💬 0 • 13h ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
 
 ---
 
@@ -279,7 +279,7 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 **[Fix the money, fix the world: Bitcoin as techno-libertarian religion](https://news.ycombinator.com/item?id=47165953)**
 
-⬆️ 1 • 💬 0 • 8m ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
+⬆️ 1 • 💬 0 • 1h ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
 
 ---
 
@@ -315,7 +315,7 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Into 
 
 📺 Aaron Bennett
 
-👁️ 22K • 👍 822 • 💬 137 • ⏱️ 8:26 • 10h ago
+👁️ 25K • 👍 953 • 💬 162 • ⏱️ 8:26 • 11h ago
 
 ---
 
@@ -325,7 +325,7 @@ Bitcoin did not just crash. It may have been engineered. From Terra's collapse t
 
 📺 Simply Bitcoin
 
-👁️ 32K • 👍 3K • 💬 142 • ⏱️ 15:03 • 15h ago
+👁️ 35K • 👍 3K • 💬 151 • ⏱️ 15:03 • 16h ago
 
 ---
 
@@ -335,37 +335,7 @@ Bitcoin Price Suppression & Crypto Market Manipulation LIFTED! ⭐ Follow Altcoi
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 3K • 💬 146 • ⏱️ 10:59 • 14h ago
-
----
-
-**[Bitcoin Accumulation ERUPTS As The Financial System Cracks! Supply Shock Incoming?](https://www.youtube.com/watch?v=hZLsPjR1-t0)**
-
-Bitcoin #Crypto #Finance Bitcoin accumulation is approaching extreme levels at the same time cracks are beginning to show ...
-
-📺 The Wolf Of All Streets
-
-👁️ 24K • 👍 1K • 💬 184 • ⏱️ 29:33 • 22h ago
-
----
-
-**[BITCOIN - DO THIS NOW](https://www.youtube.com/watch?v=T37B-cXa8NY)**
-
-CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https://linktr.ee/Myfinancialfriend I ...
-
-📺 My Financial Friend
-
-👁️ 9K • 👍 469 • 💬 39 • ⏱️ 25:16 • 19h ago
-
----
-
-**[something VIOLENTLY BIG is about to happen to Bitcoin  . . .](https://www.youtube.com/watch?v=hKdeqFdYMOQ)**
-
-Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
-
-📺 Tyler S
-
-👁️ 18K • 👍 1K • 💬 197 • ⏱️ 10:03 • 20h ago
+👁️ 49K • 👍 3K • 💬 151 • ⏱️ 10:59 • 15h ago
 
 ---
 
@@ -375,17 +345,7 @@ Drew takes a look a the latest manipulation that has happened recently with Bitc
 
 📺 Discover Crypto
 
-👁️ 7K • 👍 352 • 💬 48 • ⏱️ 9:33 • 13h ago
-
----
-
-**[Bitcoin Is Being Repriced by AI](https://www.youtube.com/watch?v=DnT8bUl_DM8)**
-
-Get my free guide to building a tax-free bitcoin income stream: https://link.1markmoss.com/hqXt3 There's a rotation starting that ...
-
-📺 Mark Moss
-
-👁️ 82K • 👍 3K • 💬 484 • ⏱️ 15:47 • 1d ago
+👁️ 7K • 👍 368 • 💬 49 • ⏱️ 9:33 • 14h ago
 
 ---
 
@@ -399,13 +359,53 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 ---
 
-**[Michael Saylor Reveals the Pattern Behind Bitcoin’s Crash!](https://www.youtube.com/watch?v=eWLncwZY2QQ)**
+**[Bitcoin Accumulation ERUPTS As The Financial System Cracks! Supply Shock Incoming?](https://www.youtube.com/watch?v=hZLsPjR1-t0)**
 
-Bitcoin is down 45% from its all-time high as AI disruption rattles global markets and uncertainty hits record levels. With weekly ...
+Bitcoin #Crypto #Finance Bitcoin accumulation is approaching extreme levels at the same time cracks are beginning to show ...
 
-📺 Swan Bitcoin
+📺 The Wolf Of All Streets
 
-👁️ 64K • 👍 2K • 💬 206 • ⏱️ 19:02 • 1d ago
+👁️ 24K • 👍 1K • 💬 184 • ⏱️ 29:33 • 23h ago
+
+---
+
+**[Bitcoin Is Being Repriced by AI](https://www.youtube.com/watch?v=DnT8bUl_DM8)**
+
+Get my free guide to building a tax-free bitcoin income stream: https://link.1markmoss.com/hqXt3 There's a rotation starting that ...
+
+📺 Mark Moss
+
+👁️ 83K • 👍 3K • 💬 493 • ⏱️ 15:47 • 1d ago
+
+---
+
+**[BITCOIN MANIPULATION OVER](https://www.youtube.com/watch?v=DtlfUgmjWwM)**
+
+For months, traders have noticed a suspicious pattern—the infamous 10 a.m. Price Slam—that seemed to suppress every BTC ...
+
+📺 Discover Crypto
+
+👁️ 11K • 👍 584 • 💬 22 • ⏱️ 1:03:07 • 22h ago
+
+---
+
+**[something VIOLENTLY BIG is about to happen to Bitcoin  . . .](https://www.youtube.com/watch?v=hKdeqFdYMOQ)**
+
+Up to *$30000* Welcome Bonus]◅ ✓ *NO RESTRICTIONS* IF YOU *Use THIS Link* Phemex Exchange ...
+
+📺 Tyler S
+
+👁️ 18K • 👍 1K • 💬 197 • ⏱️ 10:03 • 21h ago
+
+---
+
+**[BITCOIN DEATH CROSS - TIME TO ACT !!!!](https://www.youtube.com/watch?v=jxM4-Iqv4wE)**
+
+BYBIT: http://themoon.co/Bybit 10% DISCOUNT & $30000 BONUS Coinflare: https://themoon.co/Coinflare Earn Up to ...
+
+📺 The Moon Show
+
+👁️ 13K • 👍 855 • 💬 91 • ⏱️ 7:42 • 9h ago
 
 ---
 

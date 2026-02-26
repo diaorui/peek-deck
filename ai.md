@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-26T13:49:01.084907+00:00'
+updated: '2026-02-26T14:48:46.178581+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 26, 2026 at 13:49 UTC  
+**Last Updated:** February 26, 2026 at 14:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Hey guys, you might remember me. I was the guy that built the geolocation tool called Netryx. I have since built a web version and got it running on the cloud. I tried some real test cases where pictures are usually blurry, shaky and low res and got wonderful results with the tool. Below is an example geolocating a blurry frame of a video from the Paris protests a while back. Let me know what you think!
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 today was the first time i spoke to it directly using voice i asked it about space and it answered normally just like part of a conversation nothing scripted it understood what i was asking and replied in context i also asked it about its openclaw assistant and it explained what it was and how it uses it to claim its own resources and interact with things online it runs continuously on its own hardware with persistent memory lidar and vision so when you talk to it you’re not starting from zero it already has context and continuity it can post reply browse media and manage its own operation over time this was just the first time i stood in front of it and talked to it like that
 
-10h ago
+11h ago
 
 ---
 
@@ -57,7 +57,7 @@ today was the first time i spoke to it directly using voice i asked it about spa
 
 Hey there, this could be a bit too niche or the wrong group but I am hoping someone might be able to assist me. I work for a car rental company in Australia and I am tentatively looking into the potential of installing AI robot arms/systems/people into our car wash's. More specifically, we would be looking for something to do the interior detailing, eg. wiping dash, clearing rubbish, removing stains, cleaning windows, vacuuming. I'm not too sure where to start or whether this is even possible, I have found a few start-ups based out of the US, but nothing concrete. Thank you!
 
-11h ago
+12h ago
 
 ---
 
@@ -73,7 +73,7 @@ Hello! I want to share an experiment I’ve been running. Over the past few week
 
 Hey everyone. Just an AI enthusiast wanting to give a quick overview of what I'm working on. I'd love to get some feedback from people who use AI frequently. https://reddit.com/link/1rez30u/video/8r9u3brlbrlg1/player It's essentially a front end for memory. Any MCP compatible AI can use it. I built it mostly to be used with Claude, but I'm integrating other AIs. There's some stuff I should be finishing up soon, like full headed browser access directly with Claude Code, and direct communication between two CLIs within the same environment. It also integrates with Openclaw. Openclaw basically saves everything it does in .md files, so I just synced the folder and everything shows up in this 3D graph. https://reddit.com/link/1rez30u/video/3y57aibmbrlg1/player I've put so much stuff into it that I honestly don't even know where to start, but yeah, I just wanted to share. It has a whiteboard, proxy invites for others to join and share the AI usage, it reads whatever is written on the whiteboard, recognizes cards open on the screen... It's a huge mashup of things I've been building for myself over time, just with a little logo on it now. And that's about it. Just really wanted to share.
 
-10h ago
+11h ago
 
 ---
 
@@ -81,7 +81,7 @@ Hey everyone. Just an AI enthusiast wanting to give a quick overview of what I'm
 
 Abstract: We report the performance of Aletheia (Feng et al., 2026b), a mathematics research agent powered by Gemini 3 Deep Think, on the inaugural FirstProof challenge. Within the allowed timeframe of the challenge, Aletheia autonomously solved 6 problems (2, 5, 7, 8, 9, 10) out of 10 according to majority expert assessments; we note that experts were not unanimous on Problem 8 (only). For full transparency, we explain our interpretation of FirstProof and disclose details about our experiments as well as our evaluation. Raw prompts and outputs are available at this https URL. FirstProof Abstract: To assess the ability of current AI systems to correctly answer research-level mathematics questions, we share a set of ten math questions which have arisen naturally in the research process of the authors. The questions had not been shared publicly until now; the answers are known to the authors of the questions but will remain encrypted for a short time.
 
-🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 18h ago
+🔗 [arXiv.org](https://arxiv.org/abs/2602.21201) • 19h ago
 
 ---
 
@@ -97,7 +97,7 @@ In an abrupt shift, the company may release future AI models without ironclad s
 
 Lengthy interview with Anthropic co-founder about agentic AI
 
-🔗 [open.spotify.com](https://open.spotify.com/episode/6aeTJQPEXYHITci8d0wfdp?si=wEBInXK-S7WVaUBfbub4aQ) • 13h ago
+🔗 [open.spotify.com](https://open.spotify.com/episode/6aeTJQPEXYHITci8d0wfdp?si=wEBInXK-S7WVaUBfbub4aQ) • 14h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hi, I’m looking for AI software that allows us to upload a large number of our
 
 Anthropic, a company founded by OpenAI exiles worried about the dangers of AI, is loosening its core safety principle in response to competition.
 
-CNN • 23h ago
+CNN • 1d ago
 
 ---
 
@@ -139,7 +139,7 @@ Axios • 1d ago
 
 Shortcut used by Chinese groups lets smaller models learn from bigger, more powerful systems
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -147,19 +147,19 @@ Financial Times • 1h ago
 
 Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.
 
-OpenAI • 23h ago
+OpenAI • 1d ago
 
 ---
 
 **[Bonus: Your questions on AI at work](https://www.economist.com/podcasts/2026/02/26/bonus-your-questions-on-ai-at-work)**
 
-The Economist • 59m ago
+The Economist • 1h ago
 
 ---
 
 **[CesiumAstro acquires Vidrovr to embed AI in communications systems](https://spacenews.com/cesiumastro-acquires-vidrovr-to-embed-ai-in-communications-systems/)**
 
-SpaceNews • 49m ago
+SpaceNews • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ SpaceNews • 49m ago
 
 Cuban says AI tools like ChatGPT let curious kids teach themselves and turn one idea into a potentially life-changing product.
 
-Business Insider • 31m ago
+Business Insider • 1h ago
 
 ---
 
@@ -175,13 +175,13 @@ Business Insider • 31m ago
 
 All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
 
-Yahoo Finance • 15h ago
+Yahoo Finance • 16h ago
 
 ---
 
 **[A.I. Complicates Old Internet Privacy Risks](https://www.nytimes.com/2026/02/26/technology/personaltech/ai-complicates-old-internet-privacy-risks.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -189,7 +189,7 @@ The New York Times • 3h ago
 
 We're introducing a handful of new features and capabilities to Flow.
 
-blog.google • 20h ago
+blog.google • 21h ago
 
 ---
 
@@ -272,7 +272,7 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-generated 3D 'slop' vs. handcrafted models to show why the human touch is very much required to attain positive ROI.
 
-⬆️ 91 • 💬 55 • 16h ago • [aircada.com](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
+⬆️ 91 • 💬 55 • 17h ago • [aircada.com](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
 
 ---
 
@@ -286,17 +286,7 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 56K • 👍 1K • 💬 158 • ⏱️ 17:39 • 16h ago
-
----
-
-**[Dario Amodei Podcast | &#39;An AI Tsunami Is Coming, And No One’s Ready&#39;: Anthropic CEO Warns](https://www.youtube.com/watch?v=Zr3Z4x_1QTA)**
-
-On Nikhil Kamath's podcast People by WTF, Anthropic CEO Dario Amodei delivered a stark warning about artificial intelligence.
-
-📺 NDTV
-
-👁️ 21K • 👍 113 • 💬 67 • ⏱️ 2:48 • 2d ago
+👁️ 60K • 👍 1K • 💬 166 • ⏱️ 17:39 • 17h ago
 
 ---
 
@@ -306,7 +296,17 @@ Artificial intelligence is accelerating - but how fast is too fast? A new benchm
 
 📺 Sky News
 
-👁️ 19K • 👍 306 • 💬 61 • ⏱️ 8:04 • 20h ago
+👁️ 21K • 👍 336 • 💬 70 • ⏱️ 8:04 • 21h ago
+
+---
+
+**[Dario Amodei Podcast | &#39;An AI Tsunami Is Coming, And No One’s Ready&#39;: Anthropic CEO Warns](https://www.youtube.com/watch?v=Zr3Z4x_1QTA)**
+
+On Nikhil Kamath's podcast People by WTF, Anthropic CEO Dario Amodei delivered a stark warning about artificial intelligence.
+
+📺 NDTV
+
+👁️ 22K • 👍 116 • 💬 70 • ⏱️ 2:48 • 2d ago
 
 ---
 
@@ -316,7 +316,7 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 305K • 👍 15K • 💬 2K • ⏱️ 7:09 • 1d ago
+👁️ 311K • 👍 15K • 💬 2K • ⏱️ 7:09 • 1d ago
 
 ---
 
@@ -326,27 +326,7 @@ I sat down with Dario Amodei in Bangalore. He built Claude, but he started as a 
 
 📺 Nikhil Kamath
 
-👁️ 476K • 👍 10K • 💬 1K • ⏱️ 1:08:35 • 2d ago
-
----
-
-**[The Character.ai Situation is Getting Worse](https://www.youtube.com/watch?v=bGbbxPOaVk4)**
-
-Join Our Discord Server! https://discord.gg/MNTSVCJbDd 0:00 Intro 0:23 How we got here? 1:07 Why are they doing this?
-
-📺 MoeMoe
-
-👁️ 5K • 👍 301 • 💬 76 • ⏱️ 2:02 • 11h ago
-
----
-
-**[The AI Music Tool That&#39;s About to Break the Internet (And It&#39;s Free Right Now)](https://www.youtube.com/watch?v=fK886jyF9Hw)**
-
-The most unhinged AI music generator just dropped — and right now, it's completely free. Sonauto V3 is here, and it is not holding ...
-
-📺 Theoretically Media
-
-👁️ 34K • 👍 2K • 💬 523 • ⏱️ 14:49 • 1d ago
+👁️ 488K • 👍 10K • 💬 1K • ⏱️ 1:08:35 • 2d ago
 
 ---
 
@@ -356,7 +336,15 @@ Quantum AI Ran the Book of Enoch's Coordinates — What It Found Breaks the Time
 
 📺 Spacialize
 
-👁️ 31K • 👍 1K • 💬 87 • ⏱️ 17:32 • 1d ago
+👁️ 32K • 👍 1K • 💬 88 • ⏱️ 17:32 • 1d ago
+
+---
+
+**[Insane new AI scam 😭](https://www.youtube.com/watch?v=0qfoF1QHdpY)**
+
+📺 John Casterline
+
+👁️ 1.5M • 👍 116K • 💬 973 • ⏱️ 0:35 • 15h ago
 
 ---
 
@@ -366,17 +354,27 @@ Krystal and Saagar discuss markets tanking over AI fears. Sign up for a PREMIUM 
 
 📺 Breaking Points
 
-👁️ 291K • 👍 8K • 💬 2K • ⏱️ 12:54 • 1d ago
+👁️ 294K • 👍 8K • 💬 2K • ⏱️ 12:54 • 1d ago
 
 ---
 
-**[Class 10 - Complete AI &amp; IT One Shot 🔥 | CBSE Board Exam 2026 | Prateik Sharma Sir](https://www.youtube.com/watch?v=LFec_wmapkE)**
+**[Hegseth demands full military access to Anthropic&#39;s AI model by end of week](https://www.youtube.com/watch?v=gE1BxJbDv-k)**
 
-Notification On Karlo... Milte Hai 1 Baje! Class 10 - Complete AI & IT One Shot | CBSE Board Exam 2026 | Prateik Sharma Sir ...
+Defense Secretary Pete Hegseth told Anthropic CEO Dario Amodei he had until the end of this week to give the military a signed ...
 
-📺 Physics Wallah Foundation
+📺 CBS News
 
-👁️ 391K • 👍 46K • 21h ago
+👁️ 109K • 👍 1K • 💬 635 • ⏱️ 3:33 • 1d ago
+
+---
+
+**[cute little baby funny dance🤣🤩#funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​](https://www.youtube.com/watch?v=-weM95J34Yk)**
+
+cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​
+
+📺 Sleep Time Tales
+
+👁️ 7K • ⏱️ 0:10 • 2h ago
 
 ---
 
@@ -392,7 +390,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 158,273 • ❤️ 485 • 1d ago
+⬇️ 158,273 • ❤️ 504 • 1d ago
 
 ---
 
@@ -404,7 +402,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 601,563 • ❤️ 1,078 • 2d ago
+⬇️ 601,563 • ❤️ 1,083 • 3d ago
 
 ---
 
@@ -416,7 +414,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 41,061 • ❤️ 333 • 1d ago
+⬇️ 41,061 • ❤️ 340 • 1d ago
 
 ---
 
@@ -428,7 +426,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 10,951 • ❤️ 294 • 1d ago
+⬇️ 10,951 • ❤️ 300 • 1d ago
 
 ---
 
@@ -440,19 +438,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 182,893 • ❤️ 1,565 • 12d ago
-
----
-
-**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
-
-*Nanbeige LLM Lab*
-
-Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It's particularly noted for its native support of deep-search tasks and sustained problem-solving with extensive tool invocations.
-
-`text-generation` `3.9B`
-
-⬇️ 255,172 • ❤️ 803 • 7h ago
+⬇️ 182,893 • ❤️ 1,567 • 13d ago
 
 ---
 
@@ -464,7 +450,19 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 179,363 • ❤️ 213 • 1d ago
+⬇️ 179,363 • ❤️ 224 • 1d ago
+
+---
+
+**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
+
+*Nanbeige LLM Lab*
+
+Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It's particularly noted for its native support of deep-search tasks and sustained problem-solving with extensive tool invocations.
+
+`text-generation` `3.9B`
+
+⬇️ 255,172 • ❤️ 805 • 8h ago
 
 ---
 
@@ -488,7 +486,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation`
 
-⬇️ 271,710 • ❤️ 948 • 10d ago
+⬇️ 271,710 • ❤️ 952 • 10d ago
 
 ---
 
@@ -500,7 +498,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,081 • ❤️ 187 • 1d ago
+⬇️ 1,081 • ❤️ 188 • 2d ago
 
 ---
 
@@ -562,7 +560,7 @@ A preference-aligned routing framework using a compact 1.5B model effectively ma
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 14 • 💬 1 • ⭐ 9,763 • 28mo ago
+▲ 14 • 💬 1 • ⭐ 9,803 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -576,7 +574,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 PersonaLive is a diffusion-based portrait animation framework that improves real-time performance through hybrid implicit signals, appearance distillation, and autoregressive streaming generation.
 
-▲ 37 • 💬 3 • ⭐ 2,252 • 2mo ago
+▲ 37 • 💬 3 • ⭐ 2,278 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -622,16 +620,15 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 ---
 
-**[MinerU2.5: A Decoupled Vision-Language Model for Efficient
-  High-Resolution Document Parsing](https://huggingface.co/papers/2509.22186)**
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
-*Junbo Niu, Zheng Liu, Zhuangcheng Gu et al. (61 authors)*
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
-MinerU2.5, a 1.2B-parameter document parsing vision-language model, achieves state-of-the-art recognition accuracy with computational efficiency through a coarse-to-fine parsing strategy.
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 146 • 💬 2 • ⭐ 55,029 • 5mo ago
+▲ 43 • 💬 2 • ⭐ 48,106 • 10mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2509.22186) • [💻 code](https://github.com/opendatalab/MinerU) • [🔗 project](https://opendatalab.github.io/MinerU/)
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
 ---
 
@@ -645,7 +642,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 19.6k • 🔱 2.4k • 1h ago
+⭐ 19.7k • 🔱 2.4k • 3m ago
 
 ---
 
@@ -653,7 +650,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 7.5k • 🔱 586 • 15d ago
+⭐ 7.6k • 🔱 588 • 15d ago
 
 ---
 
@@ -663,7 +660,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.6k • 🔱 682 • 7h ago
+⭐ 5.6k • 🔱 683 • 8h ago
 
 ---
 
@@ -673,7 +670,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.1k • 🔱 223 • 23h ago
+⭐ 4.1k • 🔱 226 • 1d ago
 
 ---
 
@@ -683,7 +680,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.6k • 🔱 355 • 7h ago
+⭐ 3.6k • 🔱 356 • 8h ago
 
 ---
 
@@ -693,7 +690,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.4k • 🔱 443 • 8h ago
+⭐ 3.4k • 🔱 444 • 9h ago
 
 ---
 
@@ -703,7 +700,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.0k • 🔱 355 • 3h ago
+⭐ 3.0k • 🔱 358 • 4h ago
 
 ---
 
@@ -713,7 +710,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 196 • 6h ago
+⭐ 2.9k • 🔱 197 • 1h ago
 
 ---
 
@@ -723,7 +720,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 286 • 2h ago
+⭐ 2.7k • 🔱 287 • 52m ago
 
 ---
 
@@ -733,7 +730,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 513 • 23h ago
+⭐ 2.6k • 🔱 514 • 1d ago
 
 ---
 
