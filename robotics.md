@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T09:42:41.456960+00:00'
+updated: '2026-02-27T10:39:26.315250+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 09:42 UTC  
+**Last Updated:** February 27, 2026 at 10:39 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-19h ago
+20h ago
 
 ---
 
@@ -44,7 +44,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-22h ago
+23h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-19h ago
+20h ago
 
 ---
 
@@ -60,7 +60,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Hello, I'm looking for a vendor selling a reliable battle tested mobile base platform Should expose access to power rails, control over power output Autonomous docking and reliable charging a plus, decent battery life Something differential drive or skid, holonomic preferred Looking for a hardware vendor, not looking for service business model US preferred Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hello, I'm looking for a vendor selling a reliable battle tested mobile base pla
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 20h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 21h ago
 
 ---
 
@@ -76,13 +76,13 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-23h ago
+1d ago
 
 ---
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -90,13 +90,13 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-22h ago
+23h ago
 
 ---
 
 **[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -148,13 +148,13 @@ The Conversation • 2d ago
 
 Unitree's G1 and H2 robots performed kung fu on CMG's 2026 Spring Festival Gala, alongside students from Tagou Martial Arts School.
 
-bgr.com • 19h ago
+bgr.com • 20h ago
 
 ---
 
 **[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-Bloomberg • 6h ago
+Bloomberg • 7h ago
 
 ---
 
@@ -162,7 +162,7 @@ Bloomberg • 6h ago
 
 Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
 
-Fortune • 20h ago
+Fortune • 21h ago
 
 ---
 
@@ -178,7 +178,7 @@ Carnegie Mellon University | CMU • 1d ago
 
 German Chancellor Friedrich Merz led a delegation visit to Unitree Robotics in Hangzhou, east China's Zhejiang Province on Thursday. Unitree's founder and CEO Wang Xingxing said the visit highlights the global focus on China's robotics industry, and
 
-news.cgtn.com • 18h ago
+news.cgtn.com • 19h ago
 
 ---
 
@@ -200,7 +200,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 11K • 👍 219 • 💬 78 • ⏱️ 12:16 • 8h ago
+👁️ 11K • 👍 219 • 💬 78 • ⏱️ 12:16 • 9h ago
 
 ---
 
@@ -220,7 +220,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 16K • 👍 146 • 💬 48 • ⏱️ 2:18 • 18h ago
+👁️ 16K • 👍 146 • 💬 48 • ⏱️ 2:18 • 19h ago
 
 ---
 
@@ -240,7 +240,7 @@ It looks like a stunt. But every punch is training. Meet the humanoid robots lea
 
 📺 CGTN Europe
 
-👁️ 4K • 👍 177 • 💬 9 • ⏱️ 1:27 • 18h ago
+👁️ 4K • 👍 177 • 💬 9 • ⏱️ 1:27 • 19h ago
 
 ---
 
@@ -250,7 +250,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 19K • 👍 373 • 💬 213 • ⏱️ 1:27 • 7h ago
+👁️ 19K • 👍 373 • 💬 213 • ⏱️ 1:27 • 8h ago
 
 ---
 
@@ -290,7 +290,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 67K • 👍 994 • 💬 329 • ⏱️ 0:55 • 21h ago
+👁️ 67K • 👍 994 • 💬 329 • ⏱️ 0:55 • 22h ago
 
 ---
 

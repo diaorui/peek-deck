@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T09:42:41.446758+00:00'
+updated: '2026-02-27T10:39:26.306098+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 09:42 UTC  
+**Last Updated:** February 27, 2026 at 10:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 See you in 10 years.
 
-11h ago
+12h ago
 
 ---
 
@@ -89,7 +89,7 @@ See you in 10 years.
 
 No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 **[Justin Sun at LONGITUDE HK recalls buying $BTC at $0.20 when no one took it seriously. Now he says crypto is being built as payment rails for AGI. "Even the Terminator would need blockchain to transact."](https://www.reddit.com/r/Bitcoin/comments/1rfyktf/justin_sun_at_longitude_hk_recalls_buying_btc_at/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -109,7 +109,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 https://preview.redd.it/dj4slsvwfwlg1.png?width=1234&format=png&auto=webp&s=9f76d69777638172571d4bf6ebe8642dbbad919c TLDR: Even at 15% APR with 30% down, buying Bitcoin upfront on a loan beats DCA 67-89% of the time depending on the term length. But only if you don't get liquidated. I posted a similar idea on this sub a few months ago and got roasted. I got humbled and looked at the data. For every month from Jan 2016 to Feb 2026, I compared two strategies using the same total dollar outlay. Strategy A: put 30% down, borrow the rest at 15% APR, buy all BTC upfront, repay monthly. Strategy B: take that same total cash and DCA it over the same period. DCA actually gets more dollars to deploy because it includes interest payments. The loan still wins the majority of the time. The longer the term, the wider the gap. At 1 year the loan wins 67% of the time. At 5 years, 89%. Now the part that matters. I also simulated what happens with traditional crypto lenders. If BTC drops 50%+ from your entry price, they force-sell your Bitcoin to cover the loan. Everyone in my last post was right to bring up this crash risk. The periods where liquidation gets triggered are almost always ones where you bought near a top and DCA would have been the better play anyway. You already timed it badly. Liquidation just makes it permanent by selling your BTC at the worst possible moment instead of letting you hold through the recovery. A mate of mine went through exactly this in 2022 with a B2X on Ledn. BTC dropped, hit the liquidation threshold, Bitcoin gone. Your typical mortgage lender in tradfi doesn't repossess your house because prices dipped. But that's exactly how crypto lending works today. Liquidation makes bad timing permanent. And I think that's a design problem. I built a backtesting tool so you can test this with whatever assumptions you want. Code is open source. What if there was a loan product that worked like a mortgage? The data makes me think there's something here but the last post made it seem like nobody wants this. Genuinely curious what the sub thinks.
 
-13h ago
+14h ago
 
 ---
 
@@ -117,7 +117,7 @@ https://preview.redd.it/dj4slsvwfwlg1.png?width=1234&format=png&auto=webp&s=9f76
 
 Be careful plebs, they want your bitcoin!
 
-14h ago
+15h ago
 
 ---
 
@@ -125,7 +125,7 @@ Be careful plebs, they want your bitcoin!
 
 Hey r/bitcoin. I've been lurking here for a while and noticed there are a lot of posts from people asking if it's too late to start, or if small amounts are even worth it. Figured I'd try to build something that helps answer that. It's a pretty straightforward DCA calculator that uses real historical BTC prices. You plug in an amount, a start date, and it shows what you'd have today. It also compares against the S&P 500 and a high-yield savings account which I thought was a nice touch. For example $200/month since January 2021 would be about $20.2K today from $12,400 invested. Through the crash to $16K, FTX, all of it. Still up 62.8%. I know the veterans here don't need a calculator to know DCA works, but maybe it's handy to share with someone who's still on the fence. 21vox.com/dca-calculator It's free, no signups or anything. Still a work in progress honestly so if anything looks off or you have ideas for features, I'm all ears.
 
-8h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Hey r/bitcoin. I've been lurking here for a while and noticed there are a lot of
 
 2011: -93% 2015: -86% 2018: -84% 2022: -77% Every cycle, the drawdown gets smaller as the market matures. If BTC follows this trend, the 2026 bottom should be around -70% from the $126K ATH. That puts us at $38K. At the moment It costs $87,000 to produce one Bitcoin and the current price is $65,000. So, miners are losing money on every single coin they mine. This only happens during bear markets. In 2022, Bitcoin dropped below its production cost in June. People called the bottom but the actual bottom was 5 months later in November at $15,800 after miners were forced to sell everything they had just to keep the lights on. The pattern has always been the same. Price drops below production cost. Miners start selling reserves to survive. Selling pressure pushes price lower. Weaker miners go bankrupt. Their creditors liquidate the remaining Bitcoin. More selling. More pain. Then the bottom. We are in the selling reserves phase. The bankruptcy phase has not even started. Of course, things could be different this time. In my opinion BTC is going LOWER Ill be DCAing sub 50k
 
-23h ago
+1d ago
 
 ---
 
@@ -141,7 +141,7 @@ Hey r/bitcoin. I've been lurking here for a while and noticed there are a lot of
 
 https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-fortune/ This man invested money in 2009 and returned later to see it worth almost 900k. The possibilities are endless. It makes me wonder how many other millionaires are out there that don't even know. Have you invested money into a wallet that you forgot about / have any of your friends? With Bitcoin increasing over the decades the way it has, I wonder how many more of these 'uncovered a boatload of free & unlimited cash' stories we'll find?
 
-7h ago
+8h ago
 
 ---
 
@@ -149,7 +149,7 @@ https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-for
 
 There's still a lot of people in here waiting on the 1099-DA that haven't arrived yet so figured I'd put together some options for how to think about this. Quick context on why some forms are late: The IRS gave exchanges a transitional relief period for the first year of 1099-DA reporting, which basically means no penalties for delays. Most Coinbase forms have already been sent out but some users may not receive theirs until mid-March. Kraken has a similar timeline. Some smaller exchanges haven't given any date at all and a few may not issue until late 2026 or even early 2027. So what are some options in the meantime. → If your exchange has communicated a timeline, it's probably worth waiting for the form before filing. You'll want your proceeds to match what they report to the IRS and having the actual form makes that easier to verify. But that doesn't mean you need to sit around doing nothing. You can start gathering the rest of your data now. Wallet history, DeFi activity, cost basis for anything you moved between platforms. That's the time-consuming part and none of it depends on the 1099-DA arriving. → If it's a smaller exchange with no timeline, you'll want to consider how to handle that activity on your return. You still have access to your transaction history on the platform. However, you'll also need to decide which 8949 checkbox to report those transactions under, and that part can get tricky. It may be worth speaking with a tax advisor if you aren't sure of the impact. → Filing an extension is genuinely worth considering this year. It pushes your filing deadline to October 15. You'd still need to pay any estimated tax owed by April 15, but the actual return and all the detail work gets significantly more breathing room. There's a practical benefit here too. If you file before the extension deadline and a late 1099-DA shows up that changes your numbers, your updated filing counts as a superseding return instead of an amended one. → Extensions aren't a red flag by the way. Millions of people file them every year. Given how much is delayed and how new everything is this season, it might be a reasonable path for a lot of people. Main things to be cautious about right now → Rushing to file with incomplete or inaccurate data just to hit April 15 → Not filing or making any estimated payment because the form hasn't arrived → Assuming a late form means you don't need to worry about it The exchange will eventually send their copy to the IRS and when they do, the IRS will compare it to whatever you filed. You'll want the proceeds to line up. tl;dr - if your exchange has given a timeline, consider waiting but start prepping everything else now. if you're dealing with a smaller exchange and no timeline, think about filing an extension to give yourself room. either way, an extension is probably worth considering this year, it's a standard process and it gives you space to get this right rather than rushing.
 
-11h ago
+12h ago
 
 ---
 
@@ -161,19 +161,19 @@ There's still a lot of people in here waiting on the 1099-DA that haven't arrive
 
 American Bitcoin doubled down on a pure mining-and-hoarding strategy just as virtually every major rival fled to artificial intelligence, a bet championed by co-founder Eric Trump that looked prescient when Bitcoin was surging past $126,000 and increasingly precarious with the token trading around $70,000.  “With Bitcoin steeply drawn down from the highs, the retention strategy can amplify losses,” said Matthew Kimmell, a digital asset analyst at CoinShares.  The downturn puts American Bitcoin at the sharp end of a broader pullback across the Trump family’s crypto interests.
 
-Yahoo Finance • 16h ago
+Yahoo Finance • 17h ago
 
 ---
 
 **[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
 
-Reuters • 21h ago
+Reuters • 22h ago
 
 ---
 
 **[Opinion | Donald Trump Is the Crypto President. Why Is It Struggling? - The New York Times](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)**
 
-The New York Times • 23h ago
+The New York Times • 1d ago
 
 ---
 
@@ -181,13 +181,13 @@ The New York Times • 23h ago
 
 Every slump needs a scapegoat.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeks-ARn3Ul1PkVbdqh6kHwuq2nm5995XKUQ0lWT6LQaBgIZU2bXCuZ&gaa_ts=69a16a7d&gaa_sig=DBVk-ERnX43Z8iys53XDzRspquGLwuQrpL-b7IuoFRPwv1_NntgX9pf7bloSnHpTDnt64q9htCxE2AYdXrGXfg%3D%3D)**
 
-Barron's • 48m ago
+Barron's • 1h ago
 
 ---
 
@@ -203,13 +203,13 @@ Yahoo Finance • 1d ago
 
 Market participants with long-term vision are buying downside protection.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Trump-Linked Miner Reports Results, MARA Surges On AI Partnership](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
 
-Investor's Business Daily • 11h ago
+Investor's Business Daily • 12h ago
 
 ---
 
@@ -217,7 +217,7 @@ Investor's Business Daily • 11h ago
 
 Bitcoin price faces resistance as old supply grows by $12 billion and whale wallets increase, while short positions cap breakout momentum.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ Yahoo Finance • 1h ago
 
 The private investment firms of Leon Cooperman and the Walton family disclosed bold stock buys last quarter.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -285,7 +285,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
 
-⬆️ 1 • 💬 0 • 15h ago • [GitHub](https://github.com/pyoneerC/deadhand)
+⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/pyoneerC/deadhand)
 
 ---
 
@@ -315,7 +315,7 @@ Is Jane Street the reason Bitcoin is not sitting at 150K right now? Massive clai
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 115 • ⏱️ 24:42 • 10h ago
+👁️ 18K • 👍 2K • 💬 115 • ⏱️ 24:42 • 11h ago
 
 ---
 
@@ -325,7 +325,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 10K • 👍 1K • 💬 105 • ⏱️ 8:44 • 13h ago
+👁️ 10K • 👍 1K • 💬 105 • ⏱️ 8:44 • 14h ago
 
 ---
 
@@ -335,7 +335,7 @@ Yesterday the Office of the Comptroller of the Currency (OCC) published a 376 pa
 
 📺 Paul Barron Network
 
-👁️ 103K • 👍 5K • 💬 1K • ⏱️ 15:37 • 13h ago
+👁️ 103K • 👍 5K • 💬 1K • ⏱️ 15:37 • 14h ago
 
 ---
 
@@ -345,7 +345,7 @@ Nick Valdez looks at an insanely accurate Bitcoin signal that says “THE BOTTOM
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 347 • 💬 68 • ⏱️ 7:23 • 9h ago
+👁️ 6K • 👍 347 • 💬 68 • ⏱️ 7:23 • 10h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin, Jane Street allegations, MSTR, NVIDIA, SOL, and more! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 20K • 👍 950 • 💬 111 • ⏱️ 15:02 • 21h ago
+👁️ 20K • 👍 950 • 💬 111 • ⏱️ 15:02 • 22h ago
 
 ---
 
@@ -363,7 +363,7 @@ Bitcoin, Jane Street allegations, MSTR, NVIDIA, SOL, and more! BITUNIX TRADE THE
 
 📺 Andrei Jikh
 
-👁️ 45K • 👍 1K • 💬 95 • ⏱️ 1:18 • 16h ago
+👁️ 45K • 👍 1K • 💬 95 • ⏱️ 1:18 • 17h ago
 
 ---
 
@@ -393,7 +393,7 @@ Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 3K • 💬 150 • ⏱️ 12:57 • 19h ago
+👁️ 49K • 👍 3K • 💬 150 • ⏱️ 12:57 • 20h ago
 
 ---
 
@@ -403,7 +403,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 269 • 💬 13 • ⏱️ 1:07 • 14h ago
+👁️ 7K • 👍 269 • 💬 13 • ⏱️ 1:07 • 15h ago
 
 ---
 
