@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T11:33:34.539001+00:00'
+updated: '2026-02-27T13:01:59.237356+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- cryptocurrency
+- news
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 11:33 UTC  
+**Last Updated:** February 27, 2026 at 13:01 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.8%  
-**7d:** -0.1%  
-**30d:** -30.2%  
-**90d:** -34.1%  
-**1y:** -11.9%  
+**24h:** -4.3%  
+**7d:** -0.5%  
+**30d:** -30.5%  
+**90d:** -34.4%  
+**1y:** -12.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.93B
+**Market Cap:** $236.17B
 Rank #2
 
 **Circulating Supply:** 120,692,268 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.0%
+-60.4%
 
 **All-Time Low:** $0.43
-+468597.1%
++452309.9%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-5h ago
+7h ago
+
+---
+
+**[8 years of Ethereum payments & where it is spent](https://www.reddit.com/r/ethereum/comments/1rg5y1b/8_years_of_ethereum_payments_where_it_is_spent/)**
+
+We added Ethereum as a payment option back in 2018, and since then, around 643,000 payments have been made with ETH through our gateway. Most spending happens on hosting, VPN services, and gaming. The average order value is around $159, with most payments ranging from $54 to $607. If you are looking for places that accept Ethereum, we have a merchant directory. Are you spending ETH anywhere these days?
+
+4m ago
 
 ---
 
@@ -80,13 +88,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 7h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 9h ago
 
 ---
 
 **[Deterministic Deployments, Part 3: Other Approaches](https://www.reddit.com/r/ethereum/comments/1rg1rhe/deterministic_deployments_part_3_other_approaches/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -94,7 +102,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about courage, community, and calling Ethereum the 8th wonder - not a monument, but a mission.
 
-🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 2h ago
+🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 3h ago
 
 ---
 
@@ -110,7 +118,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
 
-14h ago
+15h ago
 
 ---
 
@@ -138,14 +146,6 @@ The Ethereum Foundation has published a draft long-term roadmap called “Strawm
 
 ---
 
-**[Daily General Discussion February 25, 2026](https://www.reddit.com/r/ethereum/comments/1re561b/daily_general_discussion_february_25_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-CoinDesk • 14h ago
+CoinDesk • 16h ago
 
 ---
 
@@ -166,41 +166,41 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum 2029 Roadmap: ETH to Become the High-Speed Internet of Value](https://finance.yahoo.com/news/ethereum-2029-roadmap-eth-become-093634501.html)**
-
-Ethereum just put a timestamp on its ambition, and the new roadmap could shape its price valuation. The Foundation’s new “Strawmap” (roadmap) targets a high-throughput settlement layer by 2029, cutting finality from around 16 minutes to seconds and aiming for 1 gigagas per second directly on Layer 1.Instead of leaning ...
-
-Yahoo Finance • 1h ago
-
----
-
 **[Ethereum ‘backbone’ of stablecoins despite price, MrBeast CEO says amid new crypto venture](https://www.dlnews.com/articles/markets/ethereum-backbone-of-stablecoins-despite-price-mrbeast-says/)**
 
 Beast Industries plans to launch fintech products. More than half of all stablecoins exist on the Ethereum network. In January, Bitmine invested $200 million into Beast Industries.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdPDvOBj_trYreFMRkuG3S5NWFkQ90tJt4S6Nb3o3PGm6FppUSxfcl9&gaa_ts=69a177c5&gaa_sig=ccf8w9zfhZ78WL9kqf6-6GDFYj27n9NWr3CfwG4eymlv0zUOr3UsomhQtiYFikn65ARrLnElpfuO76fLV_mhHw%3D%3D)**
+**[Ethereum Strawmap: Can ETH Become the ‘High-Speed Internet of Value’?](https://finance.yahoo.com/news/ethereum-strawmap-eth-become-high-094211526.html)**
 
-Barron's • 2h ago
+Ethereum (ETH) developers have just released a glimpse of their 2029 vision, and if they pull this off, the network you use today will look unrecognizable by the end of the decade. The Ethereum Foundation has recently unveiled a draft roadmap titled ‘Strawmap’. This outlines the plan for upgrading the ...
 
----
-
-**[XRP vs. Ethereum: Which Cryptocurrency Has More Upside in 2026?](https://www.fool.com/investing/2026/02/27/xrp-vs-ethereum-which-cryptocurrency-has-more-ups/)**
-
-Both chains are getting upgrades, and both are positioned for the future.
-
-The Motley Fool • 6h ago
+Yahoo Finance • 3h ago
 
 ---
 
-**[Saylor Leaves XRP Out, Backs Solana and Ethereum for Digital Credit Future](https://www.tradingview.com/news/coinpedia:bf994c30b094b:0-saylor-leaves-xrp-out-backs-solana-and-ethereum-for-digital-credit-future/)**
+**[Ethereum 2029 Roadmap: ETH to Become the High-Speed Internet of Value](https://finance.yahoo.com/news/ethereum-2029-roadmap-eth-become-093634501.html)**
 
-Michael Saylor has built his reputation as one of Bitcoin’s most vocal supporters. For years, his message was simple: Bitcoin is digital property, and companies should hold it.But at the recent Strategy World 2026 conference, Saylor shifted the conversation.This time, he wasn’t just talking about B…
+Ethereum just put a timestamp on its ambition, and the new roadmap could shape its price valuation. The Foundation’s new “Strawmap” (roadmap) targets a high-throughput settlement layer by 2029, cutting finality from around 16 minutes to seconds and aiming for 1 gigagas per second directly on Layer 1.Instead of leaning ...
 
-TradingView • 22h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqePqzOlN-onXNi_V8YwzkaTSkebZQyAs1KooKmZoB1vEut0GoKmDxPb&gaa_ts=69a19933&gaa_sig=BEND4S8hM_GcrJ-xqZWTwdkg-9AYgFJj6o_kyhSOAAxdXdEgUoLRdPjfB4pyjVPjusHQRrNTFaSIWHQ736tJqQ%3D%3D)**
+
+Barron's • 4h ago
+
+---
+
+**[Ethereum Flashes Early Reversal Signal As Taker Ratio Turns](https://www.tradingview.com/news/newsbtc:3ef4aa9ac094b:0-ethereum-flashes-early-reversal-signal-as-taker-ratio-turns/)**
+
+A shift in Ethereum’s derivatives flow on Binance is starting to hint at a possible change in market structure, even as ETH itself remains in a corrective phase. According to CryptoQuant contributor Darkfost, the Taker Buy Sell Ratio is no longer flashing the same persistent sell-side aggression th…
+
+TradingView • 2h ago
 
 ---
 
@@ -212,17 +212,19 @@ Decrypt • 1d ago
 
 ---
 
+**[XRP vs. Ethereum: Which Cryptocurrency Has More Upside in 2026?](https://www.fool.com/investing/2026/02/27/xrp-vs-ethereum-which-cryptocurrency-has-more-ups/)**
+
+Both chains are getting upgrades, and both are positioned for the future.
+
+The Motley Fool • 7h ago
+
+---
+
 **[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772175000)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
-
----
-
-**[Ethereum Is Growing. So Why Is The ETH Price Collapsing?](https://www.forbes.com/sites/greatspeculations/2026/02/24/ethereum-is-growing-so-why-is-the-eth-price-collapsing/)**
-
-Forbes • 3d ago
 
 ---
 
@@ -236,7 +238,7 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 3K • 💬 51 • ⏱️ 5:59 • 1d ago
+👁️ 28K • 👍 3K • 💬 51 • ⏱️ 5:59 • 1d ago
 
 ---
 
@@ -246,17 +248,27 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 766 • 👍 31 • 💬 2 • ⏱️ 14:30 • 17h ago
+👁️ 902 • 👍 32 • 💬 2 • ⏱️ 14:30 • 18h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=tui97rPvzmg)**
+**[The Biggest Crypto Trap I&#39;ve Ever Seen](https://www.youtube.com/watch?v=93kAh88MZKc)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
 
-📺 More Crypto Online
+📺 Altcoin Daily
 
-👁️ 2K • 👍 150 • 💬 8 • ⏱️ 4:58 • 18h ago
+👁️ 34K • 👍 2K • 💬 104 • ⏱️ 13:24 • 12h ago
+
+---
+
+**[HUGE Bitcoin Warning For The Market Ethereum Layer 2 CLASH Major Cardano Binance Coin Shakeup](https://www.youtube.com/watch?v=UMpYTHQS2U0)**
+
+We've got some major shake ups happening in the crypto market right now. it seems 2026 isnt too different from 2021 as we're ...
+
+📺 The Modern Investor
+
+👁️ 2K • 👍 364 • 💬 44 • ⏱️ 29:34 • 3h ago
 
 ---
 
@@ -266,7 +278,7 @@ BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 7K • 👍 294 • 💬 47 • ⏱️ 17:34 • 14h ago
+👁️ 7K • 👍 303 • 💬 50 • ⏱️ 17:34 • 15h ago
 
 ---
 
@@ -276,17 +288,7 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 36K • 👍 2K • 💬 257 • ⏱️ 13:38 • 1d ago
-
----
-
-**[Bitcoin &amp; Ethereum. Das muss heute brechen! Ich erwarte immernoch weitere Hochs!](https://www.youtube.com/watch?v=-lKEaFVPUZk)**
-
-Hier Handle ich Kryptowährungen!! MEXC (Bis zu 8800$ Bonus und jeden Woche Challenges mit bis zu 300.000$ Preispool ...
-
-📺 Krypto Trading & Investing
-
-👁️ 3K • 👍 619 • 💬 46 • ⏱️ 10:25 • 6h ago
+👁️ 37K • 👍 2K • 💬 265 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -296,37 +298,37 @@ Ethereum has long been compared to Bitcoin — but according to Sharplink CEO an
 
 📺 Coinage
 
-👁️ 9K • 👍 216 • 💬 58 • ⏱️ 21:21 • 1d ago
+👁️ 9K • 👍 220 • 💬 58 • ⏱️ 21:21 • 2d ago
 
 ---
 
-**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=UL3x5TsdxhA)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=tui97rPvzmg)**
 
-Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #crypto #altcoins ▶️ Watch the full episode: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 More Crypto Online
 
-👁️ 564 • 👍 9 • ⏱️ 0:54 • 14h ago
-
----
-
-**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=QgZm1ah7cuo)**
-
-Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
-
-📺 Profit First
-
-👁️ 1K • 👍 105 • ⏱️ 5:46 • 8h ago
+👁️ 2K • 👍 156 • 💬 8 • ⏱️ 4:58 • 19h ago
 
 ---
 
-**[EXPLOSIVE Ethereum News We Might Have The Craziest Altcoin Season The Crypto Space Has Ever Seen](https://www.youtube.com/watch?v=9JyyG4lipGU)**
+**[Bitcoin &amp; Ethereum. Das muss heute brechen! Ich erwarte immernoch weitere Hochs!](https://www.youtube.com/watch?v=-lKEaFVPUZk)**
 
-I mean... they told us this would happen, so theres no use for any of us being surprised when it actually takes place.
+Hier Handle ich Kryptowährungen!! MEXC (Bis zu 8800$ Bonus und jeden Woche Challenges mit bis zu 300.000$ Preispool ...
 
-📺 Money Rules - Investing Tips 
+📺 Krypto Trading & Investing
 
-👁️ 12K • 👍 1K • 💬 198 • ⏱️ 28:35 • 2d ago
+👁️ 4K • 👍 695 • 💬 49 • ⏱️ 10:25 • 8h ago
+
+---
+
+**[CRYPTO LIVE TRADING || 27 Feb  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=s-OYLeCPa0Y)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 5K • 👍 2K • 1h ago
 
 ---
 
