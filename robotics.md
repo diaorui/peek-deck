@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T13:01:59.240548+00:00'
+updated: '2026-02-27T14:09:05.241300+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 13:01 UTC  
+**Last Updated:** February 27, 2026 at 14:09 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Robotic Pallet loader and mover](https://www.reddit.com/r/robotics/comments/1rfaro4/robotic_pallet_loader_and_mover/)**
-
-Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
-
-23h ago
-
----
-
 **[Concept of a combat robot dog](https://www.reddit.com/r/robotics/comments/1rg4qby/concept_of_a_combat_robot_dog/)**
 
 Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
-1h ago
+2h ago
+
+---
+
+**[Robotic Pallet loader and mover](https://www.reddit.com/r/robotics/comments/1rfaro4/robotic_pallet_loader_and_mover/)**
+
+Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
+
+1d ago
 
 ---
 
@@ -60,7 +60,23 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Hello, I'm looking for a vendor selling a reliable battle tested mobile base platform Should expose access to power rails, control over power output Autonomous docking and reliable charging a plus, decent battery life Something differential drive or skid, holonomic preferred Looking for a hardware vendor, not looking for service business model US preferred Thanks!
 
-5h ago
+6h ago
+
+---
+
+**[Robotics Community Meetup – Pune | 28 Feb 2026](https://www.reddit.com/r/robotics/comments/1rg6vpb/robotics_community_meetup_pune_28_feb_2026/)**
+
+Hi everyone, We’re organizing a Robotics Community Meetup in Pune for people interested in robotics, automation, and manufacturing. What this meetup is about: Open discussions on careers, jobs, and internships in robotics and manufacturing Industry expectations, required skills, and project experience Networking with students, professionals, and robotics enthusiasts Live showcase of a robotic arm and a 3D printer, with practical discussion around automation and manufacturing use cases Details: Date: 28 February 2026 Time: 4:30 PM onwards Area: Near Baner Zudio, Pune (Exact location will be shared with confirmed participants) This is an informal, community-driven meetup, not a paid workshop or coaching session. If you’re interested, you can register here: https://forms.gle/ZCtw34ohS55yJozz6 Registrations will be closing soon due to limited capacity. Happy to answer any questions in the comments.
+
+32m ago
+
+---
+
+**[Closing robotics’ “100,000-year data gap”](https://www.reddit.com/r/robotics/comments/1rg63zg/closing_robotics_100000year_data_gap/)**
+
+Robotics faces a different scaling challenge than large language models. As Ken Goldberg has described it, there is a “100,000-year data gap” between the vast datasets used to train language systems and the limited embodied data available for robots. While simulation, synthetic data, and teleoperation all play a role, researchers such as Sergey Levine emphasize the importance of real-world deployment. The approach centers on putting robots into focused, useful roles where they can perform narrow tasks, collect experience, and incrementally improve. These early deployments are not intended to demonstrate broad generalization. They are structured to generate high-quality data while delivering practical value. Over time, repeated real-world interaction is expected to expand capability and refine performance.
+
+🔗 [Automate](https://www.automate.org/ai/industry-insights/on-the-job-learning-how-physical-intelligence-is-putting-robots-to-work) • 1h ago
 
 ---
 
@@ -68,7 +84,7 @@ Hello, I'm looking for a vendor selling a reliable battle tested mobile base pla
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-23h ago
+1d ago
 
 ---
 
@@ -76,7 +92,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 23h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 1d ago
 
 ---
 
@@ -90,21 +106,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-21h ago
-
----
-
-**[Made in France WALL-E animatronic (french news)](https://www.reddit.com/r/robotics/comments/1rf73c9/made_in_france_walle_animatronic_french_news/)**
-
-Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
-
-1d ago
-
----
-
-**[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
-
-23h ago
+22h ago
 
 ---
 
@@ -132,7 +134,7 @@ Los Angeles Times • 2d ago
 
 MobED, a mobile robot from Hyundai, is just one of the systems from leading Korean and global companies that will be at AW 2026.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -140,7 +142,7 @@ The Robot Report • 1h ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 12h ago
+Financial Times • 4h ago
 
 ---
 
@@ -156,7 +158,13 @@ The Conversation • 2d ago
 
 Unitree's G1 and H2 robots performed kung fu on CMG's 2026 Spring Festival Gala, alongside students from Tagou Martial Arts School.
 
-bgr.com • 22h ago
+bgr.com • 23h ago
+
+---
+
+**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+
+Bloomberg • 9h ago
 
 ---
 
@@ -164,7 +172,7 @@ bgr.com • 22h ago
 
 We explore how AI is moving from screens to machines that can see, learn and act across robotics, mobility and industry.
 
-Bank of America Institute • 22h ago
+Bank of America Institute • 23h ago
 
 ---
 
@@ -172,21 +180,15 @@ Bank of America Institute • 22h ago
 
 Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
+**[AMC Robotics Corporation Announces Strategic Collaboration with Sunward Logistics USA LLC for NovaArm™ Sorting Robot Deployment](https://finance.yahoo.com/news/amc-robotics-corporation-announces-strategic-133000543.html)**
 
-Bloomberg • 9h ago
+NEW YORK, Feb. 27, 2026 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven robotics solutions provider, today announced a strategic collaboration with Sunward Logistics USA LLC (“Sunward”) in connection with the deployment and field validation of its next-generation warehouse sorting robot, NovaArm™. Under the collaboration, Sunward will serve as AMC Robotics’ first commercial deployment customer and its first strategic customer for NovaAr
 
----
-
-**[How CMU Built a World-Leading Robotics Ecosystem](https://www.cmu.edu/news/stories/archives/2026/february/how-cmu-built-a-world-leading-robotics-ecosystem)**
-
-From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
-
-Carnegie Mellon University | CMU • 1d ago
+Yahoo Finance • 39m ago
 
 ---
 
@@ -200,7 +202,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 13K • 👍 296 • 💬 96 • ⏱️ 12:16 • 11h ago
+👁️ 13K • 👍 296 • 💬 96 • ⏱️ 12:16 • 12h ago
 
 ---
 
@@ -220,7 +222,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 20K • 👍 159 • 💬 61 • ⏱️ 2:18 • 22h ago
+👁️ 20K • 👍 159 • 💬 61 • ⏱️ 2:18 • 23h ago
 
 ---
 
@@ -240,7 +242,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 54K • 👍 612 • 💬 351 • ⏱️ 1:27 • 10h ago
+👁️ 54K • 👍 612 • 💬 351 • ⏱️ 1:27 • 11h ago
 
 ---
 
@@ -280,7 +282,7 @@ Unitree Robotics was one of the stops during German Chancellor Friedrich Merz's 
 
 📺 CGTN
 
-👁️ 1K • 👍 62 • 💬 1 • ⏱️ 1:47 • 1h ago
+👁️ 1K • 👍 62 • 💬 1 • ⏱️ 1:47 • 2h ago
 
 ---
 

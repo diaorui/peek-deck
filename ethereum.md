@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T13:01:59.237356+00:00'
+updated: '2026-02-27T14:09:05.237923+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 13:01 UTC  
+**Last Updated:** February 27, 2026 at 14:09 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -4.3%  
-**7d:** -0.5%  
-**30d:** -30.5%  
-**90d:** -34.4%  
-**1y:** -12.3%  
+**24h:** -3.6%  
+**7d:** -0.7%  
+**30d:** -30.6%  
+**90d:** -34.5%  
+**1y:** -12.4%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,23 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We added Ethereum as a payment option back in 2018, and since then, around 643,000 payments have been made with ETH through our gateway. Most spending happens on hosting, VPN services, and gaming. The average order value is around $159, with most payments ranging from $54 to $607. If you are looking for places that accept Ethereum, we have a merchant directory. Are you spending ETH anywhere these days?
 
-4m ago
+1h ago
+
+---
+
+**[Golem raised $8.6M in 29 minutes in 2016. SingularDTV raised $7.5M in 17 minutes the month before. These ICOs shaped everything that came after.](https://www.reddit.com/r/ethereum/comments/1rg7hv2/golem_raised_86m_in_29_minutes_in_2016/)**
+
+Most people remember the 2017 ICO boom, but the culture started forming in late 2016 with projects like Golem and SingularDTV. Golem (GNT) — November 11, 2016 Golem launched what was essentially an 820,000 ETH hard cap crowdsale. It filled in 29 minutes. $8.6 million for a decentralized computing network. The contract was deliberately simple by design. After the DAO hack a few months earlier, the team and their auditors at Zeppelin went out of their way to avoid complexity. No recursive calls, no token logic mixed with funding logic. Just "send ETH, receive tokens, done." They also built in a migration mechanism from day one (GNT to GLM), which they actually used four years later in 2020. That kind of foresight was rare. SingularDTV — September/October 2016 SingularDTV took a different approach with a tri-contract architecture: one for the crowdsale, one for the token, one for the treasury fund. Stefan George (who later cofounded Gnosis) was involved. They raised $7.5M in 17 minutes. The treasury contract had a 2-year workshop token lockup built in. The speed of these raises changed expectations for every project that followed. Before this, "fast fundraising" for crypto meant days or weeks. After Golem and SingularDTV, everyone expected minutes. Why this matters now These contracts are still on-chain. You can read them, verify the logic, trace every transaction. Unlike web2 startup history where products get shut down and documentation disappears, Ethereum's history is permanently readable. I've been documenting these early contracts at ethereumhistory.com — trying to build a proper archive before the people who remember this era move on. We've got about 40 contracts documented so far from 2015-2017. If you were around during this period or remember other significant early contracts, would love to hear about them.
+
+7m ago
+
+---
+
+**[MetaMask and Mastercard Launch Self‑Custody Crypto Card as MA Stock Rises](https://www.reddit.com/r/ethereum/comments/1rg6gx7/metamask_and_mastercard_launch_selfcustody_crypto/)**
+
+MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self-custody wallet control & stablecoin payments mainstream.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 48m ago
 
 ---
 
@@ -88,13 +104,19 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 9h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 10h ago
+
+---
+
+**[Please help this little Angel fight cancer!!](https://www.reddit.com/r/ethereum/comments/1rg67jz/please_help_this_little_angel_fight_cancer/)**
+
+1h ago
 
 ---
 
 **[Deterministic Deployments, Part 3: Other Approaches](https://www.reddit.com/r/ethereum/comments/1rg1rhe/deterministic_deployments_part_3_other_approaches/)**
 
-3h ago
+5h ago
 
 ---
 
@@ -102,7 +124,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about courage, community, and calling Ethereum the 8th wonder - not a monument, but a mission.
 
-🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 3h ago
+🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 5h ago
 
 ---
 
@@ -118,31 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
 
-15h ago
-
----
-
-**[Ethereum Introduces “Strawmap”: A Strawman Roadmap for Ethereum’s L1 Future](https://www.reddit.com/r/ethereum/comments/1rf1xqc/ethereum_introduces_strawmap_a_strawman_roadmap/)**
-
-EF Protocol publishes Strawmap, a technical strawman roadmap that visualizes Ethereum L1 upgrades through 2029, framing dependencies, headliners, & five long-term north stars.
-
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 1d ago
-
----
-
-**[My comments on Ethereum strawmap](https://www.reddit.com/r/ethereum/comments/1rera79/my_comments_on_ethereum_strawmap/)**
-
-https://strawmap.org/ A very important document. Let's walk through this one "goal" at a time. We'll start with fast slots and fast finality. I expect that we'll reduce slot time in an incremental fashion, eg. I like the "sqrt(2) at a time" formula (12 -> 8 -> 6 -> 4 -> 3 -> 2, though the last two steps are more speculative and depend on heavy research). It is possible to go faster or slower here; but the high level is that we'll view the slot time as a parameter that we adjust down when we're confident it's safe to, similar to the blob target. Fast slots are off in their own lane at the top of the roadmap, and do not really seem to connect to anything. This is because the rest of the roadmap is pretty independent of the slot time: we would need to do roughly the same things whether the slot time is 2 seconds or 32 seconds There are a few intersection areas though. One is p2p improvements. @raulvk has recently been working on an optimized p2p layer for Ethereum, which uses erasure coding to greatly improve on the bandwidth/latency tradeoff frontier. Roughly speaking: in today's design, each node receives a full block body from several peers, and is able to accept and rebroadcast it as soon as it receives the first one. If the "width" (number of peers sending you the block) is low, then one bad peer can greatly delay when you receive the block. If width is high, there is a lot of unneeded data overhead. With erasure coding, you can choose a k-of-n setup, eg: split each block into 8 pieces so that with any 4 of them you can reconstruct the full block. This gives you much of the redundancy benefits of high width, without the overhead. We have stats that show that this architecture can greatly reduce 95th percentile block propagation time, making shorter slots viable with no security tradeoffs (except increased protocol complexity, though here the performance-gain-to-lines-of-code ratio is quite favorable) Another intersection area is the more complex slot structure that comes with ePBS, FOCIL, and the fast confirmation rule. These have important benefits, but they decrease the safe latency maximum from slot/3 to slot/5. There's ongoing research to try to pipeline things better to minimize losses (also note: the slot time is lower-bounded not just by slot latency, but also by the fixed-cost part of ZK prover latency), but there are some tradeoffs here. One way we are exploring to compensate for this is to change to an architecture where only ~256-1024 randomly selected attesters sign on each slot. For a fork choice (non-finalizing) function, this is totally sufficient. The smaller number of signatures lets us remove the aggregation phase, shortening the slots. Fast finality is more complex (the ultimate protocol is IMO simpler than status quo Gasper, but the change path is complex). Today, finality takes 16 minutes (12s slots * 32 slot epochs * 2.5 epochs) on average. The goal is to decouple slots and finality, so allow us to reason about both separately, and we are aiming to use a one-round-finality BFT algorithm (a Minimmit variant) to finalize. So endgame finality time might be eg. 6-16 sec. Because this is a very invasive set of changes, the plan is to bundle the largest step in each change with a switch of the cryptography, notably to post-quantum hash-based signatures, and to a maximally STARK-friendly hash (there are three possible responses to the recent Poseidon2 attacks: (i) increase round count or introduce other countermeasures such as a Monolith layer, (ii) go back to Poseidon1, which is even more lindy than Poseidon2 and has not seen flaws, (iii) use BLAKE3 or other maximally-cheap "conventional" hash. All are being researched). Additionally, there is a plan to introduce many of these changes piece-by-piece, eg. "1-epoch finality" means we adjust the current consensus to change from FFG-style finalization to Minimmit-style finalization. One possible finality time trajectory is: 16 min (today) -> 10m40s (8s slots) -> 6m24s (one-epoch finality) -> 1m12s (8-slot epochs, 6s slots) -> 48s (4s slots) -> 16s (minimmit) -> 8s (minimmit with more aggressive parameters) One interesting consequence of the incremental approach is that there is a pathway to making the slots quantum-resistant much sooner than making the finality quantum-resistant, so we may well quite quickly get to a regime where, if quantum computers suddenly appear, we lose the finality guarantee, but the chain keeps chugging along. Summary: expect to see progressive decreases of both slot time and finality time, and expect to see these changes to be intertwined with a "ship of Theseus" style component-by-component replacement of Ethereum's slot structure and consensus with a cleaner, simpler, quantum-resistant, prover-friendly, end-to-end formally-verified alternative.
-
-1d ago
-
----
-
-**[Ethereum Foundation publishes “Strawmap” roadmap through 2029 (fast finality, zk L1, native privacy)](https://www.reddit.com/r/ethereum/comments/1req8s0/ethereum_foundation_publishes_strawmap_roadmap/)**
-
-The Ethereum Foundation has published a draft long-term roadmap called “Strawmap,” outlining how the protocol could evolve across multiple forks through the rest of the decade. It organizes Ethereum’s end-state around five core goals: fast L1 (seconds-level finality) gigagas L1 (~10k TPS via zk execution proofs) teragas L2 (massive rollup DA bandwidth) post-quantum L1 native privacy (shielded ETH transfers) Strawmap is described as a coordination tool rather than a fixed plan, mapping one possible path for Ethereum’s base layer architecture over time. Overall it reads like Ethereum’s intended equilibrium design: zk-verified execution + rollup scaling + fast finality + built-in privacy. Full breakdown: https://btcusa.com/ethereum-foundation-publishes-strawmap-roadmap-with-fast-finality-zkevm-scaling-and-native-privacy-goals/ Which part of Strawmap do you see as the biggest shift for Ethereum long-term — zk L1, native privacy, or fast finality?
-
-1d ago
+17h ago
 
 ---
 
@@ -154,7 +152,7 @@ The Ethereum Foundation has published a draft long-term roadmap called “Strawm
 
 Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -170,29 +168,15 @@ The Block • 1d ago
 
 Beast Industries plans to launch fintech products. More than half of all stablecoins exist on the Ethereum network. In January, Bitmine invested $200 million into Beast Industries.
 
-dlnews.com • 2h ago
+dlnews.com • 3h ago
 
 ---
 
-**[Ethereum Strawmap: Can ETH Become the ‘High-Speed Internet of Value’?](https://finance.yahoo.com/news/ethereum-strawmap-eth-become-high-094211526.html)**
+**[How to buy ethereum — and what to know before you do](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-ethereum--and-what-to-know-before-you-do-221336099.html)**
 
-Ethereum (ETH) developers have just released a glimpse of their 2029 vision, and if they pull this off, the network you use today will look unrecognizable by the end of the decade. The Ethereum Foundation has recently unveiled a draft roadmap titled ‘Strawmap’. This outlines the plan for upgrading the ...
+Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Ethereum 2029 Roadmap: ETH to Become the High-Speed Internet of Value](https://finance.yahoo.com/news/ethereum-2029-roadmap-eth-become-093634501.html)**
-
-Ethereum just put a timestamp on its ambition, and the new roadmap could shape its price valuation. The Foundation’s new “Strawmap” (roadmap) targets a high-throughput settlement layer by 2029, cutting finality from around 16 minutes to seconds and aiming for 1 gigagas per second directly on Layer 1.Instead of leaning ...
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqePqzOlN-onXNi_V8YwzkaTSkebZQyAs1KooKmZoB1vEut0GoKmDxPb&gaa_ts=69a19933&gaa_sig=BEND4S8hM_GcrJ-xqZWTwdkg-9AYgFJj6o_kyhSOAAxdXdEgUoLRdPjfB4pyjVPjusHQRrNTFaSIWHQ736tJqQ%3D%3D)**
-
-Barron's • 4h ago
+Yahoo Finance • 14h ago
 
 ---
 
@@ -200,7 +184,7 @@ Barron's • 4h ago
 
 A shift in Ethereum’s derivatives flow on Binance is starting to hint at a possible change in market structure, even as ETH itself remains in a corrective phase. According to CryptoQuant contributor Darkfost, the Taker Buy Sell Ratio is no longer flashing the same persistent sell-side aggression th…
 
-TradingView • 2h ago
+TradingView • 3h ago
 
 ---
 
@@ -212,11 +196,17 @@ Decrypt • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqeoTjCvkA2q6mghfYRXzDvB-DZl2d-aK6YHihY-jTfyptj6NhiOIvek&gaa_ts=69a1a8ed&gaa_sig=8e51_2eyOrhVVqQ8DEI39K8udDIsNallNkVvbVyMLRKzPxZqTYv0V1_0BP-KmdC5dIcvCE8681yt_RBADtjZBw%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
 **[XRP vs. Ethereum: Which Cryptocurrency Has More Upside in 2026?](https://www.fool.com/investing/2026/02/27/xrp-vs-ethereum-which-cryptocurrency-has-more-ups/)**
 
 Both chains are getting upgrades, and both are positioned for the future.
 
-The Motley Fool • 7h ago
+The Motley Fool • 8h ago
 
 ---
 
@@ -225,6 +215,14 @@ The Motley Fool • 7h ago
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
+
+---
+
+**[Here’s what fueled Ethereum’s latest price hike above $2000](https://ambcrypto.com/heres-what-fueled-ethereums-latest-price-hike-above-2000/)**
+
+As Friday's Options expiry looms, what might ETH's price do?
+
+AMBCrypto • 1d ago
 
 ---
 
@@ -248,7 +246,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 902 • 👍 32 • 💬 2 • ⏱️ 14:30 • 18h ago
+👁️ 902 • 👍 32 • 💬 2 • ⏱️ 14:30 • 19h ago
 
 ---
 
@@ -258,7 +256,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 34K • 👍 2K • 💬 104 • ⏱️ 13:24 • 12h ago
+👁️ 34K • 👍 2K • 💬 104 • ⏱️ 13:24 • 13h ago
 
 ---
 
@@ -268,7 +266,7 @@ We've got some major shake ups happening in the crypto market right now. it seem
 
 📺 The Modern Investor
 
-👁️ 2K • 👍 364 • 💬 44 • ⏱️ 29:34 • 3h ago
+👁️ 2K • 👍 364 • 💬 44 • ⏱️ 29:34 • 4h ago
 
 ---
 
@@ -278,7 +276,7 @@ BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 7K • 👍 303 • 💬 50 • ⏱️ 17:34 • 15h ago
+👁️ 7K • 👍 303 • 💬 50 • ⏱️ 17:34 • 16h ago
 
 ---
 
@@ -308,7 +306,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 8 • ⏱️ 4:58 • 19h ago
+👁️ 2K • 👍 156 • 💬 8 • ⏱️ 4:58 • 20h ago
 
 ---
 
@@ -318,7 +316,7 @@ Hier Handle ich Kryptowährungen!! MEXC (Bis zu 8800$ Bonus und jeden Woche Chal
 
 📺 Krypto Trading & Investing
 
-👁️ 4K • 👍 695 • 💬 49 • ⏱️ 10:25 • 8h ago
+👁️ 4K • 👍 695 • 💬 49 • ⏱️ 10:25 • 9h ago
 
 ---
 
@@ -328,7 +326,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 5K • 👍 2K • 1h ago
+👁️ 5K • 👍 2K • 2h ago
 
 ---
 
