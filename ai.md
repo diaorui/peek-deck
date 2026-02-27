@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T19:34:11.630752+00:00'
+updated: '2026-02-27T20:29:36.657884+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - social
+- videos
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 19:34 UTC  
+**Last Updated:** February 27, 2026 at 20:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 shame on Sam Altman for putting users’ security at risk by trying to finagle a deal now. #TheRealAmericanPsycho
 
-1h ago
+2h ago
 
 ---
 
@@ -49,7 +49,7 @@ shame on Sam Altman for putting users’ security at risk by trying to finagle a
 
 Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
 
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 18h ago
+🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 19h ago
 
 ---
 
@@ -57,7 +57,15 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-3h ago
+4h ago
+
+---
+
+**[Societal level AI Tragedy of the Commons. Someone please prove me wrong.](https://www.reddit.com/r/artificial/comments/1rgg7mn/societal_level_ai_tragedy_of_the_commons_someone/)**
+
+For the last two years, my biggest worry about AI wasn't AGI or some science fiction dystopia, but simply that massive layoffs of white collar workers are not just a loss of workers, but, more importantly, a loss of consumers. The entire global economy, and particularly in America, is a consumerist economy. White collar workers also represent a disproportionate amount of the spending in the economy, so if that population is unemployed (or worried that they will be anytime soon), it will affect every single sector of the economy. Demand will collapse, revenues for every single company will crater, and even the hyperscalers who are capturing the value of the current AI boom will eventually run out of enterprise costumers, because they themselves have run out of human costumers. This is not like other technological disruptions. AI agents don't consume in the economy. For better or worse, what we need for prosperity is for companies to pay humans a living wage so that those humans are consumers of other businesses. What AI companies are going to do to all of us is a sort of Tragedy of the Commons: In a race to the bottom, each individual company is incentivized to lay off their workers to lower costs, but in doing so, they are also impoverishing their own (and others') costumers. Again, this doesn't just affect software companies or tech, it will affect everything. Restaurants will have fewer patrons, people will travel less, people will buy less real estate, less food, less everything, because they just can't afford it. Personally, this presents a massive cognitive dissonance that I'm struggling with. I have long held NVDA, GOOGL, MSFT, and others at the center of this revolution for many years. It's been good for my portfolio. I haven't sold a single share. And now I think that the short term sucess of these companies will result in the long term collapse of all my savings, and I still can't get myself to sell anything because I hope, more than anything, that I'm wrong. I'm a capitalist, but I think we need some sort of legislation. Something that protects the humans on this planet above short term corporate profits. There should be a law that forces companies to have a % of their workforce be humans, so only a % of your output can be done by agents. It may not optimize for what makes the most sense for that company on a spreadsheet, but without guardrails, the greed and short term profit motive is going to bring a level of societal pain we can't even imagine. Finally, before anyone mentions this. Yes, I've read the Citrini article. The fact that it's gotten so many people now taking my long-believed doomsday scenario, and the fact that I haven't been persuaded by the 'boom' alternatives that have come out, is why I'm more scared than ever. But again, I'm posting here partly because I hope to find an intelligent take that persuades me. I want to be wrong.
+
+1h ago
 
 ---
 
@@ -65,7 +73,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 If you are in the situation that you have to create marketing copy for different platforms you likely know what I'm talking about: The copy still feels quite similar even if some platform-specifics have been implemented. Lets imagine you wat to feed the model a press release and ask it to turn it into a blog article, LinkedIn or X post. The outcome may not be that bad. But often it feels quite neural, balnaced and somehow corporate. But is the model the problem? Does the model know that LinkedIn rhythm differs from X? Or that Instagram tolerates emotion (and emojis) or how to write a blog article with depth and structure? Likely, the models defaults to the safest possible tone: The golden middle. But if you want channel-native output, you need to give channel-native constraints. Try defining: Sentence length: Short punchy lines? Or structured paragraphs? Rhythm: Story-driven? Argument-driven? Fast takes? Friction level: Professional and diplomatic? Or slightly polarising? Formatting: Emojis allowed? Line breaks every sentence? Bullet lists? hashtags/No hashtags? Here are some examples for these constraints: LinkedIn: “Professional but opinionated. Structured argument. No emojis. Moderate friction.” Instagram: “Emotional, visual, shorter sentences, conversational tone, 1–2 emojis max.” X: “Compressed thinking. High tension. One sharp idea. No fluff.” Blog: “Deeper reasoning. Clear structure. Examples. No hot takes without explanation.” To get the models to adapt to the platform, you have to encode it. Try it out and let us know if the outcome is better. Disclaimer: The above is simplified (and for personal use). Don't you dare thinking that this is what the whaaat.ai marketing agents are build on!
 
-6h ago
+7h ago
 
 ---
 
@@ -81,7 +89,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 I build forensic intelligence systems that expose corporate blind spots. Today's demonstration: Enterprise AI Transition Risk Assessment for Block Inc. One command input. Full institutional-grade analysis output. $2.6B direct exposure mapped $8.3B market cap risk quantified 5 detailed failure scenarios with timing predictions Strategic solution framework addressing multiple constraints simultaneously Block cut 40% workforce. Stock jumped 25%. Markets celebrated. The system showed what they're blind to. This is what I do. I build intelligence systems that see what standard analysis misses. 📊 Full report linked in comments https://open.substack.com/pub/structuredlanguage/p/enterprise-ai-transitions-are-creating?utm_source=share&utm_medium=android&r=6sdhpn AI #RiskManagement #BusinessIntelligence #StrategicPlanning #EnterpriseAnalysis
 
-5h ago
+6h ago
 
 ---
 
@@ -97,7 +105,7 @@ Have it your way?
 
 "Researchers have been mapping the brain for more than a century. By tracing cellular patterns that are visible under a microscope, they’ve created colorful charts and models that delineate regions and have been able to associate them with functions. In recent years, they’ve added vastly greater detail: They can now go cell by cell and define each one by its internal genetic activity. But no matter how carefully they slice and how deeply they analyze, their maps of the brain seem incomplete, muddled, inconsistent. For example, some large brain regions have been linked to many different tasks; scientists suspect that they should be subdivided into smaller regions, each with its own job. So far, mapping these cellular neighborhoods from enormous genetic datasets has been both a challenge and a chore. Recently, Tasic, a neuroscientist and genomicist at the Allen Institute for Brain Science, and her collaborators recruited artificial intelligence for the sorting and mapmaking effort. They fed genetic data from five mouse brains — 10.4 million individual cells with hundreds of genes per cell — into a custom machine learning algorithm. The program delivered maps that are a neuro-realtor’s dream, with known and novel subdivisions within larger brain regions. Humans couldn’t delineate such borders in several lifetimes, but the algorithm did it in hours. The authors published their methods in Nature Communications in October. By applying the same technique to other animals and eventually to humans, researchers hope not only to detail the brain’s finer-grained layout but also to generate and test hypotheses about how the organ’s parts operate in health and disease."
 
-🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 13h ago
+🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 14h ago
 
 ---
 
@@ -105,15 +113,7 @@ Have it your way?
 
 Interested to see what others discover running an experiment we tried n We tired changing the “voice” of an LLM in the prompt. It is worth doing if you’re creating text for different audiences and different platforms. The experiment we ran was this. “Write a 50 word comparison of x and y, in the style of z.” It is useful to compare two things which you are pretty sure never occurred in the training corpus. So, x and y might be icebergs and blast furnaces. But whatever you like. For z (style) you might try - associated press style guide - Dr Seuss - Hemingway - Shakespearian sonnet - 4th grade student
 
-5h ago
-
----
-
-**[AI Industry Questions](https://www.reddit.com/r/artificial/comments/1rgcgqa/ai_industry_questions/)**
-
-Hi, my name is J. Rollins, and I’m a high school student interested in learning more about careers in artificial intelligence. I’m conducting a short set of questions to better understand what it’s like to work in the AI industry, including the education required, daily responsibilities, challenges, and opportunities for growth. Thank you so much for your time! If you could, please include your name (or initials), job title, and company/organization before sharing your insights. I really appreciate your help! 1.What education background and/or training do you recommend for someone who wants to become an Artificial Intelligence Developer or your role? Can you describe a typical day in your job and the tasks you work on most frequently? If you feel comfortable, what is the typical salary range for someone in your position, and how does it change with experience? How manageable is the work-life balance in the AI field? Are there periods of intense work or deadlines? What are some biggest challenges you face in your role as an AI professional? What are some common misconceptions about working in AI or your job specifically? What opportunities exist for career advancement in AI, and what skills are most valuable for moving up? If you could give high school students one piece of advice to prepare for a career in A, what would it be? What programming languages, tools, or technologies do you use most often in your work? How do you stay up-to-date with developments in AI, and what trends do you see shaping the future of the field?
-
-2h ago
+6h ago
 
 ---
 
@@ -129,61 +129,9 @@ blog.google • 1d ago
 
 ---
 
-**[India Built the World’s Back Office. A.I. Is Starting to Shrink It.](https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html)**
+**[Pentagon Standoff Is a Decisive Moment for How A.I. Will Be Used in War](https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html)**
 
-The New York Times • 14h ago
-
----
-
-**[The hypothetical nuclear attack that escalated the Pentagon’s showdown with Anthropic](https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/)**
-
-Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
-
-The Washington Post • 1h ago
-
----
-
-**[Brady Tkachuk miffed over White House AI-doctored video](https://www.espn.com/nhl/story/_/id/48044958/brady-tkachuk-miffed-white-house-ai-doctored-video)**
-
-Brady Tkachuk said he didn't appreciate the AI-doctored video released by the White House that made it appear he was disparaging Canadians.
-
-ESPN • 1d ago
-
----
-
-**['I would never say that' - US Olympian on White House AI video](https://www.bbc.com/sport/ice-hockey/articles/cqj9w4xz1l0o)**
-
-USA men's ice hockey player Brady Tkachuk distances himself from an AI-enhanced White House video in which he appears to disparage Canadians, saying "those words would never come out of my mouth".
-
-BBC • 10h ago
-
----
-
-**[US hockey player responds to White House AI video](https://edition.cnn.com/2026/02/27/sport/video/us-hockey-player-white-house-ai-response-vrtc)**
-
-US Olympic hockey player Brady Tkachuk commented on an AI-generated video that was posted on the White House’s TikTok account that altered a press conference he was in.
-
-CNN • 54m ago
-
----
-
-**[Ads funded by AI industry are flooding the 2026 election. They're about everything except AI.](https://www.nbcnews.com/politics/2026-election/ads-ai-industry-are-flooding-2026-election-artificial-intelligence-rcna260782)**
-
-Super PACs affiliated with two warring factions in the AI industry are pumping millions of dollars into the earliest 2026 primaries.
-
-NBC News • 1h ago
-
----
-
-**[Why the AI ‘Scare Trade’ Keeps Spooking Markets](https://www.bloomberg.com/news/articles/2026-02-27/what-is-the-ai-scare-trade-why-it-s-spooking-the-stock-market)**
-
-Bloomberg.com • 4h ago
-
----
-
-**[How The AI Bubble Could Burst. Lessons From The Dot-Com Stock Market Crash.](https://www.investors.com/news/technology/ai-bubble-artificial-intelligence-stock-market-crash/)**
-
-Investor's Business Daily • 3h ago
+The New York Times • 3h ago
 
 ---
 
@@ -195,6 +143,56 @@ CNBC • 1h ago
 
 ---
 
+**[Wall St on course for monthly declines on AI worries, renewed tariff angst, geopolitical strife](https://www.reuters.com/business/us-stock-futures-falter-ai-jitters-nasdaq-braces-steep-monthly-fall-2026-02-27/)**
+
+Reuters • 8h ago
+
+---
+
+**[Software stocks fall as Block’s big job cuts stoke further AI fears](https://www.marketwatch.com/story/software-stocks-fall-as-blocks-big-job-cuts-stoke-further-ai-fears-c66aef8e?gaa_at=eafs&gaa_n=AWEtsqdxUd8vci0BOhrmnwNw9ogHPq5mR5SIbTCoBAU0iIYfshfxIi88k_De&gaa_ts=69a20212&gaa_sig=yhpS2VB71FFsqMBdEYdMYKGT2VH0_A9Q4BxoGfB5bQMGfCTCY9u8O7Hy2jPJliTzABt_CejpKuTJpXBPf1pHeg%3D%3D)**
+
+MarketWatch • 34m ago
+
+---
+
+**[Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey)**
+
+Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
+
+CNN • 21h ago
+
+---
+
+**[Scaling AI for everyone](https://openai.com/index/scaling-ai-for-everyone/)**
+
+Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.
+
+OpenAI • 6h ago
+
+---
+
+**[Tech stocks today: OpenAI raises $110 billion, Anthropic rejects Defense Department AI demands](https://finance.yahoo.com/news/live/tech-stocks-today-openai-raises-110-billion-anthropic-rejects-defense-department-ai-demands-143452536.html)**
+
+All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
+
+Yahoo Finance • 5h ago
+
+---
+
+**[OpenAI Raises $110 Billion to Fuel Growth, Extending A.I. Boom](https://www.nytimes.com/2026/02/27/business/openai-funding.html)**
+
+The New York Times • 5h ago
+
+---
+
+**['I would never say that' - US Olympian on White House AI video](https://www.bbc.com/sport/ice-hockey/articles/cqj9w4xz1l0o)**
+
+USA men's ice hockey player Brady Tkachuk distances himself from an AI-enhanced White House video in which he appears to disparage Canadians, saying "those words would never come out of my mouth".
+
+BBC • 11h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -203,21 +201,13 @@ CNBC • 1h ago
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 590 • 💬 564 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
-
----
-
-**[How we rebuilt Next.js with AI in one week](https://news.ycombinator.com/item?id=47142156)**
-
-One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
-
-⬆️ 523 • 💬 231 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
+⬆️ 591 • 💬 566 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 398 • 💬 174 • 1d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 401 • 💬 176 • 1d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -225,7 +215,7 @@ One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4
 
 Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
 
-⬆️ 262 • 💬 262 • 2d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
+⬆️ 264 • 💬 262 • 2d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 
 ---
 
@@ -237,19 +227,19 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 ---
 
-**[An autopsy of AI-generated 3D slop](https://news.ycombinator.com/item?id=47157841)**
-
-Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-generated 3D 'slop' vs. handcrafted models to show why the human touch is very much required to attain positive ROI.
-
-⬆️ 141 • 💬 76 • 1d ago • [aircada.com](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
-
----
-
 **[Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries](https://news.ycombinator.com/item?id=47174777)**
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 141 • 💬 58 • 18h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 143 • 💬 58 • 19h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+
+---
+
+**[An autopsy of AI-generated 3D slop](https://news.ycombinator.com/item?id=47157841)**
+
+Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-generated 3D 'slop' vs. handcrafted models to show why the human touch is very much required to attain positive ROI.
+
+⬆️ 142 • 💬 76 • 1d ago • [aircada.com](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
 
 ---
 
@@ -259,19 +249,27 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 ---
 
-**[Amazon would rather blame its own engineers than its AI](https://news.ycombinator.com/item?id=47148740)**
-
-: Protect the robot, sacrifice the human
-
-⬆️ 77 • 💬 10 • 2d ago • [theregister.com](https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/)
-
----
-
 **[PostmarketOS in 2026-02: generic kernels, bans use of generative AI](https://news.ycombinator.com/item?id=47179553)**
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 75 • 💬 95 • 7h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 80 • 💬 98 • 8h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+
+---
+
+**[Amazon would rather blame its own engineers than its AI](https://news.ycombinator.com/item?id=47148740)**
+
+: Protect the robot, sacrifice the human
+
+⬆️ 79 • 💬 10 • 2d ago • [theregister.com](https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/)
+
+---
+
+**[Burger King will use AI to check if employees say 'please' and 'thank you'](https://news.ycombinator.com/item?id=47165606)**
+
+Have it your way?
+
+⬆️ 75 • 💬 95 • 1d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
 
 ---
 
@@ -279,43 +277,33 @@ Aiming for a 10 year life-cycle for smartphones
 
 ## YouTube Videos: "ai"
 
-**[Anthropic AI Destroys $31 Billion of IBM Value—The AI Corporate Bloodbath Has Begun](https://www.youtube.com/watch?v=ZLEKvSb0DdA)**
-
-On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI is sending through the world's biggest ...
-
-📺 Tom Bilyeu Clips
-
-👁️ 12K • 👍 271 • 💬 51 • ⏱️ 8:38 • 20h ago
-
----
-
-**[How To Pick The Right AI Model](https://www.youtube.com/watch?v=DsKZpgoy830)**
-
-Download Comet for FREE https://www.perplexity.ai/comet I explain every type of AI model. Yay! Want to get ahead in your ...
-
-📺 Tina Huang
-
-👁️ 5K • 👍 541 • 💬 37 • ⏱️ 19:01 • 6h ago
-
----
-
-**[Anthropic CEO says company cannot agree to Pentagon&#39;s AI usage demands](https://www.youtube.com/watch?v=dzy3tA45V9U)**
-
-Anthropic CEO Dario Amodei said the company cannot agree to the Pentagon's ultimatum to allow its AI technology to be used for ...
-
-📺 NBC News
-
-👁️ 52K • 👍 776 • 💬 292 • ⏱️ 4:24 • 19h ago
-
----
-
 **[The most powerful AI Agent I’ve ever used in my life](https://www.youtube.com/watch?v=D_YzcH0VsGY)**
 
 Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZG Are you a Business owner? Join my ...
 
 📺 Dan Martell
 
-👁️ 137K • 👍 5K • 💬 254 • ⏱️ 11:55 • 1d ago
+👁️ 150K • 👍 6K • 💬 302 • ⏱️ 11:55 • 1d ago
+
+---
+
+**[Anthropic AI Destroys $31 Billion of IBM Value—The AI Corporate Bloodbath Has Begun](https://www.youtube.com/watch?v=ZLEKvSb0DdA)**
+
+On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI is sending through the world's biggest ...
+
+📺 Tom Bilyeu Clips
+
+👁️ 13K • 👍 286 • 💬 56 • ⏱️ 8:38 • 21h ago
+
+---
+
+**[The AI Bubble. Why Smart People are Losing Their Minds](https://www.youtube.com/watch?v=k2At9npoFJ4)**
+
+"The four most dangerous words in investing are: This time it's different." — Sir John Templeton. Discover The Freelance Formula ...
+
+📺 Brendan Dell 
+
+👁️ 10K • 👍 379 • 💬 133 • ⏱️ 26:08 • 1d ago
 
 ---
 
@@ -325,7 +313,17 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 17K • 👍 777 • 💬 78 • ⏱️ 1:11:08 • 1d ago
+👁️ 18K • 👍 846 • 💬 82 • ⏱️ 1:11:08 • 1d ago
+
+---
+
+**[Anthropic CEO says company cannot agree to Pentagon&#39;s AI usage demands](https://www.youtube.com/watch?v=dzy3tA45V9U)**
+
+Anthropic CEO Dario Amodei said the company cannot agree to the Pentagon's ultimatum to allow its AI technology to be used for ...
+
+📺 NBC News
+
+👁️ 55K • 👍 795 • 💬 313 • ⏱️ 4:24 • 20h ago
 
 ---
 
@@ -335,37 +333,27 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 83K • 👍 2K • 💬 221 • ⏱️ 17:39 • 1d ago
+👁️ 85K • 👍 2K • 💬 226 • ⏱️ 17:39 • 1d ago
 
 ---
 
-**[Nvidia CEO Jensen Huang: AI has gone through a new inflection point](https://www.youtube.com/watch?v=NeiZv-L4DhU)**
+**[Google Just Launched NEW AI that Can Start a One Person Business](https://www.youtube.com/watch?v=C8IuyXuCq1g)**
 
-Nvidia CEO Jensen Huang joins 'Squawk Box' to discuss the company's quarterly earnings results, revenue growth in its core ...
+This video shows you how Google AI can assist you! ➡️ Free Digital Product Prompt Builder: https://bit.ly/DigitalMakerAI ...
 
-📺 CNBC Television
+📺 Success With Sam
 
-👁️ 27K • 👍 220 • 💬 68 • ⏱️ 4:11 • 1d ago
-
----
-
-**[Market CRASH After Viral AI Doom Post](https://www.youtube.com/watch?v=kNInY3ZAMWo)**
-
-Krystal and Saagar discuss markets tanking over AI fears. Sign up for a PREMIUM Breaking Points subscriptions for full early ...
-
-📺 Breaking Points
-
-👁️ 306K • 👍 8K • 💬 2K • ⏱️ 12:54 • 3d ago
+👁️ 1K • 👍 86 • 💬 10 • ⏱️ 19:15 • 5h ago
 
 ---
 
-**[we NEED to talk about AI in cosplay (and art)](https://www.youtube.com/watch?v=SoHt01Zra-M)**
+**[Is it Real or AI?](https://www.youtube.com/watch?v=_NFdnbFr4RU)**
 
-ai #cosplay #asmr ─── ⋆⋅ ♰ ⋅⋆ ─── We really need to talk about ai in cosplay world.. If you're new to my channel, I'm Lei ...
+ZoomPartner Can YOU tell which pics are AI or real? We had an AI Dog on my live @Zoom where we learned how to dream ...
 
-📺  Lei ☾♱
+📺 Rebecca Zamolo
 
-👁️ 5K • 👍 658 • 💬 93 • ⏱️ 24:55 • 1d ago
+👁️ 338K • 👍 5K • 💬 279 • ⏱️ 0:54 • 22h ago
 
 ---
 
@@ -375,7 +363,17 @@ Artificial intelligence is accelerating - but how fast is too fast? A new benchm
 
 📺 Sky News
 
-👁️ 38K • 👍 492 • 💬 114 • ⏱️ 8:04 • 2d ago
+👁️ 39K • 👍 501 • 💬 115 • ⏱️ 8:04 • 2d ago
+
+---
+
+**[Nvidia CEO Jensen Huang: AI has gone through a new inflection point](https://www.youtube.com/watch?v=NeiZv-L4DhU)**
+
+Nvidia CEO Jensen Huang joins 'Squawk Box' to discuss the company's quarterly earnings results, revenue growth in its core ...
+
+📺 CNBC Television
+
+👁️ 28K • 👍 224 • 💬 68 • ⏱️ 4:11 • 1d ago
 
 ---
 
@@ -391,7 +389,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 258,764 • ❤️ 624 • 9h ago
+⬇️ 258,764 • ❤️ 627 • 10h ago
 
 ---
 
@@ -415,7 +413,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 725,954 • ❤️ 1,110 • 4d ago
+⬇️ 725,954 • ❤️ 1,112 • 4d ago
 
 ---
 
@@ -427,7 +425,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 107,821 • ❤️ 327 • 3d ago
+⬇️ 107,821 • ❤️ 329 • 3d ago
 
 ---
 
@@ -439,7 +437,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 264,531 • ❤️ 282 • 3d ago
+⬇️ 264,531 • ❤️ 297 • 52m ago
 
 ---
 
@@ -451,7 +449,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 189,082 • ❤️ 1,631 • 14d ago
+⬇️ 189,082 • ❤️ 1,633 • 14d ago
 
 ---
 
@@ -475,7 +473,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,295 • ❤️ 208 • 3d ago
+⬇️ 1,295 • ❤️ 210 • 3d ago
 
 ---
 
@@ -499,7 +497,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 4,148 • ❤️ 191 • 2d ago
+⬇️ 4,148 • ❤️ 194 • 2d ago
 
 ---
 
@@ -543,18 +541,6 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 14 • 💬 1 • ⭐ 9,863 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 **[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
 
 *Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
@@ -582,17 +568,15 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
-*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
 
-🏢 GVC Lab at Great Bay University
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-PersonaLive is a diffusion-based portrait animation framework that improves real-time performance through hybrid implicit signals, appearance distillation, and autoregressive streaming generation.
+▲ 14 • 💬 1 • ⭐ 9,883 • 28mo ago
 
-▲ 38 • 💬 3 • ⭐ 2,319 • 2mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -621,6 +605,20 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
+
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
+
+🏢 GVC Lab at Great Bay University
+
+PersonaLive is a diffusion-based portrait animation framework that improves real-time performance through hybrid implicit signals, appearance distillation, and autoregressive streaming generation.
+
+▲ 38 • 💬 3 • ⭐ 2,326 • 2mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
+
+---
+
 **[PaperBanana: Automating Academic Illustration for AI Scientists](https://huggingface.co/papers/2601.23265)**
 
 *Dawei Zhu, Rui Meng, Yale Song et al. (7 authors)*
@@ -645,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.4k • 🔱 2.5k • 2h ago
+⭐ 20.4k • 🔱 2.5k • 38s ago
 
 ---
 
@@ -653,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 8.0k • 🔱 621 • 16d ago
+⭐ 8.0k • 🔱 622 • 16d ago
 
 ---
 
@@ -663,7 +661,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.7k • 🔱 693 • 1d ago
+⭐ 5.7k • 🔱 694 • 1d ago
 
 ---
 
@@ -683,7 +681,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 360 • 4h ago
+⭐ 3.7k • 🔱 360 • 5h ago
 
 ---
 
@@ -693,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.5k • 🔱 462 • 15h ago
+⭐ 3.5k • 🔱 463 • 2h ago
 
 ---
 
@@ -703,7 +701,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.1k • 🔱 381 • 8h ago
+⭐ 3.1k • 🔱 381 • 9h ago
 
 ---
 
@@ -713,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 208 • 6h ago
+⭐ 2.9k • 🔱 209 • 7h ago
 
 ---
 
@@ -723,7 +721,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 309 • 3h ago
+⭐ 2.9k • 🔱 309 • 4h ago
 
 ---
 
@@ -733,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 539 • 2h ago
+⭐ 2.8k • 🔱 541 • 3h ago
 
 ---
 
