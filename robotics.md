@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T02:08:08.081210+00:00'
+updated: '2026-02-27T04:25:30.260456+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 02:08 UTC  
+**Last Updated:** February 27, 2026 at 04:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-12h ago
+14h ago
 
 ---
 
@@ -44,7 +44,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-14h ago
+17h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-12h ago
+14h ago
 
 ---
 
@@ -60,7 +60,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 13h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 15h ago
 
 ---
 
@@ -68,13 +68,13 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-16h ago
+18h ago
 
 ---
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-10h ago
+12h ago
 
 ---
 
@@ -82,7 +82,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-15h ago
+17h ago
 
 ---
 
@@ -96,7 +96,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 **[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-12h ago
+14h ago
 
 ---
 
@@ -104,7 +104,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. In particular, I’ve noticed most demos focus on performance-oriented tasks, like dancing or even kung fu. But those seem very different from the kinds of scenarios that would generate large-scale, real economic value in actual deployment. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
 
-15h ago
+17h ago
 
 ---
 
@@ -132,21 +132,13 @@ TechCrunch • 1d ago
 
 Intrinsic is focused on making robots easier to program, teach, and operate.
 
-The Verge • 15h ago
+The Verge • 17h ago
 
 ---
 
-**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-Televised gala offers a showcase and opportunity for the best of Chinese tech
-
-Financial Times • 1h ago
-
----
-
-**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
-
-Bloomberg.com • 5h ago
+Bloomberg.com • 54m ago
 
 ---
 
@@ -154,7 +146,31 @@ Bloomberg.com • 5h ago
 
 Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
 
-Fortune • 12h ago
+Fortune • 15h ago
+
+---
+
+**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
+
+There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
+
+The Conversation • 2d ago
+
+---
+
+**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
+
+Televised gala offers a showcase and opportunity for the best of Chinese tech
+
+Financial Times • 3h ago
+
+---
+
+**[7 Next-Gen Chinese Humanoid Robots: From ‘Kung Fu’ Spectacles to Factory Workhorses](https://www.eweek.com/news/7-next-gen-chinese-humanoid-robots-2026/)**
+
+China’s humanoid robot makers are scaling fast in 2026, led by Unitree and AgiBot, as the market shifts from viral demos to commercial deployment.
+
+eWeek • 2d ago
 
 ---
 
@@ -174,22 +190,6 @@ Defense One • 2d ago
 
 ---
 
-**[How CMU Built a World-Leading Robotics Ecosystem](https://www.cmu.edu/news/stories/archives/2026/february/how-cmu-built-a-world-leading-robotics-ecosystem)**
-
-From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
-
-Carnegie Mellon University • 1d ago
-
----
-
-**[China’s dancing robots are a wake-up call for Australia on policy and productivity](https://theconversation.com/chinas-dancing-robots-are-a-wake-up-call-for-australia-on-policy-and-productivity-276529)**
-
-There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
-
-The Conversation • 2d ago
-
----
-
 ---
 
 ## YouTube Videos: "robotics"
@@ -200,17 +200,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 76 • 💬 18 • ⏱️ 24:08 • 19h ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 90K • 👍 2K • 💬 1K • ⏱️ 7:18 • 2d ago
+👁️ 2K • 👍 79 • 💬 20 • ⏱️ 24:08 • 22h ago
 
 ---
 
@@ -220,17 +210,17 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 2K • 👍 32 • 💬 5 • ⏱️ 2:18 • 11h ago
+👁️ 5K • 👍 73 • 💬 24 • ⏱️ 2:18 • 13h ago
 
 ---
 
-**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
 
-GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
 
-📺 Julia McCoy
+📺 NBC Bay Area
 
-👁️ 86K • 👍 4K • 💬 852 • ⏱️ 14:51 • 6d ago
+👁️ 92K • 👍 2K • 💬 1K • ⏱️ 7:18 • 2d ago
 
 ---
 
@@ -240,7 +230,17 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 44K • 👍 708 • 💬 237 • ⏱️ 0:55 • 14h ago
+👁️ 50K • 👍 814 • 💬 273 • ⏱️ 0:55 • 16h ago
+
+---
+
+**[China&#39;s Kung Fu Robots Just Changed Everything](https://www.youtube.com/watch?v=P1PlIuC2Oz0)**
+
+GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minutes* https://FirstMovers.ai/blueprint/ ...
+
+📺 Julia McCoy
+
+👁️ 87K • 👍 4K • 💬 857 • ⏱️ 14:51 • 6d ago
 
 ---
 
@@ -250,7 +250,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 127K • 👍 2K • 💬 283 • ⏱️ 14:16 • 4d ago
+👁️ 128K • 👍 2K • 💬 286 • ⏱️ 14:16 • 4d ago
 
 ---
 
@@ -260,7 +260,27 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 21K • 👍 366 • 💬 328 • ⏱️ 2:30 • 5d ago
+👁️ 21K • 👍 367 • 💬 328 • ⏱️ 2:30 • 5d ago
+
+---
+
+**[Merz Visits Hangzhou, Sees Humanoid Robot Demonstrations and High-Tech Industrial Operations | AI1N](https://www.youtube.com/watch?v=aCqEhkCWCoQ)**
+
+German Chancellor Friedrich Merz visits Hangzhou, China, exploring the cutting-edge innovations of Unitree Robotics and ...
+
+📺 DRM News
+
+👁️ 19K • 👍 220 • ⏱️ 1:57 • 10h ago
+
+---
+
+**[Would you try boba tea made by a robot?](https://www.youtube.com/watch?v=g464wsa9wWc)**
+
+CNET social producer Faith Chihil made a trip to visit the boba robot from Yo-Kai Express, which makes its debut in the US at the ...
+
+📺 CNET
+
+👁️ 2K • 👍 90 • 💬 5 • ⏱️ 1:08 • 11h ago
 
 ---
 
@@ -270,25 +290,7 @@ Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/ad
 
 📺 The China Show
 
-👁️ 209K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 6d ago
-
----
-
-**[Rare 17th Century First Robot Ever 🤯💰](https://www.youtube.com/watch?v=_RN8p3hMsjs)**
-
-📺 Pawn Media
-
-👁️ 2K • 👍 122 • 💬 3 • ⏱️ 0:59 • 3h ago
-
----
-
-**[These New AI Robots Are Acting TOO Human… Figure 03 Working 24/7, Noetix &amp; Russia’s New Robot](https://www.youtube.com/watch?v=3ElgLlNg7Fk)**
-
-AI robots are starting to act way too human, and the latest breakthroughs prove it. In this video, we break down three major ...
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 145 • 💬 16 • ⏱️ 21:45 • 2d ago
+👁️ 210K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 6d ago
 
 ---
 

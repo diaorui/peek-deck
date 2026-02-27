@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T02:08:08.077976+00:00'
+updated: '2026-02-27T04:25:30.257284+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 02:08 UTC  
+**Last Updated:** February 27, 2026 at 04:25 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,033.72
+### $2,017.64
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.4%  
-**7d:** +2.7%  
-**30d:** -28.2%  
-**90d:** -32.3%  
-**1y:** -9.4%  
+**24h:** -0.2%  
+**7d:** +4.5%  
+**30d:** -27.0%  
+**90d:** -31.1%  
+**1y:** -7.8%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $244.32B
+**Market Cap:** $248.53B
 Rank #2
 
 **Circulating Supply:** 120,692,268 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.1%
+-58.3%
 
 **All-Time Low:** $0.43
-+467479.3%
++475752.2%
 
 ---
 
@@ -72,7 +72,15 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-20h ago
+22h ago
+
+---
+
+**[Highlights from the All Core Developers Execution (ACDE) Call #231](https://www.reddit.com/r/ethereum/comments/1rfvrp6/highlights_from_the_all_core_developers_execution/)**
+
+ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
+
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 50m ago
 
 ---
 
@@ -80,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
 
-5h ago
+7h ago
 
 ---
 
@@ -88,7 +96,7 @@ Most people know ERC-20 from 2017+ culture, but the design constraints were visi
 
 EF Protocol publishes Strawmap, a technical strawman roadmap that visualizes Ethereum L1 upgrades through 2029, framing dependencies, headliners, & five long-term north stars.
 
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 20h ago
+🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 22h ago
 
 ---
 
@@ -105,6 +113,14 @@ https://strawmap.org/ A very important document. Let's walk through this one "go
 The Ethereum Foundation has published a draft long-term roadmap called “Strawmap,” outlining how the protocol could evolve across multiple forks through the rest of the decade. It organizes Ethereum’s end-state around five core goals: fast L1 (seconds-level finality) gigagas L1 (~10k TPS via zk execution proofs) teragas L2 (massive rollup DA bandwidth) post-quantum L1 native privacy (shielded ETH transfers) Strawmap is described as a coordination tool rather than a fixed plan, mapping one possible path for Ethereum’s base layer architecture over time. Overall it reads like Ethereum’s intended equilibrium design: zk-verified execution + rollup scaling + fast finality + built-in privacy. Full breakdown: https://btcusa.com/ethereum-foundation-publishes-strawmap-roadmap-with-fast-finality-zkevm-scaling-and-native-privacy-goals/ Which part of Strawmap do you see as the biggest shift for Ethereum long-term — zk L1, native privacy, or fast finality?
 
 1d ago
+
+---
+
+**[Atta boy Vitalik. Keep on selling those ETH](https://www.reddit.com/r/ethereum/comments/1rfum9a/atta_boy_vitalik_keep_on_selling_those_eth/)**
+
+https://www.coindesk.com/markets/2026/02/25/vitalik-buterin-sold-17-000-eth-this-month-as-ether-fell-37 Vitalik Buterin sold 17,000 ETH this month as ether dropped 37% Vitalik Buterin has reduced his ether holdings by about 17,000 ETH, or $43 million, in February after pledging a similar amount to fund privacy and security projects. The sales, executed in many small trades via the CoW Protocol, have coincided with a 37% drop in ether's price over the past month to around $1,900. Ether's decline and compressed staking yields near 2.8% have deepened unrealized losses for major corporate holders such as Bitmine Immersion Technologies. The Ethereum co-founder's tracked wallets dropped from 241,000 ETH to 224,000 ETH in February, with sales routed through CoW Protocol in small batches to limit market impact
+
+1h ago
 
 ---
 
@@ -132,39 +148,23 @@ The Ethereum Foundation has started staking a portion of its ETH treasury, with 
 
 ---
 
-**[The Ethereum Foundation's commitment to DeFi](https://www.reddit.com/r/ethereum/comments/1rdpqsy/the_ethereum_foundations_commitment_to_defi/)**
-
-Supporting the builders shaping decentralized finance and strengthening Ethereum as the global financial settlement layer
-
-🔗 [Ethereum Foundation Blog](https://blog.ethereum.org/2026/02/23/commitment-to-defi) • 2d ago
-
----
-
-**[Why I like private property more than I did a few years ago.](https://www.reddit.com/r/ethereum/comments/1rdppmr/why_i_like_private_property_more_than_i_did_a_few/)**
-
-One variable that changed for me is "stable era mindset vs chaotic era mindset". When you're in a "stable era", you see how private property is suboptimal, how economics can easily churn out 10+ categories of situations where it's obvious that certain taxes, incentives to make things available at better prices, etc can produce first-order gains with only second-order deadweight losses (which means that at low levels, the gains greatly exceed the losses). "Pure" private property is only "optimal" under spherical-cow economic assumptions like perfect competition. But in a "chaotic era", private property is more about schelling points - it's about creating a bulwark that's easy for people to understand and rally around defending, that says "your attempt to intervene in my life from the outside ends here". In the chaotic era, infringements on personal space are less likely to be well-meaning bureaucrats who overreach because they have not read enough Hayek, and more likely to be coming from a place of outright indifference or even hostility to your well-being. And looking at modern politics, yeah, there's a lot of that now. Since a lot of "Vitalik hates private property" sentiment comes from me liking Harberger taxes, I'll address that topic directly. My biggest update since the original 2016-19 era ideas was that, when designing details of Harberger taxes, the best motivating example to organize thought around is not "your house", rather it's "corporate intellectual property and walled gardens". If we think about the underlying complaints that people have about powerful corporations, the walled gardens and various ways in which centralized power accumulates on itself is top 5 on the list. What would it look like to build a "Harberger tax" that would tax eg. social platforms, Apple, etc more if they acted as walled gardens, and less if they enabled interoperability (and zero if they were fully open-source and interoperable and forkable)? There is a lot of energy right now around wanting to tax very wealthy individuals and corporations more, and I wonder: what if the best way to do that is not to tax wealth or unrealized gains (which has large downsides), but instead to tax enclosure? This way you raise revenue in a way that actually increases efficiency (any losses from people working less hard are more-than-compensated by gains from people shifting their work into formats where it's easier for people to build on top of each other and markets becoming more competitive). Any tax is an infringement on private property. But if you think about "tax on social platform that's proportional to some metric of how walled-garden-y they are", in an intuitive human sense, it really doesn't feel like "bureaucrats intervening in my life". It feels like "keeping concentrations of power from getting too out of hand". So I am in favor of doing things like that, and much less than before in favor of anything that forces people (incl entrepreneurs) to outright sell their assets, as eg. "Harberger tax on everything" does. A world where startup entrepreneurs are forced to constantly sell shares, realistically to the same few large VCs, in order to pay unrealized-gains or wealth tax bills strikes me as a world that's likely to be more soulless and homogeneous than today. But a world where the top 50% of large companies ranked by walled-garden-ness are taxed more (and the bottom 25% by that metric taxed less, perhaps some even zero), is a world that feels more dynamic and open and free. But even the above is somewhat of a "stable era" perspective, because it tries to make a more-perfect solution from the perspective of the political layer being friendly. We live in a chaotic era, and the point of crypto should be to solve important problems from the bottom up (whether "individualistic bottom up", enabling people to resist and escape various shackles, or "collective bottom up", communities organizing around shifting entire equilibria to their benefit) This ties into what I mean by wanting Ethereum to protect financial self-sovereignty. I do not think that Ethereum has much to offer to the trillion-dollar companies whose goal it is to offer products and services in a way that maximizes walled gardens and enclosure - in fact, much the opposite, censorship resistance can serve as the baseline for rebel communities that play the adversarial game of routing around those walled gardens. I do think Ethereum offers stronger security to people who want to maintain security of (including ability to use) their own financial resources, including surviving through great economic and political turmoil, for their personal or economic needs. And Ethereum offers a base layer for communities to organize large sudden collective shifts away from harmful equilibria into better ones; DAOs should try to solve that problem more.
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
 
-**[Ethereum Foundation researchers publish 'strawmap' outlining seven forks through 2029](https://www.theblock.co/post/391406/ethereum-foundation-researchers-publish-strawmap-outlining-seven-forks-through-2029)**
+**[Ethereum news: The network is moving away from being a slow giant to become a high-speed 'internet of value' by 2029](https://www.coindesk.com/news-analysis/2026/02/26/here-is-why-ethereum-s-bold-new-plan-could-make-the-blockchain-giant-high-speed-internet-of-value-by-2029)**
 
-The Ethereum Foundation’s "strawmap" outlines seven forks by 2029, targeting faster slots, reduced finality, and post-quantum upgrades.
+Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-The Block • 16h ago
+CoinDesk • 7h ago
 
 ---
 
-**[ETHZilla Drops Ethereum Treasury Label in Rebrand After Share Price Collapse](https://decrypt.co/359186/ethzilla-ethereum-rebrand-share-price-collapse)**
+**[Wallet in Telegram unveils yield for Bitcoin, Ethereum and USDT holdings](https://www.theblock.co/post/391338/telegram-crypto-wallet-yield-bitcoin-ethereum-usdt-holdings)**
 
-The move follows investor exits, asset sales and a retreat from holding Ethereum on the public company's balance sheet.
+TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
 
-Decrypt • 22h ago
+The Block • 18h ago
 
 ---
 
@@ -172,15 +172,7 @@ Decrypt • 22h ago
 
 Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Vitalik Buterin unveils Ethereum roadmap to counter quantum computing threat](https://www.coindesk.com/tech/2026/02/26/vitalik-buterin-unveils-ethereum-roadmap-to-counter-quantum-computing-threat)**
-
-This move comes shortly after the Ethereum Foundation established a dedicated post-quantum research team to study the issue.
-
-CoinDesk • 7h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -192,9 +184,17 @@ Muddy River News • 3d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqdURp2MAfvh0jufVpqTFxuCxnhP4FNCYPfoFZw_8lo1ky4b1Ue161WG&gaa_ts=69a0ffea&gaa_sig=7lntCZlzCsti3WC9CWQDdcEhW0i9JKuAoIg-58SOsM2npuw7y0RmOEXmd98IMMOc-dzL2z1i6xtS5F2ey9B64A%3D%3D)**
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqe_fc3WWoqrpe5WdE83AgceCFee4jNXYbSRWLd--WnL4vLyvWkmbDgX&gaa_ts=69a12025&gaa_sig=nOdDIpDdCWJkKJvua--0VvoZtEF7ab8caJJ_qYsPimBW8uSfgqjhZQk9GoPP5SN30-Ba68fMH5k-spkFmBcwIw%3D%3D)**
 
 Barron's • 2d ago
+
+---
+
+**[ETHZilla Drops Ethereum Treasury Label in Rebrand After Share Price Collapse](https://decrypt.co/359186/ethzilla-ethereum-rebrand-share-price-collapse)**
+
+The move follows investor exits, asset sales and a retreat from holding Ethereum on the public company's balance sheet.
+
+Decrypt • 1d ago
 
 ---
 
@@ -202,15 +202,7 @@ Barron's • 2d ago
 
 Michael Saylor has built his reputation as one of Bitcoin’s most vocal supporters. For years, his message was simple: Bitcoin is digital property, and companies should hold it.But at the recent Strategy World 2026 conference, Saylor shifted the conversation.This time, he wasn’t just talking about B…
 
-TradingView • 13h ago
-
----
-
-**[Better Buy: Bitcoin vs. Ethereum](https://www.fool.com/investing/2026/02/24/better-buy-bitcoin-vs-ethereum/)**
-
-Could Ethereum really outperform Bitcoin this year? Harvard seems to think so.
-
-The Motley Fool • 2d ago
+TradingView • 15h ago
 
 ---
 
@@ -228,6 +220,14 @@ thestreet.com • 2d ago
 
 ---
 
+**[Elon’s Grok AI Predicts the Price of XRP, Cardano, and Ethereum By the End of 2026](https://cryptonews.com/news/elons-grok-ai-predicts-the-price-of-xrp-cardano-and-ethereum-by-the-end-of-2026/)**
+
+Feeding Grok AI a carefully calibrated prompt unlocks some surprisingly bullish 2026 price projections for XRP, Solana and Ethereum.
+
+Cryptonews • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -238,7 +238,7 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 📺 Thomas Kralow
 
-👁️ 26K • 👍 3K • 💬 48 • ⏱️ 5:59 • 17h ago
+👁️ 26K • 👍 3K • 💬 49 • ⏱️ 5:59 • 19h ago
 
 ---
 
@@ -248,7 +248,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 444 • 👍 26 • 💬 2 • ⏱️ 14:30 • 7h ago
+👁️ 539 • 👍 29 • 💬 2 • ⏱️ 14:30 • 9h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 140 • 💬 8 • ⏱️ 4:58 • 8h ago
+👁️ 2K • 👍 141 • 💬 10 • ⏱️ 4:58 • 11h ago
 
 ---
 
@@ -268,17 +268,7 @@ BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 4K • 👍 223 • 💬 41 • ⏱️ 17:34 • 4h ago
-
----
-
-**[MAJOR WALL ST. FIRM CAUGHT MANIPULATING CRYPTO (BMNR, ETH)](https://www.youtube.com/watch?v=OFERbiSAR30)**
-
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
-
-📺 Tevis
-
-👁️ 34K • 👍 2K • 💬 255 • ⏱️ 13:38 • 23h ago
+👁️ 5K • 👍 258 • 💬 43 • ⏱️ 17:34 • 7h ago
 
 ---
 
@@ -288,27 +278,17 @@ Ethereum has long been compared to Bitcoin — but according to Sharplink CEO an
 
 📺 Coinage
 
-👁️ 8K • 👍 210 • 💬 43 • ⏱️ 21:21 • 1d ago
+👁️ 8K • 👍 211 • 💬 58 • ⏱️ 21:21 • 1d ago
 
 ---
 
-**[Has the Crypto Relief Rally Started? Bitcoin, Ethereum, XRP, Solana, &amp; Uniswap Analysis!](https://www.youtube.com/watch?v=dMPbI-GSr94)**
+**[MAJOR WALL ST. FIRM CAUGHT MANIPULATING CRYPTO (BMNR, ETH)](https://www.youtube.com/watch?v=OFERbiSAR30)**
 
-Brian from Santiment joined me to review the Onchain metrics for the crypto market. We conduct analysis on Bitcoin, Ethereum, ...
+BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
 
-📺 Thinking Crypto
+📺 Tevis
 
-👁️ 2K • 👍 157 • 💬 68 • ⏱️ 23:27 • 12h ago
-
----
-
-**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=UL3x5TsdxhA)**
-
-Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #crypto #altcoins ▶️ Watch the full episode: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 296 • 👍 4 • ⏱️ 0:54 • 5h ago
+👁️ 34K • 👍 2K • 💬 255 • ⏱️ 13:38 • 1d ago
 
 ---
 
@@ -318,7 +298,17 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 231 • 👍 13 • 💬 4 • ⏱️ 4:21 • 16h ago
+👁️ 247 • 👍 13 • 💬 4 • ⏱️ 4:21 • 18h ago
+
+---
+
+**[Has the Crypto Relief Rally Started? Bitcoin, Ethereum, XRP, Solana, &amp; Uniswap Analysis!](https://www.youtube.com/watch?v=dMPbI-GSr94)**
+
+Brian from Santiment joined me to review the Onchain metrics for the crypto market. We conduct analysis on Bitcoin, Ethereum, ...
+
+📺 Thinking Crypto
+
+👁️ 2K • 👍 161 • 💬 68 • ⏱️ 23:27 • 14h ago
 
 ---
 
@@ -328,7 +318,17 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 3 • ⏱️ 4:33 • 14h ago
+👁️ 2K • 👍 124 • 💬 6 • ⏱️ 4:33 • 16h ago
+
+---
+
+**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=UL3x5TsdxhA)**
+
+Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #crypto #altcoins ▶️ Watch the full episode: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 402 • 👍 8 • ⏱️ 0:54 • 7h ago
 
 ---
 
