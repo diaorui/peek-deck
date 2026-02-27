@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T18:45:32.147094+00:00'
+updated: '2026-02-27T19:34:11.639447+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
 - social
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 18:45 UTC  
+**Last Updated:** February 27, 2026 at 19:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -87,7 +87,7 @@ Rank #1
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-7h ago
+8h ago
 
 ---
 
@@ -103,7 +103,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +119,7 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 See you in 10 years.
 
-20h ago
+21h ago
 
 ---
 
@@ -141,7 +141,7 @@ https://preview.redd.it/dj4slsvwfwlg1.png?width=1234&format=png&auto=webp&s=9f76
 
 https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-fortune/ This man invested money in 2009 and returned later to see it worth almost 900k. The possibilities are endless. It makes me wonder how many other millionaires are out there that don't even know. Have you invested money into a wallet that you forgot about / have any of your friends? With Bitcoin increasing over the decades the way it has, I wonder how many more of these 'uncovered a boatload of free & unlimited cash' stories we'll find?
 
-16h ago
+17h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 1d ago
 
 The Polaris data center uses more electricity than any OG&E customer in the area and millions of gallons of water per day
 
-streetlightnews.org • 1h ago
+streetlightnews.org • 2h ago
 
 ---
 
@@ -213,7 +213,7 @@ Barron's • 1d ago
 
 **[MARA Surges On Data Center Partnership, AI Plans. Crypto Plays Report.](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
 
-Investor's Business Daily • 3h ago
+Investor's Business Daily • 4h ago
 
 ---
 
@@ -221,7 +221,7 @@ Investor's Business Daily • 3h ago
 
 The bitcoin miner inked a deal with investment firm Starwood to convert and expand select facilities to serve data center needs for AI.
 
-CoinDesk • 20h ago
+CoinDesk • 21h ago
 
 ---
 
@@ -273,7 +273,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 5d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 6d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -321,7 +321,7 @@ Is Jane Street the reason Bitcoin is not sitting at 150K right now? Massive clai
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 2K • 💬 124 • ⏱️ 24:42 • 19h ago
+👁️ 22K • 👍 2K • 💬 124 • ⏱️ 24:42 • 20h ago
 
 ---
 
@@ -331,7 +331,7 @@ Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 9K • 👍 638 • 💬 33 • ⏱️ 16:32 • 6h ago
+👁️ 9K • 👍 638 • 💬 33 • ⏱️ 16:32 • 7h ago
 
 ---
 
@@ -369,7 +369,7 @@ Nick Valdez looks at an insanely accurate Bitcoin signal that says “THE BOTTOM
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 419 • 💬 77 • ⏱️ 7:23 • 18h ago
+👁️ 8K • 👍 419 • 💬 77 • ⏱️ 7:23 • 19h ago
 
 ---
 
@@ -399,7 +399,7 @@ Is Wall Street suppressing Bitcoin through ETFs, derivatives, and paper claims? 
 
 📺 Swan Bitcoin
 
-👁️ 42K • 👍 2K • 💬 115 • ⏱️ 18:46 • 19h ago
+👁️ 42K • 👍 2K • 💬 115 • ⏱️ 18:46 • 20h ago
 
 ---
 

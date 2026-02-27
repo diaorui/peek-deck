@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T18:45:32.156481+00:00'
+updated: '2026-02-27T19:34:11.648717+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 18:45 UTC  
+**Last Updated:** February 27, 2026 at 19:34 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-4h ago
+5h ago
 
 ---
 
@@ -44,7 +44,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-1h ago
+2h ago
 
 ---
 
@@ -52,7 +52,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
-6h ago
+7h ago
 
 ---
 
@@ -68,7 +68,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-33m ago
+1h ago
 
 ---
 
@@ -76,7 +76,7 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 
 Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-47m ago
+1h ago
 
 ---
 
@@ -98,7 +98,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Hi guys, I am planning my first robotics project, and came across this video: https://www.youtube.com/watch?v=IoCaTgmUSvc&t=471s This seems super cool and i have a 3D printer. The original video doesn't seem to use ROS at all, and I'm wondering if it would be a good idea to try to do the software part of the project from scratch using ROS2, or if not, what are the reasons for not using ROS for a robotics project?
 
-1h ago
+2h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi guys, I am planning my first robotics project, and came across this video: ht
 
 Excellent interview and interaction with Sprout! It’s good to see and hear the movement of this bot. Dev kit today, home companion in the near future. Sign me up :)
 
-🔗 [youtu.be](https://youtu.be/XbAOMqkKLGU?si=SL88UalR6Ptgwuu5) • 3h ago
+🔗 [youtu.be](https://youtu.be/XbAOMqkKLGU?si=SL88UalR6Ptgwuu5) • 4h ago
 
 ---
 
@@ -126,7 +126,7 @@ TechCrunch • 1d ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -134,7 +134,7 @@ Financial Times • 8h ago
 
 There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
 
-The Conversation • 2d ago
+The Conversation • 3d ago
 
 ---
 
@@ -156,7 +156,7 @@ Bank of America Institute • 1d ago
 
 **[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
 
-Bloomberg.com • 14h ago
+Bloomberg.com • 15h ago
 
 ---
 
@@ -250,7 +250,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 21K • 👍 442 • 💬 157 • ⏱️ 12:16 • 17h ago
+👁️ 21K • 👍 442 • 💬 157 • ⏱️ 12:16 • 18h ago
 
 ---
 
@@ -270,7 +270,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 90K • 👍 812 • 💬 445 • ⏱️ 1:27 • 16h ago
+👁️ 90K • 👍 812 • 💬 445 • ⏱️ 1:27 • 17h ago
 
 ---
 

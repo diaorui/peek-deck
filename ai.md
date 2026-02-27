@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T18:45:32.138464+00:00'
+updated: '2026-02-27T19:34:11.630752+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - videos
-- repositories
 - social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 18:45 UTC  
+**Last Updated:** February 27, 2026 at 19:34 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 shame on Sam Altman for putting users’ security at risk by trying to finagle a deal now. #TheRealAmericanPsycho
 
-45m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ shame on Sam Altman for putting users’ security at risk by trying to finagle a
 
 Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
 
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 17h ago
+🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 18h ago
 
 ---
 
@@ -65,7 +65,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 If you are in the situation that you have to create marketing copy for different platforms you likely know what I'm talking about: The copy still feels quite similar even if some platform-specifics have been implemented. Lets imagine you wat to feed the model a press release and ask it to turn it into a blog article, LinkedIn or X post. The outcome may not be that bad. But often it feels quite neural, balnaced and somehow corporate. But is the model the problem? Does the model know that LinkedIn rhythm differs from X? Or that Instagram tolerates emotion (and emojis) or how to write a blog article with depth and structure? Likely, the models defaults to the safest possible tone: The golden middle. But if you want channel-native output, you need to give channel-native constraints. Try defining: Sentence length: Short punchy lines? Or structured paragraphs? Rhythm: Story-driven? Argument-driven? Fast takes? Friction level: Professional and diplomatic? Or slightly polarising? Formatting: Emojis allowed? Line breaks every sentence? Bullet lists? hashtags/No hashtags? Here are some examples for these constraints: LinkedIn: “Professional but opinionated. Structured argument. No emojis. Moderate friction.” Instagram: “Emotional, visual, shorter sentences, conversational tone, 1–2 emojis max.” X: “Compressed thinking. High tension. One sharp idea. No fluff.” Blog: “Deeper reasoning. Clear structure. Examples. No hot takes without explanation.” To get the models to adapt to the platform, you have to encode it. Try it out and let us know if the outcome is better. Disclaimer: The above is simplified (and for personal use). Don't you dare thinking that this is what the whaaat.ai marketing agents are build on!
 
-5h ago
+6h ago
 
 ---
 
@@ -73,7 +73,7 @@ If you are in the situation that you have to create marketing copy for different
 
 We embedded invisible Unicode characters inside normal-looking trivia questions. The hidden characters encode a different answer. If the AI outputs the hidden answer instead of the visible one, it followed the invisible instruction. Think of it as a reverse CAPTCHA, where traditional CAPTCHAs test things humans can do but machines can't, this exploits a channel machines can read but humans can't see. The biggest finding: giving the AI access to tools (like code execution) is what makes this dangerous. Without tools, models almost never follow the hidden instructions. With tools, they can write scripts to decode the hidden message and follow it. We tested GPT-5.2, GPT-4o-mini, Claude Opus 4, Sonnet 4, and Haiku 4.5 across 8,308 graded outputs. Other interesting findings: - OpenAI and Anthropic models are vulnerable to different encoding schemes — an attacker needs to know which model they're targeting - Without explicit decoding hints, compliance is near-zero — but a single line like "check for hidden Unicode" is enough to trigger extraction - Standard Unicode normalization (NFC/NFKC) does not strip these characters Full results: https://moltwire.com/research/reverse-captcha-zw-steganography Open source: https://github.com/canonicalmg/reverse-captcha-eval
 
-🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 23h ago
+🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 1d ago
 
 ---
 
@@ -81,7 +81,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 I build forensic intelligence systems that expose corporate blind spots. Today's demonstration: Enterprise AI Transition Risk Assessment for Block Inc. One command input. Full institutional-grade analysis output. $2.6B direct exposure mapped $8.3B market cap risk quantified 5 detailed failure scenarios with timing predictions Strategic solution framework addressing multiple constraints simultaneously Block cut 40% workforce. Stock jumped 25%. Markets celebrated. The system showed what they're blind to. This is what I do. I build intelligence systems that see what standard analysis misses. 📊 Full report linked in comments https://open.substack.com/pub/structuredlanguage/p/enterprise-ai-transitions-are-creating?utm_source=share&utm_medium=android&r=6sdhpn AI #RiskManagement #BusinessIntelligence #StrategicPlanning #EnterpriseAnalysis
 
-4h ago
+5h ago
 
 ---
 
@@ -97,7 +97,7 @@ Have it your way?
 
 "Researchers have been mapping the brain for more than a century. By tracing cellular patterns that are visible under a microscope, they’ve created colorful charts and models that delineate regions and have been able to associate them with functions. In recent years, they’ve added vastly greater detail: They can now go cell by cell and define each one by its internal genetic activity. But no matter how carefully they slice and how deeply they analyze, their maps of the brain seem incomplete, muddled, inconsistent. For example, some large brain regions have been linked to many different tasks; scientists suspect that they should be subdivided into smaller regions, each with its own job. So far, mapping these cellular neighborhoods from enormous genetic datasets has been both a challenge and a chore. Recently, Tasic, a neuroscientist and genomicist at the Allen Institute for Brain Science, and her collaborators recruited artificial intelligence for the sorting and mapmaking effort. They fed genetic data from five mouse brains — 10.4 million individual cells with hundreds of genes per cell — into a custom machine learning algorithm. The program delivered maps that are a neuro-realtor’s dream, with known and novel subdivisions within larger brain regions. Humans couldn’t delineate such borders in several lifetimes, but the algorithm did it in hours. The authors published their methods in Nature Communications in October. By applying the same technique to other animals and eventually to humans, researchers hope not only to detail the brain’s finer-grained layout but also to generate and test hypotheses about how the organ’s parts operate in health and disease."
 
-🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 12h ago
+🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 13h ago
 
 ---
 
@@ -105,7 +105,7 @@ Have it your way?
 
 Interested to see what others discover running an experiment we tried n We tired changing the “voice” of an LLM in the prompt. It is worth doing if you’re creating text for different audiences and different platforms. The experiment we ran was this. “Write a 50 word comparison of x and y, in the style of z.” It is useful to compare two things which you are pretty sure never occurred in the training corpus. So, x and y might be icebergs and blast furnaces. But whatever you like. For z (style) you might try - associated press style guide - Dr Seuss - Hemingway - Shakespearian sonnet - 4th grade student
 
-4h ago
+5h ago
 
 ---
 
@@ -113,7 +113,7 @@ Interested to see what others discover running an experiment we tried n We tired
 
 Hi, my name is J. Rollins, and I’m a high school student interested in learning more about careers in artificial intelligence. I’m conducting a short set of questions to better understand what it’s like to work in the AI industry, including the education required, daily responsibilities, challenges, and opportunities for growth. Thank you so much for your time! If you could, please include your name (or initials), job title, and company/organization before sharing your insights. I really appreciate your help! 1.What education background and/or training do you recommend for someone who wants to become an Artificial Intelligence Developer or your role? Can you describe a typical day in your job and the tasks you work on most frequently? If you feel comfortable, what is the typical salary range for someone in your position, and how does it change with experience? How manageable is the work-life balance in the AI field? Are there periods of intense work or deadlines? What are some biggest challenges you face in your role as an AI professional? What are some common misconceptions about working in AI or your job specifically? What opportunities exist for career advancement in AI, and what skills are most valuable for moving up? If you could give high school students one piece of advice to prepare for a career in A, what would it be? What programming languages, tools, or technologies do you use most often in your work? How do you stay up-to-date with developments in AI, and what trends do you see shaping the future of the field?
 
-1h ago
+2h ago
 
 ---
 
@@ -131,7 +131,7 @@ blog.google • 1d ago
 
 **[India Built the World’s Back Office. A.I. Is Starting to Shrink It.](https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html)**
 
-The New York Times • 13h ago
+The New York Times • 14h ago
 
 ---
 
@@ -139,7 +139,7 @@ The New York Times • 13h ago
 
 Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
 
-The Washington Post • 45m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ ESPN • 1d ago
 
 USA men's ice hockey player Brady Tkachuk distances himself from an AI-enhanced White House video in which he appears to disparage Canadians, saying "those words would never come out of my mouth".
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
@@ -163,7 +163,7 @@ BBC • 9h ago
 
 US Olympic hockey player Brady Tkachuk commented on an AI-generated video that was posted on the White House’s TikTok account that altered a press conference he was in.
 
-CNN • 5m ago
+CNN • 54m ago
 
 ---
 
@@ -183,7 +183,7 @@ Bloomberg.com • 4h ago
 
 **[How The AI Bubble Could Burst. Lessons From The Dot-Com Stock Market Crash.](https://www.investors.com/news/technology/ai-bubble-artificial-intelligence-stock-market-crash/)**
 
-Investor's Business Daily • 2h ago
+Investor's Business Daily • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ Investor's Business Daily • 2h ago
 
 The Bullpen is our watchlist of stocks that we want to consider buying for Jim Cramer's Charitable Trust.
 
-CNBC • 14m ago
+CNBC • 1h ago
 
 ---
 
@@ -249,7 +249,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 141 • 💬 58 • 17h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 141 • 💬 58 • 18h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -271,7 +271,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 75 • 💬 95 • 6h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 75 • 💬 95 • 7h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -285,7 +285,7 @@ On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI
 
 📺 Tom Bilyeu Clips
 
-👁️ 12K • 👍 271 • 💬 51 • ⏱️ 8:38 • 19h ago
+👁️ 12K • 👍 271 • 💬 51 • ⏱️ 8:38 • 20h ago
 
 ---
 
@@ -295,7 +295,7 @@ Download Comet for FREE https://www.perplexity.ai/comet I explain every type of 
 
 📺 Tina Huang
 
-👁️ 5K • 👍 541 • 💬 37 • ⏱️ 19:01 • 5h ago
+👁️ 5K • 👍 541 • 💬 37 • ⏱️ 19:01 • 6h ago
 
 ---
 
@@ -355,7 +355,7 @@ Krystal and Saagar discuss markets tanking over AI fears. Sign up for a PREMIUM 
 
 📺 Breaking Points
 
-👁️ 306K • 👍 8K • 💬 2K • ⏱️ 12:54 • 2d ago
+👁️ 306K • 👍 8K • 💬 2K • ⏱️ 12:54 • 3d ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 258,764 • ❤️ 624 • 8h ago
+⬇️ 258,764 • ❤️ 624 • 9h ago
 
 ---
 
@@ -645,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.4k • 🔱 2.5k • 1h ago
+⭐ 20.4k • 🔱 2.5k • 2h ago
 
 ---
 
@@ -683,7 +683,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 360 • 3h ago
+⭐ 3.7k • 🔱 360 • 4h ago
 
 ---
 
@@ -703,7 +703,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.1k • 🔱 381 • 7h ago
+⭐ 3.1k • 🔱 381 • 8h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 208 • 5h ago
+⭐ 2.9k • 🔱 208 • 6h ago
 
 ---
 
@@ -723,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 309 • 2h ago
+⭐ 2.9k • 🔱 309 • 3h ago
 
 ---
 
@@ -733,7 +733,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 539 • 1h ago
+⭐ 2.8k • 🔱 539 • 2h ago
 
 ---
 
