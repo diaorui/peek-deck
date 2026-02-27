@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T14:09:05.237923+00:00'
+updated: '2026-02-27T15:07:09.460521+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 14:09 UTC  
+**Last Updated:** February 27, 2026 at 15:07 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $236.17B
+**Market Cap:** $235.18B
 Rank #2
 
 **Circulating Supply:** 120,692,268 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.4%
+-60.6%
 
 **All-Time Low:** $0.43
-+452309.9%
++450339.9%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We added Ethereum as a payment option back in 2018, and since then, around 643,000 payments have been made with ETH through our gateway. Most spending happens on hosting, VPN services, and gaming. The average order value is around $159, with most payments ranging from $54 to $607. If you are looking for places that accept Ethereum, we have a merchant directory. Are you spending ETH anywhere these days?
 
-1h ago
+2h ago
 
 ---
 
@@ -88,7 +88,7 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 
 Most people remember the 2017 ICO boom, but the culture started forming in late 2016 with projects like Golem and SingularDTV. Golem (GNT) — November 11, 2016 Golem launched what was essentially an 820,000 ETH hard cap crowdsale. It filled in 29 minutes. $8.6 million for a decentralized computing network. The contract was deliberately simple by design. After the DAO hack a few months earlier, the team and their auditors at Zeppelin went out of their way to avoid complexity. No recursive calls, no token logic mixed with funding logic. Just "send ETH, receive tokens, done." They also built in a migration mechanism from day one (GNT to GLM), which they actually used four years later in 2020. That kind of foresight was rare. SingularDTV — September/October 2016 SingularDTV took a different approach with a tri-contract architecture: one for the crowdsale, one for the token, one for the treasury fund. Stefan George (who later cofounded Gnosis) was involved. They raised $7.5M in 17 minutes. The treasury contract had a 2-year workshop token lockup built in. The speed of these raises changed expectations for every project that followed. Before this, "fast fundraising" for crypto meant days or weeks. After Golem and SingularDTV, everyone expected minutes. Why this matters now These contracts are still on-chain. You can read them, verify the logic, trace every transaction. Unlike web2 startup history where products get shut down and documentation disappears, Ethereum's history is permanently readable. I've been documenting these early contracts at ethereumhistory.com — trying to build a proper archive before the people who remember this era move on. We've got about 40 contracts documented so far from 2015-2017. If you were around during this period or remember other significant early contracts, would love to hear about them.
 
-7m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self-custody wallet control & stablecoin payments mainstream.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 48m ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 1h ago
 
 ---
 
@@ -104,7 +104,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 10h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 11h ago
 
 ---
 
@@ -116,7 +116,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 **[Deterministic Deployments, Part 3: Other Approaches](https://www.reddit.com/r/ethereum/comments/1rg1rhe/deterministic_deployments_part_3_other_approaches/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -124,7 +124,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about courage, community, and calling Ethereum the 8th wonder - not a monument, but a mission.
 
-🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 5h ago
+🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 6h ago
 
 ---
 
@@ -140,7 +140,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
 
-17h ago
+18h ago
 
 ---
 
@@ -152,7 +152,7 @@ Most people know ERC-20 from 2017+ culture, but the design constraints were visi
 
 Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -168,7 +168,7 @@ The Block • 1d ago
 
 Beast Industries plans to launch fintech products. More than half of all stablecoins exist on the Ethereum network. In January, Bitmine invested $200 million into Beast Industries.
 
-dlnews.com • 3h ago
+dlnews.com • 4h ago
 
 ---
 
@@ -176,7 +176,7 @@ dlnews.com • 3h ago
 
 Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
 
-Yahoo Finance • 14h ago
+Yahoo Finance • 15h ago
 
 ---
 
@@ -184,7 +184,7 @@ Yahoo Finance • 14h ago
 
 A shift in Ethereum’s derivatives flow on Binance is starting to hint at a possible change in market structure, even as ETH itself remains in a corrective phase. According to CryptoQuant contributor Darkfost, the Taker Buy Sell Ratio is no longer flashing the same persistent sell-side aggression th…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -206,7 +206,7 @@ Barron's • 2d ago
 
 Both chains are getting upgrades, and both are positioned for the future.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -236,7 +236,7 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 📺 Thomas Kralow
 
-👁️ 28K • 👍 3K • 💬 51 • ⏱️ 5:59 • 1d ago
+👁️ 29K • 👍 3K • 💬 50 • ⏱️ 5:59 • 1d ago
 
 ---
 
@@ -246,37 +246,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 902 • 👍 32 • 💬 2 • ⏱️ 14:30 • 19h ago
-
----
-
-**[The Biggest Crypto Trap I&#39;ve Ever Seen](https://www.youtube.com/watch?v=93kAh88MZKc)**
-
-Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
-
-📺 Altcoin Daily
-
-👁️ 34K • 👍 2K • 💬 104 • ⏱️ 13:24 • 13h ago
-
----
-
-**[HUGE Bitcoin Warning For The Market Ethereum Layer 2 CLASH Major Cardano Binance Coin Shakeup](https://www.youtube.com/watch?v=UMpYTHQS2U0)**
-
-We've got some major shake ups happening in the crypto market right now. it seems 2026 isnt too different from 2021 as we're ...
-
-📺 The Modern Investor
-
-👁️ 2K • 👍 364 • 💬 44 • ⏱️ 29:34 • 4h ago
-
----
-
-**[BITCOIN &amp; ALTCOIN TRAP: DON&#39;T BE FOOLED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oQoO09k8SNw)**
-
-BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 303 • 💬 50 • ⏱️ 17:34 • 16h ago
+👁️ 947 • 👍 31 • 💬 3 • ⏱️ 14:30 • 20h ago
 
 ---
 
@@ -286,7 +256,17 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 37K • 👍 2K • 💬 265 • ⏱️ 13:38 • 1d ago
+👁️ 37K • 👍 2K • 💬 271 • ⏱️ 13:38 • 1d ago
+
+---
+
+**[BITCOIN &amp; ALTCOIN TRAP: DON&#39;T BE FOOLED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oQoO09k8SNw)**
+
+BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
+
+📺 Crypto World
+
+👁️ 8K • 👍 309 • 💬 50 • ⏱️ 17:34 • 17h ago
 
 ---
 
@@ -296,7 +276,17 @@ Ethereum has long been compared to Bitcoin — but according to Sharplink CEO an
 
 📺 Coinage
 
-👁️ 9K • 👍 220 • 💬 58 • ⏱️ 21:21 • 2d ago
+👁️ 9K • 👍 226 • 💬 58 • ⏱️ 21:21 • 2d ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=vVvGqbSK-VU)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 310 • 👍 58 • ⏱️ 7:10 • 1h ago
 
 ---
 
@@ -306,27 +296,37 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 8 • ⏱️ 4:58 • 20h ago
+👁️ 2K • 👍 156 • 💬 8 • ⏱️ 4:58 • 21h ago
 
 ---
 
-**[Bitcoin &amp; Ethereum. Das muss heute brechen! Ich erwarte immernoch weitere Hochs!](https://www.youtube.com/watch?v=-lKEaFVPUZk)**
+**[🚨IMPORTANT Ethereum $1,800 Support BOUNCE! Can It Hold?](https://www.youtube.com/watch?v=U62slGX_PaQ)**
 
-Hier Handle ich Kryptowährungen!! MEXC (Bis zu 8800$ Bonus und jeden Woche Challenges mit bis zu 300.000$ Preispool ...
+IMPORTANT Ethereum $1800 Support BOUNCE! Can It Hold? Ethereum just bounced hard off the critical $1800 support ...
 
-📺 Krypto Trading & Investing
+📺 Tim Warren
 
-👁️ 4K • 👍 695 • 💬 49 • ⏱️ 10:25 • 9h ago
+👁️ 3K • 👍 321 • 💬 82 • ⏱️ 13:04 • 2d ago
 
 ---
 
-**[CRYPTO LIVE TRADING || 27 Feb  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=s-OYLeCPa0Y)**
+**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=UL3x5TsdxhA)**
 
-join my social platforms for updates and analysis ✓Instagram: ...
+Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #crypto #altcoins ▶️ Watch the full episode: ...
 
-📺 Aryan trader Live
+📺 Gerhard - Bitcoin Strategy
 
-👁️ 5K • 👍 2K • 2h ago
+👁️ 892 • 👍 13 • ⏱️ 0:54 • 18h ago
+
+---
+
+**[EXPLOSIVE Ethereum News We Might Have The Craziest Altcoin Season The Crypto Space Has Ever Seen](https://www.youtube.com/watch?v=9JyyG4lipGU)**
+
+I mean... they told us this would happen, so theres no use for any of us being surprised when it actually takes place.
+
+📺 Money Rules - Investing Tips 
+
+👁️ 12K • 👍 1K • 💬 198 • ⏱️ 28:35 • 2d ago
 
 ---
 
