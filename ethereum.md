@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T05:36:00.592373+00:00'
+updated: '2026-02-27T06:56:52.834718+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 05:36 UTC  
+**Last Updated:** February 27, 2026 at 06:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,43 +36,51 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,017.64
+### $2,031.72
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -0.8%  
-**7d:** +3.7%  
-**30d:** -27.5%  
-**90d:** -31.6%  
-**1y:** -8.5%  
+**24h:** -0.9%  
+**7d:** +3.2%  
+**30d:** -27.9%  
+**90d:** -31.9%  
+**1y:** -9.0%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $248.53B
+**Market Cap:** $245.82B
 Rank #2
 
 **Circulating Supply:** 120,692,268 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.3%
+-58.8%
 
 **All-Time Low:** $0.43
-+475752.2%
++470260.0%
 
 ---
 
 ## Reddit: r/ethereum
 
+**[Daily General Discussion February 27, 2026](https://www.reddit.com/r/ethereum/comments/1rfynf1/daily_general_discussion_february_27_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+55m ago
+
+---
+
 **[Highlights from the All Core Developers Execution (ACDE) Call #231](https://www.reddit.com/r/ethereum/comments/1rfvrp6/highlights_from_the_all_core_developers_execution/)**
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 2h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 3h ago
 
 ---
 
@@ -80,7 +88,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-23h ago
+1d ago
 
 ---
 
@@ -88,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
 
-8h ago
+9h ago
 
 ---
 
@@ -96,7 +104,7 @@ Most people know ERC-20 from 2017+ culture, but the design constraints were visi
 
 EF Protocol publishes Strawmap, a technical strawman roadmap that visualizes Ethereum L1 upgrades through 2029, framing dependencies, headliners, & five long-term north stars.
 
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 23h ago
+🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 1d ago
 
 ---
 
@@ -120,7 +128,7 @@ The Ethereum Foundation has published a draft long-term roadmap called “Strawm
 
 https://www.coindesk.com/markets/2026/02/25/vitalik-buterin-sold-17-000-eth-this-month-as-ether-fell-37 Vitalik Buterin sold 17,000 ETH this month as ether dropped 37% Vitalik Buterin has reduced his ether holdings by about 17,000 ETH, or $43 million, in February after pledging a similar amount to fund privacy and security projects. The sales, executed in many small trades via the CoW Protocol, have coincided with a 37% drop in ether's price over the past month to around $1,900. Ether's decline and compressed staking yields near 2.8% have deepened unrealized losses for major corporate holders such as Bitmine Immersion Technologies. The Ethereum co-founder's tracked wallets dropped from 241,000 ETH to 224,000 ETH in February, with sales routed through CoW Protocol in small batches to limit market impact
 
-2h ago
+4h ago
 
 ---
 
@@ -128,7 +136,7 @@ https://www.coindesk.com/markets/2026/02/25/vitalik-buterin-sold-17-000-eth-this
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1d ago
+2d ago
 
 ---
 
@@ -140,14 +148,6 @@ Meta is reportedly preparing stablecoin payments for Facebook, Instagram, and Wh
 
 ---
 
-**[Ethereum Foundation begins staking treasury ETH (~70,000 ETH planned)](https://www.reddit.com/r/ethereum/comments/1rdlbr4/ethereum_foundation_begins_staking_treasury_eth/)**
-
-The Ethereum Foundation has started staking a portion of its ETH treasury, with an initial 2,016 ETH deposit and plans to allocate around 70,000 ETH over time. Staking rewards will be directed back into the EF treasury to fund protocol R&D, ecosystem grants, and core operations. The setup uses distributed validator infrastructure (Dirk and Vouch) and minority clients across multiple jurisdictions to avoid single points of failure and support client diversity. This move effectively turns part of the EF treasury into productive staking capital rather than idle ETH. Some potential implications: slightly reduces liquid ETH supply reinforces ETH’s staking-yield model aligns EF funding with network security signals long-term commitment to PoS Full article: [https://btcusa.com/ethereum-foundation-begins-staking-treasury-eth-allocating-70000-eth-to-validators/]() What do you think — should large ecosystem treasuries be staking by default?
-
-2d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ The Ethereum Foundation has started staking a portion of its ETH treasury, with 
 
 Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 9h ago
 
 TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 19h ago
 
 Both chains are getting upgrades, and both are positioned for the future.
 
-The Motley Fool • 21m ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -180,11 +180,11 @@ The Motley Fool • 21m ago
 
 Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqfbrwkgaFhr9z0bXx2ewDF_byrLE5Llsxo0AlKForvuA5vu-cKCCB1O&gaa_ts=69a130aa&gaa_sig=zyFrEGN1gOnEOC58bK1CkquHHLhcg-CdqeRvEhGd8KhRtqrjsrLToUBCGG9iVFet-QFZRnE6UqFXWG4WL2fROA%3D%3D)**
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqfXkVFfUzk1kTUzs5cq5JsZOYhtno1d-mwACmbm0kblY3cr0HKsLir1&gaa_ts=69a1436d&gaa_sig=ilP-VqyGf0tbyn1r8XopIoicxuWoURCBFRiX_Y28Bj2JO8IePOaXLoRyZSadlOXHAU9XamUmcBfEFeUUbDhO9w%3D%3D)**
 
 Barron's • 2d ago
 
@@ -198,19 +198,17 @@ Decrypt • 1d ago
 
 ---
 
-**[Here’s what fueled Ethereum’s latest price hike above $2000](https://ambcrypto.com/heres-what-fueled-ethereums-latest-price-hike-above-2000/)**
-
-As Friday's Options expiry looms, what might ETH's price do?
-
-AMBCrypto • 1d ago
-
----
-
 **[Saylor Leaves XRP Out, Backs Solana and Ethereum for Digital Credit Future](https://www.tradingview.com/news/coinpedia:bf994c30b094b:0-saylor-leaves-xrp-out-backs-solana-and-ethereum-for-digital-credit-future/)**
 
 Michael Saylor has built his reputation as one of Bitcoin’s most vocal supporters. For years, his message was simple: Bitcoin is digital property, and companies should hold it.But at the recent Strategy World 2026 conference, Saylor shifted the conversation.This time, he wasn’t just talking about B…
 
-TradingView • 16h ago
+TradingView • 18h ago
+
+---
+
+**[Ethereum Is Growing. So Why Is The ETH Price Collapsing?](https://www.forbes.com/sites/greatspeculations/2026/02/24/ethereum-is-growing-so-why-is-the-eth-price-collapsing/)**
+
+Forbes • 2d ago
 
 ---
 
@@ -218,7 +216,7 @@ TradingView • 16h ago
 
 Vitalik Buterin says Ethereum will achieve quantum resistance via hash-based signatures outlined in the new 4-year Strawmap upgrade roadmap.
 
-BeInCrypto • 22h ago
+BeInCrypto • 23h ago
 
 ---
 
@@ -240,7 +238,7 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 📺 Thomas Kralow
 
-👁️ 26K • 👍 3K • 💬 49 • ⏱️ 5:59 • 20h ago
+👁️ 27K • 👍 3K • 💬 50 • ⏱️ 5:59 • 22h ago
 
 ---
 
@@ -250,7 +248,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 539 • 👍 29 • 💬 2 • ⏱️ 14:30 • 11h ago
+👁️ 702 • 👍 31 • 💬 2 • ⏱️ 14:30 • 12h ago
 
 ---
 
@@ -260,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 141 • 💬 10 • ⏱️ 4:58 • 12h ago
+👁️ 2K • 👍 146 • 💬 10 • ⏱️ 4:58 • 13h ago
 
 ---
 
@@ -270,17 +268,7 @@ BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 5K • 👍 258 • 💬 43 • ⏱️ 17:34 • 8h ago
-
----
-
-**[Why Ethereum Isn&#39;t Bitcoin&#39;s Little Brother: Sharplink CEO](https://www.youtube.com/watch?v=pvG3sBnPjZE)**
-
-Ethereum has long been compared to Bitcoin — but according to Sharplink CEO and former BlackRock digital assets leader ...
-
-📺 Coinage
-
-👁️ 8K • 👍 211 • 💬 58 • ⏱️ 21:21 • 1d ago
+👁️ 6K • 👍 282 • 💬 47 • ⏱️ 17:34 • 9h ago
 
 ---
 
@@ -290,17 +278,27 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 34K • 👍 2K • 💬 255 • ⏱️ 13:38 • 1d ago
+👁️ 35K • 👍 2K • 💬 255 • ⏱️ 13:38 • 1d ago
 
 ---
 
-**[WILL ETH PUMP HIGHER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=n7suGq-X9t0)**
+**[Why Ethereum Isn&#39;t Bitcoin&#39;s Little Brother: Sharplink CEO](https://www.youtube.com/watch?v=pvG3sBnPjZE)**
 
-ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+Ethereum has long been compared to Bitcoin — but according to Sharplink CEO and former BlackRock digital assets leader ...
 
-📺 Cilinix Crypto
+📺 Coinage
 
-👁️ 247 • 👍 13 • 💬 4 • ⏱️ 4:21 • 19h ago
+👁️ 9K • 👍 214 • 💬 58 • ⏱️ 21:21 • 1d ago
+
+---
+
+**[Bitcoin &amp; Ethereum. Das muss heute brechen! Ich erwarte immernoch weitere Hochs!](https://www.youtube.com/watch?v=-lKEaFVPUZk)**
+
+Hier Handle ich Kryptowährungen!! MEXC (Bis zu 8800$ Bonus und jeden Woche Challenges mit bis zu 300.000$ Preispool ...
+
+📺 Krypto Trading & Investing
+
+👁️ 1K • 👍 426 • 💬 52 • ⏱️ 10:25 • 2h ago
 
 ---
 
@@ -310,27 +308,27 @@ Brian from Santiment joined me to review the Onchain metrics for the crypto mark
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 161 • 💬 68 • ⏱️ 23:27 • 15h ago
+👁️ 2K • 👍 161 • 💬 68 • ⏱️ 23:27 • 17h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=pWBAmEbwm9U)**
+**[EXPLOSIVE Ethereum News We Might Have The Craziest Altcoin Season The Crypto Space Has Ever Seen](https://www.youtube.com/watch?v=9JyyG4lipGU)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+I mean... they told us this would happen, so theres no use for any of us being surprised when it actually takes place.
 
-📺 More Crypto Online
+📺 Money Rules - Investing Tips 
 
-👁️ 2K • 👍 124 • 💬 6 • ⏱️ 4:33 • 17h ago
+👁️ 12K • 👍 1K • 💬 197 • ⏱️ 28:35 • 1d ago
 
 ---
 
-**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=UL3x5TsdxhA)**
+**[WILL ETH PUMP HIGHER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=n7suGq-X9t0)**
 
-Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #crypto #altcoins ▶️ Watch the full episode: ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Gerhard - Bitcoin Strategy
+📺 Cilinix Crypto
 
-👁️ 402 • 👍 8 • ⏱️ 0:54 • 9h ago
+👁️ 265 • 👍 13 • 💬 4 • ⏱️ 4:21 • 20h ago
 
 ---
 
