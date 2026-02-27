@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T23:25:59.406376+00:00'
+updated: '2026-02-27T23:48:03.855615+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
 - repositories
-- social
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 23:25 UTC  
+**Last Updated:** February 27, 2026 at 23:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -65,7 +65,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-7h ago
+8h ago
 
 ---
 
@@ -73,13 +73,13 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 2h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 3h ago
 
 ---
 
 **[Murder is coming to AI, but not to Claude](https://www.reddit.com/r/artificial/comments/1rglko1/murder_is_coming_to_ai_but_not_to_claude/)**
 
-🔗 [zeitgeistml.substack.com](https://zeitgeistml.substack.com/p/murder-is-coming-to-ai-but-not-to) • 36m ago
+🔗 [zeitgeistml.substack.com](https://zeitgeistml.substack.com/p/murder-is-coming-to-ai-but-not-to) • 58m ago
 
 ---
 
@@ -121,7 +121,7 @@ For the last two years, my biggest worry about AI wasn't AGI or some science fic
 
 **[Trump Orders Government to Stop Using Anthropic After Pentagon Standoff](https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html)**
 
-The New York Times • 7h ago
+The New York Times • 8h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 2h ago
 
 Plus, what the Texas primaries will reveal about the state of both parties.
 
-NBC News • 53m ago
+NBC News • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ blog.google • 1d ago
 
 All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
 
-Yahoo Finance • 8h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -315,7 +315,7 @@ American artificial intelligence company Anthropic could be at risk being design
 
 📺 CNN
 
-👁️ 96K • 👍 2K • 💬 848 • ⏱️ 8:05 • 8h ago
+👁️ 96K • 👍 2K • 💬 848 • ⏱️ 8:05 • 9h ago
 
 ---
 
@@ -355,7 +355,7 @@ OpenAI think they're building something to capture all out futures. When they're
 
 📺 The Tech Report
 
-👁️ 37K • 👍 2K • 💬 443 • ⏱️ 33:47 • 4h ago
+👁️ 37K • 👍 2K • 💬 443 • ⏱️ 33:47 • 5h ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 264,531 • ❤️ 306 • 3h ago
+⬇️ 264,531 • ❤️ 306 • 4h ago
 
 ---
 

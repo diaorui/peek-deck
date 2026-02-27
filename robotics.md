@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T23:25:59.421752+00:00'
+updated: '2026-02-27T23:48:03.874345+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 23:25 UTC  
+**Last Updated:** February 27, 2026 at 23:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-8h ago
+9h ago
 
 ---
 
@@ -58,7 +58,7 @@ Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -148,7 +148,7 @@ WSJ • 1h ago
 
 Explore how vision-language-action models like Helix, GR00T N1, and RT-1 are enabling robots to understand instructions and act autonomously.
 
-The Robot Report • 1h ago
+The Robot Report • 2h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Robot Report • 1h ago
 
 Dieter Pletscher of Kassow Robots shares advice for overcoming common hurdles in deploying collaborative robots.
 
-The Robot Report • 59m ago
+The Robot Report • 1h ago
 
 ---
 
@@ -260,7 +260,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 28K • 👍 531 • 💬 189 • ⏱️ 12:16 • 21h ago
+👁️ 28K • 👍 531 • 💬 189 • ⏱️ 12:16 • 22h ago
 
 ---
 

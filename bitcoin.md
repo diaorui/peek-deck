@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T23:25:59.413800+00:00'
+updated: '2026-02-27T23:48:03.865113+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 23:25 UTC  
+**Last Updated:** February 27, 2026 at 23:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 11h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 12h ago
 
 ---
 
@@ -125,7 +125,7 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-4h ago
+5h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 1d ago
 
 Blockstream CEO Adam Back told CNBC that Bitcoin (CRYPTO: BTC) lacks downside support because retail investors are “all in” with no cash left to buy dips, explaining the 25% year-to-date decline. The ‘All In’ Problem Back on Monday explained that...
 
-Yahoo Finance • 12h ago
+Yahoo Finance • 13h ago
 
 ---
 
@@ -187,7 +187,7 @@ Yahoo Finance • 12h ago
 
 Market participants with long-term vision are buying downside protection.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -271,7 +271,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
-⬆️ 1 • 💬 1 • 20h ago • [ordain.art](https://ordain.art)
+⬆️ 1 • 💬 1 • 21h ago • [ordain.art](https://ordain.art)
 
 ---
 
@@ -325,7 +325,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 45K • 👍 3K • 💬 130 • ⏱️ 13:24 • 22h ago
+👁️ 45K • 👍 3K • 💬 130 • ⏱️ 13:24 • 23h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 608 • 💬 133 • ⏱️ 25:02 • 8h ago
+👁️ 10K • 👍 608 • 💬 133 • ⏱️ 25:02 • 9h ago
 
 ---
 

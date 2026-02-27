@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T23:25:59.419005+00:00'
+updated: '2026-02-27T23:48:03.871175+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
-- news
 - social
+- news
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 23:25 UTC  
+**Last Updated:** February 27, 2026 at 23:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ At the current moment the correct path to post quantum Ethereum transactions loo
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
 
-5h ago
+6h ago
 
 ---
 
@@ -120,7 +120,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 7h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 8h ago
 
 ---
 
@@ -144,7 +144,7 @@ From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 19h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -220,7 +220,7 @@ The Motley Fool • 18h ago
 
 Dubai, UAE, Feb.  27, 2026  (GLOBE NEWSWIRE) -- Pepeto's presale just crossed $7.35 million and stages are filling faster than any previous round....
 
-markets.businessinsider.com • 5h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -228,7 +228,7 @@ markets.businessinsider.com • 5h ago
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 11h ago
+Polymarket • 12h ago
 
 ---
 
@@ -292,7 +292,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 221 • 👍 7 • 💬 1 • ⏱️ 4:27 • 13h ago
+👁️ 221 • 👍 7 • 💬 1 • ⏱️ 4:27 • 14h ago
 
 ---
 
@@ -312,7 +312,7 @@ We've got some major shake ups happening in the crypto market right now. it seem
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 700 • 💬 63 • ⏱️ 29:34 • 13h ago
+👁️ 6K • 👍 700 • 💬 63 • ⏱️ 29:34 • 14h ago
 
 ---
 
@@ -322,7 +322,7 @@ The Pectra upgrade marks an important event for Ethereum, significantly boosting
 
 📺 ReferCoin Lab
 
-👁️ 2K • 👍 40 • ⏱️ 0:45 • 5h ago
+👁️ 2K • 👍 40 • ⏱️ 0:45 • 6h ago
 
 ---
 
