@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T10:39:26.306098+00:00'
+updated: '2026-02-27T11:33:34.533002+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 10:39 UTC  
+**Last Updated:** February 27, 2026 at 11:33 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,968.38
+### $66,401.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.8%  
-**7d:** -0.4%  
-**30d:** -20.0%  
-**90d:** -25.2%  
-**1y:** -19.6%  
+**24h:** -2.3%  
+**7d:** -2.2%  
+**30d:** -21.4%  
+**90d:** -26.5%  
+**1y:** -21.0%  
 
 ---
 
@@ -77,31 +77,31 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Decided to buy $BTC instead of a Rolex.](https://www.reddit.com/r/Bitcoin/comments/1rfnlhy/decided_to_buy_btc_instead_of_a_rolex/)**
-
-See you in 10 years.
-
-12h ago
-
----
-
 **[My latest mural just received 20k sats via QR code 🟠 Permissionless patronage in real life. Thank you 🙏🏼](https://www.reddit.com/r/Bitcoin/comments/1rfdtil/my_latest_mural_just_received_20k_sats_via_qr/)**
 
 No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
-18h ago
+19h ago
+
+---
+
+**[Decided to buy $BTC instead of a Rolex.](https://www.reddit.com/r/Bitcoin/comments/1rfnlhy/decided_to_buy_btc_instead_of_a_rolex/)**
+
+See you in 10 years.
+
+13h ago
 
 ---
 
 **[All money is money](https://www.reddit.com/r/Bitcoin/comments/1rfk4kg/all_money_is_money/)**
 
-14h ago
+15h ago
 
 ---
 
 **[Justin Sun at LONGITUDE HK recalls buying $BTC at $0.20 when no one took it seriously. Now he says crypto is being built as payment rails for AGI. "Even the Terminator would need blockchain to transact."](https://www.reddit.com/r/Bitcoin/comments/1rfyktf/justin_sun_at_longitude_hk_recalls_buying_btc_at/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -121,11 +121,27 @@ Be careful plebs, they want your bitcoin!
 
 ---
 
+**[Accidental fortune - young entrepreneur becomes overnight millionaire from early 2000s investment. Question: How many other self-made billionaires are out there that "don't even know"?](https://www.reddit.com/r/Bitcoin/comments/1rftvdz/accidental_fortune_young_entrepreneur_becomes/)**
+
+https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-fortune/ This man invested money in 2009 and returned later to see it worth almost 900k. The possibilities are endless. It makes me wonder how many other millionaires are out there that don't even know. Have you invested money into a wallet that you forgot about / have any of your friends? With Bitcoin increasing over the decades the way it has, I wonder how many more of these 'uncovered a boatload of free & unlimited cash' stories we'll find?
+
+9h ago
+
+---
+
 **[I made a simple DCA calculator, hope it's useful for someone](https://www.reddit.com/r/Bitcoin/comments/1rfsebj/i_made_a_simple_dca_calculator_hope_its_useful/)**
 
 Hey r/bitcoin. I've been lurking here for a while and noticed there are a lot of posts from people asking if it's too late to start, or if small amounts are even worth it. Figured I'd try to build something that helps answer that. It's a pretty straightforward DCA calculator that uses real historical BTC prices. You plug in an amount, a start date, and it shows what you'd have today. It also compares against the S&P 500 and a high-yield savings account which I thought was a nice touch. For example $200/month since January 2021 would be about $20.2K today from $12,400 invested. Through the crash to $16K, FTX, all of it. Still up 62.8%. I know the veterans here don't need a calculator to know DCA works, but maybe it's handy to share with someone who's still on the fence. 21vox.com/dca-calculator It's free, no signups or anything. Still a work in progress honestly so if anything looks off or you have ideas for features, I'm all ears.
 
-9h ago
+10h ago
+
+---
+
+**[If Your 1099-DA still hasn't shown up, here's a few things to consider.](https://www.reddit.com/r/Bitcoin/comments/1rfod9a/if_your_1099da_still_hasnt_shown_up_heres_a_few/)**
+
+There's still a lot of people in here waiting on the 1099-DA that haven't arrived yet so figured I'd put together some options for how to think about this. Quick context on why some forms are late: The IRS gave exchanges a transitional relief period for the first year of 1099-DA reporting, which basically means no penalties for delays. Most Coinbase forms have already been sent out but some users may not receive theirs until mid-March. Kraken has a similar timeline. Some smaller exchanges haven't given any date at all and a few may not issue until late 2026 or even early 2027. So what are some options in the meantime. → If your exchange has communicated a timeline, it's probably worth waiting for the form before filing. You'll want your proceeds to match what they report to the IRS and having the actual form makes that easier to verify. But that doesn't mean you need to sit around doing nothing. You can start gathering the rest of your data now. Wallet history, DeFi activity, cost basis for anything you moved between platforms. That's the time-consuming part and none of it depends on the 1099-DA arriving. → If it's a smaller exchange with no timeline, you'll want to consider how to handle that activity on your return. You still have access to your transaction history on the platform. However, you'll also need to decide which 8949 checkbox to report those transactions under, and that part can get tricky. It may be worth speaking with a tax advisor if you aren't sure of the impact. → Filing an extension is genuinely worth considering this year. It pushes your filing deadline to October 15. You'd still need to pay any estimated tax owed by April 15, but the actual return and all the detail work gets significantly more breathing room. There's a practical benefit here too. If you file before the extension deadline and a late 1099-DA shows up that changes your numbers, your updated filing counts as a superseding return instead of an amended one. → Extensions aren't a red flag by the way. Millions of people file them every year. Given how much is delayed and how new everything is this season, it might be a reasonable path for a lot of people. Main things to be cautious about right now → Rushing to file with incomplete or inaccurate data just to hit April 15 → Not filing or making any estimated payment because the form hasn't arrived → Assuming a late form means you don't need to worry about it The exchange will eventually send their copy to the IRS and when they do, the IRS will compare it to whatever you filed. You'll want the proceeds to line up. tl;dr - if your exchange has given a timeline, consider waiting but start prepping everything else now. if you're dealing with a smaller exchange and no timeline, think about filing an extension to give yourself room. either way, an extension is probably worth considering this year, it's a standard process and it gives you space to get this right rather than rushing.
+
+13h ago
 
 ---
 
@@ -137,45 +153,9 @@ Hey r/bitcoin. I've been lurking here for a while and noticed there are a lot of
 
 ---
 
-**[Accidental fortune - young entrepreneur becomes overnight millionaire from early 2000s investment. Question: How many other self-made billionaires are out there that "don't even know"?](https://www.reddit.com/r/Bitcoin/comments/1rftvdz/accidental_fortune_young_entrepreneur_becomes/)**
-
-https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-fortune/ This man invested money in 2009 and returned later to see it worth almost 900k. The possibilities are endless. It makes me wonder how many other millionaires are out there that don't even know. Have you invested money into a wallet that you forgot about / have any of your friends? With Bitcoin increasing over the decades the way it has, I wonder how many more of these 'uncovered a boatload of free & unlimited cash' stories we'll find?
-
-8h ago
-
----
-
-**[If Your 1099-DA still hasn't shown up, here's a few things to consider.](https://www.reddit.com/r/Bitcoin/comments/1rfod9a/if_your_1099da_still_hasnt_shown_up_heres_a_few/)**
-
-There's still a lot of people in here waiting on the 1099-DA that haven't arrived yet so figured I'd put together some options for how to think about this. Quick context on why some forms are late: The IRS gave exchanges a transitional relief period for the first year of 1099-DA reporting, which basically means no penalties for delays. Most Coinbase forms have already been sent out but some users may not receive theirs until mid-March. Kraken has a similar timeline. Some smaller exchanges haven't given any date at all and a few may not issue until late 2026 or even early 2027. So what are some options in the meantime. → If your exchange has communicated a timeline, it's probably worth waiting for the form before filing. You'll want your proceeds to match what they report to the IRS and having the actual form makes that easier to verify. But that doesn't mean you need to sit around doing nothing. You can start gathering the rest of your data now. Wallet history, DeFi activity, cost basis for anything you moved between platforms. That's the time-consuming part and none of it depends on the 1099-DA arriving. → If it's a smaller exchange with no timeline, you'll want to consider how to handle that activity on your return. You still have access to your transaction history on the platform. However, you'll also need to decide which 8949 checkbox to report those transactions under, and that part can get tricky. It may be worth speaking with a tax advisor if you aren't sure of the impact. → Filing an extension is genuinely worth considering this year. It pushes your filing deadline to October 15. You'd still need to pay any estimated tax owed by April 15, but the actual return and all the detail work gets significantly more breathing room. There's a practical benefit here too. If you file before the extension deadline and a late 1099-DA shows up that changes your numbers, your updated filing counts as a superseding return instead of an amended one. → Extensions aren't a red flag by the way. Millions of people file them every year. Given how much is delayed and how new everything is this season, it might be a reasonable path for a lot of people. Main things to be cautious about right now → Rushing to file with incomplete or inaccurate data just to hit April 15 → Not filing or making any estimated payment because the form hasn't arrived → Assuming a late form means you don't need to worry about it The exchange will eventually send their copy to the IRS and when they do, the IRS will compare it to whatever you filed. You'll want the proceeds to line up. tl;dr - if your exchange has given a timeline, consider waiting but start prepping everything else now. if you're dealing with a smaller exchange and no timeline, think about filing an extension to give yourself room. either way, an extension is probably worth considering this year, it's a standard process and it gives you space to get this right rather than rushing.
-
-12h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
-
-**[Bitcoin Miner Tied to Trumps Pummeled by Crypto Crash](https://finance.yahoo.com/news/bitcoin-miner-tied-trump-family-114935753.html)**
-
-American Bitcoin doubled down on a pure mining-and-hoarding strategy just as virtually every major rival fled to artificial intelligence, a bet championed by co-founder Eric Trump that looked prescient when Bitcoin was surging past $126,000 and increasingly precarious with the token trading around $70,000.  “With Bitcoin steeply drawn down from the highs, the retention strategy can amplify losses,” said Matthew Kimmell, a digital asset analyst at CoinShares.  The downturn puts American Bitcoin at the sharp end of a broader pullback across the Trump family’s crypto interests.
-
-Yahoo Finance • 17h ago
-
----
-
-**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
-
-Reuters • 22h ago
-
----
-
-**[Opinion | Donald Trump Is the Crypto President. Why Is It Struggling? - The New York Times](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)**
-
-The New York Times • 1d ago
-
----
 
 **[Bitcoin fans latch on to ‘ridiculous’ Jane Street conspiracy to explain price slump](https://fortune.com/2026/02/26/bitcoin-slump-jane-street-conspiracy-theory/)**
 
@@ -185,31 +165,41 @@ Fortune • 14h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeks-ARn3Ul1PkVbdqh6kHwuq2nm5995XKUQ0lWT6LQaBgIZU2bXCuZ&gaa_ts=69a16a7d&gaa_sig=DBVk-ERnX43Z8iys53XDzRspquGLwuQrpL-b7IuoFRPwv1_NntgX9pf7bloSnHpTDnt64q9htCxE2AYdXrGXfg%3D%3D)**
+**[MARA swings to $1.7 billion Q4 loss on bitcoin markdown, shares jump 15% after Starwood AI deal](https://www.theblock.co/post/391530/mara-swings-1-7-billion-q4-loss-bitcoin-markdown-shares-jump-15-starwood-ai-deal)**
 
-Barron's • 1h ago
+A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
 
----
-
-**[Jane Street Speculation Renews Scrutiny of Bitcoin ETF Market Mechanics](https://finance.yahoo.com/news/jane-street-speculation-renews-scrutiny-015724564.html)**
-
-Online claims have drawn attention to how institutional middlemen hedge Bitcoin ETF shares, exposing a gap between inflows and spot buying.
-
-Yahoo Finance • 1d ago
-
----
-
-**[Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit says](https://www.coindesk.com/markets/2026/02/27/bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-below-usd60-000-deribit-says)**
-
-Market participants with long-term vision are buying downside protection.
-
-CoinDesk • 3h ago
+The Block • 12h ago
 
 ---
 
 **[Trump-Linked Miner Reports Results, MARA Surges On AI Partnership](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
 
-Investor's Business Daily • 12h ago
+Investor's Business Daily • 13h ago
+
+---
+
+**[MARA Shares Rise After Bitcoin Miner Strikes AI Data Center Deal](https://finance.yahoo.com/news/mara-shares-rise-bitcoin-miner-030057696.html)**
+
+The Bitcoin miner moved to convert U.S. sites into AI-ready campuses, though analysts say confirmed tenants will be key.
+
+Yahoo Finance • 8h ago
+
+---
+
+**['Bitcoin Retail Investors Are All In' And That's Why There's No Floor, Blockstream CEO Says](https://finance.yahoo.com/news/bitcoin-retail-investors-thats-why-104508164.html)**
+
+Blockstream CEO Adam Back told CNBC that Bitcoin (CRYPTO: BTC) lacks downside support because retail investors are “all in” with no cash left to buy dips, explaining the 25% year-to-date decline. The ‘All In’ Problem Back on Monday explained that...
+
+Yahoo Finance • 48m ago
+
+---
+
+**[U.S. spot BTC ETFs see $1.1 billion in 3-day inflows, set for biggest week since mid-January](https://www.coindesk.com/markets/2026/02/27/u-s-spot-bitcoin-etfs-set-for-biggest-week-in-6-after-adding-usd1-1-billion-in-three-days)**
+
+The inflows coincide with a rebound in the Coinbase Premium index, signaling renewed U.S. demand.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -217,7 +207,13 @@ Investor's Business Daily • 12h ago
 
 Bitcoin price faces resistance as old supply grows by $12 billion and whale wallets increase, while short positions cap breakout momentum.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
+
+---
+
+**[He Hopes to Turn the Island of Nevis Into a Libertarian Paradise, With Crypto](https://www.nytimes.com/2026/02/26/business/st-kitts-nevis-destiny-olivier-janssens-crypto-libertarian.html)**
+
+The New York Times • 18h ago
 
 ---
 
@@ -225,7 +221,15 @@ Yahoo Finance • 2h ago
 
 The private investment firms of Leon Cooperman and the Walton family disclosed bold stock buys last quarter.
 
-CNBC • 22h ago
+CNBC • 23h ago
+
+---
+
+**[Bitcoin Miner Tied to Trumps Pummeled by Crypto Crash](https://finance.yahoo.com/news/bitcoin-miner-tied-trump-family-114935753.html)**
+
+American Bitcoin doubled down on a pure mining-and-hoarding strategy just as virtually every major rival fled to artificial intelligence, a bet championed by co-founder Eric Trump that looked prescient when Bitcoin was surging past $126,000 and increasingly precarious with the token trading around $70,000.  “With Bitcoin steeply drawn down from the highs, the retention strategy can amplify losses,” said Matthew Kimmell, a digital asset analyst at CoinShares.  The downturn puts American Bitcoin at the sharp end of a broader pullback across the Trump family’s crypto interests.
+
+Yahoo Finance • 18h ago
 
 ---
 
@@ -255,7 +259,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 **[Fix the money, fix the world: Bitcoin as techno-libertarian religion](https://news.ycombinator.com/item?id=47165953)**
 
-⬆️ 2 • 💬 0 • 20h ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
+⬆️ 2 • 💬 0 • 21h ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
 
 ---
 
@@ -271,7 +275,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
-⬆️ 1 • 💬 1 • 7h ago • [ordain.art](https://ordain.art)
+⬆️ 1 • 💬 1 • 8h ago • [ordain.art](https://ordain.art)
 
 ---
 
@@ -285,7 +289,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
 
-⬆️ 1 • 💬 0 • 16h ago • [GitHub](https://github.com/pyoneerC/deadhand)
+⬆️ 1 • 💬 0 • 17h ago • [GitHub](https://github.com/pyoneerC/deadhand)
 
 ---
 
@@ -315,7 +319,7 @@ Is Jane Street the reason Bitcoin is not sitting at 150K right now? Massive clai
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 2K • 💬 115 • ⏱️ 24:42 • 11h ago
+👁️ 18K • 👍 2K • 💬 115 • ⏱️ 24:42 • 12h ago
 
 ---
 
@@ -325,7 +329,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 10K • 👍 1K • 💬 105 • ⏱️ 8:44 • 14h ago
+👁️ 10K • 👍 1K • 💬 105 • ⏱️ 8:44 • 15h ago
 
 ---
 
@@ -335,7 +339,7 @@ Yesterday the Office of the Comptroller of the Currency (OCC) published a 376 pa
 
 📺 Paul Barron Network
 
-👁️ 103K • 👍 5K • 💬 1K • ⏱️ 15:37 • 14h ago
+👁️ 103K • 👍 5K • 💬 1K • ⏱️ 15:37 • 15h ago
 
 ---
 
@@ -345,7 +349,7 @@ Nick Valdez looks at an insanely accurate Bitcoin signal that says “THE BOTTOM
 
 📺 Discover Crypto
 
-👁️ 6K • 👍 347 • 💬 68 • ⏱️ 7:23 • 10h ago
+👁️ 6K • 👍 347 • 💬 68 • ⏱️ 7:23 • 11h ago
 
 ---
 
@@ -355,7 +359,7 @@ Bitcoin, Jane Street allegations, MSTR, NVIDIA, SOL, and more! BITUNIX TRADE THE
 
 📺 Lark Davis
 
-👁️ 20K • 👍 950 • 💬 111 • ⏱️ 15:02 • 22h ago
+👁️ 20K • 👍 950 • 💬 111 • ⏱️ 15:02 • 23h ago
 
 ---
 
@@ -363,7 +367,7 @@ Bitcoin, Jane Street allegations, MSTR, NVIDIA, SOL, and more! BITUNIX TRADE THE
 
 📺 Andrei Jikh
 
-👁️ 45K • 👍 1K • 💬 95 • ⏱️ 1:18 • 17h ago
+👁️ 45K • 👍 1K • 💬 95 • ⏱️ 1:18 • 18h ago
 
 ---
 
@@ -393,7 +397,7 @@ Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 49K • 👍 3K • 💬 150 • ⏱️ 12:57 • 20h ago
+👁️ 49K • 👍 3K • 💬 150 • ⏱️ 12:57 • 21h ago
 
 ---
 
@@ -403,7 +407,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 7K • 👍 269 • 💬 13 • ⏱️ 1:07 • 15h ago
+👁️ 7K • 👍 269 • 💬 13 • ⏱️ 1:07 • 16h ago
 
 ---
 

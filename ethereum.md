@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T10:39:26.312063+00:00'
+updated: '2026-02-27T11:33:34.539001+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - cryptocurrency
 - videos
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 10:39 UTC  
+**Last Updated:** February 27, 2026 at 11:33 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.8%  
-**7d:** +2.8%  
-**30d:** -28.1%  
-**90d:** -32.2%  
-**1y:** -9.3%  
+**24h:** -4.8%  
+**7d:** -0.1%  
+**30d:** -30.2%  
+**90d:** -34.1%  
+**1y:** -11.9%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-4h ago
+5h ago
 
 ---
 
@@ -86,7 +86,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 **[Deterministic Deployments, Part 3: Other Approaches](https://www.reddit.com/r/ethereum/comments/1rg1rhe/deterministic_deployments_part_3_other_approaches/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -94,7 +94,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about courage, community, and calling Ethereum the 8th wonder - not a monument, but a mission.
 
-🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 1h ago
+🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 2h ago
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
 
-13h ago
+14h ago
 
 ---
 
@@ -178,13 +178,13 @@ Yahoo Finance • 1h ago
 
 Beast Industries plans to launch fintech products. More than half of all stablecoins exist on the Ethereum network. In January, Bitmine invested $200 million into Beast Industries.
 
-dlnews.com • 25m ago
+dlnews.com • 1h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdPDvOBj_trYreFMRkuG3S5NWFkQ90tJt4S6Nb3o3PGm6FppUSxfcl9&gaa_ts=69a177c5&gaa_sig=ccf8w9zfhZ78WL9kqf6-6GDFYj27n9NWr3CfwG4eymlv0zUOr3UsomhQtiYFikn65ARrLnElpfuO76fLV_mhHw%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -192,7 +192,7 @@ Barron's • 1h ago
 
 Both chains are getting upgrades, and both are positioned for the future.
 
-The Motley Fool • 5h ago
+The Motley Fool • 6h ago
 
 ---
 
@@ -200,7 +200,7 @@ The Motley Fool • 5h ago
 
 Michael Saylor has built his reputation as one of Bitcoin’s most vocal supporters. For years, his message was simple: Bitcoin is digital property, and companies should hold it.But at the recent Strategy World 2026 conference, Saylor shifted the conversation.This time, he wasn’t just talking about B…
 
-TradingView • 21h ago
+TradingView • 22h ago
 
 ---
 
@@ -222,7 +222,7 @@ Polymarket • 1d ago
 
 **[Ethereum Is Growing. So Why Is The ETH Price Collapsing?](https://www.forbes.com/sites/greatspeculations/2026/02/24/ethereum-is-growing-so-why-is-the-eth-price-collapsing/)**
 
-Forbes • 2d ago
+Forbes • 3d ago
 
 ---
 
@@ -246,7 +246,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 766 • 👍 31 • 💬 2 • ⏱️ 14:30 • 16h ago
+👁️ 766 • 👍 31 • 💬 2 • ⏱️ 14:30 • 17h ago
 
 ---
 
@@ -256,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 150 • 💬 8 • ⏱️ 4:58 • 17h ago
+👁️ 2K • 👍 150 • 💬 8 • ⏱️ 4:58 • 18h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 7K • 👍 294 • 💬 47 • ⏱️ 17:34 • 13h ago
+👁️ 7K • 👍 294 • 💬 47 • ⏱️ 17:34 • 14h ago
 
 ---
 
@@ -286,7 +286,7 @@ Hier Handle ich Kryptowährungen!! MEXC (Bis zu 8800$ Bonus und jeden Woche Chal
 
 📺 Krypto Trading & Investing
 
-👁️ 3K • 👍 619 • 💬 46 • ⏱️ 10:25 • 5h ago
+👁️ 3K • 👍 619 • 💬 46 • ⏱️ 10:25 • 6h ago
 
 ---
 
@@ -316,7 +316,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Profit First
 
-👁️ 1K • 👍 105 • ⏱️ 5:46 • 7h ago
+👁️ 1K • 👍 105 • ⏱️ 5:46 • 8h ago
 
 ---
 
@@ -326,7 +326,7 @@ I mean... they told us this would happen, so theres no use for any of us being s
 
 📺 Money Rules - Investing Tips 
 
-👁️ 12K • 👍 1K • 💬 198 • ⏱️ 28:35 • 1d ago
+👁️ 12K • 👍 1K • 💬 198 • ⏱️ 28:35 • 2d ago
 
 ---
 

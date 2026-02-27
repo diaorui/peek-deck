@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T10:39:26.315250+00:00'
+updated: '2026-02-27T11:33:34.542229+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 10:39 UTC  
+**Last Updated:** February 27, 2026 at 11:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-20h ago
+21h ago
 
 ---
 
@@ -44,15 +44,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-23h ago
-
----
-
-**[Boston Dynamics’ Atlas GM on Retiring R1 and Building the Production Humanoid](https://www.reddit.com/r/robotics/comments/1rfat9z/boston_dynamics_atlas_gm_on_retiring_r1_and/)**
-
-Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
-
-20h ago
+1d ago
 
 ---
 
@@ -60,7 +52,15 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Hello, I'm looking for a vendor selling a reliable battle tested mobile base platform Should expose access to power rails, control over power output Autonomous docking and reliable charging a plus, decent battery life Something differential drive or skid, holonomic preferred Looking for a hardware vendor, not looking for service business model US preferred Thanks!
 
-2h ago
+3h ago
+
+---
+
+**[Boston Dynamics’ Atlas GM on Retiring R1 and Building the Production Humanoid](https://www.reddit.com/r/robotics/comments/1rfat9z/boston_dynamics_atlas_gm_on_retiring_r1_and/)**
+
+Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
+
+21h ago
 
 ---
 
@@ -68,7 +68,7 @@ Hello, I'm looking for a vendor selling a reliable battle tested mobile base pla
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 21h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 22h ago
 
 ---
 
@@ -82,7 +82,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -90,13 +90,13 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-23h ago
+1d ago
 
 ---
 
 **[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -124,7 +124,7 @@ TechCrunch • 1d ago
 
 AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
 
-Los Angeles Times • 1d ago
+Los Angeles Times • 2d ago
 
 ---
 
@@ -132,7 +132,7 @@ Los Angeles Times • 1d ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
@@ -148,13 +148,7 @@ The Conversation • 2d ago
 
 Unitree's G1 and H2 robots performed kung fu on CMG's 2026 Spring Festival Gala, alongside students from Tagou Martial Arts School.
 
-bgr.com • 20h ago
-
----
-
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
-
-Bloomberg • 7h ago
+bgr.com • 21h ago
 
 ---
 
@@ -162,7 +156,13 @@ Bloomberg • 7h ago
 
 Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
 
-Fortune • 21h ago
+Fortune • 22h ago
+
+---
+
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
+
+Bloomberg.com • 8h ago
 
 ---
 
@@ -174,19 +174,19 @@ Carnegie Mellon University | CMU • 1d ago
 
 ---
 
-**[Unitree CEO: Merz visit shines global attention on Chinese robotics](https://news.cgtn.com/news/2026-02-26/Unitree-CEO-Merz-visit-shines-global-attention-on-Chinese-robotics-1L5lxf8Ibo4/p.html)**
-
-German Chancellor Friedrich Merz led a delegation visit to Unitree Robotics in Hangzhou, east China's Zhejiang Province on Thursday. Unitree's founder and CEO Wang Xingxing said the visit highlights the global focus on China's robotics industry, and
-
-news.cgtn.com • 19h ago
-
----
-
 **[Faraday Future to Kick Off 2026 EAI Robotics Deliveries Beginning Feb. 27 by Delivering to an Airbnb Operator; Establishes First U.S. "EAI Robot & Vehicle + Vacation Rental" Deployment](https://finance.yahoo.com/news/faraday-future-kick-off-2026-054200057.html)**
 
 LOS ANGELES, February 26, 2026--Faraday Future Intelligent Electric Inc. (Nasdaq: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today announced its kick-off plans for its first EAI Robotics deliveries, just weeks after the Company announced its entry into the growing robotics industry. Its first deliveries are scheduled for February 27 to Golden Hills Investment LLC, a Florida-based high-end vacation rental investor and operator.
 
 Yahoo Finance • 1d ago
+
+---
+
+**[Grand Forks and Thompson students advance to a world championship robotics tournament](https://www.grandforksherald.com/news/local/grand-forks-and-thompson-students-advance-to-a-world-championship-robotics-tournament)**
+
+The North Dakota VEX Robotics State Tournament was hosted at the Grand Forks Public Schools Career Impact Academy over the weekend; students from Red River and Thompson High School won.
+
+Grand Forks Herald • 12h ago
 
 ---
 
@@ -200,7 +200,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 11K • 👍 219 • 💬 78 • ⏱️ 12:16 • 9h ago
+👁️ 11K • 👍 219 • 💬 78 • ⏱️ 12:16 • 10h ago
 
 ---
 
@@ -220,7 +220,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 16K • 👍 146 • 💬 48 • ⏱️ 2:18 • 19h ago
+👁️ 16K • 👍 146 • 💬 48 • ⏱️ 2:18 • 20h ago
 
 ---
 
@@ -240,7 +240,7 @@ It looks like a stunt. But every punch is training. Meet the humanoid robots lea
 
 📺 CGTN Europe
 
-👁️ 4K • 👍 177 • 💬 9 • ⏱️ 1:27 • 19h ago
+👁️ 4K • 👍 177 • 💬 9 • ⏱️ 1:27 • 20h ago
 
 ---
 
@@ -250,7 +250,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 19K • 👍 373 • 💬 213 • ⏱️ 1:27 • 8h ago
+👁️ 19K • 👍 373 • 💬 213 • ⏱️ 1:27 • 9h ago
 
 ---
 
@@ -290,7 +290,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 67K • 👍 994 • 💬 329 • ⏱️ 0:55 • 22h ago
+👁️ 67K • 👍 994 • 💬 329 • ⏱️ 0:55 • 23h ago
 
 ---
 
