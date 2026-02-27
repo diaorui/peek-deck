@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T17:37:31.787073+00:00'
+updated: '2026-02-27T18:45:32.156481+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 17:37 UTC  
+**Last Updated:** February 27, 2026 at 18:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-3h ago
+4h ago
+
+---
+
+**[Barista Demo pouring a Latte from CES](https://www.reddit.com/r/robotics/comments/1rgcety/barista_demo_pouring_a_latte_from_ces/)**
+
+Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
+
+1h ago
 
 ---
 
@@ -44,13 +52,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
-5h ago
-
----
-
-**[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
-
-59m ago
+6h ago
 
 ---
 
@@ -62,11 +64,25 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 ---
 
-**[Barista Demo pouring a Latte from CES](https://www.reddit.com/r/robotics/comments/1rgcety/barista_demo_pouring_a_latte_from_ces/)**
+**[Isaac Sim || Autonomous Fixed-Wing Flight Mechanics with ArduPilot](https://www.reddit.com/r/robotics/comments/1rge99q/isaac_sim_autonomous_fixedwing_flight_mechanics/)**
 
-Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
+Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-31m ago
+33m ago
+
+---
+
+**[Change My Mind: All these Unitree videos are just stuff BD was doing a decade ago, but with multiple robots at once](https://www.reddit.com/r/robotics/comments/1rgdvbl/change_my_mind_all_these_unitree_videos_are_just/)**
+
+Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
+
+47m ago
+
+---
+
+**[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
+
+2h ago
 
 ---
 
@@ -82,7 +98,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Hi guys, I am planning my first robotics project, and came across this video: https://www.youtube.com/watch?v=IoCaTgmUSvc&t=471s This seems super cool and i have a 3D printer. The original video doesn't seem to use ROS at all, and I'm wondering if it would be a good idea to try to do the software part of the project from scratch using ROS2, or if not, what are the reasons for not using ROS for a robotics project?
 
-48m ago
+1h ago
 
 ---
 
@@ -90,23 +106,7 @@ Hi guys, I am planning my first robotics project, and came across this video: ht
 
 Excellent interview and interaction with Sprout! It’s good to see and hear the movement of this bot. Dev kit today, home companion in the near future. Sign me up :)
 
-🔗 [youtu.be](https://youtu.be/XbAOMqkKLGU?si=SL88UalR6Ptgwuu5) • 2h ago
-
----
-
-**[Mobile base companies](https://www.reddit.com/r/robotics/comments/1rg0m4k/mobile_base_companies/)**
-
-Hello, I'm looking for a vendor selling a reliable battle tested mobile base platform Should expose access to power rails, control over power output Autonomous docking and reliable charging a plus, decent battery life Something differential drive or skid, holonomic preferred Looking for a hardware vendor, not looking for service business model US preferred Thanks!
-
-9h ago
-
----
-
-**[Robotics Community Meetup – Pune | 28 Feb 2026](https://www.reddit.com/r/robotics/comments/1rg6vpb/robotics_community_meetup_pune_28_feb_2026/)**
-
-Hi everyone, We’re organizing a Robotics Community Meetup in Pune for people interested in robotics, automation, and manufacturing. What this meetup is about: Open discussions on careers, jobs, and internships in robotics and manufacturing Industry expectations, required skills, and project experience Networking with students, professionals, and robotics enthusiasts Live showcase of a robotic arm and a 3D printer, with practical discussion around automation and manufacturing use cases Details: Date: 28 February 2026 Time: 4:30 PM onwards Area: Near Baner Zudio, Pune (Exact location will be shared with confirmed participants) This is an informal, community-driven meetup, not a paid workshop or coaching session. If you’re interested, you can register here: https://forms.gle/ZCtw34ohS55yJozz6 Registrations will be closing soon due to limited capacity. Happy to answer any questions in the comments.
-
-4h ago
+🔗 [youtu.be](https://youtu.be/XbAOMqkKLGU?si=SL88UalR6Ptgwuu5) • 3h ago
 
 ---
 
@@ -122,41 +122,11 @@ TechCrunch • 1d ago
 
 ---
 
-**[BMW to put humanoid robots on production line at German plant](https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312)**
-
-Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costs
-
-Financial Times • 3h ago
-
----
-
-**[Carmaker BMW to trial humanoid robots at German factory](https://www.yahoo.com/news/articles/carmaker-bmw-trial-humanoid-robots-163244341.html)**
-
-German carmaker BMW said Friday it plans to deploy two AI-powered humanoid robots in a factory in a pilot programme for the first time this year.The BMW Group's head of digitisation, Michael Stroebel,...
-
-Yahoo • 1h ago
-
----
-
-**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
-
-Bloomberg.com • 13h ago
-
----
-
-**[Physical AI, part 1: The basics](https://institute.bankofamerica.com/transformation/physical-ai-part-1.html)**
-
-We explore how AI is moving from screens to machines that can see, learn and act across robotics, mobility and industry.
-
-Bank of America Institute • 1d ago
-
----
-
 **[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 16h ago
+Financial Times • 8h ago
 
 ---
 
@@ -176,17 +146,47 @@ bgr.com • 1d ago
 
 ---
 
-**[Novi Public Schools cuts ribbon on new 24,000-square-foot robotics center funded by 2019 bond](https://www.wxyz.com/news/region/oakland-county/novi-public-schools-cuts-ribbon-on-new-24-000-square-foot-robotics-center-funded-by-2019-bond)**
+**[Physical AI, part 1: The basics](https://institute.bankofamerica.com/transformation/physical-ai-part-1.html)**
 
-Novi's new robotics hub gives students a dedicated space to build, test and compete, and district leaders say more STEM expansion is on the way.
+We explore how AI is moving from screens to machines that can see, learn and act across robotics, mobility and industry.
 
-WXYZ Channel 7 • 12h ago
+Bank of America Institute • 1d ago
+
+---
+
+**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+
+Bloomberg.com • 14h ago
+
+---
+
+**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
+
+Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
+
+Fortune • 1d ago
 
 ---
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 1h ago
+Tech Xplore • 3h ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
+
+NBC Bay Area • 3d ago
+
+---
+
+**[How CMU Built a World-Leading Robotics Ecosystem](https://www.cmu.edu/news/stories/archives/2026/february/how-cmu-built-a-world-leading-robotics-ecosystem)**
+
+From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
+
+Carnegie Mellon University | CMU • 2d ago
 
 ---
 
@@ -250,7 +250,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 21K • 👍 442 • 💬 157 • ⏱️ 12:16 • 16h ago
+👁️ 21K • 👍 442 • 💬 157 • ⏱️ 12:16 • 17h ago
 
 ---
 
@@ -270,7 +270,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 90K • 👍 812 • 💬 445 • ⏱️ 1:27 • 15h ago
+👁️ 90K • 👍 812 • 💬 445 • ⏱️ 1:27 • 16h ago
 
 ---
 
