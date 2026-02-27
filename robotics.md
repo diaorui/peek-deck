@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T06:56:52.837903+00:00'
+updated: '2026-02-27T07:49:15.637894+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 06:56 UTC  
+**Last Updated:** February 27, 2026 at 07:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-19h ago
+20h ago
 
 ---
 
@@ -60,7 +60,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 17h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 18h ago
 
 ---
 
@@ -96,7 +96,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 **[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -132,7 +132,7 @@ TechCrunch • 1d ago
 
 Intrinsic is focused on making robots easier to program, teach, and operate.
 
-The Verge • 19h ago
+The Verge • 20h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Conversation • 2d ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 2h ago
+Financial Times • 3h ago
 
 ---
 
@@ -172,13 +172,13 @@ eWeek • 2d ago
 
 Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
 **[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-Bloomberg.com • 3h ago
+Bloomberg.com • 4h ago
 
 ---
 
@@ -186,7 +186,7 @@ Bloomberg.com • 3h ago
 
 A look at new tech efforts in the Pentagon’s $151 billion reconciliation allocation plan.
 
-Defense One • 2d ago
+Defense One • 3d ago
 
 ---
 
@@ -200,7 +200,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 8K • 👍 180 • 💬 62 • ⏱️ 12:16 • 5h ago
+👁️ 8K • 👍 180 • 💬 62 • ⏱️ 12:16 • 6h ago
 
 ---
 
@@ -210,7 +210,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 10K • 👍 107 • 💬 36 • ⏱️ 2:18 • 16h ago
+👁️ 10K • 👍 107 • 💬 36 • ⏱️ 2:18 • 17h ago
 
 ---
 
@@ -260,7 +260,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 59K • 👍 906 • 💬 290 • ⏱️ 0:55 • 19h ago
+👁️ 59K • 👍 906 • 💬 290 • ⏱️ 0:55 • 20h ago
 
 ---
 
@@ -270,7 +270,7 @@ hen German Chancellor Friedrich Merz arrives in Hangzhou, China on Thursday Febr
 
 📺 New York Post
 
-👁️ 31K • 👍 357 • 💬 243 • ⏱️ 2:08 • 15h ago
+👁️ 31K • 👍 357 • 💬 243 • ⏱️ 2:08 • 16h ago
 
 ---
 

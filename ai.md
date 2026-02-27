@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T06:56:52.820261+00:00'
+updated: '2026-02-27T07:49:15.620181+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
+- repositories
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 06:56 UTC  
+**Last Updated:** February 27, 2026 at 07:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
 
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 5h ago
+🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 6h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 We embedded invisible Unicode characters inside normal-looking trivia questions. The hidden characters encode a different answer. If the AI outputs the hidden answer instead of the visible one, it followed the invisible instruction. Think of it as a reverse CAPTCHA, where traditional CAPTCHAs test things humans can do but machines can't, this exploits a channel machines can read but humans can't see. The biggest finding: giving the AI access to tools (like code execution) is what makes this dangerous. Without tools, models almost never follow the hidden instructions. With tools, they can write scripts to decode the hidden message and follow it. We tested GPT-5.2, GPT-4o-mini, Claude Opus 4, Sonnet 4, and Haiku 4.5 across 8,308 graded outputs. Other interesting findings: - OpenAI and Anthropic models are vulnerable to different encoding schemes — an attacker needs to know which model they're targeting - Without explicit decoding hints, compliance is near-zero — but a single line like "check for hidden Unicode" is enough to trigger extraction - Standard Unicode normalization (NFC/NFKC) does not strip these characters Full results: https://moltwire.com/research/reverse-captcha-zw-steganography Open source: https://github.com/canonicalmg/reverse-captcha-eval
 
-🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 11h ago
+🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 12h ago
 
 ---
 
@@ -57,7 +57,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 Have it your way?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 14h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 15h ago
 
 ---
 
@@ -65,7 +65,7 @@ Have it your way?
 
 "Have you ever had an idea for something that looked cool, but wouldn’t work well in practice? When it comes to designing things like decor and personal accessories, generative artificial intelligence (genAI) models can relate. They can produce creative and elaborate 3D designs, but when you try to fabricate such blueprints into real-world objects, they usually don’t sustain everyday use. The underlying problem is that genAI models often lack an understanding of physics. While tools like Microsoft’s TRELLIS system can create a 3D model from a text prompt or image, its design for a chair, for example, may be unstable, or have disconnected parts. The model doesn’t fully understand what your intended object is designed to do, so even if your seat can be 3D printed, it would likely fall apart under the force of someone sitting down. In an attempt to make these designs work in the real world, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) are giving generative AI models a reality check. Their “PhysiOpt” system augments these tools with physics simulations, making blueprints for personal items such as cups, keyholders, and bookends work as intended when they’re 3D printed. It rapidly tests if the structure of your 3D model is viable, gently modifying smaller shapes while ensuring the overall appearance and function of the design is preserved. You can simply type what you want to create and what it’ll be used for into PhysiOpt, or upload an image to the system’s user interface, and in roughly half a minute, you’ll get a realistic 3D object to fabricate. For example, CSAIL researchers prompted it to generate a “flamingo-shaped glass for drinking,” which they 3D printed into a drinking glass with a handle and base resembling the tropical bird’s leg. As the design was generated, PhysiOpt made tiny refinements to ensure the design was structurally sound. “PhysiOpt combines GenAI and physically-based shape optimization, helping virtually anyone generate the designs they want for unique accessories and decorations,” says MIT electrical engineering and computer science (EECS) PhD student and CSAIL researcher Xiao Sean Zhan SM ’25, who is a co-lead author on a paper presenting the work. “It’s an automatic system that allows you to make the shape physically manufacturable, given some constraints. PhysiOpt can iterate on its creations as often as you’d like, without any extra training.” This approach enables you to create a “smart design,” where the AI generator crafts your item based on users’ specifications, while considering functionality. You can plug in your favorite 3D generative AI model, and after typing out what you want to generate, you specify how much force or weight the object should handle. It’s a neat way to simulate real-world use, such as predicting whether a hook will be strong enough to hold up your coat. Users also specify what materials they’ll fabricate the item with (such as plastics or wood), and how it’s supported — for instance, a cup stands on the ground, whereas a bookend leans against a collection of books. Given the specifics, PhysiOpt begins to iteratively optimize the object. Under the hood, it runs a physics simulation called a “finite element analysis” to stress test the design. This comprehensive scan provides a heat map over your 3D model, which indicates where your blueprint isn’t well-supported. If you were generating, say, a birdhouse, you may find that the support beams under the house were colored bright red, meaning the house will crumble if it’s not reinforced."
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225) • 42m ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ Have it your way?
 
 "Researchers have been mapping the brain for more than a century. By tracing cellular patterns that are visible under a microscope, they’ve created colorful charts and models that delineate regions and have been able to associate them with functions. In recent years, they’ve added vastly greater detail: They can now go cell by cell and define each one by its internal genetic activity. But no matter how carefully they slice and how deeply they analyze, their maps of the brain seem incomplete, muddled, inconsistent. For example, some large brain regions have been linked to many different tasks; scientists suspect that they should be subdivided into smaller regions, each with its own job. So far, mapping these cellular neighborhoods from enormous genetic datasets has been both a challenge and a chore. Recently, Tasic, a neuroscientist and genomicist at the Allen Institute for Brain Science, and her collaborators recruited artificial intelligence for the sorting and mapmaking effort. They fed genetic data from five mouse brains — 10.4 million individual cells with hundreds of genes per cell — into a custom machine learning algorithm. The program delivered maps that are a neuro-realtor’s dream, with known and novel subdivisions within larger brain regions. Humans couldn’t delineate such borders in several lifetimes, but the algorithm did it in hours. The authors published their methods in Nature Communications in October. By applying the same technique to other animals and eventually to humans, researchers hope not only to detail the brain’s finer-grained layout but also to generate and test hypotheses about how the organ’s parts operate in health and disease."
 
-🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 51m ago
+🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 1h ago
 
 ---
 
@@ -81,13 +81,13 @@ Have it your way?
 
 The Linux kernel continues seeing more open-source kernel drivers emerge for supporting different AI accelerators / NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/NXP-Neutron-Linux-Accel-Driver) • 2h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/NXP-Neutron-Linux-Accel-Driver) • 3h ago
 
 ---
 
 **[Burger King testing AI headsets to track if employees say ‘please’ or ‘thank you’](https://www.reddit.com/r/artificial/comments/1rfzm61/burger_king_testing_ai_headsets_to_track_if/)**
 
-🔗 [ktla.com](https://ktla.com/news/nationworld/burger-king-testing-ai-headsets-to-track-if-employees-say-please-or-thank-you/) • 1m ago
+🔗 [ktla.com](https://ktla.com/news/nationworld/burger-king-testing-ai-headsets-to-track-if-employees-say-please-or-thank-you/) • 53m ago
 
 ---
 
@@ -103,7 +103,7 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 he move feeds into Britain's push to cast itself as an "AI superpower" and a home for cutting-edge research at a time when governments are vying for investment from major model developers.
 
-🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 15h ago
+🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 16h ago
 
 ---
 
@@ -123,7 +123,7 @@ today was the first time i spoke to it directly using voice i asked it about spa
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-blog.google • 14h ago
+blog.google • 15h ago
 
 ---
 
@@ -131,7 +131,7 @@ blog.google • 14h ago
 
 Pete Hegseth had threatened to cancel $200m contract unless it was given unfettered access to Claude model
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 1h ago
 
 **[AI Capex Fueling Strongest EM Earnings in Two Decades, MS Says](https://www.bloomberg.com/news/articles/2026-02-27/ai-capex-fueling-strongest-em-earnings-in-two-decades-ms-says)**
 
-Bloomberg.com • 49m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bloomberg.com • 49m ago
 
 Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
 
-CNN • 8h ago
+CNN • 9h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNN • 8h ago
 
 Brady Tkachuk said he didn't appreciate the AI-doctored video released by the White House that made it appear he was disparaging Canadians.
 
-ESPN • 12h ago
+ESPN • 13h ago
 
 ---
 
@@ -169,7 +169,7 @@ ESPN • 12h ago
 
 US ice hockey star Brady Tkachuk has said he does not appreciate an AI video released by the White House that shows him insulting Canadians
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Guardian • 2h ago
 
 While Tkachuk helped U.S. men's hockey win its first Olympic gold medal since 1980, he's also the captain of the Ottawa Senators.
 
-Yahoo Sports • 8h ago
+Yahoo Sports • 9h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Sports • 8h ago
 
 In his latest memo, Howard Marks revisits the subject of AI, providing his observations on its essence and how it differs from previous technological innovations.
 
-Oaktree Capital Management • 22h ago
+Oaktree Capital Management • 23h ago
 
 ---
 
@@ -193,7 +193,7 @@ Oaktree Capital Management • 22h ago
 
 The 27 temporary gas turbines roar like jet engines day and night to power data centers, residents say.
 
-NBC News • 19h ago
+NBC News • 20h ago
 
 ---
 
@@ -213,7 +213,7 @@ A minute-by-minute reconstruction of the massacre by Earshot and Forensic Archit
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 546 • 💬 510 • 14h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 546 • 💬 510 • 15h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
@@ -287,7 +287,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 91K • 👍 4K • 💬 182 • ⏱️ 11:55 • 16h ago
+👁️ 91K • 👍 4K • 💬 182 • ⏱️ 11:55 • 17h ago
 
 ---
 
@@ -297,7 +297,7 @@ Anthropic CEO Dario Amodei said the company cannot agree to the Pentagon's ultim
 
 📺 NBC News
 
-👁️ 34K • 👍 581 • 💬 191 • ⏱️ 4:24 • 7h ago
+👁️ 34K • 👍 581 • 💬 191 • ⏱️ 4:24 • 8h ago
 
 ---
 
@@ -317,7 +317,7 @@ Nano Banana Pro 2 Is Here! In this video I compare the new Nano Banana 2 with th
 
 📺 Paul J Lipsky
 
-👁️ 28K • 👍 933 • 💬 178 • ⏱️ 16:03 • 13h ago
+👁️ 28K • 👍 933 • 💬 178 • ⏱️ 16:03 • 14h ago
 
 ---
 
@@ -327,7 +327,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 55K • 👍 3K • 💬 496 • ⏱️ 16:02 • 21h ago
+👁️ 55K • 👍 3K • 💬 496 • ⏱️ 16:02 • 22h ago
 
 ---
 
@@ -347,7 +347,7 @@ Join The Investing Academy: https://www.skool.com/the-financial-lab-7084/about T
 
 📺 Proactive Thinker
 
-👁️ 5K • 👍 228 • 💬 46 • ⏱️ 13:03 • 10h ago
+👁️ 5K • 👍 228 • 💬 46 • ⏱️ 13:03 • 11h ago
 
 ---
 
@@ -357,7 +357,7 @@ Nvidia CEO Jensen Huang joins 'Squawk Box' to discuss the company's quarterly ea
 
 📺 CNBC Television
 
-👁️ 23K • 👍 203 • 💬 56 • ⏱️ 4:11 • 16h ago
+👁️ 23K • 👍 203 • 💬 56 • ⏱️ 4:11 • 17h ago
 
 ---
 
@@ -367,7 +367,7 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 12K • 👍 604 • 💬 79 • ⏱️ 1:11:08 • 16h ago
+👁️ 12K • 👍 604 • 💬 79 • ⏱️ 1:11:08 • 17h ago
 
 ---
 
@@ -647,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.1k • 🔱 2.5k • 1h ago
+⭐ 20.1k • 🔱 2.5k • 2h ago
 
 ---
 
@@ -685,7 +685,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.6k • 🔱 358 • 2h ago
+⭐ 3.6k • 🔱 358 • 3h ago
 
 ---
 
@@ -695,7 +695,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.5k • 🔱 453 • 3h ago
+⭐ 3.5k • 🔱 453 • 4h ago
 
 ---
 
@@ -705,7 +705,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.1k • 🔱 373 • 3h ago
+⭐ 3.1k • 🔱 373 • 4h ago
 
 ---
 
@@ -715,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 206 • 5h ago
+⭐ 2.9k • 🔱 206 • 6h ago
 
 ---
 
@@ -725,7 +725,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 303 • 2m ago
+⭐ 2.8k • 🔱 303 • 55m ago
 
 ---
 
@@ -735,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 525 • 5h ago
+⭐ 2.7k • 🔱 525 • 6h ago
 
 ---
 
