@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T20:56:03.468424+00:00'
+updated: '2026-02-27T21:32:45.760758+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 20:56 UTC  
+**Last Updated:** February 27, 2026 at 21:32 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,16 +38,16 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,287.09
+### $65,587.93
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -3.6%  
+**24h:** -2.8%  
+**7d:** -3.5%  
 **30d:** -22.5%  
-**90d:** -27.6%  
+**90d:** -27.5%  
 **1y:** -22.1%  
 
 ---
@@ -83,17 +83,17 @@ Rank #1
 
 ---
 
-**[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
-
-44m ago
-
----
-
 **[Bought $1k of BTC. Let's see what will happen](https://www.reddit.com/r/Bitcoin/comments/1rg3j7r/bought_1k_of_btc_lets_see_what_will_happen/)**
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
 10h ago
+
+---
+
+**[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
+
+1h ago
 
 ---
 
@@ -113,19 +113,19 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 ---
 
-**[Here's my take.](https://www.reddit.com/r/Bitcoin/comments/1rgf8pm/heres_my_take/)**
-
-If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
-
-2h ago
-
----
-
 **[Citi Is Making Bitcoin "Bankable" — Here's What That Means for the Market](https://www.reddit.com/r/Bitcoin/comments/1rg4c62/citi_is_making_bitcoin_bankable_heres_what_that/)**
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
 🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 9h ago
+
+---
+
+**[Here's my take.](https://www.reddit.com/r/Bitcoin/comments/1rgf8pm/heres_my_take/)**
+
+If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
+
+2h ago
 
 ---
 
@@ -147,7 +147,7 @@ See you in 10 years.
 
 https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-fortune/ This man invested money in 2009 and returned later to see it worth almost 900k. The possibilities are endless. It makes me wonder how many other millionaires are out there that don't even know. Have you invested money into a wallet that you forgot about / have any of your friends? With Bitcoin increasing over the decades the way it has, I wonder how many more of these 'uncovered a boatload of free & unlimited cash' stories we'll find?
 
-18h ago
+19h ago
 
 ---
 
@@ -175,11 +175,11 @@ The New York Times • 1d ago
 
 ---
 
-**[Bitcoin fans latch on to ‘ridiculous’ Jane Street conspiracy to explain price slump](https://fortune.com/2026/02/26/bitcoin-slump-jane-street-conspiracy-theory/)**
+**[The Bull Case for Bitcoin Is Hiding in the $1 Trillion Wreckage](https://www.bloomberg.com/news/articles/2026-02-25/the-bull-case-for-bitcoin-is-hiding-in-the-1-trillion-wreckage)**
 
-Every slump needs a scapegoat.
+Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
 
-Fortune • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -199,11 +199,19 @@ Yahoo Finance • 1h ago
 
 ---
 
-**[Citi wants to make bitcoin bankable as Wall Street builds native crypto infrastructure](https://www.coindesk.com/business/2026/02/27/citi-and-morgan-stanley-expand-bitcoin-and-crypto-custody-trading-and-tokenization-efforts)**
+**[Fake mail carrier accused of violently strangling Seattle homeowner’s wife during demand for bitcoin](https://www.king5.com/article/news/local/fake-mail-carrier-accused-of-violently-strangling-seattle-homeowners-wife-during-demand-for-bitcoin/281-2e1dbfe9-e6ad-49e9-abc2-3d78eae26bb7)**
 
-The Wall Street giants are accelerating digital asset strategies, with Citi focusing on regulated Bitcoin custody and cross-margining infrastructure and Morgan Stanley pushing spot crypto access and on-platform services.
+Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-CoinDesk • 1h ago
+KING5.com • 1h ago
+
+---
+
+**[Former Mt. Gox CEO proposes hard fork to recover $5.2 billion in bitcoin from 2011 theft](https://www.theblock.co/post/391635/former-mt-gox-ceo-proposes-hard-fork-recover-5-2-billion-bitcoin-2011-theft?utm_source=companies.xml&utm_medium=rss)**
+
+The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
+
+The Block • 8m ago
 
 ---
 
@@ -218,12 +226,6 @@ The Block • 22h ago
 **[MARA Surges On Data Center Partnership, AI Plans. Crypto Plays Report.](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
 
 Investor's Business Daily • 6h ago
-
----
-
-**[Bitcoin Miner MARA, Starwood Partner to Develop AI Data Centers](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-mara-starwood-partner-to-develop-ai-data-centers)**
-
-Bloomberg.com • 22h ago
 
 ---
 
@@ -323,7 +325,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 100K • 👍 7K • 💬 668 • ⏱️ 18:56 • 3h ago
+👁️ 100K • 👍 7K • 💬 668 • ⏱️ 18:56 • 4h ago
 
 ---
 
@@ -353,7 +355,7 @@ Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 12K • 👍 729 • 💬 38 • ⏱️ 16:32 • 8h ago
+👁️ 12K • 👍 729 • 💬 38 • ⏱️ 16:32 • 9h ago
 
 ---
 
@@ -373,7 +375,7 @@ Is Jane Street the reason Bitcoin is not sitting at 150K right now? Massive clai
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 133 • ⏱️ 24:42 • 21h ago
+👁️ 23K • 👍 2K • 💬 133 • ⏱️ 24:42 • 22h ago
 
 ---
 
@@ -401,7 +403,7 @@ Nick Valdez looks at an insanely accurate Bitcoin signal that says “THE BOTTOM
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 425 • 💬 79 • ⏱️ 7:23 • 20h ago
+👁️ 8K • 👍 425 • 💬 79 • ⏱️ 7:23 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T20:56:03.474596+00:00'
+updated: '2026-02-27T21:32:45.766797+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 20:56 UTC  
+**Last Updated:** February 27, 2026 at 21:32 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.1%  
-**7d:** -2.4%  
-**30d:** -31.8%  
-**90d:** -35.6%  
-**1y:** -13.9%  
+**24h:** -5.0%  
+**7d:** -2.1%  
+**30d:** -31.6%  
+**90d:** -35.4%  
+**1y:** -13.6%  
 
 ---
 
@@ -68,19 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion February 27, 2026](https://www.reddit.com/r/ethereum/comments/1rfynf1/daily_general_discussion_february_27_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-14h ago
-
----
-
 **[8 years of Ethereum payments & where it is spent](https://www.reddit.com/r/ethereum/comments/1rg5y1b/8_years_of_ethereum_payments_where_it_is_spent/)**
 
 We added Ethereum as a payment option back in 2018, and since then, around 643,000 payments have been made with ETH through our gateway. Most spending happens on hosting, VPN services, and gaming. The average order value is around $159, with most payments ranging from $54 to $607. If you are looking for places that accept Ethereum, we have a merchant directory. Are you spending ETH anywhere these days?
 
-7h ago
+8h ago
+
+---
+
+**[Daily General Discussion February 27, 2026](https://www.reddit.com/r/ethereum/comments/1rfynf1/daily_general_discussion_february_27_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+15h ago
 
 ---
 
@@ -88,7 +88,7 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 
 At the current moment the correct path to post quantum Ethereum transactions looks more like Shibuya Crossing, there are too many proposals all with different ways of doing the same fundamental thing. Some of the proposals that can achieve PQ migration are:   Pure ERC-4337 account abstraction and doing the PQ verification on the EVM EIP-6404: SSZ transactions that use the EIP-7932: Secondary Signature Algorithms rails. EIP-8141: Frame Transaction that make the PQ migration up to the account to d...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 3h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 4h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-s
 
 Most people remember the 2017 ICO boom, but the culture started forming in late 2016 with projects like Golem and SingularDTV. Golem (GNT) — November 11, 2016 Golem launched what was essentially an 820,000 ETH hard cap crowdsale. It filled in 29 minutes. $8.6 million for a decentralized computing network. The contract was deliberately simple by design. After the DAO hack a few months earlier, the team and their auditors at Zeppelin went out of their way to avoid complexity. No recursive calls, no token logic mixed with funding logic. Just "send ETH, receive tokens, done." They also built in a migration mechanism from day one (GNT to GLM), which they actually used four years later in 2020. That kind of foresight was rare. SingularDTV — September/October 2016 SingularDTV took a different approach with a tri-contract architecture: one for the crowdsale, one for the token, one for the treasury fund. Stefan George (who later cofounded Gnosis) was involved. They raised $7.5M in 17 minutes. The treasury contract had a 2-year workshop token lockup built in. The speed of these raises changed expectations for every project that followed. Before this, "fast fundraising" for crypto meant days or weeks. After Golem and SingularDTV, everyone expected minutes. Why this matters now These contracts are still on-chain. You can read them, verify the logic, trace every transaction. Unlike web2 startup history where products get shut down and documentation disappears, Ethereum's history is permanently readable. I've been documenting these early contracts at ethereumhistory.com — trying to build a proper archive before the people who remember this era move on. We've got about 40 contracts documented so far from 2015-2017. If you were around during this period or remember other significant early contracts, would love to hear about them.
 
-6h ago
+7h ago
 
 ---
 
@@ -112,7 +112,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self-custody wallet control & stablecoin payments mainstream.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 7h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 8h ago
 
 ---
 
@@ -121,6 +121,14 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
 🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 5h ago
+
+---
+
+**[Daily Doots Podcast #141 Jake - qrcoin.fun](https://www.reddit.com/r/ethereum/comments/1rgiprd/daily_doots_podcast_141_jake_qrcoinfun/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/pmbdcdOZMdU) • 33m ago
 
 ---
 
@@ -136,15 +144,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common security issues in ZK circuits. YAML-defined pattern packs (regex, fancyregex, literal) Optional semantic pass (--semantic) for cross-line checks CLI + library API SARIF/JSON/text outputs for CI workflows Current integration matrix: 16 vulnerable fixtures + 10 safe controls Repo: https://github.com/Teycir/ZkPatternMatcher
 
-5h ago
-
----
-
-**[Firsts, Conversations and AI - EthDenver 2026](https://www.reddit.com/r/ethereum/comments/1rg1qza/firsts_conversations_and_ai_ethdenver_2026/)**
-
-From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about courage, community, and calling Ethereum the 8th wonder - not a monument, but a mission.
-
-🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 11h ago
+6h ago
 
 ---
 
@@ -172,15 +172,7 @@ AMBCrypto • 1d ago
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
-Yahoo Finance • 3h ago
-
----
-
-**[Vitalik Buterin reveals his bold new plan to fix Ethereum’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
-
-The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
-
-CoinDesk • 4h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -188,7 +180,15 @@ CoinDesk • 4h ago
 
 Magic Eden is pulling support for Ethereum-compatible and Bitcoin-based assets, marking an end to its multi-chain approach to user adoption.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Ethereum at $250,000? Trump speech ignites price rally as ETFs gain $157m](https://www.dlnews.com/articles/markets/wall-street-ploughs-funds-into-ethereum-network-before-price-rallies/)**
+
+Trump’s State of the Union address has injected fresh optimism into markets. Ethereum’s price has rallied 15% this week to $2,050. Bitmine keeps accumulating tokens with weekly purchases.
+
+dlnews.com • 1d ago
 
 ---
 
@@ -204,29 +204,29 @@ The Block • 1d ago
 
 A shift in Ethereum’s derivatives flow on Binance is starting to hint at a possible change in market structure, even as ETH itself remains in a corrective phase. According to CryptoQuant contributor Darkfost, the Taker Buy Sell Ratio is no longer flashing the same persistent sell-side aggression th…
 
-TradingView • 10h ago
+TradingView • 11h ago
 
 ---
 
-**[ETHZilla Drops Ethereum Treasury Label in Rebrand After Share Price Collapse](https://decrypt.co/359186/ethzilla-ethereum-rebrand-share-price-collapse)**
+**[Vitalik Buterin Maps Quantum Upgrade to Ethereum to Replace Core Cryptography](https://decrypt.co/359352/vitalik-buterin-maps-quantum-upgrade-ethereum)**
 
-The move follows investor exits, asset sales and a retreat from holding Ethereum on the public company's balance sheet.
+Buterin has outlined a phased roadmap to replace four vulnerable components of Ethereum's cryptographic architecture.
 
-Decrypt • 1d ago
-
----
-
-**[Large cryptocurrencies drop on Ethereum, Solana decreases](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-solana-decreases-40a1c716-8b042fb12dc2?gaa_at=eafs&gaa_n=AWEtsqcXhwPbpccORWmwMQS2braRfDF23jFhjX6Fc55TMt-bWXhHGgo6fi8h&gaa_ts=69a20216&gaa_sig=aA0u0yg_MLogCg_lq-V2dXXQjuVuWkvaOvNSkmjIPX2Uregb9REMchxixiQJ5LxwNfn1FSL0xhDWdLdv3QgGDw%3D%3D)**
-
-MarketWatch • 5h ago
+Decrypt • 21h ago
 
 ---
 
-**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1772183700)**
+**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1772209800)**
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 9h ago
+Polymarket • 5h ago
+
+---
+
+**[Large cryptocurrencies drop on Ethereum, Solana decreases](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-solana-decreases-40a1c716-8b042fb12dc2?gaa_at=eafs&gaa_n=AWEtsqd3RnJPCDcgwY4Hpzw8JlLQjqR7cn1FCfnXHN3Ken9_hncTns1j8JUI&gaa_ts=69a210e8&gaa_sig=X1C6_B1PHPQ5E7NK23u2K2oqoX5ZDijJtKrfvMEICWJkKIxGdBt9QKBKgXQrxM1QJo5t4bqJDBT_vyrK9h7Hjg%3D%3D)**
+
+MarketWatch • 6h ago
 
 ---
 
@@ -270,7 +270,7 @@ We've got some major shake ups happening in the crypto market right now. it seem
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 676 • 💬 62 • ⏱️ 29:34 • 11h ago
+👁️ 5K • 👍 676 • 💬 62 • ⏱️ 29:34 • 12h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 182 • 👍 7 • 💬 1 • ⏱️ 4:27 • 11h ago
+👁️ 182 • 👍 7 • 💬 1 • ⏱️ 4:27 • 12h ago
 
 ---
 
@@ -330,7 +330,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Märkte & Trends
 
-👁️ 3K • 👍 200 • 💬 28 • ⏱️ 38:15 • 9h ago
+👁️ 3K • 👍 200 • 💬 28 • ⏱️ 38:15 • 10h ago
 
 ---
 

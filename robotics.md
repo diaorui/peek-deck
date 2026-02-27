@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T20:56:03.478395+00:00'
+updated: '2026-02-27T21:32:45.770046+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 20:56 UTC  
+**Last Updated:** February 27, 2026 at 21:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[First table jump from our robot!](https://www.reddit.com/r/robotics/comments/1rg83qy/first_table_jump_from_our_robot/)**
-
-Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
-
-6h ago
-
----
-
 **[Barista Demo pouring a Latte from CES](https://www.reddit.com/r/robotics/comments/1rgcety/barista_demo_pouring_a_latte_from_ces/)**
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-3h ago
+4h ago
+
+---
+
+**[First table jump from our robot!](https://www.reddit.com/r/robotics/comments/1rg83qy/first_table_jump_from_our_robot/)**
+
+Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
+
+7h ago
 
 ---
 
@@ -52,13 +52,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
-8h ago
-
----
-
-**[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
-
-4h ago
+9h ago
 
 ---
 
@@ -66,7 +60,13 @@ Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
 Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-2h ago
+3h ago
+
+---
+
+**[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
+
+4h ago
 
 ---
 
@@ -82,7 +82,23 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
+3h ago
+
+---
+
+**[Agent and Robotics Hackathon 2026 -- Prize Update!](https://www.reddit.com/r/robotics/comments/1rgfyfb/agent_and_robotics_hackathon_2026_prize_update/)**
+
+Hi everyone, Thank you so much to everyone who has already signed up - we're excited by the response from the robotics community! I wanted to share an update: we've secured $13,500 in cash prizes for Agent and Robotics Hackathon 2026! 🎉 We're also finalizing additional non-cash prizes and will share more details as we get closer to the event. For those interested in participating, you can find more information and register at https://www.kxsb.org/ar26 Looking forward to seeing what everyone creates!
+
 2h ago
+
+---
+
+**[Robotics club vs Arduino/RaspberryPi](https://www.reddit.com/r/robotics/comments/1rgj3ry/robotics_club_vs_arduinoraspberrypi/)**
+
+My Son wants to do Robotics in High School. Clubs seems to be costly. What is the advantage of going to Robotics club vs doing some projects using Raspberry Pi or Arduino? Doing it on his own, he may be missing competitions? What kind of components are used in competitions? Can someone playing with Arduino compete and win? How does this help students get into better college or courses like Mechatronics.?
+
+19m ago
 
 ---
 
@@ -91,22 +107,6 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
 1d ago
-
----
-
-**[Should I convert this project to ROS2](https://www.reddit.com/r/robotics/comments/1rgbxds/should_i_convert_this_project_to_ros2/)**
-
-Hi guys, I am planning my first robotics project, and came across this video: https://www.youtube.com/watch?v=IoCaTgmUSvc&t=471s This seems super cool and i have a 3D printer. The original video doesn't seem to use ROS at all, and I'm wondering if it would be a good idea to try to do the software part of the project from scratch using ROS2, or if not, what are the reasons for not using ROS for a robotics project?
-
-4h ago
-
----
-
-**[ROS News for the Week of February 23rd, 2026](https://www.reddit.com/r/robotics/comments/1rggncn/ros_news_for_the_week_of_february_23rd_2026/)**
-
-ROS News for the Week of February 23rd, 2026      Our colleagues at Intrinsic have joined Google to accelerate the future of physical AI. More information about what this means are on Discourse, the Robot Report, and in Techcrunch.               We had a great ROS By-The-Bay Meetup last night in Mountain View. Next week we’re holding three kick off sessions for the Intrinsic AI for Industry Challenge. Later in the week there is Bots, Bevs, and Devs at the Foxglove office in San Francisco and a R...
-
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-23rd-2026/52787) • 1h ago
 
 ---
 
@@ -122,11 +122,27 @@ TechCrunch • 2d ago
 
 ---
 
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+**[Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html)**
 
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-Los Angeles Times • 2d ago
+CNBC • 1d ago
+
+---
+
+**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
+
+Intrinsic is focused on making robots easier to program, teach, and operate.
+
+The Verge • 1d ago
+
+---
+
+**[Vision-language-action models are the next leap in autonomous robotics](https://www.therobotreport.com/vision-language-action-models-are-the-next-leap-in-autonomous-robotics/)**
+
+Explore how vision-language-action models like Helix, GR00T N1, and RT-1 are enabling robots to understand instructions and act autonomously.
+
+The Robot Report • 6m ago
 
 ---
 
@@ -134,7 +150,37 @@ Los Angeles Times • 2d ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 20h ago
+Financial Times • 11h ago
+
+---
+
+**[Novi Public Schools cuts ribbon on new 24,000-square-foot robotics center funded by 2019 bond](https://www.wxyz.com/news/region/oakland-county/novi-public-schools-cuts-ribbon-on-new-24-000-square-foot-robotics-center-funded-by-2019-bond)**
+
+Novi's new robotics hub gives students a dedicated space to build, test and compete, and district leaders say more STEM expansion is on the way.
+
+WXYZ Channel 7 • 16h ago
+
+---
+
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
+
+Bloomberg.com • 18h ago
+
+---
+
+**[Rise of robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.autonews.com/hyundai/ane-hyundai-robots-tesla-atlas-optimus-0227/)**
+
+While the world’s attention has been fixated on Elon Musk’s model and the high-stakes AI race between the U.S. and China, Hyundai has emerged as a leader in humanoid robots.
+
+Automotive News • 12h ago
+
+---
+
+**[Germany’s Merz meets China’s tech vanguard, including Alibaba and Unitree CEOs](https://www.scmp.com/tech/article/3344835/germanys-merz-meets-chinas-tech-vanguard-including-alibaba-and-unitree-ceos)**
+
+Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
+
+South China Morning Post • 15h ago
 
 ---
 
@@ -143,52 +189,6 @@ Financial Times • 20h ago
 There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
 
 The Conversation • 3d ago
-
----
-
-**[China's Robot Demonstration Feels Like Something From A Sci-Fi Nightmare](https://www.bgr.com/2108405/china-new-year-robots-sci-fi-nightmare/)**
-
-Unitree's G1 and H2 robots performed kung fu on CMG's 2026 Spring Festival Gala, alongside students from Tagou Martial Arts School.
-
-bgr.com • 1d ago
-
----
-
-**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
-
-Bloomberg.com • 16h ago
-
----
-
-**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
-
-Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
-
-Fortune • 1d ago
-
----
-
-**[Germany’s Merz meets China’s tech vanguard, including Alibaba and Unitree CEOs](https://www.scmp.com/tech/article/3344835/germanys-merz-meets-chinas-tech-vanguard-including-alibaba-and-unitree-ceos)**
-
-Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
-
-South China Morning Post • 14h ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
-
-NBC Bay Area • 3d ago
-
----
-
-**[How CMU Built a World-Leading Robotics Ecosystem](https://www.cmu.edu/news/stories/archives/2026/february/how-cmu-built-a-world-leading-robotics-ecosystem)**
-
-From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
-
-Carnegie Mellon University • 2d ago
 
 ---
 
@@ -212,7 +212,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 26K • 👍 506 • 💬 181 • ⏱️ 12:16 • 19h ago
+👁️ 26K • 👍 506 • 💬 181 • ⏱️ 12:16 • 20h ago
 
 ---
 
@@ -232,7 +232,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 108K • 👍 922 • 💬 490 • ⏱️ 1:27 • 18h ago
+👁️ 108K • 👍 922 • 💬 490 • ⏱️ 1:27 • 19h ago
 
 ---
 
@@ -270,7 +270,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Borunte_robot_jack12
 
-👁️ 30K • 👍 69 • 💬 1 • ⏱️ 0:08 • 18h ago
+👁️ 30K • 👍 69 • 💬 1 • ⏱️ 0:08 • 19h ago
 
 ---
 
