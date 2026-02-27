@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T22:24:44.715633+00:00'
+updated: '2026-02-27T22:51:27.189809+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 22:24 UTC  
+**Last Updated:** February 27, 2026 at 22:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,925.55
+### $1,915.87
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.0%  
-**7d:** -2.1%  
-**30d:** -31.6%  
-**90d:** -35.4%  
-**1y:** -13.6%  
+**24h:** -5.2%  
+**7d:** -2.7%  
+**30d:** -31.9%  
+**90d:** -35.8%  
+**1y:** -14.1%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $232.31B
+**Market Cap:** $232.14B
 Rank #2
 
 **Circulating Supply:** 120,692,268 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.1%
+-61.2%
 
 **All-Time Low:** $0.43
-+444552.1%
++443665.2%
 
 ---
 
@@ -96,7 +96,7 @@ At the current moment the correct path to post quantum Ethereum transactions loo
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
 
-4h ago
+5h ago
 
 ---
 
@@ -120,7 +120,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 6h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 7h ago
 
 ---
 
@@ -132,19 +132,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[Firsts, Conversations and AI - EthDenver 2026](https://www.reddit.com/r/ethereum/comments/1rg1qza/firsts_conversations_and_ai_ethdenver_2026/)**
+
+From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about courage, community, and calling Ethereum the 8th wonder - not a monument, but a mission.
+
+🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 13h ago
+
+---
+
 **[Highlights from the All Core Developers Execution (ACDE) Call #231](https://www.reddit.com/r/ethereum/comments/1rfvrp6/highlights_from_the_all_core_developers_execution/)**
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 18h ago
-
----
-
-**[ZkPatternMatcher: open-source CLI/library for circuit security pattern scanning (regex + semantic pass)](https://www.reddit.com/r/ethereum/comments/1rg9rlo/zkpatternmatcher_opensource_clilibrary_for/)**
-
-I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common security issues in ZK circuits. YAML-defined pattern packs (regex, fancyregex, literal) Optional semantic pass (--semantic) for cross-line checks CLI + library API SARIF/JSON/text outputs for CI workflows Current integration matrix: 16 vulnerable fixtures + 10 safe controls Repo: https://github.com/Teycir/ZkPatternMatcher
-
-6h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 19h ago
 
 ---
 
@@ -152,11 +152,11 @@ I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common se
 
 ## Google News: "ethereum"
 
-**[Ethereum news: The network is moving away from being a slow giant to become a high-speed 'internet of value' by 2029](https://www.coindesk.com/news-analysis/2026/02/26/here-is-why-ethereum-s-bold-new-plan-could-make-the-blockchain-giant-high-speed-internet-of-value-by-2029)**
+**[Vitalik Buterin reveals his bold new plan to fix Ethereum’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
 
-Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
+The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 1d ago
+CoinDesk • 6h ago
 
 ---
 
@@ -168,14 +168,6 @@ AMBCrypto • 1d ago
 
 ---
 
-**[Ethereum Tokens Swiped, Returned After South Korean Tax Service Publishes Wallet Seed Phrases](https://finance.yahoo.com/news/ethereum-tokens-swiped-returned-south-172054726.html)**
-
-South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
-
-Yahoo Finance • 5h ago
-
----
-
 **[Magic Eden Pulls Plug on Bitcoin and Ethereum Support, Doubles Down on Solana](https://finance.yahoo.com/news/magic-eden-pulls-plug-bitcoin-185822292.html)**
 
 Magic Eden is pulling support for Ethereum-compatible and Bitcoin-based assets, marking an end to its multi-chain approach to user adoption.
@@ -184,11 +176,11 @@ Yahoo Finance • 3h ago
 
 ---
 
-**[Ethereum at $250,000? Trump speech ignites price rally as ETFs gain $157m](https://www.dlnews.com/articles/markets/wall-street-ploughs-funds-into-ethereum-network-before-price-rallies/)**
+**[Are Institutions Killing Bitcoin And Ethereum? Here’s How They’ve Fared Since Companies Got Involved](https://www.tradingview.com/news/newsbtc:e6815b3ee094b:0-are-institutions-killing-bitcoin-and-ethereum-here-s-how-they-ve-fared-since-companies-got-involved/)**
 
-Trump’s State of the Union address has injected fresh optimism into markets. Ethereum’s price has rallied 15% this week to $2,050. Bitmine keeps accumulating tokens with weekly purchases.
+Institutional capital has transformed the cryptocurrency market dynamics, changing who participates and how digital assets are traded. The arrival of spot exchange-traded funds, corporate treasury allocations, and access through major brokerage platforms has pulled Bitcoin and Ethereum deeper into…
 
-dlnews.com • 1d ago
+TradingView • 50m ago
 
 ---
 
@@ -200,33 +192,43 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum Flashes Early Reversal Signal As Taker Ratio Turns](https://www.tradingview.com/news/newsbtc:3ef4aa9ac094b:0-ethereum-flashes-early-reversal-signal-as-taker-ratio-turns/)**
+**[Ethereum at $250,000? Trump speech ignites price rally as ETFs gain $157m](https://www.dlnews.com/articles/markets/wall-street-ploughs-funds-into-ethereum-network-before-price-rallies/)**
 
-A shift in Ethereum’s derivatives flow on Binance is starting to hint at a possible change in market structure, even as ETH itself remains in a corrective phase. According to CryptoQuant contributor Darkfost, the Taker Buy Sell Ratio is no longer flashing the same persistent sell-side aggression th…
+Trump’s State of the Union address has injected fresh optimism into markets. Ethereum’s price has rallied 15% this week to $2,050. Bitmine keeps accumulating tokens with weekly purchases.
 
-TradingView • 11h ago
-
----
-
-**[Vitalik Buterin Maps Quantum Upgrade to Ethereum to Replace Core Cryptography](https://decrypt.co/359352/vitalik-buterin-maps-quantum-upgrade-ethereum)**
-
-Buterin has outlined a phased roadmap to replace four vulnerable components of Ethereum's cryptographic architecture.
-
-Decrypt • 22h ago
+dlnews.com • 1d ago
 
 ---
 
-**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1772209800)**
+**[ETHZilla Drops Ethereum Treasury Label in Rebrand After Share Price Collapse](https://decrypt.co/359186/ethzilla-ethereum-rebrand-share-price-collapse)**
+
+The move follows investor exits, asset sales and a retreat from holding Ethereum on the public company's balance sheet.
+
+Decrypt • 1d ago
+
+---
+
+**[XRP vs. Ethereum: Which Cryptocurrency Has More Upside in 2026?](https://www.fool.com/investing/2026/02/27/xrp-vs-ethereum-which-cryptocurrency-has-more-ups/)**
+
+Both chains are getting upgrades, and both are positioned for the future.
+
+The Motley Fool • 17h ago
+
+---
+
+**[Crypto News: Pepeto Presale Passes $7.35M Fast as Cardano Price Prediction Stalls and Ethereum Whales Shift to Presales](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-presale-passes-7-35m-fast-as-cardano-price-prediction-stalls-and-ethereum-whales-shift-to-presales-1035879263)**
+
+Dubai, UAE, Feb.  27, 2026  (GLOBE NEWSWIRE) -- Pepeto's presale just crossed $7.35 million and stages are filling faster than any previous round....
+
+markets.businessinsider.com • 5h ago
+
+---
+
+**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1772183700)**
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 6h ago
-
----
-
-**[Large cryptocurrencies drop on Ethereum, Solana decreases](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-solana-decreases-40a1c716-8b042fb12dc2?gaa_at=eafs&gaa_n=AWEtsqd3RnJPCDcgwY4Hpzw8JlLQjqR7cn1FCfnXHN3Ken9_hncTns1j8JUI&gaa_ts=69a210e8&gaa_sig=X1C6_B1PHPQ5E7NK23u2K2oqoX5ZDijJtKrfvMEICWJkKIxGdBt9QKBKgXQrxM1QJo5t4bqJDBT_vyrK9h7Hjg%3D%3D)**
-
-MarketWatch • 7h ago
+Polymarket • 11h ago
 
 ---
 
@@ -234,13 +236,13 @@ MarketWatch • 7h ago
 
 ## YouTube Videos: "ethereum"
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=hxeMnO7u2xM)**
+**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 More Crypto Online
+📺 Crypto World
 
-👁️ 897 • 👍 99 • 💬 3 • ⏱️ 4:56 • 4h ago
+👁️ 1K • 👍 112 • 💬 9 • ⏱️ 20:17 • 1h ago
 
 ---
 
@@ -250,27 +252,17 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 📺 Thomas Kralow
 
-👁️ 31K • 👍 3K • 💬 50 • ⏱️ 5:59 • 1d ago
+👁️ 32K • 👍 3K • 💬 51 • ⏱️ 5:59 • 1d ago
 
 ---
 
-**[Why Ethereum Isn&#39;t Bitcoin&#39;s Little Brother: Sharplink CEO](https://www.youtube.com/watch?v=pvG3sBnPjZE)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=hxeMnO7u2xM)**
 
-Ethereum has long been compared to Bitcoin — but according to Sharplink CEO and former BlackRock digital assets leader ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Coinage
+📺 More Crypto Online
 
-👁️ 10K • 👍 232 • 💬 58 • ⏱️ 21:21 • 2d ago
-
----
-
-**[HUGE Bitcoin Warning For The Market Ethereum Layer 2 CLASH Major Cardano Binance Coin Shakeup](https://www.youtube.com/watch?v=UMpYTHQS2U0)**
-
-We've got some major shake ups happening in the crypto market right now. it seems 2026 isnt too different from 2021 as we're ...
-
-📺 The Modern Investor
-
-👁️ 5K • 👍 676 • 💬 62 • ⏱️ 29:34 • 12h ago
+👁️ 1K • 👍 115 • 💬 4 • ⏱️ 4:56 • 4h ago
 
 ---
 
@@ -280,17 +272,17 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 📺 Tevis
 
-👁️ 39K • 👍 2K • 💬 284 • ⏱️ 13:38 • 1d ago
+👁️ 39K • 👍 2K • 💬 286 • ⏱️ 13:38 • 1d ago
 
 ---
 
-**[This Ethereum Upgrade Attracts Billions in Institutional Money #LBank Fee Discount](https://www.youtube.com/watch?v=mK5yJGqPY1g)**
+**[🔥HOT NEWS🔥 XRP RIPPLE ETH  n REGS](https://www.youtube.com/watch?v=Tss2U2vdybI)**
 
-The Pectra upgrade marks an important event for Ethereum, significantly boosting transaction speeds and reducing fees, paving ...
+xrp #bitcoin #hbar #xlm #eth https://twitter.com/HobbiesCards Here we are with low volume and relatively low prices. XRP and ...
 
-📺 ReferCoin Lab
+📺 CRYPTO with KLAUS
 
-👁️ 2K • 👍 40 • ⏱️ 0:45 • 4h ago
+👁️ 3K • 👍 366 • 💬 128 • ⏱️ 15:02 • 4h ago
 
 ---
 
@@ -300,17 +292,37 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 182 • 👍 7 • 💬 1 • ⏱️ 4:27 • 12h ago
+👁️ 221 • 👍 7 • 💬 1 • ⏱️ 4:27 • 13h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=tui97rPvzmg)**
+**[Why Ethereum Isn&#39;t Bitcoin&#39;s Little Brother: Sharplink CEO](https://www.youtube.com/watch?v=pvG3sBnPjZE)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+Ethereum has long been compared to Bitcoin — but according to Sharplink CEO and former BlackRock digital assets leader ...
 
-📺 More Crypto Online
+📺 Coinage
 
-👁️ 3K • 👍 158 • 💬 8 • ⏱️ 4:58 • 1d ago
+👁️ 10K • 👍 233 • 💬 58 • ⏱️ 21:21 • 2d ago
+
+---
+
+**[HUGE Bitcoin Warning For The Market Ethereum Layer 2 CLASH Major Cardano Binance Coin Shakeup](https://www.youtube.com/watch?v=UMpYTHQS2U0)**
+
+We've got some major shake ups happening in the crypto market right now. it seems 2026 isnt too different from 2021 as we're ...
+
+📺 The Modern Investor
+
+👁️ 6K • 👍 700 • 💬 63 • ⏱️ 29:34 • 13h ago
+
+---
+
+**[This Ethereum Upgrade Attracts Billions in Institutional Money #LBank Fee Discount](https://www.youtube.com/watch?v=mK5yJGqPY1g)**
+
+The Pectra upgrade marks an important event for Ethereum, significantly boosting transaction speeds and reducing fees, paving ...
+
+📺 ReferCoin Lab
+
+👁️ 2K • 👍 40 • ⏱️ 0:45 • 5h ago
 
 ---
 
@@ -320,17 +332,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 1K • 👍 31 • 💬 3 • ⏱️ 14:30 • 1d ago
-
----
-
-**[Circle ($CRCL): Explodiert die Kurserholung? | Netflix | Ethereum | Bitcoin](https://www.youtube.com/watch?v=qO_88VZTXuo)**
-
-01:00 Wirtschaftsdaten 02:23 Fear & Greed Index 06:32 Circle 11:29 Netflix 19:54 Jane Street 29:07 Ethereum 35:10 Bitcoin ...
-
-📺 Märkte & Trends
-
-👁️ 3K • 👍 200 • 💬 28 • ⏱️ 38:15 • 11h ago
+👁️ 1K • 👍 32 • 💬 3 • ⏱️ 14:30 • 1d ago
 
 ---
 

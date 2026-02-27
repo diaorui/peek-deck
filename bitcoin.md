@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T22:24:44.709700+00:00'
+updated: '2026-02-27T22:51:27.183869+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
+- cryptocurrency
 - videos
 - news
-- cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 22:24 UTC  
+**Last Updated:** February 27, 2026 at 22:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,587.93
+### $65,666.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
+**24h:** -2.7%  
 **7d:** -3.5%  
 **30d:** -22.5%  
 **90d:** -27.5%  
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1311.67B
+**Market Cap:** $1312.16B
 Rank #1
 
-**Circulating Supply:** 19,995,650 BTC
+**Circulating Supply:** 19,995,671 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -48.0%
 
 **All-Time Low:** $67.81
-+96651.2%
++96655.6%
 
 ---
 
@@ -77,9 +77,15 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
+
+2h ago
+
+---
+
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -88,12 +94,6 @@ Rank #1
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
 11h ago
-
----
-
-**[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
-
-2h ago
 
 ---
 
@@ -117,7 +117,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 10h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-3h ago
+4h ago
 
 ---
 
@@ -137,17 +137,17 @@ See you in 10 years.
 
 ---
 
-**[All money is money](https://www.reddit.com/r/Bitcoin/comments/1rfk4kg/all_money_is_money/)**
+**[Brazil Solar Mega-Project Studies Bitcoin Mining Plan](https://www.reddit.com/r/Bitcoin/comments/1rgk0uh/brazil_solar_megaproject_studies_bitcoin_mining/)**
 
-1d ago
+Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
+
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 1h ago
 
 ---
 
-**[Accidental fortune - young entrepreneur becomes overnight millionaire from early 2000s investment. Question: How many other self-made billionaires are out there that "don't even know"?](https://www.reddit.com/r/Bitcoin/comments/1rftvdz/accidental_fortune_young_entrepreneur_becomes/)**
+**[All money is money](https://www.reddit.com/r/Bitcoin/comments/1rfk4kg/all_money_is_money/)**
 
-https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-fortune/ This man invested money in 2009 and returned later to see it worth almost 900k. The possibilities are endless. It makes me wonder how many other millionaires are out there that don't even know. Have you invested money into a wallet that you forgot about / have any of your friends? With Bitcoin increasing over the decades the way it has, I wonder how many more of these 'uncovered a boatload of free & unlimited cash' stories we'll find?
-
-20h ago
+1d ago
 
 ---
 
@@ -175,39 +175,39 @@ The New York Times • 1d ago
 
 ---
 
-**[The Bull Case for Bitcoin Is Hiding in the $1 Trillion Wreckage](https://www.bloomberg.com/news/articles/2026-02-25/the-bull-case-for-bitcoin-is-hiding-in-the-1-trillion-wreckage)**
+**['Bitcoin Retail Investors Are All In' And That's Why There's No Floor, Blockstream CEO Says](https://finance.yahoo.com/news/bitcoin-retail-investors-thats-why-104508164.html)**
 
-Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
+Blockstream CEO Adam Back told CNBC that Bitcoin (CRYPTO: BTC) lacks downside support because retail investors are “all in” with no cash left to buy dips, explaining the 25% year-to-date decline. The ‘All In’ Problem Back on Monday explained that...
 
-Bloomberg.com • 1d ago
-
----
-
-**[BTC price falls with ETH, SOL while decred, AI-linked tokens advance: Crypto Markets Today](https://www.coindesk.com/markets/2026/02/27/bitcoin-falls-with-ether-solana-while-decred-ai-linked-tokens-advance)**
-
-Positioning in futures and options shows traders looking to protect against further declines.
-
-CoinDesk • 10h ago
+Yahoo Finance • 12h ago
 
 ---
 
-**[Bitcoin Rebound Stalls at $65K as Stocks Fall and Gold Rises](https://finance.yahoo.com/news/bitcoin-rebound-stalls-65k-stocks-193335336.html)**
+**[Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit says](https://www.coindesk.com/markets/2026/02/27/bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-below-usd60-000-deribit-says)**
 
-Bitcoin fell Friday after briefly topping $69K this week, while stocks like CoreWeave and BitMine tumbled amid broader market losses.
+Market participants with long-term vision are buying downside protection.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Fake mail carrier accused of violently strangling Seattle homeowner’s wife during demand for bitcoin](https://www.king5.com/article/news/local/fake-mail-carrier-accused-of-violently-strangling-seattle-homeowners-wife-during-demand-for-bitcoin/281-2e1dbfe9-e6ad-49e9-abc2-3d78eae26bb7)**
-
-Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
-
-KING5.com • 2h ago
+CoinDesk • 16h ago
 
 ---
 
-**[Former Mt. Gox CEO proposes hard fork to recover $5.2 billion in bitcoin from 2011 theft](https://www.theblock.co/post/391635/former-mt-gox-ceo-proposes-hard-fork-recover-5-2-billion-bitcoin-2011-theft?utm_source=companies.xml&utm_medium=rss)**
+**[Oil prices surge after US & Iran don't reach deal, bitcoin slumps](https://finance.yahoo.com/video/oil-prices-surge-us-iran-190527625.html)**
+
+Yahoo Finance Host Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute, including bitcoin (BTC-USD) sliding back below $66,000 per token while crude oil prices (CL=F, BZ=F) surge after the US and Iran break from negotiations without reaching a new nuclear deal. Stay up to date on the latest market action, minute-by-minute, with&nbsp;Yahoo Finance's Market Minute.
+
+Yahoo Finance • 3h ago
+
+---
+
+**[Citi wants to make bitcoin bankable as Wall Street builds native crypto infrastructure](https://www.coindesk.com/business/2026/02/27/citi-and-morgan-stanley-expand-bitcoin-and-crypto-custody-trading-and-tokenization-efforts)**
+
+The Wall Street giants are accelerating digital asset strategies, with Citi focusing on regulated Bitcoin custody and cross-margining infrastructure and Morgan Stanley pushing spot crypto access and on-platform services.
+
+CoinDesk • 3h ago
+
+---
+
+**[Former Mt. Gox CEO proposes hard fork to recover $5.2 billion in bitcoin from 2011 theft](https://www.theblock.co/post/391635/former-mt-gox-ceo-proposes-hard-fork-recover-5-2-billion-bitcoin-2011-theft)**
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
@@ -219,7 +219,7 @@ The Block • 1h ago
 
 A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -235,7 +235,7 @@ Investor's Business Daily • 7h ago
 
 **[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
 
-⬆️ 9 • 💬 3 • 1d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+⬆️ 9 • 💬 3 • 2d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
 
 ---
 
@@ -271,7 +271,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
-⬆️ 1 • 💬 1 • 19h ago • [ordain.art](https://ordain.art)
+⬆️ 1 • 💬 1 • 20h ago • [ordain.art](https://ordain.art)
 
 ---
 
@@ -309,43 +309,23 @@ The Chicago-based company said it was temporarily suspending client deposits and
 
 ## YouTube Videos: "bitcoin"
 
-**[The Biggest Crypto Trap I&#39;ve Ever Seen](https://www.youtube.com/watch?v=93kAh88MZKc)**
-
-Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
-
-📺 Altcoin Daily
-
-👁️ 43K • 👍 3K • 💬 128 • ⏱️ 13:24 • 21h ago
-
----
-
 **[How Wall Street Took Over Bitcoin](https://www.youtube.com/watch?v=JJwwVcdHlV0)**
 
 How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.funvest.com ▻ How To Protect Your Bitcoin, use ...
 
 📺 Andrei Jikh
 
-👁️ 100K • 👍 7K • 💬 668 • ⏱️ 18:56 • 5h ago
+👁️ 208K • 👍 10K • 💬 971 • ⏱️ 18:56 • 5h ago
 
 ---
 
-**[Bitcoin Under Pressure as Layoffs Surge and AI Uncertainty Spreads](https://www.youtube.com/watch?v=6zO05z_J7T4)**
+**[The Biggest Crypto Trap I&#39;ve Ever Seen](https://www.youtube.com/watch?v=93kAh88MZKc)**
 
-Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face a new wave of uncertainty. Mass layoffs across ...
+Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
 
-📺 The Wolf Of All Streets
+📺 Altcoin Daily
 
-👁️ 8K • 👍 568 • 💬 147 • ⏱️ 25:02 • 7h ago
-
----
-
-**[🚨 BITCOIN MANIPULATION FOUND!?!?!??! 🚀](https://www.youtube.com/watch?v=QW1YSktWBLQ)**
-
-Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
-
-📺 BRITISH HODL
-
-👁️ 12K • 👍 1K • 💬 163 • ⏱️ 8:44 • 1d ago
+👁️ 45K • 👍 3K • 💬 130 • ⏱️ 13:24 • 22h ago
 
 ---
 
@@ -355,7 +335,17 @@ Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 12K • 👍 729 • 💬 38 • ⏱️ 16:32 • 10h ago
+👁️ 14K • 👍 793 • 💬 43 • ⏱️ 16:32 • 10h ago
+
+---
+
+**[🚨 BITCOIN MANIPULATION FOUND!?!?!??! 🚀](https://www.youtube.com/watch?v=QW1YSktWBLQ)**
+
+Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New to Bitcoin? Watch my training, “The $5m ...
+
+📺 BRITISH HODL
+
+👁️ 12K • 👍 1K • 💬 162 • ⏱️ 8:44 • 1d ago
 
 ---
 
@@ -369,41 +359,53 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Into 
 
 ---
 
-**[Did BlackRock Use ETFs to Control Bitcoin’s Price?!](https://www.youtube.com/watch?v=OlKI9AuSpTA)**
-
-Is Jane Street the reason Bitcoin is not sitting at 150K right now? Massive claims of ETF manipulation, shorting strategies, and ...
-
-📺 Simply Bitcoin
-
-👁️ 23K • 👍 2K • 💬 133 • ⏱️ 24:42 • 23h ago
-
----
-
 **[Bitcoin Manipulation Exposed: They Are Shorting MicroStrategy to ZERO?!](https://www.youtube.com/watch?v=1F6cfLhP9_A)**
 
 Bitcoin did not just crash. It may have been engineered. From Terra's collapse to a $19 billion liquidation event and the sudden ...
 
 📺 Simply Bitcoin
 
-👁️ 46K • 👍 3K • 💬 209 • ⏱️ 15:03 • 2d ago
+👁️ 47K • 👍 3K • 💬 209 • ⏱️ 15:03 • 2d ago
 
 ---
 
-**[How Jane Street Can Manipulate Bitcoin](https://www.youtube.com/watch?v=w6LZUaCo50w)**
+**[The Biggest Bitcoin Short Squeeze of 2026 Is Loading [Proof]](https://www.youtube.com/watch?v=4z0knsMozq4)**
 
-📺 Andrei Jikh
+Bitcoin ripped into a relief rally after sweeping range lows, liquidating a wave of shorts and shifting momentum for the first time in ...
 
-👁️ 60K • 👍 2K • 💬 118 • ⏱️ 1:18 • 1d ago
+📺 Crypto Banter
+
+👁️ 31K • 👍 2K • 💬 55 • ⏱️ 34:54 • 1d ago
 
 ---
 
-**[HUGE Bitcoin BUY Signal Flashes](https://www.youtube.com/watch?v=5v2EdldIVwo)**
+**[Bitcoin Under Pressure as Layoffs Surge and AI Uncertainty Spreads](https://www.youtube.com/watch?v=6zO05z_J7T4)**
 
-Nick Valdez looks at an insanely accurate Bitcoin signal that says “THE BOTTOM IS IN!” We are currently at the moment that ...
+Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face a new wave of uncertainty. Mass layoffs across ...
+
+📺 The Wolf Of All Streets
+
+👁️ 10K • 👍 608 • 💬 133 • ⏱️ 25:02 • 8h ago
+
+---
+
+**[BITCOIN BEAR MARKET IS OVER](https://www.youtube.com/watch?v=CD0wAot-Jd0)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 425 • 💬 79 • ⏱️ 7:23 • 22h ago
+👁️ 16K • 👍 132 • 💬 22 • ⏱️ 0:09 • 1d ago
+
+---
+
+**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
+
+BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 1K • 👍 112 • 💬 9 • ⏱️ 20:17 • 1h ago
 
 ---
 
