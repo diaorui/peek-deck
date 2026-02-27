@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T04:25:30.257284+00:00'
+updated: '2026-02-27T05:36:00.592373+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
 - news
-- videos
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 04:25 UTC  
+**Last Updated:** February 27, 2026 at 05:36 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.2%  
-**7d:** +4.5%  
-**30d:** -27.0%  
-**90d:** -31.1%  
-**1y:** -7.8%  
+**24h:** -0.8%  
+**7d:** +3.7%  
+**30d:** -27.5%  
+**90d:** -31.6%  
+**1y:** -8.5%  
 
 ---
 
@@ -68,19 +68,19 @@ No max supply
 
 ## Reddit: r/ethereum
 
-**[Daily General Discussion February 26, 2026](https://www.reddit.com/r/ethereum/comments/1rf2aoa/daily_general_discussion_february_26_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-22h ago
-
----
-
 **[Highlights from the All Core Developers Execution (ACDE) Call #231](https://www.reddit.com/r/ethereum/comments/1rfvrp6/highlights_from_the_all_core_developers_execution/)**
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 50m ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 2h ago
+
+---
+
+**[Daily General Discussion February 26, 2026](https://www.reddit.com/r/ethereum/comments/1rf2aoa/daily_general_discussion_february_26_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+23h ago
 
 ---
 
@@ -88,7 +88,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
 
-7h ago
+8h ago
 
 ---
 
@@ -96,7 +96,7 @@ Most people know ERC-20 from 2017+ culture, but the design constraints were visi
 
 EF Protocol publishes Strawmap, a technical strawman roadmap that visualizes Ethereum L1 upgrades through 2029, framing dependencies, headliners, & five long-term north stars.
 
-🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 22h ago
+🔗 [EtherWorld.co](https://etherworld.co/ethereum-introduces-strawmap-a-strawman-roadmap-for-ethereums-l1-future/) • 23h ago
 
 ---
 
@@ -120,7 +120,7 @@ The Ethereum Foundation has published a draft long-term roadmap called “Strawm
 
 https://www.coindesk.com/markets/2026/02/25/vitalik-buterin-sold-17-000-eth-this-month-as-ether-fell-37 Vitalik Buterin sold 17,000 ETH this month as ether dropped 37% Vitalik Buterin has reduced his ether holdings by about 17,000 ETH, or $43 million, in February after pledging a similar amount to fund privacy and security projects. The sales, executed in many small trades via the CoW Protocol, have coincided with a 37% drop in ether's price over the past month to around $1,900. Ether's decline and compressed staking yields near 2.8% have deepened unrealized losses for major corporate holders such as Bitmine Immersion Technologies. The Ethereum co-founder's tracked wallets dropped from 241,000 ETH to 224,000 ETH in February, with sales routed through CoW Protocol in small batches to limit market impact
 
-1h ago
+2h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Ethereum Foundation has started staking a portion of its ETH treasury, with 
 
 Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-CoinDesk • 7h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -164,7 +164,15 @@ CoinDesk • 7h ago
 
 TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
 
-The Block • 18h ago
+The Block • 19h ago
+
+---
+
+**[XRP vs. Ethereum: Which Cryptocurrency Has More Upside in 2026?](https://www.fool.com/investing/2026/02/27/xrp-vs-ethereum-which-cryptocurrency-has-more-ups/)**
+
+Both chains are getting upgrades, and both are positioned for the future.
+
+The Motley Fool • 21m ago
 
 ---
 
@@ -172,19 +180,11 @@ The Block • 18h ago
 
 Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
-**[ETH Casino 2026 - Best Ethereum Casinos for US Players](https://muddyrivernews.com/gambling/ethereum-casinos/20260223091539/)**
-
-Discover top Ethereum casinos in the US. Play with ETH, enjoy instant transactions, fast payouts, generous bonuses, and secure crypto gaming platforms.
-
-Muddy River News • 3d ago
-
----
-
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqe_fc3WWoqrpe5WdE83AgceCFee4jNXYbSRWLd--WnL4vLyvWkmbDgX&gaa_ts=69a12025&gaa_sig=nOdDIpDdCWJkKJvua--0VvoZtEF7ab8caJJ_qYsPimBW8uSfgqjhZQk9GoPP5SN30-Ba68fMH5k-spkFmBcwIw%3D%3D)**
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqfbrwkgaFhr9z0bXx2ewDF_byrLE5Llsxo0AlKForvuA5vu-cKCCB1O&gaa_ts=69a130aa&gaa_sig=zyFrEGN1gOnEOC58bK1CkquHHLhcg-CdqeRvEhGd8KhRtqrjsrLToUBCGG9iVFet-QFZRnE6UqFXWG4WL2fROA%3D%3D)**
 
 Barron's • 2d ago
 
@@ -198,17 +198,27 @@ Decrypt • 1d ago
 
 ---
 
+**[Here’s what fueled Ethereum’s latest price hike above $2000](https://ambcrypto.com/heres-what-fueled-ethereums-latest-price-hike-above-2000/)**
+
+As Friday's Options expiry looms, what might ETH's price do?
+
+AMBCrypto • 1d ago
+
+---
+
 **[Saylor Leaves XRP Out, Backs Solana and Ethereum for Digital Credit Future](https://www.tradingview.com/news/coinpedia:bf994c30b094b:0-saylor-leaves-xrp-out-backs-solana-and-ethereum-for-digital-credit-future/)**
 
 Michael Saylor has built his reputation as one of Bitcoin’s most vocal supporters. For years, his message was simple: Bitcoin is digital property, and companies should hold it.But at the recent Strategy World 2026 conference, Saylor shifted the conversation.This time, he wasn’t just talking about B…
 
-TradingView • 15h ago
+TradingView • 16h ago
 
 ---
 
-**[Ethereum Is Growing. So Why Is The ETH Price Collapsing?](https://www.forbes.com/sites/greatspeculations/2026/02/24/ethereum-is-growing-so-why-is-the-eth-price-collapsing/)**
+**[Vitalik Buterin Says Ethereum Will Soon Achieve Quantum Resistance](https://beincrypto.com/vitalik-buterin-ethereum-quantum-resistance/)**
 
-Forbes • 2d ago
+Vitalik Buterin says Ethereum will achieve quantum resistance via hash-based signatures outlined in the new 4-year Strawmap upgrade roadmap.
+
+BeInCrypto • 22h ago
 
 ---
 
@@ -217,14 +227,6 @@ Forbes • 2d ago
 Vitalik Buterin sells millions in ETH amid market slump.
 
 thestreet.com • 2d ago
-
----
-
-**[Elon’s Grok AI Predicts the Price of XRP, Cardano, and Ethereum By the End of 2026](https://cryptonews.com/news/elons-grok-ai-predicts-the-price-of-xrp-cardano-and-ethereum-by-the-end-of-2026/)**
-
-Feeding Grok AI a carefully calibrated prompt unlocks some surprisingly bullish 2026 price projections for XRP, Solana and Ethereum.
-
-Cryptonews • 1d ago
 
 ---
 
@@ -238,7 +240,7 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 📺 Thomas Kralow
 
-👁️ 26K • 👍 3K • 💬 49 • ⏱️ 5:59 • 19h ago
+👁️ 26K • 👍 3K • 💬 49 • ⏱️ 5:59 • 20h ago
 
 ---
 
@@ -248,7 +250,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 539 • 👍 29 • 💬 2 • ⏱️ 14:30 • 9h ago
+👁️ 539 • 👍 29 • 💬 2 • ⏱️ 14:30 • 11h ago
 
 ---
 
@@ -258,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 141 • 💬 10 • ⏱️ 4:58 • 11h ago
+👁️ 2K • 👍 141 • 💬 10 • ⏱️ 4:58 • 12h ago
 
 ---
 
@@ -268,7 +270,7 @@ BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 5K • 👍 258 • 💬 43 • ⏱️ 17:34 • 7h ago
+👁️ 5K • 👍 258 • 💬 43 • ⏱️ 17:34 • 8h ago
 
 ---
 
@@ -298,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 247 • 👍 13 • 💬 4 • ⏱️ 4:21 • 18h ago
+👁️ 247 • 👍 13 • 💬 4 • ⏱️ 4:21 • 19h ago
 
 ---
 
@@ -308,7 +310,7 @@ Brian from Santiment joined me to review the Onchain metrics for the crypto mark
 
 📺 Thinking Crypto
 
-👁️ 2K • 👍 161 • 💬 68 • ⏱️ 23:27 • 14h ago
+👁️ 2K • 👍 161 • 💬 68 • ⏱️ 23:27 • 15h ago
 
 ---
 
@@ -318,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 124 • 💬 6 • ⏱️ 4:33 • 16h ago
+👁️ 2K • 👍 124 • 💬 6 • ⏱️ 4:33 • 17h ago
 
 ---
 
@@ -328,7 +330,7 @@ Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 402 • 👍 8 • ⏱️ 0:54 • 7h ago
+👁️ 402 • 👍 8 • ⏱️ 0:54 • 9h ago
 
 ---
 

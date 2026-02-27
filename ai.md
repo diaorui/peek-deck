@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T04:25:30.242786+00:00'
+updated: '2026-02-27T05:36:00.577945+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- videos
-- repositories
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 04:25 UTC  
+**Last Updated:** February 27, 2026 at 05:36 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
 
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 3h ago
+🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 We embedded invisible Unicode characters inside normal-looking trivia questions. The hidden characters encode a different answer. If the AI outputs the hidden answer instead of the visible one, it followed the invisible instruction. Think of it as a reverse CAPTCHA, where traditional CAPTCHAs test things humans can do but machines can't, this exploits a channel machines can read but humans can't see. The biggest finding: giving the AI access to tools (like code execution) is what makes this dangerous. Without tools, models almost never follow the hidden instructions. With tools, they can write scripts to decode the hidden message and follow it. We tested GPT-5.2, GPT-4o-mini, Claude Opus 4, Sonnet 4, and Haiku 4.5 across 8,308 graded outputs. Other interesting findings: - OpenAI and Anthropic models are vulnerable to different encoding schemes — an attacker needs to know which model they're targeting - Without explicit decoding hints, compliance is near-zero — but a single line like "check for hidden Unicode" is enough to trigger extraction - Standard Unicode normalization (NFC/NFKC) does not strip these characters Full results: https://moltwire.com/research/reverse-captcha-zw-steganography Open source: https://github.com/canonicalmg/reverse-captcha-eval
 
-🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 9h ago
+🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 10h ago
 
 ---
 
@@ -57,7 +57,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 Have it your way?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 11h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 12h ago
 
 ---
 
@@ -65,7 +65,7 @@ Have it your way?
 
 The Linux kernel continues seeing more open-source kernel drivers emerge for supporting different AI accelerators / NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/NXP-Neutron-Linux-Accel-Driver) • 6m ago
+🔗 [phoronix.com](https://www.phoronix.com/news/NXP-Neutron-Linux-Accel-Driver) • 1h ago
 
 ---
 
@@ -73,7 +73,7 @@ The Linux kernel continues seeing more open-source kernel drivers emerge for sup
 
 I used just the first 6 episodes of season 1 as the database for testing and here is the outputs from the AI I got from it: And you know what else? "it's got steam heat "i got steam heat "but i need your love to keep away the cold i got... " all right, break it up! what's going on here? your little peep show is over! we're taking back our men! peep show? i just do this for would you like to meet him? would you like to see? yeah, i've never actually seen a baby being... oh, god! congratulations. it's a boy. wait a minute. i don't think we're through. oh, my god! is it twins? no. it's a map of europe. i confirmed everything with the birthday party planner... lois, could you ask chris to pass the maple syrup? meg, could you tell chris that i'm sorry i ran you over and killed mr. shatner. don't worry. once i'm of this body cast, i'll do enough living for me and bill. honey, can't we go back to living in my closet There was more that I would like to post here but I am not on this sub reddit a lot so I don't know if it will get past the rules Should I keep adding more episodes to the data set or should I leave this?
 
-17m ago
+1h ago
 
 ---
 
@@ -81,7 +81,7 @@ I used just the first 6 episodes of season 1 as the database for testing and her
 
 Hey guys, you might remember me. I was the guy that built the geolocation tool called Netryx. I have since built a web version and got it running on the cloud. I tried some real test cases where pictures are usually blurry, shaky and low res and got wonderful results with the tool. Below is an example geolocating a blurry frame of a video from the Paris protests a while back. Let me know what you think!
 
-18h ago
+19h ago
 
 ---
 
@@ -89,7 +89,15 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 .
 
-🔗 [phoronix.com](https://www.phoronix.com/review/intel-penryn-to-panther-lake/11) • 9h ago
+🔗 [phoronix.com](https://www.phoronix.com/review/intel-penryn-to-panther-lake/11) • 10h ago
+
+---
+
+**[OpenAI to make London its biggest research hub outside US](https://www.reddit.com/r/artificial/comments/1rfd74d/openai_to_make_london_its_biggest_research_hub/)**
+
+he move feeds into Britain's push to cast itself as an "AI superpower" and a home for cutting-edge research at a time when governments are vying for investment from major model developers.
+
+🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 14h ago
 
 ---
 
@@ -103,15 +111,7 @@ today was the first time i spoke to it directly using voice i asked it about spa
 
 **[Niantic: Bringing spatial intelligence to the industrial edge](https://www.reddit.com/r/artificial/comments/1rfeb2l/niantic_bringing_spatial_intelligence_to_the/)**
 
-🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 12h ago
-
----
-
-**[OpenAI to make London its biggest research hub outside US](https://www.reddit.com/r/artificial/comments/1rfd74d/openai_to_make_london_its_biggest_research_hub/)**
-
-he move feeds into Britain's push to cast itself as an "AI superpower" and a home for cutting-edge research at a time when governments are vying for investment from major model developers.
-
-🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 12h ago
+🔗 [iottechnews.com](https://iottechnews.com/news/niantic-bringing-spatial-intelligence-industrial-edge/) • 13h ago
 
 ---
 
@@ -123,7 +123,45 @@ he move feeds into Britain's push to cast itself as an "AI superpower" and a hom
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-blog.google • 12h ago
+blog.google • 13h ago
+
+---
+
+**[Build with Nano Banana 2, our best image generation and editing model](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/)**
+
+Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and fidelity for all image applications.
+
+blog.google • 13h ago
+
+---
+
+**[Google launches Nano Banana 2, updating its viral AI image generator](https://www.cnbc.com/2026/02/26/google-launches-nano-banana-2-updating-its-viral-ai-image-generator.html)**
+
+Nano Banana 2 is Google's newest version of its Gemini AI image generator, with increased speed and real-time sourcing.
+
+CNBC • 12h ago
+
+---
+
+**[Anthropic CEO says it ‘cannot in good conscience accede’ to Pentagon’s demands for AI use](https://apnews.com/article/anthropic-ai-pentagon-hegseth-dario-amodei-9b28dda41bdb52b6a378fa9fc80b8fda)**
+
+Anthropic CEO Dario Amodei says the artificial intelligence company “cannot in good conscience accede” to the Pentagon’s demands to allow wider use of its technology.
+
+AP News • 2h ago
+
+---
+
+**[Mizuho Plans to Replace 5,000 Clerical Jobs with AI in 10 Years](https://www.bloomberg.com/news/articles/2026-02-27/mizuho-plans-to-replace-5-000-clerical-jobs-with-ai-in-10-years)**
+
+Bloomberg.com • 26m ago
+
+---
+
+**[Pope Leo XIV cautions priests against AI reliance in homilies, urges continuous study, community connection](https://www.10tv.com/article/news/nation-world/pope-leo-cautions-against-ai-reliance/507-d2539385-d50a-41ae-b2de-b7a8a21f82da)**
+
+Pope Leo XIV urged priests to resist using AI to prepare homilies and embrace authentic connections during a meeting with the clergy last week. (AP)
+
+10TV • 38m ago
 
 ---
 
@@ -131,27 +169,21 @@ blog.google • 12h ago
 
 Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
-**[Block Cuts 40% of Its Work Force Because of Its Embrace of A.I. - The New York Times](https://www.nytimes.com/2026/02/26/technology/block-square-job-cuts-ai.html)**
+**[Jack Dorsey's Block cuts thousands of jobs as it embraces AI](https://www.bbc.com/news/articles/cq570d12y9do)**
 
-The New York Times • 3h ago
+The Twitter co-founder says he believes the majority of firms will make similar changes "within the next year."
 
----
-
-**[Jack Dorsey’s Block to Lay Off 40% of Its Workforce in AI Remake](https://www.wsj.com/business/jack-dorseys-block-to-lay-off-4-000-employees-in-ai-remake-28f0d869?gaa_at=eafs&gaa_n=AWEtsqcnF4ywAk9gcm9xsyM_O_XpjhkbgPx6j7HE2Qo-XYPkevnqJrrN_XYn&gaa_ts=69a12021&gaa_sig=8UgzBA8y10pXCpA4V-q_tz099vWMR7knZ8L3jH9h_Q47ug1TdltjebssKslEGKouExOw0xV0nukPJCzptmwGcQ%3D%3D)**
-
-WSJ • 3h ago
+BBC • 5h ago
 
 ---
 
-**[Anthropic boss rejects Pentagon demands to drop AI safeguards](https://www.bbc.com/news/articles/cvg3vlzzkqeo)**
+**[Jack Dorsey’s Block to Lay Off 40% of Its Workforce in AI Remake](https://www.wsj.com/business/jack-dorseys-block-to-lay-off-4-000-employees-in-ai-remake-28f0d869?gaa_at=eafs&gaa_n=AWEtsqf6LN4blreuYUt88XyUe8uzfiCcZOkAJEZKVhoOYXE8CfNZxntWnIZh&gaa_ts=69a130a7&gaa_sig=yQXj2-N-9G-EWDhY0rMFBuzFQSGdiaxQv-GyzSv_EWLnWLu_qIlUjw3q6BaQwQadPCnqgceOLiLC7HUFZI54sQ%3D%3D)**
 
-Defense Secretary Pete Hegseth previously threatened to remove the firm from the department's supply chain.
-
-BBC • 3h ago
+WSJ • 4h ago
 
 ---
 
@@ -159,37 +191,7 @@ BBC • 3h ago
 
 Brady Tkachuk said he didn't appreciate the AI-doctored video released by the White House that made it appear he was disparaging Canadians.
 
-ESPN • 9h ago
-
----
-
-**[‘It's clearly fake': Olympic hockey star disavows AI-generated White House video](https://www.politico.com/news/2026/02/26/brady-tkachuk-white-house-ai-video-00802767)**
-
-Politico • 3h ago
-
----
-
-**[Brady Tkachuk annoyed White House posted AI-doctored video of him belittling Canadians: 'It's clearly fake'](https://sports.yahoo.com/olympics/article/brady-tkachuk-annoyed-white-house-posted-ai-doctored-video-of-him-belittling-canadians-its-clearly-fake-211025429.html)**
-
-While Tkachuk helped U.S. men's hockey win its first Olympic gold medal since 1980, he's also the captain of the Ottawa Senators.
-
-Yahoo Sports • 5h ago
-
----
-
-**[AI Hurtles Ahead](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead)**
-
-In his latest memo, Howard Marks revisits the subject of AI, providing his observations on its essence and how it differs from previous technological innovations.
-
-Oaktree Capital Management • 20h ago
-
----
-
-**[Elon Musk's makeshift AI power plant generates sound and fury in Mississippi](https://www.nbcnews.com/news/us-news/musks-ai-power-plant-generates-sound-fury-mississippi-rcna258594)**
-
-The 27 temporary gas turbines roar like jet engines day and night to power data centers, residents say.
-
-NBC News • 16h ago
+ESPN • 10h ago
 
 ---
 
@@ -205,19 +207,19 @@ A minute-by-minute reconstruction of the massacre by Earshot and Forensic Archit
 
 ---
 
-**[How we rebuilt Next.js with AI in one week](https://news.ycombinator.com/item?id=47142156)**
-
-One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
-
-⬆️ 521 • 💬 228 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
-
----
-
 **[Nano Banana 2: Google's latest AI image generation model](https://news.ycombinator.com/item?id=47167858)**
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 513 • 💬 491 • 12h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 526 • 💬 496 • 13h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+
+---
+
+**[How we rebuilt Next.js with AI in one week](https://news.ycombinator.com/item?id=47142156)**
+
+One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
+
+⬆️ 521 • 💬 229 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
 
 ---
 
@@ -231,7 +233,7 @@ The latest update of Firefox, version 148, introduces a much-anticipated "AI kil
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 332 • 💬 160 • 12h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 334 • 💬 161 • 13h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -271,7 +273,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 106 • 💬 47 • 3h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 113 • 💬 48 • 4h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -285,7 +287,7 @@ The brutal reality of AI: 2000 workers axed from tech giant #news #technology #a
 
 📺 news.com.au
 
-👁️ 4K • 👍 44 • 💬 21 • ⏱️ 2:01 • 23h ago
+👁️ 4K • 👍 44 • 💬 21 • ⏱️ 2:01 • 1d ago
 
 ---
 
@@ -295,7 +297,7 @@ Anthropic CEO Dario Amodei said the company cannot agree to the Pentagon's ultim
 
 📺 NBC News
 
-👁️ 22K • 👍 470 • 💬 154 • ⏱️ 4:24 • 4h ago
+👁️ 22K • 👍 470 • 💬 154 • ⏱️ 4:24 • 5h ago
 
 ---
 
@@ -305,7 +307,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 81K • 👍 4K • 💬 176 • ⏱️ 11:55 • 14h ago
+👁️ 81K • 👍 4K • 💬 176 • ⏱️ 11:55 • 15h ago
 
 ---
 
@@ -325,7 +327,7 @@ Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/jo
 
 📺 Chris Norlund
 
-👁️ 55K • 👍 3K • 💬 493 • ⏱️ 16:02 • 18h ago
+👁️ 55K • 👍 3K • 💬 493 • ⏱️ 16:02 • 20h ago
 
 ---
 
@@ -335,7 +337,7 @@ Technology journalist Jacob Ward, host of “The Rip Current,” joins Meet the 
 
 📺 NBC News
 
-👁️ 10K • 👍 193 • 💬 116 • ⏱️ 9:03 • 5h ago
+👁️ 10K • 👍 193 • 💬 116 • ⏱️ 9:03 • 7h ago
 
 ---
 
@@ -345,7 +347,7 @@ CNBC's Deidre Bosa reports on news regarding agentic AI.
 
 📺 CNBC Television
 
-👁️ 23K • 👍 232 • 💬 57 • ⏱️ 4:21 • 10h ago
+👁️ 23K • 👍 232 • 💬 57 • ⏱️ 4:21 • 12h ago
 
 ---
 
@@ -365,7 +367,7 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 11K • 👍 564 • 💬 57 • ⏱️ 1:11:08 • 14h ago
+👁️ 11K • 👍 564 • 💬 57 • ⏱️ 1:11:08 • 15h ago
 
 ---
 
@@ -375,7 +377,7 @@ ZoomPartner Can YOU tell which pics are AI or real? We had an AI Dog on my live 
 
 📺 Rebecca Zamolo
 
-👁️ 120K • 👍 2K • 💬 167 • ⏱️ 0:54 • 6h ago
+👁️ 120K • 👍 2K • 💬 167 • ⏱️ 0:54 • 7h ago
 
 ---
 
@@ -463,7 +465,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 255,172 • ❤️ 814 • 22h ago
+⬇️ 255,172 • ❤️ 814 • 23h ago
 
 ---
 
@@ -645,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.0k • 🔱 2.5k • 55s ago
+⭐ 20.0k • 🔱 2.5k • 1h ago
 
 ---
 
@@ -663,7 +665,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.7k • 🔱 690 • 22h ago
+⭐ 5.7k • 🔱 690 • 23h ago
 
 ---
 
@@ -683,7 +685,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `crypto`
 
-⭐ 3.6k • 🔱 358 • 4m ago
+⭐ 3.6k • 🔱 358 • 1h ago
 
 ---
 
@@ -693,7 +695,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.5k • 🔱 451 • 46m ago
+⭐ 3.5k • 🔱 451 • 1h ago
 
 ---
 
@@ -703,7 +705,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.0k • 🔱 370 • 50m ago
+⭐ 3.0k • 🔱 370 • 2h ago
 
 ---
 
@@ -713,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 203 • 3h ago
+⭐ 2.9k • 🔱 203 • 4h ago
 
 ---
 
@@ -723,7 +725,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 298 • 10m ago
+⭐ 2.7k • 🔱 298 • 1h ago
 
 ---
 
@@ -733,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.6k • 🔱 523 • 2h ago
+⭐ 2.6k • 🔱 523 • 3h ago
 
 ---
 
