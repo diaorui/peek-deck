@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T22:51:27.192978+00:00'
+updated: '2026-02-27T23:25:59.421752+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 22:51 UTC  
+**Last Updated:** February 27, 2026 at 23:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-5h ago
+6h ago
 
 ---
 
@@ -52,7 +52,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
-10h ago
+11h ago
 
 ---
 
@@ -66,7 +66,7 @@ Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
 Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-4h ago
+5h ago
 
 ---
 
@@ -90,7 +90,7 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 
 Hi everyone, Thank you so much to everyone who has already signed up - we're excited by the response from the robotics community! I wanted to share an update: we've secured $13,500 in cash prizes for Agent and Robotics Hackathon 2026! 🎉 We're also finalizing additional non-cash prizes and will share more details as we get closer to the event. For those interested in participating, you can find more information and register at https://www.kxsb.org/ar26 Looking forward to seeing what everyone creates!
 
-3h ago
+4h ago
 
 ---
 
@@ -106,7 +106,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 My Son wants to do Robotics in High School. Clubs seems to be costly. What is the advantage of going to Robotics club vs doing some projects using Raspberry Pi or Arduino? Doing it on his own, he may be missing competitions? What kind of components are used in competitions? Can someone playing with Arduino compete and win? How does this help students get into better college or courses like Mechatronics.?
 
-1h ago
+2h ago
 
 ---
 
@@ -140,7 +140,7 @@ The Verge • 1d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqelRLURcciieqzgWiBeLln1VszH3LzDPYx0Y-cHDf57IxK8JvKp0Qo6&gaa_ts=69a2235b&gaa_sig=2tWKoDMgYmxXBYqCxjxERQs_K9kzRvYHqLHjqqK9fvpxLfgEnbGLSpFXdVrGFAOOQTsoB0RAqV8LKGgEHFfqbA%3D%3D)**
 
-WSJ • 52m ago
+WSJ • 1h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Robot Report • 1h ago
 
 Dieter Pletscher of Kassow Robots shares advice for overcoming common hurdles in deploying collaborative robots.
 
-The Robot Report • 24m ago
+The Robot Report • 59m ago
 
 ---
 
@@ -164,7 +164,7 @@ The Robot Report • 24m ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -172,13 +172,13 @@ Financial Times • 12h ago
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 8h ago
+Automotive News • 9h ago
 
 ---
 
 **[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
 
 ---
 
@@ -200,7 +200,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 144K • 👍 2K • 💬 304 • ⏱️ 14:16 • 4d ago
+👁️ 144K • 👍 2K • 💬 304 • ⏱️ 14:16 • 5d ago
 
 ---
 
@@ -230,7 +230,7 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 📺 Carros Show
 
-👁️ 36K • 👍 532 • 💬 153 • ⏱️ 8:38 • 5d ago
+👁️ 36K • 👍 532 • 💬 153 • ⏱️ 8:38 • 6d ago
 
 ---
 
@@ -288,7 +288,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 131K • 👍 1K • 💬 521 • ⏱️ 1:27 • 20h ago
+👁️ 131K • 👍 1K • 💬 521 • ⏱️ 1:27 • 21h ago
 
 ---
 

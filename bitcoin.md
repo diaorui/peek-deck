@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T22:51:27.183869+00:00'
+updated: '2026-02-27T23:25:59.413800+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
 - news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 22:51 UTC  
+**Last Updated:** February 27, 2026 at 23:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-8h ago
+9h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 16h ago
 
 Yahoo Finance Host Josh Lipton tracks today's top moving stocks and biggest market stories in this Market Minute, including bitcoin (BTC-USD) sliding back below $66,000 per token while crude oil prices (CL=F, BZ=F) surge after the US and Iran break from negotiations without reaching a new nuclear deal. Stay up to date on the latest market action, minute-by-minute, with&nbsp;Yahoo Finance's Market Minute.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 3h ago
 
 The Wall Street giants are accelerating digital asset strategies, with Citi focusing on regulated Bitcoin custody and cross-margining infrastructure and Morgan Stanley pushing spot crypto access and on-platform services.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -211,7 +211,7 @@ CoinDesk • 3h ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ The Block • 1d ago
 
 **[MARA Surges On Data Center Partnership, AI Plans. Crypto Plays Report.](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
 
-Investor's Business Daily • 7h ago
+Investor's Business Daily • 8h ago
 
 ---
 
@@ -315,7 +315,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 208K • 👍 10K • 💬 971 • ⏱️ 18:56 • 5h ago
+👁️ 208K • 👍 10K • 💬 971 • ⏱️ 18:56 • 6h ago
 
 ---
 
@@ -335,7 +335,7 @@ Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 14K • 👍 793 • 💬 43 • ⏱️ 16:32 • 10h ago
+👁️ 14K • 👍 793 • 💬 43 • ⏱️ 16:32 • 11h ago
 
 ---
 
@@ -405,7 +405,7 @@ BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 1K • 👍 112 • 💬 9 • ⏱️ 20:17 • 1h ago
+👁️ 1K • 👍 112 • 💬 9 • ⏱️ 20:17 • 2h ago
 
 ---
 

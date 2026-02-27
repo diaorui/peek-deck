@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T22:51:27.175542+00:00'
+updated: '2026-02-27T23:25:59.406376+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
 - repositories
+- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 22:51 UTC  
+**Last Updated:** February 27, 2026 at 23:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-48m ago
+1h ago
 
 ---
 
@@ -49,7 +49,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
 
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 21h ago
+🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 22h ago
 
 ---
 
@@ -57,7 +57,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
 
-1h ago
+2h ago
 
 ---
 
@@ -79,7 +79,7 @@ A new wearable AI system watches your hands through smart glasses, guiding exper
 
 **[Murder is coming to AI, but not to Claude](https://www.reddit.com/r/artificial/comments/1rglko1/murder_is_coming_to_ai_but_not_to_claude/)**
 
-🔗 [zeitgeistml.substack.com](https://zeitgeistml.substack.com/p/murder-is-coming-to-ai-but-not-to) • 1m ago
+🔗 [zeitgeistml.substack.com](https://zeitgeistml.substack.com/p/murder-is-coming-to-ai-but-not-to) • 36m ago
 
 ---
 
@@ -103,7 +103,7 @@ Have it your way?
 
 "Researchers have been mapping the brain for more than a century. By tracing cellular patterns that are visible under a microscope, they’ve created colorful charts and models that delineate regions and have been able to associate them with functions. In recent years, they’ve added vastly greater detail: They can now go cell by cell and define each one by its internal genetic activity. But no matter how carefully they slice and how deeply they analyze, their maps of the brain seem incomplete, muddled, inconsistent. For example, some large brain regions have been linked to many different tasks; scientists suspect that they should be subdivided into smaller regions, each with its own job. So far, mapping these cellular neighborhoods from enormous genetic datasets has been both a challenge and a chore. Recently, Tasic, a neuroscientist and genomicist at the Allen Institute for Brain Science, and her collaborators recruited artificial intelligence for the sorting and mapmaking effort. They fed genetic data from five mouse brains — 10.4 million individual cells with hundreds of genes per cell — into a custom machine learning algorithm. The program delivered maps that are a neuro-realtor’s dream, with known and novel subdivisions within larger brain regions. Humans couldn’t delineate such borders in several lifetimes, but the algorithm did it in hours. The authors published their methods in Nature Communications in October. By applying the same technique to other animals and eventually to humans, researchers hope not only to detail the brain’s finer-grained layout but also to generate and test hypotheses about how the organ’s parts operate in health and disease."
 
-🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 16h ago
+🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 17h ago
 
 ---
 
@@ -111,7 +111,7 @@ Have it your way?
 
 For the last two years, my biggest worry about AI wasn't AGI or some science fiction dystopia, but simply that massive layoffs of white collar workers are not just a loss of workers, but, more importantly, a loss of consumers. The entire global economy, and particularly in America, is a consumerist economy. White collar workers also represent a disproportionate amount of the spending in the economy, so if that population is unemployed (or worried that they will be anytime soon), it will affect every single sector of the economy. Demand will collapse, revenues for every single company will crater, and even the hyperscalers who are capturing the value of the current AI boom will eventually run out of enterprise costumers, because they themselves have run out of human costumers. This is not like other technological disruptions. AI agents don't consume in the economy. For better or worse, what we need for prosperity is for companies to pay humans a living wage so that those humans are consumers of other businesses. What AI companies are going to do to all of us is a sort of Tragedy of the Commons: In a race to the bottom, each individual company is incentivized to lay off their workers to lower costs, but in doing so, they are also impoverishing their own (and others') costumers. Again, this doesn't just affect software companies or tech, it will affect everything. Restaurants will have fewer patrons, people will travel less, people will buy less real estate, less food, less everything, because they just can't afford it. Personally, this presents a massive cognitive dissonance that I'm struggling with. I have long held NVDA, GOOGL, MSFT, and others at the center of this revolution for many years. It's been good for my portfolio. I haven't sold a single share. And now I think that the short term sucess of these companies will result in the long term collapse of all my savings, and I still can't get myself to sell anything because I hope, more than anything, that I'm wrong. I'm a capitalist, but I think we need some sort of legislation. Something that protects the humans on this planet above short term corporate profits. There should be a law that forces companies to have a % of their workforce be humans, so only a % of your output can be done by agents. It may not optimize for what makes the most sense for that company on a spreadsheet, but without guardrails, the greed and short term profit motive is going to bring a level of societal pain we can't even imagine. Finally, before anyone mentions this. Yes, I've read the Citrini article. The fact that it's gotten so many people now taking my long-believed doomsday scenario, and the fact that I haven't been persuaded by the 'boom' alternatives that have come out, is why I'm more scared than ever. But again, I'm posting here partly because I hope to find an intelligent take that persuades me. I want to be wrong.
 
-3h ago
+4h ago
 
 ---
 
@@ -135,7 +135,7 @@ CNN • 1d ago
 
 **[Financial Shares Walloped by AI, Credit Woes Hit Three-Month Low](https://www.bloomberg.com/news/articles/2026-02-27/financial-shares-walloped-by-ai-credit-woes-hit-three-month-low)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -151,7 +151,7 @@ CBS News • 1h ago
 
 The prospects for AI to sustain build-out spending and to harm legacy industries continue to be front of mind for Wall Street.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -159,7 +159,7 @@ Yahoo Finance • 1h ago
 
 Plus, what the Texas primaries will reveal about the state of both parties.
 
-NBC News • 19m ago
+NBC News • 53m ago
 
 ---
 
@@ -167,7 +167,7 @@ NBC News • 19m ago
 
 The crackle of electricity inside your brain has long been too complex to decode. Artificial intelligence is changing that.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 8h ago
 
 The deal could ease some of Wall Street's fears about Amazon's monster $200 billion capex spending, and accelerate its development of AI tools.
 
-CNBC • 54m ago
+CNBC • 1h ago
 
 ---
 
@@ -233,7 +233,7 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 144 • 💬 58 • 21h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 144 • 💬 58 • 22h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -255,7 +255,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 80 • 💬 102 • 10h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 80 • 💬 102 • 11h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -285,7 +285,7 @@ Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookL
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 1K • 💬 83 • ⏱️ 33:50 • 5h ago
+👁️ 14K • 👍 1K • 💬 83 • ⏱️ 33:50 • 6h ago
 
 ---
 
@@ -305,7 +305,7 @@ Download Comet for FREE https://www.perplexity.ai/comet I explain every type of 
 
 📺 Tina Huang
 
-👁️ 11K • 👍 800 • 💬 59 • ⏱️ 19:01 • 9h ago
+👁️ 11K • 👍 800 • 💬 59 • ⏱️ 19:01 • 10h ago
 
 ---
 
@@ -345,7 +345,7 @@ On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI
 
 📺 Tom Bilyeu Clips
 
-👁️ 13K • 👍 298 • 💬 60 • ⏱️ 8:38 • 23h ago
+👁️ 13K • 👍 298 • 💬 60 • ⏱️ 8:38 • 1d ago
 
 ---
 
@@ -375,7 +375,7 @@ Will Anthropic be forced to make a version of Claude for war? And does a new pap
 
 📺 AI Explained
 
-👁️ 17K • 👍 1K • 💬 241 • ⏱️ 13:40 • 7h ago
+👁️ 17K • 👍 1K • 💬 241 • ⏱️ 13:40 • 8h ago
 
 ---
 
@@ -645,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.4k • 🔱 2.5k • 39m ago
+⭐ 20.4k • 🔱 2.5k • 1h ago
 
 ---
 
@@ -683,7 +683,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 360 • 7h ago
+⭐ 3.7k • 🔱 360 • 8h ago
 
 ---
 
@@ -693,7 +693,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.5k • 🔱 465 • 4h ago
+⭐ 3.5k • 🔱 465 • 5h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 209 • 9h ago
+⭐ 2.9k • 🔱 209 • 10h ago
 
 ---
 
@@ -723,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 309 • 6h ago
+⭐ 2.9k • 🔱 309 • 7h ago
 
 ---
 
@@ -733,7 +733,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 541 • 5h ago
+⭐ 2.8k • 🔱 541 • 6h ago
 
 ---
 
