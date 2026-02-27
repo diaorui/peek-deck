@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T15:07:09.454515+00:00'
+updated: '2026-02-27T16:00:03.811240+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 15:07 UTC  
+**Last Updated:** February 27, 2026 at 16:00 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,180.93
+### $65,888.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.7%  
-**7d:** -2.7%  
-**30d:** -21.8%  
-**90d:** -26.9%  
-**1y:** -21.4%  
+**24h:** -0.8%  
+**7d:** -2.8%  
+**30d:** -21.9%  
+**90d:** -27.0%  
+**1y:** -21.5%  
 
 ---
 
@@ -77,33 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
+
+1h ago
+
+---
+
 **[My latest mural just received 20k sats via QR code 🟠 Permissionless patronage in real life. Thank you 🙏🏼](https://www.reddit.com/r/Bitcoin/comments/1rfdtil/my_latest_mural_just_received_20k_sats_via_qr/)**
 
 No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
-23h ago
-
----
-
-**[Decided to buy $BTC instead of a Rolex.](https://www.reddit.com/r/Bitcoin/comments/1rfnlhy/decided_to_buy_btc_instead_of_a_rolex/)**
-
-See you in 10 years.
-
-17h ago
-
----
-
-**[All money is money](https://www.reddit.com/r/Bitcoin/comments/1rfk4kg/all_money_is_money/)**
-
-19h ago
-
----
-
-**[Citi Is Making Bitcoin "Bankable" — Here's What That Means for the Market](https://www.reddit.com/r/Bitcoin/comments/1rg4c62/citi_is_making_bitcoin_bankable_heres_what_that/)**
-
-Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 3h ago
+1d ago
 
 ---
 
@@ -111,21 +95,43 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-4h ago
+5h ago
+
+---
+
+**[Citi Is Making Bitcoin "Bankable" — Here's What That Means for the Market](https://www.reddit.com/r/Bitcoin/comments/1rg4c62/citi_is_making_bitcoin_bankable_heres_what_that/)**
+
+Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 4h ago
+
+---
+
+**[Decided to buy $BTC instead of a Rolex.](https://www.reddit.com/r/Bitcoin/comments/1rfnlhy/decided_to_buy_btc_instead_of_a_rolex/)**
+
+See you in 10 years.
+
+18h ago
+
+---
+
+**[Maybe they really do understand Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rg7c4v/maybe_they_really_do_understand_bitcoin/)**
+
+A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
+
+2h ago
+
+---
+
+**[All money is money](https://www.reddit.com/r/Bitcoin/comments/1rfk4kg/all_money_is_money/)**
+
+20h ago
 
 ---
 
 **[I backtested "taking a loan to buy Bitcoin" vs DCA across every month since 2016. Here's what 10 years of data shows.](https://www.reddit.com/r/Bitcoin/comments/1rfllln/i_backtested_taking_a_loan_to_buy_bitcoin_vs_dca/)**
 
 https://preview.redd.it/dj4slsvwfwlg1.png?width=1234&format=png&auto=webp&s=9f76d69777638172571d4bf6ebe8642dbbad919c TLDR: Even at 15% APR with 30% down, buying Bitcoin upfront on a loan beats DCA 67-89% of the time depending on the term length. But only if you don't get liquidated. I posted a similar idea on this sub a few months ago and got roasted. I got humbled and looked at the data. For every month from Jan 2016 to Feb 2026, I compared two strategies using the same total dollar outlay. Strategy A: put 30% down, borrow the rest at 15% APR, buy all BTC upfront, repay monthly. Strategy B: take that same total cash and DCA it over the same period. DCA actually gets more dollars to deploy because it includes interest payments. The loan still wins the majority of the time. The longer the term, the wider the gap. At 1 year the loan wins 67% of the time. At 5 years, 89%. Now the part that matters. I also simulated what happens with traditional crypto lenders. If BTC drops 50%+ from your entry price, they force-sell your Bitcoin to cover the loan. Everyone in my last post was right to bring up this crash risk. The periods where liquidation gets triggered are almost always ones where you bought near a top and DCA would have been the better play anyway. You already timed it badly. Liquidation just makes it permanent by selling your BTC at the worst possible moment instead of letting you hold through the recovery. A mate of mine went through exactly this in 2022 with a B2X on Ledn. BTC dropped, hit the liquidation threshold, Bitcoin gone. Your typical mortgage lender in tradfi doesn't repossess your house because prices dipped. But that's exactly how crypto lending works today. Liquidation makes bad timing permanent. And I think that's a design problem. I built a backtesting tool so you can test this with whatever assumptions you want. Code is open source. What if there was a loan product that worked like a mortgage? The data makes me think there's something here but the last post made it seem like nobody wants this. Genuinely curious what the sub thinks.
-
-18h ago
-
----
-
-**[Citi Wants To Bring Bitcoin Into Traditional Finance](https://www.reddit.com/r/Bitcoin/comments/1rfk0rl/citi_wants_to_bring_bitcoin_into_traditional/)**
-
-Be careful plebs, they want your bitcoin!
 
 19h ago
 
@@ -135,23 +141,15 @@ Be careful plebs, they want your bitcoin!
 
 https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-fortune/ This man invested money in 2009 and returned later to see it worth almost 900k. The possibilities are endless. It makes me wonder how many other millionaires are out there that don't even know. Have you invested money into a wallet that you forgot about / have any of your friends? With Bitcoin increasing over the decades the way it has, I wonder how many more of these 'uncovered a boatload of free & unlimited cash' stories we'll find?
 
-12h ago
+13h ago
 
 ---
 
-**[Maybe they really do understand Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rg7c4v/maybe_they_really_do_understand_bitcoin/)**
+**[Citi Wants To Bring Bitcoin Into Traditional Finance](https://www.reddit.com/r/Bitcoin/comments/1rfk0rl/citi_wants_to_bring_bitcoin_into_traditional/)**
 
-A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
+Be careful plebs, they want your bitcoin!
 
-1h ago
-
----
-
-**[With what exchange/trading platform do you have a good experience if you're in Europe in the recent years ?](https://www.reddit.com/r/Bitcoin/comments/1rg2lhe/with_what_exchangetrading_platform_do_you_have_a/)**
-
-I am an absolute beginner, want to start low 200€ per 3 month to test myself, doing DCA. So I need low spread and low fixed fees. The info on the sub about platforms in Europe is little and old. Many of the info is US focused. With all the regulation in EU, I can imagine there are differences (eg Swan is not available in most EU countries). So I'm asking for advice where to start. I've been said Kraken is good in Europe, but I don't see it in the FAQ. Any suggestion ?
-
-5h ago
+20h ago
 
 ---
 
@@ -159,17 +157,31 @@ I am an absolute beginner, want to start low 200€ per 3 month to test myself, 
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Resumes Slide After Quick Pullback in Risk Appetite](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-resumes-slide-after-quick-pullback-in-risk-appetite)**
+**[Bitcoin Miner Tied to Trumps Pummeled by Crypto Crash](https://finance.yahoo.com/news/bitcoin-miner-tied-trump-family-114935753.html)**
 
-Bloomberg • 21h ago
+American Bitcoin doubled down on a pure mining-and-hoarding strategy just as virtually every major rival fled to artificial intelligence, a bet championed by co-founder Eric Trump that looked prescient when Bitcoin was surging past $126,000 and increasingly precarious with the token trading around $70,000.  “With Bitcoin steeply drawn down from the highs, the retention strategy can amplify losses,” said Matthew Kimmell, a digital asset analyst at CoinShares.  The downturn puts American Bitcoin at the sharp end of a broader pullback across the Trump family’s crypto interests.
+
+Yahoo Finance • 23h ago
 
 ---
 
-**[Bitcoin ETF holders and treasury firms stack protection against price crash below $60,000, Deribit says](https://www.coindesk.com/markets/2026/02/27/bitcoin-etf-holders-and-treasury-firms-stack-protection-against-price-crash-below-usd60-000-deribit-says)**
+**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
 
-Market participants with long-term vision are buying downside protection.
+Reuters • 1d ago
 
-CoinDesk • 8h ago
+---
+
+**[Opinion | Donald Trump Is the Crypto President. Why Is It Struggling?](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)**
+
+The New York Times • 1d ago
+
+---
+
+**[ETH, SOL, XRP price news: Bitcoin slides Friday after Nvidia's earning pullback](https://www.coindesk.com/markets/2026/02/27/bitcoin-slides-friday-as-risk-off-mood-persists-but-majors-hold-weekly-gains)**
+
+Analysts say the latest drop appears to be a leverage flush and positioning cleanup rather than a structural trend reversal
+
+CoinDesk • 10h ago
 
 ---
 
@@ -177,35 +189,13 @@ CoinDesk • 8h ago
 
 Positioning in futures and options shows traders looking to protect against further declines.
 
-CoinDesk • 3h ago
-
----
-
-**[MARA swings to $1.7 billion Q4 loss on bitcoin markdown, shares jump 15% after Starwood AI deal](https://www.theblock.co/post/391530/mara-swings-1-7-billion-q4-loss-bitcoin-markdown-shares-jump-15-starwood-ai-deal)**
-
-A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
-
-The Block • 16h ago
-
----
-
-**[MARA Holdings Stock Surges. The Bitcoin Miner Is Moving Into AI.](https://www.barrons.com/articles/mara-holdings-earnings-stock-price-ai-e07c9341?gaa_at=eafs&gaa_n=AWEtsqc886GMZZ0ZfBJVTr1goMAMKJJJzGQY2Pt8mXK2IjpTT0qNMhPHVSiV&gaa_ts=69a1a8ec&gaa_sig=NIUSgf8rKet3o5NoHvdv1lmfRiNVlbUxary4zuxX4kBe3Rv5idTNOUsE7jcV9BmvT95LA8amzPT1g1RYeiugmg%3D%3D)**
-
-Barron's • 2h ago
-
----
-
-**[Pre-market movers: MARA and Block rally while CoreWeave tumbles on margin pressure](https://www.coindesk.com/markets/2026/02/27/mara-and-block-jump-double-digits-in-pre-market-trading-while-coreweave-sinks)**
-
-Mixed fourth quarter results highlight divergence between AI expansion plays and margin pressure.
-
 CoinDesk • 4h ago
 
 ---
 
-**[Opinion: Bitcoin has no business on a central bank’s balance sheet](https://www.marketwatch.com/story/bitcoin-has-no-business-on-a-central-banks-balance-sheet-bb236399?gaa_at=eafs&gaa_n=AWEtsqfYTDol55p8yKwzILnzw8fsxNXO0N76eOfjDKz08KeFk6oU_l4sd-4g&gaa_ts=69a1a8ec&gaa_sig=IbrBgFKk9McUYhnIQ_CPV5dxeihZuygAdZ-YmwX9oGaeHXJ0mpC3nFT2dOmiX8bK5iF0tJp3Ilf-Xd7yqkf1Dg%3D%3D)**
+**[Bitcoin Sinks Towards $65,000 as Inflation Douses Risk Appetite](https://www.bloomberg.com/news/articles/2026-02-27/bitcoin-sinks-towards-65-000-as-inflation-douses-risk-appetite)**
 
-MarketWatch • 1h ago
+Bloomberg.com • 43m ago
 
 ---
 
@@ -213,13 +203,7 @@ MarketWatch • 1h ago
 
 George Noble, who ran the number one mutual fund in America at Fidelity Investments in 1985 returning 79%, went on Steve Eisman’s Real Eisman Playbook podcast and didn’t hold back. Noble is bearish on Tesla (NASDAQ:TSLA) and Bitcoin (CRYPTO: BTC),...
 
-Yahoo Finance • 2h ago
-
----
-
-**[He Hopes to Turn the Island of Nevis Into a Libertarian Paradise, With Crypto](https://www.nytimes.com/2026/02/26/business/st-kitts-nevis-destiny-olivier-janssens-crypto-libertarian.html)**
-
-The New York Times • 3h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -228,6 +212,22 @@ The New York Times • 3h ago
 The private investment firms of Leon Cooperman and the Walton family disclosed bold stock buys last quarter.
 
 CNBC • 1d ago
+
+---
+
+**[MARA swings to $1.7 billion Q4 loss on bitcoin markdown, shares jump 15% after Starwood AI deal](https://www.theblock.co/post/391530/mara-swings-1-7-billion-q4-loss-bitcoin-markdown-shares-jump-15-starwood-ai-deal)**
+
+A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
+
+The Block • 17h ago
+
+---
+
+**[Bitcoin Miner MARA jumps 17% after striking a deal with Starwood to build AI data centers](https://www.coindesk.com/markets/2026/02/26/bitcoin-miner-mara-jumps-17-after-striking-a-deal-with-starwood-to-build-ai-data-centers)**
+
+The bitcoin miner inked a deal with investment firm Starwood to convert and expand select facilities to serve data center needs for AI.
+
+CoinDesk • 17h ago
 
 ---
 
@@ -273,7 +273,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
-⬆️ 1 • 💬 1 • 12h ago • [ordain.art](https://ordain.art)
+⬆️ 1 • 💬 1 • 13h ago • [ordain.art](https://ordain.art)
 
 ---
 
@@ -287,7 +287,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
 
-⬆️ 1 • 💬 0 • 21h ago • [GitHub](https://github.com/pyoneerC/deadhand)
+⬆️ 1 • 💬 0 • 22h ago • [GitHub](https://github.com/pyoneerC/deadhand)
 
 ---
 
@@ -295,7 +295,7 @@ Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance u
 
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
-⬆️ 1 • 💬 0 • 2d ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
+⬆️ 1 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
 
 ---
 
@@ -317,7 +317,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 108 • ⏱️ 13:24 • 14h ago
+👁️ 37K • 👍 2K • 💬 108 • ⏱️ 13:24 • 15h ago
 
 ---
 
@@ -337,7 +337,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 4K • 👍 326 • 47m ago
+👁️ 4K • 👍 326 • 1h ago
 
 ---
 
@@ -347,7 +347,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 11K • 👍 1K • 💬 142 • ⏱️ 8:44 • 19h ago
+👁️ 11K • 👍 1K • 💬 142 • ⏱️ 8:44 • 20h ago
 
 ---
 
@@ -365,7 +365,7 @@ Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 5K • 👍 497 • 💬 27 • ⏱️ 16:32 • 3h ago
+👁️ 5K • 👍 497 • 💬 27 • ⏱️ 16:32 • 4h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 8K • 👍 284 • 💬 8 • ⏱️ 1:07 • 20h ago
+👁️ 8K • 👍 284 • 💬 8 • ⏱️ 1:07 • 21h ago
 
 ---
 
@@ -405,7 +405,7 @@ Is Wall Street suppressing Bitcoin through ETFs, derivatives, and paper claims? 
 
 📺 Swan Bitcoin
 
-👁️ 38K • 👍 2K • 💬 108 • ⏱️ 18:46 • 16h ago
+👁️ 38K • 👍 2K • 💬 108 • ⏱️ 18:46 • 17h ago
 
 ---
 

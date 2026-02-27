@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T15:07:09.463718+00:00'
+updated: '2026-02-27T16:00:03.821534+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 15:07 UTC  
+**Last Updated:** February 27, 2026 at 16:00 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
-3h ago
+4h ago
+
+---
+
+**[First table jump from our robot!](https://www.reddit.com/r/robotics/comments/1rg83qy/first_table_jump_from_our_robot/)**
+
+Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
+
+1h ago
 
 ---
 
@@ -56,11 +64,19 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 ---
 
+**[Sprout on NBC’s Top Story](https://www.reddit.com/r/robotics/comments/1rg8yba/sprout_on_nbcs_top_story/)**
+
+Excellent interview and interaction with Sprout! It’s good to see and hear the movement of this bot. Dev kit today, home companion in the near future. Sign me up :)
+
+🔗 [youtu.be](https://youtu.be/XbAOMqkKLGU?si=SL88UalR6Ptgwuu5) • 1h ago
+
+---
+
 **[Mobile base companies](https://www.reddit.com/r/robotics/comments/1rg0m4k/mobile_base_companies/)**
 
 Hello, I'm looking for a vendor selling a reliable battle tested mobile base platform Should expose access to power rails, control over power output Autonomous docking and reliable charging a plus, decent battery life Something differential drive or skid, holonomic preferred Looking for a hardware vendor, not looking for service business model US preferred Thanks!
 
-7h ago
+8h ago
 
 ---
 
@@ -68,7 +84,7 @@ Hello, I'm looking for a vendor selling a reliable battle tested mobile base pla
 
 Hi everyone, We’re organizing a Robotics Community Meetup in Pune for people interested in robotics, automation, and manufacturing. What this meetup is about: Open discussions on careers, jobs, and internships in robotics and manufacturing Industry expectations, required skills, and project experience Networking with students, professionals, and robotics enthusiasts Live showcase of a robotic arm and a 3D printer, with practical discussion around automation and manufacturing use cases Details: Date: 28 February 2026 Time: 4:30 PM onwards Area: Near Baner Zudio, Pune (Exact location will be shared with confirmed participants) This is an informal, community-driven meetup, not a paid workshop or coaching session. If you’re interested, you can register here: https://forms.gle/ZCtw34ohS55yJozz6 Registrations will be closing soon due to limited capacity. Happy to answer any questions in the comments.
 
-1h ago
+2h ago
 
 ---
 
@@ -96,20 +112,6 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 ---
 
-**[EgoScale by Nvidia, a human-to-dexterous-manipulation transfer framework built on large-scale egocentric human data (20k hours) (Demos with a 22-DoF robotic hand)](https://www.reddit.com/r/robotics/comments/1rf62n4/egoscale_by_nvidia_a_humantodexterousmanipulation/)**
-
-- Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
-
-1d ago
-
----
-
-**[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
-
-23h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -130,19 +132,11 @@ Los Angeles Times • 2d ago
 
 ---
 
-**[Hyundai to show MobED at AW as robotics, AI expand in manufacturing](https://www.therobotreport.com/hyundai-show-mobed-aw-2026-robotics-ai-expand-manufacturing/)**
-
-MobED, a mobile robot from Hyundai, is just one of the systems from leading Korean and global companies that will be at AW 2026.
-
-The Robot Report • 3h ago
-
----
-
 **[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 5h ago
+Financial Times • 15h ago
 
 ---
 
@@ -164,7 +158,7 @@ bgr.com • 1d ago
 
 **[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
 
-Bloomberg • 10h ago
+Bloomberg.com • 11h ago
 
 ---
 
@@ -184,11 +178,17 @@ Fortune • 1d ago
 
 ---
 
-**[AMC Robotics Corporation Announces Strategic Collaboration with Sunward Logistics USA LLC for NovaArm™ Sorting Robot Deployment](https://finance.yahoo.com/news/amc-robotics-corporation-announces-strategic-133000543.html)**
+**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-NEW YORK, Feb. 27, 2026 (GLOBE NEWSWIRE) -- AMC Robotics Corporation (Nasdaq: AMCI) (“AMC Robotics” or the “Company”), an AI-driven robotics solutions provider, today announced a strategic collaboration with Sunward Logistics USA LLC (“Sunward”) in connection with the deployment and field validation of its next-generation warehouse sorting robot, NovaArm™. Under the collaboration, Sunward will serve as AMC Robotics’ first commercial deployment customer and its first strategic customer for NovaAr
+Tech Xplore • 19m ago
 
-Yahoo Finance • 1h ago
+---
+
+**[How CMU Built a World-Leading Robotics Ecosystem](https://www.cmu.edu/news/stories/archives/2026/february/how-cmu-built-a-world-leading-robotics-ecosystem)**
+
+From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
+
+Carnegie Mellon University | CMU • 1d ago
 
 ---
 
@@ -242,7 +242,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 16K • 👍 377 • 💬 127 • ⏱️ 12:16 • 13h ago
+👁️ 16K • 👍 377 • 💬 127 • ⏱️ 12:16 • 14h ago
 
 ---
 
@@ -252,7 +252,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 74K • 👍 723 • 💬 405 • ⏱️ 1:27 • 12h ago
+👁️ 74K • 👍 723 • 💬 405 • ⏱️ 1:27 • 13h ago
 
 ---
 
@@ -272,7 +272,7 @@ Unitree Robotics was one of the stops during German Chancellor Friedrich Merz's 
 
 📺 CGTN
 
-👁️ 3K • 👍 141 • 💬 3 • ⏱️ 1:47 • 3h ago
+👁️ 3K • 👍 141 • 💬 3 • ⏱️ 1:47 • 4h ago
 
 ---
 

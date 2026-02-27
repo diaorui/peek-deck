@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T15:07:09.460521+00:00'
+updated: '2026-02-27T16:00:03.817940+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - social
 - cryptocurrency
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 15:07 UTC  
+**Last Updated:** February 27, 2026 at 16:00 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,031.72
+### $1,950.27
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.6%  
-**7d:** -0.7%  
-**30d:** -30.6%  
-**90d:** -34.5%  
-**1y:** -12.4%  
+**24h:** -1.8%  
+**7d:** -1.3%  
+**30d:** -31.0%  
+**90d:** -34.9%  
+**1y:** -12.9%  
 
 ---
 
@@ -80,7 +80,15 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We added Ethereum as a payment option back in 2018, and since then, around 643,000 payments have been made with ETH through our gateway. Most spending happens on hosting, VPN services, and gaming. The average order value is around $159, with most payments ranging from $54 to $607. If you are looking for places that accept Ethereum, we have a merchant directory. Are you spending ETH anywhere these days?
 
-2h ago
+3h ago
+
+---
+
+**[MetaMask and Mastercard Launch Self‑Custody Crypto Card as MA Stock Rises](https://www.reddit.com/r/ethereum/comments/1rg6gx7/metamask_and_mastercard_launch_selfcustody_crypto/)**
+
+MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self-custody wallet control & stablecoin payments mainstream.
+
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 2h ago
 
 ---
 
@@ -92,25 +100,27 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 ---
 
-**[MetaMask and Mastercard Launch Self‑Custody Crypto Card as MA Stock Rises](https://www.reddit.com/r/ethereum/comments/1rg6gx7/metamask_and_mastercard_launch_selfcustody_crypto/)**
-
-MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self-custody wallet control & stablecoin payments mainstream.
-
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 1h ago
-
----
-
 **[Highlights from the All Core Developers Execution (ACDE) Call #231](https://www.reddit.com/r/ethereum/comments/1rfvrp6/highlights_from_the_all_core_developers_execution/)**
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 11h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 12h ago
 
 ---
 
-**[Please help this little Angel fight cancer!!](https://www.reddit.com/r/ethereum/comments/1rg67jz/please_help_this_little_angel_fight_cancer/)**
+**[Ethereal news weekly #13 | Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund](https://www.reddit.com/r/ethereum/comments/1rg9u5j/ethereal_news_weekly_13_strawmap_strawman_roadmap/)**
 
-1h ago
+Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
+
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 26m ago
+
+---
+
+**[ZkPatternMatcher: open-source CLI/library for circuit security pattern scanning (regex + semantic pass)](https://www.reddit.com/r/ethereum/comments/1rg9rlo/zkpatternmatcher_opensource_clilibrary_for/)**
+
+I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common security issues in ZK circuits. YAML-defined pattern packs (regex, fancyregex, literal) Optional semantic pass (--semantic) for cross-line checks CLI + library API SARIF/JSON/text outputs for CI workflows Current integration matrix: 16 vulnerable fixtures + 10 safe controls Repo: https://github.com/Teycir/ZkPatternMatcher
+
+29m ago
 
 ---
 
@@ -136,14 +146,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Ethereum archaeology: MistCoin + Unicorn Meat show how token design evolved before “DeFi” had a name](https://www.reddit.com/r/ethereum/comments/1rfmcpj/ethereum_archaeology_mistcoin_unicorn_meat_show/)**
-
-Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
-
-18h ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -152,7 +154,39 @@ Most people know ERC-20 from 2017+ culture, but the design constraints were visi
 
 Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
+
+---
+
+**[Vitalik Buterin unveils Ethereum roadmap to counter quantum computing threat](https://www.coindesk.com/tech/2026/02/26/vitalik-buterin-unveils-ethereum-roadmap-to-counter-quantum-computing-threat)**
+
+This move comes shortly after the Ethereum Foundation established a dedicated post-quantum research team to study the issue.
+
+CoinDesk • 21h ago
+
+---
+
+**[Ethereum Foundation researchers publish 'strawmap' outlining seven forks through 2029](https://www.theblock.co/post/391406/ethereum-foundation-researchers-publish-strawmap-outlining-seven-forks-through-2029)**
+
+The Ethereum Foundation’s "strawmap" outlines seven forks by 2029, targeting faster slots, reduced finality, and post-quantum upgrades.
+
+The Block • 1d ago
+
+---
+
+**[Here’s what fueled Ethereum’s latest price hike above $2000](https://ambcrypto.com/heres-what-fueled-ethereums-latest-price-hike-above-2000/)**
+
+As Friday's Options expiry looms, what might ETH's price do?
+
+AMBCrypto • 1d ago
+
+---
+
+**[How to buy ethereum — and what to know before you do](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-ethereum--and-what-to-know-before-you-do-221336099.html)**
+
+Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
+
+Yahoo Finance • 16h ago
 
 ---
 
@@ -164,27 +198,15 @@ The Block • 1d ago
 
 ---
 
-**[Ethereum ‘backbone’ of stablecoins despite price, MrBeast CEO says amid new crypto venture](https://www.dlnews.com/articles/markets/ethereum-backbone-of-stablecoins-despite-price-mrbeast-says/)**
+**[Large cryptocurrencies drop on Ethereum, Solana decreases](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-solana-decreases-40a1c716-8b042fb12dc2?gaa_at=eafs&gaa_n=AWEtsqfEl3KMsEhUKpnmyX-bQR7ZPYx4PrtNdJtOT8rsBwkzQIGU4Gq-8nO7&gaa_ts=69a1c2ed&gaa_sig=MXCzyQF5UJxWxn3Wb8lJNXEBG-h9vRTvO6YECAVIEh9pGGG4u8JhWplNxtLCwon3Fs09KKg5z9JUNNBPbp0gqw%3D%3D)**
 
-Beast Industries plans to launch fintech products. More than half of all stablecoins exist on the Ethereum network. In January, Bitmine invested $200 million into Beast Industries.
-
-dlnews.com • 4h ago
+MarketWatch • 1h ago
 
 ---
 
-**[How to buy ethereum — and what to know before you do](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-ethereum--and-what-to-know-before-you-do-221336099.html)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdTtPsBzk8YPTOUmKnQ5UUJ1gCkuiDum9SFr_wiLNpCw5EjmV8EdTlw&gaa_ts=69a1c2ed&gaa_sig=faGUWxj6Qud_HXexGINrFU4y7cLRm5-JPa--cs3qm6ayjipd9jJzIqKyU6r507ZUJrCONd-MDIrKOQ-YQLUE-Q%3D%3D)**
 
-Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
-
-Yahoo Finance • 15h ago
-
----
-
-**[Ethereum Flashes Early Reversal Signal As Taker Ratio Turns](https://www.tradingview.com/news/newsbtc:3ef4aa9ac094b:0-ethereum-flashes-early-reversal-signal-as-taker-ratio-turns/)**
-
-A shift in Ethereum’s derivatives flow on Binance is starting to hint at a possible change in market structure, even as ETH itself remains in a corrective phase. According to CryptoQuant contributor Darkfost, the Taker Buy Sell Ratio is no longer flashing the same persistent sell-side aggression th…
-
-TradingView • 4h ago
+Barron's • 7h ago
 
 ---
 
@@ -196,33 +218,11 @@ Decrypt • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqeoTjCvkA2q6mghfYRXzDvB-DZl2d-aK6YHihY-jTfyptj6NhiOIvek&gaa_ts=69a1a8ed&gaa_sig=8e51_2eyOrhVVqQ8DEI39K8udDIsNallNkVvbVyMLRKzPxZqTYv0V1_0BP-KmdC5dIcvCE8681yt_RBADtjZBw%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[XRP vs. Ethereum: Which Cryptocurrency Has More Upside in 2026?](https://www.fool.com/investing/2026/02/27/xrp-vs-ethereum-which-cryptocurrency-has-more-ups/)**
-
-Both chains are getting upgrades, and both are positioned for the future.
-
-The Motley Fool • 9h ago
-
----
-
 **[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772175000)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
-
----
-
-**[Here’s what fueled Ethereum’s latest price hike above $2000](https://ambcrypto.com/heres-what-fueled-ethereums-latest-price-hike-above-2000/)**
-
-As Friday's Options expiry looms, what might ETH's price do?
-
-AMBCrypto • 1d ago
 
 ---
 
@@ -246,7 +246,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 947 • 👍 31 • 💬 3 • ⏱️ 14:30 • 20h ago
+👁️ 947 • 👍 31 • 💬 3 • ⏱️ 14:30 • 21h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 8K • 👍 309 • 💬 50 • ⏱️ 17:34 • 17h ago
+👁️ 8K • 👍 309 • 💬 50 • ⏱️ 17:34 • 18h ago
 
 ---
 
@@ -286,7 +286,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 310 • 👍 58 • ⏱️ 7:10 • 1h ago
+👁️ 310 • 👍 58 • ⏱️ 7:10 • 2h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 8 • ⏱️ 4:58 • 21h ago
+👁️ 2K • 👍 156 • 💬 8 • ⏱️ 4:58 • 22h ago
 
 ---
 
@@ -316,7 +316,7 @@ Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 892 • 👍 13 • ⏱️ 0:54 • 18h ago
+👁️ 892 • 👍 13 • ⏱️ 0:54 • 19h ago
 
 ---
 
