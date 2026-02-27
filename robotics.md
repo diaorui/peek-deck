@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T16:51:53.852919+00:00'
+updated: '2026-02-27T17:37:31.787073+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- social
 - news
+- social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 16:51 UTC  
+**Last Updated:** February 27, 2026 at 17:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,25 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[Concept of a combat robot dog](https://www.reddit.com/r/robotics/comments/1rg4qby/concept_of_a_combat_robot_dog/)**
-
-Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
-
-4h ago
-
----
-
 **[First table jump from our robot!](https://www.reddit.com/r/robotics/comments/1rg83qy/first_table_jump_from_our_robot/)**
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-2h ago
+3h ago
+
+---
+
+**[Concept of a combat robot dog](https://www.reddit.com/r/robotics/comments/1rg4qby/concept_of_a_combat_robot_dog/)**
+
+Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
+
+5h ago
+
+---
+
+**[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
+
+59m ago
 
 ---
 
@@ -56,6 +62,14 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 ---
 
+**[Barista Demo pouring a Latte from CES](https://www.reddit.com/r/robotics/comments/1rgcety/barista_demo_pouring_a_latte_from_ces/)**
+
+Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
+
+31m ago
+
+---
+
 **[German Chancellor Friedrich Merz visited Unitree in China’s Hangzhou.](https://www.reddit.com/r/robotics/comments/1rf7kh5/german_chancellor_friedrich_merz_visited_unitree/)**
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
@@ -64,11 +78,19 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 ---
 
+**[Should I convert this project to ROS2](https://www.reddit.com/r/robotics/comments/1rgbxds/should_i_convert_this_project_to_ros2/)**
+
+Hi guys, I am planning my first robotics project, and came across this video: https://www.youtube.com/watch?v=IoCaTgmUSvc&t=471s This seems super cool and i have a 3D printer. The original video doesn't seem to use ROS at all, and I'm wondering if it would be a good idea to try to do the software part of the project from scratch using ROS2, or if not, what are the reasons for not using ROS for a robotics project?
+
+48m ago
+
+---
+
 **[Sprout on NBC’s Top Story](https://www.reddit.com/r/robotics/comments/1rg8yba/sprout_on_nbcs_top_story/)**
 
 Excellent interview and interaction with Sprout! It’s good to see and hear the movement of this bot. Dev kit today, home companion in the near future. Sign me up :)
 
-🔗 [youtu.be](https://youtu.be/XbAOMqkKLGU?si=SL88UalR6Ptgwuu5) • 1h ago
+🔗 [youtu.be](https://youtu.be/XbAOMqkKLGU?si=SL88UalR6Ptgwuu5) • 2h ago
 
 ---
 
@@ -76,7 +98,7 @@ Excellent interview and interaction with Sprout! It’s good to see and hear the
 
 Hello, I'm looking for a vendor selling a reliable battle tested mobile base platform Should expose access to power rails, control over power output Autonomous docking and reliable charging a plus, decent battery life Something differential drive or skid, holonomic preferred Looking for a hardware vendor, not looking for service business model US preferred Thanks!
 
-8h ago
+9h ago
 
 ---
 
@@ -84,31 +106,7 @@ Hello, I'm looking for a vendor selling a reliable battle tested mobile base pla
 
 Hi everyone, We’re organizing a Robotics Community Meetup in Pune for people interested in robotics, automation, and manufacturing. What this meetup is about: Open discussions on careers, jobs, and internships in robotics and manufacturing Industry expectations, required skills, and project experience Networking with students, professionals, and robotics enthusiasts Live showcase of a robotic arm and a 3D printer, with practical discussion around automation and manufacturing use cases Details: Date: 28 February 2026 Time: 4:30 PM onwards Area: Near Baner Zudio, Pune (Exact location will be shared with confirmed participants) This is an informal, community-driven meetup, not a paid workshop or coaching session. If you’re interested, you can register here: https://forms.gle/ZCtw34ohS55yJozz6 Registrations will be closing soon due to limited capacity. Happy to answer any questions in the comments.
 
-3h ago
-
----
-
-**[Closing robotics’ “100,000-year data gap”](https://www.reddit.com/r/robotics/comments/1rg63zg/closing_robotics_100000year_data_gap/)**
-
-Robotics faces a different scaling challenge than large language models. As Ken Goldberg has described it, there is a “100,000-year data gap” between the vast datasets used to train language systems and the limited embodied data available for robots. While simulation, synthetic data, and teleoperation all play a role, researchers such as Sergey Levine emphasize the importance of real-world deployment. The approach centers on putting robots into focused, useful roles where they can perform narrow tasks, collect experience, and incrementally improve. These early deployments are not intended to demonstrate broad generalization. They are structured to generate high-quality data while delivering practical value. Over time, repeated real-world interaction is expected to expand capability and refine performance.
-
-🔗 [Automate](https://www.automate.org/ai/industry-insights/on-the-job-learning-how-physical-intelligence-is-putting-robots-to-work) • 3h ago
-
----
-
-**[Boston Dynamics’ Atlas GM on Retiring R1 and Building the Production Humanoid](https://www.reddit.com/r/robotics/comments/1rfat9z/boston_dynamics_atlas_gm_on_retiring_r1_and/)**
-
-Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
-
-1d ago
-
----
-
-**[A Spanish engineer trying to use his smart vacuum cleaner robot with his PS5 gamepad discovered that he was able to control 7,000 devices around the world.](https://www.reddit.com/r/robotics/comments/1rf9mnu/a_spanish_engineer_trying_to_use_his_smart_vacuum/)**
-
-Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
-
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 1d ago
+4h ago
 
 ---
 
@@ -124,11 +122,33 @@ TechCrunch • 1d ago
 
 ---
 
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+**[BMW to put humanoid robots on production line at German plant](https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312)**
 
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costs
 
-Los Angeles Times • 2d ago
+Financial Times • 3h ago
+
+---
+
+**[Carmaker BMW to trial humanoid robots at German factory](https://www.yahoo.com/news/articles/carmaker-bmw-trial-humanoid-robots-163244341.html)**
+
+German carmaker BMW said Friday it plans to deploy two AI-powered humanoid robots in a factory in a pilot programme for the first time this year.The BMW Group's head of digitisation, Michael Stroebel,...
+
+Yahoo • 1h ago
+
+---
+
+**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+
+Bloomberg.com • 13h ago
+
+---
+
+**[Physical AI, part 1: The basics](https://institute.bankofamerica.com/transformation/physical-ai-part-1.html)**
+
+We explore how AI is moving from screens to machines that can see, learn and act across robotics, mobility and industry.
+
+Bank of America Institute • 1d ago
 
 ---
 
@@ -156,39 +176,17 @@ bgr.com • 1d ago
 
 ---
 
-**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+**[Novi Public Schools cuts ribbon on new 24,000-square-foot robotics center funded by 2019 bond](https://www.wxyz.com/news/region/oakland-county/novi-public-schools-cuts-ribbon-on-new-24-000-square-foot-robotics-center-funded-by-2019-bond)**
 
-Bloomberg.com • 12h ago
+Novi's new robotics hub gives students a dedicated space to build, test and compete, and district leaders say more STEM expansion is on the way.
 
----
-
-**[Physical AI, part 1: The basics](https://institute.bankofamerica.com/transformation/physical-ai-part-1.html)**
-
-We explore how AI is moving from screens to machines that can see, learn and act across robotics, mobility and industry.
-
-Bank of America Institute • 1d ago
-
----
-
-**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
-
-Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
-
-Fortune • 1d ago
+WXYZ Channel 7 • 12h ago
 
 ---
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
 Tech Xplore • 1h ago
-
----
-
-**[How CMU Built a World-Leading Robotics Ecosystem](https://www.cmu.edu/news/stories/archives/2026/february/how-cmu-built-a-world-leading-robotics-ecosystem)**
-
-From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
-
-Carnegie Mellon University | CMU • 1d ago
 
 ---
 
@@ -202,7 +200,17 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 137K • 👍 2K • 💬 293 • ⏱️ 14:16 • 4d ago
+👁️ 140K • 👍 2K • 💬 298 • ⏱️ 14:16 • 4d ago
+
+---
+
+**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
+
+China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
+
+📺 NewsX Live
+
+👁️ 24K • 👍 173 • 💬 69 • ⏱️ 2:18 • 1d ago
 
 ---
 
@@ -212,17 +220,17 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 101K • 👍 2K • 💬 1K • ⏱️ 7:18 • 2d ago
+👁️ 103K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
 
 ---
 
-**[I Connected Space Mouse to Robot Arm](https://www.youtube.com/watch?v=Gmn1Me7VwaA)**
+**[China Unveils Its First Robot Army That Will Change the Future of Warfare](https://www.youtube.com/watch?v=8A-jwqhLcV8)**
 
-Click this link https://boot.dev/?promo=NIKODEM and use my code NIKODEM to get 25% off your first payment for boot.dev Robot ...
+China has unveiled its first fully integrated robot army, a development that signals a dramatic shift in the future of modern warfare.
 
-📺 Nikodem Bartnik
+📺 Carros Show
 
-👁️ 384 • 👍 49 • 💬 4 • ⏱️ 13:16 • 2h ago
+👁️ 36K • 👍 530 • 💬 153 • ⏱️ 8:38 • 5d ago
 
 ---
 
@@ -232,7 +240,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 87 • 💬 22 • ⏱️ 24:08 • 1d ago
+👁️ 3K • 👍 90 • 💬 23 • ⏱️ 24:08 • 1d ago
 
 ---
 
@@ -242,7 +250,17 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 16K • 👍 377 • 💬 127 • ⏱️ 12:16 • 15h ago
+👁️ 21K • 👍 442 • 💬 157 • ⏱️ 12:16 • 16h ago
+
+---
+
+**[Unitree Introducing | Unitree As2  Your Companion](https://www.youtube.com/watch?v=1ONE4l_pgHw)**
+
+Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of no-load runtime, IP54 rainproof design. With a 15 ...
+
+📺 Unitree Robotics
+
+👁️ 1.3M • 👍 2K • 💬 365 • ⏱️ 0:58 • 3d ago
 
 ---
 
@@ -252,7 +270,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 74K • 👍 723 • 💬 405 • ⏱️ 1:27 • 14h ago
+👁️ 90K • 👍 812 • 💬 445 • ⏱️ 1:27 • 15h ago
 
 ---
 
@@ -262,37 +280,15 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 21K • 👍 370 • 💬 330 • ⏱️ 2:30 • 5d ago
+👁️ 21K • 👍 372 • 💬 332 • ⏱️ 2:30 • 6d ago
 
 ---
 
-**[Why did German Chancellor Merz visit Unitree Robotics?](https://www.youtube.com/watch?v=O7UV7qWLGu4)**
+**[He is so cute with this mini robot 🥹 (robot now on sale💕)#couples #longdistancerelationship #robot](https://www.youtube.com/watch?v=V4WwHl2pcDk)**
 
-Unitree Robotics was one of the stops during German Chancellor Friedrich Merz's two-day visit to China. From America's Super ...
+📺 Romi Pal
 
-📺 CGTN
-
-👁️ 3K • 👍 141 • 💬 3 • ⏱️ 1:47 • 5h ago
-
----
-
-**[How close are robots to everyday life?](https://www.youtube.com/watch?v=34y-DfXYhOs)**
-
-From staggering dance steps to smooth martial arts performances, humanoid robots at the CMG Spring Festival Gala have ...
-
-📺 CGTN
-
-👁️ 32K • 👍 209 • 💬 42 • ⏱️ 4:41 • 1d ago
-
----
-
-**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
-
-Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
-
-📺 Reuters
-
-👁️ 83K • 👍 1K • 💬 392 • ⏱️ 0:55 • 1d ago
+👁️ 63K • 👍 1K • 💬 23 • ⏱️ 0:19 • 1d ago
 
 ---
 
