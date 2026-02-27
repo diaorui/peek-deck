@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-26T23:31:27.361434+00:00'
+updated: '2026-02-27T02:08:08.081210+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 26, 2026 at 23:31 UTC  
+**Last Updated:** February 27, 2026 at 02:08 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-9h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-12h ago
+14h ago
 
 ---
 
@@ -52,7 +52,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-9h ago
+12h ago
 
 ---
 
@@ -60,7 +60,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 10h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 13h ago
 
 ---
 
@@ -68,13 +68,13 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-13h ago
+16h ago
 
 ---
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-7h ago
+10h ago
 
 ---
 
@@ -82,7 +82,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-12h ago
+15h ago
 
 ---
 
@@ -96,7 +96,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 **[Some punches — recorded Gevo throwing punches. We are Corporación Robot](https://www.reddit.com/r/robotics/comments/1rfajgp/some_punches_recorded_gevo_throwing_punches_we/)**
 
-9h ago
+12h ago
 
 ---
 
@@ -104,7 +104,7 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. In particular, I’ve noticed most demos focus on performance-oriented tasks, like dancing or even kung fu. But those seem very different from the kinds of scenarios that would generate large-scale, real economic value in actual deployment. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
 
-12h ago
+15h ago
 
 ---
 
@@ -120,14 +120,6 @@ CNBC • 1d ago
 
 ---
 
-**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
-
-Intrinsic is focused on making robots easier to program, teach, and operate.
-
-The Verge • 12h ago
-
----
-
 **[Alphabet-owned robotics software company Intrinsic joins Google](https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/)**
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
@@ -136,19 +128,57 @@ TechCrunch • 1d ago
 
 ---
 
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.nbcbayarea.com/news/local/humanoid-robot-soldier-foundation/4041777/)**
+**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
 
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots onto future battlefields.
+Intrinsic is focused on making robots easier to program, teach, and operate.
 
-NBC Bay Area • 2d ago
+The Verge • 15h ago
 
 ---
 
-**[7 Next-Gen Chinese Humanoid Robots: From ‘Kung Fu’ Spectacles to Factory Workhorses](https://www.eweek.com/news/7-next-gen-chinese-humanoid-robots-2026/)**
+**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
 
-China’s humanoid robot makers are scaling fast in 2026, led by Unitree and AgiBot, as the market shifts from viral demos to commercial deployment.
+Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-eWeek • 2d ago
+Financial Times • 1h ago
+
+---
+
+**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
+
+Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
+
+Fortune • 12h ago
+
+---
+
+**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
+
+AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
+
+Los Angeles Times • 1d ago
+
+---
+
+**[Pentagon’s spending plan doubles down on land, air, sea robots](https://www.defenseone.com/policy/2026/02/pentagons-spending-plan-doubles-down-land-air-sea-robots/411628/)**
+
+A look at new tech efforts in the Pentagon’s $151 billion reconciliation allocation plan.
+
+Defense One • 2d ago
+
+---
+
+**[How CMU Built a World-Leading Robotics Ecosystem](https://www.cmu.edu/news/stories/archives/2026/february/how-cmu-built-a-world-leading-robotics-ecosystem)**
+
+From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
+
+Carnegie Mellon University • 1d ago
 
 ---
 
@@ -157,38 +187,6 @@ eWeek • 2d ago
 There are some big gaps in Australia’s policy settings if we are going to catch up on new AI-powered robotics.
 
 The Conversation • 2d ago
-
----
-
-**[AI robots may outnumber workers in a few decades as firms ramp up investment](https://www.cnbc.com/2026/02/23/ai-robots-outnumber-workers-agents-few-decades-citi.html)**
-
-"You can already buy a humanoid today, which gives you a payback period versus human workers of less than 10 weeks," a former Citi executive told CNBC.
-
-CNBC • 3d ago
-
----
-
-**[How CMU Built a World-Leading Robotics Ecosystem](https://www.cmu.edu/news/stories/archives/2026/february/how-cmu-built-a-world-leading-robotics-ecosystem)**
-
-From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
-
-Carnegie Mellon University | CMU • 1d ago
-
----
-
-**[Faraday Future to Kick Off 2026 EAI Robotics Deliveries Beginning Feb. 27 by Delivering to an Airbnb Operator; Establishes First U.S. "EAI Robot & Vehicle + Vacation Rental" Deployment](https://finance.yahoo.com/news/faraday-future-kick-off-2026-054200057.html)**
-
-LOS ANGELES, February 26, 2026--Faraday Future Intelligent Electric Inc. (Nasdaq: FFAI) ("Faraday Future," "FF," or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today announced its kick-off plans for its first EAI Robotics deliveries, just weeks after the Company announced its entry into the growing robotics industry. Its first deliveries are scheduled for February 27 to Golden Hills Investment LLC, a Florida-based high-end vacation rental investor and operator.
-
-Yahoo Finance • 17h ago
-
----
-
-**[German Chancellor Friedrich Merz visits Unitree Robotics in Hangzhou, watching Wubot and robot fights](https://www.globaltimes.cn/page/202602/1355787.shtml)**
-
-German Chancellor Friedrich Merz visited Chinese robotics firm Unitree Robotics in Hangzhou, East China’s Zhejiang Province, on Thursday afternoon, where he watched the robot product displays and robot performances such as
-
-Global Times • 12h ago
 
 ---
 
@@ -202,7 +200,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 2K • 👍 68 • 💬 17 • ⏱️ 24:08 • 17h ago
+👁️ 2K • 👍 76 • 💬 18 • ⏱️ 24:08 • 19h ago
 
 ---
 
@@ -212,7 +210,17 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 84K • 👍 2K • 💬 921 • ⏱️ 7:18 • 2d ago
+👁️ 90K • 👍 2K • 💬 1K • ⏱️ 7:18 • 2d ago
+
+---
+
+**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
+
+China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
+
+📺 NewsX Live
+
+👁️ 2K • 👍 32 • 💬 5 • ⏱️ 2:18 • 11h ago
 
 ---
 
@@ -222,17 +230,17 @@ GET MY FREE GUIDE: *The Content Creator's AI Blueprint: From 25 Hours to 5 Minut
 
 📺 Julia McCoy
 
-👁️ 86K • 👍 4K • 💬 865 • ⏱️ 14:51 • 6d ago
+👁️ 86K • 👍 4K • 💬 852 • ⏱️ 14:51 • 6d ago
 
 ---
 
-**[Unitree Introducing | Unitree As2  Your Companion](https://www.youtube.com/watch?v=1ONE4l_pgHw)**
+**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
 
-Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of no-load runtime, IP54 rainproof design. With a 15 ...
+Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
 
-📺 Unitree Robotics
+📺 Reuters
 
-👁️ 891K • 👍 2K • 💬 320 • ⏱️ 0:58 • 2d ago
+👁️ 44K • 👍 708 • 💬 237 • ⏱️ 0:55 • 14h ago
 
 ---
 
@@ -242,7 +250,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 123K • 👍 2K • 💬 277 • ⏱️ 14:16 • 4d ago
+👁️ 127K • 👍 2K • 💬 283 • ⏱️ 14:16 • 4d ago
 
 ---
 
@@ -252,27 +260,25 @@ Everyone's talking about her "hot bod." Moya, a new lifelike robot from the Chin
 
 📺 New York Post
 
-👁️ 21K • 👍 363 • 💬 328 • ⏱️ 2:30 • 5d ago
+👁️ 21K • 👍 366 • 💬 328 • ⏱️ 2:30 • 5d ago
 
 ---
 
-**[Would you try boba tea made by a robot?](https://www.youtube.com/watch?v=g464wsa9wWc)**
+**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
 
-CNET social producer Faith Chihil made a trip to visit the boba robot from Yo-Kai Express, which makes its debut in the US at the ...
+Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
 
-📺 CNET
+📺 The China Show
 
-👁️ 1K • 👍 62 • 💬 3 • ⏱️ 1:08 • 6h ago
+👁️ 209K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 6d ago
 
 ---
 
-**[Merz Visits Hangzhou, Sees Humanoid Robot Demonstrations and High-Tech Industrial Operations | AI1N](https://www.youtube.com/watch?v=aCqEhkCWCoQ)**
+**[Rare 17th Century First Robot Ever 🤯💰](https://www.youtube.com/watch?v=_RN8p3hMsjs)**
 
-German Chancellor Friedrich Merz visits Hangzhou, China, exploring the cutting-edge innovations of Unitree Robotics and ...
+📺 Pawn Media
 
-📺 DRM News
-
-👁️ 3K • 👍 64 • ⏱️ 1:57 • 5h ago
+👁️ 2K • 👍 122 • 💬 3 • ⏱️ 0:59 • 3h ago
 
 ---
 
@@ -283,16 +289,6 @@ AI robots are starting to act way too human, and the latest breakthroughs prove 
 📺 The AI Nexus
 
 👁️ 3K • 👍 145 • 💬 16 • ⏱️ 21:45 • 2d ago
-
----
-
-**[Millions Watched China’s ‘Advanced Robots’ - We Found the Truth and it&#39;s Hilarious - Episode #303](https://www.youtube.com/watch?v=ZMa0jjTEb6k)**
-
-Thank you to Surfshark for sponsoring this video, go to https://surfshark.com/advpodcast and use code: advpodcast at checkout to ...
-
-📺 The China Show
-
-👁️ 208K • 👍 12K • 💬 2K • ⏱️ 1:49:11 • 5d ago
 
 ---
 
