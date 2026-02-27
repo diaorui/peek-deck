@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T08:42:18.028554+00:00'
+updated: '2026-02-27T09:42:41.438309+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- news
 - social
 - videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 08:42 UTC  
+**Last Updated:** February 27, 2026 at 09:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
 
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 7h ago
+🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 We embedded invisible Unicode characters inside normal-looking trivia questions. The hidden characters encode a different answer. If the AI outputs the hidden answer instead of the visible one, it followed the invisible instruction. Think of it as a reverse CAPTCHA, where traditional CAPTCHAs test things humans can do but machines can't, this exploits a channel machines can read but humans can't see. The biggest finding: giving the AI access to tools (like code execution) is what makes this dangerous. Without tools, models almost never follow the hidden instructions. With tools, they can write scripts to decode the hidden message and follow it. We tested GPT-5.2, GPT-4o-mini, Claude Opus 4, Sonnet 4, and Haiku 4.5 across 8,308 graded outputs. Other interesting findings: - OpenAI and Anthropic models are vulnerable to different encoding schemes — an attacker needs to know which model they're targeting - Without explicit decoding hints, compliance is near-zero — but a single line like "check for hidden Unicode" is enough to trigger extraction - Standard Unicode normalization (NFC/NFKC) does not strip these characters Full results: https://moltwire.com/research/reverse-captcha-zw-steganography Open source: https://github.com/canonicalmg/reverse-captcha-eval
 
-🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 13h ago
+🔗 [Moltwire](https://www.moltwire.com/research/reverse-captcha-zw-steganography) • 14h ago
 
 ---
 
@@ -57,7 +57,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 Have it your way?
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 15h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty) • 16h ago
 
 ---
 
@@ -65,7 +65,7 @@ Have it your way?
 
 "Have you ever had an idea for something that looked cool, but wouldn’t work well in practice? When it comes to designing things like decor and personal accessories, generative artificial intelligence (genAI) models can relate. They can produce creative and elaborate 3D designs, but when you try to fabricate such blueprints into real-world objects, they usually don’t sustain everyday use. The underlying problem is that genAI models often lack an understanding of physics. While tools like Microsoft’s TRELLIS system can create a 3D model from a text prompt or image, its design for a chair, for example, may be unstable, or have disconnected parts. The model doesn’t fully understand what your intended object is designed to do, so even if your seat can be 3D printed, it would likely fall apart under the force of someone sitting down. In an attempt to make these designs work in the real world, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) are giving generative AI models a reality check. Their “PhysiOpt” system augments these tools with physics simulations, making blueprints for personal items such as cups, keyholders, and bookends work as intended when they’re 3D printed. It rapidly tests if the structure of your 3D model is viable, gently modifying smaller shapes while ensuring the overall appearance and function of the design is preserved. You can simply type what you want to create and what it’ll be used for into PhysiOpt, or upload an image to the system’s user interface, and in roughly half a minute, you’ll get a realistic 3D object to fabricate. For example, CSAIL researchers prompted it to generate a “flamingo-shaped glass for drinking,” which they 3D printed into a drinking glass with a handle and base resembling the tropical bird’s leg. As the design was generated, PhysiOpt made tiny refinements to ensure the design was structurally sound. “PhysiOpt combines GenAI and physically-based shape optimization, helping virtually anyone generate the designs they want for unique accessories and decorations,” says MIT electrical engineering and computer science (EECS) PhD student and CSAIL researcher Xiao Sean Zhan SM ’25, who is a co-lead author on a paper presenting the work. “It’s an automatic system that allows you to make the shape physically manufacturable, given some constraints. PhysiOpt can iterate on its creations as often as you’d like, without any extra training.” This approach enables you to create a “smart design,” where the AI generator crafts your item based on users’ specifications, while considering functionality. You can plug in your favorite 3D generative AI model, and after typing out what you want to generate, you specify how much force or weight the object should handle. It’s a neat way to simulate real-world use, such as predicting whether a hook will be strong enough to hold up your coat. Users also specify what materials they’ll fabricate the item with (such as plastics or wood), and how it’s supported — for instance, a cup stands on the ground, whereas a bookend leans against a collection of books. Given the specifics, PhysiOpt begins to iteratively optimize the object. Under the hood, it runs a physics simulation called a “finite element analysis” to stress test the design. This comprehensive scan provides a heat map over your 3D model, which indicates where your blueprint isn’t well-supported. If you were generating, say, a birdhouse, you may find that the support beams under the house were colored bright red, meaning the house will crumble if it’s not reinforced."
 
-🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225) • 2h ago
+🔗 [MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2026/mixing-ai-with-physics-to-create-personal-items-0225) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Have it your way?
 
 The Linux kernel continues seeing more open-source kernel drivers emerge for supporting different AI accelerators / NPUs
 
-🔗 [phoronix.com](https://www.phoronix.com/news/NXP-Neutron-Linux-Accel-Driver) • 4h ago
+🔗 [phoronix.com](https://www.phoronix.com/news/NXP-Neutron-Linux-Accel-Driver) • 5h ago
 
 ---
 
@@ -81,7 +81,7 @@ The Linux kernel continues seeing more open-source kernel drivers emerge for sup
 
 "Researchers have been mapping the brain for more than a century. By tracing cellular patterns that are visible under a microscope, they’ve created colorful charts and models that delineate regions and have been able to associate them with functions. In recent years, they’ve added vastly greater detail: They can now go cell by cell and define each one by its internal genetic activity. But no matter how carefully they slice and how deeply they analyze, their maps of the brain seem incomplete, muddled, inconsistent. For example, some large brain regions have been linked to many different tasks; scientists suspect that they should be subdivided into smaller regions, each with its own job. So far, mapping these cellular neighborhoods from enormous genetic datasets has been both a challenge and a chore. Recently, Tasic, a neuroscientist and genomicist at the Allen Institute for Brain Science, and her collaborators recruited artificial intelligence for the sorting and mapmaking effort. They fed genetic data from five mouse brains — 10.4 million individual cells with hundreds of genes per cell — into a custom machine learning algorithm. The program delivered maps that are a neuro-realtor’s dream, with known and novel subdivisions within larger brain regions. Humans couldn’t delineate such borders in several lifetimes, but the algorithm did it in hours. The authors published their methods in Nature Communications in October. By applying the same technique to other animals and eventually to humans, researchers hope not only to detail the brain’s finer-grained layout but also to generate and test hypotheses about how the organ’s parts operate in health and disease."
 
-🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 2h ago
+🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 3h ago
 
 ---
 
@@ -89,7 +89,7 @@ The Linux kernel continues seeing more open-source kernel drivers emerge for sup
 
 Hey guys, you might remember me. I was the guy that built the geolocation tool called Netryx. I have since built a web version and got it running on the cloud. I tried some real test cases where pictures are usually blurry, shaky and low res and got wonderful results with the tool. Below is an example geolocating a blurry frame of a video from the Paris protests a while back. Let me know what you think!
 
-22h ago
+23h ago
 
 ---
 
@@ -97,7 +97,7 @@ Hey guys, you might remember me. I was the guy that built the geolocation tool c
 
 There's a lot of hype around AI memory right now. Every tool claims "your AI remembers you." But most of them just store facts — your name, your preferences, your job title — and retrieve them by similarity search. That works for personalization. It doesn't work for agents that need to actually learn. The difference between remembering and learning Imagine you hire an assistant. After a month, they remember your coffee order and your meeting schedule. Great. But they also watched you debug a production outage last week — and next time something similar happens, they already know the first three things to check. That second part — learning from experience — is what's missing from AI memory today. Current systems remember what you said. They don't remember what happened or what worked. Why this matters in practice I've been building AI agents for real tasks. The pattern I kept hitting: Agent helps me deploy an app. Build passes, but database crashes — forgot to run migrations. We fix it together. A week later, same task. Agent has zero memory of the failure. Starts from scratch. Makes the same mistake. It remembered "user deploys to Railway" (fact). It forgot "deploy crashed because of missing migrations" (experience) and "always run migrations before pushing" (learned procedure). Three types, not one Cognitive science figured this out decades ago. Human memory isn't one system: Semantic — facts and knowledge Episodic — personal experiences with context and outcomes Procedural — knowing how to do things, refined through practice AI memory tools today only do the first one. Then we're surprised when agents don't learn from mistakes. On the trust question Would I trust AI with sensitive info? Only if: I control where data is stored (self-host option, not just cloud) Memory is transparent — I can see and edit what it remembers It actually provides enough value to justify the risk "AI remembers your name" isn't worth the privacy tradeoff. "AI remembers that last time this client had an issue, the root cause was X, and the fix was Y" — that's worth it. What's your experience? Are you using AI memory in production, or still feels too early?
 
-14h ago
+15h ago
 
 ---
 
@@ -105,7 +105,7 @@ There's a lot of hype around AI memory right now. Every tool claims "your AI rem
 
 he move feeds into Britain's push to cast itself as an "AI superpower" and a home for cutting-edge research at a time when governments are vying for investment from major model developers.
 
-🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 17h ago
+🔗 [reuters.com](https://www.reuters.com/world/uk/openai-make-london-its-biggest-research-hub-outside-us-2026-02-26/) • 18h ago
 
 ---
 
@@ -125,7 +125,7 @@ today was the first time i spoke to it directly using voice i asked it about spa
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-blog.google • 16h ago
+blog.google • 17h ago
 
 ---
 
@@ -133,7 +133,7 @@ blog.google • 16h ago
 
 Pete Hegseth had threatened to cancel $200m contract unless it was given unfettered access to Claude model
 
-The Guardian • 7h ago
+The Guardian • 8h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Guardian • 7h ago
 
 Block, the company behind Square, Cash App and Afterpay, is cutting its staff by nearly half. The company’s CEO said “intelligence tools” are the reason in a letter to shareholders.
 
-CNN • 15m ago
+CNN • 1h ago
 
 ---
 
@@ -149,13 +149,13 @@ CNN • 15m ago
 
 Security experts have warned that Western governments are poorly equipped to counter a new frontier of online disinformation.
 
-Yahoo • 49m ago
+Yahoo • 1h ago
 
 ---
 
 **[Rightmove CEO Sees AI Opportunities, Says Peers Will Survive](https://www.bloomberg.com/news/articles/2026-02-27/rightmove-ceo-sees-ai-opportunities-says-peers-will-survive)**
 
-Bloomberg • 18m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -163,7 +163,7 @@ Bloomberg • 18m ago
 
 Brady Tkachuk said he didn't appreciate the AI-doctored video released by the White House that made it appear he was disparaging Canadians.
 
-ESPN • 14h ago
+ESPN • 15h ago
 
 ---
 
@@ -171,7 +171,7 @@ ESPN • 14h ago
 
 US ice hockey star Brady Tkachuk has said he does not appreciate an AI video released by the White House that shows him insulting Canadians
 
-The Guardian • 4h ago
+The Guardian • 5h ago
 
 ---
 
@@ -179,7 +179,7 @@ The Guardian • 4h ago
 
 While Tkachuk helped U.S. men's hockey win its first Olympic gold medal since 1980, he's also the captain of the Ottawa Senators.
 
-Yahoo Sports • 10h ago
+Yahoo Sports • 11h ago
 
 ---
 
@@ -193,7 +193,7 @@ Oaktree Capital Management • 1d ago
 
 **[India Built the World’s Back Office. A.I. Is Starting to Shrink It.](https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -205,7 +205,7 @@ The New York Times • 3h ago
 
 A minute-by-minute reconstruction of the massacre by Earshot and Forensic Architecture found Israeli soldiers fired over 900 bullets at the aid workers, killing 15.
 
-⬆️ 2066 • 💬 959 • 2d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
+⬆️ 2066 • 💬 962 • 2d ago • [dropsitenews.com](https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot)
 
 ---
 
@@ -213,7 +213,7 @@ A minute-by-minute reconstruction of the massacre by Earshot and Forensic Archit
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 560 • 💬 529 • 16h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 563 • 💬 536 • 17h ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
@@ -221,13 +221,13 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.
 
-⬆️ 522 • 💬 229 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
+⬆️ 523 • 💬 229 • 2d ago • [The Cloudflare Blog](https://blog.cloudflare.com/vinext/)
 
 ---
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 352 • 💬 164 • 16h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 354 • 💬 167 • 17h ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -235,7 +235,7 @@ One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4
 
 Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
 
-⬆️ 259 • 💬 263 • 1d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
+⬆️ 260 • 💬 263 • 1d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 
 ---
 
@@ -255,19 +255,19 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 ---
 
+**[Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries](https://news.ycombinator.com/item?id=47174777)**
+
+As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
+
+⬆️ 136 • 💬 50 • 8h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+
+---
+
 **[An autopsy of AI-generated 3D slop](https://news.ycombinator.com/item?id=47157841)**
 
 Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-generated 3D 'slop' vs. handcrafted models to show why the human touch is very much required to attain positive ROI.
 
 ⬆️ 134 • 💬 76 • 1d ago • [aircada.com](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
-
----
-
-**[Palantir's AI Is Playing a Major Role in Tracking Gaza Aid Deliveries](https://news.ycombinator.com/item?id=47174777)**
-
-As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
-
-⬆️ 133 • 💬 50 • 7h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -281,23 +281,23 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 ## YouTube Videos: "ai"
 
-**[The most powerful AI Agent I’ve ever used in my life](https://www.youtube.com/watch?v=D_YzcH0VsGY)**
-
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZG Are you a Business owner? Join my ...
-
-📺 Dan Martell
-
-👁️ 91K • 👍 4K • 💬 182 • ⏱️ 11:55 • 18h ago
-
----
-
 **[Anthropic CEO says company cannot agree to Pentagon&#39;s AI usage demands](https://www.youtube.com/watch?v=dzy3tA45V9U)**
 
 Anthropic CEO Dario Amodei said the company cannot agree to the Pentagon's ultimatum to allow its AI technology to be used for ...
 
 📺 NBC News
 
-👁️ 34K • 👍 581 • 💬 191 • ⏱️ 4:24 • 9h ago
+👁️ 40K • 👍 636 • 💬 217 • ⏱️ 4:24 • 10h ago
+
+---
+
+**[The most powerful AI Agent I’ve ever used in my life](https://www.youtube.com/watch?v=D_YzcH0VsGY)**
+
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZG Are you a Business owner? Join my ...
+
+📺 Dan Martell
+
+👁️ 99K • 👍 4K • 💬 189 • ⏱️ 11:55 • 19h ago
 
 ---
 
@@ -307,57 +307,7 @@ The brutal reality of AI: 2000 workers axed from tech giant #news #technology #a
 
 📺 news.com.au
 
-👁️ 4K • 👍 45 • 💬 21 • ⏱️ 2:01 • 1d ago
-
----
-
-**[Nano Banana 2 Is Incredible! (Gemini&#39;s New AI Image Model)](https://www.youtube.com/watch?v=_oiBHvwTtGs)**
-
-Nano Banana Pro 2 Is Here! In this video I compare the new Nano Banana 2 with the original Nano Banana and Nano Banana ...
-
-📺 Paul J Lipsky
-
-👁️ 28K • 👍 933 • 💬 178 • ⏱️ 16:03 • 15h ago
-
----
-
-**[You&#39;re wrong about AI bubble](https://www.youtube.com/watch?v=ekxewFjl7xw)**
-
-Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
-
-📺 Chris Norlund
-
-👁️ 55K • 👍 3K • 💬 496 • ⏱️ 16:02 • 23h ago
-
----
-
-**[&quot;You Built A MONSTER!&quot; - Anthropic WARNS Of Massive Chinese AI Copying Operation](https://www.youtube.com/watch?v=M9Sw-7FY6Vo)**
-
-Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks on its Claude models, and the panel breaks down ...
-
-📺 Valuetainment
-
-👁️ 77K • 👍 2K • 💬 209 • ⏱️ 17:39 • 1d ago
-
----
-
-**[The AI Bubble is Crashing…And The Government Is Bailing Out The Stock Market (Again)](https://www.youtube.com/watch?v=1nUIBZcDBTU)**
-
-Join The Investing Academy: https://www.skool.com/the-financial-lab-7084/about The US Dollar already lost 96% of its value: ...
-
-📺 Proactive Thinker
-
-👁️ 5K • 👍 228 • 💬 46 • ⏱️ 13:03 • 12h ago
-
----
-
-**[Nvidia CEO Jensen Huang: AI has gone through a new inflection point](https://www.youtube.com/watch?v=NeiZv-L4DhU)**
-
-Nvidia CEO Jensen Huang joins 'Squawk Box' to discuss the company's quarterly earnings results, revenue growth in its core ...
-
-📺 CNBC Television
-
-👁️ 23K • 👍 203 • 💬 56 • ⏱️ 4:11 • 18h ago
+👁️ 5K • 👍 50 • 💬 26 • ⏱️ 2:01 • 1d ago
 
 ---
 
@@ -367,7 +317,27 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 12K • 👍 604 • 💬 79 • ⏱️ 1:11:08 • 18h ago
+👁️ 13K • 👍 639 • 💬 81 • ⏱️ 1:11:08 • 19h ago
+
+---
+
+**[&quot;You Built A MONSTER!&quot; - Anthropic WARNS Of Massive Chinese AI Copying Operation](https://www.youtube.com/watch?v=M9Sw-7FY6Vo)**
+
+Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks on its Claude models, and the panel breaks down ...
+
+📺 Valuetainment
+
+👁️ 79K • 👍 2K • 💬 212 • ⏱️ 17:39 • 1d ago
+
+---
+
+**[Nano Banana 2 Is Incredible! (Gemini&#39;s New AI Image Model)](https://www.youtube.com/watch?v=_oiBHvwTtGs)**
+
+Nano Banana Pro 2 Is Here! In this video I compare the new Nano Banana 2 with the original Nano Banana and Nano Banana ...
+
+📺 Paul J Lipsky
+
+👁️ 30K • 👍 988 • 💬 184 • ⏱️ 16:03 • 16h ago
 
 ---
 
@@ -377,7 +347,37 @@ Grab your free seat to the 2-Day AI Mastermind: https://link.outskill.com/SABINE
 
 📺 Sabine Hossenfelder
 
-👁️ 338K • 👍 16K • 💬 2K • ⏱️ 7:09 • 2d ago
+👁️ 340K • 👍 16K • 💬 2K • ⏱️ 7:09 • 2d ago
+
+---
+
+**[You&#39;re wrong about AI bubble](https://www.youtube.com/watch?v=ekxewFjl7xw)**
+
+Become a member! ✓ https://www.youtube.com/channel/UCahJ9IsvXnaQiuNyWQSkrkw/join ⭐ Support independent daily news ...
+
+📺 Chris Norlund
+
+👁️ 56K • 👍 3K • 💬 495 • ⏱️ 16:02 • 1d ago
+
+---
+
+**[Nvidia CEO Jensen Huang: AI has gone through a new inflection point](https://www.youtube.com/watch?v=NeiZv-L4DhU)**
+
+Nvidia CEO Jensen Huang joins 'Squawk Box' to discuss the company's quarterly earnings results, revenue growth in its core ...
+
+📺 CNBC Television
+
+👁️ 24K • 👍 206 • 💬 56 • ⏱️ 4:11 • 19h ago
+
+---
+
+**[AI’s exponential leap: What next for jobs?](https://www.youtube.com/watch?v=tYvYYFJ3Gww)**
+
+Artificial intelligence is accelerating - but how fast is too fast? A new benchmark from research group METR suggests that the ...
+
+📺 Sky News
+
+👁️ 35K • 👍 454 • 💬 106 • ⏱️ 8:04 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 158,273 • ❤️ 579 • 2d ago
+⬇️ 258,764 • ❤️ 595 • 2d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 41,061 • ❤️ 382 • 2d ago
+⬇️ 107,964 • ❤️ 388 • 2d ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 601,563 • ❤️ 1,100 • 3d ago
+⬇️ 725,954 • ❤️ 1,105 • 3d ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 10,951 • ❤️ 318 • 2d ago
+⬇️ 107,821 • ❤️ 320 • 2d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 179,363 • ❤️ 266 • 2d ago
+⬇️ 264,531 • ❤️ 268 • 2d ago
 
 ---
 
@@ -453,7 +453,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 182,893 • ❤️ 1,574 • 13d ago
+⬇️ 189,082 • ❤️ 1,593 • 13d ago
 
 ---
 
@@ -465,7 +465,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 255,172 • ❤️ 817 • 1d ago
+⬇️ 283,033 • ❤️ 817 • 1d ago
 
 ---
 
@@ -477,7 +477,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 55,865 • ❤️ 221 • 4d ago
+⬇️ 60,686 • ❤️ 222 • 4d ago
 
 ---
 
@@ -489,19 +489,19 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,081 • ❤️ 199 • 2d ago
+⬇️ 1,295 • ❤️ 201 • 2d ago
 
 ---
 
-**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
+**[LFM2-24B-A2B](https://huggingface.co/LiquidAI/LFM2-24B-A2B)**
 
-*MiniMax*
+*Liquid AI*
 
-MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device text generation, featuring 2.3B active parameters for fast inference on consumer hardware. It excels at agentic tool use, offline document processing, and privacy-preserving applications.
 
-`text-generation`
+`text-generation` `23.8B`
 
-⬇️ 271,710 • ❤️ 959 • 11d ago
+⬇️ 4,148 • ❤️ 184 • 2d ago
 
 ---
 
@@ -545,18 +545,6 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 14 • 💬 1 • ⭐ 9,831 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 **[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
 
 *Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
@@ -569,6 +557,18 @@ A preference-aligned routing framework using a compact 1.5B model effectively ma
 
 ---
 
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 14 • 💬 1 • ⭐ 9,863 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
 **[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
 
 *Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
@@ -577,7 +577,7 @@ A preference-aligned routing framework using a compact 1.5B model effectively ma
 
 PersonaLive is a diffusion-based portrait animation framework that improves real-time performance through hybrid implicit signals, appearance distillation, and autoregressive streaming generation.
 
-▲ 38 • 💬 3 • ⭐ 2,294 • 2mo ago
+▲ 38 • 💬 3 • ⭐ 2,319 • 2mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
@@ -647,7 +647,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.1k • 🔱 2.5k • 3h ago
+⭐ 20.2k • 🔱 2.5k • 1h ago
 
 ---
 
@@ -655,7 +655,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 7.7k • 🔱 604 • 16d ago
+⭐ 7.8k • 🔱 615 • 16d ago
 
 ---
 
@@ -675,7 +675,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.2k • 🔱 232 • 1d ago
+⭐ 4.2k • 🔱 236 • 1d ago
 
 ---
 
@@ -685,7 +685,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.6k • 🔱 358 • 3h ago
+⭐ 3.7k • 🔱 358 • 4h ago
 
 ---
 
@@ -695,7 +695,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.5k • 🔱 453 • 5h ago
+⭐ 3.5k • 🔱 455 • 6h ago
 
 ---
 
@@ -705,7 +705,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.1k • 🔱 373 • 5h ago
+⭐ 3.1k • 🔱 376 • 6h ago
 
 ---
 
@@ -715,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 206 • 7h ago
+⭐ 2.9k • 🔱 206 • 8h ago
 
 ---
 
@@ -725,7 +725,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 303 • 1h ago
+⭐ 2.8k • 🔱 305 • 8m ago
 
 ---
 
@@ -735,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.7k • 🔱 525 • 6h ago
+⭐ 2.7k • 🔱 532 • 1h ago
 
 ---
 
