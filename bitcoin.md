@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T16:00:03.811240+00:00'
+updated: '2026-02-27T16:51:53.843723+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 16:00 UTC  
+**Last Updated:** February 27, 2026 at 16:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-5h ago
+6h ago
 
 ---
 
@@ -103,7 +103,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 4h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 See you in 10 years.
 
-18h ago
+19h ago
 
 ---
 
@@ -125,7 +125,7 @@ A friend who has always been against Bitcoin asked me how to buy it. I feel that
 
 **[All money is money](https://www.reddit.com/r/Bitcoin/comments/1rfk4kg/all_money_is_money/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -133,7 +133,7 @@ A friend who has always been against Bitcoin asked me how to buy it. I feel that
 
 https://preview.redd.it/dj4slsvwfwlg1.png?width=1234&format=png&auto=webp&s=9f76d69777638172571d4bf6ebe8642dbbad919c TLDR: Even at 15% APR with 30% down, buying Bitcoin upfront on a loan beats DCA 67-89% of the time depending on the term length. But only if you don't get liquidated. I posted a similar idea on this sub a few months ago and got roasted. I got humbled and looked at the data. For every month from Jan 2016 to Feb 2026, I compared two strategies using the same total dollar outlay. Strategy A: put 30% down, borrow the rest at 15% APR, buy all BTC upfront, repay monthly. Strategy B: take that same total cash and DCA it over the same period. DCA actually gets more dollars to deploy because it includes interest payments. The loan still wins the majority of the time. The longer the term, the wider the gap. At 1 year the loan wins 67% of the time. At 5 years, 89%. Now the part that matters. I also simulated what happens with traditional crypto lenders. If BTC drops 50%+ from your entry price, they force-sell your Bitcoin to cover the loan. Everyone in my last post was right to bring up this crash risk. The periods where liquidation gets triggered are almost always ones where you bought near a top and DCA would have been the better play anyway. You already timed it badly. Liquidation just makes it permanent by selling your BTC at the worst possible moment instead of letting you hold through the recovery. A mate of mine went through exactly this in 2022 with a B2X on Ledn. BTC dropped, hit the liquidation threshold, Bitcoin gone. Your typical mortgage lender in tradfi doesn't repossess your house because prices dipped. But that's exactly how crypto lending works today. Liquidation makes bad timing permanent. And I think that's a design problem. I built a backtesting tool so you can test this with whatever assumptions you want. Code is open source. What if there was a loan product that worked like a mortgage? The data makes me think there's something here but the last post made it seem like nobody wants this. Genuinely curious what the sub thinks.
 
-19h ago
+20h ago
 
 ---
 
@@ -141,7 +141,7 @@ https://preview.redd.it/dj4slsvwfwlg1.png?width=1234&format=png&auto=webp&s=9f76
 
 https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-fortune/ This man invested money in 2009 and returned later to see it worth almost 900k. The possibilities are endless. It makes me wonder how many other millionaires are out there that don't even know. Have you invested money into a wallet that you forgot about / have any of your friends? With Bitcoin increasing over the decades the way it has, I wonder how many more of these 'uncovered a boatload of free & unlimited cash' stories we'll find?
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-for
 
 Be careful plebs, they want your bitcoin!
 
-20h ago
+21h ago
 
 ---
 
@@ -181,7 +181,7 @@ The New York Times • 1d ago
 
 Analysts say the latest drop appears to be a leverage flush and positioning cleanup rather than a structural trend reversal
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 4h ago
 
 **[Bitcoin Sinks Towards $65,000 as Inflation Douses Risk Appetite](https://www.bloomberg.com/news/articles/2026-02-27/bitcoin-sinks-towards-65-000-as-inflation-douses-risk-appetite)**
 
-Bloomberg.com • 43m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ Bloomberg.com • 43m ago
 
 George Noble, who ran the number one mutual fund in America at Fidelity Investments in 1985 returning 79%, went on Steve Eisman’s Real Eisman Playbook podcast and didn’t hold back. Noble is bearish on Tesla (NASDAQ:TSLA) and Bitcoin (CRYPTO: BTC),...
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -219,7 +219,7 @@ CNBC • 1d ago
 
 A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -227,7 +227,7 @@ The Block • 17h ago
 
 The bitcoin miner inked a deal with investment firm Starwood to convert and expand select facilities to serve data center needs for AI.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -273,7 +273,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
-⬆️ 1 • 💬 1 • 13h ago • [ordain.art](https://ordain.art)
+⬆️ 1 • 💬 1 • 14h ago • [ordain.art](https://ordain.art)
 
 ---
 
@@ -317,7 +317,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 108 • ⏱️ 13:24 • 15h ago
+👁️ 37K • 👍 2K • 💬 108 • ⏱️ 13:24 • 16h ago
 
 ---
 
@@ -327,7 +327,7 @@ Is Jane Street the reason Bitcoin is not sitting at 150K right now? Massive clai
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 115 • ⏱️ 24:42 • 16h ago
+👁️ 21K • 👍 2K • 💬 115 • ⏱️ 24:42 • 17h ago
 
 ---
 
@@ -337,7 +337,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 4K • 👍 326 • 1h ago
+👁️ 4K • 👍 326 • 2h ago
 
 ---
 
@@ -347,7 +347,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 BRITISH HODL
 
-👁️ 11K • 👍 1K • 💬 142 • ⏱️ 8:44 • 20h ago
+👁️ 11K • 👍 1K • 💬 142 • ⏱️ 8:44 • 21h ago
 
 ---
 
@@ -355,7 +355,7 @@ Will you Subscribe?: https://youtube.com/@britishhodl23?sub_confirmation=1 New t
 
 📺 Andrei Jikh
 
-👁️ 52K • 👍 2K • 💬 111 • ⏱️ 1:18 • 22h ago
+👁️ 52K • 👍 2K • 💬 111 • ⏱️ 1:18 • 23h ago
 
 ---
 
@@ -375,7 +375,7 @@ Nick Valdez looks at an insanely accurate Bitcoin signal that says “THE BOTTOM
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 403 • 💬 75 • ⏱️ 7:23 • 15h ago
+👁️ 8K • 👍 403 • 💬 75 • ⏱️ 7:23 • 16h ago
 
 ---
 

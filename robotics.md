@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T16:00:03.821534+00:00'
+updated: '2026-02-27T16:51:53.852919+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 16:00 UTC  
+**Last Updated:** February 27, 2026 at 16:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-1h ago
+2h ago
 
 ---
 
@@ -84,7 +84,7 @@ Hello, I'm looking for a vendor selling a reliable battle tested mobile base pla
 
 Hi everyone, We’re organizing a Robotics Community Meetup in Pune for people interested in robotics, automation, and manufacturing. What this meetup is about: Open discussions on careers, jobs, and internships in robotics and manufacturing Industry expectations, required skills, and project experience Networking with students, professionals, and robotics enthusiasts Live showcase of a robotic arm and a 3D printer, with practical discussion around automation and manufacturing use cases Details: Date: 28 February 2026 Time: 4:30 PM onwards Area: Near Baner Zudio, Pune (Exact location will be shared with confirmed participants) This is an informal, community-driven meetup, not a paid workshop or coaching session. If you’re interested, you can register here: https://forms.gle/ZCtw34ohS55yJozz6 Registrations will be closing soon due to limited capacity. Happy to answer any questions in the comments.
 
-2h ago
+3h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hi everyone, We’re organizing a Robotics Community Meetup in Pune for people i
 
 Robotics faces a different scaling challenge than large language models. As Ken Goldberg has described it, there is a “100,000-year data gap” between the vast datasets used to train language systems and the limited embodied data available for robots. While simulation, synthetic data, and teleoperation all play a role, researchers such as Sergey Levine emphasize the importance of real-world deployment. The approach centers on putting robots into focused, useful roles where they can perform narrow tasks, collect experience, and incrementally improve. These early deployments are not intended to demonstrate broad generalization. They are structured to generate high-quality data while delivering practical value. Over time, repeated real-world interaction is expected to expand capability and refine performance.
 
-🔗 [Automate](https://www.automate.org/ai/industry-insights/on-the-job-learning-how-physical-intelligence-is-putting-robots-to-work) • 2h ago
+🔗 [Automate](https://www.automate.org/ai/industry-insights/on-the-job-learning-how-physical-intelligence-is-putting-robots-to-work) • 3h ago
 
 ---
 
@@ -136,7 +136,7 @@ Los Angeles Times • 2d ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -158,7 +158,7 @@ bgr.com • 1d ago
 
 **[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
 
-Bloomberg.com • 11h ago
+Bloomberg.com • 12h ago
 
 ---
 
@@ -180,7 +180,7 @@ Fortune • 1d ago
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 19m ago
+Tech Xplore • 1h ago
 
 ---
 
@@ -222,7 +222,7 @@ Click this link https://boot.dev/?promo=NIKODEM and use my code NIKODEM to get 2
 
 📺 Nikodem Bartnik
 
-👁️ 384 • 👍 49 • 💬 4 • ⏱️ 13:16 • 1h ago
+👁️ 384 • 👍 49 • 💬 4 • ⏱️ 13:16 • 2h ago
 
 ---
 
@@ -242,7 +242,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 16K • 👍 377 • 💬 127 • ⏱️ 12:16 • 14h ago
+👁️ 16K • 👍 377 • 💬 127 • ⏱️ 12:16 • 15h ago
 
 ---
 
@@ -252,7 +252,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 74K • 👍 723 • 💬 405 • ⏱️ 1:27 • 13h ago
+👁️ 74K • 👍 723 • 💬 405 • ⏱️ 1:27 • 14h ago
 
 ---
 
@@ -272,7 +272,7 @@ Unitree Robotics was one of the stops during German Chancellor Friedrich Merz's 
 
 📺 CGTN
 
-👁️ 3K • 👍 141 • 💬 3 • ⏱️ 1:47 • 4h ago
+👁️ 3K • 👍 141 • 💬 3 • ⏱️ 1:47 • 5h ago
 
 ---
 

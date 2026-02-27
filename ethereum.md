@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T16:00:03.817940+00:00'
+updated: '2026-02-27T16:51:53.849740+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
-- videos
 - news
+- social
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 16:00 UTC  
+**Last Updated:** February 27, 2026 at 16:51 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -88,7 +88,7 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 
 MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self-custody wallet control & stablecoin payments mainstream.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 2h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 3h ago
 
 ---
 
@@ -96,7 +96,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 Most people remember the 2017 ICO boom, but the culture started forming in late 2016 with projects like Golem and SingularDTV. Golem (GNT) — November 11, 2016 Golem launched what was essentially an 820,000 ETH hard cap crowdsale. It filled in 29 minutes. $8.6 million for a decentralized computing network. The contract was deliberately simple by design. After the DAO hack a few months earlier, the team and their auditors at Zeppelin went out of their way to avoid complexity. No recursive calls, no token logic mixed with funding logic. Just "send ETH, receive tokens, done." They also built in a migration mechanism from day one (GNT to GLM), which they actually used four years later in 2020. That kind of foresight was rare. SingularDTV — September/October 2016 SingularDTV took a different approach with a tri-contract architecture: one for the crowdsale, one for the token, one for the treasury fund. Stefan George (who later cofounded Gnosis) was involved. They raised $7.5M in 17 minutes. The treasury contract had a 2-year workshop token lockup built in. The speed of these raises changed expectations for every project that followed. Before this, "fast fundraising" for crypto meant days or weeks. After Golem and SingularDTV, everyone expected minutes. Why this matters now These contracts are still on-chain. You can read them, verify the logic, trace every transaction. Unlike web2 startup history where products get shut down and documentation disappears, Ethereum's history is permanently readable. I've been documenting these early contracts at ethereumhistory.com — trying to build a proper archive before the people who remember this era move on. We've got about 40 contracts documented so far from 2015-2017. If you were around during this period or remember other significant early contracts, would love to hear about them.
 
-1h ago
+2h ago
 
 ---
 
@@ -104,7 +104,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 12h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 13h ago
 
 ---
 
@@ -112,7 +112,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 26m ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 1h ago
 
 ---
 
@@ -120,13 +120,13 @@ Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
 I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common security issues in ZK circuits. YAML-defined pattern packs (regex, fancyregex, literal) Optional semantic pass (--semantic) for cross-line checks CLI + library API SARIF/JSON/text outputs for CI workflows Current integration matrix: 16 vulnerable fixtures + 10 safe controls Repo: https://github.com/Teycir/ZkPatternMatcher
 
-29m ago
+1h ago
 
 ---
 
 **[Deterministic Deployments, Part 3: Other Approaches](https://www.reddit.com/r/ethereum/comments/1rg1rhe/deterministic_deployments_part_3_other_approaches/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -134,7 +134,7 @@ I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common se
 
 From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about courage, community, and calling Ethereum the 8th wonder - not a monument, but a mission.
 
-🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 6h ago
+🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 7h ago
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-CoinDesk • 19h ago
+CoinDesk • 20h ago
 
 ---
 
@@ -162,7 +162,7 @@ CoinDesk • 19h ago
 
 This move comes shortly after the Ethereum Foundation established a dedicated post-quantum research team to study the issue.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -246,7 +246,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 947 • 👍 31 • 💬 3 • ⏱️ 14:30 • 21h ago
+👁️ 947 • 👍 31 • 💬 3 • ⏱️ 14:30 • 22h ago
 
 ---
 
@@ -266,7 +266,7 @@ BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 8K • 👍 309 • 💬 50 • ⏱️ 17:34 • 18h ago
+👁️ 8K • 👍 309 • 💬 50 • ⏱️ 17:34 • 19h ago
 
 ---
 
@@ -286,7 +286,7 @@ Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH P
 
 📺 Crypto Gyan
 
-👁️ 310 • 👍 58 • ⏱️ 7:10 • 2h ago
+👁️ 310 • 👍 58 • ⏱️ 7:10 • 3h ago
 
 ---
 
@@ -296,7 +296,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 156 • 💬 8 • ⏱️ 4:58 • 22h ago
+👁️ 2K • 👍 156 • 💬 8 • ⏱️ 4:58 • 23h ago
 
 ---
 
@@ -316,7 +316,7 @@ Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #
 
 📺 Gerhard - Bitcoin Strategy
 
-👁️ 892 • 👍 13 • ⏱️ 0:54 • 19h ago
+👁️ 892 • 👍 13 • ⏱️ 0:54 • 20h ago
 
 ---
 
