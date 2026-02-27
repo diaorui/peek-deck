@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T07:49:15.637894+00:00'
+updated: '2026-02-27T08:42:18.046548+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 07:49 UTC  
+**Last Updated:** February 27, 2026 at 08:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic system that works with European pallet styles to transport materials in warehouses or manufacturing floors.
 
-17h ago
+18h ago
 
 ---
 
@@ -44,7 +44,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/2026949401927901423
 
-20h ago
+21h ago
 
 ---
 
@@ -52,7 +52,15 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the transition from the R1 version of Atlas to the new production-focused system unveiled at CES. R1 was never meant to operate alongside humans according to Jackowski. It was a learning platform built to help the team understand how to design, balance, and integrate a full humanoid system. That generation is now being retired and moved to static display.
 
-17h ago
+18h ago
+
+---
+
+**[Mobile base companies](https://www.reddit.com/r/robotics/comments/1rg0m4k/mobile_base_companies/)**
+
+Hello, I'm looking for a vendor selling a reliable battle tested mobile base platform Should expose access to power rails, control over power output Autonomous docking and reliable charging a plus, decent battery life Something differential drive or skid, holonomic preferred Looking for a hardware vendor, not looking for service business model US preferred Thanks!
+
+46m ago
 
 ---
 
@@ -60,7 +68,7 @@ Zachary Jackowski, who leads the Atlas team at Boston Dynamics, talks about the 
 
 Sammy Azdoufal alerted New York-based outlet the Verge after he took control of DJI Romo devices around the world
 
-🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 18h ago
+🔗 [the Guardian](https://www.theguardian.com/world/2026/feb/24/spanish-engineer-smart-vacuums-remote-control) • 19h ago
 
 ---
 
@@ -68,13 +76,13 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 - Website: https://research.nvidia.com/labs/gear/egoscale/ - Paper: https://arxiv.org/abs/2602.16710 From Jim Fan (NVIDIA Director of Robotics) on 𝕏: https://x.com/DrJimFan/status/2026709304984875202
 
-21h ago
+22h ago
 
 ---
 
 **[This Robot Lawncare Service Sucks – Unitree G1](https://www.reddit.com/r/robotics/comments/1rfduhg/this_robot_lawncare_service_sucks_unitree_g1/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -82,15 +90,7 @@ Sammy Azdoufal alerted New York-based outlet the Verge after he took control of 
 
 Sorry this video is in french but I am so proud to show you my work, a fully functional wall-e animatronic, almost entirely 3D printed and works on ESP32
 
-20h ago
-
----
-
-**[I built a body for GPT](https://www.reddit.com/r/robotics/comments/1resqdo/i_built_a_body_for_gpt/)**
-
-Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
-
-1d ago
+21h ago
 
 ---
 
@@ -100,11 +100,11 @@ Check out my abomination! Shamefully vibe coded entirely with GPT. At this point
 
 ---
 
-**[The Huge Gap Between Demo and Deployment. And How Can We Bridge It?](https://www.reddit.com/r/robotics/comments/1rf73if/the_huge_gap_between_demo_and_deployment_and_how/)**
+**[I built a body for GPT](https://www.reddit.com/r/robotics/comments/1resqdo/i_built_a_body_for_gpt/)**
 
-I've been researching the current state of humanoid robot deployments for a book project, and the gap between what you see in demo videos and what's actually happening in the field is striking. In particular, I’ve noticed most demos focus on performance-oriented tasks, like dancing or even kung fu. But those seem very different from the kinds of scenarios that would generate large-scale, real economic value in actual deployment. I’ve also watched many flashy humanoid demo videos recently (most of them likely from Chinese robotics companies). It makes me wonder, how will they bridge that gap before a potential robotics investment winter arrives, assuming one is on the horizon? I’d love to hear everyone’s thoughts.
+Check out my abomination! Shamefully vibe coded entirely with GPT. At this point, I just do what the AI tells me. Also shout out to Will Cogley for the creepy eye plans!
 
-20h ago
+1d ago
 
 ---
 
@@ -132,7 +132,7 @@ TechCrunch • 1d ago
 
 Intrinsic is focused on making robots easier to program, teach, and operate.
 
-The Verge • 20h ago
+The Verge • 21h ago
 
 ---
 
@@ -156,7 +156,7 @@ The Conversation • 2d ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 3h ago
+Financial Times • 7h ago
 
 ---
 
@@ -168,25 +168,25 @@ eWeek • 2d ago
 
 ---
 
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
+
+Bloomberg • 5h ago
+
+---
+
 **[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
 
 Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
 
-Fortune • 18h ago
+Fortune • 19h ago
 
 ---
 
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
+**[How CMU Built a World-Leading Robotics Ecosystem](https://www.cmu.edu/news/stories/archives/2026/february/how-cmu-built-a-world-leading-robotics-ecosystem)**
 
-Bloomberg.com • 4h ago
+From the depths of the ocean to the craters of the moon, Carnegie Mellon University has spent more than 40 years designing robots for the most extreme environments. On Feb. 27, the university will open the Robotics Innovation Center (RIC), a 150,000-square-foot facility built to scale that research for the next generation of autonomous systems.
 
----
-
-**[Pentagon’s spending plan doubles down on land, air, sea robots](https://www.defenseone.com/policy/2026/02/pentagons-spending-plan-doubles-down-land-air-sea-robots/411628/)**
-
-A look at new tech efforts in the Pentagon’s $151 billion reconciliation allocation plan.
-
-Defense One • 3d ago
+Carnegie Mellon University | CMU • 1d ago
 
 ---
 
@@ -200,7 +200,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 8K • 👍 180 • 💬 62 • ⏱️ 12:16 • 6h ago
+👁️ 8K • 👍 180 • 💬 62 • ⏱️ 12:16 • 7h ago
 
 ---
 
@@ -270,7 +270,7 @@ hen German Chancellor Friedrich Merz arrives in Hangzhou, China on Thursday Febr
 
 📺 New York Post
 
-👁️ 31K • 👍 357 • 💬 243 • ⏱️ 2:08 • 16h ago
+👁️ 31K • 👍 357 • 💬 243 • ⏱️ 2:08 • 17h ago
 
 ---
 

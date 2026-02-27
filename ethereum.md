@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T07:49:15.634676+00:00'
+updated: '2026-02-27T08:42:18.043352+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
+- social
 - cryptocurrency
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 07:49 UTC  
+**Last Updated:** February 27, 2026 at 08:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -0.9%  
-**7d:** +3.2%  
-**30d:** -27.9%  
-**90d:** -31.9%  
-**1y:** -9.0%  
+**24h:** -2.0%  
+**7d:** +3.0%  
+**30d:** -28.0%  
+**90d:** -32.0%  
+**1y:** -9.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 4h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 5h ago
 
 ---
 
@@ -96,7 +96,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Most people know ERC-20 from 2017+ culture, but the design constraints were visible much earlier. Two artifacts worth studying together: MistCoin (2015): one of the earliest token experiments around the same era as the ERC-20 proposal work. Unicorn-related 2016 contracts (and later wrapped routes): useful for seeing where DEX-era assumptions break (especially decimals + fee math edge cases). Why this matters now: 1) It shows that “old contracts” are not just collectibles — they’re test cases for protocol assumptions. 2) It explains why some modern infra behaves weirdly with legacy token characteristics. 3) It gives context for today’s wallet/swap UX decisions (what broke, what had to be wrapped, what had to be redesigned). If anyone’s interested, I can post a clean source bundle in comments (primary sources only: old threads, dev docs, commits) so this stays historical and verifiable, not just lore.
 
-10h ago
+11h ago
 
 ---
 
@@ -124,14 +124,6 @@ The Ethereum Foundation has published a draft long-term roadmap called “Strawm
 
 ---
 
-**[Atta boy Vitalik. Keep on selling those ETH](https://www.reddit.com/r/ethereum/comments/1rfum9a/atta_boy_vitalik_keep_on_selling_those_eth/)**
-
-https://www.coindesk.com/markets/2026/02/25/vitalik-buterin-sold-17-000-eth-this-month-as-ether-fell-37 Vitalik Buterin sold 17,000 ETH this month as ether dropped 37% Vitalik Buterin has reduced his ether holdings by about 17,000 ETH, or $43 million, in February after pledging a similar amount to fund privacy and security projects. The sales, executed in many small trades via the CoW Protocol, have coincided with a 37% drop in ether's price over the past month to around $1,900. Ether's decline and compressed staking yields near 2.8% have deepened unrealized losses for major corporate holders such as Bitmine Immersion Technologies. The Ethereum co-founder's tracked wallets dropped from 241,000 ETH to 224,000 ETH in February, with sales routed through CoW Protocol in small batches to limit market impact
-
-5h ago
-
----
-
 **[Daily General Discussion February 25, 2026](https://www.reddit.com/r/ethereum/comments/1re561b/daily_general_discussion_february_25_2026/)**
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
@@ -148,6 +140,14 @@ Meta is reportedly preparing stablecoin payments for Facebook, Instagram, and Wh
 
 ---
 
+**[Ethereum Foundation begins staking treasury ETH (~70,000 ETH planned)](https://www.reddit.com/r/ethereum/comments/1rdlbr4/ethereum_foundation_begins_staking_treasury_eth/)**
+
+The Ethereum Foundation has started staking a portion of its ETH treasury, with an initial 2,016 ETH deposit and plans to allocate around 70,000 ETH over time. Staking rewards will be directed back into the EF treasury to fund protocol R&D, ecosystem grants, and core operations. The setup uses distributed validator infrastructure (Dirk and Vouch) and minority clients across multiple jurisdictions to avoid single points of failure and support client diversity. This move effectively turns part of the EF treasury into productive staking capital rather than idle ETH. Some potential implications: slightly reduces liquid ETH supply reinforces ETH’s staking-yield model aligns EF funding with network security signals long-term commitment to PoS Full article: [https://btcusa.com/ethereum-foundation-begins-staking-treasury-eth-allocating-70000-eth-to-validators/]() What do you think — should large ecosystem treasuries be staking by default?
+
+2d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ Meta is reportedly preparing stablecoin payments for Facebook, Instagram, and Wh
 
 Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -164,7 +164,7 @@ CoinDesk • 11h ago
 
 TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ The Block • 21h ago
 
 Both chains are getting upgrades, and both are positioned for the future.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -180,11 +180,11 @@ The Motley Fool • 2h ago
 
 Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
 
-Yahoo Finance • 7h ago
+Yahoo Finance • 8h ago
 
 ---
 
-**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqfXkVFfUzk1kTUzs5cq5JsZOYhtno1d-mwACmbm0kblY3cr0HKsLir1&gaa_ts=69a1436d&gaa_sig=ilP-VqyGf0tbyn1r8XopIoicxuWoURCBFRiX_Y28Bj2JO8IePOaXLoRyZSadlOXHAU9XamUmcBfEFeUUbDhO9w%3D%3D)**
+**[Bitcoin, Ethereum and XRP Extend Losses. Why the AI Scare Is Weighing on Cryptos.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-prices-cryptos-ai-430073dc?gaa_at=eafs&gaa_n=AWEtsqfjowv7iCIjFWbMVFYbNUfxlfPRidhETXeNiqstuayXL0MrP9SoC7GL&gaa_ts=69a15c56&gaa_sig=OrQc-QU77oSW1s4nnK6BIA9yFUCMesK-vGDkYI6EzCfpD7OdeFRX2I4u1Thro0l_Sg1DvRsDVtrlMNYP2-Sv6A%3D%3D)**
 
 Barron's • 2d ago
 
@@ -212,11 +212,9 @@ Forbes • 2d ago
 
 ---
 
-**[Vitalik Buterin Says Ethereum Will Soon Achieve Quantum Resistance](https://beincrypto.com/vitalik-buterin-ethereum-quantum-resistance/)**
+**[VanEck’s ETHV Bleeds Cash as Ethereum Slump Tests Investor Nerves](https://www.tipranks.com/news/cryptocurrencies/vanecks-ethv-bleeds-cash-as-ethereum-slump-tests-investor-nerves)**
 
-Vitalik Buterin says Ethereum will achieve quantum resistance via hash-based signatures outlined in the new 4-year Strawmap upgrade roadmap.
-
-BeInCrypto • 1d ago
+TipRanks • 13h ago
 
 ---
 
@@ -238,7 +236,7 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 📺 Thomas Kralow
 
-👁️ 27K • 👍 3K • 💬 50 • ⏱️ 5:59 • 22h ago
+👁️ 27K • 👍 3K • 💬 50 • ⏱️ 5:59 • 23h ago
 
 ---
 
@@ -248,7 +246,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Money Talks
 
-👁️ 702 • 👍 31 • 💬 2 • ⏱️ 14:30 • 13h ago
+👁️ 702 • 👍 31 • 💬 2 • ⏱️ 14:30 • 14h ago
 
 ---
 
@@ -258,7 +256,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 146 • 💬 10 • ⏱️ 4:58 • 14h ago
+👁️ 2K • 👍 146 • 💬 10 • ⏱️ 4:58 • 15h ago
 
 ---
 
@@ -268,7 +266,7 @@ BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altc
 
 📺 Crypto World
 
-👁️ 6K • 👍 282 • 💬 47 • ⏱️ 17:34 • 10h ago
+👁️ 6K • 👍 282 • 💬 47 • ⏱️ 17:34 • 11h ago
 
 ---
 
@@ -298,7 +296,7 @@ Hier Handle ich Kryptowährungen!! MEXC (Bis zu 8800$ Bonus und jeden Woche Chal
 
 📺 Krypto Trading & Investing
 
-👁️ 1K • 👍 426 • 💬 52 • ⏱️ 10:25 • 2h ago
+👁️ 1K • 👍 426 • 💬 52 • ⏱️ 10:25 • 3h ago
 
 ---
 
@@ -328,7 +326,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 265 • 👍 13 • 💬 4 • ⏱️ 4:21 • 21h ago
+👁️ 265 • 👍 13 • 💬 4 • ⏱️ 4:21 • 22h ago
 
 ---
 
