@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T20:29:36.675217+00:00'
+updated: '2026-02-27T20:56:03.478395+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 20:29 UTC  
+**Last Updated:** February 27, 2026 at 20:56 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -58,7 +58,7 @@ Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -98,7 +98,7 @@ From Li Zexin 李泽欣 on 𝕏: https://x.com/XH_Lee23/status/20269494019279014
 
 Hi guys, I am planning my first robotics project, and came across this video: https://www.youtube.com/watch?v=IoCaTgmUSvc&t=471s This seems super cool and i have a 3D printer. The original video doesn't seem to use ROS at all, and I'm wondering if it would be a good idea to try to do the software part of the project from scratch using ROS2, or if not, what are the reasons for not using ROS for a robotics project?
 
-3h ago
+4h ago
 
 ---
 
@@ -106,7 +106,7 @@ Hi guys, I am planning my first robotics project, and came across this video: ht
 
 ROS News for the Week of February 23rd, 2026      Our colleagues at Intrinsic have joined Google to accelerate the future of physical AI. More information about what this means are on Discourse, the Robot Report, and in Techcrunch.               We had a great ROS By-The-Bay Meetup last night in Mountain View. Next week we’re holding three kick off sessions for the Intrinsic AI for Industry Challenge. Later in the week there is Bots, Bevs, and Devs at the Foxglove office in San Francisco and a R...
 
-🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-23rd-2026/52787) • 49m ago
+🔗 [Open Robotics Discourse](https://discourse.openrobotics.org/t/ros-news-for-the-week-of-february-23rd-2026/52787) • 1h ago
 
 ---
 
@@ -134,7 +134,7 @@ Los Angeles Times • 2d ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 19h ago
+Financial Times • 20h ago
 
 ---
 
@@ -212,7 +212,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 26K • 👍 506 • 💬 181 • ⏱️ 12:16 • 18h ago
+👁️ 26K • 👍 506 • 💬 181 • ⏱️ 12:16 • 19h ago
 
 ---
 

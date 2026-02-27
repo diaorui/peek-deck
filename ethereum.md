@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T20:29:36.672049+00:00'
+updated: '2026-02-27T20:56:03.474596+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 20:29 UTC  
+**Last Updated:** February 27, 2026 at 20:56 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ At the current moment the correct path to post quantum Ethereum transactions loo
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
 
-2h ago
+3h ago
 
 ---
 
@@ -120,7 +120,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 4h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 5h ago
 
 ---
 
@@ -128,7 +128,7 @@ Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 16h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 17h ago
 
 ---
 
@@ -136,7 +136,7 @@ ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardizati
 
 I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common security issues in ZK circuits. YAML-defined pattern packs (regex, fancyregex, literal) Optional semantic pass (--semantic) for cross-line checks CLI + library API SARIF/JSON/text outputs for CI workflows Current integration matrix: 16 vulnerable fixtures + 10 safe controls Repo: https://github.com/Teycir/ZkPatternMatcher
 
-4h ago
+5h ago
 
 ---
 
@@ -156,7 +156,7 @@ From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about
 
 Beneath the technical language of the 'Strawmap' is a far simpler story: Ethereum is trying to decide what kind of infrastructure it wants to be by the end of the decade.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 3h ago
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -204,7 +204,7 @@ The Block • 1d ago
 
 A shift in Ethereum’s derivatives flow on Binance is starting to hint at a possible change in market structure, even as ETH itself remains in a corrective phase. According to CryptoQuant contributor Darkfost, the Taker Buy Sell Ratio is no longer flashing the same persistent sell-side aggression th…
 
-TradingView • 9h ago
+TradingView • 10h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 897 • 👍 99 • 💬 3 • ⏱️ 4:56 • 2h ago
+👁️ 897 • 👍 99 • 💬 3 • ⏱️ 4:56 • 3h ago
 
 ---
 
@@ -270,7 +270,7 @@ We've got some major shake ups happening in the crypto market right now. it seem
 
 📺 The Modern Investor
 
-👁️ 5K • 👍 676 • 💬 62 • ⏱️ 29:34 • 10h ago
+👁️ 5K • 👍 676 • 💬 62 • ⏱️ 29:34 • 11h ago
 
 ---
 
@@ -290,7 +290,7 @@ The Pectra upgrade marks an important event for Ethereum, significantly boosting
 
 📺 ReferCoin Lab
 
-👁️ 2K • 👍 40 • ⏱️ 0:45 • 2h ago
+👁️ 2K • 👍 40 • ⏱️ 0:45 • 3h ago
 
 ---
 
@@ -300,7 +300,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 182 • 👍 7 • 💬 1 • ⏱️ 4:27 • 10h ago
+👁️ 182 • 👍 7 • 💬 1 • ⏱️ 4:27 • 11h ago
 
 ---
 

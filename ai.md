@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T20:29:36.657884+00:00'
+updated: '2026-02-27T20:56:03.459919+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - social
-- videos
 - repositories
+- videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 20:29 UTC  
+**Last Updated:** February 27, 2026 at 20:56 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-4h ago
+5h ago
 
 ---
 
@@ -139,19 +139,19 @@ The New York Times • 3h ago
 
 The Bullpen is our watchlist of stocks that we want to consider buying for Jim Cramer's Charitable Trust.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Wall St on course for monthly declines on AI worries, renewed tariff angst, geopolitical strife](https://www.reuters.com/business/us-stock-futures-falter-ai-jitters-nasdaq-braces-steep-monthly-fall-2026-02-27/)**
 
-Reuters • 8h ago
+Reuters • 9h ago
 
 ---
 
 **[Software stocks fall as Block’s big job cuts stoke further AI fears](https://www.marketwatch.com/story/software-stocks-fall-as-blocks-big-job-cuts-stoke-further-ai-fears-c66aef8e?gaa_at=eafs&gaa_n=AWEtsqdxUd8vci0BOhrmnwNw9ogHPq5mR5SIbTCoBAU0iIYfshfxIi88k_De&gaa_ts=69a20212&gaa_sig=yhpS2VB71FFsqMBdEYdMYKGT2VH0_A9Q4BxoGfB5bQMGfCTCY9u8O7Hy2jPJliTzABt_CejpKuTJpXBPf1pHeg%3D%3D)**
 
-MarketWatch • 34m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ MarketWatch • 34m ago
 
 Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
@@ -167,7 +167,7 @@ CNN • 21h ago
 
 Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.
 
-OpenAI • 6h ago
+OpenAI • 7h ago
 
 ---
 
@@ -175,13 +175,13 @@ OpenAI • 6h ago
 
 All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
 **[OpenAI Raises $110 Billion to Fuel Growth, Extending A.I. Boom](https://www.nytimes.com/2026/02/27/business/openai-funding.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -189,7 +189,7 @@ The New York Times • 5h ago
 
 USA men's ice hockey player Brady Tkachuk distances himself from an AI-enhanced White House video in which he appears to disparage Canadians, saying "those words would never come out of my mouth".
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -231,7 +231,7 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 143 • 💬 58 • 19h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 143 • 💬 58 • 20h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -323,7 +323,7 @@ Anthropic CEO Dario Amodei said the company cannot agree to the Pentagon's ultim
 
 📺 NBC News
 
-👁️ 55K • 👍 795 • 💬 313 • ⏱️ 4:24 • 20h ago
+👁️ 55K • 👍 795 • 💬 313 • ⏱️ 4:24 • 21h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 258,764 • ❤️ 627 • 10h ago
+⬇️ 258,764 • ❤️ 627 • 11h ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 264,531 • ❤️ 297 • 52m ago
+⬇️ 264,531 • ❤️ 297 • 1h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.4k • 🔱 2.5k • 38s ago
+⭐ 20.4k • 🔱 2.5k • 27m ago
 
 ---
 
@@ -701,7 +701,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.1k • 🔱 381 • 9h ago
+⭐ 3.1k • 🔱 381 • 10h ago
 
 ---
 

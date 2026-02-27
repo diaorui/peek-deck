@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T20:29:36.666155+00:00'
+updated: '2026-02-27T20:56:03.468424+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- news
+- cryptocurrency
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 20:29 UTC  
+**Last Updated:** February 27, 2026 at 20:56 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-5h ago
+6h ago
 
 ---
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-18m ago
+44m ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-9h ago
+10h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ If you know Bitcoin's true power and other people doubt it, it gives you long te
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 8h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 See you in 10 years.
 
-22h ago
+23h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 1d ago
 
 Every slump needs a scapegoat.
 
-Fortune • 23h ago
+Fortune • 1d ago
 
 ---
 
@@ -187,7 +187,7 @@ Fortune • 23h ago
 
 Positioning in futures and options shows traders looking to protect against further declines.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 8h ago
 
 Bitcoin fell Friday after briefly topping $69K this week, while stocks like CoreWeave and BitMine tumbled amid broader market losses.
 
-Yahoo Finance • 56m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -211,13 +211,13 @@ CoinDesk • 1h ago
 
 A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
 **[MARA Surges On Data Center Partnership, AI Plans. Crypto Plays Report.](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
 
-Investor's Business Daily • 5h ago
+Investor's Business Daily • 6h ago
 
 ---
 
@@ -269,7 +269,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
-⬆️ 1 • 💬 1 • 17h ago • [ordain.art](https://ordain.art)
+⬆️ 1 • 💬 1 • 18h ago • [ordain.art](https://ordain.art)
 
 ---
 
@@ -313,7 +313,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 128 • ⏱️ 13:24 • 19h ago
+👁️ 43K • 👍 3K • 💬 128 • ⏱️ 13:24 • 20h ago
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 568 • 💬 147 • ⏱️ 25:02 • 5h ago
+👁️ 8K • 👍 568 • 💬 147 • ⏱️ 25:02 • 6h ago
 
 ---
 
