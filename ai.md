@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T21:32:45.752222+00:00'
+updated: '2026-02-27T22:24:44.701333+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- news
 - repositories
+- news
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 21:32 UTC  
+**Last Updated:** February 27, 2026 at 22:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 shame on Sam Altman for putting users’ security at risk by trying to finagle a deal now. #TheRealAmericanPsycho
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ shame on Sam Altman for putting users’ security at risk by trying to finagle a
 
 Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
 
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 20h ago
+🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 21h ago
 
 ---
 
@@ -57,7 +57,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-5h ago
+6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
 
-38m ago
+1h ago
 
 ---
 
@@ -73,7 +73,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 If you are in the situation that you have to create marketing copy for different platforms you likely know what I'm talking about: The copy still feels quite similar even if some platform-specifics have been implemented. Lets imagine you wat to feed the model a press release and ask it to turn it into a blog article, LinkedIn or X post. The outcome may not be that bad. But often it feels quite neural, balnaced and somehow corporate. But is the model the problem? Does the model know that LinkedIn rhythm differs from X? Or that Instagram tolerates emotion (and emojis) or how to write a blog article with depth and structure? Likely, the models defaults to the safest possible tone: The golden middle. But if you want channel-native output, you need to give channel-native constraints. Try defining: Sentence length: Short punchy lines? Or structured paragraphs? Rhythm: Story-driven? Argument-driven? Fast takes? Friction level: Professional and diplomatic? Or slightly polarising? Formatting: Emojis allowed? Line breaks every sentence? Bullet lists? hashtags/No hashtags? Here are some examples for these constraints: LinkedIn: “Professional but opinionated. Structured argument. No emojis. Moderate friction.” Instagram: “Emotional, visual, shorter sentences, conversational tone, 1–2 emojis max.” X: “Compressed thinking. High tension. One sharp idea. No fluff.” Blog: “Deeper reasoning. Clear structure. Examples. No hot takes without explanation.” To get the models to adapt to the platform, you have to encode it. Try it out and let us know if the outcome is better. Disclaimer: The above is simplified (and for personal use). Don't you dare thinking that this is what the whaaat.ai marketing agents are build on!
 
-8h ago
+9h ago
 
 ---
 
@@ -89,7 +89,7 @@ We embedded invisible Unicode characters inside normal-looking trivia questions.
 
 Recently I've been thinking that the age of the 'human employee' may eventually come to an end. Exceptions aside, it wil just not make sense to hire a human employee anymore if you can hire a digital one. Obviously some sectors like health, education or government have exceptions, but for employees in sectors like finance, legal, automotive, transport, and manufacturing, it's different. What will that mean for society? Only entrepreneurs and ceo's of their own little digital employee club? Or some sort of jobless communism?
 
-6m ago
+58m ago
 
 ---
 
@@ -97,7 +97,7 @@ Recently I've been thinking that the age of the 'human employee' may eventually 
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 49m ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 1h ago
 
 ---
 
@@ -105,7 +105,7 @@ A new wearable AI system watches your hands through smart glasses, guiding exper
 
 I build forensic intelligence systems that expose corporate blind spots. Today's demonstration: Enterprise AI Transition Risk Assessment for Block Inc. One command input. Full institutional-grade analysis output. $2.6B direct exposure mapped $8.3B market cap risk quantified 5 detailed failure scenarios with timing predictions Strategic solution framework addressing multiple constraints simultaneously Block cut 40% workforce. Stock jumped 25%. Markets celebrated. The system showed what they're blind to. This is what I do. I build intelligence systems that see what standard analysis misses. 📊 Full report linked in comments https://open.substack.com/pub/structuredlanguage/p/enterprise-ai-transitions-are-creating?utm_source=share&utm_medium=android&r=6sdhpn AI #RiskManagement #BusinessIntelligence #StrategicPlanning #EnterpriseAnalysis
 
-7h ago
+8h ago
 
 ---
 
@@ -133,7 +133,7 @@ blog.google • 1d ago
 
 Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
 
-CNN • 22h ago
+CNN • 23h ago
 
 ---
 
@@ -141,7 +141,7 @@ CNN • 22h ago
 
 CEO Jack Dorsey said 4,000 employees would be laid off as the fintech company, which owns Cash App, embraces AI
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -149,13 +149,13 @@ The Guardian • 2h ago
 
 Economists question whether such moves signal a broader shift in the labor market or simply reflect company-specific adjustments.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
 **[Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I.](https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -163,13 +163,13 @@ The New York Times • 8h ago
 
 Investors are bidding up companies with hefty real assets such as grids, pipelines and heavy machinery that are least likely to be replaced by artificial intelligence.
 
-CNBC • 3h ago
+CNBC • 4h ago
 
 ---
 
 **[Wall St on course for monthly declines on AI worries, renewed tariff angst, geopolitical strife](https://www.reuters.com/business/us-stock-futures-falter-ai-jitters-nasdaq-braces-steep-monthly-fall-2026-02-27/)**
 
-Reuters • 9h ago
+Reuters • 10h ago
 
 ---
 
@@ -177,7 +177,7 @@ Reuters • 9h ago
 
 Stocks fell in afternoon trading after a report showed higher-than-expected inflation and as Wall Street continues to fret over AI-related disruption.
 
-CBS News • 47m ago
+CBS News • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ CBS News • 47m ago
 
 Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.
 
-OpenAI • 7h ago
+OpenAI • 8h ago
 
 ---
 
@@ -193,7 +193,7 @@ OpenAI • 7h ago
 
 All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -235,7 +235,7 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 143 • 💬 58 • 20h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 143 • 💬 58 • 21h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -257,7 +257,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 80 • 💬 99 • 9h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 80 • 💬 99 • 10h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -297,7 +297,7 @@ On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI
 
 📺 Tom Bilyeu Clips
 
-👁️ 13K • 👍 286 • 💬 56 • ⏱️ 8:38 • 22h ago
+👁️ 13K • 👍 286 • 💬 56 • ⏱️ 8:38 • 23h ago
 
 ---
 
@@ -327,7 +327,7 @@ Anthropic CEO Dario Amodei said the company cannot agree to the Pentagon's ultim
 
 📺 NBC News
 
-👁️ 55K • 👍 795 • 💬 313 • ⏱️ 4:24 • 21h ago
+👁️ 55K • 👍 795 • 💬 313 • ⏱️ 4:24 • 22h ago
 
 ---
 
@@ -347,7 +347,7 @@ This video shows you how Google AI can assist you! ➡️ Free Digital Product P
 
 📺 Success With Sam
 
-👁️ 1K • 👍 86 • 💬 10 • ⏱️ 19:15 • 6h ago
+👁️ 1K • 👍 86 • 💬 10 • ⏱️ 19:15 • 7h ago
 
 ---
 
@@ -357,7 +357,7 @@ ZoomPartner Can YOU tell which pics are AI or real? We had an AI Dog on my live 
 
 📺 Rebecca Zamolo
 
-👁️ 338K • 👍 5K • 💬 279 • ⏱️ 0:54 • 23h ago
+👁️ 338K • 👍 5K • 💬 279 • ⏱️ 0:54 • 1d ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 258,764 • ❤️ 627 • 11h ago
+⬇️ 258,764 • ❤️ 627 • 12h ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 264,531 • ❤️ 297 • 1h ago
+⬇️ 264,531 • ❤️ 297 • 2h ago
 
 ---
 
@@ -685,7 +685,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 360 • 6h ago
+⭐ 3.7k • 🔱 360 • 7h ago
 
 ---
 
@@ -695,7 +695,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.5k • 🔱 463 • 3h ago
+⭐ 3.5k • 🔱 463 • 4h ago
 
 ---
 
@@ -705,7 +705,7 @@ Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动
 
 `HTML`
 
-⭐ 3.1k • 🔱 381 • 10h ago
+⭐ 3.1k • 🔱 381 • 11h ago
 
 ---
 
@@ -715,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 209 • 8h ago
+⭐ 2.9k • 🔱 209 • 9h ago
 
 ---
 
@@ -725,7 +725,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 309 • 5h ago
+⭐ 2.9k • 🔱 309 • 6h ago
 
 ---
 
@@ -735,7 +735,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 541 • 4h ago
+⭐ 2.8k • 🔱 541 • 5h ago
 
 ---
 

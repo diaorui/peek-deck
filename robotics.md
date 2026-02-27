@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-27T21:32:45.770046+00:00'
+updated: '2026-02-27T22:24:44.718843+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 27, 2026 at 21:32 UTC  
+**Last Updated:** February 27, 2026 at 22:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-4h ago
+5h ago
 
 ---
 
@@ -52,7 +52,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
-9h ago
+10h ago
 
 ---
 
@@ -60,13 +60,13 @@ Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
 
 Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-3h ago
+4h ago
 
 ---
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -82,7 +82,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-3h ago
+4h ago
 
 ---
 
@@ -90,7 +90,7 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 
 Hi everyone, Thank you so much to everyone who has already signed up - we're excited by the response from the robotics community! I wanted to share an update: we've secured $13,500 in cash prizes for Agent and Robotics Hackathon 2026! 🎉 We're also finalizing additional non-cash prizes and will share more details as we get closer to the event. For those interested in participating, you can find more information and register at https://www.kxsb.org/ar26 Looking forward to seeing what everyone creates!
 
-2h ago
+3h ago
 
 ---
 
@@ -98,7 +98,7 @@ Hi everyone, Thank you so much to everyone who has already signed up - we're exc
 
 My Son wants to do Robotics in High School. Clubs seems to be costly. What is the advantage of going to Robotics club vs doing some projects using Raspberry Pi or Arduino? Doing it on his own, he may be missing competitions? What kind of components are used in competitions? Can someone playing with Arduino compete and win? How does this help students get into better college or courses like Mechatronics.?
 
-19m ago
+1h ago
 
 ---
 
@@ -126,7 +126,7 @@ TechCrunch • 2d ago
 
 Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-CNBC • 1d ago
+CNBC • 2d ago
 
 ---
 
@@ -142,7 +142,7 @@ The Verge • 1d ago
 
 Explore how vision-language-action models like Helix, GR00T N1, and RT-1 are enabling robots to understand instructions and act autonomously.
 
-The Robot Report • 6m ago
+The Robot Report • 58m ago
 
 ---
 
@@ -150,7 +150,7 @@ The Robot Report • 6m ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 11h ago
+Financial Times • 12h ago
 
 ---
 
@@ -158,7 +158,7 @@ Financial Times • 11h ago
 
 Novi's new robotics hub gives students a dedicated space to build, test and compete, and district leaders say more STEM expansion is on the way.
 
-WXYZ Channel 7 • 16h ago
+WXYZ Channel 7 • 17h ago
 
 ---
 
@@ -180,7 +180,7 @@ Automotive News • 12h ago
 
 Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
 
-South China Morning Post • 15h ago
+South China Morning Post • 16h ago
 
 ---
 
@@ -232,7 +232,7 @@ German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the
 
 📺 DPCcars
 
-👁️ 108K • 👍 922 • 💬 490 • ⏱️ 1:27 • 19h ago
+👁️ 108K • 👍 922 • 💬 490 • ⏱️ 1:27 • 20h ago
 
 ---
 
@@ -270,7 +270,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Borunte_robot_jack12
 
-👁️ 30K • 👍 69 • 💬 1 • ⏱️ 0:08 • 19h ago
+👁️ 30K • 👍 69 • 💬 1 • ⏱️ 0:08 • 20h ago
 
 ---
 

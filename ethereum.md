@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-27T21:32:45.766797+00:00'
+updated: '2026-02-27T22:24:44.715633+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 21:32 UTC  
+**Last Updated:** February 27, 2026 at 22:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 We added Ethereum as a payment option back in 2018, and since then, around 643,000 payments have been made with ETH through our gateway. Most spending happens on hosting, VPN services, and gaming. The average order value is around $159, with most payments ranging from $54 to $607. If you are looking for places that accept Ethereum, we have a merchant directory. Are you spending ETH anywhere these days?
 
-8h ago
+9h ago
 
 ---
 
@@ -80,7 +80,7 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 At the current moment the correct path to post quantum Ethereum transactions looks more like Shibuya Crossing, there are too many proposals all with different ways of doing the same fundamental thing. Some of the proposals that can achieve PQ migration are:   Pure ERC-4337 account abstraction and doing the PQ verification on the EVM EIP-6404: SSZ transactions that use the EIP-7932: Secondary Signature Algorithms rails. EIP-8141: Frame Transaction that make the PQ migration up to the account to d...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 4h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 5h ago
 
 ---
 
@@ -96,7 +96,7 @@ At the current moment the correct path to post quantum Ethereum transactions loo
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
 
-3h ago
+4h ago
 
 ---
 
@@ -104,7 +104,7 @@ https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-s
 
 Most people remember the 2017 ICO boom, but the culture started forming in late 2016 with projects like Golem and SingularDTV. Golem (GNT) — November 11, 2016 Golem launched what was essentially an 820,000 ETH hard cap crowdsale. It filled in 29 minutes. $8.6 million for a decentralized computing network. The contract was deliberately simple by design. After the DAO hack a few months earlier, the team and their auditors at Zeppelin went out of their way to avoid complexity. No recursive calls, no token logic mixed with funding logic. Just "send ETH, receive tokens, done." They also built in a migration mechanism from day one (GNT to GLM), which they actually used four years later in 2020. That kind of foresight was rare. SingularDTV — September/October 2016 SingularDTV took a different approach with a tri-contract architecture: one for the crowdsale, one for the token, one for the treasury fund. Stefan George (who later cofounded Gnosis) was involved. They raised $7.5M in 17 minutes. The treasury contract had a 2-year workshop token lockup built in. The speed of these raises changed expectations for every project that followed. Before this, "fast fundraising" for crypto meant days or weeks. After Golem and SingularDTV, everyone expected minutes. Why this matters now These contracts are still on-chain. You can read them, verify the logic, trace every transaction. Unlike web2 startup history where products get shut down and documentation disappears, Ethereum's history is permanently readable. I've been documenting these early contracts at ethereumhistory.com — trying to build a proper archive before the people who remember this era move on. We've got about 40 contracts documented so far from 2015-2017. If you were around during this period or remember other significant early contracts, would love to hear about them.
 
-7h ago
+8h ago
 
 ---
 
@@ -112,7 +112,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self-custody wallet control & stablecoin payments mainstream.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 8h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 9h ago
 
 ---
 
@@ -120,7 +120,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 5h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 6h ago
 
 ---
 
@@ -128,7 +128,7 @@ Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/pmbdcdOZMdU) • 33m ago
+🔗 [youtu.be](https://youtu.be/pmbdcdOZMdU) • 1h ago
 
 ---
 
@@ -136,7 +136,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ACDE #231 covers Glamsterdam devnet progress, EraE updates, txpool standardization, and the ongoing Hegotá headliner debate.
 
-🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 17h ago
+🔗 [EtherWorld.co](https://etherworld.co/highlights-from-the-all-core-developers-execution-acde-call-231/) • 18h ago
 
 ---
 
@@ -172,7 +172,7 @@ AMBCrypto • 1d ago
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -180,7 +180,7 @@ Yahoo Finance • 4h ago
 
 Magic Eden is pulling support for Ethereum-compatible and Bitcoin-based assets, marking an end to its multi-chain approach to user adoption.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -212,7 +212,7 @@ TradingView • 11h ago
 
 Buterin has outlined a phased roadmap to replace four vulnerable components of Ethereum's cryptographic architecture.
 
-Decrypt • 21h ago
+Decrypt • 22h ago
 
 ---
 
@@ -220,13 +220,13 @@ Decrypt • 21h ago
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 5h ago
+Polymarket • 6h ago
 
 ---
 
 **[Large cryptocurrencies drop on Ethereum, Solana decreases](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-solana-decreases-40a1c716-8b042fb12dc2?gaa_at=eafs&gaa_n=AWEtsqd3RnJPCDcgwY4Hpzw8JlLQjqR7cn1FCfnXHN3Ken9_hncTns1j8JUI&gaa_ts=69a210e8&gaa_sig=X1C6_B1PHPQ5E7NK23u2K2oqoX5ZDijJtKrfvMEICWJkKIxGdBt9QKBKgXQrxM1QJo5t4bqJDBT_vyrK9h7Hjg%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -240,7 +240,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 897 • 👍 99 • 💬 3 • ⏱️ 4:56 • 3h ago
+👁️ 897 • 👍 99 • 💬 3 • ⏱️ 4:56 • 4h ago
 
 ---
 
@@ -290,7 +290,7 @@ The Pectra upgrade marks an important event for Ethereum, significantly boosting
 
 📺 ReferCoin Lab
 
-👁️ 2K • 👍 40 • ⏱️ 0:45 • 3h ago
+👁️ 2K • 👍 40 • ⏱️ 0:45 • 4h ago
 
 ---
 
@@ -330,7 +330,7 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 📺 Märkte & Trends
 
-👁️ 3K • 👍 200 • 💬 28 • ⏱️ 38:15 • 10h ago
+👁️ 3K • 👍 200 • 💬 28 • ⏱️ 38:15 • 11h ago
 
 ---
 

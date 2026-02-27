@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-27T21:32:45.760758+00:00'
+updated: '2026-02-27T22:24:44.709700+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 27, 2026 at 21:32 UTC  
+**Last Updated:** February 27, 2026 at 22:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-10h ago
+11h ago
 
 ---
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-7h ago
+8h ago
 
 ---
 
@@ -117,7 +117,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 9h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 10h ago
 
 ---
 
@@ -125,7 +125,7 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-2h ago
+3h ago
 
 ---
 
@@ -133,7 +133,7 @@ If you know Bitcoin's true power and other people doubt it, it gives you long te
 
 See you in 10 years.
 
-23h ago
+1d ago
 
 ---
 
@@ -147,7 +147,7 @@ See you in 10 years.
 
 https://supercarblondie.com/tech/man-invested-27-dollars-in-bitcoin-2009-has-fortune/ This man invested money in 2009 and returned later to see it worth almost 900k. The possibilities are endless. It makes me wonder how many other millionaires are out there that don't even know. Have you invested money into a wallet that you forgot about / have any of your friends? With Bitcoin increasing over the decades the way it has, I wonder how many more of these 'uncovered a boatload of free & unlimited cash' stories we'll find?
 
-19h ago
+20h ago
 
 ---
 
@@ -187,7 +187,7 @@ Bloomberg.com • 1d ago
 
 Positioning in futures and options shows traders looking to protect against further declines.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ CoinDesk • 9h ago
 
 Bitcoin fell Friday after briefly topping $69K this week, while stocks like CoreWeave and BitMine tumbled amid broader market losses.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1h ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-KING5.com • 1h ago
+KING5.com • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ KING5.com • 1h ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-The Block • 8m ago
+The Block • 1h ago
 
 ---
 
@@ -219,13 +219,13 @@ The Block • 8m ago
 
 A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
 **[MARA Surges On Data Center Partnership, AI Plans. Crypto Plays Report.](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
 
-Investor's Business Daily • 6h ago
+Investor's Business Daily • 7h ago
 
 ---
 
@@ -271,7 +271,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
-⬆️ 1 • 💬 1 • 18h ago • [ordain.art](https://ordain.art)
+⬆️ 1 • 💬 1 • 19h ago • [ordain.art](https://ordain.art)
 
 ---
 
@@ -315,7 +315,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 43K • 👍 3K • 💬 128 • ⏱️ 13:24 • 20h ago
+👁️ 43K • 👍 3K • 💬 128 • ⏱️ 13:24 • 21h ago
 
 ---
 
@@ -325,7 +325,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 100K • 👍 7K • 💬 668 • ⏱️ 18:56 • 4h ago
+👁️ 100K • 👍 7K • 💬 668 • ⏱️ 18:56 • 5h ago
 
 ---
 
@@ -335,7 +335,7 @@ Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face
 
 📺 The Wolf Of All Streets
 
-👁️ 8K • 👍 568 • 💬 147 • ⏱️ 25:02 • 6h ago
+👁️ 8K • 👍 568 • 💬 147 • ⏱️ 25:02 • 7h ago
 
 ---
 
@@ -355,7 +355,7 @@ Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 12K • 👍 729 • 💬 38 • ⏱️ 16:32 • 9h ago
+👁️ 12K • 👍 729 • 💬 38 • ⏱️ 16:32 • 10h ago
 
 ---
 
@@ -375,7 +375,7 @@ Is Jane Street the reason Bitcoin is not sitting at 150K right now? Massive clai
 
 📺 Simply Bitcoin
 
-👁️ 23K • 👍 2K • 💬 133 • ⏱️ 24:42 • 22h ago
+👁️ 23K • 👍 2K • 💬 133 • ⏱️ 24:42 • 23h ago
 
 ---
 
@@ -385,7 +385,7 @@ Bitcoin did not just crash. It may have been engineered. From Terra's collapse t
 
 📺 Simply Bitcoin
 
-👁️ 46K • 👍 3K • 💬 209 • ⏱️ 15:03 • 1d ago
+👁️ 46K • 👍 3K • 💬 209 • ⏱️ 15:03 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ Nick Valdez looks at an insanely accurate Bitcoin signal that says “THE BOTTOM
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 425 • 💬 79 • ⏱️ 7:23 • 21h ago
+👁️ 8K • 👍 425 • 💬 79 • ⏱️ 7:23 • 22h ago
 
 ---
 
