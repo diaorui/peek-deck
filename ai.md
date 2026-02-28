@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T14:23:46.159514+00:00'
+updated: '2026-02-28T14:47:22.950042+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 14:23 UTC  
+**Last Updated:** February 28, 2026 at 14:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 10h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 11h ago
 
 ---
 
@@ -71,7 +71,7 @@ Quick summary of an independent preprint I just published: Question: Does the re
 
 I keep running into people who think AI = robots, or that ChatGPT is "real" intelligence. Some misconceptions I see constantly: "AI can think like humans" — No, it's pattern matching at scale "AI will replace ALL jobs" — It automates tasks, not entire jobs "AI is new" — The concept has been around since the 1950s "AI and Machine Learning are the same" — ML is actually a subset of AI What misconceptions do you keep hearing?
 
-11m ago
+34m ago
 
 ---
 
@@ -103,7 +103,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-22h ago
+23h ago
 
 ---
 
@@ -111,7 +111,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 17h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 18h ago
 
 ---
 
@@ -121,7 +121,7 @@ A new wearable AI system watches your hands through smart glasses, guiding exper
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 8h ago
+The New York Times • 9h ago
 
 ---
 
@@ -151,7 +151,7 @@ Star Tribune • 1h ago
 
 In 2022, Ethan Mollick, an AI researcher and University of Pennsylvania professor, found himself needing to amuse his daughter on a boring plane ride. For some help, he turned to what he knows best and began prompting Midjourney’s latest model to generate an image of an otter—his daughter’s ...
 
-The Information • 23m ago
+The Information • 47m ago
 
 ---
 
@@ -293,7 +293,7 @@ US President Donald Trump has ordered federal agencies to stop using Anthropic's
 
 📺 WION
 
-👁️ 11K • 👍 45 • 💬 8 • ⏱️ 2:36 • 6h ago
+👁️ 11K • 👍 45 • 💬 8 • ⏱️ 2:36 • 7h ago
 
 ---
 
@@ -303,7 +303,7 @@ Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the
 
 📺 CBS News
 
-👁️ 22K • 👍 618 • 💬 193 • ⏱️ 1:10 • 8h ago
+👁️ 22K • 👍 618 • 💬 193 • ⏱️ 1:10 • 9h ago
 
 ---
 
@@ -333,7 +333,7 @@ Soon after the Trump administration halted Anthropic's services across federal a
 
 📺 Mint
 
-👁️ 9K • 👍 30 • 💬 6 • ⏱️ 3:35 • 4h ago
+👁️ 9K • 👍 30 • 💬 6 • ⏱️ 3:35 • 5h ago
 
 ---
 
@@ -343,7 +343,7 @@ this ain't lasting long lol I have merch now! https://dandingle.store/ edited by
 
 📺 Dan Dingle
 
-👁️ 30K • 👍 4K • 💬 468 • ⏱️ 12:16 • 13h ago
+👁️ 30K • 👍 4K • 💬 468 • ⏱️ 12:16 • 14h ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 347 • 18h ago
+⬇️ 350,233 • ❤️ 347 • 19h ago
 
 ---
 
@@ -461,7 +461,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 192,464 • ❤️ 1,647 • 14d ago
+⬇️ 192,464 • ❤️ 1,647 • 15d ago
 
 ---
 
@@ -473,7 +473,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,997 • ❤️ 231 • 3d ago
+⬇️ 1,997 • ❤️ 231 • 4d ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.0k • 🔱 2.6k • 5m ago
+⭐ 21.0k • 🔱 2.6k • 28m ago
 
 ---
 
@@ -711,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 212 • 35m ago
+⭐ 2.9k • 🔱 212 • 58m ago
 
 ---
 
@@ -721,7 +721,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 2.9k • 🔱 224 • 1h ago
+⭐ 2.9k • 🔱 224 • 2h ago
 
 ---
 
@@ -731,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 556 • 4h ago
+⭐ 2.9k • 🔱 556 • 5h ago
 
 ---
 

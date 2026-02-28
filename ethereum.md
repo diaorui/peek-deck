@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T14:23:46.174172+00:00'
+updated: '2026-02-28T14:47:22.964644+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 14:23 UTC  
+**Last Updated:** February 28, 2026 at 14:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Was digging through early Ethereum contracts and found something wild. In April 2016, Alex Van de Sande (@avsa) deployed a token called Unicorn Meat as an April Fool's joke. You could "grind" Unicorn tokens (0 decimals, basically NFTs before NFTs) into Unicorn Meat (3 decimals, fungible). The grinder contract handled the conversion on-chain. But here's the part that blew my mind: the Grinder Association DAO that governed the system used quadratic voting. In 2016. Before Gitcoin, before Vitalik's QV paper got popular, before anyone was talking about it. The voting weight scaled with the square root of tokens held, specifically to prevent whale dominance. Piper Merriam (yes, the py-evm / web3.py Piper Merriam) ended up taking over governance of the association. The DAO is technically still functional on mainnet. The technical design is also interesting from a token engineering perspective. The 0-decimal to 3-decimal conversion was essentially an early attempt at what we'd now call a token upgrade or migration path, but done through a grinder mechanic instead of a proxy pattern. One indivisible input, 1000 divisible units out. Irreversible by design. It's a tiny piece of Ethereum history that somehow combined: - Quadratic voting governance (years before it was mainstream) - On-chain token transformation (not just wrapping, actual decimal conversion) - A DAO with real authority over contract parameters - All of it deployed before The DAO hack even happened The contracts are all still on mainnet if anyone wants to poke around. Just search for UnicornGrinder on Etherscan. Sometimes the best innovations start as jokes.
 
-1h ago
+2h ago
 
 ---
 
@@ -112,7 +112,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
 
-20h ago
+21h ago
 
 ---
 
@@ -136,7 +136,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 22h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 Both of these coins have what it takes to be good investments for the long run.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
@@ -164,7 +164,7 @@ The Motley Fool • 12h ago
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 21h ago
+CoinDesk • 22h ago
 
 ---
 
@@ -172,7 +172,7 @@ CoinDesk • 21h ago
 
 President Donald Trump announced Saturday that the US and Israel attacked Iran. Bitcoin and Ethereum immediately dropped on the news.  It isn’t clear how long the military operation will take.
 
-dlnews.com • 7m ago
+dlnews.com • 31m ago
 
 ---
 
@@ -210,7 +210,7 @@ The Block • 2d ago
 
 Ethereum and Bitcoin options valued at $8.7 billion are about to expire on the leading derivatives exchange, Deribit. This development could increase the volatility of both cryptocurrencies amid the ongoing bearish outlook of their prices.Ethereum and Bitcoin options max pain levelIn a new update…
 
-TradingView • 22h ago
+TradingView • 23h ago
 
 ---
 
@@ -218,7 +218,7 @@ TradingView • 22h ago
 
 Dubai, UAE, Feb.  27, 2026  (GLOBE NEWSWIRE) -- Pepeto's presale just crossed $7.35 million and stages are filling faster than any previous round....
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 

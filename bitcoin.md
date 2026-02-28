@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T14:23:46.168018+00:00'
+updated: '2026-02-28T14:47:22.958556+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 14:23 UTC  
+**Last Updated:** February 28, 2026 at 14:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -85,7 +85,7 @@ Rank #1
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -109,7 +109,7 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus elec
 
 I was looking at the genesis block on mempool.space, but why does the address connected to the only transaction in the block only have 11 other transactions. Many of addresses connected to satoshi have thousands more of transactions. I was wondering if you could only send some if you mined a block, but that's probably bullshit. So can I give myself a nice place on the blockchain or is there more I don't know of?
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ I was looking at the genesis block on mempool.space, but why does the address co
 
 Bitcoin and other digital assets fell sharply after the US and Israel began striking targets across Iran on Saturday.
 
-The Boston Globe • 3h ago
+The Boston Globe • 4h ago
 
 ---
 
@@ -187,7 +187,7 @@ Barron's • 1d ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-king5.com • 18h ago
+king5.com • 19h ago
 
 ---
 
@@ -239,7 +239,7 @@ Reuters • 2d ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 6 • 💬 21 • 3d ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+⬆️ 6 • 💬 21 • 4d ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
 
 ---
 
@@ -247,7 +247,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 3 • 💬 0 • 4h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 3 • 💬 0 • 5h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea wha
 
 📺 Edwards Economics
 
-👁️ 25K • 👍 1K • 💬 325 • ⏱️ 28:23 • 15h ago
+👁️ 25K • 👍 1K • 💬 325 • ⏱️ 28:23 • 16h ago
 
 ---
 
@@ -361,7 +361,7 @@ Wall Street Just Took Over Bitcoin... Is This Game Over? In today's timely deep 
 
 📺 Tom Bilyeu
 
-👁️ 57K • 👍 3K • 💬 681 • ⏱️ 19:33 • 12h ago
+👁️ 57K • 👍 3K • 💬 681 • ⏱️ 19:33 • 13h ago
 
 ---
 
@@ -371,7 +371,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 364 • 💬 53 • ⏱️ 12:38 • 3h ago
+👁️ 6K • 👍 364 • 💬 53 • ⏱️ 12:38 • 4h ago
 
 ---
 

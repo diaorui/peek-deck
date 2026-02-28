@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T14:23:46.177410+00:00'
+updated: '2026-02-28T14:47:22.967896+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 14:23 UTC  
+**Last Updated:** February 28, 2026 at 14:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-1h ago
+2h ago
 
 ---
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -72,7 +72,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-23h ago
+1d ago
 
 ---
 
@@ -88,13 +88,13 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
 
-2h ago
+3h ago
 
 ---
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hello all, I'm a full-time embedded software engineer working with embassy rust.
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 21h ago
+Tech Xplore • 22h ago
 
 ---
 
@@ -178,7 +178,7 @@ Financial Times • 1d ago
 
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 15h ago
+MSN • 16h ago
 
 ---
 
@@ -202,7 +202,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 47K • 👍 275 • 💬 109 • ⏱️ 2:18 • 1d ago
+👁️ 47K • 👍 275 • 💬 109 • ⏱️ 2:18 • 2d ago
 
 ---
 
