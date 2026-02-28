@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T06:40:15.196315+00:00'
+updated: '2026-02-28T07:28:40.319182+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 06:40 UTC  
+**Last Updated:** February 28, 2026 at 07:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-13h ago
+14h ago
 
 ---
 
@@ -50,13 +50,21 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-16h ago
+17h ago
 
 ---
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-3h ago
+4h ago
+
+---
+
+**[DIY Humanoid Robot](https://www.reddit.com/r/robotics/comments/1rgup1h/diy_humanoid_robot/)**
+
+For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
+
+1h ago
 
 ---
 
@@ -70,7 +78,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-12h ago
+13h ago
 
 ---
 
@@ -78,7 +86,7 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 
 Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-12h ago
+13h ago
 
 ---
 
@@ -86,7 +94,7 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 1h ago
+🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 2h ago
 
 ---
 
@@ -94,21 +102,19 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 Japan is helping people to stand up in life which are disabled I wish there can be sports events to get there sprit up and also even its small medal but it can be achievments of there confidence and live there societal ease Wishing for a good luck to us
 
-2h ago
-
----
-
-**[Agent and Robotics Hackathon 2026 -- Prize Update!](https://www.reddit.com/r/robotics/comments/1rgfyfb/agent_and_robotics_hackathon_2026_prize_update/)**
-
-Hi everyone, Thank you so much to everyone who has already signed up - we're excited by the response from the robotics community! I wanted to share an update: we've secured $13,500 in cash prizes for Agent and Robotics Hackathon 2026! 🎉 We're also finalizing additional non-cash prizes and will share more details as we get closer to the event. For those interested in participating, you can find more information and register at https://www.kxsb.org/ar26 Looking forward to seeing what everyone creates!
-
-11h ago
+3h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqc8e0WEH6EAaGiCWfJqUCoaEukm4xF5DK-M4WNtgKGagPUKJ33ytIUJ&gaa_ts=69a29c8e&gaa_sig=6mRCXwE64oZ7lVwe6Qhmte-Rp577DxDpNIt5T0k0r8p2KWgkB7QNq2hmfWw8EeV8gs1rM2xUgbz3QtEvXU-aQA%3D%3D)**
+
+WSJ • 9h ago
+
+---
 
 **[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
 
@@ -118,23 +124,17 @@ Los Angeles Times • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqcn6NCaVWjrpbBvuJwPYkKJyxn_NvgvVQbxV9jupKt-5jLSA6I-JXbW&gaa_ts=69a28343&gaa_sig=Bz08ueCoYBUtKBU7X7puzp0B-zjtlLvTewvE7Gi9FX3-m_7-k-O2FUsxBSNx_CNEOU7nywp1gOH6zNErsg7n_g%3D%3D)**
-
-WSJ • 8h ago
-
----
-
 **[BMW intensifies humanoid robot push with test project in Germany after U.S. success](https://www.autonews.com/bmw/ane-bmw-humanoid-robot-leipzig-germany-0227/)**
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 16h ago
+Automotive News • 17h ago
 
 ---
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 14h ago
+Tech Xplore • 15h ago
 
 ---
 
@@ -142,7 +142,7 @@ Tech Xplore • 14h ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 20h ago
+Financial Times • 21h ago
 
 ---
 
@@ -154,7 +154,7 @@ Bloomberg.com • 1d ago
 
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 7h ago
+MSN • 8h ago
 
 ---
 

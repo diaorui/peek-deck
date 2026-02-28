@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T06:40:15.188201+00:00'
+updated: '2026-02-28T07:28:40.311097+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 06:40 UTC  
+**Last Updated:** February 28, 2026 at 07:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -3.2%  
-**7d:** -3.2%  
-**30d:** -22.2%  
-**90d:** -24.1%  
-**1y:** -23.9%  
+**24h:** -6.6%  
+**7d:** -6.1%  
+**30d:** -24.6%  
+**90d:** -26.4%  
+**1y:** -26.2%  
 
 ---
 
@@ -79,21 +79,13 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-10h ago
+11h ago
 
 ---
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-15h ago
-
----
-
-**[Bought $1k of BTC. Let's see what will happen](https://www.reddit.com/r/Bitcoin/comments/1rg3j7r/bought_1k_of_btc_lets_see_what_will_happen/)**
-
-https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
-
-19h ago
+16h ago
 
 ---
 
@@ -105,11 +97,11 @@ Sem brincadeira tava a anos estudando essa porra para entrar, entrei ontem, e pa
 
 ---
 
-**[Maybe they really do understand Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rg7c4v/maybe_they_really_do_understand_bitcoin/)**
+**[Bought $1k of BTC. Let's see what will happen](https://www.reddit.com/r/Bitcoin/comments/1rg3j7r/bought_1k_of_btc_lets_see_what_will_happen/)**
 
-A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
+https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-16h ago
+20h ago
 
 ---
 
@@ -117,7 +109,23 @@ A friend who has always been against Bitcoin asked me how to buy it. I feel that
 
 Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
 
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 8h ago
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 9h ago
+
+---
+
+**[Maybe they really do understand Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rg7c4v/maybe_they_really_do_understand_bitcoin/)**
+
+A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
+
+17h ago
+
+---
+
+**[Daily Discussion, February 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1rguxhk/daily_discussion_february_28_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+1h ago
 
 ---
 
@@ -133,7 +141,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-11h ago
+12h ago
 
 ---
 
@@ -145,61 +153,37 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 ---
 
-**[Decided to buy $BTC instead of a Rolex.](https://www.reddit.com/r/Bitcoin/comments/1rfnlhy/decided_to_buy_btc_instead_of_a_rolex/)**
-
-See you in 10 years.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Miner Tied to Trump Family Pummeled by Crypto Crash](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-tied-to-trump-family-pummeled-by-crypto-crash)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772262000)**
 
-Bloomberg.com • 1d ago
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
----
-
-**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://finance.yahoo.com/news/trump-brothers-backed-american-bitcoin-122144114.html)**
-
-Concerns over stretched valuations in ‌artificial-intelligence stocks and uncertainty around the timing and scale of U.S. Federal Reserve rate cuts have ​pressured risk assets, dragging bitcoin to quarterly lows and leaving many so-called digital asset treasury (DAT) companies on an unsteady footing.  American Bitcoin, a miner of the world's largest cryptocurrency, sells it at a premium or holds for a surge in ‌the price.  Stocks of crypto treasury companies typically move in line with ​the token's ​price as shifts in prices directly ​affect the value of reserves.
-
-Yahoo Finance • 1d ago
+Polymarket • 1d ago
 
 ---
 
-**[Opinion | Donald Trump Is the Crypto President. Why Is It Struggling?](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)**
+**['Bitcoin Retail Investors Are All In' And That's Why There's No Floor, Blockstream CEO Says](https://finance.yahoo.com/news/bitcoin-retail-investors-thats-why-104508164.html)**
 
-The New York Times • 1d ago
+Blockstream CEO Adam Back told CNBC that Bitcoin (CRYPTO: BTC) lacks downside support because retail investors are “all in” with no cash left to buy dips, explaining the 25% year-to-date decline. The ‘All In’ Problem Back on Monday explained that...
 
----
-
-**[Bitcoin price news: BTC slides to $65,000, Solana, XRP, dogecoin down 6%](https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-to-usd65-000-in-weekend-sell-off-with-solana-xrp-dogecoin-down-6)**
-
-The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.
-
-CoinDesk • 2h ago
+Yahoo Finance • 20h ago
 
 ---
 
-**[Bitcoin Trading Patterns Show Unique 'U-Shaped' Structure](https://www.binance.com/en-KZ/square/post/296384643964386)**
+**[Fake mail carrier accused of violently strangling Seattle homeowner’s wife during demand for bitcoin](https://www.king5.com/article/news/local/fake-mail-carrier-accused-of-violently-strangling-seattle-homeowners-wife-during-demand-for-bitcoin/281-2e1dbfe9-e6ad-49e9-abc2-3d78eae26bb7)**
 
-Binance • 2h ago
+Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
----
-
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqfaXd9QtEtcvR-xxwkm1Ybs243gn8t2YyViN0Pl_iWT9wwbDTNP8SQf&gaa_ts=69a28341&gaa_sig=V4bLwELcxK25nbtg39_egep0o24bbOiPsmkIz7BqlJ9JKMw7Ggs6joqukUBIQCLQ6mx-P-4UosvvKI_BJ8vlCg%3D%3D)**
-
-Barron's • 21h ago
+KING5.com • 11h ago
 
 ---
 
-**[MARA Holdings Stock Surges. The Bitcoin Miner Is Moving Into AI.](https://www.barrons.com/articles/mara-holdings-earnings-stock-price-ai-e07c9341?gaa_at=eafs&gaa_n=AWEtsqfczoawIUqYFsljp2EKQvjoE2qaOe3NttDQ-O1P_EO0y9IfzkRDGyhp&gaa_ts=69a28341&gaa_sig=bV-B7gKGvV7P0DdxkCSdwbhXQpEEe6gXMJzQOGn1d5nDg4UfAYWwYFGDprI3JTh_GN5OvfNkTJlzipPFlk6AEg%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdTnTeNfD0YfjW5NoqvD3NY10OkcgmqbnbIfQBqZRq57OInScaXXjsg&gaa_ts=69a29c8b&gaa_sig=TN9imDxVxUUXIRcPKPswG13-Xs-SF5P9by3y0MpCD2xXUdS6DHCPhnuKT_0k8nB9ux4EgTolw7ll7L4Qs1_1uA%3D%3D)**
 
-Barron's • 15h ago
+Barron's • 22h ago
 
 ---
 
@@ -211,9 +195,23 @@ CoinDesk • 1d ago
 
 ---
 
+**[MARA Holdings Stock Surges. The Bitcoin Miner Is Moving Into AI.](https://www.barrons.com/articles/mara-holdings-earnings-stock-price-ai-e07c9341?gaa_at=eafs&gaa_n=AWEtsqdvRsg2bj2vg4sFF2dMt3dMeiqrxIwHwb9mhlrqt61MSOCW41AVpuTf&gaa_ts=69a29c8b&gaa_sig=XluYFHCHX7oFxkagp37n7b6GFSXAD65jc9tq6eIrHa8JLTxpCGQ3NHO6Pw-d6rlva48gBtZQFzv5p6B5EHEK3A%3D%3D)**
+
+Barron's • 16h ago
+
+---
+
 **[Bitcoin Miner MARA, Starwood Partner to Develop AI Data Centers](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-mara-starwood-partner-to-develop-ai-data-centers)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[Bitcoin fans latch on to ‘ridiculous’ Jane Street conspiracy to explain price slump](https://fortune.com/2026/02/26/bitcoin-slump-jane-street-conspiracy-theory/)**
+
+Every slump needs a scapegoat.
+
+Fortune • 1d ago
 
 ---
 
@@ -221,7 +219,15 @@ Bloomberg.com • 1d ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-The Block • 9h ago
+The Block • 10h ago
+
+---
+
+**[Inflation data sends markets reeling](https://www.thestreet.com/crypto/markets/inflation-data-sends-markets-reeling)**
+
+Bitcoin previously hit a record high above $126,000 in October 2025.
+
+thestreet.com • 14h ago
 
 ---
 
@@ -311,7 +317,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 416K • 👍 15K • 💬 1K • ⏱️ 18:56 • 13h ago
+👁️ 416K • 👍 15K • 💬 1K • ⏱️ 18:56 • 14h ago
 
 ---
 
@@ -321,7 +327,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 15K • 👍 575 • ⏱️ 22:53 • 8h ago
+👁️ 15K • 👍 575 • ⏱️ 22:53 • 9h ago
 
 ---
 
@@ -331,7 +337,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 6K • 👍 367 • 💬 63 • ⏱️ 14:04 • 6h ago
+👁️ 6K • 👍 367 • 💬 63 • ⏱️ 14:04 • 7h ago
 
 ---
 
@@ -397,7 +403,7 @@ BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 227 • 💬 103 • ⏱️ 20:17 • 9h ago
+👁️ 6K • 👍 227 • 💬 103 • ⏱️ 20:17 • 10h ago
 
 ---
 
