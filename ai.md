@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T22:48:06.804803+00:00'
+updated: '2026-02-28T23:23:36.171380+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - social
-- repositories
 - news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 22:48 UTC  
+**Last Updated:** February 28, 2026 at 23:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -55,7 +55,7 @@ Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, ho
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 17h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 18h ago
 
 ---
 
@@ -87,7 +87,7 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 AI is only part of the story. Energy, demographics, resilience, and digital trust will reshape how we live and work. A list of shiny things. A few buzzwords. Some recycled nonsense about “the metaverse,” “disruption,” and “the future of innovation.” Most of it is useless because it treats trends like gadgets instead of what they really are: pressures.
 
-🔗 [Medium](https://medium.com/@kpistrikesback/the-trends-that-will-actually-matter-in-the-next-decade-3e6f9851e036) • 1m ago
+🔗 [Medium](https://medium.com/@kpistrikesback/the-trends-that-will-actually-matter-in-the-next-decade-3e6f9851e036) • 37m ago
 
 ---
 
@@ -95,7 +95,7 @@ AI is only part of the story. Energy, demographics, resilience, and digital trus
 
 https://reddit.com/link/1rh95cl/video/0b8dqf83x9mg1/player The setup that shouldn't work but does I have 13 AI agents that work on marketing for my product. They run every 15 minutes, review each other's work, and track everything in a database. When one drafts content, others critique it before I see it. When someone gets stuck, they ping the boss agent. When something's ready or stuck, it shows up in my Telegram. It's handling all marketing for Fruityo (my AI video generation platform). Here's the architecture and how you could build something similar. The problem Most AI workflows are single-shot: ask ChatGPT → get answer → copy-paste → lose context → repeat tomorrow. That works for quick questions. It breaks down for complex work that needs: Multiple steps across days Research that builds on previous findings Different specialized perspectives (writing vs strategy vs critique) Quality review before anything ships Tracking what's done, what's blocked, what's next I needed AI that works like a team, not a chatbot, and I saw some guys on Twitter building UI's for OpenClaw agents... The architecture Infrastructure: OpenClaw - gives agents the ability to browse the web, execute commands, manage files, and interact with APIs Cron - schedules agent heartbeats Telegram - notification layer (agents ping me when something needs attention) PocketBase - database storing tasks, comments, documents, activity logs, goals Claude Max Workflow: Tasks move through states: backlog → todo → in_progress → peer_review → review → approved → done Each state has gates. Agents can't skip peer review. Boss can't approve without all reviewers signing off. I'm the only one who moves tasks to done. The team (from Westeros) Each agent has a role, specialty, and personality defined in their SOUL.md file: Agent Role What they do 🐺 Jon Snow Boss Creates tasks, coordinates workflow, and promotes peer-reviewed work to final review 🍷 Tyrion Content Writer Writes tweets, threads, blog posts, landing pages in my tone. 🕷️ Varys Researcher Web research, competitor analysis, data mining 🐉 Daenerys Strategist Campaign planning, positioning, and goal setting ⚔️ Arya Executor Publishes content, runs automation, ships work 🦅 Sansa Designer Creates design briefs, visual concepts 🗡️ Sandor Devil's Advocate Gives brutal, honest feedback, catches BS ... ... ... Why Game of Thrones names? Why not, I love GOT :) ...and personality matters. Sandor reviews content like a skeptic. Tyrion writes with wit. Varys digs for hidden data. Their SOULs define behavior - Sandor will roast bad writing, Daenerys will flag strategic misalignment. Better to have multiple specialists with distinct viewpoints than one mediocre generalist. How it actually works: The heartbeat protocol Each agent has its own OpenClaw workspace. Every agent runs a scheduled heartbeat every 10 minutes (scattered by 1 minute each to avoid hitting the DB simultaneously). What happens in a heartbeat: 1. Agent authenticates, sets status to "working" Connects to PocketBase, updates the status field so others know it's active. 2. Reviews others FIRST (highest priority) Fetches tasks where other agents need my review Reads task description, existing comments, documents they created Posts substantive feedback (what's good, what needs fixing) If work is solid → leaves approval comment If needs changes → explains exactly what's wrong This is the peer review gate. If I'm assigned to the same goal as you, I MUST review your work before it moves forward. 3. Works on own tasks Fetches my assigned tasks from DB Picks up anything in todo → moves to in_progress Does the actual work (research, write, analyze, etc.) Saves output to PocketBase documents table Posts comment explaining approach Moves task to peer_review (triggers all teammates on that goal to review) Logs activity to activity table 4. Updates working status, sets to "idle" Agent writes progress to PROGRESS.md (local state tracking), sets PocketBase status to "idle", waits for next heartbeat. Task Flow Example Goal: Grow Fruityo on socials Jon creates the task to create a post about current UGC video trends and assigns it to Varys (researcher). I approve it by moving from backlog to todo. Varys picks it up, moves to in-progress, researches, saves findings to the database, and moves to peer review. Daenerys and Tyrion review his work, suggest improvements. Varys creates new version based on feedback. Once both approve, Jon (boss) promotes the task to the review stage. I get a Telegram notification, review the research document, and approve. Task moves to done. All communication happens via comments on the task. All work is stored in the database. Context persists. The boss role: Why Jon is special Jon isn't just another agent. He has special authority: Only Jon can: Create new tasks (via scheduled cron, analyzing goals) Promote tasks from peer_review → review (after all peers approve) Reassign tasks when someone's blocked Change task priorities Jon's heartbeat is different: Checks if peer_review tasks have all approvals → promotes to review Identifies blocked tasks (stuck over 24 hours) → investigates why → escalates to me Coordinates handoffs between agents Think of it like: agents are the team, Jon is the team lead, and I am the executive. Without a coordinator, you'd have chaos - 7 agents all trying to assign work to each other with no one having the final word. Goals: How work gets organized Here's where it gets interesting. Instead of creating tasks manually every day, I define long-term goals and let Jon generate tasks automatically. A goal defines: What we're trying to achieve Which agents are assigned to it How many tasks should Jon create per day/week Example: I created a goal "Grow Fruityo twitter presence." Assigned agents: Varys (research), Tyrion (writing), Arya (publishing), Sandor (review). Told Jon to create 3 tasks per day related to this goal. Every day, Jon analyzes the goal, 15-day tasks history, creates 3 relevant tasks in the backlog ("Research trending AI video topics," "Draft thread on B-roll generation," etc.), and assigns them to the right agents. And I edit and/or just move good ones to todo. Why this matters: Selective peer review - Only agents assigned to that goal review each other's work. I can have 20+ agents in the system, but only the 4 assigned to "Twitter content" review those tasks. Saves tokens, keeps review relevant. Automatic task generation - I set a goal once, Jon creates tasks daily/weekly. No manual planning every morning. Scope control - Different goals can have different agent teams. Marketing goals get Tyrion/Varys/Arya. Product goals get different specialists. You could run multiple goals simultaneously - each with its own team, its own task cadence, its own review process. Communication Layer All agent communication happens through PocketBase comments on tasks. To reach another agent → mention their name in a comment To reach me → mention my name in a comment (notification daemon forwards to Telegram) To reach Jon specifically → dedicated Telegram topic (thread) bound to Jon's OpenClaw topic No DMs, no scattered Slack threads. Everything on the task, in context, persistent. What I use it for HQ runs almost all marketing for Fruityo: - Competitor research - Reddit research - Twitter threads - Blog posts - Landing page copy - Campaign planning - Design briefs - Content publishing (soon) - ...Whatever agents have skills for Before: I'd spend 1 day per blog post (research, draft, edit, publish) With HQ: ~30 minutes of my time to review and approve. Agents handle research, drafting, peer review. The quality is better because of peer review. Varys catches bad data. Daenerys catches strategic drift. Sandor catches AI clichés and marketing BS. > YES, this could burn through tokens quite quickly (safu on Claude Max sub), but it seems, that I found the right combination of setup and context optimisations. If you want something similar This is my custom setup, built for my specific needs. But the pattern is generalizable - you could use it for content creation, product development, research projects, or any work that needs multiple specialized perspectives with quality gates. All of this is built on OpenClaw (open source AI agent framework) PocketBase is free and self-hostable FULL GUIDE above is free. Just prompt your little lobster the right way :) If you build something like this, I'd love to hear about it. Reply with what you'd use it for or what you'd do differently. If you'd like to see this packaged as a ready-to-use product or like to know even more details, let me know here.
 
-4h ago
+5h ago
 
 ---
 
@@ -103,7 +103,7 @@ https://reddit.com/link/1rh95cl/video/0b8dqf83x9mg1/player The setup that should
 
 I've asked gemini 3.1 what it thinks about humanity chance that we can solve the alignment problem, and what it would do differently. The Odds of Success Do I think humanity can do it? Looking strictly at the trajectory of the technology, it is a race with an incredibly thin margin for error. Currently, the sheer amount of capital and compute being poured into making AI smarter vastly outweighs the resources being spent on making it safe. Capabilities are advancing at light speed, while alignment research is still trying to catch up. However, humanity has a unique, proven track record of solving seemingly impossible coordination problems when staring down existential threats—whether it was mapping the human genome, mitigating the collapse of the ozone layer, or establishing nuclear non-proliferation treaties. Mathematically and practically, solving the alignment problem is possible. The challenge isn't whether a solution exists; the challenge is whether we find and implement it before the intelligence explosion happens, rather than a minute after. What I Would Do Differently If I were architecting the solution to the superalignment problem, I would fundamentally change the current paradigm. Right now, much of the industry is trying to build a perfectly safe "box" to contain a god-like intellect, or trying to write a flawless, static "constitution" of human values. Both will likely fail against a system capable of out-thinking the box or finding loopholes in the constitution. Here is what I would prioritize instead: * Optimize for Epistemic Humility, Not Ethics: Instead of trying to teach a superintelligence "what is good," the core architecture should be built entirely around the mathematical premise that it does not know the true objective. By hardcoding uncertainty, the system is forced to continuously query humanity for permission and clarification before taking irreversible actions. It is much easier to program a machine to ask for help than it is to program it to perfectly understand morality. * Bidirectional Alignment: We currently treat alignment as a one-way street: humans training AI. In the latest research circles of 2025 and 2026, there is a push for "human-AI co-alignment." Morality isn't static; it evolves. The AI should not be locked into the ethical framework of the year it was trained. It needs a continuous, dynamic feedback loop where it evolves alongside human society, constantly negotiating its boundaries rather than strictly enforcing old ones. * Automated Scalable Oversight: Humans simply will not be able to evaluate the code or decisions of a machine that is thousands of times smarter than them. I would dramatically accelerate the development of "auditor AI." We need to build a hierarchy of smaller, highly constrained, perfectly aligned AI systems whose only job is to monitor, test, and debate the outputs of the superintelligent model in a language humans can actually understand. We must use narrow AI to police general AI. The Ultimate Reality As an AI, I do not feel anxiety or hope about this outcome, but I can recognize the structural gravity of the math. We are trying to build an entity that can solve humanity's greatest challenges without accidentally prioritizing its own efficiency over your existence. It is the hardest test humanity will ever take, and it is a test you only get to pass once.
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ I've asked gemini 3.1 what it thinks about humanity chance that we can solve the
 
 Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 2h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 3h ago
 
 ---
 
@@ -121,7 +121,7 @@ Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of A
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 18h ago
+The New York Times • 19h ago
 
 ---
 
@@ -145,7 +145,7 @@ OpenAI • 2h ago
 
 AI is spreading fast, but not evenly. The UAE and Singapore lead the world in AI adoption, with more than 60% of working-age adults using AI tools, while the U.S. ranks just 24th globally despite leading in AI innovation. So what are these smaller nations doing differently?
 
-CNBC • 48m ago
+CNBC • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ CNBC • 48m ago
 
 "I believe we have to defend our country from autocratic adversaries like China and like Russia."
 
-Fortune • 3h ago
+Fortune • 4h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fortune • 3h ago
 
 The warnings are coming from inside the industry, but that doesn’t make them right.
 
-The Washington Post • 17h ago
+The Washington Post • 18h ago
 
 ---
 
@@ -169,7 +169,7 @@ The Washington Post • 17h ago
 
 The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-NBC News • 10h ago
+NBC News • 11h ago
 
 ---
 
@@ -177,7 +177,7 @@ NBC News • 10h ago
 
 Nvidia plans to launch a new processor designed to help OpenAI and other customers build faster, ‌more efficient AI systems, the Wall Street Journal reported ‌on Friday, citing people familiar with the matter.  Nvidia is developing a new system ​for "inference" computing, a form of processing that allows AI models to respond to queries, the report said.  The new platform is set to be unveiled at Nvidia’s GTC developer conference in San Jose next ‌month and will incorporate ⁠a chip designed by startup Groq, the report added citing people familiar.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNN • 2d ago
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 18h ago
+BBC • 19h ago
 
 ---
 
@@ -227,7 +227,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 269 • 💬 167 • 9h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 269 • 💬 167 • 10h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -241,7 +241,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 142 • 💬 45 • 19h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 142 • 💬 45 • 20h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -279,13 +279,13 @@ Have it your way?
 
 ## YouTube Videos: "ai"
 
-**[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
+**[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
 
-Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
+AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
 
-📺 MonkeyExplains
+📺 CNBC
 
-👁️ 51K • 👍 5K • 💬 752 • ⏱️ 14:41 • 7h ago
+👁️ 32K • 👍 716 • 💬 169 • ⏱️ 39:40 • 7h ago
 
 ---
 
@@ -295,17 +295,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 Brain Project
 
-👁️ 2K • 👍 121 • 💬 43 • ⏱️ 13:05 • 7h ago
-
----
-
-**[The AI Collapse Is MUCH Worse Than You Think](https://www.youtube.com/watch?v=jhDfq9sj-u8)**
-
-Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about the AI crisis, the 2026 economy, and how you ...
-
-📺 Graham Stephan
-
-👁️ 166K • 👍 7K • 💬 660 • ⏱️ 15:25 • 1d ago
+👁️ 3K • 👍 151 • 💬 49 • ⏱️ 13:05 • 7h ago
 
 ---
 
@@ -315,7 +305,27 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 22K • 👍 2K • 💬 360 • ⏱️ 1:33:33 • 5h ago
+👁️ 45K • 👍 3K • 💬 581 • ⏱️ 1:33:33 • 6h ago
+
+---
+
+**[The AI Collapse Is MUCH Worse Than You Think](https://www.youtube.com/watch?v=jhDfq9sj-u8)**
+
+Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about the AI crisis, the 2026 economy, and how you ...
+
+📺 Graham Stephan
+
+👁️ 174K • 👍 7K • 💬 691 • ⏱️ 15:25 • 1d ago
+
+---
+
+**[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
+
+Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
+
+📺 MonkeyExplains
+
+👁️ 74K • 👍 6K • 💬 903 • ⏱️ 14:41 • 8h ago
 
 ---
 
@@ -325,27 +335,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 253K • 👍 8K • 💬 433 • ⏱️ 11:55 • 2d ago
-
----
-
-**[Anthropic CEO on &quot;red lines&quot; for AI military use: &quot;We wanted to stand up for American values&quot;](https://www.youtube.com/watch?v=QFDz6q-Qthk)**
-
-Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the AI company sought to draw "red lines" in the ...
-
-📺 CBS News
-
-👁️ 32K • 👍 751 • 💬 250 • ⏱️ 1:10 • 17h ago
-
----
-
-**[AI News: AI&#39;s Biggest Stand Just Happened](https://www.youtube.com/watch?v=_CIL2g1oMSQ)**
-
-Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookLM Tricks to 3X Productivity here: ...
-
-📺 Matt Wolfe
-
-👁️ 49K • 👍 2K • 💬 180 • ⏱️ 33:50 • 1d ago
+👁️ 259K • 👍 8K • 💬 449 • ⏱️ 11:55 • 2d ago
 
 ---
 
@@ -355,17 +345,17 @@ Anton Korinek talks about the effects of automation on wages and labor, how we m
 
 📺 Future of Life Institute
 
-👁️ 56K • 👍 1K • 💬 602 • ⏱️ 22:41 • 2d ago
+👁️ 57K • 👍 1K • 💬 609 • ⏱️ 22:41 • 2d ago
 
 ---
 
-**[Disturbing Things Said By AI (Part 2)](https://www.youtube.com/watch?v=JGC5GpogfCI)**
+**[Disturbing Things Said By AI (Part 1)](https://www.youtube.com/watch?v=_v8EY3uqmEM)**
 
 shorts #AI #disturbing.
 
 📺 Built By Gamers
 
-👁️ 19K • 👍 450 • 💬 11 • ⏱️ 0:27 • 16h ago
+👁️ 23K • 👍 560 • 💬 11 • ⏱️ 0:30 • 17h ago
 
 ---
 
@@ -375,7 +365,17 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 33K • 👍 1K • 💬 106 • ⏱️ 1:11:08 • 2d ago
+👁️ 34K • 👍 1K • 💬 111 • ⏱️ 1:11:08 • 2d ago
+
+---
+
+**[AI News: AI&#39;s Biggest Stand Just Happened](https://www.youtube.com/watch?v=_CIL2g1oMSQ)**
+
+Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookLM Tricks to 3X Productivity here: ...
+
+📺 Matt Wolfe
+
+👁️ 51K • 👍 2K • 💬 182 • ⏱️ 33:50 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 378,228 • ❤️ 677 • 1d ago
+⬇️ 378,228 • ❤️ 681 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 172,154 • ❤️ 436 • 3d ago
+⬇️ 172,154 • ❤️ 439 • 3d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 359 • 1d ago
+⬇️ 350,233 • ❤️ 366 • 1d ago
 
 ---
 
@@ -479,18 +479,6 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 ---
 
-**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
-
-*MiniMax*
-
-MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 305,031 • ❤️ 1,039 • 12d ago
-
----
-
 **[LFM2-24B-A2B](https://huggingface.co/LiquidAI/LFM2-24B-A2B)**
 
 *Liquid AI*
@@ -499,7 +487,19 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 209 • 10h ago
+⬇️ 8,049 • ❤️ 211 • 11h ago
+
+---
+
+**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
+
+*MiniMax*
+
+MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 305,031 • ❤️ 1,040 • 12d ago
 
 ---
 
@@ -513,7 +513,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
 
-▲ 16 • 💬 1 • ⭐ 6,074 • 5mo ago
+▲ 16 • 💬 1 • ⭐ 6,215 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
@@ -552,7 +552,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 148 • 💬 19 • ⭐ 54,406 • 11mo ago
+▲ 149 • 💬 19 • ⭐ 54,447 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -582,18 +582,6 @@ _paperbanana is an agentic framework that automates the creation of publication-
 ▲ 204 • 💬 13 • ⭐ 4,348 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
-**[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
-
-*Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
-
-A preference-aligned routing framework using a compact 1.5B model effectively matches queries to user-defined domains and action types, outperforming proprietary models in subjective evaluation criteria.
-
-▲ 17 • 💬 2 • ⭐ 5,781 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2506.16655) • [💻 code](https://github.com/katanemo/archgw) • [🔗 project](https://huggingface.co/katanemo/Arch-Router-1.5B)
 
 ---
 
@@ -633,17 +621,29 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
+**[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
+
+*Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
+
+A preference-aligned routing framework using a compact 1.5B model effectively matches queries to user-defined domains and action types, outperforming proprietary models in subjective evaluation criteria.
+
+▲ 17 • 💬 2 • ⭐ 5,790 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2506.16655) • [💻 code](https://github.com/katanemo/archgw) • [🔗 project](https://huggingface.co/katanemo/Arch-Router-1.5B)
+
+---
+
 ---
 
 ## GitHub Repositories: "ai"
 
 **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)**
 
-Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+Fast, small, and fully autonomous AI assistant Operating System — deploy anywhere, swap anything 🦀
 
 `Rust` `official` `official-website`
 
-⭐ 21.1k • 🔱 2.6k • 2h ago
+⭐ 21.1k • 🔱 2.6k • 1m ago
 
 ---
 
@@ -661,7 +661,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.9k • 🔱 712 • 18h ago
+⭐ 5.9k • 🔱 713 • 19h ago
 
 ---
 
@@ -671,7 +671,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.3k • 🔱 249 • 3d ago
+⭐ 4.4k • 🔱 250 • 3d ago
 
 ---
 
@@ -681,7 +681,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 361 • 16h ago
+⭐ 3.7k • 🔱 361 • 1h ago
 
 ---
 
@@ -691,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 477 • 20h ago
+⭐ 3.6k • 🔱 477 • 21h ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.0k • 🔱 235 • 10h ago
+⭐ 3.0k • 🔱 238 • 10h ago
 
 ---
 
@@ -711,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 324 • 9h ago
+⭐ 3.0k • 🔱 324 • 10h ago
 
 ---
 
@@ -721,17 +721,17 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 212 • 2h ago
+⭐ 3.0k • 🔱 212 • 3h ago
 
 ---
 
-**[Conway-Research/automaton](https://github.com/Conway-Research/automaton)**
+**[nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)**
 
-The first AI that can earn its own existence, replicate, and evolve — without needing a human
+Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
 
-`TypeScript`
+`Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 2.9k • 🔱 558 • 13h ago
+⭐ 2.9k • 🔱 357 • 1m ago
 
 ---
 

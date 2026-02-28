@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T22:48:06.813209+00:00'
+updated: '2026-02-28T23:23:36.180013+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - cryptocurrency
+- news
 - social
 - videos
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 22:48 UTC  
+**Last Updated:** February 28, 2026 at 23:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1335.38B
+**Market Cap:** $1340.41B
 Rank #1
 
-**Circulating Supply:** 19,996,090 BTC
+**Circulating Supply:** 19,996,150 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.9%
+-46.8%
 
 **All-Time Low:** $67.81
-+98603.7%
++98752.7%
 
 ---
 
@@ -97,7 +97,7 @@ Based on my technical analysis, which I do have a few years of experience in, BT
 
 Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
 
-21h ago
+22h ago
 
 ---
 
@@ -133,7 +133,7 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-15h ago
+16h ago
 
 ---
 
@@ -149,7 +149,7 @@ I know this might sound stupid question to some of you, but I'd like to ask anyw
 
 Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threads asking if starting a DCA today is worth it with the current 2026 volatility. I got tired of using calculators that are 50% ads and trackers, so I built a 'calm' version for myself. It uses real historical data and compares BTC vs traditional savings. For example: Investing $100/month since the 2024 halving would have you up X% today, even with the recent swings. It's part of a suite of tools I just put on Product Hunt for feedback. No signups, no ads, just the math. If you're bored, I'd love to know if the UI feels intuitive to you: https://bytecalculators.com/crypto-dca-calculator-dollar-cost-averaging-simulator
 
-5m ago
+40m ago
 
 ---
 
@@ -161,7 +161,7 @@ Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threa
 
 JPMorgan said the long-awaited Clarity Act would bring regulatory clarity, boost institutional participation and accelerate tokenization across U.S. crypto markets.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 5h ago
 
 BIP-110, formerly known as BIP-444, is a controversial proposal that would restrict certain ways of storing data on the Bitcoin blockchain.
 
-theblock.co • 1h ago
+theblock.co • 2h ago
 
 ---
 
@@ -199,7 +199,7 @@ theblock.co • 1h ago
 
 Bitcoin's future hinges less on technological factors and more on how AI affects growth, employment, real interest rates, and central bank liquidity, NYDIG argues.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -239,7 +239,7 @@ CoinDesk • 18h ago
 
 **[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
 
-⬆️ 9 • 💬 3 • 2d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+⬆️ 9 • 💬 3 • 3d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
 
 ---
 
@@ -281,7 +281,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 1 • 💬 1 • 7m ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 1 • 💬 1 • 42m ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -319,7 +319,17 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 625 • 💬 162 • ⏱️ 26:57 • 8h ago
+👁️ 13K • 👍 730 • 💬 198 • ⏱️ 26:57 • 9h ago
+
+---
+
+**[Raoul Pal Shocks Everyone With What He Just Said About The Bitcoin Crash (2026 Warning)](https://www.youtube.com/watch?v=wL8mjQz0R-M)**
+
+Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating way possible. The Real Vision CEO ...
+
+📺 Money Talks
+
+👁️ 1K • 👍 51 • 💬 1 • ⏱️ 14:26 • 4h ago
 
 ---
 
@@ -329,7 +339,17 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 534K • 👍 19K • 💬 2K • ⏱️ 18:56 • 1d ago
+👁️ 554K • 👍 19K • 💬 2K • ⏱️ 18:56 • 1d ago
+
+---
+
+**[IRAN STRIKES DUMP BITCOIN: Why the &quot;Smart Money&quot; is Buying Now 📈](https://www.youtube.com/watch?v=vQeBcL94LSs)**
+
+Geopolitical fear is gripping the markets. News of military strikes in Iran sent crypto plunging overnight—but while retail investors ...
+
+📺 Gareth Soloway
+
+👁️ 25K • 👍 2K • 💬 376 • ⏱️ 12:42 • 3h ago
 
 ---
 
@@ -339,17 +359,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 725 • ⏱️ 22:53 • 1d ago
-
----
-
-**[Bitcoin Action Signals Major Move (War&#39;s Effect On Price)](https://www.youtube.com/watch?v=KPGpYasnZ3o)**
-
-Nick Valdez looks at what will trigger volatility for Bitcoin this weekend. Between DXY breaking down and warships moving ...
-
-📺 Discover Crypto
-
-👁️ 3K • 👍 169 • 💬 34 • ⏱️ 5:32 • 8h ago
+👁️ 21K • 👍 741 • ⏱️ 22:53 • 1d ago
 
 ---
 
@@ -359,17 +369,27 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 51K • 👍 3K • 💬 155 • ⏱️ 13:24 • 1d ago
+👁️ 51K • 👍 3K • 💬 156 • ⏱️ 13:24 • 1d ago
 
 ---
 
-**[Is Bitcoin Going to $40K?](https://www.youtube.com/watch?v=0YEoRC3-SPo)**
+**[This is crazy! Monthly Candle Close on Bitcoin!](https://www.youtube.com/watch?v=WnQthwzlONI)**
 
-Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Follow My Live Trades   https://kingcobratrade.com/vip/ Join the free discord https://discord.gg/pYM865d3MA BloFin - NO ...
 
-📺 Lark Davis
+📺 Crypto Cobra
 
-👁️ 12K • 👍 561 • 💬 99 • ⏱️ 14:04 • 22h ago
+👁️ 841 • 👍 69 • 💬 14 • ⏱️ 10:25 • 4h ago
+
+---
+
+**[CRYPTO EXPLODES AFTER INSANE NEWS, PREPARE NOW!!](https://www.youtube.com/watch?v=jsUIqqkdD24)**
+
+Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhill.pro/BTCC228 Save Up To 37% On Crypto ...
+
+📺 Tyler Hill Crypto
+
+👁️ 7K • 👍 390 • 💬 170 • ⏱️ 13:28 • 10h ago
 
 ---
 
@@ -383,33 +403,13 @@ Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium 
 
 ---
 
-**[More Trouble Ahead For Bitcoin and Markets...](https://www.youtube.com/watch?v=2TJS1Y1VI0g)**
+**[Is Bitcoin Going to $40K?](https://www.youtube.com/watch?v=0YEoRC3-SPo)**
 
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 CryptosRUs
+📺 Lark Davis
 
-👁️ 22K • 👍 1K • 💬 98 • ⏱️ 58:37 • 1d ago
-
----
-
-**[BITCOIN: Don’t Buy Until You See THIS! (seriously) - BTC Price Prediction Today](https://www.youtube.com/watch?v=WuJmZzH0M-I)**
-
-Want a free $30000 bonus + $20 just for signing up? Go here: ...
-
-📺 BitcoinHyper
-
-👁️ 7K • 👍 462 • 💬 34 • ⏱️ 13:10 • 11h ago
-
----
-
-**[28 Minutes of People Losing ALL OF THEIR MONEY in Crypto](https://www.youtube.com/watch?v=uycNnSk5m3E)**
-
-Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea what to do about it. BTC fell from an all-time high of ...
-
-📺 Edwards Economics
-
-👁️ 31K • 👍 1K • 💬 400 • ⏱️ 28:23 • 1d ago
+👁️ 12K • 👍 572 • 💬 101 • ⏱️ 14:04 • 23h ago
 
 ---
 

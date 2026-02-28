@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T22:48:06.822930+00:00'
+updated: '2026-02-28T23:23:36.189584+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 22:48 UTC  
+**Last Updated:** February 28, 2026 at 23:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-11h ago
+12h ago
 
 ---
 
@@ -78,7 +78,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-16h ago
+17h ago
 
 ---
 
@@ -100,7 +100,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Current Vision-Language-Action (VLA) models have a fundamental bottleneck: self-attention memory scales quadratically at O(N²). For a €150 robot arm, relying on a cloud TPU cluster defeats the whole purpose of edge robotics. For the past few month, I've been working on FluidBot: an architectural experiment that replaces attention entirely with Reaction-Diffusion PDEs (which scale linearly at O(N)). The earlyproof-of-concept results surprised me: • An 84x reduction in VRAM at 256x256 resolution (~203MB vs an estimated ~14GB for a standard ViT). • Video scaling is fundamentally different: processing 16x more frames only requires 2.4x more memory. I’ve detailed the core math, the empirical benchmarks, and the honest limitations in my article below. If you work on efficient vision architectures, embedded AI, or robotics, I’d genuinely value your feedback before moving to hardware validation on the SO-101 arm.
 
-🔗 [linkedin.com](https://www.linkedin.com/pulse/exploring-new-direction-embedded-robotics-ai-early-results-polly-4x3nf) • 58m ago
+🔗 [linkedin.com](https://www.linkedin.com/pulse/exploring-new-direction-embedded-robotics-ai-early-results-polly-4x3nf) • 1h ago
 
 ---
 
@@ -144,7 +144,7 @@ Los Angeles Times • 3d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -170,7 +170,7 @@ Bloomberg.com • 1d ago
 
 The former steel mill site is now a place where future scientific professionals can grow and be inspired. CMU envisions Pittsburgh as a potential hub for artificial intelligence and robotics.
 
-WTAE • 22h ago
+WTAE • 23h ago
 
 ---
 
@@ -192,17 +192,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 159K • 👍 2K • 💬 333 • ⏱️ 14:16 • 5d ago
-
----
-
-**[The Hard Truth About Mass Robot Deployment](https://www.youtube.com/watch?v=VTbd0_n9qQA)**
-
-Tesla just shut down Model S and X lines to pivot toward Optimus production — but is this a real robotics breakthrough or a ...
-
-📺 Dumb Money Live
-
-👁️ 9K • 👍 283 • 💬 106 • ⏱️ 13:15 • 20h ago
+👁️ 160K • 👍 2K • 💬 332 • ⏱️ 14:16 • 5d ago
 
 ---
 
@@ -212,17 +202,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 64K • 👍 968 • 💬 278 • ⏱️ 12:16 • 1d ago
-
----
-
-**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
-
-China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
-
-📺 NewsX Live
-
-👁️ 54K • 👍 291 • 💬 112 • ⏱️ 2:18 • 2d ago
+👁️ 67K • 👍 990 • 💬 286 • ⏱️ 12:16 • 1d ago
 
 ---
 
@@ -236,13 +216,13 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
 
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
 
-📺 NBC Bay Area
+📺 NewsX Live
 
-👁️ 118K • 👍 2K • 💬 1K • ⏱️ 7:18 • 4d ago
+👁️ 55K • 👍 291 • 💬 112 • ⏱️ 2:18 • 2d ago
 
 ---
 
@@ -252,7 +232,17 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 21K • 👍 593 • 💬 13 • ⏱️ 0:35 • 22h ago
+👁️ 24K • 👍 633 • 💬 14 • ⏱️ 0:35 • 23h ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 119K • 👍 2K • 💬 1K • ⏱️ 7:18 • 4d ago
 
 ---
 
@@ -262,7 +252,7 @@ As China enters the first year of its 15th Five-Year Plan, what once seemed futu
 
 📺 CGTN
 
-👁️ 19K • 👍 147 • 💬 14 • ⏱️ 5:27 • 1d ago
+👁️ 21K • 👍 148 • 💬 14 • ⏱️ 5:27 • 1d ago
 
 ---
 
@@ -272,17 +262,27 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 217K • 👍 2K • 💬 699 • ⏱️ 0:55 • 2d ago
+👁️ 234K • 👍 2K • 💬 713 • ⏱️ 0:55 • 2d ago
 
 ---
 
-**[Audi Deploys Humanoid Robot Hands With Mimic Robotics Inside Its Factory](https://www.youtube.com/watch?v=sMh6vT-wfkY)**
+**[AI roundup: Thrilling Agent releases, Nano Banana 2 &amp; Robotics!](https://www.youtube.com/watch?v=4uopGLxi_fE)**
 
-Audi has officially deployed humanoid robot hands in partnership with Mimic Robotics, bringing artificial intelligence driven ...
+AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gauth: ...
+
+📺 MattVidPro
+
+👁️ 4K • 👍 202 • 💬 17 • ⏱️ 18:44 • 1d ago
+
+---
+
+**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
+
+German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
 
 📺 DPCcars
 
-👁️ 104 • 👍 14 • 💬 2 • ⏱️ 2:50 • 3h ago
+👁️ 277K • 👍 2K • 💬 777 • ⏱️ 1:27 • 1d ago
 
 ---
 
