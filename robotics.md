@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T15:23:40.025649+00:00'
+updated: '2026-02-28T15:45:22.897132+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 15:23 UTC  
+**Last Updated:** February 28, 2026 at 15:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,13 +44,13 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-2h ago
+3h ago
 
 ---
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -88,7 +88,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
 
-3h ago
+4h ago
 
 ---
 
@@ -96,7 +96,7 @@ Hey Reddit! Super excited to share something I've been working on: HoloMotion, a
 
 I’ve always been one of the first to try out technology but I think I might have gone too far this time. This year I paid a deposit for a humanoid robot that can do simple household tasks like folding clothes and loading the dishwasher. It arrived three weeks ago. At first it was amazing to see it walk into my kitchen on two legs. That excitement didn’t last long. The robot tried to pick up a ceramic coffee mug. That’s when the problems started. The ads make it look easy. In reality, I have to adjust to the robot all the time. I spent all of Saturday figuring out why the robot’s left hand kept moving on its own. The sensors were faulty so I had to look for cheaper parts on amazon and alibaba. I found out that the special servos they use are similar to ones that cost much less. I would have to update the software myself. The worst part is what my friends think. They come over expecting to see a robot like in the movies. Instead they find me on the floor with a laptop connected to the robot’s leg trying to fix it. It’s like a very expensive, very tall child that needs a lot of attention. Has anyone else bought one of these robots? Am I the only one having trouble with mine?
 
-15m ago
+36m ago
 
 ---
 
@@ -104,7 +104,7 @@ I’ve always been one of the first to try out technology but I think I might ha
 
 Serious Question. Been considering deigning a back drivable actuator that uses STS protocol and a brushed DC motor (similar to feetech servos) instead of a brushless motor. I wanted to create a cheaper option for back drivable joints in hobbyist robotics project. But I also want to get a more experienced opinion first. Would it even be worth it? Other than motor efficiency, what would be the drawbacks or reasons why I should not pursue?
 
-36m ago
+58m ago
 
 ---
 
@@ -114,7 +114,7 @@ Serious Question. Been considering deigning a back drivable actuator that uses S
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 22h ago
+Tech Xplore • 1d ago
 
 ---
 
@@ -150,7 +150,7 @@ The Verge • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqcWY5c5mQvuvSOF-1ZMzqQHVtwGEb11y7q3lmpEXxfila9gdcnoK2i3&gaa_ts=69a2fddd&gaa_sig=HgqRuZ7GuVEKnjnOJ1WGJ-KviwI3FayVTNvjs4jJVm8tq3vTyLx9lfMM9KLwNyUFokxQmh5slhV66lfFp0us_Q%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdRImbbkmncAFH0rDpsaTr1pKqra_AGRf8FEyZZccT2Lc4Za7HZg6LW&gaa_ts=69a310f8&gaa_sig=CzqO88HSPfuN_zO8yto-eJZQBbiP9jPLKMdc3mh9kcFufjRPGtb3KMGB0jzc9ItEFInA-2v5A38sL7dunvJ7Ww%3D%3D)**
 
 WSJ • 17h ago
 
@@ -166,7 +166,7 @@ Automotive News • 1d ago
 
 **[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -178,9 +178,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
+**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
 
-MSN • 16h ago
+Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
+
+Fortune • 2d ago
 
 ---
 

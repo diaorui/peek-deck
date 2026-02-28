@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T15:23:40.016391+00:00'
+updated: '2026-02-28T15:45:22.887962+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 15:23 UTC  
+**Last Updated:** February 28, 2026 at 15:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
 
-3h ago
+4h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I was looking at the genesis block on mempool.space, but why does the address connected to the only transaction in the block only have 11 other transactions. Many of addresses connected to satoshi have thousands more of transactions. I was wondering if you could only send some if you mined a block, but that's probably bullshit. So can I give myself a nice place on the blockchain or is there more I don't know of?
 
-2h ago
+3h ago
 
 ---
 
@@ -157,29 +157,31 @@ Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus elec
 
 ## Google News: "bitcoin"
 
-**[Bitcoin slides below $64,000 after US and Israel strikes on Iran](https://www.bostonglobe.com/2026/02/28/business/bitcoin-slides-below-64000-after-us-and-israel-strikes-on-iran/)**
+**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bitcoin and other digital assets fell sharply after the US and Israel began striking targets across Iran on Saturday.
-
-The Boston Globe • 4h ago
+Bloomberg.com • 2h ago
 
 ---
 
-**[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqckVyFXIGF5SLqe4s5kx6f1hXkmpa1UVBE5miE5b91EriTndEGT0T8L&gaa_ts=69a2fdda&gaa_sig=367grfQha2RtHdm1uqT0cLEOeAl_CzCv9Crl1WAo3neKFO2iJNppgoF85I5GOCSQHVQbqd-Fr98cacBpbH6URA%3D%3D)**
+**[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqcgttDqqkYECo-NPcszlOuYx3aO-tBuYGDBohNhXw6SLofiP0YpRbr6&gaa_ts=69a310f5&gaa_sig=n6lPrG8RF9dcWC4hxfJtdDo8KHHMpF8ZuuBiqRZKyInOgSO-G2Nj1ydmrUQJSoxwEjNPcMLekqzE0NsZCwPJgg%3D%3D)**
 
 MarketWatch • 6h ago
 
 ---
 
-**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
+**[Bitcoin slides below $64,000 after US and Israel strikes on Iran](https://www.bostonglobe.com/2026/02/28/business/bitcoin-slides-below-64000-after-us-and-israel-strikes-on-iran/)**
 
-Bloomberg • 4h ago
+Bitcoin and other digital assets fell sharply after the US and Israel began striking targets across Iran on Saturday.
+
+The Boston Globe • 5h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdwqWTFf6JxCTvKuk5i6r-_CdLWI3dVRLy3PWP-QUbgL7qQIWYvd0My&gaa_ts=69a2fdda&gaa_sig=E6O-TZDGtEyn4r4oKWB_3XQ8paLw7Md7edbCUTEdAXyW62P_6FTBevJaWtkU6ynmex2GutCah1iqi72A4VMOlg%3D%3D)**
+**[Bitcoin's hard fork proposal to get back $5 billion in stolen Mt. Gox funds sees no takers](https://www.coindesk.com/tech/2026/02/28/former-mt-gox-ceo-proposed-a-rewrite-of-bitcoin-s-code-to-recover-usd5-billion-in-stolen-funds-gets-quickly-shutdown)**
 
-Barron's • 1d ago
+Mark Karpelès submitted a pull request to Bitcoin Core that would redirect coins that have remained untouched since 2011 to a recovery address controlled by the MtGox trustee, reigniting the oldest debate in Bitcoin.
+
+CoinDesk • 52m ago
 
 ---
 
@@ -187,21 +189,15 @@ Barron's • 1d ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-king5.com • 19h ago
+king5.com • 20h ago
 
 ---
 
-**[Bitcoin Needs a Huge Rally to Hit $150,000 by December -- Are Polymarket's 12% Odds Too Low, Too High, or Just About Right?](https://www.fool.com/investing/2026/02/28/bitcoin-needs-a-huge-rally-to-hit-150000-by-decemb/)**
+**[ETH, SOL, XRP price news: Bitcoin slides Friday after Nvidia's earning pullback](https://www.coindesk.com/markets/2026/02/27/bitcoin-slides-friday-as-risk-off-mood-persists-but-majors-hold-weekly-gains)**
 
-Bitcoin may have a better chance of hitting $150,000 this year than you think.
+Analysts say the latest drop appears to be a leverage flush and positioning cleanup rather than a structural trend reversal
 
-The Motley Fool • 5h ago
-
----
-
-**[Bitcoin Miner MARA, Starwood Partner to Develop AI Data Centers](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-mara-starwood-partner-to-develop-ai-data-centers)**
-
-Bloomberg • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -213,15 +209,23 @@ The Block • 1d ago
 
 ---
 
+**[Bitcoin Miner MARA, Starwood Partner to Develop AI Data Centers](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-mara-starwood-partner-to-develop-ai-data-centers)**
+
+Bloomberg.com • 1d ago
+
+---
+
 **[MARA Surges On Data Center Partnership, AI Plans. Crypto Plays Report.](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
 
 Investor's Business Daily • 18h ago
 
 ---
 
-**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
+**[Sora Ventures-Backed Bitplanet Reaches 300 Bitcoin, Ranks Among Asia’s Top 20 Corporate Holders](https://bitcoinmagazine.com/news/sora-backed-bitplanet-reaches-300)**
 
-Reuters • 2d ago
+Bitplanet now owns 300 bitcoin through its structured purchase program, positioning the South Korea-listed company among the top 20 corporate Bitcoin holders in Asia.
+
+Bitcoin Magazine • 19h ago
 
 ---
 
@@ -247,7 +251,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 3 • 💬 0 • 5h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 3 • 💬 0 • 6h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -321,7 +325,7 @@ Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea wha
 
 📺 Edwards Economics
 
-👁️ 25K • 👍 1K • 💬 325 • ⏱️ 28:23 • 16h ago
+👁️ 25K • 👍 1K • 💬 325 • ⏱️ 28:23 • 17h ago
 
 ---
 
@@ -361,7 +365,7 @@ Wall Street Just Took Over Bitcoin... Is This Game Over? In today's timely deep 
 
 📺 Tom Bilyeu
 
-👁️ 57K • 👍 3K • 💬 681 • ⏱️ 19:33 • 13h ago
+👁️ 57K • 👍 3K • 💬 681 • ⏱️ 19:33 • 14h ago
 
 ---
 
@@ -371,7 +375,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 364 • 💬 53 • ⏱️ 12:38 • 4h ago
+👁️ 6K • 👍 364 • 💬 53 • ⏱️ 12:38 • 5h ago
 
 ---
 

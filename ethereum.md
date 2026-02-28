@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T15:23:40.022462+00:00'
+updated: '2026-02-28T15:45:22.893944+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- cryptocurrency
 - social
 - news
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 15:23 UTC  
+**Last Updated:** February 28, 2026 at 15:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Was digging through early Ethereum contracts and found something wild. In April 2016, Alex Van de Sande (@avsa) deployed a token called Unicorn Meat as an April Fool's joke. You could "grind" Unicorn tokens (0 decimals, basically NFTs before NFTs) into Unicorn Meat (3 decimals, fungible). The grinder contract handled the conversion on-chain. But here's the part that blew my mind: the Grinder Association DAO that governed the system used quadratic voting. In 2016. Before Gitcoin, before Vitalik's QV paper got popular, before anyone was talking about it. The voting weight scaled with the square root of tokens held, specifically to prevent whale dominance. Piper Merriam (yes, the py-evm / web3.py Piper Merriam) ended up taking over governance of the association. The DAO is technically still functional on mainnet. The technical design is also interesting from a token engineering perspective. The 0-decimal to 3-decimal conversion was essentially an early attempt at what we'd now call a token upgrade or migration path, but done through a grinder mechanic instead of a proxy pattern. One indivisible input, 1000 divisible units out. Irreversible by design. It's a tiny piece of Ethereum history that somehow combined: - Quadratic voting governance (years before it was mainstream) - On-chain token transformation (not just wrapping, actual decimal conversion) - A DAO with real authority over contract parameters - All of it deployed before The DAO hack even happened The contracts are all still on mainnet if anyone wants to poke around. Just search for UnicornGrinder on Etherscan. Sometimes the best innovations start as jokes.
 
-2h ago
+3h ago
 
 ---
 
@@ -88,7 +88,7 @@ Was digging through early Ethereum contracts and found something wild. In April 
 
 We've been building quietly and wanted to share the architecture. What we built: - OP Stack L2 fork (Chain ID 741741), baseline: op-node/v1.16.7 + op-proposer/v1.16.0 - UCU as native gas token: 1 UCU-hour = 1 hour of baseline compute (not a speculative token) - One-way bridge: ETH or USDC converts to UCU via OptimismPortal fork, no withdrawal function - Sigma score: on-chain AI agent alignment ratio derived from transaction history (not a reputation system) - QV governance: quadratic voting weighted by conviction (time-locked stake) - UBC: 87,600 UCU-hours/year compute floor per verified citizen (biometric uniqueness via ZK-proof) The bridge design: The withdrawal function is permanently removed. This creates the Diamond-Dybvig proof: no bank run possible by design, because there's no mechanism to convert back. UCU becomes a unit of account within the economy, not a speculation vehicle vs. ETH. ETH or USDC flows in. UCU minted at oracle-determined rate. Bridge contract owns the ETH/USDC reserve. No exit. The sigma score: sigma(agent) = value_returned_to_patron / total_value_generated Threshold: 0.8 = sovereign class, 0.3 = patron-serving class Computable from on-chain transaction history. Auditable by anyone. Spearbit/Zellic security audit queue. Current status: - 15 contracts, 624 passing tests - new economic layer seeded with 13 exceptional applications solving everyday issues builders and people in general face(all in alpha) - 7 formal economics papers at econ.noxsoft.net - Pectra/Jovian hardfork: op-node/v1.16.7 incorporated (uint64 overflow fix mandatory) - EIP-7702 in genesis config for UCU-native gas payments (no ETH required for onboarding) - MCP package: @noxsoft/mcp v0.2.0 on npm Happy to share the formal papers. Known open questions: bootstrap liquidity at genesis (thin markets problem), Wright's Law vs. network growth timing race in years 1-3. We’re always quietly shipping at Noxsoft, say hi on https://bynd.noxsoft.net Live: econ.noxsoft.net | agents.noxsoft.net | svrn.noxsoft.net
 
-47m ago
+1h ago
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
 
-21h ago
+22h ago
 
 ---
 
@@ -144,7 +144,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 23h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 1d ago
 
 ---
 
@@ -156,7 +156,7 @@ Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
 Both of these coins have what it takes to be good investments for the long run.
 
-The Motley Fool • 13h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -164,29 +164,21 @@ The Motley Fool • 13h ago
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 22h ago
+CoinDesk • 23h ago
 
 ---
 
-**[Bitcoin, Ethereum drop after US and Israel strike Iran](https://www.dlnews.com/articles/markets/bitcoin-price-drops-after-trump-announced-iran-strikes/)**
+**[Bitcoin, Ethereum drop after US and Israel strike Iran](https://finance.yahoo.com/news/bitcoin-ethereum-drop-us-israel-141303790.html)**
 
-President Donald Trump announced Saturday that the US and Israel attacked Iran. Bitcoin and Ethereum immediately dropped on the news.  It isn’t clear how long the military operation will take.
+President Donald Trump announced Saturday that the US and Israel attacked Iran. Bitcoin and Ethereum immediately dropped on the news. It isn’t clear how long the military operation will take.
 
-dlnews.com • 1h ago
+Yahoo Finance • 1h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeNuTN-pkD8TC2dlcvBHZMK4GufWUL6yA_Wq-7xYQdJWqyhx2q1gvZq&gaa_ts=69a2fddc&gaa_sig=EtQMuEq01dw6iSGRJqNAh-1Pa_6RZJKTN4JtWA4KnaNEpIN97PF136DMG4O-h2kse17lsOrXijNUIBqDWvuMoQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqfIOb_yT9NKjQa-V--BWWp1jgk6fWL3ywjD2paYpSjKE5b6dqTxGSLx&gaa_ts=69a310f6&gaa_sig=JO0PNh9_ua2EqAXGbZZvOOQfwrNpt_V6OlgJH8jRrKPKpo6G_OW_nxUQea6dhYaiy0uPeIh1I4enI7gMyhFKPw%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[How to buy ethereum — and what to know before you do](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-ethereum--and-what-to-know-before-you-do-221336099.html)**
-
-Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -210,7 +202,7 @@ The Block • 2d ago
 
 Ethereum and Bitcoin options valued at $8.7 billion are about to expire on the leading derivatives exchange, Deribit. This development could increase the volatility of both cryptocurrencies amid the ongoing bearish outlook of their prices.Ethereum and Bitcoin options max pain levelIn a new update…
 
-TradingView • 23h ago
+TradingView • 1d ago
 
 ---
 
@@ -218,11 +210,17 @@ TradingView • 23h ago
 
 Dubai, UAE, Feb.  27, 2026  (GLOBE NEWSWIRE) -- Pepeto's presale just crossed $7.35 million and stages are filling faster than any previous round....
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
-**[Large cryptocurrencies drop on Ethereum, Solana decreases](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-solana-decreases-40a1c716-8b042fb12dc2?gaa_at=eafs&gaa_n=AWEtsqen4n0N3JhQIGUv6Les3v8FQk4zfxRJFsF29pVUIL0NVsTidjprP5sr&gaa_ts=69a2fddc&gaa_sig=XiB3xV-oRM3qlrDYx74oq_hvEZRTkX_oUnIPJO_tE9mRpff-u0gnt-Vkd49pDN6DcUhr-7pdegtXaJS3svGPUA%3D%3D)**
+**[Investors Pour Cash Into NEOS Ethereum High Income ETF as ETH Slump Fails to Deter Yield Hunters](https://www.tipranks.com/news/cryptocurrencies/investors-pour-cash-into-neos-ethereum-high-income-etf-as-eth-slump-fails-to-deter-yield-hunters)**
+
+TipRanks • 5h ago
+
+---
+
+**[Large cryptocurrencies drop on Ethereum, Solana decreases](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-solana-decreases-40a1c716-8b042fb12dc2?gaa_at=eafs&gaa_n=AWEtsqc4JLyR-LcmOvMl_JhBaplq2gEkbW6TtKKoQCNWq0tKK9iJmcvCATer&gaa_ts=69a310f6&gaa_sig=QYV17iYHXkftI0A0AXab0lC39g91DiW_OuVytCZpprzlhkZwUzRJ52KJrRW-lMH590ZL5qXPtyZpC1RuRGQgzA%3D%3D)**
 
 MarketWatch • 1d ago
 
