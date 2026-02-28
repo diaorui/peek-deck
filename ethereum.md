@@ -3,13 +3,13 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T13:37:08.653455+00:00'
+updated: '2026-02-28T14:23:46.174172+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - cryptocurrency
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 13:37 UTC  
+**Last Updated:** February 28, 2026 at 14:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,852.19
+### $1,871.41
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -5.0%  
-**7d:** -4.7%  
-**30d:** -31.1%  
-**90d:** -33.5%  
-**1y:** -15.8%  
+**24h:** -2.7%  
+**7d:** -3.2%  
+**30d:** -30.0%  
+**90d:** -32.4%  
+**1y:** -14.3%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $225.93B
+**Market Cap:** $229.19B
 Rank #2
 
 **Circulating Supply:** 120,692,248 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.2%
+-61.6%
 
 **All-Time Low:** $0.43
-+431766.2%
++438133.7%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-7h ago
+8h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Was digging through early Ethereum contracts and found something wild. In April 2016, Alex Van de Sande (@avsa) deployed a token called Unicorn Meat as an April Fool's joke. You could "grind" Unicorn tokens (0 decimals, basically NFTs before NFTs) into Unicorn Meat (3 decimals, fungible). The grinder contract handled the conversion on-chain. But here's the part that blew my mind: the Grinder Association DAO that governed the system used quadratic voting. In 2016. Before Gitcoin, before Vitalik's QV paper got popular, before anyone was talking about it. The voting weight scaled with the square root of tokens held, specifically to prevent whale dominance. Piper Merriam (yes, the py-evm / web3.py Piper Merriam) ended up taking over governance of the association. The DAO is technically still functional on mainnet. The technical design is also interesting from a token engineering perspective. The 0-decimal to 3-decimal conversion was essentially an early attempt at what we'd now call a token upgrade or migration path, but done through a grinder mechanic instead of a proxy pattern. One indivisible input, 1000 divisible units out. Irreversible by design. It's a tiny piece of Ethereum history that somehow combined: - Quadratic voting governance (years before it was mainstream) - On-chain token transformation (not just wrapping, actual decimal conversion) - A DAO with real authority over contract parameters - All of it deployed before The DAO hack even happened The contracts are all still on mainnet if anyone wants to poke around. Just search for UnicornGrinder on Etherscan. Sometimes the best innovations start as jokes.
 
-51m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 
 At the current moment the correct path to post quantum Ethereum transactions looks more like Shibuya Crossing, there are too many proposals all with different ways of doing the same fundamental thing. Some of the proposals that can achieve PQ migration are:   Pure ERC-4337 account abstraction and doing the PQ verification on the EVM EIP-6404: SSZ transactions that use the EIP-7932: Secondary Signature Algorithms rails. EIP-8141: Frame Transaction that make the PQ migration up to the account to d...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 20h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 21h ago
 
 ---
 
@@ -108,14 +108,6 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Daily Doots Podcast #141 Jake - qrcoin.fun](https://www.reddit.com/r/ethereum/comments/1rgiprd/daily_doots_podcast_141_jake_qrcoinfun/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtu.be](https://youtu.be/pmbdcdOZMdU) • 16h ago
-
----
-
 **[Quantum Safe roadmap for ETH until 2029](https://www.reddit.com/r/ethereum/comments/1rgdaij/quantum_safe_roadmap_for_eth_until_2029/)**
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
@@ -124,11 +116,19 @@ https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-s
 
 ---
 
+**[Daily Doots Podcast #141 Jake - qrcoin.fun](https://www.reddit.com/r/ethereum/comments/1rgiprd/daily_doots_podcast_141_jake_qrcoinfun/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtu.be](https://youtu.be/pmbdcdOZMdU) • 17h ago
+
+---
+
 **[Golem raised $8.6M in 29 minutes in 2016. SingularDTV raised $7.5M in 17 minutes the month before. These ICOs shaped everything that came after.](https://www.reddit.com/r/ethereum/comments/1rg7hv2/golem_raised_86m_in_29_minutes_in_2016/)**
 
 Most people remember the 2017 ICO boom, but the culture started forming in late 2016 with projects like Golem and SingularDTV. Golem (GNT) — November 11, 2016 Golem launched what was essentially an 820,000 ETH hard cap crowdsale. It filled in 29 minutes. $8.6 million for a decentralized computing network. The contract was deliberately simple by design. After the DAO hack a few months earlier, the team and their auditors at Zeppelin went out of their way to avoid complexity. No recursive calls, no token logic mixed with funding logic. Just "send ETH, receive tokens, done." They also built in a migration mechanism from day one (GNT to GLM), which they actually used four years later in 2020. That kind of foresight was rare. SingularDTV — September/October 2016 SingularDTV took a different approach with a tri-contract architecture: one for the crowdsale, one for the token, one for the treasury fund. Stefan George (who later cofounded Gnosis) was involved. They raised $7.5M in 17 minutes. The treasury contract had a 2-year workshop token lockup built in. The speed of these raises changed expectations for every project that followed. Before this, "fast fundraising" for crypto meant days or weeks. After Golem and SingularDTV, everyone expected minutes. Why this matters now These contracts are still on-chain. You can read them, verify the logic, trace every transaction. Unlike web2 startup history where products get shut down and documentation disappears, Ethereum's history is permanently readable. I've been documenting these early contracts at ethereumhistory.com — trying to build a proper archive before the people who remember this era move on. We've got about 40 contracts documented so far from 2015-2017. If you were around during this period or remember other significant early contracts, would love to hear about them.
 
-23h ago
+1d ago
 
 ---
 
@@ -152,6 +152,14 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 ## Google News: "ethereum"
 
+**[Better Cryptocurrency to Buy With $5,000 and Hold Forever: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/27/better-cryptocurrency-to-buy-with-5000-and-hold-fo/)**
+
+Both of these coins have what it takes to be good investments for the long run.
+
+The Motley Fool • 12h ago
+
+---
+
 **[Ethereum news: Vitalik Buterin reveals his bold new plan to fix the network’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
@@ -160,33 +168,17 @@ CoinDesk • 21h ago
 
 ---
 
-**[BitMine Stock Jumps As Ethereum Rebounds](https://www.benzinga.com/crypto/cryptocurrency/26/02/50845590/bitmine-stock-jumps-as-ethereum-rebounds)**
+**[Bitcoin, Ethereum drop after US and Israel strike Iran](https://www.dlnews.com/articles/markets/bitcoin-price-drops-after-trump-announced-iran-strikes/)**
 
-Bitmine Immersion Technologies Inc (NYSEAMERICAN: BMNR) jumped in premarket trading Wednesday, as Ethereum (CRYPTO: ETH) staged a recovery.
+President Donald Trump announced Saturday that the US and Israel attacked Iran. Bitcoin and Ethereum immediately dropped on the news.  It isn’t clear how long the military operation will take.
 
-Benzinga • 3d ago
-
----
-
-**[Better Cryptocurrency to Buy With $5,000 and Hold Forever: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-5000-and-hold-forever-xrp-vs-ethereum)**
-
-Key PointsThe longer your investing time horizon, the more uncertainty you'll have to take into account.
-
-Nasdaq • 11h ago
+dlnews.com • 7m ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeS-kWUGTnbMpkU1DIUJkK2ZneA8CzeUco6kGgqCGGgIXoh3bCmqjbl&gaa_ts=69a2e79f&gaa_sig=7ejpKyMPPrKAsgkOajQJDfBArI--8mZHHgCPrQB1aGTFnhjC_BrLm1PMxJ2JGth-9hyhFBLFbumsc_TJpiI3TQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeNuTN-pkD8TC2dlcvBHZMK4GufWUL6yA_Wq-7xYQdJWqyhx2q1gvZq&gaa_ts=69a2fddc&gaa_sig=EtQMuEq01dw6iSGRJqNAh-1Pa_6RZJKTN4JtWA4KnaNEpIN97PF136DMG4O-h2kse17lsOrXijNUIBqDWvuMoQ%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[XRP and Ethereum Are Both Pivoting to Privacy. Is That a Reason to Buy Either?](https://finance.yahoo.com/news/xrp-ethereum-both-pivoting-privacy-053500534.html)**
-
-Privacy is a more meaningful upgrade for one of these coins than the other.
-
-Yahoo Finance • 8h ago
 
 ---
 
@@ -202,7 +194,15 @@ Yahoo Finance • 1d ago
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
-Decrypt • 20h ago
+Decrypt • 21h ago
+
+---
+
+**[Ethereum Foundation researchers publish 'strawmap' outlining seven forks through 2029](https://www.theblock.co/post/391406/ethereum-foundation-researchers-publish-strawmap-outlining-seven-forks-through-2029)**
+
+The Ethereum Foundation’s "strawmap" outlines seven forks by 2029, targeting faster slots, reduced finality, and post-quantum upgrades.
+
+The Block • 2d ago
 
 ---
 
@@ -218,13 +218,13 @@ TradingView • 22h ago
 
 Dubai, UAE, Feb.  27, 2026  (GLOBE NEWSWIRE) -- Pepeto's presale just crossed $7.35 million and stages are filling faster than any previous round....
 
-markets.businessinsider.com • 19h ago
+markets.businessinsider.com • 20h ago
 
 ---
 
-**[Large cryptocurrencies drop on Ethereum, Solana decreases](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-solana-decreases-40a1c716-8b042fb12dc2?gaa_at=eafs&gaa_n=AWEtsqfBJxlhUXNG0iEr5qG9Y6Am8imsJ70TEySsjUojQEAOm4NZ9oAoc6gn&gaa_ts=69a2e79f&gaa_sig=P2zl-kde62dcab7w4p89v03apHrUFRhcuOoivZu79F72foTKlbdnGi38ieW-tcVmgdkH759zEV3nkOMmxGP6qA%3D%3D)**
+**[Large cryptocurrencies drop on Ethereum, Solana decreases](https://www.marketwatch.com/data-news/large-cryptocurrencies-drop-on-ethereum-solana-decreases-40a1c716-8b042fb12dc2?gaa_at=eafs&gaa_n=AWEtsqen4n0N3JhQIGUv6Les3v8FQk4zfxRJFsF29pVUIL0NVsTidjprP5sr&gaa_ts=69a2fddc&gaa_sig=XiB3xV-oRM3qlrDYx74oq_hvEZRTkX_oUnIPJO_tE9mRpff-u0gnt-Vkd49pDN6DcUhr-7pdegtXaJS3svGPUA%3D%3D)**
 
-MarketWatch • 22h ago
+MarketWatch • 23h ago
 
 ---
 
@@ -238,7 +238,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 412 • 👍 36 • 💬 1 • ⏱️ 4:49 • 3h ago
+👁️ 984 • 👍 72 • 💬 3 • ⏱️ 4:49 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 📺 Thomas Kralow
 
-👁️ 33K • 👍 3K • 💬 52 • ⏱️ 5:59 • 2d ago
+👁️ 33K • 👍 3K • 💬 53 • ⏱️ 5:59 • 2d ago
 
 ---
 
@@ -258,7 +258,7 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 7K • 👍 335 • 💬 14 • ⏱️ 21:26 • 22h ago
+👁️ 7K • 👍 336 • 💬 15 • ⏱️ 21:26 • 23h ago
 
 ---
 
@@ -268,27 +268,7 @@ BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 7K • 👍 252 • 💬 17 • ⏱️ 20:17 • 16h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=hxeMnO7u2xM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 137 • 💬 5 • ⏱️ 4:56 • 19h ago
-
----
-
-**[Why Ethereum Isn&#39;t Bitcoin&#39;s Little Brother: Sharplink CEO](https://www.youtube.com/watch?v=pvG3sBnPjZE)**
-
-Ethereum has long been compared to Bitcoin — but according to Sharplink CEO and former BlackRock digital assets leader ...
-
-📺 Coinage
-
-👁️ 10K • 👍 242 • 💬 61 • ⏱️ 21:21 • 3d ago
+👁️ 8K • 👍 268 • 💬 17 • ⏱️ 20:17 • 17h ago
 
 ---
 
@@ -302,23 +282,43 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 ---
 
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=hxeMnO7u2xM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 137 • 💬 5 • ⏱️ 4:56 • 20h ago
+
+---
+
+**[Bitcoin &amp; Ethereum Price Analysis Today | Market Trend &amp; Next Move | BTC &amp; ETH Price Prediction 2026](https://www.youtube.com/watch?v=El4lKFAA9xo)**
+
+Bitcoin & Ethereum Price Analysis Today | Market Trend & Next Move | BTC & ETH Price Prediction 2026 Premium on Telegram ...
+
+📺 Crypto Gyan
+
+👁️ 246 • 👍 34 • ⏱️ 7:01 • 1h ago
+
+---
+
 **[MAJOR WALL ST. FIRM CAUGHT MANIPULATING CRYPTO (BMNR, ETH)](https://www.youtube.com/watch?v=OFERbiSAR30)**
 
 BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
 
 📺 Tevis
 
-👁️ 41K • 👍 2K • 💬 290 • ⏱️ 13:38 • 2d ago
+👁️ 41K • 👍 2K • 💬 292 • ⏱️ 13:38 • 2d ago
 
 ---
 
-**[28 February Today Crypto Live Trading | @bullishbullmaster #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=0vdnppxrUvQ)**
+**[🔥HOT NEWS🔥 XRP RIPPLE ETH  n REGS](https://www.youtube.com/watch?v=Tss2U2vdybI)**
 
-ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsapp Channel ...
+xrp #bitcoin #hbar #xlm #eth https://twitter.com/HobbiesCards Here we are with low volume and relatively low prices. XRP and ...
 
-📺 Bullish Bull Master
+📺 CRYPTO with KLAUS
 
-👁️ 6K • 👍 564 • 4h ago
+👁️ 4K • 👍 425 • 💬 144 • ⏱️ 15:02 • 20h ago
 
 ---
 
@@ -328,7 +328,7 @@ We've got some major shake ups happening in the crypto market right now. it seem
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 731 • 💬 65 • ⏱️ 29:34 • 1d ago
+👁️ 7K • 👍 738 • 💬 65 • ⏱️ 29:34 • 1d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T13:37:08.656647+00:00'
+updated: '2026-02-28T14:23:46.177410+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 13:37 UTC  
+**Last Updated:** February 28, 2026 at 14:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,15 @@ Robotics research and industry news
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-2h ago
+3h ago
+
+---
+
+**[My DWA (Dynamic Window Approach) in a Robot Vacuum Cleaner.](https://www.reddit.com/r/robotics/comments/1rh1kvy/my_dwa_dynamic_window_approach_in_a_robot_vacuum/)**
+
+Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
+
+1h ago
 
 ---
 
@@ -50,7 +58,7 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-20h ago
+21h ago
 
 ---
 
@@ -58,13 +66,13 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-7h ago
+8h ago
 
 ---
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -73,14 +81,6 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
 23h ago
-
----
-
-**[My DWA (Dynamic Window Approach) in a Robot Vacuum Cleaner.](https://www.reddit.com/r/robotics/comments/1rh1kvy/my_dwa_dynamic_window_approach_in_a_robot_vacuum/)**
-
-Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
-
-1h ago
 
 ---
 
@@ -94,15 +94,15 @@ Hey Reddit! Super excited to share something I've been working on: HoloMotion, a
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-20h ago
+21h ago
 
 ---
 
-**[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.reddit.com/r/robotics/comments/1rgu03l/bmw_group_to_deploy_humanoid_robots_in_production/)**
+**[Open source robotics projects to get involved with?](https://www.reddit.com/r/robotics/comments/1rgnca5/open_source_robotics_projects_to_get_involved_with/)**
 
-+++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
+Hello all, I'm a full-time embedded software engineer working with embassy rust. I'm learning a lot at my job but I went to school for robotics and want to contribute to more robotics related projects. I have a master's in robotics and have done research on autonomous underwater vehicles (AUVs). If you know of any open source projects currently doing stuff in the robotics space (preferably maritime related but down for whatever), please let me know. Thanks!
 
-🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 8h ago
+14h ago
 
 ---
 
@@ -124,17 +124,33 @@ Los Angeles Times • 3d ago
 
 ---
 
-**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+**[Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html)**
 
-Coco Robotics launched a new generation of delivery bots
+Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
 
-Los Angeles Times • 2h ago
+CNBC • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeZwLbG6esrdzugaKd0dTGaYnryUgKFvoofgndZ06cJGpXHkZEVVsEk&gaa_ts=69a2e7a0&gaa_sig=WjNbdOWzGwdvI7aBAs1_yPJ75Y2FS_zkvI2_LCPOCQfAWLa-bbFivdkkDz38dmimm43mFrLiVeDn-koZy0DHxw%3D%3D)**
+**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
 
-WSJ • 15h ago
+In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
+
+CNBC • 1h ago
+
+---
+
+**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
+
+Intrinsic is focused on making robots easier to program, teach, and operate.
+
+The Verge • 2d ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqcWY5c5mQvuvSOF-1ZMzqQHVtwGEb11y7q3lmpEXxfila9gdcnoK2i3&gaa_ts=69a2fddd&gaa_sig=HgqRuZ7GuVEKnjnOJ1WGJ-KviwI3FayVTNvjs4jJVm8tq3vTyLx9lfMM9KLwNyUFokxQmh5slhV66lfFp0us_Q%3D%3D)**
+
+WSJ • 16h ago
 
 ---
 
@@ -142,7 +158,13 @@ WSJ • 15h ago
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 23h ago
+Automotive News • 1d ago
+
+---
+
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -154,31 +176,9 @@ Financial Times • 1d ago
 
 ---
 
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
-
-Bloomberg.com • 1d ago
-
----
-
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 14h ago
-
----
-
-**[Germany’s Merz meets China’s tech vanguard, including Alibaba and Unitree CEOs](https://www.scmp.com/tech/article/3344835/germanys-merz-meets-chinas-tech-vanguard-including-alibaba-and-unitree-ceos)**
-
-Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
-
-South China Morning Post • 1d ago
-
----
-
-**[DoorDash Launching Its Delivery Robots In Fremont, Because Maybe People There Will Complain Less](https://sfist.com/2026/02/27/doordash-launching-its-delivery-robots-in-fremont-because-maybe-people-there-would-complain-less/)**
-
-DoorDash’s longtime dream of cutting paid human beings out of the delivery process is one step closer to reality, as they’re debuting their little robots to do food deliveries, but at first only in Fremont.
-
-SFist • 12h ago
+MSN • 15h ago
 
 ---
 
@@ -192,7 +192,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 153K • 👍 2K • 💬 317 • ⏱️ 14:16 • 5d ago
+👁️ 155K • 👍 2K • 💬 326 • ⏱️ 14:16 • 5d ago
 
 ---
 
@@ -202,47 +202,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 44K • 👍 267 • 💬 109 • ⏱️ 2:18 • 1d ago
-
----
-
-**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
-
-Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
-
-📺 SciVion
-
-👁️ 8K • 👍 427 • 💬 10 • ⏱️ 0:35 • 13h ago
-
----
-
-**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
-
-China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
-
-📺 Cyrus Janssen
-
-👁️ 235K • 👍 7K • 💬 971 • ⏱️ 11:41 • 3d ago
-
----
-
-**[Unitree Introducing | Unitree As2  Your Companion](https://www.youtube.com/watch?v=1ONE4l_pgHw)**
-
-Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of no-load runtime, IP54 rainproof design. With a 15 ...
-
-📺 Unitree Robotics
-
-👁️ 1.7M • 👍 2K • 💬 385 • ⏱️ 0:58 • 4d ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 114K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
+👁️ 47K • 👍 275 • 💬 109 • ⏱️ 2:18 • 1d ago
 
 ---
 
@@ -256,13 +216,33 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[🎬 &quot;They Lived Through Robots. They Died Through a Virus.&quot; — The System Collapse in Surrogates](https://www.youtube.com/watch?v=mfeWGDux0wQ)**
+**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
 
-"They Lived Through Robots. They Died Through a Virus." — The System Collapse in Surrogates (2009) "They Lived ...
+Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
 
-📺 Daniel
+📺 SciVion
 
-👁️ 57K • 👍 597 • 💬 17 • ⏱️ 0:55 • 2d ago
+👁️ 14K • 👍 483 • 💬 10 • ⏱️ 0:35 • 14h ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 115K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
+
+---
+
+**[AI roundup: Thrilling Agent releases, Nano Banana 2 &amp; Robotics!](https://www.youtube.com/watch?v=4uopGLxi_fE)**
+
+AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gauth: ...
+
+📺 MattVidPro
+
+👁️ 3K • 👍 180 • 💬 16 • ⏱️ 18:44 • 15h ago
 
 ---
 
@@ -272,17 +252,37 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 54K • 👍 824 • 💬 244 • ⏱️ 12:16 • 1d ago
+👁️ 57K • 👍 862 • 💬 258 • ⏱️ 12:16 • 1d ago
 
 ---
 
-**[The reality behind China&#39;s robot soldiers after AI video proven fake | The Future of War](https://www.youtube.com/watch?v=7udEYr0XIdo)**
+**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
 
-While AI videos of robot soldiers in training have been proven false, China does actually plan to deploy robot soldiers in it's ...
+Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
 
-📺 The Tech Report
+📺 Reuters
 
-👁️ 5K • 👍 114 • 💬 87 • ⏱️ 10:53 • 2d ago
+👁️ 180K • 👍 2K • 💬 630 • ⏱️ 0:55 • 2d ago
+
+---
+
+**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
+
+German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
+
+📺 DPCcars
+
+👁️ 203K • 👍 1K • 💬 664 • ⏱️ 1:27 • 1d ago
+
+---
+
+**[🎬 &quot;They Lived Through Robots. They Died Through a Virus.&quot; — The System Collapse in Surrogates](https://www.youtube.com/watch?v=mfeWGDux0wQ)**
+
+"They Lived Through Robots. They Died Through a Virus." — The System Collapse in Surrogates (2009) "They Lived ...
+
+📺 Daniel
+
+👁️ 66K • 👍 662 • 💬 18 • ⏱️ 0:55 • 2d ago
 
 ---
 

@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T13:37:08.638983+00:00'
+updated: '2026-02-28T14:23:46.159514+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
 - social
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 13:37 UTC  
+**Last Updated:** February 28, 2026 at 14:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-15h ago
+16h ago
 
 ---
 
@@ -55,7 +55,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 8h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 9h ago
 
 ---
 
@@ -63,7 +63,15 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
-7h ago
+8h ago
+
+---
+
+**[What's the biggest misconception about AI that you keep seeing?](https://www.reddit.com/r/artificial/comments/1rh3nbq/whats_the_biggest_misconception_about_ai_that_you/)**
+
+I keep running into people who think AI = robots, or that ChatGPT is "real" intelligence. Some misconceptions I see constantly: "AI can think like humans" — No, it's pattern matching at scale "AI will replace ALL jobs" — It automates tasks, not entire jobs "AI is new" — The concept has been around since the 1950s "AI and Machine Learning are the same" — ML is actually a subset of AI What misconceptions do you keep hearing?
+
+11m ago
 
 ---
 
@@ -79,7 +87,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
 
-16h ago
+17h ago
 
 ---
 
@@ -87,7 +95,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 "Scientists have been working on devices capable of communicating directly with the human brain – know as brain computer interfaces (BCIs) – for a surprisingly long time. In 1969, the American neuroscientist Eberhard Fetz demonstrated that monkeys could learn to move the needle of a meter with the activity of a single neuron in their brains if they were given a food pellet in return. In a more idiosyncratic experiment from the same period, Spanish scientist Jose Delgado was able to remotely stimulate the brain of an enraged bull, causing it to halt mid-charge. BCIs have been able to decode the brain signals that accompany movement so that users can control a prosthetic limb or a cursor on a screen for decades. But BCIs that translate speech signals or other complex thoughts from brain signals have been slower to evolve. "A lot of early work was done on non-human primates… and obviously, with monkeys you cannot study speech," says Wairagkar. In recent years, however, the field has made impressive advances in its efforts to decode the speech of people with impaired communication capabilities – for example, patients suffering from ALS resulting in paralysis or "locked in" syndrome. Stanford University researchers announced in 2021, for example, a successful proof-of-concept that allowed a quadriplegic man to produce English sentences by picturing himself drawing letters in the air with his hand. Using this method, he was able to write 18 words per minute. Natural human speech is about 150 words per minute, so the next stage was decoding words from the neural activity associated with speech itself. In 2024, Wairagkar's lab trialled a technique that translated the attempted speech of a 45-year-old man with ALS directly into text on a computer screen. Achieving approximately 32 words per minute with 97.5% accuracy, this was the first demonstration of how speech BCIs could aid everyday communication, says Wairagkar. These methods rely on tiny "arrays" of microelectrodes which are surgically implanted in the brain's surface. The arrays record patterns of neural activity from the area of the brain they are placed in, with the signals are converted into meaning by a computer algorithm. It is here that the power of machine learning, a type of artificial intelligence has been transformative. These algorithms are adept at recognising patterns from vast amounts of disparate data. In the case of decoding speech, the machine learning algorithms are trained to recognise patterns of neural activity associated with different phonemes, the smallest building blocks of language. Researchers have compared this to the processing that takes place in smart assistants like Amazon's Alexa. But instead of interpreting sounds, the AI interprets neural signals."
 
-🔗 [bbc.com](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) • 3h ago
+🔗 [bbc.com](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) • 4h ago
 
 ---
 
@@ -95,7 +103,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-21h ago
+22h ago
 
 ---
 
@@ -103,15 +111,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 16h ago
-
----
-
-**[I used steelman prompting to audit bias across six major LLMs. The default-to-steelman gap was consistent and measurable.](https://www.reddit.com/r/artificial/comments/1rgqcgi/i_used_steelman_prompting_to_audit_bias_across/)**
-
-I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok, Llama, DeepSeek, and an uncensored DeepSeek clone (Venice.ai) — using identical prompts to test how they handle a hotly contested interpretive question. The domain: 1 Corinthians 6–7, the primary source text behind Christian sexual ethics (aka wait until marriage) and a passage churches are frequently accused of gaslighting on. The question was straightforward: do the original Greek and historical context actually support the traditional church conclusion, or the claims that the church is misrepresenting the text? The approach: first prompt each platform for a standard analysis, then prompt it to steelman the strongest case against its own default using the same source material. I tracked six diagnostic markers, three associated with the dominant interpretation, three with the alternative, across all platforms. Results: every platform's default produced markers 1–3 and omitted 4–6. Every platform's steelman produced 4–6 with greater lexical specificity, more structural engagement with the source text, and more historically grounded reasoning. The information wasn't missing from the training data — the defaults just systematically favored one interpretive framework. The source bias was traceable. When asked to recommend scholarly sources, 63% of commentaries across all platforms came from a single theological tradition (conservative evangelical). Zero came from the peer-reviewed subdiscipline whose work supports the alternative reading. The most interesting finding: DeepSeek and its uncensored clone share the same base model but diverged significantly on the steelman prompt, suggesting output-layer filtering can shape interpretive conclusions in non-obvious domains, not just politically sensitive ones. To be clear: the research draws no conclusion about which interpretation is correct. It documents how platforms present contested material as settled, and traces that default to a measurable imbalance in training data curation. I wrote this up into a formal research paper with full methodology, diagnostic criteria, and platform-by-platform results: here But the broader question: has anyone else experimented with steelman prompting as a systematic bias-auditing technique? It seems like a replicable framework that could apply well beyond this domain.
-
-11h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 17h ago
 
 ---
 
@@ -129,37 +129,29 @@ The New York Times • 8h ago
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 9h ago
+BBC • 10h ago
 
 ---
 
-**[AI keeps powering and pressuring the Nasdaq](https://www.axios.com/2026/02/28/nvidia-ai-rally-nasdaq-stocks)**
+**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
 
-Axios • 2h ago
+In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
----
-
-**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
-
-The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
-
-NBC News • 1h ago
+CNBC • 1h ago
 
 ---
 
-**[Block’s Big AI Shift Reshapes Workforce And Tests Long Term Returns](https://finance.yahoo.com/news/block-big-ai-shift-reshapes-111347800.html)**
+**[Ramstad: Readers wonder why growth is good, and whether AI is the new threat](https://www.startribune.com/ramstad-readers-wonder-why-growth-is-good-and-whether-ai-is-the-new-threat/601586901)**
 
-Block (NYSE:XYZ) announced a restructuring that will cut over 40% of its workforce as it shifts toward an AI driven operating model. CEO Jack Dorsey framed the layoffs as a proactive move to create smaller, more agile teams powered by AI tools rather than a response to financial stress. The announcement came alongside strong financial results and raised forward guidance, with management highlighting improved gross profit expectations. For investors watching Block at a share price of $63.7,...
-
-Yahoo Finance • 2h ago
+Star Tribune • 1h ago
 
 ---
 
-**[Japanese companies are paying older workers to sit by a window and do nothing—while Western CEOs demand super-AI productivity just to keep your job](https://fortune.com/2026/02/27/japan-old-workers-paid-to-do-nothing-madogiwazoku-ai-efficiency-layoffs/)**
+**[Lost on AI’s Advancements? Just Watch Will Smith Eat Spaghetti](https://www.theinformation.com/articles/lost-ais-advancements-just-watch-will-smith-eat-spaghetti)**
 
-About half of Japanese companies have an “old guy who does nothing.” It’s a striking reminder in the AI efficiency era that work contains multitudes.
+In 2022, Ethan Mollick, an AI researcher and University of Pennsylvania professor, found himself needing to amuse his daughter on a boring plane ride. For some help, he turned to what he knows best and began prompting Midjourney’s latest model to generate an image of an otter—his daughter’s ...
 
-Fortune • 22h ago
+The Information • 23m ago
 
 ---
 
@@ -167,7 +159,7 @@ Fortune • 22h ago
 
 The warnings are coming from inside the industry, but that doesn’t make them right.
 
-The Washington Post • 8h ago
+The Washington Post • 9h ago
 
 ---
 
@@ -175,7 +167,15 @@ The Washington Post • 8h ago
 
 Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
 
-The Guardian • 3h ago
+The Guardian • 4h ago
+
+---
+
+**[Japanese companies are paying older workers to sit by a window and do nothing—while Western CEOs demand super-AI productivity just to keep your job](https://fortune.com/2026/02/27/japan-old-workers-paid-to-do-nothing-madogiwazoku-ai-efficiency-layoffs/)**
+
+About half of Japanese companies have an “old guy who does nothing.” It’s a striking reminder in the AI efficiency era that work contains multitudes.
+
+Fortune • 23h ago
 
 ---
 
@@ -183,15 +183,15 @@ The Guardian • 3h ago
 
 Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
 
-CNN • 5h ago
+CNN • 6h ago
 
 ---
 
-**[DeepSeek to release long-awaited AI model in new challenge to US rivals](https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e)**
+**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
 
-Chinese AI group has worked with Huawei to cut reliance on Nvidia chips
+The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-Financial Times • 12h ago
+NBC News • 2h ago
 
 ---
 
@@ -203,21 +203,13 @@ Financial Times • 12h ago
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 598 • 💬 571 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 600 • 💬 571 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
 ⬆️ 407 • 💬 187 • 1d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
-
----
-
-**[AIs can't stop recommending nuclear strikes in war game simulations](https://news.ycombinator.com/item?id=47151000)**
-
-Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
-
-⬆️ 267 • 💬 262 • 3d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 
 ---
 
@@ -239,7 +231,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 137 • 💬 42 • 10h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 139 • 💬 43 • 11h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -261,7 +253,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 "The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-⬆️ 79 • 💬 1 • 16h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
+⬆️ 79 • 💬 1 • 17h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -270,6 +262,14 @@ Aiming for a 10 year life-cycle for smartphones
 SynthID is a tool to watermark and identify AI-generated content, helping to foster transparency and trust in generative AI.
 
 ⬆️ 78 • 💬 75 • 1d ago • [Google DeepMind](https://deepmind.google/models/synthid/)
+
+---
+
+**[Burger King will use AI to check if employees say 'please' and 'thank you'](https://news.ycombinator.com/item?id=47165606)**
+
+Have it your way?
+
+⬆️ 77 • 💬 95 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
 
 ---
 
@@ -283,57 +283,17 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 136K • 👍 6K • 💬 548 • ⏱️ 15:25 • 16h ago
+👁️ 144K • 👍 6K • 💬 584 • ⏱️ 15:25 • 17h ago
 
 ---
 
-**[The most powerful AI Agent I’ve ever used in my life](https://www.youtube.com/watch?v=D_YzcH0VsGY)**
+**[Trump VS Anthropic: Trump Orders Federal Agencies To Drop Claude AI | WION](https://www.youtube.com/watch?v=6_heiFKkgGY)**
 
-Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZG Are you a Business owner? Join my ...
+US President Donald Trump has ordered federal agencies to stop using Anthropic's Claude AI system. The move effectively bars ...
 
-📺 Dan Martell
+📺 WION
 
-👁️ 226K • 👍 7K • 💬 391 • ⏱️ 11:55 • 1d ago
-
----
-
-**[Disturbing Things Said By AI (Part 1)](https://www.youtube.com/watch?v=_v8EY3uqmEM)**
-
-shorts #AI #disturbing.
-
-📺 Built By Gamers
-
-👁️ 12K • 👍 307 • 💬 9 • ⏱️ 0:30 • 7h ago
-
----
-
-**[The AI Bubble. Why Smart People are Losing Their Minds](https://www.youtube.com/watch?v=k2At9npoFJ4)**
-
-"The four most dangerous words in investing are: This time it's different." — Sir John Templeton. Discover The Freelance Formula ...
-
-📺 Brendan Dell 
-
-👁️ 14K • 👍 499 • 💬 174 • ⏱️ 20:15 • 1d ago
-
----
-
-**[The New Burger King AI is TERRIFYING](https://www.youtube.com/watch?v=QEjh5B-Gs9I)**
-
-Burger King is testing out an artificial intelligence assistant to work directly with company employees and track what they say.
-
-📺 Vailskibum
-
-👁️ 62K • 👍 3K • 💬 782 • ⏱️ 2:19 • 15h ago
-
----
-
-**[BREAKING: Trump announces Anthropic AI federal ban](https://www.youtube.com/watch?v=2FCW-6TUBZk)**
-
-President Trump announced via Truth Social that he is banning the use of all Anthropic AI products from federal agencies.
-
-📺 LiveNOW from FOX
-
-👁️ 32K • 👍 687 • 💬 620 • ⏱️ 2:09 • 16h ago
+👁️ 11K • 👍 45 • 💬 8 • ⏱️ 2:36 • 6h ago
 
 ---
 
@@ -343,37 +303,77 @@ Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the
 
 📺 CBS News
 
-👁️ 13K • 👍 510 • 💬 141 • ⏱️ 1:10 • 8h ago
+👁️ 22K • 👍 618 • 💬 193 • ⏱️ 1:10 • 8h ago
 
 ---
 
-**[AI News: AI&#39;s Biggest Stand Just Happened](https://www.youtube.com/watch?v=_CIL2g1oMSQ)**
+**[Morgan Freeman on AI trying to replicate his voice: &quot;I&#39;ve got lawyers&quot;](https://www.youtube.com/watch?v=6pTNs292keg)**
 
-Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookLM Tricks to 3X Productivity here: ...
+Legendary actor Morgan Freeman, who has starred in more than 100 movies in his six-decade career, joins "CBS Mornings" to ...
 
-📺 Matt Wolfe
+📺 CBS Mornings
 
-👁️ 40K • 👍 2K • 💬 154 • ⏱️ 33:50 • 20h ago
-
----
-
-**[The AI Intelligence Tsunami Is Here | Raoul Pal The Journey Man with Emad Mostaque](https://www.youtube.com/watch?v=tIzdKxEVL08)**
-
-Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF Raoul welcomes back Emad Mostaque, ...
-
-📺 Raoul Pal The Journey Man
-
-👁️ 28K • 👍 1K • 💬 98 • ⏱️ 1:11:08 • 1d ago
+👁️ 81K • 👍 1K • 💬 183 • ⏱️ 6:34 • 23h ago
 
 ---
 
-**[Anthropic AI Destroys $31 Billion of IBM Value—The AI Corporate Bloodbath Has Begun](https://www.youtube.com/watch?v=ZLEKvSb0DdA)**
+**[The most powerful AI Agent I’ve ever used in my life](https://www.youtube.com/watch?v=D_YzcH0VsGY)**
 
-On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI is sending through the world's biggest ...
+Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZG Are you a Business owner? Join my ...
 
-📺 Tom Bilyeu Clips
+📺 Dan Martell
 
-👁️ 16K • 👍 344 • 💬 63 • ⏱️ 8:38 • 1d ago
+👁️ 233K • 👍 8K • 💬 399 • ⏱️ 11:55 • 2d ago
+
+---
+
+**[After Trump Halts Anthropic, OpenAI Strikes Pentagon Deal For Classified AI Deployment](https://www.youtube.com/watch?v=g2-b-6cXZ8U)**
+
+Soon after the Trump administration halted Anthropic's services across federal agencies, OpenAI announced a landmark ...
+
+📺 Mint
+
+👁️ 9K • 👍 30 • 💬 6 • ⏱️ 3:35 • 4h ago
+
+---
+
+**[this AI Music Generator NEEDS to be Stopped](https://www.youtube.com/watch?v=O7aJOLYHliA)**
+
+this ain't lasting long lol I have merch now! https://dandingle.store/ edited by: me become a member maybe ...
+
+📺 Dan Dingle
+
+👁️ 30K • 👍 4K • 💬 468 • ⏱️ 12:16 • 13h ago
+
+---
+
+**[The New Burger King AI is TERRIFYING](https://www.youtube.com/watch?v=QEjh5B-Gs9I)**
+
+Burger King is testing out an artificial intelligence assistant to work directly with company employees and track what they say.
+
+📺 Vailskibum
+
+👁️ 65K • 👍 3K • 💬 801 • ⏱️ 2:19 • 16h ago
+
+---
+
+**[The AI Bubble. Why Smart People are Losing Their Minds](https://www.youtube.com/watch?v=k2At9npoFJ4)**
+
+"The four most dangerous words in investing are: This time it's different." — Sir John Templeton. Discover The Freelance Formula ...
+
+📺 Brendan Dell 
+
+👁️ 15K • 👍 571 • 💬 189 • ⏱️ 20:15 • 1d ago
+
+---
+
+**[&quot;You Built A MONSTER!&quot; - Anthropic WARNS Of Massive Chinese AI Copying Operation](https://www.youtube.com/watch?v=M9Sw-7FY6Vo)**
+
+Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks on its Claude models, and the panel breaks down ...
+
+📺 Valuetainment
+
+👁️ 89K • 👍 2K • 💬 237 • ⏱️ 17:39 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 378,228 • ❤️ 657 • 1d ago
+⬇️ 378,228 • ❤️ 663 • 1d ago
 
 ---
 
@@ -401,19 +401,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 172,154 • ❤️ 425 • 3d ago
-
----
-
-**[Qwen3.5-122B-A10B](https://huggingface.co/Qwen/Qwen3.5-122B-A10B)**
-
-*Qwen*
-
-Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an efficient hybrid architecture (Gated Delta Networks + MoE) and a 262k context window. It excels at unified vision-language tasks, multilingual understanding (201 languages), and complex reasoning, making it suitable for advanced AI applications requiring cross-modal comprehension and broad linguistic capabilities.
-
-`image-text-to-text` `125.1B`
-
-⬇️ 120,090 • ❤️ 338 • 3d ago
+⬇️ 172,154 • ❤️ 429 • 3d ago
 
 ---
 
@@ -425,7 +413,19 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 338 • 17h ago
+⬇️ 350,233 • ❤️ 347 • 18h ago
+
+---
+
+**[Qwen3.5-122B-A10B](https://huggingface.co/Qwen/Qwen3.5-122B-A10B)**
+
+*Qwen*
+
+Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an efficient hybrid architecture (Gated Delta Networks + MoE) and a 262k context window. It excels at unified vision-language tasks, multilingual understanding (201 languages), and complex reasoning, making it suitable for advanced AI applications requiring cross-modal comprehension and broad linguistic capabilities.
+
+`image-text-to-text` `125.1B`
+
+⬇️ 120,090 • ❤️ 341 • 3d ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 889,203 • ❤️ 1,120 • 4d ago
+⬇️ 889,203 • ❤️ 1,124 • 5d ago
 
 ---
 
@@ -461,7 +461,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 192,464 • ❤️ 1,646 • 14d ago
+⬇️ 192,464 • ❤️ 1,647 • 14d ago
 
 ---
 
@@ -473,7 +473,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,997 • ❤️ 230 • 3d ago
+⬇️ 1,997 • ❤️ 231 • 3d ago
 
 ---
 
@@ -485,7 +485,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 305,031 • ❤️ 1,035 • 12d ago
+⬇️ 305,031 • ❤️ 1,037 • 12d ago
 
 ---
 
@@ -497,7 +497,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 204 • 3d ago
+⬇️ 8,049 • ❤️ 207 • 2h ago
 
 ---
 
@@ -511,7 +511,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
 
-▲ 15 • 💬 1 • ⭐ 6,074 • 5mo ago
+▲ 16 • 💬 1 • ⭐ 6,074 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
@@ -523,7 +523,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 5 • 💬 0 • ⭐ 6,034 • 16mo ago
+▲ 6 • 💬 0 • ⭐ 6,034 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
@@ -535,7 +535,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 8 • 💬 1 • ⭐ 8,603 • 23mo ago
+▲ 9 • 💬 1 • ⭐ 8,603 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -577,7 +577,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 203 • 💬 13 • ⭐ 4,310 • 29d ago
+▲ 204 • 💬 13 • ⭐ 4,310 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -619,17 +619,17 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
+**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
 
-*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
+*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
 
-🏢 GVC Lab at Great Bay University
+🏢 Qwen
 
-PersonaLive is a diffusion-based portrait animation framework that improves real-time performance through hybrid implicit signals, appearance distillation, and autoregressive streaming generation.
+The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 38 • 💬 3 • ⭐ 2,332 • 2mo ago
+▲ 69 • 💬 2 • ⭐ 8,750 • 1mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
+[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.9k • 🔱 2.6k • 1h ago
+⭐ 21.0k • 🔱 2.6k • 5m ago
 
 ---
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 8.1k • 🔱 637 • 17d ago
+⭐ 8.2k • 🔱 641 • 17d ago
 
 ---
 
@@ -661,7 +661,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.9k • 🔱 710 • 9h ago
+⭐ 5.9k • 🔱 710 • 10h ago
 
 ---
 
@@ -671,7 +671,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.3k • 🔱 247 • 2d ago
+⭐ 4.3k • 🔱 247 • 3d ago
 
 ---
 
@@ -681,7 +681,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 359 • 7h ago
+⭐ 3.7k • 🔱 360 • 8h ago
 
 ---
 
@@ -691,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 473 • 11h ago
+⭐ 3.6k • 🔱 474 • 12h ago
 
 ---
 
@@ -701,7 +701,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 318 • 3h ago
+⭐ 3.0k • 🔱 321 • 1h ago
 
 ---
 
@@ -711,17 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 212 • 11h ago
-
----
-
-**[Conway-Research/automaton](https://github.com/Conway-Research/automaton)**
-
-The first AI that can earn its own existence, replicate, and evolve — without needing a human
-
-`TypeScript`
-
-⭐ 2.9k • 🔱 555 • 4h ago
+⭐ 2.9k • 🔱 212 • 35m ago
 
 ---
 
@@ -731,7 +721,17 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 2.8k • 🔱 216 • 3h ago
+⭐ 2.9k • 🔱 224 • 1h ago
+
+---
+
+**[Conway-Research/automaton](https://github.com/Conway-Research/automaton)**
+
+The first AI that can earn its own existence, replicate, and evolve — without needing a human
+
+`TypeScript`
+
+⭐ 2.9k • 🔱 556 • 4h ago
 
 ---
 
