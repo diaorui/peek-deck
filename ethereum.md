@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T09:49:19.207303+00:00'
+updated: '2026-02-28T10:24:54.758789+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 09:49 UTC  
+**Last Updated:** February 28, 2026 at 10:24 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-3h ago
+4h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 We added Ethereum as a payment option back in 2018, and since then, around 643,000 payments have been made with ETH through our gateway. Most spending happens on hosting, VPN services, and gaming. The average order value is around $159, with most payments ranging from $54 to $607. If you are looking for places that accept Ethereum, we have a merchant directory. Are you spending ETH anywhere these days?
 
-20h ago
+21h ago
 
 ---
 
@@ -88,7 +88,7 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 
 At the current moment the correct path to post quantum Ethereum transactions looks more like Shibuya Crossing, there are too many proposals all with different ways of doing the same fundamental thing. Some of the proposals that can achieve PQ migration are:   Pure ERC-4337 account abstraction and doing the PQ verification on the EVM EIP-6404: SSZ transactions that use the EIP-7932: Secondary Signature Algorithms rails. EIP-8141: Frame Transaction that make the PQ migration up to the account to d...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 16h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 17h ago
 
 ---
 
@@ -104,7 +104,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtu.be](https://youtu.be/pmbdcdOZMdU) • 12h ago
+🔗 [youtu.be](https://youtu.be/pmbdcdOZMdU) • 13h ago
 
 ---
 
@@ -120,7 +120,7 @@ https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-s
 
 Most people remember the 2017 ICO boom, but the culture started forming in late 2016 with projects like Golem and SingularDTV. Golem (GNT) — November 11, 2016 Golem launched what was essentially an 820,000 ETH hard cap crowdsale. It filled in 29 minutes. $8.6 million for a decentralized computing network. The contract was deliberately simple by design. After the DAO hack a few months earlier, the team and their auditors at Zeppelin went out of their way to avoid complexity. No recursive calls, no token logic mixed with funding logic. Just "send ETH, receive tokens, done." They also built in a migration mechanism from day one (GNT to GLM), which they actually used four years later in 2020. That kind of foresight was rare. SingularDTV — September/October 2016 SingularDTV took a different approach with a tri-contract architecture: one for the crowdsale, one for the token, one for the treasury fund. Stefan George (who later cofounded Gnosis) was involved. They raised $7.5M in 17 minutes. The treasury contract had a 2-year workshop token lockup built in. The speed of these raises changed expectations for every project that followed. Before this, "fast fundraising" for crypto meant days or weeks. After Golem and SingularDTV, everyone expected minutes. Why this matters now These contracts are still on-chain. You can read them, verify the logic, trace every transaction. Unlike web2 startup history where products get shut down and documentation disappears, Ethereum's history is permanently readable. I've been documenting these early contracts at ethereumhistory.com — trying to build a proper archive before the people who remember this era move on. We've got about 40 contracts documented so far from 2015-2017. If you were around during this period or remember other significant early contracts, would love to hear about them.
 
-19h ago
+20h ago
 
 ---
 
@@ -136,7 +136,7 @@ Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
 MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self-custody wallet control & stablecoin payments mainstream.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 20h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 21h ago
 
 ---
 
@@ -172,7 +172,7 @@ Benzinga • 2d ago
 
 Key PointsThe longer your investing time horizon, the more uncertainty you'll have to take into account.
 
-Nasdaq • 7h ago
+Nasdaq • 8h ago
 
 ---
 
@@ -194,7 +194,7 @@ Yahoo Finance • 1d ago
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
-Decrypt • 16h ago
+Decrypt • 17h ago
 
 ---
 
@@ -202,7 +202,7 @@ Decrypt • 16h ago
 
 Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 2h ago
+Polymarket • 3h ago
 
 ---
 
@@ -210,7 +210,7 @@ Polymarket • 2h ago
 
 Privacy is a more meaningful upgrade for one of these coins than the other.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 136 • 💬 5 • ⏱️ 4:56 • 15h ago
+👁️ 2K • 👍 136 • 💬 5 • ⏱️ 4:56 • 16h ago
 
 ---
 
@@ -270,7 +270,7 @@ BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 6K • 👍 237 • 💬 17 • ⏱️ 20:17 • 12h ago
+👁️ 6K • 👍 237 • 💬 17 • ⏱️ 20:17 • 13h ago
 
 ---
 
@@ -300,7 +300,7 @@ Ethereum struggles below $2000 with most holders underwater. Realized price at $
 
 📺 MONEY GAME
 
-👁️ 88 • 👍 4 • 💬 2 • ⏱️ 1:31 • 15h ago
+👁️ 88 • 👍 4 • 💬 2 • ⏱️ 1:31 • 16h ago
 
 ---
 

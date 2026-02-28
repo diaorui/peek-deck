@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T09:49:19.201313+00:00'
+updated: '2026-02-28T10:24:54.752800+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
 - social
+- cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 09:49 UTC  
+**Last Updated:** February 28, 2026 at 10:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-3h ago
+4h ago
 
 ---
 
@@ -101,7 +101,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-2h ago
+3h ago
 
 ---
 
@@ -117,7 +117,7 @@ Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus elec
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-22h ago
+23h ago
 
 ---
 
@@ -125,7 +125,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-19h ago
+20h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 2h ago
 
 The drop extends a pattern where bitcoin sells off on geopolitical shocks before recovering, as the token's 24/7 liquidity makes it one of the few large assets traders can exit over the weekend.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -175,13 +175,13 @@ CoinDesk • 2h ago
 
 US and Israel launch joint strikes on Iran, declaring a state of emergency. Bitcoin plunges over 6% as war fears shake global markets.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
 **[Trump says ‘massive’ strike against Iran underway — bitcoin plunge offers a glimpse of how markets could react](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqf6RvaznQO_hnDmM_181JLIfAXIgVlRglCq0A0WRklZVsU6Jv_P9oet&gaa_ts=69a2bd8c&gaa_sig=cFaXKP9lwgC2lXo6Lo81fZ8vgHx19ETa3yWfPPXTtILxBzEcU5r7G3_SkZjDrgi_WGEOcmGehbbOcSYz8lTFmw%3D%3D)**
 
-MarketWatch • 52m ago
+MarketWatch • 1h ago
 
 ---
 
@@ -219,7 +219,7 @@ The Block • 1d ago
 
 Earlier this week, MARA Holdings, Inc. announced a partnership with Starwood Capital Group and Starwood Digital Ventures to convert select, power-rich Bitcoin mining sites into next-generation digital infrastructure, targeting about 1 gigawatt of near-term IT capacity with a pathway to more than 2.50 gigawatts for enterprise, hyperscale and AI customers. This agreement marks a meaningful shift in MARA’s business model, as its campuses are designed to toggle between Bitcoin mining and AI...
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -285,7 +285,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 Links to major crypto world figures are just the start.
 
-⬆️ 1 • 💬 0 • 6m ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 1 • 💬 0 • 42m ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -315,7 +315,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 449K • 👍 16K • 💬 1K • ⏱️ 18:56 • 16h ago
+👁️ 449K • 👍 16K • 💬 1K • ⏱️ 18:56 • 17h ago
 
 ---
 
@@ -325,7 +325,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 607 • ⏱️ 22:53 • 11h ago
+👁️ 17K • 👍 607 • ⏱️ 22:53 • 12h ago
 
 ---
 
@@ -365,7 +365,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 8K • 👍 426 • 💬 74 • ⏱️ 14:04 • 9h ago
+👁️ 8K • 👍 426 • 💬 74 • ⏱️ 14:04 • 10h ago
 
 ---
 

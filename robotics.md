@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T09:49:19.210482+00:00'
+updated: '2026-02-28T10:24:54.761968+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 09:49 UTC  
+**Last Updated:** February 28, 2026 at 10:24 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-16h ago
+17h ago
 
 ---
 
@@ -56,7 +56,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-3h ago
+4h ago
 
 ---
 
@@ -78,7 +78,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-15h ago
+16h ago
 
 ---
 
@@ -86,7 +86,7 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 
 Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-15h ago
+16h ago
 
 ---
 
@@ -94,7 +94,7 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 4h ago
+🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 5h ago
 
 ---
 
@@ -102,7 +102,7 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 Japan is helping people to stand up in life which are disabled I wish there can be sports events to get there sprit up and also even its small medal but it can be achievments of there confidence and live there societal ease Wishing for a good luck to us
 
-5h ago
+6h ago
 
 ---
 
@@ -120,7 +120,7 @@ Los Angeles Times • 2d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdjkpx30uw0jvFLLOkZwNAOExVHcBvY0929JrrypuoU6-eUBvaS1Kpv&gaa_ts=69a2bd8f&gaa_sig=Uzb5ZzQOk5VoS24eGbATgOY_tOpxupkmDOtHKnvfaavzWu8uVDlhBhPxJvedIP_Au27eAjZMG2Eu9lCHgwFcEA%3D%3D)**
 
-WSJ • 11h ago
+WSJ • 12h ago
 
 ---
 
@@ -134,7 +134,7 @@ Tech Xplore • 18h ago
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 19h ago
+Automotive News • 20h ago
 
 ---
 
@@ -142,7 +142,7 @@ Automotive News • 19h ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 23h ago
+Financial Times • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 5K • 👍 237 • 💬 5 • ⏱️ 0:35 • 9h ago
+👁️ 5K • 👍 237 • 💬 5 • ⏱️ 0:35 • 10h ago
 
 ---
 
@@ -242,7 +242,7 @@ Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of n
 
 📺 Unitree Robotics
 
-👁️ 1.7M • 👍 2K • 💬 384 • ⏱️ 0:58 • 3d ago
+👁️ 1.7M • 👍 2K • 💬 384 • ⏱️ 0:58 • 4d ago
 
 ---
 
