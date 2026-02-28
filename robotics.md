@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T11:20:39.353837+00:00'
+updated: '2026-02-28T11:42:44.503905+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 11:20 UTC  
+**Last Updated:** February 28, 2026 at 11:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -64,13 +64,13 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-20h ago
+21h ago
 
 ---
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -78,7 +78,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-1m ago
+23m ago
 
 ---
 
@@ -122,13 +122,13 @@ Los Angeles Times • 3d ago
 
 Coco Robotics launched a new generation of delivery bots
 
-Los Angeles Times • 20m ago
+Los Angeles Times • 42m ago
 
 ---
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 19h ago
+Tech Xplore • 20h ago
 
 ---
 
@@ -162,7 +162,7 @@ Financial Times • 1d ago
 
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 12h ago
+MSN • 13h ago
 
 ---
 
@@ -192,7 +192,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 151K • 👍 2K • 💬 315 • ⏱️ 14:16 • 5d ago
+👁️ 153K • 👍 2K • 💬 317 • ⏱️ 14:16 • 5d ago
 
 ---
 
@@ -202,7 +202,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 42K • 👍 260 • 💬 101 • ⏱️ 2:18 • 1d ago
+👁️ 44K • 👍 267 • 💬 109 • ⏱️ 2:18 • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 5K • 👍 237 • 💬 5 • ⏱️ 0:35 • 11h ago
+👁️ 8K • 👍 427 • 💬 10 • ⏱️ 0:35 • 11h ago
 
 ---
 
@@ -222,17 +222,7 @@ China is building robots faster than any country in the world and if you want to
 
 📺 Cyrus Janssen
 
-👁️ 233K • 👍 7K • 💬 968 • ⏱️ 11:41 • 2d ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 113K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
+👁️ 235K • 👍 7K • 💬 971 • ⏱️ 11:41 • 2d ago
 
 ---
 
@@ -242,7 +232,17 @@ Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of n
 
 📺 Unitree Robotics
 
-👁️ 1.7M • 👍 2K • 💬 384 • ⏱️ 0:58 • 4d ago
+👁️ 1.7M • 👍 2K • 💬 385 • ⏱️ 0:58 • 4d ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 114K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
 
 ---
 
@@ -252,7 +252,17 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 105 • 💬 25 • ⏱️ 24:08 • 2d ago
+👁️ 3K • 👍 107 • 💬 25 • ⏱️ 24:08 • 2d ago
+
+---
+
+**[🎬 &quot;They Lived Through Robots. They Died Through a Virus.&quot; — The System Collapse in Surrogates](https://www.youtube.com/watch?v=mfeWGDux0wQ)**
+
+"They Lived Through Robots. They Died Through a Virus." — The System Collapse in Surrogates (2009) "They Lived ...
+
+📺 Daniel
+
+👁️ 57K • 👍 597 • 💬 17 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -262,27 +272,17 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 52K • 👍 802 • 💬 240 • ⏱️ 12:16 • 1d ago
+👁️ 54K • 👍 824 • 💬 244 • ⏱️ 12:16 • 1d ago
 
 ---
 
-**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
+**[The reality behind China&#39;s robot soldiers after AI video proven fake | The Future of War](https://www.youtube.com/watch?v=7udEYr0XIdo)**
 
-Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
+While AI videos of robot soldiers in training have been proven false, China does actually plan to deploy robot soldiers in it's ...
 
-📺 Reuters
+📺 The Tech Report
 
-👁️ 162K • 👍 2K • 💬 591 • ⏱️ 0:55 • 1d ago
-
----
-
-**[Arduino Based Projects #arduinoprojects #arduinouno #robotics #robot #light #staircase #iot](https://www.youtube.com/watch?v=7ElFYTeddEs)**
-
-Arduino Based Projects #arduinoprojects #arduinouno #robotics #robot #light #staircase #iot.
-
-📺 EAZYTRONIC
-
-👁️ 31K • 👍 119 • 💬 1 • ⏱️ 0:09 • 22h ago
+👁️ 5K • 👍 114 • 💬 87 • ⏱️ 10:53 • 1d ago
 
 ---
 

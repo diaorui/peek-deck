@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T11:20:39.336348+00:00'
+updated: '2026-02-28T11:42:44.486247+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
 - videos
 - repositories
+- news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 11:20 UTC  
+**Last Updated:** February 28, 2026 at 11:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 7h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 8h ago
 
 ---
 
@@ -121,7 +121,7 @@ I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok,
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 5h ago
+The New York Times • 6h ago
 
 ---
 
@@ -135,7 +135,7 @@ BBC • 7h ago
 
 **[AI keeps powering and pressuring stocks](https://www.axios.com/2026/02/28/nvidia-ai-rally-nasdaq-stocks)**
 
-Axios • 16m ago
+Axios • 38m ago
 
 ---
 
@@ -151,7 +151,7 @@ The Guardian • 1h ago
 
 When the economy gets to the other side of the AI transformation, it will be hard to tell if the markets are winner-take-all or if the winners are simply standing over the wreckage.
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 42m ago
 
 ---
 
@@ -191,7 +191,7 @@ The Washington Post • 6h ago
 
 Callers to Washington state’s driver’s license agency who select automated service in Spanish have instead been hearing an AI voice speaking English with a strong Spanish accent.
 
-AP News • 8h ago
+AP News • 9h ago
 
 ---
 
@@ -239,7 +239,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 134 • 💬 41 • 7h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 134 • 💬 41 • 8h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -277,13 +277,13 @@ SynthID is a tool to watermark and identify AI-generated content, helping to fos
 
 ## YouTube Videos: "ai"
 
-**[Disturbing Things Said By AI (Part 1)](https://www.youtube.com/watch?v=_v8EY3uqmEM)**
+**[The AI Collapse Is MUCH Worse Than You Think](https://www.youtube.com/watch?v=jhDfq9sj-u8)**
 
-shorts #AI #disturbing.
+Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about the AI crisis, the 2026 economy, and how you ...
 
-📺 Built By Gamers
+📺 Graham Stephan
 
-👁️ 8K • 👍 206 • 💬 7 • ⏱️ 0:30 • 5h ago
+👁️ 136K • 👍 6K • 💬 548 • ⏱️ 15:25 • 14h ago
 
 ---
 
@@ -293,17 +293,27 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 219K • 👍 7K • 💬 383 • ⏱️ 11:55 • 1d ago
+👁️ 226K • 👍 7K • 💬 391 • ⏱️ 11:55 • 1d ago
 
 ---
 
-**[Automate 1000 AI Shorts in 1 Click (FREE &amp; Unlimited)](https://www.youtube.com/watch?v=1YOzo4xqLA8)**
+**[Disturbing Things Said By AI (Part 1)](https://www.youtube.com/watch?v=_v8EY3uqmEM)**
 
-Create AI videos fast with Higgsfield ...
+shorts #AI #disturbing.
 
-📺 Malva AI
+📺 Built By Gamers
 
-👁️ 4K • 👍 277 • 💬 113 • ⏱️ 9:46 • 22h ago
+👁️ 12K • 👍 307 • 💬 9 • ⏱️ 0:30 • 5h ago
+
+---
+
+**[The AI Bubble. Why Smart People are Losing Their Minds](https://www.youtube.com/watch?v=k2At9npoFJ4)**
+
+"The four most dangerous words in investing are: This time it's different." — Sir John Templeton. Discover The Freelance Formula ...
+
+📺 Brendan Dell 
+
+👁️ 14K • 👍 499 • 💬 174 • ⏱️ 20:15 • 1d ago
 
 ---
 
@@ -313,17 +323,37 @@ Burger King is testing out an artificial intelligence assistant to work directly
 
 📺 Vailskibum
 
-👁️ 58K • 👍 3K • 💬 767 • ⏱️ 2:19 • 13h ago
+👁️ 62K • 👍 3K • 💬 782 • ⏱️ 2:19 • 13h ago
 
 ---
 
-**[Disturbing Things Said By AI (Part 2)](https://www.youtube.com/watch?v=JGC5GpogfCI)**
+**[BREAKING: Trump announces Anthropic AI federal ban](https://www.youtube.com/watch?v=2FCW-6TUBZk)**
 
-shorts #AI #disturbing.
+President Trump announced via Truth Social that he is banning the use of all Anthropic AI products from federal agencies.
 
-📺 Built By Gamers
+📺 LiveNOW from FOX
 
-👁️ 6K • 👍 179 • 💬 7 • ⏱️ 0:27 • 4h ago
+👁️ 32K • 👍 687 • 💬 620 • ⏱️ 2:09 • 14h ago
+
+---
+
+**[Anthropic CEO on &quot;red lines&quot; for AI military use: &quot;We wanted to stand up for American values&quot;](https://www.youtube.com/watch?v=QFDz6q-Qthk)**
+
+Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the AI company sought to draw "red lines" in the ...
+
+📺 CBS News
+
+👁️ 13K • 👍 510 • 💬 141 • ⏱️ 1:10 • 6h ago
+
+---
+
+**[AI News: AI&#39;s Biggest Stand Just Happened](https://www.youtube.com/watch?v=_CIL2g1oMSQ)**
+
+Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookLM Tricks to 3X Productivity here: ...
+
+📺 Matt Wolfe
+
+👁️ 40K • 👍 2K • 💬 154 • ⏱️ 33:50 • 18h ago
 
 ---
 
@@ -333,7 +363,7 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 27K • 👍 1K • 💬 99 • ⏱️ 1:11:08 • 1d ago
+👁️ 28K • 👍 1K • 💬 98 • ⏱️ 1:11:08 • 1d ago
 
 ---
 
@@ -343,35 +373,7 @@ On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI
 
 📺 Tom Bilyeu Clips
 
-👁️ 16K • 👍 339 • 💬 63 • ⏱️ 8:38 • 1d ago
-
----
-
-**[&quot;You Built A MONSTER!&quot; - Anthropic WARNS Of Massive Chinese AI Copying Operation](https://www.youtube.com/watch?v=M9Sw-7FY6Vo)**
-
-Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks on its Claude models, and the panel breaks down ...
-
-📺 Valuetainment
-
-👁️ 89K • 👍 2K • 💬 237 • ⏱️ 17:39 • 2d ago
-
----
-
-**[Economist explains what happens after AI takes all jobs](https://www.youtube.com/watch?v=qflh4GKbmVQ)**
-
-Anton Korinek talks about the effects of automation on wages and labor, how we measure the complexity of tasks, the economics ...
-
-📺 Future of Life Institute
-
-👁️ 46K • 👍 973 • 💬 553 • ⏱️ 22:41 • 1d ago
-
----
-
-**[REAL or Ai?? 🤔](https://www.youtube.com/watch?v=y6o7ZW7Ma6k)**
-
-📺 Liv Swearingen (LIV)
-
-👁️ 966K • 👍 25K • 💬 4K • ⏱️ 0:18 • 18h ago
+👁️ 16K • 👍 344 • 💬 63 • ⏱️ 8:38 • 1d ago
 
 ---
 
@@ -387,7 +389,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 378,228 • ❤️ 652 • 1d ago
+⬇️ 378,228 • ❤️ 657 • 1d ago
 
 ---
 
@@ -399,7 +401,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 172,154 • ❤️ 422 • 3d ago
+⬇️ 172,154 • ❤️ 425 • 3d ago
 
 ---
 
@@ -415,18 +417,6 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 ---
 
-**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
-
-*Qwen*
-
-Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
-
-`image-text-to-text` `403.4B`
-
-⬇️ 889,203 • ❤️ 1,119 • 4d ago
-
----
-
 **[Qwen3.5-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF)**
 
 *Unsloth AI*
@@ -435,7 +425,19 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 331 • 15h ago
+⬇️ 350,233 • ❤️ 338 • 16h ago
+
+---
+
+**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
+
+*Qwen*
+
+Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
+
+`image-text-to-text` `403.4B`
+
+⬇️ 889,203 • ❤️ 1,120 • 4d ago
 
 ---
 
@@ -447,7 +449,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 310,641 • ❤️ 898 • 2d ago
+⬇️ 310,641 • ❤️ 900 • 2d ago
 
 ---
 
@@ -471,7 +473,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,997 • ❤️ 225 • 3d ago
+⬇️ 1,997 • ❤️ 230 • 3d ago
 
 ---
 
@@ -483,7 +485,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 305,031 • ❤️ 1,034 • 12d ago
+⬇️ 305,031 • ❤️ 1,035 • 12d ago
 
 ---
 
@@ -495,13 +497,25 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 203 • 3d ago
+⬇️ 8,049 • ❤️ 204 • 3d ago
 
 ---
 
 ---
 
 ## HuggingFace Papers: 🔥 Trending
+
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+
+▲ 15 • 💬 1 • ⭐ 6,074 • 5mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
 
 **[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
@@ -527,18 +541,6 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
-
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
-
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
-
-▲ 15 • 💬 1 • ⭐ 5,836 • 5mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
-
----
-
 **[SmolDocling: An ultra-compact vision-language model for end-to-end
   multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
 
@@ -548,7 +550,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 148 • 💬 19 • ⭐ 54,359 • 11mo ago
+▲ 148 • 💬 19 • ⭐ 54,406 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -564,18 +566,6 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 ▲ 38 • 💬 1 • ⭐ 71,484 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
-**[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
-
-*Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
-
-A preference-aligned routing framework using a compact 1.5B model effectively matches queries to user-defined domains and action types, outperforming proprietary models in subjective evaluation criteria.
-
-▲ 17 • 💬 2 • ⭐ 5,768 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2506.16655) • [💻 code](https://github.com/katanemo/archgw) • [🔗 project](https://huggingface.co/katanemo/Arch-Router-1.5B)
 
 ---
 
@@ -602,6 +592,18 @@ A large language model adapted for time-series forecasting achieves near-optimal
 ▲ 15 • 💬 1 • ⭐ 9,886 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
+**[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
+
+*Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
+
+A preference-aligned routing framework using a compact 1.5B model effectively matches queries to user-defined domains and action types, outperforming proprietary models in subjective evaluation criteria.
+
+▲ 17 • 💬 2 • ⭐ 5,781 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2506.16655) • [💻 code](https://github.com/katanemo/archgw) • [🔗 project](https://huggingface.co/katanemo/Arch-Router-1.5B)
 
 ---
 
@@ -641,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.8k • 🔱 2.6k • 2h ago
+⭐ 20.9k • 🔱 2.6k • 4m ago
 
 ---
 
@@ -659,7 +661,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.8k • 🔱 709 • 7h ago
+⭐ 5.9k • 🔱 710 • 7h ago
 
 ---
 
@@ -669,7 +671,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.3k • 🔱 245 • 2d ago
+⭐ 4.3k • 🔱 247 • 2d ago
 
 ---
 
@@ -689,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 471 • 9h ago
+⭐ 3.6k • 🔱 473 • 9h ago
 
 ---
 
@@ -699,7 +701,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 317 • 2h ago
+⭐ 3.0k • 🔱 318 • 1h ago
 
 ---
 
@@ -709,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 211 • 9h ago
+⭐ 2.9k • 🔱 212 • 9h ago
 
 ---
 
@@ -719,17 +721,17 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 553 • 18h ago
+⭐ 2.9k • 🔱 555 • 2h ago
 
 ---
 
-**[nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)**
+**[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)**
 
-Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
+Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 
-`Zig` `ai` `assistant` `personal` `zig`
+`Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 2.7k • 🔱 332 • 9h ago
+⭐ 2.8k • 🔱 216 • 1h ago
 
 ---
 

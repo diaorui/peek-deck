@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T11:20:39.350655+00:00'
+updated: '2026-02-28T11:42:44.500716+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - news
 - videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 11:20 UTC  
+**Last Updated:** February 28, 2026 at 11:42 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $224.24B
+**Market Cap:** $225.93B
 Rank #2
 
 **Circulating Supply:** 120,692,248 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--62.4%
+-62.2%
 
 **All-Time Low:** $0.43
-+429519.0%
++431766.2%
 
 ---
 
@@ -112,7 +112,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
 
-17h ago
+18h ago
 
 ---
 
@@ -128,7 +128,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 19h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 20h ago
 
 ---
 
@@ -144,7 +144,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common security issues in ZK circuits. YAML-defined pattern packs (regex, fancyregex, literal) Optional semantic pass (--semantic) for cross-line checks CLI + library API SARIF/JSON/text outputs for CI workflows Current integration matrix: 16 vulnerable fixtures + 10 safe controls Repo: https://github.com/Teycir/ZkPatternMatcher
 
-19h ago
+20h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common se
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 18h ago
+CoinDesk • 19h ago
 
 ---
 
@@ -218,7 +218,7 @@ TradingView • 3h ago
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
-Decrypt • 17h ago
+Decrypt • 18h ago
 
 ---
 
@@ -226,13 +226,23 @@ Decrypt • 17h ago
 
 Ethereum and Bitcoin options valued at $8.7 billion are about to expire on the leading derivatives exchange, Deribit. This development could increase the volatility of both cryptocurrencies amid the ongoing bearish outlook of their prices.Ethereum and Bitcoin options max pain levelIn a new update…
 
-TradingView • 19h ago
+TradingView • 20h ago
 
 ---
 
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g-53iOp3BHs)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 412 • 👍 36 • 💬 1 • ⏱️ 4:49 • 1h ago
+
+---
 
 **[🚨 BTC &amp; ETH: TOTAL EMERGENCY WARNING!!!!!](https://www.youtube.com/watch?v=KebuS69kOj8)**
 
@@ -241,6 +251,56 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 📺 Thomas Kralow
 
 👁️ 33K • 👍 3K • 💬 52 • ⏱️ 5:59 • 2d ago
+
+---
+
+**[Tom Lee: The Dark Truth About What&#39;s REALLY Happening With Crypto (New 2026 Prediction)](https://www.youtube.com/watch?v=UbCbRrPUimU)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 7K • 👍 335 • 💬 14 • ⏱️ 21:26 • 20h ago
+
+---
+
+**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
+
+BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 7K • 👍 252 • 💬 17 • ⏱️ 20:17 • 14h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=hxeMnO7u2xM)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 137 • 💬 5 • ⏱️ 4:56 • 17h ago
+
+---
+
+**[Why Ethereum Isn&#39;t Bitcoin&#39;s Little Brother: Sharplink CEO](https://www.youtube.com/watch?v=pvG3sBnPjZE)**
+
+Ethereum has long been compared to Bitcoin — but according to Sharplink CEO and former BlackRock digital assets leader ...
+
+📺 Coinage
+
+👁️ 10K • 👍 242 • 💬 61 • ⏱️ 21:21 • 2d ago
+
+---
+
+**[Mike Novogratz Just Said The UNTHINKABLE About Bitcoin &amp; Ethereum (New 2026 Prediction)](https://www.youtube.com/watch?v=uTA9oOb3K1s)**
+
+Mike Novogratz just dropped a WARNING that should terrify every American investor. The Galaxy Digital CEO revealed what ...
+
+📺 Money Talks
+
+👁️ 1K • 👍 35 • 💬 3 • ⏱️ 14:30 • 1d ago
 
 ---
 
@@ -254,63 +314,13 @@ BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=hxeMnO7u2xM)**
+**[28 February Today Crypto Live Trading | @bullishbullmaster #bitcoin #ethereum #cryptotrading #gold](https://www.youtube.com/watch?v=0vdnppxrUvQ)**
 
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+ALL TRADING PLATFORMS Telegram Link https://telegram.me/bullishbull Join Whatsapp Channel ...
 
-📺 More Crypto Online
+📺 Bullish Bull Master
 
-👁️ 2K • 👍 136 • 💬 5 • ⏱️ 4:56 • 17h ago
-
----
-
-**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
-
-BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 6K • 👍 237 • 💬 17 • ⏱️ 20:17 • 14h ago
-
----
-
-**[Why Ethereum Isn&#39;t Bitcoin&#39;s Little Brother: Sharplink CEO](https://www.youtube.com/watch?v=pvG3sBnPjZE)**
-
-Ethereum has long been compared to Bitcoin — but according to Sharplink CEO and former BlackRock digital assets leader ...
-
-📺 Coinage
-
-👁️ 10K • 👍 241 • 💬 60 • ⏱️ 21:21 • 2d ago
-
----
-
-**[BITCOIN &amp; ALTCOIN TRAP: DON&#39;T BE FOOLED!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=oQoO09k8SNw)**
-
-BITCOIN & ALTCOIN TRAP: DON'T BE FOOLED!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* https://bit.ly/TOOBIT ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 321 • 💬 51 • ⏱️ 17:34 • 1d ago
-
----
-
-**[Ethereum&#39;s Pain: Are We Near the Bottom? #shorts](https://www.youtube.com/watch?v=8cKervhGPec)**
-
-Ethereum struggles below $2000 with most holders underwater. Realized price at $2241 vs. current $1950 means a 22% loss for ...
-
-📺 MONEY GAME
-
-👁️ 88 • 👍 4 • 💬 2 • ⏱️ 1:31 • 17h ago
-
----
-
-**[Has the Crypto Relief Rally Started? Bitcoin, Ethereum, XRP, Solana, &amp; Uniswap Analysis!](https://www.youtube.com/watch?v=dMPbI-GSr94)**
-
-Brian from Santiment joined me to review the Onchain metrics for the crypto market. We conduct analysis on Bitcoin, Ethereum, ...
-
-📺 Thinking Crypto
-
-👁️ 2K • 👍 171 • 💬 68 • ⏱️ 23:27 • 1d ago
+👁️ 6K • 👍 564 • 2h ago
 
 ---
 
@@ -320,17 +330,7 @@ We've got some major shake ups happening in the crypto market right now. it seem
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 724 • 💬 64 • ⏱️ 29:34 • 1d ago
-
----
-
-**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=UL3x5TsdxhA)**
-
-Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #crypto #altcoins ▶️ Watch the full episode: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 1K • 👍 14 • ⏱️ 0:54 • 1d ago
+👁️ 6K • 👍 731 • 💬 65 • ⏱️ 29:34 • 1d ago
 
 ---
 

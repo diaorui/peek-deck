@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T11:20:39.344683+00:00'
+updated: '2026-02-28T11:42:44.494712+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 11:20 UTC  
+**Last Updated:** February 28, 2026 at 11:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1274.23B
+**Market Cap:** $1281.90B
 Rank #1
 
-**Circulating Supply:** 19,995,859 BTC
+**Circulating Supply:** 19,995,903 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--49.3%
+-49.2%
 
 **All-Time Low:** $67.81
-+94114.7%
++94343.3%
 
 ---
 
@@ -87,13 +87,13 @@ Rank #1
 
 While stocks, bonds, and forex were all closed, crypto ate the full geopolitical shock alone. $250M liquidated in hours. Think about that. Every other asset class had circuit breakers, closed markets, and time to digest. BTC was the only thing trading and it absorbed the entire global panic by itself. Last week we had $507M in ETF inflows, BTC bouncing to $68k, sentiment recovering from 5 to 11. One airstrike and we're back to $63k. This is the double-edged sword of 24/7 markets. You get liquidity when no one else does — but you also get hit first. Monday is going to be wild when traditional markets open. If stocks tank, BTC probably goes lower. If stocks shrug it off, this was the dip. Not panicking. Just watching the data. DYOR.
 
-30m ago
+52m ago
 
 ---
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -159,7 +159,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ The New York Times • 2d ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-KING5.com • 15h ago
+KING5.com • 16h ago
 
 ---
 
@@ -215,7 +215,7 @@ TradingView • 13h ago
 
 Tehran launched waves of missiles and drones targeting Israel, U.S. bases, and Gulf allies, with explosions reported in Dubai, Kuwait, and Bahrain.
 
-CoinDesk • 52m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -223,7 +223,7 @@ CoinDesk • 52m ago
 
 Bitcoin's volatility makes it difficult to predict over the short term. But it's a different story over the long haul.
 
-The Motley Fool • 4h ago
+The Motley Fool • 5h ago
 
 ---
 
@@ -313,7 +313,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 449K • 👍 16K • 💬 1K • ⏱️ 18:56 • 18h ago
+👁️ 471K • 👍 17K • 💬 1K • ⏱️ 18:56 • 18h ago
 
 ---
 
@@ -323,7 +323,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 607 • ⏱️ 22:53 • 13h ago
+👁️ 18K • 👍 639 • ⏱️ 22:53 • 13h ago
 
 ---
 
@@ -333,27 +333,7 @@ Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDa
 
 📺 Altcoin Daily
 
-👁️ 48K • 👍 3K • 💬 131 • ⏱️ 13:24 • 1d ago
-
----
-
-**[Bitcoin Under Pressure as Layoffs Surge and AI Uncertainty Spreads](https://www.youtube.com/watch?v=6zO05z_J7T4)**
-
-Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face a new wave of uncertainty. Mass layoffs across ...
-
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 672 • 💬 178 • ⏱️ 25:02 • 20h ago
-
----
-
-**[Bitcoin Holders, This Is Wild (Breaking News)](https://www.youtube.com/watch?v=OdPd3ZKntwU)**
-
-Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
-
-📺 Aaron Bennett
-
-👁️ 33K • 👍 1K • 💬 208 • ⏱️ 8:26 • 2d ago
+👁️ 49K • 👍 3K • 💬 131 • ⏱️ 13:24 • 1d ago
 
 ---
 
@@ -363,7 +343,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 8K • 👍 426 • 💬 74 • ⏱️ 14:04 • 11h ago
+👁️ 9K • 👍 461 • 💬 83 • ⏱️ 14:04 • 11h ago
 
 ---
 
@@ -377,13 +357,13 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://
 
 ---
 
-**[no one tells you about this chart #bitcoin](https://www.youtube.com/watch?v=4flQEj6WK50)**
+**[Billions Incoming To Bitcoin! The Big News Behind the Fear](https://www.youtube.com/watch?v=QiKC3Or-ztI)**
 
-Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
+Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Altcoin Daily
+📺 Lark Davis
 
-👁️ 10K • 👍 315 • 💬 10 • ⏱️ 1:07 • 1d ago
+👁️ 17K • 👍 853 • 💬 51 • ⏱️ 16:32 • 23h ago
 
 ---
 
@@ -393,17 +373,35 @@ Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium 
 
 📺 Benjamin Cowen
 
-👁️ 60K • 👍 4K • 💬 178 • ⏱️ 12:57 • 1d ago
+👁️ 60K • 👍 4K • 💬 184 • ⏱️ 12:57 • 1d ago
 
 ---
 
-**[Cops STOLE Bitcoin!?](https://www.youtube.com/watch?v=Ix4GTZN0_Eg)**
+**[Bitcoin Was Built To Escape The Rigged System — They Just Built The Cage Around It](https://www.youtube.com/watch?v=Z3yijeoB8Sg)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+Wall Street Just Took Over Bitcoin... Is This Game Over? In today's timely deep dive, we're peeling back the curtain on the latest ...
+
+📺 Tom Bilyeu
+
+👁️ 47K • 👍 2K • 💬 540 • ⏱️ 19:33 • 10h ago
+
+---
+
+**[How Wall Street Can Manipulate Bitcoin](https://www.youtube.com/watch?v=w6LZUaCo50w)**
+
+📺 Andrei Jikh
+
+👁️ 68K • 👍 2K • 💬 132 • ⏱️ 1:18 • 1d ago
+
+---
+
+**[HUGE Bitcoin BUY Signal Flashes](https://www.youtube.com/watch?v=5v2EdldIVwo)**
+
+Nick Valdez looks at an insanely accurate Bitcoin signal that says “THE BOTTOM IS IN!” We are currently at the moment that ...
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 49 • 💬 2 • ⏱️ 1:55 • 16h ago
+👁️ 9K • 👍 442 • 💬 82 • ⏱️ 7:23 • 1d ago
 
 ---
 
