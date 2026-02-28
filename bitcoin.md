@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T16:28:23.040404+00:00'
+updated: '2026-02-28T16:51:28.730782+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 16:28 UTC  
+**Last Updated:** February 28, 2026 at 16:51 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-3h ago
+4h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
 
-4h ago
+5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Cash app offers a map that shows where bitcoin is accepted at local stores, my city has quite a bit of places!
 
-11h ago
+12h ago
 
 ---
 
@@ -149,7 +149,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
 
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 18h ago
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 19h ago
 
 ---
 
@@ -159,29 +159,21 @@ Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus elec
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 2h ago
+Bloomberg • 5h ago
 
 ---
 
-**[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqcgttDqqkYECo-NPcszlOuYx3aO-tBuYGDBohNhXw6SLofiP0YpRbr6&gaa_ts=69a310f5&gaa_sig=n6lPrG8RF9dcWC4hxfJtdDo8KHHMpF8ZuuBiqRZKyInOgSO-G2Nj1ydmrUQJSoxwEjNPcMLekqzE0NsZCwPJgg%3D%3D)**
+**[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqel0z4n0eh3vGl3ofOwm-Vt4iSMqKdyyJ9HCDe7YVIyxAPXCSJQvUUJ&gaa_ts=69a32023&gaa_sig=d54BUJIlLhr3W3Y1CJb9iTCIQgHHsZFkg1KIojfEID7lFZPI3lpW5KpnmOoXQwbN-vfFs1pfzywu6Se1vg8FgQ%3D%3D)**
 
 MarketWatch • 7h ago
 
 ---
 
-**[Bitcoin slides below $64,000 after US and Israel strikes on Iran](https://www.bostonglobe.com/2026/02/28/business/bitcoin-slides-below-64000-after-us-and-israel-strikes-on-iran/)**
+**[Bitcoin Plunges as US and Israel Launch Military Strike on Iran](https://finance.yahoo.com/news/bitcoin-plunges-us-israel-launch-071531337.html)**
 
-Bitcoin and other digital assets fell sharply after the US and Israel began striking targets across Iran on Saturday.
+US and Israel launch joint strikes on Iran, declaring a state of emergency. Bitcoin plunges over 6% as war fears shake global markets.
 
-The Boston Globe • 5h ago
-
----
-
-**[Bitcoin's hard fork proposal to get back $5 billion in stolen Mt. Gox funds sees no takers](https://www.coindesk.com/tech/2026/02/28/former-mt-gox-ceo-proposed-a-rewrite-of-bitcoin-s-code-to-recover-usd5-billion-in-stolen-funds-gets-quickly-shutdown)**
-
-Mark Karpelès submitted a pull request to Bitcoin Core that would redirect coins that have remained untouched since 2011 to a recovery address controlled by the MtGox trustee, reigniting the oldest debate in Bitcoin.
-
-CoinDesk • 1h ago
+Yahoo Finance • 9h ago
 
 ---
 
@@ -189,15 +181,43 @@ CoinDesk • 1h ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-king5.com • 20h ago
+KING5.com • 21h ago
 
 ---
 
-**[ETH, SOL, XRP price news: Bitcoin slides Friday after Nvidia's earning pullback](https://www.coindesk.com/markets/2026/02/27/bitcoin-slides-friday-as-risk-off-mood-persists-but-majors-hold-weekly-gains)**
+**[Bitcoin price news: BTC slides to $65,000, Solana, XRP, dogecoin down 6%](https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-to-usd65-000-in-weekend-sell-off-with-solana-xrp-dogecoin-down-6)**
 
-Analysts say the latest drop appears to be a leverage flush and positioning cleanup rather than a structural trend reversal
+The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.
 
-CoinDesk • 1d ago
+CoinDesk • 12h ago
+
+---
+
+**[Bitcoin's five-month slide: why BTC is set for worst losing streak since 2018](https://www.coindesk.com/markets/2026/02/27/bitcoin-set-for-worst-5-month-streak-since-2018-as-usd3-8-billion-etf-outflows-mount)**
+
+Down more than 50% from its peak, bitcoin is diverging from stocks as geopolitical tensions, tariffs and ETF outflows deepen its slump, analysts told CoinDesk.
+
+CoinDesk • 3h ago
+
+---
+
+**[Bitcoin Sinks Towards $65,000 as Inflation Douses Risk Appetite](https://www.bloomberg.com/news/articles/2026-02-27/bitcoin-sinks-towards-65-000-as-inflation-douses-risk-appetite)**
+
+Bloomberg • 19h ago
+
+---
+
+**[Former Mt. Gox CEO proposes hard fork to recover $5.2 billion in bitcoin from 2011 theft](https://www.theblock.co/post/391635/former-mt-gox-ceo-proposes-hard-fork-recover-5-2-billion-bitcoin-2011-theft)**
+
+The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
+
+The Block • 19h ago
+
+---
+
+**[I’m buying this Bitcoin dip every day: Money Talks](https://www.cleveland.com/business/2026/02/im-buying-this-bitcoin-dip-every-day-money-talks.html)**
+
+Cleveland.com • 6h ago
 
 ---
 
@@ -206,26 +226,6 @@ CoinDesk • 1d ago
 A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
 
 The Block • 1d ago
-
----
-
-**[Bitcoin Miner MARA, Starwood Partner to Develop AI Data Centers](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-mara-starwood-partner-to-develop-ai-data-centers)**
-
-Bloomberg.com • 1d ago
-
----
-
-**[MARA Surges On Data Center Partnership, AI Plans. Crypto Plays Report.](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
-
-Investor's Business Daily • 19h ago
-
----
-
-**[Sora Ventures-Backed Bitplanet Reaches 300 Bitcoin, Ranks Among Asia’s Top 20 Corporate Holders](https://bitcoinmagazine.com/news/sora-backed-bitplanet-reaches-300)**
-
-Bitplanet now owns 300 bitcoin through its structured purchase program, positioning the South Korea-listed company among the top 20 corporate Bitcoin holders in Asia.
-
-Bitcoin Magazine • 20h ago
 
 ---
 
@@ -251,7 +251,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 3 • 💬 0 • 6h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 3 • 💬 0 • 7h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea wha
 
 📺 Edwards Economics
 
-👁️ 27K • 👍 1K • 💬 353 • ⏱️ 28:23 • 17h ago
+👁️ 27K • 👍 1K • 💬 353 • ⏱️ 28:23 • 18h ago
 
 ---
 
@@ -365,7 +365,7 @@ Wall Street Just Took Over Bitcoin... Is This Game Over? In today's timely deep 
 
 📺 Tom Bilyeu
 
-👁️ 65K • 👍 3K • 💬 753 • ⏱️ 19:33 • 14h ago
+👁️ 65K • 👍 3K • 💬 753 • ⏱️ 19:33 • 15h ago
 
 ---
 
@@ -375,7 +375,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 8K • 👍 421 • 💬 56 • ⏱️ 12:38 • 5h ago
+👁️ 8K • 👍 421 • 💬 56 • ⏱️ 12:38 • 6h ago
 
 ---
 

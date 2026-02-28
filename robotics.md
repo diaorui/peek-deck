@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T16:28:23.049743+00:00'
+updated: '2026-02-28T16:51:28.740067+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 16:28 UTC  
+**Last Updated:** February 28, 2026 at 16:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -72,7 +72,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -80,7 +80,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
 
-4h ago
+5h ago
 
 ---
 
@@ -96,13 +96,13 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Serious Question. Been considering deigning a back drivable actuator that uses STS protocol and a brushed DC motor (similar to feetech servos) instead of a brushless motor. I wanted to create a cheaper option for back drivable joints in hobbyist robotics project. But I also want to get a more experienced opinion first. Would it even be worth it? Other than motor efficiency, what would be the drawbacks or reasons why I should not pursue?
 
-1h ago
+2h ago
 
 ---
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -132,14 +132,6 @@ CNBC • 2d ago
 
 ---
 
-**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
-
-In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
-
-CNBC • 3h ago
-
----
-
 **[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
 
 Intrinsic is focused on making robots easier to program, teach, and operate.
@@ -148,7 +140,15 @@ The Verge • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdRImbbkmncAFH0rDpsaTr1pKqra_AGRf8FEyZZccT2Lc4Za7HZg6LW&gaa_ts=69a310f8&gaa_sig=CzqO88HSPfuN_zO8yto-eJZQBbiP9jPLKMdc3mh9kcFufjRPGtb3KMGB0jzc9ItEFInA-2v5A38sL7dunvJ7Ww%3D%3D)**
+**[Alphabet-owned robotics software company Intrinsic joins Google](https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/)**
+
+Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
+
+TechCrunch • 2d ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqd44-ry2fc1aK9altX4RMX1YTCVRf4CstGzEgcE_WSuEknZpsqI_5Zd&gaa_ts=69a32080&gaa_sig=R7qzoIJ4EZS_dqu_KrFQv9bDanSwcFpb9p90DiPfKbU1pRndFrOOrSW-gBpEPfAeLxt5OMqNDdDqJSI3AkXS2g%3D%3D)**
 
 WSJ • 18h ago
 
@@ -164,7 +164,7 @@ Automotive News • 1d ago
 
 **[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -176,11 +176,9 @@ Financial Times • 1d ago
 
 ---
 
-**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
+**[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
-
-Fortune • 2d ago
+MSN • 18h ago
 
 ---
 
@@ -242,7 +240,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Robot Julie 
 
-👁️ 27K • 👍 111 • 💬 3 • ⏱️ 0:21 • 15h ago
+👁️ 27K • 👍 111 • 💬 3 • ⏱️ 0:21 • 16h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T16:28:23.031797+00:00'
+updated: '2026-02-28T16:51:28.722479+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
-- repositories
 - news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 16:28 UTC  
+**Last Updated:** February 28, 2026 at 16:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -95,7 +95,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 "Scientists have been working on devices capable of communicating directly with the human brain – know as brain computer interfaces (BCIs) – for a surprisingly long time. In 1969, the American neuroscientist Eberhard Fetz demonstrated that monkeys could learn to move the needle of a meter with the activity of a single neuron in their brains if they were given a food pellet in return. In a more idiosyncratic experiment from the same period, Spanish scientist Jose Delgado was able to remotely stimulate the brain of an enraged bull, causing it to halt mid-charge. BCIs have been able to decode the brain signals that accompany movement so that users can control a prosthetic limb or a cursor on a screen for decades. But BCIs that translate speech signals or other complex thoughts from brain signals have been slower to evolve. "A lot of early work was done on non-human primates… and obviously, with monkeys you cannot study speech," says Wairagkar. In recent years, however, the field has made impressive advances in its efforts to decode the speech of people with impaired communication capabilities – for example, patients suffering from ALS resulting in paralysis or "locked in" syndrome. Stanford University researchers announced in 2021, for example, a successful proof-of-concept that allowed a quadriplegic man to produce English sentences by picturing himself drawing letters in the air with his hand. Using this method, he was able to write 18 words per minute. Natural human speech is about 150 words per minute, so the next stage was decoding words from the neural activity associated with speech itself. In 2024, Wairagkar's lab trialled a technique that translated the attempted speech of a 45-year-old man with ALS directly into text on a computer screen. Achieving approximately 32 words per minute with 97.5% accuracy, this was the first demonstration of how speech BCIs could aid everyday communication, says Wairagkar. These methods rely on tiny "arrays" of microelectrodes which are surgically implanted in the brain's surface. The arrays record patterns of neural activity from the area of the brain they are placed in, with the signals are converted into meaning by a computer algorithm. It is here that the power of machine learning, a type of artificial intelligence has been transformative. These algorithms are adept at recognising patterns from vast amounts of disparate data. In the case of decoding speech, the machine learning algorithms are trained to recognise patterns of neural activity associated with different phonemes, the smallest building blocks of language. Researchers have compared this to the processing that takes place in smart assistants like Amazon's Alexa. But instead of interpreting sounds, the AI interprets neural signals."
 
-🔗 [bbc.com](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) • 6h ago
+🔗 [bbc.com](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) • 7h ago
 
 ---
 
@@ -103,7 +103,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 19h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 20h ago
 
 ---
 
@@ -121,15 +121,15 @@ I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok,
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 10h ago
+The New York Times • 11h ago
 
 ---
 
-**[Trump orders government to stop using Anthropic in battle over AI use](https://www.bbc.com/news/articles/cn48jj3y8ezo)**
+**[Trump has ordered government agencies to stop using Anthropic AI tools](https://www.bbc.com/news/articles/cn48jj3y8ezo)**
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -149,35 +149,11 @@ The Guardian • 6h ago
 
 ---
 
-**[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
+**[Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey)**
 
-Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
+Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
 
-CNN • 8h ago
-
----
-
-**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
-
-The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
-
-NBC News • 4h ago
-
----
-
-**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
-
-From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
-
-Fortune • 6h ago
-
----
-
-**[AI just leveled up and there are no guardrails anymore](https://www.cnbc.com/2026/02/28/ai-selloff-politics-agents.html)**
-
-CNBC's Deirdre Bosa goes inside the AI-driven market meltdown, the political fight, and the race that's moving faster than anyone can govern.
-
-CNBC • 3h ago
+CNN • 1d ago
 
 ---
 
@@ -194,6 +170,30 @@ Yahoo Finance • 3h ago
 After the Trump administration cut it off, Anthropic CEO Dario Amodei told CBS News in an exclusive interview Friday night he wants to work with the military — but only if it addresses the firm's concerns.
 
 CBS News • 1h ago
+
+---
+
+**[OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055)**
+
+On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
+
+NBC News • 19h ago
+
+---
+
+**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
+
+In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
+
+CNBC • 3h ago
+
+---
+
+**[DeepSeek to release long-awaited AI model in new challenge to US rivals](https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e)**
+
+Chinese AI group has worked with Huawei to cut reliance on Nvidia chips
+
+Financial Times • 15h ago
 
 ---
 
@@ -219,7 +219,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 183 • 💬 101 • 3h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 183 • 💬 101 • 4h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -327,7 +327,7 @@ The clash between Anthropic and the U.S. government escalated with President Tru
 
 📺 PBS NewsHour
 
-👁️ 24K • 👍 430 • ⏱️ 6:53 • 16h ago
+👁️ 24K • 👍 430 • ⏱️ 6:53 • 17h ago
 
 ---
 
@@ -367,7 +367,7 @@ Patreon Link: https://www.patreon.com/user?u=92507128 Get $25 of FREE Stock on S
 
 📺 Ale's World of Stocks
 
-👁️ 600 • 👍 74 • 💬 42 • ⏱️ 18:39 • 1h ago
+👁️ 600 • 👍 74 • 💬 42 • ⏱️ 18:39 • 2h ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 350 • 20h ago
+⬇️ 350,233 • ❤️ 350 • 21h ago
 
 ---
 
@@ -645,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.0k • 🔱 2.6k • 7m ago
+⭐ 21.0k • 🔱 2.6k • 31m ago
 
 ---
 
@@ -663,7 +663,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.9k • 🔱 711 • 12h ago
+⭐ 5.9k • 🔱 711 • 13h ago
 
 ---
 
@@ -713,7 +713,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.0k • 🔱 230 • 3h ago
+⭐ 3.0k • 🔱 230 • 4h ago
 
 ---
 
@@ -723,7 +723,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 212 • 2h ago
+⭐ 2.9k • 🔱 212 • 3h ago
 
 ---
 
@@ -733,7 +733,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 556 • 6h ago
+⭐ 2.9k • 🔱 556 • 7h ago
 
 ---
 
