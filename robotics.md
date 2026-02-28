@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T07:28:40.319182+00:00'
+updated: '2026-02-28T07:48:35.822342+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 07:28 UTC  
+**Last Updated:** February 28, 2026 at 07:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -56,7 +56,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -70,7 +70,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -154,7 +154,7 @@ Bloomberg.com • 1d ago
 
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 8h ago
+MSN • 9h ago
 
 ---
 
@@ -252,7 +252,7 @@ Arduino Based Projects #arduinoprojects #arduinouno #robotics #robot #light #sta
 
 📺 EAZYTRONIC
 
-👁️ 29K • 👍 111 • 💬 1 • ⏱️ 0:09 • 18h ago
+👁️ 29K • 👍 111 • 💬 1 • ⏱️ 0:09 • 19h ago
 
 ---
 
@@ -272,7 +272,7 @@ As China enters the first year of its 15th Five-Year Plan, what once seemed futu
 
 📺 CGTN
 
-👁️ 11K • 👍 127 • 💬 12 • ⏱️ 5:27 • 22h ago
+👁️ 11K • 👍 127 • 💬 12 • ⏱️ 5:27 • 23h ago
 
 ---
 

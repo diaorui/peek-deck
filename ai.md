@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T07:28:40.303606+00:00'
+updated: '2026-02-28T07:48:35.804842+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - news
 - repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 07:28 UTC  
+**Last Updated:** February 28, 2026 at 07:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -63,7 +63,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Imported chips and hardware mean the AI investments are translating into US GDP growth.
 
-🔗 [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380) • 5h ago
+🔗 [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380) • 6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Quick summary of an independent preprint I just published: Question: Does the re
 
 The co-author of the viral Citrini AI report sounds the alarm about the state of white-collar labor after a financial services firm abruptly slashed its
 
-🔗 [CapitalAI Daily](https://www.capitalaidaily.com/co-author-of-citrini-ai-report-warns-of-scary-situation-for-white-collar-labor-after-block-laid-off-4000-workers/) • 4h ago
+🔗 [CapitalAI Daily](https://www.capitalaidaily.com/co-author-of-citrini-ai-report-warns-of-scary-situation-for-white-collar-labor-after-block-laid-off-4000-workers/) • 5h ago
 
 ---
 
@@ -111,7 +111,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-15h ago
+16h ago
 
 ---
 
@@ -121,7 +121,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 1h ago
+The New York Times • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 3h ago
 
 Readers agree with the column about the dangers of AI, react to the recent news about Frisco’s concerns about immigrants, tout a STEM education and want...
 
-Dallas News • 57m ago
+Dallas News • 1h ago
 
 ---
 
@@ -183,7 +183,7 @@ WSJ • 10h ago
 
 Hours after exclusion of Anthropic, OpenAI announces fresh Pentagon deal, but says it will maintain same safety guardrails at the heart of the dispute
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -201,7 +201,7 @@ Politico • 3h ago
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 597 • 💬 570 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 598 • 💬 570 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
@@ -245,7 +245,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 98 • 💬 28 • 4h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 129 • 💬 40 • 4h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -341,7 +341,7 @@ cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cut
 
 📺 Sleep Time Tales
 
-👁️ 5K • 💬 1 • ⏱️ 0:08 • 1h ago
+👁️ 5K • 💬 1 • ⏱️ 0:08 • 2h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 258,764 • ❤️ 646 • 21h ago
+⬇️ 258,764 • ❤️ 646 • 22h ago
 
 ---
 
@@ -435,7 +435,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 264,531 • ❤️ 325 • 11h ago
+⬇️ 264,531 • ❤️ 325 • 12h ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.7k • 🔱 2.6k • 54m ago
+⭐ 20.7k • 🔱 2.6k • 1h ago
 
 ---
 
@@ -659,7 +659,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.7k • 🔱 699 • 3h ago
+⭐ 5.7k • 🔱 699 • 4h ago
 
 ---
 
@@ -709,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 211 • 5h ago
+⭐ 2.9k • 🔱 211 • 6h ago
 
 ---
 
@@ -729,7 +729,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 2.7k • 🔱 329 • 5h ago
+⭐ 2.7k • 🔱 329 • 6h ago
 
 ---
 

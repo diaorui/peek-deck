@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T07:28:40.311097+00:00'
+updated: '2026-02-28T07:48:35.813209+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - news
 - cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 07:28 UTC  
+**Last Updated:** February 28, 2026 at 07:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,600.49
+### $64,212.67
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 Sem brincadeira tava a anos estudando essa porra para entrar, entrei ontem, e parece que foi na hora certa.
 
-2h ago
+3h ago
 
 ---
 
@@ -141,7 +141,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-12h ago
+13h ago
 
 ---
 
@@ -149,7 +149,7 @@ If you know Bitcoin's true power and other people doubt it, it gives you long te
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 19h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 20h ago
 
 ---
 
@@ -169,7 +169,7 @@ Polymarket • 1d ago
 
 Blockstream CEO Adam Back told CNBC that Bitcoin (CRYPTO: BTC) lacks downside support because retail investors are “all in” with no cash left to buy dips, explaining the 25% year-to-date decline. The ‘All In’ Problem Back on Monday explained that...
 
-Yahoo Finance • 20h ago
+Yahoo Finance • 21h ago
 
 ---
 
@@ -177,7 +177,7 @@ Yahoo Finance • 20h ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-KING5.com • 11h ago
+KING5.com • 12h ago
 
 ---
 
@@ -393,7 +393,7 @@ Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 664 • 💬 176 • ⏱️ 25:02 • 16h ago
+👁️ 12K • 👍 664 • 💬 176 • ⏱️ 25:02 • 17h ago
 
 ---
 
