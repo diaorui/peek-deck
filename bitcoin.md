@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T05:40:46.370653+00:00'
+updated: '2026-02-28T06:40:15.188201+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- videos
 - social
 - news
-- videos
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 05:40 UTC  
+**Last Updated:** February 28, 2026 at 06:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,700.49
+### $64,600.49
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1316.27B
+**Market Cap:** $1275.43B
 Rank #1
 
 **Circulating Supply:** 19,995,778 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.8%
+-49.4%
 
 **All-Time Low:** $67.81
-+96938.8%
++93895.0%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-9h ago
+10h ago
 
 ---
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-18h ago
+19h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 Sem brincadeira tava a anos estudando essa porra para entrar, entrei ontem, e parece que foi na hora certa.
 
-1h ago
+2h ago
 
 ---
 
@@ -109,7 +109,7 @@ Sem brincadeira tava a anos estudando essa porra para entrar, entrei ontem, e pa
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-15h ago
+16h ago
 
 ---
 
@@ -117,7 +117,7 @@ A friend who has always been against Bitcoin asked me how to buy it. I feel that
 
 Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
 
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 7h ago
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 8h ago
 
 ---
 
@@ -133,7 +133,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-10h ago
+11h ago
 
 ---
 
@@ -141,7 +141,7 @@ If you know Bitcoin's true power and other people doubt it, it gives you long te
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 18h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 19h ago
 
 ---
 
@@ -181,25 +181,25 @@ The New York Times • 1d ago
 
 The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[Bitcoin Trading Patterns Show Unique 'U-Shaped' Structure](https://www.binance.com/en-KZ/square/post/296384643964386)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
 **[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqfaXd9QtEtcvR-xxwkm1Ybs243gn8t2YyViN0Pl_iWT9wwbDTNP8SQf&gaa_ts=69a28341&gaa_sig=V4bLwELcxK25nbtg39_egep0o24bbOiPsmkIz7BqlJ9JKMw7Ggs6joqukUBIQCLQ6mx-P-4UosvvKI_BJ8vlCg%3D%3D)**
 
-Barron's • 20h ago
+Barron's • 21h ago
 
 ---
 
 **[MARA Holdings Stock Surges. The Bitcoin Miner Is Moving Into AI.](https://www.barrons.com/articles/mara-holdings-earnings-stock-price-ai-e07c9341?gaa_at=eafs&gaa_n=AWEtsqfczoawIUqYFsljp2EKQvjoE2qaOe3NttDQ-O1P_EO0y9IfzkRDGyhp&gaa_ts=69a28341&gaa_sig=bV-B7gKGvV7P0DdxkCSdwbhXQpEEe6gXMJzQOGn1d5nDg4UfAYWwYFGDprI3JTh_GN5OvfNkTJlzipPFlk6AEg%3D%3D)**
 
-Barron's • 14h ago
+Barron's • 15h ago
 
 ---
 
@@ -221,7 +221,7 @@ Bloomberg.com • 1d ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-The Block • 8h ago
+The Block • 9h ago
 
 ---
 
@@ -311,7 +311,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 365K • 👍 14K • 💬 1K • ⏱️ 18:56 • 12h ago
+👁️ 416K • 👍 15K • 💬 1K • ⏱️ 18:56 • 13h ago
 
 ---
 
@@ -321,17 +321,27 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 508 • ⏱️ 22:53 • 7h ago
+👁️ 15K • 👍 575 • ⏱️ 22:53 • 8h ago
 
 ---
 
-**[Did BlackRock Use ETFs to Control Bitcoin’s Price?!](https://www.youtube.com/watch?v=OlKI9AuSpTA)**
+**[Is Bitcoin Going to $40K?](https://www.youtube.com/watch?v=0YEoRC3-SPo)**
 
-Is Jane Street the reason Bitcoin is not sitting at 150K right now? Massive claims of ETF manipulation, shorting strategies, and ...
+Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
-📺 Simply Bitcoin
+📺 Lark Davis
 
-👁️ 24K • 👍 2K • 💬 128 • ⏱️ 24:42 • 1d ago
+👁️ 6K • 👍 367 • 💬 63 • ⏱️ 14:04 • 6h ago
+
+---
+
+**[BITCOIN BEAR MARKET IS OVER](https://www.youtube.com/watch?v=CD0wAot-Jd0)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+
+📺 Discover Crypto
+
+👁️ 16K • 👍 133 • 💬 22 • ⏱️ 0:09 • 2d ago
 
 ---
 
@@ -341,27 +351,23 @@ Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Into 
 
 📺 Aaron Bennett
 
-👁️ 33K • 👍 1K • 💬 206 • ⏱️ 8:26 • 2d ago
+👁️ 33K • 👍 1K • 💬 207 • ⏱️ 8:26 • 2d ago
 
 ---
 
-**[Bitcoin Under Pressure as Layoffs Surge and AI Uncertainty Spreads](https://www.youtube.com/watch?v=6zO05z_J7T4)**
+**[AMAZING $225,000 BITCOIN INSANE XRPL ALLEGATION?! #crypto #xrp #bitcoin](https://www.youtube.com/watch?v=UuIwLFBj_kM)**
 
-Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face a new wave of uncertainty. Mass layoffs across ...
+📺 CryptoWendyO
 
-📺 The Wolf Of All Streets
-
-👁️ 12K • 👍 655 • 💬 174 • ⏱️ 25:02 • 15h ago
+👁️ 21K • 👍 977 • 💬 59 • ⏱️ 1:51 • 2d ago
 
 ---
 
-**[The Biggest Bitcoin Short Squeeze of 2026 Is Loading [Proof]](https://www.youtube.com/watch?v=4z0knsMozq4)**
+**[How Wall Street Can Manipulate Bitcoin](https://www.youtube.com/watch?v=w6LZUaCo50w)**
 
-Bitcoin ripped into a relief rally after sweeping range lows, liquidating a wave of shorts and shifting momentum for the first time in ...
+📺 Andrei Jikh
 
-📺 Crypto Banter
-
-👁️ 32K • 👍 2K • 💬 55 • ⏱️ 34:54 • 1d ago
+👁️ 66K • 👍 2K • 💬 127 • ⏱️ 1:18 • 1d ago
 
 ---
 
@@ -375,31 +381,23 @@ Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium 
 
 ---
 
-**[IT COULD BE OVER FOR CRYPTO! TRUMP DEMANDS CLARITY BILL DEADLINE NOW #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=NewU_71SXPU)**
+**[Bitcoin Under Pressure as Layoffs Surge and AI Uncertainty Spreads](https://www.youtube.com/watch?v=6zO05z_J7T4)**
 
-📺 CryptoWendyO
+Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face a new wave of uncertainty. Mass layoffs across ...
 
-👁️ 20K • 👍 1K • 💬 46 • ⏱️ 2:20 • 1d ago
+📺 The Wolf Of All Streets
 
----
-
-**[Billions Incoming To Bitcoin! The Big News Behind the Fear](https://www.youtube.com/watch?v=QiKC3Or-ztI)**
-
-Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COINS (available everywhere) ...
-
-📺 Lark Davis
-
-👁️ 16K • 👍 837 • 💬 47 • ⏱️ 16:32 • 17h ago
+👁️ 12K • 👍 664 • 💬 176 • ⏱️ 25:02 • 16h ago
 
 ---
 
-**[THIS PREDICTS BITCOIN WILL FINALLY PUMP](https://www.youtube.com/watch?v=z_ff4Yu4KBs)**
+**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Discover Crypto
+📺 Crypto World
 
-👁️ 2K • 👍 73 • 💬 1 • ⏱️ 0:48 • 4h ago
+👁️ 6K • 👍 227 • 💬 103 • ⏱️ 20:17 • 9h ago
 
 ---
 
