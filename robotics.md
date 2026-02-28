@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T12:48:58.549719+00:00'
+updated: '2026-02-28T13:37:08.656647+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- news
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 12:48 UTC  
+**Last Updated:** February 28, 2026 at 13:37 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-1h ago
+2h ago
 
 ---
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -50,7 +50,7 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-19h ago
+20h ago
 
 ---
 
@@ -58,7 +58,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-6h ago
+7h ago
 
 ---
 
@@ -72,7 +72,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-22h ago
+23h ago
 
 ---
 
@@ -80,7 +80,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-12m ago
+1h ago
 
 ---
 
@@ -88,7 +88,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +102,7 @@ Hey Reddit! Super excited to share something I've been working on: HoloMotion, a
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 7h ago
+🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 8h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hey Reddit! Super excited to share something I've been working on: HoloMotion, a
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 20h ago
+Tech Xplore • 21h ago
 
 ---
 
@@ -128,13 +128,13 @@ Los Angeles Times • 3d ago
 
 Coco Robotics launched a new generation of delivery bots
 
-Los Angeles Times • 1h ago
+Los Angeles Times • 2h ago
 
 ---
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeZwLbG6esrdzugaKd0dTGaYnryUgKFvoofgndZ06cJGpXHkZEVVsEk&gaa_ts=69a2e7a0&gaa_sig=WjNbdOWzGwdvI7aBAs1_yPJ75Y2FS_zkvI2_LCPOCQfAWLa-bbFivdkkDz38dmimm43mFrLiVeDn-koZy0DHxw%3D%3D)**
 
-WSJ • 14h ago
+WSJ • 15h ago
 
 ---
 
@@ -142,7 +142,7 @@ WSJ • 14h ago
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 22h ago
+Automotive News • 23h ago
 
 ---
 
@@ -212,7 +212,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 8K • 👍 427 • 💬 10 • ⏱️ 0:35 • 12h ago
+👁️ 8K • 👍 427 • 💬 10 • ⏱️ 0:35 • 13h ago
 
 ---
 

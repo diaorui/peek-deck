@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T12:48:58.540403+00:00'
+updated: '2026-02-28T13:37:08.647486+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
 - cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 12:48 UTC  
+**Last Updated:** February 28, 2026 at 13:37 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-5h ago
+6h ago
 
 ---
 
@@ -101,7 +101,7 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
 
-11h ago
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus elec
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-8m ago
+56m ago
 
 ---
 
@@ -149,7 +149,7 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 I was looking at the genesis block on mempool.space, but why does the address connected to the only transaction in the block only have 11 other transactions. Many of addresses connected to satoshi have thousands more of transactions. I was wondering if you could only send some if you mined a block, but that's probably bullshit. So can I give myself a nice place on the blockchain or is there more I don't know of?
 
-21m ago
+1h ago
 
 ---
 
@@ -159,13 +159,13 @@ I was looking at the genesis block on mempool.space, but why does the address co
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
 **[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqfIuXVvmU0qvXF1sRPvRva6GD0LnxpgqKfirpNFeciYD9-xx9Di0Nx_&gaa_ts=69a2e79d&gaa_sig=y6cCVARx-iQ46lLyMsHrW7c4oGkfa0TfJKtSLnDhiOcA40P8wZUsve3XKD7zYEsAVIiEVA48ksAtTeTyyPtwiQ%3D%3D)**
 
-MarketWatch • 3h ago
+MarketWatch • 4h ago
 
 ---
 
@@ -173,7 +173,7 @@ MarketWatch • 3h ago
 
 Tehran launched waves of missiles and drones targeting Israel, U.S. bases, and Gulf allies, with explosions reported in Dubai, Kuwait, and Bahrain.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -181,7 +181,7 @@ CoinDesk • 2h ago
 
 Bitcoin may have a better chance of hitting $150,000 this year than you think.
 
-The Motley Fool • 2h ago
+The Motley Fool • 3h ago
 
 ---
 
@@ -189,13 +189,13 @@ The Motley Fool • 2h ago
 
 Negative funding rates, rising open interest and liquidations point to crowded positioning and heightened derivatives activity.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
 **[I’m buying this Bitcoin dip every day: Money Talks](https://www.cleveland.com/business/2026/02/im-buying-this-bitcoin-dip-every-day-money-talks.html)**
 
-Cleveland.com • 2h ago
+Cleveland.com • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ Cleveland.com • 2h ago
 
 Strategy Inc. (NASDAQ:MSTR) Executive Chair Michael Saylor shared his vision Wednesday for the future of “digital credit,” emphasizing its potential beyond Bitcoin (CRYPTO: BTC) on networks like Solana (CRYPTO: SOL). Future Of ‘Digital Credit’ In a keynote address at the...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -263,7 +263,7 @@ Links to major crypto world figures are just the start.
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 2 • 💬 1 • 2d ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 2 • 💬 1 • 3d ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -315,7 +315,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 471K • 👍 17K • 💬 1K • ⏱️ 18:56 • 19h ago
+👁️ 471K • 👍 17K • 💬 1K • ⏱️ 18:56 • 20h ago
 
 ---
 
@@ -325,7 +325,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 639 • ⏱️ 22:53 • 14h ago
+👁️ 18K • 👍 639 • ⏱️ 22:53 • 15h ago
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 9K • 👍 461 • 💬 83 • ⏱️ 14:04 • 12h ago
+👁️ 9K • 👍 461 • 💬 83 • ⏱️ 14:04 • 13h ago
 
 ---
 
