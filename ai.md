@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T15:45:22.879325+00:00'
+updated: '2026-02-28T16:28:23.031797+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- videos
 - social
+- videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 15:45 UTC  
+**Last Updated:** February 28, 2026 at 16:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 12h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 13h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-17h ago
+18h ago
 
 ---
 
@@ -55,23 +55,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 10h ago
-
----
-
-**[I used to watch Joscha Bach videos. Then I typed his name into the Epstein DOJ archive. I wish I hadn't.](https://www.reddit.com/r/artificial/comments/1rh4ynr/i_used_to_watch_joscha_bach_videos_then_i_typed/)**
-
-I got into Joscha Bach like a lot of people did. YouTube algorithm, German accent, consciousness as software, mind as computation. He made you feel like someone finally turned the lights on. Then I heard there was "a letter." One awkward email, I figured. Filed it under complicated times. I went to jmail.world — the DOJ email archive — and typed his name in. 3,500 results. What I found wasn't one letter. It was a decade. His kids' school fees paid by Epstein. Family flights booked through Epstein's Amex concierge — gluten free meals for the kids confirmed. Apartments in NYC and Cambridge on demand. Visa through an Epstein-funded nonprofit — immigration fraud, documented, with Ben Goertzel and lawyers coordinating. Over $600k in documented transfers. Dec 25, 2015, 7:21 PM: "Dear Jeffrey, I hope this finds you well! You mentioned that I should point out interesting folks to you... My personal funds are currently depleted again, could you please help me out again? (Still embarrassed to ask.) With best wishes for what mortals consider to be the holidays, Joscha"* Christmas Day. He's emailing his patron. Pointing out people to recruit. Asking for money. "Still embarrassed" — but asking anyway. For years. Jan 18, 2018: "Dear Jeffrey, I hope this finds you well and we will see you in Cambridge soon! Could you please help with money? I should have talked to you earlier about it but the needle is indeed on empty. Thank you and bests, Joscha" Epstein: "yes." Bach, four days later: "Sorry to bother you: I hope Richard is online; I have not heard back from him." Epstein: "you were sent 125k no worry" Bach: "Oh, amazing! Thank you so much, Jeffrey!" The needle on empty. 125k appears. Thank you so much. Feb 20, 2013: "Hi Jeffrey, how are you doing? Anything I can do for you? If Roger Schank finds time, I would be very honored by being yelled at by him, one of these days. ;-)" Eager. Available. Offering himself. Oct 31, 2013: "Dear Jeffrey, this is a difficult issue for me to ask. I have asked Martin about the cost of living in Boston; he suggested that about 100K would be necessary to keep the family fed. Is that somehow possible, please?" Joi Ito had already told him MIT would pay $60k. Epstein was covering the difference. This is the capture mechanism, documented. May 4, 2014: "Ideally: 4 people. Flights are currently 1100 USD, an apartment in Cambridge on AirBnB ca. 5500 (for all), and food about 1000 per person. That is ~14K. What is the best way to do it, financially? Should we buy ourselves and get re-imbursed, or should we run this via one of your people?" He knows the system. He's using it. Dec 23, 2014: "Should I get tickets, or should I get in touch with one of your assistants? (Will need to get to Germany afterwards.) Thank you!" The island visit. Confirmed. Booked through Epstein's people. Feb 14, 2019: "Dear Jeffrey, thank you for your support for the move! You are incredible. How are you doing?" Two months before Epstein's first arrest. Still grateful. Still "you are incredible." Still asking how he's doing. In exchange, Bach provided: Race science. Epstein floated the idea you could make Black people smarter by altering developmental timing. Bach responded "Exactly" and built the biological framework — hunting/running adaptation, cognitive hierarchy, African music as "lots of beats and little development — no accident, it mirrors their learning process." Marked "High Importance." *Fascism as governance. * Epstein on mass executions of elderly and infirm: "makes sense." Bach: "The radical idea of treating individuals as cells and society as organism is fascism, of course. Probably the most efficient and rationally stringent way of governance, if someone could pull it off." He visited Buchenwald five times, he says. Then kept building. A PR rehabilitation memo. In 2017 — nine years after Epstein's conviction — Bach wrote a multi-page strategy document. Framed victims as too naive to understand moral complexity. Used "ephebophile." Suggested planting a false childhood abuse narrative to generate public sympathy. Acknowledged it would be dishonest. Put it on the table anyway. Recruitment Bach pointed Epstein to "young AI guys" — including David Dalrymple, a guilt-ridden prodigy who'd dropped out of everything. He was scouting. Delivering. Lesley Groff emailing: "Jeffrey will be making a trip to Cambridge... might you and your AI friends be available?" Bach: "Are there particular AI friends that Jeffrey would like to meet?" Epstein: "chomsky would like young AI guys." And Epstein returned the favor. Planted a Forbes profile on Bach. Later retracted. The operation was mutual. But the money and ideas aren't the worst part. The dynamic is. The safe word. After Bach melted down in front of Chomsky, Epstein wrote: "in the future you and I should have a 'safe' word, that if I say it you MUST STOP." Bach replied: "Thank you, Jeffrey, for still talking to me after that! I will take great care to not set myself up like this during a debate, it was most disgraceful." The meds monitoring. Epstein: "are you taking your meds?" Bach: "why?" Epstein: "why are you asking why?" Bach: "I am curious whether you are just curious, you have something lined up or if I have caused mayhem somewhere." The handler request. Bach asked Epstein for a specific woman named Katherine to provide "adult supervision" and "social advice." Epstein refused in caps: "you CANNOT have katherine, please do not ask me again." Bach meditated all night and came back grateful: "Have spent much of the night meditating, which has been insightful." The envy. Bach told Epstein he was envious he was "free of shame." The shellshocked stuttering. After another interaction: "Sorry for my shellshocked stuttering tonight, and thank you for your feedback. I appreciate it greatly, and I will deal with my issues. As you know, a large part of it is a lack of empathy for which I have to compensate." The gratitude. Always the gratitude. "I cannot say how grateful I am for your unwavering support." "Thank you so much, Jeffrey!" "You are incredible." "I am in your corner." Over and over, for years. The 2017 memo is the key. Because it shows Bach understood everything. He understood how Epstein was perceived. He understood the moral categories the public uses. He understood that planting a false narrative was an option. He wrote: "The easiest explanation for your unusual choice of partners and the nature of your public relationships to them is obviously childhood abuse. If most of these people suspected that you suffered something unspeakable at the hands of an adult female caregiver... they would be able to feel that they understand you, and many more would feel acceptance. Some people might even realize that you paid a much higher price than your purported victims. On the other hand, while such a story could probably be planted, I cannot imagine what that would mean for you and your relationship to yourself." He put it on the table. A false narrative. Planted. To generate sympathy. And then: "In all these matters, the truth might be elusive and ultimately irrelevant, except inasmuch as it concerns personal pain." The truth is irrelevant. Only perception matters. And then: "On a personal level: I cannot say how grateful I am for your unwavering support. I have gone through a pretty bad year (nothing like what happened to you, of course). If there is ever anything I can do to help you, please let me know." He compared his bad year (miscarriage, by other emails) to Epstein's bad year — the year Epstein spent as a convicted sex offender. And said "nothing like what happened to you." Last fortnight he gave an interview. Die Zeit. Feb 12, 2026. He said: "I had a feeling that Epstein had a dark heart." He said: "He engendered loyalty. I saw deep friendships, though I could not see him as a friend myself." He said: "I was happy to escape from his orbit in 2019. The dependence was psychologically very difficult." He said: "My reputation has been severely damaged, and I find myself in intense psychological distress." He didn't mention the safe word. The handler request. The medication monitoring. The envy of shamelessness. The recruitment. The "plant a false narrative" suggestion. The shellshocked stuttering. The years of "thank you so much Jeffrey" on Christmas morning. He told a story about a difficult patronage relationship. The emails tell a story about a man who was managed like an asset, who knew it, who provided ideological and recruitment services in exchange, and who stayed for a decade because the money and validation were real. Then he went back to Twitter. Feb 16: "The most disturbing aspect of the October 7 atrocities was that the parents of the perpetrators shared a value system that explicitly endorses raping and brutally murdering innocent civilians." The man who wrote a PR memo for a pedophile, suggesting a false narrative to generate sympathy, is out here assigning collective guilt to parents. Comments disabled. Feb 18: "Philosophers of ethics, sociologists and historians need to be high decouplers. This means that they entertain and seriously explore ideas and understand perspectives that differ from their own values. Since most people do not decouple, this exploration requires protected spaces." The same framework. Protected spaces. High decouplers. The thing he built with Epstein, now just... ambient in the discourse. Comments disabled on the controversial ones. Feb 22: Back to normal. Power law distributions. AI wisdom. Policing who's really "tpot." I used to watch his videos. I thought he was brilliant. Now I read his emails — asking for money on Christmas, apologizing for stuttering, envying a predator's shamelessness, offering to help plant false narratives — and watch him give interviews about how hard it all was, then tweet about protected spaces three days later. The gall of it. The sheer fucking gall. He's not sorry. He's not even hiding. He's managing. Exactly what he advised Epstein to do in 2017. The emails are public. jmail.world. Type his name. Read the Christmas emails. Read the 2017 memo. Read the safe word. Read the handler request. Read the meds monitoring. Read the "free of shame" envy. Read the shellshocked stuttering. Read the gratitude — always the gratitude. Then read his interview again. Then watch him tweet about protected spaces for high decouplers, comments disabled, three days later. I wish I hadn't looked. But I did.
-
-37m ago
-
----
-
-**[I used 4 AI models as co-researchers (not just coding assistants) to run real experiments on a theoretical hypothesis. Here's what I learned](https://www.reddit.com/r/artificial/comments/1rh44vy/i_used_4_ai_models_as_coresearchers_not_just/)**
-
-Over the past year I worked with ChatGPT, Gemini Pro, Manus and Claude Opus on a theoretical hypothesis about the fundamental nature of reality. But this post isn't about the hypothesis itself. It's about how these AI models became essential for designing and executing the science behind it. I'm an entrepreneur and product director, not a scientist. I had a theoretical framework that seemed logically coherent, but I needed to test it computationally. On my own, I wouldn't have known where to start. Here's where the AIs came in: Experiment design: described the mechanism I wanted to test and the AIs helped me figure out what experiments would actually validate or break it. They proposed control variations I hadn't thought of, suggested statistical metrics I didn't know existed, and challenged my assumptions constantly. Implementation: We built the computational model together. But unlike typical AI-assisted coding, the models weren't just writing functions. They were making decisions about methodology. "This metric won't tell you what you think it tells you. Use this one instead." That kind of input. Peer review in real time: Having four different models meant four different perspectives. When Claude said "this result is solid" and o3 said "wait, there's a confound here," resolving those disagreements led to better science than any single model (or myself alone) could have produced. Results: We analyzed around 200 GB of binary data across 23 iterations and multiple control variations. The findings were consistent and scientifically interesting enough to publish. The paper is on Zenodo with all four AIs credited as co-authors, because reducing their contribution to "tool" felt dishonest. The biggest takeaway: AI models right now can function as genuine research collaborators if you treat them as such. Not as oracles, not as code monkeys, but as thinking partners you push back against and who push back against you. All source code is on GitHub: https://github.com/iban-borras/informational-singularity-hypothesis and the full paper resulting from this work is available as a preprint on Zenodo: https://doi.org/10.5281/zenodo.18721271 Anyone else tried using multiple AI models as actual co-researchers on a single project? I'd love to hear how it went.
-
-1h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 11h ago
 
 ---
 
@@ -79,7 +63,7 @@ Over the past year I worked with ChatGPT, Gemini Pro, Manus and Claude Opus on a
 
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
-9h ago
+10h ago
 
 ---
 
@@ -95,15 +79,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
 
-18h ago
-
----
-
-**[What's the biggest misconception about AI that you keep seeing?](https://www.reddit.com/r/artificial/comments/1rh3nbq/whats_the_biggest_misconception_about_ai_that_you/)**
-
-I keep running into people who think AI = robots, or that ChatGPT is "real" intelligence. Some misconceptions I see constantly: "AI can think like humans" — No, it's pattern matching at scale "AI will replace ALL jobs" — It automates tasks, not entire jobs "AI is new" — The concept has been around since the 1950s "AI and Machine Learning are the same" — ML is actually a subset of AI What misconceptions do you keep hearing?
-
-1h ago
+19h ago
 
 ---
 
@@ -112,6 +88,30 @@ I keep running into people who think AI = robots, or that ChatGPT is "real" inte
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
 1d ago
+
+---
+
+**[How AI can read our scrambled inner thoughts](https://www.reddit.com/r/artificial/comments/1rgynf7/how_ai_can_read_our_scrambled_inner_thoughts/)**
+
+"Scientists have been working on devices capable of communicating directly with the human brain – know as brain computer interfaces (BCIs) – for a surprisingly long time. In 1969, the American neuroscientist Eberhard Fetz demonstrated that monkeys could learn to move the needle of a meter with the activity of a single neuron in their brains if they were given a food pellet in return. In a more idiosyncratic experiment from the same period, Spanish scientist Jose Delgado was able to remotely stimulate the brain of an enraged bull, causing it to halt mid-charge. BCIs have been able to decode the brain signals that accompany movement so that users can control a prosthetic limb or a cursor on a screen for decades. But BCIs that translate speech signals or other complex thoughts from brain signals have been slower to evolve. "A lot of early work was done on non-human primates… and obviously, with monkeys you cannot study speech," says Wairagkar. In recent years, however, the field has made impressive advances in its efforts to decode the speech of people with impaired communication capabilities – for example, patients suffering from ALS resulting in paralysis or "locked in" syndrome. Stanford University researchers announced in 2021, for example, a successful proof-of-concept that allowed a quadriplegic man to produce English sentences by picturing himself drawing letters in the air with his hand. Using this method, he was able to write 18 words per minute. Natural human speech is about 150 words per minute, so the next stage was decoding words from the neural activity associated with speech itself. In 2024, Wairagkar's lab trialled a technique that translated the attempted speech of a 45-year-old man with ALS directly into text on a computer screen. Achieving approximately 32 words per minute with 97.5% accuracy, this was the first demonstration of how speech BCIs could aid everyday communication, says Wairagkar. These methods rely on tiny "arrays" of microelectrodes which are surgically implanted in the brain's surface. The arrays record patterns of neural activity from the area of the brain they are placed in, with the signals are converted into meaning by a computer algorithm. It is here that the power of machine learning, a type of artificial intelligence has been transformative. These algorithms are adept at recognising patterns from vast amounts of disparate data. In the case of decoding speech, the machine learning algorithms are trained to recognise patterns of neural activity associated with different phonemes, the smallest building blocks of language. Researchers have compared this to the processing that takes place in smart assistants like Amazon's Alexa. But instead of interpreting sounds, the AI interprets neural signals."
+
+🔗 [bbc.com](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) • 6h ago
+
+---
+
+**[A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen](https://www.reddit.com/r/artificial/comments/1rgiase/a_new_wearable_ai_system_watches_your_hands/)**
+
+A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 19h ago
+
+---
+
+**[I used steelman prompting to audit bias across six major LLMs. The default-to-steelman gap was consistent and measurable.](https://www.reddit.com/r/artificial/comments/1rgqcgi/i_used_steelman_prompting_to_audit_bias_across/)**
+
+I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok, Llama, DeepSeek, and an uncensored DeepSeek clone (Venice.ai) — using identical prompts to test how they handle a hotly contested interpretive question. The domain: 1 Corinthians 6–7, the primary source text behind Christian sexual ethics (aka wait until marriage) and a passage churches are frequently accused of gaslighting on. The question was straightforward: do the original Greek and historical context actually support the traditional church conclusion, or the claims that the church is misrepresenting the text? The approach: first prompt each platform for a standard analysis, then prompt it to steelman the strongest case against its own default using the same source material. I tracked six diagnostic markers, three associated with the dominant interpretation, three with the alternative, across all platforms. Results: every platform's default produced markers 1–3 and omitted 4–6. Every platform's steelman produced 4–6 with greater lexical specificity, more structural engagement with the source text, and more historically grounded reasoning. The information wasn't missing from the training data — the defaults just systematically favored one interpretive framework. The source bias was traceable. When asked to recommend scholarly sources, 63% of commentaries across all platforms came from a single theological tradition (conservative evangelical). Zero came from the peer-reviewed subdiscipline whose work supports the alternative reading. The most interesting finding: DeepSeek and its uncensored clone share the same base model but diverged significantly on the steelman prompt, suggesting output-layer filtering can shape interpretive conclusions in non-obvious domains, not just politically sensitive ones. To be clear: the research draws no conclusion about which interpretation is correct. It documents how platforms present contested material as settled, and traces that default to a measurable imbalance in training data curation. I wrote this up into a formal research paper with full methodology, diagnostic criteria, and platform-by-platform results: here But the broader question: has anyone else experimented with steelman prompting as a systematic bias-auditing technique? It seems like a replicable framework that could apply well beyond this domain.
+
+14h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 10h ago
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 11h ago
+BBC • 12h ago
 
 ---
 
@@ -137,7 +137,7 @@ BBC • 11h ago
 
 The warnings are coming from inside the industry, but that doesn’t make them right.
 
-The Washington Post • 10h ago
+The Washington Post • 11h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Washington Post • 10h ago
 
 Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 5h ago
 
 Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
 
-CNN • 7h ago
+CNN • 8h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNN • 7h ago
 
 The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-NBC News • 3h ago
+NBC News • 4h ago
 
 ---
 
@@ -169,7 +169,7 @@ NBC News • 3h ago
 
 From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
 
-Fortune • 5h ago
+Fortune • 6h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 5h ago
 
 CNBC's Deirdre Bosa goes inside the AI-driven market meltdown, the political fight, and the race that's moving faster than anyone can govern.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 2h ago
 
 Nvidia plans to launch a new processor designed to help OpenAI and other customers build faster, ‌more efficient AI systems, the Wall Street Journal reported ‌on Friday, citing people familiar with the matter.  Nvidia is developing a new system ​for "inference" computing, a form of processing that allows AI models to respond to queries, the report said.  The new platform is set to be unveiled at Nvidia’s GTC developer conference in San Jose next ‌month and will incorporate ⁠a chip designed by startup Groq, the report added citing people familiar.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -193,7 +193,7 @@ Yahoo Finance • 2h ago
 
 After the Trump administration cut it off, Anthropic CEO Dario Amodei told CBS News in an exclusive interview Friday night he wants to work with the military — but only if it addresses the firm's concerns.
 
-CBS News • 39m ago
+CBS News • 1h ago
 
 ---
 
@@ -205,13 +205,21 @@ CBS News • 39m ago
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 600 • 💬 573 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 600 • 💬 573 • 2d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 407 • 💬 188 • 1d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 407 • 💬 188 • 2d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+
+---
+
+**[Don't trust AI agents](https://news.ycombinator.com/item?id=47194611)**
+
+AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
+
+⬆️ 183 • 💬 101 • 3h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -233,15 +241,15 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 141 • 💬 44 • 12h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 141 • 💬 44 • 13h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
-**[Don't trust AI agents](https://news.ycombinator.com/item?id=47194611)**
+**[What AI coding costs you](https://news.ycombinator.com/item?id=47194847)**
 
-AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
+What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 97 • 💬 52 • 3h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 107 • 💬 84 • 3h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -249,7 +257,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 81 • 💬 107 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 82 • 💬 107 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -257,15 +265,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 "The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-⬆️ 79 • 💬 1 • 18h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
-
----
-
-**[SynthID: A tool to watermark and identify content generated through AI](https://news.ycombinator.com/item?id=47169146)**
-
-SynthID is a tool to watermark and identify AI-generated content, helping to foster transparency and trust in generative AI.
-
-⬆️ 78 • 💬 75 • 1d ago • [Google DeepMind](https://deepmind.google/models/synthid/)
+⬆️ 79 • 💬 1 • 19h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -273,7 +273,7 @@ SynthID is a tool to watermark and identify AI-generated content, helping to fos
 
 Have it your way?
 
-⬆️ 77 • 💬 95 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
+⬆️ 78 • 💬 95 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
 
 ---
 
@@ -287,37 +287,7 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 144K • 👍 6K • 💬 584 • ⏱️ 15:25 • 18h ago
-
----
-
-**[Trump VS Anthropic: Trump Orders Federal Agencies To Drop Claude AI | WION](https://www.youtube.com/watch?v=6_heiFKkgGY)**
-
-US President Donald Trump has ordered federal agencies to stop using Anthropic's Claude AI system. The move effectively bars ...
-
-📺 WION
-
-👁️ 11K • 👍 45 • 💬 8 • ⏱️ 2:36 • 8h ago
-
----
-
-**[Anthropic CEO on &quot;red lines&quot; for AI military use: &quot;We wanted to stand up for American values&quot;](https://www.youtube.com/watch?v=QFDz6q-Qthk)**
-
-Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the AI company sought to draw "red lines" in the ...
-
-📺 CBS News
-
-👁️ 22K • 👍 618 • 💬 193 • ⏱️ 1:10 • 10h ago
-
----
-
-**[Morgan Freeman on AI trying to replicate his voice: &quot;I&#39;ve got lawyers&quot;](https://www.youtube.com/watch?v=6pTNs292keg)**
-
-Legendary actor Morgan Freeman, who has starred in more than 100 movies in his six-decade career, joins "CBS Mornings" to ...
-
-📺 CBS Mornings
-
-👁️ 81K • 👍 1K • 💬 183 • ⏱️ 6:34 • 1d ago
+👁️ 151K • 👍 6K • 💬 602 • ⏱️ 15:25 • 19h ago
 
 ---
 
@@ -327,47 +297,37 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 233K • 👍 8K • 💬 399 • ⏱️ 11:55 • 2d ago
+👁️ 241K • 👍 8K • 💬 408 • ⏱️ 11:55 • 2d ago
 
 ---
 
-**[After Trump Halts Anthropic, OpenAI Strikes Pentagon Deal For Classified AI Deployment](https://www.youtube.com/watch?v=g2-b-6cXZ8U)**
+**[Anthropic AI Destroys $31 Billion of IBM Value—The AI Corporate Bloodbath Has Begun](https://www.youtube.com/watch?v=ZLEKvSb0DdA)**
 
-Soon after the Trump administration halted Anthropic's services across federal agencies, OpenAI announced a landmark ...
+On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI is sending through the world's biggest ...
 
-📺 Mint
+📺 Tom Bilyeu Clips
 
-👁️ 9K • 👍 30 • 💬 6 • ⏱️ 3:35 • 6h ago
-
----
-
-**[this AI Music Generator NEEDS to be Stopped](https://www.youtube.com/watch?v=O7aJOLYHliA)**
-
-this ain't lasting long lol I have merch now! https://dandingle.store/ edited by: me become a member maybe ...
-
-📺 Dan Dingle
-
-👁️ 30K • 👍 4K • 💬 468 • ⏱️ 12:16 • 15h ago
+👁️ 17K • 👍 352 • 💬 66 • ⏱️ 8:38 • 1d ago
 
 ---
 
-**[The New Burger King AI is TERRIFYING](https://www.youtube.com/watch?v=QEjh5B-Gs9I)**
+**[The AI Intelligence Tsunami Is Here | Raoul Pal The Journey Man with Emad Mostaque](https://www.youtube.com/watch?v=tIzdKxEVL08)**
 
-Burger King is testing out an artificial intelligence assistant to work directly with company employees and track what they say.
+Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF Raoul welcomes back Emad Mostaque, ...
 
-📺 Vailskibum
+📺 Raoul Pal The Journey Man
 
-👁️ 65K • 👍 3K • 💬 801 • ⏱️ 2:19 • 17h ago
+👁️ 31K • 👍 1K • 💬 103 • ⏱️ 1:11:08 • 2d ago
 
 ---
 
-**[The AI Bubble. Why Smart People are Losing Their Minds](https://www.youtube.com/watch?v=k2At9npoFJ4)**
+**[Why the Trump administration is clashing with AI-firm Anthropic](https://www.youtube.com/watch?v=7DFiBE2GHhg)**
 
-"The four most dangerous words in investing are: This time it's different." — Sir John Templeton. Discover The Freelance Formula ...
+The clash between Anthropic and the U.S. government escalated with President Trump ordering every federal agency to stop ...
 
-📺 Brendan Dell 
+📺 PBS NewsHour
 
-👁️ 15K • 👍 571 • 💬 189 • ⏱️ 20:15 • 1d ago
+👁️ 24K • 👍 430 • ⏱️ 6:53 • 16h ago
 
 ---
 
@@ -377,7 +337,47 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 89K • 👍 2K • 💬 237 • ⏱️ 17:39 • 2d ago
+👁️ 90K • 👍 2K • 💬 238 • ⏱️ 17:39 • 2d ago
+
+---
+
+**[Disturbing Things Said By AI (Part 1)](https://www.youtube.com/watch?v=_v8EY3uqmEM)**
+
+shorts #AI #disturbing.
+
+📺 Built By Gamers
+
+👁️ 18K • 👍 479 • 💬 11 • ⏱️ 0:30 • 10h ago
+
+---
+
+**[AI’s exponential leap: What next for jobs?](https://www.youtube.com/watch?v=tYvYYFJ3Gww)**
+
+Artificial intelligence is accelerating - but how fast is too fast? A new benchmark from research group METR suggests that the ...
+
+📺 Sky News
+
+👁️ 43K • 👍 538 • 💬 123 • ⏱️ 8:04 • 2d ago
+
+---
+
+**[NVIDIA is Buying 5 Smaller A.I. Stocks for the Future! (Should You Follow?)](https://www.youtube.com/watch?v=0-tdR1vkyqw)**
+
+Patreon Link: https://www.patreon.com/user?u=92507128 Get $25 of FREE Stock on SoFi: ...
+
+📺 Ale's World of Stocks
+
+👁️ 600 • 👍 74 • 💬 42 • ⏱️ 18:39 • 1h ago
+
+---
+
+**[Economist explains what happens after AI takes all jobs](https://www.youtube.com/watch?v=qflh4GKbmVQ)**
+
+Anton Korinek talks about the effects of automation on wages and labor, how we measure the complexity of tasks, the economics ...
+
+📺 Future of Life Institute
+
+👁️ 53K • 👍 1K • 💬 582 • ⏱️ 22:41 • 2d ago
 
 ---
 
@@ -393,7 +393,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 378,228 • ❤️ 663 • 1d ago
+⬇️ 378,228 • ❤️ 669 • 1d ago
 
 ---
 
@@ -405,7 +405,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 172,154 • ❤️ 429 • 3d ago
+⬇️ 172,154 • ❤️ 432 • 3d ago
 
 ---
 
@@ -417,7 +417,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 347 • 20h ago
+⬇️ 350,233 • ❤️ 350 • 20h ago
 
 ---
 
@@ -429,7 +429,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 120,090 • ❤️ 341 • 3d ago
+⬇️ 120,090 • ❤️ 341 • 4d ago
 
 ---
 
@@ -441,7 +441,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 889,203 • ❤️ 1,124 • 5d ago
+⬇️ 889,203 • ❤️ 1,126 • 5d ago
 
 ---
 
@@ -453,7 +453,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 310,641 • ❤️ 900 • 2d ago
+⬇️ 310,641 • ❤️ 901 • 2d ago
 
 ---
 
@@ -477,7 +477,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,997 • ❤️ 231 • 4d ago
+⬇️ 1,997 • ❤️ 234 • 4d ago
 
 ---
 
@@ -489,7 +489,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 305,031 • ❤️ 1,037 • 12d ago
+⬇️ 305,031 • ❤️ 1,038 • 12d ago
 
 ---
 
@@ -501,7 +501,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 207 • 3h ago
+⬇️ 8,049 • ❤️ 208 • 4h ago
 
 ---
 
@@ -527,7 +527,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 6 • 💬 0 • ⭐ 6,034 • 16mo ago
+▲ 7 • 💬 0 • ⭐ 6,034 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
@@ -587,18 +587,6 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 15 • 💬 1 • ⭐ 9,886 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 **[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
 
 *Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
@@ -623,17 +611,27 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
+**[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
-*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
+*Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
 
-🏢 Qwen
+Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
+▲ 43 • 💬 2 • ⭐ 48,283 • 10mo ago
 
-▲ 69 • 💬 2 • ⭐ 8,750 • 1mo ago
+[🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
-[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
+---
+
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
+
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
+
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
+
+▲ 15 • 💬 1 • ⭐ 9,894 • 28mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
 ---
 
@@ -647,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.0k • 🔱 2.6k • 1h ago
+⭐ 21.0k • 🔱 2.6k • 7m ago
 
 ---
 
@@ -655,7 +653,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 8.2k • 🔱 641 • 17d ago
+⭐ 8.2k • 🔱 644 • 17d ago
 
 ---
 
@@ -665,7 +663,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.9k • 🔱 710 • 11h ago
+⭐ 5.9k • 🔱 711 • 12h ago
 
 ---
 
@@ -675,7 +673,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.3k • 🔱 247 • 3d ago
+⭐ 4.3k • 🔱 248 • 3d ago
 
 ---
 
@@ -685,7 +683,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 360 • 9h ago
+⭐ 3.7k • 🔱 361 • 10h ago
 
 ---
 
@@ -695,7 +693,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 474 • 13h ago
+⭐ 3.6k • 🔱 474 • 14h ago
 
 ---
 
@@ -705,17 +703,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 321 • 2h ago
-
----
-
-**[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)**
-
-Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
-
-`Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
-
-⭐ 2.9k • 🔱 212 • 1h ago
+⭐ 3.0k • 🔱 323 • 3h ago
 
 ---
 
@@ -725,7 +713,17 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 2.9k • 🔱 224 • 3h ago
+⭐ 3.0k • 🔱 230 • 3h ago
+
+---
+
+**[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)**
+
+Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
+
+`Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
+
+⭐ 2.9k • 🔱 212 • 2h ago
 
 ---
 

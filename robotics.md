@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T15:45:22.897132+00:00'
+updated: '2026-02-28T16:28:23.049743+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 15:45 UTC  
+**Last Updated:** February 28, 2026 at 16:28 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,19 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
-**[BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON"](https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/)**
-
-BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
-
-4h ago
-
----
-
 **[My DWA (Dynamic Window Approach) in a Robot Vacuum Cleaner.](https://www.reddit.com/r/robotics/comments/1rh1kvy/my_dwa_dynamic_window_approach_in_a_robot_vacuum/)**
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
 3h ago
+
+---
+
+**[BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON"](https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/)**
+
+BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
+
+5h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-22h ago
+23h ago
 
 ---
 
@@ -66,21 +66,13 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-9h ago
+10h ago
 
 ---
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-12h ago
-
----
-
-**[First table jump from our robot!](https://www.reddit.com/r/robotics/comments/1rg83qy/first_table_jump_from_our_robot/)**
-
-Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
-
-1d ago
+13h ago
 
 ---
 
@@ -92,11 +84,11 @@ Hey Reddit! Super excited to share something I've been working on: HoloMotion, a
 
 ---
 
-**[I spent my inheritance on a home assistant and now I’m basically a full-time mechanic for a machine](https://www.reddit.com/r/robotics/comments/1rh4yva/i_spent_my_inheritance_on_a_home_assistant_and/)**
+**[First table jump from our robot!](https://www.reddit.com/r/robotics/comments/1rg83qy/first_table_jump_from_our_robot/)**
 
-I’ve always been one of the first to try out technology but I think I might have gone too far this time. This year I paid a deposit for a humanoid robot that can do simple household tasks like folding clothes and loading the dishwasher. It arrived three weeks ago. At first it was amazing to see it walk into my kitchen on two legs. That excitement didn’t last long. The robot tried to pick up a ceramic coffee mug. That’s when the problems started. The ads make it look easy. In reality, I have to adjust to the robot all the time. I spent all of Saturday figuring out why the robot’s left hand kept moving on its own. The sensors were faulty so I had to look for cheaper parts on amazon and alibaba. I found out that the special servos they use are similar to ones that cost much less. I would have to update the software myself. The worst part is what my friends think. They come over expecting to see a robot like in the movies. Instead they find me on the floor with a laptop connected to the robot’s leg trying to fix it. It’s like a very expensive, very tall child that needs a lot of attention. Has anyone else bought one of these robots? Am I the only one having trouble with mine?
+Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-36m ago
+1d ago
 
 ---
 
@@ -104,7 +96,13 @@ I’ve always been one of the first to try out technology but I think I might ha
 
 Serious Question. Been considering deigning a back drivable actuator that uses STS protocol and a brushed DC motor (similar to feetech servos) instead of a brushless motor. I wanted to create a cheaper option for back drivable joints in hobbyist robotics project. But I also want to get a more experienced opinion first. Would it even be worth it? Other than motor efficiency, what would be the drawbacks or reasons why I should not pursue?
 
-58m ago
+1h ago
+
+---
+
+**[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
+
+23h ago
 
 ---
 
@@ -138,7 +136,7 @@ CNBC • 2d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -152,7 +150,7 @@ The Verge • 2d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdRImbbkmncAFH0rDpsaTr1pKqra_AGRf8FEyZZccT2Lc4Za7HZg6LW&gaa_ts=69a310f8&gaa_sig=CzqO88HSPfuN_zO8yto-eJZQBbiP9jPLKMdc3mh9kcFufjRPGtb3KMGB0jzc9ItEFInA-2v5A38sL7dunvJ7Ww%3D%3D)**
 
-WSJ • 17h ago
+WSJ • 18h ago
 
 ---
 
@@ -190,43 +188,33 @@ Fortune • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
+**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
 
-Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
+Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
 
-📺 AI Revolution
+📺 NBC News
 
-👁️ 155K • 👍 2K • 💬 326 • ⏱️ 14:16 • 5d ago
-
----
-
-**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
-
-China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
-
-📺 NewsX Live
-
-👁️ 47K • 👍 275 • 💬 109 • ⏱️ 2:18 • 2d ago
+👁️ 59K • 👍 883 • 💬 262 • ⏱️ 12:16 • 1d ago
 
 ---
 
-**[China’s Humanoid Robots Just Learned to FIGHT… The World Isn’t Ready](https://www.youtube.com/watch?v=auoP7Wk_7HA)**
+**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
 
-China's humanoid robots have officially learned to fight, and the latest demonstrations show a level of power and precision the ...
+German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
 
-📺 The AI Nexus
+📺 DPCcars
 
-👁️ 3K • 👍 107 • 💬 25 • ⏱️ 24:08 • 2d ago
+👁️ 219K • 👍 1K • 💬 695 • ⏱️ 1:27 • 1d ago
 
 ---
 
-**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
+**[Building the Cricket Drive MK II ⚙️](https://www.youtube.com/watch?v=KDRDGs3OGZg)**
 
-Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
+Full metal construction, hard anodized components, bearing steel rollers, and a refined disc profile that delivers smoother, more ...
 
-📺 SciVion
+📺 Sweep Dynamics
 
-👁️ 14K • 👍 483 • 💬 10 • ⏱️ 0:35 • 15h ago
+👁️ 48K • 👍 1K • 💬 22 • ⏱️ 0:39 • 2d ago
 
 ---
 
@@ -240,53 +228,61 @@ A San Francisco-based robotics company says the Trump administration has express
 
 ---
 
-**[AI roundup: Thrilling Agent releases, Nano Banana 2 &amp; Robotics!](https://www.youtube.com/watch?v=4uopGLxi_fE)**
-
-AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gauth: ...
-
-📺 MattVidPro
-
-👁️ 3K • 👍 180 • 💬 16 • ⏱️ 18:44 • 16h ago
-
----
-
-**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
-
-Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
-
-📺 NBC News
-
-👁️ 57K • 👍 862 • 💬 258 • ⏱️ 12:16 • 1d ago
-
----
-
 **[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
 
 Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
 
 📺 Reuters
 
-👁️ 180K • 👍 2K • 💬 630 • ⏱️ 0:55 • 2d ago
+👁️ 189K • 👍 2K • 💬 647 • ⏱️ 0:55 • 2d ago
 
 ---
 
-**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
+**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=wEw57uXXaXg)**
 
-German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
+📺 Robot Julie 
 
-📺 DPCcars
-
-👁️ 203K • 👍 1K • 💬 664 • ⏱️ 1:27 • 1d ago
+👁️ 27K • 👍 111 • 💬 3 • ⏱️ 0:21 • 15h ago
 
 ---
 
-**[🎬 &quot;They Lived Through Robots. They Died Through a Virus.&quot; — The System Collapse in Surrogates](https://www.youtube.com/watch?v=mfeWGDux0wQ)**
+**[Dye Rotor Hopper | 3184 Blaze Robotics | Pit Stop](https://www.youtube.com/watch?v=ciNX09GJMuc)**
 
-"They Lived Through Robots. They Died Through a Virus." — The System Collapse in Surrogates (2009) "They Lived ...
+3184 Blaze Robotics | Pit Stop 3184 Blaze Robotics showcases their dye rotor hopper and shooting system for their REBUILT ...
 
-📺 Daniel
+📺 FUN Robotics Network
 
-👁️ 66K • 👍 662 • 💬 18 • ⏱️ 0:55 • 2d ago
+👁️ 8K • 👍 294 • 💬 8 • ⏱️ 1:28 • 2d ago
+
+---
+
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
+
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
+
+📺 AI Revolution
+
+👁️ 156K • 👍 2K • 💬 331 • ⏱️ 14:16 • 5d ago
+
+---
+
+**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
+
+China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
+
+📺 NewsX Live
+
+👁️ 49K • 👍 280 • 💬 110 • ⏱️ 2:18 • 2d ago
+
+---
+
+**[The Robot That Draws Engine Blueprints with 0.01mm Precision 🖋️⚙️](https://www.youtube.com/watch?v=zCwYrtTrl8E)**
+
+Why print a digital file when a robot can physically draw it for you? 🖨️   This is a CNC Pen Plotter, a machine that bridges the ...
+
+📺 KF Labs
+
+👁️ 88K • 👍 904 • 💬 22 • ⏱️ 0:05 • 1d ago
 
 ---
 

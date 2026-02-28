@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T15:45:22.887962+00:00'
+updated: '2026-02-28T16:28:23.040404+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 15:45 UTC  
+**Last Updated:** February 28, 2026 at 16:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,766.76
+### $64,888.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.5%  
-**7d:** -4.6%  
-**30d:** -23.4%  
-**90d:** -25.2%  
-**1y:** -25.0%  
+**24h:** -1.1%  
+**7d:** -4.0%  
+**30d:** -22.9%  
+**90d:** -24.7%  
+**1y:** -24.5%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1294.58B
+**Market Cap:** $1299.43B
 Rank #1
 
-**Circulating Supply:** 19,995,984 BTC
+**Circulating Supply:** 19,996,000 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--48.7%
+-48.5%
 
 **All-Time Low:** $67.81
-+95353.5%
++95732.5%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
 
-14h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ I have a pretty crazy story that happened to me last year lol. Back in 2022, I h
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-8h ago
+9h ago
 
 ---
 
@@ -125,15 +125,15 @@ I know this might sound stupid question to some of you, but I'd like to ask anyw
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
-**[Genesis address?](https://www.reddit.com/r/Bitcoin/comments/1rh1eal/genesis_address/)**
+**[CA pay with bitcoin map](https://www.reddit.com/r/Bitcoin/comments/1rgt37i/ca_pay_with_bitcoin_map/)**
 
-I was looking at the genesis block on mempool.space, but why does the address connected to the only transaction in the block only have 11 other transactions. Many of addresses connected to satoshi have thousands more of transactions. I was wondering if you could only send some if you mined a block, but that's probably bullshit. So can I give myself a nice place on the blockchain or is there more I don't know of?
+Cash app offers a map that shows where bitcoin is accepted at local stores, my city has quite a bit of places!
 
-3h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
 
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 17h ago
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 18h ago
 
 ---
 
@@ -165,7 +165,7 @@ Bloomberg.com • 2h ago
 
 **[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqcgttDqqkYECo-NPcszlOuYx3aO-tBuYGDBohNhXw6SLofiP0YpRbr6&gaa_ts=69a310f5&gaa_sig=n6lPrG8RF9dcWC4hxfJtdDo8KHHMpF8ZuuBiqRZKyInOgSO-G2Nj1ydmrUQJSoxwEjNPcMLekqzE0NsZCwPJgg%3D%3D)**
 
-MarketWatch • 6h ago
+MarketWatch • 7h ago
 
 ---
 
@@ -181,7 +181,7 @@ The Boston Globe • 5h ago
 
 Mark Karpelès submitted a pull request to Bitcoin Core that would redirect coins that have remained untouched since 2011 to a recovery address controlled by the MtGox trustee, reigniting the oldest debate in Bitcoin.
 
-CoinDesk • 52m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Bloomberg.com • 1d ago
 
 **[MARA Surges On Data Center Partnership, AI Plans. Crypto Plays Report.](https://www.investors.com/news/bitcoin-price-bitcoin-etf-flows-american-bitcoin-earnings-trump-abtc-mara-terawulf-figure/)**
 
-Investor's Business Daily • 18h ago
+Investor's Business Daily • 19h ago
 
 ---
 
@@ -225,7 +225,7 @@ Investor's Business Daily • 18h ago
 
 Bitplanet now owns 300 bitcoin through its structured purchase program, positioning the South Korea-listed company among the top 20 corporate Bitcoin holders in Asia.
 
-Bitcoin Magazine • 19h ago
+Bitcoin Magazine • 20h ago
 
 ---
 
@@ -315,17 +315,17 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 491K • 👍 17K • 💬 1K • ⏱️ 18:56 • 22h ago
+👁️ 504K • 👍 18K • 💬 1K • ⏱️ 18:56 • 23h ago
 
 ---
 
-**[28 Minutes of People Losing ALL OF THEIR MONEY in Crypto](https://www.youtube.com/watch?v=uycNnSk5m3E)**
+**[The Biggest Crypto Trap I&#39;ve Ever Seen](https://www.youtube.com/watch?v=93kAh88MZKc)**
 
-Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea what to do about it. BTC fell from an all-time high of ...
+Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
 
-📺 Edwards Economics
+📺 Altcoin Daily
 
-👁️ 25K • 👍 1K • 💬 325 • ⏱️ 28:23 • 17h ago
+👁️ 50K • 👍 3K • 💬 146 • ⏱️ 13:24 • 1d ago
 
 ---
 
@@ -335,7 +335,17 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 19K • 👍 684 • ⏱️ 22:53 • 17h ago
+👁️ 20K • 👍 704 • ⏱️ 22:53 • 18h ago
+
+---
+
+**[28 Minutes of People Losing ALL OF THEIR MONEY in Crypto](https://www.youtube.com/watch?v=uycNnSk5m3E)**
+
+Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea what to do about it. BTC fell from an all-time high of ...
+
+📺 Edwards Economics
+
+👁️ 27K • 👍 1K • 💬 353 • ⏱️ 28:23 • 17h ago
 
 ---
 
@@ -345,17 +355,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 10K • 👍 511 • 💬 88 • ⏱️ 14:04 • 15h ago
-
----
-
-**[Bitcoin: Midterm Year Returns](https://www.youtube.com/watch?v=fV6NzO02KH4)**
-
-Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
-
-📺 Benjamin Cowen
-
-👁️ 61K • 👍 4K • 💬 184 • ⏱️ 12:57 • 2d ago
+👁️ 11K • 👍 537 • 💬 93 • ⏱️ 14:04 • 16h ago
 
 ---
 
@@ -365,7 +365,7 @@ Wall Street Just Took Over Bitcoin... Is This Game Over? In today's timely deep 
 
 📺 Tom Bilyeu
 
-👁️ 57K • 👍 3K • 💬 681 • ⏱️ 19:33 • 14h ago
+👁️ 65K • 👍 3K • 💬 753 • ⏱️ 19:33 • 14h ago
 
 ---
 
@@ -375,37 +375,35 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 6K • 👍 364 • 💬 53 • ⏱️ 12:38 • 5h ago
+👁️ 8K • 👍 421 • 💬 56 • ⏱️ 12:38 • 5h ago
 
 ---
 
-**[Billions Incoming To Bitcoin! The Big News Behind the Fear](https://www.youtube.com/watch?v=QiKC3Or-ztI)**
+**[IT COULD BE OVER FOR CRYPTO! TRUMP DEMANDS CLARITY BILL DEADLINE NOW #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=NewU_71SXPU)**
 
-Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COINS (available everywhere) ...
+📺 CryptoWendyO
 
-📺 Lark Davis
-
-👁️ 17K • 👍 862 • 💬 52 • ⏱️ 16:32 • 1d ago
+👁️ 21K • 👍 1K • 💬 54 • ⏱️ 2:20 • 1d ago
 
 ---
 
-**[THIS PREDICTS BITCOIN WILL FINALLY PUMP](https://www.youtube.com/watch?v=z_ff4Yu4KBs)**
+**[Bitcoin: Midterm Year Returns](https://www.youtube.com/watch?v=fV6NzO02KH4)**
 
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
 
-📺 Discover Crypto
+📺 Benjamin Cowen
 
-👁️ 9K • 👍 157 • 💬 11 • ⏱️ 0:48 • 14h ago
+👁️ 61K • 👍 4K • 💬 186 • ⏱️ 12:57 • 2d ago
 
 ---
 
-**[URGENT: THIS Is Why Bitcoin Is Dropping...](https://www.youtube.com/watch?v=MYHSKkXI-xo)**
+**[Jeffrey Epstein Was Instrumental to the Rise of Crypto. Here&#39;s How.](https://www.youtube.com/watch?v=qw2uiFvpHK0)**
 
-✓ Join FUNDR ! : https://bit.ly/joinfundr. ⚡ WEEX ($30000 Bonus): https://bit.ly/amcweex26 Bybit ($30000 Bonus): ...
+Epstein's involvement goes all the way back to 2011 — just two years after Bitcoin launched. And his funding secretly saved the ...
 
-📺 AMCrypto
+📺 More Perfect Union
 
-👁️ 532 • 👍 43 • 💬 3 • ⏱️ 7:05 • 5h ago
+👁️ 260K • 👍 24K • 💬 1K • ⏱️ 3:00 • 1d ago
 
 ---
 
