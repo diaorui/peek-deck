@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T08:31:21.931603+00:00'
+updated: '2026-02-28T09:27:46.471794+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- news
-- repositories
 - videos
+- news
+- social
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 08:31 UTC  
+**Last Updated:** February 28, 2026 at 09:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-10h ago
+11h ago
 
 ---
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 5h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 6h ago
 
 ---
 
@@ -55,7 +55,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 3h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
-2h ago
+3h ago
 
 ---
 
@@ -79,7 +79,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
 
-11h ago
+12h ago
 
 ---
 
@@ -87,7 +87,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 11h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 12h ago
 
 ---
 
@@ -103,13 +103,13 @@ A new wearable AI system watches your hands through smart glasses, guiding exper
 
 I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok, Llama, DeepSeek, and an uncensored DeepSeek clone (Venice.ai) — using identical prompts to test how they handle a hotly contested interpretive question. The domain: 1 Corinthians 6–7, the primary source text behind Christian sexual ethics (aka wait until marriage) and a passage churches are frequently accused of gaslighting on. The question was straightforward: do the original Greek and historical context actually support the traditional church conclusion, or the claims that the church is misrepresenting the text? The approach: first prompt each platform for a standard analysis, then prompt it to steelman the strongest case against its own default using the same source material. I tracked six diagnostic markers, three associated with the dominant interpretation, three with the alternative, across all platforms. Results: every platform's default produced markers 1–3 and omitted 4–6. Every platform's steelman produced 4–6 with greater lexical specificity, more structural engagement with the source text, and more historically grounded reasoning. The information wasn't missing from the training data — the defaults just systematically favored one interpretive framework. The source bias was traceable. When asked to recommend scholarly sources, 63% of commentaries across all platforms came from a single theological tradition (conservative evangelical). Zero came from the peer-reviewed subdiscipline whose work supports the alternative reading. The most interesting finding: DeepSeek and its uncensored clone share the same base model but diverged significantly on the steelman prompt, suggesting output-layer filtering can shape interpretive conclusions in non-obvious domains, not just politically sensitive ones. To be clear: the research draws no conclusion about which interpretation is correct. It documents how platforms present contested material as settled, and traces that default to a measurable imbalance in training data curation. I wrote this up into a formal research paper with full methodology, diagnostic criteria, and platform-by-platform results: here But the broader question: has anyone else experimented with steelman prompting as a systematic bias-auditing technique? It seems like a replicable framework that could apply well beyond this domain.
 
-6h ago
+7h ago
 
 ---
 
 **[GPT-5.2 Just Solved a 15-Year Physics Mystery — Then Scored 0% on the Physics Exam](https://www.reddit.com/r/artificial/comments/1rgp0o5/gpt52_just_solved_a_15year_physics_mystery_then/)**
 
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0083-gpt-5-2-gluon-physics-discovery-critpt-paradox) • 7h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0083-gpt-5-2-gluon-physics-discovery-critpt-paradox) • 8h ago
 
 ---
 
@@ -127,7 +127,7 @@ The New York Times • 3h ago
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 4h ago
+BBC • 5h ago
 
 ---
 
@@ -135,7 +135,7 @@ BBC • 4h ago
 
 Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
 
-CNN • 30m ago
+CNN • 1h ago
 
 ---
 
@@ -143,7 +143,7 @@ CNN • 30m ago
 
 JPMorgan Chase, ticker NYSE:JPM, has been hit with a lawsuit alleging the bank enabled fraud at Tricolor Holdings. The filing raises questions around JPMorgan Chase’s risk controls, due diligence and broader corporate responsibility. At the same time, the bank has outlined internal efforts to address AI driven job disruption, including redeploying affected staff and urging wider action from business and government. For investors watching NYSE:JPM, the legal challenge arrives as the stock...
 
-Yahoo Finance • 20m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -151,7 +151,7 @@ Yahoo Finance • 20m ago
 
 Therapists can make use of AI personas that acts as therapist-supervisors. The feedback can be tremendous. Here's how to proceed. An AI Insider scoop.
 
-Forbes • 16m ago
+Forbes • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Forbes • 16m ago
 
 About half of Japanese companies have an “old guy who does nothing.” It’s a striking reminder in the AI efficiency era that work contains multitudes.
 
-Fortune • 17h ago
+Fortune • 18h ago
 
 ---
 
@@ -167,7 +167,7 @@ Fortune • 17h ago
 
 Chinese AI group has worked with Huawei to cut reliance on Nvidia chips
 
-Financial Times • 7h ago
+Financial Times • 8h ago
 
 ---
 
@@ -175,7 +175,7 @@ Financial Times • 7h ago
 
 Callers to Washington state’s driver’s license agency who select automated service in Spanish have instead been hearing an AI voice speaking English with a strong Spanish accent.
 
-AP News • 6h ago
+AP News • 7h ago
 
 ---
 
@@ -183,7 +183,7 @@ AP News • 6h ago
 
 Hours after exclusion of Anthropic, OpenAI announces fresh Pentagon deal, but says it will maintain same safety guardrails at the heart of the dispute
 
-The Guardian • 10h ago
+The Guardian • 11h ago
 
 ---
 
@@ -191,7 +191,7 @@ The Guardian • 10h ago
 
 Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
 
-The Washington Post • 14h ago
+The Washington Post • 15h ago
 
 ---
 
@@ -209,7 +209,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 406 • 💬 187 • 1d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 407 • 💬 187 • 1d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -217,7 +217,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
 
-⬆️ 266 • 💬 262 • 2d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
+⬆️ 267 • 💬 262 • 2d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 
 ---
 
@@ -233,7 +233,7 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 145 • 💬 58 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 145 • 💬 59 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -247,7 +247,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 129 • 💬 40 • 5h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 134 • 💬 41 • 6h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -255,7 +255,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 81 • 💬 107 • 20h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 81 • 💬 107 • 21h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -265,11 +265,11 @@ Aiming for a 10 year life-cycle for smartphones
 
 ---
 
-**[Amazon would rather blame its own engineers than its AI](https://news.ycombinator.com/item?id=47148740)**
+**[Trump orders federal agencies to stop using Anthropic AI tech 'immediately'](https://news.ycombinator.com/item?id=47185528)**
 
-: Protect the robot, sacrifice the human
+"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-⬆️ 79 • 💬 10 • 3d ago • [theregister.com](https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/)
+⬆️ 79 • 💬 1 • 12h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -277,23 +277,33 @@ Aiming for a 10 year life-cycle for smartphones
 
 ## YouTube Videos: "ai"
 
+**[Disturbing Things Said By AI (Part 1)](https://www.youtube.com/watch?v=_v8EY3uqmEM)**
+
+shorts #AI #disturbing.
+
+📺 Built By Gamers
+
+👁️ 8K • 👍 206 • 💬 7 • ⏱️ 0:30 • 3h ago
+
+---
+
 **[The most powerful AI Agent I’ve ever used in my life](https://www.youtube.com/watch?v=D_YzcH0VsGY)**
 
 Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZG Are you a Business owner? Join my ...
 
 📺 Dan Martell
 
-👁️ 207K • 👍 7K • 💬 387 • ⏱️ 11:55 • 1d ago
+👁️ 219K • 👍 7K • 💬 383 • ⏱️ 11:55 • 1d ago
 
 ---
 
-**[AI News: AI&#39;s Biggest Stand Just Happened](https://www.youtube.com/watch?v=_CIL2g1oMSQ)**
+**[Automate 1000 AI Shorts in 1 Click (FREE &amp; Unlimited)](https://www.youtube.com/watch?v=1YOzo4xqLA8)**
 
-Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookLM Tricks to 3X Productivity here: ...
+Create AI videos fast with Higgsfield ...
 
-📺 Matt Wolfe
+📺 Malva AI
 
-👁️ 32K • 👍 2K • 💬 140 • ⏱️ 33:50 • 15h ago
+👁️ 4K • 👍 277 • 💬 113 • ⏱️ 9:46 • 20h ago
 
 ---
 
@@ -303,7 +313,17 @@ Burger King is testing out an artificial intelligence assistant to work directly
 
 📺 Vailskibum
 
-👁️ 53K • 👍 3K • 💬 743 • ⏱️ 2:19 • 10h ago
+👁️ 58K • 👍 3K • 💬 767 • ⏱️ 2:19 • 11h ago
+
+---
+
+**[Disturbing Things Said By AI (Part 2)](https://www.youtube.com/watch?v=JGC5GpogfCI)**
+
+shorts #AI #disturbing.
+
+📺 Built By Gamers
+
+👁️ 6K • 👍 179 • 💬 7 • ⏱️ 0:27 • 2h ago
 
 ---
 
@@ -313,17 +333,17 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 25K • 👍 1K • 💬 95 • ⏱️ 1:11:08 • 1d ago
+👁️ 27K • 👍 1K • 💬 99 • ⏱️ 1:11:08 • 1d ago
 
 ---
 
-**[Gemini is Now the Best All-in-One AI &amp; More AI Use Cases](https://www.youtube.com/watch?v=VZ0wKU5A_nM)**
+**[Anthropic AI Destroys $31 Billion of IBM Value—The AI Corporate Bloodbath Has Begun](https://www.youtube.com/watch?v=ZLEKvSb0DdA)**
 
-Subscribe for weekly breakdowns on AI news you can actually use! In this video, Igor goes over the various updates and releases ...
+On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI is sending through the world's biggest ...
 
-📺 The AI Advantage
+📺 Tom Bilyeu Clips
 
-👁️ 8K • 👍 358 • 💬 31 • ⏱️ 15:51 • 13h ago
+👁️ 16K • 👍 339 • 💬 63 • ⏱️ 8:38 • 1d ago
 
 ---
 
@@ -333,17 +353,7 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 88K • 👍 2K • 💬 234 • ⏱️ 17:39 • 2d ago
-
----
-
-**[cute little baby funny dance🤣🤩#funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​](https://www.youtube.com/watch?v=GDW22l1_t9o)**
-
-cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​
-
-📺 Sleep Time Tales
-
-👁️ 5K • 💬 1 • ⏱️ 0:08 • 2h ago
+👁️ 89K • 👍 2K • 💬 237 • ⏱️ 17:39 • 2d ago
 
 ---
 
@@ -353,27 +363,15 @@ Anton Korinek talks about the effects of automation on wages and labor, how we m
 
 📺 Future of Life Institute
 
-👁️ 42K • 👍 924 • 💬 522 • ⏱️ 22:41 • 1d ago
+👁️ 46K • 👍 973 • 💬 553 • ⏱️ 22:41 • 1d ago
 
 ---
 
-**[AI’s exponential leap: What next for jobs?](https://www.youtube.com/watch?v=tYvYYFJ3Gww)**
+**[REAL or Ai?? 🤔](https://www.youtube.com/watch?v=y6o7ZW7Ma6k)**
 
-Artificial intelligence is accelerating - but how fast is too fast? A new benchmark from research group METR suggests that the ...
+📺 Liv Swearingen (LIV)
 
-📺 Sky News
-
-👁️ 42K • 👍 517 • 💬 118 • ⏱️ 8:04 • 2d ago
-
----
-
-**[We Made a $300,000,000 Movie in 7 Days Using AI](https://www.youtube.com/watch?v=wNKaYvhTauM)**
-
-I'm a good guy SUBSCRIBE FOR DAILY VLOGS! ▻ http://bit.ly/Subscribe2Logan Watch Previous Vlog (I Survived The World's ...
-
-📺 Logan Paul
-
-👁️ 157K • 👍 7K • 💬 521 • ⏱️ 14:46 • 2d ago
+👁️ 966K • 👍 25K • 💬 4K • ⏱️ 0:18 • 16h ago
 
 ---
 
@@ -389,7 +387,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 258,764 • ❤️ 646 • 22h ago
+⬇️ 378,228 • ❤️ 652 • 23h ago
 
 ---
 
@@ -401,19 +399,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 107,964 • ❤️ 419 • 3d ago
-
----
-
-**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
-
-*Qwen*
-
-Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
-
-`image-text-to-text` `403.4B`
-
-⬇️ 725,954 • ❤️ 1,117 • 4d ago
+⬇️ 172,154 • ❤️ 422 • 3d ago
 
 ---
 
@@ -425,7 +411,19 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 107,821 • ❤️ 336 • 3d ago
+⬇️ 120,090 • ❤️ 338 • 3d ago
+
+---
+
+**[Qwen3.5-397B-A17B](https://huggingface.co/Qwen/Qwen3.5-397B-A17B)**
+
+*Qwen*
+
+Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delta Network and MoE architecture, excelling in vision-language tasks, coding, and reasoning across 201 languages. It features a 397B total parameter count with 17B activated, supporting a native context length of 262,144 tokens, making it suitable for complex multimodal understanding and generation tasks.
+
+`image-text-to-text` `403.4B`
+
+⬇️ 889,203 • ❤️ 1,119 • 4d ago
 
 ---
 
@@ -437,7 +435,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 264,531 • ❤️ 325 • 12h ago
+⬇️ 350,233 • ❤️ 331 • 13h ago
 
 ---
 
@@ -449,7 +447,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 283,033 • ❤️ 894 • 2d ago
+⬇️ 310,641 • ❤️ 898 • 2d ago
 
 ---
 
@@ -461,19 +459,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 189,082 • ❤️ 1,645 • 14d ago
-
----
-
-**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
-
-*MiniMax*
-
-MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
-
-`text-generation` `228.7B`
-
-⬇️ 293,819 • ❤️ 1,033 • 11d ago
+⬇️ 192,464 • ❤️ 1,646 • 14d ago
 
 ---
 
@@ -485,7 +471,19 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,295 • ❤️ 221 • 3d ago
+⬇️ 1,997 • ❤️ 225 • 3d ago
+
+---
+
+**[MiniMax-M2.5](https://huggingface.co/MiniMaxAI/MiniMax-M2.5)**
+
+*MiniMax*
+
+MiniMax-M2.5 is a text-generation model designed for producing human-like text. It excels at tasks such as creative writing, summarization, and conversational AI, leveraging advanced transformer architectures for high-quality output.
+
+`text-generation` `228.7B`
+
+⬇️ 305,031 • ❤️ 1,034 • 12d ago
 
 ---
 
@@ -497,7 +495,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 4,148 • ❤️ 201 • 3d ago
+⬇️ 8,049 • ❤️ 203 • 3d ago
 
 ---
 
@@ -505,15 +503,15 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
+**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
 
-*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
+*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
 
-Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
+Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 14 • 💬 1 • ⭐ 5,836 • 5mo ago
+▲ 5 • 💬 0 • ⭐ 6,034 • 16mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
 ---
 
@@ -523,21 +521,21 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 8 • 💬 1 • ⭐ 8,434 • 23mo ago
+▲ 8 • 💬 1 • ⭐ 8,603 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
-**[Moonshine: Speech Recognition for Live Transcription and Voice Commands](https://huggingface.co/papers/2410.15608)**
+**[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
 
-*Nat Jeffries, Evan King, Manjunath Kudlur et al. (6 authors)*
+*Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
 
-Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
+Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
 
-▲ 5 • 💬 0 • ⭐ 5,801 • 16mo ago
+▲ 15 • 💬 1 • ⭐ 5,836 • 5mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
+[🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
 ---
 
@@ -556,6 +554,19 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 38 • 💬 1 • ⭐ 71,484 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+
+---
+
 **[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
 
 *Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
@@ -568,16 +579,17 @@ A preference-aligned routing framework using a compact 1.5B model effectively ma
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
+**[PaperBanana: Automating Academic Illustration for AI Scientists](https://huggingface.co/papers/2601.23265)**
 
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+*Dawei Zhu, Rui Meng, Yale Song et al. (7 authors)*
 
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+🏢 Google
 
-▲ 38 • 💬 1 • ⭐ 71,419 • 29mo ago
+_paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
+▲ 203 • 💬 13 • ⭐ 4,310 • 28d ago
+
+[🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
 ---
 
@@ -587,7 +599,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 14 • 💬 1 • ⭐ 9,886 • 28mo ago
+▲ 15 • 💬 1 • ⭐ 9,886 • 28mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
 
@@ -599,37 +611,23 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 19 • 💬 1 • ⭐ 30,899 • 14mo ago
+▲ 19 • 💬 1 • ⭐ 30,936 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
 ---
 
-**[PaperBanana: Automating Academic Illustration for AI Scientists](https://huggingface.co/papers/2601.23265)**
+**[PersonaLive! Expressive Portrait Image Animation for Live Streaming](https://huggingface.co/papers/2512.11253)**
 
-*Dawei Zhu, Rui Meng, Yale Song et al. (7 authors)*
+*Zhiyuan Li, Chi-Man Pun, Chen Fang et al. (5 authors)*
 
-🏢 Google
+🏢 GVC Lab at Great Bay University
 
-_paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
+PersonaLive is a diffusion-based portrait animation framework that improves real-time performance through hybrid implicit signals, appearance distillation, and autoregressive streaming generation.
 
-▲ 202 • 💬 13 • ⭐ 4,252 • 28d ago
+▲ 38 • 💬 3 • ⭐ 2,332 • 2mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
-
----
-
-**[MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios](https://huggingface.co/papers/2602.22638)**
-
-*Zhiheng Song, Jingshuai Zhang, Chuan Qin et al. (9 authors)*
-
-🏢 alibaba-inc
-
-MobileBench is a scalable benchmark for evaluating LLM-based route-planning agents in real-world scenarios, featuring anonymized user queries and a deterministic sandbox for reproducible testing.
-
-▲ 91 • 💬 3 • ⭐ 94 • 2d ago
-
-[🎓 arXiv](https://arxiv.org/abs/2602.22638) • [💻 code](https://github.com/AMAP-ML/MobilityBench)
+[🎓 arXiv](https://arxiv.org/abs/2512.11253) • [💻 code](https://github.com/GVCLab/PersonaLive)
 
 ---
 
@@ -643,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.7k • 🔱 2.6k • 1h ago
+⭐ 20.8k • 🔱 2.6k • 48m ago
 
 ---
 
@@ -651,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 Elevate your AI research writing, no more tedious polishing ✨ 
 
-⭐ 8.1k • 🔱 631 • 17d ago
+⭐ 8.1k • 🔱 637 • 17d ago
 
 ---
 
@@ -661,7 +659,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.7k • 🔱 699 • 4h ago
+⭐ 5.8k • 🔱 709 • 5h ago
 
 ---
 
@@ -671,7 +669,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.3k • 🔱 242 • 2d ago
+⭐ 4.3k • 🔱 245 • 2d ago
 
 ---
 
@@ -681,7 +679,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 359 • 2h ago
+⭐ 3.7k • 🔱 359 • 3h ago
 
 ---
 
@@ -691,7 +689,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.5k • 🔱 469 • 6h ago
+⭐ 3.6k • 🔱 471 • 7h ago
 
 ---
 
@@ -701,7 +699,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 316 • 5h ago
+⭐ 3.0k • 🔱 317 • 26m ago
 
 ---
 
@@ -711,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 211 • 6h ago
+⭐ 2.9k • 🔱 211 • 7h ago
 
 ---
 
@@ -721,7 +719,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 549 • 15h ago
+⭐ 2.9k • 🔱 553 • 16h ago
 
 ---
 
@@ -731,7 +729,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 2.7k • 🔱 329 • 6h ago
+⭐ 2.7k • 🔱 332 • 7h ago
 
 ---
 

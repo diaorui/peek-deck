@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T08:31:21.939937+00:00'
+updated: '2026-02-28T09:27:46.480205+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- news
 - videos
+- news
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 08:31 UTC  
+**Last Updated:** February 28, 2026 at 09:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,212.67
+### $63,928.47
 
 ---
 
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1275.43B
+**Market Cap:** $1274.23B
 Rank #1
 
-**Circulating Supply:** 19,995,778 BTC
+**Circulating Supply:** 19,995,859 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--49.4%
+-49.3%
 
 **All-Time Low:** $67.81
-+93895.0%
++94114.7%
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-12h ago
+13h ago
 
 ---
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-1h ago
+2h ago
 
 ---
 
@@ -101,7 +101,7 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-21h ago
+22h ago
 
 ---
 
@@ -117,7 +117,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
 
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 10h ago
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus elec
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-18h ago
+19h ago
 
 ---
 
@@ -133,7 +133,7 @@ A friend who has always been against Bitcoin asked me how to buy it. I feel that
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-13h ago
+14h ago
 
 ---
 
@@ -149,7 +149,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 20h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 21h ago
 
 ---
 
@@ -159,7 +159,7 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 56m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 56m ago
 
 The drop extends a pattern where bitcoin sells off on geopolitical shocks before recovering, as the token's 24/7 liquidity makes it one of the few large assets traders can exit over the weekend.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -211,7 +211,7 @@ The Block • 1d ago
 
 Earlier this week, MARA Holdings, Inc. announced a partnership with Starwood Capital Group and Starwood Digital Ventures to convert select, power-rich Bitcoin mining sites into next-generation digital infrastructure, targeting about 1 gigawatt of near-term IT capacity with a pathway to more than 2.50 gigawatts for enterprise, hyperscale and AI customers. This agreement marks a meaningful shift in MARA’s business model, as its campuses are designed to toggle between Bitcoin mining and AI...
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
@@ -225,7 +225,7 @@ Bloomberg.com • 1d ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-KING5.com • 12h ago
+KING5.com • 13h ago
 
 ---
 
@@ -315,7 +315,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 416K • 👍 15K • 💬 1K • ⏱️ 18:56 • 15h ago
+👁️ 449K • 👍 16K • 💬 1K • ⏱️ 18:56 • 16h ago
 
 ---
 
@@ -325,63 +325,17 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 15K • 👍 575 • ⏱️ 22:53 • 10h ago
+👁️ 17K • 👍 607 • ⏱️ 22:53 • 11h ago
 
 ---
 
-**[Is Bitcoin Going to $40K?](https://www.youtube.com/watch?v=0YEoRC3-SPo)**
+**[The Biggest Crypto Trap I&#39;ve Ever Seen](https://www.youtube.com/watch?v=93kAh88MZKc)**
 
-Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP COINS (available everywhere) ...
+Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
 
-📺 Lark Davis
+📺 Altcoin Daily
 
-👁️ 6K • 👍 367 • 💬 63 • ⏱️ 14:04 • 8h ago
-
----
-
-**[BITCOIN BEAR MARKET IS OVER](https://www.youtube.com/watch?v=CD0wAot-Jd0)**
-
-Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
-
-📺 Discover Crypto
-
-👁️ 16K • 👍 133 • 💬 22 • ⏱️ 0:09 • 2d ago
-
----
-
-**[Bitcoin Holders, This Is Wild (Breaking News)](https://www.youtube.com/watch?v=OdPd3ZKntwU)**
-
-Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
-
-📺 Aaron Bennett
-
-👁️ 33K • 👍 1K • 💬 207 • ⏱️ 8:26 • 2d ago
-
----
-
-**[AMAZING $225,000 BITCOIN INSANE XRPL ALLEGATION?! #crypto #xrp #bitcoin](https://www.youtube.com/watch?v=UuIwLFBj_kM)**
-
-📺 CryptoWendyO
-
-👁️ 21K • 👍 977 • 💬 59 • ⏱️ 1:51 • 2d ago
-
----
-
-**[How Wall Street Can Manipulate Bitcoin](https://www.youtube.com/watch?v=w6LZUaCo50w)**
-
-📺 Andrei Jikh
-
-👁️ 66K • 👍 2K • 💬 127 • ⏱️ 1:18 • 1d ago
-
----
-
-**[Bitcoin: Midterm Year Returns](https://www.youtube.com/watch?v=fV6NzO02KH4)**
-
-Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
-
-📺 Benjamin Cowen
-
-👁️ 59K • 👍 4K • 💬 177 • ⏱️ 12:57 • 1d ago
+👁️ 48K • 👍 3K • 💬 131 • ⏱️ 13:24 • 1d ago
 
 ---
 
@@ -391,17 +345,67 @@ Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 664 • 💬 176 • ⏱️ 25:02 • 17h ago
+👁️ 12K • 👍 672 • 💬 178 • ⏱️ 25:02 • 18h ago
 
 ---
 
-**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
+**[Bitcoin Holders, This Is Wild (Breaking News)](https://www.youtube.com/watch?v=OdPd3ZKntwU)**
 
-BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
 
-📺 Crypto World
+📺 Aaron Bennett
 
-👁️ 6K • 👍 227 • 💬 103 • ⏱️ 20:17 • 11h ago
+👁️ 33K • 👍 1K • 💬 208 • ⏱️ 8:26 • 2d ago
+
+---
+
+**[Is Bitcoin Going to $40K?](https://www.youtube.com/watch?v=0YEoRC3-SPo)**
+
+Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP COINS (available everywhere) ...
+
+📺 Lark Davis
+
+👁️ 8K • 👍 426 • 💬 74 • ⏱️ 14:04 • 9h ago
+
+---
+
+**[BITCOIN BEAR MARKET IS OVER](https://www.youtube.com/watch?v=CD0wAot-Jd0)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+
+📺 Discover Crypto
+
+👁️ 16K • 👍 134 • 💬 22 • ⏱️ 0:09 • 2d ago
+
+---
+
+**[no one tells you about this chart #bitcoin](https://www.youtube.com/watch?v=4flQEj6WK50)**
+
+Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
+
+📺 Altcoin Daily
+
+👁️ 10K • 👍 315 • 💬 10 • ⏱️ 1:07 • 1d ago
+
+---
+
+**[Bitcoin: Midterm Year Returns](https://www.youtube.com/watch?v=fV6NzO02KH4)**
+
+Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
+
+📺 Benjamin Cowen
+
+👁️ 60K • 👍 4K • 💬 178 • ⏱️ 12:57 • 1d ago
+
+---
+
+**[Cops STOLE Bitcoin!?](https://www.youtube.com/watch?v=Ix4GTZN0_Eg)**
+
+Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
+
+📺 Discover Crypto
+
+👁️ 2K • 👍 49 • 💬 2 • ⏱️ 1:55 • 14h ago
 
 ---
 

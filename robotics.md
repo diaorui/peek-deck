@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T08:31:21.948982+00:00'
+updated: '2026-02-28T09:27:46.489429+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
-- news
 - videos
+- news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 08:31 UTC  
+**Last Updated:** February 28, 2026 at 09:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-15h ago
+16h ago
 
 ---
 
@@ -50,13 +50,13 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-18h ago
+19h ago
 
 ---
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -64,13 +64,13 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-2h ago
+3h ago
 
 ---
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -78,7 +78,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-14h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 
 Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-14h ago
+15h ago
 
 ---
 
@@ -94,7 +94,7 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 3h ago
+🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 4h ago
 
 ---
 
@@ -102,7 +102,7 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 Japan is helping people to stand up in life which are disabled I wish there can be sports events to get there sprit up and also even its small medal but it can be achievments of there confidence and live there societal ease Wishing for a good luck to us
 
-4h ago
+5h ago
 
 ---
 
@@ -120,13 +120,13 @@ Los Angeles Times • 2d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqciTlQ0cNJxcmB0_TULzto88h51FmYQ7Z69vZLGlpHAbUviV8x1kpi3&gaa_ts=69a2ab47&gaa_sig=7iU_VJ9EJMSfDHS80haJWAwi2MtZexN25dlkZemLlhUB1Y7Qu0yIV_5S5RVZ7cpGyiE8q6MdK-mtwq4AvFBncA%3D%3D)**
 
-WSJ • 10h ago
+WSJ • 11h ago
 
 ---
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 16h ago
+Tech Xplore • 17h ago
 
 ---
 
@@ -134,7 +134,7 @@ Tech Xplore • 16h ago
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 18h ago
+Automotive News • 19h ago
 
 ---
 
@@ -142,7 +142,7 @@ Automotive News • 18h ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 22h ago
+Financial Times • 23h ago
 
 ---
 
@@ -154,7 +154,7 @@ Bloomberg.com • 1d ago
 
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 9h ago
+MSN • 10h ago
 
 ---
 
@@ -192,17 +192,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 150K • 👍 2K • 💬 311 • ⏱️ 14:16 • 5d ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 112K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
+👁️ 151K • 👍 2K • 💬 315 • ⏱️ 14:16 • 5d ago
 
 ---
 
@@ -212,7 +202,47 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 38K • 👍 251 • 💬 97 • ⏱️ 2:18 • 1d ago
+👁️ 42K • 👍 260 • 💬 101 • ⏱️ 2:18 • 1d ago
+
+---
+
+**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
+
+Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
+
+📺 SciVion
+
+👁️ 5K • 👍 237 • 💬 5 • ⏱️ 0:35 • 9h ago
+
+---
+
+**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
+
+China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
+
+📺 Cyrus Janssen
+
+👁️ 233K • 👍 7K • 💬 968 • ⏱️ 11:41 • 2d ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 113K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
+
+---
+
+**[Unitree Introducing | Unitree As2  Your Companion](https://www.youtube.com/watch?v=1ONE4l_pgHw)**
+
+Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of no-load runtime, IP54 rainproof design. With a 15 ...
+
+📺 Unitree Robotics
+
+👁️ 1.7M • 👍 2K • 💬 384 • ⏱️ 0:58 • 3d ago
 
 ---
 
@@ -222,7 +252,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 104 • 💬 25 • ⏱️ 24:08 • 2d ago
+👁️ 3K • 👍 105 • 💬 25 • ⏱️ 24:08 • 2d ago
 
 ---
 
@@ -232,7 +262,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 47K • 👍 769 • 💬 234 • ⏱️ 12:16 • 1d ago
+👁️ 52K • 👍 802 • 💬 240 • ⏱️ 12:16 • 1d ago
 
 ---
 
@@ -242,7 +272,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 149K • 👍 2K • 💬 570 • ⏱️ 0:55 • 1d ago
+👁️ 162K • 👍 2K • 💬 591 • ⏱️ 0:55 • 1d ago
 
 ---
 
@@ -252,37 +282,7 @@ Arduino Based Projects #arduinoprojects #arduinouno #robotics #robot #light #sta
 
 📺 EAZYTRONIC
 
-👁️ 29K • 👍 111 • 💬 1 • ⏱️ 0:09 • 20h ago
-
----
-
-**[🎬 &quot;They Lived Through Robots. They Died Through a Virus.&quot; — The System Collapse in Surrogates](https://www.youtube.com/watch?v=mfeWGDux0wQ)**
-
-"They Lived Through Robots. They Died Through a Virus." — The System Collapse in Surrogates (2009) "They Lived ...
-
-📺 Daniel
-
-👁️ 37K • 👍 489 • 💬 11 • ⏱️ 0:55 • 2d ago
-
----
-
-**[From trial to scale: How China trains humanoid robots](https://www.youtube.com/watch?v=JzDbD8XmPA4)**
-
-As China enters the first year of its 15th Five-Year Plan, what once seemed futuristic is quickly becoming reality. Embodied ...
-
-📺 CGTN
-
-👁️ 11K • 👍 127 • 💬 12 • ⏱️ 5:27 • 23h ago
-
----
-
-**[Unitree’s Kung Fu Robot Moves SCARILY Human at Spring Festival Gala (LIVE!)](https://www.youtube.com/watch?v=LY9qOJe-ud8)**
-
-Millions watched in disbelief as Unitree's G1 humanoid AI robot took the stage at the legendary Spring Festival Gala — and ...
-
-📺 NextGen AI
-
-👁️ 34K • 👍 401 • 💬 72 • ⏱️ 8:03 • 5d ago
+👁️ 31K • 👍 119 • 💬 1 • ⏱️ 0:09 • 20h ago
 
 ---
 
