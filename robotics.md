@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T01:58:12.321535+00:00'
+updated: '2026-02-28T03:59:56.143308+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 01:58 UTC  
+**Last Updated:** February 28, 2026 at 03:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-8h ago
+10h ago
+
+---
+
+**[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
+
+4h ago
 
 ---
 
@@ -44,35 +50,13 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-11h ago
-
----
-
-**[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
-
-2h ago
-
----
-
-**[Concept of a combat robot dog](https://www.reddit.com/r/robotics/comments/1rg4qby/concept_of_a_combat_robot_dog/)**
-
-Teortaxes on 𝕏: https://x.com/teortaxesTex/status/2026872339325993214
-
-14h ago
+13h ago
 
 ---
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-9h ago
-
----
-
-**[Change My Mind: All these Unitree videos are just stuff BD was doing a decade ago, but with multiple robots at once](https://www.reddit.com/r/robotics/comments/1rgdvbl/change_my_mind_all_these_unitree_videos_are_just/)**
-
-Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
-
-8h ago
+11h ago
 
 ---
 
@@ -80,7 +64,27 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-7h ago
+9h ago
+
+---
+
+**[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
+
+1h ago
+
+---
+
+**[Change My Mind: All these Unitree videos are just stuff BD was doing a decade ago, but with multiple robots at once](https://www.reddit.com/r/robotics/comments/1rgdvbl/change_my_mind_all_these_unitree_videos_are_just/)**
+
+Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
+
+10h ago
+
+---
+
+**[ros-skill: Give AI agents the ability to control ROS/ROS2 robots](https://www.reddit.com/r/robotics/comments/1rgrc71/rosskill_give_ai_agents_the_ability_to_control/)**
+
+57m ago
 
 ---
 
@@ -92,17 +96,9 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 ---
 
-**[Agent and Robotics Hackathon 2026 -- Prize Update!](https://www.reddit.com/r/robotics/comments/1rgfyfb/agent_and_robotics_hackathon_2026_prize_update/)**
+**[Are there any recommended hardware for visual inertial odometry?](https://www.reddit.com/r/robotics/comments/1rgqf8j/are_there_any_recommended_hardware_for_visual/)**
 
-Hi everyone, Thank you so much to everyone who has already signed up - we're excited by the response from the robotics community! I wanted to share an update: we've secured $13,500 in cash prizes for Agent and Robotics Hackathon 2026! 🎉 We're also finalizing additional non-cash prizes and will share more details as we get closer to the event. For those interested in participating, you can find more information and register at https://www.kxsb.org/ar26 Looking forward to seeing what everyone creates!
-
-6h ago
-
----
-
-**[Open source robotics projects to get involved with?](https://www.reddit.com/r/robotics/comments/1rgnca5/open_source_robotics_projects_to_get_involved_with/)**
-
-Hello all, I'm a full-time embedded software engineer working with embassy rust. I'm learning a lot at my job but I went to school for robotics and want to contribute to more robotics related projects. I have a master's in robotics and have done research on autonomous underwater vehicles (AUVs). If you know of any open source projects currently doing stuff in the robotics space (preferably maritime related but down for whatever), please let me know. Thanks!
+Maybe someone has used the RoboBaton-mini? It looks very similar to the Intel RealSense T265, and I think it could be a good alternative. But the issue is that I haven't used this product myself, so I'd like to consult those who have. Any constructive advice would be greatly appreciated. The following picture shows the specifications of the mini(https://myrobotproject.com/product/mini/) https://preview.redd.it/pgcigkyja5mg1.png?width=424&format=png&auto=webp&s=49016e60d422ee8103d3f117992a35e87b6144a7
 
 1h ago
 
@@ -136,11 +132,9 @@ The Verge • 1d ago
 
 ---
 
-**[AI’s role in the future of robotics: Insights from 3Laws](https://www.therobotreport.com/ais-role-in-the-future-of-robotics-insights-from-3laws/)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqcvJKPI_e68zAKgNzGgg3dxYosDDcDkyjQZ0C1X-1_IzYg0vbOdPVKA&gaa_ts=69a26ba6&gaa_sig=jadeKGrn8vd6n_OSkP29Zh8SKzsdgUa7c-CXDFhRcdyBEjODLwAmEIqJGlu9inTKn_TVX71QKmUwvmES4B04Ew%3D%3D)**
 
-Andrew Singletary and Amir Sharif discuss the evolution of the 3Laws technology from academic research to practical applications.
-
-The Robot Report • 2h ago
+WSJ • 6h ago
 
 ---
 
@@ -148,13 +142,19 @@ The Robot Report • 2h ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 16h ago
+Financial Times • 18h ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqe0rJQnaNf0jGQOfOXe0jLSVwAkkABNRVzN4VnWiTS12peQaam_hov_&gaa_ts=69a24f1b&gaa_sig=fyH_u6zvQmHaYBdjO_MDqxZihA0gkowf3RkOR5GmUnikDQlF8Sq0qU5iqYe6dj3cqCZ71dlkY1ZxBNKrmSabeg%3D%3D)**
+**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-WSJ • 3h ago
+Tech Xplore • 12h ago
+
+---
+
+**[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
+
+MSN • 5h ago
 
 ---
 
@@ -162,19 +162,13 @@ WSJ • 3h ago
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 11h ago
+Automotive News • 13h ago
 
 ---
 
 **[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-Bloomberg.com • 22h ago
-
----
-
-**[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
-
-MSN • 3h ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -182,7 +176,7 @@ MSN • 3h ago
 
 Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
 
-South China Morning Post • 19h ago
+South China Morning Post • 21h ago
 
 ---
 
@@ -196,17 +190,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 146K • 👍 2K • 💬 303 • ⏱️ 14:16 • 5d ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 109K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
+👁️ 148K • 👍 2K • 💬 311 • ⏱️ 14:16 • 5d ago
 
 ---
 
@@ -220,13 +204,23 @@ China has unveiled its first fully integrated robot army, a development that sig
 
 ---
 
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 110K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
+
+---
+
 **[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
 
 China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
 
 📺 NewsX Live
 
-👁️ 32K • 👍 213 • 💬 80 • ⏱️ 2:18 • 1d ago
+👁️ 34K • 👍 231 • 💬 86 • ⏱️ 2:18 • 1d ago
 
 ---
 
@@ -240,13 +234,33 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
+**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
+
+China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
+
+📺 Cyrus Janssen
+
+👁️ 226K • 👍 7K • 💬 958 • ⏱️ 11:41 • 2d ago
+
+---
+
+**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
+
+Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
+
+📺 SciVion
+
+👁️ 1K • 💬 2 • ⏱️ 0:35 • 3h ago
+
+---
+
 **[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
 
 Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
 
 📺 NBC News
 
-👁️ 32K • 👍 609 • 💬 204 • ⏱️ 12:16 • 1d ago
+👁️ 38K • 👍 692 • 💬 218 • ⏱️ 12:16 • 1d ago
 
 ---
 
@@ -256,15 +270,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 127K • 👍 1K • 💬 505 • ⏱️ 0:55 • 1d ago
-
----
-
-**[German Chancellor Surprised To Watch China Humanoid Robots Kung Fu ???](https://www.youtube.com/watch?v=QMZSv5lmVeY)**
-
-📺 Indiplus News Official
-
-👁️ 364K • 👍 10K • 💬 273 • ⏱️ 0:29 • 1d ago
+👁️ 135K • 👍 2K • 💬 528 • ⏱️ 0:55 • 1d ago
 
 ---
 
@@ -274,17 +280,7 @@ Arduino Based Projects #arduinoprojects #arduinouno #robotics #robot #light #sta
 
 📺 EAZYTRONIC
 
-👁️ 27K • 👍 99 • ⏱️ 0:09 • 13h ago
-
----
-
-**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
-
-German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
-
-📺 DPCcars
-
-👁️ 152K • 👍 1K • 💬 535 • ⏱️ 1:27 • 23h ago
+👁️ 28K • 👍 106 • ⏱️ 0:09 • 15h ago
 
 ---
 

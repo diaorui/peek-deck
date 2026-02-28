@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T01:58:12.312437+00:00'
+updated: '2026-02-28T03:59:56.133887+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
-- news
 - videos
+- news
+- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 01:58 UTC  
+**Last Updated:** February 28, 2026 at 03:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,13 +38,13 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,821.21
+### $65,967.33
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.3%  
+**24h:** -2.8%  
 **7d:** -2.7%  
 **30d:** -21.9%  
 **90d:** -23.7%  
@@ -54,23 +54,23 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1315.96B
+**Market Cap:** $1316.27B
 Rank #1
 
-**Circulating Supply:** 19,995,737 BTC
+**Circulating Supply:** 19,995,778 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
 -47.8%
 
 **All-Time Low:** $67.81
-+96953.5%
++96938.8%
 
 ---
 
 ## Fear & Greed Index
 
-### 13
+### 11
 **EXTREME FEAR**
 
 ---
@@ -79,13 +79,13 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-5h ago
+7h ago
 
 ---
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-11h ago
+13h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-15h ago
+17h ago
 
 ---
 
@@ -101,7 +101,15 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-12h ago
+14h ago
+
+---
+
+**[Brazil Solar Mega-Project Studies Bitcoin Mining Plan](https://www.reddit.com/r/Bitcoin/comments/1rgk0uh/brazil_solar_megaproject_studies_bitcoin_mining/)**
+
+Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
+
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 6h ago
 
 ---
 
@@ -117,15 +125,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-7h ago
-
----
-
-**[Brazil Solar Mega-Project Studies Bitcoin Mining Plan](https://www.reddit.com/r/Bitcoin/comments/1rgk0uh/brazil_solar_megaproject_studies_bitcoin_mining/)**
-
-Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
-
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 4h ago
+9h ago
 
 ---
 
@@ -133,7 +133,7 @@ Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus elec
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 14h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 16h ago
 
 ---
 
@@ -147,7 +147,7 @@ See you in 10 years.
 
 **[Turning Cans Into Sats](https://www.reddit.com/r/Bitcoin/comments/1rgdnzn/turning_cans_into_sats/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -175,33 +175,19 @@ The New York Times • 1d ago
 
 ---
 
-**[Bitcoin fans latch on to ‘ridiculous’ Jane Street conspiracy to explain price slump](https://fortune.com/2026/02/26/bitcoin-slump-jane-street-conspiracy-theory/)**
+**['Bitcoin Retail Investors Are All In' And That's Why There's No Floor, Blockstream CEO Says](https://finance.yahoo.com/news/bitcoin-retail-investors-thats-why-104508164.html)**
 
-Every slump needs a scapegoat.
-
-Fortune • 1d ago
-
----
-
-**[BTC price falls with ETH, SOL while decred, AI-linked tokens advance: Crypto Markets Today](https://www.coindesk.com/markets/2026/02/27/bitcoin-falls-with-ether-solana-while-decred-ai-linked-tokens-advance)**
-
-Positioning in futures and options shows traders looking to protect against further declines.
-
-CoinDesk • 14h ago
-
----
-
-**[Will Bitcoin Price Fall Below $10,000? Wikipedia Founder Under Fire After Slamming BTC as ‘Failure’](https://finance.yahoo.com/news/bitcoin-price-fall-below-10-084119680.html)**
-
-Jimmy Wales predicts Bitcoin's price could fall below $10,000 in today’s dollars by 2050. He called it a complete failure of currency. The comments come ...
+Blockstream CEO Adam Back told CNBC that Bitcoin (CRYPTO: BTC) lacks downside support because retail investors are “all in” with no cash left to buy dips, explaining the 25% year-to-date decline. The ‘All In’ Problem Back on Monday explained that...
 
 Yahoo Finance • 17h ago
 
 ---
 
-**[Crypto: Febrility Persists, But a Floor May Be Forming](https://etfdb.com/coinshares-crypto-etf-hub/coinshares-channel/bitcoin-febrility-persists-floor-forming/)**
+**[The Bull Case for Bitcoin Is Hiding in the $1 Trillion Wreckage](https://www.bloomberg.com/news/articles/2026-02-25/the-bull-case-for-bitcoin-is-hiding-in-the-1-trillion-wreckage)**
 
-ETF Database • 2h ago
+Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
+
+Bloomberg.com • 2d ago
 
 ---
 
@@ -209,21 +195,35 @@ ETF Database • 2h ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-The Block • 4h ago
+The Block • 6h ago
 
 ---
 
-**[Fake mail carrier accused of violently strangling Seattle homeowner’s wife during demand for bitcoin](https://www.king5.com/article/news/local/fake-mail-carrier-accused-of-violently-strangling-seattle-homeowners-wife-during-demand-for-bitcoin/281-2e1dbfe9-e6ad-49e9-abc2-3d78eae26bb7)**
+**[MARA Holdings Stock Surges. The Bitcoin Miner Is Moving Into AI.](https://www.barrons.com/articles/mara-holdings-earnings-stock-price-ai-e07c9341?gaa_at=eafs&gaa_n=AWEtsqcp7YlpqZWH_NsIe6ptiCmiDc753GDBjiKtkjSZkG33KalsZtmhxYhc&gaa_ts=69a26ba0&gaa_sig=yNpoaD2Vsw4-9hIre0G2lZPBbwI8XwgKTJqoM87tXQj_Nx9uKFr53Ke0BEw8npV4Dc-BXRQopK2azP8je-3L0A%3D%3D)**
 
-Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
-
-king5.com • 6h ago
+Barron's • 13h ago
 
 ---
 
-**[MARA Holdings Stock Surges. The Bitcoin Miner Is Moving Into AI.](https://www.barrons.com/articles/mara-holdings-earnings-stock-price-ai-e07c9341?gaa_at=eafs&gaa_n=AWEtsqdWiYC7ytxUQo4sMJAWsa8cX-iR0utdaY0Jll66C3UCc6U9GGJzLpmh&gaa_ts=69a24f16&gaa_sig=pOH87g-hjDqzlCjb9XV8cpbnLaNopChqSXcKCNKowoJV34UcEtIOMV3Ea9yRrtT9SAq4kQ5FpaW-VtdFnMNGLw%3D%3D)**
+**[MARA swings to $1.7 billion Q4 loss on bitcoin markdown, shares jump 15% after Starwood AI deal](https://www.theblock.co/post/391530/mara-swings-1-7-billion-q4-loss-bitcoin-markdown-shares-jump-15-starwood-ai-deal)**
 
-Barron's • 11h ago
+A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin Miner MARA, Starwood Partner to Develop AI Data Centers](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-mara-starwood-partner-to-develop-ai-data-centers)**
+
+Bloomberg.com • 1d ago
+
+---
+
+**[Citi wants to make bitcoin bankable as Wall Street builds native crypto infrastructure](https://www.coindesk.com/business/2026/02/27/citi-and-morgan-stanley-expand-bitcoin-and-crypto-custody-trading-and-tokenization-efforts)**
+
+The Wall Street giants are accelerating digital asset strategies, with Citi focusing on regulated Bitcoin custody and cross-margining infrastructure and Morgan Stanley pushing spot crypto access and on-platform services.
+
+CoinDesk • 8h ago
 
 ---
 
@@ -269,7 +269,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
-⬆️ 1 • 💬 1 • 23h ago • [ordain.art](https://ordain.art)
+⬆️ 1 • 💬 1 • 1d ago • [ordain.art](https://ordain.art)
 
 ---
 
@@ -313,7 +313,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 317K • 👍 13K • 💬 1K • ⏱️ 18:56 • 8h ago
+👁️ 365K • 👍 14K • 💬 1K • ⏱️ 18:56 • 11h ago
 
 ---
 
@@ -323,35 +323,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 8K • 👍 413 • ⏱️ 22:53 • 3h ago
-
----
-
-**[28 Minutes of People Losing ALL OF THEIR MONEY in Crypto](https://www.youtube.com/watch?v=uycNnSk5m3E)**
-
-Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea what to do about it. BTC fell from an all-time high of ...
-
-📺 Edwards Economics
-
-👁️ 4K • 👍 320 • 💬 90 • ⏱️ 28:23 • 3h ago
-
----
-
-**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
-
-BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 4K • 👍 180 • 💬 28 • ⏱️ 20:17 • 4h ago
-
----
-
-**[How Wall Street Can Manipulate Bitcoin](https://www.youtube.com/watch?v=w6LZUaCo50w)**
-
-📺 Andrei Jikh
-
-👁️ 64K • 👍 2K • 💬 126 • ⏱️ 1:18 • 1d ago
+👁️ 12K • 👍 508 • ⏱️ 22:53 • 5h ago
 
 ---
 
@@ -365,6 +337,26 @@ Is Jane Street the reason Bitcoin is not sitting at 150K right now? Massive clai
 
 ---
 
+**[Bitcoin Holders, This Is Wild (Breaking News)](https://www.youtube.com/watch?v=OdPd3ZKntwU)**
+
+Bitcoin Market Update ➡️ Fave Place To Trade: https://aaronbtc.com/low Into The Cryptoverse Charts – 10% Off ...
+
+📺 Aaron Bennett
+
+👁️ 33K • 👍 1K • 💬 206 • ⏱️ 8:26 • 2d ago
+
+---
+
+**[Bitcoin Under Pressure as Layoffs Surge and AI Uncertainty Spreads](https://www.youtube.com/watch?v=6zO05z_J7T4)**
+
+Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face a new wave of uncertainty. Mass layoffs across ...
+
+📺 The Wolf Of All Streets
+
+👁️ 12K • 👍 655 • 💬 174 • ⏱️ 25:02 • 13h ago
+
+---
+
 **[The Biggest Bitcoin Short Squeeze of 2026 Is Loading [Proof]](https://www.youtube.com/watch?v=4z0knsMozq4)**
 
 Bitcoin ripped into a relief rally after sweeping range lows, liquidating a wave of shorts and shifting momentum for the first time in ...
@@ -375,33 +367,41 @@ Bitcoin ripped into a relief rally after sweeping range lows, liquidating a wave
 
 ---
 
+**[Bitcoin: Midterm Year Returns](https://www.youtube.com/watch?v=fV6NzO02KH4)**
+
+Let's talk about Bitcoin returns in midterm years. Into The Cryptoverse Premium (Use code ITC50 for 50% off your first month!)
+
+📺 Benjamin Cowen
+
+👁️ 59K • 👍 4K • 💬 177 • ⏱️ 12:57 • 1d ago
+
+---
+
+**[IT COULD BE OVER FOR CRYPTO! TRUMP DEMANDS CLARITY BILL DEADLINE NOW #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=NewU_71SXPU)**
+
+📺 CryptoWendyO
+
+👁️ 20K • 👍 1K • 💬 46 • ⏱️ 2:20 • 1d ago
+
+---
+
 **[Billions Incoming To Bitcoin! The Big News Behind the Fear](https://www.youtube.com/watch?v=QiKC3Or-ztI)**
 
 Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COINS (available everywhere) ...
 
 📺 Lark Davis
 
-👁️ 15K • 👍 828 • 💬 46 • ⏱️ 16:32 • 14h ago
+👁️ 16K • 👍 837 • 💬 47 • ⏱️ 16:32 • 16h ago
 
 ---
 
-**[Bitcoin Manipulation EXPOSED](https://www.youtube.com/watch?v=EplIiWzjUa4)**
+**[THIS PREDICTS BITCOIN WILL FINALLY PUMP](https://www.youtube.com/watch?v=z_ff4Yu4KBs)**
 
 Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://www.toobit.com/t/DiscoverCrypto Blofin ...
 
 📺 Discover Crypto
 
-👁️ 13K • 👍 268 • 💬 12 • ⏱️ 0:44 • 22h ago
-
----
-
-**[Bitcoin Under Pressure as Layoffs Surge and AI Uncertainty Spreads](https://www.youtube.com/watch?v=6zO05z_J7T4)**
-
-Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face a new wave of uncertainty. Mass layoffs across ...
-
-📺 The Wolf Of All Streets
-
-👁️ 11K • 👍 646 • 💬 178 • ⏱️ 25:02 • 11h ago
+👁️ 2K • 👍 73 • 💬 1 • ⏱️ 0:48 • 2h ago
 
 ---
 
