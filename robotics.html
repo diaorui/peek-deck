@@ -57,7 +57,7 @@
             "name": "PeekDeck",
             "url": "https://peekdeck.ruidiao.dev"
           },
-          "dateModified": "2026-02-28T22:24:09.915421+00:00"
+          "dateModified": "2026-02-28T22:48:06.418892+00:00"
         },
         {
           "@type": "BreadcrumbList",
@@ -750,37 +750,6 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/', '_blank')">
-                    <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/yWrEsapCyBQ0JMrsMD6pxZL5vQJOkdG8LmAGn0Q8tAE.png?width=640&crop=smart&auto=webp&s=174a5f204ffb33c888f25e33c73b0f7bcb79ac24" alt="This agibot a3 really is something else." onerror="this.style.display='none'" loading="lazy">
-                        
-                    </div>
-
-                    <div class="post-content">
-                        <!-- Post title -->
-                        <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/" target="_blank" onclick="event.stopPropagation();">This agibot a3 really is something else.</a>
-                        </div>
-
-                        <!-- Rich description (if available) -->
-                        
-
-                        <!-- Metadata -->
-                        <div class="post-meta">
-                            <div class="post-meta-line">
-                                
-                                <div class="post-meta-item">
-                                    <span data-timestamp="1772235210.0"></span>
-                                </div>
-                                
-                                <!-- External article source (on same line as time) -->
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
                 <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/', '_blank')">
                     <div class="post-thumbnail">
                         
@@ -803,6 +772,37 @@
                                 
                                 <div class="post-meta-item">
                                     <span data-timestamp="1772314623.0"></span>
+                                </div>
+                                
+                                <!-- External article source (on same line as time) -->
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/', '_blank')">
+                    <div class="post-thumbnail">
+                        
+                        <img src="https://external-preview.redd.it/yWrEsapCyBQ0JMrsMD6pxZL5vQJOkdG8LmAGn0Q8tAE.png?width=640&crop=smart&auto=webp&s=174a5f204ffb33c888f25e33c73b0f7bcb79ac24" alt="This agibot a3 really is something else." onerror="this.style.display='none'" loading="lazy">
+                        
+                    </div>
+
+                    <div class="post-content">
+                        <!-- Post title -->
+                        <div class="post-title">
+                            <a href="https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/" target="_blank" onclick="event.stopPropagation();">This agibot a3 really is something else.</a>
+                        </div>
+
+                        <!-- Rich description (if available) -->
+                        
+
+                        <!-- Metadata -->
+                        <div class="post-meta">
+                            <div class="post-meta-line">
+                                
+                                <div class="post-meta-item">
+                                    <span data-timestamp="1772235210.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
@@ -911,23 +911,21 @@
                     </div>
                 </div>
                 
-                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rhdybq/rubber_duck_debugging/', '_blank')">
+                <div class="carousel-card" onclick="window.open('https://www.reddit.com/r/robotics/comments/1rhf30f/exploring_a_new_direction_for_embedded_robotics/', '_blank')">
                     <div class="post-thumbnail">
-                        
-                        <img src="https://external-preview.redd.it/I6JsbsG0q9QfvR0l1PNRUTrcjnZgZT2oOueTFN9eTT8.jpeg?width=320&crop=smart&auto=webp&s=fdd4b674ac8a0c7761db92b10d5a996c80f7f9be" alt="Rubber Duck Debugging" onerror="this.style.display='none'" loading="lazy">
                         
                     </div>
 
                     <div class="post-content">
                         <!-- Post title -->
                         <div class="post-title">
-                            <a href="https://www.reddit.com/r/robotics/comments/1rhdybq/rubber_duck_debugging/" target="_blank" onclick="event.stopPropagation();">Rubber Duck Debugging</a>
+                            <a href="https://www.reddit.com/r/robotics/comments/1rhf30f/exploring_a_new_direction_for_embedded_robotics/" target="_blank" onclick="event.stopPropagation();">Exploring a new direction for embedded robotics AI - early results worth sharing.</a>
                         </div>
 
                         <!-- Rich description (if available) -->
                         
                         <div class="post-description">
-                            Been a hot minute from my last robotics project, I decided to visit the old school computer vision stuff - color detection. Had a little fun with this small robot arm that I got. While it's quite simple to do, it seemed to be common trick still in automation/manufacturing. Just liked the fact that I don't need to put the word "AI" up, pure old school stuff.
+                            Current Vision-Language-Action (VLA) models have a fundamental bottleneck: self-attention memory scales quadratically at O(N²). For a €150 robot arm, relying on a cloud TPU cluster defeats the whole purpose of edge robotics. For the past few month, I've been working on FluidBot: an architectural experiment that replaces attention entirely with Reaction-Diffusion PDEs (which scale linearly at O(N)). The earlyproof-of-concept results surprised me: • An 84x reduction in VRAM at 256x256 resolution (~203MB vs an estimated ~14GB for a standard ViT). • Video scaling is fundamentally different: processing 16x more frames only requires 2.4x more memory. I’ve detailed the core math, the empirical benchmarks, and the honest limitations in my article below. If you work on efficient vision architectures, embedded AI, or robotics, I’d genuinely value your feedback before moving to hardware validation on the SO-101 arm.
                         </div>
                         
 
@@ -936,23 +934,23 @@
                             <div class="post-meta-line">
                                 
                                 <div class="post-meta-item">
-                                    <span data-timestamp="1772312584.0"></span>
+                                    <span data-timestamp="1772315395.0"></span>
                                 </div>
                                 
                                 <!-- External article source (on same line as time) -->
                                 
                                 <div class="post-meta-item post-source">
-                                    <a href="https://youtu.be/Jq-79XXTvu4?si=P8xvnzrv4O5S--4p" target="_blank" onclick="event.stopPropagation();">
+                                    <a href="https://www.linkedin.com/pulse/exploring-new-direction-embedded-robotics-ai-early-results-polly-4x3nf" target="_blank" onclick="event.stopPropagation();">
                                         
                                             
-                                            <img src="https://www.youtube.com/s/desktop/18bfd1c0/img/favicon.ico" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
+                                            <img src="https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca" alt="" class="post-favicon" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline-block';" loading="lazy">
                                             <svg width="14" height="14" viewBox="0 0 16 16" fill="currentColor" style="flex-shrink: 0; display: none;">
                                                 <path d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"/>
                                                 <path d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"/>
                                             </svg>
                                             
                                         
-                                        <span>youtu.be</span>
+                                        <span>linkedin.com</span>
                                     </a>
                                 </div>
                                 
@@ -984,7 +982,7 @@
 
     </div>
     <div class="widget-footer">
-        <small data-timestamp="2026-02-28T21:43:29.154626+00:00">Updated 2026-02-28T21:43:29.154626+00:00</small>
+        <small data-timestamp="2026-02-28T22:48:01.664272+00:00">Updated 2026-02-28T22:48:01.664272+00:00</small>
     </div>
 </div>
 

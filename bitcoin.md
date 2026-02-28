@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T22:24:10.277268+00:00'
+updated: '2026-02-28T22:48:06.813209+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 22:24 UTC  
+**Last Updated:** February 28, 2026 at 22:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,581.49
+### $67,501.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** -1.2%  
-**30d:** -20.6%  
-**90d:** -22.5%  
-**1y:** -22.3%  
+**24h:** +2.6%  
+**7d:** -0.1%  
+**30d:** -19.8%  
+**90d:** -21.6%  
+**1y:** -21.4%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-1h ago
+2h ago
 
 ---
 
@@ -89,7 +89,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
-3h ago
+4h ago
 
 ---
 
@@ -119,7 +119,7 @@ I have a pretty crazy story that happened to me last year lol. Back in 2022, I h
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-9h ago
+10h ago
 
 ---
 
@@ -141,15 +141,15 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
 
-10h ago
+11h ago
 
 ---
 
-**[Daily Discussion, February 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1rguxhk/daily_discussion_february_28_2026/)**
+**[I built a clean, ad-free DCA simulator to show my friends it's never "too late" (2026 data)](https://www.reddit.com/r/Bitcoin/comments/1rhgcht/i_built_a_clean_adfree_dca_simulator_to_show_my/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threads asking if starting a DCA today is worth it with the current 2026 volatility. I got tired of using calculators that are 50% ads and trackers, so I built a 'calm' version for myself. It uses real historical data and compares BTC vs traditional savings. For example: Investing $100/month since the 2024 halving would have you up X% today, even with the recent swings. It's part of a suite of tools I just put on Product Hunt for feedback. No signups, no ads, just the math. If you're bored, I'd love to know if the UI feels intuitive to you: https://bytecalculators.com/crypto-dca-calculator-dollar-cost-averaging-simulator
 
-16h ago
+5m ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 3h ago
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 8h ago
+Bloomberg.com • 9h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 8h ago
 
 Tehran launched waves of missiles and drones targeting Israel, U.S. bases, and Gulf allies, with explosions reported in Dubai, Kuwait, and Bahrain.
 
-CoinDesk • 11h ago
+CoinDesk • 12h ago
 
 ---
 
@@ -183,7 +183,7 @@ CoinDesk • 11h ago
 
 The price of Bitcoin plummeted to nearly $63,000 overnight amid U.S. and Israel strikes on Iran, but has mostly recovered in the hours since.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -229,7 +229,7 @@ Barron's • 1d ago
 
 The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -255,7 +255,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 4 • 💬 0 • 12h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 4 • 💬 0 • 13h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -276,6 +276,12 @@ Links to major crypto world figures are just the start.
 Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
 
 ⬆️ 2 • 💬 0 • 2d ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
+
+---
+
+**[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
+
+⬆️ 1 • 💬 1 • 7m ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -300,14 +306,6 @@ Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance u
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
 ⬆️ 1 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
-
----
-
-**[Institutional cryptocurrency platform Blockfills is for sale after Bitcoin drops](https://news.ycombinator.com/item?id=47136131)**
-
-The Chicago-based company said it was temporarily suspending client deposits and withdrawals last week due to recent market and financial conditions.
-
-⬆️ 1 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
 
 ---
 
@@ -411,7 +409,7 @@ Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea wha
 
 📺 Edwards Economics
 
-👁️ 31K • 👍 1K • 💬 400 • ⏱️ 28:23 • 23h ago
+👁️ 31K • 👍 1K • 💬 400 • ⏱️ 28:23 • 1d ago
 
 ---
 

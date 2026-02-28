@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T22:24:10.285859+00:00'
+updated: '2026-02-28T22:48:06.822930+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 22:24 UTC  
+**Last Updated:** February 28, 2026 at 22:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-9h ago
+10h ago
 
 ---
 
@@ -58,19 +58,19 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-3h ago
-
----
-
-**[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
-
-22h ago
+4h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-47m ago
+1h ago
+
+---
+
+**[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
+
+23h ago
 
 ---
 
@@ -92,15 +92,15 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-19h ago
+20h ago
 
 ---
 
-**[Rubber Duck Debugging](https://www.reddit.com/r/robotics/comments/1rhdybq/rubber_duck_debugging/)**
+**[Exploring a new direction for embedded robotics AI - early results worth sharing.](https://www.reddit.com/r/robotics/comments/1rhf30f/exploring_a_new_direction_for_embedded_robotics/)**
 
-Been a hot minute from my last robotics project, I decided to visit the old school computer vision stuff - color detection. Had a little fun with this small robot arm that I got. While it's quite simple to do, it seemed to be common trick still in automation/manufacturing. Just liked the fact that I don't need to put the word "AI" up, pure old school stuff.
+Current Vision-Language-Action (VLA) models have a fundamental bottleneck: self-attention memory scales quadratically at O(N²). For a €150 robot arm, relying on a cloud TPU cluster defeats the whole purpose of edge robotics. For the past few month, I've been working on FluidBot: an architectural experiment that replaces attention entirely with Reaction-Diffusion PDEs (which scale linearly at O(N)). The earlyproof-of-concept results surprised me: • An 84x reduction in VRAM at 256x256 resolution (~203MB vs an estimated ~14GB for a standard ViT). • Video scaling is fundamentally different: processing 16x more frames only requires 2.4x more memory. I’ve detailed the core math, the empirical benchmarks, and the honest limitations in my article below. If you work on efficient vision architectures, embedded AI, or robotics, I’d genuinely value your feedback before moving to hardware validation on the SO-101 arm.
 
-🔗 [youtu.be](https://youtu.be/Jq-79XXTvu4?si=P8xvnzrv4O5S--4p) • 1h ago
+🔗 [linkedin.com](https://www.linkedin.com/pulse/exploring-new-direction-embedded-robotics-ai-early-results-polly-4x3nf) • 58m ago
 
 ---
 
@@ -282,7 +282,7 @@ Audi has officially deployed humanoid robot hands in partnership with Mimic Robo
 
 📺 DPCcars
 
-👁️ 104 • 👍 14 • 💬 2 • ⏱️ 2:50 • 2h ago
+👁️ 104 • 👍 14 • 💬 2 • ⏱️ 2:50 • 3h ago
 
 ---
 

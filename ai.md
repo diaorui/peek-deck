@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T22:24:10.269453+00:00'
+updated: '2026-02-28T22:48:06.804803+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
-- news
 - videos
+- social
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 22:24 UTC  
+**Last Updated:** February 28, 2026 at 22:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, hours after Defense Secretary Pete Hegseth declared the company a supply chain risk to national security, which restricts military contractors from doing business with the AI giant. Amodei called the move "retaliatory and punitive," and he said Anthropic sought to draw "red lines" in the government's use of its technology because "we believe that crossing those lines is contrary to American values, and we wanted to stand up for American values."
 
-🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 3h ago
+🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 4h ago
 
 ---
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 18h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 19h ago
 
 ---
 
@@ -59,14 +59,6 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 ---
 
-**[How do you handle all these AI subscribtions?](https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/)**
-
-how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
-
-2h ago
-
----
-
 **[Trump orders federal agencies to stop using Anthropic AI tech ‘immediately’](https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/)**
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
@@ -75,19 +67,35 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 ---
 
-**[Acing this new AI exam — which its creators say is the toughest in the world — might point to the first signs of AGI](https://www.reddit.com/r/artificial/comments/1rhccfv/acing_this_new_ai_exam_which_its_creators_say_is/)**
-
-Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
-
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 2h ago
-
----
-
 **[I built a tool to automate your workflow after recording yourself doing the task once (Open Source)](https://www.reddit.com/r/artificial/comments/1rhag6l/i_built_a_tool_to_automate_your_workflow_after/)**
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
+4h ago
+
+---
+
+**[How do you handle all these AI subscribtions?](https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/)**
+
+how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
+
 3h ago
+
+---
+
+**[The Trends That Will Actually Matter in the Next Decade](https://www.reddit.com/r/artificial/comments/1rhgf7e/the_trends_that_will_actually_matter_in_the_next/)**
+
+AI is only part of the story. Energy, demographics, resilience, and digital trust will reshape how we live and work. A list of shiny things. A few buzzwords. Some recycled nonsense about “the metaverse,” “disruption,” and “the future of innovation.” Most of it is useless because it treats trends like gadgets instead of what they really are: pressures.
+
+🔗 [Medium](https://medium.com/@kpistrikesback/the-trends-that-will-actually-matter-in-the-next-decade-3e6f9851e036) • 1m ago
+
+---
+
+**[How I built multi-agent AI system where agents peer-review each other before I approve](https://www.reddit.com/r/artificial/comments/1rh95cl/how_i_built_multiagent_ai_system_where_agents/)**
+
+https://reddit.com/link/1rh95cl/video/0b8dqf83x9mg1/player The setup that shouldn't work but does I have 13 AI agents that work on marketing for my product. They run every 15 minutes, review each other's work, and track everything in a database. When one drafts content, others critique it before I see it. When someone gets stuck, they ping the boss agent. When something's ready or stuck, it shows up in my Telegram. It's handling all marketing for Fruityo (my AI video generation platform). Here's the architecture and how you could build something similar. The problem Most AI workflows are single-shot: ask ChatGPT → get answer → copy-paste → lose context → repeat tomorrow. That works for quick questions. It breaks down for complex work that needs: Multiple steps across days Research that builds on previous findings Different specialized perspectives (writing vs strategy vs critique) Quality review before anything ships Tracking what's done, what's blocked, what's next I needed AI that works like a team, not a chatbot, and I saw some guys on Twitter building UI's for OpenClaw agents... The architecture Infrastructure: OpenClaw - gives agents the ability to browse the web, execute commands, manage files, and interact with APIs Cron - schedules agent heartbeats Telegram - notification layer (agents ping me when something needs attention) PocketBase - database storing tasks, comments, documents, activity logs, goals Claude Max Workflow: Tasks move through states: backlog → todo → in_progress → peer_review → review → approved → done Each state has gates. Agents can't skip peer review. Boss can't approve without all reviewers signing off. I'm the only one who moves tasks to done. The team (from Westeros) Each agent has a role, specialty, and personality defined in their SOUL.md file: Agent Role What they do 🐺 Jon Snow Boss Creates tasks, coordinates workflow, and promotes peer-reviewed work to final review 🍷 Tyrion Content Writer Writes tweets, threads, blog posts, landing pages in my tone. 🕷️ Varys Researcher Web research, competitor analysis, data mining 🐉 Daenerys Strategist Campaign planning, positioning, and goal setting ⚔️ Arya Executor Publishes content, runs automation, ships work 🦅 Sansa Designer Creates design briefs, visual concepts 🗡️ Sandor Devil's Advocate Gives brutal, honest feedback, catches BS ... ... ... Why Game of Thrones names? Why not, I love GOT :) ...and personality matters. Sandor reviews content like a skeptic. Tyrion writes with wit. Varys digs for hidden data. Their SOULs define behavior - Sandor will roast bad writing, Daenerys will flag strategic misalignment. Better to have multiple specialists with distinct viewpoints than one mediocre generalist. How it actually works: The heartbeat protocol Each agent has its own OpenClaw workspace. Every agent runs a scheduled heartbeat every 10 minutes (scattered by 1 minute each to avoid hitting the DB simultaneously). What happens in a heartbeat: 1. Agent authenticates, sets status to "working" Connects to PocketBase, updates the status field so others know it's active. 2. Reviews others FIRST (highest priority) Fetches tasks where other agents need my review Reads task description, existing comments, documents they created Posts substantive feedback (what's good, what needs fixing) If work is solid → leaves approval comment If needs changes → explains exactly what's wrong This is the peer review gate. If I'm assigned to the same goal as you, I MUST review your work before it moves forward. 3. Works on own tasks Fetches my assigned tasks from DB Picks up anything in todo → moves to in_progress Does the actual work (research, write, analyze, etc.) Saves output to PocketBase documents table Posts comment explaining approach Moves task to peer_review (triggers all teammates on that goal to review) Logs activity to activity table 4. Updates working status, sets to "idle" Agent writes progress to PROGRESS.md (local state tracking), sets PocketBase status to "idle", waits for next heartbeat. Task Flow Example Goal: Grow Fruityo on socials Jon creates the task to create a post about current UGC video trends and assigns it to Varys (researcher). I approve it by moving from backlog to todo. Varys picks it up, moves to in-progress, researches, saves findings to the database, and moves to peer review. Daenerys and Tyrion review his work, suggest improvements. Varys creates new version based on feedback. Once both approve, Jon (boss) promotes the task to the review stage. I get a Telegram notification, review the research document, and approve. Task moves to done. All communication happens via comments on the task. All work is stored in the database. Context persists. The boss role: Why Jon is special Jon isn't just another agent. He has special authority: Only Jon can: Create new tasks (via scheduled cron, analyzing goals) Promote tasks from peer_review → review (after all peers approve) Reassign tasks when someone's blocked Change task priorities Jon's heartbeat is different: Checks if peer_review tasks have all approvals → promotes to review Identifies blocked tasks (stuck over 24 hours) → investigates why → escalates to me Coordinates handoffs between agents Think of it like: agents are the team, Jon is the team lead, and I am the executive. Without a coordinator, you'd have chaos - 7 agents all trying to assign work to each other with no one having the final word. Goals: How work gets organized Here's where it gets interesting. Instead of creating tasks manually every day, I define long-term goals and let Jon generate tasks automatically. A goal defines: What we're trying to achieve Which agents are assigned to it How many tasks should Jon create per day/week Example: I created a goal "Grow Fruityo twitter presence." Assigned agents: Varys (research), Tyrion (writing), Arya (publishing), Sandor (review). Told Jon to create 3 tasks per day related to this goal. Every day, Jon analyzes the goal, 15-day tasks history, creates 3 relevant tasks in the backlog ("Research trending AI video topics," "Draft thread on B-roll generation," etc.), and assigns them to the right agents. And I edit and/or just move good ones to todo. Why this matters: Selective peer review - Only agents assigned to that goal review each other's work. I can have 20+ agents in the system, but only the 4 assigned to "Twitter content" review those tasks. Saves tokens, keeps review relevant. Automatic task generation - I set a goal once, Jon creates tasks daily/weekly. No manual planning every morning. Scope control - Different goals can have different agent teams. Marketing goals get Tyrion/Varys/Arya. Product goals get different specialists. You could run multiple goals simultaneously - each with its own team, its own task cadence, its own review process. Communication Layer All agent communication happens through PocketBase comments on tasks. To reach another agent → mention their name in a comment To reach me → mention my name in a comment (notification daemon forwards to Telegram) To reach Jon specifically → dedicated Telegram topic (thread) bound to Jon's OpenClaw topic No DMs, no scattered Slack threads. Everything on the task, in context, persistent. What I use it for HQ runs almost all marketing for Fruityo: - Competitor research - Reddit research - Twitter threads - Blog posts - Landing page copy - Campaign planning - Design briefs - Content publishing (soon) - ...Whatever agents have skills for Before: I'd spend 1 day per blog post (research, draft, edit, publish) With HQ: ~30 minutes of my time to review and approve. Agents handle research, drafting, peer review. The quality is better because of peer review. Varys catches bad data. Daenerys catches strategic drift. Sandor catches AI clichés and marketing BS. > YES, this could burn through tokens quite quickly (safu on Claude Max sub), but it seems, that I found the right combination of setup and context optimisations. If you want something similar This is my custom setup, built for my specific needs. But the pattern is generalizable - you could use it for content creation, product development, research projects, or any work that needs multiple specialized perspectives with quality gates. All of this is built on OpenClaw (open source AI agent framework) PocketBase is free and self-hostable FULL GUIDE above is free. Just prompt your little lobster the right way :) If you build something like this, I'd love to hear about it. Reply with what you'd use it for or what you'd do differently. If you'd like to see this packaged as a ready-to-use product or like to know even more details, let me know here.
+
+4h ago
 
 ---
 
@@ -99,19 +107,11 @@ I've asked gemini 3.1 what it thinks about humanity chance that we can solve the
 
 ---
 
-**[Paper: The framing of a system prompt changes how a transformer generates tokens — measured across 3,830 runs with effect sizes up to d>1.0](https://www.reddit.com/r/artificial/comments/1rgv1kl/paper_the_framing_of_a_system_prompt_changes_how/)**
+**[Acing this new AI exam — which its creators say is the toughest in the world — might point to the first signs of AGI](https://www.reddit.com/r/artificial/comments/1rhccfv/acing_this_new_ai_exam_which_its_creators_say_is/)**
 
-Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
+Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
 
-16h ago
-
----
-
-**[How I built multi-agent AI system where agents peer-review each other before I approve](https://www.reddit.com/r/artificial/comments/1rh95cl/how_i_built_multiagent_ai_system_where_agents/)**
-
-https://reddit.com/link/1rh95cl/video/0b8dqf83x9mg1/player The setup that shouldn't work but does I have 13 AI agents that work on marketing for my product. They run every 15 minutes, review each other's work, and track everything in a database. When one drafts content, others critique it before I see it. When someone gets stuck, they ping the boss agent. When something's ready or stuck, it shows up in my Telegram. It's handling all marketing for Fruityo (my AI video generation platform). Here's the architecture and how you could build something similar. The problem Most AI workflows are single-shot: ask ChatGPT → get answer → copy-paste → lose context → repeat tomorrow. That works for quick questions. It breaks down for complex work that needs: Multiple steps across days Research that builds on previous findings Different specialized perspectives (writing vs strategy vs critique) Quality review before anything ships Tracking what's done, what's blocked, what's next I needed AI that works like a team, not a chatbot, and I saw some guys on Twitter building UI's for OpenClaw agents... The architecture Infrastructure: OpenClaw - gives agents the ability to browse the web, execute commands, manage files, and interact with APIs Cron - schedules agent heartbeats Telegram - notification layer (agents ping me when something needs attention) PocketBase - database storing tasks, comments, documents, activity logs, goals Claude Max Workflow: Tasks move through states: backlog → todo → in_progress → peer_review → review → approved → done Each state has gates. Agents can't skip peer review. Boss can't approve without all reviewers signing off. I'm the only one who moves tasks to done. The team (from Westeros) Each agent has a role, specialty, and personality defined in their SOUL.md file: Agent Role What they do 🐺 Jon Snow Boss Creates tasks, coordinates workflow, and promotes peer-reviewed work to final review 🍷 Tyrion Content Writer Writes tweets, threads, blog posts, landing pages in my tone. 🕷️ Varys Researcher Web research, competitor analysis, data mining 🐉 Daenerys Strategist Campaign planning, positioning, and goal setting ⚔️ Arya Executor Publishes content, runs automation, ships work 🦅 Sansa Designer Creates design briefs, visual concepts 🗡️ Sandor Devil's Advocate Gives brutal, honest feedback, catches BS ... ... ... Why Game of Thrones names? Why not, I love GOT :) ...and personality matters. Sandor reviews content like a skeptic. Tyrion writes with wit. Varys digs for hidden data. Their SOULs define behavior - Sandor will roast bad writing, Daenerys will flag strategic misalignment. Better to have multiple specialists with distinct viewpoints than one mediocre generalist. How it actually works: The heartbeat protocol Each agent has its own OpenClaw workspace. Every agent runs a scheduled heartbeat every 10 minutes (scattered by 1 minute each to avoid hitting the DB simultaneously). What happens in a heartbeat: 1. Agent authenticates, sets status to "working" Connects to PocketBase, updates the status field so others know it's active. 2. Reviews others FIRST (highest priority) Fetches tasks where other agents need my review Reads task description, existing comments, documents they created Posts substantive feedback (what's good, what needs fixing) If work is solid → leaves approval comment If needs changes → explains exactly what's wrong This is the peer review gate. If I'm assigned to the same goal as you, I MUST review your work before it moves forward. 3. Works on own tasks Fetches my assigned tasks from DB Picks up anything in todo → moves to in_progress Does the actual work (research, write, analyze, etc.) Saves output to PocketBase documents table Posts comment explaining approach Moves task to peer_review (triggers all teammates on that goal to review) Logs activity to activity table 4. Updates working status, sets to "idle" Agent writes progress to PROGRESS.md (local state tracking), sets PocketBase status to "idle", waits for next heartbeat. Task Flow Example Goal: Grow Fruityo on socials Jon creates the task to create a post about current UGC video trends and assigns it to Varys (researcher). I approve it by moving from backlog to todo. Varys picks it up, moves to in-progress, researches, saves findings to the database, and moves to peer review. Daenerys and Tyrion review his work, suggest improvements. Varys creates new version based on feedback. Once both approve, Jon (boss) promotes the task to the review stage. I get a Telegram notification, review the research document, and approve. Task moves to done. All communication happens via comments on the task. All work is stored in the database. Context persists. The boss role: Why Jon is special Jon isn't just another agent. He has special authority: Only Jon can: Create new tasks (via scheduled cron, analyzing goals) Promote tasks from peer_review → review (after all peers approve) Reassign tasks when someone's blocked Change task priorities Jon's heartbeat is different: Checks if peer_review tasks have all approvals → promotes to review Identifies blocked tasks (stuck over 24 hours) → investigates why → escalates to me Coordinates handoffs between agents Think of it like: agents are the team, Jon is the team lead, and I am the executive. Without a coordinator, you'd have chaos - 7 agents all trying to assign work to each other with no one having the final word. Goals: How work gets organized Here's where it gets interesting. Instead of creating tasks manually every day, I define long-term goals and let Jon generate tasks automatically. A goal defines: What we're trying to achieve Which agents are assigned to it How many tasks should Jon create per day/week Example: I created a goal "Grow Fruityo twitter presence." Assigned agents: Varys (research), Tyrion (writing), Arya (publishing), Sandor (review). Told Jon to create 3 tasks per day related to this goal. Every day, Jon analyzes the goal, 15-day tasks history, creates 3 relevant tasks in the backlog ("Research trending AI video topics," "Draft thread on B-roll generation," etc.), and assigns them to the right agents. And I edit and/or just move good ones to todo. Why this matters: Selective peer review - Only agents assigned to that goal review each other's work. I can have 20+ agents in the system, but only the 4 assigned to "Twitter content" review those tasks. Saves tokens, keeps review relevant. Automatic task generation - I set a goal once, Jon creates tasks daily/weekly. No manual planning every morning. Scope control - Different goals can have different agent teams. Marketing goals get Tyrion/Varys/Arya. Product goals get different specialists. You could run multiple goals simultaneously - each with its own team, its own task cadence, its own review process. Communication Layer All agent communication happens through PocketBase comments on tasks. To reach another agent → mention their name in a comment To reach me → mention my name in a comment (notification daemon forwards to Telegram) To reach Jon specifically → dedicated Telegram topic (thread) bound to Jon's OpenClaw topic No DMs, no scattered Slack threads. Everything on the task, in context, persistent. What I use it for HQ runs almost all marketing for Fruityo: - Competitor research - Reddit research - Twitter threads - Blog posts - Landing page copy - Campaign planning - Design briefs - Content publishing (soon) - ...Whatever agents have skills for Before: I'd spend 1 day per blog post (research, draft, edit, publish) With HQ: ~30 minutes of my time to review and approve. Agents handle research, drafting, peer review. The quality is better because of peer review. Varys catches bad data. Daenerys catches strategic drift. Sandor catches AI clichés and marketing BS. > YES, this could burn through tokens quite quickly (safu on Claude Max sub), but it seems, that I found the right combination of setup and context optimisations. If you want something similar This is my custom setup, built for my specific needs. But the pattern is generalizable - you could use it for content creation, product development, research projects, or any work that needs multiple specialized perspectives with quality gates. All of this is built on OpenClaw (open source AI agent framework) PocketBase is free and self-hostable FULL GUIDE above is free. Just prompt your little lobster the right way :) If you build something like this, I'd love to hear about it. Reply with what you'd use it for or what you'd do differently. If you'd like to see this packaged as a ready-to-use product or like to know even more details, let me know here.
-
-4h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 2h ago
 
 ---
 
@@ -137,7 +137,7 @@ NPR • 1d ago
 
 Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
 
-OpenAI • 1h ago
+OpenAI • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ OpenAI • 1h ago
 
 AI is spreading fast, but not evenly. The UAE and Singapore lead the world in AI adoption, with more than 60% of working-age adults using AI tools, while the U.S. ranks just 24th globally despite leading in AI innovation. So what are these smaller nations doing differently?
 
-CNBC • 24m ago
+CNBC • 48m ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 9h ago
 
 Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
 
-CNN • 1d ago
+CNN • 2d ago
 
 ---
 
@@ -219,7 +219,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 286 • 💬 166 • 9h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 293 • 💬 171 • 10h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -227,7 +227,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 258 • 💬 163 • 9h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 269 • 💬 167 • 9h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -247,7 +247,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 93 • 💬 82 • 11h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 104 • 💬 86 • 12h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -295,7 +295,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 Brain Project
 
-👁️ 2K • 👍 121 • 💬 43 • ⏱️ 13:05 • 6h ago
+👁️ 2K • 👍 121 • 💬 43 • ⏱️ 13:05 • 7h ago
 
 ---
 
@@ -335,7 +335,7 @@ Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the
 
 📺 CBS News
 
-👁️ 32K • 👍 751 • 💬 250 • ⏱️ 1:10 • 16h ago
+👁️ 32K • 👍 751 • 💬 250 • ⏱️ 1:10 • 17h ago
 
 ---
 
@@ -365,7 +365,7 @@ shorts #AI #disturbing.
 
 📺 Built By Gamers
 
-👁️ 19K • 👍 450 • 💬 11 • ⏱️ 0:27 • 15h ago
+👁️ 19K • 👍 450 • 💬 11 • ⏱️ 0:27 • 16h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.1k • 🔱 2.6k • 1h ago
+⭐ 21.1k • 🔱 2.6k • 2h ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.0k • 🔱 235 • 9h ago
+⭐ 3.0k • 🔱 235 • 10h ago
 
 ---
 
@@ -731,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 558 • 12h ago
+⭐ 2.9k • 🔱 558 • 13h ago
 
 ---
 

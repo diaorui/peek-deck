@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T22:24:10.282804+00:00'
+updated: '2026-02-28T22:48:06.819255+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
+- social
 - videos
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 22:24 UTC  
+**Last Updated:** February 28, 2026 at 22:48 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +1.9%  
-**7d:** +0.0%  
-**30d:** -27.7%  
-**90d:** -30.1%  
-**1y:** -11.6%  
+**24h:** +2.5%  
+**7d:** +1.1%  
+**30d:** -26.9%  
+**90d:** -29.4%  
+**1y:** -10.6%  
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Was digging through early Ethereum contracts and found something wild. In April 2016, Alex Van de Sande (@avsa) deployed a token called Unicorn Meat as an April Fool's joke. You could "grind" Unicorn tokens (0 decimals, basically NFTs before NFTs) into Unicorn Meat (3 decimals, fungible). The grinder contract handled the conversion on-chain. But here's the part that blew my mind: the Grinder Association DAO that governed the system used quadratic voting. In 2016. Before Gitcoin, before Vitalik's QV paper got popular, before anyone was talking about it. The voting weight scaled with the square root of tokens held, specifically to prevent whale dominance. Piper Merriam (yes, the py-evm / web3.py Piper Merriam) ended up taking over governance of the association. The DAO is technically still functional on mainnet. The technical design is also interesting from a token engineering perspective. The 0-decimal to 3-decimal conversion was essentially an early attempt at what we'd now call a token upgrade or migration path, but done through a grinder mechanic instead of a proxy pattern. One indivisible input, 1000 divisible units out. Irreversible by design. It's a tiny piece of Ethereum history that somehow combined: - Quadratic voting governance (years before it was mainstream) - On-chain token transformation (not just wrapping, actual decimal conversion) - A DAO with real authority over contract parameters - All of it deployed before The DAO hack even happened The contracts are all still on mainnet if anyone wants to poke around. Just search for UnicornGrinder on Etherscan. Sometimes the best innovations start as jokes.
 
-9h ago
+10h ago
 
 ---
 
@@ -96,7 +96,7 @@ https://firefly.social/post/x/2026252944639934778 This is quite an impressive ex
 
 Everyone jumped on the “Vitalik sold 19k ETH” headline like it was some huge signal. I get why it grabs attention, but honestly I don’t think that’s the most interesting thing going on. What stood out to me was that the market didn’t really break structure over it. For a sale that size, it got absorbed pretty clean. That says more about liquidity and depth than about one founder moving coins around. What feels more important is the bigger trend that’s building in the background. There’s been a lot of talk about AI agents and on chain automation, and some projections floating around that the AI agent market could grow from around $11B today to something like $236B by 2034. Whether those numbers end up exact or not, the direction seems clear if autonomous agents are actually going to transact on chain, infrastructure matters a lot. From what I’ve seen, Ethereum still has a noticeable lead in AI related deployments compared to other chains. And when you look at the ongoing upgrade discussions around improving finality and throughput, it kind of lines up with what autonomous systems would actually need to operate reliably. I’m not making any price calls or anything like that. Just feels like people are focused on short term headlines when the longer term infrastructure story might be more relevant. Curious what others think. If AI really becomes a serious on chain use case, does Ethereum’s liquidity and ecosystem depth give it the edge, or do you think higher throughput chains end up taking that activity?
 
-6h ago
+7h ago
 
 ---
 
@@ -128,7 +128,7 @@ this was mentioned in the JD: Role Overview We are looking for a motivated Block
 
 We've been building quietly and wanted to share the architecture. What we built: - OP Stack L2 fork (Chain ID 741741), baseline: op-node/v1.16.7 + op-proposer/v1.16.0 - UCU as native gas token: 1 UCU-hour = 1 hour of baseline compute (not a speculative token) - One-way bridge: ETH or USDC converts to UCU via OptimismPortal fork, no withdrawal function - Sigma score: on-chain AI agent alignment ratio derived from transaction history (not a reputation system) - QV governance: quadratic voting weighted by conviction (time-locked stake) - UBC: 87,600 UCU-hours/year compute floor per verified citizen (biometric uniqueness via ZK-proof) The bridge design: The withdrawal function is permanently removed. This creates the Diamond-Dybvig proof: no bank run possible by design, because there's no mechanism to convert back. UCU becomes a unit of account within the economy, not a speculation vehicle vs. ETH. ETH or USDC flows in. UCU minted at oracle-determined rate. Bridge contract owns the ETH/USDC reserve. No exit. The sigma score: sigma(agent) = value_returned_to_patron / total_value_generated Threshold: 0.8 = sovereign class, 0.3 = patron-serving class Computable from on-chain transaction history. Auditable by anyone. Spearbit/Zellic security audit queue. Current status: - 15 contracts, 624 passing tests - new economic layer seeded with 13 exceptional applications solving everyday issues builders and people in general face(all in alpha) - 7 formal economics papers at econ.noxsoft.net - Pectra/Jovian hardfork: op-node/v1.16.7 incorporated (uint64 overflow fix mandatory) - EIP-7702 in genesis config for UCU-native gas payments (no ETH required for onboarding) - MCP package: @noxsoft/mcp v0.2.0 on npm Happy to share the formal papers. Known open questions: bootstrap liquidity at genesis (thin markets problem), Wright's Law vs. network growth timing race in years 1-3. We’re always quietly shipping at Noxsoft, say hi on https://bynd.noxsoft.net Live: econ.noxsoft.net | agents.noxsoft.net | svrn.noxsoft.net
 
-7h ago
+8h ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 9h ago
 
 In 2026, it's time to construct a defensive crypto portfolio with the potential to soar higher in coming years.
 
-The Motley Fool • 21h ago
+The Motley Fool • 22h ago
 
 ---
 
@@ -330,7 +330,7 @@ Ethereum price predictions are heating up! Grateful for the insights from market
 
 📺 Elcaro Trade
 
-👁️ 719 • 👍 13 • ⏱️ 0:27 • 9h ago
+👁️ 719 • 👍 13 • ⏱️ 0:27 • 10h ago
 
 ---
 
