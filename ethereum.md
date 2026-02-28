@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T09:27:46.486219+00:00'
+updated: '2026-02-28T09:49:19.207303+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 09:27 UTC  
+**Last Updated:** February 28, 2026 at 09:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -7.7%  
-**7d:** -5.1%  
-**30d:** -31.4%  
-**90d:** -33.7%  
-**1y:** -16.1%  
+**24h:** -6.5%  
+**7d:** -5.3%  
+**30d:** -31.6%  
+**90d:** -33.9%  
+**1y:** -16.3%  
 
 ---
 
@@ -112,7 +112,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
 
-15h ago
+16h ago
 
 ---
 
@@ -128,7 +128,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 17h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 18h ago
 
 ---
 
@@ -144,7 +144,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common security issues in ZK circuits. YAML-defined pattern packs (regex, fancyregex, literal) Optional semantic pass (--semantic) for cross-line checks CLI + library API SARIF/JSON/text outputs for CI workflows Current integration matrix: 16 vulnerable fixtures + 10 safe controls Repo: https://github.com/Teycir/ZkPatternMatcher
 
-17h ago
+18h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common se
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -176,7 +176,7 @@ Nasdaq • 7h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeVvYt-PI-_PsK4cO2kWo1i-fUkZQSvHYP3Z9VHR3azuJdIuEPw_mg_&gaa_ts=69a2ab45&gaa_sig=F-LfQAueLc6kjdMpunmgO-t4KmaVYl3E_gr0wnVCtqgeN8wbvxR5IHPPEWN9-V2_Ns11gtBb3CQYElczHw88ng%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqcAHXTOqEZAZBctLU661-IwCQoonOPvsyRVzb37mPn4AQVi5rRC1Qi-&gaa_ts=69a2bd8e&gaa_sig=o_leV6n1oXfLCjRxiA9UrCwtJJ4vABhrPpxLTgc4q3osGrI_WFUGEW6kd4tOuJBhMbKWGeZz8rveviOsSqmGgg%3D%3D)**
 
 Barron's • 1d ago
 
@@ -198,19 +198,19 @@ Decrypt • 16h ago
 
 ---
 
+**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1772267400)**
+
+Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2h ago
+
+---
+
 **[XRP and Ethereum Are Both Pivoting to Privacy. Is That a Reason to Buy Either?](https://www.fool.com/investing/2026/02/28/xrp-and-ethereum-are-both-pivoting-to-privacy-is-t/)**
 
 Privacy is a more meaningful upgrade for one of these coins than the other.
 
 The Motley Fool • 4h ago
-
----
-
-**[$8.7 Billion in Ethereum and Bitcoin Options About to Expire](https://www.tradingview.com/news/u_today:919bedae2094b:0-8-7-billion-in-ethereum-and-bitcoin-options-about-to-expire/)**
-
-Ethereum and Bitcoin options valued at $8.7 billion are about to expire on the leading derivatives exchange, Deribit. This development could increase the volatility of both cryptocurrencies amid the ongoing bearish outlook of their prices.Ethereum and Bitcoin options max pain levelIn a new update…
-
-TradingView • 17h ago
 
 ---
 
@@ -222,11 +222,11 @@ dlnews.com • 1d ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772252700)**
+**[$8.7 Billion in Ethereum and Bitcoin Options About to Expire](https://www.tradingview.com/news/u_today:919bedae2094b:0-8-7-billion-in-ethereum-and-bitcoin-options-about-to-expire/)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Ethereum and Bitcoin options valued at $8.7 billion are about to expire on the leading derivatives exchange, Deribit. This development could increase the volatility of both cryptocurrencies amid the ongoing bearish outlook of their prices.Ethereum and Bitcoin options max pain levelIn a new update…
 
-Polymarket • 1d ago
+TradingView • 18h ago
 
 ---
 
@@ -320,7 +320,7 @@ We've got some major shake ups happening in the crypto market right now. it seem
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 724 • 💬 64 • ⏱️ 29:34 • 23h ago
+👁️ 6K • 👍 724 • 💬 64 • ⏱️ 29:34 • 1d ago
 
 ---
 

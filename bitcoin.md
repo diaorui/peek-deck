@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T09:27:46.480205+00:00'
+updated: '2026-02-28T09:49:19.201313+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - news
-- social
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 09:27 UTC  
+**Last Updated:** February 28, 2026 at 09:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -5.5%  
-**7d:** -5.9%  
-**30d:** -24.4%  
-**90d:** -26.2%  
-**1y:** -26.0%  
+**24h:** -4.6%  
+**7d:** -6.0%  
+**30d:** -24.5%  
+**90d:** -26.3%  
+**1y:** -26.1%  
 
 ---
 
@@ -85,15 +85,7 @@ Rank #1
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-18h ago
-
----
-
-**[What is your distribution between stocks and bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rgvq0v/what_is_your_distribution_between_stocks_and/)**
-
-I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
-
-2h ago
+19h ago
 
 ---
 
@@ -105,11 +97,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[Bought $1k of BTC. Let's see what will happen](https://www.reddit.com/r/Bitcoin/comments/1rg3j7r/bought_1k_of_btc_lets_see_what_will_happen/)**
+**[What is your distribution between stocks and bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rgvq0v/what_is_your_distribution_between_stocks_and/)**
 
-https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
+I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-22h ago
+2h ago
 
 ---
 
@@ -117,7 +109,15 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
 
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 11h ago
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 12h ago
+
+---
+
+**[Bought $1k of BTC. Let's see what will happen](https://www.reddit.com/r/Bitcoin/comments/1rg3j7r/bought_1k_of_btc_lets_see_what_will_happen/)**
+
+https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
+
+22h ago
 
 ---
 
@@ -133,7 +133,7 @@ A friend who has always been against Bitcoin asked me how to buy it. I feel that
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-14h ago
+15h ago
 
 ---
 
@@ -149,7 +149,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 21h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 22h ago
 
 ---
 
@@ -159,7 +159,7 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 1h ago
+Bloomberg.com • 2h ago
 
 ---
 
@@ -171,11 +171,17 @@ CoinDesk • 2h ago
 
 ---
 
-**[Polymarket Says Bitcoin Has Just 3% Odds of Topping $150,000 by June -- How Seriously Should Long-Term Investors Take That Number?](https://www.fool.com/investing/2026/02/28/polymarket-says-bitcoin-has-just-3-odds-of-topping/)**
+**[Bitcoin Plunges as US and Israel Launch Military Strike on Iran](https://finance.yahoo.com/news/bitcoin-plunges-us-israel-launch-071531337.html)**
 
-Bitcoin's volatility makes it difficult to predict over the short term. But it's a different story over the long haul.
+US and Israel launch joint strikes on Iran, declaring a state of emergency. Bitcoin plunges over 6% as war fears shake global markets.
 
-The Motley Fool • 2h ago
+Yahoo Finance • 2h ago
+
+---
+
+**[Trump says ‘massive’ strike against Iran underway — bitcoin plunge offers a glimpse of how markets could react](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqf6RvaznQO_hnDmM_181JLIfAXIgVlRglCq0A0WRklZVsU6Jv_P9oet&gaa_ts=69a2bd8c&gaa_sig=cFaXKP9lwgC2lXo6Lo81fZ8vgHx19ETa3yWfPPXTtILxBzEcU5r7G3_SkZjDrgi_WGEOcmGehbbOcSYz8lTFmw%3D%3D)**
+
+MarketWatch • 52m ago
 
 ---
 
@@ -193,9 +199,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Opinion | Donald Trump Is the Crypto President. Why Is It Struggling? - The New York Times](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)**
+**[Polymarket Says Bitcoin Has Just 3% Odds of Topping $150,000 by June -- How Seriously Should Long-Term Investors Take That Number?](https://www.fool.com/investing/2026/02/28/polymarket-says-bitcoin-has-just-3-odds-of-topping/)**
 
-The New York Times • 1d ago
+Bitcoin's volatility makes it difficult to predict over the short term. But it's a different story over the long haul.
+
+The Motley Fool • 3h ago
 
 ---
 
@@ -221,14 +229,6 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Fake mail carrier accused of violently strangling Seattle homeowner’s wife during demand for bitcoin](https://www.king5.com/article/news/local/fake-mail-carrier-accused-of-violently-strangling-seattle-homeowners-wife-during-demand-for-bitcoin/281-2e1dbfe9-e6ad-49e9-abc2-3d78eae26bb7)**
-
-Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
-
-KING5.com • 13h ago
-
----
-
 ---
 
 ## HackerNews: "bitcoin"
@@ -247,15 +247,15 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 ---
 
-**[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
+**[Fix the money, fix the world: Bitcoin as techno-libertarian religion](https://news.ycombinator.com/item?id=47165953)**
 
-⬆️ 2 • 💬 1 • 2d ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 3 • 💬 0 • 1d ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
 
 ---
 
-**[Fix the money, fix the world: Bitcoin as techno-libertarian religion](https://news.ycombinator.com/item?id=47165953)**
+**[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 2 • 💬 0 • 1d ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
+⬆️ 2 • 💬 1 • 2d ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -281,6 +281,14 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 ---
 
+**[Jeffrey Epstein saw promise in Bitcoin – and its far-right supporters](https://news.ycombinator.com/item?id=47192930)**
+
+Links to major crypto world figures are just the start.
+
+⬆️ 1 • 💬 0 • 6m ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+
+---
+
 **[Show HN: Deadhand – trustless Bitcoin inheritance in 2 minutes](https://news.ycombinator.com/item?id=47169521)**
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
@@ -294,14 +302,6 @@ Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance u
 The Financial Supervisory Service said it plans to build tools that automatically extract suspicious trading patterns by the second and minute.
 
 ⬆️ 1 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/policy/2026/02/09/usd44b-bitcoin-blunder-puts-south-korea-regulators-on-alert-over-local-crypto-exchanges)
-
----
-
-**[Institutional cryptocurrency platform Blockfills is for sale after Bitcoin drops](https://news.ycombinator.com/item?id=47136131)**
-
-The Chicago-based company said it was temporarily suspending client deposits and withdrawals last week due to recent market and financial conditions.
-
-⬆️ 1 • 💬 0 • 3d ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 672 • 💬 178 • ⏱️ 25:02 • 18h ago
+👁️ 12K • 👍 672 • 💬 178 • ⏱️ 25:02 • 19h ago
 
 ---
 
@@ -405,7 +405,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 49 • 💬 2 • ⏱️ 1:55 • 14h ago
+👁️ 2K • 👍 49 • 💬 2 • ⏱️ 1:55 • 15h ago
 
 ---
 

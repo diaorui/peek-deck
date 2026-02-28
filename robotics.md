@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T09:27:46.489429+00:00'
+updated: '2026-02-28T09:49:19.210482+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 09:27 UTC  
+**Last Updated:** February 28, 2026 at 09:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -46,17 +46,9 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 ---
 
-**[First table jump from our robot!](https://www.reddit.com/r/robotics/comments/1rg83qy/first_table_jump_from_our_robot/)**
-
-Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
-
-19h ago
-
----
-
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -68,9 +60,17 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 ---
 
+**[First table jump from our robot!](https://www.reddit.com/r/robotics/comments/1rg83qy/first_table_jump_from_our_robot/)**
+
+Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
+
+19h ago
+
+---
+
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -118,7 +118,7 @@ Los Angeles Times • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqciTlQ0cNJxcmB0_TULzto88h51FmYQ7Z69vZLGlpHAbUviV8x1kpi3&gaa_ts=69a2ab47&gaa_sig=7iU_VJ9EJMSfDHS80haJWAwi2MtZexN25dlkZemLlhUB1Y7Qu0yIV_5S5RVZ7cpGyiE8q6MdK-mtwq4AvFBncA%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdjkpx30uw0jvFLLOkZwNAOExVHcBvY0929JrrypuoU6-eUBvaS1Kpv&gaa_ts=69a2bd8f&gaa_sig=Uzb5ZzQOk5VoS24eGbATgOY_tOpxupkmDOtHKnvfaavzWu8uVDlhBhPxJvedIP_Au27eAjZMG2Eu9lCHgwFcEA%3D%3D)**
 
 WSJ • 11h ago
 
@@ -126,7 +126,7 @@ WSJ • 11h ago
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 17h ago
+Tech Xplore • 18h ago
 
 ---
 
@@ -146,6 +146,14 @@ Financial Times • 23h ago
 
 ---
 
+**[Novi Public Schools cuts ribbon on new 24,000-square-foot robotics center funded by 2019 bond](https://www.wxyz.com/news/region/oakland-county/novi-public-schools-cuts-ribbon-on-new-24-000-square-foot-robotics-center-funded-by-2019-bond)**
+
+Novi's new robotics hub gives students a dedicated space to build, test and compete, and district leaders say more STEM expansion is on the way.
+
+WXYZ Channel 7 • 1d ago
+
+---
+
 **[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
 Bloomberg.com • 1d ago
@@ -154,7 +162,15 @@ Bloomberg.com • 1d ago
 
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 10h ago
+MSN • 11h ago
+
+---
+
+**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
+
+Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
+
+Fortune • 1d ago
 
 ---
 
@@ -163,22 +179,6 @@ MSN • 10h ago
 Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
 
 South China Morning Post • 1d ago
-
----
-
-**[Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html)**
-
-Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
-
-CNBC • 2d ago
-
----
-
-**[Alphabet-owned robotics software company Intrinsic joins Google](https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/)**
-
-Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
-
-TechCrunch • 2d ago
 
 ---
 
@@ -282,7 +282,7 @@ Arduino Based Projects #arduinoprojects #arduinouno #robotics #robot #light #sta
 
 📺 EAZYTRONIC
 
-👁️ 31K • 👍 119 • 💬 1 • ⏱️ 0:09 • 20h ago
+👁️ 31K • 👍 119 • 💬 1 • ⏱️ 0:09 • 21h ago
 
 ---
 

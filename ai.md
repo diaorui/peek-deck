@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T09:27:46.471794+00:00'
+updated: '2026-02-28T09:49:19.192829+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - news
-- social
 - repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 09:27 UTC  
+**Last Updated:** February 28, 2026 at 09:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,17 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 6h ago
+
+---
+
 **[Trump orders federal agencies to stop using Anthropic AI tech ‘immediately’](https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/)**
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
 11h ago
-
----
-
-**[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 6h ago
 
 ---
 
@@ -87,7 +87,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-17h ago
+18h ago
 
 ---
 
@@ -95,7 +95,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 12h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 13h ago
 
 ---
 
@@ -117,9 +117,9 @@ I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok,
 
 ## Google News: "ai"
 
-**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
+**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -131,27 +131,25 @@ BBC • 5h ago
 
 ---
 
-**[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
+**[The Evolution of Giorgia Meloni: Her Plan for Italy and Fears of AI](https://www.bloomberg.com/news/features/2026-02-28/ai-and-italy-giorgia-meloni-wants-economic-growth-and-a-reality-check)**
 
-Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
-
-CNN • 1h ago
+Bloomberg.com • 19m ago
 
 ---
 
-**[JPMorgan Lawsuit And AI Overhaul Put Risk Culture Under The Microscope](https://finance.yahoo.com/news/jpmorgan-lawsuit-ai-overhaul-put-081033485.html)**
+**[Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey)**
 
-JPMorgan Chase, ticker NYSE:JPM, has been hit with a lawsuit alleging the bank enabled fraud at Tricolor Holdings. The filing raises questions around JPMorgan Chase’s risk controls, due diligence and broader corporate responsibility. At the same time, the bank has outlined internal efforts to address AI driven job disruption, including redeploying affected staff and urging wider action from business and government. For investors watching NYSE:JPM, the legal challenge arrives as the stock...
+Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
 
-Yahoo Finance • 1h ago
+CNN • 1d ago
 
 ---
 
-**[AI Personas As Therapist-Supervisors Can Improve Clinical Judgement Of Therapists And Be Helpful Research Catalysts](https://www.forbes.com/sites/lanceeliot/2026/02/28/ai-personas-as-therapist-supervisors-can-improve-clinical-judgement-of-therapists-and-be-helpful-research-catalysts/)**
+**[Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI](https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies)**
 
-Therapists can make use of AI personas that acts as therapist-supervisors. The feedback can be tremendous. Here's how to proceed. An AI Insider scoop.
+Hours after exclusion of Anthropic, OpenAI announces fresh Pentagon deal, but says it will maintain same safety guardrails at the heart of the dispute
 
-Forbes • 1h ago
+The Guardian • 12h ago
 
 ---
 
@@ -171,19 +169,11 @@ Financial Times • 8h ago
 
 ---
 
-**[Callers to Washington state hotline press 2 for Spanish and get accented AI English instead](https://apnews.com/article/washington-dol-spanish-accent-ai-3a1b8438a5674c07242a8d48c057d5a3)**
+**[Brady Tkachuk miffed over White House AI-doctored video](https://www.espn.com/nhl/story/_/id/48044958/brady-tkachuk-miffed-white-house-ai-doctored-video)**
 
-Callers to Washington state’s driver’s license agency who select automated service in Spanish have instead been hearing an AI voice speaking English with a strong Spanish accent.
+Brady Tkachuk said he didn't appreciate the AI-doctored video released by the White House that made it appear he was disparaging Canadians.
 
-AP News • 7h ago
-
----
-
-**[Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI](https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies)**
-
-Hours after exclusion of Anthropic, OpenAI announces fresh Pentagon deal, but says it will maintain same safety guardrails at the heart of the dispute
-
-The Guardian • 11h ago
+ESPN • 1d ago
 
 ---
 
@@ -192,6 +182,14 @@ The Guardian • 11h ago
 Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
 
 The Washington Post • 15h ago
+
+---
+
+**[Callers to Washington state hotline press 2 for Spanish and get accented AI English instead](https://apnews.com/article/washington-dol-spanish-accent-ai-3a1b8438a5674c07242a8d48c057d5a3)**
+
+Callers to Washington state’s driver’s license agency who select automated service in Spanish have instead been hearing an AI voice speaking English with a strong Spanish accent.
+
+AP News • 7h ago
 
 ---
 
@@ -303,7 +301,7 @@ Create AI videos fast with Higgsfield ...
 
 📺 Malva AI
 
-👁️ 4K • 👍 277 • 💬 113 • ⏱️ 9:46 • 20h ago
+👁️ 4K • 👍 277 • 💬 113 • ⏱️ 9:46 • 21h ago
 
 ---
 
@@ -323,7 +321,7 @@ shorts #AI #disturbing.
 
 📺 Built By Gamers
 
-👁️ 6K • 👍 179 • 💬 7 • ⏱️ 0:27 • 2h ago
+👁️ 6K • 👍 179 • 💬 7 • ⏱️ 0:27 • 3h ago
 
 ---
 
@@ -371,7 +369,7 @@ Anton Korinek talks about the effects of automation on wages and labor, how we m
 
 📺 Liv Swearingen (LIV)
 
-👁️ 966K • 👍 25K • 💬 4K • ⏱️ 0:18 • 16h ago
+👁️ 966K • 👍 25K • 💬 4K • ⏱️ 0:18 • 17h ago
 
 ---
 
@@ -387,7 +385,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 378,228 • ❤️ 652 • 23h ago
+⬇️ 378,228 • ❤️ 652 • 1d ago
 
 ---
 
@@ -435,7 +433,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 331 • 13h ago
+⬇️ 350,233 • ❤️ 331 • 14h ago
 
 ---
 
@@ -641,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.8k • 🔱 2.6k • 48m ago
+⭐ 20.8k • 🔱 2.6k • 1h ago
 
 ---
 
@@ -659,7 +657,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.8k • 🔱 709 • 5h ago
+⭐ 5.8k • 🔱 709 • 6h ago
 
 ---
 
@@ -699,7 +697,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 317 • 26m ago
+⭐ 3.0k • 🔱 317 • 48m ago
 
 ---
 
@@ -709,7 +707,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 211 • 7h ago
+⭐ 2.9k • 🔱 211 • 8h ago
 
 ---
 
@@ -729,7 +727,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 2.7k • 🔱 332 • 7h ago
+⭐ 2.7k • 🔱 332 • 8h ago
 
 ---
 
