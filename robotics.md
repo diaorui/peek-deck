@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T14:47:22.967896+00:00'
+updated: '2026-02-28T15:23:40.025649+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 14:47 UTC  
+**Last Updated:** February 28, 2026 at 15:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-3h ago
+4h ago
 
 ---
 
@@ -58,7 +58,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-21h ago
+22h ago
 
 ---
 
@@ -66,7 +66,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-8h ago
+9h ago
 
 ---
 
@@ -92,17 +92,19 @@ Hey Reddit! Super excited to share something I've been working on: HoloMotion, a
 
 ---
 
-**[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
+**[I spent my inheritance on a home assistant and now I’m basically a full-time mechanic for a machine](https://www.reddit.com/r/robotics/comments/1rh4yva/i_spent_my_inheritance_on_a_home_assistant_and/)**
 
-22h ago
+I’ve always been one of the first to try out technology but I think I might have gone too far this time. This year I paid a deposit for a humanoid robot that can do simple household tasks like folding clothes and loading the dishwasher. It arrived three weeks ago. At first it was amazing to see it walk into my kitchen on two legs. That excitement didn’t last long. The robot tried to pick up a ceramic coffee mug. That’s when the problems started. The ads make it look easy. In reality, I have to adjust to the robot all the time. I spent all of Saturday figuring out why the robot’s left hand kept moving on its own. The sensors were faulty so I had to look for cheaper parts on amazon and alibaba. I found out that the special servos they use are similar to ones that cost much less. I would have to update the software myself. The worst part is what my friends think. They come over expecting to see a robot like in the movies. Instead they find me on the floor with a laptop connected to the robot’s leg trying to fix it. It’s like a very expensive, very tall child that needs a lot of attention. Has anyone else bought one of these robots? Am I the only one having trouble with mine?
+
+15m ago
 
 ---
 
-**[Open source robotics projects to get involved with?](https://www.reddit.com/r/robotics/comments/1rgnca5/open_source_robotics_projects_to_get_involved_with/)**
+**[STS/DC Motor Actuator?](https://www.reddit.com/r/robotics/comments/1rh4gn0/stsdc_motor_actuator/)**
 
-Hello all, I'm a full-time embedded software engineer working with embassy rust. I'm learning a lot at my job but I went to school for robotics and want to contribute to more robotics related projects. I have a master's in robotics and have done research on autonomous underwater vehicles (AUVs). If you know of any open source projects currently doing stuff in the robotics space (preferably maritime related but down for whatever), please let me know. Thanks!
+Serious Question. Been considering deigning a back drivable actuator that uses STS protocol and a brushed DC motor (similar to feetech servos) instead of a brushless motor. I wanted to create a cheaper option for back drivable joints in hobbyist robotics project. But I also want to get a more experienced opinion first. Would it even be worth it? Other than motor efficiency, what would be the drawbacks or reasons why I should not pursue?
 
-14h ago
+36m ago
 
 ---
 
@@ -136,7 +138,7 @@ CNBC • 2d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -150,7 +152,7 @@ The Verge • 2d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqcWY5c5mQvuvSOF-1ZMzqQHVtwGEb11y7q3lmpEXxfila9gdcnoK2i3&gaa_ts=69a2fddd&gaa_sig=HgqRuZ7GuVEKnjnOJ1WGJ-KviwI3FayVTNvjs4jJVm8tq3vTyLx9lfMM9KLwNyUFokxQmh5slhV66lfFp0us_Q%3D%3D)**
 
-WSJ • 16h ago
+WSJ • 17h ago
 
 ---
 
@@ -222,7 +224,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 14K • 👍 483 • 💬 10 • ⏱️ 0:35 • 14h ago
+👁️ 14K • 👍 483 • 💬 10 • ⏱️ 0:35 • 15h ago
 
 ---
 
@@ -242,7 +244,7 @@ AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gaut
 
 📺 MattVidPro
 
-👁️ 3K • 👍 180 • 💬 16 • ⏱️ 18:44 • 15h ago
+👁️ 3K • 👍 180 • 💬 16 • ⏱️ 18:44 • 16h ago
 
 ---
 
