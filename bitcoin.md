@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T16:51:28.730782+00:00'
+updated: '2026-02-28T17:21:13.082654+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 16:51 UTC  
+**Last Updated:** February 28, 2026 at 17:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
 
-15h ago
+16h ago
 
 ---
 
@@ -101,7 +101,7 @@ I have a pretty crazy story that happened to me last year lol. Back in 2022, I h
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ I know this might sound stupid question to some of you, but I'd like to ask anyw
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -159,13 +159,13 @@ Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus elec
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg • 5h ago
+Bloomberg • 6h ago
 
 ---
 
 **[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqel0z4n0eh3vGl3ofOwm-Vt4iSMqKdyyJ9HCDe7YVIyxAPXCSJQvUUJ&gaa_ts=69a32023&gaa_sig=d54BUJIlLhr3W3Y1CJb9iTCIQgHHsZFkg1KIojfEID7lFZPI3lpW5KpnmOoXQwbN-vfFs1pfzywu6Se1vg8FgQ%3D%3D)**
 
-MarketWatch • 7h ago
+MarketWatch • 8h ago
 
 ---
 
@@ -173,7 +173,7 @@ MarketWatch • 7h ago
 
 US and Israel launch joint strikes on Iran, declaring a state of emergency. Bitcoin plunges over 6% as war fears shake global markets.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
@@ -197,13 +197,13 @@ CoinDesk • 12h ago
 
 Down more than 50% from its peak, bitcoin is diverging from stocks as geopolitical tensions, tariffs and ETF outflows deepen its slump, analysts told CoinDesk.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
 **[Bitcoin Sinks Towards $65,000 as Inflation Douses Risk Appetite](https://www.bloomberg.com/news/articles/2026-02-27/bitcoin-sinks-towards-65-000-as-inflation-douses-risk-appetite)**
 
-Bloomberg • 19h ago
+Bloomberg • 20h ago
 
 ---
 
@@ -315,7 +315,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 504K • 👍 18K • 💬 1K • ⏱️ 18:56 • 23h ago
+👁️ 504K • 👍 18K • 💬 1K • ⏱️ 18:56 • 1d ago
 
 ---
 
@@ -335,7 +335,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 704 • ⏱️ 22:53 • 18h ago
+👁️ 20K • 👍 704 • ⏱️ 22:53 • 19h ago
 
 ---
 
@@ -355,7 +355,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 11K • 👍 537 • 💬 93 • ⏱️ 14:04 • 16h ago
+👁️ 11K • 👍 537 • 💬 93 • ⏱️ 14:04 • 17h ago
 
 ---
 

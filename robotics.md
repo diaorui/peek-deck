@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T16:51:28.740067+00:00'
+updated: '2026-02-28T17:21:13.091854+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 16:51 UTC  
+**Last Updated:** February 28, 2026 at 17:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -44,7 +44,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-5h ago
+6h ago
 
 ---
 
@@ -58,7 +58,7 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-23h ago
+1d ago
 
 ---
 
@@ -66,7 +66,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-10h ago
+11h ago
 
 ---
 
@@ -150,7 +150,7 @@ TechCrunch • 2d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqd44-ry2fc1aK9altX4RMX1YTCVRf4CstGzEgcE_WSuEknZpsqI_5Zd&gaa_ts=69a32080&gaa_sig=R7qzoIJ4EZS_dqu_KrFQv9bDanSwcFpb9p90DiPfKbU1pRndFrOOrSW-gBpEPfAeLxt5OMqNDdDqJSI3AkXS2g%3D%3D)**
 
-WSJ • 18h ago
+WSJ • 19h ago
 
 ---
 

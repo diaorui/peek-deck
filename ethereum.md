@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T16:51:28.736824+00:00'
+updated: '2026-02-28T17:21:13.088637+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 16:51 UTC  
+**Last Updated:** February 28, 2026 at 17:21 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -96,7 +96,7 @@ Everyone jumped on the “Vitalik sold 19k ETH” headline like it was some huge
 
 https://firefly.social/post/x/2026252944639934778 This is quite an impressive experiment. Vibe-coding the entire 2030 roadmap within weeks. Obviously such a thing built in two weeks without even having the EIPs has massive caveats: almost certainly lots of critical bugs, and probably in some cases "stub" versions of a thing where the AI did not even try making the full version. But six months ago, even this was far outside the realm of possibility, and what matters is where the trend is going. AI is massively accelerating coding (yesterday, I tried agentic-coding an equivalent of my blog software, and finished within an hour, and that was using gpt-oss:20b running on my laptop (!!!!), kimi-2.5 would have probably just one-shotted it). But probably, the right way to use it, is to take half the gains from AI in speed, and half the gains in security: generate more test-cases, formally verify everything, make more multi-implementations of things. A collaborator of the @leanethereum effort managed to AI-code a machine-verifiable proof of one of the most complex theorems that STARKs rely on for security. A core tenet of @leanethereum is to formally verify everything, and AI is greatly accelerating our ability to do that. Aside from formal verification, simply being able to generate a much larger body of test cases is also important. Do not assume that you'll be able to put in a single prompt and get a highly-secure version out anytime soon; there WILL be lots of wrestling with bugs and inconsistencies between implementations. But even that wrestling can happen 5x faster and 10x more thoroughly. People should be open to the possibility (not certainty! possibility) that the Ethereum roadmap will finish much faster than people expect, at a much higher standard of security than people expect. On the security side, I personally am excited about the possibility that bug-free code, long considered an idealistic delusion, will finally become first possible and then a basic expectation. If we care about trustlessness, this is a necessary piece of the puzzle. Total security is impossible because ultimately total security means exact correspondence between lines of code and contents of your mind, which is many terabytes (see https://firefly.social/post/x/2025653045414273438 ). But there are many specific cases, where specific security claims can be made and verified, that cut out >99% of the negative consequences that might come from the code being broken.
 
-29m ago
+59m ago
 
 ---
 
@@ -104,7 +104,7 @@ https://firefly.social/post/x/2026252944639934778 This is quite an impressive ex
 
 Hold positions in both solana and ethereum ecosystem projects and the one thing that keeps frustrating me as an investor is how fragmented the cross chain experience still is. We're in 2025 and moving capital between ecosystems is still clunky, expensive, and sometimes risky. Bridging assets between solana and ethereum l2s still feels like the early days of international bank transfers. You're dealing with slippage, bridge risk, wait times, and the constant anxiety that some exploit is going to drain liquidity from whatever bridge you used. The wormhole situation showed how real that risk is. From an investment perspective this fragmentation is destroying value across the entire crypto ecosystem. Liquidity is split across dozens of chains and l2s, which means every individual pool is thinner than it should be. cz talked about this when he mentioned that the industry needs better infrastructure to connect all these isolated ecosystems. The projects that interest me most right now are the ones building what some people call a "metalayer" approach, basically infrastructure that lets chains share liquidity without traditional bridging. Some of the newer experimental setups are testing this concept where multiple rollups can share state and liquidity natively instead of relying on third party bridges. That's a fundamentally different architecture than what we have today. Dragonfly capital published some research on this thesis and their conclusion was that cross chain infrastructure is probably the most undervalued segment of the market relative to its importance. I tend to agree. The project that solves interoperability in a trustless way is going to capture enormous value because every chain and every protocol benefits. Anyone else investing with a multi chain thesis? Curious how others are thinking about the interoperability risk in their portfolios.
 
-34m ago
+1h ago
 
 ---
 
@@ -112,7 +112,7 @@ Hold positions in both solana and ethereum ecosystem projects and the one thing 
 
 We have been talking about account abstraction ever since early 2016, see the original EIP-86: https://github.com/ethereum/EIPs/issues/86 Now, we finally have EIP-8141 ( https://eips.ethereum.org/EIPS/eip-8141 ), an omnibus that wraps up and solves every remaining problem that AA was intended to address (plus more). Let's talk again about what it does. The concept, "Frame Transactions", is about as simple as you can get while still being highly general purpose. A transaction is N calls, which can read each other's calldata, and which have the ability to authorize a sender and authorize a gas payer. At the protocol layer, that's it. Now, let's see how to use it. First, a "normal transaction from a normal account" (eg. a multisig, or an account with changeable keys, or with a quantum-resistant signature scheme). This would have two frames: Validation (check the signature, and return using the ACCEPT opcode with flags set to signal approval of sender and of gas payment) Execution You could have multiple execution frames, atomic operations (eg. approve then spend) become trivial now. If the account does not exist yet, then you prepend another frame, "Deployment", which calls a proxy to create the contract (EIP-7997 https://ethereum-magicians.org/t/eip-7997-deterministic-factory-predeploy/24998 is good for this, as it would also let the contract address reliably be consistent across chains). Now, suppose you want to pay gas in RAI. You use a paymaster contract, which is a special-purpose onchain DEX that provides the ETH in real time. The tx frames are: Deployment [if needed] Validation (ACCEPT approves sender only, not gas payment) Paymaster validation (paymaster checks that the immediate next op sends enough RAI to the paymaster and that the final op exists) Send RAI to the paymaster Execution [can be multiple] Paymaster refunds unused RAI, and converts to ETH Basically the same thing that is done in existing sponsored transactions mechanisms, but with no intermediaries required (!!!!). Intermediary minimization is a core principle of non-ugly cypherpunk ethereum: maximize what you can do even if all the world's infrastructure except the ethereum chain itself goes down. Now, privacy protocols. Two strategies here. First, we can have a paymaster contract, which checks for a valid ZK-SNARK and pays for gas if it sees one. Second, we could add 2D nonces (see https://docs.erc4337.io/core-standards/rip-7712.html ), which allow an individual account to function as a privacy protocol, and receive txs in parallel from many users. Basically, the mechanism is extremely flexible, and solves for all the use cases. But is it safe? At the onchain level, yes, obviously so: a tx is only valid to include if it contains a validation frame that returns ACCEPT with the flag to pay gas. The more challenging question is at the mempool level. If a tx contains a first frame which calls into 10000 accounts and rejects if any of them have different values, this cannot be broadcasted safely. But all of the examples above can. There is a similar notion here to "standard transactions" in bitcoin, where the chain itself only enforces a very limited set of rules, but there are more rules at the mempool layer. There are specific rulesets (eg. "validation frame must come before execution frames, and cannot call out to outside contracts") that are known to be safe, but are limited. For paymasters, there has been deep thought about a staking mechanism to limit DoS attacks in a very general-purpose way. Realistically, when 8141 is rolled out, the mempool rules will be very conservative, and there will be a second optional more aggressive mempool. The former will expand over time. For privacy protocol users, this means that we can completely remove "public broadcasters" that are the source of massive UX pain in railgun/PP/TC, and replace them with a general-purpose public mempool. For quantum-resistant signatures, we also have to solve one more problem: efficiency. Here's are posts about the ideas we have for that: https://firefly.social/post/lens/1gfeyxjzsajqk845t3h https://firefly.social/post/x/2027405623189803453 AA is also highly complementary with FOCIL: FOCIL ensures rapid inclusion guarantees for transactions, and AA ensures that all of the more complex operations people want to make actually can be made directly as first-class transactions. Another interesting topic is EOA compatibility in 8141. This is being discussed, in principle it is possible, so all accounts incl existing ones can be put into the same framework and gain the ability to do batch operations, transaction sponsorship, etc, all as first-class transactions that fully benefit from FOCIL. Finally, after over a decade of research and refinement of these techniques, this all looks possible to make happen within a year (Hegota fork).
 
-57m ago
+1h ago
 
 ---
 
@@ -136,7 +136,7 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 
 At the current moment the correct path to post quantum Ethereum transactions looks more like Shibuya Crossing, there are too many proposals all with different ways of doing the same fundamental thing. Some of the proposals that can achieve PQ migration are:   Pure ERC-4337 account abstraction and doing the PQ verification on the EVM EIP-6404: SSZ transactions that use the EIP-7932: Secondary Signature Algorithms rails. EIP-8141: Frame Transaction that make the PQ migration up to the account to d...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 23h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ Barron's • 1d ago
 
 President Donald Trump announced Saturday that the US and Israel attacked Iran. Bitcoin and Ethereum immediately dropped on the news. It isn’t clear how long the military operation will take.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -178,7 +178,7 @@ Yahoo Finance • 2h ago
 
 Key PointsThe longer your investing time horizon, the more uncertainty you'll have to take into account.
 
-Nasdaq • 14h ago
+Nasdaq • 15h ago
 
 ---
 
@@ -186,7 +186,7 @@ Nasdaq • 14h ago
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
-Decrypt • 23h ago
+Decrypt • 1d ago
 
 ---
 
@@ -226,7 +226,7 @@ Cryptonews • 18h ago
 
 Privacy is a more meaningful upgrade for one of these coins than the other.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -240,7 +240,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 347 • 👍 28 • 💬 29 • ⏱️ 8:43 • 2h ago
+👁️ 347 • 👍 28 • 💬 29 • ⏱️ 8:43 • 3h ago
 
 ---
 
@@ -260,7 +260,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 93 • 💬 3 • ⏱️ 4:49 • 6h ago
+👁️ 1K • 👍 93 • 💬 3 • ⏱️ 4:49 • 7h ago
 
 ---
 
@@ -280,7 +280,7 @@ BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 8K • 👍 270 • 💬 18 • ⏱️ 20:17 • 19h ago
+👁️ 8K • 👍 270 • 💬 18 • ⏱️ 20:17 • 20h ago
 
 ---
 
@@ -300,7 +300,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 138 • 💬 5 • ⏱️ 4:56 • 22h ago
+👁️ 2K • 👍 138 • 💬 5 • ⏱️ 4:56 • 23h ago
 
 ---
 
@@ -320,7 +320,7 @@ xrp #bitcoin #hbar #xlm #eth https://twitter.com/HobbiesCards Here we are with l
 
 📺 CRYPTO with KLAUS
 
-👁️ 4K • 👍 426 • 💬 144 • ⏱️ 15:02 • 22h ago
+👁️ 4K • 👍 426 • 💬 144 • ⏱️ 15:02 • 23h ago
 
 ---
 
