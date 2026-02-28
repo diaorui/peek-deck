@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T23:23:36.180013+00:00'
+updated: '2026-02-28T23:45:18.760219+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 23:23 UTC  
+**Last Updated:** February 28, 2026 at 23:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
-4h ago
+5h ago
 
 ---
 
@@ -119,7 +119,7 @@ I have a pretty crazy story that happened to me last year lol. Back in 2022, I h
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-10h ago
+11h ago
 
 ---
 
@@ -141,7 +141,7 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
 
-11h ago
+12h ago
 
 ---
 
@@ -149,7 +149,7 @@ I know this might sound stupid question to some of you, but I'd like to ask anyw
 
 Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threads asking if starting a DCA today is worth it with the current 2026 volatility. I got tired of using calculators that are 50% ads and trackers, so I built a 'calm' version for myself. It uses real historical data and compares BTC vs traditional savings. For example: Investing $100/month since the 2024 halving would have you up X% today, even with the recent swings. It's part of a suite of tools I just put on Product Hunt for feedback. No signups, no ads, just the math. If you're bored, I'd love to know if the UI feels intuitive to you: https://bytecalculators.com/crypto-dca-calculator-dollar-cost-averaging-simulator
 
-40m ago
+1h ago
 
 ---
 
@@ -167,7 +167,7 @@ CoinDesk • 4h ago
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 9h ago
+Bloomberg.com • 10h ago
 
 ---
 
@@ -175,15 +175,15 @@ Bloomberg.com • 9h ago
 
 Tehran launched waves of missiles and drones targeting Israel, U.S. bases, and Gulf allies, with explosions reported in Dubai, Kuwait, and Bahrain.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Bitcoin Recovers Following Plunge as US, Israel Begin Bombing Iran](https://finance.yahoo.com/news/bitcoin-recovers-following-plunge-us-172459626.html)**
+**[Tokenised gold continues rally while Bitcoin slides on US attack against Iran](https://finance.yahoo.com/news/tokenised-gold-continues-rally-while-171816381.html)**
 
-The price of Bitcoin plummeted to nearly $63,000 overnight amid U.S. and Israel strikes on Iran, but has mostly recovered in the hours since.
+Tether Gold and Paxos Gold spiked on Saturday after the US announced it had bombed Iran. Bitcoin and Ethereum dropped in price. Tokenised gold is proving useful to give investors exposure to safe-haven assets.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -191,21 +191,13 @@ Yahoo Finance • 5h ago
 
 BIP-110, formerly known as BIP-444, is a controversial proposal that would restrict certain ways of storing data on the Bitcoin blockchain.
 
-theblock.co • 2h ago
+The Block • 2h ago
 
 ---
 
-**[Here's how bitcoin's price rise could be fueled by job-stealing AI software](https://www.coindesk.com/business/2026/02/28/here-s-how-bitcoin-s-price-rise-could-be-fueled-by-job-stealing-ai-software)**
+**['Bitcoin Retail Investors Are All In' And That's Why There's No Floor, Blockstream CEO Says](https://finance.yahoo.com/news/bitcoin-retail-investors-thats-why-104508164.html)**
 
-Bitcoin's future hinges less on technological factors and more on how AI affects growth, employment, real interest rates, and central bank liquidity, NYDIG argues.
-
-CoinDesk • 2h ago
-
----
-
-**[Crypto winter is normal for an asset like bitcoin: Coinbase exec](https://finance.yahoo.com/video/crypto-winter-normal-asset-bitcoin-152936397.html)**
-
-Bitcoin (BTC-USD) sits just above $66,000 per token on Friday, as this past month has been a tug-of-war for the cryptocurrency, bringing it back below and above its $65,000 benchmark. Coinbase (COIN) head of institutional strategy John D'Agostino sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss the state of the crypto industry, the role of ETF product deployments from major institutions, and the ongoing crypto winter. Disclosure: Yahoo Finance has a partnership with Coinbase. To watch more expert insights and analysis on the latest market action, check out more&nbsp;Opening Bid.
+Blockstream CEO Adam Back told CNBC that Bitcoin (CRYPTO: BTC) lacks downside support because retail investors are “all in” with no cash left to buy dips, explaining the 25% year-to-date decline. The ‘All In’ Problem Back on Monday explained that...
 
 Yahoo Finance • 1d ago
 
@@ -219,17 +211,23 @@ Fortune • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqemtuADuIs5y57EXBjcLL6QZI19suzl4J0k6OGTU0ZvVI3I7UXhcPnA&gaa_ts=69a36e75&gaa_sig=64lq1LzKqHnfhYEbuTmYS4MAebzRS2SRZyI2oJZomQPHEtI6D8HLnxXE8Z-nKnzPkXFmX5q--Aa2ki4FuWE2FQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqcoHX8lDGJZ1JZAHeRXLNUlrbtCGmzRRFy9HznlAkeLq8DUZZTzCg8v&gaa_ts=69a3817c&gaa_sig=Ik3g34GicZCGcu8Q2Ab8_hxCZP1dHpi698OvfGGStF1PAooxsTVgnOzo_mrZRZHgY3BB3xHIHeNnOxyo0JThDA%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Bitcoin price news: BTC slides to $65,000, Solana, XRP, dogecoin down 6%](https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-to-usd65-000-in-weekend-sell-off-with-solana-xrp-dogecoin-down-6)**
+**[Bitcoin Needs a Huge Rally to Hit $150,000 by December -- Are Polymarket's 12% Odds Too Low, Too High, or Just About Right?](https://www.fool.com/investing/2026/02/28/bitcoin-needs-a-huge-rally-to-hit-150000-by-decemb/)**
 
-The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.
+Bitcoin may have a better chance of hitting $150,000 this year than you think.
 
-CoinDesk • 18h ago
+The Motley Fool • 13h ago
+
+---
+
+**[I’m buying this Bitcoin dip every day: Money Talks](https://www.cleveland.com/business/2026/02/im-buying-this-bitcoin-dip-every-day-money-talks.html)**
+
+Cleveland.com • 13h ago
 
 ---
 
@@ -255,7 +253,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 4 • 💬 0 • 13h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 4 • 💬 0 • 14h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -281,7 +279,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 1 • 💬 1 • 42m ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 1 • 💬 1 • 1h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -329,7 +327,7 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 1K • 👍 51 • 💬 1 • ⏱️ 14:26 • 4h ago
+👁️ 1K • 👍 51 • 💬 1 • ⏱️ 14:26 • 5h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T23:23:36.189584+00:00'
+updated: '2026-02-28T23:45:18.770065+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- news
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 23:23 UTC  
+**Last Updated:** February 28, 2026 at 23:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-10h ago
+11h ago
 
 ---
 
@@ -58,19 +58,19 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-4h ago
+5h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-1h ago
+2h ago
 
 ---
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -154,7 +154,7 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeMGv1JJ1k_-t9yrntjt13OqEKeODMlTRX5yG5Wx9GVUy64Q9tjcHq8&gaa_ts=69a36e78&gaa_sig=TqkckPrh26TXA73j6NALwas0QfAytEOF2iHWWQF4qGFi1SYDglNQ3_mv1UQbGn9u138PcBx3ZzevJvD6FHrB2w%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeH0NgoBmW--tqxWStNlY3SzJT744rVX54A2AhFesNXQSdtvWQpKbFP&gaa_ts=69a3817b&gaa_sig=3xcjTerQY5GnISBqMxpNJw-4IXUgRZA7rPZiFJ714z2UEFmP5D3kr8PTysZ_L3HRfDXxHqdTFSAR87SlrS_dyQ%3D%3D)**
 
 WSJ • 1d ago
 
@@ -192,7 +192,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 160K • 👍 2K • 💬 332 • ⏱️ 14:16 • 5d ago
+👁️ 160K • 👍 2K • 💬 332 • ⏱️ 14:16 • 6d ago
 
 ---
 

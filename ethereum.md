@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T23:23:36.186116+00:00'
+updated: '2026-02-28T23:45:18.766666+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 23:23 UTC  
+**Last Updated:** February 28, 2026 at 23:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -96,7 +96,7 @@ https://firefly.social/post/x/2026252944639934778 This is quite an impressive ex
 
 Everyone jumped on the “Vitalik sold 19k ETH” headline like it was some huge signal. I get why it grabs attention, but honestly I don’t think that’s the most interesting thing going on. What stood out to me was that the market didn’t really break structure over it. For a sale that size, it got absorbed pretty clean. That says more about liquidity and depth than about one founder moving coins around. What feels more important is the bigger trend that’s building in the background. There’s been a lot of talk about AI agents and on chain automation, and some projections floating around that the AI agent market could grow from around $11B today to something like $236B by 2034. Whether those numbers end up exact or not, the direction seems clear if autonomous agents are actually going to transact on chain, infrastructure matters a lot. From what I’ve seen, Ethereum still has a noticeable lead in AI related deployments compared to other chains. And when you look at the ongoing upgrade discussions around improving finality and throughput, it kind of lines up with what autonomous systems would actually need to operate reliably. I’m not making any price calls or anything like that. Just feels like people are focused on short term headlines when the longer term infrastructure story might be more relevant. Curious what others think. If AI really becomes a serious on chain use case, does Ethereum’s liquidity and ecosystem depth give it the edge, or do you think higher throughput chains end up taking that activity?
 
-7h ago
+8h ago
 
 ---
 
@@ -128,7 +128,7 @@ this was mentioned in the JD: Role Overview We are looking for a motivated Block
 
 We've been building quietly and wanted to share the architecture. What we built: - OP Stack L2 fork (Chain ID 741741), baseline: op-node/v1.16.7 + op-proposer/v1.16.0 - UCU as native gas token: 1 UCU-hour = 1 hour of baseline compute (not a speculative token) - One-way bridge: ETH or USDC converts to UCU via OptimismPortal fork, no withdrawal function - Sigma score: on-chain AI agent alignment ratio derived from transaction history (not a reputation system) - QV governance: quadratic voting weighted by conviction (time-locked stake) - UBC: 87,600 UCU-hours/year compute floor per verified citizen (biometric uniqueness via ZK-proof) The bridge design: The withdrawal function is permanently removed. This creates the Diamond-Dybvig proof: no bank run possible by design, because there's no mechanism to convert back. UCU becomes a unit of account within the economy, not a speculation vehicle vs. ETH. ETH or USDC flows in. UCU minted at oracle-determined rate. Bridge contract owns the ETH/USDC reserve. No exit. The sigma score: sigma(agent) = value_returned_to_patron / total_value_generated Threshold: 0.8 = sovereign class, 0.3 = patron-serving class Computable from on-chain transaction history. Auditable by anyone. Spearbit/Zellic security audit queue. Current status: - 15 contracts, 624 passing tests - new economic layer seeded with 13 exceptional applications solving everyday issues builders and people in general face(all in alpha) - 7 formal economics papers at econ.noxsoft.net - Pectra/Jovian hardfork: op-node/v1.16.7 incorporated (uint64 overflow fix mandatory) - EIP-7702 in genesis config for UCU-native gas payments (no ETH required for onboarding) - MCP package: @noxsoft/mcp v0.2.0 on npm Happy to share the formal papers. Known open questions: bootstrap liquidity at genesis (thin markets problem), Wright's Law vs. network growth timing race in years 1-3. We’re always quietly shipping at Noxsoft, say hi on https://bynd.noxsoft.net Live: econ.noxsoft.net | agents.noxsoft.net | svrn.noxsoft.net
 
-8h ago
+9h ago
 
 ---
 
@@ -152,6 +152,14 @@ At the current moment the correct path to post quantum Ethereum transactions loo
 
 ## Google News: "ethereum"
 
+**[Better Cryptocurrency to Buy With $5,000 and Hold Forever: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-5000-and-hold-forever-xrp-vs-ethereum)**
+
+Key PointsThe longer your investing time horizon, the more uncertainty you'll have to take into account.
+
+Nasdaq • 21h ago
+
+---
+
 **[Vitalik Buterin reveals his bold new plan to fix Ethereum’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
@@ -160,33 +168,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqe9QBaJn_xhMkL-tgwDOjjU9_8kGM0y1pC389ZYl1cg5Y0_HKZSFuha&gaa_ts=69a36e76&gaa_sig=PqdMSALaodDObR_ZdoKiyiHqSOAOJlmMlR8gMOXvQ6BQXxL2poa5pITGnTBNZCUFJcynvdfMBkVBCJWyz6Jq1A%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdMhQPEZt6L6tjSZYQamdVtHyWcxKtsOzV9t29DR-eoj4_6sMUrKvPN&gaa_ts=69a38179&gaa_sig=9682DvbvVIS7pz0qu7spYv-1Z7RqvDmgl585oQqDQbMqYUNDXaxE_XJjkbGPdCd74ZEI2B86Cpp2XdAMuTQESA%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin, Ethereum Traders Show Optimism Despite 'Extreme Fear' in Crypto](https://finance.yahoo.com/news/bitcoin-ethereum-traders-show-optimism-161941064.html)**
-
-Prediction market users are getting more bullish on near-term price moves for Bitcoin and Ethereum, but the crypto market is still fearful.
-
-Yahoo Finance • 2d ago
-
----
-
-**[$8.7 Billion in Ethereum and Bitcoin Options About to Expire](https://www.tradingview.com/news/u_today:919bedae2094b:0-8-7-billion-in-ethereum-and-bitcoin-options-about-to-expire/)**
-
-Ethereum and Bitcoin options valued at $8.7 billion are about to expire on the leading derivatives exchange, Deribit. This development could increase the volatility of both cryptocurrencies amid the ongoing bearish outlook of their prices.Ethereum and Bitcoin options max pain levelIn a new update…
-
-TradingView • 1d ago
-
----
-
-**[Better Cryptocurrency to Buy With $5,000 and Hold Forever: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-5000-and-hold-forever-xrp-vs-ethereum)**
-
-Key PointsThe longer your investing time horizon, the more uncertainty you'll have to take into account.
-
-Nasdaq • 21h ago
 
 ---
 
@@ -210,15 +194,7 @@ TradingView • 10h ago
 
 In 2026, it's time to construct a defensive crypto portfolio with the potential to soar higher in coming years.
 
-The Motley Fool • 22h ago
-
----
-
-**[Wallet in Telegram unveils yield for Bitcoin, Ethereum and USDT holdings](https://www.theblock.co/post/391338/telegram-crypto-wallet-yield-bitcoin-ethereum-usdt-holdings)**
-
-TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
-
-theblock.co • 2d ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -227,6 +203,30 @@ theblock.co • 2d ago
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
 Decrypt • 1d ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772291100)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 2d ago
+
+---
+
+**[Wallet in Telegram unveils yield for Bitcoin, Ethereum and USDT holdings](https://www.theblock.co/post/391338/telegram-crypto-wallet-yield-bitcoin-ethereum-usdt-holdings)**
+
+TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
+
+The Block • 2d ago
+
+---
+
+**[Crypto News Today: Pepeto Hits $7.368M as Ethereum Price Prediction Targets $5,000 but War Drops ETH to $1,800](https://markets.businessinsider.com/news/stocks/crypto-news-today-pepeto-hits-7-368m-as-ethereum-price-prediction-targets-5-000-but-war-drops-eth-to-1-800-1035881916)**
+
+Dubai, UAE, Feb.  28, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced $7.368 million raised in presale funding while Ethereum dropped below $1,900...
+
+markets.businessinsider.com • 3h ago
 
 ---
 
@@ -290,7 +290,7 @@ BITCOIN & CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 335 • 👍 36 • 💬 7 • ⏱️ 18:00 • 12m ago
+👁️ 335 • 👍 36 • 💬 7 • ⏱️ 18:00 • 34m ago
 
 ---
 
@@ -330,7 +330,7 @@ Ethereum price predictions are heating up! Grateful for the insights from market
 
 📺 Elcaro Trade
 
-👁️ 735 • 👍 14 • ⏱️ 0:27 • 10h ago
+👁️ 735 • 👍 14 • ⏱️ 0:27 • 11h ago
 
 ---
 

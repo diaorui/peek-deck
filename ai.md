@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T23:23:36.171380+00:00'
+updated: '2026-02-28T23:45:18.751300+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- news
 - repositories
 - videos
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 23:23 UTC  
+**Last Updated:** February 28, 2026 at 23:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,13 +41,13 @@ AI news, discussions, and developments
 
 Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, hours after Defense Secretary Pete Hegseth declared the company a supply chain risk to national security, which restricts military contractors from doing business with the AI giant. Amodei called the move "retaliatory and punitive," and he said Anthropic sought to draw "red lines" in the government's use of its technology because "we believe that crossing those lines is contrary to American values, and we wanted to stand up for American values."
 
-🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 4h ago
+🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 5h ago
 
 ---
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 19h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 20h ago
 
 ---
 
@@ -71,7 +71,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +79,7 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 AI is only part of the story. Energy, demographics, resilience, and digital trust will reshape how we live and work. A list of shiny things. A few buzzwords. Some recycled nonsense about “the metaverse,” “disruption,” and “the future of innovation.” Most of it is useless because it treats trends like gadgets instead of what they really are: pressures.
 
-🔗 [Medium](https://medium.com/@kpistrikesback/the-trends-that-will-actually-matter-in-the-next-decade-3e6f9851e036) • 37m ago
+🔗 [Medium](https://medium.com/@kpistrikesback/the-trends-that-will-actually-matter-in-the-next-decade-3e6f9851e036) • 59m ago
 
 ---
 
@@ -119,25 +119,17 @@ Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of A
 
 ## Google News: "ai"
 
-**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
+**[OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic](https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems)**
 
-The New York Times • 19h ago
+OpenAI CEO Sam Altman announced late Friday that the company had signed a deal with the Pentagon for its AI tools to be used in the military’s classified systems, but with seemingly similar guardrails rival Anthropic had also requested.
 
----
-
-**[OpenAI announces Pentagon deal after Trump bans Anthropic](https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban)**
-
-Shortly after the president's ban of artificial intelligence company Anthropic, rival OpenAI announced it had done a deal with the Defense Department to provide its technology for classified networks.
-
-NPR • 1d ago
+CNN • 19h ago
 
 ---
 
-**[Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war/)**
+**[Silicon Valley Rallies Behind Anthropic in A.I. Clash With Trump - The New York Times](https://www.nytimes.com/2026/02/27/technology/anthropic-trump-pentagon-silicon-valley.html)**
 
-Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
-
-OpenAI • 2h ago
+The New York Times • 18h ago
 
 ---
 
@@ -145,15 +137,15 @@ OpenAI • 2h ago
 
 AI is spreading fast, but not evenly. The UAE and Singapore lead the world in AI adoption, with more than 60% of working-age adults using AI tools, while the U.S. ranks just 24th globally despite leading in AI innovation. So what are these smaller nations doing differently?
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
-**[Anthropic CEO Dario Amodei says 'we are patriotic Americans' committed to defending the U.S.](https://fortune.com/2026/02/28/anthropic-ceo-dario-amodei-patriotic-americans-trump-hegseth-mass-surveillance-autonomous-weapons/)**
+**[What to know about the clash between the Pentagon and Anthropic over military’s AI use](https://apnews.com/article/anthropic-pentagon-ai-dario-amodei-hegseth-0c464a054359b9fdc80cf18b0d4f690c)**
 
-"I believe we have to defend our country from autocratic adversaries like China and like Russia."
+A high-stakes dispute over how the U.S. military uses artificial intelligence has led the Pentagon to cancel its contract with rising AI star Anthropic.
 
-Fortune • 4h ago
+AP News • 1h ago
 
 ---
 
@@ -181,19 +173,27 @@ Yahoo Finance • 10h ago
 
 ---
 
-**[Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey)**
-
-Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
-
-CNN • 2d ago
-
----
-
 **[Trump has ordered government agencies to stop using Anthropic AI tools](https://www.bbc.com/news/articles/cn48jj3y8ezo)**
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
 BBC • 19h ago
+
+---
+
+**[Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war/)**
+
+Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
+
+OpenAI • 3h ago
+
+---
+
+**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
+
+From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
+
+Fortune • 13h ago
 
 ---
 
@@ -219,7 +219,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 293 • 💬 171 • 10h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 293 • 💬 171 • 11h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -247,7 +247,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 104 • 💬 86 • 12h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 104 • 💬 86 • 13h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -295,7 +295,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 Brain Project
 
-👁️ 3K • 👍 151 • 💬 49 • ⏱️ 13:05 • 7h ago
+👁️ 3K • 👍 151 • 💬 49 • ⏱️ 13:05 • 8h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant Operating System — deploy anywh
 
 `Rust` `official` `official-website`
 
-⭐ 21.1k • 🔱 2.6k • 1m ago
+⭐ 21.1k • 🔱 2.6k • 23m ago
 
 ---
 
@@ -701,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.0k • 🔱 238 • 10h ago
+⭐ 3.0k • 🔱 238 • 11h ago
 
 ---
 
@@ -731,7 +731,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 2.9k • 🔱 357 • 1m ago
+⭐ 2.9k • 🔱 357 • 23m ago
 
 ---
 
