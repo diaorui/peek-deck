@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T07:48:35.822342+00:00'
+updated: '2026-02-28T08:31:21.948982+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
+- news
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 07:48 UTC  
+**Last Updated:** February 28, 2026 at 08:31 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
+
+8h ago
+
+---
+
 **[Barista Demo pouring a Latte from CES](https://www.reddit.com/r/robotics/comments/1rgcety/barista_demo_pouring_a_latte_from_ces/)**
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-14h ago
-
----
-
-**[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
-
-8h ago
+15h ago
 
 ---
 
@@ -50,7 +50,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-17h ago
+18h ago
 
 ---
 
@@ -64,7 +64,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-1h ago
+2h ago
 
 ---
 
@@ -78,7 +78,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-13h ago
+14h ago
 
 ---
 
@@ -86,7 +86,7 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 
 Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-13h ago
+14h ago
 
 ---
 
@@ -94,7 +94,7 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 2h ago
+🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 3h ago
 
 ---
 
@@ -102,19 +102,13 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 Japan is helping people to stand up in life which are disabled I wish there can be sports events to get there sprit up and also even its small medal but it can be achievments of there confidence and live there societal ease Wishing for a good luck to us
 
-3h ago
+4h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqc8e0WEH6EAaGiCWfJqUCoaEukm4xF5DK-M4WNtgKGagPUKJ33ytIUJ&gaa_ts=69a29c8e&gaa_sig=6mRCXwE64oZ7lVwe6Qhmte-Rp577DxDpNIt5T0k0r8p2KWgkB7QNq2hmfWw8EeV8gs1rM2xUgbz3QtEvXU-aQA%3D%3D)**
-
-WSJ • 9h ago
-
----
 
 **[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
 
@@ -124,17 +118,23 @@ Los Angeles Times • 2d ago
 
 ---
 
-**[BMW intensifies humanoid robot push with test project in Germany after U.S. success](https://www.autonews.com/bmw/ane-bmw-humanoid-robot-leipzig-germany-0227/)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqciTlQ0cNJxcmB0_TULzto88h51FmYQ7Z69vZLGlpHAbUviV8x1kpi3&gaa_ts=69a2ab47&gaa_sig=7iU_VJ9EJMSfDHS80haJWAwi2MtZexN25dlkZemLlhUB1Y7Qu0yIV_5S5RVZ7cpGyiE8q6MdK-mtwq4AvFBncA%3D%3D)**
 
-BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
-
-Automotive News • 17h ago
+WSJ • 10h ago
 
 ---
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 15h ago
+Tech Xplore • 16h ago
+
+---
+
+**[BMW intensifies humanoid robot push with test project in Germany after U.S. success](https://www.autonews.com/bmw/ane-bmw-humanoid-robot-leipzig-germany-0227/)**
+
+BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
+
+Automotive News • 18h ago
 
 ---
 
@@ -142,7 +142,7 @@ Tech Xplore • 15h ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 21h ago
+Financial Times • 22h ago
 
 ---
 
@@ -252,7 +252,7 @@ Arduino Based Projects #arduinoprojects #arduinouno #robotics #robot #light #sta
 
 📺 EAZYTRONIC
 
-👁️ 29K • 👍 111 • 💬 1 • ⏱️ 0:09 • 19h ago
+👁️ 29K • 👍 111 • 💬 1 • ⏱️ 0:09 • 20h ago
 
 ---
 

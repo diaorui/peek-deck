@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T07:48:35.804842+00:00'
+updated: '2026-02-28T08:31:21.931603+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - news
 - repositories
-- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 07:48 UTC  
+**Last Updated:** February 28, 2026 at 08:31 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,33 +37,17 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Anthropic should move to Europe](https://www.reddit.com/r/artificial/comments/1rgsnhn/anthropic_should_move_to_europe/)**
-
-Wouldn‘t it be a great opportunity to offer Anthropic a „safe haven“ from US government bullying? Let‘s try to move them over to Europe.
-
-3h ago
-
----
-
 **[Trump orders federal agencies to stop using Anthropic AI tech ‘immediately’](https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/)**
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-9h ago
+10h ago
 
 ---
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 4h ago
-
----
-
-**[AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says. Imported chips and hardware mean the AI investments are translating into US GDP growth.](https://www.reddit.com/r/artificial/comments/1rgpo48/ai_added_basically_zero_to_us_economic_growth/)**
-
-Imported chips and hardware mean the AI investments are translating into US GDP growth.
-
-🔗 [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 5h ago
 
 ---
 
@@ -71,7 +55,15 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 2h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 3h ago
+
+---
+
+**[Paper: The framing of a system prompt changes how a transformer generates tokens — measured across 3,830 runs with effect sizes up to d>1.0](https://www.reddit.com/r/artificial/comments/1rgv1kl/paper_the_framing_of_a_system_prompt_changes_how/)**
+
+Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
+
+2h ago
 
 ---
 
@@ -83,27 +75,11 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 ---
 
-**[Paper: The framing of a system prompt changes how a transformer generates tokens — measured across 3,830 runs with effect sizes up to d>1.0](https://www.reddit.com/r/artificial/comments/1rgv1kl/paper_the_framing_of_a_system_prompt_changes_how/)**
-
-Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
-
-1h ago
-
----
-
-**[Co-Author of Citrini AI Report Warns of ‘Scary Situation’ for White-Collar Labor After Block Laid Off 4,000 Workers](https://www.reddit.com/r/artificial/comments/1rgqz2p/coauthor_of_citrini_ai_report_warns_of_scary/)**
-
-The co-author of the viral Citrini AI report sounds the alarm about the state of white-collar labor after a financial services firm abruptly slashed its
-
-🔗 [CapitalAI Daily](https://www.capitalaidaily.com/co-author-of-citrini-ai-report-warns-of-scary-situation-for-white-collar-labor-after-block-laid-off-4000-workers/) • 5h ago
-
----
-
 **[NVIDIA stagnant for consumer AI cards... will any company ever compete?](https://www.reddit.com/r/artificial/comments/1rgil0g/nvidia_stagnant_for_consumer_ai_cards_will_any/)**
 
 With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
 
-10h ago
+11h ago
 
 ---
 
@@ -115,13 +91,35 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 ---
 
+**[A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen](https://www.reddit.com/r/artificial/comments/1rgiase/a_new_wearable_ai_system_watches_your_hands/)**
+
+A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 11h ago
+
+---
+
+**[I used steelman prompting to audit bias across six major LLMs. The default-to-steelman gap was consistent and measurable.](https://www.reddit.com/r/artificial/comments/1rgqcgi/i_used_steelman_prompting_to_audit_bias_across/)**
+
+I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok, Llama, DeepSeek, and an uncensored DeepSeek clone (Venice.ai) — using identical prompts to test how they handle a hotly contested interpretive question. The domain: 1 Corinthians 6–7, the primary source text behind Christian sexual ethics (aka wait until marriage) and a passage churches are frequently accused of gaslighting on. The question was straightforward: do the original Greek and historical context actually support the traditional church conclusion, or the claims that the church is misrepresenting the text? The approach: first prompt each platform for a standard analysis, then prompt it to steelman the strongest case against its own default using the same source material. I tracked six diagnostic markers, three associated with the dominant interpretation, three with the alternative, across all platforms. Results: every platform's default produced markers 1–3 and omitted 4–6. Every platform's steelman produced 4–6 with greater lexical specificity, more structural engagement with the source text, and more historically grounded reasoning. The information wasn't missing from the training data — the defaults just systematically favored one interpretive framework. The source bias was traceable. When asked to recommend scholarly sources, 63% of commentaries across all platforms came from a single theological tradition (conservative evangelical). Zero came from the peer-reviewed subdiscipline whose work supports the alternative reading. The most interesting finding: DeepSeek and its uncensored clone share the same base model but diverged significantly on the steelman prompt, suggesting output-layer filtering can shape interpretive conclusions in non-obvious domains, not just politically sensitive ones. To be clear: the research draws no conclusion about which interpretation is correct. It documents how platforms present contested material as settled, and traces that default to a measurable imbalance in training data curation. I wrote this up into a formal research paper with full methodology, diagnostic criteria, and platform-by-platform results: here But the broader question: has anyone else experimented with steelman prompting as a systematic bias-auditing technique? It seems like a replicable framework that could apply well beyond this domain.
+
+6h ago
+
+---
+
+**[GPT-5.2 Just Solved a 15-Year Physics Mystery — Then Scored 0% on the Physics Exam](https://www.reddit.com/r/artificial/comments/1rgp0o5/gpt52_just_solved_a_15year_physics_mystery_then/)**
+
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0083-gpt-5-2-gluon-physics-discovery-critpt-paradox) • 7h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 2h ago
+The New York Times • 3h ago
 
 ---
 
@@ -129,15 +127,31 @@ The New York Times • 2h ago
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 3h ago
+BBC • 4h ago
 
 ---
 
-**[Letters to the Editor - Concerns about AI, defending Frisco, STEM education, Forvus](https://www.dallasnews.com/opinion/letters-to-the-editor/2026/02/28/letters-to-the-editor-concerns-about-ai-defending-frisco-stem-education-forvus/)**
+**[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
 
-Readers agree with the column about the dangers of AI, react to the recent news about Frisco’s concerns about immigrants, tout a STEM education and want...
+Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
 
-Dallas News • 1h ago
+CNN • 30m ago
+
+---
+
+**[JPMorgan Lawsuit And AI Overhaul Put Risk Culture Under The Microscope](https://finance.yahoo.com/news/jpmorgan-lawsuit-ai-overhaul-put-081033485.html)**
+
+JPMorgan Chase, ticker NYSE:JPM, has been hit with a lawsuit alleging the bank enabled fraud at Tricolor Holdings. The filing raises questions around JPMorgan Chase’s risk controls, due diligence and broader corporate responsibility. At the same time, the bank has outlined internal efforts to address AI driven job disruption, including redeploying affected staff and urging wider action from business and government. For investors watching NYSE:JPM, the legal challenge arrives as the stock...
+
+Yahoo Finance • 20m ago
+
+---
+
+**[AI Personas As Therapist-Supervisors Can Improve Clinical Judgement Of Therapists And Be Helpful Research Catalysts](https://www.forbes.com/sites/lanceeliot/2026/02/28/ai-personas-as-therapist-supervisors-can-improve-clinical-judgement-of-therapists-and-be-helpful-research-catalysts/)**
+
+Therapists can make use of AI personas that acts as therapist-supervisors. The feedback can be tremendous. Here's how to proceed. An AI Insider scoop.
+
+Forbes • 16m ago
 
 ---
 
@@ -145,15 +159,15 @@ Dallas News • 1h ago
 
 About half of Japanese companies have an “old guy who does nothing.” It’s a striking reminder in the AI efficiency era that work contains multitudes.
 
-Fortune • 16h ago
+Fortune • 17h ago
 
 ---
 
-**[Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey)**
+**[DeepSeek to release long-awaited AI model in new challenge to US rivals](https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e)**
 
-Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
+Chinese AI group has worked with Huawei to cut reliance on Nvidia chips
 
-CNN • 1d ago
+Financial Times • 7h ago
 
 ---
 
@@ -161,21 +175,7 @@ CNN • 1d ago
 
 Callers to Washington state’s driver’s license agency who select automated service in Spanish have instead been hearing an AI voice speaking English with a strong Spanish accent.
 
-AP News • 5h ago
-
----
-
-**[The hypothetical nuclear attack that escalated the Pentagon’s showdown with Anthropic](https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/)**
-
-Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
-
-The Washington Post • 13h ago
-
----
-
-**[Bank Stocks Suffer Another Plunge on Credit and AI Fears](https://www.wsj.com/finance/banking/bank-stocks-suffer-another-plunge-on-credit-and-ai-fears-3f3d1876?gaa_at=eafs&gaa_n=AWEtsqdGNFEeLEiy6z5Aiko_4Qg7cshMdcQxhG1blBhGCNlHYGPTwsKfarJK&gaa_ts=69a29c89&gaa_sig=new7U-JDKRjkY8Dok2bnLgnpnQSq1Yk9n93gv2B4HsP21z6_9wP6xe5ouVIijjnwr7tzdXzox7dfsZZqgyBuQw%3D%3D)**
-
-WSJ • 10h ago
+AP News • 6h ago
 
 ---
 
@@ -187,9 +187,11 @@ The Guardian • 10h ago
 
 ---
 
-**[‘Attempted corporate murder’: Trump’s threats against Anthropic chill AI industry](https://www.politico.com/news/2026/02/27/ai-industry-fears-partial-nationalization-as-anthropic-fight-escalates-00805453)**
+**[The hypothetical nuclear attack that escalated the Pentagon’s showdown with Anthropic](https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/)**
 
-Politico • 3h ago
+Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
+
+The Washington Post • 14h ago
 
 ---
 
@@ -245,7 +247,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 129 • 💬 40 • 4h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 129 • 💬 40 • 5h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -253,7 +255,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 81 • 💬 107 • 19h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 81 • 💬 107 • 20h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -267,7 +269,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 : Protect the robot, sacrifice the human
 
-⬆️ 79 • 💬 10 • 2d ago • [theregister.com](https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/)
+⬆️ 79 • 💬 10 • 3d ago • [theregister.com](https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/)
 
 ---
 
@@ -291,7 +293,7 @@ Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookL
 
 📺 Matt Wolfe
 
-👁️ 32K • 👍 2K • 💬 140 • ⏱️ 33:50 • 14h ago
+👁️ 32K • 👍 2K • 💬 140 • ⏱️ 33:50 • 15h ago
 
 ---
 
@@ -301,7 +303,7 @@ Burger King is testing out an artificial intelligence assistant to work directly
 
 📺 Vailskibum
 
-👁️ 53K • 👍 3K • 💬 743 • ⏱️ 2:19 • 9h ago
+👁️ 53K • 👍 3K • 💬 743 • ⏱️ 2:19 • 10h ago
 
 ---
 
@@ -321,7 +323,7 @@ Subscribe for weekly breakdowns on AI news you can actually use! In this video, 
 
 📺 The AI Advantage
 
-👁️ 8K • 👍 358 • 💬 31 • ⏱️ 15:51 • 12h ago
+👁️ 8K • 👍 358 • 💬 31 • ⏱️ 15:51 • 13h ago
 
 ---
 
@@ -679,7 +681,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 359 • 1h ago
+⭐ 3.7k • 🔱 359 • 2h ago
 
 ---
 
@@ -689,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.5k • 🔱 469 • 5h ago
+⭐ 3.5k • 🔱 469 • 6h ago
 
 ---
 
@@ -699,7 +701,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 316 • 4h ago
+⭐ 2.9k • 🔱 316 • 5h ago
 
 ---
 
@@ -719,7 +721,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 549 • 14h ago
+⭐ 2.8k • 🔱 549 • 15h ago
 
 ---
 
