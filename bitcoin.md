@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T11:42:44.494712+00:00'
+updated: '2026-02-28T12:48:58.540403+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
 - videos
+- news
 - cryptocurrency
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 11:42 UTC  
+**Last Updated:** February 28, 2026 at 12:48 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,917.35
+### $63,923.15
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.7%  
-**7d:** -5.2%  
-**30d:** -23.9%  
-**90d:** -25.6%  
-**1y:** -25.5%  
+**24h:** -3.5%  
+**7d:** -5.5%  
+**30d:** -24.1%  
+**90d:** -25.9%  
+**1y:** -25.7%  
 
 ---
 
@@ -79,29 +79,13 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-15h ago
-
----
-
-**[US-Israel just bombed Iran. BTC dropped 4% to $63k. Crypto was the only market open. Here's why that matters.](https://www.reddit.com/r/Bitcoin/comments/1rgznbg/usisrael_just_bombed_iran_btc_dropped_4_to_63k/)**
-
-While stocks, bonds, and forex were all closed, crypto ate the full geopolitical shock alone. $250M liquidated in hours. Think about that. Every other asset class had circuit breakers, closed markets, and time to digest. BTC was the only thing trading and it absorbed the entire global panic by itself. Last week we had $507M in ETF inflows, BTC bouncing to $68k, sentiment recovering from 5 to 11. One airstrike and we're back to $63k. This is the double-edged sword of 24/7 markets. You get liquidity when no one else does — but you also get hit first. Monday is going to be wild when traditional markets open. If stocks tank, BTC probably goes lower. If stocks shrug it off, this was the dip. Not panicking. Just watching the data. DYOR.
-
-52m ago
+16h ago
 
 ---
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-21h ago
-
----
-
-**[Daily Discussion, February 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1rguxhk/daily_discussion_february_28_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-5h ago
+22h ago
 
 ---
 
@@ -109,7 +93,31 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-4h ago
+5h ago
+
+---
+
+**[Daily Discussion, February 28, 2026](https://www.reddit.com/r/Bitcoin/comments/1rguxhk/daily_discussion_february_28_2026/)**
+
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+
+6h ago
+
+---
+
+**[Accidentally Lost My BTC Backup in 2022 — Just Recovered It in 2025](https://www.reddit.com/r/Bitcoin/comments/1rgohwa/accidentally_lost_my_btc_backup_in_2022_just/)**
+
+I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
+
+11h ago
+
+---
+
+**[Inquiry](https://www.reddit.com/r/Bitcoin/comments/1rh0jb9/inquiry/)**
+
+I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
+
+1h ago
 
 ---
 
@@ -125,31 +133,23 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
 
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 13h ago
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 15h ago
 
 ---
 
-**[Maybe they really do understand Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rg7c4v/maybe_they_really_do_understand_bitcoin/)**
+**[New to Bitcoin and genuinely curious , what made you believe in it long-term?](https://www.reddit.com/r/Bitcoin/comments/1rh1nhp/new_to_bitcoin_and_genuinely_curious_what_made/)**
 
-A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
+Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-21h ago
-
----
-
-**[Here's my take.](https://www.reddit.com/r/Bitcoin/comments/1rgf8pm/heres_my_take/)**
-
-If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
-
-16h ago
+8m ago
 
 ---
 
-**[My latest mural just received 20k sats via QR code 🟠 Permissionless patronage in real life. Thank you 🙏🏼](https://www.reddit.com/r/Bitcoin/comments/1rfdtil/my_latest_mural_just_received_20k_sats_via_qr/)**
+**[Genesis address?](https://www.reddit.com/r/Bitcoin/comments/1rh1eal/genesis_address/)**
 
-No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
+I was looking at the genesis block on mempool.space, but why does the address connected to the only transaction in the block only have 11 other transactions. Many of addresses connected to satoshi have thousands more of transactions. I was wondering if you could only send some if you mined a block, but that's probably bullshit. So can I give myself a nice place on the blockchain or is there more I don't know of?
 
-1d ago
+21m ago
 
 ---
 
@@ -159,55 +159,13 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[Bitcoin Miner Tied to Trump Family Pummeled by Crypto Crash](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-tied-to-trump-family-pummeled-by-crypto-crash)**
+**[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqfIuXVvmU0qvXF1sRPvRva6GD0LnxpgqKfirpNFeciYD9-xx9Di0Nx_&gaa_ts=69a2e79d&gaa_sig=y6cCVARx-iQ46lLyMsHrW7c4oGkfa0TfJKtSLnDhiOcA40P8wZUsve3XKD7zYEsAVIiEVA48ksAtTeTyyPtwiQ%3D%3D)**
 
-Bloomberg.com • 1d ago
-
----
-
-**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
-
-Reuters • 1d ago
-
----
-
-**[Opinion | Donald Trump Is the Crypto President. Why Is It Struggling?](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)**
-
-The New York Times • 2d ago
-
----
-
-**[Fake mail carrier accused of violently strangling Seattle homeowner’s wife during demand for bitcoin](https://www.king5.com/article/news/local/fake-mail-carrier-accused-of-violently-strangling-seattle-homeowners-wife-during-demand-for-bitcoin/281-2e1dbfe9-e6ad-49e9-abc2-3d78eae26bb7)**
-
-Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
-
-KING5.com • 16h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdtItHWzTzcNBzY71KBO7pycehqvN9ZIEvTt5TGaPVDljmj88GO9Ths&gaa_ts=69a2d2f1&gaa_sig=MjG5I3BAs3g8d-8mkvmnNbD-6SRIW5Lfz_hot1HNp0aMwH0BsBoHBo5mqx-wi1fQrbZX97IfNDwP2h2gdZLiXQ%3D%3D)**
-
-Barron's • 1d ago
-
----
-
-**[BTC price falls with ETH, SOL while decred, AI-linked tokens advance: Crypto Markets Today](https://www.coindesk.com/markets/2026/02/27/bitcoin-falls-with-ether-solana-while-decred-ai-linked-tokens-advance)**
-
-Positioning in futures and options shows traders looking to protect against further declines.
-
-CoinDesk • 23h ago
-
----
-
-**[Are Institutions Killing Bitcoin And Ethereum? Here’s How They’ve Fared Since Companies Got Involved](https://www.tradingview.com/news/newsbtc:e6815b3ee094b:0-are-institutions-killing-bitcoin-and-ethereum-here-s-how-they-ve-fared-since-companies-got-involved/)**
-
-Institutional capital has transformed the cryptocurrency market dynamics, changing who participates and how digital assets are traded. The arrival of spot exchange-traded funds, corporate treasury allocations, and access through major brokerage platforms has pulled Bitcoin and Ethereum deeper into…
-
-TradingView • 13h ago
+MarketWatch • 3h ago
 
 ---
 
@@ -215,15 +173,59 @@ TradingView • 13h ago
 
 Tehran launched waves of missiles and drones targeting Israel, U.S. bases, and Gulf allies, with explosions reported in Dubai, Kuwait, and Bahrain.
 
+CoinDesk • 2h ago
+
+---
+
+**[Bitcoin Needs a Huge Rally to Hit $150,000 by December -- Are Polymarket's 12% Odds Too Low, Too High, or Just About Right?](https://www.fool.com/investing/2026/02/28/bitcoin-needs-a-huge-rally-to-hit-150000-by-decemb/)**
+
+Bitcoin may have a better chance of hitting $150,000 this year than you think.
+
+The Motley Fool • 2h ago
+
+---
+
+**[BTC tries to reclaim $64,000 as funding rates hit three month low](https://www.coindesk.com/markets/2026/02/28/bitcoin-sets-up-potential-short-squeeze-as-funding-plunges-to-6)**
+
+Negative funding rates, rising open interest and liquidations point to crowded positioning and heightened derivatives activity.
+
 CoinDesk • 1h ago
 
 ---
 
-**[Polymarket Says Bitcoin Has Just 3% Odds of Topping $150,000 by June -- How Seriously Should Long-Term Investors Take That Number?](https://www.fool.com/investing/2026/02/28/polymarket-says-bitcoin-has-just-3-odds-of-topping/)**
+**[I’m buying this Bitcoin dip every day: Money Talks](https://www.cleveland.com/business/2026/02/im-buying-this-bitcoin-dip-every-day-money-talks.html)**
 
-Bitcoin's volatility makes it difficult to predict over the short term. But it's a different story over the long haul.
+Cleveland.com • 2h ago
 
-The Motley Fool • 5h ago
+---
+
+**[Michael Saylor Unveils 'Digital Credit' Vision, Signals Expansion Beyond Bitcoin To Solana](https://finance.yahoo.com/news/michael-saylor-unveils-digital-credit-110031292.html)**
+
+Strategy Inc. (NASDAQ:MSTR) Executive Chair Michael Saylor shared his vision Wednesday for the future of “digital credit,” emphasizing its potential beyond Bitcoin (CRYPTO: BTC) on networks like Solana (CRYPTO: SOL). Future Of ‘Digital Credit’ In a keynote address at the...
+
+Yahoo Finance • 1h ago
+
+---
+
+**[Fake mail carrier accused of violently strangling Seattle homeowner’s wife during demand for bitcoin](https://www.king5.com/article/news/local/fake-mail-carrier-accused-of-violently-strangling-seattle-homeowners-wife-during-demand-for-bitcoin/281-2e1dbfe9-e6ad-49e9-abc2-3d78eae26bb7)**
+
+Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
+
+KING5.com • 17h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdouuukgk3DvIruAAqjSncO9AA3F3GbCZpUadtaY7p_oa_k8koCfqfp&gaa_ts=69a2e79d&gaa_sig=ohKVfloVkchI5CPDH86EhveTxPsg81YKhT2qJo195cwRFLhgx3e-y09veNw9o92q75KyDZ3DsRvCqwHOnLtzrw%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[Sora Ventures-Backed Bitplanet Reaches 300 Bitcoin, Ranks Among Asia’s Top 20 Corporate Holders](https://bitcoinmagazine.com/news/sora-backed-bitplanet-reaches-300)**
+
+Bitplanet now owns 300 bitcoin through its structured purchase program, positioning the South Korea-listed company among the top 20 corporate Bitcoin holders in Asia.
+
+Bitcoin Magazine • 17h ago
 
 ---
 
@@ -242,6 +244,14 @@ The Motley Fool • 5h ago
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
 ⬆️ 6 • 💬 21 • 3d ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+
+---
+
+**[Jeffrey Epstein saw promise in Bitcoin – and its far-right supporters](https://news.ycombinator.com/item?id=47192930)**
+
+Links to major crypto world figures are just the start.
+
+⬆️ 3 • 💬 0 • 3h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -279,14 +289,6 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 ---
 
-**[Jeffrey Epstein saw promise in Bitcoin – and its far-right supporters](https://news.ycombinator.com/item?id=47192930)**
-
-Links to major crypto world figures are just the start.
-
-⬆️ 1 • 💬 0 • 1h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
-
----
-
 **[Show HN: Deadhand – trustless Bitcoin inheritance in 2 minutes](https://news.ycombinator.com/item?id=47169521)**
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
@@ -313,7 +315,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 471K • 👍 17K • 💬 1K • ⏱️ 18:56 • 18h ago
+👁️ 471K • 👍 17K • 💬 1K • ⏱️ 18:56 • 19h ago
 
 ---
 
@@ -323,7 +325,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 18K • 👍 639 • ⏱️ 22:53 • 13h ago
+👁️ 18K • 👍 639 • ⏱️ 22:53 • 14h ago
 
 ---
 
@@ -343,7 +345,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 9K • 👍 461 • 💬 83 • ⏱️ 14:04 • 11h ago
+👁️ 9K • 👍 461 • 💬 83 • ⏱️ 14:04 • 12h ago
 
 ---
 
@@ -363,7 +365,7 @@ Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 17K • 👍 853 • 💬 51 • ⏱️ 16:32 • 23h ago
+👁️ 17K • 👍 853 • 💬 51 • ⏱️ 16:32 • 1d ago
 
 ---
 
@@ -383,7 +385,7 @@ Wall Street Just Took Over Bitcoin... Is This Game Over? In today's timely deep 
 
 📺 Tom Bilyeu
 
-👁️ 47K • 👍 2K • 💬 540 • ⏱️ 19:33 • 10h ago
+👁️ 47K • 👍 2K • 💬 540 • ⏱️ 19:33 • 11h ago
 
 ---
 

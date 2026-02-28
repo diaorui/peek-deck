@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T11:42:44.503905+00:00'
+updated: '2026-02-28T12:48:58.549719+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 11:42 UTC  
+**Last Updated:** February 28, 2026 at 12:48 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,9 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON"](https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/)**
+
+BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
+
+1h ago
+
+---
+
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -42,7 +50,7 @@ Robotics research and industry news
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-18h ago
+19h ago
 
 ---
 
@@ -50,13 +58,13 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-5h ago
+6h ago
 
 ---
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-8h ago
+10h ago
 
 ---
 
@@ -64,29 +72,29 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-21h ago
+22h ago
+
+---
+
+**[My DWA (Dynamic Window Approach) in a Robot Vacuum Cleaner.](https://www.reddit.com/r/robotics/comments/1rh1kvy/my_dwa_dynamic_window_approach_in_a_robot_vacuum/)**
+
+Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
+
+12m ago
+
+---
+
+**[I built a Hand-Controlled 3D Particle System (HoloMotion!) using AI for hand tracking!](https://www.reddit.com/r/robotics/comments/1rh0e66/i_built_a_handcontrolled_3d_particle_system/)**
+
+Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
+
+1h ago
 
 ---
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-19h ago
-
----
-
-**[BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON"](https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/)**
-
-BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
-
-23m ago
-
----
-
-**[Isaac Sim || Autonomous Fixed-Wing Flight Mechanics with ArduPilot](https://www.reddit.com/r/robotics/comments/1rge99q/isaac_sim_autonomous_fixedwing_flight_mechanics/)**
-
-Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
-
-17h ago
+20h ago
 
 ---
 
@@ -94,21 +102,19 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 6h ago
-
----
-
-**[Change My Mind: All these Unitree videos are just stuff BD was doing a decade ago, but with multiple robots at once](https://www.reddit.com/r/robotics/comments/1rgdvbl/change_my_mind_all_these_unitree_videos_are_just/)**
-
-Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
-
-17h ago
+🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 7h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+
+Tech Xplore • 20h ago
+
+---
 
 **[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
 
@@ -122,19 +128,13 @@ Los Angeles Times • 3d ago
 
 Coco Robotics launched a new generation of delivery bots
 
-Los Angeles Times • 42m ago
+Los Angeles Times • 1h ago
 
 ---
 
-**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeZwLbG6esrdzugaKd0dTGaYnryUgKFvoofgndZ06cJGpXHkZEVVsEk&gaa_ts=69a2e7a0&gaa_sig=WjNbdOWzGwdvI7aBAs1_yPJ75Y2FS_zkvI2_LCPOCQfAWLa-bbFivdkkDz38dmimm43mFrLiVeDn-koZy0DHxw%3D%3D)**
 
-Tech Xplore • 20h ago
-
----
-
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeeJL9EVBzYCo5OvaByNeUTBfMmDgMQ3TGuA7sUq7tXhMt07HnhBYaF&gaa_ts=69a2d2f4&gaa_sig=MYb9zYt1-NVtVPEzTZI5SqcWuwtidpqG8zTX8pTG8iiTxJuv5REWgL43_9_GzPYfjcafykn1XNHjR2a5fICgmA%3D%3D)**
-
-WSJ • 13h ago
+WSJ • 14h ago
 
 ---
 
@@ -142,13 +142,7 @@ WSJ • 13h ago
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 21h ago
-
----
-
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
-
-Bloomberg.com • 1d ago
+Automotive News • 22h ago
 
 ---
 
@@ -160,17 +154,15 @@ Financial Times • 1d ago
 
 ---
 
-**[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-MSN • 13h ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
+**[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
-
-Fortune • 1d ago
+MSN • 14h ago
 
 ---
 
@@ -179,6 +171,14 @@ Fortune • 1d ago
 Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
 
 South China Morning Post • 1d ago
+
+---
+
+**[DoorDash Launching Its Delivery Robots In Fremont, Because Maybe People There Will Complain Less](https://sfist.com/2026/02/27/doordash-launching-its-delivery-robots-in-fremont-because-maybe-people-there-would-complain-less/)**
+
+DoorDash’s longtime dream of cutting paid human beings out of the delivery process is one step closer to reality, as they’re debuting their little robots to do food deliveries, but at first only in Fremont.
+
+SFist • 12h ago
 
 ---
 
@@ -212,7 +212,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 8K • 👍 427 • 💬 10 • ⏱️ 0:35 • 11h ago
+👁️ 8K • 👍 427 • 💬 10 • ⏱️ 0:35 • 12h ago
 
 ---
 
@@ -222,7 +222,7 @@ China is building robots faster than any country in the world and if you want to
 
 📺 Cyrus Janssen
 
-👁️ 235K • 👍 7K • 💬 971 • ⏱️ 11:41 • 2d ago
+👁️ 235K • 👍 7K • 💬 971 • ⏱️ 11:41 • 3d ago
 
 ---
 
@@ -282,7 +282,7 @@ While AI videos of robot soldiers in training have been proven false, China does
 
 📺 The Tech Report
 
-👁️ 5K • 👍 114 • 💬 87 • ⏱️ 10:53 • 1d ago
+👁️ 5K • 👍 114 • 💬 87 • ⏱️ 10:53 • 2d ago
 
 ---
 

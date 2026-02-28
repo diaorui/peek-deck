@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T11:42:44.486247+00:00'
+updated: '2026-02-28T12:48:58.531899+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
+- videos
 - news
 - social
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 11:42 UTC  
+**Last Updated:** February 28, 2026 at 12:48 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 8h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 9h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-13h ago
+14h ago
 
 ---
 
@@ -55,7 +55,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 6h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 7h ago
 
 ---
 
@@ -63,7 +63,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
-5h ago
+6h ago
 
 ---
 
@@ -79,7 +79,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
 
-14h ago
+15h ago
 
 ---
 
@@ -87,7 +87,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 "Scientists have been working on devices capable of communicating directly with the human brain – know as brain computer interfaces (BCIs) – for a surprisingly long time. In 1969, the American neuroscientist Eberhard Fetz demonstrated that monkeys could learn to move the needle of a meter with the activity of a single neuron in their brains if they were given a food pellet in return. In a more idiosyncratic experiment from the same period, Spanish scientist Jose Delgado was able to remotely stimulate the brain of an enraged bull, causing it to halt mid-charge. BCIs have been able to decode the brain signals that accompany movement so that users can control a prosthetic limb or a cursor on a screen for decades. But BCIs that translate speech signals or other complex thoughts from brain signals have been slower to evolve. "A lot of early work was done on non-human primates… and obviously, with monkeys you cannot study speech," says Wairagkar. In recent years, however, the field has made impressive advances in its efforts to decode the speech of people with impaired communication capabilities – for example, patients suffering from ALS resulting in paralysis or "locked in" syndrome. Stanford University researchers announced in 2021, for example, a successful proof-of-concept that allowed a quadriplegic man to produce English sentences by picturing himself drawing letters in the air with his hand. Using this method, he was able to write 18 words per minute. Natural human speech is about 150 words per minute, so the next stage was decoding words from the neural activity associated with speech itself. In 2024, Wairagkar's lab trialled a technique that translated the attempted speech of a 45-year-old man with ALS directly into text on a computer screen. Achieving approximately 32 words per minute with 97.5% accuracy, this was the first demonstration of how speech BCIs could aid everyday communication, says Wairagkar. These methods rely on tiny "arrays" of microelectrodes which are surgically implanted in the brain's surface. The arrays record patterns of neural activity from the area of the brain they are placed in, with the signals are converted into meaning by a computer algorithm. It is here that the power of machine learning, a type of artificial intelligence has been transformative. These algorithms are adept at recognising patterns from vast amounts of disparate data. In the case of decoding speech, the machine learning algorithms are trained to recognise patterns of neural activity associated with different phonemes, the smallest building blocks of language. Researchers have compared this to the processing that takes place in smart assistants like Amazon's Alexa. But instead of interpreting sounds, the AI interprets neural signals."
 
-🔗 [bbc.com](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) • 1h ago
+🔗 [bbc.com](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) • 3h ago
 
 ---
 
@@ -95,7 +95,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-19h ago
+21h ago
 
 ---
 
@@ -103,7 +103,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 14h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 16h ago
 
 ---
 
@@ -111,7 +111,7 @@ A new wearable AI system watches your hands through smart glasses, guiding exper
 
 I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok, Llama, DeepSeek, and an uncensored DeepSeek clone (Venice.ai) — using identical prompts to test how they handle a hotly contested interpretive question. The domain: 1 Corinthians 6–7, the primary source text behind Christian sexual ethics (aka wait until marriage) and a passage churches are frequently accused of gaslighting on. The question was straightforward: do the original Greek and historical context actually support the traditional church conclusion, or the claims that the church is misrepresenting the text? The approach: first prompt each platform for a standard analysis, then prompt it to steelman the strongest case against its own default using the same source material. I tracked six diagnostic markers, three associated with the dominant interpretation, three with the alternative, across all platforms. Results: every platform's default produced markers 1–3 and omitted 4–6. Every platform's steelman produced 4–6 with greater lexical specificity, more structural engagement with the source text, and more historically grounded reasoning. The information wasn't missing from the training data — the defaults just systematically favored one interpretive framework. The source bias was traceable. When asked to recommend scholarly sources, 63% of commentaries across all platforms came from a single theological tradition (conservative evangelical). Zero came from the peer-reviewed subdiscipline whose work supports the alternative reading. The most interesting finding: DeepSeek and its uncensored clone share the same base model but diverged significantly on the steelman prompt, suggesting output-layer filtering can shape interpretive conclusions in non-obvious domains, not just politically sensitive ones. To be clear: the research draws no conclusion about which interpretation is correct. It documents how platforms present contested material as settled, and traces that default to a measurable imbalance in training data curation. I wrote this up into a formal research paper with full methodology, diagnostic criteria, and platform-by-platform results: here But the broader question: has anyone else experimented with steelman prompting as a systematic bias-auditing technique? It seems like a replicable framework that could apply well beyond this domain.
 
-9h ago
+10h ago
 
 ---
 
@@ -119,9 +119,9 @@ I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok,
 
 ## Google News: "ai"
 
-**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
+**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 6h ago
+The New York Times • 7h ago
 
 ---
 
@@ -129,37 +129,29 @@ The New York Times • 6h ago
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 7h ago
+BBC • 8h ago
 
 ---
 
-**[AI keeps powering and pressuring stocks](https://www.axios.com/2026/02/28/nvidia-ai-rally-nasdaq-stocks)**
+**[AI keeps powering and pressuring the Nasdaq](https://www.axios.com/2026/02/28/nvidia-ai-rally-nasdaq-stocks)**
 
-Axios • 38m ago
-
----
-
-**[Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life.](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)**
-
-Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
-
-The Guardian • 1h ago
+Axios • 1h ago
 
 ---
 
-**[This moment of AI disruption is full of mixed messages](https://finance.yahoo.com/news/this-moment-of-ai-disruption-is-full-of-mixed-messages-110026521.html)**
+**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
 
-When the economy gets to the other side of the AI transformation, it will be hard to tell if the markets are winner-take-all or if the winners are simply standing over the wreckage.
+The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-Yahoo Finance • 42m ago
+NBC News • 48m ago
 
 ---
 
-**[Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey)**
+**[Block’s Big AI Shift Reshapes Workforce And Tests Long Term Returns](https://finance.yahoo.com/news/block-big-ai-shift-reshapes-111347800.html)**
 
-Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
+Block (NYSE:XYZ) announced a restructuring that will cut over 40% of its workforce as it shifts toward an AI driven operating model. CEO Jack Dorsey framed the layoffs as a proactive move to create smaller, more agile teams powered by AI tools rather than a response to financial stress. The announcement came alongside strong financial results and raised forward guidance, with management highlighting improved gross profit expectations. For investors watching Block at a share price of $63.7,...
 
-CNN • 1d ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -167,15 +159,7 @@ CNN • 1d ago
 
 About half of Japanese companies have an “old guy who does nothing.” It’s a striking reminder in the AI efficiency era that work contains multitudes.
 
-Fortune • 20h ago
-
----
-
-**[DeepSeek to release long-awaited AI model in new challenge to US rivals](https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e)**
-
-Chinese AI group has worked with Huawei to cut reliance on Nvidia chips
-
-Financial Times • 10h ago
+Fortune • 21h ago
 
 ---
 
@@ -183,15 +167,31 @@ Financial Times • 10h ago
 
 The warnings are coming from inside the industry, but that doesn’t make them right.
 
-The Washington Post • 6h ago
+The Washington Post • 7h ago
 
 ---
 
-**[Callers to Washington state hotline press 2 for Spanish and get accented AI English instead](https://apnews.com/article/washington-dol-spanish-accent-ai-3a1b8438a5674c07242a8d48c057d5a3)**
+**[Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life.](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)**
 
-Callers to Washington state’s driver’s license agency who select automated service in Spanish have instead been hearing an AI voice speaking English with a strong Spanish accent.
+Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
 
-AP News • 9h ago
+The Guardian • 2h ago
+
+---
+
+**[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
+
+Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
+
+CNN • 4h ago
+
+---
+
+**[DeepSeek to release long-awaited AI model in new challenge to US rivals](https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e)**
+
+Chinese AI group has worked with Huawei to cut reliance on Nvidia chips
+
+Financial Times • 11h ago
 
 ---
 
@@ -225,7 +225,7 @@ Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in si
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 145 • 💬 59 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 145 • 💬 58 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -239,7 +239,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 134 • 💬 41 • 8h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 137 • 💬 42 • 9h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -247,7 +247,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 81 • 💬 107 • 23h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 81 • 💬 107 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -261,7 +261,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 "The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-⬆️ 79 • 💬 1 • 14h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
+⬆️ 79 • 💬 1 • 15h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -283,7 +283,7 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 136K • 👍 6K • 💬 548 • ⏱️ 15:25 • 14h ago
+👁️ 136K • 👍 6K • 💬 548 • ⏱️ 15:25 • 15h ago
 
 ---
 
@@ -303,7 +303,7 @@ shorts #AI #disturbing.
 
 📺 Built By Gamers
 
-👁️ 12K • 👍 307 • 💬 9 • ⏱️ 0:30 • 5h ago
+👁️ 12K • 👍 307 • 💬 9 • ⏱️ 0:30 • 6h ago
 
 ---
 
@@ -323,7 +323,7 @@ Burger King is testing out an artificial intelligence assistant to work directly
 
 📺 Vailskibum
 
-👁️ 62K • 👍 3K • 💬 782 • ⏱️ 2:19 • 13h ago
+👁️ 62K • 👍 3K • 💬 782 • ⏱️ 2:19 • 14h ago
 
 ---
 
@@ -333,7 +333,7 @@ President Trump announced via Truth Social that he is banning the use of all Ant
 
 📺 LiveNOW from FOX
 
-👁️ 32K • 👍 687 • 💬 620 • ⏱️ 2:09 • 14h ago
+👁️ 32K • 👍 687 • 💬 620 • ⏱️ 2:09 • 15h ago
 
 ---
 
@@ -343,7 +343,7 @@ Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the
 
 📺 CBS News
 
-👁️ 13K • 👍 510 • 💬 141 • ⏱️ 1:10 • 6h ago
+👁️ 13K • 👍 510 • 💬 141 • ⏱️ 1:10 • 7h ago
 
 ---
 
@@ -353,7 +353,7 @@ Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookL
 
 📺 Matt Wolfe
 
-👁️ 40K • 👍 2K • 💬 154 • ⏱️ 33:50 • 18h ago
+👁️ 40K • 👍 2K • 💬 154 • ⏱️ 33:50 • 19h ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 338 • 16h ago
+⬇️ 350,233 • ❤️ 338 • 17h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.9k • 🔱 2.6k • 4m ago
+⭐ 20.9k • 🔱 2.6k • 1h ago
 
 ---
 
@@ -661,7 +661,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.9k • 🔱 710 • 7h ago
+⭐ 5.9k • 🔱 710 • 9h ago
 
 ---
 
@@ -681,7 +681,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 359 • 5h ago
+⭐ 3.7k • 🔱 359 • 6h ago
 
 ---
 
@@ -691,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 473 • 9h ago
+⭐ 3.6k • 🔱 473 • 10h ago
 
 ---
 
@@ -701,7 +701,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 318 • 1h ago
+⭐ 3.0k • 🔱 318 • 2h ago
 
 ---
 
@@ -711,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 212 • 9h ago
+⭐ 2.9k • 🔱 212 • 11h ago
 
 ---
 
@@ -721,7 +721,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 555 • 2h ago
+⭐ 2.9k • 🔱 555 • 3h ago
 
 ---
 
@@ -731,7 +731,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 2.8k • 🔱 216 • 1h ago
+⭐ 2.8k • 🔱 216 • 2h ago
 
 ---
 
