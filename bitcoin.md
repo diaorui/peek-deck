@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T19:21:17.082196+00:00'
+updated: '2026-02-28T19:42:50.854275+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- cryptocurrency
-- social
 - videos
+- news
+- social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 19:21 UTC  
+**Last Updated:** February 28, 2026 at 19:42 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -109,7 +109,7 @@ I have a pretty crazy story that happened to me last year lol. Back in 2022, I h
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-6h ago
+7h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
-41m ago
+1h ago
 
 ---
 
@@ -133,7 +133,7 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
 
-7h ago
+8h ago
 
 ---
 
@@ -141,7 +141,7 @@ I know this might sound stupid question to some of you, but I'd like to ask anyw
 
 Tonight at midnight EST our drawing closes and today is the last day to earn points. We run a low difficulty Bitcoin mining pool called HMPool (HashedMax Unity Pool) and we run a rewards program that's a little different from what most pools do. Instead of rewarding on pure hashrate, points are based on "uptime" so an ESP32 mining at 1 MH/s earns fairly alongside a full Bitaxe or S19. Every 1,000 points = 1 lottery entry for BTC rewards or hardware giveaways. Tonight at midnight EST the stats and points reset and will start fresh for March, meaning today is your last shot to squeeze any remaining hours in for February's draw. Tomorrow we run our **first ever drawing**, which is kind of a big deal for us since we've been building toward this since launch. If you've been looking for a pool that doesn't punish small miners, we are worth checking out. Rewards overview: https://hmpool.io/rewards.html Happy mining, everyone.
 
-26m ago
+48m ago
 
 ---
 
@@ -157,9 +157,17 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ## Google News: "bitcoin"
 
-**[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqcXJGAdVusvIFmd6zXGUkT7op1jk4-Qcu4oTkEjw_8yM1ZfDPPUfvGV&gaa_ts=69a338ce&gaa_sig=BSAGEkkYNj4YZB1_d816NuBaFPRM8uni_0PbQBCpcY77E0i_M0zaFXTTMef40kbpLwRMpR9auIMfi3g5soJ1fA%3D%3D)**
+**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-MarketWatch • 10h ago
+Bloomberg.com • 5h ago
+
+---
+
+**[Bitcoin is stuck in a rut but JPMorgan says new legislation could be the ultimate spark](https://www.coindesk.com/policy/2026/02/28/bitcoin-is-stuck-in-a-rut-but-jpmorgan-says-new-legislation-could-be-the-ultimate-spark)**
+
+JPMorgan said the long-awaited Clarity Act would bring regulatory clarity, boost institutional participation and accelerate tokenization across U.S. crypto markets.
+
+CoinDesk • 39m ago
 
 ---
 
@@ -167,29 +175,13 @@ MarketWatch • 10h ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-KING5.com • 23h ago
+KING5.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeBNgKWhrqinTFhumta-ezbo0BrpPrNF2Rxt1YKtAoZOo_zQWkhj9Gj&gaa_ts=69a338ce&gaa_sig=X1xrHEPMFyJsNqRXfqv8WQrdUQeSMyaXO81E8oqUXlW6BDFr1kgjofAYuzKCqTHNu8i3Lk_trMumOk8x1OU9Fw%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqf47uveIdbQD-EaIvPpIECTgmDKeJDzhdOCA8PsRZpDyotp0f2326Ss&gaa_ts=69a34897&gaa_sig=FPeklcYApsnkugfUhDPQBDI8NUEFD9hj3CSprtpxZwRprKU982YT-HbZVTc2iD_gbrAdBhZWM6buraM6yDN7Yw%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[Bitcoin price news: BTC slides to $65,000, Solana, XRP, dogecoin down 6%](https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-to-usd65-000-in-weekend-sell-off-with-solana-xrp-dogecoin-down-6)**
-
-The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.
-
-CoinDesk • 14h ago
-
----
-
-**[Bitcoin, Ethereum and Solana rally as analysts flag pause in ‘10 a.m. dump’ after Jane Street lawsuit](https://www.theblock.co/post/391353/bitcoin-ethereum-solana-rally-analysts-flag-pause-dump-jane-street-lawsuit)**
-
-The rally marks one of the strongest single-day rebounds in weeks, snapping a steady slide that had pushed bitcoin down sharply from its October highs.
-
-The Block • 2d ago
 
 ---
 
@@ -197,7 +189,7 @@ The Block • 2d ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-The Block • 21h ago
+The Block • 22h ago
 
 ---
 
@@ -209,17 +201,9 @@ The Motley Fool • 9h ago
 
 ---
 
-**[BTC tries to reclaim $64,000 as funding rates hit three month low](https://www.coindesk.com/markets/2026/02/28/bitcoin-sets-up-potential-short-squeeze-as-funding-plunges-to-6)**
-
-Negative funding rates, rising open interest and liquidations point to crowded positioning and heightened derivatives activity.
-
-CoinDesk • 8h ago
-
----
-
 **[I’m buying this Bitcoin dip every day: Money Talks](https://www.cleveland.com/business/2026/02/im-buying-this-bitcoin-dip-every-day-money-talks.html)**
 
-Cleveland.com • 8h ago
+Cleveland.com • 9h ago
 
 ---
 
@@ -228,6 +212,20 @@ Cleveland.com • 8h ago
 Every slump needs a scapegoat.
 
 Fortune • 1d ago
+
+---
+
+**[MARA swings to $1.7 billion Q4 loss on bitcoin markdown, shares jump 15% after Starwood AI deal](https://www.theblock.co/post/391530/mara-swings-1-7-billion-q4-loss-bitcoin-markdown-shares-jump-15-starwood-ai-deal)**
+
+A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
+
+The Block • 1d ago
+
+---
+
+**[Bitcoin Miner MARA, Starwood Partner to Develop AI Data Centers](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-mara-starwood-partner-to-develop-ai-data-centers)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -253,7 +251,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 4 • 💬 0 • 9h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 4 • 💬 0 • 10h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -287,7 +285,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 **[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
 
-⬆️ 1 • 💬 1 • 6d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
+⬆️ 1 • 💬 1 • 7d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
 
 ---
 
@@ -377,7 +375,7 @@ Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea wha
 
 📺 Edwards Economics
 
-👁️ 29K • 👍 1K • 💬 371 • ⏱️ 28:23 • 20h ago
+👁️ 29K • 👍 1K • 💬 371 • ⏱️ 28:23 • 21h ago
 
 ---
 

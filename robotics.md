@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T19:21:17.091663+00:00'
+updated: '2026-02-28T19:42:50.863818+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 19:21 UTC  
+**Last Updated:** February 28, 2026 at 19:42 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-6h ago
+7h ago
 
 ---
 
@@ -56,7 +56,7 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -72,7 +72,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-38m ago
+1h ago
 
 ---
 
@@ -94,7 +94,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
 
-7h ago
+8h ago
 
 ---
 
@@ -109,12 +109,6 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 ---
 
 ## Google News: "robotics"
-
-**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
-
-Tech Xplore • 1d ago
-
----
 
 **[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
 
@@ -148,15 +142,29 @@ TechCrunch • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfeCuLQ5eHO3_L4g63cwbE_Lqpl37nJVMfJt-tQAQZ_p7vB-SxjZEgf&gaa_ts=69a338d3&gaa_sig=sEGo7Dm6mPHfVOYhAoJDrlvEwgTVme61HXaibskHC3UzDMpXK1V0e4wFS_ZF8ZYlfo9AJq0E6p3Df3eQ9yumKA%3D%3D)**
+**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+
+Tech Xplore • 1d ago
+
+---
+
+**[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)**
+
++++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
+
+BMW Group • 1d ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfI_qCLPT1qCvsvXMFKEX4xPSIDgx0rYmofFsrVimgdRQwKGaicAWmp&gaa_ts=69a3489a&gaa_sig=9CRZsuQ1phJ8o5sXokqRYXQCY1VDgAT83iExY3OkPeLkM-Yb1q2viK8sshKdXViQr0ylJll3KA_fcz758LsThg%3D%3D)**
 
 WSJ • 21h ago
 
 ---
 
-**[BMW intensifies humanoid robot push with test project in Germany after U.S. success](https://www.autonews.com/bmw/ane-bmw-humanoid-robot-leipzig-germany-0227/)**
+**[Rise of robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.autonews.com/hyundai/ane-hyundai-robots-tesla-atlas-optimus-0227/)**
 
-BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
+While the world’s attention has been fixated on Elon Musk’s model and the high-stakes AI race between the U.S. and China, Hyundai has emerged as a leader in humanoid robots.
 
 Automotive News • 1d ago
 
@@ -173,14 +181,6 @@ Bloomberg.com • 1d ago
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
 Financial Times • 1d ago
-
----
-
-**[DoorDash Launching Its Delivery Robots In Fremont, Because Maybe People There Will Complain Less](https://sfist.com/2026/02/27/doordash-launching-its-delivery-robots-in-fremont-because-maybe-people-there-would-complain-less/)**
-
-DoorDash’s longtime dream of cutting paid human beings out of the delivery process is one step closer to reality, as they’re debuting their little robots to do food deliveries, but at first only in Fremont.
-
-SFist • 18h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T19:21:17.073627+00:00'
+updated: '2026-02-28T19:42:50.845548+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 19:21 UTC  
+**Last Updated:** February 28, 2026 at 19:42 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 15h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 16h ago
 
 ---
 
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, hours after Defense Secretary Pete Hegseth declared the company a supply chain risk to national security, which restricts military contractors from doing business with the AI giant. Amodei called the move "retaliatory and punitive," and he said Anthropic sought to draw "red lines" in the government's use of its technology because "we believe that crossing those lines is contrary to American values, and we wanted to stand up for American values."
 
-🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 45m ago
+🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 1h ago
 
 ---
 
@@ -55,7 +55,7 @@ Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, ho
 
 Every week another company announces an AI agent that can write code, answer phones, or close tickets. The technology is commoditizing fast. In 12 months the capability gap between providers will be negligible. So what actually separates the agents that get deployed in production from the ones that stay in demos? I've been building an AI agent that runs day-to-day business operations — not as a tool, but as an autonomous operator. It handles outreach, content, client onboarding, reporting. The technical part was honestly the easy part. The hard part: getting anyone to trust it with real work. Here's what I've observed: **Capability is table stakes.** Every agent can generate text, call APIs, process data. That's not a differentiator anymore. **Identity matters more than people think.** An agent with a name, a consistent voice, and a track record gets treated differently than "the AI." People respond to it differently. They hold it accountable differently. **Context persistence is the real moat.** The agent that remembers your last 50 interactions and adapts is fundamentally different from one that starts fresh every time. This is where most agent frameworks completely fall down. **The trust gap is the real engineering problem.** Getting an AI agent to do something is easy. Getting a human to let it do something unsupervised is the actual challenge nobody talks about. I wrote a longer paper on this — the argument that narrative and identity will matter more than raw capability as agents commoditize. Curious what this community thinks. Where does this argument break down?
 
-30m ago
+52m ago
 
 ---
 
@@ -79,7 +79,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-36m ago
+58m ago
 
 ---
 
@@ -121,29 +121,21 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 13h ago
+The New York Times • 3h ago
 
 ---
 
-**[Trump has ordered government agencies to stop using Anthropic AI tools](https://www.bbc.com/news/articles/cn48jj3y8ezo)**
+**[Trump admin blacklists Anthropic as AI firm refuses Pentagon demands](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)**
 
-The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
+"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-BBC • 15h ago
+CNBC • 22h ago
 
 ---
 
 **[Florida has it right: No handouts for AI robber barons](https://thehill.com/opinion/technology/5758955-big-tech-florida-regulation/)**
 
 The Hill • 1h ago
-
----
-
-**[Amazon to invest $50 billion in OpenAI under new AI partnership](https://www.kiro7.com/news/local/amazon-invest-50-billion-openai-under-new-ai-partnership/D52G3MRJLJDR5KILR5FVKG7J2Y/)**
-
-Amazon is investing $50 billion in OpenAI as part of a new partnership the two companies are launching.
-
-KIRO 7 News Seattle • 1h ago
 
 ---
 
@@ -193,6 +185,14 @@ Fortune • 9h ago
 
 ---
 
+**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
+
+The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
+
+NBC News • 7h ago
+
+---
+
 ---
 
 ## HackerNews: "ai"
@@ -215,7 +215,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 254 • 💬 146 • 6h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 254 • 💬 146 • 7h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -245,7 +245,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 141 • 💬 45 • 15h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 141 • 💬 45 • 16h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 356 • 23h ago
+⬇️ 350,233 • ❤️ 356 • 1d ago
 
 ---
 
@@ -497,7 +497,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 209 • 6h ago
+⬇️ 8,049 • ❤️ 209 • 7h ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.1k • 🔱 2.6k • 46m ago
+⭐ 21.1k • 🔱 2.6k • 1h ago
 
 ---
 
@@ -699,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.0k • 🔱 234 • 6h ago
+⭐ 3.0k • 🔱 234 • 7h ago
 
 ---
 
@@ -729,7 +729,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 556 • 9h ago
+⭐ 2.9k • 🔱 556 • 10h ago
 
 ---
 
