@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-27T23:48:03.855615+00:00'
+updated: '2026-02-28T01:58:12.303577+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
-- news
 - social
+- news
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 27, 2026 at 23:48 UTC  
+**Last Updated:** February 28, 2026 at 01:58 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-1h ago
+3h ago
 
 ---
 
@@ -49,15 +49,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
 
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 22h ago
-
----
-
-**[NVIDIA stagnant for consumer AI cards... will any company ever compete?](https://www.reddit.com/r/artificial/comments/1rgil0g/nvidia_stagnant_for_consumer_ai_cards_will_any/)**
-
-With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
-
-2h ago
+🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 1d ago
 
 ---
 
@@ -65,7 +57,15 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-8h ago
+10h ago
+
+---
+
+**[NVIDIA stagnant for consumer AI cards... will any company ever compete?](https://www.reddit.com/r/artificial/comments/1rgil0g/nvidia_stagnant_for_consumer_ai_cards_will_any/)**
+
+With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
+
+5h ago
 
 ---
 
@@ -73,13 +73,21 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 3h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 5h ago
 
 ---
 
-**[Murder is coming to AI, but not to Claude](https://www.reddit.com/r/artificial/comments/1rglko1/murder_is_coming_to_ai_but_not_to_claude/)**
+**[GPT-5.2 Just Solved a 15-Year Physics Mystery — Then Scored 0% on the Physics Exam](https://www.reddit.com/r/artificial/comments/1rgp0o5/gpt52_just_solved_a_15year_physics_mystery_then/)**
 
-🔗 [zeitgeistml.substack.com](https://zeitgeistml.substack.com/p/murder-is-coming-to-ai-but-not-to) • 58m ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0083-gpt-5-2-gluon-physics-discovery-critpt-paradox) • 42m ago
+
+---
+
+**[AI Added 'Basically Zero' to US Economic Growth Last Year, Goldman Sachs Says. Imported chips and hardware mean the AI investments are translating into US GDP growth.](https://www.reddit.com/r/artificial/comments/1rgpo48/ai_added_basically_zero_to_us_economic_growth/)**
+
+Imported chips and hardware mean the AI investments are translating into US GDP growth.
+
+🔗 [Gizmodo](https://gizmodo.com/ai-added-basically-zero-to-us-economic-growth-last-year-goldman-sachs-says-2000725380) • 12m ago
 
 ---
 
@@ -103,15 +111,7 @@ Have it your way?
 
 "Researchers have been mapping the brain for more than a century. By tracing cellular patterns that are visible under a microscope, they’ve created colorful charts and models that delineate regions and have been able to associate them with functions. In recent years, they’ve added vastly greater detail: They can now go cell by cell and define each one by its internal genetic activity. But no matter how carefully they slice and how deeply they analyze, their maps of the brain seem incomplete, muddled, inconsistent. For example, some large brain regions have been linked to many different tasks; scientists suspect that they should be subdivided into smaller regions, each with its own job. So far, mapping these cellular neighborhoods from enormous genetic datasets has been both a challenge and a chore. Recently, Tasic, a neuroscientist and genomicist at the Allen Institute for Brain Science, and her collaborators recruited artificial intelligence for the sorting and mapmaking effort. They fed genetic data from five mouse brains — 10.4 million individual cells with hundreds of genes per cell — into a custom machine learning algorithm. The program delivered maps that are a neuro-realtor’s dream, with known and novel subdivisions within larger brain regions. Humans couldn’t delineate such borders in several lifetimes, but the algorithm did it in hours. The authors published their methods in Nature Communications in October. By applying the same technique to other animals and eventually to humans, researchers hope not only to detail the brain’s finer-grained layout but also to generate and test hypotheses about how the organ’s parts operate in health and disease."
 
-🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 17h ago
-
----
-
-**[Societal level AI Tragedy of the Commons. Someone please prove me wrong.](https://www.reddit.com/r/artificial/comments/1rgg7mn/societal_level_ai_tragedy_of_the_commons_someone/)**
-
-For the last two years, my biggest worry about AI wasn't AGI or some science fiction dystopia, but simply that massive layoffs of white collar workers are not just a loss of workers, but, more importantly, a loss of consumers. The entire global economy, and particularly in America, is a consumerist economy. White collar workers also represent a disproportionate amount of the spending in the economy, so if that population is unemployed (or worried that they will be anytime soon), it will affect every single sector of the economy. Demand will collapse, revenues for every single company will crater, and even the hyperscalers who are capturing the value of the current AI boom will eventually run out of enterprise costumers, because they themselves have run out of human costumers. This is not like other technological disruptions. AI agents don't consume in the economy. For better or worse, what we need for prosperity is for companies to pay humans a living wage so that those humans are consumers of other businesses. What AI companies are going to do to all of us is a sort of Tragedy of the Commons: In a race to the bottom, each individual company is incentivized to lay off their workers to lower costs, but in doing so, they are also impoverishing their own (and others') costumers. Again, this doesn't just affect software companies or tech, it will affect everything. Restaurants will have fewer patrons, people will travel less, people will buy less real estate, less food, less everything, because they just can't afford it. Personally, this presents a massive cognitive dissonance that I'm struggling with. I have long held NVDA, GOOGL, MSFT, and others at the center of this revolution for many years. It's been good for my portfolio. I haven't sold a single share. And now I think that the short term sucess of these companies will result in the long term collapse of all my savings, and I still can't get myself to sell anything because I hope, more than anything, that I'm wrong. I'm a capitalist, but I think we need some sort of legislation. Something that protects the humans on this planet above short term corporate profits. There should be a law that forces companies to have a % of their workforce be humans, so only a % of your output can be done by agents. It may not optimize for what makes the most sense for that company on a spreadsheet, but without guardrails, the greed and short term profit motive is going to bring a level of societal pain we can't even imagine. Finally, before anyone mentions this. Yes, I've read the Citrini article. The fact that it's gotten so many people now taking my long-believed doomsday scenario, and the fact that I haven't been persuaded by the 'boom' alternatives that have come out, is why I'm more scared than ever. But again, I'm posting here partly because I hope to find an intelligent take that persuades me. I want to be wrong.
-
-4h ago
+🔗 [Quanta Magazine](https://www.quantamagazine.org/fed-on-reams-of-cell-data-ai-maps-new-neighborhoods-in-the-brain-20260209/) • 19h ago
 
 ---
 
@@ -119,9 +119,39 @@ For the last two years, my biggest worry about AI wasn't AGI or some science fic
 
 ## Google News: "ai"
 
-**[Trump Orders Government to Stop Using Anthropic After Pentagon Standoff](https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html)**
+**[Trump Orders U.S. Agencies to Stop Using Anthropic AI Tech After Pentagon Standoff](https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html)**
 
-The New York Times • 8h ago
+The New York Times • 1h ago
+
+---
+
+**[Trump orders government to stop using Anthropic in battle over AI use](https://www.bbc.com/news/articles/cn48jj3y8ezo)**
+
+The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
+
+BBC • 3h ago
+
+---
+
+**[AI industry fears ‘partial nationalization’ as Trump escalates Anthropic fight](https://www.politico.com/news/2026/02/27/ai-industry-fears-partial-nationalization-as-anthropic-fight-escalates-00805453)**
+
+Politico • 53m ago
+
+---
+
+**[DeepSeek to release long-awaited AI model in new challenge to US rivals](https://www.ft.com/content/e3366881-0622-40a7-9c34-a0d82e3d573e)**
+
+Chinese AI group has worked with Huawei to cut reliance on Nvidia chips
+
+Financial Times • 42m ago
+
+---
+
+**[Electronic Caregiver Advances the Rio Grande Health Technology Corridor, Positioning Las Cruces as a National AI Healthcare Infrastructure Hub](https://www.usatoday.com/press-release/story/27306/electronic-caregiver-advances-the-rio-grande-health-technology-corridor-positioning-las-cruces-as-a-national-ai-healthcare-infrastructure-hub/)**
+
+LAS CRUCES, NM / ACCESS Newswire / February 27, 2026 / Electronic Caregiver, Inc., a nationally deployed AI-driven
+
+USA Today • 32m ago
 
 ---
 
@@ -133,65 +163,33 @@ CNN • 1d ago
 
 ---
 
-**[Financial Shares Walloped by AI, Credit Woes Hit Three-Month Low](https://www.bloomberg.com/news/articles/2026-02-27/financial-shares-walloped-by-ai-credit-woes-hit-three-month-low)**
+**[Callers to Washington state hotline press 2 for Spanish and get accented AI English instead](https://apnews.com/article/washington-dol-spanish-accent-ai-3a1b8438a5674c07242a8d48c057d5a3)**
 
-Bloomberg.com • 2h ago
+Callers to Washington state’s driver’s license agency who select automated service in Spanish have instead been hearing an AI voice speaking English with a strong Spanish accent.
 
----
-
-**[Stocks slump as inflation, AI worries rattle investors](https://www.cbsnews.com/news/stock-market-stocks-down-today-ppi-block-artificial-intelligence/)**
-
-Stocks fell in afternoon trading after a report showed higher-than-expected inflation and as Wall Street continues to fret over AI-related disruption.
-
-CBS News • 1h ago
+AP News • 3h ago
 
 ---
 
-**[Stock market today: Dow, S&P 500, Nasdaq fall to end losing month as AI worries buffet markets](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-fall-to-end-losing-month-as-ai-worries-buffet-markets-210030002.html)**
+**[The hypothetical nuclear attack that escalated the Pentagon’s showdown with Anthropic](https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/)**
 
-The prospects for AI to sustain build-out spending and to harm legacy industries continue to be front of mind for Wall Street.
+Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Why ads funded by AI groups aren't about AI: From the Politics Desk](https://www.nbcnews.com/politics/politics-news/ads-funded-ai-groups-arent-ai-politics-desk-rcna261041)**
-
-Plus, what the Texas primaries will reveal about the state of both parties.
-
-NBC News • 1h ago
+The Washington Post • 7h ago
 
 ---
 
-**[How AI can read our scrambled inner thoughts](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts)**
+**[‘I’m fully prepared for our dystopian future!’ Holliday Grainger on AI, firearms training and The Capture](https://www.theguardian.com/tv-and-radio/2026/feb/27/im-fully-prepared-for-our-dystopian-future-holliday-grainger-on-ai-firearms-training-and-the-capture)**
 
-The crackle of electricity inside your brain has long been too complex to decode. Artificial intelligence is changing that.
+As the actor’s hi-tech conspiracy thriller returns for a third series, she spills the beans on her worst stunt injury – and why the police are now ‘dressing like the cops on the telly’
 
-BBC • 13h ago
-
----
-
-**[Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)**
-
-Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
-
-blog.google • 1d ago
+The Guardian • 11h ago
 
 ---
 
-**[Tech stocks today: OpenAI raises $110 billion, Anthropic rejects Defense Department AI demands](https://finance.yahoo.com/news/live/tech-stocks-today-openai-raises-110-billion-anthropic-rejects-defense-department-ai-demands-143452536.html)**
+**[Bank Stocks Suffer Another Plunge on Credit and AI Fears](https://www.wsj.com/finance/banking/bank-stocks-suffer-another-plunge-on-credit-and-ai-fears-3f3d1876?gaa_at=eafs&gaa_n=AWEtsqdkia0eqZ0RbndYBsE-V5v5Hc4HPkA_8KDUiuoMAJdM6toelpdTWf0w&gaa_ts=69a24f15&gaa_sig=s0Nhkv_5aLIrGrw4DJ8fvXuxW_KJbSkyt7rKlC_F8v8aq-7gIv0lQLb-j_B4hz0dlb10B1JPP-ZFxi86LEV60A%3D%3D)**
 
-All eyes are on Nvidia's fourth quarter results, due after the closing bell on Wednesday, as AI concerns continue to grip markets.
-
-Yahoo Finance • 9h ago
-
----
-
-**[How Amazon's massive stake in OpenAI could boost its AI and cloud businesses](https://www.cnbc.com/2026/02/27/amazon-open-ai-cloud-jassy-altman.html)**
-
-The deal could ease some of Wall Street's fears about Amazon's monster $200 billion capex spending, and accelerate its development of AI tools.
-
-CNBC • 1h ago
+WSJ • 4h ago
 
 ---
 
@@ -203,13 +201,13 @@ CNBC • 1h ago
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 592 • 💬 569 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 595 • 💬 570 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 404 • 💬 176 • 1d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 405 • 💬 179 • 1d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -217,7 +215,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
 
-⬆️ 265 • 💬 262 • 2d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
+⬆️ 266 • 💬 262 • 2d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
 
 ---
 
@@ -225,7 +223,7 @@ Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in si
 
 LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
-⬆️ 217 • 💬 81 • 2d ago • [llmskirmish.com](https://llmskirmish.com/)
+⬆️ 218 • 💬 81 • 2d ago • [llmskirmish.com](https://llmskirmish.com/)
 
 ---
 
@@ -233,7 +231,7 @@ LLM Skirmish - An Adversarial In-Context Learning Benchmark
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 144 • 💬 58 • 22h ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 145 • 💬 58 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -255,7 +253,15 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 80 • 💬 102 • 11h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 80 • 💬 103 • 13h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+
+---
+
+**[Trump orders federal agencies to stop using Anthropic AI tech 'immediately'](https://news.ycombinator.com/item?id=47185528)**
+
+"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
+
+⬆️ 79 • 💬 22 • 4h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -267,25 +273,35 @@ Aiming for a 10 year life-cycle for smartphones
 
 ---
 
-**[SynthID: A tool to watermark and identify content generated through AI](https://news.ycombinator.com/item?id=47169146)**
-
-SynthID is a tool to watermark and identify AI-generated content, helping to foster transparency and trust in generative AI.
-
-⬆️ 77 • 💬 74 • 1d ago • [Google DeepMind](https://deepmind.google/models/synthid/)
-
----
-
 ---
 
 ## YouTube Videos: "ai"
 
-**[AI News: This is What Useful AI Actually Looks Like](https://www.youtube.com/watch?v=_CIL2g1oMSQ)**
+**[BREAKING: Trump announces Anthropic AI federal ban](https://www.youtube.com/watch?v=2FCW-6TUBZk)**
+
+President Trump announced via Truth Social that he is banning the use of all Anthropic AI products from federal agencies.
+
+📺 LiveNOW from FOX
+
+👁️ 20K • 👍 560 • 💬 520 • ⏱️ 2:09 • 4h ago
+
+---
+
+**[AI News: AI&#39;s Biggest Stand Just Happened](https://www.youtube.com/watch?v=_CIL2g1oMSQ)**
 
 Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookLM Tricks to 3X Productivity here: ...
 
 📺 Matt Wolfe
 
-👁️ 14K • 👍 1K • 💬 83 • ⏱️ 33:50 • 6h ago
+👁️ 23K • 👍 1K • 💬 108 • ⏱️ 33:50 • 8h ago
+
+---
+
+**[When the South gets AI 😑😭😂 #shorts #funny #comedy #ai #robot #artificialintelligence #south](https://www.youtube.com/watch?v=w8bTrgM19ck)**
+
+📺 Matt & Justus
+
+👁️ 985K • 👍 71K • 💬 785 • ⏱️ 0:49 • 8h ago
 
 ---
 
@@ -295,37 +311,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 160K • 👍 6K • 💬 341 • ⏱️ 11:55 • 1d ago
-
----
-
-**[How To Pick The Right AI Model](https://www.youtube.com/watch?v=DsKZpgoy830)**
-
-Download Comet for FREE https://www.perplexity.ai/comet I explain every type of AI model. Yay! Want to get ahead in your ...
-
-📺 Tina Huang
-
-👁️ 11K • 👍 800 • 💬 59 • ⏱️ 19:01 • 10h ago
-
----
-
-**[Anthropic AI rejects Pentagon&#39;s weapons &amp; surveillance ultimatum](https://www.youtube.com/watch?v=-zOCrWxCqUU)**
-
-American artificial intelligence company Anthropic could be at risk being designated a “supply chain risk” — a label typically ...
-
-📺 CNN
-
-👁️ 96K • 👍 2K • 💬 848 • ⏱️ 8:05 • 9h ago
-
----
-
-**[The AI Bubble. Why Smart People are Losing Their Minds](https://www.youtube.com/watch?v=k2At9npoFJ4)**
-
-"The four most dangerous words in investing are: This time it's different." — Sir John Templeton. Discover The Freelance Formula ...
-
-📺 Brendan Dell 
-
-👁️ 11K • 👍 391 • 💬 141 • ⏱️ 26:08 • 1d ago
+👁️ 176K • 👍 6K • 💬 358 • ⏱️ 11:55 • 1d ago
 
 ---
 
@@ -335,7 +321,15 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 20K • 👍 890 • 💬 82 • ⏱️ 1:11:08 • 1d ago
+👁️ 22K • 👍 960 • 💬 90 • ⏱️ 1:11:08 • 1d ago
+
+---
+
+**[REAL or Ai?? 🤔](https://www.youtube.com/watch?v=y6o7ZW7Ma6k)**
+
+📺 Liv Swearingen (LIV)
+
+👁️ 687K • 👍 19K • 💬 3K • ⏱️ 0:18 • 9h ago
 
 ---
 
@@ -345,17 +339,27 @@ On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI
 
 📺 Tom Bilyeu Clips
 
-👁️ 13K • 👍 298 • 💬 60 • ⏱️ 8:38 • 1d ago
+👁️ 14K • 👍 314 • 💬 61 • ⏱️ 8:38 • 1d ago
 
 ---
 
-**[OpenAI is one failed funding round from bankruptcy | Ed Zitron](https://www.youtube.com/watch?v=cZgZDSVcg20)**
+**[Economist explains what happens after AI takes all jobs](https://www.youtube.com/watch?v=qflh4GKbmVQ)**
 
-OpenAI think they're building something to capture all out futures. When they're actually building the end of theirs.” Author of ...
+Anton Korinek talks about the effects of automation on wages and labor, how we measure the complexity of tasks, the economics ...
 
-📺 The Tech Report
+📺 Future of Life Institute
 
-👁️ 37K • 👍 2K • 💬 443 • ⏱️ 33:47 • 5h ago
+👁️ 36K • 👍 811 • 💬 464 • ⏱️ 22:41 • 1d ago
+
+---
+
+**[The AI Bubble. Why Smart People are Losing Their Minds](https://www.youtube.com/watch?v=k2At9npoFJ4)**
+
+"The four most dangerous words in investing are: This time it's different." — Sir John Templeton. Discover The Freelance Formula ...
+
+📺 Brendan Dell 
+
+👁️ 12K • 👍 400 • 💬 146 • ⏱️ 26:08 • 1d ago
 
 ---
 
@@ -365,17 +369,7 @@ Anthropic accuses Chinese AI labs of “industrial scale” distillation attacks
 
 📺 Valuetainment
 
-👁️ 86K • 👍 2K • 💬 228 • ⏱️ 17:39 • 2d ago
-
----
-
-**[Deadline Day for Autonomous AI Weapons &amp; Mass Surveillance](https://www.youtube.com/watch?v=Cru804JMjPI)**
-
-Will Anthropic be forced to make a version of Claude for war? And does a new paper expose the risks of Claude agents, in both ...
-
-📺 AI Explained
-
-👁️ 17K • 👍 1K • 💬 241 • ⏱️ 13:40 • 8h ago
+👁️ 87K • 👍 2K • 💬 231 • ⏱️ 17:39 • 2d ago
 
 ---
 
@@ -391,7 +385,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 258,764 • ❤️ 632 • 13h ago
+⬇️ 258,764 • ❤️ 636 • 16h ago
 
 ---
 
@@ -403,7 +397,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 107,964 • ❤️ 407 • 2d ago
+⬇️ 107,964 • ❤️ 412 • 2d ago
 
 ---
 
@@ -415,7 +409,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 725,954 • ❤️ 1,112 • 4d ago
+⬇️ 725,954 • ❤️ 1,114 • 4d ago
 
 ---
 
@@ -427,7 +421,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 107,821 • ❤️ 333 • 3d ago
+⬇️ 107,821 • ❤️ 335 • 3d ago
 
 ---
 
@@ -439,7 +433,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 264,531 • ❤️ 306 • 4h ago
+⬇️ 264,531 • ❤️ 313 • 6h ago
 
 ---
 
@@ -451,19 +445,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 189,082 • ❤️ 1,633 • 14d ago
-
----
-
-**[LocoOperator-4B](https://huggingface.co/LocoreMind/LocoOperator-4B)**
-
-*LocoreMind*
-
-LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn codebase exploration. It excels at reading files, searching code, and navigating project structures with 100% JSON validity for tool calls, enabling local, zero-API-cost agent deployment via llama.cpp.
-
-`text-generation` `4.0B`
-
-⬇️ 1,295 • ❤️ 212 • 3d ago
+⬇️ 189,082 • ❤️ 1,636 • 14d ago
 
 ---
 
@@ -475,7 +457,19 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 283,033 • ❤️ 826 • 1d ago
+⬇️ 283,033 • ❤️ 850 • 1d ago
+
+---
+
+**[LocoOperator-4B](https://huggingface.co/LocoreMind/LocoOperator-4B)**
+
+*LocoreMind*
+
+LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn codebase exploration. It excels at reading files, searching code, and navigating project structures with 100% JSON validity for tool calls, enabling local, zero-API-cost agent deployment via llama.cpp.
+
+`text-generation` `4.0B`
+
+⬇️ 1,295 • ❤️ 216 • 3d ago
 
 ---
 
@@ -487,7 +481,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 4,148 • ❤️ 197 • 3d ago
+⬇️ 4,148 • ❤️ 198 • 3d ago
 
 ---
 
@@ -499,7 +493,7 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 `text-generation` `14.8B`
 
-⬇️ 60,686 • ❤️ 231 • 5d ago
+⬇️ 60,686 • ❤️ 232 • 5d ago
 
 ---
 
@@ -507,27 +501,27 @@ A distilled 14B parameter Qwen3 model fine-tuned on Claude 4.5 Opus high-reasoni
 
 ## HuggingFace Papers: 🔥 Trending
 
-**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
-
-*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
-
-AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
-
-▲ 8 • 💬 1 • ⭐ 8,367 • 23mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
-
----
-
 **[Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices](https://huggingface.co/papers/2509.02523)**
 
 *Evan King, Adam Sabra, Manjunath Kudlur et al. (5 authors)*
 
 Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
 
-▲ 14 • 💬 1 • ⭐ 5,661 • 5mo ago
+▲ 14 • 💬 1 • ⭐ 5,836 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
+
+---
+
+**[AutoDev: Automated AI-Driven Development](https://huggingface.co/papers/2403.08299)**
+
+*Michele Tufano, Anisha Agarwal, Jinu Jang et al. (5 authors)*
+
+AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
+
+▲ 8 • 💬 1 • ⭐ 8,434 • 23mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
 ---
 
@@ -537,21 +531,9 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 5 • 💬 0 • ⭐ 5,612 • 16mo ago
+▲ 5 • 💬 0 • ⭐ 5,801 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
-
----
-
-**[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
-
-*Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
-
-A preference-aligned routing framework using a compact 1.5B model effectively matches queries to user-defined domains and action types, outperforming proprietary models in subjective evaluation criteria.
-
-▲ 17 • 💬 2 • ⭐ 5,755 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2506.16655) • [💻 code](https://github.com/katanemo/archgw) • [🔗 project](https://huggingface.co/katanemo/Arch-Router-1.5B)
 
 ---
 
@@ -564,7 +546,7 @@ A preference-aligned routing framework using a compact 1.5B model effectively ma
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 147 • 💬 19 • ⭐ 54,314 • 11mo ago
+▲ 148 • 💬 19 • ⭐ 54,359 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -582,6 +564,18 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 ---
 
+**[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
+
+*Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
+
+A preference-aligned routing framework using a compact 1.5B model effectively matches queries to user-defined domains and action types, outperforming proprietary models in subjective evaluation criteria.
+
+▲ 17 • 💬 2 • ⭐ 5,768 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2506.16655) • [💻 code](https://github.com/katanemo/archgw) • [🔗 project](https://huggingface.co/katanemo/Arch-Router-1.5B)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -589,7 +583,7 @@ A large language model adapted for time-series forecasting achieves near-optimal
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 38 • 💬 1 • ⭐ 71,379 • 29mo ago
+▲ 38 • 💬 1 • ⭐ 71,419 • 29mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -629,7 +623,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 202 • 💬 12 • ⭐ 4,212 • 28d ago
+▲ 202 • 💬 12 • ⭐ 4,252 • 28d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -645,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.4k • 🔱 2.5k • 1h ago
+⭐ 20.5k • 🔱 2.6k • 15m ago
 
 ---
 
@@ -663,7 +657,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.7k • 🔱 695 • 1d ago
+⭐ 5.7k • 🔱 697 • 1d ago
 
 ---
 
@@ -673,7 +667,7 @@ PaperBanana: Automating Academic Illustration For AI Scientists
 
 `Python`
 
-⭐ 4.2k • 🔱 241 • 2d ago
+⭐ 4.3k • 🔱 241 • 2d ago
 
 ---
 
@@ -683,7 +677,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 360 • 8h ago
+⭐ 3.7k • 🔱 359 • 1h ago
 
 ---
 
@@ -693,17 +687,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.5k • 🔱 465 • 5h ago
-
----
-
-**[HBAI-Ltd/Toonflow-app](https://github.com/HBAI-Ltd/Toonflow-app)**
-
-Toonflow 是一款 AI 短剧漫剧工具，能够利用 AI 技术将小说自动转化为剧本，并结合 AI 生成的图片和视频，实现高效的短剧创作。借助 Toonflow，可以轻松完成从文字到影像的全流程，让短剧制作变得更加智能与便捷。
-
-`HTML`
-
-⭐ 3.1k • 🔱 382 • 12h ago
+⭐ 3.5k • 🔱 465 • 6m ago
 
 ---
 
@@ -713,7 +697,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 209 • 10h ago
+⭐ 2.9k • 🔱 210 • 14m ago
 
 ---
 
@@ -723,7 +707,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 309 • 7h ago
+⭐ 2.9k • 🔱 311 • 9h ago
 
 ---
 
@@ -733,7 +717,17 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 541 • 6h ago
+⭐ 2.8k • 🔱 543 • 8h ago
+
+---
+
+**[nullclaw/nullclaw](https://github.com/nullclaw/nullclaw)**
+
+Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
+
+`Zig` `ai` `assistant` `personal` `zig`
+
+⭐ 2.6k • 🔱 320 • 11m ago
 
 ---
 
