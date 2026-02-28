@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T21:22:02.288823+00:00'
+updated: '2026-02-28T21:43:33.880621+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
 - news
+- cryptocurrency
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 21:22 UTC  
+**Last Updated:** February 28, 2026 at 21:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,495.30
+### $66,581.49
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.2%  
-**7d:** -1.0%  
-**30d:** -20.5%  
-**90d:** -22.4%  
-**1y:** -22.2%  
+**24h:** +1.8%  
+**7d:** -1.2%  
+**30d:** -20.6%  
+**90d:** -22.5%  
+**1y:** -22.3%  
 
 ---
 
@@ -77,11 +77,11 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
-**[Do we anticipate BTC do dump even further on Monday?](https://www.reddit.com/r/Bitcoin/comments/1rh9eso/do_we_anticipate_btc_do_dump_even_further_on/)**
+**[Banks are going so hard on Bitcoin it's unbelievable. They know they missed on the first 20 million coins, they're ready to fight over the final million. HODL your bitcoin in your wallets, plebs. They're after your sats too.](https://www.reddit.com/r/Bitcoin/comments/1rhd4rz/banks_are_going_so_hard_on_bitcoin_its/)**
 
-Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
+Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-3h ago
+1h ago
 
 ---
 
@@ -89,7 +89,15 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
-2h ago
+3h ago
+
+---
+
+**[Do we anticipate BTC do dump even further on Monday?](https://www.reddit.com/r/Bitcoin/comments/1rh9eso/do_we_anticipate_btc_do_dump_even_further_on/)**
+
+Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
+
+3h ago
 
 ---
 
@@ -107,17 +115,17 @@ I have a pretty crazy story that happened to me last year lol. Back in 2022, I h
 
 ---
 
-**[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
-
-1d ago
-
----
-
 **[New to Bitcoin and genuinely curious , what made you believe in it long-term?](https://www.reddit.com/r/Bitcoin/comments/1rh1nhp/new_to_bitcoin_and_genuinely_curious_what_made/)**
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-8h ago
+9h ago
+
+---
+
+**[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
+
+1d ago
 
 ---
 
@@ -133,15 +141,7 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
 
-9h ago
-
----
-
-**[Uptime based mining rewards, not hashrate. First drawing is tomorrow, March 1st.](https://www.reddit.com/r/Bitcoin/comments/1rhap55/uptime_based_mining_rewards_not_hashrate_first/)**
-
-Tonight at midnight EST our drawing closes and today is the last day to earn points. We run a low difficulty Bitcoin mining pool called HMPool (HashedMax Unity Pool) and we run a rewards program that's a little different from what most pools do. Instead of rewarding on pure hashrate, points are based on "uptime" so an ESP32 mining at 1 MH/s earns fairly alongside a full Bitaxe or S19. Every 1,000 points = 1 lottery entry for BTC rewards or hardware giveaways. Tonight at midnight EST the stats and points reset and will start fresh for March, meaning today is your last shot to squeeze any remaining hours in for February's draw. Tomorrow we run our **first ever drawing**, which is kind of a big deal for us since we've been building toward this since launch. If you've been looking for a pool that doesn't punish small miners, we are worth checking out. Rewards overview: https://hmpool.io/rewards.html Happy mining, everyone.
-
-2h ago
+10h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 7h ago
 
 The drop extends a pattern where bitcoin sells off on geopolitical shocks before recovering, as the token's 24/7 liquidity makes it one of the few large assets traders can exit over the weekend.
 
-CoinDesk • 10h ago
+CoinDesk • 11h ago
 
 ---
 
@@ -221,7 +221,7 @@ Barron's • 1d ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-theblock.co • 23h ago
+theblock.co • 1d ago
 
 ---
 
@@ -255,7 +255,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 4 • 💬 0 • 11h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 4 • 💬 0 • 12h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -411,7 +411,7 @@ Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea wha
 
 📺 Edwards Economics
 
-👁️ 31K • 👍 1K • 💬 400 • ⏱️ 28:23 • 22h ago
+👁️ 31K • 👍 1K • 💬 400 • ⏱️ 28:23 • 23h ago
 
 ---
 

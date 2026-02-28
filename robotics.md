@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T21:22:02.298407+00:00'
+updated: '2026-02-28T21:43:33.890049+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 21:22 UTC  
+**Last Updated:** February 28, 2026 at 21:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-8h ago
+9h ago
 
 ---
 
@@ -58,13 +58,19 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-2h ago
+3h ago
 
 ---
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-21h ago
+22h ago
+
+---
+
+**[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
+
+6m ago
 
 ---
 
@@ -90,17 +96,11 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 ---
 
-**[Commission request: Custom InMoov i2Head build](https://www.reddit.com/r/robotics/comments/1rhbk2k/commission_request_custom_inmoov_i2head_build/)**
+**[Rubber Duck Debugging](https://www.reddit.com/r/robotics/comments/1rhdybq/rubber_duck_debugging/)**
 
-1h ago
+Been a hot minute from my last robotics project, I decided to visit the old school computer vision stuff - color detection. Had a little fun with this small robot arm that I got. While it's quite simple to do, it seemed to be common trick still in automation/manufacturing. Just liked the fact that I don't need to put the word "AI" up, pure old school stuff.
 
----
-
-**[I built a Hand-Controlled 3D Particle System (HoloMotion!) using AI for hand tracking!](https://www.reddit.com/r/robotics/comments/1rh0e66/i_built_a_handcontrolled_3d_particle_system/)**
-
-Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
-
-9h ago
+🔗 [youtu.be](https://youtu.be/Jq-79XXTvu4?si=P8xvnzrv4O5S--4p) • 40m ago
 
 ---
 
@@ -282,7 +282,7 @@ Audi has officially deployed humanoid robot hands in partnership with Mimic Robo
 
 📺 DPCcars
 
-👁️ 104 • 👍 14 • 💬 2 • ⏱️ 2:50 • 1h ago
+👁️ 104 • 👍 14 • 💬 2 • ⏱️ 2:50 • 2h ago
 
 ---
 

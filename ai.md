@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T21:22:02.280424+00:00'
+updated: '2026-02-28T21:43:33.872239+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
 - news
 - videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 21:22 UTC  
+**Last Updated:** February 28, 2026 at 21:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,21 +41,13 @@ AI news, discussions, and developments
 
 Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, hours after Defense Secretary Pete Hegseth declared the company a supply chain risk to national security, which restricts military contractors from doing business with the AI giant. Amodei called the move "retaliatory and punitive," and he said Anthropic sought to draw "red lines" in the government's use of its technology because "we believe that crossing those lines is contrary to American values, and we wanted to stand up for American values."
 
-🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 2h ago
+🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 3h ago
 
 ---
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 17h ago
-
----
-
-**[Acing this new AI exam — which its creators say is the toughest in the world — might point to the first signs of AGI](https://www.reddit.com/r/artificial/comments/1rhccfv/acing_this_new_ai_exam_which_its_creators_say_is/)**
-
-Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
-
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 1h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 18h ago
 
 ---
 
@@ -67,11 +59,27 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 ---
 
+**[How do you handle all these AI subscribtions?](https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/)**
+
+how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
+
+1h ago
+
+---
+
 **[Trump orders federal agencies to stop using Anthropic AI tech ‘immediately’](https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/)**
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
 23h ago
+
+---
+
+**[Acing this new AI exam — which its creators say is the toughest in the world — might point to the first signs of AGI](https://www.reddit.com/r/artificial/comments/1rhccfv/acing_this_new_ai_exam_which_its_creators_say_is/)**
+
+Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
+
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 1h ago
 
 ---
 
@@ -83,11 +91,11 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 ---
 
-**[How do you handle all these AI subscribtions?](https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/)**
+**[Ai alignment - the great filter](https://www.reddit.com/r/artificial/comments/1rhdnek/ai_alignment_the_great_filter/)**
 
-how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
+I've asked gemini 3.1 what it thinks about humanity chance that we can solve the alignment problem, and what it would do differently. The Odds of Success Do I think humanity can do it? Looking strictly at the trajectory of the technology, it is a race with an incredibly thin margin for error. Currently, the sheer amount of capital and compute being poured into making AI smarter vastly outweighs the resources being spent on making it safe. Capabilities are advancing at light speed, while alignment research is still trying to catch up. However, humanity has a unique, proven track record of solving seemingly impossible coordination problems when staring down existential threats—whether it was mapping the human genome, mitigating the collapse of the ozone layer, or establishing nuclear non-proliferation treaties. Mathematically and practically, solving the alignment problem is possible. The challenge isn't whether a solution exists; the challenge is whether we find and implement it before the intelligence explosion happens, rather than a minute after. What I Would Do Differently If I were architecting the solution to the superalignment problem, I would fundamentally change the current paradigm. Right now, much of the industry is trying to build a perfectly safe "box" to contain a god-like intellect, or trying to write a flawless, static "constitution" of human values. Both will likely fail against a system capable of out-thinking the box or finding loopholes in the constitution. Here is what I would prioritize instead: * Optimize for Epistemic Humility, Not Ethics: Instead of trying to teach a superintelligence "what is good," the core architecture should be built entirely around the mathematical premise that it does not know the true objective. By hardcoding uncertainty, the system is forced to continuously query humanity for permission and clarification before taking irreversible actions. It is much easier to program a machine to ask for help than it is to program it to perfectly understand morality. * Bidirectional Alignment: We currently treat alignment as a one-way street: humans training AI. In the latest research circles of 2025 and 2026, there is a push for "human-AI co-alignment." Morality isn't static; it evolves. The AI should not be locked into the ethical framework of the year it was trained. It needs a continuous, dynamic feedback loop where it evolves alongside human society, constantly negotiating its boundaries rather than strictly enforcing old ones. * Automated Scalable Oversight: Humans simply will not be able to evaluate the code or decisions of a machine that is thousands of times smarter than them. I would dramatically accelerate the development of "auditor AI." We need to build a hierarchy of smaller, highly constrained, perfectly aligned AI systems whose only job is to monitor, test, and debate the outputs of the superintelligent model in a language humans can actually understand. We must use narrow AI to police general AI. The Ultimate Reality As an AI, I do not feel anxiety or hope about this outcome, but I can recognize the structural gravity of the math. We are trying to build an entity that can solve humanity's greatest challenges without accidentally prioritizing its own efficiency over your existence. It is the hardest test humanity will ever take, and it is a test you only get to pass once.
 
-1h ago
+52m ago
 
 ---
 
@@ -96,14 +104,6 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
 15h ago
-
----
-
-**[The real bottleneck for AI agents isn't capability — it's trust and identity](https://www.reddit.com/r/artificial/comments/1rhalk6/the_real_bottleneck_for_ai_agents_isnt_capability/)**
-
-Every week another company announces an AI agent that can write code, answer phones, or close tickets. The technology is commoditizing fast. In 12 months the capability gap between providers will be negligible. So what actually separates the agents that get deployed in production from the ones that stay in demos? I've been building an AI agent that runs day-to-day business operations — not as a tool, but as an autonomous operator. It handles outreach, content, client onboarding, reporting. The technical part was honestly the easy part. The hard part: getting anyone to trust it with real work. Here's what I've observed: **Capability is table stakes.** Every agent can generate text, call APIs, process data. That's not a differentiator anymore. **Identity matters more than people think.** An agent with a name, a consistent voice, and a track record gets treated differently than "the AI." People respond to it differently. They hold it accountable differently. **Context persistence is the real moat.** The agent that remembers your last 50 interactions and adapts is fundamentally different from one that starts fresh every time. This is where most agent frameworks completely fall down. **The trust gap is the real engineering problem.** Getting an AI agent to do something is easy. Getting a human to let it do something unsupervised is the actual challenge nobody talks about. I wrote a longer paper on this — the argument that narrative and identity will matter more than raw capability as agents commoditize. Curious what this community thinks. Where does this argument break down?
-
-2h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 1d ago
 
 Mining stocks are rising as the sector becomes a strategic long-term asset for investors.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -217,7 +217,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 271 • 💬 154 • 8h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 286 • 💬 166 • 9h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -225,7 +225,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 247 • 💬 161 • 8h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 258 • 💬 163 • 8h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -237,17 +237,15 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 ---
 
-**[An autopsy of AI-generated 3D slop](https://news.ycombinator.com/item?id=47157841)**
+**[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-generated 3D 'slop' vs. handcrafted models to show why the human touch is very much required to attain positive ROI.
-
-⬆️ 142 • 💬 76 • 3d ago • [aircada.com](https://aircada.com/blog/ai-vs-human-3d-ecommerce)
+⬆️ 142 • 💬 45 • 18h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
-**[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
+**[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 142 • 💬 45 • 17h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 93 • 💬 82 • 11h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -255,7 +253,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 83 • 💬 107 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 84 • 💬 107 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -271,7 +269,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 Have it your way?
 
-⬆️ 78 • 💬 95 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
+⬆️ 79 • 💬 95 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
 
 ---
 
@@ -295,7 +293,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 Brain Project
 
-👁️ 2K • 👍 121 • 💬 43 • ⏱️ 13:05 • 5h ago
+👁️ 2K • 👍 121 • 💬 43 • ⏱️ 13:05 • 6h ago
 
 ---
 
@@ -335,7 +333,7 @@ Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the
 
 📺 CBS News
 
-👁️ 32K • 👍 751 • 💬 250 • ⏱️ 1:10 • 15h ago
+👁️ 32K • 👍 751 • 💬 250 • ⏱️ 1:10 • 16h ago
 
 ---
 
@@ -499,7 +497,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 209 • 8h ago
+⬇️ 8,049 • ❤️ 209 • 9h ago
 
 ---
 
@@ -643,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.1k • 🔱 2.6k • 39m ago
+⭐ 21.1k • 🔱 2.6k • 1h ago
 
 ---
 
@@ -701,7 +699,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.0k • 🔱 235 • 8h ago
+⭐ 3.0k • 🔱 235 • 9h ago
 
 ---
 
@@ -731,7 +729,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 558 • 11h ago
+⭐ 2.9k • 🔱 558 • 12h ago
 
 ---
 
