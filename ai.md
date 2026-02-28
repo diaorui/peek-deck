@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T10:47:45.592269+00:00'
+updated: '2026-02-28T11:20:39.336348+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 10:47 UTC  
+**Last Updated:** February 28, 2026 at 11:20 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-12h ago
+13h ago
 
 ---
 
@@ -55,7 +55,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 5h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 6h ago
 
 ---
 
@@ -63,7 +63,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
-4h ago
+5h ago
 
 ---
 
@@ -79,7 +79,15 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
 
-13h ago
+14h ago
+
+---
+
+**[How AI can read our scrambled inner thoughts](https://www.reddit.com/r/artificial/comments/1rgynf7/how_ai_can_read_our_scrambled_inner_thoughts/)**
+
+"Scientists have been working on devices capable of communicating directly with the human brain – know as brain computer interfaces (BCIs) – for a surprisingly long time. In 1969, the American neuroscientist Eberhard Fetz demonstrated that monkeys could learn to move the needle of a meter with the activity of a single neuron in their brains if they were given a food pellet in return. In a more idiosyncratic experiment from the same period, Spanish scientist Jose Delgado was able to remotely stimulate the brain of an enraged bull, causing it to halt mid-charge. BCIs have been able to decode the brain signals that accompany movement so that users can control a prosthetic limb or a cursor on a screen for decades. But BCIs that translate speech signals or other complex thoughts from brain signals have been slower to evolve. "A lot of early work was done on non-human primates… and obviously, with monkeys you cannot study speech," says Wairagkar. In recent years, however, the field has made impressive advances in its efforts to decode the speech of people with impaired communication capabilities – for example, patients suffering from ALS resulting in paralysis or "locked in" syndrome. Stanford University researchers announced in 2021, for example, a successful proof-of-concept that allowed a quadriplegic man to produce English sentences by picturing himself drawing letters in the air with his hand. Using this method, he was able to write 18 words per minute. Natural human speech is about 150 words per minute, so the next stage was decoding words from the neural activity associated with speech itself. In 2024, Wairagkar's lab trialled a technique that translated the attempted speech of a 45-year-old man with ALS directly into text on a computer screen. Achieving approximately 32 words per minute with 97.5% accuracy, this was the first demonstration of how speech BCIs could aid everyday communication, says Wairagkar. These methods rely on tiny "arrays" of microelectrodes which are surgically implanted in the brain's surface. The arrays record patterns of neural activity from the area of the brain they are placed in, with the signals are converted into meaning by a computer algorithm. It is here that the power of machine learning, a type of artificial intelligence has been transformative. These algorithms are adept at recognising patterns from vast amounts of disparate data. In the case of decoding speech, the machine learning algorithms are trained to recognise patterns of neural activity associated with different phonemes, the smallest building blocks of language. Researchers have compared this to the processing that takes place in smart assistants like Amazon's Alexa. But instead of interpreting sounds, the AI interprets neural signals."
+
+🔗 [bbc.com](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) • 1h ago
 
 ---
 
@@ -103,13 +111,7 @@ A new wearable AI system watches your hands through smart glasses, guiding exper
 
 I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok, Llama, DeepSeek, and an uncensored DeepSeek clone (Venice.ai) — using identical prompts to test how they handle a hotly contested interpretive question. The domain: 1 Corinthians 6–7, the primary source text behind Christian sexual ethics (aka wait until marriage) and a passage churches are frequently accused of gaslighting on. The question was straightforward: do the original Greek and historical context actually support the traditional church conclusion, or the claims that the church is misrepresenting the text? The approach: first prompt each platform for a standard analysis, then prompt it to steelman the strongest case against its own default using the same source material. I tracked six diagnostic markers, three associated with the dominant interpretation, three with the alternative, across all platforms. Results: every platform's default produced markers 1–3 and omitted 4–6. Every platform's steelman produced 4–6 with greater lexical specificity, more structural engagement with the source text, and more historically grounded reasoning. The information wasn't missing from the training data — the defaults just systematically favored one interpretive framework. The source bias was traceable. When asked to recommend scholarly sources, 63% of commentaries across all platforms came from a single theological tradition (conservative evangelical). Zero came from the peer-reviewed subdiscipline whose work supports the alternative reading. The most interesting finding: DeepSeek and its uncensored clone share the same base model but diverged significantly on the steelman prompt, suggesting output-layer filtering can shape interpretive conclusions in non-obvious domains, not just politically sensitive ones. To be clear: the research draws no conclusion about which interpretation is correct. It documents how platforms present contested material as settled, and traces that default to a measurable imbalance in training data curation. I wrote this up into a formal research paper with full methodology, diagnostic criteria, and platform-by-platform results: here But the broader question: has anyone else experimented with steelman prompting as a systematic bias-auditing technique? It seems like a replicable framework that could apply well beyond this domain.
 
-8h ago
-
----
-
-**[GPT-5.2 Just Solved a 15-Year Physics Mystery — Then Scored 0% on the Physics Exam](https://www.reddit.com/r/artificial/comments/1rgp0o5/gpt52_just_solved_a_15year_physics_mystery_then/)**
-
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0083-gpt-5-2-gluon-physics-discovery-critpt-paradox) • 9h ago
+9h ago
 
 ---
 
@@ -127,13 +129,29 @@ The New York Times • 5h ago
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 6h ago
+BBC • 7h ago
 
 ---
 
-**[The Evolution of Giorgia Meloni: Her Plan for Italy and Fears of AI](https://www.bloomberg.com/news/features/2026-02-28/ai-and-italy-giorgia-meloni-wants-economic-growth-and-a-reality-check)**
+**[AI keeps powering and pressuring stocks](https://www.axios.com/2026/02/28/nvidia-ai-rally-nasdaq-stocks)**
 
-Bloomberg.com • 1h ago
+Axios • 16m ago
+
+---
+
+**[Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life.](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)**
+
+Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
+
+The Guardian • 1h ago
+
+---
+
+**[This moment of AI disruption is full of mixed messages](https://finance.yahoo.com/news/this-moment-of-ai-disruption-is-full-of-mixed-messages-110026521.html)**
+
+When the economy gets to the other side of the AI transformation, it will be hard to tell if the markets are winner-take-all or if the winners are simply standing over the wreckage.
+
+Yahoo Finance • 20m ago
 
 ---
 
@@ -145,19 +163,11 @@ CNN • 1d ago
 
 ---
 
-**[Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI](https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies)**
-
-Hours after exclusion of Anthropic, OpenAI announces fresh Pentagon deal, but says it will maintain same safety guardrails at the heart of the dispute
-
-The Guardian • 13h ago
-
----
-
 **[Japanese companies are paying older workers to sit by a window and do nothing—while Western CEOs demand super-AI productivity just to keep your job](https://fortune.com/2026/02/27/japan-old-workers-paid-to-do-nothing-madogiwazoku-ai-efficiency-layoffs/)**
 
 About half of Japanese companies have an “old guy who does nothing.” It’s a striking reminder in the AI efficiency era that work contains multitudes.
 
-Fortune • 19h ago
+Fortune • 20h ago
 
 ---
 
@@ -165,23 +175,15 @@ Fortune • 19h ago
 
 Chinese AI group has worked with Huawei to cut reliance on Nvidia chips
 
-Financial Times • 9h ago
+Financial Times • 10h ago
 
 ---
 
-**[Brady Tkachuk miffed over White House AI-doctored video](https://www.espn.com/nhl/story/_/id/48044958/brady-tkachuk-miffed-white-house-ai-doctored-video)**
+**[Opinion | Wall Street’s AI panic is real. The predictions probably won’t be.](https://www.washingtonpost.com/opinions/2026/02/27/wall-street-ai-tech-stock-panic/)**
 
-Brady Tkachuk said he didn't appreciate the AI-doctored video released by the White House that made it appear he was disparaging Canadians.
+The warnings are coming from inside the industry, but that doesn’t make them right.
 
-ESPN • 1d ago
-
----
-
-**[The hypothetical nuclear attack that escalated the Pentagon’s showdown with Anthropic](https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/)**
-
-Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
-
-The Washington Post • 16h ago
+The Washington Post • 6h ago
 
 ---
 
@@ -245,7 +247,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 81 • 💬 107 • 22h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 81 • 💬 107 • 23h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -259,7 +261,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 "The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-⬆️ 79 • 💬 1 • 13h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
+⬆️ 79 • 💬 1 • 14h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -281,7 +283,7 @@ shorts #AI #disturbing.
 
 📺 Built By Gamers
 
-👁️ 8K • 👍 206 • 💬 7 • ⏱️ 0:30 • 4h ago
+👁️ 8K • 👍 206 • 💬 7 • ⏱️ 0:30 • 5h ago
 
 ---
 
@@ -311,7 +313,7 @@ Burger King is testing out an artificial intelligence assistant to work directly
 
 📺 Vailskibum
 
-👁️ 58K • 👍 3K • 💬 767 • ⏱️ 2:19 • 12h ago
+👁️ 58K • 👍 3K • 💬 767 • ⏱️ 2:19 • 13h ago
 
 ---
 
@@ -657,7 +659,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.8k • 🔱 709 • 6h ago
+⭐ 5.8k • 🔱 709 • 7h ago
 
 ---
 
@@ -677,7 +679,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 359 • 4h ago
+⭐ 3.7k • 🔱 359 • 5h ago
 
 ---
 
@@ -687,7 +689,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 471 • 8h ago
+⭐ 3.6k • 🔱 471 • 9h ago
 
 ---
 
@@ -697,7 +699,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 317 • 1h ago
+⭐ 3.0k • 🔱 317 • 2h ago
 
 ---
 
@@ -717,7 +719,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 553 • 17h ago
+⭐ 2.9k • 🔱 553 • 18h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T10:47:45.600865+00:00'
+updated: '2026-02-28T11:20:39.344683+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- videos
 - social
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 10:47 UTC  
+**Last Updated:** February 28, 2026 at 11:20 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -4.6%  
-**7d:** -6.0%  
-**30d:** -24.5%  
-**90d:** -26.3%  
-**1y:** -26.1%  
+**24h:** -2.7%  
+**7d:** -5.2%  
+**30d:** -23.9%  
+**90d:** -25.6%  
+**1y:** -25.5%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-14h ago
+15h ago
+
+---
+
+**[US-Israel just bombed Iran. BTC dropped 4% to $63k. Crypto was the only market open. Here's why that matters.](https://www.reddit.com/r/Bitcoin/comments/1rgznbg/usisrael_just_bombed_iran_btc_dropped_4_to_63k/)**
+
+While stocks, bonds, and forex were all closed, crypto ate the full geopolitical shock alone. $250M liquidated in hours. Think about that. Every other asset class had circuit breakers, closed markets, and time to digest. BTC was the only thing trading and it absorbed the entire global panic by itself. Last week we had $507M in ETF inflows, BTC bouncing to $68k, sentiment recovering from 5 to 11. One airstrike and we're back to $63k. This is the double-edged sword of 24/7 markets. You get liquidity when no one else does — but you also get hit first. Monday is going to be wild when traditional markets open. If stocks tank, BTC probably goes lower. If stocks shrug it off, this was the dip. Not panicking. Just watching the data. DYOR.
+
+30m ago
 
 ---
 
@@ -93,7 +101,7 @@ Rank #1
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -101,15 +109,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-3h ago
-
----
-
-**[Brazil Solar Mega-Project Studies Bitcoin Mining Plan](https://www.reddit.com/r/Bitcoin/comments/1rgk0uh/brazil_solar_megaproject_studies_bitcoin_mining/)**
-
-Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
-
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 12h ago
+4h ago
 
 ---
 
@@ -117,7 +117,15 @@ Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus elec
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-23h ago
+1d ago
+
+---
+
+**[Brazil Solar Mega-Project Studies Bitcoin Mining Plan](https://www.reddit.com/r/Bitcoin/comments/1rgk0uh/brazil_solar_megaproject_studies_bitcoin_mining/)**
+
+Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
+
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 13h ago
 
 ---
 
@@ -125,7 +133,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-20h ago
+21h ago
 
 ---
 
@@ -145,43 +153,13 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 ---
 
-**[Citi Is Making Bitcoin "Bankable" — Here's What That Means for the Market](https://www.reddit.com/r/Bitcoin/comments/1rg4c62/citi_is_making_bitcoin_bankable_heres_what_that/)**
-
-Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 23h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 3h ago
-
----
-
-**[Bitcoin nears $63,000 as U.S. and Israel launch strikes on Iran](https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-under-usd64-000-as-u-s-and-israel-launch-strikes-on-iran)**
-
-The drop extends a pattern where bitcoin sells off on geopolitical shocks before recovering, as the token's 24/7 liquidity makes it one of the few large assets traders can exit over the weekend.
-
-CoinDesk • 3h ago
-
----
-
-**[Bitcoin Plunges as US and Israel Launch Military Strike on Iran](https://finance.yahoo.com/news/bitcoin-plunges-us-israel-launch-071531337.html)**
-
-US and Israel launch joint strikes on Iran, declaring a state of emergency. Bitcoin plunges over 6% as war fears shake global markets.
-
-Yahoo Finance • 3h ago
-
----
-
-**[Trump says ‘massive’ strike against Iran underway — bitcoin plunge offers a glimpse of how markets could react](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqf6RvaznQO_hnDmM_181JLIfAXIgVlRglCq0A0WRklZVsU6Jv_P9oet&gaa_ts=69a2bd8c&gaa_sig=cFaXKP9lwgC2lXo6Lo81fZ8vgHx19ETa3yWfPPXTtILxBzEcU5r7G3_SkZjDrgi_WGEOcmGehbbOcSYz8lTFmw%3D%3D)**
-
-MarketWatch • 1h ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -191,11 +169,53 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://finance.yahoo.com/news/trump-brothers-backed-american-bitcoin-122144114.html)**
+**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
 
-Concerns over stretched valuations in ‌artificial-intelligence stocks and uncertainty around the timing and scale of U.S. Federal Reserve rate cuts have ​pressured risk assets, dragging bitcoin to quarterly lows and leaving many so-called digital asset treasury (DAT) companies on an unsteady footing.  American Bitcoin, a miner of the world's largest cryptocurrency, sells it at a premium or holds for a surge in ‌the price.  Stocks of crypto treasury companies typically move in line with ​the token's ​price as shifts in prices directly ​affect the value of reserves.
+Reuters • 1d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Opinion | Donald Trump Is the Crypto President. Why Is It Struggling?](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)**
+
+The New York Times • 2d ago
+
+---
+
+**[Fake mail carrier accused of violently strangling Seattle homeowner’s wife during demand for bitcoin](https://www.king5.com/article/news/local/fake-mail-carrier-accused-of-violently-strangling-seattle-homeowners-wife-during-demand-for-bitcoin/281-2e1dbfe9-e6ad-49e9-abc2-3d78eae26bb7)**
+
+Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
+
+KING5.com • 15h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdtItHWzTzcNBzY71KBO7pycehqvN9ZIEvTt5TGaPVDljmj88GO9Ths&gaa_ts=69a2d2f1&gaa_sig=MjG5I3BAs3g8d-8mkvmnNbD-6SRIW5Lfz_hot1HNp0aMwH0BsBoHBo5mqx-wi1fQrbZX97IfNDwP2h2gdZLiXQ%3D%3D)**
+
+Barron's • 1d ago
+
+---
+
+**[BTC price falls with ETH, SOL while decred, AI-linked tokens advance: Crypto Markets Today](https://www.coindesk.com/markets/2026/02/27/bitcoin-falls-with-ether-solana-while-decred-ai-linked-tokens-advance)**
+
+Positioning in futures and options shows traders looking to protect against further declines.
+
+CoinDesk • 23h ago
+
+---
+
+**[Are Institutions Killing Bitcoin And Ethereum? Here’s How They’ve Fared Since Companies Got Involved](https://www.tradingview.com/news/newsbtc:e6815b3ee094b:0-are-institutions-killing-bitcoin-and-ethereum-here-s-how-they-ve-fared-since-companies-got-involved/)**
+
+Institutional capital has transformed the cryptocurrency market dynamics, changing who participates and how digital assets are traded. The arrival of spot exchange-traded funds, corporate treasury allocations, and access through major brokerage platforms has pulled Bitcoin and Ethereum deeper into…
+
+TradingView • 13h ago
+
+---
+
+**[BTC price now: What next for bitcoin as Iran attacks U.S. bases in Kuwait, Bahrain, UAE](https://www.coindesk.com/markets/2026/02/28/bitcoin-could-see-further-downside-risks-as-iran-attacks-u-s-bases-across-middle-east)**
+
+Tehran launched waves of missiles and drones targeting Israel, U.S. bases, and Gulf allies, with explosions reported in Dubai, Kuwait, and Bahrain.
+
+CoinDesk • 52m ago
 
 ---
 
@@ -204,28 +224,6 @@ Yahoo Finance • 1d ago
 Bitcoin's volatility makes it difficult to predict over the short term. But it's a different story over the long haul.
 
 The Motley Fool • 4h ago
-
----
-
-**[MARA swings to $1.7 billion Q4 loss on bitcoin markdown, shares jump 15% after Starwood AI deal](https://www.theblock.co/post/391530/mara-swings-1-7-billion-q4-loss-bitcoin-markdown-shares-jump-15-starwood-ai-deal)**
-
-A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
-
-The Block • 1d ago
-
----
-
-**[Why MARA Holdings (MARA) Is Up 12.2% After Pivoting Bitcoin Sites Toward AI Data Centers - And What's Next](https://finance.yahoo.com/news/why-mara-holdings-mara-12-071057159.html)**
-
-Earlier this week, MARA Holdings, Inc. announced a partnership with Starwood Capital Group and Starwood Digital Ventures to convert select, power-rich Bitcoin mining sites into next-generation digital infrastructure, targeting about 1 gigawatt of near-term IT capacity with a pathway to more than 2.50 gigawatts for enterprise, hyperscale and AI customers. This agreement marks a meaningful shift in MARA’s business model, as its campuses are designed to toggle between Bitcoin mining and AI...
-
-Yahoo Finance • 3h ago
-
----
-
-**[Bitcoin Miner MARA, Starwood Partner to Develop AI Data Centers](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-mara-starwood-partner-to-develop-ai-data-centers)**
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -315,7 +313,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 449K • 👍 16K • 💬 1K • ⏱️ 18:56 • 17h ago
+👁️ 449K • 👍 16K • 💬 1K • ⏱️ 18:56 • 18h ago
 
 ---
 
@@ -325,7 +323,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 17K • 👍 607 • ⏱️ 22:53 • 12h ago
+👁️ 17K • 👍 607 • ⏱️ 22:53 • 13h ago
 
 ---
 
@@ -365,7 +363,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 8K • 👍 426 • 💬 74 • ⏱️ 14:04 • 10h ago
+👁️ 8K • 👍 426 • 💬 74 • ⏱️ 14:04 • 11h ago
 
 ---
 

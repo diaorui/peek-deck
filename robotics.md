@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T10:47:45.610026+00:00'
+updated: '2026-02-28T11:20:39.353837+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 10:47 UTC  
+**Last Updated:** February 28, 2026 at 11:20 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,13 +42,7 @@ Robotics research and industry news
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-17h ago
-
----
-
-**[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
-
-8h ago
+18h ago
 
 ---
 
@@ -56,7 +50,13 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-4h ago
+5h ago
+
+---
+
+**[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
+
+8h ago
 
 ---
 
@@ -74,19 +74,19 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 ---
 
+**[BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON"](https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/)**
+
+BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
+
+1m ago
+
+---
+
 **[Isaac Sim || Autonomous Fixed-Wing Flight Mechanics with ArduPilot](https://www.reddit.com/r/robotics/comments/1rge99q/isaac_sim_autonomous_fixedwing_flight_mechanics/)**
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-16h ago
-
----
-
-**[Change My Mind: All these Unitree videos are just stuff BD was doing a decade ago, but with multiple robots at once](https://www.reddit.com/r/robotics/comments/1rgdvbl/change_my_mind_all_these_unitree_videos_are_just/)**
-
-Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
-
-16h ago
+17h ago
 
 ---
 
@@ -94,15 +94,15 @@ Seriously, I'm tired of all the choreography. Every new Unitree video looks like
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 5h ago
+🔗 [BMW Group PressClub](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en) • 6h ago
 
 ---
 
-**[I wish there should be PARA ROBO OLYMPICS for disabled and who are ‘Integrates’ with robo](https://www.reddit.com/r/robotics/comments/1rgsyv9/i_wish_there_should_be_para_robo_olympics_for/)**
+**[Change My Mind: All these Unitree videos are just stuff BD was doing a decade ago, but with multiple robots at once](https://www.reddit.com/r/robotics/comments/1rgdvbl/change_my_mind_all_these_unitree_videos_are_just/)**
 
-Japan is helping people to stand up in life which are disabled I wish there can be sports events to get there sprit up and also even its small medal but it can be achievments of there confidence and live there societal ease Wishing for a good luck to us
+Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-6h ago
+17h ago
 
 ---
 
@@ -114,13 +114,15 @@ Japan is helping people to stand up in life which are disabled I wish there can 
 
 AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
 
-Los Angeles Times • 2d ago
+Los Angeles Times • 3d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdjkpx30uw0jvFLLOkZwNAOExVHcBvY0929JrrypuoU6-eUBvaS1Kpv&gaa_ts=69a2bd8f&gaa_sig=Uzb5ZzQOk5VoS24eGbATgOY_tOpxupkmDOtHKnvfaavzWu8uVDlhBhPxJvedIP_Au27eAjZMG2Eu9lCHgwFcEA%3D%3D)**
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
 
-WSJ • 12h ago
+Coco Robotics launched a new generation of delivery bots
+
+Los Angeles Times • 20m ago
 
 ---
 
@@ -130,11 +132,23 @@ Tech Xplore • 19h ago
 
 ---
 
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeeJL9EVBzYCo5OvaByNeUTBfMmDgMQ3TGuA7sUq7tXhMt07HnhBYaF&gaa_ts=69a2d2f4&gaa_sig=MYb9zYt1-NVtVPEzTZI5SqcWuwtidpqG8zTX8pTG8iiTxJuv5REWgL43_9_GzPYfjcafykn1XNHjR2a5fICgmA%3D%3D)**
+
+WSJ • 13h ago
+
+---
+
 **[BMW intensifies humanoid robot push with test project in Germany after U.S. success](https://www.autonews.com/bmw/ane-bmw-humanoid-robot-leipzig-germany-0227/)**
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 20h ago
+Automotive News • 21h ago
+
+---
+
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
+
+Bloomberg.com • 1d ago
 
 ---
 
@@ -143,20 +157,6 @@ Automotive News • 20h ago
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
 Financial Times • 1d ago
-
----
-
-**[Novi Public Schools cuts ribbon on new 24,000-square-foot robotics center funded by 2019 bond](https://www.wxyz.com/news/region/oakland-county/novi-public-schools-cuts-ribbon-on-new-24-000-square-foot-robotics-center-funded-by-2019-bond)**
-
-Novi's new robotics hub gives students a dedicated space to build, test and compete, and district leaders say more STEM expansion is on the way.
-
-WXYZ Channel 7 • 1d ago
-
----
-
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
-
-Bloomberg.com • 1d ago
 
 ---
 
@@ -212,7 +212,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 5K • 👍 237 • 💬 5 • ⏱️ 0:35 • 10h ago
+👁️ 5K • 👍 237 • 💬 5 • ⏱️ 0:35 • 11h ago
 
 ---
 
