@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T03:59:56.133887+00:00'
+updated: '2026-02-28T04:59:26.933126+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
 - cryptocurrency
 - social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 03:59 UTC  
+**Last Updated:** February 28, 2026 at 04:59 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,967.33
+### $65,700.49
 
 ---
 
@@ -79,13 +79,13 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-7h ago
+8h ago
 
 ---
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -93,7 +93,7 @@ Rank #1
 
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +101,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 A friend who has always been against Bitcoin asked me how to buy it. I feel that a good market is coming
 
-14h ago
+15h ago
 
 ---
 
@@ -109,7 +109,7 @@ A friend who has always been against Bitcoin asked me how to buy it. I feel that
 
 Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
 
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 6h ago
+🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 7h ago
 
 ---
 
@@ -125,7 +125,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-9h ago
+10h ago
 
 ---
 
@@ -133,7 +133,7 @@ If you know Bitcoin's true power and other people doubt it, it gives you long te
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 16h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 17h ago
 
 ---
 
@@ -147,7 +147,7 @@ See you in 10 years.
 
 **[Turning Cans Into Sats](https://www.reddit.com/r/Bitcoin/comments/1rgdnzn/turning_cans_into_sats/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -179,7 +179,7 @@ The New York Times • 1d ago
 
 Blockstream CEO Adam Back told CNBC that Bitcoin (CRYPTO: BTC) lacks downside support because retail investors are “all in” with no cash left to buy dips, explaining the 25% year-to-date decline. The ‘All In’ Problem Back on Monday explained that...
 
-Yahoo Finance • 17h ago
+Yahoo Finance • 18h ago
 
 ---
 
@@ -195,13 +195,13 @@ Bloomberg.com • 2d ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-The Block • 6h ago
+The Block • 7h ago
 
 ---
 
 **[MARA Holdings Stock Surges. The Bitcoin Miner Is Moving Into AI.](https://www.barrons.com/articles/mara-holdings-earnings-stock-price-ai-e07c9341?gaa_at=eafs&gaa_n=AWEtsqcp7YlpqZWH_NsIe6ptiCmiDc753GDBjiKtkjSZkG33KalsZtmhxYhc&gaa_ts=69a26ba0&gaa_sig=yNpoaD2Vsw4-9hIre0G2lZPBbwI8XwgKTJqoM87tXQj_Nx9uKFr53Ke0BEw8npV4Dc-BXRQopK2azP8je-3L0A%3D%3D)**
 
-Barron's • 13h ago
+Barron's • 14h ago
 
 ---
 
@@ -223,7 +223,7 @@ Bloomberg.com • 1d ago
 
 The Wall Street giants are accelerating digital asset strategies, with Citi focusing on regulated Bitcoin custody and cross-margining infrastructure and Morgan Stanley pushing spot crypto access and on-platform services.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -323,7 +323,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 508 • ⏱️ 22:53 • 5h ago
+👁️ 12K • 👍 508 • ⏱️ 22:53 • 6h ago
 
 ---
 
@@ -353,7 +353,7 @@ Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 655 • 💬 174 • ⏱️ 25:02 • 13h ago
+👁️ 12K • 👍 655 • 💬 174 • ⏱️ 25:02 • 14h ago
 
 ---
 
@@ -391,7 +391,7 @@ Iran, Bitcoin, stocks, and billions coming to crypto! BITUNIX TRADE THE TOP COIN
 
 📺 Lark Davis
 
-👁️ 16K • 👍 837 • 💬 47 • ⏱️ 16:32 • 16h ago
+👁️ 16K • 👍 837 • 💬 47 • ⏱️ 16:32 • 17h ago
 
 ---
 
@@ -401,7 +401,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 73 • 💬 1 • ⏱️ 0:48 • 2h ago
+👁️ 2K • 👍 73 • 💬 1 • ⏱️ 0:48 • 3h ago
 
 ---
 

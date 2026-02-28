@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T03:59:56.143308+00:00'
+updated: '2026-02-28T04:59:26.942352+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- videos
 - social
+- videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 03:59 UTC  
+**Last Updated:** February 28, 2026 at 04:59 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
 
-10h ago
+11h ago
 
 ---
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,13 +50,13 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-13h ago
+14h ago
 
 ---
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -64,13 +64,13 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulation. The system features multiple operational modes, including autonomous flight via ArduPilot, manual flight with user-applied forces, and physics and frame debugging modes for comprehensive pre-flight testing. What do you think? Github
 
-9h ago
+10h ago
 
 ---
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -78,13 +78,13 @@ Implementation of flight mechanics in Isaac Sim for a fixed-wing plane simulatio
 
 Seriously, I'm tired of all the choreography. Every new Unitree video looks like it was made by Janet Jackson. https://i.redd.it/y7pmlyt8t2mg1.gif
 
-10h ago
+11h ago
 
 ---
 
 **[ros-skill: Give AI agents the ability to control ROS/ROS2 robots](https://www.reddit.com/r/robotics/comments/1rgrc71/rosskill_give_ai_agents_the_ability_to_control/)**
 
-57m ago
+1h ago
 
 ---
 
@@ -100,7 +100,7 @@ Filmed at Automatica 2025 in Munich, Germany. This demo shows a dual-robotic sys
 
 Maybe someone has used the RoboBaton-mini? It looks very similar to the Intel RealSense T265, and I think it could be a good alternative. But the issue is that I haven't used this product myself, so I'd like to consult those who have. Any constructive advice would be greatly appreciated. The following picture shows the specifications of the mini(https://myrobotproject.com/product/mini/) https://preview.redd.it/pgcigkyja5mg1.png?width=424&format=png&auto=webp&s=49016e60d422ee8103d3f117992a35e87b6144a7
 
-1h ago
+2h ago
 
 ---
 
@@ -134,7 +134,7 @@ The Verge • 1d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqcvJKPI_e68zAKgNzGgg3dxYosDDcDkyjQZ0C1X-1_IzYg0vbOdPVKA&gaa_ts=69a26ba6&gaa_sig=jadeKGrn8vd6n_OSkP29Zh8SKzsdgUa7c-CXDFhRcdyBEjODLwAmEIqJGlu9inTKn_TVX71QKmUwvmES4B04Ew%3D%3D)**
 
-WSJ • 6h ago
+WSJ • 7h ago
 
 ---
 
@@ -142,19 +142,19 @@ WSJ • 6h ago
 
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 18h ago
+Financial Times • 19h ago
 
 ---
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 12h ago
+Tech Xplore • 13h ago
 
 ---
 
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 5h ago
+MSN • 6h ago
 
 ---
 
@@ -162,7 +162,7 @@ MSN • 5h ago
 
 BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Automotive News • 13h ago
+Automotive News • 14h ago
 
 ---
 
@@ -176,7 +176,7 @@ Bloomberg.com • 1d ago
 
 Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
 
-South China Morning Post • 21h ago
+South China Morning Post • 22h ago
 
 ---
 
@@ -250,7 +250,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 1K • 💬 2 • ⏱️ 0:35 • 3h ago
+👁️ 1K • 💬 2 • ⏱️ 0:35 • 4h ago
 
 ---
 
@@ -280,7 +280,7 @@ Arduino Based Projects #arduinoprojects #arduinouno #robotics #robot #light #sta
 
 📺 EAZYTRONIC
 
-👁️ 28K • 👍 106 • ⏱️ 0:09 • 15h ago
+👁️ 28K • 👍 106 • ⏱️ 0:09 • 16h ago
 
 ---
 
