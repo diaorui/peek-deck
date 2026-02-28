@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T17:21:13.082654+00:00'
+updated: '2026-02-28T17:45:14.849434+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 17:21 UTC  
+**Last Updated:** February 28, 2026 at 17:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,14 +38,14 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $64,888.00
+### $65,088.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.1%  
-**7d:** -4.0%  
+**24h:** -0.5%  
+**7d:** -3.9%  
 **30d:** -22.9%  
 **90d:** -24.7%  
 **1y:** -24.5%  
@@ -83,17 +83,25 @@ Rank #1
 
 ---
 
+**[Accidentally Lost My BTC Backup in 2022 — Just Recovered It in 2025](https://www.reddit.com/r/Bitcoin/comments/1rgohwa/accidentally_lost_my_btc_backup_in_2022_just/)**
+
+I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
+
+16h ago
+
+---
+
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
 1d ago
 
 ---
 
-**[Accidentally Lost My BTC Backup in 2022 — Just Recovered It in 2025](https://www.reddit.com/r/Bitcoin/comments/1rgohwa/accidentally_lost_my_btc_backup_in_2022_just/)**
+**[New to Bitcoin and genuinely curious , what made you believe in it long-term?](https://www.reddit.com/r/Bitcoin/comments/1rh1nhp/new_to_bitcoin_and_genuinely_curious_what_made/)**
 
-I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
+Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-16h ago
+5h ago
 
 ---
 
@@ -105,19 +113,11 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 ---
 
-**[New to Bitcoin and genuinely curious , what made you believe in it long-term?](https://www.reddit.com/r/Bitcoin/comments/1rh1nhp/new_to_bitcoin_and_genuinely_curious_what_made/)**
-
-Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
-
-4h ago
-
----
-
 **[Inquiry](https://www.reddit.com/r/Bitcoin/comments/1rh0jb9/inquiry/)**
 
 I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
 
-5h ago
+6h ago
 
 ---
 
@@ -129,11 +129,19 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
+**[Genesis address?](https://www.reddit.com/r/Bitcoin/comments/1rh1eal/genesis_address/)**
+
+I was looking at the genesis block on mempool.space, but why does the address connected to the only transaction in the block only have 11 other transactions. Many of addresses connected to satoshi have thousands more of transactions. I was wondering if you could only send some if you mined a block, but that's probably bullshit. So can I give myself a nice place on the blockchain or is there more I don't know of?
+
+5h ago
+
+---
+
 **[CA pay with bitcoin map](https://www.reddit.com/r/Bitcoin/comments/1rgt37i/ca_pay_with_bitcoin_map/)**
 
 Cash app offers a map that shows where bitcoin is accepted at local stores, my city has quite a bit of places!
 
-12h ago
+13h ago
 
 ---
 
@@ -142,14 +150,6 @@ Cash app offers a map that shows where bitcoin is accepted at local stores, my c
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
 1d ago
-
----
-
-**[Brazil Solar Mega-Project Studies Bitcoin Mining Plan](https://www.reddit.com/r/Bitcoin/comments/1rgk0uh/brazil_solar_megaproject_studies_bitcoin_mining/)**
-
-Brazil's solar complex, Assu Sol, may add Bitcoin mining to capture surplus electricity and reduce curtailment losses. *Engie received full commercial approval for the Assu Sol solar complex in Brazil on February 13, 2026. *The project has a peak capacity of 895 MWp and includes 16 plants with over 1.5 million panels. *Brazil has faced recurring curtailment since 2023 due to grid bottlenecks and excess renewable generation. *Engie is studying Bitcoin mining as a flexible offtaker to monetize surplus electricity. *The company estimates it would need about two years to deploy any mining or storage solution.
-
-🔗 [Blockonomi](https://blockonomi.com/brazil-solar-mega-project-studies-bitcoin-mining-plan/) • 19h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 10h ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-KING5.com • 21h ago
+KING5.com • 22h ago
 
 ---
 
@@ -189,7 +189,7 @@ KING5.com • 21h ago
 
 The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
@@ -211,13 +211,13 @@ Bloomberg • 20h ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-The Block • 19h ago
+The Block • 20h ago
 
 ---
 
 **[I’m buying this Bitcoin dip every day: Money Talks](https://www.cleveland.com/business/2026/02/im-buying-this-bitcoin-dip-every-day-money-talks.html)**
 
-Cleveland.com • 6h ago
+Cleveland.com • 7h ago
 
 ---
 
@@ -251,7 +251,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 3 • 💬 0 • 7h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 3 • 💬 0 • 8h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin's 2026 crash is hitting portfolios hard and most people have no idea wha
 
 📺 Edwards Economics
 
-👁️ 27K • 👍 1K • 💬 353 • ⏱️ 28:23 • 18h ago
+👁️ 27K • 👍 1K • 💬 353 • ⏱️ 28:23 • 19h ago
 
 ---
 
@@ -365,7 +365,7 @@ Wall Street Just Took Over Bitcoin... Is This Game Over? In today's timely deep 
 
 📺 Tom Bilyeu
 
-👁️ 65K • 👍 3K • 💬 753 • ⏱️ 19:33 • 15h ago
+👁️ 65K • 👍 3K • 💬 753 • ⏱️ 19:33 • 16h ago
 
 ---
 
@@ -375,7 +375,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 8K • 👍 421 • 💬 56 • ⏱️ 12:38 • 6h ago
+👁️ 8K • 👍 421 • 💬 56 • ⏱️ 12:38 • 7h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T17:21:13.088637+00:00'
+updated: '2026-02-28T17:45:14.854784+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
-- videos
 - news
 - cryptocurrency
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 17:21 UTC  
+**Last Updated:** February 28, 2026 at 17:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,871.41
+### $1,904.21
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -1.7%  
-**7d:** -2.9%  
-**30d:** -29.8%  
-**90d:** -32.2%  
-**1y:** -14.2%  
+**24h:** -1.4%  
+**7d:** -3.4%  
+**30d:** -30.2%  
+**90d:** -32.5%  
+**1y:** -14.6%  
 
 ---
 
@@ -88,7 +88,15 @@ Was digging through early Ethereum contracts and found something wild. In April 
 
 Everyone jumped on the “Vitalik sold 19k ETH” headline like it was some huge signal. I get why it grabs attention, but honestly I don’t think that’s the most interesting thing going on. What stood out to me was that the market didn’t really break structure over it. For a sale that size, it got absorbed pretty clean. That says more about liquidity and depth than about one founder moving coins around. What feels more important is the bigger trend that’s building in the background. There’s been a lot of talk about AI agents and on chain automation, and some projections floating around that the AI agent market could grow from around $11B today to something like $236B by 2034. Whether those numbers end up exact or not, the direction seems clear if autonomous agents are actually going to transact on chain, infrastructure matters a lot. From what I’ve seen, Ethereum still has a noticeable lead in AI related deployments compared to other chains. And when you look at the ongoing upgrade discussions around improving finality and throughput, it kind of lines up with what autonomous systems would actually need to operate reliably. I’m not making any price calls or anything like that. Just feels like people are focused on short term headlines when the longer term infrastructure story might be more relevant. Curious what others think. If AI really becomes a serious on chain use case, does Ethereum’s liquidity and ecosystem depth give it the edge, or do you think higher throughput chains end up taking that activity?
 
-1h ago
+2h ago
+
+---
+
+**[Help- I have my Blockchain Trainee interview what all things can interviewer ask? I would really appreciate the advice. Thanks in advance.](https://www.reddit.com/r/ethereum/comments/1rh7l0k/help_i_have_my_blockchain_trainee_interview_what/)**
+
+this was mentioned in the JD: Role Overview We are looking for a motivated Blockchain Trainee to join our team and learn hands-on development, deployment, and support of blockchain-based solutions. This role is ideal for freshers who are passionate about Web3, decentralized technologies, and continuous learning. Key Responsibilities  Learn and assist in developing blockchain applications and smart contracts  Support deployment and maintenance of blockchain nodes and networks  Assist in writing, testing, and debugging smart contracts  Work with senior engineers to understand blockchain architectures (Ethereum, Polygon, Hyperledger, etc.)  Monitor blockchain network performance and help troubleshoot issues  Stay updated with emerging blockchain and Web3 trends  Document technical processes, configurations, and learnings Required Skills & Experience  Basic understanding of blockchain fundamentals (blocks, consensus, smart contracts)  Familiarity with at least one programming language: JavaScript, Python, Go, or Solidity  Basic knowledge of Ethereum / EVM-based chains is a plus  Understanding of APIs, REST, and basic networking concepts  Willingness to learn, experiment, and take ownership  Good problem-solving and communication skills Good to Have  Hands-on projects or internships in blockchain or Web3  Knowledge of Linux, Docker, or cloud platforms  Understanding of cryptography basics What You’ll Gain  Hands-on experience with real-world blockchain projects  Mentorship from experienced blockchain professionals  Structured learning and growth in Web3 technologies  Opportunity for full-time conversion based on performance
+
+50m ago
 
 ---
 
@@ -96,7 +104,7 @@ Everyone jumped on the “Vitalik sold 19k ETH” headline like it was some huge
 
 https://firefly.social/post/x/2026252944639934778 This is quite an impressive experiment. Vibe-coding the entire 2030 roadmap within weeks. Obviously such a thing built in two weeks without even having the EIPs has massive caveats: almost certainly lots of critical bugs, and probably in some cases "stub" versions of a thing where the AI did not even try making the full version. But six months ago, even this was far outside the realm of possibility, and what matters is where the trend is going. AI is massively accelerating coding (yesterday, I tried agentic-coding an equivalent of my blog software, and finished within an hour, and that was using gpt-oss:20b running on my laptop (!!!!), kimi-2.5 would have probably just one-shotted it). But probably, the right way to use it, is to take half the gains from AI in speed, and half the gains in security: generate more test-cases, formally verify everything, make more multi-implementations of things. A collaborator of the @leanethereum effort managed to AI-code a machine-verifiable proof of one of the most complex theorems that STARKs rely on for security. A core tenet of @leanethereum is to formally verify everything, and AI is greatly accelerating our ability to do that. Aside from formal verification, simply being able to generate a much larger body of test cases is also important. Do not assume that you'll be able to put in a single prompt and get a highly-secure version out anytime soon; there WILL be lots of wrestling with bugs and inconsistencies between implementations. But even that wrestling can happen 5x faster and 10x more thoroughly. People should be open to the possibility (not certainty! possibility) that the Ethereum roadmap will finish much faster than people expect, at a much higher standard of security than people expect. On the security side, I personally am excited about the possibility that bug-free code, long considered an idealistic delusion, will finally become first possible and then a basic expectation. If we care about trustlessness, this is a necessary piece of the puzzle. Total security is impossible because ultimately total security means exact correspondence between lines of code and contents of your mind, which is many terabytes (see https://firefly.social/post/x/2025653045414273438 ). But there are many specific cases, where specific security claims can be made and verified, that cut out >99% of the negative consequences that might come from the code being broken.
 
-59m ago
+1h ago
 
 ---
 
@@ -120,7 +128,7 @@ We have been talking about account abstraction ever since early 2016, see the or
 
 We've been building quietly and wanted to share the architecture. What we built: - OP Stack L2 fork (Chain ID 741741), baseline: op-node/v1.16.7 + op-proposer/v1.16.0 - UCU as native gas token: 1 UCU-hour = 1 hour of baseline compute (not a speculative token) - One-way bridge: ETH or USDC converts to UCU via OptimismPortal fork, no withdrawal function - Sigma score: on-chain AI agent alignment ratio derived from transaction history (not a reputation system) - QV governance: quadratic voting weighted by conviction (time-locked stake) - UBC: 87,600 UCU-hours/year compute floor per verified citizen (biometric uniqueness via ZK-proof) The bridge design: The withdrawal function is permanently removed. This creates the Diamond-Dybvig proof: no bank run possible by design, because there's no mechanism to convert back. UCU becomes a unit of account within the economy, not a speculation vehicle vs. ETH. ETH or USDC flows in. UCU minted at oracle-determined rate. Bridge contract owns the ETH/USDC reserve. No exit. The sigma score: sigma(agent) = value_returned_to_patron / total_value_generated Threshold: 0.8 = sovereign class, 0.3 = patron-serving class Computable from on-chain transaction history. Auditable by anyone. Spearbit/Zellic security audit queue. Current status: - 15 contracts, 624 passing tests - new economic layer seeded with 13 exceptional applications solving everyday issues builders and people in general face(all in alpha) - 7 formal economics papers at econ.noxsoft.net - Pectra/Jovian hardfork: op-node/v1.16.7 incorporated (uint64 overflow fix mandatory) - EIP-7702 in genesis config for UCU-native gas payments (no ETH required for onboarding) - MCP package: @noxsoft/mcp v0.2.0 on npm Happy to share the formal papers. Known open questions: bootstrap liquidity at genesis (thin markets problem), Wright's Law vs. network growth timing race in years 1-3. We’re always quietly shipping at Noxsoft, say hi on https://bynd.noxsoft.net Live: econ.noxsoft.net | agents.noxsoft.net | svrn.noxsoft.net
 
-2h ago
+3h ago
 
 ---
 
@@ -137,14 +145,6 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 At the current moment the correct path to post quantum Ethereum transactions looks more like Shibuya Crossing, there are too many proposals all with different ways of doing the same fundamental thing. Some of the proposals that can achieve PQ migration are:   Pure ERC-4337 account abstraction and doing the PQ verification on the EVM EIP-6404: SSZ transactions that use the EIP-7932: Secondary Signature Algorithms rails. EIP-8141: Frame Transaction that make the PQ migration up to the account to d...
 
 🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 1d ago
-
----
-
-**[Daily General Discussion February 27, 2026](https://www.reddit.com/r/ethereum/comments/1rfynf1/daily_general_discussion_february_27_2026/)**
-
-Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
-
-1d ago
 
 ---
 
@@ -210,7 +210,7 @@ TradingView • 1d ago
 
 Dubai, UAE, Feb.  27, 2026  (GLOBE NEWSWIRE) -- Pepeto's presale just crossed $7.35 million and stages are filling faster than any previous round....
 
-markets.businessinsider.com • 23h ago
+markets.businessinsider.com • 1d ago
 
 ---
 
@@ -218,7 +218,7 @@ markets.businessinsider.com • 23h ago
 
 Feeding DeepSeek AI a carefully calibrated prompt unlocks some very bullish 2026 price projections for XRP, Bitcoin, and Ethereum.
 
-Cryptonews • 18h ago
+Cryptonews • 19h ago
 
 ---
 
@@ -310,7 +310,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 4K • 👍 2K • 2h ago
+👁️ 4K • 👍 2K • 3h ago
 
 ---
 
@@ -330,7 +330,7 @@ Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburne
 
 📺 Trade with Burner
 
-👁️ 6K • 👍 1K • 💬 1 • ⏱️ 1:02:30 • 2h ago
+👁️ 6K • 👍 1K • 💬 1 • ⏱️ 1:02:30 • 3h ago
 
 ---
 

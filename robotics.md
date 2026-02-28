@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T17:21:13.091854+00:00'
+updated: '2026-02-28T17:45:14.857727+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
-- news
 - social
+- news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 17:21 UTC  
+**Last Updated:** February 28, 2026 at 17:45 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,13 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-4h ago
+5h ago
+
+---
+
+**[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
+
+50m ago
 
 ---
 
@@ -50,15 +56,7 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-17h ago
-
----
-
-**[Barista Demo pouring a Latte from CES](https://www.reddit.com/r/robotics/comments/1rgcety/barista_demo_pouring_a_latte_from_ces/)**
-
-Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
-
-1d ago
+18h ago
 
 ---
 
@@ -67,6 +65,14 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
 11h ago
+
+---
+
+**[Barista Demo pouring a Latte from CES](https://www.reddit.com/r/robotics/comments/1rgcety/barista_demo_pouring_a_latte_from_ces/)**
+
+Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
+
+1d ago
 
 ---
 
@@ -80,7 +86,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
 
-5h ago
+6h ago
 
 ---
 
@@ -97,12 +103,6 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 Serious Question. Been considering deigning a back drivable actuator that uses STS protocol and a brushed DC motor (similar to feetech servos) instead of a brushless motor. I wanted to create a cheaper option for back drivable joints in hobbyist robotics project. But I also want to get a more experienced opinion first. Would it even be worth it? Other than motor efficiency, what would be the drawbacks or reasons why I should not pursue?
 
 2h ago
-
----
-
-**[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
-
-1d ago
 
 ---
 
@@ -178,7 +178,7 @@ Financial Times • 1d ago
 
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 18h ago
+MSN • 19h ago
 
 ---
 
@@ -222,7 +222,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 115K • 👍 2K • 💬 1K • ⏱️ 7:18 • 3d ago
+👁️ 115K • 👍 2K • 💬 1K • ⏱️ 7:18 • 4d ago
 
 ---
 
@@ -240,7 +240,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Robot Julie 
 
-👁️ 27K • 👍 111 • 💬 3 • ⏱️ 0:21 • 16h ago
+👁️ 27K • 👍 111 • 💬 3 • ⏱️ 0:21 • 17h ago
 
 ---
 

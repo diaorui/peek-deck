@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T17:21:13.074147+00:00'
+updated: '2026-02-28T17:45:14.841688+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
 - social
+- news
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 17:21 UTC  
+**Last Updated:** February 28, 2026 at 17:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,15 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 13h ago
-
----
-
-**[Trump orders federal agencies to stop using Anthropic AI tech ‘immediately’](https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/)**
-
-Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
-
-19h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 14h ago
 
 ---
 
@@ -56,6 +48,14 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
 🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 12h ago
+
+---
+
+**[Trump orders federal agencies to stop using Anthropic AI tech ‘immediately’](https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/)**
+
+Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
+
+19h ago
 
 ---
 
@@ -83,6 +83,14 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 ---
 
+**[A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen](https://www.reddit.com/r/artificial/comments/1rgiase/a_new_wearable_ai_system_watches_your_hands/)**
+
+A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
+
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 21h ago
+
+---
+
 **[The problem with Dorsey's Block layoffs and the veiled nature of AI productivity growth](https://www.reddit.com/r/artificial/comments/1rga39a/the_problem_with_dorseys_block_layoffs_and_the/)**
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
@@ -99,19 +107,9 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 ---
 
-**[A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen](https://www.reddit.com/r/artificial/comments/1rgiase/a_new_wearable_ai_system_watches_your_hands/)**
+**[GPT-5.2 Just Solved a 15-Year Physics Mystery — Then Scored 0% on the Physics Exam](https://www.reddit.com/r/artificial/comments/1rgp0o5/gpt52_just_solved_a_15year_physics_mystery_then/)**
 
-A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 20h ago
-
----
-
-**[I used steelman prompting to audit bias across six major LLMs. The default-to-steelman gap was consistent and measurable.](https://www.reddit.com/r/artificial/comments/1rgqcgi/i_used_steelman_prompting_to_audit_bias_across/)**
-
-I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok, Llama, DeepSeek, and an uncensored DeepSeek clone (Venice.ai) — using identical prompts to test how they handle a hotly contested interpretive question. The domain: 1 Corinthians 6–7, the primary source text behind Christian sexual ethics (aka wait until marriage) and a passage churches are frequently accused of gaslighting on. The question was straightforward: do the original Greek and historical context actually support the traditional church conclusion, or the claims that the church is misrepresenting the text? The approach: first prompt each platform for a standard analysis, then prompt it to steelman the strongest case against its own default using the same source material. I tracked six diagnostic markers, three associated with the dominant interpretation, three with the alternative, across all platforms. Results: every platform's default produced markers 1–3 and omitted 4–6. Every platform's steelman produced 4–6 with greater lexical specificity, more structural engagement with the source text, and more historically grounded reasoning. The information wasn't missing from the training data — the defaults just systematically favored one interpretive framework. The source bias was traceable. When asked to recommend scholarly sources, 63% of commentaries across all platforms came from a single theological tradition (conservative evangelical). Zero came from the peer-reviewed subdiscipline whose work supports the alternative reading. The most interesting finding: DeepSeek and its uncensored clone share the same base model but diverged significantly on the steelman prompt, suggesting output-layer filtering can shape interpretive conclusions in non-obvious domains, not just politically sensitive ones. To be clear: the research draws no conclusion about which interpretation is correct. It documents how platforms present contested material as settled, and traces that default to a measurable imbalance in training data curation. I wrote this up into a formal research paper with full methodology, diagnostic criteria, and platform-by-platform results: here But the broader question: has anyone else experimented with steelman prompting as a systematic bias-auditing technique? It seems like a replicable framework that could apply well beyond this domain.
-
-15h ago
+🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0083-gpt-5-2-gluon-physics-discovery-critpt-paradox) • 16h ago
 
 ---
 
@@ -121,7 +119,7 @@ I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok,
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 11h ago
+The New York Times • 12h ago
 
 ---
 
@@ -177,7 +175,7 @@ CBS News • 2h ago
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-NBC News • 19h ago
+NBC News • 20h ago
 
 ---
 
@@ -219,7 +217,15 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 183 • 💬 101 • 4h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 232 • 💬 125 • 5h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+
+---
+
+**[What AI coding costs you](https://news.ycombinator.com/item?id=47194847)**
+
+What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
+
+⬆️ 187 • 💬 130 • 4h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -241,15 +247,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 141 • 💬 44 • 13h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
-
----
-
-**[What AI coding costs you](https://news.ycombinator.com/item?id=47194847)**
-
-What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
-
-⬆️ 107 • 💬 84 • 4h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 141 • 💬 45 • 14h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -257,7 +255,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 82 • 💬 107 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 83 • 💬 107 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -327,7 +325,7 @@ The clash between Anthropic and the U.S. government escalated with President Tru
 
 📺 PBS NewsHour
 
-👁️ 24K • 👍 430 • ⏱️ 6:53 • 17h ago
+👁️ 24K • 👍 430 • ⏱️ 6:53 • 18h ago
 
 ---
 
@@ -357,7 +355,7 @@ Artificial intelligence is accelerating - but how fast is too fast? A new benchm
 
 📺 Sky News
 
-👁️ 43K • 👍 538 • 💬 123 • ⏱️ 8:04 • 2d ago
+👁️ 43K • 👍 538 • 💬 123 • ⏱️ 8:04 • 3d ago
 
 ---
 
@@ -367,7 +365,7 @@ Patreon Link: https://www.patreon.com/user?u=92507128 Get $25 of FREE Stock on S
 
 📺 Ale's World of Stocks
 
-👁️ 600 • 👍 74 • 💬 42 • ⏱️ 18:39 • 2h ago
+👁️ 600 • 👍 74 • 💬 42 • ⏱️ 18:39 • 3h ago
 
 ---
 
@@ -417,7 +415,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 350 • 21h ago
+⬇️ 350,233 • ❤️ 350 • 22h ago
 
 ---
 
@@ -501,7 +499,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 208 • 4h ago
+⬇️ 8,049 • ❤️ 208 • 5h ago
 
 ---
 
@@ -713,7 +711,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.0k • 🔱 230 • 4h ago
+⭐ 3.0k • 🔱 230 • 5h ago
 
 ---
 
@@ -733,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 556 • 7h ago
+⭐ 2.9k • 🔱 556 • 8h ago
 
 ---
 
