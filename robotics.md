@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T20:49:35.434481+00:00'
+updated: '2026-02-28T21:22:02.298407+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 20:49 UTC  
+**Last Updated:** February 28, 2026 at 21:22 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-9h ago
+10h ago
 
 ---
 
@@ -72,7 +72,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-14h ago
+15h ago
 
 ---
 
@@ -126,7 +126,7 @@ Los Angeles Times • 3d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
@@ -156,7 +156,7 @@ BMW Group • 1d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfygb5MPxZE6HC_0VfOu6gfIdNdzPGLRGyUTzovGHo5EwPgXhZ-ZLuH&gaa_ts=69a3584e&gaa_sig=TqLwRaDsQngyE_nJ-iVwN73CGxA78h3OW2gREz7zGBd0B5ZW3_RKNUJdFrpWXPz73Vshsk_BOFP3bVNkd_TrLw%3D%3D)**
 
-WSJ • 22h ago
+WSJ • 23h ago
 
 ---
 
@@ -202,7 +202,7 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 9K • 👍 283 • 💬 106 • ⏱️ 13:15 • 18h ago
+👁️ 9K • 👍 283 • 💬 106 • ⏱️ 13:15 • 19h ago
 
 ---
 
@@ -252,7 +252,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 21K • 👍 593 • 💬 13 • ⏱️ 0:35 • 20h ago
+👁️ 21K • 👍 593 • 💬 13 • ⏱️ 0:35 • 21h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T20:49:35.419673+00:00'
+updated: '2026-02-28T21:22:02.288823+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
-- news
 - cryptocurrency
+- social
+- news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 20:49 UTC  
+**Last Updated:** February 28, 2026 at 21:22 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
 
-2h ago
+3h ago
 
 ---
 
@@ -103,7 +103,7 @@ Based on my technical analysis, which I do have a few years of experience in, BT
 
 I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
 
-19h ago
+20h ago
 
 ---
 
@@ -125,7 +125,7 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-13h ago
+14h ago
 
 ---
 
@@ -141,7 +141,7 @@ I know this might sound stupid question to some of you, but I'd like to ask anyw
 
 Tonight at midnight EST our drawing closes and today is the last day to earn points. We run a low difficulty Bitcoin mining pool called HMPool (HashedMax Unity Pool) and we run a rewards program that's a little different from what most pools do. Instead of rewarding on pure hashrate, points are based on "uptime" so an ESP32 mining at 1 MH/s earns fairly alongside a full Bitaxe or S19. Every 1,000 points = 1 lottery entry for BTC rewards or hardware giveaways. Tonight at midnight EST the stats and points reset and will start fresh for March, meaning today is your last shot to squeeze any remaining hours in for February's draw. Tomorrow we run our **first ever drawing**, which is kind of a big deal for us since we've been building toward this since launch. If you've been looking for a pool that doesn't punish small miners, we are worth checking out. Rewards overview: https://hmpool.io/rewards.html Happy mining, everyone.
 
-1h ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ Tonight at midnight EST our drawing closes and today is the last day to earn poi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 JPMorgan said the long-awaited Clarity Act would bring regulatory clarity, boost institutional participation and accelerate tokenization across U.S. crypto markets.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -229,7 +229,7 @@ theblock.co • 23h ago
 
 Bitcoin may have a better chance of hitting $150,000 this year than you think.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 625 • 💬 162 • ⏱️ 26:57 • 6h ago
+👁️ 9K • 👍 625 • 💬 162 • ⏱️ 26:57 • 7h ago
 
 ---
 
@@ -341,7 +341,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 725 • ⏱️ 22:53 • 22h ago
+👁️ 21K • 👍 725 • ⏱️ 22:53 • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ Nick Valdez looks at what will trigger volatility for Bitcoin this weekend. Betw
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 169 • 💬 34 • ⏱️ 5:32 • 6h ago
+👁️ 3K • 👍 169 • 💬 34 • ⏱️ 5:32 • 7h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 561 • 💬 99 • ⏱️ 14:04 • 20h ago
+👁️ 12K • 👍 561 • 💬 99 • ⏱️ 14:04 • 21h ago
 
 ---
 
@@ -401,7 +401,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 462 • 💬 34 • ⏱️ 13:10 • 9h ago
+👁️ 7K • 👍 462 • 💬 34 • ⏱️ 13:10 • 10h ago
 
 ---
 
