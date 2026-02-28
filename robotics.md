@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T10:24:54.761968+00:00'
+updated: '2026-02-28T10:47:45.610026+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - social
 - news
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 10:24 UTC  
+**Last Updated:** February 28, 2026 at 10:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-10h ago
+11h ago
 
 ---
 
@@ -48,7 +48,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -64,13 +64,13 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
-19h ago
+20h ago
 
 ---
 
 **[Unitree CEO Tests His Robots](https://www.reddit.com/r/robotics/comments/1rgbls2/unitree_ceo_tests_his_robots/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -126,7 +126,7 @@ WSJ • 12h ago
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
-Tech Xplore • 18h ago
+Tech Xplore • 19h ago
 
 ---
 
@@ -162,7 +162,7 @@ Bloomberg.com • 1d ago
 
 **[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
 
-MSN • 11h ago
+MSN • 12h ago
 
 ---
 
@@ -282,7 +282,7 @@ Arduino Based Projects #arduinoprojects #arduinouno #robotics #robot #light #sta
 
 📺 EAZYTRONIC
 
-👁️ 31K • 👍 119 • 💬 1 • ⏱️ 0:09 • 21h ago
+👁️ 31K • 👍 119 • 💬 1 • ⏱️ 0:09 • 22h ago
 
 ---
 

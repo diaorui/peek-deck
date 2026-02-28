@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T10:24:54.744360+00:00'
+updated: '2026-02-28T10:47:45.592269+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
 - repositories
 - social
 - news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 10:24 UTC  
+**Last Updated:** February 28, 2026 at 10:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -39,7 +39,7 @@ AI news, discussions, and developments
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 6h ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 7h ago
 
 ---
 
@@ -87,7 +87,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
 
-18h ago
+19h ago
 
 ---
 
@@ -95,7 +95,7 @@ Jack Dorsey just laid off half of Block's workforce, framing it around AI. The s
 
 A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
 
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 13h ago
+🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 14h ago
 
 ---
 
@@ -119,7 +119,7 @@ I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok,
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 4h ago
+The New York Times • 5h ago
 
 ---
 
@@ -133,7 +133,7 @@ BBC • 6h ago
 
 **[The Evolution of Giorgia Meloni: Her Plan for Italy and Fears of AI](https://www.bloomberg.com/news/features/2026-02-28/ai-and-italy-giorgia-meloni-wants-economic-growth-and-a-reality-check)**
 
-Bloomberg.com • 54m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -149,7 +149,7 @@ CNN • 1d ago
 
 Hours after exclusion of Anthropic, OpenAI announces fresh Pentagon deal, but says it will maintain same safety guardrails at the heart of the dispute
 
-The Guardian • 12h ago
+The Guardian • 13h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Washington Post • 16h ago
 
 Callers to Washington state’s driver’s license agency who select automated service in Spanish have instead been hearing an AI voice speaking English with a strong Spanish accent.
 
-AP News • 7h ago
+AP News • 8h ago
 
 ---
 
@@ -201,7 +201,7 @@ AP News • 7h ago
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 598 • 💬 570 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 598 • 💬 571 • 1d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
@@ -216,14 +216,6 @@ Our latest image generation model offers advanced world knowledge, production-re
 Leading AIs from OpenAI, Anthropic and Google opted to use nuclear weapons in simulated war games in 95 per cent of cases
 
 ⬆️ 267 • 💬 262 • 2d ago • [New Scientist](https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/)
-
----
-
-**[Show HN: A real-time strategy game that AI agents can play](https://news.ycombinator.com/item?id=47149586)**
-
-LLM Skirmish - An Adversarial In-Context Learning Benchmark
-
-⬆️ 218 • 💬 81 • 3d ago • [llmskirmish.com](https://llmskirmish.com/)
 
 ---
 
@@ -271,6 +263,14 @@ Aiming for a 10 year life-cycle for smartphones
 
 ---
 
+**[SynthID: A tool to watermark and identify content generated through AI](https://news.ycombinator.com/item?id=47169146)**
+
+SynthID is a tool to watermark and identify AI-generated content, helping to foster transparency and trust in generative AI.
+
+⬆️ 78 • 💬 75 • 1d ago • [Google DeepMind](https://deepmind.google/models/synthid/)
+
+---
+
 ---
 
 ## YouTube Videos: "ai"
@@ -301,7 +301,7 @@ Create AI videos fast with Higgsfield ...
 
 📺 Malva AI
 
-👁️ 4K • 👍 277 • 💬 113 • ⏱️ 9:46 • 21h ago
+👁️ 4K • 👍 277 • 💬 113 • ⏱️ 9:46 • 22h ago
 
 ---
 
@@ -321,7 +321,7 @@ shorts #AI #disturbing.
 
 📺 Built By Gamers
 
-👁️ 6K • 👍 179 • 💬 7 • ⏱️ 0:27 • 3h ago
+👁️ 6K • 👍 179 • 💬 7 • ⏱️ 0:27 • 4h ago
 
 ---
 
@@ -369,7 +369,7 @@ Anton Korinek talks about the effects of automation on wages and labor, how we m
 
 📺 Liv Swearingen (LIV)
 
-👁️ 966K • 👍 25K • 💬 4K • ⏱️ 0:18 • 17h ago
+👁️ 966K • 👍 25K • 💬 4K • ⏱️ 0:18 • 18h ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 331 • 14h ago
+⬇️ 350,233 • ❤️ 331 • 15h ago
 
 ---
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 20.8k • 🔱 2.6k • 1h ago
+⭐ 20.8k • 🔱 2.6k • 2h ago
 
 ---
 
@@ -707,7 +707,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 211 • 8h ago
+⭐ 2.9k • 🔱 211 • 9h ago
 
 ---
 
@@ -727,7 +727,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 2.7k • 🔱 332 • 8h ago
+⭐ 2.7k • 🔱 332 • 9h ago
 
 ---
 

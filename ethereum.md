@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T10:24:54.758789+00:00'
+updated: '2026-02-28T10:47:45.606864+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 10:24 UTC  
+**Last Updated:** February 28, 2026 at 10:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -112,7 +112,7 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
 
-16h ago
+17h ago
 
 ---
 
@@ -128,7 +128,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 18h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 19h ago
 
 ---
 
@@ -144,7 +144,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common security issues in ZK circuits. YAML-defined pattern packs (regex, fancyregex, literal) Optional semantic pass (--semantic) for cross-line checks CLI + library API SARIF/JSON/text outputs for CI workflows Current integration matrix: 16 vulnerable fixtures + 10 safe controls Repo: https://github.com/Teycir/ZkPatternMatcher
 
-18h ago
+19h ago
 
 ---
 
@@ -156,7 +156,7 @@ I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common se
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 17h ago
+CoinDesk • 18h ago
 
 ---
 
@@ -218,7 +218,7 @@ The Motley Fool • 5h ago
 
 Trump’s State of the Union address has injected fresh optimism into markets. Ethereum’s price has rallied 15% this week to $2,050. Bitmine keeps accumulating tokens with weekly purchases.
 
-dlnews.com • 1d ago
+dlnews.com • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ dlnews.com • 1d ago
 
 Ethereum and Bitcoin options valued at $8.7 billion are about to expire on the leading derivatives exchange, Deribit. This development could increase the volatility of both cryptocurrencies amid the ongoing bearish outlook of their prices.Ethereum and Bitcoin options max pain levelIn a new update…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 

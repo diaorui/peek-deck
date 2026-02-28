@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T10:24:54.752800+00:00'
+updated: '2026-02-28T10:47:45.600865+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - cryptocurrency
-- news
 - videos
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 10:24 UTC  
+**Last Updated:** February 28, 2026 at 10:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,7 +38,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $63,928.47
+### $63,917.35
 
 ---
 
@@ -85,7 +85,7 @@ Rank #1
 
 **[OG Hodlers who've not sold a fckn Sat in this dump](https://www.reddit.com/r/Bitcoin/comments/1rg8h0c/og_hodlers_whove_not_sold_a_fckn_sat_in_this_dump/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -133,7 +133,7 @@ A friend who has always been against Bitcoin asked me how to buy it. I feel that
 
 If you know Bitcoin's true power and other people doubt it, it gives you long term advantage to build wealth. As shitty as these dips are, that is where the wealth is gained, if everyone knew its value then there would be no opportunity.
 
-15h ago
+16h ago
 
 ---
 
@@ -149,7 +149,7 @@ No gallery. No middleman. Just Bitcoin. 🟠🎨 Grateful 🙏🏼
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 22h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 23h ago
 
 ---
 
@@ -159,7 +159,7 @@ Citigroup announced plans to integrate Bitcoin into its $30 trillion asset manag
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 2h ago
+Bloomberg.com • 3h ago
 
 ---
 
@@ -203,7 +203,7 @@ Yahoo Finance • 1d ago
 
 Bitcoin's volatility makes it difficult to predict over the short term. But it's a different story over the long haul.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -285,7 +285,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 Links to major crypto world figures are just the start.
 
-⬆️ 1 • 💬 0 • 42m ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 1 • 💬 0 • 1h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -345,7 +345,7 @@ Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 672 • 💬 178 • ⏱️ 25:02 • 19h ago
+👁️ 12K • 👍 672 • 💬 178 • ⏱️ 25:02 • 20h ago
 
 ---
 
@@ -405,7 +405,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 49 • 💬 2 • ⏱️ 1:55 • 15h ago
+👁️ 2K • 👍 49 • 💬 2 • ⏱️ 1:55 • 16h ago
 
 ---
 
