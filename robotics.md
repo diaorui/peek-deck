@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T19:42:50.863818+00:00'
+updated: '2026-02-28T20:27:26.850990+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- videos
 - news
 - social
-- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 19:42 UTC  
+**Last Updated:** February 28, 2026 at 20:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -50,7 +50,15 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-8h ago
+9h ago
+
+---
+
+**[Robotic Parcel Sorting (Letter / Small Polybag) for places like USPS & Pitney Bowes](https://www.reddit.com/r/robotics/comments/1rhaedz/robotic_parcel_sorting_letter_small_polybag_for/)**
+
+Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
+
+1h ago
 
 ---
 
@@ -64,15 +72,7 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-13h ago
-
----
-
-**[Robotic Parcel Sorting (Letter / Small Polybag) for places like USPS & Pitney Bowes](https://www.reddit.com/r/robotics/comments/1rhaedz/robotic_parcel_sorting_letter_small_polybag_for/)**
-
-Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
-
-1h ago
+14h ago
 
 ---
 
@@ -86,7 +86,13 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-16h ago
+17h ago
+
+---
+
+**[Commission request: Custom InMoov i2Head build](https://www.reddit.com/r/robotics/comments/1rhbk2k/commission_request_custom_inmoov_i2head_build/)**
+
+59m ago
 
 ---
 
@@ -95,14 +101,6 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
 
 8h ago
-
----
-
-**[First table jump from our robot!](https://www.reddit.com/r/robotics/comments/1rg83qy/first_table_jump_from_our_robot/)**
-
-Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
-
-1d ago
 
 ---
 
@@ -122,7 +120,7 @@ Los Angeles Times • 3d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -138,7 +136,7 @@ The Verge • 2d ago
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
 
-TechCrunch • 2d ago
+TechCrunch • 3d ago
 
 ---
 
@@ -158,7 +156,7 @@ BMW Group • 1d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfI_qCLPT1qCvsvXMFKEX4xPSIDgx0rYmofFsrVimgdRQwKGaicAWmp&gaa_ts=69a3489a&gaa_sig=9CRZsuQ1phJ8o5sXokqRYXQCY1VDgAT83iExY3OkPeLkM-Yb1q2viK8sshKdXViQr0ylJll3KA_fcz758LsThg%3D%3D)**
 
-WSJ • 21h ago
+WSJ • 22h ago
 
 ---
 
@@ -214,7 +212,7 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 8K • 👍 266 • 💬 100 • ⏱️ 13:15 • 17h ago
+👁️ 8K • 👍 266 • 💬 100 • ⏱️ 13:15 • 18h ago
 
 ---
 
@@ -264,7 +262,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 19K • 👍 552 • 💬 13 • ⏱️ 0:35 • 19h ago
+👁️ 19K • 👍 552 • 💬 13 • ⏱️ 0:35 • 20h ago
 
 ---
 
@@ -284,7 +282,7 @@ AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gaut
 
 📺 MattVidPro
 
-👁️ 3K • 👍 192 • 💬 17 • ⏱️ 18:44 • 20h ago
+👁️ 3K • 👍 192 • 💬 17 • ⏱️ 18:44 • 21h ago
 
 ---
 

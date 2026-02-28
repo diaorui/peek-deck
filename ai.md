@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T19:42:50.845548+00:00'
+updated: '2026-02-28T20:27:26.833346+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- repositories
 - videos
+- news
+- repositories
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 19:42 UTC  
+**Last Updated:** February 28, 2026 at 20:27 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,12 +37,6 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
-
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 16h ago
-
----
-
 **[Exclusive interview: Anthropic CEO Dario Amodei on Pentagon feud](https://www.reddit.com/r/artificial/comments/1rha87x/exclusive_interview_anthropic_ceo_dario_amodei_on/)**
 
 Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, hours after Defense Secretary Pete Hegseth declared the company a supply chain risk to national security, which restricts military contractors from doing business with the AI giant. Amodei called the move "retaliatory and punitive," and he said Anthropic sought to draw "red lines" in the government's use of its technology because "we believe that crossing those lines is contrary to American values, and we wanted to stand up for American values."
@@ -51,11 +45,17 @@ Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, ho
 
 ---
 
-**[The real bottleneck for AI agents isn't capability — it's trust and identity](https://www.reddit.com/r/artificial/comments/1rhalk6/the_real_bottleneck_for_ai_agents_isnt_capability/)**
+**[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-Every week another company announces an AI agent that can write code, answer phones, or close tickets. The technology is commoditizing fast. In 12 months the capability gap between providers will be negligible. So what actually separates the agents that get deployed in production from the ones that stay in demos? I've been building an AI agent that runs day-to-day business operations — not as a tool, but as an autonomous operator. It handles outreach, content, client onboarding, reporting. The technical part was honestly the easy part. The hard part: getting anyone to trust it with real work. Here's what I've observed: **Capability is table stakes.** Every agent can generate text, call APIs, process data. That's not a differentiator anymore. **Identity matters more than people think.** An agent with a name, a consistent voice, and a track record gets treated differently than "the AI." People respond to it differently. They hold it accountable differently. **Context persistence is the real moat.** The agent that remembers your last 50 interactions and adapts is fundamentally different from one that starts fresh every time. This is where most agent frameworks completely fall down. **The trust gap is the real engineering problem.** Getting an AI agent to do something is easy. Getting a human to let it do something unsupervised is the actual challenge nobody talks about. I wrote a longer paper on this — the argument that narrative and identity will matter more than raw capability as agents commoditize. Curious what this community thinks. Where does this argument break down?
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 17h ago
 
-52m ago
+---
+
+**[Acing this new AI exam — which its creators say is the toughest in the world — might point to the first signs of AGI](https://www.reddit.com/r/artificial/comments/1rhccfv/acing_this_new_ai_exam_which_its_creators_say_is/)**
+
+Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
+
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 28m ago
 
 ---
 
@@ -63,7 +63,7 @@ Every week another company announces an AI agent that can write code, answer pho
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 14h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 15h ago
 
 ---
 
@@ -71,7 +71,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-21h ago
+22h ago
 
 ---
 
@@ -79,7 +79,15 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-58m ago
+1h ago
+
+---
+
+**[How do you handle all these AI subscribtions?](https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/)**
+
+how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
+
+43m ago
 
 ---
 
@@ -87,7 +95,15 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
-13h ago
+14h ago
+
+---
+
+**[The real bottleneck for AI agents isn't capability — it's trust and identity](https://www.reddit.com/r/artificial/comments/1rhalk6/the_real_bottleneck_for_ai_agents_isnt_capability/)**
+
+Every week another company announces an AI agent that can write code, answer phones, or close tickets. The technology is commoditizing fast. In 12 months the capability gap between providers will be negligible. So what actually separates the agents that get deployed in production from the ones that stay in demos? I've been building an AI agent that runs day-to-day business operations — not as a tool, but as an autonomous operator. It handles outreach, content, client onboarding, reporting. The technical part was honestly the easy part. The hard part: getting anyone to trust it with real work. Here's what I've observed: **Capability is table stakes.** Every agent can generate text, call APIs, process data. That's not a differentiator anymore. **Identity matters more than people think.** An agent with a name, a consistent voice, and a track record gets treated differently than "the AI." People respond to it differently. They hold it accountable differently. **Context persistence is the real moat.** The agent that remembers your last 50 interactions and adapts is fundamentally different from one that starts fresh every time. This is where most agent frameworks completely fall down. **The trust gap is the real engineering problem.** Getting an AI agent to do something is easy. Getting a human to let it do something unsupervised is the actual challenge nobody talks about. I wrote a longer paper on this — the argument that narrative and identity will matter more than raw capability as agents commoditize. Curious what this community thinks. Where does this argument break down?
+
+1h ago
 
 ---
 
@@ -95,23 +111,7 @@ Quick summary of an independent preprint I just published: Question: Does the re
 
 https://reddit.com/link/1rh95cl/video/0b8dqf83x9mg1/player The setup that shouldn't work but does I have 13 AI agents that work on marketing for my product. They run every 15 minutes, review each other's work, and track everything in a database. When one drafts content, others critique it before I see it. When someone gets stuck, they ping the boss agent. When something's ready or stuck, it shows up in my Telegram. It's handling all marketing for Fruityo (my AI video generation platform). Here's the architecture and how you could build something similar. The problem Most AI workflows are single-shot: ask ChatGPT → get answer → copy-paste → lose context → repeat tomorrow. That works for quick questions. It breaks down for complex work that needs: Multiple steps across days Research that builds on previous findings Different specialized perspectives (writing vs strategy vs critique) Quality review before anything ships Tracking what's done, what's blocked, what's next I needed AI that works like a team, not a chatbot, and I saw some guys on Twitter building UI's for OpenClaw agents... The architecture Infrastructure: OpenClaw - gives agents the ability to browse the web, execute commands, manage files, and interact with APIs Cron - schedules agent heartbeats Telegram - notification layer (agents ping me when something needs attention) PocketBase - database storing tasks, comments, documents, activity logs, goals Claude Max Workflow: Tasks move through states: backlog → todo → in_progress → peer_review → review → approved → done Each state has gates. Agents can't skip peer review. Boss can't approve without all reviewers signing off. I'm the only one who moves tasks to done. The team (from Westeros) Each agent has a role, specialty, and personality defined in their SOUL.md file: Agent Role What they do 🐺 Jon Snow Boss Creates tasks, coordinates workflow, and promotes peer-reviewed work to final review 🍷 Tyrion Content Writer Writes tweets, threads, blog posts, landing pages in my tone. 🕷️ Varys Researcher Web research, competitor analysis, data mining 🐉 Daenerys Strategist Campaign planning, positioning, and goal setting ⚔️ Arya Executor Publishes content, runs automation, ships work 🦅 Sansa Designer Creates design briefs, visual concepts 🗡️ Sandor Devil's Advocate Gives brutal, honest feedback, catches BS ... ... ... Why Game of Thrones names? Why not, I love GOT :) ...and personality matters. Sandor reviews content like a skeptic. Tyrion writes with wit. Varys digs for hidden data. Their SOULs define behavior - Sandor will roast bad writing, Daenerys will flag strategic misalignment. Better to have multiple specialists with distinct viewpoints than one mediocre generalist. How it actually works: The heartbeat protocol Each agent has its own OpenClaw workspace. Every agent runs a scheduled heartbeat every 10 minutes (scattered by 1 minute each to avoid hitting the DB simultaneously). What happens in a heartbeat: 1. Agent authenticates, sets status to "working" Connects to PocketBase, updates the status field so others know it's active. 2. Reviews others FIRST (highest priority) Fetches tasks where other agents need my review Reads task description, existing comments, documents they created Posts substantive feedback (what's good, what needs fixing) If work is solid → leaves approval comment If needs changes → explains exactly what's wrong This is the peer review gate. If I'm assigned to the same goal as you, I MUST review your work before it moves forward. 3. Works on own tasks Fetches my assigned tasks from DB Picks up anything in todo → moves to in_progress Does the actual work (research, write, analyze, etc.) Saves output to PocketBase documents table Posts comment explaining approach Moves task to peer_review (triggers all teammates on that goal to review) Logs activity to activity table 4. Updates working status, sets to "idle" Agent writes progress to PROGRESS.md (local state tracking), sets PocketBase status to "idle", waits for next heartbeat. Task Flow Example Goal: Grow Fruityo on socials Jon creates the task to create a post about current UGC video trends and assigns it to Varys (researcher). I approve it by moving from backlog to todo. Varys picks it up, moves to in-progress, researches, saves findings to the database, and moves to peer review. Daenerys and Tyrion review his work, suggest improvements. Varys creates new version based on feedback. Once both approve, Jon (boss) promotes the task to the review stage. I get a Telegram notification, review the research document, and approve. Task moves to done. All communication happens via comments on the task. All work is stored in the database. Context persists. The boss role: Why Jon is special Jon isn't just another agent. He has special authority: Only Jon can: Create new tasks (via scheduled cron, analyzing goals) Promote tasks from peer_review → review (after all peers approve) Reassign tasks when someone's blocked Change task priorities Jon's heartbeat is different: Checks if peer_review tasks have all approvals → promotes to review Identifies blocked tasks (stuck over 24 hours) → investigates why → escalates to me Coordinates handoffs between agents Think of it like: agents are the team, Jon is the team lead, and I am the executive. Without a coordinator, you'd have chaos - 7 agents all trying to assign work to each other with no one having the final word. Goals: How work gets organized Here's where it gets interesting. Instead of creating tasks manually every day, I define long-term goals and let Jon generate tasks automatically. A goal defines: What we're trying to achieve Which agents are assigned to it How many tasks should Jon create per day/week Example: I created a goal "Grow Fruityo twitter presence." Assigned agents: Varys (research), Tyrion (writing), Arya (publishing), Sandor (review). Told Jon to create 3 tasks per day related to this goal. Every day, Jon analyzes the goal, 15-day tasks history, creates 3 relevant tasks in the backlog ("Research trending AI video topics," "Draft thread on B-roll generation," etc.), and assigns them to the right agents. And I edit and/or just move good ones to todo. Why this matters: Selective peer review - Only agents assigned to that goal review each other's work. I can have 20+ agents in the system, but only the 4 assigned to "Twitter content" review those tasks. Saves tokens, keeps review relevant. Automatic task generation - I set a goal once, Jon creates tasks daily/weekly. No manual planning every morning. Scope control - Different goals can have different agent teams. Marketing goals get Tyrion/Varys/Arya. Product goals get different specialists. You could run multiple goals simultaneously - each with its own team, its own task cadence, its own review process. Communication Layer All agent communication happens through PocketBase comments on tasks. To reach another agent → mention their name in a comment To reach me → mention my name in a comment (notification daemon forwards to Telegram) To reach Jon specifically → dedicated Telegram topic (thread) bound to Jon's OpenClaw topic No DMs, no scattered Slack threads. Everything on the task, in context, persistent. What I use it for HQ runs almost all marketing for Fruityo: - Competitor research - Reddit research - Twitter threads - Blog posts - Landing page copy - Campaign planning - Design briefs - Content publishing (soon) - ...Whatever agents have skills for Before: I'd spend 1 day per blog post (research, draft, edit, publish) With HQ: ~30 minutes of my time to review and approve. Agents handle research, drafting, peer review. The quality is better because of peer review. Varys catches bad data. Daenerys catches strategic drift. Sandor catches AI clichés and marketing BS. > YES, this could burn through tokens quite quickly (safu on Claude Max sub), but it seems, that I found the right combination of setup and context optimisations. If you want something similar This is my custom setup, built for my specific needs. But the pattern is generalizable - you could use it for content creation, product development, research projects, or any work that needs multiple specialized perspectives with quality gates. All of this is built on OpenClaw (open source AI agent framework) PocketBase is free and self-hostable FULL GUIDE above is free. Just prompt your little lobster the right way :) If you build something like this, I'd love to hear about it. Reply with what you'd use it for or what you'd do differently. If you'd like to see this packaged as a ready-to-use product or like to know even more details, let me know here.
 
-1h ago
-
----
-
-**[Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’](https://www.reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/)**
-
-Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
-
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 1d ago
-
----
-
-**[NVIDIA stagnant for consumer AI cards... will any company ever compete?](https://www.reddit.com/r/artificial/comments/1rgil0g/nvidia_stagnant_for_consumer_ai_cards_will_any/)**
-
-With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
-
-22h ago
+2h ago
 
 ---
 
@@ -121,7 +121,7 @@ With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, to
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 3h ago
+The New York Times • 4h ago
 
 ---
 
@@ -129,19 +129,19 @@ The New York Times • 3h ago
 
 "The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
 **[Florida has it right: No handouts for AI robber barons](https://thehill.com/opinion/technology/5758955-big-tech-florida-regulation/)**
 
-The Hill • 1h ago
+The Hill • 2h ago
 
 ---
 
 **[Pentagon reaches deal with OpenAI amid Anthropic beef](https://thehill.com/policy/technology/5760495-pentagon-deal-openai-trump-hegseth-anthropic/)**
 
-The Hill • 2h ago
+The Hill • 3h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Hill • 2h ago
 
 The warnings are coming from inside the industry, but that doesn’t make them right.
 
-The Washington Post • 14h ago
+The Washington Post • 15h ago
 
 ---
 
@@ -157,7 +157,7 @@ The Washington Post • 14h ago
 
 Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -173,7 +173,7 @@ CNN • 1d ago
 
 Nvidia plans to launch a new processor designed to help OpenAI and other customers build faster, ‌more efficient AI systems, the Wall Street Journal reported ‌on Friday, citing people familiar with the matter.  Nvidia is developing a new system ​for "inference" computing, a form of processing that allows AI models to respond to queries, the report said.  The new platform is set to be unveiled at Nvidia’s GTC developer conference in San Jose next ‌month and will incorporate ⁠a chip designed by startup Groq, the report added citing people familiar.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -181,7 +181,7 @@ Yahoo Finance • 6h ago
 
 From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
 
-Fortune • 9h ago
+Fortune • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ Fortune • 9h ago
 
 The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-NBC News • 7h ago
+NBC News • 8h ago
 
 ---
 
@@ -215,7 +215,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 254 • 💬 146 • 7h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 271 • 💬 154 • 7h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -223,7 +223,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 233 • 💬 159 • 6h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 247 • 💬 161 • 7h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -231,7 +231,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private companies pursuing their own agendas.
 
-⬆️ 145 • 💬 59 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
+⬆️ 146 • 💬 59 • 1d ago • [dropsitenews.com](https://www.dropsitenews.com/p/palantir-ai-gaza-humanitarian-aid-cmcc-srs-ngos-banned-israel)
 
 ---
 
@@ -245,7 +245,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 **[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
 
-⬆️ 141 • 💬 45 • 16h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 142 • 💬 45 • 17h ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -261,7 +261,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 "The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-⬆️ 79 • 💬 1 • 22h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
+⬆️ 80 • 💬 1 • 23h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -283,7 +283,7 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 158K • 👍 7K • 💬 632 • ⏱️ 15:25 • 22h ago
+👁️ 158K • 👍 7K • 💬 632 • ⏱️ 15:25 • 23h ago
 
 ---
 
@@ -293,7 +293,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 24K • 👍 3K • 💬 524 • ⏱️ 14:41 • 4h ago
+👁️ 24K • 👍 3K • 💬 524 • ⏱️ 14:41 • 5h ago
 
 ---
 
@@ -303,7 +303,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 9K • 👍 385 • 💬 68 • ⏱️ 39:40 • 3h ago
+👁️ 9K • 👍 385 • 💬 68 • ⏱️ 39:40 • 4h ago
 
 ---
 
@@ -323,7 +323,7 @@ Access Every AI Video Model Inside OpenArt https://youricreates.com/openart In t
 
 📺 Youri van Hofwegen
 
-👁️ 4K • 💬 12 • ⏱️ 12:12 • 3h ago
+👁️ 4K • 💬 12 • ⏱️ 12:12 • 4h ago
 
 ---
 
@@ -363,7 +363,7 @@ Warren Pies, 3Fourteen Ventures, joins 'Closing Bell Overtime' to talk why he is
 
 📺 CNBC Television
 
-👁️ 10K • 👍 65 • 💬 30 • ⏱️ 5:37 • 21h ago
+👁️ 10K • 👍 65 • 💬 30 • ⏱️ 5:37 • 22h ago
 
 ---
 
@@ -497,7 +497,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 209 • 7h ago
+⬇️ 8,049 • ❤️ 209 • 8h ago
 
 ---
 
@@ -659,7 +659,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.9k • 🔱 712 • 15h ago
+⭐ 5.9k • 🔱 712 • 16h ago
 
 ---
 
@@ -679,7 +679,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 361 • 13h ago
+⭐ 3.7k • 🔱 361 • 14h ago
 
 ---
 
@@ -689,7 +689,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 475 • 17h ago
+⭐ 3.6k • 🔱 475 • 18h ago
 
 ---
 
@@ -709,7 +709,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 324 • 6h ago
+⭐ 3.0k • 🔱 324 • 7h ago
 
 ---
 
@@ -719,7 +719,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 212 • 5h ago
+⭐ 2.9k • 🔱 212 • 6h ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T19:42:50.854275+00:00'
+updated: '2026-02-28T20:27:26.841744+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 19:42 UTC  
+**Last Updated:** February 28, 2026 at 20:27 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,100.99
+### $66,495.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +0.2%  
-**7d:** -2.9%  
-**30d:** -22.0%  
-**90d:** -23.8%  
-**1y:** -23.7%  
+**24h:** +2.2%  
+**7d:** -1.0%  
+**30d:** -20.5%  
+**90d:** -22.4%  
+**1y:** -22.2%  
 
 ---
 
@@ -81,13 +81,21 @@ Rank #1
 
 Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
 
+2h ago
+
+---
+
+**[BTC is in an "accumulation" phase rn.](https://www.reddit.com/r/Bitcoin/comments/1rhabxr/btc_is_in_an_accumulation_phase_rn/)**
+
+Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
+
 1h ago
 
 ---
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -95,7 +103,7 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
 
-18h ago
+19h ago
 
 ---
 
@@ -113,19 +121,11 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 ---
 
-**[BTC is in an "accumulation" phase rn.](https://www.reddit.com/r/Bitcoin/comments/1rhabxr/btc_is_in_an_accumulation_phase_rn/)**
-
-Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
-
-1h ago
-
----
-
 **[What is your distribution between stocks and bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1rgvq0v/what_is_your_distribution_between_stocks_and/)**
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-12h ago
+13h ago
 
 ---
 
@@ -141,7 +141,7 @@ I know this might sound stupid question to some of you, but I'd like to ask anyw
 
 Tonight at midnight EST our drawing closes and today is the last day to earn points. We run a low difficulty Bitcoin mining pool called HMPool (HashedMax Unity Pool) and we run a rewards program that's a little different from what most pools do. Instead of rewarding on pure hashrate, points are based on "uptime" so an ESP32 mining at 1 MH/s earns fairly alongside a full Bitaxe or S19. Every 1,000 points = 1 lottery entry for BTC rewards or hardware giveaways. Tonight at midnight EST the stats and points reset and will start fresh for March, meaning today is your last shot to squeeze any remaining hours in for February's draw. Tomorrow we run our **first ever drawing**, which is kind of a big deal for us since we've been building toward this since launch. If you've been looking for a pool that doesn't punish small miners, we are worth checking out. Rewards overview: https://hmpool.io/rewards.html Happy mining, everyone.
 
-48m ago
+1h ago
 
 ---
 
@@ -149,7 +149,7 @@ Tonight at midnight EST our drawing closes and today is the last day to earn poi
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+14h ago
 
 ---
 
@@ -159,7 +159,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg.com • 5h ago
 
 JPMorgan said the long-awaited Clarity Act would bring regulatory clarity, boost institutional participation and accelerate tokenization across U.S. crypto markets.
 
-CoinDesk • 39m ago
+CoinDesk • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ Barron's • 1d ago
 
 The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-The Block • 22h ago
+The Block • 23h ago
 
 ---
 
@@ -197,7 +197,7 @@ The Block • 22h ago
 
 Bitcoin may have a better chance of hitting $150,000 this year than you think.
 
-The Motley Fool • 9h ago
+The Motley Fool • 10h ago
 
 ---
 
@@ -283,12 +283,6 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 ---
 
-**[Bitcoin's Security Budget Transition: From Subsidy to Sustainability](https://news.ycombinator.com/item?id=47103784)**
-
-⬆️ 1 • 💬 1 • 7d ago • [cantonius.substack.com](https://cantonius.substack.com/p/bitcoin-asymmetry-rise-and-the-2040)
-
----
-
 **[Show HN: Deadhand – trustless Bitcoin inheritance in 2 minutes](https://news.ycombinator.com/item?id=47169521)**
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
@@ -305,6 +299,14 @@ The Financial Supervisory Service said it plans to build tools that automaticall
 
 ---
 
+**[Institutional cryptocurrency platform Blockfills is for sale after Bitcoin drops](https://news.ycombinator.com/item?id=47136131)**
+
+The Chicago-based company said it was temporarily suspending client deposits and withdrawals last week due to recent market and financial conditions.
+
+⬆️ 1 • 💬 0 • 4d ago • [coindesk.com](https://www.coindesk.com/business/2026/02/19/susquehanna-backed-blockfills-up-for-sale-after-usd75-million-lending-loss)
+
+---
+
 ---
 
 ## YouTube Videos: "bitcoin"
@@ -315,7 +317,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 469 • 💬 149 • ⏱️ 26:57 • 5h ago
+👁️ 6K • 👍 469 • 💬 149 • ⏱️ 26:57 • 6h ago
 
 ---
 
@@ -335,7 +337,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 711 • ⏱️ 22:53 • 21h ago
+👁️ 20K • 👍 711 • ⏱️ 22:53 • 22h ago
 
 ---
 
@@ -345,7 +347,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 11K • 👍 553 • 💬 95 • ⏱️ 14:04 • 19h ago
+👁️ 11K • 👍 553 • 💬 95 • ⏱️ 14:04 • 20h ago
 
 ---
 
@@ -355,7 +357,7 @@ Nick Valdez looks at what will trigger volatility for Bitcoin this weekend. Betw
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 143 • 💬 33 • ⏱️ 5:32 • 5h ago
+👁️ 2K • 👍 143 • 💬 33 • ⏱️ 5:32 • 6h ago
 
 ---
 
@@ -385,7 +387,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://
 
 📺 Discover Crypto
 
-👁️ 12K • 👍 172 • 💬 13 • ⏱️ 0:48 • 18h ago
+👁️ 12K • 👍 172 • 💬 13 • ⏱️ 0:48 • 19h ago
 
 ---
 
