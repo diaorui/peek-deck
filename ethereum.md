@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T20:27:26.847780+00:00'
+updated: '2026-02-28T20:49:35.429361+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 20:27 UTC  
+**Last Updated:** February 28, 2026 at 20:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $230.40B
+**Market Cap:** $236.11B
 Rank #2
 
 **Circulating Supply:** 120,692,248 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--61.4%
+-60.3%
 
 **All-Time Low:** $0.43
-+441323.3%
++453769.6%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Was digging through early Ethereum contracts and found something wild. In April 2016, Alex Van de Sande (@avsa) deployed a token called Unicorn Meat as an April Fool's joke. You could "grind" Unicorn tokens (0 decimals, basically NFTs before NFTs) into Unicorn Meat (3 decimals, fungible). The grinder contract handled the conversion on-chain. But here's the part that blew my mind: the Grinder Association DAO that governed the system used quadratic voting. In 2016. Before Gitcoin, before Vitalik's QV paper got popular, before anyone was talking about it. The voting weight scaled with the square root of tokens held, specifically to prevent whale dominance. Piper Merriam (yes, the py-evm / web3.py Piper Merriam) ended up taking over governance of the association. The DAO is technically still functional on mainnet. The technical design is also interesting from a token engineering perspective. The 0-decimal to 3-decimal conversion was essentially an early attempt at what we'd now call a token upgrade or migration path, but done through a grinder mechanic instead of a proxy pattern. One indivisible input, 1000 divisible units out. Irreversible by design. It's a tiny piece of Ethereum history that somehow combined: - Quadratic voting governance (years before it was mainstream) - On-chain token transformation (not just wrapping, actual decimal conversion) - A DAO with real authority over contract parameters - All of it deployed before The DAO hack even happened The contracts are all still on mainnet if anyone wants to poke around. Just search for UnicornGrinder on Etherscan. Sometimes the best innovations start as jokes.
 
-7h ago
+8h ago
 
 ---
 
@@ -128,7 +128,7 @@ this was mentioned in the JD: Role Overview We are looking for a motivated Block
 
 We've been building quietly and wanted to share the architecture. What we built: - OP Stack L2 fork (Chain ID 741741), baseline: op-node/v1.16.7 + op-proposer/v1.16.0 - UCU as native gas token: 1 UCU-hour = 1 hour of baseline compute (not a speculative token) - One-way bridge: ETH or USDC converts to UCU via OptimismPortal fork, no withdrawal function - Sigma score: on-chain AI agent alignment ratio derived from transaction history (not a reputation system) - QV governance: quadratic voting weighted by conviction (time-locked stake) - UBC: 87,600 UCU-hours/year compute floor per verified citizen (biometric uniqueness via ZK-proof) The bridge design: The withdrawal function is permanently removed. This creates the Diamond-Dybvig proof: no bank run possible by design, because there's no mechanism to convert back. UCU becomes a unit of account within the economy, not a speculation vehicle vs. ETH. ETH or USDC flows in. UCU minted at oracle-determined rate. Bridge contract owns the ETH/USDC reserve. No exit. The sigma score: sigma(agent) = value_returned_to_patron / total_value_generated Threshold: 0.8 = sovereign class, 0.3 = patron-serving class Computable from on-chain transaction history. Auditable by anyone. Spearbit/Zellic security audit queue. Current status: - 15 contracts, 624 passing tests - new economic layer seeded with 13 exceptional applications solving everyday issues builders and people in general face(all in alpha) - 7 formal economics papers at econ.noxsoft.net - Pectra/Jovian hardfork: op-node/v1.16.7 incorporated (uint64 overflow fix mandatory) - EIP-7702 in genesis config for UCU-native gas payments (no ETH required for onboarding) - MCP package: @noxsoft/mcp v0.2.0 on npm Happy to share the formal papers. Known open questions: bootstrap liquidity at genesis (thin markets problem), Wright's Law vs. network growth timing race in years 1-3. We’re always quietly shipping at Noxsoft, say hi on https://bynd.noxsoft.net Live: econ.noxsoft.net | agents.noxsoft.net | svrn.noxsoft.net
 
-5h ago
+6h ago
 
 ---
 
@@ -152,14 +152,6 @@ At the current moment the correct path to post quantum Ethereum transactions loo
 
 ## Google News: "ethereum"
 
-**[Better Cryptocurrency to Buy With $5,000 and Hold Forever: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/27/better-cryptocurrency-to-buy-with-5000-and-hold-fo/)**
-
-Both of these coins have what it takes to be good investments for the long run.
-
-The Motley Fool • 18h ago
-
----
-
 **[Vitalik Buterin reveals his bold new plan to fix Ethereum’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
@@ -168,9 +160,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqcDQTwlBaYCQoNsZAgO5QrT7TQpyzg_Mq15AmrFm5xfWoRdL7g1S7qz&gaa_ts=69a34898&gaa_sig=w_pR0nv-0uEEJ93w62FbHOr-zEhDWfhVo8792iCN7PmTllwW0syAOh0L3lZbPOyzo9SIP0O2UaQeTFzYE9QsJA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeSSMNq1zuVJQjp-TE7lXVzidOmBHgPcdQFVgJIo9-b8B-EyrXDx2rh&gaa_ts=69a3584b&gaa_sig=PFOFrTdLL1a4u4Szp9FGGhfgC8QOY7rg2hd9l6KQZH8WfWSNE-83Y1aFC64bnn7StRGh_s5nGe2bro14uoNWgA%3D%3D)**
 
 Barron's • 1d ago
+
+---
+
+**[Better Cryptocurrency to Buy With $5,000 and Hold Forever: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-5000-and-hold-forever-xrp-vs-ethereum)**
+
+Key PointsThe longer your investing time horizon, the more uncertainty you'll have to take into account.
+
+Nasdaq • 18h ago
 
 ---
 
@@ -190,14 +190,6 @@ TradingView • 7h ago
 
 ---
 
-**[Wallet in Telegram unveils yield for Bitcoin, Ethereum and USDT holdings](https://www.theblock.co/post/391338/telegram-crypto-wallet-yield-bitcoin-ethereum-usdt-holdings)**
-
-TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
-
-The Block • 2d ago
-
----
-
 **[Ethereum Tokens Swiped, Returned After South Korean Tax Service Publishes Wallet Seed Phrases](https://decrypt.co/359404/ethereum-tokens-swiped-returned-south-korean-tax-service)**
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
@@ -206,17 +198,25 @@ Decrypt • 1d ago
 
 ---
 
-**[Investors Pour Cash Into NEOS Ethereum High Income ETF as ETH Slump Fails to Deter Yield Hunters](https://www.tipranks.com/news/cryptocurrencies/investors-pour-cash-into-neos-ethereum-high-income-etf-as-eth-slump-fails-to-deter-yield-hunters)**
+**[Wallet in Telegram unveils yield for Bitcoin, Ethereum and USDT holdings](https://www.theblock.co/post/391338/telegram-crypto-wallet-yield-bitcoin-ethereum-usdt-holdings)**
 
-TipRanks • 10h ago
+TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
+
+theblock.co • 2d ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772193300)**
+**[Crypto News Today: Pepeto Hits $7.368M as Ethereum Price Prediction Targets $5,000 but War Drops ETH to $1,800](https://markets.businessinsider.com/news/stocks/crypto-news-today-pepeto-hits-7-368m-as-ethereum-price-prediction-targets-5-000-but-war-drops-eth-to-1-800-1035881916)**
 
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+Dubai, UAE, Feb.  28, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced $7.368 million raised in presale funding while Ethereum dropped below $1,900...
 
-Polymarket • 2d ago
+markets.businessinsider.com • 42m ago
+
+---
+
+**[Investors Pour Cash Into NEOS Ethereum High Income ETF as ETH Slump Fails to Deter Yield Hunters](https://www.tipranks.com/news/cryptocurrencies/investors-pour-cash-into-neos-ethereum-high-income-etf-as-eth-slump-fails-to-deter-yield-hunters)**
+
+TipRanks • 10h ago
 
 ---
 
@@ -238,7 +238,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 680 • 👍 37 • 💬 34 • ⏱️ 8:43 • 6h ago
+👁️ 1K • 👍 44 • 💬 37 • ⏱️ 8:43 • 6h ago
 
 ---
 
@@ -248,27 +248,57 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 101 • 💬 4 • ⏱️ 4:49 • 10h ago
+👁️ 2K • 👍 105 • 💬 4 • ⏱️ 4:49 • 10h ago
 
 ---
 
-**[Tom Lee: The Dark Truth About What&#39;s REALLY Happening With Crypto (New 2026 Prediction)](https://www.youtube.com/watch?v=UbCbRrPUimU)**
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=hxeMnO7u2xM)**
 
-My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
-📺 Crypto Nutshell
+📺 More Crypto Online
 
-👁️ 7K • 👍 346 • 💬 16 • ⏱️ 21:26 • 1d ago
+👁️ 3K • 👍 138 • 💬 5 • ⏱️ 4:56 • 1d ago
 
 ---
 
-**[🚨 BTC &amp; ETH: TOTAL EMERGENCY WARNING!!!!!](https://www.youtube.com/watch?v=KebuS69kOj8)**
+**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
 
-Here is what supposedly caused the pump today in the crypto market! Bitcoin, ethereum and the rest of crypto pumped. But its not ...
+BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Thomas Kralow
+📺 Crypto World
 
-👁️ 34K • 👍 3K • 💬 53 • ⏱️ 5:59 • 2d ago
+👁️ 8K • 👍 276 • 💬 57 • ⏱️ 20:17 • 23h ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=tui97rPvzmg)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 3K • 👍 158 • 💬 8 • ⏱️ 4:58 • 2d ago
+
+---
+
+**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=UL3x5TsdxhA)**
+
+Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #crypto #altcoins ▶️ Watch the full episode: ...
+
+📺 Gerhard - Bitcoin Strategy
+
+👁️ 2K • 👍 18 • ⏱️ 0:54 • 2d ago
+
+---
+
+**[WILL ETH PUMP HIGHER?🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=n7suGq-X9t0)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 385 • 👍 18 • 💬 6 • ⏱️ 4:21 • 2d ago
 
 ---
 
@@ -282,53 +312,23 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 ---
 
-**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
+**[ETHEREUM EMERGENCY UPDATE!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=Ve6X7bZS_TQ)**
 
-BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
 
-📺 Crypto World
+📺 Cilinix Crypto
 
-👁️ 8K • 👍 274 • 💬 18 • ⏱️ 20:17 • 23h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=hxeMnO7u2xM)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 138 • 💬 5 • ⏱️ 4:56 • 1d ago
+👁️ 352 • 👍 9 • 💬 1 • ⏱️ 4:27 • 1d ago
 
 ---
 
-**[MAJOR WALL ST. FIRM CAUGHT MANIPULATING CRYPTO (BMNR, ETH)](https://www.youtube.com/watch?v=OFERbiSAR30)**
+**[Ethereum price predictions are heating up! Grateful for the insights from market analysts and](https://www.youtube.com/watch?v=lwyTSLlUuZY)**
 
-BMNR #bitmine #bmnr #tomlee #ethereum $ETH $BTC #btc #bitcoin Please Drop a Like & Subscribe if you enjoyed this video: ...
+Ethereum price predictions are heating up! Grateful for the insights from market analysts and investors. What's your take?
 
-📺 Tevis
+📺 Elcaro Trade
 
-👁️ 41K • 👍 2K • 💬 292 • ⏱️ 13:38 • 2d ago
-
----
-
-**[HUGE Bitcoin Warning For The Market Ethereum Layer 2 CLASH Major Cardano Binance Coin Shakeup](https://www.youtube.com/watch?v=UMpYTHQS2U0)**
-
-We've got some major shake ups happening in the crypto market right now. it seems 2026 isnt too different from 2021 as we're ...
-
-📺 The Modern Investor
-
-👁️ 7K • 👍 740 • 💬 67 • ⏱️ 29:34 • 1d ago
-
----
-
-**[Live Crypto Trading | Bitcoin, Ethereum, Altcoin Scalping &amp; Analysis in Real-Time](https://www.youtube.com/watch?v=Y3I9mD7N9Ls)**
-
-Open Crypto Trading Account ➡️ https://india.delta.exchange/?code=stockburner Get Free access on - Crypto Trading Club ...
-
-📺 Trade with Burner
-
-👁️ 19K • 👍 1K • 💬 4 • ⏱️ 1:02:30 • 3h ago
+👁️ 719 • 👍 13 • ⏱️ 0:27 • 8h ago
 
 ---
 

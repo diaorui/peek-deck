@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T20:27:26.833346+00:00'
+updated: '2026-02-28T20:49:35.411222+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- news
-- repositories
 - social
+- videos
+- repositories
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 20:27 UTC  
+**Last Updated:** February 28, 2026 at 20:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, hours after Defense Secretary Pete Hegseth declared the company a supply chain risk to national security, which restricts military contractors from doing business with the AI giant. Amodei called the move "retaliatory and punitive," and he said Anthropic sought to draw "red lines" in the government's use of its technology because "we believe that crossing those lines is contrary to American values, and we wanted to stand up for American values."
 
-🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 1h ago
+🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 2h ago
 
 ---
 
@@ -55,7 +55,7 @@ Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, ho
 
 Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 28m ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 50m ago
 
 ---
 
@@ -79,7 +79,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-43m ago
+1h ago
 
 ---
 
@@ -133,15 +133,25 @@ CNBC • 23h ago
 
 ---
 
+**[Mining stocks are the new market darlings, fueled by geopolitical risks and AI demand](https://finance.yahoo.com/news/mining-stocks-are-the-new-market-darlings-fueled-by-geopolitical-risks-and-ai-demand-173005780.html)**
+
+Mining stocks are rising as the sector becomes a strategic long-term asset for investors.
+
+Yahoo Finance • 3h ago
+
+---
+
 **[Florida has it right: No handouts for AI robber barons](https://thehill.com/opinion/technology/5758955-big-tech-florida-regulation/)**
 
 The Hill • 2h ago
 
 ---
 
-**[Pentagon reaches deal with OpenAI amid Anthropic beef](https://thehill.com/policy/technology/5760495-pentagon-deal-openai-trump-hegseth-anthropic/)**
+**[Anthropic CEO Dario Amodei says 'we are patriotic Americans' committed to defending the U.S.](https://fortune.com/2026/02/28/anthropic-ceo-dario-amodei-patriotic-americans-trump-hegseth-mass-surveillance-autonomous-weapons/)**
 
-The Hill • 3h ago
+"I believe we have to defend our country from autocratic adversaries like China and like Russia."
+
+Fortune • 1h ago
 
 ---
 
@@ -161,6 +171,14 @@ The Guardian • 10h ago
 
 ---
 
+**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
+
+The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
+
+NBC News • 8h ago
+
+---
+
 **[Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey)**
 
 Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
@@ -169,27 +187,11 @@ CNN • 1d ago
 
 ---
 
-**[Nvidia plans new chip to speed AI processing, WSJ reports](https://finance.yahoo.com/news/nvidia-plans-chip-speed-ai-032246645.html)**
+**[Brady Tkachuk miffed over White House AI-doctored video](https://www.espn.com/nhl/story/_/id/48044958/brady-tkachuk-miffed-white-house-ai-doctored-video)**
 
-Nvidia plans to launch a new processor designed to help OpenAI and other customers build faster, ‌more efficient AI systems, the Wall Street Journal reported ‌on Friday, citing people familiar with the matter.  Nvidia is developing a new system ​for "inference" computing, a form of processing that allows AI models to respond to queries, the report said.  The new platform is set to be unveiled at Nvidia’s GTC developer conference in San Jose next ‌month and will incorporate ⁠a chip designed by startup Groq, the report added citing people familiar.
+Brady Tkachuk said he didn't appreciate the AI-doctored video released by the White House that made it appear he was disparaging Canadians.
 
-Yahoo Finance • 7h ago
-
----
-
-**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
-
-From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
-
-Fortune • 10h ago
-
----
-
-**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
-
-The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
-
-NBC News • 8h ago
+ESPN • 2d ago
 
 ---
 
@@ -215,7 +217,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 271 • 💬 154 • 7h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 271 • 💬 154 • 8h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -277,33 +279,43 @@ Have it your way?
 
 ## YouTube Videos: "ai"
 
-**[The AI Collapse Is MUCH Worse Than You Think](https://www.youtube.com/watch?v=jhDfq9sj-u8)**
-
-Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about the AI crisis, the 2026 economy, and how you ...
-
-📺 Graham Stephan
-
-👁️ 158K • 👍 7K • 💬 632 • ⏱️ 15:25 • 23h ago
-
----
-
 **[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
 
 Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 24K • 👍 3K • 💬 524 • ⏱️ 14:41 • 5h ago
+👁️ 51K • 👍 5K • 💬 752 • ⏱️ 14:41 • 5h ago
 
 ---
 
-**[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
+**[SEEDANCE 2.0 !! 3 New UNCENSORED AI Video Generators That Are Actually FREE &amp; UNLIMITED](https://www.youtube.com/watch?v=2gDkDwqYZzY)**
 
-AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
+3 New UNCENSORED AI Video Generators That Are Actually FREE & UNLIMITED In this video, I reveal two powerful methods to ...
 
-📺 CNBC
+📺 Brain Project
 
-👁️ 9K • 👍 385 • 💬 68 • ⏱️ 39:40 • 4h ago
+👁️ 2K • 👍 121 • 💬 43 • ⏱️ 13:05 • 5h ago
+
+---
+
+**[The AI Collapse Is MUCH Worse Than You Think](https://www.youtube.com/watch?v=jhDfq9sj-u8)**
+
+Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about the AI crisis, the 2026 economy, and how you ...
+
+📺 Graham Stephan
+
+👁️ 166K • 👍 7K • 💬 660 • ⏱️ 15:25 • 23h ago
+
+---
+
+**[Is AI Hiding Its Full Power? With Geoffrey Hinton](https://www.youtube.com/watch?v=l6ZcFa8pybE)**
+
+Go to https://ground.news/startalk to stay fully informed on the latest Space and Science news. Save 40% off through our link for ...
+
+📺 StarTalk
+
+👁️ 22K • 👍 2K • 💬 360 • ⏱️ 1:33:33 • 3h ago
 
 ---
 
@@ -313,37 +325,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 247K • 👍 8K • 💬 411 • ⏱️ 11:55 • 2d ago
+👁️ 253K • 👍 8K • 💬 433 • ⏱️ 11:55 • 2d ago
 
 ---
 
-**[Which AI Video Generator Should You Buy?](https://www.youtube.com/watch?v=TsInnOh9nYw)**
+**[Anthropic CEO on &quot;red lines&quot; for AI military use: &quot;We wanted to stand up for American values&quot;](https://www.youtube.com/watch?v=QFDz6q-Qthk)**
 
-Access Every AI Video Model Inside OpenArt https://youricreates.com/openart In this video, I break down which AI video ...
+Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the AI company sought to draw "red lines" in the ...
 
-📺 Youri van Hofwegen
+📺 CBS News
 
-👁️ 4K • 💬 12 • ⏱️ 12:12 • 4h ago
-
----
-
-**[Anthropic AI Destroys $31 Billion of IBM Value—The AI Corporate Bloodbath Has Begun](https://www.youtube.com/watch?v=ZLEKvSb0DdA)**
-
-On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI is sending through the world's biggest ...
-
-📺 Tom Bilyeu Clips
-
-👁️ 17K • 👍 351 • 💬 67 • ⏱️ 8:38 • 1d ago
-
----
-
-**[Economist explains what happens after AI takes all jobs](https://www.youtube.com/watch?v=qflh4GKbmVQ)**
-
-Anton Korinek talks about the effects of automation on wages and labor, how we measure the complexity of tasks, the economics ...
-
-📺 Future of Life Institute
-
-👁️ 54K • 👍 1K • 💬 593 • ⏱️ 22:41 • 2d ago
+👁️ 32K • 👍 751 • 💬 250 • ⏱️ 1:10 • 15h ago
 
 ---
 
@@ -353,17 +345,27 @@ Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookL
 
 📺 Matt Wolfe
 
-👁️ 47K • 👍 2K • 💬 174 • ⏱️ 33:50 • 1d ago
+👁️ 49K • 👍 2K • 💬 180 • ⏱️ 33:50 • 1d ago
 
 ---
 
-**[3Fourteen&#39;s Warren Pies: AI having an impact on labor, &#39;it is absolutely a big deal&#39; for markets](https://www.youtube.com/watch?v=eVxftUvKF7E)**
+**[Economist explains what happens after AI takes all jobs](https://www.youtube.com/watch?v=qflh4GKbmVQ)**
 
-Warren Pies, 3Fourteen Ventures, joins 'Closing Bell Overtime' to talk why he is bearish on the markets due to the impact of AI on ...
+Anton Korinek talks about the effects of automation on wages and labor, how we measure the complexity of tasks, the economics ...
 
-📺 CNBC Television
+📺 Future of Life Institute
 
-👁️ 10K • 👍 65 • 💬 30 • ⏱️ 5:37 • 22h ago
+👁️ 56K • 👍 1K • 💬 602 • ⏱️ 22:41 • 2d ago
+
+---
+
+**[Disturbing Things Said By AI (Part 2)](https://www.youtube.com/watch?v=JGC5GpogfCI)**
+
+shorts #AI #disturbing.
+
+📺 Built By Gamers
+
+👁️ 19K • 👍 450 • 💬 11 • ⏱️ 0:27 • 14h ago
 
 ---
 
@@ -373,7 +375,7 @@ Download Raoul Pal's 4-year investing roadmap for free:* https://rvtv.io/41fVHWF
 
 📺 Raoul Pal The Journey Man
 
-👁️ 32K • 👍 1K • 💬 103 • ⏱️ 1:11:08 • 2d ago
+👁️ 33K • 👍 1K • 💬 106 • ⏱️ 1:11:08 • 2d ago
 
 ---
 
@@ -389,7 +391,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 378,228 • ❤️ 675 • 1d ago
+⬇️ 378,228 • ❤️ 677 • 1d ago
 
 ---
 
@@ -401,7 +403,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 172,154 • ❤️ 434 • 3d ago
+⬇️ 172,154 • ❤️ 436 • 3d ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 356 • 1d ago
+⬇️ 350,233 • ❤️ 359 • 1d ago
 
 ---
 
@@ -449,7 +451,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 310,641 • ❤️ 902 • 2d ago
+⬇️ 310,641 • ❤️ 904 • 2d ago
 
 ---
 
@@ -485,7 +487,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 305,031 • ❤️ 1,038 • 12d ago
+⬇️ 305,031 • ❤️ 1,039 • 12d ago
 
 ---
 
@@ -523,7 +525,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 7 • 💬 0 • ⭐ 6,034 • 16mo ago
+▲ 7 • 💬 0 • ⭐ 6,182 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
@@ -535,7 +537,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 9 • 💬 1 • ⭐ 8,603 • 23mo ago
+▲ 9 • 💬 1 • ⭐ 8,684 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -563,7 +565,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 38 • 💬 1 • ⭐ 71,484 • 30mo ago
+▲ 38 • 💬 1 • ⭐ 71,515 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -577,7 +579,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 204 • 💬 13 • ⭐ 4,310 • 29d ago
+▲ 204 • 💬 13 • ⭐ 4,348 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -641,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.1k • 🔱 2.6k • 1h ago
+⭐ 21.1k • 🔱 2.6k • 6m ago
 
 ---
 
@@ -659,7 +661,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.9k • 🔱 712 • 16h ago
+⭐ 5.9k • 🔱 712 • 17h ago
 
 ---
 
@@ -689,7 +691,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 475 • 18h ago
+⭐ 3.6k • 🔱 477 • 18h ago
 
 ---
 
@@ -699,7 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.0k • 🔱 234 • 7h ago
+⭐ 3.0k • 🔱 235 • 8h ago
 
 ---
 
@@ -719,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 212 • 6h ago
+⭐ 2.9k • 🔱 212 • 47m ago
 
 ---
 
@@ -729,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 556 • 10h ago
+⭐ 2.9k • 🔱 558 • 11h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T20:27:26.850990+00:00'
+updated: '2026-02-28T20:49:35.434481+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 20:27 UTC  
+**Last Updated:** February 28, 2026 at 20:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-7h ago
+8h ago
 
 ---
 
@@ -58,13 +58,13 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-1h ago
+2h ago
 
 ---
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -86,13 +86,13 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-17h ago
+18h ago
 
 ---
 
 **[Commission request: Custom InMoov i2Head build](https://www.reddit.com/r/robotics/comments/1rhbk2k/commission_request_custom_inmoov_i2head_build/)**
 
-59m ago
+1h ago
 
 ---
 
@@ -100,13 +100,19 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
 
-8h ago
+9h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
+
+**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+
+Tech Xplore • 1d ago
+
+---
 
 **[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
 
@@ -124,14 +130,6 @@ CNBC • 7h ago
 
 ---
 
-**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
-
-Intrinsic is focused on making robots easier to program, teach, and operate.
-
-The Verge • 2d ago
-
----
-
 **[Alphabet-owned robotics software company Intrinsic joins Google](https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/)**
 
 Nearly five years after graduating into an independent Alphabet company, Intrinsic is moving under Google's domain.
@@ -140,9 +138,11 @@ TechCrunch • 3d ago
 
 ---
 
-**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+**[Google takes control of ‘Android of robotics’ project in quest for physical AI](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)**
 
-Tech Xplore • 1d ago
+Intrinsic is focused on making robots easier to program, teach, and operate.
+
+The Verge • 2d ago
 
 ---
 
@@ -154,17 +154,9 @@ BMW Group • 1d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfI_qCLPT1qCvsvXMFKEX4xPSIDgx0rYmofFsrVimgdRQwKGaicAWmp&gaa_ts=69a3489a&gaa_sig=9CRZsuQ1phJ8o5sXokqRYXQCY1VDgAT83iExY3OkPeLkM-Yb1q2viK8sshKdXViQr0ylJll3KA_fcz758LsThg%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfygb5MPxZE6HC_0VfOu6gfIdNdzPGLRGyUTzovGHo5EwPgXhZ-ZLuH&gaa_ts=69a3584e&gaa_sig=TqLwRaDsQngyE_nJ-iVwN73CGxA78h3OW2gREz7zGBd0B5ZW3_RKNUJdFrpWXPz73Vshsk_BOFP3bVNkd_TrLw%3D%3D)**
 
 WSJ • 22h ago
-
----
-
-**[Rise of robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.autonews.com/hyundai/ane-hyundai-robots-tesla-atlas-optimus-0227/)**
-
-While the world’s attention has been fixated on Elon Musk’s model and the high-stakes AI race between the U.S. and China, Hyundai has emerged as a leader in humanoid robots.
-
-Automotive News • 1d ago
 
 ---
 
@@ -182,6 +174,14 @@ Financial Times • 1d ago
 
 ---
 
+**[BMW intensifies humanoid robot push with test project in Germany after U.S. success](https://www.autonews.com/bmw/ane-bmw-humanoid-robot-leipzig-germany-0227/)**
+
+BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
+
+Automotive News • 1d ago
+
+---
+
 ---
 
 ## YouTube Videos: "robotics"
@@ -192,17 +192,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 157K • 👍 2K • 💬 331 • ⏱️ 14:16 • 5d ago
-
----
-
-**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
-
-Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
-
-📺 NBC News
-
-👁️ 61K • 👍 922 • 💬 269 • ⏱️ 12:16 • 1d ago
+👁️ 159K • 👍 2K • 💬 333 • ⏱️ 14:16 • 5d ago
 
 ---
 
@@ -212,7 +202,17 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 8K • 👍 266 • 💬 100 • ⏱️ 13:15 • 18h ago
+👁️ 9K • 👍 283 • 💬 106 • ⏱️ 13:15 • 18h ago
+
+---
+
+**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
+
+Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
+
+📺 NBC News
+
+👁️ 64K • 👍 968 • 💬 278 • ⏱️ 12:16 • 1d ago
 
 ---
 
@@ -222,7 +222,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 51K • 👍 285 • 💬 112 • ⏱️ 2:18 • 2d ago
+👁️ 54K • 👍 291 • 💬 112 • ⏱️ 2:18 • 2d ago
 
 ---
 
@@ -236,23 +236,13 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
-
-China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
-
-📺 Cyrus Janssen
-
-👁️ 239K • 👍 7K • 💬 981 • ⏱️ 11:41 • 3d ago
-
----
-
 **[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
 
 📺 NBC Bay Area
 
-👁️ 117K • 👍 2K • 💬 1K • ⏱️ 7:18 • 4d ago
+👁️ 118K • 👍 2K • 💬 1K • ⏱️ 7:18 • 4d ago
 
 ---
 
@@ -262,7 +252,17 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 19K • 👍 552 • 💬 13 • ⏱️ 0:35 • 20h ago
+👁️ 21K • 👍 593 • 💬 13 • ⏱️ 0:35 • 20h ago
+
+---
+
+**[From trial to scale: How China trains humanoid robots](https://www.youtube.com/watch?v=JzDbD8XmPA4)**
+
+As China enters the first year of its 15th Five-Year Plan, what once seemed futuristic is quickly becoming reality. Embodied ...
+
+📺 CGTN
+
+👁️ 19K • 👍 147 • 💬 14 • ⏱️ 5:27 • 1d ago
 
 ---
 
@@ -272,17 +272,17 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 200K • 👍 2K • 💬 681 • ⏱️ 0:55 • 2d ago
+👁️ 217K • 👍 2K • 💬 699 • ⏱️ 0:55 • 2d ago
 
 ---
 
-**[AI roundup: Thrilling Agent releases, Nano Banana 2 &amp; Robotics!](https://www.youtube.com/watch?v=4uopGLxi_fE)**
+**[Audi Deploys Humanoid Robot Hands With Mimic Robotics Inside Its Factory](https://www.youtube.com/watch?v=sMh6vT-wfkY)**
 
-AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gauth: ...
+Audi has officially deployed humanoid robot hands in partnership with Mimic Robotics, bringing artificial intelligence driven ...
 
-📺 MattVidPro
+📺 DPCcars
 
-👁️ 3K • 👍 192 • 💬 17 • ⏱️ 18:44 • 21h ago
+👁️ 104 • 👍 14 • 💬 2 • ⏱️ 2:50 • 1h ago
 
 ---
 
