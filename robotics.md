@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T17:45:14.857727+00:00'
+updated: '2026-02-28T18:35:17.848058+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 17:45 UTC  
+**Last Updated:** February 28, 2026 at 18:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-50m ago
+1h ago
 
 ---
 
@@ -50,13 +50,13 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-6h ago
+7h ago
 
 ---
 
 **[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -64,7 +64,7 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-11h ago
+12h ago
 
 ---
 
@@ -78,7 +78,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 Hey Reddit! Super excited to share something I've been working on: HoloMotion, a hand-controlled 3D particle system! Basically, I used AI to enable real-time hand tracking, letting you interact with 3D particles right from your webcam. It's been a wild ride getting the camera access and AI working seamlessly, but super rewarding to see it all come together. Here's a quick rundown of how you control it: ✋ Open/Close Hand: Expands or shrinks the particles. 🤏 Pinch (Thumb + Index): Switches between different 3D shape templates. ↔️ Move Left/Right: Changes the colors of the particles. 🔄 Move Hand (overall): Rotates the entire 3D system. It's been a ton of fun building this, especially seeing the "holographic" interaction come to life. I'd love for you to check it out and tell me what you think! Processing img maq3hfqk18mg1... Link to project: https://hackerpgx.github.io/HoloMotion/
 
-6h ago
+7h ago
 
 ---
 
@@ -102,7 +102,7 @@ Just a quick share from our team. We’ve been training this bipedal robot recen
 
 Serious Question. Been considering deigning a back drivable actuator that uses STS protocol and a brushed DC motor (similar to feetech servos) instead of a brushless motor. I wanted to create a cheaper option for back drivable joints in hobbyist robotics project. But I also want to get a more experienced opinion first. Would it even be worth it? Other than motor efficiency, what would be the drawbacks or reasons why I should not pursue?
 
-2h ago
+3h ago
 
 ---
 
@@ -124,11 +124,11 @@ Los Angeles Times • 3d ago
 
 ---
 
-**[Former Alphabet 'moonshot' robotics company Intrinsic is folding into Google](https://www.cnbc.com/2026/02/25/alphabet-robotics-software-intrinsic-google-ai.html)**
+**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
 
-Instrinsic will use Gemini models and Cloud and work closely with Google DeepMind.
+In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 2d ago
+CNBC • 5h ago
 
 ---
 
@@ -148,9 +148,9 @@ TechCrunch • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqd44-ry2fc1aK9altX4RMX1YTCVRf4CstGzEgcE_WSuEknZpsqI_5Zd&gaa_ts=69a32080&gaa_sig=R7qzoIJ4EZS_dqu_KrFQv9bDanSwcFpb9p90DiPfKbU1pRndFrOOrSW-gBpEPfAeLxt5OMqNDdDqJSI3AkXS2g%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfeCuLQ5eHO3_L4g63cwbE_Lqpl37nJVMfJt-tQAQZ_p7vB-SxjZEgf&gaa_ts=69a338d3&gaa_sig=sEGo7Dm6mPHfVOYhAoJDrlvEwgTVme61HXaibskHC3UzDMpXK1V0e4wFS_ZF8ZYlfo9AJq0E6p3Df3eQ9yumKA%3D%3D)**
 
-WSJ • 19h ago
+WSJ • 20h ago
 
 ---
 
@@ -164,7 +164,7 @@ Automotive News • 1d ago
 
 **[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-Bloomberg • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
@@ -176,9 +176,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Rise of the robots pits Hyundai’s Atlas against Musk’s Optimus](https://www.msn.com/en-us/money/other/ar-AA1X9HSK)**
+**[DoorDash Launching Its Delivery Robots In Fremont, Because Maybe People There Will Complain Less](https://sfist.com/2026/02/27/doordash-launching-its-delivery-robots-in-fremont-because-maybe-people-there-would-complain-less/)**
 
-MSN • 19h ago
+DoorDash’s longtime dream of cutting paid human beings out of the delivery process is one step closer to reality, as they’re debuting their little robots to do food deliveries, but at first only in Fremont.
+
+SFist • 17h ago
 
 ---
 
@@ -186,81 +188,33 @@ MSN • 19h ago
 
 ## YouTube Videos: "robotics"
 
-**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
-
-Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
-
-📺 NBC News
-
-👁️ 59K • 👍 883 • 💬 262 • ⏱️ 12:16 • 1d ago
-
----
-
-**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
-
-German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
-
-📺 DPCcars
-
-👁️ 219K • 👍 1K • 💬 695 • ⏱️ 1:27 • 1d ago
-
----
-
-**[Building the Cricket Drive MK II ⚙️](https://www.youtube.com/watch?v=KDRDGs3OGZg)**
-
-Full metal construction, hard anodized components, bearing steel rollers, and a refined disc profile that delivers smoother, more ...
-
-📺 Sweep Dynamics
-
-👁️ 48K • 👍 1K • 💬 22 • ⏱️ 0:39 • 2d ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 115K • 👍 2K • 💬 1K • ⏱️ 7:18 • 4d ago
-
----
-
-**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
-
-Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
-
-📺 Reuters
-
-👁️ 189K • 👍 2K • 💬 647 • ⏱️ 0:55 • 2d ago
-
----
-
-**[welding robot #automation #machine #industrialrobots #welding #robot](https://www.youtube.com/watch?v=wEw57uXXaXg)**
-
-📺 Robot Julie 
-
-👁️ 27K • 👍 111 • 💬 3 • ⏱️ 0:21 • 17h ago
-
----
-
-**[Dye Rotor Hopper | 3184 Blaze Robotics | Pit Stop](https://www.youtube.com/watch?v=ciNX09GJMuc)**
-
-3184 Blaze Robotics | Pit Stop 3184 Blaze Robotics showcases their dye rotor hopper and shooting system for their REBUILT ...
-
-📺 FUN Robotics Network
-
-👁️ 8K • 👍 294 • 💬 8 • ⏱️ 1:28 • 2d ago
-
----
-
 **[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
 
 Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
 
 📺 AI Revolution
 
-👁️ 156K • 👍 2K • 💬 331 • ⏱️ 14:16 • 5d ago
+👁️ 157K • 👍 2K • 💬 331 • ⏱️ 14:16 • 5d ago
+
+---
+
+**[Tom Llamas meets humanoid robot &#39;Sprout.&#39; How this technology could soon become a family fixture](https://www.youtube.com/watch?v=XbAOMqkKLGU)**
+
+Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly companion for homes and social spaces.
+
+📺 NBC News
+
+👁️ 61K • 👍 922 • 💬 269 • ⏱️ 12:16 • 1d ago
+
+---
+
+**[The Hard Truth About Mass Robot Deployment](https://www.youtube.com/watch?v=VTbd0_n9qQA)**
+
+Tesla just shut down Model S and X lines to pivot toward Optimus production — but is this a real robotics breakthrough or a ...
+
+📺 Dumb Money Live
+
+👁️ 8K • 👍 266 • 💬 100 • ⏱️ 13:15 • 16h ago
 
 ---
 
@@ -270,17 +224,67 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 49K • 👍 280 • 💬 110 • ⏱️ 2:18 • 2d ago
+👁️ 51K • 👍 285 • 💬 112 • ⏱️ 2:18 • 2d ago
 
 ---
 
-**[The Robot That Draws Engine Blueprints with 0.01mm Precision 🖋️⚙️](https://www.youtube.com/watch?v=zCwYrtTrl8E)**
+**[China’s Humanoid Robots Just Learned to FIGHT… The World Isn’t Ready](https://www.youtube.com/watch?v=auoP7Wk_7HA)**
 
-Why print a digital file when a robot can physically draw it for you? 🖨️   This is a CNC Pen Plotter, a machine that bridges the ...
+China's humanoid robots have officially learned to fight, and the latest demonstrations show a level of power and precision the ...
 
-📺 KF Labs
+📺 The AI Nexus
 
-👁️ 88K • 👍 904 • 💬 22 • ⏱️ 0:05 • 1d ago
+👁️ 3K • 👍 109 • 💬 25 • ⏱️ 24:08 • 2d ago
+
+---
+
+**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
+
+China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
+
+📺 Cyrus Janssen
+
+👁️ 239K • 👍 7K • 💬 981 • ⏱️ 11:41 • 3d ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 117K • 👍 2K • 💬 1K • ⏱️ 7:18 • 4d ago
+
+---
+
+**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
+
+Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
+
+📺 SciVion
+
+👁️ 19K • 👍 552 • 💬 13 • ⏱️ 0:35 • 18h ago
+
+---
+
+**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
+
+Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
+
+📺 Reuters
+
+👁️ 200K • 👍 2K • 💬 681 • ⏱️ 0:55 • 2d ago
+
+---
+
+**[AI roundup: Thrilling Agent releases, Nano Banana 2 &amp; Robotics!](https://www.youtube.com/watch?v=4uopGLxi_fE)**
+
+AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gauth: ...
+
+📺 MattVidPro
+
+👁️ 3K • 👍 192 • 💬 17 • ⏱️ 18:44 • 19h ago
 
 ---
 
