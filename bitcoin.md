@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T21:43:33.880621+00:00'
+updated: '2026-02-28T22:24:10.277268+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
-- news
 - cryptocurrency
+- news
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 21:43 UTC  
+**Last Updated:** February 28, 2026 at 22:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -97,7 +97,7 @@ Based on my technical analysis, which I do have a few years of experience in, BT
 
 Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
 
-3h ago
+4h ago
 
 ---
 
@@ -111,7 +111,7 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
 
-20h ago
+21h ago
 
 ---
 
@@ -133,7 +133,7 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-14h ago
+15h ago
 
 ---
 
@@ -149,7 +149,7 @@ I know this might sound stupid question to some of you, but I'd like to ask anyw
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-15h ago
+16h ago
 
 ---
 
@@ -161,37 +161,45 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 JPMorgan said the long-awaited Clarity Act would bring regulatory clarity, boost institutional participation and accelerate tokenization across U.S. crypto markets.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
-**[Bitcoin nears $63,000 as U.S. and Israel launch strikes on Iran](https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-under-usd64-000-as-u-s-and-israel-launch-strikes-on-iran)**
+**[What next for bitcoin as Iran attacks U.S. bases? BTC likely to head lower](https://www.coindesk.com/markets/2026/02/28/bitcoin-could-see-further-downside-risks-as-iran-attacks-u-s-bases-across-middle-east)**
 
-The drop extends a pattern where bitcoin sells off on geopolitical shocks before recovering, as the token's 24/7 liquidity makes it one of the few large assets traders can exit over the weekend.
+Tehran launched waves of missiles and drones targeting Israel, U.S. bases, and Gulf allies, with explosions reported in Dubai, Kuwait, and Bahrain.
 
 CoinDesk • 11h ago
 
 ---
 
-**[Iran is using a $7.8 billion crypto shadow economy to bypass global sanctions](https://www.coindesk.com/business/2026/02/28/iran-conflict-throws-the-regime-s-usd7-8-billion-crypto-ecosystem-and-bitcoin-mining-network-into-spotlight)**
+**[Bitcoin Recovers Following Plunge as US, Israel Begin Bombing Iran](https://finance.yahoo.com/news/bitcoin-recovers-following-plunge-us-172459626.html)**
 
-The government relies on this crypto infrastructure for international trade, while ordinary Iranians use it as a financial lifeline during protests and economic crises.
+The price of Bitcoin plummeted to nearly $63,000 overnight amid U.S. and Israel strikes on Iran, but has mostly recovered in the hours since.
 
-CoinDesk • 2h ago
+Yahoo Finance • 4h ago
 
 ---
 
-**[Fake mail carrier accused of violently strangling Seattle homeowner’s wife during demand for bitcoin](https://www.king5.com/article/news/local/fake-mail-carrier-accused-of-violently-strangling-seattle-homeowners-wife-during-demand-for-bitcoin/281-2e1dbfe9-e6ad-49e9-abc2-3d78eae26bb7)**
+**[Developer embeds image on Bitcoin as a single transaction, challenging BIP-110's core claims](https://www.theblock.co/post/391667/developer-embeds-image-on-bitcoin-as-a-single-transaction-challenging-bip-110s-core-claims)**
 
-Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
+BIP-110, formerly known as BIP-444, is a controversial proposal that would restrict certain ways of storing data on the Bitcoin blockchain.
 
-KING5.com • 1d ago
+theblock.co • 1h ago
+
+---
+
+**[Here's how bitcoin's price rise could be fueled by job-stealing AI software](https://www.coindesk.com/business/2026/02/28/here-s-how-bitcoin-s-price-rise-could-be-fueled-by-job-stealing-ai-software)**
+
+Bitcoin's future hinges less on technological factors and more on how AI affects growth, employment, real interest rates, and central bank liquidity, NYDIG argues.
+
+CoinDesk • 1h ago
 
 ---
 
@@ -211,25 +219,17 @@ Fortune • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdvF7gSc78wTxF9V7a1jqvQ2-r-enHogFdmTlgaHxVCmCHeJn0IVR3l&gaa_ts=69a3584a&gaa_sig=OzBr6dh2DC6rQZOT7B0AafudzxX6zT7R2jP7qWzrts5LBF8Wg_O-_ueupBQRWjO664G50Z8WCBXLCzndueYNDg%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqemtuADuIs5y57EXBjcLL6QZI19suzl4J0k6OGTU0ZvVI3I7UXhcPnA&gaa_ts=69a36e75&gaa_sig=64lq1LzKqHnfhYEbuTmYS4MAebzRS2SRZyI2oJZomQPHEtI6D8HLnxXE8Z-nKnzPkXFmX5q--Aa2ki4FuWE2FQ%3D%3D)**
 
 Barron's • 1d ago
 
 ---
 
-**[Former Mt. Gox CEO proposes hard fork to recover $5.2 billion in bitcoin from 2011 theft](https://www.theblock.co/post/391635/former-mt-gox-ceo-proposes-hard-fork-recover-5-2-billion-bitcoin-2011-theft)**
+**[Bitcoin price news: BTC slides to $65,000, Solana, XRP, dogecoin down 6%](https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-to-usd65-000-in-weekend-sell-off-with-solana-xrp-dogecoin-down-6)**
 
-The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
+The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.
 
-theblock.co • 1d ago
-
----
-
-**[Bitcoin Needs a Huge Rally to Hit $150,000 by December -- Are Polymarket's 12% Odds Too Low, Too High, or Just About Right?](https://www.fool.com/investing/2026/02/28/bitcoin-needs-a-huge-rally-to-hit-150000-by-decemb/)**
-
-Bitcoin may have a better chance of hitting $150,000 this year than you think.
-
-The Motley Fool • 11h ago
+CoinDesk • 17h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 9K • 👍 625 • 💬 162 • ⏱️ 26:57 • 7h ago
+👁️ 9K • 👍 625 • 💬 162 • ⏱️ 26:57 • 8h ago
 
 ---
 
@@ -341,7 +341,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 21K • 👍 725 • ⏱️ 22:53 • 23h ago
+👁️ 21K • 👍 725 • ⏱️ 22:53 • 1d ago
 
 ---
 
@@ -351,7 +351,7 @@ Nick Valdez looks at what will trigger volatility for Bitcoin this weekend. Betw
 
 📺 Discover Crypto
 
-👁️ 3K • 👍 169 • 💬 34 • ⏱️ 5:32 • 7h ago
+👁️ 3K • 👍 169 • 💬 34 • ⏱️ 5:32 • 8h ago
 
 ---
 
@@ -371,7 +371,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 12K • 👍 561 • 💬 99 • ⏱️ 14:04 • 21h ago
+👁️ 12K • 👍 561 • 💬 99 • ⏱️ 14:04 • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ Want a free $30000 bonus + $20 just for signing up? Go here: ...
 
 📺 BitcoinHyper
 
-👁️ 7K • 👍 462 • 💬 34 • ⏱️ 13:10 • 10h ago
+👁️ 7K • 👍 462 • 💬 34 • ⏱️ 13:10 • 11h ago
 
 ---
 
