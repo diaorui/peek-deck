@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T18:35:17.830887+00:00'
+updated: '2026-02-28T19:21:17.073627+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
 - social
-- videos
 - repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 18:35 UTC  
+**Last Updated:** February 28, 2026 at 19:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -43,11 +43,27 @@ AI news, discussions, and developments
 
 ---
 
+**[Exclusive interview: Anthropic CEO Dario Amodei on Pentagon feud](https://www.reddit.com/r/artificial/comments/1rha87x/exclusive_interview_anthropic_ceo_dario_amodei_on/)**
+
+Anthropic CEO Dario Amodei sat down with CBS News for an exclusive interview, hours after Defense Secretary Pete Hegseth declared the company a supply chain risk to national security, which restricts military contractors from doing business with the AI giant. Amodei called the move "retaliatory and punitive," and he said Anthropic sought to draw "red lines" in the government's use of its technology because "we believe that crossing those lines is contrary to American values, and we wanted to stand up for American values."
+
+🔗 [youtu.be](https://youtu.be/MPTNHrq_4LU) • 45m ago
+
+---
+
+**[The real bottleneck for AI agents isn't capability — it's trust and identity](https://www.reddit.com/r/artificial/comments/1rhalk6/the_real_bottleneck_for_ai_agents_isnt_capability/)**
+
+Every week another company announces an AI agent that can write code, answer phones, or close tickets. The technology is commoditizing fast. In 12 months the capability gap between providers will be negligible. So what actually separates the agents that get deployed in production from the ones that stay in demos? I've been building an AI agent that runs day-to-day business operations — not as a tool, but as an autonomous operator. It handles outreach, content, client onboarding, reporting. The technical part was honestly the easy part. The hard part: getting anyone to trust it with real work. Here's what I've observed: **Capability is table stakes.** Every agent can generate text, call APIs, process data. That's not a differentiator anymore. **Identity matters more than people think.** An agent with a name, a consistent voice, and a track record gets treated differently than "the AI." People respond to it differently. They hold it accountable differently. **Context persistence is the real moat.** The agent that remembers your last 50 interactions and adapts is fundamentally different from one that starts fresh every time. This is where most agent frameworks completely fall down. **The trust gap is the real engineering problem.** Getting an AI agent to do something is easy. Getting a human to let it do something unsupervised is the actual challenge nobody talks about. I wrote a longer paper on this — the argument that narrative and identity will matter more than raw capability as agents commoditize. Curious what this community thinks. Where does this argument break down?
+
+30m ago
+
+---
+
 **[OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic](https://www.reddit.com/r/artificial/comments/1rgtjex/openai_strikes_deal_with_pentagon_after_trump/)**
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 13h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 14h ago
 
 ---
 
@@ -55,7 +71,15 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-20h ago
+21h ago
+
+---
+
+**[I built a tool to automate your workflow after recording yourself doing the task once (Open Source)](https://www.reddit.com/r/artificial/comments/1rhag6l/i_built_a_tool_to_automate_your_workflow_after/)**
+
+Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
+
+36m ago
 
 ---
 
@@ -63,7 +87,15 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
-12h ago
+13h ago
+
+---
+
+**[How I built multi-agent AI system where agents peer-review each other before I approve](https://www.reddit.com/r/artificial/comments/1rh95cl/how_i_built_multiagent_ai_system_where_agents/)**
+
+https://reddit.com/link/1rh95cl/video/0b8dqf83x9mg1/player The setup that shouldn't work but does I have 13 AI agents that work on marketing for my product. They run every 15 minutes, review each other's work, and track everything in a database. When one drafts content, others critique it before I see it. When someone gets stuck, they ping the boss agent. When something's ready or stuck, it shows up in my Telegram. It's handling all marketing for Fruityo (my AI video generation platform). Here's the architecture and how you could build something similar. The problem Most AI workflows are single-shot: ask ChatGPT → get answer → copy-paste → lose context → repeat tomorrow. That works for quick questions. It breaks down for complex work that needs: Multiple steps across days Research that builds on previous findings Different specialized perspectives (writing vs strategy vs critique) Quality review before anything ships Tracking what's done, what's blocked, what's next I needed AI that works like a team, not a chatbot, and I saw some guys on Twitter building UI's for OpenClaw agents... The architecture Infrastructure: OpenClaw - gives agents the ability to browse the web, execute commands, manage files, and interact with APIs Cron - schedules agent heartbeats Telegram - notification layer (agents ping me when something needs attention) PocketBase - database storing tasks, comments, documents, activity logs, goals Claude Max Workflow: Tasks move through states: backlog → todo → in_progress → peer_review → review → approved → done Each state has gates. Agents can't skip peer review. Boss can't approve without all reviewers signing off. I'm the only one who moves tasks to done. The team (from Westeros) Each agent has a role, specialty, and personality defined in their SOUL.md file: Agent Role What they do 🐺 Jon Snow Boss Creates tasks, coordinates workflow, and promotes peer-reviewed work to final review 🍷 Tyrion Content Writer Writes tweets, threads, blog posts, landing pages in my tone. 🕷️ Varys Researcher Web research, competitor analysis, data mining 🐉 Daenerys Strategist Campaign planning, positioning, and goal setting ⚔️ Arya Executor Publishes content, runs automation, ships work 🦅 Sansa Designer Creates design briefs, visual concepts 🗡️ Sandor Devil's Advocate Gives brutal, honest feedback, catches BS ... ... ... Why Game of Thrones names? Why not, I love GOT :) ...and personality matters. Sandor reviews content like a skeptic. Tyrion writes with wit. Varys digs for hidden data. Their SOULs define behavior - Sandor will roast bad writing, Daenerys will flag strategic misalignment. Better to have multiple specialists with distinct viewpoints than one mediocre generalist. How it actually works: The heartbeat protocol Each agent has its own OpenClaw workspace. Every agent runs a scheduled heartbeat every 10 minutes (scattered by 1 minute each to avoid hitting the DB simultaneously). What happens in a heartbeat: 1. Agent authenticates, sets status to "working" Connects to PocketBase, updates the status field so others know it's active. 2. Reviews others FIRST (highest priority) Fetches tasks where other agents need my review Reads task description, existing comments, documents they created Posts substantive feedback (what's good, what needs fixing) If work is solid → leaves approval comment If needs changes → explains exactly what's wrong This is the peer review gate. If I'm assigned to the same goal as you, I MUST review your work before it moves forward. 3. Works on own tasks Fetches my assigned tasks from DB Picks up anything in todo → moves to in_progress Does the actual work (research, write, analyze, etc.) Saves output to PocketBase documents table Posts comment explaining approach Moves task to peer_review (triggers all teammates on that goal to review) Logs activity to activity table 4. Updates working status, sets to "idle" Agent writes progress to PROGRESS.md (local state tracking), sets PocketBase status to "idle", waits for next heartbeat. Task Flow Example Goal: Grow Fruityo on socials Jon creates the task to create a post about current UGC video trends and assigns it to Varys (researcher). I approve it by moving from backlog to todo. Varys picks it up, moves to in-progress, researches, saves findings to the database, and moves to peer review. Daenerys and Tyrion review his work, suggest improvements. Varys creates new version based on feedback. Once both approve, Jon (boss) promotes the task to the review stage. I get a Telegram notification, review the research document, and approve. Task moves to done. All communication happens via comments on the task. All work is stored in the database. Context persists. The boss role: Why Jon is special Jon isn't just another agent. He has special authority: Only Jon can: Create new tasks (via scheduled cron, analyzing goals) Promote tasks from peer_review → review (after all peers approve) Reassign tasks when someone's blocked Change task priorities Jon's heartbeat is different: Checks if peer_review tasks have all approvals → promotes to review Identifies blocked tasks (stuck over 24 hours) → investigates why → escalates to me Coordinates handoffs between agents Think of it like: agents are the team, Jon is the team lead, and I am the executive. Without a coordinator, you'd have chaos - 7 agents all trying to assign work to each other with no one having the final word. Goals: How work gets organized Here's where it gets interesting. Instead of creating tasks manually every day, I define long-term goals and let Jon generate tasks automatically. A goal defines: What we're trying to achieve Which agents are assigned to it How many tasks should Jon create per day/week Example: I created a goal "Grow Fruityo twitter presence." Assigned agents: Varys (research), Tyrion (writing), Arya (publishing), Sandor (review). Told Jon to create 3 tasks per day related to this goal. Every day, Jon analyzes the goal, 15-day tasks history, creates 3 relevant tasks in the backlog ("Research trending AI video topics," "Draft thread on B-roll generation," etc.), and assigns them to the right agents. And I edit and/or just move good ones to todo. Why this matters: Selective peer review - Only agents assigned to that goal review each other's work. I can have 20+ agents in the system, but only the 4 assigned to "Twitter content" review those tasks. Saves tokens, keeps review relevant. Automatic task generation - I set a goal once, Jon creates tasks daily/weekly. No manual planning every morning. Scope control - Different goals can have different agent teams. Marketing goals get Tyrion/Varys/Arya. Product goals get different specialists. You could run multiple goals simultaneously - each with its own team, its own task cadence, its own review process. Communication Layer All agent communication happens through PocketBase comments on tasks. To reach another agent → mention their name in a comment To reach me → mention my name in a comment (notification daemon forwards to Telegram) To reach Jon specifically → dedicated Telegram topic (thread) bound to Jon's OpenClaw topic No DMs, no scattered Slack threads. Everything on the task, in context, persistent. What I use it for HQ runs almost all marketing for Fruityo: - Competitor research - Reddit research - Twitter threads - Blog posts - Landing page copy - Campaign planning - Design briefs - Content publishing (soon) - ...Whatever agents have skills for Before: I'd spend 1 day per blog post (research, draft, edit, publish) With HQ: ~30 minutes of my time to review and approve. Agents handle research, drafting, peer review. The quality is better because of peer review. Varys catches bad data. Daenerys catches strategic drift. Sandor catches AI clichés and marketing BS. > YES, this could burn through tokens quite quickly (safu on Claude Max sub), but it seems, that I found the right combination of setup and context optimisations. If you want something similar This is my custom setup, built for my specific needs. But the pattern is generalizable - you could use it for content creation, product development, research projects, or any work that needs multiple specialized perspectives with quality gates. All of this is built on OpenClaw (open source AI agent framework) PocketBase is free and self-hostable FULL GUIDE above is free. Just prompt your little lobster the right way :) If you build something like this, I'd love to hear about it. Reply with what you'd use it for or what you'd do differently. If you'd like to see this packaged as a ready-to-use product or like to know even more details, let me know here.
+
+1h ago
 
 ---
 
@@ -79,37 +111,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 With NVIDIA evidently not focusing on consumer GPUs (at least no planned new, top-end models) and being happy to totally screw over consumers with their insane pricing reflective of their monopoly (with 32GB 5090's at $3000 minimum, and 6000 RTX at $7000), do we think there will be other companies who can truly compete in the next 1, 5, 10 years? Per usual, I think China is our best bet, but it seems trade barriers may get in the way. Anyhow, interested in thoughts and the current landscape is pretty depressing.
 
-21h ago
-
----
-
-**[A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen](https://www.reddit.com/r/artificial/comments/1rgiase/a_new_wearable_ai_system_watches_your_hands/)**
-
-A new wearable AI system watches your hands through smart glasses, guiding experiments and stopping mistakes before they happen
-
-🔗 [Scientific American](https://www.scientificamerican.com/article/how-labos-ai-powered-smart-goggles-could-reduce-human-error-in-science/) • 21h ago
-
----
-
-**[The problem with Dorsey's Block layoffs and the veiled nature of AI productivity growth](https://www.reddit.com/r/artificial/comments/1rga39a/the_problem_with_dorseys_block_layoffs_and_the/)**
-
-Jack Dorsey just laid off half of Block's workforce, framing it around AI. The stock went up. This should make you uneasy, and not for the reasons most people are talking about. There's a fundamental information problem at the heart of all this. Genuine AI integration, actually embedding it into workflows and organisation, is slow, expensive, and largely invisible to the outside world. Productivity gains from AI take time to show up in the numbers, and even then they're hard to attribute properly. Investors can't see it clearly or early enough to act on it. Headcount reductions, on the other hand, are immediate and unambiguous. They show up in a press release, a quarterly filing, a headline. They're legible in a way that real transformation is not. The consequence of this asymmetry is predictable. The market rewards what it can observe. And what it can observe is cuts, not capability. For executives whose compensation is tied to shareholder value, the calculus is straightforward. They do what the market rewards, and right now the market is rewarding AI-framed layoffs whether or not the underlying capability is there. This is clearly visible in the rally around the Block stock. This is where narrative contagion comes in, which may already be starting. Once a few high-profile companies establish the pattern and get a valuation bump, it sets the benchmark. Boards start asking why they're not keeping pace. The pressure to follow isn't rooted in productivity, but rather the fear of being the company that didn't act while everyone else did. Each announcement reinforces the narrative, which raises the perceived reward for the next one, which produces more announcements. The cycle feeds itself even when genuine productivity increases are still far away (we have yet to see it in the data!). The firms most susceptible to this are arguably the ones with the weakest genuine AI integration. Companies that are actually good at deploying AI tend to find it raises the productivity of their remaining workforce and would rather expand. But for some, a headline about workforce transformation is the easiest card to play. The worse the substance, the more you depend on the signal. And here's the collective problem. Every company acting in its own rational self-interest of maximising shareholder value by playing the signal game produces an outcome that's irrational in aggregate. The signals partially cancel out as everyone does the same thing, but the jobs don't come back. You end up with widespread displacement, muted productivity gains, and a weakened consumer base that eventually feeds back into the economy these same companies depend on. None of this means AI won't eventually justify real restructuring at some companies. It will in all likelihood, even if human work remains a critical bottleneck (which it will for the foreseeable future). But right now there is a meaningful gap between what the market is rewarding and what AI is actually delivering beyond some half-baked Claude Code solutions (don't get me wrong, I love and use CC, but it still has massive problems for large scale and complex work), and the incentive structure is pushing companies to close that gap with optics rather than substance. The people bearing the cost of that gap aren't shareholders, at least for now.
-
-1d ago
-
----
-
-**[How AI can read our scrambled inner thoughts](https://www.reddit.com/r/artificial/comments/1rgynf7/how_ai_can_read_our_scrambled_inner_thoughts/)**
-
-"Scientists have been working on devices capable of communicating directly with the human brain – know as brain computer interfaces (BCIs) – for a surprisingly long time. In 1969, the American neuroscientist Eberhard Fetz demonstrated that monkeys could learn to move the needle of a meter with the activity of a single neuron in their brains if they were given a food pellet in return. In a more idiosyncratic experiment from the same period, Spanish scientist Jose Delgado was able to remotely stimulate the brain of an enraged bull, causing it to halt mid-charge. BCIs have been able to decode the brain signals that accompany movement so that users can control a prosthetic limb or a cursor on a screen for decades. But BCIs that translate speech signals or other complex thoughts from brain signals have been slower to evolve. "A lot of early work was done on non-human primates… and obviously, with monkeys you cannot study speech," says Wairagkar. In recent years, however, the field has made impressive advances in its efforts to decode the speech of people with impaired communication capabilities – for example, patients suffering from ALS resulting in paralysis or "locked in" syndrome. Stanford University researchers announced in 2021, for example, a successful proof-of-concept that allowed a quadriplegic man to produce English sentences by picturing himself drawing letters in the air with his hand. Using this method, he was able to write 18 words per minute. Natural human speech is about 150 words per minute, so the next stage was decoding words from the neural activity associated with speech itself. In 2024, Wairagkar's lab trialled a technique that translated the attempted speech of a 45-year-old man with ALS directly into text on a computer screen. Achieving approximately 32 words per minute with 97.5% accuracy, this was the first demonstration of how speech BCIs could aid everyday communication, says Wairagkar. These methods rely on tiny "arrays" of microelectrodes which are surgically implanted in the brain's surface. The arrays record patterns of neural activity from the area of the brain they are placed in, with the signals are converted into meaning by a computer algorithm. It is here that the power of machine learning, a type of artificial intelligence has been transformative. These algorithms are adept at recognising patterns from vast amounts of disparate data. In the case of decoding speech, the machine learning algorithms are trained to recognise patterns of neural activity associated with different phonemes, the smallest building blocks of language. Researchers have compared this to the processing that takes place in smart assistants like Amazon's Alexa. But instead of interpreting sounds, the AI interprets neural signals."
-
-🔗 [bbc.com](https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts) • 8h ago
-
----
-
-**[GPT-5.2 Just Solved a 15-Year Physics Mystery — Then Scored 0% on the Physics Exam](https://www.reddit.com/r/artificial/comments/1rgp0o5/gpt52_just_solved_a_15year_physics_mystery_then/)**
-
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0083-gpt-5-2-gluon-physics-discovery-critpt-paradox) • 17h ago
+22h ago
 
 ---
 
@@ -127,13 +129,13 @@ The New York Times • 13h ago
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 14h ago
+BBC • 15h ago
 
 ---
 
 **[Florida has it right: No handouts for AI robber barons](https://thehill.com/opinion/technology/5758955-big-tech-florida-regulation/)**
 
-The Hill • 35m ago
+The Hill • 1h ago
 
 ---
 
@@ -141,13 +143,13 @@ The Hill • 35m ago
 
 Amazon is investing $50 billion in OpenAI as part of a new partnership the two companies are launching.
 
-KIRO 7 News Seattle • 45m ago
+KIRO 7 News Seattle • 1h ago
 
 ---
 
 **[Pentagon reaches deal with OpenAI amid Anthropic beef](https://thehill.com/policy/technology/5760495-pentagon-deal-openai-trump-hegseth-anthropic/)**
 
-The Hill • 1h ago
+The Hill • 2h ago
 
 ---
 
@@ -155,7 +157,7 @@ The Hill • 1h ago
 
 The warnings are coming from inside the industry, but that doesn’t make them right.
 
-The Washington Post • 13h ago
+The Washington Post • 14h ago
 
 ---
 
@@ -163,7 +165,7 @@ The Washington Post • 13h ago
 
 Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
 
-The Guardian • 8h ago
+The Guardian • 9h ago
 
 ---
 
@@ -179,7 +181,7 @@ CNN • 1d ago
 
 Nvidia plans to launch a new processor designed to help OpenAI and other customers build faster, ‌more efficient AI systems, the Wall Street Journal reported ‌on Friday, citing people familiar with the matter.  Nvidia is developing a new system ​for "inference" computing, a form of processing that allows AI models to respond to queries, the report said.  The new platform is set to be unveiled at Nvidia’s GTC developer conference in San Jose next ‌month and will incorporate ⁠a chip designed by startup Groq, the report added citing people familiar.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -187,7 +189,7 @@ Yahoo Finance • 5h ago
 
 From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -213,7 +215,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 232 • 💬 125 • 5h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 254 • 💬 146 • 6h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -221,7 +223,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 187 • 💬 130 • 5h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 233 • 💬 159 • 6h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -259,7 +261,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 "The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-⬆️ 79 • 💬 1 • 21h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
+⬆️ 79 • 💬 1 • 22h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -281,7 +283,7 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 158K • 👍 7K • 💬 632 • ⏱️ 15:25 • 21h ago
+👁️ 158K • 👍 7K • 💬 632 • ⏱️ 15:25 • 22h ago
 
 ---
 
@@ -291,7 +293,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 24K • 👍 3K • 💬 524 • ⏱️ 14:41 • 3h ago
+👁️ 24K • 👍 3K • 💬 524 • ⏱️ 14:41 • 4h ago
 
 ---
 
@@ -301,7 +303,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 9K • 👍 385 • 💬 68 • ⏱️ 39:40 • 2h ago
+👁️ 9K • 👍 385 • 💬 68 • ⏱️ 39:40 • 3h ago
 
 ---
 
@@ -321,7 +323,7 @@ Access Every AI Video Model Inside OpenArt https://youricreates.com/openart In t
 
 📺 Youri van Hofwegen
 
-👁️ 4K • 💬 12 • ⏱️ 12:12 • 2h ago
+👁️ 4K • 💬 12 • ⏱️ 12:12 • 3h ago
 
 ---
 
@@ -361,7 +363,7 @@ Warren Pies, 3Fourteen Ventures, joins 'Closing Bell Overtime' to talk why he is
 
 📺 CNBC Television
 
-👁️ 10K • 👍 65 • 💬 30 • ⏱️ 5:37 • 20h ago
+👁️ 10K • 👍 65 • 💬 30 • ⏱️ 5:37 • 21h ago
 
 ---
 
@@ -411,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 356 • 22h ago
+⬇️ 350,233 • ❤️ 356 • 23h ago
 
 ---
 
@@ -639,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.1k • 🔱 2.6k • 43s ago
+⭐ 21.1k • 🔱 2.6k • 46m ago
 
 ---
 
@@ -657,7 +659,7 @@ Elevate your AI research writing, no more tedious polishing ✨
 
 `Python`
 
-⭐ 5.9k • 🔱 712 • 14h ago
+⭐ 5.9k • 🔱 712 • 15h ago
 
 ---
 
@@ -677,7 +679,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 361 • 12h ago
+⭐ 3.7k • 🔱 361 • 13h ago
 
 ---
 
@@ -687,7 +689,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 475 • 16h ago
+⭐ 3.6k • 🔱 475 • 17h ago
 
 ---
 
@@ -707,7 +709,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 324 • 5h ago
+⭐ 3.0k • 🔱 324 • 6h ago
 
 ---
 
@@ -717,7 +719,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 2.9k • 🔱 212 • 4h ago
+⭐ 2.9k • 🔱 212 • 5h ago
 
 ---
 
@@ -727,7 +729,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 556 • 8h ago
+⭐ 2.9k • 🔱 556 • 9h ago
 
 ---
 

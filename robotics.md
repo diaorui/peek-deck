@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T18:35:17.848058+00:00'
+updated: '2026-02-28T19:21:17.091663+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 18:35 UTC  
+**Last Updated:** February 28, 2026 at 19:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,17 +32,17 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
+
+2h ago
+
+---
+
 **[My DWA (Dynamic Window Approach) in a Robot Vacuum Cleaner.](https://www.reddit.com/r/robotics/comments/1rh1kvy/my_dwa_dynamic_window_approach_in_a_robot_vacuum/)**
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-5h ago
-
----
-
-**[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
-
-1h ago
+6h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-7h ago
+8h ago
 
 ---
 
@@ -64,7 +64,15 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-12h ago
+13h ago
+
+---
+
+**[Robotic Parcel Sorting (Letter / Small Polybag) for places like USPS & Pitney Bowes](https://www.reddit.com/r/robotics/comments/1rhaedz/robotic_parcel_sorting_letter_small_polybag_for/)**
+
+Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
+
+38m ago
 
 ---
 
@@ -78,7 +86,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -95,14 +103,6 @@ Hey Reddit! Super excited to share something I've been working on: HoloMotion, a
 Just a quick share from our team. We’ve been training this bipedal robot recent days with RL. After a lot of trial and turning, we finally bridged the sim2real gap. It was a long journey but seeing it stick to the landing for the first time feels incredible. Would love to hear what you guys think of this!
 
 1d ago
-
----
-
-**[STS/DC Motor Actuator?](https://www.reddit.com/r/robotics/comments/1rh4gn0/stsdc_motor_actuator/)**
-
-Serious Question. Been considering deigning a back drivable actuator that uses STS protocol and a brushed DC motor (similar to feetech servos) instead of a brushless motor. I wanted to create a cheaper option for back drivable joints in hobbyist robotics project. But I also want to get a more experienced opinion first. Would it even be worth it? Other than motor efficiency, what would be the drawbacks or reasons why I should not pursue?
-
-3h ago
 
 ---
 
@@ -128,7 +128,7 @@ Los Angeles Times • 3d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -150,7 +150,7 @@ TechCrunch • 2d ago
 
 **[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfeCuLQ5eHO3_L4g63cwbE_Lqpl37nJVMfJt-tQAQZ_p7vB-SxjZEgf&gaa_ts=69a338d3&gaa_sig=sEGo7Dm6mPHfVOYhAoJDrlvEwgTVme61HXaibskHC3UzDMpXK1V0e4wFS_ZF8ZYlfo9AJq0E6p3Df3eQ9yumKA%3D%3D)**
 
-WSJ • 20h ago
+WSJ • 21h ago
 
 ---
 
@@ -180,7 +180,7 @@ Financial Times • 1d ago
 
 DoorDash’s longtime dream of cutting paid human beings out of the delivery process is one step closer to reality, as they’re debuting their little robots to do food deliveries, but at first only in Fremont.
 
-SFist • 17h ago
+SFist • 18h ago
 
 ---
 
@@ -214,7 +214,7 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 8K • 👍 266 • 💬 100 • ⏱️ 13:15 • 16h ago
+👁️ 8K • 👍 266 • 💬 100 • ⏱️ 13:15 • 17h ago
 
 ---
 
@@ -264,7 +264,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 19K • 👍 552 • 💬 13 • ⏱️ 0:35 • 18h ago
+👁️ 19K • 👍 552 • 💬 13 • ⏱️ 0:35 • 19h ago
 
 ---
 
@@ -284,7 +284,7 @@ AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gaut
 
 📺 MattVidPro
 
-👁️ 3K • 👍 192 • 💬 17 • ⏱️ 18:44 • 19h ago
+👁️ 3K • 👍 192 • 💬 17 • ⏱️ 18:44 • 20h ago
 
 ---
 

@@ -3,13 +3,13 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T18:35:17.839014+00:00'
+updated: '2026-02-28T19:21:17.082196+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - news
+- cryptocurrency
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 18:35 UTC  
+**Last Updated:** February 28, 2026 at 19:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,088.02
+### $66,100.99
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -0.5%  
-**7d:** -3.9%  
-**30d:** -22.9%  
-**90d:** -24.7%  
-**1y:** -24.5%  
+**24h:** +0.2%  
+**7d:** -2.9%  
+**30d:** -22.0%  
+**90d:** -23.8%  
+**1y:** -23.7%  
 
 ---
 
@@ -77,9 +77,17 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[Do we anticipate BTC do dump even further on Monday?](https://www.reddit.com/r/Bitcoin/comments/1rh9eso/do_we_anticipate_btc_do_dump_even_further_on/)**
+
+Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
+
+1h ago
+
+---
+
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -87,7 +95,7 @@ Rank #1
 
 I have a pretty crazy story that happened to me last year lol. Back in 2022, I had some BTC on my PC. My Windows was acting up, so I decided to format it. I had made a backup from Electrum and saved it on an SD card, but I wasn’t very experienced back then. After formatting the PC, I reinstalled everything and tried to restore the wallet using the private keys and the 12-word seed… and I just couldn’t find them. I was frustrated and honestly pretty sad. I thought my BTC was gone forever. A few years passed. Around July or August 2025, I was bored and decided to clean up my SD card, deleting random junk files. In the middle of that, I found a folder with several private keys inside. I started testing them one by one. On the fifth key… when I saw the balance, I literally leaned back in my chair in shock. I even took a picture of the screen to capture the moment. The value had almost tripled since 2022. It felt unreal. Right after that, I created a brand-new wallet with a fresh seed, transferred everything there, and properly backed up the words this time. I told a friend about it and he said it sounds like that story of the guy who threw away a hard drive with BTC on it — except in my case, I actually found mine
 
-17h ago
+18h ago
 
 ---
 
@@ -101,7 +109,15 @@ I have a pretty crazy story that happened to me last year lol. Back in 2022, I h
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-5h ago
+6h ago
+
+---
+
+**[BTC is in an "accumulation" phase rn.](https://www.reddit.com/r/Bitcoin/comments/1rhabxr/btc_is_in_an_accumulation_phase_rn/)**
+
+Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
+
+41m ago
 
 ---
 
@@ -109,7 +125,7 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 I’m DCAing 100 dollars a week. I can defiantly do way more. For those that have a diversified portfolio, what is your plan? I’m early 30s so I’m willing to take on risk.
 
-11h ago
+12h ago
 
 ---
 
@@ -117,7 +133,15 @@ I’m DCAing 100 dollars a week. I can defiantly do way more. For those that hav
 
 I know this might sound stupid question to some of you, but I'd like to ask anyway. I bought bitcoin worth €50 using coinbase, from price graph it shows me $63,955 and when the transaction is done the price is $64,763. Is it the spread or something? Thank you for the kind replies! 🙏🏻
 
-6h ago
+7h ago
+
+---
+
+**[Uptime based mining rewards, not hashrate. First drawing is tomorrow, March 1st.](https://www.reddit.com/r/Bitcoin/comments/1rhap55/uptime_based_mining_rewards_not_hashrate_first/)**
+
+Tonight at midnight EST our drawing closes and today is the last day to earn points. We run a low difficulty Bitcoin mining pool called HMPool (HashedMax Unity Pool) and we run a rewards program that's a little different from what most pools do. Instead of rewarding on pure hashrate, points are based on "uptime" so an ESP32 mining at 1 MH/s earns fairly alongside a full Bitaxe or S19. Every 1,000 points = 1 lottery entry for BTC rewards or hardware giveaways. Tonight at midnight EST the stats and points reset and will start fresh for March, meaning today is your last shot to squeeze any remaining hours in for February's draw. Tomorrow we run our **first ever drawing**, which is kind of a big deal for us since we've been building toward this since launch. If you've been looking for a pool that doesn't punish small miners, we are worth checking out. Rewards overview: https://hmpool.io/rewards.html Happy mining, everyone.
+
+26m ago
 
 ---
 
@@ -125,31 +149,7 @@ I know this might sound stupid question to some of you, but I'd like to ask anyw
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-12h ago
-
----
-
-**[Genesis address?](https://www.reddit.com/r/Bitcoin/comments/1rh1eal/genesis_address/)**
-
-I was looking at the genesis block on mempool.space, but why does the address connected to the only transaction in the block only have 11 other transactions. Many of addresses connected to satoshi have thousands more of transactions. I was wondering if you could only send some if you mined a block, but that's probably bullshit. So can I give myself a nice place on the blockchain or is there more I don't know of?
-
-6h ago
-
----
-
-**[CA pay with bitcoin map](https://www.reddit.com/r/Bitcoin/comments/1rgt37i/ca_pay_with_bitcoin_map/)**
-
-Cash app offers a map that shows where bitcoin is accepted at local stores, my city has quite a bit of places!
-
-14h ago
-
----
-
-**[Bought $1k of BTC. Let's see what will happen](https://www.reddit.com/r/Bitcoin/comments/1rg3j7r/bought_1k_of_btc_lets_see_what_will_happen/)**
-
-https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
-
-1d ago
+13h ago
 
 ---
 
@@ -159,7 +159,7 @@ https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07
 
 **[The U.S. and Israel attack Iran. Bitcoin and oil offer a glimpse at how markets could react.](https://www.marketwatch.com/story/trump-says-massive-strike-against-iran-underway-bitcoin-plunge-offers-a-glimpse-of-how-markets-could-react-25d9ed1c?gaa_at=eafs&gaa_n=AWEtsqcXJGAdVusvIFmd6zXGUkT7op1jk4-Qcu4oTkEjw_8yM1ZfDPPUfvGV&gaa_ts=69a338ce&gaa_sig=BSAGEkkYNj4YZB1_d816NuBaFPRM8uni_0PbQBCpcY77E0i_M0zaFXTTMef40kbpLwRMpR9auIMfi3g5soJ1fA%3D%3D)**
 
-MarketWatch • 9h ago
+MarketWatch • 10h ago
 
 ---
 
@@ -167,7 +167,7 @@ MarketWatch • 9h ago
 
 Court records describe a mail suit, cellphone jammer and zip ties in alleged home attack.
 
-KING5.com • 22h ago
+KING5.com • 23h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Block • 21h ago
 
 Bitcoin may have a better chance of hitting $150,000 this year than you think.
 
-The Motley Fool • 8h ago
+The Motley Fool • 9h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Motley Fool • 8h ago
 
 Negative funding rates, rising open interest and liquidations point to crowded positioning and heightened derivatives activity.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -253,7 +253,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 3 • 💬 0 • 8h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 4 • 💬 0 • 9h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 6K • 👍 469 • 💬 149 • ⏱️ 26:57 • 4h ago
+👁️ 6K • 👍 469 • 💬 149 • ⏱️ 26:57 • 5h ago
 
 ---
 
@@ -337,7 +337,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 20K • 👍 711 • ⏱️ 22:53 • 20h ago
+👁️ 20K • 👍 711 • ⏱️ 22:53 • 21h ago
 
 ---
 
@@ -347,7 +347,7 @@ Bitcoin bear market price targets, how low will BTC drop? BITUNIX TRADE THE TOP 
 
 📺 Lark Davis
 
-👁️ 11K • 👍 553 • 💬 95 • ⏱️ 14:04 • 18h ago
+👁️ 11K • 👍 553 • 💬 95 • ⏱️ 14:04 • 19h ago
 
 ---
 
@@ -357,7 +357,7 @@ Nick Valdez looks at what will trigger volatility for Bitcoin this weekend. Betw
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 143 • 💬 33 • ⏱️ 5:32 • 4h ago
+👁️ 2K • 👍 143 • 💬 33 • ⏱️ 5:32 • 5h ago
 
 ---
 
@@ -387,7 +387,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://
 
 📺 Discover Crypto
 
-👁️ 12K • 👍 172 • 💬 13 • ⏱️ 0:48 • 17h ago
+👁️ 12K • 👍 172 • 💬 13 • ⏱️ 0:48 • 18h ago
 
 ---
 
