@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T04:59:26.939144+00:00'
+updated: '2026-02-28T05:40:46.376634+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 04:59 UTC  
+**Last Updated:** February 28, 2026 at 05:40 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -5.7%  
-**7d:** -1.7%  
-**30d:** -28.9%  
-**90d:** -31.3%  
-**1y:** -13.1%  
+**24h:** -5.9%  
+**7d:** -2.1%  
+**30d:** -29.2%  
+**90d:** -31.6%  
+**1y:** -13.5%  
 
 ---
 
@@ -80,7 +80,7 @@ We added Ethereum as a payment option back in 2018, and since then, around 643,0
 
 At the current moment the correct path to post quantum Ethereum transactions looks more like Shibuya Crossing, there are too many proposals all with different ways of doing the same fundamental thing. Some of the proposals that can achieve PQ migration are:   Pure ERC-4337 account abstraction and doing the PQ verification on the EVM EIP-6404: SSZ transactions that use the EIP-7932: Secondary Signature Algorithms rails. EIP-8141: Frame Transaction that make the PQ migration up to the account to d...
 
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 11h ago
+🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 12h ago
 
 ---
 
@@ -88,15 +88,7 @@ At the current moment the correct path to post quantum Ethereum transactions loo
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-22h ago
-
----
-
-**[Quantum Safe roadmap for ETH until 2029](https://www.reddit.com/r/ethereum/comments/1rgdaij/quantum_safe_roadmap_for_eth_until_2029/)**
-
-https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
-
-11h ago
+23h ago
 
 ---
 
@@ -108,11 +100,19 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 ---
 
+**[Quantum Safe roadmap for ETH until 2029](https://www.reddit.com/r/ethereum/comments/1rgdaij/quantum_safe_roadmap_for_eth_until_2029/)**
+
+https://yellow.com/news/ethereum-unveils-quantum-safe-roadmap-to-2029-whats-at-stake Great step
+
+12h ago
+
+---
+
 **[Golem raised $8.6M in 29 minutes in 2016. SingularDTV raised $7.5M in 17 minutes the month before. These ICOs shaped everything that came after.](https://www.reddit.com/r/ethereum/comments/1rg7hv2/golem_raised_86m_in_29_minutes_in_2016/)**
 
 Most people remember the 2017 ICO boom, but the culture started forming in late 2016 with projects like Golem and SingularDTV. Golem (GNT) — November 11, 2016 Golem launched what was essentially an 820,000 ETH hard cap crowdsale. It filled in 29 minutes. $8.6 million for a decentralized computing network. The contract was deliberately simple by design. After the DAO hack a few months earlier, the team and their auditors at Zeppelin went out of their way to avoid complexity. No recursive calls, no token logic mixed with funding logic. Just "send ETH, receive tokens, done." They also built in a migration mechanism from day one (GNT to GLM), which they actually used four years later in 2020. That kind of foresight was rare. SingularDTV — September/October 2016 SingularDTV took a different approach with a tri-contract architecture: one for the crowdsale, one for the token, one for the treasury fund. Stefan George (who later cofounded Gnosis) was involved. They raised $7.5M in 17 minutes. The treasury contract had a 2-year workshop token lockup built in. The speed of these raises changed expectations for every project that followed. Before this, "fast fundraising" for crypto meant days or weeks. After Golem and SingularDTV, everyone expected minutes. Why this matters now These contracts are still on-chain. You can read them, verify the logic, trace every transaction. Unlike web2 startup history where products get shut down and documentation disappears, Ethereum's history is permanently readable. I've been documenting these early contracts at ethereumhistory.com — trying to build a proper archive before the people who remember this era move on. We've got about 40 contracts documented so far from 2015-2017. If you were around during this period or remember other significant early contracts, would love to hear about them.
 
-14h ago
+15h ago
 
 ---
 
@@ -120,7 +120,7 @@ Most people remember the 2017 ICO boom, but the culture started forming in late 
 
 Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
-🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 13h ago
+🔗 [Ethereal news](https://ethereal.news/ethereal-news-weekly-13/) • 14h ago
 
 ---
 
@@ -128,7 +128,7 @@ Strawmap (strawman roadmap), EF staking 70k ETH, BNP Paribas tokenized fund
 
 MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self-custody wallet control & stablecoin payments mainstream.
 
-🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 15h ago
+🔗 [Blocknow: Be ready. Be informed](https://blocknow.com/metamask-and-mastercard-launch-self-custody-crypto-card-as-ma-stock-rises/) • 16h ago
 
 ---
 
@@ -136,7 +136,7 @@ MetaMask Crypto Card lifts Mastercard stock as the crypto debit card brings self
 
 I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common security issues in ZK circuits. YAML-defined pattern packs (regex, fancyregex, literal) Optional semantic pass (--semantic) for cross-line checks CLI + library API SARIF/JSON/text outputs for CI workflows Current integration matrix: 16 vulnerable fixtures + 10 safe controls Repo: https://github.com/Teycir/ZkPatternMatcher
 
-13h ago
+14h ago
 
 ---
 
@@ -144,7 +144,7 @@ I’m sharing ZkPatternMatcher, my open-source Rust tool for detecting common se
 
 From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about courage, community, and calling Ethereum the 8th wonder - not a monument, but a mission.
 
-🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 19h ago
+🔗 [EtherWorld.co](https://etherworld.co/firsts-conversations-and-ai-ethdenver-2026/) • 20h ago
 
 ---
 
@@ -152,69 +152,53 @@ From EIPs conversations to my first vibe-coding moment, EthDenver 2026 was about
 
 ## Google News: "ethereum"
 
-**[Vitalik Buterin reveals his bold new plan to fix Ethereum’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
+**[Ethereum news: Vitalik Buterin reveals his bold new plan to fix the network’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 12h ago
+CoinDesk • 13h ago
 
 ---
 
-**[Ethereum Foundation researchers publish 'strawmap' outlining seven forks through 2029](https://www.theblock.co/post/391406/ethereum-foundation-researchers-publish-strawmap-outlining-seven-forks-through-2029)**
+**[BitMine Stock Jumps As Ethereum Rebounds](https://www.benzinga.com/crypto/cryptocurrency/26/02/50845590/bitmine-stock-jumps-as-ethereum-rebounds)**
 
-The Ethereum Foundation’s "strawmap" outlines seven forks by 2029, targeting faster slots, reduced finality, and post-quantum upgrades.
+Bitmine Immersion Technologies Inc (NYSEAMERICAN: BMNR) jumped in premarket trading Wednesday, as Ethereum (CRYPTO: ETH) staged a recovery.
 
-The Block • 1d ago
-
----
-
-**[Vitalik Buterin Maps Quantum Upgrade to Ethereum to Replace Core Cryptography](https://decrypt.co/359352/vitalik-buterin-maps-quantum-upgrade-ethereum)**
-
-Buterin has outlined a phased roadmap to replace four vulnerable components of Ethereum's cryptographic architecture.
-
-Decrypt • 1d ago
+Benzinga • 2d ago
 
 ---
 
-**[Here’s what fueled Ethereum’s latest price hike above $2000](https://ambcrypto.com/heres-what-fueled-ethereums-latest-price-hike-above-2000/)**
+**[Better Cryptocurrency to Buy With $5,000 and Hold Forever: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-5000-and-hold-forever-xrp-vs-ethereum)**
 
-As Friday's Options expiry looms, what might ETH's price do?
+Key PointsThe longer your investing time horizon, the more uncertainty you'll have to take into account.
 
-AMBCrypto • 1d ago
-
----
-
-**[Better Cryptocurrency to Buy With $5,000 and Hold Forever: XRP vs. Ethereum](https://www.fool.com/investing/2026/02/27/better-cryptocurrency-to-buy-with-5000-and-hold-fo/)**
-
-Both of these coins have what it takes to be good investments for the long run.
-
-The Motley Fool • 3h ago
+Nasdaq • 3h ago
 
 ---
 
-**[Better Cryptocurrency to Buy With $5,000 and Hold Forever: XRP vs. Ethereum](https://finance.yahoo.com/news/better-cryptocurrency-buy-5-000-020500876.html)**
+**[XRP and Ethereum Are Both Pivoting to Privacy. Is That a Reason to Buy Either?](https://www.fool.com/investing/2026/02/28/xrp-and-ethereum-are-both-pivoting-to-privacy-is-t/)**
 
-Both of these coins have what it takes to be good investments for the long run.
+Privacy is a more meaningful upgrade for one of these coins than the other.
 
-Yahoo Finance • 2h ago
+The Motley Fool • 25m ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqfZ540smY_COMEugsOx2xlPKwtS1r4Ei-L-i-rjKRkTV_i16TAJOq3v&gaa_ts=69a26ba3&gaa_sig=TJjNMYvKcrcfqjjG1ha1T4e2miytgY94OO0w9x7nK6ss9QXOy1Cwoufimy1mhRSiDCTQ_v0P10Hu6-gE4f00UA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdnk9xZQnaBdWrNb18Qfh4qcYMG_LkujNaqIciIcug4hUCzCvZb0Ll_&gaa_ts=69a28342&gaa_sig=_B1JJ_6Ncg2mRcXNFAWMjiArfLjA5WvIMgSRZLETGEFoidqESPKrly6ENri3XZBQ0JzZ6yRdiJyseL4uMiZvMg%3D%3D)**
 
 Barron's • 20h ago
 
 ---
 
-**[Wallet in Telegram unveils yield for Bitcoin, Ethereum and USDT holdings](https://www.theblock.co/post/391338/telegram-crypto-wallet-yield-bitcoin-ethereum-usdt-holdings)**
+**[How to buy ethereum — and what to know before you do](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-ethereum--and-what-to-know-before-you-do-221336099.html)**
 
-TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
+Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
 
-The Block • 1d ago
+Yahoo Finance • 1d ago
 
 ---
 
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772247600)**
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772252400)**
 
 Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -222,11 +206,27 @@ Polymarket • 1d ago
 
 ---
 
+**[Ethereum Tokens Swiped, Returned After South Korean Tax Service Publishes Wallet Seed Phrases](https://decrypt.co/359404/ethereum-tokens-swiped-returned-south-korean-tax-service)**
+
+South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
+
+Decrypt • 12h ago
+
+---
+
 **[$8.7 Billion in Ethereum and Bitcoin Options About to Expire](https://www.tradingview.com/news/u_today:919bedae2094b:0-8-7-billion-in-ethereum-and-bitcoin-options-about-to-expire/)**
 
 Ethereum and Bitcoin options valued at $8.7 billion are about to expire on the leading derivatives exchange, Deribit. This development could increase the volatility of both cryptocurrencies amid the ongoing bearish outlook of their prices.Ethereum and Bitcoin options max pain levelIn a new update…
 
-TradingView • 13h ago
+TradingView • 14h ago
+
+---
+
+**[Ethereum at $250,000? Trump speech ignites price rally as ETFs gain $157m](https://www.dlnews.com/articles/markets/wall-street-ploughs-funds-into-ethereum-network-before-price-rallies/)**
+
+Trump’s State of the Union address has injected fresh optimism into markets. Ethereum’s price has rallied 15% this week to $2,050. Bitmine keeps accumulating tokens with weekly purchases.
+
+dlnews.com • 1d ago
 
 ---
 
@@ -250,7 +250,7 @@ BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum 
 
 📺 Crypto World
 
-👁️ 5K • 👍 207 • 💬 15 • ⏱️ 20:17 • 7h ago
+👁️ 5K • 👍 207 • 💬 15 • ⏱️ 20:17 • 8h ago
 
 ---
 
@@ -290,7 +290,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 254 • 👍 7 • 💬 1 • ⏱️ 4:27 • 19h ago
+👁️ 254 • 👍 7 • 💬 1 • ⏱️ 4:27 • 20h ago
 
 ---
 
@@ -300,7 +300,7 @@ We've got some major shake ups happening in the crypto market right now. it seem
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 715 • 💬 63 • ⏱️ 29:34 • 19h ago
+👁️ 6K • 👍 715 • 💬 63 • ⏱️ 29:34 • 20h ago
 
 ---
 
@@ -310,7 +310,7 @@ The Pectra upgrade marks an important event for Ethereum, significantly boosting
 
 📺 ReferCoin Lab
 
-👁️ 3K • 👍 40 • ⏱️ 0:45 • 11h ago
+👁️ 3K • 👍 40 • ⏱️ 0:45 • 12h ago
 
 ---
 
@@ -330,7 +330,7 @@ xrp #bitcoin #hbar #xlm #eth https://twitter.com/HobbiesCards Here we are with l
 
 📺 CRYPTO with KLAUS
 
-👁️ 4K • 👍 416 • 💬 144 • ⏱️ 15:02 • 10h ago
+👁️ 4K • 👍 416 • 💬 144 • ⏱️ 15:02 • 11h ago
 
 ---
 

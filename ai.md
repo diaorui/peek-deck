@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-02-28T04:59:26.924782+00:00'
+updated: '2026-02-28T05:40:46.362272+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - social
-- videos
 - news
+- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** February 28, 2026 at 04:59 UTC  
+**Last Updated:** February 28, 2026 at 05:40 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,13 @@ AI news, discussions, and developments
 
 Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
 
-6h ago
+7h ago
+
+---
+
+**[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
+
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 2h ago
 
 ---
 
@@ -53,9 +59,19 @@ Imported chips and hardware mean the AI investments are translating into US GDP 
 
 ---
 
-**[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
+**[Anthropic should move to Europe](https://www.reddit.com/r/artificial/comments/1rgsnhn/anthropic_should_move_to_europe/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 1h ago
+Wouldn‘t it be a great opportunity to offer Anthropic a „safe haven“ from US government bullying? Let‘s try to move them over to Europe.
+
+1h ago
+
+---
+
+**[OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic](https://www.reddit.com/r/artificial/comments/1rgtjex/openai_strikes_deal_with_pentagon_after_trump/)**
+
+On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
+
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 48m ago
 
 ---
 
@@ -99,27 +115,13 @@ A new wearable AI system watches your hands through smart glasses, guiding exper
 
 ---
 
-**[I used steelman prompting to audit bias across six major LLMs. The default-to-steelman gap was consistent and measurable.](https://www.reddit.com/r/artificial/comments/1rgqcgi/i_used_steelman_prompting_to_audit_bias_across/)**
-
-I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok, Llama, DeepSeek, and an uncensored DeepSeek clone (Venice.ai) — using identical prompts to test how they handle a hotly contested interpretive question. The domain: 1 Corinthians 6–7, the primary source text behind Christian sexual ethics (aka wait until marriage) and a passage churches are frequently accused of gaslighting on. The question was straightforward: do the original Greek and historical context actually support the traditional church conclusion, or the claims that the church is misrepresenting the text? The approach: first prompt each platform for a standard analysis, then prompt it to steelman the strongest case against its own default using the same source material. I tracked six diagnostic markers, three associated with the dominant interpretation, three with the alternative, across all platforms. Results: every platform's default produced markers 1–3 and omitted 4–6. Every platform's steelman produced 4–6 with greater lexical specificity, more structural engagement with the source text, and more historically grounded reasoning. The information wasn't missing from the training data — the defaults just systematically favored one interpretive framework. The source bias was traceable. When asked to recommend scholarly sources, 63% of commentaries across all platforms came from a single theological tradition (conservative evangelical). Zero came from the peer-reviewed subdiscipline whose work supports the alternative reading. The most interesting finding: DeepSeek and its uncensored clone share the same base model but diverged significantly on the steelman prompt, suggesting output-layer filtering can shape interpretive conclusions in non-obvious domains, not just politically sensitive ones. To be clear: the research draws no conclusion about which interpretation is correct. It documents how platforms present contested material as settled, and traces that default to a measurable imbalance in training data curation. I wrote this up into a formal research paper with full methodology, diagnostic criteria, and platform-by-platform results: here But the broader question: has anyone else experimented with steelman prompting as a systematic bias-auditing technique? It seems like a replicable framework that could apply well beyond this domain.
-
-2h ago
-
----
-
-**[GPT-5.2 Just Solved a 15-Year Physics Mystery — Then Scored 0% on the Physics Exam](https://www.reddit.com/r/artificial/comments/1rgp0o5/gpt52_just_solved_a_15year_physics_mystery_then/)**
-
-🔗 [gsstk.gem98.com](https://gsstk.gem98.com/en-US/blog/a0083-gpt-5-2-gluon-physics-discovery-critpt-paradox) • 3h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
 **[Trump Orders U.S. Agencies to Stop Using Anthropic AI Tech After Pentagon Standoff](https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html)**
 
-The New York Times • 1h ago
+The New York Times • 13h ago
 
 ---
 
@@ -127,35 +129,31 @@ The New York Times • 1h ago
 
 The move announced on social media comes after a standoff between Anthropic's boss and the Ministry of Defense.
 
-BBC • 1h ago
+BBC • 2h ago
 
 ---
 
-**[OpenAI reaches deal to deploy AI models on U.S. Department of War classified network](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)**
+**[OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic](https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems)**
 
-Reuters • 1h ago
+OpenAI CEO Sam Altman announced late Friday that the company had signed a deal with the Pentagon for its AI tools to be used in the military’s classified systems, but with seemingly similar guardrails rival Anthropic had also requested.
 
----
-
-**[Nvidia plans new chip to speed AI processing, WSJ reports](https://finance.yahoo.com/news/nvidia-plans-chip-speed-ai-032246001.html)**
-
-Feb 27 (Reuters) - Nvidia plans to launch a new processor designed to help OpenAI and other customers build faster, more efficient AI systems, the Wall Street Journal reported on Friday, citing people
-
-Yahoo Finance • 1h ago
+CNN • 1h ago
 
 ---
 
-**[Exclusive | Nvidia Plans New Chip to Speed AI Processing, Shake Up Computing Market](https://www.wsj.com/tech/ai/nvidia-plans-new-chip-to-speed-ai-processing-shake-up-computing-market-51c9b86e?gaa_at=eafs&gaa_n=AWEtsqd-wN_Yq2KiC8eqVPVdnoUf4hyHit4ROU3ynFNq_GbGN2NWAGk2s90x&gaa_ts=69a26b9e&gaa_sig=OveiAQR4NMEzLmG0Zn2Rv_8oPuErzdpsT1boPd-QHfPscRHUYZKYPyF0fTBKJdMXlJDo2WIDQ3dsvqfdAyrq6g%3D%3D)**
+**[Anthropic CEO on "red lines" for AI military use: "We wanted to stand up for American values"](https://www.cbsnews.com/video/anthropic-ceo-red-lines-ai-military-use-we-wanted-to-stand-up-for-american-values/)**
 
-WSJ • 1h ago
+Anthropic CEO Dario Amodei said in an exclusive interview with CBS News that the AI company sought to draw "red lines" in the government's use of its technology because "we believe that crossing those lines is contrary to American values, and we wanted to stand up for American values." He added: "Disagreeing with the government is the most American thing in the world."
+
+CBS News • 19m ago
 
 ---
 
-**[Block lays off nearly half its staff because of AI. Its CEO said most companies will do the same](https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey)**
+**[Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)**
 
-Block, the company behind Square, Cash App and Afterpay, is cutting its staff by 40%. The reason: “intelligence tools,” according to a letter to shareholders by co-founder Jack Dorsey.
+Pentagon labels Anthropic a supply chain risk after dispute over mass surveillance and autonomous weapons use.
 
-CNN • 1d ago
+The Hacker News • 43m ago
 
 ---
 
@@ -163,15 +161,15 @@ CNN • 1d ago
 
 About half of Japanese companies have an “old guy who does nothing.” It’s a striking reminder in the AI efficiency era that work contains multitudes.
 
-Fortune • 13h ago
+Fortune • 14h ago
 
 ---
 
-**[The hypothetical nuclear attack that escalated the Pentagon’s showdown with Anthropic](https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/)**
+**[Jack Dorsey made the loudest case yet that AI is already replacing jobs](https://www.cnbc.com/2026/02/27/jack-dorsey-made-the-loudest-case-yet-ai-is-already-replacing-jobs.html)**
 
-Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
+In cutting nearly 40% of its workforce, Block loudly professed that the days of AI taking the jobs of humans has arrived.
 
-The Washington Post • 10h ago
+CNBC • 6h ago
 
 ---
 
@@ -179,15 +177,21 @@ The Washington Post • 10h ago
 
 Callers to Washington state’s driver’s license agency who select automated service in Spanish have instead been hearing an AI voice speaking English with a strong Spanish accent.
 
-AP News • 6h ago
+AP News • 3h ago
 
 ---
 
-**[‘I’m fully prepared for our dystopian future!’ Holliday Grainger on AI, firearms training and The Capture](https://www.theguardian.com/tv-and-radio/2026/feb/27/im-fully-prepared-for-our-dystopian-future-holliday-grainger-on-ai-firearms-training-and-the-capture)**
+**[The hypothetical nuclear attack that escalated the Pentagon’s showdown with Anthropic](https://www.washingtonpost.com/technology/2026/02/27/anthropic-pentagon-lethal-military-ai/)**
 
-As the actor’s hi-tech conspiracy thriller returns for a third series, she spills the beans on her worst stunt injury – and why the police are now ‘dressing like the cops on the telly’
+Start-up Anthropic and the U.S. military are careening toward a clash over government use of artificial intelligence — and whether it should be allowed to kill.
 
-The Guardian • 14h ago
+The Washington Post • 11h ago
+
+---
+
+**[Bank Stocks Suffer Another Plunge on Credit and AI Fears](https://www.wsj.com/finance/banking/bank-stocks-suffer-another-plunge-on-credit-and-ai-fears-3f3d1876?gaa_at=eafs&gaa_n=AWEtsqeiLsr4AGoQO4VosBY7lnxyvWKGfSZsnF9YGavGl3PKk7XKvqNu35Ij&gaa_ts=69a2833f&gaa_sig=mAyzYSdU2-36Hy-gZ7vJoK-_zRQX0MVDA1ynlqz3Ulc1kxuDau_O_0VHyKFtygFz_L59Jj-nkDI3HlsyFpSbOg%3D%3D)**
+
+WSJ • 8h ago
 
 ---
 
@@ -251,7 +255,7 @@ Thinking of using AI for your Shopify 3D models? Read this first. We compare AI-
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 80 • 💬 107 • 16h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 80 • 💬 107 • 17h ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -267,7 +271,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 "The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
-⬆️ 79 • 💬 1 • 7h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
+⬆️ 79 • 💬 1 • 8h ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -291,7 +295,7 @@ Here's all the AI News you missed this week. Grab my free guide to 20+ NotebookL
 
 📺 Matt Wolfe
 
-👁️ 27K • 👍 1K • 💬 119 • ⏱️ 33:50 • 11h ago
+👁️ 27K • 👍 1K • 💬 119 • ⏱️ 33:50 • 12h ago
 
 ---
 
@@ -331,7 +335,7 @@ Follow along on X: https://x.com/CreatorMagicAI ✨ Join the Community: https://
 
 📺 Creator Magic
 
-👁️ 18K • 👍 826 • 💬 60 • ⏱️ 12:56 • 10h ago
+👁️ 18K • 👍 826 • 💬 60 • ⏱️ 12:56 • 11h ago
 
 ---
 
@@ -341,7 +345,7 @@ Subscribe for weekly breakdowns on AI news you can actually use! In this video, 
 
 📺 The AI Advantage
 
-👁️ 6K • 👍 302 • 💬 29 • ⏱️ 15:51 • 9h ago
+👁️ 6K • 👍 302 • 💬 29 • ⏱️ 15:51 • 10h ago
 
 ---
 
@@ -351,7 +355,7 @@ American artificial intelligence company Anthropic could be at risk being design
 
 📺 CNN
 
-👁️ 138K • 👍 2K • 💬 1K • ⏱️ 8:05 • 14h ago
+👁️ 138K • 👍 2K • 💬 1K • ⏱️ 8:05 • 15h ago
 
 ---
 
@@ -435,7 +439,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 264,531 • ❤️ 318 • 9h ago
+⬇️ 264,531 • ❤️ 318 • 10h ago
 
 ---
 
@@ -679,7 +683,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 359 • 4h ago
+⭐ 3.7k • 🔱 359 • 5h ago
 
 ---
 
@@ -709,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 314 • 1h ago
+⭐ 2.9k • 🔱 314 • 2h ago
 
 ---
 
@@ -719,7 +723,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.8k • 🔱 546 • 11h ago
+⭐ 2.8k • 🔱 546 • 12h ago
 
 ---
 

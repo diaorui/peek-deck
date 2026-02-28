@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-02-28T04:59:26.933126+00:00'
+updated: '2026-02-28T05:40:46.370653+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 04:59 UTC  
+**Last Updated:** February 28, 2026 at 05:40 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -44,11 +44,11 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Chart
 
-**24h:** -2.8%  
-**7d:** -2.7%  
-**30d:** -21.9%  
-**90d:** -23.7%  
-**1y:** -23.5%  
+**24h:** -3.2%  
+**7d:** -3.2%  
+**30d:** -22.2%  
+**90d:** -24.1%  
+**1y:** -23.9%  
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -94,6 +94,14 @@ Rank #1
 https://preview.redd.it/vxha5zc3p0mg1.png?width=1626&format=png&auto=webp&s=7f07c5c2ab42f1a87373fc0292590f03c40a1a58 Converted this into BTC. Now i have 0.01542493 BTC ! It is a good decision or bad, we'll see
 
 18h ago
+
+---
+
+**[Entrei na hora certa.](https://www.reddit.com/r/Bitcoin/comments/1rgt649/entrei_na_hora_certa/)**
+
+Sem brincadeira tava a anos estudando essa porra para entrar, entrei ontem, e parece que foi na hora certa.
+
+1h ago
 
 ---
 
@@ -133,7 +141,7 @@ If you know Bitcoin's true power and other people doubt it, it gives you long te
 
 Citigroup announced plans to integrate Bitcoin into its $30 trillion asset management infrastructure in 2026. Here's what bank-grade Bitcoin custody means for institutional adoption.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 17h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/citi-is-making-bitcoin-bankable/) • 18h ago
 
 ---
 
@@ -145,27 +153,21 @@ See you in 10 years.
 
 ---
 
-**[Turning Cans Into Sats](https://www.reddit.com/r/Bitcoin/comments/1rgdnzn/turning_cans_into_sats/)**
-
-11h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Miner Tied to Trumps Pummeled by Crypto Crash](https://finance.yahoo.com/news/bitcoin-miner-tied-trump-family-114935753.html)**
+**[Bitcoin Miner Tied to Trump Family Pummeled by Crypto Crash](https://www.bloomberg.com/news/articles/2026-02-26/bitcoin-miner-tied-to-trump-family-pummeled-by-crypto-crash)**
 
-American Bitcoin doubled down on a pure mining-and-hoarding strategy just as virtually every major rival fled to artificial intelligence, a bet championed by co-founder Eric Trump that looked prescient when Bitcoin was surging past $126,000 and increasingly precarious with the token trading around $70,000.  “With Bitcoin steeply drawn down from the highs, the retention strategy can amplify losses,” said Matthew Kimmell, a digital asset analyst at CoinShares.  The downturn puts American Bitcoin at the sharp end of a broader pullback across the Trump family’s crypto interests.
-
-Yahoo Finance • 1d ago
+Bloomberg.com • 1d ago
 
 ---
 
-**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
+**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://finance.yahoo.com/news/trump-brothers-backed-american-bitcoin-122144114.html)**
 
-Reuters • 1d ago
+Concerns over stretched valuations in ‌artificial-intelligence stocks and uncertainty around the timing and scale of U.S. Federal Reserve rate cuts have ​pressured risk assets, dragging bitcoin to quarterly lows and leaving many so-called digital asset treasury (DAT) companies on an unsteady footing.  American Bitcoin, a miner of the world's largest cryptocurrency, sells it at a premium or holds for a surge in ‌the price.  Stocks of crypto treasury companies typically move in line with ​the token's ​price as shifts in prices directly ​affect the value of reserves.
+
+Yahoo Finance • 1d ago
 
 ---
 
@@ -175,41 +177,37 @@ The New York Times • 1d ago
 
 ---
 
-**['Bitcoin Retail Investors Are All In' And That's Why There's No Floor, Blockstream CEO Says](https://finance.yahoo.com/news/bitcoin-retail-investors-thats-why-104508164.html)**
+**[Bitcoin price news: BTC slides to $65,000, Solana, XRP, dogecoin down 6%](https://www.coindesk.com/markets/2026/02/28/bitcoin-slides-to-usd65-000-in-weekend-sell-off-with-solana-xrp-dogecoin-down-6)**
 
-Blockstream CEO Adam Back told CNBC that Bitcoin (CRYPTO: BTC) lacks downside support because retail investors are “all in” with no cash left to buy dips, explaining the 25% year-to-date decline. The ‘All In’ Problem Back on Monday explained that...
+The pullback erased most of Wednesday's push toward $70,000 as hot producer-price data and a post-earnings Nvidia decline dragged risk assets lower heading into the weekend.
 
-Yahoo Finance • 18h ago
-
----
-
-**[The Bull Case for Bitcoin Is Hiding in the $1 Trillion Wreckage](https://www.bloomberg.com/news/articles/2026-02-25/the-bull-case-for-bitcoin-is-hiding-in-the-1-trillion-wreckage)**
-
-Bitcoin has been cut almost in half since its October high. By almost every measure, the selloff is the worst since the collapse of FTX. But there is a puzzle at the center of the wreckage: the institutional scaffolding that was built around the coin during the boom hasn’t come down with it.
-
-Bloomberg.com • 2d ago
+CoinDesk • 1h ago
 
 ---
 
-**[Former Mt. Gox CEO proposes hard fork to recover $5.2 billion in bitcoin from 2011 theft](https://www.theblock.co/post/391635/former-mt-gox-ceo-proposes-hard-fork-recover-5-2-billion-bitcoin-2011-theft)**
+**[Bitcoin Trading Patterns Show Unique 'U-Shaped' Structure](https://www.binance.com/en-KZ/square/post/296384643964386)**
 
-The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
-
-The Block • 7h ago
+Binance • 1h ago
 
 ---
 
-**[MARA Holdings Stock Surges. The Bitcoin Miner Is Moving Into AI.](https://www.barrons.com/articles/mara-holdings-earnings-stock-price-ai-e07c9341?gaa_at=eafs&gaa_n=AWEtsqcp7YlpqZWH_NsIe6ptiCmiDc753GDBjiKtkjSZkG33KalsZtmhxYhc&gaa_ts=69a26ba0&gaa_sig=yNpoaD2Vsw4-9hIre0G2lZPBbwI8XwgKTJqoM87tXQj_Nx9uKFr53Ke0BEw8npV4Dc-BXRQopK2azP8je-3L0A%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqfaXd9QtEtcvR-xxwkm1Ybs243gn8t2YyViN0Pl_iWT9wwbDTNP8SQf&gaa_ts=69a28341&gaa_sig=V4bLwELcxK25nbtg39_egep0o24bbOiPsmkIz7BqlJ9JKMw7Ggs6joqukUBIQCLQ6mx-P-4UosvvKI_BJ8vlCg%3D%3D)**
+
+Barron's • 20h ago
+
+---
+
+**[MARA Holdings Stock Surges. The Bitcoin Miner Is Moving Into AI.](https://www.barrons.com/articles/mara-holdings-earnings-stock-price-ai-e07c9341?gaa_at=eafs&gaa_n=AWEtsqfczoawIUqYFsljp2EKQvjoE2qaOe3NttDQ-O1P_EO0y9IfzkRDGyhp&gaa_ts=69a28341&gaa_sig=bV-B7gKGvV7P0DdxkCSdwbhXQpEEe6gXMJzQOGn1d5nDg4UfAYWwYFGDprI3JTh_GN5OvfNkTJlzipPFlk6AEg%3D%3D)**
 
 Barron's • 14h ago
 
 ---
 
-**[MARA swings to $1.7 billion Q4 loss on bitcoin markdown, shares jump 15% after Starwood AI deal](https://www.theblock.co/post/391530/mara-swings-1-7-billion-q4-loss-bitcoin-markdown-shares-jump-15-starwood-ai-deal)**
+**[Bitcoin Miner MARA jumps 17% after striking a deal with Starwood to build AI data centers](https://www.coindesk.com/markets/2026/02/26/bitcoin-miner-mara-jumps-17-after-striking-a-deal-with-starwood-to-build-ai-data-centers)**
 
-A steep accounting loss tied to bitcoin’s price decline overshadowed gains, but MARA is betting its future on AI-driven revenue.
+The bitcoin miner inked a deal with investment firm Starwood to convert and expand select facilities to serve data center needs for AI.
 
-The Block • 1d ago
+CoinDesk • 1d ago
 
 ---
 
@@ -219,11 +217,11 @@ Bloomberg.com • 1d ago
 
 ---
 
-**[Citi wants to make bitcoin bankable as Wall Street builds native crypto infrastructure](https://www.coindesk.com/business/2026/02/27/citi-and-morgan-stanley-expand-bitcoin-and-crypto-custody-trading-and-tokenization-efforts)**
+**[Former Mt. Gox CEO proposes hard fork to recover $5.2 billion in bitcoin from 2011 theft](https://www.theblock.co/post/391635/former-mt-gox-ceo-proposes-hard-fork-recover-5-2-billion-bitcoin-2011-theft)**
 
-The Wall Street giants are accelerating digital asset strategies, with Citi focusing on regulated Bitcoin custody and cross-margining infrastructure and Morgan Stanley pushing spot crypto access and on-platform services.
+The proposal acknowledges it would require a coordinated network upgrade and could risk a chain split if parts refuse to adopt the change.
 
-CoinDesk • 9h ago
+The Block • 8h ago
 
 ---
 
@@ -313,7 +311,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 365K • 👍 14K • 💬 1K • ⏱️ 18:56 • 11h ago
+👁️ 365K • 👍 14K • 💬 1K • ⏱️ 18:56 • 12h ago
 
 ---
 
@@ -323,7 +321,7 @@ Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and R
 
 📺 Anthony Pompliano
 
-👁️ 12K • 👍 508 • ⏱️ 22:53 • 6h ago
+👁️ 12K • 👍 508 • ⏱️ 22:53 • 7h ago
 
 ---
 
@@ -353,7 +351,7 @@ Bitcoin #Crypto #Finance Bitcoin's rally has stalled just as global markets face
 
 📺 The Wolf Of All Streets
 
-👁️ 12K • 👍 655 • 💬 174 • ⏱️ 25:02 • 14h ago
+👁️ 12K • 👍 655 • 💬 174 • ⏱️ 25:02 • 15h ago
 
 ---
 
@@ -401,7 +399,7 @@ Join Our Trading Group Discord - https://discord.gg/pJYe4Z9FWa Toobit - https://
 
 📺 Discover Crypto
 
-👁️ 2K • 👍 73 • 💬 1 • ⏱️ 0:48 • 3h ago
+👁️ 2K • 👍 73 • 💬 1 • ⏱️ 0:48 • 4h ago
 
 ---
 
