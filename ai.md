@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T16:54:43.941663+00:00'
+updated: '2026-03-01T17:23:36.748964+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- videos
 - repositories
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 16:54 UTC  
+**Last Updated:** March 01, 2026 at 17:23 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-9h ago
+10h ago
 
 ---
 
@@ -57,7 +57,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 1h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 2h ago
 
 ---
 
@@ -131,7 +131,7 @@ AP News • 18h ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 52m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ The Washington Post • 52m ago
 
 For some years now, groups, universities, organizations and authorities have developed and implemented AI for data analysis, tattoo identification, facial recognition and to give a voice to the missing.
 
-CNN • 1h ago
+CNN • 2h ago
 
 ---
 
@@ -147,7 +147,7 @@ CNN • 1h ago
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNBC • 2h ago
 
 Utilities announce hundreds of billions in spending as data centers boom and ratepayers' costs rise.
 
-Fortune • 8h ago
+Fortune • 9h ago
 
 ---
 
@@ -163,7 +163,7 @@ Fortune • 8h ago
 
 Campaign groups write to technology secretary amid concerns that sites could double overall electricity demand
 
-The Guardian • 54m ago
+The Guardian • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Guardian • 54m ago
 
 Postponing the closure of the Schahfer coal plant also means continued exposure to toxic emissions and leaks for nearby communities like Wheatfield.
 
-Chicago Tribune • 5h ago
+Chicago Tribune • 6h ago
 
 ---
 
@@ -179,7 +179,7 @@ Chicago Tribune • 5h ago
 
 NVIDIA today announced a commitment — together with Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank Corp. and T-Mobile — to build the world’s next generation of wireless networks on AI-native, open, secure and trustworthy platforms.
 
-NVIDIA Newsroom • 9h ago
+NVIDIA Newsroom • 10h ago
 
 ---
 
@@ -195,7 +195,7 @@ Fortune • 1d ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 12h ago
+Financial Times • 13h ago
 
 ---
 
@@ -223,7 +223,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 252 • 💬 184 • 2h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 252 • 💬 184 • 3h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -315,7 +315,7 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 6K • 👍 505 • 💬 94 • ⏱️ 20:52 • 3h ago
+👁️ 6K • 👍 505 • 💬 94 • ⏱️ 20:52 • 4h ago
 
 ---
 
@@ -325,7 +325,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 240K • 👍 9K • 💬 1K • ⏱️ 1:33:33 • 23h ago
+👁️ 240K • 👍 9K • 💬 1K • ⏱️ 1:33:33 • 1d ago
 
 ---
 
@@ -345,7 +345,7 @@ cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cut
 
 📺 Sleep Time Tales
 
-👁️ 5K • ⏱️ 0:08 • 1h ago
+👁️ 5K • ⏱️ 0:08 • 2h ago
 
 ---
 
@@ -375,7 +375,7 @@ cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cut
 
 📺 Sleep Time Tales
 
-👁️ 209K • 💬 3 • ⏱️ 0:08 • 8h ago
+👁️ 209K • 💬 3 • ⏱️ 0:08 • 9h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.6k • 🔱 2.7k • 27m ago
+⭐ 21.6k • 🔱 2.7k • 56m ago
 
 ---
 
@@ -663,7 +663,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 363 • 35m ago
+⭐ 3.8k • 🔱 363 • 1h ago
 
 ---
 
@@ -683,7 +683,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 484 • 9h ago
+⭐ 3.6k • 🔱 484 • 10h ago
 
 ---
 
@@ -703,7 +703,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 219 • 8h ago
+⭐ 3.0k • 🔱 219 • 9h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 3.0k • 🔱 297 • 16h ago
+⭐ 3.0k • 🔱 297 • 17h ago
 
 ---
 

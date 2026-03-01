@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T16:54:43.959224+00:00'
+updated: '2026-03-01T17:23:36.766449+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 16:54 UTC  
+**Last Updated:** March 01, 2026 at 17:23 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 3h ago
 
 ---
 
@@ -92,7 +92,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Yo everyone! ​I’m a third-year Electrical Engineering student currently working on a robotics project involving simulation and control systems. I’ve been trying to get a 2-axis (2-DOF) robotic arm running in MATLAB/Simulink using the Robotics System Toolbox. ​The Problem: I found some cool 3D models of an articulated arm, but they are in SolidWorks format (.SLDPRT and .SLDASM). I’m struggling to get these converted into a clean URDF (XML) file that MATLAB can actually importrobot. ​What I'm looking for: ​Does anyone have a link to a reliable 2-DOF or 3-DOF arm URDF (XML) that is already verified to work in MATLAB? ​If I stick with the SolidWorks models I found, what is the fastest way to export them to URDF without the file becoming a mess of hidden .xml extensions or broken joint links? ​Any tips on setting up a basic PID controller in Simulink once the model is imported? ​I’ve checked GitHub but most models are for huge 6-axis industrial arms like the UR5, which is overkill for my current assignment. ​Any links, repos, or advice would be massive! Thanks in advance.
 
-6h ago
+7h ago
 
 ---
 
@@ -118,7 +118,7 @@ CNBC • 1d ago
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 2h ago
+CNBC • 3h ago
 
 ---
 
@@ -240,7 +240,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 51K • 👍 4K • 💬 195 • ⏱️ 21:58 • 15h ago
+👁️ 51K • 👍 4K • 💬 195 • ⏱️ 21:58 • 16h ago
 
 ---
 
@@ -250,7 +250,7 @@ HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most su
 
 📺 Dariusz Tech
 
-👁️ 1K • 👍 123 • 💬 10 • ⏱️ 1:17 • 2h ago
+👁️ 1K • 👍 123 • 💬 10 • ⏱️ 1:17 • 3h ago
 
 ---
 
@@ -260,7 +260,7 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 128K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
+👁️ 128K • 👍 3K • 💬 1K • ⏱️ 7:18 • 5d ago
 
 ---
 

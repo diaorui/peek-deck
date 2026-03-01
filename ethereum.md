@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T16:54:43.956037+00:00'
+updated: '2026-03-01T17:23:36.763245+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 16:54 UTC  
+**Last Updated:** March 01, 2026 at 17:23 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-10h ago
+11h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum has talked about account abstraction for years, but EIP-8141 might finally move it into the protocol itself. Instead of wallets + relayers handling validation and gas, transactions would contain that logic directly (“frame transactions”). That could enable: • gas in any token • built-in batching • smart-account features for all wallets • no relayers Simple explanation here: https://btcusa.com/ethereum-account-abstraction-reaches-protocol-layer-inside-vitaliks-eip-8141-framework/
 
-6h ago
+7h ago
 
 ---
 
@@ -88,7 +88,7 @@ Ethereum has talked about account abstraction for years, but EIP-8141 might fina
 
 Piper Merriam deployed the IndividualityTokenRoot contract in September 2016 for Devcon2 in Shanghai. Each attendee could mint a unique on-chain token proving they were there — fully ERC-20 compliant, written in Solidity 0.3.6. The idea was simple: if you attended Devcon2, you could claim a token. The minting window closed after the event. No metadata, no images, no marketplace speculation — just cryptographic proof you were in the room. Three years later, POAP launched at ETHDenver 2019 and turned this concept into a whole ecosystem. But the original idea was already deployed and functional on mainnet in 2016. What I find interesting is how many "firsts" are buried in Ethereum's early history. The Devcon2 token was a working proof-of-attendance system years before anyone coined the term "POAP." Alex Van de Sande's Unicorn token (April 2016) had a DAO-governed token grinder with quadratic voting. The DAO itself was mid-2016. All of this predates DeFi Summer by four years. The contract is still on mainnet: 0xdd94de9cfe063577051a5eb7465d08317d8808b6 Source: Piper Merriam's GitHub repo with deployment details and minting logic. If you're interested in exploring more of these early contracts, ethereumhistory.com has been documenting them — 75+ contracts from 2015-2017 with sourced narratives.
 
-2h ago
+3h ago
 
 ---
 
@@ -202,13 +202,13 @@ BeInCrypto • 19h ago
 
 Dubai, UAE, Feb.  28, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced $7.368 million raised in presale funding while Ethereum dropped below $1,900...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
 **[Income Hunters Pile In: NEOS Ethereum ETF Sees Nearly 10% AUM Inflow as Ether Slides](https://www.tipranks.com/news/cryptocurrencies/income-hunters-pile-in-neos-ethereum-etf-sees-nearly-10-aum-inflow-as-ether-slides)**
 
-TipRanks • 6h ago
+TipRanks • 7h ago
 
 ---
 
@@ -216,7 +216,7 @@ TipRanks • 6h ago
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
-Decrypt • 1d ago
+Decrypt • 2d ago
 
 ---
 
@@ -224,7 +224,7 @@ Decrypt • 1d ago
 
 Ethereum staking hits record high, but is this just another “sell-the-news” moment?
 
-AMBCrypto • 18h ago
+AMBCrypto • 19h ago
 
 ---
 
@@ -278,7 +278,7 @@ Congratulations to all the people who stuck it out and are still in the cryptocu
 
 📺 The Modern Investor
 
-👁️ 4K • 👍 619 • 💬 179 • ⏱️ 31:18 • 6h ago
+👁️ 4K • 👍 619 • 💬 179 • ⏱️ 31:18 • 7h ago
 
 ---
 
@@ -288,7 +288,7 @@ BITCOIN & CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum & 
 
 📺 Crypto World
 
-👁️ 9K • 👍 333 • 💬 85 • ⏱️ 18:00 • 17h ago
+👁️ 9K • 👍 333 • 💬 85 • ⏱️ 18:00 • 18h ago
 
 ---
 
@@ -308,7 +308,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 148 • 💬 6 • ⏱️ 3:55 • 18h ago
+👁️ 2K • 👍 148 • 💬 6 • ⏱️ 3:55 • 19h ago
 
 ---
 

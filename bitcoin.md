@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T16:54:43.950112+00:00'
+updated: '2026-03-01T17:23:36.757301+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- videos
 - cryptocurrency
+- videos
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 16:54 UTC  
+**Last Updated:** March 01, 2026 at 17:23 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-1h ago
+2h ago
 
 ---
 
@@ -111,7 +111,7 @@ Thoughts on buying 250 usd worth of bitcoin every week for the next couple of ye
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-10h ago
+11h ago
 
 ---
 
@@ -119,7 +119,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
 
-2h ago
+3h ago
 
 ---
 
@@ -135,7 +135,7 @@ Based on my technical analysis, which I do have a few years of experience in, BT
 
 Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation? EDIT: didn’t think so many people would get offended by my thoughts. I’m just curious as to how others are feeling regarding the current state of the market. Now I’m getting told that I’m trying to build bearish sentiment on the timeline. Wtf?
 
-22h ago
+23h ago
 
 ---
 
@@ -143,7 +143,7 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, built on the Bitaxe GT 801 platform with dual BM1370 chips. Quick rundown: 2.15 TH/s default, 3.06+ TH/s overclocked 4.3" capacitive touchscreen with 8 live screens (hashrate, block height, latest blocks, BTC price, clock, Wi-Fi config, settings, hashrate graph) All screen data pulls from mempool.space ~43W, ~35 dB Mining firmware is mainline AxeOS (esp-miner), screen firmware is BAP-GT-TOUCH, both fully open source Runs on the ESP32-S3 with Wi-Fi, same as other Bitaxe models The big jump from the original Bitaxe Touch is doubling the hashrate (was ~1.0 TH/s on the single BM1370 version), going from 4 screens to 8, and moving the screen firmware from proprietary to open source through the GT 801's Bitaxe Accessory Port. It was shown off at the HeatPunk Summit in Denver this week. Full technical breakdown here: https://www.solosatoshi.com/bitaxe-touch-unveiled/ Happy to answer any questions about the hardware or firmware. https://preview.redd.it/4pkalprlpbmg1.png?width=940&format=png&auto=webp&s=8fa61aac5ec82447679162cbfd3bc7035d619063 https://preview.redd.it/eowlutrlpbmg1.png?width=940&format=png&auto=webp&s=25284ed91c26ad2e1bf23b7600ec5ac4d7542926 https://preview.redd.it/vpm4exrlpbmg1.png?width=940&format=png&auto=webp&s=0733ea99d58e508597a6a2d1afb7c79a62ac8c8f https://preview.redd.it/yx0rv1slpbmg1.png?width=940&format=png&auto=webp&s=d97f2210eb9003188d229f0fcc3d8ad584392ac1 https://preview.redd.it/vcwhozrlpbmg1.png?width=940&format=png&auto=webp&s=2aa3dce9f95bec81d63fd92514fb08889dab372f https://preview.redd.it/xdh9g4slpbmg1.png?width=940&format=png&auto=webp&s=e42ccaf53253fa56de0292caf7371f85f1cdf84d https://preview.redd.it/25hd76slpbmg1.png?width=940&format=png&auto=webp&s=1c76894f9e96103c3d114738b7576747924ad247 https://preview.redd.it/bfmte8slpbmg1.png?width=940&format=png&auto=webp&s=558dcb23d0c0c297d6f1c7f4c4f8535cea53bb47 https://preview.redd.it/hzz55dslpbmg1.png?width=940&format=png&auto=webp&s=672936b1e0dbd42e96d7e8fb6b14488ac389e794 https://preview.redd.it/z1jlm9slpbmg1.png?width=940&format=png&auto=webp&s=fb42b49425d9ddb84903ce135e2b5f1b3624691a
 
-16h ago
+17h ago
 
 ---
 
@@ -151,7 +151,7 @@ The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, bui
 
 There's like three active users anymore.
 
-14h ago
+15h ago
 
 ---
 
@@ -163,7 +163,7 @@ There's like three active users anymore.
 
 The company holds about 8,285 bitcoin in Coinbase Prime custody, a stake now worth roughly $545 million after a $235 million decline in value over the past three months.
 
-CoinDesk • 3h ago
+CoinDesk • 4h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 14h ago
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 13h ago
+Bloomberg.com • 14h ago
 
 ---
 
@@ -185,7 +185,7 @@ Bloomberg.com • 13h ago
 
 Tether Gold and Paxos Gold spiked on Saturday after the US announced it had bombed Iran. Bitcoin and Ethereum dropped in price. Tokenised gold is proving useful to give investors exposure to safe-haven assets.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -201,7 +201,7 @@ Fortune • 2d ago
 
 The Bitcoin treasury trade has been unwinding for months. One treasury approved the sale of its 7,500 Bitcoin reserves while another received a damning letter from shareholders.  “The original idea was an unsound one,” said Bitcoin analyst James Check.
 
-dlnews.com • 15h ago
+dlnews.com • 16h ago
 
 ---
 
@@ -217,7 +217,7 @@ Polymarket • 1d ago
 
 A 2023-style bottom signal has reappeared for bitcoin, but analysts say weaker liquidity, ETF flow trends, and sticky inflation could limit a repeat of last cycle’s 130% rebound.
 
-Bitbo • 18h ago
+Bitbo • 19h ago
 
 ---
 
@@ -321,7 +321,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 190 • ⏱️ 19:16 • 16h ago
+👁️ 18K • 👍 1K • 💬 190 • ⏱️ 19:16 • 17h ago
 
 ---
 
@@ -361,7 +361,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 233 • ⏱️ 36:35 • 18h ago
+👁️ 28K • 👍 1K • 💬 233 • ⏱️ 36:35 • 19h ago
 
 ---
 
@@ -371,7 +371,7 @@ Geopolitical fear is gripping the markets. News of military strikes in Iran sent
 
 📺 Gareth Soloway
 
-👁️ 75K • 👍 4K • 💬 683 • ⏱️ 12:42 • 20h ago
+👁️ 75K • 👍 4K • 💬 683 • ⏱️ 12:42 • 21h ago
 
 ---
 
@@ -381,7 +381,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 625K • 👍 21K • 💬 2K • ⏱️ 18:56 • 1d ago
+👁️ 625K • 👍 21K • 💬 2K • ⏱️ 18:56 • 2d ago
 
 ---
 
