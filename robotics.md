@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T06:49:45.959233+00:00'
+updated: '2026-03-01T07:33:43.255360+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 06:49 UTC  
+**Last Updated:** March 01, 2026 at 07:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -52,12 +52,6 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 ---
 
-**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
-
-4h ago
-
----
-
 **[Robotic Parcel Sorting (Letter / Small Polybag) for places like USPS & Pitney Bowes](https://www.reddit.com/r/robotics/comments/1rhaedz/robotic_parcel_sorting_letter_small_polybag_for/)**
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
@@ -66,11 +60,17 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 ---
 
+**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
+
+4h ago
+
+---
+
 **[BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON"](https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/)**
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-19h ago
+20h ago
 
 ---
 
@@ -90,7 +90,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 **[A Humanoid Robot Line Up (Part II)](https://www.reddit.com/r/robotics/comments/1rhjmza/a_humanoid_robot_line_up_part_ii/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -105,14 +105,6 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 ---
 
 ## Google News: "robotics"
-
-**[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)**
-
-+++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
-
-BMW Group • 1d ago
-
----
 
 **[BMW to put humanoid robots on production line at German plant](https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312)**
 
@@ -130,11 +122,19 @@ news.cgtn.com • 4h ago
 
 ---
 
+**[BMW Deploys Humanoid Robots in Europe for the First Time](https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/)**
+
+BMW is deploying humanoid robots at its Leipzig plant for the first time in Europe. Here's what the pilot involves and what it means for the future of car production.
+
+BMW Blog • 1d ago
+
+---
+
 **[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 17h ago
+CNBC • 18h ago
 
 ---
 
@@ -152,12 +152,6 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfhkWxZmcfwJl1LE23hawpsBUaWGh-5JKwPIhChmRw8QmRJhZ7yF3LM&gaa_ts=69a3d7b8&gaa_sig=M0rEiY9pzr92e9VbSe3KnnZPTQfpJkJ-gOdCn4vAZ97wlN-MyxAmPielYPBQJvJY6jkZYxWDXx07KPC9s_Y4AA%3D%3D)**
-
-WSJ • 1d ago
-
----
-
 **[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
 
 Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
@@ -169,6 +163,12 @@ Fortune • 2d ago
 **[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
 Bloomberg.com • 2d ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeG0dBVIvDXGbY3QQzNUwO4mPXsMvL9EJeAlEfYlYhaKXf9ikd5N_K2&gaa_ts=69a3ef44&gaa_sig=bJgWdh0-8qzmMKO2AS3JJR60nHx4MkQqQnogvbY5rTNAsdvYNpwizhPhmzF8EKJ8kB-CNW7SWfgVtWaNpqaaNg%3D%3D)**
+
+WSJ • 1d ago
 
 ---
 
@@ -198,7 +198,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 13K • 👍 1K • 💬 80 • ⏱️ 21:58 • 5h ago
+👁️ 13K • 👍 1K • 💬 80 • ⏱️ 21:58 • 6h ago
 
 ---
 

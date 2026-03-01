@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T06:49:45.941827+00:00'
+updated: '2026-03-01T07:33:43.237664+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
 - repositories
+- videos
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 06:49 UTC  
+**Last Updated:** March 01, 2026 at 07:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,9 +37,25 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Deleted my GPT account and ported my AI game project to Claude. Wow!](https://www.reddit.com/r/artificial/comments/1rhqqtw/deleted_my_gpt_account_and_ported_my_ai_game/)**
+
+I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
+
+23m ago
+
+---
+
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
 🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 1d ago
+
+---
+
+**[I built a Claude system prompt that automatically populates NotebookLM notebooks](https://www.reddit.com/r/artificial/comments/1rhpoml/i_built_a_claude_system_prompt_that_automatically/)**
+
+I've been using NotebookLM heavily for research and got tired of manually hunting down and adding sources. So I wrote a system prompt that hands the whole process off to Claude. When you give it a topic, Claude starts by creating the notebook and drafting a structured research plan for your approval — organized into thematic phases and prioritizing academic and institutional sources (arXiv, PubMed, government reports, technical standards) over generic web content. It validates every URL before adding it, fetching and inspecting each one to catch silent 404s, paywalls, and login walls that NotebookLM would otherwise silently accept. State is persisted across sessions using notes inside the notebook itself, so when Claude hits its session limit you just start a new conversation, paste the notebook URL, and it picks up where it left off. When the notebook is complete, Claude writes a full _REPORT note documenting every source added, skipped, or recommended. Full prompt and setup instructions are on GitHub: github.com/stablediffusiontrainer-cmd/notebooklm-research-skill Happy to answer questions about how it works or how I built it.
+
+1h ago
 
 ---
 
@@ -67,11 +83,11 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 ---
 
-**[Does anyone else notice that crypto communities tend toward tribalism while AI communities don't?](https://www.reddit.com/r/artificial/comments/1rhmn1l/does_anyone_else_notice_that_crypto_communities/)**
+**[Give autonomous military power to AI?](https://www.reddit.com/r/artificial/comments/1rhqpzg/give_autonomous_military_power_to_ai/)**
 
-I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
+Yes, of course. Because it’s not really a choice. It’s just a matter of when, and how. Because if your enemy does it and you don’t, you lose. A quick jump forward in time: All wars are fought with autonomous AI-systems. The “good” news is that in a war between two equally powerful parties, the defending party will always have an advantage. Will this lead to more peace on earth?
 
-3h ago
+25m ago
 
 ---
 
@@ -91,27 +107,11 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 ---
 
-**[Paper: The framing of a system prompt changes how a transformer generates tokens — measured across 3,830 runs with effect sizes up to d>1.0](https://www.reddit.com/r/artificial/comments/1rgv1kl/paper_the_framing_of_a_system_prompt_changes_how/)**
+**[Does anyone else notice that crypto communities tend toward tribalism while AI communities don't?](https://www.reddit.com/r/artificial/comments/1rhmn1l/does_anyone_else_notice_that_crypto_communities/)**
 
-Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
+I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
 
-1d ago
-
----
-
-**[Anthropic rejects latest Pentagon offer: ‘We cannot in good conscience accede to their request’](https://www.reddit.com/r/artificial/comments/1rfsjv7/anthropic_rejects_latest_pentagon_offer_we_cannot/)**
-
-Anthropic is rejecting the Pentagon’s latest offer to change their contract, saying the changes do not satisfy the company’s concerns that AI could be used for mass surveillance or in fully autonomous weapons.
-
-🔗 [CNN](https://www.cnn.com/2026/02/26/tech/anthropic-rejects-pentagon-offer) • 2d ago
-
----
-
-**[Acing this new AI exam — which its creators say is the toughest in the world — might point to the first signs of AGI](https://www.reddit.com/r/artificial/comments/1rhccfv/acing_this_new_ai_exam_which_its_creators_say_is/)**
-
-Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
-
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 10h ago
+4h ago
 
 ---
 
@@ -119,9 +119,11 @@ Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of A
 
 ## Google News: "ai"
 
-**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
+**[OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic](https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems)**
 
-The New York Times • 1d ago
+OpenAI CEO Sam Altman announced late Friday that the company had signed a deal with the Pentagon for its AI tools to be used in the military’s classified systems, but with seemingly similar guardrails rival Anthropic had also requested.
+
+CNN • 1d ago
 
 ---
 
@@ -129,31 +131,29 @@ The New York Times • 1d ago
 
 Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
 
-The Guardian • 20h ago
+The Guardian • 21h ago
 
 ---
 
-**[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
+**[Nvidia Forms Alliance to Make Sure 6G Networks Embrace AI](https://www.bloomberg.com/news/articles/2026-03-01/nvidia-forms-alliance-to-make-sure-6g-networks-embrace-ai)**
 
-Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
-
-Financial Times • 2h ago
+Bloomberg.com • 18m ago
 
 ---
 
-**[OpenAI CEO Sam Altman answers questions on new Pentagon deal: 'This technology is super important'](https://www.foxbusiness.com/technology/openai-ceo-sam-altman-answers-questions-new-pentagon-deal)**
+**[Investment in AI-resistant ‘Halo’ companies helps push UK and EU markets to record highs](https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs)**
 
-OpenAI CEO Sam Altman defends Pentagon AI deal as Trump orders federal agencies to cut ties with rival Anthropic over military surveillance concerns.
+Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-Fox Business • 3h ago
+The Guardian • 33m ago
 
 ---
 
-**[Walmart exec says U.S. workforces needs to take inspiration from China where ‘5 year-olds are learning DeepSeek’](https://fortune.com/2026/02/27/walmart-chief-people-officer-donna-morris-china-artifical-intelligence-tech-training-deepseek-united-states-workforce-needs-upskilling/)**
+**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
 
-As AI threatens white-collar work, the U.S. should learn from China’s tech training for children, said Walmart chief people officer Donna Morris.
+From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
 
-Fortune • 1d ago
+Fortune • 21h ago
 
 ---
 
@@ -161,15 +161,13 @@ Fortune • 1d ago
 
 The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-NBC News • 18h ago
+NBC News • 19h ago
 
 ---
 
-**[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
+**[India Built the World’s Back Office. A.I. Is Starting to Shrink It.](https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html)**
 
-Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
-
-CNN • 22h ago
+The New York Times • 2d ago
 
 ---
 
@@ -177,7 +175,15 @@ CNN • 22h ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 17h ago
+CNBC • 18h ago
+
+---
+
+**[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
+
+Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
+
+Financial Times • 3h ago
 
 ---
 
@@ -189,14 +195,6 @@ OpenAI • 10h ago
 
 ---
 
-**[Anthropic CEO says he's sticking to AI "red lines" despite clash with Pentagon](https://www.cbsnews.com/news/pentagon-anthropic-dario-amodei-cbs-news-interview-exclusive/)**
-
-After the Trump administration cut it off, Anthropic CEO Dario Amodei told CBS News in an exclusive interview Friday night he wants to work with the military — but only if it addresses the firm's concerns.
-
-CBS News • 19h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +203,7 @@ CBS News • 19h ago
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 600 • 💬 573 • 2d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 601 • 💬 573 • 2d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
@@ -219,7 +217,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 311 • 💬 176 • 18h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 317 • 💬 177 • 18h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -227,7 +225,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 297 • 💬 177 • 17h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 302 • 💬 179 • 18h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -247,7 +245,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 123 • 💬 98 • 20h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 125 • 💬 99 • 20h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -259,19 +257,19 @@ Aiming for a 10 year life-cycle for smartphones
 
 ---
 
+**[Burger King will use AI to check if employees say 'please' and 'thank you'](https://news.ycombinator.com/item?id=47165606)**
+
+Have it your way?
+
+⬆️ 81 • 💬 95 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
+
+---
+
 **[Trump orders federal agencies to stop using Anthropic AI tech 'immediately'](https://news.ycombinator.com/item?id=47185528)**
 
 "The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
 
 ⬆️ 80 • 💬 1 • 1d ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
-
----
-
-**[Burger King will use AI to check if employees say 'please' and 'thank you'](https://news.ycombinator.com/item?id=47165606)**
-
-Have it your way?
-
-⬆️ 79 • 💬 95 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
 
 ---
 
@@ -285,7 +283,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 122K • 👍 5K • 💬 973 • ⏱️ 1:33:33 • 13h ago
+👁️ 122K • 👍 5K • 💬 973 • ⏱️ 1:33:33 • 14h ago
 
 ---
 
@@ -295,7 +293,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 45K • 👍 993 • 💬 184 • ⏱️ 39:40 • 14h ago
+👁️ 45K • 👍 993 • 💬 184 • ⏱️ 39:40 • 15h ago
 
 ---
 
@@ -315,7 +313,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 103K • 👍 7K • 💬 1K • ⏱️ 14:41 • 15h ago
+👁️ 103K • 👍 7K • 💬 1K • ⏱️ 14:41 • 16h ago
 
 ---
 
@@ -335,7 +333,7 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 7K • 👍 194 • 💬 12 • ⏱️ 1:29:27 • 7h ago
+👁️ 7K • 👍 194 • 💬 12 • ⏱️ 1:29:27 • 8h ago
 
 ---
 
@@ -487,7 +485,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 214 • 18h ago
+⬇️ 8,049 • ❤️ 214 • 19h ago
 
 ---
 
@@ -643,7 +641,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Rust` `official` `official-website`
 
-⭐ 21.3k • 🔱 2.7k • 54m ago
+⭐ 21.3k • 🔱 2.7k • 1h ago
 
 ---
 
@@ -663,7 +661,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 362 • 2h ago
+⭐ 3.7k • 🔱 362 • 3h ago
 
 ---
 
@@ -693,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.2k • 🔱 253 • 18h ago
+⭐ 3.2k • 🔱 253 • 19h ago
 
 ---
 
@@ -703,7 +701,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 325 • 17h ago
+⭐ 3.0k • 🔱 325 • 18h ago
 
 ---
 
@@ -713,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 215 • 2h ago
+⭐ 3.0k • 🔱 215 • 3h ago
 
 ---
 
@@ -733,7 +731,7 @@ A desktop GUI for Claude Code — chat, code, and manage projects visually. Buil
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 2.5k • 🔱 257 • 13h ago
+⭐ 2.5k • 🔱 257 • 14h ago
 
 ---
 
