@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T15:25:00.962259+00:00'
+updated: '2026-03-01T15:46:52.956422+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 15:25 UTC  
+**Last Updated:** March 01, 2026 at 15:46 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-4h ago
+5h ago
 
 ---
 
@@ -48,7 +48,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -60,9 +60,15 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 ---
 
+**[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
+
+11m ago
+
+---
+
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -70,7 +76,7 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-20h ago
+21h ago
 
 ---
 
@@ -92,45 +98,13 @@ Yo everyone! ​I’m a third-year Electrical Engineering student currently work
 
 **[I'm looking for help on simscape multibody for my Master 1 project ( help 😭!)](https://www.reddit.com/r/robotics/comments/1rhtbrr/im_looking_for_help_on_simscape_multibody_for_my/)**
 
-5h ago
-
----
-
-**[BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON"](https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/)**
-
-BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
-
-1d ago
+6h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
-
-Televised gala offers a showcase and opportunity for the best of Chinese tech
-
-Financial Times • 2d ago
-
----
-
-**[China releases national standards for humanoid robots and embodied AI](https://news.cgtn.com/news/2026-03-01/China-releases-national-standards-for-humanoid-robots-and-embodied-AI-1L9p2ncOuSA/p.html)**
-
-China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
-
-news.cgtn.com • 12h ago
-
----
-
-**[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)**
-
-+++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
-
-BMW Group • 2d ago
-
----
 
 **[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
 
@@ -140,9 +114,39 @@ CNBC • 1d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqd9rzrhujEwaUCWCT-yjSpO2Daaf6CMWzRf56W0Hk1JNREsDZO4rSEZ&gaa_ts=69a44fcd&gaa_sig=iYPjdmeaom3BGnmwEOzyP6XODd_xlYHdcwv3cvstrQkawNQPojAiHwBCJ_9741aZFFvCksBtHIiwwqY7hkskIw%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfmSsI8tZzdxicO8yo-G1Yf6_LSR0M9RtMOxqWXagCA8ZxFhvsPITWO&gaa_ts=69a462d8&gaa_sig=94cusoI44v0w6Brm7iGFU-LQgpQ8vuN4-ZZ4c2X27hFVpouFlT_3OyXe4oKpTkiu6zwrj1Q9hebEH_kY8yL3qg%3D%3D)**
 
 WSJ • 1d ago
+
+---
+
+**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
+
+Televised gala offers a showcase and opportunity for the best of Chinese tech
+
+Financial Times • 2d ago
+
+---
+
+**[Why China’s humanoid robot industry is winning the early market](https://techcrunch.com/2026/02/28/why-chinas-humanoid-robot-industry-is-winning-the-early-market/)**
+
+China’s push into humanoid robots is accelerating, with domestic firms shipping more units and iterating faster than U.S. competitors in a still-nascent market.
+
+TechCrunch • 1d ago
+
+---
+
+**[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
+
+Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
+
+CNBC • 1h ago
+
+---
+
+**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+
+Tech Xplore • 2d ago
 
 ---
 
@@ -151,12 +155,6 @@ WSJ • 1d ago
 Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
 
 Fortune • 3d ago
-
----
-
-**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
-
-Tech Xplore • 1d ago
 
 ---
 
@@ -170,15 +168,13 @@ Los Angeles Times • 1d ago
 
 **[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
-**[Carnegie Mellon University opens robotics innovation center in Pittsburgh](https://www.wtae.com/article/pittsburgh-robotics-carnegie-mellon/70540656)**
+**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
 
-The former steel mill site is now a place where future scientific professionals can grow and be inspired. CMU envisions Pittsburgh as a potential hub for artificial intelligence and robotics.
-
-WTAE • 1d ago
+TribLIVE.com • 1d ago
 
 ---
 

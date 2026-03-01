@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T15:25:00.958927+00:00'
+updated: '2026-03-01T15:46:52.953159+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 15:25 UTC  
+**Last Updated:** March 01, 2026 at 15:46 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.8%  
-**7d:** +8.2%  
+**24h:** +5.6%  
+**7d:** +8.3%  
 **30d:** -18.1%  
-**90d:** -32.9%  
-**1y:** -20.3%  
+**90d:** -32.8%  
+**1y:** -20.2%  
 
 ---
 
@@ -160,14 +160,6 @@ Nasdaq • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum ‘pumping hard’ after Iran strikes, but states brace for financial fallout](https://www.dlnews.com/articles/markets/bitcoin-ethereum-pumping-hard-after-iran-strikes-experts/)**
-
-Bitcoin rises near $67,000 mark, with Ethereum nearing $2,000. Iran has confirmed the death of supreme leader Ayatollah Ali Khamenei. The real price reveal is coming tomorrow, expert says.
-
-dlnews.com • 4h ago
-
----
-
 **[Vitalik Buterin reveals his bold new plan to fix Ethereum’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
@@ -176,15 +168,15 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeb0RM7SxKiRX59r6Bhjv07LPspF5VvJH5eLFpMvTG7QzjS1efSJ_1E&gaa_ts=69a44fcb&gaa_sig=5fcTgSk2zXXM_tdevZtv2jGAVbRJGE3kRTjBWQCUrC1aZP8P5MZjPvASIiKLtfjr0II475113YBFPaGjio15KA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdkShaa8mDGpHuch55IrSL25ABh8GQ7yihtlUsK7iUYUaGGz_2WKJz-&gaa_ts=69a462d7&gaa_sig=yYkVPTLMdyTH-eKsVWCC_TjPn77CSs7ImY6F-lSv7BSmO4ehtTe38K0y7mhxxbrK3wMAaYeiC0w3GwRjyJRC8Q%3D%3D)**
 
 Barron's • 2d ago
 
 ---
 
-**[How to buy ethereum — and what to know before you do](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-ethereum--and-what-to-know-before-you-do-221336099.html)**
+**[Bitmine Becomes Top Ethereum Staker As MAVAN Puts Valuation In Focus](https://finance.yahoo.com/news/bitmine-becomes-top-ethereum-staker-101031320.html)**
 
-Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
+Bitmine Immersion Technologies (NYSEAM:BMNR) has become the largest Ethereum staker globally, holding 3.66% of the total ETH supply. The company now controls more than 4.4 million ETH, shifting focus from accumulation to large scale staking activity. Bitmine is preparing to launch its Made in America Validator Network (MAVAN), aimed at expanding its Ethereum staking revenues. For you as an investor, this move puts Bitmine firmly in the middle of Ethereum's core infrastructure, rather than...
 
 Yahoo Finance • 2d ago
 
@@ -202,7 +194,15 @@ TradingView • 1d ago
 
 Ethereum price faces mixed signals as holder retention rebounds while network growth slows and $1,816 support remains critical.
 
-BeInCrypto • 17h ago
+BeInCrypto • 18h ago
+
+---
+
+**[Crypto News Today: Pepeto Hits $7.368M as Ethereum Price Prediction Targets $5,000 but War Drops ETH to $1,800](https://markets.businessinsider.com/news/stocks/crypto-news-today-pepeto-hits-7-368m-as-ethereum-price-prediction-targets-5-000-but-war-drops-eth-to-1-800-1035881916)**
+
+Dubai, UAE, Feb.  28, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced $7.368 million raised in presale funding while Ethereum dropped below $1,900...
+
+markets.businessinsider.com • 19h ago
 
 ---
 
@@ -238,7 +238,7 @@ Did Vitalik Buterin just dump Ethereum at the worst possible time? After announc
 
 📺 Coin Bureau
 
-👁️ 7K • 👍 543 • 💬 66 • ⏱️ 18:01 • 2h ago
+👁️ 7K • 👍 543 • 💬 66 • ⏱️ 18:01 • 3h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 542 • 👍 77 • 💬 2 • ⏱️ 7:25 • 2h ago
+👁️ 542 • 👍 77 • 💬 2 • ⏱️ 7:25 • 3h ago
 
 ---
 
@@ -298,7 +298,7 @@ Bitcoin VS Ethereum #bitcoin #crypto #finance #investissement #eth #bullrun #jul
 
 📺 Julien Roman | Crypto & Analyses
 
-👁️ 361 • 👍 9 • ⏱️ 0:19 • 1h ago
+👁️ 361 • 👍 9 • ⏱️ 0:19 • 2h ago
 
 ---
 

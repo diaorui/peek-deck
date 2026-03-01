@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T15:25:00.944369+00:00'
+updated: '2026-03-01T15:46:52.938613+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - news
+- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 15:25 UTC  
+**Last Updated:** March 01, 2026 at 15:46 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 4h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 5h ago
 
 ---
 
@@ -50,6 +50,14 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
 8h ago
+
+---
+
+**[OpenAI eyes global domination with $110B Amazon and NVIDIA raise, value hits $840B](https://www.reddit.com/r/artificial/comments/1rhzn14/openai_eyes_global_domination_with_110b_amazon/)**
+
+Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
+
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 35m ago
 
 ---
 
@@ -67,11 +75,27 @@ I’m been thinking a lot about pricing models for ai native apps. For the last 
 
 ---
 
+**[A.I is getting out of hand.](https://www.reddit.com/r/artificial/comments/1rhyufx/ai_is_getting_out_of_hand/)**
+
+I used to love the days when you could watch a few videos of random stuff and be like that’s cool and all that. But these days 9 in 10 videos are this A.I stuff that looks so fake it hurts my brain. How do people make it and think ow that looks really good I’m going to post that. What are your thoughts on A.I at the moment.
+
+1h ago
+
+---
+
 **[How do you handle all these AI subscribtions?](https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/)**
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-19h ago
+20h ago
+
+---
+
+**[AI to make logo for my brand?](https://www.reddit.com/r/artificial/comments/1rhl9sf/ai_to_make_logo_for_my_brand/)**
+
+Hello, I was wondering which AI can give me the best result for pictures as brands? I started new one recently but I am struggling with making it's logo, I used Chatgpt and the results sucks so I need suggestions. Thanks!
+
+13h ago
 
 ---
 
@@ -87,57 +111,13 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-20h ago
-
----
-
-**[Trump orders federal agencies to stop using Anthropic AI tech ‘immediately’](https://www.reddit.com/r/artificial/comments/1rgkegx/trump_orders_federal_agencies_to_stop_using/)**
-
-Source CNBC President Donald Trump ordered U.S. government agencies to “immediately cease” using technology from the artificial intelligence company Anthropic. The AI startup faces pressure by the Defense Department to comply with demands that it can use the company’s technology without restrictions sought by Anthropic. The company wants the Pentagon to assure it that the AI models will not be used for fully autonomous weapons or mass domestic surveillance of Americans. Another major AI company, OpenAI, said it has the same “red lines” as Anthropic regarding the use of its technology by the Pentagon and other customers. The president also said there would be a six-month phase-out for agencies such as the Defense Department, which “are using Anthropic’s products, at various levels.”
-
-1d ago
-
----
-
-**[Paper: The framing of a system prompt changes how a transformer generates tokens — measured across 3,830 runs with effect sizes up to d>1.0](https://www.reddit.com/r/artificial/comments/1rgv1kl/paper_the_framing_of_a_system_prompt_changes_how/)**
-
-Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
-
-1d ago
-
----
-
-**[Does anyone else notice that crypto communities tend toward tribalism while AI communities don't?](https://www.reddit.com/r/artificial/comments/1rhmn1l/does_anyone_else_notice_that_crypto_communities/)**
-
-I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
-
-11h ago
+21h ago
 
 ---
 
 ---
 
 ## Google News: "ai"
-
-**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
-
-The New York Times • 23h ago
-
----
-
-**[What to know about the clash between the Pentagon and Anthropic over military’s AI use](https://apnews.com/article/anthropic-pentagon-ai-dario-amodei-hegseth-0c464a054359b9fdc80cf18b0d4f690c)**
-
-A high-stakes dispute over how the U.S. military uses artificial intelligence has led the Pentagon to cancel its contract with rising AI star Anthropic.
-
-AP News • 16h ago
-
----
-
-**[What’s Really at Stake in the Fight Between Anthropic and the Pentagon](https://www.wsj.com/tech/ai/whats-really-at-stake-in-the-fight-between-anthropic-and-the-pentagon-d450c1a1?gaa_at=eafs&gaa_n=AWEtsqdWaF8TLw0OlzzVI5OCal5v5vtOZirwVjBYEQ6zFCqZA2VIEtd3mtig&gaa_ts=69a44fc8&gaa_sig=Gpa0piD0tZRc7mu5VWfLOqESk-F_krrZjLRiCFlNhjVzz1f7-IXx1Xxi1T8hKZTNA1NdgS18ZjY-0TN0VeOt4w%3D%3D)**
-
-WSJ • 4h ago
-
----
 
 **[AI-resistant ‘halo’ stocks drive UK and EU markets to record highs](https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs)**
 
@@ -147,17 +127,41 @@ The Guardian • 2h ago
 
 ---
 
-**['Silent failure at scale': The AI risk that can tip the business world into disorder](https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html)**
+**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
-
-CNBC • 1h ago
+The New York Times • 1d ago
 
 ---
 
-**[Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://www.sfgate.com/news/politics/article/trump-expects-his-fed-pick-and-ai-to-deliver-a-21948716.php)**
+**[Trump orders US agencies to stop use of Anthropic technology amid dispute over ethics of AI](https://www.theguardian.com/us-news/2026/feb/27/trump-anthropic-ai-federal-agencies)**
 
-SFGATE • 1h ago
+Hours after exclusion of Anthropic, OpenAI announces fresh Pentagon deal, but says it will maintain same safety guardrails at the heart of the dispute
+
+The Guardian • 1d ago
+
+---
+
+**[AI executive Dario Amodei on the red lines Anthropic would not cross](https://www.cbsnews.com/news/ai-executive-dario-amodei-on-the-red-lines-anthropic-would-not-cross/)**
+
+The CEO of Anthropic says his company refused to allow its technology to be used by the Trump Administration without certain guidelines (such as not using its AI to power fully-autonomous weapons without any human involvement).
+
+CBS News • 23m ago
+
+---
+
+**[Rebuilding faces and identifying tattoos, AI joins the search for the missing in Mexico](https://www.cnn.com/2026/03/01/world/ai-mexico-missing-people-cec)**
+
+For some years now, groups, universities, organizations and authorities have developed and implemented AI for data analysis, tattoo identification, facial recognition and to give a voice to the missing.
+
+CNN • 46m ago
+
+---
+
+**[Power Hungry: How The AI Boom Is Forcing A Clean Energy Reckoning](https://www.forbes.com/sites/kensilverstein/2026/03/01/the-ai-energy-tax-data-centers-are-driving-up-your-electric-bills/)**
+
+Surging electricity demand from AI data centers is colliding with a federal energy policy that favors slow-build fossil fuels over fast-deploy renewables. Price impact?
+
+Forbes • 46m ago
 
 ---
 
@@ -165,29 +169,31 @@ SFGATE • 1h ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 2h ago
+The Washington Post • 54m ago
 
 ---
 
-**[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
+**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
 
-Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
+From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
 
-CNN • 1d ago
-
----
-
-**[Your utility bills keep going up. Here’s everyone you can blame—AI data centers included](https://fortune.com/2026/03/01/utility-bills-keep-rising-everyone-blame-ai-data-centers-included/)**
-
-Utilities announce hundreds of billions in spending as data centers boom and ratepayers' costs rise.
-
-Fortune • 7h ago
+Fortune • 1d ago
 
 ---
 
-**[China’s Honor Shows Humanoid and Robot Phone Demo in AI Pivot](https://www.bloomberg.com/news/articles/2026-03-01/china-s-honor-shows-humanoid-and-robot-phone-demo-in-ai-pivot)**
+**[Forget DeepSeek. China’s already released 5 new AI models and UBS prefers this one](https://www.cnbc.com/2026/03/01/forget-deepseek-of-chinas-5-new-ai-models-ubs-prefers-this-one.html)**
 
-Bloomberg • 2h ago
+While many Chinese companies have chased market share at home for consumer AI applications, UBS likes one in particular for its global enterprise potential.
+
+CNBC • 3h ago
+
+---
+
+**[NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms](http://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms)**
+
+NVIDIA today announced a commitment — together with Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank Corp. and T-Mobile — to build the world’s next generation of wireless networks on AI-native, open, secure and trustworthy platforms.
+
+NVIDIA Newsroom • 8h ago
 
 ---
 
@@ -205,7 +211,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 409 • 💬 188 • 2d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 409 • 💬 189 • 2d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -213,7 +219,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 327 • 💬 184 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 329 • 💬 184 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -221,7 +227,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 310 • 💬 184 • 1d ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 313 • 💬 185 • 1d ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -229,7 +235,15 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 161 • 💬 92 • 3h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 210 • 💬 134 • 3h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+
+---
+
+**[AI Made Writing Code Easier. It Made Being an Engineer Harder](https://news.ycombinator.com/item?id=47206824)**
+
+Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
+
+⬆️ 157 • 💬 108 • 1h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -247,23 +261,15 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 ---
 
-**[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
-
-⬆️ 135 • 💬 104 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
-
----
-
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 116 • 💬 27 • 7h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 139 • 💬 33 • 8h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
-**[PostmarketOS in 2026-02: generic kernels, bans use of generative AI](https://news.ycombinator.com/item?id=47179553)**
+**[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-Aiming for a 10 year life-cycle for smartphones
-
-⬆️ 84 • 💬 102 • 2d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 138 • 💬 104 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -287,7 +293,7 @@ cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cut
 
 📺 Sleep Time Tales
 
-👁️ 4K • 💬 1 • ⏱️ 0:08 • 1h ago
+👁️ 4K • 💬 1 • ⏱️ 0:08 • 2h ago
 
 ---
 
@@ -675,7 +681,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.6k • 🔱 414 • 13h ago
+⭐ 3.6k • 🔱 414 • 14h ago
 
 ---
 

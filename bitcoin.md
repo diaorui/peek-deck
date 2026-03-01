@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T15:25:00.952935+00:00'
+updated: '2026-03-01T15:46:52.947036+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - social
 - cryptocurrency
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 15:25 UTC  
+**Last Updated:** March 01, 2026 at 15:46 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,367.42
+### $66,832.58
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.3%  
-**7d:** +3.5%  
-**30d:** -15.1%  
-**90d:** -26.9%  
-**1y:** -29.1%  
+**24h:** +3.1%  
+**7d:** +3.9%  
+**30d:** -14.7%  
+**90d:** -26.6%  
+**1y:** -28.8%  
 
 ---
 
@@ -77,11 +77,19 @@ Rank #1
 
 ## Reddit: r/Bitcoin
 
+**[People who were left out of Bitcoin and now have emotional damage](https://www.reddit.com/r/Bitcoin/comments/1rhzngc/people_who_were_left_out_of_bitcoin_and_now_have/)**
+
+I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
+
+35m ago
+
+---
+
 **[Banks are going so hard on Bitcoin it's unbelievable. They know they missed on the first 20 million coins, they're ready to fight over the final million. HODL your bitcoin in your wallets, plebs. They're after your sats too.](https://www.reddit.com/r/Bitcoin/comments/1rhd4rz/banks_are_going_so_hard_on_bitcoin_its/)**
 
 Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-18h ago
+19h ago
 
 ---
 
@@ -95,7 +103,13 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
 
-3h ago
+4h ago
+
+---
+
+**[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
+
+16h ago
 
 ---
 
@@ -107,9 +121,11 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 ---
 
-**[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
+**[What would you change in the way I manage my btc?](https://www.reddit.com/r/Bitcoin/comments/1rhy5y7/what_would_you_change_in_the_way_i_manage_my_btc/)**
 
-15h ago
+I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
+
+1h ago
 
 ---
 
@@ -117,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
-20h ago
+21h ago
 
 ---
 
@@ -129,14 +145,6 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 ---
 
-**[Just came here to say that I'm lonely on stacker news](https://www.reddit.com/r/Bitcoin/comments/1rhl8g0/just_came_here_to_say_that_im_lonely_on_stacker/)**
-
-There's like three active users anymore.
-
-13h ago
-
----
-
 **[Solo Satoshi Releases The Bitaxe Turbo Touch, The Most Powerful Open-Source Touchscreen Bitcoin Miner.](https://www.reddit.com/r/Bitcoin/comments/1rhi2vq/solo_satoshi_releases_the_bitaxe_turbo_touch_the/)**
 
 The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, built on the Bitaxe GT 801 platform with dual BM1370 chips. Quick rundown: 2.15 TH/s default, 3.06+ TH/s overclocked 4.3" capacitive touchscreen with 8 live screens (hashrate, block height, latest blocks, BTC price, clock, Wi-Fi config, settings, hashrate graph) All screen data pulls from mempool.space ~43W, ~35 dB Mining firmware is mainline AxeOS (esp-miner), screen firmware is BAP-GT-TOUCH, both fully open source Runs on the ESP32-S3 with Wi-Fi, same as other Bitaxe models The big jump from the original Bitaxe Touch is doubling the hashrate (was ~1.0 TH/s on the single BM1370 version), going from 4 screens to 8, and moving the screen firmware from proprietary to open source through the GT 801's Bitaxe Accessory Port. It was shown off at the HeatPunk Summit in Denver this week. Full technical breakdown here: https://www.solosatoshi.com/bitaxe-touch-unveiled/ Happy to answer any questions about the hardware or firmware. https://preview.redd.it/4pkalprlpbmg1.png?width=940&format=png&auto=webp&s=8fa61aac5ec82447679162cbfd3bc7035d619063 https://preview.redd.it/eowlutrlpbmg1.png?width=940&format=png&auto=webp&s=25284ed91c26ad2e1bf23b7600ec5ac4d7542926 https://preview.redd.it/vpm4exrlpbmg1.png?width=940&format=png&auto=webp&s=0733ea99d58e508597a6a2d1afb7c79a62ac8c8f https://preview.redd.it/yx0rv1slpbmg1.png?width=940&format=png&auto=webp&s=d97f2210eb9003188d229f0fcc3d8ad584392ac1 https://preview.redd.it/vcwhozrlpbmg1.png?width=940&format=png&auto=webp&s=2aa3dce9f95bec81d63fd92514fb08889dab372f https://preview.redd.it/xdh9g4slpbmg1.png?width=940&format=png&auto=webp&s=e42ccaf53253fa56de0292caf7371f85f1cdf84d https://preview.redd.it/25hd76slpbmg1.png?width=940&format=png&auto=webp&s=1c76894f9e96103c3d114738b7576747924ad247 https://preview.redd.it/bfmte8slpbmg1.png?width=940&format=png&auto=webp&s=558dcb23d0c0c297d6f1c7f4c4f8535cea53bb47 https://preview.redd.it/hzz55dslpbmg1.png?width=940&format=png&auto=webp&s=672936b1e0dbd42e96d7e8fb6b14488ac389e794 https://preview.redd.it/z1jlm9slpbmg1.png?width=940&format=png&auto=webp&s=fb42b49425d9ddb84903ce135e2b5f1b3624691a
@@ -145,21 +153,15 @@ The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, bui
 
 ---
 
-**[What would you change in the way I manage my btc?](https://www.reddit.com/r/Bitcoin/comments/1rhy5y7/what_would_you_change_in_the_way_i_manage_my_btc/)**
-
-I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
-
-1h ago
-
----
-
 ---
 
 ## Google News: "bitcoin"
 
-**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
+**[Bitcoin news: Elon Musk's SpaceX’s $780 million bitcoin stack now down to about $545 million ahead of IPO filing](https://www.coindesk.com/markets/2026/03/01/spacex-s-usd780-million-bitcoin-stack-now-down-to-about-usd545-million-ahead-of-ipo-filing)**
 
-Bloomberg • 12h ago
+The company holds about 8,285 bitcoin in Coinbase Prime custody, a stake now worth roughly $545 million after a $235 million decline in value over the past three months.
+
+CoinDesk • 2h ago
 
 ---
 
@@ -167,35 +169,37 @@ Bloomberg • 12h ago
 
 Bitcoin investors may soon forget the recent correction.
 
-The Motley Fool • 12h ago
+The Motley Fool • 13h ago
 
 ---
 
-**[Bitcoin Stages Tepid Recovery as Iran Strikes Stir Uncertainty](https://www.bloomberg.com/news/articles/2026-03-01/bitcoin-btc-recovery-looks-tepid-as-iran-strikes-stir-uncertainty)**
+**[Bitcoin market bottom may be nearing, at least if measured against gold, analyst says](https://www.coindesk.com/markets/2026/03/01/bitcoin-market-bottom-may-be-nearing-at-least-if-measured-against-gold-analyst-says)**
 
-Bloomberg • 4h ago
+Historically, bitcoin bear markets have lasted 12-13 months, suggesting a potential downturn until late 2026 if priced in USD.
 
----
-
-**[Bitcoin, Ethereum ‘pumping hard’ after Iran strikes, but states brace for financial fallout](https://www.dlnews.com/articles/markets/bitcoin-ethereum-pumping-hard-after-iran-strikes-experts/)**
-
-Bitcoin rises near $67,000 mark, with Ethereum nearing $2,000. Iran has confirmed the death of supreme leader Ayatollah Ali Khamenei. The real price reveal is coming tomorrow, expert says.
-
-dlnews.com • 4h ago
+CoinDesk • 43m ago
 
 ---
 
-**[What Is Bitcoin? And How Does It Work?](https://www.forbes.com/advisor/investing/cryptocurrency/what-is-bitcoin/)**
+**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Forbes • 2d ago
+Bloomberg.com • 12h ago
 
 ---
 
-**[Will Bitcoin Price Fall Below $10,000? Wikipedia Founder Under Fire After Slamming BTC as ‘Failure’](https://finance.yahoo.com/news/bitcoin-price-fall-below-10-084119680.html)**
+**[Tokenised gold continues rally while Bitcoin slides on US attack against Iran](https://finance.yahoo.com/news/tokenised-gold-continues-rally-while-171816381.html)**
 
-Jimmy Wales predicts Bitcoin's price could fall below $10,000 in today’s dollars by 2050. He called it a complete failure of currency. The comments come ...
+Tether Gold and Paxos Gold spiked on Saturday after the US announced it had bombed Iran. Bitcoin and Ethereum dropped in price. Tokenised gold is proving useful to give investors exposure to safe-haven assets.
 
-Yahoo Finance • 2d ago
+Yahoo Finance • 22h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772374200)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -207,25 +211,27 @@ Fortune • 2d ago
 
 ---
 
-**[Bitcoin extends decline, falling below $63,000 before paring some losses](https://www.cnbc.com/2026/02/24/bitcoin-extends-decline-falling-below-64000-btc-trump-tariffs-ai-crypto.html)**
+**[Someone invested over $7,000 into Bitcoin 14 years ago and what it's worth now is almost incomprehensible](https://supercarblondie.com/tech/7000-invested-bitcoin-14-years-ago-value-now/)**
 
-Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
+Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
 
-CNBC • 5d ago
-
----
-
-**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
-
-Reuters • 3d ago
+supercarblondie.com • 4h ago
 
 ---
 
-**[Bitcoin stages tepid recovery as Iran strikes stir uncertainty](https://www.bostonglobe.com/2026/03/01/business/bitcoin-stages-tepid-recovery-as-iran-strikes-stir-uncertainty/)**
+**[2023 Bitcoin Bottom Signal Flashes Again as Macro Shifts](https://bitbo.io/news/bitcoin-bottom-signal-macro/)**
 
-Bitcoin rose as much as 2.2% to $68,196 after Iran confirmed the death of the country’s supreme leader.
+A 2023-style bottom signal has reappeared for bitcoin, but analysts say weaker liquidity, ETF flow trends, and sticky inflation could limit a repeat of last cycle’s 130% rebound.
 
-The Boston Globe • 11h ago
+Bitbo • 17h ago
+
+---
+
+**[ETH, SOL, XRP price news: What next as majors surge 10% to recover war-driven losses](https://www.coindesk.com/markets/2026/03/01/ether-solana-xrp-surge-up-to-10-as-majors-recover-saturday-s-war-driven-losses)**
+
+Solana led major tokens with a 10.8% bounce, while ether reclaimed $2,000 and bitcoin climbed back above $66,800 ahead of traditional futures opens on Sunday.
+
+CoinDesk • 8h ago
 
 ---
 
@@ -271,7 +277,7 @@ One critic replied simply "go away."
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 16h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 17h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -325,7 +331,7 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 5K • 👍 109 • 💬 23 • ⏱️ 14:26 • 20h ago
+👁️ 5K • 👍 109 • 💬 23 • ⏱️ 14:26 • 21h ago
 
 ---
 
@@ -365,7 +371,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 4K • 👍 214 • 💬 8 • ⏱️ 26:03 • 17h ago
+👁️ 4K • 👍 214 • 💬 8 • ⏱️ 26:03 • 18h ago
 
 ---
 
@@ -385,7 +391,7 @@ This video provides a professional Elliott Wave and technical analysis of Bitcoi
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 306 • 💬 14 • ⏱️ 8:15 • 3h ago
+👁️ 3K • 👍 306 • 💬 14 • ⏱️ 8:15 • 4h ago
 
 ---
 
