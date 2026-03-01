@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T11:43:05.369594+00:00'
+updated: '2026-03-01T12:51:56.571764+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 11:43 UTC  
+**Last Updated:** March 01, 2026 at 12:51 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,29 +32,29 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[A small industrial robot arm, built for sub-micrometer precision by Oleksandr Stepanenko](https://www.reddit.com/r/robotics/comments/1rhuac0/a_small_industrial_robot_arm_built_for/)**
+
+From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
+
+2h ago
+
+---
+
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-18h ago
+19h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-14h ago
-
----
-
-**[A small industrial robot arm, built for sub-micrometer precision by Oleksandr Stepanenko](https://www.reddit.com/r/robotics/comments/1rhuac0/a_small_industrial_robot_arm_built_for/)**
-
-From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
-
-58m ago
+15h ago
 
 ---
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -62,7 +62,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-17h ago
+18h ago
 
 ---
 
@@ -70,7 +70,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-23h ago
+1d ago
 
 ---
 
@@ -78,21 +78,13 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Yo everyone! ​I’m a third-year Electrical Engineering student currently working on a robotics project involving simulation and control systems. I’ve been trying to get a 2-axis (2-DOF) robotic arm running in MATLAB/Simulink using the Robotics System Toolbox. ​The Problem: I found some cool 3D models of an articulated arm, but they are in SolidWorks format (.SLDPRT and .SLDASM). I’m struggling to get these converted into a clean URDF (XML) file that MATLAB can actually importrobot. ​What I'm looking for: ​Does anyone have a link to a reliable 2-DOF or 3-DOF arm URDF (XML) that is already verified to work in MATLAB? ​If I stick with the SolidWorks models I found, what is the fastest way to export them to URDF without the file becoming a mess of hidden .xml extensions or broken joint links? ​Any tips on setting up a basic PID controller in Simulink once the model is imported? ​I’ve checked GitHub but most models are for huge 6-axis industrial arms like the UR5, which is overkill for my current assignment. ​Any links, repos, or advice would be massive! Thanks in advance.
 
-1h ago
+2h ago
 
 ---
 
 **[I'm looking for help on simscape multibody for my Master 1 project ( help 😭!)](https://www.reddit.com/r/robotics/comments/1rhtbrr/im_looking_for_help_on_simscape_multibody_for_my/)**
 
-1h ago
-
----
-
-**[Need suggest for starting a Company (Help Please)](https://www.reddit.com/r/robotics/comments/1rhsc02/need_suggest_for_starting_a_company_help_please/)**
-
-I am right now in my college ,thought of starting robotics company I previously had one Ai automation company which was running quite good but as we know the claude launch multiple plugins so it might be vanished very soon I just have 1 lakh to invest I can built simulation know electronics stuff can build mvp level robots as per current knowledge what you guys suggest ? Even if possible someone for sharing any idea what should I build as I am new in this market and learning things currently. I am even open for partnership if anyone interested here.
-
-2h ago
+3h ago
 
 ---
 
@@ -101,6 +93,14 @@ I am right now in my college ,thought of starting robotics company I previously 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
 1d ago
+
+---
+
+**[Exploring a new direction for embedded robotics AI - early results worth sharing.](https://www.reddit.com/r/robotics/comments/1rhf30f/exploring_a_new_direction_for_embedded_robotics/)**
+
+Current Vision-Language-Action (VLA) models have a fundamental bottleneck: self-attention memory scales quadratically at O(N²). For a €150 robot arm, relying on a cloud TPU cluster defeats the whole purpose of edge robotics. For the past few month, I've been working on FluidBot: an architectural experiment that replaces attention entirely with Reaction-Diffusion PDEs (which scale linearly at O(N)). The earlyproof-of-concept results surprised me: • An 84x reduction in VRAM at 256x256 resolution (~203MB vs an estimated ~14GB for a standard ViT). • Video scaling is fundamentally different: processing 16x more frames only requires 2.4x more memory. I’ve detailed the core math, the empirical benchmarks, and the honest limitations in my article below. If you work on efficient vision architectures, embedded AI, or robotics, I’d genuinely value your feedback before moving to hardware validation on the SO-101 arm.
+
+🔗 [linkedin.com](https://www.linkedin.com/pulse/exploring-new-direction-embedded-robotics-ai-early-results-polly-4x3nf) • 15h ago
 
 ---
 
@@ -120,7 +120,7 @@ Financial Times • 1d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 8h ago
+news.cgtn.com • 10h ago
 
 ---
 
@@ -128,7 +128,7 @@ news.cgtn.com • 8h ago
 
 BMW is deploying humanoid robots at its Leipzig plant for the first time in Europe. Here's what the pilot involves and what it means for the future of car production.
 
-BMW Blog • 1d ago
+BMW BLOG • 1d ago
 
 ---
 
@@ -136,19 +136,13 @@ BMW Blog • 1d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
 Tech Xplore • 1d ago
-
----
-
-**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
-
-TribLIVE.com • 1d ago
 
 ---
 
@@ -160,7 +154,15 @@ Fortune • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqc3d7dN1LPUYYURKwAiJ1RxmJ2aSuT1lAcVGzqNx6hoxwUrbnjVCnOG&gaa_ts=69a41dc1&gaa_sig=dDc6WuUB94hceFoQ8WLY1PUGxHFjjjoTNNRH-cNxzpHPoSMvH24c6KgxaU0KTOJL6qVXxRcB1NZlM4VG5-UiGA%3D%3D)**
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+
+Coco Robotics launched a new generation of delivery bots
+
+Los Angeles Times • 1d ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqcXGEl7SokQryehCwgWyZ2eDObDfUROjGtxAMjgbxIYmAmxLkc7bLy_&gaa_ts=69a439d5&gaa_sig=47NLsQgS8w5mq-gJbjX1pvbCux3hCJpf1FR1fPkjR4aDMsn2Hw1owinMXtUb6sSy4GOfhINDxTHQrzps9eZ7Zg%3D%3D)**
 
 WSJ • 1d ago
 
@@ -168,15 +170,13 @@ WSJ • 1d ago
 
 **[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
 
-Bloomberg.com • 2d ago
+Bloomberg • 2d ago
 
 ---
 
-**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
 
-Coco Robotics launched a new generation of delivery bots
-
-Los Angeles Times • 1d ago
+TribLIVE.com • 1d ago
 
 ---
 
@@ -210,7 +210,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 31K • 👍 3K • 💬 124 • ⏱️ 21:58 • 10h ago
+👁️ 31K • 👍 3K • 💬 124 • ⏱️ 21:58 • 11h ago
 
 ---
 
@@ -230,7 +230,7 @@ China is building robots faster than any country in the world and if you want to
 
 📺 Cyrus Janssen
 
-👁️ 248K • 👍 7K • 💬 1K • ⏱️ 11:41 • 3d ago
+👁️ 248K • 👍 7K • 💬 1K • ⏱️ 11:41 • 4d ago
 
 ---
 
@@ -270,7 +270,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 288K • 👍 2K • 💬 789 • ⏱️ 0:55 • 2d ago
+👁️ 288K • 👍 2K • 💬 789 • ⏱️ 0:55 • 3d ago
 
 ---
 

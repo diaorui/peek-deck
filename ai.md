@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T11:43:05.352071+00:00'
+updated: '2026-03-01T12:51:56.553519+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 11:43 UTC  
+**Last Updated:** March 01, 2026 at 12:51 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,27 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Deleted my GPT account and ported my AI game project to Claude. Wow!](https://www.reddit.com/r/artificial/comments/1rhqqtw/deleted_my_gpt_account_and_ported_my_ai_game/)**
-
-I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
-
-4h ago
-
----
-
 **[Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance](https://www.reddit.com/r/artificial/comments/1rhu99c/claude_hits_no_1_on_app_store_as_chatgpt_users/)**
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 2h ago
+
+---
+
+**[Deleted my GPT account and ported my AI game project to Claude. Wow!](https://www.reddit.com/r/artificial/comments/1rhqqtw/deleted_my_gpt_account_and_ported_my_ai_game/)**
+
+I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
+
+5h ago
+
+---
+
+**[Tokens as a Service - (TaaS)](https://www.reddit.com/r/artificial/comments/1rhuc9w/tokens_as_a_service_taas/)**
+
+I’m been thinking a lot about pricing models for ai native apps. For the last few decades the SaaS model was effectively: "Make something that you build once and can sell again and again at 0 marginal cost with monthly subscriptions" AI products don’t have that luxury. Every interaction uses tokens. Tokens use energy & cost money. Light & power users burning tokens at different rates in the same pricing tiers is an analysts nightmare. So what's the solution and right pricing model? TAAS: "Software that adds value to tokens and is resold directly to users as a service." AI video creation, research tools, chat bots. They are all effectively placing a value layer over an API key and selling the tokens for massive markups. The extent to which a company can add value to an AI token is the extent to which they can markup their service. And ironically the way to do that is to lean 90% into software and 10% into AI. You want to offload as much of the costs of value delivery onto free executable code and use AI tokens as sparingly as possible. The application that throws AI bluntly at a solution will fail. The application that effectively solves the problem with code and uses AI to make it magical as a layer above will succeed.
+
+2h ago
 
 ---
 
@@ -59,19 +67,11 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 ---
 
-**[Tokens as a Service - (TaaS)](https://www.reddit.com/r/artificial/comments/1rhuc9w/tokens_as_a_service_taas/)**
-
-I’m been thinking a lot about pricing models for ai native apps. For the last few decades the SaaS model was effectively: "Make something that you build once and can sell again and again at 0 marginal cost with monthly subscriptions" AI products don’t have that luxury. Every interaction uses tokens. Tokens use energy & cost money. Light & power users burning tokens at different rates in the same pricing tiers is an analysts nightmare. So what's the solution and right pricing model? TAAS: "Software that adds value to tokens and is resold directly to users as a service." AI video creation, research tools, chat bots. They are all effectively placing a value layer over an API key and selling the tokens for massive markups. The extent to which a company can add value to an AI token is the extent to which they can markup their service. And ironically the way to do that is to lean 90% into software and 10% into AI. You want to offload as much of the costs of value delivery onto free executable code and use AI tokens as sparingly as possible. The application that throws AI bluntly at a solution will fail. The application that effectively solves the problem with code and uses AI to make it magical as a layer above will succeed.
-
-55m ago
-
----
-
 **[How do you handle all these AI subscribtions?](https://www.reddit.com/r/artificial/comments/1rhbyyd/how_do_you_handle_all_these_ai_subscribtions/)**
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-15h ago
+17h ago
 
 ---
 
@@ -87,7 +87,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-16h ago
+18h ago
 
 ---
 
@@ -111,7 +111,7 @@ Quick summary of an independent preprint I just published: Question: Does the re
 
 I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
 
-8h ago
+9h ago
 
 ---
 
@@ -123,39 +123,45 @@ I was drafting an article about both AI and crypto and noticed that the brand lo
 
 Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
-**[OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic](https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems)**
+**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-OpenAI CEO Sam Altman announced late Friday that the company had signed a deal with the Pentagon for its AI tools to be used in the military’s classified systems, but with seemingly similar guardrails rival Anthropic had also requested.
-
-CNN • 1d ago
+The New York Times • 20h ago
 
 ---
 
-**[Investors fear AI will undercut LexisNexis. The company says it's driving growth.](https://www.businessinsider.com/lexisnexis-exec-says-investors-ai-fears-are-misguided-2026-3)**
+**[Forget DeepSeek. China’s already released 5 new AI models and UBS prefers this one](https://www.cnbc.com/2026/03/01/forget-deepseek-of-chinas-5-new-ai-models-ubs-prefers-this-one.html)**
 
-A top executive at the legal-software provider said Wall Street's anxiety over AI is misguided.
+While many Chinese companies have chased market share at home for consumer AI applications, UBS likes one in particular for its global enterprise potential.
 
-Business Insider • 1h ago
-
----
-
-**[AI-Powered Investing in 2026: How Algorithms Will Shape Your Portfolio](https://www.kiplinger.com/investing/ai-powered-investing-how-algorithms-will-shape-your-portfolio)**
-
-AI is becoming a standard investing tool, as it helps cut through the noise, personalize portfolios and manage risk. That said, human oversight remains essential. Here's how it all works.
-
-Kiplinger • 1h ago
+CNBC • 15m ago
 
 ---
 
-**[Beth Fukumoto: Ethics In AI Isn't Just A Slogan Anymore](https://www.civilbeat.org/2026/03/beth-fukumoto-ethics-in-ai-isnt-just-a-slogan-anymore/)**
+**[South Korea’s $2.2 Trillion Stock Rally Owes Too Much To AI](https://www.forbes.com/sites/williampesek/2026/03/01/south-koreas-22-trillion-stock-rally-owes-too-much-to-ai/)**
 
-The Anthropic fight matters here because it reminds us what’s at stake and why Hawaiʻi needs to implement solid, ethical AI policy.
+Eight-plus months ago, new South Korean President Lee Jae Myung had eyes rolling with a pledge to double the Kospi stock index to 5,000.
 
-Honolulu Civil Beat • 1h ago
+Forbes • 24m ago
+
+---
+
+**[This tax season’s biggest threat isn’t a mistake, it’s a scam](https://www.azcentral.com/story/money/business/tech/2026/03/01/ai-stolen-data-and-fake-preparers-tax-fraud-trends-to-know-in-2026/88900952007/)**
+
+In 2026, tax scams are more convincing than ever, using AI, stolen data, and fake credentials. Here are some tips to help protect yourself.
+
+The Arizona Republic • 50m ago
+
+---
+
+**[An Ohio newspaper has a new star writer. It isn’t human.](https://www.washingtonpost.com/technology/2026/03/01/ai-journalism-writing-cleveland-plain-dealer/)**
+
+At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
+
+The Washington Post • 1h ago
 
 ---
 
@@ -167,33 +173,25 @@ Fortune • 1d ago
 
 ---
 
-**[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
-
-Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
-
-Financial Times • 7h ago
-
----
-
 **[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
 
 The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-NBC News • 23h ago
+NBC News • 1d ago
+
+---
+
+**[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
+
+Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
+
+Financial Times • 8h ago
 
 ---
 
 **[India Built the World’s Back Office. A.I. Is Starting to Shrink It.](https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html)**
 
 The New York Times • 2d ago
-
----
-
-**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
-
-In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
-
-CNBC • 22h ago
 
 ---
 
@@ -219,7 +217,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 320 • 💬 178 • 23h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 321 • 💬 183 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -227,7 +225,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 306 • 💬 181 • 22h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 308 • 💬 183 • 23h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -247,7 +245,13 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 132 • 💬 102 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 135 • 💬 104 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+
+---
+
+**[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
+
+⬆️ 90 • 💬 17 • 5h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -255,7 +259,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 84 • 💬 102 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 84 • 💬 102 • 2d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -264,14 +268,6 @@ Aiming for a 10 year life-cycle for smartphones
 Have it your way?
 
 ⬆️ 81 • 💬 95 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
-
----
-
-**[Trump orders federal agencies to stop using Anthropic AI tech 'immediately'](https://news.ycombinator.com/item?id=47185528)**
-
-"The Leftwing nut jobs at Anthropic have made a DISASTROUS MISTAKE trying to STRONG-ARM the Department of War," Trump wrote in a Truth Social post.
-
-⬆️ 80 • 💬 1 • 1d ago • [CNBC](https://www.cnbc.com/2026/02/27/trump-anthropic-ai-pentagon.html)
 
 ---
 
@@ -295,7 +291,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 182K • 👍 7K • 💬 1K • ⏱️ 1:33:33 • 18h ago
+👁️ 182K • 👍 7K • 💬 1K • ⏱️ 1:33:33 • 19h ago
 
 ---
 
@@ -305,7 +301,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 117K • 👍 8K • 💬 1K • ⏱️ 14:41 • 20h ago
+👁️ 117K • 👍 8K • 💬 1K • ⏱️ 14:41 • 21h ago
 
 ---
 
@@ -315,7 +311,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 52K • 👍 1K • 💬 197 • ⏱️ 39:40 • 19h ago
+👁️ 52K • 👍 1K • 💬 197 • ⏱️ 39:40 • 20h ago
 
 ---
 
@@ -355,7 +351,7 @@ HUGE AI NEWS: Qwen 3.5, Solaris, Quiver Arrow 1.0, LavaSR, Doc to Lora, & more #
 
 📺 AI Search
 
-👁️ 30K • 👍 2K • 💬 210 • ⏱️ 45:11 • 8h ago
+👁️ 30K • 👍 2K • 💬 210 • ⏱️ 45:11 • 9h ago
 
 ---
 
@@ -487,7 +483,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 10,611 • ❤️ 214 • 23h ago
+⬇️ 10,611 • ❤️ 214 • 1d ago
 
 ---
 
@@ -643,7 +639,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Rust` `official` `official-website`
 
-⭐ 21.4k • 🔱 2.7k • 6m ago
+⭐ 21.4k • 🔱 2.7k • 1h ago
 
 ---
 
@@ -663,7 +659,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 363 • 7h ago
+⭐ 3.7k • 🔱 363 • 8h ago
 
 ---
 
@@ -673,7 +669,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 482 • 4h ago
+⭐ 3.6k • 🔱 482 • 5h ago
 
 ---
 
@@ -683,7 +679,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.5k • 🔱 400 • 9h ago
+⭐ 3.5k • 🔱 400 • 11h ago
 
 ---
 
@@ -693,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.3k • 🔱 260 • 23h ago
+⭐ 3.3k • 🔱 260 • 1d ago
 
 ---
 
@@ -703,7 +699,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 329 • 9m ago
+⭐ 3.0k • 🔱 329 • 1h ago
 
 ---
 
@@ -713,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 217 • 3h ago
+⭐ 3.0k • 🔱 217 • 4h ago
 
 ---
 
@@ -733,7 +729,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 2.7k • 🔱 257 • 11h ago
+⭐ 2.7k • 🔱 257 • 12h ago
 
 ---
 
