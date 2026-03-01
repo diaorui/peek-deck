@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T16:29:55.544964+00:00'
+updated: '2026-03-01T16:54:43.950112+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 16:29 UTC  
+**Last Updated:** March 01, 2026 at 16:54 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,832.58
+### $66,000.00
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +3.1%  
-**7d:** +3.9%  
-**30d:** -14.7%  
-**90d:** -26.6%  
-**1y:** -28.8%  
+**24h:** +1.0%  
+**7d:** +2.3%  
+**30d:** -16.1%  
+**90d:** -27.8%  
+**1y:** -29.9%  
 
 ---
 
@@ -89,13 +89,7 @@ I often see people criticizing Bitcoin, and many times, these are people who wer
 
 Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-19h ago
-
----
-
-**[HODL your 0.01 BTC onto you FOREVER](https://www.reddit.com/r/Bitcoin/comments/1rhhvzn/hodl_your_001_btc_onto_you_forever/)**
-
-16h ago
+20h ago
 
 ---
 
@@ -109,7 +103,7 @@ Thoughts on buying 250 usd worth of bitcoin every week for the next couple of ye
 
 **[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -133,7 +127,7 @@ I keep in cold storage only a little part of my btc. The rest of them are into m
 
 Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
-21h ago
+22h ago
 
 ---
 
@@ -153,6 +147,14 @@ The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, bui
 
 ---
 
+**[Just came here to say that I'm lonely on stacker news](https://www.reddit.com/r/Bitcoin/comments/1rhl8g0/just_came_here_to_say_that_im_lonely_on_stacker/)**
+
+There's like three active users anymore.
+
+14h ago
+
+---
+
 ---
 
 ## Google News: "bitcoin"
@@ -169,15 +171,7 @@ CoinDesk • 3h ago
 
 Bitcoin investors may soon forget the recent correction.
 
-The Motley Fool • 13h ago
-
----
-
-**[Bitcoin market bottom may be nearing, at least if measured against gold, analyst says](https://www.coindesk.com/markets/2026/03/01/bitcoin-market-bottom-may-be-nearing-at-least-if-measured-against-gold-analyst-says)**
-
-Historically, bitcoin bear markets have lasted 12-13 months, suggesting a potential downturn until late 2026 if priced in USD.
-
-CoinDesk • 1h ago
+The Motley Fool • 14h ago
 
 ---
 
@@ -195,14 +189,6 @@ Yahoo Finance • 23h ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772374200)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
-
----
-
 **[Bitcoin fans latch on to ‘ridiculous’ Jane Street conspiracy to explain price slump](https://fortune.com/2026/02/26/bitcoin-slump-jane-street-conspiracy-theory/)**
 
 Every slump needs a scapegoat.
@@ -211,11 +197,19 @@ Fortune • 2d ago
 
 ---
 
-**[Someone invested over $7,000 into Bitcoin 14 years ago and what it's worth now is almost incomprehensible](https://supercarblondie.com/tech/7000-invested-bitcoin-14-years-ago-value-now/)**
+**[Chaos in Bitcoin treasury land: Rebellions, mass sales and one big monopoly](https://www.dlnews.com/articles/markets/chaos-bitcoin-treasury-land-revolts-mass-sales-monopoly/)**
 
-Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
+The Bitcoin treasury trade has been unwinding for months. One treasury approved the sale of its 7,500 Bitcoin reserves while another received a damning letter from shareholders.  “The original idea was an unsound one,” said Bitcoin analyst James Check.
 
-supercarblondie.com • 5h ago
+dlnews.com • 15h ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772374200)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -227,11 +221,17 @@ Bitbo • 18h ago
 
 ---
 
-**[ETH, SOL, XRP price news: What next as majors surge 10% to recover war-driven losses](https://www.coindesk.com/markets/2026/03/01/ether-solana-xrp-surge-up-to-10-as-majors-recover-saturday-s-war-driven-losses)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqfVYIVWXeHOeEA18grFPtu6dzG7uCrKwpUj0Ky3z1KVRx0Sft1TR_4r&gaa_ts=69a472bd&gaa_sig=iTPuyi7ducBJr65A-HUIxshDZGSSyWXZeYShrXryViuozJpriOwSaDiDnj2zZvWmiTZNnklwSEeQbC3-nec26w%3D%3D)**
 
-Solana led major tokens with a 10.8% bounce, while ether reclaimed $2,000 and bitcoin climbed back above $66,800 ahead of traditional futures opens on Sunday.
+Barron's • 2d ago
 
-CoinDesk • 9h ago
+---
+
+**[Someone invested over $7,000 into Bitcoin 14 years ago and what it's worth now is almost incomprehensible](https://supercarblondie.com/tech/7000-invested-bitcoin-14-years-ago-value-now/)**
+
+Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
+
+supercarblondie.com • 6h ago
 
 ---
 
@@ -265,7 +265,7 @@ Links to major crypto world figures are just the start.
 
 One critic replied simply "go away."
 
-⬆️ 3 • 💬 0 • 4h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 3 • 💬 0 • 5h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -277,7 +277,7 @@ One critic replied simply "go away."
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 17h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 18h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -341,7 +341,7 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 6K • 👍 117 • 💬 25 • ⏱️ 14:26 • 21h ago
+👁️ 6K • 👍 117 • 💬 25 • ⏱️ 14:26 • 22h ago
 
 ---
 
@@ -351,7 +351,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 4K • 👍 220 • 💬 9 • ⏱️ 26:03 • 18h ago
+👁️ 4K • 👍 220 • 💬 9 • ⏱️ 26:03 • 19h ago
 
 ---
 
@@ -391,7 +391,7 @@ The New York Times says crypto is finished. CNBC runs with it. Meanwhile Bitcoin
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 893 • 💬 145 • ⏱️ 18:58 • 22h ago
+👁️ 13K • 👍 893 • 💬 145 • ⏱️ 18:58 • 23h ago
 
 ---
 

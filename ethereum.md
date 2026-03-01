@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T16:29:55.551018+00:00'
+updated: '2026-03-01T16:54:43.956037+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 16:29 UTC  
+**Last Updated:** March 01, 2026 at 16:54 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.6%  
-**7d:** +8.3%  
-**30d:** -18.1%  
-**90d:** -32.8%  
-**1y:** -20.2%  
+**24h:** +3.5%  
+**7d:** +6.3%  
+**30d:** -19.6%  
+**90d:** -34.1%  
+**1y:** -21.7%  
 
 ---
 
@@ -128,7 +128,7 @@ We have been talking about account abstraction ever since early 2016, see the or
 
 this was mentioned in the JD: Role Overview We are looking for a motivated Blockchain Trainee to join our team and learn hands-on development, deployment, and support of blockchain-based solutions. This role is ideal for freshers who are passionate about Web3, decentralized technologies, and continuous learning. Key Responsibilities  Learn and assist in developing blockchain applications and smart contracts  Support deployment and maintenance of blockchain nodes and networks  Assist in writing, testing, and debugging smart contracts  Work with senior engineers to understand blockchain architectures (Ethereum, Polygon, Hyperledger, etc.)  Monitor blockchain network performance and help troubleshoot issues  Stay updated with emerging blockchain and Web3 trends  Document technical processes, configurations, and learnings Required Skills & Experience  Basic understanding of blockchain fundamentals (blocks, consensus, smart contracts)  Familiarity with at least one programming language: JavaScript, Python, Go, or Solidity  Basic knowledge of Ethereum / EVM-based chains is a plus  Understanding of APIs, REST, and basic networking concepts  Willingness to learn, experiment, and take ownership  Good problem-solving and communication skills Good to Have  Hands-on projects or internships in blockchain or Web3  Knowledge of Linux, Docker, or cloud platforms  Understanding of cryptography basics What You’ll Gain  Hands-on experience with real-world blockchain projects  Mentorship from experienced blockchain professionals  Structured learning and growth in Web3 technologies  Opportunity for full-time conversion based on performance
 
-23h ago
+1d ago
 
 ---
 
@@ -160,25 +160,25 @@ Nasdaq • 1d ago
 
 ---
 
+**[Bitcoin, Ethereum drop after US and Israel strike Iran](https://finance.yahoo.com/news/bitcoin-ethereum-drop-us-israel-141303790.html)**
+
+President Donald Trump announced Saturday that the US and Israel attacked Iran. Bitcoin and Ethereum immediately dropped on the news. It isn’t clear how long the military operation will take.
+
+Yahoo Finance • 1d ago
+
+---
+
 **[Vitalik Buterin reveals his bold new plan to fix Ethereum’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
 
 The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
 
-CoinDesk • 1d ago
+CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdkShaa8mDGpHuch55IrSL25ABh8GQ7yihtlUsK7iUYUaGGz_2WKJz-&gaa_ts=69a462d7&gaa_sig=yYkVPTLMdyTH-eKsVWCC_TjPn77CSs7ImY6F-lSv7BSmO4ehtTe38K0y7mhxxbrK3wMAaYeiC0w3GwRjyJRC8Q%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqd2owQvYtDcKJiBQKJXBMdHWP-L0PCPGiu7toSBKAWmek5wBl0I3pz7&gaa_ts=69a472bf&gaa_sig=vx-YMAL3Zy1QWRogpcO7oD5F8zXYBfshNxuyiU1JbhlC_0ToTxdFCPgt7YdW-_YNPNhXSI77STeiEHvsUY0qrQ%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Bitmine Becomes Top Ethereum Staker As MAVAN Puts Valuation In Focus](https://finance.yahoo.com/news/bitmine-becomes-top-ethereum-staker-101031320.html)**
-
-Bitmine Immersion Technologies (NYSEAM:BMNR) has become the largest Ethereum staker globally, holding 3.66% of the total ETH supply. The company now controls more than 4.4 million ETH, shifting focus from accumulation to large scale staking activity. Bitmine is preparing to launch its Made in America Validator Network (MAVAN), aimed at expanding its Ethereum staking revenues. For you as an investor, this move puts Bitmine firmly in the middle of Ethereum's core infrastructure, rather than...
-
-Yahoo Finance • 2d ago
 
 ---
 
@@ -206,17 +206,17 @@ markets.businessinsider.com • 20h ago
 
 ---
 
+**[Income Hunters Pile In: NEOS Ethereum ETF Sees Nearly 10% AUM Inflow as Ether Slides](https://www.tipranks.com/news/cryptocurrencies/income-hunters-pile-in-neos-ethereum-etf-sees-nearly-10-aum-inflow-as-ether-slides)**
+
+TipRanks • 6h ago
+
+---
+
 **[Ethereum Tokens Swiped, Returned After South Korean Tax Service Publishes Wallet Seed Phrases](https://decrypt.co/359404/ethereum-tokens-swiped-returned-south-korean-tax-service)**
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
 Decrypt • 1d ago
-
----
-
-**[Income Hunters Pile In: NEOS Ethereum ETF Sees Nearly 10% AUM Inflow as Ether Slides](https://www.tipranks.com/news/cryptocurrencies/income-hunters-pile-in-neos-ethereum-etf-sees-nearly-10-aum-inflow-as-ether-slides)**
-
-TipRanks • 6h ago
 
 ---
 
@@ -238,7 +238,7 @@ Did Vitalik Buterin just dump Ethereum at the worst possible time? After announc
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 1K • 💬 127 • ⏱️ 18:01 • 3h ago
+👁️ 18K • 👍 1K • 💬 127 • ⏱️ 18:01 • 4h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 5 • ⏱️ 7:25 • 3h ago
+👁️ 1K • 👍 117 • 💬 5 • ⏱️ 7:25 • 4h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 255 • 👍 11 • 💬 3 • ⏱️ 4:36 • 6h ago
+👁️ 255 • 👍 11 • 💬 3 • ⏱️ 4:36 • 7h ago
 
 ---
 
@@ -318,7 +318,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 4K • 👍 3K • 1h ago
+👁️ 4K • 👍 3K • 2h ago
 
 ---
 
@@ -328,7 +328,7 @@ Need help? Reach out tp me on Telegram : https://t.me/cryptobotdev124 Ethereum C
 
 📺 Kevin Solidity Dev
 
-👁️ 3K • 👍 26 • 💬 1 • ⏱️ 5:35 • 20h ago
+👁️ 3K • 👍 26 • 💬 1 • ⏱️ 5:35 • 21h ago
 
 ---
 
