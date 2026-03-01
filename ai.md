@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T14:49:31.566279+00:00'
+updated: '2026-03-01T15:25:00.944369+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
+- videos
 - social
 - news
-- videos
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 14:49 UTC  
+**Last Updated:** March 01, 2026 at 15:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-7h ago
+8h ago
 
 ---
 
@@ -121,7 +121,7 @@ I was drafting an article about both AI and crypto and noticed that the brand lo
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash - The New York Times](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 22h ago
+The New York Times • 23h ago
 
 ---
 
@@ -143,7 +143,7 @@ WSJ • 4h ago
 
 Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-The Guardian • 1h ago
+The Guardian • 2h ago
 
 ---
 
@@ -151,13 +151,13 @@ The Guardian • 1h ago
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-CNBC • 49m ago
+CNBC • 1h ago
 
 ---
 
 **[Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://www.sfgate.com/news/politics/article/trump-expects-his-fed-pick-and-ai-to-deliver-a-21948716.php)**
 
-SFGATE • 41m ago
+SFGATE • 1h ago
 
 ---
 
@@ -165,7 +165,7 @@ SFGATE • 41m ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -181,13 +181,13 @@ CNN • 1d ago
 
 Utilities announce hundreds of billions in spending as data centers boom and ratepayers' costs rise.
 
-Fortune • 6h ago
+Fortune • 7h ago
 
 ---
 
 **[China’s Honor Shows Humanoid and Robot Phone Demo in AI Pivot](https://www.bloomberg.com/news/articles/2026-03-01/china-s-honor-shows-humanoid-and-robot-phone-demo-in-ai-pivot)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -297,7 +297,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 55K • 👍 1K • 💬 208 • ⏱️ 39:40 • 22h ago
+👁️ 55K • 👍 1K • 💬 208 • ⏱️ 39:40 • 23h ago
 
 ---
 
@@ -307,7 +307,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 212K • 👍 8K • 💬 1K • ⏱️ 1:33:33 • 21h ago
+👁️ 212K • 👍 8K • 💬 1K • ⏱️ 1:33:33 • 22h ago
 
 ---
 
@@ -317,7 +317,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 127K • 👍 8K • 💬 1K • ⏱️ 14:41 • 23h ago
+👁️ 127K • 👍 8K • 💬 1K • ⏱️ 14:41 • 1d ago
 
 ---
 
@@ -327,7 +327,7 @@ Legendary actor Morgan Freeman, who has starred in more than 100 movies in his s
 
 📺 CBS Mornings
 
-👁️ 174K • 👍 2K • 💬 329 • ⏱️ 6:34 • 1d ago
+👁️ 174K • 👍 2K • 💬 329 • ⏱️ 6:34 • 2d ago
 
 ---
 
@@ -337,7 +337,7 @@ cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cut
 
 📺 Sleep Time Tales
 
-👁️ 5K • 💬 2 • ⏱️ 0:10 • 1h ago
+👁️ 5K • 💬 2 • ⏱️ 0:10 • 2h ago
 
 ---
 
@@ -357,7 +357,7 @@ cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cut
 
 📺 Sleep Time Tales
 
-👁️ 106K • 💬 2 • ⏱️ 0:08 • 6h ago
+👁️ 106K • 💬 2 • ⏱️ 0:08 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cut
 
 📺 Sleep Time Tales
 
-👁️ 71K • 💬 1 • ⏱️ 0:08 • 8h ago
+👁️ 71K • 💬 1 • ⏱️ 0:08 • 9h ago
 
 ---
 
@@ -635,7 +635,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.5k • 🔱 2.7k • 26m ago
+⭐ 21.5k • 🔱 2.7k • 1h ago
 
 ---
 
@@ -655,7 +655,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 363 • 10h ago
+⭐ 3.7k • 🔱 363 • 11h ago
 
 ---
 
@@ -665,7 +665,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 482 • 7h ago
+⭐ 3.6k • 🔱 482 • 8h ago
 
 ---
 
@@ -695,7 +695,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 218 • 6h ago
+⭐ 3.0k • 🔱 218 • 7h ago
 
 ---
 
@@ -705,7 +705,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 330 • 1h ago
+⭐ 3.0k • 🔱 330 • 2h ago
 
 ---
 
@@ -725,7 +725,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 2.9k • 🔱 278 • 14h ago
+⭐ 2.9k • 🔱 278 • 15h ago
 
 ---
 
