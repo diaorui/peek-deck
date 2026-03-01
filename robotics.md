@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T17:47:30.727440+00:00'
+updated: '2026-03-01T18:35:59.329396+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - social
 - videos
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 17:47 UTC  
+**Last Updated:** March 01, 2026 at 18:35 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,13 +56,21 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 3h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 4h ago
+
+---
+
+**[Micro-Robot Delivers Medicine Exactly Where Your Body Needs It](https://www.reddit.com/r/robotics/comments/1ri3mwp/microrobot_delivers_medicine_exactly_where_your/)**
+
+Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 51m ago
 
 ---
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -92,12 +100,6 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Yo everyone! ​I’m a third-year Electrical Engineering student currently working on a robotics project involving simulation and control systems. I’ve been trying to get a 2-axis (2-DOF) robotic arm running in MATLAB/Simulink using the Robotics System Toolbox. ​The Problem: I found some cool 3D models of an articulated arm, but they are in SolidWorks format (.SLDPRT and .SLDASM). I’m struggling to get these converted into a clean URDF (XML) file that MATLAB can actually importrobot. ​What I'm looking for: ​Does anyone have a link to a reliable 2-DOF or 3-DOF arm URDF (XML) that is already verified to work in MATLAB? ​If I stick with the SolidWorks models I found, what is the fastest way to export them to URDF without the file becoming a mess of hidden .xml extensions or broken joint links? ​Any tips on setting up a basic PID controller in Simulink once the model is imported? ​I’ve checked GitHub but most models are for huge 6-axis industrial arms like the UR5, which is overkill for my current assignment. ​Any links, repos, or advice would be massive! Thanks in advance.
 
-7h ago
-
----
-
-**[I'm looking for help on simscape multibody for my Master 1 project ( help 😭!)](https://www.reddit.com/r/robotics/comments/1rhtbrr/im_looking_for_help_on_simscape_multibody_for_my/)**
-
 8h ago
 
 ---
@@ -106,19 +108,17 @@ Yo everyone! ​I’m a third-year Electrical Engineering student currently work
 
 ## Google News: "robotics"
 
-**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
-
-In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
-
-CNBC • 1d ago
-
----
-
 **[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 3h ago
+CNBC • 4h ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdTK99naPJCKaT4c7cIesL1pCxcAll-HQv-Wb_pBUjnfNNdRz-A1dgU&gaa_ts=69a48a7c&gaa_sig=7fFTmdc2sFRg0gYpcEGXNo5vCujeBIxYp2Mn5RgPVQ9b72e2Y0rNAxXUJATyYPWjzohFe30kDnuN8ngB9-a0Eg%3D%3D)**
+
+WSJ • 1d ago
 
 ---
 
@@ -127,12 +127,6 @@ CNBC • 3h ago
 Televised gala offers a showcase and opportunity for the best of Chinese tech
 
 Financial Times • 2d ago
-
----
-
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqc1QZE9k96SZuaoD7rjXITHGe8o9aKEwOl1LTzxZcuf6TDTZA7Uc_kK&gaa_ts=69a472c0&gaa_sig=HNt26NergFp4fUYzdNzuP3InOgwu3l52JBv_QocTUkOOlO3xzESGbAjAa-O1mWlQkIbcuANsSgsjUNRycQ1QxQ%3D%3D)**
-
-WSJ • 1d ago
 
 ---
 
@@ -150,6 +144,12 @@ Tech Xplore • 2d ago
 
 ---
 
+**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
+
+TribLIVE.com • 1d ago
+
+---
+
 **[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
 
 Coco Robotics launched a new generation of delivery bots
@@ -164,11 +164,11 @@ Bloomberg.com • 2d ago
 
 ---
 
-**[Over 20 Nebraska robotics programs compete in First Tech Challenge at MCC](https://www.wowt.com/video/2026/02/28/over-20-nebraska-robotics-programs-compete-first-tech-challenge-mcc/)**
+**[China releases national standards for humanoid robots and embodied AI](https://news.cgtn.com/news/2026-03-01/China-releases-national-standards-for-humanoid-robots-and-embodied-AI-1L9p2ncOuSA/p.html)**
 
-Since September, programs have been preparing their robots for this moment.
+China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-WOWT • 18h ago
+news.cgtn.com • 15h ago
 
 ---
 
@@ -190,7 +190,27 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 168K • 👍 2K • 💬 341 • ⏱️ 14:16 • 6d ago
+👁️ 169K • 👍 2K • 💬 341 • ⏱️ 14:16 • 6d ago
+
+---
+
+**[Building a Robot so I don&#39;t get kicked out of Uni](https://www.youtube.com/watch?v=QZeO-wh_1HY)**
+
+Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
+
+📺 Tazer
+
+👁️ 62K • 👍 4K • 💬 223 • ⏱️ 21:58 • 17h ago
+
+---
+
+**[HONOR Humanoid Robot Stuns Mobile World Congress 2026 With Real Backflips](https://www.youtube.com/watch?v=NoshXGHxgVo)**
+
+HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Barcelona, and the live demonstration shocked ...
+
+📺 DPCcars
+
+👁️ 198 • 👍 9 • 💬 1 • ⏱️ 4:41 • 1h ago
 
 ---
 
@@ -200,7 +220,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 90K • 👍 1K • 💬 342 • ⏱️ 12:16 • 2d ago
+👁️ 92K • 👍 1K • 💬 357 • ⏱️ 12:16 • 2d ago
 
 ---
 
@@ -210,7 +230,7 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 12K • 👍 356 • 💬 131 • ⏱️ 13:15 • 1d ago
+👁️ 13K • 👍 367 • 💬 131 • ⏱️ 13:15 • 1d ago
 
 ---
 
@@ -220,7 +240,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 64K • 👍 306 • 💬 118 • ⏱️ 2:18 • 3d ago
+👁️ 65K • 👍 310 • 💬 119 • ⏱️ 2:18 • 3d ago
 
 ---
 
@@ -234,43 +254,23 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[Building a Robot so I don&#39;t get kicked out of Uni](https://www.youtube.com/watch?v=QZeO-wh_1HY)**
-
-Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
-
-📺 Tazer
-
-👁️ 51K • 👍 4K • 💬 195 • ⏱️ 21:58 • 16h ago
-
----
-
-**[HONOR Robot Phone Steals the Show 🤖🕺](https://www.youtube.com/watch?v=gkZ4qErwy24)**
-
-HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most surprising highlights from the ...
-
-📺 Dariusz Tech
-
-👁️ 1K • 👍 123 • 💬 10 • ⏱️ 1:17 • 3h ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 128K • 👍 3K • 💬 1K • ⏱️ 7:18 • 5d ago
-
----
-
 **[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
 
 Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
 
 📺 SciVion
 
-👁️ 33K • 👍 702 • 💬 16 • ⏱️ 0:35 • 1d ago
+👁️ 34K • 👍 707 • 💬 16 • ⏱️ 0:35 • 1d ago
+
+---
+
+**[Unitree Introducing | Unitree As2  Your Companion](https://www.youtube.com/watch?v=1ONE4l_pgHw)**
+
+Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of no-load runtime, IP54 rainproof design. With a 15 ...
+
+📺 Unitree Robotics
+
+👁️ 2.4M • 👍 3K • 💬 423 • ⏱️ 0:58 • 5d ago
 
 ---
 
@@ -280,7 +280,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 305K • 👍 2K • 💬 807 • ⏱️ 0:55 • 3d ago
+👁️ 313K • 👍 2K • 💬 824 • ⏱️ 0:55 • 3d ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T17:47:30.718210+00:00'
+updated: '2026-03-01T18:35:59.320199+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - social
 - videos
+- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 17:47 UTC  
+**Last Updated:** March 01, 2026 at 18:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,000.00
+### $66,102.97
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.0%  
-**7d:** +2.3%  
-**30d:** -16.1%  
-**90d:** -27.8%  
-**1y:** -29.9%  
+**24h:** +0.1%  
+**7d:** +2.7%  
+**30d:** -15.7%  
+**90d:** -27.4%  
+**1y:** -29.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1340.51B
+**Market Cap:** $1328.09B
 Rank #1
 
-**Circulating Supply:** 19,996,506 BTC
+**Circulating Supply:** 19,996,537 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.8%
+-47.4%
 
 **All-Time Low:** $67.81
-+98765.9%
++97685.0%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-2h ago
+3h ago
 
 ---
 
@@ -89,7 +89,7 @@ I often see people criticizing Bitcoin, and many times, these are people who wer
 
 Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-21h ago
+22h ago
 
 ---
 
@@ -97,7 +97,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
 
-6h ago
+7h ago
 
 ---
 
@@ -111,7 +111,15 @@ Thoughts on buying 250 usd worth of bitcoin every week for the next couple of ye
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-11h ago
+12h ago
+
+---
+
+**[The FED](https://www.reddit.com/r/Bitcoin/comments/1ri29jc/the_fed/)**
+
+Every day I think about how the Fed is going to carry on forever doing what it is designed to do: a bunch of emotional humans trying to “manage inflation” by printing money out of thin air, in an ever changing political landscape which it claims to be separate from (but we all know it’s not). And I feel my b hole clench up. And then I think about Bitcoin in contrast, and how it’s going to carry on printing a new block every 10 minutes for the rest of our lives. And I have a sigh of relief. 🥲
+
+1h ago
 
 ---
 
@@ -119,39 +127,31 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
 
-3h ago
+4h ago
 
 ---
 
-**[BTC is in an "accumulation" phase rn.](https://www.reddit.com/r/Bitcoin/comments/1rhabxr/btc_is_in_an_accumulation_phase_rn/)**
+**[how it my timeframe](https://www.reddit.com/r/Bitcoin/comments/1ri4vj2/how_it_my_timeframe/)**
 
-Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
+so i am dollar cost averaging btc weekly but in like 2.5 to 3 years i want to sell a chunck of it so i can go on a trip to japan. but is 2.5 to 3 years a long enough time to hold my btc?
 
-23h ago
-
----
-
-**[Do we anticipate BTC do dump even further on Monday?](https://www.reddit.com/r/Bitcoin/comments/1rh9eso/do_we_anticipate_btc_do_dump_even_further_on/)**
-
-Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation? EDIT: didn’t think so many people would get offended by my thoughts. I’m just curious as to how others are feeling regarding the current state of the market. Now I’m getting told that I’m trying to build bearish sentiment on the timeline. Wtf?
-
-23h ago
+6m ago
 
 ---
 
-**[Solo Satoshi Releases The Bitaxe Turbo Touch, The Most Powerful Open-Source Touchscreen Bitcoin Miner.](https://www.reddit.com/r/Bitcoin/comments/1rhi2vq/solo_satoshi_releases_the_bitaxe_turbo_touch_the/)**
+**[Is it time to buy Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1ri4k4k/is_it_time_to_buy_bitcoin/)**
 
-The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, built on the Bitaxe GT 801 platform with dual BM1370 chips. Quick rundown: 2.15 TH/s default, 3.06+ TH/s overclocked 4.3" capacitive touchscreen with 8 live screens (hashrate, block height, latest blocks, BTC price, clock, Wi-Fi config, settings, hashrate graph) All screen data pulls from mempool.space ~43W, ~35 dB Mining firmware is mainline AxeOS (esp-miner), screen firmware is BAP-GT-TOUCH, both fully open source Runs on the ESP32-S3 with Wi-Fi, same as other Bitaxe models The big jump from the original Bitaxe Touch is doubling the hashrate (was ~1.0 TH/s on the single BM1370 version), going from 4 screens to 8, and moving the screen firmware from proprietary to open source through the GT 801's Bitaxe Accessory Port. It was shown off at the HeatPunk Summit in Denver this week. Full technical breakdown here: https://www.solosatoshi.com/bitaxe-touch-unveiled/ Happy to answer any questions about the hardware or firmware. https://preview.redd.it/4pkalprlpbmg1.png?width=940&format=png&auto=webp&s=8fa61aac5ec82447679162cbfd3bc7035d619063 https://preview.redd.it/eowlutrlpbmg1.png?width=940&format=png&auto=webp&s=25284ed91c26ad2e1bf23b7600ec5ac4d7542926 https://preview.redd.it/vpm4exrlpbmg1.png?width=940&format=png&auto=webp&s=0733ea99d58e508597a6a2d1afb7c79a62ac8c8f https://preview.redd.it/yx0rv1slpbmg1.png?width=940&format=png&auto=webp&s=d97f2210eb9003188d229f0fcc3d8ad584392ac1 https://preview.redd.it/vcwhozrlpbmg1.png?width=940&format=png&auto=webp&s=2aa3dce9f95bec81d63fd92514fb08889dab372f https://preview.redd.it/xdh9g4slpbmg1.png?width=940&format=png&auto=webp&s=e42ccaf53253fa56de0292caf7371f85f1cdf84d https://preview.redd.it/25hd76slpbmg1.png?width=940&format=png&auto=webp&s=1c76894f9e96103c3d114738b7576747924ad247 https://preview.redd.it/bfmte8slpbmg1.png?width=940&format=png&auto=webp&s=558dcb23d0c0c297d6f1c7f4c4f8535cea53bb47 https://preview.redd.it/hzz55dslpbmg1.png?width=940&format=png&auto=webp&s=672936b1e0dbd42e96d7e8fb6b14488ac389e794 https://preview.redd.it/z1jlm9slpbmg1.png?width=940&format=png&auto=webp&s=fb42b49425d9ddb84903ce135e2b5f1b3624691a
+Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
 
-17h ago
+18m ago
 
 ---
 
-**[Just came here to say that I'm lonely on stacker news](https://www.reddit.com/r/Bitcoin/comments/1rhl8g0/just_came_here_to_say_that_im_lonely_on_stacker/)**
+**[Whats the easiest way to buy crypto with a credit card and no KYC in 2026? Most options I find are dead or require ID now](https://www.reddit.com/r/Bitcoin/comments/1ri4454/whats_the_easiest_way_to_buy_crypto_with_a_credit/)**
 
-There's like three active users anymore.
+Ive been trying to buy crypto without going through full kyc verification for a few weeks now and honestly its getting frustrating. Every guide I find online recommends the same stuff, bisq, robosats, atms, but none of those work for my situation Bisq needs you to already have bitcoin to start trading. Robosats is lightning only and the learning curve is steep. Bitcoin atms near me charge 12 percent fees which is insane and most of them require id now anyway All i want is to pay with my debit card or apple pay and get btc or usdc sent to my wallet without uploading my passport and taking a selfie. I dont need full anonymity i just dont want my documents sitting on some exchange server waiting to get leaked I know most big exchanges require kyc now but there has to be something that works for smaller amounts. Is anyone actually buying crypto with a card in 2026 without full verification or is that completely dead Real experiences only please, not just links to articles listing exchanges that changed their policies 2 years ago
 
-15h ago
+34m ago
 
 ---
 
@@ -163,7 +163,7 @@ There's like three active users anymore.
 
 The company holds about 8,285 bitcoin in Coinbase Prime custody, a stake now worth roughly $545 million after a $235 million decline in value over the past three months.
 
-CoinDesk • 4h ago
+CoinDesk • 5h ago
 
 ---
 
@@ -175,17 +175,33 @@ The Motley Fool • 15h ago
 
 ---
 
-**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
+**[How an Oil Shock Could Trigger Bitcoin’s Next Liquidity Selloff](https://finance.yahoo.com/news/oil-shock-could-trigger-bitcoin-180255226.html)**
 
-Bloomberg.com • 14h ago
+An oil shock from Strait of Hormuz tensions could tighten liquidity, lift Treasury yields, and trigger a Bitcoin liquidity selloff.
+
+Yahoo Finance • 33m ago
 
 ---
 
-**[Tokenised gold continues rally while Bitcoin slides on US attack against Iran](https://finance.yahoo.com/news/tokenised-gold-continues-rally-while-171816381.html)**
+**[Bitcoin market bottom may be nearing, at least if measured against gold, analyst says](https://www.coindesk.com/markets/2026/03/01/bitcoin-market-bottom-may-be-nearing-at-least-if-measured-against-gold-analyst-says)**
 
-Tether Gold and Paxos Gold spiked on Saturday after the US announced it had bombed Iran. Bitcoin and Ethereum dropped in price. Tokenised gold is proving useful to give investors exposure to safe-haven assets.
+Historically, bitcoin bear markets have lasted 12-13 months, suggesting a potential downturn until late 2026 if priced in USD.
 
-Yahoo Finance • 1d ago
+CoinDesk • 3h ago
+
+---
+
+**[Institutional crypto interest rebounds even as Bitcoin (BTC) falls 25%](https://www.coindesk.com/business/2026/03/01/bitcoin-losing-trillions-in-value-hasn-t-stopped-traditional-giants-interest-in-digital-assets-sector)**
+
+At the iConnections conference in Miami this week, allocators signaled digital assets are now a core sleeve in alternatives.
+
+CoinDesk • 1h ago
+
+---
+
+**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
+
+Bloomberg.com • 15h ago
 
 ---
 
@@ -197,15 +213,7 @@ Fortune • 2d ago
 
 ---
 
-**[Chaos in Bitcoin treasury land: Rebellions, mass sales and one big monopoly](https://www.dlnews.com/articles/markets/chaos-bitcoin-treasury-land-revolts-mass-sales-monopoly/)**
-
-The Bitcoin treasury trade has been unwinding for months. One treasury approved the sale of its 7,500 Bitcoin reserves while another received a damning letter from shareholders.  “The original idea was an unsound one,” said Bitcoin analyst James Check.
-
-dlnews.com • 16h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772374200)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772381100)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
@@ -217,21 +225,13 @@ Polymarket • 1d ago
 
 A 2023-style bottom signal has reappeared for bitcoin, but analysts say weaker liquidity, ETF flow trends, and sticky inflation could limit a repeat of last cycle’s 130% rebound.
 
-Bitbo • 19h ago
+Bitbo • 20h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqfVYIVWXeHOeEA18grFPtu6dzG7uCrKwpUj0Ky3z1KVRx0Sft1TR_4r&gaa_ts=69a472bd&gaa_sig=iTPuyi7ducBJr65A-HUIxshDZGSSyWXZeYShrXryViuozJpriOwSaDiDnj2zZvWmiTZNnklwSEeQbC3-nec26w%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqc6_YGZvCkSP6OhDRhP7u2QAT-KvCk-mRn_E6jCaipBcyy1AcavIPqu&gaa_ts=69a48a78&gaa_sig=4Bcu2WS8DNg_4x48bwvxpXNk7oVpgeQ_8GVZwNTULo_Sj3xF5VxGS8LY0riNfdEGDOcFULuXsp0V7rcczxS_YQ%3D%3D)**
 
 Barron's • 2d ago
-
----
-
-**[Someone invested over $7,000 into Bitcoin 14 years ago and what it's worth now is almost incomprehensible](https://supercarblondie.com/tech/7000-invested-bitcoin-14-years-ago-value-now/)**
-
-Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
-
-supercarblondie.com • 7h ago
 
 ---
 
@@ -265,7 +265,7 @@ Links to major crypto world figures are just the start.
 
 One critic replied simply "go away."
 
-⬆️ 3 • 💬 0 • 5h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 3 • 💬 0 • 6h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -307,7 +307,7 @@ Command creation. Post a bounty for the film you want to see. Or win one.
 
 Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
 
-⬆️ 1 • 💬 0 • 2d ago • [GitHub](https://github.com/pyoneerC/deadhand)
+⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/pyoneerC/deadhand)
 
 ---
 
@@ -321,7 +321,17 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 18K • 👍 1K • 💬 190 • ⏱️ 19:16 • 17h ago
+👁️ 20K • 👍 1K • 💬 185 • ⏱️ 19:16 • 18h ago
+
+---
+
+**[Bitcoin Insider Reveals Why Institutions Are Scrambling To Buy The Dip! | Matt Hougan](https://www.youtube.com/watch?v=iDb9sfON5Qs)**
+
+Bitcoin #Crypto #Finance While retail investors panic over volatility, institutions are quietly buying the dip. In this conversation ...
+
+📺 The Wolf Of All Streets
+
+👁️ 10K • 👍 590 • 💬 133 • ⏱️ 29:04 • 4h ago
 
 ---
 
@@ -331,7 +341,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 26K • 👍 1K • 💬 271 • ⏱️ 26:57 • 1d ago
+👁️ 28K • 👍 1K • 💬 274 • ⏱️ 26:57 • 1d ago
 
 ---
 
@@ -341,17 +351,7 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 6K • 👍 117 • 💬 25 • ⏱️ 14:26 • 23h ago
-
----
-
-**[BREAKING: Bitcoin Just Got a $2 Trillion Backer — Morgan Stanley Files for Crypto Bank Charter](https://www.youtube.com/watch?v=5Naa0Q3j1So)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 4K • 👍 220 • 💬 9 • ⏱️ 26:03 • 20h ago
+👁️ 6K • 👍 145 • 💬 27 • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -361,7 +361,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 28K • 👍 1K • 💬 233 • ⏱️ 36:35 • 19h ago
+👁️ 29K • 👍 1K • 💬 237 • ⏱️ 36:35 • 20h ago
 
 ---
 
@@ -371,7 +371,7 @@ Geopolitical fear is gripping the markets. News of military strikes in Iran sent
 
 📺 Gareth Soloway
 
-👁️ 75K • 👍 4K • 💬 683 • ⏱️ 12:42 • 21h ago
+👁️ 78K • 👍 5K • 💬 695 • ⏱️ 12:42 • 22h ago
 
 ---
 
@@ -381,7 +381,17 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 625K • 👍 21K • 💬 2K • ⏱️ 18:56 • 2d ago
+👁️ 633K • 👍 21K • 💬 2K • ⏱️ 18:56 • 2d ago
+
+---
+
+**[The Biggest Crypto Trap I&#39;ve Ever Seen](https://www.youtube.com/watch?v=93kAh88MZKc)**
+
+Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
+
+📺 Altcoin Daily
+
+👁️ 52K • 👍 3K • 💬 157 • ⏱️ 13:24 • 2d ago
 
 ---
 
@@ -391,25 +401,17 @@ The New York Times says crypto is finished. CNBC runs with it. Meanwhile Bitcoin
 
 📺 Simply Bitcoin
 
-👁️ 13K • 👍 893 • 💬 145 • ⏱️ 18:58 • 1d ago
+👁️ 13K • 👍 905 • 💬 133 • ⏱️ 18:58 • 1d ago
 
 ---
 
-**[The Hidden Reason AI Needs Bitcoin](https://www.youtube.com/watch?v=u48856z9Stc)**
+**[The Bitcoin &quot;War Pump&quot; is a Trap.](https://www.youtube.com/watch?v=XsIR-LEi2bk)**
 
-Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
+BUY THE invasion usually plays out in the short term, but in the LONG term it is a trap. Mid term year is here... The links below may ...
 
-📺 Anthony Pompliano
+📺 Digital Asset News
 
-👁️ 37K • 👍 2K • ⏱️ 48:41 • 1d ago
-
----
-
-**[IT COULD BE OVER FOR CRYPTO! TRUMP DEMANDS CLARITY BILL DEADLINE NOW #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=NewU_71SXPU)**
-
-📺 CryptoWendyO
-
-👁️ 22K • 👍 1K • 💬 55 • ⏱️ 2:20 • 2d ago
+👁️ 1K • 👍 167 • 💬 6 • ⏱️ 32:26 • 25m ago
 
 ---
 
