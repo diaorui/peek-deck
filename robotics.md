@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T04:34:44.786240+00:00'
+updated: '2026-03-01T05:53:15.586223+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 04:34 UTC  
+**Last Updated:** March 01, 2026 at 05:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-11h ago
+12h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-6h ago
+8h ago
 
 ---
 
@@ -48,7 +48,13 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-15h ago
+17h ago
+
+---
+
+**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
+
+3h ago
 
 ---
 
@@ -56,7 +62,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-9h ago
+11h ago
 
 ---
 
@@ -64,13 +70,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-17h ago
-
----
-
-**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
-
-1h ago
+18h ago
 
 ---
 
@@ -84,13 +84,13 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-22h ago
+23h ago
 
 ---
 
 **[A Humanoid Robot Line Up (Part II)](https://www.reddit.com/r/robotics/comments/1rhjmza/a_humanoid_robot_line_up_part_ii/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -106,14 +106,6 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 ## Google News: "robotics"
 
-**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
-
-In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
-
-CNBC • 15h ago
-
----
-
 **[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)**
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
@@ -122,11 +114,35 @@ BMW Group • 1d ago
 
 ---
 
-**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
+**[BMW to put humanoid robots on production line at German plant](https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312)**
 
-Televised gala offers a showcase and opportunity for the best of Chinese tech
+Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costs
 
 Financial Times • 1d ago
+
+---
+
+**[China releases national standards for humanoid robots and embodied AI](https://news.cgtn.com/news/2026-03-01/China-releases-national-standards-for-humanoid-robots-and-embodied-AI-1L9p2ncOuSA/p.html)**
+
+China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
+
+news.cgtn.com • 3h ago
+
+---
+
+**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
+
+In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
+
+CNBC • 16h ago
+
+---
+
+**[In Hazelwood, a robotics center adds to a burgeoning tech community](https://www.post-gazette.com/business/tech-news/2026/02/27/hazelwood-robotics-tech-cmu-robotics/stories/202602270096)**
+
+In front of a crowd of hundreds in Hazelwood on Friday morning, four-legged, cheetah-print robots delivered pairs of golden scissors to a line of public...
+
+Pittsburgh Post-Gazette • 1d ago
 
 ---
 
@@ -136,31 +152,9 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfb9AgnpX1DrKfkCSyj54wfLkFtG7X799939qlPtaHaX1nyJmUNe6Vh&gaa_ts=69a3c551&gaa_sig=JJIALdtka0Uei1Ayb8gICAQ3nDAQko_DXZ8GnJ1jSlnbEEPi30PHeoKXwUw_dEz_XEsQrSx36wXPDaLWJpm6Sw%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfhkWxZmcfwJl1LE23hawpsBUaWGh-5JKwPIhChmRw8QmRJhZ7yF3LM&gaa_ts=69a3d7b8&gaa_sig=M0rEiY9pzr92e9VbSe3KnnZPTQfpJkJ-gOdCn4vAZ97wlN-MyxAmPielYPBQJvJY6jkZYxWDXx07KPC9s_Y4AA%3D%3D)**
 
 WSJ • 1d ago
-
----
-
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Carnegie Mellon University opens robotics innovation center in Pittsburgh](https://www.wtae.com/article/pittsburgh-robotics-carnegie-mellon/70540656)**
-
-The former steel mill site is now a place where future scientific professionals can grow and be inspired. CMU envisions Pittsburgh as a potential hub for artificial intelligence and robotics.
-
-WTAE • 1d ago
-
----
-
-**[Coco delivery robots get reboot to maximize service and expand market](https://nypost.com/2026/02/28/us-news/coco-delivery-robots-get-reboot-to-maximize-service-and-expand-market/)**
-
-The Coco delivery robots that have become a regular part of so many Los Angeles neighborhoods will now have a whole new look — a redesign the company behind them says will help to expand the bots&#…
-
-New York Post • 9h ago
 
 ---
 
@@ -172,11 +166,15 @@ Fortune • 2d ago
 
 ---
 
-**[Germany’s Merz meets China’s tech vanguard, including Alibaba and Unitree CEOs](https://www.scmp.com/tech/article/3344835/germanys-merz-meets-chinas-tech-vanguard-including-alibaba-and-unitree-ceos)**
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
+Bloomberg.com • 2d ago
 
-South China Morning Post • 1d ago
+---
+
+**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
+
+TribLIVE.com • 1d ago
 
 ---
 

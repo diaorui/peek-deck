@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T04:34:44.768161+00:00'
+updated: '2026-03-01T05:53:15.568735+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
-- social
-- videos
 - repositories
+- videos
+- social
+- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 04:34 UTC  
+**Last Updated:** March 01, 2026 at 05:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,15 @@ AI news, discussions, and developments
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-8h ago
+10h ago
+
+---
+
+**["You are humanity personified in 2076"](https://www.reddit.com/r/artificial/comments/1rhp3xc/you_are_humanity_personified_in_2076/)**
+
+A continuation of the first time I did this with a narrative of humanity since the dawn of civilization. Really starting to get into these sort of experiments now their compute has been cut. Creative writing has possibly boosted. Its 6x LLM outputs that don't fit in here. So... READ HERE
+
+16m ago
 
 ---
 
@@ -55,7 +63,15 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
 
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 23h ago
+🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 1d ago
+
+---
+
+**[Does anyone else notice that crypto communities tend toward tribalism while AI communities don't?](https://www.reddit.com/r/artificial/comments/1rhmn1l/does_anyone_else_notice_that_crypto_communities/)**
+
+I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
+
+2h ago
 
 ---
 
@@ -71,15 +87,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-9h ago
-
----
-
-**[Does anyone else notice that crypto communities tend toward tribalism while AI communities don't?](https://www.reddit.com/r/artificial/comments/1rhmn1l/does_anyone_else_notice_that_crypto_communities/)**
-
-I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
-
-1h ago
+11h ago
 
 ---
 
@@ -87,7 +95,7 @@ I was drafting an article about both AI and crypto and noticed that the brand lo
 
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
-22h ago
+23h ago
 
 ---
 
@@ -103,15 +111,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 8h ago
-
----
-
-**[I used steelman prompting to audit bias across six major LLMs. The default-to-steelman gap was consistent and measurable.](https://www.reddit.com/r/artificial/comments/1rgqcgi/i_used_steelman_prompting_to_audit_bias_across/)**
-
-I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok, Llama, DeepSeek, and an uncensored DeepSeek clone (Venice.ai) — using identical prompts to test how they handle a hotly contested interpretive question. The domain: 1 Corinthians 6–7, the primary source text behind Christian sexual ethics (aka wait until marriage) and a passage churches are frequently accused of gaslighting on. The question was straightforward: do the original Greek and historical context actually support the traditional church conclusion, or the claims that the church is misrepresenting the text? The approach: first prompt each platform for a standard analysis, then prompt it to steelman the strongest case against its own default using the same source material. I tracked six diagnostic markers, three associated with the dominant interpretation, three with the alternative, across all platforms. Results: every platform's default produced markers 1–3 and omitted 4–6. Every platform's steelman produced 4–6 with greater lexical specificity, more structural engagement with the source text, and more historically grounded reasoning. The information wasn't missing from the training data — the defaults just systematically favored one interpretive framework. The source bias was traceable. When asked to recommend scholarly sources, 63% of commentaries across all platforms came from a single theological tradition (conservative evangelical). Zero came from the peer-reviewed subdiscipline whose work supports the alternative reading. The most interesting finding: DeepSeek and its uncensored clone share the same base model but diverged significantly on the steelman prompt, suggesting output-layer filtering can shape interpretive conclusions in non-obvious domains, not just politically sensitive ones. To be clear: the research draws no conclusion about which interpretation is correct. It documents how platforms present contested material as settled, and traces that default to a measurable imbalance in training data curation. I wrote this up into a formal research paper with full methodology, diagnostic criteria, and platform-by-platform results: here But the broader question: has anyone else experimented with steelman prompting as a systematic bias-auditing technique? It seems like a replicable framework that could apply well beyond this domain.
-
-1d ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 9h ago
 
 ---
 
@@ -119,11 +119,9 @@ I ran a structured experiment across six AI platforms — Claude, ChatGPT, Grok,
 
 ## Google News: "ai"
 
-**[OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic](https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems)**
+**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-OpenAI CEO Sam Altman announced late Friday that the company had signed a deal with the Pentagon for its AI tools to be used in the military’s classified systems, but with seemingly similar guardrails rival Anthropic had also requested.
-
-CNN • 1d ago
+The New York Times • 1d ago
 
 ---
 
@@ -131,7 +129,7 @@ CNN • 1d ago
 
 Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
 
-The Guardian • 18h ago
+The Guardian • 19h ago
 
 ---
 
@@ -139,7 +137,15 @@ The Guardian • 18h ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 34m ago
+Financial Times • 1h ago
+
+---
+
+**[OpenAI CEO Sam Altman answers questions on new Pentagon deal: 'This technology is super important'](https://www.foxbusiness.com/technology/openai-ceo-sam-altman-answers-questions-new-pentagon-deal)**
+
+OpenAI CEO Sam Altman defends Pentagon AI deal as Trump orders federal agencies to cut ties with rival Anthropic over military surveillance concerns.
+
+Fox Business • 2h ago
 
 ---
 
@@ -155,21 +161,23 @@ Fortune • 1d ago
 
 The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-NBC News • 16h ago
+NBC News • 17h ago
 
 ---
 
-**[India Built the World’s Back Office. A.I. Is Starting to Shrink It.](https://www.nytimes.com/2026/02/27/technology/india-technology-jobs-ai.html)**
+**[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
 
-The New York Times • 1d ago
+Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
+
+CNN • 21h ago
 
 ---
 
-**[AI just leveled up and there are no guardrails anymore](https://www.cnbc.com/2026/02/28/ai-selloff-politics-agents.html)**
+**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
 
-CNBC's Deirdre Bosa goes inside the AI-driven market meltdown, the political fight, and the race that's moving faster than anyone can govern.
+In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 15h ago
+CNBC • 16h ago
 
 ---
 
@@ -177,13 +185,7 @@ CNBC • 15h ago
 
 Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
 
-OpenAI • 7h ago
-
----
-
-**[Nvidia plans new chip to speed AI processing, WSJ reports](https://www.reuters.com/business/nvidia-plans-new-chip-speed-ai-processing-wsj-reports-2026-02-28/)**
-
-Reuters • 1d ago
+OpenAI • 9h ago
 
 ---
 
@@ -191,7 +193,7 @@ Reuters • 1d ago
 
 After the Trump administration cut it off, Anthropic CEO Dario Amodei told CBS News in an exclusive interview Friday night he wants to work with the military — but only if it addresses the firm's concerns.
 
-CBS News • 17h ago
+CBS News • 18h ago
 
 ---
 
@@ -217,7 +219,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 311 • 💬 174 • 15h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 311 • 💬 176 • 17h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -225,7 +227,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 295 • 💬 177 • 15h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 297 • 💬 177 • 16h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -245,7 +247,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 121 • 💬 97 • 17h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 123 • 💬 98 • 19h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -253,7 +255,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 Aiming for a 10 year life-cycle for smartphones
 
-⬆️ 84 • 💬 107 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 84 • 💬 102 • 1d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
 
 ---
 
@@ -283,7 +285,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 96K • 👍 5K • 💬 882 • ⏱️ 1:33:33 • 11h ago
+👁️ 96K • 👍 5K • 💬 882 • ⏱️ 1:33:33 • 12h ago
 
 ---
 
@@ -293,7 +295,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 42K • 👍 929 • 💬 176 • ⏱️ 39:40 • 12h ago
+👁️ 42K • 👍 929 • 💬 176 • ⏱️ 39:40 • 13h ago
 
 ---
 
@@ -303,7 +305,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 97K • 👍 7K • 💬 1K • ⏱️ 14:41 • 13h ago
+👁️ 97K • 👍 7K • 💬 1K • ⏱️ 14:41 • 14h ago
 
 ---
 
@@ -353,7 +355,7 @@ shorts #AI #disturbing.
 
 📺 Built By Gamers
 
-👁️ 24K • 👍 554 • 💬 13 • ⏱️ 0:27 • 21h ago
+👁️ 24K • 👍 554 • 💬 13 • ⏱️ 0:27 • 23h ago
 
 ---
 
@@ -363,7 +365,7 @@ shorts #AI #disturbing.
 
 📺 Built By Gamers
 
-👁️ 25K • 👍 611 • 💬 11 • ⏱️ 0:30 • 22h ago
+👁️ 25K • 👍 611 • 💬 11 • ⏱️ 0:30 • 23h ago
 
 ---
 
@@ -485,7 +487,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 214 • 16h ago
+⬇️ 8,049 • ❤️ 214 • 17h ago
 
 ---
 
@@ -643,7 +645,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Rust` `official` `official-website`
 
-⭐ 21.3k • 🔱 2.7k • 46s ago
+⭐ 21.3k • 🔱 2.7k • 1h ago
 
 ---
 
@@ -663,7 +665,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 362 • 18m ago
+⭐ 3.7k • 🔱 362 • 1h ago
 
 ---
 
@@ -683,7 +685,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.2k • 🔱 381 • 2h ago
+⭐ 3.2k • 🔱 381 • 4h ago
 
 ---
 
@@ -693,7 +695,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.1k • 🔱 251 • 16h ago
+⭐ 3.1k • 🔱 251 • 17h ago
 
 ---
 
@@ -703,7 +705,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 325 • 15h ago
+⭐ 3.0k • 🔱 325 • 16h ago
 
 ---
 
@@ -713,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 213 • 23m ago
+⭐ 3.0k • 🔱 213 • 1h ago
 
 ---
 
@@ -723,7 +725,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 562 • 18h ago
+⭐ 2.9k • 🔱 562 • 20h ago
 
 ---
 
@@ -733,7 +735,7 @@ A desktop GUI for Claude Code — chat, code, and manage projects visually. Buil
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 2.5k • 🔱 256 • 11h ago
+⭐ 2.5k • 🔱 256 • 13h ago
 
 ---
 
