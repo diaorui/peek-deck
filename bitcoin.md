@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T21:24:11.990221+00:00'
+updated: '2026-03-01T21:45:24.489922+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 21:24 UTC  
+**Last Updated:** March 01, 2026 at 21:45 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -103,13 +103,13 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
 
-9h ago
+10h ago
 
 ---
 
 **[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -133,7 +133,7 @@ Is it time to buy Bitcoin? Share some advice and suggest promising assets simila
 
 Hit .70 btc….Endless schloggggg to 1.
 
-52m ago
+1h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 8h ago
 
 Bitcoin investors may soon forget the recent correction.
 
-The Motley Fool • 18h ago
+The Motley Fool • 19h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 3h ago
 
 Bitcoin drops 40% from $120K peak—viral theory blames Jane Street for morning price dumps via ETFs. Experts dismiss claims.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -273,7 +273,7 @@ Links to major crypto world figures are just the start.
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 22h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 23h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -357,7 +357,7 @@ Bitcoin didn't top because of “manipulation.” But that doesn't mean manipula
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 118 • 💬 8 • ⏱️ 21:22 • 4h ago
+👁️ 2K • 👍 118 • 💬 8 • ⏱️ 21:22 • 5h ago
 
 ---
 

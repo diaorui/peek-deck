@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T21:24:11.996290+00:00'
+updated: '2026-03-01T21:45:24.495926+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- social
 - videos
 - cryptocurrency
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 21:24 UTC  
+**Last Updated:** March 01, 2026 at 21:45 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi ethereumers (if that's the way we call the ethereum community eheh), firstly i'm sorry if this is an frequent question but i couldn't find the answer anywhere so i wanna ask about it. I'm holding Bitcoins in trustwallet which i'm willing to convert to eth to pay gas for my usdt, is there a simple/fast way to do it? Advices appreciated
 
-52m ago
+1h ago
 
 ---
 
@@ -164,7 +164,7 @@ Nasdaq • 1d ago
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces $7,4M milestone will hit soon, and the project is going viral and the presale nu...
 
-markets.businessinsider.com • 38m ago
+markets.businessinsider.com • 59m ago
 
 ---
 
@@ -172,7 +172,7 @@ markets.businessinsider.com • 38m ago
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces that it has raised over $7.391 million and the allocation is disappearing faster...
 
-markets.businessinsider.com • 38m ago
+markets.businessinsider.com • 59m ago
 
 ---
 
@@ -218,7 +218,7 @@ Polymarket • 1d ago
 
 Ethereum price faces mixed signals as holder retention rebounds while network growth slows and $1,816 support remains critical.
 
-BeInCrypto • 23h ago
+BeInCrypto • 1d ago
 
 ---
 
@@ -240,7 +240,7 @@ Did Vitalik Buterin just dump Ethereum at the worst possible time? After announc
 
 📺 Coin Bureau
 
-👁️ 40K • 👍 2K • 💬 192 • ⏱️ 18:01 • 8h ago
+👁️ 40K • 👍 2K • 💬 192 • ⏱️ 18:01 • 9h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 148 • 💬 9 • ⏱️ 7:25 • 8h ago
+👁️ 2K • 👍 148 • 💬 9 • ⏱️ 7:25 • 9h ago
 
 ---
 

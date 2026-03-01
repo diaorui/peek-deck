@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T21:24:11.981452+00:00'
+updated: '2026-03-01T21:45:24.481537+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- repositories
 - social
+- videos
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 21:24 UTC  
+**Last Updated:** March 01, 2026 at 21:45 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 10h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 11h ago
 
 ---
 
@@ -81,7 +81,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html) • 49m ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html) • 1h ago
 
 ---
 
@@ -159,7 +159,7 @@ Fortune • 1d ago
 
 **[How AI Could Wreck Your 401(k)](https://www.forbes.com/sites/baldwin/2026/02/28/warning-ai-is-coming-for-your-401k/)**
 
-Forbes • 9h ago
+Forbes • 10h ago
 
 ---
 
@@ -231,7 +231,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 189 • 💬 45 • 13h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 189 • 💬 45 • 14h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.6k • 🔱 2.7k • 32m ago
+⭐ 21.6k • 🔱 2.7k • 53m ago
 
 ---
 
@@ -719,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 331 • 6h ago
+⭐ 3.0k • 🔱 331 • 7h ago
 
 ---
 
