@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T12:51:56.562234+00:00'
+updated: '2026-03-01T13:39:16.765198+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- news
-- videos
-- social
 - cryptocurrency
+- social
+- videos
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 12:51 UTC  
+**Last Updated:** March 01, 2026 at 13:39 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-16h ago
+17h ago
 
 ---
 
@@ -95,7 +95,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-6h ago
+7h ago
 
 ---
 
@@ -109,7 +109,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
 
-1h ago
+2h ago
 
 ---
 
@@ -125,7 +125,7 @@ Based on my technical analysis, which I do have a few years of experience in, BT
 
 Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
 
-18h ago
+19h ago
 
 ---
 
@@ -133,7 +133,7 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, built on the Bitaxe GT 801 platform with dual BM1370 chips. Quick rundown: 2.15 TH/s default, 3.06+ TH/s overclocked 4.3" capacitive touchscreen with 8 live screens (hashrate, block height, latest blocks, BTC price, clock, Wi-Fi config, settings, hashrate graph) All screen data pulls from mempool.space ~43W, ~35 dB Mining firmware is mainline AxeOS (esp-miner), screen firmware is BAP-GT-TOUCH, both fully open source Runs on the ESP32-S3 with Wi-Fi, same as other Bitaxe models The big jump from the original Bitaxe Touch is doubling the hashrate (was ~1.0 TH/s on the single BM1370 version), going from 4 screens to 8, and moving the screen firmware from proprietary to open source through the GT 801's Bitaxe Accessory Port. It was shown off at the HeatPunk Summit in Denver this week. Full technical breakdown here: https://www.solosatoshi.com/bitaxe-touch-unveiled/ Happy to answer any questions about the hardware or firmware. https://preview.redd.it/4pkalprlpbmg1.png?width=940&format=png&auto=webp&s=8fa61aac5ec82447679162cbfd3bc7035d619063 https://preview.redd.it/eowlutrlpbmg1.png?width=940&format=png&auto=webp&s=25284ed91c26ad2e1bf23b7600ec5ac4d7542926 https://preview.redd.it/vpm4exrlpbmg1.png?width=940&format=png&auto=webp&s=0733ea99d58e508597a6a2d1afb7c79a62ac8c8f https://preview.redd.it/yx0rv1slpbmg1.png?width=940&format=png&auto=webp&s=d97f2210eb9003188d229f0fcc3d8ad584392ac1 https://preview.redd.it/vcwhozrlpbmg1.png?width=940&format=png&auto=webp&s=2aa3dce9f95bec81d63fd92514fb08889dab372f https://preview.redd.it/xdh9g4slpbmg1.png?width=940&format=png&auto=webp&s=e42ccaf53253fa56de0292caf7371f85f1cdf84d https://preview.redd.it/25hd76slpbmg1.png?width=940&format=png&auto=webp&s=1c76894f9e96103c3d114738b7576747924ad247 https://preview.redd.it/bfmte8slpbmg1.png?width=940&format=png&auto=webp&s=558dcb23d0c0c297d6f1c7f4c4f8535cea53bb47 https://preview.redd.it/hzz55dslpbmg1.png?width=940&format=png&auto=webp&s=672936b1e0dbd42e96d7e8fb6b14488ac389e794 https://preview.redd.it/z1jlm9slpbmg1.png?width=940&format=png&auto=webp&s=fb42b49425d9ddb84903ce135e2b5f1b3624691a
 
-12h ago
+13h ago
 
 ---
 
@@ -141,7 +141,7 @@ The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, bui
 
 There's like three active users anymore.
 
-10h ago
+11h ago
 
 ---
 
@@ -159,7 +159,7 @@ Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threa
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg • 9h ago
+Bloomberg • 10h ago
 
 ---
 
@@ -173,7 +173,7 @@ The Motley Fool • 10h ago
 
 **[Bitcoin Stages Tepid Recovery as Iran Strikes Stir Uncertainty](https://www.bloomberg.com/news/articles/2026-03-01/bitcoin-btc-recovery-looks-tepid-as-iran-strikes-stir-uncertainty)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ Bloomberg • 1h ago
 
 Bitcoin rises near $67,000 mark, with Ethereum nearing $2,000. Iran has confirmed the death of supreme leader Ayatollah Ali Khamenei. The real price reveal is coming tomorrow, expert says.
 
-dlnews.com • 1h ago
+dlnews.com • 2h ago
 
 ---
 
@@ -189,7 +189,7 @@ dlnews.com • 1h ago
 
 The death of Iran's supreme leader opens the door to regime change, and markets are pricing in a shorter period of tension.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -203,7 +203,7 @@ Forbes • 2d ago
 
 Bitcoin rose as much as 2.2% to $68,196 after Iran confirmed the death of the country’s supreme leader.
 
-The Boston Globe • 59m ago
+The Boston Globe • 1h ago
 
 ---
 
@@ -271,7 +271,7 @@ Links to major crypto world figures are just the start.
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 2 • 💬 1 • 3d ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 2 • 💬 1 • 4d ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 131 • ⏱️ 19:16 • 12h ago
+👁️ 16K • 👍 1K • 💬 131 • ⏱️ 19:16 • 13h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 23K • 👍 1K • 💬 239 • ⏱️ 26:57 • 22h ago
+👁️ 23K • 👍 1K • 💬 239 • ⏱️ 26:57 • 23h ago
 
 ---
 
@@ -337,7 +337,7 @@ Geopolitical fear is gripping the markets. News of military strikes in Iran sent
 
 📺 Gareth Soloway
 
-👁️ 69K • 👍 4K • 💬 615 • ⏱️ 12:42 • 16h ago
+👁️ 69K • 👍 4K • 💬 615 • ⏱️ 12:42 • 17h ago
 
 ---
 
@@ -347,7 +347,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 23K • 👍 1K • 💬 202 • ⏱️ 36:35 • 14h ago
+👁️ 23K • 👍 1K • 💬 202 • ⏱️ 36:35 • 15h ago
 
 ---
 
@@ -367,7 +367,7 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 5K • 👍 101 • 💬 7 • ⏱️ 14:26 • 18h ago
+👁️ 5K • 👍 101 • 💬 7 • ⏱️ 14:26 • 19h ago
 
 ---
 
@@ -387,7 +387,7 @@ At 2:34 AM Eastern today, US and Israel struck Iran — and Bitcoin lost $2500 i
 
 📺 Mystery Market Vault
 
-👁️ 6K • 👍 242 • 💬 150 • ⏱️ 25:03 • 16h ago
+👁️ 6K • 👍 242 • 💬 150 • ⏱️ 25:03 • 17h ago
 
 ---
 
@@ -397,7 +397,7 @@ The New York Times says crypto is finished. CNBC runs with it. Meanwhile Bitcoin
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 858 • 💬 83 • ⏱️ 18:58 • 19h ago
+👁️ 12K • 👍 858 • 💬 83 • ⏱️ 18:58 • 20h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T12:51:56.553519+00:00'
+updated: '2026-03-01T13:39:16.756719+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - news
-- videos
 - social
+- repositories
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 12:51 UTC  
+**Last Updated:** March 01, 2026 at 13:39 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-5h ago
+6h ago
 
 ---
 
@@ -111,7 +111,7 @@ Quick summary of an independent preprint I just published: Question: Does the re
 
 I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
 
-9h ago
+10h ago
 
 ---
 
@@ -123,13 +123,13 @@ I was drafting an article about both AI and crypto and noticed that the brand lo
 
 Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
 **[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-The New York Times • 20h ago
+The New York Times • 21h ago
 
 ---
 
@@ -137,7 +137,7 @@ The New York Times • 20h ago
 
 While many Chinese companies have chased market share at home for consumer AI applications, UBS likes one in particular for its global enterprise potential.
 
-CNBC • 15m ago
+CNBC • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNBC • 15m ago
 
 Eight-plus months ago, new South Korean President Lee Jae Myung had eyes rolling with a pledge to double the Kospi stock index to 5,000.
 
-Forbes • 24m ago
+Forbes • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Forbes • 24m ago
 
 In 2026, tax scams are more convincing than ever, using AI, stolen data, and fake credentials. Here are some tips to help protect yourself.
 
-The Arizona Republic • 50m ago
+The Arizona Republic • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Arizona Republic • 50m ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -185,7 +185,7 @@ NBC News • 1d ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 8h ago
+Financial Times • 9h ago
 
 ---
 
@@ -225,7 +225,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 308 • 💬 183 • 23h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 308 • 💬 183 • 1d ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -251,7 +251,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 90 • 💬 17 • 5h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 90 • 💬 17 • 6h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -267,7 +267,7 @@ Aiming for a 10 year life-cycle for smartphones
 
 Have it your way?
 
-⬆️ 81 • 💬 95 • 2d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
+⬆️ 81 • 💬 95 • 3d ago • [The Verge](https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty)
 
 ---
 
@@ -291,7 +291,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 182K • 👍 7K • 💬 1K • ⏱️ 1:33:33 • 19h ago
+👁️ 182K • 👍 7K • 💬 1K • ⏱️ 1:33:33 • 20h ago
 
 ---
 
@@ -301,7 +301,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 117K • 👍 8K • 💬 1K • ⏱️ 14:41 • 21h ago
+👁️ 117K • 👍 8K • 💬 1K • ⏱️ 14:41 • 22h ago
 
 ---
 
@@ -311,7 +311,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 52K • 👍 1K • 💬 197 • ⏱️ 39:40 • 20h ago
+👁️ 52K • 👍 1K • 💬 197 • ⏱️ 39:40 • 21h ago
 
 ---
 
@@ -351,7 +351,7 @@ HUGE AI NEWS: Qwen 3.5, Solaris, Quiver Arrow 1.0, LavaSR, Doc to Lora, & more #
 
 📺 AI Search
 
-👁️ 30K • 👍 2K • 💬 210 • ⏱️ 45:11 • 9h ago
+👁️ 30K • 👍 2K • 💬 210 • ⏱️ 45:11 • 10h ago
 
 ---
 
@@ -509,7 +509,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
 
-▲ 16 • 💬 1 • ⭐ 6,333 • 5mo ago
+▲ 16 • 💬 1 • ⭐ 6,333 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
@@ -575,7 +575,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 204 • 💬 13 • ⭐ 4,371 • 29d ago
+▲ 204 • 💬 13 • ⭐ 4,371 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Rust` `official` `official-website`
 
-⭐ 21.4k • 🔱 2.7k • 1h ago
+⭐ 21.4k • 🔱 2.7k • 2h ago
 
 ---
 
@@ -659,7 +659,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 363 • 8h ago
+⭐ 3.7k • 🔱 363 • 9h ago
 
 ---
 
@@ -669,7 +669,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 482 • 5h ago
+⭐ 3.6k • 🔱 482 • 6h ago
 
 ---
 
@@ -699,7 +699,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 329 • 1h ago
+⭐ 3.0k • 🔱 329 • 2h ago
 
 ---
 
@@ -709,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 217 • 4h ago
+⭐ 3.0k • 🔱 217 • 5h ago
 
 ---
 
@@ -729,7 +729,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 2.7k • 🔱 257 • 12h ago
+⭐ 2.7k • 🔱 257 • 13h ago
 
 ---
 
