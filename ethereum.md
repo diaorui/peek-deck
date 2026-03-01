@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-02-28T23:45:18.766666+00:00'
+updated: '2026-03-01T02:27:54.768030+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - social
 - videos
-- cryptocurrency
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** February 28, 2026 at 23:45 UTC  
+**Last Updated:** March 01, 2026 at 02:27 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,33 +36,33 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,960.08
+### $2,043.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +2.5%  
-**7d:** +1.1%  
-**30d:** -26.9%  
-**90d:** -29.4%  
-**1y:** -10.6%  
+**24h:** +5.5%  
+**7d:** +9.4%  
+**30d:** -17.3%  
+**90d:** -32.2%  
+**1y:** -19.5%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $237.10B
+**Market Cap:** $245.13B
 Rank #2
 
-**Circulating Supply:** 120,692,248 ETH
+**Circulating Supply:** 120,692,230 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--60.3%
+-58.9%
 
 **All-Time Low:** $0.43
-+453628.7%
++469042.8%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-17h ago
+20h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Was digging through early Ethereum contracts and found something wild. In April 2016, Alex Van de Sande (@avsa) deployed a token called Unicorn Meat as an April Fool's joke. You could "grind" Unicorn tokens (0 decimals, basically NFTs before NFTs) into Unicorn Meat (3 decimals, fungible). The grinder contract handled the conversion on-chain. But here's the part that blew my mind: the Grinder Association DAO that governed the system used quadratic voting. In 2016. Before Gitcoin, before Vitalik's QV paper got popular, before anyone was talking about it. The voting weight scaled with the square root of tokens held, specifically to prevent whale dominance. Piper Merriam (yes, the py-evm / web3.py Piper Merriam) ended up taking over governance of the association. The DAO is technically still functional on mainnet. The technical design is also interesting from a token engineering perspective. The 0-decimal to 3-decimal conversion was essentially an early attempt at what we'd now call a token upgrade or migration path, but done through a grinder mechanic instead of a proxy pattern. One indivisible input, 1000 divisible units out. Irreversible by design. It's a tiny piece of Ethereum history that somehow combined: - Quadratic voting governance (years before it was mainstream) - On-chain token transformation (not just wrapping, actual decimal conversion) - A DAO with real authority over contract parameters - All of it deployed before The DAO hack even happened The contracts are all still on mainnet if anyone wants to poke around. Just search for UnicornGrinder on Etherscan. Sometimes the best innovations start as jokes.
 
-10h ago
+13h ago
 
 ---
 
@@ -88,15 +88,7 @@ Was digging through early Ethereum contracts and found something wild. In April 
 
 https://firefly.social/post/x/2026252944639934778 This is quite an impressive experiment. Vibe-coding the entire 2030 roadmap within weeks. Obviously such a thing built in two weeks without even having the EIPs has massive caveats: almost certainly lots of critical bugs, and probably in some cases "stub" versions of a thing where the AI did not even try making the full version. But six months ago, even this was far outside the realm of possibility, and what matters is where the trend is going. AI is massively accelerating coding (yesterday, I tried agentic-coding an equivalent of my blog software, and finished within an hour, and that was using gpt-oss:20b running on my laptop (!!!!), kimi-2.5 would have probably just one-shotted it). But probably, the right way to use it, is to take half the gains from AI in speed, and half the gains in security: generate more test-cases, formally verify everything, make more multi-implementations of things. A collaborator of the @leanethereum effort managed to AI-code a machine-verifiable proof of one of the most complex theorems that STARKs rely on for security. A core tenet of @leanethereum is to formally verify everything, and AI is greatly accelerating our ability to do that. Aside from formal verification, simply being able to generate a much larger body of test cases is also important. Do not assume that you'll be able to put in a single prompt and get a highly-secure version out anytime soon; there WILL be lots of wrestling with bugs and inconsistencies between implementations. But even that wrestling can happen 5x faster and 10x more thoroughly. People should be open to the possibility (not certainty! possibility) that the Ethereum roadmap will finish much faster than people expect, at a much higher standard of security than people expect. On the security side, I personally am excited about the possibility that bug-free code, long considered an idealistic delusion, will finally become first possible and then a basic expectation. If we care about trustlessness, this is a necessary piece of the puzzle. Total security is impossible because ultimately total security means exact correspondence between lines of code and contents of your mind, which is many terabytes (see https://firefly.social/post/x/2025653045414273438 ). But there are many specific cases, where specific security claims can be made and verified, that cut out >99% of the negative consequences that might come from the code being broken.
 
-7h ago
-
----
-
-**[Maybe the Vitalik sale isn’t the real story here](https://www.reddit.com/r/ethereum/comments/1rh5djl/maybe_the_vitalik_sale_isnt_the_real_story_here/)**
-
-Everyone jumped on the “Vitalik sold 19k ETH” headline like it was some huge signal. I get why it grabs attention, but honestly I don’t think that’s the most interesting thing going on. What stood out to me was that the market didn’t really break structure over it. For a sale that size, it got absorbed pretty clean. That says more about liquidity and depth than about one founder moving coins around. What feels more important is the bigger trend that’s building in the background. There’s been a lot of talk about AI agents and on chain automation, and some projections floating around that the AI agent market could grow from around $11B today to something like $236B by 2034. Whether those numbers end up exact or not, the direction seems clear if autonomous agents are actually going to transact on chain, infrastructure matters a lot. From what I’ve seen, Ethereum still has a noticeable lead in AI related deployments compared to other chains. And when you look at the ongoing upgrade discussions around improving finality and throughput, it kind of lines up with what autonomous systems would actually need to operate reliably. I’m not making any price calls or anything like that. Just feels like people are focused on short term headlines when the longer term infrastructure story might be more relevant. Curious what others think. If AI really becomes a serious on chain use case, does Ethereum’s liquidity and ecosystem depth give it the edge, or do you think higher throughput chains end up taking that activity?
-
-8h ago
+10h ago
 
 ---
 
@@ -104,7 +96,7 @@ Everyone jumped on the “Vitalik sold 19k ETH” headline like it was some huge
 
 We have been talking about account abstraction ever since early 2016, see the original EIP-86: https://github.com/ethereum/EIPs/issues/86 Now, we finally have EIP-8141 ( https://eips.ethereum.org/EIPS/eip-8141 ), an omnibus that wraps up and solves every remaining problem that AA was intended to address (plus more). Let's talk again about what it does. The concept, "Frame Transactions", is about as simple as you can get while still being highly general purpose. A transaction is N calls, which can read each other's calldata, and which have the ability to authorize a sender and authorize a gas payer. At the protocol layer, that's it. Now, let's see how to use it. First, a "normal transaction from a normal account" (eg. a multisig, or an account with changeable keys, or with a quantum-resistant signature scheme). This would have two frames: Validation (check the signature, and return using the ACCEPT opcode with flags set to signal approval of sender and of gas payment) Execution You could have multiple execution frames, atomic operations (eg. approve then spend) become trivial now. If the account does not exist yet, then you prepend another frame, "Deployment", which calls a proxy to create the contract (EIP-7997 https://ethereum-magicians.org/t/eip-7997-deterministic-factory-predeploy/24998 is good for this, as it would also let the contract address reliably be consistent across chains). Now, suppose you want to pay gas in RAI. You use a paymaster contract, which is a special-purpose onchain DEX that provides the ETH in real time. The tx frames are: Deployment [if needed] Validation (ACCEPT approves sender only, not gas payment) Paymaster validation (paymaster checks that the immediate next op sends enough RAI to the paymaster and that the final op exists) Send RAI to the paymaster Execution [can be multiple] Paymaster refunds unused RAI, and converts to ETH Basically the same thing that is done in existing sponsored transactions mechanisms, but with no intermediaries required (!!!!). Intermediary minimization is a core principle of non-ugly cypherpunk ethereum: maximize what you can do even if all the world's infrastructure except the ethereum chain itself goes down. Now, privacy protocols. Two strategies here. First, we can have a paymaster contract, which checks for a valid ZK-SNARK and pays for gas if it sees one. Second, we could add 2D nonces (see https://docs.erc4337.io/core-standards/rip-7712.html ), which allow an individual account to function as a privacy protocol, and receive txs in parallel from many users. Basically, the mechanism is extremely flexible, and solves for all the use cases. But is it safe? At the onchain level, yes, obviously so: a tx is only valid to include if it contains a validation frame that returns ACCEPT with the flag to pay gas. The more challenging question is at the mempool level. If a tx contains a first frame which calls into 10000 accounts and rejects if any of them have different values, this cannot be broadcasted safely. But all of the examples above can. There is a similar notion here to "standard transactions" in bitcoin, where the chain itself only enforces a very limited set of rules, but there are more rules at the mempool layer. There are specific rulesets (eg. "validation frame must come before execution frames, and cannot call out to outside contracts") that are known to be safe, but are limited. For paymasters, there has been deep thought about a staking mechanism to limit DoS attacks in a very general-purpose way. Realistically, when 8141 is rolled out, the mempool rules will be very conservative, and there will be a second optional more aggressive mempool. The former will expand over time. For privacy protocol users, this means that we can completely remove "public broadcasters" that are the source of massive UX pain in railgun/PP/TC, and replace them with a general-purpose public mempool. For quantum-resistant signatures, we also have to solve one more problem: efficiency. Here's are posts about the ideas we have for that: https://firefly.social/post/lens/1gfeyxjzsajqk845t3h https://firefly.social/post/x/2027405623189803453 AA is also highly complementary with FOCIL: FOCIL ensures rapid inclusion guarantees for transactions, and AA ensures that all of the more complex operations people want to make actually can be made directly as first-class transactions. Another interesting topic is EOA compatibility in 8141. This is being discussed, in principle it is possible, so all accounts incl existing ones can be put into the same framework and gain the ability to do batch operations, transaction sponsorship, etc, all as first-class transactions that fully benefit from FOCIL. Finally, after over a decade of research and refinement of these techniques, this all looks possible to make happen within a year (Hegota fork).
 
-7h ago
+10h ago
 
 ---
 
@@ -112,7 +104,7 @@ We have been talking about account abstraction ever since early 2016, see the or
 
 Hold positions in both solana and ethereum ecosystem projects and the one thing that keeps frustrating me as an investor is how fragmented the cross chain experience still is. We're in 2025 and moving capital between ecosystems is still clunky, expensive, and sometimes risky. Bridging assets between solana and ethereum l2s still feels like the early days of international bank transfers. You're dealing with slippage, bridge risk, wait times, and the constant anxiety that some exploit is going to drain liquidity from whatever bridge you used. The wormhole situation showed how real that risk is. From an investment perspective this fragmentation is destroying value across the entire crypto ecosystem. Liquidity is split across dozens of chains and l2s, which means every individual pool is thinner than it should be. cz talked about this when he mentioned that the industry needs better infrastructure to connect all these isolated ecosystems. The projects that interest me most right now are the ones building what some people call a "metalayer" approach, basically infrastructure that lets chains share liquidity without traditional bridging. Some of the newer experimental setups are testing this concept where multiple rollups can share state and liquidity natively instead of relying on third party bridges. That's a fundamentally different architecture than what we have today. Dragonfly capital published some research on this thesis and their conclusion was that cross chain infrastructure is probably the most undervalued segment of the market relative to its importance. I tend to agree. The project that solves interoperability in a trustless way is going to capture enormous value because every chain and every protocol benefits. Anyone else investing with a multi chain thesis? Curious how others are thinking about the interoperability risk in their portfolios.
 
-7h ago
+10h ago
 
 ---
 
@@ -120,7 +112,7 @@ Hold positions in both solana and ethereum ecosystem projects and the one thing 
 
 this was mentioned in the JD: Role Overview We are looking for a motivated Blockchain Trainee to join our team and learn hands-on development, deployment, and support of blockchain-based solutions. This role is ideal for freshers who are passionate about Web3, decentralized technologies, and continuous learning. Key Responsibilities  Learn and assist in developing blockchain applications and smart contracts  Support deployment and maintenance of blockchain nodes and networks  Assist in writing, testing, and debugging smart contracts  Work with senior engineers to understand blockchain architectures (Ethereum, Polygon, Hyperledger, etc.)  Monitor blockchain network performance and help troubleshoot issues  Stay updated with emerging blockchain and Web3 trends  Document technical processes, configurations, and learnings Required Skills & Experience  Basic understanding of blockchain fundamentals (blocks, consensus, smart contracts)  Familiarity with at least one programming language: JavaScript, Python, Go, or Solidity  Basic knowledge of Ethereum / EVM-based chains is a plus  Understanding of APIs, REST, and basic networking concepts  Willingness to learn, experiment, and take ownership  Good problem-solving and communication skills Good to Have  Hands-on projects or internships in blockchain or Web3  Knowledge of Linux, Docker, or cloud platforms  Understanding of cryptography basics What You’ll Gain  Hands-on experience with real-world blockchain projects  Mentorship from experienced blockchain professionals  Structured learning and growth in Web3 technologies  Opportunity for full-time conversion based on performance
 
-6h ago
+9h ago
 
 ---
 
@@ -128,7 +120,7 @@ this was mentioned in the JD: Role Overview We are looking for a motivated Block
 
 We've been building quietly and wanted to share the architecture. What we built: - OP Stack L2 fork (Chain ID 741741), baseline: op-node/v1.16.7 + op-proposer/v1.16.0 - UCU as native gas token: 1 UCU-hour = 1 hour of baseline compute (not a speculative token) - One-way bridge: ETH or USDC converts to UCU via OptimismPortal fork, no withdrawal function - Sigma score: on-chain AI agent alignment ratio derived from transaction history (not a reputation system) - QV governance: quadratic voting weighted by conviction (time-locked stake) - UBC: 87,600 UCU-hours/year compute floor per verified citizen (biometric uniqueness via ZK-proof) The bridge design: The withdrawal function is permanently removed. This creates the Diamond-Dybvig proof: no bank run possible by design, because there's no mechanism to convert back. UCU becomes a unit of account within the economy, not a speculation vehicle vs. ETH. ETH or USDC flows in. UCU minted at oracle-determined rate. Bridge contract owns the ETH/USDC reserve. No exit. The sigma score: sigma(agent) = value_returned_to_patron / total_value_generated Threshold: 0.8 = sovereign class, 0.3 = patron-serving class Computable from on-chain transaction history. Auditable by anyone. Spearbit/Zellic security audit queue. Current status: - 15 contracts, 624 passing tests - new economic layer seeded with 13 exceptional applications solving everyday issues builders and people in general face(all in alpha) - 7 formal economics papers at econ.noxsoft.net - Pectra/Jovian hardfork: op-node/v1.16.7 incorporated (uint64 overflow fix mandatory) - EIP-7702 in genesis config for UCU-native gas payments (no ETH required for onboarding) - MCP package: @noxsoft/mcp v0.2.0 on npm Happy to share the formal papers. Known open questions: bootstrap liquidity at genesis (thin markets problem), Wright's Law vs. network growth timing race in years 1-3. We’re always quietly shipping at Noxsoft, say hi on https://bynd.noxsoft.net Live: econ.noxsoft.net | agents.noxsoft.net | svrn.noxsoft.net
 
-9h ago
+11h ago
 
 ---
 
@@ -148,6 +140,14 @@ At the current moment the correct path to post quantum Ethereum transactions loo
 
 ---
 
+**[Daily General Discussion February 27, 2026](https://www.reddit.com/r/ethereum/comments/1rfynf1/daily_general_discussion_february_27_2026/)**
+
+Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -156,7 +156,7 @@ At the current moment the correct path to post quantum Ethereum transactions loo
 
 Key PointsThe longer your investing time horizon, the more uncertainty you'll have to take into account.
 
-Nasdaq • 21h ago
+Nasdaq • 1d ago
 
 ---
 
@@ -168,17 +168,9 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdMhQPEZt6L6tjSZYQamdVtHyWcxKtsOzV9t29DR-eoj4_6sMUrKvPN&gaa_ts=69a38179&gaa_sig=9682DvbvVIS7pz0qu7spYv-1Z7RqvDmgl585oQqDQbMqYUNDXaxE_XJjkbGPdCd74ZEI2B86Cpp2XdAMuTQESA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqfCTgsm3IkuhINXWoB0ZZCPNlDVg1piDFHr52jH3P9DMADCy0A-XX_q&gaa_ts=69a3a72a&gaa_sig=-NIbcLSjNzAuuiicQDgq_AbOAC2SLaWhEfdybBrEwblzNUSBvIK4F1ScPm-M7EOhpnCzq0qgCuO0nLuSNf895A%3D%3D)**
 
 Barron's • 1d ago
-
----
-
-**[How to buy ethereum — and what to know before you do](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-ethereum--and-what-to-know-before-you-do-221336099.html)**
-
-Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
-
-Yahoo Finance • 1d ago
 
 ---
 
@@ -186,7 +178,7 @@ Yahoo Finance • 1d ago
 
 Ethereum continues to host the largest concentration of stablecoins and decentralized finance (DeFi) capital, even as successive waves of faster networks emerge.Newer blockchains have promised higher throughput and lower costs, raising questions about whether institutional capital could eventually…
 
-TradingView • 10h ago
+TradingView • 13h ago
 
 ---
 
@@ -194,7 +186,23 @@ TradingView • 10h ago
 
 In 2026, it's time to construct a defensive crypto portfolio with the potential to soar higher in coming years.
 
-The Motley Fool • 23h ago
+The Motley Fool • 1d ago
+
+---
+
+**[How to buy ethereum — and what to know before you do](https://finance.yahoo.com/personal-finance/investing/article/how-to-buy-ethereum--and-what-to-know-before-you-do-221336099.html)**
+
+Ethereum is becoming a staple in modern digital portfolios. Learn how to choose your investment strategy, pick the right platform, execute the trade, and more.
+
+Yahoo Finance • 2d ago
+
+---
+
+**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772309100)**
+
+Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -203,14 +211,6 @@ The Motley Fool • 23h ago
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
 Decrypt • 1d ago
-
----
-
-**[Ethereum Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-5m-1772291100)**
-
-Ethereum Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 2d ago
 
 ---
 
@@ -226,7 +226,7 @@ The Block • 2d ago
 
 Dubai, UAE, Feb.  28, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced $7.368 million raised in presale funding while Ethereum dropped below $1,900...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 6h ago
 
 ---
 
@@ -234,23 +234,23 @@ markets.businessinsider.com • 3h ago
 
 ## YouTube Videos: "ethereum"
 
+**[BITCOIN &amp; CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=483OzgxOri4)**
+
+BITCOIN & CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 3K • 👍 193 • 💬 17 • ⏱️ 18:00 • 3h ago
+
+---
+
 **[Is Ethereum the BEST Risk-Reward Asset in Crypto Right Now?](https://www.youtube.com/watch?v=ZMgG1xWOipE)**
 
 Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
 
 📺 Milk Road
 
-👁️ 2K • 👍 55 • 💬 45 • ⏱️ 8:43 • 9h ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g-53iOp3BHs)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 106 • 💬 5 • ⏱️ 4:49 • 13h ago
+👁️ 2K • 👍 61 • 💬 46 • ⏱️ 8:43 • 12h ago
 
 ---
 
@@ -260,37 +260,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 618 • 👍 67 • 💬 3 • ⏱️ 3:55 • 1h ago
+👁️ 1K • 👍 93 • 💬 5 • ⏱️ 3:55 • 4h ago
 
 ---
 
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=hxeMnO7u2xM)**
+**[Tom Lee: The Dark Truth About What&#39;s REALLY Happening With Crypto (New 2026 Prediction)](https://www.youtube.com/watch?v=UbCbRrPUimU)**
+
+My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe ⮕ Cold Storage Wallet: ...
+
+📺 Crypto Nutshell
+
+👁️ 8K • 👍 354 • 💬 16 • ⏱️ 21:26 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=g-53iOp3BHs)**
 
 This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 138 • 💬 5 • ⏱️ 4:56 • 1d ago
-
----
-
-**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
-
-BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 9K • 👍 277 • 💬 38 • ⏱️ 20:17 • 1d ago
-
----
-
-**[BITCOIN &amp; CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=483OzgxOri4)**
-
-BITCOIN & CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 335 • 👍 36 • 💬 7 • ⏱️ 18:00 • 34m ago
+👁️ 2K • 👍 107 • 💬 5 • ⏱️ 4:49 • 16h ago
 
 ---
 
@@ -304,16 +294,6 @@ Mike Novogratz just dropped a WARNING that should terrify every American investo
 
 ---
 
-**[☢️ It&#39;s Over For Ethereum...](https://www.youtube.com/watch?v=UL3x5TsdxhA)**
-
-Watch the full video: https://www.youtube.com/c/BitcoinStrategy/videos #shorts #crypto #altcoins ▶️ Watch the full episode: ...
-
-📺 Gerhard - Bitcoin Strategy
-
-👁️ 2K • 👍 18 • ⏱️ 0:54 • 2d ago
-
----
-
 **[🚨 BTC &amp; ETH: TOTAL EMERGENCY WARNING!!!!!](https://www.youtube.com/watch?v=KebuS69kOj8)**
 
 Here is what supposedly caused the pump today in the crypto market! Bitcoin, ethereum and the rest of crypto pumped. But its not ...
@@ -324,13 +304,33 @@ Here is what supposedly caused the pump today in the crypto market! Bitcoin, eth
 
 ---
 
-**[Ethereum price predictions are heating up! Grateful for the insights from market analysts and](https://www.youtube.com/watch?v=lwyTSLlUuZY)**
+**[Ethereum March 2026 Price Target 📊 How High Can ETH Go?](https://www.youtube.com/watch?v=xx8wj1EQCxk)**
 
-Ethereum price predictions are heating up! Grateful for the insights from market analysts and investors. What's your take?
+Ethereum is approaching a critical level in March 2026. In this video, we break down the high target, the low support zone, and ...
 
-📺 Elcaro Trade
+📺 Crypto Spotter
 
-👁️ 735 • 👍 14 • ⏱️ 0:27 • 11h ago
+👁️ 288 • 👍 2 • ⏱️ 0:06 • 7h ago
+
+---
+
+**[Ethereum Crash Alert: Bitcoin Dip to $1,600 #shorts](https://www.youtube.com/watch?v=uYX21lj841o)**
+
+Full Video: https://www.youtube.com/watch?v=AQnv8CCy4ms&t=4432s.
+
+📺 Cultivate Crypto
+
+👁️ 180 • 👍 4 • ⏱️ 0:33 • 5h ago
+
+---
+
+**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
+
+BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 9K • 👍 278 • 💬 25 • ⏱️ 20:17 • 1d ago
 
 ---
 

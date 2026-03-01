@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-02-28T23:45:18.770065+00:00'
+updated: '2026-03-01T02:27:54.771369+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - social
 - videos
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** February 28, 2026 at 23:45 UTC  
+**Last Updated:** March 01, 2026 at 02:27 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-6h ago
+9h ago
+
+---
+
+**[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
+
+4h ago
 
 ---
 
@@ -42,15 +48,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-11h ago
-
----
-
-**[BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON"](https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/)**
-
-BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
-
-12h ago
+13h ago
 
 ---
 
@@ -58,13 +56,15 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-5h ago
+7h ago
 
 ---
 
-**[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
+**[BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON"](https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/)**
 
-2h ago
+BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
+
+15h ago
 
 ---
 
@@ -78,7 +78,13 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-17h ago
+20h ago
+
+---
+
+**[A Humanoid Robot Line Up (Part II)](https://www.reddit.com/r/robotics/comments/1rhjmza/a_humanoid_robot_line_up_part_ii/)**
+
+1h ago
 
 ---
 
@@ -92,15 +98,7 @@ Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouri
 
 **[ALVE-X robot arm fully 3D printed](https://www.reddit.com/r/robotics/comments/1rgqyr8/alvex_robot_arm_fully_3d_printed/)**
 
-20h ago
-
----
-
-**[Exploring a new direction for embedded robotics AI - early results worth sharing.](https://www.reddit.com/r/robotics/comments/1rhf30f/exploring_a_new_direction_for_embedded_robotics/)**
-
-Current Vision-Language-Action (VLA) models have a fundamental bottleneck: self-attention memory scales quadratically at O(N²). For a €150 robot arm, relying on a cloud TPU cluster defeats the whole purpose of edge robotics. For the past few month, I've been working on FluidBot: an architectural experiment that replaces attention entirely with Reaction-Diffusion PDEs (which scale linearly at O(N)). The earlyproof-of-concept results surprised me: • An 84x reduction in VRAM at 256x256 resolution (~203MB vs an estimated ~14GB for a standard ViT). • Video scaling is fundamentally different: processing 16x more frames only requires 2.4x more memory. I’ve detailed the core math, the empirical benchmarks, and the honest limitations in my article below. If you work on efficient vision architectures, embedded AI, or robotics, I’d genuinely value your feedback before moving to hardware validation on the SO-101 arm.
-
-🔗 [linkedin.com](https://www.linkedin.com/pulse/exploring-new-direction-embedded-robotics-ai-early-results-polly-4x3nf) • 1h ago
+23h ago
 
 ---
 
@@ -132,19 +130,11 @@ Financial Times • 1d ago
 
 ---
 
-**[Delivery robots have his old job — and now they’ve created a new one for him](https://www.latimes.com/business/story/2026-02-25/theres-job-that-ai-isnt-eliminating-robot-wrangler)**
-
-AI-powered delivery robots from companies like Serve Robotics are replacing human drivers across the nation — but they can’t do it without help.
-
-Los Angeles Times • 3d ago
-
----
-
 **[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 10h ago
+CNBC • 13h ago
 
 ---
 
@@ -154,7 +144,7 @@ Tech Xplore • 1d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeH0NgoBmW--tqxWStNlY3SzJT744rVX54A2AhFesNXQSdtvWQpKbFP&gaa_ts=69a3817b&gaa_sig=3xcjTerQY5GnISBqMxpNJw-4IXUgRZA7rPZiFJ714z2UEFmP5D3kr8PTysZ_L3HRfDXxHqdTFSAR87SlrS_dyQ%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqflEbUIcyFnFkVYCXc2j00JOHynzWLJZravirFy2MHSoqAz26ONK1ws&gaa_ts=69a3a797&gaa_sig=a6KDluuf5A3QXAlju1PpP0Pz6NtEsh4AH0wpkNu2HOsPCsU6BdYtHDUhbu7fsPWa_pyMRPqWU7BaMwySdiJ9Mg%3D%3D)**
 
 WSJ • 1d ago
 
@@ -162,7 +152,7 @@ WSJ • 1d ago
 
 **[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
-Bloomberg.com • 1d ago
+Bloomberg • 1d ago
 
 ---
 
@@ -170,15 +160,23 @@ Bloomberg.com • 1d ago
 
 The former steel mill site is now a place where future scientific professionals can grow and be inspired. CMU envisions Pittsburgh as a potential hub for artificial intelligence and robotics.
 
-WTAE • 23h ago
+WTAE • 1d ago
 
 ---
 
-**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
 
-Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
+Coco Robotics launched a new generation of delivery bots
 
-Fortune • 2d ago
+Los Angeles Times • 15h ago
+
+---
+
+**[Coco delivery robots get reboot to maximize service and expand market](https://nypost.com/2026/02/28/us-news/coco-delivery-robots-get-reboot-to-maximize-service-and-expand-market/)**
+
+The Coco delivery robots that have become a regular part of so many Los Angeles neighborhoods will now have a whole new look — a redesign the company behind them says will help to expand the bots&#…
+
+New York Post • 7h ago
 
 ---
 
@@ -186,13 +184,23 @@ Fortune • 2d ago
 
 ## YouTube Videos: "robotics"
 
+**[Figure AI Just Dropped a FULLY Autonomous AI Robot… It Works 24/7](https://www.youtube.com/watch?v=5sSzuXp3Wsg)**
+
+Figure AI has just dropped a fully autonomous AI robot — and it's now operating 24/7 without human supervision. In this video, we ...
+
+📺 The AI Nexus
+
+👁️ 2K • 👍 82 • 💬 12 • ⏱️ 27:19 • 6h ago
+
+---
+
 **[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
 
 Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
 
 📺 AI Revolution
 
-👁️ 160K • 👍 2K • 💬 332 • ⏱️ 14:16 • 6d ago
+👁️ 161K • 👍 2K • 💬 333 • ⏱️ 14:16 • 6d ago
 
 ---
 
@@ -202,7 +210,17 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 67K • 👍 990 • 💬 286 • ⏱️ 12:16 • 1d ago
+👁️ 70K • 👍 1K • 💬 298 • ⏱️ 12:16 • 2d ago
+
+---
+
+**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
+
+China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
+
+📺 NewsX Live
+
+👁️ 57K • 👍 294 • 💬 112 • ⏱️ 2:18 • 2d ago
 
 ---
 
@@ -216,13 +234,23 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
 
-China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
 
-📺 NewsX Live
+📺 NBC Bay Area
 
-👁️ 55K • 👍 291 • 💬 112 • ⏱️ 2:18 • 2d ago
+👁️ 120K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
+
+---
+
+**[Unitree Introducing | Unitree As2  Your Companion](https://www.youtube.com/watch?v=1ONE4l_pgHw)**
+
+Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of no-load runtime, IP54 rainproof design. With a 15 ...
+
+📺 Unitree Robotics
+
+👁️ 2.1M • 👍 2K • 💬 401 • ⏱️ 0:58 • 4d ago
 
 ---
 
@@ -232,27 +260,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 24K • 👍 633 • 💬 14 • ⏱️ 0:35 • 23h ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 119K • 👍 2K • 💬 1K • ⏱️ 7:18 • 4d ago
-
----
-
-**[From trial to scale: How China trains humanoid robots](https://www.youtube.com/watch?v=JzDbD8XmPA4)**
-
-As China enters the first year of its 15th Five-Year Plan, what once seemed futuristic is quickly becoming reality. Embodied ...
-
-📺 CGTN
-
-👁️ 21K • 👍 148 • 💬 14 • ⏱️ 5:27 • 1d ago
+👁️ 27K • 👍 663 • 💬 14 • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -262,7 +270,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 234K • 👍 2K • 💬 713 • ⏱️ 0:55 • 2d ago
+👁️ 247K • 👍 2K • 💬 729 • ⏱️ 0:55 • 2d ago
 
 ---
 
@@ -272,17 +280,7 @@ AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gaut
 
 📺 MattVidPro
 
-👁️ 4K • 👍 202 • 💬 17 • ⏱️ 18:44 • 1d ago
-
----
-
-**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
-
-German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
-
-📺 DPCcars
-
-👁️ 277K • 👍 2K • 💬 777 • ⏱️ 1:27 • 1d ago
+👁️ 4K • 👍 208 • 💬 17 • ⏱️ 18:44 • 1d ago
 
 ---
 
