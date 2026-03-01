@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T13:39:16.774490+00:00'
+updated: '2026-03-01T14:25:39.477475+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 13:39 UTC  
+**Last Updated:** March 01, 2026 at 14:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,27 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-2h ago
+3h ago
 
 ---
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-20h ago
+21h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
 16h ago
+
+---
+
+**[Phantom omni 20 year old haptic device](https://www.reddit.com/r/robotics/comments/1rhy5z3/phantom_omni_20_year_old_haptic_device/)**
+
+Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
+
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 17m ago
 
 ---
 
@@ -62,7 +70,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-18h ago
+19h ago
 
 ---
 
@@ -78,13 +86,13 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Yo everyone! ​I’m a third-year Electrical Engineering student currently working on a robotics project involving simulation and control systems. I’ve been trying to get a 2-axis (2-DOF) robotic arm running in MATLAB/Simulink using the Robotics System Toolbox. ​The Problem: I found some cool 3D models of an articulated arm, but they are in SolidWorks format (.SLDPRT and .SLDASM). I’m struggling to get these converted into a clean URDF (XML) file that MATLAB can actually importrobot. ​What I'm looking for: ​Does anyone have a link to a reliable 2-DOF or 3-DOF arm URDF (XML) that is already verified to work in MATLAB? ​If I stick with the SolidWorks models I found, what is the fastest way to export them to URDF without the file becoming a mess of hidden .xml extensions or broken joint links? ​Any tips on setting up a basic PID controller in Simulink once the model is imported? ​I’ve checked GitHub but most models are for huge 6-axis industrial arms like the UR5, which is overkill for my current assignment. ​Any links, repos, or advice would be massive! Thanks in advance.
 
-3h ago
+4h ago
 
 ---
 
 **[I'm looking for help on simscape multibody for my Master 1 project ( help 😭!)](https://www.reddit.com/r/robotics/comments/1rhtbrr/im_looking_for_help_on_simscape_multibody_for_my/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -96,23 +104,15 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 ---
 
-**[Exploring a new direction for embedded robotics AI - early results worth sharing.](https://www.reddit.com/r/robotics/comments/1rhf30f/exploring_a_new_direction_for_embedded_robotics/)**
-
-Current Vision-Language-Action (VLA) models have a fundamental bottleneck: self-attention memory scales quadratically at O(N²). For a €150 robot arm, relying on a cloud TPU cluster defeats the whole purpose of edge robotics. For the past few month, I've been working on FluidBot: an architectural experiment that replaces attention entirely with Reaction-Diffusion PDEs (which scale linearly at O(N)). The earlyproof-of-concept results surprised me: • An 84x reduction in VRAM at 256x256 resolution (~203MB vs an estimated ~14GB for a standard ViT). • Video scaling is fundamentally different: processing 16x more frames only requires 2.4x more memory. I’ve detailed the core math, the empirical benchmarks, and the honest limitations in my article below. If you work on efficient vision architectures, embedded AI, or robotics, I’d genuinely value your feedback before moving to hardware validation on the SO-101 arm.
-
-🔗 [linkedin.com](https://www.linkedin.com/pulse/exploring-new-direction-embedded-robotics-ai-early-results-polly-4x3nf) • 15h ago
-
----
-
 ---
 
 ## Google News: "robotics"
 
-**[BMW to put humanoid robots on production line at German plant](https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312)**
+**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
 
-Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costs
+Televised gala offers a showcase and opportunity for the best of Chinese tech
 
-Financial Times • 1d ago
+Financial Times • 2d ago
 
 ---
 
@@ -120,15 +120,15 @@ Financial Times • 1d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 10h ago
+news.cgtn.com • 11h ago
 
 ---
 
-**[BMW Deploys Humanoid Robots in Europe for the First Time](https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/)**
+**[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)**
 
-BMW is deploying humanoid robots at its Leipzig plant for the first time in Europe. Here's what the pilot involves and what it means for the future of car production.
++++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-BMW BLOG • 1d ago
+BMW Group • 2d ago
 
 ---
 
@@ -140,9 +140,9 @@ CNBC • 1d ago
 
 ---
 
-**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqd9rzrhujEwaUCWCT-yjSpO2Daaf6CMWzRf56W0Hk1JNREsDZO4rSEZ&gaa_ts=69a44fcd&gaa_sig=iYPjdmeaom3BGnmwEOzyP6XODd_xlYHdcwv3cvstrQkawNQPojAiHwBCJ_9741aZFFvCksBtHIiwwqY7hkskIw%3D%3D)**
 
-Tech Xplore • 1d ago
+WSJ • 1d ago
 
 ---
 
@@ -154,17 +154,17 @@ Fortune • 3d ago
 
 ---
 
+**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+
+Tech Xplore • 1d ago
+
+---
+
 **[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
 
 Coco Robotics launched a new generation of delivery bots
 
 Los Angeles Times • 1d ago
-
----
-
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqcXGEl7SokQryehCwgWyZ2eDObDfUROjGtxAMjgbxIYmAmxLkc7bLy_&gaa_ts=69a439d5&gaa_sig=47NLsQgS8w5mq-gJbjX1pvbCux3hCJpf1FR1fPkjR4aDMsn2Hw1owinMXtUb6sSy4GOfhINDxTHQrzps9eZ7Zg%3D%3D)**
-
-WSJ • 1d ago
 
 ---
 
@@ -174,9 +174,11 @@ Bloomberg • 2d ago
 
 ---
 
-**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
+**[Carnegie Mellon University opens robotics innovation center in Pittsburgh](https://www.wtae.com/article/pittsburgh-robotics-carnegie-mellon/70540656)**
 
-TribLIVE.com • 1d ago
+The former steel mill site is now a place where future scientific professionals can grow and be inspired. CMU envisions Pittsburgh as a potential hub for artificial intelligence and robotics.
+
+WTAE • 1d ago
 
 ---
 
@@ -190,7 +192,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 166K • 👍 2K • 💬 339 • ⏱️ 14:16 • 6d ago
+👁️ 167K • 👍 2K • 💬 340 • ⏱️ 14:16 • 6d ago
 
 ---
 
@@ -200,7 +202,17 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 86K • 👍 1K • 💬 330 • ⏱️ 12:16 • 2d ago
+👁️ 88K • 👍 1K • 💬 330 • ⏱️ 12:16 • 2d ago
+
+---
+
+**[HONOR Robot Phone Steals the Show 🤖🕺](https://www.youtube.com/watch?v=gkZ4qErwy24)**
+
+HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most surprising highlights from the ...
+
+📺 Dariusz Tech
+
+👁️ 294 • 👍 47 • 💬 3 • ⏱️ 1:17 • 26m ago
 
 ---
 
@@ -210,7 +222,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 31K • 👍 3K • 💬 124 • ⏱️ 21:58 • 12h ago
+👁️ 43K • 👍 3K • 💬 160 • ⏱️ 21:58 • 13h ago
 
 ---
 
@@ -224,13 +236,13 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
 
-China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
 
-📺 Cyrus Janssen
+📺 NBC Bay Area
 
-👁️ 248K • 👍 7K • 💬 1K • ⏱️ 11:41 • 4d ago
+👁️ 127K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
 
 ---
 
@@ -240,27 +252,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 32K • 👍 699 • 💬 16 • ⏱️ 0:35 • 1d ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 126K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
-
----
-
-**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
-
-China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
-
-📺 NewsX Live
-
-👁️ 63K • 👍 301 • 💬 116 • ⏱️ 2:18 • 2d ago
+👁️ 33K • 👍 700 • 💬 16 • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -270,17 +262,27 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 288K • 👍 2K • 💬 789 • ⏱️ 0:55 • 3d ago
+👁️ 298K • 👍 2K • 💬 796 • ⏱️ 0:55 • 3d ago
 
 ---
 
-**[BMW Brings Humanoid Robots Into Real Car Production – Physical AI Is Here](https://www.youtube.com/watch?v=yZJbncyoXQw)**
+**[Why did German Chancellor Merz visit Unitree Robotics?](https://www.youtube.com/watch?v=O7UV7qWLGu4)**
 
-Humanoid robots are officially building BMW vehicles. For the first time in Europe, BMW has launched Physical AI in real ...
+Unitree Robotics was one of the stops during German Chancellor Friedrich Merz's two-day visit to China. From America's Super ...
+
+📺 CGTN
+
+👁️ 21K • 👍 806 • 💬 45 • ⏱️ 1:47 • 2d ago
+
+---
+
+**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
+
+German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
 
 📺 DPCcars
 
-👁️ 5K • 👍 46 • 💬 19 • ⏱️ 4:42 • 1d ago
+👁️ 338K • 👍 2K • 💬 841 • ⏱️ 1:27 • 2d ago
 
 ---
 

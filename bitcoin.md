@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T13:39:16.765198+00:00'
+updated: '2026-03-01T14:25:39.468204+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
 - social
-- videos
 - news
+- videos
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 13:39 UTC  
+**Last Updated:** March 01, 2026 at 14:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,147.52
+### $66,367.42
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +1.8%  
-**7d:** +2.5%  
-**30d:** -15.9%  
-**90d:** -27.6%  
-**1y:** -29.7%  
+**24h:** +3.3%  
+**7d:** +3.5%  
+**30d:** -15.1%  
+**90d:** -26.9%  
+**1y:** -29.1%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1329.48B
+**Market Cap:** $1340.21B
 Rank #1
 
-**Circulating Supply:** 19,996,312 BTC
+**Circulating Supply:** 19,996,478 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.2%
+-47.0%
 
 **All-Time Low:** $67.81
-+97987.3%
++98507.9%
 
 ---
 
@@ -87,21 +87,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 **[HODL your 0.01 BTC onto you FOREVER](https://www.reddit.com/r/Bitcoin/comments/1rhhvzn/hodl_your_001_btc_onto_you_forever/)**
 
-13h ago
-
----
-
-**[Daily Discussion, March 01, 2026](https://www.reddit.com/r/Bitcoin/comments/1rhpo3d/daily_discussion_march_01_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-7h ago
-
----
-
-**[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
-
-13h ago
+14h ago
 
 ---
 
@@ -113,27 +99,33 @@ Thoughts on buying 250 usd worth of bitcoin every week for the next couple of ye
 
 ---
 
-**[BTC is in an "accumulation" phase rn.](https://www.reddit.com/r/Bitcoin/comments/1rhabxr/btc_is_in_an_accumulation_phase_rn/)**
+**[Daily Discussion, March 01, 2026](https://www.reddit.com/r/Bitcoin/comments/1rhpo3d/daily_discussion_march_01_2026/)**
 
-Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
+Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-18h ago
+8h ago
 
 ---
 
-**[Do we anticipate BTC do dump even further on Monday?](https://www.reddit.com/r/Bitcoin/comments/1rh9eso/do_we_anticipate_btc_do_dump_even_further_on/)**
+**[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
 
-Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
+14h ago
+
+---
+
+**[BTC is in an "accumulation" phase rn.](https://www.reddit.com/r/Bitcoin/comments/1rhabxr/btc_is_in_an_accumulation_phase_rn/)**
+
+Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
 19h ago
 
 ---
 
-**[Solo Satoshi Releases The Bitaxe Turbo Touch, The Most Powerful Open-Source Touchscreen Bitcoin Miner.](https://www.reddit.com/r/Bitcoin/comments/1rhi2vq/solo_satoshi_releases_the_bitaxe_turbo_touch_the/)**
+**[Do we anticipate BTC do dump even further on Monday?](https://www.reddit.com/r/Bitcoin/comments/1rh9eso/do_we_anticipate_btc_do_dump_even_further_on/)**
 
-The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, built on the Bitaxe GT 801 platform with dual BM1370 chips. Quick rundown: 2.15 TH/s default, 3.06+ TH/s overclocked 4.3" capacitive touchscreen with 8 live screens (hashrate, block height, latest blocks, BTC price, clock, Wi-Fi config, settings, hashrate graph) All screen data pulls from mempool.space ~43W, ~35 dB Mining firmware is mainline AxeOS (esp-miner), screen firmware is BAP-GT-TOUCH, both fully open source Runs on the ESP32-S3 with Wi-Fi, same as other Bitaxe models The big jump from the original Bitaxe Touch is doubling the hashrate (was ~1.0 TH/s on the single BM1370 version), going from 4 screens to 8, and moving the screen firmware from proprietary to open source through the GT 801's Bitaxe Accessory Port. It was shown off at the HeatPunk Summit in Denver this week. Full technical breakdown here: https://www.solosatoshi.com/bitaxe-touch-unveiled/ Happy to answer any questions about the hardware or firmware. https://preview.redd.it/4pkalprlpbmg1.png?width=940&format=png&auto=webp&s=8fa61aac5ec82447679162cbfd3bc7035d619063 https://preview.redd.it/eowlutrlpbmg1.png?width=940&format=png&auto=webp&s=25284ed91c26ad2e1bf23b7600ec5ac4d7542926 https://preview.redd.it/vpm4exrlpbmg1.png?width=940&format=png&auto=webp&s=0733ea99d58e508597a6a2d1afb7c79a62ac8c8f https://preview.redd.it/yx0rv1slpbmg1.png?width=940&format=png&auto=webp&s=d97f2210eb9003188d229f0fcc3d8ad584392ac1 https://preview.redd.it/vcwhozrlpbmg1.png?width=940&format=png&auto=webp&s=2aa3dce9f95bec81d63fd92514fb08889dab372f https://preview.redd.it/xdh9g4slpbmg1.png?width=940&format=png&auto=webp&s=e42ccaf53253fa56de0292caf7371f85f1cdf84d https://preview.redd.it/25hd76slpbmg1.png?width=940&format=png&auto=webp&s=1c76894f9e96103c3d114738b7576747924ad247 https://preview.redd.it/bfmte8slpbmg1.png?width=940&format=png&auto=webp&s=558dcb23d0c0c297d6f1c7f4c4f8535cea53bb47 https://preview.redd.it/hzz55dslpbmg1.png?width=940&format=png&auto=webp&s=672936b1e0dbd42e96d7e8fb6b14488ac389e794 https://preview.redd.it/z1jlm9slpbmg1.png?width=940&format=png&auto=webp&s=fb42b49425d9ddb84903ce135e2b5f1b3624691a
+Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation? EDIT: didn’t think so many people would get offended by my thoughts. I’m just curious as to how others are feeling regarding the current state of the market. Now I’m getting told that I’m trying to build bearish sentiment on the timeline. Wtf?
 
-13h ago
+20h ago
 
 ---
 
@@ -141,15 +133,23 @@ The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, bui
 
 There's like three active users anymore.
 
-11h ago
+12h ago
 
 ---
 
-**[I built a clean, ad-free DCA simulator to show my friends it's never "too late" (2026 data)](https://www.reddit.com/r/Bitcoin/comments/1rhgcht/i_built_a_clean_adfree_dca_simulator_to_show_my/)**
+**[Solo Satoshi Releases The Bitaxe Turbo Touch, The Most Powerful Open-Source Touchscreen Bitcoin Miner.](https://www.reddit.com/r/Bitcoin/comments/1rhi2vq/solo_satoshi_releases_the_bitaxe_turbo_touch_the/)**
 
-Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threads asking if starting a DCA today is worth it with the current 2026 volatility. I got tired of using calculators that are 50% ads and trackers, so I built a 'calm' version for myself. It uses real historical data and compares BTC vs traditional savings. For example: Investing $100/month since the 2024 halving would have you up X% today, even with the recent swings. It's part of a suite of tools I just put on Product Hunt for feedback. No signups, no ads, just the math. If you're bored, I'd love to know if the UI feels intuitive to you: https://bytecalculators.com/crypto-dca-calculator-dollar-cost-averaging-simulator
+The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, built on the Bitaxe GT 801 platform with dual BM1370 chips. Quick rundown: 2.15 TH/s default, 3.06+ TH/s overclocked 4.3" capacitive touchscreen with 8 live screens (hashrate, block height, latest blocks, BTC price, clock, Wi-Fi config, settings, hashrate graph) All screen data pulls from mempool.space ~43W, ~35 dB Mining firmware is mainline AxeOS (esp-miner), screen firmware is BAP-GT-TOUCH, both fully open source Runs on the ESP32-S3 with Wi-Fi, same as other Bitaxe models The big jump from the original Bitaxe Touch is doubling the hashrate (was ~1.0 TH/s on the single BM1370 version), going from 4 screens to 8, and moving the screen firmware from proprietary to open source through the GT 801's Bitaxe Accessory Port. It was shown off at the HeatPunk Summit in Denver this week. Full technical breakdown here: https://www.solosatoshi.com/bitaxe-touch-unveiled/ Happy to answer any questions about the hardware or firmware. https://preview.redd.it/4pkalprlpbmg1.png?width=940&format=png&auto=webp&s=8fa61aac5ec82447679162cbfd3bc7035d619063 https://preview.redd.it/eowlutrlpbmg1.png?width=940&format=png&auto=webp&s=25284ed91c26ad2e1bf23b7600ec5ac4d7542926 https://preview.redd.it/vpm4exrlpbmg1.png?width=940&format=png&auto=webp&s=0733ea99d58e508597a6a2d1afb7c79a62ac8c8f https://preview.redd.it/yx0rv1slpbmg1.png?width=940&format=png&auto=webp&s=d97f2210eb9003188d229f0fcc3d8ad584392ac1 https://preview.redd.it/vcwhozrlpbmg1.png?width=940&format=png&auto=webp&s=2aa3dce9f95bec81d63fd92514fb08889dab372f https://preview.redd.it/xdh9g4slpbmg1.png?width=940&format=png&auto=webp&s=e42ccaf53253fa56de0292caf7371f85f1cdf84d https://preview.redd.it/25hd76slpbmg1.png?width=940&format=png&auto=webp&s=1c76894f9e96103c3d114738b7576747924ad247 https://preview.redd.it/bfmte8slpbmg1.png?width=940&format=png&auto=webp&s=558dcb23d0c0c297d6f1c7f4c4f8535cea53bb47 https://preview.redd.it/hzz55dslpbmg1.png?width=940&format=png&auto=webp&s=672936b1e0dbd42e96d7e8fb6b14488ac389e794 https://preview.redd.it/z1jlm9slpbmg1.png?width=940&format=png&auto=webp&s=fb42b49425d9ddb84903ce135e2b5f1b3624691a
 
 14h ago
+
+---
+
+**[What would you change in the way I manage my btc?](https://www.reddit.com/r/Bitcoin/comments/1rhy5y7/what_would_you_change_in_the_way_i_manage_my_btc/)**
+
+I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
+
+17m ago
 
 ---
 
@@ -159,7 +159,7 @@ Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threa
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg • 10h ago
+Bloomberg • 11h ago
 
 ---
 
@@ -167,13 +167,13 @@ Bloomberg • 10h ago
 
 Bitcoin investors may soon forget the recent correction.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
 **[Bitcoin Stages Tepid Recovery as Iran Strikes Stir Uncertainty](https://www.bloomberg.com/news/articles/2026-03-01/bitcoin-btc-recovery-looks-tepid-as-iran-strikes-stir-uncertainty)**
 
-Bloomberg • 2h ago
+Bloomberg • 3h ago
 
 ---
 
@@ -181,29 +181,13 @@ Bloomberg • 2h ago
 
 Bitcoin rises near $67,000 mark, with Ethereum nearing $2,000. Iran has confirmed the death of supreme leader Ayatollah Ali Khamenei. The real price reveal is coming tomorrow, expert says.
 
-dlnews.com • 2h ago
-
----
-
-**[Bitcoin price news: What next as BTC tops $68,000 after Iran confirms Khamenei death](https://www.coindesk.com/markets/2026/03/01/bitcoin-tops-usd68-000-after-iran-confirms-leader-killed-in-u-s-israel-airstrikes)**
-
-The death of Iran's supreme leader opens the door to regime change, and markets are pricing in a shorter period of tension.
-
-CoinDesk • 9h ago
+dlnews.com • 3h ago
 
 ---
 
 **[What Is Bitcoin? And How Does It Work?](https://www.forbes.com/advisor/investing/cryptocurrency/what-is-bitcoin/)**
 
 Forbes • 2d ago
-
----
-
-**[Bitcoin stages tepid recovery as Iran strikes stir uncertainty](https://www.bostonglobe.com/2026/03/01/business/bitcoin-stages-tepid-recovery-as-iran-strikes-stir-uncertainty/)**
-
-Bitcoin rose as much as 2.2% to $68,196 after Iran confirmed the death of the country’s supreme leader.
-
-The Boston Globe • 1h ago
 
 ---
 
@@ -228,6 +212,20 @@ Fortune • 2d ago
 Bitcoin tumbled more than 5% to around $63,000 on Tuesday as investors continued to grapple with escalating tariff tensions and broader geopolitical risks.
 
 CNBC • 5d ago
+
+---
+
+**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
+
+Reuters • 3d ago
+
+---
+
+**[Bitcoin stages tepid recovery as Iran strikes stir uncertainty](https://www.bostonglobe.com/2026/03/01/business/bitcoin-stages-tepid-recovery-as-iran-strikes-stir-uncertainty/)**
+
+Bitcoin rose as much as 2.2% to $68,196 after Iran confirmed the death of the country’s supreme leader.
+
+The Boston Globe • 10h ago
 
 ---
 
@@ -257,29 +255,29 @@ Links to major crypto world figures are just the start.
 
 ---
 
+**[Mt. Gox CEO Suggests Bitcoin Hard Fork to Recover $5B in Customer Funds](https://news.ycombinator.com/item?id=47205894)**
+
+One critic replied simply "go away."
+
+⬆️ 3 • 💬 0 • 2h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+
+---
+
 **[Fix the money, fix the world: Bitcoin as techno-libertarian religion](https://news.ycombinator.com/item?id=47165953)**
 
-⬆️ 3 • 💬 0 • 2d ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
+⬆️ 3 • 💬 0 • 3d ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
 
 ---
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 14h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 15h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
 ⬆️ 2 • 💬 1 • 4d ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
-
----
-
-**[Mt. Gox CEO Suggests Bitcoin Hard Fork to Recover $5B in Customer Funds](https://news.ycombinator.com/item?id=47205894)**
-
-One critic replied simply "go away."
-
-⬆️ 2 • 💬 0 • 1h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -317,47 +315,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 16K • 👍 1K • 💬 131 • ⏱️ 19:16 • 13h ago
-
----
-
-**[The Real Reason Bitcoin Topped Early &amp; What Comes Next | Lyn Alden](https://www.youtube.com/watch?v=INfna_F82LU)**
-
-Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are we misreading this entire market? In this conversation ...
-
-📺 The Wolf Of All Streets
-
-👁️ 23K • 👍 1K • 💬 239 • ⏱️ 26:57 • 23h ago
-
----
-
-**[IRAN STRIKES DUMP BITCOIN: Why the &quot;Smart Money&quot; is Buying Now 📈](https://www.youtube.com/watch?v=vQeBcL94LSs)**
-
-Geopolitical fear is gripping the markets. News of military strikes in Iran sent crypto plunging overnight—but while retail investors ...
-
-📺 Gareth Soloway
-
-👁️ 69K • 👍 4K • 💬 615 • ⏱️ 12:42 • 17h ago
-
----
-
-**[Trump Iran Strike Just Flash Crashed Bitcoin - What Comes Next?](https://www.youtube.com/watch?v=_r0SlQwQ9wk)**
-
-Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 23K • 👍 1K • 💬 202 • ⏱️ 36:35 • 15h ago
-
----
-
-**[BREAKING: Bitcoin Just Got a $2 Trillion Backer — Morgan Stanley Files for Crypto Bank Charter](https://www.youtube.com/watch?v=5Naa0Q3j1So)**
-
-IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
-
-📺 The Kenzo Guy
-
-👁️ 4K • 👍 200 • 💬 8 • ⏱️ 26:03 • 15h ago
+👁️ 17K • 👍 1K • 💬 221 • ⏱️ 19:16 • 14h ago
 
 ---
 
@@ -367,7 +325,47 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 5K • 👍 101 • 💬 7 • ⏱️ 14:26 • 19h ago
+👁️ 5K • 👍 109 • 💬 23 • ⏱️ 14:26 • 19h ago
+
+---
+
+**[The Real Reason Bitcoin Topped Early &amp; What Comes Next | Lyn Alden](https://www.youtube.com/watch?v=INfna_F82LU)**
+
+Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are we misreading this entire market? In this conversation ...
+
+📺 The Wolf Of All Streets
+
+👁️ 24K • 👍 1K • 💬 282 • ⏱️ 26:57 • 1d ago
+
+---
+
+**[IRAN STRIKES DUMP BITCOIN: Why the &quot;Smart Money&quot; is Buying Now 📈](https://www.youtube.com/watch?v=vQeBcL94LSs)**
+
+Geopolitical fear is gripping the markets. News of military strikes in Iran sent crypto plunging overnight—but while retail investors ...
+
+📺 Gareth Soloway
+
+👁️ 72K • 👍 4K • 💬 660 • ⏱️ 12:42 • 18h ago
+
+---
+
+**[Trump Iran Strike Just Flash Crashed Bitcoin - What Comes Next?](https://www.youtube.com/watch?v=_r0SlQwQ9wk)**
+
+Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 26K • 👍 1K • 💬 225 • ⏱️ 36:35 • 16h ago
+
+---
+
+**[BREAKING: Bitcoin Just Got a $2 Trillion Backer — Morgan Stanley Files for Crypto Bank Charter](https://www.youtube.com/watch?v=5Naa0Q3j1So)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 4K • 👍 214 • 💬 8 • ⏱️ 26:03 • 16h ago
 
 ---
 
@@ -377,37 +375,35 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 610K • 👍 20K • 💬 2K • ⏱️ 18:56 • 1d ago
+👁️ 619K • 👍 20K • 💬 2K • ⏱️ 18:56 • 1d ago
 
 ---
 
-**[WARNING: War Crashed &quot;BITCOIN&quot; $2,500 — But BlackRock Just Bought $635M](https://www.youtube.com/watch?v=PKpnjPX0lxU)**
+**[Bitcoin BTC Chart Analysis - Has Bitcoin Formed an Impulse? Elliott Wave Analysis](https://www.youtube.com/watch?v=2usUnVC-YDc)**
 
-At 2:34 AM Eastern today, US and Israel struck Iran — and Bitcoin lost $2500 in 45 minutes. $128 billion wiped from crypto in 1 ...
+This video provides a professional Elliott Wave and technical analysis of Bitcoin (BTC), focusing on market structure, key support ...
 
-📺 Mystery Market Vault
+📺 More Crypto Online
 
-👁️ 6K • 👍 242 • 💬 150 • ⏱️ 25:03 • 17h ago
-
----
-
-**[The Media Just LIED About Bitcoin! (Here&#39;s The Proof)](https://www.youtube.com/watch?v=sYRdO0tFQLQ)**
-
-The New York Times says crypto is finished. CNBC runs with it. Meanwhile Bitcoin search interest just hit a five year high and ...
-
-📺 Simply Bitcoin
-
-👁️ 12K • 👍 858 • 💬 83 • ⏱️ 18:58 • 20h ago
+👁️ 3K • 👍 306 • 💬 14 • ⏱️ 8:15 • 2h ago
 
 ---
 
-**[More Trouble Ahead For Bitcoin and Markets...](https://www.youtube.com/watch?v=2TJS1Y1VI0g)**
+**[The Hidden Reason AI Needs Bitcoin](https://www.youtube.com/watch?v=u48856z9Stc)**
 
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of experience and the author of the VisserLabs ...
 
-📺 CryptosRUs
+📺 Anthony Pompliano
 
-👁️ 22K • 👍 1K • 💬 111 • ⏱️ 58:37 • 1d ago
+👁️ 36K • 👍 2K • ⏱️ 48:41 • 1d ago
+
+---
+
+**[IT COULD BE OVER FOR CRYPTO! TRUMP DEMANDS CLARITY BILL DEADLINE NOW #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=NewU_71SXPU)**
+
+📺 CryptoWendyO
+
+👁️ 22K • 👍 1K • 💬 55 • ⏱️ 2:20 • 2d ago
 
 ---
 
