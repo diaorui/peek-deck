@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T11:21:17.863654+00:00'
+updated: '2026-03-01T11:43:05.352071+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 11:21 UTC  
+**Last Updated:** March 01, 2026 at 11:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 38m ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 1h ago
 
 ---
 
@@ -63,7 +63,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 I’m been thinking a lot about pricing models for ai native apps. For the last few decades the SaaS model was effectively: "Make something that you build once and can sell again and again at 0 marginal cost with monthly subscriptions" AI products don’t have that luxury. Every interaction uses tokens. Tokens use energy & cost money. Light & power users burning tokens at different rates in the same pricing tiers is an analysts nightmare. So what's the solution and right pricing model? TAAS: "Software that adds value to tokens and is resold directly to users as a service." AI video creation, research tools, chat bots. They are all effectively placing a value layer over an API key and selling the tokens for massive markups. The extent to which a company can add value to an AI token is the extent to which they can markup their service. And ironically the way to do that is to lean 90% into software and 10% into AI. You want to offload as much of the costs of value delivery onto free executable code and use AI tokens as sparingly as possible. The application that throws AI bluntly at a solution will fail. The application that effectively solves the problem with code and uses AI to make it magical as a layer above will succeed.
 
-33m ago
+55m ago
 
 ---
 
@@ -111,7 +111,7 @@ Quick summary of an independent preprint I just published: Question: Does the re
 
 I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
 
-7h ago
+8h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNN • 1d ago
 
 A top executive at the legal-software provider said Wall Street's anxiety over AI is misguided.
 
-Business Insider • 54m ago
+Business Insider • 1h ago
 
 ---
 
@@ -147,7 +147,7 @@ Business Insider • 54m ago
 
 AI is becoming a standard investing tool, as it helps cut through the noise, personalize portfolios and manage risk. That said, human oversight remains essential. Here's how it all works.
 
-Kiplinger • 51m ago
+Kiplinger • 1h ago
 
 ---
 
@@ -219,7 +219,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 320 • 💬 178 • 22h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 320 • 💬 178 • 23h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -285,37 +285,7 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 199K • 👍 8K • 💬 772 • ⏱️ 15:25 • 1d ago
-
----
-
-**[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
-
-AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
-
-📺 CNBC
-
-👁️ 49K • 👍 1K • 💬 191 • ⏱️ 39:40 • 19h ago
-
----
-
-**[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
-
-Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
-
-📺 MonkeyExplains
-
-👁️ 110K • 👍 8K • 💬 1K • ⏱️ 14:41 • 20h ago
-
----
-
-**[Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](https://www.youtube.com/watch?v=8grIT-xK50M)**
-
-HUGE AI NEWS: Qwen 3.5, Solaris, Quiver Arrow 1.0, LavaSR, Doc to Lora, & more #ai #ainews #aitools #aivideo #agi Thanks to ...
-
-📺 AI Search
-
-👁️ 22K • 👍 1K • 💬 174 • ⏱️ 45:11 • 7h ago
+👁️ 202K • 👍 8K • 💬 784 • ⏱️ 15:25 • 1d ago
 
 ---
 
@@ -325,7 +295,27 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 155K • 👍 6K • 💬 1K • ⏱️ 1:33:33 • 18h ago
+👁️ 182K • 👍 7K • 💬 1K • ⏱️ 1:33:33 • 18h ago
+
+---
+
+**[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
+
+Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
+
+📺 MonkeyExplains
+
+👁️ 117K • 👍 8K • 💬 1K • ⏱️ 14:41 • 20h ago
+
+---
+
+**[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
+
+AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
+
+📺 CNBC
+
+👁️ 52K • 👍 1K • 💬 197 • ⏱️ 39:40 • 19h ago
 
 ---
 
@@ -335,27 +325,7 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 279K • 👍 9K • 💬 468 • ⏱️ 11:55 • 2d ago
-
----
-
-**[Disturbing Things Said By AI (Part 1)](https://www.youtube.com/watch?v=_v8EY3uqmEM)**
-
-shorts #AI #disturbing.
-
-📺 Built By Gamers
-
-👁️ 27K • 👍 629 • 💬 11 • ⏱️ 0:30 • 1d ago
-
----
-
-**[The Dumbest Way to Make Money With AI Videos (im at $7k/mo)](https://www.youtube.com/watch?v=8KmyF3pQQdI)**
-
-In this ultra hd hot mf video I show you exactly how im getting millions of views with ai videos to promote my app. I do feel a little ...
-
-📺 Jaxon Poulton
-
-👁️ 14K • 👍 849 • 💬 119 • ⏱️ 9:36 • 1d ago
+👁️ 284K • 👍 9K • 💬 471 • ⏱️ 11:55 • 2d ago
 
 ---
 
@@ -365,7 +335,27 @@ Legendary actor Morgan Freeman, who has starred in more than 100 movies in his s
 
 📺 CBS Mornings
 
-👁️ 163K • 👍 2K • 💬 319 • ⏱️ 6:34 • 1d ago
+👁️ 167K • 👍 2K • 💬 320 • ⏱️ 6:34 • 1d ago
+
+---
+
+**[Disturbing Things Said By AI (Part 2)](https://www.youtube.com/watch?v=JGC5GpogfCI)**
+
+shorts #AI #disturbing.
+
+📺 Built By Gamers
+
+👁️ 27K • 👍 609 • 💬 13 • ⏱️ 0:27 • 1d ago
+
+---
+
+**[Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](https://www.youtube.com/watch?v=8grIT-xK50M)**
+
+HUGE AI NEWS: Qwen 3.5, Solaris, Quiver Arrow 1.0, LavaSR, Doc to Lora, & more #ai #ainews #aitools #aivideo #agi Thanks to ...
+
+📺 AI Search
+
+👁️ 30K • 👍 2K • 💬 210 • ⏱️ 45:11 • 8h ago
 
 ---
 
@@ -375,7 +365,17 @@ Anton Korinek talks about the effects of automation on wages and labor, how we m
 
 📺 Future of Life Institute
 
-👁️ 61K • 👍 1K • 💬 632 • ⏱️ 22:41 • 2d ago
+👁️ 62K • 👍 1K • 💬 633 • ⏱️ 22:41 • 2d ago
+
+---
+
+**[Anthropic AI Destroys $31 Billion of IBM Value—The AI Corporate Bloodbath Has Begun](https://www.youtube.com/watch?v=ZLEKvSb0DdA)**
+
+On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI is sending through the world's biggest ...
+
+📺 Tom Bilyeu Clips
+
+👁️ 18K • 👍 364 • 💬 82 • ⏱️ 8:38 • 2d ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 481,446 • ❤️ 702 • 2d ago
+⬇️ 481,446 • ❤️ 708 • 2d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 217,725 • ❤️ 454 • 4d ago
+⬇️ 217,725 • ❤️ 456 • 4d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 432,876 • ❤️ 383 • 1d ago
+⬇️ 432,876 • ❤️ 386 • 1d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 127,141 • ❤️ 351 • 4d ago
+⬇️ 127,141 • ❤️ 352 • 4d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,030,009 • ❤️ 1,133 • 5d ago
+⬇️ 1,030,009 • ❤️ 1,135 • 5d ago
 
 ---
 
@@ -463,7 +463,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 2,357 • ❤️ 240 • 4d ago
+⬇️ 2,357 • ❤️ 241 • 4d ago
 
 ---
 
@@ -475,7 +475,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 338,176 • ❤️ 910 • 3d ago
+⬇️ 338,176 • ❤️ 911 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 10,611 • ❤️ 214 • 22h ago
+⬇️ 10,611 • ❤️ 214 • 23h ago
 
 ---
 
@@ -499,7 +499,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 313,330 • ❤️ 1,040 • 13d ago
+⬇️ 313,330 • ❤️ 1,041 • 13d ago
 
 ---
 
@@ -609,18 +609,6 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
-**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
-
-*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
-
-A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
-
-▲ 15 • 💬 1 • ⭐ 9,902 • 28mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
-
----
-
 **[Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://huggingface.co/papers/2508.15144)**
 
 *Jiabo Ye, Xi Zhang, Haiyang Xu et al. (15 authors)*
@@ -630,6 +618,18 @@ GUI-Owl and Mobile-Agent-v3 are open-source GUI agent models and frameworks that
 ▲ 65 • 💬 3 • ⭐ 7,571 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.15144) • [💻 code](https://github.com/X-PLUG/MobileAgent) • [🔗 project](https://github.com/X-PLUG/MobileAgent)
+
+---
+
+**[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
+
+*Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
+
+A preference-aligned routing framework using a compact 1.5B model effectively matches queries to user-defined domains and action types, outperforming proprietary models in subjective evaluation criteria.
+
+▲ 17 • 💬 2 • ⭐ 5,797 • 8mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2506.16655) • [💻 code](https://github.com/katanemo/archgw) • [🔗 project](https://huggingface.co/katanemo/Arch-Router-1.5B)
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Rust` `official` `official-website`
 
-⭐ 21.4k • 🔱 2.7k • 2h ago
+⭐ 21.4k • 🔱 2.7k • 6m ago
 
 ---
 
@@ -653,7 +653,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Python`
 
-⭐ 5.9k • 🔱 723 • 1d ago
+⭐ 6.0k • 🔱 723 • 1d ago
 
 ---
 
@@ -663,7 +663,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 362 • 7h ago
+⭐ 3.7k • 🔱 363 • 7h ago
 
 ---
 
@@ -673,7 +673,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 481 • 4h ago
+⭐ 3.6k • 🔱 482 • 4h ago
 
 ---
 
@@ -683,7 +683,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.4k • 🔱 395 • 9h ago
+⭐ 3.5k • 🔱 400 • 9h ago
 
 ---
 
@@ -693,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.2k • 🔱 257 • 22h ago
+⭐ 3.3k • 🔱 260 • 23h ago
 
 ---
 
@@ -703,7 +703,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 326 • 22h ago
+⭐ 3.0k • 🔱 329 • 9m ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 216 • 3h ago
+⭐ 3.0k • 🔱 217 • 3h ago
 
 ---
 
@@ -733,7 +733,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 2.6k • 🔱 247 • 11h ago
+⭐ 2.7k • 🔱 257 • 11h ago
 
 ---
 

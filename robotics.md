@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T11:21:17.881682+00:00'
+updated: '2026-03-01T11:43:05.369594+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 11:21 UTC  
+**Last Updated:** March 01, 2026 at 11:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-13h ago
+14h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-36m ago
+58m ago
 
 ---
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -62,7 +62,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-16h ago
+17h ago
 
 ---
 
@@ -70,7 +70,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-22h ago
+23h ago
 
 ---
 
@@ -190,7 +190,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 165K • 👍 2K • 💬 338 • ⏱️ 14:16 • 6d ago
+👁️ 166K • 👍 2K • 💬 339 • ⏱️ 14:16 • 6d ago
 
 ---
 
@@ -200,27 +200,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 84K • 👍 1K • 💬 325 • ⏱️ 12:16 • 2d ago
-
----
-
-**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
-
-China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
-
-📺 Cyrus Janssen
-
-👁️ 246K • 👍 7K • 💬 1K • ⏱️ 11:41 • 3d ago
-
----
-
-**[China’s Humanoid Robots Just Learned to FIGHT… The World Isn’t Ready](https://www.youtube.com/watch?v=auoP7Wk_7HA)**
-
-China's humanoid robots have officially learned to fight, and the latest demonstrations show a level of power and precision the ...
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 110 • 💬 25 • ⏱️ 24:08 • 3d ago
+👁️ 86K • 👍 1K • 💬 330 • ⏱️ 12:16 • 2d ago
 
 ---
 
@@ -230,27 +210,27 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 22K • 👍 2K • 💬 103 • ⏱️ 21:58 • 10h ago
+👁️ 31K • 👍 3K • 💬 124 • ⏱️ 21:58 • 10h ago
 
 ---
 
-**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
+**[China’s Humanoid Robots Just Learned to FIGHT… The World Isn’t Ready](https://www.youtube.com/watch?v=auoP7Wk_7HA)**
 
-China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
+China's humanoid robots have officially learned to fight, and the latest demonstrations show a level of power and precision the ...
 
-📺 NewsX Live
+📺 The AI Nexus
 
-👁️ 61K • 👍 300 • 💬 116 • ⏱️ 2:18 • 2d ago
+👁️ 3K • 👍 111 • 💬 25 • ⏱️ 24:08 • 3d ago
 
 ---
 
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
 
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
 
-📺 NBC Bay Area
+📺 Cyrus Janssen
 
-👁️ 125K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
+👁️ 248K • 👍 7K • 💬 1K • ⏱️ 11:41 • 3d ago
 
 ---
 
@@ -260,7 +240,27 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 31K • 👍 694 • 💬 15 • ⏱️ 0:35 • 1d ago
+👁️ 32K • 👍 699 • 💬 16 • ⏱️ 0:35 • 1d ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 126K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
+
+---
+
+**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
+
+China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
+
+📺 NewsX Live
+
+👁️ 63K • 👍 301 • 💬 116 • ⏱️ 2:18 • 2d ago
 
 ---
 
@@ -270,17 +270,17 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 278K • 👍 2K • 💬 773 • ⏱️ 0:55 • 2d ago
+👁️ 288K • 👍 2K • 💬 789 • ⏱️ 0:55 • 2d ago
 
 ---
 
-**[China’s Robot Army Is Cleaning the City #shorts #robot #chinatech #techshorts](https://www.youtube.com/watch?v=99lggmwtn2c)**
+**[BMW Brings Humanoid Robots Into Real Car Production – Physical AI Is Here](https://www.youtube.com/watch?v=yZJbncyoXQw)**
 
-China is stepping into the future of smart cities with street-cleaning robots! Leading robotics company CowaRobot has ...
+Humanoid robots are officially building BMW vehicles. For the first time in Europe, BMW has launched Physical AI in real ...
 
-📺 Perigee Tech
+📺 DPCcars
 
-👁️ 28K • 👍 408 • 💬 32 • ⏱️ 0:13 • 4d ago
+👁️ 5K • 👍 46 • 💬 19 • ⏱️ 4:42 • 1d ago
 
 ---
 

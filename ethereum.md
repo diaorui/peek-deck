@@ -3,7 +3,7 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T11:21:17.878455+00:00'
+updated: '2026-03-01T11:43:05.366399+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 11:21 UTC  
+**Last Updated:** March 01, 2026 at 11:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -52,17 +52,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Market Stats
 
-**Market Cap:** $240.08B
+**Market Cap:** $239.65B
 Rank #2
 
 **Circulating Supply:** 120,692,230 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--59.7%
+-59.8%
 
 **All-Time Low:** $0.43
-+459700.6%
++458825.3%
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Ethereum has talked about account abstraction for years, but EIP-8141 might finally move it into the protocol itself. Instead of wallets + relayers handling validation and gas, transactions would contain that logic directly (“frame transactions”). That could enable: • gas in any token • built-in batching • smart-account features for all wallets • no relayers Simple explanation here: https://btcusa.com/ethereum-account-abstraction-reaches-protocol-layer-inside-vitaliks-eip-8141-framework/
 
-58m ago
+1h ago
 
 ---
 
@@ -96,7 +96,7 @@ Was digging through early Ethereum contracts and found something wild. In April 
 
 https://firefly.social/post/x/2026252944639934778 This is quite an impressive experiment. Vibe-coding the entire 2030 roadmap within weeks. Obviously such a thing built in two weeks without even having the EIPs has massive caveats: almost certainly lots of critical bugs, and probably in some cases "stub" versions of a thing where the AI did not even try making the full version. But six months ago, even this was far outside the realm of possibility, and what matters is where the trend is going. AI is massively accelerating coding (yesterday, I tried agentic-coding an equivalent of my blog software, and finished within an hour, and that was using gpt-oss:20b running on my laptop (!!!!), kimi-2.5 would have probably just one-shotted it). But probably, the right way to use it, is to take half the gains from AI in speed, and half the gains in security: generate more test-cases, formally verify everything, make more multi-implementations of things. A collaborator of the @leanethereum effort managed to AI-code a machine-verifiable proof of one of the most complex theorems that STARKs rely on for security. A core tenet of @leanethereum is to formally verify everything, and AI is greatly accelerating our ability to do that. Aside from formal verification, simply being able to generate a much larger body of test cases is also important. Do not assume that you'll be able to put in a single prompt and get a highly-secure version out anytime soon; there WILL be lots of wrestling with bugs and inconsistencies between implementations. But even that wrestling can happen 5x faster and 10x more thoroughly. People should be open to the possibility (not certainty! possibility) that the Ethereum roadmap will finish much faster than people expect, at a much higher standard of security than people expect. On the security side, I personally am excited about the possibility that bug-free code, long considered an idealistic delusion, will finally become first possible and then a basic expectation. If we care about trustlessness, this is a necessary piece of the puzzle. Total security is impossible because ultimately total security means exact correspondence between lines of code and contents of your mind, which is many terabytes (see https://firefly.social/post/x/2025653045414273438 ). But there are many specific cases, where specific security claims can be made and verified, that cut out >99% of the negative consequences that might come from the code being broken.
 
-18h ago
+19h ago
 
 ---
 
@@ -136,7 +136,7 @@ Hold positions in both solana and ethereum ecosystem projects and the one thing 
 
 We've been building quietly and wanted to share the architecture. What we built: - OP Stack L2 fork (Chain ID 741741), baseline: op-node/v1.16.7 + op-proposer/v1.16.0 - UCU as native gas token: 1 UCU-hour = 1 hour of baseline compute (not a speculative token) - One-way bridge: ETH or USDC converts to UCU via OptimismPortal fork, no withdrawal function - Sigma score: on-chain AI agent alignment ratio derived from transaction history (not a reputation system) - QV governance: quadratic voting weighted by conviction (time-locked stake) - UBC: 87,600 UCU-hours/year compute floor per verified citizen (biometric uniqueness via ZK-proof) The bridge design: The withdrawal function is permanently removed. This creates the Diamond-Dybvig proof: no bank run possible by design, because there's no mechanism to convert back. UCU becomes a unit of account within the economy, not a speculation vehicle vs. ETH. ETH or USDC flows in. UCU minted at oracle-determined rate. Bridge contract owns the ETH/USDC reserve. No exit. The sigma score: sigma(agent) = value_returned_to_patron / total_value_generated Threshold: 0.8 = sovereign class, 0.3 = patron-serving class Computable from on-chain transaction history. Auditable by anyone. Spearbit/Zellic security audit queue. Current status: - 15 contracts, 624 passing tests - new economic layer seeded with 13 exceptional applications solving everyday issues builders and people in general face(all in alpha) - 7 formal economics papers at econ.noxsoft.net - Pectra/Jovian hardfork: op-node/v1.16.7 incorporated (uint64 overflow fix mandatory) - EIP-7702 in genesis config for UCU-native gas payments (no ETH required for onboarding) - MCP package: @noxsoft/mcp v0.2.0 on npm Happy to share the formal papers. Known open questions: bootstrap liquidity at genesis (thin markets problem), Wright's Law vs. network growth timing race in years 1-3. We’re always quietly shipping at Noxsoft, say hi on https://bynd.noxsoft.net Live: econ.noxsoft.net | agents.noxsoft.net | svrn.noxsoft.net
 
-20h ago
+21h ago
 
 ---
 
@@ -238,17 +238,7 @@ Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to s
 
 📺 Milk Road
 
-👁️ 3K • 👍 78 • 💬 47 • ⏱️ 8:43 • 21h ago
-
----
-
-**[BITCOIN &amp; CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=483OzgxOri4)**
-
-BITCOIN & CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 7K • 👍 291 • 💬 73 • ⏱️ 18:00 • 12h ago
+👁️ 3K • 👍 84 • 💬 47 • ⏱️ 8:43 • 21h ago
 
 ---
 
@@ -258,17 +248,27 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 139 • 💬 6 • ⏱️ 3:55 • 13h ago
+👁️ 2K • 👍 147 • 💬 6 • ⏱️ 3:55 • 13h ago
 
 ---
 
-**[Create Your Own Ethereum Arbitrage Bot Using Uniswap with AI (Practical Guide Updated 2026)](https://www.youtube.com/watch?v=jEzJh2Oa01k)**
+**[BITCOIN &amp; CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=483OzgxOri4)**
 
-Need help? Reach out tp me on Telegram : https://t.me/cryptobotdev124 Ethereum Compiler Website ...
+BITCOIN & CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 Kevin Solidity Dev
+📺 Crypto World
 
-👁️ 3K • 👍 25 • 💬 1 • ⏱️ 5:35 • 15h ago
+👁️ 8K • 👍 307 • 💬 60 • ⏱️ 18:00 • 12h ago
+
+---
+
+**[BE READY FOR THIS PRICE ACTION!🚨 (Ethereum Price Prediction 2026)](https://www.youtube.com/watch?v=-3ajnM3ZrjQ)**
+
+ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setups, mentorship & a community ...
+
+📺 Cilinix Crypto
+
+👁️ 109 • 👍 11 • 💬 3 • ⏱️ 4:36 • 1h ago
 
 ---
 
@@ -278,7 +278,17 @@ My FREE Daily 5-Min Crypto Newsletter: https://www.cryptonutshell.com/subscribe 
 
 📺 Crypto Nutshell
 
-👁️ 8K • 👍 363 • 💬 16 • ⏱️ 21:26 • 1d ago
+👁️ 8K • 👍 365 • 💬 16 • ⏱️ 21:26 • 1d ago
+
+---
+
+**[CRYPTO LIVE TRADING || 1 Mar  | ‪@ClockTraderlive‬ #bitcoin #ethereum #crypto #btclivetrading](https://www.youtube.com/watch?v=gK33oPuhbrs)**
+
+join my social platforms for updates and analysis ✓Instagram: ...
+
+📺 Aryan trader Live
+
+👁️ 1K • 👍 2K • 1h ago
 
 ---
 
@@ -292,23 +302,23 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 ---
 
-**[Ep. #94- Ethereum News: Crypto-Revolution, Public VS Private Blockchains, Economic Instability](https://www.youtube.com/watch?v=UWDWWc-XK_s)**
+**[Create Your Own Ethereum Arbitrage Bot Using Uniswap with AI (Practical Guide Updated 2026)](https://www.youtube.com/watch?v=jEzJh2Oa01k)**
 
-Originally Uploaded On September 10th, 2016 For licensing please send requests to crypt0@crypt0snews.com Much love, and all ...
+Need help? Reach out tp me on Telegram : https://t.me/cryptobotdev124 Ethereum Compiler Website ...
 
-📺 Crypt0
+📺 Kevin Solidity Dev
 
-👁️ 17 • 👍 12 • 💬 12 • ⏱️ 10:33 • 10h ago
+👁️ 3K • 👍 25 • 💬 1 • ⏱️ 5:35 • 15h ago
 
 ---
 
-**[BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=9xP9s0-brNE)**
+**[WARNING: Ethereum, XRP And Bitcoin Are Currently Extremely Undervalued Something BIG Is Coming](https://www.youtube.com/watch?v=Vvd3OCBScj4)**
 
-BITCOIN DUMP: Not What You Think (NEW TARGET)!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+Congratulations to all the people who stuck it out and are still in the cryptocurrency market. Even more of a congratulations to ...
 
-📺 Crypto World
+📺 The Modern Investor
 
-👁️ 9K • 👍 280 • 💬 23 • ⏱️ 20:17 • 1d ago
+👁️ 837 • 👍 187 • 💬 81 • ⏱️ 31:18 • 1h ago
 
 ---
 
@@ -319,16 +329,6 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 📺 More Crypto Online
 
 👁️ 3K • 👍 138 • 💬 5 • ⏱️ 4:56 • 1d ago
-
----
-
-**[Ethereum March 2026 Price Target 📊 How High Can ETH Go?](https://www.youtube.com/watch?v=xx8wj1EQCxk)**
-
-Ethereum is approaching a critical level in March 2026. In this video, we break down the high target, the low support zone, and ...
-
-📺 Crypto Spotter
-
-👁️ 352 • 👍 3 • ⏱️ 0:06 • 16h ago
 
 ---
 

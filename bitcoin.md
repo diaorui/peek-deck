@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T11:21:17.872458+00:00'
+updated: '2026-03-01T11:43:05.360499+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 11:21 UTC  
+**Last Updated:** March 01, 2026 at 11:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,7 +54,7 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1331.70B
+**Market Cap:** $1329.48B
 Rank #1
 
 **Circulating Supply:** 19,996,312 BTC
@@ -64,7 +64,7 @@ Rank #1
 -47.2%
 
 **All-Time Low:** $67.81
-+98156.9%
++97987.3%
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-14h ago
+15h ago
 
 ---
 
@@ -103,7 +103,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
-16h ago
+17h ago
 
 ---
 
@@ -117,7 +117,7 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 **[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -141,7 +141,7 @@ There's like three active users anymore.
 
 Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threads asking if starting a DCA today is worth it with the current 2026 volatility. I got tired of using calculators that are 50% ads and trackers, so I built a 'calm' version for myself. It uses real historical data and compares BTC vs traditional savings. For example: Investing $100/month since the 2024 halving would have you up X% today, even with the recent swings. It's part of a suite of tools I just put on Product Hunt for feedback. No signups, no ads, just the math. If you're bored, I'd love to know if the UI feels intuitive to you: https://bytecalculators.com/crypto-dca-calculator-dollar-cost-averaging-simulator
 
-12h ago
+13h ago
 
 ---
 
@@ -149,7 +149,7 @@ Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threa
 
 When sending Bitcoin from an HD wallet, does the transaction reveal the link between the old and new addresses? If I receive £200 in my address A, the HD wallet generates a new address called B. Then, if I want to send money from address B to C, is only B shown as having sent to C, or is the old address A, before B, also displayed on the blockchain?
 
-8h ago
+9h ago
 
 ---
 
@@ -209,7 +209,7 @@ Gizmodo • 1d ago
 
 **[Bitcoin recovers above $67,000 as markets digest Khamenei’s death](https://www.investing.com/news/cryptocurrency-news/bitcoin-recovers-above-67000-as-markets-digest-khameneis-death-4533464)**
 
-Investing.com • 6h ago
+Investing.com • 7h ago
 
 ---
 
@@ -261,7 +261,7 @@ Links to major crypto world figures are just the start.
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 12h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 13h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 101 • ⏱️ 19:16 • 11h ago
+👁️ 16K • 👍 1K • 💬 131 • ⏱️ 19:16 • 11h ago
 
 ---
 
@@ -323,27 +323,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 21K • 👍 970 • 💬 218 • ⏱️ 26:57 • 21h ago
-
----
-
-**[How Wall Street Took Over Bitcoin](https://www.youtube.com/watch?v=JJwwVcdHlV0)**
-
-How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.funvest.com ▻ How To Protect Your Bitcoin, use ...
-
-📺 Andrei Jikh
-
-👁️ 601K • 👍 20K • 💬 2K • ⏱️ 18:56 • 1d ago
-
----
-
-**[Trump Iran Strike Just Flash Crashed Bitcoin - What Comes Next?](https://www.youtube.com/watch?v=_r0SlQwQ9wk)**
-
-Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 21K • 👍 1K • 💬 205 • ⏱️ 36:35 • 13h ago
+👁️ 23K • 👍 1K • 💬 239 • ⏱️ 26:57 • 21h ago
 
 ---
 
@@ -353,17 +333,17 @@ Geopolitical fear is gripping the markets. News of military strikes in Iran sent
 
 📺 Gareth Soloway
 
-👁️ 65K • 👍 4K • 💬 590 • ⏱️ 12:42 • 15h ago
+👁️ 69K • 👍 4K • 💬 615 • ⏱️ 12:42 • 15h ago
 
 ---
 
-**[Raoul Pal Shocks Everyone With What He Just Said About The Bitcoin Crash (2026 Warning)](https://www.youtube.com/watch?v=wL8mjQz0R-M)**
+**[Trump Iran Strike Just Flash Crashed Bitcoin - What Comes Next?](https://www.youtube.com/watch?v=_r0SlQwQ9wk)**
 
-Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating way possible. The Real Vision CEO ...
+Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
 
-📺 Money Talks
+📺 Altcoin Daily
 
-👁️ 4K • 👍 96 • 💬 6 • ⏱️ 14:26 • 16h ago
+👁️ 23K • 👍 1K • 💬 202 • ⏱️ 36:35 • 13h ago
 
 ---
 
@@ -373,7 +353,27 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 3K • 👍 186 • 💬 7 • ⏱️ 26:03 • 13h ago
+👁️ 4K • 👍 200 • 💬 8 • ⏱️ 26:03 • 13h ago
+
+---
+
+**[Raoul Pal Shocks Everyone With What He Just Said About The Bitcoin Crash (2026 Warning)](https://www.youtube.com/watch?v=wL8mjQz0R-M)**
+
+Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating way possible. The Real Vision CEO ...
+
+📺 Money Talks
+
+👁️ 5K • 👍 101 • 💬 7 • ⏱️ 14:26 • 17h ago
+
+---
+
+**[How Wall Street Took Over Bitcoin](https://www.youtube.com/watch?v=JJwwVcdHlV0)**
+
+How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.funvest.com ▻ How To Protect Your Bitcoin, use ...
+
+📺 Andrei Jikh
+
+👁️ 610K • 👍 20K • 💬 2K • ⏱️ 18:56 • 1d ago
 
 ---
 
@@ -383,7 +383,7 @@ At 2:34 AM Eastern today, US and Israel struck Iran — and Bitcoin lost $2500 i
 
 📺 Mystery Market Vault
 
-👁️ 5K • 👍 235 • 💬 149 • ⏱️ 25:03 • 15h ago
+👁️ 6K • 👍 242 • 💬 150 • ⏱️ 25:03 • 15h ago
 
 ---
 
@@ -393,15 +393,17 @@ The New York Times says crypto is finished. CNBC runs with it. Meanwhile Bitcoin
 
 📺 Simply Bitcoin
 
-👁️ 12K • 👍 843 • 💬 79 • ⏱️ 18:58 • 17h ago
+👁️ 12K • 👍 858 • 💬 83 • ⏱️ 18:58 • 18h ago
 
 ---
 
-**[Michael Saylor’s reaction to Bitcoin price crash](https://www.youtube.com/watch?v=3e4gcMXNNpM)**
+**[More Trouble Ahead For Bitcoin and Markets...](https://www.youtube.com/watch?v=2TJS1Y1VI0g)**
 
-📺 Natalie Brunell
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
 
-👁️ 4K • 👍 133 • 💬 35 • ⏱️ 1:19 • 18h ago
+📺 CryptosRUs
+
+👁️ 22K • 👍 1K • 💬 111 • ⏱️ 58:37 • 1d ago
 
 ---
 
