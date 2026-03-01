@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T10:26:36.603667+00:00'
+updated: '2026-03-01T10:52:08.642979+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- news
 - videos
 - cryptocurrency
-- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 10:26 UTC  
+**Last Updated:** March 01, 2026 at 10:52 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +6.6%  
-**7d:** +7.1%  
-**30d:** -19.0%  
-**90d:** -33.6%  
-**1y:** -21.1%  
+**24h:** +6.4%  
+**7d:** +6.7%  
+**30d:** -19.2%  
+**90d:** -33.8%  
+**1y:** -21.4%  
 
 ---
 
@@ -76,11 +76,19 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Vitalik’s new account abstraction design could change Ethereum wallets](https://www.reddit.com/r/ethereum/comments/1rhtx38/vitaliks_new_account_abstraction_design_could/)**
+
+Ethereum has talked about account abstraction for years, but EIP-8141 might finally move it into the protocol itself. Instead of wallets + relayers handling validation and gas, transactions would contain that logic directly (“frame transactions”). That could enable: • gas in any token • built-in batching • smart-account features for all wallets • no relayers Simple explanation here: https://btcusa.com/ethereum-account-abstraction-reaches-protocol-layer-inside-vitaliks-eip-8141-framework/
+
+29m ago
+
+---
+
 **[TIL Ethereum had quadratic voting on-chain in 2016, and the DAO that used it is still alive](https://www.reddit.com/r/ethereum/comments/1rh1qsb/til_ethereum_had_quadratic_voting_onchain_in_2016/)**
 
 Was digging through early Ethereum contracts and found something wild. In April 2016, Alex Van de Sande (@avsa) deployed a token called Unicorn Meat as an April Fool's joke. You could "grind" Unicorn tokens (0 decimals, basically NFTs before NFTs) into Unicorn Meat (3 decimals, fungible). The grinder contract handled the conversion on-chain. But here's the part that blew my mind: the Grinder Association DAO that governed the system used quadratic voting. In 2016. Before Gitcoin, before Vitalik's QV paper got popular, before anyone was talking about it. The voting weight scaled with the square root of tokens held, specifically to prevent whale dominance. Piper Merriam (yes, the py-evm / web3.py Piper Merriam) ended up taking over governance of the association. The DAO is technically still functional on mainnet. The technical design is also interesting from a token engineering perspective. The 0-decimal to 3-decimal conversion was essentially an early attempt at what we'd now call a token upgrade or migration path, but done through a grinder mechanic instead of a proxy pattern. One indivisible input, 1000 divisible units out. Irreversible by design. It's a tiny piece of Ethereum history that somehow combined: - Quadratic voting governance (years before it was mainstream) - On-chain token transformation (not just wrapping, actual decimal conversion) - A DAO with real authority over contract parameters - All of it deployed before The DAO hack even happened The contracts are all still on mainnet if anyone wants to poke around. Just search for UnicornGrinder on Etherscan. Sometimes the best innovations start as jokes.
 
-21h ago
+22h ago
 
 ---
 
@@ -128,7 +136,7 @@ Hold positions in both solana and ethereum ecosystem projects and the one thing 
 
 We've been building quietly and wanted to share the architecture. What we built: - OP Stack L2 fork (Chain ID 741741), baseline: op-node/v1.16.7 + op-proposer/v1.16.0 - UCU as native gas token: 1 UCU-hour = 1 hour of baseline compute (not a speculative token) - One-way bridge: ETH or USDC converts to UCU via OptimismPortal fork, no withdrawal function - Sigma score: on-chain AI agent alignment ratio derived from transaction history (not a reputation system) - QV governance: quadratic voting weighted by conviction (time-locked stake) - UBC: 87,600 UCU-hours/year compute floor per verified citizen (biometric uniqueness via ZK-proof) The bridge design: The withdrawal function is permanently removed. This creates the Diamond-Dybvig proof: no bank run possible by design, because there's no mechanism to convert back. UCU becomes a unit of account within the economy, not a speculation vehicle vs. ETH. ETH or USDC flows in. UCU minted at oracle-determined rate. Bridge contract owns the ETH/USDC reserve. No exit. The sigma score: sigma(agent) = value_returned_to_patron / total_value_generated Threshold: 0.8 = sovereign class, 0.3 = patron-serving class Computable from on-chain transaction history. Auditable by anyone. Spearbit/Zellic security audit queue. Current status: - 15 contracts, 624 passing tests - new economic layer seeded with 13 exceptional applications solving everyday issues builders and people in general face(all in alpha) - 7 formal economics papers at econ.noxsoft.net - Pectra/Jovian hardfork: op-node/v1.16.7 incorporated (uint64 overflow fix mandatory) - EIP-7702 in genesis config for UCU-native gas payments (no ETH required for onboarding) - MCP package: @noxsoft/mcp v0.2.0 on npm Happy to share the formal papers. Known open questions: bootstrap liquidity at genesis (thin markets problem), Wright's Law vs. network growth timing race in years 1-3. We’re always quietly shipping at Noxsoft, say hi on https://bynd.noxsoft.net Live: econ.noxsoft.net | agents.noxsoft.net | svrn.noxsoft.net
 
-19h ago
+20h ago
 
 ---
 
@@ -137,14 +145,6 @@ We've been building quietly and wanted to share the architecture. What we built:
 We added Ethereum as a payment option back in 2018, and since then, around 643,000 payments have been made with ETH through our gateway. Most spending happens on hosting, VPN services, and gaming. The average order value is around $159, with most payments ranging from $54 to $607. If you are looking for places that accept Ethereum, we have a merchant directory. Are you spending ETH anywhere these days?
 
 1d ago
-
----
-
-**[Post Quantum migrations, Crypto-agility and how to prevent EIP-7932 from failing](https://www.reddit.com/r/ethereum/comments/1rgcf85/post_quantum_migrations_cryptoagility_and_how_to/)**
-
-At the current moment the correct path to post quantum Ethereum transactions looks more like Shibuya Crossing, there are too many proposals all with different ways of doing the same fundamental thing. Some of the proposals that can achieve PQ migration are:   Pure ERC-4337 account abstraction and doing the PQ verification on the EVM EIP-6404: SSZ transactions that use the EIP-7932: Secondary Signature Algorithms rails. EIP-8141: Frame Transaction that make the PQ migration up to the account to d...
-
-🔗 [Fellowship of Ethereum Magicians](https://ethereum-magicians.org/t/post-quantum-migrations-crypto-agility-and-how-to-prevent-eip-7932-from-failing/27836) • 1d ago
 
 ---
 
@@ -168,9 +168,17 @@ CoinDesk • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeaEJcKf7WAC-Tw-pcPSmBsyjOJaWnk61oqnedC5KfGnHNWtuc2mPHb&gaa_ts=69a40b06&gaa_sig=71O-CoKZi5Ua3O48DkHYmrEYiBiI6xj9KP8EsvnS80zbRaT-6kfk601_5Vl6FtBVU_YJDqTGFsBxMTWRX-fIUQ%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdFO6hChP7c8xIvqn3Oz-pH9aY3hyj_MEuUxNKS5vI-2hDAZQTI3TFB&gaa_ts=69a41dc0&gaa_sig=U6_grTO2ZBSYo5YMsT_pUoC8JAPbsKJ3ny3SerdeNojg94otEIYWxoUTG7cewlOnZtXccacbVnErQ8qIxiq7qw%3D%3D)**
 
 Barron's • 2d ago
+
+---
+
+**[Ethereum Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/eth-updown-15m-1772358300)**
+
+Ethereum Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -206,27 +214,17 @@ Decrypt • 1d ago
 
 ---
 
+**[Income Hunters Pile In: NEOS Ethereum ETF Sees Nearly 10% AUM Inflow as Ether Slides](https://www.tipranks.com/news/cryptocurrencies/income-hunters-pile-in-neos-ethereum-etf-sees-nearly-10-aum-inflow-as-ether-slides)**
+
+TipRanks • 42m ago
+
+---
+
 **[Crypto News Today: Pepeto Hits $7.368M as Ethereum Price Prediction Targets $5,000 but War Drops ETH to $1,800](https://markets.businessinsider.com/news/stocks/crypto-news-today-pepeto-hits-7-368m-as-ethereum-price-prediction-targets-5-000-but-war-drops-eth-to-1-800-1035881916)**
 
 Dubai, UAE, Feb.  28, 2026  (GLOBE NEWSWIRE) -- Pepeto just announced $7.368 million raised in presale funding while Ethereum dropped below $1,900...
 
 markets.businessinsider.com • 14h ago
-
----
-
-**[Wallet in Telegram unveils yield for Bitcoin, Ethereum and USDT holdings](https://www.theblock.co/post/391338/telegram-crypto-wallet-yield-bitcoin-ethereum-usdt-holdings)**
-
-TON Wallet is shifting from simple self-custody into a gateway for third-party DeFi yield strategies.
-
-The Block • 3d ago
-
----
-
-**[Ethereum price path to $10,000 now hinges on seven upgrades and a fragile ecosystem vote](https://cryptoslate.com/can-ethereums-strawmap-propel-it-to-10000-by-2029/)**
-
-Ethereum's future hinges on Strawmap as it aims to redefine risk and utility by 2029 through ambitious system upgrades.
-
-CryptoSlate • 2d ago
 
 ---
 
@@ -330,7 +328,7 @@ Ethereum is approaching a critical level in March 2026. In this video, we break 
 
 📺 Crypto Spotter
 
-👁️ 352 • 👍 3 • ⏱️ 0:06 • 15h ago
+👁️ 352 • 👍 3 • ⏱️ 0:06 • 16h ago
 
 ---
 

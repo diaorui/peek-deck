@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T10:26:36.589171+00:00'
+updated: '2026-03-01T10:52:08.628501+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- videos
 - repositories
 - news
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 10:26 UTC  
+**Last Updated:** March 01, 2026 at 10:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -45,33 +45,25 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 ---
 
+**[Claude hits No. 1 on App Store as ChatGPT users defect in show of support for Anthropic's Pentagon stance](https://www.reddit.com/r/artificial/comments/1rhu99c/claude_hits_no_1_on_app_store_as_chatgpt_users/)**
+
+OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
+
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 9m ago
+
+---
+
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
 🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 1d ago
 
 ---
 
-**[I built a Claude system prompt that automatically populates NotebookLM notebooks](https://www.reddit.com/r/artificial/comments/1rhpoml/i_built_a_claude_system_prompt_that_automatically/)**
+**[Tokens as a Service - (TaaS)](https://www.reddit.com/r/artificial/comments/1rhuc9w/tokens_as_a_service_taas/)**
 
-I've been using NotebookLM heavily for research and got tired of manually hunting down and adding sources. So I wrote a system prompt that hands the whole process off to Claude. When you give it a topic, Claude starts by creating the notebook and drafting a structured research plan for your approval — organized into thematic phases and prioritizing academic and institutional sources (arXiv, PubMed, government reports, technical standards) over generic web content. It validates every URL before adding it, fetching and inspecting each one to catch silent 404s, paywalls, and login walls that NotebookLM would otherwise silently accept. State is persisted across sessions using notes inside the notebook itself, so when Claude hits its session limit you just start a new conversation, paste the notebook URL, and it picks up where it left off. When the notebook is complete, Claude writes a full _REPORT note documenting every source added, skipped, or recommended. Full prompt and setup instructions are on GitHub: github.com/stablediffusiontrainer-cmd/notebooklm-research-skill Happy to answer questions about how it works or how I built it.
+I’m been thinking a lot about pricing models for ai native apps. For the last few decades the SaaS model was effectively: "Make something that you build once and can sell again and again at 0 marginal cost with monthly subscriptions" AI products don’t have that luxury. Every interaction uses tokens. Tokens use energy & cost money. Light & power users burning tokens at different rates in the same pricing tiers is an analysts nightmare. So what's the solution and right pricing model? TAAS: "Software that adds value to tokens and is resold directly to users as a service." AI video creation, research tools, chat bots. They are all effectively placing a value layer over an API key and selling the tokens for massive markups. The extent to which a company can add value to an AI token is the extent to which they can markup their service. And ironically the way to do that is to lean 90% into software and 10% into AI. You want to offload as much of the costs of value delivery onto free executable code and use AI tokens as sparingly as possible. The application that throws AI bluntly at a solution will fail. The application that effectively solves the problem with code and uses AI to make it magical as a layer above will succeed.
 
-4h ago
-
----
-
-**[DeepSeek optimizing for Chinese chips](https://www.reddit.com/r/artificial/comments/1rhsz17/deepseek_optimizing_for_chinese_chips/)**
-
-Deepseek is about to drop V4, and the real story isn’t the model. It’s that they’ve optimized it to run on Huawei and Cambricon chips instead of nvidia. While everyone in the west debates which GPU to buy, china is quietly building an entire AI stack that doesn’t need a single american chip. The AI race isn’t just about models anymore. it’s about who controls the hardware underneath.
-
-1h ago
-
----
-
-**[Give autonomous military power to AI?](https://www.reddit.com/r/artificial/comments/1rhqpzg/give_autonomous_military_power_to_ai/)**
-
-Yes, of course. Because it’s not really a choice. It’s just a matter of when, and how. Because if your enemy does it and you don’t, you lose. A quick jump forward in time: All wars are fought with autonomous AI-systems. The “good” news is that in a war between two equally powerful parties, the defending party will always have an advantage. Will this lead to more peace on earth?
-
-3h ago
+4m ago
 
 ---
 
@@ -79,15 +71,7 @@ Yes, of course. Because it’s not really a choice. It’s just a matter of when
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-14h ago
-
----
-
-**["You are humanity personified in 2076"](https://www.reddit.com/r/artificial/comments/1rhp3xc/you_are_humanity_personified_in_2076/)**
-
-A continuation of the first time I did this with a narrative of humanity since the dawn of civilization. Really starting to get into these sort of experiments now their compute has been cut. Creative writing has possibly boosted. Its 6x LLM outputs that don't fit in here. So... READ HERE
-
-4h ago
+15h ago
 
 ---
 
@@ -103,7 +87,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-15h ago
+16h ago
 
 ---
 
@@ -115,45 +99,31 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 ---
 
+**[Paper: The framing of a system prompt changes how a transformer generates tokens — measured across 3,830 runs with effect sizes up to d>1.0](https://www.reddit.com/r/artificial/comments/1rgv1kl/paper_the_framing_of_a_system_prompt_changes_how/)**
+
+Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
+
+1d ago
+
+---
+
+**[Does anyone else notice that crypto communities tend toward tribalism while AI communities don't?](https://www.reddit.com/r/artificial/comments/1rhmn1l/does_anyone_else_notice_that_crypto_communities/)**
+
+I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
+
+7h ago
+
+---
+
 ---
 
 ## Google News: "ai"
 
-**[Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war/)**
+**[Investment in AI-resistant ‘Halo’ companies helps push UK and EU markets to record highs](https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs)**
 
-Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
+Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-OpenAI • 13h ago
-
----
-
-**[Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life.](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)**
-
-Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
-
-The Guardian • 1d ago
-
----
-
-**[Apple’s Visual Intelligence Push Has One Problem](https://www.bloomberg.com/news/newsletters/2026-03-01/apple-s-wearable-ai-devices-will-be-part-of-a-push-into-visual-intelligence)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
-
-From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
-
-Fortune • 1d ago
-
----
-
-**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
-
-The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
-
-NBC News • 22h ago
+The Guardian • 56m ago
 
 ---
 
@@ -165,11 +135,51 @@ CNN • 1d ago
 
 ---
 
+**[Investors fear AI will undercut LexisNexis. The company says it's driving growth.](https://www.businessinsider.com/lexisnexis-exec-says-investors-ai-fears-are-misguided-2026-3)**
+
+A top executive at the legal-software provider said Wall Street's anxiety over AI is misguided.
+
+Business Insider • 25m ago
+
+---
+
+**[AI-Powered Investing in 2026: How Algorithms Will Shape Your Portfolio](https://www.kiplinger.com/investing/ai-powered-investing-how-algorithms-will-shape-your-portfolio)**
+
+AI is becoming a standard investing tool, as it helps cut through the noise, personalize portfolios and manage risk. That said, human oversight remains essential. Here's how it all works.
+
+Kiplinger • 22m ago
+
+---
+
+**[Beth Fukumoto: Ethics In AI Isn't Just A Slogan Anymore](https://www.civilbeat.org/2026/03/beth-fukumoto-ethics-in-ai-isnt-just-a-slogan-anymore/)**
+
+The Anthropic fight matters here because it reminds us what’s at stake and why Hawaiʻi needs to implement solid, ethical AI policy.
+
+Honolulu Civil Beat • 31m ago
+
+---
+
+**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
+
+From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
+
+Fortune • 1d ago
+
+---
+
 **[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
 Financial Times • 6h ago
+
+---
+
+**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
+
+The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
+
+NBC News • 22h ago
 
 ---
 
@@ -184,14 +194,6 @@ The New York Times • 2d ago
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
 CNBC • 21h ago
-
----
-
-**[US Used Anthropic's Claude AI In Iran Strikes Hours After Trump's Ban: Report](https://www.ndtv.com/world-news/us-used-anthropics-claude-ai-in-iran-strikes-hours-after-trumps-ban-report-iran-israel-us-war-donald-trump-vs-anthropic-11153230)**
-
-Claude AI was also reportedly used in the US military operation that captured Venezuelan President Nicolas Maduro.
-
-NDTV • 2h ago
 
 ---
 
@@ -217,7 +219,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 319 • 💬 178 • 21h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 320 • 💬 178 • 22h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -225,7 +227,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 305 • 💬 180 • 21h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 306 • 💬 181 • 21h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -245,7 +247,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 130 • 💬 101 • 23h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 132 • 💬 102 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -313,7 +315,7 @@ HUGE AI NEWS: Qwen 3.5, Solaris, Quiver Arrow 1.0, LavaSR, Doc to Lora, & more #
 
 📺 AI Search
 
-👁️ 22K • 👍 1K • 💬 174 • ⏱️ 45:11 • 6h ago
+👁️ 22K • 👍 1K • 💬 174 • ⏱️ 45:11 • 7h ago
 
 ---
 
@@ -681,7 +683,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.4k • 🔱 395 • 8h ago
+⭐ 3.4k • 🔱 395 • 9h ago
 
 ---
 
@@ -691,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.2k • 🔱 257 • 21h ago
+⭐ 3.2k • 🔱 257 • 22h ago
 
 ---
 

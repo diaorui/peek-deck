@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T10:26:36.606911+00:00'
+updated: '2026-03-01T10:52:08.646174+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - social
-- videos
 - news
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 10:26 UTC  
+**Last Updated:** March 01, 2026 at 10:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,21 +40,21 @@ Robotics research and industry news
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-12h ago
+13h ago
+
+---
+
+**[A small industrial robot arm, built for sub-micrometer precision by Oleksandr Stepanenko](https://www.reddit.com/r/robotics/comments/1rhuac0/a_small_industrial_robot_arm_built_for/)**
+
+From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
+
+7m ago
 
 ---
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-7h ago
-
----
-
-**[My DWA (Dynamic Window Approach) in a Robot Vacuum Cleaner.](https://www.reddit.com/r/robotics/comments/1rh1kvy/my_dwa_dynamic_window_approach_in_a_robot_vacuum/)**
-
-Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
-
-21h ago
+8h ago
 
 ---
 
@@ -62,7 +62,29 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-15h ago
+16h ago
+
+---
+
+**[My DWA (Dynamic Window Approach) in a Robot Vacuum Cleaner.](https://www.reddit.com/r/robotics/comments/1rh1kvy/my_dwa_dynamic_window_approach_in_a_robot_vacuum/)**
+
+Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
+
+22h ago
+
+---
+
+**[Need help finding/converting a 2-DOF Robotic Arm model for MATLAB (XML)](https://www.reddit.com/r/robotics/comments/1rhtgwy/need_help_findingconverting_a_2dof_robotic_arm/)**
+
+Yo everyone! ​I’m a third-year Electrical Engineering student currently working on a robotics project involving simulation and control systems. I’ve been trying to get a 2-axis (2-DOF) robotic arm running in MATLAB/Simulink using the Robotics System Toolbox. ​The Problem: I found some cool 3D models of an articulated arm, but they are in SolidWorks format (.SLDPRT and .SLDASM). I’m struggling to get these converted into a clean URDF (XML) file that MATLAB can actually importrobot. ​What I'm looking for: ​Does anyone have a link to a reliable 2-DOF or 3-DOF arm URDF (XML) that is already verified to work in MATLAB? ​If I stick with the SolidWorks models I found, what is the fastest way to export them to URDF without the file becoming a mess of hidden .xml extensions or broken joint links? ​Any tips on setting up a basic PID controller in Simulink once the model is imported? ​I’ve checked GitHub but most models are for huge 6-axis industrial arms like the UR5, which is overkill for my current assignment. ​Any links, repos, or advice would be massive! Thanks in advance.
+
+56m ago
+
+---
+
+**[I'm looking for help on simscape multibody for my Master 1 project ( help 😭!)](https://www.reddit.com/r/robotics/comments/1rhtbrr/im_looking_for_help_on_simscape_multibody_for_my/)**
+
+1h ago
 
 ---
 
@@ -70,7 +92,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 I am right now in my college ,thought of starting robotics company I previously had one Ai automation company which was running quite good but as we know the claude launch multiple plugins so it might be vanished very soon I just have 1 lakh to invest I can built simulation know electronics stuff can build mvp level robots as per current knowledge what you guys suggest ? Even if possible someone for sharing any idea what should I build as I am new in this market and learning things currently. I am even open for partnership if anyone interested here.
 
-1h ago
+2h ago
 
 ---
 
@@ -79,26 +101,6 @@ I am right now in my college ,thought of starting robotics company I previously 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
 23h ago
-
----
-
-**[This agibot a3 really is something else.](https://www.reddit.com/r/robotics/comments/1rgmnf1/this_agibot_a3_really_is_something_else/)**
-
-1d ago
-
----
-
-**[DIY Humanoid Robot](https://www.reddit.com/r/robotics/comments/1rgup1h/diy_humanoid_robot/)**
-
-For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
-
-1d ago
-
----
-
-**[A Humanoid Robot Line Up (Part II)](https://www.reddit.com/r/robotics/comments/1rhjmza/a_humanoid_robot_line_up_part_ii/)**
-
-9h ago
 
 ---
 
@@ -118,7 +120,7 @@ Financial Times • 1d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 7h ago
+news.cgtn.com • 8h ago
 
 ---
 
@@ -144,27 +146,9 @@ Tech Xplore • 1d ago
 
 ---
 
-**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
 
-Coco Robotics launched a new generation of delivery bots
-
-Los Angeles Times • 23h ago
-
----
-
-**[Coco delivery robots get reboot to maximize service and expand market](https://nypost.com/2026/02/28/us-news/coco-delivery-robots-get-reboot-to-maximize-service-and-expand-market/)**
-
-The Coco delivery robots that have become a regular part of so many Los Angeles neighborhoods will now have a whole new look — a redesign the company behind them says will help to expand the bots&#…
-
-New York Post • 15h ago
-
----
-
-**[Woman Annoyed When Delivery Robot Comes Into Her Yard, Tears Up Her Garden and Steals Her Fence](https://futurism.com/robots-and-machines/delivery-robot-yard-garden)**
-
-An East Hollywood woman was surprised when a delivery robot tore up her yard and made off with her garden fence.
-
-Futurism • 15h ago
+TribLIVE.com • 1d ago
 
 ---
 
@@ -176,9 +160,23 @@ Fortune • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqd_dh3OOCmITviV4WKOmRxfkuIKpIV4UvPet6heaF0xaRkPZGr7hovk&gaa_ts=69a40b08&gaa_sig=GlTd5OHp8qGQEmk1YE7iCnQUn0HiZs5Fz90MJDA4ZPinBG0DhLp0Uw77ZnUSxdMcKAOFevtszQcszpkCzX5zng%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqc3d7dN1LPUYYURKwAiJ1RxmJ2aSuT1lAcVGzqNx6hoxwUrbnjVCnOG&gaa_ts=69a41dc1&gaa_sig=dDc6WuUB94hceFoQ8WLY1PUGxHFjjjoTNNRH-cNxzpHPoSMvH24c6KgxaU0KTOJL6qVXxRcB1NZlM4VG5-UiGA%3D%3D)**
 
 WSJ • 1d ago
+
+---
+
+**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+
+Bloomberg.com • 2d ago
+
+---
+
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+
+Coco Robotics launched a new generation of delivery bots
+
+Los Angeles Times • 23h ago
 
 ---
 
