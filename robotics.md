@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T09:32:12.361551+00:00'
+updated: '2026-03-01T10:26:36.606911+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 09:32 UTC  
+**Last Updated:** March 01, 2026 at 10:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,19 +34,19 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-16h ago
+17h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -54,7 +54,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-20h ago
+21h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-14h ago
+15h ago
 
 ---
 
@@ -70,7 +70,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 I am right now in my college ,thought of starting robotics company I previously had one Ai automation company which was running quite good but as we know the claude launch multiple plugins so it might be vanished very soon I just have 1 lakh to invest I can built simulation know electronics stuff can build mvp level robots as per current knowledge what you guys suggest ? Even if possible someone for sharing any idea what should I build as I am new in this market and learning things currently. I am even open for partnership if anyone interested here.
 
-47m ago
+1h ago
 
 ---
 
@@ -78,7 +78,7 @@ I am right now in my college ,thought of starting robotics company I previously 
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-22h ago
+23h ago
 
 ---
 
@@ -98,7 +98,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 **[A Humanoid Robot Line Up (Part II)](https://www.reddit.com/r/robotics/comments/1rhjmza/a_humanoid_robot_line_up_part_ii/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -118,7 +118,7 @@ Financial Times • 1d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 6h ago
+news.cgtn.com • 7h ago
 
 ---
 
@@ -134,7 +134,7 @@ BMW Blog • 1d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -148,7 +148,7 @@ Tech Xplore • 1d ago
 
 Coco Robotics launched a new generation of delivery bots
 
-Los Angeles Times • 22h ago
+Los Angeles Times • 23h ago
 
 ---
 
@@ -156,7 +156,7 @@ Los Angeles Times • 22h ago
 
 The Coco delivery robots that have become a regular part of so many Los Angeles neighborhoods will now have a whole new look — a redesign the company behind them says will help to expand the bots&#…
 
-New York Post • 14h ago
+New York Post • 15h ago
 
 ---
 
@@ -164,7 +164,7 @@ New York Post • 14h ago
 
 An East Hollywood woman was surprised when a delivery robot tore up her yard and made off with her garden fence.
 
-Futurism • 14h ago
+Futurism • 15h ago
 
 ---
 
@@ -232,7 +232,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 22K • 👍 2K • 💬 103 • ⏱️ 21:58 • 8h ago
+👁️ 22K • 👍 2K • 💬 103 • ⏱️ 21:58 • 9h ago
 
 ---
 
