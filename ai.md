@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T19:22:48.831560+00:00'
+updated: '2026-03-01T19:43:53.268064+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- social
 - repositories
 - news
-- social
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 19:22 UTC  
+**Last Updated:** March 01, 2026 at 19:43 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,6 +37,14 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Anthropic CEO Dario Amodei: 'Disagreeing with the government is the most American thing in the world'](https://www.reddit.com/r/artificial/comments/1ri5kbl/anthropic_ceo_dario_amodei_disagreeing_with_the/)**
+
+"We have stood up for the values of this country," the Anthropic CEO said, discussing the AI lab's refusal to accept the Pentagon's terms for Claude.
+
+🔗 [Business Insider](https://www.businessinsider.com/dario-amodei-pentagon-free-speech-patriots-american-values-2026-2) • 49m ago
+
+---
+
 **[OpenAI eyes global domination with $110B Amazon and NVIDIA raise, value hits $840B](https://www.reddit.com/r/artificial/comments/1rhzn14/openai_eyes_global_domination_with_110b_amazon/)**
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
@@ -49,15 +57,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 8h ago
-
----
-
-**[Deleted my GPT account and ported my AI game project to Claude. Wow!](https://www.reddit.com/r/artificial/comments/1rhqqtw/deleted_my_gpt_account_and_ported_my_ai_game/)**
-
-I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
-
-12h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 9h ago
 
 ---
 
@@ -69,11 +69,27 @@ Transfer your preferences, projects, and context from other AI providers into Cl
 
 ---
 
-**[PSA: Export your ChatGPT conversations before cancelling](https://www.reddit.com/r/artificial/comments/1ri4iii/psa_export_your_chatgpt_conversations_before/)**
+**[Deleted my GPT account and ported my AI game project to Claude. Wow!](https://www.reddit.com/r/artificial/comments/1rhqqtw/deleted_my_gpt_account_and_ported_my_ai_game/)**
 
-If you're thinking about cancelling (or switching to Claude/Gemini), don't lose months of conversations first. I built Basic Memory — it imports your ChatGPT export and turns it into plain Markdown files. Every conversation becomes a file you can actually read, search, and use with whatever AI you switch to. This is not an ad. It is free and open source. Your data belongs to you. Keep it. Steps: Settings → Data Controls → Export Data (ChatGPT emails you a zip) Install Basic Memory (brew tap basicmachines-co/basic-memory && brew install basic-memory) bm import chatgpt conversations.zip All of your conversation data is now in markdown files. Complete docs: http://docs.basicmemory.com
+I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-1h ago
+12h ago
+
+---
+
+**[The danger isn't AI that wages war. It's AI that makes war abstract enough to wage forever.](https://www.reddit.com/r/artificial/comments/1ri67nt/the_danger_isnt_ai_that_wages_war_its_ai_that/)**
+
+In Season 1 of Star Trek: The Original Series, the episode "A Taste of Armageddon" imagined a civilization that had been at war for 500 years — but fought entirely by computer simulation. When the algorithm registered casualties, citizens voluntarily reported to disintegration chambers to be executed. The war was clean, orderly, and endless — because it had been stripped of the horror that might otherwise force a peace. This week, Anthropic refused to let the Pentagon use Claude for autonomous weapons and mass surveillance. Trump responded by banning them from all federal contracts and threatening criminal consequences. I couldn't stop thinking about that episode. Full essay here.
+
+🔗 [substack.com](https://substack.com/home/post/p-189571133) • 26m ago
+
+---
+
+**[🧠 [FASE ENSAYO/APLICACIÓN PRIMARIA] IA detecta el Alzheimer 10 años antes mediante análisis de voz](https://www.reddit.com/r/artificial/comments/1ri5car/fase_ensayoaplicación_primaria_ia_detecta_el/)**
+
+Un avance revolucionario está cambiando el paradigma del diagnóstico neurodegenerativo. Investigadores han entrenado una IA para analizar patrones sutiles en el habla, pausas y vocabulario que son invisibles para el oído humano, logrando detectar riesgo de Alzheimer hasta una década antes de que aparezcan los síntomas clínicos. Estado Actual: La tecnología está saliendo de los laboratorios y se está aplicando ya en centros de salud de atención primaria como parte de ensayos clínicos y protocolos de cribado preventivo. ¿Por qué es un avance crítico? ▶️ Diagnóstico Precoz: Permite intervenir mucho antes, maximizando la efectividad de los tratamientos actuales y futuros. ▶️ No Invasivo: Solo requiere una grabación de voz de un minuto, eliminando la necesidad de costosas y molestas pruebas invasivas. ▶️ Accesible: Al basarse en software, esta tecnología puede desplegarse en cualquier centro de salud primario del mundo. La tecnología está empezando a entender la enfermedad antes que nosotros. 🩺✨ #SaludIA #AlzheimerResearch #InnovaciónMédica #MedicinaPreventiva #AlzheimerIA #AlzheimerAI
+
+57m ago
 
 ---
 
@@ -91,14 +107,6 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 ---
 
-**[OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic](https://www.reddit.com/r/artificial/comments/1rgtjex/openai_strikes_deal_with_pentagon_after_trump/)**
-
-On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
-
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 1d ago
-
----
-
 **[I built a tool to automate your workflow after recording yourself doing the task once (Open Source)](https://www.reddit.com/r/artificial/comments/1rhag6l/i_built_a_tool_to_automate_your_workflow_after/)**
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
@@ -107,21 +115,15 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 ---
 
-**[AI to make logo for my brand?](https://www.reddit.com/r/artificial/comments/1rhl9sf/ai_to_make_logo_for_my_brand/)**
-
-Hello, I was wondering which AI can give me the best result for pictures as brands? I started new one recently but I am struggling with making it's logo, I used Chatgpt and the results sucks so I need suggestions. Thanks!
-
-16h ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
+**[US military reportedly used Claude in Iran strikes despite Trump’s ban](https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military)**
 
-The New York Times • 1d ago
+Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’
+
+The Guardian • 2h ago
 
 ---
 
@@ -133,27 +135,11 @@ CNBC • 5h ago
 
 ---
 
-**[Fact Check: AI Photo Of Khamenei Body Pulled From Rubble By Rescue Workers Has SynthID Watermark -- Not Released By Iran](https://www.yahoo.com/news/articles/fact-check-ai-photo-khamenei-171856843.html)**
+**[A New AI Influencer Marketing Agency Is Here for the Post-Follower Era](https://www.vogue.com/article/a-new-ai-influencer-marketing-agency-is-here-for-the-post-follower-era)**
 
-Is this a real image released by Iran of Supreme Leader Khamenei's body being pulled from under rubble by rescue workers? No, that's not true: According to Google's Gemini tool the image contains a Sy...
+Devotion’s founders say the algorithm broke influencer marketing. They want to help brands get back on track.
 
-Yahoo • 2h ago
-
----
-
-**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
-
-From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
-
-Fortune • 1d ago
-
----
-
-**[AI-resistant ‘halo’ stocks drive UK and EU markets to record highs](https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs)**
-
-Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
-
-The Guardian • 6h ago
+Vogue • 43m ago
 
 ---
 
@@ -165,11 +151,27 @@ CNN • 1d ago
 
 ---
 
-**[NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms](http://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms)**
+**[AI-resistant ‘halo’ stocks drive UK and EU markets to record highs](https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs)**
 
-NVIDIA today announced a commitment — together with Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank Corp. and T-Mobile — to build the world’s next generation of wireless networks on AI-native, open, secure and trustworthy platforms.
+Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-NVIDIA Newsroom • 12h ago
+The Guardian • 6h ago
+
+---
+
+**[Opinion | Don’t forget who fears the AI economy most](https://www.washingtonpost.com/opinions/2026/03/01/artificial-intelligence-economy-anxiety-citrini-research/)**
+
+Artificial intelligence doomer narratives reflect personal fears, not economic reality.
+
+The Washington Post • 3h ago
+
+---
+
+**[NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation](https://blogs.nvidia.com/blog/software-defined-ai-ran/)**
+
+Live field trials, new performance benchmarks, growing operator adoption and partner innovations built on NVIDIA platforms underscore the shift to AI-native 5G and 6G networks.
+
+NVIDIA Blog • 12h ago
 
 ---
 
@@ -205,7 +207,15 @@ The Hacker News • 1d ago
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 351 • 💬 245 • 5h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 360 • 💬 270 • 5h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+
+---
+
+**[I built a demo of what AI chat will look like when it's "free" and ad-supported](https://news.ycombinator.com/item?id=47205890)**
+
+Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
+
+⬆️ 348 • 💬 217 • 7h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -213,7 +223,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 331 • 💬 185 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 331 • 💬 186 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -225,17 +235,9 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 ---
 
-**[I built a demo of what AI chat will look like when it's "free" and ad-supported](https://news.ycombinator.com/item?id=47205890)**
-
-Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
-
-⬆️ 292 • 💬 193 • 7h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
-
----
-
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 161 • 💬 39 • 11h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 177 • 💬 42 • 12h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -255,13 +257,13 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 140 • 💬 105 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 141 • 💬 105 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 90 • 💬 147 • 5h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 94 • 💬 169 • 5h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
@@ -303,7 +305,7 @@ Hayden Field of The Verge joins Andrew Egger to discuss the Pentagon's fight wit
 
 📺 The Bulwark
 
-👁️ 61K • 👍 3K • 💬 285 • ⏱️ 24:24 • 22h ago
+👁️ 61K • 👍 3K • 💬 285 • ⏱️ 24:24 • 23h ago
 
 ---
 
@@ -413,7 +415,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 432,876 • ❤️ 398 • 1d ago
+⬇️ 432,876 • ❤️ 398 • 2d ago
 
 ---
 
@@ -643,7 +645,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.6k • 🔱 2.7k • 52m ago
+⭐ 21.6k • 🔱 2.7k • 1h ago
 
 ---
 
@@ -673,7 +675,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 364 • 54m ago
+⭐ 3.8k • 🔱 364 • 1h ago
 
 ---
 
@@ -723,7 +725,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 331 • 4h ago
+⭐ 3.0k • 🔱 331 • 5h ago
 
 ---
 

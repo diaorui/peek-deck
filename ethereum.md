@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T19:22:48.846503+00:00'
+updated: '2026-03-01T19:43:53.282662+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- news
-- cryptocurrency
 - videos
+- social
+- cryptocurrency
+- news
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 19:22 UTC  
+**Last Updated:** March 01, 2026 at 19:43 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $2,024.54
+### $1,961.20
 
 ---
 
 ## Ethereum Chart
 
-**24h:** +1.8%  
-**7d:** +6.8%  
-**30d:** -19.2%  
-**90d:** -33.8%  
-**1y:** -21.3%  
+**24h:** -0.3%  
+**7d:** +5.5%  
+**30d:** -20.2%  
+**90d:** -34.5%  
+**1y:** -22.3%  
 
 ---
 
@@ -84,19 +84,19 @@ Now, execution layer changes. I've already talked about account abstraction, mul
 
 ---
 
-**[TIL the first on-chain proof of attendance token was deployed at Devcon2 in 2016 — three years before POAP launched](https://www.reddit.com/r/ethereum/comments/1rhxzxq/til_the_first_onchain_proof_of_attendance_token/)**
-
-Piper Merriam deployed the IndividualityTokenRoot contract in September 2016 for Devcon2 in Shanghai. Each attendee could mint a unique on-chain token proving they were there — fully ERC-20 compliant, written in Solidity 0.3.6. The idea was simple: if you attended Devcon2, you could claim a token. The minting window closed after the event. No metadata, no images, no marketplace speculation — just cryptographic proof you were in the room. Three years later, POAP launched at ETHDenver 2019 and turned this concept into a whole ecosystem. But the original idea was already deployed and functional on mainnet in 2016. What I find interesting is how many "firsts" are buried in Ethereum's early history. The Devcon2 token was a working proof-of-attendance system years before anyone coined the term "POAP." Alex Van de Sande's Unicorn token (April 2016) had a DAO-governed token grinder with quadratic voting. The DAO itself was mid-2016. All of this predates DeFi Summer by four years. The contract is still on mainnet: 0xdd94de9cfe063577051a5eb7465d08317d8808b6 Source: Piper Merriam's GitHub repo with deployment details and minting logic. If you're interested in exploring more of these early contracts, ethereumhistory.com has been documenting them — 75+ contracts from 2015-2017 with sourced narratives.
-
-5h ago
-
----
-
 **[Vitalik’s new account abstraction design could change Ethereum wallets](https://www.reddit.com/r/ethereum/comments/1rhtx38/vitaliks_new_account_abstraction_design_could/)**
 
 Ethereum has talked about account abstraction for years, but EIP-8141 might finally move it into the protocol itself. Instead of wallets + relayers handling validation and gas, transactions would contain that logic directly (“frame transactions”). That could enable: • gas in any token • built-in batching • smart-account features for all wallets • no relayers Simple explanation here: https://btcusa.com/ethereum-account-abstraction-reaches-protocol-layer-inside-vitaliks-eip-8141-framework/
 
 9h ago
+
+---
+
+**[TIL the first on-chain proof of attendance token was deployed at Devcon2 in 2016 — three years before POAP launched](https://www.reddit.com/r/ethereum/comments/1rhxzxq/til_the_first_onchain_proof_of_attendance_token/)**
+
+Piper Merriam deployed the IndividualityTokenRoot contract in September 2016 for Devcon2 in Shanghai. Each attendee could mint a unique on-chain token proving they were there — fully ERC-20 compliant, written in Solidity 0.3.6. The idea was simple: if you attended Devcon2, you could claim a token. The minting window closed after the event. No metadata, no images, no marketplace speculation — just cryptographic proof you were in the room. Three years later, POAP launched at ETHDenver 2019 and turned this concept into a whole ecosystem. But the original idea was already deployed and functional on mainnet in 2016. What I find interesting is how many "firsts" are buried in Ethereum's early history. The Devcon2 token was a working proof-of-attendance system years before anyone coined the term "POAP." Alex Van de Sande's Unicorn token (April 2016) had a DAO-governed token grinder with quadratic voting. The DAO itself was mid-2016. All of this predates DeFi Summer by four years. The contract is still on mainnet: 0xdd94de9cfe063577051a5eb7465d08317d8808b6 Source: Piper Merriam's GitHub repo with deployment details and minting logic. If you're interested in exploring more of these early contracts, ethereumhistory.com has been documenting them — 75+ contracts from 2015-2017 with sourced narratives.
+
+5h ago
 
 ---
 
@@ -176,7 +176,7 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeD6cWJQwN8Ei2e9eoNktWqvkRvNPX0GlPjOBKZ5AOeIALv_6YaKHZT&gaa_ts=69a48a7a&gaa_sig=2XMUr-GH75i9NPACcm1XREkR8J8kp_LDXREFAnEF2m6w6FF89Q7ECQnfDtVW-FDpfCb5f2h_qQrwsB6zu_DuJA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqcp81c0MEKsJqCSvP9iMpOkbBAX16ZwdkuRC1WbIjEDV1Q-T6y8dGjp&gaa_ts=69a49a62&gaa_sig=IfD85eMacPpJGCfgiBDCihuFl_Ga-UFoSqIdAhkX4DdUdPoyzcZYRFoB6onE10EX1cJOZ5a1BYZOxTh7Jviydw%3D%3D)**
 
 Barron's • 2d ago
 
@@ -190,19 +190,19 @@ Polymarket • 1d ago
 
 ---
 
+**[Why institutions still prefer Ethereum despite faster blockchains](https://www.tradingview.com/news/cointelegraph:69ebf507b094b:0-why-institutions-still-prefer-ethereum-despite-faster-blockchains/)**
+
+Ethereum continues to host the largest concentration of stablecoins and decentralized finance (DeFi) capital, even as successive waves of faster networks emerge.Newer blockchains have promised higher throughput and lower costs, raising questions about whether institutional capital could eventually…
+
+TradingView • 1d ago
+
+---
+
 **[Key Ethereum Signal Hits 4-Year Low: What’s Next For ETH Price?](https://beincrypto.com/ethereum-holder-retention-rebounds/)**
 
 Ethereum price faces mixed signals as holder retention rebounds while network growth slows and $1,816 support remains critical.
 
-BeInCrypto • 21h ago
-
----
-
-**[Ethereum smart accounts are finally coming 'within a year' — Vitalik Buterin](https://www.tradingview.com/news/cointelegraph:4a9ae37dc094b:0-ethereum-smart-accounts-are-finally-coming-within-a-year-vitalik-buterin/)**
-
-Ethereum account abstraction, or smart accounts, will be shipped with the Hegota upgrade “within a year,” said Vitalik Buterin on Saturday.“We have been talking about account abstraction ever since early 2016,” said the Ethereum co-founder over the weekend. He added that now, “we finally have EIP-8…
-
-TradingView • 16h ago
+BeInCrypto • 22h ago
 
 ---
 
@@ -214,17 +214,19 @@ markets.businessinsider.com • 23h ago
 
 ---
 
-**[Income Hunters Pile In: NEOS Ethereum ETF Sees Nearly 10% AUM Inflow as Ether Slides](https://www.tipranks.com/news/cryptocurrencies/income-hunters-pile-in-neos-ethereum-etf-sees-nearly-10-aum-inflow-as-ether-slides)**
-
-TipRanks • 9h ago
-
----
-
 **[Ethereum Tokens Swiped, Returned After South Korean Tax Service Publishes Wallet Seed Phrases](https://decrypt.co/359404/ethereum-tokens-swiped-returned-south-korean-tax-service)**
 
 South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
 
 Decrypt • 2d ago
+
+---
+
+**[Why Are Bitcoin, Ethereum and XRP Prices Going Up Today?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-going-up-today-4/)**
+
+The crypto market is staging a sharp comeback today, with total market capitalization climbing back above $2.3 trillion. After days of heavy selling and
+
+Coinpedia Fintech News • 10h ago
 
 ---
 
@@ -248,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 134 • 💬 9 • ⏱️ 7:25 • 6h ago
+👁️ 2K • 👍 134 • 💬 9 • ⏱️ 7:25 • 7h ago
 
 ---
 

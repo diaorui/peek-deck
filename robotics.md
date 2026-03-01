@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T19:22:48.849997+00:00'
+updated: '2026-03-01T19:43:53.285932+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
-- social
 - videos
+- social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 19:22 UTC  
+**Last Updated:** March 01, 2026 at 19:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -46,9 +46,15 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 ---
 
+**[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
+
+53m ago
+
+---
+
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -70,13 +76,13 @@ Enjoy the videos and music you love, upload original content, and share it all w
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-3h ago
+4h ago
 
 ---
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -96,14 +102,6 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 ---
 
-**[Need help finding/converting a 2-DOF Robotic Arm model for MATLAB (XML)](https://www.reddit.com/r/robotics/comments/1rhtgwy/need_help_findingconverting_a_2dof_robotic_arm/)**
-
-Yo everyone! ​I’m a third-year Electrical Engineering student currently working on a robotics project involving simulation and control systems. I’ve been trying to get a 2-axis (2-DOF) robotic arm running in MATLAB/Simulink using the Robotics System Toolbox. ​The Problem: I found some cool 3D models of an articulated arm, but they are in SolidWorks format (.SLDPRT and .SLDASM). I’m struggling to get these converted into a clean URDF (XML) file that MATLAB can actually importrobot. ​What I'm looking for: ​Does anyone have a link to a reliable 2-DOF or 3-DOF arm URDF (XML) that is already verified to work in MATLAB? ​If I stick with the SolidWorks models I found, what is the fastest way to export them to URDF without the file becoming a mess of hidden .xml extensions or broken joint links? ​Any tips on setting up a basic PID controller in Simulink once the model is imported? ​I’ve checked GitHub but most models are for huge 6-axis industrial arms like the UR5, which is overkill for my current assignment. ​Any links, repos, or advice would be massive! Thanks in advance.
-
-9h ago
-
----
-
 ---
 
 ## Google News: "robotics"
@@ -116,17 +114,9 @@ CNBC • 5h ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdTK99naPJCKaT4c7cIesL1pCxcAll-HQv-Wb_pBUjnfNNdRz-A1dgU&gaa_ts=69a48a7c&gaa_sig=7fFTmdc2sFRg0gYpcEGXNo5vCujeBIxYp2Mn5RgPVQ9b72e2Y0rNAxXUJATyYPWjzohFe30kDnuN8ngB9-a0Eg%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqd34R_FDa0OhsFvyOERrHqYv4sKa_Qw0a10y9pmVujoAARY-lLE5Skf&gaa_ts=69a49a64&gaa_sig=5YdwLNXPcVD7RMld-P2UzC2F6XHCLjrN8uHZxtz5E4TO5vM9gqDlekGl8jtDhKrRjpxd4Yw-NT9kMkxZk77jIA%3D%3D)**
 
 WSJ • 1d ago
-
----
-
-**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
-
-Televised gala offers a showcase and opportunity for the best of Chinese tech
-
-Financial Times • 2d ago
 
 ---
 
@@ -138,29 +128,11 @@ Fortune • 3d ago
 
 ---
 
-**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
 
-Tech Xplore • 2d ago
+Televised gala offers a showcase and opportunity for the best of Chinese tech
 
----
-
-**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
-
-TribLIVE.com • 1d ago
-
----
-
-**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
-
-Coco Robotics launched a new generation of delivery bots
-
-Los Angeles Times • 1d ago
-
----
-
-**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
-
-Bloomberg.com • 2d ago
+Financial Times • 2d ago
 
 ---
 
@@ -172,11 +144,37 @@ news.cgtn.com • 16h ago
 
 ---
 
-**[Germany’s Merz meets China’s tech vanguard, including Alibaba and Unitree CEOs](https://www.scmp.com/tech/article/3344835/germanys-merz-meets-chinas-tech-vanguard-including-alibaba-and-unitree-ceos)**
+**[Performing robots push Chinese tech to center stage](https://asia.nikkei.com/opinion/performing-robots-push-chinese-tech-to-center-stage)**
 
-Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
+Viral clips underscore pace of country's hardware innovation
 
-South China Morning Post • 2d ago
+Nikkei Asia • 2d ago
+
+---
+
+**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+
+Tech Xplore • 2d ago
+
+---
+
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+
+Coco Robotics launched a new generation of delivery bots
+
+Los Angeles Times • 1d ago
+
+---
+
+**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
+
+TribLIVE.com • 1d ago
+
+---
+
+**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+
+Bloomberg • 2d ago
 
 ---
 
@@ -210,7 +208,7 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 198 • 👍 9 • 💬 1 • ⏱️ 4:41 • 2h ago
+👁️ 198 • 👍 9 • 💬 1 • ⏱️ 4:41 • 3h ago
 
 ---
 
