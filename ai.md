@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T19:43:53.268064+00:00'
+updated: '2026-03-01T20:28:47.533847+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - repositories
+- social
+- videos
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 19:43 UTC  
+**Last Updated:** March 01, 2026 at 20:28 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "We have stood up for the values of this country," the Anthropic CEO said, discussing the AI lab's refusal to accept the Pentagon's terms for Claude.
 
-🔗 [Business Insider](https://www.businessinsider.com/dario-amodei-pentagon-free-speech-patriots-american-values-2026-2) • 49m ago
+🔗 [Business Insider](https://www.businessinsider.com/dario-amodei-pentagon-free-speech-patriots-american-values-2026-2) • 1h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 4h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 5h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.
 
-🔗 [Claude](https://claude.com/import-memory) • 2h ago
+🔗 [Claude](https://claude.com/import-memory) • 3h ago
 
 ---
 
@@ -73,7 +73,7 @@ Transfer your preferences, projects, and context from other AI providers into Cl
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-12h ago
+13h ago
 
 ---
 
@@ -81,7 +81,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 In Season 1 of Star Trek: The Original Series, the episode "A Taste of Armageddon" imagined a civilization that had been at war for 500 years — but fought entirely by computer simulation. When the algorithm registered casualties, citizens voluntarily reported to disintegration chambers to be executed. The war was clean, orderly, and endless — because it had been stripped of the horror that might otherwise force a peace. This week, Anthropic refused to let the Pentagon use Claude for autonomous weapons and mass surveillance. Trump responded by banning them from all federal contracts and threatening criminal consequences. I couldn't stop thinking about that episode. Full essay here.
 
-🔗 [substack.com](https://substack.com/home/post/p-189571133) • 26m ago
+🔗 [substack.com](https://substack.com/home/post/p-189571133) • 1h ago
 
 ---
 
@@ -89,7 +89,7 @@ In Season 1 of Star Trek: The Original Series, the episode "A Taste of Armageddo
 
 Un avance revolucionario está cambiando el paradigma del diagnóstico neurodegenerativo. Investigadores han entrenado una IA para analizar patrones sutiles en el habla, pausas y vocabulario que son invisibles para el oído humano, logrando detectar riesgo de Alzheimer hasta una década antes de que aparezcan los síntomas clínicos. Estado Actual: La tecnología está saliendo de los laboratorios y se está aplicando ya en centros de salud de atención primaria como parte de ensayos clínicos y protocolos de cribado preventivo. ¿Por qué es un avance crítico? ▶️ Diagnóstico Precoz: Permite intervenir mucho antes, maximizando la efectividad de los tratamientos actuales y futuros. ▶️ No Invasivo: Solo requiere una grabación de voz de un minuto, eliminando la necesidad de costosas y molestas pruebas invasivas. ▶️ Accesible: Al basarse en software, esta tecnología puede desplegarse en cualquier centro de salud primario del mundo. La tecnología está empezando a entender la enfermedad antes que nosotros. 🩺✨ #SaludIA #AlzheimerResearch #InnovaciónMédica #MedicinaPreventiva #AlzheimerIA #AlzheimerAI
 
-57m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Un avance revolucionario está cambiando el paradigma del diagnóstico neurodege
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-23h ago
+1d ago
 
 ---
 
@@ -123,7 +123,7 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -131,7 +131,7 @@ The Guardian • 2h ago
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 5h ago
 
 Devotion’s founders say the algorithm broke influencer marketing. They want to help brands get back on track.
 
-Vogue • 43m ago
+Vogue • 1h ago
 
 ---
 
@@ -155,7 +155,7 @@ CNN • 1d ago
 
 Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-The Guardian • 6h ago
+The Guardian • 7h ago
 
 ---
 
@@ -171,7 +171,7 @@ The Washington Post • 3h ago
 
 Live field trials, new performance benchmarks, growing operator adoption and partner innovations built on NVIDIA platforms underscore the shift to AI-native 5G and 6G networks.
 
-NVIDIA Blog • 12h ago
+NVIDIA Blog • 13h ago
 
 ---
 
@@ -179,7 +179,7 @@ NVIDIA Blog • 12h ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 1h ago
+The Washington Post • 2h ago
 
 ---
 
@@ -187,7 +187,7 @@ The Washington Post • 1h ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 15h ago
+Financial Times • 16h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Hacker News • 1d ago
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 360 • 💬 270 • 5h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 360 • 💬 270 • 6h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -215,7 +215,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 348 • 💬 217 • 7h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 348 • 💬 217 • 8h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -263,7 +263,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 94 • 💬 169 • 5h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 94 • 💬 169 • 6h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
@@ -285,7 +285,7 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 10K • 👍 686 • 💬 138 • ⏱️ 20:52 • 6h ago
+👁️ 10K • 👍 686 • 💬 138 • ⏱️ 20:52 • 7h ago
 
 ---
 
@@ -335,7 +335,7 @@ Artificial intelligence is now part of the battlefield. During the strike on Ira
 
 📺 Firstpost
 
-👁️ 46K • 👍 949 • 💬 96 • ⏱️ 6:11 • 2h ago
+👁️ 46K • 👍 949 • 💬 96 • ⏱️ 6:11 • 3h ago
 
 ---
 
@@ -665,7 +665,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.8k • 🔱 428 • 17h ago
+⭐ 3.8k • 🔱 428 • 18h ago
 
 ---
 
@@ -675,7 +675,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 364 • 1h ago
+⭐ 3.8k • 🔱 364 • 2h ago
 
 ---
 
@@ -685,7 +685,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 484 • 12h ago
+⭐ 3.6k • 🔱 484 • 13h ago
 
 ---
 
@@ -705,7 +705,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 3.1k • 🔱 307 • 19h ago
+⭐ 3.1k • 🔱 307 • 20h ago
 
 ---
 
@@ -715,7 +715,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 219 • 11h ago
+⭐ 3.1k • 🔱 219 • 12h ago
 
 ---
 

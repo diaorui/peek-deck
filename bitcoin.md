@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T19:43:53.276610+00:00'
+updated: '2026-03-01T20:28:47.542341+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
 - social
 - cryptocurrency
 - news
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 19:43 UTC  
+**Last Updated:** March 01, 2026 at 20:28 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-4h ago
+5h ago
 
 ---
 
 **[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-29m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
 
-8h ago
+9h ago
 
 ---
 
@@ -117,7 +117,7 @@ Thoughts on buying 250 usd worth of bitcoin every week for the next couple of ye
 
 Every day I think about how the Fed is going to carry on forever doing what it is designed to do: a bunch of emotional humans trying to “manage inflation” by printing money out of thin air, in an ever changing political landscape which it claims to be separate from (but we all know it’s not). And I feel my b hole clench up. And then I think about Bitcoin in contrast, and how it’s going to carry on printing a new block every 10 minutes for the rest of our lives. And I have a sigh of relief. 🥲
 
-2h ago
+3h ago
 
 ---
 
@@ -125,7 +125,7 @@ Every day I think about how the Fed is going to carry on forever doing what it i
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-13h ago
+14h ago
 
 ---
 
@@ -133,7 +133,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Ive been trying to buy crypto without going through full kyc verification for a few weeks now and honestly its getting frustrating. Every guide I find online recommends the same stuff, bisq, robosats, atms, but none of those work for my situation Bisq needs you to already have bitcoin to start trading. Robosats is lightning only and the learning curve is steep. Bitcoin atms near me charge 12 percent fees which is insane and most of them require id now anyway All i want is to pay with my debit card or apple pay and get btc or usdc sent to my wallet without uploading my passport and taking a selfie. I dont need full anonymity i just dont want my documents sitting on some exchange server waiting to get leaked I know most big exchanges require kyc now but there has to be something that works for smaller amounts. Is anyone actually buying crypto with a card in 2026 without full verification or is that completely dead Real experiences only please, not just links to articles listing exchanges that changed their policies 2 years ago
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Ive been trying to buy crypto without going through full kyc verification for a 
 
 I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
 
-5h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ Based on my technical analysis, which I do have a few years of experience in, BT
 
 The company holds about 8,285 bitcoin in Coinbase Prime custody, a stake now worth roughly $545 million after a $235 million decline in value over the past three months.
 
-CoinDesk • 6h ago
+CoinDesk • 7h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 6h ago
 
 Bitcoin investors may soon forget the recent correction.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -177,13 +177,13 @@ The Motley Fool • 16h ago
 
 An oil shock from Strait of Hormuz tensions could tighten liquidity, lift Treasury yields, and trigger a Bitcoin liquidity selloff.
 
-Yahoo Finance • 1h ago
+Yahoo Finance • 2h ago
 
 ---
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg • 16h ago
+Bloomberg • 17h ago
 
 ---
 
@@ -199,7 +199,7 @@ Fortune • 2d ago
 
 A 2023-style bottom signal has reappeared for bitcoin, but analysts say weaker liquidity, ETF flow trends, and sticky inflation could limit a repeat of last cycle’s 130% rebound.
 
-Bitbo • 21h ago
+Bitbo • 22h ago
 
 ---
 
@@ -207,7 +207,7 @@ Bitbo • 21h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 2h ago
+Polymarket • 3h ago
 
 ---
 
@@ -227,7 +227,7 @@ Cleveland.com • 1d ago
 
 Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
 
-supercarblondie.com • 8h ago
+supercarblondie.com • 9h ago
 
 ---
 
@@ -253,7 +253,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 One critic replied simply "go away."
 
-⬆️ 4 • 💬 0 • 7h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 4 • 💬 0 • 8h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 20K • 👍 1K • 💬 185 • ⏱️ 19:16 • 19h ago
+👁️ 20K • 👍 1K • 💬 185 • ⏱️ 19:16 • 20h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin #Crypto #Finance While retail investors panic over volatility, instituti
 
 📺 The Wolf Of All Streets
 
-👁️ 10K • 👍 590 • 💬 133 • ⏱️ 29:04 • 5h ago
+👁️ 10K • 👍 590 • 💬 133 • ⏱️ 29:04 • 6h ago
 
 ---
 
@@ -357,7 +357,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 29K • 👍 1K • 💬 237 • ⏱️ 36:35 • 21h ago
+👁️ 29K • 👍 1K • 💬 237 • ⏱️ 36:35 • 22h ago
 
 ---
 
@@ -367,7 +367,7 @@ Geopolitical fear is gripping the markets. News of military strikes in Iran sent
 
 📺 Gareth Soloway
 
-👁️ 78K • 👍 5K • 💬 695 • ⏱️ 12:42 • 23h ago
+👁️ 78K • 👍 5K • 💬 695 • ⏱️ 12:42 • 1d ago
 
 ---
 
@@ -407,7 +407,7 @@ BUY THE invasion usually plays out in the short term, but in the LONG term it is
 
 📺 Digital Asset News
 
-👁️ 1K • 👍 167 • 💬 6 • ⏱️ 32:26 • 1h ago
+👁️ 1K • 👍 167 • 💬 6 • ⏱️ 32:26 • 2h ago
 
 ---
 
