@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T21:45:24.481537+00:00'
+updated: '2026-03-01T22:25:59.860549+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - videos
+- social
 - news
 - repositories
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 21:45 UTC  
+**Last Updated:** March 01, 2026 at 22:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,19 +37,11 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
-**[Anthropic CEO Dario Amodei: 'Disagreeing with the government is the most American thing in the world'](https://www.reddit.com/r/artificial/comments/1ri5kbl/anthropic_ceo_dario_amodei_disagreeing_with_the/)**
-
-"We have stood up for the values of this country," the Anthropic CEO said, discussing the AI lab's refusal to accept the Pentagon's terms for Claude.
-
-🔗 [Business Insider](https://www.businessinsider.com/dario-amodei-pentagon-free-speech-patriots-american-values-2026-2) • 2h ago
-
----
-
 **[OpenAI eyes global domination with $110B Amazon and NVIDIA raise, value hits $840B](https://www.reddit.com/r/artificial/comments/1rhzn14/openai_eyes_global_domination_with_110b_amazon/)**
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 6h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 7h ago
 
 ---
 
@@ -65,7 +57,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.
 
-🔗 [Claude](https://claude.com/import-memory) • 4h ago
+🔗 [Claude](https://claude.com/import-memory) • 5h ago
 
 ---
 
@@ -73,23 +65,23 @@ Transfer your preferences, projects, and context from other AI providers into Cl
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-14h ago
+15h ago
 
 ---
 
-**['Silent failure at scale': The AI risk that can tip the business world into disorder](https://www.reddit.com/r/artificial/comments/1ri8a80/silent_failure_at_scale_the_ai_risk_that_can_tip/)**
+**[Fuck Prompt Engineering, but What's Better?](https://www.reddit.com/r/artificial/comments/1riaqqu/fuck_prompt_engineering_but_whats_better/)**
 
-As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
+AI images are slop. In this article, I explore how to make use of multiple models and their strengths to improve the quality of AI-generated images.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html) • 1h ago
+🔗 [therantydev.com](https://www.therantydev.com/the-three-stage-image-gen-pipeline) • 15m ago
 
 ---
 
-**[🧠 [FASE ENSAYO/APLICACIÓN PRIMARIA] IA detecta el Alzheimer 10 años antes mediante análisis de voz](https://www.reddit.com/r/artificial/comments/1ri5car/fase_ensayoaplicación_primaria_ia_detecta_el/)**
+**[I've made an AI that makes realpolitik analyses](https://www.reddit.com/r/artificial/comments/1ri990z/ive_made_an_ai_that_makes_realpolitik_analyses/)**
 
-Un avance revolucionario está cambiando el paradigma del diagnóstico neurodegenerativo. Investigadores han entrenado una IA para analizar patrones sutiles en el habla, pausas y vocabulario que son invisibles para el oído humano, logrando detectar riesgo de Alzheimer hasta una década antes de que aparezcan los síntomas clínicos. Estado Actual: La tecnología está saliendo de los laboratorios y se está aplicando ya en centros de salud de atención primaria como parte de ensayos clínicos y protocolos de cribado preventivo. ¿Por qué es un avance crítico? ▶️ Diagnóstico Precoz: Permite intervenir mucho antes, maximizando la efectividad de los tratamientos actuales y futuros. ▶️ No Invasivo: Solo requiere una grabación de voz de un minuto, eliminando la necesidad de costosas y molestas pruebas invasivas. ▶️ Accesible: Al basarse en software, esta tecnología puede desplegarse en cualquier centro de salud primario del mundo. La tecnología está empezando a entender la enfermedad antes que nosotros. 🩺✨ #SaludIA #AlzheimerResearch #InnovaciónMédica #MedicinaPreventiva #AlzheimerIA #AlzheimerAI
+I've created sombra, an AI that makes analyses of news and gives you a map of: the main agents involved; their goal; what they'll probably do to achieve said goal. The AI is currently a telegram bot called sombra_strategy_bot It works really well, in my opinion. I'm going to post in the comments an analysis it made about the Iran-US situation. My question is: how do I market it? I need users to improve it, but the kind of people that would use this professionally are not easy to get a hold of.
 
-2h ago
+1h ago
 
 ---
 
@@ -107,6 +99,14 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 ---
 
+**[upvote if u think im AI](https://www.reddit.com/r/artificial/comments/1ri9zw7/upvote_if_u_think_im_ai/)**
+
+AM I?
+
+45m ago
+
+---
+
 **[I built a tool to automate your workflow after recording yourself doing the task once (Open Source)](https://www.reddit.com/r/artificial/comments/1rhag6l/i_built_a_tool_to_automate_your_workflow_after/)**
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
@@ -119,9 +119,11 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 ## Google News: "ai"
 
-**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
+**[AI executive Dario Amodei on the red lines Anthropic would not cross](https://www.cbsnews.com/news/ai-executive-dario-amodei-on-the-red-lines-anthropic-would-not-cross/)**
 
-The New York Times • 1d ago
+The CEO of Anthropic says his company refused to allow its technology to be used by the Trump Administration without certain guidelines (such as not using its AI to power fully-autonomous weapons without any human involvement).
+
+CBS News • 7h ago
 
 ---
 
@@ -129,7 +131,31 @@ The New York Times • 1d ago
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-CNBC • 7h ago
+CNBC • 8h ago
+
+---
+
+**[An Ohio newspaper has a new star writer. It isn’t human.](https://www.washingtonpost.com/technology/2026/03/01/ai-journalism-writing-cleveland-plain-dealer/)**
+
+At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
+
+The Washington Post • 4h ago
+
+---
+
+**[AI-resistant ‘halo’ stocks drive UK and EU markets to record highs](https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs)**
+
+Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
+
+The Guardian • 9h ago
+
+---
+
+**[Investors beware: These stocks are the most at risk from AI disruption](https://www.cnbc.com/2026/03/01/investors-beware-these-stocks-are-the-most-at-risk-from-ai-disruption.html)**
+
+Jefferies found a basket of "AI risk" stocks, ranging from MongoDB to Robinhood, that could be under threat as the technology develops.
+
+CNBC • 9h ago
 
 ---
 
@@ -141,14 +167,6 @@ CNN • 1d ago
 
 ---
 
-**[An Ohio newspaper has a new star writer. It isn’t human.](https://www.washingtonpost.com/technology/2026/03/01/ai-journalism-writing-cleveland-plain-dealer/)**
-
-At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
-
-The Washington Post • 3h ago
-
----
-
 **[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
 
 From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
@@ -157,17 +175,9 @@ Fortune • 1d ago
 
 ---
 
-**[How AI Could Wreck Your 401(k)](https://www.forbes.com/sites/baldwin/2026/02/28/warning-ai-is-coming-for-your-401k/)**
+**[Vermont has few guardrails to restrict how lawyers use AI](https://vtdigger.org/2026/03/01/vermont-has-few-guardrails-to-restrict-how-lawyers-use-ai/)**
 
-Forbes • 10h ago
-
----
-
-**[Opinion | Elites fear the future economy. That bleeds.](https://www.washingtonpost.com/opinions/2026/03/01/artificial-intelligence-economy-anxiety-citrini-research/)**
-
-Artificial intelligence doomer narratives reflect personal fears, not economic reality.
-
-The Washington Post • 1h ago
+VTDigger • 10h ago
 
 ---
 
@@ -175,7 +185,7 @@ The Washington Post • 1h ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 17h ago
+Financial Times • 18h ago
 
 ---
 
@@ -183,13 +193,7 @@ Financial Times • 17h ago
 
 Live field trials, new performance benchmarks, growing operator adoption and partner innovations built on NVIDIA platforms underscore the shift to AI-native 5G and 6G networks.
 
-NVIDIA Blog • 14h ago
-
----
-
-**[Jack Dorsey’s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing](https://www.bloomberg.com/news/articles/2026-03-01/jack-dorsey-s-4-000-job-cuts-at-block-arouse-suspicions-of-ai-washing)**
-
-Bloomberg.com • 5h ago
+NVIDIA Blog • 15h ago
 
 ---
 
@@ -201,7 +205,7 @@ Bloomberg.com • 5h ago
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 378 • 💬 231 • 9h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 415 • 💬 246 • 10h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -209,7 +213,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 363 • 💬 278 • 7h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 367 • 💬 280 • 8h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -225,13 +229,13 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 318 • 💬 187 • 1d ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 320 • 💬 187 • 1d ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 189 • 💬 45 • 14h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 208 • 💬 45 • 14h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -251,21 +255,19 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 144 • 💬 105 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 145 • 💬 110 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 106 • 💬 188 • 7h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 130 • 💬 230 • 8h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
-**[PostmarketOS in 2026-02: generic kernels, bans use of generative AI](https://news.ycombinator.com/item?id=47179553)**
+**[HN is drowning in AI comments](https://news.ycombinator.com/item?id=47201629)**
 
-Aiming for a 10 year life-cycle for smartphones
-
-⬆️ 84 • 💬 102 • 2d ago • [postmarketOS](https://postmarketos.org/blog/2026/02/26/pmOS-update-2026-02/)
+⬆️ 86 • 💬 63 • 22h ago
 
 ---
 
@@ -279,7 +281,7 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 14K • 👍 820 • 💬 158 • ⏱️ 20:52 • 8h ago
+👁️ 14K • 👍 820 • 💬 158 • ⏱️ 20:52 • 9h ago
 
 ---
 
@@ -349,7 +351,7 @@ Artificial intelligence has gone from miracle cure to market threat in a matter 
 
 📺 David Woo Unbound
 
-👁️ 2K • 👍 125 • 💬 35 • ⏱️ 14:25 • 9h ago
+👁️ 2K • 👍 125 • 💬 35 • ⏱️ 14:25 • 10h ago
 
 ---
 
@@ -639,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.6k • 🔱 2.7k • 53m ago
+⭐ 21.6k • 🔱 2.7k • 1h ago
 
 ---
 
@@ -659,7 +661,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.9k • 🔱 443 • 1h ago
+⭐ 3.9k • 🔱 443 • 2h ago
 
 ---
 
@@ -669,7 +671,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 364 • 2h ago
+⭐ 3.8k • 🔱 364 • 3h ago
 
 ---
 
@@ -679,7 +681,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 484 • 14h ago
+⭐ 3.6k • 🔱 484 • 15h ago
 
 ---
 
@@ -699,7 +701,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 3.1k • 🔱 314 • 21h ago
+⭐ 3.1k • 🔱 314 • 22h ago
 
 ---
 
@@ -709,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 220 • 13h ago
+⭐ 3.1k • 🔱 220 • 14h ago
 
 ---
 

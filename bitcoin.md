@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T21:45:24.489922+00:00'
+updated: '2026-03-01T22:25:59.868852+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
 - videos
-- cryptocurrency
+- social
 - news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 21:45 UTC  
+**Last Updated:** March 01, 2026 at 22:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,293.12
+### $66,370.32
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -2.1%  
-**7d:** +1.0%  
-**30d:** -17.1%  
-**90d:** -28.7%  
-**1y:** -30.8%  
+**24h:** -1.3%  
+**7d:** +2.2%  
+**30d:** -16.1%  
+**90d:** -27.8%  
+**1y:** -30.0%  
 
 ---
 
@@ -79,7 +79,15 @@ Rank #1
 
 **[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-2h ago
+3h ago
+
+---
+
+**[The 20 millionth Bitcoin gets mined in 2 weeks. Is anyone else thinking about what comes after?](https://www.reddit.com/r/Bitcoin/comments/1ri99w7/the_20_millionth_bitcoin_gets_mined_in_2_weeks_is/)**
+
+Everyone's focused on the price crash right now. Meanwhile in 2 weeks the 20 millionth Bitcoin gets mined quietly with zero fanfare. 95% of all Bitcoin that will ever exist already exists. The remaining 1 million takes 114 years to distribute. And somewhere between 2-4 million are already gone forever — lost wallets, dead hard drives, forgotten keys. So the real number isn't even 20 million. It's closer to 16-17 million. Held by maybe 50-100 million people worldwide. What gets me is the timing. People panic selling at $63K while one of the most significant supply milestones in Bitcoin history approaches in literally 14 days. Anyone else find it wild that this isn't the biggest story in crypto right now?
+
+1h ago
 
 ---
 
@@ -87,7 +95,31 @@ Rank #1
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-6h ago
+7h ago
+
+---
+
+**[The road to 1 is stilllll so long.](https://www.reddit.com/r/Bitcoin/comments/1ri877c/the_road_to_1_is_stilllll_so_long/)**
+
+Hit .70 btc….Endless schloggggg to 1.
+
+1h ago
+
+---
+
+**[Is it time to buy Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1ri4k4k/is_it_time_to_buy_bitcoin/)**
+
+Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
+
+4h ago
+
+---
+
+**[Telling others to HODL while you secretly sell off your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ri9v0w/telling_others_to_hodl_while_you_secretly_sell/)**
+
+Feels like that's what's happening right now.
+
+50m ago
 
 ---
 
@@ -117,39 +149,7 @@ Thoughts on buying 250 usd worth of bitcoin every week for the next couple of ye
 
 Every day I think about how the Fed is going to carry on forever doing what it is designed to do: a bunch of emotional humans trying to “manage inflation” by printing money out of thin air, in an ever changing political landscape which it claims to be separate from (but we all know it’s not). And I feel my b hole clench up. And then I think about Bitcoin in contrast, and how it’s going to carry on printing a new block every 10 minutes for the rest of our lives. And I have a sigh of relief. 🥲
 
-4h ago
-
----
-
-**[Is it time to buy Bitcoin?](https://www.reddit.com/r/Bitcoin/comments/1ri4k4k/is_it_time_to_buy_bitcoin/)**
-
-Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
-
-3h ago
-
----
-
-**[The road to 1 is stilllll so long.](https://www.reddit.com/r/Bitcoin/comments/1ri877c/the_road_to_1_is_stilllll_so_long/)**
-
-Hit .70 btc….Endless schloggggg to 1.
-
-1h ago
-
----
-
-**[Daily Discussion, March 01, 2026](https://www.reddit.com/r/Bitcoin/comments/1rhpo3d/daily_discussion_march_01_2026/)**
-
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
-
-15h ago
-
----
-
-**[What would you change in the way I manage my btc?](https://www.reddit.com/r/Bitcoin/comments/1rhy5y7/what_would_you_change_in_the_way_i_manage_my_btc/)**
-
-I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
-
-7h ago
+5h ago
 
 ---
 
@@ -161,15 +161,15 @@ I keep in cold storage only a little part of my btc. The rest of them are into m
 
 The company holds about 8,285 bitcoin in Coinbase Prime custody, a stake now worth roughly $545 million after a $235 million decline in value over the past three months.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
-**[Bitcoin Is Headed to $500,000. This Wall Street Analyst Explains Why.](https://www.fool.com/investing/2026/02/28/bitcoin-is-headed-to-500000-this-wall-street-analy/)**
+**[Better Cryptocurrency to Buy Now With $1,000 And Hold For 3 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/03/01/better-cryptocurrency-to-buy-now-with-1000-and-hol/)**
 
-Bitcoin investors may soon forget the recent correction.
+The landscape is shifting rapidly, and these two coins are adapting differently.
 
-The Motley Fool • 19h ago
+The Motley Fool • 16h ago
 
 ---
 
@@ -177,7 +177,15 @@ The Motley Fool • 19h ago
 
 An oil shock from Strait of Hormuz tensions could tighten liquidity, lift Treasury yields, and trigger a Bitcoin liquidity selloff.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
+
+---
+
+**[Crypto News: Pepeto Announces $7.39M Presale Fast As Bitcoin Targets $250,000 And Ethereum Targets $6,000 After The Death Of Khamenei](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-7-39m-presale-fast-as-bitcoin-targets-250-000-and-ethereum-targets-6-000-after-the-death-of-khamenei-1035882492)**
+
+Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces that it has raised over $7.391 million and the allocation is disappearing faster...
+
+markets.businessinsider.com • 1h ago
 
 ---
 
@@ -191,7 +199,15 @@ Yahoo Finance • 3h ago
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 18h ago
+Bloomberg.com • 19h ago
+
+---
+
+**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1772400600)**
+
+Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -203,31 +219,19 @@ Fortune • 3d ago
 
 ---
 
-**[2023 Bitcoin Bottom Signal Flashes Again as Macro Shifts](https://bitbo.io/news/bitcoin-bottom-signal-macro/)**
+**[Someone invested over $7,000 into Bitcoin 14 years ago and what it's worth now is almost incomprehensible](https://supercarblondie.com/tech/7000-invested-bitcoin-14-years-ago-value-now/)**
 
-A 2023-style bottom signal has reappeared for bitcoin, but analysts say weaker liquidity, ETF flow trends, and sticky inflation could limit a repeat of last cycle’s 130% rebound.
+Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
 
-Bitbo • 23h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772371200)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 4h ago
+supercarblondie.com • 11h ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqeMMocxRF-YaQIMKUQqot0QeNCy0NboNFCgMAgdInbej6xzilvoiNWl&gaa_ts=69a4aa22&gaa_sig=_8git7rRHzFrAwg2BUq7sQc7BeCoWLxP4fFkcO0cI2rUW5xAdyZtIQXgrs5HycME3h_B4qr_E6H_B8NIofWSiA%3D%3D)**
+**[Bitcoin Crashed 50% in 4 Months. Fidelity Says That’s a Good Thing](https://gizmodo.com/bitcoin-crashed-50-in-4-months-fidelity-says-thats-a-good-thing-2000727284)**
 
-Barron's • 2d ago
+Fidelity Digital Assets analysts do see one ray of hope for bitcoin maxis.
 
----
-
-**[I’m buying this Bitcoin dip every day: Money Talks](https://www.cleveland.com/business/2026/02/im-buying-this-bitcoin-dip-every-day-money-talks.html)**
-
-Cleveland.com • 1d ago
+Gizmodo • 2d ago
 
 ---
 
@@ -253,7 +257,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 One critic replied simply "go away."
 
-⬆️ 4 • 💬 0 • 9h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 4 • 💬 0 • 10h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -317,7 +321,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 172 • ⏱️ 19:16 • 21h ago
+👁️ 21K • 👍 1K • 💬 172 • ⏱️ 19:16 • 22h ago
 
 ---
 
@@ -327,7 +331,7 @@ Bitcoin #Crypto #Finance While retail investors panic over volatility, instituti
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 755 • 💬 172 • ⏱️ 29:04 • 7h ago
+👁️ 15K • 👍 755 • 💬 172 • ⏱️ 29:04 • 8h ago
 
 ---
 
@@ -367,7 +371,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 258 • ⏱️ 36:35 • 23h ago
+👁️ 31K • 👍 1K • 💬 258 • ⏱️ 36:35 • 1d ago
 
 ---
 
@@ -397,7 +401,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 13K • 👍 562 • 💬 82 • ⏱️ 10:08 • 10h ago
+👁️ 13K • 👍 562 • 💬 82 • ⏱️ 10:08 • 11h ago
 
 ---
 

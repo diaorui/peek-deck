@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T21:45:24.499139+00:00'
+updated: '2026-03-01T22:25:59.878043+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 21:45 UTC  
+**Last Updated:** March 01, 2026 at 22:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,12 +40,6 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 ---
 
-**[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
-
-1d ago
-
----
-
 **[Amsterdam Robotics Club meetup at DeltaQuad Drones](https://www.reddit.com/r/robotics/comments/1ri871p/amsterdam_robotics_club_meetup_at_deltaquad_drones/)**
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
@@ -54,9 +48,15 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 ---
 
+**[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
+
+1d ago
+
+---
+
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -70,7 +70,7 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 7h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 8h ago
 
 ---
 
@@ -110,13 +110,21 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 7h ago
+CNBC • 8h ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeOCKd_mzhtnB8-RfR_JzEJsnB-gstUoZQoKxj2JmJXT6IeAWbLx_2S&gaa_ts=69a4aa94&gaa_sig=iqDx42qrKCDdNqJpeZa0gObBCNk17Z0OX2GiNptY1eY9h8sOEhh12iJBGAdIxdhTBADt2iNTQkTWLG9OSHQTUg%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeI3w_yKecYG1XKLXI7F2VzQUuJvbsgM4uUIFdSMIIbWYcs13IZ3ijz&gaa_ts=69a4c066&gaa_sig=ZUjz-qkIazR2VPjk82h__7qL-YFQDU7bElKHmTAbV0fy5S4cTvGmVW46RFtoy2fSw5OqLOpaKx12yBvE_XIXoQ%3D%3D)**
 
-WSJ • 1d ago
+WSJ • 2d ago
+
+---
+
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+
+Coco Robotics launched a new generation of delivery bots
+
+Los Angeles Times • 1d ago
 
 ---
 
@@ -158,23 +166,17 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
-
-TribLIVE.com • 1d ago
-
----
-
-**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
-
-Coco Robotics launched a new generation of delivery bots
-
-Los Angeles Times • 1d ago
-
----
-
-**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
 
 Bloomberg.com • 2d ago
+
+---
+
+**[Germany’s Merz meets China’s tech vanguard, including Alibaba and Unitree CEOs](https://www.scmp.com/tech/article/3344835/germanys-merz-meets-chinas-tech-vanguard-including-alibaba-and-unitree-ceos)**
+
+Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
+
+South China Morning Post • 2d ago
 
 ---
 
@@ -188,7 +190,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 78K • 👍 5K • 💬 245 • ⏱️ 21:58 • 20h ago
+👁️ 78K • 👍 5K • 💬 245 • ⏱️ 21:58 • 21h ago
 
 ---
 
