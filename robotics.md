@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T20:28:47.551598+00:00'
+updated: '2026-03-01T20:52:54.621961+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
+- social
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 20:28 UTC  
+**Last Updated:** March 01, 2026 at 20:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-9h ago
+10h ago
 
 ---
 
@@ -46,15 +46,23 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 ---
 
+**[Amsterdam Robotics Club meetup at DeltaQuad Drones](https://www.reddit.com/r/robotics/comments/1ri871p/amsterdam_robotics_club_meetup_at_deltaquad_drones/)**
+
+Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
+
+21m ago
+
+---
+
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-1h ago
+2h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -70,19 +78,13 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 2h ago
+🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 3h ago
 
 ---
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-4h ago
-
----
-
-**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
-
-17h ago
+5h ago
 
 ---
 
@@ -94,11 +96,9 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 ---
 
-**[My DWA (Dynamic Window Approach) in a Robot Vacuum Cleaner.](https://www.reddit.com/r/robotics/comments/1rh1kvy/my_dwa_dynamic_window_approach_in_a_robot_vacuum/)**
+**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
-
-1d ago
+18h ago
 
 ---
 
@@ -114,7 +114,7 @@ CNBC • 6h ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqd34R_FDa0OhsFvyOERrHqYv4sKa_Qw0a10y9pmVujoAARY-lLE5Skf&gaa_ts=69a49a64&gaa_sig=5YdwLNXPcVD7RMld-P2UzC2F6XHCLjrN8uHZxtz5E4TO5vM9gqDlekGl8jtDhKrRjpxd4Yw-NT9kMkxZk77jIA%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeOCKd_mzhtnB8-RfR_JzEJsnB-gstUoZQoKxj2JmJXT6IeAWbLx_2S&gaa_ts=69a4aa94&gaa_sig=iqDx42qrKCDdNqJpeZa0gObBCNk17Z0OX2GiNptY1eY9h8sOEhh12iJBGAdIxdhTBADt2iNTQkTWLG9OSHQTUg%3D%3D)**
 
 WSJ • 1d ago
 
@@ -140,7 +140,7 @@ Financial Times • 2d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 17h ago
+news.cgtn.com • 18h ago
 
 ---
 
@@ -158,6 +158,12 @@ Tech Xplore • 2d ago
 
 ---
 
+**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
+
+TribLIVE.com • 1d ago
+
+---
+
 **[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
 
 Coco Robotics launched a new generation of delivery bots
@@ -166,15 +172,9 @@ Los Angeles Times • 1d ago
 
 ---
 
-**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
-
-TribLIVE.com • 1d ago
-
----
-
 **[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
 
-Bloomberg • 2d ago
+Bloomberg.com • 2d ago
 
 ---
 
@@ -182,23 +182,13 @@ Bloomberg • 2d ago
 
 ## YouTube Videos: "robotics"
 
-**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
-
-Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
-
-📺 AI Revolution
-
-👁️ 169K • 👍 2K • 💬 341 • ⏱️ 14:16 • 6d ago
-
----
-
 **[Building a Robot so I don&#39;t get kicked out of Uni](https://www.youtube.com/watch?v=QZeO-wh_1HY)**
 
 Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
 
 📺 Tazer
 
-👁️ 62K • 👍 4K • 💬 223 • ⏱️ 21:58 • 19h ago
+👁️ 78K • 👍 5K • 💬 245 • ⏱️ 21:58 • 19h ago
 
 ---
 
@@ -208,7 +198,7 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 198 • 👍 9 • 💬 1 • ⏱️ 4:41 • 3h ago
+👁️ 520 • 👍 14 • 💬 2 • ⏱️ 4:41 • 4h ago
 
 ---
 
@@ -218,17 +208,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 92K • 👍 1K • 💬 357 • ⏱️ 12:16 • 2d ago
-
----
-
-**[The Hard Truth About Mass Robot Deployment](https://www.youtube.com/watch?v=VTbd0_n9qQA)**
-
-Tesla just shut down Model S and X lines to pivot toward Optimus production — but is this a real robotics breakthrough or a ...
-
-📺 Dumb Money Live
-
-👁️ 13K • 👍 367 • 💬 131 • ⏱️ 13:15 • 1d ago
+👁️ 95K • 👍 1K • 💬 367 • ⏱️ 12:16 • 2d ago
 
 ---
 
@@ -238,7 +218,17 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 65K • 👍 310 • 💬 119 • ⏱️ 2:18 • 3d ago
+👁️ 66K • 👍 311 • 💬 120 • ⏱️ 2:18 • 3d ago
+
+---
+
+**[China’s New AI Robots Shock Everyone With Impossible Skills](https://www.youtube.com/watch?v=DfCRrrrzscQ)**
+
+Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a new phase of humanoid robotics in public, with ...
+
+📺 AI Revolution
+
+👁️ 170K • 👍 2K • 💬 341 • ⏱️ 14:16 • 6d ago
 
 ---
 
@@ -248,27 +238,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 111 • 💬 25 • ⏱️ 24:08 • 3d ago
-
----
-
-**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
-
-Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
-
-📺 SciVion
-
-👁️ 34K • 👍 707 • 💬 16 • ⏱️ 0:35 • 1d ago
-
----
-
-**[Unitree Introducing | Unitree As2  Your Companion](https://www.youtube.com/watch?v=1ONE4l_pgHw)**
-
-Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of no-load runtime, IP54 rainproof design. With a 15 ...
-
-📺 Unitree Robotics
-
-👁️ 2.4M • 👍 3K • 💬 423 • ⏱️ 0:58 • 5d ago
+👁️ 3K • 👍 112 • 💬 25 • ⏱️ 24:08 • 3d ago
 
 ---
 
@@ -278,7 +248,35 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 313K • 👍 2K • 💬 824 • ⏱️ 0:55 • 3d ago
+👁️ 322K • 👍 2K • 💬 834 • ⏱️ 0:55 • 3d ago
+
+---
+
+**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
+
+Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
+
+📺 SciVion
+
+👁️ 35K • 👍 711 • 💬 16 • ⏱️ 0:35 • 1d ago
+
+---
+
+**[He is so cute with this mini robot 🥹 (robot now on sale💕)#couples #longdistancerelationship #robot](https://www.youtube.com/watch?v=V4WwHl2pcDk)**
+
+📺 Romi Pal
+
+👁️ 92K • 👍 1K • 💬 30 • ⏱️ 0:19 • 3d ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 132K • 👍 3K • 💬 1K • ⏱️ 7:18 • 5d ago
 
 ---
 

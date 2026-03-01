@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T20:28:47.533847+00:00'
+updated: '2026-03-01T20:52:54.604390+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
-- social
 - videos
+- social
 - news
+- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 20:28 UTC  
+**Last Updated:** March 01, 2026 at 20:52 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -57,7 +57,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 9h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 10h ago
 
 ---
 
@@ -77,11 +77,11 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 ---
 
-**[The danger isn't AI that wages war. It's AI that makes war abstract enough to wage forever.](https://www.reddit.com/r/artificial/comments/1ri67nt/the_danger_isnt_ai_that_wages_war_its_ai_that/)**
+**['Silent failure at scale': The AI risk that can tip the business world into disorder](https://www.reddit.com/r/artificial/comments/1ri8a80/silent_failure_at_scale_the_ai_risk_that_can_tip/)**
 
-In Season 1 of Star Trek: The Original Series, the episode "A Taste of Armageddon" imagined a civilization that had been at war for 500 years — but fought entirely by computer simulation. When the algorithm registered casualties, citizens voluntarily reported to disintegration chambers to be executed. The war was clean, orderly, and endless — because it had been stripped of the horror that might otherwise force a peace. This week, Anthropic refused to let the Pentagon use Claude for autonomous weapons and mass surveillance. Trump responded by banning them from all federal contracts and threatening criminal consequences. I couldn't stop thinking about that episode. Full essay here.
+As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-🔗 [substack.com](https://substack.com/home/post/p-189571133) • 1h ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html) • 17m ago
 
 ---
 
@@ -89,7 +89,7 @@ In Season 1 of Star Trek: The Original Series, the episode "A Taste of Armageddo
 
 Un avance revolucionario está cambiando el paradigma del diagnóstico neurodegenerativo. Investigadores han entrenado una IA para analizar patrones sutiles en el habla, pausas y vocabulario que son invisibles para el oído humano, logrando detectar riesgo de Alzheimer hasta una década antes de que aparezcan los síntomas clínicos. Estado Actual: La tecnología está saliendo de los laboratorios y se está aplicando ya en centros de salud de atención primaria como parte de ensayos clínicos y protocolos de cribado preventivo. ¿Por qué es un avance crítico? ▶️ Diagnóstico Precoz: Permite intervenir mucho antes, maximizando la efectividad de los tratamientos actuales y futuros. ▶️ No Invasivo: Solo requiere una grabación de voz de un minuto, eliminando la necesidad de costosas y molestas pruebas invasivas. ▶️ Accesible: Al basarse en software, esta tecnología puede desplegarse en cualquier centro de salud primario del mundo. La tecnología está empezando a entender la enfermedad antes que nosotros. 🩺✨ #SaludIA #AlzheimerResearch #InnovaciónMédica #MedicinaPreventiva #AlzheimerIA #AlzheimerAI
 
-1h ago
+2h ago
 
 ---
 
@@ -119,11 +119,9 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 ## Google News: "ai"
 
-**[US military reportedly used Claude in Iran strikes despite Trump’s ban](https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military)**
+**[OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)**
 
-Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’
-
-The Guardian • 3h ago
+The New York Times • 1d ago
 
 ---
 
@@ -135,43 +133,11 @@ CNBC • 6h ago
 
 ---
 
-**[A New AI Influencer Marketing Agency Is Here for the Post-Follower Era](https://www.vogue.com/article/a-new-ai-influencer-marketing-agency-is-here-for-the-post-follower-era)**
-
-Devotion’s founders say the algorithm broke influencer marketing. They want to help brands get back on track.
-
-Vogue • 1h ago
-
----
-
 **[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
 
 Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
 
 CNN • 1d ago
-
----
-
-**[AI-resistant ‘halo’ stocks drive UK and EU markets to record highs](https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs)**
-
-Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
-
-The Guardian • 7h ago
-
----
-
-**[Opinion | Don’t forget who fears the AI economy most](https://www.washingtonpost.com/opinions/2026/03/01/artificial-intelligence-economy-anxiety-citrini-research/)**
-
-Artificial intelligence doomer narratives reflect personal fears, not economic reality.
-
-The Washington Post • 3h ago
-
----
-
-**[NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation](https://blogs.nvidia.com/blog/software-defined-ai-ran/)**
-
-Live field trials, new performance benchmarks, growing operator adoption and partner innovations built on NVIDIA platforms underscore the shift to AI-native 5G and 6G networks.
-
-NVIDIA Blog • 13h ago
 
 ---
 
@@ -183,6 +149,28 @@ The Washington Post • 2h ago
 
 ---
 
+**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
+
+From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
+
+Fortune • 1d ago
+
+---
+
+**[How AI Could Wreck Your 401(k)](https://www.forbes.com/sites/baldwin/2026/02/28/warning-ai-is-coming-for-your-401k/)**
+
+Forbes • 9h ago
+
+---
+
+**[Opinion | Elites fear the future economy. That bleeds.](https://www.washingtonpost.com/opinions/2026/03/01/artificial-intelligence-economy-anxiety-citrini-research/)**
+
+Artificial intelligence doomer narratives reflect personal fears, not economic reality.
+
+The Washington Post • 52m ago
+
+---
+
 **[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
@@ -191,11 +179,17 @@ Financial Times • 16h ago
 
 ---
 
-**[ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)**
+**[NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation](https://blogs.nvidia.com/blog/software-defined-ai-ran/)**
 
-OpenClaw patches ClawJacked flaw, log poisoning bug, and multiple CVEs as 71 malicious ClawHub skills spread malware and crypto scams.
+Live field trials, new performance benchmarks, growing operator adoption and partner innovations built on NVIDIA platforms underscore the shift to AI-native 5G and 6G networks.
 
-The Hacker News • 1d ago
+NVIDIA Blog • 13h ago
+
+---
+
+**[Jack Dorsey’s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing](https://www.bloomberg.com/news/articles/2026-03-01/jack-dorsey-s-4-000-job-cuts-at-block-arouse-suspicions-of-ai-washing)**
+
+Bloomberg.com • 4h ago
 
 ---
 
@@ -203,19 +197,19 @@ The Hacker News • 1d ago
 
 ## HackerNews: "ai"
 
-**[AI Made Writing Code Easier. It Made Being an Engineer Harder](https://news.ycombinator.com/item?id=47206824)**
-
-Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
-
-⬆️ 360 • 💬 270 • 6h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
-
----
-
 **[I built a demo of what AI chat will look like when it's "free" and ad-supported](https://news.ycombinator.com/item?id=47205890)**
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 348 • 💬 217 • 8h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 378 • 💬 231 • 9h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+
+---
+
+**[AI Made Writing Code Easier. It Made Being an Engineer Harder](https://news.ycombinator.com/item?id=47206824)**
+
+Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
+
+⬆️ 363 • 💬 278 • 6h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -231,13 +225,13 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 316 • 💬 186 • 1d ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 318 • 💬 187 • 1d ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 177 • 💬 42 • 12h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 189 • 💬 45 • 13h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -257,13 +251,13 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 141 • 💬 105 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 144 • 💬 105 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 94 • 💬 169 • 6h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 106 • 💬 188 • 7h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
@@ -285,7 +279,7 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 10K • 👍 686 • 💬 138 • ⏱️ 20:52 • 7h ago
+👁️ 14K • 👍 820 • 💬 158 • ⏱️ 20:52 • 7h ago
 
 ---
 
@@ -295,27 +289,7 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 215K • 👍 9K • 💬 838 • ⏱️ 15:25 • 1d ago
-
----
-
-**[The Pentagon&#39;s AI Fight Was Never Just About Anthropic (w/ Hayden Field)](https://www.youtube.com/watch?v=ou3W6TD15v0)**
-
-Hayden Field of The Verge joins Andrew Egger to discuss the Pentagon's fight with Anthropic and what it means for the future of AI ...
-
-📺 The Bulwark
-
-👁️ 61K • 👍 3K • 💬 285 • ⏱️ 24:24 • 23h ago
-
----
-
-**[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
-
-AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
-
-📺 CNBC
-
-👁️ 61K • 👍 1K • 💬 229 • ⏱️ 39:40 • 1d ago
+👁️ 221K • 👍 9K • 💬 852 • ⏱️ 15:25 • 1d ago
 
 ---
 
@@ -325,17 +299,27 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 268K • 👍 10K • 💬 2K • ⏱️ 1:33:33 • 1d ago
+👁️ 299K • 👍 11K • 💬 2K • ⏱️ 1:33:33 • 1d ago
 
 ---
 
-**[AI on the Battlefield: How Claude Helped US Strike Iran | Vantage with Palki Sharma](https://www.youtube.com/watch?v=FX3x-k7vM7Y)**
+**[InternetOfBugs Is Lying About SciShow Lying About AI](https://www.youtube.com/watch?v=a6h15ewjLwM)**
 
-Artificial intelligence is now part of the battlefield. During the strike on Iran, the United States used Anthropic's Claude platform to ...
+InternetOfBugs made two videos accusing SciShow, Kurzegsagt and Kyle Hill of lying about AI. His videos were mean-spirited ...
 
-📺 Firstpost
+📺 Siliconversations
 
-👁️ 46K • 👍 949 • 💬 96 • ⏱️ 6:11 • 3h ago
+👁️ 49K • 👍 6K • 💬 1K • ⏱️ 16:12 • 1d ago
+
+---
+
+**[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
+
+AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
+
+📺 CNBC
+
+👁️ 64K • 👍 1K • 💬 242 • ⏱️ 39:40 • 1d ago
 
 ---
 
@@ -345,7 +329,27 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 145K • 👍 9K • 💬 1K • ⏱️ 14:41 • 1d ago
+👁️ 162K • 👍 10K • 💬 1K • ⏱️ 14:41 • 1d ago
+
+---
+
+**[The Pentagon&#39;s AI Fight Was Never Just About Anthropic (w/ Hayden Field)](https://www.youtube.com/watch?v=ou3W6TD15v0)**
+
+Hayden Field of The Verge joins Andrew Egger to discuss the Pentagon's fight with Anthropic and what it means for the future of AI ...
+
+📺 The Bulwark
+
+👁️ 64K • 👍 3K • 💬 296 • ⏱️ 24:24 • 1d ago
+
+---
+
+**[AI Jobs, Tech Layoffs, and the Myth of an AI Recession](https://www.youtube.com/watch?v=v0WOQB9Sbks)**
+
+Artificial intelligence has gone from miracle cure to market threat in a matter of weeks. AI anxiety is replacing AI mania, driven by ...
+
+📺 David Woo Unbound
+
+👁️ 2K • 👍 125 • 💬 35 • ⏱️ 14:25 • 8h ago
 
 ---
 
@@ -355,27 +359,17 @@ Legendary actor Morgan Freeman, who has starred in more than 100 movies in his s
 
 📺 CBS Mornings
 
-👁️ 205K • 👍 2K • 💬 347 • ⏱️ 6:34 • 2d ago
+👁️ 226K • 👍 2K • 💬 366 • ⏱️ 6:34 • 2d ago
 
 ---
 
-**[Anthropic AI Destroys $31 Billion of IBM Value—The AI Corporate Bloodbath Has Begun](https://www.youtube.com/watch?v=ZLEKvSb0DdA)**
+**[Disturbing Things Said By AI (Part 2)](https://www.youtube.com/watch?v=JGC5GpogfCI)**
 
-On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI is sending through the world's biggest ...
+shorts #AI #disturbing.
 
-📺 Tom Bilyeu Clips
+📺 Built By Gamers
 
-👁️ 19K • 👍 371 • 💬 82 • ⏱️ 8:38 • 2d ago
-
----
-
-**[Cute Fruit Babies Eating Fruit | Oddly Satisfying AI](https://www.youtube.com/watch?v=VocL_BQ_mEs)**
-
-OddlySatisfying #SatisfyingAI #CuteAI Enjoy this adorable and oddly satisfying AI compilation featuring anthropomorphic fruit ...
-
-📺 Rapoh
-
-👁️ 45K • 👍 121 • 💬 6 • ⏱️ 1:29 • 2d ago
+👁️ 32K • 👍 721 • 💬 14 • ⏱️ 0:27 • 1d ago
 
 ---
 
@@ -391,7 +385,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 481,446 • ❤️ 732 • 2d ago
+⬇️ 481,446 • ❤️ 741 • 2d ago
 
 ---
 
@@ -403,7 +397,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 217,725 • ❤️ 466 • 4d ago
+⬇️ 217,725 • ❤️ 472 • 4d ago
 
 ---
 
@@ -415,7 +409,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 432,876 • ❤️ 398 • 2d ago
+⬇️ 432,876 • ❤️ 402 • 2d ago
 
 ---
 
@@ -439,7 +433,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,030,009 • ❤️ 1,143 • 6d ago
+⬇️ 1,030,009 • ❤️ 1,146 • 6d ago
 
 ---
 
@@ -451,7 +445,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 2,357 • ❤️ 243 • 5d ago
+⬇️ 2,357 • ❤️ 245 • 5d ago
 
 ---
 
@@ -463,7 +457,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 193,972 • ❤️ 1,661 • 16d ago
+⬇️ 193,972 • ❤️ 1,663 • 16d ago
 
 ---
 
@@ -475,7 +469,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 10,611 • ❤️ 215 • 1d ago
+⬇️ 10,611 • ❤️ 218 • 1d ago
 
 ---
 
@@ -487,7 +481,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 338,176 • ❤️ 912 • 3d ago
+⬇️ 338,176 • ❤️ 913 • 3d ago
 
 ---
 
@@ -499,7 +493,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 313,330 • ❤️ 1,048 • 13d ago
+⬇️ 313,330 • ❤️ 1,049 • 13d ago
 
 ---
 
@@ -566,7 +560,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 204 • 💬 13 • ⭐ 4,424 • 1mo ago
+▲ 205 • 💬 13 • ⭐ 4,424 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -645,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.6k • 🔱 2.7k • 1h ago
+⭐ 21.6k • 🔱 2.7k • 1m ago
 
 ---
 
@@ -655,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Python`
 
-⭐ 6.0k • 🔱 725 • 1d ago
+⭐ 6.0k • 🔱 727 • 1d ago
 
 ---
 
@@ -665,7 +659,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.8k • 🔱 428 • 18h ago
+⭐ 3.9k • 🔱 443 • 37m ago
 
 ---
 
@@ -675,7 +669,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 364 • 2h ago
+⭐ 3.8k • 🔱 364 • 1h ago
 
 ---
 
@@ -695,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.4k • 🔱 269 • 1d ago
+⭐ 3.4k • 🔱 271 • 1d ago
 
 ---
 
@@ -705,7 +699,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 3.1k • 🔱 307 • 20h ago
+⭐ 3.1k • 🔱 314 • 20h ago
 
 ---
 
@@ -715,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 219 • 12h ago
+⭐ 3.1k • 🔱 220 • 12h ago
 
 ---
 
@@ -725,7 +719,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 331 • 5h ago
+⭐ 3.0k • 🔱 331 • 6h ago
 
 ---
 
@@ -735,7 +729,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 571 • 1d ago
+⭐ 3.0k • 🔱 572 • 1d ago
 
 ---
 
