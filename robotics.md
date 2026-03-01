@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T05:53:15.586223+00:00'
+updated: '2026-03-01T06:49:45.959233+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 05:53 UTC  
+**Last Updated:** March 01, 2026 at 06:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-12h ago
+13h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -48,13 +48,13 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-17h ago
+18h ago
 
 ---
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -62,7 +62,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-11h ago
+12h ago
 
 ---
 
@@ -70,7 +70,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-18h ago
+19h ago
 
 ---
 
@@ -84,13 +84,13 @@ BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.
 
 For the past year, I’ve been quietly building something I’ve dreamed about since I was a kid. Meet Andvo A DIY humanoid robot operated by a Micro:bit and PCA9685. Anyone want the tutorial and STL files?
 
-23h ago
+1d ago
 
 ---
 
 **[A Humanoid Robot Line Up (Part II)](https://www.reddit.com/r/robotics/comments/1rhjmza/a_humanoid_robot_line_up_part_ii/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -126,7 +126,7 @@ Financial Times • 1d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 3h ago
+news.cgtn.com • 4h ago
 
 ---
 
@@ -134,7 +134,7 @@ news.cgtn.com • 3h ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -188,7 +188,17 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 162K • 👍 2K • 💬 333 • ⏱️ 14:16 • 6d ago
+👁️ 163K • 👍 2K • 💬 336 • ⏱️ 14:16 • 6d ago
+
+---
+
+**[Building a Robot so I don&#39;t get kicked out of Uni](https://www.youtube.com/watch?v=QZeO-wh_1HY)**
+
+Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
+
+📺 Tazer
+
+👁️ 13K • 👍 1K • 💬 80 • ⏱️ 21:58 • 5h ago
 
 ---
 
@@ -198,17 +208,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 75K • 👍 1K • 💬 311 • ⏱️ 12:16 • 2d ago
-
----
-
-**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
-
-China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
-
-📺 NewsX Live
-
-👁️ 58K • 👍 296 • 💬 114 • ⏱️ 2:18 • 2d ago
+👁️ 80K • 👍 1K • 💬 317 • ⏱️ 12:16 • 2d ago
 
 ---
 
@@ -218,7 +218,7 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 📺 The AI Nexus
 
-👁️ 3K • 👍 110 • 💬 25 • ⏱️ 24:08 • 2d ago
+👁️ 3K • 👍 110 • 💬 25 • ⏱️ 24:08 • 3d ago
 
 ---
 
@@ -228,17 +228,27 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 28K • 👍 681 • 💬 15 • ⏱️ 0:35 • 1d ago
+👁️ 30K • 👍 686 • 💬 15 • ⏱️ 0:35 • 1d ago
 
 ---
 
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
 
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
 
-📺 NBC Bay Area
+📺 Cyrus Janssen
 
-👁️ 122K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
+👁️ 245K • 👍 7K • 💬 1K • ⏱️ 11:41 • 3d ago
+
+---
+
+**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
+
+China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
+
+📺 NewsX Live
+
+👁️ 59K • 👍 298 • 💬 114 • ⏱️ 2:18 • 2d ago
 
 ---
 
@@ -248,7 +258,17 @@ Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of n
 
 📺 Unitree Robotics
 
-👁️ 2.1M • 👍 2K • 💬 404 • ⏱️ 0:58 • 4d ago
+👁️ 2.2M • 👍 2K • 💬 407 • ⏱️ 0:58 • 4d ago
+
+---
+
+**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
+
+A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
+
+📺 NBC Bay Area
+
+👁️ 123K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
 
 ---
 
@@ -258,27 +278,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 256K • 👍 2K • 💬 745 • ⏱️ 0:55 • 2d ago
-
----
-
-**[🎬 &quot;They Lived Through Robots. They Died Through a Virus.&quot; — The System Collapse in Surrogates](https://www.youtube.com/watch?v=mfeWGDux0wQ)**
-
-"They Lived Through Robots. They Died Through a Virus." — The System Collapse in Surrogates (2009) "They Lived ...
-
-📺 Daniel
-
-👁️ 100K • 👍 948 • 💬 26 • ⏱️ 0:55 • 3d ago
-
----
-
-**[AI roundup: Thrilling Agent releases, Nano Banana 2 &amp; Robotics!](https://www.youtube.com/watch?v=4uopGLxi_fE)**
-
-AI NEWS ROUNDUP! Thanks to our sponsor - Take this as your sign to download Gauth: ...
-
-📺 MattVidPro
-
-👁️ 4K • 👍 210 • 💬 17 • ⏱️ 18:44 • 1d ago
+👁️ 265K • 👍 2K • 💬 764 • ⏱️ 0:55 • 2d ago
 
 ---
 

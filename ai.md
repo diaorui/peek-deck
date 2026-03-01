@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T05:53:15.568735+00:00'
+updated: '2026-03-01T06:49:45.941827+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- repositories
 - videos
+- repositories
 - social
 - news
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 05:53 UTC  
+**Last Updated:** March 01, 2026 at 06:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -47,7 +47,7 @@ AI news, discussions, and developments
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-10h ago
+11h ago
 
 ---
 
@@ -55,7 +55,7 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 A continuation of the first time I did this with a narrative of humanity since the dawn of civilization. Really starting to get into these sort of experiments now their compute has been cut. Creative writing has possibly boosted. Its 6x LLM outputs that don't fit in here. So... READ HERE
 
-16m ago
+1h ago
 
 ---
 
@@ -71,7 +71,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
 
-2h ago
+3h ago
 
 ---
 
@@ -87,7 +87,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-11h ago
+12h ago
 
 ---
 
@@ -95,7 +95,7 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 Quick summary of an independent preprint I just published: Question: Does the relational framing of a system prompt — not its instructions, not its topic — change the generative dynamics of an LLM? Setup: Two framing variables (relational presence + epistemic openness), crossed into 4 conditions, measured against token-level Shannon entropy across 3 experimental phases, 5 model architectures, 3,830 total inference runs. Key findings: Yes, framing changes entropy regimes — significantly at 7B+ scale (d>1.0 on Mistral-7B) Small models (sub-1B) are largely unaffected SSMs (Mamba) show no effect — this is transformer-specific The effect is mediated through attention mechanisms (confirmed via ablation study) R×E interaction is superadditive: collaborative + epistemically open framing produces more than either factor alone Why this matters: If you're using ChatGPT, Claude, Mistral, or any 7B+ transformer, the way you frame your system prompt is measurably changing the model's generation dynamics — not just steering the output topic. The prompt isn't just instructions. It's a distributional parameter. Full paper (open, free): https://doi.org/10.5281/zenodo.18810911 Code and data: https://github.com/templetwo/phase-modulated-attention OSF: https://osf.io/9hbtk
 
-23h ago
+1d ago
 
 ---
 
@@ -111,7 +111,7 @@ Anthropic is rejecting the Pentagon’s latest offer to change their contract, s
 
 Humanity’s Last Exam is a PhD-level benchmark designed to test the limits of AI reasoning. Although Google’s Gemini 3 scored a staggering 48.4%, experts stress that this does not indicate the arrival of artificial general intelligence (AGI).
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 9h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/acing-this-new-ai-exam-which-its-creators-say-is-the-toughest-in-the-world-might-point-to-the-first-signs-of-agi) • 10h ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 1d ago
 
 Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
 
-The Guardian • 19h ago
+The Guardian • 20h ago
 
 ---
 
@@ -137,7 +137,7 @@ The Guardian • 19h ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 1h ago
+Financial Times • 2h ago
 
 ---
 
@@ -145,7 +145,7 @@ Financial Times • 1h ago
 
 OpenAI CEO Sam Altman defends Pentagon AI deal as Trump orders federal agencies to cut ties with rival Anthropic over military surveillance concerns.
 
-Fox Business • 2h ago
+Fox Business • 3h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fortune • 1d ago
 
 The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-NBC News • 17h ago
+NBC News • 18h ago
 
 ---
 
@@ -169,7 +169,7 @@ NBC News • 17h ago
 
 Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
 
-CNN • 21h ago
+CNN • 22h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNN • 21h ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -185,7 +185,7 @@ CNBC • 16h ago
 
 Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
 
-OpenAI • 9h ago
+OpenAI • 10h ago
 
 ---
 
@@ -193,7 +193,7 @@ OpenAI • 9h ago
 
 After the Trump administration cut it off, Anthropic CEO Dario Amodei told CBS News in an exclusive interview Friday night he wants to work with the military — but only if it addresses the firm's concerns.
 
-CBS News • 18h ago
+CBS News • 19h ago
 
 ---
 
@@ -219,7 +219,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 311 • 💬 176 • 17h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 311 • 💬 176 • 18h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -227,7 +227,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 297 • 💬 177 • 16h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 297 • 💬 177 • 17h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -247,7 +247,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 123 • 💬 98 • 19h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 123 • 💬 98 • 20h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -285,7 +285,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 96K • 👍 5K • 💬 882 • ⏱️ 1:33:33 • 12h ago
+👁️ 122K • 👍 5K • 💬 973 • ⏱️ 1:33:33 • 13h ago
 
 ---
 
@@ -295,17 +295,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 42K • 👍 929 • 💬 176 • ⏱️ 39:40 • 13h ago
-
----
-
-**[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
-
-Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
-
-📺 MonkeyExplains
-
-👁️ 97K • 👍 7K • 💬 1K • ⏱️ 14:41 • 14h ago
+👁️ 45K • 👍 993 • 💬 184 • ⏱️ 39:40 • 14h ago
 
 ---
 
@@ -315,7 +305,17 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 190K • 👍 8K • 💬 748 • ⏱️ 15:25 • 1d ago
+👁️ 194K • 👍 8K • 💬 763 • ⏱️ 15:25 • 1d ago
+
+---
+
+**[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
+
+Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
+
+📺 MonkeyExplains
+
+👁️ 103K • 👍 7K • 💬 1K • ⏱️ 14:41 • 15h ago
 
 ---
 
@@ -325,7 +325,17 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 269K • 👍 9K • 💬 461 • ⏱️ 11:55 • 2d ago
+👁️ 273K • 👍 9K • 💬 467 • ⏱️ 11:55 • 2d ago
+
+---
+
+**[AI SHOCKS The World This Month: Biomimetic Robots, Gemini 3.1, OpenAI–OpenClaw, LYRIA 3 &amp; More](https://www.youtube.com/watch?v=r6umFAnMEEM)**
+
+This month in AI pushed everything to the edge. Biomimetic robots from China are now so human-like they're unsettling, while ...
+
+📺 AI Revolution
+
+👁️ 7K • 👍 194 • 💬 12 • ⏱️ 1:29:27 • 7h ago
 
 ---
 
@@ -335,7 +345,7 @@ Legendary actor Morgan Freeman, who has starred in more than 100 movies in his s
 
 📺 CBS Mornings
 
-👁️ 148K • 👍 2K • 💬 314 • ⏱️ 6:34 • 1d ago
+👁️ 156K • 👍 2K • 💬 318 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -345,37 +355,27 @@ Anton Korinek talks about the effects of automation on wages and labor, how we m
 
 📺 Future of Life Institute
 
-👁️ 60K • 👍 1K • 💬 624 • ⏱️ 22:41 • 2d ago
+👁️ 61K • 👍 1K • 💬 630 • ⏱️ 22:41 • 2d ago
 
 ---
 
-**[Disturbing Things Said By AI (Part 2)](https://www.youtube.com/watch?v=JGC5GpogfCI)**
+**[The New Burger King AI is TERRIFYING](https://www.youtube.com/watch?v=QEjh5B-Gs9I)**
 
-shorts #AI #disturbing.
+Burger King is testing out an artificial intelligence assistant to work directly with company employees and track what they say.
 
-📺 Built By Gamers
+📺 Vailskibum
 
-👁️ 24K • 👍 554 • 💬 13 • ⏱️ 0:27 • 23h ago
-
----
-
-**[Disturbing Things Said By AI (Part 1)](https://www.youtube.com/watch?v=_v8EY3uqmEM)**
-
-shorts #AI #disturbing.
-
-📺 Built By Gamers
-
-👁️ 25K • 👍 611 • 💬 11 • ⏱️ 0:30 • 23h ago
+👁️ 83K • 👍 4K • 💬 935 • ⏱️ 2:19 • 1d ago
 
 ---
 
-**[Anthropic AI Destroys $31 Billion of IBM Value—The AI Corporate Bloodbath Has Begun](https://www.youtube.com/watch?v=ZLEKvSb0DdA)**
+**[I Gave 3 AI Agents $1,000 Each (OpenClaw)](https://www.youtube.com/watch?v=GansiD6Mk5Y)**
 
-On this episode of Impact Theory with Tom Bilyeu, we dive into the shockwaves AI is sending through the world's biggest ...
+Follow along on X: https://x.com/CreatorMagicAI ✨ Join the Community: https://mrc.fm/premium One week ago I gave an AI the ...
 
-📺 Tom Bilyeu Clips
+📺 Creator Magic
 
-👁️ 18K • 👍 361 • 💬 79 • ⏱️ 8:38 • 2d ago
+👁️ 52K • 👍 2K • 💬 79 • ⏱️ 12:56 • 1d ago
 
 ---
 
@@ -391,7 +391,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 378,228 • ❤️ 690 • 1d ago
+⬇️ 378,228 • ❤️ 695 • 1d ago
 
 ---
 
@@ -403,7 +403,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 172,154 • ❤️ 445 • 4d ago
+⬇️ 172,154 • ❤️ 451 • 4d ago
 
 ---
 
@@ -415,7 +415,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 372 • 1d ago
+⬇️ 350,233 • ❤️ 377 • 1d ago
 
 ---
 
@@ -427,7 +427,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 120,090 • ❤️ 348 • 4d ago
+⬇️ 120,090 • ❤️ 350 • 4d ago
 
 ---
 
@@ -439,7 +439,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 889,203 • ❤️ 1,132 • 5d ago
+⬇️ 889,203 • ❤️ 1,131 • 5d ago
 
 ---
 
@@ -451,7 +451,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 192,464 • ❤️ 1,654 • 15d ago
+⬇️ 192,464 • ❤️ 1,655 • 15d ago
 
 ---
 
@@ -463,7 +463,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 310,641 • ❤️ 907 • 2d ago
+⬇️ 310,641 • ❤️ 909 • 3d ago
 
 ---
 
@@ -487,7 +487,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 214 • 17h ago
+⬇️ 8,049 • ❤️ 214 • 18h ago
 
 ---
 
@@ -499,7 +499,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 305,031 • ❤️ 1,040 • 12d ago
+⬇️ 305,031 • ❤️ 1,039 • 12d ago
 
 ---
 
@@ -525,7 +525,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 7 • 💬 0 • ⭐ 6,182 • 16mo ago
+▲ 7 • 💬 0 • ⭐ 6,307 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
@@ -537,7 +537,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 9 • 💬 1 • ⭐ 8,684 • 23mo ago
+▲ 9 • 💬 1 • ⭐ 8,735 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -565,7 +565,7 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 38 • 💬 1 • ⭐ 71,515 • 30mo ago
+▲ 38 • 💬 1 • ⭐ 71,534 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -579,7 +579,7 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 204 • 💬 13 • ⭐ 4,348 • 29d ago
+▲ 204 • 💬 13 • ⭐ 4,371 • 29d ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
 
@@ -609,20 +609,6 @@ A multi-agent framework using large language models for stock trading simulates 
 
 ---
 
-**[Qwen3-TTS Technical Report](https://huggingface.co/papers/2601.15621)**
-
-*Hangrui Hu, Xinfa Zhu, Ting He et al. (16 authors)*
-
-🏢 Qwen
-
-The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
-
-▲ 69 • 💬 2 • ⭐ 8,780 • 1mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
-
----
-
 **[Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://huggingface.co/papers/2504.19413)**
 
 *Prateek Chhikara, Dev Khant, Saket Aryan et al. (5 authors)*
@@ -632,6 +618,18 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 ▲ 43 • 💬 2 • ⭐ 48,297 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
+
+---
+
+**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+
+*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+
+Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+
+▲ 26 • 💬 4 • ⭐ 18,292 • 3mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
 
 ---
 
@@ -645,7 +643,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Rust` `official` `official-website`
 
-⭐ 21.3k • 🔱 2.7k • 1h ago
+⭐ 21.3k • 🔱 2.7k • 54m ago
 
 ---
 
@@ -655,7 +653,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Python`
 
-⭐ 5.9k • 🔱 719 • 1d ago
+⭐ 5.9k • 🔱 721 • 1d ago
 
 ---
 
@@ -665,7 +663,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 362 • 1h ago
+⭐ 3.7k • 🔱 362 • 2h ago
 
 ---
 
@@ -675,7 +673,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 480 • 1d ago
+⭐ 3.6k • 🔱 481 • 1d ago
 
 ---
 
@@ -685,7 +683,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.2k • 🔱 381 • 4h ago
+⭐ 3.3k • 🔱 386 • 5h ago
 
 ---
 
@@ -695,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.1k • 🔱 251 • 17h ago
+⭐ 3.2k • 🔱 253 • 18h ago
 
 ---
 
@@ -705,7 +703,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 325 • 16h ago
+⭐ 3.0k • 🔱 325 • 17h ago
 
 ---
 
@@ -715,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 213 • 1h ago
+⭐ 3.0k • 🔱 215 • 2h ago
 
 ---
 
@@ -725,7 +723,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 562 • 20h ago
+⭐ 2.9k • 🔱 563 • 21h ago
 
 ---
 
@@ -735,7 +733,7 @@ A desktop GUI for Claude Code — chat, code, and manage projects visually. Buil
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 2.5k • 🔱 256 • 13h ago
+⭐ 2.5k • 🔱 257 • 13h ago
 
 ---
 
