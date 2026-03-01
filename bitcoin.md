@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T02:27:54.761899+00:00'
+updated: '2026-03-01T04:34:44.776822+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
+- news
 - social
 - videos
-- news
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 02:27 UTC  
+**Last Updated:** March 01, 2026 at 04:34 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,33 +38,33 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $67,661.27
+### $67,642.89
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +2.9%  
-**7d:** +4.7%  
-**30d:** -14.1%  
-**90d:** -26.1%  
-**1y:** -28.3%  
+**24h:** +2.6%  
+**7d:** +4.1%  
+**30d:** -14.6%  
+**90d:** -26.5%  
+**1y:** -28.7%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1353.26B
+**Market Cap:** $1345.83B
 Rank #1
 
 **Circulating Supply:** 19,996,190 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--46.3%
+-46.6%
 
 **All-Time Low:** $67.81
-+99708.3%
++99142.0%
 
 ---
 
@@ -81,13 +81,13 @@ Rank #1
 
 Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-5h ago
+8h ago
 
 ---
 
 **[HODL your 0.01 BTC onto you FOREVER](https://www.reddit.com/r/Bitcoin/comments/1rhhvzn/hodl_your_001_btc_onto_you_forever/)**
 
-2h ago
+4h ago
 
 ---
 
@@ -95,7 +95,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
-7h ago
+9h ago
 
 ---
 
@@ -103,7 +103,7 @@ Based on my technical analysis, which I do have a few years of experience in, BT
 
 Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
 
-8h ago
+10h ago
 
 ---
 
@@ -111,13 +111,21 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, built on the Bitaxe GT 801 platform with dual BM1370 chips. Quick rundown: 2.15 TH/s default, 3.06+ TH/s overclocked 4.3" capacitive touchscreen with 8 live screens (hashrate, block height, latest blocks, BTC price, clock, Wi-Fi config, settings, hashrate graph) All screen data pulls from mempool.space ~43W, ~35 dB Mining firmware is mainline AxeOS (esp-miner), screen firmware is BAP-GT-TOUCH, both fully open source Runs on the ESP32-S3 with Wi-Fi, same as other Bitaxe models The big jump from the original Bitaxe Touch is doubling the hashrate (was ~1.0 TH/s on the single BM1370 version), going from 4 screens to 8, and moving the screen firmware from proprietary to open source through the GT 801's Bitaxe Accessory Port. It was shown off at the HeatPunk Summit in Denver this week. Full technical breakdown here: https://www.solosatoshi.com/bitaxe-touch-unveiled/ Happy to answer any questions about the hardware or firmware. https://preview.redd.it/4pkalprlpbmg1.png?width=940&format=png&auto=webp&s=8fa61aac5ec82447679162cbfd3bc7035d619063 https://preview.redd.it/eowlutrlpbmg1.png?width=940&format=png&auto=webp&s=25284ed91c26ad2e1bf23b7600ec5ac4d7542926 https://preview.redd.it/vpm4exrlpbmg1.png?width=940&format=png&auto=webp&s=0733ea99d58e508597a6a2d1afb7c79a62ac8c8f https://preview.redd.it/yx0rv1slpbmg1.png?width=940&format=png&auto=webp&s=d97f2210eb9003188d229f0fcc3d8ad584392ac1 https://preview.redd.it/vcwhozrlpbmg1.png?width=940&format=png&auto=webp&s=2aa3dce9f95bec81d63fd92514fb08889dab372f https://preview.redd.it/xdh9g4slpbmg1.png?width=940&format=png&auto=webp&s=e42ccaf53253fa56de0292caf7371f85f1cdf84d https://preview.redd.it/25hd76slpbmg1.png?width=940&format=png&auto=webp&s=1c76894f9e96103c3d114738b7576747924ad247 https://preview.redd.it/bfmte8slpbmg1.png?width=940&format=png&auto=webp&s=558dcb23d0c0c297d6f1c7f4c4f8535cea53bb47 https://preview.redd.it/hzz55dslpbmg1.png?width=940&format=png&auto=webp&s=672936b1e0dbd42e96d7e8fb6b14488ac389e794 https://preview.redd.it/z1jlm9slpbmg1.png?width=940&format=png&auto=webp&s=fb42b49425d9ddb84903ce135e2b5f1b3624691a
 
-2h ago
+4h ago
 
 ---
 
 **[8 out of Top 10 US banks have flipped their stance on Bitcoin in the last 6 months](https://www.reddit.com/r/Bitcoin/comments/1rghh5i/8_out_of_top_10_us_banks_have_flipped_their/)**
 
 1d ago
+
+---
+
+**[I built a clean, ad-free DCA simulator to show my friends it's never "too late" (2026 data)](https://www.reddit.com/r/Bitcoin/comments/1rhgcht/i_built_a_clean_adfree_dca_simulator_to_show_my/)**
+
+Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threads asking if starting a DCA today is worth it with the current 2026 volatility. I got tired of using calculators that are 50% ads and trackers, so I built a 'calm' version for myself. It uses real historical data and compares BTC vs traditional savings. For example: Investing $100/month since the 2024 halving would have you up X% today, even with the recent swings. It's part of a suite of tools I just put on Product Hunt for feedback. No signups, no ads, just the math. If you're bored, I'd love to know if the UI feels intuitive to you: https://bytecalculators.com/crypto-dca-calculator-dollar-cost-averaging-simulator
+
+5h ago
 
 ---
 
@@ -129,19 +137,11 @@ I have a pretty crazy story that happened to me last year lol. Back in 2022, I h
 
 ---
 
-**[I built a clean, ad-free DCA simulator to show my friends it's never "too late" (2026 data)](https://www.reddit.com/r/Bitcoin/comments/1rhgcht/i_built_a_clean_adfree_dca_simulator_to_show_my/)**
-
-Hey guys, long-time lurker here. I noticed a lot of newcomers in the daily threads asking if starting a DCA today is worth it with the current 2026 volatility. I got tired of using calculators that are 50% ads and trackers, so I built a 'calm' version for myself. It uses real historical data and compares BTC vs traditional savings. For example: Investing $100/month since the 2024 halving would have you up X% today, even with the recent swings. It's part of a suite of tools I just put on Product Hunt for feedback. No signups, no ads, just the math. If you're bored, I'd love to know if the UI feels intuitive to you: https://bytecalculators.com/crypto-dca-calculator-dollar-cost-averaging-simulator
-
-3h ago
-
----
-
 **[Just came here to say that I'm lonely on stacker news](https://www.reddit.com/r/Bitcoin/comments/1rhl8g0/just_came_here_to_say_that_im_lonely_on_stacker/)**
 
 There's like three active users anymore.
 
-6m ago
+2h ago
 
 ---
 
@@ -149,7 +149,7 @@ There's like three active users anymore.
 
 Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of time reading, learning, and trying to understand different perspectives. I’m not here to argue or hype anything I’m honestly just curious: What was the moment or realization that made you believe in Bitcoin long-term? Was it inflation, decentralization, a personal experience, or something else entirely? I’d love to hear stories from people who’ve been around longer than me. Trying to learn from real humans instead of just charts and headlines 😄 Thanks in advance 🙏
 
-13h ago
+15h ago
 
 ---
 
@@ -161,31 +161,21 @@ Hey everyone 🥰 I’m fairly new to Bitcoin and have been spending a lot of ti
 
 Bitcoin's future hinges less on technological factors and more on how AI affects growth, employment, real interest rates, and central bank liquidity, NYDIG argues.
 
-CoinDesk • 5h ago
+CoinDesk • 7h ago
 
 ---
 
-**[Bitcoin slides below $64,000 after US and Israel strikes on Iran](https://www.bostonglobe.com/2026/02/28/business/bitcoin-slides-below-64000-after-us-and-israel-strikes-on-iran/)**
+**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bitcoin and other digital assets fell sharply after the US and Israel began striking targets across Iran on Saturday.
-
-The Boston Globe • 15h ago
+Bloomberg.com • 1h ago
 
 ---
 
-**[What next for bitcoin as Iran attacks U.S. bases? BTC likely to head lower](https://www.coindesk.com/markets/2026/02/28/bitcoin-could-see-further-downside-risks-as-iran-attacks-u-s-bases-across-middle-east)**
+**[Bitcoin Is Headed to $500,000. This Wall Street Analyst Explains Why.](https://www.fool.com/investing/2026/02/28/bitcoin-is-headed-to-500000-this-wall-street-analy/)**
 
-Tehran launched waves of missiles and drones targeting Israel, U.S. bases, and Gulf allies, with explosions reported in Dubai, Kuwait, and Bahrain.
+Bitcoin investors may soon forget the recent correction.
 
-CoinDesk • 15h ago
-
----
-
-**[Bitcoin Slides Below $64,000 After US and Israel Strike Iran](https://finance.yahoo.com/news/bitcoin-slides-below-64-000-111653087.html)**
-
-Bitcoin dropped as much as 3.8% to $63,038, before stabilizing to trade around the $64,000 mark in morning trading in New York.  Roughly $128 billion in market value was erased across digital assets in the immediate aftermath of the news, according to data from CoinGecko.  Several large explosions were reported in Tehran, shortly after which US President Donald Trump urged Iranians to take over the government once the military campaign comes to an end.
-
-Yahoo Finance • 12h ago
+The Motley Fool • 1h ago
 
 ---
 
@@ -197,9 +187,11 @@ Yahoo Finance • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqes2yIWL0_CdeZKNCGfurwr-8dE2fuqYMicWAveurGpjUYualnZhm0D&gaa_ts=69a3a728&gaa_sig=TzhWxyLUJvoTNFNClBMpK4Ka2sHMr9DEUHDU10M7qJW-ETftIxZ5UlBC8bKHiv7CUmazoDOxubztYNd-K5b_Jw%3D%3D)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772336100)**
 
-Barron's • 1d ago
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 1d ago
 
 ---
 
@@ -219,19 +211,21 @@ The Block • 2d ago
 
 ---
 
-**[Bitcoin Miner MARA jumps 17% after striking a deal with Starwood to build AI data centers](https://www.coindesk.com/markets/2026/02/26/bitcoin-miner-mara-jumps-17-after-striking-a-deal-with-starwood-to-build-ai-data-centers)**
+**[I’m buying this Bitcoin dip every day: Money Talks](https://www.cleveland.com/business/2026/02/im-buying-this-bitcoin-dip-every-day-money-talks.html)**
 
-The bitcoin miner inked a deal with investment firm Starwood to convert and expand select facilities to serve data center needs for AI.
-
-CoinDesk • 2d ago
+Cleveland.com • 18h ago
 
 ---
 
-**[MARA Reports $1.7 Billion Q4 Loss After $1.5 Billion Bitcoin Write-Down](https://finance.yahoo.com/news/mara-reports-1-7-billion-120920643.html)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqf6Q5gHS1LcKbWT_qAAKYmDPGesEFF3hlk4ayC1cww-dvB3crWpPxGc&gaa_ts=69a3c54e&gaa_sig=wzUy5puXnauYmmk-U5UP3bpylSojB4oL8v0sOV0DmNdrFyxxHaN680Ju1C_Cyk5W5p06pJrHuHBnQDpCueJy3w%3D%3D)**
 
-MARA Holdings reports $1.7 billion Q4 loss after Bitcoin write-down, accelerating AI data center pivot to reduce mining volatility.
+Barron's • 1d ago
 
-Yahoo Finance • 1d ago
+---
+
+**[Trump brothers-backed American Bitcoin swings to quarterly loss amid crypto selloff](https://www.reuters.com/business/trump-brothers-backed-american-bitcoin-swings-quarterly-loss-amid-crypto-selloff-2026-02-26/)**
+
+Reuters • 2d ago
 
 ---
 
@@ -257,7 +251,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 Links to major crypto world figures are just the start.
 
-⬆️ 4 • 💬 0 • 16h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
+⬆️ 4 • 💬 0 • 18h ago • [The Verge](https://www.theverge.com/tech/885252/jeffrey-epstein-bitcoin-cryptocurrency-connections)
 
 ---
 
@@ -269,7 +263,7 @@ Links to major crypto world figures are just the start.
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 3h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 5h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -291,7 +285,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
-⬆️ 1 • 💬 1 • 1d ago • [ordain.art](https://ordain.art)
+⬆️ 1 • 💬 1 • 2d ago • [ordain.art](https://ordain.art)
 
 ---
 
@@ -321,7 +315,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 16K • 👍 831 • 💬 227 • ⏱️ 26:57 • 12h ago
+👁️ 18K • 👍 881 • 💬 211 • ⏱️ 26:57 • 14h ago
 
 ---
 
@@ -331,7 +325,7 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 2K • 👍 69 • 💬 1 • ⏱️ 14:26 • 7h ago
+👁️ 3K • 👍 81 • 💬 5 • ⏱️ 14:26 • 10h ago
 
 ---
 
@@ -341,7 +335,17 @@ Geopolitical fear is gripping the markets. News of military strikes in Iran sent
 
 📺 Gareth Soloway
 
-👁️ 45K • 👍 3K • 💬 522 • ⏱️ 12:42 • 6h ago
+👁️ 53K • 👍 3K • 💬 542 • ⏱️ 12:42 • 8h ago
+
+---
+
+**[BREAKING: Bitcoin Just Got a $2 Trillion Backer — Morgan Stanley Files for Crypto Bank Charter](https://www.youtube.com/watch?v=5Naa0Q3j1So)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 2K • 👍 164 • 💬 3 • ⏱️ 26:03 • 6h ago
 
 ---
 
@@ -351,7 +355,35 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 9K • 👍 692 • 💬 102 • ⏱️ 36:35 • 4h ago
+👁️ 13K • 👍 886 • 💬 119 • ⏱️ 36:35 • 6h ago
+
+---
+
+**[WARNING: War Crashed &quot;BITCOIN&quot; $2,500 — But BlackRock Just Bought $635M](https://www.youtube.com/watch?v=PKpnjPX0lxU)**
+
+At 2:34 AM Eastern today, US and Israel struck Iran — and Bitcoin lost $2500 in 45 minutes. $128 billion wiped from crypto in 1 ...
+
+📺 Mystery Market Vault
+
+👁️ 4K • 👍 191 • 💬 123 • ⏱️ 25:03 • 8h ago
+
+---
+
+**[Michael Saylor’s reaction to Bitcoin price crash](https://www.youtube.com/watch?v=3e4gcMXNNpM)**
+
+📺 Natalie Brunell
+
+👁️ 4K • 👍 121 • 💬 22 • ⏱️ 1:19 • 11h ago
+
+---
+
+**[BITCOIN &amp; CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=483OzgxOri4)**
+
+BITCOIN & CRYPTO FLIPPED: This is GOOD News!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
+
+📺 Crypto World
+
+👁️ 4K • 👍 235 • 💬 20 • ⏱️ 18:00 • 5h ago
 
 ---
 
@@ -361,53 +393,17 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 571K • 👍 19K • 💬 2K • ⏱️ 18:56 • 1d ago
+👁️ 580K • 👍 20K • 💬 2K • ⏱️ 18:56 • 1d ago
 
 ---
 
-**[Michael Saylor’s reaction to Bitcoin price crash](https://www.youtube.com/watch?v=3e4gcMXNNpM)**
+**[The Biggest Crypto Trap I&#39;ve Ever Seen](https://www.youtube.com/watch?v=93kAh88MZKc)**
 
-📺 Natalie Brunell
+Bitunix (no kyc, $10k bonus): https://www.bitunix.com/register?vipCode=AltcoinDaily 50% deposit bonus on first $100 (sign up ...
 
-👁️ 3K • 👍 115 • 💬 25 • ⏱️ 1:19 • 9h ago
+📺 Altcoin Daily
 
----
-
-**[Bitcoin Just Took Over Traditional Finance](https://www.youtube.com/watch?v=aOJZ00O2ETw)**
-
-Dan Tapiero is the Founder & CEO of 10T Holdings and 1RoundTable Partners, and Robbie Mitchnick is Head of Digital Assets at ...
-
-📺 Anthony Pompliano
-
-👁️ 22K • 👍 749 • ⏱️ 22:53 • 1d ago
-
----
-
-**[CRYPTO EXPLODES AFTER INSANE NEWS, PREPARE NOW!!](https://www.youtube.com/watch?v=jsUIqqkdD24)**
-
-Welcome Back To The Channel! Join The Trading Giveaways On BTCC: https://tylerhill.pro/BTCC228 Save Up To 37% On Crypto ...
-
-📺 Tyler Hill Crypto
-
-👁️ 8K • 👍 400 • 💬 171 • ⏱️ 13:28 • 13h ago
-
----
-
-**[Bitcoin BTC Chart Analysis - Has Bitcoin Formed an Impulse? Elliott Wave Analysis](https://www.youtube.com/watch?v=j2Bq_ORmVs0)**
-
-This video provides a professional Elliott Wave and technical analysis of Bitcoin (BTC), focusing on market structure, key support ...
-
-📺 More Crypto Online
-
-👁️ 2K • 👍 250 • 💬 11 • ⏱️ 6:32 • 3h ago
-
----
-
-**[IT COULD BE OVER FOR CRYPTO! TRUMP DEMANDS CLARITY BILL DEADLINE NOW #crypto #bitcoin #xrp](https://www.youtube.com/watch?v=NewU_71SXPU)**
-
-📺 CryptoWendyO
-
-👁️ 22K • 👍 1K • 💬 54 • ⏱️ 2:20 • 2d ago
+👁️ 51K • 👍 3K • 💬 156 • ⏱️ 13:24 • 2d ago
 
 ---
 
