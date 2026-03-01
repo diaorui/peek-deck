@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T17:23:36.766449+00:00'
+updated: '2026-03-01T17:47:30.727440+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- videos
 - social
+- videos
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 17:23 UTC  
+**Last Updated:** March 01, 2026 at 17:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-6h ago
+7h ago
 
 ---
 
@@ -48,7 +48,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -62,13 +62,13 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-1h ago
+2h ago
 
 ---
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -76,7 +76,7 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-22h ago
+23h ago
 
 ---
 
@@ -98,7 +98,7 @@ Yo everyone! ​I’m a third-year Electrical Engineering student currently work
 
 **[I'm looking for help on simscape multibody for my Master 1 project ( help 😭!)](https://www.reddit.com/r/robotics/comments/1rhtbrr/im_looking_for_help_on_simscape_multibody_for_my/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -168,7 +168,7 @@ Bloomberg.com • 2d ago
 
 Since September, programs have been preparing their robots for this moment.
 
-WOWT • 17h ago
+WOWT • 18h ago
 
 ---
 

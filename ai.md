@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T17:23:36.748964+00:00'
+updated: '2026-03-01T17:47:30.709762+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
-- videos
+- news
 - social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 17:23 UTC  
+**Last Updated:** March 01, 2026 at 17:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 6h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 7h ago
 
 ---
 
@@ -73,7 +73,7 @@ After months of development, I'm launching Vynix — a cross-platform AI creativ
 
 I used to love the days when you could watch a few videos of random stuff and be like that’s cool and all that. But these days 9 in 10 videos are this A.I stuff that looks so fake it hurts my brain. How do people make it and think ow that looks really good I’m going to post that. What are your thoughts on A.I at the moment.
 
-2h ago
+3h ago
 
 ---
 
@@ -95,7 +95,7 @@ I’m been thinking a lot about pricing models for ai native apps. For the last 
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-21h ago
+22h ago
 
 ---
 
@@ -111,7 +111,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-22h ago
+23h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 A high-stakes dispute over how the U.S. military uses artificial intelligence has led the Pentagon to cancel its contract with rising AI star Anthropic.
 
-AP News • 18h ago
+AP News • 19h ago
 
 ---
 
@@ -251,7 +251,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 145 • 💬 33 • 9h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 145 • 💬 33 • 10h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.6k • 🔱 2.7k • 56m ago
+⭐ 21.6k • 🔱 2.7k • 1h ago
 
 ---
 
@@ -673,7 +673,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.7k • 🔱 424 • 15h ago
+⭐ 3.7k • 🔱 424 • 16h ago
 
 ---
 
@@ -723,7 +723,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 331 • 2h ago
+⭐ 3.0k • 🔱 331 • 3h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T17:23:36.763245+00:00'
+updated: '2026-03-01T17:47:30.724235+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- news
 - cryptocurrency
-- videos
+- news
 - social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 17:23 UTC  
+**Last Updated:** March 01, 2026 at 17:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -194,7 +194,7 @@ TradingView • 1d ago
 
 Ethereum price faces mixed signals as holder retention rebounds while network growth slows and $1,816 support remains critical.
 
-BeInCrypto • 19h ago
+BeInCrypto • 20h ago
 
 ---
 
@@ -238,7 +238,7 @@ Did Vitalik Buterin just dump Ethereum at the worst possible time? After announc
 
 📺 Coin Bureau
 
-👁️ 18K • 👍 1K • 💬 127 • ⏱️ 18:01 • 4h ago
+👁️ 18K • 👍 1K • 💬 127 • ⏱️ 18:01 • 5h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 117 • 💬 5 • ⏱️ 7:25 • 4h ago
+👁️ 1K • 👍 117 • 💬 5 • ⏱️ 7:25 • 5h ago
 
 ---
 
@@ -318,7 +318,7 @@ join my social platforms for updates and analysis ✓Instagram: ...
 
 📺 Aryan trader Live
 
-👁️ 4K • 👍 3K • 2h ago
+👁️ 4K • 👍 3K • 3h ago
 
 ---
 
