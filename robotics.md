@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T23:25:21.342514+00:00'
+updated: '2026-03-01T23:47:43.249154+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 23:25 UTC  
+**Last Updated:** March 01, 2026 at 23:47 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-12h ago
+13h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-2h ago
+3h ago
 
 ---
 
@@ -78,13 +78,13 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 5h ago
+🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 6h ago
 
 ---
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-7h ago
+8h ago
 
 ---
 
@@ -98,7 +98,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-20h ago
+21h ago
 
 ---
 
@@ -106,33 +106,11 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 ## Google News: "robotics"
 
-**[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
+**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
 
-Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
+In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 9h ago
-
----
-
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeI3w_yKecYG1XKLXI7F2VzQUuJvbsgM4uUIFdSMIIbWYcs13IZ3ijz&gaa_ts=69a4c066&gaa_sig=ZUjz-qkIazR2VPjk82h__7qL-YFQDU7bElKHmTAbV0fy5S4cTvGmVW46RFtoy2fSw5OqLOpaKx12yBvE_XIXoQ%3D%3D)**
-
-WSJ • 2d ago
-
----
-
-**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
-
-Coco Robotics launched a new generation of delivery bots
-
-Los Angeles Times • 1d ago
-
----
-
-**[Meet your new robot fry cooks: Inside the $28 billion race to disrupt White Castle and Jack in the Box](https://fortune.com/2026/02/26/robot-disruption-fast-food-short-order-cook-flippy-labor-shortage/)**
-
-Miso Robotics’ Flippy slung chicken tenders and tots at Dodgers Stadium, and its CEO Rich Hull has bigger ambitions for the tech.
-
-Fortune • 3d ago
+CNBC • 1d ago
 
 ---
 
@@ -148,7 +126,15 @@ Financial Times • 2d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 20h ago
+news.cgtn.com • 21h ago
+
+---
+
+**[Germany’s Merz meets China’s tech vanguard, including Alibaba and Unitree CEOs](https://www.scmp.com/tech/article/3344835/germanys-merz-meets-chinas-tech-vanguard-including-alibaba-and-unitree-ceos)**
+
+Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
+
+South China Morning Post • 2d ago
 
 ---
 
@@ -160,23 +146,41 @@ Nikkei Asia • 2d ago
 
 ---
 
-**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+**[Physical AI, part 1: The basics](https://institute.bankofamerica.com/transformation/physical-ai-part-1.html)**
 
-Tech Xplore • 2d ago
+We explore how AI is moving from screens to machines that can see, learn and act across robotics, mobility and industry.
 
----
-
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
-
-Bloomberg.com • 2d ago
+Bank of America Institute • 3d ago
 
 ---
 
-**[Germany’s Merz meets China’s tech vanguard, including Alibaba and Unitree CEOs](https://www.scmp.com/tech/article/3344835/germanys-merz-meets-chinas-tech-vanguard-including-alibaba-and-unitree-ceos)**
+**[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
 
-Hangzhou visit reflects Germany’s attempt to work further with the engines of China’s digital and robotics economy.
+Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-South China Morning Post • 2d ago
+CNBC • 9h ago
+
+---
+
+**[BMW to put humanoid robots on production line at German plant](https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312)**
+
+Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costs
+
+Financial Times • 2d ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdp59AmoB3AJxQsG7ABM4o-KRYGAb6Gckeb9_T3fOPGyIBWjJN7x3Zm&gaa_ts=69a4d38b&gaa_sig=G7JlXMszpARetGj-tMUv58UO7xnZUxR2P4JdWCcuvQBKDAFI6t1Kx11-6NhvVpLUnl8rMLrZ4xTzLImxqPpEmQ%3D%3D)**
+
+WSJ • 2d ago
+
+---
+
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+
+Coco Robotics launched a new generation of delivery bots
+
+Los Angeles Times • 1d ago
 
 ---
 
@@ -210,7 +214,7 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 898 • 👍 21 • 💬 2 • ⏱️ 4:41 • 6h ago
+👁️ 898 • 👍 21 • 💬 2 • ⏱️ 4:41 • 7h ago
 
 ---
 
@@ -240,7 +244,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 171K • 👍 2K • 💬 342 • ⏱️ 14:16 • 6d ago
+👁️ 171K • 👍 2K • 💬 342 • ⏱️ 14:16 • 7d ago
 
 ---
 

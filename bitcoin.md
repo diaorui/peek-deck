@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T23:25:21.333129+00:00'
+updated: '2026-03-01T23:47:43.239881+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 23:25 UTC  
+**Last Updated:** March 01, 2026 at 23:47 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,370.32
+### $65,243.02
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +2.2%  
-**30d:** -16.1%  
-**90d:** -27.8%  
-**1y:** -30.0%  
+**24h:** -1.6%  
+**7d:** +1.6%  
+**30d:** -16.6%  
+**90d:** -28.2%  
+**1y:** -30.4%  
 
 ---
 
@@ -103,6 +103,14 @@ I often see people criticizing Bitcoin, and many times, these are people who wer
 
 Hit .70 btc….Endless schloggggg to 1.
 
+3h ago
+
+---
+
+**[Telling others to HODL while you secretly sell off your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ri9v0w/telling_others_to_hodl_while_you_secretly_sell/)**
+
+Feels like that's what's happening right now.
+
 2h ago
 
 ---
@@ -112,14 +120,6 @@ Hit .70 btc….Endless schloggggg to 1.
 Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
 
 5h ago
-
----
-
-**[Telling others to HODL while you secretly sell off your Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1ri9v0w/telling_others_to_hodl_while_you_secretly_sell/)**
-
-Feels like that's what's happening right now.
-
-1h ago
 
 ---
 
@@ -135,13 +135,13 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
 
-11h ago
+12h ago
 
 ---
 
 **[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
 
-23h ago
+1d ago
 
 ---
 
@@ -165,19 +165,19 @@ CoinDesk • 10h ago
 
 ---
 
-**[Better Cryptocurrency to Buy Now With $1,000 And Hold For 3 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/03/01/better-cryptocurrency-to-buy-now-with-1000-and-hol/)**
+**[Bitcoin Is Headed to $500,000. This Wall Street Analyst Explains Why.](https://www.fool.com/investing/2026/02/28/bitcoin-is-headed-to-500000-this-wall-street-analy/)**
 
-The landscape is shifting rapidly, and these two coins are adapting differently.
+Bitcoin investors may soon forget the recent correction.
 
-The Motley Fool • 17h ago
+The Motley Fool • 21h ago
 
 ---
 
-**[How an Oil Shock Could Trigger Bitcoin’s Next Liquidity Selloff](https://finance.yahoo.com/news/oil-shock-could-trigger-bitcoin-180255226.html)**
+**[Eric Trump Says He Believes In BTC 'Long Term' And American Bitcoin's 'Growth Metric' Is To Increase Its Stash, Not Chase Exhashes Like Other Miners](https://finance.yahoo.com/news/eric-trump-says-believes-btc-233109902.html)**
 
-An oil shock from Strait of Hormuz tensions could tighten liquidity, lift Treasury yields, and trigger a Bitcoin liquidity selloff.
+Eric Trump, co-founder and Chief Strategy Officer of American Bitcoin Corp. (NASDAQ:ABTC), said Thursday that the company’s core long-term strategy is to increase Bitcoin (CRYPTO: BTC) on its balance sheet. ‘We Believe In Bitcoin In The Long Term’ During American...
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 16m ago
 
 ---
 
@@ -185,29 +185,13 @@ Yahoo Finance • 5h ago
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces that it has raised over $7.391 million and the allocation is disappearing faster...
 
-markets.businessinsider.com • 2h ago
-
----
-
-**[Bitcoin’s Drop: Jane Street Rumors Swirl](https://finance.yahoo.com/news/bitcoin-drop-jane-street-rumors-183033871.html)**
-
-Bitcoin drops 40% from $120K peak—viral theory blames Jane Street for morning price dumps via ETFs. Experts dismiss claims.
-
-Yahoo Finance • 4h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
 Bloomberg.com • 20h ago
-
----
-
-**[Bitcoin Up or Down - 15 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-15m-1772400600)**
-
-Bitcoin Up or Down - 15 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 1d ago
 
 ---
 
@@ -219,19 +203,31 @@ Fortune • 3d ago
 
 ---
 
-**[Someone invested over $7,000 into Bitcoin 14 years ago and what it's worth now is almost incomprehensible](https://supercarblondie.com/tech/7000-invested-bitcoin-14-years-ago-value-now/)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772380800)**
 
-Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-supercarblondie.com • 12h ago
+Polymarket • 3h ago
 
 ---
 
-**[Bitcoin Crashed 50% in 4 Months. Fidelity Says That’s a Good Thing](https://gizmodo.com/bitcoin-crashed-50-in-4-months-fidelity-says-thats-a-good-thing-2000727284)**
+**[2023 Bitcoin Bottom Signal Flashes Again as Macro Shifts](https://bitbo.io/news/bitcoin-bottom-signal-macro/)**
 
-Fidelity Digital Assets analysts do see one ray of hope for bitcoin maxis.
+A 2023-style bottom signal has reappeared for bitcoin, but analysts say weaker liquidity, ETF flow trends, and sticky inflation could limit a repeat of last cycle’s 130% rebound.
 
-Gizmodo • 2d ago
+Bitbo • 1d ago
+
+---
+
+**[I’m buying this Bitcoin dip every day: Money Talks](https://www.cleveland.com/business/2026/02/im-buying-this-bitcoin-dip-every-day-money-talks.html)**
+
+Cleveland.com • 1d ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqcv4xyzHaeP1rEFs9doD7y6PCCA_gishvkqgUmkcoFk0YBYnJrQ6XuD&gaa_ts=69a4d388&gaa_sig=x7zGGqh5o9Qk5POgLbx9-SSf698BKzw0a4MzrsH4VOJrTTxAKPGKgrtp-IiJNHgF3pdBVt5C-tbKEO0P_TIhHA%3D%3D)**
+
+Barron's • 2d ago
 
 ---
 
@@ -295,19 +291,19 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 ---
 
+**[HN: I built a Bitcoin meme site with 21-episode fake Satoshi interviews](https://news.ycombinator.com/item?id=47211573)**
+
+The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
+
+⬆️ 1 • 💬 1 • 59m ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+
+---
+
 **[Ordain: Commission board for AI short films, paid over Bitcoin Lightning](https://news.ycombinator.com/item?id=47175726)**
 
 Command creation. Post a bounty for the film you want to see. Or win one.
 
 ⬆️ 1 • 💬 1 • 2d ago • [ordain.art](https://ordain.art)
-
----
-
-**[Show HN: Deadhand – trustless Bitcoin inheritance in 2 minutes](https://news.ycombinator.com/item?id=47169521)**
-
-Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance using Shamir’s Secret Sharing ⚡ - pyoneerC/deadhand
-
-⬆️ 1 • 💬 0 • 3d ago • [GitHub](https://github.com/pyoneerC/deadhand)
 
 ---
 
@@ -391,7 +387,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 345 • 👍 43 • 💬 2 • ⏱️ 29:40 • 1h ago
+👁️ 345 • 👍 43 • 💬 2 • ⏱️ 29:40 • 2h ago
 
 ---
 
@@ -411,7 +407,7 @@ Oil and cryptocurrencies could see increased trading volatility after the death 
 
 📺 Bloomberg Podcasts
 
-👁️ 2K • 👍 27 • 💬 8 • ⏱️ 4:57 • 9h ago
+👁️ 2K • 👍 27 • 💬 8 • ⏱️ 4:57 • 10h ago
 
 ---
 

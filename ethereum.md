@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T23:25:21.339223+00:00'
+updated: '2026-03-01T23:47:43.245959+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 23:25 UTC  
+**Last Updated:** March 01, 2026 at 23:47 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** -1.0%  
-**7d:** +4.8%  
-**30d:** -20.8%  
-**90d:** -35.0%  
-**1y:** -22.8%  
+**24h:** -1.2%  
+**7d:** +4.5%  
+**30d:** -21.0%  
+**90d:** -35.2%  
+**1y:** -23.1%  
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi ethereumers (if that's the way we call the ethereum community eheh), firstly i'm sorry if this is an frequent question but i couldn't find the answer anywhere so i wanna ask about it. I'm holding Bitcoins in trustwallet which i'm willing to convert to eth to pay gas for my usdt, is there a simple/fast way to do it? Advices appreciated
 
-2h ago
+3h ago
 
 ---
 
@@ -105,6 +105,14 @@ Ethereum has talked about account abstraction for years, but EIP-8141 might fina
 Piper Merriam deployed the IndividualityTokenRoot contract in September 2016 for Devcon2 in Shanghai. Each attendee could mint a unique on-chain token proving they were there — fully ERC-20 compliant, written in Solidity 0.3.6. The idea was simple: if you attended Devcon2, you could claim a token. The minting window closed after the event. No metadata, no images, no marketplace speculation — just cryptographic proof you were in the room. Three years later, POAP launched at ETHDenver 2019 and turned this concept into a whole ecosystem. But the original idea was already deployed and functional on mainnet in 2016. What I find interesting is how many "firsts" are buried in Ethereum's early history. The Devcon2 token was a working proof-of-attendance system years before anyone coined the term "POAP." Alex Van de Sande's Unicorn token (April 2016) had a DAO-governed token grinder with quadratic voting. The DAO itself was mid-2016. All of this predates DeFi Summer by four years. The contract is still on mainnet: 0xdd94de9cfe063577051a5eb7465d08317d8808b6 Source: Piper Merriam's GitHub repo with deployment details and minting logic. If you're interested in exploring more of these early contracts, ethereumhistory.com has been documenting them — 75+ contracts from 2015-2017 with sourced narratives.
 
 9h ago
+
+---
+
+**[Littercoin smart contracted updated. New diagrams added.](https://www.reddit.com/r/ethereum/comments/1ribzeb/littercoin_smart_contracted_updated_new_diagrams/)**
+
+Littercoin smart contract for Ethereum. Contribute to OpenLitterMap/littercoin-eth development by creating an account on GitHub.
+
+🔗 [GitHub](https://github.com/OpenLitterMap/littercoin-eth) • 47m ago
 
 ---
 
@@ -140,14 +148,6 @@ We have been talking about account abstraction ever since early 2016, see the or
 
 ---
 
-**[Help- I have my Blockchain Trainee interview what all things can interviewer ask? I would really appreciate the advice. Thanks in advance.](https://www.reddit.com/r/ethereum/comments/1rh7l0k/help_i_have_my_blockchain_trainee_interview_what/)**
-
-this was mentioned in the JD: Role Overview We are looking for a motivated Blockchain Trainee to join our team and learn hands-on development, deployment, and support of blockchain-based solutions. This role is ideal for freshers who are passionate about Web3, decentralized technologies, and continuous learning. Key Responsibilities  Learn and assist in developing blockchain applications and smart contracts  Support deployment and maintenance of blockchain nodes and networks  Assist in writing, testing, and debugging smart contracts  Work with senior engineers to understand blockchain architectures (Ethereum, Polygon, Hyperledger, etc.)  Monitor blockchain network performance and help troubleshoot issues  Stay updated with emerging blockchain and Web3 trends  Document technical processes, configurations, and learnings Required Skills & Experience  Basic understanding of blockchain fundamentals (blocks, consensus, smart contracts)  Familiarity with at least one programming language: JavaScript, Python, Go, or Solidity  Basic knowledge of Ethereum / EVM-based chains is a plus  Understanding of APIs, REST, and basic networking concepts  Willingness to learn, experiment, and take ownership  Good problem-solving and communication skills Good to Have  Hands-on projects or internships in blockchain or Web3  Knowledge of Linux, Docker, or cloud platforms  Understanding of cryptography basics What You’ll Gain  Hands-on experience with real-world blockchain projects  Mentorship from experienced blockchain professionals  Structured learning and growth in Web3 technologies  Opportunity for full-time conversion based on performance
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
@@ -160,11 +160,11 @@ Nasdaq • 1d ago
 
 ---
 
-**[Crypto News Today: Pepeto Presale Announces $7.4M Milestone Approaching as Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-pepeto-presale-announces-7-4m-milestone-approaching-as-ethereum-price-prediction-targets-10-000-1035882486)**
+**[Vitalik Buterin lays out a two-part plan to overhaul Ethereum's execution layer from the ground up](https://www.theblock.co/post/391681/vitalik-buterin-lays-out-a-two-part-plan-to-overhaul-ethereums-execution-layer-from-the-ground-up)**
 
-Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces $7,4M milestone will hit soon, and the project is going viral and the presale nu...
+The binary tree proposal is a concrete, in-progress effort, while the VM transition remains more speculative and lacks broad consensus among developers.
 
-markets.businessinsider.com • 2h ago
+The Block • 2h ago
 
 ---
 
@@ -172,15 +172,37 @@ markets.businessinsider.com • 2h ago
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces that it has raised over $7.391 million and the allocation is disappearing faster...
 
-markets.businessinsider.com • 2h ago
+markets.businessinsider.com • 3h ago
 
 ---
 
-**[Bitcoin, Ethereum drop after US and Israel strike Iran](https://finance.yahoo.com/news/bitcoin-ethereum-drop-us-israel-141303790.html)**
+**[Crypto News Today: Pepeto Presale Announces $7.4M Milestone Approaching as Ethereum Price Prediction Targets $10,000](https://markets.businessinsider.com/news/stocks/crypto-news-today-pepeto-presale-announces-7-4m-milestone-approaching-as-ethereum-price-prediction-targets-10-000-1035882486)**
 
-President Donald Trump announced Saturday that the US and Israel attacked Iran. Bitcoin and Ethereum immediately dropped on the news. It isn’t clear how long the military operation will take.
+Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces $7,4M milestone will hit soon, and the project is going viral and the presale nu...
 
-Yahoo Finance • 1d ago
+markets.businessinsider.com • 3h ago
+
+---
+
+**[Bitcoin, Ethereum ‘pumping hard’ after Iran strikes, but states brace for financial fallout](https://finance.yahoo.com/news/bitcoin-ethereum-pumping-hard-iran-105754078.html)**
+
+Bitcoin rises near $67,000 mark, with Ethereum nearing $2,000. Iran has confirmed the death of supreme leader Ayatollah Ali Khamenei. The real price reveal is coming tomorrow, expert says.
+
+Yahoo Finance • 12h ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdYqAaHWvyPIUfDtKFte3hmVR1Kkz3R5wwUbUjIixKcd1iysnAQQ9uq&gaa_ts=69a4d389&gaa_sig=8oxrj7VZuXoOsI0biKgpRdFzrdzUbQ7Gk_oDjTdd-2FsxtQEeDxeeIxaxeWG9fDp46M7638w8_-QC8lV7eyOkw%3D%3D)**
+
+Barron's • 2d ago
+
+---
+
+**[Are Institutions Killing Bitcoin And Ethereum? Here’s How They’ve Fared Since Companies Got Involved](https://www.tradingview.com/news/newsbtc:e6815b3ee094b:0-are-institutions-killing-bitcoin-and-ethereum-here-s-how-they-ve-fared-since-companies-got-involved/)**
+
+Institutional capital has transformed the cryptocurrency market dynamics, changing who participates and how digital assets are traded. The arrival of spot exchange-traded funds, corporate treasury allocations, and access through major brokerage platforms has pulled Bitcoin and Ethereum deeper into…
+
+TradingView • 2d ago
 
 ---
 
@@ -192,41 +214,17 @@ CoinDesk • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqf86CJyjdw7LbiGZtQTNZU22o4KCRpSxAhsYfPNiaYTa9QuI9L0LoMs&gaa_ts=69a4c065&gaa_sig=09VXLiX5oUiqXUjLRIiPyR-hCI0vU3dRFxXEtv5LPPGuXZVmN-RkuhfnDyeo28fn6d1E0TrmDOaFuqNzcA9Hpw%3D%3D)**
+**[Mnenja Phoenix Group (@Phoenix_Group).](https://www.binance.com/sl/square/post/296896828137090)**
 
-Barron's • 2d ago
-
----
-
-**[Why institutions still prefer Ethereum despite faster blockchains](https://www.tradingview.com/news/cointelegraph:69ebf507b094b:0-why-institutions-still-prefer-ethereum-despite-faster-blockchains/)**
-
-Ethereum continues to host the largest concentration of stablecoins and decentralized finance (DeFi) capital, even as successive waves of faster networks emerge.Newer blockchains have promised higher throughput and lower costs, raising questions about whether institutional capital could eventually…
-
-TradingView • 1d ago
+Binance • 9h ago
 
 ---
 
-**[Ethereum Tokens Swiped, Returned After South Korean Tax Service Publishes Wallet Seed Phrases](https://decrypt.co/359404/ethereum-tokens-swiped-returned-south-korean-tax-service)**
+**[Ethereum’s Long-Awaited Wallet Overhaul Is Finally On The Clock](https://www.tradingview.com/news/newsbtc:6185ebbc3094b:0-ethereum-s-long-awaited-wallet-overhaul-is-finally-on-the-clock/)**
 
-South Korea's tax service shared the seed phrases for seized wallets in a press release. The contents were then taken, but ultimately returned.
+Ethereum users may soon interact with the blockchain in ways that were not possible before. According to co-founder Vitalik Buterin, native smart accounts — a feature that has been in the works for over a decade — are now expected to arrive within the year as part of the network’s upcoming Hegota u…
 
-Decrypt • 2d ago
-
----
-
-**[Why Are Bitcoin, Ethereum and XRP Prices Going Up Today?](https://coinpedia.org/news/why-are-bitcoin-ethereum-and-xrp-prices-going-up-today-4/)**
-
-The crypto market is staging a sharp comeback today, with total market capitalization climbing back above $2.3 trillion. After days of heavy selling and
-
-Coinpedia Fintech News • 14h ago
-
----
-
-**[How Chainlink CCIP Connects Ethereum, Solana, and Private Bank Chains in 2026](https://financefeeds.com/how-chainlink-ccip-connects-ethereum-solana-and-private-bank-chains-in-2026/)**
-
-The need for blockchains to enable transactions among themselves has become a necessity. In 2026, the cross-chain interoperability protocol (CCIP) is making
-
-FinanceFeeds • 1h ago
+TradingView • 10h ago
 
 ---
 
@@ -240,7 +238,7 @@ Did Vitalik Buterin just dump Ethereum at the worst possible time? After announc
 
 📺 Coin Bureau
 
-👁️ 48K • 👍 2K • 💬 211 • ⏱️ 18:01 • 10h ago
+👁️ 48K • 👍 2K • 💬 211 • ⏱️ 18:01 • 11h ago
 
 ---
 
@@ -250,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 154 • 💬 9 • ⏱️ 7:25 • 10h ago
+👁️ 2K • 👍 154 • 💬 9 • ⏱️ 7:25 • 11h ago
 
 ---
 

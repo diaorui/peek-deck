@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T23:25:21.324697+00:00'
+updated: '2026-03-01T23:47:43.230783+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - news
-- repositories
 - videos
+- repositories
 - social
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 23:25 UTC  
+**Last Updated:** March 01, 2026 at 23:47 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 12h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 13h ago
 
 ---
 
@@ -103,7 +103,7 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 AM I?
 
-1h ago
+2h ago
 
 ---
 
@@ -119,11 +119,11 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 ## Google News: "ai"
 
-**[AI executive Dario Amodei on the red lines Anthropic would not cross](https://www.cbsnews.com/news/ai-executive-dario-amodei-on-the-red-lines-anthropic-would-not-cross/)**
+**[US military reportedly used Claude in Iran strikes despite Trump’s ban](https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military)**
 
-The CEO of Anthropic says his company refused to allow its technology to be used by the Trump Administration without certain guidelines (such as not using its AI to power fully-autonomous weapons without any human involvement).
+Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’
 
-CBS News • 8h ago
+The Guardian • 3h ago
 
 ---
 
@@ -139,7 +139,15 @@ CNBC • 9h ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 5h ago
+The Washington Post • 15m ago
+
+---
+
+**[Investors beware: These stocks are the most at risk from AI disruption](https://www.cnbc.com/2026/03/01/investors-beware-these-stocks-are-the-most-at-risk-from-ai-disruption.html)**
+
+Jefferies found a basket of "AI risk" stocks, ranging from MongoDB to Robinhood, that could be under threat as the technology develops.
+
+CNBC • 11h ago
 
 ---
 
@@ -151,19 +159,19 @@ The Guardian • 10h ago
 
 ---
 
-**[Investors beware: These stocks are the most at risk from AI disruption](https://www.cnbc.com/2026/03/01/investors-beware-these-stocks-are-the-most-at-risk-from-ai-disruption.html)**
-
-Jefferies found a basket of "AI risk" stocks, ranging from MongoDB to Robinhood, that could be under threat as the technology develops.
-
-CNBC • 10h ago
-
----
-
 **[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
 
 Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
 
 CNN • 1d ago
+
+---
+
+**[NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms](http://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms)**
+
+NVIDIA today announced a commitment — together with Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank Corp. and T-Mobile — to build the world’s next generation of wireless networks on AI-native, open, secure and trustworthy platforms.
+
+NVIDIA Newsroom • 16h ago
 
 ---
 
@@ -189,14 +197,6 @@ Financial Times • 19h ago
 
 ---
 
-**[NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation](https://blogs.nvidia.com/blog/software-defined-ai-ran/)**
-
-Live field trials, new performance benchmarks, growing operator adoption and partner innovations built on NVIDIA platforms underscore the shift to AI-native 5G and 6G networks.
-
-NVIDIA Blog • 16h ago
-
----
-
 ---
 
 ## HackerNews: "ai"
@@ -205,7 +205,7 @@ NVIDIA Blog • 16h ago
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 415 • 💬 246 • 11h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 440 • 💬 259 • 11h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -213,7 +213,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 367 • 💬 280 • 9h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 370 • 💬 284 • 9h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -221,7 +221,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 331 • 💬 186 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 331 • 💬 188 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -235,7 +235,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 208 • 💬 45 • 15h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 218 • 💬 46 • 16h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -261,13 +261,13 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 130 • 💬 230 • 9h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 137 • 💬 252 • 9h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
 **[HN is drowning in AI comments](https://news.ycombinator.com/item?id=47201629)**
 
-⬆️ 86 • 💬 63 • 23h ago
+⬆️ 88 • 💬 63 • 1d ago
 
 ---
 
@@ -721,7 +721,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 331 • 8h ago
+⭐ 3.0k • 🔱 331 • 9h ago
 
 ---
 
