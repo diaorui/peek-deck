@@ -3,7 +3,7 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T22:50:01.999005+00:00'
+updated: '2026-03-01T23:25:21.324697+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 22:50 UTC  
+**Last Updated:** March 01, 2026 at 23:25 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 7h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.
 
-🔗 [Claude](https://claude.com/import-memory) • 5h ago
+🔗 [Claude](https://claude.com/import-memory) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ Transfer your preferences, projects, and context from other AI providers into Cl
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-15h ago
+16h ago
 
 ---
 
@@ -73,7 +73,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 AI images are slop. In this article, I explore how to make use of multiple models and their strengths to improve the quality of AI-generated images.
 
-🔗 [therantydev.com](https://www.therantydev.com/the-three-stage-image-gen-pipeline) • 39m ago
+🔗 [therantydev.com](https://www.therantydev.com/the-three-stage-image-gen-pipeline) • 1h ago
 
 ---
 
@@ -81,7 +81,7 @@ AI images are slop. In this article, I explore how to make use of multiple model
 
 I've created sombra, an AI that makes analyses of news and gives you a map of: the main agents involved; their goal; what they'll probably do to achieve said goal. The AI is currently a telegram bot called sombra_strategy_bot It works really well, in my opinion. I'm going to post in the comments an analysis it made about the Iran-US situation. My question is: how do I market it? I need users to improve it, but the kind of people that would use this professionally are not easy to get a hold of.
 
-1h ago
+2h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 The CEO of Anthropic says his company refused to allow its technology to be used by the Trump Administration without certain guidelines (such as not using its AI to power fully-autonomous weapons without any human involvement).
 
-CBS News • 7h ago
+CBS News • 8h ago
 
 ---
 
@@ -131,7 +131,7 @@ CBS News • 7h ago
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNBC • 8h ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 4h ago
+The Washington Post • 5h ago
 
 ---
 
@@ -147,7 +147,7 @@ The Washington Post • 4h ago
 
 Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-The Guardian • 9h ago
+The Guardian • 10h ago
 
 ---
 
@@ -177,7 +177,7 @@ Fortune • 1d ago
 
 **[Vermont has few guardrails to restrict how lawyers use AI](https://vtdigger.org/2026/03/01/vermont-has-few-guardrails-to-restrict-how-lawyers-use-ai/)**
 
-VTDigger • 10h ago
+VTDigger • 11h ago
 
 ---
 
@@ -185,7 +185,7 @@ VTDigger • 10h ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 18h ago
+Financial Times • 19h ago
 
 ---
 
@@ -193,7 +193,7 @@ Financial Times • 18h ago
 
 Live field trials, new performance benchmarks, growing operator adoption and partner innovations built on NVIDIA platforms underscore the shift to AI-native 5G and 6G networks.
 
-NVIDIA Blog • 15h ago
+NVIDIA Blog • 16h ago
 
 ---
 
@@ -213,7 +213,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 367 • 💬 280 • 8h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 367 • 💬 280 • 9h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -281,7 +281,7 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 14K • 👍 820 • 💬 158 • ⏱️ 20:52 • 9h ago
+👁️ 17K • 👍 899 • 💬 173 • ⏱️ 20:52 • 10h ago
 
 ---
 
@@ -291,7 +291,7 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 221K • 👍 9K • 💬 852 • ⏱️ 15:25 • 2d ago
+👁️ 228K • 👍 9K • 💬 862 • ⏱️ 15:25 • 2d ago
 
 ---
 
@@ -301,17 +301,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 299K • 👍 11K • 💬 2K • ⏱️ 1:33:33 • 1d ago
-
----
-
-**[InternetOfBugs Is Lying About SciShow Lying About AI](https://www.youtube.com/watch?v=a6h15ewjLwM)**
-
-InternetOfBugs made two videos accusing SciShow, Kurzegsagt and Kyle Hill of lying about AI. His videos were mean-spirited ...
-
-📺 Siliconversations
-
-👁️ 49K • 👍 6K • 💬 1K • ⏱️ 16:12 • 1d ago
+👁️ 334K • 👍 11K • 💬 2K • ⏱️ 1:33:33 • 1d ago
 
 ---
 
@@ -321,37 +311,27 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 64K • 👍 1K • 💬 242 • ⏱️ 39:40 • 1d ago
+👁️ 67K • 👍 1K • 💬 251 • ⏱️ 39:40 • 1d ago
 
 ---
 
-**[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
+**[AI on the Battlefield: How Claude Helped US Strike Iran | Vantage with Palki Sharma](https://www.youtube.com/watch?v=FX3x-k7vM7Y)**
 
-Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
+Artificial intelligence is now part of the battlefield. During the strike on Iran, the United States used Anthropic's Claude platform to ...
 
-📺 MonkeyExplains
+📺 Firstpost
 
-👁️ 162K • 👍 10K • 💬 1K • ⏱️ 14:41 • 1d ago
-
----
-
-**[The Pentagon&#39;s AI Fight Was Never Just About Anthropic (w/ Hayden Field)](https://www.youtube.com/watch?v=ou3W6TD15v0)**
-
-Hayden Field of The Verge joins Andrew Egger to discuss the Pentagon's fight with Anthropic and what it means for the future of AI ...
-
-📺 The Bulwark
-
-👁️ 64K • 👍 3K • 💬 296 • ⏱️ 24:24 • 1d ago
+👁️ 153K • 👍 2K • 💬 195 • ⏱️ 6:11 • 6h ago
 
 ---
 
-**[AI Jobs, Tech Layoffs, and the Myth of an AI Recession](https://www.youtube.com/watch?v=v0WOQB9Sbks)**
+**[InternetOfBugs Is Lying About SciShow Lying About AI](https://www.youtube.com/watch?v=a6h15ewjLwM)**
 
-Artificial intelligence has gone from miracle cure to market threat in a matter of weeks. AI anxiety is replacing AI mania, driven by ...
+InternetOfBugs made two videos accusing SciShow, Kurzegsagt and Kyle Hill of lying about AI. His videos were mean-spirited ...
 
-📺 David Woo Unbound
+📺 Siliconversations
 
-👁️ 2K • 👍 125 • 💬 35 • ⏱️ 14:25 • 10h ago
+👁️ 52K • 👍 6K • 💬 1K • ⏱️ 16:12 • 1d ago
 
 ---
 
@@ -361,17 +341,37 @@ Legendary actor Morgan Freeman, who has starred in more than 100 movies in his s
 
 📺 CBS Mornings
 
-👁️ 226K • 👍 2K • 💬 366 • ⏱️ 6:34 • 2d ago
+👁️ 250K • 👍 2K • 💬 383 • ⏱️ 6:34 • 2d ago
 
 ---
 
-**[Disturbing Things Said By AI (Part 2)](https://www.youtube.com/watch?v=JGC5GpogfCI)**
+**[The AI Data Center Crisis is Worse Than You Think](https://www.youtube.com/watch?v=9_3u5CBH6Ao)**
 
-shorts #AI #disturbing.
+Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
-📺 Built By Gamers
+📺 MonkeyExplains
 
-👁️ 32K • 👍 721 • 💬 14 • ⏱️ 0:27 • 1d ago
+👁️ 179K • 👍 11K • 💬 2K • ⏱️ 14:41 • 1d ago
+
+---
+
+**[AI company Anthropic&#39;s Dario Amodei: &quot;We are patriots&quot;](https://www.youtube.com/watch?v=4kzGyxGq4D0)**
+
+Dario Amodei, co-founder and CEO of the artificial intelligence company Anthropic, says his company refused to allow its AI ...
+
+📺 CBS Sunday Morning
+
+👁️ 29K • 👍 585 • 💬 163 • ⏱️ 4:50 • 8h ago
+
+---
+
+**[AI Jobs, Tech Layoffs, and the Myth of an AI Recession](https://www.youtube.com/watch?v=v0WOQB9Sbks)**
+
+Artificial intelligence has gone from miracle cure to market threat in a matter of weeks. AI anxiety is replacing AI mania, driven by ...
+
+📺 David Woo Unbound
+
+👁️ 2K • 👍 137 • 💬 56 • ⏱️ 14:25 • 11h ago
 
 ---
 
@@ -387,7 +387,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 481,446 • ❤️ 741 • 2d ago
+⬇️ 481,446 • ❤️ 747 • 2d ago
 
 ---
 
@@ -399,7 +399,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 217,725 • ❤️ 472 • 4d ago
+⬇️ 217,725 • ❤️ 474 • 4d ago
 
 ---
 
@@ -411,7 +411,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 432,876 • ❤️ 402 • 2d ago
+⬇️ 432,876 • ❤️ 407 • 2d ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 127,141 • ❤️ 357 • 5d ago
+⬇️ 127,141 • ❤️ 358 • 5d ago
 
 ---
 
@@ -435,7 +435,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,030,009 • ❤️ 1,146 • 6d ago
+⬇️ 1,030,009 • ❤️ 1,150 • 6d ago
 
 ---
 
@@ -447,7 +447,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 2,357 • ❤️ 245 • 5d ago
+⬇️ 2,357 • ❤️ 246 • 5d ago
 
 ---
 
@@ -459,7 +459,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 193,972 • ❤️ 1,663 • 16d ago
+⬇️ 193,972 • ❤️ 1,664 • 16d ago
 
 ---
 
@@ -483,7 +483,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 338,176 • ❤️ 913 • 3d ago
+⬇️ 338,176 • ❤️ 912 • 3d ago
 
 ---
 
@@ -495,7 +495,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 313,330 • ❤️ 1,049 • 13d ago
+⬇️ 313,330 • ❤️ 1,051 • 13d ago
 
 ---
 
@@ -611,7 +611,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 Mem0, a memory-centric architecture with graph-based memory, enhances long-term conversational coherence in LLMs by efficiently extracting, consolidating, and retrieving information, outperforming existing memory systems in terms of accuracy and computational efficiency.
 
-▲ 43 • 💬 2 • ⭐ 48,330 • 10mo ago
+▲ 43 • 💬 2 • ⭐ 48,365 • 10mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2504.19413) • [💻 code](https://github.com/mem0ai/mem0) • [🔗 project](https://mem0.ai/research)
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.6k • 🔱 2.7k • 1h ago
+⭐ 21.7k • 🔱 2.7k • 1h ago
 
 ---
 
@@ -661,7 +661,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.9k • 🔱 443 • 2h ago
+⭐ 4.0k • 🔱 452 • 2h ago
 
 ---
 
@@ -671,7 +671,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 364 • 3h ago
+⭐ 3.8k • 🔱 365 • 4h ago
 
 ---
 
@@ -681,7 +681,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 484 • 15h ago
+⭐ 3.6k • 🔱 484 • 16h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.4k • 🔱 271 • 1d ago
+⭐ 3.4k • 🔱 272 • 1d ago
 
 ---
 
@@ -701,7 +701,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 3.1k • 🔱 314 • 22h ago
+⭐ 3.2k • 🔱 318 • 23h ago
 
 ---
 
@@ -711,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 220 • 14h ago
+⭐ 3.1k • 🔱 220 • 15h ago
 
 ---
 
@@ -731,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 572 • 1d ago
+⭐ 3.0k • 🔱 574 • 1d ago
 
 ---
 

@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T22:50:02.016823+00:00'
+updated: '2026-03-01T23:25:21.342514+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 22:50 UTC  
+**Last Updated:** March 01, 2026 at 23:25 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -56,7 +56,7 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -70,7 +70,7 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 8h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 9h ago
 
 ---
 
@@ -110,7 +110,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -190,7 +190,17 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 78K • 👍 5K • 💬 245 • ⏱️ 21:58 • 21h ago
+👁️ 97K • 👍 6K • 💬 277 • ⏱️ 21:58 • 22h ago
+
+---
+
+**[China Unveiled Its First Army of Humanoid Police Robots](https://www.youtube.com/watch?v=_liJnDf8a7k)**
+
+Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These $100 Korean AI Drones Can Make You Fly: ...
+
+📺 Carros Show
+
+👁️ 56K • 👍 1K • 💬 121 • ⏱️ 9:36 • 4d ago
 
 ---
 
@@ -200,7 +210,7 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 520 • 👍 14 • 💬 2 • ⏱️ 4:41 • 6h ago
+👁️ 898 • 👍 21 • 💬 2 • ⏱️ 4:41 • 6h ago
 
 ---
 
@@ -210,7 +220,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 95K • 👍 1K • 💬 367 • ⏱️ 12:16 • 2d ago
+👁️ 98K • 👍 1K • 💬 376 • ⏱️ 12:16 • 2d ago
 
 ---
 
@@ -220,7 +230,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 66K • 👍 311 • 💬 120 • ⏱️ 2:18 • 3d ago
+👁️ 66K • 👍 312 • 💬 122 • ⏱️ 2:18 • 3d ago
 
 ---
 
@@ -230,7 +240,27 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 170K • 👍 2K • 💬 341 • ⏱️ 14:16 • 6d ago
+👁️ 171K • 👍 2K • 💬 342 • ⏱️ 14:16 • 6d ago
+
+---
+
+**[The Hard Truth About Mass Robot Deployment](https://www.youtube.com/watch?v=VTbd0_n9qQA)**
+
+Tesla just shut down Model S and X lines to pivot toward Optimus production — but is this a real robotics breakthrough or a ...
+
+📺 Dumb Money Live
+
+👁️ 13K • 👍 381 • 💬 132 • ⏱️ 13:15 • 1d ago
+
+---
+
+**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
+
+Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
+
+📺 Reuters
+
+👁️ 329K • 👍 2K • 💬 851 • ⏱️ 0:55 • 3d ago
 
 ---
 
@@ -244,41 +274,13 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
+**[HONOR Robot Steals the Show 🤖](https://www.youtube.com/watch?v=gkZ4qErwy24)**
 
-Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
+HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most surprising highlights from the ...
 
-📺 Reuters
+📺 Dariusz Tech
 
-👁️ 322K • 👍 2K • 💬 834 • ⏱️ 0:55 • 3d ago
-
----
-
-**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
-
-Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
-
-📺 SciVion
-
-👁️ 35K • 👍 711 • 💬 16 • ⏱️ 0:35 • 1d ago
-
----
-
-**[He is so cute with this mini robot 🥹 (robot now on sale💕)#couples #longdistancerelationship #robot](https://www.youtube.com/watch?v=V4WwHl2pcDk)**
-
-📺 Romi Pal
-
-👁️ 92K • 👍 1K • 💬 30 • ⏱️ 0:19 • 3d ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 132K • 👍 3K • 💬 1K • ⏱️ 7:18 • 5d ago
+👁️ 4K • 👍 230 • 💬 16 • ⏱️ 1:17 • 9h ago
 
 ---
 

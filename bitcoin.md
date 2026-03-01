@@ -3,7 +3,7 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T22:50:02.007494+00:00'
+updated: '2026-03-01T23:25:21.333129+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 22:50 UTC  
+**Last Updated:** March 01, 2026 at 23:25 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1304.57B
+**Market Cap:** $1315.71B
 Rank #1
 
-**Circulating Supply:** 19,996,565 BTC
+**Circulating Supply:** 19,996,587 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--48.2%
+-47.9%
 
 **All-Time Low:** $67.81
-+96149.8%
++96814.9%
 
 ---
 
@@ -79,7 +79,7 @@ Rank #1
 
 **[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-3h ago
+4h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 Everyone's focused on the price crash right now. Meanwhile in 2 weeks the 20 millionth Bitcoin gets mined quietly with zero fanfare. 95% of all Bitcoin that will ever exist already exists. The remaining 1 million takes 114 years to distribute. And somewhere between 2-4 million are already gone forever — lost wallets, dead hard drives, forgotten keys. So the real number isn't even 20 million. It's closer to 16-17 million. Held by maybe 50-100 million people worldwide. What gets me is the timing. People panic selling at $63K while one of the most significant supply milestones in Bitcoin history approaches in literally 14 days. Anyone else find it wild that this isn't the biggest story in crypto right now?
 
-1h ago
+2h ago
 
 ---
 
@@ -95,7 +95,7 @@ Everyone's focused on the price crash right now. Meanwhile in 2 weeks the 20 mil
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-7h ago
+8h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hit .70 btc….Endless schloggggg to 1.
 
 Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
 
-4h ago
+5h ago
 
 ---
 
@@ -149,7 +149,7 @@ Thoughts on buying 250 usd worth of bitcoin every week for the next couple of ye
 
 Every day I think about how the Fed is going to carry on forever doing what it is designed to do: a bunch of emotional humans trying to “manage inflation” by printing money out of thin air, in an ever changing political landscape which it claims to be separate from (but we all know it’s not). And I feel my b hole clench up. And then I think about Bitcoin in contrast, and how it’s going to carry on printing a new block every 10 minutes for the rest of our lives. And I have a sigh of relief. 🥲
 
-5h ago
+6h ago
 
 ---
 
@@ -161,7 +161,7 @@ Every day I think about how the Fed is going to carry on forever doing what it i
 
 The company holds about 8,285 bitcoin in Coinbase Prime custody, a stake now worth roughly $545 million after a $235 million decline in value over the past three months.
 
-CoinDesk • 9h ago
+CoinDesk • 10h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 9h ago
 
 The landscape is shifting rapidly, and these two coins are adapting differently.
 
-The Motley Fool • 16h ago
+The Motley Fool • 17h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 16h ago
 
 An oil shock from Strait of Hormuz tensions could tighten liquidity, lift Treasury yields, and trigger a Bitcoin liquidity selloff.
 
-Yahoo Finance • 4h ago
+Yahoo Finance • 5h ago
 
 ---
 
@@ -199,7 +199,7 @@ Yahoo Finance • 4h ago
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 19h ago
+Bloomberg.com • 20h ago
 
 ---
 
@@ -241,7 +241,7 @@ Gizmodo • 2d ago
 
 **[The 10am Drop: How Jane Street Broke Bitcoin's Price](https://news.ycombinator.com/item?id=47159177)**
 
-⬆️ 9 • 💬 3 • 3d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
+⬆️ 9 • 💬 3 • 4d ago • [X (formerly Twitter)](https://twitter.com/1914ad/status/2026757796390449382)
 
 ---
 
@@ -315,23 +315,23 @@ Don’t trust lawyers. Trust math. Private, zero-knowledge Bitcoin inheritance u
 
 ## YouTube Videos: "bitcoin"
 
-**[IT&#39;S OVER: How Trump Just DESTROYED The Bitcoin Bull Run](https://www.youtube.com/watch?v=MBIqEC3fU0o)**
-
-Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic is everywhere. The Fear and Greed Index just ...
-
-📺 Simply Bitcoin
-
-👁️ 21K • 👍 1K • 💬 172 • ⏱️ 19:16 • 22h ago
-
----
-
 **[Bitcoin Insider Reveals Why Institutions Are Scrambling To Buy The Dip! | Matt Hougan](https://www.youtube.com/watch?v=iDb9sfON5Qs)**
 
 Bitcoin #Crypto #Finance While retail investors panic over volatility, institutions are quietly buying the dip. In this conversation ...
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 755 • 💬 172 • ⏱️ 29:04 • 8h ago
+👁️ 21K • 👍 869 • 💬 216 • ⏱️ 29:04 • 9h ago
+
+---
+
+**[IT&#39;S OVER: How Trump Just DESTROYED The Bitcoin Bull Run](https://www.youtube.com/watch?v=MBIqEC3fU0o)**
+
+Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic is everywhere. The Fear and Greed Index just ...
+
+📺 Simply Bitcoin
+
+👁️ 22K • 👍 1K • 💬 194 • ⏱️ 19:16 • 23h ago
 
 ---
 
@@ -341,7 +341,17 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 29K • 👍 1K • 💬 282 • ⏱️ 26:57 • 1d ago
+👁️ 31K • 👍 1K • 💬 293 • ⏱️ 26:57 • 1d ago
+
+---
+
+**[The Bitcoin &quot;War Pump&quot; is a Trap.](https://www.youtube.com/watch?v=XsIR-LEi2bk)**
+
+BUY THE invasion usually plays out in the short term, but in the LONG term it is a trap. Mid term year is here... The links below may ...
+
+📺 Digital Asset News
+
+👁️ 5K • 👍 429 • 💬 26 • ⏱️ 32:26 • 5h ago
 
 ---
 
@@ -351,17 +361,7 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 7K • 👍 129 • 💬 28 • ⏱️ 14:26 • 1d ago
-
----
-
-**[&quot;GET READY! Bitcoin&#39;s About to Pull the Surprise of the Year&quot; - Tom Lee](https://www.youtube.com/watch?v=VvVxD4aXBqY)**
-
-Bitcoin didn't top because of “manipulation.” But that doesn't mean manipulation isn't part of the story. In this video, we break ...
-
-📺 Savvy Finance
-
-👁️ 2K • 👍 118 • 💬 8 • ⏱️ 21:22 • 6h ago
+👁️ 7K • 👍 138 • 💬 50 • ⏱️ 14:26 • 1d ago
 
 ---
 
@@ -371,7 +371,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 258 • ⏱️ 36:35 • 1d ago
+👁️ 33K • 👍 2K • 💬 342 • ⏱️ 36:35 • 1d ago
 
 ---
 
@@ -381,7 +381,17 @@ Geopolitical fear is gripping the markets. News of military strikes in Iran sent
 
 📺 Gareth Soloway
 
-👁️ 80K • 👍 5K • 💬 704 • ⏱️ 12:42 • 1d ago
+👁️ 82K • 👍 5K • 💬 733 • ⏱️ 12:42 • 1d ago
+
+---
+
+**[BREAKING: White House Clarity Act Bitcoin Deadline Is TODAY — Here&#39;s What&#39;s Coming](https://www.youtube.com/watch?v=s5cLiRr1ug4)**
+
+IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purposes only. NOT financial, investment, or ...
+
+📺 The Kenzo Guy
+
+👁️ 345 • 👍 43 • 💬 2 • ⏱️ 29:40 • 1h ago
 
 ---
 
@@ -391,27 +401,17 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 640K • 👍 21K • 💬 2K • ⏱️ 18:56 • 2d ago
+👁️ 649K • 👍 21K • 💬 2K • ⏱️ 18:56 • 2d ago
 
 ---
 
-**[BITCOIN... THIS IS CRAZY](https://www.youtube.com/watch?v=4D1xi_B7DdY)**
+**[Oil, Crypto Set for Volatility After Iran Attack](https://www.youtube.com/watch?v=m9aCMgMZ308)**
 
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
+Oil and cryptocurrencies could see increased trading volatility after the death of Iran's supreme leader. 'Bloomberg This Weekend' ...
 
-📺 Satoshi Stacker
+📺 Bloomberg Podcasts
 
-👁️ 13K • 👍 562 • 💬 82 • ⏱️ 10:08 • 11h ago
-
----
-
-**[The Media Just LIED About Bitcoin! (Here&#39;s The Proof)](https://www.youtube.com/watch?v=sYRdO0tFQLQ)**
-
-The New York Times says crypto is finished. CNBC runs with it. Meanwhile Bitcoin search interest just hit a five year high and ...
-
-📺 Simply Bitcoin
-
-👁️ 13K • 👍 923 • 💬 112 • ⏱️ 18:58 • 1d ago
+👁️ 2K • 👍 27 • 💬 8 • ⏱️ 4:57 • 9h ago
 
 ---
 
