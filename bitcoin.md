@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T15:46:52.947036+00:00'
+updated: '2026-03-01T16:29:55.544964+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
-- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 15:46 UTC  
+**Last Updated:** March 01, 2026 at 16:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1340.21B
+**Market Cap:** $1340.51B
 Rank #1
 
-**Circulating Supply:** 19,996,478 BTC
+**Circulating Supply:** 19,996,506 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.0%
+-46.8%
 
 **All-Time Low:** $67.81
-+98507.9%
++98765.9%
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-35m ago
+1h ago
 
 ---
 
@@ -95,7 +95,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 **[HODL your 0.01 BTC onto you FOREVER](https://www.reddit.com/r/Bitcoin/comments/1rhhvzn/hodl_your_001_btc_onto_you_forever/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -103,7 +103,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
 
-4h ago
+5h ago
 
 ---
 
@@ -117,7 +117,7 @@ Thoughts on buying 250 usd worth of bitcoin every week for the next couple of ye
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
 
-1h ago
+2h ago
 
 ---
 
@@ -141,7 +141,7 @@ Based on my technical analysis, which I do have a few years of experience in, BT
 
 Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation? EDIT: didn’t think so many people would get offended by my thoughts. I’m just curious as to how others are feeling regarding the current state of the market. Now I’m getting told that I’m trying to build bearish sentiment on the timeline. Wtf?
 
-21h ago
+22h ago
 
 ---
 
@@ -149,7 +149,7 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, built on the Bitaxe GT 801 platform with dual BM1370 chips. Quick rundown: 2.15 TH/s default, 3.06+ TH/s overclocked 4.3" capacitive touchscreen with 8 live screens (hashrate, block height, latest blocks, BTC price, clock, Wi-Fi config, settings, hashrate graph) All screen data pulls from mempool.space ~43W, ~35 dB Mining firmware is mainline AxeOS (esp-miner), screen firmware is BAP-GT-TOUCH, both fully open source Runs on the ESP32-S3 with Wi-Fi, same as other Bitaxe models The big jump from the original Bitaxe Touch is doubling the hashrate (was ~1.0 TH/s on the single BM1370 version), going from 4 screens to 8, and moving the screen firmware from proprietary to open source through the GT 801's Bitaxe Accessory Port. It was shown off at the HeatPunk Summit in Denver this week. Full technical breakdown here: https://www.solosatoshi.com/bitaxe-touch-unveiled/ Happy to answer any questions about the hardware or firmware. https://preview.redd.it/4pkalprlpbmg1.png?width=940&format=png&auto=webp&s=8fa61aac5ec82447679162cbfd3bc7035d619063 https://preview.redd.it/eowlutrlpbmg1.png?width=940&format=png&auto=webp&s=25284ed91c26ad2e1bf23b7600ec5ac4d7542926 https://preview.redd.it/vpm4exrlpbmg1.png?width=940&format=png&auto=webp&s=0733ea99d58e508597a6a2d1afb7c79a62ac8c8f https://preview.redd.it/yx0rv1slpbmg1.png?width=940&format=png&auto=webp&s=d97f2210eb9003188d229f0fcc3d8ad584392ac1 https://preview.redd.it/vcwhozrlpbmg1.png?width=940&format=png&auto=webp&s=2aa3dce9f95bec81d63fd92514fb08889dab372f https://preview.redd.it/xdh9g4slpbmg1.png?width=940&format=png&auto=webp&s=e42ccaf53253fa56de0292caf7371f85f1cdf84d https://preview.redd.it/25hd76slpbmg1.png?width=940&format=png&auto=webp&s=1c76894f9e96103c3d114738b7576747924ad247 https://preview.redd.it/bfmte8slpbmg1.png?width=940&format=png&auto=webp&s=558dcb23d0c0c297d6f1c7f4c4f8535cea53bb47 https://preview.redd.it/hzz55dslpbmg1.png?width=940&format=png&auto=webp&s=672936b1e0dbd42e96d7e8fb6b14488ac389e794 https://preview.redd.it/z1jlm9slpbmg1.png?width=940&format=png&auto=webp&s=fb42b49425d9ddb84903ce135e2b5f1b3624691a
 
-15h ago
+16h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, bui
 
 The company holds about 8,285 bitcoin in Coinbase Prime custody, a stake now worth roughly $545 million after a $235 million decline in value over the past three months.
 
-CoinDesk • 2h ago
+CoinDesk • 3h ago
 
 ---
 
@@ -177,13 +177,13 @@ The Motley Fool • 13h ago
 
 Historically, bitcoin bear markets have lasted 12-13 months, suggesting a potential downturn until late 2026 if priced in USD.
 
-CoinDesk • 43m ago
+CoinDesk • 1h ago
 
 ---
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -191,7 +191,7 @@ Bloomberg.com • 12h ago
 
 Tether Gold and Paxos Gold spiked on Saturday after the US announced it had bombed Iran. Bitcoin and Ethereum dropped in price. Tokenised gold is proving useful to give investors exposure to safe-haven assets.
 
-Yahoo Finance • 22h ago
+Yahoo Finance • 23h ago
 
 ---
 
@@ -215,7 +215,7 @@ Fortune • 2d ago
 
 Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
 
-supercarblondie.com • 4h ago
+supercarblondie.com • 5h ago
 
 ---
 
@@ -223,7 +223,7 @@ supercarblondie.com • 4h ago
 
 A 2023-style bottom signal has reappeared for bitcoin, but analysts say weaker liquidity, ETF flow trends, and sticky inflation could limit a repeat of last cycle’s 130% rebound.
 
-Bitbo • 17h ago
+Bitbo • 18h ago
 
 ---
 
@@ -231,7 +231,7 @@ Bitbo • 17h ago
 
 Solana led major tokens with a 10.8% bounce, while ether reclaimed $2,000 and bitcoin climbed back above $66,800 ahead of traditional futures opens on Sunday.
 
-CoinDesk • 8h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -265,7 +265,7 @@ Links to major crypto world figures are just the start.
 
 One critic replied simply "go away."
 
-⬆️ 3 • 💬 0 • 3h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 3 • 💬 0 • 4h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -321,17 +321,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 17K • 👍 1K • 💬 221 • ⏱️ 19:16 • 15h ago
-
----
-
-**[Raoul Pal Shocks Everyone With What He Just Said About The Bitcoin Crash (2026 Warning)](https://www.youtube.com/watch?v=wL8mjQz0R-M)**
-
-Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating way possible. The Real Vision CEO ...
-
-📺 Money Talks
-
-👁️ 5K • 👍 109 • 💬 23 • ⏱️ 14:26 • 21h ago
+👁️ 18K • 👍 1K • 💬 190 • ⏱️ 19:16 • 16h ago
 
 ---
 
@@ -341,27 +331,17 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 24K • 👍 1K • 💬 282 • ⏱️ 26:57 • 1d ago
+👁️ 26K • 👍 1K • 💬 271 • ⏱️ 26:57 • 1d ago
 
 ---
 
-**[IRAN STRIKES DUMP BITCOIN: Why the &quot;Smart Money&quot; is Buying Now 📈](https://www.youtube.com/watch?v=vQeBcL94LSs)**
+**[Raoul Pal Shocks Everyone With What He Just Said About The Bitcoin Crash (2026 Warning)](https://www.youtube.com/watch?v=wL8mjQz0R-M)**
 
-Geopolitical fear is gripping the markets. News of military strikes in Iran sent crypto plunging overnight—but while retail investors ...
+Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating way possible. The Real Vision CEO ...
 
-📺 Gareth Soloway
+📺 Money Talks
 
-👁️ 72K • 👍 4K • 💬 660 • ⏱️ 12:42 • 19h ago
-
----
-
-**[Trump Iran Strike Just Flash Crashed Bitcoin - What Comes Next?](https://www.youtube.com/watch?v=_r0SlQwQ9wk)**
-
-Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
-
-📺 Altcoin Daily
-
-👁️ 26K • 👍 1K • 💬 225 • ⏱️ 36:35 • 17h ago
+👁️ 6K • 👍 117 • 💬 25 • ⏱️ 14:26 • 21h ago
 
 ---
 
@@ -371,7 +351,27 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 4K • 👍 214 • 💬 8 • ⏱️ 26:03 • 18h ago
+👁️ 4K • 👍 220 • 💬 9 • ⏱️ 26:03 • 18h ago
+
+---
+
+**[Trump Iran Strike Just Flash Crashed Bitcoin - What Comes Next?](https://www.youtube.com/watch?v=_r0SlQwQ9wk)**
+
+Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
+
+📺 Altcoin Daily
+
+👁️ 28K • 👍 1K • 💬 233 • ⏱️ 36:35 • 18h ago
+
+---
+
+**[IRAN STRIKES DUMP BITCOIN: Why the &quot;Smart Money&quot; is Buying Now 📈](https://www.youtube.com/watch?v=vQeBcL94LSs)**
+
+Geopolitical fear is gripping the markets. News of military strikes in Iran sent crypto plunging overnight—but while retail investors ...
+
+📺 Gareth Soloway
+
+👁️ 75K • 👍 4K • 💬 683 • ⏱️ 12:42 • 20h ago
 
 ---
 
@@ -381,17 +381,17 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 Andrei Jikh
 
-👁️ 619K • 👍 20K • 💬 2K • ⏱️ 18:56 • 1d ago
+👁️ 625K • 👍 21K • 💬 2K • ⏱️ 18:56 • 1d ago
 
 ---
 
-**[Bitcoin BTC Chart Analysis - Has Bitcoin Formed an Impulse? Elliott Wave Analysis](https://www.youtube.com/watch?v=2usUnVC-YDc)**
+**[The Media Just LIED About Bitcoin! (Here&#39;s The Proof)](https://www.youtube.com/watch?v=sYRdO0tFQLQ)**
 
-This video provides a professional Elliott Wave and technical analysis of Bitcoin (BTC), focusing on market structure, key support ...
+The New York Times says crypto is finished. CNBC runs with it. Meanwhile Bitcoin search interest just hit a five year high and ...
 
-📺 More Crypto Online
+📺 Simply Bitcoin
 
-👁️ 3K • 👍 306 • 💬 14 • ⏱️ 8:15 • 4h ago
+👁️ 13K • 👍 893 • 💬 145 • ⏱️ 18:58 • 22h ago
 
 ---
 
@@ -401,7 +401,7 @@ Jordi Visser (@JordiVisserLabs) is a veteran macro investor with 30+ years of ex
 
 📺 Anthony Pompliano
 
-👁️ 36K • 👍 2K • ⏱️ 48:41 • 1d ago
+👁️ 37K • 👍 2K • ⏱️ 48:41 • 1d ago
 
 ---
 

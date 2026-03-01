@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T15:46:52.956422+00:00'
+updated: '2026-03-01T16:29:55.554288+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 15:46 UTC  
+**Last Updated:** March 01, 2026 at 16:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -56,13 +56,13 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 1h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 2h ago
 
 ---
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-11m ago
+55m ago
 
 ---
 
@@ -92,7 +92,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Yo everyone! ​I’m a third-year Electrical Engineering student currently working on a robotics project involving simulation and control systems. I’ve been trying to get a 2-axis (2-DOF) robotic arm running in MATLAB/Simulink using the Robotics System Toolbox. ​The Problem: I found some cool 3D models of an articulated arm, but they are in SolidWorks format (.SLDPRT and .SLDASM). I’m struggling to get these converted into a clean URDF (XML) file that MATLAB can actually importrobot. ​What I'm looking for: ​Does anyone have a link to a reliable 2-DOF or 3-DOF arm URDF (XML) that is already verified to work in MATLAB? ​If I stick with the SolidWorks models I found, what is the fastest way to export them to URDF without the file becoming a mess of hidden .xml extensions or broken joint links? ​Any tips on setting up a basic PID controller in Simulink once the model is imported? ​I’ve checked GitHub but most models are for huge 6-axis industrial arms like the UR5, which is overkill for my current assignment. ​Any links, repos, or advice would be massive! Thanks in advance.
 
-5h ago
+6h ago
 
 ---
 
@@ -140,7 +140,7 @@ TechCrunch • 1d ago
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -188,7 +188,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 167K • 👍 2K • 💬 340 • ⏱️ 14:16 • 6d ago
+👁️ 168K • 👍 2K • 💬 341 • ⏱️ 14:16 • 6d ago
 
 ---
 
@@ -198,27 +198,27 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 88K • 👍 1K • 💬 330 • ⏱️ 12:16 • 2d ago
+👁️ 90K • 👍 1K • 💬 342 • ⏱️ 12:16 • 2d ago
 
 ---
 
-**[HONOR Robot Phone Steals the Show 🤖🕺](https://www.youtube.com/watch?v=gkZ4qErwy24)**
+**[The Hard Truth About Mass Robot Deployment](https://www.youtube.com/watch?v=VTbd0_n9qQA)**
 
-HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most surprising highlights from the ...
+Tesla just shut down Model S and X lines to pivot toward Optimus production — but is this a real robotics breakthrough or a ...
 
-📺 Dariusz Tech
+📺 Dumb Money Live
 
-👁️ 294 • 👍 47 • 💬 3 • ⏱️ 1:17 • 1h ago
+👁️ 12K • 👍 356 • 💬 131 • ⏱️ 13:15 • 1d ago
 
 ---
 
-**[Building a Robot so I don&#39;t get kicked out of Uni](https://www.youtube.com/watch?v=QZeO-wh_1HY)**
+**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
 
-Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
+China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
 
-📺 Tazer
+📺 NewsX Live
 
-👁️ 43K • 👍 3K • 💬 160 • ⏱️ 21:58 • 14h ago
+👁️ 64K • 👍 306 • 💬 118 • ⏱️ 2:18 • 3d ago
 
 ---
 
@@ -232,13 +232,33 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
+**[Building a Robot so I don&#39;t get kicked out of Uni](https://www.youtube.com/watch?v=QZeO-wh_1HY)**
+
+Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
+
+📺 Tazer
+
+👁️ 51K • 👍 4K • 💬 195 • ⏱️ 21:58 • 15h ago
+
+---
+
+**[HONOR Robot Phone Steals the Show 🤖🕺](https://www.youtube.com/watch?v=gkZ4qErwy24)**
+
+HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most surprising highlights from the ...
+
+📺 Dariusz Tech
+
+👁️ 1K • 👍 123 • 💬 10 • ⏱️ 1:17 • 2h ago
+
+---
+
 **[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
 
 A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
 
 📺 NBC Bay Area
 
-👁️ 127K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
+👁️ 128K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
 
 ---
 
@@ -248,7 +268,7 @@ Is it a machine... or a person in a suit? This humanoid robot is moving so natur
 
 📺 SciVion
 
-👁️ 33K • 👍 700 • 💬 16 • ⏱️ 0:35 • 1d ago
+👁️ 33K • 👍 702 • 💬 16 • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -258,27 +278,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 298K • 👍 2K • 💬 796 • ⏱️ 0:55 • 3d ago
-
----
-
-**[Why did German Chancellor Merz visit Unitree Robotics?](https://www.youtube.com/watch?v=O7UV7qWLGu4)**
-
-Unitree Robotics was one of the stops during German Chancellor Friedrich Merz's two-day visit to China. From America's Super ...
-
-📺 CGTN
-
-👁️ 21K • 👍 806 • 💬 45 • ⏱️ 1:47 • 2d ago
-
----
-
-**[German Chancellor Friedrich Merz Visits Unitree Robotics](https://www.youtube.com/watch?v=2RheOxcKYTI)**
-
-German Chancellor Friedrich Merz just visited Unitree Robotics in China, and the robotics demonstrations were impressive.
-
-📺 DPCcars
-
-👁️ 338K • 👍 2K • 💬 841 • ⏱️ 1:27 • 2d ago
+👁️ 305K • 👍 2K • 💬 807 • ⏱️ 0:55 • 3d ago
 
 ---
 

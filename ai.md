@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T15:46:52.938613+00:00'
+updated: '2026-03-01T16:29:55.536277+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - videos
 - news
-- social
 - repositories
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 15:46 UTC  
+**Last Updated:** March 01, 2026 at 16:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-8h ago
+9h ago
 
 ---
 
@@ -57,7 +57,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 35m ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 1h ago
 
 ---
 
@@ -71,7 +71,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 I’m been thinking a lot about pricing models for ai native apps. For the last few decades the SaaS model was effectively: "Make something that you build once and can sell again and again at 0 marginal cost with monthly subscriptions" AI products don’t have that luxury. Every interaction uses tokens. Tokens use energy & cost money. Light & power users burning tokens at different rates in the same pricing tiers is an analysts nightmare. So what's the solution and right pricing model? TAAS: "Software that adds value to tokens and is resold directly to users as a service." AI video creation, research tools, chat bots. They are all effectively placing a value layer over an API key and selling the tokens for massive markups. The extent to which a company can add value to an AI token is the extent to which they can markup their service. And ironically the way to do that is to lean 90% into software and 10% into AI. You want to offload as much of the costs of value delivery onto free executable code and use AI tokens as sparingly as possible. The application that throws AI bluntly at a solution will fail. The application that effectively solves the problem with code and uses AI to make it magical as a layer above will succeed.
 
-4h ago
+5h ago
 
 ---
 
@@ -95,7 +95,7 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 Hello, I was wondering which AI can give me the best result for pictures as brands? I started new one recently but I am struggling with making it's logo, I used Chatgpt and the results sucks so I need suggestions. Thanks!
 
-13h ago
+14h ago
 
 ---
 
@@ -123,7 +123,7 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Guardian • 1d ago
 
 The CEO of Anthropic says his company refused to allow its technology to be used by the Trump Administration without certain guidelines (such as not using its AI to power fully-autonomous weapons without any human involvement).
 
-CBS News • 23m ago
+CBS News • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ CBS News • 23m ago
 
 For some years now, groups, universities, organizations and authorities have developed and implemented AI for data analysis, tattoo identification, facial recognition and to give a voice to the missing.
 
-CNN • 46m ago
+CNN • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ CNN • 46m ago
 
 Surging electricity demand from AI data centers is colliding with a federal energy policy that favors slow-build fossil fuels over fast-deploy renewables. Price impact?
 
-Forbes • 46m ago
+Forbes • 1h ago
 
 ---
 
@@ -169,7 +169,7 @@ Forbes • 46m ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 54m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -193,7 +193,7 @@ CNBC • 3h ago
 
 NVIDIA today announced a commitment — together with Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank Corp. and T-Mobile — to build the world’s next generation of wireless networks on AI-native, open, secure and trustworthy platforms.
 
-NVIDIA Newsroom • 8h ago
+NVIDIA Newsroom • 9h ago
 
 ---
 
@@ -205,13 +205,13 @@ NVIDIA Newsroom • 8h ago
 
 Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.
 
-⬆️ 601 • 💬 574 • 2d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+⬆️ 601 • 💬 574 • 3d ago • [Google](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 
 ---
 
 **[AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]](https://news.ycombinator.com/item?id=47167763)**
 
-⬆️ 409 • 💬 189 • 2d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
+⬆️ 409 • 💬 189 • 3d ago • [ndss-symposium.org](https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf)
 
 ---
 
@@ -235,7 +235,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 210 • 💬 134 • 3h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 210 • 💬 134 • 4h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -243,7 +243,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 157 • 💬 108 • 1h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 157 • 💬 108 • 2h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -277,33 +277,43 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 ## YouTube Videos: "ai"
 
-**[The AI Collapse Is MUCH Worse Than You Think](https://www.youtube.com/watch?v=jhDfq9sj-u8)**
-
-Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about the AI crisis, the 2026 economy, and how you ...
-
-📺 Graham Stephan
-
-👁️ 206K • 👍 8K • 💬 800 • ⏱️ 15:25 • 1d ago
-
----
-
-**[cute little baby funny dance🤣🤩#funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​](https://www.youtube.com/watch?v=M6jo5k7L7H0)**
-
-cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​
-
-📺 Sleep Time Tales
-
-👁️ 4K • 💬 1 • ⏱️ 0:08 • 2h ago
-
----
-
 **[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
 
 AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
 
 📺 CNBC
 
-👁️ 55K • 👍 1K • 💬 208 • ⏱️ 39:40 • 23h ago
+👁️ 57K • 👍 1K • 💬 216 • ⏱️ 39:40 • 1d ago
+
+---
+
+**[The AI Collapse Is MUCH Worse Than You Think](https://www.youtube.com/watch?v=jhDfq9sj-u8)**
+
+Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about the AI crisis, the 2026 economy, and how you ...
+
+📺 Graham Stephan
+
+👁️ 210K • 👍 8K • 💬 817 • ⏱️ 15:25 • 1d ago
+
+---
+
+**[Cute Fruit Babies Eating Fruit | Oddly Satisfying AI](https://www.youtube.com/watch?v=VocL_BQ_mEs)**
+
+OddlySatisfying #SatisfyingAI #CuteAI Enjoy this adorable and oddly satisfying AI compilation featuring anthropomorphic fruit ...
+
+📺 Rapoh
+
+👁️ 44K • 👍 120 • 💬 6 • ⏱️ 1:29 • 2d ago
+
+---
+
+**[AI layoffs are just getting started](https://www.youtube.com/watch?v=RAa2m_Fp8U8)**
+
+Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: https://farzad.fm Buy Matic: ...
+
+📺 Farzad
+
+👁️ 6K • 👍 505 • 💬 94 • ⏱️ 20:52 • 3h ago
 
 ---
 
@@ -313,7 +323,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 212K • 👍 8K • 💬 1K • ⏱️ 1:33:33 • 22h ago
+👁️ 240K • 👍 9K • 💬 1K • ⏱️ 1:33:33 • 23h ago
 
 ---
 
@@ -323,27 +333,17 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 127K • 👍 8K • 💬 1K • ⏱️ 14:41 • 1d ago
+👁️ 134K • 👍 9K • 💬 1K • ⏱️ 14:41 • 1d ago
 
 ---
 
-**[Morgan Freeman on AI trying to replicate his voice: &quot;I&#39;ve got lawyers&quot;](https://www.youtube.com/watch?v=6pTNs292keg)**
-
-Legendary actor Morgan Freeman, who has starred in more than 100 movies in his six-decade career, joins "CBS Mornings" to ...
-
-📺 CBS Mornings
-
-👁️ 174K • 👍 2K • 💬 329 • ⏱️ 6:34 • 2d ago
-
----
-
-**[cute little baby funny dance🤣🤩#funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​](https://www.youtube.com/watch?v=ROvm2LZFkYk)**
+**[cute little baby funny dance🤣🤩#funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​](https://www.youtube.com/watch?v=v7ivz74_XpA)**
 
 cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​
 
 📺 Sleep Time Tales
 
-👁️ 5K • 💬 2 • ⏱️ 0:10 • 2h ago
+👁️ 5K • ⏱️ 0:08 • 1h ago
 
 ---
 
@@ -353,7 +353,17 @@ shorts #AI #disturbing.
 
 📺 Built By Gamers
 
-👁️ 28K • 👍 646 • 💬 11 • ⏱️ 0:30 • 1d ago
+👁️ 28K • 👍 653 • 💬 11 • ⏱️ 0:30 • 1d ago
+
+---
+
+**[Morgan Freeman on AI trying to replicate his voice: &quot;I&#39;ve got lawyers&quot;](https://www.youtube.com/watch?v=6pTNs292keg)**
+
+Legendary actor Morgan Freeman, who has starred in more than 100 movies in his six-decade career, joins "CBS Mornings" to ...
+
+📺 CBS Mornings
+
+👁️ 188K • 👍 2K • 💬 335 • ⏱️ 6:34 • 2d ago
 
 ---
 
@@ -363,17 +373,7 @@ cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cut
 
 📺 Sleep Time Tales
 
-👁️ 106K • 💬 2 • ⏱️ 0:08 • 7h ago
-
----
-
-**[cute little baby funny dance🤣🤩#funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​](https://www.youtube.com/watch?v=t1nfoph6afs)**
-
-cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cutebabyshorts​ #aibaby​ #ai​
-
-📺 Sleep Time Tales
-
-👁️ 71K • 💬 1 • ⏱️ 0:08 • 9h ago
+👁️ 209K • 💬 3 • ⏱️ 0:08 • 8h ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 481,446 • ❤️ 712 • 2d ago
+⬇️ 481,446 • ❤️ 726 • 2d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 217,725 • ❤️ 459 • 4d ago
+⬇️ 217,725 • ❤️ 462 • 4d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 432,876 • ❤️ 391 • 1d ago
+⬇️ 432,876 • ❤️ 395 • 1d ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 127,141 • ❤️ 355 • 4d ago
+⬇️ 127,141 • ❤️ 356 • 5d ago
 
 ---
 
@@ -437,19 +437,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,030,009 • ❤️ 1,138 • 6d ago
-
----
-
-**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
-
-*Z.ai*
-
-GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
-
-`text-generation` `753.9B`
-
-⬇️ 193,972 • ❤️ 1,660 • 16d ago
+⬇️ 1,030,009 • ❤️ 1,140 • 6d ago
 
 ---
 
@@ -465,6 +453,18 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 ---
 
+**[GLM-5](https://huggingface.co/zai-org/GLM-5)**
+
+*Z.ai*
+
+GLM-5 is a large language model optimized for complex systems engineering and long-horizon agentic tasks, featuring a 744B parameter architecture with DeepSeek Sparse Attention for efficient long-context handling. It excels in reasoning, coding, and agentic capabilities, outperforming other open-source models on various benchmarks.
+
+`text-generation` `753.9B`
+
+⬇️ 193,972 • ❤️ 1,660 • 16d ago
+
+---
+
 **[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
 
 *Nanbeige LLM Lab*
@@ -473,7 +473,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 338,176 • ❤️ 911 • 3d ago
+⬇️ 338,176 • ❤️ 912 • 3d ago
 
 ---
 
@@ -485,7 +485,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 10,611 • ❤️ 213 • 1d ago
+⬇️ 10,611 • ❤️ 214 • 1d ago
 
 ---
 
@@ -497,7 +497,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 313,330 • ❤️ 1,045 • 13d ago
+⬇️ 313,330 • ❤️ 1,047 • 13d ago
 
 ---
 
@@ -523,7 +523,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 7 • 💬 0 • ⭐ 6,307 • 16mo ago
+▲ 7 • 💬 0 • ⭐ 6,419 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
@@ -535,7 +535,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 9 • 💬 1 • ⭐ 8,735 • 23mo ago
+▲ 9 • 💬 1 • ⭐ 8,780 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -556,19 +556,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 
 ---
 
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 38 • 💬 1 • ⭐ 71,534 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
-
----
-
 **[PaperBanana: Automating Academic Illustration for AI Scientists](https://huggingface.co/papers/2601.23265)**
 
 *Dawei Zhu, Rui Meng, Yale Song et al. (7 authors)*
@@ -577,9 +564,22 @@ PagedAttention algorithm and vLLM system enhance the throughput of large languag
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 204 • 💬 13 • ⭐ 4,371 • 1mo ago
+▲ 204 • 💬 13 • ⭐ 4,424 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 38 • 💬 1 • ⭐ 71,570 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.5k • 🔱 2.7k • 1h ago
+⭐ 21.6k • 🔱 2.7k • 2m ago
 
 ---
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Python`
 
-⭐ 6.0k • 🔱 722 • 1d ago
+⭐ 6.0k • 🔱 725 • 1d ago
 
 ---
 
@@ -661,17 +661,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 363 • 11h ago
-
----
-
-**[memovai/mimiclaw](https://github.com/memovai/mimiclaw)**
-
-MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw.
-
-`C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
-
-⭐ 3.6k • 🔱 482 • 8h ago
+⭐ 3.8k • 🔱 363 • 10m ago
 
 ---
 
@@ -681,7 +671,17 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.6k • 🔱 414 • 14h ago
+⭐ 3.7k • 🔱 424 • 14h ago
+
+---
+
+**[memovai/mimiclaw](https://github.com/memovai/mimiclaw)**
+
+MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw.
+
+`C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
+
+⭐ 3.6k • 🔱 484 • 9h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.3k • 🔱 263 • 1d ago
+⭐ 3.4k • 🔱 269 • 1d ago
 
 ---
 
@@ -701,27 +701,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 218 • 7h ago
-
----
-
-**[netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI)**
-
-Your 24/7 all-scenario AI agent that gets work done for you.
-
-`TypeScript`
-
-⭐ 3.0k • 🔱 330 • 2h ago
-
----
-
-**[Conway-Research/automaton](https://github.com/Conway-Research/automaton)**
-
-The first AI that can earn its own existence, replicate, and evolve — without needing a human
-
-`TypeScript`
-
-⭐ 2.9k • 🔱 566 • 1d ago
+⭐ 3.0k • 🔱 219 • 8h ago
 
 ---
 
@@ -731,7 +711,27 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 2.9k • 🔱 278 • 15h ago
+⭐ 3.0k • 🔱 297 • 16h ago
+
+---
+
+**[netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI)**
+
+Your 24/7 all-scenario AI agent that gets work done for you.
+
+`TypeScript`
+
+⭐ 3.0k • 🔱 331 • 1h ago
+
+---
+
+**[Conway-Research/automaton](https://github.com/Conway-Research/automaton)**
+
+The first AI that can earn its own existence, replicate, and evolve — without needing a human
+
+`TypeScript`
+
+⭐ 3.0k • 🔱 568 • 1d ago
 
 ---
 
