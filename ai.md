@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T22:25:59.860549+00:00'
+updated: '2026-03-01T22:50:01.999005+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- videos
-- social
 - news
 - repositories
+- videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 22:25 UTC  
+**Last Updated:** March 01, 2026 at 22:50 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 11h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 12h ago
 
 ---
 
@@ -73,7 +73,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 AI images are slop. In this article, I explore how to make use of multiple models and their strengths to improve the quality of AI-generated images.
 
-🔗 [therantydev.com](https://www.therantydev.com/the-three-stage-image-gen-pipeline) • 15m ago
+🔗 [therantydev.com](https://www.therantydev.com/the-three-stage-image-gen-pipeline) • 39m ago
 
 ---
 
@@ -103,7 +103,7 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 AM I?
 
-45m ago
+1h ago
 
 ---
 
@@ -155,7 +155,7 @@ The Guardian • 9h ago
 
 Jefferies found a basket of "AI risk" stocks, ranging from MongoDB to Robinhood, that could be under threat as the technology develops.
 
-CNBC • 9h ago
+CNBC • 10h ago
 
 ---
 
@@ -205,7 +205,7 @@ NVIDIA Blog • 15h ago
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 415 • 💬 246 • 10h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 415 • 💬 246 • 11h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -235,7 +235,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 208 • 💬 45 • 14h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 208 • 💬 45 • 15h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -261,13 +261,13 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 130 • 💬 230 • 8h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 130 • 💬 230 • 9h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
 **[HN is drowning in AI comments](https://news.ycombinator.com/item?id=47201629)**
 
-⬆️ 86 • 💬 63 • 22h ago
+⬆️ 86 • 💬 63 • 23h ago
 
 ---
 
@@ -721,7 +721,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 331 • 7h ago
+⭐ 3.0k • 🔱 331 • 8h ago
 
 ---
 

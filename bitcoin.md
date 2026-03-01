@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T22:25:59.868852+00:00'
+updated: '2026-03-01T22:50:02.007494+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 22:25 UTC  
+**Last Updated:** March 01, 2026 at 22:50 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -103,7 +103,7 @@ I often see people criticizing Bitcoin, and many times, these are people who wer
 
 Hit .70 btc….Endless schloggggg to 1.
 
-1h ago
+2h ago
 
 ---
 
@@ -119,7 +119,7 @@ Is it time to buy Bitcoin? Share some advice and suggest promising assets simila
 
 Feels like that's what's happening right now.
 
-50m ago
+1h ago
 
 ---
 
@@ -135,13 +135,13 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
 
-10h ago
+11h ago
 
 ---
 
 **[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -185,7 +185,7 @@ Yahoo Finance • 4h ago
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces that it has raised over $7.391 million and the allocation is disappearing faster...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -193,7 +193,7 @@ markets.businessinsider.com • 1h ago
 
 Bitcoin drops 40% from $120K peak—viral theory blames Jane Street for morning price dumps via ETFs. Experts dismiss claims.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -223,7 +223,7 @@ Fortune • 3d ago
 
 Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
 
-supercarblondie.com • 11h ago
+supercarblondie.com • 12h ago
 
 ---
 
@@ -257,7 +257,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 One critic replied simply "go away."
 
-⬆️ 4 • 💬 0 • 10h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 4 • 💬 0 • 11h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -277,7 +277,7 @@ Links to major crypto world figures are just the start.
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 23h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 1d ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin didn't top because of “manipulation.” But that doesn't mean manipula
 
 📺 Savvy Finance
 
-👁️ 2K • 👍 118 • 💬 8 • ⏱️ 21:22 • 5h ago
+👁️ 2K • 👍 118 • 💬 8 • ⏱️ 21:22 • 6h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T22:25:59.874839+00:00'
+updated: '2026-03-01T22:50:02.013578+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- social
 - news
+- videos
 - cryptocurrency
+- social
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 22:25 UTC  
+**Last Updated:** March 01, 2026 at 22:50 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 Hi ethereumers (if that's the way we call the ethereum community eheh), firstly i'm sorry if this is an frequent question but i couldn't find the answer anywhere so i wanna ask about it. I'm holding Bitcoins in trustwallet which i'm willing to convert to eth to pay gas for my usdt, is there a simple/fast way to do it? Advices appreciated
 
-1h ago
+2h ago
 
 ---
 
@@ -164,7 +164,7 @@ Nasdaq • 1d ago
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces $7,4M milestone will hit soon, and the project is going viral and the presale nu...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -172,7 +172,7 @@ markets.businessinsider.com • 1h ago
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces that it has raised over $7.391 million and the allocation is disappearing faster...
 
-markets.businessinsider.com • 1h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
@@ -226,7 +226,7 @@ Coinpedia Fintech News • 13h ago
 
 The need for blockchains to enable transactions among themselves has become a necessity. In 2026, the cross-chain interoperability protocol (CCIP) is making
 
-FinanceFeeds • 45m ago
+FinanceFeeds • 1h ago
 
 ---
 
@@ -240,7 +240,7 @@ Did Vitalik Buterin just dump Ethereum at the worst possible time? After announc
 
 📺 Coin Bureau
 
-👁️ 40K • 👍 2K • 💬 192 • ⏱️ 18:01 • 9h ago
+👁️ 40K • 👍 2K • 💬 192 • ⏱️ 18:01 • 10h ago
 
 ---
 
@@ -250,7 +250,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 148 • 💬 9 • ⏱️ 7:25 • 9h ago
+👁️ 2K • 👍 148 • 💬 9 • ⏱️ 7:25 • 10h ago
 
 ---
 
@@ -260,7 +260,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 318 • 👍 12 • 💬 3 • ⏱️ 4:36 • 12h ago
+👁️ 318 • 👍 12 • 💬 3 • ⏱️ 4:36 • 13h ago
 
 ---
 

@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T22:25:59.878043+00:00'
+updated: '2026-03-01T22:50:02.016823+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- news
 - videos
 - social
-- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 22:25 UTC  
+**Last Updated:** March 01, 2026 at 22:50 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-11h ago
+12h ago
 
 ---
 
@@ -44,7 +44,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-1h ago
+2h ago
 
 ---
 
@@ -78,13 +78,13 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 4h ago
+🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 5h ago
 
 ---
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -98,7 +98,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -148,7 +148,7 @@ Financial Times • 2d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 19h ago
+news.cgtn.com • 20h ago
 
 ---
 
@@ -200,7 +200,7 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 520 • 👍 14 • 💬 2 • ⏱️ 4:41 • 5h ago
+👁️ 520 • 👍 14 • 💬 2 • ⏱️ 4:41 • 6h ago
 
 ---
 
