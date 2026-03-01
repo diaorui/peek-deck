@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T07:33:43.255360+00:00'
+updated: '2026-03-01T08:33:16.286914+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - social
+- videos
 - news
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 07:33 UTC  
+**Last Updated:** March 01, 2026 at 08:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,13 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-14h ago
+15h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-9h ago
+10h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-18h ago
+19h ago
 
 ---
 
@@ -56,13 +56,13 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-12h ago
+13h ago
 
 ---
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -70,7 +70,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-20h ago
+21h ago
 
 ---
 
@@ -90,7 +90,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 **[A Humanoid Robot Line Up (Part II)](https://www.reddit.com/r/robotics/comments/1rhjmza/a_humanoid_robot_line_up_part_ii/)**
 
-6h ago
+7h ago
 
 ---
 
@@ -118,7 +118,7 @@ Financial Times • 1d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 4h ago
+news.cgtn.com • 5h ago
 
 ---
 
@@ -134,7 +134,7 @@ BMW Blog • 1d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -198,7 +198,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 13K • 👍 1K • 💬 80 • ⏱️ 21:58 • 6h ago
+👁️ 13K • 👍 1K • 💬 80 • ⏱️ 21:58 • 7h ago
 
 ---
 

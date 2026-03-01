@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T07:33:43.237664+00:00'
+updated: '2026-03-01T08:33:16.268272+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- social
 - repositories
 - videos
-- social
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 07:33 UTC  
+**Last Updated:** March 01, 2026 at 08:33 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-23m ago
+1h ago
 
 ---
 
@@ -55,7 +55,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 I've been using NotebookLM heavily for research and got tired of manually hunting down and adding sources. So I wrote a system prompt that hands the whole process off to Claude. When you give it a topic, Claude starts by creating the notebook and drafting a structured research plan for your approval — organized into thematic phases and prioritizing academic and institutional sources (arXiv, PubMed, government reports, technical standards) over generic web content. It validates every URL before adding it, fetching and inspecting each one to catch silent 404s, paywalls, and login walls that NotebookLM would otherwise silently accept. State is persisted across sessions using notes inside the notebook itself, so when Claude hits its session limit you just start a new conversation, paste the notebook URL, and it picks up where it left off. When the notebook is complete, Claude writes a full _REPORT note documenting every source added, skipped, or recommended. Full prompt and setup instructions are on GitHub: github.com/stablediffusiontrainer-cmd/notebooklm-research-skill Happy to answer questions about how it works or how I built it.
 
-1h ago
+2h ago
 
 ---
 
@@ -63,7 +63,7 @@ I've been using NotebookLM heavily for research and got tired of manually huntin
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-11h ago
+12h ago
 
 ---
 
@@ -71,7 +71,7 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 A continuation of the first time I did this with a narrative of humanity since the dawn of civilization. Really starting to get into these sort of experiments now their compute has been cut. Creative writing has possibly boosted. Its 6x LLM outputs that don't fit in here. So... READ HERE
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Yes, of course. Because it’s not really a choice. It’s just a matter of when, and how. Because if your enemy does it and you don’t, you lose. A quick jump forward in time: All wars are fought with autonomous AI-systems. The “good” news is that in a war between two equally powerful parties, the defending party will always have an advantage. Will this lead to more peace on earth?
 
-25m ago
+1h ago
 
 ---
 
@@ -103,7 +103,7 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-12h ago
+13h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
 
-4h ago
+5h ago
 
 ---
 
@@ -131,13 +131,13 @@ CNN • 1d ago
 
 Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
 
-The Guardian • 21h ago
+The Guardian • 22h ago
 
 ---
 
 **[Nvidia Forms Alliance to Make Sure 6G Networks Embrace AI](https://www.bloomberg.com/news/articles/2026-03-01/nvidia-forms-alliance-to-make-sure-6g-networks-embrace-ai)**
 
-Bloomberg.com • 18m ago
+Bloomberg.com • 1h ago
 
 ---
 
@@ -145,7 +145,7 @@ Bloomberg.com • 18m ago
 
 Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-The Guardian • 33m ago
+The Guardian • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ The Guardian • 33m ago
 
 From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
 
-Fortune • 21h ago
+Fortune • 22h ago
 
 ---
 
@@ -161,7 +161,7 @@ Fortune • 21h ago
 
 The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-NBC News • 19h ago
+NBC News • 20h ago
 
 ---
 
@@ -175,7 +175,7 @@ The New York Times • 2d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 18h ago
+CNBC • 19h ago
 
 ---
 
@@ -183,7 +183,7 @@ CNBC • 18h ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 3h ago
+Financial Times • 4h ago
 
 ---
 
@@ -191,7 +191,7 @@ Financial Times • 3h ago
 
 Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
 
-OpenAI • 10h ago
+OpenAI • 11h ago
 
 ---
 
@@ -217,7 +217,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 317 • 💬 177 • 18h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 317 • 💬 177 • 19h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -225,7 +225,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 302 • 💬 179 • 18h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 302 • 💬 179 • 19h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -245,7 +245,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 125 • 💬 99 • 20h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 125 • 💬 99 • 21h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -283,7 +283,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 122K • 👍 5K • 💬 973 • ⏱️ 1:33:33 • 14h ago
+👁️ 122K • 👍 5K • 💬 973 • ⏱️ 1:33:33 • 15h ago
 
 ---
 
@@ -293,7 +293,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 45K • 👍 993 • 💬 184 • ⏱️ 39:40 • 15h ago
+👁️ 45K • 👍 993 • 💬 184 • ⏱️ 39:40 • 16h ago
 
 ---
 
@@ -313,7 +313,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 103K • 👍 7K • 💬 1K • ⏱️ 14:41 • 16h ago
+👁️ 103K • 👍 7K • 💬 1K • ⏱️ 14:41 • 17h ago
 
 ---
 
@@ -333,7 +333,7 @@ This month in AI pushed everything to the edge. Biomimetic robots from China are
 
 📺 AI Revolution
 
-👁️ 7K • 👍 194 • 💬 12 • ⏱️ 1:29:27 • 8h ago
+👁️ 7K • 👍 194 • 💬 12 • ⏱️ 1:29:27 • 9h ago
 
 ---
 
@@ -485,7 +485,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 214 • 19h ago
+⬇️ 8,049 • ❤️ 214 • 20h ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Rust` `official` `official-website`
 
-⭐ 21.3k • 🔱 2.7k • 1h ago
+⭐ 21.3k • 🔱 2.7k • 2h ago
 
 ---
 
@@ -661,7 +661,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 362 • 3h ago
+⭐ 3.7k • 🔱 362 • 4h ago
 
 ---
 
@@ -681,7 +681,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.3k • 🔱 386 • 5h ago
+⭐ 3.3k • 🔱 386 • 6h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.2k • 🔱 253 • 19h ago
+⭐ 3.2k • 🔱 253 • 20h ago
 
 ---
 
@@ -701,7 +701,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 325 • 18h ago
+⭐ 3.0k • 🔱 325 • 19h ago
 
 ---
 
@@ -711,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 215 • 3h ago
+⭐ 3.0k • 🔱 215 • 4h ago
 
 ---
 
@@ -721,7 +721,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 563 • 21h ago
+⭐ 2.9k • 🔱 563 • 22h ago
 
 ---
 
@@ -731,7 +731,7 @@ A desktop GUI for Claude Code — chat, code, and manage projects visually. Buil
 
 `TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
 
-⭐ 2.5k • 🔱 257 • 14h ago
+⭐ 2.5k • 🔱 257 • 15h ago
 
 ---
 
