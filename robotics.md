@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T08:33:16.286914+00:00'
+updated: '2026-03-01T09:32:12.361551+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 08:33 UTC  
+**Last Updated:** March 01, 2026 at 09:32 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,13 +34,19 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-15h ago
+16h ago
 
 ---
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-10h ago
+11h ago
+
+---
+
+**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
+
+6h ago
 
 ---
 
@@ -48,7 +54,7 @@ Robotics research and industry news
 
 Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, DWA (Dynamic Window Approach)'s performance via a two-wheeled vacuum cleaning robot that I'm working on. Without DWA, the robot would've just followed a rigid path that is essentially a square trajectory, which means all the turns made by the robot other than for following the square route are due to DWA's local planning for obstacle avoidance. Any advice that can give me me a frame of reference as to how well it is performing as far as DWA algorithm is concerned will be greatly appreciated. Thank you！
 
-19h ago
+20h ago
 
 ---
 
@@ -56,13 +62,15 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-13h ago
+14h ago
 
 ---
 
-**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
+**[Need suggest for starting a Company (Help Please)](https://www.reddit.com/r/robotics/comments/1rhsc02/need_suggest_for_starting_a_company_help_please/)**
 
-5h ago
+I am right now in my college ,thought of starting robotics company I previously had one Ai automation company which was running quite good but as we know the claude launch multiple plugins so it might be vanished very soon I just have 1 lakh to invest I can built simulation know electronics stuff can build mvp level robots as per current knowledge what you guys suggest ? Even if possible someone for sharing any idea what should I build as I am new in this market and learning things currently. I am even open for partnership if anyone interested here.
+
+47m ago
 
 ---
 
@@ -70,7 +78,7 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-21h ago
+22h ago
 
 ---
 
@@ -90,15 +98,7 @@ For the past year, I’ve been quietly building something I’ve dreamed about s
 
 **[A Humanoid Robot Line Up (Part II)](https://www.reddit.com/r/robotics/comments/1rhjmza/a_humanoid_robot_line_up_part_ii/)**
 
-7h ago
-
----
-
-**[Barista Demo pouring a Latte from CES](https://www.reddit.com/r/robotics/comments/1rgcety/barista_demo_pouring_a_latte_from_ces/)**
-
-Filmed at CES 2026 | Barista demo from Artly showcasing the production and pouring of a Latte. In this case, I think this is a much better, more practical use case than Humanoids performing this task. Cobot | Universal Robot UR3
-
-1d ago
+8h ago
 
 ---
 
@@ -118,7 +118,7 @@ Financial Times • 1d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 5h ago
+news.cgtn.com • 6h ago
 
 ---
 
@@ -134,21 +134,37 @@ BMW Blog • 1d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 19h ago
-
----
-
-**[In Hazelwood, a robotics center adds to a burgeoning tech community](https://www.post-gazette.com/business/tech-news/2026/02/27/hazelwood-robotics-tech-cmu-robotics/stories/202602270096)**
-
-In front of a crowd of hundreds in Hazelwood on Friday morning, four-legged, cheetah-print robots delivered pairs of golden scissors to a line of public...
-
-Pittsburgh Post-Gazette • 1d ago
+CNBC • 20h ago
 
 ---
 
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
 Tech Xplore • 1d ago
+
+---
+
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+
+Coco Robotics launched a new generation of delivery bots
+
+Los Angeles Times • 22h ago
+
+---
+
+**[Coco delivery robots get reboot to maximize service and expand market](https://nypost.com/2026/02/28/us-news/coco-delivery-robots-get-reboot-to-maximize-service-and-expand-market/)**
+
+The Coco delivery robots that have become a regular part of so many Los Angeles neighborhoods will now have a whole new look — a redesign the company behind them says will help to expand the bots&#…
+
+New York Post • 14h ago
+
+---
+
+**[Woman Annoyed When Delivery Robot Comes Into Her Yard, Tears Up Her Garden and Steals Her Fence](https://futurism.com/robots-and-machines/delivery-robot-yard-garden)**
+
+An East Hollywood woman was surprised when a delivery robot tore up her yard and made off with her garden fence.
+
+Futurism • 14h ago
 
 ---
 
@@ -160,21 +176,9 @@ Fortune • 2d ago
 
 ---
 
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
-
-Bloomberg.com • 2d ago
-
----
-
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeG0dBVIvDXGbY3QQzNUwO4mPXsMvL9EJeAlEfYlYhaKXf9ikd5N_K2&gaa_ts=69a3ef44&gaa_sig=bJgWdh0-8qzmMKO2AS3JJR60nHx4MkQqQnogvbY5rTNAsdvYNpwizhPhmzF8EKJ8kB-CNW7SWfgVtWaNpqaaNg%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqd_dh3OOCmITviV4WKOmRxfkuIKpIV4UvPet6heaF0xaRkPZGr7hovk&gaa_ts=69a40b08&gaa_sig=GlTd5OHp8qGQEmk1YE7iCnQUn0HiZs5Fz90MJDA4ZPinBG0DhLp0Uw77ZnUSxdMcKAOFevtszQcszpkCzX5zng%3D%3D)**
 
 WSJ • 1d ago
-
----
-
-**[Carnegie Mellon’s $100M Hazelwood Green robotics center will build the future, officials say](https://triblive.com/news/education-classroom/carnegie-mellons-100m-hazelwood-green-robotics-center-will-build-the-future-officials-say/)**
-
-TribLIVE.com • 1d ago
 
 ---
 
@@ -188,17 +192,7 @@ Try The Dram Machine: https://lumalabs.ai/airevolution China just showcased a ne
 
 📺 AI Revolution
 
-👁️ 163K • 👍 2K • 💬 336 • ⏱️ 14:16 • 6d ago
-
----
-
-**[Building a Robot so I don&#39;t get kicked out of Uni](https://www.youtube.com/watch?v=QZeO-wh_1HY)**
-
-Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
-
-📺 Tazer
-
-👁️ 13K • 👍 1K • 💬 80 • ⏱️ 21:58 • 7h ago
+👁️ 165K • 👍 2K • 💬 338 • ⏱️ 14:16 • 6d ago
 
 ---
 
@@ -208,7 +202,17 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 80K • 👍 1K • 💬 317 • ⏱️ 12:16 • 2d ago
+👁️ 84K • 👍 1K • 💬 325 • ⏱️ 12:16 • 2d ago
+
+---
+
+**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
+
+China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
+
+📺 Cyrus Janssen
+
+👁️ 246K • 👍 7K • 💬 1K • ⏱️ 11:41 • 3d ago
 
 ---
 
@@ -222,23 +226,13 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
+**[Building a Robot so I don&#39;t get kicked out of Uni](https://www.youtube.com/watch?v=QZeO-wh_1HY)**
 
-Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
+Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual premium subscription. PCBWay: ...
 
-📺 SciVion
+📺 Tazer
 
-👁️ 30K • 👍 686 • 💬 15 • ⏱️ 0:35 • 1d ago
-
----
-
-**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
-
-China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
-
-📺 Cyrus Janssen
-
-👁️ 245K • 👍 7K • 💬 1K • ⏱️ 11:41 • 3d ago
+👁️ 22K • 👍 2K • 💬 103 • ⏱️ 21:58 • 8h ago
 
 ---
 
@@ -248,17 +242,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 59K • 👍 298 • 💬 114 • ⏱️ 2:18 • 2d ago
-
----
-
-**[Unitree Introducing | Unitree As2  Your Companion](https://www.youtube.com/watch?v=1ONE4l_pgHw)**
-
-Compact size, industrial capability. Maximum torque of 90N·m, over 4 hours of no-load runtime, IP54 rainproof design. With a 15 ...
-
-📺 Unitree Robotics
-
-👁️ 2.2M • 👍 2K • 💬 407 • ⏱️ 0:58 • 4d ago
+👁️ 61K • 👍 300 • 💬 116 • ⏱️ 2:18 • 2d ago
 
 ---
 
@@ -268,7 +252,17 @@ A San Francisco-based robotics company says the Trump administration has express
 
 📺 NBC Bay Area
 
-👁️ 123K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
+👁️ 125K • 👍 3K • 💬 1K • ⏱️ 7:18 • 4d ago
+
+---
+
+**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
+
+Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
+
+📺 SciVion
+
+👁️ 31K • 👍 694 • 💬 15 • ⏱️ 0:35 • 1d ago
 
 ---
 
@@ -278,7 +272,17 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 265K • 👍 2K • 💬 764 • ⏱️ 0:55 • 2d ago
+👁️ 278K • 👍 2K • 💬 773 • ⏱️ 0:55 • 2d ago
+
+---
+
+**[China’s Robot Army Is Cleaning the City #shorts #robot #chinatech #techshorts](https://www.youtube.com/watch?v=99lggmwtn2c)**
+
+China is stepping into the future of smart cities with street-cleaning robots! Leading robotics company CowaRobot has ...
+
+📺 Perigee Tech
+
+👁️ 28K • 👍 408 • 💬 32 • ⏱️ 0:13 • 4d ago
 
 ---
 

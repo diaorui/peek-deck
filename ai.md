@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T08:33:16.268272+00:00'
+updated: '2026-03-01T09:32:12.343721+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - social
-- repositories
 - videos
+- repositories
 - news
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 08:33 UTC  
+**Last Updated:** March 01, 2026 at 09:32 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-1h ago
+2h ago
 
 ---
 
@@ -55,6 +55,22 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 I've been using NotebookLM heavily for research and got tired of manually hunting down and adding sources. So I wrote a system prompt that hands the whole process off to Claude. When you give it a topic, Claude starts by creating the notebook and drafting a structured research plan for your approval — organized into thematic phases and prioritizing academic and institutional sources (arXiv, PubMed, government reports, technical standards) over generic web content. It validates every URL before adding it, fetching and inspecting each one to catch silent 404s, paywalls, and login walls that NotebookLM would otherwise silently accept. State is persisted across sessions using notes inside the notebook itself, so when Claude hits its session limit you just start a new conversation, paste the notebook URL, and it picks up where it left off. When the notebook is complete, Claude writes a full _REPORT note documenting every source added, skipped, or recommended. Full prompt and setup instructions are on GitHub: github.com/stablediffusiontrainer-cmd/notebooklm-research-skill Happy to answer questions about how it works or how I built it.
 
+3h ago
+
+---
+
+**[DeepSeek optimizing for Chinese chips](https://www.reddit.com/r/artificial/comments/1rhsz17/deepseek_optimizing_for_chinese_chips/)**
+
+Deepseek is about to drop V4, and the real story isn’t the model. It’s that they’ve optimized it to run on Huawei and Cambricon chips instead of nvidia. While everyone in the west debates which GPU to buy, china is quietly building an entire AI stack that doesn’t need a single american chip. The AI race isn’t just about models anymore. it’s about who controls the hardware underneath.
+
+7m ago
+
+---
+
+**[Give autonomous military power to AI?](https://www.reddit.com/r/artificial/comments/1rhqpzg/give_autonomous_military_power_to_ai/)**
+
+Yes, of course. Because it’s not really a choice. It’s just a matter of when, and how. Because if your enemy does it and you don’t, you lose. A quick jump forward in time: All wars are fought with autonomous AI-systems. The “good” news is that in a war between two equally powerful parties, the defending party will always have an advantage. Will this lead to more peace on earth?
+
 2h ago
 
 ---
@@ -63,7 +79,7 @@ I've been using NotebookLM heavily for research and got tired of manually huntin
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-12h ago
+13h ago
 
 ---
 
@@ -71,7 +87,7 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 A continuation of the first time I did this with a narrative of humanity since the dawn of civilization. Really starting to get into these sort of experiments now their compute has been cut. Creative writing has possibly boosted. Its 6x LLM outputs that don't fit in here. So... READ HERE
 
-2h ago
+3h ago
 
 ---
 
@@ -83,11 +99,11 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 ---
 
-**[Give autonomous military power to AI?](https://www.reddit.com/r/artificial/comments/1rhqpzg/give_autonomous_military_power_to_ai/)**
+**[I built a tool to automate your workflow after recording yourself doing the task once (Open Source)](https://www.reddit.com/r/artificial/comments/1rhag6l/i_built_a_tool_to_automate_your_workflow_after/)**
 
-Yes, of course. Because it’s not really a choice. It’s just a matter of when, and how. Because if your enemy does it and you don’t, you lose. A quick jump forward in time: All wars are fought with autonomous AI-systems. The “good” news is that in a war between two equally powerful parties, the defending party will always have an advantage. Will this lead to more peace on earth?
+Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-1h ago
+14h ago
 
 ---
 
@@ -99,25 +115,47 @@ Source CNBC President Donald Trump ordered U.S. government agencies to “immedi
 
 ---
 
-**[I built a tool to automate your workflow after recording yourself doing the task once (Open Source)](https://www.reddit.com/r/artificial/comments/1rhag6l/i_built_a_tool_to_automate_your_workflow_after/)**
-
-Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
-
-13h ago
-
----
-
-**[Does anyone else notice that crypto communities tend toward tribalism while AI communities don't?](https://www.reddit.com/r/artificial/comments/1rhmn1l/does_anyone_else_notice_that_crypto_communities/)**
-
-I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
-
-5h ago
-
----
-
 ---
 
 ## Google News: "ai"
+
+**[Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war/)**
+
+Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
+
+OpenAI • 12h ago
+
+---
+
+**[Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life.](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)**
+
+Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
+
+The Guardian • 23h ago
+
+---
+
+**[Apple’s Visual Intelligence Push Has One Problem](https://www.bloomberg.com/news/newsletters/2026-03-01/apple-s-wearable-ai-devices-will-be-part-of-a-push-into-visual-intelligence)**
+
+Bloomberg.com • 32m ago
+
+---
+
+**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
+
+From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
+
+Fortune • 23h ago
+
+---
+
+**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
+
+The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
+
+NBC News • 21h ago
+
+---
 
 **[OpenAI strikes deal with Pentagon hours after Trump admin bans Anthropic](https://www.cnn.com/2026/02/27/tech/openai-pentagon-deal-ai-systems)**
 
@@ -127,41 +165,11 @@ CNN • 1d ago
 
 ---
 
-**[Her husband wanted to use ChatGPT to create sustainable housing. Then it took over his life.](https://www.theguardian.com/technology/ng-interactive/2026/feb/28/chatgpt-ai-chatbot-mental-health)**
+**[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
 
-Kate Fox says Joe Ceccanti was the ‘most hopeful person’ before he started spending 12 hours a day with a chatbot
+Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-The Guardian • 22h ago
-
----
-
-**[Nvidia Forms Alliance to Make Sure 6G Networks Embrace AI](https://www.bloomberg.com/news/articles/2026-03-01/nvidia-forms-alliance-to-make-sure-6g-networks-embrace-ai)**
-
-Bloomberg.com • 1h ago
-
----
-
-**[Investment in AI-resistant ‘Halo’ companies helps push UK and EU markets to record highs](https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs)**
-
-Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
-
-The Guardian • 1h ago
-
----
-
-**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
-
-From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
-
-Fortune • 22h ago
-
----
-
-**[The AI child exploitation crisis is here](https://www.nbcnews.com/tech/security/ai-child-exploitation-crisis-rcna259409)**
-
-The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
-
-NBC News • 20h ago
+Financial Times • 5h ago
 
 ---
 
@@ -175,23 +183,15 @@ The New York Times • 2d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
-**[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
+**[US Used Anthropic's Claude AI In Iran Strikes Hours After Trump's Ban: Report](https://www.ndtv.com/world-news/us-used-anthropics-claude-ai-in-iran-strikes-hours-after-trumps-ban-report-iran-israel-us-war-donald-trump-vs-anthropic-11153230)**
 
-Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
+Claude AI was also reportedly used in the US military operation that captured Venezuelan President Nicolas Maduro.
 
-Financial Times • 4h ago
-
----
-
-**[Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war/)**
-
-Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
-
-OpenAI • 11h ago
+NDTV • 1h ago
 
 ---
 
@@ -217,7 +217,7 @@ Our latest image generation model offers advanced world knowledge, production-re
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 317 • 💬 177 • 19h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 319 • 💬 178 • 20h ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -225,7 +225,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 302 • 💬 179 • 19h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 305 • 💬 180 • 20h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -245,7 +245,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 125 • 💬 99 • 21h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 130 • 💬 101 • 22h ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -277,13 +277,13 @@ Have it your way?
 
 ## YouTube Videos: "ai"
 
-**[Is AI Hiding Its Full Power? With Geoffrey Hinton](https://www.youtube.com/watch?v=l6ZcFa8pybE)**
+**[The AI Collapse Is MUCH Worse Than You Think](https://www.youtube.com/watch?v=jhDfq9sj-u8)**
 
-Go to https://ground.news/startalk to stay fully informed on the latest Space and Science news. Save 40% off through our link for ...
+Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about the AI crisis, the 2026 economy, and how you ...
 
-📺 StarTalk
+📺 Graham Stephan
 
-👁️ 122K • 👍 5K • 💬 973 • ⏱️ 1:33:33 • 15h ago
+👁️ 199K • 👍 8K • 💬 772 • ⏱️ 15:25 • 1d ago
 
 ---
 
@@ -293,17 +293,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 45K • 👍 993 • 💬 184 • ⏱️ 39:40 • 16h ago
-
----
-
-**[The AI Collapse Is MUCH Worse Than You Think](https://www.youtube.com/watch?v=jhDfq9sj-u8)**
-
-Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about the AI crisis, the 2026 economy, and how you ...
-
-📺 Graham Stephan
-
-👁️ 194K • 👍 8K • 💬 763 • ⏱️ 15:25 • 1d ago
+👁️ 49K • 👍 1K • 💬 191 • ⏱️ 39:40 • 17h ago
 
 ---
 
@@ -313,7 +303,27 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 103K • 👍 7K • 💬 1K • ⏱️ 14:41 • 17h ago
+👁️ 110K • 👍 8K • 💬 1K • ⏱️ 14:41 • 18h ago
+
+---
+
+**[Realtime AI waifus, Qwen 3.5, persistent memory, multiplayer gameplay, new image models: AI NEWS](https://www.youtube.com/watch?v=8grIT-xK50M)**
+
+HUGE AI NEWS: Qwen 3.5, Solaris, Quiver Arrow 1.0, LavaSR, Doc to Lora, & more #ai #ainews #aitools #aivideo #agi Thanks to ...
+
+📺 AI Search
+
+👁️ 22K • 👍 1K • 💬 174 • ⏱️ 45:11 • 6h ago
+
+---
+
+**[Is AI Hiding Its Full Power? With Geoffrey Hinton](https://www.youtube.com/watch?v=l6ZcFa8pybE)**
+
+Go to https://ground.news/startalk to stay fully informed on the latest Space and Science news. Save 40% off through our link for ...
+
+📺 StarTalk
+
+👁️ 155K • 👍 6K • 💬 1K • ⏱️ 1:33:33 • 16h ago
 
 ---
 
@@ -323,17 +333,27 @@ Get Your FREE AI Company Operating System here: https://go.danmartell.com/4tVaYZ
 
 📺 Dan Martell
 
-👁️ 273K • 👍 9K • 💬 467 • ⏱️ 11:55 • 2d ago
+👁️ 279K • 👍 9K • 💬 468 • ⏱️ 11:55 • 2d ago
 
 ---
 
-**[AI SHOCKS The World This Month: Biomimetic Robots, Gemini 3.1, OpenAI–OpenClaw, LYRIA 3 &amp; More](https://www.youtube.com/watch?v=r6umFAnMEEM)**
+**[Disturbing Things Said By AI (Part 1)](https://www.youtube.com/watch?v=_v8EY3uqmEM)**
 
-This month in AI pushed everything to the edge. Biomimetic robots from China are now so human-like they're unsettling, while ...
+shorts #AI #disturbing.
 
-📺 AI Revolution
+📺 Built By Gamers
 
-👁️ 7K • 👍 194 • 💬 12 • ⏱️ 1:29:27 • 9h ago
+👁️ 27K • 👍 629 • 💬 11 • ⏱️ 0:30 • 1d ago
+
+---
+
+**[The Dumbest Way to Make Money With AI Videos (im at $7k/mo)](https://www.youtube.com/watch?v=8KmyF3pQQdI)**
+
+In this ultra hd hot mf video I show you exactly how im getting millions of views with ai videos to promote my app. I do feel a little ...
+
+📺 Jaxon Poulton
+
+👁️ 14K • 👍 849 • 💬 119 • ⏱️ 9:36 • 1d ago
 
 ---
 
@@ -343,7 +363,7 @@ Legendary actor Morgan Freeman, who has starred in more than 100 movies in his s
 
 📺 CBS Mornings
 
-👁️ 156K • 👍 2K • 💬 318 • ⏱️ 6:34 • 1d ago
+👁️ 163K • 👍 2K • 💬 319 • ⏱️ 6:34 • 1d ago
 
 ---
 
@@ -353,27 +373,7 @@ Anton Korinek talks about the effects of automation on wages and labor, how we m
 
 📺 Future of Life Institute
 
-👁️ 61K • 👍 1K • 💬 630 • ⏱️ 22:41 • 2d ago
-
----
-
-**[The New Burger King AI is TERRIFYING](https://www.youtube.com/watch?v=QEjh5B-Gs9I)**
-
-Burger King is testing out an artificial intelligence assistant to work directly with company employees and track what they say.
-
-📺 Vailskibum
-
-👁️ 83K • 👍 4K • 💬 935 • ⏱️ 2:19 • 1d ago
-
----
-
-**[I Gave 3 AI Agents $1,000 Each (OpenClaw)](https://www.youtube.com/watch?v=GansiD6Mk5Y)**
-
-Follow along on X: https://x.com/CreatorMagicAI ✨ Join the Community: https://mrc.fm/premium One week ago I gave an AI the ...
-
-📺 Creator Magic
-
-👁️ 52K • 👍 2K • 💬 79 • ⏱️ 12:56 • 1d ago
+👁️ 61K • 👍 1K • 💬 632 • ⏱️ 22:41 • 2d ago
 
 ---
 
@@ -389,7 +389,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 378,228 • ❤️ 695 • 1d ago
+⬇️ 481,446 • ❤️ 702 • 1d ago
 
 ---
 
@@ -401,7 +401,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 172,154 • ❤️ 451 • 4d ago
+⬇️ 217,725 • ❤️ 454 • 4d ago
 
 ---
 
@@ -413,7 +413,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 350,233 • ❤️ 377 • 1d ago
+⬇️ 432,876 • ❤️ 383 • 1d ago
 
 ---
 
@@ -425,7 +425,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 120,090 • ❤️ 350 • 4d ago
+⬇️ 127,141 • ❤️ 351 • 4d ago
 
 ---
 
@@ -437,7 +437,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 889,203 • ❤️ 1,131 • 5d ago
+⬇️ 1,030,009 • ❤️ 1,133 • 5d ago
 
 ---
 
@@ -449,19 +449,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 192,464 • ❤️ 1,655 • 15d ago
-
----
-
-**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
-
-*Nanbeige LLM Lab*
-
-Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It's particularly noted for its native support of deep-search tasks and sustained problem-solving with extensive tool invocations.
-
-`text-generation` `3.9B`
-
-⬇️ 310,641 • ❤️ 909 • 3d ago
+⬇️ 193,972 • ❤️ 1,657 • 15d ago
 
 ---
 
@@ -473,7 +461,19 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 1,997 • ❤️ 238 • 4d ago
+⬇️ 2,357 • ❤️ 240 • 4d ago
+
+---
+
+**[Nanbeige4.1-3B](https://huggingface.co/Nanbeige/Nanbeige4.1-3B)**
+
+*Nanbeige LLM Lab*
+
+Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reasoning, preference alignment, and agentic capabilities, outperforming larger models on benchmarks like LiveCodeBench-Pro and Arena-Hard-v2. It's particularly noted for its native support of deep-search tasks and sustained problem-solving with extensive tool invocations.
+
+`text-generation` `3.9B`
+
+⬇️ 338,176 • ❤️ 910 • 3d ago
 
 ---
 
@@ -485,7 +485,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 8,049 • ❤️ 214 • 20h ago
+⬇️ 10,611 • ❤️ 214 • 21h ago
 
 ---
 
@@ -497,7 +497,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 305,031 • ❤️ 1,039 • 12d ago
+⬇️ 313,330 • ❤️ 1,040 • 13d ago
 
 ---
 
@@ -511,7 +511,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
 
-▲ 16 • 💬 1 • ⭐ 6,215 • 5mo ago
+▲ 16 • 💬 1 • ⭐ 6,333 • 5mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
@@ -550,7 +550,7 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
 
-▲ 149 • 💬 19 • ⭐ 54,447 • 11mo ago
+▲ 149 • 💬 19 • ⭐ 54,473 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
 
@@ -583,18 +583,6 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 ---
 
-**[Arch-Router: Aligning LLM Routing with Human Preferences](https://huggingface.co/papers/2506.16655)**
-
-*Co Tran, Salman Paracha, Adil Hafeez et al. (4 authors)*
-
-A preference-aligned routing framework using a compact 1.5B model effectively matches queries to user-defined domains and action types, outperforming proprietary models in subjective evaluation criteria.
-
-▲ 17 • 💬 2 • ⭐ 5,790 • 8mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2506.16655) • [💻 code](https://github.com/katanemo/archgw) • [🔗 project](https://huggingface.co/katanemo/Arch-Router-1.5B)
-
----
-
 **[TradingAgents: Multi-Agents LLM Financial Trading Framework](https://huggingface.co/papers/2412.20138)**
 
 *Yijia Xiao, Edward Sun, Di Luo et al. (4 authors)*
@@ -619,15 +607,27 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 ---
 
-**[Agent READMEs: An Empirical Study of Context Files for Agentic Coding](https://huggingface.co/papers/2511.12884)**
+**[A decoder-only foundation model for time-series forecasting](https://huggingface.co/papers/2310.10688)**
 
-*Worawalan Chatlatanagulchai, Hao Li, Yutaro Kashiwa et al. (11 authors)*
+*Abhimanyu Das, Weihao Kong, Rajat Sen et al. (4 authors)*
 
-Agentic coding tools receive goals written in natural language as input, break them down into specific tasks, and write or execute the actual code with minimal human intervention. Central to this process are agent context files ("READMEs for agents") that provide persistent, project-level instructions. In this paper, we conduct the first large-scale empirical study of 2,303 agent context files from 1,925 repositories to characterize their structure, maintenance, and content. We find that these files are not static documentation but complex, difficult-to-read artifacts that evolve like configuration code, maintained through frequent, small additions. Our content analysis of 16 instruction types shows that developers prioritize functional context, such as build and run commands (62.3%), implementation details (69.9%), and architecture (67.7%). We also identify a significant gap: non-functional requirements like security (14.5%) and performance (14.5%) are rarely specified. These findings indicate that while developers use context files to make agents functional, they provide few guardrails to ensure that agent-written code is secure or performant, highlighting the need for improved tooling and practices.
+A large language model adapted for time-series forecasting achieves near-optimal zero-shot performance on diverse datasets across different time scales and granularities.
 
-▲ 26 • 💬 4 • ⭐ 18,292 • 3mo ago
+▲ 15 • 💬 1 • ⭐ 9,902 • 28mo ago
 
-[🎓 arXiv](https://arxiv.org/abs/2511.12884) • [💻 code](https://github.com/openai/agents.md) • [🔗 project](https://agents.md)
+[🎓 arXiv](https://arxiv.org/abs/2310.10688) • [💻 code](https://github.com/google-research/timesfm)
+
+---
+
+**[Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://huggingface.co/papers/2508.15144)**
+
+*Jiabo Ye, Xi Zhang, Haiyang Xu et al. (15 authors)*
+
+GUI-Owl and Mobile-Agent-v3 are open-source GUI agent models and frameworks that achieve state-of-the-art performance across various benchmarks using innovations in environment infrastructure, agent capabilities, and scalable reinforcement learning.
+
+▲ 65 • 💬 3 • ⭐ 7,571 • 6mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2508.15144) • [💻 code](https://github.com/X-PLUG/MobileAgent) • [🔗 project](https://github.com/X-PLUG/MobileAgent)
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Rust` `official` `official-website`
 
-⭐ 21.3k • 🔱 2.7k • 2h ago
+⭐ 21.4k • 🔱 2.7k • 15m ago
 
 ---
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Python`
 
-⭐ 5.9k • 🔱 721 • 1d ago
+⭐ 5.9k • 🔱 723 • 1d ago
 
 ---
 
@@ -661,7 +661,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 362 • 4h ago
+⭐ 3.7k • 🔱 362 • 5h ago
 
 ---
 
@@ -671,7 +671,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 481 • 1d ago
+⭐ 3.6k • 🔱 481 • 2h ago
 
 ---
 
@@ -681,7 +681,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.3k • 🔱 386 • 6h ago
+⭐ 3.4k • 🔱 395 • 7h ago
 
 ---
 
@@ -691,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.2k • 🔱 253 • 20h ago
+⭐ 3.2k • 🔱 257 • 21h ago
 
 ---
 
@@ -701,7 +701,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 325 • 19h ago
+⭐ 3.0k • 🔱 326 • 20h ago
 
 ---
 
@@ -711,7 +711,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 215 • 4h ago
+⭐ 3.0k • 🔱 216 • 1h ago
 
 ---
 
@@ -721,17 +721,17 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 2.9k • 🔱 563 • 22h ago
+⭐ 2.9k • 🔱 565 • 23h ago
 
 ---
 
-**[op7418/CodePilot](https://github.com/op7418/CodePilot)**
+**[agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw)**
 
-A desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
+Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 
-`TypeScript` `ai` `anthropic` `claude` `claude-code` `desktop-app`
+`Python`
 
-⭐ 2.5k • 🔱 257 • 15h ago
+⭐ 2.6k • 🔱 247 • 9h ago
 
 ---
 
