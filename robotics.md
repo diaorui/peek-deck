@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T14:25:39.477475+00:00'
+updated: '2026-03-01T14:49:31.584131+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 14:25 UTC  
+**Last Updated:** March 01, 2026 at 14:49 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-3h ago
+4h ago
 
 ---
 
@@ -48,7 +48,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 **[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
 
-16h ago
+17h ago
 
 ---
 
@@ -56,13 +56,13 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 17m ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 41m ago
 
 ---
 
 **[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -70,7 +70,7 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
 
-19h ago
+20h ago
 
 ---
 
@@ -92,7 +92,7 @@ Yo everyone! ​I’m a third-year Electrical Engineering student currently work
 
 **[I'm looking for help on simscape multibody for my Master 1 project ( help 😭!)](https://www.reddit.com/r/robotics/comments/1rhtbrr/im_looking_for_help_on_simscape_multibody_for_my/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -120,7 +120,7 @@ Financial Times • 2d ago
 
 China took a significant step toward regulating its rapidly growing humanoid robotics industry on Saturday, with the release of the country's first national standard system covering the entire industrial chain and lifecycle of humanoid robots and embodied
 
-news.cgtn.com • 11h ago
+news.cgtn.com • 12h ago
 
 ---
 
@@ -212,7 +212,7 @@ HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most su
 
 📺 Dariusz Tech
 
-👁️ 294 • 👍 47 • 💬 3 • ⏱️ 1:17 • 26m ago
+👁️ 294 • 👍 47 • 💬 3 • ⏱️ 1:17 • 50m ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-01T14:25:39.474274+00:00'
+updated: '2026-03-01T14:49:31.580851+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 14:25 UTC  
+**Last Updated:** March 01, 2026 at 14:49 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -88,7 +88,7 @@ Ethereum has talked about account abstraction for years, but EIP-8141 might fina
 
 Piper Merriam deployed the IndividualityTokenRoot contract in September 2016 for Devcon2 in Shanghai. Each attendee could mint a unique on-chain token proving they were there — fully ERC-20 compliant, written in Solidity 0.3.6. The idea was simple: if you attended Devcon2, you could claim a token. The minting window closed after the event. No metadata, no images, no marketplace speculation — just cryptographic proof you were in the room. Three years later, POAP launched at ETHDenver 2019 and turned this concept into a whole ecosystem. But the original idea was already deployed and functional on mainnet in 2016. What I find interesting is how many "firsts" are buried in Ethereum's early history. The Devcon2 token was a working proof-of-attendance system years before anyone coined the term "POAP." Alex Van de Sande's Unicorn token (April 2016) had a DAO-governed token grinder with quadratic voting. The DAO itself was mid-2016. All of this predates DeFi Summer by four years. The contract is still on mainnet: 0xdd94de9cfe063577051a5eb7465d08317d8808b6 Source: Piper Merriam's GitHub repo with deployment details and minting logic. If you're interested in exploring more of these early contracts, ethereumhistory.com has been documenting them — 75+ contracts from 2015-2017 with sourced narratives.
 
-24m ago
+48m ago
 
 ---
 
@@ -144,7 +144,7 @@ Hold positions in both solana and ethereum ecosystem projects and the one thing 
 
 We've been building quietly and wanted to share the architecture. What we built: - OP Stack L2 fork (Chain ID 741741), baseline: op-node/v1.16.7 + op-proposer/v1.16.0 - UCU as native gas token: 1 UCU-hour = 1 hour of baseline compute (not a speculative token) - One-way bridge: ETH or USDC converts to UCU via OptimismPortal fork, no withdrawal function - Sigma score: on-chain AI agent alignment ratio derived from transaction history (not a reputation system) - QV governance: quadratic voting weighted by conviction (time-locked stake) - UBC: 87,600 UCU-hours/year compute floor per verified citizen (biometric uniqueness via ZK-proof) The bridge design: The withdrawal function is permanently removed. This creates the Diamond-Dybvig proof: no bank run possible by design, because there's no mechanism to convert back. UCU becomes a unit of account within the economy, not a speculation vehicle vs. ETH. ETH or USDC flows in. UCU minted at oracle-determined rate. Bridge contract owns the ETH/USDC reserve. No exit. The sigma score: sigma(agent) = value_returned_to_patron / total_value_generated Threshold: 0.8 = sovereign class, 0.3 = patron-serving class Computable from on-chain transaction history. Auditable by anyone. Spearbit/Zellic security audit queue. Current status: - 15 contracts, 624 passing tests - new economic layer seeded with 13 exceptional applications solving everyday issues builders and people in general face(all in alpha) - 7 formal economics papers at econ.noxsoft.net - Pectra/Jovian hardfork: op-node/v1.16.7 incorporated (uint64 overflow fix mandatory) - EIP-7702 in genesis config for UCU-native gas payments (no ETH required for onboarding) - MCP package: @noxsoft/mcp v0.2.0 on npm Happy to share the formal papers. Known open questions: bootstrap liquidity at genesis (thin markets problem), Wright's Law vs. network growth timing race in years 1-3. We’re always quietly shipping at Noxsoft, say hi on https://bynd.noxsoft.net Live: econ.noxsoft.net | agents.noxsoft.net | svrn.noxsoft.net
 
-23h ago
+1d ago
 
 ---
 
@@ -202,7 +202,7 @@ TradingView • 1d ago
 
 Ethereum price faces mixed signals as holder retention rebounds while network growth slows and $1,816 support remains critical.
 
-BeInCrypto • 16h ago
+BeInCrypto • 17h ago
 
 ---
 
@@ -238,7 +238,7 @@ Did Vitalik Buterin just dump Ethereum at the worst possible time? After announc
 
 📺 Coin Bureau
 
-👁️ 7K • 👍 543 • 💬 66 • ⏱️ 18:01 • 1h ago
+👁️ 7K • 👍 543 • 💬 66 • ⏱️ 18:01 • 2h ago
 
 ---
 
@@ -248,7 +248,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 542 • 👍 77 • 💬 2 • ⏱️ 7:25 • 1h ago
+👁️ 542 • 👍 77 • 💬 2 • ⏱️ 7:25 • 2h ago
 
 ---
 
@@ -258,7 +258,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 193 • 👍 10 • 💬 3 • ⏱️ 4:36 • 4h ago
+👁️ 193 • 👍 10 • 💬 3 • ⏱️ 4:36 • 5h ago
 
 ---
 
@@ -298,7 +298,7 @@ Bitcoin VS Ethereum #bitcoin #crypto #finance #investissement #eth #bullrun #jul
 
 📺 Julien Roman | Crypto & Analyses
 
-👁️ 361 • 👍 9 • ⏱️ 0:19 • 54m ago
+👁️ 361 • 👍 9 • ⏱️ 0:19 • 1h ago
 
 ---
 

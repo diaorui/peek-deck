@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T14:25:39.459893+00:00'
+updated: '2026-03-01T14:49:31.566279+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- repositories
+- social
 - news
 - videos
-- social
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 14:25 UTC  
+**Last Updated:** March 01, 2026 at 14:49 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 3h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 4h ago
 
 ---
 
@@ -63,7 +63,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 I’m been thinking a lot about pricing models for ai native apps. For the last few decades the SaaS model was effectively: "Make something that you build once and can sell again and again at 0 marginal cost with monthly subscriptions" AI products don’t have that luxury. Every interaction uses tokens. Tokens use energy & cost money. Light & power users burning tokens at different rates in the same pricing tiers is an analysts nightmare. So what's the solution and right pricing model? TAAS: "Software that adds value to tokens and is resold directly to users as a service." AI video creation, research tools, chat bots. They are all effectively placing a value layer over an API key and selling the tokens for massive markups. The extent to which a company can add value to an AI token is the extent to which they can markup their service. And ironically the way to do that is to lean 90% into software and 10% into AI. You want to offload as much of the costs of value delivery onto free executable code and use AI tokens as sparingly as possible. The application that throws AI bluntly at a solution will fail. The application that effectively solves the problem with code and uses AI to make it magical as a layer above will succeed.
 
-3h ago
+4h ago
 
 ---
 
@@ -71,7 +71,7 @@ I’m been thinking a lot about pricing models for ai native apps. For the last 
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-18h ago
+19h ago
 
 ---
 
@@ -87,7 +87,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-19h ago
+20h ago
 
 ---
 
@@ -111,7 +111,7 @@ Quick summary of an independent preprint I just published: Question: Does the re
 
 I was drafting an article about both AI and crypto and noticed that the brand loyalties between different LLMs and companies using AI tend to be much more chill compared to the fights between different coins. I wonder why.
 
-10h ago
+11h ago
 
 ---
 
@@ -129,13 +129,13 @@ The New York Times • 22h ago
 
 A high-stakes dispute over how the U.S. military uses artificial intelligence has led the Pentagon to cancel its contract with rising AI star Anthropic.
 
-AP News • 15h ago
+AP News • 16h ago
 
 ---
 
 **[What’s Really at Stake in the Fight Between Anthropic and the Pentagon](https://www.wsj.com/tech/ai/whats-really-at-stake-in-the-fight-between-anthropic-and-the-pentagon-d450c1a1?gaa_at=eafs&gaa_n=AWEtsqdWaF8TLw0OlzzVI5OCal5v5vtOZirwVjBYEQ6zFCqZA2VIEtd3mtig&gaa_ts=69a44fc8&gaa_sig=Gpa0piD0tZRc7mu5VWfLOqESk-F_krrZjLRiCFlNhjVzz1f7-IXx1Xxi1T8hKZTNA1NdgS18ZjY-0TN0VeOt4w%3D%3D)**
 
-WSJ • 3h ago
+WSJ • 4h ago
 
 ---
 
@@ -151,13 +151,13 @@ The Guardian • 1h ago
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-CNBC • 25m ago
+CNBC • 49m ago
 
 ---
 
 **[Trump expects his Fed pick and AI to deliver a replay of the '90s boom. Economists have doubts](https://www.sfgate.com/news/politics/article/trump-expects-his-fed-pick-and-ai-to-deliver-a-21948716.php)**
 
-SFGATE • 17m ago
+SFGATE • 41m ago
 
 ---
 
@@ -229,7 +229,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 161 • 💬 92 • 2h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 161 • 💬 92 • 3h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -255,7 +255,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 116 • 💬 27 • 6h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 116 • 💬 27 • 7h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
@@ -287,7 +287,7 @@ cute little baby funny dance    #funnybabydance​ #funnybabydanceshorts​ #cut
 
 📺 Sleep Time Tales
 
-👁️ 4K • 💬 1 • ⏱️ 0:08 • 49m ago
+👁️ 4K • 💬 1 • ⏱️ 0:08 • 1h ago
 
 ---
 
@@ -443,7 +443,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 193,972 • ❤️ 1,660 • 15d ago
+⬇️ 193,972 • ❤️ 1,660 • 16d ago
 
 ---
 
@@ -455,7 +455,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 2,357 • ❤️ 242 • 4d ago
+⬇️ 2,357 • ❤️ 242 • 5d ago
 
 ---
 
@@ -635,7 +635,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.5k • 🔱 2.7k • 2m ago
+⭐ 21.5k • 🔱 2.7k • 26m ago
 
 ---
 
@@ -675,7 +675,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.6k • 🔱 414 • 12h ago
+⭐ 3.6k • 🔱 414 • 13h ago
 
 ---
 

@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T14:25:39.468204+00:00'
+updated: '2026-03-01T14:49:31.574722+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 14:25 UTC  
+**Last Updated:** March 01, 2026 at 14:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into tradfi this year https://bitcoinmagazine.com/news/citi-to-integrate-bitcoin-with-finance Morgan Stanley: - To launch its own Bitcoin Trust/ETF and HODLithe coins in their own custody - Bitcoin-supporting digital wallet in 2026 - Bitcoin trading to launch in 2026 - Lending, yield & full custody services on the way https://coincentral.com/bitcoin-trust-etf-filed-by-morgan-stanley-in-fresh-sec-submission/ JP Morgan: Exploring Bitcoin & crypto trading for institutional clients https://bitcoinmagazine.com/news/jpmorgan-considers-bitcoin-for-clients Goldman Sachs: - Buys $1.1 billion worth of Bitcoin - CEO David Solomon announces he owns a small amount of Bitcoin https://europeanbusinessmagazine.com/business/goldman-sachs-just-disclosed-1-1b-bitcoin-etf-position-why-now/ Standard Chartered: Launching prime brokerage accounts for Bitcoin trading https://www.thestreet.com/crypto/markets/172-year-old-bank-launch-crypto-prime-brokerage UBS: To launch Bitcoin trading to select private banking clients https://fintechnews.ch/blockchain_bitcoin/ubs-crypto-trading-private-banking-clients/81689/ Danske Bank: Denmark’s largest bank Danske Bank has recently lifted its eight-year ban on cryptocurrencies and is now offering Bitcoin exchange-traded products (ETPs) to its customers. https://bitcoinmagazine.com/news/danske-bank-opens-retail-bitcoin-access Intesa Sanpaolo: Italian biggest bank, Intesa Sanpaolo, has made its first proprietary bitcoin trade, buying 1 million euros of bitcoin in what CEO Carlo Messina described as "a test". https://www.reuters.com/business/finance/italys-intesa-buys-1-mln-euros-bitcoin-first-proprietary-trade-2025-01-14/ BBVA: Spanish financial giant Banco Bilbao Vizcaya Argentaria is preparing to offer crypto trading to customers on its platform in Spain. https://www.euronews.com/business/2025/03/10/spanish-bank-bbva-will-start-offering-bitcoin-and-ether-trading
 
-17h ago
+18h ago
 
 ---
 
 **[HODL your 0.01 BTC onto you FOREVER](https://www.reddit.com/r/Bitcoin/comments/1rhhvzn/hodl_your_001_btc_onto_you_forever/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -95,7 +95,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
 
-2h ago
+3h ago
 
 ---
 
@@ -109,7 +109,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 **[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -117,7 +117,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 Based on my technical analysis, which I do have a few years of experience in, BTC has just entered an accumulation phase that will probably last for a few months and then we could see the price climb. I know you can't base much off of TA but I've been accurate with BTC in the past. Been stocking up my bag for the next bull run. NFA
 
-19h ago
+20h ago
 
 ---
 
@@ -149,7 +149,7 @@ The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, bui
 
 I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
 
-17m ago
+41m ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg • 11h ago
 
 Bitcoin investors may soon forget the recent correction.
 
-The Motley Fool • 11h ago
+The Motley Fool • 12h ago
 
 ---
 
@@ -243,7 +243,7 @@ The Boston Globe • 10h ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 6 • 💬 21 • 4d ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+⬆️ 6 • 💬 21 • 5d ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
 
 ---
 
@@ -271,7 +271,7 @@ One critic replied simply "go away."
 
 **[Empirically Testing the Softwar Thesis: Bitcoin as Power Projection](https://news.ycombinator.com/item?id=47201122)**
 
-⬆️ 2 • 💬 1 • 15h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
+⬆️ 2 • 💬 1 • 16h ago • [doi.org](https://doi.org/10.36227/techrxiv.177223033.39479389/v1)
 
 ---
 
@@ -325,7 +325,7 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 5K • 👍 109 • 💬 23 • ⏱️ 14:26 • 19h ago
+👁️ 5K • 👍 109 • 💬 23 • ⏱️ 14:26 • 20h ago
 
 ---
 
@@ -365,7 +365,7 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 4K • 👍 214 • 💬 8 • ⏱️ 26:03 • 16h ago
+👁️ 4K • 👍 214 • 💬 8 • ⏱️ 26:03 • 17h ago
 
 ---
 
@@ -385,7 +385,7 @@ This video provides a professional Elliott Wave and technical analysis of Bitcoi
 
 📺 More Crypto Online
 
-👁️ 3K • 👍 306 • 💬 14 • ⏱️ 8:15 • 2h ago
+👁️ 3K • 👍 306 • 💬 14 • ⏱️ 8:15 • 3h ago
 
 ---
 
