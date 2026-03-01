@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T18:35:59.311823+00:00'
+updated: '2026-03-01T19:22:48.831560+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
-- videos
 - news
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 18:35 UTC  
+**Last Updated:** March 01, 2026 at 19:22 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 3h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 4h ago
 
 ---
 
@@ -49,7 +49,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 7h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 8h ago
 
 ---
 
@@ -57,7 +57,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-11h ago
+12h ago
 
 ---
 
@@ -65,7 +65,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.
 
-🔗 [Claude](https://claude.com/import-memory) • 1h ago
+🔗 [Claude](https://claude.com/import-memory) • 2h ago
 
 ---
 
@@ -73,7 +73,7 @@ Transfer your preferences, projects, and context from other AI providers into Cl
 
 If you're thinking about cancelling (or switching to Claude/Gemini), don't lose months of conversations first. I built Basic Memory — it imports your ChatGPT export and turns it into plain Markdown files. Every conversation becomes a file you can actually read, search, and use with whatever AI you switch to. This is not an ad. It is free and open source. Your data belongs to you. Keep it. Steps: Settings → Data Controls → Export Data (ChatGPT emails you a zip) Install Basic Memory (brew tap basicmachines-co/basic-memory && brew install basic-memory) bm import chatgpt conversations.zip All of your conversation data is now in markdown files. Complete docs: http://docs.basicmemory.com
 
-19m ago
+1h ago
 
 ---
 
@@ -87,7 +87,7 @@ If you're thinking about cancelling (or switching to Claude/Gemini), don't lose 
 
 how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok, Perplexity,Poe... they're all like $20/mo each do you just pick one? Or pay for 2 or more? Or use something that combines them.?...is it even worth paing for any of these? What's your setup?
 
-22h ago
+23h ago
 
 ---
 
@@ -103,7 +103,7 @@ On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "
 
 Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
 
-23h ago
+1d ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 1d ago
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-CNBC • 4h ago
+CNBC • 5h ago
 
 ---
 
@@ -137,7 +137,7 @@ CNBC • 4h ago
 
 Is this a real image released by Iran of Supreme Leader Khamenei's body being pulled from under rubble by rescue workers? No, that's not true: According to Google's Gemini tool the image contains a Sy...
 
-Yahoo • 1h ago
+Yahoo • 2h ago
 
 ---
 
@@ -153,7 +153,7 @@ Fortune • 1d ago
 
 Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-The Guardian • 5h ago
+The Guardian • 6h ago
 
 ---
 
@@ -169,7 +169,7 @@ CNN • 1d ago
 
 NVIDIA today announced a commitment — together with Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank Corp. and T-Mobile — to build the world’s next generation of wireless networks on AI-native, open, secure and trustworthy platforms.
 
-NVIDIA Newsroom • 11h ago
+NVIDIA Newsroom • 12h ago
 
 ---
 
@@ -177,7 +177,7 @@ NVIDIA Newsroom • 11h ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 52m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -185,7 +185,7 @@ The Washington Post • 52m ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 14h ago
+Financial Times • 15h ago
 
 ---
 
@@ -205,7 +205,7 @@ The Hacker News • 1d ago
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 351 • 💬 245 • 4h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 351 • 💬 245 • 5h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -229,7 +229,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 292 • 💬 193 • 6h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 292 • 💬 193 • 7h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -261,7 +261,7 @@ As Israel bans NGOs, the U.S. is handing aid delivery in Gaza to private compani
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 90 • 💬 147 • 4h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 90 • 💬 147 • 5h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
@@ -283,7 +283,7 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 10K • 👍 686 • 💬 138 • ⏱️ 20:52 • 5h ago
+👁️ 10K • 👍 686 • 💬 138 • ⏱️ 20:52 • 6h ago
 
 ---
 
@@ -333,7 +333,7 @@ Artificial intelligence is now part of the battlefield. During the strike on Ira
 
 📺 Firstpost
 
-👁️ 46K • 👍 949 • 💬 96 • ⏱️ 6:11 • 1h ago
+👁️ 46K • 👍 949 • 💬 96 • ⏱️ 6:11 • 2h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.6k • 🔱 2.7k • 5m ago
+⭐ 21.6k • 🔱 2.7k • 52m ago
 
 ---
 
@@ -663,7 +663,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.8k • 🔱 428 • 16h ago
+⭐ 3.8k • 🔱 428 • 17h ago
 
 ---
 
@@ -673,7 +673,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 364 • 7m ago
+⭐ 3.8k • 🔱 364 • 54m ago
 
 ---
 
@@ -683,7 +683,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 484 • 11h ago
+⭐ 3.6k • 🔱 484 • 12h ago
 
 ---
 
@@ -703,7 +703,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 3.1k • 🔱 307 • 18h ago
+⭐ 3.1k • 🔱 307 • 19h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 219 • 10h ago
+⭐ 3.1k • 🔱 219 • 11h ago
 
 ---
 
