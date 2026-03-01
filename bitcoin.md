@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T20:52:54.612731+00:00'
+updated: '2026-03-01T21:24:11.990221+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- news
-- social
 - cryptocurrency
+- social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 20:52 UTC  
+**Last Updated:** March 01, 2026 at 21:24 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -79,7 +79,7 @@ Rank #1
 
 **[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -87,7 +87,7 @@ Rank #1
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ Thoughts on buying 250 usd worth of bitcoin every week for the next couple of ye
 
 Every day I think about how the Fed is going to carry on forever doing what it is designed to do: a bunch of emotional humans trying to “manage inflation” by printing money out of thin air, in an ever changing political landscape which it claims to be separate from (but we all know it’s not). And I feel my b hole clench up. And then I think about Bitcoin in contrast, and how it’s going to carry on printing a new block every 10 minutes for the rest of our lives. And I have a sigh of relief. 🥲
 
-3h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ Every day I think about how the Fed is going to carry on forever doing what it i
 
 Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
 
-2h ago
+3h ago
 
 ---
 
@@ -133,7 +133,7 @@ Is it time to buy Bitcoin? Share some advice and suggest promising assets simila
 
 Hit .70 btc….Endless schloggggg to 1.
 
-21m ago
+52m ago
 
 ---
 
@@ -141,7 +141,7 @@ Hit .70 btc….Endless schloggggg to 1.
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-14h ago
+15h ago
 
 ---
 
@@ -149,7 +149,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 I keep in cold storage only a little part of my btc. The rest of them are into multiple paper wallet where I only keep the public and the private addresses. I made several copies in a cryptographic password manager and gave them to some trusted friends. I'd like to know what would you change and what are the points of failure that you see in this. Thank you
 
-6h ago
+7h ago
 
 ---
 
@@ -161,7 +161,7 @@ I keep in cold storage only a little part of my btc. The rest of them are into m
 
 The company holds about 8,285 bitcoin in Coinbase Prime custody, a stake now worth roughly $545 million after a $235 million decline in value over the past three months.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Motley Fool • 18h ago
 
 An oil shock from Strait of Hormuz tensions could tighten liquidity, lift Treasury yields, and trigger a Bitcoin liquidity selloff.
 
-Yahoo Finance • 2h ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -191,7 +191,7 @@ Yahoo Finance • 2h ago
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 17h ago
+Bloomberg.com • 18h ago
 
 ---
 
@@ -207,7 +207,7 @@ Fortune • 3d ago
 
 A 2023-style bottom signal has reappeared for bitcoin, but analysts say weaker liquidity, ETF flow trends, and sticky inflation could limit a repeat of last cycle’s 130% rebound.
 
-Bitbo • 22h ago
+Bitbo • 23h ago
 
 ---
 
@@ -215,7 +215,7 @@ Bitbo • 22h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 3h ago
+Polymarket • 4h ago
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 1K • 💬 172 • ⏱️ 19:16 • 20h ago
+👁️ 21K • 👍 1K • 💬 172 • ⏱️ 19:16 • 21h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin #Crypto #Finance While retail investors panic over volatility, instituti
 
 📺 The Wolf Of All Streets
 
-👁️ 15K • 👍 755 • 💬 172 • ⏱️ 29:04 • 6h ago
+👁️ 15K • 👍 755 • 💬 172 • ⏱️ 29:04 • 7h ago
 
 ---
 
@@ -367,7 +367,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 31K • 👍 1K • 💬 258 • ⏱️ 36:35 • 22h ago
+👁️ 31K • 👍 1K • 💬 258 • ⏱️ 36:35 • 23h ago
 
 ---
 
@@ -397,7 +397,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 13K • 👍 562 • 💬 82 • ⏱️ 10:08 • 9h ago
+👁️ 13K • 👍 562 • 💬 82 • ⏱️ 10:08 • 10h ago
 
 ---
 

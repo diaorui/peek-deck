@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T20:52:54.604390+00:00'
+updated: '2026-03-01T21:24:11.981452+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- repositories
 - social
 - news
-- repositories
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 20:52 UTC  
+**Last Updated:** March 01, 2026 at 21:24 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 "We have stood up for the values of this country," the Anthropic CEO said, discussing the AI lab's refusal to accept the Pentagon's terms for Claude.
 
-🔗 [Business Insider](https://www.businessinsider.com/dario-amodei-pentagon-free-speech-patriots-american-values-2026-2) • 1h ago
+🔗 [Business Insider](https://www.businessinsider.com/dario-amodei-pentagon-free-speech-patriots-american-values-2026-2) • 2h ago
 
 ---
 
@@ -49,7 +49,7 @@ AI news, discussions, and developments
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 5h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 6h ago
 
 ---
 
@@ -65,7 +65,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.
 
-🔗 [Claude](https://claude.com/import-memory) • 3h ago
+🔗 [Claude](https://claude.com/import-memory) • 4h ago
 
 ---
 
@@ -73,7 +73,7 @@ Transfer your preferences, projects, and context from other AI providers into Cl
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-13h ago
+14h ago
 
 ---
 
@@ -81,7 +81,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-🔗 [CNBC](https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html) • 17m ago
+🔗 [CNBC](https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html) • 49m ago
 
 ---
 
@@ -129,7 +129,7 @@ The New York Times • 1d ago
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-CNBC • 6h ago
+CNBC • 7h ago
 
 ---
 
@@ -145,7 +145,7 @@ CNN • 1d ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 2h ago
+The Washington Post • 3h ago
 
 ---
 
@@ -167,7 +167,7 @@ Forbes • 9h ago
 
 Artificial intelligence doomer narratives reflect personal fears, not economic reality.
 
-The Washington Post • 52m ago
+The Washington Post • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Washington Post • 52m ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 16h ago
+Financial Times • 17h ago
 
 ---
 
@@ -183,13 +183,13 @@ Financial Times • 16h ago
 
 Live field trials, new performance benchmarks, growing operator adoption and partner innovations built on NVIDIA platforms underscore the shift to AI-native 5G and 6G networks.
 
-NVIDIA Blog • 13h ago
+NVIDIA Blog • 14h ago
 
 ---
 
 **[Jack Dorsey’s 4,000 Job Cuts at Block Arouse Suspicions of AI-Washing](https://www.bloomberg.com/news/articles/2026-03-01/jack-dorsey-s-4-000-job-cuts-at-block-arouse-suspicions-of-ai-washing)**
 
-Bloomberg.com • 4h ago
+Bloomberg.com • 5h ago
 
 ---
 
@@ -209,7 +209,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 363 • 💬 278 • 6h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 363 • 💬 278 • 7h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -279,7 +279,7 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 14K • 👍 820 • 💬 158 • ⏱️ 20:52 • 7h ago
+👁️ 14K • 👍 820 • 💬 158 • ⏱️ 20:52 • 8h ago
 
 ---
 
@@ -289,7 +289,7 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 221K • 👍 9K • 💬 852 • ⏱️ 15:25 • 1d ago
+👁️ 221K • 👍 9K • 💬 852 • ⏱️ 15:25 • 2d ago
 
 ---
 
@@ -349,7 +349,7 @@ Artificial intelligence has gone from miracle cure to market threat in a matter 
 
 📺 David Woo Unbound
 
-👁️ 2K • 👍 125 • 💬 35 • ⏱️ 14:25 • 8h ago
+👁️ 2K • 👍 125 • 💬 35 • ⏱️ 14:25 • 9h ago
 
 ---
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.6k • 🔱 2.7k • 1m ago
+⭐ 21.6k • 🔱 2.7k • 32m ago
 
 ---
 
@@ -659,7 +659,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 3.9k • 🔱 443 • 37m ago
+⭐ 3.9k • 🔱 443 • 1h ago
 
 ---
 
@@ -669,7 +669,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 364 • 1h ago
+⭐ 3.8k • 🔱 364 • 2h ago
 
 ---
 
@@ -679,7 +679,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 484 • 13h ago
+⭐ 3.6k • 🔱 484 • 14h ago
 
 ---
 
@@ -699,7 +699,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 3.1k • 🔱 314 • 20h ago
+⭐ 3.1k • 🔱 314 • 21h ago
 
 ---
 
@@ -709,7 +709,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 220 • 12h ago
+⭐ 3.1k • 🔱 220 • 13h ago
 
 ---
 
