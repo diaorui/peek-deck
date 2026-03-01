@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-01T10:52:08.646174+00:00'
+updated: '2026-03-01T11:21:17.881682+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 01, 2026 at 10:52 UTC  
+**Last Updated:** March 01, 2026 at 11:21 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
-17h ago
+18h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-7m ago
+36m ago
 
 ---
 
@@ -78,7 +78,7 @@ Hello, robot euthusiasts! I'd like to showcase my obstacle-avoidance algorithm, 
 
 Yo everyone! ​I’m a third-year Electrical Engineering student currently working on a robotics project involving simulation and control systems. I’ve been trying to get a 2-axis (2-DOF) robotic arm running in MATLAB/Simulink using the Robotics System Toolbox. ​The Problem: I found some cool 3D models of an articulated arm, but they are in SolidWorks format (.SLDPRT and .SLDASM). I’m struggling to get these converted into a clean URDF (XML) file that MATLAB can actually importrobot. ​What I'm looking for: ​Does anyone have a link to a reliable 2-DOF or 3-DOF arm URDF (XML) that is already verified to work in MATLAB? ​If I stick with the SolidWorks models I found, what is the fastest way to export them to URDF without the file becoming a mess of hidden .xml extensions or broken joint links? ​Any tips on setting up a basic PID controller in Simulink once the model is imported? ​I’ve checked GitHub but most models are for huge 6-axis industrial arms like the UR5, which is overkill for my current assignment. ​Any links, repos, or advice would be massive! Thanks in advance.
 
-56m ago
+1h ago
 
 ---
 
@@ -100,7 +100,7 @@ I am right now in my college ,thought of starting robotics company I previously 
 
 BMW blog: BMW Deploys Humanoid Robots in Europe for the First Time: https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/
 
-23h ago
+1d ago
 
 ---
 
@@ -136,7 +136,7 @@ BMW Blog • 1d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -176,7 +176,7 @@ Bloomberg.com • 2d ago
 
 Coco Robotics launched a new generation of delivery bots
 
-Los Angeles Times • 23h ago
+Los Angeles Times • 1d ago
 
 ---
 
@@ -230,7 +230,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 22K • 👍 2K • 💬 103 • ⏱️ 21:58 • 9h ago
+👁️ 22K • 👍 2K • 💬 103 • ⏱️ 21:58 • 10h ago
 
 ---
 

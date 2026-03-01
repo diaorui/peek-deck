@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-01T10:52:08.628501+00:00'
+updated: '2026-03-01T11:21:17.863654+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
 - repositories
 - news
 - videos
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 01, 2026 at 10:52 UTC  
+**Last Updated:** March 01, 2026 at 11:21 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-3h ago
+4h ago
 
 ---
 
@@ -49,7 +49,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 9m ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 38m ago
 
 ---
 
@@ -63,7 +63,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 I’m been thinking a lot about pricing models for ai native apps. For the last few decades the SaaS model was effectively: "Make something that you build once and can sell again and again at 0 marginal cost with monthly subscriptions" AI products don’t have that luxury. Every interaction uses tokens. Tokens use energy & cost money. Light & power users burning tokens at different rates in the same pricing tiers is an analysts nightmare. So what's the solution and right pricing model? TAAS: "Software that adds value to tokens and is resold directly to users as a service." AI video creation, research tools, chat bots. They are all effectively placing a value layer over an API key and selling the tokens for massive markups. The extent to which a company can add value to an AI token is the extent to which they can markup their service. And ironically the way to do that is to lean 90% into software and 10% into AI. You want to offload as much of the costs of value delivery onto free executable code and use AI tokens as sparingly as possible. The application that throws AI bluntly at a solution will fail. The application that effectively solves the problem with code and uses AI to make it magical as a layer above will succeed.
 
-4m ago
+33m ago
 
 ---
 
@@ -123,7 +123,7 @@ I was drafting an article about both AI and crypto and noticed that the brand lo
 
 Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-The Guardian • 56m ago
+The Guardian • 1h ago
 
 ---
 
@@ -139,7 +139,7 @@ CNN • 1d ago
 
 A top executive at the legal-software provider said Wall Street's anxiety over AI is misguided.
 
-Business Insider • 25m ago
+Business Insider • 54m ago
 
 ---
 
@@ -147,7 +147,7 @@ Business Insider • 25m ago
 
 AI is becoming a standard investing tool, as it helps cut through the noise, personalize portfolios and manage risk. That said, human oversight remains essential. Here's how it all works.
 
-Kiplinger • 22m ago
+Kiplinger • 51m ago
 
 ---
 
@@ -155,7 +155,7 @@ Kiplinger • 22m ago
 
 The Anthropic fight matters here because it reminds us what’s at stake and why Hawaiʻi needs to implement solid, ethical AI policy.
 
-Honolulu Civil Beat • 31m ago
+Honolulu Civil Beat • 1h ago
 
 ---
 
@@ -171,7 +171,7 @@ Fortune • 1d ago
 
 Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-Financial Times • 6h ago
+Financial Times • 7h ago
 
 ---
 
@@ -179,7 +179,7 @@ Financial Times • 6h ago
 
 The National Center for Missing and Exploited Children said it received over a million reports tied to AI-generated child sexual abuse material in just nine months.
 
-NBC News • 22h ago
+NBC News • 23h ago
 
 ---
 
@@ -193,7 +193,7 @@ The New York Times • 2d ago
 
 In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
 
-CNBC • 21h ago
+CNBC • 22h ago
 
 ---
 
@@ -227,7 +227,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 306 • 💬 181 • 21h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 306 • 💬 181 • 22h ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -295,7 +295,7 @@ AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is 
 
 📺 CNBC
 
-👁️ 49K • 👍 1K • 💬 191 • ⏱️ 39:40 • 18h ago
+👁️ 49K • 👍 1K • 💬 191 • ⏱️ 39:40 • 19h ago
 
 ---
 
@@ -305,7 +305,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 110K • 👍 8K • 💬 1K • ⏱️ 14:41 • 19h ago
+👁️ 110K • 👍 8K • 💬 1K • ⏱️ 14:41 • 20h ago
 
 ---
 
@@ -325,7 +325,7 @@ Go to https://ground.news/startalk to stay fully informed on the latest Space an
 
 📺 StarTalk
 
-👁️ 155K • 👍 6K • 💬 1K • ⏱️ 1:33:33 • 17h ago
+👁️ 155K • 👍 6K • 💬 1K • ⏱️ 1:33:33 • 18h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant framework — deploy anywhere, sw
 
 `Rust` `official` `official-website`
 
-⭐ 21.4k • 🔱 2.7k • 1h ago
+⭐ 21.4k • 🔱 2.7k • 2h ago
 
 ---
 
@@ -663,7 +663,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.7k • 🔱 362 • 6h ago
+⭐ 3.7k • 🔱 362 • 7h ago
 
 ---
 
@@ -673,7 +673,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.6k • 🔱 481 • 3h ago
+⭐ 3.6k • 🔱 481 • 4h ago
 
 ---
 
@@ -703,7 +703,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 326 • 21h ago
+⭐ 3.0k • 🔱 326 • 22h ago
 
 ---
 
@@ -713,7 +713,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.0k • 🔱 216 • 2h ago
+⭐ 3.0k • 🔱 216 • 3h ago
 
 ---
 
@@ -733,7 +733,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 2.6k • 🔱 247 • 10h ago
+⭐ 2.6k • 🔱 247 • 11h ago
 
 ---
 

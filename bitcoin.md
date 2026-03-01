@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T10:52:08.636914+00:00'
+updated: '2026-03-01T11:21:17.872458+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
+- cryptocurrency
 - news
 - videos
-- cryptocurrency
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 10:52 UTC  
+**Last Updated:** March 01, 2026 at 11:21 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -95,7 +95,7 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-4h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Based on my technical analysis, which I do have a few years of experience in, BT
 
 Truly terrible times we live in. I myself have relatives in Iran so have been worried for some time. Maybe it’s out of taste to discuss BTC’s price, but this wouldn’t be r/bitcoin if we didn’t consider the effects of conflict on the chart. Is it everyone’s view that today BTC has taken its first hit alone, but Monday will bring even heavier liquidation?
 
-16h ago
+17h ago
 
 ---
 
@@ -125,7 +125,7 @@ Truly terrible times we live in. I myself have relatives in Iran so have been wo
 
 The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, built on the Bitaxe GT 801 platform with dual BM1370 chips. Quick rundown: 2.15 TH/s default, 3.06+ TH/s overclocked 4.3" capacitive touchscreen with 8 live screens (hashrate, block height, latest blocks, BTC price, clock, Wi-Fi config, settings, hashrate graph) All screen data pulls from mempool.space ~43W, ~35 dB Mining firmware is mainline AxeOS (esp-miner), screen firmware is BAP-GT-TOUCH, both fully open source Runs on the ESP32-S3 with Wi-Fi, same as other Bitaxe models The big jump from the original Bitaxe Touch is doubling the hashrate (was ~1.0 TH/s on the single BM1370 version), going from 4 screens to 8, and moving the screen firmware from proprietary to open source through the GT 801's Bitaxe Accessory Port. It was shown off at the HeatPunk Summit in Denver this week. Full technical breakdown here: https://www.solosatoshi.com/bitaxe-touch-unveiled/ Happy to answer any questions about the hardware or firmware. https://preview.redd.it/4pkalprlpbmg1.png?width=940&format=png&auto=webp&s=8fa61aac5ec82447679162cbfd3bc7035d619063 https://preview.redd.it/eowlutrlpbmg1.png?width=940&format=png&auto=webp&s=25284ed91c26ad2e1bf23b7600ec5ac4d7542926 https://preview.redd.it/vpm4exrlpbmg1.png?width=940&format=png&auto=webp&s=0733ea99d58e508597a6a2d1afb7c79a62ac8c8f https://preview.redd.it/yx0rv1slpbmg1.png?width=940&format=png&auto=webp&s=d97f2210eb9003188d229f0fcc3d8ad584392ac1 https://preview.redd.it/vcwhozrlpbmg1.png?width=940&format=png&auto=webp&s=2aa3dce9f95bec81d63fd92514fb08889dab372f https://preview.redd.it/xdh9g4slpbmg1.png?width=940&format=png&auto=webp&s=e42ccaf53253fa56de0292caf7371f85f1cdf84d https://preview.redd.it/25hd76slpbmg1.png?width=940&format=png&auto=webp&s=1c76894f9e96103c3d114738b7576747924ad247 https://preview.redd.it/bfmte8slpbmg1.png?width=940&format=png&auto=webp&s=558dcb23d0c0c297d6f1c7f4c4f8535cea53bb47 https://preview.redd.it/hzz55dslpbmg1.png?width=940&format=png&auto=webp&s=672936b1e0dbd42e96d7e8fb6b14488ac389e794 https://preview.redd.it/z1jlm9slpbmg1.png?width=940&format=png&auto=webp&s=fb42b49425d9ddb84903ce135e2b5f1b3624691a
 
-10h ago
+11h ago
 
 ---
 
@@ -133,7 +133,7 @@ The Bitaxe Touch line just got a major upgrade with the Turbo Touch edition, bui
 
 There's like three active users anymore.
 
-8h ago
+9h ago
 
 ---
 
@@ -159,7 +159,7 @@ When sending Bitcoin from an HD wallet, does the transaction reveal the link bet
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 7h ago
+Bloomberg.com • 8h ago
 
 ---
 
@@ -223,7 +223,7 @@ Seeking Alpha • 1d ago
 
 Bitcoin price struggles persist as the premier cryptocurrency is yet to break above the key $70,000 resistance zone, suggesting the market remains at risk of a deeper correction. Notably, popular market analyst Yonsei_dent has shared an observation that backs these bearish investors’ expectations…
 
-TradingView • 18h ago
+TradingView • 19h ago
 
 ---
 
@@ -313,7 +313,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 14K • 👍 1K • 💬 101 • ⏱️ 19:16 • 10h ago
+👁️ 14K • 👍 1K • 💬 101 • ⏱️ 19:16 • 11h ago
 
 ---
 
@@ -323,7 +323,7 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 21K • 👍 970 • 💬 218 • ⏱️ 26:57 • 20h ago
+👁️ 21K • 👍 970 • 💬 218 • ⏱️ 26:57 • 21h ago
 
 ---
 
@@ -343,7 +343,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 21K • 👍 1K • 💬 205 • ⏱️ 36:35 • 12h ago
+👁️ 21K • 👍 1K • 💬 205 • ⏱️ 36:35 • 13h ago
 
 ---
 
@@ -353,7 +353,7 @@ Geopolitical fear is gripping the markets. News of military strikes in Iran sent
 
 📺 Gareth Soloway
 
-👁️ 65K • 👍 4K • 💬 590 • ⏱️ 12:42 • 14h ago
+👁️ 65K • 👍 4K • 💬 590 • ⏱️ 12:42 • 15h ago
 
 ---
 
@@ -383,7 +383,7 @@ At 2:34 AM Eastern today, US and Israel struck Iran — and Bitcoin lost $2500 i
 
 📺 Mystery Market Vault
 
-👁️ 5K • 👍 235 • 💬 149 • ⏱️ 25:03 • 14h ago
+👁️ 5K • 👍 235 • 💬 149 • ⏱️ 25:03 • 15h ago
 
 ---
 
@@ -401,7 +401,7 @@ The New York Times says crypto is finished. CNBC runs with it. Meanwhile Bitcoin
 
 📺 Natalie Brunell
 
-👁️ 4K • 👍 133 • 💬 35 • ⏱️ 1:19 • 17h ago
+👁️ 4K • 👍 133 • 💬 35 • ⏱️ 1:19 • 18h ago
 
 ---
 
