@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-02T21:35:18.456960+00:00'
+updated: '2026-03-02T22:28:40.358470+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
+- videos
 - news
 - cryptocurrency
 - social
-- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 21:35 UTC  
+**Last Updated:** March 02, 2026 at 22:28 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,27 +42,27 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.8%  
-**7d:** +10.2%  
-**30d:** -10.2%  
-**90d:** -36.0%  
-**1y:** -5.7%  
+**24h:** +5.7%  
+**7d:** +10.7%  
+**30d:** -9.7%  
+**90d:** -35.7%  
+**1y:** -5.2%  
 
 ---
 
 ## Ethereum Market Stats
 
-**Market Cap:** $246.47B
+**Market Cap:** $247.19B
 Rank #2
 
 **Circulating Supply:** 120,692,218 ETH
 No max supply
 
 **All-Time High:** $4,946.05
--58.7%
+-58.6%
 
 **All-Time Low:** $0.43
-+471892.9%
++472969.1%
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-15h ago
+16h ago
 
 ---
 
@@ -84,9 +84,25 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 ---
 
+**[Accidentally sent USDT to USDT address](https://www.reddit.com/r/ethereum/comments/1rj7c4p/accidentally_sent_usdt_to_usdt_address/)**
+
+Please help me it’s a large amount, is it lost forever?
+
+3m ago
+
+---
+
+**[RWA on Ethereum feels less like hype and more like a maturity test](https://www.reddit.com/r/ethereum/comments/1rj5ncr/rwa_on_ethereum_feels_less_like_hype_and_more/)**
+
+Maybe unpopular take, but I don’t think RWA is a “narrative” anymore. A few cycles ago, yield on Ethereum mostly meant emissions. Liquidity mining. Governance token incentives. Boosted pools. You could almost feel the dilution in real time. It worked. Until it didn’t. The structural issue was obvious in hindsight: yield funded by token inflation isn’t the same as yield funded by external cashflow. One depends on reflexivity. The other depends on actual economic activity somewhere outside the EVM. That’s why RWA keeps resurfacing here. Centrifuge tried collateralized real-world assets. Maple leaned into institutional credit. Ondo pushed tokenized Treasuries into DeFi rails. Goldfinch experimented with undercollateralized lending. Different risk models. Same direction: Ethereum as settlement for off-chain cashflows. I’ve been looking at 8lends recently from a portfolio construction angle. RWA-backed lending, fixed monthly payouts, structured more like credit exposure than a farm. Not exciting. Which is kind of the point. Fixed doesn’t mean safe. It just means the risk moves. From token dilution and volatility to underwriting quality and legal enforceability. But if Ethereum wants to evolve beyond cyclical liquidity games, it probably needs primitives that aren’t purely reflexive. So the real question for this sub: Is RWA a necessary evolution for Ethereum DeFi, or are we just wrapping TradFi risk and calling it innovation? And how much transparency would you need before allocating capital to an RWA protocol?
+
+1h ago
+
+---
+
 **[🚨 NEW WEBSITE. NEW BREAKDOWN SERIES.](https://www.reddit.com/r/ethereum/comments/1rj4hvn/new_website_new_breakdown_series/)**
 
-55m ago
+1h ago
 
 ---
 
@@ -94,7 +110,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 I’ve always felt that the biggest hurdle for decentralized identity was the "black box" problem of physical hardware. Most of us here have followed the controversy surrounding the Orb and the inherent trust issues that come with proprietary biometric sensors. It’s a classic security vs. privacy trade-off that usually ends in a stalemate. However, the recent open-sourcing of the Remainder prover marks a pretty significant shift in the technical architecture that’s worth looking at from an Ethereum-centric perspective. We’re essentially seeing the transition from "Trust the Gadget" to "Verify the Math". By moving the heavy ML processing from a physical device directly to a user’s smartphone using a GKR + Hyrax-based proof system, we’re entering the territory of production-grade ZK-ML on consumer hardware. This is a massive engineering leap because running machine learning layers locally and generating a ZK-proof that the model was executed correctly - without the raw data ever leaving the device - is exactly the kind of client-side verifiability we’ve been talking about for years. It turns the phone into a verifiable node of trust, potentially making the physical Orb a one-time gateway rather than a permanent central authority. This is more than just an update to a single project; it’s a high-stakes stress test for ZK-SNARKs on the edge. If we can prove that high-performance provers can handle complex ML inferences on mobile GPUs without compromising privacy or draining the battery, it changes the game for everything from Proof-of-Personhood to private DAO voting. It’s a fascinating pivot from hardware-centric identity to a math-first approach, and I’m curious if this finally bridges the gap for those who were previously put off by the centralized nature of the initial setup.
 
-1h ago
+2h ago
 
 ---
 
@@ -102,7 +118,7 @@ I’ve always felt that the biggest hurdle for decentralized identity was the "b
 
 I've been a crypto developer for about 10 years, so I don't think I can answer this question to myself anymore. and most of my social circle is developers as well so it's kind of the same thing. I'm trying to figure out if (or what anecdotal percentage of) non-developers have any desire to create smart contracts. Or rather, just the desire to create non-template crypto projects. (Full transparency: this is related to something I'm building, but I don't want to promote it here because I'm really just looking to have a discussion) Have you ever wanted to create a crypto project but felt like you couldn't because of the skill gap?
 
-19h ago
+20h ago
 
 ---
 
@@ -130,33 +146,9 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
-**[Vitalik’s new account abstraction design could change Ethereum wallets](https://www.reddit.com/r/ethereum/comments/1rhtx38/vitaliks_new_account_abstraction_design_could/)**
-
-Ethereum has talked about account abstraction for years, but EIP-8141 might finally move it into the protocol itself. Instead of wallets + relayers handling validation and gas, transactions would contain that logic directly (“frame transactions”). That could enable: • gas in any token • built-in batching • smart-account features for all wallets • no relayers Simple explanation here: https://btcusa.com/ethereum-account-abstraction-reaches-protocol-layer-inside-vitaliks-eip-8141-framework/
-
-1d ago
-
----
-
-**[TIL the first on-chain proof of attendance token was deployed at Devcon2 in 2016 — three years before POAP launched](https://www.reddit.com/r/ethereum/comments/1rhxzxq/til_the_first_onchain_proof_of_attendance_token/)**
-
-Piper Merriam deployed the IndividualityTokenRoot contract in September 2016 for Devcon2 in Shanghai. Each attendee could mint a unique on-chain token proving they were there — fully ERC-20 compliant, written in Solidity 0.3.6. The idea was simple: if you attended Devcon2, you could claim a token. The minting window closed after the event. No metadata, no images, no marketplace speculation — just cryptographic proof you were in the room. Three years later, POAP launched at ETHDenver 2019 and turned this concept into a whole ecosystem. But the original idea was already deployed and functional on mainnet in 2016. What I find interesting is how many "firsts" are buried in Ethereum's early history. The Devcon2 token was a working proof-of-attendance system years before anyone coined the term "POAP." Alex Van de Sande's Unicorn token (April 2016) had a DAO-governed token grinder with quadratic voting. The DAO itself was mid-2016. All of this predates DeFi Summer by four years. The contract is still on mainnet: 0xdd94de9cfe063577051a5eb7465d08317d8808b6 Source: Piper Merriam's GitHub repo with deployment details and minting logic. If you're interested in exploring more of these early contracts, ethereumhistory.com has been documenting them — 75+ contracts from 2015-2017 with sourced narratives.
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ethereum"
-
-**[Bitcoin, Ethereum ETFs Snap Five-Week Losing Streak as Crypto Funds Add $1 Billion](https://decrypt.co/359587/bitcoin-ethereum-etfs-snap-losing-streak-crypto-funds-1-billion)**
-
-Bitcoin and other crypto funds rebounded with $1 billion worth of inflows last week, ending a five-week, $4 billion losing streak.
-
-Decrypt • 5h ago
-
----
 
 **[Vitalik Buterin lays out a two-part plan to overhaul Ethereum's execution layer from the ground up](https://www.theblock.co/post/391681/vitalik-buterin-lays-out-a-two-part-plan-to-overhaul-ethereums-execution-layer-from-the-ground-up)**
 
@@ -166,11 +158,11 @@ The Block • 1d ago
 
 ---
 
-**[Vitalik Buterin unveils plan to curb Ethereum block builder centralization](https://www.coindesk.com/tech/2026/03/02/vitalik-buterin-unveils-plan-to-curb-ethereum-block-builder-centralization)**
+**[Bitcoin, Ethereum ETFs Snap Five-Week Losing Streak as Crypto Funds Add $1 Billion](https://decrypt.co/359587/bitcoin-ethereum-etfs-snap-losing-streak-crypto-funds-1-billion)**
 
-Another focus of his post is so-called “toxic MEV,” where traders exploit visibility into pending transactions to front-run or “sandwich” users’ trades.
+Bitcoin and other crypto funds rebounded with $1 billion worth of inflows last week, ending a five-week, $4 billion losing streak.
 
-CoinDesk • 2h ago
+Decrypt • 5h ago
 
 ---
 
@@ -178,7 +170,7 @@ CoinDesk • 2h ago
 
 The Glamsterdam upgrade will boost Ethereum's censorship-resistance, but a proposed mechanism called ePBS could cause centralization.
 
-The Block • 1h ago
+The Block • 2h ago
 
 ---
 
@@ -186,7 +178,7 @@ The Block • 1h ago
 
 Key PointsXRP will soon have an even more sophisticated regulatory compliance suite.
 
-Nasdaq • 15h ago
+Nasdaq • 16h ago
 
 ---
 
@@ -198,11 +190,27 @@ Yahoo Finance • 6h ago
 
 ---
 
+**[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.474 Million Tokens, and Total Crypto and Total Cash Holdings of $9.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-474-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-9-billion-302700582.html)**
+
+Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,976 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.71% of the...
+
+PR Newswire • 8h ago
+
+---
+
+**[Bitcoin miner turned Ethereum treasury firm stakes over $6B in ETH as BMNR shares slide and ether dips.](https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase)**
+
+Bitmine chair Tom Lee says company keeps accumulating ETH during market pullback while targeting $253M in annual staking rewards.
+
+CoinDesk • 7h ago
+
+---
+
 **[Crypto News: New Ethereum Based Crypto Pepeto Announces Presale Passing $7.403M Following Elon Musk Favorite Crypto Dogecoin Success](https://markets.businessinsider.com/news/stocks/crypto-news-new-ethereum-based-crypto-pepeto-announces-presale-passing-7-403m-following-elon-musk-favorite-crypto-dogecoin-success-1035882586)**
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- New Ethereum Based Crypto Pepeto just broke past $7.403 million in presale funding after the late...
 
-markets.businessinsider.com • 21h ago
+markets.businessinsider.com • 22h ago
 
 ---
 
@@ -210,7 +218,7 @@ markets.businessinsider.com • 21h ago
 
 The need for blockchains to enable transactions among themselves has become a necessity. In 2026, the cross-chain interoperability protocol (CCIP) is making
 
-FinanceFeeds • 23h ago
+FinanceFeeds • 1d ago
 
 ---
 
@@ -222,15 +230,19 @@ TradingView • 1d ago
 
 ---
 
-**[Ethereum Mini Trust Outflows Hint at Growing Jitters Despite Modest Scale](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-outflows-hint-at-growing-jitters-despite-modest-scale)**
-
-TipRanks • 11h ago
-
----
-
 ---
 
 ## YouTube Videos: "ethereum"
+
+**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
+
+Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+
+📺 Trade Confident
+
+👁️ 258 • 👍 12 • 💬 2 • ⏱️ 5:09 • 2h ago
+
+---
 
 **[🚨 BTC &amp; ETH: THE END!!!!!!!!!!!](https://www.youtube.com/watch?v=ESyJ5lBpO3Q)**
 
@@ -238,27 +250,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 21K • 👍 3K • 💬 61 • ⏱️ 8:18 • 10h ago
-
----
-
-**[Vitalik Buterin Is Selling His ETH: What It Means for Ethereum](https://www.youtube.com/watch?v=PuX5B18EZvs)**
-
-Did Vitalik Buterin just dump Ethereum at the worst possible time? After announcing a “few years” funding plan, nearly half the ...
-
-📺 Coin Bureau
-
-👁️ 70K • 👍 2K • 💬 264 • ⏱️ 18:01 • 1d ago
-
----
-
-**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=nmKkhZ2fYlE)**
-
-This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
-
-📺 More Crypto Online
-
-👁️ 1K • 👍 112 • 💬 1 • ⏱️ 5:20 • 7h ago
+👁️ 23K • 👍 3K • 💬 84 • ⏱️ 8:18 • 11h ago
 
 ---
 
@@ -268,17 +260,27 @@ Well, it looks like someone finally realized that something had to be done or th
 
 📺 The Modern Investor
 
-👁️ 6K • 👍 680 • 💬 81 • ⏱️ 27:48 • 10h ago
+👁️ 6K • 👍 714 • 💬 76 • ⏱️ 27:48 • 11h ago
 
 ---
 
-**[Set Alerts On Ethereum NOW! Bottom Coming Soon?](https://www.youtube.com/watch?v=sl_KQkhjOY4)**
+**[Vitalik Buterin Is Selling His ETH: What It Means for Ethereum](https://www.youtube.com/watch?v=PuX5B18EZvs)**
 
-Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators Join Trade Confident: Get 25% Off Your 1st Month: ...
+Did Vitalik Buterin just dump Ethereum at the worst possible time? After announcing a “few years” funding plan, nearly half the ...
 
-📺 Trade Confident
+📺 Coin Bureau
 
-👁️ 74 • 👍 4 • 💬 2 • ⏱️ 5:09 • 2h ago
+👁️ 72K • 👍 2K • 💬 267 • ⏱️ 18:01 • 1d ago
+
+---
+
+**[Ethereum Elliott Wave Update – Key Resistance Levels Ahead](https://www.youtube.com/watch?v=nmKkhZ2fYlE)**
+
+This video provides a professional Elliott Wave and technical analysis of Ethereum (ETH), focusing on market structure, major ...
+
+📺 More Crypto Online
+
+👁️ 2K • 👍 125 • 💬 1 • ⏱️ 5:20 • 8h ago
 
 ---
 
@@ -288,27 +290,17 @@ I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 191 • 💬 44 • ⏱️ 36:59 • 11h ago
+👁️ 5K • 👍 194 • 💬 44 • ⏱️ 36:59 • 12h ago
 
 ---
 
-**[Is Ethereum the BEST Risk-Reward Asset in Crypto Right Now?](https://www.youtube.com/watch?v=ZMgG1xWOipE)**
+**[BUY ETHEREUM!](https://www.youtube.com/watch?v=LfrCGteIJsE)**
 
-Check prices, drink coffee, read Milk Road. It's the easiest 5-minute habit to stay smart on crypto: ...
+Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/PainofCrypt0 Instagram ...
 
-📺 Milk Road
+📺 Pain of Crypto
 
-👁️ 4K • 👍 128 • 💬 48 • ⏱️ 8:43 • 2d ago
-
----
-
-**[BITCOIN &amp; CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tCR2YKL1_0o)**
-
-BITCOIN & CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
-
-📺 Crypto World
-
-👁️ 8K • 👍 272 • 💬 75 • ⏱️ 15:02 • 21h ago
+👁️ 140 • 👍 14 • 💬 11 • ⏱️ 6:27 • 28m ago
 
 ---
 
@@ -318,17 +310,27 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 190 • 👍 15 • 💬 1 • ⏱️ 5:25 • 11h ago
+👁️ 206 • 👍 15 • 💬 1 • ⏱️ 5:25 • 12h ago
 
 ---
 
-**[The Planets Align | Crypto Will Explode | Ignore Fake News | XRP BTC ETH SOL FLR VET HBAR  🚀🚀🚀🚀](https://www.youtube.com/watch?v=x4Qah4Dh37w)**
+**[BITCOIN &amp; CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum &amp; Altcoins](https://www.youtube.com/watch?v=tCR2YKL1_0o)**
 
-Premium Custody Accounts + Cryptocurrency and Precious Metal IRA's ZERO Monthly Fees! Request a free call Open An ...
+BITCOIN & CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum & Altcoins *Toobit* ...
 
-📺 The James Rule Crypto Show
+📺 Crypto World
 
-👁️ 316 • 👍 54 • 💬 7 • ⏱️ 10:34 • 6h ago
+👁️ 8K • 👍 275 • 💬 91 • ⏱️ 15:02 • 22h ago
+
+---
+
+**[ETHEREUM 🚀 MARCH 2](https://www.youtube.com/watch?v=J_0C1wsxVEY)**
+
+ETHEREUM MARCH 2.
+
+📺 Overkill Trading
+
+👁️ 444 • 👍 23 • 💬 1 • ⏱️ 1:50 • 4h ago
 
 ---
 
