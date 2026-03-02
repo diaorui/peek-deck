@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T14:12:40.480167+00:00'
+updated: '2026-03-02T15:06:22.590556+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 14:12 UTC  
+**Last Updated:** March 02, 2026 at 15:06 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -54,17 +54,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1318.85B
+**Market Cap:** $1344.26B
 Rank #1
 
-**Circulating Supply:** 19,996,843 BTC
+**Circulating Supply:** 19,996,881 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.7%
+-46.7%
 
 **All-Time Low:** $67.81
-+97173.3%
++99037.3%
 
 ---
 
@@ -97,19 +97,19 @@ When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept tradi
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
-58m ago
+1h ago
 
 ---
 
 **[They will stay forever angry](https://www.reddit.com/r/Bitcoin/comments/1riadhx/they_will_stay_forever_angry/)**
 
-16h ago
+17h ago
 
 ---
 
 **[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -117,7 +117,7 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 With everything going on around the Iran conflict, I was expecting a sharp sell-off across risk assets, especially crypto. But Bitcoin hasn’t really dipped in any meaningful way. Is this a sign of strength?
 
-3h ago
+4h ago
 
 ---
 
@@ -125,7 +125,7 @@ With everything going on around the Iran conflict, I was expecting a sharp sell-
 
 Bitcoin (BTC) remains largely indifferent to the massive escalation in Middle Eastern hostilities since 28 Feb, as the digital asset failed to mirror the sharp rallies seen in traditional safe-haven markets. While the joint US and Israeli strikes on Iran triggered a significant spike in crude oil and gold, the premier cryptocurrency hovered stubbornly near the $66,200 level. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-indifferent-middle-east-conflict-escalates) • 4h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-indifferent-middle-east-conflict-escalates) • 5h ago
 
 ---
 
@@ -133,7 +133,7 @@ Bitcoin (BTC) remains largely indifferent to the massive escalation in Middle Ea
 
 I'm pretty new to Crypto and honestly I always get lost in the sauce when it comes to the Crypto market because of the thousands of coins, projects, and so on. Not looking for financial advice of course but just trying to understand whats the criteria you guys takes when you want to 'invest' in some crypto/project. Or should I go straight into BTC. Buy and forget. And become a holder?
 
-12h ago
+13h ago
 
 ---
 
@@ -141,7 +141,7 @@ I'm pretty new to Crypto and honestly I always get lost in the sauce when it com
 
 Hit .70 btc….Endless schloggggg to 1.
 
-17h ago
+18h ago
 
 ---
 
@@ -149,7 +149,7 @@ Hit .70 btc….Endless schloggggg to 1.
 
 Feels like that's what's happening right now.
 
-16h ago
+17h ago
 
 ---
 
@@ -167,7 +167,7 @@ Bloomberg • 1d ago
 
 Bitcoin (BTC) acts as a barometer for global fear, but the latest geopolitical flare-up, which has many fearing for WW3, has failed to break the asset’s bullish prospects.While headlines scream conflict, Bitcoin is holding the $60,000 line, eyeing a liquidity-driven breakout rather than a capitulation event. Traders are now pricing ...
 
-Yahoo Finance • 54m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -175,25 +175,25 @@ Yahoo Finance • 54m ago
 
 Prediction markets are now bearish on Bitcoin, and that could limit its future upside potential.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
 **[Market News: Bitcoin Holds $65K Amid Iran Tensions — 5 Key Things to Know as $45K Target Resurfaces](https://www.binance.com/ar/square/post/297220739995474)**
 
-Binance • 1h ago
+Binance • 2h ago
 
 ---
 
 **[Five Bells Is Decentralizing Digital Assets Settlement Using Bitcoin](https://www.forbes.com/sites/digital-assets/2026/03/02/five-bells-is-decentralizing-digital-assets-settlement-using-bitcoin/)**
 
-Forbes • 27m ago
+Forbes • 1h ago
 
 ---
 
 **[Bitcoin Falls Amid Conflict in Middle East. Why Crypto Is Not a Haven.](https://www.barrons.com/articles/bitcoin-price-today-iran-conflict-haven-crypto-xrp-ethereum-33031e37?gaa_at=eafs&gaa_n=AWEtsqcpeH0hzmRh-EkxRPiiqvk9SuE_Me7Ozc3PqdhaZNf6AARG3exz8QQz&gaa_ts=69a59e3f&gaa_sig=6JliWYkEsTFZDcz5I1a-YNKisiJqnm76SXNfYCmNqxYVSFONo3O8d7ZSrujOBvsOriGb4ataPACP7rkd7jDoaA%3D%3D)**
 
-Barron's • 2h ago
+Barron's • 3h ago
 
 ---
 
@@ -201,7 +201,7 @@ Barron's • 2h ago
 
 The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
 
-KITCO • 31m ago
+KITCO • 1h ago
 
 ---
 
@@ -209,7 +209,7 @@ KITCO • 31m ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 8h ago
+Polymarket • 9h ago
 
 ---
 
@@ -241,7 +241,7 @@ supercarblondie.com • 1d ago
 
 Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strange/starkzap development by creating an account on GitHub.
 
-⬆️ 6 • 💬 21 • 5d ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
+⬆️ 6 • 💬 21 • 6d ago • [GitHub](https://github.com/keep-starknet-strange/starkzap)
 
 ---
 
@@ -291,7 +291,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 1 • 💬 1 • 15h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 1 • 💬 1 • 16h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -313,17 +313,7 @@ War headlines are crushing markets and Bitcoin just dropped fast. But while ever
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 190 • ⏱️ 18:43 • 14h ago
-
----
-
-**[Bitcoin Insider Reveals Why Institutions Are Scrambling To Buy The Dip! | Matt Hougan](https://www.youtube.com/watch?v=iDb9sfON5Qs)**
-
-Bitcoin #Crypto #Finance While retail investors panic over volatility, institutions are quietly buying the dip. In this conversation ...
-
-📺 The Wolf Of All Streets
-
-👁️ 31K • 👍 1K • 💬 384 • ⏱️ 29:04 • 1d ago
+👁️ 33K • 👍 2K • 💬 198 • ⏱️ 18:43 • 14h ago
 
 ---
 
@@ -337,23 +327,33 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 ---
 
-**[Bitcoin vs Iran Tensions - What Happens Next?](https://www.youtube.com/watch?v=kA7vZ_0JJ4o)**
-
-Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
-
-📺 CryptosRUs
-
-👁️ 15K • 👍 923 • 💬 100 • ⏱️ 9:16 • 11h ago
-
----
-
 **[Bitcoin Holders, This Is Happening Right Now](https://www.youtube.com/watch?v=BT9XBzIVexA)**
 
 Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accounts) ...
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 280 • 💬 37 • ⏱️ 6:46 • 4h ago
+👁️ 6K • 👍 400 • 💬 47 • ⏱️ 6:46 • 5h ago
+
+---
+
+**[Bitcoin Insider Reveals Why Institutions Are Scrambling To Buy The Dip! | Matt Hougan](https://www.youtube.com/watch?v=iDb9sfON5Qs)**
+
+Bitcoin #Crypto #Finance While retail investors panic over volatility, institutions are quietly buying the dip. In this conversation ...
+
+📺 The Wolf Of All Streets
+
+👁️ 32K • 👍 1K • 💬 385 • ⏱️ 29:04 • 1d ago
+
+---
+
+**[🚨 BTC &amp; ETH: THE END!!!!!!!!!!!](https://www.youtube.com/watch?v=ESyJ5lBpO3Q)**
+
+Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 narrative isnt the best for crypto people right now.
+
+📺 Thomas Kralow
+
+👁️ 10K • 👍 2K • 💬 37 • ⏱️ 8:18 • 4h ago
 
 ---
 
@@ -363,7 +363,17 @@ Bitcoin didn't top because of “manipulation.” But that doesn't mean manipula
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 210 • 💬 20 • ⏱️ 21:22 • 21h ago
+👁️ 6K • 👍 210 • 💬 20 • ⏱️ 21:22 • 22h ago
+
+---
+
+**[Bitcoin vs Iran Tensions - What Happens Next?](https://www.youtube.com/watch?v=kA7vZ_0JJ4o)**
+
+Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ https://www.clashpicks.com/ Follow ClashPicks' ...
+
+📺 CryptosRUs
+
+👁️ 16K • 👍 981 • 💬 100 • ⏱️ 9:16 • 12h ago
 
 ---
 
@@ -373,7 +383,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 Altcoin Daily
 
-👁️ 37K • 👍 2K • 💬 238 • ⏱️ 36:35 • 1d ago
+👁️ 37K • 👍 2K • 💬 246 • ⏱️ 36:35 • 1d ago
 
 ---
 
@@ -383,7 +393,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 238 • 💬 19 • ⏱️ 6:30 • 15h ago
+👁️ 4K • 👍 242 • 💬 25 • ⏱️ 6:30 • 16h ago
 
 ---
 
@@ -393,17 +403,7 @@ Geopolitical fear is gripping the markets. News of military strikes in Iran sent
 
 📺 Gareth Soloway
 
-👁️ 87K • 👍 5K • 💬 682 • ⏱️ 12:42 • 1d ago
-
----
-
-**[BITCOIN ALERT.... GOLD &amp; OIL IS TELLING US SOMETHING](https://www.youtube.com/watch?v=BgraJ2j-sqU)**
-
-I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM DOCUMENTING MY OWN ...
-
-📺 Satoshi Stacker
-
-👁️ 3K • 👍 267 • 💬 12 • ⏱️ 10:26 • 3h ago
+👁️ 88K • 👍 5K • 💬 685 • ⏱️ 12:42 • 1d ago
 
 ---
 

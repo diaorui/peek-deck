@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T14:12:40.488223+00:00'
+updated: '2026-03-02T15:06:22.599938+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- news
 - videos
 - social
+- news
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 14:12 UTC  
+**Last Updated:** March 02, 2026 at 15:06 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
-3h ago
+4h ago
 
 ---
 
@@ -52,19 +52,19 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-5h ago
+6h ago
 
 ---
 
 **[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
 
-8h ago
+9h ago
 
 ---
 
 **[Spatio: A high-performance Spatio-Temporal database in Rust](https://www.reddit.com/r/robotics/comments/1riqa90/spatio_a_highperformance_spatiotemporal_database/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -72,7 +72,7 @@ Arms are officially mounted to the chest 🙌 Upper body is coming together, now
 
 Helloes, I have decided to make a robot arm as a hobby project as it is something I've wanted since I was a wee teenager. I am *not* an electrical engineer. Whatever experience I have with low voltage electronics is from a hobby perspective. I'm not strong in math, but programming is my forte. Currently I have: 6x Micro Harmonic 26:1 gearboxes (mostly 3d printed) 6x TMC2209 stepper driver packages with heatsinks Variable bench power supply A working single joint using an arduino, a test KYSAN 12v stepper motor and the aforementioned driver Working servo based gripper Fusion 360, a 3d printer and patience I could probably get something working using the aforementioned arduino, but I am considering a control board like the BigTreeTech Manta M8P. What I am worried about is not getting something working, but rather making something safe, because I have close to zero knowledge about noise, power leaks, overheating protection and so on. I am looking to make a small, compact, precise robot. Payload does not need to be large. I believe I need: PSU Steppers Control board Joints of various sorts, I can make these Cable management IK software What would be the safest, less error prone way to continue?
 
-4h ago
+5h ago
 
 ---
 
@@ -80,13 +80,13 @@ Helloes, I have decided to make a robot arm as a hobby project as it is somethin
 
 Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
 
-8h ago
+9h ago
 
 ---
 
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -94,7 +94,7 @@ Does anyone has used the visio? I'm currently building a drone that does not use
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-17h ago
+18h ago
 
 ---
 
@@ -128,7 +128,7 @@ Automotive News • 3d ago
 
 Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costs
 
-Financial Times • 2d ago
+Financial Times • 3d ago
 
 ---
 
@@ -136,7 +136,7 @@ Financial Times • 2d ago
 
 Drivers across the US are being upstaged by cutsey delivery robots as companies like Coco and Serve Robotics expand their operations.
 
-Futurism • 18h ago
+Futurism • 19h ago
 
 ---
 
@@ -144,7 +144,7 @@ Futurism • 18h ago
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 23h ago
+CNBC • 1d ago
 
 ---
 
@@ -152,7 +152,7 @@ CNBC • 23h ago
 
 Students from St. Michael's Prep are back home this week after representing the state of Texas at the inaugural United States Governor's Cup FIRST Tech Challeng
 
-KEYE • 28m ago
+KEYE • 1h ago
 
 ---
 
@@ -160,7 +160,7 @@ KEYE • 28m ago
 
 Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Scientific American • 2h ago
+Scientific American • 3h ago
 
 ---
 
@@ -204,7 +204,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 167K • 👍 8K • 💬 362 • ⏱️ 21:58 • 1d ago
+👁️ 177K • 👍 9K • 💬 383 • ⏱️ 21:58 • 1d ago
 
 ---
 
@@ -214,7 +214,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 113K • 👍 1K • 💬 395 • ⏱️ 12:16 • 3d ago
+👁️ 114K • 👍 1K • 💬 398 • ⏱️ 12:16 • 3d ago
 
 ---
 
@@ -224,17 +224,7 @@ Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These
 
 📺 Carros Show
 
-👁️ 57K • 👍 1K • 💬 124 • ⏱️ 9:36 • 4d ago
-
----
-
-**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
-
-Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
-
-📺 Reuters
-
-👁️ 350K • 👍 2K • 💬 875 • ⏱️ 0:55 • 4d ago
+👁️ 58K • 👍 1K • 💬 125 • ⏱️ 9:36 • 4d ago
 
 ---
 
@@ -244,7 +234,27 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 3K • 👍 52 • 💬 9 • ⏱️ 4:41 • 21h ago
+👁️ 4K • 👍 56 • 💬 10 • ⏱️ 4:41 • 22h ago
+
+---
+
+**[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
+
+Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
+
+📺 Reuters
+
+👁️ 353K • 👍 2K • 💬 875 • ⏱️ 0:55 • 4d ago
+
+---
+
+**[SWARM Biotactics Creates Cyborg Cockroaches for Search and Rescue and Military Recon Missions 🤯](https://www.youtube.com/watch?v=lafqh72_N3M)**
+
+German Startup SWARM Biotactics Turns Cockroaches Into Living Spy Robots Using Microelectronic Backpacks A German ...
+
+📺 Techie Sapien
+
+👁️ 674K • 👍 5K • 💬 69 • ⏱️ 0:07 • 2d ago
 
 ---
 
@@ -254,27 +264,17 @@ The Chinese Apple rival Honor just unveiled the world's first robotic smartphone
 
 📺 Kalil 4.0
 
-👁️ 829 • 👍 19 • ⏱️ 0:54 • 11h ago
+👁️ 919 • 👍 21 • 💬 1 • ⏱️ 0:54 • 12h ago
 
 ---
 
-**[Americans Can&#39;t Believe What China Built Now!](https://www.youtube.com/watch?v=krV1I2MCtd4)**
+**[Humanoid Robots Are Getting Scary Good  🤖](https://www.youtube.com/watch?v=IfGstaDe-Mc)**
 
-China is building robots faster than any country in the world and if you want to understand why robots are so important for China ...
+Humanoid robots are no longer science fiction. Figure AI and Unitree Robotics are pushing the limits of movement, balance, and ...
 
-📺 Cyrus Janssen
+📺 STEALTHLAB
 
-👁️ 257K • 👍 7K • 💬 1K • ⏱️ 11:41 • 5d ago
-
----
-
-**[HONOR Robot Steals the Show 🤖](https://www.youtube.com/watch?v=gkZ4qErwy24)**
-
-HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most surprising highlights from the ...
-
-📺 Dariusz Tech
-
-👁️ 6K • 👍 342 • 💬 21 • ⏱️ 1:17 • 1d ago
+👁️ 21K • 👍 514 • 💬 38 • ⏱️ 0:55 • 3d ago
 
 ---
 
@@ -284,7 +284,7 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 15K • 👍 407 • 💬 142 • ⏱️ 13:15 • 2d ago
+👁️ 15K • 👍 412 • 💬 142 • ⏱️ 13:15 • 2d ago
 
 ---
 
