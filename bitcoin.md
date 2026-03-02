@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T13:01:45.067821+00:00'
+updated: '2026-03-02T14:12:40.480167+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- videos
-- news
-- social
 - cryptocurrency
+- news
+- videos
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 13:01 UTC  
+**Last Updated:** March 02, 2026 at 14:12 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,996.37
+### $65,558.55
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +3.1%  
-**30d:** -14.2%  
-**90d:** -29.6%  
-**1y:** -23.5%  
+**24h:** -2.0%  
+**7d:** +2.4%  
+**30d:** -14.8%  
+**90d:** -30.1%  
+**1y:** -24.0%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
 
-11h ago
+13h ago
 
 ---
 
@@ -89,27 +89,27 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept trading. Here's why that matters more than any price chart right now.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 1h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 3h ago
+
+---
+
+**[Thailand implements 0% capital gains tax on Bitcoin](https://www.reddit.com/r/Bitcoin/comments/1rishsn/thailand_implements_0_capital_gains_tax_on_bitcoin/)**
+
+Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
+
+58m ago
 
 ---
 
 **[They will stay forever angry](https://www.reddit.com/r/Bitcoin/comments/1riadhx/they_will_stay_forever_angry/)**
 
-15h ago
+16h ago
 
 ---
 
 **[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-17h ago
-
----
-
-**[New in crypto, should I go BTC only?](https://www.reddit.com/r/Bitcoin/comments/1rig0nr/new_in_crypto_should_i_go_btc_only/)**
-
-I'm pretty new to Crypto and honestly I always get lost in the sauce when it comes to the Crypto market because of the thousands of coins, projects, and so on. Not looking for financial advice of course but just trying to understand whats the criteria you guys takes when you want to 'invest' in some crypto/project. Or should I go straight into BTC. Buy and forget. And become a holder?
-
-11h ago
+18h ago
 
 ---
 
@@ -117,15 +117,7 @@ I'm pretty new to Crypto and honestly I always get lost in the sauce when it com
 
 With everything going on around the Iran conflict, I was expecting a sharp sell-off across risk assets, especially crypto. But Bitcoin hasn’t really dipped in any meaningful way. Is this a sign of strength?
 
-2h ago
-
----
-
-**[The road to 1 is stilllll so long.](https://www.reddit.com/r/Bitcoin/comments/1ri877c/the_road_to_1_is_stilllll_so_long/)**
-
-Hit .70 btc….Endless schloggggg to 1.
-
-16h ago
+3h ago
 
 ---
 
@@ -133,7 +125,23 @@ Hit .70 btc….Endless schloggggg to 1.
 
 Bitcoin (BTC) remains largely indifferent to the massive escalation in Middle Eastern hostilities since 28 Feb, as the digital asset failed to mirror the sharp rallies seen in traditional safe-haven markets. While the joint US and Israeli strikes on Iran triggered a significant spike in crude oil and gold, the premier cryptocurrency hovered stubbornly near the $66,200 level. : Get all the latest crypto news at Sandmark
 
-🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-indifferent-middle-east-conflict-escalates) • 3h ago
+🔗 [Sandmark](https://www.sandmark.com/news/top-news/bitcoin-indifferent-middle-east-conflict-escalates) • 4h ago
+
+---
+
+**[New in crypto, should I go BTC only?](https://www.reddit.com/r/Bitcoin/comments/1rig0nr/new_in_crypto_should_i_go_btc_only/)**
+
+I'm pretty new to Crypto and honestly I always get lost in the sauce when it comes to the Crypto market because of the thousands of coins, projects, and so on. Not looking for financial advice of course but just trying to understand whats the criteria you guys takes when you want to 'invest' in some crypto/project. Or should I go straight into BTC. Buy and forget. And become a holder?
+
+12h ago
+
+---
+
+**[The road to 1 is stilllll so long.](https://www.reddit.com/r/Bitcoin/comments/1ri877c/the_road_to_1_is_stilllll_so_long/)**
+
+Hit .70 btc….Endless schloggggg to 1.
+
+17h ago
 
 ---
 
@@ -141,15 +149,7 @@ Bitcoin (BTC) remains largely indifferent to the massive escalation in Middle Ea
 
 Feels like that's what's happening right now.
 
-15h ago
-
----
-
-**[What are good hygiene in terms of self custody?](https://www.reddit.com/r/Bitcoin/comments/1ripoib/what_are_good_hygiene_in_terms_of_self_custody/)**
-
-For those who has a cold wallet. What practices do you do to make sure your funds are safe and accessible? Currently I: 1. Test my recovery phrase every month. 2. Every quarter I test send/receive small amount. 3. I buy a separate cold wallet after X amount. I am not sure if #2 is really helpful tho, I am just paranoid + still much to learn to be confident.
-
-2h ago
+16h ago
 
 ---
 
@@ -157,23 +157,17 @@ For those who has a cold wallet. What practices do you do to make sure your fund
 
 ## Google News: "bitcoin"
 
-**[Institutional crypto interest rebounds even as Bitcoin (BTC) falls 25%](https://www.coindesk.com/business/2026/03/01/bitcoin-losing-trillions-in-value-hasn-t-stopped-traditional-giants-interest-in-digital-assets-sector)**
+**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-At the iConnections conference in Miami this week, allocators signaled digital assets are now a core sleeve in alternatives.
-
-CoinDesk • 19h ago
+Bloomberg • 1d ago
 
 ---
 
-**[Bitcoin Stages Tepid Recovery as Iran Strikes Stir Uncertainty](https://www.bloomberg.com/news/articles/2026-03-01/bitcoin-btc-recovery-looks-tepid-as-iran-strikes-stir-uncertainty)**
+**[Bitcoin and WW3: 5 Key Indicators as BTC Eyes Global Liquidity Surge](https://finance.yahoo.com/news/bitcoin-ww3-5-key-indicators-131759692.html)**
 
-Bloomberg • 16h ago
+Bitcoin (BTC) acts as a barometer for global fear, but the latest geopolitical flare-up, which has many fearing for WW3, has failed to break the asset’s bullish prospects.While headlines scream conflict, Bitcoin is holding the $60,000 line, eyeing a liquidity-driven breakout rather than a capitulation event. Traders are now pricing ...
 
----
-
-**[Bitcoin Falls Amid Conflict in Middle East. Why Crypto Is Not a Haven.](https://www.barrons.com/articles/bitcoin-price-today-iran-conflict-haven-crypto-xrp-ethereum-33031e37?gaa_at=eafs&gaa_n=AWEtsqd1LSPfq1aOu60CUmTE04BkJMbVjzummvledPq8cEA_pNJvYhvXgU-5&gaa_ts=69a58d5c&gaa_sig=5EKtiAunoFR6RIoCg8X29s7mkpYvgVKoZZipCZQAKjACbbhOFCsAJHO8zM2BSrwkmFlZR-dyglf3q9WrAcU5tw%3D%3D)**
-
-Barron's • 1h ago
+Yahoo Finance • 54m ago
 
 ---
 
@@ -181,15 +175,41 @@ Barron's • 1h ago
 
 Prediction markets are now bearish on Bitcoin, and that could limit its future upside potential.
 
-The Motley Fool • 22m ago
+The Motley Fool • 1h ago
 
 ---
 
-**[Bitcoin High-Stakes March: $120K Forecasts Meet the $60K–$70K Accumulation Grind](https://finance.yahoo.com/news/bitcoin-high-stakes-march-120k-103819836.html)**
+**[Market News: Bitcoin Holds $65K Amid Iran Tensions — 5 Key Things to Know as $45K Target Resurfaces](https://www.binance.com/ar/square/post/297220739995474)**
 
-Bitcoin March outlook is separating the bulls from the bears. After grinding through a sustained high-stakes consolidation phase that bottomed at $62,900 last week, Bitcoin is back trading above $66,000 at the time of writing.While price action feels heavy following the 22% decline from this time last year, macro analysts ...
+Binance • 1h ago
 
-Yahoo Finance • 2h ago
+---
+
+**[Five Bells Is Decentralizing Digital Assets Settlement Using Bitcoin](https://www.forbes.com/sites/digital-assets/2026/03/02/five-bells-is-decentralizing-digital-assets-settlement-using-bitcoin/)**
+
+Forbes • 27m ago
+
+---
+
+**[Bitcoin Falls Amid Conflict in Middle East. Why Crypto Is Not a Haven.](https://www.barrons.com/articles/bitcoin-price-today-iran-conflict-haven-crypto-xrp-ethereum-33031e37?gaa_at=eafs&gaa_n=AWEtsqcpeH0hzmRh-EkxRPiiqvk9SuE_Me7Ozc3PqdhaZNf6AARG3exz8QQz&gaa_ts=69a59e3f&gaa_sig=6JliWYkEsTFZDcz5I1a-YNKisiJqnm76SXNfYCmNqxYVSFONo3O8d7ZSrujOBvsOriGb4ataPACP7rkd7jDoaA%3D%3D)**
+
+Barron's • 2h ago
+
+---
+
+**[Bitcoin March 2 daily chart alert - Firmer, trapped in trading range](https://www.kitco.com/news/article/2026-03-02/bitcoin-march-2-daily-chart-alert-firmer-trapped-trading-range)**
+
+The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
+
+KITCO • 31m ago
+
+---
+
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772428800)**
+
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
+
+Polymarket • 8h ago
 
 ---
 
@@ -199,33 +219,11 @@ Cleveland.com • 2d ago
 
 ---
 
-**[Bitcoin price today: slips to $66k as Middle East conflict sparks risk-off wave](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-to-66k-as-middle-east-conflict-sparks-riskoff-wave-4533596)**
+**[Someone invested over $7,000 into Bitcoin 14 years ago and what it's worth now is almost incomprehensible](https://supercarblondie.com/tech/7000-invested-bitcoin-14-years-ago-value-now/)**
 
-Investing.com • 10h ago
+Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
 
----
-
-**[Spot Bitcoin ETFs Record $787 Million Inflows, End 5-Week Consecutive Outflows](https://www.tradingview.com/news/newsbtc:c84c922d1094b:0-spot-bitcoin-etfs-record-787-million-inflows-end-5-week-consecutive-outflows/)**
-
-Spot Bitcoin exchange-traded funds have finally returned to positive territory after enduring five straight weeks of capital withdrawals. Flow data shows that the just-concluded week delivered a strong rebound in investor demand, although the late surge was not enough to fully repair the damage rec…
-
-TradingView • 18h ago
-
----
-
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772428800)**
-
-Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
-
-Polymarket • 7h ago
-
----
-
-**[MicroStrategy Raises STRC Dividend as MSTR Share Dips 14.77%](https://beincrypto.com/microstrategy-strc-dividend-mstr-btc-drawdown/)**
-
-Strategy lifts STRC preferred dividend to 11.50% for March 2026, its 7th hike, as MSTR falls 14.77% YTD on BTC drawdown.
-
-BeInCrypto • 7h ago
+supercarblondie.com • 1d ago
 
 ---
 
@@ -265,7 +263,7 @@ Links to major crypto world figures are just the start.
 
 **[Fix the money, fix the world: Bitcoin as techno-libertarian religion](https://news.ycombinator.com/item?id=47165953)**
 
-⬆️ 3 • 💬 0 • 3d ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
+⬆️ 3 • 💬 0 • 4d ago • [academic.oup.com](https://academic.oup.com/ser/advance-article/doi/10.1093/ser/mwag009/8494255?login=false)
 
 ---
 
@@ -277,7 +275,7 @@ Links to major crypto world figures are just the start.
 
 **[Bitcoin's Gold Price: A Falsifiable Model Through 2035](https://news.ycombinator.com/item?id=47150970)**
 
-⬆️ 2 • 💬 1 • 4d ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
+⬆️ 2 • 💬 1 • 5d ago • [silmonbiggs.github.io](https://silmonbiggs.github.io/BTCvGold/)
 
 ---
 
@@ -293,7 +291,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 1 • 💬 1 • 14h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 1 • 💬 1 • 15h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -315,7 +313,7 @@ War headlines are crushing markets and Bitcoin just dropped fast. But while ever
 
 📺 Simply Bitcoin
 
-👁️ 30K • 👍 2K • 💬 190 • ⏱️ 18:43 • 12h ago
+👁️ 30K • 👍 2K • 💬 190 • ⏱️ 18:43 • 14h ago
 
 ---
 
@@ -325,7 +323,7 @@ Bitcoin #Crypto #Finance While retail investors panic over volatility, instituti
 
 📺 The Wolf Of All Streets
 
-👁️ 31K • 👍 1K • 💬 384 • ⏱️ 29:04 • 23h ago
+👁️ 31K • 👍 1K • 💬 384 • ⏱️ 29:04 • 1d ago
 
 ---
 
@@ -345,7 +343,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 15K • 👍 923 • 💬 100 • ⏱️ 9:16 • 10h ago
+👁️ 15K • 👍 923 • 💬 100 • ⏱️ 9:16 • 11h ago
 
 ---
 
@@ -355,7 +353,7 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 3K • 👍 280 • 💬 37 • ⏱️ 6:46 • 3h ago
+👁️ 3K • 👍 280 • 💬 37 • ⏱️ 6:46 • 4h ago
 
 ---
 
@@ -365,7 +363,7 @@ Bitcoin didn't top because of “manipulation.” But that doesn't mean manipula
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 210 • 💬 20 • ⏱️ 21:22 • 20h ago
+👁️ 6K • 👍 210 • 💬 20 • ⏱️ 21:22 • 21h ago
 
 ---
 
@@ -385,7 +383,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 4K • 👍 238 • 💬 19 • ⏱️ 6:30 • 14h ago
+👁️ 4K • 👍 238 • 💬 19 • ⏱️ 6:30 • 15h ago
 
 ---
 
@@ -405,7 +403,7 @@ I AM NOT A FINANCIAL ADVISOR. ALL VIDEOS IS FOR ENTERTAINTMENT PURPOSE; AND I AM
 
 📺 Satoshi Stacker
 
-👁️ 3K • 👍 267 • 💬 12 • ⏱️ 10:26 • 2h ago
+👁️ 3K • 👍 267 • 💬 12 • ⏱️ 10:26 • 3h ago
 
 ---
 

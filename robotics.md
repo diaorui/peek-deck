@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T13:01:45.077220+00:00'
+updated: '2026-03-02T14:12:40.488223+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- videos
 - news
+- videos
 - social
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 13:01 UTC  
+**Last Updated:** March 02, 2026 at 14:12 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
-2h ago
+3h ago
 
 ---
 
@@ -48,23 +48,23 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 ---
 
-**[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
-
-7h ago
-
----
-
 **[Update on my humanoid robot project](https://www.reddit.com/r/robotics/comments/1rinkii/update_on_my_humanoid_robot_project/)**
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-4h ago
+5h ago
+
+---
+
+**[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
+
+8h ago
 
 ---
 
 **[Spatio: A high-performance Spatio-Temporal database in Rust](https://www.reddit.com/r/robotics/comments/1riqa90/spatio_a_highperformance_spatiotemporal_database/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -72,7 +72,7 @@ Arms are officially mounted to the chest 🙌 Upper body is coming together, now
 
 Helloes, I have decided to make a robot arm as a hobby project as it is something I've wanted since I was a wee teenager. I am *not* an electrical engineer. Whatever experience I have with low voltage electronics is from a hobby perspective. I'm not strong in math, but programming is my forte. Currently I have: 6x Micro Harmonic 26:1 gearboxes (mostly 3d printed) 6x TMC2209 stepper driver packages with heatsinks Variable bench power supply A working single joint using an arduino, a test KYSAN 12v stepper motor and the aforementioned driver Working servo based gripper Fusion 360, a 3d printer and patience I could probably get something working using the aforementioned arduino, but I am considering a control board like the BigTreeTech Manta M8P. What I am worried about is not getting something working, but rather making something safe, because I have close to zero knowledge about noise, power leaks, overheating protection and so on. I am looking to make a small, compact, precise robot. Payload does not need to be large. I believe I need: PSU Steppers Control board Joints of various sorts, I can make these Cable management IK software What would be the safest, less error prone way to continue?
 
-3h ago
+4h ago
 
 ---
 
@@ -80,13 +80,13 @@ Helloes, I have decided to make a robot arm as a hobby project as it is somethin
 
 Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
 
-7h ago
+8h ago
 
 ---
 
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-18h ago
+19h ago
 
 ---
 
@@ -94,7 +94,7 @@ Does anyone has used the visio? I'm currently building a drone that does not use
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-16h ago
+17h ago
 
 ---
 
@@ -108,35 +108,19 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 ## Google News: "robotics"
 
-**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
-
-In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
-
-CNBC • 2d ago
-
----
-
-**[Why humanoid robots are learning everyday tasks faster than expected](https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/)**
-
-Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
-
-Scientific American • 1h ago
-
----
-
 **[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)**
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
-BMW Group • 2d ago
+BMW Group • 3d ago
 
 ---
 
-**[Honor's new humanoid robot pulls off flawless moonwalk, backflip](https://interestingengineering.com/ai-robotics/honor-humanoid-robot-mwc)**
+**[BMW intensifies humanoid robot push with test project in Germany after U.S. success](https://www.autonews.com/bmw/ane-bmw-humanoid-robot-leipzig-germany-0227/)**
 
-Honor released its first-ever humanoid robot, which took to the stage and performed human-like dance moves, including a moonwalk and backflip.
+BMW joins automakers that are exploring humanoid robotics as the next frontier of manufacturing flexibility.
 
-Interesting Engineering • 28m ago
+Automotive News • 3d ago
 
 ---
 
@@ -148,11 +132,11 @@ Financial Times • 2d ago
 
 ---
 
-**[BMW Deploys Humanoid Robots in Europe for the First Time](https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/)**
+**[Former Delivery Drivers Are Getting Weird New Jobs as Delivery Robots Take Over](https://futurism.com/robots-and-machines/robot-wranglers)**
 
-BMW is deploying humanoid robots at its Leipzig plant for the first time in Europe. Here's what the pilot involves and what it means for the future of car production.
+Drivers across the US are being upstaged by cutsey delivery robots as companies like Coco and Serve Robotics expand their operations.
 
-BMW Blog • 2d ago
+Futurism • 18h ago
 
 ---
 
@@ -160,31 +144,43 @@ BMW Blog • 2d ago
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 22h ago
+CNBC • 23h ago
 
 ---
 
-**[Former Delivery Drivers Are Getting Weird New Jobs as Delivery Robots Take Over](https://futurism.com/robots-and-machines/robot-wranglers)**
+**[St. Michael's Prep in Austin represent Texas at U.S. Governor's Cup Robotics Showcase](https://cbsaustin.com/news/local/st-michaels-prep-in-austin-represent-texas-at-us-governors-cup-robotics-showcase)**
 
-Drivers across the US are being upstaged by cutsey delivery robots as companies like Coco and Serve Robotics expand their operations.
+Students from St. Michael's Prep are back home this week after representing the state of Texas at the inaugural United States Governor's Cup FIRST Tech Challeng
 
-Futurism • 17h ago
-
----
-
-**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
-
-The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
-
-Pittsburgh Post-Gazette • 1h ago
+KEYE • 28m ago
 
 ---
 
-**[Portable robotics practice field helps Northland teams prep](https://www.duluthnewstribune.com/lifestyle/portable-robotics-practice-field-helps-northland-teams-prep)**
+**[Why humanoid robots are learning everyday tasks faster than expected](https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/)**
 
-The Duluth Entertainment Convention Center will host two simultaneous FIRST Robotics competitions March 4-7. Teams prepared for the competitions using a co-created and owned practice field.
+Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Duluth News Tribune • 2d ago
+Scientific American • 2h ago
+
+---
+
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+
+Coco Robotics launched a new generation of delivery bots
+
+Los Angeles Times • 2d ago
+
+---
+
+**[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
+
+Tech Xplore • 2d ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqeGBxue5TFJy2WNd-a3Bh1D7D7Us-qtgFlqpSUPxYNH58U3Wgu3sGth&gaa_ts=69a59e42&gaa_sig=GgIQRhi14jOks2nBfYQ63ojj-81enPbGmKVnt64rD0f6Cj8dN4oZINMHjLR_75GCnrGKpInrsBu06_pvqunj1w%3D%3D)**
+
+WSJ • 2d ago
 
 ---
 
@@ -248,7 +244,7 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 3K • 👍 52 • 💬 9 • ⏱️ 4:41 • 20h ago
+👁️ 3K • 👍 52 • 💬 9 • ⏱️ 4:41 • 21h ago
 
 ---
 
@@ -258,7 +254,7 @@ The Chinese Apple rival Honor just unveiled the world's first robotic smartphone
 
 📺 Kalil 4.0
 
-👁️ 829 • 👍 19 • ⏱️ 0:54 • 10h ago
+👁️ 829 • 👍 19 • ⏱️ 0:54 • 11h ago
 
 ---
 
@@ -278,7 +274,7 @@ HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most su
 
 📺 Dariusz Tech
 
-👁️ 6K • 👍 342 • 💬 21 • ⏱️ 1:17 • 23h ago
+👁️ 6K • 👍 342 • 💬 21 • ⏱️ 1:17 • 1d ago
 
 ---
 
