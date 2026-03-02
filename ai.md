@@ -3,13 +3,13 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-02T23:29:03.335961+00:00'
+updated: '2026-03-02T23:53:08.053120+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- news
 - repositories
+- news
 - social
 - videos
 ---
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 02, 2026 at 23:29 UTC  
+**Last Updated:** March 02, 2026 at 23:53 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -49,7 +49,7 @@ Are we better off with ai with or without the pleasantries?
 
 The law doesn’t say what Sam Altman claims it does.
 
-🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 5m ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 29m ago
 
 ---
 
@@ -57,7 +57,7 @@ The law doesn’t say what Sam Altman claims it does.
 
 An interactive cinematic experience. Seven scenes. Generative music. One story. Turn your sound on.
 
-🔗 [claude-a-story-in-light.vercel.app](https://claude-a-story-in-light.vercel.app) • 2h ago
+🔗 [claude-a-story-in-light.vercel.app](https://claude-a-story-in-light.vercel.app) • 3h ago
 
 ---
 
@@ -65,7 +65,7 @@ An interactive cinematic experience. Seven scenes. Generative music. One story. 
 
 Dashboard for near real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
 
-4h ago
+5h ago
 
 ---
 
@@ -81,7 +81,7 @@ I had some time and decided to write a short essay about some aspects that I do 
 
 World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
 
-🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 11h ago
+🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 12h ago
 
 ---
 
@@ -89,7 +89,7 @@ World models are advancing rapidly inside AI labs, but enterprise adoption is la
 
 .
 
-🔗 [phoronix.com](https://www.phoronix.com/review/amd-epyc-9745-9755/3) • 45m ago
+🔗 [phoronix.com](https://www.phoronix.com/review/amd-epyc-9745-9755/3) • 1h ago
 
 ---
 
@@ -125,7 +125,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 Claude climbs to top of app store charts in US and UK after being blacklisted by the Pentagon over ethics concerns
 
-The Guardian • 2h ago
+The Guardian • 3h ago
 
 ---
 
@@ -139,13 +139,13 @@ The New York Times • 18h ago
 
 Founded by Freddy del Barrio, Companion AI is a longitudinal learning system designed to evolve with its users.
 
-USA Today • 27m ago
+USA Today • 51m ago
 
 ---
 
 **[Applied Digital Adds to AI Junk-Bond Surge With Offering](https://www.bloomberg.com/news/articles/2026-03-02/applied-digital-adds-to-ai-junk-bond-surge-with-offering)**
 
-Bloomberg • 35m ago
+Bloomberg • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ Bloomberg • 35m ago
 
 There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?
 
-BBC • 15h ago
+BBC • 16h ago
 
 ---
 
@@ -177,7 +177,7 @@ The Washington Post • 1d ago
 
 Amazon's Mark Whelan will join the studio behind Tilly Norwood to help build a "constantly evolving digital universe where Tilly and a new generation of AI characters will live.”
 
-NBC News • 5h ago
+NBC News • 6h ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 134,356 • ❤️ 373 • 19h ago
+⬇️ 134,356 • ❤️ 373 • 20h ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 22.2k • 🔱 2.8k • 3h ago
+⭐ 22.2k • 🔱 2.8k • 4h ago
 
 ---
 
@@ -651,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Python`
 
-⭐ 6.1k • 🔱 741 • 4h ago
+⭐ 6.1k • 🔱 741 • 5h ago
 
 ---
 
@@ -681,7 +681,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 368 • 5h ago
+⭐ 3.8k • 🔱 368 • 6h ago
 
 ---
 

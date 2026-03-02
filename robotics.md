@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T23:29:03.353425+00:00'
+updated: '2026-03-02T23:53:08.069034+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 23:29 UTC  
+**Last Updated:** March 02, 2026 at 23:53 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -40,7 +40,7 @@ Robotics research and industry news
 
 **[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -48,7 +48,7 @@ Robotics research and industry news
 
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
-12h ago
+13h ago
 
 ---
 
@@ -56,7 +56,7 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-14h ago
+15h ago
 
 ---
 
@@ -86,7 +86,7 @@ Hey , i want to study my Msc in robotics ( my background is in electrical engine
 
 There’s a long history in robotics of pushing, pulling, and otherwise “torturing” robots during demos. The purpose is to demonstrate robustness. Engineers introduce disturbances to show how well the control system responds, whether that’s balance recovery or reacting to changes in the environment. In many cases, these tests are meant to highlight stability control and real-time response, not spectacle. The robot is being forced to recover without relying on a scripted sequence. At the same time, there’s an acknowledgment that the practice may have outlived its usefulness.
 
-4h ago
+5h ago
 
 ---
 
