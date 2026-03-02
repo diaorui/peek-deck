@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T08:49:19.893857+00:00'
+updated: '2026-03-02T09:52:36.030019+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 08:49 UTC  
+**Last Updated:** March 02, 2026 at 09:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,21 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-22h ago
+23h ago
 
 ---
 
 **[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
 
-3h ago
+4h ago
+
+---
+
+**[DIY Robot arm help](https://www.reddit.com/r/robotics/comments/1rio7bj/diy_robot_arm_help/)**
+
+Helloes, I have decided to make a robot arm as a hobby project as it is something I've wanted since I was a wee teenager. I am *not* an electrical engineer. Whatever experience I have with low voltage electronics is from a hobby perspective. I'm not strong in math, but programming is my forte. Currently I have: 6x Micro Harmonic 26:1 gearboxes (mostly 3d printed) 6x TMC2209 stepper driver packages with heatsinks Variable bench power supply A working single joint using an arduino, a test KYSAN 12v stepper motor and the aforementioned driver Working servo based gripper Fusion 360, a 3d printer and patience I could probably get something working using the aforementioned arduino, but I am considering a control board like the BigTreeTech Manta M8P. What I am worried about is not getting something working, but rather making something safe, because I have close to zero knowledge about noise, power leaks, overheating protection and so on. I am looking to make a small, compact, precise robot. Payload does not need to be large. I believe I need: PSU Steppers Control board Joints of various sorts, I can make these Cable management IK software What would be the safest, less error prone way to continue?
+
+32m ago
 
 ---
 
@@ -50,7 +58,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
 
-3h ago
+4h ago
 
 ---
 
@@ -58,13 +66,13 @@ Does anyone has used the visio? I'm currently building a drone that does not use
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-9m ago
+1h ago
 
 ---
 
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-13h ago
+15h ago
 
 ---
 
@@ -72,7 +80,7 @@ Arms are officially mounted to the chest 🙌 Upper body is coming together, now
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-12h ago
+13h ago
 
 ---
 
@@ -92,29 +100,13 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 18h ago
-
----
-
-**[Micro-Robot Delivers Medicine Exactly Where Your Body Needs It](https://www.reddit.com/r/robotics/comments/1ri3mwp/microrobot_delivers_medicine_exactly_where_your/)**
-
-Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
-
-🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 15h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 19h ago
 
 ---
 
 ---
 
 ## Google News: "robotics"
-
-**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
-
-In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
-
-CNBC • 1d ago
-
----
 
 **[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)**
 
@@ -132,33 +124,35 @@ Financial Times • 2d ago
 
 ---
 
-**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+**[China releases first humanoid robot standard system to support long-term growth](https://www.globaltimes.cn/page/202603/1356007.shtml)**
 
-Coco Robotics launched a new generation of delivery bots
+China has officially released its inaugural top-level design for the humanoid robot and embodied artificial intelligence (AI) standard system, covering the entire industrial chain and life cycle, CCTV News reported on Sunday, noting that this milestone marks a transition into a new phase of standardized and collaborative development for the sector.
 
-Los Angeles Times • 1d ago
-
----
-
-**[DoorDash Launching Its Delivery Robots In Fremont, Because Maybe People There Will Complain Less](https://sfist.com/2026/02/27/doordash-launching-its-delivery-robots-in-fremont-because-maybe-people-there-would-complain-less/)**
-
-DoorDash’s longtime dream of cutting paid human beings out of the delivery process is one step closer to reality, as they’re debuting their little robots to do food deliveries, but at first only in Fremont.
-
-SFist • 2d ago
+Global Times • 23h ago
 
 ---
 
-**[Coco delivery robots get reboot to maximize service and expand market](https://nypost.com/2026/02/28/us-news/coco-delivery-robots-get-reboot-to-maximize-service-and-expand-market/)**
+**[Former Delivery Drivers Are Getting Weird New Jobs as Delivery Robots Take Over](https://futurism.com/robots-and-machines/robot-wranglers)**
 
-The Coco delivery robots that have become a regular part of so many Los Angeles neighborhoods will now have a whole new look — a redesign the company behind them says will help to expand the bots&#…
+Drivers across the US are being upstaged by cutsey delivery robots as companies like Coco and Serve Robotics expand their operations.
 
-New York Post • 1d ago
+Futurism • 14h ago
 
 ---
 
-**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+**[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
 
-Bloomberg.com • 3d ago
+Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
+
+CNBC • 19h ago
+
+---
+
+**[Inside of Carnegie Mellon University's new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
+
+The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
+
+Pittsburgh Post-Gazette • 11h ago
 
 ---
 
@@ -168,17 +162,23 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqcS6BHeAH9lzqdRAKiBxBvFSo_Fi_fJvnPICEGcLepo-KLuJ8FKYjI4&gaa_ts=69a5527b&gaa_sig=lgqu58nlGSoKfg9bmInS8WvxhONg_O-d3ywW3B-iEk0ONVsRy2DZxZk-rQoCOtFdV_2QHgtfyqdW_wWiF8QlOw%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfqie_ZMK0ZZNjqzHthpGW3c3kGhs5A0fUBgRNIy0Pr1hneTkY43hQa&gaa_ts=69a56150&gaa_sig=BK68EhwOYoTYt0dzp6SqAhYUICr8KHmKyvlKecrs7rGOBzYDqC_mVMzVg36IyQkf4-KiuLDT0ow0qN0D6bYMlA%3D%3D)**
 
 WSJ • 2d ago
 
 ---
 
-**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
+**[Featured video: Coding for underwater robotics](https://news.mit.edu/2026/featured-video-coding-underwater-robotics-0227)**
 
-Televised gala offers a showcase and opportunity for the best of Chinese tech
+Drawn by the chance to tackle new problems and cutting-edge algorithm development, Ivy Mahncke undertook an internship with MIT Lincoln Laboratory, developing an algorithm that would help a human diver and robotic vehicle navigate underwater.
 
-Financial Times • 2d ago
+MIT News • 2d ago
+
+---
+
+**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
+
+Bloomberg.com • 3d ago
 
 ---
 
@@ -192,7 +192,7 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 143K • 👍 7K • 💬 322 • ⏱️ 21:58 • 1d ago
+👁️ 156K • 👍 8K • 💬 339 • ⏱️ 21:58 • 1d ago
 
 ---
 
@@ -202,7 +202,7 @@ Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These
 
 📺 Carros Show
 
-👁️ 57K • 👍 1K • 💬 123 • ⏱️ 9:36 • 4d ago
+👁️ 57K • 👍 1K • 💬 124 • ⏱️ 9:36 • 4d ago
 
 ---
 
@@ -212,7 +212,7 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 111K • 👍 1K • 💬 387 • ⏱️ 12:16 • 3d ago
+👁️ 112K • 👍 1K • 💬 391 • ⏱️ 12:16 • 3d ago
 
 ---
 
@@ -222,27 +222,7 @@ China delivered a jaw-dropping tech showcase during the visit of German Chancell
 
 📺 NewsX Live
 
-👁️ 68K • 👍 316 • 💬 123 • ⏱️ 2:18 • 3d ago
-
----
-
-**[China’s Humanoid Robots Just Learned to FIGHT… The World Isn’t Ready](https://www.youtube.com/watch?v=auoP7Wk_7HA)**
-
-China's humanoid robots have officially learned to fight, and the latest demonstrations show a level of power and precision the ...
-
-📺 The AI Nexus
-
-👁️ 3K • 👍 112 • 💬 25 • ⏱️ 24:08 • 4d ago
-
----
-
-**[HONOR Humanoid Robot Stuns Mobile World Congress 2026 With Real Backflips](https://www.youtube.com/watch?v=NoshXGHxgVo)**
-
-HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Barcelona, and the live demonstration shocked ...
-
-📺 DPCcars
-
-👁️ 2K • 👍 38 • 💬 5 • ⏱️ 4:41 • 16h ago
+👁️ 69K • 👍 316 • 💬 123 • ⏱️ 2:18 • 3d ago
 
 ---
 
@@ -252,7 +232,7 @@ Dancing, boxing and flexing — these were some of the skills displayed by robot
 
 📺 Reuters
 
-👁️ 343K • 👍 2K • 💬 875 • ⏱️ 0:55 • 3d ago
+👁️ 347K • 👍 2K • 💬 874 • ⏱️ 0:55 • 3d ago
 
 ---
 
@@ -262,17 +242,27 @@ China is building robots faster than any country in the world and if you want to
 
 📺 Cyrus Janssen
 
-👁️ 256K • 👍 7K • 💬 1K • ⏱️ 11:41 • 4d ago
+👁️ 257K • 👍 7K • 💬 1K • ⏱️ 11:41 • 4d ago
 
 ---
 
-**[Humanoid Robots Are Getting Scary Good  🤖](https://www.youtube.com/watch?v=IfGstaDe-Mc)**
+**[HONOR Humanoid Robot Stuns Mobile World Congress 2026 With Real Backflips](https://www.youtube.com/watch?v=NoshXGHxgVo)**
 
-Humanoid robots are no longer science fiction. Figure AI and Unitree Robotics are pushing the limits of movement, balance, and ...
+HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Barcelona, and the live demonstration shocked ...
 
-📺 STEALTHLAB
+📺 DPCcars
 
-👁️ 19K • 👍 493 • 💬 34 • ⏱️ 0:55 • 3d ago
+👁️ 2K • 👍 49 • 💬 8 • ⏱️ 4:41 • 17h ago
+
+---
+
+**[The Hard Truth About Mass Robot Deployment](https://www.youtube.com/watch?v=VTbd0_n9qQA)**
+
+Tesla just shut down Model S and X lines to pivot toward Optimus production — but is this a real robotics breakthrough or a ...
+
+📺 Dumb Money Live
+
+👁️ 14K • 👍 401 • 💬 137 • ⏱️ 13:15 • 2d ago
 
 ---
 
@@ -281,6 +271,16 @@ Humanoid robots are no longer science fiction. Figure AI and Unitree Robotics ar
 📺 Lin of Brant robot 
 
 👁️ 28K • 👍 68 • ⏱️ 0:23 • 4d ago
+
+---
+
+**[China&#39;s Kung-Fu Terminator Robot That Shocked the Internet | Unitree G1 Bot!](https://www.youtube.com/watch?v=4R4PsFivZGM)**
+
+China's Unitree G1 humanoid robot is going viral after performing real kung-fu style combat moves that stunned viewers ...
+
+📺 OXIDER
+
+👁️ 53K • 👍 707 • 💬 263 • ⏱️ 2:05 • 6d ago
 
 ---
 
