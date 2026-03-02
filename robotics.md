@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T09:52:36.030019+00:00'
+updated: '2026-03-02T10:43:47.975369+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - news
-- social
 - videos
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 09:52 UTC  
+**Last Updated:** March 02, 2026 at 10:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -42,7 +42,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 **[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
 
-4h ago
+5h ago
 
 ---
 
@@ -50,7 +50,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Helloes, I have decided to make a robot arm as a hobby project as it is something I've wanted since I was a wee teenager. I am *not* an electrical engineer. Whatever experience I have with low voltage electronics is from a hobby perspective. I'm not strong in math, but programming is my forte. Currently I have: 6x Micro Harmonic 26:1 gearboxes (mostly 3d printed) 6x TMC2209 stepper driver packages with heatsinks Variable bench power supply A working single joint using an arduino, a test KYSAN 12v stepper motor and the aforementioned driver Working servo based gripper Fusion 360, a 3d printer and patience I could probably get something working using the aforementioned arduino, but I am considering a control board like the BigTreeTech Manta M8P. What I am worried about is not getting something working, but rather making something safe, because I have close to zero knowledge about noise, power leaks, overheating protection and so on. I am looking to make a small, compact, precise robot. Payload does not need to be large. I believe I need: PSU Steppers Control board Joints of various sorts, I can make these Cable management IK software What would be the safest, less error prone way to continue?
 
-32m ago
+1h ago
 
 ---
 
@@ -58,7 +58,7 @@ Helloes, I have decided to make a robot arm as a hobby project as it is somethin
 
 Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
 
-4h ago
+5h ago
 
 ---
 
@@ -66,7 +66,7 @@ Does anyone has used the visio? I'm currently building a drone that does not use
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-1h ago
+2h ago
 
 ---
 
@@ -80,7 +80,7 @@ Arms are officially mounted to the chest 🙌 Upper body is coming together, now
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-13h ago
+14h ago
 
 ---
 
@@ -100,7 +100,7 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 19h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 20h ago
 
 ---
 
@@ -136,7 +136,7 @@ Global Times • 23h ago
 
 Drivers across the US are being upstaged by cutsey delivery robots as companies like Coco and Serve Robotics expand their operations.
 
-Futurism • 14h ago
+Futurism • 15h ago
 
 ---
 
@@ -144,7 +144,7 @@ Futurism • 14h ago
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 19h ago
+CNBC • 20h ago
 
 ---
 
@@ -252,7 +252,7 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 2K • 👍 49 • 💬 8 • ⏱️ 4:41 • 17h ago
+👁️ 2K • 👍 49 • 💬 8 • ⏱️ 4:41 • 18h ago
 
 ---
 

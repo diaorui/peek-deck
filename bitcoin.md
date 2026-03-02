@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T09:52:36.020704+00:00'
+updated: '2026-03-02T10:43:47.965440+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - news
-- social
 - videos
+- social
 - cryptocurrency
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 09:52 UTC  
+**Last Updated:** March 02, 2026 at 10:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,19 +81,19 @@ Rank #1
 
 It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
 
-8h ago
+9h ago
 
 ---
 
 **[They will stay forever angry](https://www.reddit.com/r/Bitcoin/comments/1riadhx/they_will_stay_forever_angry/)**
 
-11h ago
+12h ago
 
 ---
 
 **[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -101,7 +101,7 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 I'm pretty new to Crypto and honestly I always get lost in the sauce when it comes to the Crypto market because of the thousands of coins, projects, and so on. Not looking for financial advice of course but just trying to understand whats the criteria you guys takes when you want to 'invest' in some crypto/project. Or should I go straight into BTC. Buy and forget. And become a holder?
 
-7h ago
+8h ago
 
 ---
 
@@ -109,7 +109,7 @@ I'm pretty new to Crypto and honestly I always get lost in the sauce when it com
 
 Hit .70 btc….Endless schloggggg to 1.
 
-13h ago
+14h ago
 
 ---
 
@@ -117,7 +117,7 @@ Hit .70 btc….Endless schloggggg to 1.
 
 Feels like that's what's happening right now.
 
-12h ago
+13h ago
 
 ---
 
@@ -125,7 +125,7 @@ Feels like that's what's happening right now.
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-18h ago
+19h ago
 
 ---
 
@@ -149,7 +149,7 @@ I kept running into the same problem where someone in my life would ask me about
 
 Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
 
-15h ago
+16h ago
 
 ---
 
@@ -161,13 +161,13 @@ Is it time to buy Bitcoin? Share some advice and suggest promising assets simila
 
 At the iConnections conference in Miami this week, allocators signaled digital assets are now a core sleeve in alternatives.
 
-CoinDesk • 16h ago
+CoinDesk • 17h ago
 
 ---
 
 **[Bitcoin Stages Tepid Recovery as Iran Strikes Stir Uncertainty](https://www.bloomberg.com/news/articles/2026-03-01/bitcoin-btc-recovery-looks-tepid-as-iran-strikes-stir-uncertainty)**
 
-Bloomberg.com • 12h ago
+Bloomberg.com • 13h ago
 
 ---
 
@@ -175,7 +175,7 @@ Bloomberg.com • 12h ago
 
 Hayes predicts that a US-Iran war escalation could force the Fed to print money to cover costs, boosting Bitcoin over time. Historical patterns show that ...
 
-Yahoo Finance • 22m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -189,7 +189,7 @@ The Motley Fool • 1d ago
 
 **[Bitcoin, Ethereum, XRP Fall. Curious Crypto Trading Means This for Markets.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-cryptos-us-iran-conflict-33031e37?gaa_at=eafs&gaa_n=AWEtsqdaSgEJ7Icp47cRoNwk_44FtKlYYSGh-w0gnYu1vhTvMipRUopNtp8e&gaa_ts=69a5614c&gaa_sig=cSAZ1IKaGeKb-opGZOI_5VTpXgV7fF82Y9L3XCk9rqFUY0W3AsC51B41jCDPbIqZf7wiWdKSJp2QPtzoL2JbIw%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -205,7 +205,7 @@ CoinDesk • 1d ago
 
 It's worth holding highly resilient assets, but some are better than others.
 
-The Motley Fool • 3h ago
+The Motley Fool • 4h ago
 
 ---
 
@@ -213,7 +213,7 @@ The Motley Fool • 3h ago
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 1h ago
+Polymarket • 2h ago
 
 ---
 
@@ -221,7 +221,7 @@ Polymarket • 1h ago
 
 Bitcoin saw its price crash toward $60,000 last week, and naturally, investor sentiment took a plunge with it. Now, while the sentiment has been in a decline for the better part of five months, what stands out this time is how low the score on the Bitcoin Fear & Greed Index has gotten. In fact, the…
 
-TradingView • 3h ago
+TradingView • 4h ago
 
 ---
 
@@ -319,7 +319,7 @@ War headlines are crushing markets and Bitcoin just dropped fast. But while ever
 
 📺 Simply Bitcoin
 
-👁️ 26K • 👍 2K • 💬 169 • ⏱️ 18:43 • 9h ago
+👁️ 26K • 👍 2K • 💬 169 • ⏱️ 18:43 • 10h ago
 
 ---
 
@@ -329,7 +329,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 13K • 👍 841 • 💬 90 • ⏱️ 9:16 • 7h ago
+👁️ 13K • 👍 841 • 💬 90 • ⏱️ 9:16 • 8h ago
 
 ---
 
@@ -349,7 +349,7 @@ Bitcoin #Crypto #Finance While retail investors panic over volatility, instituti
 
 📺 The Wolf Of All Streets
 
-👁️ 30K • 👍 1K • 💬 316 • ⏱️ 29:04 • 19h ago
+👁️ 30K • 👍 1K • 💬 316 • ⏱️ 29:04 • 20h ago
 
 ---
 
@@ -359,7 +359,7 @@ Bitcoin didn't top because of “manipulation.” But that doesn't mean manipula
 
 📺 Savvy Finance
 
-👁️ 6K • 👍 201 • 💬 18 • ⏱️ 21:22 • 17h ago
+👁️ 6K • 👍 201 • 💬 18 • ⏱️ 21:22 • 18h ago
 
 ---
 
@@ -379,7 +379,7 @@ WEEX: https://www.weex.com/events/welcome-event?vipCode=00dt&qrType=activity 25%
 
 📺 Crypto Rover
 
-👁️ 6K • 👍 477 • 💬 17 • ⏱️ 6:34 • 4h ago
+👁️ 6K • 👍 477 • 💬 17 • ⏱️ 6:34 • 5h ago
 
 ---
 
@@ -407,7 +407,7 @@ How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.f
 
 📺 CryptoWendyO
 
-👁️ 11K • 👍 445 • 💬 9 • ⏱️ 1:00 • 7h ago
+👁️ 11K • 👍 445 • 💬 9 • ⏱️ 1:00 • 8h ago
 
 ---
 
