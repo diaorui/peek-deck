@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T19:57:22.527648+00:00'
+updated: '2026-03-02T20:43:28.477570+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - videos
 - news
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 19:57 UTC  
+**Last Updated:** March 02, 2026 at 20:43 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,7 @@ Robotics research and industry news
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-2h ago
+3h ago
 
 ---
 
@@ -42,7 +42,7 @@ Robotics research and industry news
 
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
-9h ago
+10h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-11h ago
+12h ago
 
 ---
 
@@ -80,7 +80,7 @@ There’s a long history in robotics of pushing, pulling, and otherwise “tortu
 
 **[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
 
-14h ago
+15h ago
 
 ---
 
@@ -88,13 +88,13 @@ There’s a long history in robotics of pushing, pulling, and otherwise “tortu
 
 Helloes, I have decided to make a robot arm as a hobby project as it is something I've wanted since I was a wee teenager. I am *not* an electrical engineer. Whatever experience I have with low voltage electronics is from a hobby perspective. I'm not strong in math, but programming is my forte. Currently I have: 6x Micro Harmonic 26:1 gearboxes (mostly 3d printed) 6x TMC2209 stepper driver packages with heatsinks Variable bench power supply A working single joint using an arduino, a test KYSAN 12v stepper motor and the aforementioned driver Working servo based gripper Fusion 360, a 3d printer and patience I could probably get something working using the aforementioned arduino, but I am considering a control board like the BigTreeTech Manta M8P. What I am worried about is not getting something working, but rather making something safe, because I have close to zero knowledge about noise, power leaks, overheating protection and so on. I am looking to make a small, compact, precise robot. Payload does not need to be large. I believe I need: PSU Steppers Control board Joints of various sorts, I can make these Cable management IK software What would be the safest, less error prone way to continue?
 
-10h ago
+11h ago
 
 ---
 
 **[Spatio: A high-performance Spatio-Temporal database in Rust](https://www.reddit.com/r/robotics/comments/1riqa90/spatio_a_highperformance_spatiotemporal_database/)**
 
-8h ago
+9h ago
 
 ---
 
@@ -102,7 +102,7 @@ Helloes, I have decided to make a robot arm as a hobby project as it is somethin
 
 Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
 
-14h ago
+15h ago
 
 ---
 
@@ -115,6 +115,14 @@ Does anyone has used the visio? I'm currently building a drone that does not use
 Drivers across the US are being upstaged by cutsey delivery robots as companies like Coco and Serve Robotics expand their operations.
 
 Futurism • 1d ago
+
+---
+
+**[6 lessons I learned watching a robotics startup die from the inside](https://www.therobotreport.com/6-lessons-learned-watching-a-robotics-startup-die-from-the-inside/)**
+
+After a year as COO of K-Scale Labs, Rui Xu reflects on the hard lessons behind the collapse of its low-cost humanoid robot ambitions.
+
+The Robot Report • 1h ago
 
 ---
 
@@ -138,15 +146,15 @@ CNBC • 1d ago
 
 Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Scientific American • 7h ago
+Scientific American • 8h ago
 
 ---
 
-**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
 
-The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
+Coco Robotics launched a new generation of delivery bots
 
-Pittsburgh Post-Gazette • 21h ago
+Los Angeles Times • 2d ago
 
 ---
 
@@ -160,29 +168,21 @@ Tech Xplore • 3d ago
 
 As-a-service models and success stories from peers are pushing SMEs to invest in automation technology within their supply chains alongside giants like Walmart and Amazon.
 
-Yahoo Finance • 9h ago
+Yahoo Finance • 10h ago
 
 ---
 
-**[St. Michael's Prep in Austin represent Texas at U.S. Governor's Cup Robotics Showcase](https://cbsaustin.com/news/local/st-michaels-prep-in-austin-represent-texas-at-us-governors-cup-robotics-showcase)**
-
-Students from St. Michael's Prep are back home this week after representing the state of Texas at the inaugural United States Governor's Cup FIRST Tech Challeng
-
-KEYE • 6h ago
-
----
-
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfGycINlX7lt_ZksZnGeYqG8an_VcGFn3netD_jqd9ajuwoS9LFcqF9&gaa_ts=69a5e463&gaa_sig=irZs2OJfnJIBEMf5QmuqVl5lzh0agLPRLxryVkdVy-X3ZS9i6jpV2SINQROIc0Nij1hRzUHAOwYzcJrUEVSUJg%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfsUDtwZGexfNCatFvUWT9zEhfQLN7guz1o8vh7-JlTJxYVBj3qu_Zz&gaa_ts=69a5f9df&gaa_sig=VQclQhALsl7F_mjXe5quOT4kRdecwyvaBX9zw-otpi5W2gyIdgKntEdelFeJQxhM0EuaXvr-TiyIWCqF_Vll8Q%3D%3D)**
 
 WSJ • 2d ago
 
 ---
 
-**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
+**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
 
-Coco Robotics launched a new generation of delivery bots
+The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
 
-Los Angeles Times • 2d ago
+Pittsburgh Post-Gazette • 21h ago
 
 ---
 
@@ -256,7 +256,7 @@ The #1 Ammit destroyer. After we tried out some different Ammit killer builds so
 
 📺 PREDATOR WR
 
-👁️ 5K • 👍 282 • 💬 32 • ⏱️ 16:42 • 6h ago
+👁️ 5K • 👍 282 • 💬 32 • ⏱️ 16:42 • 7h ago
 
 ---
 

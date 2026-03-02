@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T19:57:22.517957+00:00'
+updated: '2026-03-02T20:43:28.468237+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
+- social
 - videos
 - news
 - cryptocurrency
-- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 19:57 UTC  
+**Last Updated:** March 02, 2026 at 20:43 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $68,654.20
+### $68,740.37
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.1%  
-**7d:** +7.3%  
-**30d:** -10.7%  
-**90d:** -26.7%  
-**1y:** -20.4%  
+**24h:** +5.3%  
+**7d:** +8.0%  
+**30d:** -10.1%  
+**90d:** -26.2%  
+**1y:** -19.8%  
 
 ---
 
@@ -81,7 +81,7 @@ Rank #1
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
-6h ago
+7h ago
 
 ---
 
@@ -89,7 +89,7 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept trading. Here's why that matters more than any price chart right now.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 8h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 9h ago
 
 ---
 
@@ -97,15 +97,7 @@ When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept tradi
 
 It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
 
-18h ago
-
----
-
-**[Citi just announced their plans to make bitcoin “bankable”. What does that mean?](https://www.reddit.com/r/Bitcoin/comments/1riyasz/citi_just_announced_their_plans_to_make_bitcoin/)**
-
-"We're moving into the world of 24/7 assets like Bitcoin. We definitely need a 24/7 US dollar or 24/7 digital money." They recognize that bitcoin is here to stay, and stablecoins are more than a new fintech type innovation, they're the new rails. Citi laid out three things they're building: Institutional-grade custody They're integrating Bitcoin into the same framework applied to the $30 trillion in traditional assets their clients already hold A single service model across bitcoin, securities, and money. She also said that their clients don't want to manage wallets, keys, and addresses which isn't surprising. It's great to see banks building out bitcoin services because it normalizes bitcoin, and helps to change its perception from drug money/crypto/scams to another legitimate form of money that sits alongside dollars and equities in one's bank account. Longterm, our view is that the market will demand that Citi and every other bank adopt a multi-institution custody model, so that clients don't have to trust Citi alone, and can instead benefit from a trust-minimized solution with fault tolerance built in. This would be the best case scenario for bitcoin as it becomes adopted by banks and institutions. The keys remain decentralized. More transparency and control for clients. No single point of failure. Harder to censor.
-
-2h ago
+19h ago
 
 ---
 
@@ -113,7 +105,21 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour! 🧡 https://x.com/SteaknShake/status/2028322342275871122
 
-5h ago
+6h ago
+
+---
+
+**[Bitcoin demonetizes violence and it monetizes peace and love](https://www.reddit.com/r/Bitcoin/comments/1rj3tub/bitcoin_demonetizes_violence_and_it_monetizes/)**
+
+28m ago
+
+---
+
+**[While some of the Bitcoin class 2025 get uneasy about the current dip, Strategy acquired another 3,015 BTC](https://www.reddit.com/r/Bitcoin/comments/1riudre/while_some_of_the_bitcoin_class_2025_get_uneasy/)**
+
+Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As of 3/1/2026, we hodl 720,737 BTC acquired for ~$54.77 billion at ~$75,985 per bitcoin.
+
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 6h ago
 
 ---
 
@@ -123,19 +129,11 @@ Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour
 
 ---
 
-**[While some of the Bitcoin class 2025 get uneasy about the current dip, Strategy acquired another 3,015 BTC](https://www.reddit.com/r/Bitcoin/comments/1riudre/while_some_of_the_bitcoin_class_2025_get_uneasy/)**
-
-Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As of 3/1/2026, we hodl 720,737 BTC acquired for ~$54.77 billion at ~$75,985 per bitcoin.
-
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 5h ago
-
----
-
 **[man they are really going at it, Does war actually make Bitcoin stronger… or weaker?](https://www.reddit.com/r/Bitcoin/comments/1riw09c/man_they_are_really_going_at_it_does_war_actually/)**
 
 So I’m curious what people here think. When conflicts or wars happen, does Bitcoin actually benefit in the long run, or does it usually just get dragged down with the rest of the markets first? Kind of alarming but i know btc survived stuff already
 
-4h ago
+5h ago
 
 ---
 
@@ -143,13 +141,15 @@ So I’m curious what people here think. When conflicts or wars happen, does Bit
 
 With everything going on around the Iran conflict, I was expecting a sharp sell-off across risk assets, especially crypto. But Bitcoin hasn’t really dipped in any meaningful way. Is this a sign of strength?
 
-9h ago
+10h ago
 
 ---
 
-**[My reaction to anyone who tells me to sell BTC](https://www.reddit.com/r/Bitcoin/comments/1ritoxl/my_reaction_to_anyone_who_tells_me_to_sell_btc/)**
+**[BTC: Inspiration & Discipline](https://www.reddit.com/r/Bitcoin/comments/1rj24d0/btc_inspiration_discipline/)**
 
-5h ago
+I'm thankful that Bitcoin inspired me to save. Before BTC, I never felt much enthusiasm for saving money and buying investments. It was more like the responsible, adult, thing to do. Since discovering BTC, I'm always considering how to better allocate funds and manage expenses because I could be stacking more sats. Bitcoin inspired me to learn about economics and global monetary systems. All fiat currencies experience hyperinflation over longer periods of time. Bitcoin has also taught me to not chase FOMO and, instead, buy into FUD. I've gotten really good at denying myself the urge to quickly buy green pumps. I save my dollars and then on the worst red days/week, scale into buying more sats. Bitcoin doesn't have to reach $500k to change my life. It already has in many other ways. For people starting right now, you're so lucky to have a $60-70k BTC range to accumulate. The bear markets are brutal but they allow you to capture the gains on the upside. Stay humble, stack sats.
+
+1h ago
 
 ---
 
@@ -157,33 +157,49 @@ With everything going on around the Iran conflict, I was expecting a sharp sell-
 
 ## Google News: "bitcoin"
 
-**[Strategy Spends $200 Million on Bitcoin, Raises STRC Dividend Yet Again](https://decrypt.co/359593/strategy-spends-200-million-bitcoin-raises-strc-dividend)**
+**[Cryptocurrencies Under Pressure as Iran Strikes Stir Uncertainty](https://finance.yahoo.com/news/bitcoin-stages-tepid-recovery-iran-111039997.html)**
 
-Strategy disclosed its third-largest Bitcoin purchase of the year, scooping up the asset using proceeds that partially came from STRC.
+Bitcoin traded erratically on Saturday after US-Israel strikes began early in the day.  Prices initially slid, then firmed as rumors spread that Iran’s supreme leader Ayatollah Ali Khamenei had been killed.  After Iranian officials confirmed his death, Bitcoin briefly touched $68,196 before reversing to about $65,300 by 4 p.m. Sunday in New York, down 2.1%.
 
-Decrypt • 4h ago
-
----
-
-**[Bitcoin holds up after Iran strike, outpacing equities in risk-off session: Crypto Markets Today](https://www.coindesk.com/markets/2026/03/02/bitcoin-outperforms-equities-in-risk-off-session-as-iran-conflict-enters-third-day)**
-
-Bitcoin rebounds to $66,500 after weekend strikes triggered $300 million in liquidations, as oil jumps, equities slide and select DeFi tokens outperform.
-
-CoinDesk • 8h ago
+Yahoo Finance • 23h ago
 
 ---
 
-**[Crypto’s 24-Hour Promise Gets a Geopolitical Reality Check](https://www.bloomberg.com/news/articles/2026-03-02/crypto-s-24-hour-promise-gets-a-geopolitical-reality-check)**
+**[Bitcoin is making a bottom, says VanEck Funds' Jan van Eck](https://www.cnbc.com/video/2026/03/02/bitcoin-is-making-a-bottom-says-vaneck-funds-jan-van-eck.html)**
 
-Bloomberg.com • 2h ago
+CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
+
+CNBC • 39m ago
 
 ---
 
-**[Bitcoin BIP-110 battles begin: Onchain image inscription challenges data-limit proposal](https://www.coindesk.com/tech/2026/03/02/battle-for-bitcoin-s-soul-opens-as-first-block-supporting-clean-up-proposal-is-mined)**
+**[Bitcoin Treasury Firm ProCap Adds $31 Million in BTC as Stock Buybacks Grow](https://finance.yahoo.com/news/bitcoin-treasury-firm-procap-adds-195749526.html)**
 
-The first Bitcoin block signaling for BIP-110 has been mined, marking a flashpoint in a heated debate over restricting non-financial data onchain.
+Publicly traded Bitcoin treasury ProCap Financial boosted its BTC stash to $376 million as it continues buying back its own shares.
 
-CoinDesk • 2h ago
+Yahoo Finance • 45m ago
+
+---
+
+**[Bitcoin price analysis: BTC's jump to $69,000 likely the result of short-covering](https://www.coindesk.com/markets/2026/03/02/bitcoin-s-5-spike-higher-monday-driven-by-short-covering-not-fresh-buying-says-analyst)**
+
+Market data show rising open interest and large liquidation clusters around $65,000 and above $70,000, underscoring that the rally may be fragile without stronger spot demand
+
+CoinDesk • 1h ago
+
+---
+
+**[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
+
+Bloomberg.com • 5h ago
+
+---
+
+**[Michael Saylor's Strategy buys 3,015 bitcoin for $204 million as total holdings top 720,000 BTC](https://www.theblock.co/post/391718/michael-saylor-strategy-buys-more-bitcoin-mstr-strc)**
+
+Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $48 billion.
+
+The Block • 7h ago
 
 ---
 
@@ -191,15 +207,7 @@ CoinDesk • 2h ago
 
 Bitcoin’s recent downturn could be just like Apple’s (NASDAQ:AAPL) in 2012, according to Strategy (NASDAQ:MSTR) Chair Michael Saylor. Bitcoin’s recent nearly 47% drawdown from its record price of $126,000 in October is similar to Apple’s stock crash between 2012 and...
 
-Yahoo Finance • 5h ago
-
----
-
-**[If a Market Crash Hits in 2026, Will Gold, Silver, or Bitcoin Protect Your Wealth Best?](https://www.fool.com/investing/2026/03/02/if-a-market-crash-hits-in-2026-will-gold-silver-or/)**
-
-It's worth holding highly resilient assets, but some are better than others.
-
-The Motley Fool • 13h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -207,29 +215,23 @@ The Motley Fool • 13h ago
 
 As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
 
-Dallas News • 2h ago
+Dallas News • 3h ago
 
 ---
 
-**[Strategy Stock Rises. The World’s Largest Bitcoin Holder Doubles Down on Its Crypto Bet.](https://www.barrons.com/articles/strategy-doubles-down-on-crypto-bet-d2d51560?gaa_at=eafs&gaa_n=AWEtsqcsEeBtrzsiHf6O0JEkrQtyMcZG9voSFU7_giQD1HH-qJWXCpwJmFw_&gaa_ts=69a5e460&gaa_sig=rmUYJbWDQXHM_vHHYTdoOlYSk4esNyWJhj1tnyPA9f6PlxJaHRCTeialTjmVAPVGx1N3wUXoTsXzxvv7I66eGQ%3D%3D)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772458500)**
 
-Barron's • 2h ago
+Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
----
-
-**[Bitcoin March 2 daily chart alert - Firmer, trapped in trading range](https://www.kitco.com/news/article/2026-03-02/bitcoin-march-2-daily-chart-alert-firmer-trapped-trading-range)**
-
-The Kitco News Team brings you the latest news, videos, analysis and opinions regarding Precious Metals, Crypto, Mining, World Markets and Global Economy.
-
-KITCO • 6h ago
+Polymarket • 1d ago
 
 ---
 
-**[New Crypto Pepeto Announces $7.42M Milestone While Bitcoin, XRP and Ethereum Set Up for Record Breaking Moves](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-7-42m-milestone-while-bitcoin-xrp-and-ethereum-set-up-for-record-breaking-moves-1035886613)**
+**[Better Cryptocurrency to Buy Now With $1,000 And Hold For 3 Years: XRP vs. Bitcoin](https://www.fool.com/investing/2026/03/01/better-cryptocurrency-to-buy-now-with-1000-and-hol/)**
 
-Dubai, UAE, March  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto just announced another milestone with $7.42 million raised in presale funding, ...
+The landscape is shifting rapidly, and these two coins are adapting differently.
 
-markets.businessinsider.com • 4h ago
+The Motley Fool • 1d ago
 
 ---
 
@@ -319,7 +321,7 @@ War headlines are crushing markets and Bitcoin just dropped fast. But while ever
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 216 • ⏱️ 18:43 • 19h ago
+👁️ 38K • 👍 2K • 💬 216 • ⏱️ 18:43 • 20h ago
 
 ---
 
@@ -359,7 +361,7 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 514 • 💬 58 • ⏱️ 6:46 • 10h ago
+👁️ 10K • 👍 514 • 💬 58 • ⏱️ 6:46 • 11h ago
 
 ---
 
@@ -369,7 +371,7 @@ Everyone from mainstream media to the "permabears" has been screaming about a ma
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 396 • ⏱️ 1:57:53 • 2h ago
+👁️ 8K • 👍 396 • ⏱️ 1:57:53 • 3h ago
 
 ---
 
@@ -379,7 +381,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 939 • 💬 30 • ⏱️ 51:28 • 3h ago
+👁️ 16K • 👍 939 • 💬 30 • ⏱️ 51:28 • 4h ago
 
 ---
 
@@ -399,7 +401,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 987 • 💬 100 • ⏱️ 9:16 • 17h ago
+👁️ 18K • 👍 987 • 💬 100 • ⏱️ 9:16 • 18h ago
 
 ---
 
