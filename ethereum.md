@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-02T15:06:22.596664+00:00'
+updated: '2026-03-02T16:02:24.813673+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- videos
-- cryptocurrency
 - social
+- videos
 - news
+- cryptocurrency
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 15:06 UTC  
+**Last Updated:** March 02, 2026 at 16:02 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -36,17 +36,17 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Price
 
-### $1,955.77
+### $2,061.96
 
 ---
 
 ## Ethereum Chart
 
-**24h:** -3.1%  
-**7d:** +4.3%  
-**30d:** -15.0%  
-**90d:** -39.4%  
-**1y:** -10.7%  
+**24h:** +4.7%  
+**7d:** +10.8%  
+**30d:** -9.6%  
+**90d:** -35.7%  
+**1y:** -5.1%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-9h ago
+10h ago
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 I've been a crypto developer for about 10 years, so I don't think I can answer this question to myself anymore. and most of my social circle is developers as well so it's kind of the same thing. I'm trying to figure out if (or what anecdotal percentage of) non-developers have any desire to create smart contracts. Or rather, just the desire to create non-template crypto projects. (Full transparency: this is related to something I'm building, but I don't want to promote it here because I'm really just looking to have a discussion) Have you ever wanted to create a crypto project but felt like you couldn't because of the skill gap?
 
-13h ago
+14h ago
 
 ---
 
@@ -88,7 +88,7 @@ I've been a crypto developer for about 10 years, so I don't think I can answer t
 
 Now, execution layer changes. I've already talked about account abstraction, multidimensional gas, BALs, and ZK-EVMs. I've also talked here about a short-term EVM upgrade that I think will be super-valuable: a vectorized math precompile (basically, do 32-bit or potentially 64-bit operations on lists of numbers at the same time; in principle this could accelerate many hashes, STARK validation, FHE, lattice-based quantum-resistane signatures, and more by 8-64x); think "the GPU for the EVM". https://firefly.social/post/x/2027405623189803453 Today I'll focus on two big things: state tree changes, and VM changes. State tree changes are in this roadmap. VM changes (ie. EVM -> RISC-V or something better) are longer-term and are still more non-consensus, but I have high conviction that it will become "the obvious thing to do" once state tree changes and the long-term state roadmap (see https://ethresear.ch/t/hyper-scaling-state-by-creating-new-forms-of-state/24052 ) are finished, so I'll make my case for it here. What these two have in common is: They are the big bottlenecks that we have to address if we want efficient proving (tree + VM are like >80%) They're basically mandatory for various client-side proving use cases They are "deep" changes that many shrink away from, thinking that it is more "pragmatic" to be incrementalist I'll make the case for both. Binary trees The state tree change (worked on by @gballet and many others) is https://eips.ethereum.org/EIPS/eip-7864, switching from the current hexary keccak MPT to a binary tree based on a more efficient hash function. This has the following benefits: 4x shorter Merkle branches (because binary is 32log(n) and hexary is 512log(n)/4), which makes client-side branch verification more viable. This makes Helios, PIR and more 4x cheaper by data bandwidth Proving efficiency. 3-4x comes from shorter Merkle branches. On top of that, the hash function change: either blake3 [perhaps 3x vs keccak] or a Poseidon variant [100x, but more security work to be done] Client-side proving: if you want ZK applications that compose with the ethereum state, instead of making their own tree like today, then the ethereum state tree needs to be prover-friendly. Cheaper access for adjacent slots: the binary tree design groups together storage slots into "pages" (eg. 64-256 slots, so 2-8 kB). This allows storage to get the same efficiency benefits as code in terms of loading and editing lots of it at a time, both in raw execution and in the prover. The block header and the first ~1-4 kB of code and storage live in the same page. Many dapps today already load a lot of data from the first few storage slots, so this could save them >10k gas per tx Reduced variance in access depth (loads from big contracts vs small contracts) Binary trees are simpler Opportunity to add any metadata bits we end up needing for state expiry Zooming out a bit, binary trees are an "omnibus" that allows us to take all of our learnings from the past ten years about what makes a good state tree, and actually apply them. VM changes See also: https://ethereum-magicians.org/t/long-term-l1-execution-layer-proposal-replace-the-evm-with-risc-v/23617 One reason why the protocol gets uglier over time with more special cases is that people have a certain latent fear of "using the EVM". If a wallet feature, privacy protocol, or whatever else can be done without introducing this "big scary EVM thing", there's a noticeable sigh of relief. To me, this is very sad. Ethereum's whole point is its generality, and if the EVM is not good enough to actually meet the needs of that generality, then we should tackle the problem head-on, and make a better VM. This means: More efficient than EVM in raw execution, to the point where most precompiles become unnecessary More prover-efficient than EVM (today, provers are written in RISC-V, hence my proposal to just make the new VM be RISC-V) Client-side-prover friendly. You should be able to, client-side, make ZK-proofs about eg. what happens if your account gets called with a certain piece of data Maximum simplicity. A RISC-V interpreter is only a couple hundred lines of code, it's what a blockchain VM "should feel like" This is still more speculative and non-consensus. Ethereum would certainly be fine if all we do is EVM + GPU. But a better VM can make Ethereum beautiful and great. A possible deployment roadmap is: NewVM (eg. RISC-V) only for precompiles: 80% of today's precompiles, plus many new ones, become blobs of NewVM code Users get the ability to deploy NewVM contracts EVM is retired and turns into a smart contract written in NewVM EVM users experience full backwards compatibility except gas cost changes (which will be overshadowed by the next few years of scaling work). And we get a much more prover-efficient, simpler and cleaner protocol.
 
-21h ago
+22h ago
 
 ---
 
@@ -96,7 +96,7 @@ Now, execution layer changes. I've already talked about account abstraction, mul
 
 Hi ethereumers (if that's the way we call the ethereum community eheh), firstly i'm sorry if this is an frequent question but i couldn't find the answer anywhere so i wanna ask about it. I'm holding Bitcoins in trustwallet which i'm willing to convert to eth to pay gas for my usdt, is there a simple/fast way to do it? Advices appreciated
 
-18h ago
+19h ago
 
 ---
 
@@ -128,7 +128,7 @@ Piper Merriam deployed the IndividualityTokenRoot contract in September 2016 for
 
 Littercoin smart contract for Ethereum. Contribute to OpenLitterMap/littercoin-eth development by creating an account on GitHub.
 
-🔗 [GitHub](https://github.com/OpenLitterMap/littercoin-eth) • 16h ago
+🔗 [GitHub](https://github.com/OpenLitterMap/littercoin-eth) • 17h ago
 
 ---
 
@@ -156,7 +156,7 @@ Was digging through early Ethereum contracts and found something wild. In April 
 
 The binary tree proposal is a concrete, in-progress effort, while the VM transition remains more speculative and lacks broad consensus among developers.
 
-The Block • 17h ago
+The Block • 18h ago
 
 ---
 
@@ -168,33 +168,33 @@ Nasdaq • 2d ago
 
 ---
 
-**[Bitcoin, Ethereum ‘pumping hard’ after Iran strikes, but states brace for financial fallout](https://finance.yahoo.com/news/bitcoin-ethereum-pumping-hard-iran-105754078.html)**
+**[Ethereum Price, BitMine Shares Jump as Tom Lee's Treasury Reports Latest Buy](https://finance.yahoo.com/news/ethereum-price-bitmine-shares-jump-153447384.html)**
 
-Bitcoin rises near $67,000 mark, with Ethereum nearing $2,000. Iran has confirmed the death of supreme leader Ayatollah Ali Khamenei. The real price reveal is coming tomorrow, expert says.
+Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
 
-Yahoo Finance • 1d ago
+Yahoo Finance • 27m ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdxRLOJI7l6LMb-e_7sWuqKAwsC6MZNoCwBemybv02jJFIHT9OkloSb&gaa_ts=69a59e41&gaa_sig=_iL5SDMbzRz86x0jUKY8JRQypEr2V2Yb8OzsmdousxhCCap1a3TvsWGIHQPrMzEUQoAb_dDY7S0g0y5oPpHqUg%3D%3D)**
+**[New Crypto Pepeto Announces $7.42M Milestone While Bitcoin, XRP and Ethereum Set Up for Record Breaking Moves](https://markets.businessinsider.com/news/stocks/new-crypto-pepeto-announces-7-42m-milestone-while-bitcoin-xrp-and-ethereum-set-up-for-record-breaking-moves-1035886613)**
+
+Dubai, UAE, March  02, 2026  (GLOBE NEWSWIRE) -- New crypto Pepeto just announced another milestone with $7.42 million raised in presale funding, ...
+
+markets.businessinsider.com • 28m ago
+
+---
+
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqf1ik4tGuyt-JKSQ98p8qT8xgGpIZ2_UXifRr0MREhHryZxoe9vRJMy&gaa_ts=69a5b7f9&gaa_sig=0aqD2QPNoAt6aTXO6-IEDpjj3tD-eQmF3IV1h0ODb437S_ZlE7rmEF0VpDaZKPORU6UPkF26kiRFLZNDcSnopA%3D%3D)**
 
 Barron's • 3d ago
 
 ---
 
-**[Crypto News: New Ethereum Based Crypto Pepeto Announces Presale Passing $7.403M Following Elon Musk Favorite Crypto Dogecoin Success](https://markets.businessinsider.com/news/stocks/crypto-news-new-ethereum-based-crypto-pepeto-announces-presale-passing-7-403m-following-elon-musk-favorite-crypto-dogecoin-success-1035882586)**
+**[Ethereum smart accounts are finally coming ‘within a year’ — Vitalik Buterin](https://www.tradingview.com/news/cointelegraph:4a9ae37dc094b:0-ethereum-smart-accounts-are-finally-coming-within-a-year-vitalik-buterin/)**
 
-Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- New Ethereum Based Crypto Pepeto just broke past $7.403 million in presale funding after the late...
+Ethereum account abstraction, or smart accounts, will be shipped with the Hegota upgrade “within a year,” said Vitalik Buterin on Saturday.“We have been talking about account abstraction ever since early 2016,” said the Ethereum co-founder over the weekend. He added that now, “we finally have EIP-8…
 
-markets.businessinsider.com • 15h ago
-
----
-
-**[Why institutions still prefer Ethereum despite faster blockchains](https://www.tradingview.com/news/cointelegraph:69ebf507b094b:0-why-institutions-still-prefer-ethereum-despite-faster-blockchains/)**
-
-Ethereum continues to host the largest concentration of stablecoins and decentralized finance (DeFi) capital, even as successive waves of faster networks emerge.Newer blockchains have promised higher throughput and lower costs, raising questions about whether institutional capital could eventually…
-
-TradingView • 2d ago
+TradingView • 1d ago
 
 ---
 
@@ -202,15 +202,7 @@ TradingView • 2d ago
 
 The need for blockchains to enable transactions among themselves has become a necessity. In 2026, the cross-chain interoperability protocol (CCIP) is making
 
-FinanceFeeds • 17h ago
-
----
-
-**[Ethereum news: Vitalik Buterin reveals his bold new plan to fix the network’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
-
-The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
-
-CoinDesk • 2d ago
+FinanceFeeds • 18h ago
 
 ---
 
@@ -230,6 +222,14 @@ Decrypt • 2d ago
 
 ---
 
+**[Vitalik Buterin reveals his bold new plan to fix Ethereum’s scaling problem](https://www.coindesk.com/tech/2026/02/27/vitalik-buterin-reveals-his-bold-new-plan-to-fix-ethereum-s-scaling-problem)**
+
+The new post reflects Buterin’s renewed focus on scaling Ethereum’s base layer, after several years in which much of the ecosystem’s scaling strategy centered on layer-2 rollups.
+
+CoinDesk • 2d ago
+
+---
+
 ---
 
 ## YouTube Videos: "ethereum"
@@ -240,7 +240,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 10K • 👍 2K • 💬 37 • ⏱️ 8:18 • 4h ago
+👁️ 10K • 👍 2K • 💬 37 • ⏱️ 8:18 • 5h ago
 
 ---
 
@@ -250,7 +250,7 @@ Well, it looks like someone finally realized that something had to be done or th
 
 📺 The Modern Investor
 
-👁️ 3K • 👍 560 • 💬 74 • ⏱️ 27:48 • 4h ago
+👁️ 3K • 👍 560 • 💬 74 • ⏱️ 27:48 • 5h ago
 
 ---
 
@@ -270,7 +270,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 441 • 👍 55 • 💬 1 • ⏱️ 5:20 • 1h ago
+👁️ 441 • 👍 55 • 💬 1 • ⏱️ 5:20 • 2h ago
 
 ---
 
@@ -280,7 +280,7 @@ I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 181 • 💬 32 • ⏱️ 36:59 • 4h ago
+👁️ 5K • 👍 181 • 💬 32 • ⏱️ 36:59 • 5h ago
 
 ---
 
@@ -290,7 +290,7 @@ ALL TRADING PLATFORMS (CRYPTO/ Gold Token) :- https://india.delta.exchange/?code
 
 📺 Vibe With Sahil
 
-👁️ 4K • 👍 489 • 1h ago
+👁️ 4K • 👍 489 • 2h ago
 
 ---
 
@@ -300,7 +300,7 @@ BITCOIN & CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 7K • 👍 264 • 💬 56 • ⏱️ 15:02 • 15h ago
+👁️ 7K • 👍 264 • 💬 56 • ⏱️ 15:02 • 16h ago
 
 ---
 
@@ -320,7 +320,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 2K • 👍 109 • 💬 3 • ⏱️ 5:32 • 14h ago
+👁️ 2K • 👍 109 • 💬 3 • ⏱️ 5:32 • 15h ago
 
 ---
 
@@ -330,7 +330,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 128 • 👍 10 • 💬 1 • ⏱️ 5:25 • 4h ago
+👁️ 128 • 👍 10 • 💬 1 • ⏱️ 5:25 • 5h ago
 
 ---
 
