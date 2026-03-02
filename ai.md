@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-02T02:11:22.207449+00:00'
+updated: '2026-03-02T04:26:44.142033+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
+- news
 - repositories
 - social
-- news
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 02, 2026 at 02:11 UTC  
+**Last Updated:** March 02, 2026 at 04:26 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -37,11 +37,19 @@ AI news, discussions, and developments
 
 ## Reddit: r/artificial
 
+**[Terrified. I am terrified of society creating a permanent underclass of people and I am afraid I won't be able to do enough before it is to late for my bloodline](https://www.reddit.com/r/artificial/comments/1rihrsi/terrified_i_am_terrified_of_society_creating_a/)**
+
+Does anyone feel the same sense of doom?
+
+1h ago
+
+---
+
 **[OpenAI eyes global domination with $110B Amazon and NVIDIA raise, value hits $840B](https://www.reddit.com/r/artificial/comments/1rhzn14/openai_eyes_global_domination_with_110b_amazon/)**
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 11h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 13h ago
 
 ---
 
@@ -49,7 +57,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyalties to Anthropic's rival Claude chatbot.
 
-🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 15h ago
+🔗 [Business Insider](https://www.businessinsider.com/anthropic-claude-hits-number-one-app-store-openai-chatgpt-2026-2) • 17h ago
 
 ---
 
@@ -57,7 +65,15 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.
 
-🔗 [Claude](https://claude.com/import-memory) • 9h ago
+🔗 [Claude](https://claude.com/import-memory) • 11h ago
+
+---
+
+**[Scientists made AI agents ruder — and they performed better at complex reasoning tasks](https://www.reddit.com/r/artificial/comments/1rij131/scientists_made_ai_agents_ruder_and_they/)**
+
+Are we better off with ai with or without the pleasantries?
+
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 6m ago
 
 ---
 
@@ -65,7 +81,7 @@ Transfer your preferences, projects, and context from other AI providers into Cl
 
 I had been working since GPT very first allowed agents to create gaming agents capable of narrating and dreaming up complex game systems while following a verbal command line with minimal hard code. Something a little more involved than a D&D style emulator. My game is called “BioChomps” a Pokémon-esque turn battler where you collect animal parts and merge them into a stronger and stronger abomination. You complete missions to fulfill the progress of becoming the world’s craziest mad scientist. It features a functional stat system alongside turn-based combat and with abilities narrated by the Ai. There is a Lab-Crawl narrative dungeon crawling option where you take your monster on a narrated journey through a grid dungeon where you encounter all kinds of crazy mad-science hullabaloo. You collect wacky special mutations and animal parts with the risk of being unable to escape the deeper you delve. When I learned of the news and with long-standing dissatisfaction with the quality of GPT’s dreamed up outputs I immediately swapped and deleted my account. Claude was quick on the uptake and with no additional changes to my previous project’s source files and code, it operates the game at a much higher level with fairly minimal breakdown of content. I help it avoid hallucinations using a code system that prints data every generation with updates from the previous generation. The game itself requires a lot of work and I intend to continue, but I wanted to share the first test run of the game outside of the previous network. https://claude.ai/share/1354dcbc-1319-4cf7-afd3-48b61610791a
 
-19h ago
+21h ago
 
 ---
 
@@ -73,21 +89,13 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 AI images are slop. In this article, I explore how to make use of multiple models and their strengths to improve the quality of AI-generated images.
 
-🔗 [therantydev.com](https://www.therantydev.com/the-three-stage-image-gen-pipeline) • 4h ago
-
----
-
-**[I've made an AI that makes realpolitik analyses](https://www.reddit.com/r/artificial/comments/1ri990z/ive_made_an_ai_that_makes_realpolitik_analyses/)**
-
-I've created sombra, an AI that makes analyses of news and gives you a map of: the main agents involved; their goal; what they'll probably do to achieve said goal. The AI is currently a telegram bot called sombra_strategy_bot It works really well, in my opinion. I'm going to post in the comments an analysis it made about the Iran-US situation. My question is: how do I market it? I need users to improve it, but the kind of people that would use this professionally are not easy to get a hold of.
-
-4h ago
+🔗 [therantydev.com](https://www.therantydev.com/the-three-stage-image-gen-pipeline) • 6h ago
 
 ---
 
 **[Anthropic says it will challenge Pentagon's supply chain risk designation in court](https://www.reddit.com/r/artificial/comments/1rgruzv/anthropic_says_it_will_challenge_pentagons_supply/)**
 
-🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 1d ago
+🔗 [reuters.com](https://www.reuters.com/world/us/anthropic-says-it-will-challenge-pentagons-supply-chain-risk-designation-court-2026-02-28/) • 2d ago
 
 ---
 
@@ -107,23 +115,15 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 ---
 
-**[OpenAI strikes deal with Pentagon after Trump orders government to stop using Anthropic](https://www.reddit.com/r/artificial/comments/1rgtjex/openai_strikes_deal_with_pentagon_after_trump/)**
-
-On X, Defense Secretary Pete Hegseth said he had moved to label Anthropic as a "supply chain risk" and cancel Defense business with the company.
-
-🔗 [NBC News](https://www.nbcnews.com/tech/tech-news/trump-bans-anthropic-government-use-rcna261055) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
-**[Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war/)**
+**[US military reportedly used Claude in Iran strikes despite Trump’s ban](https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military)**
 
-Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.
+Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’
 
-OpenAI • 1d ago
+The Guardian • 1h ago
 
 ---
 
@@ -131,7 +131,13 @@ OpenAI • 1d ago
 
 As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
 
-CNBC • 12h ago
+CNBC • 14h ago
+
+---
+
+**[AI May Swell Japan’s Lower-Income Ranks, Party Leader Warns](https://www.bloomberg.com/news/articles/2026-03-02/ai-may-swell-japan-s-lower-income-ranks-party-leader-warns)**
+
+Bloomberg.com • 1h ago
 
 ---
 
@@ -139,37 +145,39 @@ CNBC • 12h ago
 
 At the 184-year-old Cleveland Plain Dealer, a top editor’s push to let AI draft news articles is boosting traffic — and spooking staffers.
 
-The Washington Post • 1h ago
+The Washington Post • 24m ago
 
 ---
 
-**[NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms](http://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms)**
+**[Investors beware: These stocks are the most at risk from AI disruption](https://www.cnbc.com/2026/03/01/investors-beware-these-stocks-are-the-most-at-risk-from-ai-disruption.html)**
 
-NVIDIA today announced a commitment — together with Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank Corp. and T-Mobile — to build the world’s next generation of wireless networks on AI-native, open, secure and trustworthy platforms.
+Jefferies found a basket of "AI risk" stocks, ranging from MongoDB to Robinhood, that could be under threat as the technology develops.
 
-NVIDIA Newsroom • 19h ago
-
----
-
-**[The week the AI scare turned real and America realized maybe it isn't ready for what's coming](https://fortune.com/2026/02/28/ai-scare-trade-mass-layoffs-white-collar-recession-citrini-shumer-viral-doomsday-essays/)**
-
-From the "Ghost GDP" to mass layoffs at tech companies, this was the week AI's new collar economy took full effect.
-
-Fortune • 1d ago
+CNBC • 15h ago
 
 ---
 
-**[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
+**[AI-resistant ‘halo’ stocks drive UK and EU markets to record highs](https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs)**
 
-Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
+Investors are shifting toward physical assets that are partially insulated from disruption, says Goldman Sachs
 
-Financial Times • 22h ago
+The Guardian • 15h ago
 
 ---
 
-**[Vermont has few guardrails to restrict how lawyers use AI](https://vtdigger.org/2026/03/01/vermont-has-few-guardrails-to-restrict-how-lawyers-use-ai/)**
+**[The week when AI changed everything](https://www.cnn.com/2026/02/28/business/ai-week-anthropic-nvidia-block)**
 
-VTDigger • 14h ago
+Tech made waves in the news and markets this week, from announcing mass layoffs to reigniting disruption fears that startled investors.
+
+CNN • 1d ago
+
+---
+
+**[NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation](https://blogs.nvidia.com/blog/software-defined-ai-ran/)**
+
+Live field trials, new performance benchmarks, growing operator adoption and partner innovations built on NVIDIA platforms underscore the shift to AI-native 5G and 6G networks.
+
+NVIDIA Blog • 21h ago
 
 ---
 
@@ -177,21 +185,15 @@ VTDigger • 14h ago
 
 Scientists at Rice University have produced the first full, dye-free molecular atlas of an Alzheimer’s brain. By combining laser-based imaging with machine learning, they uncovered chemical changes that spread unevenly across the brain and extend beyond amyloid plaques. Key memory regions showed major shifts in cholesterol and energy-related molecules. The findings hint that Alzheimer’s is a whole-brain metabolic disruption—not just a protein problem.
 
-ScienceDaily • 10h ago
+ScienceDaily • 13h ago
 
 ---
 
-**[Rebuilding faces and identifying tattoos, AI joins the search for the missing in Mexico](https://www.cnn.com/2026/03/01/world/ai-mexico-missing-people-cec)**
+**[Survivor’s guilt, overwork and AI: inside Amazon’s mass lay-offs](https://www.ft.com/content/433f41f2-bf6d-4bdf-a561-50ab516bc62d)**
 
-For some years now, groups, universities, organizations and authorities have developed and implemented AI for data analysis, tattoo identification, facial recognition and to give a voice to the missing.
+Drive for ‘leaner’ operations piles pressure on employees but could be a playbook for rivals
 
-CNN • 11h ago
-
----
-
-**[Exclusive: Australia says it may go after app stores, search engines in AI age crackdown](https://www.reuters.com/business/media-telecom/australia-says-it-may-go-after-app-stores-search-engines-ai-age-crackdown-2026-03-01/)**
-
-Reuters • 5h ago
+Financial Times • 1d ago
 
 ---
 
@@ -199,11 +201,11 @@ Reuters • 5h ago
 
 ## HackerNews: "ai"
 
-**[I built a demo of what AI chat will look like when it's "free" and ad-supported](https://news.ycombinator.com/item?id=47205890)**
+**[I built a demo of what AI chat will look like when it's “free” and ad-supported](https://news.ycombinator.com/item?id=47205890)**
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 472 • 💬 267 • 14h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 497 • 💬 274 • 16h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -211,7 +213,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 374 • 💬 288 • 12h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 380 • 💬 296 • 14h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -219,7 +221,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 332 • 💬 189 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 332 • 💬 191 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -233,25 +235,25 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 **[10-202: Introduction to Modern AI (CMU)](https://news.ycombinator.com/item?id=47204559)**
 
-⬆️ 227 • 💬 52 • 18h ago • [modernaicourse.org](https://modernaicourse.org)
+⬆️ 236 • 💬 53 • 20h ago • [modernaicourse.org](https://modernaicourse.org)
 
 ---
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 146 • 💬 285 • 12h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
-
----
-
-**[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
-
-⬆️ 146 • 💬 45 • 1d ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
+⬆️ 154 • 💬 302 • 14h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 145 • 💬 110 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 146 • 💬 110 • 1d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+
+---
+
+**[OpenAI reaches deal to deploy AI models on U.S. DoW classified network](https://news.ycombinator.com/item?id=47189853)**
+
+⬆️ 146 • 💬 45 • 2d ago • [reuters.com](https://www.reuters.com/business/openai-reaches-deal-deploy-ai-models-us-department-war-classified-network-2026-02-28/)
 
 ---
 
@@ -273,33 +275,33 @@ Aiming for a 10 year life-cycle for smartphones
 
 ## YouTube Videos: "ai"
 
+**[The Thing About AI No One is Talking About](https://www.youtube.com/watch?v=L2eJSTKWCCI)**
+
+Main Channel @JackMorgan_RLP Buy a Caddy Daddy T-Shirt: https://jackmorganrlp.sellfy.store/ Exclusive Content on ...
+
+📺 Jack Morgan RLP 2.0
+
+👁️ 16K • 👍 714 • 💬 321 • ⏱️ 27:35 • 6h ago
+
+---
+
 **[2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=ksfv6ofykmQ)**
 
 Try Nano Banana 2 on Higgsfield ...
 
 📺 Malva AI
 
-👁️ 10K • 👍 395 • 💬 71 • ⏱️ 8:38 • 1d ago
+👁️ 10K • 👍 413 • 💬 71 • ⏱️ 8:38 • 1d ago
 
 ---
 
-**[Is AI Hiding Its Full Power? With Geoffrey Hinton](https://www.youtube.com/watch?v=l6ZcFa8pybE)**
+**[Cute Fruit Babies Eating Fruit | Oddly Satisfying AI](https://www.youtube.com/watch?v=VocL_BQ_mEs)**
 
-Go to https://ground.news/startalk to stay fully informed on the latest Space and Science news. Save 40% off through our link for ...
+OddlySatisfying #SatisfyingAI #CuteAI Enjoy this adorable and oddly satisfying AI compilation featuring anthropomorphic fruit ...
 
-📺 StarTalk
+📺 Rapoh
 
-👁️ 376K • 👍 12K • 💬 2K • ⏱️ 1:33:33 • 1d ago
-
----
-
-**[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
-
-AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
-
-📺 CNBC
-
-👁️ 70K • 👍 2K • 💬 261 • ⏱️ 39:40 • 1d ago
+👁️ 48K • 👍 126 • 💬 9 • ⏱️ 1:29 • 2d ago
 
 ---
 
@@ -309,7 +311,7 @@ Artificial intelligence is now part of the battlefield. During the strike on Ira
 
 📺 Firstpost
 
-👁️ 184K • 👍 2K • 💬 230 • ⏱️ 6:11 • 9h ago
+👁️ 221K • 👍 3K • 💬 269 • ⏱️ 6:11 • 11h ago
 
 ---
 
@@ -319,7 +321,37 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 233K • 👍 9K • 💬 867 • ⏱️ 15:25 • 2d ago
+👁️ 236K • 👍 9K • 💬 871 • ⏱️ 15:25 • 2d ago
+
+---
+
+**[Every AI Model Explained](https://www.youtube.com/watch?v=DsKZpgoy830)**
+
+Download Comet for FREE https://www.perplexity.ai/comet I explain every type of AI model. Yay! Want to get ahead in your ...
+
+📺 Tina Huang
+
+👁️ 37K • 👍 2K • 💬 124 • ⏱️ 19:01 • 2d ago
+
+---
+
+**[Is AI Hiding Its Full Power? With Geoffrey Hinton](https://www.youtube.com/watch?v=l6ZcFa8pybE)**
+
+Go to https://ground.news/startalk to stay fully informed on the latest Space and Science news. Save 40% off through our link for ...
+
+📺 StarTalk
+
+👁️ 411K • 👍 13K • 💬 2K • ⏱️ 1:33:33 • 1d ago
+
+---
+
+**[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
+
+AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
+
+📺 CNBC
+
+👁️ 73K • 👍 2K • 💬 265 • ⏱️ 39:40 • 1d ago
 
 ---
 
@@ -329,7 +361,7 @@ Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: http
 
 📺 Farzad
 
-👁️ 18K • 👍 979 • 💬 189 • ⏱️ 20:52 • 13h ago
+👁️ 19K • 👍 1K • 💬 199 • ⏱️ 20:52 • 15h ago
 
 ---
 
@@ -339,37 +371,7 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 190K • 👍 11K • 💬 2K • ⏱️ 14:41 • 1d ago
-
----
-
-**[Robots Can Do This Now… Are We Cooked? 🤖 #ai #china #usa #robot #viral #shorts](https://www.youtube.com/watch?v=MGfo3_CFK7Y)**
-
-Chinese robotics company Unitree is showcasing the growing capabilities of humanoid robots, with CEO Wang Xingxing ...
-
-📺 English ASMR USA
-
-👁️ 467 • 💬 1 • ⏱️ 0:24 • 40m ago
-
----
-
-**[Morgan Freeman on AI trying to replicate his voice: &quot;I&#39;ve got lawyers&quot;](https://www.youtube.com/watch?v=6pTNs292keg)**
-
-Legendary actor Morgan Freeman, who has starred in more than 100 movies in his six-decade career, joins "CBS Mornings" to ...
-
-📺 CBS Mornings
-
-👁️ 275K • 👍 2K • 💬 391 • ⏱️ 6:34 • 2d ago
-
----
-
-**[The Thing About AI No One is Talking About](https://www.youtube.com/watch?v=L2eJSTKWCCI)**
-
-Main Channel @JackMorgan_RLP Buy a Caddy Daddy T-Shirt: https://jackmorganrlp.sellfy.store/ Exclusive Content on ...
-
-📺 Jack Morgan RLP 2.0
-
-👁️ 12K • 👍 613 • 💬 295 • ⏱️ 27:35 • 4h ago
+👁️ 197K • 👍 11K • 💬 2K • ⏱️ 14:41 • 1d ago
 
 ---
 
@@ -385,7 +387,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 481,446 • ❤️ 752 • 2d ago
+⬇️ 481,446 • ❤️ 754 • 2d ago
 
 ---
 
@@ -397,7 +399,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 217,725 • ❤️ 480 • 4d ago
+⬇️ 217,725 • ❤️ 483 • 5d ago
 
 ---
 
@@ -421,7 +423,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 127,141 • ❤️ 359 • 5d ago
+⬇️ 127,141 • ❤️ 361 • 41m ago
 
 ---
 
@@ -433,7 +435,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,030,009 • ❤️ 1,152 • 6d ago
+⬇️ 1,030,009 • ❤️ 1,153 • 6d ago
 
 ---
 
@@ -457,7 +459,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 193,972 • ❤️ 1,665 • 16d ago
+⬇️ 193,972 • ❤️ 1,666 • 16d ago
 
 ---
 
@@ -469,7 +471,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 10,611 • ❤️ 220 • 1d ago
+⬇️ 10,611 • ❤️ 222 • 1d ago
 
 ---
 
@@ -493,7 +495,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 313,330 • ❤️ 1,052 • 13d ago
+⬇️ 313,330 • ❤️ 1,053 • 13d ago
 
 ---
 
@@ -507,7 +509,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled, and synthetic data outperform multilingual models for small model sizes, achieving superior error rates and enabling on-device ASR for underrepresented languages.
 
-▲ 16 • 💬 1 • ⭐ 6,437 • 6mo ago
+▲ 17 • 💬 1 • ⭐ 6,523 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2509.02523) • [💻 code](https://github.com/moonshine-ai/moonshine)
 
@@ -537,28 +539,13 @@ AutoDev is an AI-driven software development framework that automates complex en
 
 ---
 
-**[SmolDocling: An ultra-compact vision-language model for end-to-end
-  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
-
-*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
-
-🏢 IBM Granite
-
-SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
-
-▲ 149 • 💬 19 • ⭐ 54,501 • 11mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
 **[Mobile-Agent-v3: Foundamental Agents for GUI Automation](https://huggingface.co/papers/2508.15144)**
 
 *Jiabo Ye, Xi Zhang, Haiyang Xu et al. (15 authors)*
 
 GUI-Owl and Mobile-Agent-v3 are open-source GUI agent models and frameworks that achieve state-of-the-art performance across various benchmarks using innovations in environment infrastructure, agent capabilities, and scalable reinforcement learning.
 
-▲ 65 • 💬 3 • ⭐ 7,654 • 6mo ago
+▲ 65 • 💬 3 • ⭐ 7,741 • 6mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2508.15144) • [💻 code](https://github.com/X-PLUG/MobileAgent) • [🔗 project](https://github.com/X-PLUG/MobileAgent)
 
@@ -578,6 +565,21 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 ---
 
+**[SmolDocling: An ultra-compact vision-language model for end-to-end
+  multi-modal document conversion](https://huggingface.co/papers/2503.11576)**
+
+*Ahmed Nassar, Andres Marafioti, Matteo Omenetti et al. (13 authors)*
+
+🏢 IBM Granite
+
+SmolDocling is a compact vision-language model that performs end-to-end document conversion with robust performance across various document types using 256M parameters and a new markup format.
+
+▲ 149 • 💬 19 • ⭐ 54,526 • 11mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+
+---
+
 **[Efficient Memory Management for Large Language Model Serving with
   PagedAttention](https://huggingface.co/papers/2309.06180)**
 
@@ -585,7 +587,7 @@ _paperbanana is an agentic framework that automates the creation of publication-
 
 PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
 
-▲ 38 • 💬 1 • ⭐ 71,570 • 30mo ago
+▲ 38 • 💬 1 • ⭐ 71,593 • 30mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
@@ -623,7 +625,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 69 • 💬 2 • ⭐ 8,823 • 1mo ago
+▲ 69 • 💬 2 • ⭐ 8,838 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -639,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 21.7k • 🔱 2.7k • 6m ago
+⭐ 21.8k • 🔱 2.7k • 13m ago
 
 ---
 
@@ -649,7 +651,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Python`
 
-⭐ 6.0k • 🔱 728 • 1d ago
+⭐ 6.0k • 🔱 728 • 2d ago
 
 ---
 
@@ -659,27 +661,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.1k • 🔱 462 • 59m ago
-
----
-
-**[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)**
-
-The agent-native LLM router empowering OpenClaw — by BlockRunAI
-
-`TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
-
-⭐ 3.8k • 🔱 365 • 7h ago
-
----
-
-**[memovai/mimiclaw](https://github.com/memovai/mimiclaw)**
-
-MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw.
-
-`C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
-
-⭐ 3.6k • 🔱 485 • 19h ago
+⭐ 4.1k • 🔱 465 • 3h ago
 
 ---
 
@@ -689,7 +671,27 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 3.5k • 🔱 345 • 1d ago
+⭐ 3.8k • 🔱 375 • 18m ago
+
+---
+
+**[BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter)**
+
+The agent-native LLM router empowering OpenClaw — by BlockRunAI
+
+`TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
+
+⭐ 3.8k • 🔱 365 • 30m ago
+
+---
+
+**[memovai/mimiclaw](https://github.com/memovai/mimiclaw)**
+
+MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS.😗Local-first memory. Shareable. Portable. Privacy-first. Smarter than PicoClaw.
+
+`C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
+
+⭐ 3.6k • 🔱 486 • 21h ago
 
 ---
 
@@ -699,17 +701,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.5k • 🔱 278 • 1d ago
-
----
-
-**[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)**
-
-Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
-
-`Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
-
-⭐ 3.1k • 🔱 220 • 46m ago
+⭐ 3.5k • 🔱 284 • 1d ago
 
 ---
 
@@ -719,7 +711,17 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 331 • 11h ago
+⭐ 3.1k • 🔱 335 • 22m ago
+
+---
+
+**[PeonPing/peon-ping](https://github.com/PeonPing/peon-ping)**
+
+Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
+
+`Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
+
+⭐ 3.1k • 🔱 220 • 1h ago
 
 ---
 
@@ -729,7 +731,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 575 • 1d ago
+⭐ 3.0k • 🔱 577 • 1d ago
 
 ---
 

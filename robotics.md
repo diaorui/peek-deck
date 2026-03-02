@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T02:11:22.225127+00:00'
+updated: '2026-03-02T04:26:44.159986+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 02:11 UTC  
+**Last Updated:** March 02, 2026 at 04:26 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,7 +36,7 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-15h ago
+17h ago
 
 ---
 
@@ -44,27 +44,19 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-5h ago
+7h ago
 
 ---
 
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-7h ago
+9h ago
 
 ---
 
 **[Wall-E Is ... REAL?](https://www.reddit.com/r/robotics/comments/1rh7l5p/walle_is_real/)**
 
 1d ago
-
----
-
-**[Masters program recommendations?](https://www.reddit.com/r/robotics/comments/1riegtc/masters_program_recommendations/)**
-
-Hi everyone, CS major here with a year of experience as a web dev in industry. I want to do a masters in Robotics and then go for a phd in either CS or robotics. I have more than a year of research experience in a robotics lab working with computer vision, slam and ros2, I still contributed during my year working. I will have at least 1 strong letter of recommendation from my lab professor. However, I only have a 3.4 gpa, so I’m not that competitive for good programs. What are some good schools with good robotics programs that I could aim for?
-
-1h ago
 
 ---
 
@@ -78,7 +70,7 @@ Hi everyone, CS major here with a year of experience as a web dev in industry. I
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 12h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 14h ago
 
 ---
 
@@ -86,13 +78,19 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 8h ago
+🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 10h ago
 
 ---
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-10h ago
+12h ago
+
+---
+
+**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
+
+1d ago
 
 ---
 
@@ -108,31 +106,15 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 ## Google News: "robotics"
 
-**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
+**[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
 
-In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
+Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 1d ago
-
----
-
-**[BMW to put humanoid robots on production line at German plant](https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312)**
-
-Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costs
-
-Financial Times • 2d ago
+CNBC • 14h ago
 
 ---
 
-**[Humanoid Robots Dance at Seoul AI Festival](https://www.chosun.com/english/video-en/2026/03/02/D23S2BJIEZHFNLPMO5KFRZJNF4/)**
-
-Humanoid Robots Dance at Seoul AI Festival The Picture Children interact with AI machines as Seoul Mayor Oh Se-hoon emphasizes technologys role in daily life
-
-조선일보 • 1h ago
-
----
-
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfxbzCTYcXnAph1RVPGpWjal_-GF0bcCJSfxqxqQr5zEN7fdZ5GDoow&gaa_ts=69a4f537&gaa_sig=2_G6BzPGsGjHDiuX-2AvYqIunMrqN9nZarc18uUDDp84g5yaWIAbtr466mdqKenQTxOX8HB8aU3lvv-YhyODPw%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdU9EdJ4FA2DmHpRq5kJQo93bgh7FE_mJKUMY9ZXVU8qGD3kTdDOv_l&gaa_ts=69a514f1&gaa_sig=zevvJcE29vHnLd27ohYbvawSQ39osrQA8ETBurYFBnIZibpw2-hhXuJ9CxuWuiEr3Lyd9VwoghQM_4J7fMgVZw%3D%3D)**
 
 WSJ • 2d ago
 
@@ -168,9 +150,19 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+**[BMW to put humanoid robots on production line at German plant](https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312)**
 
-Bloomberg.com • 2d ago
+Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costs
+
+Financial Times • 2d ago
+
+---
+
+**[Faraday Future Founder and Co-CEO YT Jia Shares Weekly Investor Update: Announces First Batch of EAI Robotics Deliveries During Ceremony on Feb. 27, Marks First U.S. "EAI Robot & Vehicle + Vacation Rental" Deployment](https://finance.yahoo.com/news/faraday-future-founder-co-ceo-015200596.html)**
+
+LOS ANGELES, March 02, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) ("Faraday Future", "FF" or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global Co-CEO of FF.
+
+Yahoo Finance • 2h ago
 
 ---
 
@@ -178,7 +170,13 @@ Bloomberg.com • 2d ago
 
 The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
 
-Pittsburgh Post-Gazette • 3h ago
+Pittsburgh Post-Gazette • 1h ago
+
+---
+
+**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+
+Bloomberg.com • 3d ago
 
 ---
 
@@ -192,7 +190,17 @@ Try Brilliant for Free: https://brilliant.org/Tazer/ and get 20% off an annual p
 
 📺 Tazer
 
-👁️ 115K • 👍 7K • 💬 295 • ⏱️ 21:58 • 1d ago
+👁️ 129K • 👍 7K • 💬 312 • ⏱️ 21:58 • 1d ago
+
+---
+
+**[China Unveiled Its First Army of Humanoid Police Robots](https://www.youtube.com/watch?v=_liJnDf8a7k)**
+
+Subscribe for more: https://www.youtube.com/@carrosshow9598 Other video's: These $100 Korean AI Drones Can Make You Fly: ...
+
+📺 Carros Show
+
+👁️ 57K • 👍 1K • 💬 122 • ⏱️ 9:36 • 4d ago
 
 ---
 
@@ -202,7 +210,17 @@ Fauna Robotics is introducing Sprout, a humanoid robot designed as a friendly co
 
 📺 NBC News
 
-👁️ 101K • 👍 1K • 💬 379 • ⏱️ 12:16 • 3d ago
+👁️ 106K • 👍 1K • 💬 383 • ⏱️ 12:16 • 3d ago
+
+---
+
+**[China Stuns Merz With AI Robots Dancing And Fighting - Watch Viral Video!](https://www.youtube.com/watch?v=jhKkS9l5Ncg)**
+
+China delivered a jaw-dropping tech showcase during the visit of German Chancellor Friedrich Merz in Hangzhou, unveiling ...
+
+📺 NewsX Live
+
+👁️ 67K • 👍 315 • 💬 122 • ⏱️ 2:18 • 3d ago
 
 ---
 
@@ -216,23 +234,23 @@ China's humanoid robots have officially learned to fight, and the latest demonst
 
 ---
 
-**[HONOR Humanoid Robot Stuns Mobile World Congress 2026 With Real Backflips](https://www.youtube.com/watch?v=NoshXGHxgVo)**
-
-HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Barcelona, and the live demonstration shocked ...
-
-📺 DPCcars
-
-👁️ 1K • 👍 27 • 💬 2 • ⏱️ 4:41 • 9h ago
-
----
-
 **[Robots welcome German chancellor on second day of China visit](https://www.youtube.com/watch?v=jLUUxVg53vE)**
 
 Dancing, boxing and flexing — these were some of the skills displayed by robots in Hangzhou, China, for German Chancellor ...
 
 📺 Reuters
 
-👁️ 334K • 👍 2K • 💬 856 • ⏱️ 0:55 • 3d ago
+👁️ 339K • 👍 2K • 💬 868 • ⏱️ 0:55 • 3d ago
+
+---
+
+**[HONOR Humanoid Robot Stuns Mobile World Congress 2026 With Real Backflips](https://www.youtube.com/watch?v=NoshXGHxgVo)**
+
+HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Barcelona, and the live demonstration shocked ...
+
+📺 DPCcars
+
+👁️ 1K • 👍 31 • 💬 3 • ⏱️ 4:41 • 11h ago
 
 ---
 
@@ -242,7 +260,7 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 📺 Dumb Money Live
 
-👁️ 14K • 👍 389 • 💬 134 • ⏱️ 13:15 • 2d ago
+👁️ 14K • 👍 392 • 💬 136 • ⏱️ 13:15 • 2d ago
 
 ---
 
@@ -254,33 +272,13 @@ Tesla just shut down Model S and X lines to pivot toward Optimus production — 
 
 ---
 
-**[HONOR Robot Steals the Show 🤖](https://www.youtube.com/watch?v=gkZ4qErwy24)**
+**[China&#39;s Kung-Fu Terminator Robot That Shocked the Internet | Unitree G1 Bot!](https://www.youtube.com/watch?v=4R4PsFivZGM)**
 
-HONOR Robot Phone Steals the Show #HONOR #MWC2026 #FutureTech One of the most surprising highlights from the ...
+China's Unitree G1 humanoid robot is going viral after performing real kung-fu style combat moves that stunned viewers ...
 
-📺 Dariusz Tech
+📺 OXIDER
 
-👁️ 5K • 👍 252 • 💬 17 • ⏱️ 1:17 • 12h ago
-
----
-
-**[San Francisco startup pitches Trump admin on arming robots for U.S. military](https://www.youtube.com/watch?v=GU9t1v_SpZw)**
-
-A San Francisco-based robotics company says the Trump administration has expressed interest in deploying its high-tech robots ...
-
-📺 NBC Bay Area
-
-👁️ 135K • 👍 3K • 💬 1K • ⏱️ 7:18 • 5d ago
-
----
-
-**[This Humanoid Robot Shocked Everyone](https://www.youtube.com/watch?v=FPW_8vPEn3Y)**
-
-Is it a machine... or a person in a suit? This humanoid robot is moving so naturally that millions are convinced it's a fake.
-
-📺 SciVion
-
-👁️ 36K • 👍 718 • 💬 16 • ⏱️ 0:35 • 2d ago
+👁️ 52K • 👍 705 • 💬 263 • ⏱️ 2:05 • 6d ago
 
 ---
 
