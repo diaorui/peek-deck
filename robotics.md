@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T07:00:21.321396+00:00'
+updated: '2026-03-02T07:52:56.887309+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - videos
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 07:00 UTC  
+**Last Updated:** March 02, 2026 at 07:52 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-20h ago
+21h ago
 
 ---
 
 **[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
 
-1h ago
+2h ago
 
 ---
 
@@ -50,13 +50,13 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
 
-1h ago
+2h ago
 
 ---
 
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-12h ago
+13h ago
 
 ---
 
@@ -64,7 +64,7 @@ Does anyone has used the visio? I'm currently building a drone that does not use
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-10h ago
+11h ago
 
 ---
 
@@ -84,7 +84,7 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 16h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 17h ago
 
 ---
 
@@ -92,13 +92,13 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 13h ago
+🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 14h ago
 
 ---
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -118,7 +118,7 @@ BMW Group • 2d ago
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 16h ago
+CNBC • 17h ago
 
 ---
 
@@ -158,7 +158,7 @@ SFist • 2d ago
 
 The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
 
-Pittsburgh Post-Gazette • 46m ago
+Pittsburgh Post-Gazette • 1h ago
 
 ---
 
@@ -240,7 +240,7 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 2K • 👍 38 • 💬 5 • ⏱️ 4:41 • 14h ago
+👁️ 2K • 👍 38 • 💬 5 • ⏱️ 4:41 • 15h ago
 
 ---
 

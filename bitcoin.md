@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T07:00:21.313180+00:00'
+updated: '2026-03-02T07:52:56.877947+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - videos
+- cryptocurrency
 - news
+- social
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 07:00 UTC  
+**Last Updated:** March 02, 2026 at 07:52 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,13 +81,13 @@ Rank #1
 
 It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
 
-5h ago
+6h ago
 
 ---
 
 **[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -101,7 +101,7 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 Hit .70 btc….Endless schloggggg to 1.
 
-10h ago
+11h ago
 
 ---
 
@@ -117,7 +117,7 @@ I'm pretty new to Crypto and honestly I always get lost in the sauce when it com
 
 Feels like that's what's happening right now.
 
-9h ago
+10h ago
 
 ---
 
@@ -125,7 +125,7 @@ Feels like that's what's happening right now.
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-15h ago
+16h ago
 
 ---
 
@@ -133,7 +133,7 @@ I often see people criticizing Bitcoin, and many times, these are people who wer
 
 I kept running into the same problem where someone in my life would ask me about Bitcoin, and I'd have nowhere good to send them. Everything I found was either too technical ("here's how SHA-256 works"), too salesy ("buy now before it's too late"), or just a wall of text that a normal person would close after 30 seconds. I'm personally passionate about Bitcoin and believe that broader adoption is a genuinely good thing for the world. That's what motivated me to build this. My goal is to make it easier for normal people to understand what Bitcoin actually is and why it matters. So I built my own intro page. It's an interactive walkthrough that tries to explain why Bitcoin exists before getting into how it works. A few things it does differently: Starts with inflation, not blockchain. Most people don't care about the technology until they understand the problem it solves. Shows the 21 million cap as a counter instead of just stating it. You watch the number lock at 21,000,000 and it clicks differently than reading it in a paragraph. Has a network visualization where you can click to remove nodes and watch the network route around them. Makes decentralization intuitive instead of abstract. Compares Bitcoin to traditional assets in a side-by-side table. Compares international payments with multiple intermediaries to Bitcoin peer-to-peer. I built this because I think Bitcoin's biggest barrier isn't complexity. It's that most explanations are written for people who already get it. This one is written for your skeptical friend, your curious parent, or someone who keeps hearing about it but doesn't know where to start. Here it is: https://21vox.com/intro-to-bitcoin I'm sharing this because this community knows Bitcoin better than anyone, and I'd rather get torn apart here and make it better. What did I get wrong? What's missing? What would make this more useful as something you'd actually send to someone? Thanks in advance.
 
-6h ago
+7h ago
 
 ---
 
@@ -141,7 +141,7 @@ I kept running into the same problem where someone in my life would ask me about
 
 Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
 
-12h ago
+13h ago
 
 ---
 
@@ -149,7 +149,7 @@ Is it time to buy Bitcoin? Share some advice and suggest promising assets simila
 
 Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
 
-53m ago
+1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 At the iConnections conference in Miami this week, allocators signaled digital assets are now a core sleeve in alternatives.
 
-CoinDesk • 13h ago
+CoinDesk • 14h ago
 
 ---
 
@@ -175,7 +175,7 @@ Barron's • 2d ago
 
 Solana led major tokens with a 10.8% bounce, while ether reclaimed $2,000 and bitcoin climbed back above $66,800 ahead of traditional futures opens on Sunday.
 
-CoinDesk • 23h ago
+CoinDesk • 1d ago
 
 ---
 
@@ -191,7 +191,7 @@ The Motley Fool • 1d ago
 
 Think Bitcoin could more than double this year? Don't bet on it.
 
-Yahoo Finance • 3h ago
+Yahoo Finance • 4h ago
 
 ---
 
@@ -227,7 +227,7 @@ Polymarket • 1d ago
 
 **[Bitcoin price today: slips to $66k as Middle East conflict sparks risk-off wave](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-to-66k-as-middle-east-conflict-sparks-riskoff-wave-4533596)**
 
-Investing.com • 4h ago
+Investing.com • 5h ago
 
 ---
 
@@ -253,7 +253,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 One critic replied simply "go away."
 
-⬆️ 4 • 💬 0 • 19h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 4 • 💬 0 • 20h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 1 • 💬 1 • 8h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 1 • 💬 1 • 9h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -317,7 +317,7 @@ War headlines are crushing markets and Bitcoin just dropped fast. But while ever
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 140 • ⏱️ 18:43 • 6h ago
+👁️ 21K • 👍 2K • 💬 140 • ⏱️ 18:43 • 7h ago
 
 ---
 
@@ -337,7 +337,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 745 • 💬 75 • ⏱️ 9:16 • 4h ago
+👁️ 9K • 👍 745 • 💬 75 • ⏱️ 9:16 • 5h ago
 
 ---
 
@@ -367,7 +367,7 @@ Click to join my group for MSTR, BTC investors https://www.skool.com/mstr/ Email
 
 📺 Ryan Hogue Investing
 
-👁️ 2K • 👍 160 • 💬 26 • ⏱️ 27:53 • 5h ago
+👁️ 2K • 👍 160 • 💬 26 • ⏱️ 27:53 • 6h ago
 
 ---
 
@@ -377,7 +377,7 @@ Bitcoin didn't top because of “manipulation.” But that doesn't mean manipula
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 194 • 💬 18 • ⏱️ 21:22 • 14h ago
+👁️ 5K • 👍 194 • 💬 18 • ⏱️ 21:22 • 15h ago
 
 ---
 
@@ -405,7 +405,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 382 • 💬 5 • ⏱️ 1:00 • 4h ago
+👁️ 8K • 👍 382 • 💬 5 • ⏱️ 1:00 • 5h ago
 
 ---
 
