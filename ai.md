@@ -3,14 +3,14 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-02T22:55:47.999746+00:00'
+updated: '2026-03-02T23:29:03.335961+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
 - news
+- repositories
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 AI news, discussions, and developments
 
-**Last Updated:** March 02, 2026 at 22:55 UTC  
+**Last Updated:** March 02, 2026 at 23:29 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,23 +41,23 @@ AI news, discussions, and developments
 
 Are we better off with ai with or without the pleasantries?
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 18h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 19h ago
 
 ---
 
-**[AI - Reverse Robin Hood](https://www.reddit.com/r/artificial/comments/1rj0d13/ai_reverse_robin_hood/)**
+**[How OpenAI caved to the Pentagon on AI surveillance](https://www.reddit.com/r/artificial/comments/1rj8u3t/how_openai_caved_to_the_pentagon_on_ai/)**
 
-I had some time and decided to write a short essay about some aspects that I do not see frequently. I would like to get your opinion on it: Modern artificial intelligence (AI) systems are gaining traction in companies. They are used as simple chatbots and for specific, well-defined tasks, but increasingly also as agents enriched with skills that allow them to act autonomously. However, unchecked AI in companies could become the largest intellectual property theft in history. This risk arises from uninformed employees, an overreliance on contracts instead of technical limitations, and the growing autonomy of AI systems. When AI is introduced in companies, employees often upload intellectual property without considering the consequences. This can be as simple as a spreadsheet containing a business plan or as critical as a patent application or sensitive private data. The extraordinary capabilities of AI, combined with pressure to increase efficiency, make it very tempting to use even highly confidential information. Companies are usually aware of these risks and often rely on contracts rather than technical safeguards to mitigate them. This blind trust in contracts can be dangerous. In the past, many companies have failed to respect contractual obligations and used collected data for their own gain. The Facebook–Cambridge Analytica data scandal is one well-known example. Additionally, data breaches are increasing every year, and AI companies have a strong incentive to acquire new training data. As the technology evolves, AI systems will become even more autonomous. Many AI agents already have access to entire codebases or complete knowledge repositories in order to provide better answers. The next step is that these agents will not only analyze information but also act independently. Tools such as OpenClaw demonstrate how powerful such systems can be, but when used incorrectly and without technical limitations, they can expose a company’s crown jewels to third parties. In conclusion, while the advantages of AI are significant and can deliver major efficiency gains, companies must use these systems carefully. Since employees are likely to upload sensitive information, organizations should prioritize strong technical limitations rather than relying solely on contractual agreements. This is especially important as more advanced agent-based systems are introduced. Companies must ensure that “reverse Robin Hood” does not steal their most valuable secrets.
+The law doesn’t say what Sam Altman claims it does.
 
-4h ago
+🔗 [The Verge](https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth) • 5m ago
 
 ---
 
-**[Why World Models Are Advancing Faster Than Enterprise AI Adoption](https://www.reddit.com/r/artificial/comments/1riqs79/why_world_models_are_advancing_faster_than/)**
+**[I asked Claude to tell its own story as an interactive experience with generative music](https://www.reddit.com/r/artificial/comments/1rj4ick/i_asked_claude_to_tell_its_own_story_as_an/)**
 
-World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
+An interactive cinematic experience. Seven scenes. Generative music. One story. Turn your sound on.
 
-🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 11h ago
+🔗 [claude-a-story-in-light.vercel.app](https://claude-a-story-in-light.vercel.app) • 2h ago
 
 ---
 
@@ -69,19 +69,27 @@ Dashboard for near real-time GPU and LLM pricing across cloud and inference prov
 
 ---
 
-**[Two free browser games I built for teaching critical AI literacy (no signup, works on any device)](https://www.reddit.com/r/artificial/comments/1rj6e78/two_free_browser_games_i_built_for_teaching/)**
+**[AI - Reverse Robin Hood](https://www.reddit.com/r/artificial/comments/1rj0d13/ai_reverse_robin_hood/)**
 
-I’m a professor of creative pedagogies and I build small games that teach AI literacy through play rather than lectures. Two are live and free: Bot or Not — ten rounds where students try to distinguish human writing from AI-generated text. Most score worse than they expect, which is the starting point for a real conversation about what AI text actually looks like. Takes 5 minutes. Works well as a class starter. https://samillingworth.itch.io/bot-or-not Dead Reference — students are shown academic citations and have to identify which are real and which were fabricated by an AI. It teaches citation verification as a practical skill rather than a rule to follow. Every fabricated reference looks plausible. That’s the lesson. https://samillingworth.itch.io/dead-reference Both are browser-based, no accounts, no data collection. Built them for my own students and curriculum but they work in any context where you want students to think critically about AI output rather than just be told to. Happy to answer questions about how I use them in sessions.
+I had some time and decided to write a short essay about some aspects that I do not see frequently. I would like to get your opinion on it: Modern artificial intelligence (AI) systems are gaining traction in companies. They are used as simple chatbots and for specific, well-defined tasks, but increasingly also as agents enriched with skills that allow them to act autonomously. However, unchecked AI in companies could become the largest intellectual property theft in history. This risk arises from uninformed employees, an overreliance on contracts instead of technical limitations, and the growing autonomy of AI systems. When AI is introduced in companies, employees often upload intellectual property without considering the consequences. This can be as simple as a spreadsheet containing a business plan or as critical as a patent application or sensitive private data. The extraordinary capabilities of AI, combined with pressure to increase efficiency, make it very tempting to use even highly confidential information. Companies are usually aware of these risks and often rely on contracts rather than technical safeguards to mitigate them. This blind trust in contracts can be dangerous. In the past, many companies have failed to respect contractual obligations and used collected data for their own gain. The Facebook–Cambridge Analytica data scandal is one well-known example. Additionally, data breaches are increasing every year, and AI companies have a strong incentive to acquire new training data. As the technology evolves, AI systems will become even more autonomous. Many AI agents already have access to entire codebases or complete knowledge repositories in order to provide better answers. The next step is that these agents will not only analyze information but also act independently. Tools such as OpenClaw demonstrate how powerful such systems can be, but when used incorrectly and without technical limitations, they can expose a company’s crown jewels to third parties. In conclusion, while the advantages of AI are significant and can deliver major efficiency gains, companies must use these systems carefully. Since employees are likely to upload sensitive information, organizations should prioritize strong technical limitations rather than relying solely on contractual agreements. This is especially important as more advanced agent-based systems are introduced. Companies must ensure that “reverse Robin Hood” does not steal their most valuable secrets.
 
-1h ago
+5h ago
 
 ---
 
-**[I asked Claude to tell its own story as an interactive experience with generative music](https://www.reddit.com/r/artificial/comments/1rj4ick/i_asked_claude_to_tell_its_own_story_as_an/)**
+**[Why World Models Are Advancing Faster Than Enterprise AI Adoption](https://www.reddit.com/r/artificial/comments/1riqs79/why_world_models_are_advancing_faster_than/)**
 
-An interactive cinematic experience. Seven scenes. Generative music. One story. Turn your sound on.
+World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
 
-🔗 [claude-a-story-in-light.vercel.app](https://claude-a-story-in-light.vercel.app) • 2h ago
+🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 11h ago
+
+---
+
+**[AMD EPYC Turin 128 core comparison: EPYC 9745 "Zen 5C" vs. EPYC 9755 "Zen 5"](https://www.reddit.com/r/artificial/comments/1rj7s6o/amd_epyc_turin_128_core_comparison_epyc_9745_zen/)**
+
+.
+
+🔗 [phoronix.com](https://www.phoronix.com/review/amd-epyc-9745-9755/3) • 45m ago
 
 ---
 
@@ -97,7 +105,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 So, you wanna build an app. You have a design/architecture document that you want your agents to follow. That's great, that should be ALL you need and that WILL be all you need, but we're not there yet. No, you have to learn the best prompts, you have to specify proper coding conventions, you have to write SKILL.md files to make up for some deficiency the model has or some outdated info that, for some reason, the model is incapable of googling and storing on it's own. But that's all bullshit. In a year or two all this elaborate engineering will be worthless because the models will be much better and none of that will be needed, so you are essentially wasting your time learning all this crap. In the future a design and architecture document will be enough.
 
-9h ago
+10h ago
 
 ---
 
@@ -109,21 +117,35 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 ---
 
-**[Switch to Claude without starting over | Claude](https://www.reddit.com/r/artificial/comments/1ri2r7g/switch_to_claude_without_starting_over_claude/)**
-
-Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.
-
-🔗 [Claude](https://claude.com/import-memory) • 1d ago
-
----
-
 ---
 
 ## Google News: "ai"
 
+**[Anthropic’s AI model Claude gets popularity boost after US military feud](https://www.theguardian.com/technology/2026/mar/02/claude-anthropic-ai-pentagon)**
+
+Claude climbs to top of app store charts in US and UK after being blacklisted by the Pentagon over ethics concerns
+
+The Guardian • 2h ago
+
+---
+
 **[China’s Parents Are Outsourcing the Homework Grind to A.I.](https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html)**
 
-The New York Times • 17h ago
+The New York Times • 18h ago
+
+---
+
+**[Freddy del Barrio’s Companion AI Builds Infrastructures for Connection in an Era of Isolation](https://www.usatoday.com/story/special/contributor-content/2026/03/02/freddy-del-barrios-companion-ai-builds-infrastructures-for-connection-in-an-era-of-isolation/88952486007/)**
+
+Founded by Freddy del Barrio, Companion AI is a longitudinal learning system designed to evolve with its users.
+
+USA Today • 27m ago
+
+---
+
+**[Applied Digital Adds to AI Junk-Bond Surge With Offering](https://www.bloomberg.com/news/articles/2026-03-02/applied-digital-adds-to-ai-junk-bond-surge-with-offering)**
+
+Bloomberg • 35m ago
 
 ---
 
@@ -135,43 +157,11 @@ BBC • 15h ago
 
 ---
 
-**[Anthropic’s AI model Claude gets popularity boost after US military feud](https://www.theguardian.com/technology/2026/mar/02/claude-anthropic-ai-pentagon)**
-
-Claude climbs to top of app store charts in US and UK after being blacklisted by the Pentagon over ethics concerns
-
-The Guardian • 2h ago
-
----
-
-**[Why Big AI Is Obsessed With India](https://www.bloomberg.com/news/articles/2026-03-02/why-big-ai-is-obsessed-with-india)**
-
-Bloomberg Originals explores the hottest new destination for Silicon Valley giants and how the world’s most populous nation is looking to build an industry all its own.
-
-Bloomberg.com • 40m ago
-
----
-
-**[Apple might use Google servers to store data for its upgraded AI Siri](https://www.theverge.com/tech/887802/apple-ai-siri-google-servers)**
-
-The new Siri may rely on Google’s cloud.
-
-The Verge • 2h ago
-
----
-
 **[Can A.I. Be Pro-Worker?](https://www.newyorker.com/news/the-financial-page/can-ai-be-pro-worker)**
 
 As fears of mass unemployment grow, three leading economists advocate some policies to shift the focus from job displacement to job enhancement.
 
-The New Yorker • 11h ago
-
----
-
-**[Nvidia to invest $2 billion each in Lumentum, Coherent to bolster AI processors](https://finance.yahoo.com/news/nvidia-invest-4-billion-photonic-131110099.html)**
-
-Nvidia will invest $2 billion each in photonic product makers Lumentum and Coherent, as it looks to bolster its ‌data center chips with technology that can better cater to the ‌growing need for faster AI processors.  Shares of Lumentum were up 5%, while Coherent rose 9% ​in early trading after the announcement on Monday.  At its most recent earnings conference, Nvidia executives said the company would use its large cash reserve to invest in the AI ecosystem and help boost the output of models.
-
-Yahoo Finance • 9h ago
+The New Yorker • 12h ago
 
 ---
 
@@ -183,17 +173,23 @@ The Washington Post • 1d ago
 
 ---
 
-**[US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)**
+**[Tilly Norwood, the fully AI 'actor,' to be part of rapidly expanding 'Tillyverse'](https://www.nbcnews.com/pop-culture/pop-culture-news/tilly-norwood-fully-actor-part-rapidly-expanding-tillyverse-rcna261328)**
 
-Reuters • 7h ago
+Amazon's Mark Whelan will join the studio behind Tilly Norwood to help build a "constantly evolving digital universe where Tilly and a new generation of AI characters will live.”
+
+NBC News • 5h ago
 
 ---
 
-**['Silent failure at scale': The AI risk that can tip the business world into disorder](https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html)**
+**[Trump’s AI drive is running headlong into his most reliable voters](https://www.politico.com/news/2026/03/02/gop-trump-loyalties-rural-america-data-centers-00795708)**
 
-As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
+Politico • 6h ago
 
-CNBC • 1d ago
+---
+
+**[US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)**
+
+Reuters • 8h ago
 
 ---
 
@@ -205,7 +201,7 @@ CNBC • 1d ago
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 576 • 💬 306 • 1d ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 578 • 💬 306 • 1d ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -213,7 +209,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.
 
-⬆️ 453 • 💬 371 • 22h ago • [GitHub](https://github.com/mandel-macaque/memento)
+⬆️ 460 • 💬 373 • 23h ago • [GitHub](https://github.com/mandel-macaque/memento)
 
 ---
 
@@ -221,7 +217,7 @@ Keep track of you codex sessions per commit. Contribute to mandel-macaque/mement
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 391 • 💬 306 • 1d ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 391 • 💬 307 • 1d ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -245,7 +241,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Apple announced the new iPad Air featuring M4 and more memory, giving users a big jump in performance and making it more versatile than ever.
 
-⬆️ 279 • 💬 455 • 8h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
+⬆️ 288 • 💬 482 • 9h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ---
 
@@ -283,7 +279,7 @@ An honest take about AI. Join the community https://www.youtube.com/channel/UCXz
 
 📺 Awesome
 
-👁️ 129K • 👍 7K • 💬 575 • ⏱️ 8:07 • 12h ago
+👁️ 129K • 👍 7K • 💬 575 • ⏱️ 8:07 • 13h ago
 
 ---
 
@@ -497,7 +493,7 @@ Qwen3.5-27B-GGUF is a 27B parameter multimodal causal language model optimized f
 
 `image-text-to-text` `26.9B`
 
-⬇️ 218,342 • ❤️ 187 • 6h ago
+⬇️ 218,342 • ❤️ 187 • 7h ago
 
 ---
 
@@ -665,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 5.2k • 🔱 515 • 5h ago
+⭐ 5.2k • 🔱 515 • 6h ago
 
 ---
 
@@ -675,7 +671,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.5k • 🔱 494 • 35m ago
+⭐ 4.5k • 🔱 494 • 1h ago
 
 ---
 
@@ -695,7 +691,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.8k • 🔱 302 • 7h ago
+⭐ 3.8k • 🔱 302 • 8h ago
 
 ---
 
@@ -715,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 340 • 8h ago
+⭐ 3.2k • 🔱 340 • 9h ago
 
 ---
 
@@ -725,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 225 • 43m ago
+⭐ 3.1k • 🔱 225 • 1h ago
 
 ---
 

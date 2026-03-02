@@ -3,14 +3,14 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T22:55:48.007141+00:00'
+updated: '2026-03-02T23:29:03.344311+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 22:55 UTC  
+**Last Updated:** March 02, 2026 at 23:29 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $69,464.35
+### $69,567.30
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** +5.6%  
-**7d:** +8.4%  
-**30d:** -9.8%  
-**90d:** -26.0%  
-**1y:** -19.6%  
+**24h:** +3.9%  
+**7d:** +7.9%  
+**30d:** -10.2%  
+**90d:** -26.3%  
+**1y:** -20.0%  
 
 ---
 
@@ -81,15 +81,13 @@ Rank #1
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
-9h ago
+10h ago
 
 ---
 
-**[Dubai Turned Off Its Stock Market. Nobody Can Turn Off Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1riq1fv/dubai_turned_off_its_stock_market_nobody_can_turn/)**
+**[Bitcoin demonetizes violence and it monetizes peace and love](https://www.reddit.com/r/Bitcoin/comments/1rj3tub/bitcoin_demonetizes_violence_and_it_monetizes/)**
 
-When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept trading. Here's why that matters more than any price chart right now.
-
-🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 11h ago
+3h ago
 
 ---
 
@@ -97,13 +95,15 @@ When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept tradi
 
 It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
 
-21h ago
+22h ago
 
 ---
 
-**[Bitcoin demonetizes violence and it monetizes peace and love](https://www.reddit.com/r/Bitcoin/comments/1rj3tub/bitcoin_demonetizes_violence_and_it_monetizes/)**
+**[Dubai Turned Off Its Stock Market. Nobody Can Turn Off Bitcoin.](https://www.reddit.com/r/Bitcoin/comments/1riq1fv/dubai_turned_off_its_stock_market_nobody_can_turn/)**
 
-2h ago
+When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept trading. Here's why that matters more than any price chart right now.
+
+🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 12h ago
 
 ---
 
@@ -111,7 +111,7 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour! 🧡 https://x.com/SteaknShake/status/2028322342275871122
 
-8h ago
+9h ago
 
 ---
 
@@ -129,15 +129,15 @@ Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As 
 
 ---
 
-**[man they are really going at it, Does war actually make Bitcoin stronger… or weaker?](https://www.reddit.com/r/Bitcoin/comments/1riw09c/man_they_are_really_going_at_it_does_war_actually/)**
-
-So I’m curious what people here think. When conflicts or wars happen, does Bitcoin actually benefit in the long run, or does it usually just get dragged down with the rest of the markets first? Kind of alarming but i know btc survived stuff already
+**[the world continues to wage war 17 years after bitcoin launched. Thankfully freedom money is proliferating. A global truth open and available to all.](https://www.reddit.com/r/Bitcoin/comments/1riwfjq/the_world_continues_to_wage_war_17_years_after/)**
 
 7h ago
 
 ---
 
-**[the world continues to wage war 17 years after bitcoin launched. Thankfully freedom money is proliferating. A global truth open and available to all.](https://www.reddit.com/r/Bitcoin/comments/1riwfjq/the_world_continues_to_wage_war_17_years_after/)**
+**[man they are really going at it, Does war actually make Bitcoin stronger… or weaker?](https://www.reddit.com/r/Bitcoin/comments/1riw09c/man_they_are_really_going_at_it_does_war_actually/)**
+
+So I’m curious what people here think. When conflicts or wars happen, does Bitcoin actually benefit in the long run, or does it usually just get dragged down with the rest of the markets first? Kind of alarming but i know btc survived stuff already
 
 7h ago
 
@@ -147,7 +147,7 @@ So I’m curious what people here think. When conflicts or wars happen, does Bit
 
 I'm thankful that Bitcoin inspired me to save. Before BTC, I never felt much enthusiasm for saving money and buying investments. It was more like the responsible, adult, thing to do. Since discovering BTC, I'm always considering how to better allocate funds and manage expenses because I could be stacking more sats. Bitcoin inspired me to learn about economics and global monetary systems. All fiat currencies experience hyperinflation over longer periods of time. Bitcoin has also taught me to not chase FOMO and, instead, buy into FUD. I've gotten really good at denying myself the urge to quickly buy green pumps. I save my dollars and then on the worst red days/week, scale into buying more sats. Bitcoin doesn't have to reach $500k to change my life. It already has in many other ways. For people starting right now, you're so lucky to have a $60-70k BTC range to accumulate. The bear markets are brutal but they allow you to capture the gains on the upside. Stay humble, stack sats.
 
-3h ago
+4h ago
 
 ---
 
@@ -155,17 +155,17 @@ I'm thankful that Bitcoin inspired me to save. Before BTC, I never felt much ent
 
 ## Google News: "bitcoin"
 
+**[Strategy Stock Rises. The World’s Largest Bitcoin Holder Doubles Down on Its Crypto Bet.](https://www.barrons.com/articles/strategy-doubles-down-on-crypto-bet-d2d51560?gaa_at=eafs&gaa_n=AWEtsqeS9kGgX5nNAX4cg5luT4fST-yTousclgY9xTEoNnCqG53Gj0gl2dyN&gaa_ts=69a6208b&gaa_sig=kBmRUY2PIAozZawViuWQrg8acFYqF_8cUpBx6qTMT7bSuLAJBX8XzUGHW0JFR6wQS_8y2JHLkmGLAu5VFXAXBA%3D%3D)**
+
+Barron's • 3h ago
+
+---
+
 **[Bitcoin BIP-110 battles begin: Onchain image inscription challenges data-limit proposal](https://www.coindesk.com/tech/2026/03/02/battle-for-bitcoin-s-soul-opens-as-first-block-supporting-clean-up-proposal-is-mined)**
 
 The first Bitcoin block signaling for BIP-110 has been mined, marking a flashpoint in a heated debate over restricting non-financial data onchain.
 
-CoinDesk • 5h ago
-
----
-
-**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
-
-Bloomberg.com • 1d ago
+CoinDesk • 6h ago
 
 ---
 
@@ -173,7 +173,7 @@ Bloomberg.com • 1d ago
 
 CNBC’s MacKenzie Sigalos reports bitcoin is rallying alongside equities, with a stronger-than-expected PMI helping revive risk appetite and forcing bearish traders to cover shorts.
 
-CNBC • 1h ago
+CNBC • 2h ago
 
 ---
 
@@ -181,7 +181,7 @@ CNBC • 1h ago
 
 Production and supply dynamics tell the whole story here.
 
-The Motley Fool • 1h ago
+The Motley Fool • 2h ago
 
 ---
 
@@ -195,7 +195,7 @@ Yahoo Finance • 1h ago
 
 **[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
 
-Bloomberg.com • 7h ago
+Bloomberg • 7h ago
 
 ---
 
@@ -203,7 +203,13 @@ Bloomberg.com • 7h ago
 
 After tumbling in the wake of Saturday's attack on Iran, major cryptocurrencies and related stocks are on the upswing again. Here's what could be happening.
 
-Fast Company • 1h ago
+Fast Company • 2h ago
+
+---
+
+**[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
+
+Bloomberg • 1d ago
 
 ---
 
@@ -211,7 +217,7 @@ Fast Company • 1h ago
 
 Cake Wallet users are buzzing about the new Lightning feature: self-custody, custom privacy tweaks via Spark, and a refreshed UI that makes everyday Bitcoin spending feel effortless.
 
-Bitcoin Magazine • 5h ago
+Bitcoin Magazine • 6h ago
 
 ---
 
@@ -220,14 +226,6 @@ Bitcoin Magazine • 5h ago
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
-
----
-
-**[Texas’ $10M bitcoin investment slips into the red amid crypto price dive](https://www.dallasnews.com/business/2026/03/02/texas-10m-bitcoin-investment-slips-into-the-red-amid-crypto-price-dive/)**
-
-As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
-
-Dallas News • 5h ago
 
 ---
 
@@ -325,7 +323,7 @@ War headlines are crushing markets and Bitcoin just dropped fast. But while ever
 
 📺 Simply Bitcoin
 
-👁️ 40K • 👍 2K • 💬 222 • ⏱️ 18:43 • 22h ago
+👁️ 40K • 👍 2K • 💬 222 • ⏱️ 18:43 • 23h ago
 
 ---
 
@@ -345,7 +343,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 1K • 💬 45 • ⏱️ 51:28 • 6h ago
+👁️ 18K • 👍 1K • 💬 45 • ⏱️ 51:28 • 7h ago
 
 ---
 
@@ -375,7 +373,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 989 • 💬 100 • ⏱️ 9:16 • 20h ago
+👁️ 18K • 👍 989 • 💬 100 • ⏱️ 9:16 • 21h ago
 
 ---
 
@@ -395,7 +393,7 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 11K • 👍 546 • 💬 65 • ⏱️ 6:46 • 13h ago
+👁️ 11K • 👍 546 • 💬 65 • ⏱️ 6:46 • 14h ago
 
 ---
 
@@ -405,7 +403,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 84 • ⏱️ 8:18 • 11h ago
+👁️ 23K • 👍 3K • 💬 84 • ⏱️ 8:18 • 12h ago
 
 ---
 

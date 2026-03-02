@@ -3,14 +3,14 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-02T22:55:48.012364+00:00'
+updated: '2026-03-02T23:29:03.350252+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- cryptocurrency
 - news
+- cryptocurrency
+- social
 - videos
 ---
 
@@ -18,7 +18,7 @@ data_types:
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 22:55 UTC  
+**Last Updated:** March 02, 2026 at 23:29 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -42,11 +42,11 @@ Live Ethereum monitoring dashboard
 
 ## Ethereum Chart
 
-**24h:** +5.7%  
-**7d:** +10.7%  
-**30d:** -9.7%  
-**90d:** -35.7%  
-**1y:** -5.2%  
+**24h:** +4.1%  
+**7d:** +10.2%  
+**30d:** -10.2%  
+**90d:** -36.0%  
+**1y:** -5.7%  
 
 ---
 
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-16h ago
+17h ago
 
 ---
 
@@ -84,25 +84,19 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 ---
 
-**[Accidentally sent USDT to USDT address](https://www.reddit.com/r/ethereum/comments/1rj7c4p/accidentally_sent_usdt_to_usdt_address/)**
-
-Please help me it’s a large amount, is it lost forever?
-
-30m ago
-
----
-
 **[RWA on Ethereum feels less like hype and more like a maturity test](https://www.reddit.com/r/ethereum/comments/1rj5ncr/rwa_on_ethereum_feels_less_like_hype_and_more/)**
 
 Maybe unpopular take, but I don’t think RWA is a “narrative” anymore. A few cycles ago, yield on Ethereum mostly meant emissions. Liquidity mining. Governance token incentives. Boosted pools. You could almost feel the dilution in real time. It worked. Until it didn’t. The structural issue was obvious in hindsight: yield funded by token inflation isn’t the same as yield funded by external cashflow. One depends on reflexivity. The other depends on actual economic activity somewhere outside the EVM. That’s why RWA keeps resurfacing here. Centrifuge tried collateralized real-world assets. Maple leaned into institutional credit. Ondo pushed tokenized Treasuries into DeFi rails. Goldfinch experimented with undercollateralized lending. Different risk models. Same direction: Ethereum as settlement for off-chain cashflows. I’ve been looking at 8lends recently from a portfolio construction angle. RWA-backed lending, fixed monthly payouts, structured more like credit exposure than a farm. Not exciting. Which is kind of the point. Fixed doesn’t mean safe. It just means the risk moves. From token dilution and volatility to underwriting quality and legal enforceability. But if Ethereum wants to evolve beyond cyclical liquidity games, it probably needs primitives that aren’t purely reflexive. So the real question for this sub: Is RWA a necessary evolution for Ethereum DeFi, or are we just wrapping TradFi risk and calling it innovation? And how much transparency would you need before allocating capital to an RWA protocol?
 
-1h ago
+2h ago
 
 ---
 
-**[🚨 NEW WEBSITE. NEW BREAKDOWN SERIES.](https://www.reddit.com/r/ethereum/comments/1rj4hvn/new_website_new_breakdown_series/)**
+**[Accidentally sent USDT to USDT address](https://www.reddit.com/r/ethereum/comments/1rj7c4p/accidentally_sent_usdt_to_usdt_address/)**
 
-2h ago
+Please help me it’s a large amount, is it lost forever? USDT to a USDC address sorry for typo
+
+1h ago
 
 ---
 
@@ -110,7 +104,7 @@ Maybe unpopular take, but I don’t think RWA is a “narrative” anymore. A fe
 
 I’ve always felt that the biggest hurdle for decentralized identity was the "black box" problem of physical hardware. Most of us here have followed the controversy surrounding the Orb and the inherent trust issues that come with proprietary biometric sensors. It’s a classic security vs. privacy trade-off that usually ends in a stalemate. However, the recent open-sourcing of the Remainder prover marks a pretty significant shift in the technical architecture that’s worth looking at from an Ethereum-centric perspective. We’re essentially seeing the transition from "Trust the Gadget" to "Verify the Math". By moving the heavy ML processing from a physical device directly to a user’s smartphone using a GKR + Hyrax-based proof system, we’re entering the territory of production-grade ZK-ML on consumer hardware. This is a massive engineering leap because running machine learning layers locally and generating a ZK-proof that the model was executed correctly - without the raw data ever leaving the device - is exactly the kind of client-side verifiability we’ve been talking about for years. It turns the phone into a verifiable node of trust, potentially making the physical Orb a one-time gateway rather than a permanent central authority. This is more than just an update to a single project; it’s a high-stakes stress test for ZK-SNARKs on the edge. If we can prove that high-performance provers can handle complex ML inferences on mobile GPUs without compromising privacy or draining the battery, it changes the game for everything from Proof-of-Personhood to private DAO voting. It’s a fascinating pivot from hardware-centric identity to a math-first approach, and I’m curious if this finally bridges the gap for those who were previously put off by the centralized nature of the initial setup.
 
-2h ago
+3h ago
 
 ---
 
@@ -146,6 +140,14 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 ---
 
+**[Vitalik’s new account abstraction design could change Ethereum wallets](https://www.reddit.com/r/ethereum/comments/1rhtx38/vitaliks_new_account_abstraction_design_could/)**
+
+Ethereum has talked about account abstraction for years, but EIP-8141 might finally move it into the protocol itself. Instead of wallets + relayers handling validation and gas, transactions would contain that logic directly (“frame transactions”). That could enable: • gas in any token • built-in batching • smart-account features for all wallets • no relayers Simple explanation here: https://btcusa.com/ethereum-account-abstraction-reaches-protocol-layer-inside-vitaliks-eip-8141-framework/
+
+1d ago
+
+---
+
 ---
 
 ## Google News: "ethereum"
@@ -166,30 +168,6 @@ Decrypt • 6h ago
 
 ---
 
-**[Vitalik Buterin eyes 'big FOCIL' and encrypted mempools to prevent centralization in 'block building pipeline'](https://www.theblock.co/post/391840/vitalik-buterin-eyes-big-focil-and-encrypted-mempools-to-prevent-centralization-in-block-building-pipeline)**
-
-The Glamsterdam upgrade will boost Ethereum's censorship-resistance, but a proposed mechanism called ePBS could cause centralization.
-
-The Block • 2h ago
-
----
-
-**[Better Cryptocurrency to Buy Now With $1,000 and Hold for 3 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-1000-and-hold-3-years-xrp-vs-ethereum)**
-
-Key PointsXRP will soon have an even more sophisticated regulatory compliance suite.
-
-Nasdaq • 16h ago
-
----
-
-**[Ethereum Price, BitMine Shares Jump as Tom Lee's Treasury Reports Latest Buy](https://finance.yahoo.com/news/ethereum-price-bitmine-shares-jump-153447384.html)**
-
-Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
-
-Yahoo Finance • 7h ago
-
----
-
 **[Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 4.474 Million Tokens, and Total Crypto and Total Cash Holdings of $9.9 Billion](https://www.prnewswire.com/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-4-474-million-tokens-and-total-crypto-and-total-cash-holdings-of-9-9-billion-302700582.html)**
 
 Bitmine has 3,040,483 staked ETH, representing $6.0 billion at $1,976 per ETH; MAVAN staking solution on track to launch Q1 2026 Bitmine now owns 3.71% of the...
@@ -198,11 +176,43 @@ PR Newswire • 9h ago
 
 ---
 
+**[Ethereum Price and BitMine Shares Jump 10% After Latest Treasury Buy](https://finance.yahoo.com/news/ethereum-price-bitmine-shares-jump-222825549.html)**
+
+BitMine Immersion Technologies (BMNR) just doubled down on Ethereum, fueling bullish price predictions.The publicly traded treasury added 50,928 ETH last week, spending about $103 million. The move sparked a 9% jump in BMNR shares and lined up with a strong bounce in Ethereum’s spot price.With this buy, BitMine now holds ...
+
+Yahoo Finance • 1h ago
+
+---
+
 **[Bitcoin miner turned Ethereum treasury firm stakes over $6B in ETH as BMNR shares slide and ether dips.](https://www.coindesk.com/business/2026/03/02/bitmine-boosts-ether-holdings-to-4-47m-tokens-after-usd98m-eth-purchase)**
 
 Bitmine chair Tom Lee says company keeps accumulating ETH during market pullback while targeting $253M in annual staking rewards.
 
-CoinDesk • 7h ago
+CoinDesk • 8h ago
+
+---
+
+**[Vitalik Buterin unveils plan to curb Ethereum block builder centralization](https://www.coindesk.com/tech/2026/03/02/vitalik-buterin-unveils-plan-to-curb-ethereum-block-builder-centralization)**
+
+Another focus of his post is so-called “toxic MEV,” where traders exploit visibility into pending transactions to front-run or “sandwich” users’ trades.
+
+CoinDesk • 4h ago
+
+---
+
+**[Vitalik Buterin eyes 'big FOCIL' and encrypted mempools to prevent centralization in 'block building pipeline'](https://www.theblock.co/post/391840/vitalik-buterin-eyes-big-focil-and-encrypted-mempools-to-prevent-centralization-in-block-building-pipeline)**
+
+The Glamsterdam upgrade will boost Ethereum's censorship-resistance, but a proposed mechanism called ePBS could cause centralization.
+
+The Block • 3h ago
+
+---
+
+**[Better Cryptocurrency to Buy Now With $1,000 and Hold for 3 Years: XRP vs. Ethereum](https://www.nasdaq.com/articles/better-cryptocurrency-buy-now-1000-and-hold-3-years-xrp-vs-ethereum)**
+
+Key PointsXRP will soon have an even more sophisticated regulatory compliance suite.
+
+Nasdaq • 17h ago
 
 ---
 
@@ -210,15 +220,7 @@ CoinDesk • 7h ago
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- New Ethereum Based Crypto Pepeto just broke past $7.403 million in presale funding after the late...
 
-markets.businessinsider.com • 22h ago
-
----
-
-**[How Chainlink CCIP Connects Ethereum, Solana, and Private Bank Chains in 2026](https://financefeeds.com/how-chainlink-ccip-connects-ethereum-solana-and-private-bank-chains-in-2026/)**
-
-The need for blockchains to enable transactions among themselves has become a necessity. In 2026, the cross-chain interoperability protocol (CCIP) is making
-
-FinanceFeeds • 1d ago
+markets.businessinsider.com • 23h ago
 
 ---
 
@@ -250,7 +252,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 23K • 👍 3K • 💬 84 • ⏱️ 8:18 • 11h ago
+👁️ 23K • 👍 3K • 💬 84 • ⏱️ 8:18 • 12h ago
 
 ---
 
@@ -290,7 +292,7 @@ I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 194 • 💬 44 • ⏱️ 36:59 • 12h ago
+👁️ 5K • 👍 194 • 💬 44 • ⏱️ 36:59 • 13h ago
 
 ---
 
@@ -300,7 +302,7 @@ Join Discord Group https://painofcrypto.netlify.app/ X https://twitter.com/Paino
 
 📺 Pain of Crypto
 
-👁️ 140 • 👍 14 • 💬 11 • ⏱️ 6:27 • 55m ago
+👁️ 140 • 👍 14 • 💬 11 • ⏱️ 6:27 • 1h ago
 
 ---
 
@@ -310,7 +312,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 206 • 👍 15 • 💬 1 • ⏱️ 5:25 • 12h ago
+👁️ 206 • 👍 15 • 💬 1 • ⏱️ 5:25 • 13h ago
 
 ---
 
@@ -330,7 +332,7 @@ ETHEREUM MARCH 2.
 
 📺 Overkill Trading
 
-👁️ 444 • 👍 23 • 💬 1 • ⏱️ 1:50 • 4h ago
+👁️ 444 • 👍 23 • 💬 1 • ⏱️ 1:50 • 5h ago
 
 ---
 

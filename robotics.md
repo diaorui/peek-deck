@@ -3,13 +3,13 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T22:55:48.015137+00:00'
+updated: '2026-03-02T23:29:03.353425+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
-- social
 - news
+- social
 - videos
 ---
 
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 22:55 UTC  
+**Last Updated:** March 02, 2026 at 23:29 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -34,7 +34,13 @@ Robotics research and industry news
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-5h ago
+6h ago
+
+---
+
+**[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
+
+1h ago
 
 ---
 
@@ -43,12 +49,6 @@ Robotics research and industry news
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
 12h ago
-
----
-
-**[Automated greenhouse to grow food](https://www.reddit.com/r/robotics/comments/1rj6h1e/automated_greenhouse_to_grow_food/)**
-
-1h ago
 
 ---
 
@@ -76,6 +76,12 @@ Hey , i want to study my Msc in robotics ( my background is in electrical engine
 
 ---
 
+**[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
+
+18h ago
+
+---
+
 **[Why Roboticists Push and Pull Robots During Demos](https://www.reddit.com/r/robotics/comments/1rj1iru/why_roboticists_push_and_pull_robots_during_demos/)**
 
 There’s a long history in robotics of pushing, pulling, and otherwise “torturing” robots during demos. The purpose is to demonstrate robustness. Engineers introduce disturbances to show how well the control system responds, whether that’s balance recovery or reacting to changes in the environment. In many cases, these tests are meant to highlight stability control and real-time response, not spectacle. The robot is being forced to recover without relying on a scripted sequence. At the same time, there’s an acknowledgment that the practice may have outlived its usefulness.
@@ -84,23 +90,17 @@ There’s a long history in robotics of pushing, pulling, and otherwise “tortu
 
 ---
 
-**[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
-
-17h ago
-
----
-
 **[DIY Robot arm help](https://www.reddit.com/r/robotics/comments/1rio7bj/diy_robot_arm_help/)**
 
 Helloes, I have decided to make a robot arm as a hobby project as it is something I've wanted since I was a wee teenager. I am *not* an electrical engineer. Whatever experience I have with low voltage electronics is from a hobby perspective. I'm not strong in math, but programming is my forte. Currently I have: 6x Micro Harmonic 26:1 gearboxes (mostly 3d printed) 6x TMC2209 stepper driver packages with heatsinks Variable bench power supply A working single joint using an arduino, a test KYSAN 12v stepper motor and the aforementioned driver Working servo based gripper Fusion 360, a 3d printer and patience I could probably get something working using the aforementioned arduino, but I am considering a control board like the BigTreeTech Manta M8P. What I am worried about is not getting something working, but rather making something safe, because I have close to zero knowledge about noise, power leaks, overheating protection and so on. I am looking to make a small, compact, precise robot. Payload does not need to be large. I believe I need: PSU Steppers Control board Joints of various sorts, I can make these Cable management IK software What would be the safest, less error prone way to continue?
 
-13h ago
+14h ago
 
 ---
 
 **[Spatio: A high-performance Spatio-Temporal database in Rust](https://www.reddit.com/r/robotics/comments/1riqa90/spatio_a_highperformance_spatiotemporal_database/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -128,15 +128,7 @@ Futurism • 1d ago
 
 After a year as COO of K-Scale Labs, Rui Xu reflects on the hard lessons behind the collapse of its low-cost humanoid robot ambitions.
 
-The Robot Report • 3h ago
-
----
-
-**[BMW piloting Hexagon’s wheeled humanoid in Germany](https://www.therobotreport.com/bmw-piloting-hexagons-wheeled-humanoid-in-germany/)**
-
-BMW launched an initial test deployment of Hexagon's AEON humanoid at its Group Plant Leipzig in December 2025
-
-The Robot Report • 5h ago
+The Robot Report • 4h ago
 
 ---
 
@@ -148,11 +140,19 @@ CNBC • 1d ago
 
 ---
 
+**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
+
+The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
+
+Pittsburgh Post-Gazette • 1d ago
+
+---
+
 **[Why humanoid robots are learning everyday tasks faster than expected](https://www.scientificamerican.com/article/why-humanoid-robots-are-learning-everyday-tasks-faster-than-expected/)**
 
 Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Scientific American • 10h ago
+Scientific American • 11h ago
 
 ---
 
@@ -164,25 +164,23 @@ IEEE Spectrum • 3d ago
 
 ---
 
-**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
-
-Coco Robotics launched a new generation of delivery bots
-
-Los Angeles Times • 2d ago
-
----
-
-**[Inside of Carnegie Mellon University’s new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
-
-The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
-
-Pittsburgh Post-Gazette • 1d ago
-
----
-
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
 Tech Xplore • 3d ago
+
+---
+
+**[‘It’s not just all the big companies’: Warehouse robotics use expands](https://www.supplychaindive.com/news/warehouse-robotics-adoption-increases-supply-chains/812369/)**
+
+As-a-service models and success stories from peers are pushing SMEs to invest in automation technology within their supply chains alongside giants like Walmart and Amazon.
+
+Supply Chain Dive • 8h ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfKRaVcbFfORHfE9yfVYaYhvTcSS9xabbRyvSH6pOxqfXUZyO2O8XZP&gaa_ts=69a620ae&gaa_sig=Vt00GOtWvWJkqksPnPGtgsgaKpMO8joNzHw0cgUFnmVoQMF4vgKQoxtlVqQjRRBTdMGK7k96_oIWO3DO6iteNA%3D%3D)**
+
+WSJ • 3d ago
 
 ---
 
@@ -196,7 +194,7 @@ War Robots Gameplay: Ultimate Molots on the Ravana - probably the worst of the u
 
 📺 Manni-Gaming
 
-👁️ 4K • 👍 296 • 💬 66 • ⏱️ 17:41 • 7h ago
+👁️ 4K • 👍 296 • 💬 66 • ⏱️ 17:41 • 8h ago
 
 ---
 
