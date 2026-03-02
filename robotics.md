@@ -3,7 +3,7 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T04:26:44.159986+00:00'
+updated: '2026-03-02T05:36:17.585714+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
@@ -17,7 +17,7 @@ data_types:
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 04:26 UTC  
+**Last Updated:** March 02, 2026 at 05:36 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,19 +36,33 @@ Robotics research and industry news
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-17h ago
+18h ago
+
+---
+
+**[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
+
+10m ago
+
+---
+
+**[Are there any sensor can be used without gps?](https://www.reddit.com/r/robotics/comments/1rik464/are_there_any_sensor_can_be_used_without_gps/)**
+
+Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
+
+19m ago
+
+---
+
+**[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
+
+10h ago
 
 ---
 
 **[Amsterdam Robotics Club meetup at DeltaQuad Drones](https://www.reddit.com/r/robotics/comments/1ri871p/amsterdam_robotics_club_meetup_at_deltaquad_drones/)**
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
-
-7h ago
-
----
-
-**[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
 9h ago
 
@@ -70,7 +84,7 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
 
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 14h ago
+🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 15h ago
 
 ---
 
@@ -78,27 +92,13 @@ Got this device used for 100 euros. Needed to buy some special cables and firewi
 
 Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
-🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 10h ago
+🔗 [youtube.com](https://youtube.com/shorts/2PbKakpTIt8?si=gxL0M2Jo9PmKfs0c) • 11h ago
 
 ---
 
 **[Small drill.](https://www.reddit.com/r/robotics/comments/1ri07z6/small_drill/)**
 
-12h ago
-
----
-
-**[Why you don’t connect 24v to something that calls for 3.3v](https://www.reddit.com/r/robotics/comments/1rhlkhz/why_you_dont_connect_24v_to_something_that_calls/)**
-
-1d ago
-
----
-
-**[Robotic Parcel Sorting (Letter / Small Polybag) for places like USPS & Pitney Bowes](https://www.reddit.com/r/robotics/comments/1rhaedz/robotic_parcel_sorting_letter_small_polybag_for/)**
-
-Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution seen a lot in the postal / last-mile sorting centers. The company is Ambi Robotics.
-
-1d ago
+14h ago
 
 ---
 
@@ -106,17 +106,19 @@ Filmed at ProMat 2025 in Chicago, IL. This is a robotic bin picking solution see
 
 ## Google News: "robotics"
 
+**[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)**
+
++++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
+
+BMW Group • 2d ago
+
+---
+
 **[China's Honor shows off smartphone with robotic camera arm and teases a humanoid robot](https://www.cnbc.com/2026/03/01/honor-robot-phone-magic-v6-foldable-launch-mwc.html)**
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 14h ago
-
----
-
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqdU9EdJ4FA2DmHpRq5kJQo93bgh7FE_mJKUMY9ZXVU8qGD3kTdDOv_l&gaa_ts=69a514f1&gaa_sig=zevvJcE29vHnLd27ohYbvawSQ39osrQA8ETBurYFBnIZibpw2-hhXuJ9CxuWuiEr3Lyd9VwoghQM_4J7fMgVZw%3D%3D)**
-
-WSJ • 2d ago
+CNBC • 15h ago
 
 ---
 
@@ -144,15 +146,27 @@ New York Post • 1d ago
 
 ---
 
+**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
+
+Bloomberg • 3d ago
+
+---
+
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqf8qRU-0W_-hrOZlVqXJQBljzg6WPhiLpAuU2iJW8fzraK_ehW7KDc7&gaa_ts=69a52542&gaa_sig=mWwFDlkbN5C-_veiGdnQVT8LcDaSUgTVQEbp0RP3lLTxMIp-JYFaB49aDjAkl1c1lgdLSyDfXSGp51lE4ns-7g%3D%3D)**
+
+WSJ • 2d ago
+
+---
+
 **[Robotic wing inspired by nature delivers leap in underwater stability](https://techxplore.com/news/2026-02-robotic-wing-nature-underwater-stability.html)**
 
 Tech Xplore • 2d ago
 
 ---
 
-**[BMW to put humanoid robots on production line at German plant](https://www.ft.com/content/2f7b77d0-e4d7-4bb2-b106-7e7199e6c312)**
+**[The companies behind China’s dancing, joking robots](https://www.ft.com/content/3b44c858-10ce-4edd-b0a8-59a522ff5bb0)**
 
-Group joins Tesla and other carmakers as industry turns to AI-powered robots to cut labour and manufacturing costs
+Televised gala offers a showcase and opportunity for the best of Chinese tech
 
 Financial Times • 2d ago
 
@@ -162,21 +176,7 @@ Financial Times • 2d ago
 
 LOS ANGELES, March 02, 2026--Faraday Future Intelligent Electric Inc. (NASDAQ: FFAI) ("Faraday Future", "FF" or the "Company"), a California-based global Embodied AI (EAI) ecosystem company, today shared a weekly business update from YT Jia, Founder and Global Co-CEO of FF.
 
-Yahoo Finance • 2h ago
-
----
-
-**[Inside of Carnegie Mellon University's new robotics center, where machines jump, swim and fly](https://www.post-gazette.com/business/tech-news/2026/03/01/carnegie-mellon-university-robotics-center-hazelwood/stories/202603010098)**
-
-The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
-
-Pittsburgh Post-Gazette • 1h ago
-
----
-
-**[Rise of the Robots Pits Hyundai’s Atlas Against Musk’s Optimus](https://www.bloomberg.com/news/articles/2026-02-26/rise-of-the-robots-pits-hyundai-s-atlas-against-elon-musk-s-optimus)**
-
-Bloomberg.com • 3d ago
+Yahoo Finance • 3h ago
 
 ---
 
@@ -250,7 +250,7 @@ HONOR just revealed its first humanoid robot at Mobile World Congress 2026 in Ba
 
 📺 DPCcars
 
-👁️ 1K • 👍 31 • 💬 3 • ⏱️ 4:41 • 11h ago
+👁️ 1K • 👍 31 • 💬 3 • ⏱️ 4:41 • 12h ago
 
 ---
 
