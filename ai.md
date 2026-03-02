@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-02T11:33:11.155446+00:00'
+updated: '2026-03-02T13:01:45.059152+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
+- videos
+- news
 - repositories
 - social
-- news
-- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 02, 2026 at 11:33 UTC  
+**Last Updated:** March 02, 2026 at 13:01 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Are we better off with ai with or without the pleasantries?
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 7h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 8h ago
 
 ---
 
@@ -49,7 +49,7 @@ Are we better off with ai with or without the pleasantries?
 
 Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while serving 900 million weekly ChatGPT users.
 
-🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 20h ago
+🔗 [Interesting Engineering](https://interestingengineering.com/ai-robotics/openai-110b-funding-amazon-nvidia) • 21h ago
 
 ---
 
@@ -65,7 +65,15 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.
 
-🔗 [Claude](https://claude.com/import-memory) • 18h ago
+🔗 [Claude](https://claude.com/import-memory) • 19h ago
+
+---
+
+**[Why World Models Are Advancing Faster Than Enterprise AI Adoption](https://www.reddit.com/r/artificial/comments/1riqs79/why_world_models_are_advancing_faster_than/)**
+
+World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
+
+🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 1h ago
 
 ---
 
@@ -73,7 +81,7 @@ Transfer your preferences, projects, and context from other AI providers into Cl
 
 I was making characters for my dark fantasy game (https://adeptus7.itch.io/dominion) and I asked Google Gemini to make dark-skinned succubus (because 1) tanned from hellfire 2) she was redhead and it is rare mix with dark skin, to emphasize she is not ordinary human being). AI refused to complete the task. I forced it to provide justification and it answered something like "Succubus is evil, so making it dark skinned could be interpreted as racist".
 
-21m ago
+1h ago
 
 ---
 
@@ -89,7 +97,7 @@ I had been working since GPT very first allowed agents to create gaming agents c
 
 TL;DR: Most AI comparisons are measuring the wrong thing entirely and I’ve been kind of annoyed about it for a while now. Benchmarks tell you who won yesterday on a test that may or may not reflect real usage. The actual race is being fought in chip fabs, data centers, developer communities, and regulatory offices, and when you factor all of that in the picture looks pretty different from what gets posted here constantly. Google should theoretically be dominating but isn’t yet for reasons that are genuinely hard to explain. Meta is underscored by about 15 points in every ranking you’ve seen because people keep evaluating the product instead of the platform strategy underneath it. xAI is building something that has almost nothing to do with how good or bad Grok currently is. And then there’s what just happened this week with OpenAI and the Pentagon, which reshuffles a few things in ways most analysis hasn’t caught up to yet. Full breakdown below. I’ve been frustrated watching the same AI comparisons get recycled over and over again and I finally just decided to write the one I actually wanted to read. GPT vs Claude vs Gemini, who scored better on some benchmark, who writes better poetry, who’s best at summarizing a PDF. None of that tells you anything useful about where this is actually heading or who has the kind of advantages that are hard to take away even when a competitor ships something impressive. The real competition is being fought at the infrastructure layer, in chip fabs, in data centers, in developer communities, and at regulatory tables, and the chatbox that everyone keeps comparing is honestly just the smallest visible part of a much bigger thing going on underneath. So here’s my attempt at a more honest breakdown, not just who’s best right now in March 2026 but who has structural advantages that compound over time and who’s quietly more vulnerable than their current product quality suggests. THE LEADERBOARD NOBODY PUBLISHES Before getting into the breakdown here’s how I’d actually score these platforms if you factor in current product quality, velocity, infrastructure, training data, developer ecosystem, distribution reach, trust positioning, and long term research bets all together weighted into a single number out of 100. Snapshot from early March 2026. Note that this leaderboard has been updated to reflect the OpenAI Pentagon deal and the QuitGPT movement that broke in the last 48 hours, because it materially changes a couple of these scores. Google / Gemini — 90/100 Strongest moat: Silicon + data breadth Microsoft / Copilot — 86/100 Strongest moat: Distribution + enterprise default Claude / Anthropic — 85/100 Strongest moat: Product velocity + trust positioning (newly elevated) Meta AI — 83/100 Strongest moat: Open source gravity + distribution ChatGPT / OpenAI — 79/100 Strongest moat: Developer ecosystem + brand (under pressure) Grok / xAI — 72/100 Strongest moat: Raw compute infrastructure Mistral — 67/100 Strongest moat: Regulatory moat in Europe Perplexity — 61/100 Strongest moat: Research UX, thin moat elsewhere If you followed this space last week, the most notable change here is that Claude and ChatGPT have swapped positions, and not for reasons that have anything to do with model quality or features. More on that below. WHO’S ACTUALLY WINNING EACH SPECIFIC BATTLE RIGHT NOW The mistake most comparisons make is treating this like one race with one finish line when it’s really more like six or seven races happening simultaneously on different tracks, and different companies are genuinely winning different ones right now which is part of what makes it so interesting. Current product quality: ChatGPT and Claude are essentially tied at the top and have been for a while now, with Gemini close behind and everything below that representing a meaningful step down in day to day usefulness for most people. Velocity, meaning who’s gaining the fastest right now: Claude has the clearest positive momentum followed by Copilot. Meta has the lowest velocity of anyone at this table despite being one of the most strategically important players here, but that’s not really a problem for them because they already have the distribution and don’t need to win the sprint. Agents and automation: Claude, Copilot, and ChatGPT are pulling ahead here. Claude is explicitly positioning itself as an orchestration layer across business apps, Copilot Tasks is making a serious enterprise automation push, and ChatGPT keeps expanding its connector ecosystem in ways that are starting to add up. Long context and document work: Gemini and Claude are both pulling away from the field. Gemini’s 1M token context window is a real technical differentiator and not just a marketing number. Claude close behind and improving fast on that dimension specifically. Research and citations: Perplexity’s game right now with Mistral catching up faster than most people in the US seem to have noticed. Creative and multimodal: Grok is actually moving faster here than its overall reputation suggests, especially on the video and audio generation side. ChatGPT and Gemini remain strong too. Developer mindshare: Meta through Llama and OpenAI through the API, with Claude Code quietly climbing among senior engineers specifically which matters more than it sounds like it does because of how those decisions actually get made at companies. Trust and ethics positioning: This was barely a category worth scoring six months ago and is now one of the most consequential dynamics in the consumer market. Claude is winning this category decisively right now and the gap just got a lot wider in the last 48 hours. THE OPENAI PENTAGON DEAL AND WHY IT ACTUALLY MATTERS FOR THE COMPETITIVE PICTURE This just happened and I don’t think most analysis has caught up to what it means structurally so I want to give it proper attention rather than just a footnote. Here’s the short version for anyone who missed it. The US Department of War approached both Anthropic and OpenAI about deploying their AI on classified networks. Anthropic said it had two hard limits it wouldn’t move on regardless of the contract size: no Claude for mass surveillance of US citizens, and no Claude for autonomous weapons. The DoW said those limits were unacceptable and that they needed full capabilities with safeguards removed. Anthropic declined. They reportedly threatened to designate Anthropic a supply chain risk, a label that’s historically been reserved for foreign adversaries and has never been applied to an American company before. Anthropic still declined. OpenAI took the deal. Sam Altman posted on X that the DoW had shown deep respect for safety and that there were still guardrails in place, but the language he used was vague enough that critics are pointing out it doesn’t actually rule out the surveillance and autonomous weapons use cases that Anthropic specifically drew a line on. Whether those concerns are fully justified is something you can debate, but the public reaction has been swift and pretty harsh regardless. Claude hit number one on the Apple App Store productivity charts almost immediately after this broke. The QuitGPT and CancelChatGPT hashtags went mainstream. Anthropic launched a memory import tool essentially the same week, making it easier to migrate your ChatGPT history over to Claude, which was either very well timed or very deliberately timed depending on how cynical you want to be about it. The reason this matters beyond the current news cycle is that trust is turning into a real competitive moat, and it’s one that’s hard to build back quickly once you’ve damaged it. OpenAI is a 730 billion dollar company backed by Amazon, SoftBank, and Nvidia. They can absorb a subscription cancellation wave. What’s harder to absorb is the shift in how enterprise procurement teams think about the vendor they’re putting inside their most sensitive workflows. The question isn’t whether power users cancel their twenty dollar monthly subscriptions. The question is whether the CTO of a mid sized company who’s about to sign a six figure enterprise contract thinks differently about OpenAI than they did two weeks ago. Based on what I’m seeing in how people are talking about this, I think some of them will. And that’s a slower moving but more structurally significant problem than the App Store charts. THE TRUST MOAT IS NOW A REAL COMPETITIVE CATEGORY AND CLAUDE IS WINNING IT For most of the last few years trust was something all the AI companies talked about in their marketing and basically nobody actually evaluated them on in any systematic way. That seems to be changing and the change is happening faster than most people expected. Anthropic’s positioning here isn’t accidental. They’ve been building toward this for a while with their interpretability research, their published safety work, and their explicit policy commitments around what Claude will and won’t be used for. The Pentagon situation is the moment where that positioning converted from a talking point into a demonstrated behavior under real pressure, which is a completely different thing. Plenty of companies claim they’d refuse a surveillance contract. Anthropic actually did it when it cost them a government deal and apparently some additional political heat from the current administration. The thing about trust moats is that they’re asymmetric. They take a long time to build and they can be damaged very quickly. OpenAI built a massive amount of goodwill over years of being the default, the underdog, the democratizing force in AI. Some of that goodwill is now being spent, and the pace at which they can earn it back depends a lot on what they actually do rather than what Sam Altman posts on X. Claude jumping to number one on the App Store is a real signal but it’s probably the least important version of what’s happening here. The more important version is what enterprise buyers, regulated industries, and privacy conscious organizations start doing over the next six to twelve months. Healthcare companies, legal firms, financial institutions, companies operating in Europe under GDPR, government contractors who work on civilian programs and have their own reputational considerations about the defense surveillance question. All of those buyers just got a new and very clear data point about how Anthropic and OpenAI behave differently under pressure. That’s a slow moving advantage that doesn’t show up in a benchmark or even in an App Store chart. But it’s real and it compounds. GOOGLE IS THE MOST CONFUSING STORY IN THIS WHOLE SPACE RIGHT NOW On paper Google should be running away with this and it’s not even close on paper. They have their own silicon in TPUs which means they’re not dependent on Nvidia the way literally every other lab at this table is. They have YouTube, probably the largest video training corpus on earth by a significant margin. They have Search, which is essentially decades worth of data on how humans ask questions and what kinds of answers actually satisfied them and made them stop searching. And they have Gmail, Android, Maps, Chrome, and the rest of the Google ecosystem feeding into this in ways that should be creating an insurmountable training data advantage. And yet most people treat Gemini like it’s fighting for third place. The TPU advantage specifically is the most underpriced factor in basically every AI analysis I’ve read and it drives me a little crazy that it doesn’t come up more. At inference scale, running your own chips at cost creates a structural moat that nobody can quickly replicate. A company that doesn’t pay Nvidia’s margin on every inference query has a fundamentally different cost structure than one that does, and that difference compounds over time in ways that start to look enormous once you’re talking about a billion daily users. The fact that Google hasn’t converted all of this into obvious product dominance yet is either a product execution problem of almost historic proportions or a very patient long game that we’re not fully seeing yet. I’m genuinely not sure which one it is. But I’d stop counting them out because the infrastructure advantage is real whether the product currently reflects it or not. THE xAI SITUATION IS GENUINELY STRANGE AND I DON’T THINK ENOUGH PEOPLE ARE ENGAGING WITH WHAT IT ACTUALLY MEANS Grok the product is mediocre and most people who’ve used it know this, but that’s almost beside the point when you look at what’s actually being built underneath it. xAI put together a cluster of reportedly 200,000 plus H100 and H200 GPUs in Memphis in under six months, which is an almost incomprehensible amount of compute assembled at a speed that honestly shouldn’t have been possible, and the fact that they did it tells you something important about what they’re actually trying to do here. Nobody builds something called Colossus to make a better chat assistant. That’s an AGI attempt with a chatbot bolted to the front of it as a product, and the current quality of Grok is basically irrelevant to evaluating xAI as a long term competitive threat. What they’re betting on isn’t the current product, it’s whether that training infrastructure pays off on the next generation of models or the one after that. If it does, the whole table gets reshuffled pretty quickly. If it doesn’t, they’ve built the world’s most expensive science experiment and Grok stays mediocre. The gap between the current product and the infrastructure sitting underneath it is the largest such gap at this table by a wide margin, and most analyses just quietly ignore it because it’s hard to score cleanly. That feels like a real mistake to me. META IS UNDERSCORED BY ABOUT 15 POINTS IN EVERY RANKING YOU’VE SEEN AND IT’S HONESTLY NOT THAT CLOSE If you ask most people to rank these platforms they’ll put Meta AI somewhere around fifth or sixth, and that’s almost entirely because they’re evaluating the product experience and the product experience is just fine, nothing special. But that’s genuinely the wrong thing to be looking at when you’re trying to figure out who’s actually well positioned here. Llama is the most downloaded AI model family in history. What that means in practice is that there are millions of developers who learned to think about AI using Meta’s architecture, who have existing codebases and fine tunes built around it, who have already been inside their companies advocating for Llama based solutions, and who carry all of that familiarity and those existing investments with them to every next job and every next project they work on. That’s not a small thing, that’s a compounding developer acquisition flywheel that most people are just not giving Meta credit for. This is exactly how Microsoft won enterprise computing. Not by having the best product at any given moment but by becoming the layer that everyone else builds on top of. Meta is executing that exact same playbook through open source in a way that’s more sophisticated than most coverage acknowledges. The other piece that doesn’t get discussed enough is that releasing model weights is also a regulatory hedge in a pretty meaningful way. You genuinely cannot ban a weight file the way you can shut down an API endpoint. The EU can regulate what OpenAI does with its API. Regulating distributed model weights sitting on hard drives all over the world is a fundamentally harder legal and practical problem, and whether Meta planned that specifically or it’s a happy side effect of the open source strategy, it’s a real structural advantage that other companies don’t have. Meta the product is a 6. Meta the platform strategy underneath it is easily a 9. Most rankings only ever see the first number. THE TRAINING DATA CONVERSATION THAT MOST ANALYSES JUST SKIP OVER ENTIRELY Data moats are real and they compound over time in ways that are hard to reverse, and the distribution of data advantages at this table is pretty uneven in ways worth understanding. Google’s advantage is breadth across decades. Search behavior and intent signals, video at YouTube scale, maps and spatial data, email and document writing patterns going back years. Microsoft’s edge is GitHub, which is how developers actually write code in the real world rather than how they write it in textbooks, plus LinkedIn for professional language and behavior, plus Office telemetry from hundreds of millions of people doing actual work. Meta has social and conversational data at a scale that genuinely has no equivalent anywhere, which is an incredible asset for understanding how humans actually communicate with each other. xAI has the real time Twitter firehose which is chaotic and noisy but genuinely unlike anything else anyone at this table has access to in terms of real time unfiltered human discourse. Anthropic has the least obvious data moat of any frontier lab here. Their bet is quality over quantity, more curated training, better signal to noise ratio. That’s a real philosophical choice and not just a gap they haven’t filled yet, but it does mean their long term advantages have to come from model architecture and safety research rather than from owning a proprietary data asset that compounds on its own. DEVELOPER ECOSYSTEMS ARE PROBABLY THE MOST CONSEQUENTIAL LONG TERM FACTOR AND GET ALMOST NO ATTENTION IN MAINSTREAM COVERAGE Two companies have genuinely locked in developer communities in ways that create compounding advantages that are hard to erode even if a competitor ships something technically better. Those two companies are Meta through Llama and OpenAI through the API ecosystem. OpenAI’s API is the default in a way that’s easy to underestimate if you’re not building things. Most tutorials assume it, most teams learn on it, most companies hiring someone to build AI products are hiring someone who already knows the OpenAI API better than any other, and that creates network effects that take a long time to unwind even when alternatives are genuinely good. This developer moat is probably the main reason OpenAI’s competitive position doesn’t fall further despite the trust issues described above. It’s a real and durable structural asset even in the middle of a bad news cycle. Claude is doing something interesting here that’s pretty easy to miss if you’re not paying attention to what senior engineers are actually saying to each other. Claude Code is building a reputation among that specific community as the environment developers genuinely prefer to work in, and I want to be specific about that word prefer rather than just use, because that distinction matters a lot when you’re thinking about which tools get advocated for internally and which ones get adopted at companies. Senior engineers are the people who make those decisions and word of mouth in those communities has outsized influence on what wins. The ethics story from this week will likely accelerate that sentiment further in technical communities that tend to care a lot about this kind of thing. Gemini’s developer tooling has gotten genuinely better over the past year and is pretty under discussed relative to how much it’s improved. Vertex AI is serious enterprise infrastructure and Google has mostly caught up here after playing catch up for a while. MISTRAL IS THE MOST UNDERVALUED BY AMERICAN ANALYSTS SPECIFICALLY AND I THINK IT’S LARGELY A CULTURAL BLIND SPOT Most AI coverage is American and treats the European market as secondary or just kind of ignores it, and that leads to a pretty consistent undervaluation of Mistral as a competitive force. Mistral is the EU’s preferred AI option by regulatory disposition. Their architecture is GDPR native in ways that American platforms have to retrofit after the fact, which is both technically awkward and politically awkward. If European data sovereignty requirements keep tightening, which seems like a pretty reasonable bet given the direction things have been moving, Mistral becomes the automatic default answer for a very significant chunk of enterprise AI spend across Europe without even having to win a competitive evaluation. They’re also moving faster than most people following this space seem to have noticed. Their Research mode product is genuinely catching up to Perplexity, and unlike Perplexity they have a real path to enterprise through both API and on-prem deployment that actually fits how European companies prefer to procure and deploy software. Not going to dominate globally, that’s probably not realistic. But as a European enterprise play they’re far more structurally sound than their global ranking suggests, and most American analysts covering this space are just not paying attention to the regulatory tailwind that’s quietly building under them. THE ACTUAL PICTURE WHEN YOU ADD ALL OF THIS UP Google and Microsoft are the two most structurally dangerous long term players here for completely different reasons. Google because of the silicon and data breadth advantages that haven’t fully shown up in the product yet but will. Microsoft because Copilot ships inside products that a billion people already use and have no real practical choice about, which is a distribution moat that is genuinely almost impossible for anyone else at this table to replicate. Claude has moved up in this updated scoring for reasons that have nothing to do with the model itself and everything to do with demonstrated behavior under pressure. If the trust moat holds and enterprise buyers respond the way early signals suggest they might, this is the beginning of a real structural shift rather than just a news cycle bump. ChatGPT is still the best product for a lot of use cases and has the strongest developer ecosystem at the table. The competitive position is not as dire as the QuitGPT movement might suggest. But there is now a crack in the foundation that wasn’t there two weeks ago, and the question is whether it widens or gets repaired. Meta is the most underscored player at this table and the argument for why is above. xAI is the biggest wildcard and probably the hardest to evaluate honestly because the product and the infrastructure are so disconnected right now. Mistral is the most undervalued if you’re only reading American tech press. And Perplexity has the best specialized research UX here and probably the thinnest overall structural moat, which is a tough combination because a larger player with more resources could build a comparable product in six months if they decided to prioritize it. THE THING I KEEP COMING BACK TO WITH ANTHROPIC Best model quality reputation at the table right now, real developer affection that’s been growing steadily, a safety research program that just proved its worth in a public and verifiable way rather than just as a PR talking point, and now a trust positioning that’s converting into actual App Store rankings and subscription migrations in real time. They’re also still the most infrastructure dependent of any frontier lab here. No silicon, no proprietary data moat at scale, no distribution default that puts them in front of users who didn’t specifically choose them, and a pretty heavy reliance on the AWS relationship for the compute that runs everything. If Amazon decided at some point to fully close the loop on their AI strategy, every piece they would need is sitting right there. Whether that’s a threat or an opportunity for Anthropic probably depends entirely on which side of that conversation you happen to be on, and it’s honestly the most interesting unresolved strategic question in this whole space to me right now. What this week added is a new and genuinely interesting wrinkle, which is that Anthropic now has a demonstrated willingness to say no to the most powerful government in the world over a matter of principle and absorb the consequences. That is an asset that is very hard to manufacture and very easy to destroy. Whether they can hold that line consistently as the pressure increases is the question worth watching. Curious what people think about whether the trust moat from the Pentagon situation is durable or whether it fades in three months when the next news cycle takes over. Also still interested in the Google silicon argument and whether TPU efficiency is as real in practice as it looks on paper. And whether the Llama developer moat actually holds over time or whether open source just means commoditized base models with no real loyalty once something technically better shows up.
 
-5h ago
+6h ago
 
 ---
 
@@ -107,14 +115,6 @@ how do you guys handle all these AI subscriptions? CLAUDE, ChatGpt, Gemini, Grok
 
 ---
 
-**[I built a tool to automate your workflow after recording yourself doing the task once (Open Source)](https://www.reddit.com/r/artificial/comments/1rhag6l/i_built_a_tool_to_automate_your_workflow_after/)**
-
-Hey everyone, I have been building this on this side for a couple of months now and finally want to get some feedback. I initially tried using Zapier/n8n to automate parts of my job but I found it quite hard to learn and get started. I think that the reason a lot of people don't automate more of their work is because the setting up the automation takes too long and is prone to breaking. That's why I built Automated. By recording your workflow once, you can then run it anytime. The system uses AI so that it can adapt to website changes and conditional logic. Github (to self host): https://github.com/r-muresan/automated Link (use hosted version): https://useautomated.com Would appreciate any feedback at all. Thanks!
-
-1d ago
-
----
-
 ---
 
 ## Google News: "ai"
@@ -123,35 +123,61 @@ Hey everyone, I have been building this on this side for a couple of months now 
 
 There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?
 
-BBC • 3h ago
+BBC • 5h ago
 
 ---
 
 **[China’s Parents Are Outsourcing the Homework Grind to A.I.](https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html)**
 
-The New York Times • 6h ago
+The New York Times • 8h ago
 
 ---
 
-**[I’m on the Meta Oversight Board. We need AI protections now | Suzanne Nossel](https://www.theguardian.com/commentisfree/2026/mar/02/meta-oversight-board-ai)**
+**[SEPTA begins using AI cameras on trolleys to ticket blocking vehicles; warning period ends April 1](https://6abc.com/post/septa-begins-using-ai-cameras-trolleys-ticket-blocking-vehicles-warning-period-ends-april-1/18667042/)**
 
-AI is transforming our world. Accepting independent oversight is the least companies can do to protect our rights
+SEPTA is now the first transit agency in the nation to utilize AI-powered cameras on trolleys to detect vehicles illegally blocking tracks and trolley zones in Philadelphia.
 
-The Guardian • 33m ago
-
----
-
-**[Why California is Reconsidering Nuclear Energy After 50-Year Ban](https://www.bloomberg.com/news/articles/2026-03-02/california-reconsiders-nuclear-energy-amid-ai-power-supply-crunch)**
-
-Bloomberg • 33m ago
+6abc Philadelphia • 29m ago
 
 ---
 
-**[AI-powered ticketing cameras on SEPTA trolleys go live as warning period begins](https://www.nbcphiladelphia.com/news/local/ai-powered-ticketing-cameras-on-septa-trolleys-go-live-as-warning-period-begins/4361618/)**
+**[Personal AI will be the biggest theme in AI this year, says Intelligent Alpha CEO Doug Clinton](https://www.cnbc.com/video/2026/03/02/personal-ai-will-be-the-biggest-theme-in-ai-this-year-says-intelligent-alpha-ceo-doug-clinton.html)**
 
-Starting Monday, AI-powered cameras inside SEPTA trolleys across the region will begin a 60-day ticketing period for illegally parked vehicles.
+Doug Clinton, Intelligent Alpha founder and CEO, joins 'Squawk Box' to discuss the latest market trends, impact of the Iran war on the tech sector, state of the AI trade, and more.
 
-NBC10 Philadelphia • 24m ago
+CNBC • 27m ago
+
+---
+
+**[CERN scientists use AI to reevaluate physics theories](https://www.yahoo.com/news/articles/cern-scientists-ai-reevaluate-physics-122700994.html)**
+
+Many of the theories physicists rely on are incomplete, and until a flaw is found which can reveal new physics, the field is somewhat stuck.
+
+Yahoo • 34m ago
+
+---
+
+**[US military reportedly used Claude in Iran strikes despite Trump’s ban](https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military)**
+
+Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’
+
+The Guardian • 10h ago
+
+---
+
+**[Anthropic’s Former Flagship AI Model Spends Its Retirement Blogging](https://www.extremetech.com/computing/anthropics-former-flagship-ai-model-spends-its-retirement-blogging)**
+
+Claude 3 Opus's Substack is more human‑directed than it sounds.
+
+extremetech.com • 1h ago
+
+---
+
+**[Can the Military Prevent AI From Going Full Terminator?](https://nymag.com/intelligencer/article/military-ai-iran-openai-claude.html)**
+
+Emelia Probasco, an expert on artificial intelligence in warfare, takes a less apocalyptic view.
+
+New York Magazine • 2h ago
 
 ---
 
@@ -159,39 +185,13 @@ NBC10 Philadelphia • 24m ago
 
 As if on cue, days after a viral essay warned of an artificial intelligence-fueled economic catastrophe calamity, the payments company Block said it was laying off nearly half its staff. The company explicitly linked the cuts to AI tools that have “changed what it means to build and run a company.”
 
-CNN • 1h ago
+CNN • 3h ago
 
 ---
 
-**["A stark contrast": Wall Street weighs winners and losers amid AI-driven tech sell-off](https://finance.yahoo.com/news/a-stark-contrast-wall-street-weighs-winners-and-losers-amid-ai-driven-tech-sell-off-160017420.html)**
+**[SAP Reorganizes Board as CEO Klein to Focus on Developing AI](https://www.bloomberg.com/news/articles/2026-03-02/sap-reorganizes-board-as-ceo-klein-to-focus-on-developing-ai)**
 
-Wall Street strategists see key distinctions among certain names in tech in the near term.
-
-Yahoo Finance • 13h ago
-
----
-
-**['Silent failure at scale': The AI risk that can tip the business world into disorder](https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html)**
-
-As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.
-
-CNBC • 21h ago
-
----
-
-**[China’s AI Arsenal](https://www.foreignaffairs.com/china/chinas-ai-arsenal)**
-
-The PLA’s tech strategy is working.
-
-Foreign Affairs • 6h ago
-
----
-
-**[Opinion | Elites fear the future economy. That bleeds.](https://www.washingtonpost.com/opinions/2026/03/01/artificial-intelligence-economy-anxiety-citrini-research/)**
-
-Artificial intelligence doomer narratives reflect personal fears, not economic reality.
-
-The Washington Post • 15h ago
+Bloomberg • 1h ago
 
 ---
 
@@ -203,7 +203,7 @@ The Washington Post • 15h ago
 
 Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.
 
-⬆️ 549 • 💬 291 • 23h ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
+⬆️ 555 • 💬 297 • 1d ago • [99helpers.com](https://99helpers.com/tools/ad-supported-chat)
 
 ---
 
@@ -211,7 +211,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.
 
-⬆️ 384 • 💬 302 • 21h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
+⬆️ 384 • 💬 302 • 22h ago • [Signal Through the Noise](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 
 ---
 
@@ -219,7 +219,7 @@ Writing code is easier than ever. Being a software engineer is harder than ever.
 
 AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.
 
-⬆️ 338 • 💬 191 • 1d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
+⬆️ 339 • 💬 191 • 2d ago • [nanoclaw.dev](https://nanoclaw.dev/blog/nanoclaw-security-model)
 
 ---
 
@@ -227,7 +227,7 @@ AI agents need a security model that assumes things will go wrong. The right res
 
 What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?
 
-⬆️ 326 • 💬 190 • 1d ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
+⬆️ 327 • 💬 190 • 1d ago • [Tom Wojcik](https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/)
 
 ---
 
@@ -235,7 +235,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.
 
-⬆️ 284 • 💬 260 • 11h ago • [GitHub](https://github.com/mandel-macaque/memento)
+⬆️ 317 • 💬 297 • 12h ago • [GitHub](https://github.com/mandel-macaque/memento)
 
 ---
 
@@ -247,13 +247,13 @@ Keep track of you codex sessions per commit. Contribute to mandel-macaque/mement
 
 **[AI is making junior devs useless](https://news.ycombinator.com/item?id=47206663)**
 
-⬆️ 190 • 💬 334 • 21h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
+⬆️ 192 • 💬 335 • 23h ago • [beabetterdev.com](https://beabetterdev.com/2026/03/01/ai-is-making-junior-devs-useless/)
 
 ---
 
 **[The Future of AI](https://news.ycombinator.com/item?id=47193476)**
 
-⬆️ 147 • 💬 109 • 2d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
+⬆️ 148 • 💬 109 • 2d ago • [lucijagregov.com](https://lucijagregov.com/2026/02/26/the-future-of-ai/)
 
 ---
 
@@ -273,13 +273,13 @@ Keep track of you codex sessions per commit. Contribute to mandel-macaque/mement
 
 ## YouTube Videos: "ai"
 
-**[Is AI Hiding Its Full Power? With Geoffrey Hinton](https://www.youtube.com/watch?v=l6ZcFa8pybE)**
+**[An AI CEO finally said something honest...](https://www.youtube.com/watch?v=ZM2c33qy16U)**
 
-Go to https://ground.news/startalk to stay fully informed on the latest Space and Science news. Save 40% off through our link for ...
+An honest take about AI. Join the community https://www.youtube.com/channel/UCXzw-OdotBUcNA9yhuYQBwA/join Topics: ...
 
-📺 StarTalk
+📺 Awesome
 
-👁️ 487K • 👍 15K • 💬 2K • ⏱️ 1:33:33 • 1d ago
+👁️ 17K • 👍 3K • 💬 264 • ⏱️ 8:07 • 3h ago
 
 ---
 
@@ -289,17 +289,17 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 244K • 👍 10K • 💬 878 • ⏱️ 15:25 • 2d ago
+👁️ 247K • 👍 10K • 💬 893 • ⏱️ 15:25 • 2d ago
 
 ---
 
-**[2 AI Video Generators That Are Actually FREE](https://www.youtube.com/watch?v=ksfv6ofykmQ)**
+**[Is AI Hiding Its Full Power? With Geoffrey Hinton](https://www.youtube.com/watch?v=l6ZcFa8pybE)**
 
-Try Nano Banana 2 on Higgsfield ...
+Go to https://ground.news/startalk to stay fully informed on the latest Space and Science news. Save 40% off through our link for ...
 
-📺 Malva AI
+📺 StarTalk
 
-👁️ 12K • 👍 455 • 💬 75 • ⏱️ 8:38 • 1d ago
+👁️ 520K • 👍 15K • 💬 2K • ⏱️ 1:33:33 • 1d ago
 
 ---
 
@@ -309,7 +309,7 @@ Main Channel @JackMorgan_RLP Buy a Caddy Daddy T-Shirt: https://jackmorganrlp.se
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 21K • 👍 812 • 💬 352 • ⏱️ 27:35 • 13h ago
+👁️ 22K • 👍 862 • 💬 370 • ⏱️ 27:35 • 15h ago
 
 ---
 
@@ -319,27 +319,27 @@ Check out Haven to put a stop to AI Art Theft & Surveillance today: ...
 
 📺 MonkeyExplains
 
-👁️ 214K • 👍 12K • 💬 2K • ⏱️ 14:41 • 1d ago
+👁️ 222K • 👍 12K • 💬 2K • ⏱️ 14:41 • 1d ago
 
 ---
 
-**[WHITE HOUSE Uses FAKE AI VIDEO To TRASH CANADIANS](https://www.youtube.com/watch?v=-VKtgIxj-5o)**
+**[AI Just Took Over. No One&#39;s In Charge.](https://www.youtube.com/watch?v=Ecmlh607KeA)**
 
-US government using fake AI video to insult CANADIANS. This could get really ugly. Analysis here. Fake AI video ...
+AI can now do your job, build apps, and crush markets. Meanwhile Wall Street is in a panic and the Pentagon just blacklisted ...
 
-📺 Claus Kellerman POV
+📺 CNBC
 
-👁️ 52K • 👍 7K • 💬 1K • ⏱️ 12:38 • 23h ago
+👁️ 79K • 👍 2K • 💬 280 • ⏱️ 39:40 • 1d ago
 
 ---
 
-**[AI on the Battlefield: How Claude Helped US Strike Iran | Vantage with Palki Sharma](https://www.youtube.com/watch?v=FX3x-k7vM7Y)**
+**[AI layoffs are just getting started](https://www.youtube.com/watch?v=RAa2m_Fp8U8)**
 
-Artificial intelligence is now part of the battlefield. During the strike on Iran, the United States used Anthropic's Claude platform to ...
+Abundance or Collapse: https://a.co/d/0cQgFdGH Join my exclusive community: https://farzad.fm Buy Matic: ...
 
-📺 Firstpost
+📺 Farzad
 
-👁️ 321K • 👍 4K • 💬 343 • ⏱️ 6:11 • 18h ago
+👁️ 23K • 👍 1K • 💬 223 • ⏱️ 20:52 • 1d ago
 
 ---
 
@@ -349,27 +349,27 @@ Legendary actor Morgan Freeman, who has starred in more than 100 movies in his s
 
 📺 CBS Mornings
 
-👁️ 297K • 👍 2K • 💬 396 • ⏱️ 6:34 • 2d ago
+👁️ 299K • 👍 2K • 💬 397 • ⏱️ 6:34 • 2d ago
 
 ---
 
-**[InternetOfBugs Is Lying About SciShow Lying About AI](https://www.youtube.com/watch?v=a6h15ewjLwM)**
+**[Cute Fruit Babies Eating Fruit | Oddly Satisfying AI](https://www.youtube.com/watch?v=VocL_BQ_mEs)**
 
-InternetOfBugs made two videos accusing SciShow, Kurzegsagt and Kyle Hill of lying about AI. His videos were mean-spirited ...
+OddlySatisfying #SatisfyingAI #CuteAI Enjoy this adorable and oddly satisfying AI compilation featuring anthropomorphic fruit ...
 
-📺 Siliconversations
+📺 Rapoh
 
-👁️ 57K • 👍 7K • 💬 1K • ⏱️ 16:12 • 1d ago
+👁️ 56K • 👍 144 • 💬 9 • ⏱️ 1:29 • 2d ago
 
 ---
 
-**[The Pentagon&#39;s AI Fight Was Never Just About Anthropic (w/ Hayden Field)](https://www.youtube.com/watch?v=ou3W6TD15v0)**
+**[REACTING TO AI VIDEOS ABOUT ME!](https://www.youtube.com/watch?v=uNmEwxnd234)**
 
-Hayden Field of The Verge joins Andrew Egger to discuss the Pentagon's fight with Anthropic and what it means for the future of AI ...
+Subscribe ❤️ ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ FOLLOW THESE TO KEEP UP TO DATE: ...
 
-📺 The Bulwark
+📺 Onevilage
 
-👁️ 72K • 👍 3K • 💬 314 • ⏱️ 24:24 • 1d ago
+👁️ 33K • 👍 2K • 💬 380 • ⏱️ 10:21 • 22h ago
 
 ---
 
@@ -385,7 +385,7 @@ Qwen3.5-35B-A3B is a 35B parameter vision-language model with a 3B activated MoE
 
 `image-text-to-text` `36.0B`
 
-⬇️ 587,006 • ❤️ 775 • 3d ago
+⬇️ 587,006 • ❤️ 784 • 3d ago
 
 ---
 
@@ -397,7 +397,7 @@ Qwen3.5-27B is a 27B parameter multimodal foundation model with an efficient hyb
 
 `image-text-to-text` `27.8B`
 
-⬇️ 260,326 • ❤️ 492 • 5d ago
+⬇️ 260,326 • ❤️ 495 • 5d ago
 
 ---
 
@@ -409,7 +409,7 @@ Qwen3.5-35B-A3B is a multimodal language model optimized with Unsloth Dynamic 2.
 
 `image-text-to-text` `34.7B`
 
-⬇️ 503,127 • ❤️ 421 • 2d ago
+⬇️ 503,127 • ❤️ 427 • 2d ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 134,356 • ❤️ 366 • 7h ago
+⬇️ 134,356 • ❤️ 367 • 9h ago
 
 ---
 
@@ -433,7 +433,7 @@ Qwen3.5-397B-A17B is a multimodal causal language model with a hybrid Gated Delt
 
 `image-text-to-text` `403.4B`
 
-⬇️ 1,144,830 • ❤️ 1,162 • 6d ago
+⬇️ 1,144,830 • ❤️ 1,164 • 6d ago
 
 ---
 
@@ -445,7 +445,7 @@ LocoOperator-4B is a 4B-parameter tool-calling agent optimized for multi-turn co
 
 `text-generation` `4.0B`
 
-⬇️ 2,743 • ❤️ 248 • 5d ago
+⬇️ 2,743 • ❤️ 251 • 5d ago
 
 ---
 
@@ -457,7 +457,7 @@ LFM2-24B-A2B is a 24B parameter hybrid model optimized for efficient on-device t
 
 `text-generation` `23.8B`
 
-⬇️ 10,797 • ❤️ 226 • 1d ago
+⬇️ 10,797 • ❤️ 227 • 2d ago
 
 ---
 
@@ -469,7 +469,7 @@ GLM-5 is a large language model optimized for complex systems engineering and lo
 
 `text-generation` `753.9B`
 
-⬇️ 196,173 • ❤️ 1,670 • 16d ago
+⬇️ 196,173 • ❤️ 1,673 • 16d ago
 
 ---
 
@@ -481,7 +481,7 @@ MiniMax-M2.5 is a text-generation model designed for producing human-like text. 
 
 `text-generation` `228.7B`
 
-⬇️ 323,865 • ❤️ 1,058 • 14d ago
+⬇️ 323,865 • ❤️ 1,059 • 14d ago
 
 ---
 
@@ -493,7 +493,7 @@ Nanbeige4.1-3B is a 3B parameter text-generation model excelling in complex reas
 
 `text-generation` `3.9B`
 
-⬇️ 364,685 • ❤️ 917 • 4d ago
+⬇️ 364,685 • ❤️ 918 • 4d ago
 
 ---
 
@@ -519,7 +519,7 @@ Monolingual ASR models trained on a balanced mix of high-quality, pseudo-labeled
 
 Moonshine, an encoder-decoder transformer architecture for speech recognition, uses Rotary Position Embedding, reducing compute requirements without decreasing accuracy.
 
-▲ 7 • 💬 0 • ⭐ 6,479 • 16mo ago
+▲ 7 • 💬 0 • ⭐ 6,621 • 16mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2410.15608) • [💻 code](https://github.com/usefulsensors/moonshine)
 
@@ -531,7 +531,7 @@ Moonshine, an encoder-decoder transformer architecture for speech recognition, u
 
 AutoDev is an AI-driven software development framework that automates complex engineering tasks within a secure Docker environment, achieving high performance in code and test generation.
 
-▲ 9 • 💬 1 • ⭐ 8,812 • 23mo ago
+▲ 9 • 💬 1 • ⭐ 8,863 • 23mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2403.08299) • [💻 code](https://github.com/vxcontrol/pentagi)
 
@@ -557,9 +557,22 @@ GUI-Owl and Mobile-Agent-v3 are open-source GUI agent models and frameworks that
 
 _paperbanana is an agentic framework that automates the creation of publication-ready academic illustrations using advanced vision-language models and image generation techniques.
 
-▲ 205 • 💬 13 • ⭐ 4,455 • 1mo ago
+▲ 205 • 💬 13 • ⭐ 4,514 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.23265) • [💻 code](https://github.com/dwzhu-pku/PaperBanana) • [🔗 project](https://dwzhu-pku.github.io/PaperBanana/)
+
+---
+
+**[Efficient Memory Management for Large Language Model Serving with
+  PagedAttention](https://huggingface.co/papers/2309.06180)**
+
+*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
+
+PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
+
+▲ 38 • 💬 1 • ⭐ 71,665 • 30mo ago
+
+[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -575,19 +588,6 @@ SmolDocling is a compact vision-language model that performs end-to-end document
 ▲ 149 • 💬 19 • ⭐ 54,526 • 11mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2503.11576) • [💻 code](https://github.com/docling-project/docling) • [🔗 project](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
-
----
-
-**[Efficient Memory Management for Large Language Model Serving with
-  PagedAttention](https://huggingface.co/papers/2309.06180)**
-
-*Woosuk Kwon, Zhuohan Li, Siyuan Zhuang et al. (9 authors)*
-
-PagedAttention algorithm and vLLM system enhance the throughput of large language models by efficiently managing memory and reducing waste in the key-value cache.
-
-▲ 38 • 💬 1 • ⭐ 71,593 • 30mo ago
-
-[🎓 arXiv](https://arxiv.org/abs/2309.06180) • [💻 code](https://github.com/vllm-project/vllm)
 
 ---
 
@@ -609,7 +609,7 @@ Mem0, a memory-centric architecture with graph-based memory, enhances long-term 
 
 A multi-agent framework using large language models for stock trading simulates real-world trading firms, improving performance metrics like cumulative returns and Sharpe ratio.
 
-▲ 19 • 💬 1 • ⭐ 31,038 • 14mo ago
+▲ 19 • 💬 1 • ⭐ 31,077 • 14mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2412.20138) • [💻 code](https://github.com/tauricresearch/tradingagents)
 
@@ -623,7 +623,7 @@ A multi-agent framework using large language models for stock trading simulates 
 
 The Qwen3-TTS series presents advanced multilingual text-to-speech models with voice cloning and controllable speech generation capabilities, utilizing dual-track LM architecture and specialized speech tokenizers for efficient streaming synthesis.
 
-▲ 69 • 💬 2 • ⭐ 8,838 • 1mo ago
+▲ 69 • 💬 2 • ⭐ 8,875 • 1mo ago
 
 [🎓 arXiv](https://arxiv.org/abs/2601.15621) • [💻 code](https://github.com/QwenLM/Qwen3-TTS)
 
@@ -639,7 +639,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 22.0k • 🔱 2.8k • 2h ago
+⭐ 22.1k • 🔱 2.8k • 12m ago
 
 ---
 
@@ -649,7 +649,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Python`
 
-⭐ 6.0k • 🔱 735 • 2d ago
+⭐ 6.1k • 🔱 737 • 2d ago
 
 ---
 
@@ -659,7 +659,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 4.4k • 🔱 440 • 1h ago
+⭐ 4.7k • 🔱 467 • 3m ago
 
 ---
 
@@ -669,7 +669,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.2k • 🔱 469 • 10h ago
+⭐ 4.3k • 🔱 474 • 11h ago
 
 ---
 
@@ -679,7 +679,7 @@ The agent-native LLM router empowering OpenClaw — by BlockRunAI
 
 `TypeScript` `ai` `ai-agents` `anthropic` `cost-optimization` `deepseek`
 
-⭐ 3.8k • 🔱 368 • 3h ago
+⭐ 3.8k • 🔱 368 • 42m ago
 
 ---
 
@@ -689,7 +689,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.7k • 🔱 291 • 1d ago
+⭐ 3.7k • 🔱 294 • 2d ago
 
 ---
 
@@ -699,7 +699,7 @@ MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No R
 
 `C` `ai` `assistant` `clawdbot` `edge-ai-agents` `memory`
 
-⭐ 3.7k • 🔱 488 • 1d ago
+⭐ 3.7k • 🔱 489 • 1d ago
 
 ---
 
@@ -709,7 +709,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.1k • 🔱 336 • 2h ago
+⭐ 3.2k • 🔱 338 • 14m ago
 
 ---
 
@@ -719,7 +719,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 224 • 9h ago
+⭐ 3.1k • 🔱 224 • 1h ago
 
 ---
 
@@ -729,7 +729,7 @@ The first AI that can earn its own existence, replicate, and evolve — without 
 
 `TypeScript`
 
-⭐ 3.0k • 🔱 585 • 2d ago
+⭐ 3.0k • 🔱 590 • 2d ago
 
 ---
 
