@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T17:12:41.000783+00:00'
+updated: '2026-03-02T18:04:13.380642+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
 - videos
-- social
 - news
+- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 17:12 UTC  
+**Last Updated:** March 02, 2026 at 18:04 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -36,13 +36,13 @@ Robotics research and industry news
 
 Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
 
-6h ago
+7h ago
 
 ---
 
 **[Zero Actuators, 70% Obstacle Clearance - Passive Claw-Wheel Mechanism Demo](https://www.reddit.com/r/robotics/comments/1riygtc/zero_actuators_70_obstacle_clearance_passive/)**
 
-8m ago
+1h ago
 
 ---
 
@@ -50,7 +50,7 @@ Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.co
 
 Arms are officially mounted to the chest 🙌 Upper body is coming together, now moving on to designing and building the legs. Slowly but surely. i’m pretty proud of how it’s turning out so far, especially since this is my first project of this scale.
 
-8h ago
+9h ago
 
 ---
 
@@ -64,7 +64,7 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 **[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
 
-11h ago
+12h ago
 
 ---
 
@@ -72,13 +72,13 @@ From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleks
 
 Helloes, I have decided to make a robot arm as a hobby project as it is something I've wanted since I was a wee teenager. I am *not* an electrical engineer. Whatever experience I have with low voltage electronics is from a hobby perspective. I'm not strong in math, but programming is my forte. Currently I have: 6x Micro Harmonic 26:1 gearboxes (mostly 3d printed) 6x TMC2209 stepper driver packages with heatsinks Variable bench power supply A working single joint using an arduino, a test KYSAN 12v stepper motor and the aforementioned driver Working servo based gripper Fusion 360, a 3d printer and patience I could probably get something working using the aforementioned arduino, but I am considering a control board like the BigTreeTech Manta M8P. What I am worried about is not getting something working, but rather making something safe, because I have close to zero knowledge about noise, power leaks, overheating protection and so on. I am looking to make a small, compact, precise robot. Payload does not need to be large. I believe I need: PSU Steppers Control board Joints of various sorts, I can make these Cable management IK software What would be the safest, less error prone way to continue?
 
-7h ago
+8h ago
 
 ---
 
 **[Spatio: A high-performance Spatio-Temporal database in Rust](https://www.reddit.com/r/robotics/comments/1riqa90/spatio_a_highperformance_spatiotemporal_database/)**
 
-5h ago
+6h ago
 
 ---
 
@@ -86,7 +86,7 @@ Helloes, I have decided to make a robot arm as a hobby project as it is somethin
 
 Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
 
-11h ago
+12h ago
 
 ---
 
@@ -94,13 +94,13 @@ Does anyone has used the visio? I'm currently building a drone that does not use
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-20h ago
+21h ago
 
 ---
 
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -112,7 +112,7 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 Drivers across the US are being upstaged by cutsey delivery robots as companies like Coco and Serve Robotics expand their operations.
 
-Futurism • 21h ago
+Futurism • 22h ago
 
 ---
 
@@ -128,7 +128,7 @@ CNBC • 1d ago
 
 Roboticist Benjie Holson created the “Humanoid Olympic Games” thinking home robots were 15 years away. Then they started folding the laundry
 
-Scientific American • 5h ago
+Scientific American • 6h ago
 
 ---
 
@@ -144,7 +144,7 @@ Los Angeles Times • 2d ago
 
 As-a-service models and success stories from peers are pushing SMEs to invest in automation technology within their supply chains alongside giants like Walmart and Amazon.
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -152,7 +152,7 @@ Yahoo Finance • 6h ago
 
 Students from St. Michael's Prep are back home this week after representing the state of Texas at the inaugural United States Governor's Cup FIRST Tech Challeng
 
-KEYE • 3h ago
+KEYE • 4h ago
 
 ---
 
@@ -180,7 +180,7 @@ WSJ • 2d ago
 
 The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
 
-Pittsburgh Post-Gazette • 18h ago
+Pittsburgh Post-Gazette • 19h ago
 
 ---
 

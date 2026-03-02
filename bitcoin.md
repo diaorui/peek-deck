@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T17:12:40.991530+00:00'
+updated: '2026-03-02T18:04:13.371413+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
+- news
 - cryptocurrency
 - social
-- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 17:12 UTC  
+**Last Updated:** March 02, 2026 at 18:04 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
-3h ago
+4h ago
 
 ---
 
@@ -105,13 +105,13 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour! 🧡 https://x.com/SteaknShake/status/2028322342275871122
 
-2h ago
+3h ago
 
 ---
 
 **[They will stay forever angry](https://www.reddit.com/r/Bitcoin/comments/1riadhx/they_will_stay_forever_angry/)**
 
-19h ago
+20h ago
 
 ---
 
@@ -119,7 +119,7 @@ Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour
 
 With everything going on around the Iran conflict, I was expecting a sharp sell-off across risk assets, especially crypto. But Bitcoin hasn’t really dipped in any meaningful way. Is this a sign of strength?
 
-6h ago
+7h ago
 
 ---
 
@@ -127,7 +127,7 @@ With everything going on around the Iran conflict, I was expecting a sharp sell-
 
 Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As of 3/1/2026, we hodl 720,737 BTC acquired for ~$54.77 billion at ~$75,985 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 2h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 3h ago
 
 ---
 
@@ -135,7 +135,7 @@ Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As 
 
 So I’m curious what people here think. When conflicts or wars happen, does Bitcoin actually benefit in the long run, or does it usually just get dragged down with the rest of the markets first? Kind of alarming but i know btc survived stuff already
 
-1h ago
+2h ago
 
 ---
 
@@ -143,13 +143,13 @@ So I’m curious what people here think. When conflicts or wars happen, does Bit
 
 "We're moving into the world of 24/7 assets like Bitcoin. We definitely need a 24/7 US dollar or 24/7 digital money." They recognize that bitcoin is here to stay, and stablecoins are more than a new fintech type innovation, they're the new rails. Citi laid out three things they're building: Institutional-grade custody They're integrating Bitcoin into the same framework applied to the $30 trillion in traditional assets their clients already hold A single service model across bitcoin, securities, and money. She also said that their clients don't want to manage wallets, keys, and addresses which isn't surprising. It's great to see banks building out bitcoin services because it normalizes bitcoin, and helps to change its perception from drug money/crypto/scams to another legitimate form of money that sits alongside dollars and equities in one's bank account. Longterm, our view is that the market will demand that Citi and every other bank adopt a multi-institution custody model, so that clients don't have to trust Citi alone, and can instead benefit from a trust-minimized solution with fault tolerance built in. This would be the best case scenario for bitcoin as it becomes adopted by banks and institutions. The keys remain decentralized. More transparency and control for clients. No single point of failure. Harder to censor.
 
-14m ago
+1h ago
 
 ---
 
 **[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-21h ago
+22h ago
 
 ---
 
@@ -159,7 +159,7 @@ So I’m curious what people here think. When conflicts or wars happen, does Bit
 
 **[Bitcoin Stages Tepid Recovery as Iran Strikes Stir Uncertainty](https://www.bloomberg.com/news/articles/2026-03-01/bitcoin-btc-recovery-looks-tepid-as-iran-strikes-stir-uncertainty)**
 
-Bloomberg • 20h ago
+Bloomberg • 21h ago
 
 ---
 
@@ -173,7 +173,7 @@ CoinDesk • 1d ago
 
 **[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
 
-Bloomberg • 1h ago
+Bloomberg • 2h ago
 
 ---
 
@@ -181,13 +181,13 @@ Bloomberg • 1h ago
 
 SkyBridge Capital founder Anthony Scaramucci once drew inspiration from Apple co-founder Steve Jobs' willingness to cannibalize the iPod to explain why he pivoted aggressively into Bitcoin. The ‘Shoot The iPod' Leadership Lesson In a video posted earlier this month, Scaramucci...
 
-Yahoo Finance • 42m ago
+Yahoo Finance • 1h ago
 
 ---
 
 **[Strategy Stock Rises. The World’s Largest Bitcoin Holder Doubles Down on Its Crypto Bet.](https://www.barrons.com/articles/strategy-doubles-down-on-crypto-bet-d2d51560?gaa_at=eafs&gaa_n=AWEtsqfGqzWfr-jpb2aHVsy0AHXE7lHm276oDue3iIxr6qXsqlgIrGYJr8Q6&gaa_ts=69a5c86f&gaa_sig=fqoPmpYduevmuZ3rh_D4Xb0E0X5Ux6gM95PEQLv8GqqBoJ0G5PQSvD7ijhzkR04rExJE-1CJvzCnhNmKj6D9Pg%3D%3D)**
 
-Barron's • 1h ago
+Barron's • 2h ago
 
 ---
 
@@ -195,13 +195,13 @@ Barron's • 1h ago
 
 It's worth holding highly resilient assets, but some are better than others.
 
-The Motley Fool • 10h ago
+The Motley Fool • 11h ago
 
 ---
 
 **[Five Bells Is Decentralizing Digital Assets Settlement Using Bitcoin](https://www.forbes.com/sites/digital-assets/2026/03/02/five-bells-is-decentralizing-digital-assets-settlement-using-bitcoin/)**
 
-Forbes • 3h ago
+Forbes • 4h ago
 
 ---
 
@@ -265,7 +265,7 @@ Links to major crypto world figures are just the start.
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 3 • 💬 2 • 18h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 3 • 💬 2 • 19h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -333,7 +333,7 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 8K • 👍 470 • 💬 52 • ⏱️ 6:46 • 7h ago
+👁️ 8K • 👍 470 • 💬 52 • ⏱️ 6:46 • 8h ago
 
 ---
 
@@ -353,7 +353,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 17K • 👍 2K • 💬 41 • ⏱️ 8:18 • 6h ago
+👁️ 17K • 👍 2K • 💬 41 • ⏱️ 8:18 • 7h ago
 
 ---
 
@@ -373,7 +373,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 17K • 👍 983 • 💬 107 • ⏱️ 9:16 • 14h ago
+👁️ 17K • 👍 983 • 💬 107 • ⏱️ 9:16 • 15h ago
 
 ---
 
@@ -393,7 +393,7 @@ CHECK OUT MY LINKTREE FOR EXCHANGES I USE, BONUSES, FREE VIDEOS, AND MORE! https
 
 📺 My Financial Friend
 
-👁️ 2K • 👍 265 • 💬 109 • ⏱️ 17:48 • 1h ago
+👁️ 2K • 👍 265 • 💬 109 • ⏱️ 17:48 • 2h ago
 
 ---
 
@@ -403,7 +403,7 @@ My Trading Signals https://discord.com/invite/jRAnCV9CTB Trade on MEXC ...
 
 📺 Road To $1 Million USD
 
-👁️ 5K • 👍 247 • 💬 27 • ⏱️ 6:30 • 18h ago
+👁️ 5K • 👍 247 • 💬 27 • ⏱️ 6:30 • 19h ago
 
 ---
 

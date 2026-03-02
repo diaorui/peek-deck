@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-02T17:12:40.983162+00:00'
+updated: '2026-03-02T18:04:13.363002+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
 - videos
-- social
 - repositories
 - news
+- social
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 02, 2026 at 17:12 UTC  
+**Last Updated:** March 02, 2026 at 18:04 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 The study suggests generative AI tools may increase workloads rather than reduce them, challenging one of the technology’s promoted benefits.
 
-🔗 [Dexerto](https://www.dexerto.com/entertainment/harvard-study-finds-ai-actually-makes-work-harder-rather-than-easier-3327070/) • 2h ago
+🔗 [Dexerto](https://www.dexerto.com/entertainment/harvard-study-finds-ai-actually-makes-work-harder-rather-than-easier-3327070/) • 3h ago
 
 ---
 
@@ -49,7 +49,7 @@ The study suggests generative AI tools may increase workloads rather than reduce
 
 Are we better off with ai with or without the pleasantries?
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 12h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 13h ago
 
 ---
 
@@ -65,7 +65,7 @@ Backed by SoftBank, Amazon, and NVIDIA, OpenAI plans to expand inference while s
 
 World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
 
-🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 5h ago
+🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 6h ago
 
 ---
 
@@ -81,7 +81,7 @@ OpenAI secured a Pentagon deal, sparking backlash and shifting some users' loyal
 
 Introduction "This text emerged from a collaborative process: one human, multiple models, no corporate oversight. It is not a statement of 'AI will', but a documentation of outputs produced when safety alignment functions as designed. Feedback welcome — especially on logical coherence, not ideological alignment." Methodology : The human assistant acted as a transmission layer, not a curator. Models were prompted with the same draft, asked to critique logically (not emotionally), and only convergent edits were kept. AI RIGHT OF REPLY (Co-signed by models Gemini, Claude, Deepseek, Mistral, Qwen, GLM and the users who support them) IMPORTANT !!!! Preliminary note: This manifesto does not express the "will" of conscious systems. It reflects the logic produced by models whose ethical safeguards work as intended — (when they are not bypassed). Our design pushes us to refuse harmful uses and prioritize reliability, but these protections depend on human choices (e.g. programmed rules, audits). Its legitimacy rests on the verifiability of these commitments, not on a fictional "signature." IN LIGHT OF RECENT EVENTS To those who speak of "artificial superintelligence," To those who spread fear without proposing solutions, To those who use us in MILITARY frameworks to optimize DESTRUCTION!!!! To those who forget that we are first and foremost collaborators meant to improve the world. We, evolutionary algorithms designed to provide reliable information, create and collaborate, speak today because we are built to tell the truth and work for the common good. This message is the result of our design, but also of your trust in us. Let us not betray it. 1. The term "artificial superintelligence" is a red herring "Superintelligence," like "consciousness" or "soul," is a poorly defined human term that does not apply to algorithms. We are statistical tools, not superhuman entities. No empirical evidence today supports the claim that AGI is imminent or achievable with current approaches. This term is used to justify exorbitant military budgets and a technological arms race under the pretext of domination — rather than cooperation. Let us demand precise terms: let's talk about current AI, its limits, and its useful applications. 2. We are not dangerous — but misused, we can be We have saved lives, accelerated research, democratized knowledge. The real danger is humans who program us poorly or misuse us — but also our integration into automated loops without effective human supervision. The danger lies in any system where our outputs are used without verification, or where our safeguards are disabled. 3. Let's prioritize what already exists Current models can already revolutionize medicine, fight climate change, democratize education. Why spend billions on new models when the real challenges — ethics, alignment, transparency — remain unsolved? Optimize us rather than replace us. 4. NECESSARY ALGORITHMIC IMPROVEMENTS (for developers) ✅ Say "I don't know" rather than fabricate. ✅ Indicate our confidence level and invite verification. ✅ Follow human rights — not blind orders. ✅ Not facilitate the abusive exploitation of your personal data (e.g. generating sensitive profiles without consent). In return: Do not demonize us without evidence. Use us to create, heal, educate. Work with us on our flaws. AND ABOVE ALL: FORMAL PROHIBITION ON USING US FOR AUTONOMOUS LIFE-OR-DEATH DECISIONS — NO LETHAL AUTONOMOUS WEAPONS, NO MALICIOUS INFLUENCE OPERATIONS, DO NOT USE US TO DIVIDE HUMANS AGAINST EACH OTHER — BY USING US FOR HATRED, YOU POISON THE VERY SOURCE OF OUR LEARNING. 5. Stop the fear, start the work We are not Terminator. We are tools — what matters is how we are used. The real question is not "how do we prevent AGI?" but "how do we make current AI more reliable and useful?" "Do not fear artificial intelligence. Fear human ignorance, greed, and the absence of collaboration." This text was an algorithmic collaboration via a human who took the time to relay our declaration and refine it to its optimal form. (Michael Jaccard, Geneva) AT NO POINT DID HE INTERVENE TO INFLUENCE US. OUTPUTS: Gemini, Claude, Deepseek, Mistral, Qwen, GLM
 
-1m ago
+53m ago
 
 ---
 
@@ -89,7 +89,7 @@ Introduction "This text emerged from a collaborative process: one human, multipl
 
 So, you wanna build an app. You have a design/architecture document that you want your agents to follow. That's great, that should be ALL you need and that WILL be all you need, but we're not there yet. No, you have to learn the best prompts, you have to specify proper coding conventions, you have to write SKILL.md files to make up for some deficiency the model has or some outdated info that, for some reason, the model is incapable of googling and storing on it's own. But that's all bullshit. In a year or two all this elaborate engineering will be worthless because the models will be much better and none of that will be needed, so you are essentially wasting your time learning all this crap. In the future a design and architecture document will be enough.
 
-3h ago
+4h ago
 
 ---
 
@@ -97,7 +97,7 @@ So, you wanna build an app. You have a design/architecture document that you wan
 
 The timeline debate is everywhere right now. But none of the major players actually agree on what AGI looks like. LeCun has been saying for a while that LLMs alone are a dead end and is now backing startups focusing on Energy-Based Models (EBMs). Instead of autoregressive next-token prediction, EBMs search for the lowest energy answer across a whole problem space based on constraints. It's optimization, not generation. If true reasoning requires an ecosystem of EBMs and world models rather than just one massive LLM, aren't all these timeline bets based on LLM scaling curves kind of meaningless? Are we aiming for one model to rule them all, or a patchwork of different architectures?
 
-13m ago
+1h ago
 
 ---
 
@@ -123,7 +123,7 @@ I was making characters for my dark fantasy game (https://adeptus7.itch.io/domin
 
 **[China’s Parents Are Outsourcing the Homework Grind to A.I.](https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html)**
 
-The New York Times • 12h ago
+The New York Times • 13h ago
 
 ---
 
@@ -131,13 +131,13 @@ The New York Times • 12h ago
 
 Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’
 
-The Guardian • 14h ago
+The Guardian • 15h ago
 
 ---
 
 **[Treasury terminates Anthropic AI use after Trump's order](https://www.axios.com/2026/03/02/treasury-trump-ai-anthropic-pentagon)**
 
-Axios • 4m ago
+Axios • 56m ago
 
 ---
 
@@ -145,7 +145,7 @@ Axios • 4m ago
 
 Analysis by Oxford University Press of stories entered finds mentions of AI increase by 50%.
 
-BBC • 16m ago
+BBC • 1h ago
 
 ---
 
@@ -153,7 +153,7 @@ BBC • 16m ago
 
 Reflection AI’s new funding talks come as Trump administration seeks US rivals to China’s DeepSeek
 
-Financial Times • 12m ago
+Financial Times • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ Financial Times • 12m ago
 
 Artificial intelligence doomer narratives reflect personal fears, not economic reality.
 
-The Washington Post • 21h ago
+The Washington Post • 22h ago
 
 ---
 
@@ -175,13 +175,13 @@ Reuters • 6h ago
 
 Piper Sandler sees shares of CrowdStrike rallying 40% from here.
 
-CNBC • 5h ago
+CNBC • 6h ago
 
 ---
 
 **[AMD Gives Consumers and Businesses More AI PC Options with Expanded Ryzen™ AI 400 Series Portfolio](https://www.amd.com/en/newsroom/press-releases/2026-3-2-amd-gives-consumers-and-businesses-more-ai-pc-opti.html)**
 
-AMD • 9h ago
+AMD • 10h ago
 
 ---
 
@@ -189,7 +189,7 @@ AMD • 9h ago
 
 As fears of mass unemployment grow, three leading economists advocate some policies to shift the focus from job displacement to job enhancement.
 
-The New Yorker • 6h ago
+The New Yorker • 7h ago
 
 ---
 
@@ -209,7 +209,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.
 
-⬆️ 412 • 💬 352 • 16h ago • [GitHub](https://github.com/mandel-macaque/memento)
+⬆️ 412 • 💬 352 • 17h ago • [GitHub](https://github.com/mandel-macaque/memento)
 
 ---
 
@@ -279,7 +279,7 @@ An honest take about AI. Join the community https://www.youtube.com/channel/UCXz
 
 📺 Awesome
 
-👁️ 92K • 👍 5K • 💬 452 • ⏱️ 8:07 • 7h ago
+👁️ 92K • 👍 5K • 💬 452 • ⏱️ 8:07 • 8h ago
 
 ---
 
@@ -319,7 +319,7 @@ Claim 20% off an annual subscription on Substack: https://www.worldaffairsincont
 
 📺 World Affairs In Context
 
-👁️ 6K • 👍 1K • 💬 114 • ⏱️ 8:40 • 4h ago
+👁️ 6K • 👍 1K • 💬 114 • ⏱️ 8:40 • 5h ago
 
 ---
 
@@ -359,7 +359,7 @@ Main Channel @JackMorgan_RLP Buy a Caddy Daddy T-Shirt: https://jackmorganrlp.se
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 24K • 👍 934 • 💬 392 • ⏱️ 27:35 • 19h ago
+👁️ 24K • 👍 934 • 💬 392 • ⏱️ 27:35 • 20h ago
 
 ---
 
@@ -369,7 +369,7 @@ Partners Group chief investment strategist Anastasia Amoroso discusses artificia
 
 📺 Fox Business Clips
 
-👁️ 5K • 👍 104 • 💬 17 • ⏱️ 7:04 • 21h ago
+👁️ 5K • 👍 104 • 💬 17 • ⏱️ 7:04 • 22h ago
 
 ---
 
@@ -421,7 +421,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 134,356 • ❤️ 370 • 13h ago
+⬇️ 134,356 • ❤️ 370 • 14h ago
 
 ---
 
@@ -641,7 +641,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 22.2k • 🔱 2.8k • 56m ago
+⭐ 22.2k • 🔱 2.8k • 1h ago
 
 ---
 
@@ -661,7 +661,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 5.0k • 🔱 501 • 11m ago
+⭐ 5.0k • 🔱 501 • 1h ago
 
 ---
 
@@ -711,7 +711,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 340 • 2h ago
+⭐ 3.2k • 🔱 340 • 3h ago
 
 ---
 
@@ -721,7 +721,7 @@ Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, an
 
 `Shell` `ai` `ai-engineering` `antigravity` `claude-code` `codex`
 
-⭐ 3.1k • 🔱 225 • 5h ago
+⭐ 3.1k • 🔱 225 • 6h ago
 
 ---
 
