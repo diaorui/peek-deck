@@ -3,22 +3,22 @@ title: Artificial Intelligence Dashboard
 description: AI news, discussions, and developments
 category: tech
 page_id: ai
-updated: '2026-03-02T20:43:28.459338+00:00'
+updated: '2026-03-02T21:35:18.442313+00:00'
 url: https://peekdeck.ruidiao.dev/ai.html
 markdown_url: https://peekdeck.ruidiao.dev/ai.md
 widgets: 7
 data_types:
-- social
-- repositories
-- videos
 - news
+- repositories
+- social
+- videos
 ---
 
 # Artificial Intelligence Dashboard
 
 AI news, discussions, and developments
 
-**Last Updated:** March 02, 2026 at 20:43 UTC  
+**Last Updated:** March 02, 2026 at 21:35 UTC  
 **HTML Version:** [ai.html](https://peekdeck.ruidiao.dev/ai.html)
 
 ---
@@ -41,7 +41,7 @@ AI news, discussions, and developments
 
 Are we better off with ai with or without the pleasantries?
 
-🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 16h ago
+🔗 [Live Science](https://www.livescience.com/technology/artificial-intelligence/scientists-made-ai-agents-ruder-and-they-performed-better-at-complex-reasoning-tasks) • 17h ago
 
 ---
 
@@ -49,7 +49,7 @@ Are we better off with ai with or without the pleasantries?
 
 I had some time and decided to write a short essay about some aspects that I do not see frequently. I would like to get your opinion on it: Modern artificial intelligence (AI) systems are gaining traction in companies. They are used as simple chatbots and for specific, well-defined tasks, but increasingly also as agents enriched with skills that allow them to act autonomously. However, unchecked AI in companies could become the largest intellectual property theft in history. This risk arises from uninformed employees, an overreliance on contracts instead of technical limitations, and the growing autonomy of AI systems. When AI is introduced in companies, employees often upload intellectual property without considering the consequences. This can be as simple as a spreadsheet containing a business plan or as critical as a patent application or sensitive private data. The extraordinary capabilities of AI, combined with pressure to increase efficiency, make it very tempting to use even highly confidential information. Companies are usually aware of these risks and often rely on contracts rather than technical safeguards to mitigate them. This blind trust in contracts can be dangerous. In the past, many companies have failed to respect contractual obligations and used collected data for their own gain. The Facebook–Cambridge Analytica data scandal is one well-known example. Additionally, data breaches are increasing every year, and AI companies have a strong incentive to acquire new training data. As the technology evolves, AI systems will become even more autonomous. Many AI agents already have access to entire codebases or complete knowledge repositories in order to provide better answers. The next step is that these agents will not only analyze information but also act independently. Tools such as OpenClaw demonstrate how powerful such systems can be, but when used incorrectly and without technical limitations, they can expose a company’s crown jewels to third parties. In conclusion, while the advantages of AI are significant and can deliver major efficiency gains, companies must use these systems carefully. Since employees are likely to upload sensitive information, organizations should prioritize strong technical limitations rather than relying solely on contractual agreements. This is especially important as more advanced agent-based systems are introduced. Companies must ensure that “reverse Robin Hood” does not steal their most valuable secrets.
 
-2h ago
+3h ago
 
 ---
 
@@ -57,7 +57,7 @@ I had some time and decided to write a short essay about some aspects that I do 
 
 Dashboard for near real-time GPU and LLM pricing across cloud and inference providers. You can view performance stats and pricing history, compare side by side, and bookmark to track any changes. https://deploybase.ai
 
-1h ago
+2h ago
 
 ---
 
@@ -65,7 +65,7 @@ Dashboard for near real-time GPU and LLM pricing across cloud and inference prov
 
 World models are advancing rapidly inside AI labs, but enterprise adoption is lagging due to compute costs, integration challenges, and unclear ROI.
 
-🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 8h ago
+🔗 [aitoolinsight](https://aitoolinsight.com/why-world-models-are-advancing-faster-than-enterprise-ai-adoption/) • 9h ago
 
 ---
 
@@ -73,7 +73,7 @@ World models are advancing rapidly inside AI labs, but enterprise adoption is la
 
 An interactive cinematic experience. Seven scenes. Generative music. One story. Turn your sound on.
 
-🔗 [claude-a-story-in-light.vercel.app](https://claude-a-story-in-light.vercel.app) • 3m ago
+🔗 [claude-a-story-in-light.vercel.app](https://claude-a-story-in-light.vercel.app) • 55m ago
 
 ---
 
@@ -81,7 +81,7 @@ An interactive cinematic experience. Seven scenes. Generative music. One story. 
 
 Having 15 years in tech consulting and now use various LLM for programming and management. So this a proven playbook for CFO and CTO how to reduce vendor dependency and automate delivery Decided to systematize my experience on how headcount can be changed so I ran numbers for a 100-person program (10 onsite senior devs/architects, 50 offshore devs, 25 QA, 5 BAs, 8 PMs, 2 program managers). Claude AI Replacement: 20 Claude agents replace 50 offshore devs 15 QA/BA tasks automated, humans retained for edge cases PM automation handles ~30–40% of workload Budget Impact: Original cost: $13.7M/year New cost with Claude: $6.5M/year → $7.2M savings (~53%) Productivity / Quality: Bug fixing & refactoring: 2–2.5× human throughput New feature dev: 2× human TDD/automated tests: 2× human coverage Quality matches or exceeds mid-senior offshore engineers Claude AI + retained humans = lower cost, higher throughput, strong TDD/testing, multi-file refactors, and still keeps humans for edge-case judgment.
 
-6m ago
+58m ago
 
 ---
 
@@ -113,7 +113,7 @@ Transfer your preferences, projects, and context from other AI providers into Cl
 
 So, you wanna build an app. You have a design/architecture document that you want your agents to follow. That's great, that should be ALL you need and that WILL be all you need, but we're not there yet. No, you have to learn the best prompts, you have to specify proper coding conventions, you have to write SKILL.md files to make up for some deficiency the model has or some outdated info that, for some reason, the model is incapable of googling and storing on it's own. But that's all bullshit. In a year or two all this elaborate engineering will be worthless because the models will be much better and none of that will be needed, so you are essentially wasting your time learning all this crap. In the future a design and architecture document will be enough.
 
-7h ago
+8h ago
 
 ---
 
@@ -123,7 +123,7 @@ So, you wanna build an app. You have a design/architecture document that you wan
 
 **[China’s Parents Are Outsourcing the Homework Grind to A.I.](https://www.nytimes.com/2026/03/02/world/asia/china-education-ai.html)**
 
-The New York Times • 15h ago
+The New York Times • 16h ago
 
 ---
 
@@ -131,7 +131,7 @@ The New York Times • 15h ago
 
 There is an exponential growth of AI 'slop' involving players and football clubs. Is there anything that can be done to stop it?
 
-BBC • 12h ago
+BBC • 13h ago
 
 ---
 
@@ -145,7 +145,7 @@ The Guardian • 1d ago
 
 **[Claude down: Anthropic AI not working in major outage](https://uk.finance.yahoo.com/news/claude-down-anthropic-ai-not-133029902.html)**
 
-Yahoo Finance UK • 7h ago
+Yahoo Finance UK • 8h ago
 
 ---
 
@@ -153,7 +153,7 @@ Yahoo Finance UK • 7h ago
 
 Claude climbs to top of app store charts in US and UK after being blacklisted by the Pentagon over ethics concerns
 
-The Guardian • 10m ago
+The Guardian • 1h ago
 
 ---
 
@@ -161,7 +161,7 @@ The Guardian • 10m ago
 
 Tech companies are pushing new health chatbots, but experts say you still need to talk to your doctor.
 
-PBS • 36m ago
+PBS • 1h ago
 
 ---
 
@@ -175,7 +175,7 @@ The Washington Post • 1d ago
 
 **[Dems tee up legislative response to Pentagon AI fight](https://www.axios.com/2026/03/02/dems-legislative-response-pentagon-ai-fight)**
 
-Axios • 1h ago
+Axios • 2h ago
 
 ---
 
@@ -183,7 +183,7 @@ Axios • 1h ago
 
 Piper Sandler sees shares of CrowdStrike rallying 40% from here.
 
-CNBC • 8h ago
+CNBC • 9h ago
 
 ---
 
@@ -191,7 +191,7 @@ CNBC • 8h ago
 
 As fears of mass unemployment grow, three leading economists advocate some policies to shift the focus from job displacement to job enhancement.
 
-The New Yorker • 9h ago
+The New Yorker • 10h ago
 
 ---
 
@@ -211,7 +211,7 @@ Experience what AI chat looks like with heavy advertising: banners, interstitial
 
 Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.
 
-⬆️ 447 • 💬 368 • 20h ago • [GitHub](https://github.com/mandel-macaque/memento)
+⬆️ 447 • 💬 368 • 21h ago • [GitHub](https://github.com/mandel-macaque/memento)
 
 ---
 
@@ -249,7 +249,7 @@ What's the effect of the prolonged AI usage among coders and is it tracked corre
 
 Apple announced the new iPad Air featuring M4 and more memory, giving users a big jump in performance and making it more versatile than ever.
 
-⬆️ 228 • 💬 370 • 6h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
+⬆️ 228 • 💬 370 • 7h ago • [Apple Newsroom](https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/)
 
 ---
 
@@ -281,7 +281,7 @@ An honest take about AI. Join the community https://www.youtube.com/channel/UCXz
 
 📺 Awesome
 
-👁️ 116K • 👍 6K • 💬 546 • ⏱️ 8:07 • 10h ago
+👁️ 116K • 👍 6K • 💬 546 • ⏱️ 8:07 • 11h ago
 
 ---
 
@@ -301,7 +301,7 @@ Sign up for the Gemini Credit Card: https://Gemini.com/graham | Let's talk about
 
 📺 Graham Stephan
 
-👁️ 260K • 👍 10K • 💬 940 • ⏱️ 15:25 • 2d ago
+👁️ 260K • 👍 10K • 💬 940 • ⏱️ 15:25 • 3d ago
 
 ---
 
@@ -341,7 +341,7 @@ Main Channel @JackMorgan_RLP Buy a Caddy Daddy T-Shirt: https://jackmorganrlp.se
 
 📺 Jack Morgan RLP 2.0
 
-👁️ 25K • 👍 974 • 💬 408 • ⏱️ 27:35 • 22h ago
+👁️ 25K • 👍 974 • 💬 408 • ⏱️ 27:35 • 23h ago
 
 ---
 
@@ -351,7 +351,7 @@ Anthropic's AI tool Claude went from chatbot to battlefield tool after it was us
 
 📺 MS NOW
 
-👁️ 35K • 👍 316 • 💬 120 • ⏱️ 7:00 • 18h ago
+👁️ 35K • 👍 316 • 💬 120 • ⏱️ 7:00 • 19h ago
 
 ---
 
@@ -423,7 +423,7 @@ Qwen3.5-122B-A10B is a 122B parameter multimodal causal language model with an e
 
 `image-text-to-text` `125.1B`
 
-⬇️ 134,356 • ❤️ 373 • 16h ago
+⬇️ 134,356 • ❤️ 373 • 17h ago
 
 ---
 
@@ -643,7 +643,7 @@ Fast, small, and fully autonomous AI assistant infrastructure — deploy anywher
 
 `Rust` `official` `official-website`
 
-⭐ 22.2k • 🔱 2.8k • 1h ago
+⭐ 22.2k • 🔱 2.8k • 2h ago
 
 ---
 
@@ -663,7 +663,7 @@ Your Personal AI Assistant; easy to install, deploy on your own machine or on th
 
 `Python`
 
-⭐ 5.1k • 🔱 510 • 3h ago
+⭐ 5.1k • 🔱 510 • 4h ago
 
 ---
 
@@ -673,7 +673,7 @@ Fastest, smallest, and fully autonomous AI assistant infrastructure written in Z
 
 `Zig` `ai` `assistant` `personal` `zig`
 
-⭐ 4.5k • 🔱 493 • 52m ago
+⭐ 4.5k • 🔱 493 • 1h ago
 
 ---
 
@@ -693,7 +693,7 @@ Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddi
 
 `Python` `agent-infrastructure` `ai-agent` `ai-search` `automation` `bilibili`
 
-⭐ 3.8k • 🔱 301 • 5h ago
+⭐ 3.8k • 🔱 301 • 6h ago
 
 ---
 
@@ -713,7 +713,7 @@ Your 24/7 all-scenario AI agent that gets work done for you.
 
 `TypeScript`
 
-⭐ 3.2k • 🔱 340 • 6h ago
+⭐ 3.2k • 🔱 340 • 7h ago
 
 ---
 

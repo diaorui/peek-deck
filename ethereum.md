@@ -3,22 +3,22 @@ title: Ethereum Dashboard
 description: Live Ethereum monitoring dashboard
 category: crypto
 page_id: ethereum
-updated: '2026-03-02T20:43:28.474268+00:00'
+updated: '2026-03-02T21:35:18.456960+00:00'
 url: https://peekdeck.ruidiao.dev/ethereum.html
 markdown_url: https://peekdeck.ruidiao.dev/ethereum.md
 widgets: 6
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Ethereum Dashboard
 
 Live Ethereum monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 20:43 UTC  
+**Last Updated:** March 02, 2026 at 21:35 UTC  
 **HTML Version:** [ethereum.html](https://peekdeck.ruidiao.dev/ethereum.html)
 
 ---
@@ -72,7 +72,7 @@ No max supply
 
 Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP Bookmarking this link will always bring you to the current daily: https://old.reddit.com/r/ethereum/about/sticky/?num=2 Please use this thread to discuss Ethereum topics, news, events, and even price! Price discussion posted elsewhere in the subreddit will continue to be removed. As always, be constructive. - Subreddit Rules Want to stake? Learn more at r/ethstaker Community Links Ethereum Jobs, Twitter EVMavericks YouTube, Discord, Doots Podcast Doots Website, Old Reddit Doots Extension by u/hanniabu Calendar: https://dailydoots.com/events/
 
-14h ago
+15h ago
 
 ---
 
@@ -80,13 +80,13 @@ Welcome to the Daily General Discussion on r/ethereum https://imgur.com/3y7vezP 
 
 In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a free permissionless market of block builders. This ensures that block builder centralization does not creep into staking centralization, but it leaves the question: what do we do about block builder centralization? And what are the other problems in the block building pipeline that need to be addressed, and how? This has both in-protocol and extra-protocol components. FOCIL FOCIL is the first step into in-protocol multi-participant block building. FOCIL lets 16 randomly-selected attesters each choose a few transactions, which must be included somewhere in the block (the block gets rejected otherwise). This means that even if 100% of block building is taken over by one hostile actor, they cannot prevent transactions from being included, because the FOCILers will push them in. "Big FOCIL" This is more speculative, but has been discussed as a possible next step. The idea is to make the FOCILs bigger, so they can include all of the transactions in the block. We avoid duplication by having the i'th FOCIL'er by default only include (i) txs whose sender address's first hex char is i, and (ii) txs that were around but not included in the previous slot. So at the cost of one slot delay, only censored txs risk duplication. Taking this to its logical conclusion, the builder's role could become reduced to ONLY including "MEV-relevant" transactions (eg. DEX arbitrage), and computing the state transition. Encrypted mempools Encrypted mempools are one solution being explored to solve "toxic MEV": attacks such as sandwiching and frontrunning, which are exploitative against users. If a transaction is encrypted until it's included, no one gets the opportunity to "wrap" it in a hostile way. The technical challenge is: how to guarantee validity in a mempool-friendly and inclusion-friendly way that is efficient, and what technique to use to guarantee that the transaction will actually get decrypted once the block is made (and not before). The transaction ingress layer One thing often ignored in discussions of MEV, privacy, and other issues is the network layer: what happens in between a user sending out a transaction, and that transaction making it into a block? There are many risks if a hostile actor sees a tx "in the clear" inflight: If it's a defi trade or otherwise MEV-relevant, they can sandwich it In many applications, they can prepend some other action which invalidates it, not stealing money, but "griefing" you, causing you to waste time and gas fees If you are sending a sensitive tx through a privacy protocol, even if it's all private onchain, if you send it through an RPC, the RPC can see what you did, if you send it through the public mempool, any analytics agency that runs many nodes will see what you did There has recently been increasing work on network-layer anonymization for transactions: exploring using Tor for routing transactions, ideas around building a custom ethereum-focused mixnet, non-mixnet designs that are more latency-minimized (but bandwidth-heavier, which is ok for transactions as they are tiny) like Flashnet, etc. This is an open design space, I expect the kohaku initiative @ncsgy will be interested in integrating pluggable support for such protocols, like it is for onchain privacy protocols. There is also room for doing (benign, pro-user) things to transactions before including them onchain; this is very relevant for defi. Basically, we want ideal order-matching, as a passive feature of the network layer without dependence on servers. Of course enabling good uses of this without enabling sandwiching involves cryptography or other security, some important challenges there. Long-term distributed block building There is a dream, that we can make Ethereum truly like BitTorrent: able to process far more transactions than any single server needs to ever coalesce locally. The challenge with this vision is that Ethereum has (and indeed a core value proposition is) synchronous shared state, so any tx could in principle depend on any other tx. This centralizes block building. "Big FOCIL" handles this partially, and it could be done extra-protocol too, but you still need one central actor to put everything in order and execute it. We could come up with designs that address this. One idea is to do the same thing that we want to do for state: acknowledge that >95% of Ethereum's activity doesn't really need full globalness, though the 5% that does is often high-value, and create new categories of txs that are less global, and so friendly to fully distributed building, and make them much cheaper, while leaving the current tx types in place but (relatively) more expensive. This is also an open and exciting long-term future design space.
 
-3h ago
+4h ago
 
 ---
 
 **[🚨 NEW WEBSITE. NEW BREAKDOWN SERIES.](https://www.reddit.com/r/ethereum/comments/1rj4hvn/new_website_new_breakdown_series/)**
 
-4m ago
+55m ago
 
 ---
 
@@ -94,7 +94,7 @@ In Glamsterdam, Ethereum is getting ePBS, which lets proposers outsource to a fr
 
 I’ve always felt that the biggest hurdle for decentralized identity was the "black box" problem of physical hardware. Most of us here have followed the controversy surrounding the Orb and the inherent trust issues that come with proprietary biometric sensors. It’s a classic security vs. privacy trade-off that usually ends in a stalemate. However, the recent open-sourcing of the Remainder prover marks a pretty significant shift in the technical architecture that’s worth looking at from an Ethereum-centric perspective. We’re essentially seeing the transition from "Trust the Gadget" to "Verify the Math". By moving the heavy ML processing from a physical device directly to a user’s smartphone using a GKR + Hyrax-based proof system, we’re entering the territory of production-grade ZK-ML on consumer hardware. This is a massive engineering leap because running machine learning layers locally and generating a ZK-proof that the model was executed correctly - without the raw data ever leaving the device - is exactly the kind of client-side verifiability we’ve been talking about for years. It turns the phone into a verifiable node of trust, potentially making the physical Orb a one-time gateway rather than a permanent central authority. This is more than just an update to a single project; it’s a high-stakes stress test for ZK-SNARKs on the edge. If we can prove that high-performance provers can handle complex ML inferences on mobile GPUs without compromising privacy or draining the battery, it changes the game for everything from Proof-of-Personhood to private DAO voting. It’s a fascinating pivot from hardware-centric identity to a math-first approach, and I’m curious if this finally bridges the gap for those who were previously put off by the centralized nature of the initial setup.
 
-20m ago
+1h ago
 
 ---
 
@@ -102,7 +102,7 @@ I’ve always felt that the biggest hurdle for decentralized identity was the "b
 
 I've been a crypto developer for about 10 years, so I don't think I can answer this question to myself anymore. and most of my social circle is developers as well so it's kind of the same thing. I'm trying to figure out if (or what anecdotal percentage of) non-developers have any desire to create smart contracts. Or rather, just the desire to create non-template crypto projects. (Full transparency: this is related to something I'm building, but I don't want to promote it here because I'm really just looking to have a discussion) Have you ever wanted to create a crypto project but felt like you couldn't because of the skill gap?
 
-18h ago
+19h ago
 
 ---
 
@@ -154,7 +154,7 @@ Piper Merriam deployed the IndividualityTokenRoot contract in September 2016 for
 
 Bitcoin and other crypto funds rebounded with $1 billion worth of inflows last week, ending a five-week, $4 billion losing streak.
 
-Decrypt • 4h ago
+Decrypt • 5h ago
 
 ---
 
@@ -162,7 +162,7 @@ Decrypt • 4h ago
 
 The binary tree proposal is a concrete, in-progress effort, while the VM transition remains more speculative and lacks broad consensus among developers.
 
-The Block • 23h ago
+The Block • 1d ago
 
 ---
 
@@ -170,7 +170,7 @@ The Block • 23h ago
 
 Another focus of his post is so-called “toxic MEV,” where traders exploit visibility into pending transactions to front-run or “sandwich” users’ trades.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
 
 ---
 
@@ -178,7 +178,7 @@ CoinDesk • 1h ago
 
 The Glamsterdam upgrade will boost Ethereum's censorship-resistance, but a proposed mechanism called ePBS could cause centralization.
 
-The Block • 16m ago
+The Block • 1h ago
 
 ---
 
@@ -186,7 +186,7 @@ The Block • 16m ago
 
 Key PointsXRP will soon have an even more sophisticated regulatory compliance suite.
 
-Nasdaq • 14h ago
+Nasdaq • 15h ago
 
 ---
 
@@ -194,7 +194,7 @@ Nasdaq • 14h ago
 
 Publicly traded Ethereum treasury BitMine Immersion Technologies added to its ETH stack last week despite its recent decline.
 
-Yahoo Finance • 5h ago
+Yahoo Finance • 6h ago
 
 ---
 
@@ -202,7 +202,7 @@ Yahoo Finance • 5h ago
 
 Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- New Ethereum Based Crypto Pepeto just broke past $7.403 million in presale funding after the late...
 
-markets.businessinsider.com • 20h ago
+markets.businessinsider.com • 21h ago
 
 ---
 
@@ -224,7 +224,7 @@ TradingView • 1d ago
 
 **[Ethereum Mini Trust Outflows Hint at Growing Jitters Despite Modest Scale](https://www.tipranks.com/news/cryptocurrencies/ethereum-mini-trust-outflows-hint-at-growing-jitters-despite-modest-scale)**
 
-TipRanks • 10h ago
+TipRanks • 11h ago
 
 ---
 
@@ -238,7 +238,7 @@ Iran, middle east, and so on are not helping Bitcoin. Here is why world war 3 na
 
 📺 Thomas Kralow
 
-👁️ 21K • 👍 3K • 💬 61 • ⏱️ 8:18 • 9h ago
+👁️ 21K • 👍 3K • 💬 61 • ⏱️ 8:18 • 10h ago
 
 ---
 
@@ -258,7 +258,7 @@ This video provides a professional Elliott Wave and technical analysis of Ethere
 
 📺 More Crypto Online
 
-👁️ 1K • 👍 112 • 💬 1 • ⏱️ 5:20 • 6h ago
+👁️ 1K • 👍 112 • 💬 1 • ⏱️ 5:20 • 7h ago
 
 ---
 
@@ -278,7 +278,7 @@ Get $450 Off Our New AI Indicators: https://tradeconfidentportal.io/indicators J
 
 📺 Trade Confident
 
-👁️ 74 • 👍 4 • 💬 2 • ⏱️ 5:09 • 1h ago
+👁️ 74 • 👍 4 • 💬 2 • ⏱️ 5:09 • 2h ago
 
 ---
 
@@ -288,7 +288,7 @@ I'm giving away my Weekly Trading Strategy + my new book Money Game FREE ...
 
 📺 MONEY GAME
 
-👁️ 5K • 👍 191 • 💬 44 • ⏱️ 36:59 • 10h ago
+👁️ 5K • 👍 191 • 💬 44 • ⏱️ 36:59 • 11h ago
 
 ---
 
@@ -308,7 +308,7 @@ BITCOIN & CRYPTO: This Could Change EVERYTHING!!! - Bitcoin News Today, Ethereum
 
 📺 Crypto World
 
-👁️ 8K • 👍 272 • 💬 75 • ⏱️ 15:02 • 20h ago
+👁️ 8K • 👍 272 • 💬 75 • ⏱️ 15:02 • 21h ago
 
 ---
 
@@ -318,7 +318,7 @@ ETHEREUM ETH PRICE PREDICTION 2026 Join the Premium Signal Group for trade setup
 
 📺 Cilinix Crypto
 
-👁️ 190 • 👍 15 • 💬 1 • ⏱️ 5:25 • 10h ago
+👁️ 190 • 👍 15 • 💬 1 • ⏱️ 5:25 • 11h ago
 
 ---
 
@@ -328,7 +328,7 @@ Premium Custody Accounts + Cryptocurrency and Precious Metal IRA's ZERO Monthly 
 
 📺 The James Rule Crypto Show
 
-👁️ 316 • 👍 54 • 💬 7 • ⏱️ 10:34 • 5h ago
+👁️ 316 • 👍 54 • 💬 7 • ⏱️ 10:34 • 6h ago
 
 ---
 

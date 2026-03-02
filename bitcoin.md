@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T20:43:28.468237+00:00'
+updated: '2026-03-02T21:35:18.450881+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- social
-- videos
 - news
 - cryptocurrency
+- social
+- videos
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 20:43 UTC  
+**Last Updated:** March 02, 2026 at 21:35 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -81,7 +81,7 @@ Rank #1
 
 Thailand has officially introduced a 0% capital gains tax policy that applies to Bitcoin transactions. From a Bitcoin perspective, this is a notable development. Tax treatment plays a major role in adoption, and removing capital gains tax can reduce friction for individuals and businesses using Bitcoin. It will be interesting to see whether this leads to increased Bitcoin activity locally, and whether other jurisdictions consider similar approaches. Do you think tax policy like this has a meaningful long-term impact on Bitcoin adoption?
 
-7h ago
+8h ago
 
 ---
 
@@ -89,7 +89,7 @@ Thailand has officially introduced a 0% capital gains tax policy that applies to
 
 When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept trading. Here's why that matters more than any price chart right now.
 
-🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 9h ago
+🔗 [DailyCoinPost](https://dailycoinpost.com/dubai-closed-stock-market-bitcoin-never-closes/) • 10h ago
 
 ---
 
@@ -97,7 +97,7 @@ When missiles hit the Gulf and Dubai shut its stock exchange, Bitcoin kept tradi
 
 It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
 
-19h ago
+20h ago
 
 ---
 
@@ -105,13 +105,13 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour! 🧡 https://x.com/SteaknShake/status/2028322342275871122
 
-6h ago
+7h ago
 
 ---
 
 **[Bitcoin demonetizes violence and it monetizes peace and love](https://www.reddit.com/r/Bitcoin/comments/1rj3tub/bitcoin_demonetizes_violence_and_it_monetizes/)**
 
-28m ago
+1h ago
 
 ---
 
@@ -119,13 +119,13 @@ Starting March 1, ALL hourly employees earn a Bitcoin bonus of 21 cents per hour
 
 Strategy has acquired 3,015 BTC for ~$204.1 million at ~$67,700 per bitcoin. As of 3/1/2026, we hodl 720,737 BTC acquired for ~$54.77 billion at ~$75,985 per bitcoin.
 
-🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 6h ago
+🔗 [Strategy](https://www.strategy.com/press/strategy-acquires-3015-btc-now-holds-720737-btc_03-02-2026) • 7h ago
 
 ---
 
 **[They will stay forever angry](https://www.reddit.com/r/Bitcoin/comments/1riadhx/they_will_stay_forever_angry/)**
 
-22h ago
+23h ago
 
 ---
 
@@ -141,7 +141,7 @@ So I’m curious what people here think. When conflicts or wars happen, does Bit
 
 With everything going on around the Iran conflict, I was expecting a sharp sell-off across risk assets, especially crypto. But Bitcoin hasn’t really dipped in any meaningful way. Is this a sign of strength?
 
-10h ago
+11h ago
 
 ---
 
@@ -149,7 +149,7 @@ With everything going on around the Iran conflict, I was expecting a sharp sell-
 
 I'm thankful that Bitcoin inspired me to save. Before BTC, I never felt much enthusiasm for saving money and buying investments. It was more like the responsible, adult, thing to do. Since discovering BTC, I'm always considering how to better allocate funds and manage expenses because I could be stacking more sats. Bitcoin inspired me to learn about economics and global monetary systems. All fiat currencies experience hyperinflation over longer periods of time. Bitcoin has also taught me to not chase FOMO and, instead, buy into FUD. I've gotten really good at denying myself the urge to quickly buy green pumps. I save my dollars and then on the worst red days/week, scale into buying more sats. Bitcoin doesn't have to reach $500k to change my life. It already has in many other ways. For people starting right now, you're so lucky to have a $60-70k BTC range to accumulate. The bear markets are brutal but they allow you to capture the gains on the upside. Stay humble, stack sats.
 
-1h ago
+2h ago
 
 ---
 
@@ -161,7 +161,7 @@ I'm thankful that Bitcoin inspired me to save. Before BTC, I never felt much ent
 
 Bitcoin traded erratically on Saturday after US-Israel strikes began early in the day.  Prices initially slid, then firmed as rumors spread that Iran’s supreme leader Ayatollah Ali Khamenei had been killed.  After Iranian officials confirmed his death, Bitcoin briefly touched $68,196 before reversing to about $65,300 by 4 p.m. Sunday in New York, down 2.1%.
 
-Yahoo Finance • 23h ago
+Yahoo Finance • 1d ago
 
 ---
 
@@ -169,7 +169,7 @@ Yahoo Finance • 23h ago
 
 CNBC’s “Power Lunch” team discusses cryptocurrencies, bitcoin and more with Jan van Eck, CEO of VanEck Funds.
 
-CNBC • 39m ago
+CNBC • 1h ago
 
 ---
 
@@ -177,7 +177,7 @@ CNBC • 39m ago
 
 Publicly traded Bitcoin treasury ProCap Financial boosted its BTC stash to $376 million as it continues buying back its own shares.
 
-Yahoo Finance • 45m ago
+Yahoo Finance • 1h ago
 
 ---
 
@@ -191,7 +191,7 @@ CoinDesk • 1h ago
 
 **[Saylor’s Strategy Steps Up Bitcoin Buys by Using Common Shares](https://www.bloomberg.com/news/articles/2026-03-02/saylor-s-strategy-mstr-steps-up-bitcoin-btc-buys-by-using-common-shares)**
 
-Bloomberg.com • 5h ago
+Bloomberg.com • 6h ago
 
 ---
 
@@ -199,7 +199,7 @@ Bloomberg.com • 5h ago
 
 Strategy's holdings account for more than 3.4% of the total 21 million bitcoin supply — worth around $48 billion.
 
-The Block • 7h ago
+The Block • 8h ago
 
 ---
 
@@ -207,7 +207,7 @@ The Block • 7h ago
 
 Bitcoin’s recent downturn could be just like Apple’s (NASDAQ:AAPL) in 2012, according to Strategy (NASDAQ:MSTR) Chair Michael Saylor. Bitcoin’s recent nearly 47% drawdown from its record price of $126,000 in October is similar to Apple’s stock crash between 2012 and...
 
-Yahoo Finance • 6h ago
+Yahoo Finance • 7h ago
 
 ---
 
@@ -215,7 +215,7 @@ Yahoo Finance • 6h ago
 
 As the notoriously volatile asset class struggles and Texas' investment heads south, critics say 'I told you so.'
 
-Dallas News • 3h ago
+Dallas News • 4h ago
 
 ---
 
@@ -273,7 +273,7 @@ Links to major crypto world figures are just the start.
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 3 • 💬 2 • 21h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 3 • 💬 2 • 22h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -321,7 +321,7 @@ War headlines are crushing markets and Bitcoin just dropped fast. But while ever
 
 📺 Simply Bitcoin
 
-👁️ 38K • 👍 2K • 💬 216 • ⏱️ 18:43 • 20h ago
+👁️ 38K • 👍 2K • 💬 216 • ⏱️ 18:43 • 21h ago
 
 ---
 
@@ -341,7 +341,7 @@ Bitcoin usually gets a rally into early March, then forms a lower high and goes 
 
 📺 Benjamin Cowen
 
-👁️ 20K • 👍 2K • 💬 135 • ⏱️ 21:27 • 3h ago
+👁️ 20K • 👍 2K • 💬 135 • ⏱️ 21:27 • 4h ago
 
 ---
 
@@ -361,7 +361,7 @@ Bitcoin Market Update iTrust Capital – $100 Bonus (Crypto IRA & Custody Accoun
 
 📺 Aaron Bennett
 
-👁️ 10K • 👍 514 • 💬 58 • ⏱️ 6:46 • 11h ago
+👁️ 10K • 👍 514 • 💬 58 • ⏱️ 6:46 • 12h ago
 
 ---
 
@@ -371,7 +371,7 @@ Everyone from mainstream media to the "permabears" has been screaming about a ma
 
 📺 Discover Crypto
 
-👁️ 8K • 👍 396 • ⏱️ 1:57:53 • 3h ago
+👁️ 8K • 👍 396 • ⏱️ 1:57:53 • 4h ago
 
 ---
 
@@ -381,7 +381,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 16K • 👍 939 • 💬 30 • ⏱️ 51:28 • 4h ago
+👁️ 16K • 👍 939 • 💬 30 • ⏱️ 51:28 • 5h ago
 
 ---
 
@@ -401,7 +401,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 18K • 👍 987 • 💬 100 • ⏱️ 9:16 • 18h ago
+👁️ 18K • 👍 987 • 💬 100 • ⏱️ 9:16 • 19h ago
 
 ---
 
