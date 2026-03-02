@@ -3,21 +3,21 @@ title: Robotics Dashboard
 description: Robotics research and industry news
 category: tech
 page_id: robotics
-updated: '2026-03-02T10:43:47.975369+00:00'
+updated: '2026-03-02T11:33:11.173188+00:00'
 url: https://peekdeck.ruidiao.dev/robotics.html
 markdown_url: https://peekdeck.ruidiao.dev/robotics.md
 widgets: 3
 data_types:
+- social
 - news
 - videos
-- social
 ---
 
 # Robotics Dashboard
 
 Robotics research and industry news
 
-**Last Updated:** March 02, 2026 at 10:43 UTC  
+**Last Updated:** March 02, 2026 at 11:33 UTC  
 **HTML Version:** [robotics.html](https://peekdeck.ruidiao.dev/robotics.html)
 
 ---
@@ -32,33 +32,19 @@ Robotics research and industry news
 
 ## Reddit: r/robotics
 
+**[AEON with a self-service battery swapping system located on the chest (with a key-like clip on the wrist)](https://www.reddit.com/r/robotics/comments/1ripizk/aeon_with_a_selfservice_battery_swapping_system/)**
+
+Hexagon website: https://robotics.hexagon.com/ AEON: https://robotics.hexagon.com/product/ Previous post: BMW is launching a pilot at Plant Leipzig in Germany to deploy "humanoid" robots using Hexagon’s "AEON": https://www.reddit.com/r/robotics/comments/1rh04zz/bmw_is_launching_a_pilot_at_plant_leipzig_in/
+
+52m ago
+
+---
+
 **[A small industrial robot arm, built for sub-micrometer precision by Oleksandr Stepanenko](https://www.reddit.com/r/robotics/comments/1rhuac0/a_small_industrial_robot_arm_built_for/)**
 
 From Ilir Aliu on 𝕏: https://x.com/IlirAliu_/status/2027459505739509818 Oleksandr Stepanenko on: 𝕏: https://x.com/olekstepanenko Youtube: https://www.youtube.com/@OleksandrStepanenko
 
-23h ago
-
----
-
-**[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
-
-5h ago
-
----
-
-**[DIY Robot arm help](https://www.reddit.com/r/robotics/comments/1rio7bj/diy_robot_arm_help/)**
-
-Helloes, I have decided to make a robot arm as a hobby project as it is something I've wanted since I was a wee teenager. I am *not* an electrical engineer. Whatever experience I have with low voltage electronics is from a hobby perspective. I'm not strong in math, but programming is my forte. Currently I have: 6x Micro Harmonic 26:1 gearboxes (mostly 3d printed) 6x TMC2209 stepper driver packages with heatsinks Variable bench power supply A working single joint using an arduino, a test KYSAN 12v stepper motor and the aforementioned driver Working servo based gripper Fusion 360, a 3d printer and patience I could probably get something working using the aforementioned arduino, but I am considering a control board like the BigTreeTech Manta M8P. What I am worried about is not getting something working, but rather making something safe, because I have close to zero knowledge about noise, power leaks, overheating protection and so on. I am looking to make a small, compact, precise robot. Payload does not need to be large. I believe I need: PSU Steppers Control board Joints of various sorts, I can make these Cable management IK software What would be the safest, less error prone way to continue?
-
-1h ago
-
----
-
-**[Are there any sensor can be used without gps?](https://www.reddit.com/r/robotics/comments/1rik464/are_there_any_sensor_can_be_used_without_gps/)**
-
-Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
-
-5h ago
+1d ago
 
 ---
 
@@ -70,9 +56,37 @@ Arms are officially mounted to the chest 🙌 Upper body is coming together, now
 
 ---
 
+**[Experiment: OpenServoCore update - live telemetry demo](https://www.reddit.com/r/robotics/comments/1rika9r/experiment_openservocore_update_live_telemetry/)**
+
+6h ago
+
+---
+
+**[Spatio: A high-performance Spatio-Temporal database in Rust](https://www.reddit.com/r/robotics/comments/1riqa90/spatio_a_highperformance_spatiotemporal_database/)**
+
+9m ago
+
+---
+
+**[DIY Robot arm help](https://www.reddit.com/r/robotics/comments/1rio7bj/diy_robot_arm_help/)**
+
+Helloes, I have decided to make a robot arm as a hobby project as it is something I've wanted since I was a wee teenager. I am *not* an electrical engineer. Whatever experience I have with low voltage electronics is from a hobby perspective. I'm not strong in math, but programming is my forte. Currently I have: 6x Micro Harmonic 26:1 gearboxes (mostly 3d printed) 6x TMC2209 stepper driver packages with heatsinks Variable bench power supply A working single joint using an arduino, a test KYSAN 12v stepper motor and the aforementioned driver Working servo based gripper Fusion 360, a 3d printer and patience I could probably get something working using the aforementioned arduino, but I am considering a control board like the BigTreeTech Manta M8P. What I am worried about is not getting something working, but rather making something safe, because I have close to zero knowledge about noise, power leaks, overheating protection and so on. I am looking to make a small, compact, precise robot. Payload does not need to be large. I believe I need: PSU Steppers Control board Joints of various sorts, I can make these Cable management IK software What would be the safest, less error prone way to continue?
+
+2h ago
+
+---
+
+**[Are there any sensor can be used without gps?](https://www.reddit.com/r/robotics/comments/1rik464/are_there_any_sensor_can_be_used_without_gps/)**
+
+Does anyone has used the visio? I'm currently building a drone that does not use gps and relies completely on the other sensors.l found this product, but l haven't used it before.l couldn't find much information on the internet nor any documentation.Any advice would be greatly appreciated. The following picture shows the details of the visio.
+
+6h ago
+
+---
+
 **[4.1ms VLA inference without Transformers - reaction diffusion as a drop in attention replacement](https://www.reddit.com/r/robotics/comments/1ri5gb4/41ms_vla_inference_without_transformers_reaction/)**
 
-15h ago
+16h ago
 
 ---
 
@@ -80,7 +94,7 @@ Arms are officially mounted to the chest 🙌 Upper body is coming together, now
 
 Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics Club. One of the speakers this evening will be a **TU Delft alumni**, Akshay, a Robotics Engineer at https://www.senseglove.com During the session Akshay will highlight their latest telerobotic glove, the R1. "Currently the only active force-feedback exoskeleton glove on the market designed specifically for teleoperation and imitation learning." Feel free to share the event with people who might be interested, also in DeltaQuad. **As the company is hiring.** 😉 **Please sign up here, so we know how many people to expect:** **https://luma.com/kpezkm8m\*\*
 
-14h ago
+15h ago
 
 ---
 
@@ -90,29 +104,31 @@ Thursday March 5th DeltaQuad Drones will be hosting for the Amsterdam's Robotics
 
 ---
 
-**[DIY Robot Buddy](https://www.reddit.com/r/robotics/comments/1rherur/diy_robot_buddy/)**
-
-1d ago
-
----
-
-**[Phantom omni 20 year old haptic device](https://www.reddit.com/r/robotics/comments/1rhy5z3/phantom_omni_20_year_old_haptic_device/)**
-
-Got this device used for 100 euros. Needed to buy some special cables and firewire pcie card for pc. After installing some legacy drivers and tinkering around got it working. Repo of our python API for arm control using phantom omni: https://github.com/PCrnjak/Source-Robotics-Phantom-Omni
-
-🔗 [youtube.com](https://youtube.com/shorts/J0PnHiqWKGY) • 20h ago
-
----
-
 ---
 
 ## Google News: "robotics"
+
+**[Google wants Intrinsic to be 'Android of robotics' as it pushes into physical AI](https://www.cnbc.com/2026/02/28/google-wants-intrinsic-to-be-android-for-robots-moves-into-physical-ai.html)**
+
+In folding its Intrinsic project into the main company and out of "Other Bets," Google is aiming to mimic its Android strategy for robots.
+
+CNBC • 1d ago
+
+---
 
 **[BMW Group to deploy humanoid robots in production in Germany for the first time](https://www.press.bmwgroup.com/global/article/detail/T0455864EN/bmw-group-to-deploy-humanoid-robots-in-production-in-germany-for-the-first-time?language=en)**
 
 +++ BMW Group bringing Physical AI to Europe +++ Pilot project at BMW Group Plant Leipzig +++ New “Center of Competence for Physical AI in Production” accelerates global integration of AI and robotics in production +++ First pilot deployment of humanoid robots successfully completed at BMW Group Plant Spartanburg, USA +++
 
 BMW Group • 2d ago
+
+---
+
+**[China releases first humanoid robot standard system to support long-term growth](https://www.globaltimes.cn/page/202603/1356007.shtml)**
+
+China has officially released its inaugural top-level design for the humanoid robot and embodied artificial intelligence (AI) standard system, covering the entire industrial chain and life cycle, CCTV News reported on Sunday, noting that this milestone marks a transition into a new phase of standardized and collaborative development for the sector.
+
+Global Times • 1d ago
 
 ---
 
@@ -124,19 +140,11 @@ Financial Times • 2d ago
 
 ---
 
-**[China releases first humanoid robot standard system to support long-term growth](https://www.globaltimes.cn/page/202603/1356007.shtml)**
+**[BMW Deploys Humanoid Robots in Europe for the First Time](https://www.bmwblog.com/2026/02/27/bmw-humanoid-robots-leipzig-europe-pilot/)**
 
-China has officially released its inaugural top-level design for the humanoid robot and embodied artificial intelligence (AI) standard system, covering the entire industrial chain and life cycle, CCTV News reported on Sunday, noting that this milestone marks a transition into a new phase of standardized and collaborative development for the sector.
+BMW is deploying humanoid robots at its Leipzig plant for the first time in Europe. Here's what the pilot involves and what it means for the future of car production.
 
-Global Times • 23h ago
-
----
-
-**[Former Delivery Drivers Are Getting Weird New Jobs as Delivery Robots Take Over](https://futurism.com/robots-and-machines/robot-wranglers)**
-
-Drivers across the US are being upstaged by cutsey delivery robots as companies like Coco and Serve Robotics expand their operations.
-
-Futurism • 15h ago
+BMW Blog • 2d ago
 
 ---
 
@@ -144,7 +152,7 @@ Futurism • 15h ago
 
 Honor debuted a Robot Phone on Sunday at the Mobile World Congress as it looks to stand out from rivals like Samsung and Apple in the smartphone market.
 
-CNBC • 20h ago
+CNBC • 21h ago
 
 ---
 
@@ -152,7 +160,7 @@ CNBC • 20h ago
 
 The words “robots at work” now line the concrete floor of a three-story warehouse in Hazelwood, where machines on Friday built Lego sets, whizzed...
 
-Pittsburgh Post-Gazette • 11h ago
+Pittsburgh Post-Gazette • 12h ago
 
 ---
 
@@ -162,23 +170,17 @@ Tech Xplore • 2d ago
 
 ---
 
-**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfqie_ZMK0ZZNjqzHthpGW3c3kGhs5A0fUBgRNIy0Pr1hneTkY43hQa&gaa_ts=69a56150&gaa_sig=BK68EhwOYoTYt0dzp6SqAhYUICr8KHmKyvlKecrs7rGOBzYDqC_mVMzVg36IyQkf4-KiuLDT0ow0qN0D6bYMlA%3D%3D)**
+**[Exclusive | Crypto Firm Paradigm to Expand Into AI, Robotics With New Fund](https://www.wsj.com/articles/crypto-firm-paradigm-to-expand-into-ai-robotics-with-new-fund-15d22182?gaa_at=eafs&gaa_n=AWEtsqfddVHyrtMZieCyd9MQ8YJyDh1CeEF8HYS-Aj5BYC6VNNZRw8bTWzwY&gaa_ts=69a578e0&gaa_sig=7-b3-uN8WSKBwIoupSTl2JUYjobID8SOtEFd3fRHuXXz05By0NlNHGs7meNDCdpFaHG4RJfAHBdoplVfa3hAkQ%3D%3D)**
 
 WSJ • 2d ago
 
 ---
 
-**[Featured video: Coding for underwater robotics](https://news.mit.edu/2026/featured-video-coding-underwater-robotics-0227)**
+**[A new delivery bot is coming to L.A., built stronger to survive in these streets](https://www.latimes.com/business/story/2026-02-28/new-generation-of-delivery-robots-is-coming-to-l-a-built-bigger-stronger)**
 
-Drawn by the chance to tackle new problems and cutting-edge algorithm development, Ivy Mahncke undertook an internship with MIT Lincoln Laboratory, developing an algorithm that would help a human diver and robotic vehicle navigate underwater.
+Coco Robotics launched a new generation of delivery bots
 
-MIT News • 2d ago
-
----
-
-**[Hyundai Motor to Invest $6.3 Billion in AI, Robotics Center](https://www.bloomberg.com/news/articles/2026-02-27/hyundai-motor-to-invest-6-3-billion-in-ai-robotics-center)**
-
-Bloomberg.com • 3d ago
+Los Angeles Times • 2d ago
 
 ---
 
