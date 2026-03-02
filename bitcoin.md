@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-02T07:52:56.877947+00:00'
+updated: '2026-03-02T08:49:19.884064+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
 - videos
-- cryptocurrency
 - news
 - social
+- cryptocurrency
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 02, 2026 at 07:52 UTC  
+**Last Updated:** March 02, 2026 at 08:49 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,17 +38,17 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $66,783.70
+### $65,893.08
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.3%  
-**7d:** +3.4%  
-**30d:** -13.9%  
-**90d:** -29.4%  
-**1y:** -23.3%  
+**24h:** -0.6%  
+**7d:** +3.1%  
+**30d:** -14.2%  
+**90d:** -29.6%  
+**1y:** -23.5%  
 
 ---
 
@@ -81,19 +81,19 @@ Rank #1
 
 It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
 
-6h ago
-
----
-
-**[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
-
-12h ago
+7h ago
 
 ---
 
 **[They will stay forever angry](https://www.reddit.com/r/Bitcoin/comments/1riadhx/they_will_stay_forever_angry/)**
 
-9h ago
+10h ago
+
+---
+
+**[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
+
+13h ago
 
 ---
 
@@ -101,7 +101,7 @@ It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 tha
 
 Hit .70 btc….Endless schloggggg to 1.
 
-11h ago
+12h ago
 
 ---
 
@@ -109,7 +109,7 @@ Hit .70 btc….Endless schloggggg to 1.
 
 I'm pretty new to Crypto and honestly I always get lost in the sauce when it comes to the Crypto market because of the thousands of coins, projects, and so on. Not looking for financial advice of course but just trying to understand whats the criteria you guys takes when you want to 'invest' in some crypto/project. Or should I go straight into BTC. Buy and forget. And become a holder?
 
-5h ago
+6h ago
 
 ---
 
@@ -117,7 +117,7 @@ I'm pretty new to Crypto and honestly I always get lost in the sauce when it com
 
 Feels like that's what's happening right now.
 
-10h ago
+11h ago
 
 ---
 
@@ -125,7 +125,7 @@ Feels like that's what's happening right now.
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-16h ago
+17h ago
 
 ---
 
@@ -133,7 +133,7 @@ I often see people criticizing Bitcoin, and many times, these are people who wer
 
 I kept running into the same problem where someone in my life would ask me about Bitcoin, and I'd have nowhere good to send them. Everything I found was either too technical ("here's how SHA-256 works"), too salesy ("buy now before it's too late"), or just a wall of text that a normal person would close after 30 seconds. I'm personally passionate about Bitcoin and believe that broader adoption is a genuinely good thing for the world. That's what motivated me to build this. My goal is to make it easier for normal people to understand what Bitcoin actually is and why it matters. So I built my own intro page. It's an interactive walkthrough that tries to explain why Bitcoin exists before getting into how it works. A few things it does differently: Starts with inflation, not blockchain. Most people don't care about the technology until they understand the problem it solves. Shows the 21 million cap as a counter instead of just stating it. You watch the number lock at 21,000,000 and it clicks differently than reading it in a paragraph. Has a network visualization where you can click to remove nodes and watch the network route around them. Makes decentralization intuitive instead of abstract. Compares Bitcoin to traditional assets in a side-by-side table. Compares international payments with multiple intermediaries to Bitcoin peer-to-peer. I built this because I think Bitcoin's biggest barrier isn't complexity. It's that most explanations are written for people who already get it. This one is written for your skeptical friend, your curious parent, or someone who keeps hearing about it but doesn't know where to start. Here it is: https://21vox.com/intro-to-bitcoin I'm sharing this because this community knows Bitcoin better than anyone, and I'd rather get torn apart here and make it better. What did I get wrong? What's missing? What would make this more useful as something you'd actually send to someone? Thanks in advance.
 
-7h ago
+8h ago
 
 ---
 
@@ -141,13 +141,13 @@ I kept running into the same problem where someone in my life would ask me about
 
 Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
 
-13h ago
+14h ago
 
 ---
 
-**[Daily Discussion, March 02, 2026](https://www.reddit.com/r/Bitcoin/comments/1ril1li/daily_discussion_march_02_2026/)**
+**[Mentor Monday, March 02, 2026: Ask all your bitcoin questions!](https://www.reddit.com/r/Bitcoin/comments/1rim4ut/mentor_monday_march_02_2026_ask_all_your_bitcoin/)**
 
-Please utilize this sticky thread for all general Bitcoin discussions! If you see posts on the front page or /r/Bitcoin/new which are better suited for this daily discussion thread, please help out by directing the OP to this thread instead. Thank you! If you don't get an answer to your question, you can try phrasing it differently or commenting again tomorrow. Please check the previous discussion thread for unanswered questions.
+Ask (and answer!) away! Here are the general rules: If you'd like to learn something, ask. If you'd like to share knowledge, answer. Any question about Bitcoin is fair game. And don't forget to check out /r/BitcoinBeginners You can sort by new to see the latest questions that may not be answered yet.
 
 1h ago
 
@@ -161,21 +161,7 @@ Please utilize this sticky thread for all general Bitcoin discussions! If you se
 
 At the iConnections conference in Miami this week, allocators signaled digital assets are now a core sleeve in alternatives.
 
-CoinDesk • 14h ago
-
----
-
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqdCRKGTZqpawVSj_qiWkGmadC22v0kXOu0ggT881n9iniy5FhIewBFj&gaa_ts=69a5389f&gaa_sig=wc4aSDiJtdNfli4iVOvDrrv7L27vvOO9RNI7dlDdnN55SnThIWE6QsDkiTWoOe8oJSODFUVuVUXBvto_VjiNbw%3D%3D)**
-
-Barron's • 2d ago
-
----
-
-**[ETH, SOL, XRP price news: What next as majors surge 10% to recover war-driven losses](https://www.coindesk.com/markets/2026/03/01/ether-solana-xrp-surge-up-to-10-as-majors-recover-saturday-s-war-driven-losses)**
-
-Solana led major tokens with a 10.8% bounce, while ether reclaimed $2,000 and bitcoin climbed back above $66,800 ahead of traditional futures opens on Sunday.
-
-CoinDesk • 1d ago
+CoinDesk • 15h ago
 
 ---
 
@@ -187,11 +173,17 @@ The Motley Fool • 1d ago
 
 ---
 
-**[Bitcoin at $150,000 by 2026? Prediction Markets Are Skeptical -- Long-Term Investors Should Pay Attention to the Odds.](https://finance.yahoo.com/news/bitcoin-150-000-2026-prediction-032000282.html)**
+**[Bitcoin, Ethereum, XRP Fall. Curious Crypto Trading Means This for Markets.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-cryptos-us-iran-conflict-33031e37?gaa_at=eafs&gaa_n=AWEtsqeWihyRAmmredsoFt_nRqEal_h6iuRFN7vU1pfmRnnX-ibooOUfCvwT&gaa_ts=69a55277&gaa_sig=KUDNj42sWu2B4KYF93huqmedAWARQdNbHx6zmyuaLV2D-SbrU0jqcnUG3ZVUcq1bOBRck_Eh_BBOcxUm9T_CUQ%3D%3D)**
 
-Think Bitcoin could more than double this year? Don't bet on it.
+Barron's • 22m ago
 
-Yahoo Finance • 4h ago
+---
+
+**[ETH, SOL, XRP price news: What next as majors surge 10% to recover war-driven losses](https://www.coindesk.com/markets/2026/03/01/ether-solana-xrp-surge-up-to-10-as-majors-recover-saturday-s-war-driven-losses)**
+
+Solana led major tokens with a 10.8% bounce, while ether reclaimed $2,000 and bitcoin climbed back above $66,800 ahead of traditional futures opens on Sunday.
+
+CoinDesk • 1d ago
 
 ---
 
@@ -199,13 +191,29 @@ Yahoo Finance • 4h ago
 
 Record outflows indicate that institutional appetite for digital assets has collapsed.
 
-CoinDesk • 1h ago
+CoinDesk • 2h ago
+
+---
+
+**[If a Market Crash Hits in 2026, Will Gold, Silver, or Bitcoin Protect Your Wealth Best?](https://www.fool.com/investing/2026/03/02/if-a-market-crash-hits-in-2026-will-gold-silver-or/)**
+
+It's worth holding highly resilient assets, but some are better than others.
+
+The Motley Fool • 2h ago
 
 ---
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
 Bloomberg.com • 1d ago
+
+---
+
+**[How an Oil Shock Could Trigger Bitcoin’s Next Liquidity Selloff](https://finance.yahoo.com/news/oil-shock-could-trigger-bitcoin-180255226.html)**
+
+An oil shock from Strait of Hormuz tensions could tighten liquidity, lift Treasury yields, and trigger a Bitcoin liquidity selloff.
+
+Yahoo Finance • 14h ago
 
 ---
 
@@ -217,17 +225,11 @@ Fortune • 3d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772430000)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772437200)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
 Polymarket • 1d ago
-
----
-
-**[Bitcoin price today: slips to $66k as Middle East conflict sparks risk-off wave](https://www.investing.com/news/cryptocurrency-news/bitcoin-price-today-slips-to-66k-as-middle-east-conflict-sparks-riskoff-wave-4533596)**
-
-Investing.com • 5h ago
 
 ---
 
@@ -295,7 +297,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 1 • 💬 1 • 9h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 1 • 💬 1 • 10h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -317,7 +319,7 @@ War headlines are crushing markets and Bitcoin just dropped fast. But while ever
 
 📺 Simply Bitcoin
 
-👁️ 21K • 👍 2K • 💬 140 • ⏱️ 18:43 • 7h ago
+👁️ 21K • 👍 2K • 💬 140 • ⏱️ 18:43 • 8h ago
 
 ---
 
@@ -337,7 +339,7 @@ Make Free Predictions on Crypto, Finance, Politics & More on *ClashPicks* ▻ ht
 
 📺 CryptosRUs
 
-👁️ 9K • 👍 745 • 💬 75 • ⏱️ 9:16 • 5h ago
+👁️ 9K • 👍 745 • 💬 75 • ⏱️ 9:16 • 6h ago
 
 ---
 
@@ -357,7 +359,7 @@ Bitcoin #Crypto #Finance While retail investors panic over volatility, instituti
 
 📺 The Wolf Of All Streets
 
-👁️ 28K • 👍 1K • 💬 303 • ⏱️ 29:04 • 17h ago
+👁️ 28K • 👍 1K • 💬 303 • ⏱️ 29:04 • 18h ago
 
 ---
 
@@ -367,7 +369,7 @@ Click to join my group for MSTR, BTC investors https://www.skool.com/mstr/ Email
 
 📺 Ryan Hogue Investing
 
-👁️ 2K • 👍 160 • 💬 26 • ⏱️ 27:53 • 6h ago
+👁️ 2K • 👍 160 • 💬 26 • ⏱️ 27:53 • 7h ago
 
 ---
 
@@ -377,7 +379,7 @@ Bitcoin didn't top because of “manipulation.” But that doesn't mean manipula
 
 📺 Savvy Finance
 
-👁️ 5K • 👍 194 • 💬 18 • ⏱️ 21:22 • 15h ago
+👁️ 5K • 👍 194 • 💬 18 • ⏱️ 21:22 • 16h ago
 
 ---
 
@@ -405,7 +407,7 @@ Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc,
 
 📺 CryptoWendyO
 
-👁️ 8K • 👍 382 • 💬 5 • ⏱️ 1:00 • 5h ago
+👁️ 8K • 👍 382 • 💬 5 • ⏱️ 1:00 • 6h ago
 
 ---
 
