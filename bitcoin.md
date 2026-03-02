@@ -3,22 +3,22 @@ title: Bitcoin Dashboard
 description: Live Bitcoin monitoring dashboard
 category: crypto
 page_id: bitcoin
-updated: '2026-03-01T23:47:43.239881+00:00'
+updated: '2026-03-02T02:11:22.215907+00:00'
 url: https://peekdeck.ruidiao.dev/bitcoin.html
 markdown_url: https://peekdeck.ruidiao.dev/bitcoin.md
 widgets: 8
 data_types:
-- cryptocurrency
-- news
 - videos
+- cryptocurrency
 - social
+- news
 ---
 
 # Bitcoin Dashboard
 
 Live Bitcoin monitoring dashboard
 
-**Last Updated:** March 01, 2026 at 23:47 UTC  
+**Last Updated:** March 02, 2026 at 02:11 UTC  
 **HTML Version:** [bitcoin.html](https://peekdeck.ruidiao.dev/bitcoin.html)
 
 ---
@@ -38,56 +38,56 @@ Live Bitcoin monitoring dashboard
 
 ## Bitcoin Price
 
-### $65,243.02
+### $66,549.57
 
 ---
 
 ## Bitcoin Chart
 
-**24h:** -1.6%  
-**7d:** +1.6%  
-**30d:** -16.6%  
-**90d:** -28.2%  
-**1y:** -30.4%  
+**24h:** -2.1%  
+**7d:** +3.2%  
+**30d:** -14.3%  
+**90d:** -29.6%  
+**1y:** -23.6%  
 
 ---
 
 ## Bitcoin Market Stats
 
-**Market Cap:** $1315.71B
+**Market Cap:** $1324.41B
 Rank #1
 
-**Circulating Supply:** 19,996,587 BTC
+**Circulating Supply:** 19,996,656 BTC
 95.2% of max
 
 **All-Time High:** $126,080.00
--47.9%
+-47.5%
 
 **All-Time Low:** $67.81
-+96814.9%
++97512.4%
 
 ---
 
 ## Fear & Greed Index
 
-### 14
+### 10
 **EXTREME FEAR**
 
 ---
 
 ## Reddit: r/Bitcoin
 
-**[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
+**[Finally obtained a full BTC](https://www.reddit.com/r/Bitcoin/comments/1rif1gr/finally_obtained_a_full_btc/)**
 
-4h ago
+It’s been a crazy journey but I’ve finally acquired 1 full BTC before 21 thanks to my lineman job! I wanna keep stacking the sats but maybe it’s time to diversify the portfolio a little lol. About 80% of my net worth is in BTC. Don’t really wanna brag about my accomplishment to anyone I know personally so I figured I’d post it on here. Only downside is it’s been - gains as of right now. Don’t really know what future goals to set financially now.
+
+1h ago
 
 ---
 
-**[The 20 millionth Bitcoin gets mined in 2 weeks. Is anyone else thinking about what comes after?](https://www.reddit.com/r/Bitcoin/comments/1ri99w7/the_20_millionth_bitcoin_gets_mined_in_2_weeks_is/)**
+**[Inflation is worse than most people hope for, while Bitcoin is better than most people think](https://www.reddit.com/r/Bitcoin/comments/1ri64md/inflation_is_worse_than_most_people_hope_for/)**
 
-Everyone's focused on the price crash right now. Meanwhile in 2 weeks the 20 millionth Bitcoin gets mined quietly with zero fanfare. 95% of all Bitcoin that will ever exist already exists. The remaining 1 million takes 114 years to distribute. And somewhere between 2-4 million are already gone forever — lost wallets, dead hard drives, forgotten keys. So the real number isn't even 20 million. It's closer to 16-17 million. Held by maybe 50-100 million people worldwide. What gets me is the timing. People panic selling at $63K while one of the most significant supply milestones in Bitcoin history approaches in literally 14 days. Anyone else find it wild that this isn't the biggest story in crypto right now?
-
-2h ago
+6h ago
 
 ---
 
@@ -95,7 +95,7 @@ Everyone's focused on the price crash right now. Meanwhile in 2 weeks the 20 mil
 
 I often see people criticizing Bitcoin, and many times, these are people who were told about Bitcoin when it was worth $100, $1,000, or $10,000. People who could have bought it and changed their lives forever, lived like kings. But they missed out, and now they CAN'T STAND Bitcoin. Their brains put them in defense mode, thinking, "It's a scam that will go down to zero," because they can't accept that they messed up. Poor people... they could buy Bitcoin today and become wealthy in 5-10 years, but their brains won't let them...
 
-8h ago
+10h ago
 
 ---
 
@@ -103,7 +103,7 @@ I often see people criticizing Bitcoin, and many times, these are people who wer
 
 Hit .70 btc….Endless schloggggg to 1.
 
-3h ago
+5h ago
 
 ---
 
@@ -111,7 +111,7 @@ Hit .70 btc….Endless schloggggg to 1.
 
 Feels like that's what's happening right now.
 
-2h ago
+4h ago
 
 ---
 
@@ -119,7 +119,23 @@ Feels like that's what's happening right now.
 
 Is it time to buy Bitcoin? Share some advice and suggest promising assets similar to Bitcoin.
 
-5h ago
+7h ago
+
+---
+
+**[Built a free interactive intro to Bitcoin for the non-technical people in my life, looking for feedback](https://www.reddit.com/r/Bitcoin/comments/1riei27/built_a_free_interactive_intro_to_bitcoin_for_the/)**
+
+I kept running into the same problem where someone in my life would ask me about Bitcoin, and I'd have nowhere good to send them. Everything I found was either too technical ("here's how SHA-256 works"), too salesy ("buy now before it's too late"), or just a wall of text that a normal person would close after 30 seconds. I'm personally passionate about Bitcoin and believe that broader adoption is a genuinely good thing for the world. That's what motivated me to build this. My goal is to make it easier for normal people to understand what Bitcoin actually is and why it matters. So I built my own intro page. It's an interactive walkthrough that tries to explain why Bitcoin exists before getting into how it works. A few things it does differently: Starts with inflation, not blockchain. Most people don't care about the technology until they understand the problem it solves. Shows the 21 million cap as a counter instead of just stating it. You watch the number lock at 21,000,000 and it clicks differently than reading it in a paragraph. Has a network visualization where you can click to remove nodes and watch the network route around them. Makes decentralization intuitive instead of abstract. Compares Bitcoin to traditional assets in a side-by-side table. Compares international payments with multiple intermediaries to Bitcoin peer-to-peer. I built this because I think Bitcoin's biggest barrier isn't complexity. It's that most explanations are written for people who already get it. This one is written for your skeptical friend, your curious parent, or someone who keeps hearing about it but doesn't know where to start. Here it is: https://21vox.com/intro-to-bitcoin I'm sharing this because this community knows Bitcoin better than anyone, and I'd rather get torn apart here and make it better. What did I get wrong? What's missing? What would make this more useful as something you'd actually send to someone? Thanks in advance.
+
+1h ago
+
+---
+
+**[Dca and hodl](https://www.reddit.com/r/Bitcoin/comments/1rhv15d/dca_and_hodl/)**
+
+Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
+
+14h ago
 
 ---
 
@@ -131,25 +147,9 @@ Citi: Launching Bitcoin custody, wallet & key management to integrate BTC into t
 
 ---
 
-**[Dca and hodl](https://www.reddit.com/r/Bitcoin/comments/1rhv15d/dca_and_hodl/)**
-
-Thoughts on buying 250 usd worth of bitcoin every week for the next couple of years and if you could buy more per week how much would be a good amount between 250-500usd per week for long term growth if there was 0% chance of panic selling and had no problem losing it all
-
-12h ago
-
----
-
 **[Study Bitcoin in 2026](https://www.reddit.com/r/Bitcoin/comments/1rhho5b/study_bitcoin_in_2026/)**
 
 1d ago
-
----
-
-**[The FED](https://www.reddit.com/r/Bitcoin/comments/1ri29jc/the_fed/)**
-
-Every day I think about how the Fed is going to carry on forever doing what it is designed to do: a bunch of emotional humans trying to “manage inflation” by printing money out of thin air, in an ever changing political landscape which it claims to be separate from (but we all know it’s not). And I feel my b hole clench up. And then I think about Bitcoin in contrast, and how it’s going to carry on printing a new block every 10 minutes for the rest of our lives. And I have a sigh of relief. 🥲
-
-6h ago
 
 ---
 
@@ -157,11 +157,11 @@ Every day I think about how the Fed is going to carry on forever doing what it i
 
 ## Google News: "bitcoin"
 
-**[Bitcoin news: Elon Musk's SpaceX’s $780 million bitcoin stack now down to about $545 million ahead of IPO filing](https://www.coindesk.com/markets/2026/03/01/spacex-s-usd780-million-bitcoin-stack-now-down-to-about-usd545-million-ahead-of-ipo-filing)**
+**[Institutional crypto interest rebounds even as Bitcoin (BTC) falls 25%](https://www.coindesk.com/business/2026/03/01/bitcoin-losing-trillions-in-value-hasn-t-stopped-traditional-giants-interest-in-digital-assets-sector)**
 
-The company holds about 8,285 bitcoin in Coinbase Prime custody, a stake now worth roughly $545 million after a $235 million decline in value over the past three months.
+At the iConnections conference in Miami this week, allocators signaled digital assets are now a core sleeve in alternatives.
 
-CoinDesk • 10h ago
+CoinDesk • 9h ago
 
 ---
 
@@ -169,7 +169,7 @@ CoinDesk • 10h ago
 
 Bitcoin investors may soon forget the recent correction.
 
-The Motley Fool • 21h ago
+The Motley Fool • 23h ago
 
 ---
 
@@ -177,21 +177,21 @@ The Motley Fool • 21h ago
 
 Eric Trump, co-founder and Chief Strategy Officer of American Bitcoin Corp. (NASDAQ:ABTC), said Thursday that the company’s core long-term strategy is to increase Bitcoin (CRYPTO: BTC) on its balance sheet. ‘We Believe In Bitcoin In The Long Term’ During American...
 
-Yahoo Finance • 16m ago
+Yahoo Finance • 2h ago
 
 ---
 
-**[Crypto News: Pepeto Announces $7.39M Presale Fast As Bitcoin Targets $250,000 And Ethereum Targets $6,000 After The Death Of Khamenei](https://markets.businessinsider.com/news/stocks/crypto-news-pepeto-announces-7-39m-presale-fast-as-bitcoin-targets-250-000-and-ethereum-targets-6-000-after-the-death-of-khamenei-1035882492)**
+**[New Crypto Ethereum Based: Pepeto Unveils $7.391M Presale Milestone as XRP News Make Waves and Bitcoin Target $150,000 This Year](https://markets.businessinsider.com/news/stocks/new-crypto-ethereum-based-pepeto-unveils-7-391m-presale-milestone-as-xrp-news-make-waves-and-bitcoin-target-150-000-this-year-1035882544)**
 
-Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- Pepeto announces that it has raised over $7.391 million and the allocation is disappearing faster...
+Dubai, UAE, March  01, 2026  (GLOBE NEWSWIRE) -- New crypto Ethereum based Pepeto just crossed $7.391 million raised in presale funding and demand...
 
-markets.businessinsider.com • 3h ago
+markets.businessinsider.com • 2h ago
 
 ---
 
 **[Bitcoin Slides Below $64,000 After Explosions Reported in Tehran](https://www.bloomberg.com/news/articles/2026-02-28/bitcoin-slides-below-64-000-after-explosions-reported-in-tehran-mm60ajtz)**
 
-Bloomberg.com • 20h ago
+Bloomberg.com • 23h ago
 
 ---
 
@@ -203,19 +203,11 @@ Fortune • 3d ago
 
 ---
 
-**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772380800)**
+**[Bitcoin Up or Down - 5 Minutes Predictions & Odds](https://polymarket.com/event/btc-updown-5m-1772412600)**
 
 Bitcoin Up or Down - 5 Minutes (Resolved): View final results and past odds on The World's Largest Prediction Market™
 
-Polymarket • 3h ago
-
----
-
-**[2023 Bitcoin Bottom Signal Flashes Again as Macro Shifts](https://bitbo.io/news/bitcoin-bottom-signal-macro/)**
-
-A 2023-style bottom signal has reappeared for bitcoin, but analysts say weaker liquidity, ETF flow trends, and sticky inflation could limit a repeat of last cycle’s 130% rebound.
-
-Bitbo • 1d ago
+Polymarket • 1d ago
 
 ---
 
@@ -225,9 +217,17 @@ Cleveland.com • 1d ago
 
 ---
 
-**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqcv4xyzHaeP1rEFs9doD7y6PCCA_gishvkqgUmkcoFk0YBYnJrQ6XuD&gaa_ts=69a4d388&gaa_sig=x7zGGqh5o9Qk5POgLbx9-SSf698BKzw0a4MzrsH4VOJrTTxAKPGKgrtp-IiJNHgF3pdBVt5C-tbKEO0P_TIhHA%3D%3D)**
+**[Bitcoin, Ethereum, XRP Fall as Cryptos Unwind Gains. Blame Nvidia.](https://www.barrons.com/articles/bitcoin-ethereum-xrp-crypto-nvidia-f093b2bd?gaa_at=eafs&gaa_n=AWEtsqc7jczrEkpueVC5mtUAVWFjBO0uF6QmDDVd9jI_vybrrgPfUfNkGs0b&gaa_ts=69a4f533&gaa_sig=go6YK9pvu5rzhXtObtrUI98Am65I0xQ_9mQrLKUr9yT-V4XpC41zuznZeAyVELDpvgMiTPZqftjJ6P96DrRsPQ%3D%3D)**
 
 Barron's • 2d ago
+
+---
+
+**[Someone invested over $7,000 into Bitcoin 14 years ago and what it's worth now is almost incomprehensible](https://supercarblondie.com/tech/7000-invested-bitcoin-14-years-ago-value-now/)**
+
+Someone who invested a little over $7,000 into Bitcoin, or BTC, let their money grow for 14 years, before cashing it out for an incredible amount
+
+supercarblondie.com • 15h ago
 
 ---
 
@@ -253,7 +253,7 @@ Starknet SDK for seamless wallet integration. Contribute to keep-starknet-strang
 
 One critic replied simply "go away."
 
-⬆️ 4 • 💬 0 • 11h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
+⬆️ 4 • 💬 0 • 14h ago • [Gizmodo](https://gizmodo.com/disgraced-mt-gox-ceo-suggests-bitcoin-hard-fork-to-recover-5-billion-in-customer-funds-2000728118)
 
 ---
 
@@ -287,7 +287,7 @@ Links to major crypto world figures are just the start.
 
 Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Street halted a suspected 10 a.m. selling strategy.
 
-⬆️ 2 • 💬 0 • 3d ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
+⬆️ 2 • 💬 0 • 4d ago • [CCN.com](https://www.ccn.com/news/crypto/no-10-am-btc-dump-bitcoin-price-rallies-as-jane-street-trading-draws-attention/)
 
 ---
 
@@ -295,7 +295,7 @@ Bitcoin rose nearly 3% to $65,000 after social media speculation that Jane Stree
 
 The lost wisdom of Satoshi Nakamoto. Every quote is real.* (*none of them are real)
 
-⬆️ 1 • 💬 1 • 59m ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
+⬆️ 1 • 💬 1 • 3h ago • [satoshisaidwhat.com](https://satoshisaidwhat.com)
 
 ---
 
@@ -317,7 +317,7 @@ Bitcoin #Crypto #Finance While retail investors panic over volatility, instituti
 
 📺 The Wolf Of All Streets
 
-👁️ 21K • 👍 869 • 💬 216 • ⏱️ 29:04 • 9h ago
+👁️ 25K • 👍 937 • 💬 286 • ⏱️ 29:04 • 12h ago
 
 ---
 
@@ -327,7 +327,7 @@ Bitcoin just dropped after Trump raised global tariffs to 15 percent, and panic 
 
 📺 Simply Bitcoin
 
-👁️ 22K • 👍 1K • 💬 194 • ⏱️ 19:16 • 23h ago
+👁️ 23K • 👍 2K • 💬 176 • ⏱️ 19:16 • 1d ago
 
 ---
 
@@ -337,7 +337,17 @@ Bitcoin #Crypto #Finance Is the Bitcoin four-year cycle officially dead or are w
 
 📺 The Wolf Of All Streets
 
-👁️ 31K • 👍 1K • 💬 293 • ⏱️ 26:57 • 1d ago
+👁️ 32K • 👍 1K • 💬 297 • ⏱️ 26:57 • 1d ago
+
+---
+
+**[&quot;GET READY! Bitcoin&#39;s About to Pull the Surprise of the Year&quot; - Tom Lee](https://www.youtube.com/watch?v=VvVxD4aXBqY)**
+
+Bitcoin didn't top because of “manipulation.” But that doesn't mean manipulation isn't part of the story. In this video, we break ...
+
+📺 Savvy Finance
+
+👁️ 4K • 👍 175 • 💬 16 • ⏱️ 21:22 • 9h ago
 
 ---
 
@@ -347,7 +357,7 @@ BUY THE invasion usually plays out in the short term, but in the LONG term it is
 
 📺 Digital Asset News
 
-👁️ 5K • 👍 429 • 💬 26 • ⏱️ 32:26 • 5h ago
+👁️ 6K • 👍 469 • 💬 28 • ⏱️ 32:26 • 8h ago
 
 ---
 
@@ -357,27 +367,17 @@ Raoul Pal just DESTROYED the 2026 bear market narrative in the most devastating 
 
 📺 Money Talks
 
-👁️ 7K • 👍 138 • 💬 50 • ⏱️ 14:26 • 1d ago
+👁️ 8K • 👍 142 • 💬 31 • ⏱️ 14:26 • 1d ago
 
 ---
 
-**[Trump Iran Strike Just Flash Crashed Bitcoin - What Comes Next?](https://www.youtube.com/watch?v=_r0SlQwQ9wk)**
+**[Fidelity’s $1 BILLION Bitcoin Model Explained](https://www.youtube.com/watch?v=oAQ5WuyjRi8)**
 
-Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
+Full uncensored livestream daily on Rumble: https://rumble.com/c/BitcoinNewsAlerts X Follow me: https://x.com/BTCNewsAlerts ...
 
-📺 Altcoin Daily
+📺 Bitcoin News Alerts
 
-👁️ 33K • 👍 2K • 💬 342 • ⏱️ 36:35 • 1d ago
-
----
-
-**[IRAN STRIKES DUMP BITCOIN: Why the &quot;Smart Money&quot; is Buying Now 📈](https://www.youtube.com/watch?v=vQeBcL94LSs)**
-
-Geopolitical fear is gripping the markets. News of military strikes in Iran sent crypto plunging overnight—but while retail investors ...
-
-📺 Gareth Soloway
-
-👁️ 82K • 👍 5K • 💬 733 • ⏱️ 12:42 • 1d ago
+👁️ 537 • 👍 61 • 💬 39 • ⏱️ 26:27 • 3h ago
 
 ---
 
@@ -387,27 +387,27 @@ IMPORTANT DISCLAIMER ⚠️ This video is for educational and entertainment purp
 
 📺 The Kenzo Guy
 
-👁️ 345 • 👍 43 • 💬 2 • ⏱️ 29:40 • 2h ago
+👁️ 920 • 👍 83 • 💬 7 • ⏱️ 29:40 • 4h ago
 
 ---
 
-**[How Wall Street Took Over Bitcoin](https://www.youtube.com/watch?v=JJwwVcdHlV0)**
+**[Bitcoin Going to $35k - TA Expert Says Crash Is Just Getting Started | Jason Pizzino](https://www.youtube.com/watch?v=_r0SlQwQ9wk)**
 
-How Wall Street Took Over Bitcoin ▻ My Stock Portfolio + Tracker https://www.funvest.com ▻ How To Protect Your Bitcoin, use ...
+Follow Jason: https://www.youtube.com/@JasonPizzinoOfficial ✓ Bitunix (no kyc, $20, $10k bonus): ...
 
-📺 Andrei Jikh
+📺 Altcoin Daily
 
-👁️ 649K • 👍 21K • 💬 2K • ⏱️ 18:56 • 2d ago
+👁️ 34K • 👍 2K • 💬 284 • ⏱️ 36:35 • 1d ago
 
 ---
 
-**[Oil, Crypto Set for Volatility After Iran Attack](https://www.youtube.com/watch?v=m9aCMgMZ308)**
+**[Why The Iran War is Distracting You From Bitcoin&#39;s RUN to $500K!](https://www.youtube.com/watch?v=Noxp6LNHTDI)**
 
-Oil and cryptocurrencies could see increased trading volatility after the death of Iran's supreme leader. 'Bloomberg This Weekend' ...
+War headlines are crushing markets and Bitcoin just dropped fast. But while everyone stares at red candles in dollars, Bitcoin ...
 
-📺 Bloomberg Podcasts
+📺 Simply Bitcoin
 
-👁️ 2K • 👍 27 • 💬 8 • ⏱️ 4:57 • 10h ago
+👁️ 6K • 👍 823 • 💬 67 • ⏱️ 18:43 • 2h ago
 
 ---
 
